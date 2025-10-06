@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Digest - Tech Weekly Digest</title>
+    <meta name="description" content="Your curated weekly roundup of tech news">
+    <meta property="og:title" content="Weekly Digest">
+    <meta property="og:description" content="Your curated weekly roundup of tech news">
+
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #7c3aed;
+            --accent: #10b981;
+            --text: #1f2937;
+            --text-light: #6b7280;
+            --bg: #ffffff;
+            --bg-secondary: #f9fafb;
+            --border: #e5e7eb;
+            --shadow: rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 40px 20px;
+            margin-bottom: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px var(--shadow);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.95;
+        }
+
+        /* Navigation */
+        nav {
+            background: var(--bg-secondary);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+
+        nav a:hover {
+            background: var(--primary);
+            color: white;
+        }
+
+        /* Content */
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px var(--shadow);
+        }
+
+        /* Typography */
+        h1, h2, h3, h4 {
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        h1 { font-size: 2.2rem; margin-top: 0; }
+        h2 { 
+            font-size: 1.8rem; 
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        h3 { font-size: 1.4rem; color: var(--primary); }
+        h4 { font-size: 1.1rem; }
+
+        p {
+            margin-bottom: 15px;
+            color: var(--text);
+        }
+
+        a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 15px 0 15px 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            box-shadow: 0 2px 5px var(--shadow);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        tr:hover {
+            background: var(--bg-secondary);
+        }
+
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            border-top: 2px solid var(--border);
+            margin: 40px 0;
+        }
+
+        /* Special Elements */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--primary);
+            color: white;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-right: 8px;
+        }
+
+        .insight {
+            background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+            border-left: 4px solid var(--primary);
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            font-style: italic;
+        }
+
+        .star {
+            color: #fbbf24;
+            font-size: 1.2rem;
+        }
+
+        /* Code blocks */
+        code {
+            background: var(--bg-secondary);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+
+        pre {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-light);
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+
+        footer a {
+            color: var(--primary);
+        }
+
+        .timestamp {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            margin-bottom: 10px;
+        }
+
+        /* Category cards */
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .category-card {
+            background: white;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s;
+            text-decoration: none;
+            color: var(--text);
+            display: block;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px var(--shadow);
+            border-color: var(--primary);
+        }
+
+        .category-card h3 {
+            margin-top: 0;
+            color: var(--primary);
+        }
+
+        .category-card .count {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin: 10px 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 1.8rem; }
+            .container { padding: 10px; }
+            nav { flex-direction: column; }
+            .content { padding: 20px; }
+            .category-grid { grid-template-columns: 1fr; }
+        }
+
+        /* Loading animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .content {
+            animation: fadeIn 0.5s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Tech Weekly Digest</h1>
+            <p class="subtitle">AI, Hardware & Edge Computing News</p>
+        </header>
+
+        <nav>
+            <a href="index.html">🏠 Home</a>
+            <a href="3d_printing.html">📰 3D Printing</a> <a href="weekly_master_report.html">📰 Full Digest</a> <a href="ai.html">📰 Ai</a> <a href="edge_ai.html">📰 Edge Ai</a> <a href="hardware.html">🔧 Hardware</a> <a href="machine_learning.html">🧠 Machine Learning</a> <a href="nvidia.html">📰 Nvidia</a> <a href="raspberry_pi.html">🍓 Raspberry Pi</a> <a href="rockchip.html">💎 Rockchip</a> <a href="semiconductors.html">⚡ Semiconductors</a> <a href="trends.html">📈 Trends</a>
+        </nav>
+
+        <div class="content">
+            <h1>🚀 Tech Weekly Digest</h1>
+<p><strong>Week of October 06, 2025</strong></p>
+<p>Your curated weekly roundup of the most important tech news in AI, hardware, and edge computing.</p>
+<hr />
+<h2>📈 This Week's Highlights</h2>
+<h3>1. BlackRock subsidiary buys up 78 data centers totaling 5 gigawatts in $40 billion deal   AI vendor Aligned added to company's portfolio ⭐⭐⭐</h3>
+<p><strong>🔧 Hardware</strong> | Importance: 9/10</p>
+<p>BlackRock's Global Infrastructure Partners is acquiring Aligned Data Centers for $40 billion, securing 78 data centers and a total capacity of 5 gigawatts. This significant investment represents a major move into the infrastructure supporting data and AI. Aligned Data Centers, an AI vendor, has been integrated into BlackRock's portfolio as part of the deal.</p>
+<p>💡 <strong>Key Takeaway:</strong> BlackRock's massive data center acquisition signals a major bet on AI infrastructure growth.</p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/blackrock-subsidiary-buys-up-78-data-centers-totaling-5-gigawatts-in-usd40-billion-deal-ai-vendor-aligned-added-to-companys-portfolio">Read Full Article</a></p>
+<hr />
+<h3>2. M5-powered iPad Pro breaks cover in GeekBench, scoring 4,133 in single-threaded tests matches M4 Max and beats every single-core PC chip score ⭐⭐⭐</h3>
+<p><strong>🔧 Hardware</strong> | Importance: 9/10</p>
+<p>The new M5-powered iPad Pro has achieved a remarkable 4,133 score in GeekBench's single-threaded tests, surpassing all PC CPUs and even matching the M4 Max. This impressive performance demonstrates the chip's power and signifies a significant leap in mobile computing. It’s a major development in the competitive landscape of processors.</p>
+<p>💡 <strong>Key Takeaway:</strong> The M5 iPad Pro’s benchmark score rivals high-end PCs, redefining mobile processor performance.</p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/m5-powered-ipad-pro-breaks-cover-in-geekbench-scoring-4-133-in-single-threaded-tests-matches-m4-max-and-beats-every-single-core-pc-chip-score">Read Full Article</a></p>
+<hr />
+<h3>3. BlackRock subsidiary buys up 78 data centers totaling 5 gigawatts in $40 billion deal   AI vendor Aligned added to company's portfolio ⭐⭐⭐</h3>
+<p><strong>📈 Trends</strong> | Importance: 9/10</p>
+<p>BlackRock's Global Infrastructure Partners is acquiring Aligned Data Centers for $40 billion, securing 78 data centers and a total capacity of 5 gigawatts. This significant investment represents a major move into the infrastructure supporting data and AI. Aligned Data Centers, an AI vendor, has been integrated into BlackRock's portfolio as part of the deal.</p>
+<p>💡 <strong>Key Takeaway:</strong> BlackRock’s massive data center acquisition signals a major bet on AI infrastructure.</p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/blackrock-subsidiary-buys-up-78-data-centers-totaling-5-gigawatts-in-usd40-billion-deal-ai-vendor-aligned-added-to-companys-portfolio">Read Full Article</a></p>
+<hr />
+<h3>4. M5-powered iPad Pro breaks cover in GeekBench, scoring 4,133 in single-threaded tests matches M4 Max and beats every single-core PC chip score ⭐⭐⭐</h3>
+<p><strong>📈 Trends</strong> | Importance: 9/10</p>
+<p>The new M5-powered iPad Pro has achieved a remarkable 4,133 score in GeekBench's single-threaded tests, surpassing all PC CPUs and even matching the M4 Max. This impressive performance demonstrates the chip's power and signifies a significant leap in mobile computing. It’s a major development in the competitive landscape of processors.</p>
+<p>💡 <strong>Key Takeaway:</strong> The M5 iPad Pro's benchmark score rivals and surpasses PC CPUs, revolutionizing mobile performance.</p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/m5-powered-ipad-pro-breaks-cover-in-geekbench-scoring-4-133-in-single-threaded-tests-matches-m4-max-and-beats-every-single-core-pc-chip-score">Read Full Article</a></p>
+<hr />
+<h3>5. BlackRock subsidiary buys up 78 data centers totaling 5 gigawatts in $40 billion deal   AI vendor Aligned added to company's portfolio ⭐⭐⭐</h3>
+<p><strong>🤖 AI</strong> | Importance: 9/10</p>
+<p>BlackRock's Global Infrastructure Partners is acquiring Aligned Data Centers for $40 billion, securing 78 data centers and a total capacity of 5 gigawatts. This significant investment represents a major move into the infrastructure supporting data and AI. Aligned Data Centers, an AI vendor, has been integrated into BlackRock's portfolio as part of the deal.</p>
+<p>💡 <strong>Key Takeaway:</strong> BlackRock’s massive data center purchase signals a major bet on AI infrastructure.</p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/blackrock-subsidiary-buys-up-78-data-centers-totaling-5-gigawatts-in-usd40-billion-deal-ai-vendor-aligned-added-to-companys-portfolio">Read Full Article</a></p>
+<hr />
+<h2>📊 By the Numbers</h2>
+<p>This week we covered <strong>263 articles</strong> across <strong>10 categories</strong>.</p>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Articles</th>
+<th>Top Score</th>
+<th>Highlights</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>📰 <a href="3d_printing.md">3D Printing</a></td>
+<td>1</td>
+<td>8/10</td>
+<td>1 high-priority</td>
+</tr>
+<tr>
+<td>🤖 <a href="ai.md">AI</a></td>
+<td>34</td>
+<td>9/10</td>
+<td>20 high-priority</td>
+</tr>
+<tr>
+<td>📡 <a href="edge_ai.md">Edge AI</a></td>
+<td>15</td>
+<td>9/10</td>
+<td>9 high-priority</td>
+</tr>
+<tr>
+<td>🔧 <a href="hardware.md">Hardware</a></td>
+<td>77</td>
+<td>9/10</td>
+<td>45 high-priority</td>
+</tr>
+<tr>
+<td>🧠 <a href="machine_learning.md">Machine Learning</a></td>
+<td>12</td>
+<td>8/10</td>
+<td>6 high-priority</td>
+</tr>
+<tr>
+<td>🎮 <a href="nvidia.md">NVIDIA</a></td>
+<td>8</td>
+<td>8/10</td>
+<td>6 high-priority</td>
+</tr>
+<tr>
+<td>🍓 <a href="raspberry_pi.md">Raspberry Pi</a></td>
+<td>5</td>
+<td>7/10</td>
+<td>2 high-priority</td>
+</tr>
+<tr>
+<td>💎 <a href="rockchip.md">Rockchip</a></td>
+<td>4</td>
+<td>7/10</td>
+<td>1 high-priority</td>
+</tr>
+<tr>
+<td>⚡ <a href="semiconductors.md">Semiconductors</a></td>
+<td>42</td>
+<td>9/10</td>
+<td>30 high-priority</td>
+</tr>
+<tr>
+<td>📈 <a href="trends.md">Trends</a></td>
+<td>65</td>
+<td>9/10</td>
+<td>37 high-priority</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>🔥 Trending Topics</h2>
+<ul>
+<li><strong>Hardware</strong>: 221 articles (84.0%)</li>
+<li><strong>Trends</strong>: 186 articles (70.7%)</li>
+<li><strong>Semiconductors</strong>: 129 articles (49.0%)</li>
+<li><strong>AI</strong>: 114 articles (43.3%)</li>
+<li><strong>Edge AI</strong>: 53 articles (20.2%)</li>
+</ul>
+<hr />
+<h2>🗂️ Browse by Category</h2>
+<h3>📰 <a href="3d_printing.md">3D Printing</a></h3>
+<p>** — 1 articles</p>
+<h3>🤖 <a href="ai.md">AI</a></h3>
+<p><em>Artificial Intelligence developments</em> — 34 articles</p>
+<h3>📡 <a href="edge_ai.md">Edge AI</a></h3>
+<p><em>AI on edge devices</em> — 15 articles</p>
+<h3>🔧 <a href="hardware.md">Hardware</a></h3>
+<p><em>Hardware news and reviews</em> — 77 articles</p>
+<h3>🧠 <a href="machine_learning.md">Machine Learning</a></h3>
+<p><em>ML algorithms and research</em> — 12 articles</p>
+<h3>🎮 <a href="nvidia.md">NVIDIA</a></h3>
+<p><em>NVIDIA hardware and GPUs</em> — 8 articles</p>
+<h3>🍓 <a href="raspberry_pi.md">Raspberry Pi</a></h3>
+<p><em>Raspberry Pi projects</em> — 5 articles</p>
+<h3>💎 <a href="rockchip.md">Rockchip</a></h3>
+<p><em>Rockchip processors and SBCs</em> — 4 articles</p>
+<h3>⚡ <a href="semiconductors.md">Semiconductors</a></h3>
+<p><em>Chip manufacturing</em> — 42 articles</p>
+<h3>📈 <a href="trends.md">Trends</a></h3>
+<p><em>Industry trends</em> — 65 articles</p>
+<hr />
+<h2>📅 About This Digest</h2>
+<p>Generated on 2025-10-06 at 15:38 using AI-powered ranking and curation.</p>
+<p>Articles are scored on a 0-10 importance scale based on:<br />
+- Industry impact and significance<br />
+- Technical innovation<br />
+- Relevance to professionals<br />
+- Timeliness and newsworthiness</p>
+<p>⭐⭐⭐ = Critical (9-10) | ⭐⭐ = Important (6-8) | ⭐ = Notable (3-5)</p>
+        </div>
+
+        <footer>
+            <p class="timestamp">Generated on October 06, 2025 at 15:50 UTC</p>
+            <p>Powered by AI-driven content curation with Ollama</p>
+            <p><a href="https://github.com/yourusername/tech-weekly-digest" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+</body>
+</html>

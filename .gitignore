@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Data files
+*.json
+!data/abstracted_articles.json
+!data/cleaned_articles.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,83 @@
+# .github/workflows/weekly-digest.yml
+name: Generate Weekly Tech Digest
+
+on:
+  schedule:
+    # Run every Monday at 9 AM UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch:  # Allow manual trigger
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Cache Python dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+    
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Install Ollama
+      run: |
+        curl -fsSL https://ollama.com/install.sh | sh
+        ollama serve &
+        sleep 5
+        ollama pull gemma3:4b
+    
+    - name: Run scraper
+      run: |
+        python scripts/scraper.py
+      continue-on-error: true
+    
+    - name: Summarize articles
+      run: |
+        python scripts/summary.py
+      env:
+        OLLAMA_HOST: http://localhost:11434
+    
+    - name: Rank and generate reports
+      run: |
+        python scripts/ai_ranker.py
+      env:
+        OLLAMA_HOST: http://localhost:11434
+    
+    - name: Convert to HTML
+      run: |
+        python scripts/generate_html.py
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add weekly_reports/ docs/ cleaned_articles.json abstracted_articles.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-generate weekly digest $(date +'%Y-%m-%d')"
+        git push
+    
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
+        publish_branch: gh-pages
+        cname: tech-weekly.yourdomain.com  # Optional: custom domain

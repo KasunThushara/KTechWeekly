@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Machine Learning - Tech Weekly Digest</title>
+    <meta name="description" content="Latest Machine Learning news and updates">
+    <meta property="og:title" content="Machine Learning">
+    <meta property="og:description" content="Latest Machine Learning news and updates">
+    
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #7c3aed;
+            --accent: #10b981;
+            --text: #1f2937;
+            --text-light: #6b7280;
+            --bg: #ffffff;
+            --bg-secondary: #f9fafb;
+            --border: #e5e7eb;
+            --shadow: rgba(0, 0, 0, 0.1);
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--bg);
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 40px 20px;
+            margin-bottom: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px var(--shadow);
+        }
+        
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.95;
+        }
+        
+        /* Navigation */
+        nav {
+            background: var(--bg-secondary);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+        
+        nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+        
+        nav a:hover {
+            background: var(--primary);
+            color: white;
+        }
+        
+        /* Content */
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px var(--shadow);
+        }
+        
+        /* Typography */
+        h1, h2, h3, h4 {
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: var(--text);
+            font-weight: 600;
+        }
+        
+        h1 { font-size: 2.2rem; margin-top: 0; }
+        h2 { 
+            font-size: 1.8rem; 
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        h3 { font-size: 1.4rem; color: var(--primary); }
+        h4 { font-size: 1.1rem; }
+        
+        p {
+            margin-bottom: 15px;
+            color: var(--text);
+        }
+        
+        a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Lists */
+        ul, ol {
+            margin: 15px 0 15px 25px;
+        }
+        
+        li {
+            margin-bottom: 8px;
+        }
+        
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            box-shadow: 0 2px 5px var(--shadow);
+        }
+        
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        th {
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+        
+        tr:hover {
+            background: var(--bg-secondary);
+        }
+        
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            border-top: 2px solid var(--border);
+            margin: 40px 0;
+        }
+        
+        /* Special Elements */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--primary);
+            color: white;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-right: 8px;
+        }
+        
+        .insight {
+            background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+            border-left: 4px solid var(--primary);
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            font-style: italic;
+        }
+        
+        .star {
+            color: #fbbf24;
+            font-size: 1.2rem;
+        }
+        
+        /* Code blocks */
+        code {
+            background: var(--bg-secondary);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+        
+        pre {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+        
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-light);
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+        
+        footer a {
+            color: var(--primary);
+        }
+        
+        .timestamp {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            margin-bottom: 10px;
+        }
+        
+        /* Category cards */
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+        
+        .category-card {
+            background: white;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s;
+            text-decoration: none;
+            color: var(--text);
+            display: block;
+        }
+        
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px var(--shadow);
+            border-color: var(--primary);
+        }
+        
+        .category-card h3 {
+            margin-top: 0;
+            color: var(--primary);
+        }
+        
+        .category-card .count {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin: 10px 0;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 1.8rem; }
+            .container { padding: 10px; }
+            nav { flex-direction: column; }
+            .content { padding: 20px; }
+            .category-grid { grid-template-columns: 1fr; }
+        }
+        
+        /* Loading animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .content {
+            animation: fadeIn 0.5s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Tech Weekly Digest</h1>
+            <p class="subtitle">AI, Hardware & Edge Computing News</p>
+        </header>
+        
+        <nav>
+            <a href="index.html">🏠 Home</a>
+            <a href="3d_printing.html">📰 3D Printing</a> <a href="weekly_master_report.html">📰 Full Digest</a> <a href="ai.html">📰 Ai</a> <a href="edge_ai.html">📰 Edge Ai</a> <a href="hardware.html">🔧 Hardware</a> <a href="machine_learning.html">🧠 Machine Learning</a> <a href="nvidia.html">📰 Nvidia</a> <a href="raspberry_pi.html">🍓 Raspberry Pi</a> <a href="rockchip.html">💎 Rockchip</a> <a href="semiconductors.html">⚡ Semiconductors</a> <a href="trends.html">📈 Trends</a>
+        </nav>
+        
+        <div class="content">
+            <h1>🧠 Machine Learning Weekly Report</h1>
+<p><strong>Week of October 06, 2025</strong></p>
+<p><em>ML algorithms and research</em></p>
+<hr />
+<h2>📊 Summary</h2>
+<ul>
+<li><strong>Total Articles:</strong> 12</li>
+<li><strong>High Priority:</strong> 6 articles (score ≥7)</li>
+<li><strong>Average Importance:</strong> 6.4/10</li>
+<li><strong>Report Generated:</strong> 2025-10-06 15:38</li>
+</ul>
+<hr />
+<h2>🌟 Top Stories</h2>
+<h3>1. Nvidia details efficiency of the NVFP4 format for LLM training ⭐⭐</h3>
+<p><strong>Importance:</strong> 8/10</p>
+<p>Nvidia has shown that NVFP4, a 4-bit format designed for inference, can be effectively utilized for stable LLM training with minimal accuracy impact. This approach provides substantial improvements in compute and memory efficiency compared to FP8 and BF16 formats. The research highlights NVFP4's potential for large-scale LLM training.</p>
+<p>💡 <em>NVFP4 offers a highly efficient pathway for large-scale, stable LLM training.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-details-efficiency-of-the-nvfp4-format-for-llm-training-new-paper-reveals-how-nvfp4-offers-benefits-over-fp8-and-bf16">Read More</a></p>
+<hr />
+<h3>2. Wi-Fi signals can now create accurate images of a room with the help of pre-trained AI ⭐⭐</h3>
+<p><strong>Importance:</strong> 8/10</p>
+<p>Researchers have developed a system, LatentCSI, that utilizes pre-trained AI models to generate realistic images from Wi-Fi signals. This technology, based on Stable Diffusion 3, transforms previously imprecise Wi-Fi-based imagery into detailed visuals. The breakthrough allows for digital painting based on the reflections of Wi-Fi signals within a room.</p>
+<p>💡 <em>AI now allows for detailed room imaging solely through the analysis of Wi-Fi signals.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/wi-fi-signals-can-now-create-accurate-images-of-a-room-with-the-help-of-pre-trained-ai-latentcsi-leverages-stable-diffusion-3-to-turn-wi-fi-data-into-a-digital-paintbrush">Read More</a></p>
+<hr />
+<h3>3. Motion sensors in high-performance mice can be used as a microphone to spy on users, thanks to AI ⭐⭐</h3>
+<p><strong>Importance:</strong> 7/10</p>
+<p>Researchers at UC Irvine have created a 'Mic-E-Mouse' technique that utilizes the sensors in high-performance mice to capture acoustic vibrations. These vibrations are then converted into audio through AI, effectively turning the mouse into a makeshift microphone. This innovative approach raises concerns about potential surveillance capabilities.</p>
+<p>💡 <em>High-performance mice can be covertly repurposed as microphones via AI, raising serious privacy concerns.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/cyber-security/high-performance-mice-can-be-used-as-a-microphone-to-spy-on-users-thanks-to-ai-mic-e-mouse-technique-uses-mouse-sensors-to-convert-acoustic-vibrations-into-speech">Read More</a></p>
+<hr />
+<h2>📰 Other Stories</h2>
+<h3>4. M5Stack LLM-8850 card ⭐⭐</h3>
+<p><strong>Score:</strong> 7/10 | The M5Stack LLM-8850 card is an M.2 AI accelerator module utilizing the Axera AX8850 24 TOPS SoC, designed for accelerating AI workloads on devices like Raspberry Pi and Rockchip SBCs. It features 8GB of LPDDR4x RAM, a 32MB NOR flash, and supports 8K video encoding/decoding with 16 channels, alongside an active cooling system.  This card provides substantial performance for applications needing AI acceleration and video processing.</p>
+<p>💡 <em>The M5Stack LLM-8850 card offers a powerful, accessible solution for AI acceleration and video processing on SBCs.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/10/03/m5stack-llm-8850-card-an-m-2-m-key-ai-accelerator-module-based-on-axera-ax8850-24-tops-soc/">Read More</a></p>
+<hr />
+<h3>5. Promise and Perils of Using AI for Hiring: Guard Against Data Bias ⭐⭐</h3>
+<p><strong>Score:</strong> 7/10 | AI's increasing use in hiring – including job description writing, candidate screening, and automated interviews – carries a significant risk of discrimination if not managed cautiously. Keith Sonderling, a US Equal Opportunity Commission Commissioner, highlighted this danger at the AI World Government event. Careful implementation is crucial to avoid perpetuating biases within AI hiring systems.</p>
+<p>💡 <em>AI hiring tools risk perpetuating bias, demanding careful oversight to ensure equitable recruitment.</em></p>
+<p>🔗 <a href="https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/">Read More</a></p>
+<hr />
+<h3>6. Startup: AssemblyAI Represents New Generation Speech Recognition ⭐⭐</h3>
+<p><strong>Score:</strong> 7/10 | Advances in AI-powered speech recognition are fueling market growth and attracting investment, particularly for startups like AssemblyAI. This increasing adoption of speech recognition devices is driving a market projected to reach $26.8 billion. Established players face challenges as new technologies and startups disrupt the industry.</p>
+<p>💡 <em>AssemblyAI exemplifies a new era of speech recognition poised for explosive market growth.</em></p>
+<p>🔗 <a href="https://www.aitrends.com/speech-recognition/startup-assemblyai-represents-new-generation-speech-recognition/">Read More</a></p>
+<hr />
+<h3>7. AI-generated security camera feed shows Sam Altman getting busted stealing GPUs from Target   ironic video shows OpenAI CEO saying he needs it for Sora inferencing</h3>
+<p><strong>Score:</strong> 6/10 | OpenAI utilized AI to create a simulated security camera feed depicting Sam Altman stealing GPUs from Target. The video is presented as ironic, with Altman’s own words—that he needed the GPUs for Sora inferencing—displayed alongside the footage. This highlights the resource demands of AI models like Sora.</p>
+<p>💡 <em>This bizarre AI-generated video underscores the extreme GPU demands fueling rapid AI model development.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-generated-security-camera-feed-shows-sam-altman-getting-busted-stealing-gpus-from-target-ironic-video-shows-openai-ceo-saying-he-needs-it-for-sora-inferencing">Read More</a></p>
+<hr />
+<h3>8. Best Practices for Building the AI Development Platform in Government</h3>
+<p><strong>Score:</strong> 6/10 | The US Army's AI development platform is based on the Carnegie Mellon University AI stack. Isaac Faber, a Chief Data Scientist at the US Army AI Integration Center, highlighted this approach at the AI World Government event. This framework represents a foundational element for government-led AI initiatives.</p>
+<p>💡 <em>The US Army’s AI platform, leveraging the Carnegie Mellon stack, establishes a vital framework for government AI development.</em></p>
+<p>🔗 <a href="https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/">Read More</a></p>
+<hr />
+<h3>9. Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI</h3>
+<p><strong>Score:</strong> 6/10 | The US Department of Energy and the US General Services Administration are focused on advancing trustworthy AI and machine learning to reduce risk, and on identifying effective strategies for scaling AI implementation. These priorities were highlighted in sessions addressing the key challenges and opportunities in the field.  The sessions represent a critical effort to ensure responsible and effective AI adoption across government.</p>
+<p>💡 <em>Responsible AI scaling across government is crucial for minimizing risk and maximizing impact.</em></p>
+<p>🔗 <a href="https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/">Read More</a></p>
+<hr />
+<h3>10. How Accountability Practices Are Pursued by AI Engineers in the Federal Government</h3>
+<p><strong>Score:</strong> 6/10 | At the AI World Government event, Taka Ariga of the US Government Accountability Office detailed his agency's AI accountability framework. This framework is being developed and implemented by AI developers within the federal government. The discussion highlights the growing focus on accountability practices within government-led AI initiatives.</p>
+<p>💡 <em>Government AI development is increasingly prioritizing accountability frameworks to ensure responsible innovation.</em></p>
+<p>🔗 <a href="https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/">Read More</a></p>
+<hr />
+<h3>11. Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge</h3>
+<p><strong>Score:</strong> 5/10 | AI engineers often operate within clear-cut, binary viewpoints, contrasting right and wrong. However, the field of AI ethics demands a more complex, nuanced approach due to its many gray areas. This difference in perspective presents a significant challenge in getting government AI engineers to fully engage with ethical considerations.</p>
+<p>💡 <em>Bridging the gap between AI engineering’s binary thinking and AI ethics’ complexity is crucial for responsible government AI development.</em></p>
+<p>🔗 <a href="https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/">Read More</a></p>
+<hr />
+<h3>12. U.S. Commerce Sec. Lutnick says American AI dominates DeepSeek, thanks Trump for AI Action Plan</h3>
+<p><strong>Score:</strong> 4/10 | A recent NIST study confirms that OpenAI and Anthropic's AI models outperform DeepSeek across 19 benchmarks. U.S. Commerce Secretary Lutnick highlighted this success, attributing it partly to the Trump administration’s AI Action Plan. This demonstrates the strength of American AI development in comparison to Chinese models.</p>
+<p>💡 <em>U.S. AI is surpassing Chinese competitors like DeepSeek, fueled by prior government support.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-commerce-sec-lutnick-says-american-ai-dominates-deepseek-thanks-trump-for-ai-action-plan-openai-and-anthropic-beat-chinese-models-across-19-different-benchmarks">Read More</a></p>
+<hr />
+        </div>
+        
+        <footer>
+            <p class="timestamp">Generated on October 07, 2025 at 07:18 UTC</p>
+            <p>Powered by AI-driven content curation with Ollama</p>
+            <p><a href="https://github.com/yourusername/tech-weekly-digest" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+</body>
+</html>
