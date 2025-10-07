@@ -1,15 +1,15 @@
 # 💎 Rockchip Weekly Report
-**Week of October 06, 2025**
+**Week of October 07, 2025**
 
 *Rockchip processors and SBCs*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 4
+- **Total Articles:** 3
 - **High Priority:** 1 articles (score ≥7)
-- **Average Importance:** 6.2/10
-- **Report Generated:** 2025-10-06 15:38
+- **Average Importance:** 5.7/10
+- **Report Generated:** 2025-10-07 15:45
 
 ---
 
@@ -19,47 +19,35 @@
 
 **Importance:** 7/10
 
-The Fogwise AIRbox Q900 is a new AI micro-server utilizing a Qualcomm IQ-9075 SoC and offering 200 TOPS of AI performance, alongside 36GB of RAM and 128GB storage. It’s designed as a competitor to the NVIDIA Jetson Orin NX, boasting a lower overall system cost and increased efficiency thanks to its unique architecture. The device includes real-time cores, fast networking, and a dedicated VPU for optimal AI processing.
+The Fogwise AIRbox Q900 is a new AI box utilizing a Qualcomm IQ-9075 SoC, offering 200 TOPS of AI performance, 36GB of RAM, and 128GB of storage. It's positioned as a cost-effective alternative to the NVIDIA Jetson Orin NX, boasting similar performance and efficiency. The box includes real-time cores and multiple processing units for versatile AI applications.
 
-💡 *The Fogwise AIRbox Q900 presents a compelling, cost-effective alternative for AI edge computing.*
+💡 *The Fogwise AIRbox Q900 presents a competitive, cost-effective AI solution with strong performance.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/30/fogwise-airbox-q900-599-qualcomm-iq-9075-ai-box-delivers-up-to-200-tops-of-ai-performance/)
 
 ---
 
-### 2. Particle Tachyon Review A Qualcomm QCM6490 Edge AI and 5G cellular SBC tested with Ubuntu ⭐⭐
+### 2. Luckfox PicoKVM   A low-cost IP-KVM with 1080p HDMI capture, Wake-on-LAN, virtual storage emulation ⭐⭐
 
 **Importance:** 6/10
 
-The Particle Tachyon SBC, powered by the Qualcomm QCM6490, is designed for edge AI and connectivity applications. It features an octa-core CPU, 5G, Wi-Fi 6E, and Bluetooth 5.2, alongside a Raspberry Pi-compatible form factor and extensive I/O options. The review details the unboxing and initial components received, including a LiPo battery and various connectivity options.
+The Luckfox PicoKVM is a compact and affordable IP-KVM device enabling remote control of PCs and development boards. It features 1080p60 HDMI capture with low latency and supports Wake-on-LAN, alongside virtual storage emulation. Powered by a Rockchip RV1106 processor, it offers extensive management capabilities including web and serial terminals.
 
-💡 *The Particle Tachyon offers a compelling, versatile platform for developing edge AI and 5G applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/24/particle-tachyon-review-a-qualcomm-qcm6490-edge-ai-and-5g-cellular-sbc-tested-with-ubuntu/)
-
----
-
-### 3. Luckfox PicoKVM   A low-cost IP-KVM with 1080p HDMI capture, Wake-on-LAN, virtual storage emulation ⭐⭐
-
-**Importance:** 6/10
-
-The Luckfox PicoKVM is a compact, low-cost IP-KVM device offering remote control of PCs and development boards via 1080p HDMI capture and low latency. It utilizes a Rockchip RV1106 processor and features Wake-on-LAN, virtual storage emulation, and expansion options like MicroSD storage. This device is ideal for embedded systems management and development.
-
-💡 *The Luckfox PicoKVM provides accessible remote PC control and management for embedded systems.*
+💡 *The Luckfox PicoKVM offers a remarkably affordable solution for remote PC and embedded device control.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/23/luckfox-picokvm-low-cost-ip-kvm-with-1080p-hdmi-capture-wake-on-lan-virtual-storage-emulation/)
 
 ---
 
-## 📰 Other Stories
+### 3. Particle Tachyon Review A Qualcomm QCM6490 Edge AI and 5G cellular SBC tested with Ubuntu ⭐
 
-### 4. GL.iNet Comet PoE KVM over IP solution with 32GB eMMC flash launched for $109.99 
+**Importance:** 4/10
 
-**Score:** 6/10 | GL.iNet has released the Comet PoE (GL-RM1PE) KVM over IP device for $109.99, featuring a quad-core Cortex-A53 processor, 32GB eMMC flash, and PoE support. This upgrade to the original Comet PoE offers improved performance, including faster file transfer speeds, and utilizes a processor similar to the upcoming Comet Pro. The device boasts HDMI and USB ports and is suitable for remote access and control of computer systems.
+This review examines the Particle Tachyon SBC, a board based on the Qualcomm QCM6490 platform, designed for edge AI and connectivity applications. It features an octa-core CPU, 5G, Wi-Fi 6E, and Bluetooth 5.2, alongside Raspberry Pi-compatible I/O and various connectivity options. The board arrived fully packaged and ready for testing with Ubuntu.
 
-💡 *GL-iNet’s Comet PoE offers a compelling and affordable remote KVM solution with enhanced features.*
+💡 *This review assesses the Particle Tachyon's potential for powerful, connected edge AI applications.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/09/21/gl-inet-comet-poe-kvm-over-ip-solution-32gb-emmc-flash/)
+🔗 [Read More](https://www.cnx-software.com/2025/09/24/particle-tachyon-review-a-qualcomm-qcm6490-edge-ai-and-5g-cellular-sbc-tested-with-ubuntu/)
 
 ---
 
