@@ -1,845 +1,805 @@
 # 🔧 Hardware Weekly Report
-**Week of October 07, 2025**
+**Week of October 12, 2025**
 
 *Hardware news and reviews*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 82
-- **High Priority:** 37 articles (score ≥7)
-- **Average Importance:** 6.4/10
-- **Report Generated:** 2025-10-07 15:45
+- **Total Articles:** 78
+- **High Priority:** 43 articles (score ≥7)
+- **Average Importance:** 6.6/10
+- **Report Generated:** 2025-10-12 19:17
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. OpenAI and AMD announce multibillion-dollar partnership ⭐⭐⭐
+### 1. Microsoft deploys world's first 'supercomputer-scale' GB300 NVL72 Azure cluster ⭐⭐⭐
 
 **Importance:** 9/10
 
-AMD and OpenAI are joining forces in a massive multibillion-dollar partnership focused on developing AI-powered data centers using AMD's chip technology. AMD will supply 6 gigawatts of chips, and OpenAI could receive up to 10% of AMD's shares as part of the agreement. This collaboration represents a significant investment in the future of AI infrastructure.
+Microsoft has launched a massive GB300 NVL72 supercluster on Azure, utilizing 4,608 GPUs interconnected for unprecedented performance. This cluster achieves a staggering 92.1 exaFLOPS of FP4 inference and 1.44 PFLOPS of FP4 Tensor Core performance thanks to NVLink and InfiniBand.  It represents a significant step in accelerating AI workloads.
 
-💡 *AMD and OpenAI’s partnership signifies a major push to accelerate AI infrastructure development.*
+💡 *Microsoft’s GB300 cluster demonstrates a major leap in AI performance via massive GPU scaling.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/openai-and-amd-announce-multibillion-dollar-partnership-amd-to-supply-6-gigawatts-in-chips-openai-could-get-up-to-10-percent-of-amd-shares-in-return)
-
----
-
-### 2. The transistor was patented 75 years ago today   the age of silicon and software began with a three-electrode circuit element using semiconductor materials ⭐⭐⭐
-
-**Importance:** 9/10
-
-Today marks 75 years since the U.S. Patent was awarded for the invention of the transistor by Bell Labs scientists. This pivotal moment signified the beginning of the age of silicon and software, utilizing a three-electrode circuit element based on semiconductor materials. It marked the dawn of a new era in electronics.
-
-💡 *The 1947 transistor patent ushered in the silicon and software age, fundamentally transforming electronics.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/the-age-of-silicon-and-software-began-75-years-ago-with-the-patenting-of-the-transistor)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-deploys-worlds-first-supercomputer-scale-gb300-nvl72-azure-cluster-4-608-gb300-gpus-linked-together-to-form-a-single-unified-accelerator-capable-of-1-44-pflops-of-inference)
 
 ---
 
-### 3. Intel's upcoming Panther Lake family will reportedly feature new "Core Ultra X" branding for fully-spec'd iGPU configs ⭐⭐
+### 2. New 7-Zip high-severity vulnerabilities expose systems to remote attackers users should update to version 25 ASAP ⭐⭐
 
 **Importance:** 8/10
 
-Intel's Panther Lake mobile CPUs will debut with Xe3 graphics IP, with Core Ultra 7 and 9 processors tipped to have up to 12 Xe3 GPU cores. Top-tier SKUs will be designated as "Core Ultra X," and this branding is now also rumored to extend to the Core Ultra 5. This signifies a significant upgrade in Intel's integrated graphics capabilities.
+New vulnerabilities in 7-Zip pose a significant security risk, allowing attackers to execute arbitrary code through specially crafted ZIP archives. These flaws could be exploited to compromise systems remotely. Users are strongly advised to immediately update to version 25 to mitigate this threat.
 
-💡 *Intel's Core Ultra X branding marks a major step up in integrated graphics performance.*
+💡 *Critical 7-Zip vulnerabilities could enable remote code execution and require immediate patching.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-panther-lake-family-will-reportedly-feature-new-core-ultra-x-branding-for-fully-specd-igpu-configs-core-ultra-7-and-9-processors-tipped-to-feature-12-xe3-gpu-cores)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/7-zip-flaws-open-door-to-remote-code-execution)
+
+---
+
+### 3. Trump strikes back at China with a 100% tariff and critical software ban ⭐⭐
+
+**Importance:** 8/10
+
+President Trump implemented a significant escalation by imposing a 100% tariff on Chinese goods and enacting export controls on unspecified 'critical software.' This action targets China’s technology and manufacturing sectors, potentially more severely than traditional tariffs. The move represents a retaliation against China’s existing restrictions on rare earth elements.
+
+💡 *This escalation marks a dramatic, technologically-focused confrontation between the US and China.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/trump-strikes-back-at-china-with-a-100-percent-tariff-and-critical-software-ban-major-escalation-retaliates-for-chinas-rare-earth-restrictions)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Cyberattacks hit 91% of universities and 43% of businesses in last 12 months in the UK ⭐⭐
+### 4. Oklahoma man charged with supplying over one hundred 3D-printed machine gun conversion kits to a person he thought was an al-Qaida operative ⭐⭐
 
-**Score:** 8/10 | A recent survey reveals a significant surge in cyberattacks targeting UK institutions, with 91% of universities and 43% of businesses experiencing at least one breach attempt over the last year. This has impacted a massive scale, potentially affecting over 600,000 businesses and 61,000 charities. The findings highlight a critical vulnerability within the UK's digital landscape.
+**Score:** 8/10 | A Tulsa, Oklahoma resident is accused of providing over 100 3D-printed gun components to an individual believed to be associated with al-Qaida. The individual intended to use the parts for potential terrorist attacks, leading to charges and the possibility of a 20-year prison sentence. The case highlights concerns about the misuse of 3D-printed firearms technology.
 
-💡 *The UK’s digital infrastructure faces a critical cyber threat, with widespread attacks impacting institutions and businesses.*
+💡 *This case underscores the serious threat of readily available 3D-printed gun parts fueling potential terrorist activity.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/cyberattacks-hit-91-percent-of-universities-and-43-percent-of-businesses-in-last-12-months-in-the-uk-survey-suggests-more-than-600-000-businesses-61-000-charities-affected)
-
----
-
-### 5. Nintendo Switch 2 supports two different types of Nvidia DLSS ⭐⭐
-
-**Score:** 8/10 | Nintendo is utilizing two versions of DLSS on the Switch 2, confirming previous speculation. One 'light' version enables upscaling beyond 1080p but compromises image quality, while the other employs a PC-like CNN model. This dual approach suggests a sophisticated optimization strategy for the console's graphical performance.
-
-💡 *Nintendo’s dual DLSS strategy reveals a complex optimization for visual performance on the Switch 2.*
-
-🔗 [Read More](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-supports-two-different-types-of-nvidia-dlss-a-second-light-version-for-upscaling-beyond-1080p-along-with-the-standard-pc-like-cnn-model)
+🔗 [Read More](https://www.tomshardware.com/3d-printing/oklahoma-man-charged-with-supplying-over-one-hundred-3d-printed-machine-gun-conversion-kits-to-a-person-he-thought-was-an-al-qaida-operative-suspect-allegedly-shipped-a-range-of-firearms-parts-intended-for-terrorist-attacks)
 
 ---
 
-### 6. Bitcoin rockets to all-time high of over $125,000 ⭐⭐
+### 5. Intel's 18A production starts before TSMC s competing N2 tech ⭐⭐
 
-**Score:** 8/10 | Bitcoin surged to an unprecedented $125,000, driven by investors looking for alternative assets and significant movement of holdings into long-term storage. This surge is partly attributed to rising interest in Bitcoin ETFs and a broader trend of seeking diversification. The price increase reflects a combination of factors contributing to Bitcoin's growing prominence.
+**Score:** 8/10 | Intel has successfully initiated mass production of its Core Ultra 3 processors using the 18A process at Fab 52 in Arizona. This deployment precedes TSMC's N2 technology launch, representing an early win for Intel's advancements in process node production. The move highlights Intel's strategy to independently develop and deploy cutting-edge process technologies.
 
-💡 *Bitcoin's record high signals a growing mainstream interest and acceptance of cryptocurrency.*
+💡 *Intel's 18A production leapfrog gives them a critical early advantage in the processor race.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-rockets-to-all-time-high-of-over-usd125-000-rise-fueled-by-increase-in-u-s-equities-and-interest-in-bitcoin-etfs)
-
----
-
-### 7. China to launch commercial underwater data center   facility expected to consume 90% less power for cooling ⭐⭐
-
-**Score:** 8/10 | Chinese company Highlander is set to launch the world's first commercial underwater data center, located off the coast of Shanghai. This facility will primarily serve state-owned companies and is designed to drastically reduce energy consumption for cooling – reportedly by 90%.  It represents a novel approach to data center infrastructure.
-
-💡 *Underwater data centers promise a revolutionary, energy-efficient solution for data storage.*
-
-🔗 [Read More](https://www.tomshardware.com/desktops/servers/china-to-launch-commercial-underwater-data-center-facility-expected-to-consume-90-percent-less-power-for-cooling)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intels-18a-production-starts-before-tsmcs-competing-n2-tech-heres-how-the-two-process-nodes-compare)
 
 ---
 
-### 8. BlackRock subsidiary buys up 78 data centers totaling 5 gigawatts in $40 billion deal   AI vendor Aligned added to company's portfolio ⭐⭐
+### 6. SoftBank is seeking $5 billion loan to invest in OpenAI, plans to use Arm shares as collateral rapid AI expansion continues, investment could top $30 billion ⭐⭐
 
-**Score:** 8/10 | BlackRock subsidiary Global Infrastructure Partners is acquiring Aligned Data Centers for $40 billion. The deal encompasses 78 data centers, representing a total capacity of 5 gigawatts. This acquisition also integrates Aligned, an AI vendor, into BlackRock's portfolio.
+**Score:** 8/10 | SoftBank is obtaining a $5 billion loan secured by Arm shares to fuel investments in OpenAI and broader AI infrastructure. This move further escalates SoftBank's leveraged strategy for rapid AI expansion, and brings total Arm-backed debt to $18.5 billion. The overall investment could potentially reach $30 billion.
 
-💡 *BlackRock’s massive data center investment signals a major shift in AI infrastructure demand.*
+💡 *SoftBank’s massive AI investment, leveraging Arm debt, signals a bet on OpenAI’s rapid growth.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/blackrock-subsidiary-buys-up-78-data-centers-totaling-5-gigawatts-in-usd40-billion-deal-ai-vendor-aligned-added-to-companys-portfolio)
-
----
-
-### 9. Nvidia details efficiency of the NVFP4 format for LLM training ⭐⭐
-
-**Score:** 8/10 | Nvidia has proven that its NVFP4 4-bit format, designed for inference, is effective for stable LLM training, achieving substantial compute and memory savings compared to FP8 and BF16. This innovative use of NVFP4 minimizes accuracy loss during large-scale training. The results highlight a new approach to LLM training efficiency.
-
-💡 *Nvidia’s NVFP4 format offers a surprisingly efficient and stable route for large-scale LLM training.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-details-efficiency-of-the-nvfp4-format-for-llm-training-new-paper-reveals-how-nvfp4-offers-benefits-over-fp8-and-bf16)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-is-seeking-usd5-billion-loan-to-invest-in-openai-plans-to-use-arm-shares-as-collateral-rapid-ai-expansion-continues-investment-could-top-usd30-billion)
 
 ---
 
-### 10. Samsung's 49-inch OLED gaming monitor drops to lowest-ever price ⭐⭐
+### 7. China's new rare-earth curbs target chipmaking industry in retaliation to US restrictions ⭐⭐
 
-**Score:** 8/10 | Amazon is currently selling the Samsung Odyssey G9 gaming monitor for $879.99, a significant drop from its usual price of $1,599.99. This represents the lowest price ever offered for this high-performance 49-inch OLED gaming monitor, allowing consumers to maximize their GPU investment without overspending.
+**Score:** 8/10 | China is imposing new restrictions on rare-earth exports, specifically targeting the semiconductor industry. These controls extend back to older technologies like 14nm process chips and 256-layer memory, representing a retaliatory measure against US restrictions. This action directly impacts the production of advanced chips.
 
-💡 *Gamers can now snag a top-tier Samsung Odyssey G9 OLED at a record-low price.*
+💡 *China's rare-earth restrictions escalate the chip war and threaten global semiconductor supply chains.*
 
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/samsungs-49-inch-oled-gaming-monitor-drops-to-lowest-ever-price-max-out-your-gpu-not-your-credit-card-for-just-usd879)
-
----
-
-### 11. 1GHz Renesas RA8T2 Cortex-M85 MCUs feature MRAM and EtherCAT for industrial motor control ⭐⭐
-
-**Score:** 8/10 | Renesas has released the RA8T2, a high-performance Cortex-M85 MCU with a 1GHz core and MRAM, designed for advanced motor control applications. This MCU offers enhanced networking capabilities including EtherCAT and multiple connectivity options, alongside security features like TrustZone and a cryptographic engine. It's positioned as a direct upgrade to the RA8T1 and is targeted at industrial robotics and motor control systems.
-
-💡 *Renesas’ RA8T2 MCU offers a powerful new option for demanding industrial motor control applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/10/06/1ghz-renesas-ra8t2-cortex-m85-mcus-feature-mram-and-ethercat-for-industrial-motor-control/)
+🔗 [Read More](https://www.tomshardware.com/chinas-new-rare-earth-curbs-hit-14nm-and-256-layer-chipmaking)
 
 ---
 
-### 12. Snapdragon X2 Elite Extreme and X2 Elite processors target high-end Windows PCs ⭐⭐
+### 8. China issues port crackdown on all Nvidia AI chip imports, says report ⭐⭐
 
-**Score:** 8/10 | Qualcomm has unveiled three new 3nm Snapdragon X2 Elite processors – Extreme, Elite (88 and 80), designed for high-end Windows laptops. These processors boast powerful performance cores, advanced AI capabilities (Hexagon NPU), and cutting-edge connectivity features like WiFi 7 and PCIe Gen5. The lineup promises fastest and most efficient performance for laptops.
+**Score:** 8/10 | China has initiated a significant crackdown on unlicensed Nvidia chip shipments, deploying enforcement teams across major ports. The operation focuses on inspecting hardware shipments, specifically targeting H20 and RTX 6000D models. This action indicates a heightened concern regarding the import of AI-related hardware.
 
-💡 *Qualcomm’s Snapdragon X2 Elite processors aim to redefine high-end Windows laptop performance and connectivity.*
+💡 *China’s crackdown signals escalating concerns about Nvidia’s AI chip exports and their use in the country.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/10/02/snapdragon-x2-elite-extreme-and-x2-elite-processors-target-high-end-windows-pcs/)
-
----
-
-### 13. Nordic nRF54LM20A Cortex-M33 wireless MCU doubles the SRAM to 512 KB, increases flash capacity ⭐⭐
-
-**Score:** 8/10 | The Nordic nRF54LM20A is a new Cortex-M33-based wireless MCU featuring significantly increased memory – 512 KB of SRAM and higher flash capacity – compared to the nRF54L15. Targeted for diverse applications like HID peripherals and gaming, it integrates advanced features including a RISC-V coprocessor and a 2.4 GHz ultra-low-power radio. This enhanced MCU offers improved performance, efficiency, and power consumption compared to previous nRF52 series devices.
-
-💡 *Nordic's nRF54LM20A expands memory and features, boosting performance for diverse applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/26/nordic-nrf54lm20a-cortex-m33-wireless-mcu-doubles-the-sram-to-512-kb-increases-flash-capacity/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/china-launches-port-crackdown-on-nvidia-chips)
 
 ---
 
-### 14. MSI gaming bundle lets you snag AMD's Ryzen 7 9800X3D for $400 when paired with an MSI X870 Tomahawk WiFi motherboard for Prime Day ⭐⭐
+### 9. Singapore company allegedly helped China smuggle $2 billion worth of Nvidia AI processors, report claims ⭐⭐
 
-**Score:** 7/10 | MSI is offering a fantastic gaming bundle featuring the AMD Ryzen 7 9800X3D and X870 Tomahawk WiFi motherboard for Prime Day.  The bundle is priced at $639 or $738 with a 2TB SSD, representing a great deal for a powerful gaming PC. This is an excellent opportunity to build a high-performance gaming rig.
+**Score:** 8/10 | A U.S. investigation revealed that a Singapore-based firm with Chinese connections purchased $2 billion in Nvidia GPUs via a U.S. subsidiary, intending to ship them to Malaysia and Indonesia. These GPUs were reportedly used by clients in China or resold to customers in the PRC. Nvidia denies any involvement of the accused company, while a U.S. investigation is ongoing.
 
-💡 *Prime Day offers a compelling gaming bundle with the Ryzen 7 9800X3D at a great price.*
+💡 *This report highlights potential circumvention of U.S. export controls for advanced AI technology.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/msi-gaming-bundle-lets-you-snag-amds-ryzen-7-9800x3d-for-usd400-when-paired-with-with-an-msi-x870-tomahawk-wifi-motherboard-usd639-for-the-pair-or-usd738-with-a-2tb-ssd)
-
----
-
-### 15. Intel's flagship Core Ultra 9 285K is down to its lowest price ever, at just $489 ⭐⭐
-
-**Score:** 7/10 | The Intel Core Ultra 9 285K is now available at a significantly reduced price of $489, a prime opportunity considering its performance rivals the Ryzen 9 9950X while using less power. This discount makes it a compelling option for users seeking a high-performance CPU without the associated power consumption.
-
-💡 *Intel's Core Ultra 9 285K is an unexpectedly affordable powerhouse for discerning users.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/intels-flagship-core-ultra-9-285k-is-down-to-its-lowest-price-ever-at-just-usd489-score-the-24-core-processor-for-usd110-off-this-prime-day)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/singapore-company-alleged-to-have-helped-china-get-usd2-billion-worth-of-nvidia-ai-processors-report-claims-nvidia-denies-that-the-accused-has-any-china-ties-but-a-u-s-investigation-is-underway)
 
 ---
 
-### 16. Ukraine s rotating barbed wire drone barriers discovered by Russians ⭐⭐
+### 10. Sony and AMD tease likely PlayStation 6 GPU upgrades Radiance Cores and a new interconnect for boosting AI rendering performance ⭐⭐
 
-**Score:** 7/10 | Ukraine has developed a new defense strategy using rotating barbed wire barriers controlled by remote systems. These barriers are designed to disable jamming-proof drones by physically damaging their fiber-optic trails. This innovative approach represents a significant challenge for enemy drone operations.
+**Score:** 8/10 | Sony and AMD are developing upgrades for the upcoming PlayStation 6, codenamed Project Amethyst. These include new 'Radiance Cores' designed for real-time path tracing rendering and a new interconnect aimed at improving AI rendering performance. This suggests a significant focus on AI-driven graphics capabilities for the next-generation console.
 
-💡 *Ukraine’s rotating drone barriers present a novel, jamming-resistant defense against enemy drone attacks.*
+💡 *Sony and AMD’s Project Amethyst signals a major leap in AI-powered graphics for the PlayStation 6.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/ukraines-rotating-barbed-wire-drone-barriers-discovered-by-russians-motorized-barriers-tear-and-slice-the-fiber-optic-lines-that-jam-proof-drones-leave-in-their-trail)
-
----
-
-### 17. OCuLink outpaces Thunderbolt 5 in Nvidia RTX 5070 Ti tests ⭐⭐
-
-**Score:** 7/10 | Independent tests show OCuLink's direct PCIe connection outperforms Thunderbolt 5 in gaming benchmarks, achieving significantly faster results. Specifically, the RTX 5070 Ti averaged up to 14% slower performance when using Thunderbolt 5. While offering improved eGPU performance, OCuLink's practicality for typical users remains limited.
-
-💡 *OCuLink's superior performance over Thunderbolt 5 highlights a new potential pathway for GPU connectivity.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/oculink-outpaces-thunderbolt-5-in-nvidia-rtx-5070-ti-tests-latter-up-to-14-percent-slower-on-average-in-gaming-benchmarks)
+🔗 [Read More](https://www.tomshardware.com/video-games/console-gaming/sony-and-amd-tease-likely-playstation-6-gpu-upgrades-radiance-cores-and-a-new-interconnect-for-boosting-ai-rendering-performance)
 
 ---
 
-### 18. Award-winning gaming keyboard reaches a historic low of $17 just before Prime Day get 66% off on the Apex 3 TKL for a limited time ⭐⭐
+### 11. AMD will beat Nvidia to launching AI GPUs on the cutting-edge 2nm node ⭐⭐
 
-**Score:** 7/10 | The SteelSeries Apex 3 TKL gaming keyboard is currently offered at a remarkable price of $16.99, representing a 66% discount from its original $49.99 price. This limited-time deal is available just before Prime Day. This offers a significant opportunity to acquire an award-winning gaming keyboard.
+**Score:** 8/10 | AMD is utilizing TSMC's 2nm process for its upcoming Instinct MI450 AI accelerators, marking the first AMD GPU to leverage this technology. This MI450 will be based on the CDNA 5 architecture. While Nvidia's Rubin may offer higher raw compute power, AMD's move signifies a key step in their AI GPU strategy.
 
-💡 *Apex 3 TKL gaming keyboard is drastically discounted, offering a rare opportunity at $17.*
+💡 *AMD’s 2nm Instinct MI450 represents a crucial early advantage in AI GPU innovation.*
 
-🔗 [Read More](https://www.tomshardware.com/peripherals/gaming-keyboards/award-winning-gaming-keyboard-reaches-a-historic-low-of-usd17-just-before-prime-day-get-66-percent-off-on-the-apex-3-tkl-for-a-limited-time)
-
----
-
-### 19. One of the fastest 2TB PCIe 5.0 SSDs is down to its lowest price ever, 8 cents per gigabyte this Prime Day   Enjoy blazing-fast PCIe 5.0 storage for only $159 ⭐⭐
-
-**Score:** 7/10 | Crucial's T705 2TB PCIe 5.0 SSD is currently priced at $160 during Prime Day, offering exceptional performance with read/write speeds of 14.5 GB/s and 12.7 GB/s, respectively. This high-performance SSD utilizes a Phison E26 controller and Micron TLC NAND, boasting 1,200 TBW and an Editor's Choice award. It represents an incredible value at 8 cents per gigabyte.
-
-💡 *Crucial's T705 2TB PCIe 5.0 SSD offers an unbelievable deal at $160, a must-have for performance enthusiasts.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/one-of-the-fastest-2tb-pcie-5-0-ssds-is-down-to-its-lowest-price-ever-8-cents-per-gigabyte-this-prime-day-enjoy-blazing-fast-pcie-5-0-storage-for-only-usd159)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-could-beat-nvidia-to-launching-ai-gpus-on-the-cutting-edge-2nm-node-instinct-mi450-is-officially-the-first-amd-gpu-to-launch-with-tsmcs-finest-tech)
 
 ---
 
-### 20. Samsung s QD-OLED 4K 240 Hz gaming monitors are now at their lowest-ever price for Prime Day ⭐⭐
+### 12. Intel's Xe3 graphics architecture breaks cover   Panther Lake's 12 Xe Core iGPU promises 50+% better performance than Lunar Lake ⭐⭐
 
-**Score:** 7/10 | Samsung's new Odyssey G8 QD-OLED gaming monitors, featuring 4K resolution and 240 Hz refresh rates, are available at their lowest prices during Prime Day. These monitors deliver flagship-level visuals and include advanced burn-in protection. The 27-inch model is priced at $879, while the 32-inch option costs $999.
+**Score:** 8/10 | Intel's new Xe3 graphics architecture is featured in the Panther Lake CPUs, resulting in a significantly upgraded integrated GPU. This architecture boasts 50% better performance compared to the Lunar Lake iGPU. It represents Intel’s largest and most powerful integrated GPU to date.
 
-💡 *Prime Day offers a significant discount on Samsung's top-tier QD-OLED gaming monitors.*
+💡 *Intel’s Xe3 Panther Lake iGPU offers a substantial performance leap, redefining integrated graphics.*
 
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/samsungs-qd-oled-4k-240-hz-gaming-monitors-are-now-at-their-lowest-ever-price-for-prime-day-usd879-for-the-27-inch-usd999-for-the-32-inch)
-
----
-
-### 21. AI data centers are swallowing the world’s memory and storage supply, setting the stage for a pricing apocalypse that could last a decade ⭐⭐
-
-**Score:** 7/10 | Rising demand for flash memory and shortages of nearline HDDs are driving up storage prices across the board. This trend is largely driven by the increasing needs of AI data centers which are rapidly adopting higher-density QLC SSDs.  The combination of these factors suggests a prolonged period of elevated storage costs.
-
-💡 *AI’s insatiable hunger for storage threatens a decade-long pricing crisis for memory and storage.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/storage/perfect-storm-of-demand-and-supply-driving-up-storage-costs)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/intels-xe3-graphics-architecture-breaks-cover-panther-lakes-12-xe-core-igpu-promises-50-percent-better-performance-than-lunar-lake)
 
 ---
 
-### 22. wafer.space lets you design your custom silicon just for $7 per die (Crowdfunding) ⭐⭐
+### 13. Intel takes the wraps off Panther Lake   first 18A client processor brings the best of Lunar Lake and Arrow Lake together in one package ⭐⭐
 
-**Score:** 7/10 | wafer.space is offering custom ASIC fabrication through a Crowd Supply campaign, enabling users to order 1,000 custom silicon dies based on a GlobalFoundries 180nm process for a fixed price of $7 per die. The company handles the fabrication, dicing, and shipping, while users are responsible for pad ring and I/O layout design. This provides a low-cost entry point for custom silicon design.
+**Score:** 8/10 | Intel has unveiled Panther Lake, its initial line of laptop SoCs utilizing 18A process technology. These chips combine the efficiency of Lunar Lake with the scalability of the upcoming Arrow Lake-H architecture, featuring Cougar Cove P-cores, Darkmont E-cores, and up to 12 Xe3 graphics.  This represents Intel's strategy to integrate advancements across its future product families.
 
-💡 *Wafer.space democratizes custom silicon design with affordable, low-volume fabrication options.*
+💡 *Intel’s Panther Lake integrates Lunar Lake and Arrow Lake for a versatile and scalable laptop processor solution.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-takes-the-wraps-off-panther-lake-first-18a-client-processor-brings-the-best-of-lunar-lake-and-arrow-lake-together-in-one-package)
+
+---
+
+### 14. U.S. finally grants Nvidia license to ship AI GPUs to UAE: 500,000 Blackwell GPUs coming to the Gulf region ⭐⭐
+
+**Score:** 8/10 | The United States has authorized Nvidia to export tens of billions of dollars' worth of AI hardware, specifically 500,000 Blackwell GPUs, to the UAE. This approval is part of a new agreement involving $1.4 trillion in Emirati investment and represents a significant expansion of Nvidia's AI hardware presence in the Gulf region. The deal underscores the growing importance of AI infrastructure and geopolitical investment in advanced technologies.
+
+💡 *Nvidia's UAE deal signals a major geopolitical investment in AI infrastructure and advanced technology.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-finally-grants-nvidia-license-to-ship-ai-gpus-to-uae-500-000-blackwell-gpus-coming-to-the-gulf-region)
+
+---
+
+### 15. RISC-V set to announce 25% market penetration ⭐⭐
+
+**Score:** 8/10 | RISC-V International is predicting 25% market penetration for its open-standard ISA, a significant milestone that surpasses previous projections. This rapid growth indicates a quickly expanding silicon footprint within the industry. The announcement highlights the ISA’s accelerating adoption rate.
+
+💡 *RISC-V’s projected 25% market share signals a transformative shift in processor design.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/risc-v-set-to-announce-25-percent-market-penetration-open-standard-isa-is-ahead-of-schedule-securing-fast-growing-silicon-footprint)
+
+---
+
+### 16. wafer.space lets you design your custom silicon just for $7 per die (Crowdfunding) ⭐⭐
+
+**Score:** 8/10 | wafer.space is offering custom ASIC fabrication at an incredibly low price of $7 per die through a Crowd Supply campaign. They manage the entire process – fabrication, dicing, and shipping – allowing users to order 1,000 custom chips based on a GlobalFoundries 180nm process, with options for bare dies or chip-on-board packaging. Designs are submitted as GDSII files, and wafer.space handles the verification and production aspects.
+
+💡 *Wafer.space's low-cost ASIC fabrication democratizes custom chip design and production.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/07/wafer-space-lets-you-design-your-custom-silicon-just-for-7-per-die/)
 
 ---
 
-### 23. Easily add 80+ Mbps Ethernet to microcontrollers with WIZ630io QSPI RJ45 module ⭐⭐
+### 17. 1GHz Renesas RA8T2 Cortex-M85 MCUs feature MRAM and EtherCAT for industrial motor control ⭐⭐
 
-**Score:** 7/10 | The WIZnet WIZ630io module enables easy integration of Ethernet connectivity into microcontrollers, specifically RP2350 boards, via a QSPI interface.  Featuring a W6300 controller, it offers speeds up to 80+ Mbps and includes 64KB of SRAM with 8 independent sockets. This module simplifies adding Ethernet to projects utilizing SPI or QSPI interfaces.
+**Score:** 8/10 | Renesas has released the RA8T2, a high-performance Cortex-M85 MCU with a 1GHz core and MRAM, designed for advanced motor control applications. It offers enhanced networking capabilities including EtherCAT and multiple connectivity options, alongside security features like TrustZone. This MCU is a direct upgrade to the RA8T1 and targets industrial robotics and motor control systems.
 
-💡 *This WIZ630io module provides a straightforward way to add fast Ethernet to microcontroller projects.*
+💡 *Renesas RA8T2 MCU brings a powerful, secure solution for advanced industrial motor control applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/06/1ghz-renesas-ra8t2-cortex-m85-mcus-feature-mram-and-ethercat-for-industrial-motor-control/)
+
+---
+
+### 18. Nordic nRF54LM20A Cortex-M33 wireless MCU doubles the SRAM to 512 KB, increases flash capacity ⭐⭐
+
+**Score:** 8/10 | The Nordic nRF54LM20A is a new Cortex-M33 based wireless MCU boasting significantly increased memory – 512 KB SRAM and higher flash capacity – compared to the nRF54L15.  Designed for applications like HID peripherals and gaming, it integrates advanced features including a RISC-V coprocessor and a powerful 2.4 GHz radio supporting multiple low-power protocols. This new MCU offers improved processing power, efficiency, and reduced power consumption compared to the nRF52 series.
+
+💡 *Nordic’s nRF54LM20A expands memory and processing power for demanding wireless applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/09/26/nordic-nrf54lm20a-cortex-m33-wireless-mcu-doubles-the-sram-to-512-kb-increases-flash-capacity/)
+
+---
+
+### 19. Nintendo allegedly hacked by Crimson Collective hacking group ⭐⭐
+
+**Score:** 7/10 | The Crimson Collective hacking group is claiming responsibility for breaching Nintendo's security and obtaining sensitive data. Leaked materials include production assets, developer files, and backups, suggesting a significant data compromise. This incident highlights concerns about the security of major gaming companies.
+
+💡 *This breach underscores critical vulnerabilities and raises serious security concerns for the gaming industry.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/nintendo-allegedly-hacked-by-crimson-collective-hacking-group-screenshot-shows-leaked-folders-production-assets-developer-files-and-backups)
+
+---
+
+### 20. UPS reportedly destroying packages due to customs confusion   thousands of parcels per day are seemingly affected by delays due to documentation issues ⭐⭐
+
+**Score:** 7/10 | UPS is facing significant problems with thousands of packages, primarily due to incomplete customs documentation. These delays are causing substantial delays and, alarmingly, some packages are being destroyed. The root cause appears to be inconsistencies in the paperwork submitted to customs authorities.
+
+💡 *UPS’s customs errors are causing widespread delays and, shockingly, package destruction.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/ups-reportedly-destroying-packages-due-to-customs-confusion-thousands-of-parcels-per-day-are-seemingly-affected-by-delays-due-to-documentation-issues)
+
+---
+
+### 21. Battlefield 6 peaks at 747,000 concurrent players   newly launched game ranks among the top three most-played on Steam today ⭐⭐
+
+**Score:** 7/10 | Battlefield 6 achieved a significant launch, with over 747,000 concurrent players on Steam shortly after release. This impressive figure places the game among the top three most-played titles on the platform. The strong player base indicates a successful launch for the new Battlefield title.
+
+💡 *Battlefield 6’s massive launch player count demonstrates strong initial interest in the franchise.*
+
+🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/battlefield-6-peaks-at-747-000-concurrent-players-newly-launched-game-ranks-among-the-top-three-most-played-on-steam-today)
+
+---
+
+### 22. Back to its all-time low price, Alienware's AW3225QF4K QD-OLED gaming monitor is reduced by $350 in Dell's post-Prime Day deal ⭐⭐
+
+**Score:** 7/10 | Alienware's AW3225QF4K QD-OLED gaming monitor is currently available at its lowest price. Dell is offering a $350 discount on this gorgeous 4K curved monitor as part of a post-Prime Day deal. This represents a significant savings for potential buyers.
+
+💡 *Alienware AW3225QF4K QD-OLED gaming monitor hits an all-time low price with a major Dell discount.*
+
+🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/back-to-its-all-time-low-price-alienwares-aw3225qf4k-qd-oled-gaming-monitor-is-reduced-by-usd350-in-dells-post-prime-day-deal)
+
+---
+
+### 23. China bans research company that helped unearth Huawei's use of TSMC tech despite U.S. bans ⭐⭐
+
+**Score:** 7/10 | China has banned TechInsights, a research company, from operating within the country due to accusations of violating objections to cooperation with Taiwan and making negative statements about China. The ban stems from TechInsights' assistance in uncovering Huawei's use of TSMC technology, leading to accusations of suppressing Chinese companies. This action highlights China's concerns regarding technological collaboration with entities perceived as supporting U.S. sanctions.
+
+💡 *China’s ban on TechInsights underscores its efforts to control information and limit collaborations impacting U.S. sanctions.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/china-bans-research-company-that-helped-unearth-huaweis-use-of-tsmc-tech-despite-u-s-bans-techinsights-added-to-unreliable-entity-list-by-state-authorities)
+
+---
+
+### 24. South Korean government learns the importance of backups the hard way after catastrophic fire ⭐⭐
+
+**Score:** 7/10 | A catastrophic fire has destroyed 858 terabytes of data belonging to the South Korean government, highlighting a critical lack of backups. The incident underscores the vulnerability of government data and the importance of robust data protection measures. This event has prompted a realization of the need for reliable data backups.
+
+💡 *Government data vulnerability exposed, demanding immediate investment in robust backup systems.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/storage/south-korean-government-learns-the-importance-of-backups-the-hard-way-after-catastrophic-fire-858-terabytes-of-data-goes-up-in-magic-smoke)
+
+---
+
+### 25. Best Amazon Prime Day Tech Deals You Can Still Get Live Blog Best Tech & PC Hardware Deals on GPUs, CPUs, SSDs, and more ⭐⭐
+
+**Score:** 7/10 | This live blog provides updates on the top tech and PC hardware deals currently available during Amazon Prime Big Deals Day. It covers a wide range of products including GPUs, CPUs, SSDs, laptops, peripherals, and accessories.  Readers can find the best deals on hardware across various categories.
+
+💡 *Find the most significant Amazon Prime Day tech and PC hardware deals live now.*
+
+🔗 [Read More](https://www.tomshardware.com/news/live/best-amazon-prime-day-deals-you-can-still-get-live-best-tech-and-pc-hardware-deals-gpus-cpus-ssds-and-more-2025)
+
+---
+
+### 26. China expands rare-earth export controls, creating risks for PC component supply ⭐⭐
+
+**Score:** 7/10 | China is increasing its control over rare-earth elements, adding new materials and technologies to a restricted list. This expansion aims to safeguard national security, specifically targeting components used in HDDs and other products. The move poses potential risks to the supply chain of PC components globally.
+
+💡 *China’s rare-earth export controls significantly heighten risks to global PC component supply chains.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/china-expands-rare-earth-export-controls)
+
+---
+
+### 27. Valve's next-gen 'Deckard' VR headset reportedly enters mass production, company allegedly plans to ship up to 600K units annually ⭐⭐
+
+**Score:** 7/10 | Valve's highly anticipated 'Deckard' VR headset has begun mass production, with plans to ship up to 600,000 units annually. The headset, potentially named the 'Steam Frame', is slated for release before the end of the year and is expected to cost around $1,200. This marks a significant step in Valve's push into the next generation of VR hardware.
+
+💡 *Valve's 'Deckard' headset signals a major entrant into the high-end VR market.*
+
+🔗 [Read More](https://www.tomshardware.com/virtual-reality/valves-next-gen-deckard-vr-headset-reportedly-enters-mass-production-company-allegedly-plans-to-ship-up-to-600k-units-annually-upcoming-steam-frame-could-launch-before-the-end-of-the-year)
+
+---
+
+### 28. Discord says only 70,000 government ID photos exposed in third-party service breach, denies 2.1 million figure   says it won't pay $3.5 million ransom and has cut communications with hackers, who are threatening to go public ⭐⭐
+
+**Score:** 7/10 | Discord is disputing earlier reports that a breach exposed data for 2.1 million users, stating that only 70,000 government ID photos were compromised. The company has refused to pay a $3.5 million ransom demand and has severed all communication with the hackers threatening to release the data publicly.
+
+💡 *A significant Discord breach exposed only limited government ID data, impacting user privacy concerns.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/discord-says-only-70-000-government-id-photos-exposed-in-third-party-service-breach-denies-2-1-million-figure-says-it-wont-pay-usd3-5-million-ransom-and-has-cut-communications-with-hackers-who-are-threatening-to-go-public)
+
+---
+
+### 29. upyOS modular MicroPython-based OS for microcontrollers works with ESP32, RP2040, etc ⭐⭐
+
+**Score:** 7/10 | upyOS is a modular, lightweight operating system for microcontrollers, primarily designed for devices like the ESP32 and RP2040. It offers a Unix-like environment with features such as remote development, OTA updates, and a built-in web server, thanks to its modular architecture and support for background execution and scripting.
+
+💡 *upyOS provides a flexible, Unix-like microkernel OS for embedded devices, enabling advanced development and IoT applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/09/upyos-modular-micropython-based-os-for-microcontrollers-esp32-rp2040/)
+
+---
+
+### 30. Qualcomm acquires Arduino, introduces Arduino UNO Q dual-brain SBC ⭐⭐
+
+**Score:** 7/10 | Qualcomm's acquisition of Arduino aims to integrate Qualcomm's technologies with Arduino's ecosystem, launching the Arduino UNO Q SBC, a dual-brain board powered by Qualcomm and STMicroelectronics components. The acquisition seeks to unify development environments for diverse operating systems and AI flows. Despite the change in ownership, Arduino will maintain its open approach and community focus.
+
+💡 *Qualcomm’s acquisition merges hardware and AI development, promising streamlined workflows and open-source integration.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/07/qualcomm-acquires-arduino-introduces-arduino-uno-q-dual-brain-sbc/)
+
+---
+
+### 31. Easily add 80+ Mbps Ethernet to microcontrollers with WIZ630io QSPI RJ45 module ⭐⭐
+
+**Score:** 7/10 | The WIZnet WIZ630io module provides an easy way to integrate Ethernet connectivity into microcontrollers, specifically RP2350 boards, via a QSPI interface.  Featuring a W6300 controller, it supports speeds up to 80+ Mbps and includes 64KB of SRAM for each of its eight sockets. This module simplifies adding Ethernet to projects using SPI or QSPI communication.
+
+💡 *This module simplifies adding high-speed Ethernet connectivity to microcontrollers like the RP2350.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/05/easily-add-80-mbps-ethernet-to-microcontrollers-with-wiz630io-qspi-rj45-module/)
 
 ---
 
-### 24. kv4p HT Turn an Android smartphone into a ham radio transceiver ⭐⭐
+### 32. Linux-based Vega OS replaces Android-based Fire OS in Amazon Fire TV Stick 4K Select ⭐⭐
 
-**Score:** 7/10 | The kv4p HT is an open-source hardware accessory that transforms an Android smartphone into a handheld ham radio transceiver. It utilizes an ESP32 wireless module and an SA818 radio module, allowing for off-grid VHF/UHF voice and text communication.  The V2.0 version features an ESP32 SoC with dual-core processing and WiFi/Bluetooth connectivity.
+**Score:** 7/10 | Amazon is shifting away from its Fire OS, using it on previous Fire TV devices, and is now deploying a new Linux-based Vega OS on the Fire TV Stick 4K Select. This new OS comes with a MediaTek MT8698 processor and includes features like HDMI 2.1 and WiFi 5. The change represents a significant departure from Amazon's previous strategy.
 
-💡 *The kv4p HT offers a low-cost, accessible way to build a ham radio from an Android phone.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/10/04/kv4p-ht-turn-an-android-smartphone-into-an-ham-radio-transceiver/)
-
----
-
-### 25. Linux-based Vega OS replaces Android-based Fire OS in Amazon Fire TV Stick 4K Select ⭐⭐
-
-**Score:** 7/10 | Amazon has switched from its previous Fire OS to a new Linux-based Vega OS for the Fire TV Stick 4K Select. This new OS utilizes a MediaTek MT8698 processor and offers features like HDMI 2.1 and WiFi 5. The change represents a significant departure from Amazon’s previous approach to Fire TV software.
-
-💡 *Amazon’s switch to Vega OS marks a major step toward a more competitive Fire TV experience.*
+💡 *Amazon's move to Vega OS signals a major shift towards a more competitive Fire TV platform.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/03/linux-based-vega-os-replaces-android-based-fire-os-in-amazon-fire-tv-stick-4k-select/)
 
 ---
 
-### 26. M5Stack LLM-8850 card ⭐⭐
+### 33. M5Stack LLM-8850 card ⭐⭐
 
-**Score:** 7/10 | The M5Stack LLM-8850 card is an M.2 AI accelerator module utilizing the Axera AX8850 24 TOPS SoC, designed for accelerating AI workloads on devices like Raspberry Pi 5 and Rockchip SBCs. It features 8GB of LPDDR4x RAM, 32MB of flash storage, and supports 8K video encoding/decoding capabilities with 16 channels.  An active cooling system ensures stable operation.
+**Score:** 7/10 | The M5Stack LLM-8850 card is an M.2 AI accelerator module utilizing the Axera AX8850 24 TOPS SoC, designed for accelerating AI workloads on host devices like Raspberry Pi and Rockchip SBCs. It features 8GB of LPDDR4x RAM and supports 8K video encoding/decoding, alongside an active cooling system. This card is a versatile hardware solution for edge AI applications.
 
-💡 *The M5Stack LLM-8850 card offers a powerful, compact AI accelerator for edge computing applications.*
+💡 *The M5Stack LLM-8850 card offers a powerful, compact solution for accelerating AI at the edge.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/03/m5stack-llm-8850-card-an-m-2-m-key-ai-accelerator-module-based-on-axera-ax8850-24-tops-soc/)
 
 ---
 
-### 27. AAEON GENE-ARH6 ⭐⭐
+### 34. Snapdragon X2 Elite Extreme and X2 Elite processors target high-end Windows PCs ⭐⭐
 
-**Score:** 7/10 | The AAEON GENE-ARH6 is a 3.5-inch subcompact industrial SBC featuring the Intel Core Ultra 200H/U series processors, offering up to 96 TOPS of AI performance. It supports significant memory, display outputs, and extensive connectivity options, including multiple M.2 slots for expansion. This robust SBC is designed for demanding applications like robotics and industrial deployments requiring high performance and flexibility.
+**Score:** 7/10 | Qualcomm has launched the Snapdragon X2 Elite Extreme and X2 Elite processors designed for high-end Windows laptops. These 3nm processors boast impressive specs, including high clock speeds, advanced AI capabilities with an 80 TOPS Hexagon NPU, and cutting-edge connectivity features like WiFi 7 and PCIe Gen5. Qualcomm aims to deliver the fastest and most efficient performance for demanding laptop applications.
 
-💡 *The AAEON GENE-ARH6 delivers powerful AI and connectivity for demanding industrial and robotics applications.*
+💡 *Qualcomm’s Snapdragon X2 Elite processors promise a new era of high-performance Windows laptops.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/02/snapdragon-x2-elite-extreme-and-x2-elite-processors-target-high-end-windows-pcs/)
+
+---
+
+### 35. AAEON GENE-ARH6 ⭐⭐
+
+**Score:** 7/10 | The AAEON GENE-ARH6 is a 3.5-inch industrial SBC featuring Intel Core Ultra 200H/U SoCs, offering up to 96 TOPS of AI performance. It supports high memory capacity, multiple display outputs, and extensive connectivity options, alongside expansion slots like M.2 and PCIe. Designed for robust industrial applications, it includes security features and a wide operating temperature range.
+
+💡 *The AAEON GENE-ARH6 delivers powerful AI and connectivity for demanding industrial applications.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/01/aaeon-gene-arh6-a-3-5-inch-subcompact-industrial-sbc-with-intel-core-ultra-200h-u-soc/)
 
 ---
 
-### 28. ARIES MSRZG3E OSM-compliant SiP with Renesas RZ/G3E MPU targets industrial HMI and Edge AI ⭐⭐
+### 36. Aries MSRZG3E OSM-compliant SiP with Renesas RZ/G3E MPU targets industrial HMI and Edge AI ⭐⭐
 
-**Score:** 7/10 | The ARIES MSRZG3E is an OSM-compliant system-in-package (SiP) utilizing the Renesas RZ/G3E MPU, designed for industrial applications, particularly HMI and Edge AI.  It boasts a powerful Cortex-A55 CPU, a Cortex-M33 core, and an Ethos-U55 NPU for AI acceleration, alongside comprehensive connectivity options.  The SiP offers flexible memory configurations and supports dual displays and video codecs.
+**Score:** 7/10 | The ARIES MSRZG3E is an OSM-compliant system-in-package (SiP) utilizing the Renesas RZ/G3E MPU, specifically designed for industrial HMI and Edge AI applications.  It features a quad-core Arm Cortex-A55 CPU, a Cortex-M33 real-time core, and an Ethos-U55 NPU offering significant AI processing capabilities, alongside a range of connectivity options.  The SiP comes with various memory and storage options, ensuring flexibility for diverse industrial deployments.
 
-💡 *The ARIES MSRZG3E SiP brings powerful Edge AI and HMI capabilities to industrial applications via OSM compliance.*
+💡 *Aries’ MSRZG3E SiP unlocks powerful industrial HMI and Edge AI with open-source Renesas RZ/G3E.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/01/aries-msrzg3e-osm-compliant-sip-with-renesas-rz-g3e-mpu-targets-industrial-hmi-and-edge-ai/)
 
 ---
 
-### 29. Fogwise AIRbox Q900 $599 Qualcomm IQ-9075 AI Box delivers up to 200 TOPS of AI performance ⭐⭐
+### 37. Fogwise AIRbox Q900 $599 Qualcomm IQ-9075 AI Box delivers up to 200 TOPS of AI performance ⭐⭐
 
-**Score:** 7/10 | The Fogwise AIRbox Q900 is a new AI box utilizing a Qualcomm IQ-9075 SoC, offering 200 TOPS of AI performance, 36GB of RAM, and 128GB of storage. It's positioned as a cost-effective alternative to the NVIDIA Jetson Orin NX, boasting similar performance and efficiency. The box includes real-time cores and multiple processing units for versatile AI applications.
+**Score:** 7/10 | The Fogwise AIRbox Q900 is a new AI micro-server boasting a Qualcomm IQ-9075 SoC with 200 TOPS of AI performance, 36GB of RAM, and 128GB of storage. Designed as a competitor to the NVIDIA Jetson Orin NX, it offers comparable performance and efficiency at a lower overall cost.  Key features include real-time cores, high-speed networking, and a dedicated VPU.
 
-💡 *The Fogwise AIRbox Q900 presents a competitive, cost-effective AI solution with strong performance.*
+💡 *The Fogwise AIRbox Q900 presents a compelling, cost-effective AI solution for edge computing.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/30/fogwise-airbox-q900-599-qualcomm-iq-9075-ai-box-delivers-up-to-200-tops-of-ai-performance/)
 
 ---
 
-### 30. Olimex RP2350-PICO2 open hardware boards expose all 48 GPIOs for breadboard prototyping ⭐⭐
+### 38. Orange Pi AI Studio Pro A Huawei Ascend 310 AI box with up to 352 TOPS, 192GB RAM ⭐⭐
 
-**Score:** 7/10 | Olimex has released the RP2350-PICO2-BB48 and BB48R open hardware boards based on the RP2350B MCU, offering all 48 GPIOs for easy breadboard prototyping. These boards feature a breadboard-friendly design with options for PSRAM and microSD, alongside USB-C power, and various connectors. They are ideal for DIY projects and hardware experimentation.
+**Score:** 7/10 | The Orange Pi AI Studio Pro is an AI box utilizing two Huawei Ascend 310 processors, offering up to 352 TOPS of performance and 192GB of RAM. It builds upon the Orange Pi AIPro and is designed for AI applications, though it lacks common ports like HDMI and Ethernet. This device is a significant step forward in accessible AI hardware.
 
-💡 *Olimex's RP2350-PICO2 boards provide a readily accessible platform for extensive GPIO experimentation.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/29/olimex-rp2350-pico2-open-hardware-boards-expose-all-48-gpios-for-breadboard-prototyping/)
-
----
-
-### 31. Arduino cloud adds Bluetooth based provisioning, starting with UNO R4 WiFi ⭐⭐
-
-**Score:** 7/10 | Arduino has launched a new Bluetooth-based provisioning flow for the UNO R4 WiFi board through the Arduino IoT Cloud Remote app, simplifying initial setup and eliminating the need for cables. This new feature allows users to power, connect, and configure the board, and once provisioned, it can be managed with a suite of cloud features. Future updates will extend this functionality to more Arduino boards.
-
-💡 *Arduino simplifies board setup with Bluetooth provisioning, expanding IoT Cloud's reach.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/26/arduino-cloud-adds-bluetooth-based-provisioning-starting-with-uno-r4-wifi/)
-
----
-
-### 32. A Catalyst for Open Source: NextPCB Launches KiCad Projects Platform to Fuel the Future of KiCad (Sponsored) ⭐⭐
-
-**Score:** 7/10 | NextPCB has launched kicadprojects.com, a platform designed to foster the KiCad open-source community by enabling project sharing, collaboration, and streamlining workflows.  As a platinum KiCad sponsor, NextPCB is committed to supporting the community through this initiative and donating $10 USD per approved project. This platform aims to accelerate innovation and growth within the open-source electronics design space.
-
-💡 *NextPCB’s KiCad Projects platform empowers open-source electronics design through community-driven project sharing and support.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/26/a-catalyst-for-open-source-nextpcb-launches-kicad-projects-platform-to-fuel-the-future-of-kicad/)
-
----
-
-### 33. Espressif s EchoEar ESP32-S3 voice-controlled AI chatbot runs esp-brookesia firmware ⭐⭐
-
-**Score:** 7/10 | The Espressif EchoEar is a compact ESP32-S3 AI chatbot featuring a circular touch display, dual microphones, and support for large AI models like OpenAI and Gemini. It leverages the ESP32-S3-WROOM-1 SoC with a dual-core Tensilica LX7 processor and utilizes edge AI capabilities. The device includes a speaker, microSD card slot, and IMU for a versatile voice-controlled experience.
-
-💡 *This device demonstrates a practical application of edge AI chatbots powered by ESP32-S3.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/26/espressif-echoear-esp32-s3-voice-controlled-ai-chatbot-with-circular-touchscreen-and-mic-array/)
-
----
-
-### 34. 5 Ways Embedded AI Processors are Revolutionizing Device Performance (Sponsored) ⭐⭐
-
-**Score:** 7/10 | Edge AI is shifting processing from the cloud to devices, driven by the need for faster responses and enhanced privacy. Embedded AI processors enable real-time decision-making by running optimized models locally, crucial for applications like industrial automation. This trend is fueling significant investment, projected to reach $261 billion by 2025.
-
-💡 *Edge AI processors are transforming device performance and driving a massive $261 billion market opportunity.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/25/5-ways-embedded-ai-processors-are-revolutionizing-device-performance/)
-
----
-
-### 35. Renesas RA0L1 low-cost Cortex-M23 MCUs adds capacitive, EMI-resistant touch ⭐⭐
-
-**Score:** 7/10 | Renesas has launched the RA0L1 MCU, the first in its RA0 series, incorporating integrated capacitive touch technology alongside features like a 1% on-chip oscillator and safety functions. Targeted at low-cost, battery-powered applications, the RA0L1 offers a robust combination of memory, peripherals, and capacitive touch capabilities. It’s designed for responsive touch control with ultra-low current consumption.
-
-💡 *Renesas' RA0L1 MCU delivers a cost-effective solution with integrated touch for battery-powered applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/24/renesas-ra0l1-low-cost-cortex-m23-mcus-adds-capacitive-emi-resistant-touch/)
-
----
-
-### 36. Using an overpowered vape as a secondary display ⭐⭐
-
-**Score:** 7/10 | A hacker has demonstrated running DOOM on an Aspire PIXO vape, utilizing its internal MCU, LCD, and USB-C port as a surprisingly capable secondary display. The project leverages an Aspire PIXO vape with a Cortex-M4F microcontroller and other components like Bluetooth and a color LCD. This showcases the potential for repurposing vape hardware for unconventional computing tasks.
-
-💡 *This project demonstrates the surprising potential of repurposed vape hardware for unconventional computing.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/22/using-an-overpowered-vape-as-a-secondary-display/)
-
----
-
-### 37. Compex JustWiFi driverless, Ethernet-connected Wi-Fi 7 module delivers up to 10 Gbps throughput (Sponsored) ⭐⭐
-
-**Score:** 7/10 | Compex Systems has introduced the JustWiFi module, a driverless Wi-Fi 7 solution that connects via Ethernet, offering up to 10 Gbps throughput. This innovative module simplifies Wi-Fi integration by eliminating the need for drivers and associated compatibility issues often encountered with traditional Wi-Fi modules.
-
-💡 *Compex’s JustWiFi module offers a simpler, faster Wi-Fi 7 solution with no drivers.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/22/compex-justwifi7-driverless-ethernet-connected-wi-fi-7-module-delivers-up-to-10-gbps-throughput/)
-
----
-
-### 38. ASRock Challenger RX 9070 16GB drops to $549 get more VRAM than an RTX 5070 for the same amount of green 
-
-**Score:** 6/10 | The ASRock RX 9070 XT Challenger 16GB is currently priced at $549, matching the price of the cheapest RTX 5070. This offers consumers more VRAM compared to the RTX 5070 for the same cost. It's a compelling option for gamers seeking high performance.
-
-💡 *The RX 9070 XT offers more VRAM than the RTX 5070 at a competitive price.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/asrock-challenger-rx-9070-16gb-drops-to-usd549-get-more-vram-than-an-rtx-5070-for-the-same-amount-of-green)
-
----
-
-### 39. Three Steam Deck-ready 2230 SSD upgrades are at record low prices 
-
-**Score:** 6/10 | Several M.2-2230 SSD upgrades designed for the Steam Deck are currently available at record low prices. The Crucial P310 2TB is particularly discounted at $121.99, while WD and Kingston 1TB models have dropped to as low as $65. These SSDs are appealing for enhancing the performance of the handheld gaming device.
-
-💡 *Steam Deck owners can now significantly upgrade their devices with affordable SSDs.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/three-steam-deck-ready-2230-ssd-upgrades-are-at-record-low-prices-crucial-p310-2tb-at-lowest-ever-49-percent-off-wd-and-kingston-1tb-models-dip-as-low-as-usd65)
-
----
-
-### 40. Microsoft says Xbox hardware isn't going anywhere company reaffirms commitment to AMD-powered next-gen console 
-
-**Score:** 6/10 | Microsoft has stated that plans to discontinue its Xbox hardware are not part of a strategy to leave the gaming console market. Recent price increases for Xbox Game Pass are unrelated to this shift. The company remains committed to its AMD-powered next-generation console. 
-
-💡 *Microsoft’s reaffirmation solidifies the Xbox’s future and its continued reliance on AMD.*
-
-🔗 [Read More](https://www.tomshardware.com/video-games/xbox/microsoft-says-xbox-hardware-isnt-going-anywhere-company-reaffirms-commitment-to-amd-powered-next-gen-console)
-
----
-
-### 41. One of the best 8TB SSDs is now also the cheapest at just 6 cents per GB save up to 14% on the 8TB WD Black SN850X and solve your storage needs for good 
-
-**Score:** 6/10 | The WD Black SN850X 8TB SSD is now available for $515.98, a significant discount from its previous price of $599.99. This price reduction makes it a highly affordable option for large storage needs.  At just 6 cents per GB, it represents an excellent value.
-
-💡 *The WD Black SN850X 8TB SSD now offers incredible value at a remarkably low price.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/one-of-the-best-8tb-ssds-is-now-also-the-cheapest-at-just-6-cents-per-gb-save-up-to-14-percent-on-the-8tb-wd-black-sn850x-and-solve-your-storage-needs-for-good)
-
----
-
-### 42. Acer chief says Nvidia s Intel investment will complicate PC supply chains 
-
-**Score:** 6/10 | Acer CEO Jason Chen believes Nvidia and Intel's partnership poses challenges for PC manufacturers' product planning and placement. He also expressed skepticism about the potential realization of a 50/50 joint venture proposal. This collaboration could significantly impact the established PC supply chain.
-
-💡 *Nvidia and Intel's partnership threatens to disrupt established PC supply chains and complicate manufacturer planning.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/acer-chief-says-nvidias-intel-investment-will-complicate-pc-supply-chains-says-lutnicks-50-50-proposal-could-take-50-years-to-realize)
-
----
-
-### 43. Developer recreates classic shoot 'em up Zaxxon as a UEFI firmware isometric arcade game coded in x86 assembly for no-OS represents 'total freedom from big tech' 
-
-**Score:** 6/10 | A Zaxxon recreation has been developed as a UEFI application utilizing x86-64 Assembly language. This project creates an isometric arcade game without relying on a traditional operating system, aiming for complete independence from large technology corporations. The application is a self-contained gaming experience built at the lowest hardware level.
-
-💡 *This project demonstrates a radical approach to game development, prioritizing absolute hardware control and independence.*
-
-🔗 [Read More](https://www.tomshardware.com/software/programming/developer-recreates-classic-shoot-em-up-zaxxon-as-a-uefi-firmware-isometric-arcade-game-coded-in-x86-assembly-for-no-os-represents-total-freedom-from-big-tech)
-
----
-
-### 44. Logitech s new MX Master 4 is already $30 off on Best Buy and cheaper than its predecessor   Prime Day alternative yields unexpected discount just 7 days after launch 
-
-**Score:** 6/10 | The newly released Logitech MX Master 4 mouse is already discounted by $30 at Best Buy, a surprising early promotion. This discount represents a significant price drop compared to its previous generation. The reduced price is occurring shortly after the mouse's launch, resembling a Prime Day-like deal.
-
-💡 *Logitech MX Master 4 launched with a surprising early discount, offering a significant value proposition.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/logitechs-new-mx-master-4-is-already-usd30-off-on-best-buy-and-cheaper-than-its-predecessor-prime-day-alternative-yields-unexpected-discount-just-7-days-after-launch)
-
----
-
-### 45. Grab a 4TB SSD for 5 cents per gigabyte during Prime Day sales 8TB models start as low as 7 cents per GB 
-
-**Score:** 6/10 | During Prime Day, SSD prices have significantly decreased, with 4TB models available at an exceptionally low rate of 5 cents per gigabyte. Larger 8TB models are also becoming more affordable, with prices dropping to around 7 cents per GB. This represents a substantial reduction in cost compared to previous years.
-
-💡 *Prime Day SSD deals offer a massive opportunity for significant storage cost savings.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/best-4tb-8tb-ssd-deals-2025)
-
----
-
-### 46. Swiss lab where researchers are working to create computers powered by mini human brains revealed in new report   mini brain organoids revealed, developers say 'we shouldn't be scared of them' 
-
-**Score:** 6/10 | Researchers in a Swiss lab are developing computers utilizing miniature human brain organoids. The project aims to create functioning computer systems based on these bio-chips. Developers emphasize that the technology shouldn't be viewed with fear.
-
-💡 *Researchers are pioneering a potentially transformative computing approach using human brain organoids.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/swiss-lab-where-researchers-are-working-to-create-computers-powered-by-mini-human-brains-revealed-in-new-report-mini-brain-organoids-revealed-developers-say-we-shouldnt-be-scared-of-them)
-
----
-
-### 47. Best Amazon Prime Day Tech Deals Live Blog - The Best Tech & PC Hardware Deals on GPUs, CPUs, SSDs, and more 
-
-**Score:** 6/10 | This live blog provides real-time coverage of the top tech and PC hardware deals available during Amazon Prime Day. It highlights significant discounts on items like GPUs, CPUs, SSDs, laptops, peripherals, and accessories.  It's a resource for finding the best deals across a wide range of hardware.
-
-💡 *Stay ahead of the curve with the most current Amazon Prime Day tech deals.*
-
-🔗 [Read More](https://www.tomshardware.com/news/live/best-amazon-prime-day-deals-live-the-best-tech-and-pc-hardware-deals-on-gpus-cpus-ssds-and-more)
-
----
-
-### 48. Japanese tech giant deploys laser drones to protect chickens 
-
-**Score:** 6/10 | NTT has developed a laser drone system specifically designed for Japanese poultry farms. The drones are intended to deter and prevent the transmission of avian flu by targeting potential spreaders. This innovative technology offers a proactive approach to combating the disease.
-
-💡 *NTT’s laser drones represent a novel, proactive solution to combating avian flu in poultry farms.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/japanese-tech-giant-deploys-laser-drones-to-protect-chickens-drones-are-hoped-to-prevent-the-spread-of-avian-flu)
-
----
-
-### 49. Save over $1,200 on a RTX 4060 gaming laptop during Prime Day   pay less than half the normal price for the MSI Raider GE68HX 
-
-**Score:** 6/10 | The MSI Raider GE68HX, a popular model from last year, is currently available at a significantly discounted price during Prime Day. This offer represents a substantial savings—under half the typical cost—making it an exceptional value for gamers. It combines strong performance with premium features.
-
-💡 *Prime Day offers a remarkable discount on the MSI Raider GE68HX, saving gamers over $1,200.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/save-over-usd1-200-on-a-rtx-4060-gaming-laptop-during-prime-day-pay-less-than-half-the-normal-price-for-the-msi-raider-ge68hx)
-
----
-
-### 50. Intel s Core Ultra 5 225F is at an all-time low $170, making Arrow Lake more affordable ahead of Amazon's Prime Day sale 
-
-**Score:** 6/10 | The Intel Core Ultra 5 225F processor is currently priced at an all-time low of $170, offering a strong feature set including 10 cores and PCIe 5.0. This affordability makes the Arrow Lake platform more accessible, particularly as Amazon prepares for its Prime Day sale.  It represents a compelling entry point into Intel's new generation of processors.
-
-💡 *The $170 Intel Core Ultra 5 225F makes the Arrow Lake platform a prime early investment opportunity.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/intels-core-ultra-5-225f-is-at-an-all-time-low-usd170-making-arrow-lake-more-affordable-ahead-of-amazons-prime-day-sale)
-
----
-
-### 51. Microsoft reportedly mulls ad-infested free Xbox Cloud Gaming plan 
-
-**Score:** 6/10 | Microsoft is planning a new, ad-supported free tier for Xbox Cloud Gaming. This tier will feature two-minute ads before each session and limit playtime to one hour with five hours of total usage per month. The free tier will offer access to a limited selection of games.
-
-💡 *Microsoft’s ad-supported Cloud Gaming tier signals a potential shift towards accessibility and monetization.*
-
-🔗 [Read More](https://www.tomshardware.com/video-games/cloud-gaming/microsoft-reportedly-mulls-ad-infested-free-xbox-cloud-gaming-plan-game-pass-ultimate-subscriber-allegedly-catches-ad-during-game-loading)
-
----
-
-### 52. Hyper 212 Pro CPU air cooler drops to an all-time low of $18 just before Prime Day   save big with a 49% discount 
-
-**Score:** 6/10 | The Cooler Master Hyper 212 Pro air cooler is currently discounted to an all-time low of $18, representing a 49% savings. This makes it an incredibly affordable option for CPU cooling, especially with it being offered just before Amazon's Prime Big Deals Day. It's a popular choice for budget-conscious PC builders and enthusiasts.
-
-💡 *The Hyper 212 Pro is now an unbelievably cheap CPU cooler, perfect for budget builds.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/air-cooling/hyper-212-pro-cpu-air-cooler-drops-to-an-all-time-low-of-usd18-just-before-prime-day-save-big-with-a-49-percent-discount)
-
----
-
-### 53. Discord data hacked in latest customer service breach to expose user information 
-
-**Score:** 6/10 | Discord experienced a data breach due to hackers accessing its support systems through a third-party provider. The attackers attempted extortion but were stopped after Discord cut off access. The breach exposed some user information, prompting an ongoing investigation.
-
-💡 *Users should be vigilant about their Discord accounts following this significant security breach.*
-
-🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/discord-data-hacked-in-latest-customer-service-breach-to-expose-user-information-hackers-gained-access-via-third-party-support-systems-but-didnt-steal-passwords)
-
----
-
-### 54. Ultra-rare unreleased Pentium 4 with 4.0 GHz clock speed discovered 
-
-**Score:** 6/10 | An extremely rare Intel engineering sample of a Pentium 4 processor has been found online.  The sample, identified as an Intel Pentium Extreme Edition 980, boasts a significant 4.0 GHz clock speed. This discovery provides a glimpse into the final stages of development for the Pentium 4 architecture.
-
-💡 *This engineering sample reveals a previously unknown 4.0 GHz Pentium 4, showcasing a final, high-performance iteration.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/ultra-rare-unreleased-pentium-4-with-4-0-ghz-clock-speed-discovered-cpu-z-confirms-it-is-an-intel-pentium-extreme-edition-980)
-
----
-
-### 55. AOL's dial-up internet service killed with a final modem screech after 34 years 
-
-**Score:** 6/10 | America Online's long-running dial-up internet service has been discontinued after 34 years of operation. This marks the end of an era for the service, which relied on modem connections. While AOL's service is offline, other dial-up services continue to exist.
-
-💡 *AOL's shutdown signifies the definitive end of a transformative era in internet access.*
-
-🔗 [Read More](https://www.tomshardware.com/service-providers/network-providers/aols-dial-up-internet-service-killed-with-a-final-modem-screech-this-week-after-34-years-america-online-goes-offline-but-other-dual-up-services-still-exist)
-
----
-
-### 56. Best MicroSD Express Cards for Nintendo Switch 2 in 2025 
-
-**Score:** 6/10 | This guide reviews the top microSD Express cards specifically designed for the Nintendo Switch 2, selected after rigorous lab testing. We've evaluated cards to ensure they meet the varied needs and budgets of Switch 2 users. The rankings are based on detailed performance benchmarks.
-
-💡 *This guide delivers the definitive rankings of fastest microSD cards for the Nintendo Switch 2’s enhanced storage needs.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/microsd-cards/best-microsd-express-cards-for-nintendo-switch-2)
-
----
-
-### 57. Jeff Bezos envisions space-based data centers in 10 to 20 years 
-
-**Score:** 6/10 | Jeff Bezos proposes building gigawatt-scale orbital data centers within two decades, leveraging continuous solar energy and space-based cooling. However, the ambitious project faces significant hurdles due to the high cost and technical complexity of launching vast quantities of hardware into space. Currently, the concept is commercially unviable.
-
-💡 *Bezos’ orbital data centers represent a radical, yet currently unfeasible, vision for future computing.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/jeff-bezos-envisions-space-based-data-centers-in-10-to-20-years-could-allow-for-natural-cooling-and-more-effective-solar-power)
-
----
-
-### 58. Crucial's 20Gb/s X10 Pro 2TB external SSD is only $149 in this early Amazon Prime Day deal   rugged and portable USB-C storage for tech lovers 
-
-**Score:** 6/10 | Crucial is offering an early Prime Day deal on its X10 Pro 2TB external SSD for $149, representing a $59 discount. This rugged and portable drive provides large-capacity storage via USB-C, making it ideal for tech enthusiasts.
-
-💡 *Tech enthusiasts can snag a rugged, high-capacity SSD for a significantly discounted price.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/external-ssds/crucials-20gb-s-x10-pro-2tb-external-ssd-is-only-usd149-in-this-early-amazon-prime-day-deal-rugged-and-portable-usb-c-storage-for-tech-lovers)
-
----
-
-### 59. The latest Raspberry Pi OS images are now based on Debian 13 Trixie 
-
-**Score:** 6/10 | Raspberry Pi OS has updated its images to Debian 13 'Trixie,' bringing new packages and features including 64-bit time support. While primarily cosmetic with a new theme and icons, the update also includes some beneficial under-the-hood changes. According to a Raspberry Pi engineer, the changes are largely driven by updates within Debian itself.
-
-💡 *Raspberry Pi OS’s update to Debian 13 enhances stability and features for the popular single-board computer.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/10/06/raspberry-pi-os-debian-13-trixie/)
-
----
-
-### 60. DDR4 supply/demand stress leads to Raspberry Pi CM4/CM5 price increases 
-
-**Score:** 6/10 | Rising DDR4 memory costs, driven by increased demand for AI workloads, are significantly impacting the Raspberry Pi Compute Module 4 and 5 (CM4/CM5) and associated products.  Due to these higher memory costs, Raspberry Pi is increasing prices by $5-$10 for CM4/CM5 modules and the Raspberry Pi 500 keyboard PC. This price adjustment reflects the current market realities of DDR4 supply constraints.
-
-💡 *DDR4 memory costs are driving up the price of popular Raspberry Pi Compute Modules.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/10/02/ddr4-supply-demand-stress-leads-to-raspberry-pi-cm4-cm5-price-increases/)
-
----
-
-### 61. Orange Pi AI Studio Pro A Huawei Ascend 310 AI box with up to 352 TOPS, 192GB RAM 
-
-**Score:** 6/10 | The Orange Pi AI Studio Pro is an AI box featuring two Huawei Ascend 310 processors, delivering up to 352 TOPS of processing power and 192GB of RAM. It builds upon the previous Orange Pi AIPro and prioritizes AI performance through its octa-core architecture.  However, it has limited connectivity with only a USB 4.0 Type-C port.
-
-💡 *The Orange Pi AI Studio Pro offers a powerful, high-RAM AI box for enhanced edge computing performance.*
+💡 *The Orange Pi AI Studio Pro democratizes high-performance AI hardware with impressive specs.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/30/orange-pi-ai-studio-pro-huawei-ascend-310-ai-mini-pc-with-up-to-352-tops-192gb-ram/)
 
 ---
 
-### 62. Intel N97 mini-ITX motherboard targets industrial automation, digital signage, networking appliances 
+### 39. Linux 6.17 release Main changes, Arm, RISC-V, and MIPS architectures ⭐⭐
 
-**Score:** 6/10 | The Jetway DMTX-ADN1 mini-ITX motherboard utilizes the Intel N97 Alder Lake-N SoC, designed for demanding applications like industrial automation, digital signage, and networking. It offers robust features including DDR5 memory support, multiple display outputs, and extensive I/O capabilities. This versatile motherboard is ideal for kiosks and other embedded systems needing high performance and reliability.
+**Score:** 7/10 | Linux kernel 6.17 has been released with primarily minor fixes, including critical locking fixes to address Bluetooth use-after-free vulnerabilities. The release features typical driver updates, mostly in GPU and networking, alongside updates for Arm, RISC-V, and MIPS architectures.  The merge window for 6.18 is opening with a substantial number of pull requests pending.
 
-💡 *Intel’s N97 mini-ITX board expands options for high-performance embedded systems in industrial and digital markets.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/30/intel-n97-mini-itx-motherboard-targets-industrial-automation-digital-signage-networking-appliances/)
-
----
-
-### 63. Linux 6.17 release Main changes, Arm, RISC-V, and MIPS architectures 
-
-**Score:** 6/10 | Linux kernel 6.17 was released with primarily minor fixes, including Bluetooth locking fixes to prevent use-after-free errors. Driver updates, particularly for GPUs and networking, along with filesystem and core kernel improvements, comprised the majority of the changes. The merge window for 6.18 is opening with a substantial backlog of pull requests.
-
-💡 *Linux 6.17’s release highlights ongoing stability improvements and architecture support across key hardware platforms.*
+💡 *Linux 6.17’s release addresses critical vulnerabilities and continues architectural advancements across key processor families.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/29/linux-6-17-release-main-changes-arm-risc-v-and-mips-architectures/)
 
 ---
 
-### 64. LUNYEE 4040 PRO CNC router review with Candle software 
+### 40. Olimex RP2350-PICO2 open hardware boards expose all 48 GPIOs for breadboard prototyping ⭐⭐
 
-**Score:** 6/10 | The LUNYEE 4040 PRO CNC router is a robust machine designed for milling and engraving, featuring a larger work volume and a comprehensive accessory set including a probe system. This review utilizes Candle software, contrasting it with the previous 3018 Pro Ultra. It's particularly well-suited for beginners due to the included accessories and ease of setup.
+**Score:** 7/10 | Olimex has released the RP2350-PICO2-BB48 and BB48R open hardware boards based on the RP2350B MCU, offering all 48 GPIOs for easy breadboard prototyping. These boards feature a breadboard-friendly design with options for PSRAM and microSD, alongside standard connectivity like USB-C and various connectors. The pre-soldered headers and dual-core processor options make them perfect for DIY projects and hardware experimentation.
 
-💡 *This review demonstrates the LUNYEE 4040 PRO’s value for beginners using Candle software and its expanded capabilities.*
+💡 *Olimex’s RP2350-PICO2 boards unlock extensive GPIO access for simplified breadboard prototyping.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/09/29/olimex-rp2350-pico2-open-hardware-boards-expose-all-48-gpios-for-breadboard-prototyping/)
+
+---
+
+### 41. Arduino cloud adds Bluetooth based provisioning, starting with UNO R4 WiFi ⭐⭐
+
+**Score:** 7/10 | Arduino Cloud now offers a Bluetooth-based provisioning flow, beginning with the UNO R4 WiFi board, streamlining the initial setup process without cables. The Arduino IoT Cloud Remote app guides users through powering, connecting, and setting up the board, offering visual feedback and access to full Arduino Cloud features. This new flow includes 3 months of free Arduino Cloud Maker Plan access with the initial UNO R4 WiFi board release.
+
+💡 *Arduino Cloud simplifies board setup with Bluetooth, offering a cable-free and accessible initial experience.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/09/26/arduino-cloud-adds-bluetooth-based-provisioning-starting-with-uno-r4-wifi/)
+
+---
+
+### 42. A Catalyst for Open Source: NextPCB Launches KiCad Projects Platform to Fuel the Future of KiCad (Sponsored) ⭐⭐
+
+**Score:** 7/10 | NextPCB has launched kicadprojects.com, a platform designed to foster the KiCad open-source community by providing a space for sharing projects, collaborating, and streamlining PCB design workflows.  As a platinum KiCad sponsor, NextPCB is committing to donate $10 per approved project to support the KiCad Project, promoting innovation within the ecosystem. This initiative aims to strengthen the KiCad community and encourage the development of open-source hardware solutions.
+
+💡 *NextPCB’s KiCad Projects platform strengthens open-source hardware innovation and community support.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/09/26/a-catalyst-for-open-source-nextpcb-launches-kicad-projects-platform-to-fuel-the-future-of-kicad/)
+
+---
+
+### 43. 5 Ways Embedded AI Processors are Revolutionizing Device Performance (Sponsored) ⭐⭐
+
+**Score:** 7/10 | Edge AI is shifting processing power from the cloud to devices, enabling faster decision-making and enhanced privacy by running AI models locally. This trend, fueled by significant enterprise investment estimated at $261 billion by 2025, is driven by the ability to eliminate cloud latency and protect sensitive data.  The move to on-device AI processing is transforming industries like automation with real-time applications.
+
+💡 *Edge AI processors are dramatically improving device performance and privacy through local AI processing.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/09/25/5-ways-embedded-ai-processors-are-revolutionizing-device-performance/)
+
+---
+
+### 44. Save $80 off this humongous, enterprise-class hard drive   WD Gold 14TB HDD on clearance sale, just 1.7 cents per gigabyte 
+
+**Score:** 6/10 | Western Digital is offering a clearance sale on a 14TB enterprise-grade hard drive for $240, representing an incredible price of just 1.7 cents per gigabyte. This discount makes it a compelling option for users needing substantial mass storage. The WD Gold series is known for reliable performance.
+
+💡 *Western Digital’s clearance sale offers a remarkably affordable, high-capacity storage solution.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/hdds/save-usd80-off-this-humongous-enterprise-class-hard-drive-wd-gold-14tb-hdd-can-be-yours-for-usd240-thats-just-1-7-cents-per-gigabyte)
+
+---
+
+### 45. Bride surprises new husband with an RTX 5090 on wedding day   Chinese number slang reveals surprise gift 
+
+**Score:** 6/10 | A wedding video surfaced online showing the bride gifting her new husband an RTX 5090 graphics card. This unexpected present quickly went viral, highlighting a significant tech offering. The incident showcased a memorable and extravagant wedding surprise.
+
+💡 *This viral wedding gift demonstrates the growing influence and desirability of high-end gaming hardware.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/bride-surprises-new-husband-with-an-rtx-5090-on-wedding-day-chinese-number-slang-reveals-surprise-gift)
+
+---
+
+### 46. Secretlab Titan Evo NanoGen Review: The Next Generation 
+
+**Score:** 6/10 | The Secretlab Titan Evo NanoGen introduces a revamped design featuring a new leatherette fabric and enhanced padding for improved comfort during extended gaming and work sessions. This update focuses on delivering a more comfortable user experience compared to previous Titan Evo models. It represents the next iteration of the popular Secretlab Titan Evo series.
+
+💡 *The Secretlab Titan Evo NanoGen prioritizes enhanced comfort, marking a significant evolution for the popular gaming chair series.*
+
+🔗 [Read More](https://www.tomshardware.com/peripherals/gaming-chairs/secretlab-titan-evo-nanogen-review-the-next-generation)
+
+---
+
+### 47. Converted school bus turned into mobile retro computing museum   historic array includes Sinclair (Timex) ZX Spectrum 48K and Commodore 64 
+
+**Score:** 6/10 | A father and son have transformed an old school bus into a unique mobile museum dedicated to retro computing. The museum features a collection of classic computers, notably the ZX Spectrum 48K and Commodore 64. This project highlights a revival of vintage gaming and computing.
+
+💡 *This creative project celebrates and preserves a beloved era of computing and gaming.*
+
+🔗 [Read More](https://www.tomshardware.com/video-games/retro-gaming/converted-school-bus-turned-into-mobile-retro-computing-museum-historic-array-includes-sinclair-timex-zx-spectrum-48k-and-commodore-64)
+
+---
+
+### 48. President Trump warns of massively increased tariffs in wake of China's rare earth mineral 'monopoly position'   Xi Jinping meeting cancelled as Trump promises retaliation for Beijing's expanded export controls 
+
+**Score:** 6/10 | President Trump is threatening new tariffs on China in response to Beijing's expanded export controls of rare earth minerals. He claims America possesses twice the resources and is considering further retaliatory measures. This follows the cancellation of a planned meeting between Trump and Xi Jinping.
+
+💡 *Trump’s tariff threat escalates trade tensions over China’s rare earth mineral control.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/president-trump-warns-of-massively-increased-tariffs-in-wake-of-chinas-rare-earth-mineral-monopoly-position-xi-jinping-meeting-cancelled-as-trump-promises-retaliation-for-beijings-expanded-export-controls)
+
+---
+
+### 49. Microsoft cancels Wisconsin data center after community pushback 
+
+**Score:** 6/10 | Microsoft has halted its construction of a 244-acre data center in Caledonia, Wisconsin, due to significant opposition from the local community. Despite this setback, Microsoft maintains its commitment to the region. The project's cancellation reflects community concerns about the data center's impact.
+
+💡 *Community opposition successfully halted Microsoft’s Wisconsin data center project, raising questions about tech development and local impact.*
+
+🔗 [Read More](https://www.tomshardware.com/desktops/servers/microsoft-cancels-wisconsin-data-center-after-community-pushback-244-acre-caledonia-site-on-hold-but-redmond-says-it-remains-committed-to-the-region)
+
+---
+
+### 50. The best 1TB microSD Express card for your Switch 2 is still 28% off save $62 on the Lexar Play Pro 1TB 
+
+**Score:** 6/10 | Despite Amazon Prime Day ending, you can still purchase the Lexar Play Pro 1TB microSD Express card for your Switch 2 at a significant discount of 28%. This card is currently priced $62 lower than its original cost. It’s a great deal for expanding storage on your Nintendo Switch 2.
+
+💡 *Nintendo Switch 2 owners can snag a fantastic deal on a high-capacity, fast microSD card.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/microsd-cards/the-best-1tb-microsd-express-card-for-your-switch-2-is-still-28-percent-off-save-usd62-on-the-lexar-play-pro-1tb)
+
+---
+
+### 51. Concerns grow after spate of social media posts showing SpaceX Starlink satellites burning in the sky 
+
+**Score:** 6/10 | A recent increase in satellite re-entries – currently a couple per day – is raising concerns about the risk of satellites falling to Earth. This trend highlights the growing congestion of space and the potential for collisions. An astrophysicist has commented on this escalating issue.
+
+💡 *Rising satellite re-entries spark concerns about space debris and potential dangers.*
+
+🔗 [Read More](https://www.tomshardware.com/networking/concerns-grow-after-spate-of-social-media-posts-showing-spacex-starlink-satellites-burning-in-the-sky-we-are-currently-seeing-a-couple-of-satellite-re-entries-a-day-says-respected-astrophysicist)
+
+---
+
+### 52. Washington's ambition for a 50/50 semiconductor deal with Taiwan is missing a key component lack of a mature homegrown supply chain could be the missing link 
+
+**Score:** 6/10 | Secretary Lutnick's plan to equally share chip production with Taiwan aims for self-sufficiency but is hampered by a lack of a robust U.S. supply chain for crucial materials and tools. The initiative's symbolic nature is further underscored by ongoing reliance on other nations like Japan, Europe, and Korea. Ultimately, the plan’s success hinges on developing a mature domestic semiconductor ecosystem.
+
+💡 *Washington’s ambitious chip deal relies on a critical, currently absent, U.S. supply chain.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/washingtons-ambition-for-a-50-50-semiconductor-deal-with-taiwan-is-missing-a-key-component-lack-of-a-mature-homegrown-supply-chain-could-be-the-missing-link)
+
+---
+
+### 53. Anker s 25,000 mAh Laptop Power Bank 
+
+**Score:** 6/10 | During Prime Day, the Anker Laptop Power Bank is available for $89 and boasts a massive 25,000 mAh capacity. It features two integrated USB-C cables and a powerful 165W maximum output, making it ideal for charging laptops and other devices.  It's TSA-approved for travel convenience.
+
+💡 *This Anker power bank offers a high-capacity, powerful solution for charging laptops on the go.*
+
+🔗 [Read More](https://www.tomshardware.com/peripherals/ankers-25-000-mah-laptop-power-bank-is-usd89-for-prime-day-this-discounted-portable-charger-includes-two-integrated-usb-c-cables-and-165w-max-output)
+
+---
+
+### 54. These are the best CPU cooler deals we found this Prime Day, up to 37% off deals from Cooler Master, Thermalright, MSI, Corsair, and Thermaltake for every budget 
+
+**Score:** 6/10 | Prime Day offers remain available for CPU cooler deals, with significant discounts up to 37% across brands like Cooler Master and Thermalright. The Thermalright Grand Vision 360 currently stands out as the top deal, but many other options cater to various budgets. This article highlights the best CPU cooler deals for Prime Big Deals Day.
+
+💡 *Prime Day’s CPU cooler deals offer significant savings for builders of all budgets.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/these-are-the-best-cpu-cooler-deals-we-found-this-prime-day-up-to-37-percent-off-deals-from-cooler-master-thermalright-msi-corsair-and-thermaltake-for-every-budget)
+
+---
+
+### 55. Samsung's speedy 24-inch 180Hz gaming monitor hits historical all-time $109 low   nearly half-price Odyssey G3 G30D is $90 off on stellar sale for Prime Day 
+
+**Score:** 6/10 | The Samsung Odyssey G3 G30D gaming monitor is currently available at a record low price of $139 on Amazon. This represents a nearly half-price reduction, offering a significant discount for Prime Day shoppers.  The monitor's impressive 180Hz refresh rate makes it a compelling gaming option.
+
+💡 *Samsung’s Odyssey G3 is dramatically discounted, offering a rare prime gaming deal.*
+
+🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/samsung-24-inch-180hz-gaming-monitor-prime-day-2025)
+
+---
+
+### 56. ESP32-based dual-port WLED controller features Ethernet port, 24V DC input 
+
+**Score:** 6/10 | The 2-Port ESP32 ETH0 WLED Controller offers an alternative to popular WLED controllers like Adafruit's, boasting Ethernet connectivity and dual 5V-24V LED outputs. This board includes an onboard DC-DC converter and fuses for each output channel, ensuring stable power and safety. It combines Ethernet and Wi-Fi capabilities for versatile WLED control.
+
+💡 *This ESP32 WLED controller provides a versatile, Ethernet-enabled option for advanced lighting control.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/11/esp32-based-dual-port-wled-controller-features-ethernet-port-24v-dc-input/)
+
+---
+
+### 57. FoBE IDEA Mesh Tracker C1 
+
+**Score:** 6/10 | The FoBE IDEA Mesh Tracker C1 is a LoRa-powered GPS tracker utilizing an nRF52840 MCU and designed for remote outdoor applications. It integrates GPS, LoRa, BLE, and sensors like an OLED display, accelerometer, and gyroscope, offering location tracking and environmental monitoring capabilities. The device features a battery-powered design with a 2-pin MX1.25 interface and extensive connectivity options.
+
+💡 *This tracker offers versatile remote location and environmental monitoring for diverse outdoor applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/10/fobe-idea-mesh-tracker-c1-an-nrf52840-based-lora-gps-tracker-with-sensors-oled-knob-and-more/)
+
+---
+
+### 58. Avalue EPC-ASL Intel N97 fanless industrial mini PC is designed for 24/7 operation 
+
+**Score:** 6/10 | The Avalue EPC-ASL is a rugged, fanless industrial mini PC featuring an Intel N97 processor, built for continuous 24/7 operation and edge computing applications. It offers robust connectivity with dual 2.5GbE, ample storage options, and supports up to 16GB of DDR5 memory. This PC is suitable for demanding industrial environments like smart manufacturing and surveillance.
+
+💡 *Avalue EPC-ASL delivers reliable, 24/7 performance for demanding industrial edge computing needs.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/10/avalue-epc-asl-intel-n97-fanless-industrial-mini-pc-is-designed-for-24-7-operation/)
+
+---
+
+### 59. Weffort Outdoor Smart Shade Review with Home Assistant over Matter/Thread 
+
+**Score:** 6/10 | This review examines Weffort's custom-made, smart outdoor motorized shades, highlighting their compatibility with Home Assistant and other smart home platforms via Matter/Thread. The shades offer extensive customization options and can be installed by the user. The review emphasizes the ease of setup and the custom-made nature of the product.
+
+💡 *Weffort’s Matter/Thread-compatible shades offer a unique, customizable solution for smart outdoor shade control within Home Assistant.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/09/weffort-outdoor-smart-shade-review-with-home-assistant-over-matter-thread/)
+
+---
+
+### 60. Ampetronic Auri is a Bluetooth Auracast audio system for public spaces 
+
+**Score:** 6/10 | Ampetronic's Auri system utilizes Bluetooth Auracast technology to provide wireless audio to compatible devices in public spaces. It comprises transmitters, receivers, and docking stations, managed through software, and offers features like IP audio and Dante support. This system is designed for a wide range of environments including corporate, education, and hospitality.
+
+💡 *Ampetronic Auri offers a versatile, wireless audio solution for enhanced public spaces.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/08/ampetronic-auri-bluetooth-auracast-audio-system-for-public-spaces/)
+
+---
+
+### 61. Sub $7 CH32V317 board offers 10/100Mbps Ethernet, dual USB 2.0 Type-C, DVP interface 
+
+**Score:** 6/10 | The nanoCH32V317 development board from MuseLab utilizes a 32-bit RISC-V WCH CH32V317 MCU and is designed for prototyping embedded systems. Key features include 10/100Mbps Ethernet, dual USB Type-C ports, a DVP interface for video input, and advanced motor control capabilities. This low-cost board is suitable for a range of projects, including IoT and automation.
+
+💡 *This nanoCH32V317 board provides a versatile, low-cost platform for diverse embedded projects.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/07/sub-7-ch32v317-board-offers-10-100mbps-ethernet-dual-usb-2-0-type-c-dvp-interface/)
+
+---
+
+### 62. The latest Raspberry Pi OS images are now based on Debian 13 Trixie 
+
+**Score:** 6/10 | Raspberry Pi OS has updated to Debian 13 'Trixie', bringing with it new packages and features including 64-bit time support. While largely cosmetic with a new theme and icons, the update also incorporates some important under-the-hood changes.  Simon Long highlights that the changes are primarily focused on appearance and minor refinements.
+
+💡 *Raspberry Pi OS’s Debian 13 update offers improved appearance and underlying refinements for users.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/06/raspberry-pi-os-debian-13-trixie/)
+
+---
+
+### 63. kv4p HT Turn an Android smartphone into a ham radio transceiver 
+
+**Score:** 6/10 | The kv4p HT is an open-source device that transforms an Android smartphone into a handheld ham radio transceiver by utilizing an ESP32 wireless module and an SA818 radio module. It's designed for off-grid VHF/UHF communication and relies on the smartphone's existing battery. The V2.0 version features an ESP32-WROOM-32E-N4 SoC with dual-core microcontroller and 2.4 GHz WiFi and Bluetooth connectivity.
+
+💡 *This project offers a unique, affordable way to build a portable ham radio using readily available Android smartphones.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/04/kv4p-ht-turn-an-android-smartphone-into-an-ham-radio-transceiver/)
+
+---
+
+### 64. DDR4 supply/demand stress leads to Raspberry Pi CM4/CM5 price increases 
+
+**Score:** 6/10 | Rising DDR4 memory prices, driven by increased demand for AI workloads and limited supply, are impacting Raspberry Pi's Compute Module 4 and 5 (CM4/CM5) products. Consequently, Raspberry Pi is increasing prices for CM4/CM5 modules and the Raspberry Pi 500 unit-only PC by $5 to $10. This reflects the new cost realities of DDR4 memory.
+
+💡 *Rising memory costs are forcing Raspberry Pi to raise prices due to DDR4 supply constraints.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/02/ddr4-supply-demand-stress-leads-to-raspberry-pi-cm4-cm5-price-increases/)
+
+---
+
+### 65. Intel N97 mini-ITX motherboard targets industrial automation, digital signage, networking appliances 
+
+**Score:** 6/10 | The Jetway DMTX-ADN1 mini-ITX motherboard utilizes the Intel N97 Alder Lake-N SoC and supports DDR5 memory, multiple displays, and a wide temperature range, making it suitable for demanding applications. Designed for industrial automation, digital signage, and networking appliances, it offers robust connectivity options like dual-channel LVDS/eDP and multiple I/O ports.  Its specifications include a quad-core processor, ample storage options, and supports up to 32GB of DDR5 RAM.
+
+💡 *This mini-ITX board expands processing options for industrial and digital applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/09/30/intel-n97-mini-itx-motherboard-targets-industrial-automation-digital-signage-networking-appliances/)
+
+---
+
+### 66. LUNYEE 4040 PRO CNC router review with Candle software 
+
+**Score:** 6/10 | LUNYEE's 4040 PRO CNC router is designed for precision milling and engraving, supporting wood, plastic, and acrylic, and comes with a comprehensive accessory set including a probe system. The review focuses on using Candle software with this larger machine, replacing the previous Easel software review. It's particularly suitable for beginners due to its included accessories and robust construction.
+
+💡 *This review explores the LUNYEE 4040 PRO's potential for accessible and precise CNC projects using Candle software.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/28/lunyee-4040-pro-cnc-router-review-with-candle-software/)
 
 ---
 
-### 65. Fing Agent Raspberry Pi Kit 
+### 67. Fing Agent Raspberry Pi Kit 
 
-**Score:** 6/10 | Fing has launched the Fing Agent Raspberry Pi Kit, a plug-and-play network monitoring solution based on a Raspberry Pi 4. This kit simplifies setup compared to the previous Fingbox appliance, offering features like device monitoring, uptime tracking, intrusion detection, and alerts. It integrates with the Fing app and supports advanced diagnostic tools.
+**Score:** 6/10 | Fing has released the Fing Agent Raspberry Pi Kit, a simplified network monitoring solution based on a Raspberry Pi 4. This kit, including a pre-installed microSD card and accessories, offers a plug-and-play alternative to the older Fingbox, allowing users to monitor devices, track uptime, and detect security threats through the Fing app or interface.
 
-💡 *Fing’s Raspberry Pi kit provides a user-friendly way to monitor and secure your home network.*
+💡 *Fing's Agent Raspberry Pi Kit provides a convenient, affordable way to monitor your home network.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/27/fing-agent-raspberry-pi-kit-an-all-in-one-raspberry-pi-4-based-network-monitoring-solution/)
 
 ---
 
-### 66. Raspberry Pi 500+ mechanical keyboard PC gets 256 GB NVMe SSD, 16GB RAM, RGB LED lighting 
+### 68. Espressif s EchoEar ESP32-S3 voice-controlled AI chatbot runs esp-brookesia firmware 
 
-**Score:** 6/10 | The Raspberry Pi 500+ is a significant upgrade to the original Pi 500 keyboard PC, featuring a mechanical keyboard, RGB LED lighting, and upgraded storage with a 256GB NVMe SSD and 16GB RAM. It retains the original's ports and features including micro HDMI ports, Gigabit Ethernet, and WiFi 5. This enhanced model offers improved performance for demanding tasks while maintaining compatibility with existing accessories.
+**Score:** 6/10 | The Espressif EchoEar is a compact AI chatbot based on the ESP32-S3, designed for voice interaction and edge AI applications. It features a circular touch display, dual microphones, and support for large AI models.  The device utilizes the ESP32-S3-WROOM-1 module and includes peripherals like a speaker and microSD card slot.
 
-💡 *The Raspberry Pi 500+ elevates the Pi 500 keyboard PC with substantial upgrades for better performance.*
+💡 *The EchoEar demonstrates practical application of ESP32-S3 for localized, voice-controlled AI.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/09/26/espressif-echoear-esp32-s3-voice-controlled-ai-chatbot-with-circular-touchscreen-and-mic-array/)
+
+---
+
+### 69. Raspberry Pi 500+ mechanical keyboard PC gets 256 GB NVMe SSD, 16GB RAM, RGB LED lighting 
+
+**Score:** 6/10 | The Raspberry Pi 500+ builds upon the original Raspberry Pi 500 keyboard PC, incorporating a mechanical keyboard with RGB lighting and enhanced storage with a 256GB NVMe SSD and 16GB RAM. It retains the original's key features including micro HDMI ports, Gigabit Ethernet, WiFi 5, and Bluetooth 5.0, alongside the Broadcom BCM2712 processor.
+
+💡 *This Raspberry Pi 500+ offers a premium keyboard PC experience with significant storage and memory upgrades.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/25/raspberry-pi-500-mechanical-keyboard-pc-gets-256-gb-nvme-ssd-16gb-ram-rgb-led-lighting/)
 
 ---
 
-### 67. BIOSTAR MU-N150   A Twin Lake fanless Industrial PC with 2.5GbE, triple 4K video output 
+### 70. AmeraLabs introduces elastic 3D printing resin with long-lasting squish 
 
-**Score:** 6/10 | The BIOSTAR EdgeComp MU-N150 is a fanless industrial PC utilizing the Intel Processor N150 Twin Lake SoC, designed for applications like edge computing and HMI. It boasts dual 2.5GbE ports, triple 4K video output, and expansion slots for storage and wireless connectivity.  Built for industrial environments, it offers robust durability and compatibility with various operating systems.
+**Score:** 5/10 | AmeraLabs' FLX-300 resin offers exceptional elasticity, demonstrated by its low compression set. This allows printed parts to maintain their shape after repeated bending and deformation. The full bottle of resin is priced at $140.
 
-💡 *This fanless PC offers a versatile, high-performance solution for demanding industrial applications like edge computing.*
+💡 *AmeraLabs' FLX-300 resin unlocks durable, flexible 3D prints with exceptional long-term elasticity.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/09/25/biostar-mu-n150-a-twin-lake-fanless-industrial-pc-with-2-5gbe-triple-4k-video-output/)
-
----
-
-### 68. Raspberry Pi CM0 castellated module features Raspberry Pi RP3A0 System-in-Package 
-
-**Score:** 6/10 | A new Raspberry Pi CM0 Compute Module based on the RP3A0 SiP is emerging, similar to the Raspberry Pi Zero 2 W and CM3E. It utilizes a Broadcom BCM2710A1 quad-core Cortex-A53 processor and features options for 8GB or 16GB eMMC flash storage. This module is likely targeting business customers and offers a familiar Raspberry Pi experience.
-
-💡 *Raspberry Pi’s new CM0 module expands options for embedded systems and business applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/23/raspberry-pi-cm0-castellated-module-features-raspberry-pi-rp3a0-system-in-package/)
+🔗 [Read More](https://www.tomshardware.com/3d-printing/ameralabs-introduces-elastic-3d-printing-resin-with-long-lasting-squish-a-full-bottle-is-priced-at-usd140)
 
 ---
 
-### 69. DuckyPad Pro 20-key ESP32-S3 macropad supports up to 3700+ macros using duckyScript language 
+### 71. Spacious 24TB hard drive is a mere 1 cent per GB Seagate's BarraCuda 24TB HDD is back on sale for $249 
 
-**Score:** 6/10 | The DuckyPad Pro is a powerful macropad built on an ESP32-S3, allowing users to create complex macros up to 3700+ using the duckyScript language. Featuring hot-swappable switches, rotary encoders, and an OLED display, it's designed for automation and scripting across various applications and workflows. With features like microSD storage and Bluetooth connectivity, this device caters to a wide range of users, including developers, streamers, and security researchers.
+**Score:** 5/10 | Seagate's BarraCuda 24TB HDD is currently available at Newegg for $249, representing a significant price reduction and a compelling deal. This offers a large amount of storage at an incredibly low cost of just 1 cent per GB.  It's a good option for anyone needing substantial data storage.
 
-💡 *The DuckyPad Pro unlocks extensive macro automation for diverse users and workflows.*
+💡 *Seagate’s 24TB drive offers massive storage at an unbelievably low price.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/09/23/duckypad-pro-20-key-esp32-s3-macropad-supports-up-to-3700-macros-using-duckyscript-language/)
-
----
-
-### 70. Luckfox PicoKVM   A low-cost IP-KVM with 1080p HDMI capture, Wake-on-LAN, virtual storage emulation 
-
-**Score:** 6/10 | The Luckfox PicoKVM is a compact and affordable IP-KVM device enabling remote control of PCs and development boards. It features 1080p60 HDMI capture with low latency and supports Wake-on-LAN, alongside virtual storage emulation. Powered by a Rockchip RV1106 processor, it offers extensive management capabilities including web and serial terminals.
-
-💡 *The Luckfox PicoKVM offers a cost-effective solution for remote PC and development board access.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/23/luckfox-picokvm-low-cost-ip-kvm-with-1080p-hdmi-capture-wake-on-lan-virtual-storage-emulation/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/hdds/spacious-24tb-hard-drive-is-at-an-all-time-low-of-a-mere-1-cent-per-gb-seagates-barracuda-24tb-hdd-is-back-on-sale-for-usd239)
 
 ---
 
-### 71. Nintendo asks for $4.5 million default judgment against ex-Reddit mod accused of pirating thousands of games 
+### 72. Grab vital 3D printer maintenance tools in these prime Day deals you can still get 
 
-**Score:** 5/10 | Nintendo is pursuing a $4.5 million default judgment against former Reddit mod James 'Archbox' Williams for allegedly selling thousands of illegally-acquired Switch games. Williams failed to respond to a cease-and-desist notice, leading to the legal action. He reportedly used donations from buyers to facilitate faster access to his stolen game library.
+**Score:** 5/10 | This article highlights significant discounts on 3D printer maintenance tools during a Prime Day sale. These tools are essential for ensuring high-quality 3D printing results.  Deals include brands like HOTO, Creality, and Wera.
 
-💡 *Nintendo’s lawsuit underscores the ongoing fight against digital piracy and its impact on gaming companies.*
+💡 *3D printer enthusiasts can save on critical maintenance tools during this Prime Day sale.*
 
-🔗 [Read More](https://www.tomshardware.com/video-games/nintendo/nintendo-asks-for-usd4-5-million-default-judgment-against-ex-reddit-mod-accused-of-pirating-thousands-of-games-archbox-allegedly-asked-for-donations-for-faster-access-to-his-stolen-library)
-
----
-
-### 72. Incessant gamer reaches fabled edge of Minecraft map after more than 14 years 
-
-**Score:** 5/10 | A dedicated YouTuber has finally achieved a long-standing goal within Minecraft, reaching the Far Lands – the supposed edge of the game's early maps.  This player’s journey, spanning over 14 years, involved traversing approximately 12,500km within the game. The achievement highlights a sustained effort to explore a key area of the game's early development.
-
-💡 *A tenacious gamer’s 14-year journey demonstrates unwavering dedication and exploration within Minecraft’s history.*
-
-🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/incessant-gamer-reaches-fabled-edge-of-minecraft-map-after-more-than-14-years-has-been-walking-towards-mythical-far-lands-at-the-edge-of-the-map-since-2011-covering-12-500km-in-game)
+🔗 [Read More](https://www.tomshardware.com/3d-printing/best-3d-printer-tools-amazon-prime-day-2025-you-can-still-get)
 
 ---
 
-### 73. Crazy Google Japan keyboard design switches keys for dials 
+### 73. Cambridge University launches project to rescue data trapped on old floppy disks 
 
-**Score:** 5/10 | Google Japan's Gboard team has created a unique keyboard that replaces traditional keys with dials. This innovative design, recently open-sourced, represents a significant departure from conventional keyboard layouts. The project highlights a potential design constraint within Google's software team.
+**Score:** 4/10 | Cambridge University Library is undertaking a project to recover data stored on obsolete floppy disks. The initiative invites individuals to contribute their old disks, hoping to unlock lost information. This effort addresses the growing problem of data preservation from outdated storage media.
 
-💡 *Google’s dial keyboard reveals a surprising design constraint within its software development process.*
+💡 *Preserving vital historical and research data threatened by obsolete storage technologies.*
 
-🔗 [Read More](https://www.tomshardware.com/peripherals/keyboards/crazy-google-japan-keyboard-design-switches-keys-for-dials-the-gboard-dial-edition-shows-why-the-software-team-isnt-allowed-to-design-hardware)
-
----
-
-### 74. 3DPrintopia 2025: filament, folding printers, and fun at the East Coast's largest 3D printing event 
-
-**Score:** 4/10 | 3DPrintopia 2025 was a weeklong festival featuring a wide variety of 3D printers, ranging from established models to the latest innovations.  A key highlight was the introduction of new filament types. The event focused on showcasing advancements and trends within the 3D printing industry.
-
-💡 *3DPrintopia 2025 showcased the evolving landscape of 3D printing, including new filaments and folding printers.*
-
-🔗 [Read More](https://www.tomshardware.com/3d-printing/3dprintopia-2025-filament-folding-printers-and-fun-at-the-east-coasts-largest-3d-printing-event)
+🔗 [Read More](https://www.tomshardware.com/pc-components/storage/cambridge-university-rescues-data-from-old-floppy-disks)
 
 ---
 
-### 75. Amazon Prime Big Deals Day has exceptional soldering iron deals 
+### 74. I was forced to update to Windows 11, and it wasn t as bad as I thought How to upgrade from Windows 10 to Windows 11 without tearing your hair out 
 
-**Score:** 4/10 | Amazon is offering fantastic deals on soldering iron kits, making it a prime time to stock up on equipment. The author has researched extensively to identify the best available options and highlight significant savings. This is a great opportunity for hobbyists and professionals alike.
+**Score:** 4/10 | Despite preferring Linux, the author found upgrading from Windows 10 to Windows 11 surprisingly easy. This guide is designed for users who are hesitant about the upgrade, reassuring them that it’s a simpler process than anticipated. It offers guidance for those facing pressure to update before October 14th.
 
-💡 *Amazon’s Big Deals Day offers substantial savings on soldering iron equipment for makers and experts.*
+💡 *Windows 11 upgrades are surprisingly smoother than feared, easing upgrade anxieties.*
 
-🔗 [Read More](https://www.tomshardware.com/maker-stem/soldering-irons/best-soldering-irons-amazon-prime-day-2025)
-
----
-
-### 76. Grab vital 3D printer maintenance tools for less this Amazon Prime Day up to 37% off HOTO, Creality, Wera 
-
-**Score:** 4/10 | This Amazon Prime Day offers discounted 3D printer maintenance tools, ensuring you can maintain optimal printing performance. The sale includes brands like HOTO, Creality, and Wera, providing essential tools for your 3D printing needs.  Investing in these tools will contribute to consistently high-quality prints.
-
-💡 *Maintain your 3D printer for consistently high-quality prints with Prime Day discounts.*
-
-🔗 [Read More](https://www.tomshardware.com/3d-printing/best-3d-printer-tools-amazon-prime-day-2025)
+🔗 [Read More](https://www.tomshardware.com/software/windows/i-was-forced-to-update-to-windows-11-and-it-wasnt-as-bad-as-i-thought-how-to-upgrade-from-windows-10-to-windows-11-without-tearing-your-hair-out)
 
 ---
 
-### 77. These are the tools we use to build and maintain our precious tech, and they're on sale for Amazon Prime Day 
+### 75. 3D Printer Sales Bonanza is still ongoing after Prime Day 
 
-**Score:** 4/10 | This text highlights a selection of essential tools for maintaining electronics, currently discounted during Amazon Prime Day.  It emphasizes the need for these tools to ensure electronics are kept in good working order.  The offer is time-sensitive, coinciding with the Prime Day event.
+**Score:** 4/10 | Several excellent 3D printer deals are still available following the recent sales events, including Prime Day. This page consolidates the best deals found across multiple sales. Consumers can take advantage of these discounts to purchase a 3D printer.
 
-💡 *Prime Day offers discounted tools vital for maintaining your valuable tech investments.*
+💡 *Don’t miss out: fantastic 3D printer deals linger after Prime Day’s end.*
 
-🔗 [Read More](https://www.tomshardware.com/desktops/pc-building/best-pc-tools-amazon-prime-day-2025)
-
----
-
-### 78. Best Prime Day Hard Drive deals 2025 HDD deals from WD, Seagate, and Toshiba 
-
-**Score:** 4/10 | This guide highlights the top hard drive deals available during Prime Day 2025, focusing on options from leading brands like WD, Seagate, and Toshiba.  It's designed to help consumers increase their PC's storage capacity affordably. Expect competitive pricing and a wide selection of HDDs.
-
-💡 *Maximize your PC storage savings with the best hard drive deals during Prime Day 2025.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/hdds/best-hard-drive-hdd-deals-amazon-prime-day-2025)
+🔗 [Read More](https://www.tomshardware.com/3d-printing/3d-printer-sale-prime-day-2025-roundup-best-deals-at-five-sales-elegoo-creality-anycubic-matterhackers)
 
 ---
 
-### 79. The best cheap tech you can grab this Amazon Prime Day 13 bargains under $13 to improve your tech life 
+### 76. Legendary Microsoft developer reveals the true story behind the most famous product activation key of all time   infamous Windows XP 'FCKGW' licensing key was actually 'a disastrous leak' 
 
-**Score:** 4/10 | This article highlights 13 affordable tech products discovered during the Amazon Prime Day sales. The selection offers budget-friendly solutions to enhance your tech life without breaking the bank.  These deals are curated from various Amazon Prime Day product listings.
+**Score:** 4/10 | A former Microsoft developer has stated that the widely circulated 'FCKGW' Windows XP volume licensing key was not the result of a sophisticated hack, but rather a significant, unintentional leak. This revelation challenges the long-held belief that the key was obtained through illicit means. The developer’s account suggests a far less dramatic origin for the infamous activation code.
 
-💡 *Discover 13 amazing, budget-friendly tech deals to upgrade your life on Amazon Prime Day.*
+💡 *The “FCKGW” key’s origin reveals a surprising, accidental leak, reshaping the story of Windows XP activation.*
 
-🔗 [Read More](https://www.tomshardware.com/peripherals/best-cheap-tech-amazon-prime-day-13-under-13-dollars)
-
----
-
-### 80. UK cops busted for faking productivity while working from home by holding down keys on keyboard 
-
-**Score:** 4/10 | Twenty-six UK police officers and staff were caught attempting to deceive keylogging software by physically holding down keys on their keyboards during remote work. This tactic was employed to artificially inflate productivity metrics. The incident highlights a creative, albeit unsuccessful, attempt to circumvent monitoring systems.
-
-💡 *This bizarre case reveals a surprising lapse in security oversight and a questionable approach to remote work monitoring.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/uk-cops-busted-for-faking-productivity-while-working-from-home-by-holding-down-keys-on-keyboard-26-officers-and-staff-reportedly-caught-trying-to-trick-keylogging-software)
+🔗 [Read More](https://www.tomshardware.com/software/windows/legendary-microsoft-developer-reveals-the-true-story-behind-the-most-famous-product-activation-key-of-all-time-infamous-windows-xp-fckgw-licensing-key-was-actually-a-disastrous-leak)
 
 ---
 
-### 81. Particle Tachyon Review A Qualcomm QCM6490 Edge AI and 5G cellular SBC tested with Ubuntu 
+### 77. Battlefield 6 has an epic launch bug where it fails to recognize that the game is already installed EA boss suggests one affected user to refund and buy on Steam 
 
-**Score:** 4/10 | This review examines the Particle Tachyon SBC, a board based on the Qualcomm QCM6490 platform, designed for edge AI and connectivity applications. It features an octa-core CPU, 5G, Wi-Fi 6E, and Bluetooth 5.2, alongside Raspberry Pi-compatible I/O and various connectivity options. The board arrived fully packaged and ready for testing with Ubuntu.
+**Score:** 3/10 | Battlefield 6 launched with a significant bug causing the game to fail to recognize existing installations. EA initially took six hours to address the issue. A senior executive suggested one affected user attempt a refund and purchase the game on Steam.
 
-💡 *This review assesses the potential of the QCM6490 Tachyon for real-world edge AI and 5G applications.*
+💡 *EA’s botched launch highlights critical issues with game distribution and user trust.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/09/24/particle-tachyon-review-a-qualcomm-qcm6490-edge-ai-and-5g-cellular-sbc-tested-with-ubuntu/)
+🔗 [Read More](https://www.tomshardware.com/video-games/battlefield-6-has-an-epic-launch-bug-where-it-fails-to-recognize-that-the-game-is-already-installed-ea-boss-suggests-one-affected-user-to-refund-and-buy-on-steam)
 
 ---
 
-### 82. Classic Snake game now playable in your browser URL address bar 
+### 78. Lucky PC builder snipes RTX 5090 for just $1,119   humbles proud shopper who scored one for $1,399 just two days earlier 
 
-**Score:** 3/10 | A unique remake of the classic Snake game allows playback directly from the browser's URL bar, offering a nostalgic experience with Unicode Braille rendering, reminiscent of high-resolution devices.
+**Score:** 3/10 | Two online Redditors engaged in a competitive price hunt for the GeForce RTX 5090 graphics card. One user managed to snag a card for $1,119, significantly lower than the $1,399 price another had paid just two days prior. This created a humorous situation as one user 'humiliated' the other's earlier purchase.
 
-💡 *This innovative Snake game’s URL-based play offers a novel, nostalgic experience with Braille visuals.*
+💡 *Extreme GPU price competition highlights volatile supply and demand in the market.*
 
-🔗 [Read More](https://www.tomshardware.com/video-games/classic-snake-game-now-playable-in-your-browser-url-address-bar-javascript-remake-uses-unicode-braille-characters-to-render-the-game)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/lucky-pc-builder-snipes-rtx-5090-for-just-usd1-119-humbles-proud-shopper-who-scored-one-for-usd1-399-just-two-days-earlier)
 
 ---
 

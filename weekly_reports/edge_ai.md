@@ -1,205 +1,165 @@
 # 📡 Edge AI Weekly Report
-**Week of October 07, 2025**
+**Week of October 12, 2025**
 
 *AI on edge devices*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 18
-- **High Priority:** 9 articles (score ≥7)
-- **Average Importance:** 6.3/10
-- **Report Generated:** 2025-10-07 15:45
+- **Total Articles:** 14
+- **High Priority:** 10 articles (score ≥7)
+- **Average Importance:** 6.7/10
+- **Report Generated:** 2025-10-12 19:17
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. BlackRock subsidiary buys up 78 data centers totaling 5 gigawatts in $40 billion deal   AI vendor Aligned added to company's portfolio ⭐⭐
+### 1. Oklahoma man charged with supplying over one hundred 3D-printed machine gun conversion kits to a person he thought was an al-Qaida operative ⭐⭐
 
 **Importance:** 8/10
 
-BlackRock subsidiary Global Infrastructure Partners is acquiring Aligned Data Centers for $40 billion. The deal encompasses 78 data centers, representing a total capacity of 5 gigawatts. This acquisition also integrates Aligned, an AI vendor, into BlackRock's portfolio.
+A Tulsa, Oklahoma resident is accused of providing over 100 3D-printed gun components to an individual believed to be associated with al-Qaida. The individual intended to use the parts for potential terrorist attacks, leading to charges and the possibility of a 20-year prison sentence. The case highlights concerns about the misuse of 3D-printed firearms technology.
 
-💡 *BlackRock’s massive data center purchase signals a major investment in AI infrastructure.*
+💡 *This case underscores the serious threat of readily available 3D-printed gun parts fueling potential terrorist activity.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/blackrock-subsidiary-buys-up-78-data-centers-totaling-5-gigawatts-in-usd40-billion-deal-ai-vendor-aligned-added-to-companys-portfolio)
-
----
-
-### 2. Snapdragon X2 Elite Extreme and X2 Elite processors target high-end Windows PCs ⭐⭐
-
-**Importance:** 8/10
-
-Qualcomm has unveiled three new 3nm Snapdragon X2 Elite processors – Extreme, Elite (88 and 80), designed for high-end Windows laptops. These processors boast powerful performance cores, advanced AI capabilities (Hexagon NPU), and cutting-edge connectivity features like WiFi 7 and PCIe Gen5. The lineup promises fastest and most efficient performance for laptops.
-
-💡 *Qualcomm's Snapdragon X2 Elite processors represent a new high-performance direction for Windows laptops.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/10/02/snapdragon-x2-elite-extreme-and-x2-elite-processors-target-high-end-windows-pcs/)
+🔗 [Read More](https://www.tomshardware.com/3d-printing/oklahoma-man-charged-with-supplying-over-one-hundred-3d-printed-machine-gun-conversion-kits-to-a-person-he-thought-was-an-al-qaida-operative-suspect-allegedly-shipped-a-range-of-firearms-parts-intended-for-terrorist-attacks)
 
 ---
 
-### 3. Ukraine s rotating barbed wire drone barriers discovered by Russians ⭐⭐
+### 2. InferenceMax AI benchmark tests software stacks, efficiency, and TCO ⭐⭐
 
 **Importance:** 7/10
 
-Ukraine has developed a new defense strategy using rotating barbed wire barriers controlled by remote systems. These barriers are designed to disable jamming-proof drones by physically damaging their fiber-optic trails. This innovative approach represents a significant challenge for enemy drone operations.
+The InferenceMax AI benchmark is a vendor-neutral suite that continuously evaluates software stacks, efficiency, and total cost of ownership (TCO) for AI applications. It runs nightly, providing ongoing performance tracking and insights. This comprehensive approach helps identify optimal solutions for AI deployments.
 
-💡 *Ukraine’s rotating barbed wire drones offer a novel, jamming-resistant defense against enemy drone attacks.*
+💡 *The InferenceMax AI benchmark delivers continuous, data-driven insights for optimizing AI deployment costs and performance.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/ukraines-rotating-barbed-wire-drone-barriers-discovered-by-russians-motorized-barriers-tear-and-slice-the-fiber-optic-lines-that-jam-proof-drones-leave-in-their-trail)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/inferencemax-ai-benchmark-tests-software-stacks-efficiency-and-tco-vendor-neutral-suite-runs-nightly-and-tracks-performance-changes-over-time)
+
+---
+
+### 3. Avalue EPC-ASL Intel N97 fanless industrial mini PC is designed for 24/7 operation ⭐⭐
+
+**Importance:** 7/10
+
+The Avalue EPC-ASL is a rugged, fanless industrial mini PC featuring an Intel N97 processor, built for continuous 24/7 operation and edge computing applications. It offers robust connectivity with dual 2.5GbE, ample storage options, and supports up to 16GB of DDR5 memory. This PC is suitable for demanding industrial environments like smart manufacturing and surveillance.
+
+💡 *Avalue EPC-ASL provides reliable, 24/7 performance for demanding industrial edge computing applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/10/avalue-epc-asl-intel-n97-fanless-industrial-mini-pc-is-designed-for-24-7-operation/)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. M5Stack LLM-8850 card ⭐⭐
+### 4. Qualcomm acquires Arduino, introduces Arduino UNO Q dual-brain SBC ⭐⭐
 
-**Score:** 7/10 | The M5Stack LLM-8850 card is an M.2 AI accelerator module utilizing the Axera AX8850 24 TOPS SoC, designed for accelerating AI workloads on devices like Raspberry Pi 5 and Rockchip SBCs. It features 8GB of LPDDR4x RAM, 32MB of flash storage, and supports 8K video encoding/decoding capabilities with 16 channels.  An active cooling system ensures stable operation.
+**Score:** 7/10 | Qualcomm's acquisition of Arduino aims to integrate Qualcomm's technologies with Arduino's ecosystem, launching the Arduino UNO Q SBC, a dual-brain board powered by Qualcomm and STMicroelectronics components. The acquisition seeks to unify development environments for diverse operating systems and AI flows. Despite the change in ownership, Arduino will maintain its open approach and community focus.
 
-💡 *This M5Stack card offers a powerful, accessible AI accelerator for edge devices and significant performance gains.*
+💡 *Qualcomm's acquisition promises to blend AI and IoT development with a unified, open platform.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/07/qualcomm-acquires-arduino-introduces-arduino-uno-q-dual-brain-sbc/)
+
+---
+
+### 5. M5Stack LLM-8850 card ⭐⭐
+
+**Score:** 7/10 | The M5Stack LLM-8850 card is an M.2 AI accelerator module utilizing the Axera AX8850 24 TOPS SoC, designed for accelerating AI workloads on host devices like Raspberry Pi and Rockchip SBCs. It features 8GB of LPDDR4x RAM and supports 8K video encoding/decoding, alongside an active cooling system. This card is a versatile hardware solution for edge AI applications.
+
+💡 *The M5Stack LLM-8850 card offers an accessible hardware solution for accelerating AI at the edge.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/03/m5stack-llm-8850-card-an-m-2-m-key-ai-accelerator-module-based-on-axera-ax8850-24-tops-soc/)
 
 ---
 
-### 5. AAEON GENE-ARH6 ⭐⭐
+### 6. AAEON GENE-ARH6 ⭐⭐
 
-**Score:** 7/10 | The AAEON GENE-ARH6 is a 3.5-inch subcompact industrial SBC featuring the Intel Core Ultra 200H/U series processors, offering up to 96 TOPS of AI performance. It supports significant memory, display outputs, and extensive connectivity options, including multiple M.2 slots for expansion. This robust SBC is designed for demanding applications like robotics and industrial deployments requiring high performance and flexibility.
+**Score:** 7/10 | The AAEON GENE-ARH6 is a 3.5-inch industrial SBC featuring Intel Core Ultra 200H/U SoCs, offering up to 96 TOPS of AI performance. It supports high memory capacity, multiple display outputs, and extensive connectivity options, alongside expansion slots like M.2 and PCIe. Designed for robust industrial applications, it includes security features and a wide operating temperature range.
 
-💡 *The AAEON GENE-ARH6 delivers powerful AI and connectivity for demanding industrial and robotics applications.*
+💡 *The AAEON GENE-ARH6 delivers powerful AI and connectivity for demanding industrial applications.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/01/aaeon-gene-arh6-a-3-5-inch-subcompact-industrial-sbc-with-intel-core-ultra-200h-u-soc/)
 
 ---
 
-### 6. ARIES MSRZG3E OSM-compliant SiP with Renesas RZ/G3E MPU targets industrial HMI and Edge AI ⭐⭐
+### 7. Aries MSRZG3E OSM-compliant SiP with Renesas RZ/G3E MPU targets industrial HMI and Edge AI ⭐⭐
 
-**Score:** 7/10 | The ARIES MSRZG3E is an OSM-compliant system-in-package (SiP) utilizing the Renesas RZ/G3E MPU, designed for industrial applications, particularly HMI and Edge AI.  It boasts a powerful Cortex-A55 CPU, a Cortex-M33 core, and an Ethos-U55 NPU for AI acceleration, alongside comprehensive connectivity options.  The SiP offers flexible memory configurations and supports dual displays and video codecs.
+**Score:** 7/10 | The ARIES MSRZG3E is an OSM-compliant system-in-package (SiP) utilizing the Renesas RZ/G3E MPU, specifically designed for industrial HMI and Edge AI applications.  It features a quad-core Arm Cortex-A55 CPU, a Cortex-M33 real-time core, and an Ethos-U55 NPU offering significant AI processing capabilities, alongside a range of connectivity options.  The SiP comes with various memory and storage options, ensuring flexibility for diverse industrial deployments.
 
-💡 *ARIES MSRZG3E SiP enables cost-effective, OSM-compliant Edge AI solutions for industrial HMIs.*
+💡 *The Aries MSRZG3E SiP unlocks powerful industrial HMI and Edge AI solutions with open-source hardware.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/01/aries-msrzg3e-osm-compliant-sip-with-renesas-rz-g3e-mpu-targets-industrial-hmi-and-edge-ai/)
 
 ---
 
-### 7. Fogwise AIRbox Q900 $599 Qualcomm IQ-9075 AI Box delivers up to 200 TOPS of AI performance ⭐⭐
+### 8. Fogwise AIRbox Q900 $599 Qualcomm IQ-9075 AI Box delivers up to 200 TOPS of AI performance ⭐⭐
 
-**Score:** 7/10 | The Fogwise AIRbox Q900 is a new AI box utilizing a Qualcomm IQ-9075 SoC, offering 200 TOPS of AI performance, 36GB of RAM, and 128GB of storage. It's positioned as a cost-effective alternative to the NVIDIA Jetson Orin NX, boasting similar performance and efficiency. The box includes real-time cores and multiple processing units for versatile AI applications.
+**Score:** 7/10 | The Fogwise AIRbox Q900 is a new AI micro-server boasting a Qualcomm IQ-9075 SoC with 200 TOPS of AI performance, 36GB of RAM, and 128GB of storage. Designed as a competitor to the NVIDIA Jetson Orin NX, it offers comparable performance and efficiency at a lower overall cost.  Key features include real-time cores, high-speed networking, and a dedicated VPU.
 
-💡 *The Fogwise AIRbox Q900 offers a competitive AI box with strong performance and potential cost savings.*
+💡 *The Fogwise AIRbox Q900 presents a compelling, cost-effective AI alternative to established micro-servers.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/30/fogwise-airbox-q900-599-qualcomm-iq-9075-ai-box-delivers-up-to-200-tops-of-ai-performance/)
 
 ---
 
-### 8. Espressif s EchoEar ESP32-S3 voice-controlled AI chatbot runs esp-brookesia firmware ⭐⭐
+### 9. Orange Pi AI Studio Pro A Huawei Ascend 310 AI box with up to 352 TOPS, 192GB RAM ⭐⭐
 
-**Score:** 7/10 | The Espressif EchoEar is a compact ESP32-S3 AI chatbot featuring a circular touch display, dual microphones, and support for large AI models like OpenAI and Gemini. It leverages the ESP32-S3-WROOM-1 SoC with a dual-core Tensilica LX7 processor and utilizes edge AI capabilities. The device includes a speaker, microSD card slot, and IMU for a versatile voice-controlled experience.
+**Score:** 7/10 | The Orange Pi AI Studio Pro is an AI box utilizing two Huawei Ascend 310 processors, offering up to 352 TOPS of performance and 192GB of RAM. It builds upon the Orange Pi AIPro and is designed for AI applications, though it lacks common ports like HDMI and Ethernet. This device is a significant step forward in accessible AI hardware.
 
-💡 *Espressif’s EchoEar demonstrates practical AI chatbot applications powered by edge computing on the ESP32-S3.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/26/espressif-echoear-esp32-s3-voice-controlled-ai-chatbot-with-circular-touchscreen-and-mic-array/)
-
----
-
-### 9. 5 Ways Embedded AI Processors are Revolutionizing Device Performance (Sponsored) ⭐⭐
-
-**Score:** 7/10 | Edge AI is shifting processing from the cloud to devices, driven by the need for faster responses and enhanced privacy. Embedded AI processors enable real-time decision-making by running optimized models locally, crucial for applications like industrial automation. This trend is fueling significant investment, projected to reach $261 billion by 2025.
-
-💡 *Embedded AI processors are poised to transform device performance and unlock significant cost savings.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/25/5-ways-embedded-ai-processors-are-revolutionizing-device-performance/)
-
----
-
-### 10. Discord data hacked in latest customer service breach to expose user information 
-
-**Score:** 6/10 | Discord experienced a data breach due to hackers accessing its support systems through a third-party provider. The attackers attempted extortion but were stopped after Discord cut off access. The breach exposed some user information, prompting an ongoing investigation.
-
-💡 *Discord’s breach underscores the significant risks of third-party vulnerabilities and user data exposure.*
-
-🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/discord-data-hacked-in-latest-customer-service-breach-to-expose-user-information-hackers-gained-access-via-third-party-support-systems-but-didnt-steal-passwords)
-
----
-
-### 11. Orange Pi AI Studio Pro A Huawei Ascend 310 AI box with up to 352 TOPS, 192GB RAM 
-
-**Score:** 6/10 | The Orange Pi AI Studio Pro is an AI box featuring two Huawei Ascend 310 processors, delivering up to 352 TOPS of processing power and 192GB of RAM. It builds upon the previous Orange Pi AIPro and prioritizes AI performance through its octa-core architecture.  However, it has limited connectivity with only a USB 4.0 Type-C port.
-
-💡 *The Orange Pi AI Studio Pro offers a powerful, albeit limited, AI box for edge computing applications.*
+💡 *The Orange Pi AI Studio Pro offers a potentially transformative, accessible entry point for AI hardware development.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/30/orange-pi-ai-studio-pro-huawei-ascend-310-ai-mini-pc-with-up-to-352-tops-192gb-ram/)
 
 ---
 
+### 10. 5 Ways Embedded AI Processors are Revolutionizing Device Performance (Sponsored) ⭐⭐
+
+**Score:** 7/10 | Edge AI is shifting processing power from the cloud to devices, enabling faster decision-making and enhanced privacy by running AI models locally. This trend, fueled by significant enterprise investment estimated at $261 billion by 2025, is driven by the ability to eliminate cloud latency and protect sensitive data.  The move to on-device AI processing is transforming industries like automation with real-time applications.
+
+💡 *Edge AI processors are transforming device performance and data privacy with on-device AI processing.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/09/25/5-ways-embedded-ai-processors-are-revolutionizing-device-performance/)
+
+---
+
+### 11. Microsoft cancels Wisconsin data center after community pushback 
+
+**Score:** 6/10 | Microsoft has halted its construction of a 244-acre data center in Caledonia, Wisconsin, due to significant opposition from the local community. Despite this setback, Microsoft maintains its commitment to the region. The project's cancellation reflects community concerns about the data center's impact.
+
+💡 *Microsoft’s cancellation underscores the growing importance of community concerns in large-scale tech development.*
+
+🔗 [Read More](https://www.tomshardware.com/desktops/servers/microsoft-cancels-wisconsin-data-center-after-community-pushback-244-acre-caledonia-site-on-hold-but-redmond-says-it-remains-committed-to-the-region)
+
+---
+
 ### 12. LUNYEE 4040 PRO CNC router review with Candle software 
 
-**Score:** 6/10 | The LUNYEE 4040 PRO CNC router is a robust machine designed for milling and engraving, featuring a larger work volume and a comprehensive accessory set including a probe system. This review utilizes Candle software, contrasting it with the previous 3018 Pro Ultra. It's particularly well-suited for beginners due to the included accessories and ease of setup.
+**Score:** 6/10 | LUNYEE's 4040 PRO CNC router is designed for precision milling and engraving, supporting wood, plastic, and acrylic, and comes with a comprehensive accessory set including a probe system. The review focuses on using Candle software with this larger machine, replacing the previous Easel software review. It's particularly suitable for beginners due to its included accessories and robust construction.
 
-💡 *This review offers a valuable comparison and recommendation for Candle software users considering the LUNYEE 4040 PRO.*
+💡 *This review explores the LUNYEE 4040 PRO's potential as a beginner-friendly CNC router using Candle software.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/28/lunyee-4040-pro-cnc-router-review-with-candle-software/)
 
 ---
 
-### 13. BIOSTAR MU-N150   A Twin Lake fanless Industrial PC with 2.5GbE, triple 4K video output 
+### 13. Espressif s EchoEar ESP32-S3 voice-controlled AI chatbot runs esp-brookesia firmware 
 
-**Score:** 6/10 | The BIOSTAR EdgeComp MU-N150 is a fanless industrial PC utilizing the Intel Processor N150 Twin Lake SoC, designed for applications like edge computing and HMI. It boasts dual 2.5GbE ports, triple 4K video output, and expansion slots for storage and wireless connectivity.  Built for industrial environments, it offers robust durability and compatibility with various operating systems.
+**Score:** 6/10 | The Espressif EchoEar is a compact AI chatbot based on the ESP32-S3, designed for voice interaction and edge AI applications. It features a circular touch display, dual microphones, and support for large AI models.  The device utilizes the ESP32-S3-WROOM-1 module and includes peripherals like a speaker and microSD card slot.
 
-💡 *The BIOSTAR MU-N150 offers a robust, feature-rich solution for demanding industrial edge computing applications.*
+💡 *Espressif's EchoEar demonstrates practical edge AI chatbot development using the ESP32-S3.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/09/25/biostar-mu-n150-a-twin-lake-fanless-industrial-pc-with-2-5gbe-triple-4k-video-output/)
-
----
-
-### 14. Particle Tachyon Review A Qualcomm QCM6490 Edge AI and 5G cellular SBC tested with Ubuntu 
-
-**Score:** 6/10 | This review examines the Particle Tachyon SBC, a board based on the Qualcomm QCM6490 platform, designed for edge AI and connectivity applications. It features an octa-core CPU, 5G, Wi-Fi 6E, and Bluetooth 5.2, alongside Raspberry Pi-compatible I/O and various connectivity options. The board arrived fully packaged and ready for testing with Ubuntu.
-
-💡 *This review showcases a promising edge AI platform combining connectivity for diverse applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/24/particle-tachyon-review-a-qualcomm-qcm6490-edge-ai-and-5g-cellular-sbc-tested-with-ubuntu/)
+🔗 [Read More](https://www.cnx-software.com/2025/09/26/espressif-echoear-esp32-s3-voice-controlled-ai-chatbot-with-circular-touchscreen-and-mic-array/)
 
 ---
 
-### 15. Using an overpowered vape as a secondary display 
+### 14. Raspberry Pi 500+ mechanical keyboard PC gets 256 GB NVMe SSD, 16GB RAM, RGB LED lighting 
 
-**Score:** 6/10 | A hacker has demonstrated running DOOM on an Aspire PIXO vape, utilizing its internal MCU, LCD, and USB-C port as a surprisingly capable secondary display. The project leverages an Aspire PIXO vape with a Cortex-M4F microcontroller and other components like Bluetooth and a color LCD. This showcases the potential for repurposing vape hardware for unconventional computing tasks.
+**Score:** 5/10 | The Raspberry Pi 500+ builds upon the original Raspberry Pi 500 keyboard PC, incorporating a mechanical keyboard with RGB lighting and enhanced storage with a 256GB NVMe SSD and 16GB RAM. It retains the original's key features including micro HDMI ports, Gigabit Ethernet, WiFi 5, and Bluetooth 5.0, alongside the Broadcom BCM2712 processor.
 
-💡 *This innovative project demonstrates the surprising potential of vape hardware for unconventional computing.*
+💡 *This Raspberry Pi 500+ offers a powerful, customizable PC experience with premium mechanical keyboard features.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/09/22/using-an-overpowered-vape-as-a-secondary-display/)
-
----
-
-### 16. Nintendo asks for $4.5 million default judgment against ex-Reddit mod accused of pirating thousands of games 
-
-**Score:** 4/10 | Nintendo is pursuing a $4.5 million default judgment against former Reddit mod James 'Archbox' Williams for allegedly selling thousands of illegally-acquired Switch games. Williams failed to respond to a cease-and-desist notice, leading to the legal action. He reportedly used donations from buyers to facilitate faster access to his stolen game library.
-
-💡 *Nintendo’s aggressive pursuit underscores the ongoing fight against digital piracy and its impact on game developers.*
-
-🔗 [Read More](https://www.tomshardware.com/video-games/nintendo/nintendo-asks-for-usd4-5-million-default-judgment-against-ex-reddit-mod-accused-of-pirating-thousands-of-games-archbox-allegedly-asked-for-donations-for-faster-access-to-his-stolen-library)
-
----
-
-### 17. Grab vital 3D printer maintenance tools for less this Amazon Prime Day up to 37% off HOTO, Creality, Wera 
-
-**Score:** 4/10 | This Amazon Prime Day offers discounted 3D printer maintenance tools, ensuring you can maintain optimal printing performance. The sale includes brands like HOTO, Creality, and Wera, providing essential tools for your 3D printing needs.  Investing in these tools will contribute to consistently high-quality prints.
-
-💡 *Secure top-tier 3D printer maintenance tools at discounted prices during Prime Day.*
-
-🔗 [Read More](https://www.tomshardware.com/3d-printing/best-3d-printer-tools-amazon-prime-day-2025)
-
----
-
-### 18. Incessant gamer reaches fabled edge of Minecraft map after more than 14 years 
-
-**Score:** 4/10 | A dedicated YouTuber has finally achieved a long-standing goal within Minecraft, reaching the Far Lands – the supposed edge of the game's early maps.  This player’s journey, spanning over 14 years, involved traversing approximately 12,500km within the game. The achievement highlights a sustained effort to explore a key area of the game's early development.
-
-💡 *A persistent gamer’s 14-year journey showcases unwavering dedication and the enduring appeal of Minecraft’s exploration.*
-
-🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/incessant-gamer-reaches-fabled-edge-of-minecraft-map-after-more-than-14-years-has-been-walking-towards-mythical-far-lands-at-the-edge-of-the-map-since-2011-covering-12-500km-in-game)
+🔗 [Read More](https://www.cnx-software.com/2025/09/25/raspberry-pi-500-mechanical-keyboard-pc-gets-256-gb-nvme-ssd-16gb-ram-rgb-led-lighting/)
 
 ---
 

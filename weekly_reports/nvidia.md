@@ -1,105 +1,115 @@
 # 🎮 NVIDIA Weekly Report
-**Week of October 07, 2025**
+**Week of October 12, 2025**
 
 *NVIDIA hardware and GPUs*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 8
-- **High Priority:** 5 articles (score ≥7)
-- **Average Importance:** 6.6/10
-- **Report Generated:** 2025-10-07 15:45
+- **Total Articles:** 9
+- **High Priority:** 6 articles (score ≥7)
+- **Average Importance:** 7.0/10
+- **Report Generated:** 2025-10-12 19:17
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Nintendo Switch 2 supports two different types of Nvidia DLSS ⭐⭐
+### 1. Microsoft deploys world's first 'supercomputer-scale' GB300 NVL72 Azure cluster ⭐⭐⭐
 
-**Importance:** 8/10
+**Importance:** 9/10
 
-Nintendo is utilizing two versions of DLSS on the Switch 2, confirming previous speculation. One 'light' version enables upscaling beyond 1080p but compromises image quality, while the other employs a PC-like CNN model. This dual approach suggests a sophisticated optimization strategy for the console's graphical performance.
+Microsoft has launched a massive GB300 NVL72 supercluster on Azure, utilizing 4,608 GPUs interconnected for unprecedented performance. This cluster achieves a staggering 92.1 exaFLOPS of FP4 inference and 1.44 PFLOPS of FP4 Tensor Core performance thanks to NVLink and InfiniBand.  It represents a significant step in accelerating AI workloads.
 
-💡 *Nintendo’s dual DLSS strategy demonstrates a nuanced approach to graphical performance on the Switch 2.*
+💡 *Microsoft’s GB300 supercluster demonstrates a major leap in AI performance and capabilities on Azure.*
 
-🔗 [Read More](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-supports-two-different-types-of-nvidia-dlss-a-second-light-version-for-upscaling-beyond-1080p-along-with-the-standard-pc-like-cnn-model)
-
----
-
-### 2. Nvidia details efficiency of the NVFP4 format for LLM training ⭐⭐
-
-**Importance:** 8/10
-
-Nvidia has proven that its NVFP4 4-bit format, designed for inference, is effective for stable LLM training, achieving substantial compute and memory savings compared to FP8 and BF16. This innovative use of NVFP4 minimizes accuracy loss during large-scale training. The results highlight a new approach to LLM training efficiency.
-
-💡 *Nvidia’s NVFP4 4-bit format offers a surprisingly effective and efficient path for LLM training.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-details-efficiency-of-the-nvfp4-format-for-llm-training-new-paper-reveals-how-nvfp4-offers-benefits-over-fp8-and-bf16)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-deploys-worlds-first-supercomputer-scale-gb300-nvl72-azure-cluster-4-608-gb300-gpus-linked-together-to-form-a-single-unified-accelerator-capable-of-1-44-pflops-of-inference)
 
 ---
 
-### 3. Acer chief says Nvidia s Intel investment will complicate PC supply chains ⭐⭐
+### 2. U.S. Senate passes bill that forces AI chipmakers to prioritize sales to American companies ⭐⭐
 
-**Importance:** 7/10
+**Importance:** 8/10
 
-Acer CEO Jason Chen believes Nvidia and Intel's partnership poses challenges for PC manufacturers' product planning and placement. He also expressed skepticism about the potential realization of a 50/50 joint venture proposal. This collaboration could significantly impact the established PC supply chain.
+The U.S. Senate has approved a bill requiring Nvidia and AMD to prioritize sales to American companies. This legislation aims to bolster domestic semiconductor production and reduce reliance on exports. The House is now expected to either pass or amend the bill.
 
-💡 *Nvidia and Intel’s partnership threatens PC supply chain stability and manufacturer planning.*
+💡 *This legislation represents a significant intervention to prioritize U.S. tech firms in the critical AI chip market.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/acer-chief-says-nvidias-intel-investment-will-complicate-pc-supply-chains-says-lutnicks-50-50-proposal-could-take-50-years-to-realize)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-senate-passes-bill-that-forces-ai-chipmakers-to-prioritize-sales-to-american-companies-house-now-set-to-amend-or-pass-legislation)
+
+---
+
+### 3. China issues port crackdown on all Nvidia AI chip imports, says report ⭐⭐
+
+**Importance:** 8/10
+
+China has initiated a significant crackdown on unlicensed Nvidia chip shipments, deploying enforcement teams across major ports. The operation focuses on inspecting hardware shipments, specifically targeting H20 and RTX 6000D models. This action indicates a heightened concern regarding the import of AI-related hardware.
+
+💡 *China’s port crackdown signals a serious restriction on AI hardware imports, impacting Nvidia’s market access.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/china-launches-port-crackdown-on-nvidia-chips)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Best Amazon Prime Day Tech Deals Live Blog - The Best Tech & PC Hardware Deals on GPUs, CPUs, SSDs, and more ⭐⭐
+### 4. Singapore company allegedly helped China smuggle $2 billion worth of Nvidia AI processors, report claims ⭐⭐
 
-**Score:** 7/10 | This live blog provides real-time coverage of the top tech and PC hardware deals available during Amazon Prime Day. It highlights significant discounts on items like GPUs, CPUs, SSDs, laptops, peripherals, and accessories.  It's a resource for finding the best deals across a wide range of hardware.
+**Score:** 8/10 | A U.S. investigation revealed that a Singapore-based firm with Chinese connections purchased $2 billion in Nvidia GPUs via a U.S. subsidiary, intending to ship them to Malaysia and Indonesia. These GPUs were reportedly used by clients in China or resold to customers in the PRC. Nvidia denies any involvement of the accused company, while a U.S. investigation is ongoing.
 
-💡 *Stay ahead of the curve with the best Amazon Prime Day tech deals on GPUs, CPUs, and more.*
+💡 *This report exposes potential circumvention of U.S. export controls and illicit AI tech distribution.*
 
-🔗 [Read More](https://www.tomshardware.com/news/live/best-amazon-prime-day-deals-live-the-best-tech-and-pc-hardware-deals-on-gpus-cpus-ssds-and-more)
-
----
-
-### 5. OCuLink outpaces Thunderbolt 5 in Nvidia RTX 5070 Ti tests ⭐⭐
-
-**Score:** 7/10 | Independent tests show OCuLink's direct PCIe connection outperforms Thunderbolt 5 in gaming benchmarks, achieving significantly faster results. Specifically, the RTX 5070 Ti averaged up to 14% slower performance when using Thunderbolt 5. While offering improved eGPU performance, OCuLink's practicality for typical users remains limited.
-
-💡 *OCuLink’s superior performance over Thunderbolt 5 challenges the future of GPU connectivity.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/oculink-outpaces-thunderbolt-5-in-nvidia-rtx-5070-ti-tests-latter-up-to-14-percent-slower-on-average-in-gaming-benchmarks)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/singapore-company-alleged-to-have-helped-china-get-usd2-billion-worth-of-nvidia-ai-processors-report-claims-nvidia-denies-that-the-accused-has-any-china-ties-but-a-u-s-investigation-is-underway)
 
 ---
 
-### 6. ASRock Challenger RX 9070 16GB drops to $549 get more VRAM than an RTX 5070 for the same amount of green 
+### 5. U.S. finally grants Nvidia license to ship AI GPUs to UAE: 500,000 Blackwell GPUs coming to the Gulf region ⭐⭐
 
-**Score:** 6/10 | The ASRock RX 9070 XT Challenger 16GB is currently priced at $549, matching the price of the cheapest RTX 5070. This offers consumers more VRAM compared to the RTX 5070 for the same cost. It's a compelling option for gamers seeking high performance.
+**Score:** 8/10 | The United States has authorized Nvidia to export tens of billions of dollars' worth of AI hardware, specifically 500,000 Blackwell GPUs, to the UAE. This approval is part of a new agreement involving $1.4 trillion in Emirati investment and represents a significant expansion of Nvidia's AI hardware presence in the Gulf region. The deal underscores the growing importance of AI infrastructure and geopolitical investment in advanced technologies.
 
-💡 *The ASRock RX 9070 XT offers more VRAM than the RTX 5070 at the same price.*
+💡 *Nvidia's UAE deal signifies a major geopolitical investment in AI infrastructure and advanced technology.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/asrock-challenger-rx-9070-16gb-drops-to-usd549-get-more-vram-than-an-rtx-5070-for-the-same-amount-of-green)
-
----
-
-### 7. Save over $1,200 on a RTX 4060 gaming laptop during Prime Day   pay less than half the normal price for the MSI Raider GE68HX 
-
-**Score:** 6/10 | The MSI Raider GE68HX, a popular model from last year, is currently available at a significantly discounted price during Prime Day. This offer represents a substantial savings—under half the typical cost—making it an exceptional value for gamers. It combines strong performance with premium features.
-
-💡 *Prime Day offers a remarkable opportunity to snag an RTX 4060 gaming laptop at a fraction of its usual price.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/save-over-usd1-200-on-a-rtx-4060-gaming-laptop-during-prime-day-pay-less-than-half-the-normal-price-for-the-msi-raider-ge68hx)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-finally-grants-nvidia-license-to-ship-ai-gpus-to-uae-500-000-blackwell-gpus-coming-to-the-gulf-region)
 
 ---
 
-### 8. These are the tools we use to build and maintain our precious tech, and they're on sale for Amazon Prime Day 
+### 6. Best Amazon Prime Day Tech Deals You Can Still Get Live Blog Best Tech & PC Hardware Deals on GPUs, CPUs, SSDs, and more ⭐⭐
 
-**Score:** 4/10 | This text highlights a selection of essential tools for maintaining electronics, currently discounted during Amazon Prime Day.  It emphasizes the need for these tools to ensure electronics are kept in good working order.  The offer is time-sensitive, coinciding with the Prime Day event.
+**Score:** 7/10 | This live blog provides updates on the top tech and PC hardware deals currently available during Amazon Prime Big Deals Day. It covers a wide range of products including GPUs, CPUs, SSDs, laptops, peripherals, and accessories.  Readers can find the best deals on hardware across various categories.
 
-💡 *Prime Day offers a chance to equip your tech and ensure its longevity.*
+💡 *Stay ahead of the curve with the latest Amazon Prime Day tech deals on GPUs, CPUs, and more.*
 
-🔗 [Read More](https://www.tomshardware.com/desktops/pc-building/best-pc-tools-amazon-prime-day-2025)
+🔗 [Read More](https://www.tomshardware.com/news/live/best-amazon-prime-day-deals-you-can-still-get-live-best-tech-and-pc-hardware-deals-gpus-cpus-ssds-and-more-2025)
+
+---
+
+### 7. Bride surprises new husband with an RTX 5090 on wedding day   Chinese number slang reveals surprise gift 
+
+**Score:** 6/10 | A wedding video surfaced online showing the bride gifting her new husband an RTX 5090 graphics card. This unexpected present quickly went viral, highlighting a significant tech offering. The incident showcased a memorable and extravagant wedding surprise.
+
+💡 *This viral wedding gift reveals a surprising level of tech enthusiasm and extravagant spending within the gaming community.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/bride-surprises-new-husband-with-an-rtx-5090-on-wedding-day-chinese-number-slang-reveals-surprise-gift)
+
+---
+
+### 8. These are the best CPU cooler deals we found this Prime Day, up to 37% off deals from Cooler Master, Thermalright, MSI, Corsair, and Thermaltake for every budget 
+
+**Score:** 6/10 | Prime Day offers remain available for CPU cooler deals, with significant discounts up to 37% across brands like Cooler Master and Thermalright. The Thermalright Grand Vision 360 currently stands out as the top deal, but many other options cater to various budgets. This article highlights the best CPU cooler deals for Prime Big Deals Day.
+
+💡 *Prime Day’s CPU cooler deals offer substantial savings for budget-conscious PC builders.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/these-are-the-best-cpu-cooler-deals-we-found-this-prime-day-up-to-37-percent-off-deals-from-cooler-master-thermalright-msi-corsair-and-thermaltake-for-every-budget)
+
+---
+
+### 9. Lucky PC builder snipes RTX 5090 for just $1,119   humbles proud shopper who scored one for $1,399 just two days earlier 
+
+**Score:** 3/10 | Two online Redditors engaged in a competitive price hunt for the GeForce RTX 5090 graphics card. One user managed to snag a card for $1,119, significantly lower than the $1,399 price another had paid just two days prior. This created a humorous situation as one user 'humiliated' the other's earlier purchase.
+
+💡 *Extreme GPU price competition reveals volatile market conditions and buyer regret.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/lucky-pc-builder-snipes-rtx-5090-for-just-usd1-119-humbles-proud-shopper-who-scored-one-for-usd1-399-just-two-days-earlier)
 
 ---
 

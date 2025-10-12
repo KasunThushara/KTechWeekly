@@ -1,5 +1,5 @@
 # 🍓 Raspberry Pi Weekly Report
-**Week of October 07, 2025**
+**Week of October 12, 2025**
 
 *Raspberry Pi projects*
 
@@ -7,99 +7,99 @@
 
 ## 📊 Summary
 - **Total Articles:** 8
-- **High Priority:** 2 articles (score ≥7)
-- **Average Importance:** 6.0/10
-- **Report Generated:** 2025-10-07 15:45
+- **High Priority:** 3 articles (score ≥7)
+- **Average Importance:** 6.4/10
+- **Report Generated:** 2025-10-12 19:17
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Easily add 80+ Mbps Ethernet to microcontrollers with WIZ630io QSPI RJ45 module ⭐⭐
+### 1. upyOS modular MicroPython-based OS for microcontrollers works with ESP32, RP2040, etc ⭐⭐
 
 **Importance:** 7/10
 
-The WIZnet WIZ630io module enables easy integration of Ethernet connectivity into microcontrollers, specifically RP2350 boards, via a QSPI interface.  Featuring a W6300 controller, it offers speeds up to 80+ Mbps and includes 64KB of SRAM with 8 independent sockets. This module simplifies adding Ethernet to projects utilizing SPI or QSPI interfaces.
+upyOS is a modular, lightweight operating system for microcontrollers, primarily designed for devices like the ESP32 and RP2040. It offers a Unix-like environment with features such as remote development, OTA updates, and a built-in web server, thanks to its modular architecture and support for background execution and scripting.
 
-💡 *This module provides a straightforward way to add high-speed Ethernet to microcontroller projects.*
+💡 *upyOS provides a flexible, embedded Unix-like OS empowering diverse microcontroller projects.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/09/upyos-modular-micropython-based-os-for-microcontrollers-esp32-rp2040/)
+
+---
+
+### 2. Easily add 80+ Mbps Ethernet to microcontrollers with WIZ630io QSPI RJ45 module ⭐⭐
+
+**Importance:** 7/10
+
+The WIZnet WIZ630io module provides an easy way to integrate Ethernet connectivity into microcontrollers, specifically RP2350 boards, via a QSPI interface.  Featuring a W6300 controller, it supports speeds up to 80+ Mbps and includes 64KB of SRAM for each of its eight sockets. This module simplifies adding Ethernet to projects using SPI or QSPI communication.
+
+💡 *This WIZ630io module makes high-speed Ethernet accessible for microcontroller projects.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/05/easily-add-80-mbps-ethernet-to-microcontrollers-with-wiz630io-qspi-rj45-module/)
 
 ---
 
-### 2. Olimex RP2350-PICO2 open hardware boards expose all 48 GPIOs for breadboard prototyping ⭐⭐
+### 3. Olimex RP2350-PICO2 open hardware boards expose all 48 GPIOs for breadboard prototyping ⭐⭐
 
 **Importance:** 7/10
 
-Olimex has released the RP2350-PICO2-BB48 and BB48R open hardware boards based on the RP2350B MCU, offering all 48 GPIOs for easy breadboard prototyping. These boards feature a breadboard-friendly design with options for PSRAM and microSD, alongside USB-C power, and various connectors. They are ideal for DIY projects and hardware experimentation.
+Olimex has released the RP2350-PICO2-BB48 and BB48R open hardware boards based on the RP2350B MCU, offering all 48 GPIOs for easy breadboard prototyping. These boards feature a breadboard-friendly design with options for PSRAM and microSD, alongside standard connectivity like USB-C and various connectors. The pre-soldered headers and dual-core processor options make them perfect for DIY projects and hardware experimentation.
 
-💡 *Olimex's RP2350 boards unlock extensive GPIO access for simplified breadboard prototyping.*
+💡 *Olimex’s RP2350-PICO2 boards provide unparalleled GPIO access for easy breadboard-based hardware projects.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/29/olimex-rp2350-pico2-open-hardware-boards-expose-all-48-gpios-for-breadboard-prototyping/)
 
 ---
 
-### 3. The latest Raspberry Pi OS images are now based on Debian 13 Trixie ⭐⭐
+## 📰 Other Stories
 
-**Importance:** 6/10
+### 4. Converted school bus turned into mobile retro computing museum   historic array includes Sinclair (Timex) ZX Spectrum 48K and Commodore 64 
 
-Raspberry Pi OS has updated its images to Debian 13 'Trixie,' bringing new packages and features including 64-bit time support. While primarily cosmetic with a new theme and icons, the update also includes some beneficial under-the-hood changes. According to a Raspberry Pi engineer, the changes are largely driven by updates within Debian itself.
+**Score:** 6/10 | A father and son have transformed an old school bus into a unique mobile museum dedicated to retro computing. The museum features a collection of classic computers, notably the ZX Spectrum 48K and Commodore 64. This project highlights a revival of vintage gaming and computing.
 
-💡 *Raspberry Pi OS’s update to Debian 13 enhances stability and features for users.*
+💡 *This project celebrates the enduring appeal of retro computing and its passionate revival.*
+
+🔗 [Read More](https://www.tomshardware.com/video-games/retro-gaming/converted-school-bus-turned-into-mobile-retro-computing-museum-historic-array-includes-sinclair-timex-zx-spectrum-48k-and-commodore-64)
+
+---
+
+### 5. The latest Raspberry Pi OS images are now based on Debian 13 Trixie 
+
+**Score:** 6/10 | Raspberry Pi OS has updated to Debian 13 'Trixie', bringing with it new packages and features including 64-bit time support. While largely cosmetic with a new theme and icons, the update also incorporates some important under-the-hood changes.  Simon Long highlights that the changes are primarily focused on appearance and minor refinements.
+
+💡 *Raspberry Pi OS’s Debian 13 update offers a refined experience with key under-the-hood improvements.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/06/raspberry-pi-os-debian-13-trixie/)
 
 ---
 
-## 📰 Other Stories
+### 6. DDR4 supply/demand stress leads to Raspberry Pi CM4/CM5 price increases 
 
-### 4. DDR4 supply/demand stress leads to Raspberry Pi CM4/CM5 price increases 
+**Score:** 6/10 | Rising DDR4 memory prices, driven by increased demand for AI workloads and limited supply, are impacting Raspberry Pi's Compute Module 4 and 5 (CM4/CM5) products. Consequently, Raspberry Pi is increasing prices for CM4/CM5 modules and the Raspberry Pi 500 unit-only PC by $5 to $10. This reflects the new cost realities of DDR4 memory.
 
-**Score:** 6/10 | Rising DDR4 memory costs, driven by increased demand for AI workloads, are significantly impacting the Raspberry Pi Compute Module 4 and 5 (CM4/CM5) and associated products.  Due to these higher memory costs, Raspberry Pi is increasing prices by $5-$10 for CM4/CM5 modules and the Raspberry Pi 500 keyboard PC. This price adjustment reflects the current market realities of DDR4 supply constraints.
-
-💡 *DDR4 memory cost increases are forcing Raspberry Pi to raise prices due to supply constraints.*
+💡 *Rising DDR4 costs are forcing Raspberry Pi to raise prices due to memory supply constraints.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/02/ddr4-supply-demand-stress-leads-to-raspberry-pi-cm4-cm5-price-increases/)
 
 ---
 
-### 5. Fing Agent Raspberry Pi Kit 
+### 7. Fing Agent Raspberry Pi Kit 
 
-**Score:** 6/10 | Fing has launched the Fing Agent Raspberry Pi Kit, a plug-and-play network monitoring solution based on a Raspberry Pi 4. This kit simplifies setup compared to the previous Fingbox appliance, offering features like device monitoring, uptime tracking, intrusion detection, and alerts. It integrates with the Fing app and supports advanced diagnostic tools.
+**Score:** 6/10 | Fing has released the Fing Agent Raspberry Pi Kit, a simplified network monitoring solution based on a Raspberry Pi 4. This kit, including a pre-installed microSD card and accessories, offers a plug-and-play alternative to the older Fingbox, allowing users to monitor devices, track uptime, and detect security threats through the Fing app or interface.
 
-💡 *Fing's Raspberry Pi kit provides a convenient and powerful way to monitor your home network.*
+💡 *Fing's Agent Raspberry Pi Kit simplifies home network monitoring for a wider audience.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/27/fing-agent-raspberry-pi-kit-an-all-in-one-raspberry-pi-4-based-network-monitoring-solution/)
 
 ---
 
-### 6. Raspberry Pi 500+ mechanical keyboard PC gets 256 GB NVMe SSD, 16GB RAM, RGB LED lighting 
+### 8. Raspberry Pi 500+ mechanical keyboard PC gets 256 GB NVMe SSD, 16GB RAM, RGB LED lighting 
 
-**Score:** 6/10 | The Raspberry Pi 500+ is a significant upgrade to the original Pi 500 keyboard PC, featuring a mechanical keyboard, RGB LED lighting, and upgraded storage with a 256GB NVMe SSD and 16GB RAM. It retains the original's ports and features including micro HDMI ports, Gigabit Ethernet, and WiFi 5. This enhanced model offers improved performance for demanding tasks while maintaining compatibility with existing accessories.
+**Score:** 6/10 | The Raspberry Pi 500+ builds upon the original Raspberry Pi 500 keyboard PC, incorporating a mechanical keyboard with RGB lighting and enhanced storage with a 256GB NVMe SSD and 16GB RAM. It retains the original's key features including micro HDMI ports, Gigabit Ethernet, WiFi 5, and Bluetooth 5.0, alongside the Broadcom BCM2712 processor.
 
-💡 *The Raspberry Pi 500+ delivers a powerful, customizable keyboard PC for enhanced productivity and gaming.*
+💡 *This Raspberry Pi 500+ offers a premium, customizable PC experience for keyboard enthusiasts.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/09/25/raspberry-pi-500-mechanical-keyboard-pc-gets-256-gb-nvme-ssd-16gb-ram-rgb-led-lighting/)
-
----
-
-### 7. Raspberry Pi CM0 castellated module features Raspberry Pi RP3A0 System-in-Package 
-
-**Score:** 6/10 | A new Raspberry Pi CM0 Compute Module based on the RP3A0 SiP is emerging, similar to the Raspberry Pi Zero 2 W and CM3E. It utilizes a Broadcom BCM2710A1 quad-core Cortex-A53 processor and features options for 8GB or 16GB eMMC flash storage. This module is likely targeting business customers and offers a familiar Raspberry Pi experience.
-
-💡 *Raspberry Pi's CM0 module expands options for custom embedded systems with a familiar RP3A0 SiP.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/23/raspberry-pi-cm0-castellated-module-features-raspberry-pi-rp3a0-system-in-package/)
-
----
-
-### 8. These are the tools we use to build and maintain our precious tech, and they're on sale for Amazon Prime Day 
-
-**Score:** 4/10 | This text highlights a selection of essential tools for maintaining electronics, currently discounted during Amazon Prime Day.  It emphasizes the need for these tools to ensure electronics are kept in good working order.  The offer is time-sensitive, coinciding with the Prime Day event.
-
-💡 *Prime Day offers discounted tools vital for preserving and maintaining your tech investments.*
-
-🔗 [Read More](https://www.tomshardware.com/desktops/pc-building/best-pc-tools-amazon-prime-day-2025)
 
 ---
 
