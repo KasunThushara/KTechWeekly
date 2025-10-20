@@ -1,29 +1,41 @@
 # 💎 Rockchip Weekly Report
-**Week of October 12, 2025**
+**Week of October 21, 2025**
 
 *Rockchip processors and SBCs*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 1
+- **Total Articles:** 2
 - **High Priority:** 1 articles (score ≥7)
-- **Average Importance:** 7.0/10
-- **Report Generated:** 2025-10-12 19:17
+- **Average Importance:** 6.5/10
+- **Report Generated:** 2025-10-21 02:40
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Fogwise AIRbox Q900 $599 Qualcomm IQ-9075 AI Box delivers up to 200 TOPS of AI performance ⭐⭐
+### 1. Qualcomm acquires Arduino, introduces Arduino UNO Q dual-brain SBC ⭐⭐
 
 **Importance:** 7/10
 
-The Fogwise AIRbox Q900 is a new AI micro-server boasting a Qualcomm IQ-9075 SoC with 200 TOPS of AI performance, 36GB of RAM, and 128GB of storage. Designed as a competitor to the NVIDIA Jetson Orin NX, it offers comparable performance and efficiency at a lower overall cost.  Key features include real-time cores, high-speed networking, and a dedicated VPU.
+Qualcomm's acquisition of Arduino aims to integrate Qualcomm's technologies with Arduino's ecosystem, resulting in the launch of the Arduino UNO Q SBC, a dual-brain board.  The deal intends to unify development across various operating systems and accelerate innovation for a broader range of users.  Crucially, Arduino will maintain its independent brand and community focus.
 
-💡 *The Fogwise AIRbox Q900 presents a compelling, cost-effective AI alternative for edge computing.*
+💡 *Qualcomm's Arduino acquisition and the UNO Q herald a new era for accessible, cross-platform IoT development.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/09/30/fogwise-airbox-q900-599-qualcomm-iq-9075-ai-box-delivers-up-to-200-tops-of-ai-performance/)
+🔗 [Read More](https://www.cnx-software.com/2025/10/07/qualcomm-acquires-arduino-introduces-arduino-uno-q-dual-brain-sbc/)
+
+---
+
+### 2. Budget' portable CD player for audiophiles launches at $319 built-in CD ripping support, high-quality DAC, and amplifier ⭐⭐
+
+**Importance:** 6/10
+
+Shanling, a Hi-Fi audio company, has introduced a new portable CD player targeted at audiophiles. Priced at $319, the player features built-in CD ripping support, a high-quality DAC, and an integrated amplifier, promising a premium audio experience.  It represents a relatively affordable option for those seeking portable CD playback.
+
+💡 *Shanling’s new portable CD player offers audiophiles a surprisingly capable and affordable solution.*
+
+🔗 [Read More](https://www.tomshardware.com/peripherals/budget-portable-cd-player-for-audiophiles-launches-at-usd319-built-in-cd-ripping-support-high-quality-dac-and-amplifier)
 
 ---
 

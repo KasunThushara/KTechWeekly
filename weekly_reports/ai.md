@@ -1,5 +1,5 @@
 # 🤖 AI Weekly Report
-**Week of October 12, 2025**
+**Week of October 21, 2025**
 
 *Artificial Intelligence developments*
 
@@ -7,249 +7,249 @@
 
 ## 📊 Summary
 - **Total Articles:** 23
-- **High Priority:** 21 articles (score ≥7)
-- **Average Importance:** 7.3/10
-- **Report Generated:** 2025-10-12 19:17
+- **High Priority:** 15 articles (score ≥7)
+- **Average Importance:** 6.7/10
+- **Report Generated:** 2025-10-21 02:40
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Microsoft deploys world's first 'supercomputer-scale' GB300 NVL72 Azure cluster ⭐⭐⭐
-
-**Importance:** 9/10
-
-Microsoft has launched a massive GB300 NVL72 supercluster on Azure, utilizing 4,608 GPUs interconnected for unprecedented performance. This cluster achieves a staggering 92.1 exaFLOPS of FP4 inference and 1.44 PFLOPS of FP4 Tensor Core performance thanks to NVLink and InfiniBand.  It represents a significant step in accelerating AI workloads.
-
-💡 *Microsoft's GB300 supercluster demonstrates a major leap in AI performance and Azure's capabilities.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-deploys-worlds-first-supercomputer-scale-gb300-nvl72-azure-cluster-4-608-gb300-gpus-linked-together-to-form-a-single-unified-accelerator-capable-of-1-44-pflops-of-inference)
-
----
-
-### 2. U.S. Senate passes bill that forces AI chipmakers to prioritize sales to American companies ⭐⭐
+### 1. Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system up to 9x increase in output lets 213 GPUs perform like 1,192 ⭐⭐
 
 **Importance:** 8/10
 
-The U.S. Senate has approved a bill requiring Nvidia and AMD to prioritize sales to American companies. This legislation aims to bolster domestic semiconductor production and reduce reliance on exports. The House is now expected to either pass or amend the bill.
+Alibaba Cloud has implemented a new pooling system, Aegaeon, that significantly reduces the need for Nvidia GPUs when running large language models. The system achieved an 82% reduction in GPU usage and enabled 213 GPUs to perform with the output of 1,192 GPUs. This demonstrates a substantial increase in efficiency for AI workloads.
 
-💡 *This Senate action marks a significant push to secure U.S. dominance in AI chip supply.*
+💡 *Alibaba Cloud's Aegaeon system dramatically boosts AI efficiency, lowering GPU needs by 82%.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-senate-passes-bill-that-forces-ai-chipmakers-to-prioritize-sales-to-american-companies-house-now-set-to-amend-or-pass-legislation)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent)
 
 ---
 
-### 3. SoftBank is seeking $5 billion loan to invest in OpenAI, plans to use Arm shares as collateral rapid AI expansion continues, investment could top $30 billion ⭐⭐
+### 2. North Korean state-sponsored hackers slip unremovable malware inside blockchains to steal cryptocurrency ⭐⭐
 
 **Importance:** 8/10
 
-SoftBank is obtaining a $5 billion loan secured by Arm shares to fuel investments in OpenAI and broader AI infrastructure. This move further escalates SoftBank's leveraged strategy for rapid AI expansion, and brings total Arm-backed debt to $18.5 billion. The overall investment could potentially reach $30 billion.
+Google has identified a North Korean group (UNC5342) utilizing EtherHiding, a tactic involving embedding malicious JavaScript payloads in smart contracts on public blockchains. This represents the first instance of a nation-state employing this method for creating takedown-resistant backdoors and cryptocurrency theft.  The technique leverages the inherent security features of blockchain to conceal and execute attacks.
 
-💡 *SoftBank’s massive AI investment, backed by Arm debt, signals a bold, leveraged push into the field.*
+💡 *Nation-states are now weaponizing blockchain to create undetectable, persistent cyber threats.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-is-seeking-usd5-billion-loan-to-invest-in-openai-plans-to-use-arm-shares-as-collateral-rapid-ai-expansion-continues-investment-could-top-usd30-billion)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/north-korea-hiding-malware-inside-blockchain-smart-contracts)
+
+---
+
+### 3. Jensen says Nvidia s China AI GPU market share has plummeted from 95% to zero ⭐⭐
+
+**Importance:** 8/10
+
+Nvidia CEO Jensen Huang reported a dramatic shift in the Chinese AI accelerator market, with Nvidia's share collapsing from 95% to zero due to US export controls. Previously, the Chinese market accounted for 20-25% of Nvidia's data center revenue. This signifies a significant loss of market dominance in China's burgeoning AI sector.
+
+💡 *US export controls have decimated Nvidia’s Chinese AI market dominance, revealing a major strategic shift.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/jensen-huang-says-nvidia-china-market-share-has-fallen-to-zero)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. China issues port crackdown on all Nvidia AI chip imports, says report ⭐⭐
+### 4. Intel Foundry secures contract to build Microsoft's Maia 2 next-gen AI processor on 18A/18A-P node, claims report ⭐⭐
 
-**Score:** 8/10 | China has initiated a significant crackdown on unlicensed Nvidia chip shipments, deploying enforcement teams across major ports. The operation focuses on inspecting hardware shipments, specifically targeting H20 and RTX 6000D models. This action indicates a heightened concern regarding the import of AI-related hardware.
+**Score:** 8/10 | Intel Foundry has been awarded a contract to manufacture Microsoft's Maia 2 AI processor utilizing its 18A process technology. This represents a significant win for Intel, potentially boosting earnings and improving its reputation. The agreement could be a crucial step in the ongoing strategic partnership between the two companies.
 
-💡 *China's port crackdown signals a serious restriction on AI hardware imports, impacting Nvidia's market access.*
+💡 *Intel’s Maia 2 contract validates its 18A process and strengthens its AI chip manufacturing partnership with Microsoft.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/china-launches-port-crackdown-on-nvidia-chips)
-
----
-
-### 5. Singapore company allegedly helped China smuggle $2 billion worth of Nvidia AI processors, report claims ⭐⭐
-
-**Score:** 8/10 | A U.S. investigation revealed that a Singapore-based firm with Chinese connections purchased $2 billion in Nvidia GPUs via a U.S. subsidiary, intending to ship them to Malaysia and Indonesia. These GPUs were reportedly used by clients in China or resold to customers in the PRC. Nvidia denies any involvement of the accused company, while a U.S. investigation is ongoing.
-
-💡 *This investigation highlights potential circumvention of U.S. export controls for advanced AI technology.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/singapore-company-alleged-to-have-helped-china-get-usd2-billion-worth-of-nvidia-ai-processors-report-claims-nvidia-denies-that-the-accused-has-any-china-ties-but-a-u-s-investigation-is-underway)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/intel-foundry-secures-contract-to-build-microsofts-maia-2-next-gen-ai-processor-on-18a-18a-p-node-claims-report-could-be-first-step-in-ongoing-partnership)
 
 ---
 
-### 6. Sony and AMD tease likely PlayStation 6 GPU upgrades Radiance Cores and a new interconnect for boosting AI rendering performance ⭐⭐
+### 5. Anthropic targets gigantic $26 billion in revenue by the end of 2026 ⭐⭐
 
-**Score:** 8/10 | Sony and AMD are developing upgrades for the upcoming PlayStation 6, codenamed Project Amethyst. These include new 'Radiance Cores' designed for real-time path tracing rendering and a new interconnect aimed at improving AI rendering performance. This suggests a significant focus on AI-driven graphics capabilities for the next-generation console.
+**Score:** 8/10 | Anthropic, the AI developer behind Claude, is aiming for a staggering $26 billion in revenue by the end of 2026, significantly exceeding its previous goal of $9 billion by 2025. This ambitious target represents more than double OpenAI's projected 2025 earnings. The projections highlight the rapidly growing potential of the AI market.
 
-💡 *Sony and AMD’s Project Amethyst signals a major push for AI-enhanced graphics in the PlayStation 6.*
+💡 *Anthropic’s $26 billion revenue goal signals a massive, accelerating expansion in the AI market.*
 
-🔗 [Read More](https://www.tomshardware.com/video-games/console-gaming/sony-and-amd-tease-likely-playstation-6-gpu-upgrades-radiance-cores-and-a-new-interconnect-for-boosting-ai-rendering-performance)
-
----
-
-### 7. AMD will beat Nvidia to launching AI GPUs on the cutting-edge 2nm node ⭐⭐
-
-**Score:** 8/10 | AMD is utilizing TSMC's 2nm process for its upcoming Instinct MI450 AI accelerators, marking the first AMD GPU to leverage this technology. This MI450 will be based on the CDNA 5 architecture. While Nvidia's Rubin may offer higher raw compute power, AMD's move signifies a key step in their AI GPU strategy.
-
-💡 *AMD's 2nm MI450 signals a significant advancement in their AI GPU competitiveness.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-could-beat-nvidia-to-launching-ai-gpus-on-the-cutting-edge-2nm-node-instinct-mi450-is-officially-the-first-amd-gpu-to-launch-with-tsmcs-finest-tech)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/anthropic-targets-gigantic-usd26-billion-in-revenue-by-the-end-of-2026-eye-watering-sum-is-more-than-double-openais-projected-2025-earnings)
 
 ---
 
-### 8. U.S. finally grants Nvidia license to ship AI GPUs to UAE: 500,000 Blackwell GPUs coming to the Gulf region ⭐⭐
+### 6. Amazon reveals 960 megawatt nuclear power plans to cope with AI demand ⭐⭐
 
-**Score:** 8/10 | The United States has authorized Nvidia to export tens of billions of dollars' worth of AI hardware, specifically 500,000 Blackwell GPUs, to the UAE. This approval is part of a new agreement involving $1.4 trillion in Emirati investment and represents a significant expansion of Nvidia's AI hardware presence in the Gulf region. The deal underscores the growing importance of AI infrastructure and geopolitical investment in advanced technologies.
+**Score:** 8/10 | Amazon is constructing a new nuclear power campus in Richland, Washington, to generate carbon-free electricity. This initiative is intended to meet the increasing energy demands of its AI and cloud computing operations. The project utilizes small modular reactors (Xe-100) marking a significant step in utilizing nuclear energy for digital infrastructure.
 
-💡 *Nvidia’s expansion to the UAE highlights growing geopolitical investment in AI hardware and infrastructure.*
+💡 *Amazon’s nuclear investment signals a crucial effort to power AI growth with carbon-free energy.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-finally-grants-nvidia-license-to-ship-ai-gpus-to-uae-500-000-blackwell-gpus-coming-to-the-gulf-region)
-
----
-
-### 9. AI adoption far outpaces that of the early Internet   report sheds light on worldwide AI penetration and usage patterns ⭐⭐
-
-**Score:** 8/10 | A recent Financial Times report details the rapid global adoption of AI, highlighting how it's already significantly more widespread than the initial stages of the internet. The report examines current worldwide AI penetration and the various ways it's being utilized. This indicates a much faster evolution of AI's integration into numerous industries and applications.
-
-💡 *AI’s rapid global spread surpasses the early internet, signaling a transformative technological shift.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/amazon-unveils-plans-for-modular-nuclear-plant-in-washington)
 
 ---
 
-### 10. 1GHz Renesas RA8T2 Cortex-M85 MCUs feature MRAM and EtherCAT for industrial motor control ⭐⭐
+### 7. Google’s open-source, RISC-V-based Coral NPU is integrated into Synaptics SL2610 Edge AI SoCs ⭐⭐
 
-**Score:** 8/10 | Renesas has released the RA8T2, a high-performance Cortex-M85 MCU with a 1GHz core and MRAM, designed for advanced motor control applications. It offers enhanced networking capabilities including EtherCAT and multiple connectivity options, alongside security features like TrustZone. This MCU is a direct upgrade to the RA8T1 and targets industrial robotics and motor control systems.
+**Score:** 8/10 | Google recently unveiled a full-stack, open-source RISC-V-based Coral NPU platform designed for always-on AI on low-power edge devices. The Synaptics Astra SL2610 family is the first chip to incorporate this NPU, aiming to combat software fragmentation in entry-level AI accelerators. Google's goal is to accelerate product development for ML developers by promoting adoption of its open-source design.
 
-💡 *Renesas RA8T2 MCU brings powerful MRAM and EtherCAT to revolutionize industrial motor control.*
+💡 *Google’s open Coral NPU, now in Synaptics’ SL2610, fosters wider AI accelerator adoption and simplifies edge deployment.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/17/google-open-source-coral-npu-synaptics-sl2610-edge-ai-socs/)
+
+---
+
+### 8. 1GHz Renesas RA8T2 Cortex-M85 MCUs feature MRAM and EtherCAT for industrial motor control ⭐⭐
+
+**Score:** 8/10 | Renesas has launched the RA8T2, a high-performance Cortex-M85 MCU with a 1GHz core, designed for industrial motor control applications. This MCU boasts features like MRAM, EtherCAT connectivity, and multiple networking options, alongside security features such as TrustZone. It’s a direct upgrade from the RA8T1 and offers enhanced performance for demanding motor control systems.
+
+💡 *Renesas RA8T2 MCUs deliver a powerful, secure solution for advanced industrial motor control applications.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/06/1ghz-renesas-ra8t2-cortex-m85-mcus-feature-mram-and-ethercat-for-industrial-motor-control/)
 
 ---
 
-### 11. UPS reportedly destroying packages due to customs confusion   thousands of parcels per day are seemingly affected by delays due to documentation issues ⭐⭐
+### 9. Massive AI data center buildouts are squeezing energy supplies ⭐⭐
 
-**Score:** 7/10 | UPS is facing significant problems with thousands of packages, primarily due to incomplete customs documentation. These delays are causing substantial delays and, alarmingly, some packages are being destroyed. The root cause appears to be inconsistencies in the paperwork submitted to customs authorities.
+**Score:** 7/10 | The rapid expansion of data centers, driven by AI and new innovations, is creating immense energy demands. Consequently, the future of energy supplies is undergoing a significant shift as new energy methods are investigated. This situation highlights the potential strain on existing power grids.
 
-💡 *UPS’s customs delays and package destruction reveal serious operational issues and potential consumer harm.*
+💡 *AI’s explosive growth threatens energy grids and accelerates the search for sustainable power sources.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/ups-reportedly-destroying-packages-due-to-customs-confusion-thousands-of-parcels-per-day-are-seemingly-affected-by-delays-due-to-documentation-issues)
-
----
-
-### 12. InferenceMax AI benchmark tests software stacks, efficiency, and TCO ⭐⭐
-
-**Score:** 7/10 | The InferenceMax AI benchmark is a vendor-neutral suite that continuously evaluates software stacks, efficiency, and total cost of ownership (TCO) for AI applications. It runs nightly, providing ongoing performance tracking and insights. This comprehensive approach helps identify optimal solutions for AI deployments.
-
-💡 *The InferenceMax AI benchmark delivers continuous, vendor-neutral insights for optimizing AI deployment costs and performance.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/inferencemax-ai-benchmark-tests-software-stacks-efficiency-and-tco-vendor-neutral-suite-runs-nightly-and-tracks-performance-changes-over-time)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/massive-ai-data-center-buildouts-are-squeezing-energy-supplies-new-energy-methods-are-being-explored-as-power-demands-are-set-to-skyrocket)
 
 ---
 
-### 13. Bank of England, IMF, warn AI bubble risk has shades of 2000 dotcom crash   Goldman Sachs cautions we're not there 'yet' ⭐⭐
+### 10. $165 Banana Pi BPI-R4 Pro board offers 2x 10GbE SFP+ cages, 7x 10GbE/2.5GbE/GbE RJ45 ports, WiFi 7 support ⭐⭐
 
-**Score:** 7/10 | Leading financial institutions, including the Bank of England and IMF, are expressing concerns about a potential market correction in AI stocks, echoing the 2000 dot-com bubble.  Increased investment among major players is fueling inflated valuations, leading to predictions of a significant price drop. Goldman Sachs acknowledges the risk but suggests a full correction is still to come.
+**Score:** 7/10 | The Banana Pi BPI-R4 Pro is a high-performance router board featuring a MediaTek Filogic 880 processor and a range of networking ports, including 2x 10GbE SFP+ cages and multiple RJ45 ports. It boasts upgraded specifications such as 8GB DDR4 memory, 256MB SPI flash, and six M.2 expansion slots.  Optional WiFi 7 support is available via a dual mini PCIe module.
 
-💡 *AI market exuberance is facing mounting warnings of a potential crash mirroring the 2000 dot-com bubble.*
+💡 *The Banana Pi R4 Pro delivers a powerful, versatile networking solution for advanced users.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/bank-of-england-imf-warn-ai-bubble-risk-has-shades-of-2000-dotcom-crash-goldman-sachs-cautions-were-not-there-yet)
-
----
-
-### 14. Discord says only 70,000 government ID photos exposed in third-party service breach, denies 2.1 million figure   says it won't pay $3.5 million ransom and has cut communications with hackers, who are threatening to go public ⭐⭐
-
-**Score:** 7/10 | Discord is disputing earlier reports that a breach exposed data for 2.1 million users, stating that only 70,000 government ID photos were compromised. The company has refused to pay a $3.5 million ransom demand and has severed all communication with the hackers threatening to release the data publicly.
-
-💡 *Discord’s revised data breach reveals a smaller impact, but the threat of public release remains serious.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/discord-says-only-70-000-government-id-photos-exposed-in-third-party-service-breach-denies-2-1-million-figure-says-it-wont-pay-usd3-5-million-ransom-and-has-cut-communications-with-hackers-who-are-threatening-to-go-public)
+🔗 [Read More](https://www.cnx-software.com/2025/10/20/banana-pi-bpi-r4-pro-board-offers-2x-10gbe-sfp-cages-6x-10gbe-2-5gbe-gbe-ports-wifi-7-support/)
 
 ---
 
-### 15. M5Stack LLM-8850 card ⭐⭐
+### 11. Orange Pi 6 Plus CIX P1 SBC offers up to 64GB LPDDR5 memory, 45 TOPS of AI performance ⭐⭐
 
-**Score:** 7/10 | The M5Stack LLM-8850 card is an M.2 AI accelerator module utilizing the Axera AX8850 24 TOPS SoC, designed for accelerating AI workloads on host devices like Raspberry Pi and Rockchip SBCs. It features 8GB of LPDDR4x RAM and supports 8K video encoding/decoding, alongside an active cooling system. This card is a versatile hardware solution for edge AI applications.
+**Score:** 7/10 | The Orange Pi 6 Plus, based on the CIX P1 (CD8180) single board computer, is now available for purchase on AliExpress. It features a 12-core processor with up to 64GB of LPDDR5 memory, substantial AI performance (45 TOPS), and a range of connectivity options including multiple M.2 slots and display interfaces.
 
-💡 *The M5Stack LLM-8850 offers a powerful, accessible hardware solution for accelerating AI at the edge.*
+💡 *The Orange Pi 6 Plus offers a powerful, affordable AI SBC with impressive memory and performance.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/15/orange-pi-6-plus-cix-p1-sbc-64gb-lpddr5-45-tops-ai-performance/)
+
+---
+
+### 12. ADLINK OSM-IMX95 An NXP i.MX 95 OSM Size-L system-on-module for IoT and industrial applications ⭐⭐
+
+**Score:** 7/10 | The ADLINK OSM-IMX95 is a Size-L system-on-module based on the NXP i.MX 95 processor, offering enhanced performance with a hexa-core Arm Cortex-A55 SoC and a 2 TOPS eIQ Neutron NPU. Designed for diverse IoT and industrial applications including Smart Home and Industry 4.0, it boasts significant upgrades like increased RAM, flash storage, and high-speed interfaces.
+
+💡 *The ADLINK OSM-IMX95 delivers powerful AI capabilities for efficient IoT and industrial edge computing.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/14/adlink-osm-imx95-nxp-i-mx-95-osm-type-l-system-on-module/)
+
+---
+
+### 13. Ubo Pod A Raspberry Pi 4/5-based personal AI assistant (Crowdfunding) ⭐⭐
+
+**Score:** 7/10 | The Ubo Pod Developer Edition is an open-source AI assistant built around a Raspberry Pi 4 or 5, offering developers control over their AI experiences. It combines speech-to-text, LLMs, and local/cloud AI capabilities with a user-friendly GUI and WebUI. The device utilizes an M.2 NVMe SSD slot for performance and supports multiple trigger mechanisms.
+
+💡 *Ubo Pod empowers developers with customizable, locally-driven AI experiences on a Raspberry Pi.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/13/ubo-pod-a-raspberry-pi-4-5-personal-ai-assistant/)
+
+---
+
+### 14. M5Stack LLM-8850 card ⭐⭐
+
+**Score:** 7/10 | The M5Stack LLM-8850 card is an M.2 AI accelerator module utilizing the Axera AX8850 24 TOPS SoC, designed for accelerating AI tasks and video processing. It features an octa-core Cortex A55 processor, 8GB of RAM, and supports both encoding and decoding of 8K video. The card is compatible with devices like Raspberry Pi and Rockchip SBCs, thanks to its M.2 form factor and cooling system.
+
+💡 *The M5Stack LLM-8850 offers a cost-effective solution for accelerating AI and video tasks on SBCs.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/03/m5stack-llm-8850-card-an-m-2-m-key-ai-accelerator-module-based-on-axera-ax8850-24-tops-soc/)
 
 ---
 
-### 16. Snapdragon X2 Elite Extreme and X2 Elite processors target high-end Windows PCs ⭐⭐
+### 15. Snapdragon X2 Elite Extreme and X2 Elite processors target high-end Windows PCs ⭐⭐
 
-**Score:** 7/10 | Qualcomm has launched the Snapdragon X2 Elite Extreme and X2 Elite processors designed for high-end Windows laptops. These 3nm processors boast impressive specs, including high clock speeds, advanced AI capabilities with an 80 TOPS Hexagon NPU, and cutting-edge connectivity features like WiFi 7 and PCIe Gen5. Qualcomm aims to deliver the fastest and most efficient performance for demanding laptop applications.
+**Score:** 7/10 | Qualcomm has released three new 3nm Snapdragon X2 Elite processors – Extreme, Elite (88 & 80), designed for high-end Windows PCs. These processors boast impressive specs including six performance cores, advanced AI capabilities with an 80 TOPS Hexagon NPU, and connectivity options like WiFi 7 and 5G. They aim to deliver the fastest and most efficient performance for laptops.
 
-💡 *Qualcomm’s Snapdragon X2 Elite processors promise a new era of high-performance Windows laptops.*
+💡 *Qualcomm's Snapdragon X2 Elite processors represent a bold move towards mobile-grade computing in high-end PCs.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/02/snapdragon-x2-elite-extreme-and-x2-elite-processors-target-high-end-windows-pcs/)
 
 ---
 
-### 17. AAEON GENE-ARH6 ⭐⭐
+### 16. Microsoft denies Mexico data center linked to water shortages, local illnesses, and power outages stomach bugs and even hepatitis reported in region as 1.5 Gigawatt AI data center buildout looms 
 
-**Score:** 7/10 | The AAEON GENE-ARH6 is a 3.5-inch industrial SBC featuring Intel Core Ultra 200H/U SoCs, offering up to 96 TOPS of AI performance. It supports high memory capacity, multiple display outputs, and extensive connectivity options, alongside expansion slots like M.2 and PCIe. Designed for robust industrial applications, it includes security features and a wide operating temperature range.
+**Score:** 6/10 | Microsoft is disputing allegations that its planned 1.5 Gigawatt data center in central Mexico is responsible for recent power outages, water shortages, and associated health problems like stomach bugs and hepatitis. The company asserts it consistently prioritizes the well-being of local communities during its operations. This denial comes amid concerns about the significant data center buildout.
 
-💡 *The AAEON GENE-ARH6 delivers powerful AI and connectivity for demanding industrial applications.*
+💡 *Microsoft’s denial raises serious questions about the environmental and health impacts of its massive data center expansion in Mexico.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/10/01/aaeon-gene-arh6-a-3-5-inch-subcompact-industrial-sbc-with-intel-core-ultra-200h-u-soc/)
-
----
-
-### 18. Aries MSRZG3E OSM-compliant SiP with Renesas RZ/G3E MPU targets industrial HMI and Edge AI ⭐⭐
-
-**Score:** 7/10 | The ARIES MSRZG3E is an OSM-compliant system-in-package (SiP) utilizing the Renesas RZ/G3E MPU, specifically designed for industrial HMI and Edge AI applications.  It features a quad-core Arm Cortex-A55 CPU, a Cortex-M33 real-time core, and an Ethos-U55 NPU offering significant AI processing capabilities, alongside a range of connectivity options.  The SiP comes with various memory and storage options, ensuring flexibility for diverse industrial deployments.
-
-💡 *The ARIES MSRZG3E SiP unlocks powerful Edge AI and HMI solutions for industrial applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/10/01/aries-msrzg3e-osm-compliant-sip-with-renesas-rz-g3e-mpu-targets-industrial-hmi-and-edge-ai/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/microsoft-denies-mexico-data-center-linked-to-water-shortages-local-illnesses-and-power-outages-stomach-bugs-and-even-hepatitis-reported-in-region-as-1-5-gigawatt-ai-data-center-buildout-looms)
 
 ---
 
-### 19. Fogwise AIRbox Q900 $599 Qualcomm IQ-9075 AI Box delivers up to 200 TOPS of AI performance ⭐⭐
+### 17. Palantir chief takes a jab at Nvidia CEO Jensen Huang, says people decrying China hawks are useful idiots 'The first step to ending our dependence on China is admitting we have a problem' 
 
-**Score:** 7/10 | The Fogwise AIRbox Q900 is a new AI micro-server boasting a Qualcomm IQ-9075 SoC with 200 TOPS of AI performance, 36GB of RAM, and 128GB of storage. Designed as a competitor to the NVIDIA Jetson Orin NX, it offers comparable performance and efficiency at a lower overall cost.  Key features include real-time cores, high-speed networking, and a dedicated VPU.
+**Score:** 6/10 | Palantir's CTO criticized Jensen Huang's comments characterizing individuals opposing China as 'useful idiots'. He argued that acknowledging a reliance on China is the first step towards reducing that dependence. The exchange highlights a debate surrounding U.S.-China relations and technology supply chains.
 
-💡 *The Fogwise AIRbox Q900 presents a cost-effective AI alternative with strong performance for edge computing.*
+💡 *The Palantir critique underscores the complex debate about U.S. dependence on China and the motivations behind opposing it.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/09/30/fogwise-airbox-q900-599-qualcomm-iq-9075-ai-box-delivers-up-to-200-tops-of-ai-performance/)
-
----
-
-### 20. Orange Pi AI Studio Pro A Huawei Ascend 310 AI box with up to 352 TOPS, 192GB RAM ⭐⭐
-
-**Score:** 7/10 | The Orange Pi AI Studio Pro is an AI box utilizing two Huawei Ascend 310 processors, offering up to 352 TOPS of performance and 192GB of RAM. It builds upon the Orange Pi AIPro and is designed for AI applications, though it lacks common ports like HDMI and Ethernet. This device is a significant step forward in accessible AI hardware.
-
-💡 *The Orange Pi AI Studio Pro democratizes powerful AI hardware with impressive performance and RAM.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/30/orange-pi-ai-studio-pro-huawei-ascend-310-ai-mini-pc-with-up-to-352-tops-192gb-ram/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/big-tech/palantir-chief-takes-a-jab-at-nvidia-ceo-jensen-huang-says-people-decrying-china-hawks-are-useful-idiots-the-first-step-to-ending-our-dependence-on-china-is-admitting-we-have-a-problem)
 
 ---
 
-### 21. 5 Ways Embedded AI Processors are Revolutionizing Device Performance (Sponsored) ⭐⭐
+### 18. Jensen Huang personally delivers DGX Spark Mini PCs to Elon Musk and Sam Altman 
 
-**Score:** 7/10 | Edge AI is shifting processing power from the cloud to devices, enabling faster decision-making and enhanced privacy by running AI models locally. This trend, fueled by significant enterprise investment estimated at $261 billion by 2025, is driven by the ability to eliminate cloud latency and protect sensitive data.  The move to on-device AI processing is transforming industries like automation with real-time applications.
+**Score:** 6/10 | Jensen Huang recently delivered DGX Spark mini PCs to Elon Musk and Sam Altman, a notable event observed by onlookers. The hand-delivery suggests a direct relationship between NVIDIA and key figures in the tech industry. These miniature PCs likely represent NVIDIA's efforts in developing solutions for AI and compute-intensive tasks.
 
-💡 *Edge AI processors are dramatically improving device performance and security through local AI processing.*
+💡 *NVIDIA’s direct delivery to Musk and Altman underscores the growing importance of DGX Spark in AI development.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/09/25/5-ways-embedded-ai-processors-are-revolutionizing-device-performance/)
-
----
-
-### 22. Espressif s EchoEar ESP32-S3 voice-controlled AI chatbot runs esp-brookesia firmware 
-
-**Score:** 6/10 | The Espressif EchoEar is a compact AI chatbot based on the ESP32-S3, designed for voice interaction and edge AI applications. It features a circular touch display, dual microphones, and support for large AI models.  The device utilizes the ESP32-S3-WROOM-1 module and includes peripherals like a speaker and microSD card slot.
-
-💡 *This innovative EchoEar demonstrates the potential of ESP32-S3 for localized, voice-controlled AI.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/09/26/espressif-echoear-esp32-s3-voice-controlled-ai-chatbot-with-circular-touchscreen-and-mic-array/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-personally-delivers-dgx-spark-mini-pcs-to-elon-musk-and-sam-altman-separately)
 
 ---
 
-### 23. Battlefield 6 has an epic launch bug where it fails to recognize that the game is already installed EA boss suggests one affected user to refund and buy on Steam 
+### 19. Raspberry Pi-like Allwinner A527/T527 industrial SBC features dual camera support and AI acceleration 
 
-**Score:** 3/10 | Battlefield 6 launched with a significant bug causing the game to fail to recognize existing installations. EA initially took six hours to address the issue. A senior executive suggested one affected user attempt a refund and purchase the game on Steam.
+**Score:** 6/10 | EBYTE has released a new industrial single-board computer (SBC) based on the Allwinner A527/T527, resembling the Walnut Pi 2B and Orange Pi 4A, designed for IoT and commercial applications. This SBC boasts dual camera support through MIPI CSI connectors, enabling dual 4K output, alongside AI acceleration capabilities. It includes features like 4GB LPDDR4 RAM, eMMC storage, and a standard Raspberry Pi-compatible GPIO header.
 
-💡 *EA’s botched launch highlights serious issues with game distribution and customer service.*
+💡 *This Allwinner-based SBC offers a cost-effective, dual-camera solution with AI acceleration for IoT applications.*
 
-🔗 [Read More](https://www.tomshardware.com/video-games/battlefield-6-has-an-epic-launch-bug-where-it-fails-to-recognize-that-the-game-is-already-installed-ea-boss-suggests-one-affected-user-to-refund-and-buy-on-steam)
+🔗 [Read More](https://www.cnx-software.com/2025/10/16/raspberry-pi-allwinner-a527-t527-industrial-sbc-dual-camera-ai-acceleration/)
+
+---
+
+### 20. Radxa Orion O6N 
+
+**Score:** 6/10 | The Radxa Orion O6N is a Nano-ITX small-form factor SBC utilizing the CIX P1 (CD8160) 12-core Armv9 SoC, offering a more affordable alternative to the Orion O6.  It features a Cortex-A720 processor with a lower clock speed and expanded storage options. This board provides robust performance with a 30/45 TOPS AI accelerator and ample connectivity.
+
+💡 *The Radxa Orion O6N offers a cost-effective AI solution with strong performance and expanded storage.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/14/radxa-orion-o6n-smaller-cheaper-12-core-armv9-nano-itx-sbc-cix-p1-cd8160-soc/)
+
+---
+
+### 21. Musk challenges legendary AI researcher Karpathy to an AI coding showdown against Grok 5 gets a polite 'no' to an IBM Deep Blue-like showdown 
+
+**Score:** 4/10 | Elon Musk has proposed a public coding competition between xAI's Grok 5 and Andrej Karpathy, drawing a parallel to the 1997 Kasparov vs. Deep Blue chess match. Karpathy responded with a polite rejection of a Deep Blue-style contest. This suggests a focus on a more direct coding challenge utilizing Grok 5.
+
+💡 *Musk’s challenge reflects a bet on xAI’s Grok 5’s capabilities versus a leading AI researcher.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/musk-challenges-kaparthy-to-an-ai-coding-showdown)
+
+---
+
+### 22. MSI's new AI-powered PC building assistant recommends the 9800X3D as a budget CPU 
+
+**Score:** 4/10 | MSI's AI chatbot, EZ PC Builder, is experiencing early issues, notably suggesting the high-end 9800X3D as a budget CPU and creating excessively expensive builds (over $1,700) despite user requests for cheaper options. The system also exhibits a strong bias toward recommending MSI products. It's currently in beta and requires careful oversight.
+
+💡 *MSI's AI builder reveals concerning biases and misrecommendations, demanding careful monitoring.*
+
+🔗 [Read More](https://www.tomshardware.com/desktops/pc-building/msis-new-ai-powered-pc-building-assistant-recommends-the-9800x3d-as-a-budget-cpu-ez-pc-builder-specd-out-over-usd1-700-of-parts-for-a-usd1-000-build)
+
+---
+
+### 23. New $1 US coins to feature Steve Jobs and Cray-1 supercomputer   US Mint's 2026 American Innovation Program to memorialize computing history 
+
+**Score:** 4/10 | The US Mint will commemorate computing history by including Steve Jobs and the Cray-1 supercomputer on new $1 coins. This addition to the American Innovation Program reflects the importance of technological advancements.  The coins will join iconic figures like former presidents and the Statue of Liberty.
+
+💡 *The US Mint’s innovation program recognizes pivotal moments in computing history with Jobs and the Cray-1.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/new-us-usd1-coins-to-feature-steve-jobs-and-cray-1-supercomputer-us-mints-2026-american-innovation-program-to-memorialize-computing-history)
 
 ---
 

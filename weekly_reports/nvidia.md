@@ -1,115 +1,105 @@
 # 🎮 NVIDIA Weekly Report
-**Week of October 12, 2025**
+**Week of October 21, 2025**
 
 *NVIDIA hardware and GPUs*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 9
-- **High Priority:** 6 articles (score ≥7)
-- **Average Importance:** 7.0/10
-- **Report Generated:** 2025-10-12 19:17
+- **Total Articles:** 8
+- **High Priority:** 4 articles (score ≥7)
+- **Average Importance:** 6.5/10
+- **Report Generated:** 2025-10-21 02:40
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Microsoft deploys world's first 'supercomputer-scale' GB300 NVL72 Azure cluster ⭐⭐⭐
-
-**Importance:** 9/10
-
-Microsoft has launched a massive GB300 NVL72 supercluster on Azure, utilizing 4,608 GPUs interconnected for unprecedented performance. This cluster achieves a staggering 92.1 exaFLOPS of FP4 inference and 1.44 PFLOPS of FP4 Tensor Core performance thanks to NVLink and InfiniBand.  It represents a significant step in accelerating AI workloads.
-
-💡 *Microsoft’s GB300 supercluster demonstrates a major leap in AI performance and capabilities on Azure.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-deploys-worlds-first-supercomputer-scale-gb300-nvl72-azure-cluster-4-608-gb300-gpus-linked-together-to-form-a-single-unified-accelerator-capable-of-1-44-pflops-of-inference)
-
----
-
-### 2. U.S. Senate passes bill that forces AI chipmakers to prioritize sales to American companies ⭐⭐
+### 1. Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system up to 9x increase in output lets 213 GPUs perform like 1,192 ⭐⭐
 
 **Importance:** 8/10
 
-The U.S. Senate has approved a bill requiring Nvidia and AMD to prioritize sales to American companies. This legislation aims to bolster domestic semiconductor production and reduce reliance on exports. The House is now expected to either pass or amend the bill.
+Alibaba Cloud has implemented a new pooling system, Aegaeon, that significantly reduces the need for Nvidia GPUs when running large language models. The system achieved an 82% reduction in GPU usage and enabled 213 GPUs to perform with the output of 1,192 GPUs. This demonstrates a substantial increase in efficiency for AI workloads.
 
-💡 *This legislation represents a significant intervention to prioritize U.S. tech firms in the critical AI chip market.*
+💡 *Alibaba's Aegaeon system dramatically boosts AI efficiency, lowering GPU needs by 82%.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-senate-passes-bill-that-forces-ai-chipmakers-to-prioritize-sales-to-american-companies-house-now-set-to-amend-or-pass-legislation)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent)
 
 ---
 
-### 3. China issues port crackdown on all Nvidia AI chip imports, says report ⭐⭐
+### 2. TSMC gives an ultra-rare video look inside its fabs   'Silver Highway' and fab tools revealed in flyby video of company's US Arizona Fab 21 ⭐⭐
 
 **Importance:** 8/10
 
-China has initiated a significant crackdown on unlicensed Nvidia chip shipments, deploying enforcement teams across major ports. The operation focuses on inspecting hardware shipments, specifically targeting H20 and RTX 6000D models. This action indicates a heightened concern regarding the import of AI-related hardware.
+TSMC recently released a flyby video showcasing its operational Fab 21 in Arizona, offering a unique view of its N4/N5 cleanroom. The video prominently features ASML's EUV scanners, which are used to manufacture chips for major companies like Apple, AMD, and Nvidia. This provides a rare opportunity to observe the complex processes involved in semiconductor fabrication.
 
-💡 *China’s port crackdown signals a serious restriction on AI hardware imports, impacting Nvidia’s market access.*
+💡 *TSMC’s rare fab video reveals the critical role of EUV scanners in advanced chip production.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/china-launches-port-crackdown-on-nvidia-chips)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-an-ultra-rare-video-look-inside-its-fabs-silver-highway-and-fab-tools-revealed-in-flyby-video-of-companys-us-arizona-fab-21)
+
+---
+
+### 3. Jensen says Nvidia s China AI GPU market share has plummeted from 95% to zero ⭐⭐
+
+**Importance:** 8/10
+
+Nvidia CEO Jensen Huang reported a dramatic shift in the Chinese AI accelerator market, with Nvidia's share collapsing from 95% to zero due to US export controls. Previously, the Chinese market accounted for 20-25% of Nvidia's data center revenue. This signifies a significant loss of market dominance in China's burgeoning AI sector.
+
+💡 *US export controls have decimated Nvidia’s dominance in China’s AI GPU market.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/jensen-huang-says-nvidia-china-market-share-has-fallen-to-zero)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Singapore company allegedly helped China smuggle $2 billion worth of Nvidia AI processors, report claims ⭐⭐
+### 4. Lucky Facebook Marketplace shopper finds souped-up prototype GTX 2080 Ti inside a $500 PC ⭐⭐
 
-**Score:** 8/10 | A U.S. investigation revealed that a Singapore-based firm with Chinese connections purchased $2 billion in Nvidia GPUs via a U.S. subsidiary, intending to ship them to Malaysia and Indonesia. These GPUs were reportedly used by clients in China or resold to customers in the PRC. Nvidia denies any involvement of the accused company, while a U.S. investigation is ongoing.
+**Score:** 7/10 | A lucky Facebook Marketplace buyer discovered a highly modified Nvidia prototype GTX 2080 Ti GPU valued at $500, initially part of a larger $500 PC. This discovery reveals Nvidia explored a more powerful TU102 design for the 2080 Ti, boasting 12GB of VRAM and increased memory bandwidth. The find suggests Nvidia experimented with a higher-performance variant before the final RTX 2080 Ti release.
 
-💡 *This report exposes potential circumvention of U.S. export controls and illicit AI tech distribution.*
+💡 *This discovery reveals Nvidia’s experimental TU102 2080 Ti prototype, showcasing a powerful alternative design.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/singapore-company-alleged-to-have-helped-china-get-usd2-billion-worth-of-nvidia-ai-processors-report-claims-nvidia-denies-that-the-accused-has-any-china-ties-but-a-u-s-investigation-is-underway)
-
----
-
-### 5. U.S. finally grants Nvidia license to ship AI GPUs to UAE: 500,000 Blackwell GPUs coming to the Gulf region ⭐⭐
-
-**Score:** 8/10 | The United States has authorized Nvidia to export tens of billions of dollars' worth of AI hardware, specifically 500,000 Blackwell GPUs, to the UAE. This approval is part of a new agreement involving $1.4 trillion in Emirati investment and represents a significant expansion of Nvidia's AI hardware presence in the Gulf region. The deal underscores the growing importance of AI infrastructure and geopolitical investment in advanced technologies.
-
-💡 *Nvidia's UAE deal signifies a major geopolitical investment in AI infrastructure and advanced technology.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-finally-grants-nvidia-license-to-ship-ai-gpus-to-uae-500-000-blackwell-gpus-coming-to-the-gulf-region)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/lucky-facebook-marketplace-shopper-finds-souped-up-prototype-gtx-2080-ti-inside-a-usd500-pc-mythical-nvidia-project-features-12gb-of-vram-and-higher-memory-bandwidth)
 
 ---
 
-### 6. Best Amazon Prime Day Tech Deals You Can Still Get Live Blog Best Tech & PC Hardware Deals on GPUs, CPUs, SSDs, and more ⭐⭐
+### 5. Razer DeathAdder V4 Pro Review: As good as the DeathAdder V3 Pro 
 
-**Score:** 7/10 | This live blog provides updates on the top tech and PC hardware deals currently available during Amazon Prime Big Deals Day. It covers a wide range of products including GPUs, CPUs, SSDs, laptops, peripherals, and accessories.  Readers can find the best deals on hardware across various categories.
+**Score:** 6/10 | The Razer DeathAdder V4 Pro maintains the successful design of the V3 Pro while offering a lighter build, approximately 10% lighter, and includes an 8K wireless polling dongle. This update reinforces its position as a top-tier gaming mouse.  It builds upon the strengths of the previous generation, presenting an improved experience for users.
 
-💡 *Stay ahead of the curve with the latest Amazon Prime Day tech deals on GPUs, CPUs, and more.*
+💡 *The DeathAdder V4 Pro solidifies Razer's dominance with a refined, lighter wireless gaming mouse.*
 
-🔗 [Read More](https://www.tomshardware.com/news/live/best-amazon-prime-day-deals-you-can-still-get-live-best-tech-and-pc-hardware-deals-gpus-cpus-ssds-and-more-2025)
-
----
-
-### 7. Bride surprises new husband with an RTX 5090 on wedding day   Chinese number slang reveals surprise gift 
-
-**Score:** 6/10 | A wedding video surfaced online showing the bride gifting her new husband an RTX 5090 graphics card. This unexpected present quickly went viral, highlighting a significant tech offering. The incident showcased a memorable and extravagant wedding surprise.
-
-💡 *This viral wedding gift reveals a surprising level of tech enthusiasm and extravagant spending within the gaming community.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/bride-surprises-new-husband-with-an-rtx-5090-on-wedding-day-chinese-number-slang-reveals-surprise-gift)
+🔗 [Read More](https://www.tomshardware.com/peripherals/gaming-mice/razer-deathadder-v4-pro-review)
 
 ---
 
-### 8. These are the best CPU cooler deals we found this Prime Day, up to 37% off deals from Cooler Master, Thermalright, MSI, Corsair, and Thermaltake for every budget 
+### 6. Palantir chief takes a jab at Nvidia CEO Jensen Huang, says people decrying China hawks are useful idiots 'The first step to ending our dependence on China is admitting we have a problem' 
 
-**Score:** 6/10 | Prime Day offers remain available for CPU cooler deals, with significant discounts up to 37% across brands like Cooler Master and Thermalright. The Thermalright Grand Vision 360 currently stands out as the top deal, but many other options cater to various budgets. This article highlights the best CPU cooler deals for Prime Big Deals Day.
+**Score:** 6/10 | Palantir's CTO criticized Jensen Huang's comments characterizing individuals opposing China as 'useful idiots'. He argued that acknowledging a reliance on China is the first step towards reducing that dependence. The exchange highlights a debate surrounding U.S.-China relations and technology supply chains.
 
-💡 *Prime Day’s CPU cooler deals offer substantial savings for budget-conscious PC builders.*
+💡 *The Palantir critique underscores the complex debate over U.S. dependence on China and technology supply chains.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/these-are-the-best-cpu-cooler-deals-we-found-this-prime-day-up-to-37-percent-off-deals-from-cooler-master-thermalright-msi-corsair-and-thermaltake-for-every-budget)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/big-tech/palantir-chief-takes-a-jab-at-nvidia-ceo-jensen-huang-says-people-decrying-china-hawks-are-useful-idiots-the-first-step-to-ending-our-dependence-on-china-is-admitting-we-have-a-problem)
 
 ---
 
-### 9. Lucky PC builder snipes RTX 5090 for just $1,119   humbles proud shopper who scored one for $1,399 just two days earlier 
+### 7. Jensen Huang personally delivers DGX Spark Mini PCs to Elon Musk and Sam Altman 
 
-**Score:** 3/10 | Two online Redditors engaged in a competitive price hunt for the GeForce RTX 5090 graphics card. One user managed to snag a card for $1,119, significantly lower than the $1,399 price another had paid just two days prior. This created a humorous situation as one user 'humiliated' the other's earlier purchase.
+**Score:** 5/10 | Jensen Huang recently delivered DGX Spark mini PCs to Elon Musk and Sam Altman, a notable event observed by onlookers. The hand-delivery suggests a direct relationship between NVIDIA and key figures in the tech industry. These miniature PCs likely represent NVIDIA's efforts in developing solutions for AI and compute-intensive tasks.
 
-💡 *Extreme GPU price competition reveals volatile market conditions and buyer regret.*
+💡 *NVIDIA’s direct delivery to Musk and Altman underscores the growing importance of DGX Spark in AI development.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/lucky-pc-builder-snipes-rtx-5090-for-just-usd1-119-humbles-proud-shopper-who-scored-one-for-usd1-399-just-two-days-earlier)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-personally-delivers-dgx-spark-mini-pcs-to-elon-musk-and-sam-altman-separately)
+
+---
+
+### 8. Nvidia and TSMC produce the first Blackwell wafer made in the U.S. 
+
+**Score:** 4/10 | Nvidia and TSMC successfully produced the initial Blackwell wafer at TSMC's Arizona facility, representing a significant step for U.S. chip manufacturing. Despite this milestone, the chips still require final packaging in Taiwan using CoWoS-L technology, limiting the immediate impact. This achievement is largely symbolic at this stage.
+
+💡 *This marks a symbolic, yet crucial, step toward U.S. chip manufacturing capabilities for Nvidia's Blackwell.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-and-tsmc-produce-the-first-blackwell-wafer-made-in-the-u-s-chips-still-need-to-be-shipped-back-to-taiwan-to-complete-the-final-product)
 
 ---
 

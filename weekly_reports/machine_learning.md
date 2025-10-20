@@ -1,75 +1,95 @@
 # 🧠 Machine Learning Weekly Report
-**Week of October 12, 2025**
+**Week of October 21, 2025**
 
 *ML algorithms and research*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 5
+- **Total Articles:** 7
 - **High Priority:** 5 articles (score ≥7)
-- **Average Importance:** 7.6/10
-- **Report Generated:** 2025-10-12 19:17
+- **Average Importance:** 7.0/10
+- **Report Generated:** 2025-10-21 02:40
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Microsoft deploys world's first 'supercomputer-scale' GB300 NVL72 Azure cluster ⭐⭐⭐
-
-**Importance:** 9/10
-
-Microsoft has launched a massive GB300 NVL72 supercluster on Azure, utilizing 4,608 GPUs interconnected for unprecedented performance. This cluster achieves a staggering 92.1 exaFLOPS of FP4 inference and 1.44 PFLOPS of FP4 Tensor Core performance thanks to NVLink and InfiniBand.  It represents a significant step in accelerating AI workloads.
-
-💡 *Microsoft’s GB300 supercluster demonstrates a major leap in AI performance via Azure.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-deploys-worlds-first-supercomputer-scale-gb300-nvl72-azure-cluster-4-608-gb300-gpus-linked-together-to-form-a-single-unified-accelerator-capable-of-1-44-pflops-of-inference)
-
----
-
-### 2. AMD will beat Nvidia to launching AI GPUs on the cutting-edge 2nm node ⭐⭐
+### 1. Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system up to 9x increase in output lets 213 GPUs perform like 1,192 ⭐⭐
 
 **Importance:** 8/10
 
-AMD is utilizing TSMC's 2nm process for its upcoming Instinct MI450 AI accelerators, marking the first AMD GPU to leverage this technology. This MI450 will be based on the CDNA 5 architecture. While Nvidia's Rubin may offer higher raw compute power, AMD's move signifies a key step in their AI GPU strategy.
+Alibaba Cloud has implemented a new pooling system, Aegaeon, that significantly reduces the need for Nvidia GPUs when running large language models. The system achieved an 82% reduction in GPU usage and enabled 213 GPUs to perform with the output of 1,192 GPUs. This demonstrates a substantial increase in efficiency for AI workloads.
 
-💡 *AMD’s 2nm MI450 launch elevates their AI GPU strategy and challenges Nvidia’s dominance.*
+💡 *Alibaba's Aegaeon system dramatically increases AI efficiency, reducing GPU reliance and boosting output.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-could-beat-nvidia-to-launching-ai-gpus-on-the-cutting-edge-2nm-node-instinct-mi450-is-officially-the-first-amd-gpu-to-launch-with-tsmcs-finest-tech)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent)
 
 ---
 
-### 3. InferenceMax AI benchmark tests software stacks, efficiency, and TCO ⭐⭐
+### 2. Intel Foundry secures contract to build Microsoft's Maia 2 next-gen AI processor on 18A/18A-P node, claims report ⭐⭐
 
-**Importance:** 7/10
+**Importance:** 8/10
 
-The InferenceMax AI benchmark is a vendor-neutral suite that continuously evaluates software stacks, efficiency, and total cost of ownership (TCO) for AI applications. It runs nightly, providing ongoing performance tracking and insights. This comprehensive approach helps identify optimal solutions for AI deployments.
+Intel Foundry has been awarded a contract to manufacture Microsoft's Maia 2 AI processor utilizing its 18A process technology. This represents a significant win for Intel, potentially boosting earnings and improving its reputation. The agreement could be a crucial step in the ongoing strategic partnership between the two companies.
 
-💡 *InferenceMax provides continuous, data-driven insights for optimizing AI deployment costs and performance.*
+💡 *Intel's Maia 2 contract strengthens its foundry business and the Microsoft-Intel AI partnership.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/inferencemax-ai-benchmark-tests-software-stacks-efficiency-and-tco-vendor-neutral-suite-runs-nightly-and-tracks-performance-changes-over-time)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/intel-foundry-secures-contract-to-build-microsofts-maia-2-next-gen-ai-processor-on-18a-18a-p-node-claims-report-could-be-first-step-in-ongoing-partnership)
+
+---
+
+### 3. Anthropic targets gigantic $26 billion in revenue by the end of 2026 ⭐⭐
+
+**Importance:** 8/10
+
+Anthropic, the AI developer behind Claude, is aiming for a staggering $26 billion in revenue by the end of 2026, significantly exceeding its previous goal of $9 billion by 2025. This ambitious target represents more than double OpenAI's projected 2025 earnings. The projections highlight the rapidly growing potential of the AI market.
+
+💡 *Anthropic’s massive revenue target signals a potentially transformative shift in the AI market.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/anthropic-targets-gigantic-usd26-billion-in-revenue-by-the-end-of-2026-eye-watering-sum-is-more-than-double-openais-projected-2025-earnings)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Bank of England, IMF, warn AI bubble risk has shades of 2000 dotcom crash   Goldman Sachs cautions we're not there 'yet' ⭐⭐
+### 4. Google’s open-source, RISC-V-based Coral NPU is integrated into Synaptics SL2610 Edge AI SoCs ⭐⭐
 
-**Score:** 7/10 | Leading financial institutions, including the Bank of England and IMF, are expressing concerns about a potential market correction in AI stocks, echoing the 2000 dot-com bubble.  Increased investment among major players is fueling inflated valuations, leading to predictions of a significant price drop. Goldman Sachs acknowledges the risk but suggests a full correction is still to come.
+**Score:** 8/10 | Google recently unveiled a full-stack, open-source RISC-V-based Coral NPU platform designed for always-on AI on low-power edge devices. The Synaptics Astra SL2610 family is the first chip to incorporate this NPU, aiming to combat software fragmentation in entry-level AI accelerators. Google's goal is to accelerate product development for ML developers by promoting adoption of its open-source design.
 
-💡 *AI investment risks mirroring the 2000 dot-com bubble could trigger a major market correction.*
+💡 *Google’s open Coral NPU, combined with Synaptics’ SL2610, simplifies edge AI development and tackles fragmentation.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/bank-of-england-imf-warn-ai-bubble-risk-has-shades-of-2000-dotcom-crash-goldman-sachs-cautions-were-not-there-yet)
+🔗 [Read More](https://www.cnx-software.com/2025/10/17/google-open-source-coral-npu-synaptics-sl2610-edge-ai-socs/)
 
 ---
 
 ### 5. M5Stack LLM-8850 card ⭐⭐
 
-**Score:** 7/10 | The M5Stack LLM-8850 card is an M.2 AI accelerator module utilizing the Axera AX8850 24 TOPS SoC, designed for accelerating AI workloads on host devices like Raspberry Pi and Rockchip SBCs. It features 8GB of LPDDR4x RAM and supports 8K video encoding/decoding, alongside an active cooling system. This card is a versatile hardware solution for edge AI applications.
+**Score:** 7/10 | The M5Stack LLM-8850 card is an M.2 AI accelerator module utilizing the Axera AX8850 24 TOPS SoC, designed for accelerating AI tasks and video processing. It features an octa-core Cortex A55 processor, 8GB of RAM, and supports both encoding and decoding of 8K video. The card is compatible with devices like Raspberry Pi and Rockchip SBCs, thanks to its M.2 form factor and cooling system.
 
-💡 *The M5Stack LLM-8850 card offers a compact, powerful solution for accelerating AI at the edge.*
+💡 *The M5Stack LLM-8850 offers a powerful, affordable solution for accelerating AI and video tasks on popular SBCs.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/10/03/m5stack-llm-8850-card-an-m-2-m-key-ai-accelerator-module-based-on-axera-ax8850-24-tops-soc/)
+
+---
+
+### 6. Ubo Pod A Raspberry Pi 4/5-based personal AI assistant (Crowdfunding) 
+
+**Score:** 6/10 | The Ubo Pod Developer Edition is an open-source AI assistant built around a Raspberry Pi 4 or 5, offering developers control over their AI experiences. It combines speech-to-text, LLMs, and local/cloud AI capabilities with a user-friendly GUI and WebUI. The device utilizes an M.2 NVMe SSD slot for performance and supports multiple trigger mechanisms.
+
+💡 *Ubo Pod empowers developers to build and control personalized AI assistants locally on a Raspberry Pi.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/13/ubo-pod-a-raspberry-pi-4-5-personal-ai-assistant/)
+
+---
+
+### 7. Musk challenges legendary AI researcher Karpathy to an AI coding showdown against Grok 5 gets a polite 'no' to an IBM Deep Blue-like showdown 
+
+**Score:** 4/10 | Elon Musk has proposed a public coding competition between xAI's Grok 5 and Andrej Karpathy, drawing a parallel to the 1997 Kasparov vs. Deep Blue chess match. Karpathy responded with a polite rejection of a Deep Blue-style contest. This suggests a focus on a more direct coding challenge utilizing Grok 5.
+
+💡 *Musk’s challenge reveals xAI’s confidence in Grok 5’s coding abilities and a move beyond traditional AI benchmarks.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/musk-challenges-kaparthy-to-an-ai-coding-showdown)
 
 ---
 
