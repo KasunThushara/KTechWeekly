@@ -1,155 +1,195 @@
 # 📡 Edge AI Weekly Report
-**Week of October 21, 2025**
+**Week of November 10, 2025**
 
 *AI on edge devices*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 13
+- **Total Articles:** 17
 - **High Priority:** 9 articles (score ≥7)
-- **Average Importance:** 6.5/10
-- **Report Generated:** 2025-10-21 02:40
+- **Average Importance:** 6.6/10
+- **Report Generated:** 2025-11-10 14:13
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Google’s open-source, RISC-V-based Coral NPU is integrated into Synaptics SL2610 Edge AI SoCs ⭐⭐
+### 1. Investigators recover black boxes from UPS plane crash, detail data recovery process ⭐⭐
 
 **Importance:** 8/10
 
-Google recently unveiled a full-stack, open-source RISC-V-based Coral NPU platform designed for always-on AI on low-power edge devices. The Synaptics Astra SL2610 family is the first chip to incorporate this NPU, aiming to combat software fragmentation in entry-level AI accelerators. Google's goal is to accelerate product development for ML developers by promoting adoption of its open-source design.
+The National Transportation Safety Board (NTSB) has successfully retrieved the cockpit audio from the wreckage of UPS Flight 2967. This was achieved by extracting data from the charred remains of the aircraft. The recovery represents a significant step in the investigation into the cause of the crash.
 
-💡 *Google’s open Coral NPU and Synaptics’ SL2610 SoC address AI accelerator fragmentation and promote edge AI adoption.*
+💡 *Recovering the black box data offers crucial insights into the fatal UPS Flight 2967 crash.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/10/17/google-open-source-coral-npu-synaptics-sl2610-edge-ai-socs/)
-
----
-
-### 2. Secret SpaceX satellites are transmitting mysterious signals on the wrong spectrum ⭐⭐
-
-**Importance:** 7/10
-
-An amateur satellite tracker discovered SpaceX's classified satellites transmitting data on a frequency typically used for uplinks. This unauthorized transmission suggests a hidden network is operating within the satellites. The discovery raises concerns about a potentially classified communication channel.
-
-💡 *SpaceX’s unauthorized spectrum use suggests a covert, classified communication network within its satellites.*
-
-🔗 [Read More](https://www.tomshardware.com/service-providers/network-providers/secret-spacex-satellites-are-transmitting-mysterious-signals-on-the-wrong-spectrum-a-classified-network-caught-sending-data-on-the-uplink-frequency)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/investigators-recover-black-boxes-from-ups-plane-crash-detail-data-recovery-process-ntsb-successfully-extracts-cockpit-audio-from-charred-remains)
 
 ---
 
-### 3. Allwinner T153-based industrial SoM and SBC feature a mix of Arm Cortex-A7 and RISC-V cores ⭐⭐
+### 2. AAEON PICO-ARU4 Arrow Lake Pico-ITX SBC is powered by up to an Intel Core Ultra 7 255U processor ⭐⭐
 
-**Importance:** 7/10
+**Importance:** 8/10
 
-Forlinx has launched the FET153-S SoM and OK153-S SBC based on the Allwinner T153 processor, which incorporates a quad-core Arm Cortex-A7 CPU alongside a XuanTie E907 RISC-V core. These boards offer a comprehensive set of I/O options, including Gigabit Ethernet, CAN-FD, and display interfaces, aimed at applications like industrial automation and edge computing. They are designed for real-time control and IoT gateway deployments.
+The AAEON PICO-ARU4 is a groundbreaking Pico-ITX SBC featuring up to an Intel Core Ultra 7 255U processor, representing one of the first of its kind. It offers a robust configuration including up to 32GB LPDDR5 RAM, multiple networking options, and storage solutions. This SBC is designed for versatile applications, leveraging the Arrow Lake processor family.
 
-💡 *Forlinx’s T153-based SoM/SBC introduces a novel combination of Arm and RISC-V for industrial IoT.*
+💡 *The AAEON PICO-ARU4 marks a significant step in ultra-compact, high-performance computing.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/10/17/allwinner-t153-based-industrial-som-and-sbc-feature-a-mix-of-arm-cortex-a7-and-risc-v-cores/)
+🔗 [Read More](https://www.cnx-software.com/2025/11/07/aaeon-pico-aru4-arrow-lake-pico-itx-sbc-is-powered-by-up-to-an-intel-core-ultra-7-255u-processor/)
+
+---
+
+### 3. NXP i.MX 952 processor supports local dimming for AI-enhanced automotive and industrial HMIs ⭐⭐
+
+**Importance:** 8/10
+
+NXP's new i.MX 952 processor is designed for AI-powered automotive and industrial HMIs, boasting an eIQ Neutron NPU and features like local dimming for improved display efficiency. This processor integrates several key components including Arm cores, an ISP, and robust security features like EdgeLock.  It's also designed for seamless integration with NXP's other products and is compliant with relevant safety standards.
+
+💡 *NXP's i.MX 952 enables smarter, more efficient displays in automotive and industrial HMIs.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/28/nxp-i-mx-952-processor-supports-local-dimming-for-ai-automotive-and-industrial-hmis/)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Orange Pi 6 Plus CIX P1 SBC offers up to 64GB LPDDR5 memory, 45 TOPS of AI performance ⭐⭐
+### 4. Nexalta Guardian NXG0042AI ⭐⭐
 
-**Score:** 7/10 | The Orange Pi 6 Plus, based on the CIX P1 (CD8180) single board computer, is now available for purchase on AliExpress. It features a 12-core processor with up to 64GB of LPDDR5 memory, substantial AI performance (45 TOPS), and a range of connectivity options including multiple M.2 slots and display interfaces.
+**Score:** 7/10 | The Nexalta Guardian NXG0042AI is a high-performance networking gateway utilizing a Qualcomm IPQ9574 chipset, boasting 10GbE, WiFi 7, and 5G connectivity alongside local AI capabilities. It supports multiple modems, eSIMs, and various storage options, including AI accelerator modules, making it suitable for diverse IoT and industrial networking applications.  This versatile gateway offers a complete solution for demanding connectivity and processing needs.
 
-💡 *The Orange Pi 6 Plus delivers powerful AI and memory for versatile edge computing applications.*
+💡 *The Nexalta Guardian NXG0042AI represents a powerful, integrated gateway for advanced IoT and industrial networking.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/10/15/orange-pi-6-plus-cix-p1-sbc-64gb-lpddr5-45-tops-ai-performance/)
-
----
-
-### 5. ADLINK OSM-IMX95 An NXP i.MX 95 OSM Size-L system-on-module for IoT and industrial applications ⭐⭐
-
-**Score:** 7/10 | The ADLINK OSM-IMX95 is a Size-L system-on-module based on the NXP i.MX 95 processor, offering enhanced performance with a hexa-core Arm Cortex-A55 SoC and a 2 TOPS eIQ Neutron NPU. Designed for diverse IoT and industrial applications including Smart Home and Industry 4.0, it boasts significant upgrades like increased RAM, flash storage, and high-speed interfaces.
-
-💡 *ADLINK’s OSM-IMX95 delivers powerful AI and connectivity for next-generation IoT and industrial solutions.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/10/14/adlink-osm-imx95-nxp-i-mx-95-osm-type-l-system-on-module/)
+🔗 [Read More](https://www.cnx-software.com/2025/11/07/nexalta-guardian-nxg0042ai-qualcomm-ipq9574-based-networking-solution-with-10gbe-wifi-7-5g-local-ai/)
 
 ---
 
-### 6. Ubo Pod A Raspberry Pi 4/5-based personal AI assistant (Crowdfunding) ⭐⭐
+### 5. HUSKYLENS 2 ⭐⭐
 
-**Score:** 7/10 | The Ubo Pod Developer Edition is an open-source AI assistant built around a Raspberry Pi 4 or 5, offering developers control over their AI experiences. It combines speech-to-text, LLMs, and local/cloud AI capabilities with a user-friendly GUI and WebUI. The device utilizes an M.2 NVMe SSD slot for performance and supports multiple trigger mechanisms.
+**Score:** 7/10 | The DFRobot HUSKYLENS 2 is an AI vision camera equipped with a 6 TOPS AI accelerator and a Kendryte K230 SoC, designed for easy AI development. It boasts pre-loaded AI models for tasks like object tracking, alongside a self-learning classifier for custom model training. This upgrade from the HUSKYLENS utilizes a 64-bit RISC-V processor and offers 1GB of LPDDR4 and 8GB eMMC storage.
 
-💡 *Ubo Pod empowers developers to build and customize personal AI assistants locally on affordable hardware.*
+💡 *The HUSKYLENS 2 simplifies AI development with an accessible, self-learning vision camera.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/10/13/ubo-pod-a-raspberry-pi-4-5-personal-ai-assistant/)
-
----
-
-### 7. Avalue EPC-ASL Intel N97 fanless industrial mini PC is designed for 24/7 operation ⭐⭐
-
-**Score:** 7/10 | The Avalue EPC-ASL is a rugged, fanless industrial mini PC powered by the Intel N97 processor, engineered for continuous 24/7 operation and edge computing applications. It offers robust connectivity features, including dual 2.5GbE and multiple I/O ports, alongside ample storage options. Designed for demanding environments like smart manufacturing, the PC supports up to 16GB of DDR5 memory and utilizes a 12W TDP.
-
-💡 *The Avalue EPC-ASL delivers reliable, 24/7 edge computing power for demanding industrial applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/10/10/avalue-epc-asl-intel-n97-fanless-industrial-mini-pc-is-designed-for-24-7-operation/)
+🔗 [Read More](https://www.cnx-software.com/2025/10/31/huskylens-2-a-6-tops-llm-and-ai-vision-camera-with-self-learning-capabilities/)
 
 ---
 
-### 8. M5Stack LLM-8850 card ⭐⭐
+### 6. ESP32JTAG An open-source wireless JTAG and logic analyzer (Crowdfunding) ⭐⭐
 
-**Score:** 7/10 | The M5Stack LLM-8850 card is an M.2 AI accelerator module utilizing the Axera AX8850 24 TOPS SoC, designed for accelerating AI tasks and video processing. It features an octa-core Cortex A55 processor, 8GB of RAM, and supports both encoding and decoding of 8K video. The card is compatible with devices like Raspberry Pi and Rockchip SBCs, thanks to its M.2 form factor and cooling system.
+**Score:** 7/10 | The ESP32JTAG is an open-source device utilizing an ESP32-S3 to function as a wireless JTAG and logic analyzer, aiming to replace traditional tools. It boasts a 16-channel logic analyzer, integrated UART, and connectivity options including Wi-Fi, Bluetooth, and USB-C, along with a small LCD display. The device is built for high-speed signal processing and supports target voltage monitoring.
 
-💡 *The M5Stack LLM-8850 offers an accessible AI acceleration solution for edge computing and video processing.*
+💡 *This ESP32JTAG offers a revolutionary open-source solution for embedded development and debugging.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/10/03/m5stack-llm-8850-card-an-m-2-m-key-ai-accelerator-module-based-on-axera-ax8850-24-tops-soc/)
-
----
-
-### 9. Snapdragon X2 Elite Extreme and X2 Elite processors target high-end Windows PCs ⭐⭐
-
-**Score:** 7/10 | Qualcomm has released three new 3nm Snapdragon X2 Elite processors – Extreme, Elite (88 & 80), designed for high-end Windows PCs. These processors boast impressive specs including six performance cores, advanced AI capabilities with an 80 TOPS Hexagon NPU, and connectivity options like WiFi 7 and 5G. They aim to deliver the fastest and most efficient performance for laptops.
-
-💡 *Qualcomm’s Snapdragon X2 Elite processors promise a new, powerful direction for high-end Windows laptops.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/10/02/snapdragon-x2-elite-extreme-and-x2-elite-processors-target-high-end-windows-pcs/)
+🔗 [Read More](https://www.cnx-software.com/2025/10/31/esp32jtag-an-open-source-wireless-jtag-and-logic-analyzer/)
 
 ---
 
-### 10. WeCreat Lumos review: Premium and portable 
+### 7. ESWIN EBC7702 Mini-DTX motherboard offers EIC7702X RISC-V SoC, up to 64GB RAM, Ubuntu 24.04 support ⭐⭐
 
-**Score:** 6/10 | The WeCreat Lumos is a fast and portable laser engraver that delivers impressive resolution. While capable, its cutting abilities are somewhat limited. Overall, it's a premium option for engraving projects.
+**Score:** 7/10 | ESWIN has released the EBC7702 Mini-DTX motherboard, featuring the EIC7702X RISC-V SoC, designed for demanding AI and data processing tasks. This board boasts an 8-core RISC-V CPU with an integrated AI accelerator and supports up to 64GB of RAM, along with Ubuntu 24.04. It includes connectivity options suitable for video analysis and edge AI applications.
 
-💡 *The WeCreat Lumos offers a premium, portable engraving solution with impressive detail.*
+💡 *The ESWIN EBC7702 offers a powerful RISC-V platform for AI and edge computing.*
 
-🔗 [Read More](https://www.tomshardware.com/maker-stem/wecreat-lumos-review)
-
----
-
-### 11. TP-Link Deco BE65-Outdoor review: Blanketing your outdoor areas with high-speed Wi-Fi 7 coverage 
-
-**Score:** 6/10 | The TP-Link Deco BE65-Outdoor is designed for robust outdoor Wi-Fi coverage, specifically aimed at extending internet connectivity to large areas like yards or sheds.  It provides excellent performance for this purpose. This device leverages hardware to deliver a reliable connection in outdoor environments.
-
-💡 *The TP-Link Deco BE65-Outdoor offers superior outdoor Wi-Fi 7 coverage for expansive properties.*
-
-🔗 [Read More](https://www.tomshardware.com/networking/routers/tp-link-deco-be65-outdoor-review-blanketing-your-outdoor-areas-with-high-speed-wi-fi-7-coverage)
+🔗 [Read More](https://www.cnx-software.com/2025/10/30/eswin-ebc7702-mini-dtx-motherboard-offers-eic7702x-risc-v-soc-up-to-64gb-ram-ubuntu-24-04-support/)
 
 ---
 
-### 12. Radxa Orion O6N 
+### 8. Radxa Dragon Q6A   A $60+ Qualcomm QCS6490 Edge AI SBC with GbE, WiFi 6, three camera connectors ⭐⭐
 
-**Score:** 6/10 | The Radxa Orion O6N is a Nano-ITX small-form factor SBC utilizing the CIX P1 (CD8160) 12-core Armv9 SoC, offering a more affordable alternative to the Orion O6.  It features a Cortex-A720 processor with a lower clock speed and expanded storage options. This board provides robust performance with a 30/45 TOPS AI accelerator and ample connectivity.
+**Score:** 7/10 | The Radxa Dragon Q6A is a compact, credit card-sized single board computer featuring a Qualcomm QCS6490 Edge AI processor with an AI accelerator and 16GB of LPDDR5 memory. It includes Gigabit Ethernet, WiFi 6, and three MIPI CSI camera connectors, alongside standard SBC ports like USB and HDMI. This board is designed for applications requiring edge AI processing and connectivity.
 
-💡 *The Radxa Orion O6N presents a cost-effective, high-performance AI solution for diverse applications.*
+💡 *The Radxa Dragon Q6A offers a compelling, affordable edge AI solution with integrated connectivity.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/10/14/radxa-orion-o6n-smaller-cheaper-12-core-armv9-nano-itx-sbc-cix-p1-cd8160-soc/)
+🔗 [Read More](https://www.cnx-software.com/2025/10/27/radxa-dragon-q6a-a-qualcomm-qcs6490-edge-ai-sbc-with-gbe-wifi-6-three-camera-connectors/)
 
 ---
 
-### 13. Give your mouse the finger with this wild cursor control ring 
+### 9. 1GHz Renesas RA8D2 and RA8M2 Cortex-M85 MCUs feature up to 1MB MRAM, 2MB SRAM ⭐⭐
 
-**Score:** 3/10 | The Prolo Ring is a smart ring designed as a new input method for computers, featuring a trackpad, modifier button, and motion sensor.  It utilizes customizable software to provide a unique and potentially more engaging way to interact with a PC.  This Kickstarter campaign aims to bring this innovative device to market.
+**Score:** 7/10 | Renesas has launched the RA8D2 and RA8M2 MCU groups, offering up to 1 GHz performance and up to 1MB MRAM and 2MB SRAM. The RA8D2 is designed for graphics and AI applications with display and audio support, while the RA8M2 targets high-performance IoT and industrial control. Both MCUs include common features such as Gigabit Ethernet and USB connectivity, alongside integrated security features.
 
-💡 *This Kickstarter introduces a novel, ring-based input method promising a more intuitive PC experience.*
+💡 *Renesas' new MCUs bring high-speed MRAM and substantial memory to graphics, AI, and IoT applications.*
 
-🔗 [Read More](https://www.tomshardware.com/peripherals/wearable-tech/give-your-mouse-the-finger-with-this-wild-cursor-control-ring-prolo-ring-hits-kickstarter-hoping-to-transform-your-finger-into-the-ultimate-macro-and-gesture-device)
+🔗 [Read More](https://www.cnx-software.com/2025/10/27/1ghz-renesas-ra8d2-and-ra8m2-cortex-m85-mcus-feature-up-to-1mb-mram-2mb-sram/)
+
+---
+
+### 10. Corsair Sabre v2 Pro review: 36g but maybe too lightweight on features 
+
+**Score:** 6/10 | The Corsair Sabre v2 Pro is praised for its incredibly light weight (36g) and smooth gliding performance. However, its reliance on web-based software results in a lack of physical customization options like DPI switching. This makes it feel somewhat limited compared to other high-end mice.
+
+💡 *The Sabre V2 Pro’s lightweight design comes with a trade-off in customization features.*
+
+🔗 [Read More](https://www.tomshardware.com/peripherals/gaming-mice/corsair-sabre-v2-pro-review)
+
+---
+
+### 11. Giveaway Week 2025 VOIPAC iMX93 Pro industrial development kit 
+
+**Score:** 6/10 | CNX Software is giving away a VOIPAC iMX93 Pro industrial development kit, featuring an NXP i.MX 93 SoC and offering connectivity options for AI, HMI, and embedded applications.  This kit includes dual Gigabit Ethernet, WiFi 6, and other features, with an alternative option of the iMX91 kit available. The giveaway targets developers working on projects involving Edge AI and embedded systems.
+
+💡 *CNX Software’s giveaway offers developers a powerful industrial kit for innovative Edge AI and embedded projects.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/11/08/giveaway-week-2025-voipac-imx93-pro-industrial-development-kit/)
+
+---
+
+### 12. CamThink NeoEyes NE301 
+
+**Score:** 6/10 | The CamThink NeoEyes NE301 is an ultra-low-power Edge AI camera utilizing an STM32N6 MCU and a Neural-ART NPU for enhanced performance. It supports various camera sensors and connectivity options, including WiFi 6, Bluetooth 5.4, and optional 4G LTE. This camera offers significant improvements over previous ESP32-S3 based models.
+
+💡 *The CamThink NeoEyes NE301 delivers a powerful, low-power AI camera for optimized edge deployments.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/11/06/camthink-neoeyes-ne301-an-ultra-low-power-stm32n6-based-edge-ai-camera/)
+
+---
+
+### 13. Giveaway Week 2025 M5Stack Tab5 ESP32-P4 IoT devkit 
+
+**Score:** 6/10 | CNX Software is hosting Giveaway Week 2025, offering seven prizes including the M5Stack Tab5 ESP32-P4 IoT development kit. This kit features a 5-inch touchscreen and various connectivity options, and the contest is open worldwide with a separate Thailand-specific contest.  The giveaway aims to provide readers with review samples and industrial development kits.
+
+💡 *CNX Software’s giveaway offers a chance to win an M5Stack Tab5 for IoT development exploration.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/11/03/giveaway-week-2025-m5stack-tab5-esp32-p4-iot-devkit/)
+
+---
+
+### 14. Creality Sermoon S1 high-end 3D scanner review Part 1: specifications and unboxing 
+
+**Score:** 6/10 | This review begins with an examination of the Creality Sermoon S1 3D scanner's specifications, including its dual scanning modes (blue laser line and infrared structured light) and impressive accuracy of up to 0.02mm. The scanner boasts a large scanning range of 5 x 5 x 5 m3 to 4000 x 4000 x 4000 mm3, and the initial post details the unboxing process.  The reviewer plans to delve deeper into testing in the next part of the review.
+
+💡 *This review explores the Creality Sermoon S1’s capabilities, offering a detailed look at its potential for professional 3D scanning.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/11/02/creality-sermoon-s1-high-end-3d-scanner-review-part-1-specifications-and-unboxing/)
+
+---
+
+### 15. Review of Intel-based UP AI development kits Part 1: Unboxing and first boot to Ubuntu Pro 24.04 
+
+**Score:** 6/10 | This review covers three Intel-based UP AI development kits – UP TWL, UP Squared Pro TWL, and UP Xtreme ARL – offering alternatives to the AAEON NV8600-Nano. The kits ship with Ubuntu Pro 24.04 and associated software tools. The initial part focuses on unboxing and a quick first boot of one of the boards.
+
+💡 *This review provides a practical first look at Intel’s UP AI development kits for newcomers and AAEON alternative seekers.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/11/01/review-of-intel-based-up-ai-development-kits-part-1-unboxing-and-first-boot-to-ubuntu-pro-24-04/)
+
+---
+
+### 16. Waveshare MK20 macro keyboard features twenty mechanical keys with 0.85-inch color LCD keycaps 
+
+**Score:** 6/10 | The Waveshare MK20 is a macro keyboard boasting twenty mechanical keys and 0.85-inch color LCD keycaps. It’s an upgraded version with a 2.8-inch secondary display, two control knobs, and supports AI voice interaction and smart home integration.  Built with an aluminum alloy top case and a 2.5D acrylic lens, it uses a dual-system architecture for optimal performance.
+
+💡 *The Waveshare MK20 offers a unique, AI-integrated macro keyboard with advanced features and a vibrant display.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/10/29/waveshare-mk20-macro-keyboard-features-twenty-mechanical-keys-with-0-85-inch-color-lcd-keycaps/)
+
+---
+
+### 17. Giveaway Week 2025 RAKwireless Blues.ONE LoRaWAN, LTE-M, and NB-IoT devkit 
+
+**Score:** 4/10 | CNX Software is hosting a giveaway featuring three companies offering devkits. RAKwireless is providing a Blues.ONE devkit, a versatile LoRaWAN, LTE-M, and NB-IoT device suitable for industrial automation and asset tracking. This is a repeat prize from last year, offering another opportunity for readers to win.
+
+💡 *Readers have another chance to win a RAKwireless Blues.ONE devkit for IoT development.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/11/09/giveaway-week-2025-rakwireless-blues-one-lorawan-lte-m-and-nb-iot-devkit/)
 
 ---
 
