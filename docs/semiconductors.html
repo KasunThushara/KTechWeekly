@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semiconductors - Tech Weekly Digest</title>
+    <meta name="description" content="Latest Semiconductors news and updates">
+    <meta property="og:title" content="Semiconductors">
+    <meta property="og:description" content="Latest Semiconductors news and updates">
+
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #7c3aed;
+            --accent: #10b981;
+            --text: #1f2937;
+            --text-light: #6b7280;
+            --bg: #ffffff;
+            --bg-secondary: #f9fafb;
+            --border: #e5e7eb;
+            --shadow: rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 40px 20px;
+            margin-bottom: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px var(--shadow);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.95;
+        }
+
+        /* Navigation */
+        nav {
+            background: var(--bg-secondary);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+
+        nav a:hover {
+            background: var(--primary);
+            color: white;
+        }
+
+        /* Content */
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px var(--shadow);
+        }
+
+        /* Typography */
+        h1, h2, h3, h4 {
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        h1 { font-size: 2.2rem; margin-top: 0; }
+        h2 { 
+            font-size: 1.8rem; 
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        h3 { font-size: 1.4rem; color: var(--primary); }
+        h4 { font-size: 1.1rem; }
+
+        p {
+            margin-bottom: 15px;
+            color: var(--text);
+        }
+
+        a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 15px 0 15px 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            box-shadow: 0 2px 5px var(--shadow);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        tr:hover {
+            background: var(--bg-secondary);
+        }
+
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            border-top: 2px solid var(--border);
+            margin: 40px 0;
+        }
+
+        /* Special Elements */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--primary);
+            color: white;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-right: 8px;
+        }
+
+        .insight {
+            background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+            border-left: 4px solid var(--primary);
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            font-style: italic;
+        }
+
+        .star {
+            color: #fbbf24;
+            font-size: 1.2rem;
+        }
+
+        /* Code blocks */
+        code {
+            background: var(--bg-secondary);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+
+        pre {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-light);
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+
+        footer a {
+            color: var(--primary);
+        }
+
+        .timestamp {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            margin-bottom: 10px;
+        }
+
+        /* Category cards */
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .category-card {
+            background: white;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s;
+            text-decoration: none;
+            color: var(--text);
+            display: block;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px var(--shadow);
+            border-color: var(--primary);
+        }
+
+        .category-card h3 {
+            margin-top: 0;
+            color: var(--primary);
+        }
+
+        .category-card .count {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin: 10px 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 1.8rem; }
+            .container { padding: 10px; }
+            nav { flex-direction: column; }
+            .content { padding: 20px; }
+            .category-grid { grid-template-columns: 1fr; }
+        }
+
+        /* Loading animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .content {
+            animation: fadeIn 0.5s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Tech Weekly Digest</h1>
+            <p class="subtitle">AI, Hardware & Edge Computing News</p>
+        </header>
+
+        <nav>
+            <a href="index.html">🏠 Home</a>
+            <a href="ai.html">📰 Ai</a> <a href="weekly_master_report.html">📰 Full Digest</a> <a href="edge_ai.html">📰 Edge Ai</a> <a href="hardware.html">🔧 Hardware</a> <a href="machine_learning.html">🧠 Machine Learning</a> <a href="nvidia.html">📰 Nvidia</a> <a href="raspberry_pi.html">🍓 Raspberry Pi</a> <a href="rockchip.html">💎 Rockchip</a> <a href="semiconductors.html">⚡ Semiconductors</a> <a href="trends.html">📈 Trends</a>
+        </nav>
+
+        <div class="content">
+            <h1>⚡ Semiconductors Weekly Report</h1>
+<p><strong>Week of December 14, 2025</strong></p>
+<p><em>Chip manufacturing</em></p>
+<hr />
+<h2>📊 Summary</h2>
+<ul>
+<li><strong>Total Articles:</strong> 31</li>
+<li><strong>High Priority:</strong> 30 articles (score ≥7)</li>
+<li><strong>Average Importance:</strong> 7.8/10</li>
+<li><strong>Report Generated:</strong> 2025-12-14 13:12</li>
+</ul>
+<hr />
+<h2>🌟 Top Stories</h2>
+<h3>1. China mulls $70 billion domestic chip fabrication injection, would be largest of any government semiconductor investment ⭐⭐⭐</h3>
+<p><strong>Importance:</strong> 9/10</p>
+<p>China is considering investing up to $70 billion in its domestic chip manufacturers to compete with US firms like Nvidia.</p>
+<p>💡 <em>China's largest semiconductor investment could significantly boost its domestic chip manufacturing capabilities worldwide.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/china-mulls-usd70-billion-domestic-chip-fabrication-injection-would-be-largest-of-any-government-semiconductor-investment-huawei-and-cambricon-among-candidates-in-push-to-compete-with-nvidia-other-u-s-firms">Read More</a></p>
+<hr />
+<h3>2. Rivian unveils its own in-house RAP1 AI chip and ACM3 self-driving platform automaker one-ups Tesla with LiDAR support ⭐⭐⭐</h3>
+<p><strong>Importance:</strong> 9/10</p>
+<p>Rivian has unveiled its ACM3 self-driving platform and RAP1 AI chip, which includes LiDAR support. This one-ups Tesla in the field of autonomous driving. The ACM3 module and RAP1 chip are both in-house developments from Rivian.</p>
+<p>💡 <em>Rivian's ACM3 self-driving platform surpasses Tesla with LiDAR support, a key autonomous driving advancement.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/rivian-unveils-its-own-in-house-rap1-ai-chip-and-acm3-self-driving-platform-automaker-one-ups-tesla-with-lidar-support">Read More</a></p>
+<hr />
+<h3>3. Dell preps massive price hikes up to 30% citing memory pricing 'out of our control' ⭐⭐</h3>
+<p><strong>Importance:</strong> 8/10</p>
+<p>Dell will raise prices on RAM, storage, GPU, and monitor upgrades for corporate clients starting December 17, citing high memory costs.</p>
+<p>💡 <em>Dell's massive price hikes for corporate clients may burden businesses with significant tech upgrade costs.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/laptops/dell-preps-massive-price-hikes-up-to-30-percent-citing-memory-pricing-out-of-our-control-company-reminds-commercial-customers-that-placing-an-order-today-for-future-delivery-will-not-guarantee-current-prices">Read More</a></p>
+<hr />
+<h2>📰 Other Stories</h2>
+<h3>4. New app injects AMD's AI-driven FSR Redstone framegen into unsupported games ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | A Reddit user demonstrated AMD's new ML-powered FSR Redstone frame generation running in Monster Hunter Wilds, a game that never supported it. The pre-alpha OptiScaler build showed nice improvements over legacy FSR frame gen.</p>
+<p>💡 <em>AMD's new AI-driven FSR Redstone frame generation is now usable in unsupported games.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/video-games/pc-gaming/community-mod-forces-amds-new-redstone-ml-frame-generation-into-older-fsr-games">Read More</a></p>
+<hr />
+<h3>5. Industry preps new 'cheap' HBM4 memory spec with narrow interface, but it isn't a GDDR killer ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | JEDEC's new SPHBM4 spec enables full HBM4 bandwidth over a 512-bit interface using a 4:1 serialization and supports up to 64 GB per stack with 2.5D integration on organic substrates.</p>
+<p>💡 <em>JEDEC's new SPHBM4 spec enables full HBM4 bandwidth over a narrower 512-bit interface.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/dram/industry-preps-cheap-hbm4-memory-spec-with-narrow-interface-but-it-isnt-a-gddr-killer-jedecs-new-sphbm4-spec-weds-hbm4-performance-and-lower-costs-to-enable-higher-capacity">Read More</a></p>
+<hr />
+<h3>6. AMD, Intel, and TI are  merchants of death says lawyer representing Ukrainian civilians five new suits complain that Russian drones and missiles continue to use high-tech components from these brands ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Five lawsuits were filed in Texas this week, putting some of the biggest names in PC tech under an uncomfortable spotlight, as their components are still being found in Russian weaponry.</p>
+<p>💡 <em>Ukrainian civilians' lawsuits target US tech companies over components in Russian drones and missiles.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/amd-intel-and-ti-are-merchants-of-death-says-lawyer-representing-ukrainian-civilians-five-new-suits-complain-that-russian-drones-and-missiles-continue-to-use-high-tech-components-from-these-brands">Read More</a></p>
+<hr />
+<h3>7. Huawei's latest mobile is armed with China's most advanced process node to date despite using blacklisted chipmaker ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Huawei's Kirin 9030 is built on SMIC's N+3 process, an incremental extension of its 7nm-class technology that doesn't match true 5nm nodes.</p>
+<p>💡 <em>Huawei's Kirin 9030 uses China's most advanced SMIC process, despite US chipmaker restrictions.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/semiconductors/huaweis-latest-mobile-is-chinas-most-advanced-process-node-to-date-despite-using-blacklisted-chipmaker-huawei-kirin-9030-mobile-soc-made-on-smic-n-3-process-but-cant-compete-with-5nm-nodes">Read More</a></p>
+<hr />
+<h3>8. Intel tests chipmaking tools from sanctioned China-focused tool maker, report claims ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Intel has evaluated wet etch tools from ACM Research for its 14A fabrication process, raising political and national security concerns.</p>
+<p>💡 <em>Intel's evaluation of ACM Research tools raises national security concerns due to sanction against China-focused company.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/semiconductors/intel-tests-chipmaking-tools-from-sanctioned-china-focused-tool-maker-report-claims-move-could-raise-political-and-national-security-concerns-firm-was-backed-by-ceo-lip-bu-tans-investment-firm">Read More</a></p>
+<hr />
+<h3>9. Cambricon targets 500,000 AI chips in 2026 as China accelerates domestic hardware push ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Cambricon Technologies aims for a huge production ramp-up of 500,000 AI chips in 2026, but low yields and limited HBM supply might threaten their ambitions.</p>
+<p>💡 <em>Cambricon's ambitious AI chip production goal faces significant production and supply chain hurdles.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/semiconductors/cambricon-targets-500000-ai-chips-in-2026-as-china-accelerates-domestic-hardware-push">Read More</a></p>
+<hr />
+<h3>10. Nintendo Switch 2 RAM prices rise 41%, NAND flash up 8% console giant shares nosedive in face of increased cost warnings ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Nintendo's market cap decreased by $14 billion due to RAM shortages and price increases. The Nintendo Switch 2's RAM prices rose 41% and NAND flash prices increased by 8%. This led to a decline in the company's shares.</p>
+<p>💡 <em>Nintendo's market cap plummeted $14 billion due to RAM shortages and price increases.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-ram-prices-rise-41-percent-nand-flash-up-8-percent-console-giant-shares-nosedive-in-face-of-increased-cost-warnings">Read More</a></p>
+<hr />
+<h3>11. Chinese government wades into Dutch chipmaker dispute presses Netherlands to resolve Nexperia saga as supply concerns grow ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | China has called on the Netherlands to resolve the dispute surrounding Nexperia, which has disrupted shipments of components due to supervision measures and a retaliatory export freeze.</p>
+<p>💡 <em>China's pressure on the Netherlands to resolve Nexperia dispute could restore global chip supply chains.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/china-presses-netherlands-to-resolve-nexperia-dispute-as-supply-concerns-grow">Read More</a></p>
+<hr />
+<h3>12. Intel fails to get EU antitrust ruling overturned in longstanding 16-year AMD competition case ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Intel lost its challenge to overturn an EU antitrust ruling, resulting in a $278 million fine.</p>
+<p>💡 <em>Intel's long-standing EU antitrust battle with AMD ends with a $278 million fine imposed.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/cpus/intel-fails-to-get-eu-antitrust-ruling-overturned-in-longstanding-16-year-amd-competition-case-chipmaker-sees-usd1-2-billion-fine-reduced-to-usd278-million">Read More</a></p>
+<hr />
+<h3>13. TSMC ponders upgrading 2nd Japan fab to 4nm   could pave the way for more advanced chips for Japanese customers (Updated) ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | TSMC is reportedly considering upgrading its 2nd Japan fab to 4nm, which could lead to more advanced chips for Japanese customers.</p>
+<p>💡 <em>TSMC's potential 2nd Japan fab upgrade to 4nm could boost advanced chip production for Japanese customers.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/semiconductors/tmsc-ponders-upgrading-2nd-japan-fab-to-4nm-could-pave-the-way-for-more-advanced-chips-for-japanese-customers">Read More</a></p>
+<hr />
+<h3>14. CIX releases P1 CPU TRM and developer guides for GPU, AI accelerator, OS and firmware/BIOS ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | CIX has released the technical reference manual for the P1 Arm Cortex-A720/A520 SoC, along with developer guides for GPU, AI accelerator, OS, and firmware. This marks a slow but steady progress in the open-source ecosystem. The P1 processor is expected to offer performance similar to Apple M1 and Qualcomm 8cx Gen3 platforms at an affordable price.</p>
+<p>💡 <em>CIX marks slow but steady progress in the open-source ecosystem with P1 SoC release.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/13/cix-releases-p1-cpu-trm-and-developer-guides-for-gpu-ai-accelerator-os-and-firmware-bios/">Read More</a></p>
+<hr />
+<h3>15. Renesas RA6W1/RA6W2 Cortex-M33 wireless MCUs offer dual-band Wi-Fi 6, BLE, Matter, 15-year availability ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Renesas has added the RA6W1/RA6W2 MCUs to its RA6 family with dual-band Wi-Fi 6, Bluetooth LE, and Matter connectivity. Both models feature a 160 MHz Arm Cortex-M33 core and support eMMC/SD, O-QSPI, and QSPI. They target smart home, wearables, industrial, and consumer IoT markets.</p>
+<p>💡 <em>Renesas added RA6W1/RA6W2 MCUs with dual-band Wi-Fi 6 and Matter connectivity for IoT markets.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/12/renesas-ra6w1-ra6w2-cortex-m33-wireless-mcus-offer-dual-band-wi-fi-6-ble-matter-15-year-availability/">Read More</a></p>
+<hr />
+<h3>16. nRF9151 SMA DK development kit offers cellular IoT, DECT NR+, and 5G NTN satellite connectivity ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Nordic Semiconductor's nRF9151 SMA DK development kit provides IoT applications with LTE-M/NB-IoT cellular IoT, DECT NR+, or 5G NTN satellite connectivity, featuring a multimode LTE-M/NB-IoT/NB-NTN modem with DECT NR+ support and GNSS.</p>
+<p>💡 <em>Nordic Semiconductor's nRF9151 SMA DK development kit offers versatile cellular and satellite connectivity options.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/12/nrf9151-sma-dk-development-kit-offers-cellular-iot-dect-nr-and-5g-ntn-satellite-connectivity/">Read More</a></p>
+<hr />
+<h3>17. UP Squared Pro TWL AI Dev Kit Review Intel N150 + Hailo-8L accelerator tested on Ubuntu 24.04 ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | The reviewer tests the UP Squared Pro TWL AI devkit with an Intel N150 CPU and a Hailo-8L AI accelerator on Ubuntu 24.04, installing an NVMe SSD for expanded storage and running benchmarks.</p>
+<p>💡 <em>This review evaluates the UP Squared Pro TWL AI devkit's performance and potential for edge AI applications.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/11/up-squared-pro-twl-ai-dev-kit-review-intel-n150-hailo-8l-accelerator-tested-on-ubuntu-24-04/">Read More</a></p>
+<hr />
+<h3>18. Up to 16-core AMD EPYC Embedded 2005 Series Zen 5 processors support up 28 PCIe Gen5 lanes, offer 10-year availability ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | AMD has released the EPYC Embedded 2005 Series, a mid-range processor family based on the Zen 5 architecture, supporting up to 16 cores, 28 PCIe Gen5 lanes, and 10 years of availability.</p>
+<p>💡 <em>The EPYC Embedded 2005 Series provides 10 years of availability for mid-range processor needs.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/11/up-to-16-core-amd-epyc-embedded-2005-series-zen-5-processors-support-up-28-pcie-gen5-lanes-offer-10-year-availability/">Read More</a></p>
+<hr />
+<h3>19. AMD Ryzen Embedded 8840U COM Express Type 6 Compact module takes up to 128GB DDR5 ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | SolidRun has unveiled a new COM Express Type 6 Compact module powered by the AMD Ryzen Embedded 8840U Series with up to 39 TOPS of AI performance for industrial, medical, automation, and edge AI applications.</p>
+<p>💡 <em>SolidRun's module offers up to 39 TOPS AI performance for industrial and edge AI applications.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/10/amd-ryzen-embedded-8840u-com-express-type-6-compact-module-takes-up-to-128gb-ddr5/">Read More</a></p>
+<hr />
+<h3>20. STEVAL-ROBKIT1 A robot evaluation kit based on STM32H725 and STM32G0 microcontrollers ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | The STEVAL-ROBKIT1 is an evaluation kit for robotics applications based on ST's STM32H725 and STM32G0 Arm microcontrollers, featuring a main board, motor-control PCB, camera, and robotic frame.</p>
+<p>💡 <em>Provides a comprehensive evaluation kit for robotics applications with advanced STM32 microcontrollers.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/10/steval-robkit1-a-robot-evaluation-kit-based-on-stm32h725-and-stm32g0-microcontrollers/">Read More</a></p>
+<hr />
+<h3>21. NestDisk An Intel N150 NAS, mini PC, and AI Box with four M.2 PCIe slots ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | NestDisk is an Intel N150 mini PC that can be used as a NAS or AI box, featuring four M.2 PCIe slots, 12GB LPDDR5 memory, and a 64GB eMMC flash.</p>
+<p>💡 <em>It offers a compact, versatile, and affordable solution for NAS and AI applications.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/08/nestdisk-an-intel-n150-nas-mini-pc-and-ai-box-with-four-m-2-pcie-slots/">Read More</a></p>
+<hr />
+<h3>22. Nordic nRF7002 EBII adds dual-band Wi-Fi 6 to nRF54L series development kits ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Nordic has introduced the nRF7002 EBII as an updated Wi-Fi 6 expansion board for its nRF54L series development kits, featuring dual-band Wi-Fi 6 support, power-profiling options, and more.</p>
+<p>💡 <em>Nordic's nRF7002 EBII adds dual-band Wi-Fi 6 capabilities to its nRF54L series development kits.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/08/nordic-nrf7002-ebii-adds-dual-band-wi-fi-6-to-nrf54l-series-development-kits/">Read More</a></p>
+<hr />
+<h3>23. Edgi-Talk machine learning development kit features Infineon PSOC Edge E84 Edge AI SoC (Crowdfunding) ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Edgi-Talk is a machine learning platform/development kit powered by the Infineon PSOC Edge E84 SoC, featuring Arm Helium and an ultra-low-power NNLite neural network accelerator. It comes with various sensors, a touchscreen display, and wireless connectivity for expansion. The devkit includes a Raspberry Pi header for further expansion.</p>
+<p>💡 <em>Edgi-Talk devkit offers an affordable, high-performance AI development platform for edge devices.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/05/edgi-talk-machine-learning-platform-features-infineon-psoc-edge-e84-soc/">Read More</a></p>
+<hr />
+<h3>24. Nordic nRF54LV10A is a tiny, low-voltage Bluetooth LE SoC for battery-powered medical devices ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Nordic Semi has unveiled the nRF54LV10A ultra-low-power, low-voltage Bluetooth LE SoC for battery-powered medical devices such as trackers, wearable biosensors, and continuous glucose monitors.</p>
+<p>💡 <em>Nordic Semi's nRF54LV10A enables low-power, low-voltage Bluetooth connectivity in battery-powered medical devices.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/03/nordic-nrf54lv10a-tiny-low-voltage-bluetooth-le-soc-for-battery-powered-medical-devices/">Read More</a></p>
+<hr />
+<h3>25. Tyr A Rust GPU driver for Arm Mali GPUs ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | A new Rust GPU driver, Tyr, has been released for CSF-based Arm Mali GPUs. It's a port of the Panthor C driver and aims to replace it eventually. The Tyr driver works with GNOME, Weston, and 3D games like SuperTuxKart.</p>
+<p>💡 <em>A new open-source GPU driver, Tyr, is released for Arm Mali GPUs.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/03/tyr-a-rust-gpu-driver-for-arm-mali-gpus/">Read More</a></p>
+<hr />
+<h3>26. Intel Core Ultra 7 270K Plus and Core Ultra 9 290K Plus spotted at Indian retailer ⭐⭐</h3>
+<p><strong>Score:</strong> 7/10 | Retail listings appear to corroborate prior leaks but don't reveal pricing or new info for upcoming Arrow Lake refresh</p>
+<p>💡 <em>Retail listings of Intel's Core Ultra 7 and Core Ultra 9 hint at upcoming Arrow Lake CPU refresh.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-and-core-ultra-9-290k-plus-spotted-at-indian-retailer-listings-appear-to-corroborate-prior-leaks-but-dont-reveal-pricing-or-new-info-for-upcoming-arrow-lake-refresh">Read More</a></p>
+<hr />
+<h3>27. iWave Systems iG-RainboW-G69M TI AM62L OSM Size-S system-on-module powers Raspberry Pi-sized SBC ⭐⭐</h3>
+<p><strong>Score:</strong> 7/10 | iWave Systems iG-RainboW-G69M is a 30x30mm system-on-module with a Texas Instruments AM62L dual-core Cortex-A53 SoC, 1GB or 2GB LPDDR4, and 8GB eMMC flash. It has 332 LGA contacts exposing various interfaces. The module powers a Raspberry Pi-sized carrier board.</p>
+<p>💡 <em>iWave Systems' iG-RainboW-G69M offers a compact, feature-rich solution for edge AI and IoT applications.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/11/iwave-systems-ig-rainbow-g69m-ti-am62l-osm-size-s-system-on-module-powers-raspberry-pi-sized-sbc/">Read More</a></p>
+<hr />
+<h3>28. Beacon AM62L A compact (38x28mm), low-power dual-core Cortex-A53 System-on-Module (SoM) ⭐⭐</h3>
+<p><strong>Score:</strong> 7/10 | Beacon EmbeddedWorks announced a compact System-on-Module (SoM) based on the Texas Instruments Sitara AM62L dual-core Cortex-A53 SoC, designed for IoT, HMI, and general-purpose applications.</p>
+<p>💡 <em>Beacon EmbeddedWorks offers a compact, low-power SoM for IoT, HMI, and general-purpose applications.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/10/beacon-am62l-a-compact-38x28mm-low-power-dual-core-cortex-a53-system-on-module-som/">Read More</a></p>
+<hr />
+<h3>29. Olimex LT8912B-based MIPI-HDMI adapter board adds HDMI output to the ESP32-P4-Devkit board ⭐⭐</h3>
+<p><strong>Score:</strong> 7/10 | Olimex MIPI-HDMI adapter board outputs up to 1080p60 8-bit HDMI via its LT8912B converter and supports 1 to 4 MIPI DSI data lanes in continuous-clock mode.</p>
+<p>💡 <em>Olimex's MIPI-HDMI adapter board enables 1080p60 HDMI output on ESP32-based single-board computers.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/04/olimex-lt8912b-based-mipi-hdmi-adapter-board-adds-hdmi-output-to-the-esp32-p4-devkit-board/">Read More</a></p>
+<hr />
+<h3>30. Silicognition ManT1S ESP32 board supports T1S single-pair Ethernet for robotics and automation (Crowdfunding) ⭐⭐</h3>
+<p><strong>Score:</strong> 7/10 | The Silicognition ManT1S ESP32 board supports T1S single-pair Ethernet for robotics and automation projects. It uses the IEEE 802.3cg networking standard for networking and power distribution over a single pair of wires. The board features a Qwicc connector for I2C expansion and unpopulated headers for GPIOs and programming.</p>
+<p>💡 <em>The ManT1S ESP32 board enables efficient single-pair Ethernet for robotics and automation projects.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/03/silicognition-mant1s-esp32-board-t1s-single-pair-ethernet-for-automation-and-robotics/">Read More</a></p>
+<hr />
+<h3>31. Outlet' RAM sold in Japan as new with huge markups, scuffed packaging Crucial DDR5-5600 64GB kit commands $600 overseas as AI shortage bites</h3>
+<p><strong>Score:</strong> 6/10 | A Japanese retailer, Sofmap, is selling Crucial's Pro DDR5-5600 C46 64GB (2x32GB) memory kit for $602.74, taking advantage of the AI shortage.</p>
+<p>💡 <em>A Japanese retailer is exploiting the AI shortage with inflated pricing of Crucial's DDR5 memory kits.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/ram/outlet-ram-sold-in-japan-as-new-with-huge-markups-scuffed-packaging-crucial-ddr5-5600-64gb-kit-commands-usd600-overseas-as-ai-shortage-bites">Read More</a></p>
+<hr />
+        </div>
+
+        <footer>
+            <p class="timestamp">Generated on December 14, 2025 at 13:12 UTC</p>
+            <p>Powered by AI-driven content curation with Ollama</p>
+            <p><a href="https://github.com/yourusername/tech-weekly-digest" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+</body>
+</html>

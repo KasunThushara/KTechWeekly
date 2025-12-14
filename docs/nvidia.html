@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nvidia - Tech Weekly Digest</title>
+    <meta name="description" content="Latest Nvidia news and updates">
+    <meta property="og:title" content="Nvidia">
+    <meta property="og:description" content="Latest Nvidia news and updates">
+
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #7c3aed;
+            --accent: #10b981;
+            --text: #1f2937;
+            --text-light: #6b7280;
+            --bg: #ffffff;
+            --bg-secondary: #f9fafb;
+            --border: #e5e7eb;
+            --shadow: rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 40px 20px;
+            margin-bottom: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px var(--shadow);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.95;
+        }
+
+        /* Navigation */
+        nav {
+            background: var(--bg-secondary);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+
+        nav a:hover {
+            background: var(--primary);
+            color: white;
+        }
+
+        /* Content */
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px var(--shadow);
+        }
+
+        /* Typography */
+        h1, h2, h3, h4 {
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        h1 { font-size: 2.2rem; margin-top: 0; }
+        h2 { 
+            font-size: 1.8rem; 
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        h3 { font-size: 1.4rem; color: var(--primary); }
+        h4 { font-size: 1.1rem; }
+
+        p {
+            margin-bottom: 15px;
+            color: var(--text);
+        }
+
+        a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 15px 0 15px 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            box-shadow: 0 2px 5px var(--shadow);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        tr:hover {
+            background: var(--bg-secondary);
+        }
+
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            border-top: 2px solid var(--border);
+            margin: 40px 0;
+        }
+
+        /* Special Elements */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--primary);
+            color: white;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-right: 8px;
+        }
+
+        .insight {
+            background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+            border-left: 4px solid var(--primary);
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            font-style: italic;
+        }
+
+        .star {
+            color: #fbbf24;
+            font-size: 1.2rem;
+        }
+
+        /* Code blocks */
+        code {
+            background: var(--bg-secondary);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+
+        pre {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-light);
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+
+        footer a {
+            color: var(--primary);
+        }
+
+        .timestamp {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            margin-bottom: 10px;
+        }
+
+        /* Category cards */
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .category-card {
+            background: white;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s;
+            text-decoration: none;
+            color: var(--text);
+            display: block;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px var(--shadow);
+            border-color: var(--primary);
+        }
+
+        .category-card h3 {
+            margin-top: 0;
+            color: var(--primary);
+        }
+
+        .category-card .count {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin: 10px 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 1.8rem; }
+            .container { padding: 10px; }
+            nav { flex-direction: column; }
+            .content { padding: 20px; }
+            .category-grid { grid-template-columns: 1fr; }
+        }
+
+        /* Loading animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .content {
+            animation: fadeIn 0.5s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Tech Weekly Digest</h1>
+            <p class="subtitle">AI, Hardware & Edge Computing News</p>
+        </header>
+
+        <nav>
+            <a href="index.html">🏠 Home</a>
+            <a href="ai.html">📰 Ai</a> <a href="weekly_master_report.html">📰 Full Digest</a> <a href="edge_ai.html">📰 Edge Ai</a> <a href="hardware.html">🔧 Hardware</a> <a href="machine_learning.html">🧠 Machine Learning</a> <a href="nvidia.html">📰 Nvidia</a> <a href="raspberry_pi.html">🍓 Raspberry Pi</a> <a href="rockchip.html">💎 Rockchip</a> <a href="semiconductors.html">⚡ Semiconductors</a> <a href="trends.html">📈 Trends</a>
+        </nav>
+
+        <div class="content">
+            <h1>🎮 NVIDIA Weekly Report</h1>
+<p><strong>Week of December 14, 2025</strong></p>
+<p><em>NVIDIA hardware and GPUs</em></p>
+<hr />
+<h2>📊 Summary</h2>
+<ul>
+<li><strong>Total Articles:</strong> 12</li>
+<li><strong>High Priority:</strong> 8 articles (score ≥7)</li>
+<li><strong>Average Importance:</strong> 7.0/10</li>
+<li><strong>Report Generated:</strong> 2025-12-14 13:12</li>
+</ul>
+<hr />
+<h2>🌟 Top Stories</h2>
+<h3>1. Nvidia weighs expanding H200 production as new China orders rush in, report claims ⭐⭐</h3>
+<p><strong>Importance:</strong> 8/10</p>
+<p>Nvidia is evaluating whether to increase production of its H200 data center GPUs due to high demand from Chinese customers.</p>
+<p>💡 <em>Nvidia considers boosting H200 production to meet strong demand from Chinese data center customers.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/semiconductors/nvidia-weighs-expanding-h200-production-as-demand-outstrips-supply">Read More</a></p>
+<hr />
+<h3>2. China mulls $70 billion domestic chip fabrication injection, would be largest of any government semiconductor investment ⭐⭐</h3>
+<p><strong>Importance:</strong> 8/10</p>
+<p>China is considering investing up to $70 billion in its domestic chip manufacturers to compete with US firms like Nvidia.</p>
+<p>💡 <em>China's $70 billion investment in domestic chip manufacturers could significantly level the global playing field.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/china-mulls-usd70-billion-domestic-chip-fabrication-injection-would-be-largest-of-any-government-semiconductor-investment-huawei-and-cambricon-among-candidates-in-push-to-compete-with-nvidia-other-u-s-firms">Read More</a></p>
+<hr />
+<h3>3. Asus' new 5K gaming monitor is so high-end it doesn't even officially support RTX 40-series GPUs ⭐⭐</h3>
+<p><strong>Importance:</strong> 8/10</p>
+<p>Asus has released the XG27JCG, a 5K 180Hz monitor that requires Nvidia's RTX 50-series or AMD's RX 7600 and up to run, featuring solid color accuracy, HDR support, and 330Hz 1440p dual-mode support.</p>
+<p>💡 <em>Asus' new 5K gaming monitor demands high-end Nvidia and AMD GPUs for peak performance.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/monitors/gaming-monitors/asus-new-5k-gaming-monitor-is-so-high-end-it-doesnt-even-officially-support-rtx-40-series-gpus-the-xg27jcg-is-a-5k-180hz-beast-with-330hz-1440p-dual-mode-support">Read More</a></p>
+<hr />
+<h2>📰 Other Stories</h2>
+<h3>4. The Nvidia H200 export saga, as it happened ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | The U.S. government has approved the export of Nvidia's high-performance H200 AI chips to China, reinstating access.</p>
+<p>💡 <em>Nvidia's H200 AI chips are now eligible for export to China, marking significant access restoration.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/semiconductors/us-eases-nvidia-export-restrictions-h200-cleared-for-china-under-tight-controls">Read More</a></p>
+<hr />
+<h3>5. Radxa C200 Orin Developer Kit An NVIDIA Jetson Orin NX 8GB devkit with three M.2 PCIe 4.0 slots ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | The Radxa C200 is a compact developer kit built around the NVIDIA Jetson Orin NX 8GB module, featuring high-speed storage expansion, fast-bootable SSDs, and data-intensive AI workloads.</p>
+<p>💡 <em>This developer kit accelerates AI workloads with high-speed storage expansion and fast-bootable SSDs.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2025/12/09/radxa-c200-orin-developer-kit-an-nvidia-jetson-orin-nx-8gb-devkit-with-three-m-2-pcie-4-0-slots/">Read More</a></p>
+<hr />
+<h3>6. Dell preps massive price hikes up to 30% citing memory pricing 'out of our control' ⭐⭐</h3>
+<p><strong>Score:</strong> 7/10 | Dell will raise prices on RAM, storage, GPU, and monitor upgrades for corporate clients starting December 17, citing high memory costs.</p>
+<p>💡 <em>Dell's price hike for corporate clients threatens to increase IT costs for businesses across various industries.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/laptops/dell-preps-massive-price-hikes-up-to-30-percent-citing-memory-pricing-out-of-our-control-company-reminds-commercial-customers-that-placing-an-order-today-for-future-delivery-will-not-guarantee-current-prices">Read More</a></p>
+<hr />
+<h3>7. Nvidia details new software that enables location tracking for AI GPUs ⭐⭐</h3>
+<p><strong>Score:</strong> 7/10 | Nvidia's GPU fleet management software is optional for clients and includes features like power usage tracking, thermal monitoring, and location tracking of processors. The software can also detect hotspots, anomalies, and software errors. Clients can opt-in to remote data center GPU fleet management.</p>
+<p>💡 <em>Nvidia's GPU fleet management software offers location tracking and remote data center monitoring for clients.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/gpus/nvidia-details-new-software-that-enables-location-tracking-for-ai-gpus-opt-in-remote-data-center-gpu-fleet-management-includes-power-usage-and-thermal-monitoring">Read More</a></p>
+<hr />
+<h3>8. Nvidia decries 'far-fetched' reports of smuggling in face of DeepSeek training reports ⭐⭐</h3>
+<p><strong>Score:</strong> 7/10 | Nvidia denies involvement in a 'phantom data center' smuggling scheme to get Blackwell GPU servers into China for training its newest LLM generation, despite some evidence to the contrary.</p>
+<p>💡 <em>Nvidia faces scrutiny over possible smuggling of restricted GPUs into China for AI model training.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-decries-far-fetched-reports-of-smuggling-in-face-of-deepseek-training-reports-unnamed-sources-claim-chinese-company-is-involved-in-blackwell-smuggling-ring">Read More</a></p>
+<hr />
+<h3>9. This $549 Acer gaming laptop is simply unbeatable value with Nvidia RTX 5050 GPU and 16GB RAM  rival model also on sale for $50 more, featuring AMD Ryzen CPU and 1200p display</h3>
+<p><strong>Score:</strong> 6/10 | Acer Nitro V gaming laptops with Nvidia GeForce RTX GPUs are on sale for $549, offering unbeatable value compared to a rival model available for $50 more.</p>
+<p>💡 <em>The Acer Nitro V's Nvidia GeForce RTX GPU offers a significantly cheaper high-end gaming option.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/laptops/gaming-laptops/this-usd549-acer-gaming-laptop-is-simply-unbeatable-value-with-nvidia-rtx-5050-gpu-and-16gb-ram-rival-model-also-on-sale-for-usd50-more-featuring-amd-ryzen-cpu-and-1200p-display">Read More</a></p>
+<hr />
+<h3>10. PNY's RTX 5070 GPU falls $50 below its MSRP launch price</h3>
+<p><strong>Score:</strong> 6/10 | Grab an RTX 5070 from PNY for just $499, $50 below the MSRP launch price. Limited stock available at Walmart.</p>
+<p>💡 <em>PNY's discounted RTX 5070 offers a rare opportunity for consumers to buy at a lower MSRP price.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/gpus/msis-rtx-5070-gpu-falls-usd50-below-its-msrp-launch-price-grab-one-quickly-via-walmart-while-stocks-last">Read More</a></p>
+<hr />
+<h3>11. CyberPower's Supreme gaming PC packs 64GB of DDR5-6400 RAM and an RTX 5080 GPU for $2499</h3>
+<p><strong>Score:</strong> 6/10 | CyberPower's Supreme gaming PC with an RTX 5080 GPU and 64GB of DDR5-6400 RAM is available for $2499, a good deal considering current RAM prices.</p>
+<p>💡 <em>CyberPower's Supreme gaming PC offers a competitive price point for high-end specs.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/desktops/gaming-pcs/cyberpowers-supreme-gaming-pc-packs-64gb-of-ddr5-6400-ram-and-an-rtx-5080-gpu-for-usd2499-thats-usd700-of-ram-in-todays-market">Read More</a></p>
+<hr />
+<h3>12. Dev gambles on 'obviously fake' $8K Grace Hopper system, scores $80,000 worth of hardware on Reddit for one-tenth of the cost</h3>
+<p><strong>Score:</strong> 5/10 | A developer purchased a used Nvidia Grace Hopper system at a significantly low cost, which required cleaning and repair to get it running smoothly.</p>
+<p>💡 <em>Developer finds rare hardware at a fraction of its cost through diligent repair and cleaning efforts.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/desktops/servers/developer-gambles-on-obviously-fake-usd8k-grace-hopper-system-scores-usd80-000-worth-of-hardware-on-reddit-for-one-tenth-of-the-cost-buyers-haul-includes-960gb-of-ddr5-ram-worth-more-than-what-he-paid-for-the-entire-rig">Read More</a></p>
+<hr />
+        </div>
+
+        <footer>
+            <p class="timestamp">Generated on December 14, 2025 at 13:12 UTC</p>
+            <p>Powered by AI-driven content curation with Ollama</p>
+            <p><a href="https://github.com/yourusername/tech-weekly-digest" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+</body>
+</html>

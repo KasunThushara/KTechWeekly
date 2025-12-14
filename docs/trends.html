@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trends - Tech Weekly Digest</title>
+    <meta name="description" content="Latest Trends news and updates">
+    <meta property="og:title" content="Trends">
+    <meta property="og:description" content="Latest Trends news and updates">
+
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #7c3aed;
+            --accent: #10b981;
+            --text: #1f2937;
+            --text-light: #6b7280;
+            --bg: #ffffff;
+            --bg-secondary: #f9fafb;
+            --border: #e5e7eb;
+            --shadow: rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 40px 20px;
+            margin-bottom: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px var(--shadow);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.95;
+        }
+
+        /* Navigation */
+        nav {
+            background: var(--bg-secondary);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+
+        nav a:hover {
+            background: var(--primary);
+            color: white;
+        }
+
+        /* Content */
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px var(--shadow);
+        }
+
+        /* Typography */
+        h1, h2, h3, h4 {
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        h1 { font-size: 2.2rem; margin-top: 0; }
+        h2 { 
+            font-size: 1.8rem; 
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        h3 { font-size: 1.4rem; color: var(--primary); }
+        h4 { font-size: 1.1rem; }
+
+        p {
+            margin-bottom: 15px;
+            color: var(--text);
+        }
+
+        a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 15px 0 15px 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            box-shadow: 0 2px 5px var(--shadow);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        tr:hover {
+            background: var(--bg-secondary);
+        }
+
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            border-top: 2px solid var(--border);
+            margin: 40px 0;
+        }
+
+        /* Special Elements */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--primary);
+            color: white;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-right: 8px;
+        }
+
+        .insight {
+            background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+            border-left: 4px solid var(--primary);
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            font-style: italic;
+        }
+
+        .star {
+            color: #fbbf24;
+            font-size: 1.2rem;
+        }
+
+        /* Code blocks */
+        code {
+            background: var(--bg-secondary);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+
+        pre {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-light);
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+
+        footer a {
+            color: var(--primary);
+        }
+
+        .timestamp {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            margin-bottom: 10px;
+        }
+
+        /* Category cards */
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .category-card {
+            background: white;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s;
+            text-decoration: none;
+            color: var(--text);
+            display: block;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px var(--shadow);
+            border-color: var(--primary);
+        }
+
+        .category-card h3 {
+            margin-top: 0;
+            color: var(--primary);
+        }
+
+        .category-card .count {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin: 10px 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 1.8rem; }
+            .container { padding: 10px; }
+            nav { flex-direction: column; }
+            .content { padding: 20px; }
+            .category-grid { grid-template-columns: 1fr; }
+        }
+
+        /* Loading animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .content {
+            animation: fadeIn 0.5s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Tech Weekly Digest</h1>
+            <p class="subtitle">AI, Hardware & Edge Computing News</p>
+        </header>
+
+        <nav>
+            <a href="index.html">🏠 Home</a>
+            <a href="ai.html">📰 Ai</a> <a href="weekly_master_report.html">📰 Full Digest</a> <a href="edge_ai.html">📰 Edge Ai</a> <a href="hardware.html">🔧 Hardware</a> <a href="machine_learning.html">🧠 Machine Learning</a> <a href="nvidia.html">📰 Nvidia</a> <a href="raspberry_pi.html">🍓 Raspberry Pi</a> <a href="rockchip.html">💎 Rockchip</a> <a href="semiconductors.html">⚡ Semiconductors</a> <a href="trends.html">📈 Trends</a>
+        </nav>
+
+        <div class="content">
+            <h1>📈 Trends Weekly Report</h1>
+<p><strong>Week of December 14, 2025</strong></p>
+<p><em>Industry trends</em></p>
+<hr />
+<h2>📊 Summary</h2>
+<ul>
+<li><strong>Total Articles:</strong> 10</li>
+<li><strong>High Priority:</strong> 7 articles (score ≥7)</li>
+<li><strong>Average Importance:</strong> 7.6/10</li>
+<li><strong>Report Generated:</strong> 2025-12-14 13:12</li>
+</ul>
+<hr />
+<h2>🌟 Top Stories</h2>
+<h3>1. Photonic latch memory could enable optical processor caches that run up to 60 GHz, twenty times faster than standard caches   optical SRAM stores and outputs data entirely as light, but density challenges remain ⭐⭐⭐</h3>
+<p><strong>Importance:</strong> 9/10</p>
+<p>Researchers from the University of Southern California Information Sciences Institute and the University of Wisconsin-Madison have demonstrated the first regenerative photonic memory latch.</p>
+<p>💡 <em>Researchers develop first regenerative photonic memory latch for 60 GHz optical processor caches.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/semiconductors/usc-and-us-madison-researchers-debut-foundry-made-photonic-memory-latch">Read More</a></p>
+<hr />
+<h3>2. Rivian unveils its own in-house RAP1 AI chip and ACM3 self-driving platform automaker one-ups Tesla with LiDAR support ⭐⭐⭐</h3>
+<p><strong>Importance:</strong> 9/10</p>
+<p>Rivian has unveiled its ACM3 self-driving platform and RAP1 AI chip, which includes LiDAR support. This one-ups Tesla in the field of autonomous driving. The ACM3 module and RAP1 chip are both in-house developments from Rivian.</p>
+<p>💡 <em>Rivian's ACM3 platform with LiDAR support surpasses Tesla's self-driving capabilities with in-house technology development.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/rivian-unveils-its-own-in-house-rap1-ai-chip-and-acm3-self-driving-platform-automaker-one-ups-tesla-with-lidar-support">Read More</a></p>
+<hr />
+<h3>3. Industry preps new 'cheap' HBM4 memory spec with narrow interface, but it isn't a GDDR killer ⭐⭐</h3>
+<p><strong>Importance:</strong> 8/10</p>
+<p>JEDEC's new SPHBM4 spec enables full HBM4 bandwidth over a 512-bit interface using a 4:1 serialization and supports up to 64 GB per stack with 2.5D integration on organic substrates.</p>
+<p>💡 <em>JEDEC's new SPHBM4 spec provides affordable HBM4 bandwidth without requiring a wide interface.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/dram/industry-preps-cheap-hbm4-memory-spec-with-narrow-interface-but-it-isnt-a-gddr-killer-jedecs-new-sphbm4-spec-weds-hbm4-performance-and-lower-costs-to-enable-higher-capacity">Read More</a></p>
+<hr />
+<h2>📰 Other Stories</h2>
+<h3>4. Huawei's latest mobile is armed with China's most advanced process node to date despite using blacklisted chipmaker ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Huawei's Kirin 9030 is built on SMIC's N+3 process, an incremental extension of its 7nm-class technology that doesn't match true 5nm nodes.</p>
+<p>💡 <em>Huawei's latest mobile uses a non-5nm process chip despite employing a blacklisted chipmaker.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/semiconductors/huaweis-latest-mobile-is-chinas-most-advanced-process-node-to-date-despite-using-blacklisted-chipmaker-huawei-kirin-9030-mobile-soc-made-on-smic-n-3-process-but-cant-compete-with-5nm-nodes">Read More</a></p>
+<hr />
+<h3>5. Cambricon targets 500,000 AI chips in 2026 as China accelerates domestic hardware push ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Cambricon Technologies aims for a huge production ramp-up of 500,000 AI chips in 2026, but low yields and limited HBM supply might threaten their ambitions.</p>
+<p>💡 <em>Cambricon's ambitious 2026 chip production goal reflects China's accelerating push for domestic AI hardware self-sufficiency.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/semiconductors/cambricon-targets-500000-ai-chips-in-2026-as-china-accelerates-domestic-hardware-push">Read More</a></p>
+<hr />
+<h3>6. Nintendo Switch 2 RAM prices rise 41%, NAND flash up 8% console giant shares nosedive in face of increased cost warnings ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Nintendo's market cap decreased by $14 billion due to RAM shortages and price increases. The Nintendo Switch 2's RAM prices rose 41% and NAND flash prices increased by 8%. This led to a decline in the company's shares.</p>
+<p>💡 <em>Nintendo's shares nosedived by $14 billion due to RAM price hikes and shortages.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-ram-prices-rise-41-percent-nand-flash-up-8-percent-console-giant-shares-nosedive-in-face-of-increased-cost-warnings">Read More</a></p>
+<hr />
+<h3>7. Biwin Black Opal OC Lab Gold Edition DDR5-6000 C28 4x48GB Review: High-Performance Memory For Demanding Applications ⭐⭐</h3>
+<p><strong>Score:</strong> 8/10 | Biwin launches a special DDR5-6000 192GB memory kit from its OC labs, aiming to outperform the current competition.</p>
+<p>💡 <em>Biwin's high-performance DDR5-6000 memory kit targets extreme gamers and content creators with demanding applications.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/ram/biwin-black-opal-oc-lab-gold-edition-ddr5-6000-c28-4x48gb-review">Read More</a></p>
+<hr />
+<h3>8. Framework raises DDR5 RAM upgrade prices by 50% amid DRAM shortage   only for Laptop DIY edition, says prices will likely rise again</h3>
+<p><strong>Score:</strong> 6/10 | Framework, the computer manufacturer, has raised the price of DDR5 memory options for the Framework Laptop DIY Edition by 50% due to a DRAM shortage, and prices may increase further.</p>
+<p>💡 <em>Framework raises DDR5 RAM prices 50% for its Laptop DIY Edition due to a DRAM shortage.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/ram/framework-raises-ddr5-ram-upgrade-prices-by-50-percent-amid-dram-shortage-only-for-laptop-diy-edition-says-prices-will-likely-rise-again">Read More</a></p>
+<hr />
+<h3>9. Outlet' RAM sold in Japan as new with huge markups, scuffed packaging Crucial DDR5-5600 64GB kit commands $600 overseas as AI shortage bites</h3>
+<p><strong>Score:</strong> 6/10 | A Japanese retailer, Sofmap, is selling Crucial's Pro DDR5-5600 C46 64GB (2x32GB) memory kit for $602.74, taking advantage of the AI shortage.</p>
+<p>💡 <em>Japanese retailer exploits AI shortage, marking up Crucial RAM by hundreds.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/ram/outlet-ram-sold-in-japan-as-new-with-huge-markups-scuffed-packaging-crucial-ddr5-5600-64gb-kit-commands-usd600-overseas-as-ai-shortage-bites">Read More</a></p>
+<hr />
+<h3>10. Framework puts Dell and Apple on blast over egregious RAM prices</h3>
+<p><strong>Score:</strong> 6/10 | Memory prices are rising, affecting modular laptop maker Framework, which has announced a price hike. The company responded to a tweet criticizing Dell's RAM markup, which was later found to be incorrect.</p>
+<p>💡 <em>Rising memory prices force modular laptop maker Framework to reconsider its own pricing strategy.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/laptops/framework-puts-dell-and-apple-on-blast-over-egregious-ram-prices-modular-laptop-maker-will-be-forced-to-increase-memory-prices-but-wont-gouge-customers-like-other-vendors">Read More</a></p>
+<hr />
+        </div>
+
+        <footer>
+            <p class="timestamp">Generated on December 14, 2025 at 13:12 UTC</p>
+            <p>Powered by AI-driven content curation with Ollama</p>
+            <p><a href="https://github.com/yourusername/tech-weekly-digest" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+</body>
+</html>
