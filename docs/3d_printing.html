@@ -7,7 +7,7 @@
     <meta name="description" content="Latest 3D Printing news and updates">
     <meta property="og:title" content="3D Printing">
     <meta property="og:description" content="Latest 3D Printing news and updates">
-    
+
     <style>
         :root {
             --primary: #2563eb;
@@ -20,26 +20,26 @@
             --border: #e5e7eb;
             --shadow: rgba(0, 0, 0, 0.1);
         }
-        
+
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
-        
+
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
             line-height: 1.6;
             color: var(--text);
             background: var(--bg);
         }
-        
+
         .container {
             max-width: 900px;
             margin: 0 auto;
             padding: 20px;
         }
-        
+
         /* Header */
         header {
             background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
@@ -49,18 +49,18 @@
             border-radius: 16px;
             box-shadow: 0 10px 30px var(--shadow);
         }
-        
+
         header h1 {
             font-size: 2.5rem;
             margin-bottom: 10px;
             font-weight: 700;
         }
-        
+
         .subtitle {
             font-size: 1.1rem;
             opacity: 0.95;
         }
-        
+
         /* Navigation */
         nav {
             background: var(--bg-secondary);
@@ -73,7 +73,7 @@
             gap: 15px;
             align-items: center;
         }
-        
+
         nav a {
             color: var(--primary);
             text-decoration: none;
@@ -82,12 +82,12 @@
             border-radius: 8px;
             transition: all 0.2s;
         }
-        
+
         nav a:hover {
             background: var(--primary);
             color: white;
         }
-        
+
         /* Content */
         .content {
             background: white;
@@ -95,7 +95,7 @@
             border-radius: 12px;
             box-shadow: 0 2px 8px var(--shadow);
         }
-        
+
         /* Typography */
         h1, h2, h3, h4 {
             margin-top: 30px;
@@ -103,7 +103,7 @@
             color: var(--text);
             font-weight: 600;
         }
-        
+
         h1 { font-size: 2.2rem; margin-top: 0; }
         h2 { 
             font-size: 1.8rem; 
@@ -113,31 +113,31 @@
         }
         h3 { font-size: 1.4rem; color: var(--primary); }
         h4 { font-size: 1.1rem; }
-        
+
         p {
             margin-bottom: 15px;
             color: var(--text);
         }
-        
+
         a {
             color: var(--primary);
             text-decoration: none;
             font-weight: 500;
         }
-        
+
         a:hover {
             text-decoration: underline;
         }
-        
+
         /* Lists */
         ul, ol {
             margin: 15px 0 15px 25px;
         }
-        
+
         li {
             margin-bottom: 8px;
         }
-        
+
         /* Tables */
         table {
             width: 100%;
@@ -145,13 +145,13 @@
             margin: 25px 0;
             box-shadow: 0 2px 5px var(--shadow);
         }
-        
+
         th, td {
             padding: 12px 15px;
             text-align: left;
             border-bottom: 1px solid var(--border);
         }
-        
+
         th {
             background: var(--primary);
             color: white;
@@ -159,18 +159,18 @@
             text-transform: uppercase;
             font-size: 0.9rem;
         }
-        
+
         tr:hover {
             background: var(--bg-secondary);
         }
-        
+
         /* Horizontal Rule */
         hr {
             border: none;
             border-top: 2px solid var(--border);
             margin: 40px 0;
         }
-        
+
         /* Special Elements */
         .badge {
             display: inline-block;
@@ -182,7 +182,7 @@
             font-weight: 500;
             margin-right: 8px;
         }
-        
+
         .insight {
             background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
             border-left: 4px solid var(--primary);
@@ -191,12 +191,12 @@
             border-radius: 8px;
             font-style: italic;
         }
-        
+
         .star {
             color: #fbbf24;
             font-size: 1.2rem;
         }
-        
+
         /* Code blocks */
         code {
             background: var(--bg-secondary);
@@ -205,7 +205,7 @@
             font-family: 'Courier New', monospace;
             font-size: 0.9rem;
         }
-        
+
         pre {
             background: var(--bg-secondary);
             padding: 15px;
@@ -213,7 +213,7 @@
             overflow-x: auto;
             margin: 15px 0;
         }
-        
+
         /* Footer */
         footer {
             text-align: center;
@@ -222,17 +222,17 @@
             border-top: 1px solid var(--border);
             margin-top: 60px;
         }
-        
+
         footer a {
             color: var(--primary);
         }
-        
+
         .timestamp {
             color: var(--text-light);
             font-size: 0.95rem;
             margin-bottom: 10px;
         }
-        
+
         /* Category cards */
         .category-grid {
             display: grid;
@@ -240,7 +240,7 @@
             gap: 20px;
             margin: 30px 0;
         }
-        
+
         .category-card {
             background: white;
             border: 2px solid var(--border);
@@ -251,25 +251,25 @@
             color: var(--text);
             display: block;
         }
-        
+
         .category-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 10px 25px var(--shadow);
             border-color: var(--primary);
         }
-        
+
         .category-card h3 {
             margin-top: 0;
             color: var(--primary);
         }
-        
+
         .category-card .count {
             font-size: 2rem;
             font-weight: 700;
             color: var(--secondary);
             margin: 10px 0;
         }
-        
+
         /* Responsive */
         @media (max-width: 768px) {
             header h1 { font-size: 1.8rem; }
@@ -278,13 +278,13 @@
             .content { padding: 20px; }
             .category-grid { grid-template-columns: 1fr; }
         }
-        
+
         /* Loading animation */
         @keyframes fadeIn {
             from { opacity: 0; transform: translateY(20px); }
             to { opacity: 1; transform: translateY(0); }
         }
-        
+
         .content {
             animation: fadeIn 0.5s ease-out;
         }
@@ -296,12 +296,12 @@
             <h1>📚 Tech Weekly Digest</h1>
             <p class="subtitle">AI, Hardware & Edge Computing News</p>
         </header>
-        
+
         <nav>
             <a href="index.html">🏠 Home</a>
-            <a href="3d_printing.html">📰 3D Printing</a> <a href="weekly_master_report.html">📰 Full Digest</a> <a href="ai.html">📰 Ai</a> <a href="edge_ai.html">📰 Edge Ai</a> <a href="electronics.html">📰 Electronics</a> <a href="emulation.html">📰 Emulation</a> <a href="esp32.html">📰 Esp32</a> <a href="hardware.html">🔧 Hardware</a> <a href="machine_learning.html">🧠 Machine Learning</a> <a href="microcontrollers.html">📰 Microcontrollers</a> <a href="micropython.html">📰 Micropython</a> <a href="nvidia.html">📰 Nvidia</a> <a href="raspberry_pi.html">🍓 Raspberry Pi</a> <a href="recycling.html">📰 Recycling</a> <a href="rockchip.html">💎 Rockchip</a> <a href="semiconductors.html">⚡ Semiconductors</a> <a href="trends.html">📈 Trends</a>
+            <a href="3d_printing.html">📰 3D Printing</a> <a href="weekly_master_report.html">📰 Full Digest</a> <a href="ai.html">📰 Ai</a> <a href="blockchain.html">📰 Blockchain</a> <a href="edge_ai.html">📰 Edge Ai</a> <a href="electronics.html">📰 Electronics</a> <a href="emulation.html">📰 Emulation</a> <a href="esp32.html">📰 Esp32</a> <a href="hardware.html">🔧 Hardware</a> <a href="machine_learning.html">🧠 Machine Learning</a> <a href="microcontrollers.html">📰 Microcontrollers</a> <a href="micropython.html">📰 Micropython</a> <a href="nvidia.html">📰 Nvidia</a> <a href="raspberry_pi.html">🍓 Raspberry Pi</a> <a href="recycling.html">📰 Recycling</a> <a href="rockchip.html">💎 Rockchip</a> <a href="semiconductors.html">⚡ Semiconductors</a> <a href="trends.html">📈 Trends</a>
         </nav>
-        
+
         <div class="content">
             <h1>📰 3D Printing Weekly Report</h1>
 <p><strong>Week of October 06, 2025</strong></p>
@@ -323,9 +323,9 @@
 <p>🔗 <a href="https://www.tomshardware.com/video-games/retro-gaming/ingenious-modder-turns-lego-game-boy-into-an-actual-game-boy-that-can-run-real-cartridges-new-lego-set-gets-outfitted-with-custom-pcb-in-less-than-a-day-3d-printing-required-for-future-button-support">Read More</a></p>
 <hr />
         </div>
-        
+
         <footer>
-            <p class="timestamp">Generated on November 10, 2025 at 14:14 UTC</p>
+            <p class="timestamp">Generated on December 20, 2025 at 09:16 UTC</p>
             <p>Powered by AI-driven content curation with Ollama</p>
             <p><a href="https://github.com/yourusername/tech-weekly-digest" target="_blank">View on GitHub</a></p>
         </footer>

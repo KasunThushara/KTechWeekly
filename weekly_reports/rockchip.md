@@ -1,5 +1,5 @@
 # 💎 Rockchip Weekly Report
-**Week of December 14, 2025**
+**Week of December 20, 2025**
 
 *Rockchip processors and SBCs*
 
@@ -9,21 +9,21 @@
 - **Total Articles:** 1
 - **High Priority:** 1 articles (score ≥7)
 - **Average Importance:** 8.0/10
-- **Report Generated:** 2025-12-14 13:12
+- **Report Generated:** 2025-12-20 09:16
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Rikomagic DS08 A Rockchip RK3588-powered 8K digital signage player with RTC and watchdog support ⭐⭐
+### 1. Luckfox Aura  A Raspberry Pi-like Linux SBC powered by Rockchip RV1126B SoC with 3 TOPS NPU ⭐⭐
 
 **Importance:** 8/10
 
-Rikomagic DS08 is a Rockchip RK3588-powered Android 13 digital signage player with better specifications compared to the previous model, including an octa-core CPU, 8GB of RAM, a 128GB eMMC flash, and 8K and 4K HDMI video outputs.
+The Luckfox Aura is a compact Linux SBC with Rockchip's RV1126B quad-core Arm Cortex-A53 processor, 3 TOPS NPU, and AI vision, multimedia processing, and edge computing capabilities.
 
-💡 *Rikomagic DS08 offers improved specifications for Android 13 digital signage applications.*
+💡 *The Luckfox Aura offers AI vision and multimedia processing capabilities in a compact, affordable Linux SBC.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/05/rikomagic-ds08-rockchip-rk3588-powered-8k-digital-signage-player-with-rtc-and-watchdog/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/16/luckfox-aura-a-raspberry-pi-like-linux-sbc-powered-by-rockchip-rv1126b-soc-with-3-tops-npu/)
 
 ---
 

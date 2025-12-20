@@ -1,125 +1,225 @@
 # 📈 Trends Weekly Report
-**Week of December 14, 2025**
+**Week of December 20, 2025**
 
 *Industry trends*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 10
-- **High Priority:** 7 articles (score ≥7)
-- **Average Importance:** 7.6/10
-- **Report Generated:** 2025-12-14 13:12
+- **Total Articles:** 20
+- **High Priority:** 18 articles (score ≥7)
+- **Average Importance:** 7.8/10
+- **Report Generated:** 2025-12-20 09:16
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Photonic latch memory could enable optical processor caches that run up to 60 GHz, twenty times faster than standard caches   optical SRAM stores and outputs data entirely as light, but density challenges remain ⭐⭐⭐
+### 1. Windows Server 2025 gains native NVMe support, 14 years after its introduction  groundbreaking I/O stack drops SCSI emulation limitations for massive throughput and CPU efficiency gains ⭐⭐⭐
 
 **Importance:** 9/10
 
-Researchers from the University of Southern California Information Sciences Institute and the University of Wisconsin-Madison have demonstrated the first regenerative photonic memory latch.
+Windows Server 2025 gets native NVMe with massive I/O and CPU gains
 
-💡 *Researchers develop first regenerative photonic memory latch for 60 GHz optical processor caches.*
+💡 *Windows Server 2025 gains native NVMe support, boosting I/O and CPU performance significantly.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/usc-and-us-madison-researchers-debut-foundry-made-photonic-memory-latch)
+🔗 [Read More](https://www.tomshardware.com/desktops/servers/windows-server-2025-gains-native-nvme-support-14-years-after-its-introduction-groundbreaking-i-o-stack-drops-scsi-emulation-limitations-for-massive-throughput-and-cpu-efficiency-gains)
 
 ---
 
-### 2. Rivian unveils its own in-house RAP1 AI chip and ACM3 self-driving platform automaker one-ups Tesla with LiDAR support ⭐⭐⭐
+### 2. New Texas Instruments fab will pump out tens of millions of chips per day   first 300mm fab starts production after $60 billion investment ⭐⭐⭐
 
 **Importance:** 9/10
 
-Rivian has unveiled its ACM3 self-driving platform and RAP1 AI chip, which includes LiDAR support. This one-ups Tesla in the field of autonomous driving. The ACM3 module and RAP1 chip are both in-house developments from Rivian.
+Texas Instruments has started producing 300mm wafers at its new Sherman, Texas mega-site, capable of outputting tens of millions of chips per day.
 
-💡 *Rivian's ACM3 platform with LiDAR support surpasses Tesla's self-driving capabilities with in-house technology development.*
+💡 *Texas Instruments' new Sherman fab boosts global chip production capacity significantly.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/rivian-unveils-its-own-in-house-rap1-ai-chip-and-acm3-self-driving-platform-automaker-one-ups-tesla-with-lidar-support)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/new-texas-instruments-fab-will-pump-out-tens-of-millions-of-chips-per-day-first-300mm-fab-starts-production-after-usd60-billion-investment)
 
 ---
 
-### 3. Industry preps new 'cheap' HBM4 memory spec with narrow interface, but it isn't a GDDR killer ⭐⭐
+### 3. Intel details progress on fabbing 2D transistors a few atoms thick in standard high volume fab production environment ⭐⭐⭐
 
-**Importance:** 8/10
+**Importance:** 9/10
 
-JEDEC's new SPHBM4 spec enables full HBM4 bandwidth over a 512-bit interface using a 4:1 serialization and supports up to 64 GB per stack with 2.5D integration on organic substrates.
+Intel and imec demonstrate the first 300-mm, fab-compatible integration of contacts and gate stacks for 2D transistors, marking a critical step towards turning 2D materials into a future option for high-volume logic manufacturing.
 
-💡 *JEDEC's new SPHBM4 spec provides affordable HBM4 bandwidth without requiring a wide interface.*
+💡 *Intel and imec move closer to high-volume production of 2D transistors in standard fab environments.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/dram/industry-preps-cheap-hbm4-memory-spec-with-narrow-interface-but-it-isnt-a-gddr-killer-jedecs-new-sphbm4-spec-weds-hbm4-performance-and-lower-costs-to-enable-higher-capacity)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/intel-shows-300-mm-fab-compatible-integration-of-2d-transistor-contacts-and-gate-stacks)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Huawei's latest mobile is armed with China's most advanced process node to date despite using blacklisted chipmaker ⭐⭐
+### 4. Intel installs industry's first commercial High-NA EUV lithography tool ⭐⭐⭐
 
-**Score:** 8/10 | Huawei's Kirin 9030 is built on SMIC's N+3 process, an incremental extension of its 7nm-class technology that doesn't match true 5nm nodes.
+**Score:** 9/10 | Intel has installed ASML's TWINSCAN EXE:5200B, the first High-NA EUV lithography tool for commercial production, setting the stage for 14A process technology.
 
-💡 *Huawei's latest mobile uses a non-5nm process chip despite employing a blacklisted chipmaker.*
+💡 *Intel installs the industry's first commercial High-NA EUV lithography tool for future 14A process technology.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/huaweis-latest-mobile-is-chinas-most-advanced-process-node-to-date-despite-using-blacklisted-chipmaker-huawei-kirin-9030-mobile-soc-made-on-smic-n-3-process-but-cant-compete-with-5nm-nodes)
-
----
-
-### 5. Cambricon targets 500,000 AI chips in 2026 as China accelerates domestic hardware push ⭐⭐
-
-**Score:** 8/10 | Cambricon Technologies aims for a huge production ramp-up of 500,000 AI chips in 2026, but low yields and limited HBM supply might threaten their ambitions.
-
-💡 *Cambricon's ambitious 2026 chip production goal reflects China's accelerating push for domestic AI hardware self-sufficiency.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/cambricon-targets-500000-ai-chips-in-2026-as-china-accelerates-domestic-hardware-push)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-industrys-first-commercial-high-na-euv-lithography-tool-asml-twinscan-exe-5200b-sets-the-stage-for-14a)
 
 ---
 
-### 6. Nintendo Switch 2 RAM prices rise 41%, NAND flash up 8% console giant shares nosedive in face of increased cost warnings ⭐⭐
+### 5. Here's why HBM is coming for your PC's RAM ⭐⭐
 
-**Score:** 8/10 | Nintendo's market cap decreased by $14 billion due to RAM shortages and price increases. The Nintendo Switch 2's RAM prices rose 41% and NAND flash prices increased by 8%. This led to a decline in the company's shares.
+**Score:** 8/10 | AI's appetite for high-bandwidth memory is reshaping the global DRAM and NAND market, diverting wafer capacity and advanced packaging away from consumer products and driving sharp price increases across markets.
 
-💡 *Nintendo's shares nosedived by $14 billion due to RAM price hikes and shortages.*
+💡 *HBM's increasing demand is diverting wafer capacity from consumer products, driving price increases.*
 
-🔗 [Read More](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-ram-prices-rise-41-percent-nand-flash-up-8-percent-console-giant-shares-nosedive-in-face-of-increased-cost-warnings)
-
----
-
-### 7. Biwin Black Opal OC Lab Gold Edition DDR5-6000 C28 4x48GB Review: High-Performance Memory For Demanding Applications ⭐⭐
-
-**Score:** 8/10 | Biwin launches a special DDR5-6000 192GB memory kit from its OC labs, aiming to outperform the current competition.
-
-💡 *Biwin's high-performance DDR5-6000 memory kit targets extreme gamers and content creators with demanding applications.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/ram/biwin-black-opal-oc-lab-gold-edition-ddr5-6000-c28-4x48gb-review)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ram/hbm-is-eating-your-ram)
 
 ---
 
-### 8. Framework raises DDR5 RAM upgrade prices by 50% amid DRAM shortage   only for Laptop DIY edition, says prices will likely rise again 
+### 6. Ongoing YouTube, Google outage reported outage spikes across popular services ⭐⭐
 
-**Score:** 6/10 | Framework, the computer manufacturer, has raised the price of DDR5 memory options for the Framework Laptop DIY Edition by 50% due to a DRAM shortage, and prices may increase further.
+**Score:** 8/10 | Multiple reports indicate that YouTube, YouTube TV, and Google are all down.
 
-💡 *Framework raises DDR5 RAM prices 50% for its Laptop DIY Edition due to a DRAM shortage.*
+💡 *Massive outage affecting popular Google services, including YouTube, disrupts user access worldwide.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ram/framework-raises-ddr5-ram-upgrade-prices-by-50-percent-amid-dram-shortage-only-for-laptop-diy-edition-says-prices-will-likely-rise-again)
-
----
-
-### 9. Outlet' RAM sold in Japan as new with huge markups, scuffed packaging Crucial DDR5-5600 64GB kit commands $600 overseas as AI shortage bites 
-
-**Score:** 6/10 | A Japanese retailer, Sofmap, is selling Crucial's Pro DDR5-5600 C46 64GB (2x32GB) memory kit for $602.74, taking advantage of the AI shortage.
-
-💡 *Japanese retailer exploits AI shortage, marking up Crucial RAM by hundreds.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/ram/outlet-ram-sold-in-japan-as-new-with-huge-markups-scuffed-packaging-crucial-ddr5-5600-64gb-kit-commands-usd600-overseas-as-ai-shortage-bites)
+🔗 [Read More](https://www.tomshardware.com/news/live/ongoing-youtube-google-outage-reported-outage-spikes-across-popular-services)
 
 ---
 
-### 10. Framework puts Dell and Apple on blast over egregious RAM prices 
+### 7. Intel-certified 256 GB DDR5 stick could cut Xeon memory power by 18%, saving millions of dollars a 32W-per-socket reduction could save millions per hyperscale data center ⭐⭐
 
-**Score:** 6/10 | Memory prices are rising, affecting modular laptop maker Framework, which has announced a price hike. The company responded to a tweet criticizing Dell's RAM markup, which was later found to be incorrect.
+**Score:** 8/10 | SK hynix validated a 256GB DDR5 module with Intel, resulting in up to 32.4W power savings per server, or millions of dollars per hyperscale data center.
 
-💡 *Rising memory prices force modular laptop maker Framework to reconsider its own pricing strategy.*
+💡 *A 256 GB DDR5 module could save hyperscale data centers millions of dollars on energy costs.*
 
-🔗 [Read More](https://www.tomshardware.com/laptops/framework-puts-dell-and-apple-on-blast-over-egregious-ram-prices-modular-laptop-maker-will-be-forced-to-increase-memory-prices-but-wont-gouge-customers-like-other-vendors)
+🔗 [Read More](https://www.tomshardware.com/pc-components/dram/intel-certified-256-gb-ddr5-stick-could-cut-xeon-memory-power-by-18-percent-saving-millions-of-dollars-a-32w-per-socket-reduction-could-save-millions-per-hyperscale-data-center)
+
+---
+
+### 8. Unreal Engine 5.7 brings significant improvements over the notoriously demanding 5.4 version, tester claims benchmark shows up to 25% GPU performance increase, 35% CPU boost ⭐⭐
+
+**Score:** 8/10 | Epic is making strides with Unreal Engine 5's development, fixing performance issues and improving visual fidelity without downsides.
+
+💡 *Epic's Unreal Engine 5.7 update addresses performance issues and improves visual fidelity significantly.*
+
+🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/unreal-engine-5-7-brings-significant-improvements-over-the-notoriously-demanding-5-4-version-tester-claims-benchmark-shows-up-to-25-percent-gpu-performance-increase-35-percent-cpu-boost)
+
+---
+
+### 9. TSMC brings its most advanced chipmaking node to the US yet, to begin equipment installation for 3mn months ahead of schedule ⭐⭐
+
+**Score:** 8/10 | TSMC's Arizona fab is on track for equipment move-in in mid-2026 and volume production in 2027.
+
+💡 *TSMC accelerates US chip production with its most advanced node ahead of initial schedule.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-brings-its-most-advanced-chipmaking-node-to-the-us-yet-to-begin-equipment-installation-for-3mn-months-ahead-of-schedule-arizona-fab-slated-for-production-in-2027)
+
+---
+
+### 10. Evidence of Intel's 'Big Battlemage' GPU continues to mount, as BMG-G31 chip gets another official confirmation ⭐⭐
+
+**Score:** 8/10 | Intel's 'Big Battlemage' GPU is likely to be released soon as the XPU Manager tool is used for monitoring their datacenter GPUs.
+
+💡 *Intel's 'Big Battlemage' GPU appears imminent, with XPU Manager tool confirming its existence.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/evidence-of-intels-big-battlemage-gpu-continues-to-mount-as-bmg-g31-chip-gets-another-official-confirmation)
+
+---
+
+### 11. Sales of chip production equipment to reach $156 billion by 2027   China, Taiwan, and Korea lead intense demand ⭐⭐
+
+**Score:** 8/10 | Sales of chip production equipment are projected to increase through 2027, driven by demand for AI and HPC accelerators, with Asian countries leading the pack.
+
+💡 *Sales of chip production equipment are expected to reach $156 billion by 2027.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/sales-of-chip-production-equipment-to-reach-usd156-billion-by-2027-china-taiwan-and-korea-lead-intense-demand)
+
+---
+
+### 12. Rapidus explores panel-level packaging on glass substrates for next-generation processors ⭐⭐
+
+**Score:** 8/10 | Rapidus plans to explore panel-level packaging using 600 600 mm glass substrates, aiming to leapfrog rivals by combining glass-core substrates and PLP for future AI and HPC chiplet packages.
+
+💡 *Rapidus aims to leapfrog rivals with innovative glass-core substrates and panel-level packaging.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-explores-panel-level-packaging-on-glass-substrates-for-next-generation-processors-aggressive-plan-would-help-it-leapfrog-rivals)
+
+---
+
+### 13. Kioxia's next-gen 3D NAND production gets expedited to 2026, report claims high-capacity 332-layer BiCS10 devices to sate growing demand from AI data centers ⭐⭐
+
+**Score:** 8/10 | Kioxia is reportedly accelerating the mass production of high-capacity BiCS10 3D NAND devices with a 4.8 GT/s interface from 2027 to 2026 to meet growing demand from AI, cloud, and enterprise storage sectors.
+
+💡 *Kioxia accelerates mass production of high-capacity 3D NAND devices to meet AI and cloud storage demand.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/kioxias-next-gen-3d-nand-production-gets-expedited-to-2026-report-claims-high-capacity-332-layer-bics10-devices-to-sate-growing-demand-from-ai-data-centers)
+
+---
+
+### 14. Maxell PSB2032 35 mAh all-solid-state coin cell battery targets industrial IoT devices ⭐⭐
+
+**Score:** 8/10 | Maxell's PSB2032 is a rechargeable all-solid-state coin cell battery for industrial IoT devices with a 35mAh capacity, delivering key benefits of solid-state batteries such as high reliability, safety, and a wide discharge temperature range.
+
+💡 *Maxell's PSB2032 solid-state coin cell battery addresses reliability and safety needs for industrial IoT devices.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/17/maxell-psb2032-35-mah-all-solid-state-coin-cell-battery-targets-industrial-iot-devices/)
+
+---
+
+### 15. Renesas RA6W1/RA6W2 Cortex-M33 wireless MCUs offer dual-band Wi-Fi 6, BLE, Matter, 15-year availability ⭐⭐
+
+**Score:** 8/10 | Renesas has added two new MCUs to its RA6 family with dual-band Wi-Fi 6, Bluetooth LE, and Matter connectivity, featuring a 160 MHz Arm Cortex-M33 core and various peripherals.
+
+💡 *Renesas introduces RA6W1/RA6W2 MCUs with dual-band Wi-Fi 6 and BLE for IoT applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/12/renesas-ra6w1-ra6w2-cortex-m33-wireless-mcus-offer-dual-band-wi-fi-6-ble-matter-15-year-availability/)
+
+---
+
+### 16. 42-year old QuickShot II joystick gets an era-appropriate revival ⭐⭐
+
+**Score:** 7/10 | The QuickShot II from the Commodore 64 era is getting a modern revival, with a mix of era-appropriate design and contemporary features.
+
+💡 *A classic 8-bit gaming peripheral gets a retro-futuristic revival with modern features blended in.*
+
+🔗 [Read More](https://www.tomshardware.com/video-games/retro-gaming/42-year-old-quickshot-ii-joystick-gets-an-era-appropriate-revival-iconic-joystick-is-the-perfect-companion-for-an-80s-retro-setup)
+
+---
+
+### 17. AMD's rumored Ryzen 7 9850X3D spotted at Swiss and U.S. retailers ⭐⭐
+
+**Score:** 7/10 | The Ryzen 7 9850X3D has been spotted at two retailers with prices suggesting it would cost between $550 to $600, which is higher than the 9800X3D's $449 MSRP.
+
+💡 *Ryzen 7 9850X3D's potential price increase may impact consumer purchasing decisions for upcoming gaming builds.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amds-upcoming-ryzen-7-9850x3d-spotted-at-swiss-and-u-s-retailers-listings-reveal-preliminary-price-of-usd550-600-significantly-higher-than-9800x3ds-usd449-msrp)
+
+---
+
+### 18. Radxa Dragon Q6A Arm SBC gets official Windows 11 preview ⭐⭐
+
+**Score:** 7/10 | Radxa has announced official Windows support for the Radxa Dragon Q6A Arm SBC, which comes with a Windows 11 preview image. The preview includes HDMI output, PCIe, NVMe storage, and USB support. However, network card drivers are not included.
+
+💡 *Radxa's Arm SBC now supports Windows 11, expanding Windows options for ARM-based single-board computers.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/18/radxa-dragon-q6a-arm-sbc-get-official-windows-11-preview/)
+
+---
+
+### 19. AMD's legacy Ryzen 7 5800X3D chips now sell for up to $800, more than a new 9800X3D   AM4 chip costs twice as much as MSRP, as enthusiasts flock to old DDR4 memory 
+
+**Score:** 6/10 | Demand for AMD's two-generation-old Ryzen 7 5800X3D has increased, causing second-hand prices to climb as high as $800 due to DDR5 memory price hikes.
+
+💡 *High demand for older Ryzen 7 5800X3D chips drives up prices amid DDR5 memory shortages.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amds-legacy-ryzen-7-5800x3d-chips-now-sell-for-up-to-usd800-more-than-a-new-9800x3d-am4-chip-costs-twice-as-much-as-msrp-as-enthusiasts-flock-to-old-ddr4-memory)
+
+---
+
+### 20. These 16 gadgets under $100 are must-haves for hobbyists and PC builders 
+
+**Score:** 6/10 | Get budget-friendly tech gifts for the tech-savvy with screwdrivers, M.2 SSD enclosures, and more, ready to wrap up and share.
+
+💡 *Budget-friendly tech gifts under $100 can elevate hobbyists' and PC builders' DIY projects.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/these-16-gadgets-under-usd100-are-must-haves-for-hobbyists-and-pc-builders-these-last-minute-tech-gifts-are-our-personal-picks-for-the-tech-savvy-on-your-gift-list)
 
 ---
 

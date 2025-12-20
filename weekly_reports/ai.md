@@ -1,235 +1,255 @@
 # 🤖 AI Weekly Report
-**Week of December 14, 2025**
+**Week of December 20, 2025**
 
 *Artificial Intelligence developments*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 21
-- **High Priority:** 20 articles (score ≥7)
-- **Average Importance:** 7.9/10
-- **Report Generated:** 2025-12-14 13:12
+- **Total Articles:** 23
+- **High Priority:** 21 articles (score ≥7)
+- **Average Importance:** 7.7/10
+- **Report Generated:** 2025-12-20 09:16
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. New app injects AMD's AI-driven FSR Redstone framegen into unsupported games ⭐⭐
+### 1. Samsung introduces SOCAMM2 LPDDR5X memory module for AI data centers ⭐⭐
 
 **Importance:** 8/10
 
-A Reddit user demonstrated AMD's new ML-powered FSR Redstone frame generation running in Monster Hunter Wilds, a game that never supported it. The pre-alpha OptiScaler build showed nice improvements over legacy FSR frame gen.
+Samsung has announced its SOCAMM2 LPDDR5-based memory module for AI data center platforms, offering reduced power consumption and double the bandwidth compared to DDR5 RDIMMs.
 
-💡 *AMD's FSR Redstone frame generation can now run in unsupported games with improved performance.*
+💡 *It enables AI data centers to reduce power consumption and increase bandwidth with SOCAMM2 LPDDR5X memory modules.*
 
-🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/community-mod-forces-amds-new-redstone-ml-frame-generation-into-older-fsr-games)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/samsung-introduces-socamm2-lpddr5x-memory-module-for-ai-data-centers)
 
 ---
 
-### 2. Nvidia details new software that enables location tracking for AI GPUs ⭐⭐
+### 2. Here's why HBM is coming for your PC's RAM ⭐⭐
 
 **Importance:** 8/10
 
-Nvidia's GPU fleet management software is optional for clients and includes features like power usage tracking, thermal monitoring, and location tracking of processors. The software can also detect hotspots, anomalies, and software errors. Clients can opt-in to remote data center GPU fleet management.
+AI's appetite for high-bandwidth memory is reshaping the global DRAM and NAND market, diverting wafer capacity and advanced packaging away from consumer products and driving sharp price increases across markets.
 
-💡 *Nvidia's software enables optional location tracking and remote management of AI GPUs in data centers.*
+💡 *HBM's growing demand is driving up global DRAM and NAND prices for consumers.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-details-new-software-that-enables-location-tracking-for-ai-gpus-opt-in-remote-data-center-gpu-fleet-management-includes-power-usage-and-thermal-monitoring)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ram/hbm-is-eating-your-ram)
 
 ---
 
-### 3. Rivian unveils its own in-house RAP1 AI chip and ACM3 self-driving platform automaker one-ups Tesla with LiDAR support ⭐⭐
+### 3. OpenAI's Stargate data center gets approval to receive 1.4 gigawatts of power in Michigan ⭐⭐
 
 **Importance:** 8/10
 
-Rivian has unveiled its ACM3 self-driving platform and RAP1 AI chip, which includes LiDAR support. This one-ups Tesla in the field of autonomous driving. The ACM3 module and RAP1 chip are both in-house developments from Rivian.
+The Michigan Public Service Commission approved a 1.4-gigawatt contract between DTE Energy and a Stargate data center, raising concerns about potential energy price spikes for local residents.
 
-💡 *Rivian's RAP1 AI chip and ACM3 module with LiDAR support one-up Tesla in autonomous driving technology.*
+💡 *Michigan residents may face potential energy price spikes with a 1.4-gigawatt data center approval.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/rivian-unveils-its-own-in-house-rap1-ai-chip-and-acm3-self-driving-platform-automaker-one-ups-tesla-with-lidar-support)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-stargate-data-center-gets-approval-to-receive-1-4-gigawatts-of-power-in-michigan-some-residents-furious-as-energy-company-is-given-go-ahead-by-regulatory-body-without-hearing-opposition)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Cambricon targets 500,000 AI chips in 2026 as China accelerates domestic hardware push ⭐⭐
+### 4. Huawei's AI chip capabilities still pale in comparison to American silicon report from U.S. council details that despite fears, Nvidia continues to lead by a wide margin ⭐⭐
 
-**Score:** 8/10 | Cambricon Technologies aims for a huge production ramp-up of 500,000 AI chips in 2026, but low yields and limited HBM supply might threaten their ambitions.
+**Score:** 8/10 | A new report concludes that Huawei's AI chip capabilities lag behind Nvidia's by a wide margin, and the gap is growing exponentially.
 
-💡 *Cambricon's ambitious AI chip production target may be hindered by manufacturing and supply chain challenges.*
+💡 *Huawei's AI chip capabilities significantly lag behind Nvidia's, widening a significant industry gap.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/cambricon-targets-500000-ai-chips-in-2026-as-china-accelerates-domestic-hardware-push)
-
----
-
-### 5. Outlet' RAM sold in Japan as new with huge markups, scuffed packaging Crucial DDR5-5600 64GB kit commands $600 overseas as AI shortage bites ⭐⭐
-
-**Score:** 8/10 | A Japanese retailer, Sofmap, is selling Crucial's Pro DDR5-5600 C46 64GB (2x32GB) memory kit for $602.74, taking advantage of the AI shortage.
-
-💡 *A Japanese retailer is exploiting the AI shortage by significantly marking up RAM kits for sale.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/ram/outlet-ram-sold-in-japan-as-new-with-huge-markups-scuffed-packaging-crucial-ddr5-5600-64gb-kit-commands-usd600-overseas-as-ai-shortage-bites)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/huawei-still-cant-match-nvidia-on-ai-chips-says-cfr-report)
 
 ---
 
-### 6. Microsoft, Google, OpenAI, and Anthropic join forces to form Agentic AI alliance, according to report ⭐⭐
+### 5. AI surpasses 2024 Bitcoin mining in energy usage, uses more H20 than the bottles of water people drink globally, study claims   says AI demand could hit 23GW and up to 764 billion liters of water in 2025 ⭐⭐
 
-**Score:** 8/10 | The world's leading AI firms are collaborating on a new Agentic Artificial Intelligence Foundation to build open standards around AI agents, focusing on three key open source tools.
+**Score:** 8/10 | A study finds that AI has surpassed Bitcoin and the bottled water industry in its use of resources, with other experts saying that the estimate is actually conservative.
 
-💡 *Leading AI companies are collaborating on open standards for AI agents through the Agentic AI Foundation.*
+💡 *AI's resource usage is surpassing that of Bitcoin and bottled water industries.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-google-openai-and-anthropic-join-forces-to-form-agentic-ai-alliance-according-to-report-organization-backed-by-the-linux-foundation-is-set-to-create-open-source-standards-for-ai-agents)
-
----
-
-### 7. Basement AI lab captures 10,000 hours of brain scans to train thought-to-text AI models ⭐⭐
-
-**Score:** 8/10 | Conduit has collected 10,000 hours of neural data from thousands of individuals over six months in a basement studio.
-
-💡 *Conduit's massive neural data collection may revolutionize thought-to-text AI models with unprecedented accuracy.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/basement-lab-produces-10000-hours-of-neural-data-for-thought-to-text-research)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
-### 8. China starts list of government-approved AI hardware suppliers: Cambricon and Huawei are in, Nvidia is not ⭐⭐
+### 6. Sales of chip production equipment to reach $156 billion by 2027   China, Taiwan, and Korea lead intense demand ⭐⭐
 
-**Score:** 8/10 | The Chinese government has added domestic AI hardware suppliers to the Information Technology Innovation List to accelerate deployment of domestic hardware. This move aims to boost the local AI industry. However, the question remains if the Chinese semiconductor industry can meet the needs of the domestic AI industry.
+**Score:** 8/10 | Sales of chip production equipment are projected to increase through 2027, driven by demand for AI and HPC accelerators, with Asian countries leading the pack.
 
-💡 *The Chinese government's move bolsters the local AI industry, but its semiconductor capabilities are uncertain.*
+💡 *Sales of chip production equipment are projected to reach $156 billion by 2027 driven by AI demand.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/china-starts-list-of-government-approved-ai-hardware-suppliers-cambricon-and-huawei-are-in-nvidia-is-not)
-
----
-
-### 9. The Nvidia H200 export saga, as it happened ⭐⭐
-
-**Score:** 8/10 | The U.S. government has approved the export of Nvidia's high-performance H200 AI chips to China, reinstating access.
-
-💡 *The U.S. government has reinstated access to Nvidia's high-performance AI chips for export to China.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/us-eases-nvidia-export-restrictions-h200-cleared-for-china-under-tight-controls)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/sales-of-chip-production-equipment-to-reach-usd156-billion-by-2027-china-taiwan-and-korea-lead-intense-demand)
 
 ---
 
-### 10. Nvidia decries 'far-fetched' reports of smuggling in face of DeepSeek training reports ⭐⭐
+### 7. Rapidus explores panel-level packaging on glass substrates for next-generation processors ⭐⭐
 
-**Score:** 8/10 | Nvidia denies involvement in a 'phantom data center' smuggling scheme to get Blackwell GPU servers into China for training its newest LLM generation, despite some evidence to the contrary.
+**Score:** 8/10 | Rapidus plans to explore panel-level packaging using 600 600 mm glass substrates, aiming to leapfrog rivals by combining glass-core substrates and PLP for future AI and HPC chiplet packages.
 
-💡 *Nvidia denies involvement in smuggling Blackwell GPUs to China for DeepSeek's LLM training.*
+💡 *Rapidus aims to advance next-gen processor packaging with glass substrates and PLP technology.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-decries-far-fetched-reports-of-smuggling-in-face-of-deepseek-training-reports-unnamed-sources-claim-chinese-company-is-involved-in-blackwell-smuggling-ring)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-explores-panel-level-packaging-on-glass-substrates-for-next-generation-processors-aggressive-plan-would-help-it-leapfrog-rivals)
 
 ---
 
-### 11. UP Xtreme ARL AI Dev Kit review: Benchmarks and AI workloads on an Intel Core Ultra 5 225H Arrow Lake SBC ⭐⭐
+### 8. Kioxia's next-gen 3D NAND production gets expedited to 2026, report claims high-capacity 332-layer BiCS10 devices to sate growing demand from AI data centers ⭐⭐
 
-**Score:** 8/10 | This review reports on the UP Xtreme ARL AI Dev Kit with a 14-core Intel Core Ultra 5 225H Arrow Lake single board computer, which delivers up to 83 TOPS of AI performance. The system runs Ubuntu 24.04 Pro and was tested with benchmarks and AI workloads using Nx Meta and the AAEON UP AI Toolkit. It is the third review in a series of Intel-based AI development kits.
+**Score:** 8/10 | Kioxia is reportedly accelerating the mass production of high-capacity BiCS10 3D NAND devices with a 4.8 GT/s interface from 2027 to 2026 to meet growing demand from AI, cloud, and enterprise storage sectors.
 
-💡 *The UP Xtreme ARL AI Dev Kit delivers exceptional AI performance with up to 83 TOPS on a single board.*
+💡 *Kioxia accelerates 3D NAND production to 2026 to meet growing demand from AI data centers.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/kioxias-next-gen-3d-nand-production-gets-expedited-to-2026-report-claims-high-capacity-332-layer-bics10-devices-to-sate-growing-demand-from-ai-data-centers)
+
+---
+
+### 9. Fanless Box PC features Intel Core Ultra 5/7/9  Arrow Lake  CPU with up to 36 TOPS for Edge AI applications ⭐⭐
+
+**Score:** 8/10 | AAEON BOXER-6648-ARS is a fanless embedded box PC with Intel Core Ultra 5/7/9 Arrow Lake CPU, up to 24 cores, 36 TOPS AI performance, and 35W or 65W TDP.
+
+💡 *This fanless box PC brings high-performance AI capabilities to edge deployments with up to 36 TOPS.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/19/fanless-box-pc-features-intel-core-ultra-5-7-9-arrow-lake-cpu-with-up-to-36-tops-for-edge-ai-applications/)
+
+---
+
+### 10. ESP32-P4 learning and prototyping kit features 7-inch touchscreen, comes with 16 modules and AI lessons ⭐⭐
+
+**Score:** 8/10 | The ESP32-P4 All-in-One Starter Kit is an open-source learning and prototyping platform based on the ESP32-P4 processor, offering AI, multimedia, and embedded features. It integrates a 7-inch touchscreen display, 2MP camera, and 16 built-in modules. Development is done in C using Espressif's ESP-IDF framework.
+
+💡 *The ESP32-P4 kit combines AI, multimedia, and embedded features in a single, open-source prototyping platform.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/19/esp32-p4-learning-and-prototyping-kit-features-7-inch-touchscreen-comes-with-16-modules-and-ai-lessons/)
+
+---
+
+### 11. Toradex Luna SL1680 A Pro Consumer Raspberry Pi lookalike based on Synaptics SL1680 Edge AI SoC ⭐⭐
+
+**Score:** 8/10 | Toradex Luna SL1680 is a credit card-sized single board computer with a Synaptics SL1680 quad-core Cortex-A73 SoC, built-in 7.9 TOPS NPU, and designed for pro consumer and light industrial Edge AI applications.
+
+💡 *The Toradex Luna SL1680 brings AI capabilities to pro consumer and light industrial Edge AI applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/18/toradex-luna-sl1680-a-pro-consumer-raspberry-pi-lookalike-based-on-synaptics-sl1680-edge-ai-soc/)
+
+---
+
+### 12. Fusion HAT+ Raspberry Pi expansion board targets motor and servo control with AI and LLMs ⭐⭐
+
+**Score:** 8/10 | The SunFounder Fusion HAT+ is a Raspberry Pi expansion board designed for motor and servo control with AI and LLMs, featuring 4 DC motor drivers, 12 PWM servo channels, and interfaces for sensors and voice interaction.
+
+💡 *The SunFounder Fusion HAT+ simplifies Raspberry Pi expansion for motor and AI control applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/17/fusion-hat-raspberry-pi-expansion-board-targets-motor-and-servo-control-with-ai-and-llms/)
+
+---
+
+### 13. Luckfox Aura  A Raspberry Pi-like Linux SBC powered by Rockchip RV1126B SoC with 3 TOPS NPU ⭐⭐
+
+**Score:** 8/10 | The Luckfox Aura is a compact Linux SBC with Rockchip's RV1126B quad-core Arm Cortex-A53 processor, 3 TOPS NPU, and AI vision, multimedia processing, and edge computing capabilities.
+
+💡 *The Luckfox Aura offers advanced AI capabilities at an edge computing-friendly price point.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/16/luckfox-aura-a-raspberry-pi-like-linux-sbc-powered-by-rockchip-rv1126b-soc-with-3-tops-npu/)
+
+---
+
+### 14. The ESP Private Agents platform aims to ease the development of ESP32-based AI voice assistants with on-device processing ⭐⭐
+
+**Score:** 8/10 | Espressif has introduced the ESP Private Agents platform to help developers build local AI assistants for ESP32 devices with on-device processing. It offers a unified framework for building applications combining speed, vision, automation, and agent-based interactions. The platform supports hybrid AI workloads and works with ESP32 devices, mobile apps, and web clients.
+
+💡 *Espressif introduces ESP Private Agents for local AI assistants on ESP32 devices with on-device processing capabilities.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/15/the-esp-private-agents-platform-aims-to-ease-the-development-of-esp32-based-ai-assistants-with-on-device-processing/)
+
+---
+
+### 15. Luxonis OAK4 standalone AI vision camera features Qualcomm QCS8550 SoC with up to 52 TOPS performance ⭐⭐
+
+**Score:** 8/10 | Luxonis OAK 4 is a standalone AI vision system/camera that offers up to 52 TOPS of AI performance with a 48 MP RGB camera sensor and various models with depth sensing capabilities.
+
+💡 *Luxonis OAK 4 introduces a powerful standalone AI vision camera with high performance capabilities.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/15/luxonis-oak4-standalone-ai-vision-camera-features-qualcomm-qcs8550-soc-with-up-to-52-tops-performance/)
+
+---
+
+### 16. UP Xtreme ARL AI Dev Kit review: Benchmarks and AI workloads on an Intel Core Ultra 5 225H Arrow Lake SBC ⭐⭐
+
+**Score:** 8/10 | The reviewer tested the high-end UP Xtreme ARL AI Dev Kit with a 14-core Intel Core Ultra 5 225H Arrow Lake single board computer, running Ubuntu 24.04 Pro and delivering up to 83 TOPS of AI performance. They ran benchmarks and AI workloads using Nx Meta and the AAEON UP AI Toolkit system. This was their first experience with the Intel Arrow Lake platform.
+
+💡 *The UP Xtreme ARL AI Dev Kit offers up to 83 TOPS AI performance on the Intel Core Ultra 5 225H Arrow Lake SBC.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/12/14/up-xtreme-arl-ai-dev-kit-review-benchmarks-and-ai-workloads-on-an-intel-core-ultra-5-225h-arrow-lake-sbc/)
 
 ---
 
-### 12. CIX releases P1 CPU TRM and developer guides for GPU, AI accelerator, OS and firmware/BIOS ⭐⭐
+### 17. AMD Ryzen Embedded 8840U COM Express Type 6 Compact module takes up to 128GB DDR5 ⭐⭐
 
-**Score:** 8/10 | CIX has released the technical reference manual for the P1 Arm Cortex-A720/A520 SoC, along with developer guides for GPU, AI accelerator, OS, and firmware. This marks a slow but steady progress in the open-source ecosystem. The P1 processor is expected to offer performance similar to Apple M1 and Qualcomm 8cx Gen3 platforms at an affordable price.
+**Score:** 8/10 | SolidRun has unveiled a new COM Express Type 6 Compact module powered by the AMD Ryzen Embedded 8840U Series with up to 39 TOPS of AI performance. It supports up to 128GB DDR5 of memory and features an Intel i226 2.5GbE controller. The module is ideal for industrial, medical, automation, and edge AI applications.
 
-💡 *CIX's P1 processor releases signal a shift in industry approach to open-source hardware.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/13/cix-releases-p1-cpu-trm-and-developer-guides-for-gpu-ai-accelerator-os-and-firmware-bios/)
-
----
-
-### 13. AMD Ryzen Embedded 8840U COM Express Type 6 Compact module takes up to 128GB DDR5 ⭐⭐
-
-**Score:** 8/10 | SolidRun has unveiled a new COM Express Type 6 Compact module powered by the AMD Ryzen Embedded 8840U Series with up to 39 TOPS of AI performance for industrial, medical, automation, and edge AI applications.
-
-💡 *This module brings high AI performance to compact, industrial-grade applications with up to 39 TOPS.*
+💡 *SolidRun's new module offers up to 128GB DDR5 memory and 39 TOPS AI performance.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/12/10/amd-ryzen-embedded-8840u-com-express-type-6-compact-module-takes-up-to-128gb-ddr5/)
 
 ---
 
-### 14. Radxa C200 Orin Developer Kit An NVIDIA Jetson Orin NX 8GB devkit with three M.2 PCIe 4.0 slots ⭐⭐
+### 18. REETLE SmartInk I   An AI-powered E-Ink phone case with voice recording (Crowdfunding) ⭐⭐
 
-**Score:** 8/10 | The Radxa C200 is a compact developer kit built around the NVIDIA Jetson Orin NX 8GB module, featuring high-speed storage expansion, fast-bootable SSDs, and data-intensive AI workloads.
+**Score:** 7/10 | The REETLE SmartInk I is a phone case with a touch-enabled E-Ink display and AI features, featuring a secondary screen for reading, recording voice, and displaying tasks. It has a 3.97-inch E-Ink touchscreen, AI-based transcription, and smart to-do display, synced to a companion mobile app via Bluetooth 5.0. It supports various phones and has military-grade drop protection.
 
-💡 *An AI-focused developer kit that combines high-speed storage with powerful NVIDIA Jetson Orin NX processing.*
+💡 *The REETLE SmartInk I offers an innovative phone case with E-Ink display and AI features.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/09/radxa-c200-orin-developer-kit-an-nvidia-jetson-orin-nx-8gb-devkit-with-three-m-2-pcie-4-0-slots/)
-
----
-
-### 15. NestDisk An Intel N150 NAS, mini PC, and AI Box with four M.2 PCIe slots ⭐⭐
-
-**Score:** 8/10 | NestDisk is an Intel N150 mini PC that can be used as a NAS or AI box, featuring four M.2 PCIe slots, 12GB LPDDR5 memory, and a 64GB eMMC flash.
-
-💡 *This compact device offers a versatile solution for NAS and AI applications in a small form factor.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/08/nestdisk-an-intel-n150-nas-mini-pc-and-ai-box-with-four-m-2-pcie-slots/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/18/reetle-smartink-i-an-ai-powered-e-ink-phone-case-with-voice-recording/)
 
 ---
 
-### 16. Quarky Intellio  A LEGO-compatible AI, Augmented Reality, and IoT learning platform (Crowdfunding) ⭐⭐
+### 19. Calixto Systems SL1680 OPTIMA industrial SoM and EVK features Synaptics SL1680 Edge AI processor ⭐⭐
 
-**Score:** 8/10 | Quarky Intellio is an ESP32-S3-based development kit compatible with LEGO bricks, designed for learning AI, AR, and IoT concepts.
+**Score:** 7/10 | Calixto Systems has introduced the SL1680 OPTIMA industrial SoM with a Synaptics SL1680 quad-core Arm Cortex-A73 SoC and an evaluation kit (EVK) for Edge AI and advanced multimedia applications.
 
-💡 *Integrates AI, AR, and IoT learning concepts through a LEGO-compatible, hands-on, and accessible development kit.*
+💡 *Calixto Systems brings Edge AI capabilities to industrial applications with the SL1680 OPTIMA SoM and EVK.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/08/quarky-intellio-lego-compatible-ai-augmented-reality-iot-learning-platform/)
-
----
-
-### 17. YumiAI: An AI-Native End-to-End Hardware Innovation Platform For Embedded Engineers (Sponsored) ⭐⭐
-
-**Score:** 8/10 | YumiAI is a multi-agent engineering stack that helps with custom board design by interpreting requirements, selecting components, generating circuit schematics, and validating ideas. It aims to simplify the hardware workflow process. This platform is currently in production-ready stage for market and business layers.
-
-💡 *YumiAI streamlines hardware workflow processes through AI-driven multi-agent engineering stack capabilities.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/08/yumiai-an-ai-native-end-to-end-hardware-innovation-platform-for-embedded-engineers/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/15/calixto-systems-sl1680-optima-industrial-som-and-evk-features-synaptics-sl1680-edge-ai-processor/)
 
 ---
 
-### 18. Edgi-Talk machine learning development kit features Infineon PSOC Edge E84 Edge AI SoC (Crowdfunding) ⭐⭐
+### 20. CIX releases P1 CPU TRM and developer guides for GPU, AI accelerator, OS and firmware/BIOS ⭐⭐
 
-**Score:** 8/10 | Edgi-Talk is a machine learning platform/development kit powered by the Infineon PSOC Edge E84 SoC, featuring Arm Helium and an ultra-low-power NNLite neural network accelerator. It comes with various sensors, a touchscreen display, and wireless connectivity for expansion. The devkit includes a Raspberry Pi header for further expansion.
+**Score:** 7/10 | CIX has released the technical reference manual for the P1 Arm Cortex-A720/A520 SoC, along with developer guides for GPU, AI accelerator, OS, and firmware/BIOS. The P1 processor was introduced on the Radxa Orion O6 mini-ITX motherboard with performance similar to Apple M1 SoC and Qualcomm 8cx Gen3 platform at an affordable price. This marks a slow but steady progress in the native open source ecosystem chip.
 
-💡 *Edgi-Talk devkit brings machine learning development to edge devices with a low-power, high-performance AI SoC.*
+💡 *Signals shift in industry approach to open-source hardware with affordable, high-performance chip options.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/05/edgi-talk-machine-learning-platform-features-infineon-psoc-edge-e84-soc/)
-
----
-
-### 19. MetaComputing AI PC with Framework Laptop 13 features CIX P1 12-core Arm processor with up to 45 TOPS ⭐⭐
-
-**Score:** 8/10 | MetaComputing has announced the MetaComputing AI PC with a 12-core Cortex-A720/A520 SoC and up to 45 TOPS, available in two models: Standard and Pro.
-
-💡 *MetaComputing AI PC brings high-performance AI capabilities to a compact and accessible PC form factor.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/04/metacomputing-ai-pc-with-framework-laptop-13-features-cix-p1-12-core-arm-processor-with-up-to-45-tops/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/13/cix-releases-p1-cpu-trm-and-developer-guides-for-gpu-ai-accelerator-os-and-firmware-bios/)
 
 ---
 
-### 20. UP Squared Pro TWL AI Dev Kit Review Intel N150 + Hailo-8L accelerator tested on Ubuntu 24.04 ⭐⭐
+### 21. UP Squared Pro TWL AI Dev Kit Review Intel N150 + Hailo-8L accelerator tested on Ubuntu 24.04 ⭐⭐
 
-**Score:** 7/10 | The reviewer tests the UP Squared Pro TWL AI devkit with an Intel N150 CPU and a Hailo-8L AI accelerator on Ubuntu 24.04, installing an NVMe SSD for expanded storage and running benchmarks.
+**Score:** 7/10 | The reviewer tested the UP Squared Pro TWL AI devkit with an Intel N150 CPU and a 13 TOPS Hailo-8L M.2 AI accelerator, running Ubuntu 24.04 Pro. They found that the 64GB eMMC storage was tight, so they installed an NVMe SSD to expand storage. The reviewer plans to run benchmarks and test AI workloads.
 
-💡 *This article highlights the UP Squared Pro TWL's AI performance under Ubuntu 24.04 with Hailo-8L acceleration.*
+💡 *The UP Squared Pro TWL AI devkit provides a cost-effective AI acceleration solution for edge deployments.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/12/11/up-squared-pro-twl-ai-dev-kit-review-intel-n150-hailo-8l-accelerator-tested-on-ubuntu-24-04/)
 
 ---
 
-### 21. Oracle reportedly delays several new OpenAI data centers because of shortages  tight material and labor supply frustrate expansion plans, possibly by a year or more 
+### 22. LG responds swiftly to user backlash, will allow users to remove Microsoft Copilot link from TVs 
 
-**Score:** 6/10 | Oracle delays some of the OpenAI data centers from 2027 to 2028 due to labor and materials shortages.
+**Score:** 6/10 | LG has clarified that Microsoft Copilot is not an app that can be removed, but users will be able to remove it in a future update via a tile removal option on the webOS.
 
-💡 *Oracle's delays for OpenAI data centers highlight ongoing labor and material supply chain challenges.*
+💡 *LG will allow users to remove Microsoft Copilot link from TVs via a future webOS update.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/oracle-reportedly-delays-several-new-openai-data-centers-because-of-shortages-tight-material-and-labor-supply-frustrate-expansion-plans-possibly-by-a-year-or-more)
+🔗 [Read More](https://www.tomshardware.com/monitors/televisions/lg-says-microsoft-copilot-on-webos-tvs-is-a-browser-shortcut-not-a-built-in-app)
+
+---
+
+### 23. How to choose a CPU   A guide to picking the right processor for your PC 
+
+**Score:** 6/10 | Choosing the right CPU is a crucial decision when building a PC. Consider factors such as performance, power consumption, and compatibility. With so many options available, it can be a tough choice.
+
+💡 *Selecting the right CPU can significantly impact the overall performance and efficiency of your PC.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/cpu-buying-guide)
 
 ---
 

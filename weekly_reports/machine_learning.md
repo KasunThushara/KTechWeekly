@@ -1,105 +1,85 @@
 # 🧠 Machine Learning Weekly Report
-**Week of December 14, 2025**
+**Week of December 20, 2025**
 
 *ML algorithms and research*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 8
-- **High Priority:** 8 articles (score ≥7)
-- **Average Importance:** 7.9/10
-- **Report Generated:** 2025-12-14 13:12
+- **Total Articles:** 6
+- **High Priority:** 5 articles (score ≥7)
+- **Average Importance:** 7.7/10
+- **Report Generated:** 2025-12-20 09:16
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. New app injects AMD's AI-driven FSR Redstone framegen into unsupported games ⭐⭐
+### 1. Here's why HBM is coming for your PC's RAM ⭐⭐
 
 **Importance:** 8/10
 
-A Reddit user demonstrated AMD's new ML-powered FSR Redstone frame generation running in Monster Hunter Wilds, a game that never supported it. The pre-alpha OptiScaler build showed nice improvements over legacy FSR frame gen.
+AI's appetite for high-bandwidth memory is reshaping the global DRAM and NAND market, diverting wafer capacity and advanced packaging away from consumer products and driving sharp price increases across markets.
 
-💡 *AMD's AI-driven FSR Redstone frame generation can be injected into unsupported games, improving performance.*
+💡 *AI's appetite for HBM is reshaping the global DRAM and NAND market, driving price increases.*
 
-🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/community-mod-forces-amds-new-redstone-ml-frame-generation-into-older-fsr-games)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ram/hbm-is-eating-your-ram)
 
 ---
 
-### 2. Rivian unveils its own in-house RAP1 AI chip and ACM3 self-driving platform automaker one-ups Tesla with LiDAR support ⭐⭐
+### 2. Fusion HAT+ Raspberry Pi expansion board targets motor and servo control with AI and LLMs ⭐⭐
 
 **Importance:** 8/10
 
-Rivian has unveiled its ACM3 self-driving platform and RAP1 AI chip, which includes LiDAR support. This one-ups Tesla in the field of autonomous driving. The ACM3 module and RAP1 chip are both in-house developments from Rivian.
+The SunFounder Fusion HAT+ is a Raspberry Pi expansion board designed for motor and servo control with AI and LLMs, featuring 4 DC motor drivers, 12 PWM servo channels, and interfaces for sensors and voice interaction.
 
-💡 *Rivian's ACM3 platform and RAP1 AI chip with LiDAR support one-up Tesla in autonomy capabilities.*
+💡 *The SunFounder Fusion HAT+ brings AI and LLM capabilities to motor and servo control for Raspberry Pi projects.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/rivian-unveils-its-own-in-house-rap1-ai-chip-and-acm3-self-driving-platform-automaker-one-ups-tesla-with-lidar-support)
+🔗 [Read More](https://www.cnx-software.com/2025/12/17/fusion-hat-raspberry-pi-expansion-board-targets-motor-and-servo-control-with-ai-and-llms/)
 
 ---
 
-### 3. Microsoft, Google, OpenAI, and Anthropic join forces to form Agentic AI alliance, according to report ⭐⭐
+### 3. The ESP Private Agents platform aims to ease the development of ESP32-based AI voice assistants with on-device processing ⭐⭐
 
 **Importance:** 8/10
 
-The world's leading AI firms are collaborating on a new Agentic Artificial Intelligence Foundation to build open standards around AI agents, focusing on three key open source tools.
+Espressif has introduced the ESP Private Agents platform to help developers build local AI assistants for ESP32 devices with on-device processing. It offers a unified framework for building applications combining speed, vision, automation, and agent-based interactions. The platform supports hybrid AI workloads and works with ESP32 devices, mobile apps, and web clients.
 
-💡 *Leading AI firms collaborate on open standards for AI agents through the Agentic AI Foundation.*
+💡 *Espressif's ESP Private Agents platform simplifies development of local AI voice assistants for ESP32 devices.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-google-openai-and-anthropic-join-forces-to-form-agentic-ai-alliance-according-to-report-organization-backed-by-the-linux-foundation-is-set-to-create-open-source-standards-for-ai-agents)
+🔗 [Read More](https://www.cnx-software.com/2025/12/15/the-esp-private-agents-platform-aims-to-ease-the-development-of-esp32-based-ai-assistants-with-on-device-processing/)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Nvidia decries 'far-fetched' reports of smuggling in face of DeepSeek training reports ⭐⭐
+### 4. Luxonis OAK4 standalone AI vision camera features Qualcomm QCS8550 SoC with up to 52 TOPS performance ⭐⭐
 
-**Score:** 8/10 | Nvidia denies involvement in a 'phantom data center' smuggling scheme to get Blackwell GPU servers into China for training its newest LLM generation, despite some evidence to the contrary.
+**Score:** 8/10 | Luxonis OAK 4 is a standalone AI vision system/camera that offers up to 52 TOPS of AI performance with a 48 MP RGB camera sensor and various models with depth sensing capabilities.
 
-💡 *Nvidia denies involvement in smuggling Blackwell GPU servers to China for AI model training.*
+💡 *Luxonis OAK 4 introduces a high-performance standalone AI vision system for edge applications.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-decries-far-fetched-reports-of-smuggling-in-face-of-deepseek-training-reports-unnamed-sources-claim-chinese-company-is-involved-in-blackwell-smuggling-ring)
-
----
-
-### 5. UP Squared Pro TWL AI Dev Kit Review Intel N150 + Hailo-8L accelerator tested on Ubuntu 24.04 ⭐⭐
-
-**Score:** 8/10 | The reviewer tests the UP Squared Pro TWL AI devkit with an Intel N150 CPU and a Hailo-8L AI accelerator on Ubuntu 24.04, installing an NVMe SSD for expanded storage and running benchmarks.
-
-💡 *This review tests a cutting-edge AI development kit for edge computing and AI inference performance.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/11/up-squared-pro-twl-ai-dev-kit-review-intel-n150-hailo-8l-accelerator-tested-on-ubuntu-24-04/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/15/luxonis-oak4-standalone-ai-vision-camera-features-qualcomm-qcs8550-soc-with-up-to-52-tops-performance/)
 
 ---
 
-### 6. Quarky Intellio  A LEGO-compatible AI, Augmented Reality, and IoT learning platform (Crowdfunding) ⭐⭐
+### 5. AMD Ryzen Embedded 8840U COM Express Type 6 Compact module takes up to 128GB DDR5 ⭐⭐
 
-**Score:** 8/10 | Quarky Intellio is an ESP32-S3-based development kit compatible with LEGO bricks, designed for learning AI, AR, and IoT concepts.
+**Score:** 8/10 | SolidRun has unveiled a new COM Express Type 6 Compact module powered by the AMD Ryzen Embedded 8840U Series with up to 39 TOPS of AI performance. It supports up to 128GB DDR5 of memory and features an Intel i226 2.5GbE controller. The module is ideal for industrial, medical, automation, and edge AI applications.
 
-💡 *Quarky Intellio brings AI, AR, and IoT learning concepts to students through LEGO-compatible, hands-on development kits.*
+💡 *SolidRun's AMD Ryzen Embedded module offers high AI performance and large memory capacity for edge applications.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/08/quarky-intellio-lego-compatible-ai-augmented-reality-iot-learning-platform/)
-
----
-
-### 7. Edgi-Talk machine learning development kit features Infineon PSOC Edge E84 Edge AI SoC (Crowdfunding) ⭐⭐
-
-**Score:** 8/10 | Edgi-Talk is a machine learning platform/development kit powered by the Infineon PSOC Edge E84 SoC, featuring Arm Helium and an ultra-low-power NNLite neural network accelerator. It comes with various sensors, a touchscreen display, and wireless connectivity for expansion. The devkit includes a Raspberry Pi header for further expansion.
-
-💡 *This article highlights the launch of Edgi-Talk, a machine learning devkit for edge AI applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/05/edgi-talk-machine-learning-platform-features-infineon-psoc-edge-e84-soc/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/10/amd-ryzen-embedded-8840u-com-express-type-6-compact-module-takes-up-to-128gb-ddr5/)
 
 ---
 
-### 8. Basement AI lab captures 10,000 hours of brain scans to train thought-to-text AI models ⭐⭐
+### 6. How to choose a CPU   A guide to picking the right processor for your PC 
 
-**Score:** 7/10 | Conduit has collected 10,000 hours of neural data from thousands of individuals over six months in a basement studio.
+**Score:** 6/10 | Choosing the right CPU is a crucial decision when building a PC. Consider factors such as performance, power consumption, and compatibility. With so many options available, it can be a tough choice.
 
-💡 *Conduit gathers 10,000 hours of neural data to train groundbreaking thought-to-text AI models.*
+💡 *Choosing the right CPU can significantly impact your PC's overall performance and cost-effectiveness.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/basement-lab-produces-10000-hours-of-neural-data-for-thought-to-text-research)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/cpu-buying-guide)
 
 ---
 
