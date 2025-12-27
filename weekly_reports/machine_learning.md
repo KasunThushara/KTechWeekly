@@ -1,85 +1,95 @@
 # 🧠 Machine Learning Weekly Report
-**Week of December 20, 2025**
+**Week of December 27, 2025**
 
 *ML algorithms and research*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 6
-- **High Priority:** 5 articles (score ≥7)
-- **Average Importance:** 7.7/10
-- **Report Generated:** 2025-12-20 09:16
+- **Total Articles:** 7
+- **High Priority:** 7 articles (score ≥7)
+- **Average Importance:** 7.9/10
+- **Report Generated:** 2025-12-27 09:30
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Here's why HBM is coming for your PC's RAM ⭐⭐
+### 1. Elon Musk says xAI will have more AI compute than everyone else combined within five years  Macrohard-branded Colossus 2 data center a nod to Musk's AI project to challenge Microsoft ⭐⭐
 
 **Importance:** 8/10
 
-AI's appetite for high-bandwidth memory is reshaping the global DRAM and NAND market, diverting wafer capacity and advanced packaging away from consumer products and driving sharp price increases across markets.
+Elon Musk claimed on X that xAI will have more computing power than everyone else combined in less than five years.
 
-💡 *AI's appetite for HBM is reshaping the global DRAM and NAND market, driving price increases.*
+💡 *Elon Musk predicts xAI will surpass the combined AI computing power of all other entities.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ram/hbm-is-eating-your-ram)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-xai-will-have-more-ai-compute-than-everyone-else-combined-within-five-years-macrohard-branding-emblazoned-on-the-roof-of-the-colossus-2-data-center-in-nod-to-the-billionaires-ai-project-to-challenge-microsoft)
 
 ---
 
-### 2. Fusion HAT+ Raspberry Pi expansion board targets motor and servo control with AI and LLMs ⭐⭐
+### 2. Firefly CAM-3576 series Tiny Rockchip RK3576 SBCs for commercial, industrial, and automotive applications ⭐⭐
 
 **Importance:** 8/10
 
-The SunFounder Fusion HAT+ is a Raspberry Pi expansion board designed for motor and servo control with AI and LLMs, featuring 4 DC motor drivers, 12 PWM servo channels, and interfaces for sensors and voice interaction.
+Firefly Technology has introduced the CAM-3576 series of tiny SBCs based on the Rockchip RK3576 processor for AIoT, edge AI, and industrial applications. It comes in three variants for smart cameras, intelligent security systems, and private on-device AI model deployment. The boards support up to 16GB of LPDDR5 RAM and various interfaces.
 
-💡 *The SunFounder Fusion HAT+ brings AI and LLM capabilities to motor and servo control for Raspberry Pi projects.*
+💡 *Firefly Technology introduces compact Rockchip RK3576 SBCs for AIoT and edge AI applications.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/17/fusion-hat-raspberry-pi-expansion-board-targets-motor-and-servo-control-with-ai-and-llms/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/24/firefly-cam-3576-series-tiny-rockchip-rk3576-sbcs-for-commercial-industrial-and-automotive-applications/)
 
 ---
 
-### 3. The ESP Private Agents platform aims to ease the development of ESP32-based AI voice assistants with on-device processing ⭐⭐
+### 3. Auvidea X242 An NVIDIA Jetson Thor T5000 industrial carrier board with dual 10GbE, PCIe x16, CSI-2 camera support ⭐⭐
 
 **Importance:** 8/10
 
-Espressif has introduced the ESP Private Agents platform to help developers build local AI assistants for ESP32 devices with on-device processing. It offers a unified framework for building applications combining speed, vision, automation, and agent-based interactions. The platform supports hybrid AI workloads and works with ESP32 devices, mobile apps, and web clients.
+Auvidea X242 is an industrial carrier board for NVIDIA's Jetson Thor T5000 module, targeting edge AI, robotics, vision, and high-bandwidth embedded systems. It supports dual 10GbE, PCIe x16 expansion, and multiple cameras through a 16-lane CSI-2 camera connector.
 
-💡 *Espressif's ESP Private Agents platform simplifies development of local AI voice assistants for ESP32 devices.*
+💡 *This carrier board offers high-bandwidth connectivity for edge AI, robotics, and vision applications.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/15/the-esp-private-agents-platform-aims-to-ease-the-development-of-esp32-based-ai-assistants-with-on-device-processing/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/23/auvidea-x242-an-nvidia-jetson-thor-t5000-industrial-carrier-board-with-dual-10gbe-pcie-x16-csi-2-camera-support/)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Luxonis OAK4 standalone AI vision camera features Qualcomm QCS8550 SoC with up to 52 TOPS performance ⭐⭐
+### 4. HackyPi 2.0 hacking tool gets ESP32-S3 for Wi-Fi and Bluetooth connectivity (Crowdfunding) ⭐⭐
 
-**Score:** 8/10 | Luxonis OAK 4 is a standalone AI vision system/camera that offers up to 52 TOPS of AI performance with a 48 MP RGB camera sensor and various models with depth sensing capabilities.
+**Score:** 8/10 | HackyPi 2.0 is an ESP32-S3-based USB hacking and automation tool that adds Wi-Fi and Bluetooth connectivity, remote access, AI integration, and more.
 
-💡 *Luxonis OAK 4 introduces a high-performance standalone AI vision system for edge applications.*
+💡 *HackyPi 2.0 brings advanced remote-access capabilities to USB hacking and automation tools.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/15/luxonis-oak4-standalone-ai-vision-camera-features-qualcomm-qcs8550-soc-with-up-to-52-tops-performance/)
-
----
-
-### 5. AMD Ryzen Embedded 8840U COM Express Type 6 Compact module takes up to 128GB DDR5 ⭐⭐
-
-**Score:** 8/10 | SolidRun has unveiled a new COM Express Type 6 Compact module powered by the AMD Ryzen Embedded 8840U Series with up to 39 TOPS of AI performance. It supports up to 128GB DDR5 of memory and features an Intel i226 2.5GbE controller. The module is ideal for industrial, medical, automation, and edge AI applications.
-
-💡 *SolidRun's AMD Ryzen Embedded module offers high AI performance and large memory capacity for edge applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/10/amd-ryzen-embedded-8840u-com-express-type-6-compact-module-takes-up-to-128gb-ddr5/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/23/hackypi-2-0-hacking-tool-esp32-s3-for-wi-fi-and-bluetooth-connectivity/)
 
 ---
 
-### 6. How to choose a CPU   A guide to picking the right processor for your PC 
+### 5. ESP32-P4 learning and prototyping kit features 7-inch touchscreen, comes with 16 modules and AI lessons ⭐⭐
 
-**Score:** 6/10 | Choosing the right CPU is a crucial decision when building a PC. Consider factors such as performance, power consumption, and compatibility. With so many options available, it can be a tough choice.
+**Score:** 8/10 | The Elecrow All-in-One Starter Kit for ESP32-P4 is an open-source learning and prototyping platform that integrates AI, multimedia, and embedded features in a single kit, ideal for students, educational institutions, and developers.
 
-💡 *Choosing the right CPU can significantly impact your PC's overall performance and cost-effectiveness.*
+💡 *This kit provides an affordable, open-source platform for AI and multimedia development and prototyping.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/cpu-buying-guide)
+🔗 [Read More](https://www.cnx-software.com/2025/12/19/esp32-p4-learning-and-prototyping-kit-features-7-inch-touchscreen-comes-with-16-modules-and-ai-lessons/)
+
+---
+
+### 6. Fusion HAT+ Raspberry Pi expansion board targets motor and servo control with AI and LLMs ⭐⭐
+
+**Score:** 8/10 | The SunFounder Fusion HAT+ is a motor control and GPIO expansion board for Raspberry Pi that features motor drivers, servo channels, and interfaces for sensors, with support for LLMs like ChatGPT and a built-in speaker and microphone.
+
+💡 *A Raspberry Pi expansion board offers AI and motor control capabilities with built-in audio interfaces.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/17/fusion-hat-raspberry-pi-expansion-board-targets-motor-and-servo-control-with-ai-and-llms/)
+
+---
+
+### 7. ESP32-S3 AIoT Basic A learning and prototyping kit with camera, audio, LCD, and sensors ⭐⭐
+
+**Score:** 7/10 | The ESP32-S3 AIoT Basic is a low-cost, learning, and prototyping kit for the ESP32-S3, integrating common AIoT peripherals directly onto a single PCB. It supports 5V power via USB-C and 6 12V power input via Vin for driving additional devices. The board is suitable for AIoT learning, STEM education, voice and vision demos, sensor-based projects, and quick proof-of-concept development.
+
+💡 *It integrates common AIoT peripherals onto a single PCB for low-cost prototyping and development.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/22/esp32-s3-aiot-basic-a-learning-and-prototyping-kit-with-camera-audio-lcd-and-sensors/)
 
 ---
 

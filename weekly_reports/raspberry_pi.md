@@ -1,15 +1,15 @@
 # 🍓 Raspberry Pi Weekly Report
-**Week of December 20, 2025**
+**Week of December 27, 2025**
 
 *Raspberry Pi projects*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 5
-- **High Priority:** 3 articles (score ≥7)
-- **Average Importance:** 7.2/10
-- **Report Generated:** 2025-12-20 09:16
+- **Total Articles:** 7
+- **High Priority:** 5 articles (score ≥7)
+- **Average Importance:** 7.1/10
+- **Report Generated:** 2025-12-27 09:30
 
 ---
 
@@ -19,9 +19,9 @@
 
 **Importance:** 8/10
 
-Toradex Luna SL1680 is a credit card-sized single board computer with a Synaptics SL1680 quad-core Cortex-A73 SoC, built-in 7.9 TOPS NPU, and designed for pro consumer and light industrial Edge AI applications.
+The Toradex Luna SL1680 is a credit card-sized single board computer inspired by Raspberry Pi 5 design, powered by Synaptics SL1680 SoC for Edge AI applications, and features various ports including Gigabit Ethernet and USB 3.0.
 
-💡 *It provides a compact, AI-capable Edge computing solution for pro consumer and industrial applications.*
+💡 *The Toradex Luna SL1680 offers a compact Edge AI solution for consumers and developers alike.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/12/18/toradex-luna-sl1680-a-pro-consumer-raspberry-pi-lookalike-based-on-synaptics-sl1680-edge-ai-soc/)
 
@@ -31,45 +31,65 @@ Toradex Luna SL1680 is a credit card-sized single board computer with a Synaptic
 
 **Importance:** 8/10
 
-The SunFounder Fusion HAT+ is a Raspberry Pi expansion board designed for motor and servo control with AI and LLMs, featuring 4 DC motor drivers, 12 PWM servo channels, and interfaces for sensors and voice interaction.
+The SunFounder Fusion HAT+ is a motor control and GPIO expansion board for Raspberry Pi that features motor drivers, servo channels, and interfaces for sensors, with support for LLMs like ChatGPT and a built-in speaker and microphone.
 
-💡 *The SunFounder Fusion HAT+ offers a comprehensive platform for motor and servo control with AI and LLMs integration.*
+💡 *The SunFounder Fusion HAT+ offers seamless AI and motor control integration for Raspberry Pi applications.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/12/17/fusion-hat-raspberry-pi-expansion-board-targets-motor-and-servo-control-with-ai-and-llms/)
 
 ---
 
-### 3. 52Pi UPS Gen 6 UPS for Raspberry Pi 4/5 supports up to 4x external battery packs, PikaPython scripting ⭐⭐
+### 3. Luckfox Aura A Raspberry Pi-like Linux SBC powered by Rockchip RV1126B SoC with 3 TOPS NPU ⭐⭐
 
 **Importance:** 8/10
 
-The 52Pi UPS Gen 6 is a UPS solution for Raspberry Pi 4/5 with external battery packs, I2C, and PikaPython scripting for power management and safe shutdowns. It features a physical power button, 12V power interface, and switching hardware for bumpless power transfer. The board also includes an aluminum heatsink with an automatic fan for cooling.
+The Luckfox Aura is a high-performance Linux SBC with Rockchip RV1126B SoC, 3 TOPS NPU, and AI vision, multimedia processing capabilities. It has 4 GB LPDDR4X memory, 64 GB eMMC storage, and supports camera, display, and I/O options. The board also features Gigabit Ethernet, Wi-Fi 6, Bluetooth 5.4, and a 40-pin GPIO header.
 
-💡 *A dedicated UPS solution for Raspberry Pi boards enables safe power management and shutdowns.*
+💡 *The Luckfox Aura offers a high-performance Linux SBC for AI and multimedia applications on a budget-friendly platform.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/10/52pi-ups-gen-6-ups-raspberry-pi-hat-supports-up-to-4x-external-battery-packs-pikapython-scripting/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/16/luckfox-aura-a-raspberry-pi-like-linux-sbc-powered-by-rockchip-rv1126b-soc-with-3-tops-npu/)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Raspberry Pi RP2350 devkit features 1.85-inch round touch display, microphone, optional speaker and battery box 
+### 4. CrowPi 3 AI Learning Kit is powered by a Raspberry Pi 5 SBC, works with Arduino Nano, BBC Micro:bit, and Raspberry Pi Pico boards ⭐⭐
 
-**Score:** 6/10 | The Waveshare RP2350-Touch-LCD-1.85C is a Raspberry Pi RP2350 devkit with a 1.85-inch round touchscreen display and a built-in microphone. It also comes with optional speaker and battery box. The devkit can be used for HMI solutions with various input and output options.
+**Score:** 7/10 | Elecrow CrowPi 3 is an AI learning kit featuring 41 built-in modules, over 150 lessons, and compatibility with Raspberry Pi 5, Arduino Nano, and BBC Micro:bit boards.
 
-💡 *This devkit offers a compact, versatile solution for HMI applications with various input and output options.*
+💡 *The CrowPi 3 AI learning kit offers a comprehensive platform for AI education and development.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/24/crowpi-3-ai-learning-kit-is-powered-by-a-raspberry-pi-5-sbc-works-with-arduino-nano-bbc-microbit-and-raspberry-pi-pico-boards/)
+
+---
+
+### 5. Raspberry Pi RP2350 devkit features 1.85-inch round touch display, microphone, optional speaker and battery box ⭐⭐
+
+**Score:** 7/10 | The RP2350-Touch-LCD-1.85C is a Raspberry Pi RP2350 devkit with a 1.85-inch round touchscreen display, microphone, and optional speaker and battery box. It features 2x Arm Cortex-M33 cores, 2x Hazard3 RISC-V cores, 520KB SRAM, and 16MB SPI NOR flash storage. It can be used for HMI solutions with touch, button, and voice recognition inputs, as well as display and audio outputs.
+
+💡 *The RP2350 devkit expands Raspberry Pi's ecosystem with multi-core processors and HMI capabilities.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/12/19/raspberry-pi-rp2350-devkit-features-1-85-inch-round-touch-display-microphone-optional-speaker-and-battery-box/)
 
 ---
 
-### 5. iWave Systems iG-RainboW-G69M TI AM62L OSM Size-S system-on-module powers Raspberry Pi-sized SBC 
+### 6. 4-inch round HDMI display offers USB touchscreen for Raspberry Pi, AIDA64, Smart Home, Art projects 
 
-**Score:** 6/10 | The iWave Systems iG-RainboW-G69M is a 30x30mm CPU module based on the Texas Instruments AM62L dual-core Cortex-A53 SoC for low-power IoT and HMI applications.
+**Score:** 6/10 | VIEWE has launched a 4-inch round HDMI display with 720x720 resolution, and a USB touchscreen function suitable for various applications. It features a MIPI DSI display interface, HDMI 1.4 input, and a USB Type-C port for power and touch input. The display is compatible with SBCs like Raspberry Pi and PCs running AIDA64.
 
-💡 *The iWave Systems iG-RainboW-G69M module offers a low-power SoC solution for IoT and HMI applications.*
+💡 *VIEWE's 4-inch round HDMI display expands touch-enabled display options for various Raspberry Pi and PC applications.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/11/iwave-systems-ig-rainbow-g69m-ti-am62l-osm-size-s-system-on-module-powers-raspberry-pi-sized-sbc/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/23/4-inch-round-hdmi-display-offers-usb-touchscreen-for-raspberry-pi-aida64-smart-home-art-projects/)
+
+---
+
+### 7. Do you need 14 USB ports on your Raspberry Pi 5? 
+
+**Score:** 6/10 | The Suptronics X1013 expansion board for the Raspberry Pi 5 adds ten USB ports, four USB 3.0 ports, and six USB 2.0 ports.
+
+💡 *The Suptronics X1013 expansion board significantly increases Raspberry Pi 5's USB port count and capabilities.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/20/do-you-need-14-usb-ports-on-your-raspberry-pi-5/)
 
 ---
 

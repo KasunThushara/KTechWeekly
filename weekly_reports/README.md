@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of December 20, 2025**
+**Week of December 27, 2025**
 
 Your curated weekly roundup of the most important tech news in AI, hardware, and edge computing.
 
@@ -7,132 +7,128 @@ Your curated weekly roundup of the most important tech news in AI, hardware, and
 
 ## 📈 This Week's Highlights
 
-### 1. New Texas Instruments fab will pump out tens of millions of chips per day   first 300mm fab starts production after $60 billion investment ⭐⭐⭐
-
-**⚡ Semiconductors** | Importance: 9/10
-
-Texas Instruments has started producing 300mm wafers at its new Sherman, Texas mega-site, capable of outputting tens of millions of chips per day.
-
-💡 **Key Takeaway:** Texas Instruments' new Sherman fab is expected to significantly boost global semiconductor production capacity.
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/new-texas-instruments-fab-will-pump-out-tens-of-millions-of-chips-per-day-first-300mm-fab-starts-production-after-usd60-billion-investment)
-
----
-
-### 2. Intel details progress on fabbing 2D transistors a few atoms thick in standard high volume fab production environment ⭐⭐⭐
-
-**⚡ Semiconductors** | Importance: 9/10
-
-Intel and imec demonstrate the first 300-mm, fab-compatible integration of contacts and gate stacks for 2D transistors, marking a critical step towards turning 2D materials into a future option for high-volume logic manufacturing.
-
-💡 **Key Takeaway:** Intel and imec make significant progress towards high-volume production of 2D transistors in standard fabs.
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-shows-300-mm-fab-compatible-integration-of-2d-transistor-contacts-and-gate-stacks)
-
----
-
-### 3. Intel installs industry's first commercial High-NA EUV lithography tool ⭐⭐⭐
-
-**⚡ Semiconductors** | Importance: 9/10
-
-Intel has installed ASML's TWINSCAN EXE:5200B, the first High-NA EUV lithography tool for commercial production, setting the stage for 14A process technology.
-
-💡 **Key Takeaway:** Intel installs first commercial High-NA EUV lithography tool, paving way for 14A process technology.
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-industrys-first-commercial-high-na-euv-lithography-tool-asml-twinscan-exe-5200b-sets-the-stage-for-14a)
-
----
-
-### 4. Here's why HBM is coming for your PC's RAM ⭐⭐⭐
+### 1. 52 years later, only known copy of Unix v4 recovered from randomly found tape, now up and running on a system first OS version with kernel and core utilities written in C ⭐⭐⭐
 
 **🔧 Hardware** | Importance: 9/10
 
-AI's appetite for high-bandwidth memory is reshaping the global DRAM and NAND market, diverting wafer capacity and advanced packaging away from consumer products and driving sharp price increases across markets.
+The only known complete copy of Unix v4 has been recovered from a tape found at the University of Utah.
 
-💡 **Key Takeaway:** High-bandwidth memory demand is reshaping the global DRAM and NAND market, driving price increases.
+💡 **Key Takeaway:** The recovery of Unix v4 provides a rare glimpse into early Unix development and evolution.
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/hbm-is-eating-your-ram)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/unix-v4-recovered-from-randomly-found-tape-at-university-of-utah-only-known-copy-of-first-os-version-with-kernel-and-core-utilities-written-in-c)
 
 ---
 
-### 5. Windows Server 2025 gains native NVMe support, 14 years after its introduction  groundbreaking I/O stack drops SCSI emulation limitations for massive throughput and CPU efficiency gains ⭐⭐⭐
+### 2. Intel displays tech to build extreme multi-chiplet packages 12 times the size of the largest AI processors, beating TSMC's biggest floorplan the size of a cellphone, armed with HBM5, 14A compute tiles and 18A SRAM ⭐⭐⭐
 
-**🔧 Hardware** | Importance: 9/10
+**⚡ Semiconductors** | Importance: 9/10
 
-Windows Server 2025 gets native NVMe with massive I/O and CPU gains
+Intel Foundry has released a video of a multi-chiplet 2.5D/3D processor with a 10,296 mm^2 silicon footprint, including leading-edge technologies such as 14A and 18A.
 
-💡 **Key Takeaway:** Windows Server 2025 achieves massive I/O and CPU gains with native NVMe support.
+💡 **Key Takeaway:** Intel Foundry showcases an extreme multi-chiplet package, potentially surpassing industry's largest AI processors.
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/windows-server-2025-gains-native-nvme-support-14-years-after-its-introduction-groundbreaking-i-o-stack-drops-scsi-emulation-limitations-for-massive-throughput-and-cpu-efficiency-gains)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-displays-tech-to-build-extreme-multi-chiplet-packages-12-times-the-size-of-the-largest-ai-processors-beating-tsmcs-planned-biggest-floorplan-the-size-of-a-cellphone-armed-with-hbm5-14a-compute-tiles-and-18a-sram)
+
+---
+
+### 3. Nvidia buys AI chip startup Groq's assets for $20 billion in the company's biggest deal ever ⭐⭐⭐
+
+**🎮 NVIDIA** | Importance: 9/10
+
+Nvidia has acquired Groq's assets for $20 billion, including hiring the firm's founder and CEO, as part of its biggest purchase ever.
+
+💡 **Key Takeaway:** Nvidia's $20 billion acquisition of Groq's assets boosts its AI chip technology capabilities significantly.
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-buys-ai-chip-startup-groqs-assets-for-usd20-billion-in-the-companys-biggest-deal-ever-transaction-includes-acquihires-of-key-groq-employees-including-ceo)
+
+---
+
+### 4. Intel displays tech to build extreme multi-chiplet packages 12 times the size of the largest AI processors, beating TSMC's biggest floorplan the size of a cellphone, armed with HBM5, 14A compute tiles and 18A SRAM ⭐⭐⭐
+
+**🤖 AI** | Importance: 9/10
+
+Intel Foundry has released a video of a multi-chiplet 2.5D/3D processor with a 10,296 mm^2 silicon footprint, including leading-edge technologies such as 14A and 18A.
+
+💡 **Key Takeaway:** Intel's multi-chiplet processor sets a new standard for silicon size, outperforming industry rivals.
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-displays-tech-to-build-extreme-multi-chiplet-packages-12-times-the-size-of-the-largest-ai-processors-beating-tsmcs-planned-biggest-floorplan-the-size-of-a-cellphone-armed-with-hbm5-14a-compute-tiles-and-18a-sram)
+
+---
+
+### 5. Nvidia buys AI chip startup Groq's assets for $20 billion in the company's biggest deal ever ⭐⭐⭐
+
+**🤖 AI** | Importance: 9/10
+
+Nvidia has acquired Groq's assets for $20 billion, including hiring the firm's founder and CEO, as part of its biggest purchase ever.
+
+💡 **Key Takeaway:** Nvidia's $20 billion acquisition marks its largest purchase, expanding its AI chip capabilities.
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-buys-ai-chip-startup-groqs-assets-for-usd20-billion-in-the-companys-biggest-deal-ever-transaction-includes-acquihires-of-key-groq-employees-including-ceo)
 
 ---
 
 ## 📊 By the Numbers
 
-This week we covered **183 articles** across **10 categories**.
+This week we covered **168 articles** across **9 categories**.
 
 | Category | Articles | Top Score | Highlights |
 |----------|----------|-----------|------------|
-| 🤖 [AI](ai.md) | 23 | 8/10 | 21 high-priority |
-| 📰 [Blockchain](blockchain.md) | 1 | 8/10 | 1 high-priority |
-| 📡 [Edge AI](edge_ai.md) | 13 | 8/10 | 12 high-priority |
-| 🔧 [Hardware](hardware.md) | 70 | 9/10 | 55 high-priority |
-| 🧠 [Machine Learning](machine_learning.md) | 6 | 8/10 | 5 high-priority |
-| 🎮 [NVIDIA](nvidia.md) | 5 | 8/10 | 2 high-priority |
-| 🍓 [Raspberry Pi](raspberry_pi.md) | 5 | 8/10 | 3 high-priority |
-| 💎 [Rockchip](rockchip.md) | 1 | 8/10 | 1 high-priority |
-| ⚡ [Semiconductors](semiconductors.md) | 39 | 9/10 | 37 high-priority |
-| 📈 [Trends](trends.md) | 20 | 9/10 | 18 high-priority |
+| 🤖 [AI](ai.md) | 19 | 9/10 | 19 high-priority |
+| 📡 [Edge AI](edge_ai.md) | 11 | 8/10 | 10 high-priority |
+| 🔧 [Hardware](hardware.md) | 69 | 9/10 | 47 high-priority |
+| 🧠 [Machine Learning](machine_learning.md) | 7 | 8/10 | 7 high-priority |
+| 🎮 [NVIDIA](nvidia.md) | 8 | 9/10 | 3 high-priority |
+| 🍓 [Raspberry Pi](raspberry_pi.md) | 7 | 8/10 | 5 high-priority |
+| 💎 [Rockchip](rockchip.md) | 2 | 8/10 | 2 high-priority |
+| ⚡ [Semiconductors](semiconductors.md) | 28 | 9/10 | 24 high-priority |
+| 📈 [Trends](trends.md) | 17 | 8/10 | 13 high-priority |
 
 ---
 
 ## 🔥 Trending Topics
 
-- **Hardware**: 170 articles (92.9%)
-- **Semiconductors**: 109 articles (59.6%)
-- **AI**: 78 articles (42.6%)
-- **Trends**: 59 articles (32.2%)
-- **Edge AI**: 47 articles (25.7%)
+- **Hardware**: 154 articles (91.7%)
+- **Semiconductors**: 66 articles (39.3%)
+- **AI**: 61 articles (36.3%)
+- **Trends**: 41 articles (24.4%)
+- **Edge AI**: 39 articles (23.2%)
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI](ai.md)
-*Artificial Intelligence developments* – 23 articles
-
-### 📰 [Blockchain](blockchain.md)
-** – 1 articles
+*Artificial Intelligence developments* – 19 articles
 
 ### 📡 [Edge AI](edge_ai.md)
-*AI on edge devices* – 13 articles
+*AI on edge devices* – 11 articles
 
 ### 🔧 [Hardware](hardware.md)
-*Hardware news and reviews* – 70 articles
+*Hardware news and reviews* – 69 articles
 
 ### 🧠 [Machine Learning](machine_learning.md)
-*ML algorithms and research* – 6 articles
+*ML algorithms and research* – 7 articles
 
 ### 🎮 [NVIDIA](nvidia.md)
-*NVIDIA hardware and GPUs* – 5 articles
+*NVIDIA hardware and GPUs* – 8 articles
 
 ### 🍓 [Raspberry Pi](raspberry_pi.md)
-*Raspberry Pi projects* – 5 articles
+*Raspberry Pi projects* – 7 articles
 
 ### 💎 [Rockchip](rockchip.md)
-*Rockchip processors and SBCs* – 1 articles
+*Rockchip processors and SBCs* – 2 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing* – 39 articles
+*Chip manufacturing* – 28 articles
 
 ### 📈 [Trends](trends.md)
-*Industry trends* – 20 articles
+*Industry trends* – 17 articles
 
 ---
 
 ## 📅 About This Digest
 
-Generated on 2025-12-20 at 09:16 using AI-powered ranking and curation with Groq API.
+Generated on 2025-12-27 at 09:30 using AI-powered ranking and curation with Groq API.
 
 Articles are scored on a 0-10 importance scale based on:
 - Industry impact and significance

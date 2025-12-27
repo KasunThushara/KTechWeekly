@@ -1,75 +1,105 @@
 # 🎮 NVIDIA Weekly Report
-**Week of December 20, 2025**
+**Week of December 27, 2025**
 
 *NVIDIA hardware and GPUs*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 5
-- **High Priority:** 2 articles (score ≥7)
+- **Total Articles:** 8
+- **High Priority:** 3 articles (score ≥7)
 - **Average Importance:** 6.6/10
-- **Report Generated:** 2025-12-20 09:16
+- **Report Generated:** 2025-12-27 09:30
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Huawei's AI chip capabilities still pale in comparison to American silicon report from U.S. council details that despite fears, Nvidia continues to lead by a wide margin ⭐⭐
+### 1. Nvidia buys AI chip startup Groq's assets for $20 billion in the company's biggest deal ever ⭐⭐⭐
+
+**Importance:** 9/10
+
+Nvidia has acquired Groq's assets for $20 billion, including hiring the firm's founder and CEO, as part of its biggest purchase ever.
+
+💡 *Nvidia's $20 billion acquisition of Groq's assets boosts its AI chip technology capabilities significantly.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-buys-ai-chip-startup-groqs-assets-for-usd20-billion-in-the-companys-biggest-deal-ever-transaction-includes-acquihires-of-key-groq-employees-including-ceo)
+
+---
+
+### 2. Auvidea X242 An NVIDIA Jetson Thor T5000 industrial carrier board with dual 10GbE, PCIe x16, CSI-2 camera support ⭐⭐
 
 **Importance:** 8/10
 
-A new report concludes that Huawei's AI chip capabilities lag behind Nvidia's by a wide margin, and the gap is growing exponentially.
+Auvidea X242 is an industrial carrier board for NVIDIA's Jetson Thor T5000 module, targeting edge AI, robotics, vision, and high-bandwidth embedded systems. It supports dual 10GbE, PCIe x16 expansion, and multiple cameras through a 16-lane CSI-2 camera connector.
 
-💡 *Huawei's AI chip capabilities lag behind Nvidia's by a wide margin, exacerbating the existing technology gap.*
+💡 *It supports high-bandwidth edge AI and robotic applications with dual 10GbE connectivity.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/huawei-still-cant-match-nvidia-on-ai-chips-says-cfr-report)
-
----
-
-### 2. HP Omen 34c G2 34-inch WQHD 180 Hz gaming monitor review: Delivering style, speed and value ⭐⭐
-
-**Importance:** 7/10
-
-HP brings a solid performance and value to the 34-inch ultra-wide segment with the Omen 34c G2, featuring a VA panel, WQHD resolution, and 180 Hz refresh rate.
-
-💡 *HP's Omen 34c G2 offers a high-performance gaming monitor at an affordable price point.*
-
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/hp-omen-34c-g2-34-inch-wqhd-180-hz-gaming-monitor-review)
+🔗 [Read More](https://www.cnx-software.com/2025/12/23/auvidea-x242-an-nvidia-jetson-thor-t5000-industrial-carrier-board-with-dual-10gbe-pcie-x16-csi-2-camera-support/)
 
 ---
 
-### 3. Grab a punchy RTX 5060 Ti-powered iBuypower gaming PC for less than $900, it even packs 32GB of DDR5 RGB RAM and an 8-core Ryzen processor ⭐⭐
+### 3. Forlinx FCU3011 An NVIDIA Jetson Orin Nano fanless industrial computer with 4x GbE, optional 4G/5G and Wi-Fi connectivity ⭐⭐
 
-**Importance:** 6/10
+**Importance:** 8/10
 
-This $899 PC from Walmart is a smart pick ahead of Christmas, featuring 32GB of DDR5 RAM and an RTX 5060 Ti.
+Forlinx Embedded has released the FCU3011, a fanless industrial AI edge computer built around the NVIDIA Jetson Orin Nano for 24/7 operations in manufacturing, smart cities, and robotics.
 
-💡 *This budget gaming PC offers a robust combo of powerful hardware at an affordable price.*
+💡 *Forlinx's fanless AI edge computer provides a reliable solution for 24/7 industrial operations.*
 
-🔗 [Read More](https://www.tomshardware.com/desktops/gaming-pcs/grab-a-punchy-rtx-5060-ti-powered-ibuypower-gaming-pc-for-less-than-usd900-it-even-packs-32gb-of-ddr5-rgb-ram-and-an-8-core-ryzen-processor)
+🔗 [Read More](https://www.cnx-software.com/2025/12/22/forlinx-fcu3011-an-nvidia-jetson-orin-nano-fanless-industrial-computer-with-4x-gbe-optional-4g-5g-and-wi-fi-connectivity/)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. How to choose a CPU   A guide to picking the right processor for your PC 
+### 4. Nvidia reportedly backs away from its effort to make its own public cloud, team reorg eases friction with customers  chipmaker shifts unit's focus to internal RD 
 
-**Score:** 6/10 | Choosing the right CPU is a crucial decision when building a PC. Consider factors such as performance, power consumption, and compatibility. With so many options available, it can be a tough choice.
+**Score:** 6/10 | Nvidia has reorganized its cloud computing group, further scaling back its ambitions to operate a public cloud service that would directly compete with Amazon Web Services.
 
-💡 *Choosing the right CPU significantly impacts your PC's performance and overall user experience.*
+💡 *Nvidia downscales public cloud ambitions, reorganizes cloud computing group for internal RD focus.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/cpu-buying-guide)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/nvidia-restructures-dgx-cloud-team-refocuses-cloud-efforts-internally)
 
 ---
 
-### 5. Score an RTX 5080 and 9800X3D pre-built for under  2,300 with this CyberPowerPC deal   save  200 on this 4K gaming PC with 32GB RAM and 1TB SSD 
+### 5. Arch Linux kills off Nvidia Pascal GPU support 
 
-**Score:** 6/10 | The price of a CyberPowerPC gaming rig has been reduced to £2,299, featuring an AMD Ryzen 7 9800X3D and Nvidia GeForce RTX 5080.
+**Score:** 6/10 | Arch Linux has dropped support for Nvidia Pascal GPUs, now using the 590 Nvidia Linux driver as the default, which lacks Pascal support. Nvidia cancelled support for Pascal in July. Users with GTX 10-series graphics cards must manually install older drivers.
 
-💡 *A CyberPowerPC gaming PC featuring an RTX 5080 and Ryzen 9800X3D can be pre-built for under £2,299.*
+💡 *Arch Linux's default driver change now requires manual installation for Nvidia Pascal GPU users.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/score-an-rtx-5080-and-9800x3d-pre-built-for-under-gbp2-300-with-this-cyberpowerpc-deal-save-gbp200-on-this-4k-gaming-pc-with-32gb-ram-and-1tb-ssd)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/arch-linux-kills-off-pascal-gpu-support-users-still-running-gtx-10-series-graphics-cards-will-have-to-manually-install-older-drivers)
+
+---
+
+### 6. Lucky Brit scores flagship PC worth almost $5,000 for just ~$2,400 at Costco, even comes armed with $700 worth of DDR5 memory  Marked-down build also has an RTX 5090 and Ryzen 7 9800X3D 
+
+**Score:** 6/10 | A person in the UK bought a prebuilt PC worth $4,863 at Costco for $2,431, featuring an RTX 5090, Ryzen 7 9800X3D, and 64 GB of DDR5 RAM.
+
+💡 *A prebuilt PC worth nearly $5,000 was sold at Costco for a significantly discounted price.*
+
+🔗 [Read More](https://www.tomshardware.com/desktops/pc-building/lucky-brit-scores-flagship-pc-worth-almost-usd5-000-for-just-usd2-400-at-costco-even-comes-armed-with-usd700-worth-of-ddr5-memory-marked-down-build-also-has-an-rtx-5090-and-ryzen-7-9800x3d)
+
+---
+
+### 7. This $299 Asus 4K gaming monitor is back to its lowest ever price 
+
+**Score:** 5/10 | The Asus ROG gaming monitor with 4K resolution, HDR support, and 160Hz refresh rate is available for $299 on Amazon.
+
+💡 *A high-end gaming monitor with advanced features is now available at an all-time low price of $299.*
+
+🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/this-usd299-asus-4k-gaming-monitor-is-back-to-its-lowest-ever-price-save-usd170-on-this-budget-friendly-ips-display-with-fast-160hz-refresh-rate-and-nvidia-g-sync-support)
+
+---
+
+### 8. Save $650 on this powerful RTX 5070 Ti gaming PC with 32GB RAM and 2TB SSD now just $1649, this formidable MSI Aegis Z2 machine is perfect for a 1440p setup 
+
+**Score:** 5/10 | Get the MSI Aegis Z2 gaming PC with an AMD Ryzen CPU, Nvidia GeForce RTX 5070 Ti, 32GB of DDR5 RAM, and 2TB SSD for $1649, a $650 saving.
+
+💡 *Save $650 on a high-performance gaming PC with advanced features and specs.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/save-usd650-on-this-powerful-rtx-5070-ti-gaming-pc-with-32gb-ram-and-2tb-ssd-now-just-usd1649-this-formidable-msi-aegis-z2-machine-is-perfect-for-a-1440p-setup)
 
 ---
 
