@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of December 27, 2025**
+**Week of January 05, 2026**
 
 Your curated weekly roundup of the most important tech news in AI, hardware, and edge computing.
 
@@ -7,128 +7,128 @@ Your curated weekly roundup of the most important tech news in AI, hardware, and
 
 ## 📈 This Week's Highlights
 
-### 1. 52 years later, only known copy of Unix v4 recovered from randomly found tape, now up and running on a system first OS version with kernel and core utilities written in C ⭐⭐⭐
+### 1. US Army tests 20,000W vehicle-mounted laser systems for drone defense   updated LOCUST device is now more lethal against drones ⭐⭐⭐
 
 **🔧 Hardware** | Importance: 9/10
 
-The only known complete copy of Unix v4 has been recovered from a tape found at the University of Utah.
+The U.S. Army is testing a more lethal 20kW vehicle-mounted LOCUST laser weapon system from AeroVironment (AV) Inc.
 
-💡 **Key Takeaway:** The recovery of Unix v4 provides a rare glimpse into early Unix development and evolution.
+💡 **Key Takeaway:** The US Army is developing a more lethal vehicle-mounted laser system for drone defense.
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/unix-v4-recovered-from-randomly-found-tape-at-university-of-utah-only-known-copy-of-first-os-version-with-kernel-and-core-utilities-written-in-c)
-
----
-
-### 2. Intel displays tech to build extreme multi-chiplet packages 12 times the size of the largest AI processors, beating TSMC's biggest floorplan the size of a cellphone, armed with HBM5, 14A compute tiles and 18A SRAM ⭐⭐⭐
-
-**⚡ Semiconductors** | Importance: 9/10
-
-Intel Foundry has released a video of a multi-chiplet 2.5D/3D processor with a 10,296 mm^2 silicon footprint, including leading-edge technologies such as 14A and 18A.
-
-💡 **Key Takeaway:** Intel Foundry showcases an extreme multi-chiplet package, potentially surpassing industry's largest AI processors.
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-displays-tech-to-build-extreme-multi-chiplet-packages-12-times-the-size-of-the-largest-ai-processors-beating-tsmcs-planned-biggest-floorplan-the-size-of-a-cellphone-armed-with-hbm5-14a-compute-tiles-and-18a-sram)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-army-tests-20-000w-vehicle-mounted-laser-systems-for-drone-defense-updated-locust-device-is-now-more-lethal-against-drones)
 
 ---
 
-### 3. Nvidia buys AI chip startup Groq's assets for $20 billion in the company's biggest deal ever ⭐⭐⭐
+### 2. Dev uses Claude AI to write a functional NES emulator you can test it now, playing Donkey Kong in your browser ⭐⭐⭐
 
-**🎮 NVIDIA** | Importance: 9/10
+**🔧 Hardware** | Importance: 9/10
 
-Nvidia has acquired Groq's assets for $20 billion, including hiring the firm's founder and CEO, as part of its biggest purchase ever.
+A developer has successfully used Claude AI to write a functional NES emulator, allowing users to play Donkey Kong in their browser.
 
-💡 **Key Takeaway:** Nvidia's $20 billion acquisition of Groq's assets boosts its AI chip technology capabilities significantly.
+💡 **Key Takeaway:** Claude AI's capabilities have been leveraged to create a functional NES emulator, revolutionizing retro gaming accessibility.
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-buys-ai-chip-startup-groqs-assets-for-usd20-billion-in-the-companys-biggest-deal-ever-transaction-includes-acquihires-of-key-groq-employees-including-ceo)
-
----
-
-### 4. Intel displays tech to build extreme multi-chiplet packages 12 times the size of the largest AI processors, beating TSMC's biggest floorplan the size of a cellphone, armed with HBM5, 14A compute tiles and 18A SRAM ⭐⭐⭐
-
-**🤖 AI** | Importance: 9/10
-
-Intel Foundry has released a video of a multi-chiplet 2.5D/3D processor with a 10,296 mm^2 silicon footprint, including leading-edge technologies such as 14A and 18A.
-
-💡 **Key Takeaway:** Intel's multi-chiplet processor sets a new standard for silicon size, outperforming industry rivals.
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-displays-tech-to-build-extreme-multi-chiplet-packages-12-times-the-size-of-the-largest-ai-processors-beating-tsmcs-planned-biggest-floorplan-the-size-of-a-cellphone-armed-with-hbm5-14a-compute-tiles-and-18a-sram)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/dev-uses-claude-ai-to-write-a-functional-nes-emulator-you-can-test-it-now-playing-donkey-kong-in-your-browser)
 
 ---
 
-### 5. Nvidia buys AI chip startup Groq's assets for $20 billion in the company's biggest deal ever ⭐⭐⭐
+### 3. UK company shoots a 1,000-degree furnace into space to study off-world chip manufacturing ⭐⭐⭐
 
-**🤖 AI** | Importance: 9/10
+**🔧 Hardware** | Importance: 9/10
 
-Nvidia has acquired Groq's assets for $20 billion, including hiring the firm's founder and CEO, as part of its biggest purchase ever.
+British startup Space Forge successfully turned on its first in-orbit furnace, reaching 1,000 degrees Celsius, a crucial step towards studying chip manufacturing in space.
 
-💡 **Key Takeaway:** Nvidia's $20 billion acquisition marks its largest purchase, expanding its AI chip capabilities.
+💡 **Key Takeaway:** British startup Space Forge successfully tests in-orbit furnace for off-world chip manufacturing research.
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-buys-ai-chip-startup-groqs-assets-for-usd20-billion-in-the-companys-biggest-deal-ever-transaction-includes-acquihires-of-key-groq-employees-including-ceo)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/uk-company-shoots-a-1000-degree-furnace-into-space-to-study-off-world-chip-manufacturing-semiconductors-made-in-space-could-be-up-to-4-000-times-purer-than-earthly-equivalents)
+
+---
+
+### 4. Dev uses Claude AI to write a functional NES emulator you can test it now, playing Donkey Kong in your browser ⭐⭐⭐
+
+**🧠 Machine Learning** | Importance: 9/10
+
+A developer has successfully used Claude AI to write a functional NES emulator, allowing users to play Donkey Kong in their browser.
+
+💡 **Key Takeaway:** Claude AI enables the creation of functional emulators, expanding the possibilities of browser-based game compatibility.
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/dev-uses-claude-ai-to-write-a-functional-nes-emulator-you-can-test-it-now-playing-donkey-kong-in-your-browser)
+
+---
+
+### 5. Intel's upcoming Arc B770 discrete GPU leaks out on GitHub, launch appears imminent ⭐⭐
+
+**🔧 Hardware** | Importance: 8/10
+
+Intel's Arc B770 graphics card is reportedly close to release, featuring the BMG-G31 GPU, 16GB+ VRAM, 32 Xe2 cores, and a 300W TDP.
+
+💡 **Key Takeaway:** Intel's upcoming Arc B770 GPU appears to be a significant step up in consumer graphics performance.
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intels-upcoming-arc-b770-discrete-gpu-leaks-out-on-github-launch-appears-imminent-reportedly-featuring-the-bmg-g31-gpu-16gb-vram-32-xe2-cores-and-300w-tdp)
 
 ---
 
 ## 📊 By the Numbers
 
-This week we covered **168 articles** across **9 categories**.
+This week we covered **163 articles** across **9 categories**.
 
 | Category | Articles | Top Score | Highlights |
 |----------|----------|-----------|------------|
-| 🤖 [AI](ai.md) | 19 | 9/10 | 19 high-priority |
+| 🤖 [AI](ai.md) | 21 | 8/10 | 21 high-priority |
 | 📡 [Edge AI](edge_ai.md) | 11 | 8/10 | 10 high-priority |
-| 🔧 [Hardware](hardware.md) | 69 | 9/10 | 47 high-priority |
-| 🧠 [Machine Learning](machine_learning.md) | 7 | 8/10 | 7 high-priority |
-| 🎮 [NVIDIA](nvidia.md) | 8 | 9/10 | 3 high-priority |
-| 🍓 [Raspberry Pi](raspberry_pi.md) | 7 | 8/10 | 5 high-priority |
-| 💎 [Rockchip](rockchip.md) | 2 | 8/10 | 2 high-priority |
-| ⚡ [Semiconductors](semiconductors.md) | 28 | 9/10 | 24 high-priority |
-| 📈 [Trends](trends.md) | 17 | 8/10 | 13 high-priority |
+| 🔧 [Hardware](hardware.md) | 74 | 9/10 | 57 high-priority |
+| 🧠 [Machine Learning](machine_learning.md) | 6 | 9/10 | 6 high-priority |
+| 🎮 [NVIDIA](nvidia.md) | 8 | 8/10 | 7 high-priority |
+| 🍓 [Raspberry Pi](raspberry_pi.md) | 5 | 7/10 | 5 high-priority |
+| 💎 [Rockchip](rockchip.md) | 4 | 8/10 | 4 high-priority |
+| ⚡ [Semiconductors](semiconductors.md) | 19 | 8/10 | 17 high-priority |
+| 📈 [Trends](trends.md) | 15 | 8/10 | 12 high-priority |
 
 ---
 
 ## 🔥 Trending Topics
 
-- **Hardware**: 154 articles (91.7%)
-- **Semiconductors**: 66 articles (39.3%)
-- **AI**: 61 articles (36.3%)
-- **Trends**: 41 articles (24.4%)
-- **Edge AI**: 39 articles (23.2%)
+- **Hardware**: 153 articles (93.9%)
+- **AI**: 65 articles (39.9%)
+- **Semiconductors**: 50 articles (30.7%)
+- **Trends**: 37 articles (22.7%)
+- **Edge AI**: 37 articles (22.7%)
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI](ai.md)
-*Artificial Intelligence developments* – 19 articles
+*Artificial Intelligence developments* – 21 articles
 
 ### 📡 [Edge AI](edge_ai.md)
 *AI on edge devices* – 11 articles
 
 ### 🔧 [Hardware](hardware.md)
-*Hardware news and reviews* – 69 articles
+*Hardware news and reviews* – 74 articles
 
 ### 🧠 [Machine Learning](machine_learning.md)
-*ML algorithms and research* – 7 articles
+*ML algorithms and research* – 6 articles
 
 ### 🎮 [NVIDIA](nvidia.md)
 *NVIDIA hardware and GPUs* – 8 articles
 
 ### 🍓 [Raspberry Pi](raspberry_pi.md)
-*Raspberry Pi projects* – 7 articles
+*Raspberry Pi projects* – 5 articles
 
 ### 💎 [Rockchip](rockchip.md)
-*Rockchip processors and SBCs* – 2 articles
+*Rockchip processors and SBCs* – 4 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing* – 28 articles
+*Chip manufacturing* – 19 articles
 
 ### 📈 [Trends](trends.md)
-*Industry trends* – 17 articles
+*Industry trends* – 15 articles
 
 ---
 
 ## 📅 About This Digest
 
-Generated on 2025-12-27 at 09:30 using AI-powered ranking and curation with Groq API.
+Generated on 2026-01-05 at 20:42 using AI-powered ranking and curation with Groq API.
 
 Articles are scored on a 0-10 importance scale based on:
 - Industry impact and significance

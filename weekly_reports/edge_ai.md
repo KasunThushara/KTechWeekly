@@ -1,5 +1,5 @@
 # 📡 Edge AI Weekly Report
-**Week of December 27, 2025**
+**Week of January 05, 2026**
 
 *AI on edge devices*
 
@@ -8,128 +8,128 @@
 ## 📊 Summary
 - **Total Articles:** 11
 - **High Priority:** 10 articles (score ≥7)
-- **Average Importance:** 7.7/10
-- **Report Generated:** 2025-12-27 09:30
+- **Average Importance:** 7.6/10
+- **Report Generated:** 2026-01-05 20:42
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Jetway B903DMTX Intel N97 fanless industrial box PC features 10 USB ports, four DB9 serial interfaces ⭐⭐
+### 1. Cincoze MD-3000 is a scalable DIN-Rail computer with up to 14th Gen 24-core Intel Core i9-14900 CPU ⭐⭐
 
 **Importance:** 8/10
 
-The Jetway B903DMTX is a fanless industrial box PC with a quad-core Intel N97 CPU, supporting up to 32GB of DDR5 memory and various interfaces for industrial applications.
+The Cincoze MD-3000 is a high-performance, scalable DIN-Rail computer powered by Intel processors, supporting up to 96GB DDR5 memory, multiple storage options, and various interfaces. It targets vision-driven smart manufacturing applications. The computer can be expanded with up to six modules through the Scalable Expansion Deck.
 
-💡 *The Jetway B903DMTX offers a compact, reliable fanless solution for industrial applications and data processing.*
+💡 *The Cincoze MD-3000 offers high-performance computing for vision-driven smart manufacturing applications with scalability and flexibility.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/26/jetway-b903dmtx-intel-n97-fanless-industrial-box-pc-features-10-usb-ports-four-db9-serial-interfaces/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/02/cincoze-md-3000-scalable-din-rail-computer-with-up-to-14th-gen-24-core-intel-core-i9-14900-cpu/)
 
 ---
 
-### 2. Firefly CAM-3576 series Tiny Rockchip RK3576 SBCs for commercial, industrial, and automotive applications ⭐⭐
+### 2. Forlinx FET1126Bx-S low-power Rockchip RV1126BJ industrial SoM powers SBC with 40-pin GPIO header ⭐⭐
 
 **Importance:** 8/10
 
-Firefly Technology has introduced the CAM-3576 series of tiny SBCs based on the Rockchip RK3576 processor for AIoT, edge AI, and industrial applications. It comes in three variants for smart cameras, intelligent security systems, and private on-device AI model deployment. The boards support up to 16GB of LPDDR5 RAM and various interfaces.
+Forlinx has released the FET1126Bx-S, a low-power SoM based on the Rockchip RV1126B/RV1126BJ SoC, designed for edge AI applications with local video analytics, low power consumption, and long-term stability.
 
-💡 *Firefly Technology introduces the CAM-3576 SBC series for AIoT and industrial applications with Rockchip RK3576 processor.*
+💡 *Forlinx's FET1126Bx-S SoM enables low-power edge AI applications with local video analytics capabilities.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/24/firefly-cam-3576-series-tiny-rockchip-rk3576-sbcs-for-commercial-industrial-and-automotive-applications/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/29/forlinx-fet1126bx-s-low-power-rockchip-rv1126bj-industrial-som-powers-sbc-with-40-pin-gpio-header/)
 
 ---
 
-### 3. Auvidea X242 An NVIDIA Jetson Thor T5000 industrial carrier board with dual 10GbE, PCIe x16, CSI-2 camera support ⭐⭐
+### 3. Bit-Brick Cluster K1 A 4-slot RISC-V cluster board for SpacemiT K1-based SSOM-K1 system-on-module ⭐⭐
 
 **Importance:** 8/10
 
-Auvidea X242 is an industrial carrier board for NVIDIA's Jetson Thor T5000 module, targeting edge AI, robotics, vision, and high-bandwidth embedded systems. It supports dual 10GbE, PCIe x16 expansion, and multiple cameras through a 16-lane CSI-2 camera connector.
+The Bit-Brick Cluster K1 is a 4-slot RISC-V cluster board designed for edge computing, AI workloads, and high-performance embedded applications. It features an onboard Gigabit Ethernet switch chip, USB ports, and a 3-pin fan power header. The cluster board uses the SpacemiT K1 octa-core RISC-V processor and supports up to 8GB dual-channel LPDDR4X memory.
 
-💡 *It offers a robust edge AI solution with high-bandwidth connectivity and camera support.*
+💡 *The Bit-Brick Cluster K1 enables efficient edge computing and AI workloads with its RISC-V processor and high-memory capacity.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/23/auvidea-x242-an-nvidia-jetson-thor-t5000-industrial-carrier-board-with-dual-10gbe-pcie-x16-csi-2-camera-support/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/28/bit-brick-cluster-k1-a-4-slot-risc-v-cluster-board-for-spacemit-k1-based-ssom-k1-system-on-module/)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Forlinx FCU3011 An NVIDIA Jetson Orin Nano fanless industrial computer with 4x GbE, optional 4G/5G and Wi-Fi connectivity ⭐⭐
+### 4. Jetway B903DMTX Intel N97 fanless industrial box PC features 10 USB ports, four DB9 serial interfaces ⭐⭐
 
-**Score:** 8/10 | Forlinx Embedded has released the FCU3011, a fanless industrial AI edge computer built around the NVIDIA Jetson Orin Nano for 24/7 operations in manufacturing, smart cities, and robotics.
+**Score:** 8/10 | Jetway B903DMTX is a fanless industrial box PC with Intel N97 quad-core Alder Lake-N CPU, 10 USB ports, 4 DB9 serial ports, and support for M.2 wireless modules.
 
-💡 *The Forlinx FCU3011 provides a fanless AI edge computing solution for 24/7 industrial operations.*
+💡 *Jetway B903DMTX offers a fanless industrial PC solution for space-constrained applications with Intel N97 CPU.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/26/jetway-b903dmtx-intel-n97-fanless-industrial-box-pc-features-10-usb-ports-four-db9-serial-interfaces/)
+
+---
+
+### 5. Firefly CAM-3576 series  Tiny Rockchip RK3576 SBCs for commercial, industrial, and automotive applications ⭐⭐
+
+**Score:** 8/10 | Firefly Technology has introduced the CAM-3576 series of tiny SBCs based on the Rockchip RK3576 processor with a 6 TOPS NPU for AIoT, edge AI, smart vision, industrial, and automotive applications.
+
+💡 *Firefly's CAM-3576 series introduces a powerful SBC for AIoT and edge AI applications in various industries.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/24/firefly-cam-3576-series-tiny-rockchip-rk3576-sbcs-for-commercial-industrial-and-automotive-applications/)
+
+---
+
+### 6. Auvidea X242 An NVIDIA Jetson Thor T5000 industrial carrier board with dual 10GbE, PCIe x16, CSI-2 camera support ⭐⭐
+
+**Score:** 8/10 | Auvidea X242 is an industrial carrier board for NVIDIA's Jetson Thor T5000 module, supporting dual 10GbE, PCIe x16 expansion, and multiple cameras through a 16-lane CSI-2 camera connector.
+
+💡 *Auvidea X242's features empower industrial applications with high-speed networking and robust camera support.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/23/auvidea-x242-an-nvidia-jetson-thor-t5000-industrial-carrier-board-with-dual-10gbe-pcie-x16-csi-2-camera-support/)
+
+---
+
+### 7. HackyPi 2.0 hacking tool gets ESP32-S3 for Wi-Fi and Bluetooth connectivity (Crowdfunding) ⭐⭐
+
+**Score:** 8/10 | HackyPi 2.0 is an ESP32-S3-based USB hacking tool that adds Wi-Fi and Bluetooth connectivity, remote access, and AI integration, making it more flexible than the original Raspberry Pi RP2040-based HackyPi.
+
+💡 *HackyPi 2.0 introduces ESP32-S3 for enhanced Wi-Fi and Bluetooth connectivity in a hacking tool.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/23/hackypi-2-0-hacking-tool-esp32-s3-for-wi-fi-and-bluetooth-connectivity/)
+
+---
+
+### 8. Forlinx FCU3011 An NVIDIA Jetson Orin Nano fanless industrial computer with 4x GbE, optional 4G/5G and Wi-Fi connectivity ⭐⭐
+
+**Score:** 8/10 | Forlinx Embedded has released the FCU3011, a compact, fanless industrial AI edge computer built around the NVIDIA Jetson Orin Nano, designed for 24/7 operations in various industries. It supports NVIDIA Jetson Orin Nano configurations with 4GB/8GB memory and a 128GB SSD. The system features various interfaces and power options for industrial applications.
+
+💡 *Forlinx FCU3011 offers a compact, fanless, and highly configurable AI edge computing solution for industrial applications.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/12/22/forlinx-fcu3011-an-nvidia-jetson-orin-nano-fanless-industrial-computer-with-4x-gbe-optional-4g-5g-and-wi-fi-connectivity/)
 
 ---
 
-### 5. Fanless Box PC features Intel Core Ultra 5/7/9 Arrow Lake CPU with up to 36 TOPS for Edge AI applications ⭐⭐
+### 9. Openterface KVM-GO   An ultra-compact KVM-over-USB solution with HDMI, DP, or VGA video input ⭐⭐
 
-**Score:** 8/10 | AAEON BOXER-6648-ARS is a fanless embedded Box PC with Intel Core Ultra 5/7/9 Arrow Lake CPU, up to 24 cores, 36 TOPS AI performance, and 35W or 65W TDP.
+**Score:** 7/10 | Openterface KVM-GO is a small, open-source KVM-over-USB gadget that can be connected directly to a target device. It supports HDMI, DisplayPort, or VGA video input and has a microSD card slot for OS installation. The device follows the company's earlier Mini-KVM device.
 
-💡 *AAEON BOXER-6648-ARS provides enhanced AI capabilities for edge deployments with 36 TOPS performance.*
+💡 *The Openterface KVM-GO offers a small, open-source KVM solution with versatile video input options.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/19/fanless-box-pc-features-intel-core-ultra-5-7-9-arrow-lake-cpu-with-up-to-36-tops-for-edge-ai-applications/)
-
----
-
-### 6. ESP32-P4 learning and prototyping kit features 7-inch touchscreen, comes with 16 modules and AI lessons ⭐⭐
-
-**Score:** 8/10 | The Elecrow All-in-One Starter Kit for ESP32-P4 is an open-source learning and prototyping platform that integrates AI, multimedia, and embedded features in a single kit, ideal for students, educational institutions, and developers.
-
-💡 *Elecrow's ESP32-P4 kit offers an all-in-one learning platform for AI, multimedia, and embedded development.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/19/esp32-p4-learning-and-prototyping-kit-features-7-inch-touchscreen-comes-with-16-modules-and-ai-lessons/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/05/openterface-kvm-go-an-ultra-compact-kvm-over-usb-solution-with-hdmi-dp-or-vga-video-input/)
 
 ---
 
-### 7. NASP NeuroVoice VAD chip enables always-on voice activity detection at microwatt-level power consumption ⭐⭐
+### 10. 4-inch round HDMI display offers USB touchscreen for Raspberry Pi, AIDA64, Smart Home, Art projects ⭐⭐
 
-**Score:** 8/10 | The NASP NeuroVoice VAD chip is an ultra-low-power chip that detects voice in any noisy background, consuming microwatts of power and responding in microseconds. It has various features, including voice detection, passthrough, and wake word detection, making it suitable for smart devices, wearables, and IoT applications. The chip can operate independently without an internet connection.
+**Score:** 7/10 | VIEWE launched a 4-inch round HDMI display with 720x720 resolution and a USB touchscreen function suitable for SBCs, PCs, Smart Home, and Art projects.
 
-💡 *The NASP NeuroVoice VAD chip enables ultra-low-power voice detection in noisy environments.*
+💡 *VIEWE's 4-inch round HDMI display expands touch interface options for Raspberry Pi and other SBCs.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/18/nasp-neurovoice-vad-chip-enables-always-on-voice-activity-detection-at-microwatt-level-power-consumption/)
-
----
-
-### 8. Toradex Luna SL1680 A Pro Consumer Raspberry Pi lookalike based on Synaptics SL1680 Edge AI SoC ⭐⭐
-
-**Score:** 8/10 | The Toradex Luna SL1680 is a credit card-sized single board computer inspired by Raspberry Pi 5 design, powered by Synaptics SL1680 SoC for Edge AI applications, and features various ports including Gigabit Ethernet and USB 3.0.
-
-💡 *The Toradex Luna SL1680 offers a Raspberry Pi-like Edge AI solution with improved performance capabilities.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/18/toradex-luna-sl1680-a-pro-consumer-raspberry-pi-lookalike-based-on-synaptics-sl1680-edge-ai-soc/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/23/4-inch-round-hdmi-display-offers-usb-touchscreen-for-raspberry-pi-aida64-smart-home-art-projects/)
 
 ---
 
-### 9. Fusion HAT+ Raspberry Pi expansion board targets motor and servo control with AI and LLMs ⭐⭐
+### 11. ESP32-S3 AIoT Basic A learning and prototyping kit with camera, audio, LCD, and sensors 
 
-**Score:** 8/10 | The SunFounder Fusion HAT+ is a motor control and GPIO expansion board for Raspberry Pi that features motor drivers, servo channels, and interfaces for sensors, with support for LLMs like ChatGPT and a built-in speaker and microphone.
+**Score:** 6/10 | The ESP32-S3 AIoT Basic is a low-cost, learning, and prototyping kit with a range of AIoT peripherals, including a camera, audio, LCD, and sensors.
 
-💡 *The SunFounder Fusion HAT+ offers a comprehensive platform for Raspberry Pi-based motor and servo control with AI capabilities.*
+💡 *This kit offers an affordable entry point for developers to explore AIoT applications and prototyping.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/17/fusion-hat-raspberry-pi-expansion-board-targets-motor-and-servo-control-with-ai-and-llms/)
-
----
-
-### 10. Compact development board features a single ESP32-P4 + ESP32-C5 dual-band Wi-Fi 6 module, MIPI display and camera interfaces ⭐⭐
-
-**Score:** 8/10 | The WTDKP4C5-S1 development board combines the ESP32-P4 with an ESP32-C5 dual-band Wi-Fi 6 module, supporting MIPI-CSI and MIPI-DSI. It features dual-band Wi-Fi 6, BLE 5, Zigbee, Thread, and Matter connectivity. The board is suitable for various applications such as LVGL-based HMIs, data acquisition, industrial control, and Edge AI.
-
-💡 *This board offers a compact, all-in-one solution for edge AI, data acquisition, and industrial control applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/17/compact-development-board-features-a-single-esp32-p4-esp32-c5-dual-band-wi-fi-6-module-mipi-display-and-camera-interfaces/)
-
----
-
-### 11. The Christmas Present Peeker Trap uses an ESP32 Cam board, photoresistor, buzzer, and connected app to catch even the sneakiest of gift glimpsers 
-
-**Score:** 5/10 | A project to detect and deter Christmas present peekers using an ESP32 Cam board, photoresistor, buzzer, and connected app.
-
-💡 *This project deters Christmas present peekers using IoT technology and real-time surveillance.*
-
-🔗 [Read More](https://www.tomshardware.com/maker-stem/the-christmas-present-peeker-trap-uses-an-esp32-cam-board-photoresistor-buzzer-and-connected-app-to-frame-even-the-sneakiest-of-gift-glimpsers)
+🔗 [Read More](https://www.cnx-software.com/2025/12/22/esp32-s3-aiot-basic-a-learning-and-prototyping-kit-with-camera-audio-lcd-and-sensors/)
 
 ---
 

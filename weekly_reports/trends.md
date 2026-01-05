@@ -1,195 +1,175 @@
 # 📈 Trends Weekly Report
-**Week of December 27, 2025**
+**Week of January 05, 2026**
 
 *Industry trends*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 17
-- **High Priority:** 13 articles (score ≥7)
-- **Average Importance:** 7.2/10
-- **Report Generated:** 2025-12-27 09:30
+- **Total Articles:** 15
+- **High Priority:** 12 articles (score ≥7)
+- **Average Importance:** 7.5/10
+- **Report Generated:** 2026-01-05 20:42
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. AMD's dual-cache Ryzen 9 9950X3D2 appears in first benchmark leaks ⭐⭐
+### 1. Intel's upcoming Arc B770 discrete GPU leaks out on GitHub, launch appears imminent ⭐⭐
 
 **Importance:** 8/10
 
-AMD's new flagship gaming chip, the Ryzen 9 9950X3D2, features 192MB of L3 cache due to its dual-cache design with 3D V-Cache stacked across both CCDs, showing amicable scores in benchmarking databases.
+Intel's Arc B770 graphics card is reportedly close to release, featuring the BMG-G31 GPU, 16GB+ VRAM, 32 Xe2 cores, and a 300W TDP.
 
-💡 *AMD's Ryzen 9 9950X3D2 boasts improved performance with its unique dual-cache design and 3D V-Cache technology.*
+💡 *Intel's Arc B770 GPU may signal a significant entry into the high-end discrete graphics market.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amds-dual-cache-ryzen-9-9950x3d2-appears-in-first-benchmark-leaks-gaming-focused-cpu-features-192mb-of-l3-cache-stacked-across-both-ccds)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/intels-upcoming-arc-b770-discrete-gpu-leaks-out-on-github-launch-appears-imminent-reportedly-featuring-the-bmg-g31-gpu-16gb-vram-32-xe2-cores-and-300w-tdp)
 
 ---
 
-### 2. LG UltraGear evo gaming monitor lineup announced ahead of CES 2026 ⭐⭐
+### 2. Forgotten Star Wars Racer Revenge game is key to jailbreaking PlayStation 5, price soars 1,900% overnight amid leaked ROM keys exploit ⭐⭐
 
 **Importance:** 8/10
 
-LG is launching UltraGear evo, a premium sub-brand with 3 new gaming monitors: a 27-inch 5K Mini LED, a 39-inch curved Tandem OLED, and a 52-inch 5K2K large format display.
+Physical copies of the PS4 game have skyrocketed in price due to its essential role in the latest PlayStation 5 jailbreaks.
 
-💡 *LG's UltraGear evo sub-brand introduces premium gaming monitors with advanced display technologies.*
+💡 *Physical copies of the PS4 game have skyrocketed in price due to its role in PS5 jailbreaks.*
 
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/lg-ultragear-evo-gaming-monitor-lineup-announced-ahead-of-ces-2026-27-inch-5k-mini-led-39-inch-curved-tandem-oled-and-a-52-inch-5k2k-large-format-display)
+🔗 [Read More](https://www.tomshardware.com/video-games/playstation/forgotten-star-wars-racer-revenge-game-is-key-to-jailbreaking-playstation-5-price-soars-1-900-percent-overnight-amid-leaked-rom-keys-exploit-physical-copies-of-the-ps4-game-go-from-usd20-to-usd400-on-ebay)
 
 ---
 
-### 3. Robots fashioned from dead lobster exoskeletons have awesome strength, light weight, and flexibility   necrobotics advance mixes sustainable food waste with synthetic components ⭐⭐
+### 3. A deeper look at the tightened chipmaking supply chain, and where it may be headed in 2026 ⭐⭐
 
 **Importance:** 8/10
 
-Swiss scientists have demonstrated the use of dead lobster tails as robotic appendages, offering strength, light weight, and flexibility.
+The chipmaking ecosystem is facing constraints across the entire supply chain, with industry analysts stating that nobody is scaling up capacity. The industry remains conservative on capacity, leading to concerns about where the supply chain might be headed next.
 
-💡 *Swiss scientists pioneer necrobotics by repurposing lobster exoskeletons for sustainable, high-performance robotic appendages.*
+💡 *The chipmaking supply chain faces constraints, potentially disrupting future demand and capacity.*
 
-🔗 [Read More](https://www.tomshardware.com/maker-stem/robot-kits/robots-fashioned-from-dead-lobster-exoskeletons-have-awesome-strength-light-weight-and-flexibility-necrobotics-advance-mixes-sustainable-food-waste-with-synthetic-components)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/a-deeper-look-at-the-tightened-chipmaking-supply-chain-and-where-it-may-be-headed-in-2026-nobodys-scaling-up-says-analyst-as-industry-remains-conservative-on-capacity)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Pi calculation world record shattered at 314 trillion digits with a four-month run on a single server StorageReview retakes the crown, thanks to storage bandwidth ⭐⭐
+### 4. AMD closes in on Intel in latest Steam Hardware Survey ⭐⭐
 
-**Score:** 8/10 | StorageReview retakes the crown with 314 trillion digits of Pi calculated in a four-month run on a single server, thanks to storage bandwidth.
+**Score:** 8/10 | AMD is gaining on Intel, with user numbers increasing in the last month of 2025, while gamers are opting for 32GB of memory or more amid a memory crunch.
 
-💡 *StorageReview's achievement highlights the impact of storage bandwidth on record-breaking calculations.*
+💡 *AMD's market share is closing in on Intel's, driven by increased user adoption.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/storage/pi-calculating-record-shattered-at-314-trillion-digits-with-a-four-month-run-on-a-single-server-storagereview-retakes-the-crown-thanks-to-storage-bandwidth)
-
----
-
-### 5. AMD EXPO 1.2 could supercharge Ryzen CPUs with CUDIMM support amid global DRAM crunch full AMD CUDIMM support is on the horizon ⭐⭐
-
-**Score:** 8/10 | AMD prepares EXPO 1.2 revision that could bring CUDIMM support to next-generation Ryzen processors.
-
-💡 *AMD's EXPO 1.2 revision could mitigate global DRAM crunch with CUDIMM support on Ryzen CPUs.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/ram/amd-expo-1-2-could-supercharge-ryzen-cpus-with-cudimm-support-amid-global-dram-crunch-full-amd-cudimm-support-is-on-the-horizon)
+🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/amd-closes-in-on-intel-in-latest-steam-hardware-survey-ram-capacity-continues-to-rise-despite-the-ongoing-memory-crunch)
 
 ---
 
-### 6. LG Display reveals world's first 4K 240Hz OLED gaming monitor with a true RGB "striped" subpixel layout ⭐⭐
+### 5. LG's dual-mode 4K 240Hz / 1080p 480Hz OLED gaming monitor is 42% off   premium flagship panel with HDR1300 drops to its lowest-ever price ⭐⭐
 
-**Score:** 8/10 | LG Display has introduced a new OLED panel that addresses text clarity issues, achieving a true RGB subpixel layout without a white subpixel. This multi-stack Tandem OLED technology is an improvement over WOLED. The result is a high-performance gaming monitor.
+**Score:** 8/10 | The LG 32GX870A-B is a 32-inch gaming monitor that supports 4K 240Hz and 1080p 480Hz, has HDR1300 and MLA+ panel, and webOS.
 
-💡 *LG Display introduces a high-performance OLED panel with a true RGB subpixel layout for improved gaming clarity.*
+💡 *LG's premium gaming monitor drops to its lowest-ever price with 42% off.*
 
-🔗 [Read More](https://www.tomshardware.com/monitors/lg-display-reveals-worlds-first-4k-240hz-oled-gaming-monitor-with-a-true-rgb-striped-subpixel-layout-new-panel-succeeds-woled-with-multi-stack-tandem-oled)
-
----
-
-### 7. Samsung's CES monitor lineup includes 6K 3D display with eye-tracking plus a dual-mode QHD panel with a blistering 1080p 1040Hz option ⭐⭐
-
-**Score:** 8/10 | Samsung announced new 27-inch and 32-inch displays with refresh rates from 165 Hz to 1,040 Hz.
-
-💡 *Samsung showcased high-refresh-rate displays with up to 1,040Hz for improved gaming performance.*
-
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/samsungs-ces-monitor-lineup-includes-6k-3d-display-with-eye-tracking-plus-a-dual-mode-qhd-panel-with-a-blistering-1080p-1040hz-option)
+🔗 [Read More](https://www.tomshardware.com/pc-components/lgs-dual-mode-4k-240hz-1080p-480hz-oled-gaming-monitor-is-42-percent-off-premium-flagship-panel-with-hdr1300-drops-to-its-lowest-ever-price)
 
 ---
 
-### 8. Lattice Semi MachXO4 FPGA family offers up to 9400 LUTs, 448 kb user flash, improved hot socketing ⭐⭐
+### 6. U.S. allows TSMC to import chipmaking equipment to its China fabs   Samsung, SK hynix likewise receive go signal from Commerce Department ⭐⭐
 
-**Score:** 8/10 | Lattice Semiconductor has launched the MachXO4 low-power FPGA family, featuring 896 to 9400 LUTs, up to 150 MHz operation, and improved hot socketing.
+**Score:** 8/10 | The U.S. Department of Commerce has allowed TSMC, Samsung, and SK hynix to import chipmaking equipment containing U.S. tech into their Chinese fabs, requiring annual licenses.
 
-💡 *Lattice Semiconductor's MachXO4 FPGA family offers improved hot socketing and enhanced performance capabilities.*
+💡 *The U.S. Department of Commerce allows key chipmakers to import sensitive tech to China.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/24/lattice-semi-machxo4-fpga-family-offers-up-to-9400-luts-448-kb-user-flash-improved-hot-socketing/)
-
----
-
-### 9. Radxa Dragon Q6A Arm SBC gets official Windows 11 preview ⭐⭐
-
-**Score:** 8/10 | Radxa has announced official Windows support for the Radxa Dragon Q6A Arm SBC, which allows for Windows 11 preview with HDMI output, PCIe, eMMC flash, UFS, and USB support without additional drivers. However, network card drivers are not included. This marks a significant improvement for running Windows on Arm SBCs.
-
-💡 *This marks a significant improvement for running Windows on Arm SBCs with native hardware support.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/18/radxa-dragon-q6a-arm-sbc-get-official-windows-11-preview/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/u-s-allows-tsmc-to-import-chipmaking-equipment-to-its-china-fabs-samsung-sk-hynix-likewise-receive-go-signal-from-commerce-department)
 
 ---
 
-### 10. MicroPython v1.27 adds support for ESP32-C5, ESP32-P4, and STM32U5 microcontrollers ⭐⭐
+### 7. ASRock to enter AIO liquid cooling market with an intriguing pumpless design at CES ⭐⭐
 
-**Score:** 8/10 | MicroPython v1.27 adds support for new microcontrollers including ESP32-C5, ESP32-P4, and STM32U5, along with various other improvements and bug fixes.
+**Score:** 8/10 | ASRock will debut its AIO liquid coolers at CES 2026, featuring LCD screens and a pumpless design, while also offering more traditional options.
 
-💡 *MicroPython v1.27 expands development possibilities with support for new microcontrollers and improvements.*
+💡 *ASRock's pumpless AIO liquid coolers may set a new standard for cooling efficiency and design.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/16/micropython-v1-27-adds-support-for-esp32-c5-esp32-p4-and-stm32u5-microcontrollers/)
-
----
-
-### 11. VEGA AS2161 DHRUV64 A 1GHz dual-core 64-bit RISC-V microprocessor designed in India ⭐⭐
-
-**Score:** 8/10 | The Government of India has announced the launch of the DHRUV64 (VEGA AS2161) dual-core 64-bit RISC-V MPU clocked at 1 GHz, fully indigenous microprocessor developed by C-DAC. It supports Linux and features 13-16 stage out-of-order pipeline implementation and Harvard architecture.
-
-💡 *India becomes the first country to develop a fully indigenous, 1 GHz dual-core RISC-V microprocessor.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/16/vega-as2161-dhruv64-a-1ghz-dual-core-64-bit-risc-v-microprocessor-designed-in-india/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/liquid-cooling/asrock-to-enter-aio-liquid-cooling-market-with-an-intriguing-pumpless-design-at-ces-full-lineup-to-include-more-traditional-options-some-with-lcd-displays)
 
 ---
 
-### 12. Qualcomm Snapdragon X Elite's latest Linux benchmarks show significant regressions, performs similarly to five-year-old Intel Tiger Lake chips  promising chip continues to be plagued by software support issues ⭐⭐
+### 8. Musk to expand xAI's training capacity to a monstrous 2 gigawatts with third building at Memphis site ⭐⭐
 
-**Score:** 7/10 | Qualcomm Snapdragon X Elite's latest Linux benchmarks show significant regressions, performing similarly to five-year-old Intel Tiger Lake chips due to ongoing software support issues.
+**Score:** 8/10 | Elon Musk has announced that xAI will expand its compute power to 2 gigawatts with a third building at its Memphis site.
 
-💡 *Qualcomm's Snapdragon X Elite chip is plagued by significant software support regressions, underperforming older Intel hardware.*
+💡 *xAI's 2-gigawatt expansion aims to significantly boost AI research and development capabilities.*
 
-🔗 [Read More](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/qualcomm-snapdragon-x-elites-latest-linux-benchmarks-show-significant-regressions-promising-chip-continues-to-be-plagued-by-software-support-issues)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/musk-purchases-third-building-at-memphis-site-to-expand-xais-training-capacity-to-a-monstrous-2-gigawatts-announcement-comes-days-after-musk-vows-to-have-more-ai-compute-than-everyone-else)
 
 ---
 
-### 13. OpenMediaVault 8 (OMV8) Synchrony released for 64-bit x86 (AMD64) and Arm (ARM64) platforms only ⭐⭐
+### 9. WCH CH32H417 dual-core RISC-V MCU offers USB 3.0, 500MB/s UHSIF, and Fast Ethernet interfaces ⭐⭐
 
-**Score:** 7/10 | OpenMediaVault 8, a popular open-source NAS solution, has been released, supporting only 64-bit architectures, dropping 32-bit systems, and upgrading to Debian 13. It replaces cpufrequtils with linux-cpupower and improves user and group-related RPCs. Developers note changes in RPCs for user information.
+**Score:** 8/10 | The WCH CH32H417 is a dual-core RISC-V microcontroller with a clock speed of up to 400 MHz, featuring 960 KB flash, 896 KB SRAM, and various high-speed interfaces.
 
-💡 *OpenMediaVault 8 drops 32-bit system support, upgrading to Debian 13 exclusively for 64-bit architectures.*
+💡 *The WCH CH32H417 brings high-speed interfaces and dual-core RISC-V processing to a compact MCU package.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/03/wch-ch32h417-dual-core-risc-v-mcu-offers-usb-3-0-500mb-s-uhsif-and-fast-ethernet-interfaces/)
+
+---
+
+### 10. OpenMediaVault 8 (OMV8)  Synchrony released for 64-bit x86 (AMD64) and Arm (ARM64) platforms only ⭐⭐
+
+**Score:** 8/10 | OpenMediaVault 8 (OMV8) has been released, supporting only 64-bit architectures, dropping 32-bit systems. It's a popular open-source NAS solution based on Debian Linux. The main reason for killing 32-bit support is that the Salt Project only supports 64-bit builds.
+
+💡 *OpenMediaVault 8 drops 32-bit system support due to Salt Project's 64-bit build limitation.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/12/26/openmediavault-8-omv8-synchrony-released-for-64-bit-x86-amd64-and-arm-arm64-platforms-only/)
 
 ---
 
-### 14. Old Ryzen AM4 CPUs top US, UK Amazon charts as DDR5 pricing pushes buyers to last-gen platform 
+### 11. Gigabyte unleashes new DDR4 AM4 motherboards as RAM shortage continues to slam PC builders sky-high DDR5 prices spark rush for affordable alternatives ⭐⭐
 
-**Score:** 6/10 | The Ryzen 7 5800X and 5800XT, two generations behind Zen 5, are among the best-selling CPUs this holiday season.
+**Score:** 7/10 | Gigabyte has launched four new AM4 motherboard variants supporting DDR4 as consumers turn to affordable alternatives due to soaring DDR5 prices.
 
-💡 *Older Ryzen CPUs surge in sales as DDR5 prices push buyers to last-gen platforms.*
+💡 *PC builders seek affordable alternatives due to soaring DDR5 prices, driving demand for DDR4 motherboards.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/old-ryzen-am4-cpus-top-us-uk-amazon-charts-as-ddr5-pricing-pushes-buyers-to-last-gen-platform-ddr4-friendly-ryzen-5-5800x-xt-claim-spots-in-the-top-5)
-
----
-
-### 15. The best Boxing Day tech deals at Amazon UK, Argos, Currys, Very, and more huge price drops on gaming PCs, 3D printers, laptops, and peripherals 
-
-**Score:** 5/10 | Secure yourself a Boxing Day tech deal with huge price drops on gaming PCs, 3D printers, laptops, and peripherals from retailers including Amazon, Currys, Argos, Very, and more.
-
-💡 *Secure a Boxing Day tech deal with huge price drops on gaming PCs and peripherals.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/the-best-boxing-day-tech-deals-at-amazon-uk-argos-currys-very-and-more-huge-price-drops-on-gaming-pcs-3d-printers-laptops-and-peripherals)
+🔗 [Read More](https://www.tomshardware.com/pc-components/motherboards/gigabyte-unleashes-new-ddr4-am4-motherboards-as-ram-shortage-continues-to-slam-pc-builders-sky-high-ddr5-prices-spark-rush-for-affordable-alternatives)
 
 ---
 
-### 16. Laptop maker Framework announces another immediate memory price hike, says additional increase expected within a month 
+### 12. Better safety features make laser engravers more popular than ever - a guide to the ins and outs of laser engraving and cutting ⭐⭐
 
-**Score:** 5/10 | Framework is increasing its memory prices in response to market pricing and advises customers to shop elsewhere for better deals, such as on PCPartPicker.
+**Score:** 7/10 | Upgraded safety systems make modern lasers easier to trust and easier to recommend.
 
-💡 *Framework's memory price hike may prompt consumers to explore alternative vendors for better deals.*
+💡 *Upgraded safety systems increase trust and adoption of laser engravers for hobbyists and professionals alike.*
 
-🔗 [Read More](https://www.tomshardware.com/laptops/laptop-maker-framework-announces-another-memory-price-hike-says-another-increase-is-coming-within-a-month-encourages-buyers-to-bring-their-own-memory-and-check-pcpartpicker-for-better-deals)
+🔗 [Read More](https://www.tomshardware.com/maker-stem/better-safety-features-make-laser-engravers-more-popular-than-ever-a-guide-to-the-ins-and-outs-of-laser-engraving-and-cutting)
 
 ---
 
-### 17. 'Twas The Night Before Tom's Christmas 2025 
+### 13. Speed test pits six generations of Windows against each other 
 
-**Score:** 5/10 | A holiday poem from the editors of Tom's Hardware, likely referencing the latest technology trends and products.
+**Score:** 6/10 | Windows 11 performed poorly against five previous Windows versions in a speed test, placing last in most benchmarks.
 
-💡 *Explores the intersection of tech innovation and holiday cheer in the fast-paced world of PC hardware.*
+💡 *A speed test revealed Windows 11 lagging behind older versions in various benchmarks and performance tests.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/twas-the-night-before-toms-christmas-2025)
+🔗 [Read More](https://www.tomshardware.com/software/windows/speed-test-pits-six-generations-of-windows-against-each-other-windows-11-placed-dead-last-across-most-benchmarks-8-1-emerges-as-unexpected-winner-in-this-unscientific-comparison)
+
+---
+
+### 14. Blu-ray hits 20 years old, and it isn't dead yet 
+
+**Score:** 6/10 | 20 years ago, Blu-ray technology, players, and media were introduced at CES in Las Vegas, and the format remains alive.
+
+💡 *Blu-ray technology continues to evolve and maintain its relevance after two decades.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/storage/blu-ray-hits-20-optical-disc-format-was-introduced-to-the-public-at-ces-2006)
+
+---
+
+### 15. Debian maintainer criticizes email-managed bug tracker as outdated for modern development 
+
+**Score:** 6/10 | A senior Debian maintainer has criticized the distribution's bug tracking system as outdated and increasingly unworkable for modern software development.
+
+💡 *Debian's outdated bug tracking system may hinder its ability to adapt to modern software development.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/debian-maintainer-criticizes-managed-bug-tracker-as-outdated-for-modern-development)
 
 ---
 

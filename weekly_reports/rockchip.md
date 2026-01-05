@@ -1,41 +1,65 @@
 # 💎 Rockchip Weekly Report
-**Week of December 27, 2025**
+**Week of January 05, 2026**
 
 *Rockchip processors and SBCs*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 2
-- **High Priority:** 2 articles (score ≥7)
-- **Average Importance:** 8.0/10
-- **Report Generated:** 2025-12-27 09:30
+- **Total Articles:** 4
+- **High Priority:** 4 articles (score ≥7)
+- **Average Importance:** 7.8/10
+- **Report Generated:** 2026-01-05 20:42
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Firefly CAM-3576 series Tiny Rockchip RK3576 SBCs for commercial, industrial, and automotive applications ⭐⭐
+### 1. Rockchip RK1820/RK1828 SO-DIMM and M.2 LLM/VLM AI accelerator modules, devkits, and benchmarks ⭐⭐
 
 **Importance:** 8/10
 
-Firefly Technology has introduced the CAM-3576 series of tiny SBCs based on the Rockchip RK3576 processor for AIoT, edge AI, and industrial applications. It comes in three variants for smart cameras, intelligent security systems, and private on-device AI model deployment. The boards support up to 16GB of LPDDR5 RAM and various interfaces.
+Rockchip unveiled RK182X LLM/VLM accelerators, a development kit is now available, and the RK1828 has been benchmarked against the Rockchip RK3588's NPU.
 
-💡 *Firefly Technology offers a series of tiny, Rockchip RK3576-based SBCs for edge AI and industrial applications.*
+💡 *Rockchip's RK182X accelerators could reduce AI inference costs for edge deployments.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/30/rockchip-rk1820-rk1828-so-dimm-and-m-2-llm-vlm-ai-accelerator-modules-devkits-and-benchmarks/)
+
+---
+
+### 2. Forlinx FET1126Bx-S low-power Rockchip RV1126BJ industrial SoM powers SBC with 40-pin GPIO header ⭐⭐
+
+**Importance:** 8/10
+
+Forlinx has released the FET1126Bx-S, a low-power SoM based on the Rockchip RV1126B/RV1126BJ SoC, designed for edge AI applications with local video analytics, low power consumption, and long-term stability.
+
+💡 *Forlinx's FET1126Bx-S SoM offers a low-power solution for edge AI applications with local video analytics capabilities.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/29/forlinx-fet1126bx-s-low-power-rockchip-rv1126bj-industrial-som-powers-sbc-with-40-pin-gpio-header/)
+
+---
+
+### 3. Firefly CAM-3576 series  Tiny Rockchip RK3576 SBCs for commercial, industrial, and automotive applications ⭐⭐
+
+**Importance:** 8/10
+
+Firefly Technology has introduced the CAM-3576 series of tiny SBCs based on the Rockchip RK3576 processor with a 6 TOPS NPU for AIoT, edge AI, smart vision, industrial, and automotive applications.
+
+💡 *Firefly Technology introduces CAM-3576 series SBCs for AIoT and edge AI applications with advanced NPU capabilities.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/12/24/firefly-cam-3576-series-tiny-rockchip-rk3576-sbcs-for-commercial-industrial-and-automotive-applications/)
 
 ---
 
-### 2. Luckfox Aura A Raspberry Pi-like Linux SBC powered by Rockchip RV1126B SoC with 3 TOPS NPU ⭐⭐
+## 📰 Other Stories
 
-**Importance:** 8/10
+### 4. Rockchip RK628D based HDMI-to-MIPI-CSI board converts HDMI video into camera feed for embedded systems ⭐⭐
 
-The Luckfox Aura is a high-performance Linux SBC with Rockchip RV1126B SoC, 3 TOPS NPU, and AI vision, multimedia processing capabilities. It has 4 GB LPDDR4X memory, 64 GB eMMC storage, and supports camera, display, and I/O options. The board also features Gigabit Ethernet, Wi-Fi 6, Bluetooth 5.4, and a 40-pin GPIO header.
+**Score:** 7/10 | The Firefly HDMI-to-MIPI-CSI board converts an HDMI input into a MIPI-CSI camera stream for embedded systems, supporting resolutions up to 4K @ 60fps and 4K @ 30fps output.
 
-💡 *The Luckfox Aura offers high-performance AI capabilities in a compact, cost-effective Linux SBC design.*
+💡 *Firefly's HDMI-to-MIPI-CSI board supports high-resolution camera feeds for embedded systems with 4K output capabilities.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/16/luckfox-aura-a-raspberry-pi-like-linux-sbc-powered-by-rockchip-rv1126b-soc-with-3-tops-npu/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/29/rockchip-rk628d-based-hdmi-to-mipi-csi-board-converts-hdmi-video-into-camera-feed-for-embedded-systems/)
 
 ---
 

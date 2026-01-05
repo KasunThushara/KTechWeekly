@@ -1,95 +1,85 @@
 # 🧠 Machine Learning Weekly Report
-**Week of December 27, 2025**
+**Week of January 05, 2026**
 
 *ML algorithms and research*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 7
-- **High Priority:** 7 articles (score ≥7)
-- **Average Importance:** 7.9/10
-- **Report Generated:** 2025-12-27 09:30
+- **Total Articles:** 6
+- **High Priority:** 6 articles (score ≥7)
+- **Average Importance:** 8.2/10
+- **Report Generated:** 2026-01-05 20:42
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Elon Musk says xAI will have more AI compute than everyone else combined within five years  Macrohard-branded Colossus 2 data center a nod to Musk's AI project to challenge Microsoft ⭐⭐
+### 1. Dev uses Claude AI to write a functional NES emulator you can test it now, playing Donkey Kong in your browser ⭐⭐⭐
 
-**Importance:** 8/10
+**Importance:** 9/10
 
-Elon Musk claimed on X that xAI will have more computing power than everyone else combined in less than five years.
+A developer has successfully used Claude AI to write a functional NES emulator, allowing users to play Donkey Kong in their browser.
 
-💡 *Elon Musk predicts xAI will surpass the combined AI computing power of all other entities.*
+💡 *Claude AI enables the creation of functional emulators, expanding the possibilities of browser-based game compatibility.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-xai-will-have-more-ai-compute-than-everyone-else-combined-within-five-years-macrohard-branding-emblazoned-on-the-roof-of-the-colossus-2-data-center-in-nod-to-the-billionaires-ai-project-to-challenge-microsoft)
-
----
-
-### 2. Firefly CAM-3576 series Tiny Rockchip RK3576 SBCs for commercial, industrial, and automotive applications ⭐⭐
-
-**Importance:** 8/10
-
-Firefly Technology has introduced the CAM-3576 series of tiny SBCs based on the Rockchip RK3576 processor for AIoT, edge AI, and industrial applications. It comes in three variants for smart cameras, intelligent security systems, and private on-device AI model deployment. The boards support up to 16GB of LPDDR5 RAM and various interfaces.
-
-💡 *Firefly Technology introduces compact Rockchip RK3576 SBCs for AIoT and edge AI applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/24/firefly-cam-3576-series-tiny-rockchip-rk3576-sbcs-for-commercial-industrial-and-automotive-applications/)
+🔗 [Read More](https://www.tomshardware.com/video-games/retro-gaming/dev-uses-claude-ai-to-write-a-functional-nes-emulator-you-can-test-it-now-playing-donkey-kong-in-your-browser)
 
 ---
 
-### 3. Auvidea X242 An NVIDIA Jetson Thor T5000 industrial carrier board with dual 10GbE, PCIe x16, CSI-2 camera support ⭐⭐
+### 2. Musk to expand xAI's training capacity to a monstrous 2 gigawatts with third building at Memphis site ⭐⭐
 
 **Importance:** 8/10
 
-Auvidea X242 is an industrial carrier board for NVIDIA's Jetson Thor T5000 module, targeting edge AI, robotics, vision, and high-bandwidth embedded systems. It supports dual 10GbE, PCIe x16 expansion, and multiple cameras through a 16-lane CSI-2 camera connector.
+Elon Musk has announced that xAI will expand its compute power to 2 gigawatts with a third building at its Memphis site.
 
-💡 *This carrier board offers high-bandwidth connectivity for edge AI, robotics, and vision applications.*
+💡 *Elon Musk's xAI expansion to 2 gigawatts significantly boosts AI compute power capabilities.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/23/auvidea-x242-an-nvidia-jetson-thor-t5000-industrial-carrier-board-with-dual-10gbe-pcie-x16-csi-2-camera-support/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/musk-purchases-third-building-at-memphis-site-to-expand-xais-training-capacity-to-a-monstrous-2-gigawatts-announcement-comes-days-after-musk-vows-to-have-more-ai-compute-than-everyone-else)
+
+---
+
+### 3. Nvidia's CUDA Tile examined: AI giant releases programming style for Rubin, Feynman, and beyond tensor-native execution model lays the foundation for Blackwell and beyond ⭐⭐
+
+**Importance:** 8/10
+
+Nvidia's CUDA 13.1 introduces CUDA Tile, a new tile-centric programming path that elevates GPU kernel development. This innovation aligns CUDA with the tensor-native execution model of Blackwell-class GPUs. It lays the software foundation for future architectures.
+
+💡 *Nvidia's CUDA Tile elevates GPU kernel development with a tile-centric programming path.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidias-cuda-tile-examined-ai-giant-releases-programming-style-for-rubin-feynman-and-beyond-tensor-native-execution-model-lays-the-foundation-for-blackwell-and-beyond)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. HackyPi 2.0 hacking tool gets ESP32-S3 for Wi-Fi and Bluetooth connectivity (Crowdfunding) ⭐⭐
+### 4. DFRobot HUSKYLENS 2 AI camera review ⭐⭐
 
-**Score:** 8/10 | HackyPi 2.0 is an ESP32-S3-based USB hacking and automation tool that adds Wi-Fi and Bluetooth connectivity, remote access, AI integration, and more.
+**Score:** 8/10 | The DFRobot HUSKYLENS 2 is an AI vision sensor with a Kendryte K230 dual-core RISC-V SoC and 6 TOPS AI accelerator, running machine vision algorithms fully on-device with built-in AI models and custom-trained model support.
 
-💡 *HackyPi 2.0 brings advanced remote-access capabilities to USB hacking and automation tools.*
+💡 *It offers on-device AI processing with a 6 TOPS AI accelerator for real-time vision applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/31/dfrobot-huskylens-2-ai-camera-review-from-built-in-ai-samples-to-training-a-custom-model-to-detect-elephants/)
+
+---
+
+### 5. Rockchip RK1820/RK1828 SO-DIMM and M.2 LLM/VLM AI accelerator modules, devkits, and benchmarks ⭐⭐
+
+**Score:** 8/10 | Rockchip unveiled RK182X LLM/VLM accelerators, a development kit is now available, and the RK1828 has been benchmarked against the Rockchip RK3588's NPU.
+
+💡 *Rockchip's RK182X accelerators aim to accelerate AI inference performance and reduce costs for edge deployments.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/30/rockchip-rk1820-rk1828-so-dimm-and-m-2-llm-vlm-ai-accelerator-modules-devkits-and-benchmarks/)
+
+---
+
+### 6. HackyPi 2.0 hacking tool gets ESP32-S3 for Wi-Fi and Bluetooth connectivity (Crowdfunding) ⭐⭐
+
+**Score:** 8/10 | HackyPi 2.0 is an ESP32-S3-based USB hacking tool that adds Wi-Fi and Bluetooth connectivity, remote access, and AI integration, making it more flexible than the original Raspberry Pi RP2040-based HackyPi.
+
+💡 *HackyPi 2.0 enhances hacking capabilities with the added flexibility of Wi-Fi and Bluetooth connectivity.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/12/23/hackypi-2-0-hacking-tool-esp32-s3-for-wi-fi-and-bluetooth-connectivity/)
-
----
-
-### 5. ESP32-P4 learning and prototyping kit features 7-inch touchscreen, comes with 16 modules and AI lessons ⭐⭐
-
-**Score:** 8/10 | The Elecrow All-in-One Starter Kit for ESP32-P4 is an open-source learning and prototyping platform that integrates AI, multimedia, and embedded features in a single kit, ideal for students, educational institutions, and developers.
-
-💡 *This kit provides an affordable, open-source platform for AI and multimedia development and prototyping.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/19/esp32-p4-learning-and-prototyping-kit-features-7-inch-touchscreen-comes-with-16-modules-and-ai-lessons/)
-
----
-
-### 6. Fusion HAT+ Raspberry Pi expansion board targets motor and servo control with AI and LLMs ⭐⭐
-
-**Score:** 8/10 | The SunFounder Fusion HAT+ is a motor control and GPIO expansion board for Raspberry Pi that features motor drivers, servo channels, and interfaces for sensors, with support for LLMs like ChatGPT and a built-in speaker and microphone.
-
-💡 *A Raspberry Pi expansion board offers AI and motor control capabilities with built-in audio interfaces.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/17/fusion-hat-raspberry-pi-expansion-board-targets-motor-and-servo-control-with-ai-and-llms/)
-
----
-
-### 7. ESP32-S3 AIoT Basic A learning and prototyping kit with camera, audio, LCD, and sensors ⭐⭐
-
-**Score:** 7/10 | The ESP32-S3 AIoT Basic is a low-cost, learning, and prototyping kit for the ESP32-S3, integrating common AIoT peripherals directly onto a single PCB. It supports 5V power via USB-C and 6 12V power input via Vin for driving additional devices. The board is suitable for AIoT learning, STEM education, voice and vision demos, sensor-based projects, and quick proof-of-concept development.
-
-💡 *It integrates common AIoT peripherals onto a single PCB for low-cost prototyping and development.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/22/esp32-s3-aiot-basic-a-learning-and-prototyping-kit-with-camera-audio-lcd-and-sensors/)
 
 ---
 
