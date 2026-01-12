@@ -1,135 +1,185 @@
 # 📡 Edge AI Weekly Report
-**Week of January 05, 2026**
+**Week of January 12, 2026**
 
 *AI on edge devices*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 11
-- **High Priority:** 10 articles (score ≥7)
-- **Average Importance:** 7.6/10
-- **Report Generated:** 2026-01-05 20:42
+- **Total Articles:** 16
+- **High Priority:** 15 articles (score ≥7)
+- **Average Importance:** 7.9/10
+- **Report Generated:** 2026-01-12 22:18
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Cincoze MD-3000 is a scalable DIN-Rail computer with up to 14th Gen 24-core Intel Core i9-14900 CPU ⭐⭐
+### 1. Doom conquers the kitchen through an electric cooking pot classic shooter runs seamlessly after a full device firmware refresh ⭐⭐
 
 **Importance:** 8/10
 
-The Cincoze MD-3000 is a high-performance, scalable DIN-Rail computer powered by Intel processors, supporting up to 96GB DDR5 memory, multiple storage options, and various interfaces. It targets vision-driven smart manufacturing applications. The computer can be expanded with up to six modules through the Scalable Expansion Deck.
+A YouTuber has managed to run Doom on a Krups Cook4Mec smart pressure cooker after dumping and reflashing the firmware on the appliance's touchscreen control hardware.
 
-💡 *The Cincoze MD-3000 offers high-performance computing for vision-driven smart manufacturing applications with scalability and flexibility.*
+💡 *This feat demonstrates the potential for repurposing smart home devices as gaming platforms.*
 
-🔗 [Read More](https://www.cnx-software.com/2026/01/02/cincoze-md-3000-scalable-din-rail-computer-with-up-to-14th-gen-24-core-intel-core-i9-14900-cpu/)
+🔗 [Read More](https://www.tomshardware.com/video-games/retro-gaming/youtuber-makes-doom-run-on-a-smart-cooking-pot-after-a-full-firmware-refresh)
 
 ---
 
-### 2. Forlinx FET1126Bx-S low-power Rockchip RV1126BJ industrial SoM powers SBC with 40-pin GPIO header ⭐⭐
+### 2. AMD Embedded+ mini-ITX Board features Ryzen AI Embedded P132 CPU, Versal AI Edge Gen2 VE3558 SoC FPGA ⭐⭐
 
 **Importance:** 8/10
 
-Forlinx has released the FET1126Bx-S, a low-power SoM based on the Rockchip RV1126B/RV1126BJ SoC, designed for edge AI applications with local video analytics, low power consumption, and long-term stability.
+Sapphire Technology introduced the EDGE+VPR-7P132, an AMD Embedded+ Mini-ITX motherboard with a Ryzen AI Embedded P132 CPU and AMD Versal AI Edge Gen 2 VE3558 SoC FPGA. It features Zen 5 CPU cores, RDNA 3.5 graphics, and 40 Gbps USB4 connectivity. This represents a significant update from last year's model.
 
-💡 *Forlinx's FET1126Bx-S SoM enables low-power edge AI applications with local video analytics capabilities.*
+💡 *This AMD Embedded+ board enables enhanced AI capabilities with integrated CPU and FPGA for edge computing.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/29/forlinx-fet1126bx-s-low-power-rockchip-rv1126bj-industrial-som-powers-sbc-with-40-pin-gpio-header/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/11/amd-embedded-mini-itx-board-features-ryzen-ai-embedded-p132-cpu-versal-ai-edge-gen2-ve3558-soc-fpga/)
 
 ---
 
-### 3. Bit-Brick Cluster K1 A 4-slot RISC-V cluster board for SpacemiT K1-based SSOM-K1 system-on-module ⭐⭐
+### 3. SECO's COM Express Type 6 module features Intel Core Ultra Series 3 Panther Lake-H processor with up to 180 TOPS ⭐⭐
 
 **Importance:** 8/10
 
-The Bit-Brick Cluster K1 is a 4-slot RISC-V cluster board designed for edge computing, AI workloads, and high-performance embedded applications. It features an onboard Gigabit Ethernet switch chip, USB ports, and a 3-pin fan power header. The cluster board uses the SpacemiT K1 octa-core RISC-V processor and supports up to 8GB dual-channel LPDDR4X memory.
+SECO has announced a COM Express Type 6 Basic module that supports the Intel Core Ultra X9 series processors, delivering up to 180 TOPS of AI performance. The module supports up to 128GB DDR5 memory, high-speed expansion, and multiple display interfaces. It is designed for rugged and mission-critical applications.
 
-💡 *The Bit-Brick Cluster K1 enables efficient edge computing and AI workloads with its RISC-V processor and high-memory capacity.*
+💡 *SECO's module enables up to 180 TOPS AI performance in rugged and mission-critical applications.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/28/bit-brick-cluster-k1-a-4-slot-risc-v-cluster-board-for-spacemit-k1-based-ssom-k1-system-on-module/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/09/seco-com-express-type-6-module-features-intel-core-ultra-series-3-panther-lake-h-processor-with-up-to-180-tops/)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Jetway B903DMTX Intel N97 fanless industrial box PC features 10 USB ports, four DB9 serial interfaces ⭐⭐
+### 4. Quectel SRG091X and SRG093X NXP i.MX 9 industrial AIoT modules integrates Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios ⭐⭐
 
-**Score:** 8/10 | Jetway B903DMTX is a fanless industrial box PC with Intel N97 quad-core Alder Lake-N CPU, 10 USB ports, 4 DB9 serial ports, and support for M.2 wireless modules.
+**Score:** 8/10 | Quectel has released two new low-power industrial AIoT modules based on NXP's i.MX 9 series SoCs, which integrate Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios. The SRG093X features a dual-core NXP i.MX 93 SoC with a Cortex-M33 real-time core and a neural processing unit (NPU) for edge AI workloads. The modules support LPDDR4/LPDDR4X memory, eMMC storage, and various I/O options.
 
-💡 *Jetway B903DMTX offers a fanless industrial PC solution for space-constrained applications with Intel N97 CPU.*
+💡 *Quectel's new industrial AIoT modules simplify edge AI development with integrated Wi-Fi 6 and Bluetooth 5.4 radios.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/26/jetway-b903dmtx-intel-n97-fanless-industrial-box-pc-features-10-usb-ports-four-db9-serial-interfaces/)
-
----
-
-### 5. Firefly CAM-3576 series  Tiny Rockchip RK3576 SBCs for commercial, industrial, and automotive applications ⭐⭐
-
-**Score:** 8/10 | Firefly Technology has introduced the CAM-3576 series of tiny SBCs based on the Rockchip RK3576 processor with a 6 TOPS NPU for AIoT, edge AI, smart vision, industrial, and automotive applications.
-
-💡 *Firefly's CAM-3576 series introduces a powerful SBC for AIoT and edge AI applications in various industries.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/24/firefly-cam-3576-series-tiny-rockchip-rk3576-sbcs-for-commercial-industrial-and-automotive-applications/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/09/quectel-srg091x-and-srg093x-nxp-i-mx-9-industrial-aiot-modules-integrates-wi-fi-6-bluetooth-5-4-and-802-15-4-radios/)
 
 ---
 
-### 6. Auvidea X242 An NVIDIA Jetson Thor T5000 industrial carrier board with dual 10GbE, PCIe x16, CSI-2 camera support ⭐⭐
+### 5. Reolink Floodlight 4K Smart PoE and WiFi 6 security cameras add on-device LLM for natural language video search ⭐⭐
 
-**Score:** 8/10 | Auvidea X242 is an industrial carrier board for NVIDIA's Jetson Thor T5000 module, supporting dual 10GbE, PCIe x16 expansion, and multiple cameras through a 16-lane CSI-2 camera connector.
+**Score:** 8/10 | Reolink has introduced two new 4K security cameras with on-device Large Language Model (LLM) for natural-language video search, allowing users to find specific items in footage without relying on manual scrolling or cloud-based detection.
 
-💡 *Auvidea X242's features empower industrial applications with high-speed networking and robust camera support.*
+💡 *Reolink's 4K security cameras now offer on-device Large Language Model for natural-language video search.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/23/auvidea-x242-an-nvidia-jetson-thor-t5000-industrial-carrier-board-with-dual-10gbe-pcie-x16-csi-2-camera-support/)
-
----
-
-### 7. HackyPi 2.0 hacking tool gets ESP32-S3 for Wi-Fi and Bluetooth connectivity (Crowdfunding) ⭐⭐
-
-**Score:** 8/10 | HackyPi 2.0 is an ESP32-S3-based USB hacking tool that adds Wi-Fi and Bluetooth connectivity, remote access, and AI integration, making it more flexible than the original Raspberry Pi RP2040-based HackyPi.
-
-💡 *HackyPi 2.0 introduces ESP32-S3 for enhanced Wi-Fi and Bluetooth connectivity in a hacking tool.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/23/hackypi-2-0-hacking-tool-esp32-s3-for-wi-fi-and-bluetooth-connectivity/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/08/reolink-floodlight-4k-smart-poe-security-cameras-add-on-device-llm-for-natural-language-video-search/)
 
 ---
 
-### 8. Forlinx FCU3011 An NVIDIA Jetson Orin Nano fanless industrial computer with 4x GbE, optional 4G/5G and Wi-Fi connectivity ⭐⭐
+### 6. Intel Core Ultra Series 3 Panther Lake-H CPU powers TGS-2000 series stackable Edge AI computers ⭐⭐
 
-**Score:** 8/10 | Forlinx Embedded has released the FCU3011, a compact, fanless industrial AI edge computer built around the NVIDIA Jetson Orin Nano, designed for 24/7 operations in various industries. It supports NVIDIA Jetson Orin Nano configurations with 4GB/8GB memory and a 128GB SSD. The system features various interfaces and power options for industrial applications.
+**Score:** 8/10 | Intel unveiled the Core Ultra Series 3 processors at CES 2026, targeting consumer and industrial applications. Vecow introduced the TGS-2000 series, ultra-compact, stackable Edge AI computers with enhanced AI performance using Intel Core Ultra Series 3. The TGS-2000 Series offers up to 100 TOPS combined performance.
 
-💡 *Forlinx FCU3011 offers a compact, fanless, and highly configurable AI edge computing solution for industrial applications.*
+💡 *Vecow's TGS-2000 series brings enhanced AI performance to edge deployments with 100 TOPS combined performance.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/22/forlinx-fcu3011-an-nvidia-jetson-orin-nano-fanless-industrial-computer-with-4x-gbe-optional-4g-5g-and-wi-fi-connectivity/)
-
----
-
-### 9. Openterface KVM-GO   An ultra-compact KVM-over-USB solution with HDMI, DP, or VGA video input ⭐⭐
-
-**Score:** 7/10 | Openterface KVM-GO is a small, open-source KVM-over-USB gadget that can be connected directly to a target device. It supports HDMI, DisplayPort, or VGA video input and has a microSD card slot for OS installation. The device follows the company's earlier Mini-KVM device.
-
-💡 *The Openterface KVM-GO offers a small, open-source KVM solution with versatile video input options.*
-
-🔗 [Read More](https://www.cnx-software.com/2026/01/05/openterface-kvm-go-an-ultra-compact-kvm-over-usb-solution-with-hdmi-dp-or-vga-video-input/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/08/intel-core-ultra-series-3-panther-lake-h-cpu-powers-tgs-2000-series-stackable-edge-ai-computers/)
 
 ---
 
-### 10. 4-inch round HDMI display offers USB touchscreen for Raspberry Pi, AIDA64, Smart Home, Art projects ⭐⭐
+### 7. AMD launches Ryzen AI Embedded P100 and X100 processors with up to 50 TOPS of AI performance ⭐⭐
 
-**Score:** 7/10 | VIEWE launched a 4-inch round HDMI display with 720x720 resolution and a USB touchscreen function suitable for SBCs, PCs, Smart Home, and Art projects.
+**Score:** 8/10 | AMD has introduced the Ryzen AI Embedded P100 and X100 x86 processors designed to power AI-driven applications at the edge, with up to 50 TOPS of AI performance and targeting automotive digital cockpits, smart healthcare equipment, and humanoid robotics.
 
-💡 *VIEWE's 4-inch round HDMI display expands touch interface options for Raspberry Pi and other SBCs.*
+💡 *AMD introduces Ryzen AI Embedded processors for edge AI applications with up to 50 TOPS performance.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/23/4-inch-round-hdmi-display-offers-usb-touchscreen-for-raspberry-pi-aida64-smart-home-art-projects/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/07/amd-launches-ryzen-ai-embedded-p100-and-x100-processors-with-up-to-50-tops-of-ai-performance/)
 
 ---
 
-### 11. ESP32-S3 AIoT Basic A learning and prototyping kit with camera, audio, LCD, and sensors 
+### 8. Quectel SP895BD-AP AIoT module features Qualcomm Dragonwing Q-8750 SoC with 80 TOPS NPU ⭐⭐
 
-**Score:** 6/10 | The ESP32-S3 AIoT Basic is a low-cost, learning, and prototyping kit with a range of AIoT peripherals, including a camera, audio, LCD, and sensors.
+**Score:** 8/10 | Quectel launched the SP895BD-AP smart AIoT module based on the Qualcomm Dragonwing Q-8750 SoC, designed for high-performance IoT applications such as video conferencing and smart retail terminals, supporting 8K video encoding and decoding with up to 3 48MP camera inputs.
 
-💡 *This kit offers an affordable entry point for developers to explore AIoT applications and prototyping.*
+💡 *Quectel's new AIoT module boosts high-performance IoT applications with 8K video capabilities.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/22/esp32-s3-aiot-basic-a-learning-and-prototyping-kit-with-camera-audio-lcd-and-sensors/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/07/quectel-sp895bd-ap-aiot-module-features-qualcomm-dragonwing-q-8750soc-with-80-tops-npu/)
+
+---
+
+### 9. Nordic Semi nRF54LM20B wireless SoC integrates 128 MHz Axon NPU for Edge AI workloads ⭐⭐
+
+**Score:** 8/10 | Nordic Semi's nRF54LM20B wireless SoC integrates an ultra-efficient Axon NPU for edge AI workloads, delivering up to 7 times faster performance and up to 8 times higher energy efficiency compared to competing solutions.
+
+💡 *Nordic Semi's nRF54LM20B SoC offers significant performance and energy efficiency improvements for edge AI workloads.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/07/nordic-semi-nrf54lm20b-wireless-soc-integrates-128-mhz-axon-npu-for-edge-ai-workloads/)
+
+---
+
+### 10. STM32MP21 Arm Cortex-A35/M33 MPU targets cost-effective applications in smart factories, homes, and cities ⭐⭐
+
+**Score:** 8/10 | The STM32MP21 microprocessor family combines a 1.5 GHz Arm Cortex-A35 application core with a 300 MHz Arm Cortex-M33 core for real-time processing, targeting cost-aware edge applications in smart factories, smart homes, and smart cities.
+
+💡 *Integrates real-time processing capabilities into cost-effective solutions for smart factories and smart homes.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/07/stm32mp21-arm-cortex-a35-m33-mpu-targets-cost-effective-applications-in-smart-factory-homes-and-factories/)
+
+---
+
+### 11. NVIDIA Jetson T4000 Edge AI embedded system offers 5GbE networking, four PoE camera ports, DIO, CAN Bus, and more ⭐⭐
+
+**Score:** 8/10 | The AAEON BOXER-8742AI is a fanless Edge AI embedded system powered by an NVIDIA Jetson T4000, offering 5GbE networking, four PoE camera ports, and more. It's suitable for high-performance edge AI applications. The system-on-module features a 12-core CPU, 1536-core NVIDIA Blackwell GPU, and 6-TPC MIG VPU.
+
+💡 *The AAEON BOXER-8742AI brings high-performance edge AI capabilities to industrial applications with 5GbE networking and PoE ports.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/06/nvidia-jetson-t4000-edge-ai-embedded-system-offers-5gbe-networking-four-poe-camera-ports-dio-can-bus-and-more/)
+
+---
+
+### 12. Qualcomm Dragonwing Q 7790 and Q 8750 AIoT SoCs target AI-enhanced drones, cameras, TVs and media hubs ⭐⭐
+
+**Score:** 8/10 | Qualcomm introduced the Dragonwing Q 7790 and Q 8750 processors supporting on-device AI for drones, smart cameras, and industrial vision, AI TVs/media hubs, and video collaboration systems.
+
+💡 *Qualcomm introduces AI-enhanced SoCs for drones, cameras, TVs, and media hubs.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/06/qualcomm-dragonwing-q-7790-and-q-8750-aiot-socs-target-ai-enhanced-drones-cameras-tvs-and-media-hubs/)
+
+---
+
+### 13. Allwinner V861 dual-core 64-bit RISC-V AI Camera SiP features 128MB DDR3L, 4K H.265/H.264 video encoder ⭐⭐
+
+**Score:** 8/10 | The Allwinner V861 is a dual-core RISC-V system-in-package (SiP) with a 1 TOPS AI NPU, designed for 4K AI camera applications, featuring a 4K H.265/H.264 video encoder and 1080p60 JPEG video decoder.
+
+💡 *It brings a high-performance, 4K-capable AI camera SoC to market with an affordable and open-source RISC-V architecture.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/04/allwinner-v861-dual-core-64-bit-risc-v-ai-camera-sip-features-128mb-ddr3l-4k-h-265-h-264-video-encoder/)
+
+---
+
+### 14. Cincoze MD-3000 is a scalable DIN-Rail computer with up to 14th Gen 24-core Intel Core i9-14900 CPU ⭐⭐
+
+**Score:** 8/10 | The Cincoze MD-3000 is a high-performance, scalable DIN-Rail computer powered by up to a 14th Gen 24-core Intel Core i9-14900 CPU, supporting up to 96GB DDR5 memory and various I/O interfaces.
+
+💡 *This article highlights a high-performance DIN-Rail computer for industrial applications with exceptional scalability.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/02/cincoze-md-3000-scalable-din-rail-computer-with-up-to-14th-gen-24-core-intel-core-i9-14900-cpu/)
+
+---
+
+### 15. DFRobot HUSKYLENS 2 AI camera review From built-in AI samples to training a custom model to detect elephants ⭐⭐
+
+**Score:** 8/10 | The HUSKYLENS 2 is a next-generation AI vision sensor with a Kendryte K230 dual-core RISC-V SoC, 6 TOPS AI accelerator, and 2.4-inch IPS touchscreen, supporting built-in AI models and custom-trained models via UART or I2C communication interfaces.
+
+💡 *This AI camera enables users to train custom models for object detection using built-in AI samples.*
+
+🔗 [Read More](https://www.cnx-software.com/2025/12/31/dfrobot-huskylens-2-ai-camera-review-from-built-in-ai-samples-to-training-a-custom-model-to-detect-elephants/)
+
+---
+
+### 16. Home Assistant-compatible Makerfabs ESP32-S3-based energy meter features BL0942 energy metering IC 
+
+**Score:** 6/10 | The Energy Meter for Home Assistant is an ESP32-S3-based single-phase energy monitoring and control module that measures real-time power and energy consumption and has remote on/off control.
+
+💡 *Enables users to monitor and control their energy consumption remotely with Home Assistant integration.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/09/home-assistant-compatible-makerfabs-esp32-s3-based-energy-meter-features-bl0942-energy-metering-ic/)
 
 ---
 

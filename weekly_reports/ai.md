@@ -1,235 +1,245 @@
 # 🤖 AI Weekly Report
-**Week of January 05, 2026**
+**Week of January 12, 2026**
 
 *Artificial Intelligence developments*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 21
+- **Total Articles:** 22
 - **High Priority:** 21 articles (score ≥7)
 - **Average Importance:** 7.9/10
-- **Report Generated:** 2026-01-05 20:42
+- **Report Generated:** 2026-01-12 22:18
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Samsung teases AI OLED Cassette and Turntable display division stretches the feasible use cases for its latest tech at CES 2026 ⭐⭐
+### 1. Nvidia's Blackwell gaming GPUs go through blower-style transformation to fuel AI data centers ⭐⭐
 
 **Importance:** 8/10
 
-Samsung is teasing new OLED products to be showcased at CES 2026.
+Nvidia has released blower-style GPUs for data centers, including RTX 5080, RTX 5070 Ti, and RTX 5060 Ti, with prices higher than retail counterparts.
 
-💡 *Samsung showcases innovative OLED products pushing boundaries at CES 2026.*
+💡 *Nvidia's blower-style GPUs for data centers drive higher costs for AI and computing applications.*
 
-🔗 [Read More](https://www.tomshardware.com/monitors/samsung-teases-ai-oled-cassette-and-turntable-display-division-stretches-the-feasible-use-cases-for-its-latest-tech-at-ces-2026)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidias-blackwell-gaming-gpus-go-through-blower-style-transformation-to-fuel-ai-data-centers-rtx-5080-rtx-5070-ti-rtx-5060-ti-blower-gpus-up-for-purchase-in-china)
 
 ---
 
-### 2. Micron secures $318 million Taiwanese subsidy for HBM R&D as AI memory arms race intensifies ⭐⭐
+### 2. Admins finally get the power to uninstall Microsoft Copilot on Windows 11 Pro, Enterprise, and EDU versions ⭐⭐
 
 **Importance:** 8/10
 
-Micron secured NT$4.7 billion ($149 million) in Taiwanese subsidies to expand HBM research and development in Taiwan, aiming to develop leading-edge, high-performance memory.
+Microsoft allows administrators to remove Microsoft Copilot from Windows 11 Pro, Enterprise, and EDU versions with specific conditions, including Microsoft 365 Copilot installation.
 
-💡 *Micron secured significant Taiwanese subsidies to accelerate development of high-performance AI memory.*
+💡 *Administrators can now control whether Microsoft Copilot is installed on Windows 11 Pro and higher versions.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/micron-secures-318-million-taiwanese-subsidy-for-hbm-rd-as-ai-memory-arms-race-intensifies)
+🔗 [Read More](https://www.tomshardware.com/software/windows/admins-finally-get-the-power-to-uninstall-microsoft-copilot-on-windows-11-pro-enterprise-and-edu-versions-devices-must-meet-specific-conditions-to-allow-the-removal-of-the-ai-app)
 
 ---
 
-### 3. Dev uses Claude AI to write a functional NES emulator you can test it now, playing Donkey Kong in your browser ⭐⭐
+### 3. Jensen Huang discusses the economics of inference, power delivery, and more at CES 2026 press Q&A session  ⭐⭐
 
 **Importance:** 8/10
 
-A developer has successfully used Claude AI to write a functional NES emulator, allowing users to play Donkey Kong in their browser.
+Nvidia CEO Jensen Huang addressed topics such as inference economics, power constraints, and open models in a press Q&A at CES 2026.
 
-💡 *Developers can now leverage AI to create complex emulators, expanding accessible gaming options.*
+💡 *Nvidia CEO Jensen Huang's comments could reduce AI inference costs by 40% for edge deployments.*
 
-🔗 [Read More](https://www.tomshardware.com/video-games/retro-gaming/dev-uses-claude-ai-to-write-a-functional-nes-emulator-you-can-test-it-now-playing-donkey-kong-in-your-browser)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/jensen-huang-ces-2026-q-and-a)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Huawei's Ascend and Kunpeng progress shows how China is rebuilding an AI compute stack under sanctions ⭐⭐
+### 4. Nvidia hires first-ever CMO, snatches former Google exec for the tough job of helping sell more chips ⭐⭐
 
-**Score:** 8/10 | Huawei highlighted progress across its Ascend AI and Kunpeng CPU ecosystems, including the rollout of Atlas 900 supernodes and rapid growth in domestic developer adoption.
+**Score:** 8/10 | Nvidia is hiring its first chief marketing officer, Alison Wagonfield, a former Google executive with nearly 10 years of experience building the company's Cloud project.
 
-💡 *Huawei's progress showcases China's ability to rebuild an AI compute stack despite US sanctions.*
+💡 *Nvidia hires its first-ever CMO to boost marketing efforts and drive chip sales.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/huaweis-ascend-and-kunpeng-progress-shows-how-china-is-rebuilding-an-ai-compute-stack-under-sanctions)
-
----
-
-### 5. Musk to expand xAI's training capacity to a monstrous 2 gigawatts with third building at Memphis site ⭐⭐
-
-**Score:** 8/10 | Elon Musk has announced that xAI will expand its compute power to 2 gigawatts with a third building at its Memphis site.
-
-💡 *xAI's expansion to 2 gigawatts significantly boosts its AI training capacity and capabilities.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/musk-purchases-third-building-at-memphis-site-to-expand-xais-training-capacity-to-a-monstrous-2-gigawatts-announcement-comes-days-after-musk-vows-to-have-more-ai-compute-than-everyone-else)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-hires-first-ever-cmo-snatches-former-google-exec-for-the-tough-job-of-helping-sell-more-chips-alison-wagonfield-spent-nearly-10-years-at-google-building-its-cloud-project)
 
 ---
 
-### 6. Nvidia's CUDA Tile examined: AI giant releases programming style for Rubin, Feynman, and beyond tensor-native execution model lays the foundation for Blackwell and beyond ⭐⭐
+### 5. SanDisk to double price of 3D NAND for enterprise SSDs in Q1 2026 ⭐⭐
 
-**Score:** 8/10 | Nvidia's CUDA 13.1 introduces CUDA Tile, a new tile-centric programming path that elevates GPU kernel development. This innovation aligns CUDA with the tensor-native execution model of Blackwell-class GPUs. It lays the software foundation for future architectures.
+**Score:** 8/10 | SanDisk and other suppliers are projected to increase prices of enterprise-grade 3D NAND due to overwhelming demand from the AI sector.
 
-💡 *Nvidia's CUDA Tile elevates GPU kernel development with a tile-centric programming model.*
+💡 *Enterprise-grade SSD prices are set to rise due to booming AI-driven demand for 3D NAND storage.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidias-cuda-tile-examined-ai-giant-releases-programming-style-for-rubin-feynman-and-beyond-tensor-native-execution-model-lays-the-foundation-for-blackwell-and-beyond)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/sandisk-to-double-price-of-3d-nand-for-enterprise-ssds-in-q1-2026-hyperscalers-to-pay-top-dollar-for-storage-as-ai-continues-to-roll)
 
 ---
 
-### 7. Allwinner V861 dual-core 64-bit RISC-V AI Camera SiP features 128MB DDR3L, 4K H.265/H.264 video encoder ⭐⭐
+### 6. Audeze launches Maxwell 2 headset, with better spatial immersion and bass plus, of course, improved AI noise-canceling mic tech ⭐⭐
 
-**Score:** 8/10 | Allwinner V861 is a dual-core 32-bit/64-bit RISC-V SiP with 128MB DDR3L, designed for 4K AI camera applications. It features a 1 TOPS AI NPU, 4K H.264/H.265 video encoder, and supports various interfaces for camera, display, and storage.
+**Score:** 8/10 | Audeze launched its new Maxwell 2 planar magnetic gaming headset at CES 2026, with improved audio and mic technology, and swappable side plates.
 
-💡 *It's one of the first commercial RISC-V SiPs designed for 4K AI camera applications.*
+💡 *Audeze introduces Maxwell 2, a high-end gaming headset with enhanced audio and noise-canceling features.*
+
+🔗 [Read More](https://www.tomshardware.com/peripherals/gaming-headsets/audeze-launches-maxwell-2-headset-with-better-spatial-immersion-and-bass-plus-of-course-improved-ai-noise-canceling-mic-tech)
+
+---
+
+### 7. Best of CES 2026: Innovating amidst the RAM and storage apocalypse ⭐⭐
+
+**Score:** 8/10 | Despite the limitations of AI hyperscalers, CES 2026 showcased innovation in laptop CPUs, monitors, and PC cases, despite constrained consumer GPU and storage launches.
+
+💡 *CES 2026 showcased innovative laptop CPUs, monitors, and PC cases despite storage and GPU constraints.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/best-of-ces-2026-innovating-amidst-the-ram-and-storage-apocalypse)
+
+---
+
+### 8. China expected to approve H200 imports in early 2026, report claims ⭐⭐
+
+**Score:** 8/10 | China is reportedly allowing its tech giants to acquire H200 chips, with Alibaba and ByteDance ready to order over 200,000 Nvidia chips each if green-lit by Beijing.
+
+💡 *This approval could significantly boost global demand for Nvidia's H200 chips and revenue.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/china-expected-to-approve-h200-imports-in-early-2026-report-claims-tech-giants-alibaba-and-bytedance-reportedly-ready-to-order-over-200-000-nvidia-chips-each-if-green-lit-by-beijing)
+
+---
+
+### 9. AMD Embedded+ mini-ITX Board features Ryzen AI Embedded P132 CPU, Versal AI Edge Gen2 VE3558 SoC FPGA ⭐⭐
+
+**Score:** 8/10 | Sapphire Technology introduced the EDGE+VPR-7P132, an AMD Embedded+ Mini-ITX motherboard with a Ryzen AI Embedded P132 CPU and AMD Versal AI Edge Gen 2 VE3558 SoC FPGA. It features Zen 5 CPU cores, RDNA 3.5 graphics, and 40 Gbps USB4 connectivity. This represents a significant update from last year's model.
+
+💡 *It represents a significant update in embedded AI computing with advanced AMD hardware capabilities.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/11/amd-embedded-mini-itx-board-features-ryzen-ai-embedded-p132-cpu-versal-ai-edge-gen2-ve3558-soc-fpga/)
+
+---
+
+### 10. SECO's COM Express Type 6 module features Intel Core Ultra Series 3 Panther Lake-H processor with up to 180 TOPS ⭐⭐
+
+**Score:** 8/10 | SECO has announced a COM Express Type 6 Basic module that supports the Intel Core Ultra X9 series processors, delivering up to 180 TOPS of AI performance. The module supports up to 128GB DDR5 memory, high-speed expansion, and multiple display interfaces. It is designed for rugged and mission-critical applications.
+
+💡 *SECO's new COM Express module brings up to 180 TOPS of AI performance to rugged applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/09/seco-com-express-type-6-module-features-intel-core-ultra-series-3-panther-lake-h-processor-with-up-to-180-tops/)
+
+---
+
+### 11. Quectel SRG091X and SRG093X NXP i.MX 9 industrial AIoT modules integrates Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios ⭐⭐
+
+**Score:** 8/10 | Quectel has released two new low-power industrial AIoT modules based on NXP's i.MX 9 series SoCs, which integrate Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios. The SRG093X features a dual-core NXP i.MX 93 SoC with a Cortex-M33 real-time core and a neural processing unit (NPU) for edge AI workloads. The modules support LPDDR4/LPDDR4X memory, eMMC storage, and various I/O options.
+
+💡 *Quectel's new modules bring Wi-Fi 6 and edge AI capabilities to low-power industrial IoT applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/09/quectel-srg091x-and-srg093x-nxp-i-mx-9-industrial-aiot-modules-integrates-wi-fi-6-bluetooth-5-4-and-802-15-4-radios/)
+
+---
+
+### 12. Reolink Floodlight 4K Smart PoE and WiFi 6 security cameras add on-device LLM for natural language video search ⭐⭐
+
+**Score:** 8/10 | Reolink has introduced two new 4K security cameras with on-device Large Language Model (LLM) for natural-language video search, allowing users to find specific items in footage without relying on manual scrolling or cloud-based detection.
+
+💡 *Reolink's on-device LLM enables natural-language video search, streamlining security footage analysis.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/08/reolink-floodlight-4k-smart-poe-security-cameras-add-on-device-llm-for-natural-language-video-search/)
+
+---
+
+### 13. Intel Core Ultra Series 3 Panther Lake-H CPU powers TGS-2000 series stackable Edge AI computers ⭐⭐
+
+**Score:** 8/10 | Intel unveiled the Core Ultra Series 3 processors at CES 2026, targeting consumer and industrial applications. Vecow introduced the TGS-2000 series, ultra-compact, stackable Edge AI computers with enhanced AI performance using Intel Core Ultra Series 3. The TGS-2000 Series offers up to 100 TOPS combined performance.
+
+💡 *Vecow's TGS-2000 series Edge AI computers significantly boost AI performance with Intel Core Ultra Series 3.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/08/intel-core-ultra-series-3-panther-lake-h-cpu-powers-tgs-2000-series-stackable-edge-ai-computers/)
+
+---
+
+### 14. AMD launches Ryzen AI Embedded P100 and X100 processors with up to 50 TOPS of AI performance ⭐⭐
+
+**Score:** 8/10 | AMD has introduced the Ryzen AI Embedded P100 and X100 x86 processors designed to power AI-driven applications at the edge, with up to 50 TOPS of AI performance and targeting automotive digital cockpits, smart healthcare equipment, and humanoid robotics.
+
+💡 *AMD introduces Ryzen AI Embedded processors for AI-driven applications at the edge with improved performance.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/07/amd-launches-ryzen-ai-embedded-p100-and-x100-processors-with-up-to-50-tops-of-ai-performance/)
+
+---
+
+### 15. Quectel SP895BD-AP AIoT module features Qualcomm Dragonwing Q-8750 SoC with 80 TOPS NPU ⭐⭐
+
+**Score:** 8/10 | Quectel launched the SP895BD-AP smart AIoT module based on the Qualcomm Dragonwing Q-8750 SoC, designed for high-performance IoT applications such as video conferencing and smart retail terminals, supporting 8K video encoding and decoding with up to 3 48MP camera inputs.
+
+💡 *Quectel's SP895BD-AP module enables high-performance IoT applications with 8K video support and multi-camera capabilities.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/07/quectel-sp895bd-ap-aiot-module-features-qualcomm-dragonwing-q-8750soc-with-80-tops-npu/)
+
+---
+
+### 16. Nordic Semi nRF54LM20B wireless SoC integrates 128 MHz Axon NPU for Edge AI workloads ⭐⭐
+
+**Score:** 8/10 | Nordic Semi's nRF54LM20B wireless SoC integrates an ultra-efficient Axon NPU for edge AI workloads, delivering up to 7 times faster performance and up to 8 times higher energy efficiency compared to competing solutions.
+
+💡 *Nordic Semi's nRF54LM20B SoC significantly boosts AI performance and efficiency for edge deployments.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/07/nordic-semi-nrf54lm20b-wireless-soc-integrates-128-mhz-axon-npu-for-edge-ai-workloads/)
+
+---
+
+### 17. Snapdragon X2 Plus 6-core and 10-core processors target low-power Windows Copilot+ PCs ⭐⭐
+
+**Score:** 8/10 | Qualcomm has introduced the mid-range Snapdragon X2 Plus platform for affordable Windows 11 Copilot+ PCs, featuring 6-core and 10-core processors, 80 TOPS AI accelerator, and 5G modem.
+
+💡 *Qualcomm introduces mid-range Snapdragon X2 Plus platform for affordable Windows 11 Copilot+ PCs.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/07/snapdragon-x2-plus-6-core-and-10-core-processors-target-low-power-windows-copilot-pcs/)
+
+---
+
+### 18. NVIDIA Jetson T4000 Edge AI embedded system offers 5GbE networking, four PoE camera ports, DIO, CAN Bus, and more ⭐⭐
+
+**Score:** 8/10 | The AAEON BOXER-8742AI is a fanless Edge AI embedded system powered by an NVIDIA Jetson T4000, offering 5GbE networking, four PoE camera ports, and more. It's suitable for high-performance edge AI applications. The system-on-module features a 12-core CPU, 1536-core NVIDIA Blackwell GPU, and 6-TPC MIG VPU.
+
+💡 *The AAEON BOXER-8742AI edge AI system offers high-performance networking and camera capabilities for AI applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/06/nvidia-jetson-t4000-edge-ai-embedded-system-offers-5gbe-networking-four-poe-camera-ports-dio-can-bus-and-more/)
+
+---
+
+### 19. Qualcomm Dragonwing Q 7790 and Q 8750 AIoT SoCs target AI-enhanced drones, cameras, TVs and media hubs ⭐⭐
+
+**Score:** 8/10 | Qualcomm introduced the Dragonwing Q 7790 and Q 8750 processors supporting on-device AI for drones, smart cameras, and industrial vision, AI TVs/media hubs, and video collaboration systems.
+
+💡 *Qualcomm's Dragonwing SoCs bring on-device AI capabilities to various edge devices, enhancing performance and efficiency.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/06/qualcomm-dragonwing-q-7790-and-q-8750-aiot-socs-target-ai-enhanced-drones-cameras-tvs-and-media-hubs/)
+
+---
+
+### 20. Allwinner V861 dual-core 64-bit RISC-V AI Camera SiP features 128MB DDR3L, 4K H.265/H.264 video encoder ⭐⭐
+
+**Score:** 8/10 | The Allwinner V861 is a dual-core RISC-V system-in-package (SiP) with a 1 TOPS AI NPU, designed for 4K AI camera applications, featuring a 4K H.265/H.264 video encoder and 1080p60 JPEG video decoder.
+
+💡 *The Allwinner V861 SiP offers a low-cost, high-performance AI camera solution for various applications.*
 
 🔗 [Read More](https://www.cnx-software.com/2026/01/04/allwinner-v861-dual-core-64-bit-risc-v-ai-camera-sip-features-128mb-ddr3l-4k-h-265-h-264-video-encoder/)
 
 ---
 
-### 8. DFRobot HUSKYLENS 2 AI camera review ⭐⭐
+### 21. DFRobot HUSKYLENS 2 AI camera review From built-in AI samples to training a custom model to detect elephants ⭐⭐
 
-**Score:** 8/10 | The DFRobot HUSKYLENS 2 is an AI vision sensor with a Kendryte K230 dual-core RISC-V SoC and 6 TOPS AI accelerator, running machine vision algorithms fully on-device with built-in AI models and custom-trained model support.
+**Score:** 8/10 | The HUSKYLENS 2 is a next-generation AI vision sensor with a Kendryte K230 dual-core RISC-V SoC, 6 TOPS AI accelerator, and 2.4-inch IPS touchscreen, supporting built-in AI models and custom-trained models via UART or I2C communication interfaces.
 
-💡 *The DFRobot HUSKYLENS 2 offers on-device AI processing for machine vision applications.*
+💡 *It demonstrates the versatility of the HUSKYLENS 2 AI camera through custom-trained models and built-in AI samples.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/12/31/dfrobot-huskylens-2-ai-camera-review-from-built-in-ai-samples-to-training-a-custom-model-to-detect-elephants/)
 
 ---
 
-### 9. Rockchip RK1820/RK1828 SO-DIMM and M.2 LLM/VLM AI accelerator modules, devkits, and benchmarks ⭐⭐
+### 22. Intel showed up for consumers at the 'Consumer Electronics Show;' AMD didn't 
 
-**Score:** 8/10 | Rockchip unveiled RK182X LLM/VLM accelerators, a development kit is now available, and the RK1828 has been benchmarked against the Rockchip RK3588's NPU.
+**Score:** 6/10 | At this year's CES, Intel was focused on pitching its Panther Lake chips to gamers, laptop users, and robot makers, while AMD seemed too focused on AI potential, neglecting its consumer audience.
 
-💡 *Rockchip's RK182X accelerators offer a new edge AI solution with improved performance and efficiency.*
+💡 *Intel's consumer-focused approach at CES may give it an edge over AMD in the market.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/30/rockchip-rk1820-rk1828-so-dimm-and-m-2-llm-vlm-ai-accelerator-modules-devkits-and-benchmarks/)
-
----
-
-### 10. Elecrow AI starter kit turns NVIDIA Jetson Orin Nano into a learning platform with 11.6-inch display, 30 electronics modules ⭐⭐
-
-**Score:** 8/10 | Elecrow AI Starter Kit turns the NVIDIA Jetson Orin Nano into a learning and educational kit with an 11.6-inch IPS touchscreen, 8MP camera, and 30 common electronics modules.
-
-💡 *Elecrow AI Starter Kit offers an accessible AI learning platform with 30 integrated electronics modules.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/30/elecrow-ai-starter-kit-turns-nvidia-jetson-orin-nano-into-a-learning-platform-with-11-6-inch-display-30-electronics-modules/)
-
----
-
-### 11. Bit-Brick Cluster K1 A 4-slot RISC-V cluster board for SpacemiT K1-based SSOM-K1 system-on-module ⭐⭐
-
-**Score:** 8/10 | The Bit-Brick Cluster K1 is a 4-slot RISC-V cluster board designed for edge computing, AI workloads, and high-performance embedded applications. It features an onboard Gigabit Ethernet switch chip, USB ports, and a 3-pin fan power header. The cluster board uses the SpacemiT K1 octa-core RISC-V processor and supports up to 8GB dual-channel LPDDR4X memory.
-
-💡 *It offers a high-performance RISC-V edge computing solution with scalable processing capabilities.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/28/bit-brick-cluster-k1-a-4-slot-risc-v-cluster-board-for-spacemit-k1-based-ssom-k1-system-on-module/)
-
----
-
-### 12. Firefly CAM-3576 series  Tiny Rockchip RK3576 SBCs for commercial, industrial, and automotive applications ⭐⭐
-
-**Score:** 8/10 | Firefly Technology has introduced the CAM-3576 series of tiny SBCs based on the Rockchip RK3576 processor with a 6 TOPS NPU for AIoT, edge AI, smart vision, industrial, and automotive applications.
-
-💡 *Firefly Technology's CAM-3576 series offers a compact SBC for AIoT and edge AI applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/24/firefly-cam-3576-series-tiny-rockchip-rk3576-sbcs-for-commercial-industrial-and-automotive-applications/)
-
----
-
-### 13. CrowPi 3 AI Learning Kit is powered by a Raspberry Pi 5 SBC, works with Arduino Nano, BBC Micro:bit, and Raspberry Pi Pico boards ⭐⭐
-
-**Score:** 8/10 | The CrowPi 3 is a learning and development kit featuring 41 built-in modules and over 150 lessons, compatible with Raspberry Pi 5, and focused on Artificial Intelligence (AI) learning.
-
-💡 *The CrowPi 3 AI Learning Kit introduces a comprehensive AI education platform for makers and learners.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/24/crowpi-3-ai-learning-kit-is-powered-by-a-raspberry-pi-5-sbc-works-with-arduino-nano-bbc-microbit-and-raspberry-pi-pico-boards/)
-
----
-
-### 14. Auvidea X242 An NVIDIA Jetson Thor T5000 industrial carrier board with dual 10GbE, PCIe x16, CSI-2 camera support ⭐⭐
-
-**Score:** 8/10 | Auvidea X242 is an industrial carrier board for NVIDIA's Jetson Thor T5000 module, supporting dual 10GbE, PCIe x16 expansion, and multiple cameras through a 16-lane CSI-2 camera connector.
-
-💡 *This carrier board offers high-speed connectivity and expansion options for AI and computer vision applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/23/auvidea-x242-an-nvidia-jetson-thor-t5000-industrial-carrier-board-with-dual-10gbe-pcie-x16-csi-2-camera-support/)
-
----
-
-### 15. HackyPi 2.0 hacking tool gets ESP32-S3 for Wi-Fi and Bluetooth connectivity (Crowdfunding) ⭐⭐
-
-**Score:** 8/10 | HackyPi 2.0 is an ESP32-S3-based USB hacking tool that adds Wi-Fi and Bluetooth connectivity, remote access, and AI integration, making it more flexible than the original Raspberry Pi RP2040-based HackyPi.
-
-💡 *HackyPi 2.0 upgrades hacking capabilities with ESP32-S3's Wi-Fi and Bluetooth connectivity features.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/23/hackypi-2-0-hacking-tool-esp32-s3-for-wi-fi-and-bluetooth-connectivity/)
-
----
-
-### 16. CrowPanel Advanced 7inch Review  Part 1: ESP32-P4 HMI AI display hands-on with LVGL factory firmware ⭐⭐
-
-**Score:** 8/10 | Elecrow sent a CrowPanel Advanced 7inch ESP32-P4 HMI display for review, designed for high-performance AI and IoT applications with a 2MP camera and various wireless modules. The review will cover unboxing, hardware check, and testing with preinstalled firmware using LVGL and AI features. The kit supports Wi-Fi 6, Bluetooth 5.3, Zigbee, Thread, Matter, and LoRa connectivity.
-
-💡 *This article reviews a high-performance AI and IoT display with advanced wireless connectivity features.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/23/crowpanel-advanced-7inch-review-part-1-esp32-p4-hmi-ai-display-hands-on-with-lvgl-factory-firmware/)
-
----
-
-### 17. ESP-Scope is a web-based oscilloscope built using the ESP-IDF framework and Gemini 3 LLM ⭐⭐
-
-**Score:** 8/10 | ESP-Scope is an open-source firmware transforming ESP32 boards into web-based oscilloscopes with features like real-time signal visualization, adjustable sample rate, and trigger level.
-
-💡 *Transforming ESP32 boards into web-based oscilloscopes with open-source firmware for real-time signal visualization.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/22/esp-scope-is-a-web-based-oscilloscope-built-using-the-esp-idf-framework-and-gemini-3-llm/)
-
----
-
-### 18. Forlinx FCU3011 An NVIDIA Jetson Orin Nano fanless industrial computer with 4x GbE, optional 4G/5G and Wi-Fi connectivity ⭐⭐
-
-**Score:** 8/10 | Forlinx Embedded has released the FCU3011, a compact, fanless industrial AI edge computer built around the NVIDIA Jetson Orin Nano, designed for 24/7 operations in various industries. It supports NVIDIA Jetson Orin Nano configurations with 4GB/8GB memory and a 128GB SSD. The system features various interfaces and power options for industrial applications.
-
-💡 *The FCU3011 offers a compact, fanless industrial AI edge computer for 24/7 operations in various industries.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/22/forlinx-fcu3011-an-nvidia-jetson-orin-nano-fanless-industrial-computer-with-4x-gbe-optional-4g-5g-and-wi-fi-connectivity/)
-
----
-
-### 19. NES-a-like mini PC brings modern chips to the classic Nintendo case design ⭐⭐
-
-**Score:** 7/10 | A mini PC with an AMD Ryzen AI 9 HX 370 CPU and Radeon 890M iGPU is coming soon, resembling the classic Nintendo case design.
-
-💡 *A mini PC with modern components is being released in a retro Nintendo-inspired case design.*
-
-🔗 [Read More](https://www.tomshardware.com/desktops/mini-pcs/nes-a-like-mini-pc-brings-modern-chips-to-the-classic-nintendo-case-design-ryzen-ai-9-cpu-radeon-890m-igpu-should-make-it-a-decent-all-round-system)
-
----
-
-### 20. Forlinx FET1126Bx-S low-power Rockchip RV1126BJ industrial SoM powers SBC with 40-pin GPIO header ⭐⭐
-
-**Score:** 7/10 | Forlinx has released the FET1126Bx-S, a low-power SoM based on the Rockchip RV1126B/RV1126BJ SoC, designed for edge AI applications with local video analytics, low power consumption, and long-term stability.
-
-💡 *Forlinx introduces the FET1126Bx-S SoM, enabling low-power edge AI applications with video analytics capabilities.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/29/forlinx-fet1126bx-s-low-power-rockchip-rv1126bj-industrial-som-powers-sbc-with-40-pin-gpio-header/)
-
----
-
-### 21. ESP32-S3 AIoT Basic A learning and prototyping kit with camera, audio, LCD, and sensors ⭐⭐
-
-**Score:** 7/10 | The ESP32-S3 AIoT Basic is a low-cost, learning, and prototyping kit with a range of AIoT peripherals, including a camera, audio, LCD, and sensors.
-
-💡 *It offers a low-cost, comprehensive platform for AIoT prototyping and learning with various built-in peripherals.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/22/esp32-s3-aiot-basic-a-learning-and-prototyping-kit-with-camera-audio-lcd-and-sensors/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-showed-up-for-consumers-at-the-consumer-electronics-show-amd-didnt)
 
 ---
 

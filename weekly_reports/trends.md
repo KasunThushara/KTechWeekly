@@ -1,5 +1,5 @@
 # 📈 Trends Weekly Report
-**Week of January 05, 2026**
+**Week of January 12, 2026**
 
 *Industry trends*
 
@@ -7,169 +7,169 @@
 
 ## 📊 Summary
 - **Total Articles:** 15
-- **High Priority:** 12 articles (score ≥7)
-- **Average Importance:** 7.5/10
-- **Report Generated:** 2026-01-05 20:42
+- **High Priority:** 13 articles (score ≥7)
+- **Average Importance:** 7.6/10
+- **Report Generated:** 2026-01-12 22:18
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Intel's upcoming Arc B770 discrete GPU leaks out on GitHub, launch appears imminent ⭐⭐
+### 1. Modder saves $130 by building 32GB DDR5 desktop DIMMs from scavenged laptop memory donor modules soldered to bare PCB flashed with custom firmware even run XMP ⭐⭐
 
 **Importance:** 8/10
 
-Intel's Arc B770 graphics card is reportedly close to release, featuring the BMG-G31 GPU, 16GB+ VRAM, 32 Xe2 cores, and a 300W TDP.
+A modder, VIK-on, built a 32GB DDR5 stick from scavenged laptop memory and a new PCB, enabling 6400 MT/s XMP at a cost of $218.
 
-💡 *Intel's Arc B770 GPU may signal a significant entry into the high-end discrete graphics market.*
+💡 *A modder successfully repurposed laptop memory to create a custom 32GB DDR5 stick at a reduced cost.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/intels-upcoming-arc-b770-discrete-gpu-leaks-out-on-github-launch-appears-imminent-reportedly-featuring-the-bmg-g31-gpu-16gb-vram-32-xe2-cores-and-300w-tdp)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ddr5/modder-saves-usd130-by-building-32gb-ddr5-desktop-dimms-from-scavenged-laptop-memory-donor-modules-soldered-to-bare-pcb-flashed-with-custom-firmware-even-run-xmp)
 
 ---
 
-### 2. Forgotten Star Wars Racer Revenge game is key to jailbreaking PlayStation 5, price soars 1,900% overnight amid leaked ROM keys exploit ⭐⭐
+### 2. Steam Machine pricing soars past PS5 Pro and Xbox Series X in new retailer listing ⭐⭐
 
 **Importance:** 8/10
 
-Physical copies of the PS4 game have skyrocketed in price due to its essential role in the latest PlayStation 5 jailbreaks.
+The Steam Machine's 1TB version costs $1,070 before taxes, surpassing the prices of PS5 Pro and Xbox Series X. The 512GB model is listed at $950. Both prices are significantly higher than expected.
 
-💡 *Physical copies of the PS4 game have skyrocketed in price due to its role in PS5 jailbreaks.*
+💡 *Steam Machine's high price points raise concerns and eyebrows in the gaming console market.*
 
-🔗 [Read More](https://www.tomshardware.com/video-games/playstation/forgotten-star-wars-racer-revenge-game-is-key-to-jailbreaking-playstation-5-price-soars-1-900-percent-overnight-amid-leaked-rom-keys-exploit-physical-copies-of-the-ps4-game-go-from-usd20-to-usd400-on-ebay)
+🔗 [Read More](https://www.tomshardware.com/video-games/console-gaming/steam-machine-pricing-soars-past-ps5-pro-and-xbox-series-x-in-new-retailer-listing-1tb-sku-shatters-usd1-000-barrier)
 
 ---
 
-### 3. A deeper look at the tightened chipmaking supply chain, and where it may be headed in 2026 ⭐⭐
+### 3. Meta inks deals to supply a staggering 6 gigawatts in nuclear power for data center ambitions enough wattage to supply 5 million homes ⭐⭐
 
 **Importance:** 8/10
 
-The chipmaking ecosystem is facing constraints across the entire supply chain, with industry analysts stating that nobody is scaling up capacity. The industry remains conservative on capacity, leading to concerns about where the supply chain might be headed next.
+Meta is securing 6 gigawatts of nuclear power to meet its data center needs, with 1 gigawatt for Prometheus in 2026 and 5 gigawatts for Hyperion by 2028.
 
-💡 *The chipmaking supply chain faces constraints, potentially disrupting future demand and capacity.*
+💡 *Meta secures massive 6-gigawatt nuclear power deal to fuel its ambitious data center plans.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/a-deeper-look-at-the-tightened-chipmaking-supply-chain-and-where-it-may-be-headed-in-2026-nobodys-scaling-up-says-analyst-as-industry-remains-conservative-on-capacity)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-inks-deals-to-supply-a-staggering-6-gigawatts-in-nuclear-power-for-data-center-ambitions-enough-wattage-to-supply-5-million-homes)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. AMD closes in on Intel in latest Steam Hardware Survey ⭐⭐
+### 4. Intel Panther Lake press Q&A transcript EVO is still alive, and the company ditches prior-generation naming scheme ⭐⭐
 
-**Score:** 8/10 | AMD is gaining on Intel, with user numbers increasing in the last month of 2025, while gamers are opting for 32GB of memory or more amid a memory crunch.
+**Score:** 8/10 | Intel's senior staff discussed the new products behind their Panther Lake architecture, featuring illuminating commentary at CES 2026.
 
-💡 *AMD's market share is closing in on Intel's, driven by increased user adoption.*
+💡 *Intel ditches prior-generation naming scheme for new products based on Panther Lake architecture.*
 
-🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/amd-closes-in-on-intel-in-latest-steam-hardware-survey-ram-capacity-continues-to-rise-despite-the-ongoing-memory-crunch)
-
----
-
-### 5. LG's dual-mode 4K 240Hz / 1080p 480Hz OLED gaming monitor is 42% off   premium flagship panel with HDR1300 drops to its lowest-ever price ⭐⭐
-
-**Score:** 8/10 | The LG 32GX870A-B is a 32-inch gaming monitor that supports 4K 240Hz and 1080p 480Hz, has HDR1300 and MLA+ panel, and webOS.
-
-💡 *LG's premium gaming monitor drops to its lowest-ever price with 42% off.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/lgs-dual-mode-4k-240hz-1080p-480hz-oled-gaming-monitor-is-42-percent-off-premium-flagship-panel-with-hdr1300-drops-to-its-lowest-ever-price)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-panther-lake-press-q-and-a-transcript)
 
 ---
 
-### 6. U.S. allows TSMC to import chipmaking equipment to its China fabs   Samsung, SK hynix likewise receive go signal from Commerce Department ⭐⭐
+### 5. President Trump, Sec. Lutnick praise Intel after the launch of Panther Lake chips says investment in company already bringing tens of billions of dollars for the American people ⭐⭐
 
-**Score:** 8/10 | The U.S. Department of Commerce has allowed TSMC, Samsung, and SK hynix to import chipmaking equipment containing U.S. tech into their Chinese fabs, requiring annual licenses.
+**Score:** 8/10 | President Donald Trump and Commerce Secretary Howard Lutnick praised Intel and its CEO, Lip-Bu Tan, for the launch of the first chips made using the Intel 18A process node, a step towards the U.S. regaining its lead in cutting-edge chip manufacturing.
 
-💡 *The U.S. Department of Commerce allows key chipmakers to import sensitive tech to China.*
+💡 *This launch marks a significant step for the US in regaining its lead in cutting-edge chip manufacturing.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/u-s-allows-tsmc-to-import-chipmaking-equipment-to-its-china-fabs-samsung-sk-hynix-likewise-receive-go-signal-from-commerce-department)
-
----
-
-### 7. ASRock to enter AIO liquid cooling market with an intriguing pumpless design at CES ⭐⭐
-
-**Score:** 8/10 | ASRock will debut its AIO liquid coolers at CES 2026, featuring LCD screens and a pumpless design, while also offering more traditional options.
-
-💡 *ASRock's pumpless AIO liquid coolers may set a new standard for cooling efficiency and design.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/liquid-cooling/asrock-to-enter-aio-liquid-cooling-market-with-an-intriguing-pumpless-design-at-ces-full-lineup-to-include-more-traditional-options-some-with-lcd-displays)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/president-trump-sec-lutnick-praise-intel-after-the-launch-of-panther-lake-chips-says-investment-in-company-already-bringing-tens-of-billions-of-dollars-for-the-american-people)
 
 ---
 
-### 8. Musk to expand xAI's training capacity to a monstrous 2 gigawatts with third building at Memphis site ⭐⭐
+### 6. Intel makes sharp reversal, is 'going big time into 14A,' says CEO Lip-Bu Tan ⭐⭐
 
-**Score:** 8/10 | Elon Musk has announced that xAI will expand its compute power to 2 gigawatts with a third building at its Memphis site.
+**Score:** 8/10 | Intel's CEO expects great momentum in terms of yields and IP on the company's 14A process technology.
 
-💡 *xAI's 2-gigawatt expansion aims to significantly boost AI research and development capabilities.*
+💡 *Intel's yield and IP advancements on 14A process technology are expected to gain significant momentum.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/musk-purchases-third-building-at-memphis-site-to-expand-xais-training-capacity-to-a-monstrous-2-gigawatts-announcement-comes-days-after-musk-vows-to-have-more-ai-compute-than-everyone-else)
-
----
-
-### 9. WCH CH32H417 dual-core RISC-V MCU offers USB 3.0, 500MB/s UHSIF, and Fast Ethernet interfaces ⭐⭐
-
-**Score:** 8/10 | The WCH CH32H417 is a dual-core RISC-V microcontroller with a clock speed of up to 400 MHz, featuring 960 KB flash, 896 KB SRAM, and various high-speed interfaces.
-
-💡 *The WCH CH32H417 brings high-speed interfaces and dual-core RISC-V processing to a compact MCU package.*
-
-🔗 [Read More](https://www.cnx-software.com/2026/01/03/wch-ch32h417-dual-core-risc-v-mcu-offers-usb-3-0-500mb-s-uhsif-and-fast-ethernet-interfaces/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/intel-is-going-big-time-into-14a-says-ceo-lip-bu-tan-serve-the-customer-well-remark-hints-at-external-client)
 
 ---
 
-### 10. OpenMediaVault 8 (OMV8)  Synchrony released for 64-bit x86 (AMD64) and Arm (ARM64) platforms only ⭐⭐
+### 7. Chinese researchers hail breakthrough in DRAM-like cells, which could be used in embedded or 3D stacked memory    absence of manufacturing detail casts doubt on mass production ⭐⭐
 
-**Score:** 8/10 | OpenMediaVault 8 (OMV8) has been released, supporting only 64-bit architectures, dropping 32-bit systems. It's a popular open-source NAS solution based on Debian Linux. The main reason for killing 32-bit support is that the Salt Project only supports 64-bit builds.
+**Score:** 8/10 | Chinese researchers demonstrated a DRAM-like memory cell with multi-bit storage, fast writes, and long retention. The technology could be used as embedded or stacked 3D memory. However, manufacturability and commercial viability are uncertain.
 
-💡 *OpenMediaVault 8 drops 32-bit system support due to Salt Project's 64-bit build limitation.*
+💡 *Chinese researchers demonstrate DRAM-like memory cells with potential for 3D stacked or embedded memory.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/26/openmediavault-8-omv8-synchrony-released-for-64-bit-x86-amd64-and-arm-arm64-platforms-only/)
-
----
-
-### 11. Gigabyte unleashes new DDR4 AM4 motherboards as RAM shortage continues to slam PC builders sky-high DDR5 prices spark rush for affordable alternatives ⭐⭐
-
-**Score:** 7/10 | Gigabyte has launched four new AM4 motherboard variants supporting DDR4 as consumers turn to affordable alternatives due to soaring DDR5 prices.
-
-💡 *PC builders seek affordable alternatives due to soaring DDR5 prices, driving demand for DDR4 motherboards.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/motherboards/gigabyte-unleashes-new-ddr4-am4-motherboards-as-ram-shortage-continues-to-slam-pc-builders-sky-high-ddr5-prices-spark-rush-for-affordable-alternatives)
+🔗 [Read More](https://www.tomshardware.com/pc-components/dram/chinese-researchers-hail-breakthrough-in-dram-like-cells-which-could-be-used-in-embedded-or-3d-stacked-memory-absence-of-manufacturing-detail-casts-doubt-on-mass-production)
 
 ---
 
-### 12. Better safety features make laser engravers more popular than ever - a guide to the ins and outs of laser engraving and cutting ⭐⭐
+### 8. SanDisk to double price of 3D NAND for enterprise SSDs in Q1 2026 ⭐⭐
 
-**Score:** 7/10 | Upgraded safety systems make modern lasers easier to trust and easier to recommend.
+**Score:** 8/10 | SanDisk and other suppliers are projected to increase prices of enterprise-grade 3D NAND due to overwhelming demand from the AI sector.
 
-💡 *Upgraded safety systems increase trust and adoption of laser engravers for hobbyists and professionals alike.*
+💡 *Enterprise SSD prices are set to double due to high demand from the AI sector.*
 
-🔗 [Read More](https://www.tomshardware.com/maker-stem/better-safety-features-make-laser-engravers-more-popular-than-ever-a-guide-to-the-ins-and-outs-of-laser-engraving-and-cutting)
-
----
-
-### 13. Speed test pits six generations of Windows against each other 
-
-**Score:** 6/10 | Windows 11 performed poorly against five previous Windows versions in a speed test, placing last in most benchmarks.
-
-💡 *A speed test revealed Windows 11 lagging behind older versions in various benchmarks and performance tests.*
-
-🔗 [Read More](https://www.tomshardware.com/software/windows/speed-test-pits-six-generations-of-windows-against-each-other-windows-11-placed-dead-last-across-most-benchmarks-8-1-emerges-as-unexpected-winner-in-this-unscientific-comparison)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/sandisk-to-double-price-of-3d-nand-for-enterprise-ssds-in-q1-2026-hyperscalers-to-pay-top-dollar-for-storage-as-ai-continues-to-roll)
 
 ---
 
-### 14. Blu-ray hits 20 years old, and it isn't dead yet 
+### 9. Audeze launches Maxwell 2 headset, with better spatial immersion and bass plus, of course, improved AI noise-canceling mic tech ⭐⭐
 
-**Score:** 6/10 | 20 years ago, Blu-ray technology, players, and media were introduced at CES in Las Vegas, and the format remains alive.
+**Score:** 8/10 | Audeze launched its new Maxwell 2 planar magnetic gaming headset at CES 2026, with improved audio and mic technology, and swappable side plates.
 
-💡 *Blu-ray technology continues to evolve and maintain its relevance after two decades.*
+💡 *Audeze launches improved Maxwell 2 gaming headset for enhanced spatial immersion and audio quality.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/storage/blu-ray-hits-20-optical-disc-format-was-introduced-to-the-public-at-ces-2006)
+🔗 [Read More](https://www.tomshardware.com/peripherals/gaming-headsets/audeze-launches-maxwell-2-headset-with-better-spatial-immersion-and-bass-plus-of-course-improved-ai-noise-canceling-mic-tech)
 
 ---
 
-### 15. Debian maintainer criticizes email-managed bug tracker as outdated for modern development 
+### 10. Boxes of 100 server-grade DDR5 memory now cost as much as property in Shanghai in China spot market  single 256GB server sticks now over $5,700 ⭐⭐
 
-**Score:** 6/10 | A senior Debian maintainer has criticized the distribution's bug tracking system as outdated and increasingly unworkable for modern software development.
+**Score:** 8/10 | In China's spot market, vendors are quoting prices that put a box of 100 high-capacity DDR5 server memory modules at roughly 5 million yuan, making a single 256GB server stick over $5,700.
 
-💡 *Debian's outdated bug tracking system may hinder its ability to adapt to modern software development.*
+💡 *DDR5 memory prices skyrocket in China's spot market, exceeding property values.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/debian-maintainer-criticizes-managed-bug-tracker-as-outdated-for-modern-development)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ddr5/boxes-of-100-ddr5-server-memory-sticks-in-china-now-priced-like-shanghai-apartments)
+
+---
+
+### 11. Snapdragon X2 Plus 6-core and 10-core processors target low-power Windows Copilot+ PCs ⭐⭐
+
+**Score:** 8/10 | Qualcomm has introduced the mid-range Snapdragon X2 Plus platform for affordable Windows 11 Copilot+ PCs, featuring 6-core and 10-core processors, 80 TOPS AI accelerator, and 5G modem.
+
+💡 *Qualcomm introduces affordable, low-power Snapdragon X2 Plus platform for Windows 11 Copilot+ PCs.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/07/snapdragon-x2-plus-6-core-and-10-core-processors-target-low-power-windows-copilot-pcs/)
+
+---
+
+### 12. HP reportedly eyes Chinese suppliers for DRAM as global shortage sparks shake-up   analyst says memory chips are commodities that can easily be replaced ⭐⭐
+
+**Score:** 7/10 | HP is considering buying memory chips from China to alleviate the ongoing shortage, according to a tech analyst. The analyst believes memory chips are commodities that can be easily replaced.
+
+💡 *HP's move highlights the growing reliance on China for critical tech components amid shortages.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ram/hp-reportedly-eyes-chinese-suppliers-for-dram-as-global-shortage-sparks-shake-up-analyst-says-memory-chips-are-commodities-that-can-easily-be-replaced)
+
+---
+
+### 13. AMD claims Panther Lake has 'too much baggage' for handheld PC use  fights back after Intel jabs AMD for using 'ancient silicon' in its Z2 series APUs ⭐⭐
+
+**Score:** 7/10 | AMD jabs back at Intel for calling its Z2 chips "ancient", claiming Panther Lake mobile chips have too much "baggage" for handheld gaming use.
+
+💡 *AMD disputes Intel's claim, arguing Panther Lake chips have too much baggage for handheld gaming.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-claims-panther-lake-has-too-much-baggage-for-handheld-pc-use-fights-back-after-intel-jabs-amd-for-using-ancient-silicon-in-its-z2-series-apus)
+
+---
+
+### 14. Windows Media Player's find album information functionality has been removed 
+
+**Score:** 6/10 | Microsoft has quietly removed the find album information and update album info online tools from the Media Player apps supplied with Windows 11. Users will need to find alternative software for playing and ripping CDs with relevant track information.
+
+💡 *Microsoft's removal of find album info functionality affects Windows 11 users' CD playback and ripping capabilities.*
+
+🔗 [Read More](https://www.tomshardware.com/software/windows/windows-media-players-find-album-information-functionality-has-been-removed-youll-have-to-find-other-software-for-playing-and-ripping-cds-with-relevant-track-information)
+
+---
+
+### 15. Asus adds 64MB ROM to Strix Neo AM5 motherboards, following Gigabyte   capacity large enough to fit pre-installed Wi-Fi drivers 
+
+**Score:** 6/10 | Asus has incorporated a 64MB ROM into its Strix Neo AM5 motherboards to support future Ryzen releases and hold an integrated Wi-Fi driver for new Windows 11 installs.
+
+💡 *Asus Strix Neo AM5 motherboards now feature a 64MB ROM for future-proofing and driver support.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/motherboards/asus-adds-64mb-rom-to-strix-neo-am5-motherboards-following-gigabyte-capacity-large-enough-to-fit-pre-installed-wi-fi-drivers)
 
 ---
 

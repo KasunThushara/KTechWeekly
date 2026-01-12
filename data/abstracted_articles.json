@@ -1,735 +1,765 @@
 [
   {
-    "title": "Grab this $399 Bambu Lab P1S 3D printer, back down to a record-low price for the new year save $300 on high-speed enclosed printer for beginners and enthusiasts alike",
-    "summary": "The Bambu Lab P1S 3D printer is back down to an all-time low price of $399.99.",
+    "title": "Retro Apple emulator ported to $60 ESP32 microcontroller-powered touchscreen tablet",
+    "summary": "A new emulator makes running classic Apple Macintosh 68K software a breeze on a cheap, portable, IoT development kit.",
     "tags": [
       "Hardware"
     ],
-    "link": "https://www.tomshardware.com/3d-printing/grab-this-usd399-bambu-lab-p1s-3d-printer-back-down-to-a-record-low-price-for-the-new-year-save-usd300-on-high-speed-enclosed-printer-for-beginners-and-enthusiasts-alike"
+    "link": "https://www.tomshardware.com/software/macos/retro-apple-emulator-ported-to-usd60-esp32-microcontroller-powered-touchscreen-tablet-supports-mac-os8-1-and-a-virtual-mc68040-cpu-in-major-emulation-leap"
   },
   {
-    "title": "Intel's upcoming Arc B770 discrete GPU leaks out on GitHub, launch appears imminent",
-    "summary": "Intel's Arc B770 graphics card is reportedly close to release, featuring the BMG-G31 GPU, 16GB+ VRAM, 32 Xe2 cores, and a 300W TDP.",
-    "tags": [
-      "Semiconductors",
-      "Hardware",
-      "Trends"
-    ],
-    "link": "https://www.tomshardware.com/pc-components/gpus/intels-upcoming-arc-b770-discrete-gpu-leaks-out-on-github-launch-appears-imminent-reportedly-featuring-the-bmg-g31-gpu-16gb-vram-32-xe2-cores-and-300w-tdp"
-  },
-  {
-    "title": "Samsung teases AI OLED Cassette and Turntable display division stretches the feasible use cases for its latest tech at CES 2026",
-    "summary": "Samsung is teasing new OLED products to be showcased at CES 2026.",
-    "tags": [
-      "AI",
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/monitors/samsung-teases-ai-oled-cassette-and-turntable-display-division-stretches-the-feasible-use-cases-for-its-latest-tech-at-ces-2026"
-  },
-  {
-    "title": "Speed test pits six generations of Windows against each other",
-    "summary": "Windows 11 performed poorly against five previous Windows versions in a speed test, placing last in most benchmarks.",
-    "tags": [
-      "Hardware",
-      "Trends"
-    ],
-    "link": "https://www.tomshardware.com/software/windows/speed-test-pits-six-generations-of-windows-against-each-other-windows-11-placed-dead-last-across-most-benchmarks-8-1-emerges-as-unexpected-winner-in-this-unscientific-comparison"
-  },
-  {
-    "title": "Blu-ray hits 20 years old, and it isn't dead yet",
-    "summary": "20 years ago, Blu-ray technology, players, and media were introduced at CES in Las Vegas, and the format remains alive.",
-    "tags": [
-      "Hardware",
-      "Trends"
-    ],
-    "link": "https://www.tomshardware.com/pc-components/storage/blu-ray-hits-20-optical-disc-format-was-introduced-to-the-public-at-ces-2006"
-  },
-  {
-    "title": "German retail supplier allegedly rationing RTX 5070 GPUs",
-    "summary": "A German retailer claims their supplier is limiting RTX 5070 GPU deliveries to 5 units per model, with more powerful models unavailable.",
-    "tags": [
-      "NVIDIA",
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/pc-components/gpus/german-retail-supplier-allegedly-rationing-rtx-5070-gpus-more-powerful-nvidia-graphics-cards-are-completely-out-of-stock"
-  },
-  {
-    "title": "PC Fan Faceoff: Can Arctic's $7 P12 Pro compete with the $40 Noctua NF-A12x25 G2?",
-    "summary": "The article compares the Arctic P12 Pro, priced at $7, with the Noctua NF-A12x25 G2, priced at $40, in a head-to-head review.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/pc-components/case-fans/pc-fan-faceoff-can-arctics-usd7-p12-pro-compete-with-the-usd40-noctua-nf-a12x25-g2"
-  },
-  {
-    "title": "US Army tests 20,000W vehicle-mounted laser systems for drone defense   updated LOCUST device is now more lethal against drones",
-    "summary": "The U.S. Army is testing a more lethal 20kW vehicle-mounted LOCUST laser weapon system from AeroVironment (AV) Inc.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/tech-industry/us-army-tests-20-000w-vehicle-mounted-laser-systems-for-drone-defense-updated-locust-device-is-now-more-lethal-against-drones"
-  },
-  {
-    "title": "Microsoft silently kills Windows and Office phone activation and forces online activation with a Microsoft account",
-    "summary": "Microsoft is now forcing online activation with a Microsoft account, redirecting users to an online portal, even for older unsupported builds.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/software/windows/microsoft-silently-kills-windows-and-office-phone-activation-and-forces-online-activation-with-a-microsoft-account-windows-users-are-now-herded-into-an-online-only-portal-for-activation"
-  },
-  {
-    "title": "Intel Arc B570 GPU kicks off new year at just $199 save $30 on one of the best budget GPUs around",
-    "summary": "Sparkle's Arc B570 Guardian OC dual-fan graphics card is on sale for 13%, bringing its price down to $199.99 on Amazon.",
-    "tags": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "link": "https://www.tomshardware.com/pc-components/gpus/intel-arc-b570-gpu-kicks-off-new-year-at-just-usd199-save-usd30-on-one-of-the-best-budget-gpus-around"
-  },
-  {
-    "title": "MSI s RTX 5090 Lightning shatters GPU records before launch",
-    "summary": "The MSI RTX 5090 Lightning has broken several benchmark records, reportedly with 40-phase VRAM and dual 12V-2x6 connectors. The GPU is expected to be announced on January 5 at CES 2026. Its overclocking capabilities have generated significant interest.",
+    "title": "Get an entire RTX 5090 gaming PC for the same price as the GPU alone $3,599 rig includes 9700X, 32GB of RAM, and a 2TB SSD in MSI's PC deal",
+    "summary": "The MSI PC deal includes a $3,599 rig with an RTX 5090, Ryzen 9700X processor, 32GB of RAM, and a 2TB SSD.",
     "tags": [
       "Hardware",
       "NVIDIA"
     ],
-    "link": "https://www.tomshardware.com/pc-components/gpus/msis-rtx-5090-lightning-shatters-gpu-records-before-launch-40-phase-vram-and-dual-12v-2x6-connectors-turn-heads-on-upcoming-overclocking-monster"
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/get-an-entire-rtx-5090-gaming-pc-for-the-same-price-as-the-gpu-alone-usd3-599-rig-includes-9700x-32gb-of-ram-and-a-2tb-ssd-in-msis-pc-deal"
   },
   {
-    "title": "Gigabyte unleashes new DDR4 AM4 motherboards as RAM shortage continues to slam PC builders sky-high DDR5 prices spark rush for affordable alternatives",
-    "summary": "Gigabyte has launched four new AM4 motherboard variants supporting DDR4 as consumers turn to affordable alternatives due to soaring DDR5 prices.",
+    "title": "Micron addresses Crucial exit backlash: 'We are trying to help consumers around the world'",
+    "summary": "Micron responded to criticism over its decision to exit the consumer memory business and warned that shortages may last until 2028.",
     "tags": [
-      "Hardware",
-      "Trends"
-    ],
-    "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-unleashes-new-ddr4-am4-motherboards-as-ram-shortage-continues-to-slam-pc-builders-sky-high-ddr5-prices-spark-rush-for-affordable-alternatives"
-  },
-  {
-    "title": "Corsair cancels $240 48GB DDR5 memory kit orders due to pricing error",
-    "summary": "Corsair cancelled orders for a $240 48GB DDR5 memory kit due to a pricing error. The company claims the memory is out of stock. Customers are upset with the decision.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/pc-components/ram/corsair-cancels-usd240-48gb-ddr5-memory-kit-orders-due-to-pricing-error-companys-blunder-ignites-shopper-uproar-over-botched-ram-deal"
-  },
-  {
-    "title": "Corsair reverses course and honors gaming PC order after $700 price hike uproar",
-    "summary": "A customer's order was canceled and the price was increased by $700, but Corsair rectified the situation by sending a discount coupon to honor the original price.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/corsair-reverses-course-and-honors-gaming-pc-order-after-usd700-price-hike-uproar-order-was-erroneously-flagged-but-the-company-sends-a-coupon-to-the-buyer-to-snag-the-pc-at-the-original-price"
-  },
-  {
-    "title": "Turtle Beach Burst II Pro Review: Ultra-light, 8K polling, and a little creaky",
-    "summary": "Turtle Beach's Burst II Pro is an ultra-lightweight wireless mouse with 8K polling rates and a unique DPI switch button. It's designed for gaming, but not necessarily edge AI, semiconductors, or other technology related topics. The mouse's ultra-lightweight design and high polling rates make it suitable for gamers who want a responsive experience.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/peripherals/gaming-mice/turtle-beach-burst-ii-pro-review-ultra-light-8k-polling-and-a-little-creaky"
-  },
-  {
-    "title": "Plasma-powered solid-state laptop cooler to debut at CES",
-    "summary": "YPlasma has developed a new solid-state cooling solution using corona discharge to generate airflow without moving parts, with a live demo at CES 2026.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/pc-components/cooling/yplasma-to-announce-solid-state-laptop-cooler-at-ces-2026-new-cooler-design-uses-plasma-and-corona-discharge-to-generate-airflow"
-  },
-  {
-    "title": "Laser cutting and engraving from a software perspective  master your hardware and optimize your creative output with some software know-how",
-    "summary": "We take a closer look at the software side of laser cutting and engraving.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/maker-stem/laser-cutting-and-engraving-from-a-software-perspective-master-your-hardware-and-optimize-your-creative-output-with-some-software-know-how"
-  },
-  {
-    "title": "Samsung Display finally brings V-Stripe subpixel layout to QD-OLED  mass production of new 1,300-nit 34-inch ultrawide panel also boosts text clarity",
-    "summary": "Samsung Display has released a 34-inch ultrawide QD-OLED panel with a V-Stripe subpixel layout, improving text clarity, and reaching a peak brightness of 1,300 nits for the first time.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-display-finally-brings-v-stripe-subpixel-layout-to-qd-oled-mass-production-of-new-1-300-nit-34-ultrawide-panel-also-boosts-text-clarity"
-  },
-  {
-    "title": "Get a Steelseries Rival 3 Wireless mouse for just $25, or 34% off the regular price",
-    "summary": "Get a Steelseries Rival 3 Wireless mouse for just $25, or 34% off. The potent rodent is simple and executes flawlessly.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/pc-components/get-a-steelseries-rival-3-wireless-mouse-for-just-usd25-or-34-percent-off-the-regular-price-potent-rodent-is-simple-and-executes-flawlessly"
-  },
-  {
-    "title": "Forgotten Star Wars Racer Revenge game is key to jailbreaking PlayStation 5, price soars 1,900% overnight amid leaked ROM keys exploit",
-    "summary": "Physical copies of the PS4 game have skyrocketed in price due to its essential role in the latest PlayStation 5 jailbreaks.",
-    "tags": [
-      "Hardware",
-      "Trends"
-    ],
-    "link": "https://www.tomshardware.com/video-games/playstation/forgotten-star-wars-racer-revenge-game-is-key-to-jailbreaking-playstation-5-price-soars-1-900-percent-overnight-amid-leaked-rom-keys-exploit-physical-copies-of-the-ps4-game-go-from-usd20-to-usd400-on-ebay"
-  },
-  {
-    "title": "Micron secures $318 million Taiwanese subsidy for HBM R&D as AI memory arms race intensifies",
-    "summary": "Micron secured NT$4.7 billion ($149 million) in Taiwanese subsidies to expand HBM research and development in Taiwan, aiming to develop leading-edge, high-performance memory.",
-    "tags": [
-      "AI",
-      "Semiconductors",
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/tech-industry/micron-secures-318-million-taiwanese-subsidy-for-hbm-rd-as-ai-memory-arms-race-intensifies"
-  },
-  {
-    "title": "Ukrainian soldier's M1 MacBook Air takes direct shrapnel hit, saving his life",
-    "summary": "An Apple M1 MacBook Air laptop survived a shell shrapnel hit, still working despite damage to the screen and the letter K on the keyboard missing.",
-    "tags": [
-      "Hardware",
       "Semiconductors"
     ],
-    "link": "https://www.tomshardware.com/laptops/macbooks/ukrainian-soldiers-m1-macbook-air-takes-direct-shrapnel-hit-still-works-despite-battle-damage-screen-cracked-and-letter-k-missing-but-laptop-remains-functional"
+    "link": "https://www.tomshardware.com/pc-components/ram/micron-addresses-crucial-exit-backlash-we-are-trying-to-help-consumers-around-the-world-company-warns-that-dram-drought-could-last-until-at-least-2028"
   },
   {
-    "title": "MSI teases new power supplies with 'instant protection' against melting RTX 5090 cables",
-    "summary": "MSI has released two new power supplies with advanced protection against GPU overheating, particularly for the Nvidia RTX 5090. The power supplies monitor individual wires to prevent melting cables. MSI has attempted to solve this issue before, but this new design promises to be more effective.",
+    "title": "Asus revised the liquid metal application on its $4,000 ROG Matrix RTX 5090 cards   der8auer says retail versions come with 'much more professional' spread",
+    "summary": "Asus has revised the liquid metal application on its ROG Matrix RTX 5090 cards to prevent accidental leakage. The updated application features a more professional spread with neat lanes closer to the IHS. This change will improve the overall performance and reliability of the cards.",
     "tags": [
       "Hardware",
       "NVIDIA"
     ],
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/msi-teases-new-power-supplies-with-instant-protection-against-melting-rtx-5090-cables-promises-to-solve-12v-2x6-connector-woes-by-monitoring-individual-wires"
+    "link": "https://www.tomshardware.com/pc-components/gpus/asus-revised-the-liquid-metal-application-on-its-usd4-000-rog-matrix-rtx-5090-cards-der8auer-says-retail-versions-come-with-much-more-professional-spread"
   },
   {
-    "title": "Debian maintainer criticizes email-managed bug tracker as outdated for modern development",
-    "summary": "A senior Debian maintainer has criticized the distribution's bug tracking system as outdated and increasingly unworkable for modern software development.",
+    "title": "Newegg bundles 16GB of DDR5-6000 RAM with Asus AM5 B850 mobo for under $240",
+    "summary": "Newegg is offering a combo deal including 16GB of DDR5-6000 RAM and an Asus AM5 B850 motherboard for under $240, with a discount of $169.99 and 41% off.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/ram/newegg-bundles-16gb-of-ddr5-6000-ram-with-asus-am5-b850-mobo-for-under-usd240-get-41-percent-off-and-save-usd169-99-with-this-all-white-combo"
+  },
+  {
+    "title": "FCC approves 7,500 additional Starlink Gen2 satellites service will benefit from higher throughput and lower latency worldwide",
+    "summary": "The FCC has partially approved a significant expansion of SpaceX's next-generation Starlink constellation, authorizing 7,500 additional LEO satellites under a partial grant.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/tech-industry/fcc-approves-7500-additional-starlink-gen2-satellites"
+  },
+  {
+    "title": "MetalPrinting Gauss MT90 3D printer offers office safe metal printing without powders uses paste based metal extrusion (PME) tech",
+    "summary": "MetalPrinting unveiled its next-generation Gauss MT90 metal paste 3D printer at CES 2026, providing office-safe metal printing without powders.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/3d-printing/metalprinting-gauss-mt90-3d-printer-offers-office-safe-metal-printing-without-powders-uses-paste-based-metal-extrusion-pme-tech"
+  },
+  {
+    "title": "Modder saves $130 by building 32GB DDR5 desktop DIMMs from scavenged laptop memory donor modules soldered to bare PCB flashed with custom firmware even run XMP",
+    "summary": "A modder, VIK-on, built a 32GB DDR5 stick from scavenged laptop memory and a new PCB, enabling 6400 MT/s XMP at a cost of $218.",
     "tags": [
       "Hardware",
       "Trends"
     ],
-    "link": "https://www.tomshardware.com/tech-industry/debian-maintainer-criticizes-managed-bug-tracker-as-outdated-for-modern-development"
+    "link": "https://www.tomshardware.com/pc-components/ddr5/modder-saves-usd130-by-building-32gb-ddr5-desktop-dimms-from-scavenged-laptop-memory-donor-modules-soldered-to-bare-pcb-flashed-with-custom-firmware-even-run-xmp"
   },
   {
-    "title": "A deeper look at the tightened chipmaking supply chain, and where it may be headed in 2026",
-    "summary": "The chipmaking ecosystem is facing constraints across the entire supply chain, with industry analysts stating that nobody is scaling up capacity. The industry remains conservative on capacity, leading to concerns about where the supply chain might be headed next.",
+    "title": "Windows Media Player's find album information functionality has been removed",
+    "summary": "Microsoft has quietly removed the find album information and update album info online tools from the Media Player apps supplied with Windows 11. Users will need to find alternative software for playing and ripping CDs with relevant track information.",
+    "tags": [
+      "Hardware",
+      "Trends"
+    ],
+    "link": "https://www.tomshardware.com/software/windows/windows-media-players-find-album-information-functionality-has-been-removed-youll-have-to-find-other-software-for-playing-and-ripping-cds-with-relevant-track-information"
+  },
+  {
+    "title": "US Department of Commerce lifts planned crackdown on Chinese drones, including DJI",
+    "summary": "The US Department of Commerce has retracted its proposal to stop the import of DJI drones, but new DJI models are still banned in the US due to the FCC's ban.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/tech-industry/us-department-of-commerce-lifts-planned-crackdown-on-chinese-drones-including-dji-company-gets-reprieve-ahead-of-xi-trump-meeting-in-april-but-the-fcc-ban-still-stands"
+  },
+  {
+    "title": "AMD leaves the door open to experimental FSR Redstone support on RDNA 3",
+    "summary": "AMD has softened its stance on FSR Redstone support, leaving room for experimental implementation on RDNA 3.",
     "tags": [
       "Semiconductors",
-      "Hardware",
-      "Trends"
-    ],
-    "link": "https://www.tomshardware.com/tech-industry/a-deeper-look-at-the-tightened-chipmaking-supply-chain-and-where-it-may-be-headed-in-2026-nobodys-scaling-up-says-analyst-as-industry-remains-conservative-on-capacity"
-  },
-  {
-    "title": "How to use Plex and a spare computer to build a streaming movie service",
-    "summary": "Build your own streaming service at home using a spare PC and a few hours to serve media across your home.",
-    "tags": [
       "Hardware"
     ],
-    "link": "https://www.tomshardware.com/service-providers/streaming/how-to-use-plex-and-a-spare-computer-to-build-a-streaming-movie-service"
+    "link": "https://www.tomshardware.com/pc-components/gpus/amd-leaves-the-door-open-to-experimenta-fsr-redstone-support-on-rdna3"
   },
   {
-    "title": "Reports of the previously-recalled Bambu Lab 3D printer being a fire hazard resurface, new power board component issue identified as the cause   Bambu says the A1's issue has been addressed, affected units replaced or repaired",
-    "summary": "Reports of the recalled Bambu Lab 3D printer resurfacing due to a new power board component issue, with users claiming the AC board is flawed and should be recalled.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/3d-printing/reports-of-the-bambu-lab-3d-printer-being-a-fire-hazard-resurface-but-for-a-new-power-board-component-issue-bambu-says-the-a1s-new-issue-has-been-addressed-affected-units-replaced-or-repaired"
-  },
-  {
-    "title": "LG says it's launching the world's lightest 17-inch RTX laptop, also announces 16-inch ultra-portable laptop with 'dual-AI' functionality",
-    "summary": "LG announced a 17-inch laptop that fits in the form factor of a 16-inch model while still sporting an RTX 5050 discrete GPU.",
+    "title": "Upgrade your gaming PC with an RTX 5060 for just $259.99 and instantly pocket $50 in savings",
+    "summary": "The Gigabyte GeForce RTX 5060 WindForce OC 8G is currently on sale at BestBuy, offering a 15% discount off Nvidia's $299 MSRP.",
     "tags": [
       "Hardware",
       "NVIDIA"
     ],
-    "link": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/lg-says-that-its-launching-the-worlds-lightest-17-inch-rtx-laptop-also-announces-16-inch-ultra-portable-laptop-with-dual-ai-functionality"
+    "link": "https://www.tomshardware.com/pc-components/upgrade-your-gaming-pc-with-an-rtx-5060-for-just-usd259-99-and-instantly-pocket-usd50-in-savings"
   },
   {
-    "title": "Get 25% off a vibrant MSI 4K QD-OLED gaming monitor with blistering 240Hz refresh rate   now $772, panel offers 3-year burn-in warranty in new year offer",
-    "summary": "The MSI MPG 321URX QD-OLED gaming monitor is on sale for $772.99, a 25% discount from its usual price.",
+    "title": "Doom conquers the kitchen through an electric cooking pot classic shooter runs seamlessly after a full device firmware refresh",
+    "summary": "A YouTuber has managed to run Doom on a Krups Cook4Mec smart pressure cooker after dumping and reflashing the firmware on the appliance's touchscreen control hardware.",
     "tags": [
-      "Hardware"
+      "Hardware",
+      "Edge AI"
     ],
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/get-25-percent-off-a-vibrant-msi-4k-qd-oled-gaming-monitor-with-blistering-240hz-refresh-rate-now-usd772-panel-offers-3-year-burn-in-warranty-in-new-year-offer"
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/youtuber-makes-doom-run-on-a-smart-cooking-pot-after-a-full-firmware-refresh"
   },
   {
-    "title": "The Patriot Viper PV593 4TB SSD Review The Viper stays sleeping",
-    "summary": "The Patriot Viper PV593 is perfectly good on paper and delivers satisfactory marks but doesn't quite close the deal.",
+    "title": "Nvidia's Blackwell gaming GPUs go through blower-style transformation to fuel AI data centers",
+    "summary": "Nvidia has released blower-style GPUs for data centers, including RTX 5080, RTX 5070 Ti, and RTX 5060 Ti, with prices higher than retail counterparts.",
     "tags": [
-      "Hardware"
+      "AI",
+      "NVIDIA"
     ],
-    "link": "https://www.tomshardware.com/video-games/xbox/patriot-viper-pv593-4tb-ssd-review"
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-blackwell-gaming-gpus-go-through-blower-style-transformation-to-fuel-ai-data-centers-rtx-5080-rtx-5070-ti-rtx-5060-ti-blower-gpus-up-for-purchase-in-china"
   },
   {
-    "title": "AMD closes in on Intel in latest Steam Hardware Survey",
-    "summary": "AMD is gaining on Intel, with user numbers increasing in the last month of 2025, while gamers are opting for 32GB of memory or more amid a memory crunch.",
+    "title": "Admins finally get the power to uninstall Microsoft Copilot on Windows 11 Pro, Enterprise, and EDU versions",
+    "summary": "Microsoft allows administrators to remove Microsoft Copilot from Windows 11 Pro, Enterprise, and EDU versions with specific conditions, including Microsoft 365 Copilot installation.",
+    "tags": [
+      "AI"
+    ],
+    "link": "https://www.tomshardware.com/software/windows/admins-finally-get-the-power-to-uninstall-microsoft-copilot-on-windows-11-pro-enterprise-and-edu-versions-devices-must-meet-specific-conditions-to-allow-the-removal-of-the-ai-app"
+  },
+  {
+    "title": "GPU crisis hits Japan as RTX 5060 Ti and up are in short supply",
+    "summary": "GPUs are selling out as soon as they arrive, with higher-end models becoming increasingly challenging to keep in stock.",
+    "tags": [
+      "Hardware",
+      "NVIDIA"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/gpus/rtx-5060-ti-and-higher-gpus-are-getting-harder-to-find-in-japan"
+  },
+  {
+    "title": "HP reportedly eyes Chinese suppliers for DRAM as global shortage sparks shake-up   analyst says memory chips are commodities that can easily be replaced",
+    "summary": "HP is considering buying memory chips from China to alleviate the ongoing shortage, according to a tech analyst. The analyst believes memory chips are commodities that can be easily replaced.",
     "tags": [
       "Semiconductors",
       "Hardware",
       "Trends"
     ],
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/amd-closes-in-on-intel-in-latest-steam-hardware-survey-ram-capacity-continues-to-rise-despite-the-ongoing-memory-crunch"
+    "link": "https://www.tomshardware.com/pc-components/ram/hp-reportedly-eyes-chinese-suppliers-for-dram-as-global-shortage-sparks-shake-up-analyst-says-memory-chips-are-commodities-that-can-easily-be-replaced"
   },
   {
-    "title": "Dev uses Claude AI to write a functional NES emulator you can test it now, playing Donkey Kong in your browser",
-    "summary": "A developer has successfully used Claude AI to write a functional NES emulator, allowing users to play Donkey Kong in their browser.",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/dev-uses-claude-ai-to-write-a-functional-nes-emulator-you-can-test-it-now-playing-donkey-kong-in-your-browser"
-  },
-  {
-    "title": "LG's dual-mode 4K 240Hz / 1080p 480Hz OLED gaming monitor is 42% off   premium flagship panel with HDR1300 drops to its lowest-ever price",
-    "summary": "The LG 32GX870A-B is a 32-inch gaming monitor that supports 4K 240Hz and 1080p 480Hz, has HDR1300 and MLA+ panel, and webOS.",
+    "title": "Asus adds 64MB ROM to Strix Neo AM5 motherboards, following Gigabyte   capacity large enough to fit pre-installed Wi-Fi drivers",
+    "summary": "Asus has incorporated a 64MB ROM into its Strix Neo AM5 motherboards to support future Ryzen releases and hold an integrated Wi-Fi driver for new Windows 11 installs.",
     "tags": [
       "Hardware",
       "Trends"
     ],
-    "link": "https://www.tomshardware.com/pc-components/lgs-dual-mode-4k-240hz-1080p-480hz-oled-gaming-monitor-is-42-percent-off-premium-flagship-panel-with-hdr1300-drops-to-its-lowest-ever-price"
+    "link": "https://www.tomshardware.com/pc-components/motherboards/asus-adds-64mb-rom-to-strix-neo-am5-motherboards-following-gigabyte-capacity-large-enough-to-fit-pre-installed-wi-fi-drivers"
   },
   {
-    "title": "China's president Xi Jinping calls Taiwan reunification \"unstoppable\"   military drills around the island escalate in area and deployments",
-    "summary": "China calls Taiwan reunification unstoppable as military drills proceed.",
-    "tags": [],
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinas-president-xi-jinping-calls-taiwan-reunification-unstoppable-military-drills-around-the-island-escalate-in-area-and-deployments"
-  },
-  {
-    "title": "Americans lost $333 million to Bitcoin ATM fraud in 2025",
-    "summary": "Americans lost $333 million to scams via crypto ATMs, with a constant rise in victims from 2020 to 2025, according to the FBI.",
-    "tags": [],
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/americans-lost-usd333-million-to-bitcoin-atm-fraud-in-2025-fbi-says-there-is-a-clear-and-constant-rise-of-this-scam-and-that-it-is-not-slowing-down"
-  },
-  {
-    "title": "Chinese enthusiast overclocks AMD's Ryzen 7 9800X3D to 7.33GHz on Colorful X870E Vulcan motherboard  New world record achieved using liquid nitrogen cooling",
-    "summary": "A Chinese overclocker named 'Hero' achieved a new world record clock speed of 7.335 MHz on AMD's Ryzen 7 9800X3D CPU using a Colorful iGame X870E Vulcan motherboard and liquid nitrogen cooling.",
-    "tags": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "link": "https://www.tomshardware.com/pc-components/cpus/chinese-enthusiast-overclocks-amds-ryzen-7-9800x3d-to-7-33ghz-on-colorful-x870e-vulcan-motherboard-new-world-record-achieved-using-liquid-nitrogen-cooling"
-  },
-  {
-    "title": "Nintendo's SNES cartridges get a USB-C adapter for playing, backing up, and validation",
-    "summary": "Epilogue has announced the pre-order for SN Operator, a USB-C adapter that allows playing and backing up SNES game libraries to computers. It supports Windows, macOS, and Linux, and is set to ship in April. The adapter costs $59.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/nintendos-snes-cartridges-get-a-usb-c-adapter-for-play-backing-up-and-validation-usd59-sn-operator-snes-to-pc-device-supports-windows-macos-and-linux-ships-in-april"
-  },
-  {
-    "title": "U.S. allows TSMC to import chipmaking equipment to its China fabs   Samsung, SK hynix likewise receive go signal from Commerce Department",
-    "summary": "The U.S. Department of Commerce has allowed TSMC, Samsung, and SK hynix to import chipmaking equipment containing U.S. tech into their Chinese fabs, requiring annual licenses.",
-    "tags": [
-      "Semiconductors",
-      "Hardware",
-      "Trends"
-    ],
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/u-s-allows-tsmc-to-import-chipmaking-equipment-to-its-china-fabs-samsung-sk-hynix-likewise-receive-go-signal-from-commerce-department"
-  },
-  {
-    "title": "NES-a-like mini PC brings modern chips to the classic Nintendo case design",
-    "summary": "A mini PC with an AMD Ryzen AI 9 HX 370 CPU and Radeon 890M iGPU is coming soon, resembling the classic Nintendo case design.",
-    "tags": [
-      "AI",
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/desktops/mini-pcs/nes-a-like-mini-pc-brings-modern-chips-to-the-classic-nintendo-case-design-ryzen-ai-9-cpu-radeon-890m-igpu-should-make-it-a-decent-all-round-system"
-  },
-  {
-    "title": "PlayStation 5 ROM keys leaked   jailbreaking could be made easier with BootROM codes",
-    "summary": "The PlayStation 5's ROM keys have allegedly been leaked, potentially making jailbreaking easier, but other security features still need to be overcome.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes"
-  },
-  {
-    "title": "Better safety features make laser engravers more popular than ever - a guide to the ins and outs of laser engraving and cutting",
-    "summary": "Upgraded safety systems make modern lasers easier to trust and easier to recommend.",
+    "title": "Steam Machine pricing soars past PS5 Pro and Xbox Series X in new retailer listing",
+    "summary": "The Steam Machine's 1TB version costs $1,070 before taxes, surpassing the prices of PS5 Pro and Xbox Series X. The 512GB model is listed at $950. Both prices are significantly higher than expected.",
     "tags": [
       "Hardware",
       "Trends"
     ],
-    "link": "https://www.tomshardware.com/maker-stem/better-safety-features-make-laser-engravers-more-popular-than-ever-a-guide-to-the-ins-and-outs-of-laser-engraving-and-cutting"
+    "link": "https://www.tomshardware.com/video-games/console-gaming/steam-machine-pricing-soars-past-ps5-pro-and-xbox-series-x-in-new-retailer-listing-1tb-sku-shatters-usd1-000-barrier"
   },
   {
-    "title": "ID-Cooling FX360 LCD Review: Quiet, cool, and  why is this screen so small?",
-    "summary": "ID-Cooling upgraded its FX360 with an LCD screen for $10 more, but its 1.48-inch screen may be too small to be useful.",
+    "title": "Dev creates selection of UEFI games you have to beat in order to boot your computer  10-month project will shut down your PC if you lose",
+    "summary": "A developer creates a series of UEFI games with the goal of booting a computer by winning the games, and shutting down if the games are lost.",
     "tags": [
       "Hardware"
     ],
-    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/id-cooling-fx360-lcd-review"
+    "link": "https://www.tomshardware.com/software/dev-creates-uefi-games-compendium-where-you-have-to-win-to-access-your-computer-10-month-project-will-shutdown-your-pc-if-you-lose"
   },
   {
-    "title": "ARPANET standardized TCP/IP on this day in 1983",
-    "summary": "On January 1, 1983, ARPANET system architects initiated the cutover from the existing NCP to TCP/IP on all hosts, setting the foundations for today's Internet.",
-    "tags": [],
-    "link": "https://www.tomshardware.com/networking/arpanet-standardized-tcp-ip-on-this-day-in-1983-43-year-old-standard-set-the-foundations-for-todays-internet"
-  },
-  {
-    "title": "ASRock to enter AIO liquid cooling market with an intriguing pumpless design at CES",
-    "summary": "ASRock will debut its AIO liquid coolers at CES 2026, featuring LCD screens and a pumpless design, while also offering more traditional options.",
+    "title": "This $2,000 Bitcoin mining water heater can pay for itself by slashing your energy bills, company claims",
+    "summary": "Superheat has created a water heater that uses a Bitcoin ASIC miner to generate heat, potentially saving users money on energy bills and paying for itself within a year.",
     "tags": [
       "Hardware",
-      "Trends"
-    ],
-    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/asrock-to-enter-aio-liquid-cooling-market-with-an-intriguing-pumpless-design-at-ces-full-lineup-to-include-more-traditional-options-some-with-lcd-displays"
-  },
-  {
-    "title": "Huawei's Ascend and Kunpeng progress shows how China is rebuilding an AI compute stack under sanctions",
-    "summary": "Huawei highlighted progress across its Ascend AI and Kunpeng CPU ecosystems, including the rollout of Atlas 900 supernodes and rapid growth in domestic developer adoption.",
-    "tags": [
-      "AI",
-      "Hardware",
-      "Semiconductors"
-    ],
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/huaweis-ascend-and-kunpeng-progress-shows-how-china-is-rebuilding-an-ai-compute-stack-under-sanctions"
-  },
-  {
-    "title": "Finnish authorities seize ship and crew after undersea cable cut, pursuing criminal charges",
-    "summary": "Finnish special forces boarded a ship, detaining all 14 crew members after an undersea cable was cut. This incident is the fourth damage to cables and pipelines in the Gulf of Finland in less than 1.5 years.",
-    "tags": [],
-    "link": "https://www.tomshardware.com/peripherals/cables-connectors/finnish-authorities-seize-ship-and-crew-after-undersea-cable-cut-pursuing-criminal-charges-finnish-special-forces-board-ship-detain-all-14-crewmembers"
-  },
-  {
-    "title": "Logitech's legendary G502 Hero gaming mouse plummets to an irresistible $15.99",
-    "summary": "Target is offering the Logitech G502 Hero for $35.99 with a complimentary $20 gift card, effectively bringing the cost down to $15.99.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.tomshardware.com/peripherals/gaming-mice/logitechs-legendary-g502-hero-gaming-mouse-plummets-to-an-irresistible-usd15-99-free-usd20-gift-card-slashes-best-selling-mouse-to-its-lowest-ever-price"
-  },
-  {
-    "title": "UK company shoots a 1,000-degree furnace into space to study off-world chip manufacturing",
-    "summary": "British startup Space Forge successfully turned on its first in-orbit furnace, reaching 1,000 degrees Celsius, a crucial step towards studying chip manufacturing in space.",
-    "tags": [
       "Semiconductors",
       "Hardware"
     ],
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/uk-company-shoots-a-1000-degree-furnace-into-space-to-study-off-world-chip-manufacturing-semiconductors-made-in-space-could-be-up-to-4-000-times-purer-than-earthly-equivalents"
+    "link": "https://www.tomshardware.com/tech-industry/cryptomining/bitcoin-mining-water-heater-firm-says-its-usd2-000-product-can-rake-back-usd1-000-a-year-in-btc-and-claims-it-can-offset-up-to-80-percent-of-electricity-and-water-costs"
   },
   {
-    "title": "Musk to expand xAI's training capacity to a monstrous 2 gigawatts with third building at Memphis site",
-    "summary": "Elon Musk has announced that xAI will expand its compute power to 2 gigawatts with a third building at its Memphis site.",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "Hardware",
-      "Trends"
-    ],
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/musk-purchases-third-building-at-memphis-site-to-expand-xais-training-capacity-to-a-monstrous-2-gigawatts-announcement-comes-days-after-musk-vows-to-have-more-ai-compute-than-everyone-else"
-  },
-  {
-    "title": "Nvidia's CUDA Tile examined: AI giant releases programming style for Rubin, Feynman, and beyond tensor-native execution model lays the foundation for Blackwell and beyond",
-    "summary": "Nvidia's CUDA 13.1 introduces CUDA Tile, a new tile-centric programming path that elevates GPU kernel development. This innovation aligns CUDA with the tensor-native execution model of Blackwell-class GPUs. It lays the software foundation for future architectures.",
+    "title": "Jensen Huang discusses the economics of inference, power delivery, and more at CES 2026 press Q&A session ",
+    "summary": "Nvidia CEO Jensen Huang addressed topics such as inference economics, power constraints, and open models in a press Q&A at CES 2026.",
     "tags": [
       "AI",
       "NVIDIA",
       "Machine Learning"
     ],
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-cuda-tile-examined-ai-giant-releases-programming-style-for-rubin-feynman-and-beyond-tensor-native-execution-model-lays-the-foundation-for-blackwell-and-beyond"
+    "link": "https://www.tomshardware.com/pc-components/gpus/jensen-huang-ces-2026-q-and-a"
+  },
+  {
+    "title": "Nvidia hires first-ever CMO, snatches former Google exec for the tough job of helping sell more chips",
+    "summary": "Nvidia is hiring its first chief marketing officer, Alison Wagonfield, a former Google executive with nearly 10 years of experience building the company's Cloud project.",
+    "tags": [
+      "AI",
+      "NVIDIA",
+      "Semiconductors",
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-hires-first-ever-cmo-snatches-former-google-exec-for-the-tough-job-of-helping-sell-more-chips-alison-wagonfield-spent-nearly-10-years-at-google-building-its-cloud-project"
+  },
+  {
+    "title": "Intel showed up for consumers at the 'Consumer Electronics Show;' AMD didn't",
+    "summary": "At this year's CES, Intel was focused on pitching its Panther Lake chips to gamers, laptop users, and robot makers, while AMD seemed too focused on AI potential, neglecting its consumer audience.",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Semiconductors"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-showed-up-for-consumers-at-the-consumer-electronics-show-amd-didnt"
+  },
+  {
+    "title": "Meta inks deals to supply a staggering 6 gigawatts in nuclear power for data center ambitions enough wattage to supply 5 million homes",
+    "summary": "Meta is securing 6 gigawatts of nuclear power to meet its data center needs, with 1 gigawatt for Prometheus in 2026 and 5 gigawatts for Hyperion by 2028.",
+    "tags": [
+      "Hardware",
+      "Trends"
+    ],
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-inks-deals-to-supply-a-staggering-6-gigawatts-in-nuclear-power-for-data-center-ambitions-enough-wattage-to-supply-5-million-homes"
+  },
+  {
+    "title": "Intel Panther Lake press Q&A transcript EVO is still alive, and the company ditches prior-generation naming scheme",
+    "summary": "Intel's senior staff discussed the new products behind their Panther Lake architecture, featuring illuminating commentary at CES 2026.",
+    "tags": [
+      "Semiconductors",
+      "Hardware",
+      "Trends"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-panther-lake-press-q-and-a-transcript"
+  },
+  {
+    "title": "Researchers turn spoiled milk into 3D printing materials",
+    "summary": "Researchers extracted proteins from dairy waste and combined them with polymers to create a plastic alternative. This work converts a liability into a potential input for advanced manufacturing.",
+    "tags": [],
+    "link": "https://www.tomshardware.com/3d-printing/researchers-turn-spoiled-milk-into-3d-printing-materials-extracted-proteins-from-dairy-waste-combined-with-polymers-to-create-plastic-alternative"
+  },
+  {
+    "title": "President Trump, Sec. Lutnick praise Intel after the launch of Panther Lake chips says investment in company already bringing tens of billions of dollars for the American people",
+    "summary": "President Donald Trump and Commerce Secretary Howard Lutnick praised Intel and its CEO, Lip-Bu Tan, for the launch of the first chips made using the Intel 18A process node, a step towards the U.S. regaining its lead in cutting-edge chip manufacturing.",
+    "tags": [
+      "Semiconductors",
+      "Hardware",
+      "Trends"
+    ],
+    "link": "https://www.tomshardware.com/tech-industry/president-trump-sec-lutnick-praise-intel-after-the-launch-of-panther-lake-chips-says-investment-in-company-already-bringing-tens-of-billions-of-dollars-for-the-american-people"
+  },
+  {
+    "title": "Intel makes sharp reversal, is 'going big time into 14A,' says CEO Lip-Bu Tan",
+    "summary": "Intel's CEO expects great momentum in terms of yields and IP on the company's 14A process technology.",
+    "tags": [
+      "Semiconductors",
+      "Hardware",
+      "Trends"
+    ],
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-is-going-big-time-into-14a-says-ceo-lip-bu-tan-serve-the-customer-well-remark-hints-at-external-client"
+  },
+  {
+    "title": "Chinese researchers hail breakthrough in DRAM-like cells, which could be used in embedded or 3D stacked memory    absence of manufacturing detail casts doubt on mass production",
+    "summary": "Chinese researchers demonstrated a DRAM-like memory cell with multi-bit storage, fast writes, and long retention. The technology could be used as embedded or stacked 3D memory. However, manufacturability and commercial viability are uncertain.",
+    "tags": [
+      "Semiconductors",
+      "Hardware",
+      "Trends"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/dram/chinese-researchers-hail-breakthrough-in-dram-like-cells-which-could-be-used-in-embedded-or-3d-stacked-memory-absence-of-manufacturing-detail-casts-doubt-on-mass-production"
+  },
+  {
+    "title": "Apple-1 Prototype Board #0 system is expected to fetch $500,000+ at a 50th Anniversary auction and the firm's first ever check is valued at the same amount",
+    "summary": "An auction featuring 191 lots of historic Apple Computer artifacts has begun, with some items estimated to be worth $500,000+.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/desktops/pc-building/apple-1-prototype-board-0-system-is-expected-to-fetch-usd500-000-at-a-50th-anniversary-auction-and-the-firms-first-ever-check-is-valued-at-the-same-amount"
+  },
+  {
+    "title": "Woot's 'reconditioned' MSI PC deals might be your ticket to an affordable upgrade",
+    "summary": "Woot is offering reconditioned MSI pre-built PCs for an affordable upgrade, with a deal for an RTX 5060-based 14400F PC with 16GB of DDR5 and 1TB of storage for $719.",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/woots-reconditioned-msi-pc-deals-might-be-your-ticket-to-an-affordable-upgrade-for-usd719-get-an-rtx-5060-based-14400f-pc-with-16gb-of-ddr5-and-1tb-of-storage"
+  },
+  {
+    "title": "Acemagic presents mini-PCs inspired by the NES and PlayStation 1",
+    "summary": "Acemagic presents mini-PCs inspired by the NES and PlayStation 1, featuring Ryzen AI 9 465, up to 64GB of RAM, and up to 4TB of SSD storage.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/acemagic-presents-mini-pcs-inspired-by-the-nes-and-playstation-1-retro-shells-conceal-ryzen-ai-9-465-up-to-64gb-of-ram-and-up-to-4tb-of-ssd-storage"
+  },
+  {
+    "title": "HBM4 mass production delayed as Nvidia pushes memory specs higher",
+    "summary": "Nvidia has delayed HBM4 mass production to late Q1 2026 due to revised memory specs for its next-gen Rubin GPU platform.",
+    "tags": [
+      "NVIDIA",
+      "Semiconductors",
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/tech-industry/hbm4-mass-production-delayed-as-nvidia-pushes-memory-specs-higher"
+  },
+  {
+    "title": "SanDisk to double price of 3D NAND for enterprise SSDs in Q1 2026",
+    "summary": "SanDisk and other suppliers are projected to increase prices of enterprise-grade 3D NAND due to overwhelming demand from the AI sector.",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Trends"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/ssds/sandisk-to-double-price-of-3d-nand-for-enterprise-ssds-in-q1-2026-hyperscalers-to-pay-top-dollar-for-storage-as-ai-continues-to-roll"
+  },
+  {
+    "title": "Audeze launches Maxwell 2 headset, with better spatial immersion and bass plus, of course, improved AI noise-canceling mic tech",
+    "summary": "Audeze launched its new Maxwell 2 planar magnetic gaming headset at CES 2026, with improved audio and mic technology, and swappable side plates.",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Trends"
+    ],
+    "link": "https://www.tomshardware.com/peripherals/gaming-headsets/audeze-launches-maxwell-2-headset-with-better-spatial-immersion-and-bass-plus-of-course-improved-ai-noise-canceling-mic-tech"
+  },
+  {
+    "title": "Nvidia to demand full upfront payment for H200 GPUs from China customers, report claims more than two million chips may have been ordered despite uncertain Beijing stance",
+    "summary": "Nvidia has imposed non-refundable, full upfront payment terms on H200 GPU sales to China-based clients due to regulatory risks. Chinese customers had ordered over 2 million H200 units. This is a precautionary measure to hedge potential risks.",
+    "tags": [
+      "NVIDIA",
+      "Semiconductors"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-to-demand-full-upfront-payment-for-h200-gpus-from-china-customers-report-claims-more-than-two-million-chips-may-have-been-ordered-despite-uncertain-beijing-stance"
+  },
+  {
+    "title": "MSI unlocks the full power of AMD CPUs with new MEG X870E Unify-X Max motherboard  premium Ryzen overclocking comes to AM5",
+    "summary": "MSI showcases the MEG X870E Unify-X Max motherboard for Ryzen processors at CES 2026, enabling premium Ryzen overclocking.",
+    "tags": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/motherboards/msi-unlocks-the-full-power-of-amd-cpus-with-new-meg-x870e-unify-x-max-motherboard-premium-ryzen-overclocking-comes-to-am5"
+  },
+  {
+    "title": "Keyboard giant Keychron unveils new Nape Pro trackball with programmable buttons",
+    "summary": "Keychron's Nape Pro made an appearance at CES 2026, featuring a low profile design for ergonomic scrolling without leaving your keyboard.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/peripherals/mice/keyboard-giant-keychron-unveils-new-nape-pro-trackball-with-programmable-buttons-low-profile-design-promotes-ergonomic-scrolling-without-leaving-your-keyboard"
+  },
+  {
+    "title": "AMD claims Panther Lake has 'too much baggage' for handheld PC use  fights back after Intel jabs AMD for using 'ancient silicon' in its Z2 series APUs",
+    "summary": "AMD jabs back at Intel for calling its Z2 chips \"ancient\", claiming Panther Lake mobile chips have too much \"baggage\" for handheld gaming use.",
+    "tags": [
+      "Semiconductors",
+      "Hardware",
+      "Trends"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-claims-panther-lake-has-too-much-baggage-for-handheld-pc-use-fights-back-after-intel-jabs-amd-for-using-ancient-silicon-in-its-z2-series-apus"
+  },
+  {
+    "title": "Best of CES 2026: Innovating amidst the RAM and storage apocalypse",
+    "summary": "Despite the limitations of AI hyperscalers, CES 2026 showcased innovation in laptop CPUs, monitors, and PC cases, despite constrained consumer GPU and storage launches.",
+    "tags": [
+      "AI",
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/best-of-ces-2026-innovating-amidst-the-ram-and-storage-apocalypse"
+  },
+  {
+    "title": "Creality SPARKX i7 Review: Not just another color bedslinger",
+    "summary": "Creality's newest 3D printer is not an Ender, or is it? This review explores the features and capabilities of the Creality SPARKX i7.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/3d-printing/creality-sparkx-i7-review"
+  },
+  {
+    "title": "Cooler Master introduces the Aquagate MAX Retro Mini cooling unit delivers massive cooling capacity up to 2,500 watts",
+    "summary": "Cooler Master showed off a desktop coolant distribution unit at CES 2026. This unit is designed to deliver 900 to 2,500 watts of cooling performance, letting users maximize the power of high-performance desktop systems.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/cooler-master-introduces-the-aquagate-max-retro-mini-cooling-unit-delivers-massive-cooling-capacity-up-to-2-500-watts"
+  },
+  {
+    "title": "Micron to begin work on $100 billion New York 'megafab' imminently",
+    "summary": "Micron is starting to build a $100 billion site in New York to produce 40% of its DRAM output in the U.S. by the 2040s, after numerous delays.",
+    "tags": [
+      "Semiconductors"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/dram/micron-to-begin-work-on-usd100-billion-new-york-megafab-imminently-landmark-site-to-produce-40-percent-of-companys-overall-dram-output-in-the-u-s-by-the-2040s"
+  },
+  {
+    "title": "CES 2026 Day 2: Dell's massive 52-inch 6K monitor, AMD unbothered by Intel's new Arc B390 IGP, MSI PSUs guard against RTX 5090 meltdowns",
+    "summary": "Coverage from Day 2 of CES 2026 highlights Dell's massive 52-inch 6K monitor and MSI's new power supplies designed to prevent meltdowns caused by the RTX 5090. AMD remains unaffected by Intel's new Arc B390 IGP. Various products were showcased.",
+    "tags": [
+      "Hardware",
+      "Semiconductors",
+      "NVIDIA"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/ces-2026-day-2-dells-massive-52-inch-6k-monitor-amd-unbothered-by-intels-new-arc-b390-igp-msi-psus-guard-against-rtx-5090-meltdowns"
+  },
+  {
+    "title": "Samsung and Intel co-develop 'SmartPower HDR' for Panther Lake OLED laptops, with up to 22% power savings",
+    "summary": "SmartPower HDR reduces power consumption by up to 22% in Panther Lake OLED laptops, resulting in 30-40 minutes of extra battery life. This technology enables dynamic voltage control on OLED screens, only drawing more voltage when necessary for high-brightness HDR content. It was co-developed by Samsung and Intel.",
+    "tags": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/laptops/samsung-and-intel-co-develop-smartpower-hdr-for-panther-lake-oled-laptops-with-up-to-22-percent-power-savings-dynamic-voltage-control-lowers-power-without-sacrificing-panel-brightness"
+  },
+  {
+    "title": "Boxes of 100 server-grade DDR5 memory now cost as much as property in Shanghai in China spot market  single 256GB server sticks now over $5,700",
+    "summary": "In China's spot market, vendors are quoting prices that put a box of 100 high-capacity DDR5 server memory modules at roughly 5 million yuan, making a single 256GB server stick over $5,700.",
+    "tags": [
+      "Semiconductors",
+      "Hardware",
+      "Trends"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/ddr5/boxes-of-100-ddr5-server-memory-sticks-in-china-now-priced-like-shanghai-apartments"
+  },
+  {
+    "title": "Major Japanese electronics store begs customers for their old PCs as hardware drought continues    we pretty much buy any PC  pleads the Akihabara outlet",
+    "summary": "A major Japanese PC and electronics store is pleading with customers to sell it their old PC gear due to a hardware drought.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet"
+  },
+  {
+    "title": "China expected to approve H200 imports in early 2026, report claims",
+    "summary": "China is reportedly allowing its tech giants to acquire H200 chips, with Alibaba and ByteDance ready to order over 200,000 Nvidia chips each if green-lit by Beijing.",
+    "tags": [
+      "AI",
+      "NVIDIA",
+      "Semiconductors"
+    ],
+    "link": "https://www.tomshardware.com/tech-industry/china-expected-to-approve-h200-imports-in-early-2026-report-claims-tech-giants-alibaba-and-bytedance-reportedly-ready-to-order-over-200-000-nvidia-chips-each-if-green-lit-by-beijing"
+  },
+  {
+    "title": "Patriot shows off opulent Viper Xtreme 5 Aurum RAM kit with flashy finish as prices surge throughout industry   company also showcases new SSDs and MicroSD Express card for Switch 2",
+    "summary": "Patriot showcased its latest SSD and RAM kits at CES 2026, including a sneak peek of their rapid DDR5-10000 RAM kit under development.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.tomshardware.com/pc-components/ram/patriot-shows-off-opulent-viper-xtreme-5-aurum-ram-kit-with-flashy-finish-as-prices-surge-throughout-industry-company-also-showcases-new-ssds-and-microsd-express-card-for-switch-2"
+  },
+  {
+    "title": "Upgraded Sipeed NanoKVM-USB USB KVM solution gains 4K 60 FPS video capture and HDMI loop output",
+    "summary": "Sipeed has released a new NanoKVM-USB with upgraded 4K 60 FPS capture and 4Kp60 HDMI loop output, retaining the same ports as the earlier model.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/12/upgraded-sipeed-nanokvm-usb-usb-kvm-solution-gains-4k-60-fps-video-capture-and-hdmi-loop-output/"
+  },
+  {
+    "title": "Milk-V Titan A $329 octa-core 64-bit RISC-V mini-ITX motherboard with a PCIe Gen4 x16 slot",
+    "summary": "The Milk-V Titan is an octa-core 64-bit RISC-V mini-ITX motherboard powered by a 2 GHz UR-DP1000 CPU, supporting up to 64GB memory and M.2 NVMe storage, and featuring a PCIe Gen4 x16 slot.",
+    "tags": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/12/milk-v-titan-a-329-octa-core-64-bit-risc-v-mini-itx-motherboard-with-a-pcie-gen4-x16-slot/"
+  },
+  {
+    "title": "Xibo open-source digital signage solution now works with Raspberry Pi 5 thanks to the Arexibo project",
+    "summary": "Xibo digital signage solution is now compatible with the Raspberry Pi 5 thanks to Arexibo, an unofficial alternative to the digital signage player for Xibo, designed for Linux platforms. This marks the first time Xibo has been compatible with the Raspberry Pi since developers dropped support for the Linux client in 2012.",
+    "tags": [
+      "Raspberry Pi"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/12/xibo-open-source-digital-signage-solution-now-works-with-raspberry-pi-5-thanks-to-the-arexibo-project/"
+  },
+  {
+    "title": "LILYGO T-Beam 1W An ESP32-S3 + SX1262 high-power LoRa dev board with 32 dBm output, GNSS support",
+    "summary": "The LILYGO T-Beam-1W is a high-power LoRa development board featuring an SX1262 RF transceiver, onboard 1W power amplifier, and a L76K GNSS module, running on a 7.4V battery.",
+    "tags": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/12/lilygo-t-beam-1w-an-esp32-s3-sx1262-high-power-lora-dev-board-with-32-dbm-output-gnss-support/"
+  },
+  {
+    "title": "AMD Embedded+ mini-ITX Board features Ryzen AI Embedded P132 CPU, Versal AI Edge Gen2 VE3558 SoC FPGA",
+    "summary": "Sapphire Technology introduced the EDGE+VPR-7P132, an AMD Embedded+ Mini-ITX motherboard with a Ryzen AI Embedded P132 CPU and AMD Versal AI Edge Gen 2 VE3558 SoC FPGA. It features Zen 5 CPU cores, RDNA 3.5 graphics, and 40 Gbps USB4 connectivity. This represents a significant update from last year's model.",
+    "tags": [
+      "AI",
+      "Edge AI",
+      "Hardware",
+      "Semiconductors"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/11/amd-embedded-mini-itx-board-features-ryzen-ai-embedded-p132-cpu-versal-ai-edge-gen2-ve3558-soc-fpga/"
+  },
+  {
+    "title": "XIAO ePaper DIY Kit   EE02   An ESP32-S3 board designed for 13.3-inch Spectra 6 color E-Ink display",
+    "summary": "The XIAO ePaper DIY Kit EE02 is an ESP32-S3 WiFi and Bluetooth board designed for a 13.3-inch color ePaper display. It includes features like a battery connector, power switch, and user buttons. The board is well-suited for digital frames and information boards.",
+    "tags": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/10/xiao-epaper-diy-kit-ee02-an-esp32-s3-board-designed-for-13-3-inch-spectra-6-color-e-ink-display/"
+  },
+  {
+    "title": "Home Assistant-compatible Makerfabs ESP32-S3-based energy meter features BL0942 energy metering IC",
+    "summary": "The Energy Meter for Home Assistant is an ESP32-S3-based single-phase energy monitoring and control module that measures real-time power and energy consumption and has remote on/off control.",
+    "tags": [
+      "Hardware",
+      "Edge AI",
+      "Semiconductors"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/09/home-assistant-compatible-makerfabs-esp32-s3-based-energy-meter-features-bl0942-energy-metering-ic/"
+  },
+  {
+    "title": "SECO's COM Express Type 6 module features Intel Core Ultra Series 3 Panther Lake-H processor with up to 180 TOPS",
+    "summary": "SECO has announced a COM Express Type 6 Basic module that supports the Intel Core Ultra X9 series processors, delivering up to 180 TOPS of AI performance. The module supports up to 128GB DDR5 memory, high-speed expansion, and multiple display interfaces. It is designed for rugged and mission-critical applications.",
+    "tags": [
+      "AI",
+      "Edge AI",
+      "Hardware"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/09/seco-com-express-type-6-module-features-intel-core-ultra-series-3-panther-lake-h-processor-with-up-to-180-tops/"
+  },
+  {
+    "title": "6-core Intel Wildcat Lake Core Series 3 CPUs to succeed Alder Lake-N and Twin Lake families",
+    "summary": "Intel demonstrated the Core Series 3 Wildcat Lake processors as lower-end Core Series 3 Panther Lake SKUs, featuring a hexa-core design with 2x P-cores and 4x LPE-cores, and 2x Xe-core Intel Xe3 graphics.",
+    "tags": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/09/6-core-intel-wildcat-lake-core-series-3-cpus-to-succeed-alder-lake-n-and-twin-lake-families/"
+  },
+  {
+    "title": "Quectel SRG091X and SRG093X NXP i.MX 9 industrial AIoT modules integrates Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios",
+    "summary": "Quectel has released two new low-power industrial AIoT modules based on NXP's i.MX 9 series SoCs, which integrate Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios. The SRG093X features a dual-core NXP i.MX 93 SoC with a Cortex-M33 real-time core and a neural processing unit (NPU) for edge AI workloads. The modules support LPDDR4/LPDDR4X memory, eMMC storage, and various I/O options.",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Semiconductors",
+      "Hardware",
+      "Edge AI"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/09/quectel-srg091x-and-srg093x-nxp-i-mx-9-industrial-aiot-modules-integrates-wi-fi-6-bluetooth-5-4-and-802-15-4-radios/"
+  },
+  {
+    "title": "MUSE Book laptop review Testing an octa-core RISC-V Linux laptop in 2026",
+    "summary": "The reviewer tests the MUSE Book RISC-V Linux laptop, which features an octa-core SoC, 14.1-inch IPS display, and up to 16 GB of RAM. The review focuses on the software part, particularly the Bianbu OS 2.3 based on Ubuntu 24.04. The laptop is a follow-up to the review of the MUSE Book Laptop in April 2024.",
+    "tags": [
+      "RISC-V",
+      "Hardware"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/08/muse-book-laptop-review-testing-an-octa-core-risc-v-linux-laptop-in-2026/"
+  },
+  {
+    "title": "Reolink Floodlight 4K Smart PoE and WiFi 6 security cameras add on-device LLM for natural language video search",
+    "summary": "Reolink has introduced two new 4K security cameras with on-device Large Language Model (LLM) for natural-language video search, allowing users to find specific items in footage without relying on manual scrolling or cloud-based detection.",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Edge AI",
+      "Hardware"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/08/reolink-floodlight-4k-smart-poe-security-cameras-add-on-device-llm-for-natural-language-video-search/"
+  },
+  {
+    "title": "Intel Core Ultra Series 3 Panther Lake-H CPU powers TGS-2000 series stackable Edge AI computers",
+    "summary": "Intel unveiled the Core Ultra Series 3 processors at CES 2026, targeting consumer and industrial applications. Vecow introduced the TGS-2000 series, ultra-compact, stackable Edge AI computers with enhanced AI performance using Intel Core Ultra Series 3. The TGS-2000 Series offers up to 100 TOPS combined performance.",
+    "tags": [
+      "Semiconductors",
+      "Edge AI",
+      "Hardware",
+      "AI"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/08/intel-core-ultra-series-3-panther-lake-h-cpu-powers-tgs-2000-series-stackable-edge-ai-computers/"
+  },
+  {
+    "title": "AMD launches Ryzen AI Embedded P100 and X100 processors with up to 50 TOPS of AI performance",
+    "summary": "AMD has introduced the Ryzen AI Embedded P100 and X100 x86 processors designed to power AI-driven applications at the edge, with up to 50 TOPS of AI performance and targeting automotive digital cockpits, smart healthcare equipment, and humanoid robotics.",
+    "tags": [
+      "AI",
+      "Semiconductors",
+      "Hardware",
+      "Edge AI"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/07/amd-launches-ryzen-ai-embedded-p100-and-x100-processors-with-up-to-50-tops-of-ai-performance/"
+  },
+  {
+    "title": "Quectel SP895BD-AP AIoT module features Qualcomm Dragonwing Q-8750 SoC with 80 TOPS NPU",
+    "summary": "Quectel launched the SP895BD-AP smart AIoT module based on the Qualcomm Dragonwing Q-8750 SoC, designed for high-performance IoT applications such as video conferencing and smart retail terminals, supporting 8K video encoding and decoding with up to 3 48MP camera inputs.",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Semiconductors",
+      "Edge AI",
+      "Hardware"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/07/quectel-sp895bd-ap-aiot-module-features-qualcomm-dragonwing-q-8750soc-with-80-tops-npu/"
+  },
+  {
+    "title": "Nordic Semi nRF54LM20B wireless SoC integrates 128 MHz Axon NPU for Edge AI workloads",
+    "summary": "Nordic Semi's nRF54LM20B wireless SoC integrates an ultra-efficient Axon NPU for edge AI workloads, delivering up to 7 times faster performance and up to 8 times higher energy efficiency compared to competing solutions.",
+    "tags": [
+      "Semiconductors",
+      "AI",
+      "Machine Learning",
+      "Edge AI",
+      "Hardware"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/07/nordic-semi-nrf54lm20b-wireless-soc-integrates-128-mhz-axon-npu-for-edge-ai-workloads/"
+  },
+  {
+    "title": "STM32MP21 Arm Cortex-A35/M33 MPU targets cost-effective applications in smart factories, homes, and cities",
+    "summary": "The STM32MP21 microprocessor family combines a 1.5 GHz Arm Cortex-A35 application core with a 300 MHz Arm Cortex-M33 core for real-time processing, targeting cost-aware edge applications in smart factories, smart homes, and smart cities.",
+    "tags": [
+      "Semiconductors",
+      "Hardware",
+      "Edge AI"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/07/stm32mp21-arm-cortex-a35-m33-mpu-targets-cost-effective-applications-in-smart-factory-homes-and-factories/"
+  },
+  {
+    "title": "Espressif Systems showcases ESP32-E22 Wi-Fi 6E SoC and ESP32-H21 BLE MCU for battery-powered devices",
+    "summary": "Espressif Systems has showcased its upcoming products at CES 2026, including the ESP32-E22 Wi-Fi 6E tri-band SoC and ESP32-H21 Bluetooth LE MCU for battery-powered devices, featuring a dual-core RISC-V processor and Wi-Fi 6E capabilities.",
+    "tags": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/07/espressif-systems-showcases-esp32-e22-wi-fi-6e-soc-and-esp32-h21-ble-mcu-for-battery-powered-devices/"
+  },
+  {
+    "title": "Snapdragon X2 Plus 6-core and 10-core processors target low-power Windows Copilot+ PCs",
+    "summary": "Qualcomm has introduced the mid-range Snapdragon X2 Plus platform for affordable Windows 11 Copilot+ PCs, featuring 6-core and 10-core processors, 80 TOPS AI accelerator, and 5G modem.",
+    "tags": [
+      "AI",
+      "Semiconductors",
+      "Hardware",
+      "Trends"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/07/snapdragon-x2-plus-6-core-and-10-core-processors-target-low-power-windows-copilot-pcs/"
+  },
+  {
+    "title": "Broadcom updates its Wi-Fi 8 access point chips portfolio with BCM4918 APU, BCM6714 and BCM6719 dual-band radios",
+    "summary": "Broadcom has launched its next-generation Wi-Fi 8 access point chips, including the BCM4918 Accelerated Processing Unit (APU) and two new dual-band radios: BCM6714 and BCM6719. The new chips offer high-performance capabilities, advanced networking engines, and integrated AI/ML inference and acceleration. They build upon previous models with improved features and configurations.",
+    "tags": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/06/broadcom-updates-its-wi-fi-8-access-point-portfolio-with-bcm4918-apu-bcm6714-and-bcm6719-dual-band-chips/"
+  },
+  {
+    "title": "ESP32-S3 development board features 4.2-inch Reflective LCD (RLCD), dual microphone array, onboard speaker",
+    "summary": "The Waveshare ESP32-S3-RLCD-4.2 is a 4.2-inch Reflective LCD development board built around ESP32-S3 with features like Wi-Fi, Bluetooth, dual microphone array, onboard speaker, and temperature and humidity sensor.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/06/esp32-s3-development-board-features-4-2-inch-reflective-lcd-rlcd-dual-microphone-array-onboard-speaker/"
+  },
+  {
+    "title": "NVIDIA Jetson T4000 Edge AI embedded system offers 5GbE networking, four PoE camera ports, DIO, CAN Bus, and more",
+    "summary": "The AAEON BOXER-8742AI is a fanless Edge AI embedded system powered by an NVIDIA Jetson T4000, offering 5GbE networking, four PoE camera ports, and more. It's suitable for high-performance edge AI applications. The system-on-module features a 12-core CPU, 1536-core NVIDIA Blackwell GPU, and 6-TPC MIG VPU.",
+    "tags": [
+      "AI",
+      "NVIDIA",
+      "Edge AI",
+      "Hardware"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/06/nvidia-jetson-t4000-edge-ai-embedded-system-offers-5gbe-networking-four-poe-camera-ports-dio-can-bus-and-more/"
+  },
+  {
+    "title": "Qualcomm Dragonwing Q 7790 and Q 8750 AIoT SoCs target AI-enhanced drones, cameras, TVs and media hubs",
+    "summary": "Qualcomm introduced the Dragonwing Q 7790 and Q 8750 processors supporting on-device AI for drones, smart cameras, and industrial vision, AI TVs/media hubs, and video collaboration systems.",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Semiconductors",
+      "Edge AI",
+      "Hardware"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/06/qualcomm-dragonwing-q-7790-and-q-8750-aiot-socs-target-ai-enhanced-drones-cameras-tvs-and-media-hubs/"
+  },
+  {
+    "title": "ESP32-DIV V1 handheld pentesting tool supports Wi-Fi Attacks, BLE spoofing, 2.4GHz scanning, and Sub-GHz jamming",
+    "summary": "The ESP32-DIV V1 is a handheld wireless pentesting tool designed for hardware hackers and cybersecurity researchers, featuring Wi-Fi, BLE, and RF communication capabilities.",
+    "tags": [
+      "Hardware"
+    ],
+    "link": "https://www.cnx-software.com/2026/01/06/esp32-div-v1-handheld-pentesting-tool-supports-wi-fi-attacks-ble-spoofing-2-4ghz-scanning-and-sub-ghz-jamming/"
   },
   {
     "title": "GL.iNet Comet 5G A KVM over IP solution with 5G RedCap Cellular connectivity, 3.69-inch touchscreen display",
-    "summary": "The GL.iNet Comet 5G is a KVM over IP solution with 5G RedCap cellular connectivity, a 3.69-inch touchscreen display, and features such as HDMI input, output, and USB ports. It boasts a quad-core CPU, 1GB DDR3L memory, and 64GB eMMC flash storage. The device enables remote access even when the regular internet connection is down.",
+    "summary": "GL.iNet Comet 5G is a KVM over IP solution with 5G RedCap cellular connectivity, a 3.69-inch touchscreen display, and supports remote access even when the regular Internet connection is down.",
     "tags": [
       "Hardware"
     ],
     "link": "https://www.cnx-software.com/2026/01/05/gl-inet-comet-5g-a-kvm-over-ip-solution-with-5g-redcap-cellular-connectivity-3-69-inch-touchscreen-display/"
   },
   {
-    "title": "Openterface KVM-GO   An ultra-compact KVM-over-USB solution with HDMI, DP, or VGA video input",
-    "summary": "Openterface KVM-GO is a small, open-source KVM-over-USB gadget that can be connected directly to a target device. It supports HDMI, DisplayPort, or VGA video input and has a microSD card slot for OS installation. The device follows the company's earlier Mini-KVM device.",
+    "title": "Openterface KVM-GO An ultra-compact KVM-over-USB solution with HDMI, DP, or VGA video input",
+    "summary": "Openterface KVM-GO is a tiny, open-source hardware KVM-over-USB gadget with HDMI, DP, or VGA connector for headless device troubleshooting and remote server monitoring.",
     "tags": [
-      "Hardware",
-      "Edge AI"
+      "Hardware"
     ],
     "link": "https://www.cnx-software.com/2026/01/05/openterface-kvm-go-an-ultra-compact-kvm-over-usb-solution-with-hdmi-dp-or-vga-video-input/"
   },
   {
     "title": "Allwinner V861 dual-core 64-bit RISC-V AI Camera SiP features 128MB DDR3L, 4K H.265/H.264 video encoder",
-    "summary": "Allwinner V861 is a dual-core 32-bit/64-bit RISC-V SiP with 128MB DDR3L, designed for 4K AI camera applications. It features a 1 TOPS AI NPU, 4K H.264/H.265 video encoder, and supports various interfaces for camera, display, and storage.",
+    "summary": "The Allwinner V861 is a dual-core RISC-V system-in-package (SiP) with a 1 TOPS AI NPU, designed for 4K AI camera applications, featuring a 4K H.265/H.264 video encoder and 1080p60 JPEG video decoder.",
     "tags": [
       "AI",
+      "Hardware",
       "Semiconductors",
-      "Hardware"
+      "Edge AI"
     ],
     "link": "https://www.cnx-software.com/2026/01/04/allwinner-v861-dual-core-64-bit-risc-v-ai-camera-sip-features-128mb-ddr3l-4k-h-265-h-264-video-encoder/"
   },
   {
     "title": "WCH CH32H417 dual-core RISC-V MCU offers USB 3.0, 500MB/s UHSIF, and Fast Ethernet interfaces",
-    "summary": "The WCH CH32H417 is a dual-core RISC-V microcontroller with a clock speed of up to 400 MHz, featuring 960 KB flash, 896 KB SRAM, and various high-speed interfaces.",
+    "summary": "WCH CH32H417 is a high-performance dual-core RISC-V microcontroller with 5 Gbps USB 3.0, 500MB/s UHSIF, and Fast Ethernet interfaces, along with up to 960 KB flash and 896KB SRAM.",
     "tags": [
-      "Semiconductors",
       "Hardware",
-      "Trends"
+      "Semiconductors"
     ],
     "link": "https://www.cnx-software.com/2026/01/03/wch-ch32h417-dual-core-risc-v-mcu-offers-usb-3-0-500mb-s-uhsif-and-fast-ethernet-interfaces/"
   },
   {
     "title": "Cincoze MD-3000 is a scalable DIN-Rail computer with up to 14th Gen 24-core Intel Core i9-14900 CPU",
-    "summary": "The Cincoze MD-3000 is a high-performance, scalable DIN-Rail computer powered by Intel processors, supporting up to 96GB DDR5 memory, multiple storage options, and various interfaces. It targets vision-driven smart manufacturing applications. The computer can be expanded with up to six modules through the Scalable Expansion Deck.",
+    "summary": "The Cincoze MD-3000 is a high-performance, scalable DIN-Rail computer powered by up to a 14th Gen 24-core Intel Core i9-14900 CPU, supporting up to 96GB DDR5 memory and various I/O interfaces.",
     "tags": [
-      "Edge AI",
       "Hardware",
-      "Semiconductors"
+      "Edge AI"
     ],
     "link": "https://www.cnx-software.com/2026/01/02/cincoze-md-3000-scalable-din-rail-computer-with-up-to-14th-gen-24-core-intel-core-i9-14900-cpu/"
   },
   {
     "title": "Year 2025 in Review, CNX Software stats, and looking ahead to 2026",
-    "summary": "The year 2025 saw the release of several notable products, including the Raspberry Pi 500+ mechanical keyboard, a 5-inch variant of the Raspberry Pi Touch Display 2, and a Raspberry Pi 5 1GB RAM. Third-party accessories continued to be released for Raspberry Pi SBC and Pico boards. The 12-core CIX P1 Armv9 SoC was a notable Arm SoC release.",
+    "summary": "In 2025, Raspberry Pi released several notable products, including the Raspberry Pi 500+ mechanical keyboard and a 5-inch variant of the Raspberry Pi Touch Display 2. The year also saw the release of the 12-core CIX P1 Armv9 SoC in various boards. Third-party accessories continued to be released for Raspberry Pi SBC and Pico boards.",
     "tags": [
       "Raspberry Pi",
-      "Hardware"
+      "Hardware",
+      "Semiconductors"
     ],
     "link": "https://www.cnx-software.com/2025/12/31/year-2025-in-review-cnx-software-stats-and-looking-ahead-to-2026/"
   },
   {
     "title": "VisionFive 2 Lite SBC Review Ubuntu 24.04 on a low-cost RISC-V SBC in 2026",
-    "summary": "VisionFive 2 Lite is a low-cost RISC-V SBC that is a variant of the earlier VisionFive 2 SBC, and it has been reviewed with Ubuntu 24.04 to see the progress made on the software side since its initial release.",
+    "summary": "The VisionFive 2 Lite SBC is a low-cost RISC-V SBC based on the StarFive JH7110S quad-core processor. The review covers the board's features and performance using Ubuntu 24.04. The board's progress is compared to an earlier version tested in 2023.",
     "tags": [
       "Hardware",
-      "Semiconductors"
+      "RISC-V"
     ],
     "link": "https://www.cnx-software.com/2025/12/31/visionfive-2-lite-sbc-review-ubuntu-24-04-on-a-low-cost-risc-v-sbc-in-2026/"
   },
   {
-    "title": "DFRobot HUSKYLENS 2 AI camera review",
-    "summary": "The DFRobot HUSKYLENS 2 is an AI vision sensor with a Kendryte K230 dual-core RISC-V SoC and 6 TOPS AI accelerator, running machine vision algorithms fully on-device with built-in AI models and custom-trained model support.",
+    "title": "DFRobot HUSKYLENS 2 AI camera review From built-in AI samples to training a custom model to detect elephants",
+    "summary": "The HUSKYLENS 2 is a next-generation AI vision sensor with a Kendryte K230 dual-core RISC-V SoC, 6 TOPS AI accelerator, and 2.4-inch IPS touchscreen, supporting built-in AI models and custom-trained models via UART or I2C communication interfaces.",
     "tags": [
       "AI",
       "Machine Learning",
-      "Raspberry Pi"
+      "Raspberry Pi",
+      "Edge AI",
+      "Hardware"
     ],
     "link": "https://www.cnx-software.com/2025/12/31/dfrobot-huskylens-2-ai-camera-review-from-built-in-ai-samples-to-training-a-custom-model-to-detect-elephants/"
-  },
-  {
-    "title": "Add four Gigabit or 2.5Gbps Ethernet ports to the Raspberry Pi 5 with this expansion board",
-    "summary": "This expansion board connects four RJ45 ports to the Raspberry Pi 5's PCIe interface, providing Gigabit or 2.5Gbps Ethernet ports with status LEDs and no need for an external power supply. The board is plug-and-play and supports Raspberry Pi OS out of the box. The limiting factor is the Pi's PCIe Gen2/Gen3 x1 interface.",
-    "tags": [
-      "Raspberry Pi",
-      "Hardware"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/30/add-four-gigabit-or-2-5gbps-ethernet-ports-to-the-raspberry-pi-5-with-this-expansion-board/"
-  },
-  {
-    "title": "Rockchip RK1820/RK1828 SO-DIMM and M.2 LLM/VLM AI accelerator modules, devkits, and benchmarks",
-    "summary": "Rockchip unveiled RK182X LLM/VLM accelerators, a development kit is now available, and the RK1828 has been benchmarked against the Rockchip RK3588's NPU.",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "Rockchip",
-      "Hardware"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/30/rockchip-rk1820-rk1828-so-dimm-and-m-2-llm-vlm-ai-accelerator-modules-devkits-and-benchmarks/"
-  },
-  {
-    "title": "Elecrow AI starter kit turns NVIDIA Jetson Orin Nano into a learning platform with 11.6-inch display, 30 electronics modules",
-    "summary": "Elecrow AI Starter Kit turns the NVIDIA Jetson Orin Nano into a learning and educational kit with an 11.6-inch IPS touchscreen, 8MP camera, and 30 common electronics modules.",
-    "tags": [
-      "AI",
-      "NVIDIA"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/30/elecrow-ai-starter-kit-turns-nvidia-jetson-orin-nano-into-a-learning-platform-with-11-6-inch-display-30-electronics-modules/"
-  },
-  {
-    "title": "Open-source hardware USB to GPIB adapter connects legacy GPIB/IEEE-488 instruments to modern hosts",
-    "summary": "The UsbGpib is an open-source hardware, inexpensive, and portable USB to GPIB adapter that connects legacy GPIB/IEEE-488 instruments to modern hosts. It uses a Microchip ATMega32U4 microcontroller and supports USBTMC and IEEE-488.1 and 488.2 standards.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/29/open-source-hardware-usb-to-gpib-adapter-connects-legacy-gpib-ieee-488-instruments-to-modern-hosts/"
-  },
-  {
-    "title": "LoRa, BLE, and GNSS tracker supports open-source software, solar charging, outdoor and indoor tracking",
-    "summary": "The TD04 is a LoRa-based low-power tracker that supports both indoor and outdoor positioning, featuring automatic switching between GNSS and BLE for optimized accuracy and power usage.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/29/ruictec-td04-low-maintance-lora-ble-and-gnss-vehicle-tracker-supports-open-source-software-solar-charging/"
-  },
-  {
-    "title": "Rockchip RK628D based HDMI-to-MIPI-CSI board converts HDMI video into camera feed for embedded systems",
-    "summary": "The Firefly HDMI-to-MIPI-CSI board converts an HDMI input into a MIPI-CSI camera stream for embedded systems, supporting resolutions up to 4K @ 60fps and 4K @ 30fps output.",
-    "tags": [
-      "Rockchip",
-      "Hardware",
-      "Semiconductors"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/29/rockchip-rk628d-based-hdmi-to-mipi-csi-board-converts-hdmi-video-into-camera-feed-for-embedded-systems/"
-  },
-  {
-    "title": "Forlinx FET1126Bx-S low-power Rockchip RV1126BJ industrial SoM powers SBC with 40-pin GPIO header",
-    "summary": "Forlinx has released the FET1126Bx-S, a low-power SoM based on the Rockchip RV1126B/RV1126BJ SoC, designed for edge AI applications with local video analytics, low power consumption, and long-term stability.",
-    "tags": [
-      "AI",
-      "Edge AI",
-      "Hardware",
-      "Rockchip"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/29/forlinx-fet1126bx-s-low-power-rockchip-rv1126bj-industrial-som-powers-sbc-with-40-pin-gpio-header/"
-  },
-  {
-    "title": "Bit-Brick Cluster K1 A 4-slot RISC-V cluster board for SpacemiT K1-based SSOM-K1 system-on-module",
-    "summary": "The Bit-Brick Cluster K1 is a 4-slot RISC-V cluster board designed for edge computing, AI workloads, and high-performance embedded applications. It features an onboard Gigabit Ethernet switch chip, USB ports, and a 3-pin fan power header. The cluster board uses the SpacemiT K1 octa-core RISC-V processor and supports up to 8GB dual-channel LPDDR4X memory.",
-    "tags": [
-      "AI",
-      "Hardware",
-      "Edge AI",
-      "Semiconductors"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/28/bit-brick-cluster-k1-a-4-slot-risc-v-cluster-board-for-spacemit-k1-based-ssom-k1-system-on-module/"
-  },
-  {
-    "title": "ESP32-C6 development board features 1.8-inch AMOLED touch display, built-in mic and speaker, IMU, RTC, and more",
-    "summary": "The Waveshare ESP32-C6-Touch-AMOLED-1.8 is a touch display development board featuring a 1.8-inch capacitive AMOLED display, 6-axis IMU, RTC, audio codec, and more. It's based on the ESP32-C6 wireless SoC with Wi-Fi 6, Bluetooth 5 LE, and Zigbee connectivity. Typical applications include smart home control panels and wearable IoT devices.",
-    "tags": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/27/esp32-c6-amoled-development-board-touch-display-built-in-mic-and-speaker-imu-rtc/"
-  },
-  {
-    "title": "M5Stack NanoH2 An ultra-compact ESP32-H2 IoT development kit with Zigbee, Thread, and Matter connectivity",
-    "summary": "M5Stack NanoH2 is an ultra-compact, standalone IoT development kit powered by Espressif Systems ESP32-H2 wireless SoC with support for Zigbee, Thread, and Matter, designed for smart home and low-power wireless applications.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/26/m5stack-nanoh2-an-ultra-compact-esp32-h2-iot-development-kit-with-zigbee-thread-and-matter-connectivity/"
-  },
-  {
-    "title": "OpenMediaVault 8 (OMV8)  Synchrony released for 64-bit x86 (AMD64) and Arm (ARM64) platforms only",
-    "summary": "OpenMediaVault 8 (OMV8) has been released, supporting only 64-bit architectures, dropping 32-bit systems. It's a popular open-source NAS solution based on Debian Linux. The main reason for killing 32-bit support is that the Salt Project only supports 64-bit builds.",
-    "tags": [
-      "Hardware",
-      "Trends"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/26/openmediavault-8-omv8-synchrony-released-for-64-bit-x86-amd64-and-arm-arm64-platforms-only/"
-  },
-  {
-    "title": "Cerelog ESP-EEG  A low-cost ESP32-based EEG acquisition board for brain computer interface (BCI) experiments",
-    "summary": "The Cerelog ESP-EEG is an 8-channel low-cost brain computer interface (BCI) circuit board for EEG data acquisition. It connects to a host system over USB-C and supports various applications. The board has an active noise-removal bias pin for reduced mains interference.",
-    "tags": [
-      "Hardware"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/26/cerelog-esp-eeg-a-low-cost-esp32-based-eeg-acquisition-board-for-brain-computer-interface-bci-experiments/"
-  },
-  {
-    "title": "Jetway B903DMTX Intel N97 fanless industrial box PC features 10 USB ports, four DB9 serial interfaces",
-    "summary": "Jetway B903DMTX is a fanless industrial box PC with Intel N97 quad-core Alder Lake-N CPU, 10 USB ports, 4 DB9 serial ports, and support for M.2 wireless modules.",
-    "tags": [
-      "Hardware",
-      "Edge AI"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/26/jetway-b903dmtx-intel-n97-fanless-industrial-box-pc-features-10-usb-ports-four-db9-serial-interfaces/"
-  },
-  {
-    "title": "Firefly CAM-3576 series  Tiny Rockchip RK3576 SBCs for commercial, industrial, and automotive applications",
-    "summary": "Firefly Technology has introduced the CAM-3576 series of tiny SBCs based on the Rockchip RK3576 processor with a 6 TOPS NPU for AIoT, edge AI, smart vision, industrial, and automotive applications.",
-    "tags": [
-      "Rockchip",
-      "AI",
-      "Edge AI",
-      "Hardware"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/24/firefly-cam-3576-series-tiny-rockchip-rk3576-sbcs-for-commercial-industrial-and-automotive-applications/"
-  },
-  {
-    "title": "CrowPi 3 AI Learning Kit is powered by a Raspberry Pi 5 SBC, works with Arduino Nano, BBC Micro:bit, and Raspberry Pi Pico boards",
-    "summary": "The CrowPi 3 is a learning and development kit featuring 41 built-in modules and over 150 lessons, compatible with Raspberry Pi 5, and focused on Artificial Intelligence (AI) learning.",
-    "tags": [
-      "AI",
-      "Raspberry Pi"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/24/crowpi-3-ai-learning-kit-is-powered-by-a-raspberry-pi-5-sbc-works-with-arduino-nano-bbc-microbit-and-raspberry-pi-pico-boards/"
-  },
-  {
-    "title": "Lattice Semi MachXO4 FPGA family offers up to 9400 LUTs, 448 kb user flash, improved hot socketing",
-    "summary": "Lattice Semiconductor has launched the MachXO4 low-power FPGA family featuring up to 9400 LUTs, 448 kb user flash, and improved hot socketing.",
-    "tags": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/24/lattice-semi-machxo4-fpga-family-offers-up-to-9400-luts-448-kb-user-flash-improved-hot-socketing/"
-  },
-  {
-    "title": "4-inch round HDMI display offers USB touchscreen for Raspberry Pi, AIDA64, Smart Home, Art projects",
-    "summary": "VIEWE launched a 4-inch round HDMI display with 720x720 resolution and a USB touchscreen function suitable for SBCs, PCs, Smart Home, and Art projects.",
-    "tags": [
-      "Raspberry Pi",
-      "Hardware",
-      "Edge AI"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/23/4-inch-round-hdmi-display-offers-usb-touchscreen-for-raspberry-pi-aida64-smart-home-art-projects/"
-  },
-  {
-    "title": "Auvidea X242 An NVIDIA Jetson Thor T5000 industrial carrier board with dual 10GbE, PCIe x16, CSI-2 camera support",
-    "summary": "Auvidea X242 is an industrial carrier board for NVIDIA's Jetson Thor T5000 module, supporting dual 10GbE, PCIe x16 expansion, and multiple cameras through a 16-lane CSI-2 camera connector.",
-    "tags": [
-      "AI",
-      "NVIDIA",
-      "Edge AI",
-      "Hardware"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/23/auvidea-x242-an-nvidia-jetson-thor-t5000-industrial-carrier-board-with-dual-10gbe-pcie-x16-csi-2-camera-support/"
-  },
-  {
-    "title": "HackyPi 2.0 hacking tool gets ESP32-S3 for Wi-Fi and Bluetooth connectivity (Crowdfunding)",
-    "summary": "HackyPi 2.0 is an ESP32-S3-based USB hacking tool that adds Wi-Fi and Bluetooth connectivity, remote access, and AI integration, making it more flexible than the original Raspberry Pi RP2040-based HackyPi.",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "Hardware",
-      "Edge AI"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/23/hackypi-2-0-hacking-tool-esp32-s3-for-wi-fi-and-bluetooth-connectivity/"
-  },
-  {
-    "title": "CrowPanel Advanced 7inch Review  Part 1: ESP32-P4 HMI AI display hands-on with LVGL factory firmware",
-    "summary": "Elecrow sent a CrowPanel Advanced 7inch ESP32-P4 HMI display for review, designed for high-performance AI and IoT applications with a 2MP camera and various wireless modules. The review will cover unboxing, hardware check, and testing with preinstalled firmware using LVGL and AI features. The kit supports Wi-Fi 6, Bluetooth 5.3, Zigbee, Thread, Matter, and LoRa connectivity.",
-    "tags": [
-      "AI",
-      "Hardware"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/23/crowpanel-advanced-7inch-review-part-1-esp32-p4-hmi-ai-display-hands-on-with-lvgl-factory-firmware/"
-  },
-  {
-    "title": "ESP-Scope is a web-based oscilloscope built using the ESP-IDF framework and Gemini 3 LLM",
-    "summary": "ESP-Scope is an open-source firmware transforming ESP32 boards into web-based oscilloscopes with features like real-time signal visualization, adjustable sample rate, and trigger level.",
-    "tags": [
-      "AI",
-      "Hardware"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/22/esp-scope-is-a-web-based-oscilloscope-built-using-the-esp-idf-framework-and-gemini-3-llm/"
-  },
-  {
-    "title": "GigaDevice GD32VW553-UNIFI A $2+ WiFi 6 and Bluetooth 5.2 LE wireless IoT module",
-    "summary": "The GigaDevice GD32VW553-UNIFI is a low-cost wireless IoT module with WiFi 6 and Bluetooth 5.2 LE connectivity, featuring a GigaDevice GD32VW553 RISC-V microcontroller and 18 GPIOs.",
-    "tags": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/22/gigadevice-gd32vw553-unifi-a-2-wifi-6-and-bluetooth-5-2-le-wireless-iot-module/"
-  },
-  {
-    "title": "ESP32-S3 AIoT Basic A learning and prototyping kit with camera, audio, LCD, and sensors",
-    "summary": "The ESP32-S3 AIoT Basic is a low-cost, learning, and prototyping kit with a range of AIoT peripherals, including a camera, audio, LCD, and sensors.",
-    "tags": [
-      "AI",
-      "Hardware",
-      "Edge AI"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/22/esp32-s3-aiot-basic-a-learning-and-prototyping-kit-with-camera-audio-lcd-and-sensors/"
-  },
-  {
-    "title": "Forlinx FCU3011 An NVIDIA Jetson Orin Nano fanless industrial computer with 4x GbE, optional 4G/5G and Wi-Fi connectivity",
-    "summary": "Forlinx Embedded has released the FCU3011, a compact, fanless industrial AI edge computer built around the NVIDIA Jetson Orin Nano, designed for 24/7 operations in various industries. It supports NVIDIA Jetson Orin Nano configurations with 4GB/8GB memory and a 128GB SSD. The system features various interfaces and power options for industrial applications.",
-    "tags": [
-      "AI",
-      "NVIDIA",
-      "Edge AI",
-      "Hardware"
-    ],
-    "link": "https://www.cnx-software.com/2025/12/22/forlinx-fcu3011-an-nvidia-jetson-orin-nano-fanless-industrial-computer-with-4x-gbe-optional-4g-5g-and-wi-fi-connectivity/"
   }
 ]

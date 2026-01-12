@@ -1,75 +1,53 @@
 # 🍓 Raspberry Pi Weekly Report
-**Week of January 05, 2026**
+**Week of January 12, 2026**
 
 *Raspberry Pi projects*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 5
-- **High Priority:** 5 articles (score ≥7)
-- **Average Importance:** 7.0/10
-- **Report Generated:** 2026-01-05 20:42
+- **Total Articles:** 3
+- **High Priority:** 3 articles (score ≥7)
+- **Average Importance:** 7.7/10
+- **Report Generated:** 2026-01-12 22:18
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Year 2025 in Review, CNX Software stats, and looking ahead to 2026 ⭐⭐
+### 1. Xibo open-source digital signage solution now works with Raspberry Pi 5 thanks to the Arexibo project ⭐⭐
 
-**Importance:** 7/10
+**Importance:** 8/10
 
-The year 2025 saw the release of several notable products, including the Raspberry Pi 500+ mechanical keyboard, a 5-inch variant of the Raspberry Pi Touch Display 2, and a Raspberry Pi 5 1GB RAM. Third-party accessories continued to be released for Raspberry Pi SBC and Pico boards. The 12-core CIX P1 Armv9 SoC was a notable Arm SoC release.
+Xibo digital signage solution is now compatible with the Raspberry Pi 5 thanks to Arexibo, an unofficial alternative to the digital signage player for Xibo, designed for Linux platforms. This marks the first time Xibo has been compatible with the Raspberry Pi since developers dropped support for the Linux client in 2012.
 
-💡 *Key highlights and trends from the 2025 tech landscape for embedded systems and computing.*
+💡 *Xibo digital signage solution is now compatible with the Raspberry Pi 5 after a decade of incompatibility.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/31/year-2025-in-review-cnx-software-stats-and-looking-ahead-to-2026/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/12/xibo-open-source-digital-signage-solution-now-works-with-raspberry-pi-5-thanks-to-the-arexibo-project/)
 
 ---
 
-### 2. DFRobot HUSKYLENS 2 AI camera review ⭐⭐
+### 2. DFRobot HUSKYLENS 2 AI camera review From built-in AI samples to training a custom model to detect elephants ⭐⭐
 
-**Importance:** 7/10
+**Importance:** 8/10
 
-The DFRobot HUSKYLENS 2 is an AI vision sensor with a Kendryte K230 dual-core RISC-V SoC and 6 TOPS AI accelerator, running machine vision algorithms fully on-device with built-in AI models and custom-trained model support.
+The HUSKYLENS 2 is a next-generation AI vision sensor with a Kendryte K230 dual-core RISC-V SoC, 6 TOPS AI accelerator, and 2.4-inch IPS touchscreen, supporting built-in AI models and custom-trained models via UART or I2C communication interfaces.
 
-💡 *AI-powered edge computing just got a boost with the DFRobot HUSKYLENS 2's on-device AI acceleration.*
+💡 *An AI camera like the HUSKYLENS 2 enables users to train custom models for real-world applications.*
 
 🔗 [Read More](https://www.cnx-software.com/2025/12/31/dfrobot-huskylens-2-ai-camera-review-from-built-in-ai-samples-to-training-a-custom-model-to-detect-elephants/)
 
 ---
 
-### 3. Add four Gigabit or 2.5Gbps Ethernet ports to the Raspberry Pi 5 with this expansion board ⭐⭐
+### 3. Year 2025 in Review, CNX Software stats, and looking ahead to 2026 ⭐⭐
 
 **Importance:** 7/10
 
-This expansion board connects four RJ45 ports to the Raspberry Pi 5's PCIe interface, providing Gigabit or 2.5Gbps Ethernet ports with status LEDs and no need for an external power supply. The board is plug-and-play and supports Raspberry Pi OS out of the box. The limiting factor is the Pi's PCIe Gen2/Gen3 x1 interface.
+In 2025, Raspberry Pi released several notable products, including the Raspberry Pi 500+ mechanical keyboard and a 5-inch variant of the Raspberry Pi Touch Display 2. The year also saw the release of the 12-core CIX P1 Armv9 SoC in various boards. Third-party accessories continued to be released for Raspberry Pi SBC and Pico boards.
 
-💡 *This expansion board offers plug-and-play Gigabit Ethernet ports to Raspberry Pi 5 via PCIe interface.*
+💡 *The article highlights key Raspberry Pi product releases and developments in 2025.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/30/add-four-gigabit-or-2-5gbps-ethernet-ports-to-the-raspberry-pi-5-with-this-expansion-board/)
-
----
-
-## 📰 Other Stories
-
-### 4. CrowPi 3 AI Learning Kit is powered by a Raspberry Pi 5 SBC, works with Arduino Nano, BBC Micro:bit, and Raspberry Pi Pico boards ⭐⭐
-
-**Score:** 7/10 | The CrowPi 3 is a learning and development kit featuring 41 built-in modules and over 150 lessons, compatible with Raspberry Pi 5, and focused on Artificial Intelligence (AI) learning.
-
-💡 *The CrowPi 3 is a comprehensive AI learning kit featuring multiple compatible microcontroller boards.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/24/crowpi-3-ai-learning-kit-is-powered-by-a-raspberry-pi-5-sbc-works-with-arduino-nano-bbc-microbit-and-raspberry-pi-pico-boards/)
-
----
-
-### 5. 4-inch round HDMI display offers USB touchscreen for Raspberry Pi, AIDA64, Smart Home, Art projects ⭐⭐
-
-**Score:** 7/10 | VIEWE launched a 4-inch round HDMI display with 720x720 resolution and a USB touchscreen function suitable for SBCs, PCs, Smart Home, and Art projects.
-
-💡 *VIEWE's 4-inch round HDMI display expands touchscreen options for various embedded and art projects.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/23/4-inch-round-hdmi-display-offers-usb-touchscreen-for-raspberry-pi-aida64-smart-home-art-projects/)
+🔗 [Read More](https://www.cnx-software.com/2025/12/31/year-2025-in-review-cnx-software-stats-and-looking-ahead-to-2026/)
 
 ---
 

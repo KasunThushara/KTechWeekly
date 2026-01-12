@@ -1,105 +1,155 @@
 # 🎮 NVIDIA Weekly Report
-**Week of January 05, 2026**
+**Week of January 12, 2026**
 
 *NVIDIA hardware and GPUs*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 8
-- **High Priority:** 7 articles (score ≥7)
-- **Average Importance:** 7.8/10
-- **Report Generated:** 2026-01-05 20:42
+- **Total Articles:** 13
+- **High Priority:** 11 articles (score ≥7)
+- **Average Importance:** 7.5/10
+- **Report Generated:** 2026-01-12 22:18
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. MSI s RTX 5090 Lightning shatters GPU records before launch ⭐⭐
+### 1. Get an entire RTX 5090 gaming PC for the same price as the GPU alone $3,599 rig includes 9700X, 32GB of RAM, and a 2TB SSD in MSI's PC deal ⭐⭐
 
 **Importance:** 8/10
 
-The MSI RTX 5090 Lightning has broken several benchmark records, reportedly with 40-phase VRAM and dual 12V-2x6 connectors. The GPU is expected to be announced on January 5 at CES 2026. Its overclocking capabilities have generated significant interest.
+The MSI PC deal includes a $3,599 rig with an RTX 5090, Ryzen 9700X processor, 32GB of RAM, and a 2TB SSD.
 
-💡 *The MSI RTX 5090 Lightning reportedly breaks multiple benchmark records with its overclocking capabilities.*
+💡 *A $3,599 gaming PC deal makes high-end GPUs more accessible and affordable.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/msis-rtx-5090-lightning-shatters-gpu-records-before-launch-40-phase-vram-and-dual-12v-2x6-connectors-turn-heads-on-upcoming-overclocking-monster)
+🔗 [Read More](https://www.tomshardware.com/desktops/gaming-pcs/get-an-entire-rtx-5090-gaming-pc-for-the-same-price-as-the-gpu-alone-usd3-599-rig-includes-9700x-32gb-of-ram-and-a-2tb-ssd-in-msis-pc-deal)
 
 ---
 
-### 2. MSI teases new power supplies with 'instant protection' against melting RTX 5090 cables ⭐⭐
+### 2. Asus revised the liquid metal application on its $4,000 ROG Matrix RTX 5090 cards   der8auer says retail versions come with 'much more professional' spread ⭐⭐
 
 **Importance:** 8/10
 
-MSI has released two new power supplies with advanced protection against GPU overheating, particularly for the Nvidia RTX 5090. The power supplies monitor individual wires to prevent melting cables. MSI has attempted to solve this issue before, but this new design promises to be more effective.
+Asus has revised the liquid metal application on its ROG Matrix RTX 5090 cards to prevent accidental leakage. The updated application features a more professional spread with neat lanes closer to the IHS. This change will improve the overall performance and reliability of the cards.
 
-💡 *MSI's new power supplies promise enhanced protection against GPU overheating and cable melting issues.*
+💡 *Asus revises ROG Matrix RTX 5090's liquid metal application for improved performance and reduced leakage risk.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/power-supplies/msi-teases-new-power-supplies-with-instant-protection-against-melting-rtx-5090-cables-promises-to-solve-12v-2x6-connector-woes-by-monitoring-individual-wires)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/asus-revised-the-liquid-metal-application-on-its-usd4-000-rog-matrix-rtx-5090-cards-der8auer-says-retail-versions-come-with-much-more-professional-spread)
 
 ---
 
-### 3. LG says it's launching the world's lightest 17-inch RTX laptop, also announces 16-inch ultra-portable laptop with 'dual-AI' functionality ⭐⭐
+### 3. Nvidia's Blackwell gaming GPUs go through blower-style transformation to fuel AI data centers ⭐⭐
 
 **Importance:** 8/10
 
-LG announced a 17-inch laptop that fits in the form factor of a 16-inch model while still sporting an RTX 5050 discrete GPU.
+Nvidia has released blower-style GPUs for data centers, including RTX 5080, RTX 5070 Ti, and RTX 5060 Ti, with prices higher than retail counterparts.
 
-💡 *LG's 17-inch RTX laptop sets new precedent for compact, high-performance gaming laptops.*
+💡 *Nvidia's blower-style GPUs for data centers target high-performance computing and AI workloads.*
 
-🔗 [Read More](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/lg-says-that-its-launching-the-worlds-lightest-17-inch-rtx-laptop-also-announces-16-inch-ultra-portable-laptop-with-dual-ai-functionality)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidias-blackwell-gaming-gpus-go-through-blower-style-transformation-to-fuel-ai-data-centers-rtx-5080-rtx-5070-ti-rtx-5060-ti-blower-gpus-up-for-purchase-in-china)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Nvidia's CUDA Tile examined: AI giant releases programming style for Rubin, Feynman, and beyond tensor-native execution model lays the foundation for Blackwell and beyond ⭐⭐
+### 4. GPU crisis hits Japan as RTX 5060 Ti and up are in short supply ⭐⭐
 
-**Score:** 8/10 | Nvidia's CUDA 13.1 introduces CUDA Tile, a new tile-centric programming path that elevates GPU kernel development. This innovation aligns CUDA with the tensor-native execution model of Blackwell-class GPUs. It lays the software foundation for future architectures.
+**Score:** 8/10 | GPUs are selling out as soon as they arrive, with higher-end models becoming increasingly challenging to keep in stock.
 
-💡 *Nvidia's CUDA Tile paves the way for future GPU architectures with tensor-native execution model alignment.*
+💡 *GPU shortage in Japan severely impacts gaming and computing industries, causing widespread stockouts.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidias-cuda-tile-examined-ai-giant-releases-programming-style-for-rubin-feynman-and-beyond-tensor-native-execution-model-lays-the-foundation-for-blackwell-and-beyond)
-
----
-
-### 5. Elecrow AI starter kit turns NVIDIA Jetson Orin Nano into a learning platform with 11.6-inch display, 30 electronics modules ⭐⭐
-
-**Score:** 8/10 | Elecrow AI Starter Kit turns the NVIDIA Jetson Orin Nano into a learning and educational kit with an 11.6-inch IPS touchscreen, 8MP camera, and 30 common electronics modules.
-
-💡 *Elecrow AI Starter Kit transforms NVIDIA Jetson Orin Nano into an accessible learning platform.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/30/elecrow-ai-starter-kit-turns-nvidia-jetson-orin-nano-into-a-learning-platform-with-11-6-inch-display-30-electronics-modules/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/rtx-5060-ti-and-higher-gpus-are-getting-harder-to-find-in-japan)
 
 ---
 
-### 6. Auvidea X242 An NVIDIA Jetson Thor T5000 industrial carrier board with dual 10GbE, PCIe x16, CSI-2 camera support ⭐⭐
+### 5. Jensen Huang discusses the economics of inference, power delivery, and more at CES 2026 press Q&A session  ⭐⭐
 
-**Score:** 8/10 | Auvidea X242 is an industrial carrier board for NVIDIA's Jetson Thor T5000 module, supporting dual 10GbE, PCIe x16 expansion, and multiple cameras through a 16-lane CSI-2 camera connector.
+**Score:** 8/10 | Nvidia CEO Jensen Huang addressed topics such as inference economics, power constraints, and open models in a press Q&A at CES 2026.
 
-💡 *The Auvidea X242 carrier board offers high-speed connectivity and camera support for industrial AI applications.*
+💡 *Could reduce AI inference costs by 40% for edge deployments with new Nvidia technology.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/23/auvidea-x242-an-nvidia-jetson-thor-t5000-industrial-carrier-board-with-dual-10gbe-pcie-x16-csi-2-camera-support/)
-
----
-
-### 7. Forlinx FCU3011 An NVIDIA Jetson Orin Nano fanless industrial computer with 4x GbE, optional 4G/5G and Wi-Fi connectivity ⭐⭐
-
-**Score:** 8/10 | Forlinx Embedded has released the FCU3011, a compact, fanless industrial AI edge computer built around the NVIDIA Jetson Orin Nano, designed for 24/7 operations in various industries. It supports NVIDIA Jetson Orin Nano configurations with 4GB/8GB memory and a 128GB SSD. The system features various interfaces and power options for industrial applications.
-
-💡 *The FCU3011 offers a compact, fanless industrial AI edge computer solution for 24/7 operations and diverse industries.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/22/forlinx-fcu3011-an-nvidia-jetson-orin-nano-fanless-industrial-computer-with-4x-gbe-optional-4g-5g-and-wi-fi-connectivity/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/jensen-huang-ces-2026-q-and-a)
 
 ---
 
-### 8. German retail supplier allegedly rationing RTX 5070 GPUs 
+### 6. Nvidia hires first-ever CMO, snatches former Google exec for the tough job of helping sell more chips ⭐⭐
 
-**Score:** 6/10 | A German retailer claims their supplier is limiting RTX 5070 GPU deliveries to 5 units per model, with more powerful models unavailable.
+**Score:** 8/10 | Nvidia is hiring its first chief marketing officer, Alison Wagonfield, a former Google executive with nearly 10 years of experience building the company's Cloud project.
 
-💡 *German retailer's alleged GPU supply rationing highlights ongoing semiconductor availability concerns.*
+💡 *Nvidia hires its first-ever CMO, a former Google executive, to boost chip sales.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/german-retail-supplier-allegedly-rationing-rtx-5070-gpus-more-powerful-nvidia-graphics-cards-are-completely-out-of-stock)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-hires-first-ever-cmo-snatches-former-google-exec-for-the-tough-job-of-helping-sell-more-chips-alison-wagonfield-spent-nearly-10-years-at-google-building-its-cloud-project)
+
+---
+
+### 7. HBM4 mass production delayed as Nvidia pushes memory specs higher ⭐⭐
+
+**Score:** 8/10 | Nvidia has delayed HBM4 mass production to late Q1 2026 due to revised memory specs for its next-gen Rubin GPU platform.
+
+💡 *Nvidia's HBM4 mass production delay will impact GPU development timelines for next-gen platforms.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/hbm4-mass-production-delayed-as-nvidia-pushes-memory-specs-higher)
+
+---
+
+### 8. Nvidia to demand full upfront payment for H200 GPUs from China customers, report claims more than two million chips may have been ordered despite uncertain Beijing stance ⭐⭐
+
+**Score:** 8/10 | Nvidia has imposed non-refundable, full upfront payment terms on H200 GPU sales to China-based clients due to regulatory risks. Chinese customers had ordered over 2 million H200 units. This is a precautionary measure to hedge potential risks.
+
+💡 *Nvidia's new payment terms may impact China-based customers with large H200 GPU orders.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-to-demand-full-upfront-payment-for-h200-gpus-from-china-customers-report-claims-more-than-two-million-chips-may-have-been-ordered-despite-uncertain-beijing-stance)
+
+---
+
+### 9. CES 2026 Day 2: Dell's massive 52-inch 6K monitor, AMD unbothered by Intel's new Arc B390 IGP, MSI PSUs guard against RTX 5090 meltdowns ⭐⭐
+
+**Score:** 8/10 | Coverage from Day 2 of CES 2026 highlights Dell's massive 52-inch 6K monitor and MSI's new power supplies designed to prevent meltdowns caused by the RTX 5090. AMD remains unaffected by Intel's new Arc B390 IGP. Various products were showcased.
+
+💡 *Key takeaway: AMD demonstrates resilience in the face of Intel's competitive Arc B390 IGP launch.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ces-2026-day-2-dells-massive-52-inch-6k-monitor-amd-unbothered-by-intels-new-arc-b390-igp-msi-psus-guard-against-rtx-5090-meltdowns)
+
+---
+
+### 10. China expected to approve H200 imports in early 2026, report claims ⭐⭐
+
+**Score:** 8/10 | China is reportedly allowing its tech giants to acquire H200 chips, with Alibaba and ByteDance ready to order over 200,000 Nvidia chips each if green-lit by Beijing.
+
+💡 *China's approval of H200 chip imports could accelerate AI and high-performance computing adoption.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/china-expected-to-approve-h200-imports-in-early-2026-report-claims-tech-giants-alibaba-and-bytedance-reportedly-ready-to-order-over-200-000-nvidia-chips-each-if-green-lit-by-beijing)
+
+---
+
+### 11. NVIDIA Jetson T4000 Edge AI embedded system offers 5GbE networking, four PoE camera ports, DIO, CAN Bus, and more ⭐⭐
+
+**Score:** 8/10 | The AAEON BOXER-8742AI is a fanless Edge AI embedded system powered by an NVIDIA Jetson T4000, offering 5GbE networking, four PoE camera ports, and more. It's suitable for high-performance edge AI applications. The system-on-module features a 12-core CPU, 1536-core NVIDIA Blackwell GPU, and 6-TPC MIG VPU.
+
+💡 *The AAEON BOXER-8742AI Edge AI system offers high-performance capabilities for complex edge AI applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/06/nvidia-jetson-t4000-edge-ai-embedded-system-offers-5gbe-networking-four-poe-camera-ports-dio-can-bus-and-more/)
+
+---
+
+### 12. Upgrade your gaming PC with an RTX 5060 for just $259.99 and instantly pocket $50 in savings 
+
+**Score:** 5/10 | The Gigabyte GeForce RTX 5060 WindForce OC 8G is currently on sale at BestBuy, offering a 15% discount off Nvidia's $299 MSRP.
+
+💡 *Get a high-end gaming experience at a discounted price with the RTX 5060 on sale.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/upgrade-your-gaming-pc-with-an-rtx-5060-for-just-usd259-99-and-instantly-pocket-usd50-in-savings)
+
+---
+
+### 13. Woot's 'reconditioned' MSI PC deals might be your ticket to an affordable upgrade 
+
+**Score:** 5/10 | Woot is offering reconditioned MSI pre-built PCs for an affordable upgrade, with a deal for an RTX 5060-based 14400F PC with 16GB of DDR5 and 1TB of storage for $719.
+
+💡 *Woot's reconditioned MSI PC deals offer an affordable upgrade for budget-conscious computer users.*
+
+🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/woots-reconditioned-msi-pc-deals-might-be-your-ticket-to-an-affordable-upgrade-for-usd719-get-an-rtx-5060-based-14400f-pc-with-16gb-of-ddr5-and-1tb-of-storage)
 
 ---
 
