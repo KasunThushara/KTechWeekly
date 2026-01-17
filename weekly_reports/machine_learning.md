@@ -1,95 +1,115 @@
 # 🧠 Machine Learning Weekly Report
-**Week of January 12, 2026**
+**Week of January 17, 2026**
 
 *ML algorithms and research*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 7
-- **High Priority:** 7 articles (score ≥7)
+- **Total Articles:** 9
+- **High Priority:** 9 articles (score ≥7)
 - **Average Importance:** 8.0/10
-- **Report Generated:** 2026-01-12 22:18
+- **Report Generated:** 2026-01-17 11:52
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Jensen Huang discusses the economics of inference, power delivery, and more at CES 2026 press Q&A session  ⭐⭐
+### 1. Deepseek research touts memory breakthrough, decoupling compute power and RAM pools to bypass GPU & HBM constraints   Engram conditional memory module commits static knowledge to system RAM ⭐⭐⭐
 
-**Importance:** 8/10
+**Importance:** 9/10
 
-Nvidia CEO Jensen Huang addressed topics such as inference economics, power constraints, and open models in a press Q&A at CES 2026.
+Deepseek has developed a new form of long-term memory for AI models called Engram, which outperforms its MoE counterparts and decouples compute power from system RAM pools.
 
-💡 *Could reduce AI inference costs by leveraging more efficient power delivery and open models.*
+💡 *Deepseek's Engram enables AI models to bypass GPU and HBM constraints with decoupled memory.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/jensen-huang-ces-2026-q-and-a)
-
----
-
-### 2. Quectel SRG091X and SRG093X NXP i.MX 9 industrial AIoT modules integrates Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios ⭐⭐
-
-**Importance:** 8/10
-
-Quectel has released two new low-power industrial AIoT modules based on NXP's i.MX 9 series SoCs, which integrate Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios. The SRG093X features a dual-core NXP i.MX 93 SoC with a Cortex-M33 real-time core and a neural processing unit (NPU) for edge AI workloads. The modules support LPDDR4/LPDDR4X memory, eMMC storage, and various I/O options.
-
-💡 *Quectel's new modules integrate Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios for enhanced industrial AIoT capabilities.*
-
-🔗 [Read More](https://www.cnx-software.com/2026/01/09/quectel-srg091x-and-srg093x-nxp-i-mx-9-industrial-aiot-modules-integrates-wi-fi-6-bluetooth-5-4-and-802-15-4-radios/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-touts-memory-breakthrough-engram)
 
 ---
 
-### 3. Reolink Floodlight 4K Smart PoE and WiFi 6 security cameras add on-device LLM for natural language video search ⭐⭐
+### 2. Analyzing Washington's new AI accelerator export rules  smaller manufacturers suffer while Nvidia and AMD will reap the rewards ⭐⭐
 
 **Importance:** 8/10
 
-Reolink has introduced two new 4K security cameras with on-device Large Language Model (LLM) for natural-language video search, allowing users to find specific items in footage without relying on manual scrolling or cloud-based detection.
+The U.S. introduces new export rules for AI and HPC accelerators, allowing shipments of AMD's and Nvidia's GPUs to China if their developers meet American customer demands and Department of Commerce requirements.
 
-💡 *Reolink's on-device LLM enables natural-language video search without cloud reliance or manual scrolling.*
+💡 *The new export rules favor larger manufacturers like Nvidia and AMD over smaller rivals.*
 
-🔗 [Read More](https://www.cnx-software.com/2026/01/08/reolink-floodlight-4k-smart-poe-security-cameras-add-on-device-llm-for-natural-language-video-search/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/analyzing-washingtons-new-ai-accelerator-export-rules-smaller-manufacturers-suffer-while-nvidia-and-amd-will-reap-the-rewards)
+
+---
+
+### 3. Raspberry Pi AI HAT+ 2 Review: The brains and the brawn ⭐⭐
+
+**Importance:** 8/10
+
+Raspberry Pi's latest AI accessory features a more powerful Hailo NPU, enabling LLMs and image inference, but the price tag is a deciding factor.
+
+💡 *Raspberry Pi's AI HAT+ 2 offers enhanced AI capabilities but comes with a substantial price increase.*
+
+🔗 [Read More](https://www.tomshardware.com/raspberry-pi/raspberry-pi-ai-hat-plus-2-review)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Quectel SP895BD-AP AIoT module features Qualcomm Dragonwing Q-8750 SoC with 80 TOPS NPU ⭐⭐
+### 4. Phison demos 10X faster AI inference on consumer PCs with software and hardware combo that enables 3x larger AI models  Nvidia, AMD, MSI, and Acer systems demoed with aiDAPTIV+ ⭐⭐
 
-**Score:** 8/10 | Quectel launched the SP895BD-AP smart AIoT module based on the Qualcomm Dragonwing Q-8750 SoC, designed for high-performance IoT applications such as video conferencing and smart retail terminals, supporting 8K video encoding and decoding with up to 3 48MP camera inputs.
+**Score:** 8/10 | Phison's aiDAPTIV+ stack enables large Mixture of Experts AI models and agentic AI workloads to run on client systems with limited memory capacity, achieving 10X faster AI inference and supporting 3x larger AI models.
 
-💡 *Quectel's SP895BD-AP module sets a new standard for AIoT applications with high-performance capabilities.*
+💡 *Phison's aiDAPTIV+ stack significantly boosts AI model capabilities on consumer PCs with 10X faster inference.*
 
-🔗 [Read More](https://www.cnx-software.com/2026/01/07/quectel-sp895bd-ap-aiot-module-features-qualcomm-dragonwing-q-8750soc-with-80-tops-npu/)
-
----
-
-### 5. Nordic Semi nRF54LM20B wireless SoC integrates 128 MHz Axon NPU for Edge AI workloads ⭐⭐
-
-**Score:** 8/10 | Nordic Semi's nRF54LM20B wireless SoC integrates an ultra-efficient Axon NPU for edge AI workloads, delivering up to 7 times faster performance and up to 8 times higher energy efficiency compared to competing solutions.
-
-💡 *Nordic Semi's nRF54LM20B SoC boosts edge AI performance and efficiency by up to 7 times and 8 times.*
-
-🔗 [Read More](https://www.cnx-software.com/2026/01/07/nordic-semi-nrf54lm20b-wireless-soc-integrates-128-mhz-axon-npu-for-edge-ai-workloads/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/phison-demos-10x-faster-ai-inference-on-consumer-pcs-with-software-and-hardware-combo-that-enables-3x-larger-ai-models-nvidia-amd-msi-and-acer-systems-demoed-with-aidaptiv)
 
 ---
 
-### 6. Qualcomm Dragonwing Q 7790 and Q 8750 AIoT SoCs target AI-enhanced drones, cameras, TVs and media hubs ⭐⭐
+### 5. Chinese customs told to block H200 imports, report claims directive would effectively ban the Nvidia AI chip from China ⭐⭐
 
-**Score:** 8/10 | Qualcomm introduced the Dragonwing Q 7790 and Q 8750 processors supporting on-device AI for drones, smart cameras, and industrial vision, AI TVs/media hubs, and video collaboration systems.
+**Score:** 8/10 | Chinese customs officers were allegedly told to disallow the entry of Nvidia H200 chips, effectively banning their entry into the country. The ban is reportedly for 'special circumstances' only.
 
-💡 *Qualcomm introduces AI-enhanced SoCs for drones, cameras, and smart TVs, boosting on-device AI capabilities.*
+💡 *China reportedly effectively bans Nvidia H200 AI chip imports due to 'special circumstances'.*
 
-🔗 [Read More](https://www.cnx-software.com/2026/01/06/qualcomm-dragonwing-q-7790-and-q-8750-aiot-socs-target-ai-enhanced-drones-cameras-tvs-and-media-hubs/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/chinese-customs-told-to-block-h200-imports-report-claims-directive-would-effectively-ban-the-nvidia-ai-chip-from-china)
 
 ---
 
-### 7. DFRobot HUSKYLENS 2 AI camera review From built-in AI samples to training a custom model to detect elephants ⭐⭐
+### 6. The End of the AI Toy Era: YouWare Launches YouBase to Deliver Production-Ready Business Tools (Sponsored) ⭐⭐
 
-**Score:** 8/10 | The HUSKYLENS 2 is a next-generation AI vision sensor with a Kendryte K230 dual-core RISC-V SoC, 6 TOPS AI accelerator, and 2.4-inch IPS touchscreen, supporting built-in AI models and custom-trained models via UART or I2C communication interfaces.
+**Score:** 8/10 | YouWare has launched YouBase, a production-ready engine that offers a missing link for enterprises looking to leverage AI for full-stack development, marking a shift from prototyping to production.
 
-💡 *The HUSKYLENS 2 AI camera enables custom-trained models, extending AI capabilities beyond built-in samples.*
+💡 *YouWare's YouBase engine bridges the gap between AI prototyping and production-ready business tools.*
 
-🔗 [Read More](https://www.cnx-software.com/2025/12/31/dfrobot-huskylens-2-ai-camera-review-from-built-in-ai-samples-to-training-a-custom-model-to-detect-elephants/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/16/the-end-of-the-ai-toy-era-youware-launches-youbase-to-deliver-production-ready-business-tools/)
+
+---
+
+### 7. Raspberry Pi AI HAT+ 2 targets generative AI (LLM/VLM) with Hailo-10H accelerator ⭐⭐
+
+**Score:** 8/10 | The Raspberry Pi AI HAT+ 2 adds support for large language models (LLMs) and vision-language models (VLMs) to the Raspberry Pi 5, utilizing the 40 TOPS Hailo-10H AI accelerator with 8GB of dedicated on-board RAM.
+
+💡 *The Raspberry Pi AI HAT+ 2 brings affordable, high-performance AI capabilities to edge devices.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/15/raspberry-pi-ai-hat-2-targets-generative-ai-llm-vlm-with-hailo-10h-accelerator/)
+
+---
+
+### 8. Reolink Floodlight 4K Smart PoE and WiFi 6 security cameras add on-device LLM for natural language video search ⭐⭐
+
+**Score:** 8/10 | Reolink introduced the Elite Floodlight WiFi and Elite Pro Floodlight PoE, two new 4K security cameras with on-device Large Language Model (LLM) for natural-language video search.
+
+💡 *Reolink's new security cameras integrate on-device LLM for natural-language video search capabilities.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/08/reolink-floodlight-4k-smart-poe-security-cameras-add-on-device-llm-for-natural-language-video-search/)
+
+---
+
+### 9. Qwen boss says Chinese AI models have 'less than 20%' chance of leapfrogging Western counterparts    despite China's $1 billion AI IPO week, capital can't close the gap alone ⭐⭐
+
+**Score:** 7/10 | China's AI sector raised over $1 billion through IPOs, but a Chinese AI firm's boss believes they have less than 20% chance of leapfrogging Western counterparts due to the gap in technology.
+
+💡 *China's AI sector faces significant technological gaps despite raising over $1 billion through IPOs.*
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-1-billion-ai-ipo-week-highlights-the-limits-of-capital-without-compute)
 
 ---
 

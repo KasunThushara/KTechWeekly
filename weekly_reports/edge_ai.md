@@ -1,185 +1,165 @@
 # 📡 Edge AI Weekly Report
-**Week of January 12, 2026**
+**Week of January 17, 2026**
 
 *AI on edge devices*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 16
-- **High Priority:** 15 articles (score ≥7)
+- **Total Articles:** 14
+- **High Priority:** 14 articles (score ≥7)
 - **Average Importance:** 7.9/10
-- **Report Generated:** 2026-01-12 22:18
+- **Report Generated:** 2026-01-17 11:52
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Doom conquers the kitchen through an electric cooking pot classic shooter runs seamlessly after a full device firmware refresh ⭐⭐
+### 1. Raspberry Pi AI HAT+ 2 Review: The brains and the brawn ⭐⭐
 
 **Importance:** 8/10
 
-A YouTuber has managed to run Doom on a Krups Cook4Mec smart pressure cooker after dumping and reflashing the firmware on the appliance's touchscreen control hardware.
+Raspberry Pi's latest AI accessory features a more powerful Hailo NPU, enabling LLMs and image inference, but the price tag is a deciding factor.
 
-💡 *This feat demonstrates the potential for repurposing smart home devices as gaming platforms.*
+💡 *Raspberry Pi's AI HAT+ 2 brings powerful AI capabilities to users at an uncertain price point.*
 
-🔗 [Read More](https://www.tomshardware.com/video-games/retro-gaming/youtuber-makes-doom-run-on-a-smart-cooking-pot-after-a-full-firmware-refresh)
+🔗 [Read More](https://www.tomshardware.com/raspberry-pi/raspberry-pi-ai-hat-plus-2-review)
 
 ---
 
-### 2. AMD Embedded+ mini-ITX Board features Ryzen AI Embedded P132 CPU, Versal AI Edge Gen2 VE3558 SoC FPGA ⭐⭐
+### 2. Geniatech introduces SMARC and OSM system-on-modules powered by NXP i.MX 95 SoC ⭐⭐
 
 **Importance:** 8/10
 
-Sapphire Technology introduced the EDGE+VPR-7P132, an AMD Embedded+ Mini-ITX motherboard with a Ryzen AI Embedded P132 CPU and AMD Versal AI Edge Gen 2 VE3558 SoC FPGA. It features Zen 5 CPU cores, RDNA 3.5 graphics, and 40 Gbps USB4 connectivity. This represents a significant update from last year's model.
+Geniatech has released two new SoMs powered by the NXP i.MX 95 Edge AI application processor, designed for smart retail, industrial automation, and other markets.
 
-💡 *This AMD Embedded+ board enables enhanced AI capabilities with integrated CPU and FPGA for edge computing.*
+💡 *Geniatech's new SoMs enable faster AI processing for smart retail, industrial automation, and other applications.*
 
-🔗 [Read More](https://www.cnx-software.com/2026/01/11/amd-embedded-mini-itx-board-features-ryzen-ai-embedded-p132-cpu-versal-ai-edge-gen2-ve3558-soc-fpga/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/15/geniatech-smarc-and-osm-system-on-modules-nxp-i-mx-95-soc/)
 
 ---
 
-### 3. SECO's COM Express Type 6 module features Intel Core Ultra Series 3 Panther Lake-H processor with up to 180 TOPS ⭐⭐
+### 3. Raspberry Pi AI HAT+ 2 targets generative AI (LLM/VLM) with Hailo-10H accelerator ⭐⭐
 
 **Importance:** 8/10
 
-SECO has announced a COM Express Type 6 Basic module that supports the Intel Core Ultra X9 series processors, delivering up to 180 TOPS of AI performance. The module supports up to 128GB DDR5 memory, high-speed expansion, and multiple display interfaces. It is designed for rugged and mission-critical applications.
+The Raspberry Pi AI HAT+ 2 adds support for large language models (LLMs) and vision-language models (VLMs) to the Raspberry Pi 5, utilizing the 40 TOPS Hailo-10H AI accelerator with 8GB of dedicated on-board RAM.
 
-💡 *SECO's module enables up to 180 TOPS AI performance in rugged and mission-critical applications.*
+💡 *The Raspberry Pi AI HAT+ 2 brings AI capabilities to the edge with Hailo-10H acceleration.*
 
-🔗 [Read More](https://www.cnx-software.com/2026/01/09/seco-com-express-type-6-module-features-intel-core-ultra-series-3-panther-lake-h-processor-with-up-to-180-tops/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/15/raspberry-pi-ai-hat-2-targets-generative-ai-llm-vlm-with-hailo-10h-accelerator/)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Quectel SRG091X and SRG093X NXP i.MX 9 industrial AIoT modules integrates Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios ⭐⭐
+### 4. Radxa launches NX4 SoM with Rockchip RK3576(J) industrial SoC and NX4IO carrier board ⭐⭐
 
-**Score:** 8/10 | Quectel has released two new low-power industrial AIoT modules based on NXP's i.MX 9 series SoCs, which integrate Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios. The SRG093X features a dual-core NXP i.MX 93 SoC with a Cortex-M33 real-time core and a neural processing unit (NPU) for edge AI workloads. The modules support LPDDR4/LPDDR4X memory, eMMC storage, and various I/O options.
+**Score:** 8/10 | Radxa NX4 is a 260-pin SO-DIMM SoM built around the Rockchip RK3576(J) octa-core industrial SoC with a 6 TOPS NPU for edge AI workloads. It supports up to 16GB LPDDR5 memory and various storage options. The NX4IO carrier board provides interfaces for video output, cameras, and storage.
 
-💡 *Quectel's new industrial AIoT modules simplify edge AI development with integrated Wi-Fi 6 and Bluetooth 5.4 radios.*
+💡 *Radxa's NX4 SoM offers a compact edge AI solution with high-performance capabilities and versatility.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/13/radxa-nx4-som-rockchip-rk3576j-industrial-soc-nx4io-carrier-board/)
+
+---
+
+### 5. AMD Embedded+ mini-ITX Board features Ryzen AI Embedded P132 CPU, Versal AI Edge Gen2 VE3558 SoC FPGA ⭐⭐
+
+**Score:** 8/10 | Sapphire Technology introduced the EDGE+VPR-7P132, an AMD Embedded+ Mini-ITX motherboard with a Ryzen AI Embedded P132 CPU and Versal AI Edge Gen 2 VE3558 SoC FPGA, featuring significant upgrades over last year's model.
+
+💡 *This board combines AI capabilities with high-performance processing for edge computing applications.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/11/amd-embedded-mini-itx-board-features-ryzen-ai-embedded-p132-cpu-versal-ai-edge-gen2-ve3558-soc-fpga/)
+
+---
+
+### 6. SECO's COM Express Type 6 module features Intel Core Ultra Series 3 Panther Lake-H processor with up to 180 TOPS ⭐⭐
+
+**Score:** 8/10 | SECO has announced the SOM-COMe-BT6-PTL, a COM Express Type 6 Basic module that supports the Intel Core Ultra X9 series processors and delivers up to 180 TOPS of AI performance. It features high-speed expansion, multiple display interfaces, and is designed for rugged and mission-critical applications. The module is available with an optional industrial temperature range.
+
+💡 *SECO's SOM-COMe-BT6-PTL module boosts AI performance for rugged applications with up to 180 TOPS.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/09/seco-com-express-type-6-module-features-intel-core-ultra-series-3-panther-lake-h-processor-with-up-to-180-tops/)
+
+---
+
+### 7. Quectel SRG091X and SRG093X NXP i.MX 9 industrial AIoT modules integrates Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios ⭐⭐
+
+**Score:** 8/10 | Quectel released two low-power industrial AIoT modules based on NXP i.MX 9 series SoCs, integrating Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios. The SRG091X is an entry-level solution with a single-core processor, while the SRG093X features a dual-core SoC with a real-time core and NPU for edge AI workloads.
+
+💡 *Quectel's industrial AIoT modules offer a compact, low-power solution for IoT devices with advanced wireless capabilities.*
 
 🔗 [Read More](https://www.cnx-software.com/2026/01/09/quectel-srg091x-and-srg093x-nxp-i-mx-9-industrial-aiot-modules-integrates-wi-fi-6-bluetooth-5-4-and-802-15-4-radios/)
 
 ---
 
-### 5. Reolink Floodlight 4K Smart PoE and WiFi 6 security cameras add on-device LLM for natural language video search ⭐⭐
+### 8. Reolink Floodlight 4K Smart PoE and WiFi 6 security cameras add on-device LLM for natural language video search ⭐⭐
 
-**Score:** 8/10 | Reolink has introduced two new 4K security cameras with on-device Large Language Model (LLM) for natural-language video search, allowing users to find specific items in footage without relying on manual scrolling or cloud-based detection.
+**Score:** 8/10 | Reolink introduced the Elite Floodlight WiFi and Elite Pro Floodlight PoE, two new 4K security cameras with on-device Large Language Model (LLM) for natural-language video search.
 
-💡 *Reolink's 4K security cameras now offer on-device Large Language Model for natural-language video search.*
+💡 *Reolink's new 4K security cameras integrate on-device LLM for enhanced natural-language video search capabilities.*
 
 🔗 [Read More](https://www.cnx-software.com/2026/01/08/reolink-floodlight-4k-smart-poe-security-cameras-add-on-device-llm-for-natural-language-video-search/)
 
 ---
 
-### 6. Intel Core Ultra Series 3 Panther Lake-H CPU powers TGS-2000 series stackable Edge AI computers ⭐⭐
+### 9. Intel Core Ultra Series 3 Panther Lake-H CPU powers TGS-2000 series stackable Edge AI computers ⭐⭐
 
-**Score:** 8/10 | Intel unveiled the Core Ultra Series 3 processors at CES 2026, targeting consumer and industrial applications. Vecow introduced the TGS-2000 series, ultra-compact, stackable Edge AI computers with enhanced AI performance using Intel Core Ultra Series 3. The TGS-2000 Series offers up to 100 TOPS combined performance.
+**Score:** 8/10 | Intel unveiled the Core Ultra Series 3 processors, codenamed Panther Lake-H, which power the TGS-2000 series of stackable Edge AI computers. The TGS-2000 series is designed for high-performance space-constrained applications and offers up to 100 TOPS combined performance. The series is available in three variants, including a fanless model.
 
-💡 *Vecow's TGS-2000 series brings enhanced AI performance to edge deployments with 100 TOPS combined performance.*
+💡 *Intel's Panther Lake-H CPUs power stackable Edge AI computers with up to 100 TOPS combined performance.*
 
 🔗 [Read More](https://www.cnx-software.com/2026/01/08/intel-core-ultra-series-3-panther-lake-h-cpu-powers-tgs-2000-series-stackable-edge-ai-computers/)
 
 ---
 
-### 7. AMD launches Ryzen AI Embedded P100 and X100 processors with up to 50 TOPS of AI performance ⭐⭐
+### 10. AMD launches Ryzen AI Embedded P100 and X100 processors with up to 50 TOPS of AI performance ⭐⭐
 
-**Score:** 8/10 | AMD has introduced the Ryzen AI Embedded P100 and X100 x86 processors designed to power AI-driven applications at the edge, with up to 50 TOPS of AI performance and targeting automotive digital cockpits, smart healthcare equipment, and humanoid robotics.
+**Score:** 8/10 | AMD has introduced the Ryzen AI Embedded P100 and X100 processors for AI-driven applications at the edge, featuring high-performance Zen 5 core architecture and up to 50 TOPS of AI performance.
 
-💡 *AMD introduces Ryzen AI Embedded processors for edge AI applications with up to 50 TOPS performance.*
+💡 *AMD introduces Ryzen AI Embedded processors for AI-driven applications with up to 50 TOPS of AI performance.*
 
 🔗 [Read More](https://www.cnx-software.com/2026/01/07/amd-launches-ryzen-ai-embedded-p100-and-x100-processors-with-up-to-50-tops-of-ai-performance/)
 
 ---
 
-### 8. Quectel SP895BD-AP AIoT module features Qualcomm Dragonwing Q-8750 SoC with 80 TOPS NPU ⭐⭐
+### 11. Quectel SP895BD-AP AIoT module features Qualcomm Dragonwing Q-8750 SoC with 80 TOPS NPU ⭐⭐
 
-**Score:** 8/10 | Quectel launched the SP895BD-AP smart AIoT module based on the Qualcomm Dragonwing Q-8750 SoC, designed for high-performance IoT applications such as video conferencing and smart retail terminals, supporting 8K video encoding and decoding with up to 3 48MP camera inputs.
+**Score:** 8/10 | Quectel launched the SP895BD-AP smart AIoT module based on the Qualcomm Dragonwing Q-8750 SoC, designed for high-performance IoT applications with an 8-core CPU, Adreno Series 8 GPU, and 80 TOPS NPU.
 
-💡 *Quectel's new AIoT module boosts high-performance IoT applications with 8K video capabilities.*
+💡 *Quectel's SP895BD-AP module accelerates high-performance IoT applications with an 80 TOPS NPU.*
 
 🔗 [Read More](https://www.cnx-software.com/2026/01/07/quectel-sp895bd-ap-aiot-module-features-qualcomm-dragonwing-q-8750soc-with-80-tops-npu/)
 
 ---
 
-### 9. Nordic Semi nRF54LM20B wireless SoC integrates 128 MHz Axon NPU for Edge AI workloads ⭐⭐
+### 12. Nordic Semi nRF54LM20B wireless SoC integrates 128 MHz Axon NPU for Edge AI workloads ⭐⭐
 
-**Score:** 8/10 | Nordic Semi's nRF54LM20B wireless SoC integrates an ultra-efficient Axon NPU for edge AI workloads, delivering up to 7 times faster performance and up to 8 times higher energy efficiency compared to competing solutions.
+**Score:** 8/10 | Nordic Semi's nRF54LM20B wireless SoC integrates an ultra-efficient Axon Neural Processing Unit (NPU) for edge AI workloads, delivering up to 7 times faster performance and 8 times higher energy efficiency. It has the same features as the nRF54LM20A, including a 128 MHz Arm Cortex-M33 CPU, high-speed USB, and an ultra-low-power 2.4 GHz radio. The NPU is 15x faster than the Cortex-M33 CPU for the same task.
 
-💡 *Nordic Semi's nRF54LM20B SoC offers significant performance and energy efficiency improvements for edge AI workloads.*
+💡 *Nordic Semi's nRF54LM20B SoC accelerates edge AI workloads with up to 7 times faster performance.*
 
 🔗 [Read More](https://www.cnx-software.com/2026/01/07/nordic-semi-nrf54lm20b-wireless-soc-integrates-128-mhz-axon-npu-for-edge-ai-workloads/)
 
 ---
 
-### 10. STM32MP21 Arm Cortex-A35/M33 MPU targets cost-effective applications in smart factories, homes, and cities ⭐⭐
+### 13. reComputer Industrial R2135-12 review A Raspberry Pi CM5-powered fanless Edge AI PC with Hailo-8 AI accelerator ⭐⭐
 
-**Score:** 8/10 | The STM32MP21 microprocessor family combines a 1.5 GHz Arm Cortex-A35 application core with a 300 MHz Arm Cortex-M33 core for real-time processing, targeting cost-aware edge applications in smart factories, smart homes, and smart cities.
+**Score:** 7/10 | The reComputer AI Industrial R2135-12 is an industrial edge computer based on the Raspberry Pi Compute Module 5 platform. It features 8 GB LPDDR4 memory, 32 GB eMMC storage, and various I/O options. The system runs an AI model for real-time people detection and sends results to an external microcontroller.
 
-💡 *Integrates real-time processing capabilities into cost-effective solutions for smart factories and smart homes.*
+💡 *This edge AI computer offers real-time AI processing capabilities for industrial applications with minimal setup.*
 
-🔗 [Read More](https://www.cnx-software.com/2026/01/07/stm32mp21-arm-cortex-a35-m33-mpu-targets-cost-effective-applications-in-smart-factory-homes-and-factories/)
-
----
-
-### 11. NVIDIA Jetson T4000 Edge AI embedded system offers 5GbE networking, four PoE camera ports, DIO, CAN Bus, and more ⭐⭐
-
-**Score:** 8/10 | The AAEON BOXER-8742AI is a fanless Edge AI embedded system powered by an NVIDIA Jetson T4000, offering 5GbE networking, four PoE camera ports, and more. It's suitable for high-performance edge AI applications. The system-on-module features a 12-core CPU, 1536-core NVIDIA Blackwell GPU, and 6-TPC MIG VPU.
-
-💡 *The AAEON BOXER-8742AI brings high-performance edge AI capabilities to industrial applications with 5GbE networking and PoE ports.*
-
-🔗 [Read More](https://www.cnx-software.com/2026/01/06/nvidia-jetson-t4000-edge-ai-embedded-system-offers-5gbe-networking-four-poe-camera-ports-dio-can-bus-and-more/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/15/recomputer-industrial-r2135-12-review-a-raspberry-pi-cm5-powered-fanless-edge-ai-pc-with-hailo-8-ai-accelerator/)
 
 ---
 
-### 12. Qualcomm Dragonwing Q 7790 and Q 8750 AIoT SoCs target AI-enhanced drones, cameras, TVs and media hubs ⭐⭐
+### 14. WeAct CAN485   A low-cost ESP32 board with CAN Bus and RS485 interfaces ⭐⭐
 
-**Score:** 8/10 | Qualcomm introduced the Dragonwing Q 7790 and Q 8750 processors supporting on-device AI for drones, smart cameras, and industrial vision, AI TVs/media hubs, and video collaboration systems.
+**Score:** 7/10 | WeAct CAN485 is a low-cost ESP32 board with CAN Bus and RS485 interfaces, supporting WiFi and Bluetooth LE, and featuring a microSD card slot and USB-C port.
 
-💡 *Qualcomm introduces AI-enhanced SoCs for drones, cameras, TVs, and media hubs.*
+💡 *The WeAct CAN485 offers a budget-friendly, feature-rich ESP32 board for industrial IoT applications and prototyping.*
 
-🔗 [Read More](https://www.cnx-software.com/2026/01/06/qualcomm-dragonwing-q-7790-and-q-8750-aiot-socs-target-ai-enhanced-drones-cameras-tvs-and-media-hubs/)
-
----
-
-### 13. Allwinner V861 dual-core 64-bit RISC-V AI Camera SiP features 128MB DDR3L, 4K H.265/H.264 video encoder ⭐⭐
-
-**Score:** 8/10 | The Allwinner V861 is a dual-core RISC-V system-in-package (SiP) with a 1 TOPS AI NPU, designed for 4K AI camera applications, featuring a 4K H.265/H.264 video encoder and 1080p60 JPEG video decoder.
-
-💡 *It brings a high-performance, 4K-capable AI camera SoC to market with an affordable and open-source RISC-V architecture.*
-
-🔗 [Read More](https://www.cnx-software.com/2026/01/04/allwinner-v861-dual-core-64-bit-risc-v-ai-camera-sip-features-128mb-ddr3l-4k-h-265-h-264-video-encoder/)
-
----
-
-### 14. Cincoze MD-3000 is a scalable DIN-Rail computer with up to 14th Gen 24-core Intel Core i9-14900 CPU ⭐⭐
-
-**Score:** 8/10 | The Cincoze MD-3000 is a high-performance, scalable DIN-Rail computer powered by up to a 14th Gen 24-core Intel Core i9-14900 CPU, supporting up to 96GB DDR5 memory and various I/O interfaces.
-
-💡 *This article highlights a high-performance DIN-Rail computer for industrial applications with exceptional scalability.*
-
-🔗 [Read More](https://www.cnx-software.com/2026/01/02/cincoze-md-3000-scalable-din-rail-computer-with-up-to-14th-gen-24-core-intel-core-i9-14900-cpu/)
-
----
-
-### 15. DFRobot HUSKYLENS 2 AI camera review From built-in AI samples to training a custom model to detect elephants ⭐⭐
-
-**Score:** 8/10 | The HUSKYLENS 2 is a next-generation AI vision sensor with a Kendryte K230 dual-core RISC-V SoC, 6 TOPS AI accelerator, and 2.4-inch IPS touchscreen, supporting built-in AI models and custom-trained models via UART or I2C communication interfaces.
-
-💡 *This AI camera enables users to train custom models for object detection using built-in AI samples.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/31/dfrobot-huskylens-2-ai-camera-review-from-built-in-ai-samples-to-training-a-custom-model-to-detect-elephants/)
-
----
-
-### 16. Home Assistant-compatible Makerfabs ESP32-S3-based energy meter features BL0942 energy metering IC 
-
-**Score:** 6/10 | The Energy Meter for Home Assistant is an ESP32-S3-based single-phase energy monitoring and control module that measures real-time power and energy consumption and has remote on/off control.
-
-💡 *Enables users to monitor and control their energy consumption remotely with Home Assistant integration.*
-
-🔗 [Read More](https://www.cnx-software.com/2026/01/09/home-assistant-compatible-makerfabs-esp32-s3-based-energy-meter-features-bl0942-energy-metering-ic/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/14/weact-can485-a-low-cost-esp32-board-with-can-bus-and-rs485-interfaces/)
 
 ---
 

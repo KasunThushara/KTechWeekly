@@ -1,175 +1,145 @@
 # 📈 Trends Weekly Report
-**Week of January 12, 2026**
+**Week of January 17, 2026**
 
 *Industry trends*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 15
-- **High Priority:** 13 articles (score ≥7)
-- **Average Importance:** 7.6/10
-- **Report Generated:** 2026-01-12 22:18
+- **Total Articles:** 12
+- **High Priority:** 9 articles (score ≥7)
+- **Average Importance:** 7.2/10
+- **Report Generated:** 2026-01-17 11:52
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Modder saves $130 by building 32GB DDR5 desktop DIMMs from scavenged laptop memory donor modules soldered to bare PCB flashed with custom firmware even run XMP ⭐⭐
+### 1. Many high-capacity NVMe SSDs are now as expensive as gold by weight as shortage intensifies we ran the numbers, here's what we found ⭐⭐
 
 **Importance:** 8/10
 
-A modder, VIK-on, built a 32GB DDR5 stick from scavenged laptop memory and a new PCB, enabling 6400 MT/s XMP at a cost of $218.
+High-capacity NVMe SSDs are becoming pricier than their gold weight due to a shortage.
 
-💡 *A modder successfully repurposed laptop memory to create a custom 32GB DDR5 stick at a reduced cost.*
+💡 *High-capacity NVMe SSD prices are skyrocketing due to a severe industry-wide shortage.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ddr5/modder-saves-usd130-by-building-32gb-ddr5-desktop-dimms-from-scavenged-laptop-memory-donor-modules-soldered-to-bare-pcb-flashed-with-custom-firmware-even-run-xmp)
+🔗 [Read More](https://www.tomshardware.com/pc-components/storage/high-capacity-nvme-ssds-are-quickly-becoming-as-expensive-as-gold-by-weight-we-ran-the-figures-heres-what-we-found)
 
 ---
 
-### 2. Steam Machine pricing soars past PS5 Pro and Xbox Series X in new retailer listing ⭐⭐
+### 2. Analyzing Washington's new AI accelerator export rules  smaller manufacturers suffer while Nvidia and AMD will reap the rewards ⭐⭐
 
 **Importance:** 8/10
 
-The Steam Machine's 1TB version costs $1,070 before taxes, surpassing the prices of PS5 Pro and Xbox Series X. The 512GB model is listed at $950. Both prices are significantly higher than expected.
+The U.S. introduces new export rules for AI and HPC accelerators, allowing shipments of AMD's and Nvidia's GPUs to China if their developers meet American customer demands and Department of Commerce requirements.
 
-💡 *Steam Machine's high price points raise concerns and eyebrows in the gaming console market.*
+💡 *The new rules create a competitive advantage for Nvidia and AMD over smaller manufacturers in the AI accelerator export market.*
 
-🔗 [Read More](https://www.tomshardware.com/video-games/console-gaming/steam-machine-pricing-soars-past-ps5-pro-and-xbox-series-x-in-new-retailer-listing-1tb-sku-shatters-usd1-000-barrier)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/analyzing-washingtons-new-ai-accelerator-export-rules-smaller-manufacturers-suffer-while-nvidia-and-amd-will-reap-the-rewards)
 
 ---
 
-### 3. Meta inks deals to supply a staggering 6 gigawatts in nuclear power for data center ambitions enough wattage to supply 5 million homes ⭐⭐
+### 3. AI chip design is pushing advanced chip packaging to its limits  workarounds exist for limits of 2.5D packaging, but are years away from viability ⭐⭐
 
 **Importance:** 8/10
 
-Meta is securing 6 gigawatts of nuclear power to meet its data center needs, with 1 gigawatt for Prometheus in 2026 and 5 gigawatts for Hyperion by 2028.
+Advanced chip design is moving away from the transistor and toward the package as AI accelerators and HPC devices grow larger and more complex.
 
-💡 *Meta secures massive 6-gigawatt nuclear power deal to fuel its ambitious data center plans.*
+💡 *AI chip design is pushing traditional packaging to its limits, requiring innovative workarounds.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-inks-deals-to-supply-a-staggering-6-gigawatts-in-nuclear-power-for-data-center-ambitions-enough-wattage-to-supply-5-million-homes)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-design-is-pushing-2-5d-packaging-to-its-limits)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Intel Panther Lake press Q&A transcript EVO is still alive, and the company ditches prior-generation naming scheme ⭐⭐
+### 4. Seagate launches three new 32 TB hard drives across its product lines, all using CMR tech ⭐⭐
 
-**Score:** 8/10 | Intel's senior staff discussed the new products behind their Panther Lake architecture, featuring illuminating commentary at CES 2026.
+**Score:** 8/10 | Seagate has released three new 32 TB hard drives across its product families, starting at $699.99 and having transfer speeds of up to 285 MB/s.
 
-💡 *Intel ditches prior-generation naming scheme for new products based on Panther Lake architecture.*
+💡 *Seagate now offers high-capacity 32 TB hard drives across its product lines at affordable prices.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-panther-lake-press-q-and-a-transcript)
-
----
-
-### 5. President Trump, Sec. Lutnick praise Intel after the launch of Panther Lake chips says investment in company already bringing tens of billions of dollars for the American people ⭐⭐
-
-**Score:** 8/10 | President Donald Trump and Commerce Secretary Howard Lutnick praised Intel and its CEO, Lip-Bu Tan, for the launch of the first chips made using the Intel 18A process node, a step towards the U.S. regaining its lead in cutting-edge chip manufacturing.
-
-💡 *This launch marks a significant step for the US in regaining its lead in cutting-edge chip manufacturing.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/president-trump-sec-lutnick-praise-intel-after-the-launch-of-panther-lake-chips-says-investment-in-company-already-bringing-tens-of-billions-of-dollars-for-the-american-people)
+🔗 [Read More](https://www.tomshardware.com/pc-components/hdds/seagate-launches-three-new-32-tb-hard-drives-across-its-product-lines-all-using-cmr-tech-skyhawk-ai-drive-starts-from-usd699-flagship-exos-at-usd849)
 
 ---
 
-### 6. Intel makes sharp reversal, is 'going big time into 14A,' says CEO Lip-Bu Tan ⭐⭐
+### 5. AMD's next-gen Ryzen AI 400 laptops could launch on January 22, five days ahead of Panther Lake Gorgon Point release date leaks through early Asus listing in China ⭐⭐
 
-**Score:** 8/10 | Intel's CEO expects great momentum in terms of yields and IP on the company's 14A process technology.
+**Score:** 8/10 | AMD's Ryzen AI 400 series laptops are reportedly launching on January 22, 2026, five days ahead of the expected Panther Lake Gorgon Point release. The laptops will feature the Ryzen AI 7 445 processor. The news comes from an early Asus listing in China.
 
-💡 *Intel's yield and IP advancements on 14A process technology are expected to gain significant momentum.*
+💡 *AMD's Ryzen AI 400 laptops are reportedly launching ahead of Intel's Panther Lake Gorgon Point release.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/intel-is-going-big-time-into-14a-says-ceo-lip-bu-tan-serve-the-customer-well-remark-hints-at-external-client)
-
----
-
-### 7. Chinese researchers hail breakthrough in DRAM-like cells, which could be used in embedded or 3D stacked memory    absence of manufacturing detail casts doubt on mass production ⭐⭐
-
-**Score:** 8/10 | Chinese researchers demonstrated a DRAM-like memory cell with multi-bit storage, fast writes, and long retention. The technology could be used as embedded or stacked 3D memory. However, manufacturability and commercial viability are uncertain.
-
-💡 *Chinese researchers demonstrate DRAM-like memory cells with potential for 3D stacked or embedded memory.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/dram/chinese-researchers-hail-breakthrough-in-dram-like-cells-which-could-be-used-in-embedded-or-3d-stacked-memory-absence-of-manufacturing-detail-casts-doubt-on-mass-production)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amds-next-gen-ryzen-ai-400-laptops-could-launch-on-january-22-five-days-ahead-of-panther-lake-gorgon-point-release-date-leaks-through-early-asus-listing-in-china)
 
 ---
 
-### 8. SanDisk to double price of 3D NAND for enterprise SSDs in Q1 2026 ⭐⭐
+### 6. XIAO ESP32-C5  A tiny USB-C IoT board with dual-band WiFi 6, Bluetooth 5.0 LE, Zigbee, and Thread connectivity ⭐⭐
 
-**Score:** 8/10 | SanDisk and other suppliers are projected to increase prices of enterprise-grade 3D NAND due to overwhelming demand from the AI sector.
+**Score:** 8/10 | Seeed Studio has introduced the XIAO ESP32-C5, a tiny USB-C IoT board featuring dual-band WiFi 6, Bluetooth 5.0 LE, Zigbee, and Thread connectivity. It offers improved specifications compared to its predecessor, including a higher clock speed and increased memory. The board is suitable for IoT projects and products.
 
-💡 *Enterprise SSD prices are set to double due to high demand from the AI sector.*
+💡 *Seeed Studio has introduced the XIAO ESP32-C5, a compact, feature-rich IoT board for various applications.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/sandisk-to-double-price-of-3d-nand-for-enterprise-ssds-in-q1-2026-hyperscalers-to-pay-top-dollar-for-storage-as-ai-continues-to-roll)
-
----
-
-### 9. Audeze launches Maxwell 2 headset, with better spatial immersion and bass plus, of course, improved AI noise-canceling mic tech ⭐⭐
-
-**Score:** 8/10 | Audeze launched its new Maxwell 2 planar magnetic gaming headset at CES 2026, with improved audio and mic technology, and swappable side plates.
-
-💡 *Audeze launches improved Maxwell 2 gaming headset for enhanced spatial immersion and audio quality.*
-
-🔗 [Read More](https://www.tomshardware.com/peripherals/gaming-headsets/audeze-launches-maxwell-2-headset-with-better-spatial-immersion-and-bass-plus-of-course-improved-ai-noise-canceling-mic-tech)
+🔗 [Read More](https://www.cnx-software.com/2026/01/16/xiao-esp32-c5-a-tiny-usb-c-iot-board-with-dual-band-wifi-6-bluetooth-5-0-le-zigbee-and-thread-connectivity/)
 
 ---
 
-### 10. Boxes of 100 server-grade DDR5 memory now cost as much as property in Shanghai in China spot market  single 256GB server sticks now over $5,700 ⭐⭐
+### 7. Compex Wi-Fi 7 Dual-Band Dual-Concurrent Modules:  High-Performance Solutions for Next-Gen Connectivity (Sponsored) ⭐⭐
 
-**Score:** 8/10 | In China's spot market, vendors are quoting prices that put a box of 100 high-capacity DDR5 server memory modules at roughly 5 million yuan, making a single 256GB server stick over $5,700.
+**Score:** 8/10 | Compex has introduced a family of Wi-Fi 7 modules to support various band combinations, form factors, and deployment scenarios. The modules are powered by Qualcomm's QCN6224, QCN6274, and QCN9274 Waikiki radio chipsets and support advanced Wi-Fi 7 functions. They are available in standard MiniPCIe and M.2 E-Key form factors.
 
-💡 *DDR5 memory prices skyrocket in China's spot market, exceeding property values.*
+💡 *Compex introduces Wi-Fi 7 modules backed by Qualcomm's Waikiki chipsets for high-performance connectivity.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ddr5/boxes-of-100-ddr5-server-memory-sticks-in-china-now-priced-like-shanghai-apartments)
-
----
-
-### 11. Snapdragon X2 Plus 6-core and 10-core processors target low-power Windows Copilot+ PCs ⭐⭐
-
-**Score:** 8/10 | Qualcomm has introduced the mid-range Snapdragon X2 Plus platform for affordable Windows 11 Copilot+ PCs, featuring 6-core and 10-core processors, 80 TOPS AI accelerator, and 5G modem.
-
-💡 *Qualcomm introduces affordable, low-power Snapdragon X2 Plus platform for Windows 11 Copilot+ PCs.*
-
-🔗 [Read More](https://www.cnx-software.com/2026/01/07/snapdragon-x2-plus-6-core-and-10-core-processors-target-low-power-windows-copilot-pcs/)
+🔗 [Read More](https://www.cnx-software.com/2026/01/13/compex-wi-fi-7-dual-band-dual-concurrent-modules-high-performance-solutions-for-next-gen-connectivity/)
 
 ---
 
-### 12. HP reportedly eyes Chinese suppliers for DRAM as global shortage sparks shake-up   analyst says memory chips are commodities that can easily be replaced ⭐⭐
+### 8. Hard drive prices have surged by an average of 46% since September   iconic 24TB Seagate BarraCuda now $500 as AI claims another victim ⭐⭐
 
-**Score:** 7/10 | HP is considering buying memory chips from China to alleviate the ongoing shortage, according to a tech analyst. The analyst believes memory chips are commodities that can be easily replaced.
+**Score:** 7/10 | New research indicates that hard drive prices have increased by an average of nearly 50% in the last four months.
 
-💡 *HP's move highlights the growing reliance on China for critical tech components amid shortages.*
+💡 *Hard drive price surge impacts affordability and accessibility for consumers and industries reliant on storage.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ram/hp-reportedly-eyes-chinese-suppliers-for-dram-as-global-shortage-sparks-shake-up-analyst-says-memory-chips-are-commodities-that-can-easily-be-replaced)
-
----
-
-### 13. AMD claims Panther Lake has 'too much baggage' for handheld PC use  fights back after Intel jabs AMD for using 'ancient silicon' in its Z2 series APUs ⭐⭐
-
-**Score:** 7/10 | AMD jabs back at Intel for calling its Z2 chips "ancient", claiming Panther Lake mobile chips have too much "baggage" for handheld gaming use.
-
-💡 *AMD disputes Intel's claim, arguing Panther Lake chips have too much baggage for handheld gaming.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-claims-panther-lake-has-too-much-baggage-for-handheld-pc-use-fights-back-after-intel-jabs-amd-for-using-ancient-silicon-in-its-z2-series-apus)
+🔗 [Read More](https://www.tomshardware.com/pc-components/hdds/hard-drive-prices-have-surged-by-an-average-of-46-percent-since-september-iconic-24tb-seagate-barracuda-now-usd500-as-ai-claims-another-victim)
 
 ---
 
-### 14. Windows Media Player's find album information functionality has been removed 
+### 9. Steam Machine to have fewer 'Verified' badge constraints ⭐⭐
 
-**Score:** 6/10 | Microsoft has quietly removed the find album information and update album info online tools from the Media Player apps supplied with Windows 11. Users will need to find alternative software for playing and ripping CDs with relevant track information.
+**Score:** 7/10 | Valve says 'Verified on Steam Deck' games will work well on the Steam Machine, providing a large number of titles that will run smoothly on launch.
 
-💡 *Microsoft's removal of find album info functionality affects Windows 11 users' CD playback and ripping capabilities.*
+💡 *Valve's 'Verified on Steam Deck' badge will loosen Steam Machine compatibility constraints at launch.*
 
-🔗 [Read More](https://www.tomshardware.com/software/windows/windows-media-players-find-album-information-functionality-has-been-removed-youll-have-to-find-other-software-for-playing-and-ripping-cds-with-relevant-track-information)
+🔗 [Read More](https://www.tomshardware.com/video-games/console-gaming/steam-machine-to-have-fewer-verified-badge-constraints-valve-says-verified-on-steam-deck-titles-expected-to-run-smoothly-on-upcoming-pc-console)
 
 ---
 
-### 15. Asus adds 64MB ROM to Strix Neo AM5 motherboards, following Gigabyte   capacity large enough to fit pre-installed Wi-Fi drivers 
+### 10. Newegg bucks the trend by offering a $50 discount on 16GB of DDR5-6000 RAM   limited time deal on the cheapest kit you can buy 
 
-**Score:** 6/10 | Asus has incorporated a 64MB ROM into its Strix Neo AM5 motherboards to support future Ryzen releases and hold an integrated Wi-Fi driver for new Windows 11 installs.
+**Score:** 6/10 | Newegg is offering a $50 discount on 16GB of TeamGroup DDR5-6000 RAM with a limited time deal.
 
-💡 *Asus Strix Neo AM5 motherboards now feature a 64MB ROM for future-proofing and driver support.*
+💡 *Newegg offers a rare discount on high-performance DDR5 RAM, making it more accessible to consumers.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/motherboards/asus-adds-64mb-rom-to-strix-neo-am5-motherboards-following-gigabyte-capacity-large-enough-to-fit-pre-installed-wi-fi-drivers)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ddr5/newegg-bucks-the-trend-by-offering-a-usd50-discount-on-16gb-of-ddr5-6000-ram-limited-time-deal-on-the-cheapest-kit-you-can-buy)
+
+---
+
+### 11. Gigabyte CEO explains Nvidia's potential GPU supply strategy amid crushing memory shortages 
+
+**Score:** 6/10 | Gigabyte CEO Eddie Lin says revenue per gigabyte of GDDR7 memory on Nvidia graphics cards will decide which products thrive and face shortages in 2026.
+
+💡 *Eddie Lin states that Nvidia's 2026 GPU supply strategy hinges on GDDR7 memory pricing.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/gigabyte-ceo-explains-nvidias-potential-gpu-supply-strategy-amid-crushing-memory-shortages-gross-revenue-per-gigabyte-of-gddr7-memory-could-decide-what-products-thrive)
+
+---
+
+### 12. Examining DDR4 PC build options in 2026 
+
+**Score:** 5/10 | Building a PC with DDR4 is a cost-effective option, offering great performance, especially when using existing RAM.
+
+💡 *DDR4 PC builds remain a cost-effective option for those with existing RAM and moderate performance needs.*
+
+🔗 [Read More](https://www.tomshardware.com/desktops/pc-building/examining-ddr4-pc-build-options-in-2026-with-high-ddr5-prices-a-pc-build-with-ddr4-is-worth-considering-especially-if-you-have-ram-you-can-carry-over-from-a-previous-build)
 
 ---
 

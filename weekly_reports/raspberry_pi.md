@@ -1,53 +1,75 @@
 # 🍓 Raspberry Pi Weekly Report
-**Week of January 12, 2026**
+**Week of January 17, 2026**
 
 *Raspberry Pi projects*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 3
-- **High Priority:** 3 articles (score ≥7)
-- **Average Importance:** 7.7/10
-- **Report Generated:** 2026-01-12 22:18
+- **Total Articles:** 5
+- **High Priority:** 5 articles (score ≥7)
+- **Average Importance:** 7.8/10
+- **Report Generated:** 2026-01-17 11:52
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Xibo open-source digital signage solution now works with Raspberry Pi 5 thanks to the Arexibo project ⭐⭐
+### 1. Raspberry Pi AI HAT+ 2 targets generative AI (LLM/VLM) with Hailo-10H accelerator ⭐⭐
 
 **Importance:** 8/10
 
-Xibo digital signage solution is now compatible with the Raspberry Pi 5 thanks to Arexibo, an unofficial alternative to the digital signage player for Xibo, designed for Linux platforms. This marks the first time Xibo has been compatible with the Raspberry Pi since developers dropped support for the Linux client in 2012.
+The Raspberry Pi AI HAT+ 2 adds support for large language models (LLMs) and vision-language models (VLMs) to the Raspberry Pi 5, utilizing the 40 TOPS Hailo-10H AI accelerator with 8GB of dedicated on-board RAM.
 
-💡 *Xibo digital signage solution is now compatible with the Raspberry Pi 5 after a decade of incompatibility.*
+💡 *It enables real-time generative AI on the Raspberry Pi 5 with accelerated performance.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/15/raspberry-pi-ai-hat-2-targets-generative-ai-llm-vlm-with-hailo-10h-accelerator/)
+
+---
+
+### 2. reComputer Industrial R2135-12 review A Raspberry Pi CM5-powered fanless Edge AI PC with Hailo-8 AI accelerator ⭐⭐
+
+**Importance:** 8/10
+
+The reComputer AI Industrial R2135-12 is an industrial edge computer based on the Raspberry Pi Compute Module 5 platform. It features 8 GB LPDDR4 memory, 32 GB eMMC storage, and various I/O options. The system runs an AI model for real-time people detection and sends results to an external microcontroller.
+
+💡 *The reComputer AI Industrial R2135-12 combines AI capabilities with industrial-grade durability and versatility.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/15/recomputer-industrial-r2135-12-review-a-raspberry-pi-cm5-powered-fanless-edge-ai-pc-with-hailo-8-ai-accelerator/)
+
+---
+
+### 3. eWeLink CUBE OS enables all SONOFF WiFi and Zigbee devices to connect to Matter ⭐⭐
+
+**Importance:** 8/10
+
+SONOFF WiFi and Zigbee devices can now work with the Matter protocol through eWeLink CUBE OS on a Raspberry Pi, eliminating the need for the eWeLink app and allowing devices to work with Matter-compatible platforms.
+
+💡 *SONOFF devices can now integrate with Matter-compatible platforms through the eWeLink CUBE OS.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/14/ewelink-cube-os-enables-all-sonoff-wifi-and-zigbee-devices-to-connect-to-matter/)
+
+---
+
+## 📰 Other Stories
+
+### 4. Xibo open-source digital signage solution now works with Raspberry Pi 5 thanks to the Arexibo project ⭐⭐
+
+**Score:** 8/10 | Xibo digital signage solution is now compatible with the Raspberry Pi 5 thanks to Axeribo, a Rust-based alternative. This comes after years of development, and it offers better performance compared to previous attempts. Axeribo is designed for Linux platforms and provides hardware video decoding.
+
+💡 *Raspberry Pi 5 users now have a high-performance, open-source digital signage option with Xibo compatibility.*
 
 🔗 [Read More](https://www.cnx-software.com/2026/01/12/xibo-open-source-digital-signage-solution-now-works-with-raspberry-pi-5-thanks-to-the-arexibo-project/)
 
 ---
 
-### 2. DFRobot HUSKYLENS 2 AI camera review From built-in AI samples to training a custom model to detect elephants ⭐⭐
+### 5. Raspberry Pi AI HAT+ 2 Review: The brains and the brawn ⭐⭐
 
-**Importance:** 8/10
+**Score:** 7/10 | Raspberry Pi's latest AI accessory features a more powerful Hailo NPU, enabling LLMs and image inference, but the price tag is a deciding factor.
 
-The HUSKYLENS 2 is a next-generation AI vision sensor with a Kendryte K230 dual-core RISC-V SoC, 6 TOPS AI accelerator, and 2.4-inch IPS touchscreen, supporting built-in AI models and custom-trained models via UART or I2C communication interfaces.
+💡 *Raspberry Pi's AI HAT+ 2 brings advanced AI capabilities, but at a high price point.*
 
-💡 *An AI camera like the HUSKYLENS 2 enables users to train custom models for real-world applications.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/31/dfrobot-huskylens-2-ai-camera-review-from-built-in-ai-samples-to-training-a-custom-model-to-detect-elephants/)
-
----
-
-### 3. Year 2025 in Review, CNX Software stats, and looking ahead to 2026 ⭐⭐
-
-**Importance:** 7/10
-
-In 2025, Raspberry Pi released several notable products, including the Raspberry Pi 500+ mechanical keyboard and a 5-inch variant of the Raspberry Pi Touch Display 2. The year also saw the release of the 12-core CIX P1 Armv9 SoC in various boards. Third-party accessories continued to be released for Raspberry Pi SBC and Pico boards.
-
-💡 *The article highlights key Raspberry Pi product releases and developments in 2025.*
-
-🔗 [Read More](https://www.cnx-software.com/2025/12/31/year-2025-in-review-cnx-software-stats-and-looking-ahead-to-2026/)
+🔗 [Read More](https://www.tomshardware.com/raspberry-pi/raspberry-pi-ai-hat-plus-2-review)
 
 ---
 

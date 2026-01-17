@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of January 12, 2026**
+**Week of January 17, 2026**
 
 Your curated weekly roundup of the most important tech news in AI, hardware, and edge computing.
 
@@ -7,128 +7,132 @@ Your curated weekly roundup of the most important tech news in AI, hardware, and
 
 ## 📈 This Week's Highlights
 
-### 1. Micron to begin work on $100 billion New York 'megafab' imminently ⭐⭐⭐
+### 1. SK hynix to spend $13 billion on the world's largest HBM memory assembly plant amid the worst shortage on record ⭐⭐⭐
+
+**🤖 AI** | Importance: 9/10
+
+SK hynix is investing $12.9 billion to build a campus-scale, HBM-only advanced packaging and test facility in Cheongju, South Korea, designed for the next generation of HBM memory.
+
+💡 **Key Takeaway:** SK hynix invests $12.9 billion to alleviate the worst memory shortage on record.
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-spend-usd13-billion-on-the-worlds-largest-hbm-memory-assembly-plant)
+
+---
+
+### 2. Deepseek research touts memory breakthrough, decoupling compute power and RAM pools to bypass GPU & HBM constraints   Engram conditional memory module commits static knowledge to system RAM ⭐⭐⭐
+
+**🤖 AI** | Importance: 9/10
+
+Deepseek has developed a new form of long-term memory for AI models called Engram, which outperforms its MoE counterparts and decouples compute power from system RAM pools.
+
+💡 **Key Takeaway:** Engram decouples compute power from system RAM pools, bypassing GPU and HBM constraints.
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-touts-memory-breakthrough-engram)
+
+---
+
+### 3. SK hynix to spend $13 billion on the world's largest HBM memory assembly plant amid the worst shortage on record ⭐⭐⭐
+
+**🔧 Hardware** | Importance: 9/10
+
+SK hynix is investing $12.9 billion to build a campus-scale, HBM-only advanced packaging and test facility in Cheongju, South Korea, designed for the next generation of HBM memory.
+
+💡 **Key Takeaway:** SK hynix invests $12.9 billion in massive HBM memory facility amid global shortage.
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-spend-usd13-billion-on-the-worlds-largest-hbm-memory-assembly-plant)
+
+---
+
+### 4. U.S. slashes Taiwan tariffs in new semiconductor trade deal ⭐⭐⭐
 
 **⚡ Semiconductors** | Importance: 9/10
 
-Micron is starting to build a $100 billion site in New York to produce 40% of its DRAM output in the U.S. by the 2040s, after numerous delays.
+The U.S. and Taiwan trade deal will reduce tariffs to 15% and pour $500 billion in investments in U.S. chip manufacturing.
 
-💡 **Key Takeaway:** Micron's $100 billion 'megafab' in New York will significantly boost US DRAM production capacity.
+💡 **Key Takeaway:** The deal could boost U.S. chip manufacturing with $500 billion in investments.
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/micron-to-begin-work-on-usd100-billion-new-york-megafab-imminently-landmark-site-to-produce-40-percent-of-companys-overall-dram-output-in-the-u-s-by-the-2040s)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/u-s-slashes-taiwan-tariffs-in-new-semiconductor-trade-deal-washington-to-reduce-tariffs-to-15-percent-in-exchange-for-usd500-billion-stateside-manufacturing-investment)
 
 ---
 
-### 2. Boxes of 100 server-grade DDR5 memory now cost as much as property in Shanghai in China spot market  single 256GB server sticks now over $5,700 ⭐⭐⭐
+### 5. SK hynix to spend $13 billion on the world's largest HBM memory assembly plant amid the worst shortage on record ⭐⭐⭐
 
 **⚡ Semiconductors** | Importance: 9/10
 
-In China's spot market, vendors are quoting prices that put a box of 100 high-capacity DDR5 server memory modules at roughly 5 million yuan, making a single 256GB server stick over $5,700.
+SK hynix is investing $12.9 billion to build a campus-scale, HBM-only advanced packaging and test facility in Cheongju, South Korea, designed for the next generation of HBM memory.
 
-💡 **Key Takeaway:** DDR5 memory prices have skyrocketed in China's spot market, reaching over $5,700 per 256GB stick.
+💡 **Key Takeaway:** SK hynix is investing $12.9 billion in its largest HBM memory assembly plant amid industry shortages.
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/boxes-of-100-ddr5-server-memory-sticks-in-china-now-priced-like-shanghai-apartments)
-
----
-
-### 3. FCC approves 7,500 additional Starlink Gen2 satellites service will benefit from higher throughput and lower latency worldwide ⭐⭐
-
-**🔧 Hardware** | Importance: 8/10
-
-The FCC has partially approved a significant expansion of SpaceX's next-generation Starlink constellation, authorizing 7,500 additional LEO satellites under a partial grant.
-
-💡 **Key Takeaway:** The FCC's approval expands global access to faster, lower-latency Starlink Gen2 internet services.
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/fcc-approves-7500-additional-starlink-gen2-satellites)
-
----
-
-### 4. MetalPrinting Gauss MT90 3D printer offers office safe metal printing without powders uses paste based metal extrusion (PME) tech ⭐⭐
-
-**🔧 Hardware** | Importance: 8/10
-
-MetalPrinting unveiled its next-generation Gauss MT90 metal paste 3D printer at CES 2026, providing office-safe metal printing without powders.
-
-💡 **Key Takeaway:** MetalPrinting's Gauss MT90 enables office-safe metal printing without powders using new PME technology.
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/metalprinting-gauss-mt90-3d-printer-offers-office-safe-metal-printing-without-powders-uses-paste-based-metal-extrusion-pme-tech)
-
----
-
-### 5. Modder saves $130 by building 32GB DDR5 desktop DIMMs from scavenged laptop memory donor modules soldered to bare PCB flashed with custom firmware even run XMP ⭐⭐
-
-**🔧 Hardware** | Importance: 8/10
-
-A modder, VIK-on, built a 32GB DDR5 stick from scavenged laptop memory and a new PCB, enabling 6400 MT/s XMP at a cost of $218.
-
-💡 **Key Takeaway:** Hackers are repurposing laptop RAM to create custom DDR5 desktop modules at a fraction of the cost.
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/modder-saves-usd130-by-building-32gb-ddr5-desktop-dimms-from-scavenged-laptop-memory-donor-modules-soldered-to-bare-pcb-flashed-with-custom-firmware-even-run-xmp)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-spend-usd13-billion-on-the-worlds-largest-hbm-memory-assembly-plant)
 
 ---
 
 ## 📊 By the Numbers
 
-This week we covered **190 articles** across **9 categories**.
+This week we covered **190 articles** across **10 categories**.
 
 | Category | Articles | Top Score | Highlights |
 |----------|----------|-----------|------------|
-| 🤖 [AI](ai.md) | 22 | 8/10 | 21 high-priority |
-| 📡 [Edge AI](edge_ai.md) | 16 | 8/10 | 15 high-priority |
-| 🔧 [Hardware](hardware.md) | 74 | 8/10 | 62 high-priority |
-| 🧠 [Machine Learning](machine_learning.md) | 7 | 8/10 | 7 high-priority |
+| 🤖 [AI](ai.md) | 37 | 9/10 | 36 high-priority |
+| 📡 [Edge AI](edge_ai.md) | 14 | 8/10 | 14 high-priority |
+| 🔧 [Hardware](hardware.md) | 67 | 9/10 | 54 high-priority |
+| 🧠 [Machine Learning](machine_learning.md) | 9 | 9/10 | 9 high-priority |
 | 🎮 [NVIDIA](nvidia.md) | 13 | 8/10 | 11 high-priority |
-| 📰 [RISC-V](risc-v.md) | 2 | 8/10 | 2 high-priority |
-| 🍓 [Raspberry Pi](raspberry_pi.md) | 3 | 8/10 | 3 high-priority |
-| ⚡ [Semiconductors](semiconductors.md) | 38 | 9/10 | 33 high-priority |
-| 📈 [Trends](trends.md) | 15 | 8/10 | 13 high-priority |
+| 📰 [Qualcomm](qualcomm.md) | 1 | 8/10 | 1 high-priority |
+| 🍓 [Raspberry Pi](raspberry_pi.md) | 5 | 8/10 | 5 high-priority |
+| 💎 [Rockchip](rockchip.md) | 2 | 8/10 | 2 high-priority |
+| ⚡ [Semiconductors](semiconductors.md) | 30 | 9/10 | 28 high-priority |
+| 📈 [Trends](trends.md) | 12 | 8/10 | 9 high-priority |
 
 ---
 
 ## 🔥 Trending Topics
 
-- **Hardware**: 179 articles (94.2%)
-- **Semiconductors**: 113 articles (59.5%)
-- **AI**: 80 articles (42.1%)
-- **Edge AI**: 62 articles (32.6%)
-- **Trends**: 41 articles (21.6%)
+- **Hardware**: 167 articles (87.9%)
+- **AI**: 112 articles (58.9%)
+- **Semiconductors**: 84 articles (44.2%)
+- **Edge AI**: 56 articles (29.5%)
+- **NVIDIA**: 35 articles (18.4%)
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI](ai.md)
-*Artificial Intelligence developments* – 22 articles
+*Artificial Intelligence developments* – 37 articles
 
 ### 📡 [Edge AI](edge_ai.md)
-*AI on edge devices* – 16 articles
+*AI on edge devices* – 14 articles
 
 ### 🔧 [Hardware](hardware.md)
-*Hardware news and reviews* – 74 articles
+*Hardware news and reviews* – 67 articles
 
 ### 🧠 [Machine Learning](machine_learning.md)
-*ML algorithms and research* – 7 articles
+*ML algorithms and research* – 9 articles
 
 ### 🎮 [NVIDIA](nvidia.md)
 *NVIDIA hardware and GPUs* – 13 articles
 
-### 📰 [RISC-V](risc-v.md)
-** – 2 articles
+### 📰 [Qualcomm](qualcomm.md)
+** – 1 articles
 
 ### 🍓 [Raspberry Pi](raspberry_pi.md)
-*Raspberry Pi projects* – 3 articles
+*Raspberry Pi projects* – 5 articles
+
+### 💎 [Rockchip](rockchip.md)
+*Rockchip processors and SBCs* – 2 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing* – 38 articles
+*Chip manufacturing* – 30 articles
 
 ### 📈 [Trends](trends.md)
-*Industry trends* – 15 articles
+*Industry trends* – 12 articles
 
 ---
 
 ## 📅 About This Digest
 
-Generated on 2026-01-12 at 22:18 using AI-powered ranking and curation with Groq API.
+Generated on 2026-01-17 at 11:52 using AI-powered ranking and curation with Groq API.
 
 Articles are scored on a 0-10 importance scale based on:
 - Industry impact and significance
