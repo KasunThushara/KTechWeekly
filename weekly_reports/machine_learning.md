@@ -1,115 +1,95 @@
 # 🧠 Machine Learning Weekly Report
-**Week of January 17, 2026**
+**Week of January 25, 2026**
 
 *ML algorithms and research*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 9
-- **High Priority:** 9 articles (score ≥7)
-- **Average Importance:** 8.0/10
-- **Report Generated:** 2026-01-17 11:52
+- **Total Articles:** 7
+- **High Priority:** 7 articles (score ≥7)
+- **Average Importance:** 7.9/10
+- **Report Generated:** 2026-01-25 11:22
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Deepseek research touts memory breakthrough, decoupling compute power and RAM pools to bypass GPU & HBM constraints   Engram conditional memory module commits static knowledge to system RAM ⭐⭐⭐
-
-**Importance:** 9/10
-
-Deepseek has developed a new form of long-term memory for AI models called Engram, which outperforms its MoE counterparts and decouples compute power from system RAM pools.
-
-💡 *Deepseek's Engram enables AI models to bypass GPU and HBM constraints with decoupled memory.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-touts-memory-breakthrough-engram)
-
----
-
-### 2. Analyzing Washington's new AI accelerator export rules  smaller manufacturers suffer while Nvidia and AMD will reap the rewards ⭐⭐
+### 1. China reveals 200-strong AI drone swarm that can be controlled by a single soldier ⭐⭐
 
 **Importance:** 8/10
 
-The U.S. introduces new export rules for AI and HPC accelerators, allowing shipments of AMD's and Nvidia's GPUs to China if their developers meet American customer demands and Department of Commerce requirements.
+The People's Liberation Army revealed its latest drone swarm tech with 200 units that's resistant to jamming, can make autonomous decisions, and is controlled by a single soldier.
 
-💡 *The new export rules favor larger manufacturers like Nvidia and AMD over smaller rivals.*
+💡 *China's AI drone swarm technology raises concerns about potential military advantages and counter-attack vulnerabilities.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/analyzing-washingtons-new-ai-accelerator-export-rules-smaller-manufacturers-suffer-while-nvidia-and-amd-will-reap-the-rewards)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/china-reveals-200-strong-drone-swarm-uses-intelligent-algorithm-to-allow-individual-units-to-cooperate-autonomously-even-after-losing-communication-with-operator)
 
 ---
 
-### 3. Raspberry Pi AI HAT+ 2 Review: The brains and the brawn ⭐⭐
+### 2. Advantech MIO-5355 3.5-inch SBC features Qualcomm QCS6490 or QCS5430 SoC for industrial edge AI ⭐⭐
 
 **Importance:** 8/10
 
-Raspberry Pi's latest AI accessory features a more powerful Hailo NPU, enabling LLMs and image inference, but the price tag is a deciding factor.
+Advantech MIO-5355 is a 3.5-inch SBC based on Qualcomm processors, featuring up to 8GB of LPDDR5 memory and supporting industrial deployments with 20 C to 70 C operation.
 
-💡 *Raspberry Pi's AI HAT+ 2 offers enhanced AI capabilities but comes with a substantial price increase.*
+💡 *Advantech MIO-5355 offers a rugged, edge AI-capable SBC for industrial applications with Qualcomm SoC.*
 
-🔗 [Read More](https://www.tomshardware.com/raspberry-pi/raspberry-pi-ai-hat-plus-2-review)
+🔗 [Read More](https://www.cnx-software.com/2026/01/22/advantech-mio-5355-3-5-inch-sbc-features-qualcomm-qcs6490-or-qcs5430-soc-for-industrial-edge-ai/)
+
+---
+
+### 3. Raspberry Pi AI HAT+ 2 review   A 40 TOPS AI accelerator tested with Computer Vision, LLM, and VLM workloads ⭐⭐
+
+**Importance:** 8/10
+
+Raspberry Pi sent a sample of their AI HAT+ 2 generative AI accelerator for review, a 40 TOPS AI accelerator tested for LLM, VLM, and AI vision models.
+
+💡 *The Raspberry Pi AI HAT+ 2 delivers 40 TOPS AI acceleration at an affordable edge AI price point.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/20/raspberry-pi-ai-hat-2-review-a-40-tops-ai-accelerator-tested-with-computer-vision-llm-and-vlm-workloads/)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Phison demos 10X faster AI inference on consumer PCs with software and hardware combo that enables 3x larger AI models  Nvidia, AMD, MSI, and Acer systems demoed with aiDAPTIV+ ⭐⭐
+### 4. Bedrock RAI300 fanless industrial PC is powered by an AMD Ryzen AI 9 HX 370 mobile AI SoC ⭐⭐
 
-**Score:** 8/10 | Phison's aiDAPTIV+ stack enables large Mixture of Experts AI models and agentic AI workloads to run on client systems with limited memory capacity, achieving 10X faster AI inference and supporting 3x larger AI models.
+**Score:** 8/10 | The SolidRun Bedrock RAI300 is a fanless industrial PC powered by a 12-core AMD Ryzen AI 9 HX 370 mobile processor, supporting up to 128GB of DDR5 memory and various connectivity options.
 
-💡 *Phison's aiDAPTIV+ stack significantly boosts AI model capabilities on consumer PCs with 10X faster inference.*
+💡 *The Bedrock RAI300 offers a powerful, fanless industrial PC platform for demanding edge computing applications.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/phison-demos-10x-faster-ai-inference-on-consumer-pcs-with-software-and-hardware-combo-that-enables-3x-larger-ai-models-nvidia-amd-msi-and-acer-systems-demoed-with-aidaptiv)
-
----
-
-### 5. Chinese customs told to block H200 imports, report claims directive would effectively ban the Nvidia AI chip from China ⭐⭐
-
-**Score:** 8/10 | Chinese customs officers were allegedly told to disallow the entry of Nvidia H200 chips, effectively banning their entry into the country. The ban is reportedly for 'special circumstances' only.
-
-💡 *China reportedly effectively bans Nvidia H200 AI chip imports due to 'special circumstances'.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/chinese-customs-told-to-block-h200-imports-report-claims-directive-would-effectively-ban-the-nvidia-ai-chip-from-china)
+🔗 [Read More](https://www.cnx-software.com/2026/01/19/bedrock-rai300-fanless-industrial-pc-is-powered-by-an-amd-ryzen-ai-9-hx-370-mobile-ai-soc/)
 
 ---
 
-### 6. The End of the AI Toy Era: YouWare Launches YouBase to Deliver Production-Ready Business Tools (Sponsored) ⭐⭐
+### 5. The End of the AI Toy Era: YouWare Launches YouBase to Deliver Production-Ready Business Tools (Sponsored) ⭐⭐
 
-**Score:** 8/10 | YouWare has launched YouBase, a production-ready engine that offers a missing link for enterprises looking to leverage AI for full-stack development, marking a shift from prototyping to production.
+**Score:** 8/10 | YouWare's YouBase is a production-ready engine that offers a missing link for enterprises looking to leverage AI for full-stack development, overcoming the limitations of AI-coding tools that generate 'digital toys' rather than scalable business tools.
 
-💡 *YouWare's YouBase engine bridges the gap between AI prototyping and production-ready business tools.*
+💡 *YouWare's YouBase engine provides a production-ready solution for scalable AI business tools.*
 
 🔗 [Read More](https://www.cnx-software.com/2026/01/16/the-end-of-the-ai-toy-era-youware-launches-youbase-to-deliver-production-ready-business-tools/)
 
 ---
 
-### 7. Raspberry Pi AI HAT+ 2 targets generative AI (LLM/VLM) with Hailo-10H accelerator ⭐⭐
+### 6. Raspberry Pi AI HAT+ 2 targets generative AI (LLM/VLM) with Hailo-10H accelerator ⭐⭐
 
-**Score:** 8/10 | The Raspberry Pi AI HAT+ 2 adds support for large language models (LLMs) and vision-language models (VLMs) to the Raspberry Pi 5, utilizing the 40 TOPS Hailo-10H AI accelerator with 8GB of dedicated on-board RAM.
+**Score:** 8/10 | The Raspberry Pi AI HAT+ 2 brings generative AI capability to Raspberry Pi 5 with the 40 TOPS Hailo-10H AI accelerator, adding support for large language models and vision-language models. It targets applications like offline process control, secure data analysis, and robotics. The board has 8GB of dedicated on-board RAM.
 
-💡 *The Raspberry Pi AI HAT+ 2 brings affordable, high-performance AI capabilities to edge devices.*
+💡 *The Raspberry Pi AI HAT+ 2 brings generative AI capability to edge devices with 40 TOPS acceleration.*
 
 🔗 [Read More](https://www.cnx-software.com/2026/01/15/raspberry-pi-ai-hat-2-targets-generative-ai-llm-vlm-with-hailo-10h-accelerator/)
 
 ---
 
-### 8. Reolink Floodlight 4K Smart PoE and WiFi 6 security cameras add on-device LLM for natural language video search ⭐⭐
+### 7. Google, OpenAI, and Anthropic are competing to see whose AI can play Pokémon the best ⭐⭐
 
-**Score:** 8/10 | Reolink introduced the Elite Floodlight WiFi and Elite Pro Floodlight PoE, two new 4K security cameras with on-device Large Language Model (LLM) for natural-language video search.
+**Score:** 7/10 | Twitch streams of AI models playing old Pokémon games have garnered hundreds of thousands of comments, testing their ability to emulate human thinking and assess risks.
 
-💡 *Reolink's new security cameras integrate on-device LLM for natural-language video search capabilities.*
+💡 *AI models' ability to play Pokémon is a benchmark for human-like thinking and risk assessment in artificial intelligence.*
 
-🔗 [Read More](https://www.cnx-software.com/2026/01/08/reolink-floodlight-4k-smart-poe-security-cameras-add-on-device-llm-for-natural-language-video-search/)
-
----
-
-### 9. Qwen boss says Chinese AI models have 'less than 20%' chance of leapfrogging Western counterparts    despite China's $1 billion AI IPO week, capital can't close the gap alone ⭐⭐
-
-**Score:** 7/10 | China's AI sector raised over $1 billion through IPOs, but a Chinese AI firm's boss believes they have less than 20% chance of leapfrogging Western counterparts due to the gap in technology.
-
-💡 *China's AI sector faces significant technological gaps despite raising over $1 billion through IPOs.*
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-1-billion-ai-ipo-week-highlights-the-limits-of-capital-without-compute)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-openai-and-anthropic-are-competing-to-see-whose-ai-can-play-pokemon-the-best-twitch-streams-of-beloved-rpg-game-test-the-models-true-might)
 
 ---
 

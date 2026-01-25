@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of January 17, 2026**
+**Week of January 25, 2026**
 
 Your curated weekly roundup of the most important tech news in AI, hardware, and edge computing.
 
@@ -7,132 +7,148 @@ Your curated weekly roundup of the most important tech news in AI, hardware, and
 
 ## 📈 This Week's Highlights
 
-### 1. SK hynix to spend $13 billion on the world's largest HBM memory assembly plant amid the worst shortage on record ⭐⭐⭐
-
-**🤖 AI** | Importance: 9/10
-
-SK hynix is investing $12.9 billion to build a campus-scale, HBM-only advanced packaging and test facility in Cheongju, South Korea, designed for the next generation of HBM memory.
-
-💡 **Key Takeaway:** SK hynix invests $12.9 billion to alleviate the worst memory shortage on record.
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-spend-usd13-billion-on-the-worlds-largest-hbm-memory-assembly-plant)
-
----
-
-### 2. Deepseek research touts memory breakthrough, decoupling compute power and RAM pools to bypass GPU & HBM constraints   Engram conditional memory module commits static knowledge to system RAM ⭐⭐⭐
-
-**🤖 AI** | Importance: 9/10
-
-Deepseek has developed a new form of long-term memory for AI models called Engram, which outperforms its MoE counterparts and decouples compute power from system RAM pools.
-
-💡 **Key Takeaway:** Engram decouples compute power from system RAM pools, bypassing GPU and HBM constraints.
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-touts-memory-breakthrough-engram)
-
----
-
-### 3. SK hynix to spend $13 billion on the world's largest HBM memory assembly plant amid the worst shortage on record ⭐⭐⭐
+### 1. 3D-printed fan-less and pump-less liquid cooler can deliver 600 watts of cooling for data centers   passive design provides reusable heat, exceeds project performance expectations by 50% ⭐⭐⭐
 
 **🔧 Hardware** | Importance: 9/10
 
-SK hynix is investing $12.9 billion to build a campus-scale, HBM-only advanced packaging and test facility in Cheongju, South Korea, designed for the next generation of HBM memory.
+A 3D-printed passive cooler has been developed to pull 600 W off a datacenter chip, exceeding performance expectations by 50%.
 
-💡 **Key Takeaway:** SK hynix invests $12.9 billion in massive HBM memory facility amid global shortage.
+💡 **Key Takeaway:** A 3D-printed passive cooler surpasses performance expectations by 50% in data center cooling applications.
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-spend-usd13-billion-on-the-worlds-largest-hbm-memory-assembly-plant)
-
----
-
-### 4. U.S. slashes Taiwan tariffs in new semiconductor trade deal ⭐⭐⭐
-
-**⚡ Semiconductors** | Importance: 9/10
-
-The U.S. and Taiwan trade deal will reduce tariffs to 15% and pour $500 billion in investments in U.S. chip manufacturing.
-
-💡 **Key Takeaway:** The deal could boost U.S. chip manufacturing with $500 billion in investments.
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/u-s-slashes-taiwan-tariffs-in-new-semiconductor-trade-deal-washington-to-reduce-tariffs-to-15-percent-in-exchange-for-usd500-billion-stateside-manufacturing-investment)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cooling/3d-printed-passive-cooler-can-deliver-600-watts-of-cooling-for-data-centers-with-no-fans-or-pumps-provides-reusable-heat-exceeds-project-performance-expectations-by-50-percent)
 
 ---
 
-### 5. SK hynix to spend $13 billion on the world's largest HBM memory assembly plant amid the worst shortage on record ⭐⭐⭐
+### 2. Toilet maker Toto scores a royal flush as share price rises due to AI demand in unlikely chipmaking side-gig ⭐⭐⭐
 
 **⚡ Semiconductors** | Importance: 9/10
 
-SK hynix is investing $12.9 billion to build a campus-scale, HBM-only advanced packaging and test facility in Cheongju, South Korea, designed for the next generation of HBM memory.
+Toilet manufacturer Toto's shares have soared rapidly, driven by the AI memory market.
 
-💡 **Key Takeaway:** SK hynix is investing $12.9 billion in its largest HBM memory assembly plant amid industry shortages.
+💡 **Key Takeaway:** Toto's unlikely foray into chipmaking has driven a surge in its share price due to AI demand.
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-spend-usd13-billion-on-the-worlds-largest-hbm-memory-assembly-plant)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/toilet-maker-toto-scores-a-royal-flush-as-share-price-rises-due-to-ai-demand-in-unlikely-chipmaking-side-gig-japanese-company-develops-electrostatic-chucks-to-hold-silicon-wafers-in-lucrative-segment)
+
+---
+
+### 3. 3D-printed fan-less and pump-less liquid cooler can deliver 600 watts of cooling for data centers   passive design provides reusable heat, exceeds project performance expectations by 50% ⭐⭐⭐
+
+**⚡ Semiconductors** | Importance: 9/10
+
+A 3D-printed passive cooler has been developed to pull 600 W off a datacenter chip, exceeding performance expectations by 50%.
+
+💡 **Key Takeaway:** A 3D-printed passive cooler exceeds project performance expectations by 50% in data center cooling.
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cooling/3d-printed-passive-cooler-can-deliver-600-watts-of-cooling-for-data-centers-with-no-fans-or-pumps-provides-reusable-heat-exceeds-project-performance-expectations-by-50-percent)
+
+---
+
+### 4. Zotac reportedly cancels GPU orders and raises MSRP by $200 or more across the board the company blames 'system error' for cancellations ⭐⭐
+
+**🔧 Hardware** | Importance: 8/10
+
+Zotac is reportedly canceling GPU orders and increasing prices by $200 or more across its Nvidia RTX GPUs, blaming a 'system error' for the cancellations.
+
+💡 **Key Takeaway:** Zotac's price hike and canceled orders may significantly impact the availability and affordability of Nvidia RTX GPUs.
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/zotac-reportedly-cancels-gpu-orders-and-raises-msrp-by-usd200-or-more-across-the-board-the-company-blames-system-error-for-cancellations)
+
+---
+
+### 5. MSI MPG X870E Edge Ti Wifi Review: Silver-white aesthetic meets budget X870E ⭐⭐
+
+**🔧 Hardware** | Importance: 8/10
+
+MSI MPG X870E Edge Ti WiFi delivers strong performance, USB4, Wi-Fi 7, 5GbE, dual PCIe 5.0 M.2 in a stylish $299 X870E board.
+
+💡 **Key Takeaway:** The MSI MPG X870E Edge Ti WiFi offers strong performance at an affordable price point.
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/msi-mpg-x870e-edge-ti-wifi-review)
 
 ---
 
 ## 📊 By the Numbers
 
-This week we covered **190 articles** across **10 categories**.
+This week we covered **180 articles** across **14 categories**.
 
 | Category | Articles | Top Score | Highlights |
 |----------|----------|-----------|------------|
-| 🤖 [AI](ai.md) | 37 | 9/10 | 36 high-priority |
-| 📡 [Edge AI](edge_ai.md) | 14 | 8/10 | 14 high-priority |
-| 🔧 [Hardware](hardware.md) | 67 | 9/10 | 54 high-priority |
-| 🧠 [Machine Learning](machine_learning.md) | 9 | 9/10 | 9 high-priority |
-| 🎮 [NVIDIA](nvidia.md) | 13 | 8/10 | 11 high-priority |
-| 📰 [Qualcomm](qualcomm.md) | 1 | 8/10 | 1 high-priority |
-| 🍓 [Raspberry Pi](raspberry_pi.md) | 5 | 8/10 | 5 high-priority |
-| 💎 [Rockchip](rockchip.md) | 2 | 8/10 | 2 high-priority |
-| ⚡ [Semiconductors](semiconductors.md) | 30 | 9/10 | 28 high-priority |
-| 📈 [Trends](trends.md) | 12 | 8/10 | 9 high-priority |
+| 🤖 [AI](ai.md) | 23 | 8/10 | 20 high-priority |
+| 📡 [Edge AI](edge_ai.md) | 10 | 8/10 | 10 high-priority |
+| 📰 [Embedded](embedded.md) | 1 | 8/10 | 1 high-priority |
+| 🔧 [Hardware](hardware.md) | 65 | 9/10 | 49 high-priority |
+| 🧠 [Machine Learning](machine_learning.md) | 7 | 8/10 | 7 high-priority |
+| 🎮 [NVIDIA](nvidia.md) | 12 | 8/10 | 7 high-priority |
+| 📰 [Open Hardware](open_hardware.md) | 1 | 7/10 | 1 high-priority |
+| 📰 [RISC-V](risc-v.md) | 1 | 8/10 | 1 high-priority |
+| 🍓 [Raspberry Pi](raspberry_pi.md) | 10 | 8/10 | 7 high-priority |
+| 📰 [Robotics](robotics.md) | 1 | 7/10 | 1 high-priority |
+| 💎 [Rockchip](rockchip.md) | 1 | 8/10 | 1 high-priority |
+| 📰 [Rust](rust.md) | 1 | 8/10 | 1 high-priority |
+| ⚡ [Semiconductors](semiconductors.md) | 33 | 9/10 | 31 high-priority |
+| 📈 [Trends](trends.md) | 14 | 8/10 | 12 high-priority |
 
 ---
 
 ## 🔥 Trending Topics
 
-- **Hardware**: 167 articles (87.9%)
-- **AI**: 112 articles (58.9%)
-- **Semiconductors**: 84 articles (44.2%)
-- **Edge AI**: 56 articles (29.5%)
-- **NVIDIA**: 35 articles (18.4%)
+- **Hardware**: 150 articles (83.3%)
+- **Semiconductors**: 85 articles (47.2%)
+- **AI**: 71 articles (39.4%)
+- **Trends**: 43 articles (23.9%)
+- **Edge AI**: 41 articles (22.8%)
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI](ai.md)
-*Artificial Intelligence developments* – 37 articles
+*Artificial Intelligence developments* – 23 articles
 
 ### 📡 [Edge AI](edge_ai.md)
-*AI on edge devices* – 14 articles
+*AI on edge devices* – 10 articles
+
+### 📰 [Embedded](embedded.md)
+** – 1 articles
 
 ### 🔧 [Hardware](hardware.md)
-*Hardware news and reviews* – 67 articles
+*Hardware news and reviews* – 65 articles
 
 ### 🧠 [Machine Learning](machine_learning.md)
-*ML algorithms and research* – 9 articles
+*ML algorithms and research* – 7 articles
 
 ### 🎮 [NVIDIA](nvidia.md)
-*NVIDIA hardware and GPUs* – 13 articles
+*NVIDIA hardware and GPUs* – 12 articles
 
-### 📰 [Qualcomm](qualcomm.md)
+### 📰 [Open Hardware](open_hardware.md)
+** – 1 articles
+
+### 📰 [RISC-V](risc-v.md)
 ** – 1 articles
 
 ### 🍓 [Raspberry Pi](raspberry_pi.md)
-*Raspberry Pi projects* – 5 articles
+*Raspberry Pi projects* – 10 articles
+
+### 📰 [Robotics](robotics.md)
+** – 1 articles
 
 ### 💎 [Rockchip](rockchip.md)
-*Rockchip processors and SBCs* – 2 articles
+*Rockchip processors and SBCs* – 1 articles
+
+### 📰 [Rust](rust.md)
+** – 1 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing* – 30 articles
+*Chip manufacturing* – 33 articles
 
 ### 📈 [Trends](trends.md)
-*Industry trends* – 12 articles
+*Industry trends* – 14 articles
 
 ---
 
 ## 📅 About This Digest
 
-Generated on 2026-01-17 at 11:52 using AI-powered ranking and curation with Groq API.
+Generated on 2026-01-25 at 11:22 using AI-powered ranking and curation with Groq API.
 
 Articles are scored on a 0-10 importance scale based on:
 - Industry impact and significance

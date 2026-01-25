@@ -1,7 +1,7 @@
-# 📰 RISC-V Weekly Report
+# 📰 Rust Weekly Report
 **Week of January 25, 2026**
 
-*RISC-V*
+*Rust*
 
 ---
 
@@ -21,7 +21,7 @@
 
 FOSDEM 2026 will take place on January 31-February 1, with thousands of developers meeting in Brussels to discuss open-source software & hardware projects.
 
-💡 *FOSDEM 2026 brings together thousands of developers to discuss open-source software and hardware projects.*
+💡 *Thousands of developers will gather to discuss open-source software & hardware projects at FOSDEM 2026.*
 
 🔗 [Read More](https://www.cnx-software.com/2026/01/24/fosdem-2026-schedule-embedded-risc-v-robotics-rust-open-hardware/)
 

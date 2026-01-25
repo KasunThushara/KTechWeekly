@@ -1,145 +1,165 @@
 # 📈 Trends Weekly Report
-**Week of January 17, 2026**
+**Week of January 25, 2026**
 
 *Industry trends*
 
 ---
 
 ## 📊 Summary
-- **Total Articles:** 12
-- **High Priority:** 9 articles (score ≥7)
-- **Average Importance:** 7.2/10
-- **Report Generated:** 2026-01-17 11:52
+- **Total Articles:** 14
+- **High Priority:** 12 articles (score ≥7)
+- **Average Importance:** 7.4/10
+- **Report Generated:** 2026-01-25 11:22
 
 ---
 
 ## 🌟 Top Stories
 
-### 1. Many high-capacity NVMe SSDs are now as expensive as gold by weight as shortage intensifies we ran the numbers, here's what we found ⭐⭐
+### 1. Zotac reportedly cancels GPU orders and raises MSRP by $200 or more across the board the company blames 'system error' for cancellations ⭐⭐
 
 **Importance:** 8/10
 
-High-capacity NVMe SSDs are becoming pricier than their gold weight due to a shortage.
+Zotac is reportedly canceling GPU orders and increasing prices by $200 or more across its Nvidia RTX GPUs, blaming a 'system error' for the cancellations.
 
-💡 *High-capacity NVMe SSD prices are skyrocketing due to a severe industry-wide shortage.*
+💡 *Zotac's price hike and order cancellations may disrupt the already tight GPU market and impact consumers.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/storage/high-capacity-nvme-ssds-are-quickly-becoming-as-expensive-as-gold-by-weight-we-ran-the-figures-heres-what-we-found)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/zotac-reportedly-cancels-gpu-orders-and-raises-msrp-by-usd200-or-more-across-the-board-the-company-blames-system-error-for-cancellations)
 
 ---
 
-### 2. Analyzing Washington's new AI accelerator export rules  smaller manufacturers suffer while Nvidia and AMD will reap the rewards ⭐⭐
+### 2. China reveals 200-strong AI drone swarm that can be controlled by a single soldier ⭐⭐
 
 **Importance:** 8/10
 
-The U.S. introduces new export rules for AI and HPC accelerators, allowing shipments of AMD's and Nvidia's GPUs to China if their developers meet American customer demands and Department of Commerce requirements.
+The People's Liberation Army revealed its latest drone swarm tech with 200 units that's resistant to jamming, can make autonomous decisions, and is controlled by a single soldier.
 
-💡 *The new rules create a competitive advantage for Nvidia and AMD over smaller manufacturers in the AI accelerator export market.*
+💡 *China's 200-strong AI drone swarm could significantly increase military drone capabilities and operational efficiency.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/analyzing-washingtons-new-ai-accelerator-export-rules-smaller-manufacturers-suffer-while-nvidia-and-amd-will-reap-the-rewards)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/china-reveals-200-strong-drone-swarm-uses-intelligent-algorithm-to-allow-individual-units-to-cooperate-autonomously-even-after-losing-communication-with-operator)
 
 ---
 
-### 3. AI chip design is pushing advanced chip packaging to its limits  workarounds exist for limits of 2.5D packaging, but are years away from viability ⭐⭐
+### 3. Alibaba plans IPO for chip-arm T-Head to help bankroll ambitious AI infrastructure investments ⭐⭐
 
 **Importance:** 8/10
 
-Advanced chip design is moving away from the transistor and toward the package as AI accelerators and HPC devices grow larger and more complex.
+Alibaba's chip manufacturing business, T-head, is preparing to IPO to raise capital for its domestic AI accelerator solutions and fund infrastructure projects.
 
-💡 *AI chip design is pushing traditional packaging to its limits, requiring innovative workarounds.*
+💡 *Alibaba's T-Head IPO aims to fund domestic AI infrastructure investments and solutions.*
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-design-is-pushing-2-5d-packaging-to-its-limits)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/alibaba-plans-ipo-for-chip-arm-t-head-to-help-bankroll-ambitious-ai-infrastructure-investments-company-to-go-up-against-cambricon-and-huawei-to-capture-domestic-accelerator-market)
 
 ---
 
 ## 📰 Other Stories
 
-### 4. Seagate launches three new 32 TB hard drives across its product lines, all using CMR tech ⭐⭐
+### 4. Toilet maker Toto scores a royal flush as share price rises due to AI demand in unlikely chipmaking side-gig ⭐⭐
 
-**Score:** 8/10 | Seagate has released three new 32 TB hard drives across its product families, starting at $699.99 and having transfer speeds of up to 285 MB/s.
+**Score:** 8/10 | Toilet manufacturer Toto's shares have soared rapidly, driven by the AI memory market.
 
-💡 *Seagate now offers high-capacity 32 TB hard drives across its product lines at affordable prices.*
+💡 *Toto's unexpected foray into AI chipmaking boosts share price with promising market demand.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/hdds/seagate-launches-three-new-32-tb-hard-drives-across-its-product-lines-all-using-cmr-tech-skyhawk-ai-drive-starts-from-usd699-flagship-exos-at-usd849)
-
----
-
-### 5. AMD's next-gen Ryzen AI 400 laptops could launch on January 22, five days ahead of Panther Lake Gorgon Point release date leaks through early Asus listing in China ⭐⭐
-
-**Score:** 8/10 | AMD's Ryzen AI 400 series laptops are reportedly launching on January 22, 2026, five days ahead of the expected Panther Lake Gorgon Point release. The laptops will feature the Ryzen AI 7 445 processor. The news comes from an early Asus listing in China.
-
-💡 *AMD's Ryzen AI 400 laptops are reportedly launching ahead of Intel's Panther Lake Gorgon Point release.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amds-next-gen-ryzen-ai-400-laptops-could-launch-on-january-22-five-days-ahead-of-panther-lake-gorgon-point-release-date-leaks-through-early-asus-listing-in-china)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/toilet-maker-toto-scores-a-royal-flush-as-share-price-rises-due-to-ai-demand-in-unlikely-chipmaking-side-gig-japanese-company-develops-electrostatic-chucks-to-hold-silicon-wafers-in-lucrative-segment)
 
 ---
 
-### 6. XIAO ESP32-C5  A tiny USB-C IoT board with dual-band WiFi 6, Bluetooth 5.0 LE, Zigbee, and Thread connectivity ⭐⭐
+### 5. AMD's next gaming champ to debut at $499, and you can already buy it ahead of launch ⭐⭐
 
-**Score:** 8/10 | Seeed Studio has introduced the XIAO ESP32-C5, a tiny USB-C IoT board featuring dual-band WiFi 6, Bluetooth 5.0 LE, Zigbee, and Thread connectivity. It offers improved specifications compared to its predecessor, including a higher clock speed and increased memory. The board is suitable for IoT projects and products.
+**Score:** 8/10 | AMD has confirmed that the Ryzen 7 9850X3D will hit retail on January 29 at an MSRP of $499, which is $30 more expensive than the Ryzen 7 9800X3D.
 
-💡 *Seeed Studio has introduced the XIAO ESP32-C5, a compact, feature-rich IoT board for various applications.*
+💡 *AMD's Ryzen 7 9850X3D will debut at $499, slightly higher than its predecessor.*
 
-🔗 [Read More](https://www.cnx-software.com/2026/01/16/xiao-esp32-c5-a-tiny-usb-c-iot-board-with-dual-band-wifi-6-bluetooth-5-0-le-zigbee-and-thread-connectivity/)
-
----
-
-### 7. Compex Wi-Fi 7 Dual-Band Dual-Concurrent Modules:  High-Performance Solutions for Next-Gen Connectivity (Sponsored) ⭐⭐
-
-**Score:** 8/10 | Compex has introduced a family of Wi-Fi 7 modules to support various band combinations, form factors, and deployment scenarios. The modules are powered by Qualcomm's QCN6224, QCN6274, and QCN9274 Waikiki radio chipsets and support advanced Wi-Fi 7 functions. They are available in standard MiniPCIe and M.2 E-Key form factors.
-
-💡 *Compex introduces Wi-Fi 7 modules backed by Qualcomm's Waikiki chipsets for high-performance connectivity.*
-
-🔗 [Read More](https://www.cnx-software.com/2026/01/13/compex-wi-fi-7-dual-band-dual-concurrent-modules-high-performance-solutions-for-next-gen-connectivity/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amds-next-gaming-champ-to-debut-at-usd499-and-you-can-already-buy-it-ahead-of-launch-ryzen-7-9850x3d-is-usd20-more-expensive-than-the-ryzen-7-9800x3d)
 
 ---
 
-### 8. Hard drive prices have surged by an average of 46% since September   iconic 24TB Seagate BarraCuda now $500 as AI claims another victim ⭐⭐
+### 6. Xbox app is now available on all Arm-based Windows 11 devices ⭐⭐
 
-**Score:** 7/10 | New research indicates that hard drive prices have increased by an average of nearly 50% in the last four months.
+**Score:** 8/10 | Microsoft is making the Xbox app compatible with Arm-based processors, giving gamers more options for gaming laptops and handheld gaming PC consoles.
 
-💡 *Hard drive price surge impacts affordability and accessibility for consumers and industries reliant on storage.*
+💡 *Gamers now have more options for gaming laptops and handheld gaming PCs with the Xbox app's Arm compatibility.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/hdds/hard-drive-prices-have-surged-by-an-average-of-46-percent-since-september-iconic-24tb-seagate-barracuda-now-usd500-as-ai-claims-another-victim)
-
----
-
-### 9. Steam Machine to have fewer 'Verified' badge constraints ⭐⭐
-
-**Score:** 7/10 | Valve says 'Verified on Steam Deck' games will work well on the Steam Machine, providing a large number of titles that will run smoothly on launch.
-
-💡 *Valve's 'Verified on Steam Deck' badge will loosen Steam Machine compatibility constraints at launch.*
-
-🔗 [Read More](https://www.tomshardware.com/video-games/console-gaming/steam-machine-to-have-fewer-verified-badge-constraints-valve-says-verified-on-steam-deck-titles-expected-to-run-smoothly-on-upcoming-pc-console)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/xbox-app-is-now-available-on-all-arm-based-windows-11-devices-microsoft-says-more-than-85-percent-of-game-pass-catalog-is-compatible-with-these-pcs)
 
 ---
 
-### 10. Newegg bucks the trend by offering a $50 discount on 16GB of DDR5-6000 RAM   limited time deal on the cheapest kit you can buy 
+### 7. This absurdly fast five-star 540Hz ROG Swift OLED gaming monitor is now available for pre-order ⭐⭐
 
-**Score:** 6/10 | Newegg is offering a $50 discount on 16GB of TeamGroup DDR5-6000 RAM with a limited time deal.
+**Score:** 8/10 | The Asus ROG Swift OLED PG27AQWP-W gaming monitor is now available for pre-order, featuring a 27-inch QHD panel with 1500 nits of peak brightness and a 720Hz mode.
 
-💡 *Newegg offers a rare discount on high-performance DDR5 RAM, making it more accessible to consumers.*
+💡 *The Asus ROG Swift OLED gaming monitor offers an exceptionally fast 720Hz refresh rate.*
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ddr5/newegg-bucks-the-trend-by-offering-a-usd50-discount-on-16gb-of-ddr5-6000-ram-limited-time-deal-on-the-cheapest-kit-you-can-buy)
-
----
-
-### 11. Gigabyte CEO explains Nvidia's potential GPU supply strategy amid crushing memory shortages 
-
-**Score:** 6/10 | Gigabyte CEO Eddie Lin says revenue per gigabyte of GDDR7 memory on Nvidia graphics cards will decide which products thrive and face shortages in 2026.
-
-💡 *Eddie Lin states that Nvidia's 2026 GPU supply strategy hinges on GDDR7 memory pricing.*
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/gigabyte-ceo-explains-nvidias-potential-gpu-supply-strategy-amid-crushing-memory-shortages-gross-revenue-per-gigabyte-of-gddr7-memory-could-decide-what-products-thrive)
+🔗 [Read More](https://www.tomshardware.com/monitors/this-absurdly-fast-five-star-540hz-rog-swift-oled-gaming-monitor-is-now-available-for-pre-order-27-inch-qhd-panel-packs-eye-searing-1500-nits-of-peak-brightness-and-720hz-mode)
 
 ---
 
-### 12. Examining DDR4 PC build options in 2026 
+### 8. TerraMaster D1 SSD Pro A Thunderbolt 5 fanless SSD enclosure with 80Gbps bandwidth, 7GB/s practical performance ⭐⭐
 
-**Score:** 5/10 | Building a PC with DDR4 is a cost-effective option, offering great performance, especially when using existing RAM.
+**Score:** 8/10 | TerraMaster has launched the D1 SSD Pro, a Thunderbolt 5 fanless enclosure with 80Gbps bandwidth, supporting M.2 2280 NVMe SSDs up to 8TB capacity. It features a fanless, CNC-machined aluminum design and offers compatibility with various systems. This enclosure is suited for applications that require real-time editing, ultra-fast transfers, and reliable external storage.
 
-💡 *DDR4 PC builds remain a cost-effective option for those with existing RAM and moderate performance needs.*
+💡 *TerraMaster introduces a fanless Thunderbolt 5 enclosure for ultra-fast NVMe SSD storage.*
 
-🔗 [Read More](https://www.tomshardware.com/desktops/pc-building/examining-ddr4-pc-build-options-in-2026-with-high-ddr5-prices-a-pc-build-with-ddr4-is-worth-considering-especially-if-you-have-ram-you-can-carry-over-from-a-previous-build)
+🔗 [Read More](https://www.cnx-software.com/2026/01/22/terramaster-d1-ssd-pro-a-thunderbolt-5-fanless-ssd-enclosure-with-80gbps-bandwidth-7gb-s-practical-performance/)
+
+---
+
+### 9. Tablet-like, ESP32-P4-based 7, 8, and 10.1-inch HMI displays integrate Wi-Fi 6 connectivity, 5MP camera ⭐⭐
+
+**Score:** 8/10 | Waveshare has released a family of ESP32-P4-based HMI display development boards with 7, 8, and 10.1-inch configurations, featuring Wi-Fi 6 connectivity, a 5MP camera, and various I/Os.
+
+💡 *Waveshare's ESP32-P4-based HMI displays bring Wi-Fi 6, camera, and I/O capabilities to IoT projects.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/17/tablet-like-esp32-p4-based-7-8-and-10-1-inch-hmi-displays-integrate-wi-fi-6-connectivity-5mp-camera/)
+
+---
+
+### 10. The End of the AI Toy Era: YouWare Launches YouBase to Deliver Production-Ready Business Tools (Sponsored) ⭐⭐
+
+**Score:** 8/10 | YouWare's YouBase is a production-ready engine that offers a missing link for enterprises looking to leverage AI for full-stack development, overcoming the limitations of AI-coding tools that generate 'digital toys' rather than scalable business tools.
+
+💡 *YouWare's YouBase bridges the gap between AI-coding tools and production-ready business solutions.*
+
+🔗 [Read More](https://www.cnx-software.com/2026/01/16/the-end-of-the-ai-toy-era-youware-launches-youbase-to-deliver-production-ready-business-tools/)
+
+---
+
+### 11. Screen-ripping 300 Hz gaming monitor crashes to just $229, touts 1440p resolution and 1ms response time   save $220 on the LG 27-inch UltraGear 27G640A-B ⭐⭐
+
+**Score:** 7/10 | A 1440p UltraGear monitor with a 300 Hz refresh rate is available at a lower price, offering a 1ms response time.
+
+💡 *A high-end gaming monitor with a 300 Hz refresh rate is now available at a budget-friendly price.*
+
+🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/screen-ripping-300-hz-gaming-monitor-crashes-to-just-usd229-touts-1440p-resolution-and-1ms-response-time-save-usd220-on-the-lg-27-inch-ultragear-27g640a-b)
+
+---
+
+### 12. SSDs now cost 16x more than HDDs due to AI supply chain crisis hybrid SSD + HDD datacenter deployments are now significantly cheaper to deploy than SSD-only equivalents ⭐⭐
+
+**Score:** 7/10 | A new report reveals that enterprise SSDs now cost a whopping 16x more than hard drives.
+
+💡 *Enterprise SSDs now cost 16x more than hard drives due to AI supply chain crisis.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/storage/ssds-now-cost-16x-more-than-hdds-hybrid-ssd-hdd-datacenter-deployments-are-now-significantly-cheaper-to-deploy-than-ssd-only-equivalents)
+
+---
+
+### 13. Shopper walks out with a $4.99 Radeon RX 5700 XT GPU from Goodwill thrift stores are the hidden goldmines amid the AI-driven GPU crisis 
+
+**Score:** 5/10 | A shopper purchased a Radeon RX 5700 XT GPU for $4.99 from a Goodwill thrift store and revived it with basic maintenance for 1080p and 1440p gaming.
+
+💡 *A Goodwill thrift store GPU find highlights the potential for repurposing abandoned, affordable hardware.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/shopper-walks-out-with-a-usd4-99-radeon-rx-5700-xt-gpu-from-goodwill-thrift-stores-are-the-hidden-goldmines-amid-the-ai-driven-gpu-crisis)
+
+---
+
+### 14. Our favorite gaming headset gets a 50% price cut for a limited time Razer's BlackShark V2 Pro (2023) drops to $100 
+
+**Score:** 5/10 | Razer's BlackShark V2 Pro gaming headset has received a significant price cut, dropping to $100 for a limited time.
+
+💡 *Razer's BlackShark V2 Pro gaming headset now offers premium sound at an affordable price point.*
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/our-favorite-headset-of-2026-the-razer-blackshark-v2-pro-2023-gaming-headset-is-50-percent-off-for-a-limited-time)
 
 ---
 
