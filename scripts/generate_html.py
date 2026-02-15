@@ -17,15 +17,12 @@ HTML_DIR = PROJECT_ROOT / "docs"
 DATA_FILE = PROJECT_ROOT / "data" / "abstracted_articles.json"
 
 CATEGORY_INFO = {
-    "AI": {"emoji": "🤖", "description": "Artificial Intelligence developments"},
-    "Machine Learning": {"emoji": "🧠", "description": "ML algorithms and research"},
-    "NVIDIA": {"emoji": "🎮", "description": "NVIDIA hardware and GPUs"},
-    "Raspberry Pi": {"emoji": "🍓", "description": "Raspberry Pi projects"},
-    "Rockchip": {"emoji": "💎", "description": "Rockchip processors and SBCs"},
-    "Semiconductors": {"emoji": "⚡", "description": "Chip manufacturing"},
-    "Edge AI": {"emoji": "📡", "description": "AI on edge devices"},
-    "Hardware": {"emoji": "🔧", "description": "Hardware news and reviews"},
-    "Trends": {"emoji": "📈", "description": "Industry trends"}
+    "AI & Machine Learning": {"emoji": "🤖", "description": "..."},
+    "Hardware & SBCs": {"emoji": "💻", "description": "..."},
+    "GPUs & Accelerators": {"emoji": "🎮", "description": "..."},
+    "Semiconductors & Chips": {"emoji": "⚡", "description": "..."},
+    "Edge Computing": {"emoji": "📡", "description": "..."},
+    "Industry News": {"emoji": "📰", "description": "..."}
 }
 
 # Beautiful HTML template

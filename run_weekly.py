@@ -122,6 +122,42 @@ def check_for_new_articles():
         return True
 
 
+def clean_everything():
+    """Clean all old files before new generation."""
+    import shutil
+    from pathlib import Path
+
+    print("\n🧹 Cleaning old files...")
+
+    # 1. Delete ALL markdown reports
+    reports_dir = Path("weekly_reports")
+    if reports_dir.exists():
+        shutil.rmtree(reports_dir)
+        reports_dir.mkdir()
+        print("   ✓ Cleaned weekly_reports/")
+
+    # 2. Delete ALL HTML files (except keep docs folder)
+    docs_dir = Path("docs")
+    if docs_dir.exists():
+        for html_file in docs_dir.glob("*.html"):
+            html_file.unlink()
+        print("   ✓ Cleaned docs/*.html")
+
+    # 3. Delete processed data
+    data_files = [
+        "data/cleaned_articles.json",
+        "data/abstracted_articles.json",
+        "data/curated_articles.json",
+        "data/final_articles.json"
+    ]
+    for file in data_files:
+        if Path(file).exists():
+            Path(file).unlink()
+    print("   ✓ Cleaned processed data")
+
+    print("✅ All old files removed - fresh start!\n")
+
+
 def push_to_github(auto_push=False):
     """Push changes to GitHub."""
     print(f"\n{Colors.BLUE}{'=' * 70}")
@@ -203,7 +239,7 @@ def show_summary_stats():
 def main():
     """Main pipeline execution."""
     print_header()
-
+    clean_everything()
     start_time = datetime.now()
 
     # Parse arguments
@@ -222,11 +258,10 @@ def main():
 
     # Define pipeline steps
     steps = [
-        ("archive_manager.py", "Archive management (prevent duplication)", True),
-        ("fetch.py", "Fetch and filter articles with deduplication", True),
-        ("summary_tag.py", "AI summarization and tagging", True),
-        ("generate_reports.py", "Generate markdown reports with rankings", True),
-        ("generate_html.py", "Convert to HTML for GitHub Pages", True)
+        ("fetch.py", "Fetch and curate articles with agentic pipeline", True),
+        ("summarize.py", "AI enhancement of summaries", True),
+        ("generate_reports.py", "Generate markdown reports", True),
+        ("generate_html.py", "Convert to HTML", True)
     ]
 
     # Agentic Decision: Check if there are new articles after fetching
@@ -318,6 +353,7 @@ Environment Variables (set in .env file):
   GROQ_MODEL         Model to use (default: llama-3.1-8b-instant)
   REQUEST_DELAY      Delay between API calls (default: 2.0 seconds)
     """)
+
 
 
 if __name__ == "__main__":

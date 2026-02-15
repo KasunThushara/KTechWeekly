@@ -1,9 +1,0 @@
-[
-  {
-    "title": "Android 17 Beta 1 released with H.266/VVC support, camera improvements, and more",
-    "link": "https://www.cnx-software.com/2026/02/14/android-17-beta-1-released-with-h-266-vvc-support-camera-improvements-and-more/",
-    "summary": "Google has just announced the release of Android 17 Beta 1 with performance improvements, H.266/VVC video codec support, smoother camera mode transitions, privacy and security enhancements, and more. The company is not releasing Developer Previews anymore, and instead follows the continuous Canary channel announced with the first Android 16 Developer Preview. So, with Android 17, the very first release is the Beta 1 release. Some of the key changes in Android 17 so far: Developers can t opt out of orientation and resizability restrictions on large screen devices (sw > 600 dp), so they ll have to make sure their apps work on tablets, foldables, and desktop windowing environments. With one exception: apps categorized as games with android:appCategory flag. Google published a separate blog post about the change. Performance improvements and tools Lock-free MessageQueue that will reduce missed frames. Added Generational garbage collection to ART s Concurrent Mark-Compact collector. This aims to reduce [...] The post Android 17 Beta 1 released with H.266/VVC support, camera improvements, and more appeared first on CNX Software - Embedded Systems News .",
-    "relevance_score": 20,
-    "fetched_date": "2026-02-15T11:52:58.108935"
-  }
-]

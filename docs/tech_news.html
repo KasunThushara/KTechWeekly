@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech News - Tech Weekly Digest</title>
+    <meta name="description" content="Latest Tech News news and updates">
+    <meta property="og:title" content="Tech News">
+    <meta property="og:description" content="Latest Tech News news and updates">
+
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #7c3aed;
+            --accent: #10b981;
+            --text: #1f2937;
+            --text-light: #6b7280;
+            --bg: #ffffff;
+            --bg-secondary: #f9fafb;
+            --border: #e5e7eb;
+            --shadow: rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 40px 20px;
+            margin-bottom: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px var(--shadow);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.95;
+        }
+
+        /* Navigation */
+        nav {
+            background: var(--bg-secondary);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+
+        nav a:hover {
+            background: var(--primary);
+            color: white;
+        }
+
+        /* Content */
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px var(--shadow);
+        }
+
+        /* Typography */
+        h1, h2, h3, h4 {
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        h1 { font-size: 2.2rem; margin-top: 0; }
+        h2 { 
+            font-size: 1.8rem; 
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        h3 { font-size: 1.4rem; color: var(--primary); }
+        h4 { font-size: 1.1rem; }
+
+        p {
+            margin-bottom: 15px;
+            color: var(--text);
+        }
+
+        a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 15px 0 15px 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            box-shadow: 0 2px 5px var(--shadow);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        tr:hover {
+            background: var(--bg-secondary);
+        }
+
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            border-top: 2px solid var(--border);
+            margin: 40px 0;
+        }
+
+        /* Special Elements */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--primary);
+            color: white;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-right: 8px;
+        }
+
+        .insight {
+            background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+            border-left: 4px solid var(--primary);
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            font-style: italic;
+        }
+
+        .star {
+            color: #fbbf24;
+            font-size: 1.2rem;
+        }
+
+        /* Code blocks */
+        code {
+            background: var(--bg-secondary);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+
+        pre {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-light);
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+
+        footer a {
+            color: var(--primary);
+        }
+
+        .timestamp {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            margin-bottom: 10px;
+        }
+
+        /* Category cards */
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .category-card {
+            background: white;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s;
+            text-decoration: none;
+            color: var(--text);
+            display: block;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px var(--shadow);
+            border-color: var(--primary);
+        }
+
+        .category-card h3 {
+            margin-top: 0;
+            color: var(--primary);
+        }
+
+        .category-card .count {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin: 10px 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 1.8rem; }
+            .container { padding: 10px; }
+            nav { flex-direction: column; }
+            .content { padding: 20px; }
+            .category-grid { grid-template-columns: 1fr; }
+        }
+
+        /* Loading animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .content {
+            animation: fadeIn 0.5s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Tech Weekly Digest</h1>
+            <p class="subtitle">AI, Hardware & Edge Computing News</p>
+        </header>
+
+        <nav>
+            <a href="index.html">🏠 Home</a>
+            <a href="ai_and_ml.html">📰 Ai And Ml</a> <a href="weekly_master_report.html">📰 Full Digest</a> <a href="gpus.html">📰 Gpus</a> <a href="hardware.html">📰 Hardware</a> <a href="semiconductors.html">📰 Semiconductors</a> <a href="tech_news.html">📰 Tech News</a>
+        </nav>
+
+        <div class="content">
+            <h1>📰 Tech News</h1>
+<p><strong>Week of February 15, 2026</strong></p>
+<p><em>Industry news and product launches</em></p>
+<hr />
+<h2>📊 Summary</h2>
+<ul>
+<li><strong>Articles this week:</strong> 17</li>
+<li><strong>Report generated:</strong> 2026-02-15 21:13</li>
+</ul>
+<hr />
+<h2>📰 This Week's Articles</h2>
+<h3>1. Android 17 Beta 1 released with H.266/VVC support, camera improvements, and more ⭐</h3>
+<p>Android 17 Beta 1 is released with performance improvements, H.266/VVC support, and camera enhancements. This marks a change from previous Developer Previews, with the first release now being the Beta 1 version. The update also includes restrictions on large screen devices.</p>
+<p>💡 <em>Android 17 prioritizes performance and tablet compatibility above app flexibility.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/14/android-17-beta-1-released-with-h-266-vvc-support-camera-improvements-and-more/">Read Full Article</a></p>
+<hr />
+<h3>2. Steam to add hardware specs to reviews optional feature could help you dodge poorly optimized games ⭐</h3>
+<p>Steam is introducing an optional feature to display hardware specs in reviews, allowing users to consider the reviewer's hardware when reading feedback. This feature aims to provide more context to other players considering a title. Valve emphasizes that this feature remains optional for users.</p>
+<p>💡 <em>Users can dodge poorly optimized games by considering reviewer's hardware specs.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/video-games/pc-gaming/steam-to-add-hardware-specs-to-reviews-optional-feature-could-help-you-dodge-poorly-optimized-games">Read Full Article</a></p>
+<hr />
+<h3>3. Creality Falcon A1 Pro Review An easy-to-use, fully enclosed 20W laser engraver with a built-in HD camera ⭐</h3>
+<p>The Creality Falcon A1 Pro is a user-friendly, fully enclosed laser engraver with a 20W blue laser and built-in HD camera, capable of engraving and cutting various materials at high speeds and precision.</p>
+<p>💡 <em>Enhanced precision and safety features for DIY laser engraving enthusiasts.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/15/creality-falcon-a1-pro-review-an-easy-to-use-fully-enclosed-20w-laser-engraver-with-a-built-in-hd-camera/">Read Full Article</a></p>
+<hr />
+<h3>4. DXRacer Martian Pro Red Triangle review: Built for the fans</h3>
+<p>The DXRacer Martian Pro is a feature-packed gaming chair with a premium price. It offers a comfortable and customizable experience, making it suitable for gaming enthusiasts. However, its high cost may be a barrier for some users.</p>
+<p>💡 <em>Premium gaming chairs cater to enthusiasts' high expectations and budgets.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/peripherals/gaming-chairs/dxracer-martian-pro-red-triangle-review">Read Full Article</a></p>
+<hr />
+<h3>5. Cloud storage company releases its 2025 hard drive reliability report overall Annualized Failure Rate drops to 1.36%, 21 percentage points lower than last year</h3>
+<p>Backblaze's 2025 hard drive reliability report shows a 1.36% annualized failure rate, a 21 percentage points decrease from the previous year, marking its best result since 2022.</p>
+<p>💡 <em>Improved hard drive reliability reduces data loss and storage costs significantly.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/hdds/cloud-storage-company-releases-its-2025-hard-drive-reliability-report-overall-annualized-failure-rate-drops-to-1-36-percent-21-percentage-points-lower-than-last-year">Read Full Article</a></p>
+<hr />
+<h3>6. ENIAC, the world s first general-purpose digital computer, turns 80 years old today legendary hulking machine was 1,000x faster than its nearest rival</h3>
+<p>ENIAC, the world's first general-purpose digital computer, was unveiled in 1946. It was 1,000 times faster than its nearest rival.</p>
+<p>💡 <em>Pioneering innovation set the stage for modern computing and technology advancements.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/eniac-the-worlds-first-general-purpose-digital-computer-turns-80-years-old-today-legendary-hulking-machine-was-1-000x-faster-than-its-nearest-rival">Read Full Article</a></p>
+<hr />
+<h3>7. WD Green SN3000 1TB SSD Review: A diamond in the rough</h3>
+<p>The WD Green SN3000 SSD surpasses expectations with its impressive performance, challenging the notion that value-oriented drives must sacrifice speed for affordability.</p>
+<p>💡 <em>Budget-friendly drives can offer exceptional performance without sacrificing quality.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/ssds/wd-green-sn3000-1tb-ssd-review">Read Full Article</a></p>
+<hr />
+<h3>8. OpenAI launches GPT-5.3-Codex-Spark on Cerebras chips marks AI giants first production deployment away from Nvidia</h3>
+<p>OpenAI has released GPT-5.3-Codex-Spark on Cerebras chips, its first non-Nvidia production deployment.</p>
+<p>💡 <em>Diversification of AI hardware reduces reliance on single vendor.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-lauches-gpt-53-codes-spark-on-cerebras-chips">Read Full Article</a></p>
+<hr />
+<h3>9. SlimeVR Butterfly Trackers nRF52833-based, ultra-slim, full-body VR trackers offer up to 48h battery life (Crowdfunding)</h3>
+<p>The SlimeVR Butterfly Trackers offer ultra-slim, full-body VR tracking with up to 48 hours of battery life, using a custom 2.4 GHz ESB protocol and Nordic Semi's nRF52833 wireless MCU.</p>
+<p>💡 <em>Wireless, self-contained VR tracking eliminates base station and camera dependency.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/12/slimevr-butterfly-trackers-nrf52833-based-ultra-slim-full-body-vr-trackers-offer-up-to-48h-battery-life/">Read Full Article</a></p>
+<hr />
+<h3>10. Open Stack standalone 4G LTE IoT board runs RTOS on Quectel EC200U LTE module (Crowdfunding)</h3>
+<p>Open Stack is a standalone 4G LTE IoT board that runs RTOS directly on the Quectel EC200U series LTE module, reducing power consumption, BOM cost, and physical footprint. It supports multi-band LTE, GNSS, Bluetooth, and various networking protocols. The board is suitable for various IoT applications without additional controller hardware.</p>
+<p>💡 <em>Simplifies IoT development with integrated LTE module and RTOS</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/11/open-stack-standalone-4g-lte-iot-board-runs-rtos-on-quectel-ec200-lte-module/">Read Full Article</a></p>
+<hr />
+<h3>11. Review of XIAO ePaper DIY Kit EE02 13.3-inch color E-Ink display with SenseCraft HMI and Arduino</h3>
+<p>The XIAO ePaper DIY Kit EE02 is a 13.3-inch color E-Ink display kit that combines an ESP32-S3 board with a Spectra 6 display, featuring Wi-Fi, Bluetooth, and a USB Type-C port. The kit supports SenseCraft HMI and Arduino platforms for development. It also includes a charging circuit and user buttons for added functionality.</p>
+<p>💡 <em>Combining ESP32-S3 with E-Ink display for IoT and wearable applications.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/05/review-of-xiao-epaper-diy-kit-ee02-13-3-inch-color-e-ink-display-with-sensecraft-hmi-and-arduino/">Read Full Article</a></p>
+<hr />
+<h3>12. MakerWorld launches Copyright Protection Program to help 3D designers fight stolen files being resold online stamping out knockoffs is priority number one</h3>
+<p>MakerWorld launches a free copyright protection program for exclusive designs. This service will combat intellectual property infringement on any online platform. The program aims to prevent knockoffs and protect creators.</p>
+<p>💡 <em>Protecting creators' rights prevents widespread counterfeiting and lost revenue.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/3d-printing/makerworld-launches-copyright-protection-program-to-help-3d-designers-tackle-knockoffs">Read Full Article</a></p>
+<hr />
+<h3>13. Weathr app turns the Linux terminal into a live weather display background ASCII animated real-time weather show is powered by Open-Meteo</h3>
+<p>Weathr app transforms the Linux terminal into a dynamic, real-time weather display using Open-Meteo's API, creating a mesmerizing ASCII art animation experience.</p>
+<p>💡 <em>Enhanced terminal experience with immersive, real-time weather visualizations.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/software/linux/weathr-turns-the-linux-terminal-into-a-live-weather-app-background-ascii-animated-real-time-weather-show-is-powered-by-open-meteo">Read Full Article</a></p>
+<hr />
+<h3>14. 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes home fiber rollouts may slow, and installations could become more expensive</h3>
+<p>A 7-fold increase in DRAM costs is driving up prices for ISP-provided routers, gateways, and set-top boxes, potentially slowing home fiber rollouts and increasing installation costs.</p>
+<p>💡 <em>Rising DRAM costs threaten to inflate ISP equipment expenses significantly.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/networking/routers/isp-provided-routers-gateways-and-set-top-boxes-face-price-increases-due-to-7x-uplift-in-memory-costs-home-fiber-rollouts-may-slow-and-installations-could-become-more-expensive">Read Full Article</a></p>
+<hr />
+<h3>15. In a blind test, audiophiles couldn't tell the difference between audio signals sent through copper wire, a banana, or wet mud 'The mud should sound perfectly awful, but it doesn't,' notes the experiment creator</h3>
+<p>Audiophiles couldn't distinguish between audio signals sent through copper, banana, or wet mud. The experiment challenged the conventional wisdom on high-quality audio transmission. The results suggested that audio signal quality is often overemphasized.</p>
+<p>💡 <em>Electrical properties, not material, determine quality of audio transmission</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator">Read Full Article</a></p>
+<hr />
+<h3>16. Twitch streamer uses electrodes to manipulate balance using electricity can be used to control a real-life human being with an Xbox controller or joystick, simulate racing game G-force</h3>
+<p>Twitch streamer Perri Karyal uses electrodes to simulate G-forces, altering her balance. This device is used for Galvanic Vestibular Stimulation (GVS) in gaming. It can also be used to control a human being with a controller.</p>
+<p>💡 <em>Electrical stimulation can be used to control human movement</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/maker-stem/twitch-streamer-uses-electrodes-to-manipulate-balance-using-electricity-can-be-used-to-control-a-real-life-human-being-with-an-xbox-controller-or-joystick-simulate-racing-game-g-force">Read Full Article</a></p>
+<hr />
+<h3>17. The Steam Deck is sold out, but the SteamOS-powered Legion Go S is still available for $50 off get Lenovo's handheld for $599</h3>
+<p>Lenovo's Legion Go S offers better performance without Windows overhead, undercutting its original price with a limited-time $50 deal, making it available for $599.</p>
+<p>💡 <em>SteamOS alternative offers better gaming performance at lower cost.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/the-steam-deck-is-sold-out-but-the-steamos-powered-legion-go-s-is-still-available-for-usd50-off-get-lenovos-handheld-for-usd599">Read Full Article</a></p>
+<hr />
+        </div>
+
+        <footer>
+            <p class="timestamp">Generated on February 15, 2026 at 21:13 UTC</p>
+            <p>Powered by AI-driven content curation with Ollama</p>
+            <p><a href="https://github.com/yourusername/tech-weekly-digest" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+</body>
+</html>

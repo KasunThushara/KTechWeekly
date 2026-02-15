@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ai And Ml - Tech Weekly Digest</title>
+    <meta name="description" content="Latest Ai And Ml news and updates">
+    <meta property="og:title" content="Ai And Ml">
+    <meta property="og:description" content="Latest Ai And Ml news and updates">
+
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #7c3aed;
+            --accent: #10b981;
+            --text: #1f2937;
+            --text-light: #6b7280;
+            --bg: #ffffff;
+            --bg-secondary: #f9fafb;
+            --border: #e5e7eb;
+            --shadow: rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 40px 20px;
+            margin-bottom: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px var(--shadow);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.95;
+        }
+
+        /* Navigation */
+        nav {
+            background: var(--bg-secondary);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+
+        nav a:hover {
+            background: var(--primary);
+            color: white;
+        }
+
+        /* Content */
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px var(--shadow);
+        }
+
+        /* Typography */
+        h1, h2, h3, h4 {
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        h1 { font-size: 2.2rem; margin-top: 0; }
+        h2 { 
+            font-size: 1.8rem; 
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        h3 { font-size: 1.4rem; color: var(--primary); }
+        h4 { font-size: 1.1rem; }
+
+        p {
+            margin-bottom: 15px;
+            color: var(--text);
+        }
+
+        a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 15px 0 15px 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            box-shadow: 0 2px 5px var(--shadow);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        tr:hover {
+            background: var(--bg-secondary);
+        }
+
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            border-top: 2px solid var(--border);
+            margin: 40px 0;
+        }
+
+        /* Special Elements */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--primary);
+            color: white;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-right: 8px;
+        }
+
+        .insight {
+            background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+            border-left: 4px solid var(--primary);
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            font-style: italic;
+        }
+
+        .star {
+            color: #fbbf24;
+            font-size: 1.2rem;
+        }
+
+        /* Code blocks */
+        code {
+            background: var(--bg-secondary);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+
+        pre {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-light);
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+
+        footer a {
+            color: var(--primary);
+        }
+
+        .timestamp {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            margin-bottom: 10px;
+        }
+
+        /* Category cards */
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .category-card {
+            background: white;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s;
+            text-decoration: none;
+            color: var(--text);
+            display: block;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px var(--shadow);
+            border-color: var(--primary);
+        }
+
+        .category-card h3 {
+            margin-top: 0;
+            color: var(--primary);
+        }
+
+        .category-card .count {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin: 10px 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 1.8rem; }
+            .container { padding: 10px; }
+            nav { flex-direction: column; }
+            .content { padding: 20px; }
+            .category-grid { grid-template-columns: 1fr; }
+        }
+
+        /* Loading animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .content {
+            animation: fadeIn 0.5s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Tech Weekly Digest</h1>
+            <p class="subtitle">AI, Hardware & Edge Computing News</p>
+        </header>
+
+        <nav>
+            <a href="index.html">🏠 Home</a>
+            <a href="ai_and_ml.html">📰 Ai And Ml</a> <a href="weekly_master_report.html">📰 Full Digest</a> <a href="gpus.html">📰 Gpus</a> <a href="hardware.html">📰 Hardware</a> <a href="semiconductors.html">📰 Semiconductors</a> <a href="tech_news.html">📰 Tech News</a>
+        </nav>
+
+        <div class="content">
+            <h1>🤖 AI &amp; ML</h1>
+<p><strong>Week of February 15, 2026</strong></p>
+<p><em>Artificial Intelligence and Machine Learning</em></p>
+<hr />
+<h2>📊 Summary</h2>
+<ul>
+<li><strong>Articles this week:</strong> 34</li>
+<li><strong>Report generated:</strong> 2026-02-15 21:13</li>
+</ul>
+<hr />
+<h2>📰 This Week's Articles</h2>
+<h3>1. Asus ROG Crosshair X870E Dark Hero Motherboard Review ⭐</h3>
+<p>Asus ROG Crosshair X870E Dark Hero is a high-end AMD motherboard with top-notch features and an all-black aesthetic.</p>
+<p>💡 <em>Premium AMD motherboard offers solid performance and sleek design options.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/motherboards/asus-rog-crosshair-x870e-dark-hero-motherboard-review">Read Full Article</a></p>
+<hr />
+<h3>2. Linux 6.19 Release Main changes, Arm, RISC-V, and MIPS architectures ⭐</h3>
+<p>Linux 6.19 has been released with expected changes and no major surprises. The next kernel will be worked on with over 30 pull requests. Users outside the US may consider trying out the new kernel.</p>
+<p>💡 <em>Linux 6.19 brings expected updates to various architectures smoothly.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/09/linux-6-19-release-main-changes-arm-risc-v-and-mips-architectures/">Read Full Article</a></p>
+<hr />
+<h3>3. $199+ M5Stack AI Pyramid Computing Box Linux AI mini PC is based on Axera AX8850 SoC ⭐</h3>
+<p>M5Stack AI Pyramid Computing Box is an AI mini PC with an Axera AX8850 SoC, providing 24 TOPS NPU performance, 4GB or 8GB RAM, and multiple I/O options for Edge AI applications.</p>
+<p>💡 <em>Edge AI computing platform for systems and applications</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/06/199-m5stack-ai-pyramid-computing-box-linux-ai-mini-pc-is-based-on-axera-ax8850-soc/">Read Full Article</a></p>
+<hr />
+<h3>4. Microsoft s AI boss says AI can replace every white-collar job in 18 months We re going to have a human-level performance on most, if not all, professional tasks</h3>
+<p>Microsoft's AI CEO claims AI models will replace humans in white-collar jobs within 18 months, achieving human-level performance in various professional tasks.</p>
+<p>💡 <em>Mass automation of white-collar jobs is near, reshaping industries dramatically.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/microsofts-ai-boss-says-ai-can-replace-every-white-collar-job-in-18-months-were-going-to-have-a-human-level-performance-on-most-if-not-all-professional-tasks">Read Full Article</a></p>
+<hr />
+<h3>5. M5Stack AI Pyramid charms with translucent, RGB infused tetrahedral shell and $199 price tag but it is far more of an edge-AI appliance than a mini-PC</h3>
+<p>M5Stack's AI Pyramid Computing Box is a mini-PC with a unique, RGB-infused design.</p>
+<p>💡 <em>Edge-AI appliance brings AI capabilities to IoT devices at an affordable price.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/desktops/mini-pcs/m5stack-ai-pyramid-charms-with-translucent-rgb-infused-tetrahedral-shell-and-usd199-price-tag-but-it-is-far-more-of-an-edge-ai-appliance-than-a-mini-pc">Read Full Article</a></p>
+<hr />
+<h3>6. Cloud storage company releases its 2025 hard drive reliability report overall Annualized Failure Rate drops to 1.36%, 21 percentage points lower than last year</h3>
+<p>Backblaze's 2025 hard drive reliability report shows a 1.36% annualized failure rate, a 21 percentage points decrease from the previous year, marking its best result since 2022.</p>
+<p>💡 <em>Improved hard drive reliability reduces data loss and storage costs significantly.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/hdds/cloud-storage-company-releases-its-2025-hard-drive-reliability-report-overall-annualized-failure-rate-drops-to-1-36-percent-21-percentage-points-lower-than-last-year">Read Full Article</a></p>
+<hr />
+<h3>7. Framework's latest update brings more bad news about memory and storage pricing crisis RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers</h3>
+<p>Framework updated its laptop RAM prices to $12-$16 per GB, affecting DIY customers. The company will release a monthly update to monitor memory chip prices and maintain prices close to the weighted average cost. It recommends purchasing some models from alternative sources.</p>
+<p>💡 <em>RAM prices surge for Framework Laptop DIY Edition customers</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/laptops/framework-releases-monthly-update-about-memory-and-storage-pricing-woes-ram-costs-increased-to-usd12-to-usd16-per-gb-recommends-purchasing-some-models-elsewhere-for-framework-laptop-diy-edition-customers">Read Full Article</a></p>
+<hr />
+<h3>8. OpenAI launches GPT-5.3-Codex-Spark on Cerebras chips marks AI giants first production deployment away from Nvidia</h3>
+<p>OpenAI has released GPT-5.3-Codex-Spark on Cerebras chips, its first non-Nvidia production deployment.</p>
+<p>💡 <em>Diversification of AI hardware reduces reliance on single vendor.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-lauches-gpt-53-codes-spark-on-cerebras-chips">Read Full Article</a></p>
+<hr />
+<h3>9. Tachyum forced to shutter R&amp;D office due to unpaid rent, wages, and taxes firm still claims forthcoming Prodigy chip will have a 21x performance leap on Nvidia Rubin Ultra</h3>
+<p>Tachyum, a semiconductor company, has been forced to shut down its R&amp;D office due to unpaid rent, wages, and taxes. Despite this setback, the firm claims its upcoming Prodigy chip will achieve a 21x performance increase over Nvidia's Rubin Ultra. The exact timeline for the Prodigy chip's release remains unclear.</p>
+<p>💡 <em>Financial instability undermines semiconductor firm's high-performance chip ambitions</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/semiconductors/tachyum-forced-to-shutter-r-and-d-office-due-to-unpaid-rent-wages-and-taxes-firm-still-claims-forthcoming-prodigy-chip-will-have-a-21x-performance-leap-on-nvidia-rubin-ultra">Read Full Article</a></p>
+<hr />
+<h3>10. STMicroelectronics Stellar P3E quad-core Arm Cortex-R52+ automotive MCU features Neural-ART AI accelerator</h3>
+<p>STMicroelectronics has introduced the Stellar P3E automotive MCU, featuring a Neural-ART AI accelerator and quad-core Arm Cortex-R52+ cores. The MCU simplifies Electronic Control Units (ECUs) by consolidating powertrain functions into a single module. It enables smart sensing, predictive maintenance, and virtual sensor applications.</p>
+<p>💡 <em>Enables AI-driven automotive functionality in a single, cost-effective MCU solution.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/13/stmicroelectronics-stellar-p3e-quad-core-arm-cortex-r52-automotive-mcu-features-neural-art-ai-accelerator/">Read Full Article</a></p>
+<hr />
+<h3>11. PicoClaw ultra-lightweight personal AI Assistant runs on just 10MB of RAM</h3>
+<p>PicoClaw is an ultra-lightweight AI assistant running on 10MB RAM, suitable for resource-constrained devices.</p>
+<p>💡 <em>Enabling AI on low-power, low-cost embedded boards for mass adoption.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/10/picoclaw-ultra-lightweight-personal-ai-assistant-run-on-just-10mb-of-ram/">Read Full Article</a></p>
+<hr />
+<h3>12. Texas Instruments unveils MSPM33C321A mixed-signal Cortex-M33 microcontroller with 256KB SRAM, 1MB flash</h3>
+<p>Texas Instruments has unveiled the MSPM33C321A, a high-performance Cortex-M33 microcontroller featuring 256KB SRAM, 1MB flash, and a range of peripherals.</p>
+<p>💡 <em>Enhanced security and performance for industrial and IoT applications</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/07/texas-instruments-mspm33c321a-mixed-signal-cortex-m33-microcontroller/">Read Full Article</a></p>
+<hr />
+<h3>13. You can now file your G.Skill class action claim to get a cut of the $2.4 million settlement deceptive memory marketing class action now accepting payout submissions</h3>
+<p>Eligible customers can file a claim for the G.Skill class action settlement, with submissions open until April 7, 2026.</p>
+<p>💡 <em>Affected buyers may receive a share of the $2.4 million settlement payout.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/ram/you-can-now-file-your-g-skill-class-action-claim-to-get-a-cut-of-the-usd2-4-million-settlement-deceptive-marketing-class-action-now-accepting-payout-submissions">Read Full Article</a></p>
+<hr />
+<h3>14. Advanced Pentagon laser weapon shot down party balloons instead of drone by mistake, says report airport shut down after Customs and Border Protection mistakenly believed it was targeting Mexican cartel drones</h3>
+<p>A Pentagon laser weapon accidentally shot down party balloons due to incorrect targeting. Customs and Border Protection mistakenly believed the laser was targeting Mexican cartel drones. The incident led to the shutdown of an airport.</p>
+<p>💡 <em>Government agencies' miscommunication can have unintended, chaotic consequences.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/advanced-pentagon-laser-weapon-shot-down-party-balloons-by-mistake-says-report-airport-shut-down-after-customs-and-border-protection-mistakenly-believed-it-was-targeting-mexican-cartel-drones">Read Full Article</a></p>
+<hr />
+<h3>15. Living neurons integrated into modern AI processing, claims SF startup biological computing power used to boost computer vision, generative video, and more</h3>
+<p>A startup claims to have successfully integrated living neurons into its AI processing, using biological computing power to boost applications such as computer vision and generative video. The company has raised $25 million to further develop this technology. This approach could potentially replace or augment silicon computing in AI.</p>
+<p>💡 <em>Biological computing may outperform silicon in AI applications someday.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/living-neurons-integrated-into-modern-ai-processing-claims-sf-startup-biological-computing-power-used-to-boost-computer-vision-generative-video-and-more">Read Full Article</a></p>
+<hr />
+<h3>16. Notorious 'Archive Today' website allegedly leads bizarre DDoS campaign against security blogger Wikipedia considers removing all links to the Archive</h3>
+<p>Wikipedia considers removing links to Archive Today due to DDoS attacks. The 'Archive Today' website is allegedly involved in a bizarre DDoS campaign against a security blogger. This has led to a potential removal of links.</p>
+<p>💡 <em>Wikipedia's integrity threatened by DDoS attacks and alleged cyber threats.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/software/search-engines/archive-today-allegedly-leads-bizarre-ddos-campaign-against-security-blogger-wikipedia-considers-removing-all-links-to-the-archive">Read Full Article</a></p>
+<hr />
+<h3>17. "Like new" Ryzen 9 9900X3D Amazon order turns into a shocking CPU bait-and-switch scandal shopper duped in outrageous Ryzen 9 3900X scam</h3>
+<p>A buyer was duped by a used Ryzen 9 9900X3D scam on Amazon, receiving a Ryzen 9 3900X worth $150 instead of the $530 CPU they paid for. The CPU was replaced in the box to deceive inspection and likely resold. The buyer got much less valuable silicon than they paid for.</p>
+<p>💡 <em>Counterfeit and resold CPUs undermine trust in online marketplaces and consumer protection laws.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/cpus/like-new-ryzen-9-9900x3d-amazon-order-turns-into-a-shocking-cpu-bait-and-switch-scandal-shopper-duped-in-outrageous-ryzen-9-3900x-scam">Read Full Article</a></p>
+<hr />
+<h3>18. Enthusiast scores watercooled dual Nvidia GTX Titan X GPUs for $86 $1,000 older flagship graphics card with custom water cooling for a bargain</h3>
+<p>The user scores a bargain by acquiring watercooled dual Nvidia GTX Titan X GPUs in SLI for $86, a significant upgrade from their current GTX 1650 GPU. The custom water cooling setup suggests a well-planned and executed purchase. This upgrade offers improved performance and capabilities.</p>
+<p>💡 <em>Upgrading to dual high-end GPUs can provide substantial performance gains.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/gpus/enthusiast-scores-watercooled-dual-nvidia-gtx-titan-x-gpus-for-usd86-usd1-000-older-flagship-graphics-card-with-custom-water-cooling-for-a-bargain">Read Full Article</a></p>
+<hr />
+<h3>19. Intel fined $3 million by India s antitrust regulator over discriminatory CPU warranty policy says Intel abused its dominant position in the boxed processor market.</h3>
+<p>Intel fined $3 million by India's antitrust regulator for discriminatory warranty policy. The policy was deemed unfair compared to practices in other countries. This ruling aims to maintain market fairness.</p>
+<p>💡 <em>Abuse of dominant market position harms global market competition fairness.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/cpus/intel-fined-usd3-million-by-indias-antitrust-regulator-over-discriminatory-cpu-warranty-policy-says-intel-abused-its-dominant-position-in-the-boxed-processor-market">Read Full Article</a></p>
+<hr />
+<h3>20. Ponzi schemer behind $201 million Bitcoin scam sentenced to 20 years in federal prison promised 3% daily returns on Bitcoin investments, left investors reeling</h3>
+<p>A Ponzi schemer behind a $201 million Bitcoin scam was sentenced to 20 years in federal prison. The scam promised high returns, leaving investors reeling. The scheme's mastermind was held accountable for the financial damage caused.</p>
+<p>💡 <em>Unregulated Bitcoin investments can lead to devastating financial losses.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/cryptocurrency/ponzi-schemer-who-promised-3-percent-in-daily-returns-on-bitcoin-investment-sentenced-to-20-years-in-federal-prison-usd201-million-scam-predictably-collapsed-leaving-investors-reeling">Read Full Article</a></p>
+<hr />
+<h3>21. First PCIe 6.0 SSD enters mass production with 28GB/s speeds, 5.5 million IOPS, and liquid cooling Micron 9650 Series SSDs support air and liquid cooling</h3>
+<p>Micron introduces the world's first mass-produced PCIe 6.0 SSD, the 9650 series, with speeds of up to 28 GB/s, 5.5 million IOPS, and liquid cooling capabilities.</p>
+<p>💡 <em>Massive storage performance boost for data-intensive applications</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/ssds/worlds-first-pcie-6-0-ssd-enters-mass-production-with-28gb-s-speeds-micron-9650-series-ssds-support-air-and-liquid-cooling">Read Full Article</a></p>
+<hr />
+<h3>22. Budget RGB Fan Roundup: Are cheap PC fans always this bad?</h3>
+<p>We tested 5 budget RGB fans for performance, finding no clear winner. One fan stood out as a clear loser. Results showed performance doesn't always match completeness.</p>
+<p>💡 <em>Cheap RGB fans may not deliver performance to match features</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/case-fans/budget-rgb-fan-roundup">Read Full Article</a></p>
+<hr />
+<h3>23. iFixIt calls BMW s new anti-consumer security screws 'a logo-shaped middle finger to right to repair,' Adafruit 3D prints a solution BMW's connector reverse engineered using patent filing as a design blueprint</h3>
+<p>BMW's new security screws, designed to resemble its logo, have been criticized for hindering repair and service access. In response, Adafruit has 3D printed a solution using a reverse-engineered connector based on a patent filing. This move has sparked debate over the right to repair and consumer access to automotive parts.</p>
+<p>💡 <em>Gatekeeping design prioritizes profits over consumer repair rights</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/manufacturing/ifixit-calls-bmws-new-anti-consumer-security-screws-a-logo-shaped-middle-finger-to-right-to-repair-adafruit-3d-prints-a-solution-bmws-connector-reverse-engineered-using-patent-filing-as-a-design-blueprint">Read Full Article</a></p>
+<hr />
+<h3>24. Radeon RX 9060 XT 8GB defies the AI crunch and drops back to $299 MSRP Navi 44 throws a lifeline for budget gamers</h3>
+<p>PowerColor's Reaper AMD Radeon RX 9060 XT 8GB is selling at its $299 MSRP, a rare sight in these times. This budget-friendly option is a lifeline for gamers struggling with high prices.</p>
+<p>💡 <em>Budget-conscious gamers can now access high-performance graphics at affordable prices.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/gpus/radeon-rx-9060-xt-8gb-defies-the-ai-crunch-and-drops-back-to-usd299-msrp-navi-44-throws-a-lifeline-for-budget-gamers">Read Full Article</a></p>
+<hr />
+<h3>25. Wi-Fi 7 promises made, but not kept the mysteries of MLO and AFC, and looking toward Wi-Fi 8</h3>
+<p>Wi-Fi 7 has failed to meet expectations with fragmented technology and unfulfilled promises. The mysteries surrounding MLO (Multi-Link Operation) and AFC (Adaptive Frequency Control) have only added to the confusion. Wi-Fi 8 may not provide the clarity needed to move forward.</p>
+<p>💡 <em>Fragmented Wi-Fi technology hinders seamless connectivity and innovation</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/networking/routers/wi-fi-7-mlo-afc-wi-fi-8">Read Full Article</a></p>
+<hr />
+<h3>26. Google reports that state hackers from China, Russia and Iran are using Gemini in 'all stages' of attacks phishing lures, coding and vulnerability testing get AI underpinnings from hostile actors</h3>
+<p>Hackers from multiple countries are using Google's Gemini AI to aid their attacks, leveraging it for tasks such as generating phishing lures, translating text, coding, and vulnerability testing.</p>
+<p>💡 <em>Google's AI technology is being exploited by hostile actors for malicious purposes.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/cyber-security/google-reports-that-state-hackers-from-china-russia-and-iran-are-using-gemini-in-all-stages-of-attacks-phishing-lures-coding-and-vulnerability-testing-get-ai-underpinnings-from-hostile-actors">Read Full Article</a></p>
+<hr />
+<h3>27. Mimiclaw is an OpenClaw-like AI assistant for ESP32-S3 boards</h3>
+<p>Mimiclaw is an AI assistant for ESP32-S3 boards inspired by OpenClaw, allowing users to control hardware through a chat interface with Telegram and online LLM. It's written in C and relies on the ESP-IDF 5.5 framework. Mimiclaw requires a specific ESP32-S3 board with 16 MB flash and 8 MB PSRAM.</p>
+<p>💡 <em>Microcontrollers can now utilize AI assistants for hardware control through messaging apps.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/13/mimiclaw-is-an-openclaw-like-ai-assistant-for-esp32-s3-boards/">Read Full Article</a></p>
+<hr />
+<h3>28. PiLink PL-R5/R5M Series IP20/IP65 Industrial PCs powered by Raspberry Pi CM5</h3>
+<p>PiLink's PL-R5/R5M Series are compact industrial PCs powered by Raspberry Pi CM5, offering IP20 or IP65 protection and various configurations.</p>
+<p>💡 <em>Raspberry Pi-based industrial PCs bring affordability and flexibility to industrial applications worldwide.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/11/pilink-pl-r5-r5m-series-ip20-ip65-industrial-pcs-powered-by-raspberry-pi-cm5/">Read Full Article</a></p>
+<hr />
+<h3>29. 8devices Maca 2 A ultra-long-range data radio with 80km range for drones and robotics</h3>
+<p>The 8devices Maca 2 is a high-power wireless data radio designed for ultra-long-range connectivity, suitable for applications such as drones, robotics, and IoT systems, featuring up to 80 km range and high transmit power.</p>
+<p>💡 <em>Enabling reliable, long-range communication for high-stakes drone and robotics applications</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/08/8devices-maca-2-a-ultra-long-range-data-radio-with-80km-range-for-drones-and-robotics/">Read Full Article</a></p>
+<hr />
+<h3>30. Olimex HoT aims to be lightweight, easier-to-use alternative to Home Assistant</h3>
+<p>Olimex HoT is a lightweight alternative to Home Assistant for smart home automation, designed to run on low-end hardware and interface with ESPHome nodes.</p>
+<p>💡 <em>Simplifying smart home automation for lower-end hardware users matters.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/">Read Full Article</a></p>
+<hr />
+<h3>31. Raspberry Pi 4 dual RAM variant introduced to mitigate RAM price increases and supply challenges</h3>
+<p>Raspberry Pi introduces a dual RAM variant of the Raspberry Pi 4 to mitigate RAM price increases and supply challenges, offering flexibility in manufacturing and reducing costs.</p>
+<p>💡 <em>Mitigating RAM price increases with dual RAM variant flexibility.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/05/raspberry-pi-4-dual-ram-variant-introduced-to-mitigate-ram-price-increases-and-supply-challenges/">Read Full Article</a></p>
+<hr />
+<h3>32. Texas Instruments to acquire Silicon Labs</h3>
+<p>Texas Instruments acquires Silicon Labs for $7.5 billion, expanding its wireless offerings.</p>
+<p>💡 <em>Texas Instruments gains strategic wireless connectivity solutions through Silicon Labs acquisition.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/05/texas-instruments-to-acquire-silicon-labs/">Read Full Article</a></p>
+<hr />
+<h3>33. AMD Kintex UltraScale+ Gen 2 mid-range FPGA family to be available until at least 2045</h3>
+<p>AMD Kintex UltraScale+ Gen 2 is a mid-range FPGA family with high-speed transceivers and PCIe Gen4, offering increased memory bandwidth and advanced imaging capabilities for various industries.</p>
+<p>💡 <em>Long-term availability supports long-term design and deployment investments</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/04/amd-kintex-ultrascale-gen-2-mid-range-fpga-family-to-be-available-until-at-least-2045/">Read Full Article</a></p>
+<hr />
+<h3>34. The Steam Deck is sold out, but the SteamOS-powered Legion Go S is still available for $50 off get Lenovo's handheld for $599</h3>
+<p>Lenovo's Legion Go S offers better performance without Windows overhead, undercutting its original price with a limited-time $50 deal, making it available for $599.</p>
+<p>💡 <em>SteamOS alternative offers better gaming performance at lower cost.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/the-steam-deck-is-sold-out-but-the-steamos-powered-legion-go-s-is-still-available-for-usd50-off-get-lenovos-handheld-for-usd599">Read Full Article</a></p>
+<hr />
+        </div>
+
+        <footer>
+            <p class="timestamp">Generated on February 15, 2026 at 21:13 UTC</p>
+            <p>Powered by AI-driven content curation with Ollama</p>
+            <p><a href="https://github.com/yourusername/tech-weekly-digest" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+</body>
+</html>
