@@ -3,7 +3,7 @@ name: Weekly Tech Digest
 on:
   # Run every Monday at 8 AM UTC
   schedule:
-    - cron: '15 5 * * *'
+    - cron: '0 6 * * *'
 
   # Allow manual trigger
   workflow_dispatch:
