@@ -1,29 +1,29 @@
 [
   {
     "title": "Grab this gigantic, 1600W 80+ Platinum power supply for just 33 cents per watt Seasonic's Prime TX 1600W is down to just $532",
-    "summary": "Seasonic's Prime TX-1600 is a high-end power supply option with native PCIe 5.0 and ATX 3.1 compatibility. It's fully modular, 80+ Platinum rated, and features quiet operation. This makes it suitable for powering any high-performance component.",
+    "summary": "The Seasonic Prime TX-1600 is a high-end power supply with native PCIe 5.0 and ATX 3.1 compatibility, fully modular design, and 80+ Platinum efficiency.",
     "link": "https://www.tomshardware.com/pc-components/grab-this-gigantic-1600w-80-platinum-power-supply-for-just-33-cents-per-watt-seasonics-prime-tx-1600w-is-down-to-just-usd532",
     "categories": [
       "Hardware"
     ],
     "quality_score": 5,
     "processed_date": "2026-02-16T05:19:09.584831",
-    "insight": "High-end power supply for demanding builds at an affordable price"
+    "insight": "High-quality power supply for demanding high-end builds at an affordable price."
   },
   {
     "title": "OpenClaw-fueled ordering frenzy creates Apple Mac shortage delivery for high Unified Memory units now ranges from 6 days to 6 weeks",
-    "summary": "The Unified Memory architecture in Apple Macs drives high demand for high-memory models, resulting in order lead times ranging from 6 days to 6 weeks.",
+    "summary": "Apple Mac shortages are caused by high demand for Unified Memory units, leading to order lead times of 6 weeks. This demand surge is driven by the device's suitability for locally run agentic AI. The shortage affects high-memory models in particular.",
     "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-fueled-ordering-frenzy-creates-apple-mac-shortage-delivery-for-high-unified-memory-units-now-ranges-from-6-days-to-6-weeks",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 0,
     "processed_date": "2026-02-16T05:19:09.584917",
-    "insight": "High demand for high-memory Macs fuels shortage and prolonged delivery times."
+    "insight": "Unified Memory architecture fuels AI demand, exacerbating Mac shortages."
   },
   {
     "title": "xSDR A tiny M.2 2230 SDR module with Artix-7 FPGA and LMS7002M RFIC (Crowdfunding)",
-    "summary": "The xSDR is a tiny M.2 SDR module offering 2x2 MIMO support and a wide frequency range, built with an Artix-7 FPGA and LMS7002M RFIC for applications like cellular research, spectrum analysis, and satellite tracking.",
+    "summary": "Wavelet Lab's xSDR is a tiny M.2 2230 SDR module with 2x2 MIMO support, featuring a Lime Microsystems LMS7002M RFIC and an AMD Artix-7 FPGA, suitable for cellular research, spectrum analysis, and satellite tracking.",
     "link": "https://www.cnx-software.com/2026/02/16/xsdr-a-tiny-m-2-2230-sdr-with-artix-7-fpga-and-lms7002m-rfic/",
     "categories": [
       "Hardware",
@@ -31,11 +31,11 @@
     ],
     "quality_score": 20,
     "processed_date": "2026-02-16T05:19:09.585532",
-    "insight": "Enabling compact, high-performance SDR solutions for various research and development applications."
+    "insight": "High-performance SDR in a compact M.2 2230 format."
   },
   {
     "title": "LR2021 LoRa Plus board combines Semtech LR2021 and Nordic nRF54L15 for high-speed FLRC and LoRa connectivity",
-    "summary": "The LR2021 LoRa Plus development kit combines Semtech's LR2021 transceiver chip with Nordic's nRF54L15, enabling high-speed FLRC and LoRa connectivity up to 2.6 Mbps. The board supports LoRa Gen 4 technology and additional short-range protocols like NFC and Bluetooth LE 6.0. It features a 0.96-inch OLED display, multiple expansion connectors, and a USB Type-C port for power and debugging.",
+    "summary": "The LR2021 LoRa Plus board combines Semtech's LR2021 and Nordic's nRF54L15 for high-speed connectivity. It supports long-range LoRa and FLRC applications up to 2.6 Mbps. The board offers multi-protocol capabilities and expansion options.",
     "link": "https://www.cnx-software.com/2026/02/16/lr2021-lora-plus-board-combines-semtech-lr2021-and-nordic-nrf54l15-for-high-speed-flrc-and-lora-connectivity/",
     "categories": [
       "Hardware",
@@ -43,6 +43,6 @@
     ],
     "quality_score": 15,
     "processed_date": "2026-02-16T05:19:09.585660",
-    "insight": "Enabling high-speed LoRaWAN connectivity with enhanced processing capabilities"
+    "insight": "Enabling high-speed LoRa connectivity for IoT and industrial applications"
   }
 ]
