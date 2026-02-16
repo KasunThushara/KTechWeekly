@@ -51,7 +51,7 @@ jobs:
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
-          python scripts/summary_tag.py
+          python scripts/summarize.py
         continue-on-error: false
 
       - name: 📊 Generate reports with rankings
