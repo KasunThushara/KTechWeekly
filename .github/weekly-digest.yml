@@ -3,7 +3,140 @@ name: Weekly Tech Digest
 on:
   # Run every Monday at 8 AM UTC
   schedule:
-    - cron: '0 8 * * 1'
+    - cron: 'name: Weekly Tech Digest
+
+on:
+  # Run every Monday at 8 AM UTC
+  schedule:
+    - cron: '30 2 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install feedparser beautifulsoup4 groq python-dotenv markdown
+
+      - name: 🗂️ Create required directories
+        run: |
+          mkdir -p data weekly_reports docs archive
+
+      - name: 📦 Archive previous week (if needed)
+        run: |
+          python scripts/archive_manager.py
+
+      - name: 🔍 Fetch and filter articles
+        run: |
+          python scripts/fetch.py
+        continue-on-error: false
+
+      - name: 🤖 AI summarization and tagging
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          python scripts/summary_tag.py
+        continue-on-error: false
+
+      - name: 📊 Generate reports with rankings
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          python scripts/generate_reports.py
+        continue-on-error: false
+
+      - name: 🎨 Generate HTML pages
+        run: |
+          python scripts/generate_html.py
+
+      - name: 📝 Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Add all generated files
+          git add data/ weekly_reports/ docs/ archive/
+          
+          # Check if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # Get current week number
+            WEEK=$(date +%Y-W%W)
+            git commit -m "Weekly update: $WEEK [automated]"
+            git push
+          fi
+
+      - name: 📊 Generate summary
+        if: success()
+        run: |
+          echo "## ✅ Weekly Digest Generated Successfully!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Week:** $(date +%Y-W%W)" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # Count articles if file exists
+          if [ -f data/cleaned_articles.json ]; then
+            ARTICLE_COUNT=$(cat data/cleaned_articles.json | grep -o '"title"' | wc -l)
+            echo "**Articles Processed:** $ARTICLE_COUNT" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "🌐 **View Live Site:** [GitHub Pages](https://github.com/${{ github.repository }})" >> $GITHUB_STEP_SUMMARY
+
+      - name: 🚨 Report failure
+        if: failure()
+        run: |
+          echo "## ❌ Weekly Digest Generation Failed" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Please check the logs for details." >> $GITHUB_STEP_SUMMARY
+          echo "Common issues:" >> $GITHUB_STEP_SUMMARY
+          echo "- Missing GROQ_API_KEY secret" >> $GITHUB_STEP_SUMMARY
+          echo "- RSS feed unavailable" >> $GITHUB_STEP_SUMMARY
+          echo "- API rate limits" >> $GITHUB_STEP_SUMMARY
+
+  # Deploy to GitHub Pages
+  deploy:
+    needs: generate-digest
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: 🚀 Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Deploy: ${{ github.sha }}''
 
   # Allow manual trigger
   workflow_dispatch:
