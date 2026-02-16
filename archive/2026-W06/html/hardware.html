@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hardware - Tech Weekly Digest</title>
+    <meta name="description" content="Latest Hardware news and updates">
+    <meta property="og:title" content="Hardware">
+    <meta property="og:description" content="Latest Hardware news and updates">
+
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #7c3aed;
+            --accent: #10b981;
+            --text: #1f2937;
+            --text-light: #6b7280;
+            --bg: #ffffff;
+            --bg-secondary: #f9fafb;
+            --border: #e5e7eb;
+            --shadow: rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 40px 20px;
+            margin-bottom: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px var(--shadow);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.95;
+        }
+
+        /* Navigation */
+        nav {
+            background: var(--bg-secondary);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+
+        nav a:hover {
+            background: var(--primary);
+            color: white;
+        }
+
+        /* Content */
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px var(--shadow);
+        }
+
+        /* Typography */
+        h1, h2, h3, h4 {
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        h1 { font-size: 2.2rem; margin-top: 0; }
+        h2 { 
+            font-size: 1.8rem; 
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        h3 { font-size: 1.4rem; color: var(--primary); }
+        h4 { font-size: 1.1rem; }
+
+        p {
+            margin-bottom: 15px;
+            color: var(--text);
+        }
+
+        a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 15px 0 15px 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            box-shadow: 0 2px 5px var(--shadow);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        tr:hover {
+            background: var(--bg-secondary);
+        }
+
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            border-top: 2px solid var(--border);
+            margin: 40px 0;
+        }
+
+        /* Special Elements */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--primary);
+            color: white;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-right: 8px;
+        }
+
+        .insight {
+            background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+            border-left: 4px solid var(--primary);
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            font-style: italic;
+        }
+
+        .star {
+            color: #fbbf24;
+            font-size: 1.2rem;
+        }
+
+        /* Code blocks */
+        code {
+            background: var(--bg-secondary);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+
+        pre {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-light);
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+
+        footer a {
+            color: var(--primary);
+        }
+
+        .timestamp {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            margin-bottom: 10px;
+        }
+
+        /* Category cards */
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .category-card {
+            background: white;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s;
+            text-decoration: none;
+            color: var(--text);
+            display: block;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px var(--shadow);
+            border-color: var(--primary);
+        }
+
+        .category-card h3 {
+            margin-top: 0;
+            color: var(--primary);
+        }
+
+        .category-card .count {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin: 10px 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 1.8rem; }
+            .container { padding: 10px; }
+            nav { flex-direction: column; }
+            .content { padding: 20px; }
+            .category-grid { grid-template-columns: 1fr; }
+        }
+
+        /* Loading animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .content {
+            animation: fadeIn 0.5s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Tech Weekly Digest</h1>
+            <p class="subtitle">AI, Hardware & Edge Computing News</p>
+        </header>
+
+        <nav>
+            <a href="index.html">🏠 Home</a>
+            <a href="ai_and_ml.html">📰 Ai And Ml</a> <a href="weekly_master_report.html">📰 Full Digest</a> <a href="gpus.html">📰 Gpus</a> <a href="hardware.html">📰 Hardware</a> <a href="semiconductors.html">📰 Semiconductors</a> <a href="tech_news.html">📰 Tech News</a>
+        </nav>
+
+        <div class="content">
+            <h1>💻 Hardware</h1>
+<p><strong>Week of February 15, 2026</strong></p>
+<p><em>Computing hardware and development boards</em></p>
+<hr />
+<h2>📊 Summary</h2>
+<ul>
+<li><strong>Articles this week:</strong> 48</li>
+<li><strong>Report generated:</strong> 2026-02-15 21:13</li>
+</ul>
+<hr />
+<h2>📰 This Week's Articles</h2>
+<h3>1. Android 17 Beta 1 released with H.266/VVC support, camera improvements, and more ⭐</h3>
+<p>Android 17 Beta 1 is released with performance improvements, H.266/VVC support, and camera enhancements. This marks a change from previous Developer Previews, with the first release now being the Beta 1 version. The update also includes restrictions on large screen devices.</p>
+<p>💡 <em>Android 17 prioritizes performance and tablet compatibility above app flexibility.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/14/android-17-beta-1-released-with-h-266-vvc-support-camera-improvements-and-more/">Read Full Article</a></p>
+<hr />
+<h3>2. Steam to add hardware specs to reviews optional feature could help you dodge poorly optimized games ⭐</h3>
+<p>Steam is introducing an optional feature to display hardware specs in reviews, allowing users to consider the reviewer's hardware when reading feedback. This feature aims to provide more context to other players considering a title. Valve emphasizes that this feature remains optional for users.</p>
+<p>💡 <em>Users can dodge poorly optimized games by considering reviewer's hardware specs.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/video-games/pc-gaming/steam-to-add-hardware-specs-to-reviews-optional-feature-could-help-you-dodge-poorly-optimized-games">Read Full Article</a></p>
+<hr />
+<h3>3. Asus ROG Crosshair X870E Dark Hero Motherboard Review ⭐</h3>
+<p>Asus ROG Crosshair X870E Dark Hero is a high-end AMD motherboard with top-notch features and an all-black aesthetic.</p>
+<p>💡 <em>Premium AMD motherboard offers solid performance and sleek design options.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/motherboards/asus-rog-crosshair-x870e-dark-hero-motherboard-review">Read Full Article</a></p>
+<hr />
+<h3>4. Creality Falcon A1 Pro Review An easy-to-use, fully enclosed 20W laser engraver with a built-in HD camera ⭐</h3>
+<p>The Creality Falcon A1 Pro is a user-friendly, fully enclosed laser engraver with a 20W blue laser and built-in HD camera, capable of engraving and cutting various materials at high speeds and precision.</p>
+<p>💡 <em>Enhanced precision and safety features for DIY laser engraving enthusiasts.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/15/creality-falcon-a1-pro-review-an-easy-to-use-fully-enclosed-20w-laser-engraver-with-a-built-in-hd-camera/">Read Full Article</a></p>
+<hr />
+<h3>5. CHUWI CoreBook Air Plus 16 laptop review Part 1: Specs, unboxing, teardown, and first boot ⭐</h3>
+<p>The CHUWI CoreBook Air Plus 16 is a laptop featuring a mid-range AMD Ryzen 5 6600H processor, 16GB of LPDDR5, and a 16-inch 1920x1200 display, with a detailed review covering specs, unboxing, teardown, and initial boot.</p>
+<p>💡 <em>Mid-range laptop offers competitive specs without breaking the bank.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/12/chuwi-corebook-air-plus-16-laptop-review-part-1-specs-unboxing-teardown-and-first-boot/">Read Full Article</a></p>
+<hr />
+<h3>6. Black Sesame Technologies Wudang C1200 cross-domain automotive SoCs feature up to 10x Cortex-A78AE cores ⭐</h3>
+<p>Black Sesame Technologies' Wudang C1200 SoCs support up to 10x Cortex-A78AE cores, designed for automotive-grade cross-domain computing platforms.</p>
+<p>💡 <em>Advanced safety and computing capabilities for autonomous driving systems.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/10/black-sesame-technologies-wudang-c1200-cross-domain-automotive-socs-feature-up-to-10x-cortex-a78ae-cores/">Read Full Article</a></p>
+<hr />
+<h3>7. Geniatech DB3506 is a full-featured Rockchip RK3506 development board and 3.5-inch industrial SBC ⭐</h3>
+<p>Geniatech DB3506 is an industrial-grade development board with a Rockchip RK3506 SoC, offering various interfaces for IoT and HMI applications.</p>
+<p>💡 <em>Enables fast and efficient development of industrial IoT and HMI systems</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/09/geniatech-db3506-full-featured-rockchip-rk3506-development-board-and-3-5-inch-industrial-sbc/">Read Full Article</a></p>
+<hr />
+<h3>8. Linux 6.19 Release Main changes, Arm, RISC-V, and MIPS architectures ⭐</h3>
+<p>Linux 6.19 has been released with expected changes and no major surprises. The next kernel will be worked on with over 30 pull requests. Users outside the US may consider trying out the new kernel.</p>
+<p>💡 <em>Linux 6.19 brings expected updates to various architectures smoothly.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/09/linux-6-19-release-main-changes-arm-risc-v-and-mips-architectures/">Read Full Article</a></p>
+<hr />
+<h3>9. $199+ M5Stack AI Pyramid Computing Box Linux AI mini PC is based on Axera AX8850 SoC ⭐</h3>
+<p>M5Stack AI Pyramid Computing Box is an AI mini PC with an Axera AX8850 SoC, providing 24 TOPS NPU performance, 4GB or 8GB RAM, and multiple I/O options for Edge AI applications.</p>
+<p>💡 <em>Edge AI computing platform for systems and applications</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/06/199-m5stack-ai-pyramid-computing-box-linux-ai-mini-pc-is-based-on-axera-ax8850-soc/">Read Full Article</a></p>
+<hr />
+<h3>10. Cubie A7S A compact Allwinner A733 SBC with USB-C DisplayPort, GbE, WiFi 6, PCIe Gen3 FFC connector, GPIO headers ⭐</h3>
+<p>Radxa's Cubie A7S is a compact SBC featuring Allwinner A733 octa-core CPU, up to 16GB LPDDR5 memory, Gigabit Ethernet, and WiFi 6. It offers a balance between compact sizes and features, including USB-C DisplayPort and PCIe Gen3. The board caters to applications requiring a mix of performance and portability.</p>
+<p>💡 <em>Compact SBC bridges performance and portability needs</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/05/cubie-a7s-a-compact-allwinner-a733-sbc-with-usb-c-displayport-gbe-wifi-6-pcie-gen3-ffc-connector-gpio-headers/">Read Full Article</a></p>
+<hr />
+<h3>11. reComputer Jetson AGX Orin Developer Kit GMSL Bundle features 8x GMSL2 camera interfaces, 10GbE networking ⭐</h3>
+<p>The reComputer Jetson AGX Orin Developer Kit GMSL Bundle is a compact, high-performance developer kit featuring 8 GMSL2 camera interfaces and 10GbE networking, ideal for edge AI applications.</p>
+<p>💡 <em>Enabling high-speed, multi-camera AI vision applications at the edge.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/04/recomputer-jetson-agx-orin-developer-kit-gmsl-bundle-features-8x-gmsl2-camera-interfaces-10gbe-networking/">Read Full Article</a></p>
+<hr />
+<h3>12. Netgear Nighthawk M7 5G Wi-Fi 7 mobile hotspot review Global eSIM marketplace is a game-changer</h3>
+<p>The Netgear Nighthawk M7 mobile hotspot offers high connectivity with a price tag of $499, supporting up to 32 devices and both physical SIM and eSIM.</p>
+<p>💡 <em>Revolutionary eSIM capabilities transform global connectivity and roaming.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/networking/routers/netgear-nighthawk-m7-5g-wi-fi-7-mobile-hotspot-review">Read Full Article</a></p>
+<hr />
+<h3>13. M5Stack AI Pyramid charms with translucent, RGB infused tetrahedral shell and $199 price tag but it is far more of an edge-AI appliance than a mini-PC</h3>
+<p>M5Stack's AI Pyramid Computing Box is a mini-PC with a unique, RGB-infused design.</p>
+<p>💡 <em>Edge-AI appliance brings AI capabilities to IoT devices at an affordable price.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/desktops/mini-pcs/m5stack-ai-pyramid-charms-with-translucent-rgb-infused-tetrahedral-shell-and-usd199-price-tag-but-it-is-far-more-of-an-edge-ai-appliance-than-a-mini-pc">Read Full Article</a></p>
+<hr />
+<h3>14. DXRacer Martian Pro Red Triangle review: Built for the fans</h3>
+<p>The DXRacer Martian Pro is a feature-packed gaming chair with a premium price. It offers a comfortable and customizable experience, making it suitable for gaming enthusiasts. However, its high cost may be a barrier for some users.</p>
+<p>💡 <em>Premium gaming chairs cater to enthusiasts' high expectations and budgets.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/peripherals/gaming-chairs/dxracer-martian-pro-red-triangle-review">Read Full Article</a></p>
+<hr />
+<h3>15. ENIAC, the world s first general-purpose digital computer, turns 80 years old today legendary hulking machine was 1,000x faster than its nearest rival</h3>
+<p>ENIAC, the world's first general-purpose digital computer, was unveiled in 1946. It was 1,000 times faster than its nearest rival.</p>
+<p>💡 <em>Pioneering innovation set the stage for modern computing and technology advancements.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/eniac-the-worlds-first-general-purpose-digital-computer-turns-80-years-old-today-legendary-hulking-machine-was-1-000x-faster-than-its-nearest-rival">Read Full Article</a></p>
+<hr />
+<h3>16. AMD Ryzen 7 9850X3D vs Ryzen 7 9800X3D faceoff an extra $30 buys you very little performance</h3>
+<p>The Ryzen 7 9850X3D and Ryzen 7 9800X3D are compared in a comprehensive test. The results show that the Ryzen 7 9800X3D is a great option due to its high performance and lower price. An extra $30 does not significantly improve performance.</p>
+<p>💡 <em>Extra cost yields minimal performance gain in high-end gaming CPUs.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9850x3d-vs-ryzen-7-9800x3d">Read Full Article</a></p>
+<hr />
+<h3>17. Framework's latest update brings more bad news about memory and storage pricing crisis RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers</h3>
+<p>Framework updated its laptop RAM prices to $12-$16 per GB, affecting DIY customers. The company will release a monthly update to monitor memory chip prices and maintain prices close to the weighted average cost. It recommends purchasing some models from alternative sources.</p>
+<p>💡 <em>RAM prices surge for Framework Laptop DIY Edition customers</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/laptops/framework-releases-monthly-update-about-memory-and-storage-pricing-woes-ram-costs-increased-to-usd12-to-usd16-per-gb-recommends-purchasing-some-models-elsewhere-for-framework-laptop-diy-edition-customers">Read Full Article</a></p>
+<hr />
+<h3>18. WD Green SN3000 1TB SSD Review: A diamond in the rough</h3>
+<p>The WD Green SN3000 SSD surpasses expectations with its impressive performance, challenging the notion that value-oriented drives must sacrifice speed for affordability.</p>
+<p>💡 <em>Budget-friendly drives can offer exceptional performance without sacrificing quality.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/ssds/wd-green-sn3000-1tb-ssd-review">Read Full Article</a></p>
+<hr />
+<h3>19. STMicroelectronics Stellar P3E quad-core Arm Cortex-R52+ automotive MCU features Neural-ART AI accelerator</h3>
+<p>STMicroelectronics has introduced the Stellar P3E automotive MCU, featuring a Neural-ART AI accelerator and quad-core Arm Cortex-R52+ cores. The MCU simplifies Electronic Control Units (ECUs) by consolidating powertrain functions into a single module. It enables smart sensing, predictive maintenance, and virtual sensor applications.</p>
+<p>💡 <em>Enables AI-driven automotive functionality in a single, cost-effective MCU solution.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/13/stmicroelectronics-stellar-p3e-quad-core-arm-cortex-r52-automotive-mcu-features-neural-art-ai-accelerator/">Read Full Article</a></p>
+<hr />
+<h3>20. Avalue EMX-PTLP A thin mini-ITX motherboard powered by up to an Intel Core Ultra 7 358H Panther Lake-H SoC</h3>
+<p>The Avalue EMX-PTLP is a thin mini-ITX motherboard powered by Intel's Panther Lake-H processor, supporting up to 64GB of DDR5 memory and various connectivity options. It features a range of interfaces, including M.2, PCIe, HDMI, and USB ports, making it suitable for industrial automation and AI deployments. The board supports up to 180 TOPS for AI and industrial automation.</p>
+<p>💡 <em>High-performance computing for industrial automation and AI applications</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/13/avalue-emx-ptlp-a-thin-mini-itx-motherboard-powered-by-up-to-intel-core-ultra-7-358h-panther-lake-h-soc/">Read Full Article</a></p>
+<hr />
+<h3>21. SlimeVR Butterfly Trackers nRF52833-based, ultra-slim, full-body VR trackers offer up to 48h battery life (Crowdfunding)</h3>
+<p>The SlimeVR Butterfly Trackers offer ultra-slim, full-body VR tracking with up to 48 hours of battery life, using a custom 2.4 GHz ESB protocol and Nordic Semi's nRF52833 wireless MCU.</p>
+<p>💡 <em>Wireless, self-contained VR tracking eliminates base station and camera dependency.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/12/slimevr-butterfly-trackers-nrf52833-based-ultra-slim-full-body-vr-trackers-offer-up-to-48h-battery-life/">Read Full Article</a></p>
+<hr />
+<h3>22. de next-RAP8-EZBOX An ultra-compact, fanless or actively-cooled Intel Core i7-1365UE Raptor Lake embedded system</h3>
+<p>The de next-RAP8-EZBOX is an ultra-compact embedded system with a powerful Intel Core i7-1365UE processor and various interfaces, suitable for space-constrained applications. It's available in fanless and actively cooled versions. The system features HDMI, Ethernet, and USB ports for connectivity.</p>
+<p>💡 <em>Industrial automation gains from high-performance, compact embedded computing solutions.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/12/de-next-rap8-ezbox-ultra-compact-fanless-or-actively-cooled-intel-core-i7-1365ue-raptor-lake-embedded-system/">Read Full Article</a></p>
+<hr />
+<h3>23. Open Stack standalone 4G LTE IoT board runs RTOS on Quectel EC200U LTE module (Crowdfunding)</h3>
+<p>Open Stack is a standalone 4G LTE IoT board that runs RTOS directly on the Quectel EC200U series LTE module, reducing power consumption, BOM cost, and physical footprint. It supports multi-band LTE, GNSS, Bluetooth, and various networking protocols. The board is suitable for various IoT applications without additional controller hardware.</p>
+<p>💡 <em>Simplifies IoT development with integrated LTE module and RTOS</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/11/open-stack-standalone-4g-lte-iot-board-runs-rtos-on-quectel-ec200-lte-module/">Read Full Article</a></p>
+<hr />
+<h3>24. VU GPSDR A low-cost GPS-disciplined SDR expansion board for the Vivid Unit RK3399 touchscreen SBC</h3>
+<p>The UUGear VU GPSDR is a low-cost SDR expansion board designed for the Vivid Unit RK3399 SBC, featuring a GPS-disciplined clock and high frequency stability. It uses the RTL2832U ADC and Rafael Micro R860 tuner. The board also includes a u-blox NEO-M8N GPS module for accurate timing.</p>
+<p>💡 <em>High frequency stability at an affordable price for enthusiasts and developers.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/11/vu-gpsdr-a-low-cost-gps-disciplined-sdr-expansion-board-for-the-vivid-unit-rk3399-touchscreen-sbc/">Read Full Article</a></p>
+<hr />
+<h3>25. PicoClaw ultra-lightweight personal AI Assistant runs on just 10MB of RAM</h3>
+<p>PicoClaw is an ultra-lightweight AI assistant running on 10MB RAM, suitable for resource-constrained devices.</p>
+<p>💡 <em>Enabling AI on low-power, low-cost embedded boards for mass adoption.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/10/picoclaw-ultra-lightweight-personal-ai-assistant-run-on-just-10mb-of-ram/">Read Full Article</a></p>
+<hr />
+<h3>26. Beelink ME Pro 2-bay Intel N95/N150 NAS and mini PC supports 5GbE networking, up to 3x M.2 MVMe SSDs</h3>
+<p>Beelink ME Pro is a compact, 2-bay NAS and mini PC with Intel N95/N150 SoC, 5 GbE networking, and up to 3x M.2 NVMe slots. It features a DIY drawer design for upgrades and improved thermals. Target applications include home NAS, media server, and compact desktop PC.</p>
+<p>💡 <em>Compact, upgradable NAS and mini PC with enhanced networking capabilities.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/10/beelink-me-pro-2-bay-intel-n95-n150-nas-and-mini-pc-supports-5gbe-networking-up-to-3x-m-2-mvme-ssds/">Read Full Article</a></p>
+<hr />
+<h3>27. TOPST D3-G maker SBC is powered by Telechips TCT8050 Dolphin3 Cortex-A72/A53/R5 automotive-grade SoC</h3>
+<p>The TOPST D3-G is a single board computer powered by the Telechips TCT8050 Dolphin3 SoC, featuring a 9-core automotive-grade processor with high-performance capabilities.</p>
+<p>💡 <em>High-performance automotive-grade SBC with robust computing and graphics capabilities.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/10/topst-d3-g-maker-sbc-telechips-tct8050-dolphin3-cortex-a72-a53-r5-automotive-grade-soc/">Read Full Article</a></p>
+<hr />
+<h3>28. 86-type Smart Home control panel features a 3.5-inch display, physical buttons, Bluetooth SIG Mesh gateway</h3>
+<p>The Tuya WiFi 3.5-inch Smart Center Control Panel features a hybrid approach with a capacitive touchscreen and physical buttons for smart homes. It includes a Bluetooth SIG Mesh gateway, Wi-Fi, and 3x independent relay channels. The device offers a combination of local and remote control for smart spaces.</p>
+<p>💡 <em>Hybrid interface enhances smart home control experience and accessibility.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/09/86-type-smart-home-control-panel-features-a-3-5-inch-display-physical-buttons-bluetooth-sig-mesh-gateway/">Read Full Article</a></p>
+<hr />
+<h3>29. Texas Instruments unveils MSPM33C321A mixed-signal Cortex-M33 microcontroller with 256KB SRAM, 1MB flash</h3>
+<p>Texas Instruments has unveiled the MSPM33C321A, a high-performance Cortex-M33 microcontroller featuring 256KB SRAM, 1MB flash, and a range of peripherals.</p>
+<p>💡 <em>Enhanced security and performance for industrial and IoT applications</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/07/texas-instruments-mspm33c321a-mixed-signal-cortex-m33-microcontroller/">Read Full Article</a></p>
+<hr />
+<h3>30. Compact, fanless DIN-Rail Intel Core Ultra 5 235U/7 265U industrial PC targets AMR, robotics, and computer vision</h3>
+<p>The ASUS IoT PE1000U is a compact, fanless DIN-rail industrial PC designed for AMR, robotics, and computer vision applications. It features an Intel Core Ultra 5 235U/7 265U processor, supporting SO-DIMM DDR5 memory, SATA and NVMe storage, and multiple I/O interfaces. The device operates in a wide temperature range and accepts a 9-36V DC power input.</p>
+<p>💡 <em>Enabling efficient, high-performance AI and vision processing in industrial environments.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/06/compact-fanless-din-rail-intel-core-ultra-5-235u-7-265u-industrial-pc-targets-amr-robotics-and-computer-vision/">Read Full Article</a></p>
+<hr />
+<h3>31. Review of XIAO ePaper DIY Kit EE02 13.3-inch color E-Ink display with SenseCraft HMI and Arduino</h3>
+<p>The XIAO ePaper DIY Kit EE02 is a 13.3-inch color E-Ink display kit that combines an ESP32-S3 board with a Spectra 6 display, featuring Wi-Fi, Bluetooth, and a USB Type-C port. The kit supports SenseCraft HMI and Arduino platforms for development. It also includes a charging circuit and user buttons for added functionality.</p>
+<p>💡 <em>Combining ESP32-S3 with E-Ink display for IoT and wearable applications.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/05/review-of-xiao-epaper-diy-kit-ee02-13-3-inch-color-e-ink-display-with-sensecraft-hmi-and-arduino/">Read Full Article</a></p>
+<hr />
+<h3>32. Qualcomm IPQ5424 embedded router board supports 22 Gbps tri-band Wi-Fi 7 and dual 10GbE networking</h3>
+<p>The Wallys Communications DR5424 is a high-performance embedded router board supporting tri-band Wi-Fi 7 connectivity up to 22 Gbps, along with dual 10GbE networking and various ports for debugging and expansion. The board is powered by the Qualcomm IPQ5424 SoC and targets applications such as Wi-Fi 7 access points and IoT gateways. It also features 4GB or 8GB DDR4 memory and multiple USB ports.</p>
+<p>💡 <em>Ultra-fast Wi-Fi 7 connectivity for next-gen IoT and network applications.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/04/qualcomm-ipq5424-embedded-router-board-supports-22-gbps-tri-band-wi-fi-7-and-dual-10gbe-networking/">Read Full Article</a></p>
+<hr />
+<h3>33. Living neurons integrated into modern AI processing, claims SF startup biological computing power used to boost computer vision, generative video, and more</h3>
+<p>A startup claims to have successfully integrated living neurons into its AI processing, using biological computing power to boost applications such as computer vision and generative video. The company has raised $25 million to further develop this technology. This approach could potentially replace or augment silicon computing in AI.</p>
+<p>💡 <em>Biological computing may outperform silicon in AI applications someday.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/living-neurons-integrated-into-modern-ai-processing-claims-sf-startup-biological-computing-power-used-to-boost-computer-vision-generative-video-and-more">Read Full Article</a></p>
+<hr />
+<h3>34. "Like new" Ryzen 9 9900X3D Amazon order turns into a shocking CPU bait-and-switch scandal shopper duped in outrageous Ryzen 9 3900X scam</h3>
+<p>A buyer was duped by a used Ryzen 9 9900X3D scam on Amazon, receiving a Ryzen 9 3900X worth $150 instead of the $530 CPU they paid for. The CPU was replaced in the box to deceive inspection and likely resold. The buyer got much less valuable silicon than they paid for.</p>
+<p>💡 <em>Counterfeit and resold CPUs undermine trust in online marketplaces and consumer protection laws.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/cpus/like-new-ryzen-9-9900x3d-amazon-order-turns-into-a-shocking-cpu-bait-and-switch-scandal-shopper-duped-in-outrageous-ryzen-9-3900x-scam">Read Full Article</a></p>
+<hr />
+<h3>35. Sony-led program offers PS5 rentals starting at $13.50 a month in the UK across 12, 24, or 36-month leases console has to be returned at the end of the contract</h3>
+<p>Sony is offering PS5 rentals in the UK, starting at Â£13.50/month for 12, 24, or 36-month leases, with consoles to be returned at the end of the contract.</p>
+<p>💡 <em>New affordable option for gamers to access latest console tech.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/video-games/playstation/sony-led-program-offers-ps5-rentals-starting-at-usd13-50-a-month-in-the-uk-across-12-24-or-36-month-leases-console-has-to-be-returned-at-the-end-of-the-contract">Read Full Article</a></p>
+<hr />
+<h3>36. Intel fined $3 million by India s antitrust regulator over discriminatory CPU warranty policy says Intel abused its dominant position in the boxed processor market.</h3>
+<p>Intel fined $3 million by India's antitrust regulator for discriminatory warranty policy. The policy was deemed unfair compared to practices in other countries. This ruling aims to maintain market fairness.</p>
+<p>💡 <em>Abuse of dominant market position harms global market competition fairness.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/cpus/intel-fined-usd3-million-by-indias-antitrust-regulator-over-discriminatory-cpu-warranty-policy-says-intel-abused-its-dominant-position-in-the-boxed-processor-market">Read Full Article</a></p>
+<hr />
+<h3>37. First PCIe 6.0 SSD enters mass production with 28GB/s speeds, 5.5 million IOPS, and liquid cooling Micron 9650 Series SSDs support air and liquid cooling</h3>
+<p>Micron introduces the world's first mass-produced PCIe 6.0 SSD, the 9650 series, with speeds of up to 28 GB/s, 5.5 million IOPS, and liquid cooling capabilities.</p>
+<p>💡 <em>Massive storage performance boost for data-intensive applications</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/ssds/worlds-first-pcie-6-0-ssd-enters-mass-production-with-28gb-s-speeds-micron-9650-series-ssds-support-air-and-liquid-cooling">Read Full Article</a></p>
+<hr />
+<h3>38. Budget RGB Fan Roundup: Are cheap PC fans always this bad?</h3>
+<p>We tested 5 budget RGB fans for performance, finding no clear winner. One fan stood out as a clear loser. Results showed performance doesn't always match completeness.</p>
+<p>💡 <em>Cheap RGB fans may not deliver performance to match features</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/case-fans/budget-rgb-fan-roundup">Read Full Article</a></p>
+<hr />
+<h3>39. Save $438 on a Ryzen 7 9850X3D, Asus X870, and 32GB of DDR5 RAM Newegg strikes with another blistering sub-$800 AM5 bundles</h3>
+<p>Get a Ryzen 7 9850X3D bundle with motherboard and 32GB RAM for under $800.</p>
+<p>💡 <em>Affordable high-performance AMD bundles for PC enthusiasts available now.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/save-usd438-on-a-ryzen-7-9850x3d-asus-x870-and-32gb-of-ddr5-ram-newegg-strikes-with-another-blistering-sub-usd800-am5-bundles">Read Full Article</a></p>
+<hr />
+<h3>40. Mimiclaw is an OpenClaw-like AI assistant for ESP32-S3 boards</h3>
+<p>Mimiclaw is an AI assistant for ESP32-S3 boards inspired by OpenClaw, allowing users to control hardware through a chat interface with Telegram and online LLM. It's written in C and relies on the ESP-IDF 5.5 framework. Mimiclaw requires a specific ESP32-S3 board with 16 MB flash and 8 MB PSRAM.</p>
+<p>💡 <em>Microcontrollers can now utilize AI assistants for hardware control through messaging apps.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/13/mimiclaw-is-an-openclaw-like-ai-assistant-for-esp32-s3-boards/">Read Full Article</a></p>
+<hr />
+<h3>41. ESP32 Marauder 5G Apex 5 module for Flipper Zero combines ESP32-C5, two Sub-GHz radios, nRF24, and GPS</h3>
+<p>The ESP32 Marauder 5G Apex 5 Module is an upgrade for Flipper Zero, featuring ESP32-C5 dual-band capabilities and multiple radios, including WiFi, Sub-GHz, nRF24, and GPS, with enhanced storage and power management.</p>
+<p>💡 <em>Enhanced Flipper Zero capabilities for advanced hacking and penetration testing.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/11/esp32-marauder-5g-apex-5-module-for-flipper-zero-combines-esp32-c5-two-sub-ghz-radios-nrf24-and-gps/">Read Full Article</a></p>
+<hr />
+<h3>42. PiLink PL-R5/R5M Series IP20/IP65 Industrial PCs powered by Raspberry Pi CM5</h3>
+<p>PiLink's PL-R5/R5M Series are compact industrial PCs powered by Raspberry Pi CM5, offering IP20 or IP65 protection and various configurations.</p>
+<p>💡 <em>Raspberry Pi-based industrial PCs bring affordability and flexibility to industrial applications worldwide.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/11/pilink-pl-r5-r5m-series-ip20-ip65-industrial-pcs-powered-by-raspberry-pi-cm5/">Read Full Article</a></p>
+<hr />
+<h3>43. Olimex HoT aims to be lightweight, easier-to-use alternative to Home Assistant</h3>
+<p>Olimex HoT is a lightweight alternative to Home Assistant for smart home automation, designed to run on low-end hardware and interface with ESPHome nodes.</p>
+<p>💡 <em>Simplifying smart home automation for lower-end hardware users matters.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/">Read Full Article</a></p>
+<hr />
+<h3>44. Raspberry Pi 4 dual RAM variant introduced to mitigate RAM price increases and supply challenges</h3>
+<p>Raspberry Pi introduces a dual RAM variant of the Raspberry Pi 4 to mitigate RAM price increases and supply challenges, offering flexibility in manufacturing and reducing costs.</p>
+<p>💡 <em>Mitigating RAM price increases with dual RAM variant flexibility.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/05/raspberry-pi-4-dual-ram-variant-introduced-to-mitigate-ram-price-increases-and-supply-challenges/">Read Full Article</a></p>
+<hr />
+<h3>45. AMD Kintex UltraScale+ Gen 2 mid-range FPGA family to be available until at least 2045</h3>
+<p>AMD Kintex UltraScale+ Gen 2 is a mid-range FPGA family with high-speed transceivers and PCIe Gen4, offering increased memory bandwidth and advanced imaging capabilities for various industries.</p>
+<p>💡 <em>Long-term availability supports long-term design and deployment investments</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/04/amd-kintex-ultrascale-gen-2-mid-range-fpga-family-to-be-available-until-at-least-2045/">Read Full Article</a></p>
+<hr />
+<h3>46. Linux kernel 7.0 finally abandons the 28-year-old Intel 440BX chipset driver removal marks goodbye to the legendary motherboard chipset</h3>
+<p>Linux kernel 7.0 removes the 28-year-old 440BX EDAC driver, marking a legacy end.</p>
+<p>💡 <em>Legacy driver removal simplifies kernel maintenance and reduces support needs.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/software/linux/linux-kernel-7-0-finally-abandons-intel-440bx-edac-driver-removal-marks-another-goodbye-to-the-legendary-motherboard-chipset">Read Full Article</a></p>
+<hr />
+<h3>47. Tiny Mac look-a-like alarm clock transformed to run real Mac software</h3>
+<p>A vintage technology enthusiast repurposed a miniature Mac-like alarm clock into a functional Mac computer, showcasing creative innovation in upcycling retro technology. The device runs real Mac software and operates like a full-fledged Mac computer, highlighting the potential for repurposing vintage electronics. This project demonstrates the value of creative problem-solving and resourcefulness in technology.</p>
+<p>💡 <em>Reviving vintage tech can create innovative, functional devices with unique appeal.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/raspberry-pi/raspberry-pi-projects/tiny-mac-look-a-like-alarm-clock-transformed-to-run-real-mac-software">Read Full Article</a></p>
+<hr />
+<h3>48. Add a tiny desktop monitor to your PC with the ESP32 Desktop Monitor project</h3>
+<p>A low-cost ESP32 board, TENSTAR T-Display, can be transformed into a tiny desktop monitor using the ESP32 Desktop Monitor project, allowing users to display PC content on a small 1.14-inch LCD.</p>
+<p>💡 <em>Low-cost, compact display solution for secondary PC monitoring.</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/09/add-a-tiny-desktop-monitor-to-your-pc-with-the-esp32-desktop-monitor-project/">Read Full Article</a></p>
+<hr />
+        </div>
+
+        <footer>
+            <p class="timestamp">Generated on February 15, 2026 at 21:13 UTC</p>
+            <p>Powered by AI-driven content curation with Ollama</p>
+            <p><a href="https://github.com/yourusername/tech-weekly-digest" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+</body>
+</html>

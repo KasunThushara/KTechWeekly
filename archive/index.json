@@ -1,5 +1,25 @@
 {
-  "weeks": [],
-  "latest_week": "2026-W06",
-  "last_updated": "2026-02-15T14:34:47.511729"
+  "weeks": [
+    {
+      "week": "2026-W06",
+      "archived_date": "2026-02-16T05:19:08.849125",
+      "files": [
+        "reports/README.md",
+        "reports/gpus.md",
+        "reports/tech_news.md",
+        "reports/hardware.md",
+        "reports/ai_and_ml.md",
+        "reports/semiconductors.md",
+        "html/gpus.html",
+        "html/hardware.html",
+        "html/semiconductors.html",
+        "html/tech_news.html",
+        "html/weekly_master_report.html",
+        "html/ai_and_ml.html"
+      ],
+      "file_count": 12
+    }
+  ],
+  "latest_week": "2026-W07",
+  "last_updated": "2026-02-16T05:19:08.849357"
 }
