@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semiconductors - Tech Weekly Digest</title>
+    <meta name="description" content="Latest Semiconductors news and updates">
+    <meta property="og:title" content="Semiconductors">
+    <meta property="og:description" content="Latest Semiconductors news and updates">
+
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #7c3aed;
+            --accent: #10b981;
+            --text: #1f2937;
+            --text-light: #6b7280;
+            --bg: #ffffff;
+            --bg-secondary: #f9fafb;
+            --border: #e5e7eb;
+            --shadow: rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 40px 20px;
+            margin-bottom: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px var(--shadow);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.95;
+        }
+
+        /* Navigation */
+        nav {
+            background: var(--bg-secondary);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+
+        nav a:hover {
+            background: var(--primary);
+            color: white;
+        }
+
+        /* Content */
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px var(--shadow);
+        }
+
+        /* Typography */
+        h1, h2, h3, h4 {
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        h1 { font-size: 2.2rem; margin-top: 0; }
+        h2 { 
+            font-size: 1.8rem; 
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        h3 { font-size: 1.4rem; color: var(--primary); }
+        h4 { font-size: 1.1rem; }
+
+        p {
+            margin-bottom: 15px;
+            color: var(--text);
+        }
+
+        a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 15px 0 15px 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            box-shadow: 0 2px 5px var(--shadow);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        tr:hover {
+            background: var(--bg-secondary);
+        }
+
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            border-top: 2px solid var(--border);
+            margin: 40px 0;
+        }
+
+        /* Special Elements */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--primary);
+            color: white;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-right: 8px;
+        }
+
+        .insight {
+            background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+            border-left: 4px solid var(--primary);
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            font-style: italic;
+        }
+
+        .star {
+            color: #fbbf24;
+            font-size: 1.2rem;
+        }
+
+        /* Code blocks */
+        code {
+            background: var(--bg-secondary);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+
+        pre {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-light);
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+
+        footer a {
+            color: var(--primary);
+        }
+
+        .timestamp {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            margin-bottom: 10px;
+        }
+
+        /* Category cards */
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .category-card {
+            background: white;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s;
+            text-decoration: none;
+            color: var(--text);
+            display: block;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px var(--shadow);
+            border-color: var(--primary);
+        }
+
+        .category-card h3 {
+            margin-top: 0;
+            color: var(--primary);
+        }
+
+        .category-card .count {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin: 10px 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 1.8rem; }
+            .container { padding: 10px; }
+            nav { flex-direction: column; }
+            .content { padding: 20px; }
+            .category-grid { grid-template-columns: 1fr; }
+        }
+
+        /* Loading animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .content {
+            animation: fadeIn 0.5s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Tech Weekly Digest</h1>
+            <p class="subtitle">AI, Hardware & Edge Computing News</p>
+        </header>
+
+        <nav>
+            <a href="index.html">🏠 Home</a>
+            <a href="ai_and_ml.html">📰 Ai And Ml</a> <a href="weekly_master_report.html">📰 Full Digest</a> <a href="hardware.html">📰 Hardware</a> <a href="semiconductors.html">📰 Semiconductors</a> <a href="tech_news.html">📰 Tech News</a>
+        </nav>
+
+        <div class="content">
+            <h1>⚡ Semiconductors</h1>
+<p><strong>Week of February 16, 2026</strong></p>
+<p><em>Chip manufacturing and design</em></p>
+<hr />
+<h2>📊 Summary</h2>
+<ul>
+<li><strong>Articles this week:</strong> 1</li>
+<li><strong>Report generated:</strong> 2026-02-16 05:19</li>
+</ul>
+<hr />
+<h2>📰 This Week's Articles</h2>
+<h3>1. LR2021 LoRa Plus board combines Semtech LR2021 and Nordic nRF54L15 for high-speed FLRC and LoRa connectivity ⭐</h3>
+<p>The LR2021 LoRa Plus development kit combines Semtech's LR2021 transceiver chip with Nordic's nRF54L15, enabling high-speed FLRC and LoRa connectivity up to 2.6 Mbps. The board supports LoRa Gen 4 technology and additional short-range protocols like NFC and Bluetooth LE 6.0. It features a 0.96-inch OLED display, multiple expansion connectors, and a USB Type-C port for power and debugging.</p>
+<p>💡 <em>Enabling high-speed LoRaWAN connectivity with enhanced processing capabilities</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/16/lr2021-lora-plus-board-combines-semtech-lr2021-and-nordic-nrf54l15-for-high-speed-flrc-and-lora-connectivity/">Read Full Article</a></p>
+<hr />
+        </div>
+
+        <footer>
+            <p class="timestamp">Generated on February 16, 2026 at 05:19 UTC</p>
+            <p>Powered by AI-driven content curation with Ollama</p>
+            <p><a href="https://github.com/yourusername/tech-weekly-digest" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+</body>
+</html>
