@@ -1,135 +1,125 @@
 # 💻 Hardware
-**Week of February 17, 2026**
+**Week of February 18, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-02-17 06:47
+- **Articles this week:** 11
+- **Report generated:** 2026-02-18 06:52
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Corsair AI Workstation 300 review: Strix Halo sets sail in a compact and classy (but pricey) package ⭐
+### 1. Olimex ESP32-P4-PC board offers HDMI video output, Ethernet, four USB 2.0 ports, and more ⭐
 
-The Corsair AI Workstation 300 delivers compact and classy performance with AMD's Strix Halo platform, offering a wide range of connectivity options. However, a recent price increase and competition from Nvidia GB10 systems make it a less attractive option.
+The Olimex ESP32-P4-PC board features a high-performance ESP32-P4 SoC, HDMI output, and multiple USB 2.0 ports, making it a feature-rich option for ESP32-P4 development. It supports various power sources, including USB Type-C, LiPo battery, and PoE. The board offers a 20-pin GPIO header for expansion and a UEXT connector.
 
-💡 *AI workstation performance meets compact design in a pricey package*
+💡 *High-performance ESP32-P4 board boosts AI and IoT development*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/corsair-ai-workstation-300-review)
-
----
-
-### 2. Rufus devs blame Microsoft for blocking latest Windows 11 ISOs, resulting in IP bans Windows Insiders can't download latest Insider ISOs and are met with IP bans 
-
-Windows Insiders and Rufus devs face IP bans when trying to download latest Windows 11 ISOs from Microsoft. Users claim Microsoft is blocking their access due to unknown reasons. This issue is affecting the ability of Insiders to download ISOs and use Rufus to create bootable media.
-
-💡 *Microsoft's IP blocking hinders Windows Insiders' ISO download experience.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/rufus-developers-blame-microsoft-for-blocking-access-to-the-latest-windows-11-isos-windows-insiders-met-with-an-ip-ban-after-attempting-to-download-latest-builds)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/17/olimex-esp32-p4-pc-board-offers-hdmi-video-output-ethernet-four-usb-2-0-ports-and-more/)
 
 ---
 
-### 3. BenQ Mobiuz EX271UZ 27-inch 240 Hz 4K OLED gaming monitor review: BenQ shines with its first gaming OLED monitor 
+### 2. High-end Android phones are now powerful enough to emulate the PC version of Cyberpunk 2077 YouTuber gets 2020's hottest PC game running at playable frame rates on Red Magic 11 Pro 
 
-BenQ's Mobiuz EX271UZ is its first OLED gaming monitor, boasting a 27-inch 4K panel and 240 Hz refresh rate.
+High-end Android phones can now emulate the PC version of Cyberpunk 2077 with playable frame rates, thanks to x86 emulation. This achievement was made possible by YouTuber ETA Prime using the Red Magic 11 Pro smartphone. The result showcases the significant progress in mobile gaming capabilities.
 
-💡 *BenQ enters OLED gaming monitor market with high-performance flagship model*
+💡 *High-end smartphones bridge the gap between PC and gaming performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/benq-mobiuz-ex271uz-27-inch-240-hz-4k-oled-gaming-monitor-review)
-
----
-
-### 4. 60W Pocket Cloud is a microSD card reader with USB PD passthrough for your smartphone (Crowdfunding) 
-
-60W Pocket Cloud is a microSD card reader with 60W USB PD passthrough, allowing for simultaneous charging and storage expansion on Android and iOS devices.
-
-💡 *Revives microSD card storage support on modern mobile devices with USB charging.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/17/60w-pocket-cloud-microsd-card-reader-for-your-smartphone-with-usb-pd-passthrough/)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/high-end-android-phones-are-now-powerful-enough-to-emulate-the-pc-version-of-cyberpunk-2077-youtuber-gets-2020s-hottest-pc-game-running-at-playable-frame-rates-on-red-magic-11-pro)
 
 ---
 
-### 5. DShanPi-A1 AI Education Rockchip RK3576 SBC features HDMI input and output ports, dual GbE 
+### 3. NZXT unveils new H2 mini PC with 9800X3D, Intel 285K configurations H2 Flow Mini-ITX case and C850 SFX power supply for builders 
 
-The DShanPi-A1 AI Education board features a Rockchip RK3576 SoC with 4x Cortex-A72 cores, 4x Cortex-A53 cores, and an Arm Mali-G52 MC3 GPU, paired with up to 8GB RAM and 64GB eMMC flash, supporting HDMI input and output, dual GbE, and AI acceleration.
+NZXT introduces the H2 Mini PC with customizable configurations, paired with the H2 Flow Mini-ITX case and C850 SFX power supply, catering to compact PC builders.
 
-💡 *Powerful AI education tool with rich multimedia and connectivity options.*
+💡 *Compact PC builders now have a highly customizable, powerful option available.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/17/dshanpi-a1-ai-education-rockchip-rk3576-sbc-features-hdmi-input-and-output-ports-dual-gbe/)
-
----
-
-### 6. MSI's RTX 5060-equipped Cyborg 15 gaming laptop is down to just $899 on Walmart Featuring an Intel Core 7 240H CPU, 16GB of RAM and a 144Hz display 
-
-The MSI Cyborg 15 offers powerful gaming performance at a budget-friendly price. Equipped with an Intel Core i7-240H CPU, 16GB of RAM, and a 144Hz display, it's suitable for playing a wide range of games. This gaming laptop provides a balance of performance and affordability.
-
-💡 *Budget-friendly gaming performance meets cutting-edge display technology.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/msis-rtx-5060-equipped-cyborg-15-gaming-laptop-is-down-to-just-usd899-on-walmart-featuring-an-intel-core-7-240h-cpu-16gb-of-ram-and-a-144hz-display)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/nzxt-unveils-new-h2-mini-pc-with-9800x3d-intel-285k-configurations-h2-flow-mini-itx-case-and-c850-sfx-power-supply-for-builders)
 
 ---
 
-### 7. Save up to $40 on Samsung s 800MB/s P9 Express microSD card this Presidents' Day super-speedy storage for your Nintendo Switch 2 
+### 4. Dell XPS 14 (2026) review: Two steps forward 
 
-Samsung's P9 Express microSD card offers up to 800MB/s speeds on Amazon for a discounted price, making it a super-speedy storage option for your Nintendo Switch 2.
+The Dell XPS 14 (2026) offers an improved design and features. It boasts attractive aesthetics and a keyboard with a functional row, along with solid speakers and long battery life. However, the low-travel keyboard requires some adjustment.
 
-💡 *Faster storage speeds enhance gaming performance on the Nintendo Switch 2.*
+💡 *Design and feature upgrades outweigh keyboard drawbacks*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/microsd-cards/save-up-to-usd40-on-samsungs-800mb-s-p9-express-microsd-card-this-presidents-day-super-speedy-storage-for-your-nintendo-switch-2)
-
----
-
-### 8. This external disc drive can play 4K 3D Blu-rays, along with all your old CDs and DVDs, now for 43% off TROPRO's media player is just $79.99 
-
-TROPRO's external disc drive connects via USB 3.0 for fast media access with support for 4K 3D Blu-rays, DVDs, and CDs at 6X, 8X, and 24X speeds respectively.
-
-💡 *Access high-quality media on PC without breaking the bank.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/this-external-disc-drive-can-play-4k-3d-blu-rays-along-with-all-your-old-cds-and-dvds-now-for-43-percent-off-tropros-media-player-is-just-usd79-99)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/dell-xps-14-2026-da14260-review)
 
 ---
 
-### 9. The Father of Sega Hardware' has passed away, designed all of Sega's consoles Hideki Sato worked his way up from engineer to become Sega s acting president, spending 33 years at the company 
+### 5. Murena Volla 12.6-inch privacy-focused tablet runs /e/OS Google-free Android OS on MediaTek Helio G99 SoC 
 
-Hideki Sato, known as the 'Father of Sega Hardware,' has passed away. He spent 33 years at Sega, rising from engineer to acting president. Sato designed all of Sega's consoles.
+The Murena Volla 12.6-inch tablet runs /e/OS on a MediaTek Helio G99 SoC, offering a Google-free Android experience with enhanced privacy features. It features 12GB of RAM, 512GB of storage, and a 13MP rear camera. This device is suitable for secure business, education, and family use.
 
-💡 *Legendary hardware designer leaves lasting impact on gaming industry*
+💡 */e/OS provides a fully customizable, Google-free Android experience.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/the-father-of-sega-hardware-has-passed-away-hideki-sato-worked-his-way-up-from-engineer-to-become-segas-acting-president-spending-33-years-at-the-company)
-
----
-
-### 10. LaserPecker LX2 review: Large scale dual laser cutter 
-
-The LaserPecker LX2 delivers excellent cutting and engraving capabilities, but struggles with positioning accuracy.
-
-💡 *Accurate positioning is crucial for large-scale laser cutting and engraving precision.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/laserpecker-lx2-review-large-scale-dual-laser-cutter)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/18/murena-volla-12-6-inch-privacy-focused-tablet-runs-e-os-google-free-android-os-on-mediatek-helio-g99-soc/)
 
 ---
 
-### 11. Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts A Turkish tech delight for the age of PC shortages 
+### 6. NXP S32N79 octa-core Arm Cortex-A78E/12-core Cortex-R52 Super-Integration Processor targets Software-Defined Vehicles (SDV) 
 
-A Turkish wedding party receives extravagant PC tech gifts, including Nvidia RTX 5090, RAM necklaces, and Intel CPU. The gifts were given during a time of PC shortages. The bride and groom's reactions showcase their delight.
+NXP's S32N79 processor is designed for software-defined vehicles, offering improved performance and features.
 
-💡 *Tech enthusiasts in Turkey celebrate weddings with luxurious PC hardware gifts.*
+💡 *Advanced features for Software-Defined Vehicles through AI-enabled ADAS capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/turkish-wedding-party-receive-rtx-5090-ram-and-intel-cpu-wedding-gifts-a-turkish-tech-delight-for-the-ai-age)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/18/nxp-s32n79-octa-core-arm-cortex-a78e-12-core-cortex-r52-super-integration-processor-targets-software-defined-vehicles-sdv/)
 
 ---
 
-### 12. Project Aura A neat, easy-to-assemble, DIY Air quality monitor compatible with Home Assistant 
+### 7. PiBot CNC Pendant V4.0 A handheld Bluetooth and RJ12 controller for FluidNC-based CNC machines 
 
-Project Aura is a DIY air quality monitor with a touchscreen display and industrial sensors integrated with Home Assistant, requiring no soldering and easy firmware installation.
+PiBot CNC Pendant V4.0 is a handheld controller for FluidNC-based CNC machines. It features a capacitive touchscreen, industrial-grade encoder, and Bluetooth/RJ12 connectivity. The device allows manual control and monitoring of CNC routers and laser engravers.
 
-💡 *Easy, solderless DIY air quality monitoring for smart homes*
+💡 *Handheld control enhances CNC machine usability and safety*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/16/project-aura-a-neat-easy-to-assemble-diy-air-quality-monitor-compatible-with-home-assistant/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/17/pibot-cnc-pendant-v4-0-a-handheld-bluetooth-and-rj12-controller-for-fluidnc-based-cnc-machines/)
+
+---
+
+### 8. Brace for a barren landscape of new hardware launches, as AI demand reshapes the world of consumer electronics trillions in AI investment threaten to derail entire industries 
+
+The DRAM supply squeeze and AI demand reshape consumer electronics landscape, threatening entire industries with massive scale and investment.
+
+💡 *AI-driven growth disrupts traditional industries with unprecedented scale and investment.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ai-demand-reshapes-consumer-electronics)
+
+---
+
+### 9. This Corsair RAM and Gigabyte AM5 motherboard bundle is just $67 more than buying the RAM alone 32GB of RAM and B850 Aorus Elite Wifi 7 shaves $133 off buying separately 
+
+The Gigabyte B850 Aorus Elite Wifi 7 + 32GB Corsair Vengeance RGB DDR5-6400 bundle is available at 20% off on Newegg for under $505, offering AMD AM5 support, Wi-Fi 7, and RGB lighting.
+
+💡 *Buying a bundle saves significantly compared to purchasing components separately.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/this-corsair-ram-and-gigabyte-am5-motherboard-bundle-is-just-usd67-more-than-buying-the-ram-alone-32gb-of-ram-and-b850-aorus-elite-wifi-7-shaves-usd133-off-buying-separately)
+
+---
+
+### 10. Tech tinkerer gets Gemini to help him 'vibe code' an x86 motherboard design bot help was impressive, but project still required human awareness and intervention 
+
+A tech tinkerer utilized Gemini's AI to aid in designing an x86 motherboard, leveraging its capabilities to enhance the design process. However, human intervention and awareness remained necessary throughout the project.
+
+💡 *AI-assisted design requires human oversight and creative problem-solving skills.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/raspberry-pi/raspberry-pi-projects/tech-tinkerer-gets-gemini-to-help-him-design-an-x86-motherboard-from-scratch-bot-help-was-impressive-but-project-still-required-human-awareness-and-intervention)
+
+---
+
+### 11. $50 junk second-hand motherboard turns into a SSD treasure trove worth $1,500 12 terabytes of blazing-fast storage finds a new owner amid crushing shortages 
+
+A Redditor bought a damaged Z690 motherboard for $50, discovering up to $1,500 worth of SSDs hidden beneath the heatsinks, taking advantage of a storage shortage.
+
+💡 *Second-hand electronics can conceal hidden value in times of shortage.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/usd50-junk-second-hand-motherboard-turns-into-a-ssd-treasure-trove-worth-usd1-500-12-terabytes-of-blazing-fast-storage-finds-a-new-owner-amid-crushing-shortages)
 
 ---
 

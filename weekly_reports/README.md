@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of February 17, 2026**
+**Week of February 18, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Corsair AI Workstation 300 review: Strix Halo sets sail in a compact and classy (but pricey) package ⭐
+### 1. Olimex ESP32-P4-PC board offers HDMI video output, Ethernet, four USB 2.0 ports, and more ⭐
 
-**💻 Hardware**
+**🤖 AI & ML**
 
-The Corsair AI Workstation 300 delivers compact and classy performance with AMD's Strix Halo platform, offering a wide range of connectivity options. However, a recent price increase and competition from Nvidia GB10 systems make it a less attractive option.
+The Olimex ESP32-P4-PC board features a high-performance ESP32-P4 SoC, HDMI output, and multiple USB 2.0 ports, making it a feature-rich option for ESP32-P4 development. It supports various power sources, including USB Type-C, LiPo battery, and PoE. The board offers a 20-pin GPIO header for expansion and a UEXT connector.
 
-💡 **Key Point:** AI workstation performance meets compact design in a pricey package
+💡 **Key Point:** High-performance ESP32-P4 board boosts AI and IoT development
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/corsair-ai-workstation-300-review)
+🔗 [Read More](https://www.cnx-software.com/2026/02/17/olimex-esp32-p4-pc-board-offers-hdmi-video-output-ethernet-four-usb-2-0-ports-and-more/)
 
 ---
 
-### 2. Corsair AI Workstation 300 review: Strix Halo sets sail in a compact and classy (but pricey) package ⭐
+### 2. Olimex ESP32-P4-PC board offers HDMI video output, Ethernet, four USB 2.0 ports, and more ⭐
+
+**💻 Hardware**
+
+The Olimex ESP32-P4-PC board features a high-performance ESP32-P4 SoC, HDMI output, and multiple USB 2.0 ports, making it a feature-rich option for ESP32-P4 development. It supports various power sources, including USB Type-C, LiPo battery, and PoE. The board offers a 20-pin GPIO header for expansion and a UEXT connector.
+
+💡 **Key Point:** High-performance ESP32-P4 board boosts AI and IoT development
+
+🔗 [Read More](https://www.cnx-software.com/2026/02/17/olimex-esp32-p4-pc-board-offers-hdmi-video-output-ethernet-four-usb-2-0-ports-and-more/)
+
+---
+
+### 3. High-end Android phones are now powerful enough to emulate the PC version of Cyberpunk 2077 YouTuber gets 2020's hottest PC game running at playable frame rates on Red Magic 11 Pro 
 
 **🎮 GPUs**
 
-The Corsair AI Workstation 300 delivers compact and classy performance with AMD's Strix Halo platform, offering a wide range of connectivity options. However, a recent price increase and competition from Nvidia GB10 systems make it a less attractive option.
+High-end Android phones can now emulate the PC version of Cyberpunk 2077 with playable frame rates, thanks to x86 emulation. This achievement was made possible by YouTuber ETA Prime using the Red Magic 11 Pro smartphone. The result showcases the significant progress in mobile gaming capabilities.
 
-💡 **Key Point:** AI workstation performance meets compact design in a pricey package
+💡 **Key Point:** High-end smartphones bridge the gap between PC and gaming performance.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/corsair-ai-workstation-300-review)
-
----
-
-### 3. Rufus devs blame Microsoft for blocking latest Windows 11 ISOs, resulting in IP bans Windows Insiders can't download latest Insider ISOs and are met with IP bans 
-
-**💻 Hardware**
-
-Windows Insiders and Rufus devs face IP bans when trying to download latest Windows 11 ISOs from Microsoft. Users claim Microsoft is blocking their access due to unknown reasons. This issue is affecting the ability of Insiders to download ISOs and use Rufus to create bootable media.
-
-💡 **Key Point:** Microsoft's IP blocking hinders Windows Insiders' ISO download experience.
-
-🔗 [Read More](https://www.tomshardware.com/software/windows/rufus-developers-blame-microsoft-for-blocking-access-to-the-latest-windows-11-isos-windows-insiders-met-with-an-ip-ban-after-attempting-to-download-latest-builds)
+🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/high-end-android-phones-are-now-powerful-enough-to-emulate-the-pc-version-of-cyberpunk-2077-youtuber-gets-2020s-hottest-pc-game-running-at-playable-frame-rates-on-red-magic-11-pro)
 
 ---
 
-### 4. BenQ Mobiuz EX271UZ 27-inch 240 Hz 4K OLED gaming monitor review: BenQ shines with its first gaming OLED monitor 
+### 4. PiBot CNC Pendant V4.0 A handheld Bluetooth and RJ12 controller for FluidNC-based CNC machines 
 
-**💻 Hardware**
+**🤖 AI & ML**
 
-BenQ's Mobiuz EX271UZ is its first OLED gaming monitor, boasting a 27-inch 4K panel and 240 Hz refresh rate.
+PiBot CNC Pendant V4.0 is a handheld controller for FluidNC-based CNC machines. It features a capacitive touchscreen, industrial-grade encoder, and Bluetooth/RJ12 connectivity. The device allows manual control and monitoring of CNC routers and laser engravers.
 
-💡 **Key Point:** BenQ enters OLED gaming monitor market with high-performance flagship model
+💡 **Key Point:** Handheld control enhances CNC machine usability and safety
 
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/benq-mobiuz-ex271uz-27-inch-240-hz-4k-oled-gaming-monitor-review)
+🔗 [Read More](https://www.cnx-software.com/2026/02/17/pibot-cnc-pendant-v4-0-a-handheld-bluetooth-and-rj12-controller-for-fluidnc-based-cnc-machines/)
 
 ---
 
-### 5. 60W Pocket Cloud is a microSD card reader with USB PD passthrough for your smartphone (Crowdfunding) 
+### 5. High-end Android phones are now powerful enough to emulate the PC version of Cyberpunk 2077 YouTuber gets 2020's hottest PC game running at playable frame rates on Red Magic 11 Pro 
 
 **💻 Hardware**
 
-60W Pocket Cloud is a microSD card reader with 60W USB PD passthrough, allowing for simultaneous charging and storage expansion on Android and iOS devices.
+High-end Android phones can now emulate the PC version of Cyberpunk 2077 with playable frame rates, thanks to x86 emulation. This achievement was made possible by YouTuber ETA Prime using the Red Magic 11 Pro smartphone. The result showcases the significant progress in mobile gaming capabilities.
 
-💡 **Key Point:** Revives microSD card storage support on modern mobile devices with USB charging.
+💡 **Key Point:** High-end smartphones bridge the gap between PC and gaming performance.
 
-🔗 [Read More](https://www.cnx-software.com/2026/02/17/60w-pocket-cloud-microsd-card-reader-for-your-smartphone-with-usb-pd-passthrough/)
+🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/high-end-android-phones-are-now-powerful-enough-to-emulate-the-pc-version-of-cyberpunk-2077-youtuber-gets-2020s-hottest-pc-game-running-at-playable-frame-rates-on-red-magic-11-pro)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **27 articles** across **5 focused categories**.
+We covered **32 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 4 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 12 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 3 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 11 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 2 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 4 articles
+*Artificial Intelligence and Machine Learning* — 11 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 5 articles
+*Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 12 articles
+*Computing hardware and development boards* — 11 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 3 articles
+*Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 3 articles
+*Industry news and product launches* — 2 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-02-17 at 06:47 by an autonomous AI curation system.
+Generated 2026-02-18 at 06:52 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

@@ -1,45 +1,55 @@
 # ⚡ Semiconductors
-**Week of February 17, 2026**
+**Week of February 18, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 3
-- **Report generated:** 2026-02-17 06:47
+- **Articles this week:** 4
+- **Report generated:** 2026-02-18 06:52
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. DShanPi-A1 AI Education Rockchip RK3576 SBC features HDMI input and output ports, dual GbE 
+### 1. Murena Volla 12.6-inch privacy-focused tablet runs /e/OS Google-free Android OS on MediaTek Helio G99 SoC 
 
-The DShanPi-A1 AI Education board features a Rockchip RK3576 SoC with 4x Cortex-A72 cores, 4x Cortex-A53 cores, and an Arm Mali-G52 MC3 GPU, paired with up to 8GB RAM and 64GB eMMC flash, supporting HDMI input and output, dual GbE, and AI acceleration.
+The Murena Volla 12.6-inch tablet runs /e/OS on a MediaTek Helio G99 SoC, offering a Google-free Android experience with enhanced privacy features. It features 12GB of RAM, 512GB of storage, and a 13MP rear camera. This device is suitable for secure business, education, and family use.
 
-💡 *Powerful AI education tool with rich multimedia and connectivity options.*
+💡 */e/OS provides a fully customizable, Google-free Android experience.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/17/dshanpi-a1-ai-education-rockchip-rk3576-sbc-features-hdmi-input-and-output-ports-dual-gbe/)
-
----
-
-### 2. The future of Quantum computing the tech, companies, and roadmaps that map out a coherent quantum future 
-
-Quantum computing is expected to scale exponentially over the next decade, with advancements in qubit technology, trapped ions, and superconducting chips driving breakthroughs in fields like cryptography, optimization, and simulation. Companies like IBM, Google, and Microsoft are racing to develop commercial quantum computers, while startups like Rigetti and IonQ focus on niche applications. A coherent quantum future will require significant advances in error correction, quantum control, and software development.
-
-💡 *Quantum computing holds the key to solving intractable problems exponentially faster.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/quantum-computing/the-future-of-quantum-computing-the-tech-companies-and-roadmaps-that-map-out-a-coherent-quantum-future)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/18/murena-volla-12-6-inch-privacy-focused-tablet-runs-e-os-google-free-android-os-on-mediatek-helio-g99-soc/)
 
 ---
 
-### 3. Western Digital is already sold out of hard drives for all of 2026 chief says some long-term agreements for 2027 and 2028 already in place 
+### 2. NXP S32N79 octa-core Arm Cortex-A78E/12-core Cortex-R52 Super-Integration Processor targets Software-Defined Vehicles (SDV) 
 
-Western Digital has sold out of hard drives for 2026 and secured long-term agreements for 2027 and 2028.
+NXP's S32N79 processor is designed for software-defined vehicles, offering improved performance and features.
 
-💡 *Supply chain dominance restricts consumer access to Western Digital products.*
+💡 *Advanced features for Software-Defined Vehicles through AI-enabled ADAS capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/hdds/western-digital-is-already-sold-out-of-hard-drives-for-all-of-2026-chief-says-some-long-term-agreements-for-2027-and-2028-already-in-place)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/18/nxp-s32n79-octa-core-arm-cortex-a78e-12-core-cortex-r52-super-integration-processor-targets-software-defined-vehicles-sdv/)
+
+---
+
+### 3. Sony considering PlayStation 6 delay to 2029, while Nintendo could hike Switch 2 price, according to report memory and storage chip shortage now impacting products outside of RAM, storage, and GPUs 
+
+Sony may delay the PlayStation 6, while Nintendo could raise Switch 2 prices, due to a memory and storage chip shortage affecting consumer electronics beyond PCs.
+
+💡 *Chip shortage impacts gaming and beyond with far-reaching industry consequences.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/sony-considering-playstation-6-delay-to-2029-while-nintendo-could-hike-switch-2-price-according-to-report-memory-and-storage-chip-shortage-now-impacting-products-outside-of-ram-storage-and-gpus)
+
+---
+
+### 4. Turtle Beach's rotating button Stealth Pivot wireless controller falls to just $99.99 this hall effect gamepad hits its lowest ever price 
+
+The Turtle Beach Stealth Pivot HE gamepad drops to $99.99, its lowest price ever. This wireless controller features rotating button modules for customization. It offers multi-controller versatility.
+
+💡 *Gaming innovation at an affordable price point*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/turtle-beachs-rotating-button-stealth-pivot-wireless-controller-falls-to-just-usd99-99-this-hall-effect-gamepad-hits-its-lowest-ever-price)
 
 ---
 
