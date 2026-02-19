@@ -1,55 +1,45 @@
 # ⚡ Semiconductors
-**Week of February 18, 2026**
+**Week of February 19, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-02-18 06:52
+- **Articles this week:** 3
+- **Report generated:** 2026-02-19 04:58
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Murena Volla 12.6-inch privacy-focused tablet runs /e/OS Google-free Android OS on MediaTek Helio G99 SoC 
+### 1. Data storage Guinness World Record broken by QR code pixels measuring just 49nm 1.98 sq micrometer size is smaller than bacteria, can only be read with an electron microscope 
 
-The Murena Volla 12.6-inch tablet runs /e/OS on a MediaTek Helio G99 SoC, offering a Google-free Android experience with enhanced privacy features. It features 12GB of RAM, 512GB of storage, and a 13MP rear camera. This device is suitable for secure business, education, and family use.
+A new Guinness World Record for the smallest QR code has been achieved, measuring 49nm in pixel size. This record was set by TU Wien and Cerabyte through a collaboration. The tiny QR code can only be read with an electron microscope.
 
-💡 */e/OS provides a fully customizable, Google-free Android experience.*
+💡 *Advancements in nanotechnology enable secure, ultra-compact data storage solutions.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/18/murena-volla-12-6-inch-privacy-focused-tablet-runs-e-os-google-free-android-os-on-mediatek-helio-g99-soc/)
-
----
-
-### 2. NXP S32N79 octa-core Arm Cortex-A78E/12-core Cortex-R52 Super-Integration Processor targets Software-Defined Vehicles (SDV) 
-
-NXP's S32N79 processor is designed for software-defined vehicles, offering improved performance and features.
-
-💡 *Advanced features for Software-Defined Vehicles through AI-enabled ADAS capabilities.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/18/nxp-s32n79-octa-core-arm-cortex-a78e-12-core-cortex-r52-super-integration-processor-targets-software-defined-vehicles-sdv/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/data-storage-guinness-world-record-broken-by-qr-code-measuring-just-49nm-pixels-1-98-sq-micrometer-size-is-smaller-than-bacteria-can-only-be-read-with-an-electron-microscope)
 
 ---
 
-### 3. Sony considering PlayStation 6 delay to 2029, while Nintendo could hike Switch 2 price, according to report memory and storage chip shortage now impacting products outside of RAM, storage, and GPUs 
+### 2. Dutch Secretary of Defense threatens to 'jailbreak' nation's F-35 jet fighters says it's just like jailbreaking an iPhone, in response to questions over software independence 
 
-Sony may delay the PlayStation 6, while Nintendo could raise Switch 2 prices, due to a memory and storage chip shortage affecting consumer electronics beyond PCs.
+Dutch Secretary of Defense Gijs Tuinman compares 'jailbreaking' F-35 jets to iPhone modification, sparking speculation.
 
-💡 *Chip shortage impacts gaming and beyond with far-reaching industry consequences.*
+💡 *European nations seek software independence for F-35 jets amidst US support uncertainty.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/sony-considering-playstation-6-delay-to-2029-while-nintendo-could-hike-switch-2-price-according-to-report-memory-and-storage-chip-shortage-now-impacting-products-outside-of-ram-storage-and-gpus)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/dutch-secretary-of-defense-threatens-to-jailbreak-nations-f-35-jet-fighters-says-its-just-like-cracking-open-an-iphone-in-response-to-questions-over-software-independence)
 
 ---
 
-### 4. Turtle Beach's rotating button Stealth Pivot wireless controller falls to just $99.99 this hall effect gamepad hits its lowest ever price 
+### 3. Phison CEO thinks NAND shortages could shut down entire consumer electronics companies in 2026 claims at least one foundry demands three-year cash payment upfront 
 
-The Turtle Beach Stealth Pivot HE gamepad drops to $99.99, its lowest price ever. This wireless controller features rotating button modules for customization. It offers multi-controller versatility.
+Phison CEO warns that NAND shortages could devastate consumer electronics companies in 2026 due to extreme supply chain demands.
 
-💡 *Gaming innovation at an affordable price point*
+💡 *NAND supply chain instability threatens entire industries financially.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/turtle-beachs-rotating-button-stealth-pivot-wireless-controller-falls-to-just-usd99-99-this-hall-effect-gamepad-hits-its-lowest-ever-price)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/phison-ceo-thinks-nand-shortages-could-shut-down-entire-consumer-electronics-companies-in-2026-claims-at-least-one-foundry-demands-three-year-cash-payment-upfront)
 
 ---
 

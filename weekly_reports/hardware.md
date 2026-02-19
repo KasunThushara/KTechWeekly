@@ -1,125 +1,85 @@
 # 💻 Hardware
-**Week of February 18, 2026**
+**Week of February 19, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-02-18 06:52
+- **Articles this week:** 7
+- **Report generated:** 2026-02-19 04:58
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Olimex ESP32-P4-PC board offers HDMI video output, Ethernet, four USB 2.0 ports, and more ⭐
+### 1. Meta will deploy standalone Nvidia Grace CPUs in production, with Vera to follow company sees perf-per-watt improvements of up to 2X in some CPU workloads ⭐
 
-The Olimex ESP32-P4-PC board features a high-performance ESP32-P4 SoC, HDMI output, and multiple USB 2.0 ports, making it a feature-rich option for ESP32-P4 development. It supports various power sources, including USB Type-C, LiPo battery, and PoE. The board offers a 20-pin GPIO header for expansion and a UEXT connector.
+Meta and Nvidia partner to deploy standalone Grace CPUs in production, aiming to boost performance-per-watt in specific workloads.
 
-💡 *High-performance ESP32-P4 board boosts AI and IoT development*
+💡 *Improved CPU efficiency in certain workloads with up to 2X power gains.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/17/olimex-esp32-p4-pc-board-offers-hdmi-video-output-ethernet-four-usb-2-0-ports-and-more/)
-
----
-
-### 2. High-end Android phones are now powerful enough to emulate the PC version of Cyberpunk 2077 YouTuber gets 2020's hottest PC game running at playable frame rates on Red Magic 11 Pro 
-
-High-end Android phones can now emulate the PC version of Cyberpunk 2077 with playable frame rates, thanks to x86 emulation. This achievement was made possible by YouTuber ETA Prime using the Red Magic 11 Pro smartphone. The result showcases the significant progress in mobile gaming capabilities.
-
-💡 *High-end smartphones bridge the gap between PC and gaming performance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/high-end-android-phones-are-now-powerful-enough-to-emulate-the-pc-version-of-cyberpunk-2077-youtuber-gets-2020s-hottest-pc-game-running-at-playable-frame-rates-on-red-magic-11-pro)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/meta-will-deploy-standalone-nvidia-grace-cpus-in-production-with-vera-to-follow-company-sees-perf-per-watt-improvements-of-up-to-2x-in-some-cpu-workloads)
 
 ---
 
-### 3. NZXT unveils new H2 mini PC with 9800X3D, Intel 285K configurations H2 Flow Mini-ITX case and C850 SFX power supply for builders 
+### 2. TerraMaster F2-425 Plus 3+2-bay hybrid NAS review Part 1: unboxing, teardown, drives installation, and first boot ⭐
 
-NZXT introduces the H2 Mini PC with customizable configurations, paired with the H2 Flow Mini-ITX case and C850 SFX power supply, catering to compact PC builders.
+The TerraMaster F2-425 Plus 3+2-bay NAS is reviewed in its first part, focusing on unboxing, teardown, drive installation, and first boot experiences.
 
-💡 *Compact PC builders now have a highly customizable, powerful option available.*
+💡 *In-depth review offers valuable insights into NAS hardware and setup process.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/nzxt-unveils-new-h2-mini-pc-with-9800x3d-intel-285k-configurations-h2-flow-mini-itx-case-and-c850-sfx-power-supply-for-builders)
-
----
-
-### 4. Dell XPS 14 (2026) review: Two steps forward 
-
-The Dell XPS 14 (2026) offers an improved design and features. It boasts attractive aesthetics and a keyboard with a functional row, along with solid speakers and long battery life. However, the low-travel keyboard requires some adjustment.
-
-💡 *Design and feature upgrades outweigh keyboard drawbacks*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/dell-xps-14-2026-da14260-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/19/terramaster-f2-425-plus-32-bay-hybrid-nas-review-part-1-unboxing-teardown-drives-installation-and-first-boot/)
 
 ---
 
-### 5. Murena Volla 12.6-inch privacy-focused tablet runs /e/OS Google-free Android OS on MediaTek Helio G99 SoC 
+### 3. AsteroidOS 2.0 open-source smartwatch OS released, now supports around 30 devices ⭐
 
-The Murena Volla 12.6-inch tablet runs /e/OS on a MediaTek Helio G99 SoC, offering a Google-free Android experience with enhanced privacy features. It features 12GB of RAM, 512GB of storage, and a 13MP rear camera. This device is suitable for secure business, education, and family use.
+AsteroidOS 2.0, a Linux-based open-source smartwatch OS, has been released with support for around 30 devices. The new version includes features such as always-on display, tilt-to-wake, and a customizable QuickPanel. It has been a decade since the project's inception, with significant improvements made over time.
 
-💡 */e/OS provides a fully customizable, Google-free Android experience.*
+💡 *Open-source smartwatch OS gains momentum with improved features and support*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/18/murena-volla-12-6-inch-privacy-focused-tablet-runs-e-os-google-free-android-os-on-mediatek-helio-g99-soc/)
-
----
-
-### 6. NXP S32N79 octa-core Arm Cortex-A78E/12-core Cortex-R52 Super-Integration Processor targets Software-Defined Vehicles (SDV) 
-
-NXP's S32N79 processor is designed for software-defined vehicles, offering improved performance and features.
-
-💡 *Advanced features for Software-Defined Vehicles through AI-enabled ADAS capabilities.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/18/nxp-s32n79-octa-core-arm-cortex-a78e-12-core-cortex-r52-super-integration-processor-targets-software-defined-vehicles-sdv/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/18/asteroidos-2-0-open-source-smartwatch-os-released-now-supports-around-30-devices/)
 
 ---
 
-### 7. PiBot CNC Pendant V4.0 A handheld Bluetooth and RJ12 controller for FluidNC-based CNC machines 
+### 4. Nearly half of PC gamers prefer DLSS 4.5 over AMD's FSR and even native rendering Nvidia scores clean sweep in blind test of six titles 
 
-PiBot CNC Pendant V4.0 is a handheld controller for FluidNC-based CNC machines. It features a capacitive touchscreen, industrial-grade encoder, and Bluetooth/RJ12 connectivity. The device allows manual control and monitoring of CNC routers and laser engravers.
+Nvidia's DLSS 4.5 outperformed AMD's FSR and native rendering in a blind test, with 48.2% of votes. The test featured six different games, with users preferring the image quality of DLSS 4.5. Native rendering scored 24% and FSR 15% of the tally.
 
-💡 *Handheld control enhances CNC machine usability and safety*
+💡 *Nvidia's AI-powered DLSS technology dominates in image quality blind test.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/17/pibot-cnc-pendant-v4-0-a-handheld-bluetooth-and-rj12-controller-for-fluidnc-based-cnc-machines/)
-
----
-
-### 8. Brace for a barren landscape of new hardware launches, as AI demand reshapes the world of consumer electronics trillions in AI investment threaten to derail entire industries 
-
-The DRAM supply squeeze and AI demand reshape consumer electronics landscape, threatening entire industries with massive scale and investment.
-
-💡 *AI-driven growth disrupts traditional industries with unprecedented scale and investment.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ai-demand-reshapes-consumer-electronics)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nearly-half-of-pc-gamers-prefer-dlss-4-5-over-amds-fsr-and-even-native-rendering-nvidia-scores-clean-sweep-in-blind-test-of-six-titles)
 
 ---
 
-### 9. This Corsair RAM and Gigabyte AM5 motherboard bundle is just $67 more than buying the RAM alone 32GB of RAM and B850 Aorus Elite Wifi 7 shaves $133 off buying separately 
+### 5. Elegoo Centauri Carbon 2 Review: A Four-Color Variant 
 
-The Gigabyte B850 Aorus Elite Wifi 7 + 32GB Corsair Vengeance RGB DDR5-6400 bundle is available at 20% off on Newegg for under $505, offering AMD AM5 support, Wi-Fi 7, and RGB lighting.
+The Elegoo Centauri Carbon 2 is a four-color variant FDM 3D printer, offering enhanced color capabilities. It provides a more comprehensive and versatile printing experience for users. This printer is a significant upgrade from its predecessor.
 
-💡 *Buying a bundle saves significantly compared to purchasing components separately.*
+💡 *Elegoo's surprise upgrade transforms the Centauri series with color capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/this-corsair-ram-and-gigabyte-am5-motherboard-bundle-is-just-usd67-more-than-buying-the-ram-alone-32gb-of-ram-and-b850-aorus-elite-wifi-7-shaves-usd133-off-buying-separately)
-
----
-
-### 10. Tech tinkerer gets Gemini to help him 'vibe code' an x86 motherboard design bot help was impressive, but project still required human awareness and intervention 
-
-A tech tinkerer utilized Gemini's AI to aid in designing an x86 motherboard, leveraging its capabilities to enhance the design process. However, human intervention and awareness remained necessary throughout the project.
-
-💡 *AI-assisted design requires human oversight and creative problem-solving skills.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/raspberry-pi/raspberry-pi-projects/tech-tinkerer-gets-gemini-to-help-him-design-an-x86-motherboard-from-scratch-bot-help-was-impressive-but-project-still-required-human-awareness-and-intervention)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/elegoo-centauri-carbon-2-review)
 
 ---
 
-### 11. $50 junk second-hand motherboard turns into a SSD treasure trove worth $1,500 12 terabytes of blazing-fast storage finds a new owner amid crushing shortages 
+### 6. Lenovo denies allegations of transferring data to China class action lawsuit alleges company uses trackers to expose American behavioral data to foreign adversaries  
 
-A Redditor bought a damaged Z690 motherboard for $50, discovering up to $1,500 worth of SSDs hidden beneath the heatsinks, taking advantage of a storage shortage.
+A class-action lawsuit alleges Lenovo transfers American data to Chinese servers, exposing behavioral data to foreign adversaries through website trackers.
 
-💡 *Second-hand electronics can conceal hidden value in times of shortage.*
+💡 *Lenovo's data collection practices raise US national security and privacy concerns*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/usd50-junk-second-hand-motherboard-turns-into-a-ssd-treasure-trove-worth-usd1-500-12-terabytes-of-blazing-fast-storage-finds-a-new-owner-amid-crushing-shortages)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/lenovo-denies-allegations-of-transferring-data-to-china-class-action-lawsuit-alleges-company-uses-trackers-to-expose-american-behavioral-data-to-foreign-adversaries)
+
+---
+
+### 7. Save $206 on a Ryzen 7 5800XT, 32GB of DDR4 Corsair RAM, and an Asus ROG Strix B550-F Gaming motherboard with this combo start your AM4 PC for just $408 
+
+Build a high-performance AM4 PC with a Ryzen 7 5800XT and Asus ROG Strix B550-F Gaming motherboard, paired with 32GB of DDR4 Corsair RAM, all for just $408.
+
+💡 *High-performance PC build at an affordable price point is available.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-usd206-on-a-ryzen-7-5800xt-32gb-of-ddr4-corsair-ram-and-an-asus-rog-strix-b550-f-gaming-motherboard-with-this-combo-start-your-am4-pc-for-just-usd408)
 
 ---
 

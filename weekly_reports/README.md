@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of February 18, 2026**
+**Week of February 19, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Olimex ESP32-P4-PC board offers HDMI video output, Ethernet, four USB 2.0 ports, and more ⭐
-
-**🤖 AI & ML**
-
-The Olimex ESP32-P4-PC board features a high-performance ESP32-P4 SoC, HDMI output, and multiple USB 2.0 ports, making it a feature-rich option for ESP32-P4 development. It supports various power sources, including USB Type-C, LiPo battery, and PoE. The board offers a 20-pin GPIO header for expansion and a UEXT connector.
-
-💡 **Key Point:** High-performance ESP32-P4 board boosts AI and IoT development
-
-🔗 [Read More](https://www.cnx-software.com/2026/02/17/olimex-esp32-p4-pc-board-offers-hdmi-video-output-ethernet-four-usb-2-0-ports-and-more/)
-
----
-
-### 2. Olimex ESP32-P4-PC board offers HDMI video output, Ethernet, four USB 2.0 ports, and more ⭐
+### 1. Meta will deploy standalone Nvidia Grace CPUs in production, with Vera to follow company sees perf-per-watt improvements of up to 2X in some CPU workloads ⭐
 
 **💻 Hardware**
 
-The Olimex ESP32-P4-PC board features a high-performance ESP32-P4 SoC, HDMI output, and multiple USB 2.0 ports, making it a feature-rich option for ESP32-P4 development. It supports various power sources, including USB Type-C, LiPo battery, and PoE. The board offers a 20-pin GPIO header for expansion and a UEXT connector.
+Meta and Nvidia partner to deploy standalone Grace CPUs in production, aiming to boost performance-per-watt in specific workloads.
 
-💡 **Key Point:** High-performance ESP32-P4 board boosts AI and IoT development
+💡 **Key Point:** Improved CPU efficiency in certain workloads with up to 2X power gains.
 
-🔗 [Read More](https://www.cnx-software.com/2026/02/17/olimex-esp32-p4-pc-board-offers-hdmi-video-output-ethernet-four-usb-2-0-ports-and-more/)
-
----
-
-### 3. High-end Android phones are now powerful enough to emulate the PC version of Cyberpunk 2077 YouTuber gets 2020's hottest PC game running at playable frame rates on Red Magic 11 Pro 
-
-**🎮 GPUs**
-
-High-end Android phones can now emulate the PC version of Cyberpunk 2077 with playable frame rates, thanks to x86 emulation. This achievement was made possible by YouTuber ETA Prime using the Red Magic 11 Pro smartphone. The result showcases the significant progress in mobile gaming capabilities.
-
-💡 **Key Point:** High-end smartphones bridge the gap between PC and gaming performance.
-
-🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/high-end-android-phones-are-now-powerful-enough-to-emulate-the-pc-version-of-cyberpunk-2077-youtuber-gets-2020s-hottest-pc-game-running-at-playable-frame-rates-on-red-magic-11-pro)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/meta-will-deploy-standalone-nvidia-grace-cpus-in-production-with-vera-to-follow-company-sees-perf-per-watt-improvements-of-up-to-2x-in-some-cpu-workloads)
 
 ---
 
-### 4. PiBot CNC Pendant V4.0 A handheld Bluetooth and RJ12 controller for FluidNC-based CNC machines 
-
-**🤖 AI & ML**
-
-PiBot CNC Pendant V4.0 is a handheld controller for FluidNC-based CNC machines. It features a capacitive touchscreen, industrial-grade encoder, and Bluetooth/RJ12 connectivity. The device allows manual control and monitoring of CNC routers and laser engravers.
-
-💡 **Key Point:** Handheld control enhances CNC machine usability and safety
-
-🔗 [Read More](https://www.cnx-software.com/2026/02/17/pibot-cnc-pendant-v4-0-a-handheld-bluetooth-and-rj12-controller-for-fluidnc-based-cnc-machines/)
-
----
-
-### 5. High-end Android phones are now powerful enough to emulate the PC version of Cyberpunk 2077 YouTuber gets 2020's hottest PC game running at playable frame rates on Red Magic 11 Pro 
+### 2. TerraMaster F2-425 Plus 3+2-bay hybrid NAS review Part 1: unboxing, teardown, drives installation, and first boot ⭐
 
 **💻 Hardware**
 
-High-end Android phones can now emulate the PC version of Cyberpunk 2077 with playable frame rates, thanks to x86 emulation. This achievement was made possible by YouTuber ETA Prime using the Red Magic 11 Pro smartphone. The result showcases the significant progress in mobile gaming capabilities.
+The TerraMaster F2-425 Plus 3+2-bay NAS is reviewed in its first part, focusing on unboxing, teardown, drive installation, and first boot experiences.
 
-💡 **Key Point:** High-end smartphones bridge the gap between PC and gaming performance.
+💡 **Key Point:** In-depth review offers valuable insights into NAS hardware and setup process.
 
-🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/high-end-android-phones-are-now-powerful-enough-to-emulate-the-pc-version-of-cyberpunk-2077-youtuber-gets-2020s-hottest-pc-game-running-at-playable-frame-rates-on-red-magic-11-pro)
+🔗 [Read More](https://www.cnx-software.com/2026/02/19/terramaster-f2-425-plus-32-bay-hybrid-nas-review-part-1-unboxing-teardown-drives-installation-and-first-boot/)
+
+---
+
+### 3. AsteroidOS 2.0 open-source smartwatch OS released, now supports around 30 devices ⭐
+
+**💻 Hardware**
+
+AsteroidOS 2.0, a Linux-based open-source smartwatch OS, has been released with support for around 30 devices. The new version includes features such as always-on display, tilt-to-wake, and a customizable QuickPanel. It has been a decade since the project's inception, with significant improvements made over time.
+
+💡 **Key Point:** Open-source smartwatch OS gains momentum with improved features and support
+
+🔗 [Read More](https://www.cnx-software.com/2026/02/18/asteroidos-2-0-open-source-smartwatch-os-released-now-supports-around-30-devices/)
+
+---
+
+### 4. Meta will deploy standalone Nvidia Grace CPUs in production, with Vera to follow company sees perf-per-watt improvements of up to 2X in some CPU workloads ⭐
+
+**📰 Tech News**
+
+Meta and Nvidia partner to deploy standalone Grace CPUs in production, aiming to boost performance-per-watt in specific workloads.
+
+💡 **Key Point:** Improved CPU efficiency in certain workloads with up to 2X power gains.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/meta-will-deploy-standalone-nvidia-grace-cpus-in-production-with-vera-to-follow-company-sees-perf-per-watt-improvements-of-up-to-2x-in-some-cpu-workloads)
+
+---
+
+### 5. TerraMaster F2-425 Plus 3+2-bay hybrid NAS review Part 1: unboxing, teardown, drives installation, and first boot ⭐
+
+**📰 Tech News**
+
+The TerraMaster F2-425 Plus 3+2-bay NAS is reviewed in its first part, focusing on unboxing, teardown, drive installation, and first boot experiences.
+
+💡 **Key Point:** In-depth review offers valuable insights into NAS hardware and setup process.
+
+🔗 [Read More](https://www.cnx-software.com/2026/02/19/terramaster-f2-425-plus-32-bay-hybrid-nas-review-part-1-unboxing-teardown-drives-installation-and-first-boot/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **32 articles** across **5 focused categories**.
+We covered **20 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 11 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 2 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 4 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 2 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 7 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 11 articles
+*Artificial Intelligence and Machine Learning* — 4 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 4 articles
+*Graphics cards and compute accelerators* — 2 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 11 articles
+*Computing hardware and development boards* — 7 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 4 articles
+*Chip manufacturing and design* — 3 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 2 articles
+*Industry news and product launches* — 4 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-02-18 at 06:52 by an autonomous AI curation system.
+Generated 2026-02-19 at 04:58 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
