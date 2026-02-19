@@ -7,101 +7,53 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Meta will deploy standalone Nvidia Grace CPUs in production, with Vera to follow company sees perf-per-watt improvements of up to 2X in some CPU workloads ⭐
+### 1. Review of GEEKOM A5 Pro 2026 Edition (AMD Ryzen 5 7530U) mini PC Part 1: specifications, unboxing, and teardown ⭐
 
 **💻 Hardware**
 
-Meta and Nvidia partner to deploy standalone Grace CPUs in production, aiming to boost performance-per-watt in specific workloads.
+Review of the GEEKOM A5 Pro 2026 Edition mini PC with AMD Ryzen 5 7530U processor, featuring 16GB DDR4 memory, 1TB NVMe SSD, and multiple ports for connectivity and display.
 
-💡 **Key Point:** Improved CPU efficiency in certain workloads with up to 2X power gains.
+💡 **Key Point:** Compact, powerful mini PC offers impressive performance and connectivity options.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/meta-will-deploy-standalone-nvidia-grace-cpus-in-production-with-vera-to-follow-company-sees-perf-per-watt-improvements-of-up-to-2x-in-some-cpu-workloads)
-
----
-
-### 2. TerraMaster F2-425 Plus 3+2-bay hybrid NAS review Part 1: unboxing, teardown, drives installation, and first boot ⭐
-
-**💻 Hardware**
-
-The TerraMaster F2-425 Plus 3+2-bay NAS is reviewed in its first part, focusing on unboxing, teardown, drive installation, and first boot experiences.
-
-💡 **Key Point:** In-depth review offers valuable insights into NAS hardware and setup process.
-
-🔗 [Read More](https://www.cnx-software.com/2026/02/19/terramaster-f2-425-plus-32-bay-hybrid-nas-review-part-1-unboxing-teardown-drives-installation-and-first-boot/)
+🔗 [Read More](https://www.cnx-software.com/2026/02/19/review-geekom-a5-pro-2026-edition-amd-ryzen-5-7530u-mini-pc-specifications-unboxing-and-teardown/)
 
 ---
 
-### 3. AsteroidOS 2.0 open-source smartwatch OS released, now supports around 30 devices ⭐
+### 2. Review of GEEKOM A5 Pro 2026 Edition (AMD Ryzen 5 7530U) mini PC Part 1: specifications, unboxing, and teardown ⭐
 
-**💻 Hardware**
+**🎮 GPUs**
 
-AsteroidOS 2.0, a Linux-based open-source smartwatch OS, has been released with support for around 30 devices. The new version includes features such as always-on display, tilt-to-wake, and a customizable QuickPanel. It has been a decade since the project's inception, with significant improvements made over time.
+Review of the GEEKOM A5 Pro 2026 Edition mini PC with AMD Ryzen 5 7530U processor, featuring 16GB DDR4 memory, 1TB NVMe SSD, and multiple ports for connectivity and display.
 
-💡 **Key Point:** Open-source smartwatch OS gains momentum with improved features and support
+💡 **Key Point:** Compact, powerful mini PC offers impressive performance and connectivity options.
 
-🔗 [Read More](https://www.cnx-software.com/2026/02/18/asteroidos-2-0-open-source-smartwatch-os-released-now-supports-around-30-devices/)
-
----
-
-### 4. Meta will deploy standalone Nvidia Grace CPUs in production, with Vera to follow company sees perf-per-watt improvements of up to 2X in some CPU workloads ⭐
-
-**📰 Tech News**
-
-Meta and Nvidia partner to deploy standalone Grace CPUs in production, aiming to boost performance-per-watt in specific workloads.
-
-💡 **Key Point:** Improved CPU efficiency in certain workloads with up to 2X power gains.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/meta-will-deploy-standalone-nvidia-grace-cpus-in-production-with-vera-to-follow-company-sees-perf-per-watt-improvements-of-up-to-2x-in-some-cpu-workloads)
-
----
-
-### 5. TerraMaster F2-425 Plus 3+2-bay hybrid NAS review Part 1: unboxing, teardown, drives installation, and first boot ⭐
-
-**📰 Tech News**
-
-The TerraMaster F2-425 Plus 3+2-bay NAS is reviewed in its first part, focusing on unboxing, teardown, drive installation, and first boot experiences.
-
-💡 **Key Point:** In-depth review offers valuable insights into NAS hardware and setup process.
-
-🔗 [Read More](https://www.cnx-software.com/2026/02/19/terramaster-f2-425-plus-32-bay-hybrid-nas-review-part-1-unboxing-teardown-drives-installation-and-first-boot/)
+🔗 [Read More](https://www.cnx-software.com/2026/02/19/review-geekom-a5-pro-2026-edition-amd-ryzen-5-7530u-mini-pc-specifications-unboxing-and-teardown/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **20 articles** across **5 focused categories**.
+We covered **2 articles** across **2 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 4 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 2 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 7 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
+| 🎮 [GPUs](gpus.md) | 1 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 1 | Computing hardware and development boards |
 
 ---
 
 ## 🗂️ Browse by Category
 
-### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 4 articles
-
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 2 articles
+*Graphics cards and compute accelerators* — 1 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 7 articles
-
-### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 3 articles
-
-### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 4 articles
+*Computing hardware and development boards* — 1 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-02-19 at 04:58 by an autonomous AI curation system.
+Generated 2026-02-19 at 09:28 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

@@ -1,130 +1,13 @@
 [
   {
-    "title": "Save $206 on a Ryzen 7 5800XT, 32GB of DDR4 Corsair RAM, and an Asus ROG Strix B550-F Gaming motherboard with this combo start your AM4 PC for just $408",
-    "summary": "Get a decent DDR4 bundle for just $400.",
-    "link": "https://www.tomshardware.com/pc-components/save-usd206-on-a-ryzen-7-5800xt-32gb-of-ddr4-corsair-ram-and-an-asus-rog-strix-b550-f-gaming-motherboard-with-this-combo-start-your-am4-pc-for-just-usd408",
+    "title": "Review of GEEKOM A5 Pro 2026 Edition (AMD Ryzen 5 7530U) mini PC Part 1: specifications, unboxing, and teardown",
+    "summary": "We ve just received a sample of the GEEKOM A5 Pro 2026 Edition mid-range mini PC for review. It s powered by an AMD Ryzen 5 7530U 6-core/12-thread processor clocked at up to 4.5GHz, and equipped with 16GB dual-channel DDR4-3200MHz SODIMM memory and a 1TB NVMe SSD. The Windows 11 Pro computer features two 4K-capable HDMI 2.0 ports, two USB-C ports with DisplayPort Alt mode, a 2.5GbE RJ45 jack, a Wi-Fi 6 and Bluetooth 5.2 module, a full-size SD card reader, and a few USB 32/2.0 Type-A ports. In the first part of the review, we ll go through the specifications, an unboxing, and a teardown of the GEEKOM A5 Pro 2026 Edition mini PC, before booting it into Windows 11 Pro to make sure it s working fine. In the next two parts of the review, we ll then report our experience with Windows 11 Pro and an early Ubuntu 26.04 image with detailed [...] The post Review of GEEKOM A5 Pro 2026 Edition (AMD Ryzen 5 7530U) mini PC Part 1: specifications, unboxing, and teardown appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/02/19/review-geekom-a5-pro-2026-edition-amd-ryzen-5-7530u-mini-pc-specifications-unboxing-and-teardown/",
     "categories": [
       "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-02-19T04:58:33.351804"
-  },
-  {
-    "title": "Nearly half of PC gamers prefer DLSS 4.5 over AMD's FSR and even native rendering Nvidia scores clean sweep in blind test of six titles",
-    "summary": "In a new blind test featuring six different games, users heavily preferred the image quality of DLSS 4.5 and crowned it as the best against FSR 4 and native rendering. Nvidia walked away with 48.2% of all votes, with native rendering scoring 24% and FSR coming in third place with 15% of the tally.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nearly-half-of-pc-gamers-prefer-dlss-4-5-over-amds-fsr-and-even-native-rendering-nvidia-scores-clean-sweep-in-blind-test-of-six-titles",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-19T04:58:33.351885"
-  },
-  {
-    "title": "Over 80% of companies report no productivity gains from AI so far despite billions in investment, survey suggests 6,000 executives also reveal 1/3 of leaders use AI, but only for 90 minutes a week",
-    "summary": "A survey of 6,000 executives reveals a significant productivity disconnect, where 80% of firms report no measurable improvement to operations with the use of AI, while a third of senior leaders only use the technology themselves for just 1.5 hours per week.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/over-80-percent-of-companies-report-no-productivity-gains-from-ai-so-far-despite-billions-in-investment-survey-suggests-6-000-executives-also-reveal-1-3-of-leaders-use-ai-but-only-for-90-minutes-a-week",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-19T04:58:33.351966"
-  },
-  {
-    "title": "Elegoo Centauri Carbon 2 Review: A Four-Color Variant",
-    "summary": "Elegoo promised a color add-on, but instead gave us a whole new printer.",
-    "link": "https://www.tomshardware.com/3d-printing/elegoo-centauri-carbon-2-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-19T04:58:33.352011"
-  },
-  {
-    "title": "Lenovo denies allegations of transferring data to China class action lawsuit alleges company uses trackers to expose American behavioral data to foreign adversaries ",
-    "summary": "A lawsuit says that Lenovo is tracking Americans visiting its website and exporting all the information to its Chinese servers.",
-    "link": "https://www.tomshardware.com/tech-industry/lenovo-denies-allegations-of-transferring-data-to-china-class-action-lawsuit-alleges-company-uses-trackers-to-expose-american-behavioral-data-to-foreign-adversaries",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-19T04:58:33.352078"
-  },
-  {
-    "title": "Data storage Guinness World Record broken by QR code pixels measuring just 49nm 1.98 sq micrometer size is smaller than bacteria, can only be read with an electron microscope",
-    "summary": "A collaboration between TU Wien and Cerabyte has established a new Guinness World Record for creating and reading the smallest ever QR codes.",
-    "link": "https://www.tomshardware.com/pc-components/storage/data-storage-guinness-world-record-broken-by-qr-code-measuring-just-49nm-pixels-1-98-sq-micrometer-size-is-smaller-than-bacteria-can-only-be-read-with-an-electron-microscope",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-19T04:58:33.352157"
-  },
-  {
-    "title": "$1,000 bought an RTX 5080 in November 2025, now it only buys an RTX 5070 Ti report shows 15% average global price hike across Nvidia, AMD & Intel GPUs",
-    "summary": "Nvidia's RTX 5090 is the most overpriced GPU in the world, selling at 65% above its MSRP while AMD's RX 9070 XT saw the smallest price hike of just 7% worldwide. India has been hit the worse with extreme price surges, while Australia has been largely stable. On average, GPUs are now 15% more expensive around the world.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/usd1-000-bought-an-rtx-5080-in-november-2025-now-it-only-buys-an-rtx-5070-ti-report-shows-15-percent-average-global-price-hike-across-nvidia-amd-and-intel-gpus",
-    "categories": [
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-02-19T04:58:33.352218"
-  },
-  {
-    "title": "Meta will deploy standalone Nvidia Grace CPUs in production, with Vera to follow company sees perf-per-watt improvements of up to 2X in some CPU workloads",
-    "summary": "As part of a broad partnership announced today, Nvidia says Meta will deploy its Arm-powered Grace server CPUs as standalone platforms in production data centers to boost performance-per-watt in certain workloads.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/meta-will-deploy-standalone-nvidia-grace-cpus-in-production-with-vera-to-follow-company-sees-perf-per-watt-improvements-of-up-to-2x-in-some-cpu-workloads",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
     "quality_score": 15,
-    "processed_date": "2026-02-19T04:58:33.352285"
-  },
-  {
-    "title": "Dutch Secretary of Defense threatens to 'jailbreak' nation's F-35 jet fighters says it's just like jailbreaking an iPhone, in response to questions over software independence",
-    "summary": "Is Dutch Sec. Gijs Tuinman alluding to a European effort to continue using their F-35 jets even if the U.S. stops supporting them?",
-    "link": "https://www.tomshardware.com/tech-industry/dutch-secretary-of-defense-threatens-to-jailbreak-nations-f-35-jet-fighters-says-its-just-like-cracking-open-an-iphone-in-response-to-questions-over-software-independence",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-19T04:58:33.352339"
-  },
-  {
-    "title": "Phison CEO thinks NAND shortages could shut down entire consumer electronics companies in 2026 claims at least one foundry demands three-year cash payment upfront",
-    "summary": "Phison CEO says NAND shortages can kill consumer electronics companies in 2026",
-    "link": "https://www.tomshardware.com/pc-components/storage/phison-ceo-thinks-nand-shortages-could-shut-down-entire-consumer-electronics-companies-in-2026-claims-at-least-one-foundry-demands-three-year-cash-payment-upfront",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-19T04:58:33.352388"
-  },
-  {
-    "title": "TerraMaster F2-425 Plus 3+2-bay hybrid NAS review Part 1: unboxing, teardown, drives installation, and first boot",
-    "summary": "TerraMaster has sent us a sample of the F2-425 Plus 3+2-bay NAS for review. It s powered by an Intel Processor N150 CPU paired with 8GB of RAM, with two 3.5-inch SATA bays and three M.2 NVMe sockets for storage, as well as two 5GbE RJ45 jacks, and a few USB ports. Since we ve already written the specifications in the previous article, we ll focus the first part of the review on an unboxing and a teardown to check out the hardware design, before showing how to install the drives, and giving it a quick first try. TerraMaster F2-425 Plus NAS unboxing We received the F2-425 Plus All new 2-Bay Hybrid NAS in its retail package. UPS took nearly two months to deliver it from Hong Kong to Thailand, mostly due to customs issues, but I digress. The package includes an accessories box with a Quick Installation Guide, a Limited Warranty brochure, [...] The post TerraMaster F2-425 Plus 3+2-bay hybrid NAS review Part 1: unboxing, teardown, drives installation, and first boot appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/02/19/terramaster-f2-425-plus-32-bay-hybrid-nas-review-part-1-unboxing-teardown-drives-installation-and-first-boot/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-02-19T04:58:33.352871"
-  },
-  {
-    "title": "AsteroidOS 2.0 open-source smartwatch OS released, now supports around 30 devices",
-    "summary": "AsteroidOS 2.0 Linux-based, open-source smartwatch operating system has just been released with features such as always-on display support, Tilt-to-Wake, a customizable QuickPanel, multiple launcher styles, Nightstand mode, performance improvements, and support for about 30 devices. It s been a long journey. We first noted the open-source project in 2016 when Florent Revest showcased a basic user experience on the LG G Watch, just before giving a talk at FOSDEM 2016 introducing AsteroidOS. This was followed by the launch of the Connect Watch (crowdfunded) AsteroidOS smartwatch in 2017 by a French company (which didn t get funded), and AsteroidOS 1.0 was released in 2018. So it s been ten years since it all started, and the developers have now released AsteroidOS 2.0. AsteroidOS 2.0 highlights: New features Always-on Display, Tilt-to-wake, Palm-to-sleep Heart rate monitor app Initial step counting support Music volume control Compass support Support for Bluetooth HID and Audio Design, Usability, and App Improvements [...] The post AsteroidOS 2.0 open-source smartwatch OS released, now supports around 30 devices appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/02/18/asteroidos-2-0-open-source-smartwatch-os-released-now-supports-around-30-devices/",
-    "categories": [
-      "Tech News",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-02-19T04:58:33.352989"
+    "processed_date": "2026-02-19T09:28:42.614832"
   }
 ]
