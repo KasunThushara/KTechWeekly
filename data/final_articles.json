@@ -1,14 +1,807 @@
 [
   {
-    "title": "Review of GEEKOM A5 Pro 2026 Edition (AMD Ryzen 5 7530U) mini PC Part 1: specifications, unboxing, and teardown",
-    "summary": "Review of the GEEKOM A5 Pro 2026 Edition mini PC with AMD Ryzen 5 7530U processor, featuring 16GB DDR4 memory, 1TB NVMe SSD, and multiple ports for connectivity and display.",
-    "link": "https://www.cnx-software.com/2026/02/19/review-geekom-a5-pro-2026-edition-amd-ryzen-5-7530u-mini-pc-specifications-unboxing-and-teardown/",
+    "title": "AMD's next-gen Ryzen 10000 desktop CPUs rumored to come in seven different configs Starting from 6 cores, flagship \"Olympic Ridge\" silicon may feature up to 24 cores",
+    "summary": "AMD's Ryzen 10000 series will refresh core configs with 12-core chiplets, offering up to 24 cores in a flagship model. The base config is reportedly 6 cores for budget buyers. This marks a significant shift away from 8-core CCDs.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amds-next-gen-ryzen-10000-desktop-cpus-rumored-to-come-in-seven-different-configs-starting-from-6-cores-flagship-olympic-ridge-silicon-may-feature-up-to-24-cores",
     "categories": [
       "Hardware",
       "GPUs"
     ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.761405",
+    "insight": "Broader core options for gamers, content creators, and mainstream users alike."
+  },
+  {
+    "title": "AMD's AI chips to be used as debt collateral in $300 million loan, report says Cloud startup to use chips in Ohio datacenter",
+    "summary": "AMD's AI chips serve as collateral in a $300 million loan to cloud startup Crusoe, backed by Goldman Sachs for its Ohio datacenter.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/amds-ai-chips-to-be-used-as-debt-collateral-in-usd300-million-loan-report-says-cloud-startup-to-use-chips-in-ohio-datacenter",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.761473",
+    "insight": "Tech companies repurposing hardware as collateral, disrupting traditional financing models."
+  },
+  {
+    "title": "Razer unveils$500 flagship gaming keyboard Huntsman Signature Edition built from CNC-machined aluminum, featuring 8,000 Hz polling and Snap Tap",
+    "summary": "Razer has released the Huntsman Signature Edition, a $500 gaming keyboard made from CNC-machined aluminum, featuring a PVD mirror finish and 8,000 Hz polling.",
+    "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/razer-unveils-usd500-flagship-gaming-keyboard-huntsman-signature-edition-built-from-cnc-machined-aluminum-featuring-8-000-hz-polling-and-snap-tap",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.761547",
+    "insight": "Luxury gaming keyboard design meets high-performance features."
+  },
+  {
+    "title": "Acer and Asus shut down support for PC and laptops in wake of patent dispute ruling, drivers and updates inaccessible to existing customers German website finds a workaround",
+    "summary": "Asus and Acer shut down German websites due to patent dispute with Nokia. The issue affects existing customers' access to support, drivers, and updates for their PCs and laptops. A German website has found a workaround.",
+    "link": "https://www.tomshardware.com/pc-components/acer-and-asus-shut-down-support-for-pc-and-laptops-in-wake-of-patent-dispute-ruling-drivers-and-updates-inaccessible-to-existing-customers-german-website-finds-a-workaround",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.761613",
+    "insight": "Patent disputes can disrupt consumer access to essential product support."
+  },
+  {
+    "title": "Microsoft's new Windows 11 speed test is just a link to Ookla's Speedtest via Bing button housed in the taskbar in latest Insider Preview build",
+    "summary": "Microsoft's latest Insider Preview build adds a simplified Ookla Speedtest via Bing to the taskbar, accessible through the network icon or quick settings, providing a convenient internet speed check for beta testers.",
+    "link": "https://www.tomshardware.com/software/windows/microsofts-new-windows-11-speed-test-is-just-a-link-to-ooklas-speedtest-via-bing-button-housed-in-the-taskbar-in-latest-insider-preview-build",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-20T09:25:03.761686",
+    "insight": "Convenience-focused update aims to streamline internet speed testing experience"
+  },
+  {
+    "title": "Get Tom's Hardware Premium for less than $3 a month access our hardware roadmaps, deeper analysis, exclusive features, and unlock the Bench database",
+    "summary": "Subscribe to Tom's Hardware Premium for under $3/month annually, unlocking exclusive features and insights.",
+    "link": "https://www.tomshardware.com/tech-industry/toms-hardware-premium-3-month",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-20T09:25:03.761743",
+    "insight": "Unlock deep industry analysis for informed hardware purchasing decisions."
+  },
+  {
+    "title": "Dell launches new budget 1080p gaming monitor with an ultra-fast 240Hz refresh rate for less than $130 new 27-inch IPS display includes AMD FreeSync support and 0.5ms response time",
+    "summary": "Dell's new 27-inch gaming monitor offers a budget-friendly option with 240Hz refresh rate and AMD FreeSync support.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/dell-launches-new-budget-1080p-gaming-monitor-with-an-ultra-fast-240hz-refresh-rate-for-less-than-usd130-new-27-inch-ips-display-includes-amd-freesync-support-and-0-5ms-response-time",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.761801",
+    "insight": "Affordable high-refresh-rate gaming monitor for budget-conscious gamers."
+  },
+  {
+    "title": "be quiet! Power Zone 2 1200W power supply review: Delivers outstanding performance at premium pricing",
+    "summary": "The be quiet! Power Zone 2 1200W power supply excels in silence and heat management. However, budget components raise concerns about long-term value and durability at a premium price.",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/be-quiet-power-zone-2-1200w-power-supply-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
     "quality_score": 15,
-    "processed_date": "2026-02-19T09:28:42.614832",
-    "insight": "Compact, powerful mini PC offers impressive performance and connectivity options."
+    "processed_date": "2026-02-20T09:25:03.761864",
+    "insight": "Silence and performance may not justify high-end pricing always."
+  },
+  {
+    "title": "Quantum teleportation demonstrated over existing fiber networks Deutsche Telekom s T Labs used commercially available Qunnect hardware for the demo, claims 90% average accuracy",
+    "summary": "Deutsche Telekom's T-Labs demonstrated quantum teleportation over existing fiber networks with 90% accuracy.",
+    "link": "https://www.tomshardware.com/networking/quantum-teleportation-demonstrated-over-existing-fiber-networks-deutsche-telekoms-t-labs-used-commercially-available-qunnect-hardware-for-the-demo-claims-90-percent-average-accuracy",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.761920",
+    "insight": "Enabling secure, long-distance data transfer through quantum information teleportation."
+  },
+  {
+    "title": "Thermalright Wonder Vision 360 UB ARGB Black review: Detachable 6.7-inch screen makes for unique possibilities",
+    "summary": "Thermalright's Wonder Vision 360 UB ARGB features a unique ultrawide display with hundreds of customization options, allowing for creative possibilities.",
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/thermalright-wonder-vision-360-ub-argb-black-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-02-20T09:25:03.761977",
+    "insight": "Customizable display enhances AIO cooler experience for content creators"
+  },
+  {
+    "title": "OpenAI aims to secure $100 Billion in latest funding round, reportedly aiming for an $800 billion valuation Parties offering up cash include Nvidia, Microsoft, SoftBank, and more",
+    "summary": "OpenAI is reportedly seeking $100 billion in funding from major tech firms, including Amazon, Nvidia, and Microsoft, aiming to offset its $1.4 trillion eight-year pledge.",
+    "link": "https://www.tomshardware.com/tech-industry/openai-aims-to-secure-usd100-billion-in-latest-funding-round-reportedly-aiming-for-an-usd800-billion-valuation-parties-offering-up-cash-include-nvidia-microsoft-softbank-and-more",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.762044",
+    "insight": "Massive funding supports OpenAI's ambitious AI research and development goals."
+  },
+  {
+    "title": "China s AI build-out forces a rapid shift to liquid cooling massive clusters put pressure on domestic suppliers to shift cooling methods",
+    "summary": "China's AI expansion drives demand for liquid cooling systems, forcing domestic suppliers to adapt. This shift is necessary to prevent overheating in massive AI clusters. Companies are investing in liquid cooling technology to support growing AI infrastructure.",
+    "link": "https://www.tomshardware.com/tech-industry/chinas-ai-build-out-forces-a-rapid-shift-to-liquid-cooling",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-20T09:25:03.762096",
+    "insight": "Massive AI clusters require innovative cooling solutions to prevent overheating."
+  },
+  {
+    "title": "Save $110 on this Asus ROG Xbox Ally handheld, back at a record-low price just $489.99 for this entry-level Steam Deck rival with 7-inch touchscreen, AMD Ryzen Z2 A CPU and 16GB RAM",
+    "summary": "The Asus ROG Xbox Ally handheld is now on sale for $489.99, down from its original price by $110. This portable gaming device features an AMD Ryzen Z2 A processor, 16GB of RAM, and a 7-inch IPS touchscreen.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/save-usd110-on-this-asus-rog-xbox-ally-handheld-back-at-a-record-low-price-just-usd489-99-for-this-entry-level-steam-deck-rival-with-7-inch-touchscreen-amd-ryzen-z2-a-cpu-and-16gb-ram",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.762158",
+    "insight": "Significant price drop makes Asus ROG Xbox Ally more affordable."
+  },
+  {
+    "title": "Pocket $510 in savings as Lenovo's Legion Pro 5 with RTX 5060 and 32GB of memory is slashed in price to just $1149.99 a superb value gaming laptop",
+    "summary": "Lenovo's Legion Pro 5 gaming laptop with RTX 5060 and 32GB memory is now available for $1,149.99, offering significant savings of $510 from its original price.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/pocket-usd510-in-savings-as-lenovos-legion-pro-5-with-rtx-5060-and-32gb-of-memory-is-slashed-in-price-to-just-usd1149-99-a-superb-value-gaming-laptop",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.762223",
+    "insight": "High-performance gaming laptop available at an affordable price point."
+  },
+  {
+    "title": "China brain computer interface outfit accelerates to human trials in quest to outpace Neuralink mix of government backing and investor enthusiasm speeds time to market for NeuroXess",
+    "summary": "China's streamlined planning and financing may give it BCI technology lead over US. NeuroXess is accelerating human trials with government backing and investor enthusiasm. This could outpace Elon Musk's Neuralink in the market.",
+    "link": "https://www.tomshardware.com/peripherals/wearable-tech/china-brain-computer-interface-outfit-accelerates-to-human-trials-in-quest-to-outpace-neuralink-mix-of-government-backing-and-investor-enthusiasm-speeds-time-to-market-for-neuroxess",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.762285",
+    "insight": "Government backing accelerates BCI technology development in China significantly."
+  },
+  {
+    "title": "A 16-year-old intern helped Netgear catch scammers in India for $800 Culprits would pose as Netgear employees & sell fake support packages to customers",
+    "summary": "A 16-year-old intern helped Netgear catch scammers in India by tracking down their bank accounts. The scammers posed as Netgear employees to sell fake support packages to customers. The intern's work led to a successful crackdown on the scammers.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/a-16-year-old-intern-helped-netgear-catch-scammers-in-india-for-usd800-culprits-would-pose-as-netgear-employees-and-sell-fake-support-packages-to-customers",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.762346",
+    "insight": "Teenage interns can have a significant impact on cybersecurity efforts."
+  },
+  {
+    "title": "MediaTek Genio 360/360P hexa/octa-core Cortex-A76/A55 AIoT SoC features 8 TOPS NPU for cost-sensitive embedded applications",
+    "summary": "MediaTek Genio 360 and Genio 360P are hexa/octa-core processors designed for cost-sensitive embedded applications, featuring up to 8 TOPS of AI performance via their MediaTek NPU.",
+    "link": "https://www.cnx-software.com/2026/02/20/mediatek-genio-360-360p-hexa-octa-core-cortex-a76-a55-aiot-soc-features-8-tops-npu-for-cost-sensitive-embedded-applications/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-02-20T09:25:03.762810",
+    "insight": "Cost-effective AI processing for industrial and IoT applications"
+  },
+  {
+    "title": "ASRock Industrial NUC(S) Ultra 300 BOX Series is powered by Intel Core Ultra 5 325 or Ultra 7 358H Panther Lake SoC",
+    "summary": "The ASRock Industrial NUC(S) Ultra 300 BOX Series offers high-performance mini PCs with up to 180 TOPS AI capabilities and features like DDR5 memory, M.2 NVMe storage, and 8K display support. The series comes in two sizes, with varying I/O options including 2.5GbE, USB 3.0, and WiFi 7 connectivity. Four SKUs are available, based on the Intel Core Ultra 5 325 or Ultra 7 358H Panther Lake SoC.",
+    "link": "https://www.cnx-software.com/2026/02/19/asrock-industrial-nucs-ultra-300-box-series-is-powered-by-intel-core-ultra-5-325-or-ultra-7-358h-panther-lake-soc/",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-02-20T09:25:03.762952",
+    "insight": "Industrial-grade mini PCs with AI capabilities and high-performance features"
+  },
+  {
+    "title": "Meet this smart building cowboy from Tulsa",
+    "summary": "Meet Mango, a smart building cowboy from Tulsa, revolutionizing CityPlex towers with efficiency and IoT expertise from Radix.",
+    "link": "https://www.fiercesensors.com/sensors/meet-smart-building-cowboy-tulsa",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.763834",
+    "insight": "Transforming outdated buildings into sustainable, high-tech hubs with data-driven management."
+  },
+  {
+    "title": "The memory crunch monster is real for edge devs",
+    "summary": "Memory shortages and surging prices affect edge projects' sensor capabilities severely.",
+    "link": "https://www.fiercesensors.com/sensors/memory-crunch-monster-real-edge-devs",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.763899",
+    "insight": "Higher memory costs compromise edge projects' sensor data processing capabilities."
+  },
+  {
+    "title": "Announcing Fierce Sensors Rising Stars 2026",
+    "summary": "Fierce Sensors Rising Stars 2026 honors innovators in sensors and electronics technology.",
+    "link": "https://www.fiercesensors.com/ai/rising-stars-feb-16",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.763984",
+    "insight": "Recognizing pioneers in sensor tech drives future innovation and growth."
+  },
+  {
+    "title": "Berkeley births intelligent spectral sensor for industry use",
+    "summary": "Berkeley researchers have developed an intelligent spectral sensor that can significantly improve processing speeds. This sensor uses advanced technology to quickly identify and locate target objects. The result is a 100-fold increase in digital processing speed.",
+    "link": "https://www.fiercesensors.com/sensors/berkeley-births-intelligent-spectral-sensor-industry-use",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764037",
+    "insight": "Accelerating industry applications with unprecedented digital processing efficiency."
+  },
+  {
+    "title": "That buzz you hear is sensor-laden drones chasing Olympic skiers",
+    "summary": "Drones equipped with multiple sensors will be used to capture detailed data on Olympic skiers' movements and performances at the 2026 Winter Olympics.",
+    "link": "https://www.fiercesensors.com/sensors/buzz-you-hear-sensor-laden-drones-chasing-olympic-skiers",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764098",
+    "insight": "Enhanced data analysis for performance optimization and safety improvement."
+  },
+  {
+    "title": "Sensors are used to stop ski jump suit cheating",
+    "summary": "RFID chips are used to detect tampering in ski jump suits, preventing cheating by enhancing lift potential.",
+    "link": "https://www.fiercesensors.com/sensors/sensors-are-used-stop-ski-jump-suit-cheating",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764163",
+    "insight": "Fair competition relies on honest equipment in high-stakes sports like ski jumping."
+  },
+  {
+    "title": "2026 Winter Olympics a sensory event",
+    "summary": "The 2026 Winter Olympics will heavily integrate sensors for precise measurement and evaluation, enhancing the accuracy of judging and performance analysis, and providing spectators with a more immersive experience.",
+    "link": "https://www.fiercesensors.com/sensors/2026-winter-olympics-sensory-event",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764246",
+    "insight": "Sensors elevate Winter Olympics precision and spectator engagement."
+  },
+  {
+    "title": "TI to pay $7.5B cash for Silicon Labs",
+    "summary": "Texas Instruments is acquiring Silicon Labs for $7.5 billion in cash, combining their tech and manufacturing capabilities to create a global leader in wireless connectivity technology.",
+    "link": "https://www.fiercesensors.com/embedded/ti-pay-75b-cash-silicon-labs",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764322",
+    "insight": "Merging tech giants drives innovation in wireless connectivity solutions"
+  },
+  {
+    "title": "Chicago s 277 air quality sensors measure soot, NO2 in dashboard",
+    "summary": "Chicago deploys 277 air quality sensors using Clarity Node-S technology, leveraging laser analysis to measure soot and NO2 levels.",
+    "link": "https://www.fiercesensors.com/sensors/chicagos-277-air-quality-sensors-measure-soot-no2-dashboard",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.764396",
+    "insight": "Advanced air monitoring enhances urban pollution mitigation efforts."
+  },
+  {
+    "title": "Big growth ahead for sensors in IoT and food freshness",
+    "summary": "Sensors in IoT and food freshness are poised for significant growth, with major players like IBM, Microsoft, Texas Instruments, Siemens, STMicroelectronics, and Murata leading the charge.",
+    "link": "https://www.fiercesensors.com/sensors/big-growth-ahead-sensors-iot-and-food-freshness",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764458",
+    "insight": "Advancements in sensor technology boost efficiency and reduce food waste."
+  },
+  {
+    "title": "Aeris pushes past 100M IoT connections with help from agentic AI",
+    "summary": "Aeris has surpassed 100 million IoT connections thanks to its acquisition of Ericsson's IoT Accelerator business, which has helped boost the company's capabilities and expand its reach in the IoT market.",
+    "link": "https://www.fiercesensors.com/iot-connectivity/aeris-pushes-past-100m-iot-connections-help-agentic-ai",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764529",
+    "insight": "Agile AI drives significant growth in IoT device connections globally."
+  },
+  {
+    "title": "Nvidia's new AI models enhance weather forecasting",
+    "summary": "Nvidia's new AI models enhance weather forecasting efficiency and accuracy, particularly for short-range and medium-range predictions. These advancements rely on complex algorithms and vast amounts of weather data. The improved forecast capabilities have significant implications for various industries.",
+    "link": "https://www.fiercesensors.com/ai/nvidias-new-ai-models-enhance-weather-forecasting",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764601",
+    "insight": "Enhanced weather forecasting supports more informed decision-making globally."
+  },
+  {
+    "title": "Growing IoT interest for restaurant operations - MachineQ survey",
+    "summary": "A MachineQ survey reveals a growing IoT interest among restaurants. Quick-service and fast-casual restaurants are investing in IoT technology. This trend aims to improve operational efficiency.",
+    "link": "https://www.fiercesensors.com/iot-connectivity/growing-iot-interest-restaurant-operations-machineq-survey",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764667",
+    "insight": "IoT adoption boosts operational efficiency in restaurants significantly"
+  },
+  {
+    "title": "IonQ buys SkyWater, pledges to support existing clients",
+    "summary": "IonQ acquires SkyWater, a 'quantum foundry' and chip manufacturer, to expand its capabilities and support existing clients.",
+    "link": "https://www.fiercesensors.com/sensors/ionq-buys-skywater-pledges-support-existing-clients",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764720",
+    "insight": "Merging chip manufacturing and quantum tech enhances scalability and accessibility."
+  },
+  {
+    "title": "SpotitEarly sniffs out partnership with Fox Chase Cancer Center",
+    "summary": "SpotItEarly partners with Fox Chase Cancer Center to develop innovative cancer screening methods. The partnership combines breath tests, canine detection, and AI-powered analysis. This approach aims to improve cancer diagnosis and treatment outcomes.",
+    "link": "https://www.fiercesensors.com/sensors/spotitearly-sniffs-out-partnership-fox-chase-cancer-center",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.764773",
+    "insight": "Early cancer detection through AI-enhanced canine breath analysis emerges."
+  },
+  {
+    "title": "Listen up: Cadence HiFi iQ DSP amps audio, voice AI processing",
+    "summary": "Cadence develops HiFi iQ DSP amps for audio and voice AI processing. This technology meets compute and signal processing demands in in-vehicle immersive audio and smart speakers. The company aims to enhance AI-driven audio experiences.",
+    "link": "https://www.fiercesensors.com/ai/listen-cadence-hifi-iq-dsp-amps-audio-voice-ai-processing",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.764818",
+    "insight": "AI-driven audio requires significant compute and signal processing boosts"
+  },
+  {
+    "title": "Ethernovia pulls in $90M to fuel Ethernet-based physical AI",
+    "summary": "Ethernovia secured $90M to develop Ethernet-based packet processor technology, enabling real-time physical AI in vehicles and robots.",
+    "link": "https://www.fiercesensors.com/sensors/ethernovia-pulls-90m-fuel-ethernet-based-physical-ai",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764863",
+    "insight": "Real-time AI in vehicles could revolutionize autonomous transportation systems."
+  },
+  {
+    "title": "Wiliot unveils Gen3 IoT Pixel sensor, push into physical AI",
+    "summary": "Wiliot unveils Gen3 IoT Pixel sensor, advancing physical AI capabilities. This innovation marks a significant step in the development of ambient IoT environments, which can now serve as enablers of physical AI. The Gen3 sensor is designed to further enable seamless, ubiquitous AI integration.",
+    "link": "https://www.fiercesensors.com/sensors/wiliot-unveils-gen3-iot-pixel-platform-push-physical-ai",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764906",
+    "insight": "IoT sensors are now enablers of physical AI experiences."
+  },
+  {
+    "title": "Diffraqtion s quantum camera for space apps draws $4.2M round",
+    "summary": "Diffraqtion's quantum camera startup has secured $4.2M in funding, boasting higher resolution and faster visual processing capabilities than traditional satellites and telescopes.",
+    "link": "https://www.fiercesensors.com/sensors/diffraqtions-quantum-camera-space-apps-draws-42m-round",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764948",
+    "insight": "Revolutionizing space exploration with quantum sensors and advanced visual processing."
+  },
+  {
+    "title": "How to detect nose dip in apes? Use an infrared sensor.",
+    "summary": "Scientists use MWIR sensors to detect fear in chimpanzees by monitoring nose temperature, which increases when apes experience stress or anxiety. These sensors, commonly used in industrial settings, provide a non-invasive method for studying primate emotions. By analyzing the data, researchers can better understand ape behavior and social dynamics.",
+    "link": "https://www.fiercesensors.com/sensors/how-detect-nose-dip-apes-use-infrared-sensor",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.764987",
+    "insight": "Detecting nose dip in apes reveals underlying emotional states."
+  },
+  {
+    "title": "Down-to-earth extended-SWIR sensor from Lynred launched",
+    "summary": "Lynred's extended-SWIR sensor enables industrial users to conduct spectral soil mapping and chemical identification with short-wave infrared sensing.",
+    "link": "https://www.fiercesensors.com/sensors/down-earth-extended-swir-sensor-lynred-launched",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.765027",
+    "insight": "Enhanced soil and chemical detection boosts industrial productivity and efficiency."
+  },
+  {
+    "title": "Scaling high-res sensors for emissions monitoring",
+    "summary": "High-resolution sensors with lab-certified optical and laser-based technology help accurately monitor emissions in real-world environments.",
+    "link": "https://www.fiercesensors.com/sensors/scaling-high-resolution-sensors-emissions-monitoring",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.765066",
+    "insight": "Accurate emissions monitoring supports stricter regulations and public health."
+  },
+  {
+    "title": "Bosch, Digid ready sensors for dazzling world of robots and autos at CES",
+    "summary": "Bosch and Digid are unveiling high-precision sensors for robots and autos at CES. Digid's 1 micrometer force and temperature sensors are ready for production.",
+    "link": "https://www.fiercesensors.com/sensors/bosch-digid-ready-sensors-dazzling-world-robots-and-autos-ces",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.765105",
+    "insight": "Advancements in sensor technology enable more precise automation and AI applications."
+  },
+  {
+    "title": "TDK partners with Engo AR sports eyewear, launches three IMUs",
+    "summary": "TDK partners with Engo to launch Engo AR sports eyewear. This technology displays real-time training stats within the athlete's field of vision. The launch includes three new IMUs.",
+    "link": "https://www.fiercesensors.com/sensors/tdk-partners-engo-ar-sports-eyewear-launches-three-imus",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-20T09:25:03.765148",
+    "insight": "Real-time tracking enhances athlete performance and training efficiency significantly"
+  },
+  {
+    "title": "Meet LG CLOiD to fold your laundry and help prep breakfast",
+    "summary": "LG CLOiD is a home robot that uses AI and sensors to assist with household tasks such as folding laundry and preparing breakfast. It recognizes voice and gesture inputs for seamless control. The robot aims to simplify household chores and improve daily life.",
+    "link": "https://www.fiercesensors.com/sensors/meet-lg-cloid-fold-your-laundry-and-help-prep-breakfast",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.765196",
+    "insight": "Smart home robots simplify household tasks with AI-powered assistance."
+  },
+  {
+    "title": "Microsoft tests new Windows AI in the taskbar and File Explorer",
+    "summary": "Microsoft is testing a new Windows AI feature called Ask Copilot, which integrates AI services into the taskbar and File Explorer, replacing Windows Search with an @ command syntax.",
+    "link": "https://www.techspot.com/news/111396-microsoft-tests-new-windows-ai-taskbar-file-explorer.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.765281",
+    "insight": "Enhanced AI functionality in Windows simplifies user experience significantly."
+  },
+  {
+    "title": "Google Chrome adds split view, PDF annotations, and Drive saves",
+    "summary": "Google Chrome has added a split view, PDF annotations, and Drive saves, boosting productivity with improved multitasking, note-taking, and cloud storage capabilities.",
+    "link": "https://www.techspot.com/downloads/4718-google-chrome.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.765345",
+    "insight": "Streamlined workflow increases user efficiency and collaboration capabilities."
+  },
+  {
+    "title": "A new US government site could help users worldwide access blocked content",
+    "summary": "A new US government portal aims to provide anonymous access to blocked content worldwide, routing traffic through US-based VPN servers and not tracking user activity.",
+    "link": "https://www.techspot.com/news/111393-us-plans-website-give-europeans-access-restricted-online.html",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.765406",
+    "insight": "Enabling global access to censored information without compromising user anonymity."
+  },
+  {
+    "title": "Project Silica breakthrough lets Microsoft store digital data in glass for 10,000 years",
+    "summary": "Microsoft's Project Silica enables storing digital data in glass for 10,000 years. The project has made significant advancements in cost, performance, and storage complexity. This breakthrough could revolutionize data preservation and storage.",
+    "link": "https://www.techspot.com/news/111381-project-silica-breakthrough-microsoft-store-digital-data-glass.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-02-20T09:25:03.765467",
+    "insight": "Enduring digital legacy for future generations"
+  },
+  {
+    "title": "The Trump administration wants Silicon Valley to fix federal tech",
+    "summary": "The Trump administration's Tech Force has secured partnerships with major tech companies to provide training and resources to support federal tech development.",
+    "link": "https://www.techspot.com/news/111389-trump-administration-wants-silicon-valley-fix-federal-tech.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.765533",
+    "insight": "Government and private sector collaboration boosts public sector tech capabilities."
+  },
+  {
+    "title": "The Elder Scrolls VI will feel more like Elder Scrolls than Starfield",
+    "summary": "The Elder Scrolls VI will return to open-world adventure, departing from recent detours. Fans can expect a more traditional Elder Scrolls experience. This marks a shift back to series roots.",
+    "link": "https://www.techspot.com/news/111386-elder-scrolls-vi-feel-more-like-elder-scrolls.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.765593",
+    "insight": "Bethesda is refocusing on core Elder Scrolls identity"
+  },
+  {
+    "title": "Robots run up walls and perform martial arts in China's most-watched TV event",
+    "summary": "Humanoid robots performed a synchronized martial arts routine on a TV event in China, showcasing advancements in robotics.",
+    "link": "https://www.techspot.com/news/111391-robots-run-up-walls-perform-martial-arts-china.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-20T09:25:03.765654",
+    "insight": "Robotics advancements reflect China's ambitions in emerging technologies and innovation."
+  },
+  {
+    "title": "Suddenly Toto's most valuable business isn't toilets, but chipmaking ceramics",
+    "summary": "Toto's shift in focus from toilets to chipmaking ceramics is driven by investor interest in electrostatic chucks, a component crucial for semiconductor etch tools. ESCs hold wafers stable and clean during plasma exposure. This change highlights the evolving priorities in the tech industry.",
+    "link": "https://www.techspot.com/news/111382-suddenly-toto-most-valuable-business-isnt-toilets-but.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.765715",
+    "insight": "Electrostatic chucks drive Toto's pivot to high-tech semiconductor applications."
+  },
+  {
+    "title": "The rise of delivery robots is sparking vandalism, protests, and debate",
+    "summary": "Serve Robotics has rapidly expanded its local delivery robot fleet.",
+    "link": "https://www.techspot.com/news/111387-rise-delivery-robots-sparking-vandalism-protests-debate.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.765771",
+    "insight": "Fast-growing tech sparks vandalism, protests, and public debate concerns."
+  },
+  {
+    "title": "AI-generated passwords are surprisingly easy to crack, researchers find",
+    "summary": "Researchers found that AI-generated passwords appear complex but are highly predictable, making them vulnerable to cracking. Security firm Irregular analyzed outputs from tools like Claude, ChatGPT, and Gemini. This highlights the limitations of AI-generated passwords.",
+    "link": "https://www.techspot.com/news/111392-ai-generated-passwords-surprisingly-easy-crack-researchers-find.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-20T09:25:03.765822",
+    "insight": "Predictability undermines the security of AI-generated passwords and user trust"
+  },
+  {
+    "title": "Windows 11 keeps adding small conveniences, including speed tests",
+    "summary": "Windows 11 adds a speed test taskbar button, but it's not a native benchmarking tool. Instead, it opens a Bing webpage with Ookla Speedtest in a simplified interface. This provides users with quick access to network speed testing.",
+    "link": "https://www.techspot.com/news/111383-windows-11-keeps-adding-small-conveniences-including-speed.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-20T09:25:03.765876",
+    "insight": "Convenience over native functionality in Windows 11's design decisions"
+  },
+  {
+    "title": "Pixel 10a launches at $499 with modest refinements and familiar hardware",
+    "summary": "The Pixel 10a sports a streamlined camera module design, providing a seamless feel in hand. The device launches at a competitive price of $499. Refinements are modest, with familiar hardware under the hood.",
+    "link": "https://www.techspot.com/news/111385-pixel-10a-launches-499-modest-refinements-familiar-hardware.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.765940",
+    "insight": "Subtle design improvements enhance user experience without significant cost increases"
+  },
+  {
+    "title": "Lords of the Fallen 2 PC requirements unveiled: RTX 3080 recommended for UE5-powered sequel",
+    "summary": "Lords of the Fallen 2's PC requirements have been unveiled on the Epic Games Store page, with a recommended GPU of the RTX 3080. The specs are on the higher end, suggesting a visually demanding game powered by Unreal Engine 5. Players will need to meet these requirements to play the game smoothly.",
+    "link": "https://www.techspot.com/news/111390-lords-fallen-2-pc-requirements-unveiled-rtx-3080.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-20T09:25:03.765996",
+    "insight": "High-end PC required for Lords of the Fallen 2's UE5 visuals."
+  },
+  {
+    "title": "Harmful chemicals found in dozens of popular headphones",
+    "summary": "A study found 98% of tested headphones contained bisphenol A, and over three-quarters contained its substitute, bisphenol S.",
+    "link": "https://www.techspot.com/news/111380-harmful-chemicals-found-dozens-popular-headphones.html",
+    "categories": [
+      "Tech News",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.766057",
+    "insight": "Consumer products may expose users to toxic chemicals without their knowledge."
+  },
+  {
+    "title": "Judge warns smart glasses wearers of contempt charges as Zuckerberg testifies in Meta trial",
+    "summary": "A judge warns of contempt charges for smart glasses wearers during Meta's testimony in a case where a 20-year-old claims Instagram, TikTok, YouTube, and Snapchat use as a child led to mental health issues.",
+    "link": "https://www.techspot.com/news/111388-judge-warns-smart-glasses-wearers-contempt-charges-zuckerberg.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.766122",
+    "insight": "Social media companies face accountability for children's mental health consequences."
+  },
+  {
+    "title": "AI agents push battlefield autonomy closer to reality in military tests",
+    "summary": "Scout AI's platform uses a layered model to make real-time tactical decisions, moving battlefield autonomy closer to reality.",
+    "link": "https://www.techspot.com/news/111384-ai-agents-push-battlefield-autonomy-closer-reality-military.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-20T09:25:03.766170",
+    "insight": "AI adapts to changing battlefield conditions in real-time decisions."
+  },
+  {
+    "title": "Etching the world's smallest QR code in ceramic pushes data storage to the nanoscale",
+    "summary": "Researchers at TU Wien etched the world's smallest QR code on ceramic, measuring 1.98 square micrometers. The code features pixels 49 nanometers in size, smaller than many bacteria. This achievement pushes data storage to the nanoscale.",
+    "link": "https://www.techspot.com/news/111378-etching-world-smallest-qr-code-ceramic-pushes-data.html",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-02-20T09:25:03.766253",
+    "insight": "Breakthrough in nanoscale data storage for future technologies."
+  },
+  {
+    "title": "The hidden risk of driving a car that runs on someone else's code",
+    "summary": "Modern vehicles rely on software continuity, not solely mechanical reliability. Remote authentication systems and over-the-air patches now determine whether a car 'runs' or not. This shift raises concerns about software-driven vehicle reliability and security.",
+    "link": "https://www.techspot.com/news/111369-hidden-risk-driving-car-runs-someone-else-code.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.766322",
+    "insight": "Software dependency makes vehicles vulnerable to remote hacking risks."
+  },
+  {
+    "title": "Need a fresh start? This Windows 11 ISO download makes clean installs easy",
+    "summary": "The Windows 11 ISO is a flexible tool for installing or reinstalling Windows 11, allowing users to create a bootable USB, run an in-place upgrade, or install the OS from scratch.",
+    "link": "https://www.techspot.com/downloads/7438-windows-11-iso.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.766380",
+    "insight": "Easy clean installs simplify PC setup and repair processes significantly."
+  },
+  {
+    "title": "Mozilla Firefox is ending support for Windows 7, this time for real",
+    "summary": "Mozilla Firefox is ending support for Windows 7, leaving users without a mainstream browser option. Many users still rely on the browser for daily tasks. This marks the end of an era for Windows 7 support.",
+    "link": "https://www.techspot.com/news/111377-mozilla-firefox-ending-support-windows-7-time-real.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.766436",
+    "insight": "Last mainstream browser option for aging Windows 7 users ends"
+  },
+  {
+    "title": "Dutch defense chief claims F-35 could be \"jailbroken like an iPhone\" to bypass US approval",
+    "summary": "Dutch defense chief Tuinman suggests F-35 software can be modified without US approval.",
+    "link": "https://www.techspot.com/news/111376-dutch-defense-chief-claims-f-35-could-jailbroken.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.766512",
+    "insight": "European forces may bypass US oversight on F-35 modifications"
+  },
+  {
+    "title": "Ford's upcoming $30,000 EV truck leans on efficiency instead of a massive battery pack",
+    "summary": "Ford's upcoming EV truck prioritizes efficiency over massive battery packs using a tightly integrated set of technologies, including structural lithium iron phosphate battery packs and a 48-volt zonal electrical system.",
+    "link": "https://www.techspot.com/news/111367-ford-upcoming-30000-ev-truck-leans-efficiency-instead.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-20T09:25:03.766581",
+    "insight": "Efficiency-focused EV design could reduce costs and improve range."
+  },
+  {
+    "title": "Enterprise software experiments with task-based pricing in the AI era",
+    "summary": "Enterprise software is experimenting with task-based pricing, deviating from traditional per-seat licensing.",
+    "link": "https://www.techspot.com/news/111366-enterprise-software-experiments-task-based-pricing-ai-era.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.766646",
+    "insight": "Flexible pricing models adapt to dynamic business needs in the AI era."
+  },
+  {
+    "title": "New ISO standard enables battery-free RFID sensors to stream continuous data",
+    "summary": "A new ISO standard enables battery-free RFID sensors to stream continuous data, eliminating the need for additional power sources. This breakthrough technology is the result of collaboration between four Japanese organizations. It's based on the ISO/IEC 18000-63 standard.",
+    "link": "https://www.techspot.com/news/111359-new-iso-standard-enables-battery-free-rfid-sensors.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.766709",
+    "insight": "RFID sensors can now operate indefinitely without battery replacement."
+  },
+  {
+    "title": "Billionaire VC Vinod Khosla proposes scrapping taxes for 125 million Americans amid AI job fears",
+    "summary": "Billionaire VC Vinod Khosla proposes eliminating capital gains tax, citing AI job fears.",
+    "link": "https://www.techspot.com/news/111373-billionaire-vc-vinod-khosla-proposes-scrapping-taxes-125.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.766767",
+    "insight": "AI may require rethinking capitalism and taxing capital equally."
+  },
+  {
+    "title": "Amazon quietly cancels Blue Jay warehouse robot months after debut",
+    "summary": "Amazon cancelled its Blue Jay warehouse robot, indicating a shift in robotics strategy. The robot, introduced in October 2025, was Amazon's fastest-developed warehouse robot. Its discontinuation highlights the challenges of translating AI advances into physical applications.",
+    "link": "https://www.techspot.com/news/111371-mazon-quietly-cancels-blue-jay-warehouse-robot-months.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.766831",
+    "insight": "AI software progress outpaces cost-effective physical implementation challenges"
+  },
+  {
+    "title": "TP-Link sued by Texas over alleged China-linked hacking access",
+    "summary": "Texas Attorney General Ken Paxton investigates TP-Link over alleged data abuse. The probe began in October 2025, with concerns about Chinese government access. TP-Link's involvement is being scrutinized.",
+    "link": "https://www.techspot.com/news/111372-tp-link-sued-texas-over-alleged-china-linked.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-20T09:25:03.766885",
+    "insight": "Chinese government access to American data is at stake"
   }
 ]
