@@ -21,7 +21,9 @@ from agentic_pipeline import AgenticPipeline
 
 FEEDS = [
     "https://www.tomshardware.com/feeds.xml",
-    "https://www.cnx-software.com/feed/"
+    "https://www.cnx-software.com/feed/",
+    "https://www.fiercesensors.com/rss/xml",
+    "https://www.techspot.com/backend.xml"
 ]
 
 
