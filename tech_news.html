@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech News - Tech Weekly Digest</title>
+    <meta name="description" content="Latest Tech News news and updates">
+    <meta property="og:title" content="Tech News">
+    <meta property="og:description" content="Latest Tech News news and updates">
+
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #7c3aed;
+            --accent: #10b981;
+            --text: #1f2937;
+            --text-light: #6b7280;
+            --bg: #ffffff;
+            --bg-secondary: #f9fafb;
+            --border: #e5e7eb;
+            --shadow: rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 40px 20px;
+            margin-bottom: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px var(--shadow);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.95;
+        }
+
+        /* Navigation */
+        nav {
+            background: var(--bg-secondary);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+
+        nav a:hover {
+            background: var(--primary);
+            color: white;
+        }
+
+        /* Content */
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px var(--shadow);
+        }
+
+        /* Typography */
+        h1, h2, h3, h4 {
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        h1 { font-size: 2.2rem; margin-top: 0; }
+        h2 { 
+            font-size: 1.8rem; 
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        h3 { font-size: 1.4rem; color: var(--primary); }
+        h4 { font-size: 1.1rem; }
+
+        p {
+            margin-bottom: 15px;
+            color: var(--text);
+        }
+
+        a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 15px 0 15px 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            box-shadow: 0 2px 5px var(--shadow);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        tr:hover {
+            background: var(--bg-secondary);
+        }
+
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            border-top: 2px solid var(--border);
+            margin: 40px 0;
+        }
+
+        /* Special Elements */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--primary);
+            color: white;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-right: 8px;
+        }
+
+        .insight {
+            background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+            border-left: 4px solid var(--primary);
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            font-style: italic;
+        }
+
+        .star {
+            color: #fbbf24;
+            font-size: 1.2rem;
+        }
+
+        /* Code blocks */
+        code {
+            background: var(--bg-secondary);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+
+        pre {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-light);
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+
+        footer a {
+            color: var(--primary);
+        }
+
+        .timestamp {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            margin-bottom: 10px;
+        }
+
+        /* Category cards */
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .category-card {
+            background: white;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s;
+            text-decoration: none;
+            color: var(--text);
+            display: block;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px var(--shadow);
+            border-color: var(--primary);
+        }
+
+        .category-card h3 {
+            margin-top: 0;
+            color: var(--primary);
+        }
+
+        .category-card .count {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin: 10px 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 1.8rem; }
+            .container { padding: 10px; }
+            nav { flex-direction: column; }
+            .content { padding: 20px; }
+            .category-grid { grid-template-columns: 1fr; }
+        }
+
+        /* Loading animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .content {
+            animation: fadeIn 0.5s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Tech Weekly Digest</h1>
+            <p class="subtitle">AI, Hardware & Edge Computing News</p>
+        </header>
+
+        <nav>
+            <a href="index.html">🏠 Home</a>
+            <a href="ai_and_ml.html">📰 Ai And Ml</a> <a href="weekly_master_report.html">📰 Full Digest</a> <a href="gpus.html">📰 Gpus</a> <a href="hardware.html">📰 Hardware</a> <a href="semiconductors.html">📰 Semiconductors</a> <a href="tech_news.html">📰 Tech News</a>
+        </nav>
+
+        <div class="content">
+            <h1>📰 Tech News</h1>
+<p><strong>Week of February 20, 2026</strong></p>
+<p><em>Industry news and product launches</em></p>
+<hr />
+<h2>📊 Summary</h2>
+<ul>
+<li><strong>Articles this week:</strong> 28</li>
+<li><strong>Report generated:</strong> 2026-02-20 09:27</li>
+</ul>
+<hr />
+<h2>📰 This Week's Articles</h2>
+<h3>1. be quiet! Power Zone 2 1200W power supply review: Delivers outstanding performance at premium pricing ⭐</h3>
+<p>The be quiet! Power Zone 2 1200W power supply excels in silence and heat management. However, budget components raise concerns about long-term value and durability at a premium price.</p>
+<p>💡 <em>Silence and performance may not justify high-end pricing always.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/power-supplies/be-quiet-power-zone-2-1200w-power-supply-review">Read Full Article</a></p>
+<hr />
+<h3>2. Thermalright Wonder Vision 360 UB ARGB Black review: Detachable 6.7-inch screen makes for unique possibilities ⭐</h3>
+<p>Thermalright's Wonder Vision 360 UB ARGB features a unique ultrawide display with hundreds of customization options, allowing for creative possibilities.</p>
+<p>💡 <em>Customizable display enhances AIO cooler experience for content creators</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/pc-components/liquid-cooling/thermalright-wonder-vision-360-ub-argb-black-review">Read Full Article</a></p>
+<hr />
+<h3>3. ASRock Industrial NUC(S) Ultra 300 BOX Series is powered by Intel Core Ultra 5 325 or Ultra 7 358H Panther Lake SoC ⭐</h3>
+<p>The ASRock Industrial NUC(S) Ultra 300 BOX Series offers high-performance mini PCs with up to 180 TOPS AI capabilities and features like DDR5 memory, M.2 NVMe storage, and 8K display support. The series comes in two sizes, with varying I/O options including 2.5GbE, USB 3.0, and WiFi 7 connectivity. Four SKUs are available, based on the Intel Core Ultra 5 325 or Ultra 7 358H Panther Lake SoC.</p>
+<p>💡 <em>Industrial-grade mini PCs with AI capabilities and high-performance features</em></p>
+<p>🔗 <a href="https://www.cnx-software.com/2026/02/19/asrock-industrial-nucs-ultra-300-box-series-is-powered-by-intel-core-ultra-5-325-or-ultra-7-358h-panther-lake-soc/">Read Full Article</a></p>
+<hr />
+<h3>4. Project Silica breakthrough lets Microsoft store digital data in glass for 10,000 years ⭐</h3>
+<p>Microsoft's Project Silica enables storing digital data in glass for 10,000 years. The project has made significant advancements in cost, performance, and storage complexity. This breakthrough could revolutionize data preservation and storage.</p>
+<p>💡 <em>Enduring digital legacy for future generations</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111381-project-silica-breakthrough-microsoft-store-digital-data-glass.html">Read Full Article</a></p>
+<hr />
+<h3>5. Etching the world's smallest QR code in ceramic pushes data storage to the nanoscale ⭐</h3>
+<p>Researchers at TU Wien etched the world's smallest QR code on ceramic, measuring 1.98 square micrometers. The code features pixels 49 nanometers in size, smaller than many bacteria. This achievement pushes data storage to the nanoscale.</p>
+<p>💡 <em>Breakthrough in nanoscale data storage for future technologies.</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111378-etching-world-smallest-qr-code-ceramic-pushes-data.html">Read Full Article</a></p>
+<hr />
+<h3>6. Microsoft's new Windows 11 speed test is just a link to Ookla's Speedtest via Bing button housed in the taskbar in latest Insider Preview build</h3>
+<p>Microsoft's latest Insider Preview build adds a simplified Ookla Speedtest via Bing to the taskbar, accessible through the network icon or quick settings, providing a convenient internet speed check for beta testers.</p>
+<p>💡 <em>Convenience-focused update aims to streamline internet speed testing experience</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/software/windows/microsofts-new-windows-11-speed-test-is-just-a-link-to-ooklas-speedtest-via-bing-button-housed-in-the-taskbar-in-latest-insider-preview-build">Read Full Article</a></p>
+<hr />
+<h3>7. China s AI build-out forces a rapid shift to liquid cooling massive clusters put pressure on domestic suppliers to shift cooling methods</h3>
+<p>China's AI expansion drives demand for liquid cooling systems, forcing domestic suppliers to adapt. This shift is necessary to prevent overheating in massive AI clusters. Companies are investing in liquid cooling technology to support growing AI infrastructure.</p>
+<p>💡 <em>Massive AI clusters require innovative cooling solutions to prevent overheating.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/chinas-ai-build-out-forces-a-rapid-shift-to-liquid-cooling">Read Full Article</a></p>
+<hr />
+<h3>8. Windows 11 keeps adding small conveniences, including speed tests</h3>
+<p>Windows 11 adds a speed test taskbar button, but it's not a native benchmarking tool. Instead, it opens a Bing webpage with Ookla Speedtest in a simplified interface. This provides users with quick access to network speed testing.</p>
+<p>💡 <em>Convenience over native functionality in Windows 11's design decisions</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111383-windows-11-keeps-adding-small-conveniences-including-speed.html">Read Full Article</a></p>
+<hr />
+<h3>9. Dell launches new budget 1080p gaming monitor with an ultra-fast 240Hz refresh rate for less than $130 new 27-inch IPS display includes AMD FreeSync support and 0.5ms response time</h3>
+<p>Dell's new 27-inch gaming monitor offers a budget-friendly option with 240Hz refresh rate and AMD FreeSync support.</p>
+<p>💡 <em>Affordable high-refresh-rate gaming monitor for budget-conscious gamers.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/monitors/gaming-monitors/dell-launches-new-budget-1080p-gaming-monitor-with-an-ultra-fast-240hz-refresh-rate-for-less-than-usd130-new-27-inch-ips-display-includes-amd-freesync-support-and-0-5ms-response-time">Read Full Article</a></p>
+<hr />
+<h3>10. A 16-year-old intern helped Netgear catch scammers in India for $800 Culprits would pose as Netgear employees &amp; sell fake support packages to customers</h3>
+<p>A 16-year-old intern helped Netgear catch scammers in India by tracking down their bank accounts. The scammers posed as Netgear employees to sell fake support packages to customers. The intern's work led to a successful crackdown on the scammers.</p>
+<p>💡 <em>Teenage interns can have a significant impact on cybersecurity efforts.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/cyber-security/a-16-year-old-intern-helped-netgear-catch-scammers-in-india-for-usd800-culprits-would-pose-as-netgear-employees-and-sell-fake-support-packages-to-customers">Read Full Article</a></p>
+<hr />
+<h3>11. Announcing Fierce Sensors Rising Stars 2026</h3>
+<p>Fierce Sensors Rising Stars 2026 honors innovators in sensors and electronics technology.</p>
+<p>💡 <em>Recognizing pioneers in sensor tech drives future innovation and growth.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/ai/rising-stars-feb-16">Read Full Article</a></p>
+<hr />
+<h3>12. SpotitEarly sniffs out partnership with Fox Chase Cancer Center</h3>
+<p>SpotItEarly partners with Fox Chase Cancer Center to develop innovative cancer screening methods. The partnership combines breath tests, canine detection, and AI-powered analysis. This approach aims to improve cancer diagnosis and treatment outcomes.</p>
+<p>💡 <em>Early cancer detection through AI-enhanced canine breath analysis emerges.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/spotitearly-sniffs-out-partnership-fox-chase-cancer-center">Read Full Article</a></p>
+<hr />
+<h3>13. Down-to-earth extended-SWIR sensor from Lynred launched</h3>
+<p>Lynred's extended-SWIR sensor enables industrial users to conduct spectral soil mapping and chemical identification with short-wave infrared sensing.</p>
+<p>💡 <em>Enhanced soil and chemical detection boosts industrial productivity and efficiency.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/down-earth-extended-swir-sensor-lynred-launched">Read Full Article</a></p>
+<hr />
+<h3>14. The Elder Scrolls VI will feel more like Elder Scrolls than Starfield</h3>
+<p>The Elder Scrolls VI will return to open-world adventure, departing from recent detours. Fans can expect a more traditional Elder Scrolls experience. This marks a shift back to series roots.</p>
+<p>💡 <em>Bethesda is refocusing on core Elder Scrolls identity</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111386-elder-scrolls-vi-feel-more-like-elder-scrolls.html">Read Full Article</a></p>
+<hr />
+<h3>15. The rise of delivery robots is sparking vandalism, protests, and debate</h3>
+<p>Serve Robotics has rapidly expanded its local delivery robot fleet.</p>
+<p>💡 <em>Fast-growing tech sparks vandalism, protests, and public debate concerns.</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111387-rise-delivery-robots-sparking-vandalism-protests-debate.html">Read Full Article</a></p>
+<hr />
+<h3>16. Pixel 10a launches at $499 with modest refinements and familiar hardware</h3>
+<p>The Pixel 10a sports a streamlined camera module design, providing a seamless feel in hand. The device launches at a competitive price of $499. Refinements are modest, with familiar hardware under the hood.</p>
+<p>💡 <em>Subtle design improvements enhance user experience without significant cost increases</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111385-pixel-10a-launches-499-modest-refinements-familiar-hardware.html">Read Full Article</a></p>
+<hr />
+<h3>17. Harmful chemicals found in dozens of popular headphones</h3>
+<p>A study found 98% of tested headphones contained bisphenol A, and over three-quarters contained its substitute, bisphenol S.</p>
+<p>💡 <em>Consumer products may expose users to toxic chemicals without their knowledge.</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111380-harmful-chemicals-found-dozens-popular-headphones.html">Read Full Article</a></p>
+<hr />
+<h3>18. Meet this smart building cowboy from Tulsa</h3>
+<p>Meet Mango, a smart building cowboy from Tulsa, revolutionizing CityPlex towers with efficiency and IoT expertise from Radix.</p>
+<p>💡 <em>Transforming outdated buildings into sustainable, high-tech hubs with data-driven management.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/meet-smart-building-cowboy-tulsa">Read Full Article</a></p>
+<hr />
+<h3>19. The memory crunch monster is real for edge devs</h3>
+<p>Memory shortages and surging prices affect edge projects' sensor capabilities severely.</p>
+<p>💡 <em>Higher memory costs compromise edge projects' sensor data processing capabilities.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/memory-crunch-monster-real-edge-devs">Read Full Article</a></p>
+<hr />
+<h3>20. Berkeley births intelligent spectral sensor for industry use</h3>
+<p>Berkeley researchers have developed an intelligent spectral sensor that can significantly improve processing speeds. This sensor uses advanced technology to quickly identify and locate target objects. The result is a 100-fold increase in digital processing speed.</p>
+<p>💡 <em>Accelerating industry applications with unprecedented digital processing efficiency.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/berkeley-births-intelligent-spectral-sensor-industry-use">Read Full Article</a></p>
+<hr />
+<h3>21. That buzz you hear is sensor-laden drones chasing Olympic skiers</h3>
+<p>Drones equipped with multiple sensors will be used to capture detailed data on Olympic skiers' movements and performances at the 2026 Winter Olympics.</p>
+<p>💡 <em>Enhanced data analysis for performance optimization and safety improvement.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/buzz-you-hear-sensor-laden-drones-chasing-olympic-skiers">Read Full Article</a></p>
+<hr />
+<h3>22. 2026 Winter Olympics a sensory event</h3>
+<p>The 2026 Winter Olympics will heavily integrate sensors for precise measurement and evaluation, enhancing the accuracy of judging and performance analysis, and providing spectators with a more immersive experience.</p>
+<p>💡 <em>Sensors elevate Winter Olympics precision and spectator engagement.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/2026-winter-olympics-sensory-event">Read Full Article</a></p>
+<hr />
+<h3>23. Big growth ahead for sensors in IoT and food freshness</h3>
+<p>Sensors in IoT and food freshness are poised for significant growth, with major players like IBM, Microsoft, Texas Instruments, Siemens, STMicroelectronics, and Murata leading the charge.</p>
+<p>💡 <em>Advancements in sensor technology boost efficiency and reduce food waste.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/big-growth-ahead-sensors-iot-and-food-freshness">Read Full Article</a></p>
+<hr />
+<h3>24. Growing IoT interest for restaurant operations - MachineQ survey</h3>
+<p>A MachineQ survey reveals a growing IoT interest among restaurants. Quick-service and fast-casual restaurants are investing in IoT technology. This trend aims to improve operational efficiency.</p>
+<p>💡 <em>IoT adoption boosts operational efficiency in restaurants significantly</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/iot-connectivity/growing-iot-interest-restaurant-operations-machineq-survey">Read Full Article</a></p>
+<hr />
+<h3>25. How to detect nose dip in apes? Use an infrared sensor.</h3>
+<p>Scientists use MWIR sensors to detect fear in chimpanzees by monitoring nose temperature, which increases when apes experience stress or anxiety. These sensors, commonly used in industrial settings, provide a non-invasive method for studying primate emotions. By analyzing the data, researchers can better understand ape behavior and social dynamics.</p>
+<p>💡 <em>Detecting nose dip in apes reveals underlying emotional states.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/how-detect-nose-dip-apes-use-infrared-sensor">Read Full Article</a></p>
+<hr />
+<h3>26. Scaling high-res sensors for emissions monitoring</h3>
+<p>High-resolution sensors with lab-certified optical and laser-based technology help accurately monitor emissions in real-world environments.</p>
+<p>💡 <em>Accurate emissions monitoring supports stricter regulations and public health.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/scaling-high-resolution-sensors-emissions-monitoring">Read Full Article</a></p>
+<hr />
+<h3>27. Bosch, Digid ready sensors for dazzling world of robots and autos at CES</h3>
+<p>Bosch and Digid are unveiling high-precision sensors for robots and autos at CES. Digid's 1 micrometer force and temperature sensors are ready for production.</p>
+<p>💡 <em>Advancements in sensor technology enable more precise automation and AI applications.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/bosch-digid-ready-sensors-dazzling-world-robots-and-autos-ces">Read Full Article</a></p>
+<hr />
+<h3>28. TDK partners with Engo AR sports eyewear, launches three IMUs</h3>
+<p>TDK partners with Engo to launch Engo AR sports eyewear. This technology displays real-time training stats within the athlete's field of vision. The launch includes three new IMUs.</p>
+<p>💡 <em>Real-time tracking enhances athlete performance and training efficiency significantly</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/tdk-partners-engo-ar-sports-eyewear-launches-three-imus">Read Full Article</a></p>
+<hr />
+        </div>
+
+        <footer>
+            <p class="timestamp">Generated on February 20, 2026 at 09:27 UTC</p>
+            <p>Powered by AI-driven content curation with Ollama</p>
+            <p><a href="https://github.com/yourusername/tech-weekly-digest" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+</body>
+</html>

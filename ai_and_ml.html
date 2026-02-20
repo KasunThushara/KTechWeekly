@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ai And Ml - Tech Weekly Digest</title>
+    <meta name="description" content="Latest Ai And Ml news and updates">
+    <meta property="og:title" content="Ai And Ml">
+    <meta property="og:description" content="Latest Ai And Ml news and updates">
+
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #7c3aed;
+            --accent: #10b981;
+            --text: #1f2937;
+            --text-light: #6b7280;
+            --bg: #ffffff;
+            --bg-secondary: #f9fafb;
+            --border: #e5e7eb;
+            --shadow: rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 40px 20px;
+            margin-bottom: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px var(--shadow);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.95;
+        }
+
+        /* Navigation */
+        nav {
+            background: var(--bg-secondary);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+
+        nav a:hover {
+            background: var(--primary);
+            color: white;
+        }
+
+        /* Content */
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px var(--shadow);
+        }
+
+        /* Typography */
+        h1, h2, h3, h4 {
+            margin-top: 30px;
+            margin-bottom: 15px;
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        h1 { font-size: 2.2rem; margin-top: 0; }
+        h2 { 
+            font-size: 1.8rem; 
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        h3 { font-size: 1.4rem; color: var(--primary); }
+        h4 { font-size: 1.1rem; }
+
+        p {
+            margin-bottom: 15px;
+            color: var(--text);
+        }
+
+        a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 15px 0 15px 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            box-shadow: 0 2px 5px var(--shadow);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        tr:hover {
+            background: var(--bg-secondary);
+        }
+
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            border-top: 2px solid var(--border);
+            margin: 40px 0;
+        }
+
+        /* Special Elements */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--primary);
+            color: white;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-right: 8px;
+        }
+
+        .insight {
+            background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+            border-left: 4px solid var(--primary);
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            font-style: italic;
+        }
+
+        .star {
+            color: #fbbf24;
+            font-size: 1.2rem;
+        }
+
+        /* Code blocks */
+        code {
+            background: var(--bg-secondary);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+
+        pre {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-light);
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+
+        footer a {
+            color: var(--primary);
+        }
+
+        .timestamp {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            margin-bottom: 10px;
+        }
+
+        /* Category cards */
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .category-card {
+            background: white;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s;
+            text-decoration: none;
+            color: var(--text);
+            display: block;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px var(--shadow);
+            border-color: var(--primary);
+        }
+
+        .category-card h3 {
+            margin-top: 0;
+            color: var(--primary);
+        }
+
+        .category-card .count {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin: 10px 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 1.8rem; }
+            .container { padding: 10px; }
+            nav { flex-direction: column; }
+            .content { padding: 20px; }
+            .category-grid { grid-template-columns: 1fr; }
+        }
+
+        /* Loading animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .content {
+            animation: fadeIn 0.5s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Tech Weekly Digest</h1>
+            <p class="subtitle">AI, Hardware & Edge Computing News</p>
+        </header>
+
+        <nav>
+            <a href="index.html">🏠 Home</a>
+            <a href="ai_and_ml.html">📰 Ai And Ml</a> <a href="weekly_master_report.html">📰 Full Digest</a> <a href="gpus.html">📰 Gpus</a> <a href="hardware.html">📰 Hardware</a> <a href="semiconductors.html">📰 Semiconductors</a> <a href="tech_news.html">📰 Tech News</a>
+        </nav>
+
+        <div class="content">
+            <h1>🤖 AI &amp; ML</h1>
+<p><strong>Week of February 20, 2026</strong></p>
+<p><em>Artificial Intelligence and Machine Learning</em></p>
+<hr />
+<h2>📊 Summary</h2>
+<ul>
+<li><strong>Articles this week:</strong> 31</li>
+<li><strong>Report generated:</strong> 2026-02-20 09:27</li>
+</ul>
+<hr />
+<h2>📰 This Week's Articles</h2>
+<h3>1. Project Silica breakthrough lets Microsoft store digital data in glass for 10,000 years ⭐</h3>
+<p>Microsoft's Project Silica enables storing digital data in glass for 10,000 years. The project has made significant advancements in cost, performance, and storage complexity. This breakthrough could revolutionize data preservation and storage.</p>
+<p>💡 <em>Enduring digital legacy for future generations</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111381-project-silica-breakthrough-microsoft-store-digital-data-glass.html">Read Full Article</a></p>
+<hr />
+<h3>2. China s AI build-out forces a rapid shift to liquid cooling massive clusters put pressure on domestic suppliers to shift cooling methods</h3>
+<p>China's AI expansion drives demand for liquid cooling systems, forcing domestic suppliers to adapt. This shift is necessary to prevent overheating in massive AI clusters. Companies are investing in liquid cooling technology to support growing AI infrastructure.</p>
+<p>💡 <em>Massive AI clusters require innovative cooling solutions to prevent overheating.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/chinas-ai-build-out-forces-a-rapid-shift-to-liquid-cooling">Read Full Article</a></p>
+<hr />
+<h3>3. AI-generated passwords are surprisingly easy to crack, researchers find</h3>
+<p>Researchers found that AI-generated passwords appear complex but are highly predictable, making them vulnerable to cracking. Security firm Irregular analyzed outputs from tools like Claude, ChatGPT, and Gemini. This highlights the limitations of AI-generated passwords.</p>
+<p>💡 <em>Predictability undermines the security of AI-generated passwords and user trust</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111392-ai-generated-passwords-surprisingly-easy-crack-researchers-find.html">Read Full Article</a></p>
+<hr />
+<h3>4. AI agents push battlefield autonomy closer to reality in military tests</h3>
+<p>Scout AI's platform uses a layered model to make real-time tactical decisions, moving battlefield autonomy closer to reality.</p>
+<p>💡 <em>AI adapts to changing battlefield conditions in real-time decisions.</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111384-ai-agents-push-battlefield-autonomy-closer-reality-military.html">Read Full Article</a></p>
+<hr />
+<h3>5. Ford's upcoming $30,000 EV truck leans on efficiency instead of a massive battery pack</h3>
+<p>Ford's upcoming EV truck prioritizes efficiency over massive battery packs using a tightly integrated set of technologies, including structural lithium iron phosphate battery packs and a 48-volt zonal electrical system.</p>
+<p>💡 <em>Efficiency-focused EV design could reduce costs and improve range.</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111367-ford-upcoming-30000-ev-truck-leans-efficiency-instead.html">Read Full Article</a></p>
+<hr />
+<h3>6. AMD's AI chips to be used as debt collateral in $300 million loan, report says Cloud startup to use chips in Ohio datacenter</h3>
+<p>AMD's AI chips serve as collateral in a $300 million loan to cloud startup Crusoe, backed by Goldman Sachs for its Ohio datacenter.</p>
+<p>💡 <em>Tech companies repurposing hardware as collateral, disrupting traditional financing models.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/big-tech/amds-ai-chips-to-be-used-as-debt-collateral-in-usd300-million-loan-report-says-cloud-startup-to-use-chips-in-ohio-datacenter">Read Full Article</a></p>
+<hr />
+<h3>7. Quantum teleportation demonstrated over existing fiber networks Deutsche Telekom s T Labs used commercially available Qunnect hardware for the demo, claims 90% average accuracy</h3>
+<p>Deutsche Telekom's T-Labs demonstrated quantum teleportation over existing fiber networks with 90% accuracy.</p>
+<p>💡 <em>Enabling secure, long-distance data transfer through quantum information teleportation.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/networking/quantum-teleportation-demonstrated-over-existing-fiber-networks-deutsche-telekoms-t-labs-used-commercially-available-qunnect-hardware-for-the-demo-claims-90-percent-average-accuracy">Read Full Article</a></p>
+<hr />
+<h3>8. OpenAI aims to secure $100 Billion in latest funding round, reportedly aiming for an $800 billion valuation Parties offering up cash include Nvidia, Microsoft, SoftBank, and more</h3>
+<p>OpenAI is reportedly seeking $100 billion in funding from major tech firms, including Amazon, Nvidia, and Microsoft, aiming to offset its $1.4 trillion eight-year pledge.</p>
+<p>💡 <em>Massive funding supports OpenAI's ambitious AI research and development goals.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/tech-industry/openai-aims-to-secure-usd100-billion-in-latest-funding-round-reportedly-aiming-for-an-usd800-billion-valuation-parties-offering-up-cash-include-nvidia-microsoft-softbank-and-more">Read Full Article</a></p>
+<hr />
+<h3>9. China brain computer interface outfit accelerates to human trials in quest to outpace Neuralink mix of government backing and investor enthusiasm speeds time to market for NeuroXess</h3>
+<p>China's streamlined planning and financing may give it BCI technology lead over US. NeuroXess is accelerating human trials with government backing and investor enthusiasm. This could outpace Elon Musk's Neuralink in the market.</p>
+<p>💡 <em>Government backing accelerates BCI technology development in China significantly.</em></p>
+<p>🔗 <a href="https://www.tomshardware.com/peripherals/wearable-tech/china-brain-computer-interface-outfit-accelerates-to-human-trials-in-quest-to-outpace-neuralink-mix-of-government-backing-and-investor-enthusiasm-speeds-time-to-market-for-neuroxess">Read Full Article</a></p>
+<hr />
+<h3>10. Chicago s 277 air quality sensors measure soot, NO2 in dashboard</h3>
+<p>Chicago deploys 277 air quality sensors using Clarity Node-S technology, leveraging laser analysis to measure soot and NO2 levels.</p>
+<p>💡 <em>Advanced air monitoring enhances urban pollution mitigation efforts.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/chicagos-277-air-quality-sensors-measure-soot-no2-dashboard">Read Full Article</a></p>
+<hr />
+<h3>11. SpotitEarly sniffs out partnership with Fox Chase Cancer Center</h3>
+<p>SpotItEarly partners with Fox Chase Cancer Center to develop innovative cancer screening methods. The partnership combines breath tests, canine detection, and AI-powered analysis. This approach aims to improve cancer diagnosis and treatment outcomes.</p>
+<p>💡 <em>Early cancer detection through AI-enhanced canine breath analysis emerges.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/spotitearly-sniffs-out-partnership-fox-chase-cancer-center">Read Full Article</a></p>
+<hr />
+<h3>12. Listen up: Cadence HiFi iQ DSP amps audio, voice AI processing</h3>
+<p>Cadence develops HiFi iQ DSP amps for audio and voice AI processing. This technology meets compute and signal processing demands in in-vehicle immersive audio and smart speakers. The company aims to enhance AI-driven audio experiences.</p>
+<p>💡 <em>AI-driven audio requires significant compute and signal processing boosts</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/ai/listen-cadence-hifi-iq-dsp-amps-audio-voice-ai-processing">Read Full Article</a></p>
+<hr />
+<h3>13. Meet LG CLOiD to fold your laundry and help prep breakfast</h3>
+<p>LG CLOiD is a home robot that uses AI and sensors to assist with household tasks such as folding laundry and preparing breakfast. It recognizes voice and gesture inputs for seamless control. The robot aims to simplify household chores and improve daily life.</p>
+<p>💡 <em>Smart home robots simplify household tasks with AI-powered assistance.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/meet-lg-cloid-fold-your-laundry-and-help-prep-breakfast">Read Full Article</a></p>
+<hr />
+<h3>14. Microsoft tests new Windows AI in the taskbar and File Explorer</h3>
+<p>Microsoft is testing a new Windows AI feature called Ask Copilot, which integrates AI services into the taskbar and File Explorer, replacing Windows Search with an @ command syntax.</p>
+<p>💡 <em>Enhanced AI functionality in Windows simplifies user experience significantly.</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111396-microsoft-tests-new-windows-ai-taskbar-file-explorer.html">Read Full Article</a></p>
+<hr />
+<h3>15. The Trump administration wants Silicon Valley to fix federal tech</h3>
+<p>The Trump administration's Tech Force has secured partnerships with major tech companies to provide training and resources to support federal tech development.</p>
+<p>💡 <em>Government and private sector collaboration boosts public sector tech capabilities.</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111389-trump-administration-wants-silicon-valley-fix-federal-tech.html">Read Full Article</a></p>
+<hr />
+<h3>16. The Elder Scrolls VI will feel more like Elder Scrolls than Starfield</h3>
+<p>The Elder Scrolls VI will return to open-world adventure, departing from recent detours. Fans can expect a more traditional Elder Scrolls experience. This marks a shift back to series roots.</p>
+<p>💡 <em>Bethesda is refocusing on core Elder Scrolls identity</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111386-elder-scrolls-vi-feel-more-like-elder-scrolls.html">Read Full Article</a></p>
+<hr />
+<h3>17. Judge warns smart glasses wearers of contempt charges as Zuckerberg testifies in Meta trial</h3>
+<p>A judge warns of contempt charges for smart glasses wearers during Meta's testimony in a case where a 20-year-old claims Instagram, TikTok, YouTube, and Snapchat use as a child led to mental health issues.</p>
+<p>💡 <em>Social media companies face accountability for children's mental health consequences.</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111388-judge-warns-smart-glasses-wearers-contempt-charges-zuckerberg.html">Read Full Article</a></p>
+<hr />
+<h3>18. The hidden risk of driving a car that runs on someone else's code</h3>
+<p>Modern vehicles rely on software continuity, not solely mechanical reliability. Remote authentication systems and over-the-air patches now determine whether a car 'runs' or not. This shift raises concerns about software-driven vehicle reliability and security.</p>
+<p>💡 <em>Software dependency makes vehicles vulnerable to remote hacking risks.</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111369-hidden-risk-driving-car-runs-someone-else-code.html">Read Full Article</a></p>
+<hr />
+<h3>19. Mozilla Firefox is ending support for Windows 7, this time for real</h3>
+<p>Mozilla Firefox is ending support for Windows 7, leaving users without a mainstream browser option. Many users still rely on the browser for daily tasks. This marks the end of an era for Windows 7 support.</p>
+<p>💡 <em>Last mainstream browser option for aging Windows 7 users ends</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111377-mozilla-firefox-ending-support-windows-7-time-real.html">Read Full Article</a></p>
+<hr />
+<h3>20. Dutch defense chief claims F-35 could be "jailbroken like an iPhone" to bypass US approval</h3>
+<p>Dutch defense chief Tuinman suggests F-35 software can be modified without US approval.</p>
+<p>💡 <em>European forces may bypass US oversight on F-35 modifications</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111376-dutch-defense-chief-claims-f-35-could-jailbroken.html">Read Full Article</a></p>
+<hr />
+<h3>21. Enterprise software experiments with task-based pricing in the AI era</h3>
+<p>Enterprise software is experimenting with task-based pricing, deviating from traditional per-seat licensing.</p>
+<p>💡 <em>Flexible pricing models adapt to dynamic business needs in the AI era.</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111366-enterprise-software-experiments-task-based-pricing-ai-era.html">Read Full Article</a></p>
+<hr />
+<h3>22. Billionaire VC Vinod Khosla proposes scrapping taxes for 125 million Americans amid AI job fears</h3>
+<p>Billionaire VC Vinod Khosla proposes eliminating capital gains tax, citing AI job fears.</p>
+<p>💡 <em>AI may require rethinking capitalism and taxing capital equally.</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111373-billionaire-vc-vinod-khosla-proposes-scrapping-taxes-125.html">Read Full Article</a></p>
+<hr />
+<h3>23. Amazon quietly cancels Blue Jay warehouse robot months after debut</h3>
+<p>Amazon cancelled its Blue Jay warehouse robot, indicating a shift in robotics strategy. The robot, introduced in October 2025, was Amazon's fastest-developed warehouse robot. Its discontinuation highlights the challenges of translating AI advances into physical applications.</p>
+<p>💡 <em>AI software progress outpaces cost-effective physical implementation challenges</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111371-mazon-quietly-cancels-blue-jay-warehouse-robot-months.html">Read Full Article</a></p>
+<hr />
+<h3>24. TP-Link sued by Texas over alleged China-linked hacking access</h3>
+<p>Texas Attorney General Ken Paxton investigates TP-Link over alleged data abuse. The probe began in October 2025, with concerns about Chinese government access. TP-Link's involvement is being scrutinized.</p>
+<p>💡 <em>Chinese government access to American data is at stake</em></p>
+<p>🔗 <a href="https://www.techspot.com/news/111372-tp-link-sued-texas-over-alleged-china-linked.html">Read Full Article</a></p>
+<hr />
+<h3>25. TI to pay $7.5B cash for Silicon Labs</h3>
+<p>Texas Instruments is acquiring Silicon Labs for $7.5 billion in cash, combining their tech and manufacturing capabilities to create a global leader in wireless connectivity technology.</p>
+<p>💡 <em>Merging tech giants drives innovation in wireless connectivity solutions</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/embedded/ti-pay-75b-cash-silicon-labs">Read Full Article</a></p>
+<hr />
+<h3>26. Aeris pushes past 100M IoT connections with help from agentic AI</h3>
+<p>Aeris has surpassed 100 million IoT connections thanks to its acquisition of Ericsson's IoT Accelerator business, which has helped boost the company's capabilities and expand its reach in the IoT market.</p>
+<p>💡 <em>Agile AI drives significant growth in IoT device connections globally.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/iot-connectivity/aeris-pushes-past-100m-iot-connections-help-agentic-ai">Read Full Article</a></p>
+<hr />
+<h3>27. Nvidia's new AI models enhance weather forecasting</h3>
+<p>Nvidia's new AI models enhance weather forecasting efficiency and accuracy, particularly for short-range and medium-range predictions. These advancements rely on complex algorithms and vast amounts of weather data. The improved forecast capabilities have significant implications for various industries.</p>
+<p>💡 <em>Enhanced weather forecasting supports more informed decision-making globally.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/ai/nvidias-new-ai-models-enhance-weather-forecasting">Read Full Article</a></p>
+<hr />
+<h3>28. Ethernovia pulls in $90M to fuel Ethernet-based physical AI</h3>
+<p>Ethernovia secured $90M to develop Ethernet-based packet processor technology, enabling real-time physical AI in vehicles and robots.</p>
+<p>💡 <em>Real-time AI in vehicles could revolutionize autonomous transportation systems.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/ethernovia-pulls-90m-fuel-ethernet-based-physical-ai">Read Full Article</a></p>
+<hr />
+<h3>29. Wiliot unveils Gen3 IoT Pixel sensor, push into physical AI</h3>
+<p>Wiliot unveils Gen3 IoT Pixel sensor, advancing physical AI capabilities. This innovation marks a significant step in the development of ambient IoT environments, which can now serve as enablers of physical AI. The Gen3 sensor is designed to further enable seamless, ubiquitous AI integration.</p>
+<p>💡 <em>IoT sensors are now enablers of physical AI experiences.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/wiliot-unveils-gen3-iot-pixel-platform-push-physical-ai">Read Full Article</a></p>
+<hr />
+<h3>30. Diffraqtion s quantum camera for space apps draws $4.2M round</h3>
+<p>Diffraqtion's quantum camera startup has secured $4.2M in funding, boasting higher resolution and faster visual processing capabilities than traditional satellites and telescopes.</p>
+<p>💡 <em>Revolutionizing space exploration with quantum sensors and advanced visual processing.</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/diffraqtions-quantum-camera-space-apps-draws-42m-round">Read Full Article</a></p>
+<hr />
+<h3>31. TDK partners with Engo AR sports eyewear, launches three IMUs</h3>
+<p>TDK partners with Engo to launch Engo AR sports eyewear. This technology displays real-time training stats within the athlete's field of vision. The launch includes three new IMUs.</p>
+<p>💡 <em>Real-time tracking enhances athlete performance and training efficiency significantly</em></p>
+<p>🔗 <a href="https://www.fiercesensors.com/sensors/tdk-partners-engo-ar-sports-eyewear-launches-three-imus">Read Full Article</a></p>
+<hr />
+        </div>
+
+        <footer>
+            <p class="timestamp">Generated on February 20, 2026 at 09:27 UTC</p>
+            <p>Powered by AI-driven content curation with Ollama</p>
+            <p><a href="https://github.com/yourusername/tech-weekly-digest" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+</body>
+</html>
