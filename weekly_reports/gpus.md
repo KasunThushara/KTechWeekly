@@ -1,125 +1,75 @@
 # 🎮 GPUs
-**Week of February 20, 2026**
+**Week of February 21, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-02-20 09:27
+- **Articles this week:** 6
+- **Report generated:** 2026-02-21 09:03
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Lords of the Fallen 2 PC requirements unveiled: RTX 3080 recommended for UE5-powered sequel 
+### 1. AI craze leaves only one Nvidia RTX 50-series GPU at MSRP RTX 5060 Ti 8GB makes the final stand, as even the RTX 5050 falls 
 
-Lords of the Fallen 2's PC requirements have been unveiled on the Epic Games Store page, with a recommended GPU of the RTX 3080. The specs are on the higher end, suggesting a visually demanding game powered by Unreal Engine 5. Players will need to meet these requirements to play the game smoothly.
+The Nvidia RTX 50-series is experiencing stock shortages, with only the RTX 5060 Ti 8GB variants from MSI and Gigabyte remaining at their MSRP. The RTX 5050 has fallen out of stock, and other variants are experiencing price increases. This scarcity is affecting the availability of Nvidia's latest graphics cards.
 
-💡 *High-end PC required for Lords of the Fallen 2's UE5 visuals.*
+💡 *Nvidia RTX 50-series shortages drive up prices for remaining options*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111390-lords-fallen-2-pc-requirements-unveiled-rtx-3080.html)
-
----
-
-### 2. AMD's next-gen Ryzen 10000 desktop CPUs rumored to come in seven different configs Starting from 6 cores, flagship "Olympic Ridge" silicon may feature up to 24 cores 
-
-AMD's Ryzen 10000 series will refresh core configs with 12-core chiplets, offering up to 24 cores in a flagship model. The base config is reportedly 6 cores for budget buyers. This marks a significant shift away from 8-core CCDs.
-
-💡 *Broader core options for gamers, content creators, and mainstream users alike.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-next-gen-ryzen-10000-desktop-cpus-rumored-to-come-in-seven-different-configs-starting-from-6-cores-flagship-olympic-ridge-silicon-may-feature-up-to-24-cores)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/ai-craze-leaves-only-one-nvidia-rtx-50-series-gpu-at-msrp-rtx-5060-ti-8gb-is-the-final-stand-as-even-the-rtx-5050-falls)
 
 ---
 
-### 3. AMD's AI chips to be used as debt collateral in $300 million loan, report says Cloud startup to use chips in Ohio datacenter 
+### 2. The great Bench GPU retest begins how we're testing for our GPU Hierarchy in 2026, and why upscaling and framegen are still out 
 
-AMD's AI chips serve as collateral in a $300 million loan to cloud startup Crusoe, backed by Goldman Sachs for its Ohio datacenter.
+We're updating our GPU hierarchy and bench database for 2026, focusing on performance in various games without relying on upscaling or frame generation techniques. Our test suite includes a mix of new and classic titles, ensuring a comprehensive assessment of modern GPUs. This process aims to provide a more accurate representation of GPU capabilities.
 
-💡 *Tech companies repurposing hardware as collateral, disrupting traditional financing models.*
+💡 *Accurate GPU performance evaluation requires real-time rendering, not upscaling or framegen.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/amds-ai-chips-to-be-used-as-debt-collateral-in-usd300-million-loan-report-says-cloud-startup-to-use-chips-in-ohio-datacenter)
-
----
-
-### 4. Razer unveils$500 flagship gaming keyboard Huntsman Signature Edition built from CNC-machined aluminum, featuring 8,000 Hz polling and Snap Tap 
-
-Razer has released the Huntsman Signature Edition, a $500 gaming keyboard made from CNC-machined aluminum, featuring a PVD mirror finish and 8,000 Hz polling.
-
-💡 *Luxury gaming keyboard design meets high-performance features.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/mechanical-keyboards/razer-unveils-usd500-flagship-gaming-keyboard-huntsman-signature-edition-built-from-cnc-machined-aluminum-featuring-8-000-hz-polling-and-snap-tap)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/the-great-bench-gpu-retest-begins-how-were-testing-for-our-gpu-hierarchy-in-2026-and-why-upscaling-and-framegen-are-still-out)
 
 ---
 
-### 5. Dell launches new budget 1080p gaming monitor with an ultra-fast 240Hz refresh rate for less than $130 new 27-inch IPS display includes AMD FreeSync support and 0.5ms response time 
+### 3. PC novice hits the jackpot with free RTX 3090 PC from kindly neighbour potent build features $1,500 GPU paired with liquid-cooled i9-10850K and Asus Maximus motherboard 
 
-Dell's new 27-inch gaming monitor offers a budget-friendly option with 240Hz refresh rate and AMD FreeSync support.
+A PC novice received a free, high-end gaming PC from a generous neighbor, featuring an RTX 3090, i9-10850K, and Asus Maximus motherboard. The build showcases potent hardware, including a $1,500 GPU paired with liquid-cooling. The PC is a great first gaming machine.
 
-💡 *Affordable high-refresh-rate gaming monitor for budget-conscious gamers.*
+💡 *Free high-end gaming PC can change novice gamers' entire experience trajectory*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/dell-launches-new-budget-1080p-gaming-monitor-with-an-ultra-fast-240hz-refresh-rate-for-less-than-usd130-new-27-inch-ips-display-includes-amd-freesync-support-and-0-5ms-response-time)
-
----
-
-### 6. OpenAI aims to secure $100 Billion in latest funding round, reportedly aiming for an $800 billion valuation Parties offering up cash include Nvidia, Microsoft, SoftBank, and more 
-
-OpenAI is reportedly seeking $100 billion in funding from major tech firms, including Amazon, Nvidia, and Microsoft, aiming to offset its $1.4 trillion eight-year pledge.
-
-💡 *Massive funding supports OpenAI's ambitious AI research and development goals.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/openai-aims-to-secure-usd100-billion-in-latest-funding-round-reportedly-aiming-for-an-usd800-billion-valuation-parties-offering-up-cash-include-nvidia-microsoft-softbank-and-more)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/pc-novice-hits-the-jackpot-with-free-rtx-3090-pc-from-kindly-neighbour-potent-build-features-usd1-500-gpu-paired-with-liquid-cooled-i9-10850k-and-asus-maximus-motherboard)
 
 ---
 
-### 7. Save $110 on this Asus ROG Xbox Ally handheld, back at a record-low price just $489.99 for this entry-level Steam Deck rival with 7-inch touchscreen, AMD Ryzen Z2 A CPU and 16GB RAM 
+### 4. This iBuyPower gaming PC with a 7800X3D and RTX 5070 Ti is an absolute steal for just $1,999 right now huge $450 saving on this 4K-capable rig with 32GB of DDR5 RAM and a 1TB SSD 
 
-The Asus ROG Xbox Ally handheld is now on sale for $489.99, down from its original price by $110. This portable gaming device features an AMD Ryzen Z2 A processor, 16GB of RAM, and a 7-inch IPS touchscreen.
+This iBuyPower gaming PC offers a powerful AMD Ryzen 7 7800X3D CPU, Nvidia GeForce RTX 5070 Ti GPU, 32GB of DDR5 RAM, and a 1TB SSD for $1,999.99.
 
-💡 *Significant price drop makes Asus ROG Xbox Ally more affordable.*
+💡 *Significant $450 saving on a 4K-capable gaming PC with impressive specs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/save-usd110-on-this-asus-rog-xbox-ally-handheld-back-at-a-record-low-price-just-usd489-99-for-this-entry-level-steam-deck-rival-with-7-inch-touchscreen-amd-ryzen-z2-a-cpu-and-16gb-ram)
-
----
-
-### 8. Pocket $510 in savings as Lenovo's Legion Pro 5 with RTX 5060 and 32GB of memory is slashed in price to just $1149.99 a superb value gaming laptop 
-
-Lenovo's Legion Pro 5 gaming laptop with RTX 5060 and 32GB memory is now available for $1,149.99, offering significant savings of $510 from its original price.
-
-💡 *High-performance gaming laptop available at an affordable price point.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/pocket-usd510-in-savings-as-lenovos-legion-pro-5-with-rtx-5060-and-32gb-of-memory-is-slashed-in-price-to-just-usd1149-99-a-superb-value-gaming-laptop)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/this-ibuypower-gaming-pc-with-a-7800x3d-and-rtx-5070-ti-is-an-absolute-steal-for-just-usd1-999-right-now-huge-usd450-saving-on-this-4k-capable-rig-with-32gb-of-ddr5-ram-and-a-1tb-ssd)
 
 ---
 
-### 9. The Trump administration wants Silicon Valley to fix federal tech 
+### 5. Former Google engineers charged with stealing Tensor chip trade secrets 
 
-The Trump administration's Tech Force has secured partnerships with major tech companies to provide training and resources to support federal tech development.
+Three Iranian nationals, former Google engineers, charged with stealing trade secrets related to the Tensor chip.
 
-💡 *Government and private sector collaboration boosts public sector tech capabilities.*
+💡 *High-stakes theft of AI chip technology poses significant national security risks.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111389-trump-administration-wants-silicon-valley-fix-federal-tech.html)
-
----
-
-### 10. Aeris pushes past 100M IoT connections with help from agentic AI 
-
-Aeris has surpassed 100 million IoT connections thanks to its acquisition of Ericsson's IoT Accelerator business, which has helped boost the company's capabilities and expand its reach in the IoT market.
-
-💡 *Agile AI drives significant growth in IoT device connections globally.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/iot-connectivity/aeris-pushes-past-100m-iot-connections-help-agentic-ai)
+🔗 [Read Full Article](https://www.techspot.com/news/111401-former-google-engineers-charged-stealing-tensor-chip-trade.html)
 
 ---
 
-### 11. Nvidia's new AI models enhance weather forecasting 
+### 6. AMD Zen 6 desktop CPUs may deliver 24 cores, 7 GHz targets, and AM5 support 
 
-Nvidia's new AI models enhance weather forecasting efficiency and accuracy, particularly for short-range and medium-range predictions. These advancements rely on complex algorithms and vast amounts of weather data. The improved forecast capabilities have significant implications for various industries.
+AMD's Zen 6 desktop CPUs may offer up to 24 cores and 7 GHz speeds, with a rumored Ryzen 10000 series lineup. Four single-CCD processor variants and three dual-CCD designs are expected. AM5 support may also be included.
 
-💡 *Enhanced weather forecasting supports more informed decision-making globally.*
+💡 *Significant performance boost for content creators and heavy users.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/nvidias-new-ai-models-enhance-weather-forecasting)
+🔗 [Read Full Article](https://www.techspot.com/news/111399-amd-zen-6-desktop-cpus-may-deliver-24.html)
 
 ---
 

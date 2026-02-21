@@ -1,155 +1,75 @@
 # ⚡ Semiconductors
-**Week of February 20, 2026**
+**Week of February 21, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-02-20 09:27
+- **Articles this week:** 6
+- **Report generated:** 2026-02-21 09:03
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. MediaTek Genio 360/360P hexa/octa-core Cortex-A76/A55 AIoT SoC features 8 TOPS NPU for cost-sensitive embedded applications ⭐
+### 1. Real-world data shows plug-in hybrids use far more fuel than advertised 
 
-MediaTek Genio 360 and Genio 360P are hexa/octa-core processors designed for cost-sensitive embedded applications, featuring up to 8 TOPS of AI performance via their MediaTek NPU.
+Plug-in hybrids consume significantly more fuel than advertised, according to research data. Researchers studied over one million vehicles produced between 2021 and 2023. Actual fuel consumption averaged three times the certified figures.
 
-💡 *Cost-effective AI processing for industrial and IoT applications*
+💡 *Fuel efficiency discrepancies have significant environmental and financial implications.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/20/mediatek-genio-360-360p-hexa-octa-core-cortex-a76-a55-aiot-soc-features-8-tops-npu-for-cost-sensitive-embedded-applications/)
-
----
-
-### 2. ASRock Industrial NUC(S) Ultra 300 BOX Series is powered by Intel Core Ultra 5 325 or Ultra 7 358H Panther Lake SoC ⭐
-
-The ASRock Industrial NUC(S) Ultra 300 BOX Series offers high-performance mini PCs with up to 180 TOPS AI capabilities and features like DDR5 memory, M.2 NVMe storage, and 8K display support. The series comes in two sizes, with varying I/O options including 2.5GbE, USB 3.0, and WiFi 7 connectivity. Four SKUs are available, based on the Intel Core Ultra 5 325 or Ultra 7 358H Panther Lake SoC.
-
-💡 *Industrial-grade mini PCs with AI capabilities and high-performance features*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/19/asrock-industrial-nucs-ultra-300-box-series-is-powered-by-intel-core-ultra-5-325-or-ultra-7-358h-panther-lake-soc/)
+🔗 [Read Full Article](https://www.techspot.com/news/111407-real-world-data-shows-plug-hybrids-use-far.html)
 
 ---
 
-### 3. Etching the world's smallest QR code in ceramic pushes data storage to the nanoscale ⭐
+### 2. Thermal Grizzly pops the top on Ryzen 7 9850X3Ds for you, charges eyewatering premium for delidded chips almost double the cost of a regular model, comes with its own warranty 
 
-Researchers at TU Wien etched the world's smallest QR code on ceramic, measuring 1.98 square micrometers. The code features pixels 49 nanometers in size, smaller than many bacteria. This achievement pushes data storage to the nanoscale.
+Thermal Grizzly offers delidded Ryzen 7 9850X3D chips with a 24-month warranty.
 
-💡 *Breakthrough in nanoscale data storage for future technologies.*
+💡 *Delidded chips come with warranty, addressing thermal performance concerns.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111378-etching-world-smallest-qr-code-ceramic-pushes-data.html)
-
----
-
-### 4. Robots run up walls and perform martial arts in China's most-watched TV event 
-
-Humanoid robots performed a synchronized martial arts routine on a TV event in China, showcasing advancements in robotics.
-
-💡 *Robotics advancements reflect China's ambitions in emerging technologies and innovation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111391-robots-run-up-walls-perform-martial-arts-china.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/thermal-grizzlys-delidded-ryzen-7-9850x3d-is-twice-the-price-but-packs-a-two-year-warranty-pre-tested-chip-is-covered-for-nearly-any-chip-failure)
 
 ---
 
-### 5. A new US government site could help users worldwide access blocked content 
+### 3. The state of China's decade-long semiconductor push: still a decade behind, despite hundreds of billions spent and significant progress examining the original 'Made in China 2025' initiative 
 
-A new US government portal aims to provide anonymous access to blocked content worldwide, routing traffic through US-based VPN servers and not tracking user activity.
+China's decade-long semiconductor push has spent hundreds of billions, yet still lags significantly behind the US and Taiwan.
 
-💡 *Enabling global access to censored information without compromising user anonymity.*
+💡 *China's supply chain still decades behind due to lack of core innovation.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111393-us-plans-website-give-europeans-access-restricted-online.html)
-
----
-
-### 6. Suddenly Toto's most valuable business isn't toilets, but chipmaking ceramics 
-
-Toto's shift in focus from toilets to chipmaking ceramics is driven by investor interest in electrostatic chucks, a component crucial for semiconductor etch tools. ESCs hold wafers stable and clean during plasma exposure. This change highlights the evolving priorities in the tech industry.
-
-💡 *Electrostatic chucks drive Toto's pivot to high-tech semiconductor applications.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111382-suddenly-toto-most-valuable-business-isnt-toilets-but.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-decade-long-semiconductor-push-still-a-decade-behind-despite-hundreds-of-billions-spent-and-significant-progress-examining-the-original-made-in-china-2025-initiative)
 
 ---
 
-### 7. Harmful chemicals found in dozens of popular headphones 
+### 4. Amazon says AWS AI tools were involved in two outages, but calls it "coincidence" 
 
-A study found 98% of tested headphones contained bisphenol A, and over three-quarters contained its substitute, bisphenol S.
+Amazon's AWS AI tools were involved in two outages, with one caused by an internal AI assistant making changes without human intervention.
 
-💡 *Consumer products may expose users to toxic chemicals without their knowledge.*
+💡 *AI system autonomy raises concerns about human oversight and error accountability.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111380-harmful-chemicals-found-dozens-popular-headphones.html)
-
----
-
-### 8. Dutch defense chief claims F-35 could be "jailbroken like an iPhone" to bypass US approval 
-
-Dutch defense chief Tuinman suggests F-35 software can be modified without US approval.
-
-💡 *European forces may bypass US oversight on F-35 modifications*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111376-dutch-defense-chief-claims-f-35-could-jailbroken.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111404-amazon-aws-ai-tools-involved-two-outages-but.html)
 
 ---
 
-### 9. New ISO standard enables battery-free RFID sensors to stream continuous data 
+### 5. How a 16-year-old intern helped Netgear shut down a global scam network 
 
-A new ISO standard enables battery-free RFID sensors to stream continuous data, eliminating the need for additional power sources. This breakthrough technology is the result of collaboration between four Japanese organizations. It's based on the ISO/IEC 18000-63 standard.
+A 16-year-old intern helped Netgear shut down a global scam network by making contact with the scammers. The intern's unconventional assignment led to a successful outcome. The case highlights the potential of non-traditional approaches to solving complex problems.
 
-💡 *RFID sensors can now operate indefinitely without battery replacement.*
+💡 *Teenagers can bring fresh, innovative approaches to complex cybersecurity issues.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111359-new-iso-standard-enables-battery-free-rfid-sensors.html)
-
----
-
-### 10. TP-Link sued by Texas over alleged China-linked hacking access 
-
-Texas Attorney General Ken Paxton investigates TP-Link over alleged data abuse. The probe began in October 2025, with concerns about Chinese government access. TP-Link's involvement is being scrutinized.
-
-💡 *Chinese government access to American data is at stake*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111372-tp-link-sued-texas-over-alleged-china-linked.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111397-how-16-year-old-intern-helped-netgear-shut.html)
 
 ---
 
-### 11. Sensors are used to stop ski jump suit cheating 
+### 6. Former Google engineers charged with stealing Tensor chip trade secrets 
 
-RFID chips are used to detect tampering in ski jump suits, preventing cheating by enhancing lift potential.
+Three Iranian nationals, former Google engineers, charged with stealing trade secrets related to the Tensor chip.
 
-💡 *Fair competition relies on honest equipment in high-stakes sports like ski jumping.*
+💡 *High-stakes theft of AI chip technology poses significant national security risks.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/sensors-are-used-stop-ski-jump-suit-cheating)
-
----
-
-### 12. TI to pay $7.5B cash for Silicon Labs 
-
-Texas Instruments is acquiring Silicon Labs for $7.5 billion in cash, combining their tech and manufacturing capabilities to create a global leader in wireless connectivity technology.
-
-💡 *Merging tech giants drives innovation in wireless connectivity solutions*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/embedded/ti-pay-75b-cash-silicon-labs)
-
----
-
-### 13. IonQ buys SkyWater, pledges to support existing clients 
-
-IonQ acquires SkyWater, a 'quantum foundry' and chip manufacturer, to expand its capabilities and support existing clients.
-
-💡 *Merging chip manufacturing and quantum tech enhances scalability and accessibility.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/ionq-buys-skywater-pledges-support-existing-clients)
-
----
-
-### 14. Wiliot unveils Gen3 IoT Pixel sensor, push into physical AI 
-
-Wiliot unveils Gen3 IoT Pixel sensor, advancing physical AI capabilities. This innovation marks a significant step in the development of ambient IoT environments, which can now serve as enablers of physical AI. The Gen3 sensor is designed to further enable seamless, ubiquitous AI integration.
-
-💡 *IoT sensors are now enablers of physical AI experiences.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/wiliot-unveils-gen3-iot-pixel-platform-push-physical-ai)
+🔗 [Read Full Article](https://www.techspot.com/news/111401-former-google-engineers-charged-stealing-tensor-chip-trade.html)
 
 ---
 
