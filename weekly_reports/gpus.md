@@ -1,75 +1,55 @@
 # 🎮 GPUs
-**Week of February 21, 2026**
+**Week of February 22, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-02-21 09:03
+- **Articles this week:** 4
+- **Report generated:** 2026-02-22 09:03
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AI craze leaves only one Nvidia RTX 50-series GPU at MSRP RTX 5060 Ti 8GB makes the final stand, as even the RTX 5050 falls 
+### 1. CHUWI CoreBook Air Plus 16 review Part 2: An AMD Ryzen 5 6600H-powered, mid-range laptop tested with Windows 11 Pro ⭐
 
-The Nvidia RTX 50-series is experiencing stock shortages, with only the RTX 5060 Ti 8GB variants from MSI and Gigabyte remaining at their MSRP. The RTX 5050 has fallen out of stock, and other variants are experiencing price increases. This scarcity is affecting the availability of Nvidia's latest graphics cards.
+The CHUWI CoreBook Air Plus 16 review continues with a test of the laptop's performance using Windows 11 Pro, covering software overview, features, benchmarking, WiFi 6 performance, fan noise, power consumption, and battery life.
 
-💡 *Nvidia RTX 50-series shortages drive up prices for remaining options*
+💡 *Mid-range laptops with AMD Ryzen 5 6600H performance are increasingly viable options.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/ai-craze-leaves-only-one-nvidia-rtx-50-series-gpu-at-msrp-rtx-5060-ti-8gb-is-the-final-stand-as-even-the-rtx-5050-falls)
-
----
-
-### 2. The great Bench GPU retest begins how we're testing for our GPU Hierarchy in 2026, and why upscaling and framegen are still out 
-
-We're updating our GPU hierarchy and bench database for 2026, focusing on performance in various games without relying on upscaling or frame generation techniques. Our test suite includes a mix of new and classic titles, ensuring a comprehensive assessment of modern GPUs. This process aims to provide a more accurate representation of GPU capabilities.
-
-💡 *Accurate GPU performance evaluation requires real-time rendering, not upscaling or framegen.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/the-great-bench-gpu-retest-begins-how-were-testing-for-our-gpu-hierarchy-in-2026-and-why-upscaling-and-framegen-are-still-out)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/21/chuwi-corebook-air-plus-16-review-part-2-an-amd-ryzen-5-6600h-powered-mid-range-laptop-tested-with-windows-11-pro/)
 
 ---
 
-### 3. PC novice hits the jackpot with free RTX 3090 PC from kindly neighbour potent build features $1,500 GPU paired with liquid-cooled i9-10850K and Asus Maximus motherboard 
+### 2. Taalas HC1 hardwired Llama-3.1 8B AI accelerator delivers up to 17,000 tokens/s 
 
-A PC novice received a free, high-end gaming PC from a generous neighbor, featuring an RTX 3090, i9-10850K, and Asus Maximus motherboard. The build showcases potent hardware, including a $1,500 GPU paired with liquid-cooling. The PC is a great first gaming machine.
+The Taalas HC1 is an AI accelerator that hardwires Llama-3.1 8B, delivering up to 17,000 tokens/s with improved power efficiency and cost-effectiveness compared to existing datacenter accelerators.
 
-💡 *Free high-end gaming PC can change novice gamers' entire experience trajectory*
+💡 *Unified storage and compute boosts AI performance with reduced power consumption.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/pc-novice-hits-the-jackpot-with-free-rtx-3090-pc-from-kindly-neighbour-potent-build-features-usd1-500-gpu-paired-with-liquid-cooled-i9-10850k-and-asus-maximus-motherboard)
-
----
-
-### 4. This iBuyPower gaming PC with a 7800X3D and RTX 5070 Ti is an absolute steal for just $1,999 right now huge $450 saving on this 4K-capable rig with 32GB of DDR5 RAM and a 1TB SSD 
-
-This iBuyPower gaming PC offers a powerful AMD Ryzen 7 7800X3D CPU, Nvidia GeForce RTX 5070 Ti GPU, 32GB of DDR5 RAM, and a 1TB SSD for $1,999.99.
-
-💡 *Significant $450 saving on a 4K-capable gaming PC with impressive specs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/this-ibuypower-gaming-pc-with-a-7800x3d-and-rtx-5070-ti-is-an-absolute-steal-for-just-usd1-999-right-now-huge-usd450-saving-on-this-4k-capable-rig-with-32gb-of-ddr5-ram-and-a-1tb-ssd)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/22/taalas-hc1-hardwired-llama-3-1-8b-ai-accelerator-delivers-up-to-17000-tokens-s/)
 
 ---
 
-### 5. Former Google engineers charged with stealing Tensor chip trade secrets 
+### 3. AMD Zen 6 and Intel Nova Lake CPUs reportedly arriving late, delayed to CES 2027 next-gen chips rocked by industry turmoil 
 
-Three Iranian nationals, former Google engineers, charged with stealing trade secrets related to the Tensor chip.
+AMD Zen 6 and Intel Nova Lake CPUs are reportedly delayed until CES 2027. This marks a significant shift from their previously announced 2026 release dates. The delays are likely due to the ongoing industry turmoil.
 
-💡 *High-stakes theft of AI chip technology poses significant national security risks.*
+💡 *Industry turmoil impacts major CPU releases, affecting tech roadmaps globally.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111401-former-google-engineers-charged-stealing-tensor-chip-trade.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-zen-6-and-intel-nova-lake-cpus-reportedly-arriving-late-delayed-to-ces-2027-next-gen-chips-rocked-by-industry-turmoil)
 
 ---
 
-### 6. AMD Zen 6 desktop CPUs may deliver 24 cores, 7 GHz targets, and AM5 support 
+### 4. A $300 Radeon RX 9060 XT just smashed the world GPU overclocking record 
 
-AMD's Zen 6 desktop CPUs may offer up to 24 cores and 7 GHz speeds, with a rumored Ryzen 10000 series lineup. Four single-CCD processor variants and three dual-CCD designs are expected. AM5 support may also be included.
+AMD, in collaboration with two overclockers, set a new world record for GPU frequency by pushing a Radeon RX 9060 XT to 4,769 MHz, surpassing the previous mark.
 
-💡 *Significant performance boost for content creators and heavy users.*
+💡 *Record-breaking overclocking demonstrates exceptional GPU performance and potential for further innovation.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111399-amd-zen-6-desktop-cpus-may-deliver-24.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111422-300-radeon-rx-9060-xt-smashed-world-gpu.html)
 
 ---
 

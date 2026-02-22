@@ -1,376 +1,257 @@
 [
   {
-    "title": "AI craze leaves only one Nvidia RTX 50-series GPU at MSRP RTX 5060 Ti 8GB makes the final stand, as even the RTX 5050 falls",
-    "summary": "The Nvidia RTX 50-series is experiencing stock shortages, with only the RTX 5060 Ti 8GB variants from MSI and Gigabyte remaining at their MSRP. The RTX 5050 has fallen out of stock, and other variants are experiencing price increases. This scarcity is affecting the availability of Nvidia's latest graphics cards.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/ai-craze-leaves-only-one-nvidia-rtx-50-series-gpu-at-msrp-rtx-5060-ti-8gb-is-the-final-stand-as-even-the-rtx-5050-falls",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.380980",
-    "insight": "Nvidia RTX 50-series shortages drive up prices for remaining options"
-  },
-  {
-    "title": "The great Bench GPU retest begins how we're testing for our GPU Hierarchy in 2026, and why upscaling and framegen are still out",
-    "summary": "We're updating our GPU hierarchy and bench database for 2026, focusing on performance in various games without relying on upscaling or frame generation techniques. Our test suite includes a mix of new and classic titles, ensuring a comprehensive assessment of modern GPUs. This process aims to provide a more accurate representation of GPU capabilities.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/the-great-bench-gpu-retest-begins-how-were-testing-for-our-gpu-hierarchy-in-2026-and-why-upscaling-and-framegen-are-still-out",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.381052",
-    "insight": "Accurate GPU performance evaluation requires real-time rendering, not upscaling or framegen."
-  },
-  {
-    "title": "U.S. Supreme Court shoots down President Trump s tariffs Consumer Technology Association hails 'victory for all Americans,' calls for swift refunds to retailers (update)",
-    "summary": "The U.S. Supreme Court ruled against President Trump's tariffs, stating the IEEPA doesn't grant authority to impose tariffs on imports. This decision restricts the White House's power to regulate imports through tariffs.",
-    "link": "https://www.tomshardware.com/tech-industry/u-s-supreme-court-shoots-down-president-trumps-tariffs-consumer-technology-association-hails-victory-for-all-americans-calls-for-swift-refunds-to-retailers",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.381114",
-    "insight": "IEEPA limits presidential authority over tariffs on imports."
-  },
-  {
-    "title": "Microsoft's Project Silica write-once storage could store terabytes of data for over 10,000 years company explores two physical glass storage methods, so the glass-clad future of storage isn't coming anytime soon",
-    "summary": "Microsoft's Project Silica explores glass storage, but commercialization is still distant.",
-    "link": "https://www.tomshardware.com/pc-components/storage/project-silica",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.381178",
-    "insight": "Long-term data preservation through indestructible glass storage is a significant breakthrough."
-  },
-  {
-    "title": "Thermal Grizzly pops the top on Ryzen 7 9850X3Ds for you, charges eyewatering premium for delidded chips almost double the cost of a regular model, comes with its own warranty",
-    "summary": "Thermal Grizzly offers delidded Ryzen 7 9850X3D chips with a 24-month warranty.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/thermal-grizzlys-delidded-ryzen-7-9850x3d-is-twice-the-price-but-packs-a-two-year-warranty-pre-tested-chip-is-covered-for-nearly-any-chip-failure",
+    "title": "Steam Deck shortage goes global Valve's handheld console now out of stock in Europe, Canada, the US, and Japan",
+    "summary": "The Steam Deck is currently out of stock in the US, Canada, Europe, and Japan, but still available in Australia, the UK, Hong Kong, South Korea, and Taiwan.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/steam-deck-shortage-goes-global-valves-handheld-console-now-out-of-stock-in-europe-canada-the-us-and-japan",
     "categories": [
       "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.381251",
-    "insight": "Delidded chips come with warranty, addressing thermal performance concerns."
-  },
-  {
-    "title": "AWS outages caused by AI coding bot blunder, report claims",
-    "summary": "Amazon experienced small outages due to AI coding bot mishaps, company cites user error as cause.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/multiple-aws-outages-caused-by-ai-coding-bot-blunder-report-claims-amazon-says-both-incidents-were-user-error",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.381308",
-    "insight": "AI autonomy requires robust permission controls to prevent unintended system impact."
-  },
-  {
-    "title": "OpenAI's Sam Altman warns that firms are using 'AI washing' to mask layoffs across the globe AI boss calls out corporate excuses while warning of 'palpable' job disruption ahead",
-    "summary": "OpenAI's Sam Altman warns that AI is being misused to cover up layoffs. He believes the technology is used as an excuse for unrelated job cuts. Altman also predicts a significant job disruption in the near future due to AI advancements.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-sam-altman-warns-that-firms-are-using-ai-washing-to-mask-layoffs-across-the-globe-ai-boss-calls-out-corporate-excuses-while-warning-of-palpable-job-disruption-ahead",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.381375",
-    "insight": "Misuse of AI to mask job losses may delay necessary reforms."
-  },
-  {
-    "title": "Zuckerberg cuts Meta employee bonuses by 5%, follows 10% reduction last year, despite AI splurge $130 billion capex vision and eye-watering AI pay packages force efficiency elsewhere in the business",
-    "summary": "Meta cuts employee bonuses by 5%, following a 10% reduction last year. This move comes despite significant investments in AI and large pay packages. The company aims to improve efficiency across its business.",
-    "link": "https://www.tomshardware.com/tech-industry/zuckerberg-cuts-meta-employee-bonuses-by-5-percent-follows-10-percent-reduction-last-year-despite-ai-splurge-usd130-billion-capex-vision-and-eye-watering-ai-pay-packages-force-efficiency-elsewhere-in-the-business",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.381433",
-    "insight": "Meta prioritizes cost-cutting over employee rewards in AI-driven era."
-  },
-  {
-    "title": "Samsung Galaxy Book6 Ultra review: Premium creator pick",
-    "summary": "The Samsung Galaxy Book6 Ultra offers a premium design and top-notch performance, but at a high cost.",
-    "link": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/samsung-galaxy-book6-ultra-review",
-    "categories": [
-      "Hardware",
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-02-21T09:02:04.381480",
-    "insight": "Premium design meets top-notch performance, but at a high price."
+    "quality_score": 5,
+    "processed_date": "2026-02-22T09:02:47.540199",
+    "insight": "Global console shortages impact gamers' access to portable gaming experiences."
   },
   {
-    "title": "$20 million lost in 'jackpotting' ATM malware attacks in 2025, FBI reports scheme forces machines to spit out cash, targets banks and ATM operators",
-    "summary": "The FBI reports a surge in ATM 'jackpotting' malware attacks in 2025, resulting in $20 million in losses. These incidents force ATMs to dispense cash, targeting banks and ATM operators. The scheme has seen a significant increase in 2025.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/usd20-million-lost-in-jackpotting-atm-malware-attacks-in-2025-fbi-reports-scheme-forces-machines-to-spit-out-cash-targets-banks-and-atm-operators",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-21T09:02:04.381532",
-    "insight": "Massive financial losses due to sophisticated ATM cyber attacks."
-  },
-  {
-    "title": "UALink roadmap plots course to optimized AI data center interconnects examining the open standard designed to combat vendor lock-in while offering cost and performance optimization",
-    "summary": "UALink aims to combat vendor lock-in with an open standard for AI data center interconnects, offering cost and performance optimization. Although it has broad industry support, its adoption may be hindered by missing features. The standard's adoption would have far-reaching implications for the data center infrastructure.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ualink-roadmap-plots-course-to-optimized-ai-data-center-interconnects-examining-the-open-standard-designed-to-combat-vendor-lock-in-while-offering-cost-and-performance-optimization",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-21T09:02:04.381590",
-    "insight": "Breaking vendor lock-in unlocks data center infrastructure innovation"
-  },
-  {
-    "title": "PC novice hits the jackpot with free RTX 3090 PC from kindly neighbour potent build features $1,500 GPU paired with liquid-cooled i9-10850K and Asus Maximus motherboard",
-    "summary": "A PC novice received a free, high-end gaming PC from a generous neighbor, featuring an RTX 3090, i9-10850K, and Asus Maximus motherboard. The build showcases potent hardware, including a $1,500 GPU paired with liquid-cooling. The PC is a great first gaming machine.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/pc-novice-hits-the-jackpot-with-free-rtx-3090-pc-from-kindly-neighbour-potent-build-features-usd1-500-gpu-paired-with-liquid-cooled-i9-10850k-and-asus-maximus-motherboard",
+    "title": "AMD Zen 6 and Intel Nova Lake CPUs reportedly arriving late, delayed to CES 2027 next-gen chips rocked by industry turmoil",
+    "summary": "AMD Zen 6 and Intel Nova Lake CPUs are reportedly delayed until CES 2027. This marks a significant shift from their previously announced 2026 release dates. The delays are likely due to the ongoing industry turmoil.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-and-intel-nova-lake-cpus-reportedly-arriving-late-delayed-to-ces-2027-next-gen-chips-rocked-by-industry-turmoil",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.381646",
-    "insight": "Free high-end gaming PC can change novice gamers' entire experience trajectory"
+    "processed_date": "2026-02-22T09:02:47.540288",
+    "insight": "Industry turmoil impacts major CPU releases, affecting tech roadmaps globally."
   },
   {
-    "title": "This iBuyPower gaming PC with a 7800X3D and RTX 5070 Ti is an absolute steal for just $1,999 right now huge $450 saving on this 4K-capable rig with 32GB of DDR5 RAM and a 1TB SSD",
-    "summary": "This iBuyPower gaming PC offers a powerful AMD Ryzen 7 7800X3D CPU, Nvidia GeForce RTX 5070 Ti GPU, 32GB of DDR5 RAM, and a 1TB SSD for $1,999.99.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/this-ibuypower-gaming-pc-with-a-7800x3d-and-rtx-5070-ti-is-an-absolute-steal-for-just-usd1-999-right-now-huge-usd450-saving-on-this-4k-capable-rig-with-32gb-of-ddr5-ram-and-a-1tb-ssd",
+    "title": "Intel Bartlett Lake-S CPUs reportedly wield 12 blazing P-cores and 5.8 GHz boost turbocharged chips that will not make it to retail",
+    "summary": "Intel's 'Bartlett Lake-S' CPUs reportedly feature 12 P-cores and 5.8 GHz boost speeds. These high-performance chips are expected to have a 125W TDP. However, they may not be available for retail purchase.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-bartlett-lake-s-cpus-reportedly-wield-12-blazing-p-cores-and-5-8-ghz-boost-turbocharged-chips-that-will-not-make-it-to-retail",
     "categories": [
-      "GPUs",
+      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.381718",
-    "insight": "Significant $450 saving on a 4K-capable gaming PC with impressive specs."
+    "processed_date": "2026-02-22T09:02:47.540357",
+    "insight": "High-performance CPUs with limited availability create exclusivity and premium pricing"
   },
   {
-    "title": "Corsair's new \"Vault\" series FRAME 4000D cases have color-shifting paintjobs Priced at $140, these limited-edition towers also feature upgraded front panel I/O",
-    "summary": "Corsair's new 'Vault' series FRAME 4000D cases offer color-shifting paintjobs and upgraded features at $140.",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/corsairs-new-vault-series-frame-4000d-cases-have-color-shifting-paintjobs-priced-at-usd140-these-limited-edition-towers-also-feature-upgraded-front-panel-i-o",
+    "title": "Lenovo alerts partners to looming price hikes on consumer and server products soaring memory costs drive the surge",
+    "summary": "Lenovo alerts partners to impending price hikes on client and server devices due to rising memory costs.",
+    "link": "https://www.tomshardware.com/desktops/lenovo-alerts-partners-to-looming-price-hikes-on-consumer-and-server-products-soaring-memory-costs-drive-the-surge",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-22T09:02:47.540417",
+    "insight": "Skyrocketing memory costs are driving a price surge across Lenovo products."
+  },
+  {
+    "title": "Corsair Makr Pro 75 Review: Not DIY-priced (or DIY)",
+    "summary": "The Corsair Makr Pro 75 is a pre-built keyboard with magnetic switches, offering a premium feel and sound. However, its price may be hard to justify for those on a budget. It's a nicely-built board, but its value is a concern.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/corsair-makr-pro-75-review",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-22T09:02:47.540474",
+    "insight": "Premium feel comes at a high price point, not DIY-friendly"
+  },
+  {
+    "title": "Data center developers building private natural gas 'Shadow Grid' power plants to sidestep strained grids off-grid GW Ranch project in Texas will reportedly use as much power as Chicago",
+    "summary": "Data centers in Texas are building natural gas 'Shadow Grid' plants to bypass strained power grids, which may increase carbon emissions.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/datacenter-developers-leverage-natural-gas-to-sidestep-power-grids-short-term-solution-might-increase-carbon-emissions-and-prove-costly-in-the-long-run",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.381787",
-    "insight": "Limited-edition cases merge style and function at an affordable price point."
+    "processed_date": "2026-02-22T09:02:47.540542",
+    "insight": "Carbon emissions rise as data centers sidestep grid constraints locally."
   },
   {
-    "title": "30 years later, the iconic 'Bliss' green hill from Windows XP is still thriving lucky passerby captures the hill looking almost identical to the 1996 photograph in 'super rare' event",
-    "summary": "A Redditor captured a 'Bliss' hill in Napa Valley looking almost identical to the 1996 Windows XP wallpaper, a rare sight in an area now covered in vineyards.",
-    "link": "https://www.tomshardware.com/software/windows/30-years-later-the-iconic-green-hill-from-windows-xps-bliss-wallpaper-is-still-thriving-new-picture-captures-the-hill-looking-almost-identical-to-the-original",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.381873",
-    "insight": "Unspoiled natural beauty can still be found in unexpected places."
-  },
-  {
-    "title": "The state of China's decade-long semiconductor push: still a decade behind, despite hundreds of billions spent and significant progress examining the original 'Made in China 2025' initiative",
-    "summary": "China's decade-long semiconductor push has spent hundreds of billions, yet still lags significantly behind the US and Taiwan.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-decade-long-semiconductor-push-still-a-decade-behind-despite-hundreds-of-billions-spent-and-significant-progress-examining-the-original-made-in-china-2025-initiative",
+    "title": "India joins America-led Pax Silica supply chain effort to build semiconductor talent and reduce reliance on China agreement spans from rare earths to chipmaking tools",
+    "summary": "India joins the Pax Silica effort to build semiconductor talent and reduce reliance on China, expanding the supply chain for rare earths and chipmaking tools as new fabs are developed in the country.",
+    "link": "https://www.tomshardware.com/tech-industry/india-joins-america-led-pax-silica-supply-chain-effort-to-build-semiconductor-talent-and-reduce-reliance-on-china-agreement-spans-from-rare-earths-to-chipmaking-tools",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.381946",
-    "insight": "China's supply chain still decades behind due to lack of core innovation."
-  },
-  {
-    "title": "After 17 years, Minecraft Java Edition starts replacing OpenGL with a Vulkan multi-threaded renderer update will prove a boon for performance and modding",
-    "summary": "Minecraft Java Edition is replacing its aging OpenGL renderer with a Vulkan multi-threaded renderer, which will significantly improve performance and open up new modding opportunities.",
-    "link": "https://www.tomshardware.com/video-games/after-17-years-minecraft-java-edition-starts-replacing-opengl-with-a-vulkan-multi-threaded-renderer-update-will-prove-a-boon-for-performance-and-modding",
-    "categories": [
-      "Tech News"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-02-21T09:02:04.381996",
-    "insight": "Improved performance and modding capabilities with modern Vulkan technology."
+    "processed_date": "2026-02-22T09:02:47.540613",
+    "insight": "Accelerating capacity building in a key sector reduces strategic reliance on China."
   },
   {
-    "title": "2.1-channel audio HAT for Raspberry Pi features Texas Instruments TAS5825M class-D amplifier",
-    "summary": "The Louder Raspberry Hat Plus features a 53W TAS5825M amplifier, offering improved efficiency and thermal performance. It supports 2.1-channel audio with DSP features, including 15-band parametric EQ and 128-tap FIR filtering. The board is compatible with all Raspberry Pi models and comes in 1X and 2X variants.",
-    "link": "https://www.cnx-software.com/2026/02/20/2-1-channel-audio-hat-for-raspberry-pi-features-texas-instruments-tas5825m-class-d-amplifier/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-21T09:02:04.382436",
-    "insight": "Raspberry Pi gains powerful 2.1-channel audio capabilities for media centers."
-  },
-  {
-    "title": "Why the Majority of AI-Powered IoT Projects Fail: Jack Gold",
-    "summary": "75% of AI-powered IoT pilot projects fail to reach production due to technical, business, and strategic challenges. This failure rate hinders innovation and adoption of IoT technology. As a result, businesses struggle to reap the benefits of AI-powered IoT.",
-    "link": "https://www.fiercesensors.com/sensors/why-majority-ai-powered-iot-projects-fail",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-02-21T09:02:04.383375",
-    "insight": "Lack of clear IoT business value hinders AI adoption."
-  },
-  {
-    "title": "Tesla's \"cheaper\" Cybertruck arrives at $59,990, still far from the $40K promise",
-    "summary": "Tesla's Cybertruck arrives at $59,990 with features like adaptive damping and Powershare capability.",
-    "link": "https://www.techspot.com/news/111410-tesla-launches-most-affordable-cybertruck-but-only-limited.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.383716",
-    "insight": "Tesla's Cybertruck fails to meet $40K price promise despite feature upgrades."
-  },
-  {
-    "title": "Fake faces generated by AI are now \"too good to be true,\" researchers warn",
-    "summary": "Think you can quickly identify fake faces generated by AI models? Think again. According to a recently published study by Australian researchers, AI-generated faces are now essentially too difficult to spot except for a small minority of people who are exceptionally skilled at analyzing facial features. As a result,... Read Entire Article",
-    "link": "https://www.techspot.com/news/111398-fake-faces-generated-ai-now-good-true-researchers.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-21T09:02:04.383787"
-  },
-  {
-    "title": "Real-world data shows plug-in hybrids use far more fuel than advertised",
-    "summary": "Plug-in hybrids consume significantly more fuel than advertised, according to research data. Researchers studied over one million vehicles produced between 2021 and 2023. Actual fuel consumption averaged three times the certified figures.",
-    "link": "https://www.techspot.com/news/111407-real-world-data-shows-plug-hybrids-use-far.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-21T09:02:04.383874",
-    "insight": "Fuel efficiency discrepancies have significant environmental and financial implications."
-  },
-  {
-    "title": "AI-powered defenses help Google shield Android users from malicious apps",
-    "summary": "Google's AI-powered defenses rejected over 1.75 million malicious apps and blocked 80,000 developer accounts, a significant decrease from 2024's numbers.",
-    "link": "https://www.techspot.com/news/111409-ai-powered-defenses-help-google-shield-android-users.html",
+    "title": "Creator of Window's Task Manager shows off 'probably what Task Manager would look like if I were still around' Tempest AI's retro-futuristic dashboard code shared to Github",
+    "summary": "Dave Plummer's Tempest AI, originally designed for Atari, features a retro-futuristic dashboard resembling a hypothetical Task Manager redesign.",
+    "link": "https://www.tomshardware.com/software/windows/task-manager-creator-shows-off-tempest-ais-retro-futuristic-dashboard-jokes-that-this-is-what-the-task-manager-would-look-like-if-he-were-still-at-microsoft-today",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-02-21T09:02:04.383950",
-    "insight": "Improved AI-powered defenses enhance user safety and trust in the Android ecosystem."
-  },
-  {
-    "title": "Low-noise microwave amplifiers bring quantum computers closer to scale",
-    "summary": "Low-noise microwave amplifiers are crucial in superconducting quantum architectures to minimize noise. Energy losses in dielectric materials have been a primary source of excess noise. This excess noise can overwhelm a qubit's delicate state during amplification.",
-    "link": "https://www.techspot.com/news/111402-low-noise-microwave-amplifiers-bring-quantum-computers-closer.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-21T09:02:04.384016",
-    "insight": "Excess noise in amplification can overwhelm qubit's delicate state."
-  },
-  {
-    "title": "Razer unveils $500 Huntsman Signature keyboard with CNC aluminum and mirror finish",
-    "summary": "Razer unveils a limited-edition, $500 Huntsman Signature keyboard with a mirror finish.",
-    "link": "https://www.techspot.com/news/111408-razer-unveils-500-huntsman-signature-edition-gaming-keyboard.html",
-    "categories": [
-      "Hardware"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.384072",
-    "insight": "Luxury gaming keyboard appeals to high-end enthusiasts and collectors."
+    "processed_date": "2026-02-22T09:02:47.540679",
+    "insight": "Alternate design possibilities for Task Manager showcased through Tempest AI's innovative concept."
   },
   {
-    "title": "Amazon says AWS AI tools were involved in two outages, but calls it \"coincidence\"",
-    "summary": "Amazon's AWS AI tools were involved in two outages, with one caused by an internal AI assistant making changes without human intervention.",
-    "link": "https://www.techspot.com/news/111404-amazon-aws-ai-tools-involved-two-outages-but.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.384138",
-    "insight": "AI system autonomy raises concerns about human oversight and error accountability."
-  },
-  {
-    "title": "Astronomers identify a galaxy made almost entirely of dark matter",
-    "summary": "Astronomers led by David Li discovered Candidate Dark Galaxy-2, a potential dark galaxy, as part of a list of ten such celestial structures. These galaxies are characterized by extremely faint starlight, making them difficult to detect. CDG-2 may be composed primarily of dark matter.",
-    "link": "https://www.techspot.com/news/111394-astronomers-identify-galaxy-made-almost-entirely-dark-matter.html",
+    "title": "Hands-on with Cooler Master s Cosmos Alpha full-tower chassis sliding, configurable interior makes for lots of possibilities",
+    "summary": "The Cooler Master Cosmos Alpha offers a modern, premium full-tower chassis with highly configurable interior spaces, providing users with a wide range of customization options. Its large internal areas make it an excellent update over previous models. This results in an ideal setup for building high-performance gaming PCs.",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/hands-on-with-cooler-masters-cosmos-alpha-full-tower-chassis",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.384202",
-    "insight": "Potential discovery of dark galaxies redefines our understanding of cosmic composition."
+    "processed_date": "2026-02-22T09:02:47.540740",
+    "insight": "Configurable interior design offers unparalleled build customization possibilities."
   },
   {
-    "title": "Tesla says its US-based robotaxi support is better than Waymo's Philippines team",
-    "summary": "Tesla claims its US-based robotaxi support surpasses Waymo's team, which includes contractors from the Philippines.",
-    "link": "https://www.techspot.com/news/111406-tesla-us-based-robotaxi-support-better-than-waymo.html",
+    "title": "Wikipedia officially blacklists all links to Archive Today over bizarre DDOS attack and manipulated archives website operator caught tweaking their own archive",
+    "summary": "Wikipedia has officially blacklisted Archive Today due to a DDoS attack and altered archives. This decision affects all links to the website. Wikipedia aims to preserve accurate information.",
+    "link": "https://www.tomshardware.com/software/search-engines/wikipedia-officially-blacklists-all-links-to-archive-today-website-operator-caught-tweaking-their-own-archive",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.384255",
-    "insight": "Geographic location affects robotaxi development and safety priorities significantly"
+    "processed_date": "2026-02-22T09:02:47.540825",
+    "insight": "Veracity of online archives compromised by manipulated data and attacks."
   },
   {
-    "title": "How a 16-year-old intern helped Netgear shut down a global scam network",
-    "summary": "A 16-year-old intern helped Netgear shut down a global scam network by making contact with the scammers. The intern's unconventional assignment led to a successful outcome. The case highlights the potential of non-traditional approaches to solving complex problems.",
-    "link": "https://www.techspot.com/news/111397-how-16-year-old-intern-helped-netgear-shut.html",
+    "title": " Mad scientist visualizes Atari 2600 fetching data from ROM for mesmerizing light show signal propagation through the 8-bit circuits animated",
+    "summary": "A 'mad scientist' visualized the Atari 2600's data fetching process in CMOS FET level detail, showcasing a captivating light show through its 8-bit circuits.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/mad-scientist-visualizes-atari-2600-fetching-data-from-rom-for-mesmerizing-light-show-signal-propagation-through-the-circuits-animated",
     "categories": [
-      "Semiconductors"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.384318",
-    "insight": "Teenagers can bring fresh, innovative approaches to complex cybersecurity issues."
+    "processed_date": "2026-02-22T09:02:47.540880",
+    "insight": "Demystifying the inner workings of vintage gaming consoles promotes innovation and understanding."
   },
   {
-    "title": "SignalRGB update improves UI and adds support for dozens of new devices",
-    "summary": "SignalRGB has updated its app with a polished UI and expanded support for new devices, fixing bugs and enhancing user experience.",
-    "link": "https://www.techspot.com/downloads/7457-signal-rgb.html",
+    "title": "Several PC games run on Snapdragon 8 Elite Android device with 16GB RAM and emulation The Witcher 3, Spider-Man: Miles Morales, and Cyberpunk 2077 playable at 720p",
+    "summary": "A YouTuber tests high-end Android devices for PC game emulation, achieving playable results with games like The Witcher 3, Spider-Man: Miles Morales, and Cyberpunk 2077 at 720p. The Red Magic 11 Pro, powered by a Snapdragon 8 Elite chip and 16GB RAM, achieves over 60 FPS in Cyberpunk 2077. This showcases the potential for PC gaming on Android devices.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/youtuber-successfully-runs-several-pc-games-on-snapdragon-8-elite-android-device-with-16gb-ram-the-witcher-3-spider-man-miles-morales-and-cyberpunk-2077-playable-at-720p",
     "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.384377",
-    "insight": "Simplified RGB lighting management for PC users is now more comprehensive."
+    "processed_date": "2026-02-22T09:02:47.540944",
+    "insight": "Android devices can emulate PC-quality gaming experiences with high performance."
   },
   {
-    "title": "Google Maps is hiding reviews, photos, and more unless you sign in",
-    "summary": "Google Maps is now restricting access to reviews, photos, and more for users without a Google account, displaying a limited view mode.",
-    "link": "https://www.techspot.com/news/111403-google-maps-hiding-reviews-photos-more-unless-you.html",
+    "title": "27 years after launch, Apple's decades-old iBook lineup can still get legacy updates from the company's servers 21-year-old iBook G4 seamlessly connects to Wi-Fi, downloads updates with no mods",
+    "summary": "A 21-year-old iBook G4 successfully downloads updates from Apple's servers.",
+    "link": "https://www.tomshardware.com/software/macos/you-can-still-get-legacy-updates-from-apples-servers-on-its-decades-old-ibook-lineup-21-year-old-ibook-g4-seamlessly-connects-to-wi-fi-downloads-updates-with-no-mods",
     "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-21T09:02:04.384430",
-    "insight": "Limited view mode affects users' ability to make informed decisions"
-  },
-  {
-    "title": "Former Google engineers charged with stealing Tensor chip trade secrets",
-    "summary": "Three Iranian nationals, former Google engineers, charged with stealing trade secrets related to the Tensor chip.",
-    "link": "https://www.techspot.com/news/111401-former-google-engineers-charged-stealing-tensor-chip-trade.html",
-    "categories": [
-      "GPUs",
-      "Semiconductors"
+      "AI & ML",
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.384488",
-    "insight": "High-stakes theft of AI chip technology poses significant national security risks."
+    "processed_date": "2026-02-22T09:02:47.541022",
+    "insight": "Apple's legacy software support contradicts planned obsolescence accusations."
   },
   {
-    "title": "AMD Zen 6 desktop CPUs may deliver 24 cores, 7 GHz targets, and AM5 support",
-    "summary": "AMD's Zen 6 desktop CPUs may offer up to 24 cores and 7 GHz speeds, with a rumored Ryzen 10000 series lineup. Four single-CCD processor variants and three dual-CCD designs are expected. AM5 support may also be included.",
-    "link": "https://www.techspot.com/news/111399-amd-zen-6-desktop-cpus-may-deliver-24.html",
+    "title": "Taalas HC1 hardwired Llama-3.1 8B AI accelerator delivers up to 17,000 tokens/s",
+    "summary": "The Taalas HC1 is an AI accelerator that hardwires Llama-3.1 8B, delivering up to 17,000 tokens/s with improved power efficiency and cost-effectiveness compared to existing datacenter accelerators.",
+    "link": "https://www.cnx-software.com/2026/02/22/taalas-hc1-hardwired-llama-3-1-8b-ai-accelerator-delivers-up-to-17000-tokens-s/",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-22T09:02:47.541517",
+    "insight": "Unified storage and compute boosts AI performance with reduced power consumption."
+  },
+  {
+    "title": "CHUWI CoreBook Air Plus 16 review Part 2: An AMD Ryzen 5 6600H-powered, mid-range laptop tested with Windows 11 Pro",
+    "summary": "The CHUWI CoreBook Air Plus 16 review continues with a test of the laptop's performance using Windows 11 Pro, covering software overview, features, benchmarking, WiFi 6 performance, fan noise, power consumption, and battery life.",
+    "link": "https://www.cnx-software.com/2026/02/21/chuwi-corebook-air-plus-16-review-part-2-an-amd-ryzen-5-6600h-powered-mid-range-laptop-tested-with-windows-11-pro/",
     "categories": [
       "Hardware",
       "GPUs"
     ],
+    "quality_score": 20,
+    "processed_date": "2026-02-22T09:02:47.541640",
+    "insight": "Mid-range laptops with AMD Ryzen 5 6600H performance are increasingly viable options."
+  },
+  {
+    "title": "A $300 Radeon RX 9060 XT just smashed the world GPU overclocking record",
+    "summary": "AMD, in collaboration with two overclockers, set a new world record for GPU frequency by pushing a Radeon RX 9060 XT to 4,769 MHz, surpassing the previous mark.",
+    "link": "https://www.techspot.com/news/111422-300-radeon-rx-9060-xt-smashed-world-gpu.html",
+    "categories": [
+      "GPUs"
+    ],
     "quality_score": 5,
-    "processed_date": "2026-02-21T09:02:04.384555",
-    "insight": "Significant performance boost for content creators and heavy users."
+    "processed_date": "2026-02-22T09:02:47.542855",
+    "insight": "Record-breaking overclocking demonstrates exceptional GPU performance and potential for further innovation."
+  },
+  {
+    "title": "The US just got an AI layer for immigration. The rules are still loading.",
+    "summary": "A new AI-powered immigration system links machine-learning models with government records, creating a broad enforcement infrastructure. The system, initially a narrow pilot, has expanded to wider operational use. Its impact is sparking intense debate.",
+    "link": "https://www.techspot.com/news/111421-us-got-ai-layer-immigration-rules-loading.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-22T09:02:47.542966",
+    "insight": "Government surveillance capabilities are expanding through AI integration."
+  },
+  {
+    "title": "Microsoft replaces Xbox heads Phil Spencer and Sarah Bond with AI exec",
+    "summary": "Microsoft's Xbox leadership has changed with Asha Sharma as the new CEO, replacing Phil Spencer. She succeeds him after his retirement. Asha previously held the position of CoreAI Product president.",
+    "link": "https://www.techspot.com/news/111414-microsoft-replaces-xbox-heads-phil-spencer-sarah-bond.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-22T09:02:47.543062",
+    "insight": "Asha Sharma's gaming and AI expertise brings strategic change"
+  },
+  {
+    "title": "ATMs are getting hacked the old-fashioned way: with keys and USB drives",
+    "summary": "Physical malware attacks on ATMs are bypassing digital and physical safeguards.",
+    "link": "https://www.techspot.com/news/111413-atms-getting-hacked-old-fashioned-way-keys-usb.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-22T09:02:47.543168",
+    "insight": "Outdated technology and generic maintenance hardware are exploited."
+  },
+  {
+    "title": "Final Fantasy VII Remake Part 3 is built PC-first, then scaled down to consoles",
+    "summary": "Square Enix is developing Final Fantasy VII Remake Part 3 on PC first, allowing the team to create high-end assets without hardware constraints. This approach benefits all platforms by avoiding limitations on lower-end hardware. The team can then scale down to consoles.",
+    "link": "https://www.techspot.com/news/111416-final-fantasy-developers-focus-pc-foundation-multiplatform-development.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-22T09:02:47.543275",
+    "insight": "Higher-end PC development frees game developers from hardware limitations."
+  },
+  {
+    "title": "Bill Gates-backed fusion startup begins licensing for futuristic reactor in Tennessee",
+    "summary": "A Bill Gates-backed fusion startup is licensing its reactor in Tennessee, marking a shift from fossil fuel to renewable energy.",
+    "link": "https://www.techspot.com/news/111423-bill-gates-backed-fusion-startup-begins-licensing-futuristic.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-22T09:02:47.543376",
+    "insight": "Transition from fossil fuels to fusion energy revolutionizes Tennessee's energy landscape."
+  },
+  {
+    "title": "The Windows XP Bliss wallpaper still exists, and it briefly looks the same again",
+    "summary": "The original 'Bliss' wallpaper location in Napa Valley has been preserved, closely matching the image that became an iconic default wallpaper for Windows XP. A Reddit user recently visited the location, drawing attention to its unchanged beauty. The scene remains a nostalgic reminder of the operating system.",
+    "link": "https://www.techspot.com/news/111411-windows-xp-bliss-wallpaper-exists-briefly-looks-same.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-22T09:02:47.543467",
+    "insight": "Preservation of a digital icon's real-world origin is maintained"
   }
 ]

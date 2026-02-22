@@ -1,5 +1,5 @@
 # 💻 Hardware
-**Week of February 21, 2026**
+**Week of February 22, 2026**
 
 *Computing hardware and development boards*
 
@@ -7,109 +7,109 @@
 
 ## 📊 Summary
 - **Articles this week:** 10
-- **Report generated:** 2026-02-21 09:03
+- **Report generated:** 2026-02-22 09:03
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Samsung Galaxy Book6 Ultra review: Premium creator pick 
+### 1. CHUWI CoreBook Air Plus 16 review Part 2: An AMD Ryzen 5 6600H-powered, mid-range laptop tested with Windows 11 Pro ⭐
 
-The Samsung Galaxy Book6 Ultra offers a premium design and top-notch performance, but at a high cost.
+The CHUWI CoreBook Air Plus 16 review continues with a test of the laptop's performance using Windows 11 Pro, covering software overview, features, benchmarking, WiFi 6 performance, fan noise, power consumption, and battery life.
 
-💡 *Premium design meets top-notch performance, but at a high price.*
+💡 *Mid-range laptops with AMD Ryzen 5 6600H performance are increasingly viable options.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/samsung-galaxy-book6-ultra-review)
-
----
-
-### 2. 2.1-channel audio HAT for Raspberry Pi features Texas Instruments TAS5825M class-D amplifier 
-
-The Louder Raspberry Hat Plus features a 53W TAS5825M amplifier, offering improved efficiency and thermal performance. It supports 2.1-channel audio with DSP features, including 15-band parametric EQ and 128-tap FIR filtering. The board is compatible with all Raspberry Pi models and comes in 1X and 2X variants.
-
-💡 *Raspberry Pi gains powerful 2.1-channel audio capabilities for media centers.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/20/2-1-channel-audio-hat-for-raspberry-pi-features-texas-instruments-tas5825m-class-d-amplifier/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/21/chuwi-corebook-air-plus-16-review-part-2-an-amd-ryzen-5-6600h-powered-mid-range-laptop-tested-with-windows-11-pro/)
 
 ---
 
-### 3. AI-powered defenses help Google shield Android users from malicious apps 
+### 2. Corsair Makr Pro 75 Review: Not DIY-priced (or DIY) 
 
-Google's AI-powered defenses rejected over 1.75 million malicious apps and blocked 80,000 developer accounts, a significant decrease from 2024's numbers.
+The Corsair Makr Pro 75 is a pre-built keyboard with magnetic switches, offering a premium feel and sound. However, its price may be hard to justify for those on a budget. It's a nicely-built board, but its value is a concern.
 
-💡 *Improved AI-powered defenses enhance user safety and trust in the Android ecosystem.*
+💡 *Premium feel comes at a high price point, not DIY-friendly*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111409-ai-powered-defenses-help-google-shield-android-users.html)
-
----
-
-### 4. Low-noise microwave amplifiers bring quantum computers closer to scale 
-
-Low-noise microwave amplifiers are crucial in superconducting quantum architectures to minimize noise. Energy losses in dielectric materials have been a primary source of excess noise. This excess noise can overwhelm a qubit's delicate state during amplification.
-
-💡 *Excess noise in amplification can overwhelm qubit's delicate state.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111402-low-noise-microwave-amplifiers-bring-quantum-computers-closer.html)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/corsair-makr-pro-75-review)
 
 ---
 
-### 5. Google Maps is hiding reviews, photos, and more unless you sign in 
+### 3. AMD Zen 6 and Intel Nova Lake CPUs reportedly arriving late, delayed to CES 2027 next-gen chips rocked by industry turmoil 
 
-Google Maps is now restricting access to reviews, photos, and more for users without a Google account, displaying a limited view mode.
+AMD Zen 6 and Intel Nova Lake CPUs are reportedly delayed until CES 2027. This marks a significant shift from their previously announced 2026 release dates. The delays are likely due to the ongoing industry turmoil.
 
-💡 *Limited view mode affects users' ability to make informed decisions*
+💡 *Industry turmoil impacts major CPU releases, affecting tech roadmaps globally.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111403-google-maps-hiding-reviews-photos-more-unless-you.html)
-
----
-
-### 6. PC novice hits the jackpot with free RTX 3090 PC from kindly neighbour potent build features $1,500 GPU paired with liquid-cooled i9-10850K and Asus Maximus motherboard 
-
-A PC novice received a free, high-end gaming PC from a generous neighbor, featuring an RTX 3090, i9-10850K, and Asus Maximus motherboard. The build showcases potent hardware, including a $1,500 GPU paired with liquid-cooling. The PC is a great first gaming machine.
-
-💡 *Free high-end gaming PC can change novice gamers' entire experience trajectory*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/pc-novice-hits-the-jackpot-with-free-rtx-3090-pc-from-kindly-neighbour-potent-build-features-usd1-500-gpu-paired-with-liquid-cooled-i9-10850k-and-asus-maximus-motherboard)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-zen-6-and-intel-nova-lake-cpus-reportedly-arriving-late-delayed-to-ces-2027-next-gen-chips-rocked-by-industry-turmoil)
 
 ---
 
-### 7. This iBuyPower gaming PC with a 7800X3D and RTX 5070 Ti is an absolute steal for just $1,999 right now huge $450 saving on this 4K-capable rig with 32GB of DDR5 RAM and a 1TB SSD 
+### 4. Intel Bartlett Lake-S CPUs reportedly wield 12 blazing P-cores and 5.8 GHz boost turbocharged chips that will not make it to retail 
 
-This iBuyPower gaming PC offers a powerful AMD Ryzen 7 7800X3D CPU, Nvidia GeForce RTX 5070 Ti GPU, 32GB of DDR5 RAM, and a 1TB SSD for $1,999.99.
+Intel's 'Bartlett Lake-S' CPUs reportedly feature 12 P-cores and 5.8 GHz boost speeds. These high-performance chips are expected to have a 125W TDP. However, they may not be available for retail purchase.
 
-💡 *Significant $450 saving on a 4K-capable gaming PC with impressive specs.*
+💡 *High-performance CPUs with limited availability create exclusivity and premium pricing*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/this-ibuypower-gaming-pc-with-a-7800x3d-and-rtx-5070-ti-is-an-absolute-steal-for-just-usd1-999-right-now-huge-usd450-saving-on-this-4k-capable-rig-with-32gb-of-ddr5-ram-and-a-1tb-ssd)
-
----
-
-### 8. Razer unveils $500 Huntsman Signature keyboard with CNC aluminum and mirror finish 
-
-Razer unveils a limited-edition, $500 Huntsman Signature keyboard with a mirror finish.
-
-💡 *Luxury gaming keyboard appeals to high-end enthusiasts and collectors.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111408-razer-unveils-500-huntsman-signature-edition-gaming-keyboard.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-bartlett-lake-s-cpus-reportedly-wield-12-blazing-p-cores-and-5-8-ghz-boost-turbocharged-chips-that-will-not-make-it-to-retail)
 
 ---
 
-### 9. SignalRGB update improves UI and adds support for dozens of new devices 
+### 5. Lenovo alerts partners to looming price hikes on consumer and server products soaring memory costs drive the surge 
 
-SignalRGB has updated its app with a polished UI and expanded support for new devices, fixing bugs and enhancing user experience.
+Lenovo alerts partners to impending price hikes on client and server devices due to rising memory costs.
 
-💡 *Simplified RGB lighting management for PC users is now more comprehensive.*
+💡 *Skyrocketing memory costs are driving a price surge across Lenovo products.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7457-signal-rgb.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/lenovo-alerts-partners-to-looming-price-hikes-on-consumer-and-server-products-soaring-memory-costs-drive-the-surge)
 
 ---
 
-### 10. AMD Zen 6 desktop CPUs may deliver 24 cores, 7 GHz targets, and AM5 support 
+### 6. Creator of Window's Task Manager shows off 'probably what Task Manager would look like if I were still around' Tempest AI's retro-futuristic dashboard code shared to Github 
 
-AMD's Zen 6 desktop CPUs may offer up to 24 cores and 7 GHz speeds, with a rumored Ryzen 10000 series lineup. Four single-CCD processor variants and three dual-CCD designs are expected. AM5 support may also be included.
+Dave Plummer's Tempest AI, originally designed for Atari, features a retro-futuristic dashboard resembling a hypothetical Task Manager redesign.
 
-💡 *Significant performance boost for content creators and heavy users.*
+💡 *Alternate design possibilities for Task Manager showcased through Tempest AI's innovative concept.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111399-amd-zen-6-desktop-cpus-may-deliver-24.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/task-manager-creator-shows-off-tempest-ais-retro-futuristic-dashboard-jokes-that-this-is-what-the-task-manager-would-look-like-if-he-were-still-at-microsoft-today)
+
+---
+
+### 7. Several PC games run on Snapdragon 8 Elite Android device with 16GB RAM and emulation The Witcher 3, Spider-Man: Miles Morales, and Cyberpunk 2077 playable at 720p 
+
+A YouTuber tests high-end Android devices for PC game emulation, achieving playable results with games like The Witcher 3, Spider-Man: Miles Morales, and Cyberpunk 2077 at 720p. The Red Magic 11 Pro, powered by a Snapdragon 8 Elite chip and 16GB RAM, achieves over 60 FPS in Cyberpunk 2077. This showcases the potential for PC gaming on Android devices.
+
+💡 *Android devices can emulate PC-quality gaming experiences with high performance.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/youtuber-successfully-runs-several-pc-games-on-snapdragon-8-elite-android-device-with-16gb-ram-the-witcher-3-spider-man-miles-morales-and-cyberpunk-2077-playable-at-720p)
+
+---
+
+### 8. 27 years after launch, Apple's decades-old iBook lineup can still get legacy updates from the company's servers 21-year-old iBook G4 seamlessly connects to Wi-Fi, downloads updates with no mods 
+
+A 21-year-old iBook G4 successfully downloads updates from Apple's servers.
+
+💡 *Apple's legacy software support contradicts planned obsolescence accusations.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/macos/you-can-still-get-legacy-updates-from-apples-servers-on-its-decades-old-ibook-lineup-21-year-old-ibook-g4-seamlessly-connects-to-wi-fi-downloads-updates-with-no-mods)
+
+---
+
+### 9. ATMs are getting hacked the old-fashioned way: with keys and USB drives 
+
+Physical malware attacks on ATMs are bypassing digital and physical safeguards.
+
+💡 *Outdated technology and generic maintenance hardware are exploited.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111413-atms-getting-hacked-old-fashioned-way-keys-usb.html)
+
+---
+
+### 10. Final Fantasy VII Remake Part 3 is built PC-first, then scaled down to consoles 
+
+Square Enix is developing Final Fantasy VII Remake Part 3 on PC first, allowing the team to create high-end assets without hardware constraints. This approach benefits all platforms by avoiding limitations on lower-end hardware. The team can then scale down to consoles.
+
+💡 *Higher-end PC development frees game developers from hardware limitations.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111416-final-fantasy-developers-focus-pc-foundation-multiplatform-development.html)
 
 ---
 
