@@ -1,5 +1,5 @@
 # 💻 Hardware
-**Week of February 22, 2026**
+**Week of February 23, 2026**
 
 *Computing hardware and development boards*
 
@@ -7,109 +7,109 @@
 
 ## 📊 Summary
 - **Articles this week:** 10
-- **Report generated:** 2026-02-22 09:03
+- **Report generated:** 2026-02-23 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. CHUWI CoreBook Air Plus 16 review Part 2: An AMD Ryzen 5 6600H-powered, mid-range laptop tested with Windows 11 Pro ⭐
+### 1. Be quiet! Silent Loop 3 420 review: Performance cooling with minimal noise ⭐
 
-The CHUWI CoreBook Air Plus 16 review continues with a test of the laptop's performance using Windows 11 Pro, covering software overview, features, benchmarking, WiFi 6 performance, fan noise, power consumption, and battery life.
+The Be Quiet Silent Loop 3 420 AIO outperforms many 360mm competitors with reduced noise.
 
-💡 *Mid-range laptops with AMD Ryzen 5 6600H performance are increasingly viable options.*
+💡 *Exceptional performance with minimal noise makes it a great choice for PC enthusiasts.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/21/chuwi-corebook-air-plus-16-review-part-2-an-amd-ryzen-5-6600h-powered-mid-range-laptop-tested-with-windows-11-pro/)
-
----
-
-### 2. Corsair Makr Pro 75 Review: Not DIY-priced (or DIY) 
-
-The Corsair Makr Pro 75 is a pre-built keyboard with magnetic switches, offering a premium feel and sound. However, its price may be hard to justify for those on a budget. It's a nicely-built board, but its value is a concern.
-
-💡 *Premium feel comes at a high price point, not DIY-friendly*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/corsair-makr-pro-75-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/be-quiet-silent-loop-3-420-review)
 
 ---
 
-### 3. AMD Zen 6 and Intel Nova Lake CPUs reportedly arriving late, delayed to CES 2027 next-gen chips rocked by industry turmoil 
+### 2. You can log into 28 vintage computer systems in your browser for free, thanks to the Interim Computer Museum Experience legendary OSes, architectures, programming languages, and games 
 
-AMD Zen 6 and Intel Nova Lake CPUs are reportedly delayed until CES 2027. This marks a significant shift from their previously announced 2026 release dates. The delays are likely due to the ongoing industry turmoil.
+Experience legendary operating systems, architectures, and games online for free through a new portal.
 
-💡 *Industry turmoil impacts major CPU releases, affecting tech roadmaps globally.*
+💡 *Preserving digital history and nostalgia for vintage computer enthusiasts*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-zen-6-and-intel-nova-lake-cpus-reportedly-arriving-late-delayed-to-ces-2027-next-gen-chips-rocked-by-industry-turmoil)
-
----
-
-### 4. Intel Bartlett Lake-S CPUs reportedly wield 12 blazing P-cores and 5.8 GHz boost turbocharged chips that will not make it to retail 
-
-Intel's 'Bartlett Lake-S' CPUs reportedly feature 12 P-cores and 5.8 GHz boost speeds. These high-performance chips are expected to have a 125W TDP. However, they may not be available for retail purchase.
-
-💡 *High-performance CPUs with limited availability create exclusivity and premium pricing*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-bartlett-lake-s-cpus-reportedly-wield-12-blazing-p-cores-and-5-8-ghz-boost-turbocharged-chips-that-will-not-make-it-to-retail)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/you-can-log-into-28-vintage-computer-systems-in-your-browser-for-free-thanks-to-the-interim-computer-museum-and-sdf-org-experience-legendary-oses-architectures-programming-languages-and-games)
 
 ---
 
-### 5. Lenovo alerts partners to looming price hikes on consumer and server products soaring memory costs drive the surge 
+### 3. Nvidia's Chinese competitor Moore Threads beats it to launching a laptop featuring custom 12-core Arm chip "MTT AI Book" can run Windows, seems to have adopted Arm before Nvidia's N1X 
 
-Lenovo alerts partners to impending price hikes on client and server devices due to rising memory costs.
+Moore Threads has launched a laptop with a custom 12-core Arm chip, beating Nvidia's N1X. The MTT AI Book laptop features a custom GPU and NPU, and can run Windows. The device is powered by a SoC with advanced AI capabilities.
 
-💡 *Skyrocketing memory costs are driving a price surge across Lenovo products.*
+💡 *Moore Threads is leading Nvidia in Arm-based laptop development efforts.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/lenovo-alerts-partners-to-looming-price-hikes-on-consumer-and-server-products-soaring-memory-costs-drive-the-surge)
-
----
-
-### 6. Creator of Window's Task Manager shows off 'probably what Task Manager would look like if I were still around' Tempest AI's retro-futuristic dashboard code shared to Github 
-
-Dave Plummer's Tempest AI, originally designed for Atari, features a retro-futuristic dashboard resembling a hypothetical Task Manager redesign.
-
-💡 *Alternate design possibilities for Task Manager showcased through Tempest AI's innovative concept.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/task-manager-creator-shows-off-tempest-ais-retro-futuristic-dashboard-jokes-that-this-is-what-the-task-manager-would-look-like-if-he-were-still-at-microsoft-today)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/nvidias-chinese-competitor-moore-threads-beats-it-to-launching-a-laptop-featuring-custom-12-core-arm-chip-mtt-ai-book-can-run-windows-seems-to-have-adopted-arm-before-nvidias-n1x)
 
 ---
 
-### 7. Several PC games run on Snapdragon 8 Elite Android device with 16GB RAM and emulation The Witcher 3, Spider-Man: Miles Morales, and Cyberpunk 2077 playable at 720p 
+### 4. AMD VEK385 Versal AI Edge Gen 2 FPGA evaluation kit plugs directly into a PCIe Gen5/Gen4 slot 
 
-A YouTuber tests high-end Android devices for PC game emulation, achieving playable results with games like The Witcher 3, Spider-Man: Miles Morales, and Cyberpunk 2077 at 720p. The Red Magic 11 Pro, powered by a Snapdragon 8 Elite chip and 16GB RAM, achieves over 60 FPS in Cyberpunk 2077. This showcases the potential for PC gaming on Android devices.
+AMD's VEK385 Versal AI Edge Gen 2 FPGA kit accelerates prototyping for various applications with its heterogeneous adaptive SoC, featuring eight Cortex-A78AE cores, ten Cortex-R52 cores, and advanced AI capabilities.
 
-💡 *Android devices can emulate PC-quality gaming experiences with high performance.*
+💡 *Accelerates industrial, automotive, and healthcare applications with advanced AI capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/youtuber-successfully-runs-several-pc-games-on-snapdragon-8-elite-android-device-with-16gb-ram-the-witcher-3-spider-man-miles-morales-and-cyberpunk-2077-playable-at-720p)
-
----
-
-### 8. 27 years after launch, Apple's decades-old iBook lineup can still get legacy updates from the company's servers 21-year-old iBook G4 seamlessly connects to Wi-Fi, downloads updates with no mods 
-
-A 21-year-old iBook G4 successfully downloads updates from Apple's servers.
-
-💡 *Apple's legacy software support contradicts planned obsolescence accusations.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/macos/you-can-still-get-legacy-updates-from-apples-servers-on-its-decades-old-ibook-lineup-21-year-old-ibook-g4-seamlessly-connects-to-wi-fi-downloads-updates-with-no-mods)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/23/amd-vek385-versal-ai-edge-gen-2-fpga-evaluation-kit-plugs-directly-into-a-pcie-gen5-gen4-slot/)
 
 ---
 
-### 9. ATMs are getting hacked the old-fashioned way: with keys and USB drives 
+### 5. OnLogic Factor 101 A fanless industrial edge AI computer with Qualcomm QCS6490 SoC, 10GbE networking 
 
-Physical malware attacks on ATMs are bypassing digital and physical safeguards.
+The OnLogic Factor 101 is a fanless industrial computer designed for edge AI and data gateway applications with a Qualcomm QCS6490 SoC. It features 10GbE networking, 8GB LPDDR4x memory, and 128GB UFS storage. This ultra-small form factor computer targets space-constrained applications in machine vision, inspection, and monitoring.
 
-💡 *Outdated technology and generic maintenance hardware are exploited.*
+💡 *Edge AI computing meets industrial needs with high-speed networking and storage.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111413-atms-getting-hacked-old-fashioned-way-keys-usb.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/23/onlogic-factor-101-a-fanless-industrial-edge-ai-computer-with-qualcomm-qcs6490-soc-10gbe-networking/)
 
 ---
 
-### 10. Final Fantasy VII Remake Part 3 is built PC-first, then scaled down to consoles 
+### 6. 55 years ago, the first computer search warrant was issued in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' 
 
-Square Enix is developing Final Fantasy VII Remake Part 3 on PC first, allowing the team to create high-end assets without hardware constraints. This approach benefits all platforms by avoiding limitations on lower-end hardware. The team can then scale down to consoles.
+In February 1971, a Santa Clara judge issued a warrant for police to seize computer data, marking the first computer search warrant in history. The warrant allowed Oakland Police to enter offices and homes in search of data stored on machines, expanding the scope of search warrants beyond physical papers.
 
-💡 *Higher-end PC development frees game developers from hardware limitations.*
+💡 *Blurred lines between physical and digital evidence in law enforcement.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111416-final-fantasy-developers-focus-pc-foundation-multiplatform-development.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/55-years-ago-today-the-first-computer-search-warrant-was-issued)
+
+---
+
+### 7. Akasa launches its latest-generation fanless Mini-ITX case Euler CMX supports modern Intel Core Ultra processors up to 35W TDP and standard mini-ITX mobos 
+
+The Akasa Euler CMX is a fanless Mini-ITX case supporting modern Intel Core Ultra processors up to 35W TDP. It is designed to work with standard mini-ITX motherboards. This case offers a compact, quiet computing solution.
+
+💡 *Enables high-performance computing in compact, quiet, and fanless designs.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/akasa-launches-its-latest-generation-fanless-mini-itx-case-euler-cmx-supports-modern-intel-core-ultra-processors-up-to-35w-tdp-and-standard-mini-itx-mobos)
+
+---
+
+### 8. Computer History Museum unveils comically large-scale rendition of the 1986 Apple Macintosh Plus 'Big Mac' celebrates 50th Apple anniversary towering all-in-one's keyboard looks disproportionately huge today 
+
+The Computer History Museum is unveiling a life-sized model of the 1986 Apple Macintosh Plus 'Big Mac' to commemorate Apple's 50th anniversary. The all-in-one computer will be displayed in a way that highlights its keyboard, which may seem oversized by today's standards. The exhibit is part of the museum's Apple at 50 celebrations next month.
+
+💡 *Vintage tech design makes for eye-opening comparisons today*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/case-mods/computer-history-museum-unveils-comically-large-scale-rendition-of-the-1986-apple-macintosh-plus-towering-all-in-ones-keyboard-looks-disproportionately-huge-today)
+
+---
+
+### 9. Dell's new prebuilt PC has special custom power connector for Nvidia GPU even large OEMs apparently fear the 16-pin power connector meltdowns 
+
+Dell introduces a custom power connector to mitigate 16-pin overheating issues in their new prebuilt PC, featuring the RTX 5070 Ti, by using genuine Amphenol brackets to lock the connector into place.
+
+💡 *OEMs fear 16-pin connector meltdowns due to overheating risks.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/dells-new-prebuilt-featuring-an-rtx-5070-ti-comes-with-bolted-on-12v-2x6-connector-even-large-oems-fear-the-16-pin-power-connector-meltdowns)
+
+---
+
+### 10. Asus and Acer block German users from drivers and BIOS updates after patent fallout 
+
+Asus and Acer block German users from accessing drivers and BIOS updates due to patent disputes, leaving enthusiasts without support for their high-end systems.
+
+💡 *Patent fallout affects German support for high-end Asus and Acer systems.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111419-asus-acer-block-german-users-drivers-bios-updates.html)
 
 ---
 

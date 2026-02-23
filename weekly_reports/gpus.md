@@ -1,55 +1,35 @@
 # 🎮 GPUs
-**Week of February 22, 2026**
+**Week of February 23, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-02-22 09:03
+- **Articles this week:** 2
+- **Report generated:** 2026-02-23 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. CHUWI CoreBook Air Plus 16 review Part 2: An AMD Ryzen 5 6600H-powered, mid-range laptop tested with Windows 11 Pro ⭐
+### 1. Just for Fun: We Tested MSI's "RTX 5090 Ti" You Probably Can't Buy 
 
-The CHUWI CoreBook Air Plus 16 review continues with a test of the laptop's performance using Windows 11 Pro, covering software overview, features, benchmarking, WiFi 6 performance, fan noise, power consumption, and battery life.
+MSI's RTX 5090 Lightning Z is a limited-edition, high-performance GPU that pushes the boundaries of graphics card design, featuring exceptional thermals, power draw, and performance. We put this halo product through rigorous testing to see its capabilities. The results are a testament to the extreme end of GPU design.
 
-💡 *Mid-range laptops with AMD Ryzen 5 6600H performance are increasingly viable options.*
+💡 *GPU design has limitless potential with no practical constraints applied*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/21/chuwi-corebook-air-plus-16-review-part-2-an-amd-ryzen-5-6600h-powered-mid-range-laptop-tested-with-windows-11-pro/)
-
----
-
-### 2. Taalas HC1 hardwired Llama-3.1 8B AI accelerator delivers up to 17,000 tokens/s 
-
-The Taalas HC1 is an AI accelerator that hardwires Llama-3.1 8B, delivering up to 17,000 tokens/s with improved power efficiency and cost-effectiveness compared to existing datacenter accelerators.
-
-💡 *Unified storage and compute boosts AI performance with reduced power consumption.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/22/taalas-hc1-hardwired-llama-3-1-8b-ai-accelerator-delivers-up-to-17000-tokens-s/)
+🔗 [Read Full Article](https://www.techspot.com/review/3087-msi-rtx-5090-lighting-z/)
 
 ---
 
-### 3. AMD Zen 6 and Intel Nova Lake CPUs reportedly arriving late, delayed to CES 2027 next-gen chips rocked by industry turmoil 
+### 2. Dell's new prebuilt PC has special custom power connector for Nvidia GPU even large OEMs apparently fear the 16-pin power connector meltdowns 
 
-AMD Zen 6 and Intel Nova Lake CPUs are reportedly delayed until CES 2027. This marks a significant shift from their previously announced 2026 release dates. The delays are likely due to the ongoing industry turmoil.
+Dell introduces a custom power connector to mitigate 16-pin overheating issues in their new prebuilt PC, featuring the RTX 5070 Ti, by using genuine Amphenol brackets to lock the connector into place.
 
-💡 *Industry turmoil impacts major CPU releases, affecting tech roadmaps globally.*
+💡 *OEMs fear 16-pin connector meltdowns due to overheating risks.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-zen-6-and-intel-nova-lake-cpus-reportedly-arriving-late-delayed-to-ces-2027-next-gen-chips-rocked-by-industry-turmoil)
-
----
-
-### 4. A $300 Radeon RX 9060 XT just smashed the world GPU overclocking record 
-
-AMD, in collaboration with two overclockers, set a new world record for GPU frequency by pushing a Radeon RX 9060 XT to 4,769 MHz, surpassing the previous mark.
-
-💡 *Record-breaking overclocking demonstrates exceptional GPU performance and potential for further innovation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111422-300-radeon-rx-9060-xt-smashed-world-gpu.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/dells-new-prebuilt-featuring-an-rtx-5070-ti-comes-with-bolted-on-12v-2x6-connector-even-large-oems-fear-the-16-pin-power-connector-meltdowns)
 
 ---
 

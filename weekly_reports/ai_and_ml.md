@@ -1,155 +1,95 @@
 # 🤖 AI & ML
-**Week of February 22, 2026**
+**Week of February 23, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-02-22 09:03
+- **Articles this week:** 8
+- **Report generated:** 2026-02-23 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Corsair Makr Pro 75 Review: Not DIY-priced (or DIY) 
+### 1. Intel shifts customer support to AI-powered assistant after scaling back phone support Ask Intel system built on Microsoft Copilot Studio 
 
-The Corsair Makr Pro 75 is a pre-built keyboard with magnetic switches, offering a premium feel and sound. However, its price may be hard to justify for those on a budget. It's a nicely-built board, but its value is a concern.
+Intel has launched Ask Intel, an AI-powered support assistant built with Microsoft Copilot Studio, to provide customers with a more efficient and effective support experience. The system aims to help users quickly find solutions to their issues. This marks a shift for Intel as it scales back phone support.
 
-💡 *Premium feel comes at a high price point, not DIY-friendly*
+💡 *AI-powered support streamlines customer experience and reduces phone reliance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/corsair-makr-pro-75-review)
-
----
-
-### 2. India joins America-led Pax Silica supply chain effort to build semiconductor talent and reduce reliance on China agreement spans from rare earths to chipmaking tools 
-
-India joins the Pax Silica effort to build semiconductor talent and reduce reliance on China, expanding the supply chain for rare earths and chipmaking tools as new fabs are developed in the country.
-
-💡 *Accelerating capacity building in a key sector reduces strategic reliance on China.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/india-joins-america-led-pax-silica-supply-chain-effort-to-build-semiconductor-talent-and-reduce-reliance-on-china-agreement-spans-from-rare-earths-to-chipmaking-tools)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-shifts-customer-support-to-microsoft-copilot-studio)
 
 ---
 
-### 3. Taalas HC1 hardwired Llama-3.1 8B AI accelerator delivers up to 17,000 tokens/s 
+### 2. AMD VEK385 Versal AI Edge Gen 2 FPGA evaluation kit plugs directly into a PCIe Gen5/Gen4 slot 
 
-The Taalas HC1 is an AI accelerator that hardwires Llama-3.1 8B, delivering up to 17,000 tokens/s with improved power efficiency and cost-effectiveness compared to existing datacenter accelerators.
+AMD's VEK385 Versal AI Edge Gen 2 FPGA kit accelerates prototyping for various applications with its heterogeneous adaptive SoC, featuring eight Cortex-A78AE cores, ten Cortex-R52 cores, and advanced AI capabilities.
 
-💡 *Unified storage and compute boosts AI performance with reduced power consumption.*
+💡 *Accelerates industrial, automotive, and healthcare applications with advanced AI capabilities.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/22/taalas-hc1-hardwired-llama-3-1-8b-ai-accelerator-delivers-up-to-17000-tokens-s/)
-
----
-
-### 4. Microsoft replaces Xbox heads Phil Spencer and Sarah Bond with AI exec 
-
-Microsoft's Xbox leadership has changed with Asha Sharma as the new CEO, replacing Phil Spencer. She succeeds him after his retirement. Asha previously held the position of CoreAI Product president.
-
-💡 *Asha Sharma's gaming and AI expertise brings strategic change*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111414-microsoft-replaces-xbox-heads-phil-spencer-sarah-bond.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/23/amd-vek385-versal-ai-edge-gen-2-fpga-evaluation-kit-plugs-directly-into-a-pcie-gen5-gen4-slot/)
 
 ---
 
-### 5. Steam Deck shortage goes global Valve's handheld console now out of stock in Europe, Canada, the US, and Japan 
+### 3. The Ambient IoT Alliance aims to promote and develop standards for batteryless IoT devices using energy harvesting 
 
-The Steam Deck is currently out of stock in the US, Canada, Europe, and Japan, but still available in Australia, the UK, Hong Kong, South Korea, and Taiwan.
+The Ambient IoT Alliance promotes standardization for batteryless IoT devices using energy harvesting, reducing costs through ambient power sources like radio waves and light.
 
-💡 *Global console shortages impact gamers' access to portable gaming experiences.*
+💡 *Batteryless IoT devices promise significant cost savings and high scalability.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/steam-deck-shortage-goes-global-valves-handheld-console-now-out-of-stock-in-europe-canada-the-us-and-japan)
-
----
-
-### 6. Intel Bartlett Lake-S CPUs reportedly wield 12 blazing P-cores and 5.8 GHz boost turbocharged chips that will not make it to retail 
-
-Intel's 'Bartlett Lake-S' CPUs reportedly feature 12 P-cores and 5.8 GHz boost speeds. These high-performance chips are expected to have a 125W TDP. However, they may not be available for retail purchase.
-
-💡 *High-performance CPUs with limited availability create exclusivity and premium pricing*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-bartlett-lake-s-cpus-reportedly-wield-12-blazing-p-cores-and-5-8-ghz-boost-turbocharged-chips-that-will-not-make-it-to-retail)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/23/ambient-iot-alliance-promote-develop-standards-for-batteryless-iot-devices-energy-harvesting/)
 
 ---
 
-### 7. Data center developers building private natural gas 'Shadow Grid' power plants to sidestep strained grids off-grid GW Ranch project in Texas will reportedly use as much power as Chicago 
+### 4. New discovery lets sodium-ion batteries store more energy while purifying water 
 
-Data centers in Texas are building natural gas 'Shadow Grid' plants to bypass strained power grids, which may increase carbon emissions.
+University of Surrey researchers discovered a compound, nanostructured sodium vanadate hydrate (NVOH), that can store more energy while purifying water.
 
-💡 *Carbon emissions rise as data centers sidestep grid constraints locally.*
+💡 *Heating water out won't weaken the material's stability, it's actually a key strength.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/datacenter-developers-leverage-natural-gas-to-sidestep-power-grids-short-term-solution-might-increase-carbon-emissions-and-prove-costly-in-the-long-run)
-
----
-
-### 8. Creator of Window's Task Manager shows off 'probably what Task Manager would look like if I were still around' Tempest AI's retro-futuristic dashboard code shared to Github 
-
-Dave Plummer's Tempest AI, originally designed for Atari, features a retro-futuristic dashboard resembling a hypothetical Task Manager redesign.
-
-💡 *Alternate design possibilities for Task Manager showcased through Tempest AI's innovative concept.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/task-manager-creator-shows-off-tempest-ais-retro-futuristic-dashboard-jokes-that-this-is-what-the-task-manager-would-look-like-if-he-were-still-at-microsoft-today)
+🔗 [Read Full Article](https://www.techspot.com/news/111424-new-discovery-sodium-ion-batteries-store-more-energy.html)
 
 ---
 
-### 9. Hands-on with Cooler Master s Cosmos Alpha full-tower chassis sliding, configurable interior makes for lots of possibilities 
+### 5. Hands-on: G AIM E 30th Anniversary Time Crisis Light Gun Game 
 
-The Cooler Master Cosmos Alpha offers a modern, premium full-tower chassis with highly configurable interior spaces, providing users with a wide range of customization options. Its large internal areas make it an excellent update over previous models. This results in an ideal setup for building high-performance gaming PCs.
+G AIM E's Time Crisis Light Gun Game brings the classic experience home, celebrating 30 years of Time Crisis with official licensing.
 
-💡 *Configurable interior design offers unparalleled build customization possibilities.*
+💡 *Reviving a nostalgic gaming genre with modern, immersive technology.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/hands-on-with-cooler-masters-cosmos-alpha-full-tower-chassis)
-
----
-
-### 10. 27 years after launch, Apple's decades-old iBook lineup can still get legacy updates from the company's servers 21-year-old iBook G4 seamlessly connects to Wi-Fi, downloads updates with no mods 
-
-A 21-year-old iBook G4 successfully downloads updates from Apple's servers.
-
-💡 *Apple's legacy software support contradicts planned obsolescence accusations.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/macos/you-can-still-get-legacy-updates-from-apples-servers-on-its-decades-old-ibook-lineup-21-year-old-ibook-g4-seamlessly-connects-to-wi-fi-downloads-updates-with-no-mods)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/hands-on-gaime-30th-anniversary-time-crisis-light-gun-game)
 
 ---
 
-### 11. The US just got an AI layer for immigration. The rules are still loading. 
+### 6. Sam Altman fires back at Elon Musk's proposal for space-based data centers, says orbiting data centers 'ridiculous' for now cites high failure rates and cost as primary limiters 
 
-A new AI-powered immigration system links machine-learning models with government records, creating a broad enforcement infrastructure. The system, initially a narrow pilot, has expanded to wider operational use. Its impact is sparking intense debate.
+Sam Altman criticizes Elon Musk's space-based data center proposal, citing high failure rates and costs as major limitations. Orbital data centers are deemed impractical for now. This opinion stands in contrast to those of Musk and Bezos.
 
-💡 *Government surveillance capabilities are expanding through AI integration.*
+💡 *Orbital data centers face significant technical and financial hurdles.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111421-us-got-ai-layer-immigration-rules-loading.html)
-
----
-
-### 12. ATMs are getting hacked the old-fashioned way: with keys and USB drives 
-
-Physical malware attacks on ATMs are bypassing digital and physical safeguards.
-
-💡 *Outdated technology and generic maintenance hardware are exploited.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111413-atms-getting-hacked-old-fashioned-way-keys-usb.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-fires-back-at-elon-musks-proposal-for-space-based-data-centers-says-orbiting-data-centers-ridiculous-for-now-cites-high-failure-rates-and-cost-as-primary-limiters)
 
 ---
 
-### 13. Final Fantasy VII Remake Part 3 is built PC-first, then scaled down to consoles 
+### 7. AI energy efficiency comparisons unfair bleats Sam Altman, citing amount of energy needed to evolve, then train a human one takes like 20 years of life and all of the food you eat during that time before you get smart he argues 
 
-Square Enix is developing Final Fantasy VII Remake Part 3 on PC first, allowing the team to create high-end assets without hardware constraints. This approach benefits all platforms by avoiding limitations on lower-end hardware. The team can then scale down to consoles.
+Sam Altman claims AI energy efficiency comparisons are unfair, citing human evolution and training costs.
 
-💡 *Higher-end PC development frees game developers from hardware limitations.*
+💡 *Comparing AI to human development is a flawed energy efficiency metric.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111416-final-fantasy-developers-focus-pc-foundation-multiplatform-development.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-energy-efficiency-comparisons-unfair-bleats-sam-altman-citing-amount-of-energy-needed-to-evolve-then-train-a-human-one-takes-like-20-years-of-life-and-all-of-the-food-you-eat-during-that-time-before-you-get-smart-he-argues)
 
 ---
 
-### 14. The Windows XP Bliss wallpaper still exists, and it briefly looks the same again 
+### 8. Retail DDR5 memory prices slowly drop in Europe despite ongoing shortages overdue pricing correction could be beginning in some regions 
 
-The original 'Bliss' wallpaper location in Napa Valley has been preserved, closely matching the image that became an iconic default wallpaper for Windows XP. A Reddit user recently visited the location, drawing attention to its unchanged beauty. The scene remains a nostalgic reminder of the operating system.
+Retail DDR5 memory prices are slowly dropping in Europe, with some 32 GB kits seeing price reductions.
 
-💡 *Preservation of a digital icon's real-world origin is maintained*
+💡 *Price corrections may be underway, benefiting consumers and potentially stabilizing the market.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111411-windows-xp-bliss-wallpaper-exists-briefly-looks-same.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/retail-ddr5-memory-prices-slowly-drop-in-europe)
 
 ---
 

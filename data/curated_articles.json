@@ -1,235 +1,233 @@
 [
   {
-    "title": "Steam Deck shortage goes global Valve's handheld console now out of stock in Europe, Canada, the US, and Japan",
-    "summary": "The handheld console is still available in Australia, the U.K., Hong Kong, South Korea, and Taiwan. But will they run out of stock in the near future, too?",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/steam-deck-shortage-goes-global-valves-handheld-console-now-out-of-stock-in-europe-canada-the-us-and-japan",
+    "title": "55 years ago, the first computer search warrant was issued in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank'",
+    "summary": "In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machines.",
+    "link": "https://www.tomshardware.com/tech-industry/55-years-ago-today-the-first-computer-search-warrant-was-issued",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-23T09:36:55.302551"
+  },
+  {
+    "title": "Hands-on: G AIM E 30th Anniversary Time Crisis Light Gun Game",
+    "summary": "Peripheral maker G AIM E brings the lightgun back to the living room, with a bang. Celebrating 30 years since Time Crisis was out in the arcades, Richard Miller is back and ready to mow down hordes of bad guys in this officially licensed release.",
+    "link": "https://www.tomshardware.com/peripherals/hands-on-gaime-30th-anniversary-time-crisis-light-gun-game",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.540199"
+    "processed_date": "2026-02-23T09:36:55.302624"
   },
   {
-    "title": "AMD Zen 6 and Intel Nova Lake CPUs reportedly arriving late, delayed to CES 2027 next-gen chips rocked by industry turmoil",
-    "summary": "AMD and Intel are both preparing next-gen desktop CPUs with major architectural improvements that now seem to be delayed. This includes Nova Lake, which has been confirmed for a 2026 year-end release time and again, and Zen 6, which has been on AMD's roadmap as a 2026 product for a while.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-and-intel-nova-lake-cpus-reportedly-arriving-late-delayed-to-ces-2027-next-gen-chips-rocked-by-industry-turmoil",
+    "title": "MIT-developed 3D printer can output a fully functional electric motor in a single process team only needed to magnetize the linear motor after printing, motors cost just 50 cents each",
+    "summary": "A team of researchers from MIT built a 3D printer that can economically print a fully functioning linear motor, with magnetization of the magnetic parts the only required step after printing.",
+    "link": "https://www.tomshardware.com/3d-printing/mit-developed-3d-printer-can-output-a-fully-functional-electric-motor-in-a-single-process-team-only-needed-to-magnetize-the-linear-motor-after-printing-motors-cost-just-50-cents-each",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-23T09:36:55.302696"
+  },
+  {
+    "title": "Be quiet! Silent Loop 3 420 review: Performance cooling with minimal noise",
+    "summary": "Be Quiet s Silent Loop 3 420 outperforms most 360mm AIOs while running quieter than the competition. This review is tested with AMD s Ryzen 9 9950X CPU and includes noise-normalized benchmarks.",
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/be-quiet-silent-loop-3-420-review",
     "categories": [
       "Hardware",
-      "GPUs"
+      "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.540288"
+    "quality_score": 20,
+    "processed_date": "2026-02-23T09:36:55.302763"
   },
   {
-    "title": "Intel Bartlett Lake-S CPUs reportedly wield 12 blazing P-cores and 5.8 GHz boost turbocharged chips that will not make it to retail",
-    "summary": "Intel's Core 200E-series 'Bartlett Lake' CPUs to offer up to 12 cores at a 125W TDP, according to a leak.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-bartlett-lake-s-cpus-reportedly-wield-12-blazing-p-cores-and-5-8-ghz-boost-turbocharged-chips-that-will-not-make-it-to-retail",
+    "title": "Sam Altman fires back at Elon Musk's proposal for space-based data centers, says orbiting data centers 'ridiculous' for now cites high failure rates and cost as primary limiters",
+    "summary": "Contrary to what Elon Musk and Jeff Bezos say, orbital data centers will not make sense any time soon, believes Sam Altman.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-fires-back-at-elon-musks-proposal-for-space-based-data-centers-says-orbiting-data-centers-ridiculous-for-now-cites-high-failure-rates-and-cost-as-primary-limiters",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-23T09:36:55.302826"
+  },
+  {
+    "title": "Akasa launches its latest-generation fanless Mini-ITX case Euler CMX supports modern Intel Core Ultra processors up to 35W TDP and standard mini-ITX mobos",
+    "summary": "The Akasa Euler CMX fanless Mini-ITX PC case supports up to an Intel Core Ultra 9 285T with up to 35 watts TDP without relying on thin Mini-ITX motherboards.",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/akasa-launches-its-latest-generation-fanless-mini-itx-case-euler-cmx-supports-modern-intel-core-ultra-processors-up-to-35w-tdp-and-standard-mini-itx-mobos",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-23T09:36:55.302891"
+  },
+  {
+    "title": "AI energy efficiency comparisons unfair bleats Sam Altman, citing amount of energy needed to evolve, then train a human one takes like 20 years of life and all of the food you eat during that time before you get smart he argues",
+    "summary": "AI energy efficiency comparisons unfair bleats Sam Altman, citing amount of energy needed to evolve, then train a human",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-energy-efficiency-comparisons-unfair-bleats-sam-altman-citing-amount-of-energy-needed-to-evolve-then-train-a-human-one-takes-like-20-years-of-life-and-all-of-the-food-you-eat-during-that-time-before-you-get-smart-he-argues",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-23T09:36:55.302987"
+  },
+  {
+    "title": "Computer History Museum unveils comically large-scale rendition of the 1986 Apple Macintosh Plus 'Big Mac' celebrates 50th Apple anniversary towering all-in-one's keyboard looks disproportionately huge today",
+    "summary": "Museum teases a 'Big Mac' that will be part of its Apple at 50 celebrations next month.",
+    "link": "https://www.tomshardware.com/pc-components/case-mods/computer-history-museum-unveils-comically-large-scale-rendition-of-the-1986-apple-macintosh-plus-towering-all-in-ones-keyboard-looks-disproportionately-huge-today",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-23T09:36:55.303048"
+  },
+  {
+    "title": "Dell's new prebuilt PC has special custom power connector for Nvidia GPU even large OEMs apparently fear the 16-pin power connector meltdowns",
+    "summary": "Dell's solution to the 16-pin connector overheating issues seems to bea custom connector to lock it into place. At least, that's what the OEM has done in a new prebuilt featuring the RTX 5070 Ti. The 12V-2x6 connector is forcibly fixed using genuine Amphenol brackets.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/dells-new-prebuilt-featuring-an-rtx-5070-ti-comes-with-bolted-on-12v-2x6-connector-even-large-oems-fear-the-16-pin-power-connector-meltdowns",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-23T09:36:55.303120"
+  },
+  {
+    "title": "Intel shifts customer support to AI-powered assistant after scaling back phone support Ask Intel system built on Microsoft Copilot Studio",
+    "summary": "Intel has launched what it s calling Ask Intel, a new AI-powered support assistant built with Microsoft Copilot Studio.",
+    "link": "https://www.tomshardware.com/tech-industry/intel-shifts-customer-support-to-microsoft-copilot-studio",
     "categories": [
       "AI & ML",
-      "Hardware"
+      "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.540357"
+    "quality_score": 10,
+    "processed_date": "2026-02-23T09:36:55.303176"
   },
   {
-    "title": "Lenovo alerts partners to looming price hikes on consumer and server products soaring memory costs drive the surge",
-    "summary": "Lenovo warns partners of price hikes on client and server devices, advising them to place orders early to order at current prices.",
-    "link": "https://www.tomshardware.com/desktops/lenovo-alerts-partners-to-looming-price-hikes-on-consumer-and-server-products-soaring-memory-costs-drive-the-surge",
+    "title": "You can log into 28 vintage computer systems in your browser for free, thanks to the Interim Computer Museum Experience legendary OSes, architectures, programming languages, and games",
+    "summary": "Experience legendary OSes, architectures, programming languages, and games via a new online portal.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/you-can-log-into-28-vintage-computer-systems-in-your-browser-for-free-thanks-to-the-interim-computer-museum-and-sdf-org-experience-legendary-oses-architectures-programming-languages-and-games",
     "categories": [
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.540417"
+    "quality_score": 10,
+    "processed_date": "2026-02-23T09:36:55.303237"
   },
   {
-    "title": "Corsair Makr Pro 75 Review: Not DIY-priced (or DIY)",
-    "summary": "Corsair's Makr Pro 75 is a pre-built magnetic switch version of its DIY Makr 75 series. It's a nicely-built board, and feels and sounds pretty good out of the box, but it's hard to justify the price.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/corsair-makr-pro-75-review",
+    "title": "Retail DDR5 memory prices slowly drop in Europe despite ongoing shortages overdue pricing correction could be beginning in some regions",
+    "summary": "Prices of some 32 GB DDR5 memory kits in Europe are dropping.",
+    "link": "https://www.tomshardware.com/pc-components/dram/retail-ddr5-memory-prices-slowly-drop-in-europe",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-23T09:36:55.303288"
+  },
+  {
+    "title": "Nvidia's Chinese competitor Moore Threads beats it to launching a laptop featuring custom 12-core Arm chip \"MTT AI Book\" can run Windows, seems to have adopted Arm before Nvidia's N1X",
+    "summary": "Moore Threads seems to have done what Nvidia couldn't... well, at least, at first glance. The company's new MTT AI Book laptop is powered by a custom ARM-based SoC that features 12 CPU cores, an unknown GPU based on in-house \"MUSA\" architecture, and a 50 TOPS-delivering NPU. The device can even run Windows, but not natively.",
+    "link": "https://www.tomshardware.com/laptops/nvidias-chinese-competitor-moore-threads-beats-it-to-launching-a-laptop-featuring-custom-12-core-arm-chip-mtt-ai-book-can-run-windows-seems-to-have-adopted-arm-before-nvidias-n1x",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-23T09:36:55.303372"
+  },
+  {
+    "title": "Colorado law could force surveillance for 3D printers to prevent use for making gun parts fourth state to propose new bans is expanding firearms laws to regulate digital files",
+    "summary": "Colorado is joining the growing list of states attempting to crack down on the manufacture of 3D printed ghost guns, joining New York, Washington, and California on a quest to expand firearms laws to regulate digital files and potentially ban 3D printers that are not under its surveillance.",
+    "link": "https://www.tomshardware.com/3d-printing/colorado-could-ban-3d-printers-not-under-its-surveillance-to-prevent-creating-gun-parts-fourth-state-to-propose-new-bans-is-expanding-firearms-laws-to-regulate-digital-files",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-23T09:36:55.303447"
+  },
+  {
+    "title": "AMD VEK385 Versal AI Edge Gen 2 FPGA evaluation kit plugs directly into a PCIe Gen5/Gen4 slot",
+    "summary": "AMD has introduced the VEK385 Evaluation Kit built around the Versal AI Edge Gen 2 XC2VE3858 SoC FPGA, which combines eight Cortex-A78AE cores, ten Cortex-R52 cores, FPGA fabric with 543,104 LUTs, 144 AI Engine-ML v2 tiles (up to 184 INT8 TOPS), 2,064 DSPs, a Mali-G78AE GPU, and an integrated ISP. The kit features 20 GB of LPDDR5X memory, a PCIe x8 edge connector supporting Gen5 x4 and Gen3/4 x8, and two HDMI 2.1 RX/TX ports for video. There is also an SFP28 port for 25 100 Gb/s Ethernet, and CAN-FD alongside PL/PS Ethernet for deterministic control applications. The board is designed to accelerate prototyping for automotive (ADAS, autonomous driving), industrial (AMR, edge AI boxes), healthcare (ultrasound, endoscopy, 3D imaging), and aerospace-grade systems. VEK385 Evaluation Kit specifications Adaptive SoC AMD Versal AI Edge Series Gen 2 XC2VE3858-2MSESSVA2112 heterogeneous adaptive SoC CPU 8x Arm Cortex-A78AE application cores Real-time 10x Arm Cortex-R52 [...] The post AMD VEK385 Versal AI Edge Gen 2 FPGA evaluation kit plugs directly into a PCIe Gen5/Gen4 slot appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/02/23/amd-vek385-versal-ai-edge-gen-2-fpga-evaluation-kit-plugs-directly-into-a-pcie-gen5-gen4-slot/",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-02-22T09:02:47.540474"
+    "processed_date": "2026-02-23T09:36:55.303959"
   },
   {
-    "title": "Data center developers building private natural gas 'Shadow Grid' power plants to sidestep strained grids off-grid GW Ranch project in Texas will reportedly use as much power as Chicago",
-    "summary": "Data centers using natural gas plants to sidestep power grids at the cost of carbon emissions",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/datacenter-developers-leverage-natural-gas-to-sidestep-power-grids-short-term-solution-might-increase-carbon-emissions-and-prove-costly-in-the-long-run",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.540542"
-  },
-  {
-    "title": "India joins America-led Pax Silica supply chain effort to build semiconductor talent and reduce reliance on China agreement spans from rare earths to chipmaking tools",
-    "summary": "With new fabs under development and a growing focus on skilled talent, India s inclusion in Pax Silica points to a long-term effort by the U.S. and its partners to accelerate capacity building.",
-    "link": "https://www.tomshardware.com/tech-industry/india-joins-america-led-pax-silica-supply-chain-effort-to-build-semiconductor-talent-and-reduce-reliance-on-china-agreement-spans-from-rare-earths-to-chipmaking-tools",
+    "title": "The Ambient IoT Alliance aims to promote and develop standards for batteryless IoT devices using energy harvesting",
+    "summary": "The Ambient IoT Alliance, or AIoTA, is a global, cross-industry coalition working to promote and develop standards for batteryless IoT devices relying on energy harvesting for power. Ambient Internet of Things (IoT) refers to a class of IoT devices powered by radio waves, light, motion, heat, or any other viable ambient energy source. It is an evolution of legacy IoT and RFID technologies that promises lower costs and high scalability through Bluetooth, 5G Advanced, and the IEEE 802.11bp ambient power communication (AMP) standard. The alliance says its mission is to promote and support the development of an open, harmonized, and aligned multi-standard ecosystem . Ambient IoT-enabled devices can gather location, temperature, humidity, and/r other data, and communicate with the wireless infrastructure through a nearby mobile device, wireless access points, domestic appliances, or other standard gateways using a compatible standard. This reduces maintenance costs since batteries do not need to be replaced, [...] The post The Ambient IoT Alliance aims to promote and develop standards for batteryless IoT devices using energy harvesting appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/02/23/ambient-iot-alliance-promote-develop-standards-for-batteryless-iot-devices-energy-harvesting/",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-02-22T09:02:47.540613"
+    "processed_date": "2026-02-23T09:36:55.304121"
   },
   {
-    "title": "Creator of Window's Task Manager shows off 'probably what Task Manager would look like if I were still around' Tempest AI's retro-futuristic dashboard code shared to Github",
-    "summary": "Dave Plummer created Tempest AI to play the classic Atari game, but he also built a dashboard which imagines what Task Manager should look like if he were still in charge of it.",
-    "link": "https://www.tomshardware.com/software/windows/task-manager-creator-shows-off-tempest-ais-retro-futuristic-dashboard-jokes-that-this-is-what-the-task-manager-would-look-like-if-he-were-still-at-microsoft-today",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.540679"
-  },
-  {
-    "title": "Hands-on with Cooler Master s Cosmos Alpha full-tower chassis sliding, configurable interior makes for lots of possibilities",
-    "summary": "The Cosmos Alpha is an excellent update over the previous 2022-era model. The large internal spaces offer tons of configuration possibilities, all inside a modern, good-looking, premium full-tower chassis.",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/hands-on-with-cooler-masters-cosmos-alpha-full-tower-chassis",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.540740"
-  },
-  {
-    "title": "Wikipedia officially blacklists all links to Archive Today over bizarre DDOS attack and manipulated archives website operator caught tweaking their own archive",
-    "summary": "Wikipedia officially blacklists all links to Archive Today",
-    "link": "https://www.tomshardware.com/software/search-engines/wikipedia-officially-blacklists-all-links-to-archive-today-website-operator-caught-tweaking-their-own-archive",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.540825"
-  },
-  {
-    "title": " Mad scientist visualizes Atari 2600 fetching data from ROM for mesmerizing light show signal propagation through the 8-bit circuits animated",
-    "summary": "A spectacular new CMOS FET level visualization of an Atari 2600 loading data has been shared by a 'mad scientist.'",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/mad-scientist-visualizes-atari-2600-fetching-data-from-rom-for-mesmerizing-light-show-signal-propagation-through-the-circuits-animated",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.540880"
-  },
-  {
-    "title": "Several PC games run on Snapdragon 8 Elite Android device with 16GB RAM and emulation The Witcher 3, Spider-Man: Miles Morales, and Cyberpunk 2077 playable at 720p",
-    "summary": "YouTuber tests several PC games on Android with high-end Snapdragon-powered devices, showing how good PC emulation is on Android. Cyberpunk 2077 runs at over 60 FPS on liquid-cooled Red Magic 11 Pro.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/youtuber-successfully-runs-several-pc-games-on-snapdragon-8-elite-android-device-with-16gb-ram-the-witcher-3-spider-man-miles-morales-and-cyberpunk-2077-playable-at-720p",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.540944"
-  },
-  {
-    "title": "27 years after launch, Apple's decades-old iBook lineup can still get legacy updates from the company's servers 21-year-old iBook G4 seamlessly connects to Wi-Fi, downloads updates with no mods",
-    "summary": "A Redditor has passionately shown off their 21-year-old iBook G4 on the r/MacOS subreddit, arguing that Apple's extensive software support goes against the planned obsolescence accusations they get. In the post, OP's vintage iBook can be seen ready to download updates after connecting to the internet, even today.",
-    "link": "https://www.tomshardware.com/software/macos/you-can-still-get-legacy-updates-from-apples-servers-on-its-decades-old-ibook-lineup-21-year-old-ibook-g4-seamlessly-connects-to-wi-fi-downloads-updates-with-no-mods",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.541022"
-  },
-  {
-    "title": "Taalas HC1 hardwired Llama-3.1 8B AI accelerator delivers up to 17,000 tokens/s",
-    "summary": "Taalas HC1 is an AI accelerator hardwired (i.e, implemented in hardware) with Llama-3.1 8B and delivering close to 17,000 tokens/s of AI performance with the model, outperforming datacenter accelerators such as NVIDIA B200 or Cerebras chips. The Taalas HC1 is about 10x faster than the Cerebras chip, costs 20x less to build, and consumes 10x less power. The main downside is that it only works with the model hardwired into the hardware, currently Llama-3.1 8B, although we re told it retains flexibility through configurable context window size and support for fine-tuning via low-rank adapters (LoRAs) . Hardware accelerators usually come with memory on one side and compute on the other. Both operate at different speeds, and the memory bandwidth is usually the bottleneck for Large Language Models. Taalas technology unifies storage and compute on a single chip, at DRAM-level density, to massively increase the performance and reduce power consumption. Ultra-fast inference can [...] The post Taalas HC1 hardwired Llama-3.1 8B AI accelerator delivers up to 17,000 tokens/s appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/02/22/taalas-hc1-hardwired-llama-3-1-8b-ai-accelerator-delivers-up-to-17000-tokens-s/",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-22T09:02:47.541517"
-  },
-  {
-    "title": "CHUWI CoreBook Air Plus 16 review Part 2: An AMD Ryzen 5 6600H-powered, mid-range laptop tested with Windows 11 Pro",
-    "summary": "I ve already checked out the hardware of the CHUWI CoreBook Air Plus 16 laptop in the first part of the review, so today, I ll report my experience using the AMD Ryzen 5 6600H laptop with the pre-installed Windows 11 Pro operating system. We ll start with a software overview and a test of key features, followed by benchmarking, evaluation of WiFi 6 performance, and measurement of fan noise, power consumption, and battery life. Software Overview and Features Testing The CoreBook Air Plus 16 ships with Windows 11 Pro 64-bit 24H2 operating system, upgraded to the 25H2 version after running Windows updates. The System->About window confirms we have a CoreBook Air Plus laptop powered by a 3.3 GHz (base frequency) AMD Ryzen 5 6600H processor with Radeon graphics paired with 16GB of RAM and 447GB of storage. None of the mini PCs and laptops we ve reviewed in the past come with Microsoft [...] The post CHUWI CoreBook Air Plus 16 review Part 2: An AMD Ryzen 5 6600H-powered, mid-range laptop tested with Windows 11 Pro appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/02/21/chuwi-corebook-air-plus-16-review-part-2-an-amd-ryzen-5-6600h-powered-mid-range-laptop-tested-with-windows-11-pro/",
+    "title": "OnLogic Factor 101 A fanless industrial edge AI computer with Qualcomm QCS6490 SoC, 10GbE networking",
+    "summary": "The OnLogic Factor 101 (FR101) is an ultra-small form factor, fanless industrial computer built around the Qualcomm QCS6490 platform for edge AI and data gateway applications. Designed for space-constrained applications, it targets light machine vision, inspection, monitoring, and low-speed autonomous systems. The octa-core Qualcomm Kryo 670 (Cortex-A78/A55-class) processor is paired with 8GB LPDDR4x memory and 128GB UFS flash storage. The fanless system features 10GbE and Gigabit Ethernet ports, five USB ports, and HDMI and USB-C (DisplayPort) video output. Its compliance with various standards makes it suitable for general office and industrial edge deployments. OnLogic Factor 101 specifications: SoC Qualcomm Dragonwing QCS6490 CPU Octa-core Kryo 670 with 1x Gold Plus core (Cortex-A78) @ 2.7 GHz, 3x Gold cores (Cortex-A78) @ 2.4 GHz, 4x Silver cores (Cortex-A55) @ up to 1.9 GHz GPU Adreno 643L GPU @ 812 MHz with support for Open GL ES 3.2, Open CL 2.0, Vulkan [...] The post OnLogic Factor 101 A fanless industrial edge AI computer with Qualcomm QCS6490 SoC, 10GbE networking appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/02/23/onlogic-factor-101-a-fanless-industrial-edge-ai-computer-with-qualcomm-qcs6490-soc-10gbe-networking/",
     "categories": [
       "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-02-22T09:02:47.541640"
-  },
-  {
-    "title": "A $300 Radeon RX 9060 XT just smashed the world GPU overclocking record",
-    "summary": "AMD teamed up with two well-known overclockers, Bill Alverson (aka \"Sampson\") and Splave, to push a Radeon RX 9060 XT to 4,769 MHz. That's a new world record for GPU frequency and it wasn't even close to the previous mark. Read Entire Article",
-    "link": "https://www.techspot.com/news/111422-300-radeon-rx-9060-xt-smashed-world-gpu.html",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.542855"
-  },
-  {
-    "title": "The US just got an AI layer for immigration. The rules are still loading.",
-    "summary": "What originated as a narrow procurement notice has grown into a broader effort that links machine-learning models with government and commercial records, creating an enforcement infrastructure with few historical parallels. As the software moves from early pilot to wider operational use, the arguments around it have hardened. Read Entire Article",
-    "link": "https://www.techspot.com/news/111421-us-got-ai-layer-immigration-rules-loading.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.542966"
-  },
-  {
-    "title": "Microsoft replaces Xbox heads Phil Spencer and Sarah Bond with AI exec",
-    "summary": "Microsoft CEO Satya Nadella recently announced that the company's CoreAI Product president, Asha Sharma, has become the CEO of Xbox, replacing retiring Xbox boss Phil Spencer. Read Entire Article",
-    "link": "https://www.techspot.com/news/111414-microsoft-replaces-xbox-heads-phil-spencer-sarah-bond.html",
-    "categories": [
-      "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-02-22T09:02:47.543062"
+    "processed_date": "2026-02-23T09:36:55.304255"
   },
   {
-    "title": "ATMs are getting hacked the old-fashioned way: with keys and USB drives",
-    "summary": "Banks across the United States are grappling with a wave of physical malware attacks on their ATMs, according to a new cybersecurity alert from the Federal Bureau of Investigation. The agency's report warns that attackers are bypassing both digital and physical safeguards by exploiting outdated technology and generic maintenance hardware... Read Entire Article",
-    "link": "https://www.techspot.com/news/111413-atms-getting-hacked-old-fashioned-way-keys-usb.html",
+    "title": "Rocket reentries are leaving measurable lithium pollution in the upper atmosphere",
+    "summary": "On February 19, 2025, a SpaceX Falcon 9 booster fell back toward Earth, its fiery descent slicing across Europe's night sky. Researchers at the Leibniz Institute of Atmospheric Physics in Germany captured the event using their lidar system, running it during the predicted reentry window. A new study published in... Read Entire Article",
+    "link": "https://www.techspot.com/news/111427-falcon-9-fiery-demise-exposes-hidden-form-space.html",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.543168"
+    "quality_score": 10,
+    "processed_date": "2026-02-23T09:36:55.305525"
   },
   {
-    "title": "Final Fantasy VII Remake Part 3 is built PC-first, then scaled down to consoles",
-    "summary": "During an interview with Automaton, Final Fantasy 7 Remake game director Naoki Hamaguchi explained why Square Enix is developing \"PC first\" and how it benefits all platforms. He said that by creating assets for the highest-end environments first, the FF7R team avoids being constrained by lower-end hardware. Once the high-end... Read Entire Article",
-    "link": "https://www.techspot.com/news/111416-final-fantasy-developers-focus-pc-foundation-multiplatform-development.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.543275"
-  },
-  {
-    "title": "Bill Gates-backed fusion startup begins licensing for futuristic reactor in Tennessee",
-    "summary": "For six decades, the Bull Run Fossil Plant in Claxton, Tennessee, powered a region on fossil fuel. Last year, the plant was decommissioned, collapsing the plant's twin smokestacks in a controlled demolition. Their fall didn't just erase a landmark from the Tennessee skyline; it symbolized the state's newly emerging role... Read Entire Article",
-    "link": "https://www.techspot.com/news/111423-bill-gates-backed-fusion-startup-begins-licensing-futuristic.html",
+    "title": "Minecraft Java Edition is finally moving from OpenGL to multi-threaded Vulkan",
+    "summary": "Although Mojang has not provided a precise timeline for transitioning Minecraft to Vulkan, players and modders can begin testing the new renderer in Java Edition in the coming months. To ensure a smooth transition for Java Minecraft's robust modding community, the company will initially release updates on OpenGL and Vulkan,... Read Entire Article",
+    "link": "https://www.techspot.com/news/111417-minecraft-java-edition-finally-moving-opengl-multi-threaded.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.543376"
+    "processed_date": "2026-02-23T09:36:55.305625"
   },
   {
-    "title": "The Windows XP Bliss wallpaper still exists, and it briefly looks the same again",
-    "summary": "A Reddit user recently visited the Napa Valley location where the \"Bliss\" wallpaper was photographed. The view now closely matches the original image, which became a technology icon after Microsoft chose it as the default wallpaper for Windows XP. Read Entire Article",
-    "link": "https://www.techspot.com/news/111411-windows-xp-bliss-wallpaper-exists-briefly-looks-same.html",
+    "title": "New discovery lets sodium-ion batteries store more energy while purifying water",
+    "summary": "University of Surrey researchers discovered a compound known as nanostructured sodium vanadate hydrate (NVOH) a layered sodium-based material that naturally contains water within its crystalline structure. Traditionally, researchers treat such compounds with heat to evaporate that water, assuming it weakens the material's stability. The Surrey team tested that assumption... Read Entire Article",
+    "link": "https://www.techspot.com/news/111424-new-discovery-sodium-ion-batteries-store-more-energy.html",
     "categories": [
-      "AI & ML"
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-23T09:36:55.305736"
+  },
+  {
+    "title": "Asus and Acer block German users from drivers and BIOS updates after patent fallout",
+    "summary": "Asus and Acer enthusiasts in Germany are frustrated after being cut off from support for their high-end systems. Tom's Hardware reports that the companies' German sites no longer serve product pages, downloads, or support content. Read Entire Article",
+    "link": "https://www.techspot.com/news/111419-asus-acer-block-german-users-drivers-bios-updates.html",
+    "categories": [
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-22T09:02:47.543467"
+    "processed_date": "2026-02-23T09:36:55.305827"
+  },
+  {
+    "title": "Just for Fun: We Tested MSI's \"RTX 5090 Ti\" You Probably Can't Buy",
+    "summary": "MSI's RTX 5090 Lightning Z is a limited-run halo product built without practical constraints. We test its thermals, power draw, and performance to see what's possible at the extreme end of GPU design. Read Entire Article",
+    "link": "https://www.techspot.com/review/3087-msi-rtx-5090-lighting-z/",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-23T09:36:55.305913"
   }
 ]

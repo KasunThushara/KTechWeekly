@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of February 22, 2026**
+**Week of February 23, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. CHUWI CoreBook Air Plus 16 review Part 2: An AMD Ryzen 5 6600H-powered, mid-range laptop tested with Windows 11 Pro ⭐
+### 1. Be quiet! Silent Loop 3 420 review: Performance cooling with minimal noise ⭐
 
 **💻 Hardware**
 
-The CHUWI CoreBook Air Plus 16 review continues with a test of the laptop's performance using Windows 11 Pro, covering software overview, features, benchmarking, WiFi 6 performance, fan noise, power consumption, and battery life.
+The Be Quiet Silent Loop 3 420 AIO outperforms many 360mm competitors with reduced noise.
 
-💡 **Key Point:** Mid-range laptops with AMD Ryzen 5 6600H performance are increasingly viable options.
+💡 **Key Point:** Exceptional performance with minimal noise makes it a great choice for PC enthusiasts.
 
-🔗 [Read More](https://www.cnx-software.com/2026/02/21/chuwi-corebook-air-plus-16-review-part-2-an-amd-ryzen-5-6600h-powered-mid-range-laptop-tested-with-windows-11-pro/)
-
----
-
-### 2. CHUWI CoreBook Air Plus 16 review Part 2: An AMD Ryzen 5 6600H-powered, mid-range laptop tested with Windows 11 Pro ⭐
-
-**🎮 GPUs**
-
-The CHUWI CoreBook Air Plus 16 review continues with a test of the laptop's performance using Windows 11 Pro, covering software overview, features, benchmarking, WiFi 6 performance, fan noise, power consumption, and battery life.
-
-💡 **Key Point:** Mid-range laptops with AMD Ryzen 5 6600H performance are increasingly viable options.
-
-🔗 [Read More](https://www.cnx-software.com/2026/02/21/chuwi-corebook-air-plus-16-review-part-2-an-amd-ryzen-5-6600h-powered-mid-range-laptop-tested-with-windows-11-pro/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/liquid-cooling/be-quiet-silent-loop-3-420-review)
 
 ---
 
-### 3. Corsair Makr Pro 75 Review: Not DIY-priced (or DIY) 
+### 2. Be quiet! Silent Loop 3 420 review: Performance cooling with minimal noise ⭐
 
-**🤖 AI & ML**
+**📰 Tech News**
 
-The Corsair Makr Pro 75 is a pre-built keyboard with magnetic switches, offering a premium feel and sound. However, its price may be hard to justify for those on a budget. It's a nicely-built board, but its value is a concern.
+The Be Quiet Silent Loop 3 420 AIO outperforms many 360mm competitors with reduced noise.
 
-💡 **Key Point:** Premium feel comes at a high price point, not DIY-friendly
+💡 **Key Point:** Exceptional performance with minimal noise makes it a great choice for PC enthusiasts.
 
-🔗 [Read More](https://www.tomshardware.com/peripherals/gaming-keyboards/corsair-makr-pro-75-review)
-
----
-
-### 4. India joins America-led Pax Silica supply chain effort to build semiconductor talent and reduce reliance on China agreement spans from rare earths to chipmaking tools 
-
-**🤖 AI & ML**
-
-India joins the Pax Silica effort to build semiconductor talent and reduce reliance on China, expanding the supply chain for rare earths and chipmaking tools as new fabs are developed in the country.
-
-💡 **Key Point:** Accelerating capacity building in a key sector reduces strategic reliance on China.
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/india-joins-america-led-pax-silica-supply-chain-effort-to-build-semiconductor-talent-and-reduce-reliance-on-china-agreement-spans-from-rare-earths-to-chipmaking-tools)
+🔗 [Read More](https://www.tomshardware.com/pc-components/liquid-cooling/be-quiet-silent-loop-3-420-review)
 
 ---
 
-### 5. Taalas HC1 hardwired Llama-3.1 8B AI accelerator delivers up to 17,000 tokens/s 
+### 3. You can log into 28 vintage computer systems in your browser for free, thanks to the Interim Computer Museum Experience legendary OSes, architectures, programming languages, and games 
 
-**🤖 AI & ML**
+**💻 Hardware**
 
-The Taalas HC1 is an AI accelerator that hardwires Llama-3.1 8B, delivering up to 17,000 tokens/s with improved power efficiency and cost-effectiveness compared to existing datacenter accelerators.
+Experience legendary operating systems, architectures, and games online for free through a new portal.
 
-💡 **Key Point:** Unified storage and compute boosts AI performance with reduced power consumption.
+💡 **Key Point:** Preserving digital history and nostalgia for vintage computer enthusiasts
 
-🔗 [Read More](https://www.cnx-software.com/2026/02/22/taalas-hc1-hardwired-llama-3-1-8b-ai-accelerator-delivers-up-to-17000-tokens-s/)
+🔗 [Read More](https://www.tomshardware.com/video-games/retro-gaming/you-can-log-into-28-vintage-computer-systems-in-your-browser-for-free-thanks-to-the-interim-computer-museum-and-sdf-org-experience-legendary-oses-architectures-programming-languages-and-games)
+
+---
+
+### 4. Nvidia's Chinese competitor Moore Threads beats it to launching a laptop featuring custom 12-core Arm chip "MTT AI Book" can run Windows, seems to have adopted Arm before Nvidia's N1X 
+
+**💻 Hardware**
+
+Moore Threads has launched a laptop with a custom 12-core Arm chip, beating Nvidia's N1X. The MTT AI Book laptop features a custom GPU and NPU, and can run Windows. The device is powered by a SoC with advanced AI capabilities.
+
+💡 **Key Point:** Moore Threads is leading Nvidia in Arm-based laptop development efforts.
+
+🔗 [Read More](https://www.tomshardware.com/laptops/nvidias-chinese-competitor-moore-threads-beats-it-to-launching-a-laptop-featuring-custom-12-core-arm-chip-mtt-ai-book-can-run-windows-seems-to-have-adopted-arm-before-nvidias-n1x)
+
+---
+
+### 5. AMD VEK385 Versal AI Edge Gen 2 FPGA evaluation kit plugs directly into a PCIe Gen5/Gen4 slot 
+
+**💻 Hardware**
+
+AMD's VEK385 Versal AI Edge Gen 2 FPGA kit accelerates prototyping for various applications with its heterogeneous adaptive SoC, featuring eight Cortex-A78AE cores, ten Cortex-R52 cores, and advanced AI capabilities.
+
+💡 **Key Point:** Accelerates industrial, automotive, and healthcare applications with advanced AI capabilities.
+
+🔗 [Read More](https://www.cnx-software.com/2026/02/23/amd-vek385-versal-ai-edge-gen-2-fpga-evaluation-kit-plugs-directly-into-a-pcie-gen5-gen4-slot/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **35 articles** across **5 focused categories**.
+We covered **33 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 14 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 🤖 [AI & ML](ai_and_ml.md) | 8 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 2 | Graphics cards and compute accelerators |
 | 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
+| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 14 articles
+*Artificial Intelligence and Machine Learning* — 8 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 4 articles
+*Graphics cards and compute accelerators* — 2 articles
 
 ### 💻 [Hardware](hardware.md)
 *Computing hardware and development boards* — 10 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 3 articles
+*Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 4 articles
+*Industry news and product launches* — 9 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-02-22 at 09:03 by an autonomous AI curation system.
+Generated 2026-02-23 at 09:37 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
