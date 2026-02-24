@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of February 23, 2026**
+**Week of February 24, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,49 +7,49 @@
 
 ## 📊 Summary
 - **Articles this week:** 4
-- **Report generated:** 2026-02-23 09:37
+- **Report generated:** 2026-02-24 09:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Nvidia's Chinese competitor Moore Threads beats it to launching a laptop featuring custom 12-core Arm chip "MTT AI Book" can run Windows, seems to have adopted Arm before Nvidia's N1X 
+### 1. Silex SX-SDMAX6E tri-band Wi-Fi 6E + Bluetooth LE module features NXP IW623 SoC, comes in M.2 or LGA package 
 
-Moore Threads has launched a laptop with a custom 12-core Arm chip, beating Nvidia's N1X. The MTT AI Book laptop features a custom GPU and NPU, and can run Windows. The device is powered by a SoC with advanced AI capabilities.
+Silex Technology and NXP have partnered to launch the SX-SDMAX6E module, a tri-band Wi-Fi 6E and Bluetooth LE module based on NXP's IW623 SoC, available in M.2 or LGA package, supporting various applications in harsh environments.
 
-💡 *Moore Threads is leading Nvidia in Arm-based laptop development efforts.*
+💡 *Tri-band Wi-Fi 6E supports high-throughput and low-power connectivity options*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/nvidias-chinese-competitor-moore-threads-beats-it-to-launching-a-laptop-featuring-custom-12-core-arm-chip-mtt-ai-book-can-run-windows-seems-to-have-adopted-arm-before-nvidias-n1x)
-
----
-
-### 2. The Ambient IoT Alliance aims to promote and develop standards for batteryless IoT devices using energy harvesting 
-
-The Ambient IoT Alliance promotes standardization for batteryless IoT devices using energy harvesting, reducing costs through ambient power sources like radio waves and light.
-
-💡 *Batteryless IoT devices promise significant cost savings and high scalability.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/23/ambient-iot-alliance-promote-develop-standards-for-batteryless-iot-devices-energy-harvesting/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/23/silex-sx-sdmax6e-tri-band-wi-fi-6e-bluetooth-le-module-features-nxp-iw623-soc-comes-in-m-2-or-lga-package/)
 
 ---
 
-### 3. OnLogic Factor 101 A fanless industrial edge AI computer with Qualcomm QCS6490 SoC, 10GbE networking 
+### 2. Trump tariff turbulence risks handing TSMC a win over American chip manufacturers prior exemptions for onshoring manufacturing may hinder the likes of Intel 
 
-The OnLogic Factor 101 is a fanless industrial computer designed for edge AI and data gateway applications with a Qualcomm QCS6490 SoC. It features 10GbE networking, 8GB LPDDR4x memory, and 128GB UFS storage. This ultra-small form factor computer targets space-constrained applications in machine vision, inspection, and monitoring.
+Trump's tariffs may inadvertently help TSMC over American chip makers due to exemptions and rising costs.
 
-💡 *Edge AI computing meets industrial needs with high-speed networking and storage.*
+💡 *Rising material costs hinder US chip production, benefiting international competition.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/23/onlogic-factor-101-a-fanless-industrial-edge-ai-computer-with-qualcomm-qcs6490-soc-10gbe-networking/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/trump-tariff-turbulence-risks-handing-tsmc-a-win-over-american-chip-manufacturers-prior-exemptions-for-onshoring-manufacturing-may-hinder-the-likes-of-intel)
 
 ---
 
-### 4. Colorado law could force surveillance for 3D printers to prevent use for making gun parts fourth state to propose new bans is expanding firearms laws to regulate digital files 
+### 3. Dell, Lenovo, and others will launch Copilot+ laptops with Nvidia Arm CPU in H1 2026 
 
-Colorado joins New York, Washington, and California in regulating 3D printed guns, expanding firearms laws to include digital files and potentially requiring surveillance of 3D printers.
+Nvidia is collaborating with MediaTek to develop new PC SoCs, and major PC manufacturers like Dell and Lenovo are working on laptops powered by these processors, which integrate CPU, GPU, and NPU components into a single chip.
 
-💡 *Regulating digital files may not stop determined gun manufacturers.*
+💡 *Nvidia's Arm CPU integration revolutionizes laptop design with unified processing.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/colorado-could-ban-3d-printers-not-under-its-surveillance-to-prevent-creating-gun-parts-fourth-state-to-propose-new-bans-is-expanding-firearms-laws-to-regulate-digital-files)
+🔗 [Read Full Article](https://www.techspot.com/news/111436-dell-lenovo-others-launch-copilot-laptops-arm-based.html)
+
+---
+
+### 4. Colorado bill could criminalize possessing 3D gun files, not just printing them 
+
+Colorado bill HB26-1144 expands firearms rules to cover 3D printing, including possessing files.
+
+💡 *Possessing 3D gun files could become a serious crime in Colorado.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111433-colorado-bill-could-criminalize-possessing-3d-gun-files.html)
 
 ---
 

@@ -1,95 +1,125 @@
 # 🤖 AI & ML
-**Week of February 23, 2026**
+**Week of February 24, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-02-23 09:37
+- **Articles this week:** 11
+- **Report generated:** 2026-02-24 09:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel shifts customer support to AI-powered assistant after scaling back phone support Ask Intel system built on Microsoft Copilot Studio 
+### 1. German data center giant hikes prices up to 37% starting April 1 Hetzner cites rising hardware costs for price increases 
 
-Intel has launched Ask Intel, an AI-powered support assistant built with Microsoft Copilot Studio, to provide customers with a more efficient and effective support experience. The system aims to help users quickly find solutions to their issues. This marks a shift for Intel as it scales back phone support.
+Hetzner, a German data center operator, is raising prices up to 37% across its products starting April 1, citing rising hardware costs.
 
-💡 *AI-powered support streamlines customer experience and reduces phone reliance.*
+💡 *Increasing cloud and data center prices impact businesses and consumers worldwide.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-shifts-customer-support-to-microsoft-copilot-studio)
-
----
-
-### 2. AMD VEK385 Versal AI Edge Gen 2 FPGA evaluation kit plugs directly into a PCIe Gen5/Gen4 slot 
-
-AMD's VEK385 Versal AI Edge Gen 2 FPGA kit accelerates prototyping for various applications with its heterogeneous adaptive SoC, featuring eight Cortex-A78AE cores, ten Cortex-R52 cores, and advanced AI capabilities.
-
-💡 *Accelerates industrial, automotive, and healthcare applications with advanced AI capabilities.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/23/amd-vek385-versal-ai-edge-gen-2-fpga-evaluation-kit-plugs-directly-into-a-pcie-gen5-gen4-slot/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/hetzner-to-raise-prices-by-up-to-37-percent-from-april-1)
 
 ---
 
-### 3. The Ambient IoT Alliance aims to promote and develop standards for batteryless IoT devices using energy harvesting 
+### 2. After $30 billion in school tech, the laptop classroom experiment may have backfired 
 
-The Ambient IoT Alliance promotes standardization for batteryless IoT devices using energy harvesting, reducing costs through ambient power sources like radio waves and light.
+Maine's laptop classroom experiment, launched in 2002, aimed to boost education with tech. However, the $30 billion investment may have had unintended consequences. The program's effectiveness is now being questioned.
 
-💡 *Batteryless IoT devices promise significant cost savings and high scalability.*
+💡 *Massive investment in tech may not guarantee student learning outcomes.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/23/ambient-iot-alliance-promote-develop-standards-for-batteryless-iot-devices-energy-harvesting/)
-
----
-
-### 4. New discovery lets sodium-ion batteries store more energy while purifying water 
-
-University of Surrey researchers discovered a compound, nanostructured sodium vanadate hydrate (NVOH), that can store more energy while purifying water.
-
-💡 *Heating water out won't weaken the material's stability, it's actually a key strength.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111424-new-discovery-sodium-ion-batteries-store-more-energy.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111439-after-30-billion-school-tech-laptop-classroom-experiment.html)
 
 ---
 
-### 5. Hands-on: G AIM E 30th Anniversary Time Crisis Light Gun Game 
+### 3. Sam Altman compares AI energy use to the cost of "training" humans, says water-usage concerns are "fake" 
 
-G AIM E's Time Crisis Light Gun Game brings the classic experience home, celebrating 30 years of Time Crisis with official licensing.
+Sam Altman compares AI's energy use to training human costs, dismissing water concerns.
 
-💡 *Reviving a nostalgic gaming genre with modern, immersive technology.*
+💡 *AI's environmental impact is comparable to human resource consumption.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/hands-on-gaime-30th-anniversary-time-crisis-light-gun-game)
-
----
-
-### 6. Sam Altman fires back at Elon Musk's proposal for space-based data centers, says orbiting data centers 'ridiculous' for now cites high failure rates and cost as primary limiters 
-
-Sam Altman criticizes Elon Musk's space-based data center proposal, citing high failure rates and costs as major limitations. Orbital data centers are deemed impractical for now. This opinion stands in contrast to those of Musk and Bezos.
-
-💡 *Orbital data centers face significant technical and financial hurdles.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-fires-back-at-elon-musks-proposal-for-space-based-data-centers-says-orbiting-data-centers-ridiculous-for-now-cites-high-failure-rates-and-cost-as-primary-limiters)
+🔗 [Read Full Article](https://www.techspot.com/news/111431-sam-altman-compares-ai-energy-use-cost-training.html)
 
 ---
 
-### 7. AI energy efficiency comparisons unfair bleats Sam Altman, citing amount of energy needed to evolve, then train a human one takes like 20 years of life and all of the food you eat during that time before you get smart he argues 
+### 4. Anthropic accuses DeepSeek, other Chinese AI developers of 'industrial-scale' copying Claims 'distillation' included 24,000 fraudulent accounts and 16 million exchanges to train smaller models 
 
-Sam Altman claims AI energy efficiency comparisons are unfair, citing human evolution and training costs.
+Anthropic accuses DeepSeek and other Chinese AI developers of 'industrial-scale' copying, using 24,000 fraudulent accounts and 16 million exchanges to train their models.
 
-💡 *Comparing AI to human development is a flawed energy efficiency metric.*
+💡 *Massive AI cheating exposes vulnerability in model development processes*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-energy-efficiency-comparisons-unfair-bleats-sam-altman-citing-amount-of-energy-needed-to-evolve-then-train-a-human-one-takes-like-20-years-of-life-and-all-of-the-food-you-eat-during-that-time-before-you-get-smart-he-argues)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-accuses-deepseek-other-chinese-ai-developers-of-industrial-scale-copying-claims-distillation-included-24-000-fraudulent-accounts-and-16-million-exchanges-to-train-smaller-models)
 
 ---
 
-### 8. Retail DDR5 memory prices slowly drop in Europe despite ongoing shortages overdue pricing correction could be beginning in some regions 
+### 5. Stargate AI data centers for OpenAI reportedly delayed by squabbles between partners sources say OpenAI, Oracle, and SoftBank disagreed on who would have ultimate control of the planned data centers 
 
-Retail DDR5 memory prices are slowly dropping in Europe, with some 32 GB kits seeing price reductions.
+OpenAI, Oracle, and SoftBank are reportedly at odds over control of Stargate data centers. The disagreement has delayed the project after several months of negotiations. The planned data centers are crucial for OpenAI's operations.
 
-💡 *Price corrections may be underway, benefiting consumers and potentially stabilizing the market.*
+💡 *Disagreement over control jeopardizes critical infrastructure for AI operations.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/retail-ddr5-memory-prices-slowly-drop-in-europe)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/stargate-ai-data-centers-for-openai-reportedly-delayed-by-squabbles-between-partners-sources-say-openai-oracle-and-softbank-disagreed-on-who-would-have-ultimate-control-of-the-planned-data-centers)
+
+---
+
+### 6. US exports from Taiwan now exceed exports from China for the first time in decades AI gold rush fuels 93.5% jump in advanced system exports 
+
+Taiwan's exports to the US now exceed China's for the first time, while Taiwan's global exports are rapidly increasing, especially in advanced systems.
+
+💡 *Taiwan's trade surge highlights growing global economic influence shift.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/taiwan-exports-leapfrog-china)
+
+---
+
+### 7. User accidentally gains control of over 6,700 robot vacuums while tinkering with their own device to enable control with a PlayStation controller security flaw reveals floor plans and live video feeds 
+
+An AI strategist's experiment to control his robot vacuum with a PlayStation controller inadvertently granted him control over 6,700 similar devices worldwide, revealing floor plans and live video feeds.
+
+💡 *Weak device security can lead to catastrophic unintended global control.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/user-accidentally-gains-control-of-over-6-700-robot-vacuums-while-tinkering-with-their-own-device-to-enable-control-with-a-playstation-controller-security-flaw-reveals-floor-plans-and-live-video-feeds)
+
+---
+
+### 8. GyroidOS virtualization solution aims to secure embedded devices, ease cybersecurity certification 
+
+GyroidOS is an open-source, multi-arch OS-level virtualization solution for embedded devices with hardware security features, aiming to support security certification processes like Common Criteria and IEC-62443 standards. It offers a smaller footprint and additional separation of privileged instances compared to other container solutions like Docker. GyroidOS provides several security features to ensure the isolation and protection of guest operating system stacks.
+
+💡 *Enhanced security for embedded devices through modular OS virtualization*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/24/gyroidos-virtualization-solution-aims-to-secure-embedded-devices-ease-cybersecurity-certification/)
+
+---
+
+### 9. UK data hoarder flies to America to buy hard drives, saves $2,000 
+
+A UK resident saved $2,000 by buying replacement hard drives in the US.
+
+💡 *Price disparities across countries can lead to significant cost savings.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111437-uk-data-hoarder-flies-america-buy-hard-drives.html)
+
+---
+
+### 10. MIT's new 3D printer can create a working electric motor in one go 
+
+MIT researchers have created a 3D printer that can print a working electric motor in a single step, demonstrating its ability to fabricate complex devices.
+
+💡 *Single-step 3D printing simplifies complex device fabrication significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111430-mit-new-3d-printer-can-create-working-electric.html)
+
+---
+
+### 11. Lab-grown brain tissue successfully solves a classic AI training problem 
+
+Lab-grown brain tissue has successfully solved a classic AI training problem by stabilizing a simulated pole, demonstrating the potential of biological systems in complex tasks.
+
+💡 *Biological tissue can rival AI algorithms in complex problem-solving capabilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111426-lab-grown-brain-tissue-successfully-solves-classic-ai.html)
 
 ---
 

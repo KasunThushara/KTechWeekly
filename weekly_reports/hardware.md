@@ -1,115 +1,145 @@
 # 💻 Hardware
-**Week of February 23, 2026**
+**Week of February 24, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-02-23 09:37
+- **Articles this week:** 13
+- **Report generated:** 2026-02-24 09:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Be quiet! Silent Loop 3 420 review: Performance cooling with minimal noise ⭐
+### 1. Intel preps CPUs with 'Unified Core' architecture job listing hints at evolution beyond Intel's hybrid design 
 
-The Be Quiet Silent Loop 3 420 AIO outperforms many 360mm competitors with reduced noise.
+Intel is working on 'Unified Cores' CPUs, potentially replacing hybrid design.
 
-💡 *Exceptional performance with minimal noise makes it a great choice for PC enthusiasts.*
+💡 *Intel's Unified Core CPUs may signal a major CPU architecture shift.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/be-quiet-silent-loop-3-420-review)
-
----
-
-### 2. You can log into 28 vintage computer systems in your browser for free, thanks to the Interim Computer Museum Experience legendary OSes, architectures, programming languages, and games 
-
-Experience legendary operating systems, architectures, and games online for free through a new portal.
-
-💡 *Preserving digital history and nostalgia for vintage computer enthusiasts*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/you-can-log-into-28-vintage-computer-systems-in-your-browser-for-free-thanks-to-the-interim-computer-museum-and-sdf-org-experience-legendary-oses-architectures-programming-languages-and-games)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-preps-cpus-with-unified-core-architecture-job-listing-hints-at-evolution-beyond-intels-hybrid-design)
 
 ---
 
-### 3. Nvidia's Chinese competitor Moore Threads beats it to launching a laptop featuring custom 12-core Arm chip "MTT AI Book" can run Windows, seems to have adopted Arm before Nvidia's N1X 
+### 2. German data center giant hikes prices up to 37% starting April 1 Hetzner cites rising hardware costs for price increases 
 
-Moore Threads has launched a laptop with a custom 12-core Arm chip, beating Nvidia's N1X. The MTT AI Book laptop features a custom GPU and NPU, and can run Windows. The device is powered by a SoC with advanced AI capabilities.
+Hetzner, a German data center operator, is raising prices up to 37% across its products starting April 1, citing rising hardware costs.
 
-💡 *Moore Threads is leading Nvidia in Arm-based laptop development efforts.*
+💡 *Increasing cloud and data center prices impact businesses and consumers worldwide.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/nvidias-chinese-competitor-moore-threads-beats-it-to-launching-a-laptop-featuring-custom-12-core-arm-chip-mtt-ai-book-can-run-windows-seems-to-have-adopted-arm-before-nvidias-n1x)
-
----
-
-### 4. AMD VEK385 Versal AI Edge Gen 2 FPGA evaluation kit plugs directly into a PCIe Gen5/Gen4 slot 
-
-AMD's VEK385 Versal AI Edge Gen 2 FPGA kit accelerates prototyping for various applications with its heterogeneous adaptive SoC, featuring eight Cortex-A78AE cores, ten Cortex-R52 cores, and advanced AI capabilities.
-
-💡 *Accelerates industrial, automotive, and healthcare applications with advanced AI capabilities.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/23/amd-vek385-versal-ai-edge-gen-2-fpga-evaluation-kit-plugs-directly-into-a-pcie-gen5-gen4-slot/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/hetzner-to-raise-prices-by-up-to-37-percent-from-april-1)
 
 ---
 
-### 5. OnLogic Factor 101 A fanless industrial edge AI computer with Qualcomm QCS6490 SoC, 10GbE networking 
+### 3. Asus ROG Swift PG32UCDM3 240 Hz QD-OLED gaming monitor review: Asus delivers a true flagship OLED 
 
-The OnLogic Factor 101 is a fanless industrial computer designed for edge AI and data gateway applications with a Qualcomm QCS6490 SoC. It features 10GbE networking, 8GB LPDDR4x memory, and 128GB UFS storage. This ultra-small form factor computer targets space-constrained applications in machine vision, inspection, and monitoring.
+Asus delivers a 32-inch 4K OLED gaming monitor with 240 Hz refresh rate, Quantum Dot color technology, and advanced HDR support, setting a new standard for gaming displays.
 
-💡 *Edge AI computing meets industrial needs with high-speed networking and storage.*
+💡 *Innovative OLED gaming monitors raise the bar for immersive gaming experiences.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/23/onlogic-factor-101-a-fanless-industrial-edge-ai-computer-with-qualcomm-qcs6490-soc-10gbe-networking/)
-
----
-
-### 6. 55 years ago, the first computer search warrant was issued in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' 
-
-In February 1971, a Santa Clara judge issued a warrant for police to seize computer data, marking the first computer search warrant in history. The warrant allowed Oakland Police to enter offices and homes in search of data stored on machines, expanding the scope of search warrants beyond physical papers.
-
-💡 *Blurred lines between physical and digital evidence in law enforcement.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/55-years-ago-today-the-first-computer-search-warrant-was-issued)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg32ucdm3-32-inch-240-hz-qd-oled-gaming-monitor-review)
 
 ---
 
-### 7. Akasa launches its latest-generation fanless Mini-ITX case Euler CMX supports modern Intel Core Ultra processors up to 35W TDP and standard mini-ITX mobos 
+### 4. Inkplate 13SPECTRA 13.3-inch E-ink Spectra smart color display supports Arduino, MicroPython, ESPHome (Crowdfunding) 
 
-The Akasa Euler CMX is a fanless Mini-ITX case supporting modern Intel Core Ultra processors up to 35W TDP. It is designed to work with standard mini-ITX motherboards. This case offers a compact, quiet computing solution.
+Soldered Electronics has released the Inkplate 13SPECTRA, a 13.3-inch E-Ink Spectra display based on ESP32-S3 WiFi and Bluetooth SoC. It features a microSD card slot, USB-C port, and expansion capabilities through Qwiic connectors and GPIO expander pins. The device supports Arduino, MicroPython, and ESPHome.
 
-💡 *Enables high-performance computing in compact, quiet, and fanless designs.*
+💡 *First 13.3-inch E-Ink display with ESP32-S3 SoC for IoT applications*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/akasa-launches-its-latest-generation-fanless-mini-itx-case-euler-cmx-supports-modern-intel-core-ultra-processors-up-to-35w-tdp-and-standard-mini-itx-mobos)
-
----
-
-### 8. Computer History Museum unveils comically large-scale rendition of the 1986 Apple Macintosh Plus 'Big Mac' celebrates 50th Apple anniversary towering all-in-one's keyboard looks disproportionately huge today 
-
-The Computer History Museum is unveiling a life-sized model of the 1986 Apple Macintosh Plus 'Big Mac' to commemorate Apple's 50th anniversary. The all-in-one computer will be displayed in a way that highlights its keyboard, which may seem oversized by today's standards. The exhibit is part of the museum's Apple at 50 celebrations next month.
-
-💡 *Vintage tech design makes for eye-opening comparisons today*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/case-mods/computer-history-museum-unveils-comically-large-scale-rendition-of-the-1986-apple-macintosh-plus-towering-all-in-ones-keyboard-looks-disproportionately-huge-today)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/24/inkplate-13spectra-a-13-3-inch-e-ink-spectra-smart-color-display-supports-arduino-micropython-esphome/)
 
 ---
 
-### 9. Dell's new prebuilt PC has special custom power connector for Nvidia GPU even large OEMs apparently fear the 16-pin power connector meltdowns 
+### 5. After $30 billion in school tech, the laptop classroom experiment may have backfired 
 
-Dell introduces a custom power connector to mitigate 16-pin overheating issues in their new prebuilt PC, featuring the RTX 5070 Ti, by using genuine Amphenol brackets to lock the connector into place.
+Maine's laptop classroom experiment, launched in 2002, aimed to boost education with tech. However, the $30 billion investment may have had unintended consequences. The program's effectiveness is now being questioned.
 
-💡 *OEMs fear 16-pin connector meltdowns due to overheating risks.*
+💡 *Massive investment in tech may not guarantee student learning outcomes.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/dells-new-prebuilt-featuring-an-rtx-5070-ti-comes-with-bolted-on-12v-2x6-connector-even-large-oems-fear-the-16-pin-power-connector-meltdowns)
+🔗 [Read Full Article](https://www.techspot.com/news/111439-after-30-billion-school-tech-laptop-classroom-experiment.html)
 
 ---
 
-### 10. Asus and Acer block German users from drivers and BIOS updates after patent fallout 
+### 6. Portable USB DVD writer with 2.5-inch SATA and SD card dock slashed by 30% to $21 optical drive can read and write CDs at 24X, and DVDs at 8X 
 
-Asus and Acer block German users from accessing drivers and BIOS updates due to patent disputes, leaving enthusiasts without support for their high-end systems.
+This portable USB DVD writer can read and write CDs and DVDs at high speeds, and also doubles as a 2.5-inch SATA and SD card dock, making it a versatile and affordable option for under $21.
 
-💡 *Patent fallout affects German support for high-end Asus and Acer systems.*
+💡 *Portable optical drives still offer convenience and value in modern computing.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111419-asus-acer-block-german-users-drivers-bios-updates.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/portable-usb-dvd-writer-with-2-5-inch-sata-and-sd-card-dock-slashed-by-30-percent-to-usd21-optical-drive-can-read-and-write-cds-at-24x-and-dvds-at-8x)
+
+---
+
+### 7. Lenovo and Asus handheld owners warned as Ryzen Z1 Extreme driver support reportedly ends lack of official updates threatens longevity for Legion Go, Go S, and ROG Ally X devices on Windows 11 
+
+AMD has reportedly stopped delivering new driver updates for Ryzen Z1 Extreme handheld gaming PCs. This affects devices like Lenovo Legion Go, Go S, and Asus ROG Ally X. Users may face issues with Windows 11 compatibility.
+
+💡 *End of driver support threatens handheld gaming PC longevity.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/lenovo-and-asus-handheld-owners-warned-as-ryzen-z1-extreme-driver-support-reportedly-ends-lack-of-official-updates-threatens-longevity-for-legion-go-go-s-and-rog-ally-x-devices-on-windows-11)
+
+---
+
+### 8. Nintendo's Game & Watch hacked and turned into retro emulation beast Solder job unlocks device from its Zelda-only cage thanks to a custom SD card slot 
+
+A Zelda-edition Game & Watch was hacked to run custom firmware, unlocking its full potential. The device now emulates various consoles, includes save states, and has a microSD card slot. This project showcases the creativity of retro gaming enthusiasts.
+
+💡 *Retro gaming innovation can breathe new life into classic hardware devices*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/nintendo/nintendos-game-and-watch-hacked-and-turned-into-retro-emulation-beast-solder-job-unlocks-device-from-its-zelda-only-cage-thanks-to-a-custom-sd-card-slot)
+
+---
+
+### 9. GyroidOS virtualization solution aims to secure embedded devices, ease cybersecurity certification 
+
+GyroidOS is an open-source, multi-arch OS-level virtualization solution for embedded devices with hardware security features, aiming to support security certification processes like Common Criteria and IEC-62443 standards. It offers a smaller footprint and additional separation of privileged instances compared to other container solutions like Docker. GyroidOS provides several security features to ensure the isolation and protection of guest operating system stacks.
+
+💡 *Enhanced security for embedded devices through modular OS virtualization*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/24/gyroidos-virtualization-solution-aims-to-secure-embedded-devices-ease-cybersecurity-certification/)
+
+---
+
+### 10. Dell, Lenovo, and others will launch Copilot+ laptops with Nvidia Arm CPU in H1 2026 
+
+Nvidia is collaborating with MediaTek to develop new PC SoCs, and major PC manufacturers like Dell and Lenovo are working on laptops powered by these processors, which integrate CPU, GPU, and NPU components into a single chip.
+
+💡 *Nvidia's Arm CPU integration revolutionizes laptop design with unified processing.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111436-dell-lenovo-others-launch-copilot-laptops-arm-based.html)
+
+---
+
+### 11. UK data hoarder flies to America to buy hard drives, saves $2,000 
+
+A UK resident saved $2,000 by buying replacement hard drives in the US.
+
+💡 *Price disparities across countries can lead to significant cost savings.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111437-uk-data-hoarder-flies-america-buy-hard-drives.html)
+
+---
+
+### 12. The Interim Computer Museum puts 28 classic computer systems on the internet for you to try 
+
+The Interim Computer Museum has made 28 vintage computing systems accessible online. This includes emulated, partially hardware-based, and original machines. The public can now try these classic systems through a web portal.
+
+💡 *Preserving computing history for future generations and education purposes*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111432-interim-computer-museum-puts-28-classic-computer-systems.html)
+
+---
+
+### 13. Lab-grown brain tissue successfully solves a classic AI training problem 
+
+Lab-grown brain tissue has successfully solved a classic AI training problem by stabilizing a simulated pole, demonstrating the potential of biological systems in complex tasks.
+
+💡 *Biological tissue can rival AI algorithms in complex problem-solving capabilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111426-lab-grown-brain-tissue-successfully-solves-classic-ai.html)
 
 ---
 

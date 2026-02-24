@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of February 23, 2026**
+**Week of February 24, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,75 +7,75 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Be quiet! Silent Loop 3 420 review: Performance cooling with minimal noise ⭐
+### 1. German data center giant hikes prices up to 37% starting April 1 Hetzner cites rising hardware costs for price increases 
 
-**💻 Hardware**
+**🤖 AI & ML**
 
-The Be Quiet Silent Loop 3 420 AIO outperforms many 360mm competitors with reduced noise.
+Hetzner, a German data center operator, is raising prices up to 37% across its products starting April 1, citing rising hardware costs.
 
-💡 **Key Point:** Exceptional performance with minimal noise makes it a great choice for PC enthusiasts.
+💡 **Key Point:** Increasing cloud and data center prices impact businesses and consumers worldwide.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/liquid-cooling/be-quiet-silent-loop-3-420-review)
-
----
-
-### 2. Be quiet! Silent Loop 3 420 review: Performance cooling with minimal noise ⭐
-
-**📰 Tech News**
-
-The Be Quiet Silent Loop 3 420 AIO outperforms many 360mm competitors with reduced noise.
-
-💡 **Key Point:** Exceptional performance with minimal noise makes it a great choice for PC enthusiasts.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/liquid-cooling/be-quiet-silent-loop-3-420-review)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/hetzner-to-raise-prices-by-up-to-37-percent-from-april-1)
 
 ---
 
-### 3. You can log into 28 vintage computer systems in your browser for free, thanks to the Interim Computer Museum Experience legendary OSes, architectures, programming languages, and games 
+### 2. After $30 billion in school tech, the laptop classroom experiment may have backfired 
 
-**💻 Hardware**
+**🤖 AI & ML**
 
-Experience legendary operating systems, architectures, and games online for free through a new portal.
+Maine's laptop classroom experiment, launched in 2002, aimed to boost education with tech. However, the $30 billion investment may have had unintended consequences. The program's effectiveness is now being questioned.
 
-💡 **Key Point:** Preserving digital history and nostalgia for vintage computer enthusiasts
+💡 **Key Point:** Massive investment in tech may not guarantee student learning outcomes.
 
-🔗 [Read More](https://www.tomshardware.com/video-games/retro-gaming/you-can-log-into-28-vintage-computer-systems-in-your-browser-for-free-thanks-to-the-interim-computer-museum-and-sdf-org-experience-legendary-oses-architectures-programming-languages-and-games)
-
----
-
-### 4. Nvidia's Chinese competitor Moore Threads beats it to launching a laptop featuring custom 12-core Arm chip "MTT AI Book" can run Windows, seems to have adopted Arm before Nvidia's N1X 
-
-**💻 Hardware**
-
-Moore Threads has launched a laptop with a custom 12-core Arm chip, beating Nvidia's N1X. The MTT AI Book laptop features a custom GPU and NPU, and can run Windows. The device is powered by a SoC with advanced AI capabilities.
-
-💡 **Key Point:** Moore Threads is leading Nvidia in Arm-based laptop development efforts.
-
-🔗 [Read More](https://www.tomshardware.com/laptops/nvidias-chinese-competitor-moore-threads-beats-it-to-launching-a-laptop-featuring-custom-12-core-arm-chip-mtt-ai-book-can-run-windows-seems-to-have-adopted-arm-before-nvidias-n1x)
+🔗 [Read More](https://www.techspot.com/news/111439-after-30-billion-school-tech-laptop-classroom-experiment.html)
 
 ---
 
-### 5. AMD VEK385 Versal AI Edge Gen 2 FPGA evaluation kit plugs directly into a PCIe Gen5/Gen4 slot 
+### 3. Sam Altman compares AI energy use to the cost of "training" humans, says water-usage concerns are "fake" 
+
+**🤖 AI & ML**
+
+Sam Altman compares AI's energy use to training human costs, dismissing water concerns.
+
+💡 **Key Point:** AI's environmental impact is comparable to human resource consumption.
+
+🔗 [Read More](https://www.techspot.com/news/111431-sam-altman-compares-ai-energy-use-cost-training.html)
+
+---
+
+### 4. Intel preps CPUs with 'Unified Core' architecture job listing hints at evolution beyond Intel's hybrid design 
 
 **💻 Hardware**
 
-AMD's VEK385 Versal AI Edge Gen 2 FPGA kit accelerates prototyping for various applications with its heterogeneous adaptive SoC, featuring eight Cortex-A78AE cores, ten Cortex-R52 cores, and advanced AI capabilities.
+Intel is working on 'Unified Cores' CPUs, potentially replacing hybrid design.
 
-💡 **Key Point:** Accelerates industrial, automotive, and healthcare applications with advanced AI capabilities.
+💡 **Key Point:** Intel's Unified Core CPUs may signal a major CPU architecture shift.
 
-🔗 [Read More](https://www.cnx-software.com/2026/02/23/amd-vek385-versal-ai-edge-gen-2-fpga-evaluation-kit-plugs-directly-into-a-pcie-gen5-gen4-slot/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-preps-cpus-with-unified-core-architecture-job-listing-hints-at-evolution-beyond-intels-hybrid-design)
+
+---
+
+### 5. German data center giant hikes prices up to 37% starting April 1 Hetzner cites rising hardware costs for price increases 
+
+**💻 Hardware**
+
+Hetzner, a German data center operator, is raising prices up to 37% across its products starting April 1, citing rising hardware costs.
+
+💡 **Key Point:** Increasing cloud and data center prices impact businesses and consumers worldwide.
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/hetzner-to-raise-prices-by-up-to-37-percent-from-april-1)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **33 articles** across **5 focused categories**.
+We covered **41 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 8 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 2 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
+| 🤖 [AI & ML](ai_and_ml.md) | 11 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
 | 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
 
@@ -84,13 +84,13 @@ We covered **33 articles** across **5 focused categories**.
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 8 articles
+*Artificial Intelligence and Machine Learning* — 11 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 2 articles
+*Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 10 articles
+*Computing hardware and development boards* — 13 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
 *Chip manufacturing and design* — 4 articles
@@ -102,6 +102,6 @@ We covered **33 articles** across **5 focused categories**.
 
 ## 📅 About
 
-Generated 2026-02-23 at 09:37 by an autonomous AI curation system.
+Generated 2026-02-24 at 09:36 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
