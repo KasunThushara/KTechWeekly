@@ -1,105 +1,85 @@
 # 📰 Tech News
-**Week of February 24, 2026**
+**Week of February 25, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-02-24 09:36
+- **Articles this week:** 7
+- **Report generated:** 2026-02-25 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Linux 7.0 launches with enablement for Intel Nova Lake, AMD Zen 6 major kernel update expected in Ubuntu 26.04 LTS and Fedora 44 first 
+### 1. Kioxia samples UFS 5.0 embedded flash memory with up to 1TB capacity, 10.8 GB/s data rate ⭐
 
-Linux 7.0 has been released with support for Intel's Nova Lake and AMD's Zen 6. This kernel update will eventually be integrated into various Linux distributions. It marks a significant step forward in hardware compatibility.
+Kioxia has begun shipping UFS 5.0 evaluation samples with up to 1TB capacity, achieving 10.8 GB/s data rate. UFS 5.0 is a new standard for embedded flash storage, utilizing MIPI M-PHY version 6.0 and UniPro version 3.0. This new standard more than doubles the theoretical speed compared to UFS 4.0.
 
-💡 *Upgrades enable support for latest Intel and AMD processor generations.*
+💡 *UFS 5.0 offers significantly faster storage speeds for mobile devices.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linux-7-0-launches-with-enablement-for-intel-nova-lake-amd-zen-6-major-kernel-update-expected-in-ubuntu-26-04-lts-and-fedora-44-first)
-
----
-
-### 2. Inkplate 13SPECTRA 13.3-inch E-ink Spectra smart color display supports Arduino, MicroPython, ESPHome (Crowdfunding) 
-
-Soldered Electronics has released the Inkplate 13SPECTRA, a 13.3-inch E-Ink Spectra display based on ESP32-S3 WiFi and Bluetooth SoC. It features a microSD card slot, USB-C port, and expansion capabilities through Qwiic connectors and GPIO expander pins. The device supports Arduino, MicroPython, and ESPHome.
-
-💡 *First 13.3-inch E-Ink display with ESP32-S3 SoC for IoT applications*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/24/inkplate-13spectra-a-13-3-inch-e-ink-spectra-smart-color-display-supports-arduino-micropython-esphome/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/24/kioxia-samples-ufs-5-0-embedded-flash-memory-with-up-to-1tb-capacity-10-8-gb-s-data-rate/)
 
 ---
 
-### 3. Silex SX-SDMAX6E tri-band Wi-Fi 6E + Bluetooth LE module features NXP IW623 SoC, comes in M.2 or LGA package 
+### 2. Ambitious developer showcases slick triple-level Quake-like game stored in tiny 64KB executable every game asset tucked inside what could be a rounding error in modern app payload terms 
 
-Silex Technology and NXP have partnered to launch the SX-SDMAX6E module, a tri-band Wi-Fi 6E and Bluetooth LE module based on NXP's IW623 SoC, available in M.2 or LGA package, supporting various applications in harsh environments.
+Developer Daivuk showcases QUOD, a 64KB Quake-like shooter with impressive asset compression.
 
-💡 *Tri-band Wi-Fi 6E supports high-throughput and low-power connectivity options*
+💡 *Tiny executable size showcases exceptional coding efficiency and optimization techniques.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/23/silex-sx-sdmax6e-tri-band-wi-fi-6e-bluetooth-le-module-features-nxp-iw623-soc-comes-in-m-2-or-lga-package/)
-
----
-
-### 4. Tofu brine could power safer batteries that last decades, researchers say 
-
-Researchers have created a safer battery design using tofu brine as the electrolyte, achieving over 120,000 charge cycles in lab tests. This far exceeds commercial standards, making it a promising innovation for electric vehicles. The design replaces complex, flammable lithium-ion chemistry with a safer alternative.
-
-💡 *Safer, longer-lasting batteries could transform electric vehicle technology.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111434-tofu-brine-could-power-safer-batteries-last-decades.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/ambitious-developer-showcases-slick-triple-level-quake-like-game-stored-in-tiny-64kb-executable-every-game-asset-tucked-inside-what-could-be-a-rounding-error-in-modern-app-payload-terms)
 
 ---
 
-### 5. Sam Altman compares AI energy use to the cost of "training" humans, says water-usage concerns are "fake" 
+### 3. Firefox 148 rolls out with the promised AI kill switch: here's how to enable it 
 
-Sam Altman compares AI's energy use to training human costs, dismissing water concerns.
+Firefox 148 introduces the 'Block AI Enhancements' toggle, available to all users. This feature was originally introduced in the Nightly channel after community backlash against AI additions. It allows users to disable AI-powered features.
 
-💡 *AI's environmental impact is comparable to human resource consumption.*
+💡 *Users regain control over AI features in Firefox browser.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111431-sam-altman-compares-ai-energy-use-cost-training.html)
-
----
-
-### 6. Announcing the second group of Rising Stars 2026 
-
-The Fierce Sensors Rising Stars program recognizes individuals leading innovation in electronics. Additional honorees will be announced each week. This series showcases experts shaping technology's future.
-
-💡 *Innovators are driving electronics advancements for a better future today.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/second-group-rising-stars)
+🔗 [Read Full Article](https://www.techspot.com/news/111453-firefox-148-rolls-out-promised-ai-kill-switch.html)
 
 ---
 
-### 7. Microsoft is adding images to Notepad, and users are wondering why 
+### 4. Nvidia's N1/N1X chips leak once again, this time tipped for release in first half of 2026 hotly-anticipated chips to reportedly debut on Dell and Lenovo laptops 
 
-Microsoft is reportedly adding image support to Notepad for users.
+Nvidia's N1/N1X SoCs are expected to launch in the first half of 2026, reportedly powering Dell and Lenovo laptops. These highly anticipated chips have been in development for years, facing multiple delays. Their official release is now expected to bring significant changes to the laptop market.
 
-💡 *Microsoft expands Notepad's functionality to cater to modern document needs.*
+💡 *Nvidia's N1/N1X chips could revolutionize laptop performance and power efficiency.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111428-microsoft-adding-images-notepad-users-wondering-why.html)
-
----
-
-### 8. The Interim Computer Museum puts 28 classic computer systems on the internet for you to try 
-
-The Interim Computer Museum has made 28 vintage computing systems accessible online. This includes emulated, partially hardware-based, and original machines. The public can now try these classic systems through a web portal.
-
-💡 *Preserving computing history for future generations and education purposes*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111432-interim-computer-museum-puts-28-classic-computer-systems.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/nvidias-n1-n1x-chips-leak-once-again-this-time-tipped-for-release-in-first-half-of-2026-hotly-anticipated-chips-to-reportedly-debut-on-dell-and-lenovo-laptops)
 
 ---
 
-### 9. 11 Need-To-Know Tools in Microsoft PowerToys 
+### 5. Optical device beams data at speeds up to 25 Gbps via light, up to 25 kilometer range with ultra-low latency Taara Beam uses silicon photonics technology, device about as big as a shoebox 
 
-Microsoft PowerToys offers a range of useful utilities to enhance productivity. This article highlights 11 essential tools worth using, saving users time and effort. From keyboard shortcuts to file management, these tools cater to various needs.
+The Taara Beam uses silicon photonics to deliver high-speed data transfer via light at distances of up to 25 kilometers with ultra-low latency. This device offers a fiber-like connection without the need for laying cables. It can achieve speeds of up to 25 Gbps.
 
-💡 *Streamline workflow with Microsoft PowerToys' versatile productivity tools*
+💡 *Revolutionizing high-speed data transfer with cable-free, ultra-low latency technology.*
 
-🔗 [Read Full Article](https://www.techspot.com/article/3090-microsoft-powertoys-need-to-know/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/optical-transceiver-achieves-up-to-25-gbps-throughput-with-ultra-low-latency-and-10km-range-taara-beam-uses-silicon-photonics-technology-device-about-as-big-as-a-shoebox)
+
+---
+
+### 6. The world's first transatlantic fiber cable is being pulled off the ocean floor 
+
+TAT-8 was the first transatlantic fiber cable, using single-mode optical fiber and optoelectronic repeaters to transmit data at 280 Mbit/s between the US, UK, and France, replacing copper transmission.
+
+💡 *Transformed global communication with high-speed, reliable, and long-distance data transmission.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111442-world-first-transatlantic-fiber-cable-pulled-off-ocean.html)
+
+---
+
+### 7. Uber launches a new division to power robotaxis behind the scenes 
+
+Uber launches a new division to support commercial self-driving fleets with services including insurance, roadside assistance, and 'AV mission control' software.
+
+💡 *Automating support for robotaxis could revolutionize urban transportation infrastructure.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111449-uber-launches-new-division-power-robotaxis-behind-scenes.html)
 
 ---
 

@@ -1,5 +1,5 @@
 # 💻 Hardware
-**Week of February 24, 2026**
+**Week of February 25, 2026**
 
 *Computing hardware and development boards*
 
@@ -7,139 +7,139 @@
 
 ## 📊 Summary
 - **Articles this week:** 13
-- **Report generated:** 2026-02-24 09:36
+- **Report generated:** 2026-02-25 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel preps CPUs with 'Unified Core' architecture job listing hints at evolution beyond Intel's hybrid design 
+### 1. Iridium 9604 3-in-1 IoT module integrates Iridium SBD satellite service, LTE-M cellular connectivity, and GNSS positioning ⭐
 
-Intel is working on 'Unified Cores' CPUs, potentially replacing hybrid design.
+Iridium Communications has introduced the Iridium 9604 3-in-1 IoT module, which combines Iridium SBD satellite service, LTE-M cellular connectivity, and GNSS positioning in a single package. This compact module saves up to 60% in board space and reduces costs. It features a range of certifications and support for various global bands.
 
-💡 *Intel's Unified Core CPUs may signal a major CPU architecture shift.*
+💡 *Compact IoT module simplifies global connectivity with reduced costs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-preps-cpus-with-unified-core-architecture-job-listing-hints-at-evolution-beyond-intels-hybrid-design)
-
----
-
-### 2. German data center giant hikes prices up to 37% starting April 1 Hetzner cites rising hardware costs for price increases 
-
-Hetzner, a German data center operator, is raising prices up to 37% across its products starting April 1, citing rising hardware costs.
-
-💡 *Increasing cloud and data center prices impact businesses and consumers worldwide.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/hetzner-to-raise-prices-by-up-to-37-percent-from-april-1)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/25/iridium-9604-3-in-1-iot-module-integrates-iridium-sbd-satellite-service-lte-m-cellular-connectivity-and-gnss-positioning/)
 
 ---
 
-### 3. Asus ROG Swift PG32UCDM3 240 Hz QD-OLED gaming monitor review: Asus delivers a true flagship OLED 
+### 2. Kioxia samples UFS 5.0 embedded flash memory with up to 1TB capacity, 10.8 GB/s data rate ⭐
 
-Asus delivers a 32-inch 4K OLED gaming monitor with 240 Hz refresh rate, Quantum Dot color technology, and advanced HDR support, setting a new standard for gaming displays.
+Kioxia has begun shipping UFS 5.0 evaluation samples with up to 1TB capacity, achieving 10.8 GB/s data rate. UFS 5.0 is a new standard for embedded flash storage, utilizing MIPI M-PHY version 6.0 and UniPro version 3.0. This new standard more than doubles the theoretical speed compared to UFS 4.0.
 
-💡 *Innovative OLED gaming monitors raise the bar for immersive gaming experiences.*
+💡 *UFS 5.0 offers significantly faster storage speeds for mobile devices.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg32ucdm3-32-inch-240-hz-qd-oled-gaming-monitor-review)
-
----
-
-### 4. Inkplate 13SPECTRA 13.3-inch E-ink Spectra smart color display supports Arduino, MicroPython, ESPHome (Crowdfunding) 
-
-Soldered Electronics has released the Inkplate 13SPECTRA, a 13.3-inch E-Ink Spectra display based on ESP32-S3 WiFi and Bluetooth SoC. It features a microSD card slot, USB-C port, and expansion capabilities through Qwiic connectors and GPIO expander pins. The device supports Arduino, MicroPython, and ESPHome.
-
-💡 *First 13.3-inch E-Ink display with ESP32-S3 SoC for IoT applications*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/24/inkplate-13spectra-a-13-3-inch-e-ink-spectra-smart-color-display-supports-arduino-micropython-esphome/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/24/kioxia-samples-ufs-5-0-embedded-flash-memory-with-up-to-1tb-capacity-10-8-gb-s-data-rate/)
 
 ---
 
-### 5. After $30 billion in school tech, the laptop classroom experiment may have backfired 
+### 3. Apple to produce Mac Minis in Houston for the first time US chip sourcing tops 20 billion units 
 
-Maine's laptop classroom experiment, launched in 2002, aimed to boost education with tech. However, the $30 billion investment may have had unintended consequences. The program's effectiveness is now being questioned.
+Apple to produce Mac Minis in Houston, marking a US manufacturing milestone.
 
-💡 *Massive investment in tech may not guarantee student learning outcomes.*
+💡 *US chip sourcing exceeds 20 billion units for the first time*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111439-after-30-billion-school-tech-laptop-classroom-experiment.html)
-
----
-
-### 6. Portable USB DVD writer with 2.5-inch SATA and SD card dock slashed by 30% to $21 optical drive can read and write CDs at 24X, and DVDs at 8X 
-
-This portable USB DVD writer can read and write CDs and DVDs at high speeds, and also doubles as a 2.5-inch SATA and SD card dock, making it a versatile and affordable option for under $21.
-
-💡 *Portable optical drives still offer convenience and value in modern computing.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/portable-usb-dvd-writer-with-2-5-inch-sata-and-sd-card-dock-slashed-by-30-percent-to-usd21-optical-drive-can-read-and-write-cds-at-24x-and-dvds-at-8x)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/apple-to-produce-mac-minis-in-houston-for-the-first-time)
 
 ---
 
-### 7. Lenovo and Asus handheld owners warned as Ryzen Z1 Extreme driver support reportedly ends lack of official updates threatens longevity for Legion Go, Go S, and ROG Ally X devices on Windows 11 
+### 4. NXP TJA1410 and TJF1410 PMD transceivers enable CAN-like Single Pair Ethernet (SPE) connectivity 
 
-AMD has reportedly stopped delivering new driver updates for Ryzen Z1 Extreme handheld gaming PCs. This affects devices like Lenovo Legion Go, Go S, and Asus ROG Ally X. Users may face issues with Windows 11 compatibility.
+NXP's TJA1410 and TJF1410 PMD transceivers enable CAN-like SPE connectivity by separating the analog physical layer from the digital Ethernet logic, allowing for more efficient use of resources in host microcontrollers or switches.
 
-💡 *End of driver support threatens handheld gaming PC longevity.*
+💡 *Efficient resource utilization through analog-digital PHY separation*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/lenovo-and-asus-handheld-owners-warned-as-ryzen-z1-extreme-driver-support-reportedly-ends-lack-of-official-updates-threatens-longevity-for-legion-go-go-s-and-rog-ally-x-devices-on-windows-11)
-
----
-
-### 8. Nintendo's Game & Watch hacked and turned into retro emulation beast Solder job unlocks device from its Zelda-only cage thanks to a custom SD card slot 
-
-A Zelda-edition Game & Watch was hacked to run custom firmware, unlocking its full potential. The device now emulates various consoles, includes save states, and has a microSD card slot. This project showcases the creativity of retro gaming enthusiasts.
-
-💡 *Retro gaming innovation can breathe new life into classic hardware devices*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/nintendo/nintendos-game-and-watch-hacked-and-turned-into-retro-emulation-beast-solder-job-unlocks-device-from-its-zelda-only-cage-thanks-to-a-custom-sd-card-slot)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/25/nxp-tja1410-and-tjf1410-pmd-transceivers-enable-can-like-single-pair-ethernet-spe-connectivity/)
 
 ---
 
-### 9. GyroidOS virtualization solution aims to secure embedded devices, ease cybersecurity certification 
+### 5. PocketBeagle 2 SBC gets industrial version with 1GB RAM, 64GB eMMC flash 
 
-GyroidOS is an open-source, multi-arch OS-level virtualization solution for embedded devices with hardware security features, aiming to support security certification processes like Common Criteria and IEC-62443 standards. It offers a smaller footprint and additional separation of privileged instances compared to other container solutions like Docker. GyroidOS provides several security features to ensure the isolation and protection of guest operating system stacks.
+The PocketBeagle 2 Industrial SBC offers improved specs over its commercial counterpart, featuring 1GB RAM, 64GB eMMC flash, and industrial temperature support.
 
-💡 *Enhanced security for embedded devices through modular OS virtualization*
+💡 *Enhanced industrial capabilities for ruggedized embedded applications development.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/24/gyroidos-virtualization-solution-aims-to-secure-embedded-devices-ease-cybersecurity-certification/)
-
----
-
-### 10. Dell, Lenovo, and others will launch Copilot+ laptops with Nvidia Arm CPU in H1 2026 
-
-Nvidia is collaborating with MediaTek to develop new PC SoCs, and major PC manufacturers like Dell and Lenovo are working on laptops powered by these processors, which integrate CPU, GPU, and NPU components into a single chip.
-
-💡 *Nvidia's Arm CPU integration revolutionizes laptop design with unified processing.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111436-dell-lenovo-others-launch-copilot-laptops-arm-based.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/24/pocketbeagle-2-sbc-gets-industrial-version-with-1gb-ram-64gb-emmc-flash/)
 
 ---
 
-### 11. UK data hoarder flies to America to buy hard drives, saves $2,000 
+### 6. Linux 7.0 rc1 arrives with major hardware enablement and performance gains 
 
-A UK resident saved $2,000 by buying replacement hard drives in the US.
+Linux 7.0 RC1 arrives with major hardware enablement and performance gains, laying the groundwork for upcoming distros and delivering broad hardware support.
 
-💡 *Price disparities across countries can lead to significant cost savings.*
+💡 *Enhanced hardware support and performance upgrades for future distros and users.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111437-uk-data-hoarder-flies-america-buy-hard-drives.html)
-
----
-
-### 12. The Interim Computer Museum puts 28 classic computer systems on the internet for you to try 
-
-The Interim Computer Museum has made 28 vintage computing systems accessible online. This includes emulated, partially hardware-based, and original machines. The public can now try these classic systems through a web portal.
-
-💡 *Preserving computing history for future generations and education purposes*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111432-interim-computer-museum-puts-28-classic-computer-systems.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111456-linux-70-rc1-arrives-major-hardware-enablement-performance.html)
 
 ---
 
-### 13. Lab-grown brain tissue successfully solves a classic AI training problem 
+### 7. ATAboy bridges old IDE drives to the 21st century with Open Source USB host bridge powered by a Raspberry Pi RP2350 and with custom "Award" BIOS menu 
 
-Lab-grown brain tissue has successfully solved a classic AI training problem by stabilizing a simulated pole, demonstrating the potential of biological systems in complex tasks.
+ATAboy uses a Raspberry Pi RP2350 to create an Open Source USB host bridge, bringing old IDE drives into the modern era by connecting them to computers via USB. This project allows users to breathe new life into outdated storage devices, extending their lifespan and reuse. The custom 'Award' BIOS menu provides a user-friendly interface.
 
-💡 *Biological tissue can rival AI algorithms in complex problem-solving capabilities.*
+💡 *Reviving legacy storage devices with modern connectivity and usability.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111426-lab-grown-brain-tissue-successfully-solves-classic-ai.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/ataboy-bridges-old-ide-drives-to-the-21st-century-with-open-source-usb-host-bridge-powered-by-a-raspberry-pi-rp2350-and-with-custom-award-bios-menu)
+
+---
+
+### 8. OpenAI couldn t finance its data centers, so it took control of the hardware instead company's chip design aspirations lag behind Google and Amazon 
+
+OpenAI struggled to finance its data centers, opting for hardware control instead. The company's chip design aspirations are trailing behind Google and Amazon. This shift in strategy may impact AI development timelines.
+
+💡 *Limited financing options hindered OpenAI's data center ambitions and chip advancements*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/openai-couldnt-finance-its-data-centers-so-it-took-control-of-hardware-instead)
+
+---
+
+### 9. Amateur burglar steals three GPUs worth $11,000 from computer shop in Korea thief broke in using a drill hammer and walked out with only 3 cards 
+
+A thief in South Korea stole three high-end GPUs worth $11,000 from a computer shop, using a drill hammer to break in. The GPUs, two RTX 5090s and an RTX 5080, are valuable items that can be sold quickly. The police are looking for the suspect, with the shop owner offering leniency if the items are returned.
+
+💡 *Prioritizing high-ticket items for quick resale over overall value maximization.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/usd11-000-worth-of-gpus-stolen-from-computer-shop-in-korea-during-amateur-burglary-thief-broke-in-using-a-drill-hammer-and-walked-out-with-only-3-cards)
+
+---
+
+### 10. Microsoft is using NPUs to automatically capture Xbox game highlights 
+
+Microsoft is testing a feature on Asus handheld PCs to automatically capture notable Xbox game highlights using the system's NPU, without interrupting gameplay.
+
+💡 *Real-time AI-powered gaming highlights without interrupting the gaming experience.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111441-microsoft-using-npus-automatically-capture-xbox-game-highlights.html)
+
+---
+
+### 11. Intel's mysterious "Unified Core" team hints at a major CPU rethink 
+
+Intel is hiring a senior engineer for its 'Unified Core' team, which is working on a potential major CPU rethinking. The team's identity and goals are not officially disclosed. The position may introduce significant changes in upcoming CPUs.
+
+💡 *Intel is potentially overhauling its CPU architecture significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111438-intel-mysterious-unified-core-team-hints-major-cpu.html)
+
+---
+
+### 12. The Most Anticipated PC Games of 2026: From Cult Classics to Blockbuster Returns 
+
+2026 is packed with PC games worth the wait, including reboots and new IP. From long-awaited sequels to bold new franchises, the year's offerings promise to be exciting. Upgrading your PC may not be ideal, but the games are worth it.
+
+💡 *Upcoming PC games offer a mix of nostalgia and innovative gameplay.*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3091-most-anticipated-games-2026/)
+
+---
+
+### 13. 218-pound PC built inside a cast-iron Victorian radiator cooling an RTX 5090 'probably out of the question' 
+
+Billet Labs built a gaming PC inside a cast-iron Victorian radiator to cool an RTX 5090. The 218-pound PC is reportedly fully functional and tested. This unique build showcases innovative cooling solutions.
+
+💡 *Innovative cooling solutions can unlock high-end GPU performance in unusual enclosures.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/218-pound-pc-built-inside-a-cast-iron-victorian-radiator-cooling-an-rtx-5090-probably-out-of-the-question)
 
 ---
 

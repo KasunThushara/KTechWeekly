@@ -1,295 +1,364 @@
 [
   {
-    "title": "Anthropic accuses DeepSeek, other Chinese AI developers of 'industrial-scale' copying Claims 'distillation' included 24,000 fraudulent accounts and 16 million exchanges to train smaller models",
-    "summary": "Anthropic claims DeepSeek, Moonshot, and MiniMax made 16 million exchanges using 24,000 fraudulent accounts to advance their models using Claude.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-accuses-deepseek-other-chinese-ai-developers-of-industrial-scale-copying-claims-distillation-included-24-000-fraudulent-accounts-and-16-million-exchanges-to-train-smaller-models",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.656430"
-  },
-  {
-    "title": "Portable USB DVD writer with 2.5-inch SATA and SD card dock slashed by 30% to $21 optical drive can read and write CDs at 24X, and DVDs at 8X",
-    "summary": "Optical drives can still be handy in 2026, though desktop and PC laptop makers very rarely offer them. Here's a USB-attached device that is also a SATA dock, and more, for under $21.",
-    "link": "https://www.tomshardware.com/pc-components/portable-usb-dvd-writer-with-2-5-inch-sata-and-sd-card-dock-slashed-by-30-percent-to-usd21-optical-drive-can-read-and-write-cds-at-24x-and-dvds-at-8x",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.656506"
-  },
-  {
-    "title": "Intel preps CPUs with 'Unified Core' architecture job listing hints at evolution beyond Intel's hybrid design",
-    "summary": "Intel's confirms 'Unified Cores' project in a job listing, but actual CPUs with these unified cores could be years away.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-preps-cpus-with-unified-core-architecture-job-listing-hints-at-evolution-beyond-intels-hybrid-design",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-24T09:35:30.656570"
-  },
-  {
-    "title": "German data center giant hikes prices up to 37% starting April 1 Hetzner cites rising hardware costs for price increases",
-    "summary": "German data center operator Hetzner announced today that it s raising prices across its cloud, dedicated server, storage, and load balancer products starting April 1.",
-    "link": "https://www.tomshardware.com/tech-industry/hetzner-to-raise-prices-by-up-to-37-percent-from-april-1",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-24T09:35:30.656652"
-  },
-  {
-    "title": "Linux 7.0 launches with enablement for Intel Nova Lake, AMD Zen 6 major kernel update expected in Ubuntu 26.04 LTS and Fedora 44 first",
-    "summary": "A major kernel update, Linux 7.0, has been officially released. Although it'll take some time to show up in various Linux distros, the kernel comes with preliminary support for AMD's upcoming Zen 6 and Intel's Nova Lake.",
-    "link": "https://www.tomshardware.com/software/linux/linux-7-0-launches-with-enablement-for-intel-nova-lake-amd-zen-6-major-kernel-update-expected-in-ubuntu-26-04-lts-and-fedora-44-first",
+    "title": "Nvidia's N1/N1X chips leak once again, this time tipped for release in first half of 2026 hotly-anticipated chips to reportedly debut on Dell and Lenovo laptops",
+    "summary": "After years of rumors and leaks, something feels different in the air as multiple reports are now pointing toward an actual, official launch for Nvidia's N1/N1X SoCs. These highly elusive chips have been in the works for years, have faced multiple delays, but the excitement for their release never died down.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/nvidias-n1-n1x-chips-leak-once-again-this-time-tipped-for-release-in-first-half-of-2026-hotly-anticipated-chips-to-reportedly-debut-on-dell-and-lenovo-laptops",
     "categories": [
       "Tech News",
-      "GPUs"
+      "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-02-24T09:35:30.656726"
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.775135"
   },
   {
-    "title": "Lenovo and Asus handheld owners warned as Ryzen Z1 Extreme driver support reportedly ends lack of official updates threatens longevity for Legion Go, Go S, and ROG Ally X devices on Windows 11",
-    "summary": "AMD has reportedly stopped delivering new driver updates to handheld gaming PCs with the AMD Ryzen Z1 Extreme APU, including Asus ROG Ally X and Lenovo Legion Go S.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lenovo-and-asus-handheld-owners-warned-as-ryzen-z1-extreme-driver-support-reportedly-ends-lack-of-official-updates-threatens-longevity-for-legion-go-go-s-and-rog-ally-x-devices-on-windows-11",
+    "title": "US gov't warned Nvidia CEO Jensen Huang, Tim Cook, and Lisa Su that China could invade Taiwan by 2027 Apple CEO reportedly said he sleeps 'with one eye open'",
+    "summary": "A new investigative report from The New York Times reveals that, in July 2023, senior US intelligence officials privately briefed some of the tech industry's most powerful executives on classified assessments regarding China and Taiwan.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/us-govt-warned-nvidia-ceo-jensen-huang-tim-cook-and-lisa-su-that-china-could-invade-taiwan-by-2027-apple-ceo-reportedly-said-he-sleeps-with-one-eye-open",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.775219"
+  },
+  {
+    "title": "Qualcomm's 2019-vintage AI100 chip finally scores a major deployment Saudi Arabia's Humain takes delivery of 1,024 systems",
+    "summary": "Qualcomm's 2019-vintage AI100 chip finally scores a major deployment",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomms-2019-vintage-ai100-chip-finally-scores-a-major-deployment-saudi-arabias-humain-takes-delivery-of-1-024-systems",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-25T09:36:45.775283"
+  },
+  {
+    "title": "AI boosted US economy by 'basically zero' in 2025, says Goldman Sachs chief economist 'We think there's been a lot of misreporting of the impact that AI investment had on GDP growth'",
+    "summary": "The U.S. economy isn't being propped up by AI investment, despite the common narrative. According to Goldman Sachs, despite hundreds of billions in investment announcements, AI has done little to uplift American financial interests.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-boosted-us-economy-by-basically-zero-in-2025-says-goldman-sachs-chief-economist-we-think-theres-been-a-lot-of-misreporting-of-the-impact-that-ai-investment-had-on-gdp-growth",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.775359"
+  },
+  {
+    "title": "ATAboy bridges old IDE drives to the 21st century with Open Source USB host bridge powered by a Raspberry Pi RP2350 and with custom \"Award\" BIOS menu",
+    "summary": "Using the power of the Raspberry Pi Pico 2's RP2350, ATAboy bridges the hard drives of old, with the computers of today.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/ataboy-bridges-old-ide-drives-to-the-21st-century-with-open-source-usb-host-bridge-powered-by-a-raspberry-pi-rp2350-and-with-custom-award-bios-menu",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.775422"
+  },
+  {
+    "title": "Ambitious developer showcases slick triple-level Quake-like game stored in tiny 64KB executable every game asset tucked inside what could be a rounding error in modern app payload terms",
+    "summary": "Developer Daivuk has released QUOD, a 64KB boomer shooter with an uncanny resemblance to id Software s seminal FPS title, Quake.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/ambitious-developer-showcases-slick-triple-level-quake-like-game-stored-in-tiny-64kb-executable-every-game-asset-tucked-inside-what-could-be-a-rounding-error-in-modern-app-payload-terms",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-25T09:36:45.775500"
+  },
+  {
+    "title": "Apple to produce Mac Minis in Houston for the first time US chip sourcing tops 20 billion units",
+    "summary": "Apple announced that it will begin producing the Mac Mini in Houston, Texas later this year, marking the first time that the compact desktop has ever been manufactured in the United States.",
+    "link": "https://www.tomshardware.com/tech-industry/apple-to-produce-mac-minis-in-houston-for-the-first-time",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-25T09:36:45.775572"
+  },
+  {
+    "title": "AMD and Meta strike $100 billion AI deal that includes 10% stock deal 6 gigawatt agreement includes up to 160 million AMD shares",
+    "summary": "AMD and Meta have announced an AI chips deal thought to be worth more than $100 billion.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-meta-100-billion-deal",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-25T09:36:45.775635"
+  },
+  {
+    "title": "AI tool OpenClaw wipes the inbox of Meta's AI Alignment director despite repeated commands to stop executive had to manually terminate the AI to stop the bot from continuing to erase data",
+    "summary": "Meta's AI Director of Alignment asked OpenClaw to clean up her inbox, only for the AI agent to nuke everything inside.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-wipes-inbox-of-meta-ai-alignment-director-executive-finds-out-the-hard-way-how-spectacularly-efficient-ai-tool-is-at-maintaining-her-inbox",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.775712"
+  },
+  {
+    "title": "ASML makes breakthrough in EUV chipmaking tech, plans to increase speed by 50% by 2030 new 1,000-watt light source fires three lasers at 100,000 tin droplets every second",
+    "summary": "ASML to use a new CO2 laser system and tin droplet generator to increase EUV light source performance to 1000W and lithography tool productivity to 330 wafers per hour in 2030 and beyond.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-makes-breakthrough-in-euv-chipmaking-tech-plans-to-increase-speed-by-50-percent-by-2030-new-1-000-watt-light-source-fires-three-lasers-at-100-000-tin-droplets-every-second",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-02-25T09:36:45.775793"
+  },
+  {
+    "title": "Anthropic's new AI tool can write 67-year-old COBOL code, sending 115-year-old IBM's stock tumbling by 13% IBM stock has worst day in 26 years, down 25% MoM and counting",
+    "summary": "IBM stock takes a 13% whiplash after Anthropic announces COBOL AI tooling",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/ibm-stock-takes-a-13-percent-whiplash-after-anthropic-announces-an-ai-tool-for-writing-cobol-code-stock-has-worst-day-since-2000-and-is-down-25-percent-mom-and-counting",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.775849"
+  },
+  {
+    "title": "Optical device beams data at speeds up to 25 Gbps via light, up to 25 kilometer range with ultra-low latency Taara Beam uses silicon photonics technology, device about as big as a shoebox",
+    "summary": "The Taara Beam offers a fiber-like connection without the hassle of acquiring right-of-way and laying cable. It delivers up 25 Gbps of throughput with ultra-low latency at a range of up to 10 km.",
+    "link": "https://www.tomshardware.com/tech-industry/optical-transceiver-achieves-up-to-25-gbps-throughput-with-ultra-low-latency-and-10km-range-taara-beam-uses-silicon-photonics-technology-device-about-as-big-as-a-shoebox",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.775930"
+  },
+  {
+    "title": "218-pound PC built inside a cast-iron Victorian radiator cooling an RTX 5090 'probably out of the question'",
+    "summary": "Cast-iron Victorian radiator gaming PC build finalized and tested by Billet Labs.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/218-pound-pc-built-inside-a-cast-iron-victorian-radiator-cooling-an-rtx-5090-probably-out-of-the-question",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-25T09:36:45.775992"
+  },
+  {
+    "title": "OpenAI couldn t finance its data centers, so it took control of the hardware instead company's chip design aspirations lag behind Google and Amazon",
+    "summary": "OpenAI spent much of 2025 trying to build its own AI data centers, only to find that it couldn t secure financing on competitive terms.",
+    "link": "https://www.tomshardware.com/tech-industry/openai-couldnt-finance-its-data-centers-so-it-took-control-of-hardware-instead",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.776058"
+  },
+  {
+    "title": "Amateur burglar steals three GPUs worth $11,000 from computer shop in Korea thief broke in using a drill hammer and walked out with only 3 cards",
+    "summary": "A thief in South Korea fled with two RTX 5090s and an RTX 5080 when he broke into a local computer shop. Instead of going for maximum potential gains and picking up RAM, he valued high-ticket items that would sell quickly. The police are already looking for the suspect, but the shop owner promises to show leniency if the items are simply returned.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/usd11-000-worth-of-gpus-stolen-from-computer-shop-in-korea-during-amateur-burglary-thief-broke-in-using-a-drill-hammer-and-walked-out-with-only-3-cards",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.656825"
+    "processed_date": "2026-02-25T09:36:45.776137"
   },
   {
-    "title": "Trump tariff turbulence risks handing TSMC a win over American chip manufacturers prior exemptions for onshoring manufacturing may hinder the likes of Intel",
-    "summary": "The Trump Administrations' new sweeping tariffs for all American imports could end up hurting American companies and benefitting their international competition at the same time, thanks to existing tariff carve-outs and rising material costs for U.S. producers.",
-    "link": "https://www.tomshardware.com/tech-industry/trump-tariff-turbulence-risks-handing-tsmc-a-win-over-american-chip-manufacturers-prior-exemptions-for-onshoring-manufacturing-may-hinder-the-likes-of-intel",
+    "title": "NASA engineers reprogrammed Mars helicopter's Snapdragon chip to run the rover instead, reconfiguring system from 140 million miles away repurposes its 'ancient' unused Qualcomm 801 SoC, accurate to within 10 inches",
+    "summary": "The Qualcomm Snapdragon 801 chip was used to communicate with the Ingenuity Mars helicopter. But now that it's been retired from service, NASA engineers found another use for this relatively powerful chip.",
+    "link": "https://www.tomshardware.com/tech-industry/nasa-engineers-reprogram-the-perseverance-rover-for-autonomous-navigation-from-140-million-miles-away-repurposes-its-ancient-unused-qualcomm-801-soc-accurate-to-within-10-inches",
     "categories": [
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.656902"
+    "processed_date": "2026-02-25T09:36:45.776207"
   },
   {
-    "title": "Asus ROG Swift PG32UCDM3 240 Hz QD-OLED gaming monitor review: Asus delivers a true flagship OLED",
-    "summary": "Asus delivers a flagship 32-inch OLED with the ROG Swift PG32UCDM3. It sports 4K resolution, 240 Hz, Adaptive-Sync, Quantum Dot wide gamut color, DisplayHDR 500, and HDR10, and is one of the few monitors to support Dolby Vision.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg32ucdm3-32-inch-240-hz-qd-oled-gaming-monitor-review",
+    "title": "NXP TJA1410 and TJF1410 PMD transceivers enable CAN-like Single Pair Ethernet (SPE) connectivity",
+    "summary": "We ve reported on 10BASE-T1S and 10BASE-T1L Single Pair Ethernet (SPE) chips from Microchip and Analog Devices in the past, which support Ethernet communication over a single twisted-pair cable. But those chips integrate a full Ethernet PHY or MAC-PHY inside the device. NXP takes a different approach with their TJA1410 (automotive) and TJF1410 (industrial) Physical Medium Dependent (PMD) transceivers. These new PMDs separate the analog physical layer from the digital Ethernet logic. By integrating the digital portion of the PHY into the host microcontroller or switch, the TJA1410 and TJF1410 only need to handle the essential analog functions for transmitting and receiving signals over the physical medium. They communicate with the host via a 3-pin OPEN Alliance (OA) interface. TJA1410 and TJF1410 PMD transceivers specifications: Networking 10BASE-T1S (Compliant with IEEE 802.3cg and OPEN Alliance TC14,TC10 specifications) Host Interface 3-pin OA interface (requires host MCU/switch with a 10BASE-T1S digital PHY) [...] The post NXP TJA1410 and TJF1410 PMD transceivers enable CAN-like Single Pair Ethernet (SPE) connectivity appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/02/25/nxp-tja1410-and-tjf1410-pmd-transceivers-enable-can-like-single-pair-ethernet-spe-connectivity/",
     "categories": [
       "Hardware",
-      "GPUs"
+      "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-02-24T09:35:30.656969"
+    "processed_date": "2026-02-25T09:36:45.776658"
   },
   {
-    "title": "MSI RTX 5090 Lightning Z GPUs listed on eBay for almost $27,000 limited edition graphics card demands 500% premium from resellers",
-    "summary": "Resellers are now putting up MSI RTX 5090 Lightning Zs on eBay, pricing it from $6,700 all the way to nearly $27,000.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/msi-rtx-5090-lightning-z-gpus-listed-on-ebay-for-almost-usd27-000-limited-edition-graphics-card-demands-500-percent-premium-from-resellers",
+    "title": "Iridium 9604 3-in-1 IoT module integrates Iridium SBD satellite service, LTE-M cellular connectivity, and GNSS positioning",
+    "summary": "Iridium Communications has just unveiled the Iridium 9604 3-in-1 IoT module with support for Iridium Short Burst Data (SBD) satellite service, LTE-M cellular connectivity, and GNSS positioning. Solutions relying on satellite, cellular, and/or GNSS positioning are typically implemented using three different chips or modules. For example, the earlier Iridium Certus 9704 Satellite IoT Developer Kit relies on an Iridium 9704 module and a u-blox GNSS module, but the Iridium 9604 module implements everything into a single 26 x 16 mm package, saving up to 60 percent or more in board space and lowering the costs of the final product. Iridum 9604 specifications: Iridium Short Burst Data 340 bytes mobile-originated 270 bytes mobile-terminated Global LEO coverage Cellular LTE-M (CAT-M1) Global band support Carrier certifications FirstNet certification in the US GNSS GPS, GLONASS, Galileo, BeiDou Antennas Iridium/GNSS antenna LTE-M antenna Host interface Single interface (not specified, likely UART or SPI) Dimensions 26 [...] The post Iridium 9604 3-in-1 IoT module integrates Iridium SBD satellite service, LTE-M cellular connectivity, and GNSS positioning appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/02/25/iridium-9604-3-in-1-iot-module-integrates-iridium-sbd-satellite-service-lte-m-cellular-connectivity-and-gnss-positioning/",
     "categories": [
-      "GPUs"
+      "Hardware",
+      "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.657025"
+    "quality_score": 15,
+    "processed_date": "2026-02-25T09:36:45.776803"
   },
   {
-    "title": "Stargate AI data centers for OpenAI reportedly delayed by squabbles between partners sources say OpenAI, Oracle, and SoftBank disagreed on who would have ultimate control of the planned data centers",
-    "summary": "OpenAI, Oracle, and SoftBank have reportedly spent several months negotiating over who would have ultimate control of the data centers planned for Stargate.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/stargate-ai-data-centers-for-openai-reportedly-delayed-by-squabbles-between-partners-sources-say-openai-oracle-and-softbank-disagreed-on-who-would-have-ultimate-control-of-the-planned-data-centers",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.657092"
-  },
-  {
-    "title": "US exports from Taiwan now exceed exports from China for the first time in decades AI gold rush fuels 93.5% jump in advanced system exports",
-    "summary": "Recent trade statistics indicate that Taiwan now supplies more goods to the U.S. than China does, but this is only a part of the picture, as Taiwan is rapidly increasing its exports to everywhere in the world.",
-    "link": "https://www.tomshardware.com/tech-industry/taiwan-exports-leapfrog-china",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.657165"
-  },
-  {
-    "title": "Nintendo's Game & Watch hacked and turned into retro emulation beast Solder job unlocks device from its Zelda-only cage thanks to a custom SD card slot",
-    "summary": "Macho Nacho Productions has modded an original Zelda-edition Game & Watch to run Retro-Go, a custom firmware that unlocks the hardware's full potential. This hacked Game & Watch can now emulate various consoles, includes support for save states, and even has a microSD card slot. But getting here wasn't easy.",
-    "link": "https://www.tomshardware.com/video-games/nintendo/nintendos-game-and-watch-hacked-and-turned-into-retro-emulation-beast-solder-job-unlocks-device-from-its-zelda-only-cage-thanks-to-a-custom-sd-card-slot",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.657254"
-  },
-  {
-    "title": "User accidentally gains control of over 6,700 robot vacuums while tinkering with their own device to enable control with a PlayStation controller security flaw reveals floor plans and live video feeds",
-    "summary": "An AI strategist used Claude Code to reverse engineer his robot vacuum and control it with a PlayStation controller, but it accidentally gave him control of thousands of similar devices spread all across the world.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/user-accidentally-gains-control-of-over-6-700-robot-vacuums-while-tinkering-with-their-own-device-to-enable-control-with-a-playstation-controller-security-flaw-reveals-floor-plans-and-live-video-feeds",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.657324"
-  },
-  {
-    "title": "Inkplate 13SPECTRA 13.3-inch E-ink Spectra smart color display supports Arduino, MicroPython, ESPHome (Crowdfunding)",
-    "summary": "Soldered Electronics has made ESP32-based e-paper displays for years, starting with the launch of the Inkplate 6 in 2019. The Inkplate 13SPECTRA is their latest model based on an ESP32-S3 WiFi and Bluetooth SoC and a 13.3-inch E-Ink Spectra color display with 1600 x 1200 resolution. More specifically, it s powered by an ESP32-S3-WROOM-2-N32R16V module with 32MB SPI flash and 16MB PSRAM, features a microSD card slot for data storage, a USB-C port for data and power, a JST connector for an optional 3,000 mAh LiPo battery, and expansion capabilities through three Qwiic connectors and GPIO expander pins. Inkplate 13SPECTRA specifications: Wireless module ESP32-S3-WROOM-2-N32R16V SoC ESP32-S3 dual-core Xtensa LX7 processor (up to 240 MHz) with wireless connectivity System Memory 16 MB PSRAM Storage 32 MB flash Wireless Wi-Fi 802.11 b/g/n (2.4 GHz), Bluetooth 5 (LE), Storage MicroSD card slot Display 13.3-inch E-Ink SPECTRA color e-paper [...] The post Inkplate 13SPECTRA 13.3-inch E-ink Spectra smart color display supports Arduino, MicroPython, ESPHome (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/02/24/inkplate-13spectra-a-13-3-inch-e-ink-spectra-smart-color-display-supports-arduino-micropython-esphome/",
+    "title": "Kioxia samples UFS 5.0 embedded flash memory with up to 1TB capacity, 10.8 GB/s data rate",
+    "summary": "Kioxia has announced that it has begun shipping evaluation samples of UFS 5.0 embedded flash memory available in capacities of 512 GB and 1 TB. UFS 5.0 is a new standard for embedded flash storage currently being developed by JEDEC for next-generation mobile devices. The new standard utilizes MIPI M-PHY version 6.0 for the physical layer and UniPro version 3.0 for the protocol. The new High-Speed Gear 6 (HS-GEAR6) mode available in M-PHY version 6.0 can handle up to 46.6 Gbps per lane, meaning that with 2 lanes, it can achieve around 10.8 GB/s read/write performance, outperforming most NVMe SSDs, except for PCIe Gen5 SSDs. As a reminder, the previous UFS 4.0 standard promised up to 4,200 MB/s, so the upcoming UFS 5.0 standard more than doubles the theoretical speed. Besides the higher throughput, UFS 5.0 adds the following features, according to JEDEC: Integrated link equalization for more reliable signal [...] The post Kioxia samples UFS 5.0 embedded flash memory with up to 1TB capacity, 10.8 GB/s data rate appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/02/24/kioxia-samples-ufs-5-0-embedded-flash-memory-with-up-to-1tb-capacity-10-8-gb-s-data-rate/",
     "categories": [
       "Hardware",
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-02-24T09:35:30.657806"
+    "quality_score": 15,
+    "processed_date": "2026-02-25T09:36:45.776937"
   },
   {
-    "title": "GyroidOS virtualization solution aims to secure embedded devices, ease cybersecurity certification",
-    "summary": "Maintained by Fraunhofer AISEC, GyroidOS is an open-source, multi-arch OS-level virtualization solution designed for embedded devices with hardware security features, and aiming to support security certification processes such as Common Criteria (ISO/IEC 15408), DIN SPEC 27070 IDS Trust Security profile, and IEC-62443 cybersecurity standards. The virtualization layer is based on Linux-specific features like namespaces, cgroups, and capabilities to provide isolation of different guest operating system stacks on top of a single, shared Linux kernel. It offers a much smaller footprint and additional separation of privileged instances compared to other container solutions, such as Docker. GyroidOS security features Container isolation based on a modularized OS-level virtualization layer Secure boot (e.g., UEFI on x86) Kernel module signing Signed GuestOSes (containers) Measured boot and remote attestation Full disk encryption coupled to TPM and secure boot Restriction of superuser in containers with Linux capabilities Fine-grained device access with device cgroups whitelists Secure Element [...] The post GyroidOS virtualization solution aims to secure embedded devices, ease cybersecurity certification appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/02/24/gyroidos-virtualization-solution-aims-to-secure-embedded-devices-ease-cybersecurity-certification/",
+    "title": "PocketBeagle 2 SBC gets industrial version with 1GB RAM, 64GB eMMC flash",
+    "summary": "The PocketBeagle 2 Industrial is an update to the PocketBeagle 2 Rev A1 SBC featuring 1GB DDR4 RAM, a 64GB eMMC flash, and industrial temperature range support. The original board only comes with 512MB DDR4 memory, an eMMC flash footprint (unpopulated), and commercial temperature range support. Apart from those changes, the other specifications remain the same, with a Texas Instruments AM6254 quad-core Cortex-A53 SoC, an MSPM0L1105 Cortex-M0+ microcontroller, a microSD card slot, a USB-C port, UART and JTAG debugging support, and two 36-pin GPIO headers. Another difference is that the PCB is red for the PocketBeagle 2 Industrial (like the BeagleBone Black Industrial 4G), while the PocketBeagle 2 features a black PCB. PocketBeagle 2 Industrial specifications: Main SoC Texas Instruments AM6254 CPU Quad-core 64-bit Arm Cortex-A53 @ 1.4 GHz Arm Cortex-M4F real-time core @ 400 MHz with 256KB SRAM GPU Imagination PowerVR Rogue AXE-1-16M with support for OpenGL [...] The post PocketBeagle 2 SBC gets industrial version with 1GB RAM, 64GB eMMC flash appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/02/24/pocketbeagle-2-sbc-gets-industrial-version-with-1gb-ram-64gb-emmc-flash/",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.657953"
+    "quality_score": 10,
+    "processed_date": "2026-02-25T09:36:45.777067"
   },
   {
-    "title": "Silex SX-SDMAX6E tri-band Wi-Fi 6E + Bluetooth LE module features NXP IW623 SoC, comes in M.2 or LGA package",
-    "summary": "Back in August last year, we wrote about NXP s IW623 tri-band (2.4GHz, 5GHz, 6GHz) Wi-Fi 6E and Bluetooth LE Audio SoC, but at the time, there was no ready-to-use module based on it. Now, NXP has partnered with Silex Technology to launch the SX-SDMAX6E module, available in a surface-mount LGA package or an M.2 2230 Key-E card. The module supports Bluetooth 5.x connectivity via UART and Wi-Fi via SDIO. It operates from a 3.3V supply with 1.8V support on the LGA version. It has an industrial operating temperature range of -40 C to +85 C and is designed for both high-throughput applications, such as video streaming, and low-power, battery-operated devices in harsh environments. It also supports various antenna options, fast roaming, and long-term lifecycle backing through Silex and NXP. Silex SX-SDMAX6E specifications: Wireless chipset NXP IW623 tri-band SoC Connectivity Wi-Fi Tri-band Wi-Fi 6E (2.4 GHz, 5 GHz, 6 GHz) IEEE 802.11a/b/g/n/ac/ax [...] The post Silex SX-SDMAX6E tri-band Wi-Fi 6E + Bluetooth LE module features NXP IW623 SoC, comes in M.2 or LGA package appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/02/23/silex-sx-sdmax6e-tri-band-wi-fi-6e-bluetooth-le-module-features-nxp-iw623-soc-comes-in-m-2-or-lga-package/",
+    "title": "The world's first transatlantic fiber cable is being pulled off the ocean floor",
+    "summary": "TAT-8 was the eighth Trans-Atlantic Telephone system and the first to replace copper transmission with single-mode optical fiber between the United States, the United Kingdom, and France. The system used 1.3-micrometer single-mode fiber and optoelectronic repeaters operating at roughly 280 Mbit/s. Read Entire Article",
+    "link": "https://www.techspot.com/news/111442-world-first-transatlantic-fiber-cable-pulled-off-ocean.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.778210"
+  },
+  {
+    "title": "ASML pushes EUV power to 1,000 watts, unlocking up to 50% more chips per machine",
+    "summary": "The achievement, confirmed by ASML technologists Michael Purvis and Teun van Gogh, does not involve a proof-of-concept demonstration or a short-lived experiment. The company says the new light source operates under factory-ready conditions and could be deployed in commercial systems later this decade. It represents a strong response to growing... Read Entire Article",
+    "link": "https://www.techspot.com/news/111451-asml-pushes-euv-power-1000-watts-unlocking-up.html",
     "categories": [
       "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-24T09:35:30.658083"
-  },
-  {
-    "title": "Announcing the second group of Rising Stars 2026",
-    "summary": "The Fierce Sensors Rising Stars are individuals driving advancements in technology, pushing boundaries and shaping the future of electronics with their creativity, expertise, and impact. Additional honorees will be named each week in Fierce Sensors in no particular order.",
-    "link": "https://www.fiercesensors.com/ai/second-group-rising-stars",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.659025"
-  },
-  {
-    "title": "After $30 billion in school tech, the laptop classroom experiment may have backfired",
-    "summary": "The shift began in Maine in 2002, when then-Governor Angus King launched a program that put Apple laptops in the hands of every middle schooler. Read Entire Article",
-    "link": "https://www.techspot.com/news/111439-after-30-billion-school-tech-laptop-classroom-experiment.html",
-    "categories": [
-      "Hardware",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-02-24T09:35:30.659264"
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.778290"
   },
   {
-    "title": "Dell, Lenovo, and others will launch Copilot+ laptops with Nvidia Arm CPU in H1 2026",
-    "summary": "According to The Wall Street Journal, Nvidia is collaborating with MediaTek to develop its N1 and N1X PC SoCs, which integrate CPU, GPU, and NPU components into a single chip. Major PC manufacturers such as Dell and Lenovo are reportedly working on several laptops powered by the new processors, with... Read Entire Article",
-    "link": "https://www.techspot.com/news/111436-dell-lenovo-others-launch-copilot-laptops-arm-based.html",
+    "title": "Linux 7.0 rc1 arrives with major hardware enablement and performance gains",
+    "summary": "Linux 7.0 is officially taking shape with the release of the first release candidate. The new kernel lays the groundwork for upcoming distros like Ubuntu 26.04 LTS and Fedora 44, while delivering broad hardware enablement for Intel's next-gen CPUs, AMD Zen 6 and new GPUs, and expanding support for Qualcomm Snapdragon platforms. Beyond hardware, Linux 7.0 brings meaningful file system and performance improvements, continued Rust integration, and a long list of under-the-hood optimizations. Read Entire Article",
+    "link": "https://www.techspot.com/news/111456-linux-70-rc1-arrives-major-hardware-enablement-performance.html",
     "categories": [
       "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.659341"
-  },
-  {
-    "title": "Microsoft is adding images to Notepad, and users are wondering why",
-    "summary": "Microsoft is reportedly working on yet another \"advanced\" Notepad feature that has little to do with basic text editing. According to unnamed sources cited by Windows Latest, the application will soon support inserting images into text-based documents. Read Entire Article",
-    "link": "https://www.techspot.com/news/111428-microsoft-adding-images-notepad-users-wondering-why.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.659403"
-  },
-  {
-    "title": "UK data hoarder flies to America to buy hard drives, saves $2,000",
-    "summary": "In sharing the story, Redditor cgtechuk said he was running out of space after upgrading to four 16TB drives purchased from Amazon UK in 2020. Unfortunately, the 28TB replacement drives he had been eyeing were skyrocketing in price locally. Having previously purchased hardware in the US before, he decided to... Read Entire Article",
-    "link": "https://www.techspot.com/news/111437-uk-data-hoarder-flies-america-buy-hard-drives.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.659472"
-  },
-  {
-    "title": "Tofu brine could power safer batteries that last decades, researchers say",
-    "summary": "The design replaces the complex, flammable chemistry of lithium-ion batteries with an electrolyte that's as safe as saltwater. In lab tests, the prototype endured more than 120,000 charge cycles, an endurance record that far exceeds today's commercial standards. Typical electric-vehicle batteries degrade after just a few thousand cycles even... Read Entire Article",
-    "link": "https://www.techspot.com/news/111434-tofu-brine-could-power-safer-batteries-last-decades.html",
-    "categories": [
-      "Tech News"
+      "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-02-24T09:35:30.659541"
+    "processed_date": "2026-02-25T09:36:45.778383"
   },
   {
-    "title": "Colorado bill could criminalize possessing 3D gun files, not just printing them",
-    "summary": "Colorado's HB26-1144 bill would expand the state's firearms rules to cover \"3-dimensional printing,\" defined to include additive printing and subtractive manufacturing (CNC milling is covered, too). Read Entire Article",
-    "link": "https://www.techspot.com/news/111433-colorado-bill-could-criminalize-possessing-3d-gun-files.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.659600"
-  },
-  {
-    "title": "The Interim Computer Museum puts 28 classic computer systems on the internet for you to try",
-    "summary": "Through a partnership between the Interim Computer Museum (ICM) and SDF.org, twenty-eight vintage computing systems some emulated, some partially hardware-based, and some running on original machines are now accessible to the public through a web portal. Read Entire Article",
-    "link": "https://www.techspot.com/news/111432-interim-computer-museum-puts-28-classic-computer-systems.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.659666"
-  },
-  {
-    "title": "MIT's new 3D printer can create a working electric motor in one go",
-    "summary": "The team, based at MIT's Microsystems Technology Laboratories, demonstrated the system by printing an electric linear motor the type that generates straight-line motion instead of spinning a shaft. Read Entire Article",
-    "link": "https://www.techspot.com/news/111430-mit-new-3d-printer-can-create-working-electric.html",
+    "title": "Goldman Sachs says AI's impact on the US economy was \"basically zero\" last year",
+    "summary": "Goldman Sachs analysts have suggested that the impact of AI on the US economy was \"basically zero\" in 2025. The investment bank argued that large language models, chatbots, and other AI-related technologies did not meaningfully contribute to the country's officially recorded 2.2 percent GDP growth last year. Unsurprisingly, the claim... Read Entire Article",
+    "link": "https://www.techspot.com/news/111440-goldman-sachs-ai-impact-us-economy-basically-zero.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.659726"
+    "processed_date": "2026-02-25T09:36:45.778462"
   },
   {
-    "title": "Lab-grown brain tissue successfully solves a classic AI training problem",
-    "summary": "In a small lab at the University of California, Santa Cruz, clusters of mouse brain cells have taken on a task normally reserved for computer algorithms: keeping a simulated pole balanced upright. The experiment, which used real biological tissue to tackle a classic test problem in control engineering, shows that... Read Entire Article",
-    "link": "https://www.techspot.com/news/111426-lab-grown-brain-tissue-successfully-solves-classic-ai.html",
+    "title": "Firefox 148 rolls out with the promised AI kill switch: here's how to enable it",
+    "summary": "The \"Block AI Enhancements\" toggle was originally introduced in Firefox 148 Nightly in January following significant community backlash after Mozilla's new CEO, Anthony Enzor-DeMeo, announced plans to add AI features to Firefox. With Firefox 148 now rolling out to the stable channel, the feature is available to users across all release channels. Read Entire Article",
+    "link": "https://www.techspot.com/news/111453-firefox-148-rolls-out-promised-ai-kill-switch.html",
     "categories": [
-      "AI & ML",
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-02-25T09:36:45.778536"
+  },
+  {
+    "title": "Uber launches a new division to power robotaxis behind the scenes",
+    "summary": "The San Francisco based company's new venture is designed to serve as a comprehensive support hub for commercial self-driving fleets. The division will offer a range of services, including insurance coverage, roadside assistance, and \"AV mission control\" a software layer that enables fleet operators to monitor vehicles and... Read Entire Article",
+    "link": "https://www.techspot.com/news/111449-uber-launches-new-division-power-robotaxis-behind-scenes.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.778607"
+  },
+  {
+    "title": "Rockstar said to be spreading misinformation about GTA 6 to catch leakers",
+    "summary": "The most anticipated game in recent memory, Grand Theft Auto 6, finally arrives on November 19 barring any more unexpected delays. Read Entire Article",
+    "link": "https://www.techspot.com/news/111452-rockstar-leaking-misinformation-about-gta-6-catch-leakers.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.778676"
+  },
+  {
+    "title": "Microsoft is using NPUs to automatically capture Xbox game highlights",
+    "summary": "Sources recently informed Windows Central that Xbox Insiders who own Asus ROG Xbox Ally handheld gaming PCs can test a feature that uses the system's embedded NPU to capture notable gaming moments. The functionality works without interrupting gameplay. Read Entire Article",
+    "link": "https://www.techspot.com/news/111441-microsoft-using-npus-automatically-capture-xbox-game-highlights.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.778741"
+  },
+  {
+    "title": "Intel's mysterious \"Unified Core\" team hints at a major CPU rethink",
+    "summary": "Intel is looking for a new Senior CPU Verification Engineer, a highly skilled position that could introduce some massive changes in the company's upcoming CPUs. The new hire is expected to work together with the \"Unified Core\" team, a group that has not officially been introduced. Regardless, Intel is working... Read Entire Article",
+    "link": "https://www.techspot.com/news/111438-intel-mysterious-unified-core-team-hints-major-cpu.html",
+    "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.659824"
+    "processed_date": "2026-02-25T09:36:45.778823"
   },
   {
-    "title": "Sam Altman compares AI energy use to the cost of \"training\" humans, says water-usage concerns are \"fake\"",
-    "summary": "Altman launched his tirade at the India AI Impact summit during an interview with The Indian Express. Read Entire Article",
-    "link": "https://www.techspot.com/news/111431-sam-altman-compares-ai-energy-use-cost-training.html",
+    "title": "Xbox co-founder warns Microsoft is \"sunsetting\" the brand, compares new leadership role to \"palliative care\"",
+    "summary": "Last week, Microsoft CEO Satya Nadella announced that the company's CoreAI Product president, Asha Sharma, had become the head of Xbox, replacing the retiring Phil Spencer. The news came as a surprise: former Xbox president Sarah Bond, who has now resigned from Microsoft, was expected to be the 38-year veteran's... Read Entire Article",
+    "link": "https://www.techspot.com/news/111450-xbox-co-founder-warns-microsoft-sunsetting-brand-compares.html",
     "categories": [
       "AI & ML",
-      "Tech News"
+      "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-02-24T09:35:30.659889"
+    "processed_date": "2026-02-25T09:36:45.778900"
   },
   {
-    "title": "11 Need-To-Know Tools in Microsoft PowerToys",
-    "summary": "Microsoft PowerToys packs more than 30 utilities into a single toolbox, but not all of them are worth using. These 11 stand out as genuinely useful , and a few others you can safely ignore. Read Entire Article",
-    "link": "https://www.techspot.com/article/3090-microsoft-powertoys-need-to-know/",
+    "title": "A developer accidentally gained control of more than 10,000 DJI devices",
+    "summary": "An AI strategist recently demonstrated to The Verge how he accidentally gained sweeping control over thousands of DJI robot vacuums and other connected devices scattered across the globe. A remote-control app he had vibe-coded gave him visibility into strangers' homes, revealed their locations, and allowed him to command their vacuums... Read Entire Article",
+    "link": "https://www.techspot.com/news/111443-developer-accidentally-gained-control-more-than-10000-dji.html",
     "categories": [
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-24T09:35:30.659946"
+    "processed_date": "2026-02-25T09:36:45.778993"
+  },
+  {
+    "title": "Apple shifting some Mac mini production from Asia to Texas this year",
+    "summary": "The announcement came from Sabih Khan, Apple's chief operating officer. During a tour of the Foxconn facility in North Houston, Khan told The Wall Street Journal, \"We're very excited to tell you that later this year we will be beginning Mac mini manufacturing right here in this space.\" Read Entire Article",
+    "link": "https://www.techspot.com/news/111447-apple-shifting-mac-mini-production-asia-texas-year.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.779062"
+  },
+  {
+    "title": "US video game sales climb 3% in January, even as layoffs and studio closures deepen",
+    "summary": "The research shows that the main driver behind this growth was subscription-based gaming. Non-mobile subscription services generated $596 million in revenue during the month, up 23% year-over-year. Read Entire Article",
+    "link": "https://www.techspot.com/news/111444-us-video-game-sales-climb-3-january-even.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-02-25T09:36:45.779127"
+  },
+  {
+    "title": "The Most Anticipated PC Games of 2026: From Cult Classics to Blockbuster Returns",
+    "summary": "It may not be the best year to upgrade your PC, but 2026 is packed with games worth the wait . From long-awaited reboots to bold new IP, here are the PC titles we can't stop watching this year. Read Entire Article",
+    "link": "https://www.techspot.com/article/3091-most-anticipated-games-2026/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-02-25T09:36:45.779190"
   }
 ]
