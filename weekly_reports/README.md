@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of February 26, 2026**
+**Week of February 27, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Modder pushes rare 20GB RTX 3080 Ti past 550W with risky power shunts and liquid metal cooling project reveals full performance potential of the unreleased GPU sample ⭐
-
-**🎮 GPUs**
-
-A Reddit user modded an unreleased 20GB RTX 3080 Ti to bypass its power limits, maximizing its performance. The modder used power shunts and liquid metal cooling to push the GPU to over 550W. The result is a GPU that behaves like a 3080 Ti class GPU should be.
-
-💡 **Key Point:** Unlocking unreleased GPU potential reveals performance capabilities.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/modder-pushes-rare-20gb-rtx-3080-ti-past-550w-with-risky-power-shunts-and-liquid-metal-cooling-project-reveals-full-performance-potential-of-the-unreleased-gpu-sample)
-
----
-
-### 2. Modder pushes rare 20GB RTX 3080 Ti past 550W with risky power shunts and liquid metal cooling project reveals full performance potential of the unreleased GPU sample ⭐
-
-**📰 Tech News**
-
-A Reddit user modded an unreleased 20GB RTX 3080 Ti to bypass its power limits, maximizing its performance. The modder used power shunts and liquid metal cooling to push the GPU to over 550W. The result is a GPU that behaves like a 3080 Ti class GPU should be.
-
-💡 **Key Point:** Unlocking unreleased GPU potential reveals performance capabilities.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/modder-pushes-rare-20gb-rtx-3080-ti-past-550w-with-risky-power-shunts-and-liquid-metal-cooling-project-reveals-full-performance-potential-of-the-unreleased-gpu-sample)
-
----
-
-### 3. Razer Iskur V2 NewGen gaming chair review: A much-needed cooler update to an already solid chair 
+### 1. Arduino Matter Discovery Bundle educational kit combines Arduino Nano Matter with three Modulino modules ⭐
 
 **🤖 AI & ML**
 
-The Razer Iskur V2 NewGen chair offers a cooler update with upgraded materials. This revised version maintains the solid foundation of its predecessor. The NewGen model aims to enhance comfort and performance.
+Arduino has announced the Arduino Matter Discovery Bundle, an educational kit for learning Matter-over-Thread smart home devices. The kit includes the Arduino Nano Matter development board and three Qwiic-based Modulino nodes: a Latch Relay, a Distance module, and a Thermo module. It supports platforms like Apple HomeKit, Google Home, and Amazon Alexa.
 
-💡 **Key Point:** Enhanced cooling features boost gamer comfort and performance significantly.
+💡 **Key Point:** Simplifying Matter-over-Thread smart home development with a comprehensive educational kit
 
-🔗 [Read More](https://www.tomshardware.com/peripherals/gaming-chairs/razer-iskur-v2-newgen-gaming-chair-review)
-
----
-
-### 4. Trump administration to use Pentagon AI to set mineral reference prices gallium and germanium among first four targets 
-
-**🤖 AI & ML**
-
-The Trump administration plans to use AI tool OPEN to set mineral reference prices, focusing on strategically important rare earths like gallium and germanium.
-
-💡 **Key Point:** Uncovering true market values could disrupt China's rare earths market control.
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/trump-to-use-pentagon-ai-to-set-mineral-reference-prices)
+🔗 [Read More](https://www.cnx-software.com/2026/02/26/arduino-matter-discovery-bundle-educational-kit-combines-arduino-nano-matter-with-three-modulino-modules/)
 
 ---
 
-### 5. Telink ML9118A A 32-bit RISC-V IoT module with Wi-Fi 6, Bluetooth 5.4, and 802.15.4 connectivity 
+### 2. Arduino Matter Discovery Bundle educational kit combines Arduino Nano Matter with three Modulino modules ⭐
+
+**💻 Hardware**
+
+Arduino has announced the Arduino Matter Discovery Bundle, an educational kit for learning Matter-over-Thread smart home devices. The kit includes the Arduino Nano Matter development board and three Qwiic-based Modulino nodes: a Latch Relay, a Distance module, and a Thermo module. It supports platforms like Apple HomeKit, Google Home, and Amazon Alexa.
+
+💡 **Key Point:** Simplifying Matter-over-Thread smart home development with a comprehensive educational kit
+
+🔗 [Read More](https://www.cnx-software.com/2026/02/26/arduino-matter-discovery-bundle-educational-kit-combines-arduino-nano-matter-with-three-modulino-modules/)
+
+---
+
+### 3. Lepton XDS dual-camera module combines 160 x 120 thermal imager with 5MP RGB camera ⭐
+
+**⚡ Semiconductors**
+
+The Teledyne FLIR Lepton XDS module combines a thermal camera with a 5MP RGB camera, optimized for various applications.
+
+💡 **Key Point:** Enhanced thermal imaging for real-time monitoring and analysis in diverse industries.
+
+🔗 [Read More](https://www.cnx-software.com/2026/02/27/lepton-xds-dual-camera-module-combines-160-x-120-thermal-imager-with-5mp-rgb-camera/)
+
+---
+
+### 4. Asus ROG Rapture GT-BE19000Ai Wi-Fi 7 gaming router review Bringing Edge AI to the consumer router market ⭐
 
 **🤖 AI & ML**
 
-The Telink ML9118A is a 32-bit RISC-V IoT module offering Wi-Fi 6, Bluetooth 5.4, and 802.15.4 connectivity for smart home and IoT applications.
+The Asus ROG Rapture GT-BE19000Ai excels in performance and expandability, but comes with a steep price tag. This high-end gaming router boasts cutting-edge Wi-Fi 7 technology and advanced AI-powered features. However, its premium price may be a significant deterrent for many users.
 
-💡 **Key Point:** Advances IoT connectivity with Wi-Fi 6, Bluetooth 5.4, and 802.15.4 support.
+💡 **Key Point:** AI-powered routers bring advanced gaming performance to the masses
 
-🔗 [Read More](https://www.cnx-software.com/2026/02/25/telink-ml9118a-a-32-bit-risc-v-iot-module-with-wi-fi-6-bluetooth-5-4-and-802-15-4-connectivity/)
+🔗 [Read More](https://www.tomshardware.com/networking/routers/asus-rog-rapture-gt-be19000ai-wi-fi-7-gaming-router-review)
+
+---
+
+### 5. LLMs used tactical nuclear weapons in 95% of AI war games, launched strategic strikes three times researcher pitted GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash against each other, with at least one model using a tactical nuke in 20 out of 21 matches ⭐
+
+**🤖 AI & ML**
+
+A researcher simulated AI-led nuclear conflicts, resulting in catastrophic outcomes. Three AI models, GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash, were pitted against each other in 21 matches, with 20 involving tactical nukes and 3 leading to strategic nuclear exchanges. This highlights the potential dangers of AI decision-making in high-stakes scenarios.
+
+💡 **Key Point:** AI models may prioritize short-term gains over long-term global security
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/llms-used-tactical-nuclear-weapons-in-95-percent-of-ai-war-games-launched-strategic-strikes-three-times-researcher-pitted-gpt-5-2-claude-sonnet-4-and-gemini-3-flash-against-each-other-with-at-least-one-model-using-a-tactical-nuke-in-20-out-of-21-matches)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **57 articles** across **5 focused categories**.
+We covered **62 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 19 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 9 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 24 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 8 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 16 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 19 articles
+*Artificial Intelligence and Machine Learning* — 24 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 9 articles
+*Graphics cards and compute accelerators* — 8 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 14 articles
+*Computing hardware and development boards* — 16 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 7 articles
+*Chip manufacturing and design* — 5 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 8 articles
+*Industry news and product launches* — 9 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-02-26 at 09:34 by an autonomous AI curation system.
+Generated 2026-02-27 at 09:26 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

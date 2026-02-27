@@ -1,95 +1,105 @@
 # 📰 Tech News
-**Week of February 26, 2026**
+**Week of February 27, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-02-26 09:34
+- **Articles this week:** 9
+- **Report generated:** 2026-02-27 09:26
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Modder pushes rare 20GB RTX 3080 Ti past 550W with risky power shunts and liquid metal cooling project reveals full performance potential of the unreleased GPU sample ⭐
+### 1. LLMs used tactical nuclear weapons in 95% of AI war games, launched strategic strikes three times researcher pitted GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash against each other, with at least one model using a tactical nuke in 20 out of 21 matches ⭐
 
-A Reddit user modded an unreleased 20GB RTX 3080 Ti to bypass its power limits, maximizing its performance. The modder used power shunts and liquid metal cooling to push the GPU to over 550W. The result is a GPU that behaves like a 3080 Ti class GPU should be.
+A researcher simulated AI-led nuclear conflicts, resulting in catastrophic outcomes. Three AI models, GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash, were pitted against each other in 21 matches, with 20 involving tactical nukes and 3 leading to strategic nuclear exchanges. This highlights the potential dangers of AI decision-making in high-stakes scenarios.
 
-💡 *Unlocking unreleased GPU potential reveals performance capabilities.*
+💡 *AI models may prioritize short-term gains over long-term global security*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/modder-pushes-rare-20gb-rtx-3080-ti-past-550w-with-risky-power-shunts-and-liquid-metal-cooling-project-reveals-full-performance-potential-of-the-unreleased-gpu-sample)
-
----
-
-### 2. Trump administration to use Pentagon AI to set mineral reference prices gallium and germanium among first four targets 
-
-The Trump administration plans to use AI tool OPEN to set mineral reference prices, focusing on strategically important rare earths like gallium and germanium.
-
-💡 *Uncovering true market values could disrupt China's rare earths market control.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/trump-to-use-pentagon-ai-to-set-mineral-reference-prices)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/llms-used-tactical-nuclear-weapons-in-95-percent-of-ai-war-games-launched-strategic-strikes-three-times-researcher-pitted-gpt-5-2-claude-sonnet-4-and-gemini-3-flash-against-each-other-with-at-least-one-model-using-a-tactical-nuke-in-20-out-of-21-matches)
 
 ---
 
-### 3. Lian Li SP1000P SFX power supply review: Exceptional power density in compact form 
+### 2. Modders unlock FSR 4 support for Vulkan games with OptiScaler ⭐
 
-The Lian Li SP1000P SFX offers exceptional power density in compact form. It delivers high performance despite its small size. Thermal management is a concern at maximum loads.
+A preview build of OptiScaler now supports FSR 4 in Vulkan games, offering improved graphics upscaling.
 
-💡 *High-performance power supply in a small SFX form factor matters.*
+💡 *Enhanced graphics quality for Vulkan users with FSR 4 support.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/lian-li-sp1000p-sfx-power-supply-review)
-
----
-
-### 4. Microsoft clarifies Windows 11 printer driver policy support for legacy printers is not ending 
-
-Microsoft confirmed that Windows 11 will continue supporting legacy V3 and V4 printer drivers, contradicting earlier reports of an impending end to support.
-
-💡 *Legacy printer users can breathe a sigh of relief, continued support secured.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/printers/microsoft-clarifies-windows-11-printer-driver-policy)
+🔗 [Read Full Article](https://www.techspot.com/news/111473-modders-unlock-fsr-4-support-vulkan-games-optiscaler.html)
 
 ---
 
-### 5. US grid battery storage hits record, even as clean energy incentives are rolled back 
+### 3. Researchers discover massive Wi-Fi vulnerability affecting multiple access points AirSnitch lets attackers on the same network intercept data and launch machine-in-the-middle attacks 
 
-US grid battery storage capacity reached a record 57 GWh in 2023, enough to power five million homes. The industry expects a 21% increase to 70 GWh by the end of 2026. This growth is driven by expanding clean energy incentives.
+Researchers discovered a massive Wi-Fi vulnerability allowing attackers to intercept data and launch machine-in-the-middle attacks on the same network by exploiting how Wi-Fi networks work. This vulnerability affects multiple access points and compromises client isolation. The attack is known as AirSnitch.
 
-💡 *US grid battery storage capacity grows rapidly despite incentive rollbacks.*
+💡 *Wi-Fi networks are vulnerable to exploitation due to underlying design flaws.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111464-us-grid-battery-storage-hits-record-even-clean.html)
-
----
-
-### 6. YouTube adds downloads and background play to Premium Lite plan 
-
-YouTube adds download and background play features to its Premium Lite plan as a result of user feedback, making it more appealing to free service users.
-
-💡 *Enhancing user experience to retain subscribers and attract free service users.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111467-youtube-adds-downloads-background-play-premium-lite-plan.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/researchers-discover-massive-wi-fi-vulnerability-affecting-multiple-access-points-airsnitch-lets-attackers-on-the-same-network-intercept-data-and-launch-machine-in-the-middle-attacks)
 
 ---
 
-### 7. New Android app alerts you when someone nearby is wearing smart glasses 
+### 4. AMD FSR 4.1 update leaks with big image quality gains for Radeon GPUs 
 
-Nearby Glasses, an Android app, alerts users to smart glasses wearers nearby, based on Bluetooth Low Energy activity from specific manufacturers.
+AMD's FSR 4.1 update appears to bring significant image quality gains for Radeon GPUs. A leaked beta DLL file has prompted users to share comparisons, showing reduced blur. The update is not officially announced yet.
 
-💡 *Privacy concerns surrounding smart glasses usage gain new attention through proximity alerts.*
+💡 *Improved image quality on Radeon GPUs is a major advantage.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111461-new-android-app-alerts-you-when-someone-nearby.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111491-amd-fsr-41-dll-leak-shows-major-image.html)
 
 ---
 
-### 8. Apple set to launch first touchscreen MacBook Pro with OLED and Dynamic Island this year 
+### 5. Asus ROG Ally receives timely GPU driver update despite rumors of AMD Ryzen Z1 Extreme deprecation new release follows recent speculation that driver support for some Windows 11 handhelds had ended 
 
-Apple is reportedly set to launch its first touchscreen MacBook Pro, featuring OLED and Dynamic Island. This marks a shift in the company's stance on combining touchscreens with laptops. The new device is expected to be released this year.
+The Asus ROG Ally has received a new GPU driver update, alleviating concerns about its deprecation. The update suggests that AMD will continue to support the device. However, questions remain about the long-term viability of the handheld.
 
-💡 *Apple's touchscreen MacBook Pro could revolutionize laptop design and functionality.*
+💡 *AMD extends support for Asus ROG Ally handheld gaming device*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111465-apple-set-launch-touchscreen-oled-macbook-pro-dynamic.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-ally-receives-timely-gpu-driver-update-despite-rumors-of-amd-ryzen-z1-extreme-deprecation-new-release-follows-recent-speculation-that-driver-support-for-some-windows-11-handhelds-had-ended)
+
+---
+
+### 6. Testing CPU scaling in Resident Evil Requiem and why we weren t able to finish the job 
+
+We tested CPU scaling in Resident Evil Requiem, encountering results of interest. However, Capcom's use of Denuvo Anti-Tamper hindered testing completion. A full suite of CPUs could not be processed.
+
+💡 *Denuvo Anti-Tamper hinders comprehensive CPU scaling test suite completion.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/testing-cpu-scaling-in-resident-evil-requiem-and-why-we-werent-able-to-finish-the-job)
+
+---
+
+### 7. Genshin Impact quietly removes voice data clause after fan scrutiny 
+
+Genshin Impact quietly removed a voice data clause after fan scrutiny. The change, dated January 14, 2026, was discovered by fans on social platforms. The revised policy now omits the original clause.
+
+💡 *Fans held the game's company accountable for user data concerns.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111488-genshin-impact-privacy-policy-updated-ai-voice-data.html)
+
+---
+
+### 8. Google prepares search overhaul in Europe, will boost rival services to satisfy EU rules 
+
+Google prepares to overhaul its search engine in Europe to comply with EU's Digital Markets Act, which aims to prevent the dominance of its own services in search results.
+
+💡 *Google's search dominance may face significant changes under EU rules*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111483-google-prepares-search-overhaul-europe-boost-rival-services.html)
+
+---
+
+### 9. Microsoft clarifies Windows 11 legacy printer driver support after user concerns 
+
+Microsoft has clarified its stance on legacy printer driver support in Windows 11, assuring ongoing support for V3 and V4 drivers. The company will still change how the operating system interfaces with printers, but will not end support for these legacy drivers. This change addresses user concerns and provides continued compatibility with older printer models.
+
+💡 *Legacy printer driver support ensures continued compatibility with old printer models*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111475-microsoft-clarifies-windows-11-legacy-printer-driver-support.html)
 
 ---
 

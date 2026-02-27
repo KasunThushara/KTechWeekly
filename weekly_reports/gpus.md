@@ -1,105 +1,95 @@
 # 🎮 GPUs
-**Week of February 26, 2026**
+**Week of February 27, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-02-26 09:34
+- **Articles this week:** 8
+- **Report generated:** 2026-02-27 09:26
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Modder pushes rare 20GB RTX 3080 Ti past 550W with risky power shunts and liquid metal cooling project reveals full performance potential of the unreleased GPU sample ⭐
+### 1. AMD FSR 4.1 update leaks with big image quality gains for Radeon GPUs 
 
-A Reddit user modded an unreleased 20GB RTX 3080 Ti to bypass its power limits, maximizing its performance. The modder used power shunts and liquid metal cooling to push the GPU to over 550W. The result is a GPU that behaves like a 3080 Ti class GPU should be.
+AMD's FSR 4.1 update appears to bring significant image quality gains for Radeon GPUs. A leaked beta DLL file has prompted users to share comparisons, showing reduced blur. The update is not officially announced yet.
 
-💡 *Unlocking unreleased GPU potential reveals performance capabilities.*
+💡 *Improved image quality on Radeon GPUs is a major advantage.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/modder-pushes-rare-20gb-rtx-3080-ti-past-550w-with-risky-power-shunts-and-liquid-metal-cooling-project-reveals-full-performance-potential-of-the-unreleased-gpu-sample)
-
----
-
-### 2. Nvidia delivers first Vera Rubin AI GPU samples to customers 88-core Vera CPU paired with Rubin GPUs with 288 GB of HBM4 memory apiece 
-
-Nvidia starts shipping samples of Vera Rubin AI platforms to partners, on track for revenue shipments in the second half of the year, featuring an 88-core Vera CPU and 288 GB of HBM4 memory.
-
-💡 *AI computing capabilities get a major boost with Nvidia's Vera Rubin launch*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-delivers-first-vera-rubin-ai-gpu-samples-to-customers-88-core-vera-cpu-paired-with-rubin-gpus-with-288-gb-of-hbm4-memory-apiece)
+🔗 [Read Full Article](https://www.techspot.com/news/111491-amd-fsr-41-dll-leak-shows-major-image.html)
 
 ---
 
-### 3. Micron joins the 3GB GDDR7 party, introduces 36 Gbps modules for GPUs lags behind speeds of Samsung and SK Hynix 
+### 2. Nvidia rolls back its latest driver update Game Ready Driver 595.59 reportedly causes fan issues on RTX 3000, 4000, and 5000-series GPUs 
 
-Micron has introduced its 3GB GDDR7 memory module with a 36 Gbps bandwidth rating, marking its entry into the GDDR7 market. This move positions Micron in the growing high-speed memory sector. The company's GDDR7 modules are designed for use in high-performance graphics processing units (GPUs).
+Nvidia's Game Ready Driver 595.59 allegedly causes fan issues on RTX 3000-5000 GPUs, disabling one fan even without third-party apps. This may lead to reduced cooling performance and potential overheating. Users are advised to roll back to a previous driver version.
 
-💡 *Micron lags behind Samsung and SK Hynix in GDDR7 speeds.*
+💡 *Potential overheating risk on affected Nvidia GPUs*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/micron-joins-the-3gb-gddr7-party-introduces-36-gbps-modules-for-gpus-lags-behind-speeds-of-samsung-and-sk-hynix)
-
----
-
-### 4. Save $349 on a 9850X3D, bundled with 32GB of RAM and a motherboard at Newegg RAM effectively $150 when paired with X870E Aorus and AMD's fastest gaming chip 
-
-Get an AMD Ryzen 9850X3D CPU, 32GB DDR5 RAM, and X870E Aorus motherboard at a discounted price of $349, effectively $150 off the cost of RAM when paired with an X870E Aorus and AMD's fastest gaming chip.
-
-💡 *Save money on RAM by bundling with a powerful gaming processor.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-usd349-on-a-9850x3d-bundled-with-32gb-of-ram-and-a-motherboard-at-newegg-ram-effectively-usd150-when-paired-with-x870e-aorus-and-amds-fastest-gaming-chip)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-rolls-back-its-latest-driver-update-game-ready-driver-595-59-reportedly-causes-fan-issues-on-rtx-3000-4000-and-5000-series-gpus)
 
 ---
 
-### 5. LG opens pre-orders for massive 52-inch 5K2K curved monitor $1,999 monster is built for both gaming and productivity, with 240Hz refresh rate 
+### 3. Asus ROG Ally receives timely GPU driver update despite rumors of AMD Ryzen Z1 Extreme deprecation new release follows recent speculation that driver support for some Windows 11 handhelds had ended 
 
-LG's UltraGear evo G9 combines a 5K2K panel with a 240Hz refresh rate in a 52-inch curved monitor, targeting both gamers and productivity professionals.
+The Asus ROG Ally has received a new GPU driver update, alleviating concerns about its deprecation. The update suggests that AMD will continue to support the device. However, questions remain about the long-term viability of the handheld.
 
-💡 *High-resolution, high-refresh gaming meets productivity demand for professionals.*
+💡 *AMD extends support for Asus ROG Ally handheld gaming device*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/lg-opens-pre-orders-for-massive-52-inch-5k2k-curved-monitor-usd1-999-monster-is-built-for-both-gaming-and-productivity-with-240hz-refresh-rate)
-
----
-
-### 6. Sambanova introduces new AI accelerator, partners with Intel to deploy Xeon CPUs for inferencing and agentic workloads Sambanova claims SN50 chip is three times more efficient than Nvidia B200 
-
-SambaNova introduces the SN50 AI accelerator, claiming it's five times faster and three times more efficient than Nvidia's B200. The company partners with Intel to deploy Xeon CPUs for inferencing and agentic workloads. This move aims to provide enterprises and governments with more efficient AI systems.
-
-💡 *Efficient AI accelerators can significantly improve enterprise and government operations.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/sambanova-introduces-new-ai-accelerator-partners-with-intel-to-deploy-xeon-cpus-for-inferencing-and-agentic-workloads-sambanova-claims-sn50-chip-is-three-times-more-efficient-than-nvidia-b200)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-ally-receives-timely-gpu-driver-update-despite-rumors-of-amd-ryzen-z1-extreme-deprecation-new-release-follows-recent-speculation-that-driver-support-for-some-windows-11-handhelds-had-ended)
 
 ---
 
-### 7. This Quake-style shooter fits in just 64KB 
+### 4. Nvidia warns of constrained supply of gaming GPUs, potentially signaling higher prices and shortages to come 'we do believe for a couple of quarters it is going to be very tight' 
 
-QUOD is a Quake-inspired shooter within a 64KB executable, showcasing efficient game design.
+Nvidia expects constrained gaming GPU supply for the next two quarters, signaling potential price increases and shortages.
 
-💡 *Tiny executable size highlights exceptional compression and optimization techniques.*
+💡 *Nvidia's supply constraints may lead to higher gaming hardware prices.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111459-quake-style-shooter-fits-64kb.html)
-
----
-
-### 8. Death Stranding 2 on PC adds Guerrilla's Pico upscaler alongside DLSS and FSR 
-
-Death Stranding 2 on PC will support various graphics options, including DLSS and FSR. The game requires at least a GeForce GTX 1660 or AMD RX 5500 XT to run. A handheld graphics preset will be available in the game's options menu.
-
-💡 *Death Stranding 2 prioritizes accessibility with diverse graphics options.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111457-death-stranding-2-pc-adds-guerrilla-pico-upscaler.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-warns-of-constrained-supply-of-gaming-gpus-we-do-believe-for-a-couple-of-quarters-it-is-going-to-be-very-tight)
 
 ---
 
-### 9. Choose an Intel or AMD CPU and save up to $1200 on an RTX 5080-powered Omen Max 16 laptop high-end gaming just got cheaper 
+### 5. Save a massive $1,570 on this Lenovo Legion gaming PC with an Nvidia GeForce RTX 5070 Ti just $2,199.99 for 4K-ready rig with a 24-core Intel CPU, 32GB of DDR5 RAM, and a 1TB SSD 
 
-Save up to $1200 on a high-end HP Omen Max 16 laptop, powered by an NVIDIA RTX 5080 GPU, when choosing between Intel and AMD CPUs.
+Save 41% on a 4K-ready gaming PC with Intel Core Ultra 285K CPU, Nvidia GeForce RTX 5070 Ti GPU, 32GB DDR5 RAM, and 1TB SSD for $2,199.99.
 
-💡 *CPU choice unlocks significant discounts on high-end gaming laptops.*
+💡 *Unbeatable value for top-tier gaming performance and specs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/choose-an-intel-or-amd-cpu-and-save-up-to-usd1200-on-an-rtx-5080-powered-omen-max-16-laptop-high-end-gaming-just-got-cheaper)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-a-massive-usd1-570-on-this-lenovo-legion-gaming-pc-with-an-nvidia-geforce-rtx-5070-ti-just-usd2-199-99-for-4k-ready-rig-with-a-24-core-intel-cpu-32gb-of-ddr5-ram-and-a-1tb-ssd)
+
+---
+
+### 6. MSI's $80 AMD motherboards with DDR4 support swoop in to rescue gamers amid the global RAM crisis AM4 emerges as the unexpected hero with RAM prices skyrocketing 
+
+MSI releases affordable AMD motherboards with DDR4 support for previous-gen Ryzen processors on the AM4 socket, offering budget-conscious gamers a viable option during the global RAM crisis.
+
+💡 *Budget AMD options provide relief for gamers amidst RAM shortages.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/msis-usd80-amd-motherboards-with-ddr4-support-swoop-in-to-rescue-gamers-amid-the-global-ram-crisis-am4-emerges-as-the-unexpected-hero-with-ram-prices-skyrocketing)
+
+---
+
+### 7. Valve says it misreported VRAM capacity on some graphics cards in Steam Hardware Surveys latest data depicting 30% adoption of 8GB GPUs now foggy 
+
+Valve admits to misreporting VRAM capacity in Steam Hardware Survey, affecting GPU adoption data.
+
+💡 *GPU adoption data reliability is compromised by Valve's data reporting error.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/valve-says-it-misreported-vram-capacity-on-some-graphics-cards-in-steam-hardware-surveys-latest-data-depicting-30-percent-adoption-of-8gb-gpus-now-foggy)
+
+---
+
+### 8. Nvidia's blockbuster quarter eases AI spending fears as data center revenue explodes 
+
+Nvidia reported a record-breaking $68.1 billion revenue and exceeded earnings estimates for Q4.
+
+💡 *Nvidia's data center revenue explosion eases AI spending fears.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111480-nvidia-blockbuster-quarter-eases-ai-spending-fears-data.html)
 
 ---
 

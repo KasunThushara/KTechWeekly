@@ -1,85 +1,65 @@
 # ⚡ Semiconductors
-**Week of February 26, 2026**
+**Week of February 27, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-02-26 09:34
+- **Articles this week:** 5
+- **Report generated:** 2026-02-27 09:26
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Raspberry Pi CM5 mini-ITX-compatible carrier board features up to nine Ethernet ports for NVR, Smart Home, and Edge AI applications 
+### 1. Lepton XDS dual-camera module combines 160 x 120 thermal imager with 5MP RGB camera ⭐
 
-The EXAVIZ Cruiser is a Raspberry Pi CM5 carrier board offering up to nine Ethernet ports, ideal for NVRs, Smart Home gateways, and edge AI applications, providing connectivity options and expansion capabilities.
+The Teledyne FLIR Lepton XDS module combines a thermal camera with a 5MP RGB camera, optimized for various applications.
 
-💡 *Enhanced Ethernet connectivity for edge computing and IoT applications*
+💡 *Enhanced thermal imaging for real-time monitoring and analysis in diverse industries.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/26/raspberry-pi-cm5-mini-itx-compatible-carrier-board-features-up-to-nine-ethernet-ports-for-nvr-smart-home-and-edge-ai-applications/)
-
----
-
-### 2. China to increase leading-edge chip output by 5x in two years, report claims aims to lift 7nm and 5nm production to 100,000 wafers per month, targeting half a million monthly by 2030 
-
-China's foundries aim to boost 7nm and below chip production to 100,000 wafers per month within the next one or two years, aiming to reach half a million monthly by 2030.
-
-💡 *China's chip production surge could challenge global semiconductor dominance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/china-to-increase-leading-edge-chip-output-by-5x-in-two-years-report-claims-aims-to-lift-7nm-and-5nm-production-to-100-000-wafers-per-month-targeting-half-a-million-monthly-by-2030)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/27/lepton-xds-dual-camera-module-combines-160-x-120-thermal-imager-with-5mp-rgb-camera/)
 
 ---
 
-### 3. Sambanova introduces new AI accelerator, partners with Intel to deploy Xeon CPUs for inferencing and agentic workloads Sambanova claims SN50 chip is three times more efficient than Nvidia B200 
+### 2. Intel Foundry boss leaves for Qualcomm Naga Chandrasekaran takes charge of the unit 
 
-SambaNova introduces the SN50 AI accelerator, claiming it's five times faster and three times more efficient than Nvidia's B200. The company partners with Intel to deploy Xeon CPUs for inferencing and agentic workloads. This move aims to provide enterprises and governments with more efficient AI systems.
+Naga Chandrasekaran becomes Intel Foundry's general manager and Chief Technology Officer, overseeing development of advanced process technologies and day-to-day operations.
 
-💡 *Efficient AI accelerators can significantly improve enterprise and government operations.*
+💡 *Intel strengthens leadership in semiconductor manufacturing and technology development.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/sambanova-introduces-new-ai-accelerator-partners-with-intel-to-deploy-xeon-cpus-for-inferencing-and-agentic-workloads-sambanova-claims-sn50-chip-is-three-times-more-efficient-than-nvidia-b200)
-
----
-
-### 4. The world s first transatlantic fiber-optic cable is being ripped up after 37 years on the sea floor TAT-8 to be removed after entering service in 1988, broke in 2002 
-
-TAT-8, the world's first transatlantic fiber-optic cable, is being removed after 37 years. Decommissioned in 2002, it was laid in 1988 and is now being hauled off the seabed near Portugal.
-
-💡 *Retrieval of old cables reduces risk of future environmental damage*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/the-worlds-first-transatlantic-fiber-optic-cable-is-being-ripped-up)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-foundry-boss-leaves-for-qualcomm-naga-chandrasekaran-takes-charge-of-the-unit)
 
 ---
 
-### 5. Apple is quietly assembling a US chip supply chain, one layer at a time 
+### 3. Rockchip RK3588 and RK3576 H.264 and H.265 video decoders gain mainline Linux support 
 
-Apple is building a US chip supply chain with TSMC in Arizona, with plans to purchase over 100 million chips this year. The complex will host six fabrication plants and supporting infrastructure. Apple is positioning itself as the anchor customer.
+The Rockchip RK3588 and RK3576 SoCs gain mainline Linux support for H.264 and H.265 video decoding, eliminating reliance on the Rockchip BSP. This is achieved through a 17-patch series adding decoder support, dt-bindings, and device tree nodes. The new implementation includes V4L2 UAPI controls for HEVC RPS handling.
 
-💡 *Diversifying global chip supply to reduce dependence on Asian manufacturers.*
+💡 *Mainline Linux support reduces dependency on proprietary Rockchip BSP.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111466-how-apple-quietly-building-out-american-chip-manufacturing.html)
-
----
-
-### 6. Washington tells Silicon Valley the Taiwan chip risk is no longer theoretical 
-
-The US government warns of an imminent threat to its economy due to a potential disruption in Taiwan's chip supply, citing recent Chinese military drills and a projected economic shock comparable to the Great Depression.
-
-💡 *Taiwan's chip supply is a critical US economic vulnerability.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111458-washington-tells-silicon-valley-taiwan-chip-risk-no.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/27/rockchip-rk3588-rk3576-h-264-and-h-265-video-decoders-mainline-linux/)
 
 ---
 
-### 7. Farmers are rejecting massive offers as AI data centers hunt for land 
+### 4. Chipmakers still suffering from rare earth shortages, says report US-China trade truce apparently still hasn t eased pressures despite agreement taking place in October last year 
 
-Tech firms are racing to secure 'powered land' for AI and cloud computing. Large parcels with access to electricity, water, and favorable zoning are in high demand. Farmers are rejecting massive offers in response.
+US chipmakers are struggling with rare earth shortages, particularly scandium, due to export license delays from China.
 
-💡 *Tech demand disrupts traditional land use and agricultural practices.*
+💡 *Rare earth shortages hinder US chipmakers' 5G production progress significantly*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111460-farmers-rejecting-massive-offers-ai-data-centers-hunt.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/chipmakers-still-suffering-from-rare-earth-shortages-says-report-us-china-trade-truce-apparently-still-hasnt-eased-pressures-despite-agreement-taking-place-in-october-last-year)
+
+---
+
+### 5. HP warns RAM now makes up 35% of the cost of building a PC 
+
+HP Inc. reports that RAM prices have doubled, increasing its share of PC costs from 15% to 35%. This drastic rise in memory costs may have significant implications for PC manufacturers and consumers. The shift in costs could impact PC pricing and affordability.
+
+💡 *Dramatic RAM price hike threatens PC affordability and pricing stability.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111472-hp-warns-ram-now-makes-up-35-cost.html)
 
 ---
 

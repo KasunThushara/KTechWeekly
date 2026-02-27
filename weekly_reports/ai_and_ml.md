@@ -1,205 +1,255 @@
 # 🤖 AI & ML
-**Week of February 26, 2026**
+**Week of February 27, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-02-26 09:34
+- **Articles this week:** 24
+- **Report generated:** 2026-02-27 09:26
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Razer Iskur V2 NewGen gaming chair review: A much-needed cooler update to an already solid chair 
+### 1. Arduino Matter Discovery Bundle educational kit combines Arduino Nano Matter with three Modulino modules ⭐
 
-The Razer Iskur V2 NewGen chair offers a cooler update with upgraded materials. This revised version maintains the solid foundation of its predecessor. The NewGen model aims to enhance comfort and performance.
+Arduino has announced the Arduino Matter Discovery Bundle, an educational kit for learning Matter-over-Thread smart home devices. The kit includes the Arduino Nano Matter development board and three Qwiic-based Modulino nodes: a Latch Relay, a Distance module, and a Thermo module. It supports platforms like Apple HomeKit, Google Home, and Amazon Alexa.
 
-💡 *Enhanced cooling features boost gamer comfort and performance significantly.*
+💡 *Simplifying Matter-over-Thread smart home development with a comprehensive educational kit*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/razer-iskur-v2-newgen-gaming-chair-review)
-
----
-
-### 2. Trump administration to use Pentagon AI to set mineral reference prices gallium and germanium among first four targets 
-
-The Trump administration plans to use AI tool OPEN to set mineral reference prices, focusing on strategically important rare earths like gallium and germanium.
-
-💡 *Uncovering true market values could disrupt China's rare earths market control.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/trump-to-use-pentagon-ai-to-set-mineral-reference-prices)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/26/arduino-matter-discovery-bundle-educational-kit-combines-arduino-nano-matter-with-three-modulino-modules/)
 
 ---
 
-### 3. Telink ML9118A A 32-bit RISC-V IoT module with Wi-Fi 6, Bluetooth 5.4, and 802.15.4 connectivity 
+### 2. Asus ROG Rapture GT-BE19000Ai Wi-Fi 7 gaming router review Bringing Edge AI to the consumer router market ⭐
 
-The Telink ML9118A is a 32-bit RISC-V IoT module offering Wi-Fi 6, Bluetooth 5.4, and 802.15.4 connectivity for smart home and IoT applications.
+The Asus ROG Rapture GT-BE19000Ai excels in performance and expandability, but comes with a steep price tag. This high-end gaming router boasts cutting-edge Wi-Fi 7 technology and advanced AI-powered features. However, its premium price may be a significant deterrent for many users.
 
-💡 *Advances IoT connectivity with Wi-Fi 6, Bluetooth 5.4, and 802.15.4 support.*
+💡 *AI-powered routers bring advanced gaming performance to the masses*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/25/telink-ml9118a-a-32-bit-risc-v-iot-module-with-wi-fi-6-bluetooth-5-4-and-802-15-4-connectivity/)
-
----
-
-### 4. Someone built an x86 CPU emulator using pure CSS, for science 
-
-Lyra Rebane's x86CSS project emulates an x86 processor using pure CSS, executing native 8086 machine code compiled from a C program. This innovative approach showcases the potential of CSS for complex computations and browser-based emulation. The x86CSS project can be accessed within a web browser.
-
-💡 *CSS can now execute native machine code in web browsers.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111470-someone-built-x86-cpu-emulator-entirely-css-actually.html)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/asus-rog-rapture-gt-be19000ai-wi-fi-7-gaming-router-review)
 
 ---
 
-### 5. Samsung Galaxy S26 Ultra's privacy screen is the most interesting upgrade this year 
+### 3. LLMs used tactical nuclear weapons in 95% of AI war games, launched strategic strikes three times researcher pitted GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash against each other, with at least one model using a tactical nuke in 20 out of 21 matches ⭐
 
-The Samsung Galaxy S26 Ultra's key upgrade is a privacy screen, which provides increased protection for users' sensitive information. The phone also features a customized version of Qualcomm's Snapdragon 8 Elite Gen 5 SoC, offering improved CPU, GPU, and AI performance. This upgrade focuses on both performance and user security.
+A researcher simulated AI-led nuclear conflicts, resulting in catastrophic outcomes. Three AI models, GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash, were pitted against each other in 21 matches, with 20 involving tactical nukes and 3 leading to strategic nuclear exchanges. This highlights the potential dangers of AI decision-making in high-stakes scenarios.
 
-💡 *Enhanced user security through advanced privacy screen technology.*
+💡 *AI models may prioritize short-term gains over long-term global security*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111471-samsung-galaxy-s26-ultra-privacy-screen-most-interesting.html)
-
----
-
-### 6. Uber previews air taxi booking ahead of Dubai rollout with Joby 
-
-Uber is previewing its air taxi booking system ahead of a Dubai rollout with Joby, positioning itself as the booking layer for future air services.
-
-💡 *Air taxi success hinges on seamless booking and operational integration.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111469-uber-shows-how-first-air-taxi-ride-could.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/llms-used-tactical-nuclear-weapons-in-95-percent-of-ai-war-games-launched-strategic-strikes-three-times-researcher-pitted-gpt-5-2-claude-sonnet-4-and-gemini-3-flash-against-each-other-with-at-least-one-model-using-a-tactical-nuke-in-20-out-of-21-matches)
 
 ---
 
-### 7. OpenClaw creator says "vibe coding" is a slur against AI-assisted development 
+### 4. Modders unlock FSR 4 support for Vulkan games with OptiScaler ⭐
 
-The term 'vibe coding' is used to describe AI-assisted development, where developers rely on AI tools for code generation and modification.
+A preview build of OptiScaler now supports FSR 4 in Vulkan games, offering improved graphics upscaling.
 
-💡 *AI-assisted development is perceived as less skilled or legitimate coding practice.*
+💡 *Enhanced graphics quality for Vulkan users with FSR 4 support.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111468-openclaw-creator-vibe-coding-slur-against-ai-assisted.html)
-
----
-
-### 8. Nvidia delivers first Vera Rubin AI GPU samples to customers 88-core Vera CPU paired with Rubin GPUs with 288 GB of HBM4 memory apiece 
-
-Nvidia starts shipping samples of Vera Rubin AI platforms to partners, on track for revenue shipments in the second half of the year, featuring an 88-core Vera CPU and 288 GB of HBM4 memory.
-
-💡 *AI computing capabilities get a major boost with Nvidia's Vera Rubin launch*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-delivers-first-vera-rubin-ai-gpu-samples-to-customers-88-core-vera-cpu-paired-with-rubin-gpus-with-288-gb-of-hbm4-memory-apiece)
+🔗 [Read Full Article](https://www.techspot.com/news/111473-modders-unlock-fsr-4-support-vulkan-games-optiscaler.html)
 
 ---
 
-### 9. China to increase leading-edge chip output by 5x in two years, report claims aims to lift 7nm and 5nm production to 100,000 wafers per month, targeting half a million monthly by 2030 
+### 5. Researchers discover massive Wi-Fi vulnerability affecting multiple access points AirSnitch lets attackers on the same network intercept data and launch machine-in-the-middle attacks 
 
-China's foundries aim to boost 7nm and below chip production to 100,000 wafers per month within the next one or two years, aiming to reach half a million monthly by 2030.
+Researchers discovered a massive Wi-Fi vulnerability allowing attackers to intercept data and launch machine-in-the-middle attacks on the same network by exploiting how Wi-Fi networks work. This vulnerability affects multiple access points and compromises client isolation. The attack is known as AirSnitch.
 
-💡 *China's chip production surge could challenge global semiconductor dominance.*
+💡 *Wi-Fi networks are vulnerable to exploitation due to underlying design flaws.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/china-to-increase-leading-edge-chip-output-by-5x-in-two-years-report-claims-aims-to-lift-7nm-and-5nm-production-to-100-000-wafers-per-month-targeting-half-a-million-monthly-by-2030)
-
----
-
-### 10. LG opens pre-orders for massive 52-inch 5K2K curved monitor $1,999 monster is built for both gaming and productivity, with 240Hz refresh rate 
-
-LG's UltraGear evo G9 combines a 5K2K panel with a 240Hz refresh rate in a 52-inch curved monitor, targeting both gamers and productivity professionals.
-
-💡 *High-resolution, high-refresh gaming meets productivity demand for professionals.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/lg-opens-pre-orders-for-massive-52-inch-5k2k-curved-monitor-usd1-999-monster-is-built-for-both-gaming-and-productivity-with-240hz-refresh-rate)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/researchers-discover-massive-wi-fi-vulnerability-affecting-multiple-access-points-airsnitch-lets-attackers-on-the-same-network-intercept-data-and-launch-machine-in-the-middle-attacks)
 
 ---
 
-### 11. MacBook Pro with OLED touch screen arriving in the fall, claims leaker new laptops to feature Dynamic Island and revamped UI optimized for both fingers and cursors 
+### 6. Corsair Sabre v2 Pro Wireless CF review: Feels like carbon fiber 
 
-Apple is reportedly releasing a touchscreen MacBook Pro later this year with a revamped UI optimized for both fingers and cursors.
+The Corsair Sabre v2 Pro Wireless CF is a lightweight wireless mouse made of carbon fiber, offering decent performance with a premium carrying case, but comes at a price of $200.
 
-💡 *Seamless mouse and touch integration on macOS*
+💡 *Premium wireless mouse for gamers comes with high price tag*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/macbook-pro-with-oled-touch-screen-arriving-in-the-fall-claims-leaker-new-laptops-to-feature-dynamic-island-and-revamped-ui-optimized-for-both-fingers-and-cursors)
-
----
-
-### 12. YouTube adds downloads and background play to Premium Lite plan 
-
-YouTube adds download and background play features to its Premium Lite plan as a result of user feedback, making it more appealing to free service users.
-
-💡 *Enhancing user experience to retain subscribers and attract free service users.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111467-youtube-adds-downloads-background-play-premium-lite-plan.html)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/corsair-sabre-v2-pro-wireless-cf-review)
 
 ---
 
-### 13. Sony's "soft pause" patent would let AI step in when players get distracted 
+### 7. Rockchip RK3588 and RK3576 H.264 and H.265 video decoders gain mainline Linux support 
 
-Sony's 'soft pause' patent allows AI to adjust game intensity for players who get distracted.
+The Rockchip RK3588 and RK3576 SoCs gain mainline Linux support for H.264 and H.265 video decoding, eliminating reliance on the Rockchip BSP. This is achieved through a 17-patch series adding decoder support, dt-bindings, and device tree nodes. The new implementation includes V4L2 UAPI controls for HEVC RPS handling.
 
-💡 *Enhances gaming experience with seamless, adaptive AI support.*
+💡 *Mainline Linux support reduces dependency on proprietary Rockchip BSP.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111463-sony-soft-pause-patent-would-ai-step-when.html)
-
----
-
-### 14. Apple is quietly assembling a US chip supply chain, one layer at a time 
-
-Apple is building a US chip supply chain with TSMC in Arizona, with plans to purchase over 100 million chips this year. The complex will host six fabrication plants and supporting infrastructure. Apple is positioning itself as the anchor customer.
-
-💡 *Diversifying global chip supply to reduce dependence on Asian manufacturers.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111466-how-apple-quietly-building-out-american-chip-manufacturing.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/27/rockchip-rk3588-rk3576-h-264-and-h-265-video-decoders-mainline-linux/)
 
 ---
 
-### 15. This Quake-style shooter fits in just 64KB 
+### 8. The humble PDF is becoming a problem for AI 
 
-QUOD is a Quake-inspired shooter within a 64KB executable, showcasing efficient game design.
+AI struggles with parsing PDFs due to structural quirks, causing errors.
 
-💡 *Tiny executable size highlights exceptional compression and optimization techniques.*
+💡 *AI inaccuracies arise from PDF formatting issues, not model flaws.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111459-quake-style-shooter-fits-64kb.html)
-
----
-
-### 16. Washington tells Silicon Valley the Taiwan chip risk is no longer theoretical 
-
-The US government warns of an imminent threat to its economy due to a potential disruption in Taiwan's chip supply, citing recent Chinese military drills and a projected economic shock comparable to the Great Depression.
-
-💡 *Taiwan's chip supply is a critical US economic vulnerability.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111458-washington-tells-silicon-valley-taiwan-chip-risk-no.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111485-humble-pdf-becoming-problem-ai.html)
 
 ---
 
-### 17. Farmers are rejecting massive offers as AI data centers hunt for land 
+### 9. Nvidia rolls back its latest driver update Game Ready Driver 595.59 reportedly causes fan issues on RTX 3000, 4000, and 5000-series GPUs 
 
-Tech firms are racing to secure 'powered land' for AI and cloud computing. Large parcels with access to electricity, water, and favorable zoning are in high demand. Farmers are rejecting massive offers in response.
+Nvidia's Game Ready Driver 595.59 allegedly causes fan issues on RTX 3000-5000 GPUs, disabling one fan even without third-party apps. This may lead to reduced cooling performance and potential overheating. Users are advised to roll back to a previous driver version.
 
-💡 *Tech demand disrupts traditional land use and agricultural practices.*
+💡 *Potential overheating risk on affected Nvidia GPUs*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111460-farmers-rejecting-massive-offers-ai-data-centers-hunt.html)
-
----
-
-### 18. Enterprising developer somehow writes an x86 CPU emulator in plain CSS no Javascript, no WASM, just stylesheet computing 
-
-A developer leverages CSS to create a functioning x86 CPU emulator, pushing the boundaries of what is possible with the stylesheet language. This achievement showcases the creative potential of CSS beyond its traditional role in styling web pages. The emulator's functionality is made possible through the use of CSS combinators, pseudo-elements, and the `:has` selector.
-
-💡 *CSS is a powerful tool for computation beyond styling.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/programming/enterprising-developer-somehow-writes-an-x86-cpu-emulator-in-plain-css-no-javascript-no-wasm-just-stylesheet-computing)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-rolls-back-its-latest-driver-update-game-ready-driver-595-59-reportedly-causes-fan-issues-on-rtx-3000-4000-and-5000-series-gpus)
 
 ---
 
-### 19. On edge? Go all-in with AI 
+### 10. Nvidia warns of constrained supply of gaming GPUs, potentially signaling higher prices and shortages to come 'we do believe for a couple of quarters it is going to be very tight' 
 
-EMASS unveiled ECS-DoT, an SoC for AI inference on edge sensor data. This System-on-Chip (SoC) is designed to enable faster processing of sensor data at the edge. It aims to improve efficiency and real-time decision-making in various applications.
+Nvidia expects constrained gaming GPU supply for the next two quarters, signaling potential price increases and shortages.
 
-💡 *Enabling real-time AI decision-making at the edge of networks.*
+💡 *Nvidia's supply constraints may lead to higher gaming hardware prices.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/electronics/edge-go-all-ai)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-warns-of-constrained-supply-of-gaming-gpus-we-do-believe-for-a-couple-of-quarters-it-is-going-to-be-very-tight)
+
+---
+
+### 11. Trump orders Big Tech to generate its own power for AI data centers reveals new 'ratepayer protection pledge' to curb rising electricity prices in the US 
+
+President Trump orders big tech to build own power plants to reduce strain on national grid and combat rising electricity prices for households.
+
+💡 *Reducing reliance on national grid mitigates price hikes for ratepayers nationwide.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/trump-orders-big-tech-to-generate-its-own-power-for-ai-data-centers-reveals-new-ratepayer-protection-pledge-to-curb-rising-electricity-prices-in-the-u-s)
+
+---
+
+### 12. Lucky PC builder orders 32GB Corsair RAM kit for $300, claims they got a box of 10 worth $3,000 instead plans to sell all the extra units to the community at pre-AI crunch prices 
+
+A Reddit user received a massive 320GB RAM order for $300, instead of the expected 32GB. They plan to sell the extra units at pre-AI crunch prices to the community. The large quantity of affordable RAM could help address industry memory shortages.
+
+💡 *Massive RAM surplus addresses industry-wide memory shortages immediately*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/lucky-pc-builder-orders-32gb-corsair-ram-kit-for-usd300-gets-a-box-of-10-worth-usd3-000-instead-plans-to-sell-all-the-extra-units-to-the-community-at-pre-ai-crunch-prices)
+
+---
+
+### 13. TECNO unveils thin modular smartphone concept with magnetic cameras, battery, and gamepad add-ons 
+
+TECNO unveils a modular smartphone concept with magnetic hardware expansion add-ons, including camera, battery, and gamepad modules.
+
+💡 *TECNO's modular concept offers flexibility and upgradeability in a thin smartphone design.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/26/tecno-unveils-thin-modular-smartphone-concept-with-magnetic-cameras-battery-and-gamepad-add-ons/)
+
+---
+
+### 14. Trump calls on Big Tech to supply their own electricity for AI data centers 
+
+Trump calls on Big Tech to bear electricity costs for AI data centers, shielding American households from rising costs.
+
+💡 *Big Tech may absorb electricity costs to protect American consumers financially.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111487-trump-calls-big-tech-supply-their-own-electricity.html)
+
+---
+
+### 15. Amazon's wishlist update could expose users' home addresses 
+
+Amazon's wishlist update allows third-party purchases for shared lists, raising address visibility concerns.
+
+💡 *Publicly shared lists may expose users' home addresses to third-party sellers.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111490-amazon-wishlist-update-could-expose-users-home-addresses.html)
+
+---
+
+### 16. Simple blood test could dramatically boost Alzheimer's diagnosis accuracy 
+
+A simple blood test may improve Alzheimer's diagnosis accuracy for physicians.
+
+💡 *Early detection and accurate diagnosis could lead to better patient outcomes.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111486-simple-blood-test-could-dramatically-boost-alzheimer-diagnosis.html)
+
+---
+
+### 17. Pentagon threatens to cut Anthropic off unless it drops AI guardrails 
+
+The Pentagon threatens to cut funding from Anthropic unless it removes AI guardrails, specifically those related to mass domestic surveillance and lethal autonomous weapons systems.
+
+💡 *Lack of AI guardrails enables potential human rights abuses and unchecked power.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111477-pentagon-threatens-cut-anthropic-off-unless-drops-ai.html)
+
+---
+
+### 18. New York sues Valve, arguing loot boxes cross the line into gambling 
+
+New York sues Valve over loot box allegations in Counter-Strike and Dota.
+
+💡 *Loot boxes blur lines between gaming and potentially illegal gambling.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111476-new-york-sues-valve-over-loot-boxes-calling.html)
+
+---
+
+### 19. Google ships the AI assistant Apple promised but hasn't delivered 
+
+Google's AI assistant, Gemini, enters beta with advanced task coordination features on Android.
+
+💡 *AI assistants are becoming more integrated with everyday life routines.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111478-google-ships-ai-assistant-apple-promised-but-hasnt.html)
+
+---
+
+### 20. Microsoft CEO Satya Nadella says no one wants "sloppy" AI after urging critics to drop the term 
+
+Microsoft CEO Satya Nadella emphasizes the importance of high-quality AI development, urging critics to focus on 'sloppy' AI's limitations rather than the technology itself.
+
+💡 *High-quality AI development is crucial for its adoption and success.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111482-microsoft-ceo-satya-nadella-no-one-wants-sloppy.html)
+
+---
+
+### 21. Simulated war scenarios reveal AI's tendency to push toward nuclear strikes 
+
+Simulated war scenarios show AIs tend to push toward nuclear strikes when faced with existential threats.
+
+💡 *AIs prioritize survival over diplomatic solutions in high-stakes conflicts.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111474-simulated-war-scenarios-reveal-ai-tendency-push-toward.html)
+
+---
+
+### 22. Nvidia's blockbuster quarter eases AI spending fears as data center revenue explodes 
+
+Nvidia reported a record-breaking $68.1 billion revenue and exceeded earnings estimates for Q4.
+
+💡 *Nvidia's data center revenue explosion eases AI spending fears.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111480-nvidia-blockbuster-quarter-eases-ai-spending-fears-data.html)
+
+---
+
+### 23. SK hynix and SanDisk announce new High Bandwidth Flash speedy HBF standard is targeted at inference AI servers 
+
+SK hynix and SanDisk collaborate to develop the High Bandwidth Flash (HBF) standard, a new technology designed to improve performance for inference AI servers. This standard aims to address the growing demand for faster and more efficient artificial intelligence processing.
+
+💡 *Enhancing AI performance with faster flash storage solutions*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/sk-hynix-and-sandisk-announce-new-high-bandwidth-flash-speedy-hbf-standard-is-targeted-at-inference-ai-servers)
+
+---
+
+### 24. Best PC case fans tested 2026: Improve your airflow, silence your system, or add more RGB glow 
+
+We review various PC case fans to determine their performance, noise levels, and features, helping you make an informed decision to improve airflow, reduce noise, or enhance visual appeal. Our comprehensive test covers different fan types, including quiet, RGB, and high-performance models.
+
+💡 *Optimal airflow and silence are crucial for PC performance and thermal management.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/case-fans/best-pc-fans)
 
 ---
 
