@@ -1,175 +1,153 @@
 # 💻 Hardware
-**Week of February 27, 2026**
+**Week of February 28, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 16
-- **Report generated:** 2026-02-27 09:26
+- **Articles this week:** 14
+- **Report generated:** 2026-02-28 09:00
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Arduino Matter Discovery Bundle educational kit combines Arduino Nano Matter with three Modulino modules ⭐
+### 1. Intel mobile CPUs have achieved up to 95x performance uplift over the past two decades benchmarking the gains from 45nm Penryn to 18A Panther Lake ⭐
 
-Arduino has announced the Arduino Matter Discovery Bundle, an educational kit for learning Matter-over-Thread smart home devices. The kit includes the Arduino Nano Matter development board and three Qwiic-based Modulino nodes: a Latch Relay, a Distance module, and a Thermo module. It supports platforms like Apple HomeKit, Google Home, and Amazon Alexa.
+Intel mobile CPUs have shown significant performance improvements over 18 years, with a 95x uplift from 45nm Penryn to 18A Panther Lake. This is based on benchmarking 15 Intel mobile processors by Phoronix. The results highlight Intel's progress in mobile processor technology.
 
-💡 *Simplifying Matter-over-Thread smart home development with a comprehensive educational kit*
+💡 *Intel's relentless advancements drive mobile performance and efficiency.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/26/arduino-matter-discovery-bundle-educational-kit-combines-arduino-nano-matter-with-three-modulino-modules/)
-
----
-
-### 2. Asus ROG Rapture GT-BE19000Ai Wi-Fi 7 gaming router review Bringing Edge AI to the consumer router market ⭐
-
-The Asus ROG Rapture GT-BE19000Ai excels in performance and expandability, but comes with a steep price tag. This high-end gaming router boasts cutting-edge Wi-Fi 7 technology and advanced AI-powered features. However, its premium price may be a significant deterrent for many users.
-
-💡 *AI-powered routers bring advanced gaming performance to the masses*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/asus-rog-rapture-gt-be19000ai-wi-fi-7-gaming-router-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-mobile-cpus-have-achieved-up-to-95x-performance-uplift-over-the-past-two-decades-benchmarking-the-gains-from-45nm-penryn-to-18a-panther-lake)
 
 ---
 
-### 3. Lepton XDS dual-camera module combines 160 x 120 thermal imager with 5MP RGB camera ⭐
+### 2. M5Stack Unit PoE-P4 A tiny PoE-powered ESP32-P4 development kit with MIPI DSI/CSI and USB-C connectors ⭐
 
-The Teledyne FLIR Lepton XDS module combines a thermal camera with a 5MP RGB camera, optimized for various applications.
+The M5Stack Unit PoE-P4 is a tiny, PoE-powered ESP32-P4 development kit with various interfaces. It supports IEEE 802.3at PoE and integrates a 10/100Mbps Ethernet PHY. This module is suitable for various IoT applications.
 
-💡 *Enhanced thermal imaging for real-time monitoring and analysis in diverse industries.*
+💡 *Enables IoT applications with single-cable power and data connectivity.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/27/lepton-xds-dual-camera-module-combines-160-x-120-thermal-imager-with-5mp-rgb-camera/)
-
----
-
-### 4. Corsair Sabre v2 Pro Wireless CF review: Feels like carbon fiber 
-
-The Corsair Sabre v2 Pro Wireless CF is a lightweight wireless mouse made of carbon fiber, offering decent performance with a premium carrying case, but comes at a price of $200.
-
-💡 *Premium wireless mouse for gamers comes with high price tag*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/corsair-sabre-v2-pro-wireless-cf-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/27/m5stack-unit-poe-p4-a-tiny-poe-powered-esp32-p4-development-kit-with-mipi-dsi-csi-and-usb-c-connectors/)
 
 ---
 
-### 5. Save a massive $1,570 on this Lenovo Legion gaming PC with an Nvidia GeForce RTX 5070 Ti just $2,199.99 for 4K-ready rig with a 24-core Intel CPU, 32GB of DDR5 RAM, and a 1TB SSD 
+### 3. Corsair Sabre v2 Pro Wireless MG Review: Not enough magnesium? 
 
-Save 41% on a 4K-ready gaming PC with Intel Core Ultra 285K CPU, Nvidia GeForce RTX 5070 Ti GPU, 32GB DDR5 RAM, and 1TB SSD for $2,199.99.
+Corsair's Sabre v2 Pro Wireless MG weighs less, priced at $150. It features a perforated magnesium shell, making it more affordable than the carbon fiber version. However, the price may still be a barrier for some users.
 
-💡 *Unbeatable value for top-tier gaming performance and specs.*
+💡 *Lower price comes at the cost of reduced material quality.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-a-massive-usd1-570-on-this-lenovo-legion-gaming-pc-with-an-nvidia-geforce-rtx-5070-ti-just-usd2-199-99-for-4k-ready-rig-with-a-24-core-intel-cpu-32gb-of-ddr5-ram-and-a-1tb-ssd)
-
----
-
-### 6. Shave $150 off the bill with this 32GB DDR5-6400 RAM and Asus Rog Strix B850 motherboard bundle, just $449 or opt for 64GB and save $210 
-
-Newegg is offering bundle deals on Asus Rog Strix B850 motherboard with Patriot Viper Venom RAM, with options to save $150 or $210 off the total price.
-
-💡 *Cost-effective upgrades for gamers and content creators available now.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/shave-usd150-off-the-bill-with-this-32gb-ddr5-6400-ram-and-asus-rog-strix-b850-motherboard-bundle-just-usd449-or-opt-for-64gb-and-save-usd210)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/corsair-sabre-v2-pro-wireless-mg-review)
 
 ---
 
-### 7. Trump orders Big Tech to generate its own power for AI data centers reveals new 'ratepayer protection pledge' to curb rising electricity prices in the US 
+### 4. RayNeo Air 4 Pro AR glasses review: Now enhanced with HDR10 and enhanced audio 
 
-President Trump orders big tech to build own power plants to reduce strain on national grid and combat rising electricity prices for households.
+The RayNeo Air 4 Pro AR glasses offer impressive performance and value, now enhanced with HDR10 and improved audio capabilities.
 
-💡 *Reducing reliance on national grid mitigates price hikes for ratepayers nationwide.*
+💡 *Enhanced HDR10 and audio elevate AR glasses to new heights of immersion.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/trump-orders-big-tech-to-generate-its-own-power-for-ai-data-centers-reveals-new-ratepayer-protection-pledge-to-curb-rising-electricity-prices-in-the-u-s)
-
----
-
-### 8. HP says memory costs doubled in one quarter, now account for 35% of PC build materials 
-
-HP reports memory costs doubled in one quarter, now accounting for 35% of PC build materials. To mitigate this, the company has secured long-term supply agreements and qualified new suppliers.
-
-💡 *Memory price surge threatens HP's PC profitability margins significantly*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/hp-says-memory-costs-doubled-to-35-percent-of-pc-build-materials-in-one-quarter)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/rayneo-air-4-pro-ar-glasses-review)
 
 ---
 
-### 9. MSI's $80 AMD motherboards with DDR4 support swoop in to rescue gamers amid the global RAM crisis AM4 emerges as the unexpected hero with RAM prices skyrocketing 
+### 5. Razer launches $130 laptop sleeve featuring two wireless charging pads Base variant with no tech costs $80, supports up to 16-inch devices 
 
-MSI releases affordable AMD motherboards with DDR4 support for previous-gen Ryzen processors on the AM4 socket, offering budget-conscious gamers a viable option during the global RAM crisis.
+Razer released two laptop sleeves: one basic ($80) and a high-tech variant ($130) with wireless charging pads.
 
-💡 *Budget AMD options provide relief for gamers amidst RAM shortages.*
+💡 *Convenience and multi-device charging for on-the-go users.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/msis-usd80-amd-motherboards-with-ddr4-support-swoop-in-to-rescue-gamers-amid-the-global-ram-crisis-am4-emerges-as-the-unexpected-hero-with-ram-prices-skyrocketing)
-
----
-
-### 10. Testing CPU scaling in Resident Evil Requiem and why we weren t able to finish the job 
-
-We tested CPU scaling in Resident Evil Requiem, encountering results of interest. However, Capcom's use of Denuvo Anti-Tamper hindered testing completion. A full suite of CPUs could not be processed.
-
-💡 *Denuvo Anti-Tamper hinders comprehensive CPU scaling test suite completion.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/testing-cpu-scaling-in-resident-evil-requiem-and-why-we-werent-able-to-finish-the-job)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/razer-launches-usd130-laptop-sleeve-featuring-two-wireless-charging-pads-base-variant-with-no-tech-costs-usd80-supports-up-to-16-inch-devices)
 
 ---
 
-### 11. Lucky PC builder orders 32GB Corsair RAM kit for $300, claims they got a box of 10 worth $3,000 instead plans to sell all the extra units to the community at pre-AI crunch prices 
+### 6. ESP32-C5 bug advisory identifies and fixes PSRAM and sleep coexistence issues 
 
-A Reddit user received a massive 320GB RAM order for $300, instead of the expected 32GB. They plan to sell the extra units at pre-AI crunch prices to the community. The large quantity of affordable RAM could help address industry memory shortages.
+Espressif Systems has released a bug advisory for ESP32-C5 chips, addressing PSRAM and sleep stability issues.
 
-💡 *Massive RAM surplus addresses industry-wide memory shortages immediately*
+💡 *Fixing PSRAM and sleep coexistence bugs enhances ESP32-C5 microcontroller reliability and stability.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/lucky-pc-builder-orders-32gb-corsair-ram-kit-for-usd300-gets-a-box-of-10-worth-usd3-000-instead-plans-to-sell-all-the-extra-units-to-the-community-at-pre-ai-crunch-prices)
-
----
-
-### 12. Valve says it misreported VRAM capacity on some graphics cards in Steam Hardware Surveys latest data depicting 30% adoption of 8GB GPUs now foggy 
-
-Valve admits to misreporting VRAM capacity in Steam Hardware Survey, affecting GPU adoption data.
-
-💡 *GPU adoption data reliability is compromised by Valve's data reporting error.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/valve-says-it-misreported-vram-capacity-on-some-graphics-cards-in-steam-hardware-surveys-latest-data-depicting-30-percent-adoption-of-8gb-gpus-now-foggy)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/28/esp32-c5-bug-advisory-identifies-and-fixes-psram-and-sleep-coexistence-issues/)
 
 ---
 
-### 13. TECNO unveils thin modular smartphone concept with magnetic cameras, battery, and gamepad add-ons 
+### 7. Microsoft expands Windows 365 Cloud PC thin clients to Asus and Dell hardware 
 
-TECNO unveils a modular smartphone concept with magnetic hardware expansion add-ons, including camera, battery, and gamepad modules.
+Microsoft expands Windows 365 Cloud PC thin clients to Asus and Dell hardware, offering customers a variable monthly subscription-based experience.
 
-💡 *TECNO's modular concept offers flexibility and upgradeability in a thin smartphone design.*
+💡 *Cloud-based computing streamlines modern workplaces with flexible, subscription-based solutions.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/26/tecno-unveils-thin-modular-smartphone-concept-with-magnetic-cameras-battery-and-gamepad-add-ons/)
-
----
-
-### 14. HP warns RAM now makes up 35% of the cost of building a PC 
-
-HP Inc. reports that RAM prices have doubled, increasing its share of PC costs from 15% to 35%. This drastic rise in memory costs may have significant implications for PC manufacturers and consumers. The shift in costs could impact PC pricing and affordability.
-
-💡 *Dramatic RAM price hike threatens PC affordability and pricing stability.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111472-hp-warns-ram-now-makes-up-35-cost.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111505-microsoft-expands-windows-365-cloud-pc-thin-clients.html)
 
 ---
 
-### 15. SK hynix and SanDisk announce new High Bandwidth Flash speedy HBF standard is targeted at inference AI servers 
+### 8. Perplexity launches Computer, wants AI to run tasks for months, not minutes 
 
-SK hynix and SanDisk collaborate to develop the High Bandwidth Flash (HBF) standard, a new technology designed to improve performance for inference AI servers. This standard aims to address the growing demand for faster and more efficient artificial intelligence processing.
+Rather than relying on a single model, Perplexity AI's Computer system functions as an orchestrator across multiple models. Anthropic's Claude Opus 4.6 serves as the primary reasoning engine, while Gemini handles deep research tasks. Nano Banana generates images, Veo 3.1 produces video, Grok executes lightweight, speed-optimized tasks, and OpenAI's ChatGPT... Read Entire Article
 
-💡 *Enhancing AI performance with faster flash storage solutions*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/sk-hynix-and-sandisk-announce-new-high-bandwidth-flash-speedy-hbf-standard-is-targeted-at-inference-ai-servers)
+🔗 [Read Full Article](https://www.techspot.com/news/111499-perplexity-launches-computer-wants-ai-run-tasks-months.html)
 
 ---
 
-### 16. Best PC case fans tested 2026: Improve your airflow, silence your system, or add more RGB glow 
+### 9. Grab Razer s officially licensed Pok mon-themed gaming peripherals keyboards, mice, and headsets celebrate 30 years of the franchise 
 
-We review various PC case fans to determine their performance, noise levels, and features, helping you make an informed decision to improve airflow, reduce noise, or enhance visual appeal. Our comprehensive test covers different fan types, including quiet, RGB, and high-performance models.
+Razer releases limited-edition Pokémon-themed gaming peripherals to celebrate 30 years of the franchise. These products include keyboards, mice, headsets, and deskpads with iconic Pokémon designs. Fans can now level up their gaming setup with Pokémon flair.
 
-💡 *Optimal airflow and silence are crucial for PC performance and thermal management.*
+💡 *Pokémon fans can now enhance their gaming experiences with official Razer peripherals.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/case-fans/best-pc-fans)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/grab-razers-pokemon-themed-gaming-peripherals-celebrating-30-years-of-the-franchise)
+
+---
+
+### 10. Behind the scenes of our massive CPU retest for Bench testing at 1080p, choosing new apps, and gathering data for a decade of CPUs 
+
+We're retesting a decade's worth of CPUs for our CPU hierarchy and benchmark database, giving Tom's Hardware Premium users an exclusive behind-the-scenes look at the process. This massive retest aims to gather accurate data and provide the most up-to-date information on CPU performance. Our team is choosing new apps and settings to ensure thorough and reliable benchmarking.
+
+💡 *Decade-long CPU data helps inform future tech purchasing decisions accurately.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/behind-the-scenes-of-our-massive-cpu-retest-for-bench-testing-at-1080p-choosing-new-apps-and-gathering-data-for-a-decade-of-cpus)
+
+---
+
+### 11. Finance techie says they cloned Bloomberg's $30k-a-year Terminal with Perplexity's Computer project draws both praise and sizable skepticism 
+
+A finance techie claims to have cloned Bloomberg's Terminal using AI, drawing both praise and skepticism. The project uses Perplexity's Computer, an AI tool, to recreate the Terminal's functionality. The project's goal is to make the Terminal's features more accessible and affordable.
+
+💡 *Democratizing financial data access with AI-powered alternatives.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/finance-techie-says-they-cloned-bloombergs-usd30k-a-year-terminal-with-perplexitys-computer-project-draws-both-praise-and-sizable-skepticism)
+
+---
+
+### 12. Klevv Cras V RGB DDR5-9600 C46 2x48GB review: Binned for pure speed, not your wallet 
+
+Klevv's DDR5-9600 memory kit offers extreme speeds, but at a premium price. This kit is binned for ultimate performance, making it a great choice for enthusiasts and overclockers. However, its affordability might be a concern for budget-conscious buyers.
+
+💡 *High-speed DDR5 memory for extreme performance comes at a steep cost.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/klevv-cras-v-rgb-ddr5-9600-c46-2x48gb-review)
+
+---
+
+### 13. Modder builds a CPU cooler powered by "infinite" ice from a hacked ice maker 
+
+A modder creates a CPU cooler using 'infinite' ice from a hacked ice maker, forming a closed-loop cooling system that recycles meltwater to make new ice.
+
+💡 *Closed-loop cooling systems can efficiently manage thermal waste with minimal resource consumption.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111496-modder-builds-cpu-cooler-powered-infinite-ice-hacked.html)
+
+---
+
+### 14. Were We Wrong About Ryzen's Best Feature All Along? 
+
+Ryzen's platform longevity is reevaluated as Nova Lake and Zen 6 approach, questioning its impact on the CPU market.
+
+💡 *Socket support longevity was a crucial factor in Ryzen's market success.*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3092-ryzen-best-feature/)
 
 ---
 

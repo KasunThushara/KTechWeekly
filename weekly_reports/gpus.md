@@ -1,95 +1,65 @@
 # 🎮 GPUs
-**Week of February 27, 2026**
+**Week of February 28, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-02-27 09:26
+- **Articles this week:** 5
+- **Report generated:** 2026-02-28 09:00
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD FSR 4.1 update leaks with big image quality gains for Radeon GPUs 
+### 1. ISSCC 2026: AMD discloses how the Instinct MI355X doubled per-CU throughput despite lower compute unit count 'We are actually matching the performance of the more expensive and complex GB200' 
 
-AMD's FSR 4.1 update appears to bring significant image quality gains for Radeon GPUs. A leaked beta DLL file has prompted users to share comparisons, showing reduced blur. The update is not officially announced yet.
+AMD's Instinct MI355X doubles per-CU throughput while reducing compute units, matching the GB200's performance.
 
-💡 *Improved image quality on Radeon GPUs is a major advantage.*
+💡 *Efficient architecture design can outperform higher complexity and cost counterparts.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111491-amd-fsr-41-dll-leak-shows-major-image.html)
-
----
-
-### 2. Nvidia rolls back its latest driver update Game Ready Driver 595.59 reportedly causes fan issues on RTX 3000, 4000, and 5000-series GPUs 
-
-Nvidia's Game Ready Driver 595.59 allegedly causes fan issues on RTX 3000-5000 GPUs, disabling one fan even without third-party apps. This may lead to reduced cooling performance and potential overheating. Users are advised to roll back to a previous driver version.
-
-💡 *Potential overheating risk on affected Nvidia GPUs*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-rolls-back-its-latest-driver-update-game-ready-driver-595-59-reportedly-causes-fan-issues-on-rtx-3000-4000-and-5000-series-gpus)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/inside-the-instinct-mi355x)
 
 ---
 
-### 3. Asus ROG Ally receives timely GPU driver update despite rumors of AMD Ryzen Z1 Extreme deprecation new release follows recent speculation that driver support for some Windows 11 handhelds had ended 
+### 2. Grab Razer s officially licensed Pok mon-themed gaming peripherals keyboards, mice, and headsets celebrate 30 years of the franchise 
 
-The Asus ROG Ally has received a new GPU driver update, alleviating concerns about its deprecation. The update suggests that AMD will continue to support the device. However, questions remain about the long-term viability of the handheld.
+Razer releases limited-edition Pokémon-themed gaming peripherals to celebrate 30 years of the franchise. These products include keyboards, mice, headsets, and deskpads with iconic Pokémon designs. Fans can now level up their gaming setup with Pokémon flair.
 
-💡 *AMD extends support for Asus ROG Ally handheld gaming device*
+💡 *Pokémon fans can now enhance their gaming experiences with official Razer peripherals.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-ally-receives-timely-gpu-driver-update-despite-rumors-of-amd-ryzen-z1-extreme-deprecation-new-release-follows-recent-speculation-that-driver-support-for-some-windows-11-handhelds-had-ended)
-
----
-
-### 4. Nvidia warns of constrained supply of gaming GPUs, potentially signaling higher prices and shortages to come 'we do believe for a couple of quarters it is going to be very tight' 
-
-Nvidia expects constrained gaming GPU supply for the next two quarters, signaling potential price increases and shortages.
-
-💡 *Nvidia's supply constraints may lead to higher gaming hardware prices.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-warns-of-constrained-supply-of-gaming-gpus-we-do-believe-for-a-couple-of-quarters-it-is-going-to-be-very-tight)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/grab-razers-pokemon-themed-gaming-peripherals-celebrating-30-years-of-the-franchise)
 
 ---
 
-### 5. Save a massive $1,570 on this Lenovo Legion gaming PC with an Nvidia GeForce RTX 5070 Ti just $2,199.99 for 4K-ready rig with a 24-core Intel CPU, 32GB of DDR5 RAM, and a 1TB SSD 
+### 3. Amazon invests $50 billion in OpenAI, comitting to 2 gigawatts of Trainium silicon AWS to become exclusive cloud distributor for Frontier enterprise platform 
 
-Save 41% on a 4K-ready gaming PC with Intel Core Ultra 285K CPU, Nvidia GeForce RTX 5070 Ti GPU, 32GB DDR5 RAM, and 1TB SSD for $2,199.99.
+Amazon invests $50 billion in OpenAI, committing to train large-scale AI models.
 
-💡 *Unbeatable value for top-tier gaming performance and specs.*
+💡 *Amazon secures exclusive cloud distribution for OpenAI's Frontier enterprise platform.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-a-massive-usd1-570-on-this-lenovo-legion-gaming-pc-with-an-nvidia-geforce-rtx-5070-ti-just-usd2-199-99-for-4k-ready-rig-with-a-24-core-intel-cpu-32gb-of-ddr5-ram-and-a-1tb-ssd)
-
----
-
-### 6. MSI's $80 AMD motherboards with DDR4 support swoop in to rescue gamers amid the global RAM crisis AM4 emerges as the unexpected hero with RAM prices skyrocketing 
-
-MSI releases affordable AMD motherboards with DDR4 support for previous-gen Ryzen processors on the AM4 socket, offering budget-conscious gamers a viable option during the global RAM crisis.
-
-💡 *Budget AMD options provide relief for gamers amidst RAM shortages.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/msis-usd80-amd-motherboards-with-ddr4-support-swoop-in-to-rescue-gamers-amid-the-global-ram-crisis-am4-emerges-as-the-unexpected-hero-with-ram-prices-skyrocketing)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/amazon-invests-50-billion-in-openai)
 
 ---
 
-### 7. Valve says it misreported VRAM capacity on some graphics cards in Steam Hardware Surveys latest data depicting 30% adoption of 8GB GPUs now foggy 
+### 4. Nvidia DGX Spark gets $700 price hike as memory shortages bite Founders Edition price jumps 18% to $4,699, up from $3,999 
 
-Valve admits to misreporting VRAM capacity in Steam Hardware Survey, affecting GPU adoption data.
+Nvidia has increased the price of the DGX Spark by $700 due to constrained memory supplies, raising the Founders Edition price to $4,699.
 
-💡 *GPU adoption data reliability is compromised by Valve's data reporting error.*
+💡 *AI hardware demand strains global availability and drives up component costs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/valve-says-it-misreported-vram-capacity-on-some-graphics-cards-in-steam-hardware-surveys-latest-data-depicting-30-percent-adoption-of-8gb-gpus-now-foggy)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/nvidia-dgx-spark-gets-18-percent-price-increase-as-memory-shortages-bite-founders-edition-now-usd4-699-up-from-usd3-999)
 
 ---
 
-### 8. Nvidia's blockbuster quarter eases AI spending fears as data center revenue explodes 
+### 5. Save $465 and get an 8TB SSD for $715 when paired with an RTX 5070 Newegg Combo gets you a new GPU and a WD Black SN850X at pre-RAM crunch prices 
 
-Nvidia reported a record-breaking $68.1 billion revenue and exceeded earnings estimates for Q4.
+The Newegg combo offers a discounted price for an RTX 5070 GPU and an 8TB WD Black SN850X SSD.
 
-💡 *Nvidia's data center revenue explosion eases AI spending fears.*
+💡 *Significant storage upgrade at discounted gaming graphics combo price point*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111480-nvidia-blockbuster-quarter-eases-ai-spending-fears-data.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/save-usd465-and-get-an-8tb-ssd-for-usd715-when-paired-with-an-rtx-5070-newegg-combo-gets-you-a-new-gpu-and-a-wd-black-sn850x-at-pre-ram-crunch-prices)
 
 ---
 

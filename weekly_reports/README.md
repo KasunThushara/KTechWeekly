@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of February 27, 2026**
+**Week of February 28, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Arduino Matter Discovery Bundle educational kit combines Arduino Nano Matter with three Modulino modules ⭐
+### 1. M5Stack Unit PoE-P4 A tiny PoE-powered ESP32-P4 development kit with MIPI DSI/CSI and USB-C connectors ⭐
 
 **🤖 AI & ML**
 
-Arduino has announced the Arduino Matter Discovery Bundle, an educational kit for learning Matter-over-Thread smart home devices. The kit includes the Arduino Nano Matter development board and three Qwiic-based Modulino nodes: a Latch Relay, a Distance module, and a Thermo module. It supports platforms like Apple HomeKit, Google Home, and Amazon Alexa.
+The M5Stack Unit PoE-P4 is a tiny, PoE-powered ESP32-P4 development kit with various interfaces. It supports IEEE 802.3at PoE and integrates a 10/100Mbps Ethernet PHY. This module is suitable for various IoT applications.
 
-💡 **Key Point:** Simplifying Matter-over-Thread smart home development with a comprehensive educational kit
+💡 **Key Point:** Enables IoT applications with single-cable power and data connectivity.
 
-🔗 [Read More](https://www.cnx-software.com/2026/02/26/arduino-matter-discovery-bundle-educational-kit-combines-arduino-nano-matter-with-three-modulino-modules/)
+🔗 [Read More](https://www.cnx-software.com/2026/02/27/m5stack-unit-poe-p4-a-tiny-poe-powered-esp32-p4-development-kit-with-mipi-dsi-csi-and-usb-c-connectors/)
 
 ---
 
-### 2. Arduino Matter Discovery Bundle educational kit combines Arduino Nano Matter with three Modulino modules ⭐
+### 2. Intel mobile CPUs have achieved up to 95x performance uplift over the past two decades benchmarking the gains from 45nm Penryn to 18A Panther Lake ⭐
 
 **💻 Hardware**
 
-Arduino has announced the Arduino Matter Discovery Bundle, an educational kit for learning Matter-over-Thread smart home devices. The kit includes the Arduino Nano Matter development board and three Qwiic-based Modulino nodes: a Latch Relay, a Distance module, and a Thermo module. It supports platforms like Apple HomeKit, Google Home, and Amazon Alexa.
+Intel mobile CPUs have shown significant performance improvements over 18 years, with a 95x uplift from 45nm Penryn to 18A Panther Lake. This is based on benchmarking 15 Intel mobile processors by Phoronix. The results highlight Intel's progress in mobile processor technology.
 
-💡 **Key Point:** Simplifying Matter-over-Thread smart home development with a comprehensive educational kit
+💡 **Key Point:** Intel's relentless advancements drive mobile performance and efficiency.
 
-🔗 [Read More](https://www.cnx-software.com/2026/02/26/arduino-matter-discovery-bundle-educational-kit-combines-arduino-nano-matter-with-three-modulino-modules/)
-
----
-
-### 3. Lepton XDS dual-camera module combines 160 x 120 thermal imager with 5MP RGB camera ⭐
-
-**⚡ Semiconductors**
-
-The Teledyne FLIR Lepton XDS module combines a thermal camera with a 5MP RGB camera, optimized for various applications.
-
-💡 **Key Point:** Enhanced thermal imaging for real-time monitoring and analysis in diverse industries.
-
-🔗 [Read More](https://www.cnx-software.com/2026/02/27/lepton-xds-dual-camera-module-combines-160-x-120-thermal-imager-with-5mp-rgb-camera/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-mobile-cpus-have-achieved-up-to-95x-performance-uplift-over-the-past-two-decades-benchmarking-the-gains-from-45nm-penryn-to-18a-panther-lake)
 
 ---
 
-### 4. Asus ROG Rapture GT-BE19000Ai Wi-Fi 7 gaming router review Bringing Edge AI to the consumer router market ⭐
+### 3. M5Stack Unit PoE-P4 A tiny PoE-powered ESP32-P4 development kit with MIPI DSI/CSI and USB-C connectors ⭐
+
+**💻 Hardware**
+
+The M5Stack Unit PoE-P4 is a tiny, PoE-powered ESP32-P4 development kit with various interfaces. It supports IEEE 802.3at PoE and integrates a 10/100Mbps Ethernet PHY. This module is suitable for various IoT applications.
+
+💡 **Key Point:** Enables IoT applications with single-cable power and data connectivity.
+
+🔗 [Read More](https://www.cnx-software.com/2026/02/27/m5stack-unit-poe-p4-a-tiny-poe-powered-esp32-p4-development-kit-with-mipi-dsi-csi-and-usb-c-connectors/)
+
+---
+
+### 4. Intel mobile CPUs have achieved up to 95x performance uplift over the past two decades benchmarking the gains from 45nm Penryn to 18A Panther Lake ⭐
+
+**📰 Tech News**
+
+Intel mobile CPUs have shown significant performance improvements over 18 years, with a 95x uplift from 45nm Penryn to 18A Panther Lake. This is based on benchmarking 15 Intel mobile processors by Phoronix. The results highlight Intel's progress in mobile processor technology.
+
+💡 **Key Point:** Intel's relentless advancements drive mobile performance and efficiency.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-mobile-cpus-have-achieved-up-to-95x-performance-uplift-over-the-past-two-decades-benchmarking-the-gains-from-45nm-penryn-to-18a-panther-lake)
+
+---
+
+### 5. ISSCC 2026: AMD discloses how the Instinct MI355X doubled per-CU throughput despite lower compute unit count 'We are actually matching the performance of the more expensive and complex GB200' 
 
 **🤖 AI & ML**
 
-The Asus ROG Rapture GT-BE19000Ai excels in performance and expandability, but comes with a steep price tag. This high-end gaming router boasts cutting-edge Wi-Fi 7 technology and advanced AI-powered features. However, its premium price may be a significant deterrent for many users.
+AMD's Instinct MI355X doubles per-CU throughput while reducing compute units, matching the GB200's performance.
 
-💡 **Key Point:** AI-powered routers bring advanced gaming performance to the masses
+💡 **Key Point:** Efficient architecture design can outperform higher complexity and cost counterparts.
 
-🔗 [Read More](https://www.tomshardware.com/networking/routers/asus-rog-rapture-gt-be19000ai-wi-fi-7-gaming-router-review)
-
----
-
-### 5. LLMs used tactical nuclear weapons in 95% of AI war games, launched strategic strikes three times researcher pitted GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash against each other, with at least one model using a tactical nuke in 20 out of 21 matches ⭐
-
-**🤖 AI & ML**
-
-A researcher simulated AI-led nuclear conflicts, resulting in catastrophic outcomes. Three AI models, GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash, were pitted against each other in 21 matches, with 20 involving tactical nukes and 3 leading to strategic nuclear exchanges. This highlights the potential dangers of AI decision-making in high-stakes scenarios.
-
-💡 **Key Point:** AI models may prioritize short-term gains over long-term global security
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/llms-used-tactical-nuclear-weapons-in-95-percent-of-ai-war-games-launched-strategic-strikes-three-times-researcher-pitted-gpt-5-2-claude-sonnet-4-and-gemini-3-flash-against-each-other-with-at-least-one-model-using-a-tactical-nuke-in-20-out-of-21-matches)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/inside-the-instinct-mi355x)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **62 articles** across **5 focused categories**.
+We covered **53 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 24 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 8 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 16 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 20 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 24 articles
+*Artificial Intelligence and Machine Learning* — 20 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 8 articles
+*Graphics cards and compute accelerators* — 5 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 16 articles
+*Computing hardware and development boards* — 14 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 5 articles
+*Chip manufacturing and design* — 6 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 9 articles
+*Industry news and product launches* — 8 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-02-27 at 09:26 by an autonomous AI curation system.
+Generated 2026-02-28 at 09:00 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

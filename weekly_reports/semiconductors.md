@@ -1,65 +1,73 @@
 # ⚡ Semiconductors
-**Week of February 27, 2026**
+**Week of February 28, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-02-27 09:26
+- **Articles this week:** 6
+- **Report generated:** 2026-02-28 09:00
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Lepton XDS dual-camera module combines 160 x 120 thermal imager with 5MP RGB camera ⭐
+### 1. Imec's new post-exposure bake method speeds up EUV chipmaking tools, boosting production for the most advanced chips 20% gain in photoresist improvement from increased oxygen concentration 
 
-The Teledyne FLIR Lepton XDS module combines a thermal camera with a 5MP RGB camera, optimized for various applications.
+Imec's new post-exposure bake method boosts EUV chip production by 20% through increased oxygen concentration.
 
-💡 *Enhanced thermal imaging for real-time monitoring and analysis in diverse industries.*
+💡 *Boosting oxygen concentration improves photoresist performance significantly.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/27/lepton-xds-dual-camera-module-combines-160-x-120-thermal-imager-with-5mp-rgb-camera/)
-
----
-
-### 2. Intel Foundry boss leaves for Qualcomm Naga Chandrasekaran takes charge of the unit 
-
-Naga Chandrasekaran becomes Intel Foundry's general manager and Chief Technology Officer, overseeing development of advanced process technologies and day-to-day operations.
-
-💡 *Intel strengthens leadership in semiconductor manufacturing and technology development.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-foundry-boss-leaves-for-qualcomm-naga-chandrasekaran-takes-charge-of-the-unit)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/imecs-new-post-exposure-bake-method-speeds-up-euv-chipmaking-tools-boosting-production-for-the-most-advanced-chips-20-percent-gain-in-photoresist-improvement-from-increased-oxygen-concentration)
 
 ---
 
-### 3. Rockchip RK3588 and RK3576 H.264 and H.265 video decoders gain mainline Linux support 
+### 2. Razer launches $130 laptop sleeve featuring two wireless charging pads Base variant with no tech costs $80, supports up to 16-inch devices 
 
-The Rockchip RK3588 and RK3576 SoCs gain mainline Linux support for H.264 and H.265 video decoding, eliminating reliance on the Rockchip BSP. This is achieved through a 17-patch series adding decoder support, dt-bindings, and device tree nodes. The new implementation includes V4L2 UAPI controls for HEVC RPS handling.
+Razer released two laptop sleeves: one basic ($80) and a high-tech variant ($130) with wireless charging pads.
 
-💡 *Mainline Linux support reduces dependency on proprietary Rockchip BSP.*
+💡 *Convenience and multi-device charging for on-the-go users.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/02/27/rockchip-rk3588-rk3576-h-264-and-h-265-video-decoders-mainline-linux/)
-
----
-
-### 4. Chipmakers still suffering from rare earth shortages, says report US-China trade truce apparently still hasn t eased pressures despite agreement taking place in October last year 
-
-US chipmakers are struggling with rare earth shortages, particularly scandium, due to export license delays from China.
-
-💡 *Rare earth shortages hinder US chipmakers' 5G production progress significantly*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/chipmakers-still-suffering-from-rare-earth-shortages-says-report-us-china-trade-truce-apparently-still-hasnt-eased-pressures-despite-agreement-taking-place-in-october-last-year)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/razer-launches-usd130-laptop-sleeve-featuring-two-wireless-charging-pads-base-variant-with-no-tech-costs-usd80-supports-up-to-16-inch-devices)
 
 ---
 
-### 5. HP warns RAM now makes up 35% of the cost of building a PC 
+### 3. ESP32-C5 bug advisory identifies and fixes PSRAM and sleep coexistence issues 
 
-HP Inc. reports that RAM prices have doubled, increasing its share of PC costs from 15% to 35%. This drastic rise in memory costs may have significant implications for PC manufacturers and consumers. The shift in costs could impact PC pricing and affordability.
+Espressif Systems has released a bug advisory for ESP32-C5 chips, addressing PSRAM and sleep stability issues.
 
-💡 *Dramatic RAM price hike threatens PC affordability and pricing stability.*
+💡 *Fixing PSRAM and sleep coexistence bugs enhances ESP32-C5 microcontroller reliability and stability.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111472-hp-warns-ram-now-makes-up-35-cost.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/02/28/esp32-c5-bug-advisory-identifies-and-fixes-psram-and-sleep-coexistence-issues/)
+
+---
+
+### 4. Hackers can now track your car's location through tire pressure sensors 
+
+Hackers can track vehicle location through unencrypted tire pressure sensors, putting owners at risk. The Tire Pressure Monitoring System (TPMS) transmits data in cleartext, making it vulnerable to hacking. This discovery raises concerns about vehicle security and data protection.
+
+💡 *Vehicle security compromised through unencrypted tire pressure sensor data*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111493-hackers-can-now-track-car-location-through-tire.html)
+
+---
+
+### 5. Rapidus secures $1.7 billion from Japan s government and private investors for 2nm chip production company says it is in active discussions with more than 60 potential customers 
+
+Under the arrangement, the government will initially hold roughly 10% of Rapidus's voting shares and the majority of its stake in non-voting stock.
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-secures-1-7-billion-from-japans-government-and-private-investors)
+
+---
+
+### 6. Broadcom bets on 2nm stacked silicon to rival Nvidia in AI 
+
+Broadcom is developing a 2nm stacked silicon technology to rival Nvidia in AI, increasing data transfer speeds and reducing energy consumption.
+
+💡 *Vertical integration boosts AI performance and efficiency significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111501-broadcom-bets-2nm-stacked-silicon-rival-nvidia-ai.html)
 
 ---
 
