@@ -1,65 +1,45 @@
 # 🎮 GPUs
-**Week of February 28, 2026**
+**Week of March 01, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-02-28 09:00
+- **Articles this week:** 3
+- **Report generated:** 2026-03-01 09:00
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. ISSCC 2026: AMD discloses how the Instinct MI355X doubled per-CU throughput despite lower compute unit count 'We are actually matching the performance of the more expensive and complex GB200' 
+### 1. Nvidia pulls Resident Evil Requiem Game Ready driver over fan control issues 
 
-AMD's Instinct MI355X doubles per-CU throughput while reducing compute units, matching the GB200's performance.
+Nvidia has pulled its February 2026 Game Ready driver due to fan control issues on RTX GPUs, which may cause overheating. The driver, which included optimizations for Resident Evil Requiem, was causing some fans to not turn on or ignore custom fan settings. This has prompted Nvidia to withdraw the driver for further testing.
 
-💡 *Efficient architecture design can outperform higher complexity and cost counterparts.*
+💡 *Nvidia's latest driver poses a risk of overheating due to faulty fan control.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/inside-the-instinct-mi355x)
-
----
-
-### 2. Grab Razer s officially licensed Pok mon-themed gaming peripherals keyboards, mice, and headsets celebrate 30 years of the franchise 
-
-Razer releases limited-edition Pokémon-themed gaming peripherals to celebrate 30 years of the franchise. These products include keyboards, mice, headsets, and deskpads with iconic Pokémon designs. Fans can now level up their gaming setup with Pokémon flair.
-
-💡 *Pokémon fans can now enhance their gaming experiences with official Razer peripherals.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/grab-razers-pokemon-themed-gaming-peripherals-celebrating-30-years-of-the-franchise)
+🔗 [Read Full Article](https://www.techspot.com/news/111507-nvidia-pulls-resident-evil-requiem-game-ready-driver.html)
 
 ---
 
-### 3. Amazon invests $50 billion in OpenAI, comitting to 2 gigawatts of Trainium silicon AWS to become exclusive cloud distributor for Frontier enterprise platform 
+### 2. AMD Ryzen 7 9850X3D vs Intel Core i9-14900K faceoff Intel s Raptor Lake platform continues to be relevant in 2026 
 
-Amazon invests $50 billion in OpenAI, committing to train large-scale AI models.
+AMD's Ryzen 7 9850X3D and Intel's Core i9-14900K are compared in a head-to-head battle. The Ryzen 7 9850X3D leads AMD's gaming lineup, but the Core i9-14900K excels in productivity-focused tasks. Both CPUs offer impressive performance in their respective domains.
 
-💡 *Amazon secures exclusive cloud distribution for OpenAI's Frontier enterprise platform.*
+💡 *Performance depends on task type, gaming or productivity-focused workloads.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/amazon-invests-50-billion-in-openai)
-
----
-
-### 4. Nvidia DGX Spark gets $700 price hike as memory shortages bite Founders Edition price jumps 18% to $4,699, up from $3,999 
-
-Nvidia has increased the price of the DGX Spark by $700 due to constrained memory supplies, raising the Founders Edition price to $4,699.
-
-💡 *AI hardware demand strains global availability and drives up component costs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/nvidia-dgx-spark-gets-18-percent-price-increase-as-memory-shortages-bite-founders-edition-now-usd4-699-up-from-usd3-999)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9850x3d-vs-intel-core-i9-14900k-faceoff)
 
 ---
 
-### 5. Save $465 and get an 8TB SSD for $715 when paired with an RTX 5070 Newegg Combo gets you a new GPU and a WD Black SN850X at pre-RAM crunch prices 
+### 3. Ultra rare floppy disk game twisted and slashed into shards by US Customs or DHL checkers ruined Tsukihime 1999 demo was one of only 50 ever produced 
 
-The Newegg combo offers a discounted price for an RTX 5070 GPU and an 8TB WD Black SN850X SSD.
+A rare 1999 Tsukihime demo floppy disk was destroyed by a shipping or customs check, one of only 50 ever made.
 
-💡 *Significant storage upgrade at discounted gaming graphics combo price point*
+💡 *Historical gaming artifacts are vulnerable to destruction and loss.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/save-usd465-and-get-an-8tb-ssd-for-usd715-when-paired-with-an-rtx-5070-newegg-combo-gets-you-a-new-gpu-and-a-wd-black-sn850x-at-pre-ram-crunch-prices)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/ultra-rare-floppy-disk-game-twisted-and-slashed-into-shards-by-us-customs-or-dhl-checkers-ruined-tsukihime-1999-demo-was-one-of-only-50-ever-produced)
 
 ---
 

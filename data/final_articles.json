@@ -1,383 +1,139 @@
 [
   {
-    "title": "Trump bans Anthropic AI from federal agencies after firm refuses to unlock capabilities Anthropic cites risks of autonomous military applications, mass domestic surveillance",
-    "summary": "Trump bans Anthropic AI from federal agencies due to security concerns.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-orders-federal-agencies-to-ditch-woke-claude",
+    "title": "US military uses a laser to blast a drone out of the sky on the US-Mexico border the target belonged to Customs and Border Protection in the friendly fire incident",
+    "summary": "The US military accidentally shot down a CBP drone with a laser system near the US-Mexico border, mistaking it for a cartel drone. The incident highlights the risks of using advanced military technology in complex environments. An investigation is ongoing to determine the cause and consequences of the friendly fire incident.",
+    "link": "https://www.tomshardware.com/tech-industry/us-military-uses-a-laser-to-blast-a-drone-out-of-the-sky-on-the-us-mexico-border-the-target-belonged-to-customs-and-border-protection-in-the-friendly-fire-incident",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-01T09:00:30.845708",
+    "insight": "Friendly fire incidents can occur with advanced military technology in complex environments"
+  },
+  {
+    "title": "390TB video game archive being taken offline due to skyrocketing RAM, SSD, and hard drive prices AI-driven supply squeeze results in closure of one of the largest online video game archives",
+    "summary": "Myrient, a 390TB video game archive, faces closure due to rising storage and memory costs. The founder spends over $6,000 per month to maintain the project. The archive is set to go offline at the end of March 2026.",
+    "link": "https://www.tomshardware.com/video-games/390tb-video-game-archive-being-taken-offline-due-to-skyrocketing-ram-ssd-and-hard-drive-prices-ai-driven-supply-squeeze-results-in-closure-of-one-of-the-largest-online-video-game-archives",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.618944",
-    "insight": "AI development raises risks of autonomous military and surveillance applications."
+    "processed_date": "2026-03-01T09:00:30.845814",
+    "insight": "Rapidly increasing tech costs squeeze online preservation projects' viability"
   },
   {
-    "title": "Grab Razer s officially licensed Pok mon-themed gaming peripherals keyboards, mice, and headsets celebrate 30 years of the franchise",
-    "summary": "Razer releases limited-edition Pokémon-themed gaming peripherals to celebrate 30 years of the franchise. These products include keyboards, mice, headsets, and deskpads with iconic Pokémon designs. Fans can now level up their gaming setup with Pokémon flair.",
-    "link": "https://www.tomshardware.com/pc-components/grab-razers-pokemon-themed-gaming-peripherals-celebrating-30-years-of-the-franchise",
+    "title": "Memory vendor under fire for imposing hefty 15% depreciation fee on returns despite skyrocketing RAM value user expected RMA replacement but gets hit with a loss instead",
+    "summary": "Silicon Power, a memory vendor, imposed a 15% depreciation fee on a RAM return, resulting in a lower refund than expected. The user, who returned a 16GB DDR4-3200 RAM kit, will receive $46.72, which is not enough to purchase a single 8GB DDR4-3200 RAM stick at current prices. This practice has left the user with significant financial loss.",
+    "link": "https://www.tomshardware.com/pc-components/ram/memory-vendor-under-fire-for-imposing-hefty-15-percent-depreciation-fee-on-returns-despite-skyrocketing-ram-value-user-expected-rma-replacement-but-gets-hit-with-a-loss-instead",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-01T09:00:30.845901",
+    "insight": "High depreciation fees penalize customers for technological advancements"
+  },
+  {
+    "title": "OpenAI raises $110 billion in largest-ever private tech funding round, Nvidia throws in $30 billion AI startup now valued at $730 billion",
+    "summary": "OpenAI raises $110 billion in largest-ever private tech funding round, valuing the AI startup at $730 billion with investments from Amazon, Nvidia, and SoftBank.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-raises-110-billion-in-largest-ever-private-tech-funding-round",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-01T09:00:30.845988",
+    "insight": "Massive funding cements AI dominance and accelerates innovation trajectory."
+  },
+  {
+    "title": "Industry murmurs suggest Sony will no longer release PS5 exclusives on PC New leadership might be willing to forgo PC revenue to fortify console platform",
+    "summary": "Reports suggest Sony will no longer release PS5 exclusives on PC, shifting focus to console exclusivity. This decision may prioritize console platform fortification over PC revenue. First-party AAA games will now be assessed on a game-by-game basis.",
+    "link": "https://www.tomshardware.com/video-games/playstation/industry-murmurs-suggest-sony-will-no-longer-release-ps5-exclusives-on-pc-new-leadership-might-be-willing-to-forgo-pc-revenue-to-fortify-console-platform",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-01T09:00:30.846083",
+    "insight": "Sony prioritizes console exclusivity over PC revenue generation"
+  },
+  {
+    "title": "AMD Ryzen 7 9850X3D vs Intel Core i9-14900K faceoff Intel s Raptor Lake platform continues to be relevant in 2026",
+    "summary": "AMD's Ryzen 7 9850X3D and Intel's Core i9-14900K are compared in a head-to-head battle. The Ryzen 7 9850X3D leads AMD's gaming lineup, but the Core i9-14900K excels in productivity-focused tasks. Both CPUs offer impressive performance in their respective domains.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9850x3d-vs-intel-core-i9-14900k-faceoff",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-01T09:00:30.846202",
+    "insight": "Performance depends on task type, gaming or productivity-focused workloads."
+  },
+  {
+    "title": "Developer's 1994 Linux desktop recreation runs in your browser as a modern web app open-source project brings old-school CDE interface back from the dead and features classic 90s web browser, text editor, and more",
+    "summary": "A GitHub project brings back the 1994 Linux Common Desktop Environment in a browser-based recreation, featuring a pixel-perfect clone of the original Debian interface, along with classic applications such as the CDE file manager, a 90s-era web browser, and a vintage text editor.",
+    "link": "https://www.tomshardware.com/software/linux/nostalgic-developer-recreates-the-1994-linux-desktop-as-a-modern-web-app-for-your-browser-open-source-project-brings-old-school-cde-interface-back-from-the-dead-and-features-classic-90s-web-browser-text-editor-and-more",
     "categories": [
       "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-01T09:00:30.846297",
+    "insight": "Preserving retro tech nostalgia through accessible modern web applications."
+  },
+  {
+    "title": "Ultra rare floppy disk game twisted and slashed into shards by US Customs or DHL checkers ruined Tsukihime 1999 demo was one of only 50 ever produced",
+    "summary": "A rare 1999 Tsukihime demo floppy disk was destroyed by a shipping or customs check, one of only 50 ever made.",
+    "link": "https://www.tomshardware.com/video-games/ultra-rare-floppy-disk-game-twisted-and-slashed-into-shards-by-us-customs-or-dhl-checkers-ruined-tsukihime-1999-demo-was-one-of-only-50-ever-produced",
+    "categories": [
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.619031",
-    "insight": "Pokémon fans can now enhance their gaming experiences with official Razer peripherals."
+    "processed_date": "2026-03-01T09:00:30.846371",
+    "insight": "Historical gaming artifacts are vulnerable to destruction and loss."
   },
   {
-    "title": "Intel mobile CPUs have achieved up to 95x performance uplift over the past two decades benchmarking the gains from 45nm Penryn to 18A Panther Lake",
-    "summary": "Intel mobile CPUs have shown significant performance improvements over 18 years, with a 95x uplift from 45nm Penryn to 18A Panther Lake. This is based on benchmarking 15 Intel mobile processors by Phoronix. The results highlight Intel's progress in mobile processor technology.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-mobile-cpus-have-achieved-up-to-95x-performance-uplift-over-the-past-two-decades-benchmarking-the-gains-from-45nm-penryn-to-18a-panther-lake",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-02-28T08:58:52.619116",
-    "insight": "Intel's relentless advancements drive mobile performance and efficiency."
-  },
-  {
-    "title": "Amazon invests $50 billion in OpenAI, comitting to 2 gigawatts of Trainium silicon AWS to become exclusive cloud distributor for Frontier enterprise platform",
-    "summary": "Amazon invests $50 billion in OpenAI, committing to train large-scale AI models.",
-    "link": "https://www.tomshardware.com/tech-industry/amazon-invests-50-billion-in-openai",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.619211",
-    "insight": "Amazon secures exclusive cloud distribution for OpenAI's Frontier enterprise platform."
-  },
-  {
-    "title": "Claude won't be allowed to engage in mass surveillance or power fully autonomous weapons Anthropic refuses to lower AI guardrails for the Pentagon",
-    "summary": "Anthropic CEO resisted Pentagon's request to remove AI guardrails from Claude, citing concerns over mass surveillance and autonomous killing machines. The AI company prioritizes democratic values and responsible AI development. This stance has significant implications for the future of AI and national defense.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-wont-be-allowed-to-engage-in-mass-surveillance-or-power-fully-autonomous-weapons-anthropic-refuses-to-lower-ai-guardrails-for-the-pentagon",
+    "title": "Device that can extract 1,000 liters of clean water a day from desert air revealed by 2025 Nobel Prize winner claimed to work in desert air with 20% humidity or lower, delivering off-grid personalized water ",
+    "summary": "A device can extract 1,000 liters of clean water daily from desert air with 20% humidity or lower.",
+    "link": "https://www.tomshardware.com/tech-industry/device-that-can-extract-1-000-liters-of-clean-water-a-day-from-desert-air-revealed-by-2025-nobel-prize-winner-claimed-to-work-in-desert-air-with-20-percent-humidity-or-lower-delivering-off-grid-personalized-water",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.619298",
-    "insight": "Responsible AI development outweighs military interests and power ambitions."
+    "processed_date": "2026-03-01T09:00:30.846448",
+    "insight": "Revolutionizing off-grid access to clean drinking water in arid regions worldwide."
   },
   {
-    "title": "Secretlab has three Pok mon-themed Titan Evo chairs in honor of game's 30th anniversary special edition seats available in Pikachu, Gengar, and Eevee flavors",
-    "summary": "Secretlab and The Pokémon Company International collaborated on limited-edition Pokémon-themed gaming chairs to celebrate the franchise's 30th anniversary, featuring Pikachu, Gengar, and Eevee designs.",
-    "link": "https://www.tomshardware.com/pc-components/secretlab-has-three-pokemon-themed-titan-evo-chairs-in-honor-of-games-30th-anniversary-special-edition-seats-available-in-pikachu-gengar-and-eevee-flavors",
+    "title": "Two suspects arrested over theft of $1.5 million in Bitcoin stolen from police custody in outrageous blunder Korean cops left virtual assets stored with a third party, who handed over recovery key to hacker",
+    "summary": "Korean police lost 22 BTC due to a third-party storage mistake. The recovery key was given to a hacker by the third party. Authorities have arrested two suspects in connection with the theft.",
+    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/two-suspects-arrested-over-theft-of-usd1-5-million-in-bitcoin-stolen-from-police-custody-in-outrageous-blunder-korean-cops-left-virtual-assets-stored-with-a-third-party-who-handed-over-recovery-key-to-hacker",
     "categories": [
-      "AI & ML",
-      "Tech News"
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.619383",
-    "insight": "Pokémon fans now have exclusive gaming gear options."
+    "processed_date": "2026-03-01T09:00:30.846525",
+    "insight": "Police handling of virtual assets can lead to catastrophic security breaches."
   },
   {
-    "title": "ISSCC 2026: AMD discloses how the Instinct MI355X doubled per-CU throughput despite lower compute unit count 'We are actually matching the performance of the more expensive and complex GB200'",
-    "summary": "AMD's Instinct MI355X doubles per-CU throughput while reducing compute units, matching the GB200's performance.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/inside-the-instinct-mi355x",
+    "title": "This $35,000 computer made of living human neurons can run Doom",
+    "summary": "The CL1 is a commercial system using living human neurons to run games like Doom, marking a significant advancement in neuro-engineering.",
+    "link": "https://www.techspot.com/news/111506-35000-computer-made-living-human-neurons-can-run.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-01T09:00:30.848268",
+    "insight": "First commercially viable system harnessing living neurons for computing tasks."
+  },
+  {
+    "title": "Nvidia pulls Resident Evil Requiem Game Ready driver over fan control issues",
+    "summary": "Nvidia has pulled its February 2026 Game Ready driver due to fan control issues on RTX GPUs, which may cause overheating. The driver, which included optimizations for Resident Evil Requiem, was causing some fans to not turn on or ignore custom fan settings. This has prompted Nvidia to withdraw the driver for further testing.",
+    "link": "https://www.techspot.com/news/111507-nvidia-pulls-resident-evil-requiem-game-ready-driver.html",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-02-28T08:58:52.619461",
-    "insight": "Efficient architecture design can outperform higher complexity and cost counterparts."
-  },
-  {
-    "title": "Nvidia DGX Spark gets $700 price hike as memory shortages bite Founders Edition price jumps 18% to $4,699, up from $3,999",
-    "summary": "Nvidia has increased the price of the DGX Spark by $700 due to constrained memory supplies, raising the Founders Edition price to $4,699.",
-    "link": "https://www.tomshardware.com/desktops/mini-pcs/nvidia-dgx-spark-gets-18-percent-price-increase-as-memory-shortages-bite-founders-edition-now-usd4-699-up-from-usd3-999",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.619536",
-    "insight": "AI hardware demand strains global availability and drives up component costs."
-  },
-  {
-    "title": "Corsair Sabre v2 Pro Wireless MG Review: Not enough magnesium?",
-    "summary": "Corsair's Sabre v2 Pro Wireless MG weighs less, priced at $150. It features a perforated magnesium shell, making it more affordable than the carbon fiber version. However, the price may still be a barrier for some users.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-mice/corsair-sabre-v2-pro-wireless-mg-review",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-28T08:58:52.619606",
-    "insight": "Lower price comes at the cost of reduced material quality."
-  },
-  {
-    "title": "Rapidus secures $1.7 billion from Japan s government and private investors for 2nm chip production company says it is in active discussions with more than 60 potential customers",
-    "summary": "Under the arrangement, the government will initially hold roughly 10% of Rapidus's voting shares and the majority of its stake in non-voting stock.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-secures-1-7-billion-from-japans-government-and-private-investors",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.619677"
-  },
-  {
-    "title": "Behind the scenes of our massive CPU retest for Bench testing at 1080p, choosing new apps, and gathering data for a decade of CPUs",
-    "summary": "We're retesting a decade's worth of CPUs for our CPU hierarchy and benchmark database, giving Tom's Hardware Premium users an exclusive behind-the-scenes look at the process. This massive retest aims to gather accurate data and provide the most up-to-date information on CPU performance. Our team is choosing new apps and settings to ensure thorough and reliable benchmarking.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/behind-the-scenes-of-our-massive-cpu-retest-for-bench-testing-at-1080p-choosing-new-apps-and-gathering-data-for-a-decade-of-cpus",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.619753",
-    "insight": "Decade-long CPU data helps inform future tech purchasing decisions accurately."
-  },
-  {
-    "title": "Save $465 and get an 8TB SSD for $715 when paired with an RTX 5070 Newegg Combo gets you a new GPU and a WD Black SN850X at pre-RAM crunch prices",
-    "summary": "The Newegg combo offers a discounted price for an RTX 5070 GPU and an 8TB WD Black SN850X SSD.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/save-usd465-and-get-an-8tb-ssd-for-usd715-when-paired-with-an-rtx-5070-newegg-combo-gets-you-a-new-gpu-and-a-wd-black-sn850x-at-pre-ram-crunch-prices",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.619821",
-    "insight": "Significant storage upgrade at discounted gaming graphics combo price point"
-  },
-  {
-    "title": "RayNeo Air 4 Pro AR glasses review: Now enhanced with HDR10 and enhanced audio",
-    "summary": "The RayNeo Air 4 Pro AR glasses offer impressive performance and value, now enhanced with HDR10 and improved audio capabilities.",
-    "link": "https://www.tomshardware.com/peripherals/wearable-tech/rayneo-air-4-pro-ar-glasses-review",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-28T08:58:52.619883",
-    "insight": "Enhanced HDR10 and audio elevate AR glasses to new heights of immersion."
-  },
-  {
-    "title": "Imec's new post-exposure bake method speeds up EUV chipmaking tools, boosting production for the most advanced chips 20% gain in photoresist improvement from increased oxygen concentration",
-    "summary": "Imec's new post-exposure bake method boosts EUV chip production by 20% through increased oxygen concentration.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/imecs-new-post-exposure-bake-method-speeds-up-euv-chipmaking-tools-boosting-production-for-the-most-advanced-chips-20-percent-gain-in-photoresist-improvement-from-increased-oxygen-concentration",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-28T08:58:52.620077",
-    "insight": "Boosting oxygen concentration improves photoresist performance significantly."
-  },
-  {
-    "title": "Japanese firm stops production of Blu-ray disc drives Buffalo says there will be no successors to its current trio of portable USB-attached drives",
-    "summary": "Buffalo, a Japanese firm, has stopped producing Blu-ray disc drives, with no successors planned. This marks another significant decline in the popularity of Blu-ray technology. The company's current trio of portable USB-attached drives will not be followed by new models.",
-    "link": "https://www.tomshardware.com/pc-components/storage/japanese-firm-stops-production-of-blu-ray-disc-drives-buffalo-says-there-will-be-no-successors-to-its-current-trio-of-portable-usb-attached-drives",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.620147",
-    "insight": "Decline of Blu-ray technology signals shift to alternative storage solutions."
-  },
-  {
-    "title": "Razer launches $130 laptop sleeve featuring two wireless charging pads Base variant with no tech costs $80, supports up to 16-inch devices",
-    "summary": "Razer released two laptop sleeves: one basic ($80) and a high-tech variant ($130) with wireless charging pads.",
-    "link": "https://www.tomshardware.com/laptops/razer-launches-usd130-laptop-sleeve-featuring-two-wireless-charging-pads-base-variant-with-no-tech-costs-usd80-supports-up-to-16-inch-devices",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-28T08:58:52.620249",
-    "insight": "Convenience and multi-device charging for on-the-go users."
-  },
-  {
-    "title": "Finance techie says they cloned Bloomberg's $30k-a-year Terminal with Perplexity's Computer project draws both praise and sizable skepticism",
-    "summary": "A finance techie claims to have cloned Bloomberg's Terminal using AI, drawing both praise and skepticism. The project uses Perplexity's Computer, an AI tool, to recreate the Terminal's functionality. The project's goal is to make the Terminal's features more accessible and affordable.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/finance-techie-says-they-cloned-bloombergs-usd30k-a-year-terminal-with-perplexitys-computer-project-draws-both-praise-and-sizable-skepticism",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.620318",
-    "insight": "Democratizing financial data access with AI-powered alternatives."
-  },
-  {
-    "title": "Klevv Cras V RGB DDR5-9600 C46 2x48GB review: Binned for pure speed, not your wallet",
-    "summary": "Klevv's DDR5-9600 memory kit offers extreme speeds, but at a premium price. This kit is binned for ultimate performance, making it a great choice for enthusiasts and overclockers. However, its affordability might be a concern for budget-conscious buyers.",
-    "link": "https://www.tomshardware.com/pc-components/ram/klevv-cras-v-rgb-ddr5-9600-c46-2x48gb-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.620382",
-    "insight": "High-speed DDR5 memory for extreme performance comes at a steep cost."
-  },
-  {
-    "title": "ESP32-C5 bug advisory identifies and fixes PSRAM and sleep coexistence issues",
-    "summary": "Espressif Systems has released a bug advisory for ESP32-C5 chips, addressing PSRAM and sleep stability issues.",
-    "link": "https://www.cnx-software.com/2026/02/28/esp32-c5-bug-advisory-identifies-and-fixes-psram-and-sleep-coexistence-issues/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-28T08:58:52.620832",
-    "insight": "Fixing PSRAM and sleep coexistence bugs enhances ESP32-C5 microcontroller reliability and stability."
-  },
-  {
-    "title": "M5Stack Unit PoE-P4 A tiny PoE-powered ESP32-P4 development kit with MIPI DSI/CSI and USB-C connectors",
-    "summary": "The M5Stack Unit PoE-P4 is a tiny, PoE-powered ESP32-P4 development kit with various interfaces. It supports IEEE 802.3at PoE and integrates a 10/100Mbps Ethernet PHY. This module is suitable for various IoT applications.",
-    "link": "https://www.cnx-software.com/2026/02/27/m5stack-unit-poe-p4-a-tiny-poe-powered-esp32-p4-development-kit-with-mipi-dsi-csi-and-usb-c-connectors/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-02-28T08:58:52.620974",
-    "insight": "Enables IoT applications with single-cable power and data connectivity."
-  },
-  {
-    "title": "Tire sensors in cars can be used to track you",
-    "summary": "Researchers at IMDEA Networks discovered a hidden privacy risk by collecting 20,000 tire sensor signals, demonstrating how tire sensors in cars can be used to track individuals. This threat arises due to the ability to analyze and decode sensor data to determine vehicle location and movement. The study highlights the need for improved security measures to protect driver privacy.",
-    "link": "https://www.fiercesensors.com/sensors/tire-sensors-cars-can-be-used-track-you",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.621963",
-    "insight": "Location and movement can be tracked through tire sensor data."
-  },
-  {
-    "title": "Microsoft expands Windows 365 Cloud PC thin clients to Asus and Dell hardware",
-    "summary": "Microsoft expands Windows 365 Cloud PC thin clients to Asus and Dell hardware, offering customers a variable monthly subscription-based experience.",
-    "link": "https://www.techspot.com/news/111505-microsoft-expands-windows-365-cloud-pc-thin-clients.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-28T08:58:52.622368",
-    "insight": "Cloud-based computing streamlines modern workplaces with flexible, subscription-based solutions."
-  },
-  {
-    "title": "Smart TV apps are quietly scraping web data for AI training",
-    "summary": "Smart TV apps are collecting web data for AI training through proxy networks.",
-    "link": "https://www.techspot.com/news/111492-smart-tv-apps-quietly-scraping-web-data-ai.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.622491",
-    "insight": "Consumer data is being harvested without explicit user consent or knowledge."
-  },
-  {
-    "title": "Perplexity launches Computer, wants AI to run tasks for months, not minutes",
-    "summary": "Rather than relying on a single model, Perplexity AI's Computer system functions as an orchestrator across multiple models. Anthropic's Claude Opus 4.6 serves as the primary reasoning engine, while Gemini handles deep research tasks. Nano Banana generates images, Veo 3.1 produces video, Grok executes lightweight, speed-optimized tasks, and OpenAI's ChatGPT... Read Entire Article",
-    "link": "https://www.techspot.com/news/111499-perplexity-launches-computer-wants-ai-run-tasks-months.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-28T08:58:52.622620"
-  },
-  {
-    "title": "Smartphone sales are expected to drop 13% worldwide amid memory crunch",
-    "summary": "Smartphone sales are expected to drop 13% worldwide due to a memory crunch. Global shipments are forecasted to reach 1.1 billion units this year, down from 1.26 billion in 2023. This marks a significant downward revision from a previous forecast.",
-    "link": "https://www.techspot.com/news/111497-global-smartphone-shipments-expected-fall-13-amid-memory.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-02-28T08:58:52.622736",
-    "insight": "Memory shortage severely impacts smartphone demand and sales predictions."
-  },
-  {
-    "title": "Broadcom bets on 2nm stacked silicon to rival Nvidia in AI",
-    "summary": "Broadcom is developing a 2nm stacked silicon technology to rival Nvidia in AI, increasing data transfer speeds and reducing energy consumption.",
-    "link": "https://www.techspot.com/news/111501-broadcom-bets-2nm-stacked-silicon-rival-nvidia-ai.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.622857",
-    "insight": "Vertical integration boosts AI performance and efficiency significantly."
-  },
-  {
-    "title": "US arrests OnlyFake operator accused of selling over 10,000 AI-generated digital fake IDs",
-    "summary": "A 27-year-old Ukrainian national was charged for selling AI-generated fake IDs. Yurii Nazarenko pleaded guilty to conspiracy to commit identity fraud. The IDs were allegedly sold over 10,000 times.",
-    "link": "https://www.techspot.com/news/111504-us-arrests-onlyfake-operator-accused-selling-over-10000.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.622976",
-    "insight": "AI-generated fake IDs threaten global identity verification systems security."
-  },
-  {
-    "title": "Modder builds a CPU cooler powered by \"infinite\" ice from a hacked ice maker",
-    "summary": "A modder creates a CPU cooler using 'infinite' ice from a hacked ice maker, forming a closed-loop cooling system that recycles meltwater to make new ice.",
-    "link": "https://www.techspot.com/news/111496-modder-builds-cpu-cooler-powered-infinite-ice-hacked.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.623096",
-    "insight": "Closed-loop cooling systems can efficiently manage thermal waste with minimal resource consumption."
-  },
-  {
-    "title": "Apple's iPhone and iPad become first consumer devices to receive NATO security clearance",
-    "summary": "Apple's iPhone and iPad have received NATO security clearance, a first for consumer devices. This achievement reflects Apple's strict adherence to security standards. The clearance sets a new benchmark for consumer electronics.",
-    "link": "https://www.techspot.com/news/111494-apple-iphone-ipad-become-first-consumer-devices-receive.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.623240",
-    "insight": "Enhanced security capabilities position Apple as trusted industry leaders."
-  },
-  {
-    "title": "Hackers can now track your car's location through tire pressure sensors",
-    "summary": "Hackers can track vehicle location through unencrypted tire pressure sensors, putting owners at risk. The Tire Pressure Monitoring System (TPMS) transmits data in cleartext, making it vulnerable to hacking. This discovery raises concerns about vehicle security and data protection.",
-    "link": "https://www.techspot.com/news/111493-hackers-can-now-track-car-location-through-tire.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-28T08:58:52.623365",
-    "insight": "Vehicle security compromised through unencrypted tire pressure sensor data"
-  },
-  {
-    "title": "Viral ad shows aged Musk, Altman, and Bezos using jobless humans to power AI",
-    "summary": "A viral ad depicts Musk, Altman, and Bezos in 2036, discussing how their company Energym uses jobless humans to power AI, highlighting a dystopian future where 80% of people lost their jobs by 2030.",
-    "link": "https://www.techspot.com/news/111500-viral-ad-shows-aged-musk-altman-bezos-using.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.623475",
-    "insight": "Depiction of a dystopian future where humans are replaced by AI."
-  },
-  {
-    "title": "Google upgrades Gemini image generation to Nano Banana 2 with 4K support",
-    "summary": "Google upgrades Gemini image generation to Nano Banana 2 with 4K support, unifying its image AI lineup.",
-    "link": "https://www.techspot.com/news/111495-google-upgrades-gemini-image-generation-nano-banana-2.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-02-28T08:58:52.623593",
-    "insight": "Advancements in AI image generation technology enhance creative capabilities."
-  },
-  {
-    "title": "Were We Wrong About Ryzen's Best Feature All Along?",
-    "summary": "Ryzen's platform longevity is reevaluated as Nova Lake and Zen 6 approach, questioning its impact on the CPU market.",
-    "link": "https://www.techspot.com/article/3092-ryzen-best-feature/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-02-28T08:58:52.623693",
-    "insight": "Socket support longevity was a crucial factor in Ryzen's market success."
+    "processed_date": "2026-03-01T09:00:30.848416",
+    "insight": "Nvidia's latest driver poses a risk of overheating due to faulty fan control."
   }
 ]

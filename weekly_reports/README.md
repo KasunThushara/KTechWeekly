@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of February 28, 2026**
+**Week of March 01, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. M5Stack Unit PoE-P4 A tiny PoE-powered ESP32-P4 development kit with MIPI DSI/CSI and USB-C connectors ⭐
+### 1. Nvidia pulls Resident Evil Requiem Game Ready driver over fan control issues 
 
 **🤖 AI & ML**
 
-The M5Stack Unit PoE-P4 is a tiny, PoE-powered ESP32-P4 development kit with various interfaces. It supports IEEE 802.3at PoE and integrates a 10/100Mbps Ethernet PHY. This module is suitable for various IoT applications.
+Nvidia has pulled its February 2026 Game Ready driver due to fan control issues on RTX GPUs, which may cause overheating. The driver, which included optimizations for Resident Evil Requiem, was causing some fans to not turn on or ignore custom fan settings. This has prompted Nvidia to withdraw the driver for further testing.
 
-💡 **Key Point:** Enables IoT applications with single-cable power and data connectivity.
+💡 **Key Point:** Nvidia's latest driver poses a risk of overheating due to faulty fan control.
 
-🔗 [Read More](https://www.cnx-software.com/2026/02/27/m5stack-unit-poe-p4-a-tiny-poe-powered-esp32-p4-development-kit-with-mipi-dsi-csi-and-usb-c-connectors/)
+🔗 [Read More](https://www.techspot.com/news/111507-nvidia-pulls-resident-evil-requiem-game-ready-driver.html)
 
 ---
 
-### 2. Intel mobile CPUs have achieved up to 95x performance uplift over the past two decades benchmarking the gains from 45nm Penryn to 18A Panther Lake ⭐
+### 2. This $35,000 computer made of living human neurons can run Doom 
 
 **💻 Hardware**
 
-Intel mobile CPUs have shown significant performance improvements over 18 years, with a 95x uplift from 45nm Penryn to 18A Panther Lake. This is based on benchmarking 15 Intel mobile processors by Phoronix. The results highlight Intel's progress in mobile processor technology.
+The CL1 is a commercial system using living human neurons to run games like Doom, marking a significant advancement in neuro-engineering.
 
-💡 **Key Point:** Intel's relentless advancements drive mobile performance and efficiency.
+💡 **Key Point:** First commercially viable system harnessing living neurons for computing tasks.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-mobile-cpus-have-achieved-up-to-95x-performance-uplift-over-the-past-two-decades-benchmarking-the-gains-from-45nm-penryn-to-18a-panther-lake)
-
----
-
-### 3. M5Stack Unit PoE-P4 A tiny PoE-powered ESP32-P4 development kit with MIPI DSI/CSI and USB-C connectors ⭐
-
-**💻 Hardware**
-
-The M5Stack Unit PoE-P4 is a tiny, PoE-powered ESP32-P4 development kit with various interfaces. It supports IEEE 802.3at PoE and integrates a 10/100Mbps Ethernet PHY. This module is suitable for various IoT applications.
-
-💡 **Key Point:** Enables IoT applications with single-cable power and data connectivity.
-
-🔗 [Read More](https://www.cnx-software.com/2026/02/27/m5stack-unit-poe-p4-a-tiny-poe-powered-esp32-p4-development-kit-with-mipi-dsi-csi-and-usb-c-connectors/)
+🔗 [Read More](https://www.techspot.com/news/111506-35000-computer-made-living-human-neurons-can-run.html)
 
 ---
 
-### 4. Intel mobile CPUs have achieved up to 95x performance uplift over the past two decades benchmarking the gains from 45nm Penryn to 18A Panther Lake ⭐
+### 3. Nvidia pulls Resident Evil Requiem Game Ready driver over fan control issues 
+
+**🎮 GPUs**
+
+Nvidia has pulled its February 2026 Game Ready driver due to fan control issues on RTX GPUs, which may cause overheating. The driver, which included optimizations for Resident Evil Requiem, was causing some fans to not turn on or ignore custom fan settings. This has prompted Nvidia to withdraw the driver for further testing.
+
+💡 **Key Point:** Nvidia's latest driver poses a risk of overheating due to faulty fan control.
+
+🔗 [Read More](https://www.techspot.com/news/111507-nvidia-pulls-resident-evil-requiem-game-ready-driver.html)
+
+---
+
+### 4. US military uses a laser to blast a drone out of the sky on the US-Mexico border the target belonged to Customs and Border Protection in the friendly fire incident 
 
 **📰 Tech News**
 
-Intel mobile CPUs have shown significant performance improvements over 18 years, with a 95x uplift from 45nm Penryn to 18A Panther Lake. This is based on benchmarking 15 Intel mobile processors by Phoronix. The results highlight Intel's progress in mobile processor technology.
+The US military accidentally shot down a CBP drone with a laser system near the US-Mexico border, mistaking it for a cartel drone. The incident highlights the risks of using advanced military technology in complex environments. An investigation is ongoing to determine the cause and consequences of the friendly fire incident.
 
-💡 **Key Point:** Intel's relentless advancements drive mobile performance and efficiency.
+💡 **Key Point:** Friendly fire incidents can occur with advanced military technology in complex environments
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-mobile-cpus-have-achieved-up-to-95x-performance-uplift-over-the-past-two-decades-benchmarking-the-gains-from-45nm-penryn-to-18a-panther-lake)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/us-military-uses-a-laser-to-blast-a-drone-out-of-the-sky-on-the-us-mexico-border-the-target-belonged-to-customs-and-border-protection-in-the-friendly-fire-incident)
 
 ---
 
-### 5. ISSCC 2026: AMD discloses how the Instinct MI355X doubled per-CU throughput despite lower compute unit count 'We are actually matching the performance of the more expensive and complex GB200' 
+### 5. Memory vendor under fire for imposing hefty 15% depreciation fee on returns despite skyrocketing RAM value user expected RMA replacement but gets hit with a loss instead 
 
-**🤖 AI & ML**
+**📰 Tech News**
 
-AMD's Instinct MI355X doubles per-CU throughput while reducing compute units, matching the GB200's performance.
+Silicon Power, a memory vendor, imposed a 15% depreciation fee on a RAM return, resulting in a lower refund than expected. The user, who returned a 16GB DDR4-3200 RAM kit, will receive $46.72, which is not enough to purchase a single 8GB DDR4-3200 RAM stick at current prices. This practice has left the user with significant financial loss.
 
-💡 **Key Point:** Efficient architecture design can outperform higher complexity and cost counterparts.
+💡 **Key Point:** High depreciation fees penalize customers for technological advancements
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/inside-the-instinct-mi355x)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ram/memory-vendor-under-fire-for-imposing-hefty-15-percent-depreciation-fee-on-returns-despite-skyrocketing-ram-value-user-expected-rma-replacement-but-gets-hit-with-a-loss-instead)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **53 articles** across **5 focused categories**.
+We covered **17 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 20 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 5 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 3 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 2 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 20 articles
+*Artificial Intelligence and Machine Learning* — 5 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 5 articles
+*Graphics cards and compute accelerators* — 3 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 14 articles
+*Computing hardware and development boards* — 3 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 6 articles
+*Chip manufacturing and design* — 2 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 8 articles
+*Industry news and product launches* — 4 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-02-28 at 09:00 by an autonomous AI curation system.
+Generated 2026-03-01 at 09:00 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
