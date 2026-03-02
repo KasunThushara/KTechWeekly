@@ -1,5 +1,5 @@
 # 📰 Tech News
-**Week of March 01, 2026**
+**Week of March 02, 2026**
 
 *Industry news and product launches*
 
@@ -7,49 +7,49 @@
 
 ## 📊 Summary
 - **Articles this week:** 4
-- **Report generated:** 2026-03-01 09:00
+- **Report generated:** 2026-03-02 09:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. US military uses a laser to blast a drone out of the sky on the US-Mexico border the target belonged to Customs and Border Protection in the friendly fire incident 
+### 1. CHUWI CoreBook Air Plus 16 review Part 3: Ubuntu 25.10 on a mid-range AMD Ryzen 5 6600H laptop ⭐
 
-The US military accidentally shot down a CBP drone with a laser system near the US-Mexico border, mistaking it for a cartel drone. The incident highlights the risks of using advanced military technology in complex environments. An investigation is ongoing to determine the cause and consequences of the friendly fire incident.
+The reviewer tests the CHUWI CoreBook Air Plus 16 with Ubuntu 25.10, evaluating system performance, benchmarks, video playback, feature testing, storage, WiFi 6 performance, fan noise, and power consumption.
 
-💡 *Friendly fire incidents can occur with advanced military technology in complex environments*
+💡 *Mid-range laptops with AMD Ryzen 5 can run Linux smoothly and efficiently.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-military-uses-a-laser-to-blast-a-drone-out-of-the-sky-on-the-us-mexico-border-the-target-belonged-to-customs-and-border-protection-in-the-friendly-fire-incident)
-
----
-
-### 2. Memory vendor under fire for imposing hefty 15% depreciation fee on returns despite skyrocketing RAM value user expected RMA replacement but gets hit with a loss instead 
-
-Silicon Power, a memory vendor, imposed a 15% depreciation fee on a RAM return, resulting in a lower refund than expected. The user, who returned a 16GB DDR4-3200 RAM kit, will receive $46.72, which is not enough to purchase a single 8GB DDR4-3200 RAM stick at current prices. This practice has left the user with significant financial loss.
-
-💡 *High depreciation fees penalize customers for technological advancements*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/memory-vendor-under-fire-for-imposing-hefty-15-percent-depreciation-fee-on-returns-despite-skyrocketing-ram-value-user-expected-rma-replacement-but-gets-hit-with-a-loss-instead)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/01/chuwi-corebook-air-plus-16-review-part-3-ubuntu-25-10-on-a-mid-range-amd-ryzen-5-6600h-laptop/)
 
 ---
 
-### 3. OpenAI raises $110 billion in largest-ever private tech funding round, Nvidia throws in $30 billion AI startup now valued at $730 billion 
+### 2. Orico BookDrive P10Plus (512GB) review: Magnetic back and 100W passthrough charging ⭐
 
-OpenAI raises $110 billion in largest-ever private tech funding round, valuing the AI startup at $730 billion with investments from Amazon, Nvidia, and SoftBank.
+Orico's BookDrive P10Plus offers a solid construction, magnetic attachment, and 100W passthrough charging.
 
-💡 *Massive funding cements AI dominance and accelerates innovation trajectory.*
+💡 *Performance lacking for professional users in one key area slows productivity.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-raises-110-billion-in-largest-ever-private-tech-funding-round)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-ssds/orico-bookdrive-p10plus-512gb-review)
 
 ---
 
-### 4. Industry murmurs suggest Sony will no longer release PS5 exclusives on PC New leadership might be willing to forgo PC revenue to fortify console platform 
+### 3. The Nvidia GeForce3 launched 25 years ago underappreciated at launch, its impact shaped the industry 
 
-Reports suggest Sony will no longer release PS5 exclusives on PC, shifting focus to console exclusivity. This decision may prioritize console platform fortification over PC revenue. First-party AAA games will now be assessed on a game-by-game basis.
+The Nvidia GeForce3, launched 25 years ago, was initially underappreciated but significantly impacted the industry. Its innovative design and performance paved the way for future graphics cards. The GeForce3's influence can still be seen in modern gaming and graphics technology.
 
-💡 *Sony prioritizes console exclusivity over PC revenue generation*
+💡 *Innovation often appears insignificant in its initial, groundbreaking moment.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/industry-murmurs-suggest-sony-will-no-longer-release-ps5-exclusives-on-pc-new-leadership-might-be-willing-to-forgo-pc-revenue-to-fortify-console-platform)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/the-geforce3-launched-25-years-ago-underappreciated-at-launch-its-impact-shaped-the-industry)
+
+---
+
+### 4. California introduces age verification law for all operating systems, including Linux and SteamOS user age verified during OS account setup 
+
+California introduces a law requiring age verification for all OS providers, including Linux and SteamOS, as part of the user account setup process. This broad definition aims to prevent minors from accessing online content and services. The law affects a wide range of operating systems and their providers.
+
+💡 *Age verification expands to cover diverse, previously unregulated operating systems.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/operating-systems/california-introduces-age-verification-law)
 
 ---
 

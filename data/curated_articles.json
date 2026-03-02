@@ -1,127 +1,191 @@
 [
   {
-    "title": "US military uses a laser to blast a drone out of the sky on the US-Mexico border the target belonged to Customs and Border Protection in the friendly fire incident",
-    "summary": "The U.S. military accidentally shoots down a CBP drone flying near the U.S.-Mexico border with a laser system after mistaking it for a cartel drone.",
-    "link": "https://www.tomshardware.com/tech-industry/us-military-uses-a-laser-to-blast-a-drone-out-of-the-sky-on-the-us-mexico-border-the-target-belonged-to-customs-and-border-protection-in-the-friendly-fire-incident",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-01T09:00:30.845708"
-  },
-  {
-    "title": "390TB video game archive being taken offline due to skyrocketing RAM, SSD, and hard drive prices AI-driven supply squeeze results in closure of one of the largest online video game archives",
-    "summary": "Myrient, which hosts more than 390TB of preserved video games, is set to go offline at the end of March 2026 due to rising storage and memory costs. The founder says they're spending more than $6,000 out of pocket per month to keep the project going.",
-    "link": "https://www.tomshardware.com/video-games/390tb-video-game-archive-being-taken-offline-due-to-skyrocketing-ram-ssd-and-hard-drive-prices-ai-driven-supply-squeeze-results-in-closure-of-one-of-the-largest-online-video-game-archives",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-01T09:00:30.845814"
-  },
-  {
-    "title": "Memory vendor under fire for imposing hefty 15% depreciation fee on returns despite skyrocketing RAM value user expected RMA replacement but gets hit with a loss instead",
-    "summary": "Silicon Power reportedly charged a 15% depreciation fee while refunding a user their 16GB (2x8GB) DDR4-3200 RAM, meaning they'll only receive $46.72, which isn't even enough to buy a single 8GB DDR4-3200 RAM stick at current prices.",
-    "link": "https://www.tomshardware.com/pc-components/ram/memory-vendor-under-fire-for-imposing-hefty-15-percent-depreciation-fee-on-returns-despite-skyrocketing-ram-value-user-expected-rma-replacement-but-gets-hit-with-a-loss-instead",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-01T09:00:30.845901"
-  },
-  {
-    "title": "OpenAI raises $110 billion in largest-ever private tech funding round, Nvidia throws in $30 billion AI startup now valued at $730 billion",
-    "summary": "$50 billion from Amazon, $30 billion from Nvidia, and $30 billion from SoftBank, with additional investors expected to join as the round progresses.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-raises-110-billion-in-largest-ever-private-tech-funding-round",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-01T09:00:30.845988"
-  },
-  {
-    "title": "Industry murmurs suggest Sony will no longer release PS5 exclusives on PC New leadership might be willing to forgo PC revenue to fortify console platform",
-    "summary": "Reports from around the gaming world are heavily pointing toward the end of Sony's first-party AAA games being available on PC. Single-player PlayStation Studios titles are apparently now going to be assess on a game-by-game basis for launch on PC, with the general strategy pivoting to keeping them on console indefinitely.",
-    "link": "https://www.tomshardware.com/video-games/playstation/industry-murmurs-suggest-sony-will-no-longer-release-ps5-exclusives-on-pc-new-leadership-might-be-willing-to-forgo-pc-revenue-to-fortify-console-platform",
-    "categories": [
-      "Tech News",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-01T09:00:30.846083"
-  },
-  {
-    "title": "AMD Ryzen 7 9850X3D vs Intel Core i9-14900K faceoff Intel s Raptor Lake platform continues to be relevant in 2026",
-    "summary": "The Ryzen 7 9850X3D now leads AMD s gaming lineup, but Intel s Core i9-14900K remains a powerful choice for productivity-focused users. We tested both in a head-to-head battle to see which CPU comes out on top.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9850x3d-vs-intel-core-i9-14900k-faceoff",
+    "title": "AMD details Ryzen AI 400 desktop with up to 8 cores, Radeon 860M graphics APUs won t be available as boxed units, only in OEM systems",
+    "summary": "After announcing Ryzen AI 400 APUs earlier this year, AMD has finally revealed the specifications for the chips. However, they re targeting OEM systems, and they top out lower than AMD s Ryzen AI 400 mobile lineup.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-details-ryzen-ai-400-desktop-with-up-to-8-cores-radeon-860m-graphics-apus-wont-be-available-as-boxed-units-only-in-oem-systems",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-01T09:00:30.846202"
+    "quality_score": 10,
+    "processed_date": "2026-03-02T09:32:30.768306"
   },
   {
-    "title": "Developer's 1994 Linux desktop recreation runs in your browser as a modern web app open-source project brings old-school CDE interface back from the dead and features classic 90s web browser, text editor, and more",
-    "summary": "A new GitHub project has resurrected the 1994 Linux experience with this Debian clone in your browser, a pixel-for-pixel recreation of the original Common Desktop Environment that early Unix system users will be familiar with.",
-    "link": "https://www.tomshardware.com/software/linux/nostalgic-developer-recreates-the-1994-linux-desktop-as-a-modern-web-app-for-your-browser-open-source-project-brings-old-school-cde-interface-back-from-the-dead-and-features-classic-90s-web-browser-text-editor-and-more",
+    "title": "Lenovo's Legion Go Fold-able gaming handheld concept has four screen modes, also works as a small laptop POLED display unfolds from 7.7 to 11.6 inches",
+    "summary": "Lenovo's Legion Go Fold handheld concept has four screen modes ranging from 7.7 to 11.6 inches, and doubles as a small laptop. It uses Intel Core Ultra Series 2 and detachable controllers, but this early prototype needs some work to make it more stable.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/lenovos-legion-go-fold-able-gaming-handheld-concept-has-four-screen-modes-also-works-as-a-small-laptop-poled-display-unfolds-from-7-7-to-11-6-inches",
     "categories": [
       "Hardware",
-      "Semiconductors"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-01T09:00:30.846297"
+    "processed_date": "2026-03-02T09:32:30.768420"
   },
   {
-    "title": "Ultra rare floppy disk game twisted and slashed into shards by US Customs or DHL checkers ruined Tsukihime 1999 demo was one of only 50 ever produced",
-    "summary": "An important Windows 9X era video gaming artifact appears to have been deliberately destroyed.",
-    "link": "https://www.tomshardware.com/video-games/ultra-rare-floppy-disk-game-twisted-and-slashed-into-shards-by-us-customs-or-dhl-checkers-ruined-tsukihime-1999-demo-was-one-of-only-50-ever-produced",
+    "title": "Lenovo's Framework-like Modular AI PC concept lets you put a screen just about anywhere detachable keyboard and ports make the machine customizable",
+    "summary": "Lenovo's ThinkBook Modular AI PC Concept debuted at IFA, with a detachable display and keyboard to personalize the device to the way you want to use it.",
+    "link": "https://www.tomshardware.com/laptops/lenovos-framework-like-modular-ai-pc-concept-lets-you-put-a-screen-just-about-anywhere-detachable-keyboard-and-ports-make-the-machine-customizable",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-02T09:32:30.768504"
+  },
+  {
+    "title": "Lenovo brings a blue ThinkPad T14 to Mobile World Congress slew of new devices includes a Legion 7a with Strix Halo",
+    "summary": "Lenovo is updating its ThinkPad, Yoga, and Legion laptop lines at Mobile World Congress in Barcelona.",
+    "link": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/lenovo-brings-a-blue-thinkpad-t14-to-mobile-world-congress-slew-of-new-devices-includes-a-legion-7a-with-strix-halo",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-02T09:32:30.768576"
+  },
+  {
+    "title": "Gigabyte's huge 55-inch 4K 120Hz gaming monitor is now half price grab this Android-powered display with HDMI 2.1 for just $9 per inch",
+    "summary": "If you've been looking for a big gaming monitor to satisfy your needs, then Gigabyte's S55U has you covered with its 4K 55-inch 120Hz panel.",
+    "link": "https://www.tomshardware.com/pc-components/gigabytes-huge-55-inch-4k-120hz-gaming-monitor-is-half-price-at-usd499-on-amazon-grab-this-android-powered-display-with-hdmi-2-1-for-just-usd9-per-inch",
     "categories": [
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-01T09:00:30.846371"
+    "processed_date": "2026-03-02T09:32:30.768645"
   },
   {
-    "title": "Device that can extract 1,000 liters of clean water a day from desert air revealed by 2025 Nobel Prize winner claimed to work in desert air with 20% humidity or lower, delivering off-grid personalized water ",
-    "summary": "Stand-alone device claimed to pull 1,000 liters (about 264 US Gal) of drinkable water a day from air with as little as 20% humidity.",
-    "link": "https://www.tomshardware.com/tech-industry/device-that-can-extract-1-000-liters-of-clean-water-a-day-from-desert-air-revealed-by-2025-nobel-prize-winner-claimed-to-work-in-desert-air-with-20-percent-humidity-or-lower-delivering-off-grid-personalized-water",
+    "title": "Windows 11 continues gaining traction, nears 75% market share Windows 10 finally on the way out, some five months after Microsoft axes support",
+    "summary": "Windows 11 finally breaks 70% market share, five months after Microsoft ended support for Windows 10.",
+    "link": "https://www.tomshardware.com/software/windows/windows-11-continues-gaining-traction-nears-75-percent-market-share-windows-10-finally-on-the-way-out-some-five-months-after-microsoft-axes-support",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-01T09:00:30.846448"
+    "processed_date": "2026-03-02T09:32:30.768732"
   },
   {
-    "title": "Two suspects arrested over theft of $1.5 million in Bitcoin stolen from police custody in outrageous blunder Korean cops left virtual assets stored with a third party, who handed over recovery key to hacker",
-    "summary": "The authorities found out about the theft of 22 BTC from the Gangnam Police Station during the investigation of another case of missing Bitcoin from government custody.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/two-suspects-arrested-over-theft-of-usd1-5-million-in-bitcoin-stolen-from-police-custody-in-outrageous-blunder-korean-cops-left-virtual-assets-stored-with-a-third-party-who-handed-over-recovery-key-to-hacker",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-01T09:00:30.846525"
-  },
-  {
-    "title": "This $35,000 computer made of living human neurons can run Doom",
-    "summary": "The CL1 is the first commercial system from the same researchers who wowed the tech world in 2022 by teaching a cluster of 800,000 neurons to play Pong. The new CL1 pushes the idea into engineered hardware, built around 59 electrodes positioned on a planar array of metal and glass.... Read Entire Article",
-    "link": "https://www.techspot.com/news/111506-35000-computer-made-living-human-neurons-can-run.html",
+    "title": "Amiga Workbench Simulator helps you pick your ultimate retro desktop TAWS recently updated with refinements to OS 3.2, AmiBench presets",
+    "summary": "TAWS - The Amiga Workbench Simulation has been updated with refinements to Workbench 3.2, AmiBench, and more.",
+    "link": "https://www.tomshardware.com/software/operating-systems/amiga-workbench-simulator-helps-you-pick-your-ultimate-retro-desktop-taws-recently-updated-with-refinements-to-os-3-2-amibench-presets",
     "categories": [
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-01T09:00:30.848268"
+    "quality_score": 5,
+    "processed_date": "2026-03-02T09:32:30.768802"
   },
   {
-    "title": "Nvidia pulls Resident Evil Requiem Game Ready driver over fan control issues",
-    "summary": "After Nvidia launched the February 2026 Game Ready and Studio Driver, which includes optimizations for Resident Evil Requiem and the Marathon server slam, users complained that some fans on RTX GPUs would not turn on, raising the risk of overheating. Some noted that their cards began ignoring custom fan protocols... Read Entire Article",
-    "link": "https://www.techspot.com/news/111507-nvidia-pulls-resident-evil-requiem-game-ready-driver.html",
+    "title": " 200,000 living human neurons on a microchip demonstrated playing Doom Cortical Labs CL1 video shows the gameplay and explains how the neurons learn the game",
+    "summary": "Australia s Cortical Labs has demonstrated its 'body in a box' CL1 biological computer playing Doom.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/200-000-living-human-neurons-on-a-microchip-demonstrated-playing-doom-cortical-labs-cl1-video-shows-the-gameplay-and-explains-how-the-neurons-learn-the-game",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-02T09:32:30.768881"
+  },
+  {
+    "title": "Orico BookDrive P10Plus (512GB) review: Magnetic back and 100W passthrough charging",
+    "summary": "Orico's BookDrive P10Plus feels solid and has a magnetic back for snapping onto smartphones, as well as a 100w passthrough charging port. But its performance is lacking in one key area especially for professional users.",
+    "link": "https://www.tomshardware.com/pc-components/external-ssds/orico-bookdrive-p10plus-512gb-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-02T09:32:30.768955"
+  },
+  {
+    "title": "Enthusiast runs desktop PC off 56 AA batteries Intel computer lasts less than 5 minutes while playing Minesweeper",
+    "summary": "YouTube creator ScuffedBits experimented with a desktop PC and AA batteries just to see how many they needed to run and for how long will a desktop PC last on AA battery power alone.",
+    "link": "https://www.tomshardware.com/desktops/enthusiast-runs-desktop-pc-off-56-aa-batteries-intel-computer-lasts-less-than-5-minutes-while-playing-minesweeper",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-02T09:32:30.769027"
+  },
+  {
+    "title": "The Nvidia GeForce3 launched 25 years ago underappreciated at launch, its impact shaped the industry",
+    "summary": "Technological evolution rarely looks important in the moment. In fact, sometimes it even looks like a regression.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/the-geforce3-launched-25-years-ago-underappreciated-at-launch-its-impact-shaped-the-industry",
     "categories": [
       "GPUs",
-      "AI & ML"
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-01T09:00:30.848416"
+    "processed_date": "2026-03-02T09:32:30.769094"
+  },
+  {
+    "title": "California introduces age verification law for all operating systems, including Linux and SteamOS user age verified during OS account setup",
+    "summary": "The law's broad definition of an \"operating system provider\" pulls in not just Windows, macOS, Android, and iOS, but Linux distributions and Valve's SteamOS.",
+    "link": "https://www.tomshardware.com/software/operating-systems/california-introduces-age-verification-law",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-02T09:32:30.769165"
+  },
+  {
+    "title": "AMD s K6-III Sharptooth debuted this week in 1999 with on-die L2 cache to savage the Intel Pentium II it also held the line against the Pentium III",
+    "summary": "AMD launched its first processors with on-die L2 cache this week in 1999, heralding the beginning of the Super Socket 7 era.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amds-k6-iii-sharptooth-debuted-this-week-in-1999-with-on-die-l2-cache-to-savage-the-intel-pentium-ii-it-also-held-the-line-against-the-pentium-iii",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-02T09:32:30.769242"
+  },
+  {
+    "title": "Lenovo ThinkEdge SE60n Gen 2 fanless edge AI computer features up to 97 TOPS Intel Core Ultra 7 265H SoC",
+    "summary": "Lenovo has recently unveiled new ThinkEdge devices for edge AI applications: the Intel Arrow Lake -powered ThinkEdge SE60n Gen 2 fanless computer for up to 97 TOPS of AI performance, the ThinkEdge SE10n Gen 2 edge gateway, the compact ThinkEdge SE30n Gen 2 Raptor Lake edge client with up to Intel Core 7 150U, and the company s first industrial all-in-one (AIO) Panel PC, the ThinkEdge SE50a. We ll focus on the ThinkEdge SE60n Gen2 fanless embedded computer in this article. It s powered by an up to Intel Core Ultra 7 265H SoC paired with DDR5 memory, M.2 NVMe and/or SATA storage, and offering two HDMI and one DisplayPort video outputs, audio out and microphone jacks, dual 2.5GbE, WiFI 6E, six USB 3.0/2.0 ports, two RS232/RS485 COM ports, an 8-bit DIO DB9 connector, three M.2 sockets for expansion, as well as a 80-pin Intelligent Expansion Technology (ITE) connector for optional expansion modules. Lenovo [...] The post Lenovo ThinkEdge SE60n Gen 2 fanless edge AI computer features up to 97 TOPS Intel Core Ultra 7 265H SoC appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/02/lenovo-thinkedge-se60n-gen-2-fanless-edge-ai-computer-features-up-to-97-tops-intel-core-ultra-7-265h-soc/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-02T09:32:30.769776"
+  },
+  {
+    "title": "CHUWI CoreBook Air Plus 16 review Part 3: Ubuntu 25.10 on a mid-range AMD Ryzen 5 6600H laptop",
+    "summary": "We ve already checked CHUWI CoreBook Air Plus 16 hardware in the first part of the review, before testing the AMD Ryzen 5 6600H laptop with Windows 11 Pro, and today I ll report my experience using the CoreBook Air Plus 16 laptop with Linux using Ubuntu 25.10 distribution. The Ubuntu review will include system information, benchmarks, YouTube 4K and 8K video playback, feature testing, storage and WiFi 6 performance, and measurement of fan noise and power consumption/battery life. Ubuntu 26.04 vs Ubuntu 25.10 installation The initial plan was to install Ubuntu 26.04 (daily image) on the laptop in dual boot configuration with Windows 11 Pro. So I resized the Windows partition in Disk Management to leave a 125GB partition for Ubuntu. I downloaded a daily Ubuntu 26.04 ISO (February 28, 2026), and created a startup disk on my Ubuntu 24.04 laptop using an 8GB USB flash drive. I plugged the USB [...] The post CHUWI CoreBook Air Plus 16 review Part 3: Ubuntu 25.10 on a mid-range AMD Ryzen 5 6600H laptop appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/01/chuwi-corebook-air-plus-16-review-part-3-ubuntu-25-10-on-a-mid-range-amd-ryzen-5-6600h-laptop/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-03-02T09:32:30.769911"
+  },
+  {
+    "title": "Windows 11 hits 72% share as Windows 10 fades, but not everyone is happy",
+    "summary": "But this shift in Windows adoption looks less like a wave of enthusiastic upgrades and more like a forced march driven by expiring support deadlines, strict hardware policies, and a steady drumbeat of problematic patches. Read Entire Article",
+    "link": "https://www.techspot.com/news/111515-windows-11-hits-72-share-windows-10-fades.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-02T09:32:30.771185"
+  },
+  {
+    "title": "Google is rolling out quantum-resistant HTTPS certificates in Chrome to future-proof the web",
+    "summary": "To understand why this matters, it helps to know how current web security actually works. When you visit a website, your browser checks a digital certificate to confirm you're actually talking to the real site and not some imposter. Those certificates are secured using complex math problems that regular computers... Read Entire Article",
+    "link": "https://www.techspot.com/news/111511-google-rolling-out-quantum-proof-https-certificates-protect.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-02T09:32:30.771310"
+  },
+  {
+    "title": "Google is building a Minnesota data center powered by wind, solar, and rust",
+    "summary": "The data center Google's first in Minnesota will draw on 1.9 gigawatts of carbon-free electricity from wind and solar infrastructure co-developed with utility giant Xcel Energy. Powering a data center around the clock with renewable energy remains a persistent industry challenge, and Google's solution relies on Form Energy's... Read Entire Article",
+    "link": "https://www.techspot.com/news/111512-inside-google-plan-power-minnesota-data-center-wind.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-02T09:32:30.771439"
   }
 ]

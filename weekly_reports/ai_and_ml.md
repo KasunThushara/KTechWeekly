@@ -1,65 +1,73 @@
 # 🤖 AI & ML
-**Week of March 01, 2026**
+**Week of March 02, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-03-01 09:00
+- **Articles this week:** 6
+- **Report generated:** 2026-03-02 09:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Nvidia pulls Resident Evil Requiem Game Ready driver over fan control issues 
+### 1. AMD details Ryzen AI 400 desktop with up to 8 cores, Radeon 860M graphics APUs won t be available as boxed units, only in OEM systems 
 
-Nvidia has pulled its February 2026 Game Ready driver due to fan control issues on RTX GPUs, which may cause overheating. The driver, which included optimizations for Resident Evil Requiem, was causing some fans to not turn on or ignore custom fan settings. This has prompted Nvidia to withdraw the driver for further testing.
+After announcing Ryzen AI 400 APUs earlier this year, AMD has finally revealed the specifications for the chips. However, they re targeting OEM systems, and they top out lower than AMD s Ryzen AI 400 mobile lineup.
 
-💡 *Nvidia's latest driver poses a risk of overheating due to faulty fan control.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111507-nvidia-pulls-resident-evil-requiem-game-ready-driver.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-details-ryzen-ai-400-desktop-with-up-to-8-cores-radeon-860m-graphics-apus-wont-be-available-as-boxed-units-only-in-oem-systems)
 
 ---
 
-### 2. 390TB video game archive being taken offline due to skyrocketing RAM, SSD, and hard drive prices AI-driven supply squeeze results in closure of one of the largest online video game archives 
+### 2. AMD s K6-III Sharptooth debuted this week in 1999 with on-die L2 cache to savage the Intel Pentium II it also held the line against the Pentium III 
 
-Myrient, a 390TB video game archive, faces closure due to rising storage and memory costs. The founder spends over $6,000 per month to maintain the project. The archive is set to go offline at the end of March 2026.
+AMD launched its first processors with on-die L2 cache in 1999, marking the beginning of the Super Socket 7 era.
 
-💡 *Rapidly increasing tech costs squeeze online preservation projects' viability*
+💡 *Innovative design led to improved performance and competitiveness with Intel processors.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/390tb-video-game-archive-being-taken-offline-due-to-skyrocketing-ram-ssd-and-hard-drive-prices-ai-driven-supply-squeeze-results-in-closure-of-one-of-the-largest-online-video-game-archives)
-
----
-
-### 3. OpenAI raises $110 billion in largest-ever private tech funding round, Nvidia throws in $30 billion AI startup now valued at $730 billion 
-
-OpenAI raises $110 billion in largest-ever private tech funding round, valuing the AI startup at $730 billion with investments from Amazon, Nvidia, and SoftBank.
-
-💡 *Massive funding cements AI dominance and accelerates innovation trajectory.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-raises-110-billion-in-largest-ever-private-tech-funding-round)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-k6-iii-sharptooth-debuted-this-week-in-1999-with-on-die-l2-cache-to-savage-the-intel-pentium-ii-it-also-held-the-line-against-the-pentium-iii)
 
 ---
 
-### 4. AMD Ryzen 7 9850X3D vs Intel Core i9-14900K faceoff Intel s Raptor Lake platform continues to be relevant in 2026 
+### 3. Lenovo's Framework-like Modular AI PC concept lets you put a screen just about anywhere detachable keyboard and ports make the machine customizable 
 
-AMD's Ryzen 7 9850X3D and Intel's Core i9-14900K are compared in a head-to-head battle. The Ryzen 7 9850X3D leads AMD's gaming lineup, but the Core i9-14900K excels in productivity-focused tasks. Both CPUs offer impressive performance in their respective domains.
+Lenovo's ThinkBook Modular AI PC Concept features a detachable display and keyboard for customization.
 
-💡 *Performance depends on task type, gaming or productivity-focused workloads.*
+💡 *Flexible design enables users to tailor their device to specific tasks.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9850x3d-vs-intel-core-i9-14900k-faceoff)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/lenovos-framework-like-modular-ai-pc-concept-lets-you-put-a-screen-just-about-anywhere-detachable-keyboard-and-ports-make-the-machine-customizable)
 
 ---
 
-### 5. Device that can extract 1,000 liters of clean water a day from desert air revealed by 2025 Nobel Prize winner claimed to work in desert air with 20% humidity or lower, delivering off-grid personalized water  
+### 4. Windows 11 continues gaining traction, nears 75% market share Windows 10 finally on the way out, some five months after Microsoft axes support 
 
-A device can extract 1,000 liters of clean water daily from desert air with 20% humidity or lower.
+Windows 11 surpasses 70% market share after Microsoft ends Windows 10 support. This milestone comes five months after Microsoft announced the end of support for Windows 10. The shift indicates growing adoption of the newer operating system.
 
-💡 *Revolutionizing off-grid access to clean drinking water in arid regions worldwide.*
+💡 *Microsoft's strategic support phase-out boosts Windows 11 adoption*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/device-that-can-extract-1-000-liters-of-clean-water-a-day-from-desert-air-revealed-by-2025-nobel-prize-winner-claimed-to-work-in-desert-air-with-20-percent-humidity-or-lower-delivering-off-grid-personalized-water)
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/windows-11-continues-gaining-traction-nears-75-percent-market-share-windows-10-finally-on-the-way-out-some-five-months-after-microsoft-axes-support)
+
+---
+
+### 5.  200,000 living human neurons on a microchip demonstrated playing Doom Cortical Labs CL1 video shows the gameplay and explains how the neurons learn the game 
+
+Cortical Labs' CL1 biological computer demonstrated 200,000 living neurons playing Doom, showcasing neural learning capabilities.
+
+💡 *Advancements in artificial brains could revolutionize AI and machine learning.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/200-000-living-human-neurons-on-a-microchip-demonstrated-playing-doom-cortical-labs-cl1-video-shows-the-gameplay-and-explains-how-the-neurons-learn-the-game)
+
+---
+
+### 6. Google is building a Minnesota data center powered by wind, solar, and rust 
+
+Google is building a Minnesota data center powered by 1.9 gigawatts of carbon-free electricity from wind and solar infrastructure, marking a significant renewable energy achievement in the industry.
+
+💡 *Google's solution relies on innovative energy storage technology.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111512-inside-google-plan-power-minnesota-data-center-wind.html)
 
 ---
 

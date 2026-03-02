@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of March 01, 2026**
+**Week of March 02, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,75 +7,75 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Nvidia pulls Resident Evil Requiem Game Ready driver over fan control issues 
-
-**🤖 AI & ML**
-
-Nvidia has pulled its February 2026 Game Ready driver due to fan control issues on RTX GPUs, which may cause overheating. The driver, which included optimizations for Resident Evil Requiem, was causing some fans to not turn on or ignore custom fan settings. This has prompted Nvidia to withdraw the driver for further testing.
-
-💡 **Key Point:** Nvidia's latest driver poses a risk of overheating due to faulty fan control.
-
-🔗 [Read More](https://www.techspot.com/news/111507-nvidia-pulls-resident-evil-requiem-game-ready-driver.html)
-
----
-
-### 2. This $35,000 computer made of living human neurons can run Doom 
+### 1. CHUWI CoreBook Air Plus 16 review Part 3: Ubuntu 25.10 on a mid-range AMD Ryzen 5 6600H laptop ⭐
 
 **💻 Hardware**
 
-The CL1 is a commercial system using living human neurons to run games like Doom, marking a significant advancement in neuro-engineering.
+The reviewer tests the CHUWI CoreBook Air Plus 16 with Ubuntu 25.10, evaluating system performance, benchmarks, video playback, feature testing, storage, WiFi 6 performance, fan noise, and power consumption.
 
-💡 **Key Point:** First commercially viable system harnessing living neurons for computing tasks.
+💡 **Key Point:** Mid-range laptops with AMD Ryzen 5 can run Linux smoothly and efficiently.
 
-🔗 [Read More](https://www.techspot.com/news/111506-35000-computer-made-living-human-neurons-can-run.html)
-
----
-
-### 3. Nvidia pulls Resident Evil Requiem Game Ready driver over fan control issues 
-
-**🎮 GPUs**
-
-Nvidia has pulled its February 2026 Game Ready driver due to fan control issues on RTX GPUs, which may cause overheating. The driver, which included optimizations for Resident Evil Requiem, was causing some fans to not turn on or ignore custom fan settings. This has prompted Nvidia to withdraw the driver for further testing.
-
-💡 **Key Point:** Nvidia's latest driver poses a risk of overheating due to faulty fan control.
-
-🔗 [Read More](https://www.techspot.com/news/111507-nvidia-pulls-resident-evil-requiem-game-ready-driver.html)
+🔗 [Read More](https://www.cnx-software.com/2026/03/01/chuwi-corebook-air-plus-16-review-part-3-ubuntu-25-10-on-a-mid-range-amd-ryzen-5-6600h-laptop/)
 
 ---
 
-### 4. US military uses a laser to blast a drone out of the sky on the US-Mexico border the target belonged to Customs and Border Protection in the friendly fire incident 
+### 2. CHUWI CoreBook Air Plus 16 review Part 3: Ubuntu 25.10 on a mid-range AMD Ryzen 5 6600H laptop ⭐
 
 **📰 Tech News**
 
-The US military accidentally shot down a CBP drone with a laser system near the US-Mexico border, mistaking it for a cartel drone. The incident highlights the risks of using advanced military technology in complex environments. An investigation is ongoing to determine the cause and consequences of the friendly fire incident.
+The reviewer tests the CHUWI CoreBook Air Plus 16 with Ubuntu 25.10, evaluating system performance, benchmarks, video playback, feature testing, storage, WiFi 6 performance, fan noise, and power consumption.
 
-💡 **Key Point:** Friendly fire incidents can occur with advanced military technology in complex environments
+💡 **Key Point:** Mid-range laptops with AMD Ryzen 5 can run Linux smoothly and efficiently.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/us-military-uses-a-laser-to-blast-a-drone-out-of-the-sky-on-the-us-mexico-border-the-target-belonged-to-customs-and-border-protection-in-the-friendly-fire-incident)
+🔗 [Read More](https://www.cnx-software.com/2026/03/01/chuwi-corebook-air-plus-16-review-part-3-ubuntu-25-10-on-a-mid-range-amd-ryzen-5-6600h-laptop/)
 
 ---
 
-### 5. Memory vendor under fire for imposing hefty 15% depreciation fee on returns despite skyrocketing RAM value user expected RMA replacement but gets hit with a loss instead 
+### 3. Orico BookDrive P10Plus (512GB) review: Magnetic back and 100W passthrough charging ⭐
 
-**📰 Tech News**
+**💻 Hardware**
 
-Silicon Power, a memory vendor, imposed a 15% depreciation fee on a RAM return, resulting in a lower refund than expected. The user, who returned a 16GB DDR4-3200 RAM kit, will receive $46.72, which is not enough to purchase a single 8GB DDR4-3200 RAM stick at current prices. This practice has left the user with significant financial loss.
+Orico's BookDrive P10Plus offers a solid construction, magnetic attachment, and 100W passthrough charging.
 
-💡 **Key Point:** High depreciation fees penalize customers for technological advancements
+💡 **Key Point:** Performance lacking for professional users in one key area slows productivity.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ram/memory-vendor-under-fire-for-imposing-hefty-15-percent-depreciation-fee-on-returns-despite-skyrocketing-ram-value-user-expected-rma-replacement-but-gets-hit-with-a-loss-instead)
+🔗 [Read More](https://www.tomshardware.com/pc-components/external-ssds/orico-bookdrive-p10plus-512gb-review)
+
+---
+
+### 4. Lenovo ThinkEdge SE60n Gen 2 fanless edge AI computer features up to 97 TOPS Intel Core Ultra 7 265H SoC ⭐
+
+**💻 Hardware**
+
+Lenovo unveiled the ThinkEdge SE60n Gen 2, a fanless edge AI computer powered by up to an Intel Core Ultra 7 265H SoC, offering up to 97 TOPS of AI performance and various connectivity options.
+
+💡 **Key Point:** Advancements in edge AI enable faster, more efficient data processing in real-world applications.
+
+🔗 [Read More](https://www.cnx-software.com/2026/03/02/lenovo-thinkedge-se60n-gen-2-fanless-edge-ai-computer-features-up-to-97-tops-intel-core-ultra-7-265h-soc/)
+
+---
+
+### 5. Lenovo ThinkEdge SE60n Gen 2 fanless edge AI computer features up to 97 TOPS Intel Core Ultra 7 265H SoC ⭐
+
+**⚡ Semiconductors**
+
+Lenovo unveiled the ThinkEdge SE60n Gen 2, a fanless edge AI computer powered by up to an Intel Core Ultra 7 265H SoC, offering up to 97 TOPS of AI performance and various connectivity options.
+
+💡 **Key Point:** Advancements in edge AI enable faster, more efficient data processing in real-world applications.
+
+🔗 [Read More](https://www.cnx-software.com/2026/03/02/lenovo-thinkedge-se60n-gen-2-fanless-edge-ai-computer-features-up-to-97-tops-intel-core-ultra-7-265h-soc/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **17 articles** across **5 focused categories**.
+We covered **27 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 5 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 3 | Computing hardware and development boards |
+| 🤖 [AI & ML](ai_and_ml.md) | 6 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 2 | Chip manufacturing and design |
 | 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
 
@@ -84,13 +84,13 @@ We covered **17 articles** across **5 focused categories**.
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 5 articles
+*Artificial Intelligence and Machine Learning* — 6 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 3 articles
+*Graphics cards and compute accelerators* — 5 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 3 articles
+*Computing hardware and development boards* — 10 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
 *Chip manufacturing and design* — 2 articles
@@ -102,6 +102,6 @@ We covered **17 articles** across **5 focused categories**.
 
 ## 📅 About
 
-Generated 2026-03-01 at 09:00 by an autonomous AI curation system.
+Generated 2026-03-02 at 09:33 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
