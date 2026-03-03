@@ -1,208 +1,397 @@
 [
   {
-    "title": "AMD details Ryzen AI 400 desktop with up to 8 cores, Radeon 860M graphics APUs won t be available as boxed units, only in OEM systems",
-    "summary": "After announcing Ryzen AI 400 APUs earlier this year, AMD has finally revealed the specifications for the chips. However, they re targeting OEM systems, and they top out lower than AMD s Ryzen AI 400 mobile lineup.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-details-ryzen-ai-400-desktop-with-up-to-8-cores-radeon-860m-graphics-apus-wont-be-available-as-boxed-units-only-in-oem-systems",
+    "title": "Phison is now demanding customers pre-pay with shorter timelines NAND squeeze affecting everyone in the SSD supply chain",
+    "summary": "Phison, a major SSD controller supplier, is now demanding customers pay upfront, with shorter payment timelines, due to the NAND squeeze affecting the SSD supply chain.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/phison-is-now-demanding-customers-pre-pay-with-shorter-timelines-nand-squeeze-affecting-everyone-in-the-ssd-supply-chain",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-03T09:25:43.930107",
+    "insight": "NAND shortage triggers Phison to demand upfront payment and tighter deadlines."
+  },
+  {
+    "title": "Nvidia s RTX 5070 seemingly crushes memory shortages to reign supreme as Steam s number one GPU but there are questions about why",
+    "summary": "The GeForce RTX 5070 has become Steam's most popular GPU, but its dominance raises methodological concerns.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5070-seemingly-crushes-memory-shortages-to-reign-supreme-as-steams-number-one-gpu-but-there-are-questions-about-why",
     "categories": [
       "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-02T09:32:30.768306"
-  },
-  {
-    "title": "Lenovo's Legion Go Fold-able gaming handheld concept has four screen modes, also works as a small laptop POLED display unfolds from 7.7 to 11.6 inches",
-    "summary": "Lenovo's Legion Go Fold handheld concept features four screen modes and doubles as a small laptop, with a POLED display unfolding from 7.7 to 11.6 inches. It utilizes Intel Core Ultra Series 2 processors and detachable controllers. The prototype requires further stability improvements.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/lenovos-legion-go-fold-able-gaming-handheld-concept-has-four-screen-modes-also-works-as-a-small-laptop-poled-display-unfolds-from-7-7-to-11-6-inches",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-02T09:32:30.768420",
-    "insight": "Revolutionizing gaming and portability with foldable display technology"
-  },
-  {
-    "title": "Lenovo's Framework-like Modular AI PC concept lets you put a screen just about anywhere detachable keyboard and ports make the machine customizable",
-    "summary": "Lenovo's ThinkBook Modular AI PC Concept features a detachable display and keyboard for customization.",
-    "link": "https://www.tomshardware.com/laptops/lenovos-framework-like-modular-ai-pc-concept-lets-you-put-a-screen-just-about-anywhere-detachable-keyboard-and-ports-make-the-machine-customizable",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-02T09:32:30.768504",
-    "insight": "Flexible design enables users to tailor their device to specific tasks."
-  },
-  {
-    "title": "Lenovo brings a blue ThinkPad T14 to Mobile World Congress slew of new devices includes a Legion 7a with Strix Halo",
-    "summary": "Lenovo is updating its ThinkPad, Yoga, and Legion laptop lines at Mobile World Congress in Barcelona, featuring new devices including a blue ThinkPad T14 and a Legion 7a with Strix Halo.",
-    "link": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/lenovo-brings-a-blue-thinkpad-t14-to-mobile-world-congress-slew-of-new-devices-includes-a-legion-7a-with-strix-halo",
-    "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-02T09:32:30.768576",
-    "insight": "Lenovo expands its laptop lineup with innovative features and designs."
+    "processed_date": "2026-03-03T09:25:43.930247",
+    "insight": "Nvidia's RTX 5070 surges to top Steam GPU position unexpectedly."
   },
   {
-    "title": "Gigabyte's huge 55-inch 4K 120Hz gaming monitor is now half price grab this Android-powered display with HDMI 2.1 for just $9 per inch",
-    "summary": "Gigabyte's S55U is a 55-inch 4K 120Hz gaming monitor with Android-powered capabilities.",
-    "link": "https://www.tomshardware.com/pc-components/gigabytes-huge-55-inch-4k-120hz-gaming-monitor-is-half-price-at-usd499-on-amazon-grab-this-android-powered-display-with-hdmi-2-1-for-just-usd9-per-inch",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-02T09:32:30.768645",
-    "insight": "High-end gaming monitor now affordable for a wider audience."
-  },
-  {
-    "title": "Windows 11 continues gaining traction, nears 75% market share Windows 10 finally on the way out, some five months after Microsoft axes support",
-    "summary": "Windows 11 surpasses 70% market share after Microsoft ends Windows 10 support. This milestone comes five months after Microsoft announced the end of support for Windows 10. The shift indicates growing adoption of the newer operating system.",
-    "link": "https://www.tomshardware.com/software/windows/windows-11-continues-gaining-traction-nears-75-percent-market-share-windows-10-finally-on-the-way-out-some-five-months-after-microsoft-axes-support",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-02T09:32:30.768732",
-    "insight": "Microsoft's strategic support phase-out boosts Windows 11 adoption"
-  },
-  {
-    "title": "Amiga Workbench Simulator helps you pick your ultimate retro desktop TAWS recently updated with refinements to OS 3.2, AmiBench presets",
-    "summary": "TAWS, an Amiga Workbench simulator, has been updated to refine Workbench 3.2 and AmiBench, enhancing the user experience.",
-    "link": "https://www.tomshardware.com/software/operating-systems/amiga-workbench-simulator-helps-you-pick-your-ultimate-retro-desktop-taws-recently-updated-with-refinements-to-os-3-2-amibench-presets",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-02T09:32:30.768802",
-    "insight": "Immersive retro computing experience now more realistic and detailed."
-  },
-  {
-    "title": " 200,000 living human neurons on a microchip demonstrated playing Doom Cortical Labs CL1 video shows the gameplay and explains how the neurons learn the game",
-    "summary": "Cortical Labs' CL1 biological computer demonstrated 200,000 living neurons playing Doom, showcasing neural learning capabilities.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/200-000-living-human-neurons-on-a-microchip-demonstrated-playing-doom-cortical-labs-cl1-video-shows-the-gameplay-and-explains-how-the-neurons-learn-the-game",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-02T09:32:30.768881",
-    "insight": "Advancements in artificial brains could revolutionize AI and machine learning."
-  },
-  {
-    "title": "Orico BookDrive P10Plus (512GB) review: Magnetic back and 100W passthrough charging",
-    "summary": "Orico's BookDrive P10Plus offers a solid construction, magnetic attachment, and 100W passthrough charging.",
-    "link": "https://www.tomshardware.com/pc-components/external-ssds/orico-bookdrive-p10plus-512gb-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-02T09:32:30.768955",
-    "insight": "Performance lacking for professional users in one key area slows productivity."
-  },
-  {
-    "title": "Enthusiast runs desktop PC off 56 AA batteries Intel computer lasts less than 5 minutes while playing Minesweeper",
-    "summary": "A desktop PC powered by 56 AA batteries lasted less than 5 minutes while playing Minesweeper, showcasing the significant power consumption of modern computers.",
-    "link": "https://www.tomshardware.com/desktops/enthusiast-runs-desktop-pc-off-56-aa-batteries-intel-computer-lasts-less-than-5-minutes-while-playing-minesweeper",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-02T09:32:30.769027",
-    "insight": "Desktop PCs consume massive power, limiting battery life significantly."
-  },
-  {
-    "title": "The Nvidia GeForce3 launched 25 years ago underappreciated at launch, its impact shaped the industry",
-    "summary": "The Nvidia GeForce3, launched 25 years ago, was initially underappreciated but significantly impacted the industry. Its innovative design and performance paved the way for future graphics cards. The GeForce3's influence can still be seen in modern gaming and graphics technology.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/the-geforce3-launched-25-years-ago-underappreciated-at-launch-its-impact-shaped-the-industry",
+    "title": "Nvidia releases new GeForce 595.71 driver to fix serious fan control bug new update resolves issues for RTX 30, 40, and 50-series GPUs that reportedly stopped some fans from working",
+    "summary": "Nvidia released a new driver update (595.71) to fix a fan control bug affecting RTX 30, 40, and 50-series GPUs. The issue was caused by a previously recalled driver (595.59). The update aims to resolve the problem and restore fan functionality.",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-releases-new-geforce-595-71-driver-to-fix-serious-fan-control-bug-new-update-resolves-issues-for-rtx-30-40-and-50-series-gpus-that-reportedly-stopped-some-fans-from-working",
     "categories": [
       "GPUs",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-02T09:32:30.769094",
-    "insight": "Innovation often appears insignificant in its initial, groundbreaking moment."
+    "processed_date": "2026-03-03T09:25:43.930344",
+    "insight": "Critical driver update resolves major fan control issue for Nvidia GPUs."
   },
   {
-    "title": "California introduces age verification law for all operating systems, including Linux and SteamOS user age verified during OS account setup",
-    "summary": "California introduces a law requiring age verification for all OS providers, including Linux and SteamOS, as part of the user account setup process. This broad definition aims to prevent minors from accessing online content and services. The law affects a wide range of operating systems and their providers.",
-    "link": "https://www.tomshardware.com/software/operating-systems/california-introduces-age-verification-law",
+    "title": "Transcend 260S 2TB SSD Review: A Dependable Alternative PCIe 5.0 Contender",
+    "summary": "The Transcend 260S delivers consistent performance in a reliable package, making it a dependable alternative for those seeking a PCIe 5.0 SSD. While it may not set records, its consistent performance is a notable achievement. This is particularly important for those requiring a stable storage solution.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/transcend-260s-2tb-ssd-review",
     "categories": [
+      "Hardware",
       "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-02T09:32:30.769165",
-    "insight": "Age verification expands to cover diverse, previously unregulated operating systems."
+    "quality_score": 10,
+    "processed_date": "2026-03-03T09:25:43.930422",
+    "insight": "Consistency over raw performance makes this SSD a practical choice."
   },
   {
-    "title": "AMD s K6-III Sharptooth debuted this week in 1999 with on-die L2 cache to savage the Intel Pentium II it also held the line against the Pentium III",
-    "summary": "AMD launched its first processors with on-die L2 cache in 1999, marking the beginning of the Super Socket 7 era.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amds-k6-iii-sharptooth-debuted-this-week-in-1999-with-on-die-l2-cache-to-savage-the-intel-pentium-ii-it-also-held-the-line-against-the-pentium-iii",
+    "title": "Exploring the future of Artificial Intelligence today's models, tomorrow's agents, and the big privacy problem",
+    "summary": "Artificial Intelligence is evolving rapidly with complex models and emerging risks. Large Language Models (LLMs) are the current benchmark, but future AI agents will integrate more features and raise privacy concerns. Companies are racing to develop and deploy these advancements.",
+    "link": "https://www.tomshardware.com/future-of-ai",
     "categories": [
-      "AI & ML",
-      "GPUs"
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.930505",
+    "insight": "AI's future hinges on balancing progress and user data protection."
+  },
+  {
+    "title": "ISSCC 2026: Rebellions details industry's first quad-chiplet AI solution with UCIe interconnects claims Rebel100 AI accelerator equals the power of Nvidia H200 with lower power envelope",
+    "summary": "Rebellions unveiled the world's first quad-chiplet AI accelerator with UCIe interconnects, outperforming Nvidia H200 with lower power consumption.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/isscc-2026-rebellions-ucie-rebel-100",
+    "categories": [
+      "GPUs",
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-02T09:32:30.769242",
-    "insight": "Innovative design led to improved performance and competitiveness with Intel processors."
+    "processed_date": "2026-03-03T09:25:43.930596",
+    "insight": "Quad-chiplet design enables more efficient AI acceleration and reduced power costs."
   },
   {
-    "title": "Lenovo ThinkEdge SE60n Gen 2 fanless edge AI computer features up to 97 TOPS Intel Core Ultra 7 265H SoC",
-    "summary": "Lenovo unveiled the ThinkEdge SE60n Gen 2, a fanless edge AI computer powered by up to an Intel Core Ultra 7 265H SoC, offering up to 97 TOPS of AI performance and various connectivity options.",
-    "link": "https://www.cnx-software.com/2026/03/02/lenovo-thinkedge-se60n-gen-2-fanless-edge-ai-computer-features-up-to-97-tops-intel-core-ultra-7-265h-soc/",
+    "title": "Entry-level PC market to disappear by 2028 rising memory prices pile more strain on consumer PC market",
+    "summary": "Rising memory prices will push PC prices up 17% by 2026, wiping out the sub-$500 PC market. This surge in prices is expected to be 130% by the end of 2026. PC makers may struggle to maintain profit margins as costs increase.",
+    "link": "https://www.tomshardware.com/tech-industry/rising-memory-prices-pile-more-strain-on-consumer-pc-market",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.930671",
+    "insight": "Rising memory prices threaten consumer PC market affordability"
+  },
+  {
+    "title": "Starlink Mobile teases 5G speeds from space with 100x the data density V2 satellites are being sent into orbit to power the upgrade",
+    "summary": "Starlink Mobile is upgrading to 5G speeds from space with a significant increase in data density.",
+    "link": "https://www.tomshardware.com/service-providers/network-providers/starlink-mobile-teases-5g-speeds-from-space-with-100x-the-data-density-v2-satellites-are-being-sent-into-orbit-to-power-the-upgrade",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-03T09:25:43.930749",
+    "insight": "Revolutionizing mobile internet with unprecedented high-speed, high-density connectivity."
+  },
+  {
+    "title": "Grab this awesome 4K-ready gaming PC with a 7800X3D and RX 9070 XT for under $1,750 $150 saving on powerful all-AMD rig with 32GB of DDR RAM and a spacious 2TB SSD",
+    "summary": "Get a powerful all-AMD gaming PC with a 7800X3D and RX 9070 XT for $1,749.99. This PC features 32GB of DDR RAM and a 2TB SSD. The deal offers a $150 saving.",
+    "link": "https://www.tomshardware.com/pc-components/grab-this-awesome-4k-ready-gaming-pc-with-a-7800x3d-and-rx-9070-xt-for-under-usd1-750-usd150-saving-on-powerful-all-amd-rig-with-32gb-of-ddr-ram-and-a-spacious-2tb-ssd",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.930829",
+    "insight": "High-performance gaming at an affordable price point with significant savings."
+  },
+  {
+    "title": "Cave-inspired 3D printed Japanese home touted as earthquake resistant two-story house first of its kind to be granted seismic compliance certificate",
+    "summary": "Japan has approved its first 2-story 3D printed 'cave-inspired' home, designed to be earthquake-resistant. This innovative construction method aims to provide a sustainable and secure housing solution. The home has been granted seismic compliance certification.",
+    "link": "https://www.tomshardware.com/3d-printing/cave-inspired-3d-printed-japanese-home-touted-as-earthquake-resistant-two-storey-house-first-of-its-kind-to-be-granted-seismic-compliance-certificate",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.930902",
+    "insight": "Advancing disaster-resilient housing through revolutionary 3D printing technology"
+  },
+  {
+    "title": "Save $190 when you bundle AMD's new 9850X3D CPU, Gigabyte X870 motherboard, and fast 1TB SN850X SSD for $839 Newegg's new SSD bundles get you an SSD priced at $319 for just $129",
+    "summary": "Newegg offers a combo bundle including a Ryzen 7 9850X3D CPU, Gigabyte X870 motherboard, and 1TB WD Black SN850X SSD for $839, offering a potential savings of $190.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/save-usd190-when-you-bundle-amds-new-9850x3d-cpu-gigabyte-x870-motherboard-and-fast-1tb-sn850x-ssd-for-usd839-neweggs-new-ssd-bundles-get-you-an-ssd-priced-at-usd319-for-just-usd129",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.930975",
+    "insight": "Significant cost savings through bundled hardware purchases."
+  },
+  {
+    "title": "Quectel RM255C mid-tier 5G RedCap M.2 and LGA modules support LTE Cat 4 fallback, multi-constellation GNSS",
+    "summary": "Quectel has released two 5G RedCap modules, RM255C-GL and RG255C-NA, supporting 5G Sub-6GHz SA with LTE Cat 4 fallback, multi-constellation GNSS, and various interfaces. These modules cater to industrial IoT, smart grids, and medium-speed applications. They offer backward compatibility with Rel-15/16 networks.",
+    "link": "https://www.cnx-software.com/2026/03/03/quectel-rm255c-mid-tier-5g-redcap-m-2-and-lga-modules-support-lte-cat-4-fallback-multi-constellation-gnss/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-03T09:25:43.931535",
+    "insight": "Bridge gap between LTE and full-featured 5G capabilities"
+  },
+  {
+    "title": "Nordic Semi nRF93M1 IoT modules offer LTE Cat 1bis cellular connectivity, Wi-Fi location capabilities",
+    "summary": "Nordic Semiconductors introduced the nRF93M1 LTE Cat 1bis IoT modules with up to 10 Mbps downlink and 5 Mbps uplink, as well as built-in Wi-Fi location capabilities. Two variants will be offered: the nRF93M1-LABA and the nRF93M1-LACA. These modules support various features like secure firmware updates and power-saving features.",
+    "link": "https://www.cnx-software.com/2026/03/03/nordic-semi-nrf93m1-iot-modules-offer-lte-cat-1bis-cellular-connectivity-wi-fi-location-capabilities/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-03-02T09:32:30.769776",
-    "insight": "Advancements in edge AI enable faster, more efficient data processing in real-world applications."
+    "quality_score": 10,
+    "processed_date": "2026-03-03T09:25:43.931681",
+    "insight": "Enhanced IoT capabilities for global connectivity and location-based services"
   },
   {
-    "title": "CHUWI CoreBook Air Plus 16 review Part 3: Ubuntu 25.10 on a mid-range AMD Ryzen 5 6600H laptop",
-    "summary": "The reviewer tests the CHUWI CoreBook Air Plus 16 with Ubuntu 25.10, evaluating system performance, benchmarks, video playback, feature testing, storage, WiFi 6 performance, fan noise, and power consumption.",
-    "link": "https://www.cnx-software.com/2026/03/01/chuwi-corebook-air-plus-16-review-part-3-ubuntu-25-10-on-a-mid-range-amd-ryzen-5-6600h-laptop/",
+    "title": "Qualcomm Wi-Fi 8 solutions FastConnect 8800 Mobile Client and Qualcomm Dragonwing Networking Platforms",
+    "summary": "Qualcomm has unveiled its Wi-Fi 8 portfolio, including the FastConnect 8800 Mobile Client and five Dragonwing Networking platforms. The FastConnect 8800 offers Wi-Fi 8, Bluetooth 7, UWB, and Thread capabilities. The Dragonwing platforms cater to various use cases, from enterprise access points to fiber broadband CPEs.",
+    "link": "https://www.cnx-software.com/2026/03/03/qualcomm-wifi-8-solutions-fastconnect-8800-mobile-client-and-qualcomm-dragonwing-networking-platforms/",
     "categories": [
-      "Hardware",
-      "Tech News"
+      "Semiconductors",
+      "AI & ML"
     ],
     "quality_score": 20,
-    "processed_date": "2026-03-02T09:32:30.769911",
-    "insight": "Mid-range laptops with AMD Ryzen 5 can run Linux smoothly and efficiently."
+    "processed_date": "2026-03-03T09:25:43.931829",
+    "insight": "Enhanced wireless capabilities for improved performance and connectivity experiences"
   },
   {
-    "title": "Windows 11 hits 72% share as Windows 10 fades, but not everyone is happy",
-    "summary": "Windows 11 has surpassed 72% market share, largely driven by expiring support deadlines and hardware policies. This shift appears to be more of a necessity than a voluntary upgrade. Many users are unhappy with the transition experience.",
-    "link": "https://www.techspot.com/news/111515-windows-11-hits-72-share-windows-10-fades.html",
+    "title": "GEEKOM A5 Pro 2026 Edition Review Part 2: An AMD Ryzen 5 7530U mini PC tested with Windows 11 Pro",
+    "summary": "The GEEKOM A5 Pro 2026 Edition mini PC with an AMD Ryzen 5 7530U processor is reviewed, testing features, benchmarks, and performance with Windows 11 Pro. The review covers software, hardware, and networking performance, cooling system, and power consumption. The results provide an in-depth look at the mini PC's capabilities and limitations.",
+    "link": "https://www.cnx-software.com/2026/03/02/geekom-a5-pro-2026-edition-review-part-2-an-amd-ryzen-5-7530u-mini-pc-tested-with-windows-11-pro/",
     "categories": [
-      "Hardware"
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-03-03T09:25:43.931961",
+    "insight": "Performance of mini PCs rivals traditional desktop PCs in certain areas"
+  },
+  {
+    "title": "Round three: More Rising Stars 2026",
+    "summary": "The Fierce Sensors Rising Stars 2026 program recognizes innovators in sensors and related technologies, highlighting their creativity, expertise, and impact. This program showcases emerging talent driving advancements in the field. The expanding group features individuals making significant contributions to sensors and related tech.",
+    "link": "https://www.fiercesensors.com/sensors/round-three-more-rising-stars-2026",
+    "categories": [
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-02T09:32:30.771185",
-    "insight": "Forced Windows adoption driven by expiring support deadlines and hardware policies."
+    "processed_date": "2026-03-03T09:25:43.932867",
+    "insight": "Accelerating innovation in sensors drives transformative technologies and industries"
   },
   {
-    "title": "Google is rolling out quantum-resistant HTTPS certificates in Chrome to future-proof the web",
-    "summary": "Google is introducing quantum-resistant HTTPS certificates to secure websites against potential hacks.",
-    "link": "https://www.techspot.com/news/111511-google-rolling-out-quantum-proof-https-certificates-protect.html",
+    "title": "Microsoft blocks the word 'Microslop' in Copilot Discord, and the server melts down",
+    "summary": "Microsoft's Copilot Discord blocks the word 'Microslop,' sparking user backlash and screenshots on social media. This incident raises concerns about censorship and freedom of speech. Users were unable to post the word, receiving a 'prohibited phrase' notice.",
+    "link": "https://www.techspot.com/news/111533-microsoft-blocks-word-microslop-copilot-discord-server-melts.html",
     "categories": [
-      "Hardware"
+      "Hardware",
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-02T09:32:30.771310",
-    "insight": "Enhancing web security to thwart quantum computer-based cyber threats."
+    "processed_date": "2026-03-03T09:25:43.933172",
+    "insight": "Free speech vs. corporate control in AI-powered online spaces"
   },
   {
-    "title": "Google is building a Minnesota data center powered by wind, solar, and rust",
-    "summary": "Google is building a Minnesota data center powered by 1.9 gigawatts of carbon-free electricity from wind and solar infrastructure, marking a significant renewable energy achievement in the industry.",
-    "link": "https://www.techspot.com/news/111512-inside-google-plan-power-minnesota-data-center-wind.html",
+    "title": "Claude is the top free app on iPhone right now, and the Pentagon drama is basically why",
+    "summary": "Claude rose to top spot on iPhone, surpassing ChatGPT and Gemini.",
+    "link": "https://www.techspot.com/news/111530-claude-top-free-app-iphone-right-now-pentagon.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-02T09:32:30.771439",
-    "insight": "Google's solution relies on innovative energy storage technology."
+    "processed_date": "2026-03-03T09:25:43.933270",
+    "insight": "Pentagon drama sparks intense user interest in AI chat apps."
+  },
+  {
+    "title": "A stolen Gemini API key turned a $180 bill into $82,000 in two days",
+    "summary": "A compromised Google Cloud API key turned a $180 bill into $82,000 in two days after being used to access Gemini services.",
+    "link": "https://www.techspot.com/news/111529-stolen-gemini-api-key-turned-180-bill-82000.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.933347",
+    "insight": "Unauthorized API access can lead to significant financial losses quickly."
+  },
+  {
+    "title": "Apple's iPad Air gets M4 performance upgrade without price increase",
+    "summary": "Apple's iPad Air gets a performance upgrade with the M4 chip, delivering up to 30% faster performance compared to last year's M3. This upgrade also offers a significant improvement over older Apple M1 chip devices. The upgrade from M3 to M4 is more incremental.",
+    "link": "https://www.techspot.com/news/111528-apple-ipad-air-gets-m4-performance-upgrade-without.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-03T09:25:43.933433",
+    "insight": "Significant boost in performance for older Apple devices"
+  },
+  {
+    "title": "AirPods 4 with ANC drop to $119, near their lowest price ever",
+    "summary": "AirPods 4 now available with ANC for $119, a near-lowest price ever.",
+    "link": "https://www.techspot.com/products/wearables/apple-airpods-4-with-active-noise-cancellation.298042/",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.933518",
+    "insight": "Affordable option for Apple ecosystem users without Pro features."
+  },
+  {
+    "title": "Apple unveils iPhone 17e with A19 chip and MagSafe charging starting at $599",
+    "summary": "Apple's iPhone 17e boasts a 6.1-inch OLED display with 1,200 nits brightness, improved anti-reflective coating, and Apple Ceramic Shield 2 protection, starting at $599.",
+    "link": "https://www.techspot.com/news/111526-apple-unveils-iphone-17e-a19-chip-magsafe-charging.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.933591",
+    "insight": "Enhanced display technology for improved visual experiences."
+  },
+  {
+    "title": "390TB game archive Myrient to shut down as storage costs surge",
+    "summary": "Myrient, a massive 390TB game archive, will shut down due to rising storage costs. The service will cease to exist on March 31, 2026, and hundreds of terabytes of gaming data will be lost. This comes as storage and hosting costs have sharply increased.",
+    "link": "https://www.techspot.com/news/111514-game-preservation-website-myrient-shut-down-storage-costs.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-03T09:25:43.933675",
+    "insight": "Digital preservation threatened by unsustainable storage costs and hosting fees."
+  },
+  {
+    "title": "Porsche turns a Resident Evil meme into a real-life racetrack stunt",
+    "summary": "Porsche turned a Resident Evil meme into a real-life racetrack stunt, showcasing a custom Cayenne Turbo GT. The stunt was inspired by the game's reveal trailer. The car was designed to embody the game's post-apocalyptic atmosphere.",
+    "link": "https://www.techspot.com/news/111523-porsche-turns-resident-evil-meme-real-life-racetrack.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.933758",
+    "insight": "Brands can leverage memes to create engaging, attention-grabbing marketing campaigns."
+  },
+  {
+    "title": "Samsung updates TV software to clarify how it tracks what you watch",
+    "summary": "Samsung updates TV software to clarify its automated content tracking feature, Automated Content Recognition (ACR), which scans and identifies content in real-time.",
+    "link": "https://www.techspot.com/news/111519-samsung-updates-tv-software-clarify-how-tracks-what.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.933840",
+    "insight": "Samsung clarifies TV software's intrusive content tracking methods publicly now."
+  },
+  {
+    "title": "Motorola Razr Fold debuts with Snapdragon 8 Gen 5, 6,000mAh battery, and hefty 2,000 price tag",
+    "summary": "The Motorola Razr Fold boasts a Snapdragon 8 Gen 5 processor and features a 6,000mAh battery. It comes with up to 16GB of memory and 1TB of storage, and has a basic level of dust and water resistance. The device is priced at a hefty 2,000.",
+    "link": "https://www.techspot.com/news/111525-motorola-razr-fold-debuts-snapdragon-8-gen-5.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.933922",
+    "insight": "High-end specs at a premium price point expected"
+  },
+  {
+    "title": "Lenovo's AI Workmate concept puts a desk robot with a projector in your office",
+    "summary": "Lenovo unveiled the AI Workmate concept, a desk robot with AI and projection, and the AI Work Companion concept, a stationary desktop assistant with AI-driven scheduling. Together, they aim to enhance office productivity and collaboration. Both concepts integrate conversational AI and AI-driven features.",
+    "link": "https://www.techspot.com/news/111520-lenovo-new-ai-desk-companions-want-join-next.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.934005",
+    "insight": "Revolutionizing office workflow with intelligent AI-powered desk assistants"
+  },
+  {
+    "title": "Lenovo's Legion Go Fold concept turns into a handheld, a wide tablet, a vertical screen, and a tiny laptop",
+    "summary": "Lenovo's Legion Go Fold is a versatile device with a folding screen that can transform into various form factors.",
+    "link": "https://www.techspot.com/news/111518-lenovo-legion-go-fold-concept-turns-handheld-wide.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.934086",
+    "insight": "Seamless screen transformation enables multiple uses from a single device."
+  },
+  {
+    "title": "Gartner says sub-$500 PCs could disappear by 2028 due to RAM crisis",
+    "summary": "Gartner predicts a decline in PC and smartphone shipments in 2026 due to rising RAM costs, with sub-$500 PCs potentially disappearing by 2028.",
+    "link": "https://www.techspot.com/news/111524-gartner-sub-500-entry-level-pcs-could-disappear.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.934178",
+    "insight": "Soaring memory costs threaten mass-market PC affordability and accessibility models."
+  },
+  {
+    "title": "Star Wars heads back to cinemas with two back-to-back films",
+    "summary": "Star Wars returns to cinemas with two new films, including Starfighter, directed by Shawn Levy. Early showings of footage have impressed studio observers, who praise Gosling's performance and Levy's ability to capture the 'spirit of fun' from the original series. The films promise to bring back the series' signature fun.",
+    "link": "https://www.techspot.com/news/111517-star-wars-heads-back-cinemas-two-back-back.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-03T09:25:43.934281",
+    "insight": "Star Wars revives its 'spirit of fun' in new cinematic releases."
+  },
+  {
+    "title": "Steam's hardware survey just flipped: new top GPU, Windows 11 crashes, Chinese takes the lead",
+    "summary": "Steam's hardware survey has released new results showing a change in the top GPU due to a recent fix. The issue, which affected VRAM reporting, has been resolved. Windows 11 crashes also appear to be on the rise.",
+    "link": "https://www.techspot.com/news/111522-steam-hardware-survey-flipped-new-top-gpu-windows.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.934360",
+    "insight": "Fixing VRAM reporting leads to changes in Steam's GPU rankings."
+  },
+  {
+    "title": "Insider says Sony is scaling back PC releases for first-party PlayStation games",
+    "summary": "Sony is reportedly scaling back PC releases for its first-party PlayStation games, prioritizing console exclusives instead.",
+    "link": "https://www.techspot.com/news/111513-insider-sony-scaling-back-pc-releases-first-party.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-03T09:25:43.934452",
+    "insight": "Shift away from PC ports impacts Sony's multi-platform revenue strategy"
+  },
+  {
+    "title": "AMD announces Ryzen AI 400 desktop chips with Zen 5, RDNA 3.5, and an XDNA 2 NPU",
+    "summary": "AMD announces Ryzen AI 400 desktop chips with AI acceleration capabilities. The new Ryzen AI 400 Series and Ryzen AI PRO 400 Series desktop processors pair Zen 5 CPU cores with RDNA 3.5 integrated graphics and an XDNA 2 NPU. This is AMD's first 'AI PC' desktop lineup.",
+    "link": "https://www.techspot.com/news/111521-amd-announces-ryzen-ai-400-series-desktop-chips.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-03T09:25:43.934541",
+    "insight": "AI acceleration integrated into mainstream desktop processors"
+  },
+  {
+    "title": "What happens when you try to power a desktop PC with 56 AA batteries?",
+    "summary": "A desktop PC was attempted to be powered by 56 AA batteries, but it failed due to insufficient power supply. The system drew its power through a custom ATX plug. The hardware consisted of an entry-level Intel processor and a 2.5-inch SATA SSD.",
+    "link": "https://www.techspot.com/news/111516-what-happens-when-you-try-power-desktop-pc.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-03T09:25:43.934626",
+    "insight": "Relying on battery power is impractical for high power computing devices."
   }
 ]

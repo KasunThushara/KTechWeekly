@@ -1,55 +1,65 @@
 # 📰 Tech News
-**Week of March 02, 2026**
+**Week of March 03, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-03-02 09:33
+- **Articles this week:** 5
+- **Report generated:** 2026-03-03 09:27
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. CHUWI CoreBook Air Plus 16 review Part 3: Ubuntu 25.10 on a mid-range AMD Ryzen 5 6600H laptop ⭐
+### 1. Nvidia releases new GeForce 595.71 driver to fix serious fan control bug new update resolves issues for RTX 30, 40, and 50-series GPUs that reportedly stopped some fans from working 
 
-The reviewer tests the CHUWI CoreBook Air Plus 16 with Ubuntu 25.10, evaluating system performance, benchmarks, video playback, feature testing, storage, WiFi 6 performance, fan noise, and power consumption.
+Nvidia released a new driver update (595.71) to fix a fan control bug affecting RTX 30, 40, and 50-series GPUs. The issue was caused by a previously recalled driver (595.59). The update aims to resolve the problem and restore fan functionality.
 
-💡 *Mid-range laptops with AMD Ryzen 5 can run Linux smoothly and efficiently.*
+💡 *Critical driver update resolves major fan control issue for Nvidia GPUs.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/01/chuwi-corebook-air-plus-16-review-part-3-ubuntu-25-10-on-a-mid-range-amd-ryzen-5-6600h-laptop/)
-
----
-
-### 2. Orico BookDrive P10Plus (512GB) review: Magnetic back and 100W passthrough charging ⭐
-
-Orico's BookDrive P10Plus offers a solid construction, magnetic attachment, and 100W passthrough charging.
-
-💡 *Performance lacking for professional users in one key area slows productivity.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-ssds/orico-bookdrive-p10plus-512gb-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-releases-new-geforce-595-71-driver-to-fix-serious-fan-control-bug-new-update-resolves-issues-for-rtx-30-40-and-50-series-gpus-that-reportedly-stopped-some-fans-from-working)
 
 ---
 
-### 3. The Nvidia GeForce3 launched 25 years ago underappreciated at launch, its impact shaped the industry 
+### 2. Transcend 260S 2TB SSD Review: A Dependable Alternative PCIe 5.0 Contender 
 
-The Nvidia GeForce3, launched 25 years ago, was initially underappreciated but significantly impacted the industry. Its innovative design and performance paved the way for future graphics cards. The GeForce3's influence can still be seen in modern gaming and graphics technology.
+The Transcend 260S delivers consistent performance in a reliable package, making it a dependable alternative for those seeking a PCIe 5.0 SSD. While it may not set records, its consistent performance is a notable achievement. This is particularly important for those requiring a stable storage solution.
 
-💡 *Innovation often appears insignificant in its initial, groundbreaking moment.*
+💡 *Consistency over raw performance makes this SSD a practical choice.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/the-geforce3-launched-25-years-ago-underappreciated-at-launch-its-impact-shaped-the-industry)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/transcend-260s-2tb-ssd-review)
 
 ---
 
-### 4. California introduces age verification law for all operating systems, including Linux and SteamOS user age verified during OS account setup 
+### 3. Insider says Sony is scaling back PC releases for first-party PlayStation games 
 
-California introduces a law requiring age verification for all OS providers, including Linux and SteamOS, as part of the user account setup process. This broad definition aims to prevent minors from accessing online content and services. The law affects a wide range of operating systems and their providers.
+Sony is reportedly scaling back PC releases for its first-party PlayStation games, prioritizing console exclusives instead.
 
-💡 *Age verification expands to cover diverse, previously unregulated operating systems.*
+💡 *Shift away from PC ports impacts Sony's multi-platform revenue strategy*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/operating-systems/california-introduces-age-verification-law)
+🔗 [Read Full Article](https://www.techspot.com/news/111513-insider-sony-scaling-back-pc-releases-first-party.html)
+
+---
+
+### 4. Round three: More Rising Stars 2026 
+
+The Fierce Sensors Rising Stars 2026 program recognizes innovators in sensors and related technologies, highlighting their creativity, expertise, and impact. This program showcases emerging talent driving advancements in the field. The expanding group features individuals making significant contributions to sensors and related tech.
+
+💡 *Accelerating innovation in sensors drives transformative technologies and industries*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/round-three-more-rising-stars-2026)
+
+---
+
+### 5. A stolen Gemini API key turned a $180 bill into $82,000 in two days 
+
+A compromised Google Cloud API key turned a $180 bill into $82,000 in two days after being used to access Gemini services.
+
+💡 *Unauthorized API access can lead to significant financial losses quickly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111529-stolen-gemini-api-key-turned-180-bill-82000.html)
 
 ---
 
