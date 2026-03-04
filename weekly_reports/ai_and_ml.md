@@ -1,5 +1,5 @@
 # 🤖 AI & ML
-**Week of March 03, 2026**
+**Week of March 04, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
@@ -7,159 +7,159 @@
 
 ## 📊 Summary
 - **Articles this week:** 15
-- **Report generated:** 2026-03-03 09:27
+- **Report generated:** 2026-03-04 09:24
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Qualcomm Wi-Fi 8 solutions FastConnect 8800 Mobile Client and Qualcomm Dragonwing Networking Platforms ⭐
+### 1. New DNA HDD can be erased and overwritten repeatedly University of Missouri researchers aiming for next-gen thumb-drive-sized storage 
 
-Qualcomm has unveiled its Wi-Fi 8 portfolio, including the FastConnect 8800 Mobile Client and five Dragonwing Networking platforms. The FastConnect 8800 offers Wi-Fi 8, Bluetooth 7, UWB, and Thread capabilities. The Dragonwing platforms cater to various use cases, from enterprise access points to fiber broadband CPEs.
+Researchers at the University of Missouri are developing a DNA HDD that can be erased and rewritten, bringing the technology closer to being a practical and rewritable storage system. This DNA-based storage has the potential to revolutionize data storage, offering high capacity and longevity. The team's work moves the field closer to a thumb-drive-sized storage device.
 
-💡 *Enhanced wireless capabilities for improved performance and connectivity experiences*
+💡 *Rewritable DNA storage could replace traditional data storage mediums*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/03/qualcomm-wifi-8-solutions-fastconnect-8800-mobile-client-and-qualcomm-dragonwing-networking-platforms/)
-
----
-
-### 2. ISSCC 2026: Rebellions details industry's first quad-chiplet AI solution with UCIe interconnects claims Rebel100 AI accelerator equals the power of Nvidia H200 with lower power envelope 
-
-Rebellions unveiled the world's first quad-chiplet AI accelerator with UCIe interconnects, outperforming Nvidia H200 with lower power consumption.
-
-💡 *Quad-chiplet design enables more efficient AI acceleration and reduced power costs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/isscc-2026-rebellions-ucie-rebel-100)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/new-dna-hdd-can-be-erased-and-overwritten-repeatedly-university-of-missouri-researchers-aiming-for-next-gen-thumb-drive-sized-storage)
 
 ---
 
-### 3. Apple's iPad Air gets M4 performance upgrade without price increase 
+### 2. Renesas RA0E3 Arm Cortex-M23 MCU is a stripped-down RA0E1 for cost-sensitive applications 
 
-Apple's iPad Air gets a performance upgrade with the M4 chip, delivering up to 30% faster performance compared to last year's M3. This upgrade also offers a significant improvement over older Apple M1 chip devices. The upgrade from M3 to M4 is more incremental.
+Renesas RA0E3 is a stripped-down MCU for cost-sensitive applications with reduced memory and peripherals.
 
-💡 *Significant boost in performance for older Apple devices*
+💡 *Budget-friendly option for sensing, motor assist, and basic system control.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111528-apple-ipad-air-gets-m4-performance-upgrade-without.html)
-
----
-
-### 4. 390TB game archive Myrient to shut down as storage costs surge 
-
-Myrient, a massive 390TB game archive, will shut down due to rising storage costs. The service will cease to exist on March 31, 2026, and hundreds of terabytes of gaming data will be lost. This comes as storage and hosting costs have sharply increased.
-
-💡 *Digital preservation threatened by unsustainable storage costs and hosting fees.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111514-game-preservation-website-myrient-shut-down-storage-costs.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/04/renesas-ra0e3-arm-cortex-m23-mcu-is-a-stripped-down-ra0e1-for-cost-sensitive-applications/)
 
 ---
 
-### 5. Star Wars heads back to cinemas with two back-to-back films 
+### 3. ST s smart IMU bolsters Qualcomm s monster AI chip for wearables 
 
-Star Wars returns to cinemas with two new films, including Starfighter, directed by Shawn Levy. Early showings of footage have impressed studio observers, who praise Gosling's performance and Levy's ability to capture the 'spirit of fun' from the original series. The films promise to bring back the series' signature fun.
+Qualcomm announced the Snapdragon Wear Elite chip, a powerful AI chip for wearables, set to appear in personal AI devices from Google, Motorola, and Samsung later this year.
 
-💡 *Star Wars revives its 'spirit of fun' in new cinematic releases.*
+💡 *Qualcomm's AI chip boosts wearable technology with enhanced AI capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111517-star-wars-heads-back-cinemas-two-back-back.html)
-
----
-
-### 6. Exploring the future of Artificial Intelligence today's models, tomorrow's agents, and the big privacy problem 
-
-Artificial Intelligence is evolving rapidly with complex models and emerging risks. Large Language Models (LLMs) are the current benchmark, but future AI agents will integrate more features and raise privacy concerns. Companies are racing to develop and deploy these advancements.
-
-💡 *AI's future hinges on balancing progress and user data protection.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/future-of-ai)
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/sts-smart-imu-bolsters-qualcomms-monster-ai-chip-wearables)
 
 ---
 
-### 7. Entry-level PC market to disappear by 2028 rising memory prices pile more strain on consumer PC market 
+### 4. Leaked government-grade iPhone hacking tools now used to steal crypto and data from users 
 
-Rising memory prices will push PC prices up 17% by 2026, wiping out the sub-$500 PC market. This surge in prices is expected to be 130% by the end of 2026. PC makers may struggle to maintain profit margins as costs increase.
+Leaked government-grade iPhone hacking tools are being used to steal crypto and data from users, exploiting 23 iOS vulnerabilities.
 
-💡 *Rising memory prices threaten consumer PC market affordability*
+💡 *Government-grade hacking tools have been repurposed for massive cybercrime operations worldwide.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/rising-memory-prices-pile-more-strain-on-consumer-pc-market)
-
----
-
-### 8. Microsoft blocks the word 'Microslop' in Copilot Discord, and the server melts down 
-
-Microsoft's Copilot Discord blocks the word 'Microslop,' sparking user backlash and screenshots on social media. This incident raises concerns about censorship and freedom of speech. Users were unable to post the word, receiving a 'prohibited phrase' notice.
-
-💡 *Free speech vs. corporate control in AI-powered online spaces*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111533-microsoft-blocks-word-microslop-copilot-discord-server-melts.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111554-leaked-government-grade-iphone-hacking-tools-now-used.html)
 
 ---
 
-### 9. Claude is the top free app on iPhone right now, and the Pentagon drama is basically why 
+### 5. South Korea's tax office lost millions in crypto after accidentally posting the wallet's master key 
 
-Claude rose to top spot on iPhone, surpassing ChatGPT and Gemini.
+South Korea's tax office accidentally posted a crypto wallet master key online, losing millions. The National Tax Service released a statement about an investigation, including a photo that revealed sensitive information. This led to the loss of significant funds.
 
-💡 *Pentagon drama sparks intense user interest in AI chat apps.*
+💡 *Careless disclosure of sensitive information can have disastrous financial consequences.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111530-claude-top-free-app-iphone-right-now-pentagon.html)
-
----
-
-### 10. AirPods 4 with ANC drop to $119, near their lowest price ever 
-
-AirPods 4 now available with ANC for $119, a near-lowest price ever.
-
-💡 *Affordable option for Apple ecosystem users without Pro features.*
-
-🔗 [Read Full Article](https://www.techspot.com/products/wearables/apple-airpods-4-with-active-noise-cancellation.298042/)
+🔗 [Read Full Article](https://www.techspot.com/news/111549-south-korea-tax-office-lost-millions-crypto-after.html)
 
 ---
 
-### 11. Porsche turns a Resident Evil meme into a real-life racetrack stunt 
+### 6. AI-driven warfare is here, and the Iran strikes show how fast it's advancing 
 
-Porsche turned a Resident Evil meme into a real-life racetrack stunt, showcasing a custom Cayenne Turbo GT. The stunt was inspired by the game's reveal trailer. The car was designed to embody the game's post-apocalyptic atmosphere.
+The US and Israel allegedly used Anthropic's Claude AI model in operations against Iran, applying it to intelligence analysis and scenario planning for targeting.
 
-💡 *Brands can leverage memes to create engaging, attention-grabbing marketing campaigns.*
+💡 *AI is rapidly evolving in warfare, blurring lines of human control.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111523-porsche-turns-resident-evil-meme-real-life-racetrack.html)
-
----
-
-### 12. Samsung updates TV software to clarify how it tracks what you watch 
-
-Samsung updates TV software to clarify its automated content tracking feature, Automated Content Recognition (ACR), which scans and identifies content in real-time.
-
-💡 *Samsung clarifies TV software's intrusive content tracking methods publicly now.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111519-samsung-updates-tv-software-clarify-how-tracks-what.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111541-ai-driven-warfare-here-iran-latest-proof-how.html)
 
 ---
 
-### 13. Motorola Razr Fold debuts with Snapdragon 8 Gen 5, 6,000mAh battery, and hefty 2,000 price tag 
+### 7. Seagate begins shipping 44TB hard drives with HAMR tech to data centers Mozaic 4+ platform expands to 10 platters 
 
-The Motorola Razr Fold boasts a Snapdragon 8 Gen 5 processor and features a 6,000mAh battery. It comes with up to 16GB of memory and 1TB of storage, and has a basic level of dust and water resistance. The device is priced at a hefty 2,000.
+Seagate has started shipping 44TB hard drives with HAMR tech to data centers, marking a major milestone in storage capacity. The Mozaic 4+ platform expansion to 10 platters also supports growing data needs. This move is expected to boost storage capacity in data centers.
 
-💡 *High-end specs at a premium price point expected*
+💡 *Data centers require exponentially increasing storage capacity.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111525-motorola-razr-fold-debuts-snapdragon-8-gen-5.html)
-
----
-
-### 14. Lenovo's AI Workmate concept puts a desk robot with a projector in your office 
-
-Lenovo unveiled the AI Workmate concept, a desk robot with AI and projection, and the AI Work Companion concept, a stationary desktop assistant with AI-driven scheduling. Together, they aim to enhance office productivity and collaboration. Both concepts integrate conversational AI and AI-driven features.
-
-💡 *Revolutionizing office workflow with intelligent AI-powered desk assistants*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111520-lenovo-new-ai-desk-companions-want-join-next.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/hdds/seagate-begins-shipping-44tb-hard-drives-with-hamr-tech-to-data-centers-mozaic-4-platform-expands-to-10-platters)
 
 ---
 
-### 15. Phison is now demanding customers pre-pay with shorter timelines NAND squeeze affecting everyone in the SSD supply chain 
+### 8. AI memory crunch forces DRAM market into 'hourly pricing' model, report claims small and medium-sized businesses fighting for survival 
 
-Phison, a major SSD controller supplier, is now demanding customers pay upfront, with shorter payment timelines, due to the NAND squeeze affecting the SSD supply chain.
+Small and medium-sized businesses struggle to absorb DRAM price increases, causing financial difficulties.
 
-💡 *NAND shortage triggers Phison to demand upfront payment and tighter deadlines.*
+💡 *Soaring memory costs threaten the survival of small businesses.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/phison-is-now-demanding-customers-pre-pay-with-shorter-timelines-nand-squeeze-affecting-everyone-in-the-ssd-supply-chain)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/memory-prices-now-shifting-hourly-as-smaller-firms-fight-over-scraps)
+
+---
+
+### 9. Apple's new MacBook Air gets M5 and doubles starting storage base price increases to $1,099 
+
+Apple's MacBook Air gets updated with M5 chip, increased starting price to $1,099, and doubled storage base.
+
+💡 *Apple raises MacBook Air starting price to boost profit margins further.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/apples-new-macbook-air-gets-m5-and-doubles-starting-storage-base-price-increases-to-usd1-099)
+
+---
+
+### 10. Nvidia-backed trial shows AI data centers can flexibly adjust power use in near real time, with global implications for energy consumption suggests hyperscalers can reduce consumption as necessary, ensuring grid isn t overloaded during peak demand 
+
+A U.K. study shows AI data centers can adjust power use in near real-time, reducing peak demands and potential grid overloads.
+
+💡 *Dynamic power management can prevent grid overloads during peak hours.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-backed-trial-shows-ai-data-centers-can-flexibly-adjust-power-use-in-near-real-time-with-global-implications-for-energy-consumption-suggests-hyperscalers-can-reduce-consumption-as-necessary-ensuring-grid-isnt-overloaded-during-peak-demand)
+
+---
+
+### 11. Apple unveils MacBook Pro with M5 Pro and M5 Max, refreshes MacBook Air with M5 
+
+Apple unveils MacBook Pro with M5 Pro and M5 Max, featuring Liquid Retina XDR displays and increased storage capacity. The new MacBook Pro will be available in 14-inch and 16-inch configurations. This refresh aims to improve performance and user experience.
+
+💡 *Enhanced performance and display quality in new MacBook Pro models.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111548-apple-announces-updated-macbooks-m5-pro-max-chips.html)
+
+---
+
+### 12. Jolla Sailfish pitches a "European phone" for users wary of Google and Apple 
+
+Jolla returns to smartphone market with a new device assembled in Finland, running on Sailfish OS, after a decade of turmoil and rebranding.
+
+💡 *Jolla's European flagship phone offers an alternative to Google and Apple.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111540-jolla-sailfish-pitches-european-phone-users-wary-google.html)
+
+---
+
+### 13. OpenAI revises Pentagon contract to curb mass surveillance, but critics warn of major loopholes 
+
+OpenAI revises Pentagon contract to address concerns over mass surveillance, citing a valuable lesson learned.
+
+💡 *OpenAI prioritizes transparency and accountability in high-stakes government partnerships.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111545-openai-revises-pentagon-contract-curb-mass-surveillance-but.html)
+
+---
+
+### 14. ASML looks beyond EUV, plans new tools for larger chips and 3D packaging 
+
+ASML is expanding its product line to include larger chip production tools and 3D packaging, moving beyond its current role as the world's sole EUV supplier.
+
+💡 *ASML's diversification fuels growth in AI-era chip manufacturing capabilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111543-asml-looks-beyond-euv-plans-new-tools-larger.html)
+
+---
+
+### 15. Intel Chairman Frank Yeary retires, Craig Barrat to become the new chairman of the Board of Directors 
+
+Intel Chairman Frank Yeary has retired from the board of directors, replaced by Craig Barrat.
+
+💡 *Shift in leadership may impact Intel's future strategic decisions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-chairman-frank-yeary-retires-craig-barrat-to-become-the-new-chairman-of-the-board-of-directors)
 
 ---
 

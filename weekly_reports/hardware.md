@@ -1,185 +1,145 @@
 # 💻 Hardware
-**Week of March 03, 2026**
+**Week of March 04, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 17
-- **Report generated:** 2026-03-03 09:27
+- **Articles this week:** 13
+- **Report generated:** 2026-03-04 09:24
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. GEEKOM A5 Pro 2026 Edition Review Part 2: An AMD Ryzen 5 7530U mini PC tested with Windows 11 Pro ⭐
+### 1. Qualcomm Snapdragon Wear Elite wearable platform offers 5G RedCap, WiFi 6, Bluetooth 6.0, built-in AI accelerator ⭐
 
-The GEEKOM A5 Pro 2026 Edition mini PC with an AMD Ryzen 5 7530U processor is reviewed, testing features, benchmarks, and performance with Windows 11 Pro. The review covers software, hardware, and networking performance, cooling system, and power consumption. The results provide an in-depth look at the mini PC's capabilities and limitations.
+Qualcomm Snapdragon Wear Elite is a personal AI wearable platform featuring 5G, Wi-Fi 6, and a built-in AI accelerator, offering improved performance, battery life, and charging capabilities.
 
-💡 *Performance of mini PCs rivals traditional desktop PCs in certain areas*
+💡 *Advances wearable technology with AI-powered performance and multi-day battery life.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/02/geekom-a5-pro-2026-edition-review-part-2-an-amd-ryzen-5-7530u-mini-pc-tested-with-windows-11-pro/)
-
----
-
-### 2. Quectel RM255C mid-tier 5G RedCap M.2 and LGA modules support LTE Cat 4 fallback, multi-constellation GNSS ⭐
-
-Quectel has released two 5G RedCap modules, RM255C-GL and RG255C-NA, supporting 5G Sub-6GHz SA with LTE Cat 4 fallback, multi-constellation GNSS, and various interfaces. These modules cater to industrial IoT, smart grids, and medium-speed applications. They offer backward compatibility with Rel-15/16 networks.
-
-💡 *Bridge gap between LTE and full-featured 5G capabilities*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/03/quectel-rm255c-mid-tier-5g-redcap-m-2-and-lga-modules-support-lte-cat-4-fallback-multi-constellation-gnss/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/03/qualcomm-snapdragon-wear-elite-wearable-platform-offers-5g-redcap-wifi-6-bluetooth-6-0-built-in-ai-accelerator/)
 
 ---
 
-### 3. Transcend 260S 2TB SSD Review: A Dependable Alternative PCIe 5.0 Contender 
+### 2. Microsoft adds Shader Execution Reordering (SER) in latest DirectX SDK for more efficient ray tracing Intel Arc B-series GPUs show 90% performance uplift ⭐
 
-The Transcend 260S delivers consistent performance in a reliable package, making it a dependable alternative for those seeking a PCIe 5.0 SSD. While it may not set records, its consistent performance is a notable achievement. This is particularly important for those requiring a stable storage solution.
+Microsoft's latest DXR 1.2 update includes Shader Execution Reordering (SER) and Opacity Micromaps (OMMs), enabling faster ray-traced scenes for game developers and GPU makers.
 
-💡 *Consistency over raw performance makes this SSD a practical choice.*
+💡 *Ray tracing performance to improve on Intel Arc B-series GPUs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/transcend-260s-2tb-ssd-review)
-
----
-
-### 4. Nordic Semi nRF93M1 IoT modules offer LTE Cat 1bis cellular connectivity, Wi-Fi location capabilities 
-
-Nordic Semiconductors introduced the nRF93M1 LTE Cat 1bis IoT modules with up to 10 Mbps downlink and 5 Mbps uplink, as well as built-in Wi-Fi location capabilities. Two variants will be offered: the nRF93M1-LABA and the nRF93M1-LACA. These modules support various features like secure firmware updates and power-saving features.
-
-💡 *Enhanced IoT capabilities for global connectivity and location-based services*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/03/nordic-semi-nrf93m1-iot-modules-offer-lte-cat-1bis-cellular-connectivity-wi-fi-location-capabilities/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/microsoft-adds-shader-execution-reordering-ser-in-latest-directx-sdk-for-more-efficient-ray-tracing-intel-arc-b-series-gpus-show-90-percent-performance-uplift)
 
 ---
 
-### 5. Star Wars heads back to cinemas with two back-to-back films 
+### 3. Apple launches new MacBook Pros powered by M5 Pro, M5 Max, and 2x faster SSDs new 'Super Cores' help deliver up to 30 percent performance boost 
 
-Star Wars returns to cinemas with two new films, including Starfighter, directed by Shawn Levy. Early showings of footage have impressed studio observers, who praise Gosling's performance and Levy's ability to capture the 'spirit of fun' from the original series. The films promise to bring back the series' signature fun.
+Apple's new MacBook Pros feature improved performance and storage, but higher prices.
 
-💡 *Star Wars revives its 'spirit of fun' in new cinematic releases.*
+💡 *Significant performance boost at a premium price point.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111517-star-wars-heads-back-cinemas-two-back-back.html)
-
----
-
-### 6. Insider says Sony is scaling back PC releases for first-party PlayStation games 
-
-Sony is reportedly scaling back PC releases for its first-party PlayStation games, prioritizing console exclusives instead.
-
-💡 *Shift away from PC ports impacts Sony's multi-platform revenue strategy*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111513-insider-sony-scaling-back-pc-releases-first-party.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/apple-launches-new-macbook-pros-powered-by-m5-pro-m5-max-and-2x-faster-ssds-new-super-cores-help-deliver-up-to-30-percent-performance-boost)
 
 ---
 
-### 7. AMD announces Ryzen AI 400 desktop chips with Zen 5, RDNA 3.5, and an XDNA 2 NPU 
+### 4. Upgraded FGH200M Wi-Fi HaLow module features Morse Micro MM8108 SoC, handles up to 8,191 IoT devices 
 
-AMD announces Ryzen AI 400 desktop chips with AI acceleration capabilities. The new Ryzen AI 400 Series and Ryzen AI PRO 400 Series desktop processors pair Zen 5 CPU cores with RDNA 3.5 integrated graphics and an XDNA 2 NPU. This is AMD's first 'AI PC' desktop lineup.
+The Quectel FGH200M Wi-Fi HaLow module, based on Morse Micro MM8108 SoC, offers long-range, low-power IoT connectivity with a range of up to 1 km and the ability to connect up to 8,191 devices. It operates in industrial environments and supports various interfaces, including USB 2.0 and SPI. The module is suitable for applications such as smart homes and large-area IoT networks.
 
-💡 *AI acceleration integrated into mainstream desktop processors*
+💡 *Enhanced IoT connectivity for large-scale, industrial smart environments.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111521-amd-announces-ryzen-ai-400-series-desktop-chips.html)
-
----
-
-### 8. Nvidia s RTX 5070 seemingly crushes memory shortages to reign supreme as Steam s number one GPU but there are questions about why 
-
-The GeForce RTX 5070 has become Steam's most popular GPU, but its dominance raises methodological concerns.
-
-💡 *Nvidia's RTX 5070 surges to top Steam GPU position unexpectedly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5070-seemingly-crushes-memory-shortages-to-reign-supreme-as-steams-number-one-gpu-but-there-are-questions-about-why)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/04/upgraded-fgh200m-wi-fi-halow-module-features-morse-micro-mm8108-soc-handles-up-to-8191-iot-devices/)
 
 ---
 
-### 9. Entry-level PC market to disappear by 2028 rising memory prices pile more strain on consumer PC market 
+### 5. Intel's make-or-break 18A process node debuts for data center with 288-core Xeon 6+ CPU multi-chip monster sports 12 channels of DDR5-8000, Foveros Direct 3D packaging tech 
 
-Rising memory prices will push PC prices up 17% by 2026, wiping out the sub-$500 PC market. This surge in prices is expected to be 130% by the end of 2026. PC makers may struggle to maintain profit margins as costs increase.
+Intel introduces Xeon 6+ CPUs with up to 288 cores, made on 18A process technology. These powerful CPUs feature 12 channels of DDR5-8000 memory and utilize Foveros Direct 3D packaging technology for enhanced performance. This marks a significant upgrade for data centers.
 
-💡 *Rising memory prices threaten consumer PC market affordability*
+💡 *Massive core count boosts data center processing capabilities significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/rising-memory-prices-pile-more-strain-on-consumer-pc-market)
-
----
-
-### 10. Grab this awesome 4K-ready gaming PC with a 7800X3D and RX 9070 XT for under $1,750 $150 saving on powerful all-AMD rig with 32GB of DDR RAM and a spacious 2TB SSD 
-
-Get a powerful all-AMD gaming PC with a 7800X3D and RX 9070 XT for $1,749.99. This PC features 32GB of DDR RAM and a 2TB SSD. The deal offers a $150 saving.
-
-💡 *High-performance gaming at an affordable price point with significant savings.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/grab-this-awesome-4k-ready-gaming-pc-with-a-7800x3d-and-rx-9070-xt-for-under-usd1-750-usd150-saving-on-powerful-all-amd-rig-with-32gb-of-ddr-ram-and-a-spacious-2tb-ssd)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech)
 
 ---
 
-### 11. Save $190 when you bundle AMD's new 9850X3D CPU, Gigabyte X870 motherboard, and fast 1TB SN850X SSD for $839 Newegg's new SSD bundles get you an SSD priced at $319 for just $129 
+### 6. 2026 will bring sharpest PC declines in over a decade PC shipments to fall 10.4% 
 
-Newegg offers a combo bundle including a Ryzen 7 9850X3D CPU, Gigabyte X870 motherboard, and 1TB WD Black SN850X SSD for $839, offering a potential savings of $190.
+PC shipments are expected to decline 10.4% in 2026, marking the sharpest decline in over a decade. This contraction is a significant concern for the tech industry. Analysts predict a steep decline in device shipments.
 
-💡 *Significant cost savings through bundled hardware purchases.*
+💡 *Sharp PC decline indicates weakening consumer demand and market saturation.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/save-usd190-when-you-bundle-amds-new-9850x3d-cpu-gigabyte-x870-motherboard-and-fast-1tb-sn850x-ssd-for-usd839-neweggs-new-ssd-bundles-get-you-an-ssd-priced-at-usd319-for-just-usd129)
-
----
-
-### 12. Microsoft blocks the word 'Microslop' in Copilot Discord, and the server melts down 
-
-Microsoft's Copilot Discord blocks the word 'Microslop,' sparking user backlash and screenshots on social media. This incident raises concerns about censorship and freedom of speech. Users were unable to post the word, receiving a 'prohibited phrase' notice.
-
-💡 *Free speech vs. corporate control in AI-powered online spaces*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111533-microsoft-blocks-word-microslop-copilot-discord-server-melts.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/2026-will-bring-sharpest-pc-declines-in-over-a-decade)
 
 ---
 
-### 13. Lenovo's AI Workmate concept puts a desk robot with a projector in your office 
+### 7. Apple's new MacBook Air gets M5 and doubles starting storage base price increases to $1,099 
 
-Lenovo unveiled the AI Workmate concept, a desk robot with AI and projection, and the AI Work Companion concept, a stationary desktop assistant with AI-driven scheduling. Together, they aim to enhance office productivity and collaboration. Both concepts integrate conversational AI and AI-driven features.
+Apple's MacBook Air gets updated with M5 chip, increased starting price to $1,099, and doubled storage base.
 
-💡 *Revolutionizing office workflow with intelligent AI-powered desk assistants*
+💡 *Apple raises MacBook Air starting price to boost profit margins further.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111520-lenovo-new-ai-desk-companions-want-join-next.html)
-
----
-
-### 14. Lenovo's Legion Go Fold concept turns into a handheld, a wide tablet, a vertical screen, and a tiny laptop 
-
-Lenovo's Legion Go Fold is a versatile device with a folding screen that can transform into various form factors.
-
-💡 *Seamless screen transformation enables multiple uses from a single device.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111518-lenovo-legion-go-fold-concept-turns-handheld-wide.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/apples-new-macbook-air-gets-m5-and-doubles-starting-storage-base-price-increases-to-usd1-099)
 
 ---
 
-### 15. Gartner says sub-$500 PCs could disappear by 2028 due to RAM crisis 
+### 8. Biwin Black Opal X570 Pro SSD Review: An 8TB unobtanium monster 
 
-Gartner predicts a decline in PC and smartphone shipments in 2026 due to rising RAM costs, with sub-$500 PCs potentially disappearing by 2028.
+The Biwin Black Opal X570 Pro is an 8TB SSD offering a compelling alternative to high-capacity drives. It provides large storage capacities and potentially lower costs, making it a viable option for users seeking extensive data storage. This drive is especially attractive for those seeking an alternative to Samsung's 8TB offerings.
 
-💡 *Soaring memory costs threaten mass-market PC affordability and accessibility models.*
+💡 *Large capacity SSDs become more affordable and accessible options.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111524-gartner-sub-500-entry-level-pcs-could-disappear.html)
-
----
-
-### 16. Steam's hardware survey just flipped: new top GPU, Windows 11 crashes, Chinese takes the lead 
-
-Steam's hardware survey has released new results showing a change in the top GPU due to a recent fix. The issue, which affected VRAM reporting, has been resolved. Windows 11 crashes also appear to be on the rise.
-
-💡 *Fixing VRAM reporting leads to changes in Steam's GPU rankings.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111522-steam-hardware-survey-flipped-new-top-gpu-windows.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/biwin-black-opal-x570-pro-ssd-review)
 
 ---
 
-### 17. What happens when you try to power a desktop PC with 56 AA batteries? 
+### 9. South Korean authorities lose over $4.8 million in crypto after posting mnemonic recovery phrase online stolen PRTG tokens part of funds seized by National Tax Service from high-value tax evaders 
 
-A desktop PC was attempted to be powered by 56 AA batteries, but it failed due to insufficient power supply. The system drew its power through a custom ATX plug. The hardware consisted of an entry-level Intel processor and a 2.5-inch SATA SSD.
+South Korean authorities lost over $4.8 million in crypto after posting a mnemonic seed phrase online, which was used to access a hardware wallet containing the stolen funds. The funds were seized by the National Tax Service from high-value tax evaders. The incident highlights a serious security lapse.
 
-💡 *Relying on battery power is impractical for high power computing devices.*
+💡 *Secrecy of mnemonic seed phrases must be prioritized in sensitive cases*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111516-what-happens-when-you-try-power-desktop-pc.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/south-korean-authorities-lose-over-usd4-8-million-in-crypto-after-posting-mnemonic-recovery-phrase-online-stolen-prtg-tokens-part-of-funds-seized-by-national-tax-service-from-high-value-tax-evaders)
+
+---
+
+### 10. Pocket $219 in savings when you buy this blistering 9800X3D, motherboard, and 32GB RAM bundle start your AM5 4K gaming rig for less than $1,000 
+
+Get AMD's powerful 9800X3D processor, B850 motherboard, and 32GB RAM for under $1,000.
+
+💡 *Affordable high-performance gaming rig for 4K gaming enthusiasts.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pocket-usd219-in-savings-when-you-buy-this-blistering-9800x3d-motherboard-and-32gb-ram-bundle-start-your-am5-4k-gaming-rig-for-less-than-usd1-000)
+
+---
+
+### 11. Dabao board features open-source hardware Baochip-1x RISC-V MCU (Crowdfunding) 
+
+The Dabao board features an open-source Baochip-1x RISC-V MCU with a 350 MHz CPU core, 4MB ReRAM, 2MB SRAM, and various I/Os. The board is designed to be inspectable using the IRIS technique, allowing users to verify the silicon without damaging it. The Dabao board is available for crowdfunding.
+
+💡 *Breakthrough in open-source hardware with inspectable, secure, and customizable RISC-V MCU.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/04/dabao-board-features-open-source-hardware-baochip-1x-risc-v-mcu/)
+
+---
+
+### 12. pureLiFi Bridge XC Flex delivers gigabit broadband internet through windows (made of glass) 
+
+pureLiFi Bridge XC Flex provides up to 1 Gbps broadband internet through windows without cabling, leveraging LiFi data transmission and wireless power transfer.
+
+💡 *Wireless broadband access through windows revolutionizes home internet connectivity.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/03/purelifi-bridge-xc-flex-delivers-gigabit-broadband-internet-through-windows-made-of-glass/)
+
+---
+
+### 13. Intel Chairman Frank Yeary retires, Craig Barrat to become the new chairman of the Board of Directors 
+
+Intel Chairman Frank Yeary has retired from the board of directors, replaced by Craig Barrat.
+
+💡 *Shift in leadership may impact Intel's future strategic decisions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-chairman-frank-yeary-retires-craig-barrat-to-become-the-new-chairman-of-the-board-of-directors)
 
 ---
 

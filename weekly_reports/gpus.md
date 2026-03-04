@@ -1,95 +1,85 @@
 # 🎮 GPUs
-**Week of March 03, 2026**
+**Week of March 04, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-03-03 09:27
+- **Articles this week:** 7
+- **Report generated:** 2026-03-04 09:24
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Nvidia releases new GeForce 595.71 driver to fix serious fan control bug new update resolves issues for RTX 30, 40, and 50-series GPUs that reportedly stopped some fans from working 
+### 1. DirectX just made shader execution reordering official, boosting ray tracing performance in games ⭐
 
-Nvidia released a new driver update (595.71) to fix a fan control bug affecting RTX 30, 40, and 50-series GPUs. The issue was caused by a previously recalled driver (595.59). The update aims to resolve the problem and restore fan functionality.
+DirectX has officially released Shader Model 6.9 with Shader Execution Reordering (SER), which boosts ray tracing performance in games. This feature had already been benefiting Nvidia and some game developers, but recent tests show significant improvements for Intel Arc Battlemage GPUs. Nearly doubling frame rates demonstrates SER's effectiveness.
 
-💡 *Critical driver update resolves major fan control issue for Nvidia GPUs.*
+💡 *Shader Execution Reordering significantly boosts ray tracing performance in games.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-releases-new-geforce-595-71-driver-to-fix-serious-fan-control-bug-new-update-resolves-issues-for-rtx-30-40-and-50-series-gpus-that-reportedly-stopped-some-fans-from-working)
-
----
-
-### 2. ISSCC 2026: Rebellions details industry's first quad-chiplet AI solution with UCIe interconnects claims Rebel100 AI accelerator equals the power of Nvidia H200 with lower power envelope 
-
-Rebellions unveiled the world's first quad-chiplet AI accelerator with UCIe interconnects, outperforming Nvidia H200 with lower power consumption.
-
-💡 *Quad-chiplet design enables more efficient AI acceleration and reduced power costs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/isscc-2026-rebellions-ucie-rebel-100)
+🔗 [Read Full Article](https://www.techspot.com/news/111536-directx-made-shader-execution-reordering-official-boosting-ray.html)
 
 ---
 
-### 3. 390TB game archive Myrient to shut down as storage costs surge 
+### 2. Microsoft adds Shader Execution Reordering (SER) in latest DirectX SDK for more efficient ray tracing Intel Arc B-series GPUs show 90% performance uplift ⭐
 
-Myrient, a massive 390TB game archive, will shut down due to rising storage costs. The service will cease to exist on March 31, 2026, and hundreds of terabytes of gaming data will be lost. This comes as storage and hosting costs have sharply increased.
+Microsoft's latest DXR 1.2 update includes Shader Execution Reordering (SER) and Opacity Micromaps (OMMs), enabling faster ray-traced scenes for game developers and GPU makers.
 
-💡 *Digital preservation threatened by unsustainable storage costs and hosting fees.*
+💡 *Ray tracing performance to improve on Intel Arc B-series GPUs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111514-game-preservation-website-myrient-shut-down-storage-costs.html)
-
----
-
-### 4. AMD announces Ryzen AI 400 desktop chips with Zen 5, RDNA 3.5, and an XDNA 2 NPU 
-
-AMD announces Ryzen AI 400 desktop chips with AI acceleration capabilities. The new Ryzen AI 400 Series and Ryzen AI PRO 400 Series desktop processors pair Zen 5 CPU cores with RDNA 3.5 integrated graphics and an XDNA 2 NPU. This is AMD's first 'AI PC' desktop lineup.
-
-💡 *AI acceleration integrated into mainstream desktop processors*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111521-amd-announces-ryzen-ai-400-series-desktop-chips.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/microsoft-adds-shader-execution-reordering-ser-in-latest-directx-sdk-for-more-efficient-ray-tracing-intel-arc-b-series-gpus-show-90-percent-performance-uplift)
 
 ---
 
-### 5. Nvidia s RTX 5070 seemingly crushes memory shortages to reign supreme as Steam s number one GPU but there are questions about why 
+### 3. Nvidia's plan to open-source 6G might be bad news for the companies that built 5G 
 
-The GeForce RTX 5070 has become Steam's most popular GPU, but its dominance raises methodological concerns.
+Nvidia announced a commitment to make 6G AI-native and open-source at Mobile World Congress. The initiative is backed by major telcos and companies like Ericsson and Nokia. This move could impact companies that built 5G infrastructure.
 
-💡 *Nvidia's RTX 5070 surges to top Steam GPU position unexpectedly.*
+💡 *Nvidia's open-source 6G plan threatens 5G industry investments*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5070-seemingly-crushes-memory-shortages-to-reign-supreme-as-steams-number-one-gpu-but-there-are-questions-about-why)
-
----
-
-### 6. Grab this awesome 4K-ready gaming PC with a 7800X3D and RX 9070 XT for under $1,750 $150 saving on powerful all-AMD rig with 32GB of DDR RAM and a spacious 2TB SSD 
-
-Get a powerful all-AMD gaming PC with a 7800X3D and RX 9070 XT for $1,749.99. This PC features 32GB of DDR RAM and a 2TB SSD. The deal offers a $150 saving.
-
-💡 *High-performance gaming at an affordable price point with significant savings.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/grab-this-awesome-4k-ready-gaming-pc-with-a-7800x3d-and-rx-9070-xt-for-under-usd1-750-usd150-saving-on-powerful-all-amd-rig-with-32gb-of-ddr-ram-and-a-spacious-2tb-ssd)
+🔗 [Read Full Article](https://www.techspot.com/news/111535-nvidia-plan-open-source-6g-might-bad-news.html)
 
 ---
 
-### 7. Save $190 when you bundle AMD's new 9850X3D CPU, Gigabyte X870 motherboard, and fast 1TB SN850X SSD for $839 Newegg's new SSD bundles get you an SSD priced at $319 for just $129 
+### 4. Nvidia RTX 5070 mobile GPU looks set to get more VRAM despite global memory crisis 8GB could be boosted to 12GB, according to new listings 
 
-Newegg offers a combo bundle including a Ryzen 7 9850X3D CPU, Gigabyte X870 motherboard, and 1TB WD Black SN850X SSD for $839, offering a potential savings of $190.
+Nvidia's RTX 5070 Mobile GPU may receive a memory boost from 8GB to 12GB of GDDR7 memory, according to manufacturer listings. This upgrade addresses concerns about the global memory crisis. The increased VRAM could improve gaming and VR performance.
 
-💡 *Significant cost savings through bundled hardware purchases.*
+💡 *Potential 12GB upgrade addresses VRAM shortages in gaming laptops.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/save-usd190-when-you-bundle-amds-new-9850x3d-cpu-gigabyte-x870-motherboard-and-fast-1tb-sn850x-ssd-for-usd839-neweggs-new-ssd-bundles-get-you-an-ssd-priced-at-usd319-for-just-usd129)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5070-mobile-gpu-looks-set-to-get-more-vram-despite-global-memory-crisis-8gb-could-be-boosted-to-12gb-according-to-new-listings)
 
 ---
 
-### 8. Steam's hardware survey just flipped: new top GPU, Windows 11 crashes, Chinese takes the lead 
+### 5. Nvidia-backed trial shows AI data centers can flexibly adjust power use in near real time, with global implications for energy consumption suggests hyperscalers can reduce consumption as necessary, ensuring grid isn t overloaded during peak demand 
 
-Steam's hardware survey has released new results showing a change in the top GPU due to a recent fix. The issue, which affected VRAM reporting, has been resolved. Windows 11 crashes also appear to be on the rise.
+A U.K. study shows AI data centers can adjust power use in near real-time, reducing peak demands and potential grid overloads.
 
-💡 *Fixing VRAM reporting leads to changes in Steam's GPU rankings.*
+💡 *Dynamic power management can prevent grid overloads during peak hours.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111522-steam-hardware-survey-flipped-new-top-gpu-windows.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-backed-trial-shows-ai-data-centers-can-flexibly-adjust-power-use-in-near-real-time-with-global-implications-for-energy-consumption-suggests-hyperscalers-can-reduce-consumption-as-necessary-ensuring-grid-isnt-overloaded-during-peak-demand)
+
+---
+
+### 6. Pocket $219 in savings when you buy this blistering 9800X3D, motherboard, and 32GB RAM bundle start your AM5 4K gaming rig for less than $1,000 
+
+Get AMD's powerful 9800X3D processor, B850 motherboard, and 32GB RAM for under $1,000.
+
+💡 *Affordable high-performance gaming rig for 4K gaming enthusiasts.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pocket-usd219-in-savings-when-you-buy-this-blistering-9800x3d-motherboard-and-32gb-ram-bundle-start-your-am5-4k-gaming-rig-for-less-than-usd1-000)
+
+---
+
+### 7. The Best Gaming Monitors... in $100 Increments 
+
+The article reviews top gaming monitors in $100 increments, providing clear recommendations. It tests options from $150 to $1,500, helping users make informed purchasing decisions. The article offers no-frills, actionable advice for gamers.
+
+💡 *Gaming monitors with specific budgets can greatly enhance gaming experiences.*
+
+🔗 [Read Full Article](https://www.techspot.com/bestof/gaming-monitors-in-100-c/)
 
 ---
 
