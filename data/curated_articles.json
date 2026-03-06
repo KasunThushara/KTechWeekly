@@ -1,320 +1,394 @@
 [
   {
-    "title": "EA's Javelin anti-cheat is coming to Arm-based systems soon new job listing for Windows-on-ARM driver anticipates Nvidia N1/N1X debut and pivotal shift in PC gaming",
-    "summary": "A new job listing for a Senior Anti-Cheat Engineer has revealed that EA is working on bringing its Javelin anti-cheat software to Arm-based devices. The timing aligns nicely with the purported launch of Nvidia's N1/N1X SoCs that are also Arm-based. The role also involves future development for Linux/Proton.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/eas-javelin-anti-cheat-is-coming-to-arm-based-systems-soon-new-job-listing-for-windows-on-arm-driver-anticipates-nvidia-n1-n1x-debut-and-pivotal-shift-in-pc-gaming",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-05T09:26:09.313471"
-  },
-  {
-    "title": "Logitech G Pro X2 Superstrike Review: Changing the Game ",
-    "summary": "The Logitech G Pro X2 Superstrike is innovative and excellent for competitive players of every age. Its high price will put it out of reach for many players, but if you re older or looking for a mechanical advantage, it s definitely worth considering.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-mice/logitech-g-pro-x2-superstrike-review",
+    "title": "Microsoft confirms next-gen Xbox will play PC games 'Project Helix' teased as more than just a console",
+    "summary": "Microsoft CEO Asha Sharma confirmed that the next-gen Xbox, codenamed Project Helix, will be capable of playing both Xbox and PC games.",
+    "link": "https://www.tomshardware.com/video-games/xbox/microsoft-confirms-next-gen-xbox-will-play-pc-games-project-helix-teased-as-more-than-just-a-console",
     "categories": [
       "Hardware",
-      "Tech News"
+      "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-05T09:26:09.313567"
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.877820"
   },
   {
-    "title": "Taiwan expects power demand to increase by more than 5GW by 2030, enough to power nearly 4 million homes rise in electricity consumption driven by semiconductor manufacturing and AI data center deployments",
-    "summary": "New semiconductor fabs and data centers are fueling Taiwan's growing power demand, with the island expected to require more than 5GW of new electricity sources and power infrastructure to keep up.",
-    "link": "https://www.tomshardware.com/tech-industry/taiwan-expects-power-demand-to-increase-by-more-than-5gw-by-2030-enough-to-power-nearly-4-million-homes-rise-in-electricity-consumption-driven-by-semiconductor-manufacturing-and-ai-data-center-deployments",
+    "title": "TCL intros two premium dual-mode gaming monitors 27-inch 1,040 Hz QHD Mini-LED and 32-inch 4K OLED with striped subpixel layout",
+    "summary": "The TCL 32X3A is a 31.5-inch 4K OLED monitor with dual-mode support enabling 1080p at 480 Hz for esports gaming. It features a \"Matrix-Pure\" true RGB subpixel layout for better text clarity, along with speakers integrated into its stand. On the other hand, the TCL 27P2A is a 1440p Mini-LED monitor that can boost to 1,040 Hz at likely 720p resolution.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/tcl-intros-two-premium-dual-mode-gaming-monitors-27-inch-1-040-hz-qhd-mini-led-and-32-inch-4k-oled-with-striped-subpixel-layout",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.877930"
+  },
+  {
+    "title": "As Frank Yeary retires from Intel, the company picks an engineer to chair its board Intel Foundry governance issues to be resolved, and looking back at the Yeary years",
+    "summary": "Intel s board of directors is getting a new independent chair, effective May 13, following the company s Annual Stockholders Meeting.",
+    "link": "https://www.tomshardware.com/tech-industry/intel-picks-an-engineer-to-chair-its-board",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.313669"
+    "processed_date": "2026-03-06T09:21:20.878019"
   },
   {
-    "title": "Trump summons tech giants to White House to pledge power payment commitments ratepayer protection plan will make data center operators negotiate discrete payment structure for electricity use",
-    "summary": "Some of the U.S.'s biggest AI tech companies are expected to go to the White House to sign the \"ratepayer protection pledge\" that promises they will pay for all of their electricity usage and not pass on the burden of increased rates to the average American.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/trump-summons-tech-giants-to-white-house-to-pledge-power-payment-commitments-ratepayer-protection-plan-will-make-data-center-operators-negotiate-discrete-payment-structure-for-electricity-use",
+    "title": "China's top chip execs claim ASML alternative 'small, fragmented, and weak' Chinese industry titans call for national effort to invest in advanced chipmaking tools",
+    "summary": "China's most senior semiconductor executives issued a public call this week for a consolidated national effort to build a domestic alternative to Dutch lithography giant ASML.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinas-top-chip-execs-admit-fragmentation-is-undermining-the-countrys-asml-alternative",
     "categories": [
+      "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.313771"
+    "processed_date": "2026-03-06T09:21:20.878104"
   },
   {
-    "title": "Apple announces $599 MacBook Neo running A18 Pro chip budget laptop features 16-hour battery and comes in fun colors",
-    "summary": "Apple announces $599 MacBook Neo running A18 Pro chip",
-    "link": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/apple-announces-macbook-neo-running-a18-pro-chip-budget-laptop-starts-at-usd599-and-comes-in-fun-colors",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-03-05T09:26:09.313848"
-  },
-  {
-    "title": "Trump administration weighs forcing China's Tencent to sell its stakes in Epic Games, Riot Games, and Supercell meetings held over security risk ahead of China summit with Xi Jinping",
-    "summary": "The Trump administration is actively debating whether to allow Chinese tech giant Tencent to keep its ownership stakes in several major gaming companies, including Fortnite creator Epic Games.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/trump-administration-weighs-forcing-tencent-to-sell-its-stakes-in-epic-games",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.313971"
-  },
-  {
-    "title": "Amazon has slashed 45% off this 1440p Asus ROG monitor score almost half price on this 280Hz VA display for just $210",
-    "summary": "Get a 1440p monitor with a 280Hz refresh rate for just $210 at Amazon.",
-    "link": "https://www.tomshardware.com/pc-components/amazon-has-slashed-45-percent-off-this-1440p-asus-rog-monitor-score-almost-half-price-on-this-280hz-va-display-for-just-usd210",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-03-05T09:26:09.314058"
-  },
-  {
-    "title": "Get 32GB of Corsair Vengeance RAM for just $201 when you pair it with AMD's new 9850X3D, X870E motherboard start your AM5 PC off in style for just $1,109",
-    "summary": "This premium Asus ROG Strix mobo, 9850X3D, and 32GB Corsair Vengeance RAM bundle is yours for just $1109.99.",
-    "link": "https://www.tomshardware.com/pc-components/get-32gb-of-corsair-vengeance-ram-for-just-usd201-when-you-pair-it-with-amds-new-9850x3d-x870e-motherboard-start-your-am5-pc-off-in-style-for-just-usd1-109",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.314142"
-  },
-  {
-    "title": "Nvidia driver 595.71 reportedly limits overclocks on some GeForce GPUs, but not all troubled driver release seems to stifle voltages on RTX 40- and 50-series cards",
-    "summary": "Users report that Nvidia's latest 595.71 driver is creating artificial voltage limits on many RTX 40- and 50-series GPUs, causing some products to lose as much as 200MHz in overclocking headroom.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-driver-595-71-reportedly-limits-overclocks-on-some-geforce-gpus-but-not-all-troubled-driver-release-seems-to-stifle-voltages-on-rtx-40-and-50-series-cards",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.314229"
-  },
-  {
-    "title": "Micron sampling first 256GB SOCAMM2 memory packages to customers 2TB of RAM per CPU is now in reach of datacenter players",
-    "summary": "Micron is now sampling 256GB SOCAMM2 units, enabling capacities of up to 2TB of LPDDR5X per CPU in AI servers.",
-    "link": "https://www.tomshardware.com/pc-components/ram/micron-sampling-first-256gb-socamm2-memory-packages-to-customers-2tb-of-ram-per-cpu-is-now-in-reach-of-datacenter-players",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.314308"
-  },
-  {
-    "title": "Gemini API key thief racks up $82,314 in charges in just two days, victim 'facing bankruptcy' affected devs call for basic guardrails against 'catastrophic usage anomalies'",
-    "summary": "A Google Gemini user has taken to Reddit 'in a state of shock and panic' after getting an $82,314 bill.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-api-key-thief-racks-up-usd82-314-in-charges-in-just-two-days-victim-facing-bankruptcy-affected-devs-call-for-basic-guardrails-against-catastrophic-usage-anomalies",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.314384"
-  },
-  {
-    "title": "ADLINK Express-PTL Panther Lake COM Express Type 6 module supports up to Intel Core Ultra 7 368H, 128GB DDR5",
-    "summary": "ADLINK Express-PTL COM Express Type 6 computer-on-module is built on Intel Core Ultra Series 3 Panther Lake-H SoCs up to the 16-core Core Ultra 7 368H processor delivering 180 TOPS of AI performance. The module pairs up to 128 GB DDR5 memory with IBECC support, features high-speed I/O such as PCIe Gen4, multiple display options, USB4/Thunderbolt capability, and industrial features such as TSN Ethernet, TPM 2.0, and advanced power management. As an industrial part, the Express-PTL is designed to operate across an extended 40 C to 85 C temperature range, and targets applications in robotics, industrial automation, medical imaging, transportation, and smart infrastructure. ADLINK Express-PTL specifications: SoC Intel Core Ultra Series 3 Panther Lake-H processors (one or the other) Intel Core Ultra 5 336H 12-core (4P+4E+4LPE) processor up to 1.9 GHz / 4.6 GHz (Turbo) with 18MB cache, 4-core Xe3 graphics (37 TOPS), 47 TOPS NPU; TDP: 25W (15-65W cTDP) Intel [...] The post ADLINK Express-PTL Panther Lake COM Express Type 6 module supports up to Intel Core Ultra 7 368H, 128GB DDR5 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/05/adlink-express-ptl-panther-lake-com-express-type-6-module-supports-up-to-intel-core-ultra-7-368h-128gb-ddr5/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-05T09:26:09.314923"
-  },
-  {
-    "title": "Checking out the actual AMD Ryzen SoC used on CHUWI CoreBook Air Plus 16 laptop",
-    "summary": "I ve just completed the review of the CHUWI CoreBook Air Plus 16, a laptop based on an AMD Ryzen 5 6600H SoC. All software testing on Windows 11 Pro and Ubuntu 25.10 confirmed that the laptop was based on an AMD Ryzen 5 6600H SoC, but I was asked to confirm that the actual CPU on the motherboard was indeed the advertised chip, for reasons I ll explain below. Let s do that right now. I had already done a teardown of the laptop, but since the AMD Ryzen processor was covered by copper pipes for cooling, I could not read the markings on the chip. So earlier today, I removed the bottom cover of the laptop again and loosened the three screws holding the pipes on top of the CPU, so I could check the markings on the processor. It s an AMD Ryzen 5, a good sign, but there s nothing that [...] The post Checking out the actual AMD Ryzen SoC used on CHUWI CoreBook Air Plus 16 laptop appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/05/checking-out-the-actual-amd-ryzen-soc-used-on-chuwi-corebook-air-plus-16-laptop/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-05T09:26:09.315061"
-  },
-  {
-    "title": "Raspberry Pi CM5 industrial computer features RS485/RS232/CAN Bus/DIO interfaces, dual Ethernet, optional 4G/5G cellular module",
-    "summary": "Waveshare IPCBOX-CM5 is an industrial-grade mini computer built around the Raspberry Pi CM5, featuring RS485, RS232, CAN Bus, and DI/DO terminal blocks, dual Ethernet, an M.2 socket for NVMe SSDs or AI accelerators, and a wide 7V to 36V DC power input. The system is compatible with all CM5 variants and integrates GbE and 2.5GbE ports, a 4K-capable HDMI video output, multiple USB 3.2/2.0 ports, and an M.2 B-Key slot plus a Nano-SIM card slot for 4G LTE/5G cellular modules. Other features include microSD card support for Raspberry Pi CM5 Lite models, a PWM fan header, a buzzer, an audio jack, an RTC battery header, and a speaker connector. Housed in an aluminum alloy case with heat-dissipation fins, the unit also supports DIN-rail and VESA mounting for industrial control, IoT gateways, smart factory systems, network appliances, and remote monitoring deployments. Waveshare IPCBOX-CM5 Specifications: Compatibility Raspberry Pi Compute Module 5 (CM5 [...] The post Raspberry Pi CM5 industrial computer features RS485/RS232/CAN Bus/DIO interfaces, dual Ethernet, optional 4G/5G cellular module appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/05/raspberry-pi-cm5-industrial-computer-features-rs485-rs232-can-bus-dio-interfaces-dual-ethernet-optional-4g-5g-cellular-module/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-05T09:26:09.315215"
-  },
-  {
-    "title": "NanoPi NEO3 Plus A tiny Rockchip RK3528A headless SBC with Gigabit Ethernet, USB 3.0 port, GPIO header",
-    "summary": "FriendlyELEC NanoPi NEO3 Plus is an ultra-compact headless SBC powered by a Rockchip RK3528A SoC paired with 1GB RAM, whose main interfaces are a Gigabit Ethernet jack, a USB 3.2 port, and a 26-pin GPIO header. I can still remember using its predecessor, the NanoPi NEO3, based on a Rockchip RK3328, which I reviewed with Armbian in 2020. The new model is similar, with a quad-core Cortex-A53 SoC but clocked at 2.0 GHz instead of 1.5 GHz, and offered with a black metal case instead of a white plastic case. The OS can still be booted from a microSD card, but the NanoPi NEO3 Plus also offers a socket for an optional eMMC flash module, and adds an RTC battery connector, a speaker connector, and a MASK button for firmware updates. NanoPi NEO3 Plus specifications: SoC Rockchip RK3528A CPU Quad-core ARM Cortex-A53 @ 2.0 GHz GPU Arm [...] The post NanoPi NEO3 Plus A tiny Rockchip RK3528A headless SBC with Gigabit Ethernet, USB 3.0 port, GPIO header appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/04/nanopi-neo3-plus-a-tiny-rockchip-rk3528a-headless-sbc-with-gigabit-ethernet-usb-3-0-port-gpio-header/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-05T09:26:09.315359"
-  },
-  {
-    "title": "Q/A: How engineers must design AVs to drive safely",
-    "summary": "Fierce speaks with an ADAS engineer at Texas Instruments about how to design vehicles and their many sensors for greater safety in tough driving scenarios.",
-    "link": "https://www.fiercesensors.com/sensors/qa-how-engineers-must-design-avs-drive-safely",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.316326"
-  },
-  {
-    "title": "A Game of Thrones movie about Aegon the Conqueror is reportedly in development",
-    "summary": "Masthead image: Aegon with his sister-queens Visenya and Rhaenys. Credit: Amok Read Entire Article",
-    "link": "https://www.techspot.com/news/111569-game-thrones-movie-about-aegon-conqueror-reportedly-development.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.316697"
-  },
-  {
-    "title": "Google will start shipping a new Chrome version every two weeks",
-    "summary": "Google has announced a notable shift in how Chrome updates will roll out. Starting September 2026, the Chromium-based browser will move to a two-week release cycle. In practice, that means a new major Chrome version every 14 days, though Google notes that early-stage builds and experimental channels will follow slightly different rules. Read Entire Article",
-    "link": "https://www.techspot.com/news/111565-google-start-shipping-new-chrome-version-every-two.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-05T09:26:09.316840"
-  },
-  {
-    "title": "Google Pixel 10a reviewed: familiar formula delivers strong value",
-    "summary": "Reviews of the Pixel 10a describe it as a minor update over last year's model, with mostly cosmetic changes and similar hardware. Despite the limited changes, critics say it remains one of the best budget Android phones thanks to its reliable performance, strong cameras, and competitive $500 price point. Read Entire Article",
-    "link": "https://www.techspot.com/products/smartphones/google-pixel-10a.321895/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-05T09:26:09.317006"
-  },
-  {
-    "title": "RTX 5070 mobile spotted with 12GB of GDDR7 in upcoming Lenovo and Asus laptops",
-    "summary": "Multiple laptop listings from both Lenovo and Asus now show an RTX 5070 mobile GPU packing 12GB of GDDR7. The whole thing started when a leaker known as Huang514613 spotted Lenovo's upcoming Yoga Pro 7i Aura Edition listing the card with 12GB. Read Entire Article",
-    "link": "https://www.techspot.com/news/111557-rtx-5070-mobile-spotted-12gb-gddr7-upcoming-lenovo.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.317141"
-  },
-  {
-    "title": "After GitHub outages, OpenAI begins building a rival code repository",
-    "summary": "The decision reportedly follows a series of service outages that have disrupted developer workflows on GitHub in recent months. Those incidents are believed to have prompted OpenAI engineering teams to explore greater control over their own development infrastructure. Read Entire Article",
-    "link": "https://www.techspot.com/news/111560-after-github-outages-openai-begins-building-rival-code.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-05T09:26:09.317270"
-  },
-  {
-    "title": "Apple unveils $599 MacBook Neo powered by A18 Pro iPhone chip",
-    "summary": "Following months of speculation and leaks, the Cupertino giant has officially introduced the MacBook Neo. Representing perhaps the most ambitious display of synergy within Apple's hardware stack yet, the laptop aims to prove that a processor originally designed for a flagship iPhone can handle macOS's basic functionality. Read Entire Article",
-    "link": "https://www.techspot.com/news/111564-apple-unveils-599-macbook-neo-powered-a18-pro.html",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.317404"
-  },
-  {
-    "title": "Apple's M5 Pro and M5 Max pack 18 CPU cores, up to 40 GPU cores, and faster unified memory",
-    "summary": "While the base Apple M5 chip retains a conventional single-die design, the M5 Pro and M5 Max move to Apple's new Fusion architecture. The approach relies on advanced packaging to combine two dies into a single SoC, integrating the CPU, GPU, media engine, unified memory controller, neural engine, and Thunderbolt... Read Entire Article",
-    "link": "https://www.techspot.com/news/111563-apple-m5-pro-m5-max-pack-18-cpu.html",
+    "title": " CPUs are cool again,' Intel and AMD reporting spikes in CPU demand due to agentic AI, shortages Lisa Su says business exceeded expectations while Intel is looking at long-term agreements with potential customers",
+    "summary": "Both AMD and Intel reports increased demand for CPUs, driven by AI agents' need for general computing power.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/cpus-are-cool-again-intel-and-amd-reporting-spikes-in-cpu-demand-due-to-agentic-ai-shortages-lisa-su-says-business-exceeded-expectations-while-intel-is-looking-at-long-term-agreements-with-potential-customers",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-05T09:26:09.317546"
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.878191"
   },
   {
-    "title": "ProtonVPN offers a no-cost option for secure, encrypted browsing",
-    "summary": "ProtonVPN delivers secure, encrypted browsing with one of the most generous free plans in the VPN space. Built by the privacy-focused team behind Proton Mail, it offers unlimited data, a strict no-logs policy, and open-source apps across major platforms. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7269-protonvpn.html",
+    "title": "Go beyond the review with Bench, the deepest consumer hardware benchmarking database on the internet compare hundreds of products across a range of categories",
+    "summary": "Take advantage of Bench, the ultimate resource for PC hardware enthusiasts, offering a large database of benchmarks for you to browse through. We detail how the tool works, and what we're doing to keep results up-to-date here.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/go-beyond-the-review-with-bench-the-deepest-consumer-hardware-benchmarking-database-on-the-internet-compare-hundreds-of-products-across-a-range-of-categories",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-06T09:21:20.878279"
+  },
+  {
+    "title": "Labubu sues 3D printer maker Bambu Lab for items made by its users MakerWorld design repository in hot water over IP theft by its users",
+    "summary": "While Bambu Lab builds tools to protect creators, a Chinese court case over 3D-printed Labubu fakes turns the tables on the 3DP giant.",
+    "link": "https://www.tomshardware.com/3d-printing/labubu-sues-3d-printer-maker-bambu-lab-for-items-made-by-its-users-makerworld-design-repository-in-hot-water-over-ip-theft-by-its-users",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.878350"
+  },
+  {
+    "title": "Orico IG740-Pro 1TB SSD Review: A small budget sleeper",
+    "summary": "The Orico IG740-Pro is a competent, no-frills SSD that hits the right performance and power efficiency marks.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/orico-ig740-pro-1tb-ssd-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-06T09:21:20.878415"
+  },
+  {
+    "title": "AI vibe-coded operating system is so bad it can't even run Doom Vib-OS can't connect to the internet, browser app is an image viewer [Updated]",
+    "summary": "A new vibe-coded operating system performed as woefully as expected during a 9-point check process.",
+    "link": "https://www.tomshardware.com/software/operating-systems/ai-vibe-coded-operating-system-is-so-bad-it-cant-even-run-doom-vib-os-cant-connect-to-the-internet-browser-app-is-an-image-viewer",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.317660"
+    "processed_date": "2026-03-06T09:21:20.878484"
   },
   {
-    "title": "Samsung walks back S26 Ultra \"10-bit\" claim as privacy display raises brightness questions",
-    "summary": "When Samsung unveiled the Galaxy S26 Ultra last week, the company said during a press briefing that one of the upgrades it had over its predecessor was a display with 10-bit color depth as opposed to the 8-bit display used in the S25 Ultra. Read Entire Article",
-    "link": "https://www.techspot.com/news/111562-samsung-corrects-galaxy-s26-ultra-color-depth-8.html",
+    "title": "China seeks to enhance rare earth advantages, take 'extraordinary measures' to achieve semiconductor breakthroughs new five-year plan marks doubling down on technological self-reliance",
+    "summary": "China just released the latest draft of its five-year plan, which mentions it goal of building a more robust \"response mechanism\" to supply chain threats and focusing on enhancing its \"competitive advantages in rare earths.\"",
+    "link": "https://www.tomshardware.com/tech-industry/china-seeks-to-enhance-rare-earth-advantages-take-extraordinary-measures-to-achieve-semiconductor-breakthroughs-new-five-year-plan-marks-doubling-down-on-technological-self-reliance",
+    "categories": [
+      "Tech News",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-06T09:21:20.878574"
+  },
+  {
+    "title": "Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns NAND wafer costs surge 25% in a single month",
+    "summary": "DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25.",
+    "link": "https://www.tomshardware.com/tech-industry/memory-spot-prices-climbed-again-in-february-nand-wafer-costs-surge-25-percent",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.878645"
+  },
+  {
+    "title": "Nintendo Switch 2 users buying fewer games because of AI storage crisis, report claims game demand under threat as titles get bigger and storage gets more expensive",
+    "summary": "The lack of storage capacity on the Nintendo Switch 2 and increasing game sizes are forcing some Switch 2 owners to reconsider shopping for game titles, especially as microSD Express Card prices skyrocket due to the global memory and storage chip shortage.",
+    "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-users-buying-fewer-games-because-of-ai-storage-crisis-report-claims-game-demand-under-threat-as-titles-get-bigger-and-storage-gets-more-expensive",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.878760"
+  },
+  {
+    "title": "OpenAI building GitHub alternative after frequent platform outages and disruptions a public OpenAI code repository would directly compete with one of its biggest investors",
+    "summary": "OpenAI is building its own code repository, prompted by a rise in GitHub outages and disruptions that left its engineers unable to work for hours at a time.",
+    "link": "https://www.tomshardware.com/tech-industry/openai-building-github-alternative-after-outages-disrupted-engineers",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.878836"
+  },
+  {
+    "title": "Nvidia reportedly working on RTX 5050 with 9GB of VRAM on a 96-bit bus, featuring 28 Gbps GDDR7 modules RTX 5060 with cut-down GB205 GPU also planned",
+    "summary": "Nvidia is reportedly working on a new RTX 5050 with 9GB of GDDR7 VRAM, up from 8GB GDDR6 on the existing model. Moving from 20 Gbps chips to 28 Gbps chips, the memory interface is also said to be reduced to 96-bit, from 128-bit on the original. Moreover, an RTX 5060 with a cut-down GB205 die is also said to be in the works, with otherwise same specs.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-working-on-rtx-5050-with-9gb-of-vram-on-a-96-bit-bus-featuring-28-gbps-gddr7-modules-rtx-5060-with-cut-down-gb205-gpu-also-planned",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.878925"
+  },
+  {
+    "title": "Intel CEO embraces its 18A node for external customers as 18A-P gets 'inbound interest' company cites increasing yields",
+    "summary": "Intel sees 'inbound interest' for 18A-P process technology despite 18A process variability.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-ceo-recognizes-its-18a-node-for-external-customers-as-18a-p-gets-inbound-interest-company-cites-increasing-yields",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.878991"
+  },
+  {
+    "title": "Popular budget-friendly Chinese brand exposed for shocking CPU scam in its laptops advertised CPU secretly swapped for an outdated chip",
+    "summary": "Publication Notebookcheck reports that Chuwi is shipping a different processor in the Chuwi CoreBook X than the one advertised.",
+    "link": "https://www.tomshardware.com/laptops/popular-budget-friendly-chinese-brand-exposed-for-shocking-cpu-scam-in-its-laptops-advertised-cpu-secretly-swapped-for-an-outdated-chip",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.879065"
+  },
+  {
+    "title": "Europe achieves record-breaking gigabit per second data transfer between a geostationary satellite and an aircraft",
+    "summary": "The European Space Agency has successfully tested a 2.6 Gbps data transmission from a laser satellite orbiting Earth 36,000 km away.",
+    "link": "https://www.tomshardware.com/tech-industry/europe-achieves-record-breaking-gigabit-per-second-data-transfer-between-a-geostationary-satellite-and-an-aircraft",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-05T09:26:09.317755"
-  },
-  {
-    "title": "Scalper bots are now scraping DDR5 memory supply chains as AI data centers consume more RAM",
-    "summary": "DataDome reports that a single scalping operation has been hammering memory listings with requests every 6.5 seconds, averaging more than 550 automated hits per page and exceeding 50,000 requests per hour across targeted sites. In total, the company says it has blocked more than 10 million requests from this one... Read Entire Article",
-    "link": "https://www.techspot.com/news/111551-scalper-bots-now-scraping-ddr5-memory-supply-chains.html",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.317845"
+    "processed_date": "2026-03-06T09:21:20.879137"
   },
   {
-    "title": "Nokian unveils winter tire with retractable studs powered purely by material science",
-    "summary": "The tire's innovation lies in its material science. Studded tires have been around for generations, prized for their ability to grip frozen pavement. But they've always come with a tradeoff: noisy rides and road damage when the studs grind against asphalt on warmer days. Read Entire Article",
-    "link": "https://www.techspot.com/news/111556-nokian-unveils-winter-tire-retractable-studs-powered-purely.html",
+    "title": "DFRobot launches low-power, low-cost Fermion: BMV080 air quality sensor module",
+    "summary": "Just last year, we reported on the SparkFun Air Quality PM1/PM2.5/PM10 Sensor, based on the Bosch BMV080 fanless air-quality sensor and priced at around $65. DFRobot has now launched a low-cost alternative, the Fermion: BMV080, which provides the same fanless, laboratory-grade PM1, PM2.5, and PM10 sensing capabilities for just $29.90. The sensor uses laser-based light-scattering technology with fanless optical counting to detect particles as small as 0.5 m. This avoids fan noise, dust buildup, and mechanical wear, which are common with fan-based PM sensors, and, on top of that, it has a service life of up to 10 years. It measures particulate concentrations in a 0 1000 g/m range with 1 g/m resolution and 10 g/m of accuracy. The sensor supports I2C and SPI interfaces, and consumes about 70 mA in continuous measurement mode with a 6 A sleep current, making it suitable for battery-powered systems. DFRobot s Fermion: BMV080 specifications: Sensor IC [...] The post DFRobot launches low-power, low-cost Fermion: BMV080 air quality sensor module appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/06/dfrobot-low-power-low-cost-fermion-bmv080-air-quality-sensor-module/",
     "categories": [
       "AI & ML",
-      "Semiconductors"
+      "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-05T09:26:09.317970"
+    "quality_score": 15,
+    "processed_date": "2026-03-06T09:21:20.879573"
   },
   {
-    "title": "Diamond-cooled AMD Instinct MI350X servers get major $300 million customer",
-    "summary": "The buyer hasn't been named, but reports says the order came from an undisclosed US-based customer, likely a tech firm or data center operator. Read Entire Article",
-    "link": "https://www.techspot.com/news/111561-diamond-cooled-amd-instinct-mi350x-servers-get-major.html",
+    "title": "WiFi and Bluetooth LE can now be used simultaneously on Arduino boards with NINA-W102 (ESP32) module",
+    "summary": "Today I learned that WiFi and Bluetooth LE could NOT be used simultaneously on Arduino boards featuring the ESP32-based u-blox NINA-W102 wireless module, impacting the Arduino Nano RP2040 Connect, Arduino MKR WiFi 1010, and Arduino Nano 33 IoT boards. It s a long-running problem since the first Arduino board with NINA-W10 was introduced in 2018, and meant you could use WiFi or Bluetooth LE, but not both simultaneously. The good news is that the issue has finally been fixed, thanks to a new firmware for the module and new WiFi and BLE libraries. More specifically, you ll need the following libraries and firmware: WiFiNINA library version 2.0.0 or later ArduinoBLE library version 2.0.0 or later NINA-W102 firmware version 3.0.1 or later The libraries can easily be updated in the Library Manager in the Arduino IDE, and the firmware needs to be updated with the Firmware Updater Tool in Tools > WiFi101 / [...] The post WiFi and Bluetooth LE can now be used simultaneously on Arduino boards with NINA-W102 (ESP32) module appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/06/wifi-and-bluetooth-le-can-now-be-used-simultaneously-on-arduino-boards-with-nina-w102-esp32-module/",
     "categories": [
       "Hardware",
-      "GPUs"
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.318051"
+    "processed_date": "2026-03-06T09:21:20.879715"
   },
   {
-    "title": "Apple unveils updated Studio Display and new Studio Display XDR with mini-LED and 120Hz",
-    "summary": "The new Apple Studio Display, succeeding 2022's alternative to the original Pro Display XDR, maintains its predecessor's 27-inch 5K (5,120 x 2,880) screen but enhances its speakers and the 12MP Center Stage camera's microphones. Meanwhile, the new Studio Display XDR drops the \"Pro\" moniker along with its 32-inch 6K screen,... Read Entire Article",
-    "link": "https://www.techspot.com/news/111550-apple-unveils-updated-studio-display-new-studio-display.html",
+    "title": "STM32U3B5/C5 ultra-low-power MCU features 640 KB RAM, 2 MB Flash, and HSP accelerator to run AI without batteries",
+    "summary": "STMicroelectronics has added two members to the STM32U3 ultra-low-power Arm Cortex-M33 microcontroller family: the STM32U3B5 and STM32U3C5 MCUs get more resources with up to 640 KB SRAM and 2 MB flash, as well as an HSP (hardware signal processor) accelerator to run AI/ML workloads without batteries, just using energy harvesting. The new chips are still clocked at up to 96 MHz, benefit from a near-threshold design (down to 0.65 V), allowing a power consumption of just 117 Coremark/mW in active mode, and can operate up to 105 C ambient temperature. They come with one additional group of interfaces, bringing the total to four SPI and I2C, two I3C and CAN-FD, and five UARTs, as well as five more 16-bit timers, for a total of 10. The STM32U3C5 also includes a cryptocore to accelerate encryption and decryption operations, and supports the CCB (Coupling and Chaining Bridge) hardware security feature, both of which [...] The post STM32U3B5/C5 ultra-low-power MCU features 640 KB RAM, 2 MB Flash, and HSP accelerator to run AI without batteries appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/06/stm32u3b5-c5-ultra-low-power-mcu-features-640-kb-ram-2-mb-flash-and-hsp-accelerator-to-run-ai-without-batteries/",
     "categories": [
+      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-05T09:26:09.318141"
+    "processed_date": "2026-03-06T09:21:20.879884"
   },
   {
-    "title": "Apple accidentally reveals \"MacBook Neo,\" the long-rumored low-cost MacBook",
-    "summary": "Update: It's now official -- Apple unveils $599 MacBook Neo powered by A18 Pro iPhone chip. Read Entire Article",
-    "link": "https://www.techspot.com/news/111555-apple-accidentally-reveals-macbook-neo-long-rumored-low.html",
+    "title": "Grinn ReneSOM-V2H is a tiny LGA SoM based on Renesas RZ/V2H processor for vision AI applications",
+    "summary": "Polish embedded systems company Grinn has recently introduced ReneSOM-V2H, a tiny vision AI SoM built around the Renesas RZ/V2H vision AI processor. Measuring just 42.6 x 37 mm, Grinn claims it is the world s smallest module based on this specific Renesas MPU, and targets space-constrained Edge AI applications such as smart cameras, robotics, and industrial automation. The RZ/V2H SoC features a heterogeneous architecture with 4x Cortex-A55 cores, 2x Cortex-R8 cores, and 1x Cortex-M33 core, along with a DRP-AI3 accelerator with up to 8 TOPS. It supports LPDDR4 memory and eMMC storage, along with various connectivity options, including PCIe Gen3 (4-lane), USB 3.2, USB 2.0, and Gigabit Ethernet. It also provides four MIPI-CSI camera inputs and a MIPI-DSI display output for vision applications. Grinn ReneSOM-V2H specifications: SoC Renesas RZ/V2H CPU/MCU cores 4x Arm Cortex-A55 cores up to 1.8 GHz 2x Cortex-R8 real-time cores up to 800 MHz Arm Cortex-M33 microcontroller core up [...] The post Grinn ReneSOM-V2H is a tiny LGA SoM based on Renesas RZ/V2H processor for vision AI applications appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/05/grinn-renesom-v2h-is-a-tiny-lga-som-based-on-renesas-rz-v2h-processor-for-vision-ai-applications/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-06T09:21:20.880033"
+  },
+  {
+    "title": "Bosch s pressure sensor is part of Qualcomm s new wearables chip",
+    "summary": "Pressure data and precise altitude tracking will improve next-gen wearables",
+    "link": "https://www.fiercesensors.com/sensors/boschs-pressure-sensor-part-qualcomms-new-wearables-chip",
     "categories": [
       "Semiconductors"
     ],
     "quality_score": 0,
-    "processed_date": "2026-03-05T09:26:09.318221"
+    "processed_date": "2026-03-06T09:21:20.880988"
+  },
+  {
+    "title": "Nvidia says its investments in OpenAI and Anthropic are likely its last",
+    "summary": "Huang's explanation was brief, but the implications are broad. Nvidia, whose products have become indispensable to generative AI infrastructure, sits in a position few companies have ever occupied: both supplier and shareholder to the firms building the software atop its hardware. That arrangement, once mutually reinforcing, now appears increasingly tangled. Read Entire Article",
+    "link": "https://www.techspot.com/news/111588-nvidia-investments-openai-anthropic-likely-last.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.881393"
+  },
+  {
+    "title": "Microsoft confirms \"Project Helix,\" a next-gen Xbox that runs both Xbox and PC games",
+    "summary": "Asha Sharma, who recently replaced Phil Spencer as the head of Microsoft's Xbox division, provided a short update on the company's next-generation console. Revealing the codename \"Project Helix,\" she confirmed that the upcoming device aims to lead in horsepower and will support both Xbox and PC games. Read Entire Article",
+    "link": "https://www.techspot.com/news/111587-microsoft-confirms-project-helix-next-gen-xbox-runs.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.881479"
+  },
+  {
+    "title": "Apple M5 chips introduce a new \"super core\" tier in its CPU design",
+    "summary": "On the surface, the change might look like semantics. But it reflects a broader evolution inside Apple Silicon that moves beyond the traditional mobile-processor model where \"big\" cores handle demanding work and \"little\" cores handle background tasks for efficiency's sake. By renaming its cores (in pure Apple's marketing style), the... Read Entire Article",
+    "link": "https://www.techspot.com/news/111573-apple-m5-chips-introduce-new-super-core-tier.html",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.881579"
+  },
+  {
+    "title": "Nvidia reportedly developing RTX 5050 with 9GB VRAM, revised RTX 5060 using GB205 die",
+    "summary": "According to noted tipster MEGAsizeGPU, the new GeForce RTX 5050 variant will feature three 3GB GDDR7 memory modules operating at 28Gbps, instead of the 20Gbps GDDR6 modules used in the original version. The updated configuration will provide a total of 9GB of VRAM across a 96-bit memory interface, delivering up... Read Entire Article",
+    "link": "https://www.techspot.com/news/111580-nvidia-reportedly-developing-rtx-5050-9gb-vram-revised.html",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.881661"
+  },
+  {
+    "title": "Scientists develop nanomaterial that targets cancer cells while sparing healthy tissue",
+    "summary": "Iron is essential to biological function, and iron-based nanomaterials may become valuable tools in the long-term effort to develop cancer treatments. Researchers at Oregon State University have engineered a new \"nanoagent\" using an iron-based metal-organic framework (MOF) structure and demonstrated its ability to destroy cancerous cells in laboratory experiments. Read Entire Article",
+    "link": "https://www.techspot.com/news/111579-scientists-develop-nanomaterial-targets-cancer-cells-while-sparing.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-06T09:21:20.881768"
+  },
+  {
+    "title": "DOJ seizes LeakBase, one of the world's biggest hacker forums",
+    "summary": "The Department of Justice describes LeakBase as a clearinghouse for hacked databases. Alongside the \"hundreds of millions\" of account credentials, it offers credit and debit card numbers, banking details, and other personally identifiable information that can fuel account takeovers and fraud. Read Entire Article",
+    "link": "https://www.techspot.com/news/111582-doj-seizes-leakbase-one-world-biggest-hacker-forums.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.881848"
+  },
+  {
+    "title": "Lawmakers launch probe into hidden \"eavesdropping\" risks in modern computers",
+    "summary": "Senator Ron Wyden and Representative Shontel Brown have called on the Government Accountability Office to examine whether modern computers and phones remain vulnerable to what was once known as TEMPEST surveillance. Read Entire Article",
+    "link": "https://www.techspot.com/news/111577-lawmakers-launch-probe-hidden-eavesdropping-risks-modern-computers.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.881929"
+  },
+  {
+    "title": "Amazon's latest round of layoffs hits its robotics unit",
+    "summary": "The division that was axed on Tuesday is responsible for designing robots and other conveyances, primarily in warehouses, writes Reuters. Read Entire Article",
+    "link": "https://www.techspot.com/news/111578-amazon-latest-round-layoffs-hits-robotics-unit.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.881992"
+  },
+  {
+    "title": "Meta's smart glasses raise privacy alarms as data labelers review intimate recordings",
+    "summary": "The work, known as data labeling, is how Meta trains its computer vision systems. Each frame reviewed helps improve the algorithms powering its augmented reality assistant. Behind that feedback loop, however, human labor fills in the gaps machines still can't bridge. Read Entire Article",
+    "link": "https://www.techspot.com/news/111575-meta-smart-glasses-raise-privacy-alarms-data-labelers.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-06T09:21:20.882076"
+  },
+  {
+    "title": "The US Supreme Court is not interested in enforcing copyright for AI-generated images",
+    "summary": "Computer scientist Stephen Thaler has repeatedly tried to turn an AI-generated image into copyrightable material, but the US Supreme Court has now declined to even hear his arguments. Thaler created the Device for the Autonomous Bootstrapping of Unified Sentience (DABUS) AI system, which was listed as the author of an... Read Entire Article",
+    "link": "https://www.techspot.com/news/111553-us-supreme-court-not-interested-enforcing-copyright-ai.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.882162"
+  },
+  {
+    "title": "Google cuts Play Store fee to 20% and opens the door to third-party app stores",
+    "summary": "With these changes, Google is signaling that Android's future lies in greater openness on its terms. Developers will soon see lower transaction fees, new options for distributing apps, and greater freedom in payment processing, particularly in the US, UK and Europe. Read Entire Article",
+    "link": "https://www.techspot.com/news/111572-google-cuts-play-store-fee-20-opens-door.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.882240"
+  },
+  {
+    "title": "Nvidia could bring back the RTX 3060 in mid-March as the memory crisis bites",
+    "summary": "At the beginning of January, leaker hongxing2020, who has a long and impressive record when it comes to revealing Nvidia's plans, claimed Team Green has told its partners that the RTX 3060 will be returning in the first quarter of 2026. Read Entire Article",
+    "link": "https://www.techspot.com/news/111576-nvidia-could-bring-back-rtx-3060-mid-march.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.882316"
+  },
+  {
+    "title": "Could the Trump administration rerun the TikTok playbook on Fortnite?",
+    "summary": "A source familiar with the matter recently informed the Financial Times that top White House officials are discussing whether to force Tencent to divest its ownership stakes in American and Finnish game companies. Internal negotiations between Tencent and multiple US agencies date back to the first Trump administration, when the... Read Entire Article",
+    "link": "https://www.techspot.com/news/111567-could-trump-administration-rerun-tiktok-playbook-fortnite.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.882397"
+  },
+  {
+    "title": "Intel's 18A node debuts in the data center with the 288-core Xeon 6+",
+    "summary": "The new chips mark a turning point for Intel's strategy in cloud and telecommunications workloads, where efficiency and integration are now prioritized over sheer clock speed. Read Entire Article",
+    "link": "https://www.techspot.com/news/111571-intel-18a-node-debuts-data-center-288-core.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.882468"
+  },
+  {
+    "title": "The White House used Call of Duty \"nuke\" killstreak footage in a video showing real US strikes on Iran",
+    "summary": "The X account included the words \"Courtesy of the Red, White & Blue\" in the post. The video starts with a player activating a CoD: MW3 MGB (Mass Guided Bombs) killstreak. It's basically the game's secret nuke which is somewhat concerning given its use here activated by achieving... Read Entire Article",
+    "link": "https://www.techspot.com/news/111574-white-house-used-call-duty-nuke-killstreak-footage.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-06T09:21:20.882547"
   }
 ]

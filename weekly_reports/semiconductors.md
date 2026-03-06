@@ -1,75 +1,125 @@
 # ⚡ Semiconductors
-**Week of March 05, 2026**
+**Week of March 06, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-03-05 09:27
+- **Articles this week:** 11
+- **Report generated:** 2026-03-06 09:22
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. NanoPi NEO3 Plus A tiny Rockchip RK3528A headless SBC with Gigabit Ethernet, USB 3.0 port, GPIO header ⭐
+### 1. China seeks to enhance rare earth advantages, take 'extraordinary measures' to achieve semiconductor breakthroughs new five-year plan marks doubling down on technological self-reliance ⭐
 
-The NanoPi NEO3 Plus is a compact headless SBC with a Rockchip RK3528A SoC, offering Gigabit Ethernet, USB 3.2, and a 26-pin GPIO header. It features a quad-core Cortex-A53 CPU at 2.0 GHz and supports booting from microSD or an optional eMMC module. The board adds new features such as an RTC battery connector and a MASK button for firmware updates.
+China's new five-year plan focuses on enhancing rare earth advantages and technological self-reliance through a 'response mechanism' to supply chain threats. The plan aims to double down on semiconductor breakthroughs, solidifying China's position in the global tech landscape. This marks a significant shift towards reduced reliance on foreign technology.
 
-💡 *A compact, feature-rich SBC for IoT and embedded applications.*
+💡 *China strengthens domestic tech capabilities to counter global supply chain risks.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/04/nanopi-neo3-plus-a-tiny-rockchip-rk3528a-headless-sbc-with-gigabit-ethernet-usb-3-0-port-gpio-header/)
-
----
-
-### 2. Nokian unveils winter tire with retractable studs powered purely by material science 
-
-Nokian's new winter tire features retractable studs that eliminate noise and road damage.
-
-💡 *Game-changing materials science innovation for winter driving safety.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111556-nokian-unveils-winter-tire-retractable-studs-powered-purely.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-seeks-to-enhance-rare-earth-advantages-take-extraordinary-measures-to-achieve-semiconductor-breakthroughs-new-five-year-plan-marks-doubling-down-on-technological-self-reliance)
 
 ---
 
-### 3. Taiwan expects power demand to increase by more than 5GW by 2030, enough to power nearly 4 million homes rise in electricity consumption driven by semiconductor manufacturing and AI data center deployments 
+### 2. Microsoft confirms next-gen Xbox will play PC games 'Project Helix' teased as more than just a console 
 
-Taiwan's power demand is expected to surge by 5GW by 2030, driven by semiconductor manufacturing and AI data center deployments. This growth will require significant investments in new electricity sources and power infrastructure. The increased demand is substantial enough to power nearly 4 million homes.
+Microsoft's next-gen Xbox, Project Helix, will play both Xbox and PC games. The console will offer a unified gaming experience across platforms. This move aims to strengthen Microsoft's gaming ecosystem.
 
-💡 *Semiconductor manufacturing and AI drive Taiwan's accelerating power demands*
+💡 *Unified gaming platform blurs lines between console and PC gaming*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/taiwan-expects-power-demand-to-increase-by-more-than-5gw-by-2030-enough-to-power-nearly-4-million-homes-rise-in-electricity-consumption-driven-by-semiconductor-manufacturing-and-ai-data-center-deployments)
-
----
-
-### 4. Apple unveils $599 MacBook Neo powered by A18 Pro iPhone chip 
-
-Apple introduces the MacBook Neo, a $599 laptop powered by the A18 Pro iPhone chip, blurring lines between iOS and macOS.
-
-💡 *Consolidating Apple's ecosystem with a unified processor architecture.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111564-apple-unveils-599-macbook-neo-powered-a18-pro.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/microsoft-confirms-next-gen-xbox-will-play-pc-games-project-helix-teased-as-more-than-just-a-console)
 
 ---
 
-### 5. Apple announces $599 MacBook Neo running A18 Pro chip budget laptop features 16-hour battery and comes in fun colors 
+### 3. As Frank Yeary retires from Intel, the company picks an engineer to chair its board Intel Foundry governance issues to be resolved, and looking back at the Yeary years 
 
-Apple introduces the $599 MacBook Neo with A18 Pro chip, featuring a 16-hour battery and fun color options.
+Frank Yeary's retirement from Intel's board marks a new era, as the company selects an engineer to lead its board. The independent chair will be tasked with resolving governance issues related to the Intel Foundry Services. This transition will take effect on May 13.
 
-💡 *Affordable, long-lasting MacBook option expands Apple's budget laptop market reach.*
+💡 *Leadership change may improve Intel's governance and innovation alignment.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/apple-announces-macbook-neo-running-a18-pro-chip-budget-laptop-starts-at-usd599-and-comes-in-fun-colors)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-picks-an-engineer-to-chair-its-board)
 
 ---
 
-### 6. Apple accidentally reveals "MacBook Neo," the long-rumored low-cost MacBook 
+### 4. China's top chip execs claim ASML alternative 'small, fragmented, and weak' Chinese industry titans call for national effort to invest in advanced chipmaking tools 
 
-Apple reveals the MacBook Neo, a low-cost MacBook starting at $599, powered by the A18 Pro iPhone chip.
+China's top chip executives urge a national effort to create a domestic alternative to ASML, citing the current industry's weakness.
 
-💡 *Apple expands affordable Mac options, targeting budget-conscious customers worldwide.*
+💡 *China's lack of advanced chipmaking tools hinders domestic semiconductor industry growth.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111555-apple-accidentally-reveals-macbook-neo-long-rumored-low.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/chinas-top-chip-execs-admit-fragmentation-is-undermining-the-countrys-asml-alternative)
+
+---
+
+### 5. Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns NAND wafer costs surge 25% in a single month 
+
+Spiralling memory spot prices and NAND wafer costs may trigger an 'industry cycle collapse'. DDR5 16G chips and 1Tb TLC flash wafers saw significant price increases. This could have widespread implications for the tech industry.
+
+💡 *Rising memory prices threaten a broader industry economic downturn.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/memory-spot-prices-climbed-again-in-february-nand-wafer-costs-surge-25-percent)
+
+---
+
+### 6. Nintendo Switch 2 users buying fewer games because of AI storage crisis, report claims game demand under threat as titles get bigger and storage gets more expensive 
+
+Nintendo Switch 2 users are buying fewer games due to storage capacity and increasing game sizes. The microSD Express Card prices have skyrocketed, exacerbating the issue. This is threatening game demand as titles get bigger and more expensive to store.
+
+💡 *Rising storage costs undermine Switch 2 game sales and adoption*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-users-buying-fewer-games-because-of-ai-storage-crisis-report-claims-game-demand-under-threat-as-titles-get-bigger-and-storage-gets-more-expensive)
+
+---
+
+### 7. Popular budget-friendly Chinese brand exposed for shocking CPU scam in its laptops advertised CPU secretly swapped for an outdated chip 
+
+Chinese brand Chuwi allegedly swaps CPUs in laptops, violating advertised specs. Notebookcheck investigation reveals the Chuwi CoreBook X contains an outdated chip. Consumers may be misled about device performance.
+
+💡 *Deceptive marketing undermines trust in budget-friendly electronics brands' product claims.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/popular-budget-friendly-chinese-brand-exposed-for-shocking-cpu-scam-in-its-laptops-advertised-cpu-secretly-swapped-for-an-outdated-chip)
+
+---
+
+### 8. WiFi and Bluetooth LE can now be used simultaneously on Arduino boards with NINA-W102 (ESP32) module 
+
+WiFi and Bluetooth LE can now be used simultaneously on Arduino boards with the NINA-W102 module, thanks to a new firmware and libraries. This capability was previously limited due to a long-standing issue. The required libraries and firmware can be easily updated.
+
+💡 *Simultaneous WiFi and Bluetooth LE capabilities on Arduino boards resolved*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/06/wifi-and-bluetooth-le-can-now-be-used-simultaneously-on-arduino-boards-with-nina-w102-esp32-module/)
+
+---
+
+### 9. Apple M5 chips introduce a new "super core" tier in its CPU design 
+
+Apple introduces a new 'super core' tier in its CPU design, marking a shift away from traditional mobile-processor models. This change reflects a broader evolution in Apple's Silicon technology, prioritizing performance and efficiency. The rebranding of cores aims to emphasize their unique capabilities and roles.
+
+💡 *Performance and efficiency converge in Apple's new CPU design paradigm.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111573-apple-m5-chips-introduce-new-super-core-tier.html)
+
+---
+
+### 10. Intel's 18A node debuts in the data center with the 288-core Xeon 6+ 
+
+Intel's 18A node debuts with the 288-core Xeon 6+, prioritizing efficiency over clock speed.
+
+💡 *Efficiency now trumps clock speed in cloud and telecommunications workloads.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111571-intel-18a-node-debuts-data-center-288-core.html)
+
+---
+
+### 11. Bosch s pressure sensor is part of Qualcomm s new wearables chip 
+
+Qualcomm's new wearables chip features a Bosch pressure sensor, enabling more accurate altitude tracking and pressure data in next-generation wearables.
+
+💡 *Enhanced altitude tracking and pressure data improve wearable accuracy and user experience.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/boschs-pressure-sensor-part-qualcomms-new-wearables-chip)
 
 ---
 
