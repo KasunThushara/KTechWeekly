@@ -1,65 +1,55 @@
 # 🎮 GPUs
-**Week of March 06, 2026**
+**Week of March 07, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-03-06 09:22
+- **Articles this week:** 4
+- **Report generated:** 2026-03-07 09:01
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. TCL intros two premium dual-mode gaming monitors 27-inch 1,040 Hz QHD Mini-LED and 32-inch 4K OLED with striped subpixel layout 
+### 1. Asus GeForce RTX 5080 Noctua Edition review: Silent running 
 
-TCL introduces two gaming monitors: a 4K OLED 31.5-inch and a 1440p Mini-LED 27-inch model. The 31.5-inch model offers 480 Hz at 1080p for esports gaming with true RGB subpixel layout. The 27-inch model can boost to 1,040 Hz at a likely 720p resolution.
+The Asus GeForce RTX 5080 Noctua Edition prioritizes quiet operation through advanced cooling technology.
 
-💡 *Enhanced gaming performance with high refresh rates and resolution options*
+💡 *Silent gaming is within reach for enthusiasts with deep pockets and patience.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/tcl-intros-two-premium-dual-mode-gaming-monitors-27-inch-1-040-hz-qhd-mini-led-and-32-inch-4k-oled-with-striped-subpixel-layout)
-
----
-
-### 2. Nvidia reportedly working on RTX 5050 with 9GB of VRAM on a 96-bit bus, featuring 28 Gbps GDDR7 modules RTX 5060 with cut-down GB205 GPU also planned 
-
-Nvidia is reportedly working on a new RTX 5050 with 9GB GDDR7 VRAM and a 96-bit memory interface, moving from 20 Gbps to 28 Gbps chips. An RTX 5060 with a cut-down GB205 GPU is also planned. This upgrade aims to improve performance and efficiency.
-
-💡 *Boosts performance with improved memory interface and faster GDDR7 modules.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-working-on-rtx-5050-with-9gb-of-vram-on-a-96-bit-bus-featuring-28-gbps-gddr7-modules-rtx-5060-with-cut-down-gb205-gpu-also-planned)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/asus-geforce-rtx-5080-noctua-edition-review)
 
 ---
 
-### 3. Nvidia says its investments in OpenAI and Anthropic are likely its last 
+### 2. US Commerce Department confirms harsh new AI export rules, shoots down reports over the return of Biden-era AI Diffusion rule DoC to formalize a new approach to strategic AI accelerator export controls 
 
-Nvidia's investments in OpenAI and Anthropic may be its last due to conflicted interests. As a supplier and shareholder, Nvidia's position can be seen as increasingly tangled. This arrangement could hinder its ability to provide unbiased hardware.
+The US Commerce Department confirms new AI export regulations, rejecting AI Diffusion Rule comparisons.
 
-💡 *Nvidia's conflicted role as supplier and shareholder hinders its neutrality*
+💡 *Stricter AI export controls aim to secure national strategic tech advantage.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111588-nvidia-investments-openai-anthropic-likely-last.html)
-
----
-
-### 4. Nvidia reportedly developing RTX 5050 with 9GB VRAM, revised RTX 5060 using GB205 die 
-
-Nvidia is reportedly developing a revised RTX 5050 with 9GB VRAM, using three 3GB GDDR7 modules. The updated configuration will operate at 28Gbps, improving performance compared to the original version's 20Gbps GDDR6 modules. This revision is expected to deliver enhanced graphics capabilities.
-
-💡 *Improved graphics performance through increased memory bandwidth*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111580-nvidia-reportedly-developing-rtx-5050-9gb-vram-revised.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-commerce-department-confirms-harsh-new-ai-export-rules-shoots-down-reports-over-the-return-of-biden-era-ai-diffusion-rule-doc-to-formalize-a-new-approach-to-strategic-ai-accelerator-export-controls)
 
 ---
 
-### 5. Nvidia could bring back the RTX 3060 in mid-March as the memory crisis bites 
+### 3. GTA Online players in Australia will soon face age checks under new R18+ gaming rules 
 
-Nvidia may reintroduce the RTX 3060 in mid-March due to memory shortages.
+GTA Online players in Australia will face age checks due to new R18+ gaming rules, requiring online platforms to prevent children from accessing age-inappropriate content.
 
-💡 *Nvidia responds to memory crisis through product reintroduction strategies*
+💡 *Protecting children from explicit content is a significant online responsibility.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111576-nvidia-could-bring-back-rtx-3060-mid-march.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111594-gta-online-players-australia-soon-face-age-checks.html)
+
+---
+
+### 4. Asus' excellent 4K OLED gaming monitor falls to its lowest ever price on Amazon get a 32-inch dual-mode display for just $799 
+
+Get a 32-inch 4K OLED gaming monitor at its lowest-ever price of $799 on Amazon.
+
+💡 *High-quality gaming monitors become more affordable for budget-conscious consumers.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/asus-excellent-4k-oled-gaming-monitor-falls-to-its-lowest-ever-price-on-amazon-get-a-32-inch-dual-mode-display-for-just-usd799)
 
 ---
 
