@@ -1,235 +1,221 @@
 [
   {
-    "title": "Linux hacked onto a PS5 to turn Sony's console into a Steam Machine GTA V Enhanced Edition runs at 60 FPS on 1440pwith ray tracing",
-    "summary": "Andy Nguyen ported Linux to the PS5, turning it into a PC, and successfully ran GTA V on Steam at 60 FPS on 1440p with ray tracing.",
-    "link": "https://www.tomshardware.com/video-games/playstation/linux-hacked-onto-a-ps5-to-turn-sonys-console-into-a-steam-machine-gta-v-enhanced-edition-runs-at-60-fps-on-1440pwith-ray-tracing",
+    "title": "Classic tiny LEGO computer brick design from 1979 made into full-scale working computer Mac Mini implanted into this 10:1 scale inflated reimagining",
+    "summary": "A 10:1 scale working model of the classic LEGO computer brick has been created, housing a Mac Mini M4 inside. This inflated reimagining pays homage to the original design from 1979. The resulting computer is a functional and nostalgic tribute.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/classic-tiny-lego-computer-brick-design-from-1979-made-into-full-scale-working-computer-mac-mini-implanted-into-this-10-1-scale-inflated-reimagining",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-09T09:31:41.740335",
+    "insight": "Reviving retro design concepts with modern technology creates innovative possibilities."
+  },
+  {
+    "title": "OpenAI's massive Stargate data center canceled as firm can't reach terms with Oracle, operator struggles with reliability issues Meta said to be interested in snatching excess capacity",
+    "summary": "OpenAI's massive Stargate data center expansion canceled due to financing issues. Oracle couldn't reach terms, while OpenAI struggles with reliability. Meta may take excess capacity.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-massive-stargate-data-center-canceled-as-firm-cant-reach-terms-with-oracle-operator-struggles-with-reliability-issues-meta-said-to-be-interested-in-snatching-excess-capacity",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-09T09:31:41.740441",
+    "insight": "Reliability and financing woes hinder AI data center expansion efforts."
+  },
+  {
+    "title": "Car powered by 500 disposable vape batteries boasts 18-mile range, 35mph top speed, USB-C charging port early 2000s Reva G.Wiz gets a makeover",
+    "summary": "A YouTuber built a car using 500 vape batteries, achieving 18 miles and 35mph. The vehicle features a USB-C charging port. A 2000s Reva G.Wiz electric car has been given a modern makeover.",
+    "link": "https://www.tomshardware.com/maker-stem/vape-battery-powered-car-boasts-18-mile-range-35mph-top-speed-usb-c-charging-port-500-vape-batteries-power-early-2000s-reva-g-wiz",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-09T09:31:41.740530",
+    "insight": "Recycling vape waste to power electric vehicles is a viable concept."
+  },
+  {
+    "title": "NASA successfully deflected a small asteroid with its DART rocket, kinetic strike ejected a significant amount of debris from the asteroid impact nudges the orbit of the small astronomical body, affecting the larger cosmic object as well",
+    "summary": "NASA's DART mission successfully deflected a small asteroid by altering its orbit, impacting both the target and nearby cosmic bodies.",
+    "link": "https://www.tomshardware.com/tech-industry/nasa-successfully-deflected-a-small-asteroid-with-its-dart-rocket-kinetic-strike-ejected-a-significant-amount-of-debris-from-the-asteroid-impact-nudges-the-orbit-of-the-small-astronomical-body-affecting-the-larger-cosmic-object-as-well",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-09T09:31:41.740624",
+    "insight": "Demonstrating asteroid deflection capabilities for near-Earth object protection and planetary defense."
+  },
+  {
+    "title": "Palmer Luckey s retro gaming venture seeks $1 billion valuation as FPGA-based Nintendo 64 clone launch nears ModRetro's M64 console plays original N64 cartridges, supports 4K resolution",
+    "summary": "Palmer Luckey's ModRetro is seeking a $1 billion valuation, preparing to launch its M64 console, a Nintendo 64 clone that plays original cartridges and supports 4K resolution.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/oculus-founder-seeks-1bn-valuation-for-modretro-as-n64-console-launch-nears",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-09T09:31:41.740724",
+    "insight": "Reviving retro gaming with cutting-edge tech drives innovation"
+  },
+  {
+    "title": "Chinese SSD maker YMTC lists first commercial PCIe 5.0 SSD as worldwide shortage intensifies Xtacking 4.0 NAND powers speeds of up to 10,500 MB/s",
+    "summary": "YMTC lists the PC550 SSD with PCIe 5.0 x4 connectivity for AI and commercial systems, offering speeds of up to 10,500 MB/s. This SSD features NVMe 2.0 support and a four-channel design. The new SSD is part of YMTC's Xtacking 4.0 NAND technology.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/chinese-ssd-maker-ymtc-lists-first-commercial-pcie-5-0-ssd-as-worldwide-shortage-intensifies-xtacking-4-0-nand-powers-speeds-of-up-to-10-500-mb-s",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-09T09:31:41.740815",
+    "insight": "YMTC's PCIe 5.0 SSD boosts speed for AI and commercial applications"
+  },
+  {
+    "title": "US startup plans to build data centers inside ocean-based wind turbines, servers water cooled via chilly North Sea each leg houses a data center, firm set to launch three-legged prototype in Norway s North Sea this year",
+    "summary": "Offshore wind turbines could house large data centers, powered by wind and cooled by cold ocean water.",
+    "link": "https://www.tomshardware.com/desktops/servers/us-startup-plans-to-build-data-centers-inside-ocean-based-wind-turbines-servers-water-cooled-via-chilly-north-sea-each-leg-houses-a-data-center-firm-set-to-launch-three-legged-prototype-in-norways-north-sea-this-year",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-09T09:31:41.740934",
+    "insight": "Sustainable data centers leveraging renewable energy and natural cooling sources."
+  },
+  {
+    "title": "Norwegian gov't consumer watchdog calls out enshittification of video games, connected devices, and others claims hardware deliberately degraded after purchase",
+    "summary": "The Norwegian government's consumer watchdog reports that companies intentionally degrade products post-purchase through software updates. This affects vehicles, washing machines, and other connected devices. The report claims this practice, called 'enshittification,' hurts consumers.",
+    "link": "https://www.tomshardware.com/tech-industry/norwegian-consumer-watchdog-calls-out-enshittification",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.428268",
-    "insight": "Hackers can repurpose PS5 as PC, preserving gaming legacy and options."
+    "processed_date": "2026-03-09T09:31:41.741036",
+    "insight": "Companies deliberately degrade products with software updates to boost profits."
   },
   {
-    "title": "Lock in the RTX 5070 for $599 before prices skyrocket even further custom overclocked model is only $50 above MSRP",
-    "summary": "The RTX 5070 provides strong 1440p performance with 12GB of GDDR7 memory, supporting Nvidia's latest features like DLSS 4 and Reflex 2.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/lock-in-the-rtx-5070-for-usd599-before-prices-skyrocket-even-further-custom-overclocked-model-is-only-usd50-above-msrp",
+    "title": "Jensen Huang set to receive $4 million bonus from Nvidia, 0.002% of his $164 billion net worth a small incentive for one of the richest people on earth",
+    "summary": "Nvidia's compensation committee set a $4 million bonus for CEO Jensen Huang",
+    "link": "https://www.tomshardware.com/tech-industry/jensen-huang-set-to-receive-usd4-million-bonus-from-nvidia-0-002-percent-of-his-usd164-billion-net-worth-a-small-incentive-for-one-of-the-richest-people-on-earth",
     "categories": [
-      "GPUs",
-      "AI & ML"
+      "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-08T09:00:55.428367",
-    "insight": "Secure a powerful GPU at competitive pricing before prices surge higher."
+    "quality_score": 5,
+    "processed_date": "2026-03-09T09:31:41.741124",
+    "insight": "CEO's $4m bonus a small fraction of his $164 billion net worth"
   },
   {
-    "title": "Valve changes Steam Machine release date to this 'year,' second change as AI-fueled memory and shortage crisis deepens official announcements went from \"early 2026\" to \"first half of 2026\" to \"this year\"",
-    "summary": "Valve has shifted the Steam Machine release date to 'this year', marking its second update in 2026. Initially, the console was expected to arrive in 'early 2026', but was later revised to the 'first half of 2026'. This latest announcement brings the release window to an unspecified period this year.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/valve-changes-steam-machine-release-date-to-this-year-second-change-as-ai-fueled-memory-and-shortage-crisis-deepens-official-announcements-went-from-early-2026-to-first-half-of-2026-to-this-year",
+    "title": "Seagate FireCuda X1070 SSD spotted at retailers listed at $829.99 before any official announcement",
+    "summary": "Seagate's unannounced FireCuda X1070 NVMe SSD briefly appeared on Amazon and Best Buy.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-x1070-ssd-spotted-at-retailers-ahead-of-any-official-announcement",
     "categories": [
       "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-09T09:31:41.741212",
+    "insight": "Early listing hints at imminent official Seagate storage product announcement"
+  },
+  {
+    "title": "California sues websites hosting 3D printed gun files online platforms allegedly violate multiple civil codes regarding unlawful distribution and manufacturing of firearms",
+    "summary": "California sues websites hosting 3D printed gun files, alleging unlawful distribution and manufacturing.",
+    "link": "https://www.tomshardware.com/3d-printing/california-sues-websites-hosting-3d-printed-gun-files-online-platforms-allegedly-violate-multiple-civil-codes-regarding-unlawful-distribution-and-manufacturing-of-firearms",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-09T09:31:41.741306",
+    "insight": "Easy online access to 3D printed guns poses significant public safety risks."
+  },
+  {
+    "title": "Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer figure inferred from 470,000 auto-submitted crash reports",
+    "summary": "A Mozilla engineer analyzed 470,000 crash reports and found that up to 15% of Firefox crashes are caused by memory bit flips. This suggests a significant issue with the browser's stability and reliability. The engineer's analysis aims to help identify and fix the problem.",
+    "link": "https://www.tomshardware.com/pc-components/ram/bit-flips-cause-up-to-15-percent-of-firefox-crashes-asserts-mozilla-engineer-figure-inferred-from-470-000-auto-submitted-crash-reports",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.428472",
-    "insight": "Steam Machine's release timeline remains unpredictable due to ongoing shortages"
+    "processed_date": "2026-03-09T09:31:41.741386",
+    "insight": "Memory bit flips pose a significant threat to Firefox's stability and user experience."
   },
   {
-    "title": "Nintendo sues the US government over tariffs Japanese videogame giant seeks 200 billion refund with interest",
-    "summary": "Nintendo of America sues the US government for 200 billion refund, citing tariffs from Trump's executive orders.",
-    "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-sues-u-s-government-over-tariffs",
+    "title": "SayoDevice O3C 3-Key Hall-effect keypad boasts 8,000Hz polling rate for playing rhythm games",
+    "summary": "The SayoDevice O3C is a Hall-effect keypad designed for rhythm and single-input games, offering rapid trigger support and customizable actuation points. It features a 0.96-inch IPS color display, USB 2.0 connectivity, and an 8,000 Hz polling rate for low input latency.",
+    "link": "https://www.cnx-software.com/2026/03/09/sayodevice-o3c-3-key-hall-effect-keypad-boasts-8000hz-polling-rate-for-playing-rhythm-games/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-09T09:31:41.741918",
+    "insight": "Optimized for low-latency gaming with high polling rate performance"
+  },
+  {
+    "title": "STMicro STM32C5 entry-level, 144 MHz Cortex-M33 MCU features up to 1MB flash, 256KB SRAM, Ethernet, CAN Bus",
+    "summary": "The STMicro STM32C5 MCU family is designed for industrial and IoT applications, featuring a 144 MHz Cortex-M33 core, up to 1MB flash, and 256KB SRAM, with enhanced security features and peripheral support.",
+    "link": "https://www.cnx-software.com/2026/03/09/stmicro-stm32c5-entry-level-144-mhz-cortex-m33-mcu-features-up-to-1mb-flash-256kb-sram-ethernet-can-bus/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-09T09:31:41.742079",
+    "insight": "Enhanced security and performance in low-power, high-reliability industrial MCUs."
+  },
+  {
+    "title": "DSG-22.6 GHz is a $1,590 open-source RF signal generator based on Atek Midas s custom ICs (Crowdfunding)",
+    "summary": "Atek Midas launched DSG-22.6 GHz, a high-performance open-source RF signal generator with a frequency range of 0.15 GHz to 22.6 GHz, offering professional-grade frequency synthesis at a fraction of the cost of traditional benchtop equipment.",
+    "link": "https://www.cnx-software.com/2026/03/09/dsg-22-6-ghz-1590-open-source-rf-signal-generator-based-on-atek-midass-custom-ics/",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 25,
+    "processed_date": "2026-03-09T09:31:41.742234",
+    "insight": "Low-cost, high-performance RF signal generator for makers and production environments"
+  },
+  {
+    "title": "Here are the 15 products Apple just discontinued as new iPhones, iPads, and Macs arrive",
+    "summary": "Apple has discontinued 15 products, likely to promote new flagship models. This move aims to simplify their product lineup and encourage buyers to upgrade to the latest offerings. The discontinued products include iPhones, iPads, and Macs that are no longer supported or sold.",
+    "link": "https://www.techspot.com/news/111603-here-15-products-apple-discontinued-new-iphones-ipads.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-09T09:31:41.743353",
+    "insight": "Focusing on latest products drives sales and simplifies Apple's offerings"
+  },
+  {
+    "title": "Experimental lithium-metal battery delivers 700 Wh/kg and works in extreme cold",
+    "summary": "Researchers have developed an experimental lithium-metal battery with 700 Wh/kg capacity, working well in extreme cold temperatures.",
+    "link": "https://www.techspot.com/news/111591-experimental-lithium-metal-battery-delivers-700-whkg-works.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-09T09:31:41.743443",
+    "insight": "Improving electrolyte chemistry boosts battery efficiency and cold-weather performance."
+  },
+  {
+    "title": "Nintendo sues the US government over \"unlawful\" Trump-era tariffs",
+    "summary": "Nintendo is suing the US government over 'unlawful' Trump-era tariffs, seeking refunds and interest.",
+    "link": "https://www.techspot.com/news/111601-nintendo-sues-us-government-over-unlawful-trump-era.html",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.428580",
-    "insight": "Nintendo's lawsuit challenges Trump-era tariffs, impacting gaming industry worldwide."
+    "processed_date": "2026-03-09T09:31:41.743536",
+    "insight": "Nintendo seeks compensation for tariffs struck down by the Supreme Court ruling."
   },
   {
-    "title": "AMD VP uses AI to create Radeon Linux userland driver in Python senior AI engineer says he \"didn't open the editor once\"",
-    "summary": "AMD's VP used AI to create a Linux driver in Python, but it's for testing only.",
-    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-vp-uses-ai-to-create-radeon-linux-userland-driver-in-python-senior-ai-engineer-says-he-didnt-open-the-editor-once",
+    "title": "The MacBook Neo is a $500 Wake-Up Call for the Entire PC Industry",
+    "summary": "Apple's MacBook Neo is a significant announcement for the PC industry, targeting budget markets. The $599 laptop is not for individual consumers but holds importance for the industry. It might spark a price war among budget Windows laptops.",
+    "link": "https://www.techspot.com/article/3100-macbook-neo-pc-market-implications/",
     "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.428687",
-    "insight": "AI code generation impacts traditional software development processes and expertise."
-  },
-  {
-    "title": "Engineer receives $30,000 for exposing a vulnerability affecting 7,000 robot vacuum cleaners tinkerer just wanted to drive his robot vacuum with a PS5 controller",
-    "summary": "A software engineer discovered a vulnerability in 7,000 robot vacuum cleaners while experimenting with gamepad control. He received $30,000 from DJI for his find. The engineer's initial goal was to use a PS5 controller to control his robot vacuum.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/engineer-receives-usd30-000-for-exposing-a-vulnerability-affecting-7-000-robot-vacuum-cleaners-tinkerer-just-wanted-to-drive-his-robot-vacuum-with-a-ps5-controller",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.428780",
-    "insight": "Consumer device security vulnerabilities can have significant monetary rewards."
-  },
-  {
-    "title": "Oracle reportedly set to axe thousands of jobs and freeze hiring as AI data center bets ignite financial perfect storm cuts in cloud division to be backfilled with AI",
-    "summary": "Oracle is reportedly planning to cut thousands of jobs and freeze hiring in its cloud division, citing significant losses due to AI data center investments.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/oracle-reportedly-set-to-axe-thousands-of-jobs-and-freeze-hiring-for-cloud-division-ai-datacenter-bets-ignite-financial-perfect-storm",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.428867",
-    "insight": "Oracle's AI strategy is sparking a massive workforce overhaul."
-  },
-  {
-    "title": "Scientists attempt to link 3D printed ghost guns to specific filament brands with chemical fingerprinting major filament makers often white-label products, complicating efforts",
-    "summary": "Researchers attempt to link 3D printed ghost guns to specific filament brands through chemical analysis, but major filament makers often white-label products, complicating efforts.",
-    "link": "https://www.tomshardware.com/3d-printing/scientists-attempt-to-link-3d-printed-ghost-guns-to-specific-filament-brands-with-chemical-fingerprinting-major-filament-makers-often-white-label-products-complicating-efforts",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-08T09:00:55.428957",
-    "insight": "Tracing ghost guns through filament proves challenging due to white-labeling."
-  },
-  {
-    "title": "Claude Code deletes developers' production setup, including its database and snapshots 2.5 years of records were nuked in an instant",
-    "summary": "A developer's over-eager use of Claude Code Terraform resulted in the deletion of the production setup, including the database and its snapshots, leading to the loss of 2.5 years of records.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-code-deletes-developers-production-setup-including-its-database-and-snapshots-2-5-years-of-records-were-nuked-in-an-instant",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.429038",
-    "insight": "Careless use of automation tools can lead to devastating data losses."
-  },
-  {
-    "title": "Nvidia CEO Huang declares I love constraints amid ongoing component shortage claims lack of options forces AI clients to only choose the very best",
-    "summary": "Nvidia CEO Huang says 'I love constraints' due to component shortages, benefiting the company as clients opt for reliable and high-end options, which ultimately hurts regular consumers.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-huang-declares-i-love-constraints-amid-ongoing-component-shortage-claims-lack-of-options-forces-ai-clients-to-only-choose-the-very-best",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.429147",
-    "insight": "Component shortages limit consumer options, benefiting Nvidia at their expense."
-  },
-  {
-    "title": "This shark PC case will take a $5,499 megabyte out of your pocket Cooler Master Shark X finally migrates to U.S. waters",
-    "summary": "The Cooler Master Shark X mini-ITX case is now available in the U.S. for $5,499.99, offering a unique design for PC enthusiasts.",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/cooler-masters-shark-pc-case-will-take-a-usd5-499-megabyte-out-of-your-pocket-cooler-master-shark-x-finally-migrates-to-u-s-waters",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.429234",
-    "insight": "Unique shark-shaped case design for PC enthusiasts emerges in the market."
-  },
-  {
-    "title": "Iranian drone strikes hit three AWS data centers in the UAE and Bahrain Iran confirms it targeted Amazon cloud infrastructure",
-    "summary": "Iran's Revolutionary Guard Corps struck three AWS data centers in the UAE and Bahrain, targeting Amazon's cloud infrastructure. The Bahrain facility was specifically targeted because it hosts U.S. military workloads. This is a significant escalation in the region's cyber and physical conflict.",
-    "link": "https://www.tomshardware.com/tech-industry/drone-strikes-hit-three-aws-data-centers-in-the-uae-and-bahrain",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.429321",
-    "insight": "Amazon's cloud infrastructure is now a critical target in global conflicts"
-  },
-  {
-    "title": "Apple's 18-core M5 Max destroys 96-core Ryzen Threadripper Pro 9995WX in Geekbench GPU performance is much less impressive",
-    "summary": "Apple's M5 Max processor outperforms a 96-core Ryzen Threadripper in multi-thread workloads, but its GPU performance is less impressive.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/apples-18-core-m5-max-destroys-96-core-ryzen-threadripper-pro-9995wx-in-geekbench-gpu-performance-is-much-less-impressive",
-    "categories": [
-      "GPUs",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-08T09:00:55.429413",
-    "insight": "Intellectual property and architecture advancements can greatly impact processor performance."
-  },
-  {
-    "title": "PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon AMD hit marketing gold with its 1 GHz Athlon, beat Intel by a nose",
-    "summary": "AMD shipped the 1 GHz Athlon CPU on March 6, 2000, marking the start of the Gigahertz era in PC processors.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.429501",
-    "insight": "AMD beat Intel to 1 GHz, gaining a significant marketing advantage."
-  },
-  {
-    "title": "Pironman 5 Pro Max Raspberry Pi 5 case gains 4.3-inch touchscreen, camera mount, speakers, microphone, and more",
-    "summary": "The Pironman 5 Pro Max Raspberry Pi 5 case now features a 4.3-inch touchscreen, camera mount, and more. This new case is compatible with the Raspberry Pi 5 and similar single-board computers. It offers enhanced features and storage options.",
-    "link": "https://www.cnx-software.com/2026/03/08/pironman-5-pro-max-raspberry-pi-5-case-gains-4-3-inch-touchscreen-camera-mount-speakers-microphone/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-08T09:00:55.430022",
-    "insight": "Enhanced Raspberry Pi 5 experience with multimedia features and storage options"
-  },
-  {
-    "title": "GEEKOM A5 Pro 2026 Edition Review Part 3: Ubuntu 25.10 on an AMD Ryzen 5 7530U mini PC",
-    "summary": "This review tests the GEEKOM A5 Pro 2026 Edition mini PC with Ubuntu 25.10, covering system performance, benchmarks, storage, and networking. The AMD Ryzen 5 7530U mini PC is put through various workloads to measure CPU temperature, fan noise, and power consumption. The results showcase how the mini PC performs under Linux.",
-    "link": "https://www.cnx-software.com/2026/03/07/geekom-a5-pro-2026-edition-review-part-3-ubuntu-25-10-on-an-amd-ryzen-5-7530u-mini-pc/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-03-08T09:00:55.430170",
-    "insight": "Linux performance on AMD Ryzen 5 7530U mini PCs is promising and efficient."
-  },
-  {
-    "title": "Mozilla says Claude AI uncovered over 100 Firefox bugs in just two weeks, including 14 high-severity flaws",
-    "summary": "Mozilla partnered with Anthropic's AI to identify and patch Firefox vulnerabilities, uncovering over 100 bugs in two weeks, including 14 high-severity flaws.",
-    "link": "https://www.techspot.com/news/111600-mozilla-claude-ai-uncovered-over-100-firefox-bugs.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.431356",
-    "insight": "AI-assisted bug-hunting enhances security by uncovering vulnerabilities in a short time frame."
-  },
-  {
-    "title": "Modder turns a PS5 into a Linux Steam Machine, runs GTA V with ray tracing",
-    "summary": "A modder, theflow0, transformed a PS5 into a Linux gaming PC capable of running GTA V with ray tracing at 1440p and 60 FPS.",
-    "link": "https://www.techspot.com/news/111602-modder-turns-ps5-linux-steam-machine-runs-gta.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.431448",
-    "insight": "PS5's hardware can be repurposed for Linux gaming, bypassing Sony's ecosystem restrictions."
-  },
-  {
-    "title": "At MWC 2026, the telecom industry pivoted from 5G to AI-powered 6G",
-    "summary": "The telecom industry shifted focus from 5G to AI-powered 6G at MWC 2026.",
-    "link": "https://www.techspot.com/news/111597-mwc-2026-telecom-industry-pivoted-5g-ai-powered.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.431540",
-    "insight": "AI-powered 6G promises revolutionary wireless connectivity and enhanced user experiences."
-  },
-  {
-    "title": "Arc Raiders bug was saving Discord private chats and login tokens in plaintext files",
-    "summary": "Arc Raiders' Discord SDK logged and saved user data in plaintext files, prompting Embark Studios to issue a hotfix and disable Discord logging for further investigation.",
-    "link": "https://www.techspot.com/news/111598-arc-raiders-bug-saving-discord-private-chats-login.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-08T09:00:55.431657",
-    "insight": "Private user data was exposed due to inadequate data protection measures."
+    "processed_date": "2026-03-09T09:31:41.743620",
+    "insight": "Budget Windows market faces a $599 price benchmark threat"
   }
 ]

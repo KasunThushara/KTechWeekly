@@ -1,75 +1,95 @@
 # 💻 Hardware
-**Week of March 08, 2026**
+**Week of March 09, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-03-08 09:01
+- **Articles this week:** 8
+- **Report generated:** 2026-03-09 09:32
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. GEEKOM A5 Pro 2026 Edition Review Part 3: Ubuntu 25.10 on an AMD Ryzen 5 7530U mini PC ⭐
+### 1. STMicro STM32C5 entry-level, 144 MHz Cortex-M33 MCU features up to 1MB flash, 256KB SRAM, Ethernet, CAN Bus ⭐
 
-This review tests the GEEKOM A5 Pro 2026 Edition mini PC with Ubuntu 25.10, covering system performance, benchmarks, storage, and networking. The AMD Ryzen 5 7530U mini PC is put through various workloads to measure CPU temperature, fan noise, and power consumption. The results showcase how the mini PC performs under Linux.
+The STMicro STM32C5 MCU family is designed for industrial and IoT applications, featuring a 144 MHz Cortex-M33 core, up to 1MB flash, and 256KB SRAM, with enhanced security features and peripheral support.
 
-💡 *Linux performance on AMD Ryzen 5 7530U mini PCs is promising and efficient.*
+💡 *Enhanced security and performance in low-power, high-reliability industrial MCUs.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/07/geekom-a5-pro-2026-edition-review-part-3-ubuntu-25-10-on-an-amd-ryzen-5-7530u-mini-pc/)
-
----
-
-### 2. Pironman 5 Pro Max Raspberry Pi 5 case gains 4.3-inch touchscreen, camera mount, speakers, microphone, and more ⭐
-
-The Pironman 5 Pro Max Raspberry Pi 5 case now features a 4.3-inch touchscreen, camera mount, and more. This new case is compatible with the Raspberry Pi 5 and similar single-board computers. It offers enhanced features and storage options.
-
-💡 *Enhanced Raspberry Pi 5 experience with multimedia features and storage options*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/08/pironman-5-pro-max-raspberry-pi-5-case-gains-4-3-inch-touchscreen-camera-mount-speakers-microphone/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/09/stmicro-stm32c5-entry-level-144-mhz-cortex-m33-mcu-features-up-to-1mb-flash-256kb-sram-ethernet-can-bus/)
 
 ---
 
-### 3. Apple's 18-core M5 Max destroys 96-core Ryzen Threadripper Pro 9995WX in Geekbench GPU performance is much less impressive 
+### 2. Classic tiny LEGO computer brick design from 1979 made into full-scale working computer Mac Mini implanted into this 10:1 scale inflated reimagining 
 
-Apple's M5 Max processor outperforms a 96-core Ryzen Threadripper in multi-thread workloads, but its GPU performance is less impressive.
+A 10:1 scale working model of the classic LEGO computer brick has been created, housing a Mac Mini M4 inside. This inflated reimagining pays homage to the original design from 1979. The resulting computer is a functional and nostalgic tribute.
 
-💡 *Intellectual property and architecture advancements can greatly impact processor performance.*
+💡 *Reviving retro design concepts with modern technology creates innovative possibilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/apples-18-core-m5-max-destroys-96-core-ryzen-threadripper-pro-9995wx-in-geekbench-gpu-performance-is-much-less-impressive)
-
----
-
-### 4. Linux hacked onto a PS5 to turn Sony's console into a Steam Machine GTA V Enhanced Edition runs at 60 FPS on 1440pwith ray tracing 
-
-Andy Nguyen ported Linux to the PS5, turning it into a PC, and successfully ran GTA V on Steam at 60 FPS on 1440p with ray tracing.
-
-💡 *Hackers can repurpose PS5 as PC, preserving gaming legacy and options.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/linux-hacked-onto-a-ps5-to-turn-sonys-console-into-a-steam-machine-gta-v-enhanced-edition-runs-at-60-fps-on-1440pwith-ray-tracing)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/classic-tiny-lego-computer-brick-design-from-1979-made-into-full-scale-working-computer-mac-mini-implanted-into-this-10-1-scale-inflated-reimagining)
 
 ---
 
-### 5. This shark PC case will take a $5,499 megabyte out of your pocket Cooler Master Shark X finally migrates to U.S. waters 
+### 3. Palmer Luckey s retro gaming venture seeks $1 billion valuation as FPGA-based Nintendo 64 clone launch nears ModRetro's M64 console plays original N64 cartridges, supports 4K resolution 
 
-The Cooler Master Shark X mini-ITX case is now available in the U.S. for $5,499.99, offering a unique design for PC enthusiasts.
+Palmer Luckey's ModRetro is seeking a $1 billion valuation, preparing to launch its M64 console, a Nintendo 64 clone that plays original cartridges and supports 4K resolution.
 
-💡 *Unique shark-shaped case design for PC enthusiasts emerges in the market.*
+💡 *Reviving retro gaming with cutting-edge tech drives innovation*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/cooler-masters-shark-pc-case-will-take-a-usd5-499-megabyte-out-of-your-pocket-cooler-master-shark-x-finally-migrates-to-u-s-waters)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/oculus-founder-seeks-1bn-valuation-for-modretro-as-n64-console-launch-nears)
 
 ---
 
-### 6. PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon AMD hit marketing gold with its 1 GHz Athlon, beat Intel by a nose 
+### 4. Chinese SSD maker YMTC lists first commercial PCIe 5.0 SSD as worldwide shortage intensifies Xtacking 4.0 NAND powers speeds of up to 10,500 MB/s 
 
-AMD shipped the 1 GHz Athlon CPU on March 6, 2000, marking the start of the Gigahertz era in PC processors.
+YMTC lists the PC550 SSD with PCIe 5.0 x4 connectivity for AI and commercial systems, offering speeds of up to 10,500 MB/s. This SSD features NVMe 2.0 support and a four-channel design. The new SSD is part of YMTC's Xtacking 4.0 NAND technology.
 
-💡 *AMD beat Intel to 1 GHz, gaining a significant marketing advantage.*
+💡 *YMTC's PCIe 5.0 SSD boosts speed for AI and commercial applications*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/chinese-ssd-maker-ymtc-lists-first-commercial-pcie-5-0-ssd-as-worldwide-shortage-intensifies-xtacking-4-0-nand-powers-speeds-of-up-to-10-500-mb-s)
+
+---
+
+### 5. US startup plans to build data centers inside ocean-based wind turbines, servers water cooled via chilly North Sea each leg houses a data center, firm set to launch three-legged prototype in Norway s North Sea this year 
+
+Offshore wind turbines could house large data centers, powered by wind and cooled by cold ocean water.
+
+💡 *Sustainable data centers leveraging renewable energy and natural cooling sources.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/us-startup-plans-to-build-data-centers-inside-ocean-based-wind-turbines-servers-water-cooled-via-chilly-north-sea-each-leg-houses-a-data-center-firm-set-to-launch-three-legged-prototype-in-norways-north-sea-this-year)
+
+---
+
+### 6. Norwegian gov't consumer watchdog calls out enshittification of video games, connected devices, and others claims hardware deliberately degraded after purchase 
+
+The Norwegian government's consumer watchdog reports that companies intentionally degrade products post-purchase through software updates. This affects vehicles, washing machines, and other connected devices. The report claims this practice, called 'enshittification,' hurts consumers.
+
+💡 *Companies deliberately degrade products with software updates to boost profits.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/norwegian-consumer-watchdog-calls-out-enshittification)
+
+---
+
+### 7. SayoDevice O3C 3-Key Hall-effect keypad boasts 8,000Hz polling rate for playing rhythm games 
+
+The SayoDevice O3C is a Hall-effect keypad designed for rhythm and single-input games, offering rapid trigger support and customizable actuation points. It features a 0.96-inch IPS color display, USB 2.0 connectivity, and an 8,000 Hz polling rate for low input latency.
+
+💡 *Optimized for low-latency gaming with high polling rate performance*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/09/sayodevice-o3c-3-key-hall-effect-keypad-boasts-8000hz-polling-rate-for-playing-rhythm-games/)
+
+---
+
+### 8. The MacBook Neo is a $500 Wake-Up Call for the Entire PC Industry 
+
+Apple's MacBook Neo is a significant announcement for the PC industry, targeting budget markets. The $599 laptop is not for individual consumers but holds importance for the industry. It might spark a price war among budget Windows laptops.
+
+💡 *Budget Windows market faces a $599 price benchmark threat*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3100-macbook-neo-pc-market-implications/)
 
 ---
 

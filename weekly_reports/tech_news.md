@@ -1,55 +1,85 @@
 # 📰 Tech News
-**Week of March 08, 2026**
+**Week of March 09, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-03-08 09:01
+- **Articles this week:** 7
+- **Report generated:** 2026-03-09 09:32
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Scientists attempt to link 3D printed ghost guns to specific filament brands with chemical fingerprinting major filament makers often white-label products, complicating efforts 
+### 1. DSG-22.6 GHz is a $1,590 open-source RF signal generator based on Atek Midas s custom ICs (Crowdfunding) ⭐
 
-Researchers attempt to link 3D printed ghost guns to specific filament brands through chemical analysis, but major filament makers often white-label products, complicating efforts.
+Atek Midas launched DSG-22.6 GHz, a high-performance open-source RF signal generator with a frequency range of 0.15 GHz to 22.6 GHz, offering professional-grade frequency synthesis at a fraction of the cost of traditional benchtop equipment.
 
-💡 *Tracing ghost guns through filament proves challenging due to white-labeling.*
+💡 *Low-cost, high-performance RF signal generator for makers and production environments*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/scientists-attempt-to-link-3d-printed-ghost-guns-to-specific-filament-brands-with-chemical-fingerprinting-major-filament-makers-often-white-label-products-complicating-efforts)
-
----
-
-### 2. Valve changes Steam Machine release date to this 'year,' second change as AI-fueled memory and shortage crisis deepens official announcements went from "early 2026" to "first half of 2026" to "this year" 
-
-Valve has shifted the Steam Machine release date to 'this year', marking its second update in 2026. Initially, the console was expected to arrive in 'early 2026', but was later revised to the 'first half of 2026'. This latest announcement brings the release window to an unspecified period this year.
-
-💡 *Steam Machine's release timeline remains unpredictable due to ongoing shortages*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/valve-changes-steam-machine-release-date-to-this-year-second-change-as-ai-fueled-memory-and-shortage-crisis-deepens-official-announcements-went-from-early-2026-to-first-half-of-2026-to-this-year)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/09/dsg-22-6-ghz-1590-open-source-rf-signal-generator-based-on-atek-midass-custom-ics/)
 
 ---
 
-### 3. Engineer receives $30,000 for exposing a vulnerability affecting 7,000 robot vacuum cleaners tinkerer just wanted to drive his robot vacuum with a PS5 controller 
+### 2. Experimental lithium-metal battery delivers 700 Wh/kg and works in extreme cold 
 
-A software engineer discovered a vulnerability in 7,000 robot vacuum cleaners while experimenting with gamepad control. He received $30,000 from DJI for his find. The engineer's initial goal was to use a PS5 controller to control his robot vacuum.
+Researchers have developed an experimental lithium-metal battery with 700 Wh/kg capacity, working well in extreme cold temperatures.
 
-💡 *Consumer device security vulnerabilities can have significant monetary rewards.*
+💡 *Improving electrolyte chemistry boosts battery efficiency and cold-weather performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/engineer-receives-usd30-000-for-exposing-a-vulnerability-affecting-7-000-robot-vacuum-cleaners-tinkerer-just-wanted-to-drive-his-robot-vacuum-with-a-ps5-controller)
+🔗 [Read Full Article](https://www.techspot.com/news/111591-experimental-lithium-metal-battery-delivers-700-whkg-works.html)
 
 ---
 
-### 4. Claude Code deletes developers' production setup, including its database and snapshots 2.5 years of records were nuked in an instant 
+### 3. Car powered by 500 disposable vape batteries boasts 18-mile range, 35mph top speed, USB-C charging port early 2000s Reva G.Wiz gets a makeover 
 
-A developer's over-eager use of Claude Code Terraform resulted in the deletion of the production setup, including the database and its snapshots, leading to the loss of 2.5 years of records.
+A YouTuber built a car using 500 vape batteries, achieving 18 miles and 35mph. The vehicle features a USB-C charging port. A 2000s Reva G.Wiz electric car has been given a modern makeover.
 
-💡 *Careless use of automation tools can lead to devastating data losses.*
+💡 *Recycling vape waste to power electric vehicles is a viable concept.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-code-deletes-developers-production-setup-including-its-database-and-snapshots-2-5-years-of-records-were-nuked-in-an-instant)
+🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/vape-battery-powered-car-boasts-18-mile-range-35mph-top-speed-usb-c-charging-port-500-vape-batteries-power-early-2000s-reva-g-wiz)
+
+---
+
+### 4. NASA successfully deflected a small asteroid with its DART rocket, kinetic strike ejected a significant amount of debris from the asteroid impact nudges the orbit of the small astronomical body, affecting the larger cosmic object as well 
+
+NASA's DART mission successfully deflected a small asteroid by altering its orbit, impacting both the target and nearby cosmic bodies.
+
+💡 *Demonstrating asteroid deflection capabilities for near-Earth object protection and planetary defense.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nasa-successfully-deflected-a-small-asteroid-with-its-dart-rocket-kinetic-strike-ejected-a-significant-amount-of-debris-from-the-asteroid-impact-nudges-the-orbit-of-the-small-astronomical-body-affecting-the-larger-cosmic-object-as-well)
+
+---
+
+### 5. US startup plans to build data centers inside ocean-based wind turbines, servers water cooled via chilly North Sea each leg houses a data center, firm set to launch three-legged prototype in Norway s North Sea this year 
+
+Offshore wind turbines could house large data centers, powered by wind and cooled by cold ocean water.
+
+💡 *Sustainable data centers leveraging renewable energy and natural cooling sources.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/us-startup-plans-to-build-data-centers-inside-ocean-based-wind-turbines-servers-water-cooled-via-chilly-north-sea-each-leg-houses-a-data-center-firm-set-to-launch-three-legged-prototype-in-norways-north-sea-this-year)
+
+---
+
+### 6. Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer figure inferred from 470,000 auto-submitted crash reports 
+
+A Mozilla engineer analyzed 470,000 crash reports and found that up to 15% of Firefox crashes are caused by memory bit flips. This suggests a significant issue with the browser's stability and reliability. The engineer's analysis aims to help identify and fix the problem.
+
+💡 *Memory bit flips pose a significant threat to Firefox's stability and user experience.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/bit-flips-cause-up-to-15-percent-of-firefox-crashes-asserts-mozilla-engineer-figure-inferred-from-470-000-auto-submitted-crash-reports)
+
+---
+
+### 7. Here are the 15 products Apple just discontinued as new iPhones, iPads, and Macs arrive 
+
+Apple has discontinued 15 products, likely to promote new flagship models. This move aims to simplify their product lineup and encourage buyers to upgrade to the latest offerings. The discontinued products include iPhones, iPads, and Macs that are no longer supported or sold.
+
+💡 *Focusing on latest products drives sales and simplifies Apple's offerings*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111603-here-15-products-apple-discontinued-new-iphones-ipads.html)
 
 ---
 
