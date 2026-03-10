@@ -1,45 +1,65 @@
 # 🎮 GPUs
-**Week of March 09, 2026**
+**Week of March 10, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 3
-- **Report generated:** 2026-03-09 09:32
+- **Articles this week:** 5
+- **Report generated:** 2026-03-10 09:27
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Seagate FireCuda X1070 SSD spotted at retailers listed at $829.99 before any official announcement 
+### 1. Intel Panther Lake-H high-res die shot emerges image show 18A compute tile, Xe3 GPU tile in new X-series processors 
 
-Seagate's unannounced FireCuda X1070 NVMe SSD briefly appeared on Amazon and Best Buy.
+Intel's Panther Lake-H CPU features 16 cores and 12 Xe3 clusters, with Thunderbolt 5 ports. Annotated die shots provide a detailed look at the processor's architecture. The images highlight the CPU's compute and graphics capabilities.
 
-💡 *Early listing hints at imminent official Seagate storage product announcement*
+💡 *Intel's Xe3 GPU and Thunderbolt 5 enhance mobile performance and connectivity*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-x1070-ssd-spotted-at-retailers-ahead-of-any-official-announcement)
-
----
-
-### 2. Palmer Luckey s retro gaming venture seeks $1 billion valuation as FPGA-based Nintendo 64 clone launch nears ModRetro's M64 console plays original N64 cartridges, supports 4K resolution 
-
-Palmer Luckey's ModRetro is seeking a $1 billion valuation, preparing to launch its M64 console, a Nintendo 64 clone that plays original cartridges and supports 4K resolution.
-
-💡 *Reviving retro gaming with cutting-edge tech drives innovation*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/oculus-founder-seeks-1bn-valuation-for-modretro-as-n64-console-launch-nears)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-panther-lake-h-high-res-die-shot-emerges-image-show-18a-compute-tile-xe3-gpu-tile-in-new-x-series-processors)
 
 ---
 
-### 3. Jensen Huang set to receive $4 million bonus from Nvidia, 0.002% of his $164 billion net worth a small incentive for one of the richest people on earth 
+### 2. New Commerce Department AI export rules could be seismic change for CSPs and data center operators buying American GPUs at scale means committing to building American infrastructure 
 
-Nvidia's compensation committee set a $4 million bonus for CEO Jensen Huang
+The U.S. Commerce Department may introduce new export controls for AI chips, potentially requiring U.S. investment for large-scale purchases. This could impact companies buying American GPUs at scale. The new rules may force CSPs and data center operators to build American infrastructure.
 
-💡 *CEO's $4m bonus a small fraction of his $164 billion net worth*
+💡 *U.S. AI chip exports tied to domestic infrastructure investment.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/jensen-huang-set-to-receive-usd4-million-bonus-from-nvidia-0-002-percent-of-his-usd164-billion-net-worth-a-small-incentive-for-one-of-the-richest-people-on-earth)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/new-commerce-department-ai-export-rules-could-be-seismic-change-for-csps-and-data-center-operators-buying-american-gpus-at-scale-means-committing-to-building-american-infrastructure)
+
+---
+
+### 3. Shortages of crucial chip packaging material threatens AI accelerator supply chains Nittobo's Fukushima plant is tripling capacity, but it'll take years before market 
+
+Nittobo's Fukushima plant is tripling capacity, but it won't meet current demand. The company controls 90% of the global supply of T-glass, crucial for AI chip packaging. Supply shortages are causing issues in the AI accelerator supply chains.
+
+💡 *T-glass shortage threatens AI chip supply chains worldwide severely.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/shortages-of-crucial-chip-packaging-material-threatens-ai-accelerator-supply-chains-nittobos-fukushima-plant-is-tripling-capacity-but-itll-take-years-before-market)
+
+---
+
+### 4. Satya Nadella denies Xbox death rumors, insists Microsoft is "long on gaming" 
+
+Microsoft's Satya Nadella denies abandoning gaming, calling it a core identity.
+
+💡 *Microsoft reaffirms commitment to gaming despite business diversification efforts.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111609-satya-nadella-denies-xbox-death-rumors-insists-microsoft.html)
+
+---
+
+### 5. Why AMD motherboards now come with bigger BIOS chips and why it matters to you 
+
+AMD motherboards now feature larger BIOS chips due to increasing complexity. This shift enables more advanced features and better support for newer technologies. The upgrade also improves flexibility in BIOS settings.
+
+💡 *More features, better support, and flexibility for users*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/why-amd-motherboards-now-come-with-bigger-bios-chips-and-why-it-matters-to-you)
 
 ---
 

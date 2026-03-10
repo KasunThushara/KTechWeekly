@@ -1,85 +1,135 @@
 # 📰 Tech News
-**Week of March 09, 2026**
+**Week of March 10, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-03-09 09:32
+- **Articles this week:** 12
+- **Report generated:** 2026-03-10 09:27
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. DSG-22.6 GHz is a $1,590 open-source RF signal generator based on Atek Midas s custom ICs (Crowdfunding) ⭐
+### 1. New Windows-native NVMe driver benchmarks reveal transformative performance gains, up to 64.89% lightning-fast random reads and breakthrough CPU efficiency ⭐
 
-Atek Midas launched DSG-22.6 GHz, a high-performance open-source RF signal generator with a frequency range of 0.15 GHz to 22.6 GHz, offering professional-grade frequency synthesis at a fraction of the cost of traditional benchtop equipment.
+Microsoft's native NVMe driver on Windows Server 2025 offers substantial performance gains, especially in random reads. StorageReview's benchmarks reveal significant improvements, with up to 64.89% faster random reads. This breakthrough in CPU efficiency enhances overall system performance.
 
-💡 *Low-cost, high-performance RF signal generator for makers and production environments*
+💡 *Native NVMe driver optimizes Windows performance with significant random read boosts.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/09/dsg-22-6-ghz-1590-open-source-rf-signal-generator-based-on-atek-midass-custom-ics/)
-
----
-
-### 2. Experimental lithium-metal battery delivers 700 Wh/kg and works in extreme cold 
-
-Researchers have developed an experimental lithium-metal battery with 700 Wh/kg capacity, working well in extreme cold temperatures.
-
-💡 *Improving electrolyte chemistry boosts battery efficiency and cold-weather performance.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111591-experimental-lithium-metal-battery-delivers-700-whkg-works.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/new-windows-native-nvme-driver-benchmarks-reveal-transformative-performance-gains-up-to-64-89-percent-lightning-fast-random-reads-and-breakthrough-cpu-efficiency)
 
 ---
 
-### 3. Car powered by 500 disposable vape batteries boasts 18-mile range, 35mph top speed, USB-C charging port early 2000s Reva G.Wiz gets a makeover 
+### 2. Apple MacBook Pro (14-inch, M5 Max) review: Blazing-fast super cores 
 
-A YouTuber built a car using 500 vape batteries, achieving 18 miles and 35mph. The vehicle features a USB-C charging port. A 2000s Reva G.Wiz electric car has been given a modern makeover.
+The 14-inch MacBook Pro with M5 Max offers a powerful, portable laptop with fast CPU and massive integrated GPU, making it ideal for demanding tasks and heavy usage.
 
-💡 *Recycling vape waste to power electric vehicles is a viable concept.*
+💡 *Blazing-fast performance for resource-intensive tasks and heavy usage.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/vape-battery-powered-car-boasts-18-mile-range-35mph-top-speed-usb-c-charging-port-500-vape-batteries-power-early-2000s-reva-g-wiz)
-
----
-
-### 4. NASA successfully deflected a small asteroid with its DART rocket, kinetic strike ejected a significant amount of debris from the asteroid impact nudges the orbit of the small astronomical body, affecting the larger cosmic object as well 
-
-NASA's DART mission successfully deflected a small asteroid by altering its orbit, impacting both the target and nearby cosmic bodies.
-
-💡 *Demonstrating asteroid deflection capabilities for near-Earth object protection and planetary defense.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nasa-successfully-deflected-a-small-asteroid-with-its-dart-rocket-kinetic-strike-ejected-a-significant-amount-of-debris-from-the-asteroid-impact-nudges-the-orbit-of-the-small-astronomical-body-affecting-the-larger-cosmic-object-as-well)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-14-inch-m5-max-2026-review)
 
 ---
 
-### 5. US startup plans to build data centers inside ocean-based wind turbines, servers water cooled via chilly North Sea each leg houses a data center, firm set to launch three-legged prototype in Norway s North Sea this year 
+### 3. First solar-powered rugged laptop announced features a solar panel on the back of the display and a backup battery with 5,200mAh of capacity 
 
-Offshore wind turbines could house large data centers, powered by wind and cooled by cold ocean water.
+A Chinese manufacturer has introduced the world's first solar-powered rugged laptop with a solar panel on the back of the display and a 5,200mAh backup battery. This device is designed for professionals who need to work remotely for extended periods. It aims to provide a reliable solution for those in industrial settings.
 
-💡 *Sustainable data centers leveraging renewable energy and natural cooling sources.*
+💡 *Sustainable power for remote industrial professionals increases productivity*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/us-startup-plans-to-build-data-centers-inside-ocean-based-wind-turbines-servers-water-cooled-via-chilly-north-sea-each-leg-houses-a-data-center-firm-set-to-launch-three-legged-prototype-in-norways-north-sea-this-year)
-
----
-
-### 6. Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer figure inferred from 470,000 auto-submitted crash reports 
-
-A Mozilla engineer analyzed 470,000 crash reports and found that up to 15% of Firefox crashes are caused by memory bit flips. This suggests a significant issue with the browser's stability and reliability. The engineer's analysis aims to help identify and fix the problem.
-
-💡 *Memory bit flips pose a significant threat to Firefox's stability and user experience.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/bit-flips-cause-up-to-15-percent-of-firefox-crashes-asserts-mozilla-engineer-figure-inferred-from-470-000-auto-submitted-crash-reports)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/first-solar-powered-rugged-laptop-announced-features-a-solar-panel-on-the-back-of-the-display-and-a-backup-battery-with-5-200mah-of-capacity)
 
 ---
 
-### 7. Here are the 15 products Apple just discontinued as new iPhones, iPads, and Macs arrive 
+### 4. More Rising Stars announced (Group 4) 
 
-Apple has discontinued 15 products, likely to promote new flagship models. This move aims to simplify their product lineup and encourage buyers to upgrade to the latest offerings. The discontinued products include iPhones, iPads, and Macs that are no longer supported or sold.
+The Fierce Sensors Rising Stars program recognizes innovators in sensors and electronics. The program honors individuals driving advancements in their fields. Honorees will be named at Sensors Converge in Santa Clara, CA.
 
-💡 *Focusing on latest products drives sales and simplifies Apple's offerings*
+💡 *Recognizing innovators fuels sensor technology advancements and future breakthroughs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111603-here-15-products-apple-discontinued-new-iphones-ipads.html)
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/more-rising-stars-announced-group-4)
+
+---
+
+### 5. iPhone 17e reviews: two key upgrades refine Apple's entry-level formula 
+
+The iPhone 17e offers a refined entry point with MagSafe, solid performance and 256GB storage. Powered by the A19 chip, it delivers a no-frills introduction to the Apple ecosystem. Reviewers praise its value but consider it pricey.
+
+💡 *Apple refines its entry-level iPhone formula with meaningful upgrades.*
+
+🔗 [Read Full Article](https://www.techspot.com/products/smartphones/apple-iphone-17e.322147/)
+
+---
+
+### 6. Intel keeps socket LGA 1700 alive with new P-core-only CPUs 'Bartlett Lake' is official, but targets embedded applications with up to 12 cores 
+
+Intel's Bartlett Lake CPUs are P-core-only, targeting embedded applications on LGA 1700 motherboards.
+
+💡 *Intel extends LGA 1700 lifespan for specialized, non-gaming applications*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-keeps-socket-lga-1700-alive-with-new-p-core-only-cpus-bartlett-lake-is-official-but-targets-embedded-applications-with-up-to-12-cores)
+
+---
+
+### 7. 3D printer that can mine Bitcoin uses excess heat for temperature control throttled ASICs use printing bed as a heatsink 
+
+A creator developed a 3D printer that mines Bitcoin, utilizing excess heat from mining for temperature control. The printer's ASICs are throttled to prevent overheating, with the printing bed serving as a heatsink to dissipate heat efficiently.
+
+💡 *Repurposing waste heat from Bitcoin mining enhances system efficiency and sustainability.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink)
+
+---
+
+### 8. Battlefield 6's biggest launch ever couldn't stop EA from cutting staff 
+
+EA has made job cuts at studios behind Battlefield 6, including DICE and Criterion, as part of a 'realignment' of the Battlefield organization. The layoffs come despite the game's successful launch. The exact number of roles eliminated is not publicly disclosed.
+
+💡 *Financial priorities may outweigh employee welfare despite successful game launches.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111619-battlefield-6-biggest-launch-ever-couldnt-stop-ea.html)
+
+---
+
+### 9. Prototype 3D printer uses throttled ASICs to mine Bitcoin and heat the printing bed 
+
+A 3D printer uses throttled ASICs to mine Bitcoin and heat the bed, providing a unique dual-purpose system.
+
+💡 *Innovative use of throttled ASICs for dual-purpose energy production.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111612-prototype-3d-printer-uses-throttled-asics-mine-bitcoin.html)
+
+---
+
+### 10. Valve insists Steam Machine launch is still on track for this year 
+
+Valve still plans to launch Steam Machine this year, despite initial delays.
+
+💡 *Steam Machine launch timeline remains uncertain but still on track.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111610-valve-insists-steam-machine-launch-track-after-post.html)
+
+---
+
+### 11. This startup wants to build data centers inside floating offshore wind platforms 
+
+Aikido Technologies aims to build data centers on floating offshore wind platforms, addressing power, cooling, and space needs.
+
+💡 *Sustainable infrastructure for AI data centers could revolutionize global digital capacity.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111608-startup-wants-build-data-centers-inside-floating-offshore.html)
+
+---
+
+### 12. VPN downloads surge in Australia after age checks hit porn sites, online games, and social media 
+
+VPN downloads surge in Australia after age checks are introduced. The checks are applied to various online platforms including porn sites, online games, and social media. This has led to a significant increase in VPN app downloads.
+
+💡 *Users seek online anonymity to bypass new age restrictions*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111607-vpn-downloads-surge-australia-after-age-checks-hit.html)
 
 ---
 

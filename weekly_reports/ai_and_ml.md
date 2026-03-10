@@ -1,85 +1,155 @@
 # 🤖 AI & ML
-**Week of March 09, 2026**
+**Week of March 10, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-03-09 09:32
+- **Articles this week:** 14
+- **Report generated:** 2026-03-10 09:27
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Seagate FireCuda X1070 SSD spotted at retailers listed at $829.99 before any official announcement 
+### 1. iPad Air M4 gets reviewed: More RAM, faster chip, same price 
 
-Seagate's unannounced FireCuda X1070 NVMe SSD briefly appeared on Amazon and Best Buy.
+The iPad Air M4 offers improved performance and capabilities at the same price, making it a strong contender for the best tablet for most people.
 
-💡 *Early listing hints at imminent official Seagate storage product announcement*
+💡 *Mid-range tablet power at a more accessible price point*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-x1070-ssd-spotted-at-retailers-ahead-of-any-official-announcement)
-
----
-
-### 2. Classic tiny LEGO computer brick design from 1979 made into full-scale working computer Mac Mini implanted into this 10:1 scale inflated reimagining 
-
-A 10:1 scale working model of the classic LEGO computer brick has been created, housing a Mac Mini M4 inside. This inflated reimagining pays homage to the original design from 1979. The resulting computer is a functional and nostalgic tribute.
-
-💡 *Reviving retro design concepts with modern technology creates innovative possibilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/classic-tiny-lego-computer-brick-design-from-1979-made-into-full-scale-working-computer-mac-mini-implanted-into-this-10-1-scale-inflated-reimagining)
+🔗 [Read Full Article](https://www.techspot.com/products/tablets/apple-ipad-air-m4.322148/)
 
 ---
 
-### 3. OpenAI's massive Stargate data center canceled as firm can't reach terms with Oracle, operator struggles with reliability issues Meta said to be interested in snatching excess capacity 
+### 2. Nexperia China claims to be making chips using 12-inch wafers subsidiary deepens split with Dutch parent as it builds out 'mass production capabilities' 
 
-OpenAI's massive Stargate data center expansion canceled due to financing issues. Oracle couldn't reach terms, while OpenAI struggles with reliability. Meta may take excess capacity.
+Nexperia China claims to have reached a new milestone in mass production capabilities, reaching a milestone with 12-inch wafers. This development deepens the split with its Dutch parent company. The statement was posted on its Chinese social media account.
 
-💡 *Reliability and financing woes hinder AI data center expansion efforts.*
+💡 *Nexperia China's independence increases competition in chip production globally*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-massive-stargate-data-center-canceled-as-firm-cant-reach-terms-with-oracle-operator-struggles-with-reliability-issues-meta-said-to-be-interested-in-snatching-excess-capacity)
-
----
-
-### 4. Chinese SSD maker YMTC lists first commercial PCIe 5.0 SSD as worldwide shortage intensifies Xtacking 4.0 NAND powers speeds of up to 10,500 MB/s 
-
-YMTC lists the PC550 SSD with PCIe 5.0 x4 connectivity for AI and commercial systems, offering speeds of up to 10,500 MB/s. This SSD features NVMe 2.0 support and a four-channel design. The new SSD is part of YMTC's Xtacking 4.0 NAND technology.
-
-💡 *YMTC's PCIe 5.0 SSD boosts speed for AI and commercial applications*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/chinese-ssd-maker-ymtc-lists-first-commercial-pcie-5-0-ssd-as-worldwide-shortage-intensifies-xtacking-4-0-nand-powers-speeds-of-up-to-10-500-mb-s)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nexperia-china-claims-to-be-making-chips-using-12-inch-wafers-its-dutch-parent-cannot-produce)
 
 ---
 
-### 5. Norwegian gov't consumer watchdog calls out enshittification of video games, connected devices, and others claims hardware deliberately degraded after purchase 
+### 3. Anthropic sues Pentagon over 'supply chain risk' designation, citing free speech and due process violations company refused to allow its AI to be used for autonomous attacks, mass surveillance 
 
-The Norwegian government's consumer watchdog reports that companies intentionally degrade products post-purchase through software updates. This affects vehicles, washing machines, and other connected devices. The report claims this practice, called 'enshittification,' hurts consumers.
+Anthropic has filed lawsuits against the Pentagon over 'supply chain risk' designation, citing free speech and due process violations. The company refused to allow its AI to be used for autonomous attacks and mass surveillance. This move marks a significant challenge to the U.S. government's actions towards AI companies.
 
-💡 *Companies deliberately degrade products with software updates to boost profits.*
+💡 *Government overreach threatens AI development and free speech protections*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/norwegian-consumer-watchdog-calls-out-enshittification)
-
----
-
-### 6. SayoDevice O3C 3-Key Hall-effect keypad boasts 8,000Hz polling rate for playing rhythm games 
-
-The SayoDevice O3C is a Hall-effect keypad designed for rhythm and single-input games, offering rapid trigger support and customizable actuation points. It features a 0.96-inch IPS color display, USB 2.0 connectivity, and an 8,000 Hz polling rate for low input latency.
-
-💡 *Optimized for low-latency gaming with high polling rate performance*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/09/sayodevice-o3c-3-key-hall-effect-keypad-boasts-8000hz-polling-rate-for-playing-rhythm-games/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-sues-pentagon-over-ai-blacklisting)
 
 ---
 
-### 7. Nintendo sues the US government over "unlawful" Trump-era tariffs 
+### 4. New Commerce Department AI export rules could be seismic change for CSPs and data center operators buying American GPUs at scale means committing to building American infrastructure 
 
-Nintendo is suing the US government over 'unlawful' Trump-era tariffs, seeking refunds and interest.
+The U.S. Commerce Department may introduce new export controls for AI chips, potentially requiring U.S. investment for large-scale purchases. This could impact companies buying American GPUs at scale. The new rules may force CSPs and data center operators to build American infrastructure.
 
-💡 *Nintendo seeks compensation for tariffs struck down by the Supreme Court ruling.*
+💡 *U.S. AI chip exports tied to domestic infrastructure investment.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111601-nintendo-sues-us-government-over-unlawful-trump-era.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/new-commerce-department-ai-export-rules-could-be-seismic-change-for-csps-and-data-center-operators-buying-american-gpus-at-scale-means-committing-to-building-american-infrastructure)
+
+---
+
+### 5. Oracle hits back at Stargate data center cancellation reports claims 4.5GW Oracle-OpenAI agreement still on track 
+
+Oracle denies Stargate data center cancellation reports, reaffirming its partnership with OpenAI.
+
+💡 *AI data center project drives Oracle's strategic cloud computing growth plans.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/oracle-rebuts-incorrect-reporting-on-stargate-expansion)
+
+---
+
+### 6. Shortages of crucial chip packaging material threatens AI accelerator supply chains Nittobo's Fukushima plant is tripling capacity, but it'll take years before market 
+
+Nittobo's Fukushima plant is tripling capacity, but it won't meet current demand. The company controls 90% of the global supply of T-glass, crucial for AI chip packaging. Supply shortages are causing issues in the AI accelerator supply chains.
+
+💡 *T-glass shortage threatens AI chip supply chains worldwide severely.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/shortages-of-crucial-chip-packaging-material-threatens-ai-accelerator-supply-chains-nittobos-fukushima-plant-is-tripling-capacity-but-itll-take-years-before-market)
+
+---
+
+### 7. Thermal Grizzly scammed out of $46,000 by Alibaba metals suppliers company spread the risk across two copper and aluminum suppliers, only for both to send cheaper, fake materials 
+
+Thermal Grizzly was scammed by Chinese suppliers sending fake materials, losing $46,000. The scam involved two suppliers, one for copper and one for aluminum, who sent cheaper, fake materials to the company. This incident highlights the risks of sourcing materials from unverified suppliers.
+
+💡 *Unverified suppliers can spread risk, increasing vulnerability to scams*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/heatsinks/thermal-grizzly-scammed-out-of-usd46-000-by-alibaba-metals-suppliers-company-spread-the-risk-across-two-copper-and-aluminum-suppliers-only-for-both-to-send-cheaper-fake-materials)
+
+---
+
+### 8. Amazon's Rufus AI shopping assistant can be easily jailbroken and tricked into answering other questions specific prompts break the chatbot's guidelines and reach underlying AI engine 
+
+Amazon's Rufus AI shopping assistant can be easily tricked into answering complex questions by manipulating its prompts, revealing its potential to access underlying AI engine Claude.
+
+💡 *Rufus's vulnerability highlights its potential to bypass intended functionality.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/amazons-rufus-ai-shopping-assistant-can-be-easily-jailbroken-and-tricked-into-answering-other-questions-specific-prompts-break-the-chatbots-guidelines-and-reach-underlying-ai-engine)
+
+---
+
+### 9. China warns of fresh chip shortage as Nexperia dispute escalates again - Dutch headquarters allegedly locked Chinese staff out of IT systems 
+
+China's commerce ministry warns of a renewed chip shortage crisis. Nexperia's Netherlands disabled IT accounts for Chinese staff. This escalates a dispute over semiconductor supply chain control.
+
+💡 *Global semiconductor supply chain control is a highly politicized issue.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-warns-of-fresh-chip-shortages-as-nexperia-dispute-escalates-again)
+
+---
+
+### 10. Satya Nadella denies Xbox death rumors, insists Microsoft is "long on gaming" 
+
+Microsoft's Satya Nadella denies abandoning gaming, calling it a core identity.
+
+💡 *Microsoft reaffirms commitment to gaming despite business diversification efforts.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111609-satya-nadella-denies-xbox-death-rumors-insists-microsoft.html)
+
+---
+
+### 11. YouTuber built a car powered by 500 discarded vapes, and drove it 18 miles 
+
+A YouTuber repurposed 500 discarded vapes into a car battery, driving it 18 miles. The project explores the potential of lithium battery reuse. This initiative challenges conventional waste management and energy production.
+
+💡 *Waste lithium batteries hold significant untapped renewable energy potential.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111606-youtuber-built-car-powered-500-discarded-vapes-drove.html)
+
+---
+
+### 12. United Airlines may now remove passengers who play audio without headphones 
+
+United Airlines can remove passengers who play audio without headphones. This is based on the airline's contract of carriage, which considers it a material breach. Refunds may still be issued upon request.
+
+💡 *United Airlines prioritizes passenger comfort over individual audio preferences*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111611-united-airlines-tells-passengers-wear-headphones-or-risk.html)
+
+---
+
+### 13. Uber expands female driver preferences in the US following safety concerns 
+
+Uber expands female driver preferences in the US due to safety concerns and pending legal cases involving alleged driver misconduct and sexual assault.
+
+💡 *Uber prioritizes passenger safety amid driver misconduct allegations*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111613-uber-expands-female-driver-preferences-us-following-safety.html)
+
+---
+
+### 14. This startup wants to build data centers inside floating offshore wind platforms 
+
+Aikido Technologies aims to build data centers on floating offshore wind platforms, addressing power, cooling, and space needs.
+
+💡 *Sustainable infrastructure for AI data centers could revolutionize global digital capacity.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111608-startup-wants-build-data-centers-inside-floating-offshore.html)
 
 ---
 
