@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of March 10, 2026**
+**Week of March 11, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. New Windows-native NVMe driver benchmarks reveal transformative performance gains, up to 64.89% lightning-fast random reads and breakthrough CPU efficiency ⭐
-
-**💻 Hardware**
-
-Microsoft's native NVMe driver on Windows Server 2025 offers substantial performance gains, especially in random reads. StorageReview's benchmarks reveal significant improvements, with up to 64.89% faster random reads. This breakthrough in CPU efficiency enhances overall system performance.
-
-💡 **Key Point:** Native NVMe driver optimizes Windows performance with significant random read boosts.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/new-windows-native-nvme-driver-benchmarks-reveal-transformative-performance-gains-up-to-64-89-percent-lightning-fast-random-reads-and-breakthrough-cpu-efficiency)
-
----
-
-### 2. New Windows-native NVMe driver benchmarks reveal transformative performance gains, up to 64.89% lightning-fast random reads and breakthrough CPU efficiency ⭐
+### 1. SK hynix introduces turbocharged LPDDR6, 33% faster and 20% more power efficient than LPDDR5X 16Gb chips deliver 10.7 Gbps, uses 10nm node ⭐
 
 **📰 Tech News**
 
-Microsoft's native NVMe driver on Windows Server 2025 offers substantial performance gains, especially in random reads. StorageReview's benchmarks reveal significant improvements, with up to 64.89% faster random reads. This breakthrough in CPU efficiency enhances overall system performance.
+SK Hynix has developed LPDDR6 memory modules operating at 10.7Gbps using 10nm-class process node, offering 33% faster speeds and 20% more power efficiency compared to LPDDR5X 16Gb chips.
 
-💡 **Key Point:** Native NVMe driver optimizes Windows performance with significant random read boosts.
+💡 **Key Point:** Faster, more power-efficient memory enables improved mobile device performance.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/new-windows-native-nvme-driver-benchmarks-reveal-transformative-performance-gains-up-to-64-89-percent-lightning-fast-random-reads-and-breakthrough-cpu-efficiency)
-
----
-
-### 3. Intel Arrow Lake-S ATX motherboard supports up to 256GB CU-DIMM DDR5 RAM, features W880 chipset ⭐
-
-**⚡ Semiconductors**
-
-The Jetway ATX-ARS1-W880 is an ATX motherboard supporting Intel Arrow Lake-S SoCs, featuring up to 256GB DDR5 RAM, and targeting Smart Factory applications.
-
-💡 **Key Point:** Advancements in AI and industrial-grade computing enable smarter manufacturing processes.
-
-🔗 [Read More](https://www.cnx-software.com/2026/03/10/intel-arrow-lake-s-atx-motherboard-supports-up-to-256gb-cu-dimm-ddr5-ram-features-w880-chipset/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/dram/sk-hynix-introduces-turbocharged-lpddr6-33-percent-faster-and-20-percent-more-power-efficient-than-lpddr5x-16gb-chips-deliver-10-7-gbps-uses-10nm-node)
 
 ---
 
-### 4. Nordic Semi unveils nRF54LS05A and nRF54LS05B entry-level, ultra-low-power Bluetooth LE SoCs ⭐
+### 2. AMD Ryzen AI Embedded P100 series expands with up to 12 Zen 5 cores, 80 TOPS of AI performance ⭐
 
-**⚡ Semiconductors**
+**📰 Tech News**
 
-Nordic Semiconductor has unveiled two new ultra-low-power Bluetooth LE SoCs: nRF54LS05A and nRF54LS05B. These entry-level SoCs are designed for simple applications like sensors and peripherals. They offer advanced security, 0.5 MB NVM, and 64 KB or 96 KB RAM.
+AMD expanded its Ryzen AI Embedded P100 series with higher-core SKUs, integrating up to 12 Zen 5 CPU cores and RDNA 3.5 graphics for enhanced AI performance. The new SoCs deliver up to 80 TOPS of combined AI performance and support unified CPU-GPU memory. This expansion targets commercial and industrial applications.
 
-💡 **Key Point:** Ultra-low-power Bluetooth LE SoCs for simple IoT and wearable applications
+💡 **Key Point:** Enhanced AI performance for commercial and industrial edge computing
 
-🔗 [Read More](https://www.cnx-software.com/2026/03/09/nordic-semi-nrf54ls05a-nrf54ls05b-entry-level-ultra-low-power-bluetooth-le-socs/)
+🔗 [Read More](https://www.cnx-software.com/2026/03/11/amd-ryzen-ai-embedded-p100-series-expands-with-up-to-12-zen-5-cores-80-tops-of-ai-performance/)
 
 ---
 
-### 5. Intel Arrow Lake-S ATX motherboard supports up to 256GB CU-DIMM DDR5 RAM, features W880 chipset ⭐
+### 3. Early reviews say the MacBook Neo redefines the budget laptop ⭐
+
+**📰 Tech News**
+
+The MacBook Neo offers premium features at an affordable $599 price. Reviewers praise its aluminum build, display, and performance. The laptop's battery life exceeds expectations for its budget category.
+
+💡 **Key Point:** Redefining budget laptops without sacrificing key premium features
+
+🔗 [Read More](https://www.techspot.com/products/laptops/apple-macbook-neo.321894/)
+
+---
+
+### 4. Raspberry Pi CM0-based industrial AI camera features motorized auto-focus system, 12-pin Ethernet/RS-232/DO aviation connector ⭐
+
+**🤖 AI & ML**
+
+EDATEC launched the ED-AIC1000, a compact industrial AI camera built around the Raspberry Pi CM0, integrating a 1.3 MP global-shutter camera, motorized autofocus, and 12-pin industrial connector for various industrial automation applications.
+
+💡 **Key Point:** Boosts industrial automation efficiency with AI-powered vision capabilities.
+
+🔗 [Read More](https://www.cnx-software.com/2026/03/11/raspberry-pi-cm0-based-industrial-ai-camera-features-motorized-auto-focus-system-12-pin-ethernet-rs-232-do-aviation-connector/)
+
+---
+
+### 5. Raspberry Pi CM0-based industrial AI camera features motorized auto-focus system, 12-pin Ethernet/RS-232/DO aviation connector ⭐
 
 **💻 Hardware**
 
-The Jetway ATX-ARS1-W880 is an ATX motherboard supporting Intel Arrow Lake-S SoCs, featuring up to 256GB DDR5 RAM, and targeting Smart Factory applications.
+EDATEC launched the ED-AIC1000, a compact industrial AI camera built around the Raspberry Pi CM0, integrating a 1.3 MP global-shutter camera, motorized autofocus, and 12-pin industrial connector for various industrial automation applications.
 
-💡 **Key Point:** Advancements in AI and industrial-grade computing enable smarter manufacturing processes.
+💡 **Key Point:** Boosts industrial automation efficiency with AI-powered vision capabilities.
 
-🔗 [Read More](https://www.cnx-software.com/2026/03/10/intel-arrow-lake-s-atx-motherboard-supports-up-to-256gb-cu-dimm-ddr5-ram-features-w880-chipset/)
+🔗 [Read More](https://www.cnx-software.com/2026/03/11/raspberry-pi-cm0-based-industrial-ai-camera-features-motorized-auto-focus-system-12-pin-ethernet-rs-232-do-aviation-connector/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **53 articles** across **5 focused categories**.
+We covered **66 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 14 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 9 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 12 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 19 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 19 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 8 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 14 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 14 articles
+*Artificial Intelligence and Machine Learning* — 19 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 5 articles
+*Graphics cards and compute accelerators* — 6 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 13 articles
+*Computing hardware and development boards* — 19 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 9 articles
+*Chip manufacturing and design* — 8 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 12 articles
+*Industry news and product launches* — 14 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-03-10 at 09:27 by an autonomous AI curation system.
+Generated 2026-03-11 at 09:27 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

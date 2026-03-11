@@ -1,145 +1,205 @@
 # 💻 Hardware
-**Week of March 10, 2026**
+**Week of March 11, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-03-10 09:27
+- **Articles this week:** 19
+- **Report generated:** 2026-03-11 09:27
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. New Windows-native NVMe driver benchmarks reveal transformative performance gains, up to 64.89% lightning-fast random reads and breakthrough CPU efficiency ⭐
+### 1. Raspberry Pi CM0-based industrial AI camera features motorized auto-focus system, 12-pin Ethernet/RS-232/DO aviation connector ⭐
 
-Microsoft's native NVMe driver on Windows Server 2025 offers substantial performance gains, especially in random reads. StorageReview's benchmarks reveal significant improvements, with up to 64.89% faster random reads. This breakthrough in CPU efficiency enhances overall system performance.
+EDATEC launched the ED-AIC1000, a compact industrial AI camera built around the Raspberry Pi CM0, integrating a 1.3 MP global-shutter camera, motorized autofocus, and 12-pin industrial connector for various industrial automation applications.
 
-💡 *Native NVMe driver optimizes Windows performance with significant random read boosts.*
+💡 *Boosts industrial automation efficiency with AI-powered vision capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/new-windows-native-nvme-driver-benchmarks-reveal-transformative-performance-gains-up-to-64-89-percent-lightning-fast-random-reads-and-breakthrough-cpu-efficiency)
-
----
-
-### 2. Intel Arrow Lake-S ATX motherboard supports up to 256GB CU-DIMM DDR5 RAM, features W880 chipset ⭐
-
-The Jetway ATX-ARS1-W880 is an ATX motherboard supporting Intel Arrow Lake-S SoCs, featuring up to 256GB DDR5 RAM, and targeting Smart Factory applications.
-
-💡 *Advancements in AI and industrial-grade computing enable smarter manufacturing processes.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/10/intel-arrow-lake-s-atx-motherboard-supports-up-to-256gb-cu-dimm-ddr5-ram-features-w880-chipset/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/11/raspberry-pi-cm0-based-industrial-ai-camera-features-motorized-auto-focus-system-12-pin-ethernet-rs-232-do-aviation-connector/)
 
 ---
 
-### 3. Nordic Semi unveils nRF54LS05A and nRF54LS05B entry-level, ultra-low-power Bluetooth LE SoCs ⭐
+### 2. Early reviews say the MacBook Neo redefines the budget laptop ⭐
 
-Nordic Semiconductor has unveiled two new ultra-low-power Bluetooth LE SoCs: nRF54LS05A and nRF54LS05B. These entry-level SoCs are designed for simple applications like sensors and peripherals. They offer advanced security, 0.5 MB NVM, and 64 KB or 96 KB RAM.
+The MacBook Neo offers premium features at an affordable $599 price. Reviewers praise its aluminum build, display, and performance. The laptop's battery life exceeds expectations for its budget category.
 
-💡 *Ultra-low-power Bluetooth LE SoCs for simple IoT and wearable applications*
+💡 *Redefining budget laptops without sacrificing key premium features*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/09/nordic-semi-nrf54ls05a-nrf54ls05b-entry-level-ultra-low-power-bluetooth-le-socs/)
-
----
-
-### 4. Apple MacBook Pro (14-inch, M5 Max) review: Blazing-fast super cores 
-
-The 14-inch MacBook Pro with M5 Max offers a powerful, portable laptop with fast CPU and massive integrated GPU, making it ideal for demanding tasks and heavy usage.
-
-💡 *Blazing-fast performance for resource-intensive tasks and heavy usage.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-14-inch-m5-max-2026-review)
+🔗 [Read Full Article](https://www.techspot.com/products/laptops/apple-macbook-neo.321894/)
 
 ---
 
-### 5. First solar-powered rugged laptop announced features a solar panel on the back of the display and a backup battery with 5,200mAh of capacity 
+### 3. RPCS3 Emulator boasts over 1500 FPS on the Minecraft title screen platform hails performance landmark, one frame rendered every 0.00064 seconds 
 
-A Chinese manufacturer has introduced the world's first solar-powered rugged laptop with a solar panel on the back of the display and a 5,200mAh backup battery. This device is designed for professionals who need to work remotely for extended periods. It aims to provide a reliable solution for those in industrial settings.
+The RPCS3 emulator team achieved a remarkable 1500 FPS on Minecraft, a significant performance milestone. This achievement showcases the team's dedication to optimization, pushing the emulator's capabilities to new heights. However, many games still remain unplayable without modern hardware.
 
-💡 *Sustainable power for remote industrial professionals increases productivity*
+💡 *Optimization breakthroughs pave way for smoother emulation experiences.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/first-solar-powered-rugged-laptop-announced-features-a-solar-panel-on-the-back-of-the-display-and-a-backup-battery-with-5-200mah-of-capacity)
-
----
-
-### 6. Researchers build atom-thin 2D thermometers that can be embedded directly in processors can detect temperature changes in 100 nanoseconds, millions of times faster than the blink of an eye 
-
-Researchers developed atom-thin, 2D thermometers that can be embedded in processors, enabling faster thermal monitoring.
-
-💡 *Embedded thermal monitoring speeds up data processing and prevents overheating crashes.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/penn-state-researchers-build-atom-thin-thermometers)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/rpcs3-emulator-boasts-over-1500-fps-on-the-minecraft-title-screen-platform-hails-performance-landmark-one-frame-rendered-every-0-00064-seconds)
 
 ---
 
-### 7. Makerfabs CM0IQ An ultra-compact (42x36mm) Raspberry Pi CM0 Lite board 
+### 4. Texas Instruments MSPM0G5187 and AM13Ex MCUs integrate TinyEngine NPU for Edge AI applications 
 
-The Makerfabs CM0IQ is an ultra-compact Raspberry Pi CM0 Lite board, measuring 42x36mm, featuring a quad-core Cortex-A53 processor, and compact interfaces such as a Micro HDMI port and 4-lane MIPI CSI and DSI connectors.
+Texas Instruments has introduced the MSPM0G5187 and AM13Ex MCU families with integrated TinyEngine NPU, enabling low-latency Edge AI applications with up to 90 times lower latency and 120 times lower energy utilization.
 
-💡 *Ultra-compact design for space-constrained applications like robotics and IoT devices.*
+💡 *Edge AI inference becomes accessible and efficient on resource-constrained devices.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/10/makerfabs-cm0iq-ultra-compact-42x36mm-raspberry-pi-cm0-lite-board/)
-
----
-
-### 8. iPad Air M4 gets reviewed: More RAM, faster chip, same price 
-
-The iPad Air M4 offers improved performance and capabilities at the same price, making it a strong contender for the best tablet for most people.
-
-💡 *Mid-range tablet power at a more accessible price point*
-
-🔗 [Read Full Article](https://www.techspot.com/products/tablets/apple-ipad-air-m4.322148/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/11/texas-instruments-mspm0g5187-and-am13ex-mcus-integrate-tinyengine-npu-for-edge-ai-applications/)
 
 ---
 
-### 9. iPhone 17e reviews: two key upgrades refine Apple's entry-level formula 
+### 5. NXP i.MX 937 cost-effective Cortex-A55/M7/M33 MPU is a drop-in replacement for NXP i.MX 95 SoC family 
 
-The iPhone 17e offers a refined entry point with MagSafe, solid performance and 256GB storage. Powered by the A19 chip, it delivers a no-frills introduction to the Apple ecosystem. Reviewers praise its value but consider it pricey.
+The NXP i.MX 937 MPU offers a balance between performance and cost, featuring a 1.4 GHz quad-core Cortex-A55, a dedicated Cortex-M7 for real-time tasks, and a Cortex-M33 for system management. It includes support for LPDDR4x or LPDDR5 memory, a Mali G310 GPU, and a 2 eTOPS NPU for ML acceleration. This makes it a drop-in replacement for the NXP i.MX 95 SoC family.
 
-💡 *Apple refines its entry-level iPhone formula with meaningful upgrades.*
+💡 *Cost-effective performance for HMI and Edge AI applications fills gap.*
 
-🔗 [Read Full Article](https://www.techspot.com/products/smartphones/apple-iphone-17e.322147/)
-
----
-
-### 10. Intel Panther Lake-H high-res die shot emerges image show 18A compute tile, Xe3 GPU tile in new X-series processors 
-
-Intel's Panther Lake-H CPU features 16 cores and 12 Xe3 clusters, with Thunderbolt 5 ports. Annotated die shots provide a detailed look at the processor's architecture. The images highlight the CPU's compute and graphics capabilities.
-
-💡 *Intel's Xe3 GPU and Thunderbolt 5 enhance mobile performance and connectivity*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-panther-lake-h-high-res-die-shot-emerges-image-show-18a-compute-tile-xe3-gpu-tile-in-new-x-series-processors)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/11/nxp-i-mx-937-cost-effective-cortex-a55-m7-m33-mpu-is-a-drop-in-replacement-for-nxp-i-mx-95-soc-family/)
 
 ---
 
-### 11. Intel keeps socket LGA 1700 alive with new P-core-only CPUs 'Bartlett Lake' is official, but targets embedded applications with up to 12 cores 
+### 6. BeagleBadge A Linux-powered 4.2-inch ePaper badge based on TI Sitara AM62L32 SoC 
 
-Intel's Bartlett Lake CPUs are P-core-only, targeting embedded applications on LGA 1700 motherboards.
+BeagleBoard.org Foundation introduces the BeagleBadge, a Linux-powered badge with a 4.2-inch ePaper display and various features like WiFi 6 and LoRa connectivity. It is quite feature-rich for a badge, making it suitable for various applications such as IoT projects and maker communities. The badge is based on the Texas Instruments Sitara AM62L32 SoC, a dual-core Cortex-A53 processor.
 
-💡 *Intel extends LGA 1700 lifespan for specialized, non-gaming applications*
+💡 *Rapid prototyping and development of IoT projects made easy with Linux badge*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-keeps-socket-lga-1700-alive-with-new-p-core-only-cpus-bartlett-lake-is-official-but-targets-embedded-applications-with-up-to-12-cores)
-
----
-
-### 12. Valve insists Steam Machine launch is still on track for this year 
-
-Valve still plans to launch Steam Machine this year, despite initial delays.
-
-💡 *Steam Machine launch timeline remains uncertain but still on track.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111610-valve-insists-steam-machine-launch-track-after-post.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/10/beaglebadge-a-linux-powered-4-2-inch-epaper-badge-based-on-ti-sitara-am62l32-soc/)
 
 ---
 
-### 13. Why AMD motherboards now come with bigger BIOS chips and why it matters to you 
+### 7. NXP i.MX 93W wireless MPU SiP pairs dual-core Arm Cortex-A55 processor with NXP iW610 WiFi 6, Bluetooth LE, and 805.15.4 radio 
 
-AMD motherboards now feature larger BIOS chips due to increasing complexity. This shift enables more advanced features and better support for newer technologies. The upgrade also improves flexibility in BIOS settings.
+NXP i.MX 93W is a wireless MPU SiP combining a dual-core Cortex-A55 processor with WiFi 6, Bluetooth, and 802.15.4 radios in a single chip. This reduces PCB area, simplifies design, and speeds up time-to-market. The package includes all necessary external radio components.
 
-💡 *More features, better support, and flexibility for users*
+💡 *Simplified wireless design accelerates IoT and embedded systems development*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/why-amd-motherboards-now-come-with-bigger-bios-chips-and-why-it-matters-to-you)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/10/nxp-i-mx-93w-wireless-mpu-sip-pairs-dual-core-arm-cortex-a55-processor-with-nxp-iw610-wifi-6-bluetooth-le-and-805-15-4-radio/)
+
+---
+
+### 8. Laptops could soon cost 40% more, and you already know why 
+
+Laptops may cost 40% more due to CPU manufacturing challenges. TrendForce analysis suggests a significant price increase in the portable PC market. This could impact consumer purchasing decisions and industry trends.
+
+💡 *Supply chain constraints exacerbate laptop pricing uncertainty*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111631-laptops-could-soon-cost-40-more-you-already.html)
+
+---
+
+### 9. How To Optimize Your PC s Airflow Using Positive vs. Negative Pressure 
+
+Optimizing PC airflow using positive vs. negative pressure can significantly improve performance, reduce temperatures, and enhance overall system longevity.
+
+💡 *Airflow configuration has a greater impact than cooler upgrades on PC performance.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/how-to-optimize-your-pcs-airflow-using-positive-vs-negative-pressure)
+
+---
+
+### 10. Intel Nova Lake CPU teaser lists official support for speedy DDR5-8000 RAM B960 mini-PC s upgraded power system signals Nova Lake s higher power demands 
+
+ECS has showcased its revamped Liva P300 mini-PC for Intel's Nova Lake processors, featuring speedy DDR5-8000 RAM and an upgraded power system, indicating higher power demands from the upcoming CPUs.
+
+💡 *Nova Lake processors require more power than predecessors.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-nova-lake-cpu-teaser-lists-official-support-for-speedy-ddr5-8000-ram-b960-mini-pcs-upgraded-power-system-signals-nova-lakes-higher-power-demands)
+
+---
+
+### 11. Apple MacBook Neo review: a budget-priced game-changer 
+
+The Apple MacBook Neo offers premium features at an affordable price, with some minor compromises.
+
+💡 *Budget-friendliness revolutionizes the Apple laptop market space.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/apple-macbook-neo-a18-pro-review)
+
+---
+
+### 12. Laptop prices expected to soar by around 40% as AI crunch takes hold analyst says rising mainstream models priced at $900 could hit more than $1,200 due to rising memory, storage, and CPU costs 
+
+TrendForce predicts midrange laptops will see a 40% price increase due to rising costs of memory, storage, and CPUs.
+
+💡 *Rising AI demand drives up laptop component costs significantly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/laptop-prices-expected-to-soar-by-around-40-percent-as-ai-crunch-takes-hold-analyst-says-rising-mainstream-models-priced-at-usd900-could-hit-more-than-usd1-200-due-to-rising-memory-storage-and-cpu-costs)
+
+---
+
+### 13. Get an X870 Motherboard, 32GB of RAM, a 1050W Power supply, and a Montech King 95 Pro case for only $774 save over $220 on this 4-item combo from Newegg 
+
+Get a comprehensive AM5 build starter kit from Newegg featuring a MSI motherboard, 32GB of RAM, 1050W power supply, and a Montech case for $774, saving $220.
+
+💡 *Affordable AM5 build starter kit available at Newegg*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-an-x870-motherboard-32gb-of-ram-a-1050w-power-supply-and-a-montech-king-95-pro-case-for-only-usd774-save-over-usd220-on-this-4-item-combo-from-newegg)
+
+---
+
+### 14. Get 32GB of Corsair Vengeance DDR5 for $163 when bundled with AMD's new 9850X3D and an X870E-E motherboard save $236 on the heart of your new AM5 PC 
+
+Newegg offers a bundle deal for AMD 9850X3D, RAM, and motherboard. The bundle includes 32GB Corsair Vengeance DDR5 RAM for $163. This saves customers $236 compared to individual purchases.
+
+💡 *Significant savings on key components for a new AM5 PC build.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-32gb-of-corsair-vengeance-ddr5-for-usd163-when-bundled-with-amds-new-9850x3d-and-an-x870e-e-motherboard-save-usd236-on-the-heart-of-your-new-am5-pc)
+
+---
+
+### 15. Arduino Ventuno Q marks Qualcomm's entry into offline AI and robotics 
+
+Qualcomm's Ventuno Q aims to address concerns from the Arduino community after acquisition.
+
+💡 *Qualcomm's entry into offline AI and robotics may disrupt the market.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111616-arduino-ventuno-q-marks-qualcomm-entry-offline-ai.html)
+
+---
+
+### 16. Intel launches Bartlett Lake CPUs with all P-cores for embedded applications 
+
+Intel launches the Bartlett Lake CPU family with 11 SKUs, featuring all-P-core designs for improved performance and reduced overhead in embedded applications.
+
+💡 *Simplified scheduling and reduced overhead for edge computing and embedded systems.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111621-intel-launches-bartlett-lake-cpus-all-p-cores.html)
+
+---
+
+### 17. Oversight Board urges Meta to toughen rules on AI-generated content and deepfakes 
+
+The Oversight Board urges Meta to improve rules on AI-generated content, specifically deepfakes, after a fake AI-generated video was shared on Meta platforms, posing as a news source.
+
+💡 *Misinformation spreads quickly through AI-generated content on social media platforms.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111627-oversight-board-urges-meta-toughen-rules-ai-generated.html)
+
+---
+
+### 18. Solar-powered laptops are back, and this one is built for the field 
+
+The RG14-P is a solar-powered laptop with a reinforced metal chassis, designed for field use.
+
+💡 *Rugged design enables reliable computing in harsh, remote environments worldwide.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111622-solar-powered-laptops-back-one-built-field.html)
+
+---
+
+### 19. TI plunks mmWave radar sensing onto Jetson Thor 
+
+Texas Instruments (TI) is integrating mmWave radar sensing into Nvidia's Jetson Thor chip using the Holoscan Sensor Bridge, enabling advanced robotics capabilities.
+
+💡 *Enhanced robotics navigation and safety through advanced sensing capabilities.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/ti-plunks-mmwave-radar-sensing-jetson-thor)
 
 ---
 

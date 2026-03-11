@@ -1,105 +1,95 @@
 # ⚡ Semiconductors
-**Week of March 10, 2026**
+**Week of March 11, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-03-10 09:27
+- **Articles this week:** 8
+- **Report generated:** 2026-03-11 09:27
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel Arrow Lake-S ATX motherboard supports up to 256GB CU-DIMM DDR5 RAM, features W880 chipset ⭐
+### 1. SK hynix introduces turbocharged LPDDR6, 33% faster and 20% more power efficient than LPDDR5X 16Gb chips deliver 10.7 Gbps, uses 10nm node ⭐
 
-The Jetway ATX-ARS1-W880 is an ATX motherboard supporting Intel Arrow Lake-S SoCs, featuring up to 256GB DDR5 RAM, and targeting Smart Factory applications.
+SK Hynix has developed LPDDR6 memory modules operating at 10.7Gbps using 10nm-class process node, offering 33% faster speeds and 20% more power efficiency compared to LPDDR5X 16Gb chips.
 
-💡 *Advancements in AI and industrial-grade computing enable smarter manufacturing processes.*
+💡 *Faster, more power-efficient memory enables improved mobile device performance.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/10/intel-arrow-lake-s-atx-motherboard-supports-up-to-256gb-cu-dimm-ddr5-ram-features-w880-chipset/)
-
----
-
-### 2. Nordic Semi unveils nRF54LS05A and nRF54LS05B entry-level, ultra-low-power Bluetooth LE SoCs ⭐
-
-Nordic Semiconductor has unveiled two new ultra-low-power Bluetooth LE SoCs: nRF54LS05A and nRF54LS05B. These entry-level SoCs are designed for simple applications like sensors and peripherals. They offer advanced security, 0.5 MB NVM, and 64 KB or 96 KB RAM.
-
-💡 *Ultra-low-power Bluetooth LE SoCs for simple IoT and wearable applications*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/09/nordic-semi-nrf54ls05a-nrf54ls05b-entry-level-ultra-low-power-bluetooth-le-socs/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-hynix-introduces-turbocharged-lpddr6-33-percent-faster-and-20-percent-more-power-efficient-than-lpddr5x-16gb-chips-deliver-10-7-gbps-uses-10nm-node)
 
 ---
 
-### 3. Researchers build atom-thin 2D thermometers that can be embedded directly in processors can detect temperature changes in 100 nanoseconds, millions of times faster than the blink of an eye 
+### 2. BeagleBadge A Linux-powered 4.2-inch ePaper badge based on TI Sitara AM62L32 SoC 
 
-Researchers developed atom-thin, 2D thermometers that can be embedded in processors, enabling faster thermal monitoring.
+BeagleBoard.org Foundation introduces the BeagleBadge, a Linux-powered badge with a 4.2-inch ePaper display and various features like WiFi 6 and LoRa connectivity. It is quite feature-rich for a badge, making it suitable for various applications such as IoT projects and maker communities. The badge is based on the Texas Instruments Sitara AM62L32 SoC, a dual-core Cortex-A53 processor.
 
-💡 *Embedded thermal monitoring speeds up data processing and prevents overheating crashes.*
+💡 *Rapid prototyping and development of IoT projects made easy with Linux badge*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/penn-state-researchers-build-atom-thin-thermometers)
-
----
-
-### 4. Makerfabs CM0IQ An ultra-compact (42x36mm) Raspberry Pi CM0 Lite board 
-
-The Makerfabs CM0IQ is an ultra-compact Raspberry Pi CM0 Lite board, measuring 42x36mm, featuring a quad-core Cortex-A53 processor, and compact interfaces such as a Micro HDMI port and 4-lane MIPI CSI and DSI connectors.
-
-💡 *Ultra-compact design for space-constrained applications like robotics and IoT devices.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/10/makerfabs-cm0iq-ultra-compact-42x36mm-raspberry-pi-cm0-lite-board/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/10/beaglebadge-a-linux-powered-4-2-inch-epaper-badge-based-on-ti-sitara-am62l32-soc/)
 
 ---
 
-### 5. Nexperia China claims to be making chips using 12-inch wafers subsidiary deepens split with Dutch parent as it builds out 'mass production capabilities' 
+### 3. NXP i.MX 93W wireless MPU SiP pairs dual-core Arm Cortex-A55 processor with NXP iW610 WiFi 6, Bluetooth LE, and 805.15.4 radio 
 
-Nexperia China claims to have reached a new milestone in mass production capabilities, reaching a milestone with 12-inch wafers. This development deepens the split with its Dutch parent company. The statement was posted on its Chinese social media account.
+NXP i.MX 93W is a wireless MPU SiP combining a dual-core Cortex-A55 processor with WiFi 6, Bluetooth, and 802.15.4 radios in a single chip. This reduces PCB area, simplifies design, and speeds up time-to-market. The package includes all necessary external radio components.
 
-💡 *Nexperia China's independence increases competition in chip production globally*
+💡 *Simplified wireless design accelerates IoT and embedded systems development*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nexperia-china-claims-to-be-making-chips-using-12-inch-wafers-its-dutch-parent-cannot-produce)
-
----
-
-### 6. America and Japan may join forces to manufacture displays in the US New $13 billion fab proposed by Japan Display Inc. to counter Chinese dominance 
-
-The US and Japan may collaborate on a $13 billion display factory to counter Chinese dominance, as part of a $550 billion investment framework. This new factory is proposed by Japan Display Inc. to regain its market presence.
-
-💡 *Countering Chinese dominance in the global display manufacturing market*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/america-and-japan-may-join-forces-to-manufacture-displays-in-the-us-new-usd13-billion-fab-proposed-by-japan-display-inc-to-counter-chinese-dominance)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/10/nxp-i-mx-93w-wireless-mpu-sip-pairs-dual-core-arm-cortex-a55-processor-with-nxp-iw610-wifi-6-bluetooth-le-and-805-15-4-radio/)
 
 ---
 
-### 7. Oracle hits back at Stargate data center cancellation reports claims 4.5GW Oracle-OpenAI agreement still on track 
+### 4. Oracle and OpenAI's Abilene expansion saga detailed: 600MW expansion gets scrapped, as larger 4.5GW agreement remains on track 
 
-Oracle denies Stargate data center cancellation reports, reaffirming its partnership with OpenAI.
+Oracle and OpenAI scrapped their 600MW expansion plans for Abilene campus, focusing on larger 4.5GW agreement.
 
-💡 *AI data center project drives Oracle's strategic cloud computing growth plans.*
+💡 *Renewed focus on massive 4.5GW project signals long-term tech investment commitment.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/oracle-rebuts-incorrect-reporting-on-stargate-expansion)
-
----
-
-### 8. China warns of fresh chip shortage as Nexperia dispute escalates again - Dutch headquarters allegedly locked Chinese staff out of IT systems 
-
-China's commerce ministry warns of a renewed chip shortage crisis. Nexperia's Netherlands disabled IT accounts for Chinese staff. This escalates a dispute over semiconductor supply chain control.
-
-💡 *Global semiconductor supply chain control is a highly politicized issue.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-warns-of-fresh-chip-shortages-as-nexperia-dispute-escalates-again)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/oracle-and-openai-scrap-planned-600mw-abilene-expansion)
 
 ---
 
-### 9. Battlefield 6's biggest launch ever couldn't stop EA from cutting staff 
+### 5. Get an X870 Motherboard, 32GB of RAM, a 1050W Power supply, and a Montech King 95 Pro case for only $774 save over $220 on this 4-item combo from Newegg 
 
-EA has made job cuts at studios behind Battlefield 6, including DICE and Criterion, as part of a 'realignment' of the Battlefield organization. The layoffs come despite the game's successful launch. The exact number of roles eliminated is not publicly disclosed.
+Get a comprehensive AM5 build starter kit from Newegg featuring a MSI motherboard, 32GB of RAM, 1050W power supply, and a Montech case for $774, saving $220.
 
-💡 *Financial priorities may outweigh employee welfare despite successful game launches.*
+💡 *Affordable AM5 build starter kit available at Newegg*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111619-battlefield-6-biggest-launch-ever-couldnt-stop-ea.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-an-x870-motherboard-32gb-of-ram-a-1050w-power-supply-and-a-montech-king-95-pro-case-for-only-usd774-save-over-usd220-on-this-4-item-combo-from-newegg)
+
+---
+
+### 6. Apple now assembles a quarter of iPhones in India, signaling major supply chain shift 
+
+Apple now assembles a quarter of iPhones in India, shifting supply chain dynamics due to US tariffs on Chinese electronics.
+
+💡 *US-China trade tensions force Apple to diversify global production bases.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111626-apple-now-assembles-quarter-iphones-india-signaling-major.html)
+
+---
+
+### 7. Arduino Ventuno Q marks Qualcomm's entry into offline AI and robotics 
+
+Qualcomm's Ventuno Q aims to address concerns from the Arduino community after acquisition.
+
+💡 *Qualcomm's entry into offline AI and robotics may disrupt the market.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111616-arduino-ventuno-q-marks-qualcomm-entry-offline-ai.html)
+
+---
+
+### 8. Intel launches Core Series 2 and intros healthcare edge suite 
+
+Intel launches its Core Series 2, a follow-up to its previous edge computing offerings. The company also introduces a healthcare edge suite, highlighting its commitment to industrial edge computing. This marks a significant move in the edge computing market.
+
+💡 *Intel's edge industrial history gives it a competitive edge over Qualcomm.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/intel-launches-core-series-2-and-intros-healthcare-edge-suite)
 
 ---
 

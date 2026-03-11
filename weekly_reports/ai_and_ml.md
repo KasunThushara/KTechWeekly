@@ -1,155 +1,205 @@
 # 🤖 AI & ML
-**Week of March 10, 2026**
+**Week of March 11, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-03-10 09:27
+- **Articles this week:** 19
+- **Report generated:** 2026-03-11 09:27
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. iPad Air M4 gets reviewed: More RAM, faster chip, same price 
+### 1. Raspberry Pi CM0-based industrial AI camera features motorized auto-focus system, 12-pin Ethernet/RS-232/DO aviation connector ⭐
 
-The iPad Air M4 offers improved performance and capabilities at the same price, making it a strong contender for the best tablet for most people.
+EDATEC launched the ED-AIC1000, a compact industrial AI camera built around the Raspberry Pi CM0, integrating a 1.3 MP global-shutter camera, motorized autofocus, and 12-pin industrial connector for various industrial automation applications.
 
-💡 *Mid-range tablet power at a more accessible price point*
+💡 *Boosts industrial automation efficiency with AI-powered vision capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/products/tablets/apple-ipad-air-m4.322148/)
-
----
-
-### 2. Nexperia China claims to be making chips using 12-inch wafers subsidiary deepens split with Dutch parent as it builds out 'mass production capabilities' 
-
-Nexperia China claims to have reached a new milestone in mass production capabilities, reaching a milestone with 12-inch wafers. This development deepens the split with its Dutch parent company. The statement was posted on its Chinese social media account.
-
-💡 *Nexperia China's independence increases competition in chip production globally*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nexperia-china-claims-to-be-making-chips-using-12-inch-wafers-its-dutch-parent-cannot-produce)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/11/raspberry-pi-cm0-based-industrial-ai-camera-features-motorized-auto-focus-system-12-pin-ethernet-rs-232-do-aviation-connector/)
 
 ---
 
-### 3. Anthropic sues Pentagon over 'supply chain risk' designation, citing free speech and due process violations company refused to allow its AI to be used for autonomous attacks, mass surveillance 
+### 2. Intel shares XeSS 3.0 SDK for game devs with 3x and 4x MFG modes but it still hasn't followed through on its open-source promise 
 
-Anthropic has filed lawsuits against the Pentagon over 'supply chain risk' designation, citing free speech and due process violations. The company refused to allow its AI to be used for autonomous attacks and mass surveillance. This move marks a significant challenge to the U.S. government's actions towards AI companies.
+Intel has released the XeSS 3.0 SDK for game developers, but it's closed-source. The SDK supports 3x and 4x MFG modes, offering improved graphics capabilities. This move comes despite Intel's initial promise to make XeSS open-source.
 
-💡 *Government overreach threatens AI development and free speech protections*
+💡 *Intel's closed-source SDK contradicts its initial open-source promise.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-sues-pentagon-over-ai-blacklisting)
-
----
-
-### 4. New Commerce Department AI export rules could be seismic change for CSPs and data center operators buying American GPUs at scale means committing to building American infrastructure 
-
-The U.S. Commerce Department may introduce new export controls for AI chips, potentially requiring U.S. investment for large-scale purchases. This could impact companies buying American GPUs at scale. The new rules may force CSPs and data center operators to build American infrastructure.
-
-💡 *U.S. AI chip exports tied to domestic infrastructure investment.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/new-commerce-department-ai-export-rules-could-be-seismic-change-for-csps-and-data-center-operators-buying-american-gpus-at-scale-means-committing-to-building-american-infrastructure)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/intel-shares-xess-3-0-sdk-for-game-devs-with-3x-and-4x-mfg-modes-but-it-still-hasnt-followed-through-on-its-open-source-promise)
 
 ---
 
-### 5. Oracle hits back at Stargate data center cancellation reports claims 4.5GW Oracle-OpenAI agreement still on track 
+### 3. RPCS3 Emulator boasts over 1500 FPS on the Minecraft title screen platform hails performance landmark, one frame rendered every 0.00064 seconds 
 
-Oracle denies Stargate data center cancellation reports, reaffirming its partnership with OpenAI.
+The RPCS3 emulator team achieved a remarkable 1500 FPS on Minecraft, a significant performance milestone. This achievement showcases the team's dedication to optimization, pushing the emulator's capabilities to new heights. However, many games still remain unplayable without modern hardware.
 
-💡 *AI data center project drives Oracle's strategic cloud computing growth plans.*
+💡 *Optimization breakthroughs pave way for smoother emulation experiences.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/oracle-rebuts-incorrect-reporting-on-stargate-expansion)
-
----
-
-### 6. Shortages of crucial chip packaging material threatens AI accelerator supply chains Nittobo's Fukushima plant is tripling capacity, but it'll take years before market 
-
-Nittobo's Fukushima plant is tripling capacity, but it won't meet current demand. The company controls 90% of the global supply of T-glass, crucial for AI chip packaging. Supply shortages are causing issues in the AI accelerator supply chains.
-
-💡 *T-glass shortage threatens AI chip supply chains worldwide severely.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/shortages-of-crucial-chip-packaging-material-threatens-ai-accelerator-supply-chains-nittobos-fukushima-plant-is-tripling-capacity-but-itll-take-years-before-market)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/rpcs3-emulator-boasts-over-1500-fps-on-the-minecraft-title-screen-platform-hails-performance-landmark-one-frame-rendered-every-0-00064-seconds)
 
 ---
 
-### 7. Thermal Grizzly scammed out of $46,000 by Alibaba metals suppliers company spread the risk across two copper and aluminum suppliers, only for both to send cheaper, fake materials 
+### 4. Texas Instruments MSPM0G5187 and AM13Ex MCUs integrate TinyEngine NPU for Edge AI applications 
 
-Thermal Grizzly was scammed by Chinese suppliers sending fake materials, losing $46,000. The scam involved two suppliers, one for copper and one for aluminum, who sent cheaper, fake materials to the company. This incident highlights the risks of sourcing materials from unverified suppliers.
+Texas Instruments has introduced the MSPM0G5187 and AM13Ex MCU families with integrated TinyEngine NPU, enabling low-latency Edge AI applications with up to 90 times lower latency and 120 times lower energy utilization.
 
-💡 *Unverified suppliers can spread risk, increasing vulnerability to scams*
+💡 *Edge AI inference becomes accessible and efficient on resource-constrained devices.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/heatsinks/thermal-grizzly-scammed-out-of-usd46-000-by-alibaba-metals-suppliers-company-spread-the-risk-across-two-copper-and-aluminum-suppliers-only-for-both-to-send-cheaper-fake-materials)
-
----
-
-### 8. Amazon's Rufus AI shopping assistant can be easily jailbroken and tricked into answering other questions specific prompts break the chatbot's guidelines and reach underlying AI engine 
-
-Amazon's Rufus AI shopping assistant can be easily tricked into answering complex questions by manipulating its prompts, revealing its potential to access underlying AI engine Claude.
-
-💡 *Rufus's vulnerability highlights its potential to bypass intended functionality.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/amazons-rufus-ai-shopping-assistant-can-be-easily-jailbroken-and-tricked-into-answering-other-questions-specific-prompts-break-the-chatbots-guidelines-and-reach-underlying-ai-engine)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/11/texas-instruments-mspm0g5187-and-am13ex-mcus-integrate-tinyengine-npu-for-edge-ai-applications/)
 
 ---
 
-### 9. China warns of fresh chip shortage as Nexperia dispute escalates again - Dutch headquarters allegedly locked Chinese staff out of IT systems 
+### 5. NXP i.MX 937 cost-effective Cortex-A55/M7/M33 MPU is a drop-in replacement for NXP i.MX 95 SoC family 
 
-China's commerce ministry warns of a renewed chip shortage crisis. Nexperia's Netherlands disabled IT accounts for Chinese staff. This escalates a dispute over semiconductor supply chain control.
+The NXP i.MX 937 MPU offers a balance between performance and cost, featuring a 1.4 GHz quad-core Cortex-A55, a dedicated Cortex-M7 for real-time tasks, and a Cortex-M33 for system management. It includes support for LPDDR4x or LPDDR5 memory, a Mali G310 GPU, and a 2 eTOPS NPU for ML acceleration. This makes it a drop-in replacement for the NXP i.MX 95 SoC family.
 
-💡 *Global semiconductor supply chain control is a highly politicized issue.*
+💡 *Cost-effective performance for HMI and Edge AI applications fills gap.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-warns-of-fresh-chip-shortages-as-nexperia-dispute-escalates-again)
-
----
-
-### 10. Satya Nadella denies Xbox death rumors, insists Microsoft is "long on gaming" 
-
-Microsoft's Satya Nadella denies abandoning gaming, calling it a core identity.
-
-💡 *Microsoft reaffirms commitment to gaming despite business diversification efforts.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111609-satya-nadella-denies-xbox-death-rumors-insists-microsoft.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/11/nxp-i-mx-937-cost-effective-cortex-a55-m7-m33-mpu-is-a-drop-in-replacement-for-nxp-i-mx-95-soc-family/)
 
 ---
 
-### 11. YouTuber built a car powered by 500 discarded vapes, and drove it 18 miles 
+### 6. Laptops could soon cost 40% more, and you already know why 
 
-A YouTuber repurposed 500 discarded vapes into a car battery, driving it 18 miles. The project explores the potential of lithium battery reuse. This initiative challenges conventional waste management and energy production.
+Laptops may cost 40% more due to CPU manufacturing challenges. TrendForce analysis suggests a significant price increase in the portable PC market. This could impact consumer purchasing decisions and industry trends.
 
-💡 *Waste lithium batteries hold significant untapped renewable energy potential.*
+💡 *Supply chain constraints exacerbate laptop pricing uncertainty*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111606-youtuber-built-car-powered-500-discarded-vapes-drove.html)
-
----
-
-### 12. United Airlines may now remove passengers who play audio without headphones 
-
-United Airlines can remove passengers who play audio without headphones. This is based on the airline's contract of carriage, which considers it a material breach. Refunds may still be issued upon request.
-
-💡 *United Airlines prioritizes passenger comfort over individual audio preferences*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111611-united-airlines-tells-passengers-wear-headphones-or-risk.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111631-laptops-could-soon-cost-40-more-you-already.html)
 
 ---
 
-### 13. Uber expands female driver preferences in the US following safety concerns 
+### 7. Electric air taxis will enter US skies this summer under FAA pilot 
 
-Uber expands female driver preferences in the US due to safety concerns and pending legal cases involving alleged driver misconduct and sexual assault.
+The US Department of Transportation has launched an 8-project pilot program for electric air taxis, allowing limited flight authorization for unapproved aircraft designs. The three-year initiative aims to facilitate testing and certification of passenger and cargo aircraft. The program will take place in multiple states across the US.
 
-💡 *Uber prioritizes passenger safety amid driver misconduct allegations*
+💡 *Accelerating electric air taxi adoption with safe experimental testing.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111613-uber-expands-female-driver-preferences-us-following-safety.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111623-electric-air-taxis-enter-us-skies-summer-under.html)
 
 ---
 
-### 14. This startup wants to build data centers inside floating offshore wind platforms 
+### 8. How To Optimize Your PC s Airflow Using Positive vs. Negative Pressure 
 
-Aikido Technologies aims to build data centers on floating offshore wind platforms, addressing power, cooling, and space needs.
+Optimizing PC airflow using positive vs. negative pressure can significantly improve performance, reduce temperatures, and enhance overall system longevity.
 
-💡 *Sustainable infrastructure for AI data centers could revolutionize global digital capacity.*
+💡 *Airflow configuration has a greater impact than cooler upgrades on PC performance.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111608-startup-wants-build-data-centers-inside-floating-offshore.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/how-to-optimize-your-pcs-airflow-using-positive-vs-negative-pressure)
+
+---
+
+### 9. Oracle and OpenAI's Abilene expansion saga detailed: 600MW expansion gets scrapped, as larger 4.5GW agreement remains on track 
+
+Oracle and OpenAI scrapped their 600MW expansion plans for Abilene campus, focusing on larger 4.5GW agreement.
+
+💡 *Renewed focus on massive 4.5GW project signals long-term tech investment commitment.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/oracle-and-openai-scrap-planned-600mw-abilene-expansion)
+
+---
+
+### 10. Nvidia reportedly building its own AI agent to compete with OpenClaw, report claims NemoClaw will supposedly be open source and designed for enterprise use 
+
+Nvidia is reportedly developing its own open-source AI agent, NemoClaw, for enterprise use.
+
+💡 *Nvidia's entry shakes up AI market, increasing competition for OpenClaw*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-building-its-own-ai-agent-to-compete-with-openclaw-report-claims-nemoclaw-will-supposedly-be-open-source-and-designed-for-enterprise-use)
+
+---
+
+### 11. Laptop prices expected to soar by around 40% as AI crunch takes hold analyst says rising mainstream models priced at $900 could hit more than $1,200 due to rising memory, storage, and CPU costs 
+
+TrendForce predicts midrange laptops will see a 40% price increase due to rising costs of memory, storage, and CPUs.
+
+💡 *Rising AI demand drives up laptop component costs significantly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/laptop-prices-expected-to-soar-by-around-40-percent-as-ai-crunch-takes-hold-analyst-says-rising-mainstream-models-priced-at-usd900-could-hit-more-than-usd1-200-due-to-rising-memory-storage-and-cpu-costs)
+
+---
+
+### 12. Get 32GB of Corsair Vengeance DDR5 for $163 when bundled with AMD's new 9850X3D and an X870E-E motherboard save $236 on the heart of your new AM5 PC 
+
+Newegg offers a bundle deal for AMD 9850X3D, RAM, and motherboard. The bundle includes 32GB Corsair Vengeance DDR5 RAM for $163. This saves customers $236 compared to individual purchases.
+
+💡 *Significant savings on key components for a new AM5 PC build.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-32gb-of-corsair-vengeance-ddr5-for-usd163-when-bundled-with-amds-new-9850x3d-and-an-x870e-e-motherboard-save-usd236-on-the-heart-of-your-new-am5-pc)
+
+---
+
+### 13. Apple now assembles a quarter of iPhones in India, signaling major supply chain shift 
+
+Apple now assembles a quarter of iPhones in India, shifting supply chain dynamics due to US tariffs on Chinese electronics.
+
+💡 *US-China trade tensions force Apple to diversify global production bases.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111626-apple-now-assembles-quarter-iphones-india-signaling-major.html)
+
+---
+
+### 14. Hackers are selling a critical Windows zero-day exploit for $220,000 on the dark web 
+
+A Windows zero-day exploit is being sold on the dark web for $220,000, targeting elevation of privilege vulnerabilities in Windows 10 and 11.
+
+💡 *Critical Windows vulnerability exposes users to severe data breaches and attacks.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111628-hackers-selling-critical-windows-zero-day-exploit-220000.html)
+
+---
+
+### 15. Students are learning to write for AI detectors, not for humans 
+
+Students are learning to write for AI detectors, not for humans, as AI-powered tools increasingly flag essays as AI-written.
+
+💡 *Over-reliance on AI detection tools undermines human writing skills development.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111617-students-learning-write-ai-detectors-not-humans.html)
+
+---
+
+### 16. Oversight Board urges Meta to toughen rules on AI-generated content and deepfakes 
+
+The Oversight Board urges Meta to improve rules on AI-generated content, specifically deepfakes, after a fake AI-generated video was shared on Meta platforms, posing as a news source.
+
+💡 *Misinformation spreads quickly through AI-generated content on social media platforms.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111627-oversight-board-urges-meta-toughen-rules-ai-generated.html)
+
+---
+
+### 17. Apple could expand lineup to offer "Ultra" versions of iPhone, MacBook, and AirPods 
+
+Apple may release 'Ultra' versions of iPhone, MacBook, and AirPods, positioning them above Pro models.
+
+💡 *Enhanced features justify higher price points for premium products*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111618-apple-could-expand-lineup-offer-ultra-versions-iphone.html)
+
+---
+
+### 18. One in four CEOs say AI is a bubble but will continue investing 
+
+One in four CEOs believe AI is a bubble, but plan to continue investing.
+
+💡 *Perceived AI bubble risk won't deter business investment decisions.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111625-one-four-ceos-ai-bubble-but-continue-investing.html)
+
+---
+
+### 19. Stop the Slop: 8 Tools That Clean Up Windows 11 
+
+Windows 11 users can regain control with free tools that clean up the OS, disabling AI features and ads, and reducing telemetry. These popular tools provide more control over the operating system. They can help streamline the user experience.
+
+💡 *Regaining control over Windows 11 is essential for user autonomy.*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3095-stop-windows-slop/)
 
 ---
 

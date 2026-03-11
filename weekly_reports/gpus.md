@@ -1,65 +1,75 @@
 # 🎮 GPUs
-**Week of March 10, 2026**
+**Week of March 11, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-03-10 09:27
+- **Articles this week:** 6
+- **Report generated:** 2026-03-11 09:27
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel Panther Lake-H high-res die shot emerges image show 18A compute tile, Xe3 GPU tile in new X-series processors 
+### 1. AMD Ryzen AI Embedded P100 series expands with up to 12 Zen 5 cores, 80 TOPS of AI performance ⭐
 
-Intel's Panther Lake-H CPU features 16 cores and 12 Xe3 clusters, with Thunderbolt 5 ports. Annotated die shots provide a detailed look at the processor's architecture. The images highlight the CPU's compute and graphics capabilities.
+AMD expanded its Ryzen AI Embedded P100 series with higher-core SKUs, integrating up to 12 Zen 5 CPU cores and RDNA 3.5 graphics for enhanced AI performance. The new SoCs deliver up to 80 TOPS of combined AI performance and support unified CPU-GPU memory. This expansion targets commercial and industrial applications.
 
-💡 *Intel's Xe3 GPU and Thunderbolt 5 enhance mobile performance and connectivity*
+💡 *Enhanced AI performance for commercial and industrial edge computing*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-panther-lake-h-high-res-die-shot-emerges-image-show-18a-compute-tile-xe3-gpu-tile-in-new-x-series-processors)
-
----
-
-### 2. New Commerce Department AI export rules could be seismic change for CSPs and data center operators buying American GPUs at scale means committing to building American infrastructure 
-
-The U.S. Commerce Department may introduce new export controls for AI chips, potentially requiring U.S. investment for large-scale purchases. This could impact companies buying American GPUs at scale. The new rules may force CSPs and data center operators to build American infrastructure.
-
-💡 *U.S. AI chip exports tied to domestic infrastructure investment.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/new-commerce-department-ai-export-rules-could-be-seismic-change-for-csps-and-data-center-operators-buying-american-gpus-at-scale-means-committing-to-building-american-infrastructure)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/11/amd-ryzen-ai-embedded-p100-series-expands-with-up-to-12-zen-5-cores-80-tops-of-ai-performance/)
 
 ---
 
-### 3. Shortages of crucial chip packaging material threatens AI accelerator supply chains Nittobo's Fukushima plant is tripling capacity, but it'll take years before market 
+### 2. Dynamic MFG comes to RTX 50-series GPUs to push monitor refresh rates to the max more flexible mode with 5x and 6x multipliers arrives March 31 
 
-Nittobo's Fukushima plant is tripling capacity, but it won't meet current demand. The company controls 90% of the global supply of T-glass, crucial for AI chip packaging. Supply shortages are causing issues in the AI accelerator supply chains.
+Dynamic Multi Frame Generation (MFG) arrives March 31 with 5X and 6X modes.
 
-💡 *T-glass shortage threatens AI chip supply chains worldwide severely.*
+💡 *Higher refresh rates for smoother gaming experiences on RTX 50-series GPUs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/shortages-of-crucial-chip-packaging-material-threatens-ai-accelerator-supply-chains-nittobos-fukushima-plant-is-tripling-capacity-but-itll-take-years-before-market)
-
----
-
-### 4. Satya Nadella denies Xbox death rumors, insists Microsoft is "long on gaming" 
-
-Microsoft's Satya Nadella denies abandoning gaming, calling it a core identity.
-
-💡 *Microsoft reaffirms commitment to gaming despite business diversification efforts.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111609-satya-nadella-denies-xbox-death-rumors-insists-microsoft.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/dynamic-mfg-comes-to-rtx-50-series-gpus-to-push-monitor-refresh-rates-to-the-max-more-flexible-mode-with-5x-and-6x-multipliers-arrives-march-31)
 
 ---
 
-### 5. Why AMD motherboards now come with bigger BIOS chips and why it matters to you 
+### 3. Nvidia reportedly building its own AI agent to compete with OpenClaw, report claims NemoClaw will supposedly be open source and designed for enterprise use 
 
-AMD motherboards now feature larger BIOS chips due to increasing complexity. This shift enables more advanced features and better support for newer technologies. The upgrade also improves flexibility in BIOS settings.
+Nvidia is reportedly developing its own open-source AI agent, NemoClaw, for enterprise use.
 
-💡 *More features, better support, and flexibility for users*
+💡 *Nvidia's entry shakes up AI market, increasing competition for OpenClaw*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/why-amd-motherboards-now-come-with-bigger-bios-chips-and-why-it-matters-to-you)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-building-its-own-ai-agent-to-compete-with-openclaw-report-claims-nemoclaw-will-supposedly-be-open-source-and-designed-for-enterprise-use)
+
+---
+
+### 4. $500,000 gold RTX 5090 is now worth $830,000 thanks to rocketing commodity prices Asus ROG Astral RTX 5090 Real Gold Edition was actually a savvy investment, worth over 50% more than at inception 
+
+The Asus ROG Astral RTX 5090 Real Gold Edition has seen significant value growth, increasing from $500,000 to $830,000 due to rising commodity prices. This unique, one-off gold-plated graphics card has proven to be a lucrative investment opportunity. Its scrap value has increased by over 50% since inception.
+
+💡 *Rising commodity prices can transform rare tech items into valuable investments.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/usd500-000-gold-rtx-5090-is-now-worth-usd830-000-thanks-to-rocketing-commodity-price-asus-rog-astral-rtx-5090-real-gold-edition-was-actually-a-savvy-investment-worth-over-50-percent-more-than-at-inception)
+
+---
+
+### 5. Nvidia GDC 2026 roundup: More path-traced games, DLSS 4.5 debut titles, and RTX mega foliage 
+
+Nvidia announced an early opt-in beta for DLSS 6x multi-frame generation and dynamic mode starting March 31, two features previously scheduled for an April launch. This beta is available for users with high-refresh-rate monitors. The exact duration of the beta period is unclear.
+
+💡 *Early access to improved DLSS tech for high-refresh-rate gamers.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111632-nvidia-gdc-2026-roundup-more-path-traced-games.html)
+
+---
+
+### 6. TI plunks mmWave radar sensing onto Jetson Thor 
+
+Texas Instruments (TI) is integrating mmWave radar sensing into Nvidia's Jetson Thor chip using the Holoscan Sensor Bridge, enabling advanced robotics capabilities.
+
+💡 *Enhanced robotics navigation and safety through advanced sensing capabilities.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/ti-plunks-mmwave-radar-sensing-jetson-thor)
 
 ---
 
