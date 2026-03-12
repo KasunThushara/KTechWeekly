@@ -1,205 +1,265 @@
 # 💻 Hardware
-**Week of March 11, 2026**
+**Week of March 12, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-03-11 09:27
+- **Articles this week:** 25
+- **Report generated:** 2026-03-12 09:28
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Raspberry Pi CM0-based industrial AI camera features motorized auto-focus system, 12-pin Ethernet/RS-232/DO aviation connector ⭐
+### 1. SolidRun P100 COM Express Type 6 module features LPCAMM2 memory, up to 12-core AMD Ryzen AI Embedded P185 SoC ⭐⭐
 
-EDATEC launched the ED-AIC1000, a compact industrial AI camera built around the Raspberry Pi CM0, integrating a 1.3 MP global-shutter camera, motorized autofocus, and 12-pin industrial connector for various industrial automation applications.
+SolidRun has announced a new P100 COM Express Type 6 module family, supporting up to 12-core AMD Ryzen AI Embedded P185 SoCs and LPCAMM2 LPDDR5X memory, ideal for AI-intensive applications.
 
-💡 *Boosts industrial automation efficiency with AI-powered vision capabilities.*
+💡 *Enabling AI-powered edge computing in rugged environments.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/11/raspberry-pi-cm0-based-industrial-ai-camera-features-motorized-auto-focus-system-12-pin-ethernet-rs-232-do-aviation-connector/)
-
----
-
-### 2. Early reviews say the MacBook Neo redefines the budget laptop ⭐
-
-The MacBook Neo offers premium features at an affordable $599 price. Reviewers praise its aluminum build, display, and performance. The laptop's battery life exceeds expectations for its budget category.
-
-💡 *Redefining budget laptops without sacrificing key premium features*
-
-🔗 [Read Full Article](https://www.techspot.com/products/laptops/apple-macbook-neo.321894/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/12/solidrun-p100-com-express-type-6-module-features-lpcamm2-memory-up-to-12-core-amd-ryzen-ai-embedded-p185-soc/)
 
 ---
 
-### 3. RPCS3 Emulator boasts over 1500 FPS on the Minecraft title screen platform hails performance landmark, one frame rendered every 0.00064 seconds 
+### 2. COM HPC Mini-sized VersaLogic Raptor Embedded Processing Unit features 13th gen Intel Core i5-1345URE or Processor U300E SoC ⭐
 
-The RPCS3 emulator team achieved a remarkable 1500 FPS on Minecraft, a significant performance milestone. This achievement showcases the team's dedication to optimization, pushing the emulator's capabilities to new heights. However, many games still remain unplayable without modern hardware.
+VersaLogic Raptor is a COM HPC Mini-sized Embedded Processing Unit that supports high-performance computing in harsh environments. It features 13th Gen Intel Core i5-1345URE or Processor U300E SoC and provides up to 64 GB of LPDDR5 memory. The compact board is designed for applications requiring advanced processing capabilities.
 
-💡 *Optimization breakthroughs pave way for smoother emulation experiences.*
+💡 *High-performance computing in extreme environments made possible by compact board design.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/rpcs3-emulator-boasts-over-1500-fps-on-the-minecraft-title-screen-platform-hails-performance-landmark-one-frame-rendered-every-0-00064-seconds)
-
----
-
-### 4. Texas Instruments MSPM0G5187 and AM13Ex MCUs integrate TinyEngine NPU for Edge AI applications 
-
-Texas Instruments has introduced the MSPM0G5187 and AM13Ex MCU families with integrated TinyEngine NPU, enabling low-latency Edge AI applications with up to 90 times lower latency and 120 times lower energy utilization.
-
-💡 *Edge AI inference becomes accessible and efficient on resource-constrained devices.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/11/texas-instruments-mspm0g5187-and-am13ex-mcus-integrate-tinyengine-npu-for-edge-ai-applications/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/12/com-hpc-mini-sized-versalogic-raptor-embedded-processing-unit-features-13th-gen-intel-core-i5-1345ure-or-processor-u300e-soc/)
 
 ---
 
-### 5. NXP i.MX 937 cost-effective Cortex-A55/M7/M33 MPU is a drop-in replacement for NXP i.MX 95 SoC family 
+### 3. Galaxy S26 Ultra reviewed: Better cameras, Privacy Display, same price ⭐
 
-The NXP i.MX 937 MPU offers a balance between performance and cost, featuring a 1.4 GHz quad-core Cortex-A55, a dedicated Cortex-M7 for real-time tasks, and a Cortex-M33 for system management. It includes support for LPDDR4x or LPDDR5 memory, a Mali G310 GPU, and a 2 eTOPS NPU for ML acceleration. This makes it a drop-in replacement for the NXP i.MX 95 SoC family.
+The Galaxy S26 Ultra offers improved cameras and features without a price increase.
 
-💡 *Cost-effective performance for HMI and Edge AI applications fills gap.*
+💡 *Samsung refines its flagship formula without raising the price tag.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/11/nxp-i-mx-937-cost-effective-cortex-a55-m7-m33-mpu-is-a-drop-in-replacement-for-nxp-i-mx-95-soc-family/)
-
----
-
-### 6. BeagleBadge A Linux-powered 4.2-inch ePaper badge based on TI Sitara AM62L32 SoC 
-
-BeagleBoard.org Foundation introduces the BeagleBadge, a Linux-powered badge with a 4.2-inch ePaper display and various features like WiFi 6 and LoRa connectivity. It is quite feature-rich for a badge, making it suitable for various applications such as IoT projects and maker communities. The badge is based on the Texas Instruments Sitara AM62L32 SoC, a dual-core Cortex-A53 processor.
-
-💡 *Rapid prototyping and development of IoT projects made easy with Linux badge*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/10/beaglebadge-a-linux-powered-4-2-inch-epaper-badge-based-on-ti-sitara-am62l32-soc/)
+🔗 [Read Full Article](https://www.techspot.com/products/smartphones/samsung-galaxy-s26-ultra.321794/)
 
 ---
 
-### 7. NXP i.MX 93W wireless MPU SiP pairs dual-core Arm Cortex-A55 processor with NXP iW610 WiFi 6, Bluetooth LE, and 805.15.4 radio 
+### 4. Crimson Desert hits 4K 60fps with ultra settings, ray tracing, and no upscaling on a Radeon 9070 XT or GeForce 5070 Ti ⭐
 
-NXP i.MX 93W is a wireless MPU SiP combining a dual-core Cortex-A55 processor with WiFi 6, Bluetooth, and 802.15.4 radios in a single chip. This reduces PCB area, simplifies design, and speeds up time-to-market. The package includes all necessary external radio components.
+Crimson Desert achieves 4K 60fps with ultra settings and ray tracing on lower-end GPUs.
 
-💡 *Simplified wireless design accelerates IoT and embedded systems development*
+💡 *Lower-end GPUs achieve high performance with Crimson Desert's optimized graphics engine.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/10/nxp-i-mx-93w-wireless-mpu-sip-pairs-dual-core-arm-cortex-a55-processor-with-nxp-iw610-wifi-6-bluetooth-le-and-805-15-4-radio/)
-
----
-
-### 8. Laptops could soon cost 40% more, and you already know why 
-
-Laptops may cost 40% more due to CPU manufacturing challenges. TrendForce analysis suggests a significant price increase in the portable PC market. This could impact consumer purchasing decisions and industry trends.
-
-💡 *Supply chain constraints exacerbate laptop pricing uncertainty*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111631-laptops-could-soon-cost-40-more-you-already.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111635-crimson-desert-hits-4k-60fps-ultra-settings-ray.html)
 
 ---
 
-### 9. How To Optimize Your PC s Airflow Using Positive vs. Negative Pressure 
+### 5. Microsoft confirms next-gen Xbox, codenamed Project Helix, will be powered by custom AMD SoC and feature 'FSR Diamond' 'Xbox Mode' is also coming to Windows 11 
 
-Optimizing PC airflow using positive vs. negative pressure can significantly improve performance, reduce temperatures, and enhance overall system longevity.
+Microsoft confirms Project Helix, the next-gen Xbox, will feature a custom AMD SoC and improved raytracing performance with FSR 'Diamond'. The new console is expected to heavily utilize neural rendering. Xbox Mode will also be available on Windows 11.
 
-💡 *Airflow configuration has a greater impact than cooler upgrades on PC performance.*
+💡 *Revolutionizing gaming performance with neural rendering and FSR 'Diamond' advancements.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/how-to-optimize-your-pcs-airflow-using-positive-vs-negative-pressure)
-
----
-
-### 10. Intel Nova Lake CPU teaser lists official support for speedy DDR5-8000 RAM B960 mini-PC s upgraded power system signals Nova Lake s higher power demands 
-
-ECS has showcased its revamped Liva P300 mini-PC for Intel's Nova Lake processors, featuring speedy DDR5-8000 RAM and an upgraded power system, indicating higher power demands from the upcoming CPUs.
-
-💡 *Nova Lake processors require more power than predecessors.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-nova-lake-cpu-teaser-lists-official-support-for-speedy-ddr5-8000-ram-b960-mini-pcs-upgraded-power-system-signals-nova-lakes-higher-power-demands)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/microsoft-confirms-next-gen-xbox-codenamed-project-helix-will-be-powered-by-custom-amd-soc-and-feature-fsr-diamond-next-gen-console-delivers-order-of-magnitude-leap-in-performance)
 
 ---
 
-### 11. Apple MacBook Neo review: a budget-priced game-changer 
+### 6. How to use Precision Boost Overdrive and Curve Optimizer to improve Ryzen CPU performance 
 
-The Apple MacBook Neo offers premium features at an affordable price, with some minor compromises.
+Precision Boost Overdrive and Curve Optimizer enable fine-tuning of voltage and power for optimal Ryzen CPU performance, leading to improved efficiency and sustained boost speeds.
 
-💡 *Budget-friendliness revolutionizes the Apple laptop market space.*
+💡 *Optimized voltage and power limits boost Ryzen CPU performance significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/apple-macbook-neo-a18-pro-review)
-
----
-
-### 12. Laptop prices expected to soar by around 40% as AI crunch takes hold analyst says rising mainstream models priced at $900 could hit more than $1,200 due to rising memory, storage, and CPU costs 
-
-TrendForce predicts midrange laptops will see a 40% price increase due to rising costs of memory, storage, and CPUs.
-
-💡 *Rising AI demand drives up laptop component costs significantly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/laptop-prices-expected-to-soar-by-around-40-percent-as-ai-crunch-takes-hold-analyst-says-rising-mainstream-models-priced-at-usd900-could-hit-more-than-usd1-200-due-to-rising-memory-storage-and-cpu-costs)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/how-to-use-precision-boost-overdrive-and-curve-optimizer-to-improve-ryzen-cpu-performance)
 
 ---
 
-### 13. Get an X870 Motherboard, 32GB of RAM, a 1050W Power supply, and a Montech King 95 Pro case for only $774 save over $220 on this 4-item combo from Newegg 
+### 7. Where to buy Apple's new MacBook Neo, MacBook Air, and MacBook Pro grab the most affordable MacBook, along with the latest M5 silicon refreshes, from these top stores 
 
-Get a comprehensive AM5 build starter kit from Newegg featuring a MSI motherboard, 32GB of RAM, 1050W power supply, and a Montech case for $774, saving $220.
+Apple's new MacBook lineup is now available with the latest M5 silicon refreshes, offering improved performance and features. The entry-level Neo, MacBook Air, and MacBook Pro can be grabbed from top stores. Customers can choose from various models and configurations to suit their needs.
 
-💡 *Affordable AM5 build starter kit available at Newegg*
+💡 *Upgrade to faster M5-powered MacBooks for enhanced productivity and efficiency.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-an-x870-motherboard-32gb-of-ram-a-1050w-power-supply-and-a-montech-king-95-pro-case-for-only-usd774-save-over-usd220-on-this-4-item-combo-from-newegg)
-
----
-
-### 14. Get 32GB of Corsair Vengeance DDR5 for $163 when bundled with AMD's new 9850X3D and an X870E-E motherboard save $236 on the heart of your new AM5 PC 
-
-Newegg offers a bundle deal for AMD 9850X3D, RAM, and motherboard. The bundle includes 32GB Corsair Vengeance DDR5 RAM for $163. This saves customers $236 compared to individual purchases.
-
-💡 *Significant savings on key components for a new AM5 PC build.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-32gb-of-corsair-vengeance-ddr5-for-usd163-when-bundled-with-amds-new-9850x3d-and-an-x870e-e-motherboard-save-usd236-on-the-heart-of-your-new-am5-pc)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/where-to-buy-apples-new-macbook-neo-macbook-air-and-macbook-pro-grab-the-most-affordable-macbook-along-with-the-latest-m5-silicon-refreshes-from-these-top-stores)
 
 ---
 
-### 15. Arduino Ventuno Q marks Qualcomm's entry into offline AI and robotics 
+### 8. Intel announces Arrow Lake Refresh CPUs, claims 15% higher gaming performance and multi-threaded boost Core Ultra 7 270K and Core Ultra 5 250K come with more cores, faster memory, and a price cut 
 
-Qualcomm's Ventuno Q aims to address concerns from the Arduino community after acquisition.
+Intel introduces Arrow Lake Refresh CPUs with 15% gaming performance boost and lowered prices, with the Core Ultra 7 270K and Core Ultra 5 250K offering more cores and faster memory.
 
-💡 *Qualcomm's entry into offline AI and robotics may disrupt the market.*
+💡 *Intel caters to gamers with improved performance and lower prices.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111616-arduino-ventuno-q-marks-qualcomm-entry-offline-ai.html)
-
----
-
-### 16. Intel launches Bartlett Lake CPUs with all P-cores for embedded applications 
-
-Intel launches the Bartlett Lake CPU family with 11 SKUs, featuring all-P-core designs for improved performance and reduced overhead in embedded applications.
-
-💡 *Simplified scheduling and reduced overhead for edge computing and embedded systems.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111621-intel-launches-bartlett-lake-cpus-all-p-cores.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-claims-arrow-lake-refresh-cpus-deliver-15-percent-higher-gaming-performance-and-multi-threaded-boost-core-ultra-7-270k-and-core-ultra-5-250k-come-with-more-cores-faster-memory-and-a-price-cut)
 
 ---
 
-### 17. Oversight Board urges Meta to toughen rules on AI-generated content and deepfakes 
+### 9. Asus chief says Macbook Neo's affordable pricing came as a shock to the entire PC market compares $599 notebook to a tablet and content-consumption device 
 
-The Oversight Board urges Meta to improve rules on AI-generated content, specifically deepfakes, after a fake AI-generated video was shared on Meta platforms, posing as a news source.
+Asus co-CEO S.Y. Hsu claims MacBook Neo shocked PC market with its price, but notes it's primarily designed for content consumption due to limited specs.
 
-💡 *Misinformation spreads quickly through AI-generated content on social media platforms.*
+💡 *MacBook Neo's affordable pricing disrupts PC market expectations*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111627-oversight-board-urges-meta-toughen-rules-ai-generated.html)
-
----
-
-### 18. Solar-powered laptops are back, and this one is built for the field 
-
-The RG14-P is a solar-powered laptop with a reinforced metal chassis, designed for field use.
-
-💡 *Rugged design enables reliable computing in harsh, remote environments worldwide.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111622-solar-powered-laptops-back-one-built-field.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/asus-chief-says-macbook-neos-affordable-pricing-came-as-a-shock-to-the-entire-pc-market-compares-usd599-notebook-to-a-tablet-and-content-consumption-device)
 
 ---
 
-### 19. TI plunks mmWave radar sensing onto Jetson Thor 
+### 10. Rumored RTX 5050 9GB GDDR7 could make hay from recycled RTX 5060 silicon refreshed entry-level Blackwell card might finally have enough VRAM for DLSS and MFG in demanding games 
 
-Texas Instruments (TI) is integrating mmWave radar sensing into Nvidia's Jetson Thor chip using the Holoscan Sensor Bridge, enabling advanced robotics capabilities.
+A rumored Nvidia GeForce RTX 5050 9GB GDDR7 card may finally provide enough VRAM for DLSS and MFG in demanding games, potentially making it a more viable option for entry-level users.
 
-💡 *Enhanced robotics navigation and safety through advanced sensing capabilities.*
+💡 *Increased VRAM boosts performance in demanding games with AI features*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/ti-plunks-mmwave-radar-sensing-jetson-thor)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/rumored-rtx-5050-9gb-gddr7-could-make-hay-from-recycled-rtx-5060-silicon-refreshed-entry-level-blackwell-card-might-finally-have-enough-vram-for-dlss-and-mfg-in-demanding-games)
+
+---
+
+### 11. Turris Omnia NG Wired dual 10GbE, quad 2.5GbE router drops Wi-Fi for cost savings 
+
+Turris releases a Wi-Fi-free variant of its Omnia NG router, targeting cost-conscious users. The Omnia NG Wired retains the same specifications as the Wi-Fi enabled model but omits the built-in Wi-Fi 7 connectivity. This move allows users to add Wi-Fi and cellular connectivity through optional upgrade kits.
+
+💡 *Cost savings without compromising performance or functionality options.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/12/turris-omnia-ng-wired-dual-10gbe-quad-2-5gbe-router-drops-wi-fi-for-cost-savings/)
+
+---
+
+### 12. Blues Notecard for Skylo IoT module offers 5G NTN satellite, NB-IoT/LTE-M cellular, WiFi, and GNSS connectivity 
+
+The Blues Notecard for Skylo offers an all-in-one satellite IoT solution combining 5G NTN satellite, NB-IoT/LTE-M cellular, WiFi, and GNSS connectivity for asset tracking applications. It connects over WiFi by default, switching to cellular when out of range, and falls back to pay-as-you-go Skylo satellite connectivity when neither WiFi nor cellular is available.
+
+💡 *Enabling IoT connectivity in remote areas with minimal data costs.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/11/blues-notecard-for-skylo-iot-module-offers-5g-ntn-satellite-nb-iot-lte-m-cellular-wifi-and-gnss-connectivity/)
+
+---
+
+### 13. Asus co-CEO calls MacBook Neo a "shock" to the Windows PC industry 
+
+Asus co-CEO comments on Apple's MacBook Neo as a shock to the industry, positioning it as an affordable option.
+
+💡 *Apple's affordable laptop disrupts the Windows PC market dynamics.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111649-asus-co-ceo-calls-macbook-neo-shock-windows.html)
+
+---
+
+### 14. A foreign hacker unknowingly breached FBI servers tied to the Epstein investigation 
+
+A foreign hacker breached FBI servers tied to the Epstein investigation by exploiting a vulnerability left by Special Agent Aaron Spivack. This occurred on February 12, 2023, at the FBI's New York field office. The breach was reportedly due to complex agency procedures.
+
+💡 *Human error can compromise even the most secure government systems.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111644-foreign-hacker-unknowingly-accessed-epstein-files-fbi-servers.html)
+
+---
+
+### 15. Inspector general investigates claim DOGE engineer copied Social Security databases to thumb drive 
+
+An investigation has been launched into allegations of a DOGE engineer copying Social Security databases onto a thumb drive.
+
+💡 *Potential data breach raises concerns about sensitive information security and protection.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111639-inspector-general-investigates-claim-doge-engineer-copied-social.html)
+
+---
+
+### 16. Valve details new game verification system for upcoming Steam Frame and Steam Machine 30 FPS at 1080p for Steam Frame Verified, same as Steam Deck 
+
+Valve introduces a new game verification system for Steam Machine and Steam Frame, ensuring 30 FPS at 1080p for 'Steam Frame Verified' games, mirroring the Steam Deck experience.
+
+💡 *Optimized gaming experience on budget hardware with quality guarantee*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/valve-details-new-game-verification-system-for-upcoming-steam-frame-and-steam-machine-30-fps-at-1080p-for-steam-frame-verified-same-as-steam-deck)
+
+---
+
+### 17. Framework raises RAM prices for the third time in three months, SSD costs up company warns that it s running out of stock on some Intel processors as well 
+
+Framework has increased RAM prices for the third consecutive month, citing market fluctuations. Additionally, the company is hiking SSD costs and warns that it's running low on Intel processor stock.
+
+💡 *Price hikes and stock shortages impact consumer electronics purchasing decisions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/framework-raises-ram-prices-for-the-third-time-in-three-months-ssd-costs-up-company-warns-that-its-running-out-of-stock-on-some-intel-processors-as-well)
+
+---
+
+### 18. HyperX Origins 2 65 Review: 8,000Hz and Customizable 
+
+The HyperX Origins 2 65 is a 65% mechanical keyboard offering 8,000Hz polling. It features a customizable design with an attempt at implementing the o-ring mount style. This keyboard may appeal to users seeking a compact, high-performance typing experience.
+
+💡 *High-speed polling and customization options for enhanced gaming performance.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/hyperx-origins-2-65-review)
+
+---
+
+### 19. Get 32GB of Kingston DDR5 for $261 when bundled with the new 9850X3D and an X870 motherboard get AMD's fastest gaming chip and the core of an AM5 build for less than $1,100 
+
+Get an AMD Ryzen 7 9850X3D, Asus ROG Strix X870E-H motherboard, and 32GB of Kingston DDR5 RAM for $1,099 at Newegg, making it a budget-friendly option for an AM5 gaming build.
+
+💡 *Affordable AM5 gaming build with AMD's fastest gaming chip.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-32gb-of-kingston-ddr5-for-usd261-when-bundled-with-the-new-9850x3d-and-an-x870-motherboard-get-amds-fastest-gaming-chip-and-the-core-of-an-am5-build-for-less-than-usd1-100)
+
+---
+
+### 20. Human brain cells set to power two new data centers, thanks to 'body-in-the-box' CL1 Cortical Labs targets the AI energy crisis with biological computer that reportedly uses less energy than a calculator 
+
+Cortical Labs and DayOne partner to build data centers using biological computers, reducing energy consumption.
+
+💡 *Biological computers may revolutionize energy-efficient AI and data processing infrastructure.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/human-brain-cells-set-to-power-two-new-data-centers-thanks-to-body-in-the-box-cl1-cortical-labs-targets-the-ai-energy-crisis-with-biological-computer-that-reportedly-uses-less-energy-than-a-calculator)
+
+---
+
+### 21. This brilliant Hoto electric screwdriver is down to a record-low 28.48 right now 12-bit precision kit with USB-C charging is great for PC builds and DIY projects 
+
+Get the Hoto NEX O1 Pro mini electric screwdriver set, now at a record-low price, featuring 12-bit precision and USB-C charging for use in PC builds and DIY projects.
+
+💡 *Precision and convenience for DIY projects at an affordable price.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/this-brilliant-hoto-electric-screwdriver-is-down-to-a-record-low-gbp28-48-in-the-amazon-uk-spring-sale-12-bit-precision-kit-with-usb-c-charging-is-great-for-pc-builds-and-diy-projects)
+
+---
+
+### 22. Intel launches Core Ultra 270K Plus and 250K Plus to revive its desktop gaming push 
+
+Intel launches Core Ultra 270K Plus and 250K Plus to revive its desktop gaming push, seeking to overcome past thermal issues and frame rate problems.
+
+💡 *Intel seeks to regain high-end desktop gaming market dominance.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111652-intel-launches-core-ultra-270k-plus-250k-plus.html)
+
+---
+
+### 23. Next-gen Xbox sounds a lot like a PC with an Xbox UI and AMD's FSR Diamond 
+
+Microsoft's next Xbox, 'Project Helix,' focuses on neural rendering and ray tracing, with closer integration with Windows PCs.
+
+💡 *Next-gen Xbox blurs lines between console and PC gaming experiences.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111651-next-gen-xbox-sounds-lot-like-pc-xbox.html)
+
+---
+
+### 24. That Doom-running, human brain cell-powered computer is headed for data centers 
+
+Cortical Labs' CL1 computer uses human neurons to run complex tasks like Doom. This hardware platform is being developed for data centers. Its unique approach may revolutionize computing.
+
+💡 *Neural computing could redefine data processing efficiency and scalability.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111642-doom-running-human-brain-cell-powered-computer-headed.html)
+
+---
+
+### 25. Watch! Edge sensor fusion comes on fast in SoCs, new products 
+
+Embedded World 2026 showcases edge sensor fusion innovations in AI-driven applications, with companies pushing the boundaries of sensor technology in system-on-chips (SoCs) to create new products.
+
+💡 *Edge sensor fusion accelerates AI-driven innovation in real-world applications.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/watch-edge-sensor-fusion-comes-fast-socs-new-products)
 
 ---
 

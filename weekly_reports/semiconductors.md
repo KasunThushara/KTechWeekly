@@ -1,95 +1,105 @@
 # ⚡ Semiconductors
-**Week of March 11, 2026**
+**Week of March 12, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-03-11 09:27
+- **Articles this week:** 9
+- **Report generated:** 2026-03-12 09:28
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. SK hynix introduces turbocharged LPDDR6, 33% faster and 20% more power efficient than LPDDR5X 16Gb chips deliver 10.7 Gbps, uses 10nm node ⭐
+### 1. IBM and Lam Research team up on High NA EUV dry resist to push chip scaling past 1nm 
 
-SK Hynix has developed LPDDR6 memory modules operating at 10.7Gbps using 10nm-class process node, offering 33% faster speeds and 20% more power efficiency compared to LPDDR5X 16Gb chips.
+IBM and Lam Research partner to develop a high-NA EUV dry resist, enabling further chip scaling beyond 1nm node. This collaboration marks their 10+ years of work together, with notable achievements such as IBM's 2nm node chip in 2021. Their joint effort aims to drive innovation in semiconductor technology.
 
-💡 *Faster, more power-efficient memory enables improved mobile device performance.*
+💡 *Advancing chip scaling to push Moore's Law limits*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-hynix-introduces-turbocharged-lpddr6-33-percent-faster-and-20-percent-more-power-efficient-than-lpddr5x-16gb-chips-deliver-10-7-gbps-uses-10nm-node)
-
----
-
-### 2. BeagleBadge A Linux-powered 4.2-inch ePaper badge based on TI Sitara AM62L32 SoC 
-
-BeagleBoard.org Foundation introduces the BeagleBadge, a Linux-powered badge with a 4.2-inch ePaper display and various features like WiFi 6 and LoRa connectivity. It is quite feature-rich for a badge, making it suitable for various applications such as IoT projects and maker communities. The badge is based on the Texas Instruments Sitara AM62L32 SoC, a dual-core Cortex-A53 processor.
-
-💡 *Rapid prototyping and development of IoT projects made easy with Linux badge*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/10/beaglebadge-a-linux-powered-4-2-inch-epaper-badge-based-on-ti-sitara-am62l32-soc/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/ibm-and-lam-research-team-up-on-high-na-euv)
 
 ---
 
-### 3. NXP i.MX 93W wireless MPU SiP pairs dual-core Arm Cortex-A55 processor with NXP iW610 WiFi 6, Bluetooth LE, and 805.15.4 radio 
+### 2. Turris Omnia NG Wired dual 10GbE, quad 2.5GbE router drops Wi-Fi for cost savings 
 
-NXP i.MX 93W is a wireless MPU SiP combining a dual-core Cortex-A55 processor with WiFi 6, Bluetooth, and 802.15.4 radios in a single chip. This reduces PCB area, simplifies design, and speeds up time-to-market. The package includes all necessary external radio components.
+Turris releases a Wi-Fi-free variant of its Omnia NG router, targeting cost-conscious users. The Omnia NG Wired retains the same specifications as the Wi-Fi enabled model but omits the built-in Wi-Fi 7 connectivity. This move allows users to add Wi-Fi and cellular connectivity through optional upgrade kits.
 
-💡 *Simplified wireless design accelerates IoT and embedded systems development*
+💡 *Cost savings without compromising performance or functionality options.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/10/nxp-i-mx-93w-wireless-mpu-sip-pairs-dual-core-arm-cortex-a55-processor-with-nxp-iw610-wifi-6-bluetooth-le-and-805-15-4-radio/)
-
----
-
-### 4. Oracle and OpenAI's Abilene expansion saga detailed: 600MW expansion gets scrapped, as larger 4.5GW agreement remains on track 
-
-Oracle and OpenAI scrapped their 600MW expansion plans for Abilene campus, focusing on larger 4.5GW agreement.
-
-💡 *Renewed focus on massive 4.5GW project signals long-term tech investment commitment.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/oracle-and-openai-scrap-planned-600mw-abilene-expansion)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/12/turris-omnia-ng-wired-dual-10gbe-quad-2-5gbe-router-drops-wi-fi-for-cost-savings/)
 
 ---
 
-### 5. Get an X870 Motherboard, 32GB of RAM, a 1050W Power supply, and a Montech King 95 Pro case for only $774 save over $220 on this 4-item combo from Newegg 
+### 3. Blues Notecard for Skylo IoT module offers 5G NTN satellite, NB-IoT/LTE-M cellular, WiFi, and GNSS connectivity 
 
-Get a comprehensive AM5 build starter kit from Newegg featuring a MSI motherboard, 32GB of RAM, 1050W power supply, and a Montech case for $774, saving $220.
+The Blues Notecard for Skylo offers an all-in-one satellite IoT solution combining 5G NTN satellite, NB-IoT/LTE-M cellular, WiFi, and GNSS connectivity for asset tracking applications. It connects over WiFi by default, switching to cellular when out of range, and falls back to pay-as-you-go Skylo satellite connectivity when neither WiFi nor cellular is available.
 
-💡 *Affordable AM5 build starter kit available at Newegg*
+💡 *Enabling IoT connectivity in remote areas with minimal data costs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-an-x870-motherboard-32gb-of-ram-a-1050w-power-supply-and-a-montech-king-95-pro-case-for-only-usd774-save-over-usd220-on-this-4-item-combo-from-newegg)
-
----
-
-### 6. Apple now assembles a quarter of iPhones in India, signaling major supply chain shift 
-
-Apple now assembles a quarter of iPhones in India, shifting supply chain dynamics due to US tariffs on Chinese electronics.
-
-💡 *US-China trade tensions force Apple to diversify global production bases.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111626-apple-now-assembles-quarter-iphones-india-signaling-major.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/11/blues-notecard-for-skylo-iot-module-offers-5g-ntn-satellite-nb-iot-lte-m-cellular-wifi-and-gnss-connectivity/)
 
 ---
 
-### 7. Arduino Ventuno Q marks Qualcomm's entry into offline AI and robotics 
+### 4. OpenClaw AI agent craze sweeps China as authorities seek to clamp down amid security fears adoption surges as state-run enterprises are barred from use 
 
-Qualcomm's Ventuno Q aims to address concerns from the Arduino community after acquisition.
+China's authorities have warned against OpenClaw AI adoption due to security concerns. State-run enterprises are barred from using the tool, while its adoption continues to surge in the country. The move aims to mitigate potential risks associated with the AI agent.
 
-💡 *Qualcomm's entry into offline AI and robotics may disrupt the market.*
+💡 *Rapid AI adoption raises security concerns for Chinese authorities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111616-arduino-ventuno-q-marks-qualcomm-entry-offline-ai.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-ai-agent-craze-sweeps-china-as-authorities-seek-to-clamp-down-amid-security-fears-adoption-surges-as-state-run-enterprises-are-barred-from-use)
 
 ---
 
-### 8. Intel launches Core Series 2 and intros healthcare edge suite 
+### 5. Phison CEO says that NAND prices hiked by around 50% overnight, highlighting severe shortage in the industry warns 'our current concern is that both money and inventory are insufficient' 
 
-Intel launches its Core Series 2, a follow-up to its previous edge computing offerings. The company also introduces a healthcare edge suite, highlighting its commitment to industrial edge computing. This marks a significant move in the edge computing market.
+Phison reports a 50% overnight increase in NAND chip prices, citing a severe industry shortage. The company is responding by increasing its inventory to meet demand, particularly from enterprise customers. This move aims to ensure a stable supply chain.
 
-💡 *Intel's edge industrial history gives it a competitive edge over Qualcomm.*
+💡 *Severe NAND chip shortage drives price hike and supply chain uncertainty.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/intel-launches-core-series-2-and-intros-healthcare-edge-suite)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/phison-ceo-says-that-nand-prices-hiked-by-around-50-percent-overnight-highlighting-severe-shortage-in-the-industry-warns-our-current-concern-is-that-both-money-and-inventory-are-insufficient)
+
+---
+
+### 6. Intel's Heracles chip computes fully-encrypted data without decrypting it chip is 1,074 to 5,547 times faster than a 24-core Intel Xeon in FHE math operations 
+
+Intel's Heracles chip computes fully-encrypted data without decrypting it, significantly improving performance.
+
+💡 *Protecting sensitive data from unauthorized access while maintaining processing efficiency.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/intels-heracles-chip-computes-fully-encrypted-data-without-decrypting-it-chip-is-1-074-to-5-547-times-faster-than-a-24-core-intel-xeon-in-fhe-math-operations)
+
+---
+
+### 7. Ambitious semiconductor enthusiast builds DIY 'class 100 cleanroom' in his garden shed contains a plasma etcher, vacuum furnace, and even custom software-driven lithography machine 
+
+Dr. Semiconductor, a tech enthusiast, built a Class 100 cleanroom (ISO 5) in his garden shed, featuring advanced semiconductor fabrication tools such as a plasma etcher, vacuum furnace, and custom lithography machine. This impressive setup showcases his expertise and dedication to semiconductor fabrication. The cleanroom's advanced features enable precise control over fabrication processes.
+
+💡 *DIY cleanroom revolutionizes semiconductor fabrication access for enthusiasts worldwide.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/ambitious-semiconductor-enthusiast-builds-diy-class-100-cleanroom-in-his-garden-shed-contains-a-plasma-etcher-vacuum-furnace-and-even-custom-software-driven-lithography-machine)
+
+---
+
+### 8. DIY chip lab turns backyard shed into Class 100 cleanroom with custom lithography system 
+
+A DIY lab has been built to replicate chipmaking processes in a backyard shed, featuring a Class 100 cleanroom and custom lithography system. The lab aims to handle early steps in chip production. This project showcases innovative and accessible semiconductor research.
+
+💡 *Accessible semiconductor research democratizes innovation and technology advancement.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111643-backyard-shed-becomes-class-100-cleanroom-lithography-machine.html)
+
+---
+
+### 9. Nexperia China begins making its own chips after split with Dutch parent 
+
+Nexperia China has started producing its own chips post-split from Dutch parent. The produced chips include bipolar discrete devices and other essential components. These components are crucial for vehicle electronics and consumer devices.
+
+💡 *Self-sufficiency in chip production boosts regional electronics industry resilience.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111638-nexperia-china-begins-making-own-chips-after-split.html)
 
 ---
 
