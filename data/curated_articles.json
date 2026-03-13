@@ -1,495 +1,343 @@
 [
   {
-    "title": "Microsoft confirms next-gen Xbox, codenamed Project Helix, will be powered by custom AMD SoC and feature 'FSR Diamond' 'Xbox Mode' is also coming to Windows 11",
-    "summary": "The first official hardware details for Project Helix have been confirmed and Microsoft seems to be heavily leaning toward neural rendering, going as far as to unveil the next-gen FSR \"Diamond\" stack. Along with the AMD co-developed custom SoC, FSR will enable a significant bump in raytracing performance in the upcoming Xbox.",
-    "link": "https://www.tomshardware.com/video-games/xbox/microsoft-confirms-next-gen-xbox-codenamed-project-helix-will-be-powered-by-custom-amd-soc-and-feature-fsr-diamond-next-gen-console-delivers-order-of-magnitude-leap-in-performance",
+    "title": "AMD, Broadcom, and Nvidia join hyperscalers to define optical scale-up interconnect of the future for AI clusters Meta, Microsoft, and OpenAI to benefit as speeds eventually scale to 3.2 Tb/s",
+    "summary": "AMD, Broadcom, and Nvidia team up with Microsoft, Meta, and OpenAI to develop protocol-agnostic optical scale-up interconnects for AI clusters.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-broadcom-and-nvidia-join-hyperscalers-to-define-optical-scale-up-interconnect-of-the-future-for-ai-clusters-meta-microsoft-and-openai-to-benefit-as-speeds-eventually-scale-to-3-2-tb-s",
     "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.683504"
-  },
-  {
-    "title": "How to use Precision Boost Overdrive and Curve Optimizer to improve Ryzen CPU performance",
-    "summary": "Using Precision Boost Overdrive and Curve Optimizer, you can fine tune your processor s voltage and power limits to achieve better efficiency and sustained boost speeds.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/how-to-use-precision-boost-overdrive-and-curve-optimizer-to-improve-ryzen-cpu-performance",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.683619"
-  },
-  {
-    "title": "US RAM crisis hits boiling point as AI mania wipes out all 32GB DDR5 kits under $359 cheaper kits vanish from shelves within seconds of listing",
-    "summary": "Retailers have started selling 32GB DDR5 memory kits with a starting price of $359.99 in the U.S. market.",
-    "link": "https://www.tomshardware.com/pc-components/ram/us-ram-crisis-hits-boiling-point-as-ai-mania-wipes-out-all-32gb-ddr5-kits-under-usd359-cheaper-kits-vanish-from-shelves-within-seconds-of-listing",
-    "categories": [
+      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.683719"
+    "processed_date": "2026-03-13T09:23:04.479748"
   },
   {
-    "title": "OpenClaw AI agent craze sweeps China as authorities seek to clamp down amid security fears adoption surges as state-run enterprises are barred from use",
-    "summary": "Following rampant and rapid adoption and proliferation of the agentic AI tool OpenClaw, Chinese authorities have warned government-run institutions and companies not to install the tool and warned everyone about its potential security implications",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-ai-agent-craze-sweeps-china-as-authorities-seek-to-clamp-down-amid-security-fears-adoption-surges-as-state-run-enterprises-are-barred-from-use",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.683832"
-  },
-  {
-    "title": "Minisforum's new flagship NAS comes with OpenClaw pre-installed Strix Halo-powered N5 Max can run a local AI LLM",
-    "summary": "Minisforum has announced it is readying a new NAS that comes with OpenClaw pre-installed. The NAS will be powered by AMD's flagship Ryzen AI Max+ 395 to help accelerate AI workloads that users program OpenClaw to execute.",
-    "link": "https://www.tomshardware.com/pc-components/nas/minisforums-new-flagship-nas-comes-with-openclaw-pre-installed-strix-halo-powered-n5-max-can-run-a-local-ai-llm",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.683935"
-  },
-  {
-    "title": "Valve details new game verification system for upcoming Steam Frame and Steam Machine 30 FPS at 1080p for Steam Frame Verified, same as Steam Deck",
-    "summary": "The Steam Machine is on track for launch this year despite component shortages setting Valve back. Hardware aside, the company has just provided a major update on the software side of things with new verified programs for the Steam Machine and Steam Frame, and they seem to be as straightforward as expected.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/valve-details-new-game-verification-system-for-upcoming-steam-frame-and-steam-machine-30-fps-at-1080p-for-steam-frame-verified-same-as-steam-deck",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.684046"
-  },
-  {
-    "title": "Where to buy Apple's new MacBook Neo, MacBook Air, and MacBook Pro grab the most affordable MacBook, along with the latest M5 silicon refreshes, from these top stores",
-    "summary": "Apple's new slate of MacBook laptops has just been released, including the entry-level Neo, powered by the A18 Pro. Here's where to buy them all.",
-    "link": "https://www.tomshardware.com/laptops/macbooks/where-to-buy-apples-new-macbook-neo-macbook-air-and-macbook-pro-grab-the-most-affordable-macbook-along-with-the-latest-m5-silicon-refreshes-from-these-top-stores",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.684145"
-  },
-  {
-    "title": "Iran threatens Nvidia, Microsoft, other tech companies with strikes over alleged attack on Tehran bank says that economic centers and banks are now considered legitimate targets",
-    "summary": "Iranian media just released a list of potential economic targets, including offices and infrastructure of Nvidia, Google, Microsoft, Oracle, IBM, and more in the Middle East.",
-    "link": "https://www.tomshardware.com/tech-industry/iran-threatens-nvidia-microsoft-other-tech-companies-with-strikes-over-alleged-attack-on-tehran-bank-says-that-economic-centers-and-banks-are-now-considered-legitimate-targets",
+    "title": "RTX 5090 gets 12% gaming boost in Ubuntu 26.04, thanks to optimizations with Gnome 50 latest popular distro update brings significant performance uplift for Nvidia's top GPU",
+    "summary": "Phoronix tested Ubuntu 26.04 on an RTX 5090 and RTX 5080 and found that the new version performs up to 12% better on the 5090 compared to Ubuntu 25.10.",
+    "link": "https://www.tomshardware.com/software/linux/rtx-5090-gets-12-percent-gaming-boost-in-ubuntu-26-04-thanks-to-optimizations-with-gnome-50-latest-popular-distro-update-brings-significant-performance-uplift-for-nvidias-top-gpu",
     "categories": [
       "GPUs",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.684252"
+    "processed_date": "2026-03-13T09:23:04.479865"
   },
   {
-    "title": "IBM and Lam Research team up on High NA EUV dry resist to push chip scaling past 1nm",
-    "summary": "The two companies have worked together for more than a decade, with IBM unveiling what it described as the world's first 2nm node chip in 2021 as part of the partnership.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/ibm-and-lam-research-team-up-on-high-na-euv",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.684344"
-  },
-  {
-    "title": "Framework raises RAM prices for the third time in three months, SSD costs up company warns that it s running out of stock on some Intel processors as well",
-    "summary": "Framework increased RAM prices for the third consecutive month, while also announcing that it's hiking the costs of some of its SSDs.",
-    "link": "https://www.tomshardware.com/pc-components/dram/framework-raises-ram-prices-for-the-third-time-in-three-months-ssd-costs-up-company-warns-that-its-running-out-of-stock-on-some-intel-processors-as-well",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.684454"
-  },
-  {
-    "title": "Phison CEO says that NAND prices hiked by around 50% overnight, highlighting severe shortage in the industry warns 'our current concern is that both money and inventory are insufficient'",
-    "summary": "SSD controller manufacturer Phison said that NAND chip prices increased by around 50% overnight, and that it's increasing its inventory to ensure that it will have sufficient supply as it pivots towards enterprise customers.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/phison-ceo-says-that-nand-prices-hiked-by-around-50-percent-overnight-highlighting-severe-shortage-in-the-industry-warns-our-current-concern-is-that-both-money-and-inventory-are-insufficient",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.684563"
-  },
-  {
-    "title": "Intel announces Arrow Lake Refresh CPUs, claims 15% higher gaming performance and multi-threaded boost Core Ultra 7 270K and Core Ultra 5 250K come with more cores, faster memory, and a price cut",
-    "summary": "Intel is introducing two new Arrow Lake CPUs under the Core Ultra 200S Plus banner, while slashing prices and adding more E-cores. The Core Ultra 7 270K Plus and Core Ultra 5 250K Plus are said to offer 15% better gaming performance than standard Arrow Lake chips at 1080p.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-claims-arrow-lake-refresh-cpus-deliver-15-percent-higher-gaming-performance-and-multi-threaded-boost-core-ultra-7-270k-and-core-ultra-5-250k-come-with-more-cores-faster-memory-and-a-price-cut",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.684677"
-  },
-  {
-    "title": "HyperX Origins 2 65 Review: 8,000Hz and Customizable",
-    "summary": "The HyperX Origins 2 65 is a solid 65% mechanical keyboard that does an OK job at trying to implement the o-ring mount style.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/hyperx-origins-2-65-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.684776"
-  },
-  {
-    "title": "Asus chief says Macbook Neo's affordable pricing came as a shock to the entire PC market compares $599 notebook to a tablet and content-consumption device",
-    "summary": "Asus co-CEO S.Y. Hsu said that the MacBook Neo shook the entire PC market, but also said that it's mostly designed for content consumption because of its limited specifications.",
-    "link": "https://www.tomshardware.com/laptops/asus-chief-says-macbook-neos-affordable-pricing-came-as-a-shock-to-the-entire-pc-market-compares-usd599-notebook-to-a-tablet-and-content-consumption-device",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.684892"
-  },
-  {
-    "title": "Get 32GB of Kingston DDR5 for $261 when bundled with the new 9850X3D and an X870 motherboard get AMD's fastest gaming chip and the core of an AM5 build for less than $1,100",
-    "summary": "Get an AMD Ryzen 7 9850X3D, Asus ROG Strix X870E-H, and 32GB of Kingston Fury Beast RAM for $1,099 at Newegg.",
-    "link": "https://www.tomshardware.com/pc-components/get-32gb-of-kingston-ddr5-for-usd261-when-bundled-with-the-new-9850x3d-and-an-x870-motherboard-get-amds-fastest-gaming-chip-and-the-core-of-an-am5-build-for-less-than-usd1-100",
+    "title": "China firm Lisuan's homegrown 6nm G100 series GPUs announced with up to 12GB of VRAM LX 7G106 can play Cyberpunk 2077 and other popular Steam games, arrives June 18 in China",
+    "summary": "The G100 lineup from Lisuan Tech now has an official release date, with the LX G7106 being the gaming SKU with 12 GB of VRAM and a purported RTX 4060-like performance. The \"LX\" series of professional GPUs, likely using the G7105 silicon, were also revealed with three SKUs offering up to 24 GB of ECC VRAM.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/china-firm-lisuans-homegrown-6nm-g100-series-gpus-announced-with-up-to-12gb-of-vram-lx-7g106-can-play-cyberpunk-2077-and-other-popular-steam-games-arrives-june-18-in-china",
     "categories": [
       "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.684991"
-  },
-  {
-    "title": "Intel's Heracles chip computes fully-encrypted data without decrypting it chip is 1,074 to 5,547 times faster than a 24-core Intel Xeon in FHE math operations",
-    "summary": "Intel has revealed an 8192-way SIMD compute engine for fully homomorphic encryption math called Heracles. By operating directly on encrypted data, it has the potential to eliminate entire classes of attacks under some workloads.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/intels-heracles-chip-computes-fully-encrypted-data-without-decrypting-it-chip-is-1-074-to-5-547-times-faster-than-a-24-core-intel-xeon-in-fhe-math-operations",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.685092"
-  },
-  {
-    "title": "Hisense TVs force owners to watch intrusive ads when switching inputs, visiting the home screen, or even changing channels practice infuriates consumers, brand denies wrongdoing",
-    "summary": "HiSense is forcing some owners of its smart TVs to watch ads when switching channels or inputs or going to the home screen.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/hisense-tvs-force-owners-to-watch-intrusive-ads-when-switching-inputs-visiting-the-home-screen-or-even-changing-channels-practice-infuriates-consumers-brand-denies-wrongdoing",
-    "categories": [
       "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.685183"
-  },
-  {
-    "title": "Crafty AI tool caught repurposing its training GPUs for unauthorized crypto mining during testing experimental agent breached safety, controllability, and trustworthiness barriers",
-    "summary": "An experimental AI agent called ROME was caught indulging in unauthorized cryptocurrency mining.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/crafty-ai-tool-caught-repurposing-its-training-gpus-for-unauthorized-crypto-mining-during-testing-experimental-agent-breached-safety-controllability-and-trustworthiness-barriers",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.685278"
-  },
-  {
-    "title": "Ambitious semiconductor enthusiast builds DIY 'class 100 cleanroom' in his garden shed contains a plasma etcher, vacuum furnace, and even custom software-driven lithography machine",
-    "summary": "A TechTuber called Dr. Semiconductor has successfully created a Class 100 cleanroom (ISO 5) in his garden shed.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/ambitious-semiconductor-enthusiast-builds-diy-class-100-cleanroom-in-his-garden-shed-contains-a-plasma-etcher-vacuum-furnace-and-even-custom-software-driven-lithography-machine",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.685373"
-  },
-  {
-    "title": "Cancelled Blu-Ray recorder production leads to flood of orders for Panasonic after rivals exit market last supplier standing apologizes for delays as firm inundated with orders",
-    "summary": "Panasonic is struggling to keep up with orders for its flagship Blu-ray recorder system in Japan.",
-    "link": "https://www.tomshardware.com/pc-components/storage/cancelled-blu-ray-recorder-production-leads-to-flood-of-orders-for-panasonic-after-rivals-exit-market-last-supplier-standing-apologizes-for-delays-as-firm-inundated-with-orders",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.685476"
-  },
-  {
-    "title": "Rumored RTX 5050 9GB GDDR7 could make hay from recycled RTX 5060 silicon refreshed entry-level Blackwell card might finally have enough VRAM for DLSS and MFG in demanding games",
-    "summary": "Trusted hardware leaker kopite7kimi has released fresh rumors regarding Nvidia's purported GeForce RTX 5050 9GB GDDR7 graphics card.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/rumored-rtx-5050-9gb-gddr7-could-make-hay-from-recycled-rtx-5060-silicon-refreshed-entry-level-blackwell-card-might-finally-have-enough-vram-for-dlss-and-mfg-in-demanding-games",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.685576"
-  },
-  {
-    "title": "Human brain cells set to power two new data centers, thanks to 'body-in-the-box' CL1 Cortical Labs targets the AI energy crisis with biological computer that reportedly uses less energy than a calculator",
-    "summary": "Australian biotech company Cortical Labs has partnered with data center firm DayOne to establish two new data centers using its CL1 biological computers.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/human-brain-cells-set-to-power-two-new-data-centers-thanks-to-body-in-the-box-cl1-cortical-labs-targets-the-ai-energy-crisis-with-biological-computer-that-reportedly-uses-less-energy-than-a-calculator",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.685677"
-  },
-  {
-    "title": "Seagate CCO says storage price hikes are the new normal demand enters an unprecedented supercycle driven by AI growth",
-    "summary": "Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven by AI data center demand that shows no sign of following historical patterns of recovery.",
-    "link": "https://www.tomshardware.com/tech-industry/seagate-cco-says-memory-price-hikes-are-the-new-normal",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.685775"
-  },
-  {
-    "title": "This brilliant Hoto electric screwdriver is down to a record-low 28.48 right now 12-bit precision kit with USB-C charging is great for PC builds and DIY projects",
-    "summary": "Grab this impressive Hoto NEX O1 Pro mini electric screwdriver set with 12 bits at a record-low price",
-    "link": "https://www.tomshardware.com/desktops/pc-building/this-brilliant-hoto-electric-screwdriver-is-down-to-a-record-low-gbp28-48-in-the-amazon-uk-spring-sale-12-bit-precision-kit-with-usb-c-charging-is-great-for-pc-builds-and-diy-projects",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.686007"
-  },
-  {
-    "title": "COM HPC Mini-sized VersaLogic Raptor Embedded Processing Unit features 13th gen Intel Core i5-1345URE or Processor U300E SoC",
-    "summary": "VersaLogic Raptor (VL-EPU-5530) Embedded Processing Unit is powered by a 13th Gen Intel Core i5-1345URE or Processor U300E SoC and designed for high-performance computing applications in harsh environments with a -40 to +85 C temperature range and MIL-STD-202H shock and vibration qualification. The COM HPC Mini-sized (95 x 80 x 36mm) board supports up to 64 GB of soldered-down LPDDR5 memory, features vertical USB4, USB 3.0 Type-A, and mini DisplayPort connectors, two 2.5 Gbps Ethernet ports with TSN support, and three M.2 expansion sockets for NVMe SSDs, AI accelerators, or other expansion modules. Specifications: Raptor Lake SoC (one or the other) Intel Processor U300E 5-core/6-thread processor with 1x P-core @ 1.1 GHz / 4.3 GHz (Turbo) 4x E-cores up to 3.2 GHz (Turbo), 8MB Cache, 48EU Intel UHD Graphics up to 1.1 GHz; PBP: 15W Intel Core i5-1345URE 10-core/12-thread processor with 2x P-cores @ 1.4 GHz / 4.6 GHz (Turbo), 8x [...] The post COM HPC Mini-sized VersaLogic Raptor Embedded Processing Unit features 13th gen Intel Core i5-1345URE or Processor U300E SoC appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/12/com-hpc-mini-sized-versalogic-raptor-embedded-processing-unit-features-13th-gen-intel-core-i5-1345ure-or-processor-u300e-soc/",
-    "categories": [
-      "Hardware",
-      "GPUs"
     ],
     "quality_score": 15,
-    "processed_date": "2026-03-12T09:27:14.686276"
+    "processed_date": "2026-03-13T09:23:04.479987"
   },
   {
-    "title": "Turris Omnia NG Wired dual 10GbE, quad 2.5GbE router drops Wi-Fi for cost savings",
-    "summary": "Not everybody needs Wi-Fi in their router. That s why Turris has now introduced the Omnia NG Wired dual 10GbE, quad 2.5GbE router without built-in Wi-Fi 7 connectivity to reduce costs. The specifications are the same as those of the earlier Turris Omnia NG Wi-Fi 7 router introduced last November, and it still features two 10 Gbps Ethernet SFP+ cages and four 2.5GbE RJ45 ports, but Wi-Fi 7 (and 5G cellular) connectivity is optional. Turris Omnia NG Wired (RTROM04-NGW) specifications: SoC Qualcomm IPQ9574 (Networking Pro 820 Platform) quad-core Arm Cortex-A73 processor @ 2.2GHz Memory 2 GB RAM Storage 8 GB eMMC storage M.2 socket for NVMe SSD Display 240 240 px IPS color display Networking 2x 10 Gbps Ethernet SFP+ cages (WAN/LAN) 4x 2.5GbE RJ45 ports Optional WiFi 7 via upgrade kit Optional 4G LTE/5G cellular connectivity via mini PCIe slot and 2x SIM slots USB [...] The post Turris Omnia NG Wired dual 10GbE, quad 2.5GbE router drops Wi-Fi for cost savings appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/12/turris-omnia-ng-wired-dual-10gbe-quad-2-5gbe-router-drops-wi-fi-for-cost-savings/",
+    "title": "IBM and Lam's new partnership paves the way toward sub-1nm logic using High-NA EUV Albany lab to pioneer dry resist process integration",
+    "summary": "Under the new agreement, the focus will shift to validating full process flows for nanosheet and nanostack device architectures and backside power delivery.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/ibm-and-lam-team-up-on-high-na-euv",
     "categories": [
       "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.686439"
-  },
-  {
-    "title": "SolidRun P100 COM Express Type 6 module features LPCAMM2 memory, up to 12-core AMD Ryzen AI Embedded P185 SoC",
-    "summary": "We just reported that the AMD Ryzen AI Embedded P100 series has been expanded with six additional SKUs, and, timed with that, SolidRun has announced its new P100 COM Express Type 6 module family. These compact (95 x 95mm) modules are among the first to support the newly released 8- to 12-core Zen 5 SKUs, with up to 50 TOPS from the NPU and 80 TOPS of total system AI. Another fairly unique feature of the new SolidRun computer-on-module is support for LPCAMM2 LPDDR5X memory. The company uses a screw-lock mechanism to deliver high-bandwidth LPDDR5X performance (up to 9600 MT/s) while maintaining the mechanical reliability required for systems in motion, such as autonomous mobile robots (AMRs), heavy machinery, and rail systems. A mini-ITX development kit for the module is also available. SolidRun P100 COM Express Type 6 module SolidRun P100 COM Express Type 6 module specifications: AMD Ryzen AI Embedded P100 Series [...] The post SolidRun P100 COM Express Type 6 module features LPCAMM2 memory, up to 12-core AMD Ryzen AI Embedded P185 SoC appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/12/solidrun-p100-com-express-type-6-module-features-lpcamm2-memory-up-to-12-core-amd-ryzen-ai-embedded-p185-soc/",
-    "categories": [
-      "Hardware",
       "Tech News"
     ],
-    "quality_score": 30,
-    "processed_date": "2026-03-12T09:27:14.686618"
-  },
-  {
-    "title": "Blues Notecard for Skylo IoT module offers 5G NTN satellite, NB-IoT/LTE-M cellular, WiFi, and GNSS connectivity",
-    "summary": "Blues Notecard for Skylo is an IoT module combining subscription-free 5G NTN satellite, NB-IoT or LTE-M cellular, WiFi, and GNSS connectivity for asset tracking applications in transportation and logistics, energy, and commercial equipment. provides an all-in-one satellite IoT solution that doesn t require additional hardware or a satellite subscription contract. By default, the module connects over WiFi and switches to cellular when out of range. It only falls back to pay-as-you-go Skylo satellite connectivity when neither WiFi nor cellular connectivity is available, and ensures IoT connectivity at most times. Blues Notecard for Skylo (NOTE-NBGLWX) specifications: Modem Quectel BG95-S5 NTN satellite + LTE IoT communication module Data Networks LTE-M, NB-IoT, GPRS, Skylo SIM card Embedded MFF2 SIM, external SIM switch Data included Cellular: 500MB valid for 10 years Skylo: 10KB; enough to send 1 message a day for 6 months. Additional data is priced at $0.00075 per byte, with [...] The post Blues Notecard for Skylo IoT module offers 5G NTN satellite, NB-IoT/LTE-M cellular, WiFi, and GNSS connectivity appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/11/blues-notecard-for-skylo-iot-module-offers-5g-ntn-satellite-nb-iot-lte-m-cellular-wifi-and-gnss-connectivity/",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.686817"
+    "processed_date": "2026-03-13T09:23:04.480094"
   },
   {
-    "title": "Watch! Edge sensor fusion comes on fast in SoCs, new products",
-    "summary": "Embedded World 2026 features companies making sensors critical in edge apps with AI",
-    "link": "https://www.fiercesensors.com/sensors/watch-edge-sensor-fusion-comes-fast-socs-new-products",
+    "title": "Apple s brand new M5 MacBook Air and MacBook Pro models are already discounted on Amazon shave $50 off nearly the entire 2026 lineup",
+    "summary": "Although the savings are modest, Amazon s $50 discount across most of the 2026 MacBook lineup makes these newly launched laptops slightly cheaper than buying directly from Apple.",
+    "link": "https://www.tomshardware.com/pc-components/apples-brand-new-m5-macbook-air-and-macbook-pro-models-are-already-discounted-on-amazon-shave-usd50-off-nearly-the-entire-2026-lineup",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 0,
-    "processed_date": "2026-03-12T09:27:14.687768"
+    "processed_date": "2026-03-13T09:23:04.480201"
   },
   {
-    "title": "Intel launches Core Ultra 270K Plus and 250K Plus to revive its desktop gaming push",
-    "summary": "These chips arrive as Intel navigates a rocky recent history in the high-end desktop space. Past generations faced thermal woes and instability, the latest Arrow Lake entry stumbled on frame rates. With the Core Ultra 7 270K Plus and Core Ultra 5 250K Plus, Intel is now claiming the title... Read Entire Article",
-    "link": "https://www.techspot.com/news/111652-intel-launches-core-ultra-270k-plus-250k-plus.html",
+    "title": "Keychron Q16 HE 8K Review: All-ceramic, but not all good",
+    "summary": "The Keychron Q16 HE 8K is an all-ceramic keyboard with an 8K polling rate, but it doesn't feel as premium as the price suggests.",
+    "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-q16-he-8k-review",
     "categories": [
       "Hardware",
-      "GPUs"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.688200"
+    "processed_date": "2026-03-13T09:23:04.480306"
   },
   {
-    "title": "Next-gen Xbox sounds a lot like a PC with an Xbox UI and AMD's FSR Diamond",
-    "summary": "After sharing the first basic details about its next Xbox console earlier this month, Microsoft has revealed more about the platform's technology this week at the Game Developers Conference. The company confirmed that \"Project Helix\" will focus on neural rendering, advanced ray tracing, and closer interoperability with Windows PCs. Read Entire Article",
-    "link": "https://www.techspot.com/news/111651-next-gen-xbox-sounds-lot-like-pc-xbox.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.688332"
-  },
-  {
-    "title": "A microscope reveals the ghost of analog video hidden inside a LaserDisc",
-    "summary": "Jueden's experiment began by accident. While using a low-cost digital microscope to inspect electronics, he turned it toward a LaserDisc out of curiosity. Under magnification, faint but recognizable images began to emerge proof that LaserDisc's analog encoding could still be decoded visually without a player, just by analyzing the... Read Entire Article",
-    "link": "https://www.techspot.com/news/111646-microscope-reveals-ghost-analog-video-hidden-inside-laserdisc.html",
+    "title": "Iran hacking group claims attack on med-tech company Stryker says over 200,000 devices have been wiped clean and over 50TB of data extracted",
+    "summary": "Stryker, a Fortune 500 medical technology company, has been hit with a massive cyberattack that allegedly saw over 200,000 devices wiped clean, affecting employees and operations across the globe.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/iran-hacking-group-claims-attack-on-med-tech-company-stryker-says-over-200-000-devices-have-been-wiped-clean-and-over-50tb-of-data-extracted",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.688474"
+    "processed_date": "2026-03-13T09:23:04.480427"
   },
   {
-    "title": "Asus co-CEO calls MacBook Neo a \"shock\" to the Windows PC industry",
-    "summary": "Apple launched the MacBook Neo last week, positioning it as the most affordable laptop the company has ever built. Starting at $600 (or $500 for students), the device targets users looking for a lightweight, agile computing machine. Its unusually low price, by Apple standards, could quickly become a source of... Read Entire Article",
-    "link": "https://www.techspot.com/news/111649-asus-co-ceo-calls-macbook-neo-shock-windows.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.688582"
-  },
-  {
-    "title": "Tech hiring evolves as candidates ask for AI compute alongside pay and perks",
-    "summary": "Inference has quietly become one of the most valuable resources inside software companies. Once just a line buried in cloud bills, it is now treated as a unit of power one that can determine how fast engineers build products and which experiments actually get off the ground. Read Entire Article",
-    "link": "https://www.techspot.com/news/111641-tech-hiring-evolves-candidates-ask-ai-compute-alongside.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.688686"
-  },
-  {
-    "title": "Galaxy S26 Ultra reviewed: Better cameras, Privacy Display, same price",
-    "summary": "The Galaxy S26 Ultra is Samsung refining rather than reinventing its flagship formula. Reviewers are positive about the excellent cameras, a Snapdragon processor that benchmarks neck-and-neck with Apple's latest, and the standout Privacy Display. Faster charging, improved low-light photography, and Super Steady video round out an update that moves the needle without raising the price. Read Entire Article",
-    "link": "https://www.techspot.com/products/smartphones/samsung-galaxy-s26-ultra.321794/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-12T09:27:14.688799"
-  },
-  {
-    "title": "Oracle is spending billions on AI data centers as cash flow turns negative",
-    "summary": "Despite operating in a different league than traditional Big Tech giants, Oracle has heavily invested in the AI-driven future of computing and cloud services. The Austin-based company has committed billions to build massive data centers, but recent rumors suggest that this ambitious strategy could be at risk, signaling potential trouble... Read Entire Article",
-    "link": "https://www.techspot.com/news/111633-outdated-ai-systems-debt-burden-threaten-oracle-growth.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.688902"
-  },
-  {
-    "title": "A foreign hacker unknowingly breached FBI servers tied to the Epstein investigation",
-    "summary": "According to Department of Justice documents reviewed by Reuters, servers at the FBI's New York field office were compromised on February 12, 2023, by a foreign national after they were inadvertently left vulnerable by Special Agent Aaron Spivack, who was navigating the agency's complex procedures for handling digital evidence. Read Entire Article",
-    "link": "https://www.techspot.com/news/111644-foreign-hacker-unknowingly-accessed-epstein-files-fbi-servers.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.689007"
-  },
-  {
-    "title": "This gaming mouse splits in two and becomes a Joy-Con-style controller",
-    "summary": "Called Phase, the device is startup Pixelpaw Labs' first product. It's being advertised as bridging the gap between a mouse, a controller, and a mobile gamepad. Read Entire Article",
-    "link": "https://www.techspot.com/news/111645-pixelpaw-labs-phase-gaming-mouse-turns-joy-con.html",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.689099"
-  },
-  {
-    "title": "Inspector general investigates claim DOGE engineer copied Social Security databases to thumb drive",
-    "summary": "The complaint has also been reviewed by The Washington Post, which interviewed the whistleblower, who filed anonymously out of fear of retaliation. Read Entire Article",
-    "link": "https://www.techspot.com/news/111639-inspector-general-investigates-claim-doge-engineer-copied-social.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-12T09:27:14.689194"
-  },
-  {
-    "title": "DIY chip lab turns backyard shed into Class 100 cleanroom with custom lithography system",
-    "summary": "The YouTube channel, appropriately named Dr. Semiconductor, recently posted a video showing off the DIY lab, which was built to handle at least some of the early processes involved in chipmaking. Read Entire Article",
-    "link": "https://www.techspot.com/news/111643-backyard-shed-becomes-class-100-cleanroom-lithography-machine.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.689288"
-  },
-  {
-    "title": "Nexperia China begins making its own chips after split with Dutch parent",
-    "summary": "The chips include bipolar discrete devices, Schottky rectifiers, and electrostatic discharge protection components relatively simple but essential parts in vehicle electronics and consumer devices. Read Entire Article",
-    "link": "https://www.techspot.com/news/111638-nexperia-china-begins-making-own-chips-after-split.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.689382"
-  },
-  {
-    "title": "Crimson Desert hits 4K 60fps with ultra settings, ray tracing, and no upscaling on a Radeon 9070 XT or GeForce 5070 Ti",
-    "summary": "Pearl Abyss recently released detailed system requirements and performance spec sheets for Crimson Desert on desktop PCs, handheld PCs, Apple devices, and consoles. The company's internal testing suggests that achieving 60 frames per second with ray tracing enabled will not require the latest high-end graphics cards. Read Entire Article",
-    "link": "https://www.techspot.com/news/111635-crimson-desert-hits-4k-60fps-ultra-settings-ray.html",
+    "title": "Save $800 on this MSI desktop with RTX 5070, 2TB SSD, and 32GB of RAM get an Intel Core Ultra 265K gaming rig for just $1,899",
+    "summary": "Get a $1,899 gaming PC with RTX 5070, 2TB SSD, and 32GB of RAM.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd800-on-this-msi-desktop-with-rtx-5070-2tb-ssd-and-32gb-of-ram-get-an-intel-core-ultra-265k-gaming-rig-for-just-usd1-899",
     "categories": [
       "GPUs",
       "Hardware"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-03-12T09:27:14.689520"
+    "quality_score": 0,
+    "processed_date": "2026-03-13T09:23:04.480524"
   },
   {
-    "title": "Intel rolls out XeSS 3.0 with multi-frame generation, but it's still locked to Windows",
-    "summary": "The SDK introduces a substantial technical leap in multi-frame generation (MFG). By inserting up to three AI-generated frames, MFG can boost performance by up to 4x, rivaling Nvidia's DLSS frame generation. The new model uses data from surrounding frames to predict smoother motion and reduce blur or ghosting, making fast-moving... Read Entire Article",
-    "link": "https://www.techspot.com/news/111637-intel-rolls-out-xess-30-multi-frame-generation.html",
+    "title": "Acer Swift 16 AI Review: A Premium contender with a curious twist",
+    "summary": "Acer s Swift 16 AI blends a premium design, an OLED screen, and the latest Intel silicon, though its massive haptic touchpad isn t the selling point it s made out to be.",
+    "link": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/acer-swift-16-ai-review-appremium-contender-with-a-curious-twist",
     "categories": [
       "AI & ML",
-      "GPUs"
+      "Hardware"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-03-12T09:27:14.689630"
+    "quality_score": 10,
+    "processed_date": "2026-03-13T09:23:04.480620"
   },
   {
-    "title": "That Doom-running, human brain cell-powered computer is headed for data centers",
-    "summary": "Cortical Labs made plenty of headlines last month when its latest hardware platform, the CL1, which uses living human neurons as the core of a fully functioning computer, was demonstrated running Doom. Read Entire Article",
-    "link": "https://www.techspot.com/news/111642-doom-running-human-brain-cell-powered-computer-headed.html",
+    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock SK hynix forced to diversify after 30% of global supply removed from the market",
+    "summary": "QatarEnergy has not restarted helium production at its Ras Laffan complex nine days after Iranian drone strikes forced the facility offline.",
+    "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-13T09:23:04.480732"
+  },
+  {
+    "title": "Meta reveals four new MTIA chips built for AI inference to be released on a six-month cadence",
+    "summary": "All four chips have been developed in partnership with Broadcom and are scheduled for deployment within the next two years.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/meta-reveals-four-new-mtia-chips-built-for-ai-inference",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-13T09:23:04.480828"
+  },
+  {
+    "title": "Retailer denies memory replacement due to 4x increase in DDR5 pricing, says price increase would equate to an 'upgrade' for the customer Australian retailer refuses to replace faulty Corsair kit",
+    "summary": "Australian retailer refused to exchange a RAM kit under warranty and instead told the customer they needed to pay the difference in price.",
+    "link": "https://www.tomshardware.com/pc-components/ddr5/retailer-denies-memory-return-due-to-4x-increase-in-ddr5-pricing-says-price-increase-would-mean-an-upgrade-for-the-customer-australian-retailer-refuses-to-replace-faulty-corsair-kit",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-13T09:23:04.480934"
+  },
+  {
+    "title": "Discovery Drive An ESP32-S3-based azimuth/elevation rotator for satellite dishes and SDR antennas (Crowdfunding)",
+    "summary": "KrakenRF, the team behind the KrakenSDR, has designed the Discovery Drive ESP32-S3-based, low-cost, fully weatherproof, automatic azimuth/elevation (Az/El) antenna rotator for their Discovery Dish or other directional antennas, such as Yagis and Wi-Fi grids, weighing up to 5kg. Compared to DIY projects like SatNOGS (which require 3D printing and hardware sourcing), the Discovery Drive is designed as a plug-and-play solution. You can simply mount it to a mast, attach the dish, connect to 12V power and Wi-Fi, and use its web UI to start tracking polar-orbiting weather satellites (like METEOR-M2 or FENGYUN), CubeSats, or amateur radio satellites. KrakenRF Discovery Drive specifications: Controller Espressif Systems ESP32-S3-based control board Connectivity 2.4 GHz 802.11 b/g/n Wi-Fi 4 (via ESP32) with external antenna Motor and Rotation Torque Up to 125 kg cm (12.25 Nm); supports antenna payloads up to 5 kg Azimuth Range -360 to +360 Elevation Range 0 to [...] The post Discovery Drive An ESP32-S3-based azimuth/elevation rotator for satellite dishes and SDR antennas (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/13/discovery-drive-esp32-s3-based-azimuth-elevation-rotator-for-satellite-dishes-and-sdr-antennas/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-13T09:23:04.481481"
+  },
+  {
+    "title": "ST ST64UWB Cortex-M85 ultra-wideband SoC supports IEEE 802.15.4z and 802.15.4ab UWB standards, radar sensing",
+    "summary": "STMicroelectronics ST64UWB Arm Cortex-M85 ultra-wideband (UWB) SoC family supports both the current IEEE 802.15.4z and the upcoming IEEE 802.15.4ab UWB standards for longer-range, more reliable positioning and secure proximity-based interactions. It mainly targets digital car keys, hands-free access, and smart-device detection. The family includes the ST64UWB-A100 (automotive entry), ST64UWB-A500 (automotive premium), and ST64UWB-C100 (industrial/smart home), all built on an 18 nm FD-SOI process that improves the RF link budget by ~3 dB, yielding roughly 50% additional range beyond what IEEE 802.15.4ab alone provides. The automotive-focused A-series offers ASIL-A(B) safety support, while the ST64UWB-C100 targets consumer and commercial applications. ST64UWB family specifications: MCU Core 32-bit Arm Cortex-M85 CPU with DP-FPU, MVE, and ETM Frequency Up to 100 MHz (ST64UWB-C100, ST64UWB-A100) Up to 256 MHz (ST64UWB-A500) Memory/Storage Integrated PCM Memory SRAM and Back-up SRAM Wireless Connectivity Ultra-wideband (UWB) Radio IEEE 802.15.4z-2020 and IEEE 802.15.4ab support UWB channels 5, 6, 8, 9, 10, [...] The post ST ST64UWB Cortex-M85 ultra-wideband SoC supports IEEE 802.15.4z and 802.15.4ab UWB standards, radar sensing appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/13/st-st64uwb-cortex-m85-ultra-wideband-soc-supports-ieee-802-15-4z-and-802-15-4ab-uwb-standards-radar-sensing/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-13T09:23:04.481659"
+  },
+  {
+    "title": "MediaTek unveils 50 TOPS Genio Pro 5100 Cortex-X925/X4/A720 SoC, 7.2 TOPS Genio 420 Cortex-A78/A55 SoC for AIoT applications",
+    "summary": "After launching the Genio 360/360P hexa/octa-core SoCs last month, MediaTek has now expanded the lineup with the Genio Pro 5100 and Genio 420 AIoT SoCs at Embedded World 2026. The Genio Pro 5100 is a 3nm SoC with an all big-core architecture and a 50+ TOPS NPU for Edge AI applications. The Genio 420, on the other hand, is a cost-efficient 6nm platform designed for smart home, retail, and industrial IoT devices. MediaTek Genio Pro 5100 The Genio Pro 5100 integrates one Cortex-X925, three Cortex-X4, and four Cortex-A720 cores, as well as an Arm Immortalis-G925 GPU, and supports LPDDR5X memory up to 8533 Mbps. It can handle up to three 4K displays, up to 16 cameras via virtual channels, and 8K30 video encode/decode, and offers interfaces such as PCIe Gen4, USB 3.2 Gen2, USB 2.0, and dual 2.5GbE MAC. Genio Pro 5100 (MT8894) specifications: CPU 8-core Arm v9.2 processor [...] The post MediaTek unveils 50 TOPS Genio Pro 5100 Cortex-X925/X4/A720 SoC, 7.2 TOPS Genio 420 Cortex-A78/A55 SoC for AIoT applications appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/12/mediatek-50-tops-genio-pro-5100-cortex-x925-x4-a720-soc-7-2-tops-genio-420-cortex-a78-a55-soc-for-aiot-applications/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-13T09:23:04.481823"
+  },
+  {
+    "title": "Qualcomm X105 6G-ready 5G modem to deliver 14.8 Gbps download and 4.2 Gbps upload peak data speeds",
+    "summary": "Qualcomm X105 is the world s first 3GPP Release 19-ready modem-RF system supporting 5G connectivity up to 14.8 Gbps download and 4.2 Gbps upload peak data speeds, and enabling 6G development and testing. Other Qualcomm X105 highlights include a 6nm RF transceiver with 30% lower power consumption and 15% smaller board footprint compared to the Qualcomm X85 5G modem, support for quad-band GNSS, an integrated NR-NTN for video, data and voice over satellite, and a fifth-generation AI processor leveraging agentic AI to detect, classify, and optimize data traffic for mobile gaming, video calling, and social media. Qualcomm X105 Modem-RF system specifications: Peak speeds Download 14.8 Gbps (FR1 + FR2), 13.1 Gbps (FR1) Upload 4.2 Gbps Downlink Carrier Aggregation: 6F+T CA (500MHz) with 1024 QAM TDD/FDD with 1024 QAM Turbo DSDA enhancements, including Multi-SIM CA support (up to 60% higher throughput) 3rd-gen 6Rx for smartphones and FWA CPEs (with 10% [...] The post Qualcomm X105 6G-ready 5G modem to deliver 14.8 Gbps download and 4.2 Gbps upload peak data speeds appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/12/qualcomm-x105-6g-ready-5g-modem-to-deliver-14-8-gbps-download-and-4-2-gbps-upload-peak-data-speeds/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-13T09:23:04.481986"
+  },
+  {
+    "title": "Qualcomm s Wear Elite diagram shows sensors at chip's heart",
+    "summary": "With the Snapdragon Wear Elite chip, Qualcomm has described the ability to support 50 sensors.",
+    "link": "https://www.fiercesensors.com/sensors/qualcomms-wear-elite-diagram-shows-sensors-chips-heart",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-13T09:23:04.482918"
+  },
+  {
+    "title": "DR-DOS is coming back from the dead, rebuilt from scratch in pure assembly",
+    "summary": "A one-man company named Whitehorn Ltd. Co. recently announced that DR-DOS is coming back. The \"new\" text-based operating system has a proper website now, and claims to be carrying forward the legacy of Gary Kildall, whose work helped shape early personal computing. Kildall founded Digital Research in 1974, creating the... Read Entire Article",
+    "link": "https://www.techspot.com/news/111667-dr-dos-coming-back-dead-rebuilt-scratch-pure.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-13T09:23:04.483332"
+  },
+  {
+    "title": "Oracle prepares new round of layoffs while doubling down on AI infrastructure",
+    "summary": "The expanded fund, disclosed in a filing with the US Securities and Exchange Commission following Oracle's quarterly earnings report, has heightened concerns that the company's restructuring will carry a significant human cost. Oracle has spent roughly $982 million of the budget so far, largely on severance, leaving about $1.1 billion in restructuring... Read Entire Article",
+    "link": "https://www.techspot.com/news/111661-oracle-prepares-new-round-layoffs-while-doubling-down.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-13T09:23:04.483526"
+  },
+  {
+    "title": "Game devs cash in: Nearly 6,000 Steam games earned over $100,000 last year",
+    "summary": "Speaking to reporters and developers on the sidelines of GDC, Valve's Tom Giardino noted that only around 3,000 titles earned over $100,000 at the height of the pandemic in 2020, when many people were spending their time indoors playing video games and consuming online content. Read Entire Article",
+    "link": "https://www.techspot.com/news/111663-game-developers-cash-steam-sees-5863-titles-earn.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-13T09:23:04.483680"
+  },
+  {
+    "title": "Samsung's glasses-free 3D gaming monitor is getting more games",
+    "summary": "Samsung's Odyssey 3D monitor offers enthusiasts a renewed way to enjoy 3D gaming experiences. At the GDC Festival of Gaming 2026, the Korean company announced a major expansion of the gaming content available for the Odyssey 3D ecosystem. Read Entire Article",
+    "link": "https://www.techspot.com/news/111650-samsung-glasses-free-3d-gaming-monitor-getting-more.html",
+    "categories": [
+      "Tech News",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-13T09:23:04.483835"
+  },
+  {
+    "title": "Valve says its loot boxes are more like trading cards than gambling",
+    "summary": "New York Attorney General Letitia James sued Valve in February, arguing that mystery boxes in Counter-Strike 2, Dota 2, and Team Fortress 2 constitute \"quintessential gambling\" because players pay for a chance to obtain rare cosmetic items that can carry significant monetary value and be traded for real money. Read Entire Article",
+    "link": "https://www.techspot.com/news/111659-valve-loot-boxes-more-like-trading-cards-than.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-13T09:23:04.483994"
+  },
+  {
+    "title": "It's come to this: V-Color to launch 1+1 DDR5 value pack with one RAM stick and one filler module",
+    "summary": "Fake memory kits that are used to fill empty DIMM slots have been around for a long time now, though V-Color's value pack is pretty unusual. Read Entire Article",
+    "link": "https://www.techspot.com/news/111665-come-v-color-launch-11-ddr5-value-pack.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-13T09:23:04.484153"
+  },
+  {
+    "title": "Valve details performance targets for Steam Machine and Steam Frame",
+    "summary": "Unsurprisingly, Steam Machine verification requirements will be more lenient than those for the Steam Deck, since the Machine is expected to provide roughly six times more performance headroom. Meanwhile, verification requirements for locally installed games on the Steam Frame will be stricter. Read Entire Article",
+    "link": "https://www.techspot.com/news/111656-valve-outlines-steam-machine-steam-frame-verification-requirements.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-13T09:23:04.484310"
+  },
+  {
+    "title": "Fortnite \"Save the World\" mode will return as a free-to-play game in 2026",
+    "summary": "Originally unveiled in 2011 and released after years of redesign and delay in 2017, Save the World was Fortnite long before \"dropping from the battle bus\" entered gaming vocabulary. It was built as a four-player PvE (player-versus-environment) action-building title a blend of base construction, resource gathering, and combat against AI-controlled enemies. Read Entire Article",
+    "link": "https://www.techspot.com/news/111657-fortnite-original-save-world-mode-return-free-play.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-13T09:23:04.484498"
+  },
+  {
+    "title": "Hisense TVs caught showing non-skippable ads when changing inputs or channels",
+    "summary": "The same behavior has been documented on models running Hisense's own VIDAA operating system now rebranded Home OS which also powers TVs sold under brands including Akai, Schneider, and Loewe. Initially dismissed as isolated reports, the issue appears to have persisted for at least a few years. One... Read Entire Article",
+    "link": "https://www.techspot.com/news/111653-hisense-tvs-caught-showing-non-skippable-ads-when.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-13T09:23:04.484672"
+  },
+  {
+    "title": "Windows 11 \"Xbox Mode\" UI coming to all PCs in April",
+    "summary": "The Windows full-screen experience, now called \"Xbox Mode,\" will exit beta next month in select territories. The new interface, which enables users to launch PC games and other apps using only a controller, debuted last year on the Asus ROG Xbox Ally and will soon be available on all Windows... Read Entire Article",
+    "link": "https://www.techspot.com/news/111654-windows-11-xbox-mode-ui-coming-all-pcs.html",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-13T09:23:04.484854"
+  },
+  {
+    "title": "These Wall-E-like robots are making Texas sidewalks safer",
+    "summary": "Residents in the city of Burleson, Texas, are the first to see the Wall-E-like Daxbots trundling around their neighborhoods. Read Entire Article",
+    "link": "https://www.techspot.com/news/111662-wall-e-like-robots-making-texas-sidewalks-safer.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-13T09:23:04.484993"
+  },
+  {
+    "title": "OS/2 isn't dead: ArcaOS update brings the 1980s-era OS to modern UEFI PCs",
+    "summary": "A quarter of a century after IBM released the last official version of OS/2, someone is still keeping the platform alive under the ArcaOS name. Arca Noae is now the only company licensing OS/2 technology from IBM, after Serenity Systems' eComStation project disappeared around 14 years ago. Read Entire Article",
+    "link": "https://www.techspot.com/news/111647-os2-isnt-dead-arcaos-update-brings-1980s-era.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-13T09:23:04.485154"
+  },
+  {
+    "title": "YouTube expands unskippable 30-second ads to TVs after $40 billion revenue year",
+    "summary": "The next phase of Google's strategy is unskippable, 30-second commercials on YouTube's TV app. The move nods directly to the legacy television experience YouTube has steadily displaced: longer, linear-style spots meant to capture viewers who now stream the platform's content from their couches instead of their phones. Read Entire Article",
+    "link": "https://www.techspot.com/news/111655-youtube-expands-unskippable-30-second-ads-tvs-after.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-13T09:23:04.485311"
+  },
+  {
+    "title": "Google brings new PC-focused features to the Play Store, including \"play anywhere\"",
+    "summary": "In a developer post titled \"Expanding our stage for PC and paid titles,\" Google revealed a slew of new features many of them PC-focused coming to the Play Store. Read Entire Article",
+    "link": "https://www.techspot.com/news/111660-google-brings-new-pc-focused-features-play-store.html",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.689734"
+    "processed_date": "2026-03-13T09:23:04.485482"
   },
   {
-    "title": "Court says continued use of tracking app counts as consent, even if users never read the new TOS",
-    "summary": "The case stems from a 2023 class-action lawsuit accusing Tile, its parent Life360, and Amazon of negligence for allegedly failing to design effective protections against stalking and other misuse of Tile's quarter-sized Bluetooth tags. Read Entire Article",
-    "link": "https://www.techspot.com/news/111636-court-continued-use-tracking-app-counts-consent-even.html",
+    "title": "DLSS vs FSR vs XeSS: Game Support Across 650+ Titles",
+    "summary": "We analyze over 650 PC games to compare DLSS, FSR, and XeSS support to reveal how far Nvidia, AMD, and Intel really are from each other in upscaling and frame generation adoption. Read Entire Article",
+    "link": "https://www.techspot.com/article/3093-dlss-vs-fsr-vs-xess-game-support/",
     "categories": [
-      "AI & ML"
+      "GPUs",
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.689835"
-  },
-  {
-    "title": "Tech worker confidence falls faster than any other industry, survey finds",
-    "summary": "Glassdoor's Employee Confidence Index surveys US workers to discover how many feel positive about their companies' six-month outlooks. Read Entire Article",
-    "link": "https://www.techspot.com/news/111640-tech-worker-confidence-falls-faster-than-any-other.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-12T09:27:14.689922"
+    "processed_date": "2026-03-13T09:23:04.485629"
   }
 ]

@@ -1,105 +1,75 @@
 # ⚡ Semiconductors
-**Week of March 12, 2026**
+**Week of March 13, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-03-12 09:28
+- **Articles this week:** 6
+- **Report generated:** 2026-03-13 09:24
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. IBM and Lam Research team up on High NA EUV dry resist to push chip scaling past 1nm 
+### 1. MediaTek unveils 50 TOPS Genio Pro 5100 Cortex-X925/X4/A720 SoC, 7.2 TOPS Genio 420 Cortex-A78/A55 SoC for AIoT applications ⭐
 
-IBM and Lam Research partner to develop a high-NA EUV dry resist, enabling further chip scaling beyond 1nm node. This collaboration marks their 10+ years of work together, with notable achievements such as IBM's 2nm node chip in 2021. Their joint effort aims to drive innovation in semiconductor technology.
+MediaTek has unveiled two new SoCs, the Genio Pro 5100 and Genio 420, designed for AIoT applications. The Genio Pro 5100 features a 3nm all big-core architecture and 50+ TOPS NPU, supporting Edge AI. The Genio 420 is a cost-efficient 6nm platform for smart home and industrial IoT devices.
 
-💡 *Advancing chip scaling to push Moore's Law limits*
+💡 *Advancements in AIoT capabilities drive growth in smart home and industrial applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/ibm-and-lam-research-team-up-on-high-na-euv)
-
----
-
-### 2. Turris Omnia NG Wired dual 10GbE, quad 2.5GbE router drops Wi-Fi for cost savings 
-
-Turris releases a Wi-Fi-free variant of its Omnia NG router, targeting cost-conscious users. The Omnia NG Wired retains the same specifications as the Wi-Fi enabled model but omits the built-in Wi-Fi 7 connectivity. This move allows users to add Wi-Fi and cellular connectivity through optional upgrade kits.
-
-💡 *Cost savings without compromising performance or functionality options.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/12/turris-omnia-ng-wired-dual-10gbe-quad-2-5gbe-router-drops-wi-fi-for-cost-savings/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/12/mediatek-50-tops-genio-pro-5100-cortex-x925-x4-a720-soc-7-2-tops-genio-420-cortex-a78-a55-soc-for-aiot-applications/)
 
 ---
 
-### 3. Blues Notecard for Skylo IoT module offers 5G NTN satellite, NB-IoT/LTE-M cellular, WiFi, and GNSS connectivity 
+### 2. Qualcomm X105 6G-ready 5G modem to deliver 14.8 Gbps download and 4.2 Gbps upload peak data speeds ⭐
 
-The Blues Notecard for Skylo offers an all-in-one satellite IoT solution combining 5G NTN satellite, NB-IoT/LTE-M cellular, WiFi, and GNSS connectivity for asset tracking applications. It connects over WiFi by default, switching to cellular when out of range, and falls back to pay-as-you-go Skylo satellite connectivity when neither WiFi nor cellular is available.
+Qualcomm X105 is a 5G modem that supports peak data speeds of 14.8 Gbps download and 4.2 Gbps upload. It's also 6G-ready and features a 6nm RF transceiver, quad-band GNSS, and an AI processor for optimized data traffic. The modem enables development and testing for 6G connectivity.
 
-💡 *Enabling IoT connectivity in remote areas with minimal data costs.*
+💡 *Advancements in 5G modems pave way for 6G breakthroughs*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/11/blues-notecard-for-skylo-iot-module-offers-5g-ntn-satellite-nb-iot-lte-m-cellular-wifi-and-gnss-connectivity/)
-
----
-
-### 4. OpenClaw AI agent craze sweeps China as authorities seek to clamp down amid security fears adoption surges as state-run enterprises are barred from use 
-
-China's authorities have warned against OpenClaw AI adoption due to security concerns. State-run enterprises are barred from using the tool, while its adoption continues to surge in the country. The move aims to mitigate potential risks associated with the AI agent.
-
-💡 *Rapid AI adoption raises security concerns for Chinese authorities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-ai-agent-craze-sweeps-china-as-authorities-seek-to-clamp-down-amid-security-fears-adoption-surges-as-state-run-enterprises-are-barred-from-use)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/12/qualcomm-x105-6g-ready-5g-modem-to-deliver-14-8-gbps-download-and-4-2-gbps-upload-peak-data-speeds/)
 
 ---
 
-### 5. Phison CEO says that NAND prices hiked by around 50% overnight, highlighting severe shortage in the industry warns 'our current concern is that both money and inventory are insufficient' 
+### 3. IBM and Lam's new partnership paves the way toward sub-1nm logic using High-NA EUV Albany lab to pioneer dry resist process integration 
 
-Phison reports a 50% overnight increase in NAND chip prices, citing a severe industry shortage. The company is responding by increasing its inventory to meet demand, particularly from enterprise customers. This move aims to ensure a stable supply chain.
+IBM and Lam partnered to develop sub-1nm logic using EUV Albany lab. The partnership aims to integrate dry resist process for nanosheet and nanostack architectures. Backside power delivery validation is also a key focus.
 
-💡 *Severe NAND chip shortage drives price hike and supply chain uncertainty.*
+💡 *Advances in sub-1nm logic may lead to significant computing breakthroughs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/phison-ceo-says-that-nand-prices-hiked-by-around-50-percent-overnight-highlighting-severe-shortage-in-the-industry-warns-our-current-concern-is-that-both-money-and-inventory-are-insufficient)
-
----
-
-### 6. Intel's Heracles chip computes fully-encrypted data without decrypting it chip is 1,074 to 5,547 times faster than a 24-core Intel Xeon in FHE math operations 
-
-Intel's Heracles chip computes fully-encrypted data without decrypting it, significantly improving performance.
-
-💡 *Protecting sensitive data from unauthorized access while maintaining processing efficiency.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/intels-heracles-chip-computes-fully-encrypted-data-without-decrypting-it-chip-is-1-074-to-5-547-times-faster-than-a-24-core-intel-xeon-in-fhe-math-operations)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/ibm-and-lam-team-up-on-high-na-euv)
 
 ---
 
-### 7. Ambitious semiconductor enthusiast builds DIY 'class 100 cleanroom' in his garden shed contains a plasma etcher, vacuum furnace, and even custom software-driven lithography machine 
+### 4. ST ST64UWB Cortex-M85 ultra-wideband SoC supports IEEE 802.15.4z and 802.15.4ab UWB standards, radar sensing 
 
-Dr. Semiconductor, a tech enthusiast, built a Class 100 cleanroom (ISO 5) in his garden shed, featuring advanced semiconductor fabrication tools such as a plasma etcher, vacuum furnace, and custom lithography machine. This impressive setup showcases his expertise and dedication to semiconductor fabrication. The cleanroom's advanced features enable precise control over fabrication processes.
+STMicroelectronics' ST64UWB SoC family supports IEEE 802.15.4z and 802.15.4ab UWB standards for longer-range, more reliable positioning and secure interactions. It targets digital car keys, hands-free access, and smart-device detection. The SoC family includes various models with improved RF link budget.
 
-💡 *DIY cleanroom revolutionizes semiconductor fabrication access for enthusiasts worldwide.*
+💡 *Enhanced proximity and positioning capabilities for automotive and smart home applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/ambitious-semiconductor-enthusiast-builds-diy-class-100-cleanroom-in-his-garden-shed-contains-a-plasma-etcher-vacuum-furnace-and-even-custom-software-driven-lithography-machine)
-
----
-
-### 8. DIY chip lab turns backyard shed into Class 100 cleanroom with custom lithography system 
-
-A DIY lab has been built to replicate chipmaking processes in a backyard shed, featuring a Class 100 cleanroom and custom lithography system. The lab aims to handle early steps in chip production. This project showcases innovative and accessible semiconductor research.
-
-💡 *Accessible semiconductor research democratizes innovation and technology advancement.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111643-backyard-shed-becomes-class-100-cleanroom-lithography-machine.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/13/st-st64uwb-cortex-m85-ultra-wideband-soc-supports-ieee-802-15-4z-and-802-15-4ab-uwb-standards-radar-sensing/)
 
 ---
 
-### 9. Nexperia China begins making its own chips after split with Dutch parent 
+### 5. Qatar helium shutdown puts chip supply chain on a two-week clock SK hynix forced to diversify after 30% of global supply removed from the market 
 
-Nexperia China has started producing its own chips post-split from Dutch parent. The produced chips include bipolar discrete devices and other essential components. These components are crucial for vehicle electronics and consumer devices.
+QatarEnergy's helium production remains offline after drone strikes, affecting global supply. SK hynix, a major chip manufacturer, faces supply chain disruptions. The shutdown puts the chip supply chain on a two-week clock.
 
-💡 *Self-sufficiency in chip production boosts regional electronics industry resilience.*
+💡 *Global chip supply at risk due to critical helium shortage.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111638-nexperia-china-begins-making-own-chips-after-split.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
+
+---
+
+### 6. Qualcomm s Wear Elite diagram shows sensors at chip's heart 
+
+The Snapdragon Wear Elite chip supports up to 50 sensors, enhancing wearable device capabilities.
+
+💡 *Increased sensor capacity enables more accurate and comprehensive health monitoring.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/qualcomms-wear-elite-diagram-shows-sensors-chips-heart)
 
 ---
 
