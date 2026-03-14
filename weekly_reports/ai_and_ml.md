@@ -1,153 +1,185 @@
 # 🤖 AI & ML
-**Week of March 13, 2026**
+**Week of March 14, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-03-13 09:24
+- **Articles this week:** 17
+- **Report generated:** 2026-03-14 09:05
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. DR-DOS is coming back from the dead, rebuilt from scratch in pure assembly ⭐
+### 1. How to protect yourself from bad external SSDs during the PC hardware apocalypse newer drives will definitely cost more, and some may offer up shockingly poor performance ⭐
 
-DR-DOS is revived as a text-based operating system rebuilt in pure assembly. Whitehorn Ltd. Co. is behind the revival, carrying forward Gary Kildall's legacy. The new DR-DOS has a dedicated website.
+Buying an external SSD soon may be wise due to potential shortages and increased costs as AI demand rises. Opt for drives released before the surge in AI-related purchases for better performance. This will help ensure you get a reliable and efficient external SSD.
 
-💡 *Preservation of vintage computing heritage through modern development efforts*
+💡 *Buy older external SSDs before AI demand drives up costs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111667-dr-dos-coming-back-dead-rebuilt-scratch-pure.html)
-
----
-
-### 2. Fortnite "Save the World" mode will return as a free-to-play game in 2026 ⭐
-
-Fortnite's 'Save the World' mode returns as a free-to-play game in 2026. Originally released in 2017, it's a PvE action-building title with base construction and combat against AI enemies. The mode was built before the popular battle royale mode.
-
-💡 *Fortnite reclaims its roots with a nostalgic PvE mode revival*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111657-fortnite-original-save-world-mode-return-free-play.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-ssds/how-to-protect-yourself-from-bad-external-ssds-during-the-pc-hardware-apocalypse-newer-drives-will-definitely-cost-more-and-some-may-offer-up-shockingly-poor-performance)
 
 ---
 
-### 3. Acer Swift 16 AI Review: A Premium contender with a curious twist 
+### 2. Nvidia claims 1 million times better path tracing performance is coming in future gaming GPUs says current GPUs are already 10,000x faster than Pascal 
 
-Acer's Swift 16 AI offers a premium design with an OLED screen and Intel silicon, but its massive haptic touchpad is underwhelming. The laptop provides a great balance of performance and visuals, making it a strong contender. However, its touchpad may not be its standout feature.
+Nvidia claims its future gaming GPUs will offer 1 million times better path tracing performance, a significant improvement over the current-gen Blackwell family, which is already 100,000 times better than Pascal.
 
-💡 *OLED screen and Intel silicon make it a top performer choice.*
+💡 *Enhanced path tracing boosts realism in gaming graphics and immersion*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/acer-swift-16-ai-review-appremium-contender-with-a-curious-twist)
-
----
-
-### 4. Meta reveals four new MTIA chips built for AI inference to be released on a six-month cadence 
-
-Meta releases four new MTIA chips for AI inference, developed with Broadcom. These chips will be deployed within the next two years on a six-month cadence. The partnership aims to enhance AI processing capabilities.
-
-💡 *Accelerating AI processing with enhanced chip technology for Meta's applications.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/meta-reveals-four-new-mtia-chips-built-for-ai-inference)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-claims-1-million-times-better-path-tracing-performance-is-coming-in-future-gaming-gpus-says-current-gpus-are-already-10-000x-faster-than-pascal)
 
 ---
 
-### 5. Valve details performance targets for Steam Machine and Steam Frame 
+### 3. ROG Xbox Ally X gaming handheld to get Auto Super Resolution boost in April Microsoft touts 30% performance boost thanks to AI-powered image upscaling 
 
-Valve has specified performance targets for Steam Machine and Steam Frame. The Steam Machine will have more relaxed verification requirements due to its expected performance headroom, while the Steam Frame will have stricter requirements for locally installed games.
+The ROG Xbox Ally X gaming handheld will get Auto Super Resolution, enabling AI-powered image upscaling that could deliver a 30% performance boost. This OS-level feature is currently available on Windows 11 and is expected to improve frame-rates. It is set to be released in April.
 
-💡 *Different performance expectations for Steam Machine and Steam Frame applications*
+💡 *AI upscaling could significantly enhance handheld gaming performance*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111656-valve-outlines-steam-machine-steam-frame-verification-requirements.html)
-
----
-
-### 6. AMD, Broadcom, and Nvidia join hyperscalers to define optical scale-up interconnect of the future for AI clusters Meta, Microsoft, and OpenAI to benefit as speeds eventually scale to 3.2 Tb/s 
-
-AMD, Broadcom, and Nvidia collaborate with Meta, Microsoft, and OpenAI to develop a protocol-agnostic optical scale-up interconnect for AI clusters, enabling future speeds of 3.2 Tb/s.
-
-💡 *Faster AI compute speeds will revolutionize data-intensive applications like AI research and training.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-broadcom-and-nvidia-join-hyperscalers-to-define-optical-scale-up-interconnect-of-the-future-for-ai-clusters-meta-microsoft-and-openai-to-benefit-as-speeds-eventually-scale-to-3-2-tb-s)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/rog-xbox-ally-x-gaming-handheld-to-get-auto-super-resolution-boost-in-april-microsoft-touts-30-percent-performance-boost-thanks-to-ai-powered-image-upscaling)
 
 ---
 
-### 7. Iran hacking group claims attack on med-tech company Stryker says over 200,000 devices have been wiped clean and over 50TB of data extracted 
+### 4. New "Zombie ZIP" attack can evade most antivirus scanners 
 
-Stryker, a Fortune 500 med-tech company, has been hit with a massive cyberattack. The attack allegedly wiped clean over 200,000 devices and extracted over 50TB of data. This has affected employees and operations globally.
+A new attack, 'Zombie ZIP', uses malformed archives to evade antivirus scanners, potentially creating a new delivery mechanism for attackers. The technique hides malware inside compressed archives, making it difficult to detect. Researchers are debating whether it's a vulnerability or not.
 
-💡 *Massive cyberattack compromises sensitive medical data worldwide simultaneously*
+💡 *Attackers can now easily evade antivirus scanners with 'Zombie ZIP' archives*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/iran-hacking-group-claims-attack-on-med-tech-company-stryker-says-over-200-000-devices-have-been-wiped-clean-and-over-50tb-of-data-extracted)
-
----
-
-### 8. Qatar helium shutdown puts chip supply chain on a two-week clock SK hynix forced to diversify after 30% of global supply removed from the market 
-
-QatarEnergy's helium production remains offline after drone strikes, affecting global supply. SK hynix, a major chip manufacturer, faces supply chain disruptions. The shutdown puts the chip supply chain on a two-week clock.
-
-💡 *Global chip supply at risk due to critical helium shortage.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
+🔗 [Read Full Article](https://www.techspot.com/news/111680-new-zombie-zip-attack-can-evade-most-antivirus.html)
 
 ---
 
-### 9. Retailer denies memory replacement due to 4x increase in DDR5 pricing, says price increase would equate to an 'upgrade' for the customer Australian retailer refuses to replace faulty Corsair kit 
+### 5. Google's Genie 3 AI can generate playable worlds, but they still fall apart after a minute 
 
-Australian retailer denies memory replacement due to DDR5 price surge, cites 'upgrade' as reason.
+Google's Genie 3 AI can generate playable worlds but has limitations.
 
-💡 *Warranty terms can be redefined by price fluctuations.*
+💡 *AI-powered world generation lacks long-term stability and coherence.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/retailer-denies-memory-return-due-to-4x-increase-in-ddr5-pricing-says-price-increase-would-mean-an-upgrade-for-the-customer-australian-retailer-refuses-to-replace-faulty-corsair-kit)
-
----
-
-### 10. Oracle prepares new round of layoffs while doubling down on AI infrastructure 
-
-Oracle plans to spend $1.1 billion on layoffs, having spent $982 million so far. The fund is aimed at restructuring the company's infrastructure with AI. This move has raised concerns about the human cost of the restructuring.
-
-💡 *Tech giants' push for AI may come at significant human cost.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111661-oracle-prepares-new-round-layoffs-while-doubling-down.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111668-google-improves-project-genie-world-consistency-but-developers.html)
 
 ---
 
-### 11. Valve says its loot boxes are more like trading cards than gambling 
+### 6. Tech titans team up to form optical interconnect alliance to solve the AI buildout's big data bottleneck Nvidia, AMD, Broadcom & more set sights on building PHY to break through the limitations of copper 
 
-Valve defends its loot boxes, claiming they're like trading cards. New York Attorney General Letitia James sued Valve in February, arguing that mystery boxes in popular games constitute 'quintessential gambling'.
+Tech giants form alliance to develop a standardized optical interconnect, aiming to break the copper speed limit with a PHY capable of up to 3.2 Tb/s.
 
-💡 *Monetary value of cosmetics blurs line between games and gambling.*
+💡 *Breaking copper speed limitations enables faster AI data processing.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111659-valve-loot-boxes-more-like-trading-cards-than.html)
-
----
-
-### 12. Hisense TVs caught showing non-skippable ads when changing inputs or channels 
-
-Hisense TVs, including Akai and Loewe models, show non-skippable ads when changing inputs or channels, a behavior that has persisted for years.
-
-💡 *Consumer frustration and loyalty concerns due to intrusive advertising*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111653-hisense-tvs-caught-showing-non-skippable-ads-when.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-titans-team-up-to-form-optical-interconnect-alliance-to-solve-the-ai-buildouts-big-data-bottleneck-nvidia-amd-broadcom-and-more-set-sights-on-building-phy-to-break-through-the-limitations-of-copper)
 
 ---
 
-### 13. Google brings new PC-focused features to the Play Store, including "play anywhere" 
+### 7. The ongoing Strait of Hormuz blockage will impact the semiconductor and AI industries with Aluminum, Helium and LNG shortages and with no timeline for re-opening, supply chains face significant challenges 
 
-In a developer post titled "Expanding our stage for PC and paid titles," Google revealed a slew of new features many of them PC-focused coming to the Play Store. Read Entire Article
+The Strait of Hormuz blockage threatens chip and AI industries with shortages, including aluminum, helium, and LNG, impacting global supply chains with no clear timeline for re-opening.
 
-🔗 [Read Full Article](https://www.techspot.com/news/111660-google-brings-new-pc-focused-features-play-store.html)
+💡 *Global supply chains face significant disruptions due to Strait of Hormuz blockade.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/the-ongoing-strait-of-hormuz-blockage-will-impact-the-semiconductor-and-ai-industries-with-aluminum-helium-and-lng-shortages-and-with-no-timeline-for-re-opening-supply-chains-face-significant-challenges)
 
 ---
 
-### 14. Apple s brand new M5 MacBook Air and MacBook Pro models are already discounted on Amazon shave $50 off nearly the entire 2026 lineup 
+### 8. 11-month old Russian outfit claims it has developed 16-core and 32-core chips, flaunts Cyrillic-badged processors chips appear to be sanctions-swerving rebadged Chinese Loongson processors 
 
-Amazon offers a $50 discount on most 2026 MacBook models, making them cheaper than buying directly from Apple.
+Russia's Tramplin Electronics claims to have developed 16-core and 32-core chips, but appear to be rebadged Chinese Loongson processors with Cyrillic labels.
 
-💡 *Savings on new MacBooks with early Amazon deals*
+💡 *Sanctions evasion through processor rebadging and localization attempts*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/apples-brand-new-m5-macbook-air-and-macbook-pro-models-are-already-discounted-on-amazon-shave-usd50-off-nearly-the-entire-2026-lineup)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/11-month-old-russian-outfit-claims-it-has-developed-16-core-and-32-core-processors-flaunts-cyrillic-badged-processors-chips-appear-to-be-sanctions-swerving-rebadged-chinese-loongson-processors)
+
+---
+
+### 9. Silicon Power US RMA policy now hedges against AI-driven RAM and SSD shortages company says it will refund the original purchase price 'if there is a shortage of replacement products' 
+
+Silicon Power US offers refunds in case of RAM/SSD shortages, hedging against supply chain issues.
+
+💡 *Companies adapt to mitigate AI-driven RAM/SSD shortages and supply chain risks*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/silicon-power-us-rma-policy-now-hedges-against-ai-driven-ram-and-ssd-shortages-company-says-it-will-refund-the-original-purchase-price-if-there-is-a-shortage-of-replacement-products)
+
+---
+
+### 10. China bans OpenClaw from government computers and issues security guidelines amid adoption frenzy nation scrambles to rein in popular AI agent 
+
+China's central government is restricting OpenClaw on government computers due to security concerns. This move aims to control the spread of the popular AI agent within government agencies. Multiple government bodies are involved in the effort to rein in OpenClaw.
+
+💡 *China is scrambling to regulate AI adoption amid security risks.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/china-bans-openclaw-from-government-computers-and-issues-security-guidelines-amid-adoption-frenzy)
+
+---
+
+### 11. Esparagus Audio Brick ESP32-based DIN-rail 65W Hi-Fi amplifier supports Home Assistant and Squeezelite (Crowdfunding) 
+
+The Esparagus Audio Brick is a compact ESP32-based amplifier with Home Assistant support, ideal for building whole-home audio setups, retrofitting vintage speakers, or powering custom speaker configurations.
+
+💡 *Enhances home audio with a compact, ESP32-powered Hi-Fi Class-D amplifier solution.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/14/esparagus-audio-brick-esp32-based-din-rail-65w-hi-fi-amplifier-supports-home-assistant-squeezelite/)
+
+---
+
+### 12. iPhone Fold leaks reveal key specs and a surprisingly competitive price tag 
+
+Apple's first foldable iPhone, the iPhone Fold, is expected to be priced around $2,000, matching Samsung's Galaxy Z Fold 7. This price point is lower than previously rumored, making the foldable iPhone more competitive in the market. Gurman's prediction suggests Apple is taking a bold approach to foldable technology.
+
+💡 *Foldable iPhones may gain mainstream appeal with competitive pricing strategy*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111678-iphone-fold-leaks-reveal-key-specifications-surprisingly-competitive.html)
+
+---
+
+### 13. HP's ink-blocking firmware may violate new global sustainability rules 
+
+HP's ink-blocking firmware may violate global sustainability rules due to conflicts with EPEAT 2.0. The International Imaging Technology Council has expressed concerns over the requirements. The issue affects cartridge remanufacturers and printer users.
+
+💡 *HP's firmware may hinder cartridge recycling and sustainability efforts*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111672-hp-ink-blocking-firmware-clashes-new-global-sustainability.html)
+
+---
+
+### 14. Europe's PEGI will raise age ratings for games with loot boxes and microtransactions 
+
+PEGI will introduce stricter age ratings for games with loot boxes and microtransactions, starting June.
+
+💡 *Stricter age ratings aim to protect minors from addictive monetization models.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111669-europe-pegi-raise-age-ratings-games-loot-boxes.html)
+
+---
+
+### 15. MacBook Neo teardown reveals Apple's most repair-friendly laptop in years 
+
+The MacBook Neo features a repair-friendly design with a removable keyboard, unlike recent MacBook models. This design allows for keyboard problems to be easily fixed without major surgery. The separate keyboard part makes maintenance and repairs more accessible.
+
+💡 *Separate keyboard design simplifies repair and maintenance significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111671-macbook-neo-teardown-reveals-apple-most-repair-friendly.html)
+
+---
+
+### 16. Honda scraps three US-built EVs only months ahead of launch, takes $15.7 billion hit 
+
+Honda has scrapped its three US-built EVs, incurring a $15.7 billion loss. The planned 0 Saloon and 0 SUV were initially set to launch in 2026. The decision indicates significant challenges in the US EV market.
+
+💡 *Failed US EV plans signal costly market misjudgment for Honda*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111673-honda-scraps-three-us-built-evs-months-ahead.html)
+
+---
+
+### 17. Q/A with Pankaj Kedia: Sensors Converge keynoter talks Edge AI 
+
+Pankaj Kedia predicts a significant revenue boost with Edge AI compared to cloud AI, citing a 10-to-1 ratio.
+
+💡 *Edge AI can generate 10 times more revenue than cloud AI.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/qa-pankaj-kedia-keynoter-sensors-converge-edge-ai)
 
 ---
 

@@ -1,75 +1,65 @@
 # 🎮 GPUs
-**Week of March 13, 2026**
+**Week of March 14, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-03-13 09:24
+- **Articles this week:** 5
+- **Report generated:** 2026-03-14 09:05
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. China firm Lisuan's homegrown 6nm G100 series GPUs announced with up to 12GB of VRAM LX 7G106 can play Cyberpunk 2077 and other popular Steam games, arrives June 18 in China ⭐
+### 1. Nvidia claims 1 million times better path tracing performance is coming in future gaming GPUs says current GPUs are already 10,000x faster than Pascal 
 
-Lisuan Tech's G100 series GPUs, with up to 12GB VRAM, will be released in China on June 18. The LX G7106 is a gaming SKU with purported RTX 4060-like performance. Professional GPUs with up to 24GB ECC VRAM are also available.
+Nvidia claims its future gaming GPUs will offer 1 million times better path tracing performance, a significant improvement over the current-gen Blackwell family, which is already 100,000 times better than Pascal.
 
-💡 *China's Lisuan Tech enters the high-performance GPU market for gaming.*
+💡 *Enhanced path tracing boosts realism in gaming graphics and immersion*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/china-firm-lisuans-homegrown-6nm-g100-series-gpus-announced-with-up-to-12gb-of-vram-lx-7g106-can-play-cyberpunk-2077-and-other-popular-steam-games-arrives-june-18-in-china)
-
----
-
-### 2. RTX 5090 gets 12% gaming boost in Ubuntu 26.04, thanks to optimizations with Gnome 50 latest popular distro update brings significant performance uplift for Nvidia's top GPU 
-
-Ubuntu 26.04 brings a 12% gaming performance boost to Nvidia's RTX 5090 GPU. This improvement is attributed to optimizations made with Gnome 50. The latest distro update shows significant performance uplift for the top GPU.
-
-💡 *Optimized Gnome 50 boosts Nvidia gaming performance significantly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/rtx-5090-gets-12-percent-gaming-boost-in-ubuntu-26-04-thanks-to-optimizations-with-gnome-50-latest-popular-distro-update-brings-significant-performance-uplift-for-nvidias-top-gpu)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-claims-1-million-times-better-path-tracing-performance-is-coming-in-future-gaming-gpus-says-current-gpus-are-already-10-000x-faster-than-pascal)
 
 ---
 
-### 3. Samsung's glasses-free 3D gaming monitor is getting more games 
+### 2. ROG Xbox Ally X gaming handheld to get Auto Super Resolution boost in April Microsoft touts 30% performance boost thanks to AI-powered image upscaling 
 
-Samsung expands gaming content for its Odyssey 3D monitor ecosystem at GDC 2026, enhancing the 3D gaming experience.
+The ROG Xbox Ally X gaming handheld will get Auto Super Resolution, enabling AI-powered image upscaling that could deliver a 30% performance boost. This OS-level feature is currently available on Windows 11 and is expected to improve frame-rates. It is set to be released in April.
 
-💡 *More games means greater adoption of 3D gaming technology.*
+💡 *AI upscaling could significantly enhance handheld gaming performance*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111650-samsung-glasses-free-3d-gaming-monitor-getting-more.html)
-
----
-
-### 4. AMD, Broadcom, and Nvidia join hyperscalers to define optical scale-up interconnect of the future for AI clusters Meta, Microsoft, and OpenAI to benefit as speeds eventually scale to 3.2 Tb/s 
-
-AMD, Broadcom, and Nvidia collaborate with Meta, Microsoft, and OpenAI to develop a protocol-agnostic optical scale-up interconnect for AI clusters, enabling future speeds of 3.2 Tb/s.
-
-💡 *Faster AI compute speeds will revolutionize data-intensive applications like AI research and training.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-broadcom-and-nvidia-join-hyperscalers-to-define-optical-scale-up-interconnect-of-the-future-for-ai-clusters-meta-microsoft-and-openai-to-benefit-as-speeds-eventually-scale-to-3-2-tb-s)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/rog-xbox-ally-x-gaming-handheld-to-get-auto-super-resolution-boost-in-april-microsoft-touts-30-percent-performance-boost-thanks-to-ai-powered-image-upscaling)
 
 ---
 
-### 5. DLSS vs FSR vs XeSS: Game Support Across 650+ Titles 
+### 3. RAM kits are now sold with one fake RAM stick alongside a real one to create a performance illusion 1+1 'value pack' offers desperate psychological relief as the memory shortage worsens 
 
-A comparison of DLSS, FSR, and XeSS support across 650+ PC games reveals the adoption rates of these upscaling and frame generation technologies. Nvidia's DLSS leads the pack, followed by AMD's FSR and Intel's XeSS. The study highlights the varying levels of support from game developers.
+V-Color introduces 1+1 DDR5 memory kits with a real and filler module for AMD systems. The kits promise performance boosts, but deliver a mixed result due to the inclusion of a fake memory stick. This tactic aims to alleviate memory shortages through perceived value.
 
-💡 *Nvidia's DLSS dominates upscaling adoption among PC game developers.*
+💡 *Manufacturer's attempt to create an illusion of better performance*
 
-🔗 [Read Full Article](https://www.techspot.com/article/3093-dlss-vs-fsr-vs-xess-game-support/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens)
 
 ---
 
-### 6. Save $800 on this MSI desktop with RTX 5070, 2TB SSD, and 32GB of RAM get an Intel Core Ultra 265K gaming rig for just $1,899 
+### 4. Tech titans team up to form optical interconnect alliance to solve the AI buildout's big data bottleneck Nvidia, AMD, Broadcom & more set sights on building PHY to break through the limitations of copper 
 
-Get a high-performance gaming PC with RTX 5070, 2TB SSD, and 32GB RAM for $1,899.
+Tech giants form alliance to develop a standardized optical interconnect, aiming to break the copper speed limit with a PHY capable of up to 3.2 Tb/s.
 
-💡 *High-end gaming PC at an affordable price point for enthusiasts.*
+💡 *Breaking copper speed limitations enables faster AI data processing.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd800-on-this-msi-desktop-with-rtx-5070-2tb-ssd-and-32gb-of-ram-get-an-intel-core-ultra-265k-gaming-rig-for-just-usd1-899)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-titans-team-up-to-form-optical-interconnect-alliance-to-solve-the-ai-buildouts-big-data-bottleneck-nvidia-amd-broadcom-and-more-set-sights-on-building-phy-to-break-through-the-limitations-of-copper)
+
+---
+
+### 5. Microsoft debuts DirectStorage 1.4 at GDC 2026, with Zstandard compression and GACL update promises developers improved compression ratios, faster loading, and more 
+
+Microsoft has released DirectStorage 1.4 at GDC 2026, introducing Zstandard compression and CreatorID for improved GPU scheduling. This update is expected to enhance compression ratios, loading speeds, and overall game performance. Developers stand to benefit from these improvements in game development.
+
+💡 *Faster loading and compression ratios boost game performance and experience.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/microsoft-debuts-directstorage-1-4-at-gdc-2026-with-zstandard-compression-and-gacl-update-promises-developers-improved-compression-ratios-faster-loading-and-more)
 
 ---
 

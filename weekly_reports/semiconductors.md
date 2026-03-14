@@ -1,75 +1,55 @@
 # ⚡ Semiconductors
-**Week of March 13, 2026**
+**Week of March 14, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-03-13 09:24
+- **Articles this week:** 4
+- **Report generated:** 2026-03-14 09:05
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. MediaTek unveils 50 TOPS Genio Pro 5100 Cortex-X925/X4/A720 SoC, 7.2 TOPS Genio 420 Cortex-A78/A55 SoC for AIoT applications ⭐
+### 1. Rockchip RK3538 TV Box SoC and RK3572 mid-range HMI processor are coming soon 
 
-MediaTek has unveiled two new SoCs, the Genio Pro 5100 and Genio 420, designed for AIoT applications. The Genio Pro 5100 features a 3nm all big-core architecture and 50+ TOPS NPU, supporting Edge AI. The Genio 420 is a cost-efficient 6nm platform for smart home and industrial IoT devices.
+Rockchip is preparing to launch the RK3538 and RK3572 mid-range SoCs. The RK3538 is designed for TV boxes with a quad-core Cortex-A55 processor. The RK3572 targets Human Machine Interface applications with a hexa-core Cortex-A73/A53 SoC.
 
-💡 *Advancements in AIoT capabilities drive growth in smart home and industrial applications.*
+💡 *Rockchip expands its mid-range SoC offerings for various applications.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/12/mediatek-50-tops-genio-pro-5100-cortex-x925-x4-a720-soc-7-2-tops-genio-420-cortex-a78-a55-soc-for-aiot-applications/)
-
----
-
-### 2. Qualcomm X105 6G-ready 5G modem to deliver 14.8 Gbps download and 4.2 Gbps upload peak data speeds ⭐
-
-Qualcomm X105 is a 5G modem that supports peak data speeds of 14.8 Gbps download and 4.2 Gbps upload. It's also 6G-ready and features a 6nm RF transceiver, quad-band GNSS, and an AI processor for optimized data traffic. The modem enables development and testing for 6G connectivity.
-
-💡 *Advancements in 5G modems pave way for 6G breakthroughs*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/12/qualcomm-x105-6g-ready-5g-modem-to-deliver-14-8-gbps-download-and-4-2-gbps-upload-peak-data-speeds/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/13/rockchip-rk3538-tv-box-soc-rk3572-mid-range-hmi-processor/)
 
 ---
 
-### 3. IBM and Lam's new partnership paves the way toward sub-1nm logic using High-NA EUV Albany lab to pioneer dry resist process integration 
+### 2. The ongoing Strait of Hormuz blockage will impact the semiconductor and AI industries with Aluminum, Helium and LNG shortages and with no timeline for re-opening, supply chains face significant challenges 
 
-IBM and Lam partnered to develop sub-1nm logic using EUV Albany lab. The partnership aims to integrate dry resist process for nanosheet and nanostack architectures. Backside power delivery validation is also a key focus.
+The Strait of Hormuz blockage threatens chip and AI industries with shortages, including aluminum, helium, and LNG, impacting global supply chains with no clear timeline for re-opening.
 
-💡 *Advances in sub-1nm logic may lead to significant computing breakthroughs.*
+💡 *Global supply chains face significant disruptions due to Strait of Hormuz blockade.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/ibm-and-lam-team-up-on-high-na-euv)
-
----
-
-### 4. ST ST64UWB Cortex-M85 ultra-wideband SoC supports IEEE 802.15.4z and 802.15.4ab UWB standards, radar sensing 
-
-STMicroelectronics' ST64UWB SoC family supports IEEE 802.15.4z and 802.15.4ab UWB standards for longer-range, more reliable positioning and secure interactions. It targets digital car keys, hands-free access, and smart-device detection. The SoC family includes various models with improved RF link budget.
-
-💡 *Enhanced proximity and positioning capabilities for automotive and smart home applications.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/13/st-st64uwb-cortex-m85-ultra-wideband-soc-supports-ieee-802-15-4z-and-802-15-4ab-uwb-standards-radar-sensing/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/the-ongoing-strait-of-hormuz-blockage-will-impact-the-semiconductor-and-ai-industries-with-aluminum-helium-and-lng-shortages-and-with-no-timeline-for-re-opening-supply-chains-face-significant-challenges)
 
 ---
 
-### 5. Qatar helium shutdown puts chip supply chain on a two-week clock SK hynix forced to diversify after 30% of global supply removed from the market 
+### 3. The FBI is looking for victimized Steam users who downloaded games with hidden malware Investigation underway into multiple infected titles from 2024 to 2026 
 
-QatarEnergy's helium production remains offline after drone strikes, affecting global supply. SK hynix, a major chip manufacturer, faces supply chain disruptions. The shutdown puts the chip supply chain on a two-week clock.
+The FBI is investigating malware-infected Steam games from 2024 to 2026, seeking victim information.
 
-💡 *Global chip supply at risk due to critical helium shortage.*
+💡 *Potential financial and identity theft risks for compromised Steam users.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/the-fbi-is-looking-for-victimized-steam-users-who-downloaded-games-with-hidden-malware-investigation-underway-into-multiple-infected-titles-from-2024-to-2026)
 
 ---
 
-### 6. Qualcomm s Wear Elite diagram shows sensors at chip's heart 
+### 4. HP's ink-blocking firmware may violate new global sustainability rules 
 
-The Snapdragon Wear Elite chip supports up to 50 sensors, enhancing wearable device capabilities.
+HP's ink-blocking firmware may violate global sustainability rules due to conflicts with EPEAT 2.0. The International Imaging Technology Council has expressed concerns over the requirements. The issue affects cartridge remanufacturers and printer users.
 
-💡 *Increased sensor capacity enables more accurate and comprehensive health monitoring.*
+💡 *HP's firmware may hinder cartridge recycling and sustainability efforts*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/qualcomms-wear-elite-diagram-shows-sensors-chips-heart)
+🔗 [Read Full Article](https://www.techspot.com/news/111672-hp-ink-blocking-firmware-clashes-new-global-sustainability.html)
 
 ---
 

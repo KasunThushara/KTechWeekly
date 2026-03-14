@@ -1,133 +1,105 @@
 # 💻 Hardware
-**Week of March 13, 2026**
+**Week of March 14, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-03-13 09:24
+- **Articles this week:** 9
+- **Report generated:** 2026-03-14 09:05
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. MediaTek unveils 50 TOPS Genio Pro 5100 Cortex-X925/X4/A720 SoC, 7.2 TOPS Genio 420 Cortex-A78/A55 SoC for AIoT applications ⭐
+### 1. How to protect yourself from bad external SSDs during the PC hardware apocalypse newer drives will definitely cost more, and some may offer up shockingly poor performance ⭐
 
-MediaTek has unveiled two new SoCs, the Genio Pro 5100 and Genio 420, designed for AIoT applications. The Genio Pro 5100 features a 3nm all big-core architecture and 50+ TOPS NPU, supporting Edge AI. The Genio 420 is a cost-efficient 6nm platform for smart home and industrial IoT devices.
+Buying an external SSD soon may be wise due to potential shortages and increased costs as AI demand rises. Opt for drives released before the surge in AI-related purchases for better performance. This will help ensure you get a reliable and efficient external SSD.
 
-💡 *Advancements in AIoT capabilities drive growth in smart home and industrial applications.*
+💡 *Buy older external SSDs before AI demand drives up costs.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/12/mediatek-50-tops-genio-pro-5100-cortex-x925-x4-a720-soc-7-2-tops-genio-420-cortex-a78-a55-soc-for-aiot-applications/)
-
----
-
-### 2. Qualcomm X105 6G-ready 5G modem to deliver 14.8 Gbps download and 4.2 Gbps upload peak data speeds ⭐
-
-Qualcomm X105 is a 5G modem that supports peak data speeds of 14.8 Gbps download and 4.2 Gbps upload. It's also 6G-ready and features a 6nm RF transceiver, quad-band GNSS, and an AI processor for optimized data traffic. The modem enables development and testing for 6G connectivity.
-
-💡 *Advancements in 5G modems pave way for 6G breakthroughs*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/12/qualcomm-x105-6g-ready-5g-modem-to-deliver-14-8-gbps-download-and-4-2-gbps-upload-peak-data-speeds/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-ssds/how-to-protect-yourself-from-bad-external-ssds-during-the-pc-hardware-apocalypse-newer-drives-will-definitely-cost-more-and-some-may-offer-up-shockingly-poor-performance)
 
 ---
 
-### 3. Acer Swift 16 AI Review: A Premium contender with a curious twist 
+### 2. Windows 11 is getting support for 1,000 Hz+ monitors soon as part of Insider builds Microsoft has reportedly increased the refresh rate limit to 5,000 Hz 
 
-Acer's Swift 16 AI offers a premium design with an OLED screen and Intel silicon, but its massive haptic touchpad is underwhelming. The laptop provides a great balance of performance and visuals, making it a strong contender. However, its touchpad may not be its standout feature.
+Windows 11 Insider builds now support 1,000 Hz+ monitors, with a limit of 5,000 Hz. This feature is part of the Release Preview channel, indicating a near-final release. Nvidia has also updated its G-Sync Pulsar displays.
 
-💡 *OLED screen and Intel silicon make it a top performer choice.*
+💡 *Higher refresh rates enhance gaming and video performance significantly always.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/acer-swift-16-ai-review-appremium-contender-with-a-curious-twist)
-
----
-
-### 4. Discovery Drive An ESP32-S3-based azimuth/elevation rotator for satellite dishes and SDR antennas (Crowdfunding) 
-
-The Discovery Drive is a plug-and-play ESP32-S3-based rotator for satellite dishes and SDR antennas, offering easy tracking of polar-orbiting satellites and amateur radio satellites. It features a fully weatherproof design with a motor torque of up to 12.25 Nm and supports antenna payloads up to 5 kg. The rotator can be controlled via its web UI and connected to 12V power and Wi-Fi.
-
-💡 *Low-cost, plug-and-play satellite tracking for hobbyists and researchers worldwide.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/13/discovery-drive-esp32-s3-based-azimuth-elevation-rotator-for-satellite-dishes-and-sdr-antennas/)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/windows-11-is-getting-support-for-1-000-hz-monitors-soon-as-part-of-insider-builds-microsoft-has-reportedly-increased-the-refresh-rate-limit-to-5-000-hz)
 
 ---
 
-### 5. ST ST64UWB Cortex-M85 ultra-wideband SoC supports IEEE 802.15.4z and 802.15.4ab UWB standards, radar sensing 
+### 3. Creality Sermoon P1 3D Scanner review: 3D scanning on the go 
 
-STMicroelectronics' ST64UWB SoC family supports IEEE 802.15.4z and 802.15.4ab UWB standards for longer-range, more reliable positioning and secure interactions. It targets digital car keys, hands-free access, and smart-device detection. The SoC family includes various models with improved RF link budget.
+The Creality Sermoon P1 is a portable 3D scanner that excels in speed and on-device editing capabilities. It features multiple scanning modes, including NIR mode without markers, and can handle challenging tasks like scanning deep holes. However, the color texture results were disappointing.
 
-💡 *Enhanced proximity and positioning capabilities for automotive and smart home applications.*
+💡 *Advanced 3D scanning on the go with seamless editing capabilities.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/13/st-st64uwb-cortex-m85-ultra-wideband-soc-supports-ieee-802-15-4z-and-802-15-4ab-uwb-standards-radar-sensing/)
-
----
-
-### 6. OS/2 isn't dead: ArcaOS update brings the 1980s-era OS to modern UEFI PCs 
-
-A legacy OS, OS/2, has been updated to run on modern PCs under the name ArcaOS. This brings 1980s-era technology to UEFI PCs, allowing it to coexist with modern operating systems. The update is a result of ongoing development by Arca Noae, the sole current licensor of OS/2 technology.
-
-💡 *Legacy OS innovation continues despite modern ecosystem advancements.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111647-os2-isnt-dead-arcaos-update-brings-1980s-era.html)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/3d-scanning/creality-sermoon-p1-3d-scanner-review)
 
 ---
 
-### 7. Keychron Q16 HE 8K Review: All-ceramic, but not all good 
+### 4. Rockchip RK3538 TV Box SoC and RK3572 mid-range HMI processor are coming soon 
 
-The Keychron Q16 HE 8K is an all-ceramic keyboard with 8K polling rate, but its premium feel is lacking.
+Rockchip is preparing to launch the RK3538 and RK3572 mid-range SoCs. The RK3538 is designed for TV boxes with a quad-core Cortex-A55 processor. The RK3572 targets Human Machine Interface applications with a hexa-core Cortex-A73/A53 SoC.
 
-💡 *Price may not match the perceived value and quality.*
+💡 *Rockchip expands its mid-range SoC offerings for various applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-q16-he-8k-review)
-
----
-
-### 8. Windows 11 "Xbox Mode" UI coming to all PCs in April 
-
-Windows' full-screen 'Xbox Mode' UI is exiting beta in April, available on all PCs, enabling users to launch games and apps with a controller.
-
-💡 *Enhanced gaming experience for PC users with Xbox controller support.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111654-windows-11-xbox-mode-ui-coming-all-pcs.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/13/rockchip-rk3538-tv-box-soc-rk3572-mid-range-hmi-processor/)
 
 ---
 
-### 9. Google brings new PC-focused features to the Play Store, including "play anywhere" 
+### 5. 11-month old Russian outfit claims it has developed 16-core and 32-core chips, flaunts Cyrillic-badged processors chips appear to be sanctions-swerving rebadged Chinese Loongson processors 
 
-In a developer post titled "Expanding our stage for PC and paid titles," Google revealed a slew of new features many of them PC-focused coming to the Play Store. Read Entire Article
+Russia's Tramplin Electronics claims to have developed 16-core and 32-core chips, but appear to be rebadged Chinese Loongson processors with Cyrillic labels.
 
-🔗 [Read Full Article](https://www.techspot.com/news/111660-google-brings-new-pc-focused-features-play-store.html)
+💡 *Sanctions evasion through processor rebadging and localization attempts*
 
----
-
-### 10. DLSS vs FSR vs XeSS: Game Support Across 650+ Titles 
-
-A comparison of DLSS, FSR, and XeSS support across 650+ PC games reveals the adoption rates of these upscaling and frame generation technologies. Nvidia's DLSS leads the pack, followed by AMD's FSR and Intel's XeSS. The study highlights the varying levels of support from game developers.
-
-💡 *Nvidia's DLSS dominates upscaling adoption among PC game developers.*
-
-🔗 [Read Full Article](https://www.techspot.com/article/3093-dlss-vs-fsr-vs-xess-game-support/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/11-month-old-russian-outfit-claims-it-has-developed-16-core-and-32-core-processors-flaunts-cyrillic-badged-processors-chips-appear-to-be-sanctions-swerving-rebadged-chinese-loongson-processors)
 
 ---
 
-### 11. Apple s brand new M5 MacBook Air and MacBook Pro models are already discounted on Amazon shave $50 off nearly the entire 2026 lineup 
+### 6. 2026 PC shipment forecast slashed amid memory shortages IDC says total PC market value to nonetheless increase to $274 billion due to ongoing price hikes 
 
-Amazon offers a $50 discount on most 2026 MacBook models, making them cheaper than buying directly from Apple.
+IDC forecasts an 11.3% drop in PC shipments in 2026, but a 1.6% increase in market value due to higher prices.
 
-💡 *Savings on new MacBooks with early Amazon deals*
+💡 *Price hikes offset shipment decline in the PC market.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/apples-brand-new-m5-macbook-air-and-macbook-pro-models-are-already-discounted-on-amazon-shave-usd50-off-nearly-the-entire-2026-lineup)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/idc-slashes-2026-pc-shipment-forecast-amid-memory-shortages-total-pc-market-value-to-nonetheless-increase-to-usd274-billion-due-to-ongoing-price-hikes)
 
 ---
 
-### 12. Save $800 on this MSI desktop with RTX 5070, 2TB SSD, and 32GB of RAM get an Intel Core Ultra 265K gaming rig for just $1,899 
+### 7. China bans OpenClaw from government computers and issues security guidelines amid adoption frenzy nation scrambles to rein in popular AI agent 
 
-Get a high-performance gaming PC with RTX 5070, 2TB SSD, and 32GB RAM for $1,899.
+China's central government is restricting OpenClaw on government computers due to security concerns. This move aims to control the spread of the popular AI agent within government agencies. Multiple government bodies are involved in the effort to rein in OpenClaw.
 
-💡 *High-end gaming PC at an affordable price point for enthusiasts.*
+💡 *China is scrambling to regulate AI adoption amid security risks.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd800-on-this-msi-desktop-with-rtx-5070-2tb-ssd-and-32gb-of-ram-get-an-intel-core-ultra-265k-gaming-rig-for-just-usd1-899)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/china-bans-openclaw-from-government-computers-and-issues-security-guidelines-amid-adoption-frenzy)
+
+---
+
+### 8. Esparagus Audio Brick ESP32-based DIN-rail 65W Hi-Fi amplifier supports Home Assistant and Squeezelite (Crowdfunding) 
+
+The Esparagus Audio Brick is a compact ESP32-based amplifier with Home Assistant support, ideal for building whole-home audio setups, retrofitting vintage speakers, or powering custom speaker configurations.
+
+💡 *Enhances home audio with a compact, ESP32-powered Hi-Fi Class-D amplifier solution.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/14/esparagus-audio-brick-esp32-based-din-rail-65w-hi-fi-amplifier-supports-home-assistant-squeezelite/)
+
+---
+
+### 9. MacBook Neo teardown reveals Apple's most repair-friendly laptop in years 
+
+The MacBook Neo features a repair-friendly design with a removable keyboard, unlike recent MacBook models. This design allows for keyboard problems to be easily fixed without major surgery. The separate keyboard part makes maintenance and repairs more accessible.
+
+💡 *Separate keyboard design simplifies repair and maintenance significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111671-macbook-neo-teardown-reveals-apple-most-repair-friendly.html)
 
 ---
 
