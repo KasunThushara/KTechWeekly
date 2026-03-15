@@ -1,326 +1,194 @@
 [
   {
-    "title": "Windows 11 is getting support for 1,000 Hz+ monitors soon as part of Insider builds Microsoft has reportedly increased the refresh rate limit to 5,000 Hz",
-    "summary": "Microsoft says \"monitors can now report refresh rates higher than 1000 Hz\" in the patch notes for its latest Windows 11 Insider builds. These updates are part of the Release Preview channel, which means they're very close to final, public release. On the other hand, Nvidia has also pushed the first update for its G-Sync Pulsar displays.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/windows-11-is-getting-support-for-1-000-hz-monitors-soon-as-part-of-insider-builds-microsoft-has-reportedly-increased-the-refresh-rate-limit-to-5-000-hz",
-    "categories": [
-      "Tech News",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-14T09:03:55.553981"
-  },
-  {
-    "title": "Tech titans team up to form optical interconnect alliance to solve the AI buildout's big data bottleneck Nvidia, AMD, Broadcom & more set sights on building PHY to break through the limitations of copper",
-    "summary": "AMD, Nvidia, Microsoft, Broadcom, and Meta have formed an Optical Compute Interconnect Multi-Source Agreement (OCI MSA) to develop a standardized optical interconnect for AI data centers, with the aspiration to build a PHY capable of handling speeds of up to 3.2 Tb/s.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-titans-team-up-to-form-optical-interconnect-alliance-to-solve-the-ai-buildouts-big-data-bottleneck-nvidia-amd-broadcom-and-more-set-sights-on-building-phy-to-break-through-the-limitations-of-copper",
+    "title": "AMD's former pound-for-pound gaming champ hits its historic low again Ryzen 7 9800X3D offers unmatched value for gamers at $429",
+    "summary": "The Ryzen 7 9800X3D is down to an all-time low price, making it a more enticing option than the slightly more performant but also much more expensive Ryzen 7 9850X3D.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amds-former-pound-for-pound-gaming-champ-hits-its-historic-low-again-ryzen-7-9800x3d-offers-unmatched-value-for-gamers-at-usd429",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.554151"
+    "processed_date": "2026-03-15T09:06:07.680724"
   },
   {
-    "title": "Nvidia claims 1 million times better path tracing performance is coming in future gaming GPUs says current GPUs are already 10,000x faster than Pascal",
-    "summary": "At GDC 2026, Nvidia held a presentation somehow aimed at gamers and not data center clients. Still, it was sprinkled with AI pat-on-the-backs, with the company touting that its future gaming GPUs will offer 1,000,000 better path tracing performance. And the current-gen Blackwell family is apparently already 100,000x better due to dedicated Tensor and RT cores.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-claims-1-million-times-better-path-tracing-performance-is-coming-in-future-gaming-gpus-says-current-gpus-are-already-10-000x-faster-than-pascal",
+    "title": "Invisible malicious code attacks 151 GitHub repos and VS Code Glassworm attack uses blockchain to steal tokens, credentials, and secrets",
+    "summary": "The technique exploits Unicode Private Use Area characters, which render as zero-width whitespace in virtually every code editor and terminal.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/malicious-packages-using-invisible-unicode-found-in-151-github-repos-and-vs-code",
     "categories": [
-      "GPUs",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-14T09:03:55.554286"
+    "quality_score": 5,
+    "processed_date": "2026-03-15T09:06:07.680854"
   },
   {
-    "title": "The ongoing Strait of Hormuz blockage will impact the semiconductor and AI industries with Aluminum, Helium and LNG shortages and with no timeline for re-opening, supply chains face significant challenges",
-    "summary": "As global oil prices spike due to the ongoing pseudo-blockade of the Strait of Hormuz, other shortages are looming, and they could hit the chip and AI industries dramatically. Aluminum and helium for chip production have been impacted, but shortages of LNG could also cause problems for gas turbines powering many AI data centers.",
-    "link": "https://www.tomshardware.com/tech-industry/the-ongoing-strait-of-hormuz-blockage-will-impact-the-semiconductor-and-ai-industries-with-aluminum-helium-and-lng-shortages-and-with-no-timeline-for-re-opening-supply-chains-face-significant-challenges",
+    "title": "MSI MAG B850 Tomahawk Max Wifi II Motherboard review: Sharpening the Tomahawk s blade",
+    "summary": "The B850 Tomahawk Max Wifii II refines the popular budget AM5 board with additional M.2 storage, an OC Engine chip, a 64MB BIOS, a minor facelift, and a small price increase.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/msi-mag-b850-tomahawk-max-wifi-ii-motherboard-review",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-15T09:06:07.680968"
+  },
+  {
+    "title": "US gov't revokes controversial AI hardware export rule that would mandate investments from foreign companies new export rules are still in the works, though",
+    "summary": "U.S. Department of Commerce withdraws draft export rule for AI accelerators that would give the U.S. government ultimate power over export controls and mandate investments of foreign firms in the U.S. AI sector.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-revokes-controversial-ai-hardware-export-rule-that-would-mandate-investments-from-foreign-companies-new-export-rules-are-still-in-the-works-though",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-15T09:06:07.681087"
+  },
+  {
+    "title": "Chocolate 3D printer startup Cocoa Press levels up with former Prusa executive",
+    "summary": "David Randolph brings 10 years of manufacturing experience to the chocolate printer startup, Cocoa Press.",
+    "link": "https://www.tomshardware.com/3d-printing/chocolate-3d-printer-startup-cocoa-press-levels-up-with-former-prusa-executive",
+    "categories": [
+      "Tech News",
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-15T09:06:07.681187"
+  },
+  {
+    "title": "Noctua teases upcoming PC case with brown color scheme and bundled fans appears to be Antec Flux Pro Noctua Edition with NF-A14x25 G2 fans",
+    "summary": "The case builds on the standard Flux Pro design with enhanced cooling hardware, mesh airflow panels, support for large radiators, and Noctua s well-known brown color scheme.",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/noctua-teases-upcoming-pc-case-that-appears-to-be-the-antec-flux-pro-noctua-edition-with-brown-color-scheme-and-bundled-nf-a14x25-g2-fans",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-15T09:06:07.681296"
+  },
+  {
+    "title": "Chip material prices double as Middle East conflict compounds China's existing gallium export ban wide range of materials for chipmaking skyrocket as supply constricts",
+    "summary": "Manufacturers have said that prices for key chipmaking metals have doubled, and gallium has climbed sharply, as disruptions from the ongoing Middle East conflict pile onto supply constraints.",
+    "link": "https://www.tomshardware.com/tech-industry/chip-material-prices-double-as-middle-east-conflict-compounds-chinas-gallium-export-ban",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.554413"
+    "processed_date": "2026-03-15T09:06:07.681429"
   },
   {
-    "title": "ROG Xbox Ally X gaming handheld to get Auto Super Resolution boost in April Microsoft touts 30% performance boost thanks to AI-powered image upscaling",
-    "summary": "Auto Super Resolution, an OS-level AI upscaling feature for Windows 11, is heading to the ROG Xbox Ally X and could deliver noticeable frame-rate improvements.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/rog-xbox-ally-x-gaming-handheld-to-get-auto-super-resolution-boost-in-april-microsoft-touts-30-percent-performance-boost-thanks-to-ai-powered-image-upscaling",
+    "title": "Fiber internet provider says it can detect leaking water pipes using existing infrastructure, prevented loss of 2 million liters a day over three months Lightsonic tech detects underground vibrations, machine learning isolates the source",
+    "summary": "U.K. fiber network provider Openreach used startup firm Lightsonic's technology to detect leaks in Affinity Water's service area, helping save over 2 million liters of drinking water daily.",
+    "link": "https://www.tomshardware.com/networking/fiber-provider-says-it-can-detect-leaking-water-pipes-using-existing-infrastructure-prevents-loss-of-2-million-liters-a-day-over-three-months-company-uses-lightsonic-technology-to-detect-underground-vibrations-machine-learning-to-isolate-source",
     "categories": [
       "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-14T09:03:55.554518"
-  },
-  {
-    "title": "Creality Sermoon P1 3D Scanner review: 3D scanning on the go",
-    "summary": "The Creality Sermoon P1 is a standalone 3D scanner that allows users to go through the entire scanning workflow without having to touch a computer. The 22 crossed laser line mode is surprisingly fast, and the single laser line mode was able to scan deep holes during testing. The NIR (near-infrared) mode is capable of scanning without requiring any markers, and the on-device editing allows users to make on-location edits without needing to stop. The Sermoon P1 handled everything we threw at it, but the color texture was the only disappointing part of the testing.",
-    "link": "https://www.tomshardware.com/3d-printing/3d-scanning/creality-sermoon-p1-3d-scanner-review",
-    "categories": [
-      "Hardware",
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-14T09:03:55.554655"
+    "quality_score": 5,
+    "processed_date": "2026-03-15T09:06:07.681549"
   },
   {
-    "title": "Iran conflict delays Meta s 2Africa undersea cable project cable layer declares force majeure, says it can no longer safely operate in the Persian Gulf",
-    "summary": "Meta is delaying work on the Pearls section of its Africa2 network after its contracted cable-layer, Alcatel Submarine Networks, declared force majeure due to the risk of getting hit during the Iran conflict.",
-    "link": "https://www.tomshardware.com/tech-industry/iran-conflict-delays-metas-2africa-undersea-cable-project-cable-layer-declares-force-majeure-says-it-can-no-longer-safely-operate-in-the-persian-gulf",
+    "title": "DoJ dismantles botnet made of 360,000 infected routers and IOT devices spread across 163 countries that ran for 16 years SocksEscort proxy network eliminated in joint operation with Europol",
+    "summary": "Long-running SocksEscort proxy network brought down by US-EU operation",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/doj-dismantles-socksescort-proxy-network-that-ran-for-16-years-in-joint-operation-with-europol-botnet-comprised-360-000-infected-routers-and-iot-devices-across-163-countries",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.554762"
+    "processed_date": "2026-03-15T09:06:07.681647"
   },
   {
-    "title": "11-month old Russian outfit claims it has developed 16-core and 32-core chips, flaunts Cyrillic-badged processors chips appear to be sanctions-swerving rebadged Chinese Loongson processors",
-    "summary": "Russia-based Tramplin Electronics obtains samples of Loongson's LS3C6000 processors with Cyrillic inscriptions, claims these are its own CPUs.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/11-month-old-russian-outfit-claims-it-has-developed-16-core-and-32-core-processors-flaunts-cyrillic-badged-processors-chips-appear-to-be-sanctions-swerving-rebadged-chinese-loongson-processors",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.554886"
-  },
-  {
-    "title": "How to protect yourself from bad external SSDs during the PC hardware apocalypse newer drives will definitely cost more, and some may offer up shockingly poor performance",
-    "summary": "If you re shopping for a new external SSD, you might want to buy a drive soon, and something that was released before the AI demand seemingly gobbled up all the good flash.",
-    "link": "https://www.tomshardware.com/pc-components/external-ssds/how-to-protect-yourself-from-bad-external-ssds-during-the-pc-hardware-apocalypse-newer-drives-will-definitely-cost-more-and-some-may-offer-up-shockingly-poor-performance",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-14T09:03:55.555037"
-  },
-  {
-    "title": "2026 PC shipment forecast slashed amid memory shortages IDC says total PC market value to nonetheless increase to $274 billion due to ongoing price hikes",
-    "summary": "IDC expects unit shipments of PCs in 2026 to be down 11.3% year-over-year, but the whole market value will increase 1.6% due to higher prices.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/idc-slashes-2026-pc-shipment-forecast-amid-memory-shortages-total-pc-market-value-to-nonetheless-increase-to-usd274-billion-due-to-ongoing-price-hikes",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.555140"
-  },
-  {
-    "title": "Silicon Power US RMA policy now hedges against AI-driven RAM and SSD shortages company says it will refund the original purchase price 'if there is a shortage of replacement products'",
-    "summary": "Most RAM and SSD manufacturers still offer in-warranty replacements as Silicon Power U.S. hedges policy against shortages",
-    "link": "https://www.tomshardware.com/desktops/pc-building/silicon-power-us-rma-policy-now-hedges-against-ai-driven-ram-and-ssd-shortages-company-says-it-will-refund-the-original-purchase-price-if-there-is-a-shortage-of-replacement-products",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.555246"
-  },
-  {
-    "title": "China bans OpenClaw from government computers and issues security guidelines amid adoption frenzy nation scrambles to rein in popular AI agent",
-    "summary": "China's central government warned state enterprises and agencies not to install OpenClaw on office computers this week as multiple government bodies moved to rein in the AI agent.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-bans-openclaw-from-government-computers-and-issues-security-guidelines-amid-adoption-frenzy",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.555351"
-  },
-  {
-    "title": "Microsoft debuts DirectStorage 1.4 at GDC 2026, with Zstandard compression and GACL update promises developers improved compression ratios, faster loading, and more",
-    "summary": "DirectStorage 1.4 brings along key upgrades to the API, including support for Zstandard compression as well as CreatorID for improved GPU scheduling.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/microsoft-debuts-directstorage-1-4-at-gdc-2026-with-zstandard-compression-and-gacl-update-promises-developers-improved-compression-ratios-faster-loading-and-more",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.555452"
-  },
-  {
-    "title": "Zombie ZIP vulnerability lets compressed malware leisurely stroll past 95% of antivirus apps security suites are blissfully unaware of security issue",
-    "summary": "Zombie ZIP vulnerability lets malware stroll past gates of 95% of AV suites",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/zombie-zip-vulnerability-lets-compressed-malware-leisurely-stroll-past-95-percent-of-antivirus-apps-security-suites-are-blissfully-unaware-of-security-issue",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.555542"
-  },
-  {
-    "title": "The FBI is looking for victimized Steam users who downloaded games with hidden malware Investigation underway into multiple infected titles from 2024 to 2026",
-    "summary": "Several games on Steam that were secretly carrying malware now seem to be under active investigation by the FBI. The department is looking for victim information tied to these games; anyone who installed and played an infected game and was harmed is being urged to step forward and share more info to help with the investigation.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/the-fbi-is-looking-for-victimized-steam-users-who-downloaded-games-with-hidden-malware-investigation-underway-into-multiple-infected-titles-from-2024-to-2026",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.555655"
-  },
-  {
-    "title": "RAM kits are now sold with one fake RAM stick alongside a real one to create a performance illusion 1+1 'value pack' offers desperate psychological relief as the memory shortage worsens",
-    "summary": "V-Color announces new 1+1 DDR5 memory kits with one real memory module and one filler module for AMD-based systems.",
-    "link": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-14T09:03:55.555753"
-  },
-  {
-    "title": "Esparagus Audio Brick ESP32-based DIN-rail 65W Hi-Fi amplifier supports Home Assistant and Squeezelite (Crowdfunding)",
-    "summary": "Sonocotta (Andriy Malyshenko), the developer of Esparagus Media Center , HiFi-Amped, Louder Raspberry Pi, and Louder Raspberry Hat Plus, has returned to Crowd Supply with the Esparagus Audio Brick, a compact ESP32 or ESP32-S3-powered Hi-Fi Class-D amplifier with Home Assistant support. With support for Music Assistant, Snapcast, and Logitech Media Server (LMS), the module can be used to build whole-home audio setups, retrofit vintage speakers with modern streaming features, or power custom speaker configurations such as subwoofers or bi-amp systems. The board is built around an ESP32 or ESP32-S3 dual-core microcontroller with 16 MB flash and 8 MB PSRAM, and features Wi-Fi with optional W5500 SPI Ethernet for connectivity. Audio is processed via a Texas Instruments TAS5825M stereo I S DAC with an integrated 65 W Class-D amplifier, and includes a DSP for a 15-band equalizer and hardware fault management. Other features include a USB Type-C port with a CH340 chip for [...] The post Esparagus Audio Brick ESP32-based DIN-rail 65W Hi-Fi amplifier supports Home Assistant and Squeezelite (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/14/esparagus-audio-brick-esp32-based-din-rail-65w-hi-fi-amplifier-supports-home-assistant-squeezelite/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.556231"
-  },
-  {
-    "title": "Rockchip RK3538 TV Box SoC and RK3572 mid-range HMI processor are coming soon",
-    "summary": "While we are eagerly waiting for the RK3668 and RK3688 high-end processors, Rockchip is planning to launch two mid-range SoCs with the RK3538 quad-core Cortex-A55 processor designed for TV boxes, and the RK3572 hexa-core Cortex-A73/A53 SoC for HMI (Human Machine Interface) applications. Rockchip RK3538 TV box SoC Rockchip RK3538 specifications: CPU Quad-core Arm Cortex-A55 processor with NEON, FPU, ARMv8 Crypto Cache 32KB L1 instruction cache 32KB L1 data cache and 64KB L2 data cache 512KB unified system L3 cache GPU Arm Mali-G310 3D GPU with support for OpenCL 3.0, OpenGL ES1.1/2.0/3.2, Vulkan 1.2 2D Graphics Engine VPU Decoder H.265, H.264, AV1 (up to two simultaneous 1080p60 channels) VP8, VC1, MPEG-4, MPEG-2, MPEG-1 yp to 1920 1088 @ 60 FPS (1088 is not a typo) H.263 up to 720p60 (M)JPEG up to 8176 8176 @ 76 million pixels per second Encoder N/A MCU core RISC-V MCU in PMU domain with [...] The post Rockchip RK3538 TV Box SoC and RK3572 mid-range HMI processor are coming soon appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/13/rockchip-rk3538-tv-box-soc-rk3572-mid-range-hmi-processor/",
+    "title": "CPU fraud scandal erupts as another Chinese laptop busted with a fake chip second device sporting a disguised Ryzen 5500U uncovered after vendor threatens legal action",
+    "summary": "Notebookcheck has uncovered yet another case of a Chuwi laptop allegedly featuring a processor different from the one advertised, intensifying concerns over CPU authenticity.",
+    "link": "https://www.tomshardware.com/laptops/cpu-fraud-scandal-erupts-as-another-chinese-laptop-busted-with-a-fake-chip-second-device-sporting-a-disguised-ryzen-5500u-uncovered-after-vendor-threatens-legal-action",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-14T09:03:55.556389"
-  },
-  {
-    "title": "Q/A with Pankaj Kedia: Sensors Converge keynoter talks Edge AI",
-    "summary": "Every dollar we create with cloud AI will be 10 dollars with Edge AI, says 2468 Ventures founder Pankaj Kedia.",
-    "link": "https://www.fiercesensors.com/sensors/qa-pankaj-kedia-keynoter-sensors-converge-edge-ai",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-03-14T09:03:55.557435"
-  },
-  {
-    "title": "New \"Zombie ZIP\" attack can evade most antivirus scanners",
-    "summary": "Known as Zombie ZIP, the method hides malware inside a deliberately malformed compressed archive. According to its creators, most antivirus engines currently fail to detect the threat, potentially giving attackers a new delivery mechanism. At the same time, some researchers argue the technique is less a vulnerability and more a... Read Entire Article",
-    "link": "https://www.techspot.com/news/111680-new-zombie-zip-attack-can-evade-most-antivirus.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-14T09:03:55.557864"
-  },
-  {
-    "title": "iPhone Fold leaks reveal key specs and a surprisingly competitive price tag",
-    "summary": "In his latest Power On newsletter, Bloomberg's Mark Gurman claimed that Apple will price its first foldable iPhone at \"roughly $2,000,\" much lower than previously rumored. If Gurman's prediction holds, the iPhone Fold would match the pricing of the Samsung Galaxy Z Fold 7, which starts at $1,999 for the... Read Entire Article",
-    "link": "https://www.techspot.com/news/111678-iphone-fold-leaks-reveal-key-specifications-surprisingly-competitive.html",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.558052"
+    "processed_date": "2026-03-15T09:06:07.681758"
   },
   {
-    "title": "Google's Genie 3 AI can generate playable worlds, but they still fall apart after a minute",
-    "summary": "When Google introduced Project Genie a few months ago, many described the AI tool as a potential game-changer for game development and other world-building tasks. According to a recent Google presentation, however, the Genie 3 AI model the generative engine behind Project Genie is still far from disrupting,... Read Entire Article",
-    "link": "https://www.techspot.com/news/111668-google-improves-project-genie-world-consistency-but-developers.html",
+    "title": "Enthusiast rebuilds AA-battery-powered PC, sextuples run time to 30 minutes with 64 batteries uses three voltage regulators in parallel to achieve stability, runs computer for over 30 minutes on 64 AA cells",
+    "summary": "YouTube creator ScuffedBits re-did their experiment and was able to eke out 30 minutes of game time (and a benchmarking session!) while running their desktop PC on 64 AA batteries.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/enthusiast-rebuilds-aa-battery-powered-pc-sextuples-run-time-to-30-minutes-with-64-batteries-uses-three-voltage-regulators-in-parallel-to-achieve-stability-runs-computer-for-over-30-minutes-on-64-aa-cells",
     "categories": [
-      "AI & ML"
+      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-14T09:03:55.558220"
+    "processed_date": "2026-03-15T09:06:07.681873"
   },
   {
-    "title": "Meta's massive undersea cable project delayed in Persian Gulf as Iran conflict escalates",
-    "summary": "Meta's 2Africa undersea cable project has hit another geopolitical snag, this time in the Persian Gulf. According to Bloomberg, Alcatel Submarine Networks (ASN), the company responsible for laying parts of the system, has declared force majeure (a contractual clause that excuses a party from liability if an extraordinary, unforeseeable event... Read Entire Article",
-    "link": "https://www.techspot.com/news/111677-meta-massive-undersea-cable-project-delayed-persian-gulf.html",
+    "title": "Six-month rewritable DVD endurance test crowns winner with 1,000 rewrites, shows the best discs are no longer manufactured six month of tests find TDK is a clear leader, Verbatim and Memorex didn t do well",
+    "summary": "A tech enthusiast has shared their DVD rewritable durability findings, following six months of testing.",
+    "link": "https://www.tomshardware.com/pc-components/storage/six-month-dvd-rewritable-test-shows-the-best-discs-are-no-longer-manufactured-tdk-a-clear-leader-verbatim-and-memorex-didnt-do-well",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.558381"
+    "processed_date": "2026-03-15T09:06:07.681975"
   },
   {
-    "title": "Adobe CEO to step down after 18 years as investors question the company's next act",
-    "summary": "Adobe shares fell about 7% in extended trading after the announcement, leaving the stock down roughly 23% so far this year and near a three-year low. Read Entire Article",
-    "link": "https://www.techspot.com/news/111674-longtime-adobe-ceo-step-down-investors-question-company.html",
+    "title": "US and Gulf states race for Ukrainian interceptor drones, 3D printed model costs $1,000 apiece Shahed-136 kamikaze drone threat spurs rush for interceptors",
+    "summary": "Ukraine has sent drone interceptors and training crews to the U.S. and its Gulf State allies as the Iran War rumbles on.",
+    "link": "https://www.tomshardware.com/tech-industry/us-and-gulf-states-race-for-ukrainian-interceptor-drones-3d-printed-model-costs-usd1-000-apiece-shahed-136-kamikaze-drone-threat-spurs-rush-for-interceptors",
     "categories": [
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.558479"
+    "processed_date": "2026-03-15T09:06:07.682078"
   },
   {
-    "title": "HP's ink-blocking firmware may violate new global sustainability rules",
-    "summary": "The International Imaging Technology Council (Int'l ITC), a trade group for cartridge remanufacturers, says HP's latest printer firmware rollout conflicts with the requirements of the General Electronics Council's (GEC) updated Electronic Product Environmental Assessment Tool, or EPEAT 2.0. Read Entire Article",
-    "link": "https://www.techspot.com/news/111672-hp-ink-blocking-firmware-clashes-new-global-sustainability.html",
+    "title": "AERIS-10 open-source hardware radar can track multiple objects up to 20km away",
+    "summary": "AERIS-10 is an open-source hardware, low-cost (more on that later) 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation and based on an AMD Artix-7 FPGA. Two versions are available: the AERIS-10N (Nexus), providing up to 3km range with an 8 16 patch antenna array, and the AERIS-10X (Extended), offering up to 20km range thanks to a 32 16 dielectric-filled slotted waveguide array. ARIES-10 key components and features: Main board FPGA AMD Artix-7 XC7A100T for: PLFM Chirps generation via the DAC Raw ADC data read Automatic Gain Control (AGC) I/Q Baseband Down-Conversion Decimation Filtering Forward FFT Pulse Compression Doppler, MTI, and CFAR processing USB Interface MCU ST STM32F746xx microcontroller for Power management FPGA communication Setup and interface with the components on the main, frequency synthesizer, and power amplifier boards, plus: GPS module for GUI map centering GY-85 IMU for pitch/roll correction of target coordinates BMP180 Barometer [...] The post AERIS-10 open-source hardware radar can track multiple objects up to 20km away appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/15/aeris-10-open-source-hardware-radar-can-track-multiple-objects-up-to-20km-away/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-15T09:06:07.682652"
+  },
+  {
+    "title": "Survey finds Americans worry about AI data centers, but still want the jobs",
+    "summary": "Out of 8,512 US adults surveyed in late January, more respondents expressed negative views about data centers' effects on the environment and energy costs than positive ones. However, the largest number of respondents expect data centers to have a positive impact on jobs and tax revenue, and many remain unsure... Read Entire Article",
+    "link": "https://www.techspot.com/news/111682-survey-finds-americans-worry-about-ai-data-centers.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.558590"
+    "processed_date": "2026-03-15T09:06:07.683974"
   },
   {
-    "title": "Europe's PEGI will raise age ratings for games with loot boxes and microtransactions",
-    "summary": "Starting in June, the Pan-European Game Information (PEGI) age rating system, Europe's equivalent to the ESRB, will begin assigning PEGI-16 ratings to all games that sell random items. Furthermore, microtransactions will earn an automatic PEGI-12 rating, and NFTs or other blockchain-related items will be rated PEGI-18. Read Entire Article",
-    "link": "https://www.techspot.com/news/111669-europe-pegi-raise-age-ratings-games-loot-boxes.html",
+    "title": "Drone strikes halt a third of the world's helium supply, threatening chip production",
+    "summary": "At the center of the issue is the precision gas vital to chip manufacturing and cryogenics. Helium cools silicon wafers during fabrication, maintaining the extremely low temperatures required for etching and lithography. Unlike other industrial gases, there is no effective substitute, and experts warn that even short disruptions can ripple... Read Entire Article",
+    "link": "https://www.techspot.com/news/111683-critical-semiconductor-gas-lost-third-global-supply-drone.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-15T09:06:07.684165"
+  },
+  {
+    "title": "Pagers and paper maps make a comeback in Moscow as the internet goes dark",
+    "summary": "For roughly the past week, mobile internet across central Moscow and parts of St. Petersburg has been intermittently failing. People can't load apps, hail cabs, or, in some cases, even make a basic phone call. That last point is particularly concerning. Entire voice networks have gone dark in parts of... Read Entire Article",
+    "link": "https://www.techspot.com/news/111679-pagers-paper-maps-making-comeback-moscow-no-not.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.558711"
+    "processed_date": "2026-03-15T09:06:07.684334"
   },
   {
-    "title": "MacBook Neo teardown reveals Apple's most repair-friendly laptop in years",
-    "summary": "Unlike recent MacBook Air and Pro models, where Apple's unibody \"top case\" design turns keyboard problems into major surgery, the Neo's keyboard is treated as its own part rather than being permanently bundled with the upper shell. Read Entire Article",
-    "link": "https://www.techspot.com/news/111671-macbook-neo-teardown-reveals-apple-most-repair-friendly.html",
+    "title": "Nvidia, AMD, and Intel back Microsoft's plan to fix shader compilation stutter",
+    "summary": "Nvidia announced its support for Microsoft's new Advanced Shader Delivery technology during a presentation at the Game Developers Conference this week. The feature, designed to address shader-compilation stutter in PC games, will arrive on RTX graphics cards later this year. AMD has also confirmed support, though it has not provided... Read Entire Article",
+    "link": "https://www.techspot.com/news/111681-nvidia-amd-intel-back-microsoft-plan-fix-shader.html",
     "categories": [
-      "AI & ML",
+      "GPUs",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.558824"
-  },
-  {
-    "title": "Downloaded a malware-infected Steam game? The FBI wants to hear from you",
-    "summary": "According to the FBI's website, the agency's Seattle branch wants to identify potential victims who installed Steam games infected with malware. Read Entire Article",
-    "link": "https://www.techspot.com/news/111676-downloaded-malware-infected-steam-game-fbi-wants-hear.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.558918"
-  },
-  {
-    "title": "Firefox 115 ESR is keeping Windows 7 support alive a little longer",
-    "summary": "Mozilla recently updated its official Firefox support article for Windows 7, 8 and 8.1, giving users of these ancient operating systems six more months of safe, modern browsing. The change was neither broadcast by the company nor widely reported online, and it will likely affect a very tiny minority of... Read Entire Article",
-    "link": "https://www.techspot.com/news/111666-firefox-115-esr-keeping-windows-7-support-alive.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.559045"
-  },
-  {
-    "title": "Honda scraps three US-built EVs only months ahead of launch, takes $15.7 billion hit",
-    "summary": "At CES 2025, Honda said the 0 Saloon and 0 SUV would begin rolling out in 2026, with North America first: the SUV in the first half of the year and the Saloon later in 2026. Read Entire Article",
-    "link": "https://www.techspot.com/news/111673-honda-scraps-three-us-built-evs-months-ahead.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.559149"
-  },
-  {
-    "title": "Google Maps gets conversational with Gemini-powered \"Ask Maps\"",
-    "summary": "For years, Google Maps has been able to surface nearby coffee shops and provide turn-by-turn navigation. What it couldn't do was answer complex questions that blend location, preferences, and timing. With Gemini built in, it can now. Read Entire Article",
-    "link": "https://www.techspot.com/news/111670-google-maps-gets-conversational-gemini-powered-ask-maps.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-14T09:03:55.559246"
+    "quality_score": 10,
+    "processed_date": "2026-03-15T09:06:07.684536"
   }
 ]

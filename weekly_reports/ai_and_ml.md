@@ -1,185 +1,125 @@
 # 🤖 AI & ML
-**Week of March 14, 2026**
+**Week of March 15, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 17
-- **Report generated:** 2026-03-14 09:05
+- **Articles this week:** 11
+- **Report generated:** 2026-03-15 09:06
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. How to protect yourself from bad external SSDs during the PC hardware apocalypse newer drives will definitely cost more, and some may offer up shockingly poor performance ⭐
+### 1. AMD's former pound-for-pound gaming champ hits its historic low again Ryzen 7 9800X3D offers unmatched value for gamers at $429 
 
-Buying an external SSD soon may be wise due to potential shortages and increased costs as AI demand rises. Opt for drives released before the surge in AI-related purchases for better performance. This will help ensure you get a reliable and efficient external SSD.
+The Ryzen 7 9800X3D has hit an all-time low price, making it a more affordable option for gamers than the more expensive Ryzen 7 9850X3D. This historic low price makes the Ryzen 7 9800X3D a more enticing choice for those looking for high-performance gaming at a lower cost. The price drop offers unmatched value for gamers.
 
-💡 *Buy older external SSDs before AI demand drives up costs.*
+💡 *Historic price drop offers unmatched gaming value for budget-conscious gamers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-ssds/how-to-protect-yourself-from-bad-external-ssds-during-the-pc-hardware-apocalypse-newer-drives-will-definitely-cost-more-and-some-may-offer-up-shockingly-poor-performance)
-
----
-
-### 2. Nvidia claims 1 million times better path tracing performance is coming in future gaming GPUs says current GPUs are already 10,000x faster than Pascal 
-
-Nvidia claims its future gaming GPUs will offer 1 million times better path tracing performance, a significant improvement over the current-gen Blackwell family, which is already 100,000 times better than Pascal.
-
-💡 *Enhanced path tracing boosts realism in gaming graphics and immersion*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-claims-1-million-times-better-path-tracing-performance-is-coming-in-future-gaming-gpus-says-current-gpus-are-already-10-000x-faster-than-pascal)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-former-pound-for-pound-gaming-champ-hits-its-historic-low-again-ryzen-7-9800x3d-offers-unmatched-value-for-gamers-at-usd429)
 
 ---
 
-### 3. ROG Xbox Ally X gaming handheld to get Auto Super Resolution boost in April Microsoft touts 30% performance boost thanks to AI-powered image upscaling 
+### 2. Invisible malicious code attacks 151 GitHub repos and VS Code Glassworm attack uses blockchain to steal tokens, credentials, and secrets 
 
-The ROG Xbox Ally X gaming handheld will get Auto Super Resolution, enabling AI-powered image upscaling that could deliver a 30% performance boost. This OS-level feature is currently available on Windows 11 and is expected to improve frame-rates. It is set to be released in April.
+Malicious code exploits Unicode Private Use Area characters to evade detection, targeting 151 GitHub repositories and using the VS Code Glassworm attack to steal sensitive information via blockchain. This technique renders as zero-width whitespace in most code editors and terminals. Attackers can secretly insert malicious code into projects without being detected.
 
-💡 *AI upscaling could significantly enhance handheld gaming performance*
+💡 *Evading detection via Unicode characters compromises security in most code environments.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/rog-xbox-ally-x-gaming-handheld-to-get-auto-super-resolution-boost-in-april-microsoft-touts-30-percent-performance-boost-thanks-to-ai-powered-image-upscaling)
-
----
-
-### 4. New "Zombie ZIP" attack can evade most antivirus scanners 
-
-A new attack, 'Zombie ZIP', uses malformed archives to evade antivirus scanners, potentially creating a new delivery mechanism for attackers. The technique hides malware inside compressed archives, making it difficult to detect. Researchers are debating whether it's a vulnerability or not.
-
-💡 *Attackers can now easily evade antivirus scanners with 'Zombie ZIP' archives*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111680-new-zombie-zip-attack-can-evade-most-antivirus.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/malicious-packages-using-invisible-unicode-found-in-151-github-repos-and-vs-code)
 
 ---
 
-### 5. Google's Genie 3 AI can generate playable worlds, but they still fall apart after a minute 
+### 3. US gov't revokes controversial AI hardware export rule that would mandate investments from foreign companies new export rules are still in the works, though 
 
-Google's Genie 3 AI can generate playable worlds but has limitations.
+The U.S. Department of Commerce withdrew a draft rule requiring foreign investments in U.S. AI sector as a condition for exporting AI accelerators. This move revokes a controversial rule that would give the U.S. government significant control over export controls. The department is still working on new export rules.
 
-💡 *AI-powered world generation lacks long-term stability and coherence.*
+💡 *U.S. maintains flexibility in AI export control policies.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111668-google-improves-project-genie-world-consistency-but-developers.html)
-
----
-
-### 6. Tech titans team up to form optical interconnect alliance to solve the AI buildout's big data bottleneck Nvidia, AMD, Broadcom & more set sights on building PHY to break through the limitations of copper 
-
-Tech giants form alliance to develop a standardized optical interconnect, aiming to break the copper speed limit with a PHY capable of up to 3.2 Tb/s.
-
-💡 *Breaking copper speed limitations enables faster AI data processing.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-titans-team-up-to-form-optical-interconnect-alliance-to-solve-the-ai-buildouts-big-data-bottleneck-nvidia-amd-broadcom-and-more-set-sights-on-building-phy-to-break-through-the-limitations-of-copper)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-revokes-controversial-ai-hardware-export-rule-that-would-mandate-investments-from-foreign-companies-new-export-rules-are-still-in-the-works-though)
 
 ---
 
-### 7. The ongoing Strait of Hormuz blockage will impact the semiconductor and AI industries with Aluminum, Helium and LNG shortages and with no timeline for re-opening, supply chains face significant challenges 
+### 4. Noctua teases upcoming PC case with brown color scheme and bundled fans appears to be Antec Flux Pro Noctua Edition with NF-A14x25 G2 fans 
 
-The Strait of Hormuz blockage threatens chip and AI industries with shortages, including aluminum, helium, and LNG, impacting global supply chains with no clear timeline for re-opening.
+Noctua unveils a custom PC case with brown color scheme, featuring enhanced cooling hardware, mesh airflow panels, and support for large radiators. The case appears to be the Antec Flux Pro Noctua Edition. It comes bundled with NF-A14x25 G2 fans.
 
-💡 *Global supply chains face significant disruptions due to Strait of Hormuz blockade.*
+💡 *High-end custom PC cases with enhanced cooling options emerge.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/the-ongoing-strait-of-hormuz-blockage-will-impact-the-semiconductor-and-ai-industries-with-aluminum-helium-and-lng-shortages-and-with-no-timeline-for-re-opening-supply-chains-face-significant-challenges)
-
----
-
-### 8. 11-month old Russian outfit claims it has developed 16-core and 32-core chips, flaunts Cyrillic-badged processors chips appear to be sanctions-swerving rebadged Chinese Loongson processors 
-
-Russia's Tramplin Electronics claims to have developed 16-core and 32-core chips, but appear to be rebadged Chinese Loongson processors with Cyrillic labels.
-
-💡 *Sanctions evasion through processor rebadging and localization attempts*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/11-month-old-russian-outfit-claims-it-has-developed-16-core-and-32-core-processors-flaunts-cyrillic-badged-processors-chips-appear-to-be-sanctions-swerving-rebadged-chinese-loongson-processors)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/noctua-teases-upcoming-pc-case-that-appears-to-be-the-antec-flux-pro-noctua-edition-with-brown-color-scheme-and-bundled-nf-a14x25-g2-fans)
 
 ---
 
-### 9. Silicon Power US RMA policy now hedges against AI-driven RAM and SSD shortages company says it will refund the original purchase price 'if there is a shortage of replacement products' 
+### 5. Chip material prices double as Middle East conflict compounds China's existing gallium export ban wide range of materials for chipmaking skyrocket as supply constricts 
 
-Silicon Power US offers refunds in case of RAM/SSD shortages, hedging against supply chain issues.
+Chip manufacturers face price hikes due to Middle East conflict disruptions and supply constraints, including China's gallium export ban.
 
-💡 *Companies adapt to mitigate AI-driven RAM/SSD shortages and supply chain risks*
+💡 *Disrupted global supply chains imperil chip production and tech industry stability.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/silicon-power-us-rma-policy-now-hedges-against-ai-driven-ram-and-ssd-shortages-company-says-it-will-refund-the-original-purchase-price-if-there-is-a-shortage-of-replacement-products)
-
----
-
-### 10. China bans OpenClaw from government computers and issues security guidelines amid adoption frenzy nation scrambles to rein in popular AI agent 
-
-China's central government is restricting OpenClaw on government computers due to security concerns. This move aims to control the spread of the popular AI agent within government agencies. Multiple government bodies are involved in the effort to rein in OpenClaw.
-
-💡 *China is scrambling to regulate AI adoption amid security risks.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/china-bans-openclaw-from-government-computers-and-issues-security-guidelines-amid-adoption-frenzy)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chip-material-prices-double-as-middle-east-conflict-compounds-chinas-gallium-export-ban)
 
 ---
 
-### 11. Esparagus Audio Brick ESP32-based DIN-rail 65W Hi-Fi amplifier supports Home Assistant and Squeezelite (Crowdfunding) 
+### 6. Fiber internet provider says it can detect leaking water pipes using existing infrastructure, prevented loss of 2 million liters a day over three months Lightsonic tech detects underground vibrations, machine learning isolates the source 
 
-The Esparagus Audio Brick is a compact ESP32-based amplifier with Home Assistant support, ideal for building whole-home audio setups, retrofitting vintage speakers, or powering custom speaker configurations.
+Openreach used Lightsonic's tech to detect leaks, saving 2 million liters of water daily through existing fiber infrastructure.
 
-💡 *Enhances home audio with a compact, ESP32-powered Hi-Fi Class-D amplifier solution.*
+💡 *Early detection of leaks prevents massive water waste and saves resources.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/14/esparagus-audio-brick-esp32-based-din-rail-65w-hi-fi-amplifier-supports-home-assistant-squeezelite/)
-
----
-
-### 12. iPhone Fold leaks reveal key specs and a surprisingly competitive price tag 
-
-Apple's first foldable iPhone, the iPhone Fold, is expected to be priced around $2,000, matching Samsung's Galaxy Z Fold 7. This price point is lower than previously rumored, making the foldable iPhone more competitive in the market. Gurman's prediction suggests Apple is taking a bold approach to foldable technology.
-
-💡 *Foldable iPhones may gain mainstream appeal with competitive pricing strategy*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111678-iphone-fold-leaks-reveal-key-specifications-surprisingly-competitive.html)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/fiber-provider-says-it-can-detect-leaking-water-pipes-using-existing-infrastructure-prevents-loss-of-2-million-liters-a-day-over-three-months-company-uses-lightsonic-technology-to-detect-underground-vibrations-machine-learning-to-isolate-source)
 
 ---
 
-### 13. HP's ink-blocking firmware may violate new global sustainability rules 
+### 7. US and Gulf states race for Ukrainian interceptor drones, 3D printed model costs $1,000 apiece Shahed-136 kamikaze drone threat spurs rush for interceptors 
 
-HP's ink-blocking firmware may violate global sustainability rules due to conflicts with EPEAT 2.0. The International Imaging Technology Council has expressed concerns over the requirements. The issue affects cartridge remanufacturers and printer users.
+Ukraine shares drone interceptors and training with the US and Gulf states to counter Iran's Shahed-136 kamikaze drones, as the Iran War escalates.
 
-💡 *HP's firmware may hinder cartridge recycling and sustainability efforts*
+💡 *Regional security at risk from Iran's drone warfare capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111672-hp-ink-blocking-firmware-clashes-new-global-sustainability.html)
-
----
-
-### 14. Europe's PEGI will raise age ratings for games with loot boxes and microtransactions 
-
-PEGI will introduce stricter age ratings for games with loot boxes and microtransactions, starting June.
-
-💡 *Stricter age ratings aim to protect minors from addictive monetization models.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111669-europe-pegi-raise-age-ratings-games-loot-boxes.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-and-gulf-states-race-for-ukrainian-interceptor-drones-3d-printed-model-costs-usd1-000-apiece-shahed-136-kamikaze-drone-threat-spurs-rush-for-interceptors)
 
 ---
 
-### 15. MacBook Neo teardown reveals Apple's most repair-friendly laptop in years 
+### 8. AERIS-10 open-source hardware radar can track multiple objects up to 20km away 
 
-The MacBook Neo features a repair-friendly design with a removable keyboard, unlike recent MacBook models. This design allows for keyboard problems to be easily fixed without major surgery. The separate keyboard part makes maintenance and repairs more accessible.
+AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system, available in two versions. The AERIS-10X offers up to 20km range with a 32 16 dielectric-filled slotted waveguide array, while the AERIS-10N provides up to 3km range. The system features advanced processing and features like Doppler and CFAR processing.
 
-💡 *Separate keyboard design simplifies repair and maintenance significantly.*
+💡 *Open-source radar technology democratizes access to advanced tracking capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111671-macbook-neo-teardown-reveals-apple-most-repair-friendly.html)
-
----
-
-### 16. Honda scraps three US-built EVs only months ahead of launch, takes $15.7 billion hit 
-
-Honda has scrapped its three US-built EVs, incurring a $15.7 billion loss. The planned 0 Saloon and 0 SUV were initially set to launch in 2026. The decision indicates significant challenges in the US EV market.
-
-💡 *Failed US EV plans signal costly market misjudgment for Honda*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111673-honda-scraps-three-us-built-evs-months-ahead.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/15/aeris-10-open-source-hardware-radar-can-track-multiple-objects-up-to-20km-away/)
 
 ---
 
-### 17. Q/A with Pankaj Kedia: Sensors Converge keynoter talks Edge AI 
+### 9. Survey finds Americans worry about AI data centers, but still want the jobs 
 
-Pankaj Kedia predicts a significant revenue boost with Edge AI compared to cloud AI, citing a 10-to-1 ratio.
+A survey found Americans are divided on data centers' environmental impact, but overwhelmingly believe they will create jobs and contribute to tax revenue.
 
-💡 *Edge AI can generate 10 times more revenue than cloud AI.*
+💡 *Employment concerns outweigh environmental concerns for AI data centers.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/qa-pankaj-kedia-keynoter-sensors-converge-edge-ai)
+🔗 [Read Full Article](https://www.techspot.com/news/111682-survey-finds-americans-worry-about-ai-data-centers.html)
+
+---
+
+### 10. Drone strikes halt a third of the world's helium supply, threatening chip production 
+
+Drone strikes have halted a third of the world's helium supply, impacting chip production. Helium is crucial for cooling silicon wafers in fabrication. Its lack of substitutes makes disruptions particularly significant.
+
+💡 *Disruption to helium supply can ripple through global chip manufacturing.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111683-critical-semiconductor-gas-lost-third-global-supply-drone.html)
+
+---
+
+### 11. Pagers and paper maps make a comeback in Moscow as the internet goes dark 
+
+Mobile internet has been intermittently failing in central Moscow and St. Petersburg, disrupting basic services.
+
+💡 *Disruption of internet access highlights society's reliance on modern technology.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111679-pagers-paper-maps-making-comeback-moscow-no-not.html)
 
 ---
 

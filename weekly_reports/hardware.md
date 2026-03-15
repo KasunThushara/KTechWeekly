@@ -1,105 +1,85 @@
 # 💻 Hardware
-**Week of March 14, 2026**
+**Week of March 15, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-03-14 09:05
+- **Articles this week:** 7
+- **Report generated:** 2026-03-15 09:06
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. How to protect yourself from bad external SSDs during the PC hardware apocalypse newer drives will definitely cost more, and some may offer up shockingly poor performance ⭐
+### 1. MSI MAG B850 Tomahawk Max Wifi II Motherboard review: Sharpening the Tomahawk s blade 
 
-Buying an external SSD soon may be wise due to potential shortages and increased costs as AI demand rises. Opt for drives released before the surge in AI-related purchases for better performance. This will help ensure you get a reliable and efficient external SSD.
+The MSI MAG B850 Tomahawk Max Wifi II updates the budget AM5 board with new features, including additional M.2 storage and an OC Engine chip, while maintaining a competitive price. This iteration offers improved performance and capabilities without breaking the bank. Overall, the B850 Tomahawk Max Wifi II refines the original design for enhanced user experience.
 
-💡 *Buy older external SSDs before AI demand drives up costs.*
+💡 *Budget enthusiasts get more value with refined AM5 motherboard features.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-ssds/how-to-protect-yourself-from-bad-external-ssds-during-the-pc-hardware-apocalypse-newer-drives-will-definitely-cost-more-and-some-may-offer-up-shockingly-poor-performance)
-
----
-
-### 2. Windows 11 is getting support for 1,000 Hz+ monitors soon as part of Insider builds Microsoft has reportedly increased the refresh rate limit to 5,000 Hz 
-
-Windows 11 Insider builds now support 1,000 Hz+ monitors, with a limit of 5,000 Hz. This feature is part of the Release Preview channel, indicating a near-final release. Nvidia has also updated its G-Sync Pulsar displays.
-
-💡 *Higher refresh rates enhance gaming and video performance significantly always.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/windows-11-is-getting-support-for-1-000-hz-monitors-soon-as-part-of-insider-builds-microsoft-has-reportedly-increased-the-refresh-rate-limit-to-5-000-hz)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/msi-mag-b850-tomahawk-max-wifi-ii-motherboard-review)
 
 ---
 
-### 3. Creality Sermoon P1 3D Scanner review: 3D scanning on the go 
+### 2. Enthusiast rebuilds AA-battery-powered PC, sextuples run time to 30 minutes with 64 batteries uses three voltage regulators in parallel to achieve stability, runs computer for over 30 minutes on 64 AA cells 
 
-The Creality Sermoon P1 is a portable 3D scanner that excels in speed and on-device editing capabilities. It features multiple scanning modes, including NIR mode without markers, and can handle challenging tasks like scanning deep holes. However, the color texture results were disappointing.
+YouTube creator ScuffedBits rebuilt their AA-battery-powered PC, achieving 30 minutes of game time. They used 64 AA batteries and three voltage regulators in parallel for stability. This impressive feat demonstrates the potential for creative battery-powered computing.
 
-💡 *Advanced 3D scanning on the go with seamless editing capabilities.*
+💡 *Unconventional battery configurations can extend device run times significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/3d-scanning/creality-sermoon-p1-3d-scanner-review)
-
----
-
-### 4. Rockchip RK3538 TV Box SoC and RK3572 mid-range HMI processor are coming soon 
-
-Rockchip is preparing to launch the RK3538 and RK3572 mid-range SoCs. The RK3538 is designed for TV boxes with a quad-core Cortex-A55 processor. The RK3572 targets Human Machine Interface applications with a hexa-core Cortex-A73/A53 SoC.
-
-💡 *Rockchip expands its mid-range SoC offerings for various applications.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/13/rockchip-rk3538-tv-box-soc-rk3572-mid-range-hmi-processor/)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/enthusiast-rebuilds-aa-battery-powered-pc-sextuples-run-time-to-30-minutes-with-64-batteries-uses-three-voltage-regulators-in-parallel-to-achieve-stability-runs-computer-for-over-30-minutes-on-64-aa-cells)
 
 ---
 
-### 5. 11-month old Russian outfit claims it has developed 16-core and 32-core chips, flaunts Cyrillic-badged processors chips appear to be sanctions-swerving rebadged Chinese Loongson processors 
+### 3. Nvidia, AMD, and Intel back Microsoft's plan to fix shader compilation stutter 
 
-Russia's Tramplin Electronics claims to have developed 16-core and 32-core chips, but appear to be rebadged Chinese Loongson processors with Cyrillic labels.
+Nvidia and AMD support Microsoft's Advanced Shader Delivery technology to fix shader-compilation stutter in PC games. The feature will arrive on Nvidia RTX graphics cards later this year. AMD has also confirmed its support.
 
-💡 *Sanctions evasion through processor rebadging and localization attempts*
+💡 *Reducing shader-compilation stutter improves smooth gaming experiences.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/11-month-old-russian-outfit-claims-it-has-developed-16-core-and-32-core-processors-flaunts-cyrillic-badged-processors-chips-appear-to-be-sanctions-swerving-rebadged-chinese-loongson-processors)
-
----
-
-### 6. 2026 PC shipment forecast slashed amid memory shortages IDC says total PC market value to nonetheless increase to $274 billion due to ongoing price hikes 
-
-IDC forecasts an 11.3% drop in PC shipments in 2026, but a 1.6% increase in market value due to higher prices.
-
-💡 *Price hikes offset shipment decline in the PC market.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/idc-slashes-2026-pc-shipment-forecast-amid-memory-shortages-total-pc-market-value-to-nonetheless-increase-to-usd274-billion-due-to-ongoing-price-hikes)
+🔗 [Read Full Article](https://www.techspot.com/news/111681-nvidia-amd-intel-back-microsoft-plan-fix-shader.html)
 
 ---
 
-### 7. China bans OpenClaw from government computers and issues security guidelines amid adoption frenzy nation scrambles to rein in popular AI agent 
+### 4. US gov't revokes controversial AI hardware export rule that would mandate investments from foreign companies new export rules are still in the works, though 
 
-China's central government is restricting OpenClaw on government computers due to security concerns. This move aims to control the spread of the popular AI agent within government agencies. Multiple government bodies are involved in the effort to rein in OpenClaw.
+The U.S. Department of Commerce withdrew a draft rule requiring foreign investments in U.S. AI sector as a condition for exporting AI accelerators. This move revokes a controversial rule that would give the U.S. government significant control over export controls. The department is still working on new export rules.
 
-💡 *China is scrambling to regulate AI adoption amid security risks.*
+💡 *U.S. maintains flexibility in AI export control policies.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/china-bans-openclaw-from-government-computers-and-issues-security-guidelines-amid-adoption-frenzy)
-
----
-
-### 8. Esparagus Audio Brick ESP32-based DIN-rail 65W Hi-Fi amplifier supports Home Assistant and Squeezelite (Crowdfunding) 
-
-The Esparagus Audio Brick is a compact ESP32-based amplifier with Home Assistant support, ideal for building whole-home audio setups, retrofitting vintage speakers, or powering custom speaker configurations.
-
-💡 *Enhances home audio with a compact, ESP32-powered Hi-Fi Class-D amplifier solution.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/14/esparagus-audio-brick-esp32-based-din-rail-65w-hi-fi-amplifier-supports-home-assistant-squeezelite/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-revokes-controversial-ai-hardware-export-rule-that-would-mandate-investments-from-foreign-companies-new-export-rules-are-still-in-the-works-though)
 
 ---
 
-### 9. MacBook Neo teardown reveals Apple's most repair-friendly laptop in years 
+### 5. Noctua teases upcoming PC case with brown color scheme and bundled fans appears to be Antec Flux Pro Noctua Edition with NF-A14x25 G2 fans 
 
-The MacBook Neo features a repair-friendly design with a removable keyboard, unlike recent MacBook models. This design allows for keyboard problems to be easily fixed without major surgery. The separate keyboard part makes maintenance and repairs more accessible.
+Noctua unveils a custom PC case with brown color scheme, featuring enhanced cooling hardware, mesh airflow panels, and support for large radiators. The case appears to be the Antec Flux Pro Noctua Edition. It comes bundled with NF-A14x25 G2 fans.
 
-💡 *Separate keyboard design simplifies repair and maintenance significantly.*
+💡 *High-end custom PC cases with enhanced cooling options emerge.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111671-macbook-neo-teardown-reveals-apple-most-repair-friendly.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/noctua-teases-upcoming-pc-case-that-appears-to-be-the-antec-flux-pro-noctua-edition-with-brown-color-scheme-and-bundled-nf-a14x25-g2-fans)
+
+---
+
+### 6. CPU fraud scandal erupts as another Chinese laptop busted with a fake chip second device sporting a disguised Ryzen 5500U uncovered after vendor threatens legal action 
+
+Notebookcheck has uncovered a Chuwi laptop with allegedly fake processor, raising authenticity concerns.
+
+💡 *Fake CPUs undermine trust and fairness in the laptop market ecosystem.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/cpu-fraud-scandal-erupts-as-another-chinese-laptop-busted-with-a-fake-chip-second-device-sporting-a-disguised-ryzen-5500u-uncovered-after-vendor-threatens-legal-action)
+
+---
+
+### 7. AERIS-10 open-source hardware radar can track multiple objects up to 20km away 
+
+AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system, available in two versions. The AERIS-10X offers up to 20km range with a 32 16 dielectric-filled slotted waveguide array, while the AERIS-10N provides up to 3km range. The system features advanced processing and features like Doppler and CFAR processing.
+
+💡 *Open-source radar technology democratizes access to advanced tracking capabilities.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/15/aeris-10-open-source-hardware-radar-can-track-multiple-objects-up-to-20km-away/)
 
 ---
 
