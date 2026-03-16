@@ -1,194 +1,247 @@
 [
   {
-    "title": "AMD's former pound-for-pound gaming champ hits its historic low again Ryzen 7 9800X3D offers unmatched value for gamers at $429",
-    "summary": "The Ryzen 7 9800X3D is down to an all-time low price, making it a more enticing option than the slightly more performant but also much more expensive Ryzen 7 9850X3D.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amds-former-pound-for-pound-gaming-champ-hits-its-historic-low-again-ryzen-7-9800x3d-offers-unmatched-value-for-gamers-at-usd429",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.680724"
-  },
-  {
-    "title": "Invisible malicious code attacks 151 GitHub repos and VS Code Glassworm attack uses blockchain to steal tokens, credentials, and secrets",
-    "summary": "The technique exploits Unicode Private Use Area characters, which render as zero-width whitespace in virtually every code editor and terminal.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/malicious-packages-using-invisible-unicode-found-in-151-github-repos-and-vs-code",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.680854"
-  },
-  {
-    "title": "MSI MAG B850 Tomahawk Max Wifi II Motherboard review: Sharpening the Tomahawk s blade",
-    "summary": "The B850 Tomahawk Max Wifii II refines the popular budget AM5 board with additional M.2 storage, an OC Engine chip, a 64MB BIOS, a minor facelift, and a small price increase.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/msi-mag-b850-tomahawk-max-wifi-ii-motherboard-review",
+    "title": "Save over $100 on this feature-rich Asus AM5 motherboard with Wi-Fi 7, USB4 & DDR5-8000 support TUF Gaming X870-Plus is on sale for just $170",
+    "summary": "Asus launched this motherboard at $310 in late 2024, and since then its MSRP has gone down to $280, but you can score it for 40% less than that on Amazon right now. For that price, nothing really comes close in terms of performance, features, and reliability.",
+    "link": "https://www.tomshardware.com/pc-components/save-over-usd100-on-this-feature-rich-asus-am5-motherboard-with-wi-fi-7-usb4-and-ddr5-8000-support-tuf-gaming-x870-plus-is-on-sale-for-just-usd170",
     "categories": [
       "Hardware",
-      "Semiconductors"
+      "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-15T09:06:07.680968"
+    "quality_score": 5,
+    "processed_date": "2026-03-16T09:45:35.097709"
   },
   {
-    "title": "US gov't revokes controversial AI hardware export rule that would mandate investments from foreign companies new export rules are still in the works, though",
-    "summary": "U.S. Department of Commerce withdraws draft export rule for AI accelerators that would give the U.S. government ultimate power over export controls and mandate investments of foreign firms in the U.S. AI sector.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-revokes-controversial-ai-hardware-export-rule-that-would-mandate-investments-from-foreign-companies-new-export-rules-are-still-in-the-works-though",
+    "title": "Tennessee grandmother wrongly jailed for six months, latest victim of AI-driven misidentification facial recognition is jailing the wrong people, but police keep using it anyway",
+    "summary": "A Tennessee grandmother spent nearly six months in jail after police in Fargo, North Dakota, used facial recognition software to identify her as the primary suspect in a bank fraud case.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/facial-recognition-is-jailing-the-wrong-people-police-keep-using-it-anyway",
     "categories": [
-      "AI & ML",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-16T09:45:35.097846"
+  },
+  {
+    "title": "Microsoft s unhackable Xbox One has been hacked by 'Bliss' the 2013 console finally fell to voltage glitching, allowing the loading of unsigned code at every level",
+    "summary": "A groundbreaking hack for Microsoft s unhackable Xbox One was revealed at the recent RE//verse 2026 conference.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-16T09:45:35.097951"
+  },
+  {
+    "title": "AMD's upcoming RDNA 5 GPUs might improve dual-issue execution & use shader units more efficiently LLVM patch adds new FMA instruction to ease compiling",
+    "summary": "A new LLVM patch has added V_FMA_F32, a 3-operand fused multiply-add (FMA instruction and introduced the VOPD3 instruction format for RDNA 5. Both of these changes should make it easier for compilers to use dual issue execution, working around the strict pairing rules that would otherwise limit max FP32 throughput in certain workloads.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/amds-upcoming-rdna-5-gpus-might-improve-dual-issue-execution-and-use-shader-units-more-efficiently-llvm-patch-adds-new-fma-instruction-to-ease-compiling",
+    "categories": [
+      "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.681087"
+    "processed_date": "2026-03-16T09:45:35.098082"
   },
   {
-    "title": "Chocolate 3D printer startup Cocoa Press levels up with former Prusa executive",
-    "summary": "David Randolph brings 10 years of manufacturing experience to the chocolate printer startup, Cocoa Press.",
-    "link": "https://www.tomshardware.com/3d-printing/chocolate-3d-printer-startup-cocoa-press-levels-up-with-former-prusa-executive",
+    "title": "ASML workers still in the dark seven weeks after 1,700 management cuts announced cuts represent 4% of its global workforce",
+    "summary": "The prolonged uncertainty is generating internal unrest, according to an ASML spokesperson who spoke to Dutch broadcaster Omroep Brabant.",
+    "link": "https://www.tomshardware.com/tech-industry/asml-workers-still-in-the-dark-seven-weeks-after-1700-management-cuts-announced",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-16T09:45:35.098192"
+  },
+  {
+    "title": "385TB video game archive saved by fans Myrient has been '100% backed up' and validated, torrents being generated",
+    "summary": "A member of the Save Myrient community has announced that the colossal video games archive has been 100% backed up! ",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/385tb-video-game-archive-saved-by-fans-myrient-has-been-100-percent-backed-up-and-validated-torrents-being-generated",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-16T09:45:35.098292"
+  },
+  {
+    "title": "Chinese GPU-maker Lisuan flaunts new design details for its LX 7G100 gaming card - also updates LX GPU product pages with server and workstation specs",
+    "summary": "Meanwhile, the older 7G105 GPU name no longer appears on the site; all four cards now sit under the LX product branding.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/lisuan-updates-lx-professional-gpu-product-page-with-server-and-workstation-specs",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-16T09:45:35.098399"
+  },
+  {
+    "title": "Apple's MacBook Neo modded to a 1 TB SSD, breaking the firm's 512 GB barrier base 256 GB model gets modded in expert NAND swap surgery",
+    "summary": "DirectorFeng, an expert technician in China has just performed what is likely the first hardware mod of its kind on the new MacBook Neo. He has birthed the world's only MacBook Neo with a terabyte of storage by physically changing the NAND chip on the logic board. Whether this mod is worth the price given the Neo's target audience, well, that's for you to decide.",
+    "link": "https://www.tomshardware.com/laptops/macbooks/apples-macbook-neo-modded-to-a-1-tb-ssd-breaking-the-firms-512-gb-barrier-base-256-gb-model-gets-modded-in-expert-nand-swap-surgery",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-16T09:45:35.098524"
+  },
+  {
+    "title": "Elon Musk says his chipmaking 'Terafab Project' venture will launch in seven days Musk's latest moonshot multi-billion project launches on a Saturday",
+    "summary": "Elon Musk plans to start his 'Terafab Project' semiconductor production venture in a week.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-his-terafab-project-chipmaking-venture-will-launch-in-seven-days-musks-latest-moonshot-multi-billion-project-launches-on-a-saturday",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-16T09:45:35.098631"
+  },
+  {
+    "title": "ASRock launches new Frankensteined motherboard with one DDR4 slot and two DDR5 slots Intel board signals the RAM apocalypse is truly nigh",
+    "summary": "A motherboard that can accept both DDR4 and DDR5 memory can be the difference between you being able to build a new PC or putting it off till the shortage is over. ASRock's new H610M Combo II is otherwise pretty barebones, not even featuring PCIe 4.0 storage, but it does have enough to get you by before things settle down.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/asrock-launches-new-frankensteined-motherboard-with-one-ddr4-slot-and-two-ddr5-slots-intel-board-signals-the-ram-apocalypse-is-truly-nigh",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-16T09:45:35.098747"
+  },
+  {
+    "title": "Sega s missing link Saturn 'TRIP accelerator' project was real 1996-era plans revealed by engineer for the first time",
+    "summary": "An ex-Hitachi, ex-Sega, and ex-Sony engineer has confirmed that he proposed and developed a Saturn graphics accelerator, codenamed TRIP, based on Hitachi s SH 3 processor.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/segas-missing-link-saturn-trip-accelerator-project-was-real-1996-era-plans-revealed-by-engineer-for-the-first-time",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-16T09:45:35.098866"
+  },
+  {
+    "title": "Microscopes can clearly see the video on the surface of a CED 'LaserDisc,' discovers Techtuber a 12-inch vinyl-like disc that stores SD analog video",
+    "summary": "Images representing the contents can clearly be seen when studying the surface of a CED LaserDisc under a microscope.",
+    "link": "https://www.tomshardware.com/pc-components/storage/microscopes-can-clearly-see-the-video-on-the-surface-of-a-laserdisc-discovers-techtuber-a-12-inch-vinyl-like-disc-that-stores-sd-analog-video",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-16T09:45:35.098968"
+  },
+  {
+    "title": " Clean-room reimplementation of DR-DOS hits early beta, modernizing the operating system 38 years after its debut runs Doom, Warcraft, SimCity, and other period-appropriate titles",
+    "summary": "DR DOS version 9.0 is now in beta testing, with Revision 291 recently released and available for anyone to download and test.",
+    "link": "https://www.tomshardware.com/software/operating-systems/clean-room-reimplementation-of-dr-dos-hits-early-beta-modernizing-the-operating-system-38-years-after-its-debut-runs-doom-warcraft-simcity-and-other-period-appropriate-titles",
     "categories": [
       "Tech News",
-      "Semiconductors"
+      "AI & ML"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-03-15T09:06:07.681187"
+    "quality_score": 10,
+    "processed_date": "2026-03-16T09:45:35.099094"
   },
   {
-    "title": "Noctua teases upcoming PC case with brown color scheme and bundled fans appears to be Antec Flux Pro Noctua Edition with NF-A14x25 G2 fans",
-    "summary": "The case builds on the standard Flux Pro design with enhanced cooling hardware, mesh airflow panels, support for large radiators, and Noctua s well-known brown color scheme.",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/noctua-teases-upcoming-pc-case-that-appears-to-be-the-antec-flux-pro-noctua-edition-with-brown-color-scheme-and-bundled-nf-a14x25-g2-fans",
+    "title": "40-year-old Arcade classic shoot em up Gradius gets pure ASCII PC remake you can even save your gaming screenshots as .TXT files",
+    "summary": "A developer has rebuilt the classic Gradius arcade game from the ground up, using ASCII.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/40-year-old-arcade-classic-shoot-em-up-gradius-gets-pure-ascii-pc-remake-you-can-even-save-your-gaming-screenshots-as-txt-files",
     "categories": [
       "Hardware",
-      "AI & ML"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.681296"
+    "processed_date": "2026-03-16T09:45:35.099252"
   },
   {
-    "title": "Chip material prices double as Middle East conflict compounds China's existing gallium export ban wide range of materials for chipmaking skyrocket as supply constricts",
-    "summary": "Manufacturers have said that prices for key chipmaking metals have doubled, and gallium has climbed sharply, as disruptions from the ongoing Middle East conflict pile onto supply constraints.",
-    "link": "https://www.tomshardware.com/tech-industry/chip-material-prices-double-as-middle-east-conflict-compounds-chinas-gallium-export-ban",
+    "title": "SparkFun OpenScale IoT An ESP32 board with HX711 ADC for smart scales with WiFi and Bluetooth connectivity",
+    "summary": "The SparkFun OpenScale IoT project is a ready-to-use ESP32-based IoT smart scale with open-source hardware and firmware support that makes it easy to read precise weight data from load cells without writing custom code from scratch for basic operation. It handles amplification via the HX711 24-bit ADC, calibration, temperature compensation (using the onboard TMP102 and an optional external DS18B20 probe), and serial output/configuration through a simple text-based menu. It also features Wi-Fi for live data and OTA firmware updates, requiring no dedicated apps just standard terminal tools and a browser for viewing data. Additionally, there is a Qwiic I C connector for adding extra sensors or displays. The board operates from 5 V with a typical current consumption of 80 to 100 mA, supports selectable output data rates of 10 or 80 SPS, and includes an adjustable gain for accurate measurements in long-term monitoring setups. SparkFun OpenScale IoT Specifications: Wireless [...] The post SparkFun OpenScale IoT An ESP32 board with HX711 ADC for smart scales with WiFi and Bluetooth connectivity appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/16/sparkfun-openscale-iot-an-esp32-board-with-hx711-adc-for-smart-scales-with-wifi-and-bluetooth-connectivity/",
     "categories": [
-      "Semiconductors",
-      "AI & ML"
+      "Hardware",
+      "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.681429"
+    "quality_score": 10,
+    "processed_date": "2026-03-16T09:45:35.099849"
   },
   {
-    "title": "Fiber internet provider says it can detect leaking water pipes using existing infrastructure, prevented loss of 2 million liters a day over three months Lightsonic tech detects underground vibrations, machine learning isolates the source",
-    "summary": "U.K. fiber network provider Openreach used startup firm Lightsonic's technology to detect leaks in Affinity Water's service area, helping save over 2 million liters of drinking water daily.",
-    "link": "https://www.tomshardware.com/networking/fiber-provider-says-it-can-detect-leaking-water-pipes-using-existing-infrastructure-prevents-loss-of-2-million-liters-a-day-over-three-months-company-uses-lightsonic-technology-to-detect-underground-vibrations-machine-learning-to-isolate-source",
+    "title": "M5Stamp C6LoRa tiny (18 15 2.3 mm) SMD module pairs ESP32-C6 with SX1262 LoRa chip",
+    "summary": "The M5Stamp C6LoRa is a compact LoRa SMD module that combines the ESP32-C6 Wi-Fi 6, Bluetooth LE, and 802.15.4 microcontroller with the SX1262 LoRa transceiver for both high-speed and long-distance communication. The module targets applications such as smart agriculture, remote meter reading, industrial monitoring, and outdoor long-range wireless control systems. The module measures 18 15 2.3 mm, making it suitable for space-constrained systems and compact embedded designs. M5Stack has also added an SGM13005L4 low-noise amplifier (LNA) to improve reception performance, along with a PI4IOE5V6408 I/O expander that manages the LoRa control signals without using too many of the ESP32-C6 s GPIO pins. M5Stamp C6LoRa specifications: SoC Espressif Systems ESP32-C6 CPU Single-core 32-bit RISC-V clocked up to 160 MHz Low-power RISC-V core @ up to 20 MHz Memory/Storage 512KB SRAM, 320KB ROM Wireless WiFi 6, BLE 5.3, 802.15.4 (See wireless section) Storage 16 MB external NOR flash [...] The post M5Stamp C6LoRa tiny (18 15 2.3 mm) SMD module pairs ESP32-C6 with SX1262 LoRa chip appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/16/m5stamp-c6lora-tiny-18x15x2-3-mm-smd-module-pairs-esp32-c6-with-sx1262-lora-chip/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-16T09:45:35.100021"
+  },
+  {
+    "title": "Pok mon Go's AR data has been turned into centimeter-accurate navigation for delivery robots",
+    "summary": "Niantic Spatial, an AI spinout formed in 2025, has turned years of mobile gaming data into what it describes as a high-precision world model of the physical environment. The company is now commercializing that work through a visual positioning system that can locate devices to within a few centimeters using... Read Entire Article",
+    "link": "https://www.techspot.com/news/111690-pokmon-go-ar-data-has-turned-centimeter-accurate.html",
     "categories": [
       "AI & ML",
-      "Tech News"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.681549"
+    "processed_date": "2026-03-16T09:45:35.101253"
   },
   {
-    "title": "DoJ dismantles botnet made of 360,000 infected routers and IOT devices spread across 163 countries that ran for 16 years SocksEscort proxy network eliminated in joint operation with Europol",
-    "summary": "Long-running SocksEscort proxy network brought down by US-EU operation",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/doj-dismantles-socksescort-proxy-network-that-ran-for-16-years-in-joint-operation-with-europol-botnet-comprised-360-000-infected-routers-and-iot-devices-across-163-countries",
+    "title": "Gig workers are getting paid to film their daily chores to train robots",
+    "summary": "Unlike chatbots, which learned to imitate human language through vast stores of online text, robots require something the internet doesn't provide in abundance: detailed examples of real-world movement. How a person grips a sponge, stirs soup, or shuts off a running tap contains a level of nuance that sensors and... Read Entire Article",
+    "link": "https://www.techspot.com/news/111686-gig-workers-getting-paid-film-their-daily-chores.html",
     "categories": [
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.681647"
+    "processed_date": "2026-03-16T09:45:35.101368"
   },
   {
-    "title": "CPU fraud scandal erupts as another Chinese laptop busted with a fake chip second device sporting a disguised Ryzen 5500U uncovered after vendor threatens legal action",
-    "summary": "Notebookcheck has uncovered yet another case of a Chuwi laptop allegedly featuring a processor different from the one advertised, intensifying concerns over CPU authenticity.",
-    "link": "https://www.tomshardware.com/laptops/cpu-fraud-scandal-erupts-as-another-chinese-laptop-busted-with-a-fake-chip-second-device-sporting-a-disguised-ryzen-5500u-uncovered-after-vendor-threatens-legal-action",
+    "title": "GPS is getting jammed in the Strait of Hormuz, and ships are appearing in circles",
+    "summary": "The interference has scrambled the Automatic Identification Systems (AIS) that ships rely on to share their positions. That means tankers carrying hundreds of thousands of tons of oil may not know exactly where nearby vessels are a potentially catastrophic problem in narrow waterways, where even a small navigational error... Read Entire Article",
+    "link": "https://www.techspot.com/news/111688-gps-getting-jammed-strait-hormuz-ships-appearing-circles.html",
     "categories": [
-      "Hardware",
-      "Semiconductors"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.681758"
+    "processed_date": "2026-03-16T09:45:35.101483"
   },
   {
-    "title": "Enthusiast rebuilds AA-battery-powered PC, sextuples run time to 30 minutes with 64 batteries uses three voltage regulators in parallel to achieve stability, runs computer for over 30 minutes on 64 AA cells",
-    "summary": "YouTube creator ScuffedBits re-did their experiment and was able to eke out 30 minutes of game time (and a benchmarking session!) while running their desktop PC on 64 AA batteries.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/enthusiast-rebuilds-aa-battery-powered-pc-sextuples-run-time-to-30-minutes-with-64-batteries-uses-three-voltage-regulators-in-parallel-to-achieve-stability-runs-computer-for-over-30-minutes-on-64-aa-cells",
+    "title": "HandBrake remains the go-to free encoder for compressing and converting video",
+    "summary": "HandBrake is one of the most popular free video tools around, offering a powerful way to convert and compress video files. The open-source transcoder supports Windows, macOS, and Linux and can convert almost any video format into widely compatible codecs like H.264, H.265, AV1, MP4, or MKV. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/4785-handbrake.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-16T09:45:35.101591"
+  },
+  {
+    "title": "This $155 ESP32-powered DIY drone can hit 67 mph",
+    "summary": "ESP-Blast centers on an ESP32 board serving as the flight controller, a role usually handled by dedicated flight-control hardware in high-performance drones. The ESP32, which integrates a dual-core processor along with Wi-Fi and Bluetooth, is typically used in connected devices and hobbyist electronics rather than in high-speed aerial platforms. Read Entire Article",
+    "link": "https://www.techspot.com/news/111684-155-esp32-powered-diy-drone-can-hit-67.html",
     "categories": [
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-15T09:06:07.681873"
+    "processed_date": "2026-03-16T09:45:35.101699"
   },
   {
-    "title": "Six-month rewritable DVD endurance test crowns winner with 1,000 rewrites, shows the best discs are no longer manufactured six month of tests find TDK is a clear leader, Verbatim and Memorex didn t do well",
-    "summary": "A tech enthusiast has shared their DVD rewritable durability findings, following six months of testing.",
-    "link": "https://www.tomshardware.com/pc-components/storage/six-month-dvd-rewritable-test-shows-the-best-discs-are-no-longer-manufactured-tdk-a-clear-leader-verbatim-and-memorex-didnt-do-well",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.681975"
-  },
-  {
-    "title": "US and Gulf states race for Ukrainian interceptor drones, 3D printed model costs $1,000 apiece Shahed-136 kamikaze drone threat spurs rush for interceptors",
-    "summary": "Ukraine has sent drone interceptors and training crews to the U.S. and its Gulf State allies as the Iran War rumbles on.",
-    "link": "https://www.tomshardware.com/tech-industry/us-and-gulf-states-race-for-ukrainian-interceptor-drones-3d-printed-model-costs-usd1-000-apiece-shahed-136-kamikaze-drone-threat-spurs-rush-for-interceptors",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.682078"
-  },
-  {
-    "title": "AERIS-10 open-source hardware radar can track multiple objects up to 20km away",
-    "summary": "AERIS-10 is an open-source hardware, low-cost (more on that later) 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation and based on an AMD Artix-7 FPGA. Two versions are available: the AERIS-10N (Nexus), providing up to 3km range with an 8 16 patch antenna array, and the AERIS-10X (Extended), offering up to 20km range thanks to a 32 16 dielectric-filled slotted waveguide array. ARIES-10 key components and features: Main board FPGA AMD Artix-7 XC7A100T for: PLFM Chirps generation via the DAC Raw ADC data read Automatic Gain Control (AGC) I/Q Baseband Down-Conversion Decimation Filtering Forward FFT Pulse Compression Doppler, MTI, and CFAR processing USB Interface MCU ST STM32F746xx microcontroller for Power management FPGA communication Setup and interface with the components on the main, frequency synthesizer, and power amplifier boards, plus: GPS module for GUI map centering GY-85 IMU for pitch/roll correction of target coordinates BMP180 Barometer [...] The post AERIS-10 open-source hardware radar can track multiple objects up to 20km away appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/15/aeris-10-open-source-hardware-radar-can-track-multiple-objects-up-to-20km-away/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.682652"
-  },
-  {
-    "title": "Survey finds Americans worry about AI data centers, but still want the jobs",
-    "summary": "Out of 8,512 US adults surveyed in late January, more respondents expressed negative views about data centers' effects on the environment and energy costs than positive ones. However, the largest number of respondents expect data centers to have a positive impact on jobs and tax revenue, and many remain unsure... Read Entire Article",
-    "link": "https://www.techspot.com/news/111682-survey-finds-americans-worry-about-ai-data-centers.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.683974"
-  },
-  {
-    "title": "Drone strikes halt a third of the world's helium supply, threatening chip production",
-    "summary": "At the center of the issue is the precision gas vital to chip manufacturing and cryogenics. Helium cools silicon wafers during fabrication, maintaining the extremely low temperatures required for etching and lithography. Unlike other industrial gases, there is no effective substitute, and experts warn that even short disruptions can ripple... Read Entire Article",
-    "link": "https://www.techspot.com/news/111683-critical-semiconductor-gas-lost-third-global-supply-drone.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.684165"
-  },
-  {
-    "title": "Pagers and paper maps make a comeback in Moscow as the internet goes dark",
-    "summary": "For roughly the past week, mobile internet across central Moscow and parts of St. Petersburg has been intermittently failing. People can't load apps, hail cabs, or, in some cases, even make a basic phone call. That last point is particularly concerning. Entire voice networks have gone dark in parts of... Read Entire Article",
-    "link": "https://www.techspot.com/news/111679-pagers-paper-maps-making-comeback-moscow-no-not.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-15T09:06:07.684334"
-  },
-  {
-    "title": "Nvidia, AMD, and Intel back Microsoft's plan to fix shader compilation stutter",
-    "summary": "Nvidia announced its support for Microsoft's new Advanced Shader Delivery technology during a presentation at the Game Developers Conference this week. The feature, designed to address shader-compilation stutter in PC games, will arrive on RTX graphics cards later this year. AMD has also confirmed support, though it has not provided... Read Entire Article",
-    "link": "https://www.techspot.com/news/111681-nvidia-amd-intel-back-microsoft-plan-fix-shader.html",
+    "title": "AMD unveils OpenClaw to run AI agents locally on Ryzen and Radeon hardware",
+    "summary": "The effort is part of AMD's broader Agent Computer initiative, which argues that the future of AI isn't limited to remote infrastructure. Instead, it envisions a world where users control both their data and their computing environment where AI assistants operate continuously with reduced network dependence, fewer external subscriptions,... Read Entire Article",
+    "link": "https://www.techspot.com/news/111685-amd-unveils-openclaw-run-ai-agents-locally-ryzen.html",
     "categories": [
       "GPUs",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-15T09:06:07.684536"
+    "quality_score": 5,
+    "processed_date": "2026-03-16T09:45:35.101841"
+  },
+  {
+    "title": "Testing AMD FSR 4.1: Sharper Images, But DLSS Still Leads",
+    "summary": "AMD's upcoming FSR 4.1 update promises clearer detail and less motion blur. We tested the new upscaler against FSR 4 and Nvidia's DLSS 4.5 to see how much image quality has improved. Read Entire Article",
+    "link": "https://www.techspot.com/article/3102-amd-fsr-41-tested/",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-16T09:45:35.101953"
   }
 ]

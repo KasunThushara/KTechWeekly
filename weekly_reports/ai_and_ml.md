@@ -1,125 +1,105 @@
 # 🤖 AI & ML
-**Week of March 15, 2026**
+**Week of March 16, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-03-15 09:06
+- **Articles this week:** 9
+- **Report generated:** 2026-03-16 09:46
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD's former pound-for-pound gaming champ hits its historic low again Ryzen 7 9800X3D offers unmatched value for gamers at $429 
+### 1. ASML workers still in the dark seven weeks after 1,700 management cuts announced cuts represent 4% of its global workforce 
 
-The Ryzen 7 9800X3D has hit an all-time low price, making it a more affordable option for gamers than the more expensive Ryzen 7 9850X3D. This historic low price makes the Ryzen 7 9800X3D a more enticing choice for those looking for high-performance gaming at a lower cost. The price drop offers unmatched value for gamers.
+ASML workers remain uncertain 7 weeks after 1,700 management cuts announcement
 
-💡 *Historic price drop offers unmatched gaming value for budget-conscious gamers.*
+💡 *Uncertainty fuels unrest among remaining employees*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-former-pound-for-pound-gaming-champ-hits-its-historic-low-again-ryzen-7-9800x3d-offers-unmatched-value-for-gamers-at-usd429)
-
----
-
-### 2. Invisible malicious code attacks 151 GitHub repos and VS Code Glassworm attack uses blockchain to steal tokens, credentials, and secrets 
-
-Malicious code exploits Unicode Private Use Area characters to evade detection, targeting 151 GitHub repositories and using the VS Code Glassworm attack to steal sensitive information via blockchain. This technique renders as zero-width whitespace in most code editors and terminals. Attackers can secretly insert malicious code into projects without being detected.
-
-💡 *Evading detection via Unicode characters compromises security in most code environments.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/malicious-packages-using-invisible-unicode-found-in-151-github-repos-and-vs-code)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/asml-workers-still-in-the-dark-seven-weeks-after-1700-management-cuts-announced)
 
 ---
 
-### 3. US gov't revokes controversial AI hardware export rule that would mandate investments from foreign companies new export rules are still in the works, though 
+### 2.  Clean-room reimplementation of DR-DOS hits early beta, modernizing the operating system 38 years after its debut runs Doom, Warcraft, SimCity, and other period-appropriate titles 
 
-The U.S. Department of Commerce withdrew a draft rule requiring foreign investments in U.S. AI sector as a condition for exporting AI accelerators. This move revokes a controversial rule that would give the U.S. government significant control over export controls. The department is still working on new export rules.
+DR-DOS version 9.0 has reached early beta with Revision 291 available for download, featuring modernization and compatibility with classic games.
 
-💡 *U.S. maintains flexibility in AI export control policies.*
+💡 *Reviving a 38-year-old OS for modern gaming experiences.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-revokes-controversial-ai-hardware-export-rule-that-would-mandate-investments-from-foreign-companies-new-export-rules-are-still-in-the-works-though)
-
----
-
-### 4. Noctua teases upcoming PC case with brown color scheme and bundled fans appears to be Antec Flux Pro Noctua Edition with NF-A14x25 G2 fans 
-
-Noctua unveils a custom PC case with brown color scheme, featuring enhanced cooling hardware, mesh airflow panels, and support for large radiators. The case appears to be the Antec Flux Pro Noctua Edition. It comes bundled with NF-A14x25 G2 fans.
-
-💡 *High-end custom PC cases with enhanced cooling options emerge.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/noctua-teases-upcoming-pc-case-that-appears-to-be-the-antec-flux-pro-noctua-edition-with-brown-color-scheme-and-bundled-nf-a14x25-g2-fans)
+🔗 [Read Full Article](https://www.tomshardware.com/software/operating-systems/clean-room-reimplementation-of-dr-dos-hits-early-beta-modernizing-the-operating-system-38-years-after-its-debut-runs-doom-warcraft-simcity-and-other-period-appropriate-titles)
 
 ---
 
-### 5. Chip material prices double as Middle East conflict compounds China's existing gallium export ban wide range of materials for chipmaking skyrocket as supply constricts 
+### 3. Tennessee grandmother wrongly jailed for six months, latest victim of AI-driven misidentification facial recognition is jailing the wrong people, but police keep using it anyway 
 
-Chip manufacturers face price hikes due to Middle East conflict disruptions and supply constraints, including China's gallium export ban.
+A Tennessee grandmother was wrongly jailed for 6 months due to AI-driven facial recognition misidentification. The incident highlights the flawed reliability of facial recognition technology. She was later identified as an innocent woman.
 
-💡 *Disrupted global supply chains imperil chip production and tech industry stability.*
+💡 *Facial recognition software can falsely incriminate innocent people with alarming frequency.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chip-material-prices-double-as-middle-east-conflict-compounds-chinas-gallium-export-ban)
-
----
-
-### 6. Fiber internet provider says it can detect leaking water pipes using existing infrastructure, prevented loss of 2 million liters a day over three months Lightsonic tech detects underground vibrations, machine learning isolates the source 
-
-Openreach used Lightsonic's tech to detect leaks, saving 2 million liters of water daily through existing fiber infrastructure.
-
-💡 *Early detection of leaks prevents massive water waste and saves resources.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/fiber-provider-says-it-can-detect-leaking-water-pipes-using-existing-infrastructure-prevents-loss-of-2-million-liters-a-day-over-three-months-company-uses-lightsonic-technology-to-detect-underground-vibrations-machine-learning-to-isolate-source)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/facial-recognition-is-jailing-the-wrong-people-police-keep-using-it-anyway)
 
 ---
 
-### 7. US and Gulf states race for Ukrainian interceptor drones, 3D printed model costs $1,000 apiece Shahed-136 kamikaze drone threat spurs rush for interceptors 
+### 4. Apple's MacBook Neo modded to a 1 TB SSD, breaking the firm's 512 GB barrier base 256 GB model gets modded in expert NAND swap surgery 
 
-Ukraine shares drone interceptors and training with the US and Gulf states to counter Iran's Shahed-136 kamikaze drones, as the Iran War escalates.
+DirectorFeng, a Chinese expert technician, successfully modified a MacBook Neo logic board to a 1 TB SSD, breaking Apple's 512 GB barrier. This mod was achieved through an expert NAND chip swap surgery. The result is the world's only MacBook Neo with a terabyte of storage.
 
-💡 *Regional security at risk from Iran's drone warfare capabilities.*
+💡 *Technicians can bypass Apple's storage limitations through expert hardware modifications*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-and-gulf-states-race-for-ukrainian-interceptor-drones-3d-printed-model-costs-usd1-000-apiece-shahed-136-kamikaze-drone-threat-spurs-rush-for-interceptors)
-
----
-
-### 8. AERIS-10 open-source hardware radar can track multiple objects up to 20km away 
-
-AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system, available in two versions. The AERIS-10X offers up to 20km range with a 32 16 dielectric-filled slotted waveguide array, while the AERIS-10N provides up to 3km range. The system features advanced processing and features like Doppler and CFAR processing.
-
-💡 *Open-source radar technology democratizes access to advanced tracking capabilities.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/15/aeris-10-open-source-hardware-radar-can-track-multiple-objects-up-to-20km-away/)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/apples-macbook-neo-modded-to-a-1-tb-ssd-breaking-the-firms-512-gb-barrier-base-256-gb-model-gets-modded-in-expert-nand-swap-surgery)
 
 ---
 
-### 9. Survey finds Americans worry about AI data centers, but still want the jobs 
+### 5. Pok mon Go's AR data has been turned into centimeter-accurate navigation for delivery robots 
 
-A survey found Americans are divided on data centers' environmental impact, but overwhelmingly believe they will create jobs and contribute to tax revenue.
+Niantic Spatial's AI system commercializes Pokémon Go's AR data, creating a high-precision world model for precise device location. This visual positioning system can locate devices within a few centimeters. It enables applications in delivery robots and beyond.
 
-💡 *Employment concerns outweigh environmental concerns for AI data centers.*
+💡 *Pokémon Go's data is revolutionizing real-world navigation accuracy.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111682-survey-finds-americans-worry-about-ai-data-centers.html)
-
----
-
-### 10. Drone strikes halt a third of the world's helium supply, threatening chip production 
-
-Drone strikes have halted a third of the world's helium supply, impacting chip production. Helium is crucial for cooling silicon wafers in fabrication. Its lack of substitutes makes disruptions particularly significant.
-
-💡 *Disruption to helium supply can ripple through global chip manufacturing.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111683-critical-semiconductor-gas-lost-third-global-supply-drone.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111690-pokmon-go-ar-data-has-turned-centimeter-accurate.html)
 
 ---
 
-### 11. Pagers and paper maps make a comeback in Moscow as the internet goes dark 
+### 6. Gig workers are getting paid to film their daily chores to train robots 
 
-Mobile internet has been intermittently failing in central Moscow and St. Petersburg, disrupting basic services.
+Gig workers are being paid to film their daily chores to train robots, providing detailed real-world movement examples.
 
-💡 *Disruption of internet access highlights society's reliance on modern technology.*
+💡 *Robot training relies on real-world movement examples, not just online data.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111679-pagers-paper-maps-making-comeback-moscow-no-not.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111686-gig-workers-getting-paid-film-their-daily-chores.html)
+
+---
+
+### 7. GPS is getting jammed in the Strait of Hormuz, and ships are appearing in circles 
+
+GPS interference in the Strait of Hormuz is causing AIS system failures. This may lead to navigational errors among tankers carrying large amounts of oil. The narrow waterways make this a potentially catastrophic situation.
+
+💡 *Navigation errors in narrow waterways pose catastrophic oil spill risks.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111688-gps-getting-jammed-strait-hormuz-ships-appearing-circles.html)
+
+---
+
+### 8. HandBrake remains the go-to free encoder for compressing and converting video 
+
+HandBrake is a free video tool that converts and compresses video files. It supports multiple platforms and widely compatible codecs. Users can convert almost any video format.
+
+💡 *Free and versatile video converter for cross-platform compatibility*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/4785-handbrake.html)
+
+---
+
+### 9. Testing AMD FSR 4.1: Sharper Images, But DLSS Still Leads 
+
+AMD's FSR 4.1 update promises improved detail and reduced motion blur. We tested it against FSR 4 and Nvidia's DLSS 4.5. While FSR 4.1 shows improvement, DLSS still leads in image quality.
+
+💡 *FSR 4.1 offers sharper images, but DLSS remains superior*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3102-amd-fsr-41-tested/)
 
 ---
 
