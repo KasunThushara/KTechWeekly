@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of March 16, 2026**
+**Week of March 17, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. M5Stamp C6LoRa tiny (18 15 2.3 mm) SMD module pairs ESP32-C6 with SX1262 LoRa chip ⭐
+### 1. Nvidia unveils details of new 88-core Vera CPUs positioned to compete with AMD and Intel new Vera CPU rack features 256 liquid-cooled chips that deliver up to a 6X gain in CPU throughput ⭐
 
 **💻 Hardware**
 
-The M5Stamp C6LoRa is a compact LoRa module combining ESP32-C6 with SX1262 for long-distance communication. It measures 18 15 2.3 mm, suitable for space-constrained systems. The module includes an LNA and I/O expander for improved reception performance.
+Nvidia unveiled its Vera data center CPUs with 88 cores, offering 50% performance gains over standard CPUs. The new architecture includes a 1.5X increase in IPC from its Olympus cores. The Vera CPU Rack features 256 liquid-cooled CPUs for CPU-centric workloads.
 
-💡 **Key Point:** Ultra-compact LoRa module for space-constrained, long-range wireless applications.
+💡 **Key Point:** Nvidia's Vera CPUs challenge AMD and Intel's CPU dominance strongly now.
 
-🔗 [Read More](https://www.cnx-software.com/2026/03/16/m5stamp-c6lora-tiny-18x15x2-3-mm-smd-module-pairs-esp32-c6-with-sx1262-lora-chip/)
-
----
-
-### 2. M5Stamp C6LoRa tiny (18 15 2.3 mm) SMD module pairs ESP32-C6 with SX1262 LoRa chip ⭐
-
-**⚡ Semiconductors**
-
-The M5Stamp C6LoRa is a compact LoRa module combining ESP32-C6 with SX1262 for long-distance communication. It measures 18 15 2.3 mm, suitable for space-constrained systems. The module includes an LNA and I/O expander for improved reception performance.
-
-💡 **Key Point:** Ultra-compact LoRa module for space-constrained, long-range wireless applications.
-
-🔗 [Read More](https://www.cnx-software.com/2026/03/16/m5stamp-c6lora-tiny-18x15x2-3-mm-smd-module-pairs-esp32-c6-with-sx1262-lora-chip/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-unveils-details-of-new-88-core-vera-cpus-positioned-to-compete-with-amd-and-intel-new-vera-cpu-rack-features-256-liquid-cooled-chips-that-deliver-up-to-a-6x-gain-in-cpu-throughput)
 
 ---
 
-### 3. SparkFun OpenScale IoT An ESP32 board with HX711 ADC for smart scales with WiFi and Bluetooth connectivity 
+### 2. Nvidia unveils details of new 88-core Vera CPUs positioned to compete with AMD and Intel new Vera CPU rack features 256 liquid-cooled chips that deliver up to a 6X gain in CPU throughput ⭐
+
+**🎮 GPUs**
+
+Nvidia unveiled its Vera data center CPUs with 88 cores, offering 50% performance gains over standard CPUs. The new architecture includes a 1.5X increase in IPC from its Olympus cores. The Vera CPU Rack features 256 liquid-cooled CPUs for CPU-centric workloads.
+
+💡 **Key Point:** Nvidia's Vera CPUs challenge AMD and Intel's CPU dominance strongly now.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-unveils-details-of-new-88-core-vera-cpus-positioned-to-compete-with-amd-and-intel-new-vera-cpu-rack-features-256-liquid-cooled-chips-that-deliver-up-to-a-6x-gain-in-cpu-throughput)
+
+---
+
+### 3. Intel Xeon 6 selected as host CPU for Nvidia DGX Rubin NVL8 systems Intel wins a contract as Nvidia enters data center processor market with Vera CPUs 
 
 **💻 Hardware**
 
-The SparkFun OpenScale IoT board offers an ESP32-based IoT smart scale solution with open-source hardware and firmware, featuring HX711 ADC, Wi-Fi, and Bluetooth connectivity for precise weight data and live updates.
+Intel's Xeon 6 processor will be the host CPU in Nvidia's DGX Rubin NVL8 systems. This partnership marks a significant collaboration between the two tech giants. Intel wins a contract as Nvidia enters the data center processor market with Vera CPUs.
 
-💡 **Key Point:** Enabling easy, precise, and wireless smart scale data collection and monitoring.
+💡 **Key Point:** Nvidia's entry into data center processors challenges AMD and Intel dominance
 
-🔗 [Read More](https://www.cnx-software.com/2026/03/16/sparkfun-openscale-iot-an-esp32-board-with-hx711-adc-for-smart-scales-with-wifi-and-bluetooth-connectivity/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-xeon-6-selected-as-host-cpu-for-nvidia-dgx-rubin-nvl8-systems)
 
 ---
 
-### 4. This $155 ESP32-powered DIY drone can hit 67 mph 
+### 4. Mini review of the ThinkNode M6 outdoor solar power for Meshtastic  
 
 **💻 Hardware**
 
-A DIY drone, ESP-Blast, utilizes an ESP32 board as its flight controller, achieving speeds of up to 67 mph. This unconventional approach deviates from typical high-performance drones that rely on dedicated hardware. The ESP32's integration of Wi-Fi and Bluetooth adds connectivity to the drone.
+The ThinkNode M6 outdoor solar power for Meshtastic is reviewed for its range and functionality in a suburban environment. The M6 is used as a router between two other ThinkNode nodes, M1 and M2. The review aims to assess the device's performance and potential in a real-world setting.
 
-💡 **Key Point:** Repurposing versatile connected devices for high-speed applications
+💡 **Key Point:** Increased range and functionality for Meshtastic network in suburban areas.
 
-🔗 [Read More](https://www.techspot.com/news/111684-155-esp32-powered-diy-drone-can-hit-67.html)
+🔗 [Read More](https://www.cnx-software.com/2026/03/17/review-thinknode-m6-outdoor-solar-power-for-meshtastic/)
 
 ---
 
-### 5. ASML workers still in the dark seven weeks after 1,700 management cuts announced cuts represent 4% of its global workforce 
+### 5. Thin Raspberry Pi CM5 fanless mini PC offers HDMI video output, 2.5GbE + GbE, dual USB, M.2 Key-M socket 
 
-**🤖 AI & ML**
+**💻 Hardware**
 
-ASML workers remain uncertain 7 weeks after 1,700 management cuts announcement
+The Waveshare Gigabit / 2.5G Dual Ethernet Mini-Computer (B) is a thin, fanless mini PC based on the Raspberry Pi CM5, offering a 4K HDMI video output, dual Ethernet ports, USB ports, and an M.2 Key-M socket for NVMe SSD or AI accelerator. It features a compact design with accessible GPIO headers and MIPI connectors. The mini PC supports a range of SoMs, including Raspberry Pi CM5 and CM5 Lite.
 
-💡 **Key Point:** Uncertainty fuels unrest among remaining employees
+💡 **Key Point:** Raspberry Pi's CM5 fanless mini PC offers high-speed networking and compact design.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/asml-workers-still-in-the-dark-seven-weeks-after-1700-management-cuts-announced)
+🔗 [Read More](https://www.cnx-software.com/2026/03/17/thin-raspberry-pi-cm5-fanless-mini-pc-offers-hdmi-video-output-2-5gbe-gbe-dual-usb-m-2-key-m-socket/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **38 articles** across **5 focused categories**.
+We covered **73 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 9 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 8 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
+| 🤖 [AI & ML](ai_and_ml.md) | 25 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 19 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 15 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
+| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 9 articles
+*Artificial Intelligence and Machine Learning* — 25 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 8 articles
+*Graphics cards and compute accelerators* — 19 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 11 articles
+*Computing hardware and development boards* — 15 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
 *Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 6 articles
+*Industry news and product launches* — 10 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-03-16 at 09:46 by an autonomous AI curation system.
+Generated 2026-03-17 at 09:39 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
