@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of March 17, 2026**
+**Week of March 18, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Nvidia unveils details of new 88-core Vera CPUs positioned to compete with AMD and Intel new Vera CPU rack features 256 liquid-cooled chips that deliver up to a 6X gain in CPU throughput ⭐
+### 1. ADLINK DLAP-701 An NVIDIA Jetson T5000/T4000 Edge AI platform for humanoid robots and vision sensing systems ⭐
 
 **💻 Hardware**
 
-Nvidia unveiled its Vera data center CPUs with 88 cores, offering 50% performance gains over standard CPUs. The new architecture includes a 1.5X increase in IPC from its Olympus cores. The Vera CPU Rack features 256 liquid-cooled CPUs for CPU-centric workloads.
+ADLINK has launched the DLAP-701 Series, a compact edge AI platform for humanoid robots, autonomous mobile robots, and vision sensing systems, featuring NVIDIA Jetson T5000/T4000 processors, up to 128GB LPDDR5X memory, and various I/O options. It supports demanding edge environments with an operating voltage range of 9-36V DC and an industrial temperature range of -20 C to 60 C. The platform integrates CAN-FD interfaces for robotics and vehicle control and TPM 2.0 security.
 
-💡 **Key Point:** Nvidia's Vera CPUs challenge AMD and Intel's CPU dominance strongly now.
+💡 **Key Point:** Enabling AI-driven robotics in harsh environments with robust performance
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-unveils-details-of-new-88-core-vera-cpus-positioned-to-compete-with-amd-and-intel-new-vera-cpu-rack-features-256-liquid-cooled-chips-that-deliver-up-to-a-6x-gain-in-cpu-throughput)
-
----
-
-### 2. Nvidia unveils details of new 88-core Vera CPUs positioned to compete with AMD and Intel new Vera CPU rack features 256 liquid-cooled chips that deliver up to a 6X gain in CPU throughput ⭐
-
-**🎮 GPUs**
-
-Nvidia unveiled its Vera data center CPUs with 88 cores, offering 50% performance gains over standard CPUs. The new architecture includes a 1.5X increase in IPC from its Olympus cores. The Vera CPU Rack features 256 liquid-cooled CPUs for CPU-centric workloads.
-
-💡 **Key Point:** Nvidia's Vera CPUs challenge AMD and Intel's CPU dominance strongly now.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-unveils-details-of-new-88-core-vera-cpus-positioned-to-compete-with-amd-and-intel-new-vera-cpu-rack-features-256-liquid-cooled-chips-that-deliver-up-to-a-6x-gain-in-cpu-throughput)
+🔗 [Read More](https://www.cnx-software.com/2026/03/17/adlink-dlap-701-an-nvidia-jetson-t5000-t4000-edge-ai-platform-for-humanoid-robots-and-vision-sensing-systems/)
 
 ---
 
-### 3. Intel Xeon 6 selected as host CPU for Nvidia DGX Rubin NVL8 systems Intel wins a contract as Nvidia enters data center processor market with Vera CPUs 
+### 2. Nvidia launches BlueField-4 STX storage architecture for agentic AI at GTC 2026 ⭐
+
+**🤖 AI & ML**
+
+Nvidia introduced BlueField-4 STX, a modular reference architecture for accelerated storage aimed at addressing the data access bottleneck in agentic AI inference. This architecture is designed to optimize data access and improve the performance of AI systems. It was announced at GTC 2026 on March 16.
+
+💡 **Key Point:** Accelerating data access boosts agentic AI inference performance significantly.
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/nvidia-launches-bluefield-4-stx-storage-architecture-for-agentic-ai)
+
+---
+
+### 3. ADLINK DLAP-701 An NVIDIA Jetson T5000/T4000 Edge AI platform for humanoid robots and vision sensing systems ⭐
+
+**⚡ Semiconductors**
+
+ADLINK has launched the DLAP-701 Series, a compact edge AI platform for humanoid robots, autonomous mobile robots, and vision sensing systems, featuring NVIDIA Jetson T5000/T4000 processors, up to 128GB LPDDR5X memory, and various I/O options. It supports demanding edge environments with an operating voltage range of 9-36V DC and an industrial temperature range of -20 C to 60 C. The platform integrates CAN-FD interfaces for robotics and vehicle control and TPM 2.0 security.
+
+💡 **Key Point:** Enabling AI-driven robotics in harsh environments with robust performance
+
+🔗 [Read More](https://www.cnx-software.com/2026/03/17/adlink-dlap-701-an-nvidia-jetson-t5000-t4000-edge-ai-platform-for-humanoid-robots-and-vision-sensing-systems/)
+
+---
+
+### 4. Nvidia launches BlueField-4 STX storage architecture for agentic AI at GTC 2026 ⭐
+
+**📰 Tech News**
+
+Nvidia introduced BlueField-4 STX, a modular reference architecture for accelerated storage aimed at addressing the data access bottleneck in agentic AI inference. This architecture is designed to optimize data access and improve the performance of AI systems. It was announced at GTC 2026 on March 16.
+
+💡 **Key Point:** Accelerating data access boosts agentic AI inference performance significantly.
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/nvidia-launches-bluefield-4-stx-storage-architecture-for-agentic-ai)
+
+---
+
+### 5. Intel's new Core Ultra 200HX Plus mobile CPUs include 290HX, 270HX Plus flagships 8% faster gaming claims fall short of 15% boost promised by desktop Arrow Lake Refresh 
 
 **💻 Hardware**
 
-Intel's Xeon 6 processor will be the host CPU in Nvidia's DGX Rubin NVL8 systems. This partnership marks a significant collaboration between the two tech giants. Intel wins a contract as Nvidia enters the data center processor market with Vera CPUs.
+Intel's new Core Ultra 200HX Plus mobile CPUs have been released, with the 290HX offering an 8% gaming performance boost. The 270HX Plus is a flagship model, but its gaming performance metrics are currently unknown. This lags behind the promised 15% boost from the desktop Arrow Lake Refresh.
 
-💡 **Key Point:** Nvidia's entry into data center processors challenges AMD and Intel dominance
+💡 **Key Point:** Gap between mobile and desktop CPU performance claims widens.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-xeon-6-selected-as-host-cpu-for-nvidia-dgx-rubin-nvl8-systems)
-
----
-
-### 4. Mini review of the ThinkNode M6 outdoor solar power for Meshtastic  
-
-**💻 Hardware**
-
-The ThinkNode M6 outdoor solar power for Meshtastic is reviewed for its range and functionality in a suburban environment. The M6 is used as a router between two other ThinkNode nodes, M1 and M2. The review aims to assess the device's performance and potential in a real-world setting.
-
-💡 **Key Point:** Increased range and functionality for Meshtastic network in suburban areas.
-
-🔗 [Read More](https://www.cnx-software.com/2026/03/17/review-thinknode-m6-outdoor-solar-power-for-meshtastic/)
-
----
-
-### 5. Thin Raspberry Pi CM5 fanless mini PC offers HDMI video output, 2.5GbE + GbE, dual USB, M.2 Key-M socket 
-
-**💻 Hardware**
-
-The Waveshare Gigabit / 2.5G Dual Ethernet Mini-Computer (B) is a thin, fanless mini PC based on the Raspberry Pi CM5, offering a 4K HDMI video output, dual Ethernet ports, USB ports, and an M.2 Key-M socket for NVMe SSD or AI accelerator. It features a compact design with accessible GPIO headers and MIPI connectors. The mini PC supports a range of SoMs, including Raspberry Pi CM5 and CM5 Lite.
-
-💡 **Key Point:** Raspberry Pi's CM5 fanless mini PC offers high-speed networking and compact design.
-
-🔗 [Read More](https://www.cnx-software.com/2026/03/17/thin-raspberry-pi-cm5-fanless-mini-pc-offers-hdmi-video-output-2-5gbe-gbe-dual-usb-m-2-key-m-socket/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-launches-core-ultra-200hx-plus-mobile-cpus-including-290hx-plus-and-270hx-plus-flagships-arrow-lake-refresh-is-up-to-8-percent-faster-in-gaming)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **73 articles** across **5 focused categories**.
+We covered **61 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 25 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 19 | Graphics cards and compute accelerators |
+| 🤖 [AI & ML](ai_and_ml.md) | 20 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 14 | Graphics cards and compute accelerators |
 | 💻 [Hardware](hardware.md) | 15 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
+| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 25 articles
+*Artificial Intelligence and Machine Learning* — 20 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 19 articles
+*Graphics cards and compute accelerators* — 14 articles
 
 ### 💻 [Hardware](hardware.md)
 *Computing hardware and development boards* — 15 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 4 articles
+*Chip manufacturing and design* — 3 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 10 articles
+*Industry news and product launches* — 9 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-03-17 at 09:39 by an autonomous AI curation system.
+Generated 2026-03-18 at 09:37 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

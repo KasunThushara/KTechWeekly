@@ -1,205 +1,155 @@
 # 🎮 GPUs
-**Week of March 17, 2026**
+**Week of March 18, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-03-17 09:39
+- **Articles this week:** 14
+- **Report generated:** 2026-03-18 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Nvidia unveils details of new 88-core Vera CPUs positioned to compete with AMD and Intel new Vera CPU rack features 256 liquid-cooled chips that deliver up to a 6X gain in CPU throughput ⭐
+### 1. Seagate FireCuda X1070 2TB SSD review: Entry-level hardware meets premium support 
 
-Nvidia unveiled its Vera data center CPUs with 88 cores, offering 50% performance gains over standard CPUs. The new architecture includes a 1.5X increase in IPC from its Olympus cores. The Vera CPU Rack features 256 liquid-cooled CPUs for CPU-centric workloads.
+The Seagate FireCuda X1070 is a budget-friendly SSD that offers reliable performance and premium support. It's a Gen 4 SSD that's easy to install and use. However, its initial pricing might be a bit steep.
 
-💡 *Nvidia's Vera CPUs challenge AMD and Intel's CPU dominance strongly now.*
+💡 *Budget SSD meets premium support without breaking the bank*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-unveils-details-of-new-88-core-vera-cpus-positioned-to-compete-with-amd-and-intel-new-vera-cpu-rack-features-256-liquid-cooled-chips-that-deliver-up-to-a-6x-gain-in-cpu-throughput)
-
----
-
-### 2. Nvidia's Nemotron coalition brings eight AI labs together to build open frontier models 
-
-Nvidia's Nemotron coalition brings together eight AI labs to build open frontier models, fostering innovation and global participation in the AI revolution.
-
-💡 *Open models accelerate AI innovation and global collaboration*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-nemoclaw-coalition-brings-eight-ai-labs-together-to-build-open-frontier-models)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-x1070-2tb-ssd-review)
 
 ---
 
-### 3. Intel Xeon 6 selected as host CPU for Nvidia DGX Rubin NVL8 systems Intel wins a contract as Nvidia enters data center processor market with Vera CPUs 
+### 2. High-end 25MP global shutter camera with 10GbE interface is designed for NVIDIA Holoscan platform 
 
-Intel's Xeon 6 processor will be the host CPU in Nvidia's DGX Rubin NVL8 systems. This partnership marks a significant collaboration between the two tech giants. Intel wins a contract as Nvidia enters the data center processor market with Vera CPUs.
+Leopard Imaging's LI-IMX530-10GigE-NL is a high-end 25MP camera designed for NVIDIA Holoscan. It features a 10GbE interface and is suitable for AI applications. The camera utilizes the Sony IMX530 1.2-inch CMOS sensor.
 
-💡 *Nvidia's entry into data center processors challenges AMD and Intel dominance*
+💡 *Fast data transmission enables real-time AI and ML processing.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-xeon-6-selected-as-host-cpu-for-nvidia-dgx-rubin-nvl8-systems)
-
----
-
-### 4. Chinese GPU vendor Zephyr has cancelled its single-fan RTX 4070 Ti Super due to VRAM price hikes memory shortage is forcing a pivot to an SFF RTX 4070 Super instead 
-
-Zephyr, a Chinese GPU vendor, cancels its RTX 4070 Ti Super due to VRAM shortages. The company has shifted its focus to develop an SFF RTX 4070 Super instead. This pivot is likely a response to the ongoing memory crisis in the industry.
-
-💡 *Memory shortages force Chinese GPU vendors to adapt and pivot models*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/chinese-gpu-vendor-zephyr-has-cancelled-its-single-fan-rtx-4070-ti-super-due-to-vram-price-hikes-memory-shortage-is-forcing-a-pivot-to-an-sff-rtx-4070-super-instead)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/18/high-end-25mp-global-shutter-camera-with-10gbe-interface-is-designed-for-nvidia-holoscan-platform/)
 
 ---
 
-### 5. Dell updates Alienware gaming laptops with Intel s Arrow Lake-HX Refresh CPUs 16-inch models receive OLED display and GPU upgrades 
+### 3. Intel launches Core Ultra 200HX Plus "Arrow Lake Refresh" chips for gaming laptops 
 
-Dell updates Alienware 16-inch gaming laptops with Intel Arrow Lake-HX Refresh CPUs, featuring OLED displays and GPU upgrades.
+Intel introduces Core Ultra 200HX Plus chips, led by the 9 290HX Plus, offering improved performance in gaming and professional applications.
 
-💡 *Faster processors enhance gaming performance and user experience.*
+💡 *Increased single-threaded performance in gaming and professional applications with Intel Core Ultra 200HX Plus.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/dell-updates-alienware-gaming-laptops-with-intels-arrow-lake-hx-refresh-cpus-16-inch-models-receive-oled-display-and-gpu-upgrades)
-
----
-
-### 6. Micron enters high-volume production of HBM4 for Nvidia Vera Rubin - 2.3x bandwidth improvement and 20% boost in power efficiency 
-
-Micron has entered high-volume production of HBM4 for Nvidia Vera Rubin, offering a 2.3x bandwidth improvement and 20% power efficiency boost.
-
-💡 *High-performance computing gains significant speed and efficiency boost.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/micron-enters-high-volume-production-of-hbm4-for-nvidia-vera-rubin)
+🔗 [Read Full Article](https://www.techspot.com/news/111717-intel-launches-core-ultra-200hx-plus-arrow-lake.html)
 
 ---
 
-### 7. Nvidia Groq 3 LPU and Groq LPX racks join Rubin platform at GTC SRAM-packed accelerator boosts 'every layer of the AI model on every token' 
+### 4. Nvidia updates data center roadmap with Rosa CPU and stacked Feynman GPUs optical NVLink, Groq LPUs with NVFP4, and NVLink also on deck 
 
-Nvidia unveiled the Groq 3 LPU and Groq LPX rack at GTC 2026, enhancing the Vera Rubin platform with SRAM-packed accelerators for low-latency AI model interactions.
+Nvidia has unveiled its 2026-2028 data center roadmap, featuring the Rosa CPU, Feynman GPU, and optical NVLinks, as well as the integration of Groq LPUs with NVFP4 and NVLink. This marks a significant advancement in data center technology, aiming to improve performance and efficiency. The roadmap highlights Nvidia's continued commitment to innovation and leadership in the field.
 
-💡 *Boosting memory bandwidth for large AI models and complex contexts.*
+💡 *Accelerating AI and HPC with next-gen data center hardware advancements*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-groq-3-lpu-and-groq-lpx-racks-join-rubin-platform-at-gtc-sram-packed-accelerator-boosts-every-layer-of-the-ai-model-on-every-token)
-
----
-
-### 8. Nvidia debuts DLSS 5 for increased visual fidelity in games AI-infused tech transforms pixels with photorealistic lighting and materials 
-
-Nvidia introduces DLSS 5, enhancing visual fidelity in games with AI-driven technology.
-
-💡 *Transforming pixels with photorealistic lighting and materials boosts gaming realism greatly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-debuts-dlss-5-for-increased-visual-fidelity-in-games-ai-infused-tech-transforms-pixels-with-photorealistic-lighting-and-materials)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-updates-data-center-roadmap-with-rosa-cpu-and-stacked-feynman-gpus-optical-nvlink-groq-lpus-with-nvfp4-and-nvlink-also-on-deck)
 
 ---
 
-### 9. Meta's new MTIA lineup joins hyperscalers' unified push for dedicated inferencing chips companies diversify AI chips in effort to diversify from sole reliance on Nvidia 
+### 5. Jensen says Nvidia has received orders from Chinese customers for H200 GPUs, licenses from US gov't H200 manufacturing restarting 
 
-Meta joins hyperscalers in diversifying AI chips, reducing reliance on Nvidia. The company's new MTIA lineup targets specific workloads, citing cost-effectiveness for inference tasks. This move aims to optimize AI performance and efficiency.
+Nvidia's China supply chain resumes after over a year of restrictions, with orders for H200 GPUs and US government approval for H200 manufacturing restarting.
 
-💡 *Diversifying AI chips reduces reliance on a single dominant supplier.*
+💡 *Nvidia's China supply chain restart boosts GPU availability globally.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/metas-mtia-chip-lineup-joins-hyperscaler-push-to-replace-nvidia-at-inference)
-
----
-
-### 10. Nvidia GTC 2026 keynote live blog Vera Rubin GPUs and CPUs, DLSS 5, and the 'future of technology' 
-
-Nvidia's GTC 2026 keynote unveiled the Vera Rubin GPUs and CPUs, promising significant advancements in AI and computing. The event also showcased the latest iteration of DLSS, a key technology for enhanced gaming and graphics performance. CEO Jensen Huang emphasized the 'future of technology' throughout the presentation.
-
-💡 *Nvidia's Vera Rubin technology fuels AI and computing breakthroughs*
-
-🔗 [Read Full Article](https://www.tomshardware.com/news/live/nvidia-gtc-2026-keynote-live-blog-jensen-huang)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-has-received-pos-from-chinese-customers)
 
 ---
 
-### 11. Intel's roadmaps examined 14A, Nova Lake, Diamond Rapids & AI accelerator push 
+### 6. Jensen Huang says gamers are 'completely wrong' about DLSS 5 Nvidia CEO responds to DLSS 5 backlash 
 
-Intel's CPU roadmap is ambitious and unprecedented in its complexity, requiring simultaneous success in manufacturing and product launches. The company is pushing to adopt new processes like 14A, Nova Lake, and Diamond Rapids while also developing AI accelerators. This multi-pronged approach presents significant challenges.
+Nvidia CEO Jensen Huang defends DLSS 5 despite gamer backlash, saying developers maintain artistic control.
 
-💡 *Simultaneous manufacturing and product success is Intel's unprecedented challenge.*
+💡 *Artistic control remains with developers despite AI-enhanced graphics.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-chip-roadmap-2026-2028)
-
----
-
-### 12. First credible leak of an AMD Zen 6 processor pops up on Geekbench ten-core CPU seems to have 32MB of L3 cache 
-
-AMD's Zen 6 processor has been leaked on Geekbench with 10 cores and 32MB of L3 cache, indicating early development progress.
-
-💡 *AMD's Zen 6 development is underway, confirming future CPU improvements*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/first-credible-leak-of-an-amd-zen-6-processor-pops-up-on-geekbench-ten-core-cpu-seems-to-have-32mb-of-l3-cache)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash)
 
 ---
 
-### 13. Flabbergasted GPU repair wizard highlights dangers of liquid metal after leak kills entire RTX 5070 Ti user-applied TIM spread to every crevice of the PCB, physically cracking and shorting out the core 
+### 7. We got a first look at Nvidia's DLSS 5 and the future of neural rendering at GTC the results can be impressive, but there's work to do 
 
-A user-applied liquid metal TIM leak caused catastrophic damage to an RTX 5070 Ti, shorting out multiple components and killing the core. The damage was so extensive that replacement of key ICs would be necessary. This incident highlights the risks of using liquid metal TIM.
+Nvidia's DLSS 5 uses AI to enhance game visuals with detailed lighting interactions, producing impressive yet uncanny results.
 
-💡 *Liquid metal TIM can cause irreversible damage to electronics components.*
+💡 *Realistic game lighting improves immersion and authenticity in gaming experiences*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/flabbergasted-gpu-repair-wizard-highlights-dangers-of-liquid-metal-after-leak-kills-entire-rtx-5070-ti-user-applied-tim-spread-to-every-crevice-of-the-pcb-physically-cracking-and-shorting-out-the-core)
-
----
-
-### 14. MSI plans 30% gaming product price hike as memory and GPU shortages bite 'This year is the most severe year since the company was founded' 
-
-MSI plans a 30% price hike for its gaming products due to memory and GPU shortages. The company considers this year the most severe in its history. MSI is not alone in facing these challenges.
-
-💡 *Component shortages drive up gaming hardware prices significantly this year.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/msi-plans-to-raise-gaming-product-prices-by-up-to-30-percent)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/we-got-a-first-look-at-nvidias-dlss-5-and-the-future-of-neural-rendering-at-gtc-the-results-can-be-impressive-but-theres-work-to-do)
 
 ---
 
-### 15. Nvidia DLSS 5 first look: generative AI lighting radically transforms game visuals 
+### 8. South Korean company following ChatGPT management advice forced to backtrack by court Krafton improperly ousted Subnautica developer bosses to dodge $250m bonus payout 
 
-Nvidia's DLSS 5 transforms game visuals with generative AI lighting, surpassing upscaling and ray tracing.
+A South Korean gaming company was forced to backtrack after a court ruled that it improperly ousted the bosses of a developer to avoid a $250m bonus payment.
 
-💡 *DLSS 5 redefines game visuals with AI-powered lighting innovation.*
+💡 *AI-driven management decisions can have unintended legal consequences.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111707-nvidia-dlss-5-first-look-generative-ai-lighting.html)
-
----
-
-### 16. Doom: The Dark Ages is the first Denuvo DRM game of 2025 to be cracked 
-
-Doom: The Dark Ages has been cracked by 'Voices38', making it Denuvo-free. The game is a significant download at 81 GB, requiring powerful hardware. This marks the first Denuvo DRM game of 2025 to be cracked.
-
-💡 *Denuvo DRM's effectiveness questioned as first game of 2025 is cracked.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111701-cracker-removes-controversial-denuvo-drm-doom-dark-ages.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/south-korean-company-following-chatgpt-management-advice-forced-to-backtrack-by-court-krafton-improperly-ousted-subnautica-developer-bosses-to-dodge-usd250m-bonus-payout)
 
 ---
 
-### 17. Nvidia's next AI chip may move beyond the all-purpose GPU 
+### 9. Nvidia demonstrates Rubin Ultra tray, the world's first AI GPU with 1TB of HBM4E memory new chips will slot into Kyber racks 
 
-Nvidia is considering a departure from its all-purpose GPU approach for AI computing, marking a shift in philosophy. This change would allow for more specialized chips, potentially leading to improved performance and efficiency. The move is in response to growing demand for faster AI computing.
+Nvidia demonstrates the Rubin Ultra GPU with 1TB HBM4E memory, integrated into Kyber racks.
 
-💡 *Specialized AI chips could lead to significant performance gains*
+💡 *Advances in AI computing with massive memory and compute integration.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111691-nvidia-next-ai-chip-may-move-beyond-all.html)
-
----
-
-### 18. Nvidia announces Vera Rubin Space Module up to 25x the AI compute of H100 for orbital data centers 
-
-Nvidia has announced the Vera Rubin Space Module, offering up to 25x the AI compute of H100. This platform is designed for orbital data centers, enhancing space-based AI capabilities. Six commercial space companies have already deployed the platform.
-
-💡 *Accelerating space-based AI capabilities with unprecedented computational power*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-announces-vera-rubin-space-module)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-demonstrates-rubin-ultra-tray-worlds-1st-ai-gpu-with-1tb-of-hbm4e)
 
 ---
 
-### 19. GTC 2026 
+### 10. Nvidia unveils Vera, an 88-core Arm CPU for AI and analytics racks 
 
-GTC 2026 showcases Nvidia's advancements in AI technology and future innovations.
+Nvidia unveiled Vera, an 88-core Arm CPU for AI and analytics. It focuses on general-purpose workloads with AI-centric applications. Vera is designed for data centers.
 
-💡 *Accelerating AI adoption transforms industries and the global digital landscape.*
+💡 *Nvidia's Vera CPU targets broader AI workloads beyond GPU companionship*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tag/gtc)
+🔗 [Read Full Article](https://www.techspot.com/news/111712-nvidia-unveils-vera-88-core-arm-cpu-ai.html)
+
+---
+
+### 11. Jensen Huang predicts Nvidia AI chip revenue will hit $1 trillion by 2027 
+
+Nvidia CEO Jensen Huang predicts $1 trillion AI chip revenue by 2027, marking a new stage in the AI boom where systems are designed for massive scale inference.
+
+💡 *AI chip revenue could surpass $1 trillion by 2027.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111714-jensen-huang-predicts-nvidia-ai-chip-revenue-hit.html)
+
+---
+
+### 12. Nvidia removes Rubin CPX accelerators from its roadmap Groq 3 LPUs take center stage as CPX is removed 
+
+Nvidia has removed Rubin CPX accelerators from its roadmap, focusing on Groq 3 LPUs instead. The absence of CPX from Nvidia's GTC slides suggests a shift in priorities. This change may impact the field of AI acceleration.
+
+💡 *Nvidia prioritizes Groq LPUs over Rubin CPX accelerators now.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-removes-rubin-cpx-accelerators-from-its-roadmap-groq-3-lpus-take-center-stage-as-cpx-is-removed)
+
+---
+
+### 13. I saw DLSS 5 running across multiple games. It's not a face filter. 
+
+Nvidia released DLSS 5 at GTC 2026, sparking internet reactions.
+
+💡 *DLSS 5 enhances gaming performance across multiple supported titles.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111719-saw-dlss-5-running-across-multiple-games-not.html)
+
+---
+
+### 14. The PlayStation 5 is powered by a GPU roughly equal to which PC graphics card? 
+
+The PlayStation 5's GPU is comparable to a high-end PC graphics card. It is considered to be roughly equivalent to a Radeon RX 6800 XT or a GeForce RTX 3070. This comparison is based on performance benchmarks.
+
+💡 *A console's GPU power determines its gaming capabilities and longevity.*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/158-playstation-5-powered-gpu-roughly-equal-which-pc/)
 
 ---
 

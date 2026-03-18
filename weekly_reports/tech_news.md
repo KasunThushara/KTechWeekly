@@ -1,115 +1,105 @@
 # 📰 Tech News
-**Week of March 17, 2026**
+**Week of March 18, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-03-17 09:39
+- **Articles this week:** 9
+- **Report generated:** 2026-03-18 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Chinese GPU vendor Zephyr has cancelled its single-fan RTX 4070 Ti Super due to VRAM price hikes memory shortage is forcing a pivot to an SFF RTX 4070 Super instead 
+### 1. Nvidia launches BlueField-4 STX storage architecture for agentic AI at GTC 2026 ⭐
 
-Zephyr, a Chinese GPU vendor, cancels its RTX 4070 Ti Super due to VRAM shortages. The company has shifted its focus to develop an SFF RTX 4070 Super instead. This pivot is likely a response to the ongoing memory crisis in the industry.
+Nvidia introduced BlueField-4 STX, a modular reference architecture for accelerated storage aimed at addressing the data access bottleneck in agentic AI inference. This architecture is designed to optimize data access and improve the performance of AI systems. It was announced at GTC 2026 on March 16.
 
-💡 *Memory shortages force Chinese GPU vendors to adapt and pivot models*
+💡 *Accelerating data access boosts agentic AI inference performance significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/chinese-gpu-vendor-zephyr-has-cancelled-its-single-fan-rtx-4070-ti-super-due-to-vram-price-hikes-memory-shortage-is-forcing-a-pivot-to-an-sff-rtx-4070-super-instead)
-
----
-
-### 2. Mini review of the ThinkNode M6 outdoor solar power for Meshtastic  
-
-The ThinkNode M6 outdoor solar power for Meshtastic is reviewed for its range and functionality in a suburban environment. The M6 is used as a router between two other ThinkNode nodes, M1 and M2. The review aims to assess the device's performance and potential in a real-world setting.
-
-💡 *Increased range and functionality for Meshtastic network in suburban areas.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/17/review-thinknode-m6-outdoor-solar-power-for-meshtastic/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-launches-bluefield-4-stx-storage-architecture-for-agentic-ai)
 
 ---
 
-### 3. Digg relaunch fails after two months as bots and AI agents flood the site 
+### 2. Nintendo Switch 2 update brings Handheld Mode Boost unlocks higher resolutions and TV-mode performance for original Switch games 
 
-Digg's relaunched beta version has been shut down due to issues with bots and AI agents flooding the site, leading to significant downsizing of the development team.
+The Nintendo Switch 2's Handheld Mode Boost feature enhances original Switch games with improved visuals and performance, similar to docked mode, even when playing in handheld mode.
 
-💡 *Social media platforms struggle with AI-driven spam and bot attacks.*
+💡 *Upgrade for original Switch games without need for re-releases.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111698-digg-relaunch-fails-two-months-ai-agents-spambots.html)
-
----
-
-### 4. Google quietly pulls AI "health tool" that summarized Reddit advice 
-
-Google quietly removed its AI-powered 'What People Suggest' tool, which summarized advice from online forums.
-
-💡 *Risks of AI-powered advice aggregation and misinformation dissemination highlighted.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111695-google-quietly-removes-ai-health-search-tool-surfaced.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-update-brings-handheld-mode-boost-unlocks-higher-resolutions-and-tv-mode-performance-for-original-switch-games)
 
 ---
 
-### 5. Microsoft and Samsung scramble to fix a major C: drive lockout bug on Galaxy devices faulty Galaxy Connect app leaves users with 'limited' recovery options following recent Windows 11 update 
+### 3. Enthusiast reverse engineers world s smallest HDD to access data with help from an old Nokia N91 and OpenClaw open source USB bridge unlocks 0.85-inch mechanical Toshiba drive from 2004 
 
-A Samsung app bug on Windows 11 causes C: drive lockout after a recent security update. The faulty Galaxy Connect app has left users with limited recovery options. Microsoft and Samsung are working to fix the issue.
+Maker Will Whang reverse engineers world's smallest HDD using an OpenClaw open source USB bridge, unlocking a 0.85-inch mechanical Toshiba drive from 2004, with the help of an old Nokia N91.
 
-💡 *Critical bug compromises user data access on Galaxy devices*
+💡 *Preserving vintage technology expands access to historical data and innovation.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-and-samsung-scramble-to-fix-a-major-c-drive-lockout-bug-on-galaxy-devices-faulty-galaxy-connect-app-leaves-users-with-limited-recovery-options-following-recent-windows-11-update)
-
----
-
-### 6. Canva Affinity adds Light UI, Convert to Curves, and Live Tone Blend 
-
-Affinity's latest update introduces a new Light UI, Convert to Curves feature, and Live Tone Blend Groups, enhancing user experience and productivity.
-
-💡 *Streamlines design workflow with enhanced UI and powerful features.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/7804-canva-affinity.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-hdds/enthusiast-reverse-engineers-worlds-smallest-hdd-to-access-data-with-help-from-an-old-nokia-n91-and-openclaw-open-source-usb-bridge-unlocks-0-85-inch-mechanical-toshiba-from-2004)
 
 ---
 
-### 7. Apple launches AirPods Max 2 with stronger ANC, lossless audio, and live translation 
+### 4. Review of Open Nextion ESP32-S3-based HMI displays with the Arduino IDE and the ESP-IDF framework 
 
-Apple's AirPods Max 2 features stronger ANC, lossless audio, and live translation. Pre-orders open March 25 in over 30 countries, with general availability in early April. The design remains similar to the original AirPods Max.
+ITEAD's Open Nextion ESP32-S3-based HMI displays combine logic processing, display control, and wireless connectivity into one package. Supported by the ESP-IDF framework and Arduino IDE with LVGL graphics, these HMI displays cater to developers and makers. They come in two variants with 3.5-inch and 2.8-inch screens.
 
-💡 *Enhanced audio capabilities boost AirPods Max 2's overall user experience.*
+💡 *All-in-one ESP32-S3 HMI displays simplify IoT and GUI development*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111700-apple-airpods-max-2-arrive-h2-chip-stronger.html)
-
----
-
-### 8. Meta is pulling the plug on Instagram's encrypted messages 
-
-Meta is discontinuing end-to-end encryption on Instagram's direct messages. Unlike WhatsApp and Facebook Messenger, Instagram's E2E encryption was manual and limited. This move may compromise user privacy.
-
-💡 *User privacy faces significant risks with manual E2E encryption.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111696-meta-pulls-plug-instagram-encrypted-messages.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/18/review-open-nextion-esp32-s3-based-hmi-displays-with-the-arduino-ide-and-the-esp-idf-framework/)
 
 ---
 
-### 9. EDGE AI FOUNDATION expands partnership with Sensors Converge 
+### 5. Nvidia launches DGX Station with its bleeding-edge GB300 Grace Blackwell Superchip now available to order and will begin shipping in the coming months 
 
-EDGE AI FOUNDATION expands its partnership with Sensors Converge by featuring a larger pavilion at the event. This pavilion will host over seven companies from May 5-7. The event aims to showcase innovative sensor technologies.
+Nvidia launches DGX Station with the GB300 Grace Blackwell Superchip, offering 784GB of memory and a 1,600-watt power rating. This high-performance system is now available to order and will begin shipping in the coming months.
 
-💡 *Advancing AI capabilities through collaborative sensor technology innovation.*
+💡 *Game-changing AI and HPC capabilities for enterprise customers*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/edge-ai-foundation-expands-partnership-sensors-converge)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-dgx-station-with-its-bleeding-edge-gb300-grace-blackwell-superchip-now-available-to-order-and-will-begin-shipping-in-the-coming-months)
 
 ---
 
-### 10. Announcing more Rising Stars 2026 (Fifth Group) 
+### 6. End of an era for decades-old PlayStation 3, Xbox 360, and Nintendo Wii U as GameStop officially declares them retro change means faulty or 'aesthetically unfortunate' consoles that can still power on are now accepted for trade-in 
 
-The fifth group of Rising Stars 2026 honors innovators advancing technology with creativity, expertise, and impact.
+GameStop declares PlayStation 3, Xbox 360, and Wii U retro consoles, accepting trade-ins of any console that powers on, even if faulty or aesthetically unappealing.
 
-💡 *Accelerating tech innovation drives global progress and economic growth.*
+💡 *Gamers can now trade in damaged consoles for store credit.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/announcing-nore-rising-stars-2025-fifth-group)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/end-of-an-era-for-decades-old-playstation-3-xbox-360-and-nintendo-wii-u-as-gamestop-officially-declares-them-retro-change-means-faulty-or-aesthetically-unfortunate-consoles-that-can-still-power-on-are-now-accepted-for-trade-in)
+
+---
+
+### 7. Samsung's Galaxy Z TriFold was a hit with buyers, but it's still shutting down after three months 
+
+Samsung's Galaxy Z TriFold sold out quickly despite shutting down after three months. Limited production and tight control were key components of its initial strategy. Buyers were drawn to the experimental nature of the product.
+
+💡 *Limited production created hype, masking potential post-release issues.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111718-samsung-galaxy-z-trifold-hit-buyers-but-shutting.html)
+
+---
+
+### 8. Startup proposes USB drives as a modern replacement for DVDs and Blu-rays 
+
+Video StoreAge proposes using encrypted USB drives as a modern replacement for DVDs and Blu-rays, taking a more authorial approach to indie film distribution and disrupting algorithm-driven models.
+
+💡 *Human connection and community replace algorithm-driven film distribution methods.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111708-startup-proposes-usb-drives-modern-replacement-dvds-blu.html)
+
+---
+
+### 9. Amazon adds 1-hour and 3-hour delivery options, but convenience comes at a premium 
+
+Amazon introduces 1-hour and 3-hour delivery options in major and smaller cities.
+
+💡 *Convenience comes with a higher price tag for Amazon customers.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111716-amazon-adds-1-hour-3-hour-delivery-but.html)
 
 ---
 

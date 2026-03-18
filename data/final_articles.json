@@ -1,495 +1,413 @@
 [
   {
-    "title": "Dell updates Alienware gaming laptops with Intel s Arrow Lake-HX Refresh CPUs 16-inch models receive OLED display and GPU upgrades",
-    "summary": "Dell updates Alienware 16-inch gaming laptops with Intel Arrow Lake-HX Refresh CPUs, featuring OLED displays and GPU upgrades.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/dell-updates-alienware-gaming-laptops-with-intels-arrow-lake-hx-refresh-cpus-16-inch-models-receive-oled-display-and-gpu-upgrades",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.526091",
-    "insight": "Faster processors enhance gaming performance and user experience."
-  },
-  {
-    "title": "Micron enters high-volume production of HBM4 for Nvidia Vera Rubin - 2.3x bandwidth improvement and 20% boost in power efficiency",
-    "summary": "Micron has entered high-volume production of HBM4 for Nvidia Vera Rubin, offering a 2.3x bandwidth improvement and 20% power efficiency boost.",
-    "link": "https://www.tomshardware.com/pc-components/dram/micron-enters-high-volume-production-of-hbm4-for-nvidia-vera-rubin",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.526205",
-    "insight": "High-performance computing gains significant speed and efficiency boost."
-  },
-  {
-    "title": "Jensen Huang expects Nvidia to sell $1 trillion of AI hardware through 2027 AI buildout intensifies as Agentic AI takes hold",
-    "summary": "Nvidia co-founder Jensen Huang predicts the company will earn $1 trillion from AI hardware sales by 2027, driven by the increasing adoption of artificial intelligence.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/jensen-huang-expects-nvidia-to-sell-usd1-trillion-of-ai-hardware-through-2027-ai-buildout-intensifies-as-agentic-ai-takes-hold",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.526323",
-    "insight": "AI's rapid growth and adoption drive trillion-dollar hardware sales projections"
-  },
-  {
-    "title": "Nvidia announces Vera Rubin Space Module up to 25x the AI compute of H100 for orbital data centers",
-    "summary": "Nvidia has announced the Vera Rubin Space Module, offering up to 25x the AI compute of H100. This platform is designed for orbital data centers, enhancing space-based AI capabilities. Six commercial space companies have already deployed the platform.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-vera-rubin-space-module",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-03-17T09:37:31.526434",
-    "insight": "Accelerating space-based AI capabilities with unprecedented computational power"
-  },
-  {
-    "title": "Nvidia's Nemotron coalition brings eight AI labs together to build open frontier models",
-    "summary": "Nvidia's Nemotron coalition brings together eight AI labs to build open frontier models, fostering innovation and global participation in the AI revolution.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-nemoclaw-coalition-brings-eight-ai-labs-together-to-build-open-frontier-models",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-17T09:37:31.526541",
-    "insight": "Open models accelerate AI innovation and global collaboration"
-  },
-  {
-    "title": "Intel Xeon 6 selected as host CPU for Nvidia DGX Rubin NVL8 systems Intel wins a contract as Nvidia enters data center processor market with Vera CPUs",
-    "summary": "Intel's Xeon 6 processor will be the host CPU in Nvidia's DGX Rubin NVL8 systems. This partnership marks a significant collaboration between the two tech giants. Intel wins a contract as Nvidia enters the data center processor market with Vera CPUs.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-6-selected-as-host-cpu-for-nvidia-dgx-rubin-nvl8-systems",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-17T09:37:31.526652",
-    "insight": "Nvidia's entry into data center processors challenges AMD and Intel dominance"
-  },
-  {
-    "title": "Nvidia Groq 3 LPU and Groq LPX racks join Rubin platform at GTC SRAM-packed accelerator boosts 'every layer of the AI model on every token'",
-    "summary": "Nvidia unveiled the Groq 3 LPU and Groq LPX rack at GTC 2026, enhancing the Vera Rubin platform with SRAM-packed accelerators for low-latency AI model interactions.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-groq-3-lpu-and-groq-lpx-racks-join-rubin-platform-at-gtc-sram-packed-accelerator-boosts-every-layer-of-the-ai-model-on-every-token",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.526773",
-    "insight": "Boosting memory bandwidth for large AI models and complex contexts."
-  },
-  {
-    "title": "Nvidia unveils details of new 88-core Vera CPUs positioned to compete with AMD and Intel new Vera CPU rack features 256 liquid-cooled chips that deliver up to a 6X gain in CPU throughput",
-    "summary": "Nvidia unveiled its Vera data center CPUs with 88 cores, offering 50% performance gains over standard CPUs. The new architecture includes a 1.5X increase in IPC from its Olympus cores. The Vera CPU Rack features 256 liquid-cooled CPUs for CPU-centric workloads.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-unveils-details-of-new-88-core-vera-cpus-positioned-to-compete-with-amd-and-intel-new-vera-cpu-rack-features-256-liquid-cooled-chips-that-deliver-up-to-a-6x-gain-in-cpu-throughput",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 25,
-    "processed_date": "2026-03-17T09:37:31.526908",
-    "insight": "Nvidia's Vera CPUs challenge AMD and Intel's CPU dominance strongly now."
-  },
-  {
-    "title": "Nvidia debuts DLSS 5 for increased visual fidelity in games AI-infused tech transforms pixels with photorealistic lighting and materials",
-    "summary": "Nvidia introduces DLSS 5, enhancing visual fidelity in games with AI-driven technology.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-debuts-dlss-5-for-increased-visual-fidelity-in-games-ai-infused-tech-transforms-pixels-with-photorealistic-lighting-and-materials",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.527023",
-    "insight": "Transforming pixels with photorealistic lighting and materials boosts gaming realism greatly."
-  },
-  {
-    "title": "Meta's new MTIA lineup joins hyperscalers' unified push for dedicated inferencing chips companies diversify AI chips in effort to diversify from sole reliance on Nvidia",
-    "summary": "Meta joins hyperscalers in diversifying AI chips, reducing reliance on Nvidia. The company's new MTIA lineup targets specific workloads, citing cost-effectiveness for inference tasks. This move aims to optimize AI performance and efficiency.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/metas-mtia-chip-lineup-joins-hyperscaler-push-to-replace-nvidia-at-inference",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.527146",
-    "insight": "Diversifying AI chips reduces reliance on a single dominant supplier."
-  },
-  {
-    "title": "Microsoft and Samsung scramble to fix a major C: drive lockout bug on Galaxy devices faulty Galaxy Connect app leaves users with 'limited' recovery options following recent Windows 11 update",
-    "summary": "A Samsung app bug on Windows 11 causes C: drive lockout after a recent security update. The faulty Galaxy Connect app has left users with limited recovery options. Microsoft and Samsung are working to fix the issue.",
-    "link": "https://www.tomshardware.com/software/windows/microsoft-and-samsung-scramble-to-fix-a-major-c-drive-lockout-bug-on-galaxy-devices-faulty-galaxy-connect-app-leaves-users-with-limited-recovery-options-following-recent-windows-11-update",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.527255",
-    "insight": "Critical bug compromises user data access on Galaxy devices"
-  },
-  {
-    "title": "Nvidia GTC 2026 keynote live blog Vera Rubin GPUs and CPUs, DLSS 5, and the 'future of technology'",
-    "summary": "Nvidia's GTC 2026 keynote unveiled the Vera Rubin GPUs and CPUs, promising significant advancements in AI and computing. The event also showcased the latest iteration of DLSS, a key technology for enhanced gaming and graphics performance. CEO Jensen Huang emphasized the 'future of technology' throughout the presentation.",
-    "link": "https://www.tomshardware.com/news/live/nvidia-gtc-2026-keynote-live-blog-jensen-huang",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.527359",
-    "insight": "Nvidia's Vera Rubin technology fuels AI and computing breakthroughs"
-  },
-  {
-    "title": "Creative updates its Sound Blaster PCIe sound card line after 5 years new $79.99 Audigy FX Pro 7.1 pitched as clear upgrade over standard onboard audio ",
-    "summary": "Creative has released an updated Sound Blaster Audigy FX Pro 7.1 sound card, offering improved audio quality and features for PC desktop DIYers. This newest addition to the line is pitched as a clear upgrade over standard onboard audio. The Audigy FX Pro 7.1 is available at a price point of $79.99.",
-    "link": "https://www.tomshardware.com/pc-components/sound-cards/creative-updates-its-sound-blaster-pcie-line-after-5-years-new-usd79-99-audigy-fx-pro-7-1-pitched-as-clear-upgrade-over-standard-onboard-audio",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.527461",
-    "insight": "Enhanced audio quality for PC desktop DIYers at an affordable price point."
-  },
-  {
-    "title": "Intel's roadmaps examined 14A, Nova Lake, Diamond Rapids & AI accelerator push",
-    "summary": "Intel's CPU roadmap is ambitious and unprecedented in its complexity, requiring simultaneous success in manufacturing and product launches. The company is pushing to adopt new processes like 14A, Nova Lake, and Diamond Rapids while also developing AI accelerators. This multi-pronged approach presents significant challenges.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-chip-roadmap-2026-2028",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.527568",
-    "insight": "Simultaneous manufacturing and product success is Intel's unprecedented challenge."
-  },
-  {
-    "title": "First credible leak of an AMD Zen 6 processor pops up on Geekbench ten-core CPU seems to have 32MB of L3 cache",
-    "summary": "AMD's Zen 6 processor has been leaked on Geekbench with 10 cores and 32MB of L3 cache, indicating early development progress.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/first-credible-leak-of-an-amd-zen-6-processor-pops-up-on-geekbench-ten-core-cpu-seems-to-have-32mb-of-l3-cache",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.527673",
-    "insight": "AMD's Zen 6 development is underway, confirming future CPU improvements"
-  },
-  {
-    "title": "GTC 2026",
-    "summary": "GTC 2026 showcases Nvidia's advancements in AI technology and future innovations.",
-    "link": "https://www.tomshardware.com/tag/gtc",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-03-17T09:37:31.527785",
-    "insight": "Accelerating AI adoption transforms industries and the global digital landscape."
-  },
-  {
-    "title": "STMicro to deploy humanoid robots to its legacy fabs in Europe over 100 humanoid robots to be used for routine and physically demanding tasks in fight for efficiency",
-    "summary": "STMicroelectronics plans to deploy 100 humanoid robots in European fabs to boost efficiency, tackling physically demanding tasks and improving productivity in the face of cheap Chinese chip imports.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/stmicro-to-deploy-humanoid-robots-to-its-legacy-fabs-in-europe-over-100-humanoid-robots-to-be-used-for-routine-and-physically-demanding-tasks-in-fight-for-efficiency",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.527891",
-    "insight": "Robots combat economic threat from cheap Chinese chip imports in Europe."
-  },
-  {
-    "title": "Chinese GPU vendor Zephyr has cancelled its single-fan RTX 4070 Ti Super due to VRAM price hikes memory shortage is forcing a pivot to an SFF RTX 4070 Super instead",
-    "summary": "Zephyr, a Chinese GPU vendor, cancels its RTX 4070 Ti Super due to VRAM shortages. The company has shifted its focus to develop an SFF RTX 4070 Super instead. This pivot is likely a response to the ongoing memory crisis in the industry.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/chinese-gpu-vendor-zephyr-has-cancelled-its-single-fan-rtx-4070-ti-super-due-to-vram-price-hikes-memory-shortage-is-forcing-a-pivot-to-an-sff-rtx-4070-super-instead",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-17T09:37:31.528025",
-    "insight": "Memory shortages force Chinese GPU vendors to adapt and pivot models"
-  },
-  {
-    "title": "Flabbergasted GPU repair wizard highlights dangers of liquid metal after leak kills entire RTX 5070 Ti user-applied TIM spread to every crevice of the PCB, physically cracking and shorting out the core",
-    "summary": "A user-applied liquid metal TIM leak caused catastrophic damage to an RTX 5070 Ti, shorting out multiple components and killing the core. The damage was so extensive that replacement of key ICs would be necessary. This incident highlights the risks of using liquid metal TIM.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/flabbergasted-gpu-repair-wizard-highlights-dangers-of-liquid-metal-after-leak-kills-entire-rtx-5070-ti-user-applied-tim-spread-to-every-crevice-of-the-pcb-physically-cracking-and-shorting-out-the-core",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.528152",
-    "insight": "Liquid metal TIM can cause irreversible damage to electronics components."
-  },
-  {
-    "title": "MSI plans 30% gaming product price hike as memory and GPU shortages bite 'This year is the most severe year since the company was founded'",
-    "summary": "MSI plans a 30% price hike for its gaming products due to memory and GPU shortages. The company considers this year the most severe in its history. MSI is not alone in facing these challenges.",
-    "link": "https://www.tomshardware.com/pc-components/msi-plans-to-raise-gaming-product-prices-by-up-to-30-percent",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.528251",
-    "insight": "Component shortages drive up gaming hardware prices significantly this year."
-  },
-  {
-    "title": "Mini review of the ThinkNode M6 outdoor solar power for Meshtastic ",
-    "summary": "The ThinkNode M6 outdoor solar power for Meshtastic is reviewed for its range and functionality in a suburban environment. The M6 is used as a router between two other ThinkNode nodes, M1 and M2. The review aims to assess the device's performance and potential in a real-world setting.",
-    "link": "https://www.cnx-software.com/2026/03/17/review-thinknode-m6-outdoor-solar-power-for-meshtastic/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-17T09:37:31.528699",
-    "insight": "Increased range and functionality for Meshtastic network in suburban areas."
-  },
-  {
-    "title": "Thin Raspberry Pi CM5 fanless mini PC offers HDMI video output, 2.5GbE + GbE, dual USB, M.2 Key-M socket",
-    "summary": "The Waveshare Gigabit / 2.5G Dual Ethernet Mini-Computer (B) is a thin, fanless mini PC based on the Raspberry Pi CM5, offering a 4K HDMI video output, dual Ethernet ports, USB ports, and an M.2 Key-M socket for NVMe SSD or AI accelerator. It features a compact design with accessible GPIO headers and MIPI connectors. The mini PC supports a range of SoMs, including Raspberry Pi CM5 and CM5 Lite.",
-    "link": "https://www.cnx-software.com/2026/03/17/thin-raspberry-pi-cm5-fanless-mini-pc-offers-hdmi-video-output-2-5gbe-gbe-dual-usb-m-2-key-m-socket/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-17T09:37:31.528870",
-    "insight": "Raspberry Pi's CM5 fanless mini PC offers high-speed networking and compact design."
-  },
-  {
-    "title": "Rabbit-Labs Flipper Zero ESP32-C5 multi-board features CC1101, GPS, and dual-band Wi-Fi 6",
-    "summary": "The Flipper Zero ESP32-C5 multi-board features dual-band Wi-Fi 6 and a GPS module, alongside a sub-GHz transceiver, making it a compact alternative to bulkier add-ons.",
-    "link": "https://www.cnx-software.com/2026/03/16/rabbit-labs-flipper-zero-esp32-c5-multi-board-features-cc1101-gps-and-dual-band-wi-fi-6/",
+    "title": "Intel's new Core Ultra 200HX Plus mobile CPUs include 290HX, 270HX Plus flagships 8% faster gaming claims fall short of 15% boost promised by desktop Arrow Lake Refresh",
+    "summary": "Intel's new Core Ultra 200HX Plus mobile CPUs have been released, with the 290HX offering an 8% gaming performance boost. The 270HX Plus is a flagship model, but its gaming performance metrics are currently unknown. This lags behind the promised 15% boost from the desktop Arrow Lake Refresh.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-launches-core-ultra-200hx-plus-mobile-cpus-including-290hx-plus-and-270hx-plus-flagships-arrow-lake-refresh-is-up-to-8-percent-faster-in-gaming",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-17T09:37:31.529050",
-    "insight": "Compact design for versatile wireless capabilities and GPS."
+    "processed_date": "2026-03-18T09:36:12.533623",
+    "insight": "Gap between mobile and desktop CPU performance claims widens."
   },
   {
-    "title": "Industrial Wi-Fi 7 access point with redundant 12V 48V DC inputs targets autonomous systems",
-    "summary": "Advantech's EKI-6333BE-4GD is an industrial-grade Wi-Fi 7 access point designed for autonomous systems, offering up to 5.8 Gbps throughput, redundant DC inputs, and IEC 62443 compliance.",
-    "link": "https://www.cnx-software.com/2026/03/16/industrial-wi-fi-7-access-point-with-redundant-12v-48v-dc-inputs-targets-autonomous-systems/",
+    "title": "Nvidia updates data center roadmap with Rosa CPU and stacked Feynman GPUs optical NVLink, Groq LPUs with NVFP4, and NVLink also on deck",
+    "summary": "Nvidia has unveiled its 2026-2028 data center roadmap, featuring the Rosa CPU, Feynman GPU, and optical NVLinks, as well as the integration of Groq LPUs with NVFP4 and NVLink. This marks a significant advancement in data center technology, aiming to improve performance and efficiency. The roadmap highlights Nvidia's continued commitment to innovation and leadership in the field.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-updates-data-center-roadmap-with-rosa-cpu-and-stacked-feynman-gpus-optical-nvlink-groq-lpus-with-nvfp4-and-nvlink-also-on-deck",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.533748",
+    "insight": "Accelerating AI and HPC with next-gen data center hardware advancements"
+  },
+  {
+    "title": "Jensen says Nvidia has received orders from Chinese customers for H200 GPUs, licenses from US gov't H200 manufacturing restarting",
+    "summary": "Nvidia's China supply chain resumes after over a year of restrictions, with orders for H200 GPUs and US government approval for H200 manufacturing restarting.",
+    "link": "https://www.tomshardware.com/tech-industry/nvidia-has-received-pos-from-chinese-customers",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.533867",
+    "insight": "Nvidia's China supply chain restart boosts GPU availability globally."
+  },
+  {
+    "title": "Jensen Huang says gamers are 'completely wrong' about DLSS 5 Nvidia CEO responds to DLSS 5 backlash",
+    "summary": "Nvidia CEO Jensen Huang defends DLSS 5 despite gamer backlash, saying developers maintain artistic control.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.533999",
+    "insight": "Artistic control remains with developers despite AI-enhanced graphics."
+  },
+  {
+    "title": "Nvidia launches DGX Station with its bleeding-edge GB300 Grace Blackwell Superchip now available to order and will begin shipping in the coming months",
+    "summary": "Nvidia launches DGX Station with the GB300 Grace Blackwell Superchip, offering 784GB of memory and a 1,600-watt power rating. This high-performance system is now available to order and will begin shipping in the coming months.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-dgx-station-with-its-bleeding-edge-gb300-grace-blackwell-superchip-now-available-to-order-and-will-begin-shipping-in-the-coming-months",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.534136",
+    "insight": "Game-changing AI and HPC capabilities for enterprise customers"
+  },
+  {
+    "title": "End of an era for decades-old PlayStation 3, Xbox 360, and Nintendo Wii U as GameStop officially declares them retro change means faulty or 'aesthetically unfortunate' consoles that can still power on are now accepted for trade-in",
+    "summary": "GameStop declares PlayStation 3, Xbox 360, and Wii U retro consoles, accepting trade-ins of any console that powers on, even if faulty or aesthetically unappealing.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/end-of-an-era-for-decades-old-playstation-3-xbox-360-and-nintendo-wii-u-as-gamestop-officially-declares-them-retro-change-means-faulty-or-aesthetically-unfortunate-consoles-that-can-still-power-on-are-now-accepted-for-trade-in",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.534261",
+    "insight": "Gamers can now trade in damaged consoles for store credit."
+  },
+  {
+    "title": "Nintendo Switch 2 update brings Handheld Mode Boost unlocks higher resolutions and TV-mode performance for original Switch games",
+    "summary": "The Nintendo Switch 2's Handheld Mode Boost feature enhances original Switch games with improved visuals and performance, similar to docked mode, even when playing in handheld mode.",
+    "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-update-brings-handheld-mode-boost-unlocks-higher-resolutions-and-tv-mode-performance-for-original-switch-games",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-18T09:36:12.534366",
+    "insight": "Upgrade for original Switch games without need for re-releases."
+  },
+  {
+    "title": "Examining Nvidia's 60 exaflop Vera Rubin POD how seven chips underpin company's 40 rack AI factory supercomputer",
+    "summary": "Nvidia announced seven chips for the Vera Rubin platform, set to be shipped in the second half of 2026. This platform will underpin the company's 40-rack AI factory supercomputer, a major breakthrough in AI computing. The Vera Rubin POD is expected to reach 60 exaflops.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-seven-chip-vera-rubin-platforms-turns-the-data-center-into-an-ai-factory",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-18T09:36:12.534489",
+    "insight": "60 exaflop AI supercomputer accelerates artificial intelligence research and innovation"
+  },
+  {
+    "title": "We got a first look at Nvidia's DLSS 5 and the future of neural rendering at GTC the results can be impressive, but there's work to do",
+    "summary": "Nvidia's DLSS 5 uses AI to enhance game visuals with detailed lighting interactions, producing impressive yet uncanny results.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/we-got-a-first-look-at-nvidias-dlss-5-and-the-future-of-neural-rendering-at-gtc-the-results-can-be-impressive-but-theres-work-to-do",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.534610",
+    "insight": "Realistic game lighting improves immersion and authenticity in gaming experiences"
+  },
+  {
+    "title": "Microsoft expects to commercialize MicroLED datacenter cables by late 2027 expands Hollow Core Fiber deployment, promising 47% faster data transmission and approximately 33% lower latency",
+    "summary": "Microsoft is developing MOSAIC, a MicroLED technology for datacenter cables. MOSAIC promises 47% faster data transmission and 33% lower latency. It uses MicroLEDs instead of lasers for data transmission.",
+    "link": "https://www.tomshardware.com/tech-industry/microsoft-expects-to-commercialize-microled-datacenter-cables-by-late-2027",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-18T09:36:12.534728",
+    "insight": "Revolutionizing data transmission with faster speeds and lower latency"
+  },
+  {
+    "title": "Nvidia launches BlueField-4 STX storage architecture for agentic AI at GTC 2026",
+    "summary": "Nvidia introduced BlueField-4 STX, a modular reference architecture for accelerated storage aimed at addressing the data access bottleneck in agentic AI inference. This architecture is designed to optimize data access and improve the performance of AI systems. It was announced at GTC 2026 on March 16.",
+    "link": "https://www.tomshardware.com/tech-industry/nvidia-launches-bluefield-4-stx-storage-architecture-for-agentic-ai",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-18T09:36:12.534839",
+    "insight": "Accelerating data access boosts agentic AI inference performance significantly."
+  },
+  {
+    "title": "South Korean company following ChatGPT management advice forced to backtrack by court Krafton improperly ousted Subnautica developer bosses to dodge $250m bonus payout",
+    "summary": "A South Korean gaming company was forced to backtrack after a court ruled that it improperly ousted the bosses of a developer to avoid a $250m bonus payment.",
+    "link": "https://www.tomshardware.com/video-games/south-korean-company-following-chatgpt-management-advice-forced-to-backtrack-by-court-krafton-improperly-ousted-subnautica-developer-bosses-to-dodge-usd250m-bonus-payout",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.534978",
+    "insight": "AI-driven management decisions can have unintended legal consequences."
+  },
+  {
+    "title": "Airflow enthusiast 3D-prints 15 tiny fans to fit inside a custom, domed Noctua NF-A12x25 frame bizarre 'Fanhattan Project' cools the CPU just as well as a regular fan",
+    "summary": "A YouTuber 3D-printed a custom fan with 15 tiny fans, achieving similar performance to a regular fan.",
+    "link": "https://www.tomshardware.com/pc-components/air-cooling/airflow-enthusiast-3d-prints-15-tiny-fans-to-fit-inside-a-custom-domed-noctua-nf-a12x25-frame-bizarre-fanhattan-project-cools-the-cpu-just-as-well-as-a-regular-fan",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-18T09:36:12.535118",
+    "insight": "Unconventional designs can match performance with less noise and bulk."
+  },
+  {
+    "title": "Global chip supply chain under threat as US-Iran conflict enters third week Strait of Hormuz blockade is days away from crippling Taiwan's semiconductor industry",
+    "summary": "The US-Iran conflict threatens Taiwan's chip industry due to helium and LNG imports being disrupted. This is because Taiwan relies heavily on external supplies for both energy and essential materials. The resulting semiconductor shortage could have far-reaching global consequences.",
+    "link": "https://www.tomshardware.com/tech-industry/global-chip-supply-chain-under-threat-as-us-iran-conflict-enters-third-week-strait-of-hormuz-blockade-is-days-away-from-crippling-taiwans-semiconductor-industry",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-17T09:37:31.529227",
-    "insight": "Industrial-grade Wi-Fi 7 access point for autonomous systems boosts reliability"
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.535249",
+    "insight": "Disrupted imports imperil global chip supply chain resilience"
   },
   {
-    "title": "EDGE AI FOUNDATION expands partnership with Sensors Converge",
-    "summary": "EDGE AI FOUNDATION expands its partnership with Sensors Converge by featuring a larger pavilion at the event. This pavilion will host over seven companies from May 5-7. The event aims to showcase innovative sensor technologies.",
-    "link": "https://www.fiercesensors.com/sensors/edge-ai-foundation-expands-partnership-sensors-converge",
+    "title": "Nvidia demonstrates Rubin Ultra tray, the world's first AI GPU with 1TB of HBM4E memory new chips will slot into Kyber racks",
+    "summary": "Nvidia demonstrates the Rubin Ultra GPU with 1TB HBM4E memory, integrated into Kyber racks.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-demonstrates-rubin-ultra-tray-worlds-1st-ai-gpu-with-1tb-of-hbm4e",
     "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-03-17T09:37:31.530160",
-    "insight": "Advancing AI capabilities through collaborative sensor technology innovation."
-  },
-  {
-    "title": "Announcing more Rising Stars 2026 (Fifth Group)",
-    "summary": "The fifth group of Rising Stars 2026 honors innovators advancing technology with creativity, expertise, and impact.",
-    "link": "https://www.fiercesensors.com/sensors/announcing-nore-rising-stars-2025-fifth-group",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-03-17T09:37:31.530313",
-    "insight": "Accelerating tech innovation drives global progress and economic growth."
-  },
-  {
-    "title": "Meet the 102-year-old teaching seniors how to use smartphones and Windows",
-    "summary": "A 102-year-old man leads a volunteer group teaching seniors digital literacy, covering topics like Windows 11 and online safety.",
-    "link": "https://www.techspot.com/news/111706-meet-102-year-old-teaching-seniors-how-use.html",
-    "categories": [
-      "Hardware"
+      "GPUs",
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.530754",
-    "insight": "Intergenerational transfer of knowledge bridges age gaps in digital skills."
+    "processed_date": "2026-03-18T09:36:12.535361",
+    "insight": "Advances in AI computing with massive memory and compute integration."
   },
   {
-    "title": "Nvidia DLSS 5 first look: generative AI lighting radically transforms game visuals",
-    "summary": "Nvidia's DLSS 5 transforms game visuals with generative AI lighting, surpassing upscaling and ray tracing.",
-    "link": "https://www.techspot.com/news/111707-nvidia-dlss-5-first-look-generative-ai-lighting.html",
+    "title": "Enthusiast reverse engineers world s smallest HDD to access data with help from an old Nokia N91 and OpenClaw open source USB bridge unlocks 0.85-inch mechanical Toshiba drive from 2004",
+    "summary": "Maker Will Whang reverse engineers world's smallest HDD using an OpenClaw open source USB bridge, unlocking a 0.85-inch mechanical Toshiba drive from 2004, with the help of an old Nokia N91.",
+    "link": "https://www.tomshardware.com/pc-components/external-hdds/enthusiast-reverse-engineers-worlds-smallest-hdd-to-access-data-with-help-from-an-old-nokia-n91-and-openclaw-open-source-usb-bridge-unlocks-0-85-inch-mechanical-toshiba-from-2004",
     "categories": [
-      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-18T09:36:12.535474",
+    "insight": "Preserving vintage technology expands access to historical data and innovation."
+  },
+  {
+    "title": "Nvidia removes Rubin CPX accelerators from its roadmap Groq 3 LPUs take center stage as CPX is removed",
+    "summary": "Nvidia has removed Rubin CPX accelerators from its roadmap, focusing on Groq 3 LPUs instead. The absence of CPX from Nvidia's GTC slides suggests a shift in priorities. This change may impact the field of AI acceleration.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-removes-rubin-cpx-accelerators-from-its-roadmap-groq-3-lpus-take-center-stage-as-cpx-is-removed",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-18T09:36:12.535575",
+    "insight": "Nvidia prioritizes Groq LPUs over Rubin CPX accelerators now."
+  },
+  {
+    "title": "Seagate FireCuda X1070 2TB SSD review: Entry-level hardware meets premium support",
+    "summary": "The Seagate FireCuda X1070 is a budget-friendly SSD that offers reliable performance and premium support. It's a Gen 4 SSD that's easy to install and use. However, its initial pricing might be a bit steep.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-x1070-2tb-ssd-review",
+    "categories": [
+      "Hardware",
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.530938",
-    "insight": "DLSS 5 redefines game visuals with AI-powered lighting innovation."
+    "quality_score": 10,
+    "processed_date": "2026-03-18T09:36:12.535684",
+    "insight": "Budget SSD meets premium support without breaking the bank"
   },
   {
-    "title": "Canva Affinity adds Light UI, Convert to Curves, and Live Tone Blend",
-    "summary": "Affinity's latest update introduces a new Light UI, Convert to Curves feature, and Live Tone Blend Groups, enhancing user experience and productivity.",
-    "link": "https://www.techspot.com/downloads/7804-canva-affinity.html",
+    "title": "PycoClaw A MicroPython-based OpenClaw implementation for ESP32 and other microcontrollers",
+    "summary": "PycoClaw is a MicroPython-based platform for AI agents on ESP32 and other microcontrollers, offering OpenClaw workspace compatibility, improved features, and support for multiple LLM providers.",
+    "link": "https://www.cnx-software.com/2026/03/18/pycoclaw-a-micropython-based-openclaw-implementation-for-esp32-and-other-microcontrollers/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.536185",
+    "insight": "Enables OpenClaw-compatible AI on resource-constrained embedded devices with more features."
+  },
+  {
+    "title": "Review of Open Nextion ESP32-S3-based HMI displays with the Arduino IDE and the ESP-IDF framework",
+    "summary": "ITEAD's Open Nextion ESP32-S3-based HMI displays combine logic processing, display control, and wireless connectivity into one package. Supported by the ESP-IDF framework and Arduino IDE with LVGL graphics, these HMI displays cater to developers and makers. They come in two variants with 3.5-inch and 2.8-inch screens.",
+    "link": "https://www.cnx-software.com/2026/03/18/review-open-nextion-esp32-s3-based-hmi-displays-with-the-arduino-ide-and-the-esp-idf-framework/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-18T09:36:12.536369",
+    "insight": "All-in-one ESP32-S3 HMI displays simplify IoT and GUI development"
+  },
+  {
+    "title": "High-end 25MP global shutter camera with 10GbE interface is designed for NVIDIA Holoscan platform",
+    "summary": "Leopard Imaging's LI-IMX530-10GigE-NL is a high-end 25MP camera designed for NVIDIA Holoscan. It features a 10GbE interface and is suitable for AI applications. The camera utilizes the Sony IMX530 1.2-inch CMOS sensor.",
+    "link": "https://www.cnx-software.com/2026/03/18/high-end-25mp-global-shutter-camera-with-10gbe-interface-is-designed-for-nvidia-holoscan-platform/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-18T09:36:12.536545",
+    "insight": "Fast data transmission enables real-time AI and ML processing."
+  },
+  {
+    "title": "ADLINK DLAP-701 An NVIDIA Jetson T5000/T4000 Edge AI platform for humanoid robots and vision sensing systems",
+    "summary": "ADLINK has launched the DLAP-701 Series, a compact edge AI platform for humanoid robots, autonomous mobile robots, and vision sensing systems, featuring NVIDIA Jetson T5000/T4000 processors, up to 128GB LPDDR5X memory, and various I/O options. It supports demanding edge environments with an operating voltage range of 9-36V DC and an industrial temperature range of -20 C to 60 C. The platform integrates CAN-FD interfaces for robotics and vehicle control and TPM 2.0 security.",
+    "link": "https://www.cnx-software.com/2026/03/17/adlink-dlap-701-an-nvidia-jetson-t5000-t4000-edge-ai-platform-for-humanoid-robots-and-vision-sensing-systems/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-18T09:36:12.536721",
+    "insight": "Enabling AI-driven robotics in harsh environments with robust performance"
+  },
+  {
+    "title": "Samsung's Galaxy Z TriFold was a hit with buyers, but it's still shutting down after three months",
+    "summary": "Samsung's Galaxy Z TriFold sold out quickly despite shutting down after three months. Limited production and tight control were key components of its initial strategy. Buyers were drawn to the experimental nature of the product.",
+    "link": "https://www.techspot.com/news/111718-samsung-galaxy-z-trifold-hit-buyers-but-shutting.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.531130",
-    "insight": "Streamlines design workflow with enhanced UI and powerful features."
+    "processed_date": "2026-03-18T09:36:12.537910",
+    "insight": "Limited production created hype, masking potential post-release issues."
   },
   {
-    "title": "Creative's Sound Blaster Audigy FX Pro brings discrete audio back from the grave",
-    "summary": "Creative's new Sound Blaster Audigy FX Pro sound card offers a fresh take on discrete audio, aiming to upgrade the audio experience for a wider range of customers. This model includes an additional layer of functionality compared to previous versions. It is designed to cater to enthusiasts and hardware enthusiasts.",
-    "link": "https://www.techspot.com/news/111704-creative-sound-blaster-audigy-fx-pro-brings-discrete.html",
+    "title": "MSI plans to raise prices by up to 30% amid memory crunch",
+    "summary": "MSI plans to raise prices by 15-30% due to memory shortages.",
+    "link": "https://www.techspot.com/news/111720-msi-plans-raise-prices-up-30-amid-memory.html",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "Hardware",
+      "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-17T09:37:31.531313",
-    "insight": "Reviving discrete sound cards for modern users with enhanced features."
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.538067",
+    "insight": "Memory scarcity drives price hikes across the PC hardware industry."
   },
   {
-    "title": "Microsoft is backing away from putting Copilot everywhere in Windows 11",
-    "summary": "Microsoft has scrapped AI-powered Copilot Suggestions in Windows 11 due to backlash. The feature was initially previewed in 2024 but never rolled out. This decision comes after criticism of the Windows Recall tool.",
-    "link": "https://www.techspot.com/news/111699-microsoft-scaling-back-copilot-integration-across-windows-11.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-17T09:37:31.531505",
-    "insight": "Microsoft prioritizes user trust over AI-driven feature adoption."
-  },
-  {
-    "title": "Doom: The Dark Ages is the first Denuvo DRM game of 2025 to be cracked",
-    "summary": "Doom: The Dark Ages has been cracked by 'Voices38', making it Denuvo-free. The game is a significant download at 81 GB, requiring powerful hardware. This marks the first Denuvo DRM game of 2025 to be cracked.",
-    "link": "https://www.techspot.com/news/111701-cracker-removes-controversial-denuvo-drm-doom-dark-ages.html",
+    "title": "Nvidia unveils Vera, an 88-core Arm CPU for AI and analytics racks",
+    "summary": "Nvidia unveiled Vera, an 88-core Arm CPU for AI and analytics. It focuses on general-purpose workloads with AI-centric applications. Vera is designed for data centers.",
+    "link": "https://www.techspot.com/news/111712-nvidia-unveils-vera-88-core-arm-cpu-ai.html",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.531681",
-    "insight": "Denuvo DRM's effectiveness questioned as first game of 2025 is cracked."
+    "processed_date": "2026-03-18T09:36:12.538198",
+    "insight": "Nvidia's Vera CPU targets broader AI workloads beyond GPU companionship"
   },
   {
-    "title": "Apple launches AirPods Max 2 with stronger ANC, lossless audio, and live translation",
-    "summary": "Apple's AirPods Max 2 features stronger ANC, lossless audio, and live translation. Pre-orders open March 25 in over 30 countries, with general availability in early April. The design remains similar to the original AirPods Max.",
-    "link": "https://www.techspot.com/news/111700-apple-airpods-max-2-arrive-h2-chip-stronger.html",
+    "title": "Startup proposes USB drives as a modern replacement for DVDs and Blu-rays",
+    "summary": "Video StoreAge proposes using encrypted USB drives as a modern replacement for DVDs and Blu-rays, taking a more authorial approach to indie film distribution and disrupting algorithm-driven models.",
+    "link": "https://www.techspot.com/news/111708-startup-proposes-usb-drives-modern-replacement-dvds-blu.html",
     "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.531850",
-    "insight": "Enhanced audio capabilities boost AirPods Max 2's overall user experience."
-  },
-  {
-    "title": "GIMP 3.2 arrives with performance improvements and workflow refinements",
-    "summary": "GIMP 3.2 has been updated with performance improvements and new features like non-destructive layers, an upgraded brush tool, and expanded file format support.",
-    "link": "https://www.techspot.com/downloads/614-the-gimp.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-17T09:37:31.532038",
-    "insight": "Enhances creative workflow and versatility of digital image editing software."
-  },
-  {
-    "title": "Meta is pulling the plug on Instagram's encrypted messages",
-    "summary": "Meta is discontinuing end-to-end encryption on Instagram's direct messages. Unlike WhatsApp and Facebook Messenger, Instagram's E2E encryption was manual and limited. This move may compromise user privacy.",
-    "link": "https://www.techspot.com/news/111696-meta-pulls-plug-instagram-encrypted-messages.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.532158",
-    "insight": "User privacy faces significant risks with manual E2E encryption."
-  },
-  {
-    "title": "Digg relaunch fails after two months as bots and AI agents flood the site",
-    "summary": "Digg's relaunched beta version has been shut down due to issues with bots and AI agents flooding the site, leading to significant downsizing of the development team.",
-    "link": "https://www.techspot.com/news/111698-digg-relaunch-fails-two-months-ai-agents-spambots.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-17T09:37:31.532274",
-    "insight": "Social media platforms struggle with AI-driven spam and bot attacks."
-  },
-  {
-    "title": "Microsoft says Samsung Galaxy app bug, not Windows update, locked some users out of C: drive",
-    "summary": "Microsoft attributes C: drive lockout issue to Samsung app bug, not Windows update.",
-    "link": "https://www.techspot.com/news/111697-microsoft-samsung-galaxy-app-bug-not-windows-update.html",
-    "categories": [
+      "Tech News",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.532381",
-    "insight": "Samsung app bug affected Windows users, highlighting ecosystem interdependence issues."
+    "processed_date": "2026-03-18T09:36:12.538318",
+    "insight": "Human connection and community replace algorithm-driven film distribution methods."
   },
   {
-    "title": "Samsung wins in court after German judge says some TCL \"QLED\" TVs aren't really QLED",
-    "summary": "A German court ruled in favor of Samsung, stating TCL's 'QLED' TVs don't meet QLED standards, misleading consumers about color reproduction.",
-    "link": "https://www.techspot.com/news/111693-samsung-wins-court-ruling-after-german-judge-tcl.html",
+    "title": "I saw DLSS 5 running across multiple games. It's not a face filter.",
+    "summary": "Nvidia released DLSS 5 at GTC 2026, sparking internet reactions.",
+    "link": "https://www.techspot.com/news/111719-saw-dlss-5-running-across-multiple-games-not.html",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.532498",
-    "insight": "QLED authenticity matters for consumer trust in display technology claims."
+    "quality_score": 0,
+    "processed_date": "2026-03-18T09:36:12.538417",
+    "insight": "DLSS 5 enhances gaming performance across multiple supported titles."
   },
   {
-    "title": "Google quietly pulls AI \"health tool\" that summarized Reddit advice",
-    "summary": "Google quietly removed its AI-powered 'What People Suggest' tool, which summarized advice from online forums.",
-    "link": "https://www.techspot.com/news/111695-google-quietly-removes-ai-health-search-tool-surfaced.html",
+    "title": "Intel launches Core Ultra 200HX Plus \"Arrow Lake Refresh\" chips for gaming laptops",
+    "summary": "Intel introduces Core Ultra 200HX Plus chips, led by the 9 290HX Plus, offering improved performance in gaming and professional applications.",
+    "link": "https://www.techspot.com/news/111717-intel-launches-core-ultra-200hx-plus-arrow-lake.html",
     "categories": [
-      "AI & ML",
-      "Tech News"
+      "Hardware",
+      "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-17T09:37:31.532609",
-    "insight": "Risks of AI-powered advice aggregation and misinformation dissemination highlighted."
+    "processed_date": "2026-03-18T09:36:12.538539",
+    "insight": "Increased single-threaded performance in gaming and professional applications with Intel Core Ultra 200HX Plus."
   },
   {
-    "title": "Hacker unveils exploit that cracks the \"unbreakable\" Xbox One at the silicon level",
-    "summary": "A hacker has successfully breached the Xbox One's hardware-level defenses, marking a milestone in console hacking. The breach targets the boot ROM on the Xbox, operating below the software stack. This achievement recalls the famous Reset Glitch Hack that compromised the Xbox 360 years earlier.",
-    "link": "https://www.techspot.com/news/111692-hacker-unveils-exploit-cracks-unbreakable-xbox-one-silicon.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.532724",
-    "insight": "Exploiting hardware vulnerabilities exposes critical security weaknesses in gaming consoles."
-  },
-  {
-    "title": "Grandmother spent six months in jail after AI facial recognition misidentified her",
-    "summary": "A grandmother was mistakenly arrested and jailed for six months after an AI facial recognition error.",
-    "link": "https://www.techspot.com/news/111694-grandmother-spent-six-months-jail-after-ai-facial.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.532831",
-    "insight": "AI facial recognition mistakes can have devastating consequences and long-term impact."
-  },
-  {
-    "title": "Nvidia's next AI chip may move beyond the all-purpose GPU",
-    "summary": "Nvidia is considering a departure from its all-purpose GPU approach for AI computing, marking a shift in philosophy. This change would allow for more specialized chips, potentially leading to improved performance and efficiency. The move is in response to growing demand for faster AI computing.",
-    "link": "https://www.techspot.com/news/111691-nvidia-next-ai-chip-may-move-beyond-all.html",
+    "title": "Jensen Huang predicts Nvidia AI chip revenue will hit $1 trillion by 2027",
+    "summary": "Nvidia CEO Jensen Huang predicts $1 trillion AI chip revenue by 2027, marking a new stage in the AI boom where systems are designed for massive scale inference.",
+    "link": "https://www.techspot.com/news/111714-jensen-huang-predicts-nvidia-ai-chip-revenue-hit.html",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-17T09:37:31.532944",
-    "insight": "Specialized AI chips could lead to significant performance gains"
+    "processed_date": "2026-03-18T09:36:12.538648",
+    "insight": "AI chip revenue could surpass $1 trillion by 2027."
+  },
+  {
+    "title": "The PlayStation 5 is powered by a GPU roughly equal to which PC graphics card?",
+    "summary": "The PlayStation 5's GPU is comparable to a high-end PC graphics card. It is considered to be roughly equivalent to a Radeon RX 6800 XT or a GeForce RTX 3070. This comparison is based on performance benchmarks.",
+    "link": "https://www.techspot.com/trivia/158-playstation-5-powered-gpu-roughly-equal-which-pc/",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-18T09:36:12.538748",
+    "insight": "A console's GPU power determines its gaming capabilities and longevity."
+  },
+  {
+    "title": "User says Apple Watch caused severe wrist burns, case still unresolved six months later",
+    "summary": "A Reddit user reported severe wrist burns from an Apple Watch, describing it as painful and slow to heal. The incident occurred while working on a laptop, causing an extreme surge of heat under the device. The user has been dealing with the issue for six months.",
+    "link": "https://www.techspot.com/news/111713-user-apple-watch-caused-severe-wrist-burns-case.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.538867",
+    "insight": "Apple Watch safety concerns may lead to product liability lawsuits."
+  },
+  {
+    "title": "Amazon adds 1-hour and 3-hour delivery options, but convenience comes at a premium",
+    "summary": "Amazon introduces 1-hour and 3-hour delivery options in major and smaller cities.",
+    "link": "https://www.techspot.com/news/111716-amazon-adds-1-hour-3-hour-delivery-but.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.538997",
+    "insight": "Convenience comes with a higher price tag for Amazon customers."
+  },
+  {
+    "title": "Noctua's first PC case could be a quieter, fan-packed take on the Antec Flux Pro",
+    "summary": "Noctua, an Austrian fan manufacturer, has shared a photo of its upcoming PC case. The case appears to be a quieter, fan-packed take on the Antec Flux Pro. The company provided a few details about its product in its replies to commentators.",
+    "link": "https://www.techspot.com/news/111709-noctua-first-pc-case-could-quieter-fan-packed.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.539116",
+    "insight": "Noctua's first PC case could bring innovative cooling solutions"
+  },
+  {
+    "title": "A London judge says a witness was being coached in real time through smart glasses",
+    "summary": "A London judge accused a witness of being coached in real-time through smart glasses during a court case. The case involved a dispute over ownership and control of Oneta Limited. A Lithuanian firm and its representative were seeking a declaration and register rectification.",
+    "link": "https://www.techspot.com/news/111710-london-judge-witness-coached-real-time-through-smart.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.539235",
+    "insight": "Real-time coaching via smart glasses undermines court integrity and fairness"
+  },
+  {
+    "title": "Data centers are turning to $200,000 robot dogs to guard the facilities",
+    "summary": "Data centers are using expensive robot dogs for security patrols. Robot interest surged in the past year, driven by growing security needs. These robots can monitor facilities 24/7.",
+    "link": "https://www.techspot.com/news/111711-data-centers-turning-200000-robot-dogs-guard-facilities.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-18T09:36:12.539362",
+    "insight": "Increased security demands drive adoption of autonomous robot guarding solutions."
   }
 ]

@@ -1,5 +1,5 @@
 # 💻 Hardware
-**Week of March 17, 2026**
+**Week of March 18, 2026**
 
 *Computing hardware and development boards*
 
@@ -7,159 +7,159 @@
 
 ## 📊 Summary
 - **Articles this week:** 15
-- **Report generated:** 2026-03-17 09:39
+- **Report generated:** 2026-03-18 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Nvidia unveils details of new 88-core Vera CPUs positioned to compete with AMD and Intel new Vera CPU rack features 256 liquid-cooled chips that deliver up to a 6X gain in CPU throughput ⭐
+### 1. ADLINK DLAP-701 An NVIDIA Jetson T5000/T4000 Edge AI platform for humanoid robots and vision sensing systems ⭐
 
-Nvidia unveiled its Vera data center CPUs with 88 cores, offering 50% performance gains over standard CPUs. The new architecture includes a 1.5X increase in IPC from its Olympus cores. The Vera CPU Rack features 256 liquid-cooled CPUs for CPU-centric workloads.
+ADLINK has launched the DLAP-701 Series, a compact edge AI platform for humanoid robots, autonomous mobile robots, and vision sensing systems, featuring NVIDIA Jetson T5000/T4000 processors, up to 128GB LPDDR5X memory, and various I/O options. It supports demanding edge environments with an operating voltage range of 9-36V DC and an industrial temperature range of -20 C to 60 C. The platform integrates CAN-FD interfaces for robotics and vehicle control and TPM 2.0 security.
 
-💡 *Nvidia's Vera CPUs challenge AMD and Intel's CPU dominance strongly now.*
+💡 *Enabling AI-driven robotics in harsh environments with robust performance*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-unveils-details-of-new-88-core-vera-cpus-positioned-to-compete-with-amd-and-intel-new-vera-cpu-rack-features-256-liquid-cooled-chips-that-deliver-up-to-a-6x-gain-in-cpu-throughput)
-
----
-
-### 2. Intel Xeon 6 selected as host CPU for Nvidia DGX Rubin NVL8 systems Intel wins a contract as Nvidia enters data center processor market with Vera CPUs 
-
-Intel's Xeon 6 processor will be the host CPU in Nvidia's DGX Rubin NVL8 systems. This partnership marks a significant collaboration between the two tech giants. Intel wins a contract as Nvidia enters the data center processor market with Vera CPUs.
-
-💡 *Nvidia's entry into data center processors challenges AMD and Intel dominance*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-xeon-6-selected-as-host-cpu-for-nvidia-dgx-rubin-nvl8-systems)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/17/adlink-dlap-701-an-nvidia-jetson-t5000-t4000-edge-ai-platform-for-humanoid-robots-and-vision-sensing-systems/)
 
 ---
 
-### 3. Mini review of the ThinkNode M6 outdoor solar power for Meshtastic  
+### 2. Intel's new Core Ultra 200HX Plus mobile CPUs include 290HX, 270HX Plus flagships 8% faster gaming claims fall short of 15% boost promised by desktop Arrow Lake Refresh 
 
-The ThinkNode M6 outdoor solar power for Meshtastic is reviewed for its range and functionality in a suburban environment. The M6 is used as a router between two other ThinkNode nodes, M1 and M2. The review aims to assess the device's performance and potential in a real-world setting.
+Intel's new Core Ultra 200HX Plus mobile CPUs have been released, with the 290HX offering an 8% gaming performance boost. The 270HX Plus is a flagship model, but its gaming performance metrics are currently unknown. This lags behind the promised 15% boost from the desktop Arrow Lake Refresh.
 
-💡 *Increased range and functionality for Meshtastic network in suburban areas.*
+💡 *Gap between mobile and desktop CPU performance claims widens.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/17/review-thinknode-m6-outdoor-solar-power-for-meshtastic/)
-
----
-
-### 4. Thin Raspberry Pi CM5 fanless mini PC offers HDMI video output, 2.5GbE + GbE, dual USB, M.2 Key-M socket 
-
-The Waveshare Gigabit / 2.5G Dual Ethernet Mini-Computer (B) is a thin, fanless mini PC based on the Raspberry Pi CM5, offering a 4K HDMI video output, dual Ethernet ports, USB ports, and an M.2 Key-M socket for NVMe SSD or AI accelerator. It features a compact design with accessible GPIO headers and MIPI connectors. The mini PC supports a range of SoMs, including Raspberry Pi CM5 and CM5 Lite.
-
-💡 *Raspberry Pi's CM5 fanless mini PC offers high-speed networking and compact design.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/17/thin-raspberry-pi-cm5-fanless-mini-pc-offers-hdmi-video-output-2-5gbe-gbe-dual-usb-m-2-key-m-socket/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-launches-core-ultra-200hx-plus-mobile-cpus-including-290hx-plus-and-270hx-plus-flagships-arrow-lake-refresh-is-up-to-8-percent-faster-in-gaming)
 
 ---
 
-### 5. Rabbit-Labs Flipper Zero ESP32-C5 multi-board features CC1101, GPS, and dual-band Wi-Fi 6 
+### 3. Examining Nvidia's 60 exaflop Vera Rubin POD how seven chips underpin company's 40 rack AI factory supercomputer 
 
-The Flipper Zero ESP32-C5 multi-board features dual-band Wi-Fi 6 and a GPS module, alongside a sub-GHz transceiver, making it a compact alternative to bulkier add-ons.
+Nvidia announced seven chips for the Vera Rubin platform, set to be shipped in the second half of 2026. This platform will underpin the company's 40-rack AI factory supercomputer, a major breakthrough in AI computing. The Vera Rubin POD is expected to reach 60 exaflops.
 
-💡 *Compact design for versatile wireless capabilities and GPS.*
+💡 *60 exaflop AI supercomputer accelerates artificial intelligence research and innovation*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/16/rabbit-labs-flipper-zero-esp32-c5-multi-board-features-cc1101-gps-and-dual-band-wi-fi-6/)
-
----
-
-### 6. Creative's Sound Blaster Audigy FX Pro brings discrete audio back from the grave 
-
-Creative's new Sound Blaster Audigy FX Pro sound card offers a fresh take on discrete audio, aiming to upgrade the audio experience for a wider range of customers. This model includes an additional layer of functionality compared to previous versions. It is designed to cater to enthusiasts and hardware enthusiasts.
-
-💡 *Reviving discrete sound cards for modern users with enhanced features.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111704-creative-sound-blaster-audigy-fx-pro-brings-discrete.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-seven-chip-vera-rubin-platforms-turns-the-data-center-into-an-ai-factory)
 
 ---
 
-### 7. Microsoft is backing away from putting Copilot everywhere in Windows 11 
+### 4. Airflow enthusiast 3D-prints 15 tiny fans to fit inside a custom, domed Noctua NF-A12x25 frame bizarre 'Fanhattan Project' cools the CPU just as well as a regular fan 
 
-Microsoft has scrapped AI-powered Copilot Suggestions in Windows 11 due to backlash. The feature was initially previewed in 2024 but never rolled out. This decision comes after criticism of the Windows Recall tool.
+A YouTuber 3D-printed a custom fan with 15 tiny fans, achieving similar performance to a regular fan.
 
-💡 *Microsoft prioritizes user trust over AI-driven feature adoption.*
+💡 *Unconventional designs can match performance with less noise and bulk.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111699-microsoft-scaling-back-copilot-integration-across-windows-11.html)
-
----
-
-### 8. Dell updates Alienware gaming laptops with Intel s Arrow Lake-HX Refresh CPUs 16-inch models receive OLED display and GPU upgrades 
-
-Dell updates Alienware 16-inch gaming laptops with Intel Arrow Lake-HX Refresh CPUs, featuring OLED displays and GPU upgrades.
-
-💡 *Faster processors enhance gaming performance and user experience.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/dell-updates-alienware-gaming-laptops-with-intels-arrow-lake-hx-refresh-cpus-16-inch-models-receive-oled-display-and-gpu-upgrades)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/airflow-enthusiast-3d-prints-15-tiny-fans-to-fit-inside-a-custom-domed-noctua-nf-a12x25-frame-bizarre-fanhattan-project-cools-the-cpu-just-as-well-as-a-regular-fan)
 
 ---
 
-### 9. Jensen Huang expects Nvidia to sell $1 trillion of AI hardware through 2027 AI buildout intensifies as Agentic AI takes hold 
+### 5. Seagate FireCuda X1070 2TB SSD review: Entry-level hardware meets premium support 
 
-Nvidia co-founder Jensen Huang predicts the company will earn $1 trillion from AI hardware sales by 2027, driven by the increasing adoption of artificial intelligence.
+The Seagate FireCuda X1070 is a budget-friendly SSD that offers reliable performance and premium support. It's a Gen 4 SSD that's easy to install and use. However, its initial pricing might be a bit steep.
 
-💡 *AI's rapid growth and adoption drive trillion-dollar hardware sales projections*
+💡 *Budget SSD meets premium support without breaking the bank*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/jensen-huang-expects-nvidia-to-sell-usd1-trillion-of-ai-hardware-through-2027-ai-buildout-intensifies-as-agentic-ai-takes-hold)
-
----
-
-### 10. Nvidia GTC 2026 keynote live blog Vera Rubin GPUs and CPUs, DLSS 5, and the 'future of technology' 
-
-Nvidia's GTC 2026 keynote unveiled the Vera Rubin GPUs and CPUs, promising significant advancements in AI and computing. The event also showcased the latest iteration of DLSS, a key technology for enhanced gaming and graphics performance. CEO Jensen Huang emphasized the 'future of technology' throughout the presentation.
-
-💡 *Nvidia's Vera Rubin technology fuels AI and computing breakthroughs*
-
-🔗 [Read Full Article](https://www.tomshardware.com/news/live/nvidia-gtc-2026-keynote-live-blog-jensen-huang)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-x1070-2tb-ssd-review)
 
 ---
 
-### 11. Creative updates its Sound Blaster PCIe sound card line after 5 years new $79.99 Audigy FX Pro 7.1 pitched as clear upgrade over standard onboard audio  
+### 6. Review of Open Nextion ESP32-S3-based HMI displays with the Arduino IDE and the ESP-IDF framework 
 
-Creative has released an updated Sound Blaster Audigy FX Pro 7.1 sound card, offering improved audio quality and features for PC desktop DIYers. This newest addition to the line is pitched as a clear upgrade over standard onboard audio. The Audigy FX Pro 7.1 is available at a price point of $79.99.
+ITEAD's Open Nextion ESP32-S3-based HMI displays combine logic processing, display control, and wireless connectivity into one package. Supported by the ESP-IDF framework and Arduino IDE with LVGL graphics, these HMI displays cater to developers and makers. They come in two variants with 3.5-inch and 2.8-inch screens.
 
-💡 *Enhanced audio quality for PC desktop DIYers at an affordable price point.*
+💡 *All-in-one ESP32-S3 HMI displays simplify IoT and GUI development*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/sound-cards/creative-updates-its-sound-blaster-pcie-line-after-5-years-new-usd79-99-audigy-fx-pro-7-1-pitched-as-clear-upgrade-over-standard-onboard-audio)
-
----
-
-### 12. First credible leak of an AMD Zen 6 processor pops up on Geekbench ten-core CPU seems to have 32MB of L3 cache 
-
-AMD's Zen 6 processor has been leaked on Geekbench with 10 cores and 32MB of L3 cache, indicating early development progress.
-
-💡 *AMD's Zen 6 development is underway, confirming future CPU improvements*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/first-credible-leak-of-an-amd-zen-6-processor-pops-up-on-geekbench-ten-core-cpu-seems-to-have-32mb-of-l3-cache)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/18/review-open-nextion-esp32-s3-based-hmi-displays-with-the-arduino-ide-and-the-esp-idf-framework/)
 
 ---
 
-### 13. Meet the 102-year-old teaching seniors how to use smartphones and Windows 
+### 7. High-end 25MP global shutter camera with 10GbE interface is designed for NVIDIA Holoscan platform 
 
-A 102-year-old man leads a volunteer group teaching seniors digital literacy, covering topics like Windows 11 and online safety.
+Leopard Imaging's LI-IMX530-10GigE-NL is a high-end 25MP camera designed for NVIDIA Holoscan. It features a 10GbE interface and is suitable for AI applications. The camera utilizes the Sony IMX530 1.2-inch CMOS sensor.
 
-💡 *Intergenerational transfer of knowledge bridges age gaps in digital skills.*
+💡 *Fast data transmission enables real-time AI and ML processing.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111706-meet-102-year-old-teaching-seniors-how-use.html)
-
----
-
-### 14. Doom: The Dark Ages is the first Denuvo DRM game of 2025 to be cracked 
-
-Doom: The Dark Ages has been cracked by 'Voices38', making it Denuvo-free. The game is a significant download at 81 GB, requiring powerful hardware. This marks the first Denuvo DRM game of 2025 to be cracked.
-
-💡 *Denuvo DRM's effectiveness questioned as first game of 2025 is cracked.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111701-cracker-removes-controversial-denuvo-drm-doom-dark-ages.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/18/high-end-25mp-global-shutter-camera-with-10gbe-interface-is-designed-for-nvidia-holoscan-platform/)
 
 ---
 
-### 15. Hacker unveils exploit that cracks the "unbreakable" Xbox One at the silicon level 
+### 8. Intel launches Core Ultra 200HX Plus "Arrow Lake Refresh" chips for gaming laptops 
 
-A hacker has successfully breached the Xbox One's hardware-level defenses, marking a milestone in console hacking. The breach targets the boot ROM on the Xbox, operating below the software stack. This achievement recalls the famous Reset Glitch Hack that compromised the Xbox 360 years earlier.
+Intel introduces Core Ultra 200HX Plus chips, led by the 9 290HX Plus, offering improved performance in gaming and professional applications.
 
-💡 *Exploiting hardware vulnerabilities exposes critical security weaknesses in gaming consoles.*
+💡 *Increased single-threaded performance in gaming and professional applications with Intel Core Ultra 200HX Plus.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111692-hacker-unveils-exploit-cracks-unbreakable-xbox-one-silicon.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111717-intel-launches-core-ultra-200hx-plus-arrow-lake.html)
+
+---
+
+### 9. Nvidia updates data center roadmap with Rosa CPU and stacked Feynman GPUs optical NVLink, Groq LPUs with NVFP4, and NVLink also on deck 
+
+Nvidia has unveiled its 2026-2028 data center roadmap, featuring the Rosa CPU, Feynman GPU, and optical NVLinks, as well as the integration of Groq LPUs with NVFP4 and NVLink. This marks a significant advancement in data center technology, aiming to improve performance and efficiency. The roadmap highlights Nvidia's continued commitment to innovation and leadership in the field.
+
+💡 *Accelerating AI and HPC with next-gen data center hardware advancements*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-updates-data-center-roadmap-with-rosa-cpu-and-stacked-feynman-gpus-optical-nvlink-groq-lpus-with-nvfp4-and-nvlink-also-on-deck)
+
+---
+
+### 10. PycoClaw A MicroPython-based OpenClaw implementation for ESP32 and other microcontrollers 
+
+PycoClaw is a MicroPython-based platform for AI agents on ESP32 and other microcontrollers, offering OpenClaw workspace compatibility, improved features, and support for multiple LLM providers.
+
+💡 *Enables OpenClaw-compatible AI on resource-constrained embedded devices with more features.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/18/pycoclaw-a-micropython-based-openclaw-implementation-for-esp32-and-other-microcontrollers/)
+
+---
+
+### 11. MSI plans to raise prices by up to 30% amid memory crunch 
+
+MSI plans to raise prices by 15-30% due to memory shortages.
+
+💡 *Memory scarcity drives price hikes across the PC hardware industry.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111720-msi-plans-raise-prices-up-30-amid-memory.html)
+
+---
+
+### 12. Nvidia unveils Vera, an 88-core Arm CPU for AI and analytics racks 
+
+Nvidia unveiled Vera, an 88-core Arm CPU for AI and analytics. It focuses on general-purpose workloads with AI-centric applications. Vera is designed for data centers.
+
+💡 *Nvidia's Vera CPU targets broader AI workloads beyond GPU companionship*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111712-nvidia-unveils-vera-88-core-arm-cpu-ai.html)
+
+---
+
+### 13. User says Apple Watch caused severe wrist burns, case still unresolved six months later 
+
+A Reddit user reported severe wrist burns from an Apple Watch, describing it as painful and slow to heal. The incident occurred while working on a laptop, causing an extreme surge of heat under the device. The user has been dealing with the issue for six months.
+
+💡 *Apple Watch safety concerns may lead to product liability lawsuits.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111713-user-apple-watch-caused-severe-wrist-burns-case.html)
+
+---
+
+### 14. Noctua's first PC case could be a quieter, fan-packed take on the Antec Flux Pro 
+
+Noctua, an Austrian fan manufacturer, has shared a photo of its upcoming PC case. The case appears to be a quieter, fan-packed take on the Antec Flux Pro. The company provided a few details about its product in its replies to commentators.
+
+💡 *Noctua's first PC case could bring innovative cooling solutions*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111709-noctua-first-pc-case-could-quieter-fan-packed.html)
+
+---
+
+### 15. The PlayStation 5 is powered by a GPU roughly equal to which PC graphics card? 
+
+The PlayStation 5's GPU is comparable to a high-end PC graphics card. It is considered to be roughly equivalent to a Radeon RX 6800 XT or a GeForce RTX 3070. This comparison is based on performance benchmarks.
+
+💡 *A console's GPU power determines its gaming capabilities and longevity.*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/158-playstation-5-powered-gpu-roughly-equal-which-pc/)
 
 ---
 
