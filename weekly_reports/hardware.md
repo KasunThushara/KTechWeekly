@@ -1,165 +1,125 @@
 # 💻 Hardware
-**Week of March 18, 2026**
+**Week of March 19, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 15
-- **Report generated:** 2026-03-18 09:37
+- **Articles this week:** 11
+- **Report generated:** 2026-03-19 09:28
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. ADLINK DLAP-701 An NVIDIA Jetson T5000/T4000 Edge AI platform for humanoid robots and vision sensing systems ⭐
+### 1. Testing CPU scaling in Crimson Desert X3D wins, but not by much, and Raptor Lake shines ⭐
 
-ADLINK has launched the DLAP-701 Series, a compact edge AI platform for humanoid robots, autonomous mobile robots, and vision sensing systems, featuring NVIDIA Jetson T5000/T4000 processors, up to 128GB LPDDR5X memory, and various I/O options. It supports demanding edge environments with an operating voltage range of 9-36V DC and an industrial temperature range of -20 C to 60 C. The platform integrates CAN-FD interfaces for robotics and vehicle control and TPM 2.0 security.
+We tested 20 CPUs in Crimson Desert to see gaming performance. The results show positive performance with Pearl Abyss' BlackSpace engine. Raptor Lake CPUs shine in the tests.
 
-💡 *Enabling AI-driven robotics in harsh environments with robust performance*
+💡 *Raptor Lake CPUs outperform others in Crimson Desert gaming tests.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/17/adlink-dlap-701-an-nvidia-jetson-t5000-t4000-edge-ai-platform-for-humanoid-robots-and-vision-sensing-systems/)
-
----
-
-### 2. Intel's new Core Ultra 200HX Plus mobile CPUs include 290HX, 270HX Plus flagships 8% faster gaming claims fall short of 15% boost promised by desktop Arrow Lake Refresh 
-
-Intel's new Core Ultra 200HX Plus mobile CPUs have been released, with the 290HX offering an 8% gaming performance boost. The 270HX Plus is a flagship model, but its gaming performance metrics are currently unknown. This lags behind the promised 15% boost from the desktop Arrow Lake Refresh.
-
-💡 *Gap between mobile and desktop CPU performance claims widens.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-launches-core-ultra-200hx-plus-mobile-cpus-including-290hx-plus-and-270hx-plus-flagships-arrow-lake-refresh-is-up-to-8-percent-faster-in-gaming)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/testing-cpu-scaling-in-crimson-desert-x3d-wins-but-not-by-much-and-raptor-lake-shines)
 
 ---
 
-### 3. Examining Nvidia's 60 exaflop Vera Rubin POD how seven chips underpin company's 40 rack AI factory supercomputer 
+### 2. AMD reportedly strikes back with Zen 5 refresh to counter Intel's latest Arrow Lake Refresh CPUs 65W Ryzen supercharged with 400 MHz base clock uplift and almost double the TDP ⭐
 
-Nvidia announced seven chips for the Vera Rubin platform, set to be shipped in the second half of 2026. This platform will underpin the company's 40-rack AI factory supercomputer, a major breakthrough in AI computing. The Vera Rubin POD is expected to reach 60 exaflops.
+AMD reportedly releases a Zen 5 refresh with Ryzen 7 9750X and Ryzen 5 9650X, featuring a 400 MHz base clock uplift and a significant TDP increase.
 
-💡 *60 exaflop AI supercomputer accelerates artificial intelligence research and innovation*
+💡 *Increased performance to counter Intel's Arrow Lake Refresh CPUs with higher TDP.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-seven-chip-vera-rubin-platforms-turns-the-data-center-into-an-ai-factory)
-
----
-
-### 4. Airflow enthusiast 3D-prints 15 tiny fans to fit inside a custom, domed Noctua NF-A12x25 frame bizarre 'Fanhattan Project' cools the CPU just as well as a regular fan 
-
-A YouTuber 3D-printed a custom fan with 15 tiny fans, achieving similar performance to a regular fan.
-
-💡 *Unconventional designs can match performance with less noise and bulk.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/airflow-enthusiast-3d-prints-15-tiny-fans-to-fit-inside-a-custom-domed-noctua-nf-a12x25-frame-bizarre-fanhattan-project-cools-the-cpu-just-as-well-as-a-regular-fan)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-reportedly-strikes-back-with-zen-5-refresh-to-counter-intels-latest-arrow-lake-refresh-cpus-65w-ryzen-supercharged-with-400-mhz-base-clock-uplift-and-almost-double-the-tdp)
 
 ---
 
-### 5. Seagate FireCuda X1070 2TB SSD review: Entry-level hardware meets premium support 
+### 3. Endgame: What s it Like to build the Noctua-everything PC inside the Antec Flux Pro Noctua-Edition 
 
-The Seagate FireCuda X1070 is a budget-friendly SSD that offers reliable performance and premium support. It's a Gen 4 SSD that's easy to install and use. However, its initial pricing might be a bit steep.
+The Antec Flux Pro Noctua-Edition case allows for a 100% Noctua PC build with off-the-shelf components. This collaboration provides a unique opportunity to explore the feasibility of all-Noctua systems. A PC with Noctua components might offer a distinct performance profile.
 
-💡 *Budget SSD meets premium support without breaking the bank*
+💡 *All-Noctua system's thermal performance could potentially outshine competition.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-x1070-2tb-ssd-review)
-
----
-
-### 6. Review of Open Nextion ESP32-S3-based HMI displays with the Arduino IDE and the ESP-IDF framework 
-
-ITEAD's Open Nextion ESP32-S3-based HMI displays combine logic processing, display control, and wireless connectivity into one package. Supported by the ESP-IDF framework and Arduino IDE with LVGL graphics, these HMI displays cater to developers and makers. They come in two variants with 3.5-inch and 2.8-inch screens.
-
-💡 *All-in-one ESP32-S3 HMI displays simplify IoT and GUI development*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/18/review-open-nextion-esp32-s3-based-hmi-displays-with-the-arduino-ide-and-the-esp-idf-framework/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/endgame-whats-it-like-to-build-the-noctua-everything-pc-inside-the-antec-flux-pro-noctua-edition)
 
 ---
 
-### 7. High-end 25MP global shutter camera with 10GbE interface is designed for NVIDIA Holoscan platform 
+### 4. Get 32GB of DDR5 RAM for an effective price of $101 thanks to this Newegg AM5 bundle buy a 9850X3D, premium MSI X870E Max motherboard, and 32GB of V-Color RAM for $1,278.99 
 
-Leopard Imaging's LI-IMX530-10GigE-NL is a high-end 25MP camera designed for NVIDIA Holoscan. It features a 10GbE interface and is suitable for AI applications. The camera utilizes the Sony IMX530 1.2-inch CMOS sensor.
+Get a high-performance AM5 gaming rig with a 3-item Newegg bundle. The bundle includes an AMD 9850X3D processor, MSI X870E Max motherboard, and 32GB of V-Color DDR5 RAM. This combination can be purchased for an effective price of $101.
 
-💡 *Fast data transmission enables real-time AI and ML processing.*
+💡 *Significant savings with bundled components for high-end gaming rigs*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/18/high-end-25mp-global-shutter-camera-with-10gbe-interface-is-designed-for-nvidia-holoscan-platform/)
-
----
-
-### 8. Intel launches Core Ultra 200HX Plus "Arrow Lake Refresh" chips for gaming laptops 
-
-Intel introduces Core Ultra 200HX Plus chips, led by the 9 290HX Plus, offering improved performance in gaming and professional applications.
-
-💡 *Increased single-threaded performance in gaming and professional applications with Intel Core Ultra 200HX Plus.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111717-intel-launches-core-ultra-200hx-plus-arrow-lake.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-ram-for-an-effective-price-of-usd101-thanks-to-this-newegg-am5-bundle-buy-a-9850x3d-premium-msi-x870e-max-motherboard-and-32gb-of-v-color-ram-for-usd1-278-99)
 
 ---
 
-### 9. Nvidia updates data center roadmap with Rosa CPU and stacked Feynman GPUs optical NVLink, Groq LPUs with NVFP4, and NVLink also on deck 
+### 5. Industrial RS-485/Modbus Raspberry Pi HAT works with OpenPLC, supports 7V-32V DC input 
 
-Nvidia has unveiled its 2026-2028 data center roadmap, featuring the Rosa CPU, Feynman GPU, and optical NVLinks, as well as the integration of Groq LPUs with NVFP4 and NVLink. This marks a significant advancement in data center technology, aiming to improve performance and efficiency. The roadmap highlights Nvidia's continued commitment to innovation and leadership in the field.
+EngineElectronicAccessories introduces an Industrial RS485/Modbus HAT for Raspberry Pi, supporting OpenPLC and 7V-32V DC input. The board features an onboard RS-485 transceiver with TVS diode protection and diagnostics LEDs. It accepts 7V to 32V DC input, eliminating the need for a separate power supply.
 
-💡 *Accelerating AI and HPC with next-gen data center hardware advancements*
+💡 *Simplified industrial automation with a single, versatile Raspberry Pi solution.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-updates-data-center-roadmap-with-rosa-cpu-and-stacked-feynman-gpus-optical-nvlink-groq-lpus-with-nvfp4-and-nvlink-also-on-deck)
-
----
-
-### 10. PycoClaw A MicroPython-based OpenClaw implementation for ESP32 and other microcontrollers 
-
-PycoClaw is a MicroPython-based platform for AI agents on ESP32 and other microcontrollers, offering OpenClaw workspace compatibility, improved features, and support for multiple LLM providers.
-
-💡 *Enables OpenClaw-compatible AI on resource-constrained embedded devices with more features.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/18/pycoclaw-a-micropython-based-openclaw-implementation-for-esp32-and-other-microcontrollers/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/19/industrial-rs485-modbus-raspberry-pi-hat-works-with-openplc-supports-7v-32v-dc-input/)
 
 ---
 
-### 11. MSI plans to raise prices by up to 30% amid memory crunch 
+### 6. Grinn GenioSoM-360 MediaTek Genio 360P LGA system-on-module enables Edge AI in space-constrained applications 
 
-MSI plans to raise prices by 15-30% due to memory shortages.
+Grinn GenioSoM-360 is a compact system-on-module that leverages MediaTek's Genio 360P SoC for edge AI in space-constrained applications, featuring up to 8GB RAM, 64GB eMMC flash, and various interfaces.
 
-💡 *Memory scarcity drives price hikes across the PC hardware industry.*
+💡 *Compact AI processing enables edge AI in space-constrained industrial settings.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111720-msi-plans-raise-prices-up-30-amid-memory.html)
-
----
-
-### 12. Nvidia unveils Vera, an 88-core Arm CPU for AI and analytics racks 
-
-Nvidia unveiled Vera, an 88-core Arm CPU for AI and analytics. It focuses on general-purpose workloads with AI-centric applications. Vera is designed for data centers.
-
-💡 *Nvidia's Vera CPU targets broader AI workloads beyond GPU companionship*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111712-nvidia-unveils-vera-88-core-arm-cpu-ai.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/19/grinn-geniosom-360-mediatek-genio-360p-lga-system-on-module-enables-edge-ai-in-space-constrained-applications/)
 
 ---
 
-### 13. User says Apple Watch caused severe wrist burns, case still unresolved six months later 
+### 7. Amazon's Jassy now sees AWS hitting $600 billion a year on AI tailwinds 
 
-A Reddit user reported severe wrist burns from an Apple Watch, describing it as painful and slow to heal. The incident occurred while working on a laptop, causing an extreme surge of heat under the device. The user has been dealing with the issue for six months.
+Amazon's AWS is projected to reach $600 billion annually, driven by AI growth.
 
-💡 *Apple Watch safety concerns may lead to product liability lawsuits.*
+💡 *Amazon now sees AI as a key driver of AWS expansion.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111713-user-apple-watch-caused-severe-wrist-burns-case.html)
-
----
-
-### 14. Noctua's first PC case could be a quieter, fan-packed take on the Antec Flux Pro 
-
-Noctua, an Austrian fan manufacturer, has shared a photo of its upcoming PC case. The case appears to be a quieter, fan-packed take on the Antec Flux Pro. The company provided a few details about its product in its replies to commentators.
-
-💡 *Noctua's first PC case could bring innovative cooling solutions*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111709-noctua-first-pc-case-could-quieter-fan-packed.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111726-amazon-jassy-now-sees-aws-hitting-600-billion.html)
 
 ---
 
-### 15. The PlayStation 5 is powered by a GPU roughly equal to which PC graphics card? 
+### 8. Nvidia will only produce one 88-core Vera CPU model Jensen says the company will make billions of dollars from a single SKU 
 
-The PlayStation 5's GPU is comparable to a high-end PC graphics card. It is considered to be roughly equivalent to a Radeon RX 6800 XT or a GeForce RTX 3070. This comparison is based on performance benchmarks.
+Nvidia will focus on a single Vera CPU model, aiming to generate billions of dollars in revenue. This strategic move emphasizes efficiency and scalability. The company plans to build a multi-billion-dollar CPU business with Vera processors.
 
-💡 *A console's GPU power determines its gaming capabilities and longevity.*
+💡 *Nvidia prioritizes efficiency with a single Vera CPU model SKU.*
 
-🔗 [Read Full Article](https://www.techspot.com/trivia/158-playstation-5-powered-gpu-roughly-equal-which-pc/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/nvidia-will-only-produce-one-88-core-vera-cpu-model-jensen-says-the-company-will-make-billions-of-dollars-from-a-single-sku)
+
+---
+
+### 9. AMD claims it had no knowledge of fake Ryzen 5 7430U CPUs in Chuwi laptops Chinese vendor announces recall of products and refunds, PCB manufacturer could be culprit 
+
+AMD claims no knowledge of mislabeled Ryzen 5 7430U CPUs in Chuwi laptops. The company condemns mislabeling and warns against unauthorized CPU modifications. Chuwi has initiated a recall and refund program for affected products.
+
+💡 *Intellectual property theft and counterfeit products compromise consumer trust and brand integrity*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-claims-it-had-no-knowledge-of-fake-ryzen-5-7430u-cpus-in-chuwi-laptops-chinese-vendor-announces-recall-of-products-and-refunds-pcb-manufacturer-could-be-culprit)
+
+---
+
+### 10. Score a liquid-cooled Asus ROG 4K gaming PC with a 9800X3D and RX 9070 XT for under $1,900 right now powerhouse rig comes equipped with 32GB of DDR5 RAM and a 1TB SSD 
+
+Purchase a high-performance Asus ROG GM700 gaming PC with AMD Ryzen 7 9800X3D CPU, AMD Radeon RX 9070 XT GPU, 32GB DDR5 RAM, and 1TB SSD for $1,899.99.
+
+💡 *Unlock ultra-high-quality gaming at a compelling price point.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/score-a-liquid-cooled-asus-rog-4k-gaming-pc-with-a-9800x3d-and-rx-9070-xt-for-under-usd1-900-right-now-powerhouse-rig-comes-equipped-with-32gb-of-ddr5-ram-and-a-1tb-ssd)
+
+---
+
+### 11. A 1TB MacBook Neo? A modder just made it happen 
+
+A skilled modder successfully upgraded a MacBook to 1TB storage capacity, documenting the process in a detailed video.
+
+💡 *Upgrade feasibility expands storage possibilities in Apple's limited configuration laptops.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111725-1tb-macbook-neo-modder-made-happen.html)
 
 ---
 

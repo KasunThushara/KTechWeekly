@@ -1,215 +1,165 @@
 # 🤖 AI & ML
-**Week of March 18, 2026**
+**Week of March 19, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 20
-- **Report generated:** 2026-03-18 09:37
+- **Articles this week:** 15
+- **Report generated:** 2026-03-19 09:28
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Nvidia launches BlueField-4 STX storage architecture for agentic AI at GTC 2026 ⭐
+### 1. Todd Howard discusses Starfield's next big update and says Elder Scrolls VI is still years away ⭐
 
-Nvidia introduced BlueField-4 STX, a modular reference architecture for accelerated storage aimed at addressing the data access bottleneck in agentic AI inference. This architecture is designed to optimize data access and improve the performance of AI systems. It was announced at GTC 2026 on March 16.
+Bethesda is releasing a large free update and paid DLC for Starfield on April 7. This update will also bring the game to PS5. The move aims to improve the game's performance.
 
-💡 *Accelerating data access boosts agentic AI inference performance significantly.*
+💡 *Bethesda continues to support and improve Starfield after its 2023 launch*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-launches-bluefield-4-stx-storage-architecture-for-agentic-ai)
-
----
-
-### 2. Intel's new Core Ultra 200HX Plus mobile CPUs include 290HX, 270HX Plus flagships 8% faster gaming claims fall short of 15% boost promised by desktop Arrow Lake Refresh 
-
-Intel's new Core Ultra 200HX Plus mobile CPUs have been released, with the 290HX offering an 8% gaming performance boost. The 270HX Plus is a flagship model, but its gaming performance metrics are currently unknown. This lags behind the promised 15% boost from the desktop Arrow Lake Refresh.
-
-💡 *Gap between mobile and desktop CPU performance claims widens.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-launches-core-ultra-200hx-plus-mobile-cpus-including-290hx-plus-and-270hx-plus-flagships-arrow-lake-refresh-is-up-to-8-percent-faster-in-gaming)
+🔗 [Read Full Article](https://www.techspot.com/news/111721-todd-howard-discusses-starfield-next-big-update-elder.html)
 
 ---
 
-### 3. Examining Nvidia's 60 exaflop Vera Rubin POD how seven chips underpin company's 40 rack AI factory supercomputer 
+### 2. Industrial RS-485/Modbus Raspberry Pi HAT works with OpenPLC, supports 7V-32V DC input 
 
-Nvidia announced seven chips for the Vera Rubin platform, set to be shipped in the second half of 2026. This platform will underpin the company's 40-rack AI factory supercomputer, a major breakthrough in AI computing. The Vera Rubin POD is expected to reach 60 exaflops.
+EngineElectronicAccessories introduces an Industrial RS485/Modbus HAT for Raspberry Pi, supporting OpenPLC and 7V-32V DC input. The board features an onboard RS-485 transceiver with TVS diode protection and diagnostics LEDs. It accepts 7V to 32V DC input, eliminating the need for a separate power supply.
 
-💡 *60 exaflop AI supercomputer accelerates artificial intelligence research and innovation*
+💡 *Simplified industrial automation with a single, versatile Raspberry Pi solution.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-seven-chip-vera-rubin-platforms-turns-the-data-center-into-an-ai-factory)
-
----
-
-### 4. Microsoft expects to commercialize MicroLED datacenter cables by late 2027 expands Hollow Core Fiber deployment, promising 47% faster data transmission and approximately 33% lower latency 
-
-Microsoft is developing MOSAIC, a MicroLED technology for datacenter cables. MOSAIC promises 47% faster data transmission and 33% lower latency. It uses MicroLEDs instead of lasers for data transmission.
-
-💡 *Revolutionizing data transmission with faster speeds and lower latency*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/microsoft-expects-to-commercialize-microled-datacenter-cables-by-late-2027)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/19/industrial-rs485-modbus-raspberry-pi-hat-works-with-openplc-supports-7v-32v-dc-input/)
 
 ---
 
-### 5. Airflow enthusiast 3D-prints 15 tiny fans to fit inside a custom, domed Noctua NF-A12x25 frame bizarre 'Fanhattan Project' cools the CPU just as well as a regular fan 
+### 3. Qihoo 360 accidentally exposed a private SSL key, putting its platform at risk 
 
-A YouTuber 3D-printed a custom fan with 15 tiny fans, achieving similar performance to a regular fan.
+Qihoo 360's 360 Security Claw AI assistant installer exposed a private SSL key, putting its platform at risk.
 
-💡 *Unconventional designs can match performance with less noise and bulk.*
+💡 *Exposure of private SSL key can compromise infrastructure security*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/airflow-enthusiast-3d-prints-15-tiny-fans-to-fit-inside-a-custom-domed-noctua-nf-a12x25-frame-bizarre-fanhattan-project-cools-the-cpu-just-as-well-as-a-regular-fan)
-
----
-
-### 6. Jensen Huang says gamers are 'completely wrong' about DLSS 5 Nvidia CEO responds to DLSS 5 backlash 
-
-Nvidia CEO Jensen Huang defends DLSS 5 despite gamer backlash, saying developers maintain artistic control.
-
-💡 *Artistic control remains with developers despite AI-enhanced graphics.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash)
+🔗 [Read Full Article](https://www.techspot.com/news/111722-qihoo-360-accidentally-exposed-private-ssl-key-putting.html)
 
 ---
 
-### 7. Nvidia launches DGX Station with its bleeding-edge GB300 Grace Blackwell Superchip now available to order and will begin shipping in the coming months 
+### 4. Amazon's Jassy now sees AWS hitting $600 billion a year on AI tailwinds 
 
-Nvidia launches DGX Station with the GB300 Grace Blackwell Superchip, offering 784GB of memory and a 1,600-watt power rating. This high-performance system is now available to order and will begin shipping in the coming months.
+Amazon's AWS is projected to reach $600 billion annually, driven by AI growth.
 
-💡 *Game-changing AI and HPC capabilities for enterprise customers*
+💡 *Amazon now sees AI as a key driver of AWS expansion.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-dgx-station-with-its-bleeding-edge-gb300-grace-blackwell-superchip-now-available-to-order-and-will-begin-shipping-in-the-coming-months)
-
----
-
-### 8. We got a first look at Nvidia's DLSS 5 and the future of neural rendering at GTC the results can be impressive, but there's work to do 
-
-Nvidia's DLSS 5 uses AI to enhance game visuals with detailed lighting interactions, producing impressive yet uncanny results.
-
-💡 *Realistic game lighting improves immersion and authenticity in gaming experiences*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/we-got-a-first-look-at-nvidias-dlss-5-and-the-future-of-neural-rendering-at-gtc-the-results-can-be-impressive-but-theres-work-to-do)
+🔗 [Read Full Article](https://www.techspot.com/news/111726-amazon-jassy-now-sees-aws-hitting-600-billion.html)
 
 ---
 
-### 9. South Korean company following ChatGPT management advice forced to backtrack by court Krafton improperly ousted Subnautica developer bosses to dodge $250m bonus payout 
+### 5. Meta is quietly backing away from the metaverse as it pivots to AI 
 
-A South Korean gaming company was forced to backtrack after a court ruled that it improperly ousted the bosses of a developer to avoid a $250m bonus payment.
+Meta is shifting focus from the metaverse to AI by limiting its VR world to mobile-only experience.
 
-💡 *AI-driven management decisions can have unintended legal consequences.*
+💡 *Meta's pivot away from the metaverse signals AI-focused future priorities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/south-korean-company-following-chatgpt-management-advice-forced-to-backtrack-by-court-krafton-improperly-ousted-subnautica-developer-bosses-to-dodge-usd250m-bonus-payout)
-
----
-
-### 10. Global chip supply chain under threat as US-Iran conflict enters third week Strait of Hormuz blockade is days away from crippling Taiwan's semiconductor industry 
-
-The US-Iran conflict threatens Taiwan's chip industry due to helium and LNG imports being disrupted. This is because Taiwan relies heavily on external supplies for both energy and essential materials. The resulting semiconductor shortage could have far-reaching global consequences.
-
-💡 *Disrupted imports imperil global chip supply chain resilience*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/global-chip-supply-chain-under-threat-as-us-iran-conflict-enters-third-week-strait-of-hormuz-blockade-is-days-away-from-crippling-taiwans-semiconductor-industry)
+🔗 [Read Full Article](https://www.techspot.com/news/111731-meta-end-horizon-worlds-vr-access-june-metaverse.html)
 
 ---
 
-### 11. Nvidia demonstrates Rubin Ultra tray, the world's first AI GPU with 1TB of HBM4E memory new chips will slot into Kyber racks 
+### 6. Nvidia will only produce one 88-core Vera CPU model Jensen says the company will make billions of dollars from a single SKU 
 
-Nvidia demonstrates the Rubin Ultra GPU with 1TB HBM4E memory, integrated into Kyber racks.
+Nvidia will focus on a single Vera CPU model, aiming to generate billions of dollars in revenue. This strategic move emphasizes efficiency and scalability. The company plans to build a multi-billion-dollar CPU business with Vera processors.
 
-💡 *Advances in AI computing with massive memory and compute integration.*
+💡 *Nvidia prioritizes efficiency with a single Vera CPU model SKU.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-demonstrates-rubin-ultra-tray-worlds-1st-ai-gpu-with-1tb-of-hbm4e)
-
----
-
-### 12. PycoClaw A MicroPython-based OpenClaw implementation for ESP32 and other microcontrollers 
-
-PycoClaw is a MicroPython-based platform for AI agents on ESP32 and other microcontrollers, offering OpenClaw workspace compatibility, improved features, and support for multiple LLM providers.
-
-💡 *Enables OpenClaw-compatible AI on resource-constrained embedded devices with more features.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/18/pycoclaw-a-micropython-based-openclaw-implementation-for-esp32-and-other-microcontrollers/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/nvidia-will-only-produce-one-88-core-vera-cpu-model-jensen-says-the-company-will-make-billions-of-dollars-from-a-single-sku)
 
 ---
 
-### 13. MSI plans to raise prices by up to 30% amid memory crunch 
+### 7. AMD claims it had no knowledge of fake Ryzen 5 7430U CPUs in Chuwi laptops Chinese vendor announces recall of products and refunds, PCB manufacturer could be culprit 
 
-MSI plans to raise prices by 15-30% due to memory shortages.
+AMD claims no knowledge of mislabeled Ryzen 5 7430U CPUs in Chuwi laptops. The company condemns mislabeling and warns against unauthorized CPU modifications. Chuwi has initiated a recall and refund program for affected products.
 
-💡 *Memory scarcity drives price hikes across the PC hardware industry.*
+💡 *Intellectual property theft and counterfeit products compromise consumer trust and brand integrity*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111720-msi-plans-raise-prices-up-30-amid-memory.html)
-
----
-
-### 14. Startup proposes USB drives as a modern replacement for DVDs and Blu-rays 
-
-Video StoreAge proposes using encrypted USB drives as a modern replacement for DVDs and Blu-rays, taking a more authorial approach to indie film distribution and disrupting algorithm-driven models.
-
-💡 *Human connection and community replace algorithm-driven film distribution methods.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111708-startup-proposes-usb-drives-modern-replacement-dvds-blu.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-claims-it-had-no-knowledge-of-fake-ryzen-5-7430u-cpus-in-chuwi-laptops-chinese-vendor-announces-recall-of-products-and-refunds-pcb-manufacturer-could-be-culprit)
 
 ---
 
-### 15. Jensen Huang predicts Nvidia AI chip revenue will hit $1 trillion by 2027 
+### 8. SK Group chairman says memory chip shortage will last until 2030 wafer supply trails demand by 20% 
 
-Nvidia CEO Jensen Huang predicts $1 trillion AI chip revenue by 2027, marking a new stage in the AI boom where systems are designed for massive scale inference.
+SK Group chairman predicts memory chip shortage to last until 2030. Chey Tae-won stated that the global shortage will persist for another four to five years due to insufficient wafer supply. This trails demand by 20%.
 
-💡 *AI chip revenue could surpass $1 trillion by 2027.*
+💡 *Memory chip shortage may hinder technological advancements and innovation sustainably*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111714-jensen-huang-predicts-nvidia-ai-chip-revenue-hit.html)
-
----
-
-### 16. User says Apple Watch caused severe wrist burns, case still unresolved six months later 
-
-A Reddit user reported severe wrist burns from an Apple Watch, describing it as painful and slow to heal. The incident occurred while working on a laptop, causing an extreme surge of heat under the device. The user has been dealing with the issue for six months.
-
-💡 *Apple Watch safety concerns may lead to product liability lawsuits.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111713-user-apple-watch-caused-severe-wrist-burns-case.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-group-chairman-says-memory-chip-shortage-will-last-until-2030)
 
 ---
 
-### 17. Noctua's first PC case could be a quieter, fan-packed take on the Antec Flux Pro 
+### 9. Bitcoin is so resilient it could survive as much as 90% of the world's undersea cables failing simultaneously study reveals Bitcoin could still be very vulnerable to targeted attacks, however 
 
-Noctua, an Austrian fan manufacturer, has shared a photo of its upcoming PC case. The case appears to be a quieter, fan-packed take on the Antec Flux Pro. The company provided a few details about its product in its replies to commentators.
+A study by Cambridge scientists found Bitcoin resilient to 90% undersea cable failure, but vulnerable to targeted attacks.
 
-💡 *Noctua's first PC case could bring innovative cooling solutions*
+💡 *Bitcoin's resilience masks vulnerability to targeted attacks and strategic disruption.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111709-noctua-first-pc-case-could-quieter-fan-packed.html)
-
----
-
-### 18. A London judge says a witness was being coached in real time through smart glasses 
-
-A London judge accused a witness of being coached in real-time through smart glasses during a court case. The case involved a dispute over ownership and control of Oneta Limited. A Lithuanian firm and its representative were seeking a declaration and register rectification.
-
-💡 *Real-time coaching via smart glasses undermines court integrity and fairness*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111710-london-judge-witness-coached-real-time-through-smart.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-is-so-resilient-it-could-survive-as-much-as-90-percent-of-the-worlds-undersea-cables-failing-simultaneously-study-reveals-bitcoin-could-still-be-very-vulnerable-to-targeted-attacks-however)
 
 ---
 
-### 19. Data centers are turning to $200,000 robot dogs to guard the facilities 
+### 10. Death Stranding 2 leaks early as unencrypted Steam build spreads online 
 
-Data centers are using expensive robot dogs for security patrols. Robot interest surged in the past year, driven by growing security needs. These robots can monitor facilities 24/7.
+Death Stranding 2 leaked early as unencrypted Steam build spread online. The leak mirrors a similar trend from the late 1990s when games were pirated before retail release. The leaked build showcases the game's system requirements.
 
-💡 *Increased security demands drive adoption of autonomous robot guarding solutions.*
+💡 *Early game leaks compromise developer's control and revenue*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111711-data-centers-turning-200000-robot-dogs-guard-facilities.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111735-death-stranding-2-pc-gets-leaked-ahead-official.html)
 
 ---
 
-### 20. Nvidia removes Rubin CPX accelerators from its roadmap Groq 3 LPUs take center stage as CPX is removed 
+### 11. A number of US cities are pulling the plug on Flock Safety's AI cameras 
 
-Nvidia has removed Rubin CPX accelerators from its roadmap, focusing on Groq 3 LPUs instead. The absence of CPX from Nvidia's GTC slides suggests a shift in priorities. This change may impact the field of AI acceleration.
+Several US cities are halting use of Flock Safety's AI-powered surveillance systems due to privacy concerns.
 
-💡 *Nvidia prioritizes Groq LPUs over Rubin CPX accelerators now.*
+💡 *Concerns about mass surveillance and data misuse are growing in the US.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-removes-rubin-cpx-accelerators-from-its-roadmap-groq-3-lpus-take-center-stage-as-cpx-is-removed)
+🔗 [Read Full Article](https://www.techspot.com/news/111728-number-us-cities-pulling-plug-flock-safety-ai.html)
+
+---
+
+### 12. Gamer recycles VR roller coaster into fully motion-enabled Elite Dangerous cockpit 
+
+A streamer turned a childhood dream into a reality by creating a custom Elite Dangerous cockpit that responds to movement feedback from simulation games, using repurposed used machinery.
+
+💡 *Immersive gaming experiences can be created with DIY, sustainable projects.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111724-gamer-recycles-vr-roller-coaster-fully-motion-enabled.html)
+
+---
+
+### 13. Man says wife stole $172 million in Bitcoin after hidden CCTV cameras captured wallet password 
+
+A man claims his wife stole $172 million in Bitcoin after discovering hidden CCTV cameras at their home recorded his wallet password. The incident allegedly occurred in August 2023. The case is now in High Court.
+
+💡 *Trust issues can lead to major financial losses and marital disputes.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111729-man-wife-stole-172-million-bitcoin-after-hidden.html)
+
+---
+
+### 14. A 1TB MacBook Neo? A modder just made it happen 
+
+A skilled modder successfully upgraded a MacBook to 1TB storage capacity, documenting the process in a detailed video.
+
+💡 *Upgrade feasibility expands storage possibilities in Apple's limited configuration laptops.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111725-1tb-macbook-neo-modder-made-happen.html)
+
+---
+
+### 15. Nvidia CEO Jensen Huang says gamers calling DLSS 5 AI slop are "completely wrong" 
+
+Nvidia's DLSS 5 technology has faced criticism for its AI-generated appearance. Gamers are unhappy with the uncanny valley effect in certain games. Nvidia's CEO disputes the criticism.
+
+💡 *Perceived AI quality affects game immersion and player experience greatly*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111727-nvidia-ceo-jensen-huang-gamers-calling-dlss-5.html)
 
 ---
 

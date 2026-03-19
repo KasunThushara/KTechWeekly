@@ -1,105 +1,115 @@
 # 📰 Tech News
-**Week of March 18, 2026**
+**Week of March 19, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-03-18 09:37
+- **Articles this week:** 10
+- **Report generated:** 2026-03-19 09:28
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Nvidia launches BlueField-4 STX storage architecture for agentic AI at GTC 2026 ⭐
+### 1. Todd Howard discusses Starfield's next big update and says Elder Scrolls VI is still years away ⭐
 
-Nvidia introduced BlueField-4 STX, a modular reference architecture for accelerated storage aimed at addressing the data access bottleneck in agentic AI inference. This architecture is designed to optimize data access and improve the performance of AI systems. It was announced at GTC 2026 on March 16.
+Bethesda is releasing a large free update and paid DLC for Starfield on April 7. This update will also bring the game to PS5. The move aims to improve the game's performance.
 
-💡 *Accelerating data access boosts agentic AI inference performance significantly.*
+💡 *Bethesda continues to support and improve Starfield after its 2023 launch*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-launches-bluefield-4-stx-storage-architecture-for-agentic-ai)
-
----
-
-### 2. Nintendo Switch 2 update brings Handheld Mode Boost unlocks higher resolutions and TV-mode performance for original Switch games 
-
-The Nintendo Switch 2's Handheld Mode Boost feature enhances original Switch games with improved visuals and performance, similar to docked mode, even when playing in handheld mode.
-
-💡 *Upgrade for original Switch games without need for re-releases.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-update-brings-handheld-mode-boost-unlocks-higher-resolutions-and-tv-mode-performance-for-original-switch-games)
+🔗 [Read Full Article](https://www.techspot.com/news/111721-todd-howard-discusses-starfield-next-big-update-elder.html)
 
 ---
 
-### 3. Enthusiast reverse engineers world s smallest HDD to access data with help from an old Nokia N91 and OpenClaw open source USB bridge unlocks 0.85-inch mechanical Toshiba drive from 2004 
+### 2. Endgame: What s it Like to build the Noctua-everything PC inside the Antec Flux Pro Noctua-Edition 
 
-Maker Will Whang reverse engineers world's smallest HDD using an OpenClaw open source USB bridge, unlocking a 0.85-inch mechanical Toshiba drive from 2004, with the help of an old Nokia N91.
+The Antec Flux Pro Noctua-Edition case allows for a 100% Noctua PC build with off-the-shelf components. This collaboration provides a unique opportunity to explore the feasibility of all-Noctua systems. A PC with Noctua components might offer a distinct performance profile.
 
-💡 *Preserving vintage technology expands access to historical data and innovation.*
+💡 *All-Noctua system's thermal performance could potentially outshine competition.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-hdds/enthusiast-reverse-engineers-worlds-smallest-hdd-to-access-data-with-help-from-an-old-nokia-n91-and-openclaw-open-source-usb-bridge-unlocks-0-85-inch-mechanical-toshiba-from-2004)
-
----
-
-### 4. Review of Open Nextion ESP32-S3-based HMI displays with the Arduino IDE and the ESP-IDF framework 
-
-ITEAD's Open Nextion ESP32-S3-based HMI displays combine logic processing, display control, and wireless connectivity into one package. Supported by the ESP-IDF framework and Arduino IDE with LVGL graphics, these HMI displays cater to developers and makers. They come in two variants with 3.5-inch and 2.8-inch screens.
-
-💡 *All-in-one ESP32-S3 HMI displays simplify IoT and GUI development*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/18/review-open-nextion-esp32-s3-based-hmi-displays-with-the-arduino-ide-and-the-esp-idf-framework/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/endgame-whats-it-like-to-build-the-noctua-everything-pc-inside-the-antec-flux-pro-noctua-edition)
 
 ---
 
-### 5. Nvidia launches DGX Station with its bleeding-edge GB300 Grace Blackwell Superchip now available to order and will begin shipping in the coming months 
+### 3. Crimson Desert Benchmark: 40 GPUs Tested 
 
-Nvidia launches DGX Station with the GB300 Grace Blackwell Superchip, offering 784GB of memory and a 1,600-watt power rating. This high-performance system is now available to order and will begin shipping in the coming months.
+We tested Crimson Desert on 40 GPUs to evaluate performance at 1080p, 1440p, and 4K.
 
-💡 *Game-changing AI and HPC capabilities for enterprise customers*
+💡 *Crimson Desert shows impressive optimization for modern gaming hardware setups.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-dgx-station-with-its-bleeding-edge-gb300-grace-blackwell-superchip-now-available-to-order-and-will-begin-shipping-in-the-coming-months)
-
----
-
-### 6. End of an era for decades-old PlayStation 3, Xbox 360, and Nintendo Wii U as GameStop officially declares them retro change means faulty or 'aesthetically unfortunate' consoles that can still power on are now accepted for trade-in 
-
-GameStop declares PlayStation 3, Xbox 360, and Wii U retro consoles, accepting trade-ins of any console that powers on, even if faulty or aesthetically unappealing.
-
-💡 *Gamers can now trade in damaged consoles for store credit.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/end-of-an-era-for-decades-old-playstation-3-xbox-360-and-nintendo-wii-u-as-gamestop-officially-declares-them-retro-change-means-faulty-or-aesthetically-unfortunate-consoles-that-can-still-power-on-are-now-accepted-for-trade-in)
+🔗 [Read Full Article](https://www.techspot.com/article/3104-crimson-desert-benchmark/)
 
 ---
 
-### 7. Samsung's Galaxy Z TriFold was a hit with buyers, but it's still shutting down after three months 
+### 4. Sony releases new PlayStation 3 update nearly 20 years after launch 
 
-Samsung's Galaxy Z TriFold sold out quickly despite shutting down after three months. Limited production and tight control were key components of its initial strategy. Buyers were drawn to the experimental nature of the product.
+Sony has released a new PlayStation 3 update, 4.93, a year after 4.92. The update claims to improve system performance. Patch notes remain vague.
 
-💡 *Limited production created hype, masking potential post-release issues.*
+💡 *Sony continues to provide updates for decade-old console, despite its decline.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111718-samsung-galaxy-z-trifold-hit-buyers-but-shutting.html)
-
----
-
-### 8. Startup proposes USB drives as a modern replacement for DVDs and Blu-rays 
-
-Video StoreAge proposes using encrypted USB drives as a modern replacement for DVDs and Blu-rays, taking a more authorial approach to indie film distribution and disrupting algorithm-driven models.
-
-💡 *Human connection and community replace algorithm-driven film distribution methods.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111708-startup-proposes-usb-drives-modern-replacement-dvds-blu.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111732-sony-releases-new-playstation-3-update-nearly-20.html)
 
 ---
 
-### 9. Amazon adds 1-hour and 3-hour delivery options, but convenience comes at a premium 
+### 5. Meta is quietly backing away from the metaverse as it pivots to AI 
 
-Amazon introduces 1-hour and 3-hour delivery options in major and smaller cities.
+Meta is shifting focus from the metaverse to AI by limiting its VR world to mobile-only experience.
 
-💡 *Convenience comes with a higher price tag for Amazon customers.*
+💡 *Meta's pivot away from the metaverse signals AI-focused future priorities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111716-amazon-adds-1-hour-3-hour-delivery-but.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111731-meta-end-horizon-worlds-vr-access-june-metaverse.html)
+
+---
+
+### 6. Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts and a 3D printer DIY MANPADS includes assisted targeting, ballistics calculations, optional camera for tracking 
+
+A tech hobbyist created a shoulder-mounted guided missile prototype using $96 worth of parts and a 3D printer, featuring assisted targeting and ballistics calculations, with an optional camera for tracking.
+
+💡 *Affordable DIY MANPADS technology raises concerns for global security and defense*
+
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking)
+
+---
+
+### 7. Flexible sensors tested in bedsheets to lessen patient ulcers 
+
+Georgia Tech researchers have developed flexible sensors embedded in bedsheets to track pressure points and prevent pressure ulcers in patients. These sensors are connected to a single cable, allowing for real-time data analysis. This innovation aims to reduce the risk of pressure ulcers in hospitals.
+
+💡 *Early detection and prevention of pressure ulcers can save lives.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/flexible-sensors-tested-bedsheets-lessen-patient-ulcers)
+
+---
+
+### 8. Popular Chrome extension "Save Image as Type" was hijacked, impacting over 1 million users 
+
+A popular Chrome extension 'Save Image as Type' was hijacked, impacting over 1 million users. Google delisted the extension earlier this month. The group behind the compromise has been linked to other hijacked Chrome and Edge extensions.
+
+💡 *Malicious extensions can compromise millions of users' browser security*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111737-popular-chrome-extension-save-image-type-hijacked-impacting.html)
+
+---
+
+### 9. Death Stranding 2 leaks early as unencrypted Steam build spreads online 
+
+Death Stranding 2 leaked early as unencrypted Steam build spread online. The leak mirrors a similar trend from the late 1990s when games were pirated before retail release. The leaked build showcases the game's system requirements.
+
+💡 *Early game leaks compromise developer's control and revenue*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111735-death-stranding-2-pc-gets-leaked-ahead-official.html)
+
+---
+
+### 10. Tim Cook shuts down speculation about his retirement: "That's a rumor" 
+
+Tim Cook has shut down speculation about his retirement, denying any plans.
+
+💡 *Leadership stability crucial for Apple's future strategic decisions and growth.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111723-tim-cook-shuts-down-speculation-about-retirement-rumor.html)
 
 ---
 
