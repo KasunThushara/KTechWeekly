@@ -1,165 +1,155 @@
 # 🤖 AI & ML
-**Week of March 19, 2026**
+**Week of March 20, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 15
-- **Report generated:** 2026-03-19 09:28
+- **Articles this week:** 14
+- **Report generated:** 2026-03-20 09:25
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Todd Howard discusses Starfield's next big update and says Elder Scrolls VI is still years away ⭐
+### 1. u-blox JODY-W6 NXP IW623/AW693 tri-band Wi-Fi 6E and Bluetooth 5.4 LE audio modules 
 
-Bethesda is releasing a large free update and paid DLC for Starfield on April 7. This update will also bring the game to PS5. The move aims to improve the game's performance.
+u-blox JODY-W6 modules offer tri-band Wi-Fi 6E and Bluetooth 5.4 in a single package, targeting high-throughput and secure connectivity use cases in industries such as industrial automation, healthcare, and automotive.
 
-💡 *Bethesda continues to support and improve Starfield after its 2023 launch*
+💡 *Enhanced wireless connectivity for demanding industrial and automotive applications*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111721-todd-howard-discusses-starfield-next-big-update-elder.html)
-
----
-
-### 2. Industrial RS-485/Modbus Raspberry Pi HAT works with OpenPLC, supports 7V-32V DC input 
-
-EngineElectronicAccessories introduces an Industrial RS485/Modbus HAT for Raspberry Pi, supporting OpenPLC and 7V-32V DC input. The board features an onboard RS-485 transceiver with TVS diode protection and diagnostics LEDs. It accepts 7V to 32V DC input, eliminating the need for a separate power supply.
-
-💡 *Simplified industrial automation with a single, versatile Raspberry Pi solution.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/19/industrial-rs485-modbus-raspberry-pi-hat-works-with-openplc-supports-7v-32v-dc-input/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/20/u-blox-jody-w6-nxp-iw623-aw693-tri-band-wi-fi-6e-and-bluetooth-5-4-le-audio-modules/)
 
 ---
 
-### 3. Qihoo 360 accidentally exposed a private SSL key, putting its platform at risk 
+### 2. This indie game idea went viral then AI-built clones showed up within hours 
 
-Qihoo 360's 360 Security Claw AI assistant installer exposed a private SSL key, putting its platform at risk.
+Game developer Freya Holm's side project, a Tetris prototype with rotating playfield, gained viral attention. However, AI-built clones of the game popped up shortly after. The sudden appearance of clones raised questions about copyright and AI-generated content.
 
-💡 *Exposure of private SSL key can compromise infrastructure security*
+💡 *AI-generated clones blur lines between originality and intellectual property.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111722-qihoo-360-accidentally-exposed-private-ssl-key-putting.html)
-
----
-
-### 4. Amazon's Jassy now sees AWS hitting $600 billion a year on AI tailwinds 
-
-Amazon's AWS is projected to reach $600 billion annually, driven by AI growth.
-
-💡 *Amazon now sees AI as a key driver of AWS expansion.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111726-amazon-jassy-now-sees-aws-hitting-600-billion.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111742-indie-game-idea-went-viral-ai-built-clones.html)
 
 ---
 
-### 5. Meta is quietly backing away from the metaverse as it pivots to AI 
+### 3. Crimson Desert reviews fail to meet the hype as Pearl Abyss shares tumble 29% 
 
-Meta is shifting focus from the metaverse to AI by limiting its VR world to mobile-only experience.
+Crimson Desert reviews fail to meet expectations, leading to a decline in Pearl Abyss' stock. The game's features, including its open world and BlackSpace engine, were highly anticipated but did not translate to commercial success. The game's performance has significant implications for Pearl Abyss.
 
-💡 *Meta's pivot away from the metaverse signals AI-focused future priorities.*
+💡 *Disappointing game reviews hurt game developer's stock value significantly*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111731-meta-end-horizon-worlds-vr-access-june-metaverse.html)
-
----
-
-### 6. Nvidia will only produce one 88-core Vera CPU model Jensen says the company will make billions of dollars from a single SKU 
-
-Nvidia will focus on a single Vera CPU model, aiming to generate billions of dollars in revenue. This strategic move emphasizes efficiency and scalability. The company plans to build a multi-billion-dollar CPU business with Vera processors.
-
-💡 *Nvidia prioritizes efficiency with a single Vera CPU model SKU.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/nvidia-will-only-produce-one-88-core-vera-cpu-model-jensen-says-the-company-will-make-billions-of-dollars-from-a-single-sku)
+🔗 [Read Full Article](https://www.techspot.com/news/111745-crimson-desert-reviews-fail-meet-hype-pearl-abyss.html)
 
 ---
 
-### 7. AMD claims it had no knowledge of fake Ryzen 5 7430U CPUs in Chuwi laptops Chinese vendor announces recall of products and refunds, PCB manufacturer could be culprit 
+### 4. Corsair's new 3200D mid-tower case redefines airflow and component compatibility the case perfectly pairs with rear-connector motherboards 
 
-AMD claims no knowledge of mislabeled Ryzen 5 7430U CPUs in Chuwi laptops. The company condemns mislabeling and warns against unauthorized CPU modifications. Chuwi has initiated a recall and refund program for affected products.
+Corsair's new 3200D mid-tower case features improved airflow and broader compatibility.
 
-💡 *Intellectual property theft and counterfeit products compromise consumer trust and brand integrity*
+💡 *Enhanced airflow and compatibility for improved PC performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-claims-it-had-no-knowledge-of-fake-ryzen-5-7430u-cpus-in-chuwi-laptops-chinese-vendor-announces-recall-of-products-and-refunds-pcb-manufacturer-could-be-culprit)
-
----
-
-### 8. SK Group chairman says memory chip shortage will last until 2030 wafer supply trails demand by 20% 
-
-SK Group chairman predicts memory chip shortage to last until 2030. Chey Tae-won stated that the global shortage will persist for another four to five years due to insufficient wafer supply. This trails demand by 20%.
-
-💡 *Memory chip shortage may hinder technological advancements and innovation sustainably*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-group-chairman-says-memory-chip-shortage-will-last-until-2030)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/corsairs-new-3200d-mid-tower-case-redefines-airflow-and-component-compatibility-the-case-perfectly-pairs-with-rear-connector-motherboards)
 
 ---
 
-### 9. Bitcoin is so resilient it could survive as much as 90% of the world's undersea cables failing simultaneously study reveals Bitcoin could still be very vulnerable to targeted attacks, however 
+### 5. Walmart flooded with RTX 40-series GPUs as 50-series remains out of reach for most gamers retailer slashes up to $480 off last-gen GPUs to offer sensible prices 
 
-A study by Cambridge scientists found Bitcoin resilient to 90% undersea cable failure, but vulnerable to targeted attacks.
+Walmart is stocking up on Nvidia's GeForce RTX 40-series GPUs due to an AI-driven memory shortage, making last-gen GPUs more affordable by slashing prices up to $480.
 
-💡 *Bitcoin's resilience masks vulnerability to targeted attacks and strategic disruption.*
+💡 *Last-gen GPUs become affordable options due to RTX 40-series shortage.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-is-so-resilient-it-could-survive-as-much-as-90-percent-of-the-worlds-undersea-cables-failing-simultaneously-study-reveals-bitcoin-could-still-be-very-vulnerable-to-targeted-attacks-however)
-
----
-
-### 10. Death Stranding 2 leaks early as unencrypted Steam build spreads online 
-
-Death Stranding 2 leaked early as unencrypted Steam build spread online. The leak mirrors a similar trend from the late 1990s when games were pirated before retail release. The leaked build showcases the game's system requirements.
-
-💡 *Early game leaks compromise developer's control and revenue*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111735-death-stranding-2-pc-gets-leaked-ahead-official.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/walmart-flooded-with-rtx-40-series-gpus-as-50-series-remains-out-of-reach-for-most-gamers-retailer-slashes-up-to-usd480-off-last-gen-gpus-to-offer-sensible-prices)
 
 ---
 
-### 11. A number of US cities are pulling the plug on Flock Safety's AI cameras 
+### 6. US trade deficit hits a record $1.2 trillion as AI hardware imports surge under the Trump administration massive demand for chips from Asia outpaces domestic production, fueling a 60% increase in imports in 12 months 
 
-Several US cities are halting use of Flock Safety's AI-powered surveillance systems due to privacy concerns.
+The US trade deficit hit a record $1.2 trillion in 2025, driven by a 60% increase in AI-related imports, mostly from Asia, outpacing domestic production in the computing and electronics sector. This surge in imports follows efforts from the Trump administration to reduce the trade gap. The significant increase in AI hardware imports has fueled the record trade deficit.
 
-💡 *Concerns about mass surveillance and data misuse are growing in the US.*
+💡 *Rapid AI demand exposes US weakness in chip production capacity*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111728-number-us-cities-pulling-plug-flock-safety-ai.html)
-
----
-
-### 12. Gamer recycles VR roller coaster into fully motion-enabled Elite Dangerous cockpit 
-
-A streamer turned a childhood dream into a reality by creating a custom Elite Dangerous cockpit that responds to movement feedback from simulation games, using repurposed used machinery.
-
-💡 *Immersive gaming experiences can be created with DIY, sustainable projects.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111724-gamer-recycles-vr-roller-coaster-fully-motion-enabled.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/manufacturing/us-trade-deficit-hits-a-record-usd1-2-trillion-as-ai-hardware-imports-surge-under-the-trump-administration-massive-demand-for-chips-from-asia-outpaces-domestic-production-fueling-a-60-percent-increase-in-imports-in-12-months)
 
 ---
 
-### 13. Man says wife stole $172 million in Bitcoin after hidden CCTV cameras captured wallet password 
+### 7. Thermalright's impressive AIO cooler lets you add a panoramic screen to your PC for just $165 bag a 20% saving on the Wonder Vision 360 and treat your CPU 
 
-A man claims his wife stole $172 million in Bitcoin after discovering hidden CCTV cameras at their home recorded his wallet password. The incident allegedly occurred in August 2023. The case is now in High Court.
+Thermalright's Wonder Vision 360 AIO cooler integrates a panoramic AMOLED display for a unique PC experience. It offers a 20% discount, making it more affordable at $165. This cooler effectively cools your CPU while adding a visual touch.
 
-💡 *Trust issues can lead to major financial losses and marital disputes.*
+💡 *Blends functionality and aesthetics for an enhanced PC experience.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111729-man-wife-stole-172-million-bitcoin-after-hidden.html)
-
----
-
-### 14. A 1TB MacBook Neo? A modder just made it happen 
-
-A skilled modder successfully upgraded a MacBook to 1TB storage capacity, documenting the process in a detailed video.
-
-💡 *Upgrade feasibility expands storage possibilities in Apple's limited configuration laptops.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111725-1tb-macbook-neo-modder-made-happen.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/thermalrights-impressive-aio-cooler-lets-you-add-a-panoramic-screen-to-your-pc-for-just-usd165-bag-a-20-percent-saving-on-the-wonder-vision-360-and-treat-your-cpu)
 
 ---
 
-### 15. Nvidia CEO Jensen Huang says gamers calling DLSS 5 AI slop are "completely wrong" 
+### 8. Kioxia announces new Super High IOPS SSD that helps accelerate AI workloads on Nvidia GPUs 25.6TB drive provides more GPU-accessible memory for faster data access 
 
-Nvidia's DLSS 5 technology has faced criticism for its AI-generated appearance. Gamers are unhappy with the uncanny valley effect in certain games. Nvidia's CEO disputes the criticism.
+Kioxia introduces a new AI SSD with XL-Flash technology, delivering over 10 million IOPS. This high-performance drive is designed as a secondary cache for Nvidia AI GPUs. It provides more GPU-accessible memory for faster data access.
 
-💡 *Perceived AI quality affects game immersion and player experience greatly*
+💡 *Accelerates AI workloads with faster, more efficient data access.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111727-nvidia-ceo-jensen-huang-gamers-calling-dlss-5.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/kioxia-announces-new-super-high-iops-ssd-that-helps-accelerate-ai-workloads-on-nvidia-gpus-25-6tb-drive-provides-more-gpu-accessible-memory-for-faster-data-access)
+
+---
+
+### 9. 16TB M.2 SSD hits retail if you re ready to drop $16,000 for the ultimate storage upgrade price tag explodes 4X in just four months 
+
+The Exascend PE4 16TB M.2 SSD is now available on Amazon for $15,935, a drastic price increase from its initial cost.
+
+💡 *Massive storage capacity comes at a prohibitively expensive price point suddenly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/16tb-m-2-ssd-hits-retail-if-youre-ready-to-drop-usd16-000-for-the-ultimate-storage-upgrade-price-tag-explodes-4x-in-just-four-months)
+
+---
+
+### 10. Scientists can now build a cyborg cockroach that can pull miniature rigs through pipelines to find leaks 
+
+Scientists have developed a cyborg cockroach to detect pipeline leaks remotely.
+
+💡 *Enhanced pipeline leak detection increases energy efficiency and safety.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111750-scientists-can-now-build-cyborg-cockroach-can-pull.html)
+
+---
+
+### 11. PlayStation 6 and Next Xbox still expected in 2027 despite memory crisis 
+
+PlayStation 6 and Next Xbox reportedly on track for 2027 launch, despite RAM shortage.
+
+💡 *Console manufacturers might prioritize development over current memory constraints.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111753-playstation-6-next-gen-xbox-expected-late-2027.html)
+
+---
+
+### 12. SK Hynix boss says the memory chip shortage is going to last until 2030 
+
+The memory chip shortage is expected to last until 2030 due to ongoing supply chain issues. SK Hynix, the world's third-largest semiconductor manufacturer, is owned by SK Group. The shortage is attributed to issues in the memory and silicon supply chain.
+
+💡 *Global tech industry faces years of disrupted semiconductor supply.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111751-memory-chip-shortage-going-last-until-2030-sk.html)
+
+---
+
+### 13. Val Kilmer will appear in a new movie as an AI recreation approved by his family 
+
+Val Kilmer will star in a new movie using AI recreation, which has been approved by his family. This comes after he was initially cast in 'As Deep as the Grave' in 2020 but couldn't participate due to throat cancer.
+
+💡 *Groundbreaking AI recreation technology brings back beloved actors in new roles*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111748-val-kilmer-appear-new-movie-ai-recreation-approved.html)
+
+---
+
+### 14. Scientists build first working quantum battery prototype, uses lasers to charge in femtoseconds 
+
+Scientists have developed a working quantum battery prototype using lasers, marking a significant breakthrough in harnessing quantum mechanics for energy storage.
+
+💡 *Game-changing technology for ultra-efficient, high-capacity energy storage and release.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111741-scientists-build-first-quantum-battery-charges-femtoseconds.html)
 
 ---
 

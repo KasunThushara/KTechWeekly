@@ -1,311 +1,395 @@
 [
   {
-    "title": "Testing CPU scaling in Crimson Desert X3D wins, but not by much, and Raptor Lake shines",
-    "summary": "We tested 20 CPUs in Crimson Desert to see how performance holds up with various gaming processors. The results are positive, showcasing Pearl Abyss unique BlackSpace engine that s been in development for years.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/testing-cpu-scaling-in-crimson-desert-x3d-wins-but-not-by-much-and-raptor-lake-shines",
+    "title": "Arctic's $1,400 AMD Strix Point fanless mini-PC hides under your desk Senza AI 370 features Ryzen AI 9 HX 370 CPU, 32GB RAM, and 1TB SSD",
+    "summary": "If you've been looking for a mini PC that goes beyond just decluttering your desk one that basically doesn't even remind you of its existence, then Arctic has got just the thing for you. The new Senza AI 370 features a powerful AMD chip with a decent iGPU, 32 GB of fast RAM, a 1 TB SSD, and plenty of ports. It costs almost $1,400, though, but at least it's fanless.",
+    "link": "https://www.tomshardware.com/desktops/mini-pcs/arctics-usd1-400-amd-strix-point-fanless-mini-pc-hides-under-your-desk-senza-ai-370-features-ryzen-ai-9-hx-370-cpu-32gb-ram-and-1tb-ssd",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-03-19T09:27:31.404893"
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.888513"
   },
   {
-    "title": "Nvidia will only produce one 88-core Vera CPU model Jensen says the company will make billions of dollars from a single SKU",
-    "summary": "Nvidia intends to build a multi-billion-dollar CPU business with its Vera processors, but only plans to offer one SKU.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-will-only-produce-one-88-core-vera-cpu-model-jensen-says-the-company-will-make-billions-of-dollars-from-a-single-sku",
+    "title": "Corsair's new 3200D mid-tower case redefines airflow and component compatibility the case perfectly pairs with rear-connector motherboards",
+    "summary": "Corsair s new 3200D replaces the 3000D with a redesigned chassis, improved airflow, and broader hardware compatibility.",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/corsairs-new-3200d-mid-tower-case-redefines-airflow-and-component-compatibility-the-case-perfectly-pairs-with-rear-connector-motherboards",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.405000"
+    "processed_date": "2026-03-20T09:24:00.888641"
   },
   {
-    "title": "With H200s set to flow into China, Groq is reportedly set to follow Nvidia is allegedly preparing a custom version of inferencing chip to penetrate region",
-    "summary": "According to a new report, Nvidia's Groq inferencing chips are set to head to China for export, following approval of its H200 AI accelerators.",
-    "link": "https://www.tomshardware.com/tech-industry/with-h200s-set-to-flow-into-china-groq-is-reportedly-set-to-follow-nvidia-is-allegedly-preparing-a-custom-version-of-inferencing-chip-to-penetrate-region",
+    "title": "Walmart flooded with RTX 40-series GPUs as 50-series remains out of reach for most gamers retailer slashes up to $480 off last-gen GPUs to offer sensible prices",
+    "summary": "Walmart stocks up on Nvidia's GeForce RTX 40-series (codenamed Ada Lovelace) graphics cards amid an AI-driven memory shortage.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/walmart-flooded-with-rtx-40-series-gpus-as-50-series-remains-out-of-reach-for-most-gamers-retailer-slashes-up-to-usd480-off-last-gen-gpus-to-offer-sensible-prices",
     "categories": [
       "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.888759"
+  },
+  {
+    "title": "Astro A50 X Review: For your battlestation",
+    "summary": "The Astro A50 X is a lightweight wireless headset that connects seamlessly to multiple devices at once but requires its base station to work.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-headsets/astro-a50-x-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.888871"
+  },
+  {
+    "title": "Optiscaler team fixes INT8 FSR 4 ghosting on RX 6000 series GPUs adds support for the latest Adrenalin drivers",
+    "summary": "Optiscaler has provided a new update that helps remove ghosting on the INT8 version of FSR 4 for RX 6000 series graphics cards.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/optiscaler-team-fixes-int8-fsr-4-ghosting-on-rx-6000-series-gpus-adds-support-for-the-latest-adrenalin-drivers",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.888981"
+  },
+  {
+    "title": "Tesla hiring semiconductor fabs construction manager Elon Musk's ambitious Terafab project begins",
+    "summary": "Tesla begins to form a core team behind its Terafab project, which will define the fab and spearhead its construction and tamp.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tesla-hiring-semiconductor-fabs-construction-manager-elon-musks-ambitious-terafab-project-begins",
+    "categories": [
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.405110"
+    "processed_date": "2026-03-20T09:24:00.889099"
   },
   {
-    "title": "AMD claims it had no knowledge of fake Ryzen 5 7430U CPUs in Chuwi laptops Chinese vendor announces recall of products and refunds, PCB manufacturer could be culprit",
-    "summary": "AMD has responded to the Chuwi scandal involving mislabeled Ryzen 5 7430U-equipped laptops. The CPU maker claims it had no knowledge of the issue, and warns that it does not condone mislabelling CPUs in any way.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-claims-it-had-no-knowledge-of-fake-ryzen-5-7430u-cpus-in-chuwi-laptops-chinese-vendor-announces-recall-of-products-and-refunds-pcb-manufacturer-could-be-culprit",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.405213"
-  },
-  {
-    "title": "AMD reportedly strikes back with Zen 5 refresh to counter Intel's latest Arrow Lake Refresh CPUs 65W Ryzen supercharged with 400 MHz base clock uplift and almost double the TDP",
-    "summary": "Reputable leaker shares alleged specifications for the unannounced Ryzen 7 9750X and Ryzen 5 9650X processors from AMD.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-reportedly-strikes-back-with-zen-5-refresh-to-counter-intels-latest-arrow-lake-refresh-cpus-65w-ryzen-supercharged-with-400-mhz-base-clock-uplift-and-almost-double-the-tdp",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-19T09:27:31.405334"
-  },
-  {
-    "title": "Endgame: What s it Like to build the Noctua-everything PC inside the Antec Flux Pro Noctua-Edition",
-    "summary": "Antec and Noctua just released the Flux Pro Noctua-Edition case. And with it, we finally have all the ingredients required to build a 100% Noctua-Edition PC with off-the-shelf components. The question is, does building a PC this way make sense?",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/endgame-whats-it-like-to-build-the-noctua-everything-pc-inside-the-antec-flux-pro-noctua-edition",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-19T09:27:31.405432"
-  },
-  {
-    "title": "Score a liquid-cooled Asus ROG 4K gaming PC with a 9800X3D and RX 9070 XT for under $1,900 right now powerhouse rig comes equipped with 32GB of DDR5 RAM and a 1TB SSD",
-    "summary": "Don't miss out on this brilliant Asus ROG GM700 gaming PC from Newegg. This rig is powered by the powerhouse AMD Ryzen 7 9800X3D CPU, AMD Radeon RX 9070 XT GPU, 32GB of DDR5 RAM, and a 1 TB SSD, all for only $1,899.99",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/score-a-liquid-cooled-asus-rog-4k-gaming-pc-with-a-9800x3d-and-rx-9070-xt-for-under-usd1-900-right-now-powerhouse-rig-comes-equipped-with-32gb-of-ddr5-ram-and-a-1tb-ssd",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.405541"
-  },
-  {
-    "title": "Get 32GB of DDR5 RAM for an effective price of $101 thanks to this Newegg AM5 bundle buy a 9850X3D, premium MSI X870E Max motherboard, and 32GB of V-Color RAM for $1,278.99",
-    "summary": "Find elite gaming performance and strong value in this 3-item Newegg combo - get nearly $400 off a 9850X3D, MSI X870E Ace Max, and 32GB of DDR5-6400 RAM and build your AM5 rig now.",
-    "link": "https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-ram-for-an-effective-price-of-usd101-thanks-to-this-newegg-am5-bundle-buy-a-9850x3d-premium-msi-x870e-max-motherboard-and-32gb-of-v-color-ram-for-usd1-278-99",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-19T09:27:31.405643"
-  },
-  {
-    "title": "SK Group chairman says memory chip shortage will last until 2030 wafer supply trails demand by 20%",
-    "summary": "SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four to five years.",
-    "link": "https://www.tomshardware.com/pc-components/dram/sk-group-chairman-says-memory-chip-shortage-will-last-until-2030",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.405734"
-  },
-  {
-    "title": "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts and a 3D printer DIY MANPADS includes assisted targeting, ballistics calculations, optional camera for tracking",
-    "summary": "Hobbyist makes a Stinger-like missile with $96 in parts and a 3D printer",
-    "link": "https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.405819"
-  },
-  {
-    "title": "Bitcoin is so resilient it could survive as much as 90% of the world's undersea cables failing simultaneously study reveals Bitcoin could still be very vulnerable to targeted attacks, however",
-    "summary": "Cambridge scientists have completed the first longitudinal study of Bitcoin s resilience to network infrastructure disruption, with a particular eye on submarine data cables.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-is-so-resilient-it-could-survive-as-much-as-90-percent-of-the-worlds-undersea-cables-failing-simultaneously-study-reveals-bitcoin-could-still-be-very-vulnerable-to-targeted-attacks-however",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.405913"
-  },
-  {
-    "title": "Industrial RS-485/Modbus Raspberry Pi HAT works with OpenPLC, supports 7V-32V DC input",
-    "summary": "We have previously written about various industrial Raspberry Pi systems and gateways that come with RS-485 built in, but we had yet to cover a dedicated RS-485 Raspberry Pi HAT. To fill this gap, EngineElectronicAccessories, a developer based in Sweden, has introduced the Industrial RS485 / Modbus HAT designed for industrial automation, monitoring, and the OpenPLC open-source PLC suite. The board features an onboard RS-485 transceiver with TVS diode protection and supports long-distance communication over the RS-485 standard. It uses the Pi s hardware UART interface and includes Tx/Rx LEDs for diagnostics. The board also accepts 7V to 32V DC input, so you can power both the HAT and the Raspberry Pi directly from a standard 24V rail, eliminating the need for a separate USB power supply in a control cabinet. Industrial RS-485/ Modbus HAT specifications: Compatibility All Raspberry Pi boards with 40-pin GPIO header (Pi 3, Pi 4, Pi [...] The post Industrial RS-485/Modbus Raspberry Pi HAT works with OpenPLC, supports 7V-32V DC input appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/19/industrial-rs485-modbus-raspberry-pi-hat-works-with-openplc-supports-7v-32v-dc-input/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-19T09:27:31.406436"
-  },
-  {
-    "title": "Grinn GenioSoM-360 MediaTek Genio 360P LGA system-on-module enables Edge AI in space-constrained applications",
-    "summary": "Grinn GenioSoM-360 is the first system-on-module (SoM) based on MediaTek Genio 360P octa-core Cortex-A76/A55 SoC with a 7.4 TOPS AI accelerator. It comes in a compact (30x30mm) LGA package targeting edge AI applications in space-constrained applications. The SoM features up to 8GB LPDDR4x RAM, up to 64GB eMMC flash, a PMIC, and exposes all I/Os through 303 pads, notably MIPI DSI, LVDS, eDP/DP display interfaces, MIPI CSI camera interfaces, Gigabit Ethernet, USB 3.2/2.0 interfaces, PCIe Gen2, CAN FD, and more Grinn GenioSoM-360 specifications: SoC MediaTek Genio 360P (MT8367); note the photo above shows the MT8366, the hexa-core Genio 360 variant Octa-core CPU 2x Arm Cortex-A76 cores clocked at up to 1.9 GHz (industrial) / 2.0GHz (commercial) 6x Arm Cortex-A55 cores clocked at up to 1.7 GHz (industrial) / 2.0GHz (commercial) GPU Arm Mali-G57 MC2 at up to 700MHz with support for OpenGL ES 3.2, Vulkan 1.1, OpenCL 2.0 [...] The post Grinn GenioSoM-360 MediaTek Genio 360P LGA system-on-module enables Edge AI in space-constrained applications appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/19/grinn-geniosom-360-mediatek-genio-360p-lga-system-on-module-enables-edge-ai-in-space-constrained-applications/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-19T09:27:31.406609"
-  },
-  {
-    "title": "Flexible sensors tested in bedsheets to lessen patient ulcers",
-    "summary": "Georgia Tech researchers use sensors in hospital bedsheets connected to a single cable so data can be analyzed to predict pressure ulcers.",
-    "link": "https://www.fiercesensors.com/sensors/flexible-sensors-tested-bedsheets-lessen-patient-ulcers",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.407651"
-  },
-  {
-    "title": "Popular Chrome extension \"Save Image as Type\" was hijacked, impacting over 1 million users",
-    "summary": "Google delisted the image conversion tool earlier this month, but not before it had likely been modifying thousands of users' browsers for several weeks. The group behind the compromise has also been linked to dozens of other hijacked Chrome and Edge extensions. Read Entire Article",
-    "link": "https://www.techspot.com/news/111737-popular-chrome-extension-save-image-type-hijacked-impacting.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.407935"
-  },
-  {
-    "title": "Crimson Desert Benchmark: 40 GPUs Tested",
-    "summary": "We benchmarked Crimson Desert across 40 GPUs to see how it performs at 1080p, 1440p, and 4K. Here's what to expect from your system - and how well it's optimized for modern hardware. Read Entire Article",
-    "link": "https://www.techspot.com/article/3104-crimson-desert-benchmark/",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-19T09:27:31.408021"
-  },
-  {
-    "title": "Death Stranding 2 leaks early as unencrypted Steam build spreads online",
-    "summary": "This kind of leak harks back to the glory days of CD-ROM software in the late 1990s, when games that had \"gone gold\" were often pirated before reaching retail stores. Death Stranding 2's system requirements include 150GB of available storage, while the leaked download allegedly weighs \"just\" 113GB. Read Entire Article",
-    "link": "https://www.techspot.com/news/111735-death-stranding-2-pc-gets-leaked-ahead-official.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.408130"
-  },
-  {
-    "title": "New Intel Arc drivers promise faster game loads with shader distribution",
-    "summary": "Intel's latest Arc GPU drivers introduce the Graphics Shader Distribution Service , which can improve first-time game load times by up to 2x on supported Arc GPUs. The update also adds day-one support for Death Stranding 2 and Everwind. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/drivers/essentials/intel-arc-graphics-windows/",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.408220"
-  },
-  {
-    "title": "Qihoo 360 accidentally exposed a private SSL key, putting its platform at risk",
-    "summary": "Qihoo 360 recently shipped its 360 Security Claw AI assistant, a tool designed to rein in the viral AI agent OpenClaw. However, the installer contained a private SSL certificate associated with the company's internet domain. Criminals and security researchers could theoretically exploit this certificate to compromise Qihoo 360's infrastructure, although... Read Entire Article",
-    "link": "https://www.techspot.com/news/111722-qihoo-360-accidentally-exposed-private-ssl-key-putting.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-19T09:27:31.408323"
-  },
-  {
-    "title": "A number of US cities are pulling the plug on Flock Safety's AI cameras",
-    "summary": "Flock, valued at roughly $7.5 billion and backed by venture capital giant Andreessen Horowitz, says its systems help police identify vehicles linked to criminal activity by analyzing license plates and other features, such as bumper stickers. But the same capability has alarmed privacy advocates and local governments, particularly after reports that... Read Entire Article",
-    "link": "https://www.techspot.com/news/111728-number-us-cities-pulling-plug-flock-safety-ai.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.408423"
-  },
-  {
-    "title": "Gamer recycles VR roller coaster into fully motion-enabled Elite Dangerous cockpit",
-    "summary": "A streamer recently explained how they built a chair that responds to movement feedback from simulation games. The project began as a childhood dream and evolved into a hobby of acquiring and repurposing used machinery. Read Entire Article",
-    "link": "https://www.techspot.com/news/111724-gamer-recycles-vr-roller-coaster-fully-motion-enabled.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.408513"
-  },
-  {
-    "title": "Amazon's Jassy now sees AWS hitting $600 billion a year on AI tailwinds",
-    "summary": "Jassy's comments, delivered at an internal all-hands meeting and reviewed by Reuters, reflect a growing conviction within Amazon that AI will reshape not only its cloud segment but also the company's broader strategy. While he once envisioned AWS becoming a $300 billion-a-year business over the next decade, Jassy now believes... Read Entire Article",
-    "link": "https://www.techspot.com/news/111726-amazon-jassy-now-sees-aws-hitting-600-billion.html",
+    "title": "US trade deficit hits a record $1.2 trillion as AI hardware imports surge under the Trump administration massive demand for chips from Asia outpaces domestic production, fueling a 60% increase in imports in 12 months",
+    "summary": "AI-related imports across the computing and electronics sector have led to a big increase in the U.S. trade deficit, hitting a record $1.2 trillion in 2025, despite efforts from the Trump administration to reduce the gap.",
+    "link": "https://www.tomshardware.com/tech-industry/manufacturing/us-trade-deficit-hits-a-record-usd1-2-trillion-as-ai-hardware-imports-surge-under-the-trump-administration-massive-demand-for-chips-from-asia-outpaces-domestic-production-fueling-a-60-percent-increase-in-imports-in-12-months",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-19T09:27:31.408636"
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.889227"
   },
   {
-    "title": "Sony releases new PlayStation 3 update nearly 20 years after launch",
-    "summary": "The 4.93 update for the PlayStation 3 arrived this morning, exactly one year after the 4.92 update. As PlayStation Lifestyle reports, the patch notes are the same vague line PS3 owners have been seeing for years: \"This system software update improves system performance.\" Read Entire Article",
-    "link": "https://www.techspot.com/news/111732-sony-releases-new-playstation-3-update-nearly-20.html",
+    "title": "How Nvidia's $20 billion Groq 3 LPU deal reshapes the Nvidia Vera Rubin Platform Samsung 4nm process serves as bedrock for SRAM-based AI accelerator chip",
+    "summary": "Nvidia unveiled the Groq 3 language processing unit at GTC 2026 in San Jose on Monday, marking the first chip to emerge from its $20 billion licensing and talent deal with Groq.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/nvidias-20-billion-groq-deal-produces-its-first-chip",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-20T09:24:00.889357"
+  },
+  {
+    "title": "MSI MPG X870E Carbon Max Wifi Review: Small tweaks, same Carbon DNA",
+    "summary": "The MSI X870E Carbon Max adds an OC Engine chip and a larger BIOS, though changes little else. But did it need to? See how the refresh fares against similarly equipped rivals in the crowded $500 space.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/msi-mpg-x870e-carbon-max-wifi-review",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-20T09:24:00.889467"
+  },
+  {
+    "title": "Opera GX finally arrives on Linux by popular demand offers gamers and developers a highly customizable browser with advanced resource management",
+    "summary": "Opera brings its gaming browser to Linux users enabling better system control performance tuning and a highly personalized browsing experience.",
+    "link": "https://www.tomshardware.com/software/browsers/opera-gx-finally-arrives-on-linux-by-popular-demand-offers-gamers-and-developers-a-highly-customizable-browser-with-advanced-resource-management",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-20T09:24:00.889573"
+  },
+  {
+    "title": "Researchers reach superconductivity at ambient pressure, record high temperature milestone of -122 C reached by using pressure quenching, still 140 degrees off room temperature target",
+    "summary": "Researchers from the University of Houston managed to increase the critical temperature for superconductivity by about 18 K at ambient pressure, but at 122 C, they are still 140 C away from the target.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/researchers-reach-superconductivity-at-ambient-pressure-record-high-temperature-milestone-of-122-c-reached-by-using-pressure-quenching-still-140-degrees-off-room-temperature-target",
     "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-19T09:27:31.408733"
+    "processed_date": "2026-03-20T09:24:00.889682"
   },
   {
-    "title": "Tim Cook shuts down speculation about his retirement: \"That's a rumor\"",
-    "summary": "The comment came after the Financial Times reported last year that Apple might be setting the stage for Cook's departure as early as 2026. But as Apple heads deeper into the year, Cook's demeanor and remarks suggest no imminent leadership transition. When asked directly about whether he had plans to... Read Entire Article",
-    "link": "https://www.techspot.com/news/111723-tim-cook-shuts-down-speculation-about-retirement-rumor.html",
+    "title": "Save $800 on this powerhouse Alienware 4K gaming PC with an RTX 5080 and 64GB DDR5 RAM epic pre-built also includes a huge 4TB SSD and a 24-core Intel CPU for high-end performance",
+    "summary": "There's an unmissable deal on an top-end Alienware gaming PC, fitted with an RTX 5080, 24-core Intel Core Ultra 9 285K, 64GB of fast DDR5 RAM, and a whopping 4TB SSD, all with a $800 saving that brings it down to just $3,999.99.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd800-on-this-powerhouse-alienware-4k-gaming-pc-with-an-rtx-5080-and-64gb-ddr5-ram-epic-pre-built-also-includes-a-huge-4tb-ssd-and-a-24-core-intel-cpu-for-high-end-performance",
     "categories": [
-      "Tech News"
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-20T09:24:00.889835"
+  },
+  {
+    "title": "Thermalright's impressive AIO cooler lets you add a panoramic screen to your PC for just $165 bag a 20% saving on the Wonder Vision 360 and treat your CPU",
+    "summary": "Add an eye-catching AMOLED display to your PC and keep your processor cool at the same time with Thermalright's Wonder Vision 360 UB ARGB AIO cooler.",
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/thermalrights-impressive-aio-cooler-lets-you-add-a-panoramic-screen-to-your-pc-for-just-usd165-bag-a-20-percent-saving-on-the-wonder-vision-360-and-treat-your-cpu",
+    "categories": [
+      "Hardware",
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.408831"
+    "processed_date": "2026-03-20T09:24:00.889949"
   },
   {
-    "title": "Meta is quietly backing away from the metaverse as it pivots to AI",
-    "summary": "Meta announced in February that it was making Horizon Worlds, its first attempt at creating a shared immersive VR world that Mark Zuckerberg was once obsessed with, a mobile-only experience. Read Entire Article",
-    "link": "https://www.techspot.com/news/111731-meta-end-horizon-worlds-vr-access-june-metaverse.html",
+    "title": "Kioxia announces new Super High IOPS SSD that helps accelerate AI workloads on Nvidia GPUs 25.6TB drive provides more GPU-accessible memory for faster data access",
+    "summary": "Kioxia has developed a new AI SSD that is designed to provide a secondary cache for Nvidia AI GPUs. The new drive comes with the manufacturer's XL-Flash that is SLC based and performs at over 10 million IOPS.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-announces-new-super-high-iops-ssd-that-helps-accelerate-ai-workloads-on-nvidia-gpus-25-6tb-drive-provides-more-gpu-accessible-memory-for-faster-data-access",
     "categories": [
-      "AI & ML",
-      "Tech News"
+      "GPUs",
+      "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-19T09:27:31.408918"
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.890082"
   },
   {
-    "title": "Todd Howard discusses Starfield's next big update and says Elder Scrolls VI is still years away",
-    "summary": "Starfield received a small paid update this week, with a larger free update and a paid DLC storyline set to launch on April 7 alongside the PS5 port. The new content follows several significant updates Bethesda has released in hopes of improving the game since it launched in 2023 to... Read Entire Article",
-    "link": "https://www.techspot.com/news/111721-todd-howard-discusses-starfield-next-big-update-elder.html",
+    "title": "8BitDo launches $40 Nintendo 64-inspired wireless controller with 2.4 GHz connection dedicated wireless receiver even works with the original N64",
+    "summary": "8BitDo has released the 2.4 GHz version of its popular 8BitDo 64 controller; it ships with a Retro Receiver inside the box that can even be connected to an actual N64 console. The receiver can also be bought separately to work over a Bluetooth Low Energy (BLE) connection with most 8BitDo first-party controllers, and other third-party ones, too.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/8bitdo-launches-usd40-nintendo-64-inspired-wireless-controller-with-2-4-ghz-connection-dedicated-wireless-receiver-even-works-with-the-original-n64",
     "categories": [
       "Tech News",
-      "AI & ML"
+      "Semiconductors"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-03-19T09:27:31.409018"
+    "quality_score": 10,
+    "processed_date": "2026-03-20T09:24:00.890206"
   },
   {
-    "title": "Man says wife stole $172 million in Bitcoin after hidden CCTV cameras captured wallet password",
-    "summary": "According to High Court filings, Ping Fai Yuen claims his wife, Fun Yung Li, secretly recorded him entering the seed phrase and access codes for his Trezor cold wallet at their family home in August 2023. Read Entire Article",
-    "link": "https://www.techspot.com/news/111729-man-wife-stole-172-million-bitcoin-after-hidden.html",
+    "title": "North Korean fake IT army of 100,000 nets Kim Jong-Un a cool $500 million a year NK-aligned workers infiltrated in IT companies worldwide, feeding the nation's revenue generation",
+    "summary": "North Korean army of IT workers infiltrates western companies to make money for the nation.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/north-korean-fake-it-army-of-100-000-nets-kim-jong-un-a-cool-usd500-million-a-year-nk-aligned-workers-infiltrated-in-it-companies-worldwide-feeding-the-nations-revenue-generation",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.890309"
+  },
+  {
+    "title": "Intel's new feature can improve game loading times by up to 3x Precompiled Shader Delivery comes to Arc Xe2 and Xe3 GPUs following DirectX SDK release",
+    "summary": "Following in Nvidia's footsteps, Intel has now officially adopted Microsoft's Advanced Shader Delivery to make shader compilation much faster in games. Intel is calling it Precompiled Shader Distribution and it's available on a bunch of Arc GPUs right away, supported in 11 games at launch, with more likely to follow. AMD is now the only company left who hasn't officially embraced this feature.",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/intel-adds-precompiled-shader-delivery-to-arc-xe2-and-xe3-gpus-following-directx-sdk-release-new-feature-can-improve-game-loading-times-by-up-to-3x",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.890452"
+  },
+  {
+    "title": "16TB M.2 SSD hits retail if you re ready to drop $16,000 for the ultimate storage upgrade price tag explodes 4X in just four months",
+    "summary": "The Exascend PE4 16TB, one of the first 16TB M.2 SSDs, has gone up for purchase on Amazon for a jaw-dropping $15,935.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/16tb-m-2-ssd-hits-retail-if-youre-ready-to-drop-usd16-000-for-the-ultimate-storage-upgrade-price-tag-explodes-4x-in-just-four-months",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.409106"
+    "processed_date": "2026-03-20T09:24:00.890553"
   },
   {
-    "title": "A 1TB MacBook Neo? A modder just made it happen",
-    "summary": "The project, documented in a detailed teardown video, walks through each stage of the hardware surgery. What begins as a straightforward disassembly quickly becomes a display of precision engineering rarely seen outside of Apple's manufacturing lines. Read Entire Article",
-    "link": "https://www.techspot.com/news/111725-1tb-macbook-neo-modder-made-happen.html",
+    "title": "Australian researchers develop quantum battery proof-of-concept which uses lasers to charge near-instantly breakthrough could pave the way for ultra-fast wireless charging for EVs and drones in the future, say researchers",
+    "summary": "Australian researchers have reportedly created the world's first quantum battery prototype.",
+    "link": "https://www.tomshardware.com/tech-industry/manufacturing/australian-researchers-develop-quantum-battery-proof-of-concept-which-uses-lasers-to-charge-near-instantly-breakthrough-could-pave-the-way-for-ultra-fast-wireless-charging-for-evs-and-drones-in-the-future-say-researchers",
     "categories": [
-      "AI & ML",
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-20T09:24:00.890663"
+  },
+  {
+    "title": "Enabling MediaTek M7902 WiFi and Bluetooth drivers on Ubuntu 24.04 the easy way",
+    "summary": "Last month, we noted that Mediatek MT7902 WiFi 6E and Bluetooth 5.x chipset finally got drivers in mainline Linux, and should be part of the Linux 7.0 release. MT7902 wireless modules are used in many Windows laptops, but users have been asking for the Linux drivers for almost two years now. One method is to wait for the drivers to find their way into your distribution, but hmtheyboy154 didn t feel like waiting and backported the drivers to Linux 6.6 to 6.19. Since I own one of those laptops, namely the ASUS Vivobook 16, I gave it a try on Ubuntu 24.04, but it should work on other Linux distributions as well. Note that this method only works with the PCIe driver, so if you own an SDIO module, you d need to work out another solution. My Ubuntu 24.04 laptop is indeed using an MT7902 PCIe module (AW-XB552NF): [crayon-69bd12305c387016807252/] I could [...] The post Enabling MediaTek M7902 WiFi and Bluetooth drivers on Ubuntu 24.04 the easy way appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/20/enabling-mediatek-m7902-wifi-and-bluetooth-drivers-on-ubuntu-24-04-the-easy-way/",
+    "categories": [
+      "Semiconductors",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.409199"
+    "processed_date": "2026-03-20T09:24:00.891103"
   },
   {
-    "title": "Nvidia CEO Jensen Huang says gamers calling DLSS 5 AI slop are \"completely wrong\"",
-    "summary": "Few technologies have faced as much criticism upon their reveals as DLSS 5. The vast majority of gamers are aghast at the way it gives characters a typical AI-generated uncanny valley appearance especially Resident Evil Requiem's Grace Ashcroft and Leon Kennedy as opposed to the \"photorealistic\" look Nvidia claims. Read Entire Article",
-    "link": "https://www.techspot.com/news/111727-nvidia-ceo-jensen-huang-gamers-calling-dlss-5.html",
+    "title": "u-blox JODY-W6 NXP IW623/AW693 tri-band Wi-Fi 6E and Bluetooth 5.4 LE audio modules",
+    "summary": "u-blox has expanded its JODY family of modules with the NXP IW623/AW693-based JODY-W6 series that adds tri-band Wi-Fi 6E and Bluetooth 5.4 (including LE Audio) in a single package. There are seven product variants across five main series models, mainly based on NXP s IW623 chipset for professional use and the AW692/AW693 for automotive use. The modules are optimized for the parallel operation of Wi-Fi and Bluetooth and target high-throughput, low-latency, and secure connectivity use cases such as industrial automation, healthcare systems, smart buildings, network infrastructure, and in-vehicle infotainment and telematics systems. It has a 15.6 19.8 mm LGA form factor, and it s designed for easy migration within the JODY family. u-blox JODY-W6 specifications Wireless SoC NXP IW623 (Professional grade JODY-W672, JODY-W673 ) NXP AW692 / AW693 (Automotive grade 2 JODY-W682, JODY-W683, JODY-W663 ) Connectivity Wi-Fi Standards Wi-Fi 6E IEEE 802.11a/b/g/n/ac/ax Frequencies 2.4 GHz (1-13), 5 [...] The post u-blox JODY-W6 NXP IW623/AW693 tri-band Wi-Fi 6E and Bluetooth 5.4 LE audio modules appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/20/u-blox-jody-w6-nxp-iw623-aw693-tri-band-wi-fi-6e-and-bluetooth-5-4-le-audio-modules/",
     "categories": [
-      "AI & ML",
-      "GPUs"
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-20T09:24:00.891273"
+  },
+  {
+    "title": "8-inch ESP32-P4 touch display offers WiFi 6, BLE, 802.15.4 connectivity, optional 4G LTE and LoRaWAN",
+    "summary": "Seeed Studio s reTerminal D1001 is an 8-inch capacitive touch display powered by an ESP32-P4 RISC-V microcontroller and equipped with an ESP32-C6 wireless module, a camera, a dual-microphone array, and a speaker. The reTerminal D1001 is a fully enclosed solution designed for HMI applications such as control panels, vision-enabled IoT terminals, video intercoms, and smart dashboards. One highlight compared to other ESP32-P4 displays is optional support for 4G LTE cellular connectivity using an mPCIe module and SIM card slot, as well as LoRaWAN using a Stamp module. reTerminal D1001 specifications: SoC Espressif Systems ESP32-P4NRW32 CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 400 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz Memory 768 KB HP L2MEM (for dual-core CPU), 32 KB LP SRAM, 8 KB TCM (for LP MCU core) 32MB PSRAM Storage 128 KB HP ROM, 16 [...] The post 8-inch ESP32-P4 touch display offers WiFi 6, BLE, 802.15.4 connectivity, optional 4G LTE and LoRaWAN appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/20/8-inch-esp32-p4-touch-display-offers-wifi-6-ble-802-15-4-connectivity-optional-4g-lte-and-lorawan/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-20T09:24:00.891459"
+  },
+  {
+    "title": "Clintech Pico The first Raspberry Pi RP2354B board offers 48 GPIOs in Raspberry Pi Pico form factor",
+    "summary": "Designed by Clintech Ltd. in Bulgaria, the Clintech Pico Board appears to be the first development board based on the Raspberry Pi RP2354B chip with 2MB on-chip flash. It retains the same form factor as a Raspberry Pi Pico 2 but adds extra GPIOs to make use of the 48 general-purpose GPIOs provided by the RP2354B chip. Like the Raspberry Pi Pico 2, this board features 40 castellated and through holes on the sides, exposing GPIOs 0 22 and 26 28, along with 3 debug pins. Additionally, the board includes 27 extra on-board through holes that break out the remaining GPIOs (23 25 and 29 47) as well as the QSPI interface (SD0 SD3 and SCLK) for external memory. Clintech Pico specifications: SoC Raspberry Pi RP2354B CPU Dual-core Arm Cortex-M33 @ 150 MHz with Arm Trustzone, Secure boot Dual-core 32-bit RISC-V Hazard3 @ 150 MHz (3-stage in-order pipeline; RV32IMAC with Zba, Zbb, Zbs, Zbkb, Zcb, Zcmp, and [...] The post Clintech Pico The first Raspberry Pi RP2354B board offers 48 GPIOs in Raspberry Pi Pico form factor appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/19/clintech-pico-raspberry-pi-rp2354b-board-raspberry-pi-pico-form-factor/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-20T09:24:00.891624"
+  },
+  {
+    "title": "Avaota F2 Allwinner V861 RISC-V SBC targets AI cameras with PTZ and audio support",
+    "summary": "Avaota F2 is the first SBC based on an Allwinner V861 dual-core 64-bit RISC-V SoC with 128MB on-chip DDR3 memory, support for 4K cameras, a H.265 video codec, and a 1 TOPS AI accelerator. It s an update to the earlier Avaota F1 camera board based on an Allwinner V821 SoC. The new open-source hardware F2 SBC offers several benefits, including support for both Full HD and 4K camera sensors, motor control for the PTZ (Pan-Tilt-Zoom) feature, and improved audio support through speaker (one) and microphone (two) connectors. However, the F1 also included WiFi, which the Avaota F2 lacks. Avaota F2 specifications: SoC Allwinner V861M2-XXX CPU Dual-Core RISC-V XuanTie C907 (RV64GCBV/RV32GGCBV) clocked up to 1.4GHz with RVV 1.0 extensions Single-core RISC-V XuanTie E907 (RV32IMAFC) clocked up to 800MHz VPU Video Encoder H.264/H.265 up to 4K @ 25fps (M)JPEG up to 8192 8192 Video Decoder (M)JPEG up to 1080p60 AI accelerator [...] The post Avaota F2 Allwinner V861 RISC-V SBC targets AI cameras with PTZ and audio support appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/19/avaota-f2-allwinner-v861-risc-v-sbc-targets-ai-cameras-with-ptz-and-audio-support/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-20T09:24:00.891797"
+  },
+  {
+    "title": "Scientists can now build a cyborg cockroach that can pull miniature rigs through pipelines to find leaks",
+    "summary": "The program is led by Hirotaka Sato, a professor at NTU's School of Mechanical and Aerospace Engineering and a recognized pioneer in the field of cyborg insects. His work first gained international attention years ago when he achieved the first remotely controlled flight of a cyborg beetle a milestone... Read Entire Article",
+    "link": "https://www.techspot.com/news/111750-scientists-can-now-build-cyborg-cockroach-can-pull.html",
+    "categories": [
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-19T09:27:31.409298"
+    "processed_date": "2026-03-20T09:24:00.892994"
+  },
+  {
+    "title": "PlayStation 6 and Next Xbox still expected in 2027 despite memory crisis",
+    "summary": "Near the end of an interview with The Game Business, Strauss Zelnick the head of the company that owns Grand Theft Auto developer Rockstar Games said he sees no reason to believe the current RAM shortage will impact the launch of next-generation consoles. Recent leaks appear to support that view. Read Entire Article",
+    "link": "https://www.techspot.com/news/111753-playstation-6-next-gen-xbox-expected-late-2027.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.893132"
+  },
+  {
+    "title": "SK Hynix boss says the memory chip shortage is going to last until 2030",
+    "summary": "According to recent statements by SK Group chairman Chey Tae-won, ongoing issues in the memory and silicon supply chain are unlikely to improve for another four to five years. SK Group owns SK Hynix, the world's third-largest semiconductor manufacturer and an integrated device manufacturer with in-house foundry capabilities. While SK... Read Entire Article",
+    "link": "https://www.techspot.com/news/111751-memory-chip-shortage-going-last-until-2030-sk.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.893252"
+  },
+  {
+    "title": "Fans are rebuilding Baldur's Gate 1 inside Baldur's Gate 3",
+    "summary": "The Belgian studio previously confirmed that BG3 will receive no DLC, expansions, or sequel, leaving modders to shoulder the responsibility of expanding and supporting the base game for years to come. Read Entire Article",
+    "link": "https://www.techspot.com/news/111738-modders-rebuilding-baldur-gate-1-using-bg3-engine.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.893381"
+  },
+  {
+    "title": "The 2027 BMW i3 is here, and it's nothing like the hatchback you remember",
+    "summary": "The 3 Series has essentially defined BMW's identity for more than 50 years, so electrifying it was never going to be a small move, and the company clearly didn't treat it as one. The result is arguably the best-looking design BMW has produced since the start of its electrification era.... Read Entire Article",
+    "link": "https://www.techspot.com/news/111747-2027-bmw-i3-here-nothing-like-hatchback-you.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.893505"
+  },
+  {
+    "title": "This indie game idea went viral then AI-built clones showed up within hours",
+    "summary": "Earlier this week, game developer and technical artist Freya Holm r shared a short clip of a side project she had been working on: a prototype that twists the familiar Tetris formula. In her version, whenever a piece locks into place, the entire playfield rotates 90 degrees in the direction where... Read Entire Article",
+    "link": "https://www.techspot.com/news/111742-indie-game-idea-went-viral-ai-built-clones.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-20T09:24:00.893622"
+  },
+  {
+    "title": "Val Kilmer will appear in a new movie as an AI recreation approved by his family",
+    "summary": "According to Variety, Kilmer was cast as a Catholic priest and Native American spiritualist in 2020 for a movie called \"As Deep as the Grave,\" but his battle with throat cancer meant he was too ill to make it onto the set. Read Entire Article",
+    "link": "https://www.techspot.com/news/111748-val-kilmer-appear-new-movie-ai-recreation-approved.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.893730"
+  },
+  {
+    "title": "North Korea deployed 100,000 fake IT workers to infiltrate Western companies, making $500M a year for Kim Jong Un",
+    "summary": "According to cybersecurity firms Flare Research and IBM X-Force, North Korea is using a network of more than 100,000 hackers, developers, and IT operatives to infiltrate global companies, steal people's private data, and funnel hundreds of millions of dollars to the Kim Jong-Un regime. Read Entire Article",
+    "link": "https://www.techspot.com/news/111749-north-korea-deployed-100000-fake-workers-infiltrate-western.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-20T09:24:00.893843"
+  },
+  {
+    "title": "New iPhone spyware Darksword spread through hacked websites, putting millions at risk",
+    "summary": "The discovery, announced Wednesday in coordinated reports from Lookout, iVerify, and Google's Threat Analysis Group, highlights a growing trade in high-end spyware once found mostly in state-backed espionage. Darksword marks the second iOS-targeting exploit uncovered this month, following the earlier disclosure of a separate tool known as Coruna. Both were... Read Entire Article",
+    "link": "https://www.techspot.com/news/111744-new-iphone-spyware-spread-through-hacked-websites-could.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-20T09:24:00.893960"
+  },
+  {
+    "title": "AMD could answer the Intel Core Ultra 200K Plus with faster Ryzen refresh",
+    "summary": "A well-known leaker recently shared basic specifications for two unannounced AMD desktop processors. The tentatively named Ryzen 7 9750X and Ryzen 5 9650X appear to be refreshes designed in response to Intel's recently unveiled Core Ultra 7 270K Plus and Core Ultra 5 250K Plus. Read Entire Article",
+    "link": "https://www.techspot.com/news/111740-amd-could-answer-intel-core-ultra-200k-plus.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-03-20T09:24:00.894077"
+  },
+  {
+    "title": "Scientists build first working quantum battery prototype, uses lasers to charge in femtoseconds",
+    "summary": "The achievement marks the first time scientists have built a device that can be charged, store energy, and release it again using the laws of quantum mechanics. The team, led by CSIRO physicist James Quach, calls the system a \"proof of concept,\" transforming a theoretical model into a functioning nanoscopic... Read Entire Article",
+    "link": "https://www.techspot.com/news/111741-scientists-build-first-quantum-battery-charges-femtoseconds.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.894203"
+  },
+  {
+    "title": "Crimson Desert reviews fail to meet the hype as Pearl Abyss shares tumble 29%",
+    "summary": "With its incredible open world, massive battles, flight, and stunning looks powered by Pearl Abyss' proprietary BlackSpace engine, Crimson Desert was one of our most anticipated PC games of 2026. Read Entire Article",
+    "link": "https://www.techspot.com/news/111745-crimson-desert-reviews-fail-meet-hype-pearl-abyss.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-20T09:24:00.894310"
+  },
+  {
+    "title": "FBI admits buying Americans' location data and says it won't stop",
+    "summary": "Patel defended the practice as lawful and useful for national security work, citing compliance with the Electronic Communications Privacy Act. Read Entire Article",
+    "link": "https://www.techspot.com/news/111739-fbi-admits-buying-americans-location-data-wont-stop.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-20T09:24:00.894423"
   }
 ]

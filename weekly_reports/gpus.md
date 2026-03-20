@@ -1,5 +1,5 @@
 # 🎮 GPUs
-**Week of March 19, 2026**
+**Week of March 20, 2026**
 
 *Graphics cards and compute accelerators*
 
@@ -7,89 +7,89 @@
 
 ## 📊 Summary
 - **Articles this week:** 8
-- **Report generated:** 2026-03-19 09:28
+- **Report generated:** 2026-03-20 09:25
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Testing CPU scaling in Crimson Desert X3D wins, but not by much, and Raptor Lake shines ⭐
+### 1. Opera GX finally arrives on Linux by popular demand offers gamers and developers a highly customizable browser with advanced resource management 
 
-We tested 20 CPUs in Crimson Desert to see gaming performance. The results show positive performance with Pearl Abyss' BlackSpace engine. Raptor Lake CPUs shine in the tests.
+Opera GX, a gaming browser, is now available on Linux, offering users better control and customization options for optimal system performance and a personalized browsing experience.
 
-💡 *Raptor Lake CPUs outperform others in Crimson Desert gaming tests.*
+💡 *Enhanced gaming performance and control for Linux users.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/testing-cpu-scaling-in-crimson-desert-x3d-wins-but-not-by-much-and-raptor-lake-shines)
-
----
-
-### 2. AMD reportedly strikes back with Zen 5 refresh to counter Intel's latest Arrow Lake Refresh CPUs 65W Ryzen supercharged with 400 MHz base clock uplift and almost double the TDP ⭐
-
-AMD reportedly releases a Zen 5 refresh with Ryzen 7 9750X and Ryzen 5 9650X, featuring a 400 MHz base clock uplift and a significant TDP increase.
-
-💡 *Increased performance to counter Intel's Arrow Lake Refresh CPUs with higher TDP.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-reportedly-strikes-back-with-zen-5-refresh-to-counter-intels-latest-arrow-lake-refresh-cpus-65w-ryzen-supercharged-with-400-mhz-base-clock-uplift-and-almost-double-the-tdp)
+🔗 [Read Full Article](https://www.tomshardware.com/software/browsers/opera-gx-finally-arrives-on-linux-by-popular-demand-offers-gamers-and-developers-a-highly-customizable-browser-with-advanced-resource-management)
 
 ---
 
-### 3. Get 32GB of DDR5 RAM for an effective price of $101 thanks to this Newegg AM5 bundle buy a 9850X3D, premium MSI X870E Max motherboard, and 32GB of V-Color RAM for $1,278.99 
+### 2. Arctic's $1,400 AMD Strix Point fanless mini-PC hides under your desk Senza AI 370 features Ryzen AI 9 HX 370 CPU, 32GB RAM, and 1TB SSD 
 
-Get a high-performance AM5 gaming rig with a 3-item Newegg bundle. The bundle includes an AMD 9850X3D processor, MSI X870E Max motherboard, and 32GB of V-Color DDR5 RAM. This combination can be purchased for an effective price of $101.
+The Arctic Senza AI 370 is a fanless mini-PC featuring a powerful AMD Ryzen AI 9 HX 370 CPU, 32GB of RAM, and a 1TB SSD, ideal for those seeking a compact and silent computing solution.
 
-💡 *Significant savings with bundled components for high-end gaming rigs*
+💡 *Silent, compact computing now available with high-performance capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-ram-for-an-effective-price-of-usd101-thanks-to-this-newegg-am5-bundle-buy-a-9850x3d-premium-msi-x870e-max-motherboard-and-32gb-of-v-color-ram-for-usd1-278-99)
-
----
-
-### 4. Crimson Desert Benchmark: 40 GPUs Tested 
-
-We tested Crimson Desert on 40 GPUs to evaluate performance at 1080p, 1440p, and 4K.
-
-💡 *Crimson Desert shows impressive optimization for modern gaming hardware setups.*
-
-🔗 [Read Full Article](https://www.techspot.com/article/3104-crimson-desert-benchmark/)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/arctics-usd1-400-amd-strix-point-fanless-mini-pc-hides-under-your-desk-senza-ai-370-features-ryzen-ai-9-hx-370-cpu-32gb-ram-and-1tb-ssd)
 
 ---
 
-### 5. With H200s set to flow into China, Groq is reportedly set to follow Nvidia is allegedly preparing a custom version of inferencing chip to penetrate region 
+### 3. Walmart flooded with RTX 40-series GPUs as 50-series remains out of reach for most gamers retailer slashes up to $480 off last-gen GPUs to offer sensible prices 
 
-Nvidia's Groq inferencing chips are set to export to China, following H200 approval.
+Walmart is stocking up on Nvidia's GeForce RTX 40-series GPUs due to an AI-driven memory shortage, making last-gen GPUs more affordable by slashing prices up to $480.
 
-💡 *Nvidia expands AI market presence in China with custom chip offerings.*
+💡 *Last-gen GPUs become affordable options due to RTX 40-series shortage.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/with-h200s-set-to-flow-into-china-groq-is-reportedly-set-to-follow-nvidia-is-allegedly-preparing-a-custom-version-of-inferencing-chip-to-penetrate-region)
-
----
-
-### 6. Score a liquid-cooled Asus ROG 4K gaming PC with a 9800X3D and RX 9070 XT for under $1,900 right now powerhouse rig comes equipped with 32GB of DDR5 RAM and a 1TB SSD 
-
-Purchase a high-performance Asus ROG GM700 gaming PC with AMD Ryzen 7 9800X3D CPU, AMD Radeon RX 9070 XT GPU, 32GB DDR5 RAM, and 1TB SSD for $1,899.99.
-
-💡 *Unlock ultra-high-quality gaming at a compelling price point.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/score-a-liquid-cooled-asus-rog-4k-gaming-pc-with-a-9800x3d-and-rx-9070-xt-for-under-usd1-900-right-now-powerhouse-rig-comes-equipped-with-32gb-of-ddr5-ram-and-a-1tb-ssd)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/walmart-flooded-with-rtx-40-series-gpus-as-50-series-remains-out-of-reach-for-most-gamers-retailer-slashes-up-to-usd480-off-last-gen-gpus-to-offer-sensible-prices)
 
 ---
 
-### 7. New Intel Arc drivers promise faster game loads with shader distribution 
+### 4. Optiscaler team fixes INT8 FSR 4 ghosting on RX 6000 series GPUs adds support for the latest Adrenalin drivers 
 
-Intel's new Arc GPU drivers improve game load times by up to 2x, adding day-one support for Death Stranding 2 and Everwind.
+Optiscaler has released an update to alleviate ghosting on INT8 FSR 4 for RX 6000 GPUs, ensuring smoother visuals.
 
-💡 *Faster game loads enhance user experience and reduce frustration.*
+💡 *Improved gaming experience for RX 6000 series graphics card users.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/drivers/essentials/intel-arc-graphics-windows/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/optiscaler-team-fixes-int8-fsr-4-ghosting-on-rx-6000-series-gpus-adds-support-for-the-latest-adrenalin-drivers)
 
 ---
 
-### 8. Nvidia CEO Jensen Huang says gamers calling DLSS 5 AI slop are "completely wrong" 
+### 5. Kioxia announces new Super High IOPS SSD that helps accelerate AI workloads on Nvidia GPUs 25.6TB drive provides more GPU-accessible memory for faster data access 
 
-Nvidia's DLSS 5 technology has faced criticism for its AI-generated appearance. Gamers are unhappy with the uncanny valley effect in certain games. Nvidia's CEO disputes the criticism.
+Kioxia introduces a new AI SSD with XL-Flash technology, delivering over 10 million IOPS. This high-performance drive is designed as a secondary cache for Nvidia AI GPUs. It provides more GPU-accessible memory for faster data access.
 
-💡 *Perceived AI quality affects game immersion and player experience greatly*
+💡 *Accelerates AI workloads with faster, more efficient data access.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111727-nvidia-ceo-jensen-huang-gamers-calling-dlss-5.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/kioxia-announces-new-super-high-iops-ssd-that-helps-accelerate-ai-workloads-on-nvidia-gpus-25-6tb-drive-provides-more-gpu-accessible-memory-for-faster-data-access)
+
+---
+
+### 6. Intel's new feature can improve game loading times by up to 3x Precompiled Shader Delivery comes to Arc Xe2 and Xe3 GPUs following DirectX SDK release 
+
+Intel has adopted Advanced Shader Delivery to improve game loading times, available on Arc GPUs with 11 supported games at launch.
+
+💡 *Faster shader compilation reduces game loading times and enhances user experience significantly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/intel-adds-precompiled-shader-delivery-to-arc-xe2-and-xe3-gpus-following-directx-sdk-release-new-feature-can-improve-game-loading-times-by-up-to-3x)
+
+---
+
+### 7. How Nvidia's $20 billion Groq 3 LPU deal reshapes the Nvidia Vera Rubin Platform Samsung 4nm process serves as bedrock for SRAM-based AI accelerator chip 
+
+Nvidia unveiled the Groq 3 LPU, a $20 billion collaboration with Groq, at GTC 2026. The chip utilizes Samsung's 4nm process for a high-performance SRAM-based AI accelerator. This marks the first chip from Nvidia's deal with Groq.
+
+💡 *AI processing gains significant speed and efficiency with SRAM-based architecture*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/nvidias-20-billion-groq-deal-produces-its-first-chip)
+
+---
+
+### 8. Save $800 on this powerhouse Alienware 4K gaming PC with an RTX 5080 and 64GB DDR5 RAM epic pre-built also includes a huge 4TB SSD and a 24-core Intel CPU for high-end performance 
+
+Alienware gaming PC deal features RTX 5080, 24-core Intel CPU, and 4TB SSD. This top-end gaming PC is now available for $3,999.99, a $800 saving. The powerful configuration includes 64GB of DDR5 RAM.
+
+💡 *Unbeatable performance at a significantly reduced price point.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd800-on-this-powerhouse-alienware-4k-gaming-pc-with-an-rtx-5080-and-64gb-ddr5-ram-epic-pre-built-also-includes-a-huge-4tb-ssd-and-a-24-core-intel-cpu-for-high-end-performance)
 
 ---
 
