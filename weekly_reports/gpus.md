@@ -1,95 +1,105 @@
 # 🎮 GPUs
-**Week of March 20, 2026**
+**Week of March 21, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-03-20 09:25
+- **Articles this week:** 9
+- **Report generated:** 2026-03-21 09:03
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Opera GX finally arrives on Linux by popular demand offers gamers and developers a highly customizable browser with advanced resource management 
+### 1. Acer Predator XB273U F5 27-inch QHD 360 Hz gaming monitor review: Utilizing G-Sync Pulsar to deliver phenomenal blur reduction 
 
-Opera GX, a gaming browser, is now available on Linux, offering users better control and customization options for optimal system performance and a personalized browsing experience.
+The Acer Predator XB273U F5 features a 27-inch QHD IPS screen with 360 Hz refresh rate, HDR500, and G-Sync Pulsar technology for reduced blur and improved gaming performance. It offers wide-gamut color and Adaptive-Sync support for a seamless gaming experience. The display's 360 Hz refresh rate and G-Sync Pulsar tech make it ideal for fast-paced games.
 
-💡 *Enhanced gaming performance and control for Linux users.*
+💡 *Blurs are eliminated in high-speed gaming with G-Sync Pulsar*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/browsers/opera-gx-finally-arrives-on-linux-by-popular-demand-offers-gamers-and-developers-a-highly-customizable-browser-with-advanced-resource-management)
-
----
-
-### 2. Arctic's $1,400 AMD Strix Point fanless mini-PC hides under your desk Senza AI 370 features Ryzen AI 9 HX 370 CPU, 32GB RAM, and 1TB SSD 
-
-The Arctic Senza AI 370 is a fanless mini-PC featuring a powerful AMD Ryzen AI 9 HX 370 CPU, 32GB of RAM, and a 1TB SSD, ideal for those seeking a compact and silent computing solution.
-
-💡 *Silent, compact computing now available with high-performance capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/arctics-usd1-400-amd-strix-point-fanless-mini-pc-hides-under-your-desk-senza-ai-370-features-ryzen-ai-9-hx-370-cpu-32gb-ram-and-1tb-ssd)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-xb273u-f5-27-inch-qhd-360-hz-gaming-monitor-review)
 
 ---
 
-### 3. Walmart flooded with RTX 40-series GPUs as 50-series remains out of reach for most gamers retailer slashes up to $480 off last-gen GPUs to offer sensible prices 
+### 2. Crimson Desert won't work on Intel Arc GPUs, developer suggests users ask for refunds 
 
-Walmart is stocking up on Nvidia's GeForce RTX 40-series GPUs due to an AI-driven memory shortage, making last-gen GPUs more affordable by slashing prices up to $480.
+Crimson Desert's underwhelming performance has led to a significant drop in Pearl Abyss' stock price, indicating investor disappointment. The game's lack of compatibility with Intel Arc GPUs has been cited as a major issue. Developer suggests users consider refunds due to this problem.
 
-💡 *Last-gen GPUs become affordable options due to RTX 40-series shortage.*
+💡 *Intel Arc GPU incompatibility hurts Crimson Desert's market appeal significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/walmart-flooded-with-rtx-40-series-gpus-as-50-series-remains-out-of-reach-for-most-gamers-retailer-slashes-up-to-usd480-off-last-gen-gpus-to-offer-sensible-prices)
-
----
-
-### 4. Optiscaler team fixes INT8 FSR 4 ghosting on RX 6000 series GPUs adds support for the latest Adrenalin drivers 
-
-Optiscaler has released an update to alleviate ghosting on INT8 FSR 4 for RX 6000 GPUs, ensuring smoother visuals.
-
-💡 *Improved gaming experience for RX 6000 series graphics card users.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/optiscaler-team-fixes-int8-fsr-4-ghosting-on-rx-6000-series-gpus-adds-support-for-the-latest-adrenalin-drivers)
+🔗 [Read Full Article](https://www.techspot.com/news/111766-crimson-desert-wont-work-intel-arc-gpus-developer.html)
 
 ---
 
-### 5. Kioxia announces new Super High IOPS SSD that helps accelerate AI workloads on Nvidia GPUs 25.6TB drive provides more GPU-accessible memory for faster data access 
+### 3. Intel suggests it was snubbed by Crimson Desert dev after reaching out "many times" about Arc GPUs company says it provided "early hardware, drivers, and engineering resources" to studio 
 
-Kioxia introduces a new AI SSD with XL-Flash technology, delivering over 10 million IOPS. This high-performance drive is designed as a secondary cache for Nvidia AI GPUs. It provides more GPU-accessible memory for faster data access.
+Intel blames Pearl Abyss for lack of Arc GPU in Crimson Desert, claiming multiple attempts at collaboration.
 
-💡 *Accelerates AI workloads with faster, more efficient data access.*
+💡 *Intel accused of poor communication with game developers about GPU integration.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/kioxia-announces-new-super-high-iops-ssd-that-helps-accelerate-ai-workloads-on-nvidia-gpus-25-6tb-drive-provides-more-gpu-accessible-memory-for-faster-data-access)
-
----
-
-### 6. Intel's new feature can improve game loading times by up to 3x Precompiled Shader Delivery comes to Arc Xe2 and Xe3 GPUs following DirectX SDK release 
-
-Intel has adopted Advanced Shader Delivery to improve game loading times, available on Arc GPUs with 11 supported games at launch.
-
-💡 *Faster shader compilation reduces game loading times and enhances user experience significantly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/intel-adds-precompiled-shader-delivery-to-arc-xe2-and-xe3-gpus-following-directx-sdk-release-new-feature-can-improve-game-loading-times-by-up-to-3x)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intel-suggests-it-was-snubbed-by-crimson-desert-dev-after-reaching-out-many-times-about-arc-gpus-company-says-it-provided-early-hardware-drivers-and-engineering-resources-to-studio)
 
 ---
 
-### 7. How Nvidia's $20 billion Groq 3 LPU deal reshapes the Nvidia Vera Rubin Platform Samsung 4nm process serves as bedrock for SRAM-based AI accelerator chip 
+### 4. New Fortnite 'Rivalry' includes chance to win RTX 5080 top five players will be awarded GPU hardware in Chapter 7 Season 2 competition 
 
-Nvidia unveiled the Groq 3 LPU, a $20 billion collaboration with Groq, at GTC 2026. The chip utilizes Samsung's 4nm process for a high-performance SRAM-based AI accelerator. This marks the first chip from Nvidia's deal with Groq.
+Fortnite's new 'Rivalry' system offers real-life rewards, including a free RTX 5080, to top players. The competition is part of Chapter 7 Season 2. Players must win 'rivalries' in matches and rank among the top five globally.
 
-💡 *AI processing gains significant speed and efficiency with SRAM-based architecture*
+💡 *Competitive gamers may be motivated by real-life GPU rewards*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/nvidias-20-billion-groq-deal-produces-its-first-chip)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/new-fortnite-rivalry-includes-chance-to-win-rtx-5080-top-five-players-will-be-awarded-gpu-hardware-in-chapter-7-season-2-competition)
 
 ---
 
-### 8. Save $800 on this powerhouse Alienware 4K gaming PC with an RTX 5080 and 64GB DDR5 RAM epic pre-built also includes a huge 4TB SSD and a 24-core Intel CPU for high-end performance 
+### 5. Crimson Desert offers no support for Intel GPUs developer Pearl Abyss says 'please refer to the refund policy' 
 
-Alienware gaming PC deal features RTX 5080, 24-core Intel CPU, and 4TB SSD. This top-end gaming PC is now available for $3,999.99, a $800 saving. The powerful configuration includes 64GB of DDR5 RAM.
+Crimson Desert doesn't support Intel GPUs, prompting refunds from affected customers.
 
-💡 *Unbeatable performance at a significantly reduced price point.*
+💡 *Intel GPU users excluded from game compatibility, seek refunds instead.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd800-on-this-powerhouse-alienware-4k-gaming-pc-with-an-rtx-5080-and-64gb-ddr5-ram-epic-pre-built-also-includes-a-huge-4tb-ssd-and-a-24-core-intel-cpu-for-high-end-performance)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/crimson-desert-offers-no-support-for-intel-gpus-developer-pearl-abyss-says-please-refer-to-the-refund-policy)
+
+---
+
+### 6. AMD releases FSR 4.1 for RX 9000-series GPUs new update delivers better Ray Regeneration, finer upscaled detail, and higher FPS 
+
+AMD releases FSR 4.1 for RX 9000-series GPUs, delivering improved ray tracing and upscaling. This update brings AMD's RDNA 4 GPUs to parity with Sony's PS5 Pro in terms of ray tracing quality and image sharpness. Games that support these features will benefit from enhanced visuals and performance.
+
+💡 *Enhanced gaming experience with improved visuals and performance.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/amd-releases-fsr-4-1-for-rx-9000-series-gpus-new-update-delivers-better-ray-regeneration-finer-upscaled-detail-and-higher-fps)
+
+---
+
+### 7. Seller gets scammed as eBay customer returns $4,000 RTX 5090 with missing GPU core and memory modules fully working Zotac stripped of most valuable components and sent back 
+
+An eBay seller was scammed when a returned GPU appeared intact but lacked critical internal components, making it difficult to detect without disassembly. The GPU in question was a high-value item, a $4,000 RTX 5090, and was sent back by the buyer stripped of its most valuable components. This highlights the risk of returning goods with hidden defects.
+
+💡 *Internal component manipulation can make counterfeit goods difficult to detect externally*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/ebay-seller-gets-scammed-as-customer-returns-usd4-000-rtx-5090-with-missing-gpu-core-and-memory-modules-fully-working-zotac-stripped-of-most-valuable-components-and-sent-back)
+
+---
+
+### 8. Nvidia "confirms" DLSS 5 relies on 2D frame data as testing reveals hallucinations 
+
+Nvidia's DLSS 5 relies on 2D frame data, not underlying geometry, according to Nvidia's statements. This contradicts claims that the technology is not a post-processing filter. Testing has revealed hallucinations as a result.
+
+💡 *DLSS 5's limitations expose its post-processing filter nature*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html)
+
+---
+
+### 9. AMD releases Adrenaline 26.3.1 driver, adding FSR 4.1 support for Radeon RX 9000 GPUs 
+
+AMD releases Adrenaline 26.3.1 driver with FSR 4.1 support for Radeon RX 9000 GPUs, improving image reconstruction quality and delivering sharper visuals.
+
+💡 *Enhanced image quality for older games and machine learning upscaling.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111765-amd-releases-adrenaline-2631-driver-adding-fsr-41.html)
 
 ---
 

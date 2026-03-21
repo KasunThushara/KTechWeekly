@@ -1,155 +1,165 @@
 # 🤖 AI & ML
-**Week of March 20, 2026**
+**Week of March 21, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-03-20 09:25
+- **Articles this week:** 15
+- **Report generated:** 2026-03-21 09:03
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. u-blox JODY-W6 NXP IW623/AW693 tri-band Wi-Fi 6E and Bluetooth 5.4 LE audio modules 
+### 1. Radxa AICore DX-M1M M.2 2242 low-power AI module delivers 25 TOPS of edge AI performance for just 3W of power ⭐
 
-u-blox JODY-W6 modules offer tri-band Wi-Fi 6E and Bluetooth 5.4 in a single package, targeting high-throughput and secure connectivity use cases in industries such as industrial automation, healthcare, and automotive.
+Radxa's AICore DX-M1M M.2 module delivers 25 TOPS AI performance at 3W power, suitable for industrial edge AI applications.
 
-💡 *Enhanced wireless connectivity for demanding industrial and automotive applications*
+💡 *Ultra-low power AI computing accelerates industrial edge AI adoption.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/20/u-blox-jody-w6-nxp-iw623-aw693-tri-band-wi-fi-6e-and-bluetooth-5-4-le-audio-modules/)
-
----
-
-### 2. This indie game idea went viral then AI-built clones showed up within hours 
-
-Game developer Freya Holm's side project, a Tetris prototype with rotating playfield, gained viral attention. However, AI-built clones of the game popped up shortly after. The sudden appearance of clones raised questions about copyright and AI-generated content.
-
-💡 *AI-generated clones blur lines between originality and intellectual property.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111742-indie-game-idea-went-viral-ai-built-clones.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/21/radxa-aicore-dx-m1m-m-2-2242-low-power-ai-module-delivers-25-tops-of-edge-ai-performance-for-just-3w-of-power/)
 
 ---
 
-### 3. Crimson Desert reviews fail to meet the hype as Pearl Abyss shares tumble 29% 
+### 2. Reworked Apple Watch avoids ban, but Masimo battle escalates 
 
-Crimson Desert reviews fail to meet expectations, leading to a decline in Pearl Abyss' stock. The game's features, including its open world and BlackSpace engine, were highly anticipated but did not translate to commercial success. The game's performance has significant implications for Pearl Abyss.
+Apple's revised Apple Watch avoids ban after court ruling. The decision concludes that Apple's implementation falls outside Masimo's asserted rights.
 
-💡 *Disappointing game reviews hurt game developer's stock value significantly*
+💡 *Patent dispute resolution may affect future wearable technology development*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111745-crimson-desert-reviews-fail-meet-hype-pearl-abyss.html)
-
----
-
-### 4. Corsair's new 3200D mid-tower case redefines airflow and component compatibility the case perfectly pairs with rear-connector motherboards 
-
-Corsair's new 3200D mid-tower case features improved airflow and broader compatibility.
-
-💡 *Enhanced airflow and compatibility for improved PC performance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/corsairs-new-3200d-mid-tower-case-redefines-airflow-and-component-compatibility-the-case-perfectly-pairs-with-rear-connector-motherboards)
+🔗 [Read Full Article](https://www.techspot.com/news/111762-reworked-apple-watch-avoids-import-ban-but-masimo.html)
 
 ---
 
-### 5. Walmart flooded with RTX 40-series GPUs as 50-series remains out of reach for most gamers retailer slashes up to $480 off last-gen GPUs to offer sensible prices 
+### 3. Quantum cryptography pioneers win Turing Award for unhackable encryption breakthrough 
 
-Walmart is stocking up on Nvidia's GeForce RTX 40-series GPUs due to an AI-driven memory shortage, making last-gen GPUs more affordable by slashing prices up to $480.
+A pair of pioneers in quantum cryptography won the Turing Award for their work on the BB84 protocol, an encryption method that relies on the fragile nature of photons.
 
-💡 *Last-gen GPUs become affordable options due to RTX 40-series shortage.*
+💡 *Unhackable encryption breakthrough secures sensitive information with quantum science.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/walmart-flooded-with-rtx-40-series-gpus-as-50-series-remains-out-of-reach-for-most-gamers-retailer-slashes-up-to-usd480-off-last-gen-gpus-to-offer-sensible-prices)
-
----
-
-### 6. US trade deficit hits a record $1.2 trillion as AI hardware imports surge under the Trump administration massive demand for chips from Asia outpaces domestic production, fueling a 60% increase in imports in 12 months 
-
-The US trade deficit hit a record $1.2 trillion in 2025, driven by a 60% increase in AI-related imports, mostly from Asia, outpacing domestic production in the computing and electronics sector. This surge in imports follows efforts from the Trump administration to reduce the trade gap. The significant increase in AI hardware imports has fueled the record trade deficit.
-
-💡 *Rapid AI demand exposes US weakness in chip production capacity*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/manufacturing/us-trade-deficit-hits-a-record-usd1-2-trillion-as-ai-hardware-imports-surge-under-the-trump-administration-massive-demand-for-chips-from-asia-outpaces-domestic-production-fueling-a-60-percent-increase-in-imports-in-12-months)
+🔗 [Read Full Article](https://www.techspot.com/news/111757-quantum-cryptography-pioneers-win-turing-award-unhackable-encryption.html)
 
 ---
 
-### 7. Thermalright's impressive AIO cooler lets you add a panoramic screen to your PC for just $165 bag a 20% saving on the Wonder Vision 360 and treat your CPU 
+### 4. Sony to phase out "PlayStation Network" branding as early as this fall 
 
-Thermalright's Wonder Vision 360 AIO cooler integrates a panoramic AMOLED display for a unique PC experience. It offers a 20% discount, making it more affordable at $165. This cooler effectively cools your CPU while adding a visual touch.
+Sony plans to phase out 'PlayStation Network' branding this fall, citing evolving digital services.
 
-💡 *Blends functionality and aesthetics for an enhanced PC experience.*
+💡 *Branding change indicates shift towards broader digital service offerings.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/thermalrights-impressive-aio-cooler-lets-you-add-a-panoramic-screen-to-your-pc-for-just-usd165-bag-a-20-percent-saving-on-the-wonder-vision-360-and-treat-your-cpu)
-
----
-
-### 8. Kioxia announces new Super High IOPS SSD that helps accelerate AI workloads on Nvidia GPUs 25.6TB drive provides more GPU-accessible memory for faster data access 
-
-Kioxia introduces a new AI SSD with XL-Flash technology, delivering over 10 million IOPS. This high-performance drive is designed as a secondary cache for Nvidia AI GPUs. It provides more GPU-accessible memory for faster data access.
-
-💡 *Accelerates AI workloads with faster, more efficient data access.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/kioxia-announces-new-super-high-iops-ssd-that-helps-accelerate-ai-workloads-on-nvidia-gpus-25-6tb-drive-provides-more-gpu-accessible-memory-for-faster-data-access)
+🔗 [Read Full Article](https://www.techspot.com/news/111763-sony-phase-out-playstation-network-branding-early-fall.html)
 
 ---
 
-### 9. 16TB M.2 SSD hits retail if you re ready to drop $16,000 for the ultimate storage upgrade price tag explodes 4X in just four months 
+### 5. AMD releases FSR 4.1 for RX 9000-series GPUs new update delivers better Ray Regeneration, finer upscaled detail, and higher FPS 
 
-The Exascend PE4 16TB M.2 SSD is now available on Amazon for $15,935, a drastic price increase from its initial cost.
+AMD releases FSR 4.1 for RX 9000-series GPUs, delivering improved ray tracing and upscaling. This update brings AMD's RDNA 4 GPUs to parity with Sony's PS5 Pro in terms of ray tracing quality and image sharpness. Games that support these features will benefit from enhanced visuals and performance.
 
-💡 *Massive storage capacity comes at a prohibitively expensive price point suddenly.*
+💡 *Enhanced gaming experience with improved visuals and performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/16tb-m-2-ssd-hits-retail-if-youre-ready-to-drop-usd16-000-for-the-ultimate-storage-upgrade-price-tag-explodes-4x-in-just-four-months)
-
----
-
-### 10. Scientists can now build a cyborg cockroach that can pull miniature rigs through pipelines to find leaks 
-
-Scientists have developed a cyborg cockroach to detect pipeline leaks remotely.
-
-💡 *Enhanced pipeline leak detection increases energy efficiency and safety.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111750-scientists-can-now-build-cyborg-cockroach-can-pull.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/amd-releases-fsr-4-1-for-rx-9000-series-gpus-new-update-delivers-better-ray-regeneration-finer-upscaled-detail-and-higher-fps)
 
 ---
 
-### 11. PlayStation 6 and Next Xbox still expected in 2027 despite memory crisis 
+### 6. Planned 10-gigawatt Softbank data center in Ohio might be the largest in the world will require a $33 billion natural gas plant, equivalent to nine nuclear reactors 
 
-PlayStation 6 and Next Xbox reportedly on track for 2027 launch, despite RAM shortage.
+SoftBank plans a massive $60 billion AI data center in Ohio, spanning multiple phases. The facility will be one of the largest in the world. It requires a $33 billion natural gas plant.
 
-💡 *Console manufacturers might prioritize development over current memory constraints.*
+💡 *Massive data center demands massive energy infrastructure investment*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111753-playstation-6-next-gen-xbox-expected-late-2027.html)
-
----
-
-### 12. SK Hynix boss says the memory chip shortage is going to last until 2030 
-
-The memory chip shortage is expected to last until 2030 due to ongoing supply chain issues. SK Hynix, the world's third-largest semiconductor manufacturer, is owned by SK Group. The shortage is attributed to issues in the memory and silicon supply chain.
-
-💡 *Global tech industry faces years of disrupted semiconductor supply.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111751-memory-chip-shortage-going-last-until-2030-sk.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/planned-10-gigawatt-softbank-data-center-in-ohio-might-be-the-largest-in-the-world-will-require-a-usd33-billion-natural-gas-plant-equivalent-to-nine-nuclear-reactors)
 
 ---
 
-### 13. Val Kilmer will appear in a new movie as an AI recreation approved by his family 
+### 7. Supermicro employees accused of smuggling $2.5 billion worth of Nvidia hardware to China perps used a hairdryer to move serial numbers between real hardware and thousands of dummy servers 
 
-Val Kilmer will star in a new movie using AI recreation, which has been approved by his family. This comes after he was initially cast in 'As Deep as the Grave' in 2020 but couldn't participate due to throat cancer.
+Three Super Micro employees have been charged with smuggling Nvidia hardware to China. They allegedly used a hairdryer to swap serial numbers between real and dummy servers. The total value of the smuggled hardware is estimated at $2.5 billion.
 
-💡 *Groundbreaking AI recreation technology brings back beloved actors in new roles*
+💡 *US tech security compromised by insider sabotage and theft.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111748-val-kilmer-appear-new-movie-ai-recreation-approved.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/super-micro-employees-accused-of-smuggling-usd2-5-billion-worth-of-nvidia-hardware-to-china-perps-used-a-hairdryer-to-move-serial-numbers-between-real-hardware-and-thousands-of-dummy-servers)
 
 ---
 
-### 14. Scientists build first working quantum battery prototype, uses lasers to charge in femtoseconds 
+### 8. Certified Android devices won t let users sideload APK app files anymore, or at least it won t be straightforward 
 
-Scientists have developed a working quantum battery prototype using lasers, marking a significant breakthrough in harnessing quantum mechanics for energy storage.
+Google will require developer verification for sideloading APK files on certified Android devices, starting in September 2026. This involves paying a fee, agreeing to terms, and providing identification. The process will be complex, but still possible for power users.
 
-💡 *Game-changing technology for ultra-efficient, high-capacity energy storage and release.*
+💡 *Android users will need verification to sideload apps, limiting flexibility.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111741-scientists-build-first-quantum-battery-charges-femtoseconds.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/20/certified-android-devices-wont-let-user-sideload-apk-app-files-anymore-or-at-least-it-wont-be-straightforward/)
+
+---
+
+### 9. What s going on with Edge AI? And why a Fierce Sensors survey? 
+
+A Fierce survey aims to uncover insights on Edge AI pilot success. Engineers are invited to share their experiences with Edge AI pilot projects. The survey hopes to identify challenges that prevent pilots from reaching production.
+
+💡 *Edge AI pilots fail due to insufficient data and testing.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/whats-going-edge-ai-and-why-fierce-sensors-survey)
+
+---
+
+### 10. Nvidia "confirms" DLSS 5 relies on 2D frame data as testing reveals hallucinations 
+
+Nvidia's DLSS 5 relies on 2D frame data, not underlying geometry, according to Nvidia's statements. This contradicts claims that the technology is not a post-processing filter. Testing has revealed hallucinations as a result.
+
+💡 *DLSS 5's limitations expose its post-processing filter nature*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html)
+
+---
+
+### 11. Google isn't backing away from Pentagon AI work, it's doubling down 
+
+Google DeepMind is doubling down on national security AI work, despite controversy.
+
+💡 *Escalating national security ties may compromise Google's values and public image.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111761-google-leaning-more-pentagon-ai-contracts-despite-employee.html)
+
+---
+
+### 12. AMD releases Adrenaline 26.3.1 driver, adding FSR 4.1 support for Radeon RX 9000 GPUs 
+
+AMD releases Adrenaline 26.3.1 driver with FSR 4.1 support for Radeon RX 9000 GPUs, improving image reconstruction quality and delivering sharper visuals.
+
+💡 *Enhanced image quality for older games and machine learning upscaling.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111765-amd-releases-adrenaline-2631-driver-adding-fsr-41.html)
+
+---
+
+### 13. Android sideloading remains, but Google introduces stricter "advanced flow" process 
+
+Google won't retire Android sideloading, but will make it more difficult. The advanced flow process is designed to protect users from potential threats. This change aims to balance user freedom with security.
+
+💡 *Android's sideloading balance shifts from accessibility to security emphasis.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111754-android-sideloading-remains-but-google-introduces-stricter-advanced.html)
+
+---
+
+### 14. Samsung could be developing a second-gen Galaxy Z TriFold and slidable handset 
+
+Samsung is reportedly testing a second-generation Galaxy Z TriFold with improvements, despite initial discontinuation.
+
+💡 *Innovation continues despite initial product failure and market limitations.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111759-samsung-could-developing-second-gen-trifold-slidable-handset.html)
+
+---
+
+### 15. Walmart secures two AI pricing patents, raising dynamic pricing concerns 
+
+Walmart secures AI pricing patents, sparking concerns over dynamic pricing practices.
+
+💡 *Lawmakers' efforts to restrict surge pricing may be undermined by Walmart's AI patents.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html)
 
 ---
 
