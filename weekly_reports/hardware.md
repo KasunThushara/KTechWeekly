@@ -1,105 +1,85 @@
 # 💻 Hardware
-**Week of March 21, 2026**
+**Week of March 22, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-03-21 09:03
+- **Articles this week:** 7
+- **Report generated:** 2026-03-22 09:04
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Radxa AICore DX-M1M M.2 2242 low-power AI module delivers 25 TOPS of edge AI performance for just 3W of power ⭐
+### 1. Logitech G325 Lightspeed Wireless Gaming Headset Review 
 
-Radxa's AICore DX-M1M M.2 module delivers 25 TOPS AI performance at 3W power, suitable for industrial edge AI applications.
+The Logitech G325 Lightspeed Wireless offers comfort and sound quality at a mid-tier price, making it a solid choice for all-day wear, including non-gaming activities. The headset's design prioritizes comfort, ensuring it remains suitable for extended periods. However, the microphone performance is somewhat lacking.
 
-💡 *Ultra-low power AI computing accelerates industrial edge AI adoption.*
+💡 *Affordable comfort and sound quality for long gaming sessions*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/21/radxa-aicore-dx-m1m-m-2-2242-low-power-ai-module-delivers-25-tops-of-edge-ai-performance-for-just-3w-of-power/)
-
----
-
-### 2. Acer Predator XB273U F5 27-inch QHD 360 Hz gaming monitor review: Utilizing G-Sync Pulsar to deliver phenomenal blur reduction 
-
-The Acer Predator XB273U F5 features a 27-inch QHD IPS screen with 360 Hz refresh rate, HDR500, and G-Sync Pulsar technology for reduced blur and improved gaming performance. It offers wide-gamut color and Adaptive-Sync support for a seamless gaming experience. The display's 360 Hz refresh rate and G-Sync Pulsar tech make it ideal for fast-paced games.
-
-💡 *Blurs are eliminated in high-speed gaming with G-Sync Pulsar*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-xb273u-f5-27-inch-qhd-360-hz-gaming-monitor-review)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/logitech-g325-lightspeed-wireless-gaming-headset-review)
 
 ---
 
-### 3. Reworked Apple Watch avoids ban, but Masimo battle escalates 
+### 2. Another major Japanese electronics firm exits the Blu-ray market Elecom publishes notice of termination of all external drives 
 
-Apple's revised Apple Watch avoids ban after court ruling. The decision concludes that Apple's implementation falls outside Masimo's asserted rights.
+Elecom has announced the termination of its Blu-ray drive products. This marks another major Japanese electronics firm exiting the Blu-ray market. The decision may signal a decline in consumer demand for the format.
 
-💡 *Patent dispute resolution may affect future wearable technology development*
+💡 *Decline in Blu-ray format demand impacts Japanese electronics industry*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111762-reworked-apple-watch-avoids-import-ban-but-masimo.html)
-
----
-
-### 4. Intel suggests it was snubbed by Crimson Desert dev after reaching out "many times" about Arc GPUs company says it provided "early hardware, drivers, and engineering resources" to studio 
-
-Intel blames Pearl Abyss for lack of Arc GPU in Crimson Desert, claiming multiple attempts at collaboration.
-
-💡 *Intel accused of poor communication with game developers about GPU integration.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intel-suggests-it-was-snubbed-by-crimson-desert-dev-after-reaching-out-many-times-about-arc-gpus-company-says-it-provided-early-hardware-drivers-and-engineering-resources-to-studio)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/another-major-japanese-electronics-firm-exits-the-blu-ray-market-elecom-publishes-notice-of-termination-of-nine-external-drives)
 
 ---
 
-### 5. New Fortnite 'Rivalry' includes chance to win RTX 5080 top five players will be awarded GPU hardware in Chapter 7 Season 2 competition 
+### 3. KiCad 10 release Dark mode, graphical DRC rule editor, new file importers, and more 
 
-Fortnite's new 'Rivalry' system offers real-life rewards, including a free RTX 5080, to top players. The competition is part of Chapter 7 Season 2. Players must win 'rivalries' in matches and rank among the top five globally.
+KiCad 10 has been released with various improvements, including dark mode, graphical DRC rules, and new importers. This version was built by hundreds of developers and contributors who submitted over 7,600 unique commits. KiCad 10 also adds new symbols, footprints, and 3D models, as well as several UI and usability improvements.
 
-💡 *Competitive gamers may be motivated by real-life GPU rewards*
+💡 *Kicad 10 enhances digital PCB design with advanced features and tools.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/new-fortnite-rivalry-includes-chance-to-win-rtx-5080-top-five-players-will-be-awarded-gpu-hardware-in-chapter-7-season-2-competition)
-
----
-
-### 6. China develops new ultra-cold alloy that can reach -273 C without helium could enable compact cooling for superconducting quantum chips, military equipment, and beyond 
-
-Chinese scientists developed an ultra-cold alloy that can reach -273 C without helium, enabling compact cooling for superconducting quantum chips, military equipment, and beyond.
-
-💡 *Revolutionizes cooling technology for sensitive, high-tech applications worldwide*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-develops-new-ultra-cold-alloy-that-can-reach-273-c-without-helium-could-enable-compact-cooling-for-superconducting-quantum-chips-military-equipment-and-beyond)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/22/kicad-10-release-dark-mode-graphical-drc-rule-editor-new-file-importers-and-more/)
 
 ---
 
-### 7. Supermicro employees accused of smuggling $2.5 billion worth of Nvidia hardware to China perps used a hairdryer to move serial numbers between real hardware and thousands of dummy servers 
+### 4. SteamOS update adds support for Steam Machine and other non-Valve hardware 
 
-Three Super Micro employees have been charged with smuggling Nvidia hardware to China. They allegedly used a hairdryer to swap serial numbers between real and dummy servers. The total value of the smuggled hardware is estimated at $2.5 billion.
+SteamOS update adds support for non-Valve hardware and fixes various issues.
 
-💡 *US tech security compromised by insider sabotage and theft.*
+💡 *Enhanced compatibility expands Steam Machine's hardware options.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/super-micro-employees-accused-of-smuggling-usd2-5-billion-worth-of-nvidia-hardware-to-china-perps-used-a-hairdryer-to-move-serial-numbers-between-real-hardware-and-thousands-of-dummy-servers)
-
----
-
-### 8. Certified Android devices won t let users sideload APK app files anymore, or at least it won t be straightforward 
-
-Google will require developer verification for sideloading APK files on certified Android devices, starting in September 2026. This involves paying a fee, agreeing to terms, and providing identification. The process will be complex, but still possible for power users.
-
-💡 *Android users will need verification to sideload apps, limiting flexibility.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/20/certified-android-devices-wont-let-user-sideload-apk-app-files-anymore-or-at-least-it-wont-be-straightforward/)
+🔗 [Read Full Article](https://www.techspot.com/news/111771-steamos-beta-update-adds-support-steam-machine-non.html)
 
 ---
 
-### 9. Samsung could be developing a second-gen Galaxy Z TriFold and slidable handset 
+### 5. Intel may finally extend desktop CPU socket support to multiple generations 
 
-Samsung is reportedly testing a second-generation Galaxy Z TriFold with improvements, despite initial discontinuation.
+Intel may extend desktop CPU socket support to multiple CPU generations, a move that could save users from frequent upgrades and improve sustainability.
 
-💡 *Innovation continues despite initial product failure and market limitations.*
+💡 *Longer socket lifespan reduces electronic waste and upgrade costs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111759-samsung-could-developing-second-gen-trifold-slidable-handset.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111773-intel-may-finally-extend-desktop-cpu-socket-support.html)
+
+---
+
+### 6. Cyberpunk 2077 runs on MacBook Neo at over 30 FPS PC gaming is possible with A18 Pro iPhone chip 
+
+A YouTuber successfully ran PC games like Cyberpunk 2077 at over 30 FPS on a MacBook Neo and demonstrated playable frame rates with Apple's iPhone SoCs.
+
+💡 *Emulation technology bridges the gap between mobile and PC gaming capabilities.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/cyberpunk-2077-runs-on-macbook-neo-at-over-30-fps-pc-gaming-is-possible-with-a18-pro-iphone-chip)
+
+---
+
+### 7. Xbox Series X transformed into a gaming PC with 3D printed components, low-profile RTX 5060, and NUC 12 Extreme 
+
+A YouTuber has converted an Xbox Series X into a gaming PC, integrating a NUC 12 Extreme and low-profile RTX 5060. The mod retains the console's DVD drive and adds a PSU for a full PC experience. This unique build showcases the versatility of PC hardware.
+
+💡 *Blurring lines between console and PC gaming with modular hardware*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/youtuber-transforms-xbox-series-x-into-a-gaming-pc-with-3d-printed-components-low-profile-rtx-5060-and-nuc-12-extreme)
 
 ---
 

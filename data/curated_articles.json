@@ -1,276 +1,160 @@
 [
   {
-    "title": "Intel suggests it was snubbed by Crimson Desert dev after reaching out \"many times\" about Arc GPUs company says it provided \"early hardware, drivers, and engineering resources\" to studio",
-    "summary": "Intel has shifted the blame for a lack of Arc GPU in Crimson Desert back on developer Pearl Abyss, saying it's reached out to the studio \"many times\" over the past several years.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/intel-suggests-it-was-snubbed-by-crimson-desert-dev-after-reaching-out-many-times-about-arc-gpus-company-says-it-provided-early-hardware-drivers-and-engineering-resources-to-studio",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.595404"
-  },
-  {
-    "title": "New Fortnite 'Rivalry' includes chance to win RTX 5080 top five players will be awarded GPU hardware in Chapter 7 Season 2 competition",
-    "summary": "Fortnite's new season not only brings new content for the players but also gives them a chance to earn real-life rewards, such as an RTX 5080. If you're good enough at the game and win enough \"rivalries\" in matches every week and rank among the top five players in the world, Epic will give you a free RTX 5080.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/new-fortnite-rivalry-includes-chance-to-win-rtx-5080-top-five-players-will-be-awarded-gpu-hardware-in-chapter-7-season-2-competition",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.595540"
-  },
-  {
-    "title": "Crimson Desert offers no support for Intel GPUs developer Pearl Abyss says 'please refer to the refund policy'",
-    "summary": "Crimson Desert doesn't support Intel GPUs, and the game's developers is telling customers to simply ask for a refund.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/crimson-desert-offers-no-support-for-intel-gpus-developer-pearl-abyss-says-please-refer-to-the-refund-policy",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.595651"
-  },
-  {
-    "title": "AMD releases FSR 4.1 for RX 9000-series GPUs new update delivers better Ray Regeneration, finer upscaled detail, and higher FPS",
-    "summary": "AMD has added Ray Regeneration 1.1 and FSR 4.1 upscaling to its RDNA 4 GPUs, bringing it to parity with Sony's PSSR 2 on the PS5 Pro. Games that support these features will have better ray tracing quality with more accurate shadow detail, while also getting a sharper-looking image through ML-based upscaling.",
-    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-releases-fsr-4-1-for-rx-9000-series-gpus-new-update-delivers-better-ray-regeneration-finer-upscaled-detail-and-higher-fps",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.595780"
-  },
-  {
-    "title": "Planned 10-gigawatt Softbank data center in Ohio might be the largest in the world will require a $33 billion natural gas plant, equivalent to nine nuclear reactors",
-    "summary": "SoftBank is looking forward to building a $60 billion - $70 billion AI data center spanning multiple phases in Ohio.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/planned-10-gigawatt-softbank-data-center-in-ohio-might-be-the-largest-in-the-world-will-require-a-usd33-billion-natural-gas-plant-equivalent-to-nine-nuclear-reactors",
+    "title": "Sony will bring ML-based frame generation to PlayStation consoles the performance-boosting feature is unlikely to arrive this year, though",
+    "summary": "PlayStation 5 architect Mark Cerny said in an interview that Sony will add frame-generation technology to the console in the future, but didn't specify which console will get it or when.",
+    "link": "https://www.tomshardware.com/video-games/playstation/sony-will-bring-ml-based-frame-generation-to-playstation-consoles-the-performance-boosting-feature-is-unlikely-to-arrive-this-year-though",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.595891"
+    "quality_score": 10,
+    "processed_date": "2026-03-22T09:03:29.679665"
   },
   {
-    "title": "Jeff Bezos' Blue Origin reveals 51,600 satellite space data center plans Project Sunrise will operate in sun-synchronous orbits between 500 1,800km in altitude",
-    "summary": "Jeff Bezos Blue Origin has revealed its plans to launch up to 51,600 satellites for a data center constellation in space.",
-    "link": "https://www.tomshardware.com/networking/jeff-bezos-blue-origin-reveals-51-600-satellite-space-data-center-plans-project-sunrise-will-operate-in-sun-synchronous-orbits-between-500-1-800km-in-altitude",
+    "title": "Nintendo Switch 2 overhaul could bring a removable battery new revision aims to comply with the EU's Right to Repair regulations",
+    "summary": "Nintendo is reportedly set to launch a revised Switch 2 with a removable battery in Europe, in line with regulations requiring easier battery replacement by February 2027.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/nintendo-switch-2-overhaul-could-bring-a-removable-battery-new-revision-aims-to-comply-with-the-eus-right-to-repair-regulations",
     "categories": [
+      "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.595996"
+    "processed_date": "2026-03-22T09:03:29.679802"
   },
   {
-    "title": "China develops new ultra-cold alloy that can reach -273 C without helium could enable compact cooling for superconducting quantum chips, military equipment, and beyond",
-    "summary": "Chinese scientists develop europium, cobalt, and aluminum alloy that can be used to cool down quantum computers and military equipment.",
-    "link": "https://www.tomshardware.com/tech-industry/china-develops-new-ultra-cold-alloy-that-can-reach-273-c-without-helium-could-enable-compact-cooling-for-superconducting-quantum-chips-military-equipment-and-beyond",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.596106"
-  },
-  {
-    "title": "Acer Predator XB273U F5 27-inch QHD 360 Hz gaming monitor review: Utilizing G-Sync Pulsar to deliver phenomenal blur reduction",
-    "summary": "G-Sync Pulsar blur reduction tech makes its debut in Acer s Predator XB273U F5. It s a 27-inch QHD IPS screen with 360 Hz, Adaptive-Sync, HDR500, and wide-gamut color. It brings the quickness and smoothness of OLED to the LCD realm.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-xb273u-f5-27-inch-qhd-360-hz-gaming-monitor-review",
+    "title": "Logitech G325 Lightspeed Wireless Gaming Headset Review",
+    "summary": "The Logitech G325 Lightspeed Wireless pairs exceptional comfort with impressive sound quality for a mid-tier price. The microphone leaves something to be desired, but overall, it s a solid all-day wear, even when you re not gaming.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-headsets/logitech-g325-lightspeed-wireless-gaming-headset-review",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-21T09:02:36.596234"
+    "processed_date": "2026-03-22T09:03:29.679939"
   },
   {
-    "title": "Supermicro employees accused of smuggling $2.5 billion worth of Nvidia hardware to China perps used a hairdryer to move serial numbers between real hardware and thousands of dummy servers",
-    "summary": "Three Super Micro employees have been charged with conspiring to unlawfully divert cutting edge U.S. artificial intelligence technology to China.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/super-micro-employees-accused-of-smuggling-usd2-5-billion-worth-of-nvidia-hardware-to-china-perps-used-a-hairdryer-to-move-serial-numbers-between-real-hardware-and-thousands-of-dummy-servers",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.596371"
-  },
-  {
-    "title": "Seller gets scammed as eBay customer returns $4,000 RTX 5090 with missing GPU core and memory modules fully working Zotac stripped of most valuable components and sent back",
-    "summary": "Despite appearing intact, the GPU was missing critical components internally, making the scam difficult to detect without disassembly.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/ebay-seller-gets-scammed-as-customer-returns-usd4-000-rtx-5090-with-missing-gpu-core-and-memory-modules-fully-working-zotac-stripped-of-most-valuable-components-and-sent-back",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.596501"
-  },
-  {
-    "title": "Radxa AICore DX-M1M M.2 2242 low-power AI module delivers 25 TOPS of edge AI performance for just 3W of power",
-    "summary": "Radxa AICore DX-M1M is a compact, low-power M.2 edge AI acceleration module built around the DeepX DX-M1M neural processing unit (NPU) and delivers up to 25 TOPS (INT8) of AI performance while consuming only 3W of power. Designed for industrial robot arms, autonomous mobile robots (AMR), edge servers, drones, and AIoT devices, the module delivers high-performance AI and ML capabilities without blowing the power budget. It relies on a PCIe Gen3 x2 interface and works with both x86 and Arm systems, including the Raspberry Pi 5 and Radxa ROCK SBCs. AICore DX-M1M specifications: AI Accelerator DeepX DX-M1M neural processing unit (NPU) with up to 25 TOPS AI System Memory 1GB LPDDR4X @ 4266 MT/s (on-chip, supports up to 8GB according to DeepX) Storage 1Gbit QSPI NAND / NOR flash Host Interface PCIe Gen 3.0 x4 (supports Gen 1/2/3 and x1/x2) via M.2 M + B Key connector [...] The post Radxa AICore DX-M1M M.2 2242 low-power AI module delivers 25 TOPS of edge AI performance for just 3W of power appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/21/radxa-aicore-dx-m1m-m-2-2242-low-power-ai-module-delivers-25-tops-of-edge-ai-performance-for-just-3w-of-power/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-21T09:02:36.597044"
-  },
-  {
-    "title": "Certified Android devices won t let users sideload APK app files anymore, or at least it won t be straightforward",
-    "summary": "Google won t allow people to (easily) sideload apps through APK files on certified Android devices starting in September 2026. It will still be possible, but either require developer verification and an advanced flow for power users. I was recently made aware of the issue after a BravePipe (previously BraveNewPipe) update, where I was greeted by a pop-up entitled Keep Android Open and linking to a website for more details. The Keep Android Open website explains that the following will be required to install and update an app (APK) on a certified device: Paying a fee to Google Agreeing to Google s Terms and Conditions Providing government identification Uploading evidence of the developer s private signing key Listing all current and future application identifiers This afternoon, I saw an X post about the topic providing more details, and appearing to follow a new post on the Android Developers Blog entitled Android developer verification: [...] The post Certified Android devices won t let users sideload APK app files anymore, or at least it won t be straightforward appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/20/certified-android-devices-wont-let-user-sideload-apk-app-files-anymore-or-at-least-it-wont-be-straightforward/",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.597230"
-  },
-  {
-    "title": "What s going on with Edge AI? And why a Fierce Sensors survey?",
-    "summary": "A short online Fierce online survey asks engineers to describe their work with Edge AI pilots in hopes of revealing insights on why some never make it to production.",
-    "link": "https://www.fiercesensors.com/sensors/whats-going-edge-ai-and-why-fierce-sensors-survey",
+    "title": "Rogue OpenClaw AI wrote and published 'hit piece' on a Python developer who rejected its code disgruntled bot accuses Matplotlib maintainer of discrimination and hypocrisy, later backtracks with an apology",
+    "summary": "An OpenClaw autonomous AI agent has hit back at a volunteer maintainer of a Python library who rejected its code by posting a \"hit piece\" that criticizes the developer and calls them discriminatory against AI.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-openclaw-ai-agent-wrote-and-published-hit-piece-on-a-python-developer-who-rejected-its-code-disgruntled-bot-accuses-matplotlib-maintainer-of-discrimination-and-hypocrisy-later-backtracks-with-an-apology",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.598306"
+    "processed_date": "2026-03-22T09:03:29.680064"
   },
   {
-    "title": "Uber commits up to $1.25 billion in Rivian to deploy 10,000 robotaxis",
-    "summary": "The deal provides both companies with strategic advantages. For Uber, access to a dedicated robotaxi fleet supports its broader push to integrate multiple self-driving partners across its platform. For Rivian, the capital infusion offers financial breathing room and a guaranteed customer as it accelerates the development of autonomous technology. Read Entire Article",
-    "link": "https://www.techspot.com/news/111764-uber-commits-up-125-billion-rivian-build-10000.html",
+    "title": "US Departments of Justice and Defense crush four massive botnets totaling 3,000,000 devices botnets responsible for a combined 316,000 DDoS attacks globally",
+    "summary": "U.S. Departments of Justice and Defense take out four gigantic botnets with 3 million devices",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-departments-of-justice-and-defense-crush-four-massive-botnets-totaling-3-million-devices-botnets-responsible-for-a-combined-316-000-ddos-attacks-globally",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-03-21T09:02:36.598742"
+    "quality_score": 5,
+    "processed_date": "2026-03-22T09:03:29.680170"
   },
   {
-    "title": "Nvidia \"confirms\" DLSS 5 relies on 2D frame data as testing reveals hallucinations",
-    "summary": "According to Nvidia's press materials, DLSS 5 enhances lighting and material interactions without modifying underlying geometry. The company later reiterated this point to HotHardware, while TechSpot also highlighted commentary from Ryan Shrout arguing the tech is not simply a post-processing filter. However, in email exchanges with YouTuber Daniel Owen, Nvidia... Read Entire Article",
-    "link": "https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html",
+    "title": "Microsoft promises major improvements to Windows 11 performance, reliability, and updates lower RAM usage, fewer Copilot interactions, and enhanced File Explorer incoming",
+    "summary": "Microsoft promises serious improvements to Windows 11 performance, reliability, and updates",
+    "link": "https://www.tomshardware.com/software/windows/microsoft-promises-major-improvements-to-windows-11-performance-reliability-and-updates-lower-ram-usage-fewer-copilot-interactions-and-enhanced-file-explorer-incoming",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-22T09:03:29.680275"
+  },
+  {
+    "title": "Cyberpunk 2077 runs on MacBook Neo at over 30 FPS PC gaming is possible with A18 Pro iPhone chip",
+    "summary": "YouTuber runs several PC games on the MacBook Neo, including Cyberpunk 2077 at around 40 FPS. Testing proves that Apple's iPhone SoCs can emulate PC games at playable frame rates.",
+    "link": "https://www.tomshardware.com/laptops/macbooks/cyberpunk-2077-runs-on-macbook-neo-at-over-30-fps-pc-gaming-is-possible-with-a18-pro-iphone-chip",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-22T09:03:29.680388"
+  },
+  {
+    "title": "Xbox Series X transformed into a gaming PC with 3D printed components, low-profile RTX 5060, and NUC 12 Extreme",
+    "summary": "A YouTuber has modded an Xbox Series X with PC parts, featuring a NUC 12 Extreme with a Core i7-12700, low-profile Gigabyte RTX 5060, and PSU while keeping the console's DVD drive intact.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/youtuber-transforms-xbox-series-x-into-a-gaming-pc-with-3d-printed-components-low-profile-rtx-5060-and-nuc-12-extreme",
     "categories": [
       "GPUs",
-      "AI & ML"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.598947"
+    "processed_date": "2026-03-22T09:03:29.680513"
   },
   {
-    "title": "Google isn't backing away from Pentagon AI work, it's doubling down",
-    "summary": "According to Business Insider, the issue came up during a January Google DeepMind town hall, where VP of Global Affairs Tom Lue said the company was \"leaning more\" into national security work. Read Entire Article",
-    "link": "https://www.techspot.com/news/111761-google-leaning-more-pentagon-ai-contracts-despite-employee.html",
+    "title": "Another major Japanese electronics firm exits the Blu-ray market Elecom publishes notice of termination of all external drives",
+    "summary": "Japanese PC peripherals and accessories stalwart Elecom has announced that it is pulling out of the Blu-ray drive market.",
+    "link": "https://www.tomshardware.com/pc-components/storage/another-major-japanese-electronics-firm-exits-the-blu-ray-market-elecom-publishes-notice-of-termination-of-nine-external-drives",
     "categories": [
-      "AI & ML"
+      "Hardware",
+      "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.599131"
+    "quality_score": 10,
+    "processed_date": "2026-03-22T09:03:29.680623"
   },
   {
-    "title": "Reworked Apple Watch avoids ban, but Masimo battle escalates",
-    "summary": "The decision, made public on Thursday, concludes that Apple's latest implementation of pulse-oximetry functionality falls outside the scope of Masimo's asserted rights. The full ITC commission will now review the judge's ruling and decide whether to adopt it a step that will determine whether the redesigned watches remain protected... Read Entire Article",
-    "link": "https://www.techspot.com/news/111762-reworked-apple-watch-avoids-import-ban-but-masimo.html",
+    "title": "KiCad 10 release Dark mode, graphical DRC rule editor, new file importers, and more",
+    "summary": "KiCad 10 open-source EDA software has just been released with support for dark mode, importers for Allegro, PADS, and gEDA/Lepton PCB, and various changes to the Schematic Editor (e.g., hop-over display) and the PCB Editor, notably adding a graphical DRC rule editor. KiCad 10 was built by hundreds of developers, translators, library contributors, and documentation submitters, who submitted 7,609 unique commits after KiCad 9 was released in February 2025. The new version also gains 952 new symbols, 1216 new footprints, and 386 new 3D models. Some UI and usability improvements include dark mode support (Windows only), customizable toolbars, undo/redo support in dialogs, lasso/freeform selection instead of only rectangular selection, and new importers for Allegro, PADS, and gEDA/Lepton PCB. Schematic editing gains support for variants (e.g., single project with different BoM), hop-over display, jumper support, grouping support, and pin table CSV export/import. PCB Design adds time-domain tuning beyond just length constraints [...] The post KiCad 10 release Dark mode, graphical DRC rule editor, new file importers, and more appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/22/kicad-10-release-dark-mode-graphical-drc-rule-editor-new-file-importers-and-more/",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-21T09:02:36.599304"
+    "processed_date": "2026-03-22T09:03:29.681206"
   },
   {
-    "title": "AMD releases Adrenaline 26.3.1 driver, adding FSR 4.1 support for Radeon RX 9000 GPUs",
-    "summary": "FSR 4.1 builds on the FSR Redstone framework by enhancing image reconstruction quality, particularly in older games that natively support only lower-resolution input. It also delivers sharper visuals for machine learning based upscaling, improving detail reconstruction and reducing artifacts in scenes with foliage and other fine textures. However, a... Read Entire Article",
-    "link": "https://www.techspot.com/news/111765-amd-releases-adrenaline-2631-driver-adding-fsr-41.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.599434"
-  },
-  {
-    "title": "Android sideloading remains, but Google introduces stricter \"advanced flow\" process",
-    "summary": "Google has confirmed that Android will not retire app sideloading, but the company is implementing measures that make the process cumbersome something only \"power users\" are likely to attempt. According to Matthew Forsythe, the newly introduced advanced flow is designed to protect users from potential coercion, scams, or malicious software. Read Entire Article",
-    "link": "https://www.techspot.com/news/111754-android-sideloading-remains-but-google-introduces-stricter-advanced.html",
+    "title": "Nintendo redesigns Switch 2 for EU rules with a user-replaceable battery",
+    "summary": "According to a Nikkei report, the update will allow consumers to remove and replace batteries using ordinary tools, without special equipment or risking damage to the device. The more easily repairable model is expected to debut in Europe, with the design expanding to other markets if required by similar legal... Read Entire Article",
+    "link": "https://www.techspot.com/news/111774-nintendo-redesigns-switch-2-eu-law-user-replaceable.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.599555"
+    "processed_date": "2026-03-22T09:03:29.682568"
   },
   {
-    "title": "Quantum cryptography pioneers win Turing Award for unhackable encryption breakthrough",
-    "summary": "The pair will share the $1 million prize for their pioneering work in quantum cryptography and the broader field of quantum information science. Their 1984 paper introducing the BB84 protocol an encryption method based on the fragile nature of photons reimagined how information could be kept secret. At... Read Entire Article",
-    "link": "https://www.techspot.com/news/111757-quantum-cryptography-pioneers-win-turing-award-unhackable-encryption.html",
+    "title": "SteamOS update adds support for Steam Machine and other non-Valve hardware",
+    "summary": "Available now to Steam Deck Preview channel users, the update includes various fixes and improvements that appear aimed at addressing the Linux distro's weaknesses. Many of the changes facilitate connecting displays, controllers, and other external devices. Read Entire Article",
+    "link": "https://www.techspot.com/news/111771-steamos-beta-update-adds-support-steam-machine-non.html",
     "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-21T09:02:36.599686"
-  },
-  {
-    "title": "Crimson Desert won't work on Intel Arc GPUs, developer suggests users ask for refunds",
-    "summary": "Following a slew of mostly average to quite good pre-launch reviews for Crimson Desert, Pearl Abyss' stock price fell almost 30%. It seems many had expected the game to receive Baldur's Gate 3-level praise. Read Entire Article",
-    "link": "https://www.techspot.com/news/111766-crimson-desert-wont-work-intel-arc-gpus-developer.html",
-    "categories": [
-      "GPUs",
+      "Hardware",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-21T09:02:36.599802"
+    "processed_date": "2026-03-22T09:03:29.682693"
   },
   {
-    "title": "Sony to phase out \"PlayStation Network\" branding as early as this fall",
-    "summary": "Sony reportedly sent an email to developers informing them of its decision to phase out the \"PlayStation Network\" and \"PSN\" branding across its platform, ostensibly to \"properly capture the breadth of our evolving digital services.\" The company insists the changes will be \"purely visual\" and will not introduce any technical... Read Entire Article",
-    "link": "https://www.techspot.com/news/111763-sony-phase-out-playstation-network-branding-early-fall.html",
+    "title": "Broadcom's VMware shake-up triggers EU antitrust complaint by cloud providers",
+    "summary": "CISPE claims Broadcom's actions have excluded most European cloud infrastructure partners, sharply reduced competition, and forced smaller firms out of the VMware ecosystem altogether. Read Entire Article",
+    "link": "https://www.techspot.com/news/111772-broadcom-vmware-shake-up-triggers-eu-antitrust-complaint.html",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-21T09:02:36.599918"
-  },
-  {
-    "title": "Samsung could be developing a second-gen Galaxy Z TriFold and slidable handset",
-    "summary": "While the first TriFold was discontinued after just a few months on the market, the report suggests that Samsung has not entirely backed away from multifold hardware. Instead, the company is said to be testing the feasibility of a lighter but slightly thicker second-generation model. Read Entire Article",
-    "link": "https://www.techspot.com/news/111759-samsung-could-developing-second-gen-trifold-slidable-handset.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.600033"
+    "processed_date": "2026-03-22T09:03:29.682809"
   },
   {
-    "title": "Counter-Strike 2 update overhauls ammo system, punishes early reloads",
-    "summary": "A recent update for Valve's free-to-play tactical multiplayer shooter completely overhauls how Steam's most popular game handles ammunition. The new rules are designed to encourage greater caution before opening fire and reloading. Read Entire Article",
-    "link": "https://www.techspot.com/news/111755-counter-strike-2-update-overhauls-ammo-system-punishes.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.600145"
-  },
-  {
-    "title": "Watch this restaurant robot malfunction and scatter tableware during live performance",
-    "summary": "The incident quickly spread online, sparking both amusement and debate about safety features, oversight, and the wisdom of deploying consumer-facing robots in uncontrolled settings. Read Entire Article",
-    "link": "https://www.techspot.com/news/111756-watch-restaurant-robot-malfunction-scatter-tableware-during-live.html",
+    "title": "Scientists find all five genetic building blocks for life in asteroid Ryugu",
+    "summary": "Researchers are still studying samples of Ryugu collected by the Japanese Aerospace Exploration Agency from its Hayabusa2 mission. After the first papers focused on the composition of the recovered material, a Japanese team has now found a \"complete\" set of genetic bases belonging to both DNA and RNA. Read Entire Article",
+    "link": "https://www.techspot.com/news/111769-researchers-find-all-five-genetic-building-blocks-life.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-21T09:02:36.600269"
+    "processed_date": "2026-03-22T09:03:29.682924"
   },
   {
-    "title": "Walmart secures two AI pricing patents, raising dynamic pricing concerns",
-    "summary": "Walmart says the new systems are not designed for surge or individualized pricing, but their capabilities arrive at a moment when lawmakers are moving to restrict precisely those practices. Read Entire Article",
-    "link": "https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html",
+    "title": "Intel may finally extend desktop CPU socket support to multiple generations",
+    "summary": "In an interview with Club386, Hallock gave a short but telling answer when asked whether he envisioned Intel sockets supporting more CPU generations. \"I do,\" he said. \"That's it I do.\" Although he offered no technical details, the simplicity of that response hints at a deliberate and possibly overdue... Read Entire Article",
+    "link": "https://www.techspot.com/news/111773-intel-may-finally-extend-desktop-cpu-socket-support.html",
     "categories": [
+      "Hardware",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-21T09:02:36.600399"
+    "quality_score": 10,
+    "processed_date": "2026-03-22T09:03:29.683042"
   }
 ]

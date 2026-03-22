@@ -1,5 +1,5 @@
 # 📰 Tech News
-**Week of March 21, 2026**
+**Week of March 22, 2026**
 
 *Industry news and product launches*
 
@@ -7,69 +7,69 @@
 
 ## 📊 Summary
 - **Articles this week:** 6
-- **Report generated:** 2026-03-21 09:03
+- **Report generated:** 2026-03-22 09:04
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Quantum cryptography pioneers win Turing Award for unhackable encryption breakthrough 
+### 1. Microsoft promises major improvements to Windows 11 performance, reliability, and updates lower RAM usage, fewer Copilot interactions, and enhanced File Explorer incoming 
 
-A pair of pioneers in quantum cryptography won the Turing Award for their work on the BB84 protocol, an encryption method that relies on the fragile nature of photons.
+Microsoft is set to improve Windows 11's performance, reliability, and updates. The changes will include lower RAM usage and fewer Copilot interactions. Enhanced File Explorer features are also expected.
 
-💡 *Unhackable encryption breakthrough secures sensitive information with quantum science.*
+💡 *Boosting Windows 11 performance will enhance user experience significantly*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111757-quantum-cryptography-pioneers-win-turing-award-unhackable-encryption.html)
-
----
-
-### 2. Crimson Desert won't work on Intel Arc GPUs, developer suggests users ask for refunds 
-
-Crimson Desert's underwhelming performance has led to a significant drop in Pearl Abyss' stock price, indicating investor disappointment. The game's lack of compatibility with Intel Arc GPUs has been cited as a major issue. Developer suggests users consider refunds due to this problem.
-
-💡 *Intel Arc GPU incompatibility hurts Crimson Desert's market appeal significantly.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111766-crimson-desert-wont-work-intel-arc-gpus-developer.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-promises-major-improvements-to-windows-11-performance-reliability-and-updates-lower-ram-usage-fewer-copilot-interactions-and-enhanced-file-explorer-incoming)
 
 ---
 
-### 3. Watch this restaurant robot malfunction and scatter tableware during live performance 
+### 2. Another major Japanese electronics firm exits the Blu-ray market Elecom publishes notice of termination of all external drives 
 
-A restaurant robot malfunctioned during a live performance, scattering tableware. The incident quickly gained online attention, sparking debate about safety features and the use of robots in public settings. Consumers are questioning the wisdom of deploying robots in uncontrolled environments.
+Elecom has announced the termination of its Blu-ray drive products. This marks another major Japanese electronics firm exiting the Blu-ray market. The decision may signal a decline in consumer demand for the format.
 
-💡 *Safety features of consumer-facing robots are insufficient for public use.*
+💡 *Decline in Blu-ray format demand impacts Japanese electronics industry*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111756-watch-restaurant-robot-malfunction-scatter-tableware-during-live.html)
-
----
-
-### 4. Jeff Bezos' Blue Origin reveals 51,600 satellite space data center plans Project Sunrise will operate in sun-synchronous orbits between 500 1,800km in altitude 
-
-Jeff Bezos' Blue Origin plans to launch 51,600 satellites for a space data center. The satellites will operate in sun-synchronous orbits between 500 and 1,800km in altitude. Project Sunrise aims to provide global connectivity and data storage.
-
-💡 *Revolutionizing global data storage and connectivity with massive satellite constellations*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/jeff-bezos-blue-origin-reveals-51-600-satellite-space-data-center-plans-project-sunrise-will-operate-in-sun-synchronous-orbits-between-500-1-800km-in-altitude)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/another-major-japanese-electronics-firm-exits-the-blu-ray-market-elecom-publishes-notice-of-termination-of-nine-external-drives)
 
 ---
 
-### 5. Counter-Strike 2 update overhauls ammo system, punishes early reloads 
+### 3. SteamOS update adds support for Steam Machine and other non-Valve hardware 
 
-Counter-Strike 2's update overhauls ammo system to encourage caution in gameplay.
+SteamOS update adds support for non-Valve hardware and fixes various issues.
 
-💡 *Rewards strategic decision-making over impulsive gameplay tactics prevail.*
+💡 *Enhanced compatibility expands Steam Machine's hardware options.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111755-counter-strike-2-update-overhauls-ammo-system-punishes.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111771-steamos-beta-update-adds-support-steam-machine-non.html)
 
 ---
 
-### 6. Uber commits up to $1.25 billion in Rivian to deploy 10,000 robotaxis 
+### 4. Scientists find all five genetic building blocks for life in asteroid Ryugu 
 
-Uber commits up to $1.25 billion to deploy 10,000 Rivian robotaxis, gaining strategic benefits.
+Scientists have discovered a complete set of genetic building blocks in samples from asteroid Ryugu. The findings, made by a Japanese team, include both DNA and RNA genetic bases. Researchers are studying samples collected from the Hayabusa2 mission.
 
-💡 *Autonomous technology partnerships drive innovation and financial stability.*
+💡 *Discovery of genetic building blocks on asteroid Ryugu suggests extraterrestrial life potential*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111764-uber-commits-up-125-billion-rivian-build-10000.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111769-researchers-find-all-five-genetic-building-blocks-life.html)
+
+---
+
+### 5. Nintendo Switch 2 overhaul could bring a removable battery new revision aims to comply with the EU's Right to Repair regulations 
+
+Nintendo's revised Switch 2 with a removable battery is set to comply with EU's Right to Repair regulations, potentially making battery replacement easier for consumers. The revised console is expected to launch in Europe by February 2027. This change aims to reduce electronic waste and promote sustainability.
+
+💡 *EU's Right to Repair regulations drive console design changes*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/nintendo-switch-2-overhaul-could-bring-a-removable-battery-new-revision-aims-to-comply-with-the-eus-right-to-repair-regulations)
+
+---
+
+### 6. US Departments of Justice and Defense crush four massive botnets totaling 3,000,000 devices botnets responsible for a combined 316,000 DDoS attacks globally 
+
+US Departments of Justice and Defense have dismantled four massive botnets, consisting of 3,000,000 devices, that were responsible for a combined 316,000 DDoS attacks globally.
+
+💡 *Crushing massive botnets significantly reduces global cyber threats and disruptions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/us-departments-of-justice-and-defense-crush-four-massive-botnets-totaling-3-million-devices-botnets-responsible-for-a-combined-316-000-ddos-attacks-globally)
 
 ---
 

@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of March 21, 2026**
+**Week of March 22, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,76 +7,75 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Radxa AICore DX-M1M M.2 2242 low-power AI module delivers 25 TOPS of edge AI performance for just 3W of power ⭐
-
-**💻 Hardware**
-
-Radxa's AICore DX-M1M M.2 module delivers 25 TOPS AI performance at 3W power, suitable for industrial edge AI applications.
-
-💡 **Key Point:** Ultra-low power AI computing accelerates industrial edge AI adoption.
-
-🔗 [Read More](https://www.cnx-software.com/2026/03/21/radxa-aicore-dx-m1m-m-2-2242-low-power-ai-module-delivers-25-tops-of-edge-ai-performance-for-just-3w-of-power/)
-
----
-
-### 2. Radxa AICore DX-M1M M.2 2242 low-power AI module delivers 25 TOPS of edge AI performance for just 3W of power ⭐
+### 1. Sony will bring ML-based frame generation to PlayStation consoles the performance-boosting feature is unlikely to arrive this year, though 
 
 **🤖 AI & ML**
 
-Radxa's AICore DX-M1M M.2 module delivers 25 TOPS AI performance at 3W power, suitable for industrial edge AI applications.
+Sony plans to add frame-generation technology to PlayStation consoles, but no timeline given.
 
-💡 **Key Point:** Ultra-low power AI computing accelerates industrial edge AI adoption.
+💡 **Key Point:** Enhanced gaming performance with AI-driven frame generation on the horizon.
 
-🔗 [Read More](https://www.cnx-software.com/2026/03/21/radxa-aicore-dx-m1m-m-2-2242-low-power-ai-module-delivers-25-tops-of-edge-ai-performance-for-just-3w-of-power/)
-
----
-
-### 3. Acer Predator XB273U F5 27-inch QHD 360 Hz gaming monitor review: Utilizing G-Sync Pulsar to deliver phenomenal blur reduction 
-
-**💻 Hardware**
-
-The Acer Predator XB273U F5 features a 27-inch QHD IPS screen with 360 Hz refresh rate, HDR500, and G-Sync Pulsar technology for reduced blur and improved gaming performance. It offers wide-gamut color and Adaptive-Sync support for a seamless gaming experience. The display's 360 Hz refresh rate and G-Sync Pulsar tech make it ideal for fast-paced games.
-
-💡 **Key Point:** Blurs are eliminated in high-speed gaming with G-Sync Pulsar
-
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-xb273u-f5-27-inch-qhd-360-hz-gaming-monitor-review)
+🔗 [Read More](https://www.tomshardware.com/video-games/playstation/sony-will-bring-ml-based-frame-generation-to-playstation-consoles-the-performance-boosting-feature-is-unlikely-to-arrive-this-year-though)
 
 ---
 
-### 4. Reworked Apple Watch avoids ban, but Masimo battle escalates 
+### 2. KiCad 10 release Dark mode, graphical DRC rule editor, new file importers, and more 
 
-**💻 Hardware**
+**🤖 AI & ML**
 
-Apple's revised Apple Watch avoids ban after court ruling. The decision concludes that Apple's implementation falls outside Masimo's asserted rights.
+KiCad 10 has been released with various improvements, including dark mode, graphical DRC rules, and new importers. This version was built by hundreds of developers and contributors who submitted over 7,600 unique commits. KiCad 10 also adds new symbols, footprints, and 3D models, as well as several UI and usability improvements.
 
-💡 **Key Point:** Patent dispute resolution may affect future wearable technology development
+💡 **Key Point:** Kicad 10 enhances digital PCB design with advanced features and tools.
 
-🔗 [Read More](https://www.techspot.com/news/111762-reworked-apple-watch-avoids-import-ban-but-masimo.html)
+🔗 [Read More](https://www.cnx-software.com/2026/03/22/kicad-10-release-dark-mode-graphical-drc-rule-editor-new-file-importers-and-more/)
 
 ---
 
-### 5. Acer Predator XB273U F5 27-inch QHD 360 Hz gaming monitor review: Utilizing G-Sync Pulsar to deliver phenomenal blur reduction 
+### 3. Intel may finally extend desktop CPU socket support to multiple generations 
 
-**🎮 GPUs**
+**🤖 AI & ML**
 
-The Acer Predator XB273U F5 features a 27-inch QHD IPS screen with 360 Hz refresh rate, HDR500, and G-Sync Pulsar technology for reduced blur and improved gaming performance. It offers wide-gamut color and Adaptive-Sync support for a seamless gaming experience. The display's 360 Hz refresh rate and G-Sync Pulsar tech make it ideal for fast-paced games.
+Intel may extend desktop CPU socket support to multiple CPU generations, a move that could save users from frequent upgrades and improve sustainability.
 
-💡 **Key Point:** Blurs are eliminated in high-speed gaming with G-Sync Pulsar
+💡 **Key Point:** Longer socket lifespan reduces electronic waste and upgrade costs.
 
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-xb273u-f5-27-inch-qhd-360-hz-gaming-monitor-review)
+🔗 [Read More](https://www.techspot.com/news/111773-intel-may-finally-extend-desktop-cpu-socket-support.html)
+
+---
+
+### 4. Microsoft promises major improvements to Windows 11 performance, reliability, and updates lower RAM usage, fewer Copilot interactions, and enhanced File Explorer incoming 
+
+**📰 Tech News**
+
+Microsoft is set to improve Windows 11's performance, reliability, and updates. The changes will include lower RAM usage and fewer Copilot interactions. Enhanced File Explorer features are also expected.
+
+💡 **Key Point:** Boosting Windows 11 performance will enhance user experience significantly
+
+🔗 [Read More](https://www.tomshardware.com/software/windows/microsoft-promises-major-improvements-to-windows-11-performance-reliability-and-updates-lower-ram-usage-fewer-copilot-interactions-and-enhanced-file-explorer-incoming)
+
+---
+
+### 5. Another major Japanese electronics firm exits the Blu-ray market Elecom publishes notice of termination of all external drives 
+
+**📰 Tech News**
+
+Elecom has announced the termination of its Blu-ray drive products. This marks another major Japanese electronics firm exiting the Blu-ray market. The decision may signal a decline in consumer demand for the format.
+
+💡 **Key Point:** Decline in Blu-ray format demand impacts Japanese electronics industry
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/storage/another-major-japanese-electronics-firm-exits-the-blu-ray-market-elecom-publishes-notice-of-termination-of-nine-external-drives)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **40 articles** across **5 focused categories**.
+We covered **23 articles** across **4 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 15 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 9 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 9 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 1 | Chip manufacturing and design |
+| 🤖 [AI & ML](ai_and_ml.md) | 7 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 7 | Computing hardware and development boards |
 | 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
 
 ---
@@ -84,16 +83,13 @@ We covered **40 articles** across **5 focused categories**.
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 15 articles
+*Artificial Intelligence and Machine Learning* — 7 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 9 articles
+*Graphics cards and compute accelerators* — 3 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 9 articles
-
-### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 1 articles
+*Computing hardware and development boards* — 7 articles
 
 ### 📰 [Tech News](tech_news.md)
 *Industry news and product launches* — 6 articles
@@ -102,6 +98,6 @@ We covered **40 articles** across **5 focused categories**.
 
 ## 📅 About
 
-Generated 2026-03-21 at 09:03 by an autonomous AI curation system.
+Generated 2026-03-22 at 09:04 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
