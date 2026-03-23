@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of March 22, 2026**
+**Week of March 23, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,97 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Sony will bring ML-based frame generation to PlayStation consoles the performance-boosting feature is unlikely to arrive this year, though 
+### 1. ESP32-P4 revision 3.0 gains new power rail, requires new PCB design and firmware ⭐
 
-**🤖 AI & ML**
+**💻 Hardware**
 
-Sony plans to add frame-generation technology to PlayStation consoles, but no timeline given.
+Espressif's ESP32-P4 revision 3.0 introduces a new power rail and requires updated designs.
 
-💡 **Key Point:** Enhanced gaming performance with AI-driven frame generation on the horizon.
+💡 **Key Point:** New power rail improves high-performance digital domain stability and reliability
 
-🔗 [Read More](https://www.tomshardware.com/video-games/playstation/sony-will-bring-ml-based-frame-generation-to-playstation-consoles-the-performance-boosting-feature-is-unlikely-to-arrive-this-year-though)
-
----
-
-### 2. KiCad 10 release Dark mode, graphical DRC rule editor, new file importers, and more 
-
-**🤖 AI & ML**
-
-KiCad 10 has been released with various improvements, including dark mode, graphical DRC rules, and new importers. This version was built by hundreds of developers and contributors who submitted over 7,600 unique commits. KiCad 10 also adds new symbols, footprints, and 3D models, as well as several UI and usability improvements.
-
-💡 **Key Point:** Kicad 10 enhances digital PCB design with advanced features and tools.
-
-🔗 [Read More](https://www.cnx-software.com/2026/03/22/kicad-10-release-dark-mode-graphical-drc-rule-editor-new-file-importers-and-more/)
+🔗 [Read More](https://www.cnx-software.com/2026/03/23/esp32-p4-revision-3-0-gains-new-power-rail-requires-new-pcb-design-and-firmware/)
 
 ---
 
-### 3. Intel may finally extend desktop CPU socket support to multiple generations 
-
-**🤖 AI & ML**
-
-Intel may extend desktop CPU socket support to multiple CPU generations, a move that could save users from frequent upgrades and improve sustainability.
-
-💡 **Key Point:** Longer socket lifespan reduces electronic waste and upgrade costs.
-
-🔗 [Read More](https://www.techspot.com/news/111773-intel-may-finally-extend-desktop-cpu-socket-support.html)
-
----
-
-### 4. Microsoft promises major improvements to Windows 11 performance, reliability, and updates lower RAM usage, fewer Copilot interactions, and enhanced File Explorer incoming 
+### 2. ESP32-P4 revision 3.0 gains new power rail, requires new PCB design and firmware ⭐
 
 **📰 Tech News**
 
-Microsoft is set to improve Windows 11's performance, reliability, and updates. The changes will include lower RAM usage and fewer Copilot interactions. Enhanced File Explorer features are also expected.
+Espressif's ESP32-P4 revision 3.0 introduces a new power rail and requires updated designs.
 
-💡 **Key Point:** Boosting Windows 11 performance will enhance user experience significantly
+💡 **Key Point:** New power rail improves high-performance digital domain stability and reliability
 
-🔗 [Read More](https://www.tomshardware.com/software/windows/microsoft-promises-major-improvements-to-windows-11-performance-reliability-and-updates-lower-ram-usage-fewer-copilot-interactions-and-enhanced-file-explorer-incoming)
+🔗 [Read More](https://www.cnx-software.com/2026/03/23/esp32-p4-revision-3-0-gains-new-power-rail-requires-new-pcb-design-and-firmware/)
 
 ---
 
-### 5. Another major Japanese electronics firm exits the Blu-ray market Elecom publishes notice of termination of all external drives 
+### 3. Ohm Lab Neuro N6 Modular STM32N6 AI Vision devkit supports rolling shutter, global shutter, or thermal camera (Crowdfunding) ⭐
 
-**📰 Tech News**
+**🤖 AI & ML**
 
-Elecom has announced the termination of its Blu-ray drive products. This marks another major Japanese electronics firm exiting the Blu-ray market. The decision may signal a decline in consumer demand for the format.
+Ohm Lab Neuro N6 is a compact, modular AI Vision devkit powered by an STMicro STM32N6 microcontroller, offering various camera options and expansion capabilities.
 
-💡 **Key Point:** Decline in Blu-ray format demand impacts Japanese electronics industry
+💡 **Key Point:** Edge AI processing for real-time vision applications with high performance and flexibility.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/storage/another-major-japanese-electronics-firm-exits-the-blu-ray-market-elecom-publishes-notice-of-termination-of-nine-external-drives)
+🔗 [Read More](https://www.cnx-software.com/2026/03/23/ohm-lab-neuro-n6-modular-stm32n6-ai-vision-devkit-support-rolling-shutter-global-shutter-or-thermal-camera/)
+
+---
+
+### 4. Ohm Lab Neuro N6 Modular STM32N6 AI Vision devkit supports rolling shutter, global shutter, or thermal camera (Crowdfunding) ⭐
+
+**💻 Hardware**
+
+Ohm Lab Neuro N6 is a compact, modular AI Vision devkit powered by an STMicro STM32N6 microcontroller, offering various camera options and expansion capabilities.
+
+💡 **Key Point:** Edge AI processing for real-time vision applications with high performance and flexibility.
+
+🔗 [Read More](https://www.cnx-software.com/2026/03/23/ohm-lab-neuro-n6-modular-stm32n6-ai-vision-devkit-support-rolling-shutter-global-shutter-or-thermal-camera/)
+
+---
+
+### 5. Grab the Sapphire Nitro+ Radeon RX 9070 XT for $799.99 comes bundled with 1000W PSU and free copy of Crimson Desert ⭐
+
+**🎮 GPUs**
+
+The Sapphire Nitro+ Radeon RX 9070 XT features AMD's RDNA 4 architecture, offering exceptional 1440p and 4K gaming performance. This graphics card is currently the company's most powerful offering. It comes bundled with a 1000W PSU and a free copy of Crimson Desert.
+
+💡 **Key Point:** Unbeatable 4K gaming performance with bundled premium features
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/grab-the-sapphire-nitro-radeon-rx-9070-xt-for-usd799-99-comes-bundled-with-1000w-psu-and-free-copy-of-crimson-desert)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **23 articles** across **4 focused categories**.
+We covered **29 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 7 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 7 | Computing hardware and development boards |
-| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 9 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 2 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 9 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 5 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 7 articles
+*Artificial Intelligence and Machine Learning* — 9 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 3 articles
+*Graphics cards and compute accelerators* — 2 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 7 articles
+*Computing hardware and development boards* — 9 articles
+
+### ⚡ [Semiconductors](semiconductors.md)
+*Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 6 articles
+*Industry news and product launches* — 5 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-03-22 at 09:04 by an autonomous AI curation system.
+Generated 2026-03-23 at 09:45 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

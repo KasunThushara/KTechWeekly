@@ -1,75 +1,65 @@
 # 📰 Tech News
-**Week of March 22, 2026**
+**Week of March 23, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-03-22 09:04
+- **Articles this week:** 5
+- **Report generated:** 2026-03-23 09:45
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Microsoft promises major improvements to Windows 11 performance, reliability, and updates lower RAM usage, fewer Copilot interactions, and enhanced File Explorer incoming 
+### 1. ESP32-P4 revision 3.0 gains new power rail, requires new PCB design and firmware ⭐
 
-Microsoft is set to improve Windows 11's performance, reliability, and updates. The changes will include lower RAM usage and fewer Copilot interactions. Enhanced File Explorer features are also expected.
+Espressif's ESP32-P4 revision 3.0 introduces a new power rail and requires updated designs.
 
-💡 *Boosting Windows 11 performance will enhance user experience significantly*
+💡 *New power rail improves high-performance digital domain stability and reliability*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-promises-major-improvements-to-windows-11-performance-reliability-and-updates-lower-ram-usage-fewer-copilot-interactions-and-enhanced-file-explorer-incoming)
-
----
-
-### 2. Another major Japanese electronics firm exits the Blu-ray market Elecom publishes notice of termination of all external drives 
-
-Elecom has announced the termination of its Blu-ray drive products. This marks another major Japanese electronics firm exiting the Blu-ray market. The decision may signal a decline in consumer demand for the format.
-
-💡 *Decline in Blu-ray format demand impacts Japanese electronics industry*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/another-major-japanese-electronics-firm-exits-the-blu-ray-market-elecom-publishes-notice-of-termination-of-nine-external-drives)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/23/esp32-p4-revision-3-0-gains-new-power-rail-requires-new-pcb-design-and-firmware/)
 
 ---
 
-### 3. SteamOS update adds support for Steam Machine and other non-Valve hardware 
+### 2. California scientists 'FlyTrap attack' on DJI drones demonstrated patterned umbrellas lure autonomous drones close enough to be captured or even induced to crash 
 
-SteamOS update adds support for non-Valve hardware and fixes various issues.
+Researchers at UC Irvine developed a technique using patterned umbrellas to capture or crash DJI drones, exploiting autonomous navigation patterns.
 
-💡 *Enhanced compatibility expands Steam Machine's hardware options.*
+💡 *Exploiting AI-driven navigation flaws in autonomous drones for counter-measures*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111771-steamos-beta-update-adds-support-steam-machine-non.html)
-
----
-
-### 4. Scientists find all five genetic building blocks for life in asteroid Ryugu 
-
-Scientists have discovered a complete set of genetic building blocks in samples from asteroid Ryugu. The findings, made by a Japanese team, include both DNA and RNA genetic bases. Researchers are studying samples collected from the Hayabusa2 mission.
-
-💡 *Discovery of genetic building blocks on asteroid Ryugu suggests extraterrestrial life potential*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111769-researchers-find-all-five-genetic-building-blocks-life.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/california-scientists-flytrap-attack-on-dji-drones-demonstrated-patterned-umbrellas-lure-autonomous-drones-close-enough-to-be-captured-or-even-induced-to-crash)
 
 ---
 
-### 5. Nintendo Switch 2 overhaul could bring a removable battery new revision aims to comply with the EU's Right to Repair regulations 
+### 3. Intel released its first Pentium chip on this day 33 years ago, came packing 3.1 million transistors fifth-gen x86 chip built on an 800nm process 
 
-Nintendo's revised Switch 2 with a removable battery is set to comply with EU's Right to Repair regulations, potentially making battery replacement easier for consumers. The revised console is expected to launch in Europe by February 2027. This change aims to reduce electronic waste and promote sustainability.
+Intel released its first Pentium chip 33 years ago, marking the beginning of a new era in personal computing. The chip featured 3.1 million transistors and was built on an 800nm process, showcasing the company's advancements in semiconductor technology.
 
-💡 *EU's Right to Repair regulations drive console design changes*
+💡 *Advancement in processor design revolutionized personal computing forever after.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/nintendo-switch-2-overhaul-could-bring-a-removable-battery-new-revision-aims-to-comply-with-the-eus-right-to-repair-regulations)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-released-its-first-pentium-chip-on-this-day-33-years-ago-came-packing-3-1-million-transistors-fifth-gen-x86-chip-built-on-an-800nm-process)
 
 ---
 
-### 6. US Departments of Justice and Defense crush four massive botnets totaling 3,000,000 devices botnets responsible for a combined 316,000 DDoS attacks globally 
+### 4. Blacklyte Athena Pro Review: Watch out, Secretlab? 
 
-US Departments of Justice and Defense have dismantled four massive botnets, consisting of 3,000,000 devices, that were responsible for a combined 316,000 DDoS attacks globally.
+The Blacklyte Athena Pro gaming chair is well-made and comfortable, but its design and features closely resemble Secretlab's Titan model. It offers good support and a smooth gaming experience. However, its originality and value proposition are compromised by its similarity to an existing product.
 
-💡 *Crushing massive botnets significantly reduces global cyber threats and disruptions.*
+💡 *Lack of originality in design may impact market differentiation.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/us-departments-of-justice-and-defense-crush-four-massive-botnets-totaling-3-million-devices-botnets-responsible-for-a-combined-316-000-ddos-attacks-globally)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/blacklyte-athena-pro-review)
+
+---
+
+### 5. City has roads named Tape Drive and Disk Drive from bygone HDD-making era area was once home to the StorageTek empire 
+
+Tape Drive and Disk Drive roads in the Louisville/Broomfield area are named after the city's history with StorageTek, a legendary HDD manufacturer from the bygone era. StorageTek operated in the area and played a significant role in shaping the region's identity. The roads serve as a nostalgic reminder of the city's past.
+
+💡 *Local roads preserve history of a once-thriving HDD industry hub*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/city-has-roads-named-tape-drive-and-disk-drive-from-bygone-hdd-making-era-area-was-once-home-to-the-storagetek-empire)
 
 ---
 

@@ -1,85 +1,105 @@
 # 💻 Hardware
-**Week of March 22, 2026**
+**Week of March 23, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-03-22 09:04
+- **Articles this week:** 9
+- **Report generated:** 2026-03-23 09:45
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Logitech G325 Lightspeed Wireless Gaming Headset Review 
+### 1. ESP32-P4 revision 3.0 gains new power rail, requires new PCB design and firmware ⭐
 
-The Logitech G325 Lightspeed Wireless offers comfort and sound quality at a mid-tier price, making it a solid choice for all-day wear, including non-gaming activities. The headset's design prioritizes comfort, ensuring it remains suitable for extended periods. However, the microphone performance is somewhat lacking.
+Espressif's ESP32-P4 revision 3.0 introduces a new power rail and requires updated designs.
 
-💡 *Affordable comfort and sound quality for long gaming sessions*
+💡 *New power rail improves high-performance digital domain stability and reliability*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/logitech-g325-lightspeed-wireless-gaming-headset-review)
-
----
-
-### 2. Another major Japanese electronics firm exits the Blu-ray market Elecom publishes notice of termination of all external drives 
-
-Elecom has announced the termination of its Blu-ray drive products. This marks another major Japanese electronics firm exiting the Blu-ray market. The decision may signal a decline in consumer demand for the format.
-
-💡 *Decline in Blu-ray format demand impacts Japanese electronics industry*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/another-major-japanese-electronics-firm-exits-the-blu-ray-market-elecom-publishes-notice-of-termination-of-nine-external-drives)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/23/esp32-p4-revision-3-0-gains-new-power-rail-requires-new-pcb-design-and-firmware/)
 
 ---
 
-### 3. KiCad 10 release Dark mode, graphical DRC rule editor, new file importers, and more 
+### 2. Ohm Lab Neuro N6 Modular STM32N6 AI Vision devkit supports rolling shutter, global shutter, or thermal camera (Crowdfunding) ⭐
 
-KiCad 10 has been released with various improvements, including dark mode, graphical DRC rules, and new importers. This version was built by hundreds of developers and contributors who submitted over 7,600 unique commits. KiCad 10 also adds new symbols, footprints, and 3D models, as well as several UI and usability improvements.
+Ohm Lab Neuro N6 is a compact, modular AI Vision devkit powered by an STMicro STM32N6 microcontroller, offering various camera options and expansion capabilities.
 
-💡 *Kicad 10 enhances digital PCB design with advanced features and tools.*
+💡 *Edge AI processing for real-time vision applications with high performance and flexibility.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/22/kicad-10-release-dark-mode-graphical-drc-rule-editor-new-file-importers-and-more/)
-
----
-
-### 4. SteamOS update adds support for Steam Machine and other non-Valve hardware 
-
-SteamOS update adds support for non-Valve hardware and fixes various issues.
-
-💡 *Enhanced compatibility expands Steam Machine's hardware options.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111771-steamos-beta-update-adds-support-steam-machine-non.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/23/ohm-lab-neuro-n6-modular-stm32n6-ai-vision-devkit-support-rolling-shutter-global-shutter-or-thermal-camera/)
 
 ---
 
-### 5. Intel may finally extend desktop CPU socket support to multiple generations 
+### 3. Elon Musk unveils $20 billion TeraFab chip project to make chips, memory, and package processors all under one roof targets a terawatt of annual compute 
 
-Intel may extend desktop CPU socket support to multiple CPU generations, a move that could save users from frequent upgrades and improve sustainability.
+Elon Musk unveils TeraFab project, a $20 billion chip factory in Texas, to produce chips, memory, and packaged processors under one roof, targeting a terawatt of annual compute.
 
-💡 *Longer socket lifespan reduces electronic waste and upgrade costs.*
+💡 *Game-changing chip manufacturing could disrupt global semiconductor industry dominance.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111773-intel-may-finally-extend-desktop-cpu-socket-support.html)
-
----
-
-### 6. Cyberpunk 2077 runs on MacBook Neo at over 30 FPS PC gaming is possible with A18 Pro iPhone chip 
-
-A YouTuber successfully ran PC games like Cyberpunk 2077 at over 30 FPS on a MacBook Neo and demonstrated playable frame rates with Apple's iPhone SoCs.
-
-💡 *Emulation technology bridges the gap between mobile and PC gaming capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/cyberpunk-2077-runs-on-macbook-neo-at-over-30-fps-pc-gaming-is-possible-with-a18-pro-iphone-chip)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/elon-musk-formally-launches-20-billion-terafab-chip-project)
 
 ---
 
-### 7. Xbox Series X transformed into a gaming PC with 3D printed components, low-profile RTX 5060, and NUC 12 Extreme 
+### 4. CIX ClawCore Armv9.2 CPU family targets OpenClaw deployments 
 
-A YouTuber has converted an Xbox Series X into a gaming PC, integrating a NUC 12 Extreme and low-profile RTX 5060. The mod retains the console's DVD drive and adds a PSU for a full PC experience. This unique build showcases the versatility of PC hardware.
+CIX introduces the ClawCore Armv9.2 CPU family optimized for OpenClaw, with three SKUs catering to high-performance and AI workloads. The lineup includes a powerful model with 12-core CPU and 45 TOPS AI compute, as well as an AI-focused model with 80 TOPS AI compute and hardware security features. Shipping starts in March 2026.
 
-💡 *Blurring lines between console and PC gaming with modular hardware*
+💡 *Optimized CPUs enable faster, more efficient OpenClaw deployments*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/youtuber-transforms-xbox-series-x-into-a-gaming-pc-with-3d-printed-components-low-profile-rtx-5060-and-nuc-12-extreme)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/23/cix-clawcore-armv9-2-cpu-family-targets-openclaw-deployments/)
+
+---
+
+### 5. MSI targets Apple's MacBook Neo with new budget Modern laptops 
+
+MSI targets Apple's MacBook Neo with budget Modern laptops offering improved performance and features.
+
+💡 *MSI challenges Apple's MacBook Neo with high-performance budget laptops.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111777-msi-splits-modern-14s-16s-laptops-core-ultra.html)
+
+---
+
+### 6. Crimson Desert Optimization: Best Settings for Performance and Visual Quality 
+
+Crimson Desert optimization helps achieve best balance of image quality and performance. We examine every setting to find optimal trade-offs. This guide provides expert recommendations for a smooth gaming experience.
+
+💡 *Optimizing Crimson Desert settings reduces visual noise and boosts performance significantly*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3105-crimson-desert-optimization/)
+
+---
+
+### 7. Micron predicts that cars will need 300GB of RAM memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' 
+
+Micron CEO Sanjay Mehrotra predicts self-driving vehicles will need 300GB of RAM, potentially exacerbating memory shortages. This increased demand could lead to robust long-term growth in automotive memory demand. The complexity of AI supercomputers in vehicles drives this prediction.
+
+💡 *AI-powered cars fuel soaring memory chip demand*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/micron-predicts-that-cars-will-need-300gb-of-ram-memory-laden-vehicles-could-exacerbate-shortages-but-create-robust-long-term-growth-in-automotive-memory-demand)
+
+---
+
+### 8. Blacklyte Athena Pro Review: Watch out, Secretlab? 
+
+The Blacklyte Athena Pro gaming chair is well-made and comfortable, but its design and features closely resemble Secretlab's Titan model. It offers good support and a smooth gaming experience. However, its originality and value proposition are compromised by its similarity to an existing product.
+
+💡 *Lack of originality in design may impact market differentiation.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/blacklyte-athena-pro-review)
+
+---
+
+### 9. Modder packs a full Windows gaming PC inside Xbox Series X chassis 
+
+A modder has successfully packed a Windows gaming PC into an Xbox Series X case, creating a proof-of-concept hybrid device months before Microsoft's Project Helix. This achievement demonstrates the possibility of running PC titles on next-gen Xbox hardware. The mod showcases an innovative and compact gaming solution.
+
+💡 *Envisioning hybrid Xbox/PC gaming beyond Microsoft's Project Helix timeline*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111779-xbox-series-x-mod-packs-full-windows-gaming.html)
 
 ---
 
