@@ -1,211 +1,473 @@
 [
   {
-    "title": "Micron predicts that cars will need 300GB of RAM memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand'",
-    "summary": "Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as these cars are essentially AI supercomputers on wheels.",
-    "link": "https://www.tomshardware.com/pc-components/dram/micron-predicts-that-cars-will-need-300gb-of-ram-memory-laden-vehicles-could-exacerbate-shortages-but-create-robust-long-term-growth-in-automotive-memory-demand",
+    "title": "Microsoft blocks registry trick that unlocked performance-boosting native NVMe driver on Windows 11 workarounds still exist to enable support, however",
+    "summary": "Microsoft has blocked the registry trick that allowed Windows 11 users to enable a native NVMe driver on their PCs. However, third-party tools can still help with a workaround.",
+    "link": "https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-24T09:37:56.347685"
+  },
+  {
+    "title": "Nvidia CEO says he's 'empathetic' to DLSS 5 concerns Jensen Huang doubles down on defense while decrying 'AI slop'",
+    "summary": "In a new podcast appearance, Nvidia CEO Jensen Huang struck a more conciliatory tone concerning DLSS 5, saying he's 'empathetic\" to concerns about the feature producing \"AI slop.\"",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-says-hes-empathic-to-dlss-5-concerns-jensen-huang-doubles-down-on-defense-while-decrying-ai-slop",
     "categories": [
       "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-23T09:44:44.493573"
-  },
-  {
-    "title": "Elon Musk unveils $20 billion TeraFab chip project to make chips, memory, and package processors all under one roof targets a terawatt of annual compute",
-    "summary": "Tesla and SpaceX CEO, Elon Musk, announced Saturday night that his TeraFab semiconductor project will be built on the Tesla campus in eastern Travis County, Austin, Texas, as a joint venture.",
-    "link": "https://www.tomshardware.com/tech-industry/elon-musk-formally-launches-20-billion-terafab-chip-project",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-23T09:44:44.493736"
-  },
-  {
-    "title": "GrapheneOS refuses to comply with new age verification laws for operating systems group says it will never require personal information",
-    "summary": "GrapheneOS, the privacy-focused Android fork, said in a post on X on Friday that it will not comply with emerging laws requiring operating systems to collect user age data at setup.",
-    "link": "https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-23T09:44:44.493865"
-  },
-  {
-    "title": "California scientists 'FlyTrap attack' on DJI drones demonstrated patterned umbrellas lure autonomous drones close enough to be captured or even induced to crash",
-    "summary": "Researchers at UC Irvine have demonstrated a pattered umbrella-based drone capture and crashing technique.",
-    "link": "https://www.tomshardware.com/tech-industry/california-scientists-flytrap-attack-on-dji-drones-demonstrated-patterned-umbrellas-lure-autonomous-drones-close-enough-to-be-captured-or-even-induced-to-crash",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-23T09:44:44.493979"
-  },
-  {
-    "title": "Grab the Sapphire Nitro+ Radeon RX 9070 XT for $799.99 comes bundled with 1000W PSU and free copy of Crimson Desert",
-    "summary": "AMD's Radeon RX 9070 XT based on the RDNA 4 architecture is currently the company's most powerful graphics card offering impressive 1440p and 4K gaming performance.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/grab-the-sapphire-nitro-radeon-rx-9070-xt-for-usd799-99-comes-bundled-with-1000w-psu-and-free-copy-of-crimson-desert",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-23T09:44:44.494091"
-  },
-  {
-    "title": "Two brothers convicted of running ghost gun factory that produced untraceable 3D printed firearms used 3D printers to build gun frames while associates purchased other parts on eBay",
-    "summary": "Brothers Brandon and Justin Nudelman have been convicted of running a ghost gun factory, with the group using 3D printers to print gun frames while purchasing other parts online to build and sell untraceable weapons.",
-    "link": "https://www.tomshardware.com/3d-printing/two-brothers-convicted-of-running-ghost-gun-factory-that-produced-untraceable-3d-printed-firearms-used-3d-printers-to-build-gun-frames-while-associates-purchased-other-parts-on-ebay",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-23T09:44:44.494211"
-  },
-  {
-    "title": "Intel released its first Pentium chip on this day 33 years ago, came packing 3.1 million transistors fifth-gen x86 chip built on an 800nm process",
-    "summary": "33 years ago today, the Pentium lineage began, shaping decades of personal computing to come.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-released-its-first-pentium-chip-on-this-day-33-years-ago-came-packing-3-1-million-transistors-fifth-gen-x86-chip-built-on-an-800nm-process",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-23T09:44:44.494317"
-  },
-  {
-    "title": "Huawei crowdfunds world s first Mesh Crystal Antenna Wi-Fi 7 router stunning glowing ornament also has a shark fin heat exhaust, but is currently a Japan market exclusive",
-    "summary": "Chinese tech giant Huawei has lined up a magical looking Wi-Fi 7 router featuring the world s first 'metal mesh crystal antenna' which looks like a glowing mountain.",
-    "link": "https://www.tomshardware.com/networking/routers/huawei-crowdfunds-worlds-first-mesh-crystal-antenna-wi-fi-7-router-stunning-glowing-ornament-also-has-a-shark-fin-heat-exhaust-but-is-currently-a-japan-market-exclusive",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-23T09:44:44.494431"
-  },
-  {
-    "title": "Blacklyte Athena Pro Review: Watch out, Secretlab?",
-    "summary": "The Blacklyte Athena Pro is well-made and comfortable, but ultimately feels like another Secretlab Titan.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/blacklyte-athena-pro-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-23T09:44:44.494530"
-  },
-  {
-    "title": "'Silicon' is a new five-pound art book charting the semiconductor revolution with full-page die shots and commentary 384 page tome is $99 to pre-order now",
-    "summary": "Silicon, Arena s stylish and premium coffee table book like no other, is up for pre-order now priced at $99.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/silicon-is-a-new-five-pound-art-book-charting-the-semiconductor-revolution-with-full-page-die-shots-and-commentary-384-page-tome-is-usd99-to-pre-order-now",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-23T09:44:44.494640"
-  },
-  {
-    "title": "City has roads named Tape Drive and Disk Drive from bygone HDD-making era area was once home to the StorageTek empire",
-    "summary": "Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city.",
-    "link": "https://www.tomshardware.com/tech-industry/city-has-roads-named-tape-drive-and-disk-drive-from-bygone-hdd-making-era-area-was-once-home-to-the-storagetek-empire",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-23T09:44:44.494756"
-  },
-  {
-    "title": "CIX ClawCore Armv9.2 CPU family targets OpenClaw deployments",
-    "summary": "OpenClaw was just introduced a few months ago, but we ve already seen several low-footprint implementations, and some companies even ship mini PCs preloaded with OpenClaw. But today, I was just informed that CIX had gone further, and introduced the ClawCore Armv9.2 CPU family specifically designed/optimized for OpenClaw. The family will be comprised of three main SKUs: ClawCore-P ( Powerful Claw ) High-performance model with 12-core CPU @ 3.2GHz, Immortalis-G720 GPU, 45 TOPS AI compute, and support for up to 64GB LPDDR5 RAM. Aimed at high-parallelism, large-capacity scenarios. Shipping starts now in March 2026. ClawCore-A ( AI/Smart Claw ) Octa-core CPU @ 3.0GHz, 80 TOPS AI compute (expandable to 200 TOPS via PCIe AI card), up to 64GB LPDDR5. It s designed for 24/7 use, supports full-chain ECC, hardware security (encryption/key management), and enables up to 50% reduction in model token costs via local inference. In practise, 80 to 90% of requests [...] The post CIX ClawCore Armv9.2 CPU family targets OpenClaw deployments appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/23/cix-clawcore-armv9-2-cpu-family-targets-openclaw-deployments/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-23T09:44:44.495312"
-  },
-  {
-    "title": "ESP32-P4 revision 3.0 gains new power rail, requires new PCB design and firmware",
-    "summary": "Espressif s ESP32-P4 revision 3.0 and greater converts pin 54 of the chip from NC (non-connected) to a power rail (VDD_HP_1), requires a few extra passives, and an updated firmware. Espressif Systems first unveiled the 400 MHz ESP32-P4 dual-core RISC-V SoC in January 2023, and the official ESP32-P4-Function-EV development board was launched in August 2024, with commercial solutions slowly ramping up last year. You d think the silicon and related hardware would now be frozen, but apparently not. The pin 54 was likely converted from NC (not connected) to VDD_HP_1 to improve the stability of the high-performance digital domain. The old revisions 1.0, 1.1, and 1.3 are not recommended for new designs, and the company advises people to use revision 3.0 or 3.1. They also provided updated reference schematics with the following key changes: The main differences between chip revisions v1.0/v1.3 (not recommended for new designs) and v3.0 and later versions include [...] The post ESP32-P4 revision 3.0 gains new power rail, requires new PCB design and firmware appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/23/esp32-p4-revision-3-0-gains-new-power-rail-requires-new-pcb-design-and-firmware/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 25,
-    "processed_date": "2026-03-23T09:44:44.495486"
-  },
-  {
-    "title": "Ohm Lab Neuro N6 Modular STM32N6 AI Vision devkit supports rolling shutter, global shutter, or thermal camera (Crowdfunding)",
-    "summary": "Ohm Lab Neuro N6 is a compact, modular, Arduino-compatible Edge AI/AI Vision development board powered by an STMicro STM32N6 Arm Cortex-M55 microcontroller with a 600 GOPS Neural-ART accelerator. The Adafruit Feather-sized board features 64MB PSRAM, 32MB flash, a built-in microphone, a 6-axis IMU and magnetometer, a USB-C port for power and programming, and takes power from USB-C (5V) or a LiPo battery. The bottom side of the board features 40-pin and 30-pin high-density connectors for expansion boards, adding a camera (rolling shutter, global shutter, or thermal), a microSD card slot, Ethernet, WiFi, a TFT display, and more. Neuro N6 specifications: MCU STMicro STM32N6 MCU Core 32-bit Arm Cortex-M55 CPU @ up to 800MHz with Arm Helium and Arm MVE GPU Neo-Chrom 2.5D GPU, Chrom-ART Accelerator (DMA2D) NPU ST Neural-ART accelerator @ 1 GHz, 600 GOPS BPU Hardware-accelerated H.264 and JPEG encoders Memory 4.2MB SRAM [...] The post Ohm Lab Neuro N6 Modular STM32N6 AI Vision devkit supports rolling shutter, global shutter, or thermal camera (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/23/ohm-lab-neuro-n6-modular-stm32n6-ai-vision-devkit-support-rolling-shutter-global-shutter-or-thermal-camera/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-23T09:44:44.495666"
-  },
-  {
-    "title": "Modder packs a full Windows gaming PC inside Xbox Series X chassis",
-    "summary": "The result of the mod is less a novelty case mod and more a proof-of-concept for what a hybrid Xbox/PC box could look like in practice, arriving months before Microsoft's own Project Helix promises official support for PC titles on next-gen Xbox hardware. Read Entire Article",
-    "link": "https://www.techspot.com/news/111779-xbox-series-x-mod-packs-full-windows-gaming.html",
-    "categories": [
-      "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-23T09:44:44.496834"
+    "processed_date": "2026-03-24T09:37:56.347807"
   },
   {
-    "title": "MSI targets Apple's MacBook Neo with new budget Modern laptops",
-    "summary": "The distinction between the models lies in their platforms. The AI+ versions use Intel's latest Panther Lake platform and are powered by Core Ultra Series 3 chips. These configurations support higher performance, featuring two DDR5 memory slots. Read Entire Article",
-    "link": "https://www.techspot.com/news/111777-msi-splits-modern-14s-16s-laptops-core-ultra.html",
+    "title": "AMD's Enterprise CPU and GPU roadmap: Venice, Verano, Zen 6, Helios, and CDNA",
+    "summary": "AMD has impressive plans in the data center realm for 2026 and 2027 that could further impress its position on the market for CPUs and AI GPUs with products like its Helios platform and Instinct MI500 AI accelerators.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amds-enterprise-cpu-and-gpu-roadmap-venice-verano-zen-6-helios-and-cdna",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.347921"
+  },
+  {
+    "title": "GTC 2026: Ian Buck press Q&A transcript VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year",
+    "summary": "Following Nvidia's GTC 2026 keynote, where CEO Jensen Huang laid out the company's Vera Rubin architecture and the Groq 3 LPU acquisition, Nvidia's Ian Buck sat down with press for a Q&A session.",
+    "link": "https://www.tomshardware.com/tech-industry/gc-2026-press-q-and-a-transcript",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-24T09:37:56.348036"
+  },
+  {
+    "title": "LG produces the world's first mass-production LCD laptop display capable of 1 Hz to save power OLED version arriving in 2027",
+    "summary": "LG introduces the world's first mass-produced LCD laptop display that can wind down to 1 Hz to save power, similar to high-end smartphone LTPO displays.",
+    "link": "https://www.tomshardware.com/laptops/lg-produces-the-worlds-first-mass-production-lcd-laptop-display-capable-of-1-hz-to-save-power-oled-version-arriving-in-2027",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.348137"
+  },
+  {
+    "title": "YouTuber upgrades 14-year-old ThinkPad laptop with a $25 DIY IPS display simple panel swap breathes new life into 2012-era machine with 'visually noticeable' results",
+    "summary": "A YouTuber has given a 2012-era Lenovo ThinkPad X230 a \"visually noticeable upgrade\" by swapping out its TN panel for an IPS replacement that cost just $25.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/youtuber-upgrades-14-year-old-thinkpad-laptop-with-a-usd25-diy-ips-display-simple-panel-swap-breathes-new-life-into-2012-era-machine-with-visually-noticeable-results",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.348243"
+  },
+  {
+    "title": "Imagination Tech working on mainstream PC gaming with ambitious graphics card and SoC design companies shows off progress with DirectX 11 workloads",
+    "summary": "The UK s Imagination Technologies is teasing its roadmap to 'bring high performance, scalable, PowerVR graphics to desktop, workstation, and cloud environments.'",
+    "link": "https://www.tomshardware.com/pc-components/gpus/imagination-tech-working-on-mainstream-pc-gaming-with-ambitious-graphics-card-and-soc-design-companies-shows-off-progress-with-directx-11-workloads",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-24T09:37:56.348354"
+  },
+  {
+    "title": "Apple MacBook Air (13-inch, M5) review: Steady as it goes",
+    "summary": "The MacBook Air with M5 offers a strong variety of performance and premium materials to make it a strong computing value.",
+    "link": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-air-13-inch-m5-review",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-23T09:44:44.496953"
+    "processed_date": "2026-03-24T09:37:56.348458"
   },
   {
-    "title": "Patreon rejects \"fair use\" claims for AI training, calls for creator compensation",
-    "summary": "Jack Conte created Patreon to try and earn extra from his YouTube videos. The musician-turned-businessman is now managing a platform with 3 million monthly active users, and has plenty to say to big corporations operating chatbots and other AI platforms. First and foremost, these AI companies should stop crying foul... Read Entire Article",
-    "link": "https://www.techspot.com/news/111767-patreon-rejects-fair-use-claims-ai-training-calls.html",
+    "title": "Crimson Desert devs apologize for confusion over Intel GPU FAQ backtracks over prior dismissive language regarding Arc graphics support",
+    "summary": "The Crimson Desert devs have apologized for prior dismissive language regarding Intel GPUs and confirmed that a support update is on the way.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/crimson-desert-devs-apologize-for-confusion-over-intel-gpu-faq-backtracks-over-prior-dismissive-language-regarding-arc-graphics-support",
     "categories": [
-      "AI & ML"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-23T09:44:44.497070"
+    "processed_date": "2026-03-24T09:37:56.348577"
   },
   {
-    "title": "Amazon is trying smartphones again after the Fire Phone flop with Alexa-first \"Transformer\"",
-    "summary": "According to people familiar with the project who spoke to Reuters, Transformer is being built inside Amazon's devices and services division as a \"personalization device\" that could tie together the company's consumer services and its revamped Alexa assistant. Read Entire Article",
-    "link": "https://www.techspot.com/news/111775-amazon-trying-smartphones-again-after-fire-phone-flop.html",
+    "title": "The legendary AMD Ryzen 7 9800X3D just hit its lowest-ever price on Amazon grab our favorite gaming CPU with a $60 saving for undeniably brilliant performance",
+    "summary": "The AMD Ryzen 7 9800X3D is down to an all-time low price of $419.95, making it a must-buy CPU option for gamers.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/the-legendary-amd-ryzen-7-9800x3d-just-hit-its-lowest-ever-price-on-amazon-grab-our-favorite-gaming-cpu-with-a-usd60-saving-for-undeniably-brilliant-performance",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-23T09:44:44.497182"
-  },
-  {
-    "title": "Tesla Semi is finally going into production, and early drivers are already sold",
-    "summary": "For Dakota Shearer, a driver with IMC Logistics, that shift began on a tight bend outside Sparks, Nevada. He took a wrong turn hauling a 40-foot trailer and found himself on a curve too narrow to complete. In a conventional rig, he would have had to climb in and out... Read Entire Article",
-    "link": "https://www.techspot.com/news/111776-tesla-semi-finally-going-production-early-drivers-already.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-23T09:44:44.497295"
-  },
-  {
-    "title": "Crimson Desert Optimization: Best Settings for Performance and Visual Quality",
-    "summary": "Crimson Desert looks great and runs well on most PCs, but some settings introduce visual noise and inefficiencies. We break down every option to find the best balance of image quality and performance. Read Entire Article",
-    "link": "https://www.techspot.com/article/3105-crimson-desert-optimization/",
-    "categories": [
+      "GPUs",
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-23T09:44:44.497402"
+    "processed_date": "2026-03-24T09:37:56.348681"
+  },
+  {
+    "title": "Intel Core Ultra 7 270K Plus review: Back from the brink",
+    "summary": "After testing the Core Ultra 7 270K Plus, we ve seen fantastic application performance across our suite of benchmarks. Gaming performance still struggles, however, even with Intel s Arrow Lake Refresh changes and an interesting new Binary Optimization Tool.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-03-24T09:37:56.348785"
+  },
+  {
+    "title": "Get the 9800X3D CPU, Asus TUF gaming X870, and 32GB of DDR5 RAM, plus a free 512GB Gen 4 SSD and Crimson Desert, all for $959.99 Newegg's combo bundles strike again",
+    "summary": "Save $248 when you pick up this 9800X3D, X870 mobo, 32GB DDR5-6400 RAM, and 512GB SSD bundle for just $959.99 at Newegg.",
+    "link": "https://www.tomshardware.com/pc-components/spend-usd959-99-and-get-the-9800x3d-cpu-asus-tuf-gaming-x870-and-32gb-of-ddr5-ram-plus-a-free-512gb-gen-4-ssd-and-crimson-desert-neweggs-combo-bundles-strike-again",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.348888"
+  },
+  {
+    "title": "Concerns raised over Shahed kamikaze drone listings on Alibaba they featured AI guidance to lock onto people, building, vehicles, ships, etc ",
+    "summary": "Chinese eTail giant Alibaba has removed listings and suspended the accounts of sellers that were found to be advertising 'cruise missiles' and 'suicide attack drones.'",
+    "link": "https://www.tomshardware.com/tech-industry/concerns-raised-over-shahed-kamikaze-drone-listings-on-alibaba-they-featured-ai-guidance-to-lock-onto-people-building-vehicles-ships-etc",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.349001"
+  },
+  {
+    "title": "Valve adds early Steam Machine support in SteamOS 3.8 latest update brings performance gains, better controller support, and desktop improvements",
+    "summary": "SteamOS 3.8.0 preview introduces early Steam Machine support while delivering performance upgrades, improved VRR, and broader handheld compatibility",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/valve-adds-early-steam-machine-support-in-steamos-3-8-latest-update-brings-performance-gains-better-controller-support-and-desktop-improvements",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-24T09:37:56.349107"
+  },
+  {
+    "title": "Intel's long-rumored Core Ultra 3 205 CPU finally appears for sale at French retailer priced at $182, early listing confirms previously-known specs for the chip",
+    "summary": "The Core Ultra 3 205 is an 8-core chip with 4 performance cores and 4 efficiency cores, part of the Arrow Lake family, branded as the Core Ultra 200S series. It never officially launched despite being listed at several OEMs as a \"tray\" chip and even being mentioned in Intel's own documents. Its newest spotting is on a French retailer's website where it's only available on order.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intels-long-rumored-core-ultra-3-205-cpu-finally-appears-for-sale-at-french-retailer-priced-at-usd182-early-listing-confirms-previously-known-specs-for-the-chip",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.349234"
+  },
+  {
+    "title": "Jensen Huang says Nvidia engineers should use AI tokens worth half their annual salary every year to be fully productive compares not using AI to using paper and pencil for designing chips",
+    "summary": "The Nvidia chief said that he will be alarmed if his engineers did not use AI tokens amounting to about half their annual salary, saying that AI tools will 10x their productivity.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-nvidia-engineers-should-use-ai-tokens-worth-half-their-annual-salary-every-year-to-be-fully-productive-compares-not-using-ai-to-using-paper-and-pencil-for-designing-chips",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.349344"
+  },
+  {
+    "title": "UV resin injection cures ancient, cataract-inflicted CRT monitor repaired 20-inch Trinitron would have been an enviable display in the mid 1990s",
+    "summary": "A video documents attempts to fix a vintage 20-inch Trinitron CRT suffering from cataracts by injecting UV resin.",
+    "link": "https://www.tomshardware.com/monitors/uv-resin-injection-cures-ancient-cataract-inflicted-crt-monitor-repaired-20-inch-trinitron-would-have-been-an-enviable-display-in-the-mid-1990s",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.349441"
+  },
+  {
+    "title": "MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers",
+    "summary": "Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws",
+    "link": "https://www.tomshardware.com/pc-components/storage/macbook-neo-costs-more-in-portugal-due-to-copyright-levy-for-piracy-compensation-taxes-storage-costs-extra-in-multiple-countries-thanks-to-draconian-laws-that-pre-punish-buyers",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.349550"
+  },
+  {
+    "title": "Mad lad stores and loads Doom from within DNS TXT record type abused to store game data",
+    "summary": "Madlad twists DNS into storing and loading Doom",
+    "link": "https://www.tomshardware.com/networking/mad-lad-stores-and-loads-doom-from-within-dns-txt-record-type-abused-to-store-game-data",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-24T09:37:56.349644"
+  },
+  {
+    "title": "RTX 5060 in a house fire suffers melted shroud and fans, but survives with PCB intact scorched GPU just needed a cleanup and a new cooler for full restoration",
+    "summary": "This RTX 4060 survived with flames all around it.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/rtx-5060-in-a-house-fire-suffers-melted-shroud-and-fans-but-survives-with-pcb-intact-scorched-gpu-just-needed-a-cleanup-and-a-new-cooler-for-full-restoration",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.349744"
+  },
+  {
+    "title": "Hugging Face s Reachy Mini is an open-source AI robot for your computer or Raspberry Pi CM4",
+    "summary": "Better known for its artificial intelligence software solutions, Hugging Face unveiled the Reachy Mini open-source desktop robot last year. It is designed to deploy AI applications that interface with the physical world. The robot features a camera, four microphones, and a speaker, and can move its 6 DoF (degrees of freedom) head, rotate its body, or wave its antennas thanks to nine servo motors. Two versions are available: the Reachy Mini Lite designed for computers running Mac, Linux, and Windows, and the Reachy Mini Wireless autonomous robot, powered by a Raspberry Pi CM4, adding WiFi and Bluetooth connectivity, an accelerometer, and battery support. Both models share most of the same specifications: Reachy Mini s SDK can be found on GitHub. It s based on Python, but also supports JavaScript and Web apps, and can integrate with LLMs to easily build apps and publish them to Hugging Face. The SDK also features several [...] The post Hugging Face s Reachy Mini is an open-source AI robot for your computer or Raspberry Pi CM4 appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/24/hugging-face-reachy-mini-open-source-ai-robot-computer-raspberry-pi-cm4/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-24T09:37:56.350204"
+  },
+  {
+    "title": "ESP-IDF v6.0 framework adds support for ESP32-C5 and ESP32-C61, preview for ESP32-H21 and ESP32-H4",
+    "summary": "Espressif Systems released the ESP-IDF v6.0 framework a few days ago with stable support for ESP32-C5 and ESP32-C61 SoCs, as well as preview support for ESP32-H21 and ESP32-H4 low-power wireless microcontrollers. The framework also implements a new ESP-IDF Installation Manager (EIM) to make the ESP-IDF installation easier, relies on the low-footprint Picolibc C library, adds security and tooling updates, as well as a few Wi-Fi enhancements, and the ability to update the bootloader over the air. Here are some of the ESP-IDF v6.0 highlights: ESP-IDF Installation Manager Unified cross-platform tool to simplify the setup process for ESP-IDF and compatible IDEs. It s available as a graphical interface or a CLI for automation and CI/CD pipelines. You can check the installation instructions for your OS. Picolibc replaces Newlib for a smaller memory footprint and better performance on resource-constrained devices. Check the Newlib vs Picolibc comparison for details. Contrary to some of [...] The post ESP-IDF v6.0 framework adds support for ESP32-C5 and ESP32-C61, preview for ESP32-H21 and ESP32-H4 appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/24/esp-idf-v6-0-framework-adds-support-for-esp32-c5-and-esp32-c61-preview-for-esp32-h21-and-esp32-h4/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-03-24T09:37:56.350377"
+  },
+  {
+    "title": "Ampisu is a compact pocket-sized USB lab power supply with SCPI and web control (Crowdfunding)",
+    "summary": "The concept of a USB-C-based power supply is not new, and we have previously seen projects like XIAO Powerbread and Axiometa BrodBoost-C. As USB PD-based power adapters and power banks have become much cheaper, adjustable power supplies like the PocketPD and BenchVolt PD have come out. Both have their own limitation: the PocketPD has only a single output channel, thus hardly a lab power supply, and the BenchVolt PD is not quite compact enough to be considered pocket-friendly. This is where the Ampisu comes in. It s a compact, pocket-friendly, and isolated three-output lab power supply designed to fit in a pocket and include features of a typical full-sized power supply. It s designed for low-power embedded work, field debugging, and automated test setups. Ampisu specifications: MCU Raspberry Pi RP2040 dual-core Cortex-M0+ microcontroller @ 125 MHz with 264KB SRAM Storage Non-volatile memory for saving configurations Power Input 5V via USB Type-C port Automatically adapts to [...] The post Ampisu is a compact pocket-sized USB lab power supply with SCPI and web control (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/24/ampisu-compact-pocket-sized-isolated-usb-lab-power-supply-with-scpi-and-web-control/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-24T09:37:56.350558"
+  },
+  {
+    "title": "More Rising Stars Sixth Group",
+    "summary": "Fierce Sensors introduces another group of Rising Stars in the 2026 class. They will be honored at Sensors Converge, May 5-7, Santa Clara, CA.",
+    "link": "https://www.fiercesensors.com/sensors/more-rising-stars-sixth-group",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-24T09:37:56.351547"
+  },
+  {
+    "title": "Why the Majority of AI-Powered IoT Projects Fail: Jack Gold",
+    "summary": "With billions of connected IoT devices emerging globally, nearly 75% of AIoT pilot projects fail to reach production.",
+    "link": "https://www.fiercesensors.com/sensors/why-majority-ai-powered-iot-projects-fail",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-24T09:37:56.351881"
+  },
+  {
+    "title": "Meet this smart building cowboy from Tulsa",
+    "summary": "Turning older CityPlex towers into efficient giants comes with management savvy and Mango from Radix IoT.",
+    "link": "https://www.fiercesensors.com/sensors/meet-smart-building-cowboy-tulsa",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-24T09:37:56.352017"
+  },
+  {
+    "title": "The memory crunch monster is real for edge devs",
+    "summary": "As memory prices surge skyward due to shortages, the impact on sensor-laden edge projects is expected to worsen, according to practitioners.",
+    "link": "https://www.fiercesensors.com/sensors/memory-crunch-monster-real-edge-devs",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-24T09:37:56.352158"
+  },
+  {
+    "title": "Announcing Fierce Sensors Rising Stars 2026",
+    "summary": "The Fierce Sensors Rising Stars 2026 program recognizes individuals who are driving advancements in technology, pushing boundaries and shaping the future of sensors and electronics with their creativity, expertise and impact. Honorees will be named weekly and honored May 6 at Sensors Converge 2026 in Santa Clara, CA, May 5-7.",
+    "link": "https://www.fiercesensors.com/ai/rising-stars-feb-16",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.352315"
+  },
+  {
+    "title": "Berkeley births intelligent spectral sensor for industry use",
+    "summary": "Sensor can sniff out target objects to increase speed of digital processing 100 times",
+    "link": "https://www.fiercesensors.com/sensors/berkeley-births-intelligent-spectral-sensor-industry-use",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-24T09:37:56.352452"
+  },
+  {
+    "title": "\"We've achieved AGI,\" says Nvidia CEO, but his own examples suggest otherwise",
+    "summary": "In a separate conversation, he struck a different note, chastising engineers who underuse AI tools and warning he would be \"deeply alarmed\" if they were not spending enough on the very systems he had just suggested were already intelligent. The tension between those remarks one heralding the dawn of... Read Entire Article",
+    "link": "https://www.techspot.com/news/111797-weve-achieved-agi-nvidia-ceo-but-own-examples.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.352653"
+  },
+  {
+    "title": "How BYD engineered breakthrough five-minute EV charging",
+    "summary": "Earlier this month, BYD revealed that its latest Flash Chargers can deliver up to 1,500 kilowatts roughly four times the power of the \"hyper-fast\" 350-kW systems common in the US. In tests, select BYD batteries charged from 10% to 70% in about five minutes and from 10% to 97%... Read Entire Article",
+    "link": "https://www.techspot.com/news/111784-how-byd-engineered-breakthrough-five-minute-ev-charging.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-24T09:37:56.352811"
+  },
+  {
+    "title": "Operation Alice: The dark web isn't as hidden as it seems, as global crackdown shows",
+    "summary": "Europol recently unveiled \"Operation Alice,\" a major effort to dismantle a large network of fraudulent websites hidden within the dark web. The investigation began in 2021 and initially focused on a platform named Alice with Violence CP. In the end, the operation took down one of the largest dark web... Read Entire Article",
+    "link": "https://www.techspot.com/news/111789-operation-alice-dark-web-isnt-hidden-global-crackdown.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-24T09:37:56.352975"
+  },
+  {
+    "title": "Windows 11 users are still fixing the Start menu with third-party tools",
+    "summary": "While Microsoft rethinks where they've failed with Windows 11, many users rely on tools like Open Shell , Start11 , StartAllBack , and ExplorerPatcher to take back control of the UI. Open Shell remains a free favorite with a customizable Windows 7-style menu, while Start11 and StartAllBack offer more polished tweaks for modern systems. ExplorerPatcher rounds things out as another powerful free option. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7103-open-shell/similar/",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.353147"
+  },
+  {
+    "title": "Sony confirms AI frame generation is coming to PlayStation, just not this year",
+    "summary": "Speaking to Digital Foundry about Project Amethyst, Mark Cerny confirmed that Sony is developing AI-powered frame generation for PlayStation, but noted that no new releases are planned this year. He also declined to reveal whether the feature will be rolled out to the PS5 and PS5 Pro or be exclusive... Read Entire Article",
+    "link": "https://www.techspot.com/news/111791-sony-confirms-ai-frame-generation-coming-playstation-but.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.353317"
+  },
+  {
+    "title": "California bill targeting Big Tech self-preferencing gains industry support as Apple faces scrutiny",
+    "summary": "The proposed law, known as the Blocking Anticompetitive Self-Preferencing by Entrenched Dominant Platforms, or the BASED Act, was introduced by California state senator Scott Wiener. It seeks to restrict tactics that allow large platforms to favor their own products and block emerging rivals. In an unusual twist for a policymaker... Read Entire Article",
+    "link": "https://www.techspot.com/news/111786-startups-rally-behind-california-antitrust-bill-targeting-big.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.353486"
+  },
+  {
+    "title": "Intel Core Ultra 7 270K Plus and 250K Plus refine Arrow Lake with better value",
+    "summary": "Our full reviews of the new Intel CPUs are coming this week, but early ones already point to a meaningful refinement of the Arrow Lake lineup, with improved efficiency, higher core counts, and stronger overall value. Most agree the chips are capable all-rounders, particularly at their aggressive $199 and $299 price points. Read Entire Article",
+    "link": "https://www.techspot.com/specs/cpu/322327-intel-core-ultra-7-270k-plus.html",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-24T09:37:56.353683"
+  },
+  {
+    "title": "AMD Ryzen 7 9800X3D hits record low price, remains the go-to gaming CPU",
+    "summary": "The AMD Ryzen 7 9800X3D has dropped to its lowest price yet, now around the $420 mark, making one of the fastest gaming CPUs even more compelling. Built around AMD's 3D V-Cache technology, it continues to deliver exceptional gaming performance and strong efficiency, standing out in a crowded market. Read Entire Article",
+    "link": "https://www.techspot.com/specs/cpu/300569-amd-ryzen-7-9800x3d.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-24T09:37:56.353855"
+  },
+  {
+    "title": "Microsoft is rethinking Windows 11 after months of complaints",
+    "summary": "The effort is being led by Windows chief Pavan Davuluri, who has publicly acknowledged the extent of user frustration with Windows 11. In a recent company blog post, he said the Windows team had spent months analyzing user feedback to identify what he described as \"the voice of people who... Read Entire Article",
+    "link": "https://www.techspot.com/news/111783-microsoft-rethinking-windows-11-after-months-complaints.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.354014"
+  },
+  {
+    "title": "Samsung brings AirDrop support to the Galaxy S26 series, more devices to follow",
+    "summary": "The AirDrop rollout to Samsung's flagship series starts in Korea today, with US devices set to follow later this week before expanding to more regions, including Europe, Latin America, Japan, Taiwan, Hong Kong, and Southeast Asia. Read Entire Article",
+    "link": "https://www.techspot.com/news/111790-samsung-brings-airdrop-support-galaxy-s26-series-more.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.354174"
+  },
+  {
+    "title": "OpenAI plans to double its workforce as it pivots to enterprise AI",
+    "summary": "The company, valued privately at about $730 billion, is expected to nearly double its headcount to roughly 8,000 employees by year's end, up from about 4,500 currently, people familiar with the matter told The Financial Times. New hires will be concentrated in engineering, research, sales, and product development. A significant share... Read Entire Article",
+    "link": "https://www.techspot.com/news/111781-openai-plans-double-workforce-pivots-enterprise-ai.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.354339"
+  },
+  {
+    "title": "Apple store external SSD prices skyrocket as some SanDisk drives jump 200%",
+    "summary": "Apple has quietly raised prices on several third-party SSDs sold through its online store, and some of the increases are stunning. Read Entire Article",
+    "link": "https://www.techspot.com/news/111788-apple-store-external-ssd-prices-skyrocket-sandisk-drives.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.354506"
+  },
+  {
+    "title": "AI startups are filling San Francisco with cryptic billboards aimed at insiders",
+    "summary": "The ads mark a broader change in how young tech companies present themselves. Instead of courting consumers, they're advertising to peers who already speak the language of machine learning. \"The goal is intentional in a kind of 'if-you-know-you-know' type of way,\" Mike Bilodeau, head of marketing at the AI infrastructure... Read Entire Article",
+    "link": "https://www.techspot.com/news/111782-ai-startups-filling-san-francisco-cryptic-billboards-aimed.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.354682"
+  },
+  {
+    "title": "Man who used 1,000 bots to stream AI songs pleads guilty in $8 million fraud case",
+    "summary": "From 2017 to 2024, 52-year-old Michael Smith, from Cornelius, North Carolina, and his co-conspirators ran a large-scale fraud scheme that artificially boosted the stream counts of AI-generated songs across Spotify, Amazon Music, Apple Music, and YouTube, according to court documents. Read Entire Article",
+    "link": "https://www.techspot.com/news/111787-man-who-used-1000-bots-stream-ai-songs.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.354846"
+  },
+  {
+    "title": "Elon Musk outlines Tesla-SpaceX \"Terafab\" to build advanced chips in Austin",
+    "summary": "Speaking at an event in downtown Austin, Musk said a new Terafab project will be jointly run by Tesla and SpaceX and anchored by what he called an \"advanced technology fab\" in the city that can make and test \"chips of any kind.\" Read Entire Article",
+    "link": "https://www.techspot.com/news/111780-elon-musk-terafab-chip-factory-make-advanced-ai.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.355003"
+  },
+  {
+    "title": "Micron says driverless cars and robots will need 300GB of RAM",
+    "summary": "Micron CEO Sanjay Mehrotra made his prediction during the company's recent earnings call. He said that self-driving cars will represent a new segment that demands huge amounts of memory. Read Entire Article",
+    "link": "https://www.techspot.com/news/111785-micron-driverless-cars-robots-need-300gb-memory.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-24T09:37:56.355156"
   }
 ]
