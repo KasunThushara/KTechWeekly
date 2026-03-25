@@ -1,145 +1,105 @@
 # 📰 Tech News
-**Week of March 24, 2026**
+**Week of March 25, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-03-24 09:39
+- **Articles this week:** 9
+- **Report generated:** 2026-03-25 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel Core Ultra 7 270K Plus review: Back from the brink ⭐
+### 1. Intel Core Ultra 5 250K Plus review: The new best $200 CPU ⭐
 
-The Intel Core Ultra 7 270K Plus offers exceptional application performance, but struggles with gaming. Despite improvements from Intel's Arrow Lake Refresh and a new Binary Optimization Tool, gaming performance remains a concern. This processor shows promise but still has limitations.
+Intel's Core Ultra 5 250K Plus offers exceptional performance at an affordable price, setting a new standard for $200 CPUs. It matches or surpasses competitors in various benchmarks, delivering impressive results in games and applications. This makes it an excellent choice for budget-conscious builders and gamers.
 
-💡 *Application performance outshines gaming capabilities for this Intel processor.*
+💡 *Unbeatable value for budget-friendly CPU performance in $200 category*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-review)
-
----
-
-### 2. ESP-IDF v6.0 framework adds support for ESP32-C5 and ESP32-C61, preview for ESP32-H21 and ESP32-H4 ⭐
-
-Espressif Systems released ESP-IDF v6.0 with support for ESP32-C5 and ESP32-C61, and preview support for ESP32-H21 and ESP32-H4. The framework includes a new Installation Manager, Picolibc C library, and security updates. It also enables Wi-Fi enhancements and over-the-air bootloader updates.
-
-💡 *Enhanced IoT development framework for resource-constrained wireless microcontrollers*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/24/esp-idf-v6-0-framework-adds-support-for-esp32-c5-and-esp32-c61-preview-for-esp32-h21-and-esp32-h4/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-250k-plus-review)
 
 ---
 
-### 3. Ampisu is a compact pocket-sized USB lab power supply with SCPI and web control (Crowdfunding) 
+### 2. Intel Core Ultra 5 250K Plus Review: They Did It ⭐
 
-The Ampisu is a compact, pocket-sized lab power supply with SCPI and web control, designed for low-power embedded work and field debugging. It features a Raspberry Pi RP2040 dual-core microcontroller, three isolated output channels, and non-volatile memory for saving configurations. The power supply adapts to various input voltages via USB Type-C port.
+Intel's Core Ultra 5 250K Plus offers impressive productivity and gaming performance at an affordable price of $200.
 
-💡 *First pocket-sized lab power supply with web control capabilities*
+💡 *Intel corrects 200 series flaws with a budget-friendly performance boost.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/24/ampisu-compact-pocket-sized-isolated-usb-lab-power-supply-with-scpi-and-web-control/)
-
----
-
-### 4. How BYD engineered breakthrough five-minute EV charging 
-
-BYD developed Flash Chargers capable of delivering up to 1,500 kW, allowing for rapid EV charging. In tests, select BYD batteries charged from 10% to 70% in about five minutes and from 10% to 97% in around 12 minutes. This technology aims to greatly reduce EV charging times.
-
-💡 *Rapid charging reduces range anxiety and boosts EV adoption.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111784-how-byd-engineered-breakthrough-five-minute-ev-charging.html)
+🔗 [Read Full Article](https://www.techspot.com/review/3106-intel-core-ultra-5-250k-plus/)
 
 ---
 
-### 5. Operation Alice: The dark web isn't as hidden as it seems, as global crackdown shows 
+### 3. Gigabyte X870 Aorus Stealth Motherboard Review: The gothy Goldilocks of rear-connect AM5 motherboards 
 
-Europol's Operation Alice dismantled a large dark web network with fraudulent websites, with a 2-year investigation focusing on a platform named Alice with Violence CP. The operation ultimately took down one of the largest dark web networks. The investigation began in 2021.
+Gigabyte's X870 Aorus Stealth offers a high-performance AM5 motherboard at a budget-friendly price.
 
-💡 *Dark web isn't as hidden as it seems with global law enforcement efforts.*
+💡 *Reasonably priced BTF options fill AM5 motherboard market gap.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111789-operation-alice-dark-web-isnt-hidden-global-crackdown.html)
-
----
-
-### 6. Intel's long-rumored Core Ultra 3 205 CPU finally appears for sale at French retailer priced at $182, early listing confirms previously-known specs for the chip 
-
-The Intel Core Ultra 3 205 is an 8-core CPU with 4 performance and 4 efficiency cores, part of the Arrow Lake family. It's been spotted at a French retailer despite never officially launching. The chip's specs and availability for order confirm previous rumors.
-
-💡 *Long-rumored CPU finally surfaces, revealing Intel's unannounced product strategy.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-long-rumored-core-ultra-3-205-cpu-finally-appears-for-sale-at-french-retailer-priced-at-usd182-early-listing-confirms-previously-known-specs-for-the-chip)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870-aorus-stealth-motherboard-review)
 
 ---
 
-### 7. MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers 
+### 4. Microsoft and Nvidia launch AI partnership to speed up nuclear power plant permitting and construction simulation tools and generative models could hasten historically lengthy processes 
 
-MacBook Neo prices are higher in Portugal due to a copyright levy for piracy compensation. This fee is a result of draconian laws that pre-punish buyers before any infringement occurs. The extra cost is a tax on storage devices in multiple countries.
+Microsoft and Nvidia partner to speed up nuclear power plant construction with AI, using generative AI, digital twin simulation, and Nvidia's Omniverse platform to streamline the nuclear lifecycle.
 
-💡 *Draconian piracy laws unfairly burden consumers with pre-emptive fines.*
+💡 *Accelerating nuclear power plant construction for AI data centers' growing demand.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/macbook-neo-costs-more-in-portugal-due-to-copyright-levy-for-piracy-compensation-taxes-storage-costs-extra-in-multiple-countries-thanks-to-draconian-laws-that-pre-punish-buyers)
-
----
-
-### 8. Announcing Fierce Sensors Rising Stars 2026 
-
-The Fierce Sensors Rising Stars 2026 program honors innovators in sensors and electronics.
-
-💡 *Recognizing talent fuels innovation and shapes the future of technology.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/rising-stars-feb-16)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/microsoft-and-nvidia-launch-ai-tools-to-speed-up-nuclear-power-plant-permitting-and-construction)
 
 ---
 
-### 9. Mad lad stores and loads Doom from within DNS TXT record type abused to store game data 
+### 5. Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding platform's investment grows to $13 billion from $480 million in 2024 
 
-A mad individual exploited DNS TXT records to store Doom game data, allowing for the game to be loaded from within a DNS record. This was achieved by abusing the DNS system's flexibility and the fact that TXT records can hold arbitrary text data. The hack demonstrates a creative yet unconventional use of technology.
+The Pentagon designates Palantir's Maven Smart System as an official program, securing multi-year funding.
 
-💡 *Abusing DNS TXT records exposes critical infrastructure vulnerabilities and security risks.*
+💡 *Pentagon commitment cements AI's crucial role in military targeting operations.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/networking/mad-lad-stores-and-loads-doom-from-within-dns-txt-record-type-abused-to-store-game-data)
-
----
-
-### 10. More Rising Stars Sixth Group 
-
-Fierce Sensors introduces its 2026 class of Rising Stars at Sensors Converge, May 5-7, in Santa Clara, CA. This prestigious group will be honored for their contributions to the field of sensors. Their work has the potential to drive innovation and advancement.
-
-💡 *Accelerating innovation through recognition of emerging sensor technology leaders.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/more-rising-stars-sixth-group)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024)
 
 ---
 
-### 11. Meet this smart building cowboy from Tulsa 
+### 6. FCC bans import of new consumer routers not made in the US over security threat agency says foreign-made devices pose unacceptable risk to US persons 
 
-Meet Mango, a smart building expert from Radix IoT in Tulsa, specializing in transforming older CityPlex towers into efficient and technologically advanced giants through innovative management and IoT solutions.
+The FCC bans import of new foreign-made consumer routers due to security threats. Foreign-made devices are deemed an unacceptable risk to US citizens. Manufacturers must secure 'Conditional Approval' from the DoD or DHS.
 
-💡 *Efficient buildings reduce carbon footprint and enhance quality of life.*
+💡 *Foreign-made routers pose significant security risks to US citizens' data.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/meet-smart-building-cowboy-tulsa)
-
----
-
-### 12. The memory crunch monster is real for edge devs 
-
-Memory shortages drive up prices, affecting edge projects' sensor-laden budgets. Edge developers face increased costs and project delays due to rising memory prices. This trend is expected to worsen as shortages persist.
-
-💡 *Rising memory prices cripple edge project budgets and timelines.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/memory-crunch-monster-real-edge-devs)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/fcc-bans-import-of-new-consumer-routers-not-made-in-the-us-over-security-threat-agency-says-foreign-made-devices-pose-unacceptable-risk-to-us-persons)
 
 ---
 
-### 13. Berkeley births intelligent spectral sensor for industry use 
+### 7. This startup will pay you $800 to yell at AI all day 
 
-The University of Berkeley has developed a spectral sensor that can detect target objects. This sensor significantly increases the speed of digital processing, up to 100 times. It is designed for industry use.
+Memvid is offering $800 for a 'professional' yeller to stress-test popular chatbots, mimicking the behavior of Boston Dynamics' AI testers.
 
-💡 *Accelerating digital processing speeds for industry applications drastically*
+💡 *AI robustness tested through human interaction and stress scenarios.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/berkeley-births-intelligent-spectral-sensor-industry-use)
+🔗 [Read Full Article](https://www.techspot.com/news/111794-job-posting-seeks-human-ai-bully-harass-chatbot.html)
+
+---
+
+### 8. The US moves to block most new routers made overseas 
+
+The US blocks most new routers made overseas, affecting future imports.
+
+💡 *US router import ban impacts foreign tech industry significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111802-us-moves-block-most-new-routers-made-overseas.html)
+
+---
+
+### 9. There were 1,000 Internet devices in 1984, 1 million in 1992, by 2025 that figure reached... 
+
+The number of internet devices grew from 1,000 in 1984 to 1 million in 1992, and by 2025, it reached 50 billion. This rapid increase is attributed to advancements in technology and the widespread adoption of the internet. The sheer scale of connected devices is a testament to human innovation.
+
+💡 *Unprecedented digital transformation drives exponential growth of connected devices.*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/138-there-1000-internet-devices-1984-1-million-1992/)
 
 ---
 

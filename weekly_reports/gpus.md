@@ -1,93 +1,75 @@
 # 🎮 GPUs
-**Week of March 24, 2026**
+**Week of March 25, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-03-24 09:39
+- **Articles this week:** 6
+- **Report generated:** 2026-03-25 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Imagination Tech working on mainstream PC gaming with ambitious graphics card and SoC design companies shows off progress with DirectX 11 workloads 
+### 1. Huawei unveils new Atlas 350 AI accelerator with 1.56 PFLOPS of FP4 compute and up to 112GB of HBM claims 2.8x more performance than Nvidia's H20 
 
-Imagination Technologies is working on a high-performance graphics card and SoC design for mainstream PC gaming, aiming to bring PowerVR graphics to desktop, workstation, and cloud environments.
+Huawei unveiled the Atlas 350 AI accelerator with 1.56 PFLOPS FP4 compute and up to 112GB HBM. It claims 2.8x more performance than Nvidia's H20. The Atlas 350 uses the Ascend 950PR chip.
 
-💡 *Competition for AMD and NVIDIA in the graphics processing market.*
+💡 *Huawei's Atlas 350 AI accelerator surpasses Nvidia's performance claims.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/imagination-tech-working-on-mainstream-pc-gaming-with-ambitious-graphics-card-and-soc-design-companies-shows-off-progress-with-directx-11-workloads)
-
----
-
-### 2. The legendary AMD Ryzen 7 9800X3D just hit its lowest-ever price on Amazon grab our favorite gaming CPU with a $60 saving for undeniably brilliant performance 
-
-The AMD Ryzen 7 9800X3D is now available at an all-time low price of $419.95, making it a highly sought-after CPU option for gamers seeking superior performance.
-
-💡 *Game-changing performance at a discounted price point for gamers.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/the-legendary-amd-ryzen-7-9800x3d-just-hit-its-lowest-ever-price-on-amazon-grab-our-favorite-gaming-cpu-with-a-usd60-saving-for-undeniably-brilliant-performance)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/huawei-unveils-new-atlas-350-ai-accelerator-with-1-56-pflops-of-fp4-compute-and-up-to-112gb-of-hbm-claims-2-8x-more-performance-than-nvidias-h20)
 
 ---
 
-### 3. AMD Ryzen 7 9800X3D hits record low price, remains the go-to gaming CPU 
+### 2. Crimson Desert dev apologizes for AI art slop, promises to add Intel Arc GPU support 
 
-The AMD Ryzen 7 9800X3D has hit a record low price of around $420, making it an even more compelling gaming CPU option due to its exceptional performance and efficiency.
+Pearl Abyss apologizes for AI-generated placeholder art in Crimson Desert, promises optimization for Intel Arc GPUs.
 
-💡 *Avid gamers can now access top-tier performance without breaking the bank significantly.*
+💡 *Developer accountability for AI-generated content in games is crucial for trust.*
 
-🔗 [Read Full Article](https://www.techspot.com/specs/cpu/300569-amd-ryzen-7-9800x3d.html)
-
----
-
-### 4. Nvidia CEO says he's 'empathetic' to DLSS 5 concerns Jensen Huang doubles down on defense while decrying 'AI slop' 
-
-Nvidia CEO Jensen Huang shows empathy for concerns about DLSS 5's 'AI slop'. He defends DLSS 5 while criticizing what he considers 'AI slop' in other AI-generated content. This tone shift aims to address concerns and maintain trust with customers.
-
-💡 *Nvidia CEO addresses concerns about AI-generated content quality and accuracy*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-says-hes-empathic-to-dlss-5-concerns-jensen-huang-doubles-down-on-defense-while-decrying-ai-slop)
+🔗 [Read Full Article](https://www.techspot.com/news/111795-crimson-desert-dev-apologizes-ai-art-slop-promises.html)
 
 ---
 
-### 5. AMD's Enterprise CPU and GPU roadmap: Venice, Verano, Zen 6, Helios, and CDNA 
+### 3. US senators want to suspend Nvidia AI chip export licenses to China and its intermediaries bipartisan letter to Commerce Dept says that Huang s claims of no chip diversion were contradicted by reporting available  
 
-AMD has a robust roadmap for 2026 and 2027, featuring new CPUs and GPUs. The Venice and Verano processors, Zen 6, and Helios platform are set to enhance data center performance. This includes AI-focused GPU accelerators like the Instinct MI500.
+US senators Warren and Banks urge Commerce Dept to suspend Nvidia export licenses to China due to concerns over AI chip diversion.
 
-💡 *Advanced data center capabilities drive AMD's competitive market edge*
+💡 *US-China chip export controls have significant implications for global tech trade.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-enterprise-cpu-and-gpu-roadmap-venice-verano-zen-6-helios-and-cdna)
-
----
-
-### 6. Crimson Desert devs apologize for confusion over Intel GPU FAQ backtracks over prior dismissive language regarding Arc graphics support 
-
-The Crimson Desert devs apologized for dismissing Intel GPUs and confirmed a support update.
-
-💡 *Crimson Desert devs acknowledge Intel GPU support as a major development update.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/crimson-desert-devs-apologize-for-confusion-over-intel-gpu-faq-backtracks-over-prior-dismissive-language-regarding-arc-graphics-support)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-senators-want-to-suspend-nvidia-ai-chip-export-licenses-to-china-and-its-intermediaries-bipartisan-letter-to-commerce-dept-says-that-huangs-claims-of-no-chip-diversion-were-contradicted-by-reporting-available)
 
 ---
 
-### 7. RTX 5060 in a house fire suffers melted shroud and fans, but survives with PCB intact scorched GPU just needed a cleanup and a new cooler for full restoration 
+### 4. Price of Nvidia's Vera Rubin NVL72 racks skyrockets to as much as $8.8 million apiece, but server makers' margins will be tight Nvidia is moving closer to shipping entire full-scale systems 
 
-An RTX 4060 survived a house fire with minimal damage. The GPU's PCB remained intact despite flames, requiring a new cooler for full restoration. A thorough cleaning was necessary to revive the scorched component.
+Nvidia's Vera Rubin NVL72 racks now cost up to $8.8 million each. Server manufacturers may face reduced profit margins due to increased costs. Nvidia is moving towards shipping complete full-scale systems.
 
-💡 *High-quality components can withstand extreme temperatures with proper design.*
+💡 *High-priced Nvidia hardware tightens server manufacturers' profit margins significantly*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/rtx-5060-in-a-house-fire-suffers-melted-shroud-and-fans-but-survives-with-pcb-intact-scorched-gpu-just-needed-a-cleanup-and-a-new-cooler-for-full-restoration)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/price-of-nvidias-vera-rubin-nvl72-racks-skyrockets-to-as-much-as-usd8-8-million-apiece-but-server-makers-margins-will-be-tight-nvidia-is-moving-closer-to-shipping-entire-full-scale-systems)
 
 ---
 
-### 8. "We've achieved AGI," says Nvidia CEO, but his own examples suggest otherwise 
+### 5. Arm just changed the rules, building its first-ever CPU and betting big on agentic AI 
 
-In a separate conversation, he struck a different note, chastising engineers who underuse AI tools and warning he would be "deeply alarmed" if they were not spending enough on the very systems he had just suggested were already intelligent. The tension between those remarks one heralding the dawn of... Read Entire Article
+Arm is entering the CPU market with its first-ever CPU, disrupting data center dominance. This strategic move shifts the focus from GPUs and accelerators. Arm's agentic AI bet signals significant innovation.
 
-🔗 [Read Full Article](https://www.techspot.com/news/111797-weve-achieved-agi-nvidia-ceo-but-own-examples.html)
+💡 *GPUs' three-year data center reign is being challenged by Arm's CPU entry.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111814-arm-changed-rules-building-first-ever-cpu-betting.html)
+
+---
+
+### 6. AYANEO's upcoming Next 2 handheld gaming console shelved due to rising component prices company stops preorders for the $1,999 Strix Halo device 
+
+Ayaneo has suspended sales of its premium gaming handheld due to rising component costs. Existing preorders will still be honored. The company cited unfeasible procurement costs, particularly for storage, as the reason behind the decision.
+
+💡 *Rising component prices threaten profitability of high-end gaming devices.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/ayaneos-upcoming-next-2-handheld-gaming-console-shelved-due-to-rising-component-prices-company-stops-preorders-for-the-usd1-999-strix-halo-device)
 
 ---
 

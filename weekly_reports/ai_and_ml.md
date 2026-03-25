@@ -1,253 +1,215 @@
 # 🤖 AI & ML
-**Week of March 24, 2026**
+**Week of March 25, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 24
-- **Report generated:** 2026-03-24 09:39
+- **Articles this week:** 20
+- **Report generated:** 2026-03-25 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Valve adds early Steam Machine support in SteamOS 3.8 latest update brings performance gains, better controller support, and desktop improvements ⭐
+### 1. Huawei unveils new Atlas 350 AI accelerator with 1.56 PFLOPS of FP4 compute and up to 112GB of HBM claims 2.8x more performance than Nvidia's H20 
 
-SteamOS 3.8.0 preview introduces early Steam Machine support, performance upgrades, and improved VRR.
+Huawei unveiled the Atlas 350 AI accelerator with 1.56 PFLOPS FP4 compute and up to 112GB HBM. It claims 2.8x more performance than Nvidia's H20. The Atlas 350 uses the Ascend 950PR chip.
 
-💡 *Enhanced gaming experience for handheld devices and Steam Machines users*
+💡 *Huawei's Atlas 350 AI accelerator surpasses Nvidia's performance claims.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/valve-adds-early-steam-machine-support-in-steamos-3-8-latest-update-brings-performance-gains-better-controller-support-and-desktop-improvements)
-
----
-
-### 2. Hugging Face s Reachy Mini is an open-source AI robot for your computer or Raspberry Pi CM4 ⭐
-
-Hugging Face's Reachy Mini is an open-source AI robot that can interface with the physical world, featuring a camera, microphones, and servo motors. It's available in two versions: the Reachy Mini Lite for computers and the Reachy Mini Wireless autonomous robot for Raspberry Pi CM4. The robot's SDK allows for easy app development and integration with LLMs.
-
-💡 *AI robots enable new interfaces between code and the physical world.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/24/hugging-face-reachy-mini-open-source-ai-robot-computer-raspberry-pi-cm4/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/huawei-unveils-new-atlas-350-ai-accelerator-with-1-56-pflops-of-fp4-compute-and-up-to-112gb-of-hbm-claims-2-8x-more-performance-than-nvidias-h20)
 
 ---
 
-### 3. GTC 2026: Ian Buck press Q&A transcript VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year 
+### 2. RainbowLink-V2 compact USB-to-serial converter features 12V output, dual TTL, isolated RS-485 and RS-232 interfaces 
 
-Ian Buck discussed Nvidia's shift in strategy, shelving CPX and focusing on LPU, during a post-GTC 2026 press Q&A. The VP of Hyperscale and HPC addressed Nvidia's recent acquisition of Groq and its implications on the company's product roadmap. Buck provided insights into Nvidia's future plans and priorities.
+DFRobot's RainbowLink-V2 is a compact USB-to-serial converter featuring four independent channels and multiple output voltages. It provides isolated RS-485 and RS-232 interfaces, dual TTL interfaces, and a 12V output. The device eliminates the need for a separate power adapter.
 
-💡 *Nvidia prioritizes LPU over CPX, marking a significant product shift.*
+💡 *Simplified serial communication setup with integrated power supply capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/gc-2026-press-q-and-a-transcript)
-
----
-
-### 4. Apple MacBook Air (13-inch, M5) review: Steady as it goes 
-
-The MacBook Air with M5 delivers strong performance and premium materials, making it a valuable computing option.
-
-💡 *Balanced performance and value drive its competitive market position.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/apple-macbook-air-13-inch-m5-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/25/rainbowlink-v2-compact-usb-to-serial-converter-features-12v-output-dual-ttl-isolated-rs-485-and-rs-232-interfaces/)
 
 ---
 
-### 5. AMD Ryzen 7 9800X3D hits record low price, remains the go-to gaming CPU 
+### 3. LooperRobotics Insight 9 standalone spatial AI camera features D-Robotics RDK X5 SoC, supports ROS 2 (Crowdfunding) 
 
-The AMD Ryzen 7 9800X3D has hit a record low price of around $420, making it an even more compelling gaming CPU option due to its exceptional performance and efficiency.
+LooperRobotics Insight 9 is a standalone spatial AI camera for embodied intelligence, integrating a D-Robotics RDK X5 SoC for on-device processing and featuring a Tri-Eye Perception Matrix with a wide field of view and automotive-grade IMU.
 
-💡 *Avid gamers can now access top-tier performance without breaking the bank significantly.*
+💡 *Autonomous spatial AI camera with on-device processing for robotics applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/specs/cpu/300569-amd-ryzen-7-9800x3d.html)
-
----
-
-### 6. Nvidia CEO says he's 'empathetic' to DLSS 5 concerns Jensen Huang doubles down on defense while decrying 'AI slop' 
-
-Nvidia CEO Jensen Huang shows empathy for concerns about DLSS 5's 'AI slop'. He defends DLSS 5 while criticizing what he considers 'AI slop' in other AI-generated content. This tone shift aims to address concerns and maintain trust with customers.
-
-💡 *Nvidia CEO addresses concerns about AI-generated content quality and accuracy*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-says-hes-empathic-to-dlss-5-concerns-jensen-huang-doubles-down-on-defense-while-decrying-ai-slop)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/25/looperrobotics-insight-9-standalone-spatial-ai-camera-features-d-robotics-rdk-x5-soc-supports-ros-2/)
 
 ---
 
-### 7. Get the 9800X3D CPU, Asus TUF gaming X870, and 32GB of DDR5 RAM, plus a free 512GB Gen 4 SSD and Crimson Desert, all for $959.99 Newegg's combo bundles strike again 
+### 4. Crimson Desert dev apologizes for AI art slop, promises to add Intel Arc GPU support 
 
-Buy the 9800X3D CPU, Asus TUF gaming X870 mobo, and 32GB DDR5 RAM, plus a free 512GB Gen 4 SSD and Crimson Desert game, for $959.99.
+Pearl Abyss apologizes for AI-generated placeholder art in Crimson Desert, promises optimization for Intel Arc GPUs.
 
-💡 *Significant savings on high-end PC components and gaming bundle.*
+💡 *Developer accountability for AI-generated content in games is crucial for trust.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/spend-usd959-99-and-get-the-9800x3d-cpu-asus-tuf-gaming-x870-and-32gb-of-ddr5-ram-plus-a-free-512gb-gen-4-ssd-and-crimson-desert-neweggs-combo-bundles-strike-again)
-
----
-
-### 8. Concerns raised over Shahed kamikaze drone listings on Alibaba they featured AI guidance to lock onto people, building, vehicles, ships, etc  
-
-Alibaba removed listings and suspended sellers advertising kamikaze-style drones with AI guidance, sparking concerns.
-
-💡 *Sale of AI-equipped kamikaze drones raises national security and ethics concerns.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/concerns-raised-over-shahed-kamikaze-drone-listings-on-alibaba-they-featured-ai-guidance-to-lock-onto-people-building-vehicles-ships-etc)
+🔗 [Read Full Article](https://www.techspot.com/news/111795-crimson-desert-dev-apologizes-ai-art-slop-promises.html)
 
 ---
 
-### 9. Intel's long-rumored Core Ultra 3 205 CPU finally appears for sale at French retailer priced at $182, early listing confirms previously-known specs for the chip 
+### 5. Microsoft and Nvidia launch AI partnership to speed up nuclear power plant permitting and construction simulation tools and generative models could hasten historically lengthy processes 
 
-The Intel Core Ultra 3 205 is an 8-core CPU with 4 performance and 4 efficiency cores, part of the Arrow Lake family. It's been spotted at a French retailer despite never officially launching. The chip's specs and availability for order confirm previous rumors.
+Microsoft and Nvidia partner to speed up nuclear power plant construction with AI, using generative AI, digital twin simulation, and Nvidia's Omniverse platform to streamline the nuclear lifecycle.
 
-💡 *Long-rumored CPU finally surfaces, revealing Intel's unannounced product strategy.*
+💡 *Accelerating nuclear power plant construction for AI data centers' growing demand.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-long-rumored-core-ultra-3-205-cpu-finally-appears-for-sale-at-french-retailer-priced-at-usd182-early-listing-confirms-previously-known-specs-for-the-chip)
-
----
-
-### 10. Jensen Huang says Nvidia engineers should use AI tokens worth half their annual salary every year to be fully productive compares not using AI to using paper and pencil for designing chips 
-
-Nvidia's CEO Jensen Huang urges engineers to use AI tokens worth half their salary to boost productivity.
-
-💡 *AI adoption can 10x engineer productivity and transform design processes.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-nvidia-engineers-should-use-ai-tokens-worth-half-their-annual-salary-every-year-to-be-fully-productive-compares-not-using-ai-to-using-paper-and-pencil-for-designing-chips)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/microsoft-and-nvidia-launch-ai-tools-to-speed-up-nuclear-power-plant-permitting-and-construction)
 
 ---
 
-### 11. UV resin injection cures ancient, cataract-inflicted CRT monitor repaired 20-inch Trinitron would have been an enviable display in the mid 1990s 
+### 6. SK hynix places record $8 billion order for ASML EUV lithography machines should pay for up to 30 EUV machines over two years, serving HBM and advanced DRAM production 
 
-A vintage 20-inch Trinitron CRT was repaired using UV resin injection, curing cataracts that affected its display. This process allowed the monitor to regain its original image quality. The repair is a testament to creative problem-solving.
+SK hynix placed a record order for 11.9 trillion won ($8 billion) worth of EUV lithography equipment from ASML. This equipment will be used to support the production of HBM and advanced DRAM memory. The deal will span two years.
 
-💡 *Reviving vintage electronics highlights ingenuity in repurposing obsolete technology.*
+💡 *Massive investment in EUV lithography drives semiconductor technology advancement.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/uv-resin-injection-cures-ancient-cataract-inflicted-crt-monitor-repaired-20-inch-trinitron-would-have-been-an-enviable-display-in-the-mid-1990s)
-
----
-
-### 12. "We've achieved AGI," says Nvidia CEO, but his own examples suggest otherwise 
-
-In a separate conversation, he struck a different note, chastising engineers who underuse AI tools and warning he would be "deeply alarmed" if they were not spending enough on the very systems he had just suggested were already intelligent. The tension between those remarks one heralding the dawn of... Read Entire Article
-
-🔗 [Read Full Article](https://www.techspot.com/news/111797-weve-achieved-agi-nvidia-ceo-but-own-examples.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-places-record-8-billion-order-for-asml-euv-lithography-machines)
 
 ---
 
-### 13. Windows 11 users are still fixing the Start menu with third-party tools 
+### 7. US senators want to suspend Nvidia AI chip export licenses to China and its intermediaries bipartisan letter to Commerce Dept says that Huang s claims of no chip diversion were contradicted by reporting available  
 
-Windows 11 users rely on third-party tools to customize the Start menu, with options ranging from free, customizable interfaces to polished modern tweaks. Open Shell, Start11, StartAllBack, and ExplorerPatcher are popular choices among users. These tools offer a way to take back control of the UI.
+US senators Warren and Banks urge Commerce Dept to suspend Nvidia export licenses to China due to concerns over AI chip diversion.
 
-💡 *Users prioritize customization over Windows 11's default Start menu design.*
+💡 *US-China chip export controls have significant implications for global tech trade.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7103-open-shell/similar/)
-
----
-
-### 14. Sony confirms AI frame generation is coming to PlayStation, just not this year 
-
-Sony is developing AI-powered frame generation for the PlayStation, but it's not coming this year.
-
-💡 *Enhanced gaming performance through AI-powered frame generation technology arrives*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111791-sony-confirms-ai-frame-generation-coming-playstation-but.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-senators-want-to-suspend-nvidia-ai-chip-export-licenses-to-china-and-its-intermediaries-bipartisan-letter-to-commerce-dept-says-that-huangs-claims-of-no-chip-diversion-were-contradicted-by-reporting-available)
 
 ---
 
-### 15. California bill targeting Big Tech self-preferencing gains industry support as Apple faces scrutiny 
+### 8. Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding platform's investment grows to $13 billion from $480 million in 2024 
 
-California's BASED Act targets Big Tech self-preferencing to promote competition.
+The Pentagon designates Palantir's Maven Smart System as an official program, securing multi-year funding.
 
-💡 *Regulating self-preferencing could disrupt Big Tech's market dominance significantly.*
+💡 *Pentagon commitment cements AI's crucial role in military targeting operations.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111786-startups-rally-behind-california-antitrust-bill-targeting-big.html)
-
----
-
-### 16. Microsoft is rethinking Windows 11 after months of complaints 
-
-Microsoft is rethinking Windows 11 after months of user complaints, led by Windows chief Pavan Davuluri, who has acknowledged user frustration with the operating system.
-
-💡 *Addressing user concerns is crucial for software success and adoption.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111783-microsoft-rethinking-windows-11-after-months-complaints.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024)
 
 ---
 
-### 17. Samsung brings AirDrop support to the Galaxy S26 series, more devices to follow 
+### 9. Microsoft-backed start-up raises $40 million for helium atom beam lithography that could print chips at atomic resolution 0.1nm beam is 135 times narrower than ASML's EUV light 
 
-Samsung starts rolling out AirDrop support to Galaxy S26 series in Korea, with US and other regions to follow.
+Lace Lithography secured $40 million in funding for a helium atom beam lithography tool that could print chips at atomic resolution.
 
-💡 *Enhanced cross-platform file sharing capabilities for Samsung users*
+💡 *Atomic-resolution chipmaking could boost computing power and memory density significantly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111790-samsung-brings-airdrop-support-galaxy-s26-series-more.html)
-
----
-
-### 18. OpenAI plans to double its workforce as it pivots to enterprise AI 
-
-OpenAI plans to nearly double its workforce to 8,000 employees by year's end, focusing on engineering, research, sales, and product development.
-
-💡 *Massive hiring indicates OpenAI's significant expansion into enterprise AI solutions.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111781-openai-plans-double-workforce-pivots-enterprise-ai.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/norwegian-start-up-raises-40-million-for-helium-atom-beam-lithography)
 
 ---
 
-### 19. Apple store external SSD prices skyrocket as some SanDisk drives jump 200% 
+### 10. AWS Bahrain suffers major disruption due to the ongoing US-Iran conflict drone activity blamed for service interruption 
 
-Apple has quietly raised prices on third-party SSDs in its online store, with some increases reaching 200%.
+AWS Bahrain experienced a major disruption due to the US-Iran conflict, with drone activity cited as the cause. The company has requested clients to migrate their workloads to other regions. This has led to service interruptions.
 
-💡 *Rising prices impact consumers and third-party vendors relying on Apple's platform.*
+💡 *Global conflicts can impact cloud infrastructure and business operations.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111788-apple-store-external-ssd-prices-skyrocket-sandisk-drives.html)
-
----
-
-### 20. AI startups are filling San Francisco with cryptic billboards aimed at insiders 
-
-AI startups in San Francisco use cryptic billboards targeting peers in machine learning.
-
-💡 *Tech companies shift focus from consumer marketing to peer-to-peer appeal.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111782-ai-startups-filling-san-francisco-cryptic-billboards-aimed.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/aws-bahrain-suffers-major-disruption-due-to-the-ongoing-us-iran-conflict-drone-activity-blamed-for-service-interruption)
 
 ---
 
-### 21. Man who used 1,000 bots to stream AI songs pleads guilty in $8 million fraud case 
+### 11. Microsoft says, for once, Windows update isn't to blame for Galaxy Book4 laptops losing access to C: drive the Galaxy Connect app was the culprit, and it's been taken down from Microsoft Store 
 
-Michael Smith and co-conspirators ran a $8 million fraud scheme from 2017-2024, artificially boosting AI song stream counts on major music platforms.
+A widely reported issue with Galaxy Book 4 devices was caused by the Galaxy Connect app, not Windows Update. The app has been removed from the Microsoft Store. Microsoft has provided recovery steps for those affected.
 
-💡 *Artificially inflated music metrics can mislead artists and fans about song popularity.*
+💡 *Correct app identification prevents unnecessary Windows Update blame*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111787-man-who-used-1000-bots-stream-ai-songs.html)
-
----
-
-### 22. Elon Musk outlines Tesla-SpaceX "Terafab" to build advanced chips in Austin 
-
-Elon Musk announces a joint Tesla-SpaceX project, Terafab, in Austin with an advanced chip fab.
-
-💡 *Pioneering in-house chip manufacturing could boost innovation and reduce reliance on suppliers.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111780-elon-musk-terafab-chip-factory-make-advanced-ai.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/microsoft-says-for-once-windows-update-isnt-to-blame-for-galaxy-book4-laptops-losing-access-to-c-drive-the-galaxy-connect-app-was-the-culprit-and-its-been-taken-down-from-microsoft-store)
 
 ---
 
-### 23. Micron says driverless cars and robots will need 300GB of RAM 
+### 12. Thermal pads with in-built vapor-chambers claim 50 to 80 times better thermal conductivity than normal thermal pads 1,200 W/m-K "Vapor-Pad" from Xerendipity designed to replace traditional TIM in a CPU 
 
-Micron's CEO predicts driverless cars and robots will require 300GB of RAM, driven by their complex memory needs.
+Xerendipity's Vapor-Pad offers improved thermal conductivity for phone SoCs, enhancing cooling without added cost or thickness.
 
-💡 *Advancements in AI demand massive memory capabilities for autonomous systems.*
+💡 *Enhanced phone performance through improved heat dissipation and reduced throttling.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111785-micron-driverless-cars-robots-need-300gb-memory.html)
+🔗 [Read Full Article](https://www.tomshardware.com/phones/thermal-pads-with-in-built-vapor-chambers-claim-50-to-80-times-better-thermal-conductivity-than-normal-thermal-pads-1-200-w-m-k-vapor-pad-from-xerendipity-designed-to-replace-traditional-tim-in-a-cpu)
 
 ---
 
-### 24. Why the Majority of AI-Powered IoT Projects Fail: Jack Gold 
+### 13. Arm just changed the rules, building its first-ever CPU and betting big on agentic AI 
 
-75% of AIoT pilot projects fail to reach production due to various issues. This highlights the complexity and challenges of integrating AI into IoT systems. Effective deployment requires careful planning and execution.
+Arm is entering the CPU market with its first-ever CPU, disrupting data center dominance. This strategic move shifts the focus from GPUs and accelerators. Arm's agentic AI bet signals significant innovation.
 
-💡 *Integration challenges hinder AIoT project success and adoption.*
+💡 *GPUs' three-year data center reign is being challenged by Arm's CPU entry.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/why-majority-ai-powered-iot-projects-fail)
+🔗 [Read Full Article](https://www.techspot.com/news/111814-arm-changed-rules-building-first-ever-cpu-betting.html)
+
+---
+
+### 14. Epic cuts 1,000+ jobs amid financial struggles, seeks half-billion-dollar cost savings 
+
+Epic Games cuts over 1,000 jobs in an effort to reduce costs. The company seeks to achieve a cost savings of half a billion dollars. This move is attributed to financial struggles and industry-wide changes.
+
+💡 *Industry shifts and financial struggles drive major layoffs at Epic Games.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111809-epic-cuts-1000-jobs-amid-financial-struggles-seeks.html)
+
+---
+
+### 15. This startup will pay you $800 to yell at AI all day 
+
+Memvid is offering $800 for a 'professional' yeller to stress-test popular chatbots, mimicking the behavior of Boston Dynamics' AI testers.
+
+💡 *AI robustness tested through human interaction and stress scenarios.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111794-job-posting-seeks-human-ai-bully-harass-chatbot.html)
+
+---
+
+### 16. Microsoft signals potential end to Windows 11 online account requirement 
+
+Microsoft's VP, Scott Hanselman, expressed dislike for Windows 11's online requirement, hinting at possible changes.
+
+💡 *Microsoft may reconsider Windows 11's online account requirement policy.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111808-microsoft-vp-signals-potential-end-windows-11-online.html)
+
+---
+
+### 17. The US moves to block most new routers made overseas 
+
+The US blocks most new routers made overseas, affecting future imports.
+
+💡 *US router import ban impacts foreign tech industry significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111802-us-moves-block-most-new-routers-made-overseas.html)
+
+---
+
+### 18. PowerVR GPUs gain DirectX support as Imagination eyes PC market comeback 
+
+Imagination Technologies adds DirectX support to PowerVR GPUs, aiming for PC comeback.
+
+💡 *Imagination expands its reach beyond mobile markets to PC gaming sector.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111800-imagination-technologies-plots-return-pc-graphics-directx-push.html)
+
+---
+
+### 19. ESRB won't adopt Europe's stricter loot box rating changes in the US 
+
+The ESRB won't adopt stricter loot box rating changes from Europe. Germany's ratings board implemented higher ratings for games with microtransactions in 2023, but the ESRB has no plans to follow suit. This decision leaves the US with less regulatory oversight on loot box content.
+
+💡 *Lack of US oversight on loot box content sparks gamer concerns.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111798-esrb-wont-adopt-europe-stricter-loot-box-rating.html)
+
+---
+
+### 20. Steve Wozniak says he's "disappointed a lot" by AI and rarely uses it 
+
+Steve Wozniak expresses disappointment and limited use of AI technology.
+
+💡 *Tech pioneer's skepticism highlights AI concerns despite industry advancements.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111806-steve-wozniak-disappointed-lot-ai-rarely-uses.html)
 
 ---
 
