@@ -1,435 +1,403 @@
 [
   {
-    "title": "Arm moves beyond IP with AGI CPU silicon 136-core data center chip targets AI infrastructure with Meta as lead partner",
-    "summary": "Arm has developed an in-house, up-to 136-core CPU for data centers, targeting AI infrastructure with Meta as a lead partner.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/arm-launches-its-first-data-center-cpu",
+    "title": "Geekbench 6 warns about inconsistent benchmarking performance from new Core Ultra 200S Plus chips says Intel's IPC boosting Binary Optimization Tool modifies scores in 'unclear' fashion",
+    "summary": "Geekbench 6 users are warned of inconsistent benchmarking due to Intel's iBOT tool. The tool, found in new Core Ultra chips, modifies benchmark scores in an unclear manner. This makes it difficult for Geekbench 6 to accurately track performance.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/geekbench-6-warns-about-inconsistent-benchmarking-performance-from-new-core-ultra-200s-plus-chips-says-intels-ipc-boosting-binary-optimization-tool-modifies-scores-in-unclear-fashion",
     "categories": [
-      "Semiconductors",
-      "Hardware"
+      "Hardware",
+      "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-25T09:36:10.772174",
-    "insight": "Arm expands into AI-focused hardware, increasing competition for traditional chipmakers."
+    "quality_score": 15,
+    "processed_date": "2026-03-26T09:44:18.281413",
+    "insight": "iBOT tool affects benchmark scores in unpredictable 'unclear' fashion always"
   },
   {
-    "title": "Microsoft and Nvidia launch AI partnership to speed up nuclear power plant permitting and construction simulation tools and generative models could hasten historically lengthy processes",
-    "summary": "Microsoft and Nvidia partner to speed up nuclear power plant construction with AI, using generative AI, digital twin simulation, and Nvidia's Omniverse platform to streamline the nuclear lifecycle.",
-    "link": "https://www.tomshardware.com/tech-industry/microsoft-and-nvidia-launch-ai-tools-to-speed-up-nuclear-power-plant-permitting-and-construction",
+    "title": "Micron's $24 billion Singapore fab could need 500 transformers, more than double the output of any single manufacturer heavy electrical infrastructure the latest AI buildout bottleneck",
+    "summary": "Micron's planned Singapore fab expansion will need up to 500 power transformers, more than double the typical requirement for a standard wafer fab.",
+    "link": "https://www.tomshardware.com/pc-components/dram/microns-24-billion-singapore-fab-could-need-500-transformers",
     "categories": [
       "AI & ML",
-      "Tech News"
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.772318",
-    "insight": "Accelerating nuclear power plant construction for AI data centers' growing demand."
+    "processed_date": "2026-03-26T09:44:18.281548",
+    "insight": "Rapid AI buildouts are bottlenecked by heavy electrical infrastructure constraints."
   },
   {
-    "title": "AYANEO's upcoming Next 2 handheld gaming console shelved due to rising component prices company stops preorders for the $1,999 Strix Halo device",
-    "summary": "Ayaneo has suspended sales of its premium gaming handheld due to rising component costs. Existing preorders will still be honored. The company cited unfeasible procurement costs, particularly for storage, as the reason behind the decision.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/ayaneos-upcoming-next-2-handheld-gaming-console-shelved-due-to-rising-component-prices-company-stops-preorders-for-the-usd1-999-strix-halo-device",
+    "title": "Samsung s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing new model spotted in Europe for 1,300 with higher cache and endurance",
+    "summary": "Samsung's unlisted 870 EVO 8TB model is available in Europe, priced at 1,300. This model features higher cache and endurance compared to its lower-capacity counterparts. The 8TB variant has appeared despite global storage shortages and rising prices.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/samsungs-870-evo-sata-ssd-quietly-gets-8tb-variant-despite-ai-storage-struggle-new-model-spotted-in-europe-for-eur1-300-with-higher-cache-and-endurance",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.281663",
+    "insight": "New 8TB SSD addresses storage shortage with high-capacity innovation."
+  },
+  {
+    "title": "Intel Arc Pro B70 and Arc Pro B65 GPUs bring 32GB of RAM to AI and pro apps bigger Battlemage finally arrives, but it's not for gamers",
+    "summary": "Intel's Arc Pro B70 and B65 GPUs offer 32GB RAM for AI and pro apps at a relatively low price.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/intel-arc-pro-b70-and-arc-pro-b65-gpus-bring-32gb-of-ram-to-ai-and-pro-apps-bigger-battlemage-finally-arrives-but-its-not-for-gaming",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.281781",
+    "insight": "AI and pro computing gets more affordable with increased raw compute options."
+  },
+  {
+    "title": "PC makers face shortages of Intel and AMD CPUs that stretch up to six months lead time for orders jumps from just two weeks in the face of AI demand",
+    "summary": "PC manufacturers face CPU shortages due to high demand for AI-capable systems.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/pc-makers-face-shortages-of-intel-and-amd-cpus-that-stretch-up-to-six-months-lead-time-for-orders-jumps-from-just-two-weeks-in-the-face-of-ai-demand",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.281914",
+    "insight": "Insufficient CPU supply threatens PC sales and AI adoption pace."
+  },
+  {
+    "title": "Google's TurboQuant reduces AI LLM cache memory capacity requirements by at least six times up to 8x performance boost on Nvidia H100 GPUs, compresses KV caches to 3 bits with no accuracy loss",
+    "summary": "Google's TurboQuant reduces AI LLM cache memory requirements by at least six times, achieving an up to 8x performance boost on Nvidia H100 GPUs with no accuracy loss.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-turboquant-compresses-llm-kv-caches-to-3-bits-with-no-accuracy-loss",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-03-26T09:44:18.282032",
+    "insight": "Optimized AI performance without compromising accuracy or memory."
+  },
+  {
+    "title": "Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse",
+    "summary": "The Seagate FireCuda 530R is a workstation SSD prioritizing reliability and performance.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-530r-2tb-ssd-review",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-03-25T09:36:10.772459",
-    "insight": "Rising component prices threaten profitability of high-end gaming devices."
+    "quality_score": 15,
+    "processed_date": "2026-03-26T09:44:18.282144",
+    "insight": "Enhanced write endurance for demanding professional applications stability."
   },
   {
-    "title": "SK hynix places record $8 billion order for ASML EUV lithography machines should pay for up to 30 EUV machines over two years, serving HBM and advanced DRAM production",
-    "summary": "SK hynix placed a record order for 11.9 trillion won ($8 billion) worth of EUV lithography equipment from ASML. This equipment will be used to support the production of HBM and advanced DRAM memory. The deal will span two years.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-places-record-8-billion-order-for-asml-euv-lithography-machines",
+    "title": "Intel officially releases Xeon 600 chips, announces new vPro Panther Lake CPUs all-new vPro platform goes all-in on AI",
+    "summary": "Intel has released Xeon 600 CPUs and detailed vPro Panther Lake features, emphasizing AI integration.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-officially-releases-xeon-600-chips-announces-new-vpro-panther-lake-cpus-all-new-vpro-platform-goes-all-in-on-ai",
     "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.772588",
-    "insight": "Massive investment in EUV lithography drives semiconductor technology advancement."
-  },
-  {
-    "title": "We need your opinions to shape Tom's Hardware Premium",
-    "summary": "Tom's Hardware Premium is seeking feedback from non-subscribers to shape its platform. Participants can win a gift card for their input. Share your opinions to help improve the service.",
-    "link": "https://www.tomshardware.com/tech-industry/we-need-your-opinions-to-shape-toms-hardware-premium",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-03-25T09:36:10.772703",
-    "insight": "Subscriber feedback shapes Tom's Hardware Premium's future development direction"
-  },
-  {
-    "title": "Huawei unveils new Atlas 350 AI accelerator with 1.56 PFLOPS of FP4 compute and up to 112GB of HBM claims 2.8x more performance than Nvidia's H20",
-    "summary": "Huawei unveiled the Atlas 350 AI accelerator with 1.56 PFLOPS FP4 compute and up to 112GB HBM. It claims 2.8x more performance than Nvidia's H20. The Atlas 350 uses the Ascend 950PR chip.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/huawei-unveils-new-atlas-350-ai-accelerator-with-1-56-pflops-of-fp4-compute-and-up-to-112gb-of-hbm-claims-2-8x-more-performance-than-nvidias-h20",
-    "categories": [
-      "GPUs",
+      "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-25T09:36:10.772830",
-    "insight": "Huawei's Atlas 350 AI accelerator surpasses Nvidia's performance claims."
+    "processed_date": "2026-03-26T09:44:18.282267",
+    "insight": "Intel's AI-focused vPro platform boosts business computing efficiency and productivity."
   },
   {
-    "title": "US senators want to suspend Nvidia AI chip export licenses to China and its intermediaries bipartisan letter to Commerce Dept says that Huang s claims of no chip diversion were contradicted by reporting available ",
-    "summary": "US senators Warren and Banks urge Commerce Dept to suspend Nvidia export licenses to China due to concerns over AI chip diversion.",
-    "link": "https://www.tomshardware.com/tech-industry/us-senators-want-to-suspend-nvidia-ai-chip-export-licenses-to-china-and-its-intermediaries-bipartisan-letter-to-commerce-dept-says-that-huangs-claims-of-no-chip-diversion-were-contradicted-by-reporting-available",
+    "title": "Kentucky farm family rejects $26 million offer for 600 acres of land from unnamed AI data center suitor declines 7x offer, wants to Stay and hold and feed a nation ",
+    "summary": "A Kentucky family rejected a $26 million offer for 600 acres of land, citing its importance to feeding the nation.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/kentucky-farm-family-rejects-usd26-million-offer-for-600-acres-of-land-from-unnamed-ai-data-center-suitor-declines-7x-offer-wants-to-stay-and-hold-and-feed-a-nation",
     "categories": [
-      "GPUs",
-      "AI & ML"
+      "AI & ML",
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.772966",
-    "insight": "US-China chip export controls have significant implications for global tech trade."
+    "processed_date": "2026-03-26T09:44:18.282399",
+    "insight": "Land preservation prioritized over profit in pursuit of national food security."
   },
   {
-    "title": "Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding platform's investment grows to $13 billion from $480 million in 2024",
-    "summary": "The Pentagon designates Palantir's Maven Smart System as an official program, securing multi-year funding.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024",
+    "title": "Gigabyte MO27Q28G 27-inch 280 Hz OLED gaming monitor review: Bright, colorful, and quick",
+    "summary": "The Gigabyte MO27Q28G offers a 27-inch QHD OLED gaming monitor with 280 Hz and HDR500, providing a huge color gamut and adaptive sync for a seamless gaming experience.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-mo27q28g-27-inch-280-hz-oled-gaming-monitor-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-26T09:44:18.282507",
+    "insight": "Fastest refresh rates for elite gaming experiences"
+  },
+  {
+    "title": "Russian Starlink Rival established with 16 satellites launched, aims for 900 by 2035 commercial operation to begin next year with 250 sputniks",
+    "summary": "Russia's Rassvet satellite system has launched 16 satellites, aiming for 900 by 2035. Commercial operation is set to begin next year with 250 satellites. This state-funded project rivals Elon Musk's Starlink.",
+    "link": "https://www.tomshardware.com/networking/russian-starlink-rival-established-with-16-satellites-launched-aims-for-900-by-2035-commercial-operation-to-begin-next-year-with-250-sputniks",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.773079",
-    "insight": "Pentagon commitment cements AI's crucial role in military targeting operations."
+    "quality_score": 10,
+    "processed_date": "2026-03-26T09:44:18.282642",
+    "insight": "Russia challenges Elon Musk's global satellite internet dominance."
   },
   {
-    "title": "Intel Core Ultra 5 250K Plus review: The new best $200 CPU",
-    "summary": "Intel's Core Ultra 5 250K Plus offers exceptional performance at an affordable price, setting a new standard for $200 CPUs. It matches or surpasses competitors in various benchmarks, delivering impressive results in games and applications. This makes it an excellent choice for budget-conscious builders and gamers.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-250k-plus-review",
+    "title": "Flipper Zero pen-testing tool gets an AI-powered companion app natural language interface allows for faster, easier hacking",
+    "summary": "A new AI-powered app, V3SP3R, assists with using the Flipper Zero tool. The app features a natural language interface for easier hacking. This companion app streamlines the process for users.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/flipper-zero-pen-testing-tool-gets-an-ai-powered-companion-app-natural-language-interface-allows-for-faster-easier-hacking",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.282751",
+    "insight": "Simplifying pen-testing with a conversational AI interface boosts efficiency."
+  },
+  {
+    "title": "HP's new AI workstation can expand horizontally to add 15% more internal volume alternate side panel also includes more active cooling.",
+    "summary": "HP's Z8 Fury G6i workstation expands internally by 15% with 'max' panel, adding active cooling.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/hps-new-ai-workstation-can-expand-horizontally-to-add-15-percent-more-internal-volume-alternate-side-panel-also-includes-more-active-cooling",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.282877",
+    "insight": "Increased internal space for enhanced performance and cooling capabilities."
+  },
+  {
+    "title": "RuView project leverages ESP32 nodes for WiFi-based presence detection, pose estimation, and breathing/heart rate monitoring",
+    "summary": "RuView is an open-source project that uses ESP32 nodes to track human presence, pose, and vital signs using WiFi signals without cameras.",
+    "link": "https://www.cnx-software.com/2026/03/26/ruview-project-leverages-esp32-nodes-for-presence-detection-pose-estimation-and-breathing-heart-rate-monitoring/",
     "categories": [
       "Hardware",
-      "Tech News"
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-26T09:44:18.283419",
+    "insight": "Revolutionizing contactless health monitoring and presence detection with WiFi technology."
+  },
+  {
+    "title": "AngstromIO A tiny 9.0 x 8.9 mm ATtiny1616 board that fits on top of a USB-C connector",
+    "summary": "The AngstromIO is a tiny open-source development board based on the ATtiny1616 MCU, measuring 9.0 x 8.9 mm and featuring a USB-C power connector. It includes a QFN20-packaged ATtiny1616 MCU, addressable RGB LEDs, and accessible GPIOs. The board is ideal for space-constrained embedded projects due to its compact size and low power consumption.",
+    "link": "https://www.cnx-software.com/2026/03/26/angstromio-a-tiny-9-0-x-8-9-mm-attiny1616-board-that-fits-on-top-of-a-usb-c-connector/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.283587",
+    "insight": "Ultra-portable, low-power microcontroller development for highly constrained embedded projects."
+  },
+  {
+    "title": "Alibaba XuanTie C950 A powerful, RVA23-complaint 64-bit RISC-V core for Edge AI computing",
+    "summary": "Alibaba has introduced the XuanTie C950, a 64-bit RISC-V core for high-performance Edge AI computing. It features a superscalar out-of-order microarchitecture and supports various extensions for AI and crypto tasks. The XuanTie C950 is designed for cloud computing, edge computing, and AI applications.",
+    "link": "https://www.cnx-software.com/2026/03/25/alibaba-xuantie-c950-a-powerful-rva23-complaint-64-bit-risc-v-core-for-edge-ai-computing/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
     ],
     "quality_score": 20,
-    "processed_date": "2026-03-25T09:36:10.773203",
-    "insight": "Unbeatable value for budget-friendly CPU performance in $200 category"
+    "processed_date": "2026-03-26T09:44:18.283765",
+    "insight": "Alibaba's XuanTie C950 boosts Edge AI computing with high-performance RISC-V core"
   },
   {
-    "title": "Microsoft-backed start-up raises $40 million for helium atom beam lithography that could print chips at atomic resolution 0.1nm beam is 135 times narrower than ASML's EUV light",
-    "summary": "Lace Lithography secured $40 million in funding for a helium atom beam lithography tool that could print chips at atomic resolution.",
-    "link": "https://www.tomshardware.com/tech-industry/norwegian-start-up-raises-40-million-for-helium-atom-beam-lithography",
+    "title": "Quixant IQON 3 and Air 3 AMD Ryzen Embedded 8000 systems target casino and arcade gaming",
+    "summary": "Quixant IQON 3 and IQON Air 3 are industrial systems designed for casino and arcade gaming. They feature AMD Ryzen Embedded 8000 SoCs with Zen 4 cores and support four independent 4K displays. The systems come in two variations, one passively cooled and the other with a cooling fan.",
+    "link": "https://www.cnx-software.com/2026/03/25/quixant-iqon-3-and-air-3-amd-ryzen-embedded-8000-systems-target-casino-and-arcade-gaming/",
     "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.773316",
-    "insight": "Atomic-resolution chipmaking could boost computing power and memory density significantly."
-  },
-  {
-    "title": "Autonomous mobile drone swarm killer created in trilateral US defense company collab the new Leonidas Autonomous Ground Vehicle (AGV) is a high-power microwave platform",
-    "summary": "A US defense company collaboration has developed the Leonidas AGV, a high-power microwave platform designed to counter drone swarms. This autonomous ground vehicle is a significant response to emerging threats. It leverages directed energy capabilities for effective countermeasures.",
-    "link": "https://www.tomshardware.com/tech-industry/autonomous-mobile-drone-swarm-killer-created-in-trilateral-us-defense-company-collab-the-new-leonidas-autonomous-ground-vehicle-agv-is-a-high-power-microwave-platform",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.773425",
-    "insight": "Directed energy counters swarms with high-power microwave precision."
-  },
-  {
-    "title": "China laptop vendor eats humble pie, apology says production error was behind chip mix-up full refunds offered to those affected by the fake Ryzen 5 7430U scam ",
-    "summary": "Chuwi apologizes for laptops with mismatched specs, offers full refunds",
-    "link": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/china-laptop-vendor-eats-humble-pie-apology-says-production-error-was-behind-chip-mix-up-full-refunds-offered-to-those-affected-by-the-fake-ryzen-5-7430u-scam",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-25T09:36:10.773537",
-    "insight": "Chinese laptop vendor's reputation hinges on addressing spec discrepancies"
-  },
-  {
-    "title": "AWS Bahrain suffers major disruption due to the ongoing US-Iran conflict drone activity blamed for service interruption",
-    "summary": "AWS Bahrain experienced a major disruption due to the US-Iran conflict, with drone activity cited as the cause. The company has requested clients to migrate their workloads to other regions. This has led to service interruptions.",
-    "link": "https://www.tomshardware.com/tech-industry/aws-bahrain-suffers-major-disruption-due-to-the-ongoing-us-iran-conflict-drone-activity-blamed-for-service-interruption",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.773675",
-    "insight": "Global conflicts can impact cloud infrastructure and business operations."
-  },
-  {
-    "title": "Gigabyte X870 Aorus Stealth Motherboard Review: The gothy Goldilocks of rear-connect AM5 motherboards",
-    "summary": "Gigabyte's X870 Aorus Stealth offers a high-performance AM5 motherboard at a budget-friendly price.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870-aorus-stealth-motherboard-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-25T09:36:10.773780",
-    "insight": "Reasonably priced BTF options fill AM5 motherboard market gap."
-  },
-  {
-    "title": "FCC bans import of new consumer routers not made in the US over security threat agency says foreign-made devices pose unacceptable risk to US persons",
-    "summary": "The FCC bans import of new foreign-made consumer routers due to security threats. Foreign-made devices are deemed an unacceptable risk to US citizens. Manufacturers must secure 'Conditional Approval' from the DoD or DHS.",
-    "link": "https://www.tomshardware.com/networking/routers/fcc-bans-import-of-new-consumer-routers-not-made-in-the-us-over-security-threat-agency-says-foreign-made-devices-pose-unacceptable-risk-to-us-persons",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.773905",
-    "insight": "Foreign-made routers pose significant security risks to US citizens' data."
-  },
-  {
-    "title": "Trump administration targets $4 trillion Pax Silica investment fund for semiconductors the US will start with a $250 million investment for global consortium",
-    "summary": "The Trump administration targets $4 trillion Pax Silica for semiconductor investment.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/trump-administration-targets-4-trillion-pax-silica-investment-fund-for-semiconductors",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.774020",
-    "insight": "$4 trillion investment aims to boost US semiconductor industry competitiveness."
-  },
-  {
-    "title": "Microsoft says, for once, Windows update isn't to blame for Galaxy Book4 laptops losing access to C: drive the Galaxy Connect app was the culprit, and it's been taken down from Microsoft Store",
-    "summary": "A widely reported issue with Galaxy Book 4 devices was caused by the Galaxy Connect app, not Windows Update. The app has been removed from the Microsoft Store. Microsoft has provided recovery steps for those affected.",
-    "link": "https://www.tomshardware.com/laptops/microsoft-says-for-once-windows-update-isnt-to-blame-for-galaxy-book4-laptops-losing-access-to-c-drive-the-galaxy-connect-app-was-the-culprit-and-its-been-taken-down-from-microsoft-store",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.774143",
-    "insight": "Correct app identification prevents unnecessary Windows Update blame"
-  },
-  {
-    "title": "Thermal pads with in-built vapor-chambers claim 50 to 80 times better thermal conductivity than normal thermal pads 1,200 W/m-K \"Vapor-Pad\" from Xerendipity designed to replace traditional TIM in a CPU",
-    "summary": "Xerendipity's Vapor-Pad offers improved thermal conductivity for phone SoCs, enhancing cooling without added cost or thickness.",
-    "link": "https://www.tomshardware.com/phones/thermal-pads-with-in-built-vapor-chambers-claim-50-to-80-times-better-thermal-conductivity-than-normal-thermal-pads-1-200-w-m-k-vapor-pad-from-xerendipity-designed-to-replace-traditional-tim-in-a-cpu",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.774262",
-    "insight": "Enhanced phone performance through improved heat dissipation and reduced throttling."
-  },
-  {
-    "title": "Price of Nvidia's Vera Rubin NVL72 racks skyrockets to as much as $8.8 million apiece, but server makers' margins will be tight Nvidia is moving closer to shipping entire full-scale systems",
-    "summary": "Nvidia's Vera Rubin NVL72 racks now cost up to $8.8 million each. Server manufacturers may face reduced profit margins due to increased costs. Nvidia is moving towards shipping complete full-scale systems.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/price-of-nvidias-vera-rubin-nvl72-racks-skyrockets-to-as-much-as-usd8-8-million-apiece-but-server-makers-margins-will-be-tight-nvidia-is-moving-closer-to-shipping-entire-full-scale-systems",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.774386",
-    "insight": "High-priced Nvidia hardware tightens server manufacturers' profit margins significantly"
-  },
-  {
-    "title": "RainbowLink-V2 compact USB-to-serial converter features 12V output, dual TTL, isolated RS-485 and RS-232 interfaces",
-    "summary": "DFRobot's RainbowLink-V2 is a compact USB-to-serial converter featuring four independent channels and multiple output voltages. It provides isolated RS-485 and RS-232 interfaces, dual TTL interfaces, and a 12V output. The device eliminates the need for a separate power adapter.",
-    "link": "https://www.cnx-software.com/2026/03/25/rainbowlink-v2-compact-usb-to-serial-converter-features-12v-output-dual-ttl-isolated-rs-485-and-rs-232-interfaces/",
-    "categories": [
-      "AI & ML",
+      "GPUs",
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-25T09:36:10.774838",
-    "insight": "Simplified serial communication setup with integrated power supply capabilities."
+    "processed_date": "2026-03-26T09:44:18.283950",
+    "insight": "High-performance, fanless gaming systems for casinos and arcades"
   },
   {
-    "title": "LooperRobotics Insight 9 standalone spatial AI camera features D-Robotics RDK X5 SoC, supports ROS 2 (Crowdfunding)",
-    "summary": "LooperRobotics Insight 9 is a standalone spatial AI camera for embodied intelligence, integrating a D-Robotics RDK X5 SoC for on-device processing and featuring a Tri-Eye Perception Matrix with a wide field of view and automotive-grade IMU.",
-    "link": "https://www.cnx-software.com/2026/03/25/looperrobotics-insight-9-standalone-spatial-ai-camera-features-d-robotics-rdk-x5-soc-supports-ros-2/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-25T09:36:10.775023",
-    "insight": "Autonomous spatial AI camera with on-device processing for robotics applications."
-  },
-  {
-    "title": "Upcoming ESP32-S31 dual-core RISC-V MCU offers Gigabit Ethernet, WiFi, Bluetooth, and 802.15.4 connectivity",
-    "summary": "Espressif Systems' ESP32-S31 is a dual-core RISC-V MCU with Gigabit Ethernet, WiFi, and Bluetooth connectivity, featuring a high-performance core with FPU and SIMD instructions, a low-power core, and various peripherals.",
-    "link": "https://www.cnx-software.com/2026/03/24/esp32-s31-dual-core-risc-v-mcu-offers-gigabit-ethernet-wifi-bluetooth-and-802-15-4-connectivity/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-25T09:36:10.775198",
-    "insight": "High-performance core enables efficient processing for IoT and industrial applications."
-  },
-  {
-    "title": "Jury reaches verdict in social media addiction trial, finds Meta liable for harm to children",
-    "summary": "A New Mexico jury finds Meta liable for harming children through social media, citing platform safety concerns and public deception.",
-    "link": "https://www.techspot.com/news/111804-jury-struggles-reach-verdict-social-media-addiction-trial.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.776473",
-    "insight": "Social media giants held accountable for child harm and safety."
-  },
-  {
-    "title": "Arm just changed the rules, building its first-ever CPU and betting big on agentic AI",
-    "summary": "Arm is entering the CPU market with its first-ever CPU, disrupting data center dominance. This strategic move shifts the focus from GPUs and accelerators. Arm's agentic AI bet signals significant innovation.",
-    "link": "https://www.techspot.com/news/111814-arm-changed-rules-building-first-ever-cpu-betting.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.776600",
-    "insight": "GPUs' three-year data center reign is being challenged by Arm's CPU entry."
-  },
-  {
-    "title": "\"Silicon\" is a new coffee table book about the chip industry's origins and impact",
-    "summary": "The book 'Silicon' explores the chip industry's origins and impact through 10 chapters, each focusing on a different aspect of how silicon transformed modern life. The narrative delves into the process of turning silicon into machine intelligence, highlighting its significance in shaping our world.",
-    "link": "https://www.techspot.com/news/111803-silicon-new-coffee-table-book-about-chip-industry.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.776739",
-    "insight": "Silicon's evolution revolutionized technology, transforming human life forever"
-  },
-  {
-    "title": "Epic cuts 1,000+ jobs amid financial struggles, seeks half-billion-dollar cost savings",
-    "summary": "Epic Games cuts over 1,000 jobs in an effort to reduce costs. The company seeks to achieve a cost savings of half a billion dollars. This move is attributed to financial struggles and industry-wide changes.",
-    "link": "https://www.techspot.com/news/111809-epic-cuts-1000-jobs-amid-financial-struggles-seeks.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.776861",
-    "insight": "Industry shifts and financial struggles drive major layoffs at Epic Games."
-  },
-  {
-    "title": "This startup will pay you $800 to yell at AI all day",
-    "summary": "Memvid is offering $800 for a 'professional' yeller to stress-test popular chatbots, mimicking the behavior of Boston Dynamics' AI testers.",
-    "link": "https://www.techspot.com/news/111794-job-posting-seeks-human-ai-bully-harass-chatbot.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.776975",
-    "insight": "AI robustness tested through human interaction and stress scenarios."
-  },
-  {
-    "title": "Microsoft signals potential end to Windows 11 online account requirement",
-    "summary": "Microsoft's VP, Scott Hanselman, expressed dislike for Windows 11's online requirement, hinting at possible changes.",
-    "link": "https://www.techspot.com/news/111808-microsoft-vp-signals-potential-end-windows-11-online.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.777086",
-    "insight": "Microsoft may reconsider Windows 11's online account requirement policy."
-  },
-  {
-    "title": "The US moves to block most new routers made overseas",
-    "summary": "The US blocks most new routers made overseas, affecting future imports.",
-    "link": "https://www.techspot.com/news/111802-us-moves-block-most-new-routers-made-overseas.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.777202",
-    "insight": "US router import ban impacts foreign tech industry significantly."
-  },
-  {
-    "title": "There were 1,000 Internet devices in 1984, 1 million in 1992, by 2025 that figure reached...",
-    "summary": "The number of internet devices grew from 1,000 in 1984 to 1 million in 1992, and by 2025, it reached 50 billion. This rapid increase is attributed to advancements in technology and the widespread adoption of the internet. The sheer scale of connected devices is a testament to human innovation.",
-    "link": "https://www.techspot.com/trivia/138-there-1000-internet-devices-1984-1-million-1992/",
+    "title": "Corvus and Southern Glazer to expand use of drones in warehouses",
+    "summary": "Corvus and Southern Glazer's wine and spirits distributor are expanding their use of autonomous drones to track out-of-stock products in warehouses, which will help improve efficiency and reduce losses.",
+    "link": "https://www.fiercesensors.com/sensors/corvus-and-southern-glazer-expand-use-drones-warehouses",
     "categories": [
       "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-03-25T09:36:10.777302",
-    "insight": "Unprecedented digital transformation drives exponential growth of connected devices."
+    "processed_date": "2026-03-26T09:44:18.284924",
+    "insight": "Efficient inventory management through AI-powered drone technology matters"
   },
   {
-    "title": "Broadcom sounds the alarm as chip demand is pushing TSMC to its limits",
-    "summary": "Broadcom's Natarajan Ramachandran warns that TSMC is hitting capacity limits. This is a concern for Broadcom as it relies on TSMC for chip production. TSMC's capacity expansion plans are extending through 2027.",
-    "link": "https://www.techspot.com/news/111805-broadcom-sounds-alarm-chip-demand-pushing-tsmc-limits.html",
+    "title": "Spotify's SongDNA maps the creative lineage of your favorite music",
+    "summary": "Spotify's SongDNA is an immersive feature providing extended credits to music contributors.",
+    "link": "https://www.techspot.com/news/111829-spotify-songdna-maps-creative-lineage-favorite-music.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.285358",
+    "insight": "SongDNA helps users appreciate music's complex creative lineage more deeply."
+  },
+  {
+    "title": "Researchers build experimental drone that flies without moving parts",
+    "summary": "Researchers developed a solid-state ornithopter drone using electricity-driven materials and aerodynamics.",
+    "link": "https://www.techspot.com/news/111820-researchers-build-experimental-drone-flies-without-moving-parts.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-26T09:44:18.285535",
+    "insight": "Revolutionizing aerial vehicles with a new, part-less, and efficient design concept."
+  },
+  {
+    "title": "The legendary 3dfx Voodoo is back in FPGA form",
+    "summary": "The 3dfx Voodoo graphics accelerator has been emulated in FPGA form, allowing for its revival in retro gaming and modding projects. This move ensures the Voodoo chip's legacy lives on through emulators and hardware modding. Its impact on gaming history is secured.",
+    "link": "https://www.techspot.com/news/111815-3dfx-voodoo-accelerator-reimagined-modern-fpga-hardware.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.285711",
+    "insight": "Preserving gaming history through FPGA emulation of obsolete hardware."
+  },
+  {
+    "title": "OnePlus may close operations in the US and Europe as early as April",
+    "summary": "OnePlus may cease operations in the US, EU, and UK markets.",
+    "link": "https://www.techspot.com/news/111825-oneplus-shutting-down-operations-next-month-further-reducing.html",
     "categories": [
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.777429",
-    "insight": "Chip demand is outpacing TSMC's manufacturing capacity expansion."
+    "processed_date": "2026-03-26T09:44:18.285905",
+    "insight": "Massive market exit could severely impact brand reputation worldwide."
   },
   {
-    "title": "PowerVR GPUs gain DirectX support as Imagination eyes PC market comeback",
-    "summary": "Imagination Technologies adds DirectX support to PowerVR GPUs, aiming for PC comeback.",
-    "link": "https://www.techspot.com/news/111800-imagination-technologies-plots-return-pc-graphics-directx-push.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.777560",
-    "insight": "Imagination expands its reach beyond mobile markets to PC gaming sector."
-  },
-  {
-    "title": "ESRB won't adopt Europe's stricter loot box rating changes in the US",
-    "summary": "The ESRB won't adopt stricter loot box rating changes from Europe. Germany's ratings board implemented higher ratings for games with microtransactions in 2023, but the ESRB has no plans to follow suit. This decision leaves the US with less regulatory oversight on loot box content.",
-    "link": "https://www.techspot.com/news/111798-esrb-wont-adopt-europe-stricter-loot-box-rating.html",
+    "title": "Meet the 91-year-old gamer who beat Resident Evil Requiem the old-fashioned way",
+    "summary": "A 91-year-old gamer, Yang, finished Resident Evil Requiem without digital aids, impressing fans.",
+    "link": "https://www.techspot.com/news/111818-meet-91-year-old-gamer-who-beat-resident.html",
     "categories": [
       "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.286085",
+    "insight": "Nostalgia for pre-digital gaming methods sparks community admiration and appreciation."
+  },
+  {
+    "title": "$1,000-a-month basic income program launches for workers displaced by AI",
+    "summary": "A $1,000-a-month basic income program, AI Dividend, supports workers displaced by AI.",
+    "link": "https://www.techspot.com/news/111824-1000-month-basic-income-program-launches-workers-displaced.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.286252",
+    "insight": "Adapting to AI-driven job displacement requires innovative social safety nets."
+  },
+  {
+    "title": "Kali Linux 2026.1 adds Linux 6.18 and a nostalgic BackTrack mode",
+    "summary": "Kali Linux 2026.1 offers a fresh look with Linux 6.18 kernel and new tools, along with a nostalgic BackTrack mode for longtime users.",
+    "link": "https://www.techspot.com/downloads/6738-kali-linux.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.286427",
+    "insight": "Security professionals appreciate the blend of updates and throwbacks."
+  },
+  {
+    "title": "Prototype mod brings native 1080P output to the Super Nintendo",
+    "summary": "The Super Switch HD mod by Stanislav Parhomovich enables 1080P output on the Super Nintendo via HDMI, bringing high-resolution digital video to the classic console.",
+    "link": "https://www.techspot.com/news/111819-prototype-mod-brings-native-1080p-output-super-nintendo.html",
+    "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.777694",
-    "insight": "Lack of US oversight on loot box content sparks gamer concerns."
+    "processed_date": "2026-03-26T09:44:18.286598",
+    "insight": "Enhancing nostalgic gaming with modern high-definition visuals."
   },
   {
-    "title": "Crimson Desert dev apologizes for AI art slop, promises to add Intel Arc GPU support",
-    "summary": "Pearl Abyss apologizes for AI-generated placeholder art in Crimson Desert, promises optimization for Intel Arc GPUs.",
-    "link": "https://www.techspot.com/news/111795-crimson-desert-dev-apologizes-ai-art-slop-promises.html",
+    "title": "PS5 Pro's PSSR upscaler proves AMD FSR 4 can work on older Radeon GPUs",
+    "summary": "Sony's new PSSR upscaler, using 8-bit integer, may expand FSR 4 support to older GPUs.",
+    "link": "https://www.techspot.com/news/111816-ps5-pro-pssr-upscaler-proves-amd-fsr-4.html",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.286772",
+    "insight": "Unlocking FSR 4 on non-supported Radeon GPUs with improved upscaler tech."
+  },
+  {
+    "title": "Minecraft \"Tiny Takeover\" overhauls baby mobs with new looks and mechanics",
+    "summary": "The Minecraft 'Tiny Takeover' update revamps baby mobs with new looks and mechanics, introducing the Golden Dandelion item to temporarily keep them small. This update adds a touch of personality to everyday gameplay. Players are embracing this charm-focused drop.",
+    "link": "https://www.techspot.com/downloads/5235-minecraft.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.286964",
+    "insight": "Revamped baby mobs bring new personality to Minecraft gameplay experiences."
+  },
+  {
+    "title": "AMD repurposes RDNA 3 for next-gen Medusa APUs with FSR 4 and AI features",
+    "summary": "AMD is repurposing RDNA 3 architecture for next-gen Medusa APUs, featuring FSR 4 and AI capabilities.",
+    "link": "https://www.techspot.com/news/111817-amd-repurposes-rdna-3-next-gen-medusa-apus.html",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-25T09:36:10.777828",
-    "insight": "Developer accountability for AI-generated content in games is crucial for trust."
+    "processed_date": "2026-03-26T09:44:18.287141",
+    "insight": "AMD is reusing older architecture for more efficient APU development"
   },
   {
-    "title": "Steve Wozniak says he's \"disappointed a lot\" by AI and rarely uses it",
-    "summary": "Steve Wozniak expresses disappointment and limited use of AI technology.",
-    "link": "https://www.techspot.com/news/111806-steve-wozniak-disappointed-lot-ai-rarely-uses.html",
+    "title": "Microsoft and Nvidia announce AI partnership to fast-track nuclear power plants",
+    "summary": "Microsoft and Nvidia team up to accelerate nuclear power plant development with AI.",
+    "link": "https://www.techspot.com/news/111822-microsoft-nvidia-announce-ai-partnership-fast-track-nuclear.html",
     "categories": [
       "AI & ML",
-      "Hardware"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.777941",
-    "insight": "Tech pioneer's skepticism highlights AI concerns despite industry advancements."
+    "processed_date": "2026-03-26T09:44:18.287306",
+    "insight": "AI streamlines nuclear power plant development before reactor activation."
   },
   {
-    "title": "High school student develops membrane-free filter that removes most microplastics from water",
-    "summary": "High school student develops a membrane-free filter to remove most microplastics from water, addressing contamination issues in local drinking water.",
-    "link": "https://www.techspot.com/news/111799-high-school-student-develops-membrane-free-filter-removes.html",
+    "title": "LG's new 1Hz display tech promises up to 48% better battery life in laptops",
+    "summary": "LG Display's Oxide 1Hz technology adjusts refresh rate for improved battery efficiency.",
+    "link": "https://www.techspot.com/news/111810-lg-new-1hz-display-tech-promises-up-48.html",
     "categories": [
-      "Semiconductors"
+      "Hardware",
+      "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-25T09:36:10.778060",
-    "insight": "Effective water treatment can mitigate health risks from microplastic contamination."
+    "quality_score": 10,
+    "processed_date": "2026-03-26T09:44:18.287484",
+    "insight": "Optimized refresh rate reduces power consumption in laptops and devices."
   },
   {
-    "title": "Intel Core Ultra 5 250K Plus Review: They Did It",
-    "summary": "Intel's Core Ultra 5 250K Plus offers impressive productivity and gaming performance at an affordable price of $200.",
-    "link": "https://www.techspot.com/review/3106-intel-core-ultra-5-250k-plus/",
+    "title": "Xbox's new CEO is exploring cheaper Game Pass tiers to boost growth",
+    "summary": "Xbox's new CEO is exploring cheaper Game Pass tiers for growth.",
+    "link": "https://www.techspot.com/news/111813-xbox-new-ceo-exploring-cheaper-game-pass-tiers.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.287656",
+    "insight": "Affordable Game Pass could attract more budget-conscious gamers worldwide."
+  },
+  {
+    "title": "Ayaneo Next 2 handheld gaming PC canceled after soaring memory costs kill launch",
+    "summary": "Ayaneo Next 2 handheld gaming PC canceled due to soaring memory costs.",
+    "link": "https://www.techspot.com/news/111821-ayaneo-next-2-handheld-gaming-device-canceled-after.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-26T09:44:18.287844",
+    "insight": "Rising storage prices can kill even well-prepared business ventures."
+  },
+  {
+    "title": "Firefox 149 brings split view, free VPN, and faster PDFs",
+    "summary": "Mozilla's Firefox 149 introduces side-by-side browsing, a free VPN, and faster PDF performance, while enhancing security features.",
+    "link": "https://www.techspot.com/downloads/19-mozilla-firefox.html",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 15,
-    "processed_date": "2026-03-25T09:36:10.778166",
-    "insight": "Intel corrects 200 series flaws with a budget-friendly performance boost."
+    "processed_date": "2026-03-26T09:44:18.288018",
+    "insight": "Enhanced security and user experience through innovative features."
   }
 ]

@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of March 25, 2026**
+**Week of March 26, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Intel Core Ultra 5 250K Plus review: The new best $200 CPU ⭐
+### 1. Alibaba XuanTie C950 A powerful, RVA23-complaint 64-bit RISC-V core for Edge AI computing ⭐
 
 **💻 Hardware**
 
-Intel's Core Ultra 5 250K Plus offers exceptional performance at an affordable price, setting a new standard for $200 CPUs. It matches or surpasses competitors in various benchmarks, delivering impressive results in games and applications. This makes it an excellent choice for budget-conscious builders and gamers.
+Alibaba has introduced the XuanTie C950, a 64-bit RISC-V core for high-performance Edge AI computing. It features a superscalar out-of-order microarchitecture and supports various extensions for AI and crypto tasks. The XuanTie C950 is designed for cloud computing, edge computing, and AI applications.
 
-💡 **Key Point:** Unbeatable value for budget-friendly CPU performance in $200 category
+💡 **Key Point:** Alibaba's XuanTie C950 boosts Edge AI computing with high-performance RISC-V core
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-250k-plus-review)
-
----
-
-### 2. Intel Core Ultra 5 250K Plus review: The new best $200 CPU ⭐
-
-**📰 Tech News**
-
-Intel's Core Ultra 5 250K Plus offers exceptional performance at an affordable price, setting a new standard for $200 CPUs. It matches or surpasses competitors in various benchmarks, delivering impressive results in games and applications. This makes it an excellent choice for budget-conscious builders and gamers.
-
-💡 **Key Point:** Unbeatable value for budget-friendly CPU performance in $200 category
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-250k-plus-review)
+🔗 [Read More](https://www.cnx-software.com/2026/03/25/alibaba-xuantie-c950-a-powerful-rva23-complaint-64-bit-risc-v-core-for-edge-ai-computing/)
 
 ---
 
-### 3. China laptop vendor eats humble pie, apology says production error was behind chip mix-up full refunds offered to those affected by the fake Ryzen 5 7430U scam  ⭐
+### 2. Alibaba XuanTie C950 A powerful, RVA23-complaint 64-bit RISC-V core for Edge AI computing ⭐
 
-**⚡ Semiconductors**
+**🤖 AI & ML**
 
-Chuwi apologizes for laptops with mismatched specs, offers full refunds
+Alibaba has introduced the XuanTie C950, a 64-bit RISC-V core for high-performance Edge AI computing. It features a superscalar out-of-order microarchitecture and supports various extensions for AI and crypto tasks. The XuanTie C950 is designed for cloud computing, edge computing, and AI applications.
 
-💡 **Key Point:** Chinese laptop vendor's reputation hinges on addressing spec discrepancies
+💡 **Key Point:** Alibaba's XuanTie C950 boosts Edge AI computing with high-performance RISC-V core
 
-🔗 [Read More](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/china-laptop-vendor-eats-humble-pie-apology-says-production-error-was-behind-chip-mix-up-full-refunds-offered-to-those-affected-by-the-fake-ryzen-5-7430u-scam)
-
----
-
-### 4. Upcoming ESP32-S31 dual-core RISC-V MCU offers Gigabit Ethernet, WiFi, Bluetooth, and 802.15.4 connectivity ⭐
-
-**⚡ Semiconductors**
-
-Espressif Systems' ESP32-S31 is a dual-core RISC-V MCU with Gigabit Ethernet, WiFi, and Bluetooth connectivity, featuring a high-performance core with FPU and SIMD instructions, a low-power core, and various peripherals.
-
-💡 **Key Point:** High-performance core enables efficient processing for IoT and industrial applications.
-
-🔗 [Read More](https://www.cnx-software.com/2026/03/24/esp32-s31-dual-core-risc-v-mcu-offers-gigabit-ethernet-wifi-bluetooth-and-802-15-4-connectivity/)
+🔗 [Read More](https://www.cnx-software.com/2026/03/25/alibaba-xuantie-c950-a-powerful-rva23-complaint-64-bit-risc-v-core-for-edge-ai-computing/)
 
 ---
 
-### 5. China laptop vendor eats humble pie, apology says production error was behind chip mix-up full refunds offered to those affected by the fake Ryzen 5 7430U scam  ⭐
+### 3. Geekbench 6 warns about inconsistent benchmarking performance from new Core Ultra 200S Plus chips says Intel's IPC boosting Binary Optimization Tool modifies scores in 'unclear' fashion ⭐
 
 **💻 Hardware**
 
-Chuwi apologizes for laptops with mismatched specs, offers full refunds
+Geekbench 6 users are warned of inconsistent benchmarking due to Intel's iBOT tool. The tool, found in new Core Ultra chips, modifies benchmark scores in an unclear manner. This makes it difficult for Geekbench 6 to accurately track performance.
 
-💡 **Key Point:** Chinese laptop vendor's reputation hinges on addressing spec discrepancies
+💡 **Key Point:** iBOT tool affects benchmark scores in unpredictable 'unclear' fashion always
 
-🔗 [Read More](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/china-laptop-vendor-eats-humble-pie-apology-says-production-error-was-behind-chip-mix-up-full-refunds-offered-to-those-affected-by-the-fake-ryzen-5-7430u-scam)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/geekbench-6-warns-about-inconsistent-benchmarking-performance-from-new-core-ultra-200s-plus-chips-says-intels-ipc-boosting-binary-optimization-tool-modifies-scores-in-unclear-fashion)
+
+---
+
+### 4. Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ⭐
+
+**💻 Hardware**
+
+The Seagate FireCuda 530R is a workstation SSD prioritizing reliability and performance.
+
+💡 **Key Point:** Enhanced write endurance for demanding professional applications stability.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-530r-2tb-ssd-review)
+
+---
+
+### 5. Firefox 149 brings split view, free VPN, and faster PDFs ⭐
+
+**💻 Hardware**
+
+Mozilla's Firefox 149 introduces side-by-side browsing, a free VPN, and faster PDF performance, while enhancing security features.
+
+💡 **Key Point:** Enhanced security and user experience through innovative features.
+
+🔗 [Read More](https://www.techspot.com/downloads/19-mozilla-firefox.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **63 articles** across **5 focused categories**.
+We covered **61 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 20 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 16 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 12 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 19 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 12 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 17 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 20 articles
+*Artificial Intelligence and Machine Learning* — 19 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 6 articles
+*Graphics cards and compute accelerators* — 12 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 16 articles
+*Computing hardware and development boards* — 17 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 12 articles
+*Chip manufacturing and design* — 6 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 9 articles
+*Industry news and product launches* — 7 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-03-25 at 09:37 by an autonomous AI curation system.
+Generated 2026-03-26 at 09:45 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

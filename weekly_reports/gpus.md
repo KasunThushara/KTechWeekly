@@ -1,75 +1,135 @@
 # 🎮 GPUs
-**Week of March 25, 2026**
+**Week of March 26, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-03-25 09:37
+- **Articles this week:** 12
+- **Report generated:** 2026-03-26 09:45
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Huawei unveils new Atlas 350 AI accelerator with 1.56 PFLOPS of FP4 compute and up to 112GB of HBM claims 2.8x more performance than Nvidia's H20 
+### 1. Google's TurboQuant reduces AI LLM cache memory capacity requirements by at least six times up to 8x performance boost on Nvidia H100 GPUs, compresses KV caches to 3 bits with no accuracy loss ⭐
 
-Huawei unveiled the Atlas 350 AI accelerator with 1.56 PFLOPS FP4 compute and up to 112GB HBM. It claims 2.8x more performance than Nvidia's H20. The Atlas 350 uses the Ascend 950PR chip.
+Google's TurboQuant reduces AI LLM cache memory requirements by at least six times, achieving an up to 8x performance boost on Nvidia H100 GPUs with no accuracy loss.
 
-💡 *Huawei's Atlas 350 AI accelerator surpasses Nvidia's performance claims.*
+💡 *Optimized AI performance without compromising accuracy or memory.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/huawei-unveils-new-atlas-350-ai-accelerator-with-1-56-pflops-of-fp4-compute-and-up-to-112gb-of-hbm-claims-2-8x-more-performance-than-nvidias-h20)
-
----
-
-### 2. Crimson Desert dev apologizes for AI art slop, promises to add Intel Arc GPU support 
-
-Pearl Abyss apologizes for AI-generated placeholder art in Crimson Desert, promises optimization for Intel Arc GPUs.
-
-💡 *Developer accountability for AI-generated content in games is crucial for trust.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111795-crimson-desert-dev-apologizes-ai-art-slop-promises.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-turboquant-compresses-llm-kv-caches-to-3-bits-with-no-accuracy-loss)
 
 ---
 
-### 3. US senators want to suspend Nvidia AI chip export licenses to China and its intermediaries bipartisan letter to Commerce Dept says that Huang s claims of no chip diversion were contradicted by reporting available  
+### 2. Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ⭐
 
-US senators Warren and Banks urge Commerce Dept to suspend Nvidia export licenses to China due to concerns over AI chip diversion.
+The Seagate FireCuda 530R is a workstation SSD prioritizing reliability and performance.
 
-💡 *US-China chip export controls have significant implications for global tech trade.*
+💡 *Enhanced write endurance for demanding professional applications stability.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-senators-want-to-suspend-nvidia-ai-chip-export-licenses-to-china-and-its-intermediaries-bipartisan-letter-to-commerce-dept-says-that-huangs-claims-of-no-chip-diversion-were-contradicted-by-reporting-available)
-
----
-
-### 4. Price of Nvidia's Vera Rubin NVL72 racks skyrockets to as much as $8.8 million apiece, but server makers' margins will be tight Nvidia is moving closer to shipping entire full-scale systems 
-
-Nvidia's Vera Rubin NVL72 racks now cost up to $8.8 million each. Server manufacturers may face reduced profit margins due to increased costs. Nvidia is moving towards shipping complete full-scale systems.
-
-💡 *High-priced Nvidia hardware tightens server manufacturers' profit margins significantly*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/price-of-nvidias-vera-rubin-nvl72-racks-skyrockets-to-as-much-as-usd8-8-million-apiece-but-server-makers-margins-will-be-tight-nvidia-is-moving-closer-to-shipping-entire-full-scale-systems)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-530r-2tb-ssd-review)
 
 ---
 
-### 5. Arm just changed the rules, building its first-ever CPU and betting big on agentic AI 
+### 3. Gigabyte MO27Q28G 27-inch 280 Hz OLED gaming monitor review: Bright, colorful, and quick 
 
-Arm is entering the CPU market with its first-ever CPU, disrupting data center dominance. This strategic move shifts the focus from GPUs and accelerators. Arm's agentic AI bet signals significant innovation.
+The Gigabyte MO27Q28G offers a 27-inch QHD OLED gaming monitor with 280 Hz and HDR500, providing a huge color gamut and adaptive sync for a seamless gaming experience.
 
-💡 *GPUs' three-year data center reign is being challenged by Arm's CPU entry.*
+💡 *Fastest refresh rates for elite gaming experiences*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111814-arm-changed-rules-building-first-ever-cpu-betting.html)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-mo27q28g-27-inch-280-hz-oled-gaming-monitor-review)
 
 ---
 
-### 6. AYANEO's upcoming Next 2 handheld gaming console shelved due to rising component prices company stops preorders for the $1,999 Strix Halo device 
+### 4. Quixant IQON 3 and Air 3 AMD Ryzen Embedded 8000 systems target casino and arcade gaming 
 
-Ayaneo has suspended sales of its premium gaming handheld due to rising component costs. Existing preorders will still be honored. The company cited unfeasible procurement costs, particularly for storage, as the reason behind the decision.
+Quixant IQON 3 and IQON Air 3 are industrial systems designed for casino and arcade gaming. They feature AMD Ryzen Embedded 8000 SoCs with Zen 4 cores and support four independent 4K displays. The systems come in two variations, one passively cooled and the other with a cooling fan.
 
-💡 *Rising component prices threaten profitability of high-end gaming devices.*
+💡 *High-performance, fanless gaming systems for casinos and arcades*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/ayaneos-upcoming-next-2-handheld-gaming-console-shelved-due-to-rising-component-prices-company-stops-preorders-for-the-usd1-999-strix-halo-device)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/25/quixant-iqon-3-and-air-3-amd-ryzen-embedded-8000-systems-target-casino-and-arcade-gaming/)
+
+---
+
+### 5. AMD repurposes RDNA 3 for next-gen Medusa APUs with FSR 4 and AI features 
+
+AMD is repurposing RDNA 3 architecture for next-gen Medusa APUs, featuring FSR 4 and AI capabilities.
+
+💡 *AMD is reusing older architecture for more efficient APU development*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111817-amd-repurposes-rdna-3-next-gen-medusa-apus.html)
+
+---
+
+### 6. Intel Arc Pro B70 and Arc Pro B65 GPUs bring 32GB of RAM to AI and pro apps bigger Battlemage finally arrives, but it's not for gamers 
+
+Intel's Arc Pro B70 and B65 GPUs offer 32GB RAM for AI and pro apps at a relatively low price.
+
+💡 *AI and pro computing gets more affordable with increased raw compute options.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intel-arc-pro-b70-and-arc-pro-b65-gpus-bring-32gb-of-ram-to-ai-and-pro-apps-bigger-battlemage-finally-arrives-but-its-not-for-gaming)
+
+---
+
+### 7. The legendary 3dfx Voodoo is back in FPGA form 
+
+The 3dfx Voodoo graphics accelerator has been emulated in FPGA form, allowing for its revival in retro gaming and modding projects. This move ensures the Voodoo chip's legacy lives on through emulators and hardware modding. Its impact on gaming history is secured.
+
+💡 *Preserving gaming history through FPGA emulation of obsolete hardware.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111815-3dfx-voodoo-accelerator-reimagined-modern-fpga-hardware.html)
+
+---
+
+### 8. Meet the 91-year-old gamer who beat Resident Evil Requiem the old-fashioned way 
+
+A 91-year-old gamer, Yang, finished Resident Evil Requiem without digital aids, impressing fans.
+
+💡 *Nostalgia for pre-digital gaming methods sparks community admiration and appreciation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111818-meet-91-year-old-gamer-who-beat-resident.html)
+
+---
+
+### 9. PS5 Pro's PSSR upscaler proves AMD FSR 4 can work on older Radeon GPUs 
+
+Sony's new PSSR upscaler, using 8-bit integer, may expand FSR 4 support to older GPUs.
+
+💡 *Unlocking FSR 4 on non-supported Radeon GPUs with improved upscaler tech.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111816-ps5-pro-pssr-upscaler-proves-amd-fsr-4.html)
+
+---
+
+### 10. Microsoft and Nvidia announce AI partnership to fast-track nuclear power plants 
+
+Microsoft and Nvidia team up to accelerate nuclear power plant development with AI.
+
+💡 *AI streamlines nuclear power plant development before reactor activation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111822-microsoft-nvidia-announce-ai-partnership-fast-track-nuclear.html)
+
+---
+
+### 11. Xbox's new CEO is exploring cheaper Game Pass tiers to boost growth 
+
+Xbox's new CEO is exploring cheaper Game Pass tiers for growth.
+
+💡 *Affordable Game Pass could attract more budget-conscious gamers worldwide.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111813-xbox-new-ceo-exploring-cheaper-game-pass-tiers.html)
+
+---
+
+### 12. Ayaneo Next 2 handheld gaming PC canceled after soaring memory costs kill launch 
+
+Ayaneo Next 2 handheld gaming PC canceled due to soaring memory costs.
+
+💡 *Rising storage prices can kill even well-prepared business ventures.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111821-ayaneo-next-2-handheld-gaming-device-canceled-after.html)
 
 ---
 

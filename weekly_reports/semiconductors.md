@@ -1,135 +1,75 @@
 # ⚡ Semiconductors
-**Week of March 25, 2026**
+**Week of March 26, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-03-25 09:37
+- **Articles this week:** 6
+- **Report generated:** 2026-03-26 09:45
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. China laptop vendor eats humble pie, apology says production error was behind chip mix-up full refunds offered to those affected by the fake Ryzen 5 7430U scam  ⭐
+### 1. Geekbench 6 warns about inconsistent benchmarking performance from new Core Ultra 200S Plus chips says Intel's IPC boosting Binary Optimization Tool modifies scores in 'unclear' fashion ⭐
 
-Chuwi apologizes for laptops with mismatched specs, offers full refunds
+Geekbench 6 users are warned of inconsistent benchmarking due to Intel's iBOT tool. The tool, found in new Core Ultra chips, modifies benchmark scores in an unclear manner. This makes it difficult for Geekbench 6 to accurately track performance.
 
-💡 *Chinese laptop vendor's reputation hinges on addressing spec discrepancies*
+💡 *iBOT tool affects benchmark scores in unpredictable 'unclear' fashion always*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/china-laptop-vendor-eats-humble-pie-apology-says-production-error-was-behind-chip-mix-up-full-refunds-offered-to-those-affected-by-the-fake-ryzen-5-7430u-scam)
-
----
-
-### 2. Upcoming ESP32-S31 dual-core RISC-V MCU offers Gigabit Ethernet, WiFi, Bluetooth, and 802.15.4 connectivity ⭐
-
-Espressif Systems' ESP32-S31 is a dual-core RISC-V MCU with Gigabit Ethernet, WiFi, and Bluetooth connectivity, featuring a high-performance core with FPU and SIMD instructions, a low-power core, and various peripherals.
-
-💡 *High-performance core enables efficient processing for IoT and industrial applications.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/24/esp32-s31-dual-core-risc-v-mcu-offers-gigabit-ethernet-wifi-bluetooth-and-802-15-4-connectivity/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/geekbench-6-warns-about-inconsistent-benchmarking-performance-from-new-core-ultra-200s-plus-chips-says-intels-ipc-boosting-binary-optimization-tool-modifies-scores-in-unclear-fashion)
 
 ---
 
-### 3. Arm moves beyond IP with AGI CPU silicon 136-core data center chip targets AI infrastructure with Meta as lead partner 
+### 2. Micron's $24 billion Singapore fab could need 500 transformers, more than double the output of any single manufacturer heavy electrical infrastructure the latest AI buildout bottleneck 
 
-Arm has developed an in-house, up-to 136-core CPU for data centers, targeting AI infrastructure with Meta as a lead partner.
+Micron's planned Singapore fab expansion will need up to 500 power transformers, more than double the typical requirement for a standard wafer fab.
 
-💡 *Arm expands into AI-focused hardware, increasing competition for traditional chipmakers.*
+💡 *Rapid AI buildouts are bottlenecked by heavy electrical infrastructure constraints.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/arm-launches-its-first-data-center-cpu)
-
----
-
-### 4. SK hynix places record $8 billion order for ASML EUV lithography machines should pay for up to 30 EUV machines over two years, serving HBM and advanced DRAM production 
-
-SK hynix placed a record order for 11.9 trillion won ($8 billion) worth of EUV lithography equipment from ASML. This equipment will be used to support the production of HBM and advanced DRAM memory. The deal will span two years.
-
-💡 *Massive investment in EUV lithography drives semiconductor technology advancement.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-places-record-8-billion-order-for-asml-euv-lithography-machines)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/microns-24-billion-singapore-fab-could-need-500-transformers)
 
 ---
 
-### 5. Microsoft-backed start-up raises $40 million for helium atom beam lithography that could print chips at atomic resolution 0.1nm beam is 135 times narrower than ASML's EUV light 
+### 3. Kentucky farm family rejects $26 million offer for 600 acres of land from unnamed AI data center suitor declines 7x offer, wants to Stay and hold and feed a nation  
 
-Lace Lithography secured $40 million in funding for a helium atom beam lithography tool that could print chips at atomic resolution.
+A Kentucky family rejected a $26 million offer for 600 acres of land, citing its importance to feeding the nation.
 
-💡 *Atomic-resolution chipmaking could boost computing power and memory density significantly.*
+💡 *Land preservation prioritized over profit in pursuit of national food security.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/norwegian-start-up-raises-40-million-for-helium-atom-beam-lithography)
-
----
-
-### 6. Autonomous mobile drone swarm killer created in trilateral US defense company collab the new Leonidas Autonomous Ground Vehicle (AGV) is a high-power microwave platform 
-
-A US defense company collaboration has developed the Leonidas AGV, a high-power microwave platform designed to counter drone swarms. This autonomous ground vehicle is a significant response to emerging threats. It leverages directed energy capabilities for effective countermeasures.
-
-💡 *Directed energy counters swarms with high-power microwave precision.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/autonomous-mobile-drone-swarm-killer-created-in-trilateral-us-defense-company-collab-the-new-leonidas-autonomous-ground-vehicle-agv-is-a-high-power-microwave-platform)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/kentucky-farm-family-rejects-usd26-million-offer-for-600-acres-of-land-from-unnamed-ai-data-center-suitor-declines-7x-offer-wants-to-stay-and-hold-and-feed-a-nation)
 
 ---
 
-### 7. Trump administration targets $4 trillion Pax Silica investment fund for semiconductors the US will start with a $250 million investment for global consortium 
+### 4. OnePlus may close operations in the US and Europe as early as April 
 
-The Trump administration targets $4 trillion Pax Silica for semiconductor investment.
+OnePlus may cease operations in the US, EU, and UK markets.
 
-💡 *$4 trillion investment aims to boost US semiconductor industry competitiveness.*
+💡 *Massive market exit could severely impact brand reputation worldwide.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/trump-administration-targets-4-trillion-pax-silica-investment-fund-for-semiconductors)
-
----
-
-### 8. Jury reaches verdict in social media addiction trial, finds Meta liable for harm to children 
-
-A New Mexico jury finds Meta liable for harming children through social media, citing platform safety concerns and public deception.
-
-💡 *Social media giants held accountable for child harm and safety.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111804-jury-struggles-reach-verdict-social-media-addiction-trial.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111825-oneplus-shutting-down-operations-next-month-further-reducing.html)
 
 ---
 
-### 9. "Silicon" is a new coffee table book about the chip industry's origins and impact 
+### 5. PS5 Pro's PSSR upscaler proves AMD FSR 4 can work on older Radeon GPUs 
 
-The book 'Silicon' explores the chip industry's origins and impact through 10 chapters, each focusing on a different aspect of how silicon transformed modern life. The narrative delves into the process of turning silicon into machine intelligence, highlighting its significance in shaping our world.
+Sony's new PSSR upscaler, using 8-bit integer, may expand FSR 4 support to older GPUs.
 
-💡 *Silicon's evolution revolutionized technology, transforming human life forever*
+💡 *Unlocking FSR 4 on non-supported Radeon GPUs with improved upscaler tech.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111803-silicon-new-coffee-table-book-about-chip-industry.html)
-
----
-
-### 10. Epic cuts 1,000+ jobs amid financial struggles, seeks half-billion-dollar cost savings 
-
-Epic Games cuts over 1,000 jobs in an effort to reduce costs. The company seeks to achieve a cost savings of half a billion dollars. This move is attributed to financial struggles and industry-wide changes.
-
-💡 *Industry shifts and financial struggles drive major layoffs at Epic Games.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111809-epic-cuts-1000-jobs-amid-financial-struggles-seeks.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111816-ps5-pro-pssr-upscaler-proves-amd-fsr-4.html)
 
 ---
 
-### 11. Broadcom sounds the alarm as chip demand is pushing TSMC to its limits 
+### 6. Minecraft "Tiny Takeover" overhauls baby mobs with new looks and mechanics 
 
-Broadcom's Natarajan Ramachandran warns that TSMC is hitting capacity limits. This is a concern for Broadcom as it relies on TSMC for chip production. TSMC's capacity expansion plans are extending through 2027.
+The Minecraft 'Tiny Takeover' update revamps baby mobs with new looks and mechanics, introducing the Golden Dandelion item to temporarily keep them small. This update adds a touch of personality to everyday gameplay. Players are embracing this charm-focused drop.
 
-💡 *Chip demand is outpacing TSMC's manufacturing capacity expansion.*
+💡 *Revamped baby mobs bring new personality to Minecraft gameplay experiences.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111805-broadcom-sounds-alarm-chip-demand-pushing-tsmc-limits.html)
-
----
-
-### 12. High school student develops membrane-free filter that removes most microplastics from water 
-
-High school student develops a membrane-free filter to remove most microplastics from water, addressing contamination issues in local drinking water.
-
-💡 *Effective water treatment can mitigate health risks from microplastic contamination.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111799-high-school-student-develops-membrane-free-filter-removes.html)
+🔗 [Read Full Article](https://www.techspot.com/downloads/5235-minecraft.html)
 
 ---
 
