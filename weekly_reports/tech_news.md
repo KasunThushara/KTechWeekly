@@ -1,85 +1,115 @@
 # 📰 Tech News
-**Week of March 26, 2026**
+**Week of March 27, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-03-26 09:45
+- **Articles this week:** 10
+- **Report generated:** 2026-03-27 09:39
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Firefox 149 brings split view, free VPN, and faster PDFs ⭐
+### 1. SparkFun Thing Plus ESP32-C5 board offers dual-band WiFi 6, Adafruit Feather pinout, LiPo battery support ⭐⭐
 
-Mozilla's Firefox 149 introduces side-by-side browsing, a free VPN, and faster PDF performance, while enhancing security features.
+SparkFun has released the Thing Plus ESP32-C5, an Adafruit Feather-compatible board with dual-band WiFi 6, supporting remote deployments and Matter-compatible smart home applications.
 
-💡 *Enhanced security and user experience through innovative features.*
+💡 *Stable ESP-IDF v6.0 enables reliable remote WiFi 6 deployments.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/19-mozilla-firefox.html)
-
----
-
-### 2. Russian Starlink Rival established with 16 satellites launched, aims for 900 by 2035 commercial operation to begin next year with 250 sputniks 
-
-Russia's Rassvet satellite system has launched 16 satellites, aiming for 900 by 2035. Commercial operation is set to begin next year with 250 satellites. This state-funded project rivals Elon Musk's Starlink.
-
-💡 *Russia challenges Elon Musk's global satellite internet dominance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/russian-starlink-rival-established-with-16-satellites-launched-aims-for-900-by-2035-commercial-operation-to-begin-next-year-with-250-sputniks)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/27/sparkfun-thing-plus-esp32-c5-board-offers-dual-band-wifi-6-adafruit-feather-pinout-lipo-battery-support/)
 
 ---
 
-### 3. LG's new 1Hz display tech promises up to 48% better battery life in laptops 
+### 2. Arzopa Z3FC 16.1-inch portable monitor review: 1440p resolution and 180 Hz for mobile gamers 
 
-LG Display's Oxide 1Hz technology adjusts refresh rate for improved battery efficiency.
+The Arzopa Z3FC portable monitor offers high performance and build quality for mobile gamers. It features a 1440p resolution and 180 Hz refresh rate, making it suitable for demanding games. However, its speakers could be improved.
 
-💡 *Optimized refresh rate reduces power consumption in laptops and devices.*
+💡 *Premium gaming performance in a portable, high-resolution display*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111810-lg-new-1hz-display-tech-promises-up-48.html)
-
----
-
-### 4. Spotify's SongDNA maps the creative lineage of your favorite music 
-
-Spotify's SongDNA is an immersive feature providing extended credits to music contributors.
-
-💡 *SongDNA helps users appreciate music's complex creative lineage more deeply.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111829-spotify-songdna-maps-creative-lineage-favorite-music.html)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/portable-monitors/arzopa-z3fc-16-1-inch-portable-monitor-review)
 
 ---
 
-### 5. $1,000-a-month basic income program launches for workers displaced by AI 
+### 3. Enthusiast lands on the moon using hardware from the 1980s ZX Spectrum home computer with 3.5 MHz CPU and 48KB of memory power Kerbal space flight 
 
-A $1,000-a-month basic income program, AI Dividend, supports workers displaced by AI.
+YouTuber Scott Manley used a 1982 ZX Spectrum to land a spacecraft on Kerbal Space Program, demonstrating the potential for old hardware to achieve complex tasks.
 
-💡 *Adapting to AI-driven job displacement requires innovative social safety nets.*
+💡 *Limited hardware can still achieve impressive feats with the right mindset.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111824-1000-month-basic-income-program-launches-workers-displaced.html)
-
----
-
-### 6. Kali Linux 2026.1 adds Linux 6.18 and a nostalgic BackTrack mode 
-
-Kali Linux 2026.1 offers a fresh look with Linux 6.18 kernel and new tools, along with a nostalgic BackTrack mode for longtime users.
-
-💡 *Security professionals appreciate the blend of updates and throwbacks.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/6738-kali-linux.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/enthusiast-lands-on-the-moon-using-hardware-from-the-1980s-zx-spectrum-home-computer-with-3-5-mhz-cpu-and-48kb-of-memory-power-kerbal-space-flight)
 
 ---
 
-### 7. Corvus and Southern Glazer to expand use of drones in warehouses 
+### 4. Intel confirms rumored Core Ultra 9 290K Plus has been scrapped potential Core Ultra 9 285KS Special Edition also off the table as Arrow Lake refresh rolls out 
 
-Corvus and Southern Glazer's wine and spirits distributor are expanding their use of autonomous drones to track out-of-stock products in warehouses, which will help improve efficiency and reduce losses.
+Intel has scrapped the Core Ultra 9 295K Plus and a potential 'KS' edition. This decision comes as the Arrow Lake refresh rolls out. The move indicates a shift in Intel's product strategy.
 
-💡 *Efficient inventory management through AI-powered drone technology matters*
+💡 *Intel prioritizes current lineup over rumored special edition parts.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/corvus-and-southern-glazer-expand-use-drones-warehouses)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-confirms-rumored-core-ultra-9-290k-plus-has-been-scrapped-potential-core-ultra-9-285ks-special-edition-also-off-the-table-as-arrow-lake-refresh-rolls-out)
+
+---
+
+### 5. Gigabyte Aero X16 Review: Capable hardware, compromised experience 
+
+The Gigabyte Aero X16 offers capable hardware, but its screen and audio hinder its potential as a creative machine.
+
+💡 *Balanced specs can't compensate for compromised user experience features.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/gigabyte-aero-x16-review)
+
+---
+
+### 6. CanisterWorm malware wipes Iranian machines for no apparent reason sophisticated attack spreads through npm packages and uses ICP canister as control surface 
+
+A sophisticated malware, CanisterWorm, targets Iranian machines, erasing data without a clear motive.
+
+💡 *Nation-state actors exploit software supply chains for destructive cyber operations.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/canisterworm-malware-wipes-iranian-machines-for-no-apparent-reason-sophisticated-attack-spreads-through-npm-packages-and-uses-icp-canister-as-control-surface)
+
+---
+
+### 7. Announcing the second group of Rising Stars 2026 
+
+The Fierce Sensors Rising Stars program honors individuals driving innovation in electronics with their expertise and impact.
+
+💡 *Advancements in technology shape the future of electronics and society significantly.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/second-group-rising-stars)
+
+---
+
+### 8. Apple takes on Microsoft 365 and Google Workspace with new business platform 
+
+Apple is launching Apple Business, a new platform integrating its enterprise programs. It will debut on April 14 in over 200 countries and regions. The platform aims to provide a comprehensive service for small and mid-sized businesses.
+
+💡 *Comprehensive business platform challenges Microsoft 365 and Google Workspace dominance*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111838-apple-takes-microsoft-365-google-workspace-new-business.html)
+
+---
+
+### 9. UK warns 2G shutdown could leave older devices offline by 2033 
+
+The UK plans to shut down 2G services between 2029 and 2033. This move affects older devices that may not support newer mobile infrastructure. Users are advised to prepare for potential disruptions.
+
+💡 *Disruption for users with outdated mobile devices and technology.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111830-uk-warns-2g-shutdown-could-leave-older-devices.html)
+
+---
+
+### 10. Elon Musk wants judge recused for liking LinkedIn post mocking $2 billion verdict 
+
+Elon Musk and Tesla file a motion to recuse a Delaware judge due to her 'Support' reaction on a LinkedIn post criticizing Musk and his law firm.
+
+💡 *Conflict of interest allegations threaten impartiality of a high-profile court case.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111837-elon-musk-wants-judge-recused-after-linkedin-like.html)
 
 ---
 

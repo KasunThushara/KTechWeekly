@@ -1,135 +1,75 @@
 # 🎮 GPUs
-**Week of March 26, 2026**
+**Week of March 27, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-03-26 09:45
+- **Articles this week:** 6
+- **Report generated:** 2026-03-27 09:39
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Google's TurboQuant reduces AI LLM cache memory capacity requirements by at least six times up to 8x performance boost on Nvidia H100 GPUs, compresses KV caches to 3 bits with no accuracy loss ⭐
+### 1. ESP32-P4-Pi-VIEWE A Raspberry Pi-inspired ESP32-P4 + ESP32-C6 board with Ethernet, USB, 40-pin GPIO header, and more ⭐
 
-Google's TurboQuant reduces AI LLM cache memory requirements by at least six times, achieving an up to 8x performance boost on Nvidia H100 GPUs with no accuracy loss.
+The ESP32-P4-Pi-VIEWE is a Raspberry Pi-inspired development board with Wi-Fi 6 and Bluetooth 5.0, featuring a dual-core RISC-V MCU and 32MB PSRAM. It offers various interfaces, including 10/100Mbps Ethernet, MIPI DSI, CSI connectors, onboard microphones, and a USB 2.0 port. The board is designed in a familiar 85 x 56 mm credit card form factor.
 
-💡 *Optimized AI performance without compromising accuracy or memory.*
+💡 *Raspberry Pi-like board expands Wi-Fi and Bluetooth capabilities for makers and developers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-turboquant-compresses-llm-kv-caches-to-3-bits-with-no-accuracy-loss)
-
----
-
-### 2. Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ⭐
-
-The Seagate FireCuda 530R is a workstation SSD prioritizing reliability and performance.
-
-💡 *Enhanced write endurance for demanding professional applications stability.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-530r-2tb-ssd-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/27/esp32-p4-pi-viewe-raspberry-pi-esp32-p4-esp32-c6-board/)
 
 ---
 
-### 3. Gigabyte MO27Q28G 27-inch 280 Hz OLED gaming monitor review: Bright, colorful, and quick 
+### 2. Playing Forza Horizon 6 with ray tracing won't require high-end GPUs ⭐
 
-The Gigabyte MO27Q28G offers a 27-inch QHD OLED gaming monitor with 280 Hz and HDR500, providing a huge color gamut and adaptive sync for a seamless gaming experience.
+Forza Horizon 6 allows dynamic graphics adjustments without restarting the game, offering real-time previews and performance tracking tools.
 
-💡 *Fastest refresh rates for elite gaming experiences*
+💡 *Real-time graphics tweaking enhances gaming experience and GPU efficiency optimization.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-mo27q28g-27-inch-280-hz-oled-gaming-monitor-review)
-
----
-
-### 4. Quixant IQON 3 and Air 3 AMD Ryzen Embedded 8000 systems target casino and arcade gaming 
-
-Quixant IQON 3 and IQON Air 3 are industrial systems designed for casino and arcade gaming. They feature AMD Ryzen Embedded 8000 SoCs with Zen 4 cores and support four independent 4K displays. The systems come in two variations, one passively cooled and the other with a cooling fan.
-
-💡 *High-performance, fanless gaming systems for casinos and arcades*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/25/quixant-iqon-3-and-air-3-amd-ryzen-embedded-8000-systems-target-casino-and-arcade-gaming/)
+🔗 [Read Full Article](https://www.techspot.com/news/111828-playing-forza-horizon-6-ray-tracing-wont-require.html)
 
 ---
 
-### 5. AMD repurposes RDNA 3 for next-gen Medusa APUs with FSR 4 and AI features 
+### 3. AMD makes the flagship Ryzen 9 9950X3D2 official first dual-cache X3D CPU arrives in April, with 208MB cache, 200W TDP, promising modest performance gains 
 
-AMD is repurposing RDNA 3 architecture for next-gen Medusa APUs, featuring FSR 4 and AI capabilities.
+AMD launches the Ryzen 9 9950X3D2, offering 208MB cache and a 200W TDP. This flagship CPU promises modest performance gains in gaming, rendering, and content creation. It is the company's first dual-cache X3D processor.
 
-💡 *AMD is reusing older architecture for more efficient APU development*
+💡 *Significant cache boost offers incremental performance improvements.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111817-amd-repurposes-rdna-3-next-gen-medusa-apus.html)
-
----
-
-### 6. Intel Arc Pro B70 and Arc Pro B65 GPUs bring 32GB of RAM to AI and pro apps bigger Battlemage finally arrives, but it's not for gamers 
-
-Intel's Arc Pro B70 and B65 GPUs offer 32GB RAM for AI and pro apps at a relatively low price.
-
-💡 *AI and pro computing gets more affordable with increased raw compute options.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intel-arc-pro-b70-and-arc-pro-b65-gpus-bring-32gb-of-ram-to-ai-and-pro-apps-bigger-battlemage-finally-arrives-but-its-not-for-gaming)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-makes-the-flagship-ryzen-9-9950x3d2-official-first-dual-cache-x3d-cpu-arrives-in-april-with-208mb-cache-200w-tdp-promising-modest-performance-gains)
 
 ---
 
-### 7. The legendary 3dfx Voodoo is back in FPGA form 
+### 4. Intel s Binary Optimization Tool tested and explained how the iBOT translation delivers up to 18% faster gaming performance, 8% on average 
 
-The 3dfx Voodoo graphics accelerator has been emulated in FPGA form, allowing for its revival in retro gaming and modding projects. This move ensures the Voodoo chip's legacy lives on through emulators and hardware modding. Its impact on gaming history is secured.
+Intel's Core Ultra 200S Plus CPUs feature the Binary Optimization Tool, which delivers 8% average gaming performance uplift.
 
-💡 *Preserving gaming history through FPGA emulation of obsolete hardware.*
+💡 *AI-driven code optimization boosts gaming performance by 8% on average.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111815-3dfx-voodoo-accelerator-reimagined-modern-fpga-hardware.html)
-
----
-
-### 8. Meet the 91-year-old gamer who beat Resident Evil Requiem the old-fashioned way 
-
-A 91-year-old gamer, Yang, finished Resident Evil Requiem without digital aids, impressing fans.
-
-💡 *Nostalgia for pre-digital gaming methods sparks community admiration and appreciation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111818-meet-91-year-old-gamer-who-beat-resident.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-binary-optimization-tool-tested-and-explained-how-the-ibot-translation-delivers-up-to-18-percent-faster-gaming-performance-8-percent-on-average)
 
 ---
 
-### 9. PS5 Pro's PSSR upscaler proves AMD FSR 4 can work on older Radeon GPUs 
+### 5. US Senators call for a halt to Nvidia GPU exports in the wake of the Super Micro scandal looming Chip Security Act may put a wrench into Huang's China ambitions 
 
-Sony's new PSSR upscaler, using 8-bit integer, may expand FSR 4 support to older GPUs.
+US senators call for Nvidia GPU exports to China to be halted, amid the Super Micro scandal, as the Chip Security Act may impose location tracking on exported AI accelerators.
 
-💡 *Unlocking FSR 4 on non-supported Radeon GPUs with improved upscaler tech.*
+💡 *US-China chip exports may be restricted due to national security concerns.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111816-ps5-pro-pssr-upscaler-proves-amd-fsr-4.html)
-
----
-
-### 10. Microsoft and Nvidia announce AI partnership to fast-track nuclear power plants 
-
-Microsoft and Nvidia team up to accelerate nuclear power plant development with AI.
-
-💡 *AI streamlines nuclear power plant development before reactor activation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111822-microsoft-nvidia-announce-ai-partnership-fast-track-nuclear.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-senators-call-for-a-halt-to-nvidia-gpu-exports-in-the-wake-of-the-super-micro-scandal-looming-chip-security-act-may-put-a-wrench-into-huangs-china-ambitions)
 
 ---
 
-### 11. Xbox's new CEO is exploring cheaper Game Pass tiers to boost growth 
+### 6. Class action alleges Nvidia hid more than $1B crypto-GPU income within its gaming revenues investor lawsuit concerns business spanning 2017 and 2018 
 
-Xbox's new CEO is exploring cheaper Game Pass tiers for growth.
+Nvidia faces a class-action lawsuit alleging it hid crypto-GPU income in gaming revenue.
 
-💡 *Affordable Game Pass could attract more budget-conscious gamers worldwide.*
+💡 *Transparency in revenue sources impacts investor trust and company valuation significantly*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111813-xbox-new-ceo-exploring-cheaper-game-pass-tiers.html)
-
----
-
-### 12. Ayaneo Next 2 handheld gaming PC canceled after soaring memory costs kill launch 
-
-Ayaneo Next 2 handheld gaming PC canceled due to soaring memory costs.
-
-💡 *Rising storage prices can kill even well-prepared business ventures.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111821-ayaneo-next-2-handheld-gaming-device-canceled-after.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/class-action-alleges-nvidia-hid-more-than-usd1b-crypto-gpu-income-within-its-gaming-revenues-investor-lawsuit-concerns-business-spanning-2017-and-2018)
 
 ---
 

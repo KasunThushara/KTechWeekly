@@ -1,185 +1,165 @@
 # 💻 Hardware
-**Week of March 26, 2026**
+**Week of March 27, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 17
-- **Report generated:** 2026-03-26 09:45
+- **Articles this week:** 15
+- **Report generated:** 2026-03-27 09:39
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Alibaba XuanTie C950 A powerful, RVA23-complaint 64-bit RISC-V core for Edge AI computing ⭐
+### 1. SparkFun Thing Plus ESP32-C5 board offers dual-band WiFi 6, Adafruit Feather pinout, LiPo battery support ⭐⭐
 
-Alibaba has introduced the XuanTie C950, a 64-bit RISC-V core for high-performance Edge AI computing. It features a superscalar out-of-order microarchitecture and supports various extensions for AI and crypto tasks. The XuanTie C950 is designed for cloud computing, edge computing, and AI applications.
+SparkFun has released the Thing Plus ESP32-C5, an Adafruit Feather-compatible board with dual-band WiFi 6, supporting remote deployments and Matter-compatible smart home applications.
 
-💡 *Alibaba's XuanTie C950 boosts Edge AI computing with high-performance RISC-V core*
+💡 *Stable ESP-IDF v6.0 enables reliable remote WiFi 6 deployments.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/25/alibaba-xuantie-c950-a-powerful-rva23-complaint-64-bit-risc-v-core-for-edge-ai-computing/)
-
----
-
-### 2. Geekbench 6 warns about inconsistent benchmarking performance from new Core Ultra 200S Plus chips says Intel's IPC boosting Binary Optimization Tool modifies scores in 'unclear' fashion ⭐
-
-Geekbench 6 users are warned of inconsistent benchmarking due to Intel's iBOT tool. The tool, found in new Core Ultra chips, modifies benchmark scores in an unclear manner. This makes it difficult for Geekbench 6 to accurately track performance.
-
-💡 *iBOT tool affects benchmark scores in unpredictable 'unclear' fashion always*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/geekbench-6-warns-about-inconsistent-benchmarking-performance-from-new-core-ultra-200s-plus-chips-says-intels-ipc-boosting-binary-optimization-tool-modifies-scores-in-unclear-fashion)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/27/sparkfun-thing-plus-esp32-c5-board-offers-dual-band-wifi-6-adafruit-feather-pinout-lipo-battery-support/)
 
 ---
 
-### 3. Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ⭐
+### 2. Microchip SAM9X75 Hybrid automotive MCU Surprisingly ARM9 is still a thing in 2026 ⭐
 
-The Seagate FireCuda 530R is a workstation SSD prioritizing reliability and performance.
+Microchip's SAM9X75 is a hybrid automotive MCU based on the ARM9 core, targeting developers who need an MCU-like development environment with higher processing capabilities for automotive and e-mobility HMI applications. The SoC features integrated DDR2 or DDR3L memory and comes in three variants with different memory capacities. It is designed for automotive-qualified (AEC-Q100 Grade 2) applications.
 
-💡 *Enhanced write endurance for demanding professional applications stability.*
+💡 *Legacy ARM9 core still viable in modern automotive MCU designs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-530r-2tb-ssd-review)
-
----
-
-### 4. Firefox 149 brings split view, free VPN, and faster PDFs ⭐
-
-Mozilla's Firefox 149 introduces side-by-side browsing, a free VPN, and faster PDF performance, while enhancing security features.
-
-💡 *Enhanced security and user experience through innovative features.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/19-mozilla-firefox.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/27/microchip-sam9x75-hybrid-automotive-mcu-surprisingly-arm9-is-still-a-thing-in-2026/)
 
 ---
 
-### 5. Intel officially releases Xeon 600 chips, announces new vPro Panther Lake CPUs all-new vPro platform goes all-in on AI 
+### 3. ESP32-P4-Pi-VIEWE A Raspberry Pi-inspired ESP32-P4 + ESP32-C6 board with Ethernet, USB, 40-pin GPIO header, and more ⭐
 
-Intel has released Xeon 600 CPUs and detailed vPro Panther Lake features, emphasizing AI integration.
+The ESP32-P4-Pi-VIEWE is a Raspberry Pi-inspired development board with Wi-Fi 6 and Bluetooth 5.0, featuring a dual-core RISC-V MCU and 32MB PSRAM. It offers various interfaces, including 10/100Mbps Ethernet, MIPI DSI, CSI connectors, onboard microphones, and a USB 2.0 port. The board is designed in a familiar 85 x 56 mm credit card form factor.
 
-💡 *Intel's AI-focused vPro platform boosts business computing efficiency and productivity.*
+💡 *Raspberry Pi-like board expands Wi-Fi and Bluetooth capabilities for makers and developers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-officially-releases-xeon-600-chips-announces-new-vpro-panther-lake-cpus-all-new-vpro-platform-goes-all-in-on-ai)
-
----
-
-### 6. Gigabyte MO27Q28G 27-inch 280 Hz OLED gaming monitor review: Bright, colorful, and quick 
-
-The Gigabyte MO27Q28G offers a 27-inch QHD OLED gaming monitor with 280 Hz and HDR500, providing a huge color gamut and adaptive sync for a seamless gaming experience.
-
-💡 *Fastest refresh rates for elite gaming experiences*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-mo27q28g-27-inch-280-hz-oled-gaming-monitor-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/27/esp32-p4-pi-viewe-raspberry-pi-esp32-p4-esp32-c6-board/)
 
 ---
 
-### 7. RuView project leverages ESP32 nodes for WiFi-based presence detection, pose estimation, and breathing/heart rate monitoring 
+### 4. Playing Forza Horizon 6 with ray tracing won't require high-end GPUs ⭐
 
-RuView is an open-source project that uses ESP32 nodes to track human presence, pose, and vital signs using WiFi signals without cameras.
+Forza Horizon 6 allows dynamic graphics adjustments without restarting the game, offering real-time previews and performance tracking tools.
 
-💡 *Revolutionizing contactless health monitoring and presence detection with WiFi technology.*
+💡 *Real-time graphics tweaking enhances gaming experience and GPU efficiency optimization.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/26/ruview-project-leverages-esp32-nodes-for-presence-detection-pose-estimation-and-breathing-heart-rate-monitoring/)
-
----
-
-### 8. Quixant IQON 3 and Air 3 AMD Ryzen Embedded 8000 systems target casino and arcade gaming 
-
-Quixant IQON 3 and IQON Air 3 are industrial systems designed for casino and arcade gaming. They feature AMD Ryzen Embedded 8000 SoCs with Zen 4 cores and support four independent 4K displays. The systems come in two variations, one passively cooled and the other with a cooling fan.
-
-💡 *High-performance, fanless gaming systems for casinos and arcades*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/25/quixant-iqon-3-and-air-3-amd-ryzen-embedded-8000-systems-target-casino-and-arcade-gaming/)
+🔗 [Read Full Article](https://www.techspot.com/news/111828-playing-forza-horizon-6-ray-tracing-wont-require.html)
 
 ---
 
-### 9. LG's new 1Hz display tech promises up to 48% better battery life in laptops 
+### 5. Intel's upcoming 'Wildcat Lake' low-power series breaks cover in Geekbench listing 'Core 3 304' is twice as fast in single-core performance versus last-gen 
 
-LG Display's Oxide 1Hz technology adjusts refresh rate for improved battery efficiency.
+Intel's 'Wildcat Lake' low-power series offers significant performance improvements over its predecessors, primarily aimed at embedded devices, budget laptops, and NAS devices where efficiency is crucial.
 
-💡 *Optimized refresh rate reduces power consumption in laptops and devices.*
+💡 *Wildcat Lake CPUs deliver massive single-core performance boosts over last-gen models*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111810-lg-new-1hz-display-tech-promises-up-48.html)
-
----
-
-### 10. PC makers face shortages of Intel and AMD CPUs that stretch up to six months lead time for orders jumps from just two weeks in the face of AI demand 
-
-PC manufacturers face CPU shortages due to high demand for AI-capable systems.
-
-💡 *Insufficient CPU supply threatens PC sales and AI adoption pace.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/pc-makers-face-shortages-of-intel-and-amd-cpus-that-stretch-up-to-six-months-lead-time-for-orders-jumps-from-just-two-weeks-in-the-face-of-ai-demand)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-wildcat-lake-low-power-series-breaks-cover-in-geekbench-listing-core-3-304-is-twice-as-fast-in-single-core-performance-versus-last-gen)
 
 ---
 
-### 11. HP's new AI workstation can expand horizontally to add 15% more internal volume alternate side panel also includes more active cooling. 
+### 6. Arzopa Z3FC 16.1-inch portable monitor review: 1440p resolution and 180 Hz for mobile gamers 
 
-HP's Z8 Fury G6i workstation expands internally by 15% with 'max' panel, adding active cooling.
+The Arzopa Z3FC portable monitor offers high performance and build quality for mobile gamers. It features a 1440p resolution and 180 Hz refresh rate, making it suitable for demanding games. However, its speakers could be improved.
 
-💡 *Increased internal space for enhanced performance and cooling capabilities.*
+💡 *Premium gaming performance in a portable, high-resolution display*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/hps-new-ai-workstation-can-expand-horizontally-to-add-15-percent-more-internal-volume-alternate-side-panel-also-includes-more-active-cooling)
-
----
-
-### 12. AngstromIO A tiny 9.0 x 8.9 mm ATtiny1616 board that fits on top of a USB-C connector 
-
-The AngstromIO is a tiny open-source development board based on the ATtiny1616 MCU, measuring 9.0 x 8.9 mm and featuring a USB-C power connector. It includes a QFN20-packaged ATtiny1616 MCU, addressable RGB LEDs, and accessible GPIOs. The board is ideal for space-constrained embedded projects due to its compact size and low power consumption.
-
-💡 *Ultra-portable, low-power microcontroller development for highly constrained embedded projects.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/26/angstromio-a-tiny-9-0-x-8-9-mm-attiny1616-board-that-fits-on-top-of-a-usb-c-connector/)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/portable-monitors/arzopa-z3fc-16-1-inch-portable-monitor-review)
 
 ---
 
-### 13. The legendary 3dfx Voodoo is back in FPGA form 
+### 7. Enthusiast lands on the moon using hardware from the 1980s ZX Spectrum home computer with 3.5 MHz CPU and 48KB of memory power Kerbal space flight 
 
-The 3dfx Voodoo graphics accelerator has been emulated in FPGA form, allowing for its revival in retro gaming and modding projects. This move ensures the Voodoo chip's legacy lives on through emulators and hardware modding. Its impact on gaming history is secured.
+YouTuber Scott Manley used a 1982 ZX Spectrum to land a spacecraft on Kerbal Space Program, demonstrating the potential for old hardware to achieve complex tasks.
 
-💡 *Preserving gaming history through FPGA emulation of obsolete hardware.*
+💡 *Limited hardware can still achieve impressive feats with the right mindset.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111815-3dfx-voodoo-accelerator-reimagined-modern-fpga-hardware.html)
-
----
-
-### 14. Kali Linux 2026.1 adds Linux 6.18 and a nostalgic BackTrack mode 
-
-Kali Linux 2026.1 offers a fresh look with Linux 6.18 kernel and new tools, along with a nostalgic BackTrack mode for longtime users.
-
-💡 *Security professionals appreciate the blend of updates and throwbacks.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/6738-kali-linux.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/enthusiast-lands-on-the-moon-using-hardware-from-the-1980s-zx-spectrum-home-computer-with-3-5-mhz-cpu-and-48kb-of-memory-power-kerbal-space-flight)
 
 ---
 
-### 15. Prototype mod brings native 1080P output to the Super Nintendo 
+### 8. picoZ80 A Z80 microprocessor drop-in replacement based on Raspberry Pi RP2350B and ESP32 
 
-The Super Switch HD mod by Stanislav Parhomovich enables 1080P output on the Super Nintendo via HDMI, bringing high-resolution digital video to the classic console.
+The picoZ80 board is a drop-in Z80 microprocessor replacement based on a Raspberry Pi RP2350B dual-core Cortex-M33 microcontroller and ESP32 SoC, offering cycle-accurate Z80 reproduction and WiFi/Bluetooth connectivity.
 
-💡 *Enhancing nostalgic gaming with modern high-definition visuals.*
+💡 *Reviving retro computing with a modern, accurate Z80 microprocessor replacement.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111819-prototype-mod-brings-native-1080p-output-super-nintendo.html)
-
----
-
-### 16. Xbox's new CEO is exploring cheaper Game Pass tiers to boost growth 
-
-Xbox's new CEO is exploring cheaper Game Pass tiers for growth.
-
-💡 *Affordable Game Pass could attract more budget-conscious gamers worldwide.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111813-xbox-new-ceo-exploring-cheaper-game-pass-tiers.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/26/picoz80-a-z80-microprocessor-drop-in-replacement-based-on-raspberry-pi-rp2350b-and-esp32/)
 
 ---
 
-### 17. Ayaneo Next 2 handheld gaming PC canceled after soaring memory costs kill launch 
+### 9. Apple discontinues Mac Pro after 20 years system had been in stuck in stasis with M2 Ultra since 2023 
 
-Ayaneo Next 2 handheld gaming PC canceled due to soaring memory costs.
+Apple discontinued its Mac Pro tower, which had been stagnant since the M2 Ultra update in 2023.
 
-💡 *Rising storage prices can kill even well-prepared business ventures.*
+💡 *Innovation stagnation in high-end product lines can harm brand reputation*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111821-ayaneo-next-2-handheld-gaming-device-canceled-after.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/apple-discontinues-mac-pro-after-20-years-system-had-been-in-stuck-in-stasis-with-m2-ultra-since-2023)
+
+---
+
+### 10. Where to buy Intel's Core Ultra 5 250K Plus and Core Ultra 7 270K Plus grab these impressive Arrow Lake Refresh CPUs from these retailers, starting from $219 
+
+Intel's Core Ultra 5 250K Plus and 7 270K Plus are available to purchase. These CPUs are part of the Arrow Lake Refresh lineup, offering improved performance. Prices start at $219.
+
+💡 *Latest CPUs from Intel provide enhanced performance for upgraded systems.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/where-to-buy-intels-core-ultra-5-250k-plus-and-core-ultra-7-270k-plus-grab-these-impressive-arrow-lake-refresh-cpus-from-these-retailers-starting-from-usd219)
+
+---
+
+### 11. Gigabyte Aero X16 Review: Capable hardware, compromised experience 
+
+The Gigabyte Aero X16 offers capable hardware, but its screen and audio hinder its potential as a creative machine.
+
+💡 *Balanced specs can't compensate for compromised user experience features.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/gigabyte-aero-x16-review)
+
+---
+
+### 12. Save big on Intel's Arrow Lake refresh with almost $300 off on this 3-item bundle new Core Ultra 270K Plus processor, MSI Z890 Carbon Wifi motherboard, and 32GB of G.Skill Trident Z5 DDR5-6400 RAM for $899.99 
+
+Get the Intel Core Ultra 270K Plus bundle for $899.99, a discounted price of almost $300 off. This bundle includes a MSI Z890 Carbon Wifi motherboard and 32GB of G.Skill Trident Z5 DDR5-6400 RAM.
+
+💡 *Pre-AI-apocalypse RAM prices make this bundle a significant value.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-big-on-intels-arrow-lake-refresh-with-almost-usd300-off-on-this-3-item-bundle-new-core-ultra-270k-plus-processor-msi-z890-carbon-wifi-motherboard-and-32gb-of-g-skill-trident-z5-ddr5-6400-ram-for-usd899-99)
+
+---
+
+### 13. HP wants your next work PC to be an AI assistant 
+
+HP aims to replace work PCs with AI assistants, driven by evolving autonomous agents and Intel's vPro technology. This shift could significantly impact the workplace, requiring employees to adapt to new tools and methods. The integration of AI assistants may streamline tasks and improve productivity.
+
+💡 *AI assistants could revolutionize work by automating routine tasks*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111844-hp-wants-next-work-pc-ai-assistant.html)
+
+---
+
+### 14. It's not just memory anymore: AI data centers are taking all the CPUs, too 
+
+Intel and AMD processors face shortages due to AI data center demand
+
+💡 *Semiconductor industry prioritizes AI data centers over PC manufacturing*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111831-not-memory-anymore-ai-data-centers-taking-all.html)
+
+---
+
+### 15. Which iPad Model Should You Get? Updated With the Latest 2026 Models 
+
+Discover the best iPad model for your needs with our updated guide. From budget-friendly options to advanced features, we'll help you choose the perfect tablet. Whether you're a student, professional, or casual user, we've got you covered.
+
+💡 *The latest iPad models offer seamless integration and innovative features*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3101-ipad-buying-guide-26/)
 
 ---
 

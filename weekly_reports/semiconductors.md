@@ -1,75 +1,95 @@
 # ⚡ Semiconductors
-**Week of March 26, 2026**
+**Week of March 27, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-03-26 09:45
+- **Articles this week:** 8
+- **Report generated:** 2026-03-27 09:39
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Geekbench 6 warns about inconsistent benchmarking performance from new Core Ultra 200S Plus chips says Intel's IPC boosting Binary Optimization Tool modifies scores in 'unclear' fashion ⭐
+### 1. Microchip SAM9X75 Hybrid automotive MCU Surprisingly ARM9 is still a thing in 2026 ⭐
 
-Geekbench 6 users are warned of inconsistent benchmarking due to Intel's iBOT tool. The tool, found in new Core Ultra chips, modifies benchmark scores in an unclear manner. This makes it difficult for Geekbench 6 to accurately track performance.
+Microchip's SAM9X75 is a hybrid automotive MCU based on the ARM9 core, targeting developers who need an MCU-like development environment with higher processing capabilities for automotive and e-mobility HMI applications. The SoC features integrated DDR2 or DDR3L memory and comes in three variants with different memory capacities. It is designed for automotive-qualified (AEC-Q100 Grade 2) applications.
 
-💡 *iBOT tool affects benchmark scores in unpredictable 'unclear' fashion always*
+💡 *Legacy ARM9 core still viable in modern automotive MCU designs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/geekbench-6-warns-about-inconsistent-benchmarking-performance-from-new-core-ultra-200s-plus-chips-says-intels-ipc-boosting-binary-optimization-tool-modifies-scores-in-unclear-fashion)
-
----
-
-### 2. Micron's $24 billion Singapore fab could need 500 transformers, more than double the output of any single manufacturer heavy electrical infrastructure the latest AI buildout bottleneck 
-
-Micron's planned Singapore fab expansion will need up to 500 power transformers, more than double the typical requirement for a standard wafer fab.
-
-💡 *Rapid AI buildouts are bottlenecked by heavy electrical infrastructure constraints.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/microns-24-billion-singapore-fab-could-need-500-transformers)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/27/microchip-sam9x75-hybrid-automotive-mcu-surprisingly-arm9-is-still-a-thing-in-2026/)
 
 ---
 
-### 3. Kentucky farm family rejects $26 million offer for 600 acres of land from unnamed AI data center suitor declines 7x offer, wants to Stay and hold and feed a nation  
+### 2. picoZ80 A Z80 microprocessor drop-in replacement based on Raspberry Pi RP2350B and ESP32 
 
-A Kentucky family rejected a $26 million offer for 600 acres of land, citing its importance to feeding the nation.
+The picoZ80 board is a drop-in Z80 microprocessor replacement based on a Raspberry Pi RP2350B dual-core Cortex-M33 microcontroller and ESP32 SoC, offering cycle-accurate Z80 reproduction and WiFi/Bluetooth connectivity.
 
-💡 *Land preservation prioritized over profit in pursuit of national food security.*
+💡 *Reviving retro computing with a modern, accurate Z80 microprocessor replacement.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/kentucky-farm-family-rejects-usd26-million-offer-for-600-acres-of-land-from-unnamed-ai-data-center-suitor-declines-7x-offer-wants-to-stay-and-hold-and-feed-a-nation)
-
----
-
-### 4. OnePlus may close operations in the US and Europe as early as April 
-
-OnePlus may cease operations in the US, EU, and UK markets.
-
-💡 *Massive market exit could severely impact brand reputation worldwide.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111825-oneplus-shutting-down-operations-next-month-further-reducing.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/26/picoz80-a-z80-microprocessor-drop-in-replacement-based-on-raspberry-pi-rp2350b-and-esp32/)
 
 ---
 
-### 5. PS5 Pro's PSSR upscaler proves AMD FSR 4 can work on older Radeon GPUs 
+### 3. US Senators call for a halt to Nvidia GPU exports in the wake of the Super Micro scandal looming Chip Security Act may put a wrench into Huang's China ambitions 
 
-Sony's new PSSR upscaler, using 8-bit integer, may expand FSR 4 support to older GPUs.
+US senators call for Nvidia GPU exports to China to be halted, amid the Super Micro scandal, as the Chip Security Act may impose location tracking on exported AI accelerators.
 
-💡 *Unlocking FSR 4 on non-supported Radeon GPUs with improved upscaler tech.*
+💡 *US-China chip exports may be restricted due to national security concerns.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111816-ps5-pro-pssr-upscaler-proves-amd-fsr-4.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-senators-call-for-a-halt-to-nvidia-gpu-exports-in-the-wake-of-the-super-micro-scandal-looming-chip-security-act-may-put-a-wrench-into-huangs-china-ambitions)
 
 ---
 
-### 6. Minecraft "Tiny Takeover" overhauls baby mobs with new looks and mechanics 
+### 4. Save big on Intel's Arrow Lake refresh with almost $300 off on this 3-item bundle new Core Ultra 270K Plus processor, MSI Z890 Carbon Wifi motherboard, and 32GB of G.Skill Trident Z5 DDR5-6400 RAM for $899.99 
 
-The Minecraft 'Tiny Takeover' update revamps baby mobs with new looks and mechanics, introducing the Golden Dandelion item to temporarily keep them small. This update adds a touch of personality to everyday gameplay. Players are embracing this charm-focused drop.
+Get the Intel Core Ultra 270K Plus bundle for $899.99, a discounted price of almost $300 off. This bundle includes a MSI Z890 Carbon Wifi motherboard and 32GB of G.Skill Trident Z5 DDR5-6400 RAM.
 
-💡 *Revamped baby mobs bring new personality to Minecraft gameplay experiences.*
+💡 *Pre-AI-apocalypse RAM prices make this bundle a significant value.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/5235-minecraft.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-big-on-intels-arrow-lake-refresh-with-almost-usd300-off-on-this-3-item-bundle-new-core-ultra-270k-plus-processor-msi-z890-carbon-wifi-motherboard-and-32gb-of-g-skill-trident-z5-ddr5-6400-ram-for-usd899-99)
+
+---
+
+### 5. Three individuals charged with attempting to break US sanctions on AI chips damning text messages between conspirators reveal intention to find clients to act as pass through partner for customers in China  
+
+Three individuals, including a Chinese citizen, have been charged with attempting to evade US sanctions by ordering controlled AI chips for export to Thailand with China as the intended final destination. The conspirators used text messages to discuss their plan and find clients to act as pass-through partners for customers in China. Their actions are part of a broader effort to circumvent US export controls.
+
+💡 *US sanctions evasion threatens global AI technology security and stability*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/three-individuals-charged-with-attempting-to-break-us-sanctions-on-ai-chips-damning-text-messages-between-conspirators-reveal-intention-to-find-clients-to-act-as-pass-through-partner-for-customers-in-china)
+
+---
+
+### 6. Paralyzed army vet can now play World of Warcraft using 'science fiction magic brilliant ' Neuralink brain implant 'I m now raiding, and exploring Azeroth hands-free at full speed' 
+
+Jon L. Noble, a paralyzed British Army veteran, is now able to play World of Warcraft hands-free with the help of a Neuralink brain implant. This technology has given him full control and speed while exploring Azeroth. The update marks his first 100 days with the implant.
+
+💡 *Neuralink technology restores freedom to severely paralyzed individuals instantly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/paralyzed-army-vet-can-now-play-world-of-warcraft-using-science-fiction-magic-brilliant-neuralink-brain-implant-im-now-raiding-and-exploring-azeroth-hands-free-at-full-speed)
+
+---
+
+### 7. Elon Musk's Terafab semiconductor project could cost $5 trillion, Bernstein claims herculean effort would cost more than 70% of the total yearly US government budget 
+
+Elon Musk's TeraFab project could cost $5 trillion to build 1 TW of AI silicon per year, requiring multiple fabs and massive production of GPU, CPU, and HBM4E wafers.
+
+💡 *Massive investment needed for AI silicon production capabilities.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-semiconductor-project-could-cost-usd5-trillion-bernstein-claims-herculean-effort-would-cost-more-than-70-percent-of-the-total-yearly-us-government-budget)
+
+---
+
+### 8. Sony and Honda pull the plug on $90,000 Afeela EV as electric dreams stall 
+
+Sony and Honda have canceled the $90,000 Afeela EV due to low demand, rising costs, and shifting regulations. This marks a broader industry retreat from electric vehicle programs. Automakers are reassessing their commitments amid falling demand and changing market conditions.
+
+💡 *Electric vehicle industry faces major setbacks and industry-wide retrenchment.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111839-sony-honda-pull-plug-90000-afeela-ev-electric.html)
 
 ---
 

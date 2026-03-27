@@ -1,205 +1,195 @@
 # 🤖 AI & ML
-**Week of March 26, 2026**
+**Week of March 27, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-03-26 09:45
+- **Articles this week:** 18
+- **Report generated:** 2026-03-27 09:39
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Alibaba XuanTie C950 A powerful, RVA23-complaint 64-bit RISC-V core for Edge AI computing ⭐
+### 1. AMD makes the flagship Ryzen 9 9950X3D2 official first dual-cache X3D CPU arrives in April, with 208MB cache, 200W TDP, promising modest performance gains 
 
-Alibaba has introduced the XuanTie C950, a 64-bit RISC-V core for high-performance Edge AI computing. It features a superscalar out-of-order microarchitecture and supports various extensions for AI and crypto tasks. The XuanTie C950 is designed for cloud computing, edge computing, and AI applications.
+AMD launches the Ryzen 9 9950X3D2, offering 208MB cache and a 200W TDP. This flagship CPU promises modest performance gains in gaming, rendering, and content creation. It is the company's first dual-cache X3D processor.
 
-💡 *Alibaba's XuanTie C950 boosts Edge AI computing with high-performance RISC-V core*
+💡 *Significant cache boost offers incremental performance improvements.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/25/alibaba-xuantie-c950-a-powerful-rva23-complaint-64-bit-risc-v-core-for-edge-ai-computing/)
-
----
-
-### 2. Google's TurboQuant reduces AI LLM cache memory capacity requirements by at least six times up to 8x performance boost on Nvidia H100 GPUs, compresses KV caches to 3 bits with no accuracy loss ⭐
-
-Google's TurboQuant reduces AI LLM cache memory requirements by at least six times, achieving an up to 8x performance boost on Nvidia H100 GPUs with no accuracy loss.
-
-💡 *Optimized AI performance without compromising accuracy or memory.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-turboquant-compresses-llm-kv-caches-to-3-bits-with-no-accuracy-loss)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-makes-the-flagship-ryzen-9-9950x3d2-official-first-dual-cache-x3d-cpu-arrives-in-april-with-208mb-cache-200w-tdp-promising-modest-performance-gains)
 
 ---
 
-### 3. Intel officially releases Xeon 600 chips, announces new vPro Panther Lake CPUs all-new vPro platform goes all-in on AI 
+### 2. Intel's upcoming 'Wildcat Lake' low-power series breaks cover in Geekbench listing 'Core 3 304' is twice as fast in single-core performance versus last-gen 
 
-Intel has released Xeon 600 CPUs and detailed vPro Panther Lake features, emphasizing AI integration.
+Intel's 'Wildcat Lake' low-power series offers significant performance improvements over its predecessors, primarily aimed at embedded devices, budget laptops, and NAS devices where efficiency is crucial.
 
-💡 *Intel's AI-focused vPro platform boosts business computing efficiency and productivity.*
+💡 *Wildcat Lake CPUs deliver massive single-core performance boosts over last-gen models*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-officially-releases-xeon-600-chips-announces-new-vpro-panther-lake-cpus-all-new-vpro-platform-goes-all-in-on-ai)
-
----
-
-### 4. Russian Starlink Rival established with 16 satellites launched, aims for 900 by 2035 commercial operation to begin next year with 250 sputniks 
-
-Russia's Rassvet satellite system has launched 16 satellites, aiming for 900 by 2035. Commercial operation is set to begin next year with 250 satellites. This state-funded project rivals Elon Musk's Starlink.
-
-💡 *Russia challenges Elon Musk's global satellite internet dominance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/russian-starlink-rival-established-with-16-satellites-launched-aims-for-900-by-2035-commercial-operation-to-begin-next-year-with-250-sputniks)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-wildcat-lake-low-power-series-breaks-cover-in-geekbench-listing-core-3-304-is-twice-as-fast-in-single-core-performance-versus-last-gen)
 
 ---
 
-### 5. RuView project leverages ESP32 nodes for WiFi-based presence detection, pose estimation, and breathing/heart rate monitoring 
+### 3. Intel s Binary Optimization Tool tested and explained how the iBOT translation delivers up to 18% faster gaming performance, 8% on average 
 
-RuView is an open-source project that uses ESP32 nodes to track human presence, pose, and vital signs using WiFi signals without cameras.
+Intel's Core Ultra 200S Plus CPUs feature the Binary Optimization Tool, which delivers 8% average gaming performance uplift.
 
-💡 *Revolutionizing contactless health monitoring and presence detection with WiFi technology.*
+💡 *AI-driven code optimization boosts gaming performance by 8% on average.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/26/ruview-project-leverages-esp32-nodes-for-presence-detection-pose-estimation-and-breathing-heart-rate-monitoring/)
-
----
-
-### 6. Researchers build experimental drone that flies without moving parts 
-
-Researchers developed a solid-state ornithopter drone using electricity-driven materials and aerodynamics.
-
-💡 *Revolutionizing aerial vehicles with a new, part-less, and efficient design concept.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111820-researchers-build-experimental-drone-flies-without-moving-parts.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-binary-optimization-tool-tested-and-explained-how-the-ibot-translation-delivers-up-to-18-percent-faster-gaming-performance-8-percent-on-average)
 
 ---
 
-### 7. AMD repurposes RDNA 3 for next-gen Medusa APUs with FSR 4 and AI features 
+### 4. Where to buy Intel's Core Ultra 5 250K Plus and Core Ultra 7 270K Plus grab these impressive Arrow Lake Refresh CPUs from these retailers, starting from $219 
 
-AMD is repurposing RDNA 3 architecture for next-gen Medusa APUs, featuring FSR 4 and AI capabilities.
+Intel's Core Ultra 5 250K Plus and 7 270K Plus are available to purchase. These CPUs are part of the Arrow Lake Refresh lineup, offering improved performance. Prices start at $219.
 
-💡 *AMD is reusing older architecture for more efficient APU development*
+💡 *Latest CPUs from Intel provide enhanced performance for upgraded systems.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111817-amd-repurposes-rdna-3-next-gen-medusa-apus.html)
-
----
-
-### 8. Micron's $24 billion Singapore fab could need 500 transformers, more than double the output of any single manufacturer heavy electrical infrastructure the latest AI buildout bottleneck 
-
-Micron's planned Singapore fab expansion will need up to 500 power transformers, more than double the typical requirement for a standard wafer fab.
-
-💡 *Rapid AI buildouts are bottlenecked by heavy electrical infrastructure constraints.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/microns-24-billion-singapore-fab-could-need-500-transformers)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/where-to-buy-intels-core-ultra-5-250k-plus-and-core-ultra-7-270k-plus-grab-these-impressive-arrow-lake-refresh-cpus-from-these-retailers-starting-from-usd219)
 
 ---
 
-### 9. Samsung s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing new model spotted in Europe for 1,300 with higher cache and endurance 
+### 5. Three individuals charged with attempting to break US sanctions on AI chips damning text messages between conspirators reveal intention to find clients to act as pass through partner for customers in China  
 
-Samsung's unlisted 870 EVO 8TB model is available in Europe, priced at 1,300. This model features higher cache and endurance compared to its lower-capacity counterparts. The 8TB variant has appeared despite global storage shortages and rising prices.
+Three individuals, including a Chinese citizen, have been charged with attempting to evade US sanctions by ordering controlled AI chips for export to Thailand with China as the intended final destination. The conspirators used text messages to discuss their plan and find clients to act as pass-through partners for customers in China. Their actions are part of a broader effort to circumvent US export controls.
 
-💡 *New 8TB SSD addresses storage shortage with high-capacity innovation.*
+💡 *US sanctions evasion threatens global AI technology security and stability*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/samsungs-870-evo-sata-ssd-quietly-gets-8tb-variant-despite-ai-storage-struggle-new-model-spotted-in-europe-for-eur1-300-with-higher-cache-and-endurance)
-
----
-
-### 10. Intel Arc Pro B70 and Arc Pro B65 GPUs bring 32GB of RAM to AI and pro apps bigger Battlemage finally arrives, but it's not for gamers 
-
-Intel's Arc Pro B70 and B65 GPUs offer 32GB RAM for AI and pro apps at a relatively low price.
-
-💡 *AI and pro computing gets more affordable with increased raw compute options.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intel-arc-pro-b70-and-arc-pro-b65-gpus-bring-32gb-of-ram-to-ai-and-pro-apps-bigger-battlemage-finally-arrives-but-its-not-for-gaming)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/three-individuals-charged-with-attempting-to-break-us-sanctions-on-ai-chips-damning-text-messages-between-conspirators-reveal-intention-to-find-clients-to-act-as-pass-through-partner-for-customers-in-china)
 
 ---
 
-### 11. PC makers face shortages of Intel and AMD CPUs that stretch up to six months lead time for orders jumps from just two weeks in the face of AI demand 
+### 6. Paralyzed army vet can now play World of Warcraft using 'science fiction magic brilliant ' Neuralink brain implant 'I m now raiding, and exploring Azeroth hands-free at full speed' 
 
-PC manufacturers face CPU shortages due to high demand for AI-capable systems.
+Jon L. Noble, a paralyzed British Army veteran, is now able to play World of Warcraft hands-free with the help of a Neuralink brain implant. This technology has given him full control and speed while exploring Azeroth. The update marks his first 100 days with the implant.
 
-💡 *Insufficient CPU supply threatens PC sales and AI adoption pace.*
+💡 *Neuralink technology restores freedom to severely paralyzed individuals instantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/pc-makers-face-shortages-of-intel-and-amd-cpus-that-stretch-up-to-six-months-lead-time-for-orders-jumps-from-just-two-weeks-in-the-face-of-ai-demand)
-
----
-
-### 12. Kentucky farm family rejects $26 million offer for 600 acres of land from unnamed AI data center suitor declines 7x offer, wants to Stay and hold and feed a nation  
-
-A Kentucky family rejected a $26 million offer for 600 acres of land, citing its importance to feeding the nation.
-
-💡 *Land preservation prioritized over profit in pursuit of national food security.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/kentucky-farm-family-rejects-usd26-million-offer-for-600-acres-of-land-from-unnamed-ai-data-center-suitor-declines-7x-offer-wants-to-stay-and-hold-and-feed-a-nation)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/paralyzed-army-vet-can-now-play-world-of-warcraft-using-science-fiction-magic-brilliant-neuralink-brain-implant-im-now-raiding-and-exploring-azeroth-hands-free-at-full-speed)
 
 ---
 
-### 13. Flipper Zero pen-testing tool gets an AI-powered companion app natural language interface allows for faster, easier hacking 
+### 7. Elon Musk's Terafab semiconductor project could cost $5 trillion, Bernstein claims herculean effort would cost more than 70% of the total yearly US government budget 
 
-A new AI-powered app, V3SP3R, assists with using the Flipper Zero tool. The app features a natural language interface for easier hacking. This companion app streamlines the process for users.
+Elon Musk's TeraFab project could cost $5 trillion to build 1 TW of AI silicon per year, requiring multiple fabs and massive production of GPU, CPU, and HBM4E wafers.
 
-💡 *Simplifying pen-testing with a conversational AI interface boosts efficiency.*
+💡 *Massive investment needed for AI silicon production capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/flipper-zero-pen-testing-tool-gets-an-ai-powered-companion-app-natural-language-interface-allows-for-faster-easier-hacking)
-
----
-
-### 14. HP's new AI workstation can expand horizontally to add 15% more internal volume alternate side panel also includes more active cooling. 
-
-HP's Z8 Fury G6i workstation expands internally by 15% with 'max' panel, adding active cooling.
-
-💡 *Increased internal space for enhanced performance and cooling capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/hps-new-ai-workstation-can-expand-horizontally-to-add-15-percent-more-internal-volume-alternate-side-panel-also-includes-more-active-cooling)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-semiconductor-project-could-cost-usd5-trillion-bernstein-claims-herculean-effort-would-cost-more-than-70-percent-of-the-total-yearly-us-government-budget)
 
 ---
 
-### 15. AngstromIO A tiny 9.0 x 8.9 mm ATtiny1616 board that fits on top of a USB-C connector 
+### 8. Google's TurboQuant compression tech cuts LLM memory use by 6x with no accuracy loss 
 
-The AngstromIO is a tiny open-source development board based on the ATtiny1616 MCU, measuring 9.0 x 8.9 mm and featuring a USB-C power connector. It includes a QFN20-packaged ATtiny1616 MCU, addressable RGB LEDs, and accessible GPIOs. The board is ideal for space-constrained embedded projects due to its compact size and low power consumption.
+Google's TurboQuant technology reduces LLM memory usage by 6x without affecting model accuracy. It achieves this by decreasing model size and improving vector search efficiency. This can lead to significant power savings and faster AI chatbots.
 
-💡 *Ultra-portable, low-power microcontroller development for highly constrained embedded projects.*
+💡 *Optimizing LLMs for memory efficiency is critical for real-world AI deployments.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/26/angstromio-a-tiny-9-0-x-8-9-mm-attiny1616-board-that-fits-on-top-of-a-usb-c-connector/)
-
----
-
-### 16. Meet the 91-year-old gamer who beat Resident Evil Requiem the old-fashioned way 
-
-A 91-year-old gamer, Yang, finished Resident Evil Requiem without digital aids, impressing fans.
-
-💡 *Nostalgia for pre-digital gaming methods sparks community admiration and appreciation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111818-meet-91-year-old-gamer-who-beat-resident.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111842-google-introduces-turboquant-cutting-llm-memory-usage-6x.html)
 
 ---
 
-### 17. $1,000-a-month basic income program launches for workers displaced by AI 
+### 9. Reddit cracks down on bots with new labels and human verification 
 
-A $1,000-a-month basic income program, AI Dividend, supports workers displaced by AI.
+Reddit introduces new labels and human verification to combat bots.
 
-💡 *Adapting to AI-driven job displacement requires innovative social safety nets.*
+💡 *Controlling bots is crucial for maintaining social platform integrity.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111824-1000-month-basic-income-program-launches-workers-displaced.html)
-
----
-
-### 18. Minecraft "Tiny Takeover" overhauls baby mobs with new looks and mechanics 
-
-The Minecraft 'Tiny Takeover' update revamps baby mobs with new looks and mechanics, introducing the Golden Dandelion item to temporarily keep them small. This update adds a touch of personality to everyday gameplay. Players are embracing this charm-focused drop.
-
-💡 *Revamped baby mobs bring new personality to Minecraft gameplay experiences.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/5235-minecraft.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111836-reddit-cracks-down-bots-new-labels-human-verification.html)
 
 ---
 
-### 19. Microsoft and Nvidia announce AI partnership to fast-track nuclear power plants 
+### 10. HP wants your next work PC to be an AI assistant 
 
-Microsoft and Nvidia team up to accelerate nuclear power plant development with AI.
+HP aims to replace work PCs with AI assistants, driven by evolving autonomous agents and Intel's vPro technology. This shift could significantly impact the workplace, requiring employees to adapt to new tools and methods. The integration of AI assistants may streamline tasks and improve productivity.
 
-💡 *AI streamlines nuclear power plant development before reactor activation.*
+💡 *AI assistants could revolutionize work by automating routine tasks*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111822-microsoft-nvidia-announce-ai-partnership-fast-track-nuclear.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111844-hp-wants-next-work-pc-ai-assistant.html)
+
+---
+
+### 11. Ring's new doorbells bring 2K and 4K video to battery models 
+
+Ring introduces new doorbells with advanced video capabilities, including 4K and 2K resolution.
+
+💡 *Enhanced video doorbells boost home security and smart living features.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111835-ring-new-doorbells-bring-2k-4k-video-battery.html)
+
+---
+
+### 12. Apple could answer Samsung Galaxy challenge with a 200MP iPhone camera 
+
+Apple is testing a 200MP camera with a 1/1.2-inch sensor, potentially outperforming Samsung's flagships.
+
+💡 *Larger sensor size improves low-light camera performance significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111841-apple-could-answer-samsung-challenge-200mp-iphone-camera.html)
+
+---
+
+### 13. It's not just memory anymore: AI data centers are taking all the CPUs, too 
+
+Intel and AMD processors face shortages due to AI data center demand
+
+💡 *Semiconductor industry prioritizes AI data centers over PC manufacturing*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111831-not-memory-anymore-ai-data-centers-taking-all.html)
+
+---
+
+### 14. Trump names Jensen Huang, Mark Zuckerberg, and Sergey Brin for tech advisory council 
+
+Trump appoints tech leaders to an advisory council, shifting his second-term tech strategy.
+
+💡 *Aligning private sector leaders with national goals on emerging tech issues.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111833-trump-names-jensen-huang-mark-zuckerberg-sergey-brin.html)
+
+---
+
+### 15. GitHub Copilot will use your data for AI training by default, but you can opt out 
+
+GitHub Copilot will use user data for AI training by default, but users can opt out. The collected data includes code snippets, context, and navigation patterns. This data will be used to improve the AI's coding suggestions.
+
+💡 *Personal coding data used to train AI raises privacy concerns*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111840-github-copilot-use-data-ai-training-default-but.html)
+
+---
+
+### 16. Supreme Court rules ISPs aren't liable for user piracy without intent 
+
+The Supreme Court ruled that ISPs aren't liable for user piracy unless intent is proven.
+
+💡 *ISP liability for user piracy requires intent to facilitate infringement.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111832-supreme-court-rules-isps-arent-liable-user-piracy.html)
+
+---
+
+### 17. Which iPad Model Should You Get? Updated With the Latest 2026 Models 
+
+Discover the best iPad model for your needs with our updated guide. From budget-friendly options to advanced features, we'll help you choose the perfect tablet. Whether you're a student, professional, or casual user, we've got you covered.
+
+💡 *The latest iPad models offer seamless integration and innovative features*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3101-ipad-buying-guide-26/)
+
+---
+
+### 18. Where VC dollars (and jobs) are headed in sensing tech 
+
+Physical AI is a growing investment area that requires advanced sensors, which will create new job opportunities in sensing tech.
+
+💡 *Sensing tech jobs are emerging to support AI-driven physical applications.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/where-vc-dollars-and-jobs-are-headed-sensing-tech)
 
 ---
 
