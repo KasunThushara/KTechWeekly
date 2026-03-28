@@ -1,95 +1,75 @@
 # ⚡ Semiconductors
-**Week of March 27, 2026**
+**Week of March 28, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-03-27 09:39
+- **Articles this week:** 6
+- **Report generated:** 2026-03-28 09:21
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Microchip SAM9X75 Hybrid automotive MCU Surprisingly ARM9 is still a thing in 2026 ⭐
+### 1. SMIC sent chipmaking tools to Iran's military, Trump administration officials say report claims exchange began a year ago, 'almost certainly included technical training on SMIC's semiconductor technology' 
 
-Microchip's SAM9X75 is a hybrid automotive MCU based on the ARM9 core, targeting developers who need an MCU-like development environment with higher processing capabilities for automotive and e-mobility HMI applications. The SoC features integrated DDR2 or DDR3L memory and comes in three variants with different memory capacities. It is designed for automotive-qualified (AEC-Q100 Grade 2) applications.
+SMIC reportedly sent chipmaking tools to Iran's military, including technical training.
 
-💡 *Legacy ARM9 core still viable in modern automotive MCU designs.*
+💡 *U.S. national security jeopardized by China's tech transfer to adversaries.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/27/microchip-sam9x75-hybrid-automotive-mcu-surprisingly-arm9-is-still-a-thing-in-2026/)
-
----
-
-### 2. picoZ80 A Z80 microprocessor drop-in replacement based on Raspberry Pi RP2350B and ESP32 
-
-The picoZ80 board is a drop-in Z80 microprocessor replacement based on a Raspberry Pi RP2350B dual-core Cortex-M33 microcontroller and ESP32 SoC, offering cycle-accurate Z80 reproduction and WiFi/Bluetooth connectivity.
-
-💡 *Reviving retro computing with a modern, accurate Z80 microprocessor replacement.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/26/picoz80-a-z80-microprocessor-drop-in-replacement-based-on-raspberry-pi-rp2350b-and-esp32/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/smic-sent-chipmaking-tools-to-irans-military-trump-administration-officials-say)
 
 ---
 
-### 3. US Senators call for a halt to Nvidia GPU exports in the wake of the Super Micro scandal looming Chip Security Act may put a wrench into Huang's China ambitions 
+### 2. Air Liquide opens Taiwan factory as helium shortage tightens around chip makers 200 specialized helium containers stranded near the Strait of Hormuz 
 
-US senators call for Nvidia GPU exports to China to be halted, amid the Super Micro scandal, as the Chip Security Act may impose location tracking on exported AI accelerators.
+Air Liquide opened a new factory in Taiwan to address helium shortages affecting the semiconductor industry. The shortage tightens around chip makers, making the new factory a timely response. Helium containers are also stranded near the Strait of Hormuz.
 
-💡 *US-China chip exports may be restricted due to national security concerns.*
+💡 *Helium shortage jeopardizes global chip production capabilities and supply chains.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-senators-call-for-a-halt-to-nvidia-gpu-exports-in-the-wake-of-the-super-micro-scandal-looming-chip-security-act-may-put-a-wrench-into-huangs-china-ambitions)
-
----
-
-### 4. Save big on Intel's Arrow Lake refresh with almost $300 off on this 3-item bundle new Core Ultra 270K Plus processor, MSI Z890 Carbon Wifi motherboard, and 32GB of G.Skill Trident Z5 DDR5-6400 RAM for $899.99 
-
-Get the Intel Core Ultra 270K Plus bundle for $899.99, a discounted price of almost $300 off. This bundle includes a MSI Z890 Carbon Wifi motherboard and 32GB of G.Skill Trident Z5 DDR5-6400 RAM.
-
-💡 *Pre-AI-apocalypse RAM prices make this bundle a significant value.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-big-on-intels-arrow-lake-refresh-with-almost-usd300-off-on-this-3-item-bundle-new-core-ultra-270k-plus-processor-msi-z890-carbon-wifi-motherboard-and-32gb-of-g-skill-trident-z5-ddr5-6400-ram-for-usd899-99)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/air-liquide-opens-taiwan-factory-as-helium-shortage-tightens-around-chip-makers)
 
 ---
 
-### 5. Three individuals charged with attempting to break US sanctions on AI chips damning text messages between conspirators reveal intention to find clients to act as pass through partner for customers in China  
+### 3. US Supreme Court says ISPs aren t liable for their users piracy top judiciary body unanimously rules that Cox Communications did not commit copyright infringement 
 
-Three individuals, including a Chinese citizen, have been charged with attempting to evade US sanctions by ordering controlled AI chips for export to Thailand with China as the intended final destination. The conspirators used text messages to discuss their plan and find clients to act as pass-through partners for customers in China. Their actions are part of a broader effort to circumvent US export controls.
+US Supreme Court rules against Sony Music in case against Cox Communications, finding no liability for ISP copyright infringement. This marks a significant victory for internet service providers, establishing a precedent for their protection against user-generated content infringement. The unanimous decision affects how ISPs handle copyright complaints.
 
-💡 *US sanctions evasion threatens global AI technology security and stability*
+💡 *ISPs are not liable for users' copyright infringement under new precedent.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/three-individuals-charged-with-attempting-to-break-us-sanctions-on-ai-chips-damning-text-messages-between-conspirators-reveal-intention-to-find-clients-to-act-as-pass-through-partner-for-customers-in-china)
-
----
-
-### 6. Paralyzed army vet can now play World of Warcraft using 'science fiction magic brilliant ' Neuralink brain implant 'I m now raiding, and exploring Azeroth hands-free at full speed' 
-
-Jon L. Noble, a paralyzed British Army veteran, is now able to play World of Warcraft hands-free with the help of a Neuralink brain implant. This technology has given him full control and speed while exploring Azeroth. The update marks his first 100 days with the implant.
-
-💡 *Neuralink technology restores freedom to severely paralyzed individuals instantly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/paralyzed-army-vet-can-now-play-world-of-warcraft-using-science-fiction-magic-brilliant-neuralink-brain-implant-im-now-raiding-and-exploring-azeroth-hands-free-at-full-speed)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/us-supreme-court-says-isps-arent-liable-for-their-users-piracy-top-judiciary-body-unanimously-rules-that-cox-communications-did-not-commit-copyright-infringement)
 
 ---
 
-### 7. Elon Musk's Terafab semiconductor project could cost $5 trillion, Bernstein claims herculean effort would cost more than 70% of the total yearly US government budget 
+### 4. Google sets 2029 deadline for quantum-safe encryption, years ahead of government targets 
 
-Elon Musk's TeraFab project could cost $5 trillion to build 1 TW of AI silicon per year, requiring multiple fabs and massive production of GPU, CPU, and HBM4E wafers.
+Google is migrating to quantum-safe encryption by 2029, a decade ahead of government targets. This move aims to protect sensitive data from potential quantum computer attacks. The company will implement post-quantum cryptography algorithms to achieve this goal.
 
-💡 *Massive investment needed for AI silicon production capabilities.*
+💡 *Quantum computers can potentially break current encryption, compromising global security.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-semiconductor-project-could-cost-usd5-trillion-bernstein-claims-herculean-effort-would-cost-more-than-70-percent-of-the-total-yearly-us-government-budget)
+🔗 [Read Full Article](https://www.techspot.com/news/111856-google-sets-2029-deadline-quantum-safe-encryption-years.html)
 
 ---
 
-### 8. Sony and Honda pull the plug on $90,000 Afeela EV as electric dreams stall 
+### 5. Judge blocks Pentagon from labeling Anthropic a national security risk 
 
-Sony and Honda have canceled the $90,000 Afeela EV due to low demand, rising costs, and shifting regulations. This marks a broader industry retreat from electric vehicle programs. Automakers are reassessing their commitments amid falling demand and changing market conditions.
+A US District Judge blocked the Pentagon from labeling Anthropic a national security risk, citing retaliation as motive.
 
-💡 *Electric vehicle industry faces major setbacks and industry-wide retrenchment.*
+💡 *Government actions driven by retaliation threaten free speech and innovation.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111839-sony-honda-pull-plug-90000-afeela-ev-electric.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111853-judge-blocks-pentagon-labeling-anthropic-supply-chain-risk.html)
+
+---
+
+### 6. Using a VPN to hide your location could expose you to government surveillance 
+
+US lawmakers question whether VPN users lose constitutional protections against spying.
+
+💡 *Using a VPN to hide location may invite US surveillance instead.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111848-using-vpn-hide-location-could-expose-you-government.html)
 
 ---
 

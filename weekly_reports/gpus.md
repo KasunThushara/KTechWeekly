@@ -1,75 +1,65 @@
 # 🎮 GPUs
-**Week of March 27, 2026**
+**Week of March 28, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-03-27 09:39
+- **Articles this week:** 5
+- **Report generated:** 2026-03-28 09:21
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. ESP32-P4-Pi-VIEWE A Raspberry Pi-inspired ESP32-P4 + ESP32-C6 board with Ethernet, USB, 40-pin GPIO header, and more ⭐
+### 1. Logitech G522 Lightspeed Wireless Gaming Headset Review 
 
-The ESP32-P4-Pi-VIEWE is a Raspberry Pi-inspired development board with Wi-Fi 6 and Bluetooth 5.0, featuring a dual-core RISC-V MCU and 32MB PSRAM. It offers various interfaces, including 10/100Mbps Ethernet, MIPI DSI, CSI connectors, onboard microphones, and a USB 2.0 port. The board is designed in a familiar 85 x 56 mm credit card form factor.
+The Logitech G522 Lightspeed Wireless offers comfort and sound quality at a mid-range price. It's a reliable choice for gamers, despite feeling slightly flimsy. This headset makes a good pick for those looking for a balance between features and affordability.
 
-💡 *Raspberry Pi-like board expands Wi-Fi and Bluetooth capabilities for makers and developers.*
+💡 *Comfort and sound quality balance affordability and performance expectations*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/27/esp32-p4-pi-viewe-raspberry-pi-esp32-p4-esp32-c6-board/)
-
----
-
-### 2. Playing Forza Horizon 6 with ray tracing won't require high-end GPUs ⭐
-
-Forza Horizon 6 allows dynamic graphics adjustments without restarting the game, offering real-time previews and performance tracking tools.
-
-💡 *Real-time graphics tweaking enhances gaming experience and GPU efficiency optimization.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111828-playing-forza-horizon-6-ray-tracing-wont-require.html)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/logitech-g522-lightspeed-wireless-gaming-headset-review)
 
 ---
 
-### 3. AMD makes the flagship Ryzen 9 9950X3D2 official first dual-cache X3D CPU arrives in April, with 208MB cache, 200W TDP, promising modest performance gains 
+### 2. RTX 5060 gaming laptop brings epic power for under $1,500 save $580 on Dell's Alienware 16X Aurora 
 
-AMD launches the Ryzen 9 9950X3D2, offering 208MB cache and a 200W TDP. This flagship CPU promises modest performance gains in gaming, rendering, and content creation. It is the company's first dual-cache X3D processor.
+Best Buy offers the Dell Alienware 16X Aurora with a GeForce RTX 5060 at a discounted price. The laptop features a Core Ultra 9 275HX processor. It's available for $580 less than its original price.
 
-💡 *Significant cache boost offers incremental performance improvements.*
+💡 *High-end gaming power now accessible at an affordable price point.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-makes-the-flagship-ryzen-9-9950x3d2-official-first-dual-cache-x3d-cpu-arrives-in-april-with-208mb-cache-200w-tdp-promising-modest-performance-gains)
-
----
-
-### 4. Intel s Binary Optimization Tool tested and explained how the iBOT translation delivers up to 18% faster gaming performance, 8% on average 
-
-Intel's Core Ultra 200S Plus CPUs feature the Binary Optimization Tool, which delivers 8% average gaming performance uplift.
-
-💡 *AI-driven code optimization boosts gaming performance by 8% on average.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-binary-optimization-tool-tested-and-explained-how-the-ibot-translation-delivers-up-to-18-percent-faster-gaming-performance-8-percent-on-average)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/rtx-5060-gaming-laptop-brings-epic-power-for-under-usd1-500-save-usd580-on-dells-alienware-16x-aurora)
 
 ---
 
-### 5. US Senators call for a halt to Nvidia GPU exports in the wake of the Super Micro scandal looming Chip Security Act may put a wrench into Huang's China ambitions 
+### 3. Testing DirectStorage with GPU decompression do Blackwell GPUs have the upper hand? 
 
-US senators call for Nvidia GPU exports to China to be halted, amid the Super Micro scandal, as the Chip Security Act may impose location tracking on exported AI accelerators.
+We tested DirectStorage with GPU decompression on Blackwell GPUs for improved performance.
 
-💡 *US-China chip exports may be restricted due to national security concerns.*
+💡 *Blackwell GPUs have an edge in decompression-intensive storage tasks.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-senators-call-for-a-halt-to-nvidia-gpu-exports-in-the-wake-of-the-super-micro-scandal-looming-chip-security-act-may-put-a-wrench-into-huangs-china-ambitions)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/testing-directstorage-with-gpu-decompression-do-blackwell-gpus-have-the-upper-hand)
 
 ---
 
-### 6. Class action alleges Nvidia hid more than $1B crypto-GPU income within its gaming revenues investor lawsuit concerns business spanning 2017 and 2018 
+### 4. "Why make game art at all?" New Blood publisher fears DLSS 5 is replacing artistry with AI 
 
-Nvidia faces a class-action lawsuit alleging it hid crypto-GPU income in gaming revenue.
+Nvidia's DLSS 5 may replace game artistry with AI-generated visuals, sparking controversy.
 
-💡 *Transparency in revenue sources impacts investor trust and company valuation significantly*
+💡 *Rise of AI-generated visuals threatens traditional game art's creative role*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/class-action-alleges-nvidia-hid-more-than-usd1b-crypto-gpu-income-within-its-gaming-revenues-investor-lawsuit-concerns-business-spanning-2017-and-2018)
+🔗 [Read Full Article](https://www.techspot.com/news/111847-why-make-game-art-all-new-blood-publisher.html)
+
+---
+
+### 5. Chinese universities with military ties bought Supermicro servers with restricted Nvidia A100 chips 
+
+Chinese universities with military ties acquired Supermicro servers containing restricted Nvidia A100 chips, highlighting a loophole in US export controls.
+
+💡 *US export controls can be circumvented through embedded advanced GPUs.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111855-blacklisted-chinese-universities-military-ties-bought-supermicro-servers.html)
 
 ---
 

@@ -1,115 +1,85 @@
 # 📰 Tech News
-**Week of March 27, 2026**
+**Week of March 28, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-03-27 09:39
+- **Articles this week:** 7
+- **Report generated:** 2026-03-28 09:21
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. SparkFun Thing Plus ESP32-C5 board offers dual-band WiFi 6, Adafruit Feather pinout, LiPo battery support ⭐⭐
+### 1. CERN scientists successfully turned an antiproton trap into a moving appliance ⭐
 
-SparkFun has released the Thing Plus ESP32-C5, an Adafruit Feather-compatible board with dual-band WiFi 6, supporting remote deployments and Matter-compatible smart home applications.
+CERN scientists have successfully transported antiprotons across their main site, a breakthrough for portable antimatter.
 
-💡 *Stable ESP-IDF v6.0 enables reliable remote WiFi 6 deployments.*
+💡 *Unlocking the potential for widespread antimatter research and applications.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/27/sparkfun-thing-plus-esp32-c5-board-offers-dual-band-wifi-6-adafruit-feather-pinout-lipo-battery-support/)
-
----
-
-### 2. Arzopa Z3FC 16.1-inch portable monitor review: 1440p resolution and 180 Hz for mobile gamers 
-
-The Arzopa Z3FC portable monitor offers high performance and build quality for mobile gamers. It features a 1440p resolution and 180 Hz refresh rate, making it suitable for demanding games. However, its speakers could be improved.
-
-💡 *Premium gaming performance in a portable, high-resolution display*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/portable-monitors/arzopa-z3fc-16-1-inch-portable-monitor-review)
+🔗 [Read Full Article](https://www.techspot.com/news/111845-cern-scientists-successfully-turned-antiproton-trap-moving-appliance.html)
 
 ---
 
-### 3. Enthusiast lands on the moon using hardware from the 1980s ZX Spectrum home computer with 3.5 MHz CPU and 48KB of memory power Kerbal space flight 
+### 2. HP Omen Max 45L review: Flagship desktop gaming PC performance with a price tag to match 
 
-YouTuber Scott Manley used a 1982 ZX Spectrum to land a spacecraft on Kerbal Space Program, demonstrating the potential for old hardware to achieve complex tasks.
+The HP Omen Max 45L is a high-performance desktop gaming PC with a hefty price tag. It boasts a powerful configuration with top-of-the-line features. This flagship PC is ideal for those willing to invest heavily in gaming excellence.
 
-💡 *Limited hardware can still achieve impressive feats with the right mindset.*
+💡 *Elite gaming performance comes at an extremely high price point*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/enthusiast-lands-on-the-moon-using-hardware-from-the-1980s-zx-spectrum-home-computer-with-3-5-mhz-cpu-and-48kb-of-memory-power-kerbal-space-flight)
-
----
-
-### 4. Intel confirms rumored Core Ultra 9 290K Plus has been scrapped potential Core Ultra 9 285KS Special Edition also off the table as Arrow Lake refresh rolls out 
-
-Intel has scrapped the Core Ultra 9 295K Plus and a potential 'KS' edition. This decision comes as the Arrow Lake refresh rolls out. The move indicates a shift in Intel's product strategy.
-
-💡 *Intel prioritizes current lineup over rumored special edition parts.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-confirms-rumored-core-ultra-9-290k-plus-has-been-scrapped-potential-core-ultra-9-285ks-special-edition-also-off-the-table-as-arrow-lake-refresh-rolls-out)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/hp-omen-max-45l-review)
 
 ---
 
-### 5. Gigabyte Aero X16 Review: Capable hardware, compromised experience 
+### 3. Testing DirectStorage with GPU decompression do Blackwell GPUs have the upper hand? 
 
-The Gigabyte Aero X16 offers capable hardware, but its screen and audio hinder its potential as a creative machine.
+We tested DirectStorage with GPU decompression on Blackwell GPUs for improved performance.
 
-💡 *Balanced specs can't compensate for compromised user experience features.*
+💡 *Blackwell GPUs have an edge in decompression-intensive storage tasks.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/gigabyte-aero-x16-review)
-
----
-
-### 6. CanisterWorm malware wipes Iranian machines for no apparent reason sophisticated attack spreads through npm packages and uses ICP canister as control surface 
-
-A sophisticated malware, CanisterWorm, targets Iranian machines, erasing data without a clear motive.
-
-💡 *Nation-state actors exploit software supply chains for destructive cyber operations.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/canisterworm-malware-wipes-iranian-machines-for-no-apparent-reason-sophisticated-attack-spreads-through-npm-packages-and-uses-icp-canister-as-control-surface)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/testing-directstorage-with-gpu-decompression-do-blackwell-gpus-have-the-upper-hand)
 
 ---
 
-### 7. Announcing the second group of Rising Stars 2026 
+### 4. Epomaker RT82 Review: Quietly retro 
 
-The Fierce Sensors Rising Stars program honors individuals driving innovation in electronics with their expertise and impact.
+The Epomaker RT82 is a retro-inspired wireless mechanical keyboard with a detachable mini LCD screen and ultra-quiet keypresses, all housed in an all-plastic design.
 
-💡 *Advancements in technology shape the future of electronics and society significantly.*
+💡 *Blending vintage aesthetics with modern wireless convenience and quiet typing.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/second-group-rising-stars)
-
----
-
-### 8. Apple takes on Microsoft 365 and Google Workspace with new business platform 
-
-Apple is launching Apple Business, a new platform integrating its enterprise programs. It will debut on April 14 in over 200 countries and regions. The platform aims to provide a comprehensive service for small and mid-sized businesses.
-
-💡 *Comprehensive business platform challenges Microsoft 365 and Google Workspace dominance*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111838-apple-takes-microsoft-365-google-workspace-new-business.html)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/epomaker-rt82-review)
 
 ---
 
-### 9. UK warns 2G shutdown could leave older devices offline by 2033 
+### 5. Startup builds first responder drone connected via Starlink that enables eight mile range UAV can fly for over an hour, swap batteries automatically, and carry various payloads 
 
-The UK plans to shut down 2G services between 2029 and 2033. This move affects older devices that may not support newer mobile infrastructure. Users are advised to prepare for potential disruptions.
+The BRINC Guardian is a first responder drone with Starlink connectivity, enabling it to fly for over an hour, cover an eight-mile range, and automatically swap batteries. This allows it to operate in areas with limited or no terrestrial signal. The drone can also carry various payloads.
 
-💡 *Disruption for users with outdated mobile devices and technology.*
+💡 *Enhanced connectivity empowers drones for extended, reliable emergency operations.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111830-uk-warns-2g-shutdown-could-leave-older-devices.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/startup-builds-first-responder-drone-connected-via-starlink-that-enables-eight-mile-range-uav-can-fly-for-over-an-hour-swap-batteries-automatically-and-carry-various-payloads)
 
 ---
 
-### 10. Elon Musk wants judge recused for liking LinkedIn post mocking $2 billion verdict 
+### 6. Netflix hikes prices for all its plans, pushing Premium to $26.99 
 
-Elon Musk and Tesla file a motion to recuse a Delaware judge due to her 'Support' reaction on a LinkedIn post criticizing Musk and his law firm.
+Netflix increases its pricing plans, with Premium reaching $26.99/month. The Standard With Ads plan now costs $8.99/month, and the ad-free Standard plan is $19.99/month. These changes affect all subscribers.
 
-💡 *Conflict of interest allegations threaten impartiality of a high-profile court case.*
+💡 *Increased costs may lead to lost subscribers and revenue impact.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111837-elon-musk-wants-judge-recused-after-linkedin-like.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111852-netflix-hikes-prices-all-plans-pushing-premium-2699.html)
+
+---
+
+### 7. These famous tech leaders are all college dropouts except one. Who actually completed their degree? 
+
+Some famous tech leaders dropped out of college, but one succeeded in completing their degree. This individual stands out from their peers in the tech industry. Their perseverance is a notable exception.
+
+💡 *Completions can be a key differentiator in tech industry success.*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/69-famous-tech-leaders-all-college-dropouts-except-one/)
 
 ---
 

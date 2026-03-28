@@ -1,429 +1,361 @@
 [
   {
-    "title": "Apple discontinues Mac Pro after 20 years system had been in stuck in stasis with M2 Ultra since 2023",
-    "summary": "Apple discontinued its Mac Pro tower, which had been stagnant since the M2 Ultra update in 2023.",
-    "link": "https://www.tomshardware.com/desktops/apple-discontinues-mac-pro-after-20-years-system-had-been-in-stuck-in-stasis-with-m2-ultra-since-2023",
+    "title": "RTX 5060 gaming laptop brings epic power for under $1,500 save $580 on Dell's Alienware 16X Aurora",
+    "summary": "Best Buy offers the Dell Alienware 16X Aurora with a GeForce RTX 5060 at a discounted price. The laptop features a Core Ultra 9 275HX processor. It's available for $580 less than its original price.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/rtx-5060-gaming-laptop-brings-epic-power-for-under-usd1-500-save-usd580-on-dells-alienware-16x-aurora",
     "categories": [
+      "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.695525",
-    "insight": "Innovation stagnation in high-end product lines can harm brand reputation"
+    "processed_date": "2026-03-28T09:20:16.594612",
+    "insight": "High-end gaming power now accessible at an affordable price point."
   },
   {
-    "title": "Intel confirms rumored Core Ultra 9 290K Plus has been scrapped potential Core Ultra 9 285KS Special Edition also off the table as Arrow Lake refresh rolls out",
-    "summary": "Intel has scrapped the Core Ultra 9 295K Plus and a potential 'KS' edition. This decision comes as the Arrow Lake refresh rolls out. The move indicates a shift in Intel's product strategy.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-rumored-core-ultra-9-290k-plus-has-been-scrapped-potential-core-ultra-9-285ks-special-edition-also-off-the-table-as-arrow-lake-refresh-rolls-out",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.695649",
-    "insight": "Intel prioritizes current lineup over rumored special edition parts."
-  },
-  {
-    "title": "AMD makes the flagship Ryzen 9 9950X3D2 official first dual-cache X3D CPU arrives in April, with 208MB cache, 200W TDP, promising modest performance gains",
-    "summary": "AMD launches the Ryzen 9 9950X3D2, offering 208MB cache and a 200W TDP. This flagship CPU promises modest performance gains in gaming, rendering, and content creation. It is the company's first dual-cache X3D processor.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-makes-the-flagship-ryzen-9-9950x3d2-official-first-dual-cache-x3d-cpu-arrives-in-april-with-208mb-cache-200w-tdp-promising-modest-performance-gains",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-27T09:37:41.695769",
-    "insight": "Significant cache boost offers incremental performance improvements."
-  },
-  {
-    "title": "Where to buy Intel's Core Ultra 5 250K Plus and Core Ultra 7 270K Plus grab these impressive Arrow Lake Refresh CPUs from these retailers, starting from $219",
-    "summary": "Intel's Core Ultra 5 250K Plus and 7 270K Plus are available to purchase. These CPUs are part of the Arrow Lake Refresh lineup, offering improved performance. Prices start at $219.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/where-to-buy-intels-core-ultra-5-250k-plus-and-core-ultra-7-270k-plus-grab-these-impressive-arrow-lake-refresh-cpus-from-these-retailers-starting-from-usd219",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.695887",
-    "insight": "Latest CPUs from Intel provide enhanced performance for upgraded systems."
-  },
-  {
-    "title": "Intel's upcoming 'Wildcat Lake' low-power series breaks cover in Geekbench listing 'Core 3 304' is twice as fast in single-core performance versus last-gen",
-    "summary": "Intel's 'Wildcat Lake' low-power series offers significant performance improvements over its predecessors, primarily aimed at embedded devices, budget laptops, and NAS devices where efficiency is crucial.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-wildcat-lake-low-power-series-breaks-cover-in-geekbench-listing-core-3-304-is-twice-as-fast-in-single-core-performance-versus-last-gen",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-27T09:37:41.696017",
-    "insight": "Wildcat Lake CPUs deliver massive single-core performance boosts over last-gen models"
-  },
-  {
-    "title": "US Senators call for a halt to Nvidia GPU exports in the wake of the Super Micro scandal looming Chip Security Act may put a wrench into Huang's China ambitions",
-    "summary": "US senators call for Nvidia GPU exports to China to be halted, amid the Super Micro scandal, as the Chip Security Act may impose location tracking on exported AI accelerators.",
-    "link": "https://www.tomshardware.com/tech-industry/us-senators-call-for-a-halt-to-nvidia-gpu-exports-in-the-wake-of-the-super-micro-scandal-looming-chip-security-act-may-put-a-wrench-into-huangs-china-ambitions",
-    "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.696157",
-    "insight": "US-China chip exports may be restricted due to national security concerns."
-  },
-  {
-    "title": "Class action alleges Nvidia hid more than $1B crypto-GPU income within its gaming revenues investor lawsuit concerns business spanning 2017 and 2018",
-    "summary": "Nvidia faces a class-action lawsuit alleging it hid crypto-GPU income in gaming revenue.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/class-action-alleges-nvidia-hid-more-than-usd1b-crypto-gpu-income-within-its-gaming-revenues-investor-lawsuit-concerns-business-spanning-2017-and-2018",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.696279",
-    "insight": "Transparency in revenue sources impacts investor trust and company valuation significantly"
-  },
-  {
-    "title": "Gigabyte Aero X16 Review: Capable hardware, compromised experience",
-    "summary": "The Gigabyte Aero X16 offers capable hardware, but its screen and audio hinder its potential as a creative machine.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/gigabyte-aero-x16-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.696394",
-    "insight": "Balanced specs can't compensate for compromised user experience features."
-  },
-  {
-    "title": "Intel s Binary Optimization Tool tested and explained how the iBOT translation delivers up to 18% faster gaming performance, 8% on average",
-    "summary": "Intel's Core Ultra 200S Plus CPUs feature the Binary Optimization Tool, which delivers 8% average gaming performance uplift.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-binary-optimization-tool-tested-and-explained-how-the-ibot-translation-delivers-up-to-18-percent-faster-gaming-performance-8-percent-on-average",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-27T09:37:41.696522",
-    "insight": "AI-driven code optimization boosts gaming performance by 8% on average."
-  },
-  {
-    "title": "Save big on Intel's Arrow Lake refresh with almost $300 off on this 3-item bundle new Core Ultra 270K Plus processor, MSI Z890 Carbon Wifi motherboard, and 32GB of G.Skill Trident Z5 DDR5-6400 RAM for $899.99",
-    "summary": "Get the Intel Core Ultra 270K Plus bundle for $899.99, a discounted price of almost $300 off. This bundle includes a MSI Z890 Carbon Wifi motherboard and 32GB of G.Skill Trident Z5 DDR5-6400 RAM.",
-    "link": "https://www.tomshardware.com/pc-components/save-big-on-intels-arrow-lake-refresh-with-almost-usd300-off-on-this-3-item-bundle-new-core-ultra-270k-plus-processor-msi-z890-carbon-wifi-motherboard-and-32gb-of-g-skill-trident-z5-ddr5-6400-ram-for-usd899-99",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.696642",
-    "insight": "Pre-AI-apocalypse RAM prices make this bundle a significant value."
-  },
-  {
-    "title": "Arzopa Z3FC 16.1-inch portable monitor review: 1440p resolution and 180 Hz for mobile gamers",
-    "summary": "The Arzopa Z3FC portable monitor offers high performance and build quality for mobile gamers. It features a 1440p resolution and 180 Hz refresh rate, making it suitable for demanding games. However, its speakers could be improved.",
-    "link": "https://www.tomshardware.com/monitors/portable-monitors/arzopa-z3fc-16-1-inch-portable-monitor-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-27T09:37:41.696759",
-    "insight": "Premium gaming performance in a portable, high-resolution display"
-  },
-  {
-    "title": "Three individuals charged with attempting to break US sanctions on AI chips damning text messages between conspirators reveal intention to find clients to act as pass through partner for customers in China ",
-    "summary": "Three individuals, including a Chinese citizen, have been charged with attempting to evade US sanctions by ordering controlled AI chips for export to Thailand with China as the intended final destination. The conspirators used text messages to discuss their plan and find clients to act as pass-through partners for customers in China. Their actions are part of a broader effort to circumvent US export controls.",
-    "link": "https://www.tomshardware.com/tech-industry/three-individuals-charged-with-attempting-to-break-us-sanctions-on-ai-chips-damning-text-messages-between-conspirators-reveal-intention-to-find-clients-to-act-as-pass-through-partner-for-customers-in-china",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.696886",
-    "insight": "US sanctions evasion threatens global AI technology security and stability"
-  },
-  {
-    "title": "Paralyzed army vet can now play World of Warcraft using 'science fiction magic brilliant ' Neuralink brain implant 'I m now raiding, and exploring Azeroth hands-free at full speed'",
-    "summary": "Jon L. Noble, a paralyzed British Army veteran, is now able to play World of Warcraft hands-free with the help of a Neuralink brain implant. This technology has given him full control and speed while exploring Azeroth. The update marks his first 100 days with the implant.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/paralyzed-army-vet-can-now-play-world-of-warcraft-using-science-fiction-magic-brilliant-neuralink-brain-implant-im-now-raiding-and-exploring-azeroth-hands-free-at-full-speed",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.696993",
-    "insight": "Neuralink technology restores freedom to severely paralyzed individuals instantly."
-  },
-  {
-    "title": "Elon Musk's Terafab semiconductor project could cost $5 trillion, Bernstein claims herculean effort would cost more than 70% of the total yearly US government budget",
-    "summary": "Elon Musk's TeraFab project could cost $5 trillion to build 1 TW of AI silicon per year, requiring multiple fabs and massive production of GPU, CPU, and HBM4E wafers.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-semiconductor-project-could-cost-usd5-trillion-bernstein-claims-herculean-effort-would-cost-more-than-70-percent-of-the-total-yearly-us-government-budget",
+    "title": "Air Liquide opens Taiwan factory as helium shortage tightens around chip makers 200 specialized helium containers stranded near the Strait of Hormuz",
+    "summary": "Air Liquide opened a new factory in Taiwan to address helium shortages affecting the semiconductor industry. The shortage tightens around chip makers, making the new factory a timely response. Helium containers are also stranded near the Strait of Hormuz.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/air-liquide-opens-taiwan-factory-as-helium-shortage-tightens-around-chip-makers",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.697116",
-    "insight": "Massive investment needed for AI silicon production capabilities."
+    "processed_date": "2026-03-28T09:20:16.594750",
+    "insight": "Helium shortage jeopardizes global chip production capabilities and supply chains."
   },
   {
-    "title": "CanisterWorm malware wipes Iranian machines for no apparent reason sophisticated attack spreads through npm packages and uses ICP canister as control surface",
-    "summary": "A sophisticated malware, CanisterWorm, targets Iranian machines, erasing data without a clear motive.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/canisterworm-malware-wipes-iranian-machines-for-no-apparent-reason-sophisticated-attack-spreads-through-npm-packages-and-uses-icp-canister-as-control-surface",
+    "title": "Testing DirectStorage with GPU decompression do Blackwell GPUs have the upper hand?",
+    "summary": "We tested DirectStorage with GPU decompression on Blackwell GPUs for improved performance.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/testing-directstorage-with-gpu-decompression-do-blackwell-gpus-have-the-upper-hand",
     "categories": [
+      "GPUs",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.697215",
-    "insight": "Nation-state actors exploit software supply chains for destructive cyber operations."
+    "processed_date": "2026-03-28T09:20:16.594858",
+    "insight": "Blackwell GPUs have an edge in decompression-intensive storage tasks."
   },
   {
-    "title": "Enthusiast lands on the moon using hardware from the 1980s ZX Spectrum home computer with 3.5 MHz CPU and 48KB of memory power Kerbal space flight",
-    "summary": "YouTuber Scott Manley used a 1982 ZX Spectrum to land a spacecraft on Kerbal Space Program, demonstrating the potential for old hardware to achieve complex tasks.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/enthusiast-lands-on-the-moon-using-hardware-from-the-1980s-zx-spectrum-home-computer-with-3-5-mhz-cpu-and-48kb-of-memory-power-kerbal-space-flight",
+    "title": "Sony increasing PlayStation 5 prices across all consoles, starting April 2 PS5 and PS5 Digital Edition receive $100 hikes, while PS5 Pro will now sell for $900",
+    "summary": "PlayStation 5 consoles are getting price hikes due to the global economic crisis, with the base disc and digital editions increasing by $100 and the PS5 Pro now costing $900, effective April 2.",
+    "link": "https://www.tomshardware.com/video-games/playstation/sony-increasing-playstation-5-prices-across-all-consoles-starting-april-2-ps5-and-ps5-digital-edition-receive-usd100-hikes-while-ps5-pro-will-now-sell-for-usd900",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-28T09:20:16.595001",
+    "insight": "Gaming affordability becomes a luxury for many consumers impacted."
+  },
+  {
+    "title": "SMIC sent chipmaking tools to Iran's military, Trump administration officials say report claims exchange began a year ago, 'almost certainly included technical training on SMIC's semiconductor technology'",
+    "summary": "SMIC reportedly sent chipmaking tools to Iran's military, including technical training.",
+    "link": "https://www.tomshardware.com/tech-industry/smic-sent-chipmaking-tools-to-irans-military-trump-administration-officials-say",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-28T09:20:16.595120",
+    "insight": "U.S. national security jeopardized by China's tech transfer to adversaries."
+  },
+  {
+    "title": "US Supreme Court says ISPs aren t liable for their users piracy top judiciary body unanimously rules that Cox Communications did not commit copyright infringement",
+    "summary": "US Supreme Court rules against Sony Music in case against Cox Communications, finding no liability for ISP copyright infringement. This marks a significant victory for internet service providers, establishing a precedent for their protection against user-generated content infringement. The unanimous decision affects how ISPs handle copyright complaints.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/us-supreme-court-says-isps-arent-liable-for-their-users-piracy-top-judiciary-body-unanimously-rules-that-cox-communications-did-not-commit-copyright-infringement",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-28T09:20:16.595253",
+    "insight": "ISPs are not liable for users' copyright infringement under new precedent."
+  },
+  {
+    "title": "HP Omen Max 45L review: Flagship desktop gaming PC performance with a price tag to match",
+    "summary": "The HP Omen Max 45L is a high-performance desktop gaming PC with a hefty price tag. It boasts a powerful configuration with top-of-the-line features. This flagship PC is ideal for those willing to invest heavily in gaming excellence.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/hp-omen-max-45l-review",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-27T09:37:41.697324",
-    "insight": "Limited hardware can still achieve impressive feats with the right mindset."
+    "processed_date": "2026-03-28T09:20:16.595356",
+    "insight": "Elite gaming performance comes at an extremely high price point"
   },
   {
-    "title": "SparkFun Thing Plus ESP32-C5 board offers dual-band WiFi 6, Adafruit Feather pinout, LiPo battery support",
-    "summary": "SparkFun has released the Thing Plus ESP32-C5, an Adafruit Feather-compatible board with dual-band WiFi 6, supporting remote deployments and Matter-compatible smart home applications.",
-    "link": "https://www.cnx-software.com/2026/03/27/sparkfun-thing-plus-esp32-c5-board-offers-dual-band-wifi-6-adafruit-feather-pinout-lipo-battery-support/",
+    "title": "Grab this beginner-friendly Creality 3D printer for as little as $186 right now Ender 3 V3 SE drops to record-low Amazon price with direct-drive extruder and auto bed-leveling features",
+    "summary": "The Creality Ender 3 V3 SE 3D printer is now available at a record-low price of $186.15 on Amazon, making it a highly affordable option for beginners.",
+    "link": "https://www.tomshardware.com/3d-printing/grab-this-beginner-friendly-creality-3d-printer-for-as-little-as-usd186-right-now-ender-3-v3-se-drops-to-record-low-amazon-price-with-direct-drive-extruder-and-auto-bed-leveling-features",
     "categories": [
-      "Hardware",
-      "Tech News"
+      "AI & ML"
     ],
-    "quality_score": 30,
-    "processed_date": "2026-03-27T09:37:41.697840",
-    "insight": "Stable ESP-IDF v6.0 enables reliable remote WiFi 6 deployments."
+    "quality_score": 5,
+    "processed_date": "2026-03-28T09:20:16.595487",
+    "insight": "Affordable 3D printer option for DIY and hobbyist markets"
   },
   {
-    "title": "ESP32-P4-Pi-VIEWE A Raspberry Pi-inspired ESP32-P4 + ESP32-C6 board with Ethernet, USB, 40-pin GPIO header, and more",
-    "summary": "The ESP32-P4-Pi-VIEWE is a Raspberry Pi-inspired development board with Wi-Fi 6 and Bluetooth 5.0, featuring a dual-core RISC-V MCU and 32MB PSRAM. It offers various interfaces, including 10/100Mbps Ethernet, MIPI DSI, CSI connectors, onboard microphones, and a USB 2.0 port. The board is designed in a familiar 85 x 56 mm credit card form factor.",
-    "link": "https://www.cnx-software.com/2026/03/27/esp32-p4-pi-viewe-raspberry-pi-esp32-p4-esp32-c6-board/",
+    "title": "US judge sides with Anthropic, says company supply chain risk branding over Pentagon disagreement 'Orwellian' Trump slapped AI company with designation after it refused to lower its guardrails for the military",
+    "summary": "A US judge ruled against the Pentagon branding Anthropic as a supply chain risk after the company refused to lower its guardrails for military use.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-judge-sides-with-anthropic-says-company-supply-chain-risk-branding-over-pentagon-disagreement-orwellian-trump-slapped-ai-company-with-designation-after-it-refused-to-lower-its-guardrails-for-the-military",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-28T09:20:16.595597",
+    "insight": "Government overreach undermines AI innovation and free market principles"
+  },
+  {
+    "title": "Logitech G522 Lightspeed Wireless Gaming Headset Review",
+    "summary": "The Logitech G522 Lightspeed Wireless offers comfort and sound quality at a mid-range price. It's a reliable choice for gamers, despite feeling slightly flimsy. This headset makes a good pick for those looking for a balance between features and affordability.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-headsets/logitech-g522-lightspeed-wireless-gaming-headset-review",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-03-27T09:37:41.698014",
-    "insight": "Raspberry Pi-like board expands Wi-Fi and Bluetooth capabilities for makers and developers."
+    "quality_score": 10,
+    "processed_date": "2026-03-28T09:20:16.595711",
+    "insight": "Comfort and sound quality balance affordability and performance expectations"
   },
   {
-    "title": "Microchip SAM9X75 Hybrid automotive MCU Surprisingly ARM9 is still a thing in 2026",
-    "summary": "Microchip's SAM9X75 is a hybrid automotive MCU based on the ARM9 core, targeting developers who need an MCU-like development environment with higher processing capabilities for automotive and e-mobility HMI applications. The SoC features integrated DDR2 or DDR3L memory and comes in three variants with different memory capacities. It is designed for automotive-qualified (AEC-Q100 Grade 2) applications.",
-    "link": "https://www.cnx-software.com/2026/03/27/microchip-sam9x75-hybrid-automotive-mcu-surprisingly-arm9-is-still-a-thing-in-2026/",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-03-27T09:37:41.698185",
-    "insight": "Legacy ARM9 core still viable in modern automotive MCU designs."
-  },
-  {
-    "title": "picoZ80 A Z80 microprocessor drop-in replacement based on Raspberry Pi RP2350B and ESP32",
-    "summary": "The picoZ80 board is a drop-in Z80 microprocessor replacement based on a Raspberry Pi RP2350B dual-core Cortex-M33 microcontroller and ESP32 SoC, offering cycle-accurate Z80 reproduction and WiFi/Bluetooth connectivity.",
-    "link": "https://www.cnx-software.com/2026/03/26/picoz80-a-z80-microprocessor-drop-in-replacement-based-on-raspberry-pi-rp2350b-and-esp32/",
+    "title": "Epomaker RT82 Review: Quietly retro",
+    "summary": "The Epomaker RT82 is a retro-inspired wireless mechanical keyboard with a detachable mini LCD screen and ultra-quiet keypresses, all housed in an all-plastic design.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/epomaker-rt82-review",
     "categories": [
       "Hardware",
-      "Semiconductors"
+      "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-03-27T09:37:41.698347",
-    "insight": "Reviving retro computing with a modern, accurate Z80 microprocessor replacement."
+    "quality_score": 5,
+    "processed_date": "2026-03-28T09:20:16.595808",
+    "insight": "Blending vintage aesthetics with modern wireless convenience and quiet typing."
   },
   {
-    "title": "Where VC dollars (and jobs) are headed in sensing tech",
-    "summary": "Physical AI is a growing investment area that requires advanced sensors, which will create new job opportunities in sensing tech.",
-    "link": "https://www.fiercesensors.com/sensors/where-vc-dollars-and-jobs-are-headed-sensing-tech",
+    "title": "MacBook Neo mods include copper and liquid cooling temps drop and boost performance by up to 18%",
+    "summary": "The MacBook Neo can be upgraded with copper and liquid cooling to improve performance and reduce temperatures.",
+    "link": "https://www.tomshardware.com/laptops/macbooks/macbook-neo-mods-include-copper-and-liquid-cooling-temps-drop-and-boost-performance-by-up-to-18-percent",
     "categories": [
       "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-28T09:20:16.595906",
+    "insight": "Effective cooling unlocks MacBook Neo's full performance potential significantly."
+  },
+  {
+    "title": "Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot near-identical performance blurs the line between real and fake as AI crunch drives knock-off market",
+    "summary": "A nearly identical fake Samsung 990 Pro SSD has been found in Japan, showcasing nearly identical performance to the real model, making it difficult to distinguish between genuine and counterfeit products.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/exceptional-fake-ssd-clone-of-samsung-990-pro-is-almost-impossible-to-spot-near-identical-performance-blurs-the-line-between-real-and-fake-as-ai-crunch-drives-knock-off-market",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-28T09:20:16.596034",
+    "insight": "Counterfeit tech products with identical performance blur the line between real and fake."
+  },
+  {
+    "title": "Samsung Display debuts 'QuantumBlack' coating for QD-OLED monitors screen tech boosts ambient black levels while reducing glare",
+    "summary": "Samsung Display's 'QuantumBlack' coating improves QD-OLED monitors' ambient black levels and contrast.",
+    "link": "https://www.tomshardware.com/monitors/samsung-display-debuts-quantumblack-coating-for-qd-oled-monitors-screen-tech-boosts-ambient-black-levels-while-reducing-glare",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-28T09:20:16.596160",
+    "insight": "Enhanced viewing experience in well-lit environments becomes more accessible."
+  },
+  {
+    "title": "Startup builds first responder drone connected via Starlink that enables eight mile range UAV can fly for over an hour, swap batteries automatically, and carry various payloads",
+    "summary": "The BRINC Guardian is a first responder drone with Starlink connectivity, enabling it to fly for over an hour, cover an eight-mile range, and automatically swap batteries. This allows it to operate in areas with limited or no terrestrial signal. The drone can also carry various payloads.",
+    "link": "https://www.tomshardware.com/tech-industry/startup-builds-first-responder-drone-connected-via-starlink-that-enables-eight-mile-range-uav-can-fly-for-over-an-hour-swap-batteries-automatically-and-carry-various-payloads",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-28T09:20:16.596274",
+    "insight": "Enhanced connectivity empowers drones for extended, reliable emergency operations."
+  },
+  {
+    "title": "Q/A with Neeraj Pramodkumar on Wear Elite and smart wearables",
+    "summary": "Neeraj Pramodkumar from Qualcomm discusses Wear Elite and smart wearables at Sensors Converge, highlighting convergence of Edge AI, sensors, and connectivity in wearables.",
+    "link": "https://www.fiercesensors.com/sensors/qa-neeraj-pramodkumar-wear-elite-and-smart-wearables",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-28T09:20:16.596727",
+    "insight": "Convergence of Edge AI, sensors, and connectivity powers wearables innovation."
+  },
+  {
+    "title": "Google sets 2029 deadline for quantum-safe encryption, years ahead of government targets",
+    "summary": "Google is migrating to quantum-safe encryption by 2029, a decade ahead of government targets. This move aims to protect sensitive data from potential quantum computer attacks. The company will implement post-quantum cryptography algorithms to achieve this goal.",
+    "link": "https://www.techspot.com/news/111856-google-sets-2029-deadline-quantum-safe-encryption-years.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-28T09:20:16.597032",
+    "insight": "Quantum computers can potentially break current encryption, compromising global security."
+  },
+  {
+    "title": "These famous tech leaders are all college dropouts except one. Who actually completed their degree?",
+    "summary": "Some famous tech leaders dropped out of college, but one succeeded in completing their degree. This individual stands out from their peers in the tech industry. Their perseverance is a notable exception.",
+    "link": "https://www.techspot.com/trivia/69-famous-tech-leaders-all-college-dropouts-except-one/",
+    "categories": [
+      "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-03-27T09:37:41.699281",
-    "insight": "Sensing tech jobs are emerging to support AI-driven physical applications."
+    "processed_date": "2026-03-28T09:20:16.597137",
+    "insight": "Completions can be a key differentiator in tech industry success."
   },
   {
-    "title": "Announcing the second group of Rising Stars 2026",
-    "summary": "The Fierce Sensors Rising Stars program honors individuals driving innovation in electronics with their expertise and impact.",
-    "link": "https://www.fiercesensors.com/ai/second-group-rising-stars",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.699560",
-    "insight": "Advancements in technology shape the future of electronics and society significantly."
-  },
-  {
-    "title": "Google's TurboQuant compression tech cuts LLM memory use by 6x with no accuracy loss",
-    "summary": "Google's TurboQuant technology reduces LLM memory usage by 6x without affecting model accuracy. It achieves this by decreasing model size and improving vector search efficiency. This can lead to significant power savings and faster AI chatbots.",
-    "link": "https://www.techspot.com/news/111842-google-introduces-turboquant-cutting-llm-memory-usage-6x.html",
+    "title": "Apple's \"Hide My Email\" isn't as anonymous as it sounds",
+    "summary": "Apple's 'Hide My Email' service may not provide anonymity as claimed.",
+    "link": "https://www.techspot.com/news/111851-apple-hide-email-isnt-anonymous-sounds.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.699703",
-    "insight": "Optimizing LLMs for memory efficiency is critical for real-world AI deployments."
+    "processed_date": "2026-03-28T09:20:16.597251",
+    "insight": "Anonymity compromised by iCloud email address in threatening message."
   },
   {
-    "title": "Reddit cracks down on bots with new labels and human verification",
-    "summary": "Reddit introduces new labels and human verification to combat bots.",
-    "link": "https://www.techspot.com/news/111836-reddit-cracks-down-bots-new-labels-human-verification.html",
+    "title": "PS5 price increases go global, rising up to $150 depending on the model",
+    "summary": "PS5 price increases are global, affecting various models and their prices.",
+    "link": "https://www.techspot.com/news/111858-ps5-price-hike-global.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.699809",
-    "insight": "Controlling bots is crucial for maintaining social platform integrity."
+    "processed_date": "2026-03-28T09:20:16.597437",
+    "insight": "PS5 price hike may negatively impact gaming console sales"
   },
   {
-    "title": "HP wants your next work PC to be an AI assistant",
-    "summary": "HP aims to replace work PCs with AI assistants, driven by evolving autonomous agents and Intel's vPro technology. This shift could significantly impact the workplace, requiring employees to adapt to new tools and methods. The integration of AI assistants may streamline tasks and improve productivity.",
-    "link": "https://www.techspot.com/news/111844-hp-wants-next-work-pc-ai-assistant.html",
+    "title": "OLED monitor shipments jumped 92% in 2025, and Asus is leading the charge",
+    "summary": "OLED monitor shipments surged 92% in 2025 to 2.7 million units, driven by industry promotional campaigns.",
+    "link": "https://www.techspot.com/news/111846-oled-monitor-shipments-jumped-92-2025-asus-leading.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-28T09:20:16.597626",
+    "insight": "Promotional campaigns boost OLED monitor demand, fueling significant growth."
+  },
+  {
+    "title": "Judge blocks Pentagon from labeling Anthropic a national security risk",
+    "summary": "A US District Judge blocked the Pentagon from labeling Anthropic a national security risk, citing retaliation as motive.",
+    "link": "https://www.techspot.com/news/111853-judge-blocks-pentagon-labeling-anthropic-supply-chain-risk.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-28T09:20:16.597799",
+    "insight": "Government actions driven by retaliation threaten free speech and innovation."
+  },
+  {
+    "title": "Judge dismisses Elon Musk's X lawsuit over \"advertiser boycott\"",
+    "summary": "Judge Jane Boyle dismissed Elon Musk's lawsuit against X, citing lack of antitrust injury.",
+    "link": "https://www.techspot.com/news/111854-judge-dismisses-elon-musk-x-lawsuit-over-advertiser.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-28T09:20:16.597921",
+    "insight": "Musk's lawsuit lacks foundation, potentially setting precedent for future cases."
+  },
+  {
+    "title": "US warns EU over regulation, says fines on American tech giants could have consequences",
+    "summary": "The US warns the EU over excessive regulation of American tech giants, which could hinder their participation in the AI economy and limit access to US AI hardware and data.",
+    "link": "https://www.techspot.com/news/111857-us-ambassador-warns-eu-fines-american-tech-giants.html",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.699921",
-    "insight": "AI assistants could revolutionize work by automating routine tasks"
+    "processed_date": "2026-03-28T09:20:16.598077",
+    "insight": "Excessive regulation could harm US-EU tech collaboration and innovation opportunities."
   },
   {
-    "title": "Apple takes on Microsoft 365 and Google Workspace with new business platform",
-    "summary": "Apple is launching Apple Business, a new platform integrating its enterprise programs. It will debut on April 14 in over 200 countries and regions. The platform aims to provide a comprehensive service for small and mid-sized businesses.",
-    "link": "https://www.techspot.com/news/111838-apple-takes-microsoft-365-google-workspace-new-business.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.700037",
-    "insight": "Comprehensive business platform challenges Microsoft 365 and Google Workspace dominance"
-  },
-  {
-    "title": "UK warns 2G shutdown could leave older devices offline by 2033",
-    "summary": "The UK plans to shut down 2G services between 2029 and 2033. This move affects older devices that may not support newer mobile infrastructure. Users are advised to prepare for potential disruptions.",
-    "link": "https://www.techspot.com/news/111830-uk-warns-2g-shutdown-could-leave-older-devices.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.700144",
-    "insight": "Disruption for users with outdated mobile devices and technology."
-  },
-  {
-    "title": "Ring's new doorbells bring 2K and 4K video to battery models",
-    "summary": "Ring introduces new doorbells with advanced video capabilities, including 4K and 2K resolution.",
-    "link": "https://www.techspot.com/news/111835-ring-new-doorbells-bring-2k-4k-video-battery.html",
+    "title": "Vizio TVs now require Walmart accounts for smart features",
+    "summary": "Vizio TVs will require a Walmart account for smart features starting this month. The affected models are unclear, but new TV sets are likely impacted. Users can combine existing Vizio accounts with their Walmart login.",
+    "link": "https://www.techspot.com/news/111850-vizio-smart-tvs-now-require-walmart-accounts-smart.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.700250",
-    "insight": "Enhanced video doorbells boost home security and smart living features."
+    "processed_date": "2026-03-28T09:20:16.598191",
+    "insight": "Increased data collection and potential third-party access to user viewing habits."
   },
   {
-    "title": "Apple could answer Samsung Galaxy challenge with a 200MP iPhone camera",
-    "summary": "Apple is testing a 200MP camera with a 1/1.2-inch sensor, potentially outperforming Samsung's flagships.",
-    "link": "https://www.techspot.com/news/111841-apple-could-answer-samsung-challenge-200mp-iphone-camera.html",
+    "title": "\"Why make game art at all?\" New Blood publisher fears DLSS 5 is replacing artistry with AI",
+    "summary": "Nvidia's DLSS 5 may replace game artistry with AI-generated visuals, sparking controversy.",
+    "link": "https://www.techspot.com/news/111847-why-make-game-art-all-new-blood-publisher.html",
     "categories": [
-      "AI & ML"
+      "AI & ML",
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.700361",
-    "insight": "Larger sensor size improves low-light camera performance significantly."
+    "processed_date": "2026-03-28T09:20:16.598330",
+    "insight": "Rise of AI-generated visuals threatens traditional game art's creative role"
   },
   {
-    "title": "Sony and Honda pull the plug on $90,000 Afeela EV as electric dreams stall",
-    "summary": "Sony and Honda have canceled the $90,000 Afeela EV due to low demand, rising costs, and shifting regulations. This marks a broader industry retreat from electric vehicle programs. Automakers are reassessing their commitments amid falling demand and changing market conditions.",
-    "link": "https://www.techspot.com/news/111839-sony-honda-pull-plug-90000-afeela-ev-electric.html",
+    "title": "Chinese universities with military ties bought Supermicro servers with restricted Nvidia A100 chips",
+    "summary": "Chinese universities with military ties acquired Supermicro servers containing restricted Nvidia A100 chips, highlighting a loophole in US export controls.",
+    "link": "https://www.techspot.com/news/111855-blacklisted-chinese-universities-military-ties-bought-supermicro-servers.html",
     "categories": [
-      "Semiconductors"
+      "GPUs",
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.700495",
-    "insight": "Electric vehicle industry faces major setbacks and industry-wide retrenchment."
+    "processed_date": "2026-03-28T09:20:16.598453",
+    "insight": "US export controls can be circumvented through embedded advanced GPUs."
   },
   {
-    "title": "It's not just memory anymore: AI data centers are taking all the CPUs, too",
-    "summary": "Intel and AMD processors face shortages due to AI data center demand",
-    "link": "https://www.techspot.com/news/111831-not-memory-anymore-ai-data-centers-taking-all.html",
+    "title": "Windows PCs crash three times as often as Macs, report says",
+    "summary": "A report by Omnissa finds Windows PCs crash more frequently than Macs, with Windows and Android devices experiencing relative instability.",
+    "link": "https://www.techspot.com/news/111849-windows-pcs-crash-three-times-often-macs-report.html",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.700610",
-    "insight": "Semiconductor industry prioritizes AI data centers over PC manufacturing"
+    "processed_date": "2026-03-28T09:20:16.598562",
+    "insight": "Windows instability poses significant IT management and support challenges."
   },
   {
-    "title": "Trump names Jensen Huang, Mark Zuckerberg, and Sergey Brin for tech advisory council",
-    "summary": "Trump appoints tech leaders to an advisory council, shifting his second-term tech strategy.",
-    "link": "https://www.techspot.com/news/111833-trump-names-jensen-huang-mark-zuckerberg-sergey-brin.html",
+    "title": "Using a VPN to hide your location could expose you to government surveillance",
+    "summary": "US lawmakers question whether VPN users lose constitutional protections against spying.",
+    "link": "https://www.techspot.com/news/111848-using-vpn-hide-location-could-expose-you-government.html",
     "categories": [
+      "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.700722",
-    "insight": "Aligning private sector leaders with national goals on emerging tech issues."
+    "processed_date": "2026-03-28T09:20:16.598681",
+    "insight": "Using a VPN to hide location may invite US surveillance instead."
   },
   {
-    "title": "GitHub Copilot will use your data for AI training by default, but you can opt out",
-    "summary": "GitHub Copilot will use user data for AI training by default, but users can opt out. The collected data includes code snippets, context, and navigation patterns. This data will be used to improve the AI's coding suggestions.",
-    "link": "https://www.techspot.com/news/111840-github-copilot-use-data-ai-training-default-but.html",
+    "title": "CERN scientists successfully turned an antiproton trap into a moving appliance",
+    "summary": "CERN scientists have successfully transported antiprotons across their main site, a breakthrough for portable antimatter.",
+    "link": "https://www.techspot.com/news/111845-cern-scientists-successfully-turned-antiproton-trap-moving-appliance.html",
     "categories": [
+      "Tech News",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.700838",
-    "insight": "Personal coding data used to train AI raises privacy concerns"
+    "quality_score": 20,
+    "processed_date": "2026-03-28T09:20:16.598798",
+    "insight": "Unlocking the potential for widespread antimatter research and applications."
   },
   {
-    "title": "Playing Forza Horizon 6 with ray tracing won't require high-end GPUs",
-    "summary": "Forza Horizon 6 allows dynamic graphics adjustments without restarting the game, offering real-time previews and performance tracking tools.",
-    "link": "https://www.techspot.com/news/111828-playing-forza-horizon-6-ray-tracing-wont-require.html",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-03-27T09:37:41.700953",
-    "insight": "Real-time graphics tweaking enhances gaming experience and GPU efficiency optimization."
-  },
-  {
-    "title": "Elon Musk wants judge recused for liking LinkedIn post mocking $2 billion verdict",
-    "summary": "Elon Musk and Tesla file a motion to recuse a Delaware judge due to her 'Support' reaction on a LinkedIn post criticizing Musk and his law firm.",
-    "link": "https://www.techspot.com/news/111837-elon-musk-wants-judge-recused-after-linkedin-like.html",
+    "title": "Netflix hikes prices for all its plans, pushing Premium to $26.99",
+    "summary": "Netflix increases its pricing plans, with Premium reaching $26.99/month. The Standard With Ads plan now costs $8.99/month, and the ad-free Standard plan is $19.99/month. These changes affect all subscribers.",
+    "link": "https://www.techspot.com/news/111852-netflix-hikes-prices-all-plans-pushing-premium-2699.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.701066",
-    "insight": "Conflict of interest allegations threaten impartiality of a high-profile court case."
-  },
-  {
-    "title": "Supreme Court rules ISPs aren't liable for user piracy without intent",
-    "summary": "The Supreme Court ruled that ISPs aren't liable for user piracy unless intent is proven.",
-    "link": "https://www.techspot.com/news/111832-supreme-court-rules-isps-arent-liable-user-piracy.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.701177",
-    "insight": "ISP liability for user piracy requires intent to facilitate infringement."
-  },
-  {
-    "title": "Which iPad Model Should You Get? Updated With the Latest 2026 Models",
-    "summary": "Discover the best iPad model for your needs with our updated guide. From budget-friendly options to advanced features, we'll help you choose the perfect tablet. Whether you're a student, professional, or casual user, we've got you covered.",
-    "link": "https://www.techspot.com/article/3101-ipad-buying-guide-26/",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-27T09:37:41.701281",
-    "insight": "The latest iPad models offer seamless integration and innovative features"
+    "processed_date": "2026-03-28T09:20:16.598897",
+    "insight": "Increased costs may lead to lost subscribers and revenue impact."
   }
 ]

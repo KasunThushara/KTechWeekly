@@ -1,195 +1,235 @@
 # 🤖 AI & ML
-**Week of March 27, 2026**
+**Week of March 28, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 18
-- **Report generated:** 2026-03-27 09:39
+- **Articles this week:** 22
+- **Report generated:** 2026-03-28 09:21
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD makes the flagship Ryzen 9 9950X3D2 official first dual-cache X3D CPU arrives in April, with 208MB cache, 200W TDP, promising modest performance gains 
+### 1. CERN scientists successfully turned an antiproton trap into a moving appliance ⭐
 
-AMD launches the Ryzen 9 9950X3D2, offering 208MB cache and a 200W TDP. This flagship CPU promises modest performance gains in gaming, rendering, and content creation. It is the company's first dual-cache X3D processor.
+CERN scientists have successfully transported antiprotons across their main site, a breakthrough for portable antimatter.
 
-💡 *Significant cache boost offers incremental performance improvements.*
+💡 *Unlocking the potential for widespread antimatter research and applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-makes-the-flagship-ryzen-9-9950x3d2-official-first-dual-cache-x3d-cpu-arrives-in-april-with-208mb-cache-200w-tdp-promising-modest-performance-gains)
-
----
-
-### 2. Intel's upcoming 'Wildcat Lake' low-power series breaks cover in Geekbench listing 'Core 3 304' is twice as fast in single-core performance versus last-gen 
-
-Intel's 'Wildcat Lake' low-power series offers significant performance improvements over its predecessors, primarily aimed at embedded devices, budget laptops, and NAS devices where efficiency is crucial.
-
-💡 *Wildcat Lake CPUs deliver massive single-core performance boosts over last-gen models*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-wildcat-lake-low-power-series-breaks-cover-in-geekbench-listing-core-3-304-is-twice-as-fast-in-single-core-performance-versus-last-gen)
+🔗 [Read Full Article](https://www.techspot.com/news/111845-cern-scientists-successfully-turned-antiproton-trap-moving-appliance.html)
 
 ---
 
-### 3. Intel s Binary Optimization Tool tested and explained how the iBOT translation delivers up to 18% faster gaming performance, 8% on average 
+### 2. SMIC sent chipmaking tools to Iran's military, Trump administration officials say report claims exchange began a year ago, 'almost certainly included technical training on SMIC's semiconductor technology' 
 
-Intel's Core Ultra 200S Plus CPUs feature the Binary Optimization Tool, which delivers 8% average gaming performance uplift.
+SMIC reportedly sent chipmaking tools to Iran's military, including technical training.
 
-💡 *AI-driven code optimization boosts gaming performance by 8% on average.*
+💡 *U.S. national security jeopardized by China's tech transfer to adversaries.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-binary-optimization-tool-tested-and-explained-how-the-ibot-translation-delivers-up-to-18-percent-faster-gaming-performance-8-percent-on-average)
-
----
-
-### 4. Where to buy Intel's Core Ultra 5 250K Plus and Core Ultra 7 270K Plus grab these impressive Arrow Lake Refresh CPUs from these retailers, starting from $219 
-
-Intel's Core Ultra 5 250K Plus and 7 270K Plus are available to purchase. These CPUs are part of the Arrow Lake Refresh lineup, offering improved performance. Prices start at $219.
-
-💡 *Latest CPUs from Intel provide enhanced performance for upgraded systems.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/where-to-buy-intels-core-ultra-5-250k-plus-and-core-ultra-7-270k-plus-grab-these-impressive-arrow-lake-refresh-cpus-from-these-retailers-starting-from-usd219)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/smic-sent-chipmaking-tools-to-irans-military-trump-administration-officials-say)
 
 ---
 
-### 5. Three individuals charged with attempting to break US sanctions on AI chips damning text messages between conspirators reveal intention to find clients to act as pass through partner for customers in China  
+### 3. MacBook Neo mods include copper and liquid cooling temps drop and boost performance by up to 18% 
 
-Three individuals, including a Chinese citizen, have been charged with attempting to evade US sanctions by ordering controlled AI chips for export to Thailand with China as the intended final destination. The conspirators used text messages to discuss their plan and find clients to act as pass-through partners for customers in China. Their actions are part of a broader effort to circumvent US export controls.
+The MacBook Neo can be upgraded with copper and liquid cooling to improve performance and reduce temperatures.
 
-💡 *US sanctions evasion threatens global AI technology security and stability*
+💡 *Effective cooling unlocks MacBook Neo's full performance potential significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/three-individuals-charged-with-attempting-to-break-us-sanctions-on-ai-chips-damning-text-messages-between-conspirators-reveal-intention-to-find-clients-to-act-as-pass-through-partner-for-customers-in-china)
-
----
-
-### 6. Paralyzed army vet can now play World of Warcraft using 'science fiction magic brilliant ' Neuralink brain implant 'I m now raiding, and exploring Azeroth hands-free at full speed' 
-
-Jon L. Noble, a paralyzed British Army veteran, is now able to play World of Warcraft hands-free with the help of a Neuralink brain implant. This technology has given him full control and speed while exploring Azeroth. The update marks his first 100 days with the implant.
-
-💡 *Neuralink technology restores freedom to severely paralyzed individuals instantly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/paralyzed-army-vet-can-now-play-world-of-warcraft-using-science-fiction-magic-brilliant-neuralink-brain-implant-im-now-raiding-and-exploring-azeroth-hands-free-at-full-speed)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/macbook-neo-mods-include-copper-and-liquid-cooling-temps-drop-and-boost-performance-by-up-to-18-percent)
 
 ---
 
-### 7. Elon Musk's Terafab semiconductor project could cost $5 trillion, Bernstein claims herculean effort would cost more than 70% of the total yearly US government budget 
+### 4. Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot near-identical performance blurs the line between real and fake as AI crunch drives knock-off market 
 
-Elon Musk's TeraFab project could cost $5 trillion to build 1 TW of AI silicon per year, requiring multiple fabs and massive production of GPU, CPU, and HBM4E wafers.
+A nearly identical fake Samsung 990 Pro SSD has been found in Japan, showcasing nearly identical performance to the real model, making it difficult to distinguish between genuine and counterfeit products.
 
-💡 *Massive investment needed for AI silicon production capabilities.*
+💡 *Counterfeit tech products with identical performance blur the line between real and fake.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-semiconductor-project-could-cost-usd5-trillion-bernstein-claims-herculean-effort-would-cost-more-than-70-percent-of-the-total-yearly-us-government-budget)
-
----
-
-### 8. Google's TurboQuant compression tech cuts LLM memory use by 6x with no accuracy loss 
-
-Google's TurboQuant technology reduces LLM memory usage by 6x without affecting model accuracy. It achieves this by decreasing model size and improving vector search efficiency. This can lead to significant power savings and faster AI chatbots.
-
-💡 *Optimizing LLMs for memory efficiency is critical for real-world AI deployments.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111842-google-introduces-turboquant-cutting-llm-memory-usage-6x.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/exceptional-fake-ssd-clone-of-samsung-990-pro-is-almost-impossible-to-spot-near-identical-performance-blurs-the-line-between-real-and-fake-as-ai-crunch-drives-knock-off-market)
 
 ---
 
-### 9. Reddit cracks down on bots with new labels and human verification 
+### 5. Q/A with Neeraj Pramodkumar on Wear Elite and smart wearables 
 
-Reddit introduces new labels and human verification to combat bots.
+Neeraj Pramodkumar from Qualcomm discusses Wear Elite and smart wearables at Sensors Converge, highlighting convergence of Edge AI, sensors, and connectivity in wearables.
 
-💡 *Controlling bots is crucial for maintaining social platform integrity.*
+💡 *Convergence of Edge AI, sensors, and connectivity powers wearables innovation.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111836-reddit-cracks-down-bots-new-labels-human-verification.html)
-
----
-
-### 10. HP wants your next work PC to be an AI assistant 
-
-HP aims to replace work PCs with AI assistants, driven by evolving autonomous agents and Intel's vPro technology. This shift could significantly impact the workplace, requiring employees to adapt to new tools and methods. The integration of AI assistants may streamline tasks and improve productivity.
-
-💡 *AI assistants could revolutionize work by automating routine tasks*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111844-hp-wants-next-work-pc-ai-assistant.html)
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/qa-neeraj-pramodkumar-wear-elite-and-smart-wearables)
 
 ---
 
-### 11. Ring's new doorbells bring 2K and 4K video to battery models 
+### 6. Air Liquide opens Taiwan factory as helium shortage tightens around chip makers 200 specialized helium containers stranded near the Strait of Hormuz 
 
-Ring introduces new doorbells with advanced video capabilities, including 4K and 2K resolution.
+Air Liquide opened a new factory in Taiwan to address helium shortages affecting the semiconductor industry. The shortage tightens around chip makers, making the new factory a timely response. Helium containers are also stranded near the Strait of Hormuz.
 
-💡 *Enhanced video doorbells boost home security and smart living features.*
+💡 *Helium shortage jeopardizes global chip production capabilities and supply chains.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111835-ring-new-doorbells-bring-2k-4k-video-battery.html)
-
----
-
-### 12. Apple could answer Samsung Galaxy challenge with a 200MP iPhone camera 
-
-Apple is testing a 200MP camera with a 1/1.2-inch sensor, potentially outperforming Samsung's flagships.
-
-💡 *Larger sensor size improves low-light camera performance significantly.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111841-apple-could-answer-samsung-challenge-200mp-iphone-camera.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/air-liquide-opens-taiwan-factory-as-helium-shortage-tightens-around-chip-makers)
 
 ---
 
-### 13. It's not just memory anymore: AI data centers are taking all the CPUs, too 
+### 7. Sony increasing PlayStation 5 prices across all consoles, starting April 2 PS5 and PS5 Digital Edition receive $100 hikes, while PS5 Pro will now sell for $900 
 
-Intel and AMD processors face shortages due to AI data center demand
+PlayStation 5 consoles are getting price hikes due to the global economic crisis, with the base disc and digital editions increasing by $100 and the PS5 Pro now costing $900, effective April 2.
 
-💡 *Semiconductor industry prioritizes AI data centers over PC manufacturing*
+💡 *Gaming affordability becomes a luxury for many consumers impacted.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111831-not-memory-anymore-ai-data-centers-taking-all.html)
-
----
-
-### 14. Trump names Jensen Huang, Mark Zuckerberg, and Sergey Brin for tech advisory council 
-
-Trump appoints tech leaders to an advisory council, shifting his second-term tech strategy.
-
-💡 *Aligning private sector leaders with national goals on emerging tech issues.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111833-trump-names-jensen-huang-mark-zuckerberg-sergey-brin.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/sony-increasing-playstation-5-prices-across-all-consoles-starting-april-2-ps5-and-ps5-digital-edition-receive-usd100-hikes-while-ps5-pro-will-now-sell-for-usd900)
 
 ---
 
-### 15. GitHub Copilot will use your data for AI training by default, but you can opt out 
+### 8. US Supreme Court says ISPs aren t liable for their users piracy top judiciary body unanimously rules that Cox Communications did not commit copyright infringement 
 
-GitHub Copilot will use user data for AI training by default, but users can opt out. The collected data includes code snippets, context, and navigation patterns. This data will be used to improve the AI's coding suggestions.
+US Supreme Court rules against Sony Music in case against Cox Communications, finding no liability for ISP copyright infringement. This marks a significant victory for internet service providers, establishing a precedent for their protection against user-generated content infringement. The unanimous decision affects how ISPs handle copyright complaints.
 
-💡 *Personal coding data used to train AI raises privacy concerns*
+💡 *ISPs are not liable for users' copyright infringement under new precedent.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111840-github-copilot-use-data-ai-training-default-but.html)
-
----
-
-### 16. Supreme Court rules ISPs aren't liable for user piracy without intent 
-
-The Supreme Court ruled that ISPs aren't liable for user piracy unless intent is proven.
-
-💡 *ISP liability for user piracy requires intent to facilitate infringement.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111832-supreme-court-rules-isps-arent-liable-user-piracy.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/us-supreme-court-says-isps-arent-liable-for-their-users-piracy-top-judiciary-body-unanimously-rules-that-cox-communications-did-not-commit-copyright-infringement)
 
 ---
 
-### 17. Which iPad Model Should You Get? Updated With the Latest 2026 Models 
+### 9. Grab this beginner-friendly Creality 3D printer for as little as $186 right now Ender 3 V3 SE drops to record-low Amazon price with direct-drive extruder and auto bed-leveling features 
 
-Discover the best iPad model for your needs with our updated guide. From budget-friendly options to advanced features, we'll help you choose the perfect tablet. Whether you're a student, professional, or casual user, we've got you covered.
+The Creality Ender 3 V3 SE 3D printer is now available at a record-low price of $186.15 on Amazon, making it a highly affordable option for beginners.
 
-💡 *The latest iPad models offer seamless integration and innovative features*
+💡 *Affordable 3D printer option for DIY and hobbyist markets*
 
-🔗 [Read Full Article](https://www.techspot.com/article/3101-ipad-buying-guide-26/)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/grab-this-beginner-friendly-creality-3d-printer-for-as-little-as-usd186-right-now-ender-3-v3-se-drops-to-record-low-amazon-price-with-direct-drive-extruder-and-auto-bed-leveling-features)
 
 ---
 
-### 18. Where VC dollars (and jobs) are headed in sensing tech 
+### 10. US judge sides with Anthropic, says company supply chain risk branding over Pentagon disagreement 'Orwellian' Trump slapped AI company with designation after it refused to lower its guardrails for the military 
 
-Physical AI is a growing investment area that requires advanced sensors, which will create new job opportunities in sensing tech.
+A US judge ruled against the Pentagon branding Anthropic as a supply chain risk after the company refused to lower its guardrails for military use.
 
-💡 *Sensing tech jobs are emerging to support AI-driven physical applications.*
+💡 *Government overreach undermines AI innovation and free market principles*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/where-vc-dollars-and-jobs-are-headed-sensing-tech)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-judge-sides-with-anthropic-says-company-supply-chain-risk-branding-over-pentagon-disagreement-orwellian-trump-slapped-ai-company-with-designation-after-it-refused-to-lower-its-guardrails-for-the-military)
+
+---
+
+### 11. Samsung Display debuts 'QuantumBlack' coating for QD-OLED monitors screen tech boosts ambient black levels while reducing glare 
+
+Samsung Display's 'QuantumBlack' coating improves QD-OLED monitors' ambient black levels and contrast.
+
+💡 *Enhanced viewing experience in well-lit environments becomes more accessible.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/samsung-display-debuts-quantumblack-coating-for-qd-oled-monitors-screen-tech-boosts-ambient-black-levels-while-reducing-glare)
+
+---
+
+### 12. Google sets 2029 deadline for quantum-safe encryption, years ahead of government targets 
+
+Google is migrating to quantum-safe encryption by 2029, a decade ahead of government targets. This move aims to protect sensitive data from potential quantum computer attacks. The company will implement post-quantum cryptography algorithms to achieve this goal.
+
+💡 *Quantum computers can potentially break current encryption, compromising global security.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111856-google-sets-2029-deadline-quantum-safe-encryption-years.html)
+
+---
+
+### 13. Apple's "Hide My Email" isn't as anonymous as it sounds 
+
+Apple's 'Hide My Email' service may not provide anonymity as claimed.
+
+💡 *Anonymity compromised by iCloud email address in threatening message.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111851-apple-hide-email-isnt-anonymous-sounds.html)
+
+---
+
+### 14. PS5 price increases go global, rising up to $150 depending on the model 
+
+PS5 price increases are global, affecting various models and their prices.
+
+💡 *PS5 price hike may negatively impact gaming console sales*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111858-ps5-price-hike-global.html)
+
+---
+
+### 15. OLED monitor shipments jumped 92% in 2025, and Asus is leading the charge 
+
+OLED monitor shipments surged 92% in 2025 to 2.7 million units, driven by industry promotional campaigns.
+
+💡 *Promotional campaigns boost OLED monitor demand, fueling significant growth.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111846-oled-monitor-shipments-jumped-92-2025-asus-leading.html)
+
+---
+
+### 16. Judge blocks Pentagon from labeling Anthropic a national security risk 
+
+A US District Judge blocked the Pentagon from labeling Anthropic a national security risk, citing retaliation as motive.
+
+💡 *Government actions driven by retaliation threaten free speech and innovation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111853-judge-blocks-pentagon-labeling-anthropic-supply-chain-risk.html)
+
+---
+
+### 17. Judge dismisses Elon Musk's X lawsuit over "advertiser boycott" 
+
+Judge Jane Boyle dismissed Elon Musk's lawsuit against X, citing lack of antitrust injury.
+
+💡 *Musk's lawsuit lacks foundation, potentially setting precedent for future cases.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111854-judge-dismisses-elon-musk-x-lawsuit-over-advertiser.html)
+
+---
+
+### 18. US warns EU over regulation, says fines on American tech giants could have consequences 
+
+The US warns the EU over excessive regulation of American tech giants, which could hinder their participation in the AI economy and limit access to US AI hardware and data.
+
+💡 *Excessive regulation could harm US-EU tech collaboration and innovation opportunities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111857-us-ambassador-warns-eu-fines-american-tech-giants.html)
+
+---
+
+### 19. Vizio TVs now require Walmart accounts for smart features 
+
+Vizio TVs will require a Walmart account for smart features starting this month. The affected models are unclear, but new TV sets are likely impacted. Users can combine existing Vizio accounts with their Walmart login.
+
+💡 *Increased data collection and potential third-party access to user viewing habits.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111850-vizio-smart-tvs-now-require-walmart-accounts-smart.html)
+
+---
+
+### 20. "Why make game art at all?" New Blood publisher fears DLSS 5 is replacing artistry with AI 
+
+Nvidia's DLSS 5 may replace game artistry with AI-generated visuals, sparking controversy.
+
+💡 *Rise of AI-generated visuals threatens traditional game art's creative role*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111847-why-make-game-art-all-new-blood-publisher.html)
+
+---
+
+### 21. Windows PCs crash three times as often as Macs, report says 
+
+A report by Omnissa finds Windows PCs crash more frequently than Macs, with Windows and Android devices experiencing relative instability.
+
+💡 *Windows instability poses significant IT management and support challenges.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111849-windows-pcs-crash-three-times-often-macs-report.html)
+
+---
+
+### 22. Using a VPN to hide your location could expose you to government surveillance 
+
+US lawmakers question whether VPN users lose constitutional protections against spying.
+
+💡 *Using a VPN to hide location may invite US surveillance instead.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111848-using-vpn-hide-location-could-expose-you-government.html)
 
 ---
 
