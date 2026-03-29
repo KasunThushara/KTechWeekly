@@ -1,5 +1,5 @@
 # 📰 Tech News
-**Week of March 28, 2026**
+**Week of March 29, 2026**
 
 *Industry news and product launches*
 
@@ -7,79 +7,79 @@
 
 ## 📊 Summary
 - **Articles this week:** 7
-- **Report generated:** 2026-03-28 09:21
+- **Report generated:** 2026-03-29 09:22
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. CERN scientists successfully turned an antiproton trap into a moving appliance ⭐
+### 1. Intel Arrow Lake Refresh CPU prices shot up to 17% above MSRP just 48 hours after launch dynamic pricing trumps manufacturer's recommended pricing ⭐
 
-CERN scientists have successfully transported antiprotons across their main site, a breakthrough for portable antimatter.
+Intel's Arrow Lake Refresh CPU prices surged 17% above MSRP within 48 hours. This price hike compromises the excellent price-to-performance ratio of the Core Ultra 200S Plus series. The sudden increase may deter potential buyers.
 
-💡 *Unlocking the potential for widespread antimatter research and applications.*
+💡 *Dynamic pricing undermines manufacturer's recommended pricing.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111845-cern-scientists-successfully-turned-antiproton-trap-moving-appliance.html)
-
----
-
-### 2. HP Omen Max 45L review: Flagship desktop gaming PC performance with a price tag to match 
-
-The HP Omen Max 45L is a high-performance desktop gaming PC with a hefty price tag. It boasts a powerful configuration with top-of-the-line features. This flagship PC is ideal for those willing to invest heavily in gaming excellence.
-
-💡 *Elite gaming performance comes at an extremely high price point*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/hp-omen-max-45l-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-arrow-lake-refresh-cpu-prices-shot-up-to-17-percent-above-msrp-just-48-hours-after-launch-dynamic-pricing-trumps-manufacturers-recommended-pricing)
 
 ---
 
-### 3. Testing DirectStorage with GPU decompression do Blackwell GPUs have the upper hand? 
+### 2. Sony freezes memory card orders in Japan amid growing storage crisis the company attributes the cause to shortage of semiconductors  
 
-We tested DirectStorage with GPU decompression on Blackwell GPUs for improved performance.
+Sony Japan has stopped accepting orders for most memory cards due to a semiconductor shortage. The halt affects CFexpress and SD memory cards, a significant blow to professionals and enthusiasts. Orders placed before March 27 will be fulfilled, but new orders are not accepted.
 
-💡 *Blackwell GPUs have an edge in decompression-intensive storage tasks.*
+💡 *Semiconductor shortage cripples Sony's memory card production significantly worldwide.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/testing-directstorage-with-gpu-decompression-do-blackwell-gpus-have-the-upper-hand)
-
----
-
-### 4. Epomaker RT82 Review: Quietly retro 
-
-The Epomaker RT82 is a retro-inspired wireless mechanical keyboard with a detachable mini LCD screen and ultra-quiet keypresses, all housed in an all-plastic design.
-
-💡 *Blending vintage aesthetics with modern wireless convenience and quiet typing.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/epomaker-rt82-review)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/sony-suspends-nearly-all-memory-card-orders-in-japan)
 
 ---
 
-### 5. Startup builds first responder drone connected via Starlink that enables eight mile range UAV can fly for over an hour, swap batteries automatically, and carry various payloads 
+### 3. Win a prize by entering your build into the inaugural Tom's Hardware Rig Rundown submit a build to get your setup evaluated by our expert staff 
 
-The BRINC Guardian is a first responder drone with Starlink connectivity, enabling it to fly for over an hour, cover an eight-mile range, and automatically swap batteries. This allows it to operate in areas with limited or no terrestrial signal. The drone can also carry various payloads.
+Enter the Tom's Hardware Rig Rundown for a chance to win a prize and have your build evaluated by experts, getting insights to improve your setup.
 
-💡 *Enhanced connectivity empowers drones for extended, reliable emergency operations.*
+💡 *Showcase your build, get expert feedback, and win a gift card.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/startup-builds-first-responder-drone-connected-via-starlink-that-enables-eight-mile-range-uav-can-fly-for-over-an-hour-swap-batteries-automatically-and-carry-various-payloads)
-
----
-
-### 6. Netflix hikes prices for all its plans, pushing Premium to $26.99 
-
-Netflix increases its pricing plans, with Premium reaching $26.99/month. The Standard With Ads plan now costs $8.99/month, and the ad-free Standard plan is $19.99/month. These changes affect all subscribers.
-
-💡 *Increased costs may lead to lost subscribers and revenue impact.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111852-netflix-hikes-prices-all-plans-pushing-premium-2699.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/win-a-prize-by-entering-your-build-into-the-inaugural-toms-hardware-rig-rundown-submit-a-build-to-get-your-setup-evaluated-by-our-expert-staff)
 
 ---
 
-### 7. These famous tech leaders are all college dropouts except one. Who actually completed their degree? 
+### 4. Meta to fund seven new natural gas power plants to fuel AI data centers Entergy partnership to deliver 7 gigawatts of power for Louisiana AI facility 
 
-Some famous tech leaders dropped out of college, but one succeeded in completing their degree. This individual stands out from their peers in the tech industry. Their perseverance is a notable exception.
+Meta is funding seven new natural gas plants to power its Louisiana data center, expanding fossil fuel infrastructure for its AI buildout.
 
-💡 *Completions can be a key differentiator in tech industry success.*
+💡 *Meta's reliance on fossil fuels undermines its AI sustainability claims.*
 
-🔗 [Read Full Article](https://www.techspot.com/trivia/69-famous-tech-leaders-all-college-dropouts-except-one/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-fund-seven-new-gas-plants-to-power-its-7gw-louisiana-data-center)
+
+---
+
+### 5. Razer Kiyo V2 Review: USB-C required 
+
+The Razer Kiyo V2 is a high-resolution webcam offering 4K / 30 fps video, a built-in privacy shutter, and requires a USB-C connection for optimal performance.
+
+💡 *Optimal 4K performance requires a specific USB-C connection only.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/webcams/razer-kiyo-v2-review)
+
+---
+
+### 6. This app makes your MacBook moan when you slap it, and it's going viral 
+
+A viral social media clip inspired an app that simulates a MacBook's reaction to being slapped.
+
+💡 *Social media influence can spark creative and humorous technological innovations.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111862-app-makes-macbook-moan-when-you-slap-going.html)
+
+---
+
+### 7. Samsung's new QuantumBlack coating reduces QD-OLED reflections by 20% 
+
+Samsung's QuantumBlack coating reduces reflections on QD-OLED panels by 20%. It enhances immersion and improves surface hardness. QuantumBlack will be a standard feature on 2026 QD-OLED monitors.
+
+💡 *Improved immersion for viewers with reduced reflections and increased screen durability.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111859-samsung-new-quantumblack-coating-reduces-qd-oled-reflections.html)
 
 ---
 

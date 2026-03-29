@@ -1,235 +1,165 @@
 # 🤖 AI & ML
-**Week of March 28, 2026**
+**Week of March 29, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 22
-- **Report generated:** 2026-03-28 09:21
+- **Articles this week:** 15
+- **Report generated:** 2026-03-29 09:22
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. CERN scientists successfully turned an antiproton trap into a moving appliance ⭐
+### 1. Alibaba XuanTie C950 A powerful, RVA23-compliant 64-bit RISC-V core for Edge AI computing ⭐
 
-CERN scientists have successfully transported antiprotons across their main site, a breakthrough for portable antimatter.
+Alibaba has introduced the XuanTie C950, a high-performance 64-bit RISC-V core for Edge AI computing, compliant with RVA23 profile and supporting various extensions. The core supports up to 8 cores per cluster, clocked at 3.2 GHz, and integrates with the XuanTie TPE IP for tensor processing. It targets applications such as cloud computing, edge computing, and AI computing.
 
-💡 *Unlocking the potential for widespread antimatter research and applications.*
+💡 *Accelerating Edge AI with high-performance, scalable RISC-V architecture.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111845-cern-scientists-successfully-turned-antiproton-trap-moving-appliance.html)
-
----
-
-### 2. SMIC sent chipmaking tools to Iran's military, Trump administration officials say report claims exchange began a year ago, 'almost certainly included technical training on SMIC's semiconductor technology' 
-
-SMIC reportedly sent chipmaking tools to Iran's military, including technical training.
-
-💡 *U.S. national security jeopardized by China's tech transfer to adversaries.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/smic-sent-chipmaking-tools-to-irans-military-trump-administration-officials-say)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/25/alibaba-xuantie-c950-a-powerful-rva2364-bit-risc-v-core-for-edge-ai-computing/)
 
 ---
 
-### 3. MacBook Neo mods include copper and liquid cooling temps drop and boost performance by up to 18% 
+### 2. $500 fiber optic HDMI cable delivers flawless 48 Gbps performance across a staggering 990 feet crushes 8K at 60 Hz and 4K at 120 Hz over long distances ⭐
 
-The MacBook Neo can be upgraded with copper and liquid cooling to improve performance and reduce temperatures.
+High-end fiber-optic HDMI cables can maintain bandwidth over long distances, delivering flawless 48 Gbps performance. This allows for smooth 8K at 60 Hz and 4K at 120 Hz across 990 feet. It provides clarity in an otherwise confusing HDMI standard.
 
-💡 *Effective cooling unlocks MacBook Neo's full performance potential significantly.*
+💡 *Long-distance HDMI performance is now possible with high-end fiber-optic cables.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/macbook-neo-mods-include-copper-and-liquid-cooling-temps-drop-and-boost-performance-by-up-to-18-percent)
-
----
-
-### 4. Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot near-identical performance blurs the line between real and fake as AI crunch drives knock-off market 
-
-A nearly identical fake Samsung 990 Pro SSD has been found in Japan, showcasing nearly identical performance to the real model, making it difficult to distinguish between genuine and counterfeit products.
-
-💡 *Counterfeit tech products with identical performance blur the line between real and fake.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/exceptional-fake-ssd-clone-of-samsung-990-pro-is-almost-impossible-to-spot-near-identical-performance-blurs-the-line-between-real-and-fake-as-ai-crunch-drives-knock-off-market)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/cables-connectors/usd500-fiber-optic-hdmi-cable-delivers-flawless-48-gbps-performance-across-a-staggering-990-feet-crushes-8k-at-60-hz-and-4k-at-120-hz-over-long-distances)
 
 ---
 
-### 5. Q/A with Neeraj Pramodkumar on Wear Elite and smart wearables 
+### 3. Fake Samsung 990 Pro SSD is good enough to fool your benchmarks ⭐
 
-Neeraj Pramodkumar from Qualcomm discusses Wear Elite and smart wearables at Sensors Converge, highlighting convergence of Edge AI, sensors, and connectivity in wearables.
+A counterfeit Samsung 990 Pro SSD was found to match the genuine article's speed and storage, making it difficult to distinguish between the two.
 
-💡 *Convergence of Edge AI, sensors, and connectivity powers wearables innovation.*
+💡 *Counterfeit SSDs can now convincingly match genuine performance specs.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/qa-neeraj-pramodkumar-wear-elite-and-smart-wearables)
-
----
-
-### 6. Air Liquide opens Taiwan factory as helium shortage tightens around chip makers 200 specialized helium containers stranded near the Strait of Hormuz 
-
-Air Liquide opened a new factory in Taiwan to address helium shortages affecting the semiconductor industry. The shortage tightens around chip makers, making the new factory a timely response. Helium containers are also stranded near the Strait of Hormuz.
-
-💡 *Helium shortage jeopardizes global chip production capabilities and supply chains.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/air-liquide-opens-taiwan-factory-as-helium-shortage-tightens-around-chip-makers)
+🔗 [Read Full Article](https://www.techspot.com/news/111861-fake-samsung-990-pro-ssd-good-enough-fool.html)
 
 ---
 
-### 7. Sony increasing PlayStation 5 prices across all consoles, starting April 2 PS5 and PS5 Digital Edition receive $100 hikes, while PS5 Pro will now sell for $900 
+### 4. Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' 
 
-PlayStation 5 consoles are getting price hikes due to the global economic crisis, with the base disc and digital editions increasing by $100 and the PS5 Pro now costing $900, effective April 2.
+Samsung is preparing a PCIe 5.0 QLC SSD with a RISC-V BM9K1 controller, delivering speeds up to 11.4 GB/s, 1.6 times faster than its predecessor.
 
-💡 *Gaming affordability becomes a luxury for many consumers impacted.*
+💡 *Breakthrough in storage speeds for AI workloads and applications*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/sony-increasing-playstation-5-prices-across-all-consoles-starting-april-2-ps5-and-ps5-digital-edition-receive-usd100-hikes-while-ps5-pro-will-now-sell-for-usd900)
-
----
-
-### 8. US Supreme Court says ISPs aren t liable for their users piracy top judiciary body unanimously rules that Cox Communications did not commit copyright infringement 
-
-US Supreme Court rules against Sony Music in case against Cox Communications, finding no liability for ISP copyright infringement. This marks a significant victory for internet service providers, establishing a precedent for their protection against user-generated content infringement. The unanimous decision affects how ISPs handle copyright complaints.
-
-💡 *ISPs are not liable for users' copyright infringement under new precedent.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/us-supreme-court-says-isps-arent-liable-for-their-users-piracy-top-judiciary-body-unanimously-rules-that-cox-communications-did-not-commit-copyright-infringement)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/samsung-announces-bm9k1-pcie-5-0-qlc-ssd)
 
 ---
 
-### 9. Grab this beginner-friendly Creality 3D printer for as little as $186 right now Ender 3 V3 SE drops to record-low Amazon price with direct-drive extruder and auto bed-leveling features 
+### 5. Chinese universities performing military research acquired Super Micro servers with sanctioned Nvidia AI chips public documents reveal purchases were completed in 2025 and 2026 despite US export controls 
 
-The Creality Ender 3 V3 SE 3D printer is now available at a record-low price of $186.15 on Amazon, making it a highly affordable option for beginners.
+Four Chinese universities, including PLA affiliates, acquired Nvidia AI servers under US export controls.
 
-💡 *Affordable 3D printer option for DIY and hobbyist markets*
+💡 *Lax enforcement of export controls enables Chinese military AI development.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/grab-this-beginner-friendly-creality-3d-printer-for-as-little-as-usd186-right-now-ender-3-v3-se-drops-to-record-low-amazon-price-with-direct-drive-extruder-and-auto-bed-leveling-features)
-
----
-
-### 10. US judge sides with Anthropic, says company supply chain risk branding over Pentagon disagreement 'Orwellian' Trump slapped AI company with designation after it refused to lower its guardrails for the military 
-
-A US judge ruled against the Pentagon branding Anthropic as a supply chain risk after the company refused to lower its guardrails for military use.
-
-💡 *Government overreach undermines AI innovation and free market principles*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-judge-sides-with-anthropic-says-company-supply-chain-risk-branding-over-pentagon-disagreement-orwellian-trump-slapped-ai-company-with-designation-after-it-refused-to-lower-its-guardrails-for-the-military)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinese-universities-performing-military-research-acquired-super-micro-servers-with-sanctioned-nvidia-ai-chips-public-documents-reveal-purchases-were-completed-in-2025-and-2026-despite-us-export-controls)
 
 ---
 
-### 11. Samsung Display debuts 'QuantumBlack' coating for QD-OLED monitors screen tech boosts ambient black levels while reducing glare 
+### 6. Minisforum AI X1 Pro 470 review: AMD's Gorgon Point in a sleek mini PC desktop 
 
-Samsung Display's 'QuantumBlack' coating improves QD-OLED monitors' ambient black levels and contrast.
+The Minisforum AI X1 Pro 470 is a mini PC desktop that offers a slight upgrade over its predecessor with minimal price increase, making it a suitable option for those who need a performance boost without breaking the bank.
 
-💡 *Enhanced viewing experience in well-lit environments becomes more accessible.*
+💡 *Incremental updates provide affordable performance upgrades for mini PC users*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/samsung-display-debuts-quantumblack-coating-for-qd-oled-monitors-screen-tech-boosts-ambient-black-levels-while-reducing-glare)
-
----
-
-### 12. Google sets 2029 deadline for quantum-safe encryption, years ahead of government targets 
-
-Google is migrating to quantum-safe encryption by 2029, a decade ahead of government targets. This move aims to protect sensitive data from potential quantum computer attacks. The company will implement post-quantum cryptography algorithms to achieve this goal.
-
-💡 *Quantum computers can potentially break current encryption, compromising global security.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111856-google-sets-2029-deadline-quantum-safe-encryption-years.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/minisforum-ai-x1-pro-470-review)
 
 ---
 
-### 13. Apple's "Hide My Email" isn't as anonymous as it sounds 
+### 7. Luckfox Lume A compact Allwinner T153 SBC with dual GbE, PoE, GPIO header, and MIPI interfaces for industrial HMI applications 
 
-Apple's 'Hide My Email' service may not provide anonymity as claimed.
+Luckfox Lume is a compact industrial SBC featuring Allwinner T153 SoC with Gigabit Ethernet, PoE, and MIPI interfaces, suitable for HMI applications.
 
-💡 *Anonymity compromised by iCloud email address in threatening message.*
+💡 *Low-power industrial SBC for efficient HMI and IoT deployments*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111851-apple-hide-email-isnt-anonymous-sounds.html)
-
----
-
-### 14. PS5 price increases go global, rising up to $150 depending on the model 
-
-PS5 price increases are global, affecting various models and their prices.
-
-💡 *PS5 price hike may negatively impact gaming console sales*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111858-ps5-price-hike-global.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/27/luckfox-lume-allwinner-t153-industrial-sbc-with-dual-gbe-poe-gpio-mipi/)
 
 ---
 
-### 15. OLED monitor shipments jumped 92% in 2025, and Asus is leading the charge 
+### 8. Copper and liquid cooling mods double MacBook Neo performance while cutting temps by 20 C 
 
-OLED monitor shipments surged 92% in 2025 to 2.7 million units, driven by industry promotional campaigns.
+ETA Prime's modifications to the MacBook Neo using copper plating and an external thermoelectric cooler significantly enhance gaming performance and reduce temperatures by 20 C.
 
-💡 *Promotional campaigns boost OLED monitor demand, fueling significant growth.*
+💡 *Copper plating and thermoelectric cooling boost MacBook Neo's performance and efficiency*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111846-oled-monitor-shipments-jumped-92-2025-asus-leading.html)
-
----
-
-### 16. Judge blocks Pentagon from labeling Anthropic a national security risk 
-
-A US District Judge blocked the Pentagon from labeling Anthropic a national security risk, citing retaliation as motive.
-
-💡 *Government actions driven by retaliation threaten free speech and innovation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111853-judge-blocks-pentagon-labeling-anthropic-supply-chain-risk.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111860-copper-liquid-cooling-mods-double-macbook-neo-performance.html)
 
 ---
 
-### 17. Judge dismisses Elon Musk's X lawsuit over "advertiser boycott" 
+### 9. Samsung 49-inch OLED Odyssey G9 hits unbelievable all-time low of $799 gaming monitor comes with a free copy of Resident Evil Requiem 
 
-Judge Jane Boyle dismissed Elon Musk's lawsuit against X, citing lack of antitrust injury.
+Samsung's 49-inch OLED Odyssey G9 reaches an all-time low price of $799.99, offering strong value for gamers and productivity enthusiasts.
 
-💡 *Musk's lawsuit lacks foundation, potentially setting precedent for future cases.*
+💡 *Unbeatable price for high-end gaming and productivity display technology.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111854-judge-dismisses-elon-musk-x-lawsuit-over-advertiser.html)
-
----
-
-### 18. US warns EU over regulation, says fines on American tech giants could have consequences 
-
-The US warns the EU over excessive regulation of American tech giants, which could hinder their participation in the AI economy and limit access to US AI hardware and data.
-
-💡 *Excessive regulation could harm US-EU tech collaboration and innovation opportunities.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111857-us-ambassador-warns-eu-fines-american-tech-giants.html)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/samsung-49-inch-oled-odyssey-g9-hits-unbelievable-all-time-low-of-usd799-gaming-monitor-comes-with-a-free-copy-of-resident-evil-requiem)
 
 ---
 
-### 19. Vizio TVs now require Walmart accounts for smart features 
+### 10. Radeon RX 9070 XT bundle bonanza includes free SSDs, AIO coolers, and power supplies for $699 Red Team rescues gamers with reasonably-priced GPU bundles 
 
-Vizio TVs will require a Walmart account for smart features starting this month. The affected models are unclear, but new TV sets are likely impacted. Users can combine existing Vizio accounts with their Walmart login.
+The AMD Radeon RX 9070 XT drops to $699 with bundled extras, offering a better overall value in a volatile market.
 
-💡 *Increased data collection and potential third-party access to user viewing habits.*
+💡 *AMD provides value with bundled deals in a competitive GPU market.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111850-vizio-smart-tvs-now-require-walmart-accounts-smart.html)
-
----
-
-### 20. "Why make game art at all?" New Blood publisher fears DLSS 5 is replacing artistry with AI 
-
-Nvidia's DLSS 5 may replace game artistry with AI-generated visuals, sparking controversy.
-
-💡 *Rise of AI-generated visuals threatens traditional game art's creative role*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111847-why-make-game-art-all-new-blood-publisher.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/radeon-rx-9070-xt-bundle-bonanza-includes-free-ssds-aio-coolers-and-power-supplies-for-usd699-red-team-rescues-gamers-with-reasonably-priced-gpu-bundles)
 
 ---
 
-### 21. Windows PCs crash three times as often as Macs, report says 
+### 11. Microsoft's new gaming boss axed 'This is an Xbox' campaign because 'it didn't feel like Xbox' Xbox brand undergoes transformation to redefine its identity 
 
-A report by Omnissa finds Windows PCs crash more frequently than Macs, with Windows and Android devices experiencing relative instability.
+Microsoft's new gaming boss, Asha Sharma, canceled the 'This is an Xbox' campaign due to backlash.
 
-💡 *Windows instability poses significant IT management and support challenges.*
+💡 *Effective leadership acknowledges and adapts to consumer feedback and criticism.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111849-windows-pcs-crash-three-times-often-macs-report.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/microsofts-new-gaming-boss-axed-this-is-an-xbox-campaign-because-it-didnt-feel-like-xbox-xbox-brand-undergoes-transformation-to-redefine-its-identity)
 
 ---
 
-### 22. Using a VPN to hide your location could expose you to government surveillance 
+### 12. Meta to fund seven new natural gas power plants to fuel AI data centers Entergy partnership to deliver 7 gigawatts of power for Louisiana AI facility 
 
-US lawmakers question whether VPN users lose constitutional protections against spying.
+Meta is funding seven new natural gas plants to power its Louisiana data center, expanding fossil fuel infrastructure for its AI buildout.
 
-💡 *Using a VPN to hide location may invite US surveillance instead.*
+💡 *Meta's reliance on fossil fuels undermines its AI sustainability claims.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111848-using-vpn-hide-location-could-expose-you-government.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-fund-seven-new-gas-plants-to-power-its-7gw-louisiana-data-center)
+
+---
+
+### 13. TerraMaster F2-425 Plus NAS review Part 2: Configuration, benchmarks, and AI-enhanced media storage 
+
+This review continues the testing of the TerraMaster F2-425 Plus NAS, focusing on its configuration, performance, and AI-enhanced media features.
+
+💡 *AI-powered media storage enhances user experience with efficient organization capabilities.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/28/terramaster-f2-425-plus-nas-review-part-2-configuration-benchmarks-and-ai-enhanced-media-storage/)
+
+---
+
+### 14. Samsung's new QuantumBlack coating reduces QD-OLED reflections by 20% 
+
+Samsung's QuantumBlack coating reduces reflections on QD-OLED panels by 20%. It enhances immersion and improves surface hardness. QuantumBlack will be a standard feature on 2026 QD-OLED monitors.
+
+💡 *Improved immersion for viewers with reduced reflections and increased screen durability.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111859-samsung-new-quantumblack-coating-reduces-qd-oled-reflections.html)
+
+---
+
+### 15. Dolby sues Snap over video codec patents tied to AV1 and HEVC 
+
+Dolby sues Snap for infringing video compression patents over HEVC and AV1 use.
+
+💡 *Patent disputes could impact adoption of emerging video compression standards.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111865-dolby-sues-snap-over-video-compression-patent-claims.html)
 
 ---
 
