@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of March 30, 2026**
+**Week of March 31, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. PineTime Pro smartwatch to feature dual-core Cortex-M33 MCU, 2.13-inch AMOLED, GPS, and more ⭐
-
-**⚡ Semiconductors**
-
-Pine64 has announced the PineTime Pro smartwatch, a significant upgrade to its predecessor with a dual-core Cortex-M33 MCU, 2.13-inch AMOLED display, GPS, and more.
-
-💡 **Key Point:** Massive upgrade to support a wider range of firmware options.
-
-🔗 [Read More](https://www.cnx-software.com/2026/03/30/pinetime-pro-smartwatch-to-feature-dual-core-cortex-m33-mcu-2-13-inch-amoled-gps/)
-
----
-
-### 2. PineTime Pro smartwatch to feature dual-core Cortex-M33 MCU, 2.13-inch AMOLED, GPS, and more ⭐
-
-**💻 Hardware**
-
-Pine64 has announced the PineTime Pro smartwatch, a significant upgrade to its predecessor with a dual-core Cortex-M33 MCU, 2.13-inch AMOLED display, GPS, and more.
-
-💡 **Key Point:** Massive upgrade to support a wider range of firmware options.
-
-🔗 [Read More](https://www.cnx-software.com/2026/03/30/pinetime-pro-smartwatch-to-feature-dual-core-cortex-m33-mcu-2-13-inch-amoled-gps/)
-
----
-
-### 3. AMD s dual-GPU Radeon HD 6990 launched 15 years ago power, heat, and noise monster was crowned the fastest graphics card in the world ⭐
-
-**🎮 GPUs**
-
-The AMD Radeon HD 6990, released 15 years ago, was a powerful GPU that briefly held the title of the world's fastest graphics card, outperforming Nvidia's offerings. It was a power-hungry, heat-generating, and noisy card that lived up to its reputation as a 'monster'. Despite its limitations, its performance was unmatched at the time.
-
-💡 **Key Point:** Unmatched performance led to a short-lived but significant market dominance.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/amds-dual-gpu-radeon-hd-6990-launched-15-years-ago-power-heat-and-noise-monster-was-crowned-the-fastest-graphics-card-in-the-world)
-
----
-
-### 4. AMD s dual-GPU Radeon HD 6990 launched 15 years ago power, heat, and noise monster was crowned the fastest graphics card in the world ⭐
+### 1. Dell UltraSharp U3226Q 4K 32-inch QD-OLED monitor review: Pro-grade with reference-level color 
 
 **📰 Tech News**
 
-The AMD Radeon HD 6990, released 15 years ago, was a powerful GPU that briefly held the title of the world's fastest graphics card, outperforming Nvidia's offerings. It was a power-hungry, heat-generating, and noisy card that lived up to its reputation as a 'monster'. Despite its limitations, its performance was unmatched at the time.
+The Dell UltraSharp U3226Q is a 32-inch QD-OLED monitor with 4K resolution, delivering reference-level color and industry-standard color modes. It features a high refresh rate, adaptive sync, and multiple HDR formats. The built-in calibrator ensures precise color accuracy.
 
-💡 **Key Point:** Unmatched performance led to a short-lived but significant market dominance.
+💡 **Key Point:** Professional-grade color accuracy for high-end content creation and editing
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/amds-dual-gpu-radeon-hd-6990-launched-15-years-ago-power-heat-and-noise-monster-was-crowned-the-fastest-graphics-card-in-the-world)
+🔗 [Read More](https://www.tomshardware.com/monitors/dell-ultrasharp-u3226q-4k-32-inch-qd-oled-monitor-review)
 
 ---
 
-### 5. DIY ESP32-S3 Internet radio features Winamp-styled user interface ⭐
+### 2. Doom now runs over DNS, loading from nearly 2,000 text records 
 
-**⚡ Semiconductors**
+**📰 Tech News**
 
-A DIY ESP32-S3 Internet radio features a Winamp-styled UI and is based on the Waveshare ESP32-S3-LCD-1.54 development board, offering WiFi and Bluetooth connectivity, a 1.54-inch color display, and a speaker for better-than-expected audio quality.
+A port of Doom loads into memory via DNS TXT records without writing to disk. The project encodes the game into 1,964 DNS records, utilizing Cloudflare. This allows the game to boot via a PowerShell command.
 
-💡 **Key Point:** Affordable DIY radio with high-quality audio and customizable UI.
+💡 **Key Point:** DNS TXT records used for game loading challenge traditional storage methods.
 
-🔗 [Read More](https://www.cnx-software.com/2026/03/30/diy-esp32-s3-internet-radio-features-winamp-styled-user-interface/)
+🔗 [Read More](https://www.techspot.com/news/111885-doom-now-runs-over-dns-loading-nearly-2000.html)
+
+---
+
+### 3. ChatGPT isn't getting spicier OpenAI puts adult mode on indefinite hold 
+
+**📰 Tech News**
+
+OpenAI has put ChatGPT's adult mode on indefinite hold, differing from Grok's approach.
+
+💡 **Key Point:** OpenAI prioritizes family-friendly content over adult-oriented chatbot features.
+
+🔗 [Read More](https://www.techspot.com/news/111873-chatgpt-isnt-getting-spicier-openai-puts-adult-mode.html)
+
+---
+
+### 4. AMD Zen 6 'Venice' ES chips break cover with up to 192 cores, 32 per CCD, in early stress test Kenya, Congo, Nigeria platforms leaked 
+
+**🎮 GPUs**
+
+AMD's Zen 6 'Venice' engineering samples were discovered with up to 192 cores. The samples feature 32 cores per Chiplet Die Design (CCD). This suggests a significant increase in core density.
+
+💡 **Key Point:** Massive core density boost for future AMD server processors.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-zen-6-venice-es-chips-break-cover-with-up-to-192-cores-32-per-ccd-in-early-stress-test-kenya-congo-nigeria-platforms-leaked)
+
+---
+
+### 5. CachyOS emerges as a fast, gaming-ready Arch Linux OS alternative 
+
+**🎮 GPUs**
+
+CachyOS is a fast, gaming-ready Arch Linux distribution with a polished experience.
+
+💡 **Key Point:** CachyOS offers gamers cutting-edge software without sacrificing responsiveness or control.
+
+🔗 [Read More](https://www.techspot.com/downloads/7828-cachyos.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **34 articles** across **5 focused categories**.
+We covered **52 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 10 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 6 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 19 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 9 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 11 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 10 articles
+*Artificial Intelligence and Machine Learning* — 19 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 4 articles
+*Graphics cards and compute accelerators* — 3 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 6 articles
+*Computing hardware and development boards* — 9 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 6 articles
+*Chip manufacturing and design* — 11 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 8 articles
+*Industry news and product launches* — 10 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-03-30 at 10:00 by an autonomous AI curation system.
+Generated 2026-03-31 at 09:45 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

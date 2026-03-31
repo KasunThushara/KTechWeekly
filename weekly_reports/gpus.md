@@ -1,55 +1,45 @@
 # 🎮 GPUs
-**Week of March 30, 2026**
+**Week of March 31, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-03-30 10:00
+- **Articles this week:** 3
+- **Report generated:** 2026-03-31 09:45
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD s dual-GPU Radeon HD 6990 launched 15 years ago power, heat, and noise monster was crowned the fastest graphics card in the world ⭐
+### 1. AMD Zen 6 'Venice' ES chips break cover with up to 192 cores, 32 per CCD, in early stress test Kenya, Congo, Nigeria platforms leaked 
 
-The AMD Radeon HD 6990, released 15 years ago, was a powerful GPU that briefly held the title of the world's fastest graphics card, outperforming Nvidia's offerings. It was a power-hungry, heat-generating, and noisy card that lived up to its reputation as a 'monster'. Despite its limitations, its performance was unmatched at the time.
+AMD's Zen 6 'Venice' engineering samples were discovered with up to 192 cores. The samples feature 32 cores per Chiplet Die Design (CCD). This suggests a significant increase in core density.
 
-💡 *Unmatched performance led to a short-lived but significant market dominance.*
+💡 *Massive core density boost for future AMD server processors.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amds-dual-gpu-radeon-hd-6990-launched-15-years-ago-power-heat-and-noise-monster-was-crowned-the-fastest-graphics-card-in-the-world)
-
----
-
-### 2. Select the right hardware for your local LLM deployment with this online guide 
-
-A guide helps select hardware for local LLM deployment without overspending. The guide showcases various hardware options with price, performance, and power consumption. Users can compare different hardware for optimal performance.
-
-💡 *Spending more on hardware does not always guarantee better LLM performance.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/30/select-the-right-hardware-for-your-local-llm-deployment-with-this-online-guide/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-zen-6-venice-es-chips-break-cover-with-up-to-192-cores-32-per-ccd-in-early-stress-test-kenya-congo-nigeria-platforms-leaked)
 
 ---
 
-### 3. AMD's Ryzen 9 9950X3D2 arrives as Intel scraps Core Ultra 9 290K Plus 
+### 2. CachyOS emerges as a fast, gaming-ready Arch Linux OS alternative 
 
-AMD's Ryzen 9 9950X3D2 boasts 208MB of stacked cache memory, offering improved performance in select workloads.
+CachyOS is a fast, gaming-ready Arch Linux distribution with a polished experience.
 
-💡 *AMD's V-Cache formula yields significant performance gains in content creation workloads.*
+💡 *CachyOS offers gamers cutting-edge software without sacrificing responsiveness or control.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111866-amd-ryzen-9-9950x3d2-arrives-intel-scraps-core.html)
+🔗 [Read Full Article](https://www.techspot.com/downloads/7828-cachyos.html)
 
 ---
 
-### 4. Get a 200Hz gaming monitor for just $85.49 get 29% off as the MSI MAG 242F hits an all-time low and save more than $30 
+### 3. MSI's 200Hz gaming monitor drops to $85, undercutting most budget displays 
 
-The MSI MAG 242F gaming monitor features 1080p, 200Hz, and 0.5ms GtG response time, along with AMD FreeSync Premium. It has reached an all-time low price of $85.49, with a 29% discount. This makes it an affordable option for gamers seeking fast refresh rates.
+The MSI MAG 242F budget gaming monitor is now available for $85, offering a 200Hz refresh rate, 0.5ms response time, and adaptive sync for smooth gameplay.
 
-💡 *Fast and affordable gaming monitor for competitive gamers at discount price*
+💡 *High-performance gaming at an affordable price becomes increasingly accessible.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-a-200hz-gaming-monitor-for-just-usd85-49-get-29-percent-off-as-the-msi-mag-242f-hits-an-all-time-low-and-save-more-than-usd30)
+🔗 [Read Full Article](https://www.techspot.com/products/monitors/msi-mag-242f-24.323329/)
 
 ---
 

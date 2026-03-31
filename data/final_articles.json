@@ -1,266 +1,384 @@
 [
   {
-    "title": "AMD s dual-GPU Radeon HD 6990 launched 15 years ago power, heat, and noise monster was crowned the fastest graphics card in the world",
-    "summary": "The AMD Radeon HD 6990, released 15 years ago, was a powerful GPU that briefly held the title of the world's fastest graphics card, outperforming Nvidia's offerings. It was a power-hungry, heat-generating, and noisy card that lived up to its reputation as a 'monster'. Despite its limitations, its performance was unmatched at the time.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/amds-dual-gpu-radeon-hd-6990-launched-15-years-ago-power-heat-and-noise-monster-was-crowned-the-fastest-graphics-card-in-the-world",
+    "title": "Last chance to buy a PlayStation 5 Digital Edition for $399 and save $200 before Sony's price hikes secure your savings today before MSRP skyrockets from $499 to $599 on April 2",
+    "summary": "GameStop is offering the PlayStation 5 Slim Digital Edition for $399.99, a $100 discount from its MSRP of $499.99. This deal is available before the price is expected to increase to $599.99 on April 2.",
+    "link": "https://www.tomshardware.com/video-games/playstation/last-chance-to-buy-a-playstation-5-digital-edition-for-usd399-and-save-usd200-before-sonys-price-hikes-secure-your-savings-today-before-msrp-skyrockets-from-usd499-to-usd599-on-april-2",
     "categories": [
-      "GPUs",
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-03-30T09:59:36.756010",
-    "insight": "Unmatched performance led to a short-lived but significant market dominance."
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.449198",
+    "insight": "Save $100 on PS5 Slim Digital Edition before MSRP hike."
   },
   {
-    "title": "Get a 200Hz gaming monitor for just $85.49 get 29% off as the MSI MAG 242F hits an all-time low and save more than $30",
-    "summary": "The MSI MAG 242F gaming monitor features 1080p, 200Hz, and 0.5ms GtG response time, along with AMD FreeSync Premium. It has reached an all-time low price of $85.49, with a 29% discount. This makes it an affordable option for gamers seeking fast refresh rates.",
-    "link": "https://www.tomshardware.com/pc-components/get-a-200hz-gaming-monitor-for-just-usd85-49-get-29-percent-off-as-the-msi-mag-242f-hits-an-all-time-low-and-save-more-than-usd30",
+    "title": "AMD Zen 6 'Venice' ES chips break cover with up to 192 cores, 32 per CCD, in early stress test Kenya, Congo, Nigeria platforms leaked",
+    "summary": "AMD's Zen 6 'Venice' engineering samples were discovered with up to 192 cores. The samples feature 32 cores per Chiplet Die Design (CCD). This suggests a significant increase in core density.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-venice-es-chips-break-cover-with-up-to-192-cores-32-per-ccd-in-early-stress-test-kenya-congo-nigeria-platforms-leaked",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-31T09:44:26.449333",
+    "insight": "Massive core density boost for future AMD server processors."
+  },
+  {
+    "title": "Revolut Bank ordered to hand over details of more than 300 Sky TV subscribers connected to piracy operation TV provider expected to pursue subscribers who paid for illicit 'IPTV is Easy' service in unprecedented move",
+    "summary": "Ireland's High Court ordered Revolut Bank to hand over details of 304 Sky TV subscribers connected to a piracy operation. The order is aimed at pursuing those who paid for an illicit 'IPTV is Easy' service. Sky will receive names, addresses, and banking details from the bank.",
+    "link": "https://www.tomshardware.com/service-providers/tv-providers/sky-wins-irish-court-order-forcing-revolut-to-unmask-over-300-pirate-iptv-subscribers",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.449460",
+    "insight": "Pursuing pirates in the digital age gets a boost in transparency"
+  },
+  {
+    "title": "TSMC industrial espionage saga heading to verdict next month in unprecedented Taiwan National Security Act case former engineer accused of stealing 2nm technical info, faces a total of up to 20 years in prison if found guilty",
+    "summary": "A former TSMC engineer faces verdict for stealing 2nm technical info, potentially up to 20 years in prison if found guilty. The case is one of three landmark cases involving trade secret theft from TSMC. A verdict is scheduled for April 27.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-industrial-espionage-saga-heading-to-verdict-next-month-in-unprecedented-taiwan-national-security-act-case-former-engineer-accused-of-stealing-2nm-technical-info-faces-a-total-of-up-to-20-years-in-prison-if-found-guilty",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-31T09:44:26.449584",
+    "insight": "Taiwan National Security Act implications for trade secret protection worldwide matter"
+  },
+  {
+    "title": "Analyzing Elon Musk's TeraFab A step towards Tesla and SpaceX's partial vertical integration, or an unattainable dream?",
+    "summary": "Elon Musk's TeraFab aims to manufacture terawatts of semiconductors, supporting Tesla and SpaceX's vertical integration goals. However, scaling this massive project remains uncertain. The venture's success will impact the companies' reliance on external chip suppliers.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/analyzing-elon-musks-terafab-a-step-towards-tesla-and-spacexs-partial-vertical-integration-or-an-unattainable-dream",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-31T09:44:26.449705",
+    "insight": "TeraFab's success hinges on solving complex semiconductor manufacturing challenges."
+  },
+  {
+    "title": "Latest Windows 11 update is broken, refuses to install Microsoft pulls latest update over missing files error",
+    "summary": "The latest Windows 11 update has been pulled due to a missing file error, preventing installation for many users. This update aimed to bring production-quality improvements, particularly in AI-related issues. There is no readily available workaround as of now.",
+    "link": "https://www.tomshardware.com/software/windows/latest-windows-11-update-is-broken-refuses-to-install-microsoft-pulls-latest-update-over-missing-files-error",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.449836",
+    "insight": "Windows 11 update failure exposes Microsoft's ongoing quality control issues."
+  },
+  {
+    "title": "Chinese chip industry leaders admit the country lags five to ten years behind in AI data center chips AI demand is straining equipment and talent supply",
+    "summary": "Chinese chip industry leaders acknowledge a significant gap in AI data center chips, with AI demand straining equipment and talent supply.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinese-chip-industry-leaders-say-ai-demand-is-straining-equipment-and-talent-supply",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.449947",
+    "insight": "China lags behind in AI data center chip technology development."
+  },
+  {
+    "title": "Asus ROG Strix Morph 96 Wireless Review: Cheaper, but not really?",
+    "summary": "The Asus ROG Strix Morph 96 Wireless offers a compact keyboard with great build and battery life, however, its price may not be as competitive as initially thought.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/asus-rog-strix-morph-96-wireless-review",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-31T09:44:26.450080",
+    "insight": "Older, pricier sibling is cheaper, making new model's value uncertain."
+  },
+  {
+    "title": "Dell UltraSharp U3226Q 4K 32-inch QD-OLED monitor review: Pro-grade with reference-level color",
+    "summary": "The Dell UltraSharp U3226Q is a 32-inch QD-OLED monitor with 4K resolution, delivering reference-level color and industry-standard color modes. It features a high refresh rate, adaptive sync, and multiple HDR formats. The built-in calibrator ensures precise color accuracy.",
+    "link": "https://www.tomshardware.com/monitors/dell-ultrasharp-u3226q-4k-32-inch-qd-oled-monitor-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-31T09:44:26.450215",
+    "insight": "Professional-grade color accuracy for high-end content creation and editing"
+  },
+  {
+    "title": "Dev showcases seamless, massive world with zero loading screens on N64 hardware 30-year-old Nintendo retro console coaxed into draw distances matching the scale of Skyrim",
+    "summary": "A developer has created an open-world engine on original Nintendo 64 hardware, showcasing massive worlds with zero loading screens. This achievement pushes the limits of what was thought possible on the 30-year-old retro console. The engine rivals the draw distances of the iconic game Skyrim.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/dev-showcases-seamless-massive-world-with-zero-loading-screens-on-n64-hardware-30-year-old-nintendo-retro-console-coaxed-into-draw-distances-matching-the-scale-of-skyrim",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.450333",
+    "insight": "Revolutionizing retro console gaming with unprecedented open-world capabilities."
+  },
+  {
+    "title": "Just $151 for 32GB of Corsair Vengeance DDR5-6400 RAM when bundled with Intel's new 270K-Plus and Z890-E motherboard start your Arrow Lake refresh build for less than $800",
+    "summary": "Upgrade to a powerful Arrow Lake build with 32GB of DDR5 RAM, Intel's 270K-Plus CPU, and Asus' ROG Strix Z890-E motherboard for under $800.",
+    "link": "https://www.tomshardware.com/pc-components/just-usd151-for-32gb-of-corsair-vengeance-ddr5-6400-ram-when-bundled-with-intels-new-270k-plus-and-z890-e-motherboard-start-your-arrow-lake-refresh-build-for-less-than-usd800",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.450442",
+    "insight": "Affordable high-performance build options emerge with Intel's Arrow Lake refresh."
+  },
+  {
+    "title": "Xbox 360 devkit bought for $5 at car boot sale came with 2007 beta build of GTA IV with unreleased assets Version includes cut ferry system, zombies, and more",
+    "summary": "A pre-release 2007 build of GTA IV was discovered on an Xbox 360 devkit. The build includes unused assets such as the ferry system, zombies, NPCs, and vehicles. This suggests significant changes were made during the game's development.",
+    "link": "https://www.tomshardware.com/video-games/xbox/xbox-360-devkit-bought-for-usd5-at-car-boot-sale-came-with-2007-beta-build-of-gta-iv-with-unreleased-assets-version-includes-cut-ferry-system-zombies-and-more",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-31T09:44:26.450589",
+    "insight": "Rare glimpse into GTA IV's pre-release development and scrapped features"
+  },
+  {
+    "title": "Rockchip RK3506J-based Forlinx FCU1501 fanless industrial IoT gateway offers dual Ethernet, plenty of I/Os and serial interfaces",
+    "summary": "Forlinx Technology introduces the FCU1501, a rugged, fanless industrial IoT gateway with Rockchip RK3506J processor. The system supports high-reliability data acquisition, protocol conversion, and operates in harsh environments. It features dual Ethernet, Wi-Fi, Bluetooth, and 4G LTE Cat 1 support.",
+    "link": "https://www.cnx-software.com/2026/03/31/rockchip-rk3506j-based-forlinx-fcu1501-fanless-industrial-iot-gateway-offers-dual-ethernet-plenty-of-i-os-and-serial-interfaces/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-31T09:44:26.451107",
+    "insight": "Rugged, high-reliability IoT gateway for harsh industrial environments"
+  },
+  {
+    "title": "T-Display-P4 smartphone-like devkit features ESP32-P4 MCU, ESP32-C6 wireless SoC, and SX1262/LR2021 LoRa transceiver",
+    "summary": "The LILYGO T-Display-P4 is a feature-rich smartphone-like devkit with ESP32-P4 and ESP32-C6 connectivity, GPS, and LoRaWAN support, featuring a range of sensors, displays, and expansion options.",
+    "link": "https://www.cnx-software.com/2026/03/31/t-display-p4-smartphone-like-devkit-features-esp32-p4-mcu-esp32-c6-wireless-soc-and-sx1262-lr2021-lora-transceiver/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-31T09:44:26.451306",
+    "insight": "Ruggedized ESP32-P4 devkit for IoT and industrial applications expands connectivity options."
+  },
+  {
+    "title": "Artemis II launch planned for Wednesday with four crew, sensors",
+    "summary": "The Artemis II mission is a 10-day trip orbiting the Moon with four crew members on board, marking a new distance record for humans in space. The mission aims to test the systems and capabilities of the Orion spacecraft. This historic flight will prepare for future lunar missions.",
+    "link": "https://www.fiercesensors.com/sensors/artemis-ii-launch-planned-wednesday-four-crew-sensors",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-31T09:44:26.452314",
+    "insight": "Breaking distance records in space exploration for human safety and progress."
+  },
+  {
+    "title": "Seventh group of Rising Stars named",
+    "summary": "The seventh group of Fierce Sensors Rising Stars was named for 2026. The honorees will be recognized at Sensors Converge in May. This group represents emerging talent in the industry.",
+    "link": "https://www.fiercesensors.com/sensors/seventh-group-rising-stars-named",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-31T09:44:26.452456",
+    "insight": "Emerging talent in sensors technology drives innovation and progress."
+  },
+  {
+    "title": "Tire sensors in cars can be used to track you",
+    "summary": "Researchers at IMDEA Networks found that tire sensor signals can be easily collected, revealing a hidden privacy risk. This data can potentially be used to track individuals, compromising their location and movements. The study emphasizes the need for better data protection.",
+    "link": "https://www.fiercesensors.com/sensors/tire-sensors-cars-can-be-used-track-you",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.452748",
+    "insight": "Tire sensors can be used to track your every move."
+  },
+  {
+    "title": "Doom now runs over DNS, loading from nearly 2,000 text records",
+    "summary": "A port of Doom loads into memory via DNS TXT records without writing to disk. The project encodes the game into 1,964 DNS records, utilizing Cloudflare. This allows the game to boot via a PowerShell command.",
+    "link": "https://www.techspot.com/news/111885-doom-now-runs-over-dns-loading-nearly-2000.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-03-31T09:44:26.452856",
+    "insight": "DNS TXT records used for game loading challenge traditional storage methods."
+  },
+  {
+    "title": "Kingdom Come: Deliverance II studio axes human translator in favor of AI",
+    "summary": "Warhorse Studios is switching to AI-based translations for future games, sparking fan discontent.",
+    "link": "https://www.techspot.com/news/111882-kingdom-come-deliverance-ii-studio-axes-human-translator.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.452969",
+    "insight": "Loss of human touch in game translation may compromise cultural authenticity."
+  },
+  {
+    "title": "Price spike hits Intel Core Ultra 7 270K Plus a week after launch, but value proposition remains",
+    "summary": "The Intel Core Ultra 7 270K Plus experiences a price spike just after launch, with prices exceeding its MSRP on various online retailers. Despite this, its value proposition remains intact for many users. The price increase is attributed to high demand.",
+    "link": "https://www.techspot.com/news/111878-price-spike-hits-intel-core-ultra-7-270k.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.453084",
+    "insight": "High demand drives price spike, despite Intel Core's strong value proposition."
+  },
+  {
+    "title": "Hackers are using fake coding jobs to spread malware through GitHub",
+    "summary": "Hackers are using fake coding jobs to spread malware through GitHub, which uses public blockchains as part of its delivery system.",
+    "link": "https://www.techspot.com/news/111870-hackers-using-fake-coding-jobs-spread-malware-through.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.453210",
+    "insight": "Malware leverages public blockchains for delivery and data exfiltration."
+  },
+  {
+    "title": "It was 1995, 15-inch 800x600 monitors were the norm, what kind of monitor did John Carmack use to code Quake?",
+    "summary": "In 1995, John Carmack likely used a high-end S3 ViRGE or ATI 3D Rage monitor to code Quake, which featured a 15-inch 800x600 display, a significant upgrade from the norm at that time.",
+    "link": "https://www.techspot.com/trivia/117-1995-15-inch-800x600-monitors-norm-what-kind/",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-03-31T09:44:26.453319",
+    "insight": "High-end hardware fueled innovation in early 3D game development."
+  },
+  {
+    "title": "Robots just installed 100 MW of solar panels in the desert",
+    "summary": "Robots have greatly increased solar panel installation efficiency and speed in the desert, enabling 100 MW of solar panels to be installed.",
+    "link": "https://www.techspot.com/news/111874-robots-installed-100-mw-solar-panels-desert.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.453429",
+    "insight": "Robot-assisted installation boosts solar energy deployment at unprecedented rates."
+  },
+  {
+    "title": "TSMC's 3nm capacity is now reserved for its biggest customers only",
+    "summary": "TSMC's 3nm capacity is limited, forcing it to prioritize loyal clients. Demand far exceeds supply, with many companies seeking access to the Taiwanese foundry's advanced nodes. This bottleneck affects the entire chip industry.",
+    "link": "https://www.techspot.com/news/111875-tsmc-3nm-capacity-now-reserved-biggest-customers-only.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.453542",
+    "insight": "Limited supply outstrips demand, prioritizing loyal clients over others"
+  },
+  {
+    "title": "MSI's 200Hz gaming monitor drops to $85, undercutting most budget displays",
+    "summary": "The MSI MAG 242F budget gaming monitor is now available for $85, offering a 200Hz refresh rate, 0.5ms response time, and adaptive sync for smooth gameplay.",
+    "link": "https://www.techspot.com/products/monitors/msi-mag-242f-24.323329/",
     "categories": [
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-30T09:59:36.756130",
-    "insight": "Fast and affordable gaming monitor for competitive gamers at discount price"
+    "processed_date": "2026-03-31T09:44:26.453650",
+    "insight": "High-performance gaming at an affordable price becomes increasingly accessible."
   },
   {
-    "title": "New Cambridge human brain-inspired chip could slash AI energy use new type of memristor has roughly a million times lower switching current than conventional devices",
-    "summary": "Cambridge researchers developed a new hafnium oxide memristor with significantly lower switching currents. This innovation could reduce AI energy consumption by a substantial margin. The device is designed to mimic human brain functionality.",
-    "link": "https://www.tomshardware.com/tech-industry/new-cambridge-human-brain-inspired-chip-could-slash-ai-energy-use",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-30T09:59:36.756257",
-    "insight": "Enabling more efficient AI processing with dramatically reduced energy usage"
-  },
-  {
-    "title": "12-Nozzle 3D printer unveiled MOVA AtomForm Unveils Palette 300",
-    "summary": "MOVA AtomForm unveiled the MOVA Palette 300, a 12-nozzle 3D printer. The unveiling was tailored towards lifestyle content creators rather than experienced 3D printing enthusiasts. The event focused on the printer's capabilities and applications.",
-    "link": "https://www.tomshardware.com/3d-printing/12-nozzle-3d-printer-unveiled-mova-atomform-unveils-palette-300",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-30T09:59:36.756376",
-    "insight": "Advancements in 3D printing technology for mass production purposes."
-  },
-  {
-    "title": "Chinese military reveals drone wolf pack capable of swarm operations robot dogs can be equipped with grenade launchers and machine guns for urban combat",
-    "summary": "The Chinese PLA has unveiled a drone wolf pack with robotic dogs, capable of swarm operations, and equipped with grenade launchers and machine guns for urban combat.",
-    "link": "https://www.tomshardware.com/tech-industry/chinese-military-reveals-drone-wolf-pack-capable-of-swarm-operations-robot-dogs-can-be-equipped-with-grenade-launchers-and-machine-guns-for-urban-combat",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-30T09:59:36.756521",
-    "insight": "Autonomous swarm warfare capabilities enhance urban combat effectiveness"
-  },
-  {
-    "title": "Tokyo consortium tests placing data centers under railway overpasses passing trains introduce severe thermal and vibration challenges",
-    "summary": "The Tokyo consortium is testing the feasibility of placing modular data centers under railway overpasses, which poses severe thermal and vibration challenges due to the proximity of trains.",
-    "link": "https://www.tomshardware.com/tech-industry/tokyu-group-to-test-modular-data-centers-under-tokyo-railway-overpasses",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-30T09:59:36.756638",
-    "insight": "Deploying data centers near railways requires innovative thermal management solutions."
-  },
-  {
-    "title": "Museum opens doors to World s largest collection of Apple products on April 1 to celebrate Apple s 50th anniversary 2,000 artifacts spread across 20,000 sq ft in Roswell, GA",
-    "summary": "Mimms Museum in Roswell, GA, opens 'iNSPIRE: 50 Years of Innovation from Apple' on April 1, showcasing 2,000 Apple artifacts across 20,000 sq ft.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/museum-opens-doors-to-worlds-largest-collection-of-apple-products-on-april-1-to-celebrate-apples-50th-anniversary-2-000-artifacts-spread-across-20-000-sq-ft-in-roswell-ga",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-30T09:59:36.756750",
-    "insight": "Historic Apple collection highlights decades of innovation and design excellence."
-  },
-  {
-    "title": "Japanese firm develops optical fiber with 4x traffic capacity, could be used for undersea cables MCF retains the same diameter and works with existing infrastructure",
-    "summary": "Japanese firm NTT has developed a multicore optical fiber (MCF) that quadruples capacity without increasing diameter, allowing it to work seamlessly with existing infrastructure. This breakthrough technology has the potential to revolutionize undersea cables and meet growing internet demands. MCF's compatibility with existing infrastructure makes it a game-changer.",
-    "link": "https://www.tomshardware.com/peripherals/cables-connectors/japanese-firm-develops-optical-fiber-with-4x-traffic-capacity-could-be-used-for-undersea-cables-mcf-retains-the-same-diameter-and-works-with-existing-infrastructure",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-30T09:59:36.756862",
-    "insight": "Future-proofing internet infrastructure with capacity upgrades without costly replacements."
-  },
-  {
-    "title": "Comparison of $4,000 boutique audio cable to $7 Amazon Basics cable shows audiophiles waste a lot of money scientific audio equipment analysis with analyzer shows no difference in quality",
-    "summary": "An analysis of high-end audio cables showed no quality difference compared to basic options.",
-    "link": "https://www.tomshardware.com/pc-components/sound-cards/comparison-of-usd4-000-boutique-audio-cable-to-usd7-amazon-basics-cable-shows-audiophiles-waste-a-lot-of-money-scientific-audio-equipment-analysis-with-analyzer-shows-no-difference-in-quality",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-30T09:59:36.756970",
-    "insight": "Audiophiles spend excess money on unnecessary audio equipment upgrades."
-  },
-  {
-    "title": "Researchers develop ground-penetrating 'Wi-Fi' tech with 100m range magnetic induction method could help reach those trapped or lost underground",
-    "summary": "South Korean researchers developed a 100m range magnetic induction tech for underground communication, helping rescuers reach trapped individuals. This technology utilizes magnetic induction to overcome signal loss in underground environments.",
-    "link": "https://www.tomshardware.com/tech-industry/researchers-develop-ground-penetrating-wireless-communications-tech-with-100m-range-magnetic-induction-based-method-could-help-reach-those-trapped-or-lost-underground",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-30T09:59:36.757084",
-    "insight": "Enhanced underground communication aids rescue operations and missing person searches."
-  },
-  {
-    "title": "Open source laser engraver sells for just $64 fully assembled it is small and low power but may be enough for your needs",
-    "summary": "A low-cost, compact laser engraver is now available for DIY enthusiasts, requiring $64 for a fully assembled version. The low-power device is suitable for small-scale projects and might serve as a great starting point for beginners. The open-source design allows users to customize and improve the device.",
-    "link": "https://www.tomshardware.com/maker-stem/open-source-laser-engraver-sells-for-just-usd64-fully-assembled-it-is-small-and-low-power-but-may-be-enough-for-your-needs",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-30T09:59:36.757187",
-    "insight": "Affordable DIY laser engraver for small-scale crafting projects available now."
-  },
-  {
-    "title": "Hbada X7 Chair Review: AI-assisted comfort",
-    "summary": "The Hbada X7 Chair combines premium design with AI-assisted features for optimal comfort and support.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/hbada-x7-chair-review",
+    "title": "Vivo X300 Ultra takes aim at DSLRs with Zeiss lenses and pro photography tools",
+    "summary": "Vivo's X300 Ultra smartphone features advanced imaging hardware with Zeiss lenses, targeting DSLR territory.",
+    "link": "https://www.techspot.com/news/111879-vivo-x300-ultra-takes-aim-dslrs-zeiss-lenses.html",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-30T09:59:36.757299",
-    "insight": "Revolutionizing office comfort with AI-driven ergonomic solutions for better well-being."
+    "processed_date": "2026-03-31T09:44:26.453760",
+    "insight": "Smartphone makers blur lines between mobile and professional photography capabilities."
   },
   {
-    "title": "AWOL Vision Aetherion A 4K ultra short throw RGB laser projector with VRR and 3300 ISO lumens (Crowdfunding)",
-    "summary": "The AWOL Vision Aetherion is a 4K UST projector with RGB laser, VRR, and high brightness.",
-    "link": "https://www.cnx-software.com/2026/03/30/awol-vision-aetherion-4k-ultra-short-throw-rgb-laser-projector-with-vrr-and-3300-iso-lumens/",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-30T09:59:36.757853",
-    "insight": "High-end home entertainment for immersive gaming and cinematic experiences."
-  },
-  {
-    "title": "Select the right hardware for your local LLM deployment with this online guide",
-    "summary": "A guide helps select hardware for local LLM deployment without overspending. The guide showcases various hardware options with price, performance, and power consumption. Users can compare different hardware for optimal performance.",
-    "link": "https://www.cnx-software.com/2026/03/30/select-the-right-hardware-for-your-local-llm-deployment-with-this-online-guide/",
+    "title": "CachyOS emerges as a fast, gaming-ready Arch Linux OS alternative",
+    "summary": "CachyOS is a fast, gaming-ready Arch Linux distribution with a polished experience.",
+    "link": "https://www.techspot.com/downloads/7828-cachyos.html",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-30T09:59:36.758019",
-    "insight": "Spending more on hardware does not always guarantee better LLM performance."
+    "processed_date": "2026-03-31T09:44:26.453881",
+    "insight": "CachyOS offers gamers cutting-edge software without sacrificing responsiveness or control."
   },
   {
-    "title": "DIY ESP32-S3 Internet radio features Winamp-styled user interface",
-    "summary": "A DIY ESP32-S3 Internet radio features a Winamp-styled UI and is based on the Waveshare ESP32-S3-LCD-1.54 development board, offering WiFi and Bluetooth connectivity, a 1.54-inch color display, and a speaker for better-than-expected audio quality.",
-    "link": "https://www.cnx-software.com/2026/03/30/diy-esp32-s3-internet-radio-features-winamp-styled-user-interface/",
+    "title": "Amazon is spending $4 billion to bring next-day delivery service to rural America",
+    "summary": "Amazon is investing $4 billion in next-day delivery for rural Americans, targeting a significant market of $1 trillion in annual retail purchases.",
+    "link": "https://www.techspot.com/news/111877-amazon-spending-4-billion-bring-next-day-delivery.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.453988",
+    "insight": "Rural residents spend 20% of US retail purchases annually."
+  },
+  {
+    "title": "You can buy a $10,000 iPhone 17 Pro with a piece of Steve Jobs' turtleneck embedded inside",
+    "summary": "Caviar is releasing a $10,000 iPhone 17 Pro with Steve Jobs' turtleneck material embedded. The device, called the 50 Anniversary Edition, coincides with Apple's 50th anniversary. It features a unique and exclusive design element.",
+    "link": "https://www.techspot.com/news/111876-you-can-buy-10000-iphone-17-pro-piece.html",
     "categories": [
       "Hardware",
-      "Semiconductors"
+      "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-03-30T09:59:36.758190",
-    "insight": "Affordable DIY radio with high-quality audio and customizable UI."
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.454094",
+    "insight": "Extravagant tech items highlight luxury market's growing interest in exclusivity"
   },
   {
-    "title": "PineTime Pro smartwatch to feature dual-core Cortex-M33 MCU, 2.13-inch AMOLED, GPS, and more",
-    "summary": "Pine64 has announced the PineTime Pro smartwatch, a significant upgrade to its predecessor with a dual-core Cortex-M33 MCU, 2.13-inch AMOLED display, GPS, and more.",
-    "link": "https://www.cnx-software.com/2026/03/30/pinetime-pro-smartwatch-to-feature-dual-core-cortex-m33-mcu-2-13-inch-amoled-gps/",
+    "title": "Microsoft plans 100% native Windows 11 apps in major shift away from web wrappers",
+    "summary": "Microsoft plans to create 100% native Windows 11 apps, shifting away from web wrappers. A new team will work on building these apps, with a focus on strong product thinking. This change aims to improve user experience and app performance.",
+    "link": "https://www.techspot.com/news/111872-microsoft-plans-100-native-windows-11-apps-major.html",
     "categories": [
-      "Hardware",
-      "Semiconductors"
+      "AI & ML"
     ],
-    "quality_score": 20,
-    "processed_date": "2026-03-30T09:59:36.758360",
-    "insight": "Massive upgrade to support a wider range of firmware options."
+    "quality_score": 5,
+    "processed_date": "2026-03-31T09:44:26.454218",
+    "insight": "Native apps improve user experience and app performance significantly always"
   },
   {
-    "title": "TDK, Bosch to produce advanced sensors and ICs for Apple in US",
-    "summary": "Apple partners with TDK and Bosch to produce sensors and ICs in the US, marking a significant step in the company's push for American manufacturing.",
-    "link": "https://www.fiercesensors.com/sensors/tdk-bosch-produce-advanced-sensors-and-ics-apple-us",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-03-30T09:59:36.759298",
-    "insight": "Domestic production increases US job market and supply chain security."
-  },
-  {
-    "title": "We asked how Grok sees VC funding for sensing. (It s nuanced.)",
-    "summary": "Chatbots require clear prompts to provide accurate and nuanced responses.",
-    "link": "https://www.fiercesensors.com/sensors/we-asked-how-grok-sees-vc-funding-sensing-its-nuanced",
+    "title": "ChatGPT isn't getting spicier OpenAI puts adult mode on indefinite hold",
+    "summary": "OpenAI has put ChatGPT's adult mode on indefinite hold, differing from Grok's approach.",
+    "link": "https://www.techspot.com/news/111873-chatgpt-isnt-getting-spicier-openai-puts-adult-mode.html",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-03-30T09:59:36.759481",
-    "insight": "Clear prompts ensure AI accuracy in complex domains like sensing."
+    "quality_score": 10,
+    "processed_date": "2026-03-31T09:44:26.454337",
+    "insight": "OpenAI prioritizes family-friendly content over adult-oriented chatbot features."
   },
   {
-    "title": "On edge? Go all-in with AI",
-    "summary": "EMASS showcased ECS-DoT, a System-on-Chip (SoC) designed for AI inference on edge sensor data, enabling efficient processing and real-time decision-making at the edge.",
-    "link": "https://www.fiercesensors.com/electronics/edge-go-all-ai",
+    "title": "New magnetic field system enables wireless communication 100 meters underground",
+    "summary": "A new magnetic field system enables wireless communication 100 meters underground by leveraging low-frequency magnetic fields that can propagate through solid ground with less attenuation than conventional radio waves.",
+    "link": "https://www.techspot.com/news/111869-new-magnetic-field-system-enables-wireless-data-transmission.html",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-03-30T09:59:36.759851",
-    "insight": "Accelerating AI at the edge boosts real-time decision-making capabilities"
-  },
-  {
-    "title": "AI has mastered chess, so humans are changing the rules of the game",
-    "summary": "Chess grandmasters adapt to AI dominance by combining engines with surprise and psychology.",
-    "link": "https://www.techspot.com/news/111867-ai-has-mastered-chess-humans-changing-rules-engagement.html",
-    "categories": [
-      "AI & ML"
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-30T09:59:36.760037",
-    "insight": "Humans now rely on creativity over brute algorithmic strength."
+    "processed_date": "2026-03-31T09:44:26.454451",
+    "insight": "Magnetic induction overcomes radio wave attenuation underground challenges."
   },
   {
-    "title": "Fiber HDMI cables enable full-bandwidth 8K over runs up to 990 feet",
-    "summary": "An active optical cable (AOC) for HDMI enables full-bandwidth 8K over long distances, up to 990 feet.",
-    "link": "https://www.techspot.com/news/111868-fiber-optics-quietly-fixing-hdmi-toughest-distance-challenges.html",
+    "title": "Audiophile myth challenged as $4,000 boutique audio cable fails to beat $7 Amazon Basics in lab test",
+    "summary": "Audiophile myth is challenged as a $4,000 cable fails to outperform a $7 Amazon Basics cable in lab tests, highlighting the limitations of high-end audio equipment.",
+    "link": "https://www.techspot.com/news/111871-audiophile-myth-challenged-4000-boutique-audio-cable-fails.html",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-30T09:59:36.760201",
-    "insight": "Long-distance 8K transmission without signal degradation or loss."
-  },
-  {
-    "title": "AnyDesk keeps remote desktops smooth even on weak connections",
-    "summary": "AnyDesk is a fast, lightweight remote desktop tool for low-latency access. It stays responsive on weaker connections and supports various features. Cross-platform compatibility is also available.",
-    "link": "https://www.techspot.com/downloads/7002-anydesk.html",
-    "categories": [
+      "AI & ML",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-30T09:59:36.760359",
-    "insight": "Smooth remote access on weak connections matters for productivity and efficiency."
-  },
-  {
-    "title": "AMD's Ryzen 9 9950X3D2 arrives as Intel scraps Core Ultra 9 290K Plus",
-    "summary": "AMD's Ryzen 9 9950X3D2 boasts 208MB of stacked cache memory, offering improved performance in select workloads.",
-    "link": "https://www.techspot.com/news/111866-amd-ryzen-9-9950x3d2-arrives-intel-scraps-core.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-03-30T09:59:36.760512",
-    "insight": "AMD's V-Cache formula yields significant performance gains in content creation workloads."
+    "processed_date": "2026-03-31T09:44:26.454575",
+    "insight": "Expensive audio equipment may not guarantee superior audio quality."
   }
 ]

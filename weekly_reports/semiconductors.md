@@ -1,75 +1,125 @@
 # ⚡ Semiconductors
-**Week of March 30, 2026**
+**Week of March 31, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-03-30 10:00
+- **Articles this week:** 11
+- **Report generated:** 2026-03-31 09:45
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. PineTime Pro smartwatch to feature dual-core Cortex-M33 MCU, 2.13-inch AMOLED, GPS, and more ⭐
+### 1. AMD Zen 6 'Venice' ES chips break cover with up to 192 cores, 32 per CCD, in early stress test Kenya, Congo, Nigeria platforms leaked 
 
-Pine64 has announced the PineTime Pro smartwatch, a significant upgrade to its predecessor with a dual-core Cortex-M33 MCU, 2.13-inch AMOLED display, GPS, and more.
+AMD's Zen 6 'Venice' engineering samples were discovered with up to 192 cores. The samples feature 32 cores per Chiplet Die Design (CCD). This suggests a significant increase in core density.
 
-💡 *Massive upgrade to support a wider range of firmware options.*
+💡 *Massive core density boost for future AMD server processors.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/30/pinetime-pro-smartwatch-to-feature-dual-core-cortex-m33-mcu-2-13-inch-amoled-gps/)
-
----
-
-### 2. DIY ESP32-S3 Internet radio features Winamp-styled user interface ⭐
-
-A DIY ESP32-S3 Internet radio features a Winamp-styled UI and is based on the Waveshare ESP32-S3-LCD-1.54 development board, offering WiFi and Bluetooth connectivity, a 1.54-inch color display, and a speaker for better-than-expected audio quality.
-
-💡 *Affordable DIY radio with high-quality audio and customizable UI.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/30/diy-esp32-s3-internet-radio-features-winamp-styled-user-interface/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-zen-6-venice-es-chips-break-cover-with-up-to-192-cores-32-per-ccd-in-early-stress-test-kenya-congo-nigeria-platforms-leaked)
 
 ---
 
-### 3. New Cambridge human brain-inspired chip could slash AI energy use new type of memristor has roughly a million times lower switching current than conventional devices 
+### 2. TSMC industrial espionage saga heading to verdict next month in unprecedented Taiwan National Security Act case former engineer accused of stealing 2nm technical info, faces a total of up to 20 years in prison if found guilty 
 
-Cambridge researchers developed a new hafnium oxide memristor with significantly lower switching currents. This innovation could reduce AI energy consumption by a substantial margin. The device is designed to mimic human brain functionality.
+A former TSMC engineer faces verdict for stealing 2nm technical info, potentially up to 20 years in prison if found guilty. The case is one of three landmark cases involving trade secret theft from TSMC. A verdict is scheduled for April 27.
 
-💡 *Enabling more efficient AI processing with dramatically reduced energy usage*
+💡 *Taiwan National Security Act implications for trade secret protection worldwide matter*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/new-cambridge-human-brain-inspired-chip-could-slash-ai-energy-use)
-
----
-
-### 4. Chinese military reveals drone wolf pack capable of swarm operations robot dogs can be equipped with grenade launchers and machine guns for urban combat 
-
-The Chinese PLA has unveiled a drone wolf pack with robotic dogs, capable of swarm operations, and equipped with grenade launchers and machine guns for urban combat.
-
-💡 *Autonomous swarm warfare capabilities enhance urban combat effectiveness*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinese-military-reveals-drone-wolf-pack-capable-of-swarm-operations-robot-dogs-can-be-equipped-with-grenade-launchers-and-machine-guns-for-urban-combat)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-industrial-espionage-saga-heading-to-verdict-next-month-in-unprecedented-taiwan-national-security-act-case-former-engineer-accused-of-stealing-2nm-technical-info-faces-a-total-of-up-to-20-years-in-prison-if-found-guilty)
 
 ---
 
-### 5. AWOL Vision Aetherion A 4K ultra short throw RGB laser projector with VRR and 3300 ISO lumens (Crowdfunding) 
+### 3. Analyzing Elon Musk's TeraFab A step towards Tesla and SpaceX's partial vertical integration, or an unattainable dream? 
 
-The AWOL Vision Aetherion is a 4K UST projector with RGB laser, VRR, and high brightness.
+Elon Musk's TeraFab aims to manufacture terawatts of semiconductors, supporting Tesla and SpaceX's vertical integration goals. However, scaling this massive project remains uncertain. The venture's success will impact the companies' reliance on external chip suppliers.
 
-💡 *High-end home entertainment for immersive gaming and cinematic experiences.*
+💡 *TeraFab's success hinges on solving complex semiconductor manufacturing challenges.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/30/awol-vision-aetherion-4k-ultra-short-throw-rgb-laser-projector-with-vrr-and-3300-iso-lumens/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/analyzing-elon-musks-terafab-a-step-towards-tesla-and-spacexs-partial-vertical-integration-or-an-unattainable-dream)
 
 ---
 
-### 6. TDK, Bosch to produce advanced sensors and ICs for Apple in US 
+### 4. Asus ROG Strix Morph 96 Wireless Review: Cheaper, but not really? 
 
-Apple partners with TDK and Bosch to produce sensors and ICs in the US, marking a significant step in the company's push for American manufacturing.
+The Asus ROG Strix Morph 96 Wireless offers a compact keyboard with great build and battery life, however, its price may not be as competitive as initially thought.
 
-💡 *Domestic production increases US job market and supply chain security.*
+💡 *Older, pricier sibling is cheaper, making new model's value uncertain.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/tdk-bosch-produce-advanced-sensors-and-ics-apple-us)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/asus-rog-strix-morph-96-wireless-review)
+
+---
+
+### 5. Rockchip RK3506J-based Forlinx FCU1501 fanless industrial IoT gateway offers dual Ethernet, plenty of I/Os and serial interfaces 
+
+Forlinx Technology introduces the FCU1501, a rugged, fanless industrial IoT gateway with Rockchip RK3506J processor. The system supports high-reliability data acquisition, protocol conversion, and operates in harsh environments. It features dual Ethernet, Wi-Fi, Bluetooth, and 4G LTE Cat 1 support.
+
+💡 *Rugged, high-reliability IoT gateway for harsh industrial environments*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/31/rockchip-rk3506j-based-forlinx-fcu1501-fanless-industrial-iot-gateway-offers-dual-ethernet-plenty-of-i-os-and-serial-interfaces/)
+
+---
+
+### 6. T-Display-P4 smartphone-like devkit features ESP32-P4 MCU, ESP32-C6 wireless SoC, and SX1262/LR2021 LoRa transceiver 
+
+The LILYGO T-Display-P4 is a feature-rich smartphone-like devkit with ESP32-P4 and ESP32-C6 connectivity, GPS, and LoRaWAN support, featuring a range of sensors, displays, and expansion options.
+
+💡 *Ruggedized ESP32-P4 devkit for IoT and industrial applications expands connectivity options.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/31/t-display-p4-smartphone-like-devkit-features-esp32-p4-mcu-esp32-c6-wireless-soc-and-sx1262-lr2021-lora-transceiver/)
+
+---
+
+### 7. Revolut Bank ordered to hand over details of more than 300 Sky TV subscribers connected to piracy operation TV provider expected to pursue subscribers who paid for illicit 'IPTV is Easy' service in unprecedented move 
+
+Ireland's High Court ordered Revolut Bank to hand over details of 304 Sky TV subscribers connected to a piracy operation. The order is aimed at pursuing those who paid for an illicit 'IPTV is Easy' service. Sky will receive names, addresses, and banking details from the bank.
+
+💡 *Pursuing pirates in the digital age gets a boost in transparency*
+
+🔗 [Read Full Article](https://www.tomshardware.com/service-providers/tv-providers/sky-wins-irish-court-order-forcing-revolut-to-unmask-over-300-pirate-iptv-subscribers)
+
+---
+
+### 8. Chinese chip industry leaders admit the country lags five to ten years behind in AI data center chips AI demand is straining equipment and talent supply 
+
+Chinese chip industry leaders acknowledge a significant gap in AI data center chips, with AI demand straining equipment and talent supply.
+
+💡 *China lags behind in AI data center chip technology development.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/chinese-chip-industry-leaders-say-ai-demand-is-straining-equipment-and-talent-supply)
+
+---
+
+### 9. TSMC's 3nm capacity is now reserved for its biggest customers only 
+
+TSMC's 3nm capacity is limited, forcing it to prioritize loyal clients. Demand far exceeds supply, with many companies seeking access to the Taiwanese foundry's advanced nodes. This bottleneck affects the entire chip industry.
+
+💡 *Limited supply outstrips demand, prioritizing loyal clients over others*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111875-tsmc-3nm-capacity-now-reserved-biggest-customers-only.html)
+
+---
+
+### 10. New magnetic field system enables wireless communication 100 meters underground 
+
+A new magnetic field system enables wireless communication 100 meters underground by leveraging low-frequency magnetic fields that can propagate through solid ground with less attenuation than conventional radio waves.
+
+💡 *Magnetic induction overcomes radio wave attenuation underground challenges.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111869-new-magnetic-field-system-enables-wireless-data-transmission.html)
+
+---
+
+### 11. It was 1995, 15-inch 800x600 monitors were the norm, what kind of monitor did John Carmack use to code Quake? 
+
+In 1995, John Carmack likely used a high-end S3 ViRGE or ATI 3D Rage monitor to code Quake, which featured a 15-inch 800x600 display, a significant upgrade from the norm at that time.
+
+💡 *High-end hardware fueled innovation in early 3D game development.*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/117-1995-15-inch-800x600-monitors-norm-what-kind/)
 
 ---
 
