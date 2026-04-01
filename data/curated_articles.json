@@ -1,351 +1,432 @@
 [
   {
-    "title": "Last chance to buy a PlayStation 5 Digital Edition for $399 and save $200 before Sony's price hikes secure your savings today before MSRP skyrockets from $499 to $599 on April 2",
-    "summary": "GameStop is selling the PlayStation 5 Slim Digital Edition for $399.99, $100 below its MSRP.",
-    "link": "https://www.tomshardware.com/video-games/playstation/last-chance-to-buy-a-playstation-5-digital-edition-for-usd399-and-save-usd200-before-sonys-price-hikes-secure-your-savings-today-before-msrp-skyrockets-from-usd499-to-usd599-on-april-2",
+    "title": "Google research suggests encryption technique used by Bitcoin will be cracked by quantum computers around 2029 search giant says quantum attacks need to be prepared for now",
+    "summary": "New research from Google suggests that future quantum computers will develop quickly enough to pose a risk to elliptic-curve cryptography, used in cryptocurrencies like Bitcoin, as soon as 2029, and its researchers say action should be taken now to prepare.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/google-research-suggests-encryption-technique-used-by-bitcoin-will-be-cracked-by-quantum-computers-around-2029-search-giant-says-quantum-attacks-need-to-be-prepared-for-now",
     "categories": [
-      "Tech News"
+      "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.449198"
+    "quality_score": 10,
+    "processed_date": "2026-04-01T09:49:48.430612"
   },
   {
-    "title": "AMD Zen 6 'Venice' ES chips break cover with up to 192 cores, 32 per CCD, in early stress test Kenya, Congo, Nigeria platforms leaked",
-    "summary": "Several Venice Zen 6 engineering samples were discovered on OpenBenchmark.org, featuring core counts of up to 192 cores.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-venice-es-chips-break-cover-with-up-to-192-cores-32-per-ccd-in-early-stress-test-kenya-congo-nigeria-platforms-leaked",
+    "title": "We go hands-on with Nvidia's DLSS 4.5 Dynamic Multi Frame Generation and its 5X and 6X multipliers more generated frames, now tailor-made for your monitor's refresh rate",
+    "summary": "The arrival of Nvidia's DLSS 4.5 Dynamic Multi Frame Generation mode and its extended 5X and 6X multipliers promises more control and higher generated frame rates for GeForce RTX 50-series graphics cards. We went hands-on to see just how far AI can stretch one input frame.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/we-go-hands-on-with-nvidias-dlss-4-5-dynamic-multi-frame-generation-and-its-5x-and-6x-multipliers-more-generated-frames-now-tailor-made-for-your-monitors-refresh-rate",
     "categories": [
       "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-31T09:44:26.449333"
-  },
-  {
-    "title": "Revolut Bank ordered to hand over details of more than 300 Sky TV subscribers connected to piracy operation TV provider expected to pursue subscribers who paid for illicit 'IPTV is Easy' service in unprecedented move",
-    "summary": "Ireland's High Court granted Sky a Norwich Pharmacal order compelling Revolut Bank UAB to hand over the names, addresses, and banking details of 304 subscribers",
-    "link": "https://www.tomshardware.com/service-providers/tv-providers/sky-wins-irish-court-order-forcing-revolut-to-unmask-over-300-pirate-iptv-subscribers",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.449460"
-  },
-  {
-    "title": "TSMC industrial espionage saga heading to verdict next month in unprecedented Taiwan National Security Act case former engineer accused of stealing 2nm technical info, faces a total of up to 20 years in prison if found guilty",
-    "summary": "One of the three landmark cases involving the theft of trade secrets from TSMC has run through investigative and court proceedings, and a verdict is scheduled for April 27.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-industrial-espionage-saga-heading-to-verdict-next-month-in-unprecedented-taiwan-national-security-act-case-former-engineer-accused-of-stealing-2nm-technical-info-faces-a-total-of-up-to-20-years-in-prison-if-found-guilty",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-31T09:44:26.449584"
-  },
-  {
-    "title": "Analyzing Elon Musk's TeraFab A step towards Tesla and SpaceX's partial vertical integration, or an unattainable dream?",
-    "summary": "Elon Musk's TeraFab has been announced, and the first employees are now being hired. But can this venture scale to all of its terawatt glory? Or will it just help Tesla, SpaceX, and xAI land additional chips they cannot get from regular partners?",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/analyzing-elon-musks-terafab-a-step-towards-tesla-and-spacexs-partial-vertical-integration-or-an-unattainable-dream",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-31T09:44:26.449705"
-  },
-  {
-    "title": "Latest Windows 11 update is broken, refuses to install Microsoft pulls latest update over missing files error",
-    "summary": "Another month, another broken Windows update what's new? Well, this update was supposed to bring \"production-quality\" improvements, which means it's part of Microsoft's efforts to fix its AI enshittification. Ironically, the update won't even install for most users and has since been pulled with no workaround ready so far.",
-    "link": "https://www.tomshardware.com/software/windows/latest-windows-11-update-is-broken-refuses-to-install-microsoft-pulls-latest-update-over-missing-files-error",
-    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.449836"
+    "processed_date": "2026-04-01T09:49:48.430745"
   },
   {
-    "title": "Chinese chip industry leaders admit the country lags five to ten years behind in AI data center chips AI demand is straining equipment and talent supply",
-    "summary": "Senior Chinese semiconductor executives said AI-driven demand is creating bottlenecks across equipment, passive components, and workforce capacity.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinese-chip-industry-leaders-say-ai-demand-is-straining-equipment-and-talent-supply",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.449947"
-  },
-  {
-    "title": "Asus ROG Strix Morph 96 Wireless Review: Cheaper, but not really?",
-    "summary": "Asus' new ROG Strix Morph 96 Wireless keyboard is a well-built wireless mechanical gaming keyboard with great battery life and a compact 96-percent layout. It feels and sounds great and it doesn't rely on Asus' Armoury Crate, and it retails for just $140. But you can get its pricier older sibling for less, right now.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/asus-rog-strix-morph-96-wireless-review",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-31T09:44:26.450080"
-  },
-  {
-    "title": "Dell UltraSharp U3226Q 4K 32-inch QD-OLED monitor review: Pro-grade with reference-level color",
-    "summary": "Dell delivers a reference display with the UltraSharp U3226Q. It s a 32-inch QD-OLED panel with 4K, 120 Hz, Adaptive-Sync, HDR10, HLG, Dolby Vision, DisplayHDR True Black 500, industry-standard color modes and a built-in calibrator.",
-    "link": "https://www.tomshardware.com/monitors/dell-ultrasharp-u3226q-4k-32-inch-qd-oled-monitor-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-31T09:44:26.450215"
-  },
-  {
-    "title": "Dev showcases seamless, massive world with zero loading screens on N64 hardware 30-year-old Nintendo retro console coaxed into draw distances matching the scale of Skyrim",
-    "summary": "A developer has demonstrated an open-world engine in a Nintendo 64 game, which offers a 'seamless, massive world with zero loading screens' on original hardware.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/dev-showcases-seamless-massive-world-with-zero-loading-screens-on-n64-hardware-30-year-old-nintendo-retro-console-coaxed-into-draw-distances-matching-the-scale-of-skyrim",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.450333"
-  },
-  {
-    "title": "Just $151 for 32GB of Corsair Vengeance DDR5-6400 RAM when bundled with Intel's new 270K-Plus and Z890-E motherboard start your Arrow Lake refresh build for less than $800",
-    "summary": "32GB of Corsair Vengeance DDR5-6400 RAM bundled with Intel's new 270K-Plus CPU and Asus' ROG Strix Z890-E motherboard for less than $800.",
-    "link": "https://www.tomshardware.com/pc-components/just-usd151-for-32gb-of-corsair-vengeance-ddr5-6400-ram-when-bundled-with-intels-new-270k-plus-and-z890-e-motherboard-start-your-arrow-lake-refresh-build-for-less-than-usd800",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.450442"
-  },
-  {
-    "title": "Xbox 360 devkit bought for $5 at car boot sale came with 2007 beta build of GTA IV with unreleased assets Version includes cut ferry system, zombies, and more",
-    "summary": "A pre-release build of GTA IV has been discovered on an Xbox 360 devkit dating back to 2007, just a few months before the game's official release next year. The build includes various unused assets that were altered or removed for the final release, such as the iconic ferry system. People have even found zombie models for a mini game, alongside NPCs, vehicles, and much more.",
-    "link": "https://www.tomshardware.com/video-games/xbox/xbox-360-devkit-bought-for-usd5-at-car-boot-sale-came-with-2007-beta-build-of-gta-iv-with-unreleased-assets-version-includes-cut-ferry-system-zombies-and-more",
+    "title": "Nvidia invests $2 billion in Marvell to deepen NVLink Fusion partnership signs deal with one of its biggest competitors",
+    "summary": "Nvidia announced today that it has invested $2 billion in Marvell Technology and entered a partnership connecting Marvell to Nvidia's AI factory and AI-RAN ecosystem through NVLink Fusion.",
+    "link": "https://www.tomshardware.com/tech-industry/nvidia-invests-2-billion-in-marvell-to-deepen-nvlink-fusion-partnership",
     "categories": [
       "Tech News",
-      "AI & ML"
+      "GPUs"
     ],
     "quality_score": 0,
-    "processed_date": "2026-03-31T09:44:26.450589"
+    "processed_date": "2026-04-01T09:49:48.430863"
   },
   {
-    "title": "Rockchip RK3506J-based Forlinx FCU1501 fanless industrial IoT gateway offers dual Ethernet, plenty of I/Os and serial interfaces",
-    "summary": "Forlinx Technology has recently introduced the FCU1501, a rugged, fanless industrial embedded computer and IoT gateway built around the Rockchip RK3506J processor with a tri-core Cortex-A7 and a single Cortex-M0 core. The system is designed for high-reliability data acquisition and protocol conversion in harsh environments. The gateway comes in two variants (basic and extended), which have similar dimensions but differ mainly in interface density. Both models feature up to 512MB DDR3 RAM, 8GB eMMC flash, dual Fast Ethernet, dual-band Wi-Fi & Bluetooth 5.0, and 4G LTE Cat 1 support. Applications include automation, rail transit, and smart manufacturing. The system supports a wide industrial temperature range (-40 C to +85 C) and meets Level 3 EMC standards. Forlinx FCU1501 Specifications: SoC Rockchip RK3506J CPU 3x Arm Cortex-A7 cores up to 1.5 GHz Arm Cortex-M0 real-time core GPU 2D GPU only No VPU, no NPU System Memory 256MB or 512MB DDR3 Storage 256MB NAND [...] The post Rockchip RK3506J-based Forlinx FCU1501 fanless industrial IoT gateway offers dual Ethernet, plenty of I/Os and serial interfaces appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/31/rockchip-rk3506j-based-forlinx-fcu1501-fanless-industrial-iot-gateway-offers-dual-ethernet-plenty-of-i-os-and-serial-interfaces/",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-31T09:44:26.451107"
-  },
-  {
-    "title": "T-Display-P4 smartphone-like devkit features ESP32-P4 MCU, ESP32-C6 wireless SoC, and SX1262/LR2021 LoRa transceiver",
-    "summary": "LILYGO T-Display-P4 is a feature-rich ESP32-P4 + ESP32-C6 devkit, but with a smartphone-like design and support for GPS, Ethernet, and LoRaWAN through SX1262 or LR2021 LoRa transceiver, besides the usual WiFi 6, Bluetooth 5.x, and 802.15.4 wireless connectivity. The T-Display-P4 is offered with either a 4.05-inch IPS display and a 2MP front-facing camera or a 4.1-inch AMOLED with a 2MP rear camera. The devkit is equipped with 32MB PSRAM and 16MB NOR flash for the ESP32-P4, a microSD card slot, a built-in microphone and speaker, a 3.5mm audio jack, a few USB ports, and a 9-axis motion sensor, as well as a GPIO port and two Qwiic connectors for expansion. T-Display-P4 specifications: MCU ESP32-P4 CPU Dual-core RISC-V microcontroller @ 360 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz GPU 2D Pixel Processing Accelerator (PPA) VPU H.264 and [...] The post T-Display-P4 smartphone-like devkit features ESP32-P4 MCU, ESP32-C6 wireless SoC, and SX1262/LR2021 LoRa transceiver appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/03/31/t-display-p4-smartphone-like-devkit-features-esp32-p4-mcu-esp32-c6-wireless-soc-and-sx1262-lr2021-lora-transceiver/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-31T09:44:26.451306"
-  },
-  {
-    "title": "Artemis II launch planned for Wednesday with four crew, sensors",
-    "summary": "10-day mission loops around the Moon and takes crew farther an any humans have gone into space.",
-    "link": "https://www.fiercesensors.com/sensors/artemis-ii-launch-planned-wednesday-four-crew-sensors",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-03-31T09:44:26.452314"
-  },
-  {
-    "title": "Seventh group of Rising Stars named",
-    "summary": "A seventh group of Fierce Sensors Rising Stars was named to the 2026 class, all to be honored at Sensors Converge in May.",
-    "link": "https://www.fiercesensors.com/sensors/seventh-group-rising-stars-named",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-03-31T09:44:26.452456"
-  },
-  {
-    "title": "Tire sensors in cars can be used to track you",
-    "summary": "Researchers at IMDEA Networks easily collected 20,000 tire sensor signals to reveal a hidden privacy risk",
-    "link": "https://www.fiercesensors.com/sensors/tire-sensors-cars-can-be-used-track-you",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.452748"
-  },
-  {
-    "title": "Doom now runs over DNS, loading from nearly 2,000 text records",
-    "summary": "A recently released port of Doom can load into memory from Cloudflare without ever writing files to the disc. The project encodes the iconic first-person shooter's shareware version into 1,964 DNS TXT records, which boot the game via a PowerShell command. Read Entire Article",
-    "link": "https://www.techspot.com/news/111885-doom-now-runs-over-dns-loading-nearly-2000.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-03-31T09:44:26.452856"
-  },
-  {
-    "title": "Kingdom Come: Deliverance II studio axes human translator in favor of AI",
-    "summary": "Kingdom Come: Deliverance II will most likely be Warhorse Studios' last game to receive a human translation. According to a recent post by a Czech translator, the Prague-based studio is switching to LLM-based machine translations for future projects. Fans are far from thrilled as the studio's co-founder seems intent on... Read Entire Article",
-    "link": "https://www.techspot.com/news/111882-kingdom-come-deliverance-ii-studio-axes-human-translator.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.452969"
-  },
-  {
-    "title": "Price spike hits Intel Core Ultra 7 270K Plus a week after launch, but value proposition remains",
-    "summary": "The Core Ultra 5 250KF Plus, Core Ultra 5 250K Plus, and Core Ultra 7 270K Plus are selling well above MSRP on Newegg, Microcenter, B&H, Amazon, and other online retailers. For example, the 270K Plus is currently listed at $350 on Newegg, $50 above its official $300 MSRP, while... Read Entire Article",
-    "link": "https://www.techspot.com/news/111878-price-spike-hits-intel-core-ultra-7-270k.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.453084"
-  },
-  {
-    "title": "Hackers are using fake coding jobs to spread malware through GitHub",
-    "summary": "The malware at the center of it, dubbed Omnistealer by investigators, uses public blockchains not just for payments, but as part of the delivery system itself. Once running, it digs through a victim's machine and pulls out almost everything of value. Read Entire Article",
-    "link": "https://www.techspot.com/news/111870-hackers-using-fake-coding-jobs-spread-malware-through.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.453210"
-  },
-  {
-    "title": "It was 1995, 15-inch 800x600 monitors were the norm, what kind of monitor did John Carmack use to code Quake?",
-    "summary": "Pentium 133MHz days! Read Entire Article",
-    "link": "https://www.techspot.com/trivia/117-1995-15-inch-800x600-monitors-norm-what-kind/",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-03-31T09:44:26.453319"
-  },
-  {
-    "title": "Robots just installed 100 MW of solar panels in the desert",
-    "summary": "According to Maximo, its Version 3.0 robots now enable crews to install solar panels at rates previously impossible by human teams alone. Workers using the robots have been able to place as many as 24 photovoltaic modules per hour per person, supported by machines that assemble panels at a rate... Read Entire Article",
-    "link": "https://www.techspot.com/news/111874-robots-installed-100-mw-solar-panels-desert.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.453429"
-  },
-  {
-    "title": "TSMC's 3nm capacity is now reserved for its biggest customers only",
-    "summary": "TSMC's most advanced nodes are particularly bottlenecked, forcing the company to prioritize a small group of \"loyal\" clients. A recent report from DigiTimes mentions that everyone in the chip business is asking for a piece of the Taiwanese foundry, but demand far exceeds supply across the industry, with many companies... Read Entire Article",
-    "link": "https://www.techspot.com/news/111875-tsmc-3nm-capacity-now-reserved-biggest-customers-only.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.453542"
-  },
-  {
-    "title": "MSI's 200Hz gaming monitor drops to $85, undercutting most budget displays",
-    "summary": "The MSI MAG 242F is down to $85 from its usual ~$120 price, offering strong value for budget gamers. It packs a 24-inch FHD IPS panel with a 200Hz refresh rate, 0.5ms response time, and adaptive sync for smooth gameplay, along with HDMI and DisplayPort connectivity and an adjustable stand. Read Entire Article",
-    "link": "https://www.techspot.com/products/monitors/msi-mag-242f-24.323329/",
+    "title": "Iran issues direct strike threat to Nvidia, Microsoft, Apple, Google, 14 other US tech companies 'These companies should expect destruction of their facilities in response to each act of terror in Iran'",
+    "summary": "Iran's Islamic Revolutionary Guard Corps has issued a direct strike threat to a slew of U.S. tech companies including GPU giant Nvidia, Microsoft, Apple, Google, Meta, IBM, Cisco, and Tesla.",
+    "link": "https://www.tomshardware.com/tech-industry/iran-issues-direct-strike-threat-to-nvidia-microsoft-apple-google-14-other-us-tech-companies-these-companies-should-expect-destruction-of-their-facilities-in-response-to-each-act-of-terror-in-iran",
     "categories": [
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.453650"
+    "processed_date": "2026-04-01T09:49:48.430999"
   },
   {
-    "title": "Vivo X300 Ultra takes aim at DSLRs with Zeiss lenses and pro photography tools",
-    "summary": "Vivo has launched the X300 Ultra in China as a device built heavily around advanced imaging hardware, continuing a trend in which smartphone makers are trying to push deeper into territory once dominated by DSLR and mirrorless cameras. Read Entire Article",
-    "link": "https://www.techspot.com/news/111879-vivo-x300-ultra-takes-aim-dslrs-zeiss-lenses.html",
+    "title": "Nvidia DLSS 4.5 Dynamic MFG plus 5X and 6X framegen modes enter beta for RTX 50-series users update offers greater control over generated frame rates and more headroom for high-refresh-rate displays",
+    "summary": "Nvidia's DLSS 4.5 Dynamic Multi Frame Generation and its extended 5X and 6X multipliers are now available in beta for RTX 50-series owners.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-4-5-dynamic-mfg-plus-5x-and-6x-framegen-modes-enter-beta-for-rtx-50-series-users-update-offers-greater-control-over-generated-frame-rates-and-more-headroom-for-high-refresh-rate-displays",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.431118"
+  },
+  {
+    "title": "Analyzing Noctua's roadmap new PSUs, fan-equipped mice, the elusive Thermosiphon, and disappearing prototypes",
+    "summary": "We take a look at Noctua's current lineup of releases through Q2 2026, in addition to what products we might expect from them in the future, including the impressive Thermosiphon cooler.",
+    "link": "https://www.tomshardware.com/pc-components/cooling/analyzing-noctuas-roadmap-new-psus-fan-equipped-mice-the-elusive-thermosiphon-and-disappearing-prototypes",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.431225"
+  },
+  {
+    "title": "Fujitsu plans dedicated 1.4nm AI chip manufactured entirely in Japan by Rapidus AI chip to be designed and manufactured domestically",
+    "summary": "Fujitsu plans to develop an NPU fabricated on an advanced 1.4nm process by Rapidus, designed for AI inference in servers and related systems.",
+    "link": "https://www.tomshardware.com/tech-industry/fujitsu-plans-dedicated-1-4nm-ai-chip-manufactured-entirely-in-japan-by-rapidus",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.431343"
+  },
+  {
+    "title": "Geekbench investigates up to 30% jump with Intel's iBOT performance gain attributed to newly-vectorized instructions",
+    "summary": "Geekbench has taken a closer look at Intel's Binary Optimization Tool and found that it can automatically vectorize a large number of instructions.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/geekbench-investigates-up-to-30-percent-jump-with-intels-ibot-performance-gain-attributed-to-newly-vectorized-instructions",
+    "categories": [
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-31T09:44:26.453760"
+    "processed_date": "2026-04-01T09:49:48.431447"
   },
   {
-    "title": "CachyOS emerges as a fast, gaming-ready Arch Linux OS alternative",
-    "summary": "CachyOS is a performance-driven Arch Linux-based distribution that's been grabbing attention lately as more gamers and power users highlight its speed and polished out-of-the-box experience. As Linux gaming continues to gain momentum and become a bigger talking point, CachyOS is increasingly being mentioned as a go-to choice for users who want cutting-edge software without sacrificing responsiveness or control. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7828-cachyos.html",
+    "title": "Tryx Stage 360 AIO Review: Luxurious, unique, and quiet",
+    "summary": "The Tryx Stage 360 ARGB features good thermals, quiet operation, and a unique, eye-catching display. We tested it with AMD s Ryzen 9 9950X3D CPU.",
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/tryx-stage-360-aio-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-01T09:49:48.431549"
+  },
+  {
+    "title": "Kioxia discontinues 2D NAND products, last shipments to be made in 2028 1980s planar NAND memory reaches end of life",
+    "summary": "After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-discontinues-2d-nand-products-last-shipments-to-be-made-in-2028-1980s-planar-nand-memory-reaches-end-of-life",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.431647"
+  },
+  {
+    "title": "The global helium storage is a direct threat to the chipmaking supply chain disruption impacts critical processes, high-capacity HDDs, and alternative supplies are plagued by delays",
+    "summary": "Some industry analysts expect it will take Qatar around five years to regain lost capacity.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/the-global-helium-shortage-is-a-direct-threat-to-chipmaking",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.431758"
+  },
+  {
+    "title": "YoloLiv YoloCam S3 Review: A 4K powerhouse",
+    "summary": "YoloLiv's YoloCam S3 is a small, sturdy 4K/30 fps webcam that delivers excellent video once you spend some time fiddling with the software. It's got a large sensor, a wide 82-degree field of view, and lightning-fast autofocus, but you'll need to plug it into a USB 3.0 port for it to function.",
+    "link": "https://www.tomshardware.com/peripherals/webcams/yololiv-yolocam-s3-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-01T09:49:48.431865"
+  },
+  {
+    "title": "Starlink satellite 34343 disappears in fragment creation event observation 'immediately detected tens of objects in the vicinity of the satellite after the event'",
+    "summary": "Starlink posted an update on satellite 34343, which it lost communications with on Sunday after a debris generation incident.",
+    "link": "https://www.tomshardware.com/service-providers/network-providers/starlink-satellite-34343-disappears-in-fragment-creation-event-observation-immediately-detected-tens-of-objects-in-the-vicinity-of-the-satellite-after-the-event",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.431986"
+  },
+  {
+    "title": "One of JavaScript's most popular libraries compromised by hackers Axios npm package hit in supply chain attack that deployed a cross-platform RAT",
+    "summary": "An attacker compromised the npm account of a lead Axios maintainer on March 30, and used it to publish two malicious versions of the widely used JavaScript HTTP client library.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/axios-npm-package-compromised-in-supply-chain-attack-that-deployed-a-cross-platform-rat",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.432095"
+  },
+  {
+    "title": "Save a huge $100 on this vivid 27-inch MSI OLED monitor with fast 240Hz refresh rate now $399.99, this MAG QD-OLED model is close to its lowest price ever on Newegg",
+    "summary": "Get this MSI 27-inch 4K QD-OLED monitor for just $399.99. Enjoy vibrant colors, true blacks, a 240Hz refresh rate, and ultra-fast response time perfect for gaming and productivity, and an all-time low price",
+    "link": "https://www.tomshardware.com/pc-components/save-a-huge-usd100-on-this-vivid-27-inch-msi-oled-monitor-with-fast-240hz-refresh-rate-now-usd399-99-this-mag-qd-oled-model-is-close-to-its-lowest-price-ever-on-newegg",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.432207"
+  },
+  {
+    "title": "US PC sales grow by 3% in late 2025 as companies and consumers scrambled to replace Windows 10 2026 forecast sees 13% drop as storage and memory prices expected to climb another 60%",
+    "summary": "Research firm Omdia says that the PC market grew by 3% in in the last quarter of 2025 due to holiday sales and the Windows 10 EOL. Unfortunately, 2026 is expected to be a rough year with an expected 13% contraction in sales due to the chip shortages.",
+    "link": "https://www.tomshardware.com/tech-industry/us-pc-sales-grow-by-3-percent-in-late-2025-as-companies-and-consumers-scrambled-to-replace-windows-10-2026-forecast-sees-13-percent-drop-as-storage-and-memory-prices-expected-to-climb-another-60-percent",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-01T09:49:48.432324"
+  },
+  {
+    "title": "At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market backup copious amounts of data for $389",
+    "summary": "It's World Backup Day! Have you considered how your data is protected and stored?",
+    "link": "https://www.tomshardware.com/pc-components/external-hdds/at-just-usd17-68-per-terabyte-this-22tb-external-seagate-expansion-hdd-is-one-of-the-cheapest-hard-drives-on-the-market-backup-copious-amounts-of-data-for-usd389",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.432437"
+  },
+  {
+    "title": "Modder gets Intel's OEM-only 'Bartlett Lake' CPU to post on a regular Asus Z790 motherboard BIOS was edited by Claude AI to make Core Ultra 9 273QPE boot",
+    "summary": "An enthusiast has managed to get Intel's non-consumer Bartlett Lake CPU running on a regular Z790 motherboard, thanks to AI. Claude modded the original BIOS of the board to detect a Core 9 273QPE and boot with it, but the setup hasn't gotten past the POST screen yet, and the modder is currently facing various error codes.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/modder-gets-intels-oem-only-bartlett-lake-cpu-to-post-on-a-regular-asus-z790-motherboard-bios-was-edited-by-claude-ai-to-make-core-ultra-9-273qpe-boot",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.432556"
+  },
+  {
+    "title": "NES-inspired synthesizer doubles as a working game console luggable polyphonic synth plays chip tunes and NES cartridges, too",
+    "summary": "A maker with a love for synthesizers and retro gaming has showcased their latest project, the NES-SY2.0.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/diy-nes-sy2-0-synthesizer-doubles-as-a-game-console-luggable-polyphonic-synth-plays-chip-tunes-and-nes-cartridges-too",
+    "categories": [
+      "Semiconductors",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.432657"
+  },
+  {
+    "title": "This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s",
+    "summary": "Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD enclosure, shaped like an old floppy disk.",
+    "link": "https://www.tomshardware.com/pc-components/storage/this-usd28-floppy-disk-ssd-enclosure-is-a-fun-and-fast-way-to-keep-your-storage-safe-both-practical-and-nostalgic-this-rugged-usb-c-aluminum-enclosure-for-m-2-drives-supports-speeds-of-up-to-1-200-mb-s",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.432778"
+  },
+  {
+    "title": "Bitcoin network has its first quarterly hashrate drop since 2020 Iran conflict spurs Bitcoin mining operators to accelerate pivot to AI infrastructure",
+    "summary": "Bitcoin miners are pivoting to AI infrastructure amidst the conflict in Iran. The BTC network has seen its first quarterly hashrate drop in nearly six years.",
+    "link": "https://www.tomshardware.com/tech-industry/cryptomining/iran-conflict-forces-bitcoin-mining-operators-to-pivot-to-ai-infrastructure-btc-network-sees-the-first-quarterly-hashrate-drop-since-2020",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.432882"
+  },
+  {
+    "title": "Telink TL3228 Low-power, low-latency dual-core RISC-V wireless MCU supports Bluetooth 6.0, 802.15.4, and 2.4 GHz proprietary",
+    "summary": "Telink has launched the TL322x wireless MCU family, starting with the TL3228, featuring a 192 MHz dual-core RISC-V MCU, and supporting Bluetooth 6.0, Matter, Thread, Zigbee, RF4CE, and proprietary 2.4GHz protocols for Smart Home, asset tracking, 8K gaming accessories, and more The chip supports the recent Bluetooth features such as Channel Sounding, AoA/AoD, and LE Audio, as well as the company s proprietary HDT technology delivering up to 6 Mbps data rate and ultra-low latency. Telink TL3228 specifications: Dual-core CPU 32-bit Andes D25F RISC-V core with FPU up to 192 MHz 32-bit Andes N22 RISC-V core Memory 384 KB SRAM Storage 2.5 MB of NVM (Flash + RRAM) Connectivity Bluetooth 6.0 Channel Sounding Mesh Networking Bluetooth LE AoA/AoD location services 802.15.4 radio for Zigbee, Thread, Matter, RF4CE 2.4GHz Proprietary 2.4GHz radio data rates 1Mbps, 2Mbps, 4Mbps, 6Mbps; Bluetooth LE PHY: LE 2M, LE Coded Bluetooth LE Multiple Connections 4x [...] The post Telink TL3228 Low-power, low-latency dual-core RISC-V wireless MCU supports Bluetooth 6.0, 802.15.4, and 2.4 GHz proprietary appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/01/telink-tl3228-low-power-low-latency-dual-core-risc-v-wireless-mcu-supports-bluetooth-6-0-802-15-4-and-2-4-ghz-proprietary/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-01T09:49:48.433338"
+  },
+  {
+    "title": "Toradex OSM and Lino SoMs 30 30mm NXP i.MX 93/i.MX 91 modules with solder-down or B2B connector designs",
+    "summary": "Toradex has launched two new ultra-compact (30x30mm) System-on-Module (SoM) families: OSM and Lino, powered by NXP i.MX 91 or i.MX 93 Arm Cortex-A55 SoC for Edge industrial and IoT applications. The OSM iMX91 and OSM iMX93 variants comply with the OSM Size-S standard, featuring a 332-ball contact grid designed to be soldered to the carrier board. The Lino is a proprietary format that keeps the OSM Size-S dimensions but features two board-to-board (B2B) connectors offering more flexibility for potential replacement or future upgrades. Toradex Lino iMX91/iMX93 system-on-module Toradex Lino specifications: SoC (one or the other) NXP i.MX 93 CPU 2x Arm Cortex-A55 up to 1.7 GHz 2x Arm Cortex-M33 up to 250 MHz GPU PXP 2D GPU with blending/composition, resize, and color space conversion NPU Arm Ethos-U65 NPU @ 1 GHz up to 0.5 TOPS Security EdgeLock Secure Enclave NXP i.MX 91 CPU Single-core Arm Cortex-A55 [...] The post Toradex OSM and Lino SoMs 30 30mm NXP i.MX 93/i.MX 91 modules with solder-down or B2B connector designs appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/03/31/toradex-osm-and-lino-soms-30x30mm-nxp-i-mx-93-i-mx-91-modules-with-solder-down-or-b2b-connector-designs/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-01T09:49:48.433510"
+  },
+  {
+    "title": "Sensors on Orion will monitor solar radiation to keep crew safe",
+    "summary": "During severe solar flares, astronauts will create a makeshift shelter",
+    "link": "https://www.fiercesensors.com/sensors/sensors-orion-will-monitor-solar-radiation-keep-crew-safe",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-01T09:49:48.434464"
+  },
+  {
+    "title": "AMD says it will buy Intel, completing the strangest reversal in chip history",
+    "summary": "The all-stock transaction, which AMD described as a \"once-in-a-generation opportunity to unify x86 innovation,\" would combine the two companies under a single umbrella just a few years after such an outcome would have sounded ridiculous. Read Entire Article",
+    "link": "https://www.techspot.com/news/111906-amd-buy-intel-completing-strangest-reversal-chip-history.html",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-01T09:49:48.434748"
+  },
+  {
+    "title": "The Windows Command Prompt is getting faster, smarter, and a lot more modern",
+    "summary": "One key addition is support for rendering inline graphics such as Sixel images, allowing advanced command-line tools like the Windows Package Manager (WinGet) to display app icons and other visuals directly in the console. Read Entire Article",
+    "link": "https://www.techspot.com/news/111895-windows-command-prompt-getting-faster-smarter-lot-more.html",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.434856"
+  },
+  {
+    "title": "Disney's gaming push could one day include buying Epic Games",
+    "summary": "Sources newsletter author Alex Heath recently said he \"knows for a fact\" that some senior Disney executives are waiting for the right moment to buy Fortnite and Unreal Engine developer Epic Games. However, others within the company disagree. Read Entire Article",
+    "link": "https://www.techspot.com/news/111899-disney-gaming-push-could-one-day-include-buying.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.434997"
+  },
+  {
+    "title": "RTX 60 series leaks are everywhere, but Nvidia hasn't finalized the GPUs yet",
+    "summary": "According to VideoCardz and other sources, detailed specifications for Rubin-based gaming GPUs simply don't exist in finalized form yet, that's despite a flood of confident claims circulating across social media and YouTube last weekend. Read Entire Article",
+    "link": "https://www.techspot.com/news/111887-rtx-60-series-leaks-everywhere-but-nvidia-hasnt.html",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-31T09:44:26.453881"
+    "processed_date": "2026-04-01T09:49:48.435158"
   },
   {
-    "title": "Amazon is spending $4 billion to bring next-day delivery service to rural America",
-    "summary": "The stakes are high because rural residents collectively spend about $1 trillion a year on clothing, electronics, household goods, and other items roughly 20% of US retail purchases, excluding autos and gasoline, according to Morgan Stanley. Read Entire Article",
-    "link": "https://www.techspot.com/news/111877-amazon-spending-4-billion-bring-next-day-delivery.html",
+    "title": "Nvidia App beta enables DLSS 4.5 with dynamic frame-gen, automatic shader compilation",
+    "summary": "Nvidia DLSS 4.5 with dynamic frame generation is now available for RTX 50 GPUs using the Nvidia App (enable beta updates). The feature adjusts frame-gen in real time to balance performance and image quality. The update also adds MFG modes of up to 6x, along with beta automatic shader compilation to reduce in-game stutter. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7608-nvidia-app.html",
     "categories": [
+      "GPUs",
       "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.453988"
-  },
-  {
-    "title": "You can buy a $10,000 iPhone 17 Pro with a piece of Steve Jobs' turtleneck embedded inside",
-    "summary": "Caviar is launching the extravagant device to coincide with Apple's 50th anniversary this year, hence its inclusion of the \"50 Anniversary Edition\" text on the rear. Read Entire Article",
-    "link": "https://www.techspot.com/news/111876-you-can-buy-10000-iphone-17-pro-piece.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.454094"
-  },
-  {
-    "title": "Microsoft plans 100% native Windows 11 apps in major shift away from web wrappers",
-    "summary": "Rudy Huyn, a Partner Architect at Microsoft working on the Store and File Explorer, said in a post on X that he is building a new team to work on Windows apps. \"You don't need prior experience with the platform.. what matters most is strong product thinking and a deep... Read Entire Article",
-    "link": "https://www.techspot.com/news/111872-microsoft-plans-100-native-windows-11-apps-major.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.454218"
-  },
-  {
-    "title": "ChatGPT isn't getting spicier OpenAI puts adult mode on indefinite hold",
-    "summary": "Unlike competitor Grok, which is famed for its Spicy mode and less strict guardrails, OpenAI has shied away from ChatGPT generating x-rated material since the chatbot launched. Read Entire Article",
-    "link": "https://www.techspot.com/news/111873-chatgpt-isnt-getting-spicier-openai-puts-adult-mode.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-03-31T09:44:26.454337"
+    "processed_date": "2026-04-01T09:49:48.435290"
   },
   {
-    "title": "New magnetic field system enables wireless communication 100 meters underground",
-    "summary": "Traditional radio-based systems often suffer severe attenuation underground, as soil and rock absorb or scatter electromagnetic waves. By contrast, magnetic induction uses low-frequency magnetic fields that can propagate through solid ground with less attenuation than conventional radio waves. Read Entire Article",
-    "link": "https://www.techspot.com/news/111869-new-magnetic-field-system-enables-wireless-data-transmission.html",
+    "title": "Microsoft halts Windows 11 update after users report installation errors",
+    "summary": "According to the official KB5079391 change log, the rollout was paused because users are seeing an \"error 0x80073712\" message during installation. Microsoft explains that this error occurs when files are missing or corrupted, preventing the update from completing successfully. Read Entire Article",
+    "link": "https://www.techspot.com/news/111884-microsoft-halts-windows-11-update-after-users-report.html",
     "categories": [
-      "Semiconductors"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-03-31T09:44:26.454451"
+    "processed_date": "2026-04-01T09:49:48.435402"
   },
   {
-    "title": "Audiophile myth challenged as $4,000 boutique audio cable fails to beat $7 Amazon Basics in lab test",
-    "summary": "YouTube channel Audio Science Review compares Kimber's boutique KS 1036 interconnects with a battered Amazon Basics cable that host Amir says he's used for years without issue. Read Entire Article",
-    "link": "https://www.techspot.com/news/111871-audiophile-myth-challenged-4000-boutique-audio-cable-fails.html",
+    "title": "Delta is bringing free Wi-Fi to flights using Amazon's satellites",
+    "summary": "Think of Leo as Amazon's version of SpaceX Starlink. The division was established in 2019 and is the third largest satellite system in orbit according to the company. Even still, Leo does feel a bit behind the competition in terms of the sheer size of its constellation. Read Entire Article",
+    "link": "https://www.techspot.com/news/111896-amazon-leo-satellites-power-flight-wi-fi-500.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.435514"
+  },
+  {
+    "title": "GitHub pulls Copilot \"feature\" after it added advertising to more than 11,000 pull requests",
+    "summary": "\"Quickly spin up Copilot coding agents from anywhere on your macOS or Windows machine with Raycast,\" the note said, accompanied by a lightning bolt emoji and a link to install the app. Read Entire Article",
+    "link": "https://www.techspot.com/news/111892-github-disables-copilot-pr-edits-after-ai-quietly.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.435619"
+  },
+  {
+    "title": "PDFsam 6.0 adds compression tools and PDF 2.0 support",
+    "summary": "PDFsam Basic is a free, open-source tool for splitting, merging, and organizing PDFs. Version 6.0 adds three compression modes, better support for PDF 2.0 and UTF-8 text, stronger handling for malformed files, and more quality-of-life improvements. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7471-pdfsam.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.435723"
+  },
+  {
+    "title": "A Supermicro co-founder is accused of smuggling $2.5B in AI servers to China",
+    "summary": "Federal authorities recently charged Yih-Shyan Liaw, along with a company employee and an outside contractor, with smuggling roughly $2.5 billion worth of such servers to China. The case not only jolted investors Supermicro's stock lost a third of its value the following day but also reignited debate in... Read Entire Article",
+    "link": "https://www.techspot.com/news/111891-massive-25b-smuggling-case-exposes-loopholes-us-ai.html",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.435837"
+  },
+  {
+    "title": "Instagram is testing a new paid tier that allows users to watch Stories anonymously",
+    "summary": "Instagram is testing a new subscription to the photo-and-video-sharing service called Instagram Plus. Pilot schemes have started in Mexico, Japan, and the Philippines, and it'll likely make its way to the US eventually. Read Entire Article",
+    "link": "https://www.techspot.com/news/111894-instagram-testing-new-paid-tier-allows-users-watch.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.435964"
+  },
+  {
+    "title": "Students in China are renting smart glasses to cheat on exams",
+    "summary": "Vivian, a university student in Hebei province who requested a pseudonym to speak freely to Rest of World, said her Rokid glasses help her pass difficult subjects. \"Any subject that I may fail at,\" she said. The glasses can read text from her exam paper and project answers directly onto... Read Entire Article",
+    "link": "https://www.techspot.com/news/111888-students-china-renting-ai-glasses-cheat-exams-surprisingly.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.436079"
+  },
+  {
+    "title": "Samsung wants $400 for a tablet keyboard, even more than Apple",
+    "summary": "Samsung released a $210 Book Cover Keyboard Slim for the Galaxy Tab S11 Ultra when the tablet launched. It arrived alongside a more expensive option, the Pro Keyboard, in Korea earlier this month, and it's now available in the US. Read Entire Article",
+    "link": "https://www.techspot.com/news/111890-samsung-new-galaxy-tab-s11-ultra-pro-keyboard.html",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-01T09:49:48.436189"
+  },
+  {
+    "title": "New RCS standard could enable cross-platform video calls, if Apple and Google play along",
+    "summary": "While the upgrade is technical in nature, its implications are broad. If widely adopted, it could allow an Android user and an iPhone owner to move a conversation from text to video within their native messaging apps no third-party links or app downloads required. GSMA describes this as a... Read Entire Article",
+    "link": "https://www.techspot.com/news/111889-new-rcs-standard-could-enable-cross-platform-video.html",
+    "categories": [
+      "Tech News"
+    ],
     "quality_score": 10,
-    "processed_date": "2026-03-31T09:44:26.454575"
+    "processed_date": "2026-04-01T09:49:48.436299"
+  },
+  {
+    "title": "Apple M5 Max MacBooks are getting surprisingly close to real gaming PCs",
+    "summary": "Since Apple introduced new MacBook Pro models featuring the M5 Pro and M5 Max processors earlier this month, YouTuber Andrew Tsai has analyzed their performance in dozens of high-end PC games. Although MacBooks are not traditionally seen as gaming devices, Tsai's results suggest that the latest models can handle numerous... Read Entire Article",
+    "link": "https://www.techspot.com/news/111881-apple-m5-max-macbooks-getting-surprisingly-close-real.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-01T09:49:48.436415"
+  },
+  {
+    "title": "Americans are using AI more, but fear of job losses is growing",
+    "summary": "Quinnipiac University's survey, which questioned 1,397 adults, found that while Americans are increasing their use of AI, their views on artificial intelligence are becoming more negative. Read Entire Article",
+    "link": "https://www.techspot.com/news/111893-americans-using-ai-more-but-fear-job-losses.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.436518"
+  },
+  {
+    "title": "\"Tech neck\" is becoming a new concern as phone use reshapes how we age",
+    "summary": "\"Some of those fixed dramatic horizontal lines do become worse because people are literally spending hours on their phone and looking down,\" Dr. Melanie Palm, a cosmetic dermatologist in Solana Beach, California, told The Wall Street Journal. Read Entire Article",
+    "link": "https://www.techspot.com/news/111880-tech-neck-becoming-new-concern-phone-use-reshapes.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-01T09:49:48.436623"
   }
 ]

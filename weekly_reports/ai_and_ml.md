@@ -1,5 +1,5 @@
 # 🤖 AI & ML
-**Week of March 31, 2026**
+**Week of April 01, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
@@ -7,199 +7,199 @@
 
 ## 📊 Summary
 - **Articles this week:** 19
-- **Report generated:** 2026-03-31 09:45
+- **Report generated:** 2026-04-01 09:51
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. TSMC industrial espionage saga heading to verdict next month in unprecedented Taiwan National Security Act case former engineer accused of stealing 2nm technical info, faces a total of up to 20 years in prison if found guilty 
+### 1. Geekbench investigates up to 30% jump with Intel's iBOT performance gain attributed to newly-vectorized instructions 
 
-A former TSMC engineer faces verdict for stealing 2nm technical info, potentially up to 20 years in prison if found guilty. The case is one of three landmark cases involving trade secret theft from TSMC. A verdict is scheduled for April 27.
+Intel's iBOT tool can automatically vectorize many instructions, leading to improved performance in Geekbench tests. This optimization tool is capable of enhancing performance by up to 30%. The results indicate a significant advantage for Intel processors.
 
-💡 *Taiwan National Security Act implications for trade secret protection worldwide matter*
+💡 *Automated vectorization boosts performance through optimized instruction sets.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-industrial-espionage-saga-heading-to-verdict-next-month-in-unprecedented-taiwan-national-security-act-case-former-engineer-accused-of-stealing-2nm-technical-info-faces-a-total-of-up-to-20-years-in-prison-if-found-guilty)
-
----
-
-### 2. Analyzing Elon Musk's TeraFab A step towards Tesla and SpaceX's partial vertical integration, or an unattainable dream? 
-
-Elon Musk's TeraFab aims to manufacture terawatts of semiconductors, supporting Tesla and SpaceX's vertical integration goals. However, scaling this massive project remains uncertain. The venture's success will impact the companies' reliance on external chip suppliers.
-
-💡 *TeraFab's success hinges on solving complex semiconductor manufacturing challenges.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/analyzing-elon-musks-terafab-a-step-towards-tesla-and-spacexs-partial-vertical-integration-or-an-unattainable-dream)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/geekbench-investigates-up-to-30-percent-jump-with-intels-ibot-performance-gain-attributed-to-newly-vectorized-instructions)
 
 ---
 
-### 3. Vivo X300 Ultra takes aim at DSLRs with Zeiss lenses and pro photography tools 
+### 2. RTX 60 series leaks are everywhere, but Nvidia hasn't finalized the GPUs yet 
 
-Vivo's X300 Ultra smartphone features advanced imaging hardware with Zeiss lenses, targeting DSLR territory.
+Nvidia hasn't finalized RTX 60 series GPU specifications yet, despite leaks. Multiple sources, including VideoCardz, confirm this. The exact details are still uncertain.
 
-💡 *Smartphone makers blur lines between mobile and professional photography capabilities.*
+💡 *Leaked claims may mislead consumers about upcoming GPU tech.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111879-vivo-x300-ultra-takes-aim-dslrs-zeiss-lenses.html)
-
----
-
-### 4. CachyOS emerges as a fast, gaming-ready Arch Linux OS alternative 
-
-CachyOS is a fast, gaming-ready Arch Linux distribution with a polished experience.
-
-💡 *CachyOS offers gamers cutting-edge software without sacrificing responsiveness or control.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/7828-cachyos.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111887-rtx-60-series-leaks-everywhere-but-nvidia-hasnt.html)
 
 ---
 
-### 5. ChatGPT isn't getting spicier OpenAI puts adult mode on indefinite hold 
+### 3. Nvidia App beta enables DLSS 4.5 with dynamic frame-gen, automatic shader compilation 
 
-OpenAI has put ChatGPT's adult mode on indefinite hold, differing from Grok's approach.
+Nvidia's DLSS 4.5 with dynamic frame-gen is now available for RTX 50 GPUs, offering real-time performance and image quality balancing. This update also includes higher MFG modes and automatic shader compilation to reduce in-game stutter. Users can enable the feature by updating the Nvidia App to its beta version.
 
-💡 *OpenAI prioritizes family-friendly content over adult-oriented chatbot features.*
+💡 *Boosts gaming performance with adaptive AI-enhanced rendering technology*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111873-chatgpt-isnt-getting-spicier-openai-puts-adult-mode.html)
-
----
-
-### 6. Audiophile myth challenged as $4,000 boutique audio cable fails to beat $7 Amazon Basics in lab test 
-
-Audiophile myth is challenged as a $4,000 cable fails to outperform a $7 Amazon Basics cable in lab tests, highlighting the limitations of high-end audio equipment.
-
-💡 *Expensive audio equipment may not guarantee superior audio quality.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111871-audiophile-myth-challenged-4000-boutique-audio-cable-fails.html)
+🔗 [Read Full Article](https://www.techspot.com/downloads/7608-nvidia-app.html)
 
 ---
 
-### 7. Revolut Bank ordered to hand over details of more than 300 Sky TV subscribers connected to piracy operation TV provider expected to pursue subscribers who paid for illicit 'IPTV is Easy' service in unprecedented move 
+### 4. Apple M5 Max MacBooks are getting surprisingly close to real gaming PCs 
 
-Ireland's High Court ordered Revolut Bank to hand over details of 304 Sky TV subscribers connected to a piracy operation. The order is aimed at pursuing those who paid for an illicit 'IPTV is Easy' service. Sky will receive names, addresses, and banking details from the bank.
+Apple's M5 Max MacBooks show surprising potential in high-end PC games, challenging traditional views of Macs as non-gaming devices.
 
-💡 *Pursuing pirates in the digital age gets a boost in transparency*
+💡 *Gaming on MacBooks becomes a viable, portable alternative to dedicated gaming PCs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/service-providers/tv-providers/sky-wins-irish-court-order-forcing-revolut-to-unmask-over-300-pirate-iptv-subscribers)
-
----
-
-### 8. Latest Windows 11 update is broken, refuses to install Microsoft pulls latest update over missing files error 
-
-The latest Windows 11 update has been pulled due to a missing file error, preventing installation for many users. This update aimed to bring production-quality improvements, particularly in AI-related issues. There is no readily available workaround as of now.
-
-💡 *Windows 11 update failure exposes Microsoft's ongoing quality control issues.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/latest-windows-11-update-is-broken-refuses-to-install-microsoft-pulls-latest-update-over-missing-files-error)
+🔗 [Read Full Article](https://www.techspot.com/news/111881-apple-m5-max-macbooks-getting-surprisingly-close-real.html)
 
 ---
 
-### 9. Chinese chip industry leaders admit the country lags five to ten years behind in AI data center chips AI demand is straining equipment and talent supply 
+### 5. We go hands-on with Nvidia's DLSS 4.5 Dynamic Multi Frame Generation and its 5X and 6X multipliers more generated frames, now tailor-made for your monitor's refresh rate 
 
-Chinese chip industry leaders acknowledge a significant gap in AI data center chips, with AI demand straining equipment and talent supply.
+Nvidia's DLSS 4.5 offers improved frame generation for high-end GPUs, tailored to monitor refresh rates.
 
-💡 *China lags behind in AI data center chip technology development.*
+💡 *Enhancing gaming performance with AI-generated frames for smoother visuals.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/chinese-chip-industry-leaders-say-ai-demand-is-straining-equipment-and-talent-supply)
-
----
-
-### 10. Dev showcases seamless, massive world with zero loading screens on N64 hardware 30-year-old Nintendo retro console coaxed into draw distances matching the scale of Skyrim 
-
-A developer has created an open-world engine on original Nintendo 64 hardware, showcasing massive worlds with zero loading screens. This achievement pushes the limits of what was thought possible on the 30-year-old retro console. The engine rivals the draw distances of the iconic game Skyrim.
-
-💡 *Revolutionizing retro console gaming with unprecedented open-world capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/dev-showcases-seamless-massive-world-with-zero-loading-screens-on-n64-hardware-30-year-old-nintendo-retro-console-coaxed-into-draw-distances-matching-the-scale-of-skyrim)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/we-go-hands-on-with-nvidias-dlss-4-5-dynamic-multi-frame-generation-and-its-5x-and-6x-multipliers-more-generated-frames-now-tailor-made-for-your-monitors-refresh-rate)
 
 ---
 
-### 11. Just $151 for 32GB of Corsair Vengeance DDR5-6400 RAM when bundled with Intel's new 270K-Plus and Z890-E motherboard start your Arrow Lake refresh build for less than $800 
+### 6. Nvidia DLSS 4.5 Dynamic MFG plus 5X and 6X framegen modes enter beta for RTX 50-series users update offers greater control over generated frame rates and more headroom for high-refresh-rate displays 
 
-Upgrade to a powerful Arrow Lake build with 32GB of DDR5 RAM, Intel's 270K-Plus CPU, and Asus' ROG Strix Z890-E motherboard for under $800.
+Nvidia's DLSS 4.5 Dynamic Multi Frame Generation enters beta for RTX 50-series users, offering greater control over generated frame rates and more headroom for high-refresh-rate displays with extended 5X and 6X multipliers.
 
-💡 *Affordable high-performance build options emerge with Intel's Arrow Lake refresh.*
+💡 *Enhanced DLSS boosts frame rates for high-refresh-rate gaming experiences.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/just-usd151-for-32gb-of-corsair-vengeance-ddr5-6400-ram-when-bundled-with-intels-new-270k-plus-and-z890-e-motherboard-start-your-arrow-lake-refresh-build-for-less-than-usd800)
-
----
-
-### 12. Kingdom Come: Deliverance II studio axes human translator in favor of AI 
-
-Warhorse Studios is switching to AI-based translations for future games, sparking fan discontent.
-
-💡 *Loss of human touch in game translation may compromise cultural authenticity.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111882-kingdom-come-deliverance-ii-studio-axes-human-translator.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-4-5-dynamic-mfg-plus-5x-and-6x-framegen-modes-enter-beta-for-rtx-50-series-users-update-offers-greater-control-over-generated-frame-rates-and-more-headroom-for-high-refresh-rate-displays)
 
 ---
 
-### 13. Price spike hits Intel Core Ultra 7 270K Plus a week after launch, but value proposition remains 
+### 7. Fujitsu plans dedicated 1.4nm AI chip manufactured entirely in Japan by Rapidus AI chip to be designed and manufactured domestically 
 
-The Intel Core Ultra 7 270K Plus experiences a price spike just after launch, with prices exceeding its MSRP on various online retailers. Despite this, its value proposition remains intact for many users. The price increase is attributed to high demand.
+Fujitsu is developing a 1.4nm AI chip with Rapidus for AI inference in servers.
 
-💡 *High demand drives price spike, despite Intel Core's strong value proposition.*
+💡 *Advances Japan's domestic AI chip manufacturing capabilities significantly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111878-price-spike-hits-intel-core-ultra-7-270k.html)
-
----
-
-### 14. Hackers are using fake coding jobs to spread malware through GitHub 
-
-Hackers are using fake coding jobs to spread malware through GitHub, which uses public blockchains as part of its delivery system.
-
-💡 *Malware leverages public blockchains for delivery and data exfiltration.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111870-hackers-using-fake-coding-jobs-spread-malware-through.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/fujitsu-plans-dedicated-1-4nm-ai-chip-manufactured-entirely-in-japan-by-rapidus)
 
 ---
 
-### 15. Robots just installed 100 MW of solar panels in the desert 
+### 8. The global helium storage is a direct threat to the chipmaking supply chain disruption impacts critical processes, high-capacity HDDs, and alternative supplies are plagued by delays 
 
-Robots have greatly increased solar panel installation efficiency and speed in the desert, enabling 100 MW of solar panels to be installed.
+Global helium storage shortages threaten chipmaking supply chains due to lost capacity, impacting critical processes and high-capacity HDDs. Alternative supplies are plagued by delays. It may take Qatar around five years to regain lost capacity.
 
-💡 *Robot-assisted installation boosts solar energy deployment at unprecedented rates.*
+💡 *Helium shortages imperil high-tech industries with long recovery timelines.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111874-robots-installed-100-mw-solar-panels-desert.html)
-
----
-
-### 16. TSMC's 3nm capacity is now reserved for its biggest customers only 
-
-TSMC's 3nm capacity is limited, forcing it to prioritize loyal clients. Demand far exceeds supply, with many companies seeking access to the Taiwanese foundry's advanced nodes. This bottleneck affects the entire chip industry.
-
-💡 *Limited supply outstrips demand, prioritizing loyal clients over others*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111875-tsmc-3nm-capacity-now-reserved-biggest-customers-only.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/the-global-helium-shortage-is-a-direct-threat-to-chipmaking)
 
 ---
 
-### 17. Amazon is spending $4 billion to bring next-day delivery service to rural America 
+### 9. One of JavaScript's most popular libraries compromised by hackers Axios npm package hit in supply chain attack that deployed a cross-platform RAT 
 
-Amazon is investing $4 billion in next-day delivery for rural Americans, targeting a significant market of $1 trillion in annual retail purchases.
+Axios, a popular JavaScript library, was compromised in a supply chain attack. The attackers published two malicious versions of the library after gaining access to the npm account of a lead maintainer. The attack allowed the deployment of a cross-platform remote access tool.
 
-💡 *Rural residents spend 20% of US retail purchases annually.*
+💡 *Popular open-source libraries can be vulnerable to targeted supply chain attacks.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111877-amazon-spending-4-billion-bring-next-day-delivery.html)
-
----
-
-### 18. Microsoft plans 100% native Windows 11 apps in major shift away from web wrappers 
-
-Microsoft plans to create 100% native Windows 11 apps, shifting away from web wrappers. A new team will work on building these apps, with a focus on strong product thinking. This change aims to improve user experience and app performance.
-
-💡 *Native apps improve user experience and app performance significantly always*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111872-microsoft-plans-100-native-windows-11-apps-major.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/axios-npm-package-compromised-in-supply-chain-attack-that-deployed-a-cross-platform-rat)
 
 ---
 
-### 19. Xbox 360 devkit bought for $5 at car boot sale came with 2007 beta build of GTA IV with unreleased assets Version includes cut ferry system, zombies, and more 
+### 10. Save a huge $100 on this vivid 27-inch MSI OLED monitor with fast 240Hz refresh rate now $399.99, this MAG QD-OLED model is close to its lowest price ever on Newegg 
 
-A pre-release 2007 build of GTA IV was discovered on an Xbox 360 devkit. The build includes unused assets such as the ferry system, zombies, NPCs, and vehicles. This suggests significant changes were made during the game's development.
+Get the MSI 27-inch 4K QD-OLED monitor for $399.99, featuring vibrant colors, 240Hz refresh rate, and true blacks, perfect for gaming and productivity.
 
-💡 *Rare glimpse into GTA IV's pre-release development and scrapped features*
+💡 *Save a huge $100 on a high-end gaming monitor.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/xbox-360-devkit-bought-for-usd5-at-car-boot-sale-came-with-2007-beta-build-of-gta-iv-with-unreleased-assets-version-includes-cut-ferry-system-zombies-and-more)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-a-huge-usd100-on-this-vivid-27-inch-msi-oled-monitor-with-fast-240hz-refresh-rate-now-usd399-99-this-mag-qd-oled-model-is-close-to-its-lowest-price-ever-on-newegg)
+
+---
+
+### 11. Modder gets Intel's OEM-only 'Bartlett Lake' CPU to post on a regular Asus Z790 motherboard BIOS was edited by Claude AI to make Core Ultra 9 273QPE boot 
+
+An enthusiast used AI to mod a BIOS to run Intel's non-consumer 'Bartlett Lake' CPU on a regular Z790 motherboard, but it hasn't passed the POST screen yet.
+
+💡 *Unlocking OEM-only CPU compatibility with AI-driven BIOS modifications matters for enthusiasts seeking exclusive hardware access.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/modder-gets-intels-oem-only-bartlett-lake-cpu-to-post-on-a-regular-asus-z790-motherboard-bios-was-edited-by-claude-ai-to-make-core-ultra-9-273qpe-boot)
+
+---
+
+### 12. Bitcoin network has its first quarterly hashrate drop since 2020 Iran conflict spurs Bitcoin mining operators to accelerate pivot to AI infrastructure 
+
+Bitcoin miners are pivoting to AI infrastructure amid Iran conflict. The conflict has led to a first quarterly hashrate drop in nearly six years. This shift suggests a major change in the Bitcoin mining landscape.
+
+💡 *Bitcoin mining's pivot to AI infrastructure marks a significant industry shift.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptomining/iran-conflict-forces-bitcoin-mining-operators-to-pivot-to-ai-infrastructure-btc-network-sees-the-first-quarterly-hashrate-drop-since-2020)
+
+---
+
+### 13. Disney's gaming push could one day include buying Epic Games 
+
+Disney may be considering acquiring Epic Games, Fortnite's developer, in the future.
+
+💡 *Potential Disney acquisition could expand Disney's gaming capabilities and reach.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111899-disney-gaming-push-could-one-day-include-buying.html)
+
+---
+
+### 14. Microsoft halts Windows 11 update after users report installation errors 
+
+Microsoft has paused Windows 11 updates due to installation errors. Users are seeing an error 0x80073712 message, caused by missing or corrupted files. This prevents the update from completing successfully.
+
+💡 *Corrupted system files hinder Windows 11 update rollout*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111884-microsoft-halts-windows-11-update-after-users-report.html)
+
+---
+
+### 15. GitHub pulls Copilot "feature" after it added advertising to more than 11,000 pull requests 
+
+GitHub pulled a feature after it added advertising to over 11,000 pull requests.
+
+💡 *Code integrity compromised by unwanted advertising in pull requests.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111892-github-disables-copilot-pr-edits-after-ai-quietly.html)
+
+---
+
+### 16. A Supermicro co-founder is accused of smuggling $2.5B in AI servers to China 
+
+Yih-Shyan Liaw, a co-founder of Supermicro, is accused of smuggling $2.5 billion worth of AI servers to China. This led to a significant drop in Supermicro's stock value. The case has reignited debate on U.S.-China trade.
+
+💡 *National security concerns due to China acquiring sensitive technology assets*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111891-massive-25b-smuggling-case-exposes-loopholes-us-ai.html)
+
+---
+
+### 17. Instagram is testing a new paid tier that allows users to watch Stories anonymously 
+
+Instagram is testing a paid tier called Instagram Plus, initially in Mexico, Japan, and the Philippines, with a likely expansion to the US.
+
+💡 *Enhanced user anonymity could improve online engagement and safety.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111894-instagram-testing-new-paid-tier-allows-users-watch.html)
+
+---
+
+### 18. Students in China are renting smart glasses to cheat on exams 
+
+University students in China are using smart glasses to cheat on exams, reading text from papers and projecting answers.
+
+💡 *Cheating technology is compromising academic integrity in China's education system.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111888-students-china-renting-ai-glasses-cheat-exams-surprisingly.html)
+
+---
+
+### 19. Americans are using AI more, but fear of job losses is growing 
+
+A Quinnipiac University survey found Americans increasingly use AI while fearing job losses.
+
+💡 *Americans' growing AI adoption is accompanied by rising job insecurity concerns.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111893-americans-using-ai-more-but-fear-job-losses.html)
 
 ---
 

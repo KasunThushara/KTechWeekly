@@ -1,125 +1,75 @@
 # ⚡ Semiconductors
-**Week of March 31, 2026**
+**Week of April 01, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-03-31 09:45
+- **Articles this week:** 6
+- **Report generated:** 2026-04-01 09:51
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD Zen 6 'Venice' ES chips break cover with up to 192 cores, 32 per CCD, in early stress test Kenya, Congo, Nigeria platforms leaked 
+### 1. Telink TL3228 Low-power, low-latency dual-core RISC-V wireless MCU supports Bluetooth 6.0, 802.15.4, and 2.4 GHz proprietary ⭐
 
-AMD's Zen 6 'Venice' engineering samples were discovered with up to 192 cores. The samples feature 32 cores per Chiplet Die Design (CCD). This suggests a significant increase in core density.
+Telink's TL3228 is a dual-core RISC-V wireless MCU supporting Bluetooth 6.0 and more, delivering low power and latency. It features 192 MHz dual-core CPU, 384 KB SRAM, and 2.5 MB NVM storage. This MCU is suitable for various applications including Smart Home, asset tracking, and 8K gaming accessories.
 
-💡 *Massive core density boost for future AMD server processors.*
+💡 *Enabling low-latency, high-speed wireless connectivity in resource-constrained IoT devices.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-zen-6-venice-es-chips-break-cover-with-up-to-192-cores-32-per-ccd-in-early-stress-test-kenya-congo-nigeria-platforms-leaked)
-
----
-
-### 2. TSMC industrial espionage saga heading to verdict next month in unprecedented Taiwan National Security Act case former engineer accused of stealing 2nm technical info, faces a total of up to 20 years in prison if found guilty 
-
-A former TSMC engineer faces verdict for stealing 2nm technical info, potentially up to 20 years in prison if found guilty. The case is one of three landmark cases involving trade secret theft from TSMC. A verdict is scheduled for April 27.
-
-💡 *Taiwan National Security Act implications for trade secret protection worldwide matter*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-industrial-espionage-saga-heading-to-verdict-next-month-in-unprecedented-taiwan-national-security-act-case-former-engineer-accused-of-stealing-2nm-technical-info-faces-a-total-of-up-to-20-years-in-prison-if-found-guilty)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/01/telink-tl3228-low-power-low-latency-dual-core-risc-v-wireless-mcu-supports-bluetooth-6-0-802-15-4-and-2-4-ghz-proprietary/)
 
 ---
 
-### 3. Analyzing Elon Musk's TeraFab A step towards Tesla and SpaceX's partial vertical integration, or an unattainable dream? 
+### 2. AMD says it will buy Intel, completing the strangest reversal in chip history 
 
-Elon Musk's TeraFab aims to manufacture terawatts of semiconductors, supporting Tesla and SpaceX's vertical integration goals. However, scaling this massive project remains uncertain. The venture's success will impact the companies' reliance on external chip suppliers.
+AMD plans to acquire Intel in an all-stock transaction, unifying x86 innovation.
 
-💡 *TeraFab's success hinges on solving complex semiconductor manufacturing challenges.*
+💡 *Historic rivals merge, shifting balance in the tech industry landscape.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/analyzing-elon-musks-terafab-a-step-towards-tesla-and-spacexs-partial-vertical-integration-or-an-unattainable-dream)
-
----
-
-### 4. Asus ROG Strix Morph 96 Wireless Review: Cheaper, but not really? 
-
-The Asus ROG Strix Morph 96 Wireless offers a compact keyboard with great build and battery life, however, its price may not be as competitive as initially thought.
-
-💡 *Older, pricier sibling is cheaper, making new model's value uncertain.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/asus-rog-strix-morph-96-wireless-review)
+🔗 [Read Full Article](https://www.techspot.com/news/111906-amd-buy-intel-completing-strangest-reversal-chip-history.html)
 
 ---
 
-### 5. Rockchip RK3506J-based Forlinx FCU1501 fanless industrial IoT gateway offers dual Ethernet, plenty of I/Os and serial interfaces 
+### 3. Fujitsu plans dedicated 1.4nm AI chip manufactured entirely in Japan by Rapidus AI chip to be designed and manufactured domestically 
 
-Forlinx Technology introduces the FCU1501, a rugged, fanless industrial IoT gateway with Rockchip RK3506J processor. The system supports high-reliability data acquisition, protocol conversion, and operates in harsh environments. It features dual Ethernet, Wi-Fi, Bluetooth, and 4G LTE Cat 1 support.
+Fujitsu is developing a 1.4nm AI chip with Rapidus for AI inference in servers.
 
-💡 *Rugged, high-reliability IoT gateway for harsh industrial environments*
+💡 *Advances Japan's domestic AI chip manufacturing capabilities significantly.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/31/rockchip-rk3506j-based-forlinx-fcu1501-fanless-industrial-iot-gateway-offers-dual-ethernet-plenty-of-i-os-and-serial-interfaces/)
-
----
-
-### 6. T-Display-P4 smartphone-like devkit features ESP32-P4 MCU, ESP32-C6 wireless SoC, and SX1262/LR2021 LoRa transceiver 
-
-The LILYGO T-Display-P4 is a feature-rich smartphone-like devkit with ESP32-P4 and ESP32-C6 connectivity, GPS, and LoRaWAN support, featuring a range of sensors, displays, and expansion options.
-
-💡 *Ruggedized ESP32-P4 devkit for IoT and industrial applications expands connectivity options.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/31/t-display-p4-smartphone-like-devkit-features-esp32-p4-mcu-esp32-c6-wireless-soc-and-sx1262-lr2021-lora-transceiver/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/fujitsu-plans-dedicated-1-4nm-ai-chip-manufactured-entirely-in-japan-by-rapidus)
 
 ---
 
-### 7. Revolut Bank ordered to hand over details of more than 300 Sky TV subscribers connected to piracy operation TV provider expected to pursue subscribers who paid for illicit 'IPTV is Easy' service in unprecedented move 
+### 4. The global helium storage is a direct threat to the chipmaking supply chain disruption impacts critical processes, high-capacity HDDs, and alternative supplies are plagued by delays 
 
-Ireland's High Court ordered Revolut Bank to hand over details of 304 Sky TV subscribers connected to a piracy operation. The order is aimed at pursuing those who paid for an illicit 'IPTV is Easy' service. Sky will receive names, addresses, and banking details from the bank.
+Global helium storage shortages threaten chipmaking supply chains due to lost capacity, impacting critical processes and high-capacity HDDs. Alternative supplies are plagued by delays. It may take Qatar around five years to regain lost capacity.
 
-💡 *Pursuing pirates in the digital age gets a boost in transparency*
+💡 *Helium shortages imperil high-tech industries with long recovery timelines.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/service-providers/tv-providers/sky-wins-irish-court-order-forcing-revolut-to-unmask-over-300-pirate-iptv-subscribers)
-
----
-
-### 8. Chinese chip industry leaders admit the country lags five to ten years behind in AI data center chips AI demand is straining equipment and talent supply 
-
-Chinese chip industry leaders acknowledge a significant gap in AI data center chips, with AI demand straining equipment and talent supply.
-
-💡 *China lags behind in AI data center chip technology development.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/chinese-chip-industry-leaders-say-ai-demand-is-straining-equipment-and-talent-supply)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/the-global-helium-shortage-is-a-direct-threat-to-chipmaking)
 
 ---
 
-### 9. TSMC's 3nm capacity is now reserved for its biggest customers only 
+### 5. NES-inspired synthesizer doubles as a working game console luggable polyphonic synth plays chip tunes and NES cartridges, too 
 
-TSMC's 3nm capacity is limited, forcing it to prioritize loyal clients. Demand far exceeds supply, with many companies seeking access to the Taiwanese foundry's advanced nodes. This bottleneck affects the entire chip industry.
+The NES-SY2.0 is a synthesizer that doubles as a working game console, capable of playing chip tunes and NES cartridges. This unique device combines the maker's passion for synthesizers and retro gaming. It's a dream come true for retro gaming enthusiasts and music lovers.
 
-💡 *Limited supply outstrips demand, prioritizing loyal clients over others*
+💡 *Retro gaming and music merge in a single, innovative device*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111875-tsmc-3nm-capacity-now-reserved-biggest-customers-only.html)
-
----
-
-### 10. New magnetic field system enables wireless communication 100 meters underground 
-
-A new magnetic field system enables wireless communication 100 meters underground by leveraging low-frequency magnetic fields that can propagate through solid ground with less attenuation than conventional radio waves.
-
-💡 *Magnetic induction overcomes radio wave attenuation underground challenges.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111869-new-magnetic-field-system-enables-wireless-data-transmission.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/diy-nes-sy2-0-synthesizer-doubles-as-a-game-console-luggable-polyphonic-synth-plays-chip-tunes-and-nes-cartridges-too)
 
 ---
 
-### 11. It was 1995, 15-inch 800x600 monitors were the norm, what kind of monitor did John Carmack use to code Quake? 
+### 6. US PC sales grow by 3% in late 2025 as companies and consumers scrambled to replace Windows 10 2026 forecast sees 13% drop as storage and memory prices expected to climb another 60% 
 
-In 1995, John Carmack likely used a high-end S3 ViRGE or ATI 3D Rage monitor to code Quake, which featured a 15-inch 800x600 display, a significant upgrade from the norm at that time.
+US PC sales grew 3% in Q4 2025 due to holiday sales and Windows 10 EOL, but are expected to drop 13% in 2026 due to chip shortages and rising storage and memory prices.
 
-💡 *High-end hardware fueled innovation in early 3D game development.*
+💡 *Chip shortages and rising memory prices to hit PC sales hard.*
 
-🔗 [Read Full Article](https://www.techspot.com/trivia/117-1995-15-inch-800x600-monitors-norm-what-kind/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-pc-sales-grow-by-3-percent-in-late-2025-as-companies-and-consumers-scrambled-to-replace-windows-10-2026-forecast-sees-13-percent-drop-as-storage-and-memory-prices-expected-to-climb-another-60-percent)
 
 ---
 

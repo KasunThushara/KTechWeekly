@@ -1,105 +1,115 @@
 # 💻 Hardware
-**Week of March 31, 2026**
+**Week of April 01, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-03-31 09:45
+- **Articles this week:** 10
+- **Report generated:** 2026-04-01 09:51
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Asus ROG Strix Morph 96 Wireless Review: Cheaper, but not really? 
+### 1. Telink TL3228 Low-power, low-latency dual-core RISC-V wireless MCU supports Bluetooth 6.0, 802.15.4, and 2.4 GHz proprietary ⭐
 
-The Asus ROG Strix Morph 96 Wireless offers a compact keyboard with great build and battery life, however, its price may not be as competitive as initially thought.
+Telink's TL3228 is a dual-core RISC-V wireless MCU supporting Bluetooth 6.0 and more, delivering low power and latency. It features 192 MHz dual-core CPU, 384 KB SRAM, and 2.5 MB NVM storage. This MCU is suitable for various applications including Smart Home, asset tracking, and 8K gaming accessories.
 
-💡 *Older, pricier sibling is cheaper, making new model's value uncertain.*
+💡 *Enabling low-latency, high-speed wireless connectivity in resource-constrained IoT devices.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/asus-rog-strix-morph-96-wireless-review)
-
----
-
-### 2. Dell UltraSharp U3226Q 4K 32-inch QD-OLED monitor review: Pro-grade with reference-level color 
-
-The Dell UltraSharp U3226Q is a 32-inch QD-OLED monitor with 4K resolution, delivering reference-level color and industry-standard color modes. It features a high refresh rate, adaptive sync, and multiple HDR formats. The built-in calibrator ensures precise color accuracy.
-
-💡 *Professional-grade color accuracy for high-end content creation and editing*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/dell-ultrasharp-u3226q-4k-32-inch-qd-oled-monitor-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/01/telink-tl3228-low-power-low-latency-dual-core-risc-v-wireless-mcu-supports-bluetooth-6-0-802-15-4-and-2-4-ghz-proprietary/)
 
 ---
 
-### 3. Rockchip RK3506J-based Forlinx FCU1501 fanless industrial IoT gateway offers dual Ethernet, plenty of I/Os and serial interfaces 
+### 2. Toradex OSM and Lino SoMs 30 30mm NXP i.MX 93/i.MX 91 modules with solder-down or B2B connector designs ⭐
 
-Forlinx Technology introduces the FCU1501, a rugged, fanless industrial IoT gateway with Rockchip RK3506J processor. The system supports high-reliability data acquisition, protocol conversion, and operates in harsh environments. It features dual Ethernet, Wi-Fi, Bluetooth, and 4G LTE Cat 1 support.
+Toradex has launched two ultra-compact (30x30mm) System-on-Module families: OSM and Lino, powered by NXP i.MX 91 or i.MX 93 SoCs for industrial and IoT applications. The OSM series features a solder-down design, while the Lino series has a B2B connector design for greater flexibility. Both series offer advanced features such as NPU and EdgeLock Secure Enclave.
 
-💡 *Rugged, high-reliability IoT gateway for harsh industrial environments*
+💡 *Enabling compact, secure, and adaptable industrial IoT solutions.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/31/rockchip-rk3506j-based-forlinx-fcu1501-fanless-industrial-iot-gateway-offers-dual-ethernet-plenty-of-i-os-and-serial-interfaces/)
-
----
-
-### 4. T-Display-P4 smartphone-like devkit features ESP32-P4 MCU, ESP32-C6 wireless SoC, and SX1262/LR2021 LoRa transceiver 
-
-The LILYGO T-Display-P4 is a feature-rich smartphone-like devkit with ESP32-P4 and ESP32-C6 connectivity, GPS, and LoRaWAN support, featuring a range of sensors, displays, and expansion options.
-
-💡 *Ruggedized ESP32-P4 devkit for IoT and industrial applications expands connectivity options.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/31/t-display-p4-smartphone-like-devkit-features-esp32-p4-mcu-esp32-c6-wireless-soc-and-sx1262-lr2021-lora-transceiver/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/03/31/toradex-osm-and-lino-soms-30x30mm-nxp-i-mx-93-i-mx-91-modules-with-solder-down-or-b2b-connector-designs/)
 
 ---
 
-### 5. Vivo X300 Ultra takes aim at DSLRs with Zeiss lenses and pro photography tools 
+### 3. Samsung wants $400 for a tablet keyboard, even more than Apple ⭐
 
-Vivo's X300 Ultra smartphone features advanced imaging hardware with Zeiss lenses, targeting DSLR territory.
+Samsung's Book Cover Keyboard Slim costs $400, beating Apple's price.
 
-💡 *Smartphone makers blur lines between mobile and professional photography capabilities.*
+💡 *Expensive accessories erode Samsung's value proposition for Galaxy Tab users.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111879-vivo-x300-ultra-takes-aim-dslrs-zeiss-lenses.html)
-
----
-
-### 6. Audiophile myth challenged as $4,000 boutique audio cable fails to beat $7 Amazon Basics in lab test 
-
-Audiophile myth is challenged as a $4,000 cable fails to outperform a $7 Amazon Basics cable in lab tests, highlighting the limitations of high-end audio equipment.
-
-💡 *Expensive audio equipment may not guarantee superior audio quality.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111871-audiophile-myth-challenged-4000-boutique-audio-cable-fails.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111890-samsung-new-galaxy-tab-s11-ultra-pro-keyboard.html)
 
 ---
 
-### 7. Dev showcases seamless, massive world with zero loading screens on N64 hardware 30-year-old Nintendo retro console coaxed into draw distances matching the scale of Skyrim 
+### 4. Google research suggests encryption technique used by Bitcoin will be cracked by quantum computers around 2029 search giant says quantum attacks need to be prepared for now 
 
-A developer has created an open-world engine on original Nintendo 64 hardware, showcasing massive worlds with zero loading screens. This achievement pushes the limits of what was thought possible on the 30-year-old retro console. The engine rivals the draw distances of the iconic game Skyrim.
+Google research warns that quantum computers may crack Bitcoin encryption by 2029, urging immediate action to prepare.
 
-💡 *Revolutionizing retro console gaming with unprecedented open-world capabilities.*
+💡 *Quantum computers pose a future threat to cryptocurrency security and stability.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/dev-showcases-seamless-massive-world-with-zero-loading-screens-on-n64-hardware-30-year-old-nintendo-retro-console-coaxed-into-draw-distances-matching-the-scale-of-skyrim)
-
----
-
-### 8. Just $151 for 32GB of Corsair Vengeance DDR5-6400 RAM when bundled with Intel's new 270K-Plus and Z890-E motherboard start your Arrow Lake refresh build for less than $800 
-
-Upgrade to a powerful Arrow Lake build with 32GB of DDR5 RAM, Intel's 270K-Plus CPU, and Asus' ROG Strix Z890-E motherboard for under $800.
-
-💡 *Affordable high-performance build options emerge with Intel's Arrow Lake refresh.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/just-usd151-for-32gb-of-corsair-vengeance-ddr5-6400-ram-when-bundled-with-intels-new-270k-plus-and-z890-e-motherboard-start-your-arrow-lake-refresh-build-for-less-than-usd800)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/google-research-suggests-encryption-technique-used-by-bitcoin-will-be-cracked-by-quantum-computers-around-2029-search-giant-says-quantum-attacks-need-to-be-prepared-for-now)
 
 ---
 
-### 9. You can buy a $10,000 iPhone 17 Pro with a piece of Steve Jobs' turtleneck embedded inside 
+### 5. Tryx Stage 360 AIO Review: Luxurious, unique, and quiet 
 
-Caviar is releasing a $10,000 iPhone 17 Pro with Steve Jobs' turtleneck material embedded. The device, called the 50 Anniversary Edition, coincides with Apple's 50th anniversary. It features a unique and exclusive design element.
+The Tryx Stage 360 ARGB offers good thermals, quiet operation, and a unique display. It performed well with AMD's Ryzen 9 9950X3D CPU. This all-in-one liquid cooler is a great option for those seeking a luxurious cooling solution.
 
-💡 *Extravagant tech items highlight luxury market's growing interest in exclusivity*
+💡 *Luxurious AIOs like Tryx Stage 360 prioritize both aesthetics and performance.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111876-you-can-buy-10000-iphone-17-pro-piece.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/tryx-stage-360-aio-review)
+
+---
+
+### 6. YoloLiv YoloCam S3 Review: A 4K powerhouse 
+
+The YoloLiv YoloCam S3 is a compact, feature-rich 4K webcam with excellent video quality, a large sensor, and lightning-fast autofocus. It requires a USB 3.0 port for optimal functionality. With some software tweaking, it delivers high-quality video.
+
+💡 *Superior 4K video quality with advanced autofocus capabilities.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/webcams/yololiv-yolocam-s3-review)
+
+---
+
+### 7. Apple M5 Max MacBooks are getting surprisingly close to real gaming PCs 
+
+Apple's M5 Max MacBooks show surprising potential in high-end PC games, challenging traditional views of Macs as non-gaming devices.
+
+💡 *Gaming on MacBooks becomes a viable, portable alternative to dedicated gaming PCs.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111881-apple-m5-max-macbooks-getting-surprisingly-close-real.html)
+
+---
+
+### 8. Modder gets Intel's OEM-only 'Bartlett Lake' CPU to post on a regular Asus Z790 motherboard BIOS was edited by Claude AI to make Core Ultra 9 273QPE boot 
+
+An enthusiast used AI to mod a BIOS to run Intel's non-consumer 'Bartlett Lake' CPU on a regular Z790 motherboard, but it hasn't passed the POST screen yet.
+
+💡 *Unlocking OEM-only CPU compatibility with AI-driven BIOS modifications matters for enthusiasts seeking exclusive hardware access.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/modder-gets-intels-oem-only-bartlett-lake-cpu-to-post-on-a-regular-asus-z790-motherboard-bios-was-edited-by-claude-ai-to-make-core-ultra-9-273qpe-boot)
+
+---
+
+### 9. A Supermicro co-founder is accused of smuggling $2.5B in AI servers to China 
+
+Yih-Shyan Liaw, a co-founder of Supermicro, is accused of smuggling $2.5 billion worth of AI servers to China. This led to a significant drop in Supermicro's stock value. The case has reignited debate on U.S.-China trade.
+
+💡 *National security concerns due to China acquiring sensitive technology assets*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111891-massive-25b-smuggling-case-exposes-loopholes-us-ai.html)
+
+---
+
+### 10. US PC sales grow by 3% in late 2025 as companies and consumers scrambled to replace Windows 10 2026 forecast sees 13% drop as storage and memory prices expected to climb another 60% 
+
+US PC sales grew 3% in Q4 2025 due to holiday sales and Windows 10 EOL, but are expected to drop 13% in 2026 due to chip shortages and rising storage and memory prices.
+
+💡 *Chip shortages and rising memory prices to hit PC sales hard.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-pc-sales-grow-by-3-percent-in-late-2025-as-companies-and-consumers-scrambled-to-replace-windows-10-2026-forecast-sees-13-percent-drop-as-storage-and-memory-prices-expected-to-climb-another-60-percent)
 
 ---
 
