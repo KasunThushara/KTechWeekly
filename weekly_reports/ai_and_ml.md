@@ -1,205 +1,175 @@
 # 🤖 AI & ML
-**Week of April 01, 2026**
+**Week of April 02, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-04-01 09:51
+- **Articles this week:** 16
+- **Report generated:** 2026-04-02 09:43
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Geekbench investigates up to 30% jump with Intel's iBOT performance gain attributed to newly-vectorized instructions 
+### 1. US government hires BlackSky to build next-gen AI surveillance satellites for Earth and beyond ⭐
 
-Intel's iBOT tool can automatically vectorize many instructions, leading to improved performance in Geekbench tests. This optimization tool is capable of enhancing performance by up to 30%. The results indicate a significant advantage for Intel processors.
+The US government has selected BlackSky to build advanced AI surveillance satellites.
 
-💡 *Automated vectorization boosts performance through optimized instruction sets.*
+💡 *Enhanced US space surveillance capabilities boost national security and competitiveness.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/geekbench-investigates-up-to-30-percent-jump-with-intels-ibot-performance-gain-attributed-to-newly-vectorized-instructions)
-
----
-
-### 2. RTX 60 series leaks are everywhere, but Nvidia hasn't finalized the GPUs yet 
-
-Nvidia hasn't finalized RTX 60 series GPU specifications yet, despite leaks. Multiple sources, including VideoCardz, confirm this. The exact details are still uncertain.
-
-💡 *Leaked claims may mislead consumers about upcoming GPU tech.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111887-rtx-60-series-leaks-everywhere-but-nvidia-hasnt.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111915-us-government-hires-blacksky-build-next-gen-ai.html)
 
 ---
 
-### 3. Nvidia App beta enables DLSS 4.5 with dynamic frame-gen, automatic shader compilation 
+### 2. AI can clone open-source software in minutes, and that's a problem ⭐
 
-Nvidia's DLSS 4.5 with dynamic frame-gen is now available for RTX 50 GPUs, offering real-time performance and image quality balancing. This update also includes higher MFG modes and automatic shader compilation to reduce in-game stutter. Users can enable the feature by updating the Nvidia App to its beta version.
+AI tools can rapidly clone open-source software, creating proprietary versions with legal distinctions.
 
-💡 *Boosts gaming performance with adaptive AI-enhanced rendering technology*
+💡 *Bending copyright law and open-source principles with AI-powered cloning threatens innovation.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7608-nvidia-app.html)
-
----
-
-### 4. Apple M5 Max MacBooks are getting surprisingly close to real gaming PCs 
-
-Apple's M5 Max MacBooks show surprising potential in high-end PC games, challenging traditional views of Macs as non-gaming devices.
-
-💡 *Gaming on MacBooks becomes a viable, portable alternative to dedicated gaming PCs.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111881-apple-m5-max-macbooks-getting-surprisingly-close-real.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111904-ai-can-clone-open-source-software-minutes-problem.html)
 
 ---
 
-### 5. We go hands-on with Nvidia's DLSS 4.5 Dynamic Multi Frame Generation and its 5X and 6X multipliers more generated frames, now tailor-made for your monitor's refresh rate 
+### 3. Google offers researchers early access to Willow quantum processor 
 
-Nvidia's DLSS 4.5 offers improved frame generation for high-end GPUs, tailored to monitor refresh rates.
+Google offers researchers early access to its Willow quantum processor through a selective Early Access Program. This program invites researchers to design and propose experiments that push the boundaries of current hardware capabilities. Participation has a firm deadline of May 15.
 
-💡 *Enhancing gaming performance with AI-generated frames for smoother visuals.*
+💡 *Accelerating quantum research and innovation through early hardware access.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/we-go-hands-on-with-nvidias-dlss-4-5-dynamic-multi-frame-generation-and-its-5x-and-6x-multipliers-more-generated-frames-now-tailor-made-for-your-monitors-refresh-rate)
-
----
-
-### 6. Nvidia DLSS 4.5 Dynamic MFG plus 5X and 6X framegen modes enter beta for RTX 50-series users update offers greater control over generated frame rates and more headroom for high-refresh-rate displays 
-
-Nvidia's DLSS 4.5 Dynamic Multi Frame Generation enters beta for RTX 50-series users, offering greater control over generated frame rates and more headroom for high-refresh-rate displays with extended 5X and 6X multipliers.
-
-💡 *Enhanced DLSS boosts frame rates for high-refresh-rate gaming experiences.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-4-5-dynamic-mfg-plus-5x-and-6x-framegen-modes-enter-beta-for-rtx-50-series-users-update-offers-greater-control-over-generated-frame-rates-and-more-headroom-for-high-refresh-rate-displays)
+🔗 [Read Full Article](https://www.techspot.com/news/111912-google-offers-researchers-early-access-willow-quantum-processor.html)
 
 ---
 
-### 7. Fujitsu plans dedicated 1.4nm AI chip manufactured entirely in Japan by Rapidus AI chip to be designed and manufactured domestically 
+### 4. AirPods Max 2 reviewed: premium sound, top-tier ANC, same high price 
 
-Fujitsu is developing a 1.4nm AI chip with Rapidus for AI inference in servers.
+AirPods Max 2 offer improved sound quality and top-tier noise cancellation, powered by the H2 chip, while maintaining a high price.
 
-💡 *Advances Japan's domestic AI chip manufacturing capabilities significantly.*
+💡 *Premium audio and ANC advancements justify the expensive upgrade cost.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/fujitsu-plans-dedicated-1-4nm-ai-chip-manufactured-entirely-in-japan-by-rapidus)
-
----
-
-### 8. The global helium storage is a direct threat to the chipmaking supply chain disruption impacts critical processes, high-capacity HDDs, and alternative supplies are plagued by delays 
-
-Global helium storage shortages threaten chipmaking supply chains due to lost capacity, impacting critical processes and high-capacity HDDs. Alternative supplies are plagued by delays. It may take Qatar around five years to regain lost capacity.
-
-💡 *Helium shortages imperil high-tech industries with long recovery timelines.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/the-global-helium-shortage-is-a-direct-threat-to-chipmaking)
+🔗 [Read Full Article](https://www.techspot.com/products/headphones/apple-airpods-max-2.323330/)
 
 ---
 
-### 9. One of JavaScript's most popular libraries compromised by hackers Axios npm package hit in supply chain attack that deployed a cross-platform RAT 
+### 5. Google Drive can now detect ransomware and roll back your files 
 
-Axios, a popular JavaScript library, was compromised in a supply chain attack. The attackers published two malicious versions of the library after gaining access to the npm account of a lead maintainer. The attack allowed the deployment of a cross-platform remote access tool.
+Google Drive now detects and rolls back ransomware attacks on files using AI-powered tools.
 
-💡 *Popular open-source libraries can be vulnerable to targeted supply chain attacks.*
+💡 *Enhanced security protects against devastating ransomware attacks on personal files.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/axios-npm-package-compromised-in-supply-chain-attack-that-deployed-a-cross-platform-rat)
-
----
-
-### 10. Save a huge $100 on this vivid 27-inch MSI OLED monitor with fast 240Hz refresh rate now $399.99, this MAG QD-OLED model is close to its lowest price ever on Newegg 
-
-Get the MSI 27-inch 4K QD-OLED monitor for $399.99, featuring vibrant colors, 240Hz refresh rate, and true blacks, perfect for gaming and productivity.
-
-💡 *Save a huge $100 on a high-end gaming monitor.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-a-huge-usd100-on-this-vivid-27-inch-msi-oled-monitor-with-fast-240hz-refresh-rate-now-usd399-99-this-mag-qd-oled-model-is-close-to-its-lowest-price-ever-on-newegg)
+🔗 [Read Full Article](https://www.techspot.com/news/111900-google-rolls-out-ai-powered-ransomware-protection-all.html)
 
 ---
 
-### 11. Modder gets Intel's OEM-only 'Bartlett Lake' CPU to post on a regular Asus Z790 motherboard BIOS was edited by Claude AI to make Core Ultra 9 273QPE boot 
+### 6. DRAM prices predicted to jump 63% in Q2, NAND up to 75% follows 95% jumps in Q1, Trendforce says AI server demand keeps supply tight 
 
-An enthusiast used AI to mod a BIOS to run Intel's non-consumer 'Bartlett Lake' CPU on a regular Z790 motherboard, but it hasn't passed the POST screen yet.
+DRAM contract prices are predicted to rise by 58-63% in Q2 2026, while NAND Flash prices will jump 70-75% QoQ. This significant increase is attributed to tight supply due to strong demand for AI servers. The prices saw a 95% jump in Q1.
 
-💡 *Unlocking OEM-only CPU compatibility with AI-driven BIOS modifications matters for enthusiasts seeking exclusive hardware access.*
+💡 *Tight AI server demand exacerbates memory price volatility.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/modder-gets-intels-oem-only-bartlett-lake-cpu-to-post-on-a-regular-asus-z790-motherboard-bios-was-edited-by-claude-ai-to-make-core-ultra-9-273qpe-boot)
-
----
-
-### 12. Bitcoin network has its first quarterly hashrate drop since 2020 Iran conflict spurs Bitcoin mining operators to accelerate pivot to AI infrastructure 
-
-Bitcoin miners are pivoting to AI infrastructure amid Iran conflict. The conflict has led to a first quarterly hashrate drop in nearly six years. This shift suggests a major change in the Bitcoin mining landscape.
-
-💡 *Bitcoin mining's pivot to AI infrastructure marks a significant industry shift.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptomining/iran-conflict-forces-bitcoin-mining-operators-to-pivot-to-ai-infrastructure-btc-network-sees-the-first-quarterly-hashrate-drop-since-2020)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/dram-and-nand-contract-prices-to-climb-again-in-q2)
 
 ---
 
-### 13. Disney's gaming push could one day include buying Epic Games 
+### 7. Gigabyte X870E Aorus Xtreme AI Top Motherboard Review: Solid flagship, but the X3D version is what you want today 
 
-Disney may be considering acquiring Epic Games, Fortnite's developer, in the future.
+The Gigabyte X870E Aorus Xtreme AI Top delivers solid performance and premium features, but is pricey and outdated.
 
-💡 *Potential Disney acquisition could expand Disney's gaming capabilities and reach.*
+💡 *Newer refresh boards like the X3D version outshine the X870E.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111899-disney-gaming-push-could-one-day-include-buying.html)
-
----
-
-### 14. Microsoft halts Windows 11 update after users report installation errors 
-
-Microsoft has paused Windows 11 updates due to installation errors. Users are seeing an error 0x80073712 message, caused by missing or corrupted files. This prevents the update from completing successfully.
-
-💡 *Corrupted system files hinder Windows 11 update rollout*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111884-microsoft-halts-windows-11-update-after-users-report.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870e-aorus-xtreme-ai-top-motherboard-review)
 
 ---
 
-### 15. GitHub pulls Copilot "feature" after it added advertising to more than 11,000 pull requests 
+### 8. Oracle believed to have cut 10,000 positions across multiple divisions as mass layoffs begin to fuel AI investments company is reportedly reducing headcount to fund data centers 
 
-GitHub pulled a feature after it added advertising to over 11,000 pull requests.
+Oracle reportedly cut over 10,000 positions to fund AI investments, amid billions spent on AI infrastructure.
 
-💡 *Code integrity compromised by unwanted advertising in pull requests.*
+💡 *Layoffs fund AI ambitions, potentially long-term financial instability follows.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111892-github-disables-copilot-pr-edits-after-ai-quietly.html)
-
----
-
-### 16. A Supermicro co-founder is accused of smuggling $2.5B in AI servers to China 
-
-Yih-Shyan Liaw, a co-founder of Supermicro, is accused of smuggling $2.5 billion worth of AI servers to China. This led to a significant drop in Supermicro's stock value. The case has reignited debate on U.S.-China trade.
-
-💡 *National security concerns due to China acquiring sensitive technology assets*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111891-massive-25b-smuggling-case-exposes-loopholes-us-ai.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/oracle-believed-to-have-cut-10-000-positions-across-multiple-divisions-as-mass-layoffs-begin-company-is-reportedly-reducing-headcount-as-it-makes-massive-investments-in-ai)
 
 ---
 
-### 17. Instagram is testing a new paid tier that allows users to watch Stories anonymously 
+### 9. Pay $611 for 64GB of Corsair Vengeance RAM and Samsung's 2TB PCIe Gen 5 9100 Pro when paired with a Gigabyte X870 Auros Elite motherboard and Corsair Frame 5000D case matching colors for a pure white build 
 
-Instagram is testing a paid tier called Instagram Plus, initially in Mexico, Japan, and the Philippines, with a likely expansion to the US.
+This build features 64GB of DDR5 RAM, a 2TB SSD, and a Gigabyte motherboard, all paired with a Corsair case in a pure white design.
 
-💡 *Enhanced user anonymity could improve online engagement and safety.*
+💡 *Future-proof gaming performance with high-capacity storage and memory.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111894-instagram-testing-new-paid-tier-allows-users-watch.html)
-
----
-
-### 18. Students in China are renting smart glasses to cheat on exams 
-
-University students in China are using smart glasses to cheat on exams, reading text from papers and projecting answers.
-
-💡 *Cheating technology is compromising academic integrity in China's education system.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111888-students-china-renting-ai-glasses-cheat-exams-surprisingly.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pay-usd611-for-64gb-of-corsair-vengeance-ram-and-samsungs-2tb-pcie-gen-5-9100-pro-when-paired-with-a-gigabyte-x870-auros-elite-motherboard-and-corsair-frame-5000d-case-matching-colors-for-a-pure-white-build)
 
 ---
 
-### 19. Americans are using AI more, but fear of job losses is growing 
+### 10. Apple turns 50 one of the world's biggest tech companies started with hobbyist computers 
 
-A Quinnipiac University survey found Americans increasingly use AI while fearing job losses.
+Apple, one of the world's largest tech companies, celebrates its 50th anniversary. Founded by Steve Jobs, Steve Wozniak, and Ronald Wayne, the company started as a hobbyist computer manufacturer. Its early roots led to innovative products and global success.
 
-💡 *Americans' growing AI adoption is accompanied by rising job insecurity concerns.*
+💡 *Hobbyist roots fueled innovation and shaped Apple's path to greatness.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111893-americans-using-ai-more-but-fear-job-losses.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/apple-turns-50-one-of-the-worlds-biggest-tech-companies-started-with-hobbyist-computers)
+
+---
+
+### 11. Sony's upcoming handheld could outperform Xbox Series S with next-gen upscaling 
+
+Sony's rumored handheld, codenamed Canis, may outperform Xbox Series S with a faster graphics chip. The device is expected to complement the PlayStation 6, releasing late 2027 at the earliest. KeplerL2 made the claim recently.
+
+💡 *Sony's handheld could bridge the gap with next-gen console performance.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111919-sony-upcoming-handheld-could-outperform-xbox-series-s.html)
+
+---
+
+### 12. A paralyzed musician is using a brain implant to create music 
+
+Buckwalter, paralyzed from the chest down, creates music with a brain implant. He underwent a craniotomy and six Blackrock Neurotech chips were implanted in his motor cortex. This allowed him to compose music through brain signals.
+
+💡 *Brain-computer interfaces can restore creative abilities in individuals with paralysis.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111910-brain-implants-paralyzed-man-make-music-thoughts.html)
+
+---
+
+### 13. Anthropic accidentally exposed Claude Code source, raising security concerns 
+
+Anthropic accidentally exposed Claude's code source through a JavaScript debugging map. The incident occurred in version 2.1.88 of the @anthropic-ai/claude-code package on npm. This has raised concerns over security and intellectual property.
+
+💡 *Exposure of source code can compromise AI model security*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111907-anthropic-accidentally-exposed-claude-code-source-raising-security.html)
+
+---
+
+### 14. Oracle layoffs could reach 30,000 as company doubles down on AI 
+
+Oracle may lay off 20,000 to 30,000 employees due to AI focus.
+
+💡 *Mass layoffs signal shift towards AI-driven workforce automation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111902-oracle-layoffs-could-reach-30000-company-doubles-down.html)
+
+---
+
+### 15. You can finally change your Gmail address without losing everything 
+
+Gmail users in the US can change usernames without losing access to services.
+
+💡 *Preserves online identity and continuity for users changing email usernames.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111901-you-can-finally-change-gmail-address-without-losing.html)
+
+---
+
+### 16. Crimson Desert hits 4 million sales despite rocky launch 
+
+Crimson Desert, a highly anticipated game, received mixed reviews and a poor Steam rating, leading to a decline in developer Pearl Abyss' shares.
+
+💡 *Mixed reviews and user feedback impact game developer's stock value significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111914-crimson-desert-hits-4-million-sales-despite-rocky.html)
 
 ---
 

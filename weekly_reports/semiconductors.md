@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of April 01, 2026**
+**Week of April 02, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,69 +7,69 @@
 
 ## 📊 Summary
 - **Articles this week:** 6
-- **Report generated:** 2026-04-01 09:51
+- **Report generated:** 2026-04-02 09:43
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Telink TL3228 Low-power, low-latency dual-core RISC-V wireless MCU supports Bluetooth 6.0, 802.15.4, and 2.4 GHz proprietary ⭐
+### 1. Entry-level Intel Core 3 304 Wildcat Lake processor details and benchmarks surface ⭐
 
-Telink's TL3228 is a dual-core RISC-V wireless MCU supporting Bluetooth 6.0 and more, delivering low power and latency. It features 192 MHz dual-core CPU, 384 KB SRAM, and 2.5 MB NVM storage. This MCU is suitable for various applications including Smart Home, asset tracking, and 8K gaming accessories.
+Intel's Wildcat Lake Core Series 3 CPUs have been revealed with penta-core processor details, including the entry-level Intel Core 3 304, which has seen some benchmarking. The Wildcat Lake SKUs have varying levels of SIPP support and GPU turbo clocks, outperforming their predecessors. Further information has been obtained from a post by Jaykihn on X.
 
-💡 *Enabling low-latency, high-speed wireless connectivity in resource-constrained IoT devices.*
+💡 *Wildcat Lake CPUs offer significant GPU turbo clock improvements over predecessors.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/01/telink-tl3228-low-power-low-latency-dual-core-risc-v-wireless-mcu-supports-bluetooth-6-0-802-15-4-and-2-4-ghz-proprietary/)
-
----
-
-### 2. AMD says it will buy Intel, completing the strangest reversal in chip history 
-
-AMD plans to acquire Intel in an all-stock transaction, unifying x86 innovation.
-
-💡 *Historic rivals merge, shifting balance in the tech industry landscape.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111906-amd-buy-intel-completing-strangest-reversal-chip-history.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/02/entry-level-intel-core-3-304-wildcat-lake-processor-details-and-benchmarks-surface/)
 
 ---
 
-### 3. Fujitsu plans dedicated 1.4nm AI chip manufactured entirely in Japan by Rapidus AI chip to be designed and manufactured domestically 
+### 2. US government hires BlackSky to build next-gen AI surveillance satellites for Earth and beyond ⭐
 
-Fujitsu is developing a 1.4nm AI chip with Rapidus for AI inference in servers.
+The US government has selected BlackSky to build advanced AI surveillance satellites.
 
-💡 *Advances Japan's domestic AI chip manufacturing capabilities significantly.*
+💡 *Enhanced US space surveillance capabilities boost national security and competitiveness.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/fujitsu-plans-dedicated-1-4nm-ai-chip-manufactured-entirely-in-japan-by-rapidus)
-
----
-
-### 4. The global helium storage is a direct threat to the chipmaking supply chain disruption impacts critical processes, high-capacity HDDs, and alternative supplies are plagued by delays 
-
-Global helium storage shortages threaten chipmaking supply chains due to lost capacity, impacting critical processes and high-capacity HDDs. Alternative supplies are plagued by delays. It may take Qatar around five years to regain lost capacity.
-
-💡 *Helium shortages imperil high-tech industries with long recovery timelines.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/the-global-helium-shortage-is-a-direct-threat-to-chipmaking)
+🔗 [Read Full Article](https://www.techspot.com/news/111915-us-government-hires-blacksky-build-next-gen-ai.html)
 
 ---
 
-### 5. NES-inspired synthesizer doubles as a working game console luggable polyphonic synth plays chip tunes and NES cartridges, too 
+### 3. Digi IX25 A rugged 5G RedCap/eMBB industrial cellular router 
 
-The NES-SY2.0 is a synthesizer that doubles as a working game console, capable of playing chip tunes and NES cartridges. This unique device combines the maker's passion for synthesizers and retro gaming. It's a dream come true for retro gaming enthusiasts and music lovers.
+Digi IX25 is a rugged 5G industrial cellular router for critical and enterprise applications, offering cellular networking, edge computing, and secure connectivity in a single device.
 
-💡 *Retro gaming and music merge in a single, innovative device*
+💡 *Rugged 5G router simplifies deployment in harsh environments efficiently.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/diy-nes-sy2-0-synthesizer-doubles-as-a-game-console-luggable-polyphonic-synth-plays-chip-tunes-and-nes-cartridges-too)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/01/digi-ix25-a-rugged-5g-redcap-embb-industrial-cellular-router/)
 
 ---
 
-### 6. US PC sales grow by 3% in late 2025 as companies and consumers scrambled to replace Windows 10 2026 forecast sees 13% drop as storage and memory prices expected to climb another 60% 
+### 4. Nvidia market share in China falls to less than 60% Chinese chip makers deliver 1.65 million AI GPUs as the government pushes data centers to use domestic chips 
 
-US PC sales grew 3% in Q4 2025 due to holiday sales and Windows 10 EOL, but are expected to drop 13% in 2026 due to chip shortages and rising storage and memory prices.
+Nvidia's market share in China drops to 55% as local chip makers gain ground, delivering 1.65 million AI GPUs.
 
-💡 *Chip shortages and rising memory prices to hit PC sales hard.*
+💡 *Government support boosts domestic chip makers at Nvidia's expense in China.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-pc-sales-grow-by-3-percent-in-late-2025-as-companies-and-consumers-scrambled-to-replace-windows-10-2026-forecast-sees-13-percent-drop-as-storage-and-memory-prices-expected-to-climb-another-60-percent)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-market-share-in-china-falls-to-less-than-60-percent-chinese-chip-makers-deliver-1-65-million-ai-gpus-as-the-government-pushes-data-centers-to-use-domestic-chips)
+
+---
+
+### 5. Arm to sell its new AGI CPU in China 'we would expect the demand for this product to be just as strong in China as it is in the rest of the world' 
+
+Arm's 136-core Neoverse V3 AGI processor is eligible for sale in China, with expected strong demand.
+
+💡 *China presents a significant market opportunity for Arm's new AGI processor.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/arm-to-sell-its-new-agi-cpu-in-china-we-would-expect-the-demand-for-this-product-to-be-just-as-strong-in-china-as-it-is-in-the-rest-of-the-world)
+
+---
+
+### 6. PC makers report surging prices across different components increasing costs are going beyond memory chip and processors, now affecting PCBs, plastic materials, and more 
+
+PC makers face rising costs from suppliers across various components, including processors, memory chips, PCBs, and plastics. Price hikes are affecting multiple parts of the manufacturing process. This is causing increased expenses for PC manufacturers.
+
+💡 *Supply chain disruptions lead to widespread price increases in PC components.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/pc-makers-report-surging-prices-across-different-components-increasing-costs-are-going-beyond-memory-chip-and-processors-now-affecting-pcbs-plastic-materials-and-more)
 
 ---
 

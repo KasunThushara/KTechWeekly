@@ -1,135 +1,75 @@
 # 🎮 GPUs
-**Week of April 01, 2026**
+**Week of April 02, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-04-01 09:51
+- **Articles this week:** 6
+- **Report generated:** 2026-04-02 09:43
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Toradex OSM and Lino SoMs 30 30mm NXP i.MX 93/i.MX 91 modules with solder-down or B2B connector designs ⭐
+### 1. Save $100 on the gaming powerhouse AMD Ryzen 5 7600X3D, now $246 on Amazon budget-friendly X3D processor with 96MB cache, low power draw, and excellent gaming performance 
 
-Toradex has launched two ultra-compact (30x30mm) System-on-Module families: OSM and Lino, powered by NXP i.MX 91 or i.MX 93 SoCs for industrial and IoT applications. The OSM series features a solder-down design, while the Lino series has a B2B connector design for greater flexibility. Both series offer advanced features such as NPU and EdgeLock Secure Enclave.
+The Ryzen 5 7600X3D offers exceptional gaming performance at a budget-friendly price. This processor boasts a 96MB cache and low power draw, making it an attractive option for gamers. It delivers X3D-level performance at a lower cost than higher-end models.
 
-💡 *Enabling compact, secure, and adaptable industrial IoT solutions.*
+💡 *Budget gamers get high-performance X3D-level processing without breaking the bank.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/03/31/toradex-osm-and-lino-soms-30x30mm-nxp-i-mx-93-i-mx-91-modules-with-solder-down-or-b2b-connector-designs/)
-
----
-
-### 2. AMD says it will buy Intel, completing the strangest reversal in chip history 
-
-AMD plans to acquire Intel in an all-stock transaction, unifying x86 innovation.
-
-💡 *Historic rivals merge, shifting balance in the tech industry landscape.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111906-amd-buy-intel-completing-strangest-reversal-chip-history.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-usd100-on-the-gaming-powerhouse-amd-ryzen-5-7600x3d-now-usd246-on-amazon-budget-friendly-x3d-processor-with-96mb-cache-low-power-draw-and-excellent-gaming-performance)
 
 ---
 
-### 3. RTX 60 series leaks are everywhere, but Nvidia hasn't finalized the GPUs yet 
+### 2. Nvidia market share in China falls to less than 60% Chinese chip makers deliver 1.65 million AI GPUs as the government pushes data centers to use domestic chips 
 
-Nvidia hasn't finalized RTX 60 series GPU specifications yet, despite leaks. Multiple sources, including VideoCardz, confirm this. The exact details are still uncertain.
+Nvidia's market share in China drops to 55% as local chip makers gain ground, delivering 1.65 million AI GPUs.
 
-💡 *Leaked claims may mislead consumers about upcoming GPU tech.*
+💡 *Government support boosts domestic chip makers at Nvidia's expense in China.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111887-rtx-60-series-leaks-everywhere-but-nvidia-hasnt.html)
-
----
-
-### 4. Nvidia App beta enables DLSS 4.5 with dynamic frame-gen, automatic shader compilation 
-
-Nvidia's DLSS 4.5 with dynamic frame-gen is now available for RTX 50 GPUs, offering real-time performance and image quality balancing. This update also includes higher MFG modes and automatic shader compilation to reduce in-game stutter. Users can enable the feature by updating the Nvidia App to its beta version.
-
-💡 *Boosts gaming performance with adaptive AI-enhanced rendering technology*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/7608-nvidia-app.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-market-share-in-china-falls-to-less-than-60-percent-chinese-chip-makers-deliver-1-65-million-ai-gpus-as-the-government-pushes-data-centers-to-use-domestic-chips)
 
 ---
 
-### 5. We go hands-on with Nvidia's DLSS 4.5 Dynamic Multi Frame Generation and its 5X and 6X multipliers more generated frames, now tailor-made for your monitor's refresh rate 
+### 3. Nvidia App adds 'Auto Shader Compilation' for faster load times in games beta feature automatically recompiles shaders in the background after every driver update 
 
-Nvidia's DLSS 4.5 offers improved frame generation for high-end GPUs, tailored to monitor refresh rates.
+The Nvidia App now auto-compiles shaders in background after driver updates. This saves gamers time, especially in blockbuster titles. Initial compile still required after new install.
 
-💡 *Enhancing gaming performance with AI-generated frames for smoother visuals.*
+💡 *Faster game load times through automatic shader recompilation*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/we-go-hands-on-with-nvidias-dlss-4-5-dynamic-multi-frame-generation-and-its-5x-and-6x-multipliers-more-generated-frames-now-tailor-made-for-your-monitors-refresh-rate)
-
----
-
-### 6. Iran issues direct strike threat to Nvidia, Microsoft, Apple, Google, 14 other US tech companies 'These companies should expect destruction of their facilities in response to each act of terror in Iran' 
-
-Iran's Islamic Revolutionary Guard Corps has threatened U.S. tech companies, including Nvidia, Microsoft, and Apple, with destruction of their facilities in response to acts of terror in Iran.
-
-💡 *Global tech supply chains are facing escalating geopolitical tensions.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/iran-issues-direct-strike-threat-to-nvidia-microsoft-apple-google-14-other-us-tech-companies-these-companies-should-expect-destruction-of-their-facilities-in-response-to-each-act-of-terror-in-iran)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-app-adds-auto-shader-compilation-for-faster-load-times-in-games-beta-feature-automatically-recompiles-shaders-in-the-background-after-every-driver-update)
 
 ---
 
-### 7. Nvidia DLSS 4.5 Dynamic MFG plus 5X and 6X framegen modes enter beta for RTX 50-series users update offers greater control over generated frame rates and more headroom for high-refresh-rate displays 
+### 4. PC enthusiast finds relic Nvidia 3D Vision 2 glasses for $2.99 PC gaming artifact from 2011 cost $149 new, was once Nvidia's 'vision' for the future of gaming 
 
-Nvidia's DLSS 4.5 Dynamic Multi Frame Generation enters beta for RTX 50-series users, offering greater control over generated frame rates and more headroom for high-refresh-rate displays with extended 5X and 6X multipliers.
+A PC enthusiast bought sealed Nvidia 3D Vision 2 glasses for $2.99, a significant discount from its original $149 price.
 
-💡 *Enhanced DLSS boosts frame rates for high-refresh-rate gaming experiences.*
+💡 *Nvidia's 2011 3D vision technology seems largely obsolete now, abandoned.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-4-5-dynamic-mfg-plus-5x-and-6x-framegen-modes-enter-beta-for-rtx-50-series-users-update-offers-greater-control-over-generated-frame-rates-and-more-headroom-for-high-refresh-rate-displays)
-
----
-
-### 8. Save a huge $100 on this vivid 27-inch MSI OLED monitor with fast 240Hz refresh rate now $399.99, this MAG QD-OLED model is close to its lowest price ever on Newegg 
-
-Get the MSI 27-inch 4K QD-OLED monitor for $399.99, featuring vibrant colors, 240Hz refresh rate, and true blacks, perfect for gaming and productivity.
-
-💡 *Save a huge $100 on a high-end gaming monitor.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-a-huge-usd100-on-this-vivid-27-inch-msi-oled-monitor-with-fast-240hz-refresh-rate-now-usd399-99-this-mag-qd-oled-model-is-close-to-its-lowest-price-ever-on-newegg)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/pc-enthusiast-finds-relic-nvidia-3d-vision-2-glasses-for-usd2-99-pc-gaming-artifact-from-2011-cost-usd149-new-was-once-the-future-of-gaming)
 
 ---
 
-### 9. NES-inspired synthesizer doubles as a working game console luggable polyphonic synth plays chip tunes and NES cartridges, too 
+### 5. Linux gaming levels up as CachyOS beats Windows 11 in head-to-head tests 
 
-The NES-SY2.0 is a synthesizer that doubles as a working game console, capable of playing chip tunes and NES cartridges. This unique device combines the maker's passion for synthesizers and retro gaming. It's a dream come true for retro gaming enthusiasts and music lovers.
+Linux-based CachyOS outperforms Windows 11 in head-to-head gaming tests, using identical hardware.
 
-💡 *Retro gaming and music merge in a single, innovative device*
+💡 *Linux gaming can rival Windows' performance on high-end hardware configurations.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/diy-nes-sy2-0-synthesizer-doubles-as-a-game-console-luggable-polyphonic-synth-plays-chip-tunes-and-nes-cartridges-too)
-
----
-
-### 10. The Windows Command Prompt is getting faster, smarter, and a lot more modern 
-
-The Windows Command Prompt is receiving significant updates for improved performance and functionality. It now supports rendering inline graphics, allowing advanced command-line tools to display visuals directly in the console. This enhancement enhances user experience and productivity.
-
-💡 *Enhanced visual capabilities boost command-line tool efficiency and user experience.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111895-windows-command-prompt-getting-faster-smarter-lot-more.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111908-linux-gaming-levels-up-cachyos-beats-windows-11.html)
 
 ---
 
-### 11. Disney's gaming push could one day include buying Epic Games 
+### 6. Iran threatens attacks on Nvidia, Microsoft, Intel, and other US tech firms in the Middle East 
 
-Disney may be considering acquiring Epic Games, Fortnite's developer, in the future.
+Iran's IRGC threatens to target US tech firms in Middle East, including Nvidia, Microsoft, and Intel, over their involvement in military technology.
 
-💡 *Potential Disney acquisition could expand Disney's gaming capabilities and reach.*
+💡 *US tech interests in Middle East are at risk of Iranian retaliation.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111899-disney-gaming-push-could-one-day-include-buying.html)
-
----
-
-### 12. Nvidia invests $2 billion in Marvell to deepen NVLink Fusion partnership signs deal with one of its biggest competitors 
-
-Nvidia invests $2 billion in Marvell for a deeper NVLink Fusion partnership. This partnership will connect Marvell to Nvidia's AI factory and AI-RAN ecosystem. The deal strengthens Nvidia's collaboration with a major competitor.
-
-💡 *Nvidia expands its ecosystem with a strategic investment in Marvell*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-invests-2-billion-in-marvell-to-deepen-nvlink-fusion-partnership)
+🔗 [Read Full Article](https://www.techspot.com/news/111909-iran-threatens-attacks-nvidia-microsoft-intel-other-us.html)
 
 ---
 

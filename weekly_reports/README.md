@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 01, 2026**
+**Week of April 02, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Telink TL3228 Low-power, low-latency dual-core RISC-V wireless MCU supports Bluetooth 6.0, 802.15.4, and 2.4 GHz proprietary ⭐
+### 1. Entry-level Intel Core 3 304 Wildcat Lake processor details and benchmarks surface ⭐
+
+**⚡ Semiconductors**
+
+Intel's Wildcat Lake Core Series 3 CPUs have been revealed with penta-core processor details, including the entry-level Intel Core 3 304, which has seen some benchmarking. The Wildcat Lake SKUs have varying levels of SIPP support and GPU turbo clocks, outperforming their predecessors. Further information has been obtained from a post by Jaykihn on X.
+
+💡 **Key Point:** Wildcat Lake CPUs offer significant GPU turbo clock improvements over predecessors.
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/02/entry-level-intel-core-3-304-wildcat-lake-processor-details-and-benchmarks-surface/)
+
+---
+
+### 2. US government hires BlackSky to build next-gen AI surveillance satellites for Earth and beyond ⭐
+
+**⚡ Semiconductors**
+
+The US government has selected BlackSky to build advanced AI surveillance satellites.
+
+💡 **Key Point:** Enhanced US space surveillance capabilities boost national security and competitiveness.
+
+🔗 [Read More](https://www.techspot.com/news/111915-us-government-hires-blacksky-build-next-gen-ai.html)
+
+---
+
+### 3. Entry-level Intel Core 3 304 Wildcat Lake processor details and benchmarks surface ⭐
 
 **💻 Hardware**
 
-Telink's TL3228 is a dual-core RISC-V wireless MCU supporting Bluetooth 6.0 and more, delivering low power and latency. It features 192 MHz dual-core CPU, 384 KB SRAM, and 2.5 MB NVM storage. This MCU is suitable for various applications including Smart Home, asset tracking, and 8K gaming accessories.
+Intel's Wildcat Lake Core Series 3 CPUs have been revealed with penta-core processor details, including the entry-level Intel Core 3 304, which has seen some benchmarking. The Wildcat Lake SKUs have varying levels of SIPP support and GPU turbo clocks, outperforming their predecessors. Further information has been obtained from a post by Jaykihn on X.
 
-💡 **Key Point:** Enabling low-latency, high-speed wireless connectivity in resource-constrained IoT devices.
+💡 **Key Point:** Wildcat Lake CPUs offer significant GPU turbo clock improvements over predecessors.
 
-🔗 [Read More](https://www.cnx-software.com/2026/04/01/telink-tl3228-low-power-low-latency-dual-core-risc-v-wireless-mcu-supports-bluetooth-6-0-802-15-4-and-2-4-ghz-proprietary/)
+🔗 [Read More](https://www.cnx-software.com/2026/04/02/entry-level-intel-core-3-304-wildcat-lake-processor-details-and-benchmarks-surface/)
 
 ---
 
-### 2. Toradex OSM and Lino SoMs 30 30mm NXP i.MX 93/i.MX 91 modules with solder-down or B2B connector designs ⭐
+### 4. Raspberry Pi 4 3GB launched for $83.75, further price increases announced across the board for 4GB+ RAM hardware ⭐
 
 **💻 Hardware**
 
-Toradex has launched two ultra-compact (30x30mm) System-on-Module families: OSM and Lino, powered by NXP i.MX 91 or i.MX 93 SoCs for industrial and IoT applications. The OSM series features a solder-down design, while the Lino series has a B2B connector design for greater flexibility. Both series offer advanced features such as NPU and EdgeLock Secure Enclave.
+Raspberry Pi 4 with 3GB RAM is now available for $83.75, with no changes to its specifications. A price increase has been announced for the 4GB+ RAM hardware due to the rising cost of LPDDR4 DRAM.
 
-💡 **Key Point:** Enabling compact, secure, and adaptable industrial IoT solutions.
+💡 **Key Point:** Rising DRAM costs lead to sudden Raspberry Pi price hikes.
 
-🔗 [Read More](https://www.cnx-software.com/2026/03/31/toradex-osm-and-lino-soms-30x30mm-nxp-i-mx-93-i-mx-91-modules-with-solder-down-or-b2b-connector-designs/)
-
----
-
-### 3. Samsung wants $400 for a tablet keyboard, even more than Apple ⭐
-
-**💻 Hardware**
-
-Samsung's Book Cover Keyboard Slim costs $400, beating Apple's price.
-
-💡 **Key Point:** Expensive accessories erode Samsung's value proposition for Galaxy Tab users.
-
-🔗 [Read More](https://www.techspot.com/news/111890-samsung-new-galaxy-tab-s11-ultra-pro-keyboard.html)
+🔗 [Read More](https://www.cnx-software.com/2026/04/01/raspberry-pi-4-3gb-launched-for-83-75-further-price-increases-announced-across-the-board-for-4gb-ram-hardware/)
 
 ---
 
-### 4. Toradex OSM and Lino SoMs 30 30mm NXP i.MX 93/i.MX 91 modules with solder-down or B2B connector designs ⭐
+### 5. US government hires BlackSky to build next-gen AI surveillance satellites for Earth and beyond ⭐
 
-**🎮 GPUs**
+**🤖 AI & ML**
 
-Toradex has launched two ultra-compact (30x30mm) System-on-Module families: OSM and Lino, powered by NXP i.MX 91 or i.MX 93 SoCs for industrial and IoT applications. The OSM series features a solder-down design, while the Lino series has a B2B connector design for greater flexibility. Both series offer advanced features such as NPU and EdgeLock Secure Enclave.
+The US government has selected BlackSky to build advanced AI surveillance satellites.
 
-💡 **Key Point:** Enabling compact, secure, and adaptable industrial IoT solutions.
+💡 **Key Point:** Enhanced US space surveillance capabilities boost national security and competitiveness.
 
-🔗 [Read More](https://www.cnx-software.com/2026/03/31/toradex-osm-and-lino-soms-30x30mm-nxp-i-mx-93-i-mx-91-modules-with-solder-down-or-b2b-connector-designs/)
-
----
-
-### 5. Samsung wants $400 for a tablet keyboard, even more than Apple ⭐
-
-**📰 Tech News**
-
-Samsung's Book Cover Keyboard Slim costs $400, beating Apple's price.
-
-💡 **Key Point:** Expensive accessories erode Samsung's value proposition for Galaxy Tab users.
-
-🔗 [Read More](https://www.techspot.com/news/111890-samsung-new-galaxy-tab-s11-ultra-pro-keyboard.html)
+🔗 [Read More](https://www.techspot.com/news/111915-us-government-hires-blacksky-build-next-gen-ai.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **61 articles** across **5 focused categories**.
+We covered **57 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 19 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 12 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
+| 🤖 [AI & ML](ai_and_ml.md) | 16 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 20 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 14 | Industry news and product launches |
+| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 19 articles
+*Artificial Intelligence and Machine Learning* — 16 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 12 articles
+*Graphics cards and compute accelerators* — 6 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 10 articles
+*Computing hardware and development boards* — 20 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
 *Chip manufacturing and design* — 6 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 14 articles
+*Industry news and product launches* — 9 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-04-01 at 09:51 by an autonomous AI curation system.
+Generated 2026-04-02 at 09:43 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
