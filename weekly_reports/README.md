@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 02, 2026**
+**Week of April 03, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,97 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Entry-level Intel Core 3 304 Wildcat Lake processor details and benchmarks surface ⭐
-
-**⚡ Semiconductors**
-
-Intel's Wildcat Lake Core Series 3 CPUs have been revealed with penta-core processor details, including the entry-level Intel Core 3 304, which has seen some benchmarking. The Wildcat Lake SKUs have varying levels of SIPP support and GPU turbo clocks, outperforming their predecessors. Further information has been obtained from a post by Jaykihn on X.
-
-💡 **Key Point:** Wildcat Lake CPUs offer significant GPU turbo clock improvements over predecessors.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/02/entry-level-intel-core-3-304-wildcat-lake-processor-details-and-benchmarks-surface/)
-
----
-
-### 2. US government hires BlackSky to build next-gen AI surveillance satellites for Earth and beyond ⭐
-
-**⚡ Semiconductors**
-
-The US government has selected BlackSky to build advanced AI surveillance satellites.
-
-💡 **Key Point:** Enhanced US space surveillance capabilities boost national security and competitiveness.
-
-🔗 [Read More](https://www.techspot.com/news/111915-us-government-hires-blacksky-build-next-gen-ai.html)
-
----
-
-### 3. Entry-level Intel Core 3 304 Wildcat Lake processor details and benchmarks surface ⭐
+### 1. GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ⭐
 
 **💻 Hardware**
 
-Intel's Wildcat Lake Core Series 3 CPUs have been revealed with penta-core processor details, including the entry-level Intel Core 3 304, which has seen some benchmarking. The Wildcat Lake SKUs have varying levels of SIPP support and GPU turbo clocks, outperforming their predecessors. Further information has been obtained from a post by Jaykihn on X.
+The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compelling package.
 
-💡 **Key Point:** Wildcat Lake CPUs offer significant GPU turbo clock improvements over predecessors.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/02/entry-level-intel-core-3-304-wildcat-lake-processor-details-and-benchmarks-surface/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/gamestop-nvme-ssd-2tb-ssd-review)
 
 ---
 
-### 4. Raspberry Pi 4 3GB launched for $83.75, further price increases announced across the board for 4GB+ RAM hardware ⭐
+### 2. GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ⭐
 
-**💻 Hardware**
+**📰 Tech News**
 
-Raspberry Pi 4 with 3GB RAM is now available for $83.75, with no changes to its specifications. A price increase has been announced for the 4GB+ RAM hardware due to the rising cost of LPDDR4 DRAM.
+The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compelling package.
 
-💡 **Key Point:** Rising DRAM costs lead to sudden Raspberry Pi price hikes.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/01/raspberry-pi-4-3gb-launched-for-83-75-further-price-increases-announced-across-the-board-for-4gb-ram-hardware/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/gamestop-nvme-ssd-2tb-ssd-review)
 
 ---
 
-### 5. US government hires BlackSky to build next-gen AI surveillance satellites for Earth and beyond ⭐
+### 3. Why Nvidia just poured $2 billion into AI ASIC competitor Marvell NVLink Fusion turns into soft ecosystem lock-in 
 
 **🤖 AI & ML**
 
-The US government has selected BlackSky to build advanced AI surveillance satellites.
+Nvidia has invested $2 billion in Marvell and formed a partnership through NVLink Fusion, potentially expanding their reach in the AI ASIC market.
 
-💡 **Key Point:** Enhanced US space surveillance capabilities boost national security and competitiveness.
+💡 **Key Point:** Nvidia secures AI ASIC dominance through strategic ecosystem partnership.
 
-🔗 [Read More](https://www.techspot.com/news/111915-us-government-hires-blacksky-build-next-gen-ai.html)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/nvidia-invests-2-billion-in-marvell-whose-biggest-clients-are-trying-to-replace-nvidia-chips)
+
+---
+
+### 4. SupTronics X1208 A UPS + M.2 NVMe SSD HAT for the Raspberry Pi 5 
+
+**🤖 AI & ML**
+
+The SupTronics X1208 is a UPS and M.2 NVMe SSD HAT designed for the Raspberry Pi 5, providing fast storage and power protection during outages.
+
+💡 **Key Point:** Raspberry Pi 5 systems now have built-in power protection and storage
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/03/suptronics-x1208-a-ups-m-2-nvme-ssd-hat-for-the-raspberry-pi-5/)
+
+---
+
+### 5. This chip keeps working at 700 C, surviving lava-like heat 
+
+**🤖 AI & ML**
+
+USC researchers developed a memory device that withstands extreme heat up to 700°C, far surpassing previous thermal limits.
+
+💡 **Key Point:** Advancements in heat-resistant electronics could revolutionize high-temperature applications.
+
+🔗 [Read More](https://www.techspot.com/news/111928-chip-keeps-working-700c-surviving-lava-like-heat.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **57 articles** across **5 focused categories**.
+We covered **54 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 16 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 20 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 21 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 16 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 16 articles
+*Artificial Intelligence and Machine Learning* — 21 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 6 articles
+*Graphics cards and compute accelerators* — 5 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 20 articles
+*Computing hardware and development boards* — 16 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 6 articles
+*Chip manufacturing and design* — 5 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 9 articles
+*Industry news and product launches* — 7 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-04-02 at 09:43 by an autonomous AI curation system.
+Generated 2026-04-03 at 09:38 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

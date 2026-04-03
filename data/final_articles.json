@@ -1,399 +1,375 @@
 [
   {
-    "title": "Nvidia market share in China falls to less than 60% Chinese chip makers deliver 1.65 million AI GPUs as the government pushes data centers to use domestic chips",
-    "summary": "Nvidia's market share in China drops to 55% as local chip makers gain ground, delivering 1.65 million AI GPUs.",
-    "link": "https://www.tomshardware.com/tech-industry/nvidia-market-share-in-china-falls-to-less-than-60-percent-chinese-chip-makers-deliver-1-65-million-ai-gpus-as-the-government-pushes-data-centers-to-use-domestic-chips",
+    "title": "America s AI chip rules keep changing and the rest of the world is paying the price",
+    "summary": "The US is changing its export control rules for AI chips, impacting global trade and technology sharing. Experts like Chris McGuire are discussing the implications of these shifting policies. The Trump Administration's stance on AI accelerator exports is in flux.",
+    "link": "https://www.tomshardware.com/tech-industry/americas-ai-chip-rules-keep-changing-and-the-rest-of-the-world-is-paying-the-price",
     "categories": [
-      "Semiconductors",
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.488663",
+    "insight": "US AI chip rules uncertainty hampers global technological collaboration and competition."
+  },
+  {
+    "title": "Artemis II astronaut finds two Outlook instances running on computers, calls on Houston to fix Microsoft anomaly puzzled caller describes two Outlooks, and neither one of those are working ",
+    "summary": "Artemis II astronaut reports two non-functional Microsoft Outlook instances on space station computers.",
+    "link": "https://www.tomshardware.com/software/microsoft-office/artemis-ii-astronaut-finds-two-outlook-instances-running-on-computers-call-on-houston-to-fix-microsoft-anomaly-puzzled-caller-describes-two-outlooks-and-neither-one-of-those-are-working",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.488799",
+    "insight": "Software malfunction can compromise critical space missions and operations."
+  },
+  {
+    "title": "Denuvo has been broken, company promises countermeasures against new DRM bypasses zero-day game releases become norm as security concerns mount over hypervisor-based bypass",
+    "summary": "Denuvo, a popular DRM solution, has been broken by recent hypervisor-based bypasses, prompting the company to promise countermeasures. The company aims to prevent future zero-day exploits, which have become a norm in the gaming industry. The industry is concerned about the security implications of these bypasses.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-broken-company-promises-countermeasures-against-new-drm-bypasses-zero-day-game-releases-become-norm-as-security-concerns-mount-over-hypervisor-based-bypass",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.488924",
+    "insight": "Gaming industry security is compromised by hypervisor-based DRM bypasses."
+  },
+  {
+    "title": "China's homegrown silicon suppliers gain traction as Nvidia struggles to get its chips into the market Huawei, Cambricon and more step up to fill crucial market gap",
+    "summary": "Nvidia's market share in China's data center market is declining, with homegrown suppliers like Huawei and Cambricon gaining traction and increasing their combined market share to 41%. This shift is a result of the ongoing US-China tech tensions and Nvidia's struggles to supply its chips to the Chinese market. The growth of Chinese suppliers is expected to continue.",
+    "link": "https://www.tomshardware.com/tech-industry/chinas-homegrown-silicon-suppliers-gain-traction-as-nvidia-struggles-to-get-its-chips-into-the-market-huawei-cambricon-and-more-step-up-to-fill-crucial-market-gap",
+    "categories": [
+      "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.249705",
-    "insight": "Government support boosts domestic chip makers at Nvidia's expense in China."
+    "processed_date": "2026-04-03T09:37:25.489053",
+    "insight": "Rise of Chinese AI chipmakers challenges Nvidia's global dominance."
   },
   {
-    "title": "Save $100 on the gaming powerhouse AMD Ryzen 5 7600X3D, now $246 on Amazon budget-friendly X3D processor with 96MB cache, low power draw, and excellent gaming performance",
-    "summary": "The Ryzen 5 7600X3D offers exceptional gaming performance at a budget-friendly price. This processor boasts a 96MB cache and low power draw, making it an attractive option for gamers. It delivers X3D-level performance at a lower cost than higher-end models.",
-    "link": "https://www.tomshardware.com/pc-components/save-usd100-on-the-gaming-powerhouse-amd-ryzen-5-7600x3d-now-usd246-on-amazon-budget-friendly-x3d-processor-with-96mb-cache-low-power-draw-and-excellent-gaming-performance",
+    "title": "IBM spruces up its mainframes with new support for modern Arm workloads firm teams up with Arm to run Arm workloads on IBM Z mainframes",
+    "summary": "IBM is enhancing its mainframes to support modern Arm workloads, partnering with Arm to run these workloads on IBM Z and LinuxONE systems. This move aims to make IBM's machines more relevant for today's AI and data-intensive workloads. Cloud-native applications will now be compatible with IBM's mainframes.",
+    "link": "https://www.tomshardware.com/desktops/servers/ibm-spruces-up-its-mainframes-with-new-support-for-modern-arm-workloads-firm-teams-up-with-arm-to-run-arm-workloads-on-ibm-z-mainframes",
     "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-02T09:42:22.249835",
-    "insight": "Budget gamers get high-performance X3D-level processing without breaking the bank."
-  },
-  {
-    "title": "Nvidia App adds 'Auto Shader Compilation' for faster load times in games beta feature automatically recompiles shaders in the background after every driver update",
-    "summary": "The Nvidia App now auto-compiles shaders in background after driver updates. This saves gamers time, especially in blockbuster titles. Initial compile still required after new install.",
-    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-app-adds-auto-shader-compilation-for-faster-load-times-in-games-beta-feature-automatically-recompiles-shaders-in-the-background-after-every-driver-update",
-    "categories": [
-      "GPUs"
+      "AI & ML",
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.249968",
-    "insight": "Faster game load times through automatic shader recompilation"
+    "processed_date": "2026-04-03T09:37:25.489213",
+    "insight": "Mainframe relevance restored with Arm-based cloud-native workload support"
   },
   {
-    "title": "DRAM prices predicted to jump 63% in Q2, NAND up to 75% follows 95% jumps in Q1, Trendforce says AI server demand keeps supply tight",
-    "summary": "DRAM contract prices are predicted to rise by 58-63% in Q2 2026, while NAND Flash prices will jump 70-75% QoQ. This significant increase is attributed to tight supply due to strong demand for AI servers. The prices saw a 95% jump in Q1.",
-    "link": "https://www.tomshardware.com/pc-components/dram/dram-and-nand-contract-prices-to-climb-again-in-q2",
+    "title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps one giant step beyond the S-band radio comms of the Apollo era",
+    "summary": "NASA's Artemis II will live-stream 4K moon footage via laser beams at 260 Mbps, surpassing the resolution and speed of the Apollo era's S-band radio comms.",
+    "link": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.489330",
+    "insight": "Revolutionizing space communication with high-speed, low-latency laser transmission technology."
+  },
+  {
+    "title": "Ubuntu Linux raises minimum system memory requirements by 50% requirements bumped to 6GB of RAM, previously raised from 1GB to 4GB in 2018",
+    "summary": "Ubuntu 26.04 LTS raises minimum system memory requirements by 50% to 6GB RAM.",
+    "link": "https://www.tomshardware.com/software/operating-systems/ubunto-linux-raises-minimum-system-requirements-to-6gb-of-ram-it-was-previously-raised-from-1gb-to-4gb-in-2018",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.489446",
+    "insight": "Impact on low-RAM devices and users with outdated hardware configurations"
+  },
+  {
+    "title": "1Hz laptop display reportedly helps deliver outstanding 43-hour battery life on the XPS 14 during web browser use beats the M5 MacBook Air by more than 28 hours in the same test",
+    "summary": "The Dell XPS 14 boasts exceptional battery life thanks to its 1Hz display, outperforming the M5 MacBook Air by nearly 30 hours in web browser tests, delivering up to 43 hours of battery life.",
+    "link": "https://www.tomshardware.com/laptops/1hz-laptop-display-reportedly-helps-deliver-outstanding-43-hour-battery-life-on-the-xps-14-during-web-browser-use-beats-the-m5-macbook-air-by-more-than-28-hours-in-the-same-test",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.250081",
-    "insight": "Tight AI server demand exacerbates memory price volatility."
+    "processed_date": "2026-04-03T09:37:25.489568",
+    "insight": "1Hz display technology significantly boosts laptop battery life"
   },
   {
-    "title": "Arm to sell its new AGI CPU in China 'we would expect the demand for this product to be just as strong in China as it is in the rest of the world'",
-    "summary": "Arm's 136-core Neoverse V3 AGI processor is eligible for sale in China, with expected strong demand.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/arm-to-sell-its-new-agi-cpu-in-china-we-would-expect-the-demand-for-this-product-to-be-just-as-strong-in-china-as-it-is-in-the-rest-of-the-world",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.250234",
-    "insight": "China presents a significant market opportunity for Arm's new AGI processor."
-  },
-  {
-    "title": "PC makers report surging prices across different components increasing costs are going beyond memory chip and processors, now affecting PCBs, plastic materials, and more",
-    "summary": "PC makers face rising costs from suppliers across various components, including processors, memory chips, PCBs, and plastics. Price hikes are affecting multiple parts of the manufacturing process. This is causing increased expenses for PC manufacturers.",
-    "link": "https://www.tomshardware.com/tech-industry/pc-makers-report-surging-prices-across-different-components-increasing-costs-are-going-beyond-memory-chip-and-processors-now-affecting-pcbs-plastic-materials-and-more",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.250352",
-    "insight": "Supply chain disruptions lead to widespread price increases in PC components."
-  },
-  {
-    "title": "Gigabyte X870E Aorus Xtreme AI Top Motherboard Review: Solid flagship, but the X3D version is what you want today",
-    "summary": "The Gigabyte X870E Aorus Xtreme AI Top delivers solid performance and premium features, but is pricey and outdated.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870e-aorus-xtreme-ai-top-motherboard-review",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.250469",
-    "insight": "Newer refresh boards like the X3D version outshine the X870E."
-  },
-  {
-    "title": "Microsoft issues emergency update for Windows 11 fixes broken March preview update rollout from last week",
-    "summary": "Microsoft released an emergency update for Windows 11 to address install errors caused by a previous preview update. The new update replaces the problematic KB5079391 rollout, aiming to resolve widespread issues. Users can now safely install the latest Windows 11 updates.",
-    "link": "https://www.tomshardware.com/software/windows/microsoft-issues-emergency-update-for-windows-11-fixes-broken-march-preview-update-rollout-from-last-week",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-02T09:42:22.250579",
-    "insight": "Fixing critical Windows update errors prevents data loss and downtime."
-  },
-  {
-    "title": "Oracle believed to have cut 10,000 positions across multiple divisions as mass layoffs begin to fuel AI investments company is reportedly reducing headcount to fund data centers",
-    "summary": "Oracle reportedly cut over 10,000 positions to fund AI investments, amid billions spent on AI infrastructure.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/oracle-believed-to-have-cut-10-000-positions-across-multiple-divisions-as-mass-layoffs-begin-company-is-reportedly-reducing-headcount-as-it-makes-massive-investments-in-ai",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.250697",
-    "insight": "Layoffs fund AI ambitions, potentially long-term financial instability follows."
-  },
-  {
-    "title": "Pay $611 for 64GB of Corsair Vengeance RAM and Samsung's 2TB PCIe Gen 5 9100 Pro when paired with a Gigabyte X870 Auros Elite motherboard and Corsair Frame 5000D case matching colors for a pure white build",
-    "summary": "This build features 64GB of DDR5 RAM, a 2TB SSD, and a Gigabyte motherboard, all paired with a Corsair case in a pure white design.",
-    "link": "https://www.tomshardware.com/pc-components/pay-usd611-for-64gb-of-corsair-vengeance-ram-and-samsungs-2tb-pcie-gen-5-9100-pro-when-paired-with-a-gigabyte-x870-auros-elite-motherboard-and-corsair-frame-5000d-case-matching-colors-for-a-pure-white-build",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.250807",
-    "insight": "Future-proof gaming performance with high-capacity storage and memory."
-  },
-  {
-    "title": "Hacker charged for stealing $53 million in crypto, faces up to 30 years in prison Uranium Finance thief spent $2 million of illicit funds on Magic: The Gathering, $1 million on Pok mon cards",
-    "summary": "Jonathan Spalletta is charged with stealing $53.3 million in cryptocurrency from Uranium Finance. The theft led to the shut down of the finance platform. He faces up to 30 years in prison for computer fraud and money laundering.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/hacker-charged-for-stealing-usd53-million-in-crypto-faces-up-to-30-years-in-prison-uranium-finance-thief-spent-usd2-million-of-illicit-funds-on-magic-the-gathering-usd1-million-on-pokemon-cards",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.250919",
-    "insight": "Cybercrime poses significant financial risks to global digital economies."
-  },
-  {
-    "title": "PC enthusiast finds relic Nvidia 3D Vision 2 glasses for $2.99 PC gaming artifact from 2011 cost $149 new, was once Nvidia's 'vision' for the future of gaming",
-    "summary": "A PC enthusiast bought sealed Nvidia 3D Vision 2 glasses for $2.99, a significant discount from its original $149 price.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-headsets/pc-enthusiast-finds-relic-nvidia-3d-vision-2-glasses-for-usd2-99-pc-gaming-artifact-from-2011-cost-usd149-new-was-once-the-future-of-gaming",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.251024",
-    "insight": "Nvidia's 2011 3D vision technology seems largely obsolete now, abandoned."
-  },
-  {
-    "title": "Apple turns 50 one of the world's biggest tech companies started with hobbyist computers",
-    "summary": "Apple, one of the world's largest tech companies, celebrates its 50th anniversary. Founded by Steve Jobs, Steve Wozniak, and Ronald Wayne, the company started as a hobbyist computer manufacturer. Its early roots led to innovative products and global success.",
-    "link": "https://www.tomshardware.com/laptops/macbooks/apple-turns-50-one-of-the-worlds-biggest-tech-companies-started-with-hobbyist-computers",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.251125",
-    "insight": "Hobbyist roots fueled innovation and shaped Apple's path to greatness."
-  },
-  {
-    "title": "Entry-level Intel Core 3 304 Wildcat Lake processor details and benchmarks surface",
-    "summary": "Intel's Wildcat Lake Core Series 3 CPUs have been revealed with penta-core processor details, including the entry-level Intel Core 3 304, which has seen some benchmarking. The Wildcat Lake SKUs have varying levels of SIPP support and GPU turbo clocks, outperforming their predecessors. Further information has been obtained from a post by Jaykihn on X.",
-    "link": "https://www.cnx-software.com/2026/04/02/entry-level-intel-core-3-304-wildcat-lake-processor-details-and-benchmarks-surface/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-02T09:42:22.251696",
-    "insight": "Wildcat Lake CPUs offer significant GPU turbo clock improvements over predecessors."
-  },
-  {
-    "title": "Digi IX25 A rugged 5G RedCap/eMBB industrial cellular router",
-    "summary": "Digi IX25 is a rugged 5G industrial cellular router for critical and enterprise applications, offering cellular networking, edge computing, and secure connectivity in a single device.",
-    "link": "https://www.cnx-software.com/2026/04/01/digi-ix25-a-rugged-5g-redcap-embb-industrial-cellular-router/",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-02T09:42:22.251876",
-    "insight": "Rugged 5G router simplifies deployment in harsh environments efficiently."
-  },
-  {
-    "title": "Raspberry Pi 4 3GB launched for $83.75, further price increases announced across the board for 4GB+ RAM hardware",
-    "summary": "Raspberry Pi 4 with 3GB RAM is now available for $83.75, with no changes to its specifications. A price increase has been announced for the 4GB+ RAM hardware due to the rising cost of LPDDR4 DRAM.",
-    "link": "https://www.cnx-software.com/2026/04/01/raspberry-pi-4-3gb-launched-for-83-75-further-price-increases-announced-across-the-board-for-4gb-ram-hardware/",
+    "title": "GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5",
+    "summary": "The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compelling package.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/gamestop-nvme-ssd-2tb-ssd-review",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 15,
-    "processed_date": "2026-04-02T09:42:22.252040",
-    "insight": "Rising DRAM costs lead to sudden Raspberry Pi price hikes."
+    "processed_date": "2026-04-03T09:37:25.489684"
   },
   {
-    "title": "Artemis II with four crew aboard lifts off for Moon",
-    "summary": "The Artemis II mission successfully launched with an Orion space capsule carrying four astronauts. The crew is on a historic mission to the Moon, paving the way for future human exploration. The Space Flight System and rocket performed flawlessly.",
-    "link": "https://www.fiercesensors.com/sensors/artemis-ii-four-crew-aboard-lifts-moon",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-02T09:42:22.253032",
-    "insight": "Pioneering human lunar mission sets stage for long-term space presence."
-  },
-  {
-    "title": "NASA contractors supply an array of sensing tech for Artemis II",
-    "summary": "NASA contractors are supplying various sensing technologies for the Artemis II mission. These technologies include sensor fusion, display systems, and radiation detectors. The sensors will help monitor the crew's health and safety.",
-    "link": "https://www.fiercesensors.com/sensors/nasa-contractors-supply-array-sensing-tech-artemis-ii",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-02T09:42:22.253211",
-    "insight": "Advanced sensing tech ensures crew safety during deep space missions."
-  },
-  {
-    "title": "Assembly of 59 Best of Sensors 2026 finalists announced",
-    "summary": "The 59 finalists for the Best of Sensors 2026 awards have been announced. The winners will be revealed on May 6 at Sensors Converge 2026 in Santa Clara. The event will take place at the Santa Clara Convention Center.",
-    "link": "https://www.fiercesensors.com/sensors/59-best-sensors-2026-finalists-announced",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.253364",
-    "insight": "Innovation in sensors technology is key to driving industry advancements."
-  },
-  {
-    "title": "Sony's upcoming handheld could outperform Xbox Series S with next-gen upscaling",
-    "summary": "Sony's rumored handheld, codenamed Canis, may outperform Xbox Series S with a faster graphics chip. The device is expected to complement the PlayStation 6, releasing late 2027 at the earliest. KeplerL2 made the claim recently.",
-    "link": "https://www.techspot.com/news/111919-sony-upcoming-handheld-could-outperform-xbox-series-s.html",
+    "title": "Amazing $490 Newegg combo includes an AMD Ryzen 5 9600X CPU, 16GB of G.Skill DDR5-6000 RAM, MSI Pro B850-S motherboard, and 240mm MSI MAG Coreliquid A13 AIO CPU cooler all for under $500",
+    "summary": "Save under $500 on an AMD Ryzen 5 9600X bundle from Newegg.",
+    "link": "https://www.tomshardware.com/pc-components/amazing-usd490-newegg-combo-includes-an-amd-ryzen-5-9600x-cpu-16gb-of-g-skill-ddr5-6000-ram-msi-pro-b850-s-motherboard-and-240mm-msi-mag-coreliquid-a13-aio-cpu-cooler-all-for-under-usd500",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.253771",
-    "insight": "Sony's handheld could bridge the gap with next-gen console performance."
+    "processed_date": "2026-04-03T09:37:25.489816",
+    "insight": "Budget PC builders can now access high-performance components cheaply."
   },
   {
-    "title": "Google offers researchers early access to Willow quantum processor",
-    "summary": "Google offers researchers early access to its Willow quantum processor through a selective Early Access Program. This program invites researchers to design and propose experiments that push the boundaries of current hardware capabilities. Participation has a firm deadline of May 15.",
-    "link": "https://www.techspot.com/news/111912-google-offers-researchers-early-access-willow-quantum-processor.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-02T09:42:22.253956",
-    "insight": "Accelerating quantum research and innovation through early hardware access."
-  },
-  {
-    "title": "US government hires BlackSky to build next-gen AI surveillance satellites for Earth and beyond",
-    "summary": "The US government has selected BlackSky to build advanced AI surveillance satellites.",
-    "link": "https://www.techspot.com/news/111915-us-government-hires-blacksky-build-next-gen-ai.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-02T09:42:22.254148",
-    "insight": "Enhanced US space surveillance capabilities boost national security and competitiveness."
-  },
-  {
-    "title": "Linux gaming levels up as CachyOS beats Windows 11 in head-to-head tests",
-    "summary": "Linux-based CachyOS outperforms Windows 11 in head-to-head gaming tests, using identical hardware.",
-    "link": "https://www.techspot.com/news/111908-linux-gaming-levels-up-cachyos-beats-windows-11.html",
+    "title": "Modders use jumper wires and a custom BIOS to save a damaged RTX 4090 from the trash resurrected Nvidia gaming GPU loses 4GB of VRAM to overcome terminal PCB sagging",
+    "summary": "A YouTuber used a custom BIOS to revive a damaged RTX 4090 with a bent PCB, reducing its VRAM from 24GB to 20GB. This process stabilized the GPU and allowed it to function. The modder utilized jumper wires to bypass the damaged area.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/modders-use-jumper-wires-and-a-custom-bios-to-save-a-damaged-rtx-4090-from-the-trash-resurrected-nvidia-gaming-gpu-loses-4gb-of-vram-to-overcome-terminal-pcb-sagging",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.254352",
-    "insight": "Linux gaming can rival Windows' performance on high-end hardware configurations."
+    "processed_date": "2026-04-03T09:37:25.489934",
+    "insight": "Creative repurposing of damaged hardware can extend its lifespan and usefulness."
   },
   {
-    "title": "AirPods Max 2 reviewed: premium sound, top-tier ANC, same high price",
-    "summary": "AirPods Max 2 offer improved sound quality and top-tier noise cancellation, powered by the H2 chip, while maintaining a high price.",
-    "link": "https://www.techspot.com/products/headphones/apple-airpods-max-2.323330/",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-02T09:42:22.254520",
-    "insight": "Premium audio and ANC advancements justify the expensive upgrade cost."
-  },
-  {
-    "title": "Google Drive can now detect ransomware and roll back your files",
-    "summary": "Google Drive now detects and rolls back ransomware attacks on files using AI-powered tools.",
-    "link": "https://www.techspot.com/news/111900-google-rolls-out-ai-powered-ransomware-protection-all.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-02T09:42:22.254697",
-    "insight": "Enhanced security protects against devastating ransomware attacks on personal files."
-  },
-  {
-    "title": "A paralyzed musician is using a brain implant to create music",
-    "summary": "Buckwalter, paralyzed from the chest down, creates music with a brain implant. He underwent a craniotomy and six Blackrock Neurotech chips were implanted in his motor cortex. This allowed him to compose music through brain signals.",
-    "link": "https://www.techspot.com/news/111910-brain-implants-paralyzed-man-make-music-thoughts.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.254865",
-    "insight": "Brain-computer interfaces can restore creative abilities in individuals with paralysis."
-  },
-  {
-    "title": "Anthropic accidentally exposed Claude Code source, raising security concerns",
-    "summary": "Anthropic accidentally exposed Claude's code source through a JavaScript debugging map. The incident occurred in version 2.1.88 of the @anthropic-ai/claude-code package on npm. This has raised concerns over security and intellectual property.",
-    "link": "https://www.techspot.com/news/111907-anthropic-accidentally-exposed-claude-code-source-raising-security.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.255025",
-    "insight": "Exposure of source code can compromise AI model security"
-  },
-  {
-    "title": "Crimson Desert hits 4 million sales despite rocky launch",
-    "summary": "Crimson Desert, a highly anticipated game, received mixed reviews and a poor Steam rating, leading to a decline in developer Pearl Abyss' shares.",
-    "link": "https://www.techspot.com/news/111914-crimson-desert-hits-4-million-sales-despite-rocky.html",
+    "title": "Why Nvidia just poured $2 billion into AI ASIC competitor Marvell NVLink Fusion turns into soft ecosystem lock-in",
+    "summary": "Nvidia has invested $2 billion in Marvell and formed a partnership through NVLink Fusion, potentially expanding their reach in the AI ASIC market.",
+    "link": "https://www.tomshardware.com/tech-industry/nvidia-invests-2-billion-in-marvell-whose-biggest-clients-are-trying-to-replace-nvidia-chips",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-04-02T09:42:22.255219",
-    "insight": "Mixed reviews and user feedback impact game developer's stock value significantly."
+    "quality_score": 10,
+    "processed_date": "2026-04-03T09:37:25.490061",
+    "insight": "Nvidia secures AI ASIC dominance through strategic ecosystem partnership."
   },
   {
-    "title": "Oracle layoffs could reach 30,000 as company doubles down on AI",
-    "summary": "Oracle may lay off 20,000 to 30,000 employees due to AI focus.",
-    "link": "https://www.techspot.com/news/111902-oracle-layoffs-could-reach-30000-company-doubles-down.html",
+    "title": "Global semiconductor foundry market hit a record $320 billion in 2025 as TSMC pulled further ahead",
+    "summary": "The global semiconductor foundry market hit a record $320 billion in revenue in 2025, with a 16% year-over-year growth, driven by increasing demand for semiconductors in various industries.",
+    "link": "https://www.tomshardware.com/tech-industry/global-semiconductor-foundry-market-hit-a-record-320-billion-in-2025",
     "categories": [
-      "AI & ML"
+      "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.255383",
-    "insight": "Mass layoffs signal shift towards AI-driven workforce automation."
+    "quality_score": 10,
+    "processed_date": "2026-04-03T09:37:25.490193",
+    "insight": "Semiconductor demand drives record-breaking foundry market growth momentum"
   },
   {
-    "title": "Tesla admits that remote humans can sometimes take control of its robotaxis",
-    "summary": "Tesla revealed that remote humans may take control of its robotaxis occasionally. This disclosure comes from a response to an investigation into the use of remote assistance operators in autonomous vehicles. The investigation aims to ensure the safety and accountability of autonomous vehicle companies.",
-    "link": "https://www.techspot.com/news/111911-tesla-admits-remote-humans-can-sometimes-take-control.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.255537",
-    "insight": "Trust in autonomous vehicles is compromised by human intervention."
-  },
-  {
-    "title": "You can finally change your Gmail address without losing everything",
-    "summary": "Gmail users in the US can change usernames without losing access to services.",
-    "link": "https://www.techspot.com/news/111901-you-can-finally-change-gmail-address-without-losing.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.255702",
-    "insight": "Preserves online identity and continuity for users changing email usernames."
-  },
-  {
-    "title": "Hypervisor-based cracks are breaking Denuvo protections in hours",
-    "summary": "Denuvo's anti-tamper technology has been cracked by a new virtualization-based method, breaking the company's aura of invincibility.",
-    "link": "https://www.techspot.com/news/111897-hypervisor-based-cracks-breaking-denuvo-protections-hours.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.255878",
-    "insight": "Rapid cracks undermine game developers' revenue and intellectual property protection."
-  },
-  {
-    "title": "Iran threatens attacks on Nvidia, Microsoft, Intel, and other US tech firms in the Middle East",
-    "summary": "Iran's IRGC threatens to target US tech firms in Middle East, including Nvidia, Microsoft, and Intel, over their involvement in military technology.",
-    "link": "https://www.techspot.com/news/111909-iran-threatens-attacks-nvidia-microsoft-intel-other-us.html",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-02T09:42:22.256046",
-    "insight": "US tech interests in Middle East are at risk of Iranian retaliation."
-  },
-  {
-    "title": "AI can clone open-source software in minutes, and that's a problem",
-    "summary": "AI tools can rapidly clone open-source software, creating proprietary versions with legal distinctions.",
-    "link": "https://www.techspot.com/news/111904-ai-can-clone-open-source-software-minutes-problem.html",
+    "title": "Raspberry Pi flagship 500+ model now costs almost as much as a Mac Mini firm Pi launches 3GB model to fight increasing DRAM prices",
+    "summary": "Raspberry Pi prices have risen due to the ongoing DRAM shortage. The flagship 500+ 16GB model has seen a nearly 50% price increase. To combat this, a new 3GB model has been launched.",
+    "link": "https://www.tomshardware.com/raspberry-pi/raspberry-pi-launches-3gb-model-to-fight-increasing-dram-prices-flagship-500-model-now-costs-almost-as-much-as-a-mac-mini",
     "categories": [
       "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.490310",
+    "insight": "Rising DRAM prices impact affordability of single-board computers."
+  },
+  {
+    "title": "SupTronics X1208 A UPS + M.2 NVMe SSD HAT for the Raspberry Pi 5",
+    "summary": "The SupTronics X1208 is a UPS and M.2 NVMe SSD HAT designed for the Raspberry Pi 5, providing fast storage and power protection during outages.",
+    "link": "https://www.cnx-software.com/2026/04/03/suptronics-x1208-a-ups-m-2-nvme-ssd-hat-for-the-raspberry-pi-5/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-03T09:37:25.490820",
+    "insight": "Raspberry Pi 5 systems now have built-in power protection and storage"
+  },
+  {
+    "title": "Sentinel Core A Raspberry Pi CM5 mini-ITX carrier board with a PCIe x16 slot (Crowdfunding)",
+    "summary": "The Sentinel Core is a Raspberry Pi CM5 carrier board with a PCIe x16 slot, allowing users to connect a graphics card for accelerated 3D graphics, video transcoding, or AI workloads. It also features HDMI ports, a Gigabit Ethernet port, USB ports, and a prototyping area. This carrier board supports the Raspberry Pi Compute Module 5.",
+    "link": "https://www.cnx-software.com/2026/04/03/sentinel-core-raspberry-pi-cm5-mini-itx-carrier-board-with-a-pcie-x16-slot/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-03T09:37:25.490998",
+    "insight": "Accelerates AI, 3D graphics, and video workloads with PCIe x16 slot"
+  },
+  {
+    "title": "Nuvoton NuMicro M3331 Cortex-M33 MCU features built-in ARGB LED controller, optional USB 2.0 OTG interface",
+    "summary": "Nuvoton's NuMicro M3331 MCU features a built-in ARGB LED controller and optional USB 2.0 OTG interface. It's a 32-bit Arm Cortex-M33 MCU clocked at 180 MHz with TrustZone security and a single-precision FPU. This MCU is suitable for smart factories, renewable energy systems, and consumer devices.",
+    "link": "https://www.cnx-software.com/2026/04/02/nuvoton-numicro-m3331-cortex-m33-mcu-features-built-in-argb-led-controller-optional-usb-2-0-otg-interface/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-03T09:37:25.491198",
+    "insight": "Offloads CPU for fluid LED effects in gaming applications"
+  },
+  {
+    "title": "Mekotronics R57-5S Rockchip RK3576 mini PC and digital player integrates inclined 5-inch touchscreen display",
+    "summary": "The Mekotronics R57-5S is a Rockchip RK3576 mini PC with a built-in 5-inch touchscreen display, designed for kiosks and digital signage applications. It offers various storage and connectivity options, including HDMI 2.1 and USB-C DP outputs. The system also features an AI accelerator and terminal block interfaces.",
+    "link": "https://www.cnx-software.com/2026/04/02/mekotronics-r57-5s-rockchip-rk3576-mini-pc-and-digital-player-integrates-inclined-5-inch-touchscreen-display/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-03T09:37:25.491371",
+    "insight": "Enhanced digital signage with AI capabilities and touchscreen interactivity"
+  },
+  {
+    "title": "Humanity returns to the Moon, but Outlook still doesn't work",
+    "summary": "NASA's historic Moon return mission encountered an unexpected issue: a malfunctioning software, Outlook, which added a relatable moment to the historic launch.",
+    "link": "https://www.techspot.com/news/111933-humanity-returns-moon-but-outlook-doesnt-work.html",
+    "categories": [
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-04-02T09:42:22.256259",
-    "insight": "Bending copyright law and open-source principles with AI-powered cloning threatens innovation."
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.492573",
+    "insight": "Humanity's technological advancements still struggle with everyday software issues."
+  },
+  {
+    "title": "Dell's new XPS 14 dominates MacBook Air with 43 hours of battery life in web browsing test",
+    "summary": "Dell's XPS 14 laptop boasts exceptional battery life, lasting 43 hours on a single charge while browsing the web with variable refresh rate enabled.",
+    "link": "https://www.techspot.com/news/111920-dell-new-xps-14-dominates-macbook-air-43.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.492769",
+    "insight": "Long battery life redefines mobile productivity expectations for professionals and travelers"
+  },
+  {
+    "title": "Developer rebuilds Doom using only CSS and HTML, turning divs into a full 3D game engine",
+    "summary": "Developer Leenheer recreated Doom using CSS and HTML, turning divs into a 3D game engine. He leveraged code from an earlier experiment that extracted map data from the original WAD file. This project showcases the potential of CSS and HTML for complex game development.",
+    "link": "https://www.techspot.com/news/111922-developer-rebuilds-doom-using-only-css-html-turning.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.492944",
+    "insight": "CSS and HTML can power complex 3D game engines."
+  },
+  {
+    "title": "Hitachi and MOL plan to turn retired ships into floating data centers",
+    "summary": "Mitsui O.S.K. Lines and Hitachi plan to repurpose retired ships into data centers, aiming to improve convenience and efficiency in the data center business.",
+    "link": "https://www.techspot.com/news/111929-hitachi-mol-plan-turn-retired-ships-floating-data.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.493122",
+    "insight": "Floating data centers reduce land-based data center environmental impact."
+  },
+  {
+    "title": "This chip keeps working at 700 C, surviving lava-like heat",
+    "summary": "USC researchers developed a memory device that withstands extreme heat up to 700°C, far surpassing previous thermal limits.",
+    "link": "https://www.techspot.com/news/111928-chip-keeps-working-700c-surviving-lava-like-heat.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-03T09:37:25.493329",
+    "insight": "Advancements in heat-resistant electronics could revolutionize high-temperature applications."
+  },
+  {
+    "title": "Ubisoft pulled The Crew offline, and now it's facing a lawsuit",
+    "summary": "Ubisoft pulled The Crew's servers offline without warning, sparking a lawsuit. French consumer group UFC-Que Choisir claims Ubisoft's decision stripped consumers of their rights. The group filed the lawsuit due to Ubisoft's lack of transparency about the game's expiration date.",
+    "link": "https://www.techspot.com/news/111916-french-consumer-group-sues-ubisoft-over-crew-server.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-03T09:37:25.493518",
+    "insight": "Lack of transparency in games' expiration dates causes consumer frustration"
+  },
+  {
+    "title": "NASA launches Artemis II, its first crewed mission toward the Moon in decades",
+    "summary": "NASA's Artemis II mission launched four astronauts on a nine-day loop around the Moon.",
+    "link": "https://www.techspot.com/news/111924-nasa-launches-artemis-ii-crew-historic-lunar-flyby.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.493690",
+    "insight": "Historic step toward returning humans to the lunar surface by 2025."
+  },
+  {
+    "title": "USPTO rejects Nintendo's \"summon and fight\" Pok mon patent as Palworld battle continues",
+    "summary": "USPTO rejects Nintendo's 'summon and fight' Pokémon patent in a significant blow to their IP.",
+    "link": "https://www.techspot.com/news/111927-uspto-rejects-nintendo-summon-character-fight-pokmon-patent.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.493860",
+    "insight": "Nintendo's patent claims may be too broad to be granted protection."
+  },
+  {
+    "title": "SpaceX quietly files for massive IPO that could value the company at over $1.75 trillion",
+    "summary": "SpaceX reportedly files for a massive IPO that could value the company at over $1.75 trillion, potentially surpassing Saudi Aramco's 2019 IPO record.",
+    "link": "https://www.techspot.com/news/111926-spacex-quietly-files-massive-ipo-could-value-company.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.494024",
+    "insight": "Potential valuation could redefine the private space industry's financial landscape forever."
+  },
+  {
+    "title": "Memory spiked first, CPUs followed, now PCBs could be the next victim of the AI boom",
+    "summary": "TrendForce reports DRAM and NAND costs will rise in Q2 2026 due to AI data center demand. Shortages of basic materials may increase printed circuit board prices. This could impact electronics manufacturing.",
+    "link": "https://www.techspot.com/news/111917-memory-spiked-first-cpus-followed-now-pcbs-could.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.494226",
+    "insight": "AI-driven demand disrupts traditional electronics supply chain dynamics."
+  },
+  {
+    "title": "Hoax post claiming the world's oldest tortoise had died was a crypto scam",
+    "summary": "A hoax post claiming the world's oldest tortoise had died was a crypto scam. The post, attributed to a vet, fooled several large media outlets. It was used to promote a cryptocurrency.",
+    "link": "https://www.techspot.com/news/111925-hoax-post-claiming-world-oldest-tortoise-had-died.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.494398",
+    "insight": "Social media manipulation can be used for financial scams effectively"
+  },
+  {
+    "title": "Quantum computers might crack today's encryption far sooner than we thought",
+    "summary": "A study by Caltech and UC engineers found that quantum computers can break advanced encryption using relatively less powerful machines than previously thought, threatening the security of RSA public-key encryption.",
+    "link": "https://www.techspot.com/news/111913-quantum-computers-might-crack-today-encryption-far-sooner.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-03T09:37:25.494590",
+    "insight": "Vulnerability to quantum computers undermines global encryption security standards."
+  },
+  {
+    "title": "March Steam survey: Intel Arc finally breaks into the charts as AMD and Linux reach record shares",
+    "summary": "Intel Arc GPU finally breaks into the Steam survey charts. AMD and Linux reach record shares in the latest Steam survey. February's results show significant changes from the previous month.",
+    "link": "https://www.techspot.com/news/111923-march-steam-survey-intel-arc-finally-breaks-charts.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.494762",
+    "insight": "Emerging competition in the GPU market drives significant market shifts"
+  },
+  {
+    "title": "Apple turns 50 with a legacy of reinventing the personal computer",
+    "summary": "Apple has reinvented the personal computer over five decades, transforming its design and capabilities.",
+    "link": "https://www.techspot.com/news/111918-apple-turns-50-legacy-reinventing-personal-computer.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-03T09:37:25.494926",
+    "insight": "Continuous innovation drives Apple's enduring success in the tech industry."
   }
 ]

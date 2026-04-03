@@ -1,75 +1,65 @@
 # ⚡ Semiconductors
-**Week of April 02, 2026**
+**Week of April 03, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-04-02 09:43
+- **Articles this week:** 5
+- **Report generated:** 2026-04-03 09:38
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Entry-level Intel Core 3 304 Wildcat Lake processor details and benchmarks surface ⭐
+### 1. Global semiconductor foundry market hit a record $320 billion in 2025 as TSMC pulled further ahead 
 
-Intel's Wildcat Lake Core Series 3 CPUs have been revealed with penta-core processor details, including the entry-level Intel Core 3 304, which has seen some benchmarking. The Wildcat Lake SKUs have varying levels of SIPP support and GPU turbo clocks, outperforming their predecessors. Further information has been obtained from a post by Jaykihn on X.
+The global semiconductor foundry market hit a record $320 billion in revenue in 2025, with a 16% year-over-year growth, driven by increasing demand for semiconductors in various industries.
 
-💡 *Wildcat Lake CPUs offer significant GPU turbo clock improvements over predecessors.*
+💡 *Semiconductor demand drives record-breaking foundry market growth momentum*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/02/entry-level-intel-core-3-304-wildcat-lake-processor-details-and-benchmarks-surface/)
-
----
-
-### 2. US government hires BlackSky to build next-gen AI surveillance satellites for Earth and beyond ⭐
-
-The US government has selected BlackSky to build advanced AI surveillance satellites.
-
-💡 *Enhanced US space surveillance capabilities boost national security and competitiveness.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111915-us-government-hires-blacksky-build-next-gen-ai.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/global-semiconductor-foundry-market-hit-a-record-320-billion-in-2025)
 
 ---
 
-### 3. Digi IX25 A rugged 5G RedCap/eMBB industrial cellular router 
+### 2. Mekotronics R57-5S Rockchip RK3576 mini PC and digital player integrates inclined 5-inch touchscreen display 
 
-Digi IX25 is a rugged 5G industrial cellular router for critical and enterprise applications, offering cellular networking, edge computing, and secure connectivity in a single device.
+The Mekotronics R57-5S is a Rockchip RK3576 mini PC with a built-in 5-inch touchscreen display, designed for kiosks and digital signage applications. It offers various storage and connectivity options, including HDMI 2.1 and USB-C DP outputs. The system also features an AI accelerator and terminal block interfaces.
 
-💡 *Rugged 5G router simplifies deployment in harsh environments efficiently.*
+💡 *Enhanced digital signage with AI capabilities and touchscreen interactivity*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/01/digi-ix25-a-rugged-5g-redcap-embb-industrial-cellular-router/)
-
----
-
-### 4. Nvidia market share in China falls to less than 60% Chinese chip makers deliver 1.65 million AI GPUs as the government pushes data centers to use domestic chips 
-
-Nvidia's market share in China drops to 55% as local chip makers gain ground, delivering 1.65 million AI GPUs.
-
-💡 *Government support boosts domestic chip makers at Nvidia's expense in China.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-market-share-in-china-falls-to-less-than-60-percent-chinese-chip-makers-deliver-1-65-million-ai-gpus-as-the-government-pushes-data-centers-to-use-domestic-chips)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/02/mekotronics-r57-5s-rockchip-rk3576-mini-pc-and-digital-player-integrates-inclined-5-inch-touchscreen-display/)
 
 ---
 
-### 5. Arm to sell its new AGI CPU in China 'we would expect the demand for this product to be just as strong in China as it is in the rest of the world' 
+### 3. This chip keeps working at 700 C, surviving lava-like heat 
 
-Arm's 136-core Neoverse V3 AGI processor is eligible for sale in China, with expected strong demand.
+USC researchers developed a memory device that withstands extreme heat up to 700°C, far surpassing previous thermal limits.
 
-💡 *China presents a significant market opportunity for Arm's new AGI processor.*
+💡 *Advancements in heat-resistant electronics could revolutionize high-temperature applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/arm-to-sell-its-new-agi-cpu-in-china-we-would-expect-the-demand-for-this-product-to-be-just-as-strong-in-china-as-it-is-in-the-rest-of-the-world)
+🔗 [Read Full Article](https://www.techspot.com/news/111928-chip-keeps-working-700c-surviving-lava-like-heat.html)
 
 ---
 
-### 6. PC makers report surging prices across different components increasing costs are going beyond memory chip and processors, now affecting PCBs, plastic materials, and more 
+### 4. America s AI chip rules keep changing and the rest of the world is paying the price 
 
-PC makers face rising costs from suppliers across various components, including processors, memory chips, PCBs, and plastics. Price hikes are affecting multiple parts of the manufacturing process. This is causing increased expenses for PC manufacturers.
+The US is changing its export control rules for AI chips, impacting global trade and technology sharing. Experts like Chris McGuire are discussing the implications of these shifting policies. The Trump Administration's stance on AI accelerator exports is in flux.
 
-💡 *Supply chain disruptions lead to widespread price increases in PC components.*
+💡 *US AI chip rules uncertainty hampers global technological collaboration and competition.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/pc-makers-report-surging-prices-across-different-components-increasing-costs-are-going-beyond-memory-chip-and-processors-now-affecting-pcbs-plastic-materials-and-more)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/americas-ai-chip-rules-keep-changing-and-the-rest-of-the-world-is-paying-the-price)
+
+---
+
+### 5. IBM spruces up its mainframes with new support for modern Arm workloads firm teams up with Arm to run Arm workloads on IBM Z mainframes 
+
+IBM is enhancing its mainframes to support modern Arm workloads, partnering with Arm to run these workloads on IBM Z and LinuxONE systems. This move aims to make IBM's machines more relevant for today's AI and data-intensive workloads. Cloud-native applications will now be compatible with IBM's mainframes.
+
+💡 *Mainframe relevance restored with Arm-based cloud-native workload support*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/ibm-spruces-up-its-mainframes-with-new-support-for-modern-arm-workloads-firm-teams-up-with-arm-to-run-arm-workloads-on-ibm-z-mainframes)
 
 ---
 

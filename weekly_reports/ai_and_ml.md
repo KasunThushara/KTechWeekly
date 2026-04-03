@@ -1,175 +1,225 @@
 # 🤖 AI & ML
-**Week of April 02, 2026**
+**Week of April 03, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 16
-- **Report generated:** 2026-04-02 09:43
+- **Articles this week:** 21
+- **Report generated:** 2026-04-03 09:38
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. US government hires BlackSky to build next-gen AI surveillance satellites for Earth and beyond ⭐
+### 1. Why Nvidia just poured $2 billion into AI ASIC competitor Marvell NVLink Fusion turns into soft ecosystem lock-in 
 
-The US government has selected BlackSky to build advanced AI surveillance satellites.
+Nvidia has invested $2 billion in Marvell and formed a partnership through NVLink Fusion, potentially expanding their reach in the AI ASIC market.
 
-💡 *Enhanced US space surveillance capabilities boost national security and competitiveness.*
+💡 *Nvidia secures AI ASIC dominance through strategic ecosystem partnership.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111915-us-government-hires-blacksky-build-next-gen-ai.html)
-
----
-
-### 2. AI can clone open-source software in minutes, and that's a problem ⭐
-
-AI tools can rapidly clone open-source software, creating proprietary versions with legal distinctions.
-
-💡 *Bending copyright law and open-source principles with AI-powered cloning threatens innovation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111904-ai-can-clone-open-source-software-minutes-problem.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-invests-2-billion-in-marvell-whose-biggest-clients-are-trying-to-replace-nvidia-chips)
 
 ---
 
-### 3. Google offers researchers early access to Willow quantum processor 
+### 2. SupTronics X1208 A UPS + M.2 NVMe SSD HAT for the Raspberry Pi 5 
 
-Google offers researchers early access to its Willow quantum processor through a selective Early Access Program. This program invites researchers to design and propose experiments that push the boundaries of current hardware capabilities. Participation has a firm deadline of May 15.
+The SupTronics X1208 is a UPS and M.2 NVMe SSD HAT designed for the Raspberry Pi 5, providing fast storage and power protection during outages.
 
-💡 *Accelerating quantum research and innovation through early hardware access.*
+💡 *Raspberry Pi 5 systems now have built-in power protection and storage*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111912-google-offers-researchers-early-access-willow-quantum-processor.html)
-
----
-
-### 4. AirPods Max 2 reviewed: premium sound, top-tier ANC, same high price 
-
-AirPods Max 2 offer improved sound quality and top-tier noise cancellation, powered by the H2 chip, while maintaining a high price.
-
-💡 *Premium audio and ANC advancements justify the expensive upgrade cost.*
-
-🔗 [Read Full Article](https://www.techspot.com/products/headphones/apple-airpods-max-2.323330/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/03/suptronics-x1208-a-ups-m-2-nvme-ssd-hat-for-the-raspberry-pi-5/)
 
 ---
 
-### 5. Google Drive can now detect ransomware and roll back your files 
+### 3. This chip keeps working at 700 C, surviving lava-like heat 
 
-Google Drive now detects and rolls back ransomware attacks on files using AI-powered tools.
+USC researchers developed a memory device that withstands extreme heat up to 700°C, far surpassing previous thermal limits.
 
-💡 *Enhanced security protects against devastating ransomware attacks on personal files.*
+💡 *Advancements in heat-resistant electronics could revolutionize high-temperature applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111900-google-rolls-out-ai-powered-ransomware-protection-all.html)
-
----
-
-### 6. DRAM prices predicted to jump 63% in Q2, NAND up to 75% follows 95% jumps in Q1, Trendforce says AI server demand keeps supply tight 
-
-DRAM contract prices are predicted to rise by 58-63% in Q2 2026, while NAND Flash prices will jump 70-75% QoQ. This significant increase is attributed to tight supply due to strong demand for AI servers. The prices saw a 95% jump in Q1.
-
-💡 *Tight AI server demand exacerbates memory price volatility.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/dram-and-nand-contract-prices-to-climb-again-in-q2)
+🔗 [Read Full Article](https://www.techspot.com/news/111928-chip-keeps-working-700c-surviving-lava-like-heat.html)
 
 ---
 
-### 7. Gigabyte X870E Aorus Xtreme AI Top Motherboard Review: Solid flagship, but the X3D version is what you want today 
+### 4. Ubisoft pulled The Crew offline, and now it's facing a lawsuit 
 
-The Gigabyte X870E Aorus Xtreme AI Top delivers solid performance and premium features, but is pricey and outdated.
+Ubisoft pulled The Crew's servers offline without warning, sparking a lawsuit. French consumer group UFC-Que Choisir claims Ubisoft's decision stripped consumers of their rights. The group filed the lawsuit due to Ubisoft's lack of transparency about the game's expiration date.
 
-💡 *Newer refresh boards like the X3D version outshine the X870E.*
+💡 *Lack of transparency in games' expiration dates causes consumer frustration*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870e-aorus-xtreme-ai-top-motherboard-review)
-
----
-
-### 8. Oracle believed to have cut 10,000 positions across multiple divisions as mass layoffs begin to fuel AI investments company is reportedly reducing headcount to fund data centers 
-
-Oracle reportedly cut over 10,000 positions to fund AI investments, amid billions spent on AI infrastructure.
-
-💡 *Layoffs fund AI ambitions, potentially long-term financial instability follows.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/oracle-believed-to-have-cut-10-000-positions-across-multiple-divisions-as-mass-layoffs-begin-company-is-reportedly-reducing-headcount-as-it-makes-massive-investments-in-ai)
+🔗 [Read Full Article](https://www.techspot.com/news/111916-french-consumer-group-sues-ubisoft-over-crew-server.html)
 
 ---
 
-### 9. Pay $611 for 64GB of Corsair Vengeance RAM and Samsung's 2TB PCIe Gen 5 9100 Pro when paired with a Gigabyte X870 Auros Elite motherboard and Corsair Frame 5000D case matching colors for a pure white build 
+### 5. Quantum computers might crack today's encryption far sooner than we thought 
 
-This build features 64GB of DDR5 RAM, a 2TB SSD, and a Gigabyte motherboard, all paired with a Corsair case in a pure white design.
+A study by Caltech and UC engineers found that quantum computers can break advanced encryption using relatively less powerful machines than previously thought, threatening the security of RSA public-key encryption.
 
-💡 *Future-proof gaming performance with high-capacity storage and memory.*
+💡 *Vulnerability to quantum computers undermines global encryption security standards.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pay-usd611-for-64gb-of-corsair-vengeance-ram-and-samsungs-2tb-pcie-gen-5-9100-pro-when-paired-with-a-gigabyte-x870-auros-elite-motherboard-and-corsair-frame-5000d-case-matching-colors-for-a-pure-white-build)
-
----
-
-### 10. Apple turns 50 one of the world's biggest tech companies started with hobbyist computers 
-
-Apple, one of the world's largest tech companies, celebrates its 50th anniversary. Founded by Steve Jobs, Steve Wozniak, and Ronald Wayne, the company started as a hobbyist computer manufacturer. Its early roots led to innovative products and global success.
-
-💡 *Hobbyist roots fueled innovation and shaped Apple's path to greatness.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/apple-turns-50-one-of-the-worlds-biggest-tech-companies-started-with-hobbyist-computers)
+🔗 [Read Full Article](https://www.techspot.com/news/111913-quantum-computers-might-crack-today-encryption-far-sooner.html)
 
 ---
 
-### 11. Sony's upcoming handheld could outperform Xbox Series S with next-gen upscaling 
+### 6. America s AI chip rules keep changing and the rest of the world is paying the price 
 
-Sony's rumored handheld, codenamed Canis, may outperform Xbox Series S with a faster graphics chip. The device is expected to complement the PlayStation 6, releasing late 2027 at the earliest. KeplerL2 made the claim recently.
+The US is changing its export control rules for AI chips, impacting global trade and technology sharing. Experts like Chris McGuire are discussing the implications of these shifting policies. The Trump Administration's stance on AI accelerator exports is in flux.
 
-💡 *Sony's handheld could bridge the gap with next-gen console performance.*
+💡 *US AI chip rules uncertainty hampers global technological collaboration and competition.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111919-sony-upcoming-handheld-could-outperform-xbox-series-s.html)
-
----
-
-### 12. A paralyzed musician is using a brain implant to create music 
-
-Buckwalter, paralyzed from the chest down, creates music with a brain implant. He underwent a craniotomy and six Blackrock Neurotech chips were implanted in his motor cortex. This allowed him to compose music through brain signals.
-
-💡 *Brain-computer interfaces can restore creative abilities in individuals with paralysis.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111910-brain-implants-paralyzed-man-make-music-thoughts.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/americas-ai-chip-rules-keep-changing-and-the-rest-of-the-world-is-paying-the-price)
 
 ---
 
-### 13. Anthropic accidentally exposed Claude Code source, raising security concerns 
+### 7. Artemis II astronaut finds two Outlook instances running on computers, calls on Houston to fix Microsoft anomaly puzzled caller describes two Outlooks, and neither one of those are working  
 
-Anthropic accidentally exposed Claude's code source through a JavaScript debugging map. The incident occurred in version 2.1.88 of the @anthropic-ai/claude-code package on npm. This has raised concerns over security and intellectual property.
+Artemis II astronaut reports two non-functional Microsoft Outlook instances on space station computers.
 
-💡 *Exposure of source code can compromise AI model security*
+💡 *Software malfunction can compromise critical space missions and operations.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111907-anthropic-accidentally-exposed-claude-code-source-raising-security.html)
-
----
-
-### 14. Oracle layoffs could reach 30,000 as company doubles down on AI 
-
-Oracle may lay off 20,000 to 30,000 employees due to AI focus.
-
-💡 *Mass layoffs signal shift towards AI-driven workforce automation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111902-oracle-layoffs-could-reach-30000-company-doubles-down.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/microsoft-office/artemis-ii-astronaut-finds-two-outlook-instances-running-on-computers-call-on-houston-to-fix-microsoft-anomaly-puzzled-caller-describes-two-outlooks-and-neither-one-of-those-are-working)
 
 ---
 
-### 15. You can finally change your Gmail address without losing everything 
+### 8. Denuvo has been broken, company promises countermeasures against new DRM bypasses zero-day game releases become norm as security concerns mount over hypervisor-based bypass 
 
-Gmail users in the US can change usernames without losing access to services.
+Denuvo, a popular DRM solution, has been broken by recent hypervisor-based bypasses, prompting the company to promise countermeasures. The company aims to prevent future zero-day exploits, which have become a norm in the gaming industry. The industry is concerned about the security implications of these bypasses.
 
-💡 *Preserves online identity and continuity for users changing email usernames.*
+💡 *Gaming industry security is compromised by hypervisor-based DRM bypasses.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111901-you-can-finally-change-gmail-address-without-losing.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-broken-company-promises-countermeasures-against-new-drm-bypasses-zero-day-game-releases-become-norm-as-security-concerns-mount-over-hypervisor-based-bypass)
 
 ---
 
-### 16. Crimson Desert hits 4 million sales despite rocky launch 
+### 9. China's homegrown silicon suppliers gain traction as Nvidia struggles to get its chips into the market Huawei, Cambricon and more step up to fill crucial market gap 
 
-Crimson Desert, a highly anticipated game, received mixed reviews and a poor Steam rating, leading to a decline in developer Pearl Abyss' shares.
+Nvidia's market share in China's data center market is declining, with homegrown suppliers like Huawei and Cambricon gaining traction and increasing their combined market share to 41%. This shift is a result of the ongoing US-China tech tensions and Nvidia's struggles to supply its chips to the Chinese market. The growth of Chinese suppliers is expected to continue.
 
-💡 *Mixed reviews and user feedback impact game developer's stock value significantly.*
+💡 *Rise of Chinese AI chipmakers challenges Nvidia's global dominance.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111914-crimson-desert-hits-4-million-sales-despite-rocky.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinas-homegrown-silicon-suppliers-gain-traction-as-nvidia-struggles-to-get-its-chips-into-the-market-huawei-cambricon-and-more-step-up-to-fill-crucial-market-gap)
+
+---
+
+### 10. IBM spruces up its mainframes with new support for modern Arm workloads firm teams up with Arm to run Arm workloads on IBM Z mainframes 
+
+IBM is enhancing its mainframes to support modern Arm workloads, partnering with Arm to run these workloads on IBM Z and LinuxONE systems. This move aims to make IBM's machines more relevant for today's AI and data-intensive workloads. Cloud-native applications will now be compatible with IBM's mainframes.
+
+💡 *Mainframe relevance restored with Arm-based cloud-native workload support*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/ibm-spruces-up-its-mainframes-with-new-support-for-modern-arm-workloads-firm-teams-up-with-arm-to-run-arm-workloads-on-ibm-z-mainframes)
+
+---
+
+### 11. Ubuntu Linux raises minimum system memory requirements by 50% requirements bumped to 6GB of RAM, previously raised from 1GB to 4GB in 2018 
+
+Ubuntu 26.04 LTS raises minimum system memory requirements by 50% to 6GB RAM.
+
+💡 *Impact on low-RAM devices and users with outdated hardware configurations*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/operating-systems/ubunto-linux-raises-minimum-system-requirements-to-6gb-of-ram-it-was-previously-raised-from-1gb-to-4gb-in-2018)
+
+---
+
+### 12. 1Hz laptop display reportedly helps deliver outstanding 43-hour battery life on the XPS 14 during web browser use beats the M5 MacBook Air by more than 28 hours in the same test 
+
+The Dell XPS 14 boasts exceptional battery life thanks to its 1Hz display, outperforming the M5 MacBook Air by nearly 30 hours in web browser tests, delivering up to 43 hours of battery life.
+
+💡 *1Hz display technology significantly boosts laptop battery life*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/1hz-laptop-display-reportedly-helps-deliver-outstanding-43-hour-battery-life-on-the-xps-14-during-web-browser-use-beats-the-m5-macbook-air-by-more-than-28-hours-in-the-same-test)
+
+---
+
+### 13. Amazing $490 Newegg combo includes an AMD Ryzen 5 9600X CPU, 16GB of G.Skill DDR5-6000 RAM, MSI Pro B850-S motherboard, and 240mm MSI MAG Coreliquid A13 AIO CPU cooler all for under $500 
+
+Save under $500 on an AMD Ryzen 5 9600X bundle from Newegg.
+
+💡 *Budget PC builders can now access high-performance components cheaply.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/amazing-usd490-newegg-combo-includes-an-amd-ryzen-5-9600x-cpu-16gb-of-g-skill-ddr5-6000-ram-msi-pro-b850-s-motherboard-and-240mm-msi-mag-coreliquid-a13-aio-cpu-cooler-all-for-under-usd500)
+
+---
+
+### 14. Raspberry Pi flagship 500+ model now costs almost as much as a Mac Mini firm Pi launches 3GB model to fight increasing DRAM prices 
+
+Raspberry Pi prices have risen due to the ongoing DRAM shortage. The flagship 500+ 16GB model has seen a nearly 50% price increase. To combat this, a new 3GB model has been launched.
+
+💡 *Rising DRAM prices impact affordability of single-board computers.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/raspberry-pi/raspberry-pi-launches-3gb-model-to-fight-increasing-dram-prices-flagship-500-model-now-costs-almost-as-much-as-a-mac-mini)
+
+---
+
+### 15. Dell's new XPS 14 dominates MacBook Air with 43 hours of battery life in web browsing test 
+
+Dell's XPS 14 laptop boasts exceptional battery life, lasting 43 hours on a single charge while browsing the web with variable refresh rate enabled.
+
+💡 *Long battery life redefines mobile productivity expectations for professionals and travelers*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111920-dell-new-xps-14-dominates-macbook-air-43.html)
+
+---
+
+### 16. Developer rebuilds Doom using only CSS and HTML, turning divs into a full 3D game engine 
+
+Developer Leenheer recreated Doom using CSS and HTML, turning divs into a 3D game engine. He leveraged code from an earlier experiment that extracted map data from the original WAD file. This project showcases the potential of CSS and HTML for complex game development.
+
+💡 *CSS and HTML can power complex 3D game engines.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111922-developer-rebuilds-doom-using-only-css-html-turning.html)
+
+---
+
+### 17. Hitachi and MOL plan to turn retired ships into floating data centers 
+
+Mitsui O.S.K. Lines and Hitachi plan to repurpose retired ships into data centers, aiming to improve convenience and efficiency in the data center business.
+
+💡 *Floating data centers reduce land-based data center environmental impact.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111929-hitachi-mol-plan-turn-retired-ships-floating-data.html)
+
+---
+
+### 18. USPTO rejects Nintendo's "summon and fight" Pok mon patent as Palworld battle continues 
+
+USPTO rejects Nintendo's 'summon and fight' Pokémon patent in a significant blow to their IP.
+
+💡 *Nintendo's patent claims may be too broad to be granted protection.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111927-uspto-rejects-nintendo-summon-character-fight-pokmon-patent.html)
+
+---
+
+### 19. SpaceX quietly files for massive IPO that could value the company at over $1.75 trillion 
+
+SpaceX reportedly files for a massive IPO that could value the company at over $1.75 trillion, potentially surpassing Saudi Aramco's 2019 IPO record.
+
+💡 *Potential valuation could redefine the private space industry's financial landscape forever.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111926-spacex-quietly-files-massive-ipo-could-value-company.html)
+
+---
+
+### 20. Memory spiked first, CPUs followed, now PCBs could be the next victim of the AI boom 
+
+TrendForce reports DRAM and NAND costs will rise in Q2 2026 due to AI data center demand. Shortages of basic materials may increase printed circuit board prices. This could impact electronics manufacturing.
+
+💡 *AI-driven demand disrupts traditional electronics supply chain dynamics.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111917-memory-spiked-first-cpus-followed-now-pcbs-could.html)
+
+---
+
+### 21. Hoax post claiming the world's oldest tortoise had died was a crypto scam 
+
+A hoax post claiming the world's oldest tortoise had died was a crypto scam. The post, attributed to a vet, fooled several large media outlets. It was used to promote a cryptocurrency.
+
+💡 *Social media manipulation can be used for financial scams effectively*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111925-hoax-post-claiming-world-oldest-tortoise-had-died.html)
 
 ---
 
