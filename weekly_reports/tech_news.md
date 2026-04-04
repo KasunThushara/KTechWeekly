@@ -1,83 +1,95 @@
 # 📰 Tech News
-**Week of April 03, 2026**
+**Week of April 04, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-04-03 09:38
+- **Articles this week:** 8
+- **Report generated:** 2026-04-04 09:24
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ⭐
+### 1. Realtek RTL8159 10GbE to USB 3.2 adapters sell for about $55 and up ⭐
 
-The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compelling package.
+Realtek's RTL8159 10GbE to USB 3.2 adapters are now available, priced around $55 and up.
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/gamestop-nvme-ssd-2tb-ssd-review)
+💡 *Low-cost 10GbE adapters expand affordable networking options.*
 
----
-
-### 2. Why Nvidia just poured $2 billion into AI ASIC competitor Marvell NVLink Fusion turns into soft ecosystem lock-in 
-
-Nvidia has invested $2 billion in Marvell and formed a partnership through NVLink Fusion, potentially expanding their reach in the AI ASIC market.
-
-💡 *Nvidia secures AI ASIC dominance through strategic ecosystem partnership.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-invests-2-billion-in-marvell-whose-biggest-clients-are-trying-to-replace-nvidia-chips)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/03/realtek-rtl8159-10gbe-to-usb-3-2-adapters-sell-for-about-55-and-up/)
 
 ---
 
-### 3. Denuvo has been broken, company promises countermeasures against new DRM bypasses zero-day game releases become norm as security concerns mount over hypervisor-based bypass 
+### 2. Anycubic Photon P1 Review: Dual Color/Dual Material, Tech Loaded 
 
-Denuvo, a popular DRM solution, has been broken by recent hypervisor-based bypasses, prompting the company to promise countermeasures. The company aims to prevent future zero-day exploits, which have become a norm in the gaming industry. The industry is concerned about the security implications of these bypasses.
+The Anycubic Photon P1 is a dual color/dual material resin printer packed with cutting-edge tech, featuring a heated vat and Wave Release technology for enhanced printing capabilities.
 
-💡 *Gaming industry security is compromised by hypervisor-based DRM bypasses.*
+💡 *Revolutionary Wave Release tech simplifies resin print removal process.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-broken-company-promises-countermeasures-against-new-drm-bypasses-zero-day-game-releases-become-norm-as-security-concerns-mount-over-hypervisor-based-bypass)
-
----
-
-### 4. Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps one giant step beyond the S-band radio comms of the Apollo era 
-
-NASA's Artemis II will live-stream 4K moon footage via laser beams at 260 Mbps, surpassing the resolution and speed of the Apollo era's S-band radio comms.
-
-💡 *Revolutionizing space communication with high-speed, low-latency laser transmission technology.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/anycubic-photon-p1-review)
 
 ---
 
-### 5. Ubuntu Linux raises minimum system memory requirements by 50% requirements bumped to 6GB of RAM, previously raised from 1GB to 4GB in 2018 
+### 3. Nvidia RTX 5070 Ti Roundup: 9 Graphics Cards Tested 
 
-Ubuntu 26.04 LTS raises minimum system memory requirements by 50% to 6GB RAM.
+Nvidia RTX 5070 Ti cards show consistent performance, but prices are a concern.
 
-💡 *Impact on low-RAM devices and users with outdated hardware configurations*
+💡 *High prices make Nvidia RTX 5070 Ti questionable value proposition.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/operating-systems/ubunto-linux-raises-minimum-system-requirements-to-6gb-of-ram-it-was-previously-raised-from-1gb-to-4gb-in-2018)
-
----
-
-### 6. Humanity returns to the Moon, but Outlook still doesn't work 
-
-NASA's historic Moon return mission encountered an unexpected issue: a malfunctioning software, Outlook, which added a relatable moment to the historic launch.
-
-💡 *Humanity's technological advancements still struggle with everyday software issues.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111933-humanity-returns-moon-but-outlook-doesnt-work.html)
+🔗 [Read Full Article](https://www.techspot.com/review/3108-nvidia-geforce-rtx-5070-ti-roundup/)
 
 ---
 
-### 7. NASA launches Artemis II, its first crewed mission toward the Moon in decades 
+### 4. Firm quietly boosts H.264 streaming license fees from $100,000 up to staggering $4.5 million backbone codec of the internet gets meteoric increase, AVC hikes follow disastrous H.265 licensing increases 
 
-NASA's Artemis II mission launched four astronauts on a nine-day loop around the Moon.
+H.264/AVC streaming license fees have drastically increased from $100,000 to $4.5 million. The tiered system, managed by LA, is intended to restructure the licensing model. This change will significantly impact companies using the H.264 codec.
 
-💡 *Historic step toward returning humans to the lunar surface by 2025.*
+💡 *H.264 licensing overhaul hits companies with massive financial burdens*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111924-nasa-launches-artemis-ii-crew-historic-lunar-flyby.html)
+🔗 [Read Full Article](https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million)
+
+---
+
+### 5. Crypto platform Drift suffers from hack suspected to total $270 million firm goes into damage control mode, suspends deposits and withdrawals 
+
+Drift Protocol is under attack, losing potentially $130-$270 million in assets.
+
+💡 *Large-scale crypto hack exposes vulnerabilities in decentralized finance systems.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/crypto-platform-drift-suffers-from-hack-suspected-to-total-usd270-million-firm-goes-into-damage-control-mode-suspends-deposits-and-withdrawals)
+
+---
+
+### 6. Ford GT Mk IV sets N rburgring record for gas-powered cars 
+
+The Ford GT Mk IV set a new lap record for gas-powered cars at the Nurburgring, making it the fastest American manufacturer to achieve this feat. It trails behind hybrid and electric record-holders, showcasing the car's exceptional performance in a predominantly electrified field. This accomplishment highlights the GT Mk IV's capabilities.
+
+💡 *Exceptional performance in a predominantly electrified automotive landscape.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111941-ford-gt-mk-iv-sets-nrburgring-record-gas.html)
+
+---
+
+### 7. Here s what the FCC ban on foreign-manufactured routers actually means for consumers 
+
+The FCC ban on foreign-manufactured routers requires U.S. certification for sale, imposing stricter regulations on router manufacturers. This means they must comply with U.S. standards and undergo rigorous testing before selling products in the country. The goal is to enhance cybersecurity and security of U.S. networks.
+
+💡 *U.S. consumers' sensitive data will be more protected now.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/heres-what-the-fcc-ban-on-foreign-manufactured-routers-actually-means-for-consumers)
+
+---
+
+### 8. Artemis II update: Launch, TLI burn, toilet fix to Moon or bust 
+
+Artemis II is underway, following a successful launch, TLI burn, and toilet fix. The spacecraft is expected to fly by the Moon's dark side on Monday. This mission marks a crucial step in NASA's lunar exploration plans.
+
+💡 *Pioneering human spaceflight to the Moon's previously unexplored dark side matters*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/artemis-ii-update-launch-tli-burn-toilet-fix-moon-or-bust)
 
 ---
 

@@ -1,173 +1,135 @@
 # 💻 Hardware
-**Week of April 03, 2026**
+**Week of April 04, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 16
-- **Report generated:** 2026-04-03 09:38
+- **Articles this week:** 12
+- **Report generated:** 2026-04-04 09:24
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ⭐
+### 1. Realtek RTL8159 10GbE to USB 3.2 adapters sell for about $55 and up ⭐
 
-The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compelling package.
+Realtek's RTL8159 10GbE to USB 3.2 adapters are now available, priced around $55 and up.
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/gamestop-nvme-ssd-2tb-ssd-review)
+💡 *Low-cost 10GbE adapters expand affordable networking options.*
 
----
-
-### 2. SupTronics X1208 A UPS + M.2 NVMe SSD HAT for the Raspberry Pi 5 
-
-The SupTronics X1208 is a UPS and M.2 NVMe SSD HAT designed for the Raspberry Pi 5, providing fast storage and power protection during outages.
-
-💡 *Raspberry Pi 5 systems now have built-in power protection and storage*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/03/suptronics-x1208-a-ups-m-2-nvme-ssd-hat-for-the-raspberry-pi-5/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/03/realtek-rtl8159-10gbe-to-usb-3-2-adapters-sell-for-about-55-and-up/)
 
 ---
 
-### 3. Sentinel Core A Raspberry Pi CM5 mini-ITX carrier board with a PCIe x16 slot (Crowdfunding) 
+### 2. Asus ZenWiFi BD5 Outdoor Wi-Fi 7 extender review: Great outdoor wireless performance, as long as you use an Ethernet backhaul ⭐
 
-The Sentinel Core is a Raspberry Pi CM5 carrier board with a PCIe x16 slot, allowing users to connect a graphics card for accelerated 3D graphics, video transcoding, or AI workloads. It also features HDMI ports, a Gigabit Ethernet port, USB ports, and a prototyping area. This carrier board supports the Raspberry Pi Compute Module 5.
+The Asus ZenWiFi BD5 Outdoor delivers strong wireless performance when using an Ethernet backhaul. However, wireless backhaul can lead to inconsistent results. This outdoor Wi-Fi 7 extender excels with a wired connection.
 
-💡 *Accelerates AI, 3D graphics, and video workloads with PCIe x16 slot*
+💡 *Wired backhaul is crucial for reliable outdoor Wi-Fi performance.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/03/sentinel-core-raspberry-pi-cm5-mini-itx-carrier-board-with-a-pcie-x16-slot/)
-
----
-
-### 4. Nuvoton NuMicro M3331 Cortex-M33 MCU features built-in ARGB LED controller, optional USB 2.0 OTG interface 
-
-Nuvoton's NuMicro M3331 MCU features a built-in ARGB LED controller and optional USB 2.0 OTG interface. It's a 32-bit Arm Cortex-M33 MCU clocked at 180 MHz with TrustZone security and a single-precision FPU. This MCU is suitable for smart factories, renewable energy systems, and consumer devices.
-
-💡 *Offloads CPU for fluid LED effects in gaming applications*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/02/nuvoton-numicro-m3331-cortex-m33-mcu-features-built-in-argb-led-controller-optional-usb-2-0-otg-interface/)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/asus-zenwifi-bd5-outdoor-wi-fi-7-extender-review)
 
 ---
 
-### 5. Mekotronics R57-5S Rockchip RK3576 mini PC and digital player integrates inclined 5-inch touchscreen display 
+### 3. Anycubic Photon P1 Review: Dual Color/Dual Material, Tech Loaded 
 
-The Mekotronics R57-5S is a Rockchip RK3576 mini PC with a built-in 5-inch touchscreen display, designed for kiosks and digital signage applications. It offers various storage and connectivity options, including HDMI 2.1 and USB-C DP outputs. The system also features an AI accelerator and terminal block interfaces.
+The Anycubic Photon P1 is a dual color/dual material resin printer packed with cutting-edge tech, featuring a heated vat and Wave Release technology for enhanced printing capabilities.
 
-💡 *Enhanced digital signage with AI capabilities and touchscreen interactivity*
+💡 *Revolutionary Wave Release tech simplifies resin print removal process.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/02/mekotronics-r57-5s-rockchip-rk3576-mini-pc-and-digital-player-integrates-inclined-5-inch-touchscreen-display/)
-
----
-
-### 6. Ubisoft pulled The Crew offline, and now it's facing a lawsuit 
-
-Ubisoft pulled The Crew's servers offline without warning, sparking a lawsuit. French consumer group UFC-Que Choisir claims Ubisoft's decision stripped consumers of their rights. The group filed the lawsuit due to Ubisoft's lack of transparency about the game's expiration date.
-
-💡 *Lack of transparency in games' expiration dates causes consumer frustration*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111916-french-consumer-group-sues-ubisoft-over-crew-server.html)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/anycubic-photon-p1-review)
 
 ---
 
-### 7. Quantum computers might crack today's encryption far sooner than we thought 
+### 4. Supermicro co-founder pleads not guilty to smuggling billions of dollars of Nvidia servers to China suspected smuggler released on $5 million bond 
 
-A study by Caltech and UC engineers found that quantum computers can break advanced encryption using relatively less powerful machines than previously thought, threatening the security of RSA public-key encryption.
+Super Micro co-founder Wally Liaw pleaded not guilty to smuggling Nvidia servers to China.
 
-💡 *Vulnerability to quantum computers undermines global encryption security standards.*
+💡 *China's alleged tech smuggling has major national security implications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111913-quantum-computers-might-crack-today-encryption-far-sooner.html)
-
----
-
-### 8. Artemis II astronaut finds two Outlook instances running on computers, calls on Houston to fix Microsoft anomaly puzzled caller describes two Outlooks, and neither one of those are working  
-
-Artemis II astronaut reports two non-functional Microsoft Outlook instances on space station computers.
-
-💡 *Software malfunction can compromise critical space missions and operations.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/microsoft-office/artemis-ii-astronaut-finds-two-outlook-instances-running-on-computers-call-on-houston-to-fix-microsoft-anomaly-puzzled-caller-describes-two-outlooks-and-neither-one-of-those-are-working)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/super-micro-co-founder-wally-liaw-pleads-not-guilty-to-nvidia-smuggling-charges)
 
 ---
 
-### 9. 1Hz laptop display reportedly helps deliver outstanding 43-hour battery life on the XPS 14 during web browser use beats the M5 MacBook Air by more than 28 hours in the same test 
+### 5. Velxio is an open-source, self-hosted Arduino, Raspberry Pi, and ESP32 simulator 
 
-The Dell XPS 14 boasts exceptional battery life thanks to its 1Hz display, outperforming the M5 MacBook Air by nearly 30 hours in web browser tests, delivering up to 43 hours of battery life.
+Velxio is an open-source, self-hosted simulator for Arduino, ESP32, and Raspberry Pi boards that works in a web browser. It allows drag-and-drop boards, component connections, code writing, and serial console access without hardware. Velxio is inspired by Wokwi but can be self-hosted.
 
-💡 *1Hz display technology significantly boosts laptop battery life*
+💡 *Self-hosted Arduino simulation empowers developers with full control and data ownership*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/1hz-laptop-display-reportedly-helps-deliver-outstanding-43-hour-battery-life-on-the-xps-14-during-web-browser-use-beats-the-m5-macbook-air-by-more-than-28-hours-in-the-same-test)
-
----
-
-### 10. Amazing $490 Newegg combo includes an AMD Ryzen 5 9600X CPU, 16GB of G.Skill DDR5-6000 RAM, MSI Pro B850-S motherboard, and 240mm MSI MAG Coreliquid A13 AIO CPU cooler all for under $500 
-
-Save under $500 on an AMD Ryzen 5 9600X bundle from Newegg.
-
-💡 *Budget PC builders can now access high-performance components cheaply.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/amazing-usd490-newegg-combo-includes-an-amd-ryzen-5-9600x-cpu-16gb-of-g-skill-ddr5-6000-ram-msi-pro-b850-s-motherboard-and-240mm-msi-mag-coreliquid-a13-aio-cpu-cooler-all-for-under-usd500)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/04/velxio-open-source-self-hosted-arduino-raspberry-pi-and-esp32-simulator/)
 
 ---
 
-### 11. Modders use jumper wires and a custom BIOS to save a damaged RTX 4090 from the trash resurrected Nvidia gaming GPU loses 4GB of VRAM to overcome terminal PCB sagging 
+### 6. Level up your gaming setup with this Core Ultra 5 250K Plus bundle for $299 save $60 with ASRock's rock-solid B860 motherboard 
 
-A YouTuber used a custom BIOS to revive a damaged RTX 4090 with a bent PCB, reducing its VRAM from 24GB to 20GB. This process stabilized the GPU and allowed it to function. The modder utilized jumper wires to bypass the damaged area.
+Newegg offers a Core Ultra 5 250K Plus bundle with ASRock's B860 motherboard for $299, saving $60
 
-💡 *Creative repurposing of damaged hardware can extend its lifespan and usefulness.*
+💡 *Affordable high-performance gaming setup for budget-conscious enthusiasts*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/modders-use-jumper-wires-and-a-custom-bios-to-save-a-damaged-rtx-4090-from-the-trash-resurrected-nvidia-gaming-gpu-loses-4gb-of-vram-to-overcome-terminal-pcb-sagging)
-
----
-
-### 12. Raspberry Pi flagship 500+ model now costs almost as much as a Mac Mini firm Pi launches 3GB model to fight increasing DRAM prices 
-
-Raspberry Pi prices have risen due to the ongoing DRAM shortage. The flagship 500+ 16GB model has seen a nearly 50% price increase. To combat this, a new 3GB model has been launched.
-
-💡 *Rising DRAM prices impact affordability of single-board computers.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/raspberry-pi/raspberry-pi-launches-3gb-model-to-fight-increasing-dram-prices-flagship-500-model-now-costs-almost-as-much-as-a-mac-mini)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/level-up-your-gaming-setup-with-this-core-ultra-5-250k-plus-bundle-for-usd299-save-usd60-with-asrocks-rock-solid-b860-motherboard)
 
 ---
 
-### 13. Dell's new XPS 14 dominates MacBook Air with 43 hours of battery life in web browsing test 
+### 7. Report claims Arm chips will power 90% of AI servers based on custom processors in 2029 x86 and RISC-V on the outside looking in 
 
-Dell's XPS 14 laptop boasts exceptional battery life, lasting 43 hours on a single charge while browsing the web with variable refresh rate enabled.
+Hyperscalers are adopting Arm custom processors for AI servers due to efficiency and control. This shift is expected to lead to 90% of servers running custom silicon using the Arm ISA by 2029. The x86 and RISC-V architectures may be left behind.
 
-💡 *Long battery life redefines mobile productivity expectations for professionals and travelers*
+💡 *Arm's custom processor adoption gains dominance over traditional architectures.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111920-dell-new-xps-14-dominates-macbook-air-43.html)
-
----
-
-### 14. Memory spiked first, CPUs followed, now PCBs could be the next victim of the AI boom 
-
-TrendForce reports DRAM and NAND costs will rise in Q2 2026 due to AI data center demand. Shortages of basic materials may increase printed circuit board prices. This could impact electronics manufacturing.
-
-💡 *AI-driven demand disrupts traditional electronics supply chain dynamics.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111917-memory-spiked-first-cpus-followed-now-pcbs-could.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/report-claims-arm-chips-will-power-90-percent-of-ai-servers-based-on-custom-processors-in-2029-x86-and-risc-v-on-the-outside-looking-in)
 
 ---
 
-### 15. March Steam survey: Intel Arc finally breaks into the charts as AMD and Linux reach record shares 
+### 8. Save $240 on Intel's Core Ultra 7 270K Plus with 32GB of DDR5-6000 and Z890 motherboard get Intel's newest, fastest gaming CPU in a bundle that's 23% off 
 
-Intel Arc GPU finally breaks into the Steam survey charts. AMD and Linux reach record shares in the latest Steam survey. February's results show significant changes from the previous month.
+Save $240 on Intel's Core Ultra 7 270K Plus bundle, featuring a Z890 motherboard and 32GB of DDR5-6000 memory.
 
-💡 *Emerging competition in the GPU market drives significant market shifts*
+💡 *Upgrade gaming performance significantly with Intel's latest CPU bundle.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111923-march-steam-survey-intel-arc-finally-breaks-charts.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-usd240-on-intels-core-ultra-7-270k-plus-with-32gb-of-ddr5-6000-and-z890-motherboard-get-intels-newest-fastest-gaming-cpu-in-a-bundle-thats-23-percent-off)
 
 ---
 
-### 16. Apple turns 50 with a legacy of reinventing the personal computer 
+### 9. Modder creates hybrid PlayStation, combining the guts of two original PS1 consoles into one custom PCB system features native microSD card & HDMI support 
 
-Apple has reinvented the personal computer over five decades, transforming its design and capabilities.
+A console modder has created a custom hybrid PS1 PCB, combining components from two original PS1 consoles. The custom PCB features native microSD card support and HDMI output, allowing for 1080p display on modern screens. This mod consumes less than 2 watts and runs at 3V.
 
-💡 *Continuous innovation drives Apple's enduring success in the tech industry.*
+💡 *Reviving retro gaming with modern conveniences and energy efficiency.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111918-apple-turns-50-legacy-reinventing-personal-computer.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/modder-creates-hybrid-playstation-combining-the-guts-of-two-original-ps1-consoles-into-one-custom-pcb-system-features-native-microsd-card-and-hdmi-support)
+
+---
+
+### 10. NASA's Artemis laser system will send 4K video from the Moon at 260 Mbps 
+
+NASA's Orion Artemis II Optical Communications system enables 4K video at 260 Mbps for transmission from the Moon to Earth.
+
+💡 *Improved video quality enhances scientific data and mission documentation capabilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111935-nasa-artemis-laser-system-send-4k-video-moon.html)
+
+---
+
+### 11. Nvidia shows The Witcher 4 forest demo running path tracing on an RTX 4070 
+
+Nvidia has released a GDC 2026 presentation showcasing The Witcher 4's PC version with path tracing features running on an RTX 4070. The demo displays a forest scene with detailed graphics and lighting. This presentation highlights Nvidia's upcoming tools and engine functionality.
+
+💡 *Nvidia's path tracing capabilities enhance game visuals with realistic lighting and effects.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111936-nvidia-shows-witcher-4-forest-demo-running-path.html)
+
+---
+
+### 12. Intel's next laptop chips could bring 28-core CPUs built for discrete GPUs 
+
+Intel's Nova Lake-HX chips feature 28-core CPUs, wider I/O complex, and PCIe 5.0 connectivity for discrete GPUs, marking a higher-end branch of the mainstream Nova Lake-H line.
+
+💡 *Enhanced GPU support for high-performance computing and gaming*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111931-intel-next-laptop-chips-could-bring-28-core.html)
 
 ---
 

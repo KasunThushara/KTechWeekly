@@ -1,65 +1,95 @@
 # ⚡ Semiconductors
-**Week of April 03, 2026**
+**Week of April 04, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-04-03 09:38
+- **Articles this week:** 8
+- **Report generated:** 2026-04-04 09:24
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Global semiconductor foundry market hit a record $320 billion in 2025 as TSMC pulled further ahead 
+### 1. Asus ZenWiFi BD5 Outdoor Wi-Fi 7 extender review: Great outdoor wireless performance, as long as you use an Ethernet backhaul ⭐
 
-The global semiconductor foundry market hit a record $320 billion in revenue in 2025, with a 16% year-over-year growth, driven by increasing demand for semiconductors in various industries.
+The Asus ZenWiFi BD5 Outdoor delivers strong wireless performance when using an Ethernet backhaul. However, wireless backhaul can lead to inconsistent results. This outdoor Wi-Fi 7 extender excels with a wired connection.
 
-💡 *Semiconductor demand drives record-breaking foundry market growth momentum*
+💡 *Wired backhaul is crucial for reliable outdoor Wi-Fi performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/global-semiconductor-foundry-market-hit-a-record-320-billion-in-2025)
-
----
-
-### 2. Mekotronics R57-5S Rockchip RK3576 mini PC and digital player integrates inclined 5-inch touchscreen display 
-
-The Mekotronics R57-5S is a Rockchip RK3576 mini PC with a built-in 5-inch touchscreen display, designed for kiosks and digital signage applications. It offers various storage and connectivity options, including HDMI 2.1 and USB-C DP outputs. The system also features an AI accelerator and terminal block interfaces.
-
-💡 *Enhanced digital signage with AI capabilities and touchscreen interactivity*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/02/mekotronics-r57-5s-rockchip-rk3576-mini-pc-and-digital-player-integrates-inclined-5-inch-touchscreen-display/)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/asus-zenwifi-bd5-outdoor-wi-fi-7-extender-review)
 
 ---
 
-### 3. This chip keeps working at 700 C, surviving lava-like heat 
+### 2. Researchers build Wi-Fi chip that can operate inside a nuclear reactor receiver uses special materials and design to withstand high doses of radiation for at least six months 
 
-USC researchers developed a memory device that withstands extreme heat up to 700°C, far surpassing previous thermal limits.
+Researchers developed a Wi-Fi receiver that can operate in highly radioactive environments for at least six months, using special materials and design to withstand high doses of radiation.
 
-💡 *Advancements in heat-resistant electronics could revolutionize high-temperature applications.*
+💡 *Radiation-resistant technology expands possibility of remote monitoring and control in extreme environments.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111928-chip-keeps-working-700c-surviving-lava-like-heat.html)
-
----
-
-### 4. America s AI chip rules keep changing and the rest of the world is paying the price 
-
-The US is changing its export control rules for AI chips, impacting global trade and technology sharing. Experts like Chris McGuire are discussing the implications of these shifting policies. The Trump Administration's stance on AI accelerator exports is in flux.
-
-💡 *US AI chip rules uncertainty hampers global technological collaboration and competition.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/americas-ai-chip-rules-keep-changing-and-the-rest-of-the-world-is-paying-the-price)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/researchers-build-wi-fi-chip-that-can-operate-inside-a-nuclear-reactor-receiver-uses-special-materials-and-design-to-withstand-high-doses-of-radiation-for-at-least-six-months)
 
 ---
 
-### 5. IBM spruces up its mainframes with new support for modern Arm workloads firm teams up with Arm to run Arm workloads on IBM Z mainframes 
+### 3. Velxio is an open-source, self-hosted Arduino, Raspberry Pi, and ESP32 simulator 
 
-IBM is enhancing its mainframes to support modern Arm workloads, partnering with Arm to run these workloads on IBM Z and LinuxONE systems. This move aims to make IBM's machines more relevant for today's AI and data-intensive workloads. Cloud-native applications will now be compatible with IBM's mainframes.
+Velxio is an open-source, self-hosted simulator for Arduino, ESP32, and Raspberry Pi boards that works in a web browser. It allows drag-and-drop boards, component connections, code writing, and serial console access without hardware. Velxio is inspired by Wokwi but can be self-hosted.
 
-💡 *Mainframe relevance restored with Arm-based cloud-native workload support*
+💡 *Self-hosted Arduino simulation empowers developers with full control and data ownership*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/ibm-spruces-up-its-mainframes-with-new-support-for-modern-arm-workloads-firm-teams-up-with-arm-to-run-arm-workloads-on-ibm-z-mainframes)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/04/velxio-open-source-self-hosted-arduino-raspberry-pi-and-esp32-simulator/)
+
+---
+
+### 4. Chip foundry market hit $320 billion in 2025, driven by AI demand 
+
+The chip foundry market reached $320 billion in 2025, driven by AI demand. The market has become increasingly complex, earning the term 'Foundry 2.0'. Silicon manufacturers have become major players in the industry.
+
+💡 *AI demand propels rapid growth in the chip foundry market.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111930-chip-foundry-market-hit-320-billion-2025-driven.html)
+
+---
+
+### 5. Report claims Arm chips will power 90% of AI servers based on custom processors in 2029 x86 and RISC-V on the outside looking in 
+
+Hyperscalers are adopting Arm custom processors for AI servers due to efficiency and control. This shift is expected to lead to 90% of servers running custom silicon using the Arm ISA by 2029. The x86 and RISC-V architectures may be left behind.
+
+💡 *Arm's custom processor adoption gains dominance over traditional architectures.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/report-claims-arm-chips-will-power-90-percent-of-ai-servers-based-on-custom-processors-in-2029-x86-and-risc-v-on-the-outside-looking-in)
+
+---
+
+### 6. Microsoft says Copilot is for entertainment purposes only, not serious use firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice 
+
+Microsoft's Copilot terms of service contradict its marketing, raising concerns about AI reliability.
+
+💡 *Microsoft's Copilot raises questions about AI trustworthiness in critical applications.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-not-to-rely-on-it-for-important-advice)
+
+---
+
+### 7. TSMC reportedly plans to build 12 fabs, four packaging facilities in Arizona plan purportedly part of Taiwan's agreed $500 million investment in the US 
+
+TSMC reportedly plans to build 12 fabs and four packaging facilities in Arizona, as part of Taiwan's $500 million investment in the US. This expansion aims to strengthen Taiwan's semiconductor presence in the global market. The move is expected to create new job opportunities and boost local economic growth.
+
+💡 *Boosts US semiconductor capacity and strengthens Taiwan's global presence*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-plans-to-build-12-fabs-four-packaging-facilities-in-arizona-plan-purportedly-part-of-taiwans-agreed-usd500-million-investment-in-the-us)
+
+---
+
+### 8. Apple may be stockpiling mobile DRAM to outmaneuver rivals in a tight market 
+
+Apple may outmaneuver rivals by absorbing higher memory costs, expanding market share.
+
+💡 *Strategic stockpiling helps Apple maintain market dominance in a volatile supply environment.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111932-apple-may-stockpiling-mobile-dram-outmaneuver-rivals-tight.html)
 
 ---
 
