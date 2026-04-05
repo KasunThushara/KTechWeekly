@@ -1,406 +1,247 @@
 [
   {
-    "title": "Intel's potent 18-core Core Ultra 5 250KF Plus CPU lands at retail for under $200",
-    "summary": "Intel's 18-core Core Ultra 5 250KF Plus CPU offers high performance at a budget price, outperforming AMD in multi-threaded tasks. This chip is suitable for heavy workloads and gaming. Its value proposition makes it an attractive option for those seeking power on a budget.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-potent-18-core-core-ultra-5-250kf-plus-cpu-lands-at-retail-for-under-usd200",
+    "title": "LinkedIn is spying on you, according to a new 'BrowserGate' security report scripts stealthily scan visitors' browsers for over 6,000 Chrome extensions and harvest hardware data",
+    "summary": "LinkedIn injects a JavaScript script on every page load to scan visitors' browsers for installed Chrome extensions and collect device telemetry, potentially compromising users' privacy.",
+    "link": "https://www.tomshardware.com/software/browsers/linkedin-scans-visitors-browsers-for-over-6000-chrome-extensions-and-collects-device-data",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-05T09:24:24.842921",
+    "insight": "LinkedIn's BrowserGate script violates users' trust and online security."
+  },
+  {
+    "title": "McDonald s debuts one-finger gadget that lets you move your character to 'keep you in the game' while you chow down Pro Gamer Menu's Archie designed to keep you from being kicked for inactivity",
+    "summary": "McDonald's Turkey introduces a one-finger gadget to prevent gamers from getting kicked for inactivity during meal breaks. This gadget allows users to maintain their online presence without manually moving their character. The 'Pro Gamer Menu's Archie' is designed to keep gamers online.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/mcdonalds-debuts-one-finger-gadget-that-lets-you-move-your-character-to-keep-you-in-the-game-while-you-chow-down-pro-gamer-menus-archie-designed-to-keep-you-from-being-kicked-for-inactivity",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-05T09:24:24.843051",
+    "insight": "Convenience trumps inconvenience for gamers during meal breaks"
+  },
+  {
+    "title": "Nvidia AI tech claims to slash gaming GPU memory usage by 85% with zero quality loss Neural Texture Compression demo reveals stunning visual parity between 6.5GB of VRAM and 970MB",
+    "summary": "Nvidia's Neural Texture Compression (NTC) technique reduces VRAM usage by 85% with zero quality loss, utilizing a neural network to decompress textures and improve image quality.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-ai-tech-claims-to-slash-vram-usage-by-85-percent-with-zero-quality-loss-neural-texture-compression-demo-reveals-stunning-visual-parity-between-6-5gb-of-memory-and-970mb",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-04-04T09:22:45.109666",
-    "insight": "Intel's budget CPU beats AMD in multi-threaded performance"
-  },
-  {
-    "title": "Level up your gaming setup with this Core Ultra 5 250K Plus bundle for $299 save $60 with ASRock's rock-solid B860 motherboard",
-    "summary": "Newegg offers a Core Ultra 5 250K Plus bundle with ASRock's B860 motherboard for $299, saving $60",
-    "link": "https://www.tomshardware.com/pc-components/cpus/level-up-your-gaming-setup-with-this-core-ultra-5-250k-plus-bundle-for-usd299-save-usd60-with-asrocks-rock-solid-b860-motherboard",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.109786",
-    "insight": "Affordable high-performance gaming setup for budget-conscious enthusiasts"
+    "processed_date": "2026-04-05T09:24:24.843242",
+    "insight": "Massive VRAM reduction enables more powerful gaming on lower-end hardware."
   },
   {
-    "title": "Report claims Arm chips will power 90% of AI servers based on custom processors in 2029 x86 and RISC-V on the outside looking in",
-    "summary": "Hyperscalers are adopting Arm custom processors for AI servers due to efficiency and control. This shift is expected to lead to 90% of servers running custom silicon using the Arm ISA by 2029. The x86 and RISC-V architectures may be left behind.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/report-claims-arm-chips-will-power-90-percent-of-ai-servers-based-on-custom-processors-in-2029-x86-and-risc-v-on-the-outside-looking-in",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.109911",
-    "insight": "Arm's custom processor adoption gains dominance over traditional architectures."
-  },
-  {
-    "title": "Firm quietly boosts H.264 streaming license fees from $100,000 up to staggering $4.5 million backbone codec of the internet gets meteoric increase, AVC hikes follow disastrous H.265 licensing increases",
-    "summary": "H.264/AVC streaming license fees have drastically increased from $100,000 to $4.5 million. The tiered system, managed by LA, is intended to restructure the licensing model. This change will significantly impact companies using the H.264 codec.",
-    "link": "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.110027",
-    "insight": "H.264 licensing overhaul hits companies with massive financial burdens"
-  },
-  {
-    "title": "Half of planned US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure and parts from China the AI build-out flips the breakers",
-    "summary": "Cloud giants face AI data center deployment hurdles due to power infrastructure shortages. The $650 billion planned AI infrastructure spend is being limited by shortages. Availability of components, particularly from China, is a significant obstacle.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-planned-us-data-center-builds-have-been-delayed-or-canceled-growth-limited-by-shortages-of-power-infrastructure-and-parts-from-china-the-ai-build-out-flips-the-breakers",
+    "title": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai Amazon reportedly declares hard down status for multiple zones",
+    "summary": "Iranian missile strikes reportedly took down AWS data centers in Bahrain and Dubai, leading to a 'hard down' status for multiple zones at Amazon Web Services.",
+    "link": "https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.110156",
-    "insight": "Power infrastructure shortages hinder AI data center deployment progress."
+    "processed_date": "2026-04-05T09:24:24.843379",
+    "insight": "Global cloud infrastructure vulnerability exposed by regional conflict escalation."
   },
   {
-    "title": "Researchers build Wi-Fi chip that can operate inside a nuclear reactor receiver uses special materials and design to withstand high doses of radiation for at least six months",
-    "summary": "Researchers developed a Wi-Fi receiver that can operate in highly radioactive environments for at least six months, using special materials and design to withstand high doses of radiation.",
-    "link": "https://www.tomshardware.com/networking/routers/researchers-build-wi-fi-chip-that-can-operate-inside-a-nuclear-reactor-receiver-uses-special-materials-and-design-to-withstand-high-doses-of-radiation-for-at-least-six-months",
+    "title": "Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub",
+    "summary": "The Sharge Disk Pro 2TB boasts a 10 Gbps SSD, active cooling, and a built-in port hub, making it a compact, feature-rich solution for gamers and road warriors, but at a high price.",
+    "link": "https://www.tomshardware.com/pc-components/external-ssds/sharge-disk-pro-2tb-review",
     "categories": [
-      "Semiconductors"
+      "AI & ML",
+      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-04T09:22:45.110287",
-    "insight": "Radiation-resistant technology expands possibility of remote monitoring and control in extreme environments."
+    "processed_date": "2026-04-05T09:24:24.843505",
+    "insight": "Balances performance, convenience, and portability in a premium package"
   },
   {
-    "title": "Save $240 on Intel's Core Ultra 7 270K Plus with 32GB of DDR5-6000 and Z890 motherboard get Intel's newest, fastest gaming CPU in a bundle that's 23% off",
-    "summary": "Save $240 on Intel's Core Ultra 7 270K Plus bundle, featuring a Z890 motherboard and 32GB of DDR5-6000 memory.",
-    "link": "https://www.tomshardware.com/pc-components/save-usd240-on-intels-core-ultra-7-270k-plus-with-32gb-of-ddr5-6000-and-z890-motherboard-get-intels-newest-fastest-gaming-cpu-in-a-bundle-thats-23-percent-off",
+    "title": "Hands-on with Modos Tech 13.3-inch e-paper monitors we tried the current Dev Kit model and the next-gen Modos Flow touch",
+    "summary": "Modos Tech sent us their latest e-paper monitors for hands-on testing. We tried the current Dev Kit model and the next-gen Modos Flow touch screen model. Both units provided insight into potential future display technologies.",
+    "link": "https://www.tomshardware.com/monitors/portable-monitors/hands-on-with-modos-tech-13-3-inch-e-paper-monitors",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-05T09:24:24.843620",
+    "insight": "Next-gen e-paper displays could revolutionize screen usage habits."
+  },
+  {
+    "title": "Modder uses Claude AI to rewrite BIOS so they can boot unsupported 12 P-core Bartlett Lake CPU in Windows on a Z790 motherboard",
+    "summary": "A modder has successfully booted an unsupported 12-core Bartlett Lake-S CPU into Windows using a custom BIOS modification on an Asus Z790 motherboard. This breakthrough demonstrates the potential for modders to unlock new CPU capabilities on existing hardware. The achievement could pave the way for future upgrades and customizations.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/modder-uses-claude-ai-to-rewrite-bios-so-they-can-boot-unsupported-12-p-core-bartlett-lake-cpu-in-windows-on-a-z790-motherboard",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-05T09:24:24.843737",
+    "insight": "Modding enables CPU upgrades beyond manufacturer's supported specifications."
+  },
+  {
+    "title": "Enermax Revolution III S 1000W power supply review: Platinum efficiency, limited thermal capability",
+    "summary": "The Enermax Revolution III S 1000W offers certified Platinum efficiency and good power quality, but is limited by a small cooling fan and peculiar cable layout.",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/enermax-revolution-iii-s-1000w-power-supply-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-05T09:24:24.843858",
+    "insight": "Limited thermal capability affects long-term reliability significantly."
+  },
+  {
+    "title": "Microsoft to force updates to Windows 11 25H2 for PCs with older Windows 11 OS versions 'intelligent' update system uses machine learning to determine when a device is ready",
+    "summary": "Microsoft is upgrading Windows 11 24H2 systems to 25H2 automatically, streamlining updates before support ends.",
+    "link": "https://www.tomshardware.com/software/windows/microsoft-forces-updates-to-windows-11-25h2-update-for-pcs-running-on-24h2",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-05T09:24:24.843978",
+    "insight": "Streamlined updates ensure Windows 11 PCs remain secure and supported."
+  },
+  {
+    "title": "'Every Microsoft engineer got a stopwatch,' says Windows veteran reminiscing about company's past focus on speed asserts that 'everything' was timed to ensure acceptable performance in the 1980s",
+    "summary": "A former Microsoft Windows Division president reminisces about the 1980s coding regime where everything was timed to ensure acceptable performance, highlighting the company's focus on speed and efficiency during this period.",
+    "link": "https://www.tomshardware.com/software/windows/every-microsoft-engineer-got-a-stopwatch-says-windows-veteran-reminiscing-about-companys-past-focus-on-speed-asserts-that-everything-was-timed-to-ensure-acceptable-performance-in-the-1980s",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-05T09:24:24.844092",
+    "insight": "Focus on speed led to efficient coding and performance optimization."
+  },
+  {
+    "title": "Enthusiast installs Win 3.1X on bare metal Ryzen 9 9900X and RTX 5060 Ti system using floppy disk drive, OS from 1992 running on 2025 hardware Asus motherboard s classic BIOS functionality was instrumental to the feat",
+    "summary": "A retro computing enthusiast successfully installed and booted Windows 3.1X on a high-end Ryzen 9 9900X and RTX 5060 Ti PC system using a floppy disk drive, showcasing the versatility of classic BIOS functionality.",
+    "link": "https://www.tomshardware.com/software/windows/enthusiast-installs-win-3-1x-on-bare-metal-ryzen-9-9900x-and-rtx-5060-ti-system-asus-motherboards-classic-bios-functionality-was-instrumental-to-the-feat",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.110400",
-    "insight": "Upgrade gaming performance significantly with Intel's latest CPU bundle."
+    "processed_date": "2026-04-05T09:24:24.844232",
+    "insight": "Legacy BIOS capabilities can bridge vast technological gaps."
   },
   {
-    "title": "Anycubic Photon P1 Review: Dual Color/Dual Material, Tech Loaded",
-    "summary": "The Anycubic Photon P1 is a dual color/dual material resin printer packed with cutting-edge tech, featuring a heated vat and Wave Release technology for enhanced printing capabilities.",
-    "link": "https://www.tomshardware.com/3d-printing/anycubic-photon-p1-review",
+    "title": "New 'GeForge' and 'GDDRHammer' attacks can fully infiltrate your system through Nvidia's GPU memory Rowhammer attacks in GPUs force bit flips in protected VRAM regions to gain read/write access",
+    "summary": "New 'GeForge' and 'GDDRHammer' attacks target Nvidia's GPU memory, causing bit flips in VRAM to gain read/write access. These attacks bypass protected regions by manipulating page files and directories. This allows attackers to access CPU memory.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/new-geforge-and-gddrhammer-attacks-can-fully-infiltrate-your-system-through-nvidias-gpu-memory-rowhammer-attacks-in-gpus-force-bit-flips-in-protected-vram-regions-to-gain-read-write-access",
     "categories": [
-      "Tech News",
-      "Hardware"
+      "GPUs",
+      "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-04T09:22:45.110523",
-    "insight": "Revolutionary Wave Release tech simplifies resin print removal process."
+    "quality_score": 5,
+    "processed_date": "2026-04-05T09:24:24.844377",
+    "insight": "Vulnerable GPU memory allows attackers to breach CPU security boundaries"
   },
   {
-    "title": "Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 Nvidia gets preferential supply terms well below standard market rates, says analyst firm",
-    "summary": "SemiAnalysis predicts memory will account for 30% of hyperscaler capex in 2026, a 4X increase from 2023. This significant increase is attributed to the growing demand for AI data centers. Nvidia benefits from preferential supply terms.",
-    "link": "https://www.tomshardware.com/tech-industry/memory-will-consume-30-percent-of-hyperscaler-spending-this-year",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-04T09:22:45.110640",
-    "insight": "Growing AI demand drives memory costs to 30% of hyperscaler spending."
-  },
-  {
-    "title": "Here s what the FCC ban on foreign-manufactured routers actually means for consumers",
-    "summary": "The FCC ban on foreign-manufactured routers requires U.S. certification for sale, imposing stricter regulations on router manufacturers. This means they must comply with U.S. standards and undergo rigorous testing before selling products in the country. The goal is to enhance cybersecurity and security of U.S. networks.",
-    "link": "https://www.tomshardware.com/networking/routers/heres-what-the-fcc-ban-on-foreign-manufactured-routers-actually-means-for-consumers",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-04T09:22:45.110738",
-    "insight": "U.S. consumers' sensitive data will be more protected now."
-  },
-  {
-    "title": "Microsoft says Copilot is for entertainment purposes only, not serious use firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice",
-    "summary": "Microsoft's Copilot terms of service contradict its marketing, raising concerns about AI reliability.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-not-to-rely-on-it-for-important-advice",
+    "title": "Researchers 3D print robot the size of a single-cell organism devices move and navigate even without a brain, uses their shape and the environment to get going",
+    "summary": "Researchers at Leiden University created 0.5-micrometer microrobots that move and navigate using shape and environment.",
+    "link": "https://www.tomshardware.com/3d-printing/researchers-3d-print-robot-the-size-of-a-single-cell-organism-devices-move-and-navigate-even-without-a-brain-uses-their-shape-and-the-environment-to-get-going",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.110848",
-    "insight": "Microsoft's Copilot raises questions about AI trustworthiness in critical applications."
+    "quality_score": 10,
+    "processed_date": "2026-04-05T09:24:24.844499",
+    "insight": "Paving the way for brainless robots in micro-scale applications."
   },
   {
-    "title": "Asus ZenWiFi BD5 Outdoor Wi-Fi 7 extender review: Great outdoor wireless performance, as long as you use an Ethernet backhaul",
-    "summary": "The Asus ZenWiFi BD5 Outdoor delivers strong wireless performance when using an Ethernet backhaul. However, wireless backhaul can lead to inconsistent results. This outdoor Wi-Fi 7 extender excels with a wired connection.",
-    "link": "https://www.tomshardware.com/networking/routers/asus-zenwifi-bd5-outdoor-wi-fi-7-extender-review",
+    "title": "ESP32-S3 gets post-quantum encryption with Aethyr Edge Node open-source firmware",
+    "summary": "Aethyr Research has released open-source firmware for ESP32-S3 with post-quantum encryption, using ML-KEM-768 and other secure algorithms. This firmware boots in 2.1 seconds and supports full PQC handshakes in 35ms. It is designed to provide quantum-resistant security for IoT applications.",
+    "link": "https://www.cnx-software.com/2026/04/05/esp32-s3-gets-post-quantum-encryption-with-aethyr-edge-node-open-source-firmware/",
     "categories": [
-      "Semiconductors",
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-05T09:24:24.845032",
+    "insight": "Preparing for quantum computers that can crack traditional encryption methods."
+  },
+  {
+    "title": "This Wi-Fi receiver can work inside a nuclear reactor, keeping robots connected",
+    "summary": "A Wi-Fi receiver can operate in high-radiation environments, like nuclear reactors. It surpasses the endurance of space-grade electronics. This makes it suitable for extreme settings.",
+    "link": "https://www.techspot.com/news/111948-wi-fi-receiver-can-work-inside-nuclear-reactor.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-05T09:24:24.846375",
+    "insight": "Radiation-resistant Wi-Fi technology enables robotics in extreme environments."
+  },
+  {
+    "title": "Steam could soon show estimated FPS based on crowd-sourced player data",
+    "summary": "Steam may display estimated FPS based on player data, improving PC gaming performance expectations.",
+    "link": "https://www.techspot.com/news/111951-steam-could-soon-show-estimated-fps-based-crowd.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-05T09:24:24.846557",
+    "insight": "Actual in-game performance often diverges sharply from recommended hardware specs."
+  },
+  {
+    "title": "New Rowhammer attack can grant kernel-level control on Nvidia workstation GPUs",
+    "summary": "Researchers have found a new Rowhammer attack on Nvidia GPUs, granting kernel-level access to Linux systems. The vulnerability is more severe than previously thought, affecting GPUs based on Nvidia's Ampere and Ada Lovelace architectures. This attack exploits GDDR6-based vulnerabilities.",
+    "link": "https://www.techspot.com/news/111946-new-rowhammer-attack-can-grant-kernel-level-control.html",
+    "categories": [
+      "GPUs",
       "Hardware"
     ],
     "quality_score": 15,
-    "processed_date": "2026-04-04T09:22:45.110951",
-    "insight": "Wired backhaul is crucial for reliable outdoor Wi-Fi performance."
+    "processed_date": "2026-04-05T09:24:24.846742",
+    "insight": "Kernel-level control allows for severe privilege escalation and data theft."
   },
   {
-    "title": "TSMC reportedly plans to build 12 fabs, four packaging facilities in Arizona plan purportedly part of Taiwan's agreed $500 million investment in the US",
-    "summary": "TSMC reportedly plans to build 12 fabs and four packaging facilities in Arizona, as part of Taiwan's $500 million investment in the US. This expansion aims to strengthen Taiwan's semiconductor presence in the global market. The move is expected to create new job opportunities and boost local economic growth.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-plans-to-build-12-fabs-four-packaging-facilities-in-arizona-plan-purportedly-part-of-taiwans-agreed-usd500-million-investment-in-the-us",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.111061",
-    "insight": "Boosts US semiconductor capacity and strengthens Taiwan's global presence"
-  },
-  {
-    "title": "Modder creates hybrid PlayStation, combining the guts of two original PS1 consoles into one custom PCB system features native microSD card & HDMI support",
-    "summary": "A console modder has created a custom hybrid PS1 PCB, combining components from two original PS1 consoles. The custom PCB features native microSD card support and HDMI output, allowing for 1080p display on modern screens. This mod consumes less than 2 watts and runs at 3V.",
-    "link": "https://www.tomshardware.com/video-games/playstation/modder-creates-hybrid-playstation-combining-the-guts-of-two-original-ps1-consoles-into-one-custom-pcb-system-features-native-microsd-card-and-hdmi-support",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.111195",
-    "insight": "Reviving retro gaming with modern conveniences and energy efficiency."
-  },
-  {
-    "title": "Crypto platform Drift suffers from hack suspected to total $270 million firm goes into damage control mode, suspends deposits and withdrawals",
-    "summary": "Drift Protocol is under attack, losing potentially $130-$270 million in assets.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/crypto-platform-drift-suffers-from-hack-suspected-to-total-usd270-million-firm-goes-into-damage-control-mode-suspends-deposits-and-withdrawals",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.111303",
-    "insight": "Large-scale crypto hack exposes vulnerabilities in decentralized finance systems."
-  },
-  {
-    "title": "Supermicro co-founder pleads not guilty to smuggling billions of dollars of Nvidia servers to China suspected smuggler released on $5 million bond",
-    "summary": "Super Micro co-founder Wally Liaw pleaded not guilty to smuggling Nvidia servers to China.",
-    "link": "https://www.tomshardware.com/tech-industry/super-micro-co-founder-wally-liaw-pleads-not-guilty-to-nvidia-smuggling-charges",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-04T09:22:45.111411",
-    "insight": "China's alleged tech smuggling has major national security implications."
-  },
-  {
-    "title": "Iran says it has struck Oracle data center in Dubai, Amazon data center in Bahrain country has threatened to attack Nvidia, Intel, and others, too",
-    "summary": "Iran's IRGC claims to have struck an Oracle data center in Dubai, escalating tensions with US tech companies.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-claims-it-has-hit-oracle-data-center-in-dubai-amazon-data-center-in-bahrain-country-has-threatened-to-attack-nvidia-intel-and-others-too",
+    "title": "Microsoft's AI in its own terms: \"use Copilot at your own risk\"",
+    "summary": "Microsoft's Copilot terms of use warn users of potential errors and inaccuracies. The software is intended for entertainment purposes only, and users are advised against relying on it. This emphasizes the limitations of AI technology.",
+    "link": "https://www.techspot.com/news/111949-microsoft-ai-own-terms-use-copilot-own-risk.html",
     "categories": [
       "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.111523",
-    "insight": "Cyberattacks on critical infrastructure escalate global tech sector risk and conflict."
-  },
-  {
-    "title": "The largest programming community on Reddit just banned all content related to AI LLMs r/programming is prioritizing only high-quality discussions about AI",
-    "summary": "The r/programming subreddit banned LLM-related content to promote high-quality AI discussions.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-largest-programming-community-on-reddit-just-banned-all-content-related-to-ai-llms-r-programming-is-prioritizing-only-high-quality-discussions-about-ai",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-04T09:22:45.111643",
-    "insight": "Regulated AI discussions foster meaningful technical contributions online."
-  },
-  {
-    "title": "$1,299 Asus OLED gaming monitors are arriving with cracked panels for many buyers cut-down packaging with no protection for the panel gets the blame",
-    "summary": "Asus' $1,299 OLED gaming monitors arrive with cracked panels due to inadequate packaging. Buyers have reported receiving their ROG Swift OLED PG32UCDM Gen3 monitors with damaged panels. The issue is attributed to poor packaging that fails to protect the panel.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/asus-usd1-299-oled-gaming-monitors-are-arriving-with-cracked-panels-for-many-buyers-cut-down-packaging-with-no-protection-for-the-panel-gets-the-blame",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.111747",
-    "insight": "Inadequate packaging puts expensive gaming monitors at risk of damage."
-  },
-  {
-    "title": "Velxio is an open-source, self-hosted Arduino, Raspberry Pi, and ESP32 simulator",
-    "summary": "Velxio is an open-source, self-hosted simulator for Arduino, ESP32, and Raspberry Pi boards that works in a web browser. It allows drag-and-drop boards, component connections, code writing, and serial console access without hardware. Velxio is inspired by Wokwi but can be self-hosted.",
-    "link": "https://www.cnx-software.com/2026/04/04/velxio-open-source-self-hosted-arduino-raspberry-pi-and-esp32-simulator/",
-    "categories": [
-      "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-04T09:22:45.112218",
-    "insight": "Self-hosted Arduino simulation empowers developers with full control and data ownership"
+    "quality_score": 5,
+    "processed_date": "2026-04-05T09:24:24.846919",
+    "insight": "AI limitations must be acknowledged and respected by users always"
   },
   {
-    "title": "Realtek RTL8159 10GbE to USB 3.2 adapters sell for about $55 and up",
-    "summary": "Realtek's RTL8159 10GbE to USB 3.2 adapters are now available, priced around $55 and up.",
-    "link": "https://www.cnx-software.com/2026/04/03/realtek-rtl8159-10gbe-to-usb-3-2-adapters-sell-for-about-55-and-up/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 25,
-    "processed_date": "2026-04-04T09:22:45.112379",
-    "insight": "Low-cost 10GbE adapters expand affordable networking options."
-  },
-  {
-    "title": "Artemis II update: Launch, TLI burn, toilet fix to Moon or bust",
-    "summary": "Artemis II is underway, following a successful launch, TLI burn, and toilet fix. The spacecraft is expected to fly by the Moon's dark side on Monday. This mission marks a crucial step in NASA's lunar exploration plans.",
-    "link": "https://www.fiercesensors.com/sensors/artemis-ii-update-launch-tli-burn-toilet-fix-moon-or-bust",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-04T09:22:45.113364",
-    "insight": "Pioneering human spaceflight to the Moon's previously unexplored dark side matters"
-  },
-  {
-    "title": "MLB's robot-assisted strike zone is exposing umpire errors in real time",
-    "summary": "The MLB's robot-assisted strike zone technology is reducing disputes and reshaping game-day strategy by providing real-time accurate strike zone evaluations and offering teams two challenges per game.",
-    "link": "https://www.techspot.com/news/111937-mlb-robot-assisted-strike-zone-puts-umpires-calls.html",
+    "title": "Visa processed 106 million disputes last year, now wants AI to take over",
+    "summary": "Visa processed 106 million disputes last year, now wants AI to streamline the process and cut losses.",
+    "link": "https://www.techspot.com/news/111945-visa-processed-106-million-disputes-last-year-now.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.113833",
-    "insight": "Exposing umpire errors in real time promotes accountability and fairness."
+    "processed_date": "2026-04-05T09:24:24.847099",
+    "insight": "Efficiency gains through AI could save Visa significant time and financial losses."
   },
   {
-    "title": "Google's Gemma 4 AI can run on smartphones, no Internet required",
-    "summary": "Google's Gemma 4 AI can run on smartphones without an internet connection, delivering advanced reasoning capabilities. The models require a powerful 80GB Nvidia H100 GPU to run in bfloat16 format. This enables students, researchers, and developers to access frontier intelligence on personal computers.",
-    "link": "https://www.techspot.com/news/111944-google-gemma-4-ai-can-run-smartphones-no.html",
+    "title": "US military deploys low-cost \"Lucas\" drone built from reverse-engineered Iranian tech",
+    "summary": "The US military has deployed low-cost 'Lucas' drones built from Iranian tech, used against Iranian targets, resulting in an 83% decline in Iranian drone attacks.",
+    "link": "https://www.techspot.com/news/111939-us-military-deploys-low-cost-lucas-drone-built.html",
     "categories": [
       "AI & ML",
-      "GPUs"
+      "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-04T09:22:45.114033",
-    "insight": "Unlocking AI capabilities on personal devices revolutionizes workflows"
+    "quality_score": 5,
+    "processed_date": "2026-04-05T09:24:24.847315",
+    "insight": "US adapts and counter-attacks Iranian drone threats with reverse-engineered tech."
   },
   {
-    "title": "Toshiba starts shipping SMR MAMR enterprise hard drives offering up to 34TB of storage",
-    "summary": "Toshiba starts shipping high-capacity M12 Series SMR MAMR hard drives. These 3.5-inch drives offer storage capacities ranging from 30 to 34TB. They are designed for hyperscale customers and cloud services.",
-    "link": "https://www.techspot.com/news/111943-toshiba-starts-shipping-smr-mamr-enterprise-hard-drives.html",
+    "title": "Nearly half of US data centers planned for 2026 are facing delays or cancellation",
+    "summary": "Up to 50% of US AI data centers face delays or cancellation due to equipment and power constraints.",
+    "link": "https://www.techspot.com/news/111947-nearly-half-us-data-centers-planned-2026-facing.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.114259",
-    "insight": "Increased storage capacity meets growing data storage demands in the cloud."
-  },
-  {
-    "title": "Ford GT Mk IV sets N rburgring record for gas-powered cars",
-    "summary": "The Ford GT Mk IV set a new lap record for gas-powered cars at the Nurburgring, making it the fastest American manufacturer to achieve this feat. It trails behind hybrid and electric record-holders, showcasing the car's exceptional performance in a predominantly electrified field. This accomplishment highlights the GT Mk IV's capabilities.",
-    "link": "https://www.techspot.com/news/111941-ford-gt-mk-iv-sets-nrburgring-record-gas.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.114432",
-    "insight": "Exceptional performance in a predominantly electrified automotive landscape."
-  },
-  {
-    "title": "Take-Two lays off AI team members weeks after \"embracing\" generative AI",
-    "summary": "Take-Two lays off its AI team weeks after embracing generative AI.",
-    "link": "https://www.techspot.com/news/111942-take-two-lays-off-ai-team-members-weeks.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.114640",
-    "insight": "Company's AI ambitions may not align with its actual priorities."
-  },
-  {
-    "title": "NASA's Artemis laser system will send 4K video from the Moon at 260 Mbps",
-    "summary": "NASA's Orion Artemis II Optical Communications system enables 4K video at 260 Mbps for transmission from the Moon to Earth.",
-    "link": "https://www.techspot.com/news/111935-nasa-artemis-laser-system-send-4k-video-moon.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.114904",
-    "insight": "Improved video quality enhances scientific data and mission documentation capabilities."
-  },
-  {
-    "title": "Nvidia shows The Witcher 4 forest demo running path tracing on an RTX 4070",
-    "summary": "Nvidia has released a GDC 2026 presentation showcasing The Witcher 4's PC version with path tracing features running on an RTX 4070. The demo displays a forest scene with detailed graphics and lighting. This presentation highlights Nvidia's upcoming tools and engine functionality.",
-    "link": "https://www.techspot.com/news/111936-nvidia-shows-witcher-4-forest-demo-running-path.html",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.115082",
-    "insight": "Nvidia's path tracing capabilities enhance game visuals with realistic lighting and effects."
-  },
-  {
-    "title": "X is using a Supreme Court ruling to try to kill a $250 million music copyright lawsuit",
-    "summary": "X is using a Supreme Court ruling to challenge a $250 million music copyright lawsuit by arguing that the contributory infringement claim is no longer valid.",
-    "link": "https://www.techspot.com/news/111940-x-supreme-court-cox-ruling-sink-250-million.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.115283",
-    "insight": "Supreme Court ruling may wipe out major music copyright lawsuit theory."
-  },
-  {
-    "title": "Apple may be stockpiling mobile DRAM to outmaneuver rivals in a tight market",
-    "summary": "Apple may outmaneuver rivals by absorbing higher memory costs, expanding market share.",
-    "link": "https://www.techspot.com/news/111932-apple-may-stockpiling-mobile-dram-outmaneuver-rivals-tight.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.115411",
-    "insight": "Strategic stockpiling helps Apple maintain market dominance in a volatile supply environment."
-  },
-  {
-    "title": "Chip foundry market hit $320 billion in 2025, driven by AI demand",
-    "summary": "The chip foundry market reached $320 billion in 2025, driven by AI demand. The market has become increasingly complex, earning the term 'Foundry 2.0'. Silicon manufacturers have become major players in the industry.",
-    "link": "https://www.techspot.com/news/111930-chip-foundry-market-hit-320-billion-2025-driven.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-04T09:22:45.115536",
-    "insight": "AI demand propels rapid growth in the chip foundry market."
-  },
-  {
-    "title": "Colorado's landmark right-to-repair law faces pushback from tech giants",
-    "summary": "Colorado has approved measures making manufacturers provide repair information and parts. The state's right-to-repair legislation covers various products, including powered wheelchairs and consumer electronics. This aims to give consumers more control over repairs.",
-    "link": "https://www.techspot.com/news/111938-colorado-landmark-right-repair-law-faces-pushback-tech.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.115662",
-    "insight": "Empowering consumers to fix their own products, reducing waste and costs."
-  },
-  {
-    "title": "Intel's next laptop chips could bring 28-core CPUs built for discrete GPUs",
-    "summary": "Intel's Nova Lake-HX chips feature 28-core CPUs, wider I/O complex, and PCIe 5.0 connectivity for discrete GPUs, marking a higher-end branch of the mainstream Nova Lake-H line.",
-    "link": "https://www.techspot.com/news/111931-intel-next-laptop-chips-could-bring-28-core.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-04T09:22:45.115781",
-    "insight": "Enhanced GPU support for high-performance computing and gaming"
-  },
-  {
-    "title": "Nvidia RTX 5070 Ti Roundup: 9 Graphics Cards Tested",
-    "summary": "Nvidia RTX 5070 Ti cards show consistent performance, but prices are a concern.",
-    "link": "https://www.techspot.com/review/3108-nvidia-geforce-rtx-5070-ti-roundup/",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-04T09:22:45.115887",
-    "insight": "High prices make Nvidia RTX 5070 Ti questionable value proposition."
+    "processed_date": "2026-04-05T09:24:24.847493",
+    "insight": "US data center delays impact AI development and future innovation capabilities"
   }
 ]

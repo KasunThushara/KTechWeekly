@@ -1,165 +1,155 @@
 # 🤖 AI & ML
-**Week of April 04, 2026**
+**Week of April 05, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 15
-- **Report generated:** 2026-04-04 09:24
+- **Articles this week:** 14
+- **Report generated:** 2026-04-05 09:25
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 Nvidia gets preferential supply terms well below standard market rates, says analyst firm 
+### 1. ESP32-S3 gets post-quantum encryption with Aethyr Edge Node open-source firmware ⭐
 
-SemiAnalysis predicts memory will account for 30% of hyperscaler capex in 2026, a 4X increase from 2023. This significant increase is attributed to the growing demand for AI data centers. Nvidia benefits from preferential supply terms.
+Aethyr Research has released open-source firmware for ESP32-S3 with post-quantum encryption, using ML-KEM-768 and other secure algorithms. This firmware boots in 2.1 seconds and supports full PQC handshakes in 35ms. It is designed to provide quantum-resistant security for IoT applications.
 
-💡 *Growing AI demand drives memory costs to 30% of hyperscaler spending.*
+💡 *Preparing for quantum computers that can crack traditional encryption methods.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/memory-will-consume-30-percent-of-hyperscaler-spending-this-year)
-
----
-
-### 2. The largest programming community on Reddit just banned all content related to AI LLMs r/programming is prioritizing only high-quality discussions about AI 
-
-The r/programming subreddit banned LLM-related content to promote high-quality AI discussions.
-
-💡 *Regulated AI discussions foster meaningful technical contributions online.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/the-largest-programming-community-on-reddit-just-banned-all-content-related-to-ai-llms-r-programming-is-prioritizing-only-high-quality-discussions-about-ai)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/05/esp32-s3-gets-post-quantum-encryption-with-aethyr-edge-node-open-source-firmware/)
 
 ---
 
-### 3. Google's Gemma 4 AI can run on smartphones, no Internet required 
+### 2. Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub 
 
-Google's Gemma 4 AI can run on smartphones without an internet connection, delivering advanced reasoning capabilities. The models require a powerful 80GB Nvidia H100 GPU to run in bfloat16 format. This enables students, researchers, and developers to access frontier intelligence on personal computers.
+The Sharge Disk Pro 2TB boasts a 10 Gbps SSD, active cooling, and a built-in port hub, making it a compact, feature-rich solution for gamers and road warriors, but at a high price.
 
-💡 *Unlocking AI capabilities on personal devices revolutionizes workflows*
+💡 *Balances performance, convenience, and portability in a premium package*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111944-google-gemma-4-ai-can-run-smartphones-no.html)
-
----
-
-### 4. Chip foundry market hit $320 billion in 2025, driven by AI demand 
-
-The chip foundry market reached $320 billion in 2025, driven by AI demand. The market has become increasingly complex, earning the term 'Foundry 2.0'. Silicon manufacturers have become major players in the industry.
-
-💡 *AI demand propels rapid growth in the chip foundry market.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111930-chip-foundry-market-hit-320-billion-2025-driven.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-ssds/sharge-disk-pro-2tb-review)
 
 ---
 
-### 5. Half of planned US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure and parts from China the AI build-out flips the breakers 
+### 3. Researchers 3D print robot the size of a single-cell organism devices move and navigate even without a brain, uses their shape and the environment to get going 
 
-Cloud giants face AI data center deployment hurdles due to power infrastructure shortages. The $650 billion planned AI infrastructure spend is being limited by shortages. Availability of components, particularly from China, is a significant obstacle.
+Researchers at Leiden University created 0.5-micrometer microrobots that move and navigate using shape and environment.
 
-💡 *Power infrastructure shortages hinder AI data center deployment progress.*
+💡 *Paving the way for brainless robots in micro-scale applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-planned-us-data-center-builds-have-been-delayed-or-canceled-growth-limited-by-shortages-of-power-infrastructure-and-parts-from-china-the-ai-build-out-flips-the-breakers)
-
----
-
-### 6. Microsoft says Copilot is for entertainment purposes only, not serious use firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice 
-
-Microsoft's Copilot terms of service contradict its marketing, raising concerns about AI reliability.
-
-💡 *Microsoft's Copilot raises questions about AI trustworthiness in critical applications.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-not-to-rely-on-it-for-important-advice)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/researchers-3d-print-robot-the-size-of-a-single-cell-organism-devices-move-and-navigate-even-without-a-brain-uses-their-shape-and-the-environment-to-get-going)
 
 ---
 
-### 7. TSMC reportedly plans to build 12 fabs, four packaging facilities in Arizona plan purportedly part of Taiwan's agreed $500 million investment in the US 
+### 4. LinkedIn is spying on you, according to a new 'BrowserGate' security report scripts stealthily scan visitors' browsers for over 6,000 Chrome extensions and harvest hardware data 
 
-TSMC reportedly plans to build 12 fabs and four packaging facilities in Arizona, as part of Taiwan's $500 million investment in the US. This expansion aims to strengthen Taiwan's semiconductor presence in the global market. The move is expected to create new job opportunities and boost local economic growth.
+LinkedIn injects a JavaScript script on every page load to scan visitors' browsers for installed Chrome extensions and collect device telemetry, potentially compromising users' privacy.
 
-💡 *Boosts US semiconductor capacity and strengthens Taiwan's global presence*
+💡 *LinkedIn's BrowserGate script violates users' trust and online security.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-plans-to-build-12-fabs-four-packaging-facilities-in-arizona-plan-purportedly-part-of-taiwans-agreed-usd500-million-investment-in-the-us)
-
----
-
-### 8. Iran says it has struck Oracle data center in Dubai, Amazon data center in Bahrain country has threatened to attack Nvidia, Intel, and others, too 
-
-Iran's IRGC claims to have struck an Oracle data center in Dubai, escalating tensions with US tech companies.
-
-💡 *Cyberattacks on critical infrastructure escalate global tech sector risk and conflict.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-claims-it-has-hit-oracle-data-center-in-dubai-amazon-data-center-in-bahrain-country-has-threatened-to-attack-nvidia-intel-and-others-too)
+🔗 [Read Full Article](https://www.tomshardware.com/software/browsers/linkedin-scans-visitors-browsers-for-over-6000-chrome-extensions-and-collects-device-data)
 
 ---
 
-### 9. MLB's robot-assisted strike zone is exposing umpire errors in real time 
+### 5. Nvidia AI tech claims to slash gaming GPU memory usage by 85% with zero quality loss Neural Texture Compression demo reveals stunning visual parity between 6.5GB of VRAM and 970MB 
 
-The MLB's robot-assisted strike zone technology is reducing disputes and reshaping game-day strategy by providing real-time accurate strike zone evaluations and offering teams two challenges per game.
+Nvidia's Neural Texture Compression (NTC) technique reduces VRAM usage by 85% with zero quality loss, utilizing a neural network to decompress textures and improve image quality.
 
-💡 *Exposing umpire errors in real time promotes accountability and fairness.*
+💡 *Massive VRAM reduction enables more powerful gaming on lower-end hardware.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111937-mlb-robot-assisted-strike-zone-puts-umpires-calls.html)
-
----
-
-### 10. Toshiba starts shipping SMR MAMR enterprise hard drives offering up to 34TB of storage 
-
-Toshiba starts shipping high-capacity M12 Series SMR MAMR hard drives. These 3.5-inch drives offer storage capacities ranging from 30 to 34TB. They are designed for hyperscale customers and cloud services.
-
-💡 *Increased storage capacity meets growing data storage demands in the cloud.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111943-toshiba-starts-shipping-smr-mamr-enterprise-hard-drives.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-ai-tech-claims-to-slash-vram-usage-by-85-percent-with-zero-quality-loss-neural-texture-compression-demo-reveals-stunning-visual-parity-between-6-5gb-of-memory-and-970mb)
 
 ---
 
-### 11. Take-Two lays off AI team members weeks after "embracing" generative AI 
+### 6. Iranian missile blitz takes down AWS data centers in Bahrain and Dubai Amazon reportedly declares hard down status for multiple zones 
 
-Take-Two lays off its AI team weeks after embracing generative AI.
+Iranian missile strikes reportedly took down AWS data centers in Bahrain and Dubai, leading to a 'hard down' status for multiple zones at Amazon Web Services.
 
-💡 *Company's AI ambitions may not align with its actual priorities.*
+💡 *Global cloud infrastructure vulnerability exposed by regional conflict escalation.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111942-take-two-lays-off-ai-team-members-weeks.html)
-
----
-
-### 12. X is using a Supreme Court ruling to try to kill a $250 million music copyright lawsuit 
-
-X is using a Supreme Court ruling to challenge a $250 million music copyright lawsuit by arguing that the contributory infringement claim is no longer valid.
-
-💡 *Supreme Court ruling may wipe out major music copyright lawsuit theory.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111940-x-supreme-court-cox-ruling-sink-250-million.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
 
 ---
 
-### 13. Apple may be stockpiling mobile DRAM to outmaneuver rivals in a tight market 
+### 7. Hands-on with Modos Tech 13.3-inch e-paper monitors we tried the current Dev Kit model and the next-gen Modos Flow touch 
 
-Apple may outmaneuver rivals by absorbing higher memory costs, expanding market share.
+Modos Tech sent us their latest e-paper monitors for hands-on testing. We tried the current Dev Kit model and the next-gen Modos Flow touch screen model. Both units provided insight into potential future display technologies.
 
-💡 *Strategic stockpiling helps Apple maintain market dominance in a volatile supply environment.*
+💡 *Next-gen e-paper displays could revolutionize screen usage habits.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111932-apple-may-stockpiling-mobile-dram-outmaneuver-rivals-tight.html)
-
----
-
-### 14. Colorado's landmark right-to-repair law faces pushback from tech giants 
-
-Colorado has approved measures making manufacturers provide repair information and parts. The state's right-to-repair legislation covers various products, including powered wheelchairs and consumer electronics. This aims to give consumers more control over repairs.
-
-💡 *Empowering consumers to fix their own products, reducing waste and costs.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111938-colorado-landmark-right-repair-law-faces-pushback-tech.html)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/portable-monitors/hands-on-with-modos-tech-13-3-inch-e-paper-monitors)
 
 ---
 
-### 15. Intel's potent 18-core Core Ultra 5 250KF Plus CPU lands at retail for under $200 
+### 8. Modder uses Claude AI to rewrite BIOS so they can boot unsupported 12 P-core Bartlett Lake CPU in Windows on a Z790 motherboard 
 
-Intel's 18-core Core Ultra 5 250KF Plus CPU offers high performance at a budget price, outperforming AMD in multi-threaded tasks. This chip is suitable for heavy workloads and gaming. Its value proposition makes it an attractive option for those seeking power on a budget.
+A modder has successfully booted an unsupported 12-core Bartlett Lake-S CPU into Windows using a custom BIOS modification on an Asus Z790 motherboard. This breakthrough demonstrates the potential for modders to unlock new CPU capabilities on existing hardware. The achievement could pave the way for future upgrades and customizations.
 
-💡 *Intel's budget CPU beats AMD in multi-threaded performance*
+💡 *Modding enables CPU upgrades beyond manufacturer's supported specifications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-potent-18-core-core-ultra-5-250kf-plus-cpu-lands-at-retail-for-under-usd200)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/modder-uses-claude-ai-to-rewrite-bios-so-they-can-boot-unsupported-12-p-core-bartlett-lake-cpu-in-windows-on-a-z790-motherboard)
+
+---
+
+### 9. Microsoft to force updates to Windows 11 25H2 for PCs with older Windows 11 OS versions 'intelligent' update system uses machine learning to determine when a device is ready 
+
+Microsoft is upgrading Windows 11 24H2 systems to 25H2 automatically, streamlining updates before support ends.
+
+💡 *Streamlined updates ensure Windows 11 PCs remain secure and supported.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-forces-updates-to-windows-11-25h2-update-for-pcs-running-on-24h2)
+
+---
+
+### 10. New 'GeForge' and 'GDDRHammer' attacks can fully infiltrate your system through Nvidia's GPU memory Rowhammer attacks in GPUs force bit flips in protected VRAM regions to gain read/write access 
+
+New 'GeForge' and 'GDDRHammer' attacks target Nvidia's GPU memory, causing bit flips in VRAM to gain read/write access. These attacks bypass protected regions by manipulating page files and directories. This allows attackers to access CPU memory.
+
+💡 *Vulnerable GPU memory allows attackers to breach CPU security boundaries*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/new-geforge-and-gddrhammer-attacks-can-fully-infiltrate-your-system-through-nvidias-gpu-memory-rowhammer-attacks-in-gpus-force-bit-flips-in-protected-vram-regions-to-gain-read-write-access)
+
+---
+
+### 11. Microsoft's AI in its own terms: "use Copilot at your own risk" 
+
+Microsoft's Copilot terms of use warn users of potential errors and inaccuracies. The software is intended for entertainment purposes only, and users are advised against relying on it. This emphasizes the limitations of AI technology.
+
+💡 *AI limitations must be acknowledged and respected by users always*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111949-microsoft-ai-own-terms-use-copilot-own-risk.html)
+
+---
+
+### 12. Visa processed 106 million disputes last year, now wants AI to take over 
+
+Visa processed 106 million disputes last year, now wants AI to streamline the process and cut losses.
+
+💡 *Efficiency gains through AI could save Visa significant time and financial losses.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111945-visa-processed-106-million-disputes-last-year-now.html)
+
+---
+
+### 13. US military deploys low-cost "Lucas" drone built from reverse-engineered Iranian tech 
+
+The US military has deployed low-cost 'Lucas' drones built from Iranian tech, used against Iranian targets, resulting in an 83% decline in Iranian drone attacks.
+
+💡 *US adapts and counter-attacks Iranian drone threats with reverse-engineered tech.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111939-us-military-deploys-low-cost-lucas-drone-built.html)
+
+---
+
+### 14. Nearly half of US data centers planned for 2026 are facing delays or cancellation 
+
+Up to 50% of US AI data centers face delays or cancellation due to equipment and power constraints.
+
+💡 *US data center delays impact AI development and future innovation capabilities*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111947-nearly-half-us-data-centers-planned-2026-facing.html)
 
 ---
 
