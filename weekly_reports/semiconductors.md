@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of April 05, 2026**
+**Week of April 06, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,39 +7,39 @@
 
 ## 📊 Summary
 - **Articles this week:** 3
-- **Report generated:** 2026-04-05 09:25
+- **Report generated:** 2026-04-06 09:52
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Researchers 3D print robot the size of a single-cell organism devices move and navigate even without a brain, uses their shape and the environment to get going 
+### 1. Advantech MIO-5356 An industrial 3.5-inch SBC based on Intel Core Series 3 Wildcat Lake SoC 
 
-Researchers at Leiden University created 0.5-micrometer microrobots that move and navigate using shape and environment.
+The Advantech MIO-5356 is a 3.5-inch SBC powered by Intel Core Series 3 Wildcat Lake SoC, supporting up to 64GB DDR5 memory and multiple connectivity options for industrial applications.
 
-💡 *Paving the way for brainless robots in micro-scale applications.*
+💡 *High-performance computing for industrial applications with advanced connectivity options.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/researchers-3d-print-robot-the-size-of-a-single-cell-organism-devices-move-and-navigate-even-without-a-brain-uses-their-shape-and-the-environment-to-get-going)
-
----
-
-### 2. Microsoft's AI in its own terms: "use Copilot at your own risk" 
-
-Microsoft's Copilot terms of use warn users of potential errors and inaccuracies. The software is intended for entertainment purposes only, and users are advised against relying on it. This emphasizes the limitations of AI technology.
-
-💡 *AI limitations must be acknowledged and respected by users always*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111949-microsoft-ai-own-terms-use-copilot-own-risk.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/06/advantech-mio-5356-an-industrial-3-5-inch-sbc-based-on-intel-core-series-3-wildcat-lake-soc/)
 
 ---
 
-### 3. US military deploys low-cost "Lucas" drone built from reverse-engineered Iranian tech 
+### 2. Intel's upcoming 42-core Nova Lake SKU allegedly upgraded to 44 cores New config frees up 6P+12E tiles that could trickle down as locked bLLC variants 
 
-The US military has deployed low-cost 'Lucas' drones built from Iranian tech, used against Iranian targets, resulting in an 83% decline in Iranian drone attacks.
+Intel's 42-core Nova Lake SKU has been upgraded to 44 cores, achieving symmetry across its dual-tile configuration. This upgrade frees up 6P+12E tiles that could potentially be used as locked variants with increased bLLC capacity. The 6P+12E tiles may become a new 22-core SKU.
 
-💡 *US adapts and counter-attacks Iranian drone threats with reverse-engineered tech.*
+💡 *Increased core count and bLLC capacity enhance processor performance and efficiency.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111939-us-military-deploys-low-cost-lucas-drone-built.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-42-core-nova-lake-sku-allegedly-upgraded-to-44-cores-new-config-frees-up-6p-12e-tiles-that-could-trickle-down-as-locked-bllc-variants)
+
+---
+
+### 3. Player defeats Darks Souls II using only poop 42 hits of dung pie defeats the final boss 
+
+Gamer ymfah used dung pies to defeat Dark Souls II, exploiting a mechanic that allows for creative solutions. This involved farming dung pies and perfecting timing to overcome challenges. The accomplishment showcases the game's depth and potential for innovative play.
+
+💡 *Creativity and resourcefulness can lead to innovative gaming solutions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/player-defeats-darks-souls-ii-using-only-poop-42-hits-of-dung-pie-defeats-the-final-boss)
 
 ---
 

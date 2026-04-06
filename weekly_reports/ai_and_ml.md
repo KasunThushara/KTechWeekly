@@ -1,155 +1,125 @@
 # 🤖 AI & ML
-**Week of April 05, 2026**
+**Week of April 06, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-04-05 09:25
+- **Articles this week:** 11
+- **Report generated:** 2026-04-06 09:52
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. ESP32-S3 gets post-quantum encryption with Aethyr Edge Node open-source firmware ⭐
+### 1. AMD's upcoming Ryzen 9 9950X3D2 listed around $1,000 at several retailers across Canada and the UK New flagship dual-cache CPU might demand a hefty premium 
 
-Aethyr Research has released open-source firmware for ESP32-S3 with post-quantum encryption, using ML-KEM-768 and other secure algorithms. This firmware boots in 2.1 seconds and supports full PQC handshakes in 35ms. It is designed to provide quantum-resistant security for IoT applications.
+AMD's Ryzen 9 9950X3D2 CPU listings have surfaced with preliminary prices. The dual-cache processor is expected to cost around $1,000 at various retailers, a significant premium over the standard 9950X3D. This new flagship model may come with a hefty price tag.
 
-💡 *Preparing for quantum computers that can crack traditional encryption methods.*
+💡 *Ryzen 9 9950X3D2's price may be too steep for consumers*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/05/esp32-s3-gets-post-quantum-encryption-with-aethyr-edge-node-open-source-firmware/)
-
----
-
-### 2. Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub 
-
-The Sharge Disk Pro 2TB boasts a 10 Gbps SSD, active cooling, and a built-in port hub, making it a compact, feature-rich solution for gamers and road warriors, but at a high price.
-
-💡 *Balances performance, convenience, and portability in a premium package*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-ssds/sharge-disk-pro-2tb-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-upcoming-ryzen-9-9950x3d2-listed-around-usd1-000-at-several-retailers-across-canada-and-the-uk-new-flagship-dual-cache-cpu-might-demand-a-hefty-premium)
 
 ---
 
-### 3. Researchers 3D print robot the size of a single-cell organism devices move and navigate even without a brain, uses their shape and the environment to get going 
+### 2. Researchers train living rat neurons to perform real-time AI computations experiments could pave the way for new brain-machine interfaces 
 
-Researchers at Leiden University created 0.5-micrometer microrobots that move and navigate using shape and environment.
+Japanese researchers trained rat neurons to generate complex signals using AI, paving the way for brain-machine interfaces.
 
-💡 *Paving the way for brainless robots in micro-scale applications.*
+💡 *Neurons can autonomously perform AI computations in real-time.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/researchers-3d-print-robot-the-size-of-a-single-cell-organism-devices-move-and-navigate-even-without-a-brain-uses-their-shape-and-the-environment-to-get-going)
-
----
-
-### 4. LinkedIn is spying on you, according to a new 'BrowserGate' security report scripts stealthily scan visitors' browsers for over 6,000 Chrome extensions and harvest hardware data 
-
-LinkedIn injects a JavaScript script on every page load to scan visitors' browsers for installed Chrome extensions and collect device telemetry, potentially compromising users' privacy.
-
-💡 *LinkedIn's BrowserGate script violates users' trust and online security.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/browsers/linkedin-scans-visitors-browsers-for-over-6000-chrome-extensions-and-collects-device-data)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/researchers-train-living-rat-neurons-to-perform-real-time-ml-computations)
 
 ---
 
-### 5. Nvidia AI tech claims to slash gaming GPU memory usage by 85% with zero quality loss Neural Texture Compression demo reveals stunning visual parity between 6.5GB of VRAM and 970MB 
+### 3. Get a 27" 1440p OLED monitor with a blazing-fast 240 Hz refresh rate for just $499 LG's 27GS93QE-B is $400 off right now, features 1,300 nits of peak HDR brightness 
 
-Nvidia's Neural Texture Compression (NTC) technique reduces VRAM usage by 85% with zero quality loss, utilizing a neural network to decompress textures and improve image quality.
+The LG 27GS93QE-B is a 27-inch 1440p OLED monitor with a 240 Hz refresh rate, ideal for gaming, productivity, and media consumption.
 
-💡 *Massive VRAM reduction enables more powerful gaming on lower-end hardware.*
+💡 *Blazing-fast OLED gaming monitor at an affordable price point.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-ai-tech-claims-to-slash-vram-usage-by-85-percent-with-zero-quality-loss-neural-texture-compression-demo-reveals-stunning-visual-parity-between-6-5gb-of-memory-and-970mb)
-
----
-
-### 6. Iranian missile blitz takes down AWS data centers in Bahrain and Dubai Amazon reportedly declares hard down status for multiple zones 
-
-Iranian missile strikes reportedly took down AWS data centers in Bahrain and Dubai, leading to a 'hard down' status for multiple zones at Amazon Web Services.
-
-💡 *Global cloud infrastructure vulnerability exposed by regional conflict escalation.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-a-27-1440p-oled-monitor-with-a-blazing-fast-240-hz-refresh-rate-for-just-usd499-lgs-27gs93qe-b-is-usd400-off-right-now-features-1-300-nits-of-peak-hdr-brightness)
 
 ---
 
-### 7. Hands-on with Modos Tech 13.3-inch e-paper monitors we tried the current Dev Kit model and the next-gen Modos Flow touch 
+### 4. Iran threatens complete and utter annihilation of OpenAI's $30B Stargate AI data center in Abu Dhabi regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center 
 
-Modos Tech sent us their latest e-paper monitors for hands-on testing. We tried the current Dev Kit model and the next-gen Modos Flow touch screen model. Both units provided insight into potential future display technologies.
+Iran's IRGC threatens annihilation of OpenAI's $30B Stargate AI data center in Abu Dhabi.
 
-💡 *Next-gen e-paper displays could revolutionize screen usage habits.*
+💡 *Global AI infrastructure vulnerable to geopolitics and military threats.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/portable-monitors/hands-on-with-modos-tech-13-3-inch-e-paper-monitors)
-
----
-
-### 8. Modder uses Claude AI to rewrite BIOS so they can boot unsupported 12 P-core Bartlett Lake CPU in Windows on a Z790 motherboard 
-
-A modder has successfully booted an unsupported 12-core Bartlett Lake-S CPU into Windows using a custom BIOS modification on an Asus Z790 motherboard. This breakthrough demonstrates the potential for modders to unlock new CPU capabilities on existing hardware. The achievement could pave the way for future upgrades and customizations.
-
-💡 *Modding enables CPU upgrades beyond manufacturer's supported specifications.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/modder-uses-claude-ai-to-rewrite-bios-so-they-can-boot-unsupported-12-p-core-bartlett-lake-cpu-in-windows-on-a-z790-motherboard)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center)
 
 ---
 
-### 9. Microsoft to force updates to Windows 11 25H2 for PCs with older Windows 11 OS versions 'intelligent' update system uses machine learning to determine when a device is ready 
+### 5. Intel's upcoming Wildcat Lake low-budget CPUs leak out again OEM confirms specs for Core 7 350, Core 5 320, & Core 3 305 in first retail product datasheet 
 
-Microsoft is upgrading Windows 11 24H2 systems to 25H2 automatically, streamlining updates before support ends.
+Intel's Wildcat Lake CPU family has leaked in a new OEM datasheet, confirming specs for three SKUs. The datasheet, from Advantech, lists the Core 7 350, Core 5 320, and Core 3 305 CPUs. This suggests that the launch of Wildcat Lake is imminent.
 
-💡 *Streamlined updates ensure Windows 11 PCs remain secure and supported.*
+💡 *New retail datasheet confirms specs for Intel's Wildcat Lake CPUs*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-forces-updates-to-windows-11-25h2-update-for-pcs-running-on-24h2)
-
----
-
-### 10. New 'GeForge' and 'GDDRHammer' attacks can fully infiltrate your system through Nvidia's GPU memory Rowhammer attacks in GPUs force bit flips in protected VRAM regions to gain read/write access 
-
-New 'GeForge' and 'GDDRHammer' attacks target Nvidia's GPU memory, causing bit flips in VRAM to gain read/write access. These attacks bypass protected regions by manipulating page files and directories. This allows attackers to access CPU memory.
-
-💡 *Vulnerable GPU memory allows attackers to breach CPU security boundaries*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/new-geforge-and-gddrhammer-attacks-can-fully-infiltrate-your-system-through-nvidias-gpu-memory-rowhammer-attacks-in-gpus-force-bit-flips-in-protected-vram-regions-to-gain-read-write-access)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-wildcat-lake-low-budget-cpus-leak-out-again-oem-confirms-specs-for-core-7-350-core-5-320-and-core-3-305-in-first-retail-product-datasheet)
 
 ---
 
-### 11. Microsoft's AI in its own terms: "use Copilot at your own risk" 
+### 6. Autonomous ErgoChair Core Review: You get what you pay for 
 
-Microsoft's Copilot terms of use warn users of potential errors and inaccuracies. The software is intended for entertainment purposes only, and users are advised against relying on it. This emphasizes the limitations of AI technology.
+The Autonomous ErgoChair Core is an entry-level office chair with limited dimensions. It offers some comfort features but may not meet expectations for a mid-range price point. Users should weigh its value based on their specific needs and budget.
 
-💡 *AI limitations must be acknowledged and respected by users always*
+💡 *You get what you pay for with this affordable office chair.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111949-microsoft-ai-own-terms-use-copilot-own-risk.html)
-
----
-
-### 12. Visa processed 106 million disputes last year, now wants AI to take over 
-
-Visa processed 106 million disputes last year, now wants AI to streamline the process and cut losses.
-
-💡 *Efficiency gains through AI could save Visa significant time and financial losses.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111945-visa-processed-106-million-disputes-last-year-now.html)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/autonomous-ergochair-core-review)
 
 ---
 
-### 13. US military deploys low-cost "Lucas" drone built from reverse-engineered Iranian tech 
+### 7. Apple approves drivers that let AMD and Nvidia eGPUs run on Mac software designed for AI, though, and not built for gaming 
 
-The US military has deployed low-cost 'Lucas' drones built from Iranian tech, used against Iranian targets, resulting in an 83% decline in Iranian drone attacks.
+Apple has approved drivers for AMD and Nvidia eGPUs to run on Macs, making them legitimate software for Macs. The approved drivers allow the eGPUs to work with Mac software designed for AI, not gaming. This development eliminates the need for workarounds.
 
-💡 *US adapts and counter-attacks Iranian drone threats with reverse-engineered tech.*
+💡 *Advancements in AI on Macs with approved eGPU drivers accelerate innovation*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111939-us-military-deploys-low-cost-lucas-drone-built.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/apple-approves-drivers-that-let-amd-and-nvidia-egpus-run-on-mac-software-designed-for-ai-though-and-not-built-for-gaming)
 
 ---
 
-### 14. Nearly half of US data centers planned for 2026 are facing delays or cancellation 
+### 8. This Android phone can run Windows games locally, no PC required 
 
-Up to 50% of US AI data centers face delays or cancellation due to equipment and power constraints.
+Red Magic's Android phone can run Windows games directly on its OS, eliminating the need for a separate PC.
 
-💡 *US data center delays impact AI development and future innovation capabilities*
+💡 *Native game compatibility enhances mobile gaming experience significantly*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111947-nearly-half-us-data-centers-planned-2026-facing.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111953-android-phone-can-run-windows-games-locally-no.html)
+
+---
+
+### 9. Nvidia shows neural compression can cut VRAM usage from 6.5GB to 970MB 
+
+Nvidia's Neural Texture Compression (NTC) technology reduces VRAM usage from 6.5GB to 970MB, maintaining image quality.
+
+💡 *Significant VRAM reduction for improved gaming performance and lower system requirements.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111954-nvidia-shows-neural-compression-can-cut-vram-usage.html)
+
+---
+
+### 10. Sony quietly removes PC mentions from PlayStation Studios pages 
+
+Sony has updated the PlayStation Studios' main banner with new game titles, removing Demon's Souls Remake from the lineup.
+
+💡 *Sony subtly shifts focus from PC gaming to console exclusives*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111950-sony-quietly-removes-pc-mentions-playstation-studios-pages.html)
+
+---
+
+### 11. Italian court says Netflix must refund customers up to $576 over price hikes 
+
+An Italian court has ruled that Netflix must refund customers following price hikes imposed by Netflix Italia. The refund amount could be up to $576 per customer. The decision was made in response to an injunction action by consumer group Movimento Consumatori.
+
+💡 *Consumer protection laws hold powerful streaming services accountable for price changes.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111955-italian-court-netflix-must-refund-customers-up-576.html)
 
 ---
 
