@@ -1,45 +1,55 @@
 # ⚡ Semiconductors
-**Week of April 06, 2026**
+**Week of April 07, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 3
-- **Report generated:** 2026-04-06 09:52
+- **Articles this week:** 4
+- **Report generated:** 2026-04-07 09:49
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Advantech MIO-5356 An industrial 3.5-inch SBC based on Intel Core Series 3 Wildcat Lake SoC 
+### 1. NASA Artemis Watch 2.0 An ESP32-S3-powered, NASA-inspired wearable kit for education 
 
-The Advantech MIO-5356 is a 3.5-inch SBC powered by Intel Core Series 3 Wildcat Lake SoC, supporting up to 64GB DDR5 memory and multiple connectivity options for industrial applications.
+The NASA Artemis Watch 2.0 is a programmable, NASA-themed smartwatch based on ESP32-S3, featuring WiFi, Bluetooth, and various sensors.
 
-💡 *High-performance computing for industrial applications with advanced connectivity options.*
+💡 *Empowering educational hands-on learning experiences with cutting-edge, space-inspired technology.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/06/advantech-mio-5356-an-industrial-3-5-inch-sbc-based-on-intel-core-series-3-wildcat-lake-soc/)
-
----
-
-### 2. Intel's upcoming 42-core Nova Lake SKU allegedly upgraded to 44 cores New config frees up 6P+12E tiles that could trickle down as locked bLLC variants 
-
-Intel's 42-core Nova Lake SKU has been upgraded to 44 cores, achieving symmetry across its dual-tile configuration. This upgrade frees up 6P+12E tiles that could potentially be used as locked variants with increased bLLC capacity. The 6P+12E tiles may become a new 22-core SKU.
-
-💡 *Increased core count and bLLC capacity enhance processor performance and efficiency.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-42-core-nova-lake-sku-allegedly-upgraded-to-44-cores-new-config-frees-up-6p-12e-tiles-that-could-trickle-down-as-locked-bllc-variants)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/07/nasa-artemis-watch-2-0-an-esp32-s3-powered-nasa-inspired-wearable-kit-for-education/)
 
 ---
 
-### 3. Player defeats Darks Souls II using only poop 42 hits of dung pie defeats the final boss 
+### 2. US lawmakers aim to ban export of DUV chipmaking and etching tools to leading firms in China bipartisan proposal would ban lithography equipment for Huawei, SMIC, and others 
 
-Gamer ymfah used dung pies to defeat Dark Souls II, exploiting a mechanic that allows for creative solutions. This involved farming dung pies and perfecting timing to overcome challenges. The accomplishment showcases the game's depth and potential for innovative play.
+US lawmakers propose bipartisan ban on exporting DUV chipmaking tools to Chinese firms tied to China's military.
 
-💡 *Creativity and resourcefulness can lead to innovative gaming solutions.*
+💡 *Protecting US national security by limiting China's chip production capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/player-defeats-darks-souls-ii-using-only-poop-42-hits-of-dung-pie-defeats-the-final-boss)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/u-s-lawmakers-aim-to-ban-export-of-duv-chipmaking-and-etching-tools-to-leading-firms-in-china-bipartisan-proposal-would-ban-lithography-equipment-for-huawei-smic-and-others)
+
+---
+
+### 3. Why TSMC grew four times faster than its foundry rivals in 2025 price hikes, vertical integration, and commanding technology lead pay dividends 
+
+TSMC's significant growth can be attributed to its advantages in vertical integration, commanding technology lead, and price hikes. These factors have contributed to its substantial outperformance compared to its foundry rivals. The company's strong position is sustained over multiple product cycles.
+
+💡 *Vertical integration and tech lead drive TSMC's outsized success.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/why-tsmc-grew-four-times-faster-than-its-foundry-rivals-in-2025)
+
+---
+
+### 4. Japan's Rapidus ramps up 2nm chip plans while eyeing factories on the Moon 
+
+Rapidus is advancing its 2nm chip production with pilot line operations.
+
+💡 *Japan leads the charge in developing cutting-edge semiconductor technology.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111959-japan-rapidus-ramps-up-2-nm-chip-plans.html)
 
 ---
 

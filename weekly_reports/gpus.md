@@ -1,65 +1,55 @@
 # 🎮 GPUs
-**Week of April 06, 2026**
+**Week of April 07, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-04-06 09:52
+- **Articles this week:** 4
+- **Report generated:** 2026-04-07 09:49
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Nvidia Pascal GPUs debuted 10 years ago today, best known for the GTX 1060 and GTX 1080 Ti architecture kicked off with the Tesla P100 ⭐
+### 1. Iran threatens to "annihilate" Stargate AI data center backed by OpenAI and Nvidia 
 
-Nvidia's Tesla P100 launched 10 years ago, marking five architectural breakthroughs. The Nvidia Pascal GPUs, including the GTX 1060 and GTX 1080 Ti, followed suit. This launch paved the way for future Nvidia innovations.
+Iran threatens retaliatory measures against US-backed IT facilities, including Stargate AI.
 
-💡 *Nvidia's Pascal architecture revolutionized gaming and AI computing performance.*
+💡 *US tech companies' foreign investment risks sparking global conflict escalation*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-pascal-gpus-debuted-10-years-ago-today-best-known-for-the-gtx-1060-and-gtx-1080-ti-architecture-kicked-off-with-the-tesla-p100)
-
----
-
-### 2. Get a 27" 1440p OLED monitor with a blazing-fast 240 Hz refresh rate for just $499 LG's 27GS93QE-B is $400 off right now, features 1,300 nits of peak HDR brightness 
-
-The LG 27GS93QE-B is a 27-inch 1440p OLED monitor with a 240 Hz refresh rate, ideal for gaming, productivity, and media consumption.
-
-💡 *Blazing-fast OLED gaming monitor at an affordable price point.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-a-27-1440p-oled-monitor-with-a-blazing-fast-240-hz-refresh-rate-for-just-usd499-lgs-27gs93qe-b-is-usd400-off-right-now-features-1-300-nits-of-peak-hdr-brightness)
+🔗 [Read Full Article](https://www.techspot.com/news/111957-iran-threatens-openai-backed-stargate-ai-data-center.html)
 
 ---
 
-### 3. Hobbyist builds a homebrew Intel 8086 ISA accelerator card maker s project improves integer multiplication on these retro systems by 250% 
+### 2. Intel's OEM-only Bartlett Lake CPU modded to run on consumer Z790 motherboard beats AMD's Ryzen 9 9900X3D in Cinebench multi-core test Core 9 273QPE has 12 cores, 24 threads, and hits 5.4GHz 
 
-A computer scientist created a hardware ISA card accelerator for Intel 8086 and 8088 systems, significantly improving integer multiplication performance. This project showcases a creative approach to enhancing retro computing capabilities. The accelerator boosts integer multiplication by 250%.
+A modded Intel Bartlett Lake CPU outperforms AMD's Ryzen 9 9900X3D in Cinebench multi-core test, achieving around 33,000 points on a Z790 motherboard. This modified CPU boasts 12 Raptor Cove P-cores and reaches a 5.4GHz frequency. The results are comparable to the Core i7-14700.
 
-💡 *Revitalizing retro systems with significant performance boosts through innovative hardware upgrades.*
+💡 *Intel's modified P-core CPU beats AMD in multi-core performance unexpectedly*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/hobbyist-builds-a-homebrew-intel-8086-isa-accelerator-card-makers-project-improves-integer-multiplication-on-these-retro-systems-by-250-percent)
-
----
-
-### 4. Apple approves drivers that let AMD and Nvidia eGPUs run on Mac software designed for AI, though, and not built for gaming 
-
-Apple has approved drivers for AMD and Nvidia eGPUs to run on Macs, making them legitimate software for Macs. The approved drivers allow the eGPUs to work with Mac software designed for AI, not gaming. This development eliminates the need for workarounds.
-
-💡 *Advancements in AI on Macs with approved eGPU drivers accelerate innovation*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/apple-approves-drivers-that-let-amd-and-nvidia-egpus-run-on-mac-software-designed-for-ai-though-and-not-built-for-gaming)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-oem-only-bartlett-lake-cpu-modded-to-run-on-consumer-z790-motherboard-beats-amds-ryzen-9-9900x3d-in-cinebench-multi-core-test-core-9-273qpe-has-12-cores-24-threads-and-hits-5-4ghz)
 
 ---
 
-### 5. Nvidia shows neural compression can cut VRAM usage from 6.5GB to 970MB 
+### 3. Get 32GB of Corsair Vengeance RAM for less than $200 when bundled with AMD's 9800X3D and X870-E motherboard free liquid cooler and a copy of Crimson Desert to kickstart a top AM5 gaming build 
 
-Nvidia's Neural Texture Compression (NTC) technology reduces VRAM usage from 6.5GB to 970MB, maintaining image quality.
+Get a top AM5 gaming build with AMD's 9800X3D and Corsair Vengeance RAM for under $200. The bundle includes an X870-E motherboard, free liquid cooler, and a copy of Crimson Desert. This deal cuts costs and offers excellent performance.
 
-💡 *Significant VRAM reduction for improved gaming performance and lower system requirements.*
+💡 *High-performance gaming build at a significantly reduced cost point*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111954-nvidia-shows-neural-compression-can-cut-vram-usage.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/grab-the-ryzen-7-9800x3d-32gb-of-ram-and-msi-x870e-bundle-and-get-free-240mm-aio-and-game-usd350-total-savings-on-combo-bundle)
+
+---
+
+### 4. Nvidia's own DLSS 5 announcement video gets taken down by YouTube in Italy due to a copyright strike local TV channel sent a copyright strike to every YouTube video for using the trailer it used for its own broadcast 
+
+YouTube removed Nvidia's DLSS 5 announcement video due to a copyright strike, affecting nearly every video containing the DLSS 5 trailer. The strike was initiated by a local TV channel for using the trailer in its own broadcast. YouTube's AI moderator acted errantly on the DMCA takedown.
+
+💡 *AI moderators can make mistakes affecting creators' content*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/nvidias-own-dlss-5-announcement-video-gets-taken-down-in-italy-by-copyright-strike-local-tv-channel-sent-a-copyright-strike-to-every-youtube-video-for-using-the-trailer-it-used-for-its-own-broadcast)
 
 ---
 

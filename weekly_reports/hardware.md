@@ -1,145 +1,115 @@
 # 💻 Hardware
-**Week of April 06, 2026**
+**Week of April 07, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-04-06 09:52
+- **Articles this week:** 10
+- **Report generated:** 2026-04-07 09:49
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. PlayStation 3 emulator makes Cell CPU 'breakthrough' that improves performance in all games 'All CPUs can benefit from this, from low-end to high-end!' says RPCS3 devs ⭐
+### 1. MSI MAG A1200PLS PCIE5 1200W power supply review: A competent 1200W unit, but pricey 
 
-RPCS3 developers claim a breakthrough in emulating the PS3's Cell Broadband Engine processor, which improves performance in all games. This advancement has the potential to benefit all CPUs, from low-end to high-end. The open-source emulator is now able to run games more efficiently.
+The MSI MAG A1200PLS PCIE5 offers strong efficiency and build quality, but is marred by a high price and thermal weakness under heavy loads.
 
-💡 *Advancements in emulating the PS3's Cell CPU benefit all CPU types.*
+💡 *High price and thermal weakness limit its long-term reliability potential.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/rpcs3-ps3-emulator-gets-cell-cpu-breakthrough-that-improves-performance-in-all-games)
-
----
-
-### 2. $2 WeAct CH32V006F8U6 Mini Core board features CH32V006 RISC-V MCU, supports 3.3V or 5V I/O voltage ⭐
-
-The WeAct CH32V006F8U6 Mini Core board is a tiny, inexpensive development board featuring the CH32V006 RISC-V microcontroller. It supports 3.3V or 5V I/O voltage and comes equipped with a USB-C port and two rows of 12-pin headers for I/O expansion.
-
-💡 *Inexpensive RISC-V boards expand MCU options for makers and developers*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/06/2-weact-ch32v006f8u6-mini-core-board-features-ch32v006-risc-v-mcu-supports-3-3v-or-5v-i-o-voltage/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/msi-mag-a1200pls-pcie5-1200w-power-supply-review)
 
 ---
 
-### 3. AMD's upcoming Ryzen 9 9950X3D2 listed around $1,000 at several retailers across Canada and the UK New flagship dual-cache CPU might demand a hefty premium 
+### 2. NASA Artemis Watch 2.0 An ESP32-S3-powered, NASA-inspired wearable kit for education 
 
-AMD's Ryzen 9 9950X3D2 CPU listings have surfaced with preliminary prices. The dual-cache processor is expected to cost around $1,000 at various retailers, a significant premium over the standard 9950X3D. This new flagship model may come with a hefty price tag.
+The NASA Artemis Watch 2.0 is a programmable, NASA-themed smartwatch based on ESP32-S3, featuring WiFi, Bluetooth, and various sensors.
 
-💡 *Ryzen 9 9950X3D2's price may be too steep for consumers*
+💡 *Empowering educational hands-on learning experiences with cutting-edge, space-inspired technology.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-upcoming-ryzen-9-9950x3d2-listed-around-usd1-000-at-several-retailers-across-canada-and-the-uk-new-flagship-dual-cache-cpu-might-demand-a-hefty-premium)
-
----
-
-### 4. BenQ DesignVue PD2770U 4K professional monitor review: A blend of flexibility, control, and precision 
-
-The BenQ DesignVue PD2770U monitor offers a 27-inch 4K IPS panel with wide-gamut color, HDR10, and a built-in calibrator for professional-grade visuals.
-
-💡 *Precision and control for creatives and professionals at fingertips.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/benq-designvue-pd2770u-27-inch-4k-professional-monitor-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/07/nasa-artemis-watch-2-0-an-esp32-s3-powered-nasa-inspired-wearable-kit-for-education/)
 
 ---
 
-### 5. Advantech MIO-5356 An industrial 3.5-inch SBC based on Intel Core Series 3 Wildcat Lake SoC 
+### 3. AAEON Intelli TWL01 Edge fanless mini PC features up to Core 3 N355 Twin Lake CPU for kiosks and digital signage applications 
 
-The Advantech MIO-5356 is a 3.5-inch SBC powered by Intel Core Series 3 Wildcat Lake SoC, supporting up to 64GB DDR5 memory and multiple connectivity options for industrial applications.
+The AAEON Intelli TWL01 Edge is a fanless mini PC designed for kiosks and digital signage. It features up to a Core 3 N355 Twin Lake CPU, 16GB of RAM, and dual 4K display support. The device offers various connectivity options and mounting possibilities.
 
-💡 *High-performance computing for industrial applications with advanced connectivity options.*
+💡 *Industrial-grade mini PC optimizes digital signage and kiosk deployments*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/06/advantech-mio-5356-an-industrial-3-5-inch-sbc-based-on-intel-core-series-3-wildcat-lake-soc/)
-
----
-
-### 6. A new OnlyOffice fork is Europe's answer to Microsoft Office 
-
-Euro-Office, a new open-source office suite, is developed by Nextcloud and others, offering Microsoft-compatible formats and open standards support.
-
-💡 *European alternative to Microsoft Office emerges with open-source roots.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111952-new-onlyoffice-fork-europe-answer-microsoft-office.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/06/aaeon-intelli-twl01-edge-fanless-mini-pc-features-up-to-core-3-n355-twin-lake-cpu-for-kiosks-and-digital-signage-applications/)
 
 ---
 
-### 7. Intel's upcoming Wildcat Lake low-budget CPUs leak out again OEM confirms specs for Core 7 350, Core 5 320, & Core 3 305 in first retail product datasheet 
+### 4. Electronics enthusiast begins breadboard-based Intel 386 system build a large step up from their previous PC-XT and PC-AT breadboard projects 
 
-Intel's Wildcat Lake CPU family has leaked in a new OEM datasheet, confirming specs for three SKUs. The datasheet, from Advantech, lists the Core 7 350, Core 5 320, and Core 3 305 CPUs. This suggests that the launch of Wildcat Lake is imminent.
+Breadboarding Labs is crafting a retro Intel 386 PC build on solderless breadboards, marking a significant upgrade from previous PC-XT and PC-AT projects.
 
-💡 *New retail datasheet confirms specs for Intel's Wildcat Lake CPUs*
+💡 *Pushing microprocessor boundaries with innovative breadboarding techniques*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-wildcat-lake-low-budget-cpus-leak-out-again-oem-confirms-specs-for-core-7-350-core-5-320-and-core-3-305-in-first-retail-product-datasheet)
-
----
-
-### 8. Steam starts gathering FPS data with latest client update company to estimate framerates based on your hardware, Beta feature to focus on SteamOS devices 
-
-Steam's latest update includes a Beta feature to gather FPS data, enabling the platform to monitor and compare framerates with your hardware. This feature is currently only available on SteamOS devices. It aims to provide more accurate hardware estimations.
-
-💡 *Improved hardware estimations through real-world FPS data collection.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/steam-starts-gathering-fps-data-with-latest-client-update-company-to-estimate-framerates-based-on-your-hardware-beta-feature-to-focus-on-steamos-devices)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/electronics-enthusiast-begins-breadboard-based-intel-386-system-build-a-large-step-up-from-their-previous-pc-xt-and-pc-at-breadboard-projects)
 
 ---
 
-### 9. Autonomous ErgoChair Core Review: You get what you pay for 
+### 5. Intel's OEM-only Bartlett Lake CPU modded to run on consumer Z790 motherboard beats AMD's Ryzen 9 9900X3D in Cinebench multi-core test Core 9 273QPE has 12 cores, 24 threads, and hits 5.4GHz 
 
-The Autonomous ErgoChair Core is an entry-level office chair with limited dimensions. It offers some comfort features but may not meet expectations for a mid-range price point. Users should weigh its value based on their specific needs and budget.
+A modded Intel Bartlett Lake CPU outperforms AMD's Ryzen 9 9900X3D in Cinebench multi-core test, achieving around 33,000 points on a Z790 motherboard. This modified CPU boasts 12 Raptor Cove P-cores and reaches a 5.4GHz frequency. The results are comparable to the Core i7-14700.
 
-💡 *You get what you pay for with this affordable office chair.*
+💡 *Intel's modified P-core CPU beats AMD in multi-core performance unexpectedly*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/autonomous-ergochair-core-review)
-
----
-
-### 10. Hobbyist builds a homebrew Intel 8086 ISA accelerator card maker s project improves integer multiplication on these retro systems by 250% 
-
-A computer scientist created a hardware ISA card accelerator for Intel 8086 and 8088 systems, significantly improving integer multiplication performance. This project showcases a creative approach to enhancing retro computing capabilities. The accelerator boosts integer multiplication by 250%.
-
-💡 *Revitalizing retro systems with significant performance boosts through innovative hardware upgrades.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/hobbyist-builds-a-homebrew-intel-8086-isa-accelerator-card-makers-project-improves-integer-multiplication-on-these-retro-systems-by-250-percent)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-oem-only-bartlett-lake-cpu-modded-to-run-on-consumer-z790-motherboard-beats-amds-ryzen-9-9900x3d-in-cinebench-multi-core-test-core-9-273qpe-has-12-cores-24-threads-and-hits-5-4ghz)
 
 ---
 
-### 11. Intel's upcoming 42-core Nova Lake SKU allegedly upgraded to 44 cores New config frees up 6P+12E tiles that could trickle down as locked bLLC variants 
+### 6. Creality Sermoon S1 Review: Accessible 3D Scanning 
 
-Intel's 42-core Nova Lake SKU has been upgraded to 44 cores, achieving symmetry across its dual-tile configuration. This upgrade frees up 6P+12E tiles that could potentially be used as locked variants with increased bLLC capacity. The 6P+12E tiles may become a new 22-core SKU.
+The Creality Sermoon S1 offers improved 3D scanning capabilities at an accessible price. While not flawless, it's a step up from previous Creality scanners. However, users may still encounter some minor issues.
 
-💡 *Increased core count and bLLC capacity enhance processor performance and efficiency.*
+💡 *Accessible 3D scanning for hobbyists and makers at an affordable price.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-42-core-nova-lake-sku-allegedly-upgraded-to-44-cores-new-config-frees-up-6p-12e-tiles-that-could-trickle-down-as-locked-bllc-variants)
-
----
-
-### 12. This Android phone can run Windows games locally, no PC required 
-
-Red Magic's Android phone can run Windows games directly on its OS, eliminating the need for a separate PC.
-
-💡 *Native game compatibility enhances mobile gaming experience significantly*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111953-android-phone-can-run-windows-games-locally-no.html)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/3d-scanning/creality-sermoon-s1-3d-scanner-review)
 
 ---
 
-### 13. Sony quietly removes PC mentions from PlayStation Studios pages 
+### 7. Linux devs start removing support for 37-year-old Intel 486 CPU head honcho Linus Torvalds says 'zero real reason' to continue support 
 
-Sony has updated the PlayStation Studios' main banner with new game titles, removing Demon's Souls Remake from the lineup.
+Linux kernel developers have started to remove support for the Intel 486 CPU, citing a lack of relevance. Linus Torvalds stated that there's 'zero real reason' to continue supporting the 37-year-old processor. This move reflects the evolving nature of computing technology.
 
-💡 *Sony subtly shifts focus from PC gaming to console exclusives*
+💡 *Legacy support no longer aligns with modern computing requirements.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111950-sony-quietly-removes-pc-mentions-playstation-studios-pages.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linux-devs-start-removing-support-for-37-year-old-intel-486-cpu-head-honcho-linus-torvalds-says-zero-real-reason-to-continue-support)
+
+---
+
+### 8. AI is now taking over game servers, and Stormgate is the first casualty 
+
+Stormgate's multiplayer modes are going offline due to a game server outage. The outage is caused by Frost Giant's third-party provider being acquired by an AI company. Players will experience a planned outage.
+
+💡 *AI's growing influence threatens game server security and stability.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111969-stormgate-servers-go-dark-following-ai-focused-hosting.html)
+
+---
+
+### 9. Microsoft now has 80 different "Copilot" products, and counting 
+
+Microsoft has 80 'Copilot' products, as counted by consultant Tey Bannerman, across its ecosystem.
+
+💡 *Microsoft's extensive Copilot offerings demonstrate AI's widespread integration in its services.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111967-someone-tallied-all-microsoft-copilot-products-there-80.html)
+
+---
+
+### 10. Samsung may add a "Pro" model to Galaxy S lineup, matching Apple's strategy 
+
+Samsung may introduce a 'Pro' model to its Galaxy S lineup, slotting between the Plus and Ultra, inheriting Ultra's features.
+
+💡 *Samsung matches Apple's strategy with a new premium phone tier.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111965-samsung-may-add-pro-model-galaxy-s-lineup.html)
 
 ---
 

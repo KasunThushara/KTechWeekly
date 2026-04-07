@@ -1,5 +1,5 @@
 # 📰 Tech News
-**Week of April 06, 2026**
+**Week of April 07, 2026**
 
 *Industry news and product launches*
 
@@ -7,79 +7,79 @@
 
 ## 📊 Summary
 - **Articles this week:** 7
-- **Report generated:** 2026-04-06 09:52
+- **Report generated:** 2026-04-07 09:49
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Nvidia Pascal GPUs debuted 10 years ago today, best known for the GTX 1060 and GTX 1080 Ti architecture kicked off with the Tesla P100 ⭐
+### 1. MSI MAG A1200PLS PCIE5 1200W power supply review: A competent 1200W unit, but pricey 
 
-Nvidia's Tesla P100 launched 10 years ago, marking five architectural breakthroughs. The Nvidia Pascal GPUs, including the GTX 1060 and GTX 1080 Ti, followed suit. This launch paved the way for future Nvidia innovations.
+The MSI MAG A1200PLS PCIE5 offers strong efficiency and build quality, but is marred by a high price and thermal weakness under heavy loads.
 
-💡 *Nvidia's Pascal architecture revolutionized gaming and AI computing performance.*
+💡 *High price and thermal weakness limit its long-term reliability potential.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-pascal-gpus-debuted-10-years-ago-today-best-known-for-the-gtx-1060-and-gtx-1080-ti-architecture-kicked-off-with-the-tesla-p100)
-
----
-
-### 2. PlayStation 3 emulator makes Cell CPU 'breakthrough' that improves performance in all games 'All CPUs can benefit from this, from low-end to high-end!' says RPCS3 devs ⭐
-
-RPCS3 developers claim a breakthrough in emulating the PS3's Cell Broadband Engine processor, which improves performance in all games. This advancement has the potential to benefit all CPUs, from low-end to high-end. The open-source emulator is now able to run games more efficiently.
-
-💡 *Advancements in emulating the PS3's Cell CPU benefit all CPU types.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/rpcs3-ps3-emulator-gets-cell-cpu-breakthrough-that-improves-performance-in-all-games)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/msi-mag-a1200pls-pcie5-1200w-power-supply-review)
 
 ---
 
-### 3. BenQ DesignVue PD2770U 4K professional monitor review: A blend of flexibility, control, and precision 
+### 2. WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 'at some point, the laws of physics will require us to transition to HAMR' 
 
-The BenQ DesignVue PD2770U monitor offers a 27-inch 4K IPS panel with wide-gamut color, HDR10, and a built-in calibrator for professional-grade visuals.
+WD leadership discusses roadmap plans for 60TB and 100TB storage targets by 2029, leveraging ePMR and HAMR technologies.
 
-💡 *Precision and control for creatives and professionals at fingertips.*
+💡 *Transitioning to HAMR will be necessary due to physics limitations*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/benq-designvue-pd2770u-27-inch-4k-professional-monitor-review)
-
----
-
-### 4. A new OnlyOffice fork is Europe's answer to Microsoft Office 
-
-Euro-Office, a new open-source office suite, is developed by Nextcloud and others, offering Microsoft-compatible formats and open standards support.
-
-💡 *European alternative to Microsoft Office emerges with open-source roots.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111952-new-onlyoffice-fork-europe-answer-microsoft-office.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/hdds/wd-innovation-day-2026-press-q-and-a-transcript-roadmap-plans-to-reach-60tb-with-epmr-and-100tb-via-hamr-by-2029-at-some-point-the-laws-of-physics-will-require-us-to-transition-to-hamr)
 
 ---
 
-### 5. UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by 2027 laser downs 400mph high speed drones, costs $13 per shot 
+### 3. Creality Sermoon S1 Review: Accessible 3D Scanning 
 
-The UK Ministry of Defence confirms DragonFire laser installation on Royal Navy Type 45 destroyers by 2027, five years ahead of schedule. The DragonFire high-energy laser weapon can down 400mph high-speed drones at a cost of $13 per shot.
+The Creality Sermoon S1 offers improved 3D scanning capabilities at an accessible price. While not flawless, it's a step up from previous Creality scanners. However, users may still encounter some minor issues.
 
-💡 *Enhanced maritime defense capabilities against high-speed drone threats.*
+💡 *Accessible 3D scanning for hobbyists and makers at an affordable price.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027)
-
----
-
-### 6. Delisted Xbox 360 games briefly reappear on the Xbox Store Microsoft prepares backward compatibility revival 
-
-Delisted Xbox 360 games briefly reappear on Xbox Store, hinting at a backward compatibility revival. This move is seen as a response to Xbox Vice President Jason Ronald's commitment at GDC 2026. The revival aims to increase the availability of classic games on modern platforms.
-
-💡 *Microsoft restores nostalgic gaming options for loyal fan base*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/delisted-xbox-360-games-briefly-reappear-on-the-xbox-store)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/3d-scanning/creality-sermoon-s1-3d-scanner-review)
 
 ---
 
-### 7. $1,700 liquid-cooled phone can run GTA V at up to 100 FPS, Red Dead 2 at 50+ FPS via emulation Redmagic 11 Pro packs 24 GB of RAM and pulls more than 40W at peak load 
+### 4. Presenting the full class of Rising Stars 2026 honorees 
 
-The Redmagic 11 Pro offers powerful performance with liquid cooling, allowing it to run demanding games like GTA V at up to 100 FPS and Red Dead 2 at 50+ FPS via emulation. This is made possible by its 24 GB of RAM and robust cooling system. The phone's high price of $1,700 is justified by its gaming capabilities.
+Fierce Sensors Rising Stars 2026 honors 32 distinguished individuals in the field. They will be introduced at Sensors Converge 2026 in Santa Clara, CA, May 5-7. This recognition celebrates innovation and excellence.
 
-💡 *High-end gaming performance in a handheld device is now affordable*
+💡 *Recognizing innovation and excellence in the sensors and technology field.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/usd1-700-liquid-cooled-phone-can-run-gta-v-at-up-to-100-fps-red-dead-2-at-50-fps-via-emulation-redmagic-11-pro-packs-24-gb-of-ram-and-pulls-more-than-40w-at-peak-load)
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/presenting-full-class-rising-stars-2026-honorees)
+
+---
+
+### 5. World's largest battery maker is taking EV tech to the seas 
+
+The world's largest battery maker is expanding its electric technology to ships, equipping over 900 vessels with its batteries, mainly for coastal and port operations.
+
+💡 *Electrifying shipping reduces emissions and promotes sustainable maritime transportation*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111963-world-largest-battery-maker-taking-ev-tech-seas.html)
+
+---
+
+### 6. Florida school to deploy security drones designed to stop school shooters mid-attack 
+
+A Florida school is deploying security drones to stop school shooters mid-attack, backed by state funding. The technology, developed by Mithril, aims to enhance school safety through rapid response. Pilots will operate the drones from a central headquarters.
+
+💡 *Rapid intervention technology hopes to reduce school shooter fatalities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111961-florida-school-deploy-security-drones-designed-stop-school.html)
+
+---
+
+### 7. Artemis II sets record distance from Earth during Moon flyby 
+
+Artemis II has achieved a record distance from Earth during its Moon flyby. Communications will be lost for nearly an hour as the Orion spacecraft passes behind the Moon. This milestone marks a significant step in deep space exploration.
+
+💡 *Breaking distance records paves way for manned Mars missions*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/artemis-ii-reaches-record-distance-earth-during-moon-flyby)
 
 ---
 

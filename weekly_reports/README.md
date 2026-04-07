@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 06, 2026**
+**Week of April 07, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,76 +7,76 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. PlayStation 3 emulator makes Cell CPU 'breakthrough' that improves performance in all games 'All CPUs can benefit from this, from low-end to high-end!' says RPCS3 devs ⭐
+### 1. MSI MAG A1200PLS PCIE5 1200W power supply review: A competent 1200W unit, but pricey 
 
 **💻 Hardware**
 
-RPCS3 developers claim a breakthrough in emulating the PS3's Cell Broadband Engine processor, which improves performance in all games. This advancement has the potential to benefit all CPUs, from low-end to high-end. The open-source emulator is now able to run games more efficiently.
+The MSI MAG A1200PLS PCIE5 offers strong efficiency and build quality, but is marred by a high price and thermal weakness under heavy loads.
 
-💡 **Key Point:** Advancements in emulating the PS3's Cell CPU benefit all CPU types.
+💡 **Key Point:** High price and thermal weakness limit its long-term reliability potential.
 
-🔗 [Read More](https://www.tomshardware.com/video-games/playstation/rpcs3-ps3-emulator-gets-cell-cpu-breakthrough-that-improves-performance-in-all-games)
+🔗 [Read More](https://www.tomshardware.com/pc-components/power-supplies/msi-mag-a1200pls-pcie5-1200w-power-supply-review)
 
 ---
 
-### 2. $2 WeAct CH32V006F8U6 Mini Core board features CH32V006 RISC-V MCU, supports 3.3V or 5V I/O voltage ⭐
+### 2. NASA Artemis Watch 2.0 An ESP32-S3-powered, NASA-inspired wearable kit for education 
 
 **💻 Hardware**
 
-The WeAct CH32V006F8U6 Mini Core board is a tiny, inexpensive development board featuring the CH32V006 RISC-V microcontroller. It supports 3.3V or 5V I/O voltage and comes equipped with a USB-C port and two rows of 12-pin headers for I/O expansion.
+The NASA Artemis Watch 2.0 is a programmable, NASA-themed smartwatch based on ESP32-S3, featuring WiFi, Bluetooth, and various sensors.
 
-💡 **Key Point:** Inexpensive RISC-V boards expand MCU options for makers and developers
+💡 **Key Point:** Empowering educational hands-on learning experiences with cutting-edge, space-inspired technology.
 
-🔗 [Read More](https://www.cnx-software.com/2026/04/06/2-weact-ch32v006f8u6-mini-core-board-features-ch32v006-risc-v-mcu-supports-3-3v-or-5v-i-o-voltage/)
-
----
-
-### 3. Nvidia Pascal GPUs debuted 10 years ago today, best known for the GTX 1060 and GTX 1080 Ti architecture kicked off with the Tesla P100 ⭐
-
-**📰 Tech News**
-
-Nvidia's Tesla P100 launched 10 years ago, marking five architectural breakthroughs. The Nvidia Pascal GPUs, including the GTX 1060 and GTX 1080 Ti, followed suit. This launch paved the way for future Nvidia innovations.
-
-💡 **Key Point:** Nvidia's Pascal architecture revolutionized gaming and AI computing performance.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-pascal-gpus-debuted-10-years-ago-today-best-known-for-the-gtx-1060-and-gtx-1080-ti-architecture-kicked-off-with-the-tesla-p100)
+🔗 [Read More](https://www.cnx-software.com/2026/04/07/nasa-artemis-watch-2-0-an-esp32-s3-powered-nasa-inspired-wearable-kit-for-education/)
 
 ---
 
-### 4. PlayStation 3 emulator makes Cell CPU 'breakthrough' that improves performance in all games 'All CPUs can benefit from this, from low-end to high-end!' says RPCS3 devs ⭐
+### 3. AAEON Intelli TWL01 Edge fanless mini PC features up to Core 3 N355 Twin Lake CPU for kiosks and digital signage applications 
 
-**📰 Tech News**
+**💻 Hardware**
 
-RPCS3 developers claim a breakthrough in emulating the PS3's Cell Broadband Engine processor, which improves performance in all games. This advancement has the potential to benefit all CPUs, from low-end to high-end. The open-source emulator is now able to run games more efficiently.
+The AAEON Intelli TWL01 Edge is a fanless mini PC designed for kiosks and digital signage. It features up to a Core 3 N355 Twin Lake CPU, 16GB of RAM, and dual 4K display support. The device offers various connectivity options and mounting possibilities.
 
-💡 **Key Point:** Advancements in emulating the PS3's Cell CPU benefit all CPU types.
+💡 **Key Point:** Industrial-grade mini PC optimizes digital signage and kiosk deployments
 
-🔗 [Read More](https://www.tomshardware.com/video-games/playstation/rpcs3-ps3-emulator-gets-cell-cpu-breakthrough-that-improves-performance-in-all-games)
+🔗 [Read More](https://www.cnx-software.com/2026/04/06/aaeon-intelli-twl01-edge-fanless-mini-pc-features-up-to-core-3-n355-twin-lake-cpu-for-kiosks-and-digital-signage-applications/)
 
 ---
 
-### 5. Nvidia Pascal GPUs debuted 10 years ago today, best known for the GTX 1060 and GTX 1080 Ti architecture kicked off with the Tesla P100 ⭐
+### 4. AAEON Intelli TWL01 Edge fanless mini PC features up to Core 3 N355 Twin Lake CPU for kiosks and digital signage applications 
 
-**🎮 GPUs**
+**🤖 AI & ML**
 
-Nvidia's Tesla P100 launched 10 years ago, marking five architectural breakthroughs. The Nvidia Pascal GPUs, including the GTX 1060 and GTX 1080 Ti, followed suit. This launch paved the way for future Nvidia innovations.
+The AAEON Intelli TWL01 Edge is a fanless mini PC designed for kiosks and digital signage. It features up to a Core 3 N355 Twin Lake CPU, 16GB of RAM, and dual 4K display support. The device offers various connectivity options and mounting possibilities.
 
-💡 **Key Point:** Nvidia's Pascal architecture revolutionized gaming and AI computing performance.
+💡 **Key Point:** Industrial-grade mini PC optimizes digital signage and kiosk deployments
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-pascal-gpus-debuted-10-years-ago-today-best-known-for-the-gtx-1060-and-gtx-1080-ti-architecture-kicked-off-with-the-tesla-p100)
+🔗 [Read More](https://www.cnx-software.com/2026/04/06/aaeon-intelli-twl01-edge-fanless-mini-pc-features-up-to-core-3-n355-twin-lake-cpu-for-kiosks-and-digital-signage-applications/)
+
+---
+
+### 5. Iran threatens to "annihilate" Stargate AI data center backed by OpenAI and Nvidia 
+
+**🤖 AI & ML**
+
+Iran threatens retaliatory measures against US-backed IT facilities, including Stargate AI.
+
+💡 **Key Point:** US tech companies' foreign investment risks sparking global conflict escalation
+
+🔗 [Read More](https://www.techspot.com/news/111957-iran-threatens-openai-backed-stargate-ai-data-center.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **39 articles** across **5 focused categories**.
+We covered **43 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 11 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
+| 🤖 [AI & ML](ai_and_ml.md) | 18 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
 | 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
 
 ---
@@ -84,16 +84,16 @@ We covered **39 articles** across **5 focused categories**.
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 11 articles
+*Artificial Intelligence and Machine Learning* — 18 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 5 articles
+*Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 13 articles
+*Computing hardware and development boards* — 10 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 3 articles
+*Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
 *Industry news and product launches* — 7 articles
@@ -102,6 +102,6 @@ We covered **39 articles** across **5 focused categories**.
 
 ## 📅 About
 
-Generated 2026-04-06 at 09:52 by an autonomous AI curation system.
+Generated 2026-04-07 at 09:49 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

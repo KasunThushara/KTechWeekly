@@ -1,257 +1,315 @@
 [
   {
-    "title": "AMD's upcoming Ryzen 9 9950X3D2 listed around $1,000 at several retailers across Canada and the UK New flagship dual-cache CPU might demand a hefty premium",
-    "summary": "Listings for the 9950X3D2 have started to pop up at many different vendors, with some even listing preliminary prices. We found the CPU going for roughly $1,000 at two Canadian retailers, and just a smidge below that at a UK-based website. For context, the standard 9950X3D with 3D V-Cache on only one CCD launched at $699.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amds-upcoming-ryzen-9-9950x3d2-listed-around-usd1-000-at-several-retailers-across-canada-and-the-uk-new-flagship-dual-cache-cpu-might-demand-a-hefty-premium",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-06T09:51:15.933958"
-  },
-  {
-    "title": "UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by 2027 laser downs 400mph high speed drones, costs $13 per shot",
-    "summary": "The UK Ministry of Defence has confirmed that the DragonFire high-energy laser weapon will be installed on Royal Navy Type 45 destroyers by 2027, five years ahead of the original schedule.",
-    "link": "https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.934077"
-  },
-  {
-    "title": "Get a 27\" 1440p OLED monitor with a blazing-fast 240 Hz refresh rate for just $499 LG's 27GS93QE-B is $400 off right now, features 1,300 nits of peak HDR brightness",
-    "summary": "The LG 27GS93QE-B is perfect for gaming, productivity, and media consumption, thanks to its versatile feature set. It's a 27-inch 1440p OLED monitor with an MLA+ panel so it's really bright at 1,300 nits (peak) and it has a 240 Hz refresh rate with support for both G-Sync and FreeSync, so it's really smooth, too.",
-    "link": "https://www.tomshardware.com/pc-components/get-a-27-1440p-oled-monitor-with-a-blazing-fast-240-hz-refresh-rate-for-just-usd499-lgs-27gs93qe-b-is-usd400-off-right-now-features-1-300-nits-of-peak-hdr-brightness",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.934204"
-  },
-  {
-    "title": "Iran threatens complete and utter annihilation of OpenAI's $30B Stargate AI data center in Abu Dhabi regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center",
-    "summary": "IRGC spokesperson threatens the complete and utter annihilation of U.S. and Israeli facilities. Singles out the $30bn Stargate AI data center.",
-    "link": "https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.934320"
-  },
-  {
-    "title": "Researchers train living rat neurons to perform real-time AI computations experiments could pave the way for new brain-machine interfaces",
-    "summary": "Japanese researchers trained cultured rat cortical neurons to autonomously generate complex temporal signals using a real-time machine learning framework.",
-    "link": "https://www.tomshardware.com/tech-industry/researchers-train-living-rat-neurons-to-perform-real-time-ml-computations",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-06T09:51:15.934454"
-  },
-  {
-    "title": "Intel's upcoming Wildcat Lake low-budget CPUs leak out again OEM confirms specs for Core 7 350, Core 5 320, & Core 3 305 in first retail product datasheet",
-    "summary": "Wildcat Lake is Intel's upcoming family of low-budget and low-power CPUs intended for OEMs. We've already seen many leaks surrounding this family, but now a new product from Advantech has listed three SKUs in a datasheet for its MIO-5356 SBC. This confirms the specs from prior leaks and signals that a launch is due soon.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-wildcat-lake-low-budget-cpus-leak-out-again-oem-confirms-specs-for-core-7-350-core-5-320-and-core-3-305-in-first-retail-product-datasheet",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.934596"
-  },
-  {
-    "title": "Delisted Xbox 360 games briefly reappear on the Xbox Store Microsoft prepares backward compatibility revival",
-    "summary": "This follows Xbox Vice President Jason Ronald's commitment at GDC 2026 in March to revive the company's backward compatibility program.",
-    "link": "https://www.tomshardware.com/video-games/xbox/delisted-xbox-360-games-briefly-reappear-on-the-xbox-store",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.934699"
-  },
-  {
-    "title": "Steam starts gathering FPS data with latest client update company to estimate framerates based on your hardware, Beta feature to focus on SteamOS devices",
-    "summary": "The latest Steam client update included an FPS data gathering component in Beta, allowing the platform to monitor your framerates and compare it with your hardware.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/steam-starts-gathering-fps-data-with-latest-client-update-company-to-estimate-framerates-based-on-your-hardware-beta-feature-to-focus-on-steamos-devices",
+    "title": "Electronics enthusiast begins breadboard-based Intel 386 system build a large step up from their previous PC-XT and PC-AT breadboard projects",
+    "summary": "Motherboards, who needs them? Not Breadboarding Labs, which recently drafted plans for a retro Intel 80386 (i386) PC build using solderless breadboards.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/electronics-enthusiast-begins-breadboard-based-intel-386-system-build-a-large-step-up-from-their-previous-pc-xt-and-pc-at-breadboard-projects",
     "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.934809"
+    "processed_date": "2026-04-07T09:48:40.078530"
   },
   {
-    "title": "Autonomous ErgoChair Core Review: You get what you pay for",
-    "summary": "The Autonomous EroChair Core is an entry-level office chair that offers a few comfort features but is limited by its overall dimensions.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/autonomous-ergochair-core-review",
+    "title": "Amazon, Microsoft, and Google under investor pressure to disclose site-specific data center water and power consumption more than a dozen shareholders ask for transparency ahead of annual investor meetings",
+    "summary": "More than a dozen investors are pressuring Amazon, Microsoft, and Alphabet's Google to provide detailed data on water and energy consumption at their U.S. data centers.",
+    "link": "https://www.tomshardware.com/tech-industry/investors-push-amazon-microsoft-and-google-to-disclose-data-center-water-and-power-consumption",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.934909"
+    "processed_date": "2026-04-07T09:48:40.078662"
   },
   {
-    "title": "Nvidia Pascal GPUs debuted 10 years ago today, best known for the GTX 1060 and GTX 1080 Ti architecture kicked off with the Tesla P100",
-    "summary": "Nvidia delivered 'five architectural breakthroughs' with the launch of the Tesla P100 accelerator 10 years ago today.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-pascal-gpus-debuted-10-years-ago-today-best-known-for-the-gtx-1060-and-gtx-1080-ti-architecture-kicked-off-with-the-tesla-p100",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-06T09:51:15.935013"
-  },
-  {
-    "title": "BenQ DesignVue PD2770U 4K professional monitor review: A blend of flexibility, control, and precision",
-    "summary": "BenQ s DesignVue PD2770U is a flexible and capable professional monitor with a 27-inch IPS panel, 4K resolution, wide-gamut color, HDR10, a built-in calibrator, software control, and premium build quality.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/benq-designvue-pd2770u-27-inch-4k-professional-monitor-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-06T09:51:15.935123"
-  },
-  {
-    "title": "Hobbyist builds a homebrew Intel 8086 ISA accelerator card maker s project improves integer multiplication on these retro systems by 250%",
-    "summary": "Computer scientist showcases their hardware multiplication ISA card accelerator for Intel 8086 and Intel 8088 PC systems.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/hobbyist-builds-a-homebrew-intel-8086-isa-accelerator-card-makers-project-improves-integer-multiplication-on-these-retro-systems-by-250-percent",
+    "title": "Intel's OEM-only Bartlett Lake CPU modded to run on consumer Z790 motherboard beats AMD's Ryzen 9 9900X3D in Cinebench multi-core test Core 9 273QPE has 12 cores, 24 threads, and hits 5.4GHz",
+    "summary": "Bartlett Lake, Intel's P-core only family of CPUs intended for edge and industrial use cases has been modded to run on consumer Z790 motherboards. At the moment, the flagship Core 9 273QPE with 12 Raptor Cove P-cores is posting around 33,000 points in Cinbenech R23, which is around the Core i7-14700 mark.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intels-oem-only-bartlett-lake-cpu-modded-to-run-on-consumer-z790-motherboard-beats-amds-ryzen-9-9900x3d-in-cinebench-multi-core-test-core-9-273qpe-has-12-cores-24-threads-and-hits-5-4ghz",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.935229"
+    "processed_date": "2026-04-07T09:48:40.078795"
   },
   {
-    "title": "Intel's upcoming 42-core Nova Lake SKU allegedly upgraded to 44 cores New config frees up 6P+12E tiles that could trickle down as locked bLLC variants",
-    "summary": "A 42-core SKU from the upcoming Nova Lake-S CPU family has reportedly been upgraded to 44 cores by swapping the 6P+12E tile with an 8P+12E tile, allowing the chip to achieve symmetry across its dual-tile config. Those leftover 6P+12E tiles could now become locked variants with 144 MB of bLLC as a new 22-core SKU (6P+12E+4LPE).",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-42-core-nova-lake-sku-allegedly-upgraded-to-44-cores-new-config-frees-up-6p-12e-tiles-that-could-trickle-down-as-locked-bllc-variants",
+    "title": "US lawmakers aim to ban export of DUV chipmaking and etching tools to leading firms in China bipartisan proposal would ban lithography equipment for Huawei, SMIC, and others",
+    "summary": "Bipartisan group of U.S. senators propose to impose blanket ban on export of advanced DUV lithography and etching tools to Chinese companies known to have worked with China's military, such as CXMT, Huawei, SMIC, and YMTC.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/u-s-lawmakers-aim-to-ban-export-of-duv-chipmaking-and-etching-tools-to-leading-firms-in-china-bipartisan-proposal-would-ban-lithography-equipment-for-huawei-smic-and-others",
     "categories": [
-      "Hardware",
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.078921"
+  },
+  {
+    "title": "Why TSMC grew four times faster than its foundry rivals in 2025 price hikes, vertical integration, and commanding technology lead pay dividends",
+    "summary": "That lopsided split isn t a one-quarter anomaly or a function of a single product cycle, but instead reflects three massive advantages held by TSMC.",
+    "link": "https://www.tomshardware.com/tech-industry/why-tsmc-grew-four-times-faster-than-its-foundry-rivals-in-2025",
+    "categories": [
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.935348"
+    "processed_date": "2026-04-07T09:48:40.079033"
   },
   {
-    "title": "PlayStation 3 emulator makes Cell CPU 'breakthrough' that improves performance in all games 'All CPUs can benefit from this, from low-end to high-end!' says RPCS3 devs",
-    "summary": "Developers behind the open-source PlayStation 3 emulator RPCS3 claim that they ve achieved a breakthrough in emulating the PS3's Cell Broadband Engine processor.",
-    "link": "https://www.tomshardware.com/video-games/playstation/rpcs3-ps3-emulator-gets-cell-cpu-breakthrough-that-improves-performance-in-all-games",
+    "title": "MSI MAG A1200PLS PCIE5 1200W power supply review: A competent 1200W unit, but pricey",
+    "summary": "The MSI MAG A1200PLS PCIE5 delivers strong cold efficiency numbers and excellent build presentation, but a thermal weakness at high load, a questionable 80Plus Platinum claim, and a steep asking price temper an otherwise capable unit.",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/msi-mag-a1200pls-pcie5-1200w-power-supply-review",
     "categories": [
       "Hardware",
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-04-06T09:51:15.935493"
+    "quality_score": 10,
+    "processed_date": "2026-04-07T09:48:40.079158"
   },
   {
-    "title": "$1,700 liquid-cooled phone can run GTA V at up to 100 FPS, Red Dead 2 at 50+ FPS via emulation Redmagic 11 Pro packs 24 GB of RAM and pulls more than 40W at peak load",
-    "summary": "The Golden Saga Edition of the Redmagic 11 Pro is equipped with 24 GB of RAM and an even more robust liquid cooling system that can pull upwards of 45W while emulating Red Dead 2, delivering 50+ FPS. The phone costs around $1,700, but for that money, you're getting GTA V running at up to 100 FPS on a device that just happens to make calls, too.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/usd1-700-liquid-cooled-phone-can-run-gta-v-at-up-to-100-fps-red-dead-2-at-50-fps-via-emulation-redmagic-11-pro-packs-24-gb-of-ram-and-pulls-more-than-40w-at-peak-load",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.935610"
-  },
-  {
-    "title": "Apple approves drivers that let AMD and Nvidia eGPUs run on Mac software designed for AI, though, and not built for gaming",
-    "summary": "The company behind the tiny box AI accelerator says that its macOS driver for Nvidia eGPUs has just been signed by Apple, making it a legitimate software for Macs and no longer needs workarounds to work with the device.",
-    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/apple-approves-drivers-that-let-amd-and-nvidia-egpus-run-on-mac-software-designed-for-ai-though-and-not-built-for-gaming",
+    "title": "Get 32GB of Corsair Vengeance RAM for less than $200 when bundled with AMD's 9800X3D and X870-E motherboard free liquid cooler and a copy of Crimson Desert to kickstart a top AM5 gaming build",
+    "summary": "A high-end AM5 platform bundle that not only cuts costs but also includes a free 240mm AIO cooler and a bundled game.",
+    "link": "https://www.tomshardware.com/pc-components/grab-the-ryzen-7-9800x3d-32gb-of-ram-and-msi-x870e-bundle-and-get-free-240mm-aio-and-game-usd350-total-savings-on-combo-bundle",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.935720"
+    "processed_date": "2026-04-07T09:48:40.079276"
   },
   {
-    "title": "Player defeats Darks Souls II using only poop 42 hits of dung pie defeats the final boss",
-    "summary": "Gamer and YouTuber ymfah spent a lot of time figuring out how to farm dung pies in Dark Souls II to defeat the game using just poop.",
-    "link": "https://www.tomshardware.com/video-games/player-defeats-darks-souls-ii-using-only-poop-42-hits-of-dung-pie-defeats-the-final-boss",
+    "title": "Creality Sermoon S1 Review: Accessible 3D Scanning",
+    "summary": "Creality s scanner technology has gotten a lot better, but it's not perfect.",
+    "link": "https://www.tomshardware.com/3d-printing/3d-scanning/creality-sermoon-s1-3d-scanner-review",
     "categories": [
-      "Semiconductors"
+      "Hardware",
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.935818"
+    "processed_date": "2026-04-07T09:48:40.079392"
   },
   {
-    "title": "$2 WeAct CH32V006F8U6 Mini Core board features CH32V006 RISC-V MCU, supports 3.3V or 5V I/O voltage",
-    "summary": "WeAct CH32V006F8U6 Mini Core is an inexpensive, tiny development board based on the 48 MHz CH32V006 RISC-V microcontroller and equipped with a USB-C port, a Reset button, and two rows of 12-pin headers for I/Os using either 3.3V or 5V voltage. WCH introduced the CH32V006 in 2024 as an update to the popular CH32V003 with more memory (8KB vs 2KB SRAM), storage (62KB vs 8KB flash), additional GPIOs, a wider supply voltage range, and an upgraded 32-bit RISC-V2C core. I just hadn t seen any third-party CH32V006 boards so far. The WeAct Studio board changes that. WeAct CH32V006F8U6 Mini Core board specifications: SoC WCH CH32V006F8U6 CPU 32-bit RISC-V2C core up to 48 MHz Memory 8KB SRAM Storage 62KB flash + 3KB boot flash USB 1x USB Type-C port for power and debugging Expansion 2x 12-pin headers with GPIO, ADC, USART, I2C, SPI I/O Voltage 3.3V [...] The post $2 WeAct CH32V006F8U6 Mini Core board features CH32V006 RISC-V MCU, supports 3.3V or 5V I/O voltage appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/06/2-weact-ch32v006f8u6-mini-core-board-features-ch32v006-risc-v-mcu-supports-3-3v-or-5v-i-o-voltage/",
+    "title": "80 different Microsoft Copilot products have been mapped out by expert, but there may be more than 100 'What happens when you name everything Copilot,' an AI consultant mapped out the myriad products",
+    "summary": "An AI aficionado has put together a chart of all the Copilot products they could find. At the latest count there are 80.",
+    "link": "https://www.tomshardware.com/software/microsoft-office/at-least-80-different-microsoft-copilot-products-have-been-mapped-out-by-expert-but-there-may-be-more-than-100-microsoft-doesnt-have-a-singular-list-available-so-ai-consultant-mapped-out-the-myriad-products",
     "categories": [
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-06T09:51:15.936284"
-  },
-  {
-    "title": "Advantech MIO-5356 An industrial 3.5-inch SBC based on Intel Core Series 3 Wildcat Lake SoC",
-    "summary": "Advantech MIO-5356 is the very first hardware platform based on the upcoming Intel Core Series 3 (Core 300) Wildcat Lake SoC we ve seen. It s a 3.5-inch SBC designed for industrial applications and powered by up to the Intel Core 7 350 hexa-core processor. The fanless board supports up to 64GB DDR5 memory, NVMe SSD storage, up to three independent displays via USB-C, HDMI, and LVDS interface, 2.5GbE and GbE networking with TSN and OOB management, and WiFi, Bluetooth, and Cellular connectivity via M.2 sockets. It also features audio connectors, six USB interfaces, RS232/RS485 and CAN Bus interfaces, and more. Advantech MIO-5356 specifications: Wildcat Lake SoC (one or the other) Intel Core 3 305 hexa-core CPU with 2x P cores @ 1.5 GHz / 4.4 GHz (Turbo) and 4x LPE cores, 16x EU Intel graphics @ 2.3 GHz; TDP: 15W Intel Core 5 320 hexa-core CPU with 2x P cores @ [...] The post Advantech MIO-5356 An industrial 3.5-inch SBC based on Intel Core Series 3 Wildcat Lake SoC appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/06/advantech-mio-5356-an-industrial-3-5-inch-sbc-based-on-intel-core-series-3-wildcat-lake-soc/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-06T09:51:15.936470"
-  },
-  {
-    "title": "This Android phone can run Windows games locally, no PC required",
-    "summary": "In a recent video, creator ETA Prime showcases Red Magic's phone running multiple Windows games directly on Android. The device is powered by a Snapdragon 8 Elite Gen 5 SoC, paired with 24GB of LPDDR5T memory and 1TB of UFS 4.1 Pro storage. Read Entire Article",
-    "link": "https://www.techspot.com/news/111953-android-phone-can-run-windows-games-locally-no.html",
-    "categories": [
-      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.937745"
+    "processed_date": "2026-04-07T09:48:40.079507"
   },
   {
-    "title": "Nvidia shows neural compression can cut VRAM usage from 6.5GB to 970MB",
-    "summary": "Consider Nvidia's work on Neural Texture Compression (NTC). In its \"Tuscan Wheels\" demo, the company showed VRAM usage dropping from roughly 6.5GB with traditional BCN-compressed textures to 970MB using NTC, while keeping image quality close to the original. Read Entire Article",
-    "link": "https://www.techspot.com/news/111954-nvidia-shows-neural-compression-can-cut-vram-usage.html",
+    "title": "Linux devs start removing support for 37-year-old Intel 486 CPU head honcho Linus Torvalds says 'zero real reason' to continue support",
+    "summary": "Linux kernel developers appear to have started to dismantle support for the legendary Intel 486 CPU.",
+    "link": "https://www.tomshardware.com/software/linux/linux-devs-start-removing-support-for-37-year-old-intel-486-cpu-head-honcho-linus-torvalds-says-zero-real-reason-to-continue-support",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.079611"
+  },
+  {
+    "title": "WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 'at some point, the laws of physics will require us to transition to HAMR'",
+    "summary": "WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session right here.",
+    "link": "https://www.tomshardware.com/pc-components/hdds/wd-innovation-day-2026-press-q-and-a-transcript-roadmap-plans-to-reach-60tb-with-epmr-and-100tb-via-hamr-by-2029-at-some-point-the-laws-of-physics-will-require-us-to-transition-to-hamr",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-07T09:48:40.079727"
+  },
+  {
+    "title": "Nvidia's own DLSS 5 announcement video gets taken down by YouTube in Italy due to a copyright strike local TV channel sent a copyright strike to every YouTube video for using the trailer it used for its own broadcast",
+    "summary": "YouTube's AI moderator acted on an errant DMCA takedown, affecting nearly every video that contained clips of the DLSS 5 trailer, including Nvidia's own YouTube video.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-own-dlss-5-announcement-video-gets-taken-down-in-italy-by-copyright-strike-local-tv-channel-sent-a-copyright-strike-to-every-youtube-video-for-using-the-trailer-it-used-for-its-own-broadcast",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.937918"
+    "processed_date": "2026-04-07T09:48:40.079847"
   },
   {
-    "title": "A new OnlyOffice fork is Europe's answer to Microsoft Office",
-    "summary": "Developed by a consortium including Nextcloud, Ionos, and Proton, Euro-Office builds directly on the open-source OnlyOffice codebase. It offers a word processor, spreadsheet editor, presentation tool, and PDF editor, all supporting Microsoft formats (docx, pptx, xlsx) and open standards such as ODF. Its preview version is already available on GitHub,... Read Entire Article",
-    "link": "https://www.techspot.com/news/111952-new-onlyoffice-fork-europe-answer-microsoft-office.html",
+    "title": "NASA Artemis Watch 2.0 An ESP32-S3-powered, NASA-inspired wearable kit for education",
+    "summary": "CircuitMess NASA Artemis Watch 2.0 is a programmable, NASA-themed smartwatch based on an ESP32-S3 WiFi and Bluetooth module and a 1.14-inch monochrome display. The watch also features an accelerometer, a gyroscope, a buzzer, an RTC, a button, several LEDs, and a USB port for programming and charging the built-in 600 mAh battery. NASA Artemis Watch 2.0 specifications: Core module ESP32-S3-MINI-1-N4R2 SoC ESP32-S3 dual-core Xtensa LX7 processor with WiFi 4 and Bluetooth 5.0 connectivity Memory 2MB PSRAM Storage 4MB QSPI flash PCB antenna Display Built-in 1.44-inch display USB 1x USB Type-C port for charging and programming Sensors 6-axis LSM6DS3TR accelerometer and gyroscope Temperature sensor (TBC) Misc Lever button 6x user LEDs, 1x power LED, 1x RGB LED Buzzer RTC + backup battery Power Supply 5V via USB-C port 600 mAh LiPo battery, good for 2 to 3 hours on a charge Dimensions and Weight [...] The post NASA Artemis Watch 2.0 An ESP32-S3-powered, NASA-inspired wearable kit for education appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/07/nasa-artemis-watch-2-0-an-esp32-s3-powered-nasa-inspired-wearable-kit-for-education/",
     "categories": [
       "Hardware",
-      "Tech News"
+      "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-06T09:51:15.938100"
+    "processed_date": "2026-04-07T09:48:40.080409"
   },
   {
-    "title": "Sony quietly removes PC mentions from PlayStation Studios pages",
-    "summary": "On PlayStation Studios' official site, Sony has updated the main banner to prominently feature Ghost of Yotei and Intergalactic: The Heretic Prophet, while Demon's Souls Remake no longer appears in the lineup. Read Entire Article",
-    "link": "https://www.techspot.com/news/111950-sony-quietly-removes-pc-mentions-playstation-studios-pages.html",
+    "title": "AAEON Intelli TWL01 Edge fanless mini PC features up to Core 3 N355 Twin Lake CPU for kiosks and digital signage applications",
+    "summary": "AAEON Intelli TWL01 Edge is an industrial mini PC with dual 4K display support powered by an Alder Lake-N/Twin Lake processor up to the Intel Core 3 N355 CPU and designed for kiosks, video conferencing suites, video walls, and interactive billboards. The fanless computer ships with up to 16GB of RAM and 64GB of eMMC flash, offers M.2 sockets for NVMe storage and WiFi/Bluetooth connectivity, and features two Gigabit Ethernet ports, four USB 3.2 ports, an RS-232/422/485 COM port, and more. The company also provides DIN rail, wall, and VESA mounting options for the mini PC. AAEON Intelli TWL01 Edge specifications: Alder Lake-N/Twin Lake SoC (one or the other) Intel Processor N97 quad-core processor @ up to 3.6 GHz (Turbo) with 6 MB cache, 24EU Intel UHD Graphics @ 1.2 GHz; TDP: 12W Intel Processor N150 quad-core processor @ up to 3.6 GHz (Turbo) with 6MB cache, 24EU Intel UHD [...] The post AAEON Intelli TWL01 Edge fanless mini PC features up to Core 3 N355 Twin Lake CPU for kiosks and digital signage applications appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/06/aaeon-intelli-twl01-edge-fanless-mini-pc-features-up-to-core-3-n355-twin-lake-cpu-for-kiosks-and-digital-signage-applications/",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.938266"
+    "quality_score": 10,
+    "processed_date": "2026-04-07T09:48:40.080590"
   },
   {
-    "title": "Italian court says Netflix must refund customers up to $576 over price hikes",
-    "summary": "An injunction action brought by consumer group Movimento Consumatori against Netflix Italia's price increases has been upheld by the Court of Rome. Read Entire Article",
-    "link": "https://www.techspot.com/news/111955-italian-court-netflix-must-refund-customers-up-576.html",
+    "title": "Artemis II sets record distance from Earth during Moon flyby",
+    "summary": "Communications will be lost for nearly an hour as the Orion spacecraft passes behind the Moon.",
+    "link": "https://www.fiercesensors.com/sensors/artemis-ii-reaches-record-distance-earth-during-moon-flyby",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-07T09:48:40.081482"
+  },
+  {
+    "title": "Presenting the full class of Rising Stars 2026 honorees",
+    "summary": "Presenting 32 distinguished individuals chosen for Fierce Sensors Rising Stars 2026 honors. They will be introduced at Sensors Converge 2026 in Santa Clara, CA, May 5-7.",
+    "link": "https://www.fiercesensors.com/ai/presenting-full-class-rising-stars-2026-honorees",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.081607"
+  },
+  {
+    "title": "AI is now taking over game servers, and Stormgate is the first casualty",
+    "summary": "Stormgate, a free-to-play, StarCraft-style RTS developed by Frost Giant Studios, relies on a third-party \"game server orchestration partner\" to run its online modes. Frost Giant told players on Discord that the provider had been acquired by an AI company, forcing a planned outage that will take Stormgate's multiplayer modes offline... Read Entire Article",
+    "link": "https://www.techspot.com/news/111969-stormgate-servers-go-dark-following-ai-focused-hosting.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.082007"
+  },
+  {
+    "title": "Russia's attempt to block VPNs is causing widespread banking outages",
+    "summary": "According to Telegram CEO Pavel Durov, the Kremlin's increasing efforts to control and censor the global internet are causing widespread problems for Russian users. The Russian-born entrepreneur confirmed that Telegram is now banned in the country, yet more than 50 million Russians continue to use it daily via VPNs. Read Entire Article",
+    "link": "https://www.techspot.com/news/111968-russia-efforts-block-vpns-cause-widespread-banking-glitches.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-06T09:51:15.938451"
+    "processed_date": "2026-04-07T09:48:40.082183"
+  },
+  {
+    "title": "Microsoft now has 80 different \"Copilot\" products, and counting",
+    "summary": "That figure comes from Tey Bannerman, an AI strategy and design consultant, who undertook the challenging but rewarding task of counting all the Copilot products now embedded across Microsoft's ecosystem. He explained that he decided to do this after trying to describe Copilot to someone and realizing he... Read Entire Article",
+    "link": "https://www.techspot.com/news/111967-someone-tallied-all-microsoft-copilot-products-there-80.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.082357"
+  },
+  {
+    "title": "Windows 11 will be force-updated to version 25H2 using machine learning",
+    "summary": "According to Microsoft's latest timeline, Windows 11 25H2 will soon be rolled out to all devices running the Home and Pro editions of Windows 11 24H2. The latter is set to reach the end of official support on October 13, 2026, and Redmond is clearly aiming to move as many... Read Entire Article",
+    "link": "https://www.techspot.com/news/111964-microsoft-going-force-update-windows-11-version-25h2.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.082562"
+  },
+  {
+    "title": "Netflix's Void AI can remove objects from video and show how scenes evolve without them",
+    "summary": "Short for Video Object and Interaction Deletion, the model can effectively delete an object from a scene and adjust for its absence. Read Entire Article",
+    "link": "https://www.techspot.com/news/111966-netflix-void-ai-model-removes-objects-videos-predicts.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.082722"
+  },
+  {
+    "title": "World's largest battery maker is taking EV tech to the seas",
+    "summary": "The company, which commands 37% of the global electric vehicle battery market and 22% of the energy storage segment, has already equipped roughly 900 ships with its batteries. Most of these are small, nearshore vessels that operate along China's coastlines, at ports, or on inland waterways. Read Entire Article",
+    "link": "https://www.techspot.com/news/111963-world-largest-battery-maker-taking-ev-tech-seas.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.082888"
+  },
+  {
+    "title": "Samsung may add a \"Pro\" model to Galaxy S lineup, matching Apple's strategy",
+    "summary": "Citing unnamed industry sources, South Korean outlet ETNews reports that the Pro model would slot between the Plus and the Ultra in the upcoming S27 series, effectively becoming the second-most premium option. It is expected to inherit much of the Ultra's feature set, including Samsung's new Privacy Display technology, which... Read Entire Article",
+    "link": "https://www.techspot.com/news/111965-samsung-may-add-pro-model-galaxy-s-lineup.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.083068"
+  },
+  {
+    "title": "Target puts customers on the hook for AI shopping assistant errors",
+    "summary": "Target is one of many retailers jumping on the AI bandwagon by introducing an assistant that can suggest products and complete purchases for customers. The pitch is convenience: less browsing, fewer clicks, and an easier way to fill a cart. The risk is that shoppers may end up handing over... Read Entire Article",
+    "link": "https://www.techspot.com/news/111962-target-puts-customers-hook-ai-shopping-assistant-errors.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.083237"
+  },
+  {
+    "title": "New 3D-printed microrobot mimics worm-like motion at microscopic scale",
+    "summary": "In a recently published study, the Dutch team describes an unexpected behavior observed in a 3D-printed microstructure. The \"robot\" consists of a flexible chain of self-propelling elements, each smaller than the width of a human hair. When exposed to an electric field, the structure begins to move on its own,... Read Entire Article",
+    "link": "https://www.techspot.com/news/111956-new-3d-printed-microrobot-mimics-worm-like-motion.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.083432"
+  },
+  {
+    "title": "Florida school to deploy security drones designed to stop school shooters mid-attack",
+    "summary": "The deployment marks a new test of drone-based security technology in US schools. Backed by more than $500,000 in state funding, Florida and Georgia are rolling out Mithril's technology as part of broader school safety initiatives. The goal, company executives say, is speed. Pilots operating from Mithril's Austin headquarters could... Read Entire Article",
+    "link": "https://www.techspot.com/news/111961-florida-school-deploy-security-drones-designed-stop-school.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.083616"
+  },
+  {
+    "title": "Samsung Messages is officially on the way out, pushing users to Google Messages",
+    "summary": "The confirmation comes from an End-of-Service notice on Samsung's US website, which says the app will be discontinued in July 2026. It advises users to move to Google Messages to maintain a consistent Android messaging experience. Read Entire Article",
+    "link": "https://www.techspot.com/news/111960-samsung-shutting-down-samsung-messages-pushing-users-google.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.083786"
+  },
+  {
+    "title": "Japan's Rapidus ramps up 2nm chip plans while eyeing factories on the Moon",
+    "summary": "Rapidus' first plant, IIM-1 in Chitose, Hokkaido, has shifted from a construction site to a pilot line. In mid-2025, the company had activated the cleanroom, installed extreme ultraviolet tools, and began running test wafers through a two-nanometer gate-all-around process developed with IBM. Read Entire Article",
+    "link": "https://www.techspot.com/news/111959-japan-rapidus-ramps-up-2-nm-chip-plans.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.083959"
+  },
+  {
+    "title": "Iran threatens to \"annihilate\" Stargate AI data center backed by OpenAI and Nvidia",
+    "summary": "The IRGC released a video vowing retaliatory measures should the US attack its power facilities. Spokesperson Brigadier General Ebrahim Zolfaghari said the actions would entail \"complete and utter annihilation\" of power plants, energy infrastructure, and IT and communications facilities belonging to Israel and to companies with American shareholders. Read Entire Article",
+    "link": "https://www.techspot.com/news/111957-iran-threatens-openai-backed-stargate-ai-data-center.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-07T09:48:40.084142"
+  },
+  {
+    "title": "Banks chasing SpaceX IPO were told by Elon Musk to buy Grok subscriptions",
+    "summary": "Four people familiar with the matter told The New York Times that Musk is requiring banks, law firms, auditors, and other advisers on the IPO to buy subscriptions to Grok. Some of the banks have agreed to spend tens of millions of dollars on the AI and have begun integrating... Read Entire Article",
+    "link": "https://www.techspot.com/news/111958-banks-chasing-spacex-ipo-told-elon-musk-buy.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-07T09:48:40.084307"
   }
 ]
