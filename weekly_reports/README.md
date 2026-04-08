@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 07, 2026**
+**Week of April 08, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. MSI MAG A1200PLS PCIE5 1200W power supply review: A competent 1200W unit, but pricey 
-
-**💻 Hardware**
-
-The MSI MAG A1200PLS PCIE5 offers strong efficiency and build quality, but is marred by a high price and thermal weakness under heavy loads.
-
-💡 **Key Point:** High price and thermal weakness limit its long-term reliability potential.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/power-supplies/msi-mag-a1200pls-pcie5-1200w-power-supply-review)
-
----
-
-### 2. NASA Artemis Watch 2.0 An ESP32-S3-powered, NASA-inspired wearable kit for education 
-
-**💻 Hardware**
-
-The NASA Artemis Watch 2.0 is a programmable, NASA-themed smartwatch based on ESP32-S3, featuring WiFi, Bluetooth, and various sensors.
-
-💡 **Key Point:** Empowering educational hands-on learning experiences with cutting-edge, space-inspired technology.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/07/nasa-artemis-watch-2-0-an-esp32-s3-powered-nasa-inspired-wearable-kit-for-education/)
-
----
-
-### 3. AAEON Intelli TWL01 Edge fanless mini PC features up to Core 3 N355 Twin Lake CPU for kiosks and digital signage applications 
-
-**💻 Hardware**
-
-The AAEON Intelli TWL01 Edge is a fanless mini PC designed for kiosks and digital signage. It features up to a Core 3 N355 Twin Lake CPU, 16GB of RAM, and dual 4K display support. The device offers various connectivity options and mounting possibilities.
-
-💡 **Key Point:** Industrial-grade mini PC optimizes digital signage and kiosk deployments
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/06/aaeon-intelli-twl01-edge-fanless-mini-pc-features-up-to-core-3-n355-twin-lake-cpu-for-kiosks-and-digital-signage-applications/)
-
----
-
-### 4. AAEON Intelli TWL01 Edge fanless mini PC features up to Core 3 N355 Twin Lake CPU for kiosks and digital signage applications 
+### 1. Intel introduces its own Neural Compression technology with a fallback mode that works on GPUs without dedicated AI cores early performance is on the level of Nvidia NTC 
 
 **🤖 AI & ML**
 
-The AAEON Intelli TWL01 Edge is a fanless mini PC designed for kiosks and digital signage. It features up to a Core 3 N355 Twin Lake CPU, 16GB of RAM, and dual 4K display support. The device offers various connectivity options and mounting possibilities.
+Intel introduces Neural Compression technology with fallback mode for non-XMX GPUs, matching Nvidia's performance.
 
-💡 **Key Point:** Industrial-grade mini PC optimizes digital signage and kiosk deployments
+💡 **Key Point:** Increased accessibility of AI-enhanced compression for a wider range of hardware.
 
-🔗 [Read More](https://www.cnx-software.com/2026/04/06/aaeon-intelli-twl01-edge-fanless-mini-pc-features-up-to-core-3-n355-twin-lake-cpu-for-kiosks-and-digital-signage-applications/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/intel-introduces-its-own-neural-compression-technology-with-a-fallback-mode-that-works-on-gpus-without-dedicated-ai-cores-early-performance-is-on-the-level-of-nvidia-ntc)
 
 ---
 
-### 5. Iran threatens to "annihilate" Stargate AI data center backed by OpenAI and Nvidia 
+### 2. Anthropic's latest AI model identifies 'thousands of zero-day vulnerabilities' in 'every major operating system and every major web browser' Claude Mythos Preview sparks race to fix critical bugs, some unpatched for decades 
 
 **🤖 AI & ML**
 
-Iran threatens retaliatory measures against US-backed IT facilities, including Stargate AI.
+Anthropic's AI model, Claude Mythos Preview, has identified thousands of unpatched software vulnerabilities in major operating systems and web browsers, prompting a race to fix critical bugs.
 
-💡 **Key Point:** US tech companies' foreign investment risks sparking global conflict escalation
+💡 **Key Point:** Thousands of unpatched vulnerabilities pose a massive security risk.
 
-🔗 [Read More](https://www.techspot.com/news/111957-iran-threatens-openai-backed-stargate-ai-data-center.html)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-latest-ai-model-identifies-thousands-of-zero-day-vulnerabilities-in-every-major-operating-system-and-every-major-web-browser-claude-mythos-preview-sparks-race-to-fix-critical-bugs-some-unpatched-for-decades)
+
+---
+
+### 3. wolfIP An open-source, lightweight TCP/IP stack with no dynamic memory allocations for embedded systems 
+
+**🤖 AI & ML**
+
+wolfIP is an open-source, lightweight TCP/IP stack for embedded systems with no dynamic memory allocations, supporting endpoint-only mode and multi-interface support with optional IP forwarding.
+
+💡 **Key Point:** Optimized memory management for resource-constrained embedded systems applications.
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/07/wolfip-an-open-source-lightweight-tcp-ip-stack-with-no-dynamic-memory-allocations-for-embedded-systems/)
+
+---
+
+### 4. Java 26 arrives with performance gains, security upgrades 
+
+**🤖 AI & ML**
+
+Java 26 has arrived with performance gains, security upgrades, and language features.
+
+💡 **Key Point:** Java continues to deliver steady, meaningful improvements to developers.
+
+🔗 [Read More](https://www.techspot.com/downloads/7857-java-26.html)
+
+---
+
+### 5. Intel isn't done with Raptor Lake, will keep 14th-gen chips in production 
+
+**🤖 AI & ML**
+
+Intel's Raptor Lake chips will remain in production alongside newer models.
+
+💡 **Key Point:** Raptor Lake's continued production ensures backward compatibility and cost savings.
+
+🔗 [Read More](https://www.techspot.com/news/111972-intel-confirms-14th-gen-raptor-lake-cpus-lga1700.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **43 articles** across **5 focused categories**.
+We covered **49 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 18 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 🤖 [AI & ML](ai_and_ml.md) | 13 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
 | 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
+| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 12 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 18 articles
+*Artificial Intelligence and Machine Learning* — 13 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 4 articles
+*Graphics cards and compute accelerators* — 7 articles
 
 ### 💻 [Hardware](hardware.md)
 *Computing hardware and development boards* — 10 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 4 articles
+*Chip manufacturing and design* — 7 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 7 articles
+*Industry news and product launches* — 12 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-04-07 at 09:49 by an autonomous AI curation system.
+Generated 2026-04-08 at 09:50 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

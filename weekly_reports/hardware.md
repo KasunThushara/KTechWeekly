@@ -1,5 +1,5 @@
 # 💻 Hardware
-**Week of April 07, 2026**
+**Week of April 08, 2026**
 
 *Computing hardware and development boards*
 
@@ -7,109 +7,109 @@
 
 ## 📊 Summary
 - **Articles this week:** 10
-- **Report generated:** 2026-04-07 09:49
+- **Report generated:** 2026-04-08 09:50
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. MSI MAG A1200PLS PCIE5 1200W power supply review: A competent 1200W unit, but pricey 
+### 1. Anthropic's latest AI model identifies 'thousands of zero-day vulnerabilities' in 'every major operating system and every major web browser' Claude Mythos Preview sparks race to fix critical bugs, some unpatched for decades 
 
-The MSI MAG A1200PLS PCIE5 offers strong efficiency and build quality, but is marred by a high price and thermal weakness under heavy loads.
+Anthropic's AI model, Claude Mythos Preview, has identified thousands of unpatched software vulnerabilities in major operating systems and web browsers, prompting a race to fix critical bugs.
 
-💡 *High price and thermal weakness limit its long-term reliability potential.*
+💡 *Thousands of unpatched vulnerabilities pose a massive security risk.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/msi-mag-a1200pls-pcie5-1200w-power-supply-review)
-
----
-
-### 2. NASA Artemis Watch 2.0 An ESP32-S3-powered, NASA-inspired wearable kit for education 
-
-The NASA Artemis Watch 2.0 is a programmable, NASA-themed smartwatch based on ESP32-S3, featuring WiFi, Bluetooth, and various sensors.
-
-💡 *Empowering educational hands-on learning experiences with cutting-edge, space-inspired technology.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/07/nasa-artemis-watch-2-0-an-esp32-s3-powered-nasa-inspired-wearable-kit-for-education/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-latest-ai-model-identifies-thousands-of-zero-day-vulnerabilities-in-every-major-operating-system-and-every-major-web-browser-claude-mythos-preview-sparks-race-to-fix-critical-bugs-some-unpatched-for-decades)
 
 ---
 
-### 3. AAEON Intelli TWL01 Edge fanless mini PC features up to Core 3 N355 Twin Lake CPU for kiosks and digital signage applications 
+### 2. Asus Zenbook A16 review: Snapdragon X2 Elite Extreme is a strong chip in a so-so package 
 
-The AAEON Intelli TWL01 Edge is a fanless mini PC designed for kiosks and digital signage. It features up to a Core 3 N355 Twin Lake CPU, 16GB of RAM, and dual 4K display support. The device offers various connectivity options and mounting possibilities.
+The Asus Zenbook A16 features Qualcomm's Snapdragon X2 Elite Extreme chip, but is compromised by subpar build quality and battery life.
 
-💡 *Industrial-grade mini PC optimizes digital signage and kiosk deployments*
+💡 *Snapdragon X2 Elite Extreme offers strong performance despite package flaws.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/06/aaeon-intelli-twl01-edge-fanless-mini-pc-features-up-to-core-3-n355-twin-lake-cpu-for-kiosks-and-digital-signage-applications/)
-
----
-
-### 4. Electronics enthusiast begins breadboard-based Intel 386 system build a large step up from their previous PC-XT and PC-AT breadboard projects 
-
-Breadboarding Labs is crafting a retro Intel 386 PC build on solderless breadboards, marking a significant upgrade from previous PC-XT and PC-AT projects.
-
-💡 *Pushing microprocessor boundaries with innovative breadboarding techniques*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/electronics-enthusiast-begins-breadboard-based-intel-386-system-build-a-large-step-up-from-their-previous-pc-xt-and-pc-at-breadboard-projects)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/asus-zenbook-a16-snapdragon-x2-elite-review)
 
 ---
 
-### 5. Intel's OEM-only Bartlett Lake CPU modded to run on consumer Z790 motherboard beats AMD's Ryzen 9 9900X3D in Cinebench multi-core test Core 9 273QPE has 12 cores, 24 threads, and hits 5.4GHz 
+### 3. ASUS Zenbook A16 A $1699 Qualcomm Snapdragon X2 Elite Extreme CoPilot+ laptop 
 
-A modded Intel Bartlett Lake CPU outperforms AMD's Ryzen 9 9900X3D in Cinebench multi-core test, achieving around 33,000 points on a Z790 motherboard. This modified CPU boasts 12 Raptor Cove P-cores and reaches a 5.4GHz frequency. The results are comparable to the Core i7-14700.
+The ASUS Zenbook A16 features a 16-inch 3K OLED touchscreen, 18-core Armv9 SoC, and up to 48GB of RAM, available for $1,699.
 
-💡 *Intel's modified P-core CPU beats AMD in multi-core performance unexpectedly*
+💡 *Qualcomm Snapdragon X2 Elite Extreme boosts Arm-based laptops' performance and versatility*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-oem-only-bartlett-lake-cpu-modded-to-run-on-consumer-z790-motherboard-beats-amds-ryzen-9-9900x3d-in-cinebench-multi-core-test-core-9-273qpe-has-12-cores-24-threads-and-hits-5-4ghz)
-
----
-
-### 6. Creality Sermoon S1 Review: Accessible 3D Scanning 
-
-The Creality Sermoon S1 offers improved 3D scanning capabilities at an accessible price. While not flawless, it's a step up from previous Creality scanners. However, users may still encounter some minor issues.
-
-💡 *Accessible 3D scanning for hobbyists and makers at an affordable price.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/3d-scanning/creality-sermoon-s1-3d-scanner-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/08/asus-zenbook-a16-a-1699-qualcomm-snapdragon-x2-elite-extreme-copilot-laptop/)
 
 ---
 
-### 7. Linux devs start removing support for 37-year-old Intel 486 CPU head honcho Linus Torvalds says 'zero real reason' to continue support 
+### 4. GL.iNet Comet 5G A KVM over IP solution with 5G RedCap cellular connectivity, 3.69-inch touchscreen display 
 
-Linux kernel developers have started to remove support for the Intel 486 CPU, citing a lack of relevance. Linus Torvalds stated that there's 'zero real reason' to continue supporting the 37-year-old processor. This move reflects the evolving nature of computing technology.
+GL.iNet Comet 5G is a KVM over IP solution featuring 5G RedCap connectivity, a 3.69-inch touchscreen display, and support for HDMI input and output ports. It offers remote access, built on top of WiFi 6 and Gigabit Ethernet, and is designed for use when regular internet connections are unavailable. The device has a larger design than its predecessor, the GL.iNet Comet Pro.
 
-💡 *Legacy support no longer aligns with modern computing requirements.*
+💡 *Enhanced remote access during connectivity disruptions with 5G support.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linux-devs-start-removing-support-for-37-year-old-intel-486-cpu-head-honcho-linus-torvalds-says-zero-real-reason-to-continue-support)
-
----
-
-### 8. AI is now taking over game servers, and Stormgate is the first casualty 
-
-Stormgate's multiplayer modes are going offline due to a game server outage. The outage is caused by Frost Giant's third-party provider being acquired by an AI company. Players will experience a planned outage.
-
-💡 *AI's growing influence threatens game server security and stability.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111969-stormgate-servers-go-dark-following-ai-focused-hosting.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/08/gl-inet-comet-5g-a-kvm-over-ip-solution-with-5g-redcap-cellular-connectivity-3-69-inch-touchscreen-display/)
 
 ---
 
-### 9. Microsoft now has 80 different "Copilot" products, and counting 
+### 5. AMD EPYC Embedded 8004 eATX motherboard supports up to 576GB DDR5 memory for Edge AI applications 
 
-Microsoft has 80 'Copilot' products, as counted by consultant Tey Bannerman, across its ecosystem.
+The IBASE MBB1002 eATX motherboard supports AMD EPYC Embedded 8004 series processors, up to 576GB DDR5-4800 memory, and features five PCIe Gen5 x16 slots for edge AI applications.
 
-💡 *Microsoft's extensive Copilot offerings demonstrate AI's widespread integration in its services.*
+💡 *High-capacity memory supports demanding AI computations in edge computing environments.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111967-someone-tallied-all-microsoft-copilot-products-there-80.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/08/amd-epyc-embedded-8004-eatx-motherboard-supports-up-to-576gb-ddr5-memory-for-edge-ai-applications/)
 
 ---
 
-### 10. Samsung may add a "Pro" model to Galaxy S lineup, matching Apple's strategy 
+### 6. SN1 Solar Node An ESP32-C3-based board with IP67 enclosure, solar charging, ESPHome firmware 
 
-Samsung may introduce a 'Pro' model to its Galaxy S lineup, slotting between the Plus and Ultra, inheriting Ultra's features.
+The SN1 Solar Node is an ESP32-C3-based IoT board with IP67 enclosure, solar charging, and prototyping areas for custom circuitry. It features a smart power switch, battery voltage monitoring, and GPIO breaks for easy access. This board is ideal for off-grid IoT projects.
 
-💡 *Samsung matches Apple's strategy with a new premium phone tier.*
+💡 *Enables custom design and flexibility for off-grid IoT projects.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111965-samsung-may-add-pro-model-galaxy-s-lineup.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/07/sn1-solar-node-an-esp32-c3-based-board-with-ip67-enclosure-solar-charging-esphome-firmware/)
+
+---
+
+### 7. wolfIP An open-source, lightweight TCP/IP stack with no dynamic memory allocations for embedded systems 
+
+wolfIP is an open-source, lightweight TCP/IP stack for embedded systems with no dynamic memory allocations, supporting endpoint-only mode and multi-interface support with optional IP forwarding.
+
+💡 *Optimized memory management for resource-constrained embedded systems applications.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/07/wolfip-an-open-source-lightweight-tcp-ip-stack-with-no-dynamic-memory-allocations-for-embedded-systems/)
+
+---
+
+### 8. Google adds search to Play Store reviews to improve app discovery 
+
+Google has rolled out a new feature in the Play Store update, enabling search within reviews to improve app discovery.
+
+💡 *Enhanced discoverability for apps through review-based search functionality.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111979-google-adds-search-play-store-reviews-improve-app.html)
+
+---
+
+### 9. Corsair's Strix Halo AI Workstation 300 gets even more expensive amid the RAMpocalypse Ryzen AI Max 395+ flagship now sits at $3,399 
+
+Corsair has quietly increased prices on its AI Workstation 300 mini PCs, with the top-end Ryzen AI Max+ 395 model now costing $3,399, a $400 increase.
+
+💡 *Rising RAM costs fuel a price hike in AI Workstation PCs.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/corsairs-strix-halo-ai-workstation-300-gets-even-more-expensive-amid-the-rampocalypse-ryzen-ai-max-395-flagship-now-sits-at-usd3-399)
+
+---
+
+### 10. Snag this 1440p iBuyPower gaming PC with a 7800X3D and RTX 5070 for just $2,049 right now 32GB of fast DDR5 RAM and a 2TB SSD round off powerhouse specs, with an extra $200 off this custom-built AMD rig 
+
+Save $200 on a high-performance AMD gaming PC with a Ryzen 7 7800X3D and RTX 5070.
+
+💡 *Powerful gaming PC at a discounted price point.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/snag-this-1440p-ibuypower-gaming-pc-with-a-7800x3d-and-rtx-5070-for-just-usd2-049-right-now-32gb-of-fast-ddr5-ram-and-a-2tb-ssd-round-off-powerhouse-specs-with-an-extra-usd200-off-this-custom-built-amd-rig)
 
 ---
 
