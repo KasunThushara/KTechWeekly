@@ -1,115 +1,175 @@
 # 💻 Hardware
-**Week of April 08, 2026**
+**Week of April 09, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-04-08 09:50
+- **Articles this week:** 16
+- **Report generated:** 2026-04-09 09:56
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Anthropic's latest AI model identifies 'thousands of zero-day vulnerabilities' in 'every major operating system and every major web browser' Claude Mythos Preview sparks race to fix critical bugs, some unpatched for decades 
+### 1. Asus ROG Xbox Ally review: The cheapest Windows handheld gets points for showing up ⭐
 
-Anthropic's AI model, Claude Mythos Preview, has identified thousands of unpatched software vulnerabilities in major operating systems and web browsers, prompting a race to fix critical bugs.
+The Asus ROG Xbox Ally is the cheapest Windows handheld, but it's held back by technical issues and a mediocre processor, making it less competitive than the Steam Deck OLED.
 
-💡 *Thousands of unpatched vulnerabilities pose a massive security risk.*
+💡 *Affordability comes at the cost of performance and features.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-latest-ai-model-identifies-thousands-of-zero-day-vulnerabilities-in-every-major-operating-system-and-every-major-web-browser-claude-mythos-preview-sparks-race-to-fix-critical-bugs-some-unpatched-for-decades)
-
----
-
-### 2. Asus Zenbook A16 review: Snapdragon X2 Elite Extreme is a strong chip in a so-so package 
-
-The Asus Zenbook A16 features Qualcomm's Snapdragon X2 Elite Extreme chip, but is compromised by subpar build quality and battery life.
-
-💡 *Snapdragon X2 Elite Extreme offers strong performance despite package flaws.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/asus-zenbook-a16-snapdragon-x2-elite-review)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-ryzen-z2-a-review)
 
 ---
 
-### 3. ASUS Zenbook A16 A $1699 Qualcomm Snapdragon X2 Elite Extreme CoPilot+ laptop 
+### 2. be quiet! Pure Power 13 M 1200W supply review: Platinum-level efficiency, premium pricing 
 
-The ASUS Zenbook A16 features a 16-inch 3K OLED touchscreen, 18-core Armv9 SoC, and up to 48GB of RAM, available for $1,699.
+The Be Quiet! Pure Power 13 M 1200W offers exceptional build quality, Platinum-level efficiency, and a comprehensive 10-year warranty, but its premium pricing and limited connectivity are notable drawbacks.
 
-💡 *Qualcomm Snapdragon X2 Elite Extreme boosts Arm-based laptops' performance and versatility*
+💡 *High-end power supply with premium features at a high price point.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/08/asus-zenbook-a16-a-1699-qualcomm-snapdragon-x2-elite-extreme-copilot-laptop/)
-
----
-
-### 4. GL.iNet Comet 5G A KVM over IP solution with 5G RedCap cellular connectivity, 3.69-inch touchscreen display 
-
-GL.iNet Comet 5G is a KVM over IP solution featuring 5G RedCap connectivity, a 3.69-inch touchscreen display, and support for HDMI input and output ports. It offers remote access, built on top of WiFi 6 and Gigabit Ethernet, and is designed for use when regular internet connections are unavailable. The device has a larger design than its predecessor, the GL.iNet Comet Pro.
-
-💡 *Enhanced remote access during connectivity disruptions with 5G support.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/08/gl-inet-comet-5g-a-kvm-over-ip-solution-with-5g-redcap-cellular-connectivity-3-69-inch-touchscreen-display/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/be-quiet-pure-power-13-m-1200w-supply-review-platinum-level-efficiency-premium-pricing)
 
 ---
 
-### 5. AMD EPYC Embedded 8004 eATX motherboard supports up to 576GB DDR5 memory for Edge AI applications 
+### 3. Sipeed T256s A USB thermal camera with 256 192 LWIR sensor, 640 480 AI super resolution 
 
-The IBASE MBB1002 eATX motherboard supports AMD EPYC Embedded 8004 series processors, up to 576GB DDR5-4800 memory, and features five PCIe Gen5 x16 slots for edge AI applications.
+The Sipeed T256s is a portable USB thermal camera with a 256x192 LWIR sensor and AI-powered super-resolution up to 640x480 resolution. It features a 1.69-inch touchscreen, macro lens, internal storage, and durable CNC aluminum enclosure for efficient heat dissipation. It is designed for electronics R&D, industrial maintenance, and HVAC diagnostics.
 
-💡 *High-capacity memory supports demanding AI computations in edge computing environments.*
+💡 *Real-time thermal imaging with AI-powered super-resolution enhances accuracy in diagnostics*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/08/amd-epyc-embedded-8004-eatx-motherboard-supports-up-to-576gb-ddr5-memory-for-edge-ai-applications/)
-
----
-
-### 6. SN1 Solar Node An ESP32-C3-based board with IP67 enclosure, solar charging, ESPHome firmware 
-
-The SN1 Solar Node is an ESP32-C3-based IoT board with IP67 enclosure, solar charging, and prototyping areas for custom circuitry. It features a smart power switch, battery voltage monitoring, and GPIO breaks for easy access. This board is ideal for off-grid IoT projects.
-
-💡 *Enables custom design and flexibility for off-grid IoT projects.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/07/sn1-solar-node-an-esp32-c3-based-board-with-ip67-enclosure-solar-charging-esphome-firmware/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/09/sipeed-t256s-a-usb-thermal-camera-with-256x192-lwir-sensor-up-to-640x480-super-ai-resolution/)
 
 ---
 
-### 7. wolfIP An open-source, lightweight TCP/IP stack with no dynamic memory allocations for embedded systems 
+### 4. WeAct STM32U585CIU6 Core Mini An $8 STM32U5 board supported by MicroPython v1.28 
 
-wolfIP is an open-source, lightweight TCP/IP stack for embedded systems with no dynamic memory allocations, supporting endpoint-only mode and multi-interface support with optional IP forwarding.
+The WeAct STM32U585CIU6 Core Mini is a low-cost, standalone STM32U5 MCU board priced at $8, supported by MicroPython v1.28. It features a ST STM32U585CIU6 Core Arm Cortex-M33 microcontroller with up to 160 MHz clock speed and 2048 KB flash memory.
 
-💡 *Optimized memory management for resource-constrained embedded systems applications.*
+💡 *Low-cost STM32U5 board expands MCU options for makers and hobbyists worldwide.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/07/wolfip-an-open-source-lightweight-tcp-ip-stack-with-no-dynamic-memory-allocations-for-embedded-systems/)
-
----
-
-### 8. Google adds search to Play Store reviews to improve app discovery 
-
-Google has rolled out a new feature in the Play Store update, enabling search within reviews to improve app discovery.
-
-💡 *Enhanced discoverability for apps through review-based search functionality.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111979-google-adds-search-play-store-reviews-improve-app.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/08/weact-stm32u585ciu6-core-mini-stm32u5-board-supported-by-micropython-v1-28/)
 
 ---
 
-### 9. Corsair's Strix Halo AI Workstation 300 gets even more expensive amid the RAMpocalypse Ryzen AI Max 395+ flagship now sits at $3,399 
+### 5. AMD Ryzen 5 5500X3D Review: AM4 Keeps on Giving 
 
-Corsair has quietly increased prices on its AI Workstation 300 mini PCs, with the top-end Ryzen AI Max+ 395 model now costing $3,399, a $400 increase.
+AMD's Ryzen 5 5500X3D brings 3D V-Cache tech to older AM4 sockets, tested in 14 games.
 
-💡 *Rising RAM costs fuel a price hike in AI Workstation PCs.*
+💡 *Ryzen 5 5500X3D offers improved gaming performance at an affordable price.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/corsairs-strix-halo-ai-workstation-300-gets-even-more-expensive-amid-the-rampocalypse-ryzen-ai-max-395-flagship-now-sits-at-usd3-399)
+🔗 [Read Full Article](https://www.techspot.com/review/3109-amd-ryzen-5500x3d/)
 
 ---
 
-### 10. Snag this 1440p iBuyPower gaming PC with a 7800X3D and RTX 5070 for just $2,049 right now 32GB of fast DDR5 RAM and a 2TB SSD round off powerhouse specs, with an extra $200 off this custom-built AMD rig 
+### 6. Intel and SambaNova team up on heterogenous AI inference platform different hardware performs different workloads 
 
-Save $200 on a high-performance AMD gaming PC with a Ryzen 7 7800X3D and RTX 5070.
+Intel and SambaNova collaborate on a heterogeneous AI inference platform that combines Intel Xeon 6 CPUs, SambaNova SN50 RDUs, and Nvidia GPUs to optimize workload performance.
 
-💡 *Powerful gaming PC at a discounted price point.*
+💡 *Different hardware optimizes various AI workloads for improved efficiency.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/snag-this-1440p-ibuypower-gaming-pc-with-a-7800x3d-and-rtx-5070-for-just-usd2-049-right-now-32gb-of-fast-ddr5-ram-and-a-2tb-ssd-round-off-powerhouse-specs-with-an-extra-usd200-off-this-custom-built-amd-rig)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-and-sambanova-team-up-on-heterogenous-ai-inference-platform-different-hardware-performs-different-workloads)
+
+---
+
+### 7. PCI Express roadmap: The path to 1TB/s with PCI 8.0, the challenges of integration, and beyond 
+
+The PCI Express roadmap is set to reach 1TB/s with the introduction of PCIe 8.0, but manufacturers face significant integration challenges. The future of PCIe technology will rely on advancements in materials and design. As the industry moves beyond PCIe 6.0, new innovations will be necessary to maintain performance and efficiency.
+
+💡 *PCIe's scalability is crucial for future computing and storage needs.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/pci-express-roadmap-the-path-to-1tb-s-with-pci-8-0-the-challenges-of-integration-and-beyond)
+
+---
+
+### 8. AMD reveals $899 price tag for Ryzen 9 9950X3D2 first dual-cache X3D CPU is $200 more expensive than the Ryzen 9 9950X3D 
+
+AMD's Ryzen 9 9950X3D2 launches at $899, a $200 price increase from the previous model.
+
+💡 *Price hike may impact consumer purchasing decisions and AMD's market competitiveness.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-reveals-usd899-price-tag-for-ryzen-9-9950x3d2-first-dual-cache-x3d-cpu-is-usd200-more-expensive-than-the-ryzen-9-9950x3d)
+
+---
+
+### 9. Snap up 32GB of Corsair Vengeance RAM for just $192 when you pair it with AMD's 9800X3D processor and Asus X870E motherboard for $1,054 bundle also includes a free 240mm AIO cooler and a copy of Crimson Desert 
+
+Get a high-performance PC bundle featuring 32GB Corsair Vengeance RAM, AMD 9800X3D, and a free AIO cooler, along with a copy of Crimson Desert, all for $1054.98.
+
+💡 *High-end components bundled at a competitive price point for enthusiasts.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/snap-up-32gb-of-corsair-vengeance-ram-for-just-usd192-when-you-pair-it-with-amds-9800x3d-processor-and-asus-x870e-motherboard-for-usd1-054-bundle-also-includes-a-free-240mm-aio-cooler-and-a-copy-of-crimson-desert)
+
+---
+
+### 10. Russian state hackers are hijacking TP-Link and MicroTik routers to steal Outlook credentials, cybersecurity center warns APT28 group targets DNS and redirects traffic to attacker-controlled servers 
+
+Russian state hackers are exploiting vulnerable routers to steal Outlook credentials. They target DHCP and DNS settings on small office and home office routers. This allows them to redirect traffic to attacker-controlled servers.
+
+💡 *Russian state hackers exploit vulnerable routers to steal sensitive credentials*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/ncsc-says-russian-gru-hackers-are-hijacking-tp-link-and-mikrotik-routers)
+
+---
+
+### 11. Flash Bee An ESP32-C3-based DIY handheld lightning detector 
+
+The Flash Bee is a DIY handheld lightning detector made with off-the-shelf components, utilizing the AMS AS3935 sensor to detect lightning up to 40 km away with 1km accuracy. It features a Seeed Studio XIAO ESP32-C3 board, a Round Display for XIAO, and a 3D-printed enclosure. The design is easy to reproduce and convenient to use.
+
+💡 *Detects lightning up to 40 km away with 1km accuracy.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/09/flash-bee-an-esp32-c3-based-diy-handheld-lightning-detector/)
+
+---
+
+### 12. ChromeOS Flex gets a $3 USB installer to revive aging Windows PCs 
+
+Google partners with Back Market to offer ChromeOS Flex as a $3 USB installer, enabling users to revive aging Windows PCs and extend their lifespan. This partnership aims to promote ChromeOS Flex as a secure, sustainable, and fully supported alternative. The affordable installer makes ChromeOS Flex accessible to a wider audience.
+
+💡 *Revamping outdated PCs with sustainable, secure ChromeOS Flex alternatives*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111999-google-offering-new-way-install-chromeos-flex-aging.html)
+
+---
+
+### 13. Snapdragon X2 laptops launch with up to 18 cores, 5.0GHz clocks, and 80 TOPS NPU 
+
+Qualcomm's Snapdragon X2 laptops offer up to 18 cores, 5.0GHz clocks, and 80 TOPS NPU, targeting demanding workloads.
+
+💡 *Revolutionizing high-performance computing with massive processing capabilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111995-snapdragon-x2-laptops-reach-retail-aggressive-memory-display.html)
+
+---
+
+### 14. Amazon is ending support for these older Kindle and Kindle Fire devices 
+
+Amazon is ending support for older Kindle and Kindle Fire devices, starting with models dating back to 2007, including the original Kindle and Kindle Keyboard.
+
+💡 *Users will lose access to digital content, updates, and services.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111998-amazon-ending-support-older-kindle-kindle-fire-devices.html)
+
+---
+
+### 15. MacBook Neo demand is so strong it's creating supply headaches for Apple 
+
+Apple's MacBook Neo is in high demand, causing supply chain issues. The laptop features Apple's A18 Pro processor repurposed from iPhone 16 Pro production. This decision may have contributed to the Neo's strong sales.
+
+💡 *Repurposed chips drive demand and supply headaches for Apple.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111987-macbook-neo-demand-strong-creating-supply-headaches-apple.html)
+
+---
+
+### 16. Chrome finally gets vertical tabs, plus an improved Reading Mode 
+
+Chrome introduces vertical tabs and improved Reading Mode for desktop users, starting April 7. The vertical tab feature allows users to move the tab strip to a sidebar on the left. This feature aims to enhance user experience and productivity.
+
+💡 *Streamlined navigation boosts browsing efficiency and user satisfaction*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111992-chrome-finally-gets-vertical-tabs-plus-improved-reading.html)
 
 ---
 

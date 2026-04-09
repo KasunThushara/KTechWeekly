@@ -1,135 +1,115 @@
 # 📰 Tech News
-**Week of April 08, 2026**
+**Week of April 09, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-04-08 09:50
+- **Articles this week:** 10
+- **Report generated:** 2026-04-09 09:56
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. 2TB SanDisk memory card card surfaces for eye-watering $2,000 top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance 
+### 1. Asus ROG Xbox Ally review: The cheapest Windows handheld gets points for showing up ⭐
 
-SanDisk's 2TB Extreme Pro UHS-II SD card costs $2,000 and offers over 300 MB/s sequential read and write performance, making it more than four times more expensive than microSD Express cards.
+The Asus ROG Xbox Ally is the cheapest Windows handheld, but it's held back by technical issues and a mediocre processor, making it less competitive than the Steam Deck OLED.
 
-💡 *High-capacity SD cards are priced disproportionately to their performance advantages.*
+💡 *Affordability comes at the cost of performance and features.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/2tb-sandisk-memory-card-card-surfaces-for-eye-watering-usd2-000-top-tier-extreme-pro-uhs-ii-sd-promises-more-than-300-mb-s-sequential-read-and-write-performance)
-
----
-
-### 2. Netflix launches Playground, a kid-friendly gaming app with no ads or extra fees 
-
-Netflix launches Playground, a kid-friendly gaming app with no ads or extra fees, offering an ever-growing library of instantly playable games for kids aged 8 and under.
-
-💡 *Enhanced safety and accessibility for young gamers with curated content*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111974-netflix-launches-playground-kid-friendly-gaming-app-no.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-ryzen-z2-a-review)
 
 ---
 
-### 3. Google adds search to Play Store reviews to improve app discovery 
+### 2. Anthropic unveils new powerful AI that finds software flaws, but says it's too dangerous to release ⭐
 
-Google has rolled out a new feature in the Play Store update, enabling search within reviews to improve app discovery.
+Anthropic's AI, Claude Mythos Preview, discovers software flaws but is deemed too dangerous for public use.
 
-💡 *Enhanced discoverability for apps through review-based search functionality.*
+💡 *AI vulnerability detection poses risks of widespread exploitation and chaos*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111979-google-adds-search-play-store-reviews-improve-app.html)
-
----
-
-### 4. Framework warns of even more rising RAM and SSD prices through 2026 as memory crisis persists some reprieve as prices plateau in latest monthly update 
-
-The memory crisis continues, with rising RAM and SSD prices expected. In response, the company is adjusting prices for high-capacity SSDs and memory-heavy configurations. Prices have plateaued in the latest update, but further increases are predicted.
-
-💡 *Industry struggles to adapt to persistent memory supply chain disruptions.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/framework-warns-of-even-more-rising-ram-and-ssd-prices-through-2026-as-memory-crisis-persists-some-reprieve-as-prices-plateau-in-latest-monthly-update)
+🔗 [Read Full Article](https://www.techspot.com/news/111991-anthropic-deploys-unreleased-ai-model-hunt-software-flaws.html)
 
 ---
 
-### 5. Indianapolis politician's home shot at 13 times over data center dispute police and FBI investigating 'isolated, targeted incident' after city councilor backed project 
+### 3. be quiet! Pure Power 13 M 1200W supply review: Platinum-level efficiency, premium pricing 
 
-A city councilor's home was shot 13 times over a data center dispute. The Indianapolis police and FBI are investigating the incident as 'isolated, targeted.' Opposing neighborhood groups condemn the shooting.
+The Be Quiet! Pure Power 13 M 1200W offers exceptional build quality, Platinum-level efficiency, and a comprehensive 10-year warranty, but its premium pricing and limited connectivity are notable drawbacks.
 
-💡 *Free speech and public discourse can lead to violent backlash.*
+💡 *High-end power supply with premium features at a high price point.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/indianapolis-politicians-home-shot-at-13-times-over-data-center-dispute-police-and-fbi-investigating-isolated-targeted-incident-after-city-councilor-backed-project)
-
----
-
-### 6. Broadcom to supply Anthropic with 3.5 gigawatts of Google TPU capacity from 2027 Claude pioneer says its annual revenue run rate has passed $30 billion 
-
-Broadcom will supply Anthropic with 3.5 gigawatts of Google TPU capacity starting in 2027. This deal is likely a significant milestone for both companies. Anthropic's annual revenue has also surpassed $30 billion.
-
-💡 *Anthropic's rapid growth fuels large-scale AI technology investments*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/broadcom-expands-anthropic-deal-to-3-5gw-of-google-tpu-capacity-from-2027)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/be-quiet-pure-power-13-m-1200w-supply-review-platinum-level-efficiency-premium-pricing)
 
 ---
 
-### 7. PeaZip 11 brings a faster UI, better navigation, and smarter archive tools 
+### 4. Corsair's new customizer tool lets buyers trick out the Frame 4000D case configurator lets you explore every possible option for this highly modular enclosure 
 
-PeaZip 11.0 updates its UI with faster browsing and drag-and-drop features.
+Corsair's new case customizer lets buyers personalize the Frame 4000D case with a wide range of options, from side panels to front-panel I/O configurations. This allows for highly modular and tailored enclosures that meet individual needs. The customizer tool makes it easy to explore every possible option.
 
-💡 *Enhanced free archiver usability for improved user experience.*
+💡 *Endless customization options for highly modular and tailored enclosures.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/4849-peazip.html)
-
----
-
-### 8. H.264 streaming fees jump from $100,000 to $4.5 million a year under new licensing terms 
-
-H.264 streaming fees increase from $100,000 to $4.5 million under new licensing terms, significantly impacting large subscription platforms.
-
-💡 *Massive licensing fees will strain budgets of popular streaming services.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111971-h264-licensing-fees-could-jump-100k-45m-streaming.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/corsairs-new-customizer-tool-lets-buyers-trick-out-the-frame-4000d-case-configurator-lets-you-explore-every-possible-option-for-this-highly-modular-enclosure)
 
 ---
 
-### 9. 13 shots fired at Indianapolis councilman's home after backing $500 million data center 
+### 5. LG's never-released rollable phone gets torn down, revealing wild engineering 
 
-Indianapolis City-County Council member Ron Gibson supported a proposed $500 million data center. This support led to shots being fired at his home. The incident occurred in the Martindale-Brightwood neighborhood.
+LG's never-released rollable phone has been torn down, revealing its complex engineering. The phone uses a small motor to slide an extra screen out of the side. This design differs from foldable phones like the Galaxy Z Fold.
 
-💡 *Community opposition can turn violent over large-scale development projects.*
+💡 *Innovative rollable design offers a new approach to screen expansion.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111978-13-shots-fired-indianapolis-councilman-home-after-supported.html)
-
----
-
-### 10. 81-year-old Dodgers fan shut out by smartphone-only season tickets 
-
-Long-time Dodgers fan Errol Segal faces losing season tickets due to digital transition.
-
-💡 *Generational gap between tech-savvy teams and loyal, old-school fans widens.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111976-81-year-old-la-dodgers-fan-shut-out.html)
+🔗 [Read Full Article](https://www.techspot.com/news/111990-lg-never-released-rollable-phone-appeared-teardown.html)
 
 ---
 
-### 11. Artemis II: Image sensors in digital cameras capture stunning Moon pics 
+### 6. AMD Ryzen 5 5500X3D Review: AM4 Keeps on Giving 
 
-Artemis II's digital cameras captured thousands of stunning Moon images. These images will aid geologists in identifying landing and settlement zones. They will also inform future Artemis missions.
+AMD's Ryzen 5 5500X3D brings 3D V-Cache tech to older AM4 sockets, tested in 14 games.
 
-💡 *Precise Moon mapping enables safe and sustainable human settlements*
+💡 *Ryzen 5 5500X3D offers improved gaming performance at an affordable price.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/artemis-ii-image-sensors-digital-cameras-capture-stunning-moon-pics)
+🔗 [Read Full Article](https://www.techspot.com/review/3109-amd-ryzen-5500x3d/)
 
 ---
 
-### 12. Which mobile app was the first to reach 1 billion users? 
+### 7. Snapdragon X2 laptops launch with up to 18 cores, 5.0GHz clocks, and 80 TOPS NPU 
 
-Facebook was the first mobile app to reach 1 billion users, surpassing this milestone in 2012. This achievement marked a significant shift in social media usage and mobile app adoption. Facebook's massive user base has continued to grow since then.
+Qualcomm's Snapdragon X2 laptops offer up to 18 cores, 5.0GHz clocks, and 80 TOPS NPU, targeting demanding workloads.
 
-💡 *Facebook's 1 billion users milestone signifies unparalleled social media impact.*
+💡 *Revolutionizing high-performance computing with massive processing capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/trivia/162-which-mobile-app-first-1-billion-users/)
+🔗 [Read Full Article](https://www.techspot.com/news/111995-snapdragon-x2-laptops-reach-retail-aggressive-memory-display.html)
+
+---
+
+### 8. NASA just dropped new high-quality Moon photos from Artemis II 
+
+NASA has released high-resolution Moon photos from the Artemis II mission. The photos were taken by four astronauts who observed the far side of the Moon during the mission. The images are available for download on NASA's website and Flickr page.
+
+💡 *First-ever direct human observations of the Moon's far side*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111986-nasa-dropped-new-high-quality-moon-photos-artemis.html)
+
+---
+
+### 9. A brief history of Denuvo DRM and the new hypervisor bypass inside the cat-and-mouse game between Denuvo and the piracy scene 
+
+Denuvo DRM emerged as a powerful anti-piracy tool in 2014, initially effective at protecting AAA titles like Dragon Age: Inquisition. However, the cat-and-mouse game between Denuvo and the piracy scene led to numerous bypasses, including the recent discovery of a hypervisor bypass. This has raised questions about the effectiveness of Denuvo in the face of relentless piracy efforts.
+
+💡 *Piracy scene's adaptability undermines anti-piracy software's long-term effectiveness.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/a-brief-history-of-denuvo-drm-and-the-new-hypervisor-bypass-inside-the-cat-and-mouse-game-between-denuvo-and-the-piracy-scene)
+
+---
+
+### 10. NASA shortens key radiation shielding demo on Artemis II flight 
+
+NASA has shortened a key radiation shielding demo on Artemis II due to time constraints. The decision was made to ensure the crew could prepare for Earth entry on Friday. This demo tested shielding materials for future lunar missions.
+
+💡 *Radiation protection is crucial for long-term lunar space travel*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/nasa-calls-key-radiation-protection-demo-artemis-flight)
 
 ---
 

@@ -1,145 +1,195 @@
 # 🤖 AI & ML
-**Week of April 08, 2026**
+**Week of April 09, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-04-08 09:50
+- **Articles this week:** 18
+- **Report generated:** 2026-04-09 09:56
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel introduces its own Neural Compression technology with a fallback mode that works on GPUs without dedicated AI cores early performance is on the level of Nvidia NTC 
+### 1. Anthropic unveils new powerful AI that finds software flaws, but says it's too dangerous to release ⭐
 
-Intel introduces Neural Compression technology with fallback mode for non-XMX GPUs, matching Nvidia's performance.
+Anthropic's AI, Claude Mythos Preview, discovers software flaws but is deemed too dangerous for public use.
 
-💡 *Increased accessibility of AI-enhanced compression for a wider range of hardware.*
+💡 *AI vulnerability detection poses risks of widespread exploitation and chaos*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intel-introduces-its-own-neural-compression-technology-with-a-fallback-mode-that-works-on-gpus-without-dedicated-ai-cores-early-performance-is-on-the-level-of-nvidia-ntc)
-
----
-
-### 2. Anthropic's latest AI model identifies 'thousands of zero-day vulnerabilities' in 'every major operating system and every major web browser' Claude Mythos Preview sparks race to fix critical bugs, some unpatched for decades 
-
-Anthropic's AI model, Claude Mythos Preview, has identified thousands of unpatched software vulnerabilities in major operating systems and web browsers, prompting a race to fix critical bugs.
-
-💡 *Thousands of unpatched vulnerabilities pose a massive security risk.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-latest-ai-model-identifies-thousands-of-zero-day-vulnerabilities-in-every-major-operating-system-and-every-major-web-browser-claude-mythos-preview-sparks-race-to-fix-critical-bugs-some-unpatched-for-decades)
+🔗 [Read Full Article](https://www.techspot.com/news/111991-anthropic-deploys-unreleased-ai-model-hunt-software-flaws.html)
 
 ---
 
-### 3. wolfIP An open-source, lightweight TCP/IP stack with no dynamic memory allocations for embedded systems 
+### 2. Corsair's new customizer tool lets buyers trick out the Frame 4000D case configurator lets you explore every possible option for this highly modular enclosure 
 
-wolfIP is an open-source, lightweight TCP/IP stack for embedded systems with no dynamic memory allocations, supporting endpoint-only mode and multi-interface support with optional IP forwarding.
+Corsair's new case customizer lets buyers personalize the Frame 4000D case with a wide range of options, from side panels to front-panel I/O configurations. This allows for highly modular and tailored enclosures that meet individual needs. The customizer tool makes it easy to explore every possible option.
 
-💡 *Optimized memory management for resource-constrained embedded systems applications.*
+💡 *Endless customization options for highly modular and tailored enclosures.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/07/wolfip-an-open-source-lightweight-tcp-ip-stack-with-no-dynamic-memory-allocations-for-embedded-systems/)
-
----
-
-### 4. Java 26 arrives with performance gains, security upgrades 
-
-Java 26 has arrived with performance gains, security upgrades, and language features.
-
-💡 *Java continues to deliver steady, meaningful improvements to developers.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/7857-java-26.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/corsairs-new-customizer-tool-lets-buyers-trick-out-the-frame-4000d-case-configurator-lets-you-explore-every-possible-option-for-this-highly-modular-enclosure)
 
 ---
 
-### 5. Intel isn't done with Raptor Lake, will keep 14th-gen chips in production 
+### 3. Sipeed T256s A USB thermal camera with 256 192 LWIR sensor, 640 480 AI super resolution 
 
-Intel's Raptor Lake chips will remain in production alongside newer models.
+The Sipeed T256s is a portable USB thermal camera with a 256x192 LWIR sensor and AI-powered super-resolution up to 640x480 resolution. It features a 1.69-inch touchscreen, macro lens, internal storage, and durable CNC aluminum enclosure for efficient heat dissipation. It is designed for electronics R&D, industrial maintenance, and HVAC diagnostics.
 
-💡 *Raptor Lake's continued production ensures backward compatibility and cost savings.*
+💡 *Real-time thermal imaging with AI-powered super-resolution enhances accuracy in diagnostics*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111972-intel-confirms-14th-gen-raptor-lake-cpus-lga1700.html)
-
----
-
-### 6. Corsair's Strix Halo AI Workstation 300 gets even more expensive amid the RAMpocalypse Ryzen AI Max 395+ flagship now sits at $3,399 
-
-Corsair has quietly increased prices on its AI Workstation 300 mini PCs, with the top-end Ryzen AI Max+ 395 model now costing $3,399, a $400 increase.
-
-💡 *Rising RAM costs fuel a price hike in AI Workstation PCs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/corsairs-strix-halo-ai-workstation-300-gets-even-more-expensive-amid-the-rampocalypse-ryzen-ai-max-395-flagship-now-sits-at-usd3-399)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/09/sipeed-t256s-a-usb-thermal-camera-with-256x192-lwir-sensor-up-to-640x480-super-ai-resolution/)
 
 ---
 
-### 7. macOS has a 49.7-day networking time bomb built in that only a reboot fixes comparison operation on unreliable time value stops machines dead in their tracks 
+### 4. Apple and Samsung named the least repairable phone brands in new report 
 
-macOS has a networking bug that triggers a countdown to disaster, requiring a reboot to fix. The issue arises due to a comparison operation on an unreliable time value in the macOS networking stack. This bug was discovered by Photon, an AI service provider.
+Apple and Samsung ranked lowest in repairability scores in a new study. The Failing the Fix 2026 report by the US Public Interest Research Group Education Fund highlights the difficulties of fixing these phones. This study aims to inform consumers about the environmental and financial implications.
 
-💡 *Unreliable time value causes catastrophic countdown in macOS networking stack.*
+💡 *E-waste generated by non-repairable phones can harm the environment significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/macos/macos-has-a-49-7-day-networking-time-bomb-built-in-that-only-a-reboot-fixes-comparison-operation-on-unreliable-time-value-stops-machines-dead-in-their-tracks)
-
----
-
-### 8. Intel joins Elon Musk's TeraFab project 'Intel is proud to join the Terafab project with SpaceX, xAI, and Tesla to help refactor silicon fab technology' 
-
-Intel joins Elon Musk's TeraFab project to refactor silicon fab technology, potentially revolutionizing the semiconductor industry. Lip-Bu Tan expects Elon Musk to reimagine the sector. This partnership brings together Intel, SpaceX, xAI, and Tesla.
-
-💡 *TeraFab could disrupt traditional silicon fab manufacturing processes significantly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-joins-elon-musks-terafab-project-intel-is-proud-to-join-the-terafab-project-with-spacex-xai-and-tesla-to-help-refactor-silicon-fab-technology)
+🔗 [Read Full Article](https://www.techspot.com/news/111996-new-report-names-apple-samsung-least-repairable-phone.html)
 
 ---
 
-### 9. Intel reportedly in talks with Google and Amazon over advanced packaging major customers could take advantage of EMIB-T later this year 
+### 5. 10 petabytes of sensitive data stolen from China's National Supercomputing Center, hackers claim daring heist would be largest ever China hack, covering 6,000 clients across science, defense, and beyond 
 
-Intel is in talks with Google and Amazon for advanced chip packaging services.
+Hackers stole 10 petabytes of sensitive data from China's National Supercomputing Center, compromising aerospace, bioinformatics, and fusion modeling secrets. The data breach affects 6,000 clients across various fields. This daring heist is claimed to be the largest ever China hack.
 
-💡 *Advanced packaging enables faster, more efficient AI computing for major customers.*
+💡 *Global security and innovation compromised by massive data breach.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-reportedly-in-talks-with-google-and-amazon-over-advanced-packaging)
-
----
-
-### 10. Google's AI search is producing millions of wrong answers every day 
-
-Google's AI search is producing millions of wrong answers daily, posing a risk to users' reliance on accurate information. Testing suggests that one in 10 search results contains false information. This highlights a significant issue with the search engine's ability to provide reliable results.
-
-💡 *Relying on AI search can lead to widespread misinformation*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111984-google-ai-overviews-might-hallucinate-tens-millions-times.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/10-petabytes-of-sensitive-data-stolen-from-chinas-national-supercomputing-center-hackers-claim-daring-heist-would-be-largest-ever-china-hack-covering-6-000-clients-across-science-defense-and-beyond)
 
 ---
 
-### 11. Windows is finally killing off the Control Panel 
+### 6. Intel and SambaNova team up on heterogenous AI inference platform different hardware performs different workloads 
 
-Microsoft is consolidating Windows settings into a single location, eliminating the need for switching between the Control Panel and Settings app.
+Intel and SambaNova collaborate on a heterogeneous AI inference platform that combines Intel Xeon 6 CPUs, SambaNova SN50 RDUs, and Nvidia GPUs to optimize workload performance.
 
-💡 *Simplifying user experience with streamlined settings navigation.*
+💡 *Different hardware optimizes various AI workloads for improved efficiency.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111981-microsoft-engineer-confirms-plans-kill-off-windows-control.html)
-
----
-
-### 12. Apple's foldable iPhone might be delayed, or almost ready 
-
-Apple's foldable iPhone may face production delays due to unexpected setbacks.
-
-💡 *Delayed foldable iPhones could hinder Apple's market share growth.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111975-conflicting-reports-cast-doubt-apple-foldable-iphone-launch.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-and-sambanova-team-up-on-heterogenous-ai-inference-platform-different-hardware-performs-different-workloads)
 
 ---
 
-### 13. Intel joins Nvidia in pushing neural texture compression, can shrink game assets by up to 18x 
+### 7. PCI Express roadmap: The path to 1TB/s with PCI 8.0, the challenges of integration, and beyond 
 
-Intel joins Nvidia in pushing neural texture compression, reducing game asset sizes by up to 18x.
+The PCI Express roadmap is set to reach 1TB/s with the introduction of PCIe 8.0, but manufacturers face significant integration challenges. The future of PCIe technology will rely on advancements in materials and design. As the industry moves beyond PCIe 6.0, new innovations will be necessary to maintain performance and efficiency.
 
-💡 *Squeezing more data into existing storage or bandwidth without pipeline changes.*
+💡 *PCIe's scalability is crucial for future computing and storage needs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111970-intel-new-ai-compression-tech-can-significantly-shrink.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/pci-express-roadmap-the-path-to-1tb-s-with-pci-8-0-the-challenges-of-integration-and-beyond)
+
+---
+
+### 8. Bain Capital's data center unit removes disgraced tenant suspected of smuggling Nvidia GPUs to China Megaspeed previously alleged to have spent roughly $2 billion on AI processors for illicit distribution 
+
+Bain Capital's Bridge Data Centers cancels Megaspeed's tenancy and replaces it with Zenplayer. Megaspeed was previously accused of smuggling Nvidia GPUs to China. The move is seen as a major blow to the company's operations.
+
+💡 *U.S. companies are taking a stand against illicit AI technology exports.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/bain-capitals-data-center-unit-removes-disgraced-tenant-suspected-of-smuggling-nvidia-gpus-to-china-megaspeed-previously-alleged-to-have-spent-roughly-usd2-billion-on-ai-processors-for-illicit-distribution)
+
+---
+
+### 9. British cryptographer Adam Back is the secret creator of Bitcoin, claims new report Back refutes investigation, says parallels to Satoshi are just a coincidence 
+
+A New York Times investigation suggests Adam Back is Satoshi Nakamoto, but he denies it, citing coincidence and confirmation bias.
+
+💡 *Adam Back's possible connection to Satoshi raises questions about Bitcoin's true origins.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/british-cryptographer-adam-back-is-the-secret-creator-of-bitcoin-claims-new-report-back-refutes-investigation-says-parallels-to-satoshi-are-just-a-coincidence)
+
+---
+
+### 10. Taiwanese chip makers call on government to stockpile helium, liquid natural gas TSIA pleads for strategic supplies as US and Iran sign ceasefire in Middle East 
+
+Taiwan's semiconductor industry alliance urges the government to stockpile helium and LNG to ensure stability during crises, citing the need for alternative suppliers and restarting nuclear power plants.
+
+💡 *Semiconductor supply chain resilience hinges on strategic gas stockpiling.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/taiwanese-chip-makers-call-on-government-to-stockpile-helium-lng-tsia-pleads-for-strategic-supplies-as-us-and-iran-sign-ceasefire-in-middle-east)
+
+---
+
+### 11. Get $100 off the ROG Xbox Ally handheld Ryzen Z2 A-powered version with 16GB of RAM is under $500 again 
+
+Get the ROG Xbox Ally handheld with 16GB RAM for under $500, featuring a 120Hz display powered by AMD's Ryzen Z2 A chip.
+
+💡 *Gaming on-the-go just got significantly more affordable for enthusiasts.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-usd100-off-the-rog-xbox-ally-handheld-ryzen-z2-a-powered-version-with-16gb-of-ram-is-under-usd500-again)
+
+---
+
+### 12. Snap up 32GB of Corsair Vengeance RAM for just $192 when you pair it with AMD's 9800X3D processor and Asus X870E motherboard for $1,054 bundle also includes a free 240mm AIO cooler and a copy of Crimson Desert 
+
+Get a high-performance PC bundle featuring 32GB Corsair Vengeance RAM, AMD 9800X3D, and a free AIO cooler, along with a copy of Crimson Desert, all for $1054.98.
+
+💡 *High-end components bundled at a competitive price point for enthusiasts.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/snap-up-32gb-of-corsair-vengeance-ram-for-just-usd192-when-you-pair-it-with-amds-9800x3d-processor-and-asus-x870e-motherboard-for-usd1-054-bundle-also-includes-a-free-240mm-aio-cooler-and-a-copy-of-crimson-desert)
+
+---
+
+### 13. China intensifies efforts to poach semiconductor talent from Taiwan, claims report international restrictions motivate illicit efforts to obtain talent and equipment 
+
+China is allegedly increasing efforts to steal Taiwan's semiconductor technologies and know-how amid international restrictions.
+
+💡 *China's chip tech heists threaten global semiconductor supply chain stability.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/china-intensifies-efforts-to-poach-semiconductor-talent-from-taiwan-claims-report-international-restrictions-motivate-illicit-efforts-to-obtain-talent-and-equipment)
+
+---
+
+### 14. ChromeOS Flex gets a $3 USB installer to revive aging Windows PCs 
+
+Google partners with Back Market to offer ChromeOS Flex as a $3 USB installer, enabling users to revive aging Windows PCs and extend their lifespan. This partnership aims to promote ChromeOS Flex as a secure, sustainable, and fully supported alternative. The affordable installer makes ChromeOS Flex accessible to a wider audience.
+
+💡 *Revamping outdated PCs with sustainable, secure ChromeOS Flex alternatives*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111999-google-offering-new-way-install-chromeos-flex-aging.html)
+
+---
+
+### 15. CIA deployed secret "Ghost Murmur" AI to track down missing airman in Iran 
+
+The CIA allegedly deployed a secret AI called Ghost Murmur to locate a missing airman in Iran. This AI is said to be able to detect heartbeats and voices from great distances. It is believed to have been used in a desert environment.
+
+💡 *Advanced AI can revolutionize surveillance and search operations in challenging environments.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111993-cia-deployed-secret-ghost-murmur-ai-track-down.html)
+
+---
+
+### 16. Motorola returns to tablets with Moto Pad, revamps Moto G Stylus smartphone 
+
+Motorola has introduced the Moto Pad, an 11-inch 2.5K tablet with 90Hz display and 5G capabilities.
+
+💡 *Motorola's return to the tablet market with a powerful device matters.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111994-motorola-returns-tablets-moto-pad-revamps-moto-g.html)
+
+---
+
+### 17. NASA just dropped new high-quality Moon photos from Artemis II 
+
+NASA has released high-resolution Moon photos from the Artemis II mission. The photos were taken by four astronauts who observed the far side of the Moon during the mission. The images are available for download on NASA's website and Flickr page.
+
+💡 *First-ever direct human observations of the Moon's far side*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111986-nasa-dropped-new-high-quality-moon-photos-artemis.html)
+
+---
+
+### 18. Intel is in talks with Google and Amazon to power AI chips with new packaging tech 
+
+Intel is partnering with Google and Amazon to leverage new packaging tech for AI chips, shifting focus from back-end manufacturing to system-level design as AI workloads drive demand for specialized dies.
+
+💡 *AI workloads require specialized dies stitched together for efficient processing.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/111988-intel-talks-google-amazon-power-ai-chips-new.html)
 
 ---
 
