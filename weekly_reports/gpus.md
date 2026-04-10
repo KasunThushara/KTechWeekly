@@ -1,45 +1,55 @@
 # 🎮 GPUs
-**Week of April 09, 2026**
+**Week of April 10, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 3
-- **Report generated:** 2026-04-09 09:56
+- **Articles this week:** 4
+- **Report generated:** 2026-04-10 09:51
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD reveals $899 price tag for Ryzen 9 9950X3D2 first dual-cache X3D CPU is $200 more expensive than the Ryzen 9 9950X3D 
+### 1. Acer Predator X27 X1 27-inch 240 Hz OLED gaming monitor review: Blending performance and value ⭐
 
-AMD's Ryzen 9 9950X3D2 launches at $899, a $200 price increase from the previous model.
+The Acer Predator X27 X1 delivers high-performance gaming with its 240 Hz OLED display and 4K resolution, making it a solid value for gamers.
 
-💡 *Price hike may impact consumer purchasing decisions and AMD's market competitiveness.*
+💡 *Blending high speed and saturated color for immersive gaming experiences.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-reveals-usd899-price-tag-for-ryzen-9-9950x3d2-first-dual-cache-x3d-cpu-is-usd200-more-expensive-than-the-ryzen-9-9950x3d)
-
----
-
-### 2. Bain Capital's data center unit removes disgraced tenant suspected of smuggling Nvidia GPUs to China Megaspeed previously alleged to have spent roughly $2 billion on AI processors for illicit distribution 
-
-Bain Capital's Bridge Data Centers cancels Megaspeed's tenancy and replaces it with Zenplayer. Megaspeed was previously accused of smuggling Nvidia GPUs to China. The move is seen as a major blow to the company's operations.
-
-💡 *U.S. companies are taking a stand against illicit AI technology exports.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/bain-capitals-data-center-unit-removes-disgraced-tenant-suspected-of-smuggling-nvidia-gpus-to-china-megaspeed-previously-alleged-to-have-spent-roughly-usd2-billion-on-ai-processors-for-illicit-distribution)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-x27-x1-27-inch-240-hz-oled-gaming-monitor-review)
 
 ---
 
-### 3. Get $100 off the ROG Xbox Ally handheld Ryzen Z2 A-powered version with 16GB of RAM is under $500 again 
+### 2. Intel Arc GPUs can finally boot up and play 'Crimson Desert' but you'll probably want to wait for official support 
 
-Get the ROG Xbox Ally handheld with 16GB RAM for under $500, featuring a 120Hz display powered by AMD's Ryzen Z2 A chip.
+Intel's latest GPU driver allows 'Crimson Desert' to boot and run, albeit with issues. The game can reportedly run at 59 FPS at ultra settings on an Arc B580, but suffers from occasional crashes and visual artifacts. Players may want to wait for official support before playing.
 
-💡 *Gaming on-the-go just got significantly more affordable for enthusiasts.*
+💡 *Intel Arc GPUs achieve playable 'Crimson Desert' performance with caveats.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-usd100-off-the-rog-xbox-ally-handheld-ryzen-z2-a-powered-version-with-16gb-of-ram-is-under-usd500-again)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intel-arc-gpus-can-finally-boot-up-and-play-crimson-desert-but-youll-probably-want-to-wait-for-official-support)
+
+---
+
+### 3. Under $30, GameSir's Super Nova wireless controller has an unbelievable 40% slashed off the price in this limited-time offer includes stick drift eliminating Hall Effect thumbsticks and switches 
+
+Get a fully loaded wireless gaming controller from GameSir for under $30 with a limited-time offer.
+
+💡 *High-quality gaming tech at an unbeatable budget-friendly price point.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/under-usd30-gamesirs-super-nova-wireless-controller-has-an-unbelievable-40-percent-slashed-off-the-price-in-this-limited-time-offer-includes-stick-drift-eliminating-hall-effect-thumbsticks-and-switches)
+
+---
+
+### 4. AMD confirms Ryzen 9 9950X3D2 priced at $899 
+
+AMD confirms the Ryzen 9 9950X3D2 will be priced at $899, not $100 more than MSRP.
+
+💡 *Official price undercuts initial retailer price expectations by $100.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112007-amd-confirms-ryzen-9-9950x3d2-priced-899-200.html)
 
 ---
 

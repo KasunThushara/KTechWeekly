@@ -1,375 +1,368 @@
 [
   {
-    "title": "10 petabytes of sensitive data stolen from China's National Supercomputing Center, hackers claim daring heist would be largest ever China hack, covering 6,000 clients across science, defense, and beyond",
-    "summary": "Hackers stole 10 petabytes of sensitive data from China's National Supercomputing Center, compromising aerospace, bioinformatics, and fusion modeling secrets. The data breach affects 6,000 clients across various fields. This daring heist is claimed to be the largest ever China hack.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/10-petabytes-of-sensitive-data-stolen-from-chinas-national-supercomputing-center-hackers-claim-daring-heist-would-be-largest-ever-china-hack-covering-6-000-clients-across-science-defense-and-beyond",
+    "title": "Ambitious hacker reduces worst-case memory latency by up to 93%, but with severe downsides 1960s bottleneck overcome by hedging memory accesses to avoid running into DRAM refresh stalls",
+    "summary": "A software trick reduces worst-case memory latency by up to 93%, but has severe limitations. This technique, which works on both x86 and Arm, overcomes a 1960s bottleneck by avoiding DRAM refresh stalls. However, it is not without its downsides.",
+    "link": "https://www.tomshardware.com/software/ambitious-hacker-reduces-worst-case-memory-latency-by-up-to-93-percent-but-with-severe-downsides-1960s-bottleneck-overcome-by-hedging-memory-accesses-to-avoid-running-into-dram-refresh-stalls",
     "categories": [
-      "AI & ML"
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.938832",
-    "insight": "Global security and innovation compromised by massive data breach."
+    "processed_date": "2026-04-10T09:50:18.491623",
+    "insight": "Avoiding DRAM refresh stalls significantly reduces worst-case memory latency"
   },
   {
-    "title": "Intel and SambaNova team up on heterogenous AI inference platform different hardware performs different workloads",
-    "summary": "Intel and SambaNova collaborate on a heterogeneous AI inference platform that combines Intel Xeon 6 CPUs, SambaNova SN50 RDUs, and Nvidia GPUs to optimize workload performance.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-and-sambanova-team-up-on-heterogenous-ai-inference-platform-different-hardware-performs-different-workloads",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.938985",
-    "insight": "Different hardware optimizes various AI workloads for improved efficiency."
-  },
-  {
-    "title": "PCI Express roadmap: The path to 1TB/s with PCI 8.0, the challenges of integration, and beyond",
-    "summary": "The PCI Express roadmap is set to reach 1TB/s with the introduction of PCIe 8.0, but manufacturers face significant integration challenges. The future of PCIe technology will rely on advancements in materials and design. As the industry moves beyond PCIe 6.0, new innovations will be necessary to maintain performance and efficiency.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/pci-express-roadmap-the-path-to-1tb-s-with-pci-8-0-the-challenges-of-integration-and-beyond",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.939108",
-    "insight": "PCIe's scalability is crucial for future computing and storage needs."
-  },
-  {
-    "title": "AMD reveals $899 price tag for Ryzen 9 9950X3D2 first dual-cache X3D CPU is $200 more expensive than the Ryzen 9 9950X3D",
-    "summary": "AMD's Ryzen 9 9950X3D2 launches at $899, a $200 price increase from the previous model.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-reveals-usd899-price-tag-for-ryzen-9-9950x3d2-first-dual-cache-x3d-cpu-is-usd200-more-expensive-than-the-ryzen-9-9950x3d",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.939224",
-    "insight": "Price hike may impact consumer purchasing decisions and AMD's market competitiveness."
-  },
-  {
-    "title": "Bain Capital's data center unit removes disgraced tenant suspected of smuggling Nvidia GPUs to China Megaspeed previously alleged to have spent roughly $2 billion on AI processors for illicit distribution",
-    "summary": "Bain Capital's Bridge Data Centers cancels Megaspeed's tenancy and replaces it with Zenplayer. Megaspeed was previously accused of smuggling Nvidia GPUs to China. The move is seen as a major blow to the company's operations.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bain-capitals-data-center-unit-removes-disgraced-tenant-suspected-of-smuggling-nvidia-gpus-to-china-megaspeed-previously-alleged-to-have-spent-roughly-usd2-billion-on-ai-processors-for-illicit-distribution",
+    "title": "Intel Arc GPUs can finally boot up and play 'Crimson Desert' but you'll probably want to wait for official support",
+    "summary": "Intel's latest GPU driver allows 'Crimson Desert' to boot and run, albeit with issues. The game can reportedly run at 59 FPS at ultra settings on an Arc B580, but suffers from occasional crashes and visual artifacts. Players may want to wait for official support before playing.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/intel-arc-gpus-can-finally-boot-up-and-play-crimson-desert-but-youll-probably-want-to-wait-for-official-support",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.939345",
-    "insight": "U.S. companies are taking a stand against illicit AI technology exports."
+    "processed_date": "2026-04-10T09:50:18.491751",
+    "insight": "Intel Arc GPUs achieve playable 'Crimson Desert' performance with caveats."
   },
   {
-    "title": "British cryptographer Adam Back is the secret creator of Bitcoin, claims new report Back refutes investigation, says parallels to Satoshi are just a coincidence",
-    "summary": "A New York Times investigation suggests Adam Back is Satoshi Nakamoto, but he denies it, citing coincidence and confirmation bias.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/british-cryptographer-adam-back-is-the-secret-creator-of-bitcoin-claims-new-report-back-refutes-investigation-says-parallels-to-satoshi-are-just-a-coincidence",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.939473",
-    "insight": "Adam Back's possible connection to Satoshi raises questions about Bitcoin's true origins."
-  },
-  {
-    "title": "Asus ROG Xbox Ally review: The cheapest Windows handheld gets points for showing up",
-    "summary": "The Asus ROG Xbox Ally is the cheapest Windows handheld, but it's held back by technical issues and a mediocre processor, making it less competitive than the Steam Deck OLED.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-ryzen-z2-a-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-09T09:54:58.939608",
-    "insight": "Affordability comes at the cost of performance and features."
-  },
-  {
-    "title": "A brief history of Denuvo DRM and the new hypervisor bypass inside the cat-and-mouse game between Denuvo and the piracy scene",
-    "summary": "Denuvo DRM emerged as a powerful anti-piracy tool in 2014, initially effective at protecting AAA titles like Dragon Age: Inquisition. However, the cat-and-mouse game between Denuvo and the piracy scene led to numerous bypasses, including the recent discovery of a hypervisor bypass. This has raised questions about the effectiveness of Denuvo in the face of relentless piracy efforts.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/a-brief-history-of-denuvo-drm-and-the-new-hypervisor-bypass-inside-the-cat-and-mouse-game-between-denuvo-and-the-piracy-scene",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-09T09:54:58.939708",
-    "insight": "Piracy scene's adaptability undermines anti-piracy software's long-term effectiveness."
-  },
-  {
-    "title": "Taiwanese chip makers call on government to stockpile helium, liquid natural gas TSIA pleads for strategic supplies as US and Iran sign ceasefire in Middle East",
-    "summary": "Taiwan's semiconductor industry alliance urges the government to stockpile helium and LNG to ensure stability during crises, citing the need for alternative suppliers and restarting nuclear power plants.",
-    "link": "https://www.tomshardware.com/tech-industry/taiwanese-chip-makers-call-on-government-to-stockpile-helium-lng-tsia-pleads-for-strategic-supplies-as-us-and-iran-sign-ceasefire-in-middle-east",
+    "title": "Fueled by Musk's TeraFab tie-in, Intel's market cap hits highest level in 25 years tops $300 billion on CPU, AI, and foundry momentum",
+    "summary": "Intel's market cap has reached over $300 billion, its highest level in 25 years, driven by momentum in AI, CPU, and foundry announcements.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/fueled-by-musks-terafab-tie-in-intels-market-cap-hits-highest-level-in-25-years-tops-usd300-billion-on-cpu-ai-and-foundry-momentum",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.939827",
-    "insight": "Semiconductor supply chain resilience hinges on strategic gas stockpiling."
+    "processed_date": "2026-04-10T09:50:18.491870",
+    "insight": "Intel's foundry business fuels record market capitalization growth."
   },
   {
-    "title": "Get $100 off the ROG Xbox Ally handheld Ryzen Z2 A-powered version with 16GB of RAM is under $500 again",
-    "summary": "Get the ROG Xbox Ally handheld with 16GB RAM for under $500, featuring a 120Hz display powered by AMD's Ryzen Z2 A chip.",
-    "link": "https://www.tomshardware.com/pc-components/get-usd100-off-the-rog-xbox-ally-handheld-ryzen-z2-a-powered-version-with-16gb-of-ram-is-under-usd500-again",
+    "title": "Geekbench 6.7 adds Intel BOT detection to spoof out 'unrealistic' CPU scores Benchmark runs with BOT enabled will be marked as invalid",
+    "summary": "Geekbench 6.7 introduces Intel BOT detection to flag invalid runs. This is intended to prevent unrealistic performance bumps. The developer argues that BOT scores don't represent real-world performance.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/geekbench-6-7-adds-intel-bot-detection-to-spoof-out-unrealistic-cpu-scores-benchmark-runs-with-bot-enabled-will-be-marked-as-invalid",
     "categories": [
-      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-10T09:50:18.491989",
+    "insight": "Prevents artificially inflated CPU scores with Intel BOT detection."
+  },
+  {
+    "title": "Bryson DeChambeau to use 3D-printed 5-iron at 2026 Masters in golfing first club he fabricated himself 'finally ready' to face Augusta",
+    "summary": "Bryson DeChambeau will use a 3D-printed 5-iron at the 2026 Masters.",
+    "link": "https://www.tomshardware.com/3d-printing/bryson-dechambeau-to-use-3d-printed-5-iron-at-2026-masters-in-golfing-first-club-he-fabricated-himself-finally-ready-to-face-augusta",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.492134",
+    "insight": "DeChambeau pioneers custom golf club fabrication with 3D printing technology."
+  },
+  {
+    "title": "UK navy tracked three Russian submarines near undersea cables, damage would 'have serious consequences,' Putin warned US and allies expand seabed protection efforts",
+    "summary": "The UK Royal Navy tracked three Russian submarines near undersea cables. The vessels, including two Gugi-class deep-sea submarines, were attempting to survey. This poses a significant threat to global communication and trade.",
+    "link": "https://www.tomshardware.com/tech-industry/uk-navy-tracked-russian-submarines-near-undersea-cables",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.492267",
+    "insight": "Russian submarines threaten global communication and trade infrastructure."
+  },
+  {
+    "title": "Intel developing two-lever retention mechanism for LGA 1954 socket, according to new leak Premium Nova Lake-S motherboards will feature 2L-ILM sockets",
+    "summary": "Intel's high-end Nova Lake motherboards will feature a dual-lever retention mechanism, the 2L-ILM, for added security. This dual-lever design is similar to the one previously seen in server platforms with LGA 2011 sockets. Standard ILM variants will also be available, which cost less to produce.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-developing-two-lever-retention-mechanism-for-lga-1954-socket-according-to-new-leak-premium-nova-lake-s-motherboards-will-feature-2l-ilm-sockets",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.492405",
+    "insight": "Enhanced retention mechanism for high-end Nova Lake processors"
+  },
+  {
+    "title": "Acer Predator X27 X1 27-inch 240 Hz OLED gaming monitor review: Blending performance and value",
+    "summary": "The Acer Predator X27 X1 delivers high-performance gaming with its 240 Hz OLED display and 4K resolution, making it a solid value for gamers.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-x27-x1-27-inch-240-hz-oled-gaming-monitor-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-10T09:50:18.492520",
+    "insight": "Blending high speed and saturated color for immersive gaming experiences."
+  },
+  {
+    "title": "Under $30, GameSir's Super Nova wireless controller has an unbelievable 40% slashed off the price in this limited-time offer includes stick drift eliminating Hall Effect thumbsticks and switches",
+    "summary": "Get a fully loaded wireless gaming controller from GameSir for under $30 with a limited-time offer.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/under-usd30-gamesirs-super-nova-wireless-controller-has-an-unbelievable-40-percent-slashed-off-the-price-in-this-limited-time-offer-includes-stick-drift-eliminating-hall-effect-thumbsticks-and-switches",
+    "categories": [
+      "Semiconductors",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.939960",
-    "insight": "Gaming on-the-go just got significantly more affordable for enthusiasts."
+    "processed_date": "2026-04-10T09:50:18.492632",
+    "insight": "High-quality gaming tech at an unbeatable budget-friendly price point."
   },
   {
-    "title": "Snap up 32GB of Corsair Vengeance RAM for just $192 when you pair it with AMD's 9800X3D processor and Asus X870E motherboard for $1,054 bundle also includes a free 240mm AIO cooler and a copy of Crimson Desert",
-    "summary": "Get a high-performance PC bundle featuring 32GB Corsair Vengeance RAM, AMD 9800X3D, and a free AIO cooler, along with a copy of Crimson Desert, all for $1054.98.",
-    "link": "https://www.tomshardware.com/pc-components/snap-up-32gb-of-corsair-vengeance-ram-for-just-usd192-when-you-pair-it-with-amds-9800x3d-processor-and-asus-x870e-motherboard-for-usd1-054-bundle-also-includes-a-free-240mm-aio-cooler-and-a-copy-of-crimson-desert",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.940079",
-    "insight": "High-end components bundled at a competitive price point for enthusiasts."
-  },
-  {
-    "title": "Russian state hackers are hijacking TP-Link and MicroTik routers to steal Outlook credentials, cybersecurity center warns APT28 group targets DNS and redirects traffic to attacker-controlled servers",
-    "summary": "Russian state hackers are exploiting vulnerable routers to steal Outlook credentials. They target DHCP and DNS settings on small office and home office routers. This allows them to redirect traffic to attacker-controlled servers.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/ncsc-says-russian-gru-hackers-are-hijacking-tp-link-and-mikrotik-routers",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.940195",
-    "insight": "Russian state hackers exploit vulnerable routers to steal sensitive credentials"
-  },
-  {
-    "title": "be quiet! Pure Power 13 M 1200W supply review: Platinum-level efficiency, premium pricing",
-    "summary": "The Be Quiet! Pure Power 13 M 1200W offers exceptional build quality, Platinum-level efficiency, and a comprehensive 10-year warranty, but its premium pricing and limited connectivity are notable drawbacks.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/be-quiet-pure-power-13-m-1200w-supply-review-platinum-level-efficiency-premium-pricing",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.940308",
-    "insight": "High-end power supply with premium features at a high price point."
-  },
-  {
-    "title": "China intensifies efforts to poach semiconductor talent from Taiwan, claims report international restrictions motivate illicit efforts to obtain talent and equipment",
-    "summary": "China is allegedly increasing efforts to steal Taiwan's semiconductor technologies and know-how amid international restrictions.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-intensifies-efforts-to-poach-semiconductor-talent-from-taiwan-claims-report-international-restrictions-motivate-illicit-efforts-to-obtain-talent-and-equipment",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.940426",
-    "insight": "China's chip tech heists threaten global semiconductor supply chain stability."
-  },
-  {
-    "title": "Corsair's new customizer tool lets buyers trick out the Frame 4000D case configurator lets you explore every possible option for this highly modular enclosure",
-    "summary": "Corsair's new case customizer lets buyers personalize the Frame 4000D case with a wide range of options, from side panels to front-panel I/O configurations. This allows for highly modular and tailored enclosures that meet individual needs. The customizer tool makes it easy to explore every possible option.",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/corsairs-new-customizer-tool-lets-buyers-trick-out-the-frame-4000d-case-configurator-lets-you-explore-every-possible-option-for-this-highly-modular-enclosure",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.940537",
-    "insight": "Endless customization options for highly modular and tailored enclosures."
-  },
-  {
-    "title": "Sipeed T256s A USB thermal camera with 256 192 LWIR sensor, 640 480 AI super resolution",
-    "summary": "The Sipeed T256s is a portable USB thermal camera with a 256x192 LWIR sensor and AI-powered super-resolution up to 640x480 resolution. It features a 1.69-inch touchscreen, macro lens, internal storage, and durable CNC aluminum enclosure for efficient heat dissipation. It is designed for electronics R&D, industrial maintenance, and HVAC diagnostics.",
-    "link": "https://www.cnx-software.com/2026/04/09/sipeed-t256s-a-usb-thermal-camera-with-256x192-lwir-sensor-up-to-640x480-super-ai-resolution/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.941060",
-    "insight": "Real-time thermal imaging with AI-powered super-resolution enhances accuracy in diagnostics"
-  },
-  {
-    "title": "Flash Bee An ESP32-C3-based DIY handheld lightning detector",
-    "summary": "The Flash Bee is a DIY handheld lightning detector made with off-the-shelf components, utilizing the AMS AS3935 sensor to detect lightning up to 40 km away with 1km accuracy. It features a Seeed Studio XIAO ESP32-C3 board, a Round Display for XIAO, and a 3D-printed enclosure. The design is easy to reproduce and convenient to use.",
-    "link": "https://www.cnx-software.com/2026/04/09/flash-bee-an-esp32-c3-based-diy-handheld-lightning-detector/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.941223",
-    "insight": "Detects lightning up to 40 km away with 1km accuracy."
-  },
-  {
-    "title": "WeAct STM32U585CIU6 Core Mini An $8 STM32U5 board supported by MicroPython v1.28",
-    "summary": "The WeAct STM32U585CIU6 Core Mini is a low-cost, standalone STM32U5 MCU board priced at $8, supported by MicroPython v1.28. It features a ST STM32U585CIU6 Core Arm Cortex-M33 microcontroller with up to 160 MHz clock speed and 2048 KB flash memory.",
-    "link": "https://www.cnx-software.com/2026/04/08/weact-stm32u585ciu6-core-mini-stm32u5-board-supported-by-micropython-v1-28/",
+    "title": "Korean government to take action over soaring DRAM costs, including monitoring markets and pricing internet data plans to be restructured and recycled PCs to be distributed to vulnerable groups",
+    "summary": "The South Korean government is taking action to alleviate the impact of the DRAM and NAND crisis on its citizens.",
+    "link": "https://www.tomshardware.com/tech-industry/korean-government-to-take-action-over-soaring-dram-costs-including-monitoring-markets-and-pricing-internet-data-plans-to-be-restructured-and-recycled-pcs-to-be-distributed-to-vulnerable-groups",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.941390",
-    "insight": "Low-cost STM32U5 board expands MCU options for makers and hobbyists worldwide."
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.492745",
+    "insight": "Price volatility threatens vulnerable groups with limited digital access"
   },
   {
-    "title": "NASA shortens key radiation shielding demo on Artemis II flight",
-    "summary": "NASA has shortened a key radiation shielding demo on Artemis II due to time constraints. The decision was made to ensure the crew could prepare for Earth entry on Friday. This demo tested shielding materials for future lunar missions.",
-    "link": "https://www.fiercesensors.com/sensors/nasa-calls-key-radiation-protection-demo-artemis-flight",
+    "title": "Go maintainer joins collective klaxon about encryption-breaking quantum computers developer urges immediate switch to post-quantum methods to prevent worldwide disaster",
+    "summary": "Go maintainer warns of impending disaster due to quantum computers breaking encryption, urging a swift transition to post-quantum methods to prevent catastrophic consequences.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/go-maintainer-joins-collective-klaxon-about-encryption-breaking-quantum-computers-developer-urges-immediate-switch-to-post-quantum-methods-to-prevent-worldwide-disaster",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.492861",
+    "insight": "Quantum computers threaten global data security and economic stability immediately."
+  },
+  {
+    "title": "Steam files suggest Valve is developing internal'SteamGPT' AI bot aimed at tackling customer support tickets and CS2 anti-cheat",
+    "summary": "Leaked Steam files suggest Valve is developing an AI bot, 'SteamGPT', to assist with customer support and anti-cheat measures in CS2.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/steam-files-suggest-valve-is-developing-internal-steamgpt-ai-bot-aimed-at-tackling-customer-support-tickets-and-cs2-anti-cheat",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.492968",
+    "insight": "Valve aims to enhance efficiency with AI-powered customer support solutions."
+  },
+  {
+    "title": "$21 billion stolen from more than 1 million Americans due to cybercrime in 2025 $11 billion come from stolen crypto, $8.6 billion taken from investment scams, while AI-related attacks cost $893 million",
+    "summary": "The FBI reports $21 billion lost to online scams, with 55% involving cryptocurrency.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/usd21-billion-stolen-from-more-than-1-million-americans-due-to-cybercrime-in-2025-usd11-billion-come-from-stolen-crypto-usd8-6-billion-taken-from-investment-scams-while-ai-related-attacks-cost-usd893-million",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.493076",
+    "insight": "Cybercrime targeting Americans disproportionately affects vulnerable cryptocurrency holders."
+  },
+  {
+    "title": "Feature-rich Raspberry Pi CM5 carrier board offers dual Ethernet, quad RS485, 4G LTE/5G connectivity, and more",
+    "summary": "The Waveshare CM5-ETH-RS485-4G-BASE board offers a feature-rich platform for Raspberry Pi CM5 variants, featuring dual Ethernet, quad RS485, and 4G LTE/5G connectivity, along with other advanced interfaces and a wide power input range.",
+    "link": "https://www.cnx-software.com/2026/04/10/raspberry-pi-cm5-carrier-board-dual-ethernet-quad-rs485-4g-lte-5g/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-10T09:50:18.493617",
+    "insight": "Raspberry Pi gets a highly versatile industrial-grade carrier board upgrade."
+  },
+  {
+    "title": "Raspberry Pi SBC gets (analog and) digital radio HAT with AM, FM, DAB, DAB+, HD radio",
+    "summary": "Raspiaudio's Digital Radio V1 HAT brings AM/FM, DAB, and HD Radio support to Raspberry Pi SBCs, expanding their multimedia capabilities. The HAT is compatible with various Pi models and supports worldwide FM, AM, and DAB frequencies. Configuration and control can be done via CLI or web-based software.",
+    "link": "https://www.cnx-software.com/2026/04/10/raspberry-pi-sbc-gets-digital-radio-hat-with-am-fm-dab-dab-hd-radio/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-10T09:50:18.493784",
+    "insight": "Enhancing multimedia experiences on Raspberry Pi SBCs worldwide."
+  },
+  {
+    "title": "Open-source hardware DAB+ receiver combines ESP32 SoC with Skyworks SI4684 digital radio chip",
+    "summary": "PE5PVB's open-source hardware DAB+ receiver combines ESP32 SoC with Skyworks SI4684, offering a DIY DAB+ radio kit with features like WiFi, Bluetooth, and a color LCD display.",
+    "link": "https://www.cnx-software.com/2026/04/09/open-source-hardware-dab-receiver-combines-esp32-soc-with-skyworks-si4684-chip/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.493960",
+    "insight": "Enabling Europeans to build and customize their own digital radio devices locally."
+  },
+  {
+    "title": "Chip revenue to reach record $1.3T in 2026, including sensors",
+    "summary": "Gartner predicts record chip revenue of $1.3T in 2026, driven by sensors and AI demand. However, memory price inflation may lead to delayed or destroyed non-AI demand. This trend highlights the increasing importance of AI and sensor technologies.",
+    "link": "https://www.fiercesensors.com/electronics/chip-revenue-reach-record-13t-2026-including-sensors",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-10T09:50:18.494879",
+    "insight": "Memory price inflation threatens non-AI chip demand viability."
+  },
+  {
+    "title": "Artemis II: Building confidence in travel to Mars Hamblen",
+    "summary": "Artemis II aims to build confidence in Mars travel by addressing radiation safety concerns for astronauts. NASA has equipped the mission with radiation sensors and shielding to protect crew members from harmful radiation.",
+    "link": "https://www.fiercesensors.com/sensors/artemis-ii-building-confidence-travel-mars-hamblen",
     "categories": [
       "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-04-09T09:54:58.942315",
-    "insight": "Radiation protection is crucial for long-term lunar space travel"
+    "processed_date": "2026-04-10T09:50:18.494979",
+    "insight": "Radiation protection is crucial for human survival on long-duration Mars missions."
   },
   {
-    "title": "ChromeOS Flex gets a $3 USB installer to revive aging Windows PCs",
-    "summary": "Google partners with Back Market to offer ChromeOS Flex as a $3 USB installer, enabling users to revive aging Windows PCs and extend their lifespan. This partnership aims to promote ChromeOS Flex as a secure, sustainable, and fully supported alternative. The affordable installer makes ChromeOS Flex accessible to a wider audience.",
-    "link": "https://www.techspot.com/news/111999-google-offering-new-way-install-chromeos-flex-aging.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.942593",
-    "insight": "Revamping outdated PCs with sustainable, secure ChromeOS Flex alternatives"
-  },
-  {
-    "title": "Snapdragon X2 laptops launch with up to 18 cores, 5.0GHz clocks, and 80 TOPS NPU",
-    "summary": "Qualcomm's Snapdragon X2 laptops offer up to 18 cores, 5.0GHz clocks, and 80 TOPS NPU, targeting demanding workloads.",
-    "link": "https://www.techspot.com/news/111995-snapdragon-x2-laptops-reach-retail-aggressive-memory-display.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.942710",
-    "insight": "Revolutionizing high-performance computing with massive processing capabilities."
-  },
-  {
-    "title": "CIA deployed secret \"Ghost Murmur\" AI to track down missing airman in Iran",
-    "summary": "The CIA allegedly deployed a secret AI called Ghost Murmur to locate a missing airman in Iran. This AI is said to be able to detect heartbeats and voices from great distances. It is believed to have been used in a desert environment.",
-    "link": "https://www.techspot.com/news/111993-cia-deployed-secret-ghost-murmur-ai-track-down.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.942820",
-    "insight": "Advanced AI can revolutionize surveillance and search operations in challenging environments."
-  },
-  {
-    "title": "Amazon is ending support for these older Kindle and Kindle Fire devices",
-    "summary": "Amazon is ending support for older Kindle and Kindle Fire devices, starting with models dating back to 2007, including the original Kindle and Kindle Keyboard.",
-    "link": "https://www.techspot.com/news/111998-amazon-ending-support-older-kindle-kindle-fire-devices.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.942949",
-    "insight": "Users will lose access to digital content, updates, and services."
-  },
-  {
-    "title": "Anthropic unveils new powerful AI that finds software flaws, but says it's too dangerous to release",
-    "summary": "Anthropic's AI, Claude Mythos Preview, discovers software flaws but is deemed too dangerous for public use.",
-    "link": "https://www.techspot.com/news/111991-anthropic-deploys-unreleased-ai-model-hunt-software-flaws.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-09T09:54:58.943074",
-    "insight": "AI vulnerability detection poses risks of widespread exploitation and chaos"
-  },
-  {
-    "title": "LG's never-released rollable phone gets torn down, revealing wild engineering",
-    "summary": "LG's never-released rollable phone has been torn down, revealing its complex engineering. The phone uses a small motor to slide an extra screen out of the side. This design differs from foldable phones like the Galaxy Z Fold.",
-    "link": "https://www.techspot.com/news/111990-lg-never-released-rollable-phone-appeared-teardown.html",
+    "title": "A version of Windows 10 released a decade ago is now eligible for additional security patches",
+    "summary": "Microsoft is extending security patches for Windows 10 Enterprise LTSB 2016, first released in 2015, through Extended Security Updates (ESU), allowing users to continue using the operating system for several more years.",
+    "link": "https://www.techspot.com/news/112016-version-windows-10-released-decade-ago-now-eligible.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.943191",
-    "insight": "Innovative rollable design offers a new approach to screen expansion."
+    "processed_date": "2026-04-10T09:50:18.495284",
+    "insight": "Extended lifespan of outdated software reduces cybersecurity risks"
   },
   {
-    "title": "Motorola returns to tablets with Moto Pad, revamps Moto G Stylus smartphone",
-    "summary": "Motorola has introduced the Moto Pad, an 11-inch 2.5K tablet with 90Hz display and 5G capabilities.",
-    "link": "https://www.techspot.com/news/111994-motorola-returns-tablets-moto-pad-revamps-moto-g.html",
+    "title": "Iran-linked hackers are now targeting industrial controllers in US infrastructure",
+    "summary": "Iran-linked hackers target US industrial controllers via exploited vulnerabilities.",
+    "link": "https://www.techspot.com/news/112010-iran-linked-hackers-now-targeting-industrial-controllers-us.html",
     "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.943299",
-    "insight": "Motorola's return to the tablet market with a powerful device matters."
-  },
-  {
-    "title": "Apple and Samsung named the least repairable phone brands in new report",
-    "summary": "Apple and Samsung ranked lowest in repairability scores in a new study. The Failing the Fix 2026 report by the US Public Interest Research Group Education Fund highlights the difficulties of fixing these phones. This study aims to inform consumers about the environmental and financial implications.",
-    "link": "https://www.techspot.com/news/111996-new-report-names-apple-samsung-least-repairable-phone.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.943403",
-    "insight": "E-waste generated by non-repairable phones can harm the environment significantly."
-  },
-  {
-    "title": "MacBook Neo demand is so strong it's creating supply headaches for Apple",
-    "summary": "Apple's MacBook Neo is in high demand, causing supply chain issues. The laptop features Apple's A18 Pro processor repurposed from iPhone 16 Pro production. This decision may have contributed to the Neo's strong sales.",
-    "link": "https://www.techspot.com/news/111987-macbook-neo-demand-strong-creating-supply-headaches-apple.html",
-    "categories": [
-      "Hardware",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.943523",
-    "insight": "Repurposed chips drive demand and supply headaches for Apple."
+    "processed_date": "2026-04-10T09:50:18.495408",
+    "insight": "National security risks escalate with compromised critical infrastructure control."
   },
   {
-    "title": "Chrome finally gets vertical tabs, plus an improved Reading Mode",
-    "summary": "Chrome introduces vertical tabs and improved Reading Mode for desktop users, starting April 7. The vertical tab feature allows users to move the tab strip to a sidebar on the left. This feature aims to enhance user experience and productivity.",
-    "link": "https://www.techspot.com/news/111992-chrome-finally-gets-vertical-tabs-plus-improved-reading.html",
+    "title": "A weird macOS bug is blocking new network connections after 49 days of uptime",
+    "summary": "A macOS bug blocks new network connections after 49 days of uptime due to a 32-bit integer overflow in the XNU kernel, caused by tracking TCP timestamps.",
+    "link": "https://www.techspot.com/news/112012-weird-macos-bug-blocking-new-network-connections-after.html",
     "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.943627",
-    "insight": "Streamlined navigation boosts browsing efficiency and user satisfaction"
-  },
-  {
-    "title": "NASA just dropped new high-quality Moon photos from Artemis II",
-    "summary": "NASA has released high-resolution Moon photos from the Artemis II mission. The photos were taken by four astronauts who observed the far side of the Moon during the mission. The images are available for download on NASA's website and Flickr page.",
-    "link": "https://www.techspot.com/news/111986-nasa-dropped-new-high-quality-moon-photos-artemis.html",
-    "categories": [
-      "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.943742",
-    "insight": "First-ever direct human observations of the Moon's far side"
+    "processed_date": "2026-04-10T09:50:18.495546",
+    "insight": "Kernel bug disrupts network connections after prolonged system uptime."
   },
   {
-    "title": "Intel is in talks with Google and Amazon to power AI chips with new packaging tech",
-    "summary": "Intel is partnering with Google and Amazon to leverage new packaging tech for AI chips, shifting focus from back-end manufacturing to system-level design as AI workloads drive demand for specialized dies.",
-    "link": "https://www.techspot.com/news/111988-intel-talks-google-amazon-power-ai-chips-new.html",
+    "title": "NIH study identifies experimental opioid with strong pain relief and lower addiction risk",
+    "summary": "A new NIH study has identified an experimental opioid called DFNZ, which offers strong pain relief with lower addiction risk. This molecule is derived from a class of synthetic opioids that were initially explored in the mid-20th century. Modern pharmacological tools have been used to redesign them for greater safety.",
+    "link": "https://www.techspot.com/news/112008-nih-study-identifies-experimental-opioid-relieves-pain-less.html",
     "categories": [
-      "Semiconductors",
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-10T09:50:18.495678",
+    "insight": "Redesign of nitazenes may lead to safer opioid alternatives."
+  },
+  {
+    "title": "Ohio man pleads guilty in first case under federal law banning AI deepfakes",
+    "summary": "An Ohio man pleaded guilty to producing explicit AI deepfakes involving adults and minors. The deepfakes were created using AI software and manipulated real images of individuals from his community. The material was graphic and included scenes with individuals he personally knew, including children.",
+    "link": "https://www.techspot.com/news/112011-ohio-man-pleads-guilty-first-federal-ai-deepfake.html",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.943869",
-    "insight": "AI workloads require specialized dies stitched together for efficient processing."
+    "processed_date": "2026-04-10T09:50:18.495809",
+    "insight": "Protection of individuals' privacy and safety from AI-generated exploitation"
   },
   {
-    "title": "AMD Ryzen 5 5500X3D Review: AM4 Keeps on Giving",
-    "summary": "AMD's Ryzen 5 5500X3D brings 3D V-Cache tech to older AM4 sockets, tested in 14 games.",
-    "link": "https://www.techspot.com/review/3109-amd-ryzen-5500x3d/",
+    "title": "John Deere will pay $99 million in right-to-repair lawsuit, but admits nothing",
+    "summary": "John Deere agrees to pay $99 million in a right-to-repair lawsuit, denying wrongdoing.",
+    "link": "https://www.techspot.com/news/112015-john-deere-agrees-99-million-settlement-major-right.html",
     "categories": [
-      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.495912",
+    "insight": "Right-to-repair settlements may set precedent for industry-wide change"
+  },
+  {
+    "title": "Tech layoffs are piling up: 80,000 jobs cut in early 2026, and AI is getting the blame",
+    "summary": "Tech layoffs in early 2026 have surpassed 80,000 jobs, with AI often cited as the reason. However, experts argue that companies may be using AI as a convenient explanation for restructuring. The actual causes of job losses remain unclear.",
+    "link": "https://www.techspot.com/news/112006-tech-layoffs-hit-80000-early-2026-ai-blamed.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.496027",
+    "insight": "AI blamed for job losses may be a convenient corporate narrative."
+  },
+  {
+    "title": "Greece to ban social media for children under 15 starting next year",
+    "summary": "Greece plans to ban social media for children under 15 starting next year, with the legislation expected to pass this summer.",
+    "link": "https://www.techspot.com/news/112013-greece-ban-social-media-children-under-15-starting.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.496133",
+    "insight": "Protecting young minds from social media's potential negative impacts is a priority."
+  },
+  {
+    "title": "New report revives theory that cryptographer Adam Back could be Bitcoin creator Satoshi Nakamoto",
+    "summary": "Adam Back denies being Bitcoin creator Satoshi Nakamoto despite similarities.",
+    "link": "https://www.techspot.com/news/112002-new-report-revives-theory-cryptographer-adam-back-could.html",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.943993",
-    "insight": "Ryzen 5 5500X3D offers improved gaming performance at an affordable price."
+    "processed_date": "2026-04-10T09:50:18.496261",
+    "insight": "Public involvement in early Bitcoin development raises identity suspicions."
+  },
+  {
+    "title": "Anthropic just lost another round in its fight with the Pentagon",
+    "summary": "Anthropic remains locked out of DoD contracts due to a court ruling. A separate federal court had previously blocked the Trump administration's broader ban on Claude. The ruling affects Anthropic's ability to work with the Pentagon.",
+    "link": "https://www.techspot.com/news/112009-anthropic-loses-bid-pause-pentagon-blacklisting-ai-legal.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.496368",
+    "insight": "Pentagon's contract restrictions hinder AI development and potential applications."
+  },
+  {
+    "title": "Some Windows 3.1 apps were simply \"too evil\" for Windows 95 to support, says Microsoft veteran",
+    "summary": "Microsoft veteran Raymond Chen revealed that some Windows 3.1 apps were too difficult to support in Windows 95. Developers had to create custom solutions for compatibility. This process was crucial for the new OS.",
+    "link": "https://www.techspot.com/news/112000-windows-31-apps-simply-evil-windows-95-support.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.496484",
+    "insight": "Legacy compatibility challenges shaped Windows 95's development process."
+  },
+  {
+    "title": "AMD confirms Ryzen 9 9950X3D2 priced at $899",
+    "summary": "AMD confirms the Ryzen 9 9950X3D2 will be priced at $899, not $100 more than MSRP.",
+    "link": "https://www.techspot.com/news/112007-amd-confirms-ryzen-9-9950x3d2-priced-899-200.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.496591",
+    "insight": "Official price undercuts initial retailer price expectations by $100."
+  },
+  {
+    "title": "German police identify REvil and GandCrab mastermind now living in Russia",
+    "summary": "German police have identified a man linked to the REvil and GandCrab cybercrime groups. The individual, Shchukin, allegedly oversaw GandCrab from 2018 to 2019. His involvement marks a significant step in unmasking the groups' leadership.",
+    "link": "https://www.techspot.com/news/112001-german-police-identify-alleged-revil-gandcrab-mastermind-now.html",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.496706",
+    "insight": "Major breakthrough in unmasking cybercrime group leadership and operations"
+  },
+  {
+    "title": "After Wi-Fi 7's Speed Push, Wi-Fi 8 Is Turning to Reliability",
+    "summary": "Wi-Fi 8 focuses on reliability and lower latency over peak speeds. It aims to deliver more reliable wireless performance where it matters most. This shift prioritizes seamless connectivity over raw speed.",
+    "link": "https://www.techspot.com/article/3103-wifi-8/",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-10T09:50:18.496814",
+    "insight": "Reliability trumps speed for a smoother wireless experience always."
   }
 ]

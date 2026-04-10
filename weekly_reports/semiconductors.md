@@ -1,75 +1,145 @@
 # ⚡ Semiconductors
-**Week of April 09, 2026**
+**Week of April 10, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-04-09 09:56
+- **Articles this week:** 13
+- **Report generated:** 2026-04-10 09:51
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. WeAct STM32U585CIU6 Core Mini An $8 STM32U5 board supported by MicroPython v1.28 
+### 1. Raspberry Pi SBC gets (analog and) digital radio HAT with AM, FM, DAB, DAB+, HD radio ⭐
 
-The WeAct STM32U585CIU6 Core Mini is a low-cost, standalone STM32U5 MCU board priced at $8, supported by MicroPython v1.28. It features a ST STM32U585CIU6 Core Arm Cortex-M33 microcontroller with up to 160 MHz clock speed and 2048 KB flash memory.
+Raspiaudio's Digital Radio V1 HAT brings AM/FM, DAB, and HD Radio support to Raspberry Pi SBCs, expanding their multimedia capabilities. The HAT is compatible with various Pi models and supports worldwide FM, AM, and DAB frequencies. Configuration and control can be done via CLI or web-based software.
 
-💡 *Low-cost STM32U5 board expands MCU options for makers and hobbyists worldwide.*
+💡 *Enhancing multimedia experiences on Raspberry Pi SBCs worldwide.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/08/weact-stm32u585ciu6-core-mini-stm32u5-board-supported-by-micropython-v1-28/)
-
----
-
-### 2. Taiwanese chip makers call on government to stockpile helium, liquid natural gas TSIA pleads for strategic supplies as US and Iran sign ceasefire in Middle East 
-
-Taiwan's semiconductor industry alliance urges the government to stockpile helium and LNG to ensure stability during crises, citing the need for alternative suppliers and restarting nuclear power plants.
-
-💡 *Semiconductor supply chain resilience hinges on strategic gas stockpiling.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/taiwanese-chip-makers-call-on-government-to-stockpile-helium-lng-tsia-pleads-for-strategic-supplies-as-us-and-iran-sign-ceasefire-in-middle-east)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/10/raspberry-pi-sbc-gets-digital-radio-hat-with-am-fm-dab-dab-hd-radio/)
 
 ---
 
-### 3. China intensifies efforts to poach semiconductor talent from Taiwan, claims report international restrictions motivate illicit efforts to obtain talent and equipment 
+### 2. Feature-rich Raspberry Pi CM5 carrier board offers dual Ethernet, quad RS485, 4G LTE/5G connectivity, and more 
 
-China is allegedly increasing efforts to steal Taiwan's semiconductor technologies and know-how amid international restrictions.
+The Waveshare CM5-ETH-RS485-4G-BASE board offers a feature-rich platform for Raspberry Pi CM5 variants, featuring dual Ethernet, quad RS485, and 4G LTE/5G connectivity, along with other advanced interfaces and a wide power input range.
 
-💡 *China's chip tech heists threaten global semiconductor supply chain stability.*
+💡 *Raspberry Pi gets a highly versatile industrial-grade carrier board upgrade.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/china-intensifies-efforts-to-poach-semiconductor-talent-from-taiwan-claims-report-international-restrictions-motivate-illicit-efforts-to-obtain-talent-and-equipment)
-
----
-
-### 4. Motorola returns to tablets with Moto Pad, revamps Moto G Stylus smartphone 
-
-Motorola has introduced the Moto Pad, an 11-inch 2.5K tablet with 90Hz display and 5G capabilities.
-
-💡 *Motorola's return to the tablet market with a powerful device matters.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111994-motorola-returns-tablets-moto-pad-revamps-moto-g.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/10/raspberry-pi-cm5-carrier-board-dual-ethernet-quad-rs485-4g-lte-5g/)
 
 ---
 
-### 5. MacBook Neo demand is so strong it's creating supply headaches for Apple 
+### 3. NIH study identifies experimental opioid with strong pain relief and lower addiction risk 
 
-Apple's MacBook Neo is in high demand, causing supply chain issues. The laptop features Apple's A18 Pro processor repurposed from iPhone 16 Pro production. This decision may have contributed to the Neo's strong sales.
+A new NIH study has identified an experimental opioid called DFNZ, which offers strong pain relief with lower addiction risk. This molecule is derived from a class of synthetic opioids that were initially explored in the mid-20th century. Modern pharmacological tools have been used to redesign them for greater safety.
 
-💡 *Repurposed chips drive demand and supply headaches for Apple.*
+💡 *Redesign of nitazenes may lead to safer opioid alternatives.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111987-macbook-neo-demand-strong-creating-supply-headaches-apple.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112008-nih-study-identifies-experimental-opioid-relieves-pain-less.html)
 
 ---
 
-### 6. Intel is in talks with Google and Amazon to power AI chips with new packaging tech 
+### 4. After Wi-Fi 7's Speed Push, Wi-Fi 8 Is Turning to Reliability 
 
-Intel is partnering with Google and Amazon to leverage new packaging tech for AI chips, shifting focus from back-end manufacturing to system-level design as AI workloads drive demand for specialized dies.
+Wi-Fi 8 focuses on reliability and lower latency over peak speeds. It aims to deliver more reliable wireless performance where it matters most. This shift prioritizes seamless connectivity over raw speed.
 
-💡 *AI workloads require specialized dies stitched together for efficient processing.*
+💡 *Reliability trumps speed for a smoother wireless experience always.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111988-intel-talks-google-amazon-power-ai-chips-new.html)
+🔗 [Read Full Article](https://www.techspot.com/article/3103-wifi-8/)
+
+---
+
+### 5. Ambitious hacker reduces worst-case memory latency by up to 93%, but with severe downsides 1960s bottleneck overcome by hedging memory accesses to avoid running into DRAM refresh stalls 
+
+A software trick reduces worst-case memory latency by up to 93%, but has severe limitations. This technique, which works on both x86 and Arm, overcomes a 1960s bottleneck by avoiding DRAM refresh stalls. However, it is not without its downsides.
+
+💡 *Avoiding DRAM refresh stalls significantly reduces worst-case memory latency*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/ambitious-hacker-reduces-worst-case-memory-latency-by-up-to-93-percent-but-with-severe-downsides-1960s-bottleneck-overcome-by-hedging-memory-accesses-to-avoid-running-into-dram-refresh-stalls)
+
+---
+
+### 6. Fueled by Musk's TeraFab tie-in, Intel's market cap hits highest level in 25 years tops $300 billion on CPU, AI, and foundry momentum 
+
+Intel's market cap has reached over $300 billion, its highest level in 25 years, driven by momentum in AI, CPU, and foundry announcements.
+
+💡 *Intel's foundry business fuels record market capitalization growth.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/fueled-by-musks-terafab-tie-in-intels-market-cap-hits-highest-level-in-25-years-tops-usd300-billion-on-cpu-ai-and-foundry-momentum)
+
+---
+
+### 7. Bryson DeChambeau to use 3D-printed 5-iron at 2026 Masters in golfing first club he fabricated himself 'finally ready' to face Augusta 
+
+Bryson DeChambeau will use a 3D-printed 5-iron at the 2026 Masters.
+
+💡 *DeChambeau pioneers custom golf club fabrication with 3D printing technology.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/bryson-dechambeau-to-use-3d-printed-5-iron-at-2026-masters-in-golfing-first-club-he-fabricated-himself-finally-ready-to-face-augusta)
+
+---
+
+### 8. Under $30, GameSir's Super Nova wireless controller has an unbelievable 40% slashed off the price in this limited-time offer includes stick drift eliminating Hall Effect thumbsticks and switches 
+
+Get a fully loaded wireless gaming controller from GameSir for under $30 with a limited-time offer.
+
+💡 *High-quality gaming tech at an unbeatable budget-friendly price point.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/under-usd30-gamesirs-super-nova-wireless-controller-has-an-unbelievable-40-percent-slashed-off-the-price-in-this-limited-time-offer-includes-stick-drift-eliminating-hall-effect-thumbsticks-and-switches)
+
+---
+
+### 9. Korean government to take action over soaring DRAM costs, including monitoring markets and pricing internet data plans to be restructured and recycled PCs to be distributed to vulnerable groups 
+
+The South Korean government is taking action to alleviate the impact of the DRAM and NAND crisis on its citizens.
+
+💡 *Price volatility threatens vulnerable groups with limited digital access*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/korean-government-to-take-action-over-soaring-dram-costs-including-monitoring-markets-and-pricing-internet-data-plans-to-be-restructured-and-recycled-pcs-to-be-distributed-to-vulnerable-groups)
+
+---
+
+### 10. Open-source hardware DAB+ receiver combines ESP32 SoC with Skyworks SI4684 digital radio chip 
+
+PE5PVB's open-source hardware DAB+ receiver combines ESP32 SoC with Skyworks SI4684, offering a DIY DAB+ radio kit with features like WiFi, Bluetooth, and a color LCD display.
+
+💡 *Enabling Europeans to build and customize their own digital radio devices locally.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/09/open-source-hardware-dab-receiver-combines-esp32-soc-with-skyworks-si4684-chip/)
+
+---
+
+### 11. Iran-linked hackers are now targeting industrial controllers in US infrastructure 
+
+Iran-linked hackers target US industrial controllers via exploited vulnerabilities.
+
+💡 *National security risks escalate with compromised critical infrastructure control.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112010-iran-linked-hackers-now-targeting-industrial-controllers-us.html)
+
+---
+
+### 12. German police identify REvil and GandCrab mastermind now living in Russia 
+
+German police have identified a man linked to the REvil and GandCrab cybercrime groups. The individual, Shchukin, allegedly oversaw GandCrab from 2018 to 2019. His involvement marks a significant step in unmasking the groups' leadership.
+
+💡 *Major breakthrough in unmasking cybercrime group leadership and operations*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112001-german-police-identify-alleged-revil-gandcrab-mastermind-now.html)
+
+---
+
+### 13. Chip revenue to reach record $1.3T in 2026, including sensors 
+
+Gartner predicts record chip revenue of $1.3T in 2026, driven by sensors and AI demand. However, memory price inflation may lead to delayed or destroyed non-AI demand. This trend highlights the increasing importance of AI and sensor technologies.
+
+💡 *Memory price inflation threatens non-AI chip demand viability.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/electronics/chip-revenue-reach-record-13t-2026-including-sensors)
 
 ---
 

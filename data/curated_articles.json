@@ -1,343 +1,336 @@
 [
   {
-    "title": "10 petabytes of sensitive data stolen from China's National Supercomputing Center, hackers claim daring heist would be largest ever China hack, covering 6,000 clients across science, defense, and beyond",
-    "summary": "Hacker or hacker group steals secret data concerning aerospace engineering, bioinformatics, fusion modeling from China's National Supercomputing Center.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/10-petabytes-of-sensitive-data-stolen-from-chinas-national-supercomputing-center-hackers-claim-daring-heist-would-be-largest-ever-china-hack-covering-6-000-clients-across-science-defense-and-beyond",
+    "title": "Ambitious hacker reduces worst-case memory latency by up to 93%, but with severe downsides 1960s bottleneck overcome by hedging memory accesses to avoid running into DRAM refresh stalls",
+    "summary": "The clever software trick works on both x86 and Arm to radically reduce worst-case memory latency, but it has severe limitations, too.",
+    "link": "https://www.tomshardware.com/software/ambitious-hacker-reduces-worst-case-memory-latency-by-up-to-93-percent-but-with-severe-downsides-1960s-bottleneck-overcome-by-hedging-memory-accesses-to-avoid-running-into-dram-refresh-stalls",
     "categories": [
-      "AI & ML"
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.938832"
+    "processed_date": "2026-04-10T09:50:18.491623"
   },
   {
-    "title": "Intel and SambaNova team up on heterogenous AI inference platform different hardware performs different workloads",
-    "summary": "Intel and SambaNova announce heterogeneous inference platform that can take advantage of Intel Xeon 6 CPUs, SambaNova SN50 RDUs, and Nvidia GPUs.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-and-sambanova-team-up-on-heterogenous-ai-inference-platform-different-hardware-performs-different-workloads",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.938985"
-  },
-  {
-    "title": "PCI Express roadmap: The path to 1TB/s with PCI 8.0, the challenges of integration, and beyond",
-    "summary": "We take a deep-dive into the past, present, and future of the ubiquitous PCIe standard, and look ahead at the challenges that await manufacturers when integrating PCIe 6.0 and beyond into real-world hardware.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/pci-express-roadmap-the-path-to-1tb-s-with-pci-8-0-the-challenges-of-integration-and-beyond",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.939108"
-  },
-  {
-    "title": "AMD reveals $899 price tag for Ryzen 9 9950X3D2 first dual-cache X3D CPU is $200 more expensive than the Ryzen 9 9950X3D",
-    "summary": "AMD revealed its upcoming Ryzen 9 9950X3D2 will launch for $899 on April 22, which marks a $200 price increase over the previous Ryzen 9 9950X3D.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-reveals-usd899-price-tag-for-ryzen-9-9950x3d2-first-dual-cache-x3d-cpu-is-usd200-more-expensive-than-the-ryzen-9-9950x3d",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.939224"
-  },
-  {
-    "title": "Bain Capital's data center unit removes disgraced tenant suspected of smuggling Nvidia GPUs to China Megaspeed previously alleged to have spent roughly $2 billion on AI processors for illicit distribution",
-    "summary": "Megaspeed gets final nail in its coffin after Bridge Data Centers cancels its tenancy and replaces it with U.S.-based Zenplayer.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bain-capitals-data-center-unit-removes-disgraced-tenant-suspected-of-smuggling-nvidia-gpus-to-china-megaspeed-previously-alleged-to-have-spent-roughly-usd2-billion-on-ai-processors-for-illicit-distribution",
+    "title": "Intel Arc GPUs can finally boot up and play 'Crimson Desert' but you'll probably want to wait for official support",
+    "summary": "Intel's latest GPU driver is capable of booting Crimson Desert and can reportedly run at nearly 60 FPS at ultra settings on an Arc B580. But the game suffers from occasional crashing and visual artifacts.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/intel-arc-gpus-can-finally-boot-up-and-play-crimson-desert-but-youll-probably-want-to-wait-for-official-support",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.939345"
+    "processed_date": "2026-04-10T09:50:18.491751"
   },
   {
-    "title": "British cryptographer Adam Back is the secret creator of Bitcoin, claims new report Back refutes investigation, says parallels to Satoshi are just a coincidence",
-    "summary": "The hunt for Satoshi Nakamoto has circled back to a likely candidate, Adam Back, thanks to a New York Times article that draws striking parallels between the two. Back denies being Satoshi, saying it's all just a coincidence and confirmation bias on behalf of the reporter. The 40-page-long investigation goes over decades of evidence to try to prove otherwise.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/british-cryptographer-adam-back-is-the-secret-creator-of-bitcoin-claims-new-report-back-refutes-investigation-says-parallels-to-satoshi-are-just-a-coincidence",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.939473"
-  },
-  {
-    "title": "Asus ROG Xbox Ally review: The cheapest Windows handheld gets points for showing up",
-    "summary": "The Asus ROG Xbox Ally is the cheapest Windows-based PC gaming handheld you can get right now, but some technical hitches and a mediocre processor don't help it shine next to the Steam Deck OLED.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-ryzen-z2-a-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-09T09:54:58.939608"
-  },
-  {
-    "title": "A brief history of Denuvo DRM and the new hypervisor bypass inside the cat-and-mouse game between Denuvo and the piracy scene",
-    "summary": "A brief history of Denuvo DRM and the new hypervisor bypass.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/a-brief-history-of-denuvo-drm-and-the-new-hypervisor-bypass-inside-the-cat-and-mouse-game-between-denuvo-and-the-piracy-scene",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-09T09:54:58.939708"
-  },
-  {
-    "title": "Taiwanese chip makers call on government to stockpile helium, liquid natural gas TSIA pleads for strategic supplies as US and Iran sign ceasefire in Middle East",
-    "summary": "Taiwan's semiconductor industry alliance is urging the government to expand its strategic stockpiles of LNG and helium, find alternative suppliers, and restart nuclear power plants to ensure stability during times of crisis.",
-    "link": "https://www.tomshardware.com/tech-industry/taiwanese-chip-makers-call-on-government-to-stockpile-helium-lng-tsia-pleads-for-strategic-supplies-as-us-and-iran-sign-ceasefire-in-middle-east",
+    "title": "Fueled by Musk's TeraFab tie-in, Intel's market cap hits highest level in 25 years tops $300 billion on CPU, AI, and foundry momentum",
+    "summary": "Intel tops $300 billion, its highest market capitalization in 25 years on AI, CPU, and foundry announcements momentum.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/fueled-by-musks-terafab-tie-in-intels-market-cap-hits-highest-level-in-25-years-tops-usd300-billion-on-cpu-ai-and-foundry-momentum",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.939827"
+    "processed_date": "2026-04-10T09:50:18.491870"
   },
   {
-    "title": "Get $100 off the ROG Xbox Ally handheld Ryzen Z2 A-powered version with 16GB of RAM is under $500 again",
-    "summary": "Powered by AMD s Ryzen Z2 A chip and featuring a 120Hz display, the ROG Xbox Ally is now cheaper than ever",
-    "link": "https://www.tomshardware.com/pc-components/get-usd100-off-the-rog-xbox-ally-handheld-ryzen-z2-a-powered-version-with-16gb-of-ram-is-under-usd500-again",
+    "title": "Geekbench 6.7 adds Intel BOT detection to spoof out 'unrealistic' CPU scores Benchmark runs with BOT enabled will be marked as invalid",
+    "summary": "Geekbench 6.7 comes with Intel BOT detection to ensure any runs using it are flagged. The developer argues BOT gives unrealistic performance bumps to select workloads that don't represent real-world performance.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/geekbench-6-7-adds-intel-bot-detection-to-spoof-out-unrealistic-cpu-scores-benchmark-runs-with-bot-enabled-will-be-marked-as-invalid",
     "categories": [
-      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-10T09:50:18.491989"
+  },
+  {
+    "title": "Bryson DeChambeau to use 3D-printed 5-iron at 2026 Masters in golfing first club he fabricated himself 'finally ready' to face Augusta",
+    "summary": "Bryson DeChambeau will use a 3D-printed 5-iron at the Masters this weekend.",
+    "link": "https://www.tomshardware.com/3d-printing/bryson-dechambeau-to-use-3d-printed-5-iron-at-2026-masters-in-golfing-first-club-he-fabricated-himself-finally-ready-to-face-augusta",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.492134"
+  },
+  {
+    "title": "UK navy tracked three Russian submarines near undersea cables, damage would 'have serious consequences,' Putin warned US and allies expand seabed protection efforts",
+    "summary": "A Royal Navy warship and P8 maritime patrol aircraft have tracked three Russian submarines, including two Gugi-class deep-sea vessels, attempting to survey undersea cables and pipelines.",
+    "link": "https://www.tomshardware.com/tech-industry/uk-navy-tracked-russian-submarines-near-undersea-cables",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.492267"
+  },
+  {
+    "title": "Intel developing two-lever retention mechanism for LGA 1954 socket, according to new leak Premium Nova Lake-S motherboards will feature 2L-ILM sockets",
+    "summary": "Some high-end motherboards for Intel's upcoming Nova Lake processors have been tipped to include a dual-lever retention mechanism called \"2L-ILM.\" We've seen something similar before with LGA 2011, but that a server platform. Boards with 2L-ILM will live alongside standard ILM (1L-ILM?) variants that are cheaper to produce.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-developing-two-lever-retention-mechanism-for-lga-1954-socket-according-to-new-leak-premium-nova-lake-s-motherboards-will-feature-2l-ilm-sockets",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.492405"
+  },
+  {
+    "title": "Acer Predator X27 X1 27-inch 240 Hz OLED gaming monitor review: Blending performance and value",
+    "summary": "Acer delivers a solid value with the Predator X27 X1. It s a 27-inch QD-OLED gaming monitor with 4K resolution, 240 Hz, Adaptive-Sync, HDR400, and wide gamut color. It delivers high speed and saturated color in equal measure.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-x27-x1-27-inch-240-hz-oled-gaming-monitor-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-10T09:50:18.492520"
+  },
+  {
+    "title": "Under $30, GameSir's Super Nova wireless controller has an unbelievable 40% slashed off the price in this limited-time offer includes stick drift eliminating Hall Effect thumbsticks and switches",
+    "summary": "A fully loaded wireless gaming controller from GameSir for under $30.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/under-usd30-gamesirs-super-nova-wireless-controller-has-an-unbelievable-40-percent-slashed-off-the-price-in-this-limited-time-offer-includes-stick-drift-eliminating-hall-effect-thumbsticks-and-switches",
+    "categories": [
+      "Semiconductors",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.939960"
+    "processed_date": "2026-04-10T09:50:18.492632"
   },
   {
-    "title": "Snap up 32GB of Corsair Vengeance RAM for just $192 when you pair it with AMD's 9800X3D processor and Asus X870E motherboard for $1,054 bundle also includes a free 240mm AIO cooler and a copy of Crimson Desert",
-    "summary": "A premium Asus ROG Strix X870E motherboard, 9800X3D, 32GB Corsair Vengeance RAM, a free AIO cooler, and a copy of Crimson Desert are yours for just $1054.98",
-    "link": "https://www.tomshardware.com/pc-components/snap-up-32gb-of-corsair-vengeance-ram-for-just-usd192-when-you-pair-it-with-amds-9800x3d-processor-and-asus-x870e-motherboard-for-usd1-054-bundle-also-includes-a-free-240mm-aio-cooler-and-a-copy-of-crimson-desert",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.940079"
-  },
-  {
-    "title": "Russian state hackers are hijacking TP-Link and MicroTik routers to steal Outlook credentials, cybersecurity center warns APT28 group targets DNS and redirects traffic to attacker-controlled servers",
-    "summary": "The UK National Cyber Security Centre says that Russian state hackers have been exploiting vulnerable small office and home office routers since 2024 to overwrite their DHCP and DNS settings",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/ncsc-says-russian-gru-hackers-are-hijacking-tp-link-and-mikrotik-routers",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.940195"
-  },
-  {
-    "title": "be quiet! Pure Power 13 M 1200W supply review: Platinum-level efficiency, premium pricing",
-    "summary": "The Be Quiet! Pure Power 13 M 1200W combines exceptional build quality from CWT with Platinum-level efficiency and a comprehensive 10-year warranty, though its limited connectivity and premium pricing demand careful consideration.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/be-quiet-pure-power-13-m-1200w-supply-review-platinum-level-efficiency-premium-pricing",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.940308"
-  },
-  {
-    "title": "China intensifies efforts to poach semiconductor talent from Taiwan, claims report international restrictions motivate illicit efforts to obtain talent and equipment",
-    "summary": "Taiwan's National Security Bureau claims that China is intensifying efforts to steal semiconductor process technologies and other chip-related know-how from Taiwan as international restrictions get more severe.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-intensifies-efforts-to-poach-semiconductor-talent-from-taiwan-claims-report-international-restrictions-motivate-illicit-efforts-to-obtain-talent-and-equipment",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.940426"
-  },
-  {
-    "title": "Corsair's new customizer tool lets buyers trick out the Frame 4000D case configurator lets you explore every possible option for this highly modular enclosure",
-    "summary": "Corsair has launched a new case customizer for its Frame 4000D that allows buyers to change almost anything about the enclosure, from the side panel to the front-panel I/O configuration.",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/corsairs-new-customizer-tool-lets-buyers-trick-out-the-frame-4000d-case-configurator-lets-you-explore-every-possible-option-for-this-highly-modular-enclosure",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.940537"
-  },
-  {
-    "title": "Sipeed T256s A USB thermal camera with 256 192 LWIR sensor, 640 480 AI super resolution",
-    "summary": "Sipeed T256s is a portable USB thermal camera equipped with a native 256 192 Long-Wave Infrared (LWIR) sensor and a built-in 2.4 TOPS NPU for hardware-level AI super-resolution (ISR) up to 640 480 resolution in real time, effectively suppressing image noise without external software. The UVC camera device supports standard output (Y16 raw and MJPEG) and features both male and female USB Type-C ports on opposite ends for connection to PCs and smartphones. It also includes a 1.69-inch touchscreen for standalone operation with live viewing, palette switching, hotspot tracking, and image capture. Other features include an optional macro lens (~5 cm focus) for inspecting small components, internal storage for snapshots, <50 mK thermal sensitivity, a 25 Hz frame rate, and a durable CNC aluminum enclosure for efficient heat dissipation. The device is designed for electronics R&D, industrial maintenance, and HVAC diagnostics. Sipeed T256s specifications: SoC Not mentioned; Probably based on an [...] The post Sipeed T256s A USB thermal camera with 256 192 LWIR sensor, 640 480 AI super resolution appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/09/sipeed-t256s-a-usb-thermal-camera-with-256x192-lwir-sensor-up-to-640x480-super-ai-resolution/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.941060"
-  },
-  {
-    "title": "Flash Bee An ESP32-C3-based DIY handheld lightning detector",
-    "summary": "Flash Bee is an easy-to-make DIY handheld lightning detector based on off-the-shelf parts such as the XIAO ESP32C3 board and the Round Display for XIAO, as well as a 3D-printed enclosure. The design relies on the AMS AS3935 Franklin lightning sensor that s been around for years, and found in kits like Sparkfun s Arduino IoT weather station, which is capable of detecting lightning up to 40 km away with 1km accuracy. While it s not quite new technology, I found the Flash Bee design to be rather cute and convenient, and it looks really easy to reproduce. Flash Bee key components: Seeed Studio XIAO ESP32-C3 with Wi-Fi 4 & Bluetooth LE 5.0 connectivity ($4.90) Round Display for XIAO 1.28-inch touchscreen display with 240 240 resolution, 65K colors, 100 Hz refresh rate ($18) Grove Lightning Sensor AS3935 ($26.90, alternative link if out of stock) 3.7V 400mAh LiPo battery Slide switch 2x M2 5mm [...] The post Flash Bee An ESP32-C3-based DIY handheld lightning detector appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/09/flash-bee-an-esp32-c3-based-diy-handheld-lightning-detector/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.941223"
-  },
-  {
-    "title": "WeAct STM32U585CIU6 Core Mini An $8 STM32U5 board supported by MicroPython v1.28",
-    "summary": "While checking out MicroPython v1.28 changelog, I noticed a board from WeAct Studio based on ST s STM32U5 Cortex-M33 microcontroller: the WeAct STM32U585CIU6 Mini Core board (WEACTSTUDIO_MINI_STM32U585 in MicroPython code). I found it interesting/newsworthy, as while I had written about the initial STM32U5 MCU release in 2021, and followed up with beefier STM32U5 SKUs with NeoChrom 2.5D GPU and up to 4MB flash in 2023, we had yet to cover a third-party board based on an STM32U5 MCU, excluding the Arduino UNO Q SBC running Linux on a Qualcomm QRB2210 MPU and using an STM32U585 for real-time and I/O control. The WeAct STM32U585CIU6 Core Mini changes that as a low-cost, standalone STM32U5 MCU board. WeAct STM32U585CIU6 Core Mini specifications: Microcontroller ST STM32U585CIU6 Core Arm Cortex-M33 Armv8-M core clocked at up to 160 MHz with FPU, Arm TrustZone Memory 768 KB RAM Flash 2048 KB flash GPU [...] The post WeAct STM32U585CIU6 Core Mini An $8 STM32U5 board supported by MicroPython v1.28 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/08/weact-stm32u585ciu6-core-mini-stm32u5-board-supported-by-micropython-v1-28/",
+    "title": "Korean government to take action over soaring DRAM costs, including monitoring markets and pricing internet data plans to be restructured and recycled PCs to be distributed to vulnerable groups",
+    "summary": "South Korea is taking government action to reduce the pressure of the DRAM and NAND crisis on its population.",
+    "link": "https://www.tomshardware.com/tech-industry/korean-government-to-take-action-over-soaring-dram-costs-including-monitoring-markets-and-pricing-internet-data-plans-to-be-restructured-and-recycled-pcs-to-be-distributed-to-vulnerable-groups",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.941390"
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.492745"
   },
   {
-    "title": "NASA shortens key radiation shielding demo on Artemis II flight",
-    "summary": "The decision to forego the full demo was made to allow crew to prepare the cabin for Earth entry on Friday.",
-    "link": "https://www.fiercesensors.com/sensors/nasa-calls-key-radiation-protection-demo-artemis-flight",
+    "title": "Go maintainer joins collective klaxon about encryption-breaking quantum computers developer urges immediate switch to post-quantum methods to prevent worldwide disaster",
+    "summary": "Go maintainer joins collective klaxon about encryption-breaking quantum computers and urges immediate switch to post-quantum methods to prevent disaster.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/go-maintainer-joins-collective-klaxon-about-encryption-breaking-quantum-computers-developer-urges-immediate-switch-to-post-quantum-methods-to-prevent-worldwide-disaster",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.492861"
+  },
+  {
+    "title": "Steam files suggest Valve is developing internal'SteamGPT' AI bot aimed at tackling customer support tickets and CS2 anti-cheat",
+    "summary": "Leaked Steam files show that Valve is developing a \"SteamGPT\" AI bot that will help its employees with customer support and anti-cheat in CS2.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/steam-files-suggest-valve-is-developing-internal-steamgpt-ai-bot-aimed-at-tackling-customer-support-tickets-and-cs2-anti-cheat",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.492968"
+  },
+  {
+    "title": "$21 billion stolen from more than 1 million Americans due to cybercrime in 2025 $11 billion come from stolen crypto, $8.6 billion taken from investment scams, while AI-related attacks cost $893 million",
+    "summary": "The FBI breaks down the $21 billion lost by over a million Americans through online scams, with more than half involving cryptocurrency.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/usd21-billion-stolen-from-more-than-1-million-americans-due-to-cybercrime-in-2025-usd11-billion-come-from-stolen-crypto-usd8-6-billion-taken-from-investment-scams-while-ai-related-attacks-cost-usd893-million",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.493076"
+  },
+  {
+    "title": "Feature-rich Raspberry Pi CM5 carrier board offers dual Ethernet, quad RS485, 4G LTE/5G connectivity, and more",
+    "summary": "Waveshare CM5-ETH-RS485-4G-BASE Raspberry Pi CM5 carrier board offers plenty of features such as GbE and 2.5GbE RJ45 jacks, optional 4G LTE/5G connectivity, terminal blocks for RS485, relay, and digital outputs, and more. The board also features a 4K-capable HDMI output, an M.2 Key-M socket for an NVMe SSD or AI accelerator, two MIPI DSI/CSI connectors, ten status and user LEDs, and a wide 7-36V DC power input. Waveshare CM5-ETH-RS485-4G-BASE specifications: Supported system-on-modules All Raspberry Pi Compute Module 5 variants with up to 16GB RAM, 64GB eMMC flash, Wireless Storage Optional NVMe SSD via M.2 Key-M socket MicroSD card socket for Compute Module 5 Lite only Video Output HDMI 2.0 port up to 4K resolution 2x MIPI DSI connectors (multiplexed with MIPI CSI) Camera I/F 2x MIPI CSI connectors (multiplexed with MIPI DSI) Networking Gigabit Ethernet RJ45 port 2.5GbE RJ45 port Optional WiFi 5 and Bluetooth 5.2 on Raspberry [...] The post Feature-rich Raspberry Pi CM5 carrier board offers dual Ethernet, quad RS485, 4G LTE/5G connectivity, and more appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/10/raspberry-pi-cm5-carrier-board-dual-ethernet-quad-rs485-4g-lte-5g/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-10T09:50:18.493617"
+  },
+  {
+    "title": "Raspberry Pi SBC gets (analog and) digital radio HAT with AM, FM, DAB, DAB+, HD radio",
+    "summary": "Yesterday, I wrote about a 2-year-old open-source hardware ESP32-based DAB+ receiver project, but it turns out there s also a digital radio project for the Raspberry Pi that was released about three weeks ago. Raspiaudio s Digital Radio V1 HAT adds AM/FM, DAB/DAB+, and HD Radio support to any Raspberry Pi SBC with a 40-pin GPIO header and is supported by CLI or web-based software for configuration and control. Digital Radio V1 HAT specifications: Supported SBCs Raspberry Pi Zero 1/2, Raspberry Pi 4/5, etc Digital radio receiver chip Skyworth Si4689-A10 (see product brief) Worldwide FM band support (76 to 108 MHz) Worldwide AM band support (520 to 1710 kHz) DAB, DAB+ Band III support (168 to 240 MHz) Advanced RDS/RBDS decoder FM HD Radio support with on-chip IBOC blend (note from Raspiaudio: subject to licensing. Please verify that you are legally allowed to use it in your country and [...] The post Raspberry Pi SBC gets (analog and) digital radio HAT with AM, FM, DAB, DAB+, HD radio appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/10/raspberry-pi-sbc-gets-digital-radio-hat-with-am-fm-dab-dab-hd-radio/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-10T09:50:18.493784"
+  },
+  {
+    "title": "Open-source hardware DAB+ receiver combines ESP32 SoC with Skyworks SI4684 digital radio chip",
+    "summary": "When I wrote about a DIY ESP32-S3 internet radio last week, raspbeguy commented he d rather choose an ESP32-based DIY DAB+ receiver kit, such as the one offered by the PE5PVB project based on a Skyworth SI4684 receiver. I first heard about DAB (Digital Audio Broadcast) in 2003 when we considered adding it to a CD player. It s basically the digital equivalent of analog FM/AM radios, and I haven t heard much about it since DAB and the new DAB+ standard are mostly a European story (see coverage map below). PE5PVB s open-source hardware DAB receiver might still be worth a look. PE5PVB s SI4684 ESP32 DAB+ receiver features: Controller ESP32 microcontroller with WiFi and Bluetooth (DoIT ESP32 devkit v1) Storage MicroSD card slot Display Color LCD screen with 320 240 resolution (SPI) Audio 2x RCA connectors for speakers 3.5mm headphone jack with amplifier DAB+ receiver Skyworks SI4684 loaded with DAB+ [...] The post Open-source hardware DAB+ receiver combines ESP32 SoC with Skyworks SI4684 digital radio chip appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/09/open-source-hardware-dab-receiver-combines-esp32-soc-with-skyworks-si4684-chip/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.493960"
+  },
+  {
+    "title": "Chip revenue to reach record $1.3T in 2026, including sensors",
+    "summary": "Gartner says memory price inflation will destroy or delay non-AI demand",
+    "link": "https://www.fiercesensors.com/electronics/chip-revenue-reach-record-13t-2026-including-sensors",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-10T09:50:18.494879"
+  },
+  {
+    "title": "Artemis II: Building confidence in travel to Mars Hamblen",
+    "summary": "Radiation safety is a key concern for astronauts and NASA has provisioned radiation sensors and shielding for protection",
+    "link": "https://www.fiercesensors.com/sensors/artemis-ii-building-confidence-travel-mars-hamblen",
     "categories": [
       "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-04-09T09:54:58.942315"
+    "processed_date": "2026-04-10T09:50:18.494979"
   },
   {
-    "title": "ChromeOS Flex gets a $3 USB installer to revive aging Windows PCs",
-    "summary": "Google has partnered with Back Market, a company specializing in refurbished tech products, to bring ChromeOS Flex to even more users and organizations. The advertising giant continues to promote ChromeOS Flex as a way to turn aging laptops into secure, sustainable, and fully supported machines. Thanks to the new partnership,... Read Entire Article",
-    "link": "https://www.techspot.com/news/111999-google-offering-new-way-install-chromeos-flex-aging.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.942593"
-  },
-  {
-    "title": "Snapdragon X2 laptops launch with up to 18 cores, 5.0GHz clocks, and 80 TOPS NPU",
-    "summary": "Snapdragon X2 is Qualcomm's second-generation Windows PC platform, introduced in September 2025, with devices expected in the first half of 2026. The family includes the Snapdragon X2 Elite and the higher-tier X2 Elite Extreme, which targets more demanding workloads. Read Entire Article",
-    "link": "https://www.techspot.com/news/111995-snapdragon-x2-laptops-reach-retail-aggressive-memory-display.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.942710"
-  },
-  {
-    "title": "CIA deployed secret \"Ghost Murmur\" AI to track down missing airman in Iran",
-    "summary": "According to two sources cited by the New York Post, Ghost Murmur can detect heartbeats from miles away. One source described it as being able to hear a voice in a large stadium, \"except the stadium is a thousand square miles of desert.\" The sources also claimed that the tool... Read Entire Article",
-    "link": "https://www.techspot.com/news/111993-cia-deployed-secret-ghost-murmur-ai-track-down.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.942820"
-  },
-  {
-    "title": "Amazon is ending support for these older Kindle and Kindle Fire devices",
-    "summary": "The list of devices stretches all the way back to the original 2007 Kindle and includes the Kindle 2, Kindle DX, Kindle DX Graphite, Kindle Keyboard, Kindle 4, Kindle Touch, Kindle 5, and the first-generation Kindle Paperwhite. Read Entire Article",
-    "link": "https://www.techspot.com/news/111998-amazon-ending-support-older-kindle-kindle-fire-devices.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.942949"
-  },
-  {
-    "title": "Anthropic unveils new powerful AI that finds software flaws, but says it's too dangerous to release",
-    "summary": "In Project Glasswing, announced Tuesday, the company is giving a select group of major tech and financial firms access to Claude Mythos Preview, a frontier model that has already uncovered thousands of previously unknown software vulnerabilities. Anthropic says the model is too dangerous to release to the general public. Read Entire Article",
-    "link": "https://www.techspot.com/news/111991-anthropic-deploys-unreleased-ai-model-hunt-software-flaws.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-09T09:54:58.943074"
-  },
-  {
-    "title": "LG's never-released rollable phone gets torn down, revealing wild engineering",
-    "summary": "JerryRigEverything has taken apart a working unit of the never-released LG Rollable on camera. The basic premise with these devices was that instead of folding open like a Galaxy Z Fold, the Rollable uses a small motor to slide an extra screen out of the side. With a simple swipe... Read Entire Article",
-    "link": "https://www.techspot.com/news/111990-lg-never-released-rollable-phone-appeared-teardown.html",
+    "title": "A version of Windows 10 released a decade ago is now eligible for additional security patches",
+    "summary": "Did Microsoft really retire Windows 10 in October 2025? The company is now offering additional options to further extend the lifespan of an operating system first released in 2015. Redmond's updated plans include several more years of security patches for Windows 10 Enterprise LTSB 2016 through the same Extended Security... Read Entire Article",
+    "link": "https://www.techspot.com/news/112016-version-windows-10-released-decade-ago-now-eligible.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.943191"
+    "processed_date": "2026-04-10T09:50:18.495284"
   },
   {
-    "title": "Motorola returns to tablets with Moto Pad, revamps Moto G Stylus smartphone",
-    "summary": "The Moto Pad is an 11-inch 2.5K tablet with a 90Hz display, powered by MediaTek's Dimensity 6300 5G chip and paired with 8GB of RAM and 128GB of storage, along with a microSD slot that supports cards up to 2TB. Read Entire Article",
-    "link": "https://www.techspot.com/news/111994-motorola-returns-tablets-moto-pad-revamps-moto-g.html",
+    "title": "Iran-linked hackers are now targeting industrial controllers in US infrastructure",
+    "summary": "Federal agencies, including the FBI, CISA, NSA, the Department of Energy, US Cyber Command, and the Environmental Protection Agency, issued an urgent joint advisory Tuesday, warning that an advanced persistent threat group linked to Iran has been exploiting vulnerabilities in programmable logic controllers since at least March 2026. Read Entire Article",
+    "link": "https://www.techspot.com/news/112010-iran-linked-hackers-now-targeting-industrial-controllers-us.html",
     "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.943299"
-  },
-  {
-    "title": "Apple and Samsung named the least repairable phone brands in new report",
-    "summary": "The repairability scores come from the Failing the Fix 2026 study by the US Public Interest Research Group (PIRG) Education Fund, a nonprofit consumer advocacy group. Read Entire Article",
-    "link": "https://www.techspot.com/news/111996-new-report-names-apple-samsung-least-repairable-phone.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.943403"
-  },
-  {
-    "title": "MacBook Neo demand is so strong it's creating supply headaches for Apple",
-    "summary": "The lightweight laptop available in four colors and two configurations was built around Apple's A18 Pro processor, the chip that powered last year's iPhone 16 Pro. In the Neo, that silicon wasn't newly fabricated; instead, Apple repurposed remaining batches from the initial iPhone run, according to Ben Thompson of Stratechery. Read Entire Article",
-    "link": "https://www.techspot.com/news/111987-macbook-neo-demand-strong-creating-supply-headaches-apple.html",
-    "categories": [
-      "Hardware",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.943523"
+    "processed_date": "2026-04-10T09:50:18.495408"
   },
   {
-    "title": "Chrome finally gets vertical tabs, plus an improved Reading Mode",
-    "summary": "Rolling out from April 7 on desktop Chrome (download here), the vertical tabs feature gives users the option to move the browser's tab strip from the top of the window to a sidebar on the left. Read Entire Article",
-    "link": "https://www.techspot.com/news/111992-chrome-finally-gets-vertical-tabs-plus-improved-reading.html",
+    "title": "A weird macOS bug is blocking new network connections after 49 days of uptime",
+    "summary": "The issue is reportedly caused by a 32-bit integer overflow in the macOS XNU kernel and is linked to how the system uses a TCP/IP variable to track TCP timestamps in milliseconds since the system booted. Read Entire Article",
+    "link": "https://www.techspot.com/news/112012-weird-macos-bug-blocking-new-network-connections-after.html",
     "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.943627"
-  },
-  {
-    "title": "NASA just dropped new high-quality Moon photos from Artemis II",
-    "summary": "Around two dozen high-resolution photos of the Moon, taken by the Artemis II mission crew, are now available to download on NASA's website and the agency's Flickr page. During the mission, four astronauts observed portions of the Moon's far side that humans have never seen directly. Read Entire Article",
-    "link": "https://www.techspot.com/news/111986-nasa-dropped-new-high-quality-moon-photos-artemis.html",
-    "categories": [
-      "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.943742"
+    "processed_date": "2026-04-10T09:50:18.495546"
   },
   {
-    "title": "Intel is in talks with Google and Amazon to power AI chips with new packaging tech",
-    "summary": "Packaging has shifted from a back-end afterthought to the center of Intel's manufacturing strategy as AI workloads push designers to stitch together many specialized dies into a single system. At its Rio Rancho, New Mexico, site once home to a shuttered Fab 9 that sat idle for years ... Read Entire Article",
-    "link": "https://www.techspot.com/news/111988-intel-talks-google-amazon-power-ai-chips-new.html",
+    "title": "NIH study identifies experimental opioid with strong pain relief and lower addiction risk",
+    "summary": "The study focuses on DFNZ, a molecule derived from a class of synthetic opioids first explored in the mid-20th century but largely abandoned due to their high potency. This research revisits nitazenes using modern pharmacological tools and aims to redesign them for greater safety. Investigators say the results represent unexpected... Read Entire Article",
+    "link": "https://www.techspot.com/news/112008-nih-study-identifies-experimental-opioid-relieves-pain-less.html",
     "categories": [
-      "Semiconductors",
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-10T09:50:18.495678"
+  },
+  {
+    "title": "Ohio man pleads guilty in first case under federal law banning AI deepfakes",
+    "summary": "According to the Department of Justice, Strahler produced explicit deepfakes involving both adults and minors using AI software. Investigators said he manipulated real images of individuals from his community sometimes children he personally knew and blended their likenesses into graphic scenes. The resulting material, consisting of more than... Read Entire Article",
+    "link": "https://www.techspot.com/news/112011-ohio-man-pleads-guilty-first-federal-ai-deepfake.html",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-09T09:54:58.943869"
+    "processed_date": "2026-04-10T09:50:18.495809"
   },
   {
-    "title": "AMD Ryzen 5 5500X3D Review: AM4 Keeps on Giving",
-    "summary": "AMD's Ryzen 5 5500X3D extends AM4's life once again, but is it worth it? We tested 14 games to see how this cut-down 3D V-Cache chip stacks up against Zen 3, older Ryzen parts, and newer CPUs. Read Entire Article",
-    "link": "https://www.techspot.com/review/3109-amd-ryzen-5500x3d/",
+    "title": "John Deere will pay $99 million in right-to-repair lawsuit, but admits nothing",
+    "summary": "The proposed settlement still needs court approval, and Deere says the agreement includes no admission of wrongdoing despite it paying almost $100 million. Read Entire Article",
+    "link": "https://www.techspot.com/news/112015-john-deere-agrees-99-million-settlement-major-right.html",
     "categories": [
-      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.495912"
+  },
+  {
+    "title": "Tech layoffs are piling up: 80,000 jobs cut in early 2026, and AI is getting the blame",
+    "summary": "But industry experts say it may be too early to conclude that modern AI systems are directly responsible for most of these job losses. Cognizant Chief AI Officer Babak Hodjat told Nikkei Asia that companies often cite artificial intelligence as a convenient explanation during restructuring. Read Entire Article",
+    "link": "https://www.techspot.com/news/112006-tech-layoffs-hit-80000-early-2026-ai-blamed.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.496027"
+  },
+  {
+    "title": "Greece to ban social media for children under 15 starting next year",
+    "summary": "Mitsotakis called the legislation, which is expected to pass this summer, \"difficult but necessary.\" He started the video by referencing the phrase that became hugely popular among young people last year: \"6-7 Now that I have your attention.\" Read Entire Article",
+    "link": "https://www.techspot.com/news/112013-greece-ban-social-media-children-under-15-starting.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.496133"
+  },
+  {
+    "title": "New report revives theory that cryptographer Adam Back could be Bitcoin creator Satoshi Nakamoto",
+    "summary": "Adam Back, who was publicly involved in Bitcoin's early development, blamed coincidences on recent attempts to identify him as the cryptocurrency's inventor. While he acknowledges similarities between himself and \"Satoshi Nakamoto,\" Back continues to vehemently deny that he is Nakamoto. Read Entire Article",
+    "link": "https://www.techspot.com/news/112002-new-report-revives-theory-cryptographer-adam-back-could.html",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-09T09:54:58.943993"
+    "processed_date": "2026-04-10T09:50:18.496261"
+  },
+  {
+    "title": "Anthropic just lost another round in its fight with the Pentagon",
+    "summary": "The ruling keeps Anthropic locked out of DoD contracts for now, even though a separate federal court in California recently barred the Trump administration from enforcing a broader ban on the use of Claude. Read Entire Article",
+    "link": "https://www.techspot.com/news/112009-anthropic-loses-bid-pause-pentagon-blacklisting-ai-legal.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.496368"
+  },
+  {
+    "title": "Some Windows 3.1 apps were simply \"too evil\" for Windows 95 to support, says Microsoft veteran",
+    "summary": "Microsoft veteran Raymond Chen is once again spilling the beans on how Windows 95 became one of the most influential operating systems ever. Back in the Nineties, Microsoft developers were busy working on many custom solutions to make the new OS compatible with previous software products. However, a few programs... Read Entire Article",
+    "link": "https://www.techspot.com/news/112000-windows-31-apps-simply-evil-windows-95-support.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.496484"
+  },
+  {
+    "title": "AMD confirms Ryzen 9 9950X3D2 priced at $899",
+    "summary": "Listings for the Ryzen 9 9950X3D2 appeared on retailers' websites over the weekend. The prices suggested that the CPU would cost around $1,000, which turned out to be $100 more than the official MSRP. Read Entire Article",
+    "link": "https://www.techspot.com/news/112007-amd-confirms-ryzen-9-9950x3d2-priced-899-200.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.496591"
+  },
+  {
+    "title": "German police identify REvil and GandCrab mastermind now living in Russia",
+    "summary": "Shchukin's alleged involvement marks a significant step in a years-long effort to unmask the leadership behind two of the most destructive criminal groups on the internet. According to the BKA, Shchukin oversaw GandCrab from its launch in early 2018 until it abruptly shut down in May 2019, declaring in a... Read Entire Article",
+    "link": "https://www.techspot.com/news/112001-german-police-identify-alleged-revil-gandcrab-mastermind-now.html",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-10T09:50:18.496706"
+  },
+  {
+    "title": "After Wi-Fi 7's Speed Push, Wi-Fi 8 Is Turning to Reliability",
+    "summary": "Wi-Fi 8 is already taking shape, and while it won't raise peak speeds beyond Wi-Fi 7, it promises something just as important: more reliable, lower-latency wireless performance where it actually matters. Read Entire Article",
+    "link": "https://www.techspot.com/article/3103-wifi-8/",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-10T09:50:18.496814"
   }
 ]

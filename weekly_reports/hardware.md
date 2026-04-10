@@ -1,175 +1,95 @@
 # 💻 Hardware
-**Week of April 09, 2026**
+**Week of April 10, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 16
-- **Report generated:** 2026-04-09 09:56
+- **Articles this week:** 8
+- **Report generated:** 2026-04-10 09:51
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Asus ROG Xbox Ally review: The cheapest Windows handheld gets points for showing up ⭐
+### 1. Geekbench 6.7 adds Intel BOT detection to spoof out 'unrealistic' CPU scores Benchmark runs with BOT enabled will be marked as invalid ⭐
 
-The Asus ROG Xbox Ally is the cheapest Windows handheld, but it's held back by technical issues and a mediocre processor, making it less competitive than the Steam Deck OLED.
+Geekbench 6.7 introduces Intel BOT detection to flag invalid runs. This is intended to prevent unrealistic performance bumps. The developer argues that BOT scores don't represent real-world performance.
 
-💡 *Affordability comes at the cost of performance and features.*
+💡 *Prevents artificially inflated CPU scores with Intel BOT detection.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-ryzen-z2-a-review)
-
----
-
-### 2. be quiet! Pure Power 13 M 1200W supply review: Platinum-level efficiency, premium pricing 
-
-The Be Quiet! Pure Power 13 M 1200W offers exceptional build quality, Platinum-level efficiency, and a comprehensive 10-year warranty, but its premium pricing and limited connectivity are notable drawbacks.
-
-💡 *High-end power supply with premium features at a high price point.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/be-quiet-pure-power-13-m-1200w-supply-review-platinum-level-efficiency-premium-pricing)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/geekbench-6-7-adds-intel-bot-detection-to-spoof-out-unrealistic-cpu-scores-benchmark-runs-with-bot-enabled-will-be-marked-as-invalid)
 
 ---
 
-### 3. Sipeed T256s A USB thermal camera with 256 192 LWIR sensor, 640 480 AI super resolution 
+### 2. Acer Predator X27 X1 27-inch 240 Hz OLED gaming monitor review: Blending performance and value ⭐
 
-The Sipeed T256s is a portable USB thermal camera with a 256x192 LWIR sensor and AI-powered super-resolution up to 640x480 resolution. It features a 1.69-inch touchscreen, macro lens, internal storage, and durable CNC aluminum enclosure for efficient heat dissipation. It is designed for electronics R&D, industrial maintenance, and HVAC diagnostics.
+The Acer Predator X27 X1 delivers high-performance gaming with its 240 Hz OLED display and 4K resolution, making it a solid value for gamers.
 
-💡 *Real-time thermal imaging with AI-powered super-resolution enhances accuracy in diagnostics*
+💡 *Blending high speed and saturated color for immersive gaming experiences.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/09/sipeed-t256s-a-usb-thermal-camera-with-256x192-lwir-sensor-up-to-640x480-super-ai-resolution/)
-
----
-
-### 4. WeAct STM32U585CIU6 Core Mini An $8 STM32U5 board supported by MicroPython v1.28 
-
-The WeAct STM32U585CIU6 Core Mini is a low-cost, standalone STM32U5 MCU board priced at $8, supported by MicroPython v1.28. It features a ST STM32U585CIU6 Core Arm Cortex-M33 microcontroller with up to 160 MHz clock speed and 2048 KB flash memory.
-
-💡 *Low-cost STM32U5 board expands MCU options for makers and hobbyists worldwide.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/08/weact-stm32u585ciu6-core-mini-stm32u5-board-supported-by-micropython-v1-28/)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-x27-x1-27-inch-240-hz-oled-gaming-monitor-review)
 
 ---
 
-### 5. AMD Ryzen 5 5500X3D Review: AM4 Keeps on Giving 
+### 3. Raspberry Pi SBC gets (analog and) digital radio HAT with AM, FM, DAB, DAB+, HD radio ⭐
 
-AMD's Ryzen 5 5500X3D brings 3D V-Cache tech to older AM4 sockets, tested in 14 games.
+Raspiaudio's Digital Radio V1 HAT brings AM/FM, DAB, and HD Radio support to Raspberry Pi SBCs, expanding their multimedia capabilities. The HAT is compatible with various Pi models and supports worldwide FM, AM, and DAB frequencies. Configuration and control can be done via CLI or web-based software.
 
-💡 *Ryzen 5 5500X3D offers improved gaming performance at an affordable price.*
+💡 *Enhancing multimedia experiences on Raspberry Pi SBCs worldwide.*
 
-🔗 [Read Full Article](https://www.techspot.com/review/3109-amd-ryzen-5500x3d/)
-
----
-
-### 6. Intel and SambaNova team up on heterogenous AI inference platform different hardware performs different workloads 
-
-Intel and SambaNova collaborate on a heterogeneous AI inference platform that combines Intel Xeon 6 CPUs, SambaNova SN50 RDUs, and Nvidia GPUs to optimize workload performance.
-
-💡 *Different hardware optimizes various AI workloads for improved efficiency.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-and-sambanova-team-up-on-heterogenous-ai-inference-platform-different-hardware-performs-different-workloads)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/10/raspberry-pi-sbc-gets-digital-radio-hat-with-am-fm-dab-dab-hd-radio/)
 
 ---
 
-### 7. PCI Express roadmap: The path to 1TB/s with PCI 8.0, the challenges of integration, and beyond 
+### 4. Feature-rich Raspberry Pi CM5 carrier board offers dual Ethernet, quad RS485, 4G LTE/5G connectivity, and more 
 
-The PCI Express roadmap is set to reach 1TB/s with the introduction of PCIe 8.0, but manufacturers face significant integration challenges. The future of PCIe technology will rely on advancements in materials and design. As the industry moves beyond PCIe 6.0, new innovations will be necessary to maintain performance and efficiency.
+The Waveshare CM5-ETH-RS485-4G-BASE board offers a feature-rich platform for Raspberry Pi CM5 variants, featuring dual Ethernet, quad RS485, and 4G LTE/5G connectivity, along with other advanced interfaces and a wide power input range.
 
-💡 *PCIe's scalability is crucial for future computing and storage needs.*
+💡 *Raspberry Pi gets a highly versatile industrial-grade carrier board upgrade.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/pci-express-roadmap-the-path-to-1tb-s-with-pci-8-0-the-challenges-of-integration-and-beyond)
-
----
-
-### 8. AMD reveals $899 price tag for Ryzen 9 9950X3D2 first dual-cache X3D CPU is $200 more expensive than the Ryzen 9 9950X3D 
-
-AMD's Ryzen 9 9950X3D2 launches at $899, a $200 price increase from the previous model.
-
-💡 *Price hike may impact consumer purchasing decisions and AMD's market competitiveness.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-reveals-usd899-price-tag-for-ryzen-9-9950x3d2-first-dual-cache-x3d-cpu-is-usd200-more-expensive-than-the-ryzen-9-9950x3d)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/10/raspberry-pi-cm5-carrier-board-dual-ethernet-quad-rs485-4g-lte-5g/)
 
 ---
 
-### 9. Snap up 32GB of Corsair Vengeance RAM for just $192 when you pair it with AMD's 9800X3D processor and Asus X870E motherboard for $1,054 bundle also includes a free 240mm AIO cooler and a copy of Crimson Desert 
+### 5. Intel developing two-lever retention mechanism for LGA 1954 socket, according to new leak Premium Nova Lake-S motherboards will feature 2L-ILM sockets 
 
-Get a high-performance PC bundle featuring 32GB Corsair Vengeance RAM, AMD 9800X3D, and a free AIO cooler, along with a copy of Crimson Desert, all for $1054.98.
+Intel's high-end Nova Lake motherboards will feature a dual-lever retention mechanism, the 2L-ILM, for added security. This dual-lever design is similar to the one previously seen in server platforms with LGA 2011 sockets. Standard ILM variants will also be available, which cost less to produce.
 
-💡 *High-end components bundled at a competitive price point for enthusiasts.*
+💡 *Enhanced retention mechanism for high-end Nova Lake processors*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/snap-up-32gb-of-corsair-vengeance-ram-for-just-usd192-when-you-pair-it-with-amds-9800x3d-processor-and-asus-x870e-motherboard-for-usd1-054-bundle-also-includes-a-free-240mm-aio-cooler-and-a-copy-of-crimson-desert)
-
----
-
-### 10. Russian state hackers are hijacking TP-Link and MicroTik routers to steal Outlook credentials, cybersecurity center warns APT28 group targets DNS and redirects traffic to attacker-controlled servers 
-
-Russian state hackers are exploiting vulnerable routers to steal Outlook credentials. They target DHCP and DNS settings on small office and home office routers. This allows them to redirect traffic to attacker-controlled servers.
-
-💡 *Russian state hackers exploit vulnerable routers to steal sensitive credentials*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/ncsc-says-russian-gru-hackers-are-hijacking-tp-link-and-mikrotik-routers)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-developing-two-lever-retention-mechanism-for-lga-1954-socket-according-to-new-leak-premium-nova-lake-s-motherboards-will-feature-2l-ilm-sockets)
 
 ---
 
-### 11. Flash Bee An ESP32-C3-based DIY handheld lightning detector 
+### 6. Korean government to take action over soaring DRAM costs, including monitoring markets and pricing internet data plans to be restructured and recycled PCs to be distributed to vulnerable groups 
 
-The Flash Bee is a DIY handheld lightning detector made with off-the-shelf components, utilizing the AMS AS3935 sensor to detect lightning up to 40 km away with 1km accuracy. It features a Seeed Studio XIAO ESP32-C3 board, a Round Display for XIAO, and a 3D-printed enclosure. The design is easy to reproduce and convenient to use.
+The South Korean government is taking action to alleviate the impact of the DRAM and NAND crisis on its citizens.
 
-💡 *Detects lightning up to 40 km away with 1km accuracy.*
+💡 *Price volatility threatens vulnerable groups with limited digital access*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/09/flash-bee-an-esp32-c3-based-diy-handheld-lightning-detector/)
-
----
-
-### 12. ChromeOS Flex gets a $3 USB installer to revive aging Windows PCs 
-
-Google partners with Back Market to offer ChromeOS Flex as a $3 USB installer, enabling users to revive aging Windows PCs and extend their lifespan. This partnership aims to promote ChromeOS Flex as a secure, sustainable, and fully supported alternative. The affordable installer makes ChromeOS Flex accessible to a wider audience.
-
-💡 *Revamping outdated PCs with sustainable, secure ChromeOS Flex alternatives*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111999-google-offering-new-way-install-chromeos-flex-aging.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/korean-government-to-take-action-over-soaring-dram-costs-including-monitoring-markets-and-pricing-internet-data-plans-to-be-restructured-and-recycled-pcs-to-be-distributed-to-vulnerable-groups)
 
 ---
 
-### 13. Snapdragon X2 laptops launch with up to 18 cores, 5.0GHz clocks, and 80 TOPS NPU 
+### 7. Go maintainer joins collective klaxon about encryption-breaking quantum computers developer urges immediate switch to post-quantum methods to prevent worldwide disaster 
 
-Qualcomm's Snapdragon X2 laptops offer up to 18 cores, 5.0GHz clocks, and 80 TOPS NPU, targeting demanding workloads.
+Go maintainer warns of impending disaster due to quantum computers breaking encryption, urging a swift transition to post-quantum methods to prevent catastrophic consequences.
 
-💡 *Revolutionizing high-performance computing with massive processing capabilities.*
+💡 *Quantum computers threaten global data security and economic stability immediately.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111995-snapdragon-x2-laptops-reach-retail-aggressive-memory-display.html)
-
----
-
-### 14. Amazon is ending support for these older Kindle and Kindle Fire devices 
-
-Amazon is ending support for older Kindle and Kindle Fire devices, starting with models dating back to 2007, including the original Kindle and Kindle Keyboard.
-
-💡 *Users will lose access to digital content, updates, and services.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111998-amazon-ending-support-older-kindle-kindle-fire-devices.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/go-maintainer-joins-collective-klaxon-about-encryption-breaking-quantum-computers-developer-urges-immediate-switch-to-post-quantum-methods-to-prevent-worldwide-disaster)
 
 ---
 
-### 15. MacBook Neo demand is so strong it's creating supply headaches for Apple 
+### 8. Open-source hardware DAB+ receiver combines ESP32 SoC with Skyworks SI4684 digital radio chip 
 
-Apple's MacBook Neo is in high demand, causing supply chain issues. The laptop features Apple's A18 Pro processor repurposed from iPhone 16 Pro production. This decision may have contributed to the Neo's strong sales.
+PE5PVB's open-source hardware DAB+ receiver combines ESP32 SoC with Skyworks SI4684, offering a DIY DAB+ radio kit with features like WiFi, Bluetooth, and a color LCD display.
 
-💡 *Repurposed chips drive demand and supply headaches for Apple.*
+💡 *Enabling Europeans to build and customize their own digital radio devices locally.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111987-macbook-neo-demand-strong-creating-supply-headaches-apple.html)
-
----
-
-### 16. Chrome finally gets vertical tabs, plus an improved Reading Mode 
-
-Chrome introduces vertical tabs and improved Reading Mode for desktop users, starting April 7. The vertical tab feature allows users to move the tab strip to a sidebar on the left. This feature aims to enhance user experience and productivity.
-
-💡 *Streamlined navigation boosts browsing efficiency and user satisfaction*
-
-🔗 [Read Full Article](https://www.techspot.com/news/111992-chrome-finally-gets-vertical-tabs-plus-improved-reading.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/09/open-source-hardware-dab-receiver-combines-esp32-soc-with-skyworks-si4684-chip/)
 
 ---
 

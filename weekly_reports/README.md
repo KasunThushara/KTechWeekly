@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 09, 2026**
+**Week of April 10, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Anthropic unveils new powerful AI that finds software flaws, but says it's too dangerous to release ⭐
+### 1. Raspberry Pi SBC gets (analog and) digital radio HAT with AM, FM, DAB, DAB+, HD radio ⭐
 
-**🤖 AI & ML**
+**⚡ Semiconductors**
 
-Anthropic's AI, Claude Mythos Preview, discovers software flaws but is deemed too dangerous for public use.
+Raspiaudio's Digital Radio V1 HAT brings AM/FM, DAB, and HD Radio support to Raspberry Pi SBCs, expanding their multimedia capabilities. The HAT is compatible with various Pi models and supports worldwide FM, AM, and DAB frequencies. Configuration and control can be done via CLI or web-based software.
 
-💡 **Key Point:** AI vulnerability detection poses risks of widespread exploitation and chaos
+💡 **Key Point:** Enhancing multimedia experiences on Raspberry Pi SBCs worldwide.
 
-🔗 [Read More](https://www.techspot.com/news/111991-anthropic-deploys-unreleased-ai-model-hunt-software-flaws.html)
+🔗 [Read More](https://www.cnx-software.com/2026/04/10/raspberry-pi-sbc-gets-digital-radio-hat-with-am-fm-dab-dab-hd-radio/)
 
 ---
 
-### 2. Asus ROG Xbox Ally review: The cheapest Windows handheld gets points for showing up ⭐
+### 2. Acer Predator X27 X1 27-inch 240 Hz OLED gaming monitor review: Blending performance and value ⭐
+
+**🎮 GPUs**
+
+The Acer Predator X27 X1 delivers high-performance gaming with its 240 Hz OLED display and 4K resolution, making it a solid value for gamers.
+
+💡 **Key Point:** Blending high speed and saturated color for immersive gaming experiences.
+
+🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-x27-x1-27-inch-240-hz-oled-gaming-monitor-review)
+
+---
+
+### 3. Geekbench 6.7 adds Intel BOT detection to spoof out 'unrealistic' CPU scores Benchmark runs with BOT enabled will be marked as invalid ⭐
 
 **💻 Hardware**
 
-The Asus ROG Xbox Ally is the cheapest Windows handheld, but it's held back by technical issues and a mediocre processor, making it less competitive than the Steam Deck OLED.
+Geekbench 6.7 introduces Intel BOT detection to flag invalid runs. This is intended to prevent unrealistic performance bumps. The developer argues that BOT scores don't represent real-world performance.
 
-💡 **Key Point:** Affordability comes at the cost of performance and features.
+💡 **Key Point:** Prevents artificially inflated CPU scores with Intel BOT detection.
 
-🔗 [Read More](https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-ryzen-z2-a-review)
-
----
-
-### 3. Asus ROG Xbox Ally review: The cheapest Windows handheld gets points for showing up ⭐
-
-**📰 Tech News**
-
-The Asus ROG Xbox Ally is the cheapest Windows handheld, but it's held back by technical issues and a mediocre processor, making it less competitive than the Steam Deck OLED.
-
-💡 **Key Point:** Affordability comes at the cost of performance and features.
-
-🔗 [Read More](https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-ryzen-z2-a-review)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/geekbench-6-7-adds-intel-bot-detection-to-spoof-out-unrealistic-cpu-scores-benchmark-runs-with-bot-enabled-will-be-marked-as-invalid)
 
 ---
 
-### 4. Anthropic unveils new powerful AI that finds software flaws, but says it's too dangerous to release ⭐
+### 4. Acer Predator X27 X1 27-inch 240 Hz OLED gaming monitor review: Blending performance and value ⭐
 
-**📰 Tech News**
+**💻 Hardware**
 
-Anthropic's AI, Claude Mythos Preview, discovers software flaws but is deemed too dangerous for public use.
+The Acer Predator X27 X1 delivers high-performance gaming with its 240 Hz OLED display and 4K resolution, making it a solid value for gamers.
 
-💡 **Key Point:** AI vulnerability detection poses risks of widespread exploitation and chaos
+💡 **Key Point:** Blending high speed and saturated color for immersive gaming experiences.
 
-🔗 [Read More](https://www.techspot.com/news/111991-anthropic-deploys-unreleased-ai-model-hunt-software-flaws.html)
+🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-x27-x1-27-inch-240-hz-oled-gaming-monitor-review)
 
 ---
 
-### 5. Corsair's new customizer tool lets buyers trick out the Frame 4000D case configurator lets you explore every possible option for this highly modular enclosure 
+### 5. Raspberry Pi SBC gets (analog and) digital radio HAT with AM, FM, DAB, DAB+, HD radio ⭐
 
-**🤖 AI & ML**
+**💻 Hardware**
 
-Corsair's new case customizer lets buyers personalize the Frame 4000D case with a wide range of options, from side panels to front-panel I/O configurations. This allows for highly modular and tailored enclosures that meet individual needs. The customizer tool makes it easy to explore every possible option.
+Raspiaudio's Digital Radio V1 HAT brings AM/FM, DAB, and HD Radio support to Raspberry Pi SBCs, expanding their multimedia capabilities. The HAT is compatible with various Pi models and supports worldwide FM, AM, and DAB frequencies. Configuration and control can be done via CLI or web-based software.
 
-💡 **Key Point:** Endless customization options for highly modular and tailored enclosures.
+💡 **Key Point:** Enhancing multimedia experiences on Raspberry Pi SBCs worldwide.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/pc-cases/corsairs-new-customizer-tool-lets-buyers-trick-out-the-frame-4000d-case-configurator-lets-you-explore-every-possible-option-for-this-highly-modular-enclosure)
+🔗 [Read More](https://www.cnx-software.com/2026/04/10/raspberry-pi-sbc-gets-digital-radio-hat-with-am-fm-dab-dab-hd-radio/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **53 articles** across **5 focused categories**.
+We covered **46 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 18 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 16 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 14 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 8 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 13 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 18 articles
+*Artificial Intelligence and Machine Learning* — 14 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 3 articles
+*Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 16 articles
+*Computing hardware and development boards* — 8 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 6 articles
+*Chip manufacturing and design* — 13 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 10 articles
+*Industry news and product launches* — 7 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-04-09 at 09:56 by an autonomous AI curation system.
+Generated 2026-04-10 at 09:51 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
