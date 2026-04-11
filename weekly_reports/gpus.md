@@ -1,55 +1,45 @@
 # 🎮 GPUs
-**Week of April 10, 2026**
+**Week of April 11, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-04-10 09:51
+- **Articles this week:** 3
+- **Report generated:** 2026-04-11 09:25
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Acer Predator X27 X1 27-inch 240 Hz OLED gaming monitor review: Blending performance and value ⭐
+### 1. Newbie overclocker destroys $5,000 RTX 5090 Lightning Z GPU they used 'to learn how to solder' practicing newfound hobby goes wrong in the most expensive way imaginable 
 
-The Acer Predator X27 X1 delivers high-performance gaming with its 240 Hz OLED display and 4K resolution, making it a solid value for gamers.
+A $5,000 GPU was damaged by a newbie overclocker trying to solder a resistor, leading to repair costs. The incident highlights the risks of experimenting with high-end electronics without proper knowledge. The owner's inexperience led to a costly mistake.
 
-💡 *Blending high speed and saturated color for immersive gaming experiences.*
+💡 *Lack of expertise can lead to expensive mistakes with high-tech gadgets.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-x27-x1-27-inch-240-hz-oled-gaming-monitor-review)
-
----
-
-### 2. Intel Arc GPUs can finally boot up and play 'Crimson Desert' but you'll probably want to wait for official support 
-
-Intel's latest GPU driver allows 'Crimson Desert' to boot and run, albeit with issues. The game can reportedly run at 59 FPS at ultra settings on an Arc B580, but suffers from occasional crashes and visual artifacts. Players may want to wait for official support before playing.
-
-💡 *Intel Arc GPUs achieve playable 'Crimson Desert' performance with caveats.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intel-arc-gpus-can-finally-boot-up-and-play-crimson-desert-but-youll-probably-want-to-wait-for-official-support)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/newbie-overclocker-destroys-usd5-000-rtx-5090-lightning-z-gpu-they-used-to-learn-how-to-solder-practicing-newfound-hobby-goes-wrong-in-the-most-expensive-way-imaginable)
 
 ---
 
-### 3. Under $30, GameSir's Super Nova wireless controller has an unbelievable 40% slashed off the price in this limited-time offer includes stick drift eliminating Hall Effect thumbsticks and switches 
+### 2. Nvidia's mythical N1 SoC surfaces on a real motherboard, and it's packing 128GB of LPDDR5X 
 
-Get a fully loaded wireless gaming controller from GameSir for under $30 with a limited-time offer.
+Nvidia's long-rumored N1 SoC has been spotted on a real motherboard with 128GB of LPDDR5X. High-quality images suggest this product is closer to reality. The exact features and specifications of the N1 chip remain unclear.
 
-💡 *High-quality gaming tech at an unbeatable budget-friendly price point.*
+💡 *Nvidia's N1 chip could revolutionize mobile, AI, and gaming performance*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/under-usd30-gamesirs-super-nova-wireless-controller-has-an-unbelievable-40-percent-slashed-off-the-price-in-this-limited-time-offer-includes-stick-drift-eliminating-hall-effect-thumbsticks-and-switches)
+🔗 [Read Full Article](https://www.techspot.com/news/112025-nvidia-mythical-n1-soc-surfaces-real-motherboard-packing.html)
 
 ---
 
-### 4. AMD confirms Ryzen 9 9950X3D2 priced at $899 
+### 3. Intel tops $300 billion market cap for the first time since the dot-com boom 
 
-AMD confirms the Ryzen 9 9950X3D2 will be priced at $899, not $100 more than MSRP.
+Intel surpasses $300 billion market capitalization for the first time since the dot-com boom, reversing its decline and regaining its position as a leader in the tech industry.
 
-💡 *Official price undercuts initial retailer price expectations by $100.*
+💡 *Intel's resurgence demonstrates its sustained competitiveness in the industry.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112007-amd-confirms-ryzen-9-9950x3d2-priced-899-200.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112024-intel-tops-300-billion-market-cap-first-time.html)
 
 ---
 

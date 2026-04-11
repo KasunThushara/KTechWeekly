@@ -1,95 +1,105 @@
 # 💻 Hardware
-**Week of April 10, 2026**
+**Week of April 11, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-04-10 09:51
+- **Articles this week:** 9
+- **Report generated:** 2026-04-11 09:25
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Geekbench 6.7 adds Intel BOT detection to spoof out 'unrealistic' CPU scores Benchmark runs with BOT enabled will be marked as invalid ⭐
+### 1. Cooler Master MWE Bronze V2 230V 650W power supply review: A competent entry-level choice 
 
-Geekbench 6.7 introduces Intel BOT detection to flag invalid runs. This is intended to prevent unrealistic performance bumps. The developer argues that BOT scores don't represent real-world performance.
+The Cooler Master MWE Bronze V2 230V 650W is a budget power supply that meets expectations, but its performance is limited by compromised active components and an 85 C bulk capacitor.
 
-💡 *Prevents artificially inflated CPU scores with Intel BOT detection.*
+💡 *Limited performance due to compromised components and heat issues.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/geekbench-6-7-adds-intel-bot-detection-to-spoof-out-unrealistic-cpu-scores-benchmark-runs-with-bot-enabled-will-be-marked-as-invalid)
-
----
-
-### 2. Acer Predator X27 X1 27-inch 240 Hz OLED gaming monitor review: Blending performance and value ⭐
-
-The Acer Predator X27 X1 delivers high-performance gaming with its 240 Hz OLED display and 4K resolution, making it a solid value for gamers.
-
-💡 *Blending high speed and saturated color for immersive gaming experiences.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-x27-x1-27-inch-240-hz-oled-gaming-monitor-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-bronze-v2-230v-650w-power-supply-review)
 
 ---
 
-### 3. Raspberry Pi SBC gets (analog and) digital radio HAT with AM, FM, DAB, DAB+, HD radio ⭐
+### 2. Silverstone IceMyst Pro 360 Pro Review: Designed for RAM overclocking 
 
-Raspiaudio's Digital Radio V1 HAT brings AM/FM, DAB, and HD Radio support to Raspberry Pi SBCs, expanding their multimedia capabilities. The HAT is compatible with various Pi models and supports worldwide FM, AM, and DAB frequencies. Configuration and control can be done via CLI or web-based software.
+The Silverstone IceMyst Pro 360 AIO is designed for RAM overclocking, offering targeted cooling and improved performance. In our review, we tested it with AMD's Ryzen 9 9950X3D CPU. This unique AIO aims to optimize RAM temperatures and enhance overclocking capabilities.
 
-💡 *Enhancing multimedia experiences on Raspberry Pi SBCs worldwide.*
+💡 *Optimized RAM cooling boosts overclocking potential and performance.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/10/raspberry-pi-sbc-gets-digital-radio-hat-with-am-fm-dab-dab-hd-radio/)
-
----
-
-### 4. Feature-rich Raspberry Pi CM5 carrier board offers dual Ethernet, quad RS485, 4G LTE/5G connectivity, and more 
-
-The Waveshare CM5-ETH-RS485-4G-BASE board offers a feature-rich platform for Raspberry Pi CM5 variants, featuring dual Ethernet, quad RS485, and 4G LTE/5G connectivity, along with other advanced interfaces and a wide power input range.
-
-💡 *Raspberry Pi gets a highly versatile industrial-grade carrier board upgrade.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/10/raspberry-pi-cm5-carrier-board-dual-ethernet-quad-rs485-4g-lte-5g/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/silverstone-icemyst-pro-360-pro-review)
 
 ---
 
-### 5. Intel developing two-lever retention mechanism for LGA 1954 socket, according to new leak Premium Nova Lake-S motherboards will feature 2L-ILM sockets 
+### 3. PC market posts modest growth in early 2026 despite memory shortages and economic strain 
 
-Intel's high-end Nova Lake motherboards will feature a dual-lever retention mechanism, the 2L-ILM, for added security. This dual-lever design is similar to the one previously seen in server platforms with LGA 2011 sockets. Standard ILM variants will also be available, which cost less to produce.
+The PC market saw modest growth in early 2026 despite economic strain and memory shortages. Preemptive purchasing and upgrades contributed to the uptick. Vendors and customers made cautious moves ahead of expected price hikes.
 
-💡 *Enhanced retention mechanism for high-end Nova Lake processors*
+💡 *Preemptive purchasing mitigated the impact of memory shortages financially.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-developing-two-lever-retention-mechanism-for-lga-1954-socket-according-to-new-leak-premium-nova-lake-s-motherboards-will-feature-2l-ilm-sockets)
-
----
-
-### 6. Korean government to take action over soaring DRAM costs, including monitoring markets and pricing internet data plans to be restructured and recycled PCs to be distributed to vulnerable groups 
-
-The South Korean government is taking action to alleviate the impact of the DRAM and NAND crisis on its citizens.
-
-💡 *Price volatility threatens vulnerable groups with limited digital access*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/korean-government-to-take-action-over-soaring-dram-costs-including-monitoring-markets-and-pricing-internet-data-plans-to-be-restructured-and-recycled-pcs-to-be-distributed-to-vulnerable-groups)
+🔗 [Read Full Article](https://www.techspot.com/news/112020-pc-market-posts-modest-growth-early-2026-despite.html)
 
 ---
 
-### 7. Go maintainer joins collective klaxon about encryption-breaking quantum computers developer urges immediate switch to post-quantum methods to prevent worldwide disaster 
+### 4. HWMonitor and CPU-Z developer CPUID breached by unknown attackers cyberattack forced users to download malware instead of valid apps for six hours 
 
-Go maintainer warns of impending disaster due to quantum computers breaking encryption, urging a swift transition to post-quantum methods to prevent catastrophic consequences.
+CPUID's website was compromised by unknown attackers, redirecting users to malware downloads. This breach occurred for six hours, forcing users to potentially install malicious software. The affected tools included HWMonitor and CPU-Z.
 
-💡 *Quantum computers threaten global data security and economic stability immediately.*
+💡 *Malware downloads can lead to significant security risks and data loss.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/go-maintainer-joins-collective-klaxon-about-encryption-breaking-quantum-computers-developer-urges-immediate-switch-to-post-quantum-methods-to-prevent-worldwide-disaster)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/hwmonitor-and-cpu-z-developer-cpuid-breached-by-unknown-attackers-cyberattack-forced-users-to-download-malware-instead-of-valid-apps-for-approximately-six-hours)
 
 ---
 
-### 8. Open-source hardware DAB+ receiver combines ESP32 SoC with Skyworks SI4684 digital radio chip 
+### 5. Framework founder says that personal computing as we know it is dead vows to keep building computers that you can own at the deepest level  
 
-PE5PVB's open-source hardware DAB+ receiver combines ESP32 SoC with Skyworks SI4684, offering a DIY DAB+ radio kit with features like WiFi, Bluetooth, and a color LCD display.
+Framework founder Nirav Patel vows to keep building personal computers despite the industry shift towards subscription-based models, promising to preserve personal ownership of computation.
 
-💡 *Enabling Europeans to build and customize their own digital radio devices locally.*
+💡 *Personal computing ownership under threat from subscription-based business models.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/09/open-source-hardware-dab-receiver-combines-esp32-soc-with-skyworks-si4684-chip/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/framework-founder-says-that-personal-computing-as-we-know-it-is-dead-vows-to-keep-building-computers-that-you-can-own-at-the-deepest-level)
+
+---
+
+### 6. Bee Write Back A Raspberry Pi Zero 2 W-based DIY writerdeck with 5.5-inch OLED and mechanical keyboard 
+
+The Bee Write Back is a DIY writerdeck built with Raspberry Pi Zero 2 W, featuring a 5.5-inch OLED screen and mechanical keyboard, designed as a distraction-free writing machine.
+
+💡 *Combines digital writing with tactile experience for focused journaling.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/10/bee-write-back-a-raspberry-pi-zero-2-w-based-diy-writerdeck-with-5-5-inch-oled-and-mechanical-keyboard/)
+
+---
+
+### 7. South Korea moves to curb the meteoritic rise of DRAM and PC hardware prices 
+
+South Korea is working to control rising DRAM and PC hardware prices. Strict market regulation may be necessary but not favored in Washington. Pressure from AI demand is driving up component costs.
+
+💡 *Rising AI demand drives hardware price inflation and supply chain strain.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112018-south-korea-moves-curb-meteoritic-rise-dram-pc.html)
+
+---
+
+### 8. Keychron shares 3D keyboard blueprints on GitHub, opening hardware to modders 
+
+Keychron has shared 3D keyboard blueprints on GitHub for modders to customize.
+
+💡 *Increased user control and customizability in keyboard hardware design.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112022-keychron-shares-3d-keyboard-blueprints-github-opening-hardware.html)
+
+---
+
+### 9. Nvidia's mythical N1 SoC surfaces on a real motherboard, and it's packing 128GB of LPDDR5X 
+
+Nvidia's long-rumored N1 SoC has been spotted on a real motherboard with 128GB of LPDDR5X. High-quality images suggest this product is closer to reality. The exact features and specifications of the N1 chip remain unclear.
+
+💡 *Nvidia's N1 chip could revolutionize mobile, AI, and gaming performance*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112025-nvidia-mythical-n1-soc-surfaces-real-motherboard-packing.html)
 
 ---
 

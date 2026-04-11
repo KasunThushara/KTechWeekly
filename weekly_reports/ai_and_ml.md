@@ -1,155 +1,165 @@
 # 🤖 AI & ML
-**Week of April 10, 2026**
+**Week of April 11, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-04-10 09:51
+- **Articles this week:** 15
+- **Report generated:** 2026-04-11 09:25
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. NIH study identifies experimental opioid with strong pain relief and lower addiction risk 
+### 1. PC market posts modest growth in early 2026 despite memory shortages and economic strain 
 
-A new NIH study has identified an experimental opioid called DFNZ, which offers strong pain relief with lower addiction risk. This molecule is derived from a class of synthetic opioids that were initially explored in the mid-20th century. Modern pharmacological tools have been used to redesign them for greater safety.
+The PC market saw modest growth in early 2026 despite economic strain and memory shortages. Preemptive purchasing and upgrades contributed to the uptick. Vendors and customers made cautious moves ahead of expected price hikes.
 
-💡 *Redesign of nitazenes may lead to safer opioid alternatives.*
+💡 *Preemptive purchasing mitigated the impact of memory shortages financially.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112008-nih-study-identifies-experimental-opioid-relieves-pain-less.html)
-
----
-
-### 2. After Wi-Fi 7's Speed Push, Wi-Fi 8 Is Turning to Reliability 
-
-Wi-Fi 8 focuses on reliability and lower latency over peak speeds. It aims to deliver more reliable wireless performance where it matters most. This shift prioritizes seamless connectivity over raw speed.
-
-💡 *Reliability trumps speed for a smoother wireless experience always.*
-
-🔗 [Read Full Article](https://www.techspot.com/article/3103-wifi-8/)
+🔗 [Read Full Article](https://www.techspot.com/news/112020-pc-market-posts-modest-growth-early-2026-despite.html)
 
 ---
 
-### 3. Intel Arc GPUs can finally boot up and play 'Crimson Desert' but you'll probably want to wait for official support 
+### 2. Framework founder says that personal computing as we know it is dead vows to keep building computers that you can own at the deepest level  
 
-Intel's latest GPU driver allows 'Crimson Desert' to boot and run, albeit with issues. The game can reportedly run at 59 FPS at ultra settings on an Arc B580, but suffers from occasional crashes and visual artifacts. Players may want to wait for official support before playing.
+Framework founder Nirav Patel vows to keep building personal computers despite the industry shift towards subscription-based models, promising to preserve personal ownership of computation.
 
-💡 *Intel Arc GPUs achieve playable 'Crimson Desert' performance with caveats.*
+💡 *Personal computing ownership under threat from subscription-based business models.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intel-arc-gpus-can-finally-boot-up-and-play-crimson-desert-but-youll-probably-want-to-wait-for-official-support)
-
----
-
-### 4. Fueled by Musk's TeraFab tie-in, Intel's market cap hits highest level in 25 years tops $300 billion on CPU, AI, and foundry momentum 
-
-Intel's market cap has reached over $300 billion, its highest level in 25 years, driven by momentum in AI, CPU, and foundry announcements.
-
-💡 *Intel's foundry business fuels record market capitalization growth.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/fueled-by-musks-terafab-tie-in-intels-market-cap-hits-highest-level-in-25-years-tops-usd300-billion-on-cpu-ai-and-foundry-momentum)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/framework-founder-says-that-personal-computing-as-we-know-it-is-dead-vows-to-keep-building-computers-that-you-can-own-at-the-deepest-level)
 
 ---
 
-### 5. UK navy tracked three Russian submarines near undersea cables, damage would 'have serious consequences,' Putin warned US and allies expand seabed protection efforts 
+### 3. 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future 
 
-The UK Royal Navy tracked three Russian submarines near undersea cables. The vessels, including two Gugi-class deep-sea submarines, were attempting to survey. This poses a significant threat to global communication and trade.
+Lexar is building storage solutions for today and tomorrow's AI-ready demands. A tour of its R&D labs and production facilities showcased the company's innovation and focus on emerging technologies. This includes the development of high-capacity storage for artificial intelligence applications.
 
-💡 *Russian submarines threaten global communication and trade infrastructure.*
+💡 *AI-ready storage demands faster, more reliable, and high-capacity solutions*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/uk-navy-tracked-russian-submarines-near-undersea-cables)
-
----
-
-### 6. Go maintainer joins collective klaxon about encryption-breaking quantum computers developer urges immediate switch to post-quantum methods to prevent worldwide disaster 
-
-Go maintainer warns of impending disaster due to quantum computers breaking encryption, urging a swift transition to post-quantum methods to prevent catastrophic consequences.
-
-💡 *Quantum computers threaten global data security and economic stability immediately.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/go-maintainer-joins-collective-klaxon-about-encryption-breaking-quantum-computers-developer-urges-immediate-switch-to-post-quantum-methods-to-prevent-worldwide-disaster)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/30-years-of-lexar-what-a-look-inside-its-r-and-d-labs-and-factory-reveals-about-its-plans-for-an-ai-ready-future)
 
 ---
 
-### 7. Steam files suggest Valve is developing internal'SteamGPT' AI bot aimed at tackling customer support tickets and CS2 anti-cheat 
+### 4. After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year DDR5 pricing sees some relief in China channel market 
 
-Leaked Steam files suggest Valve is developing an AI bot, 'SteamGPT', to assist with customer support and anti-cheat measures in CS2.
+DDR4 16Gb spot prices fell 5%, marking the first decline in nearly a year after a 2,200% increase over the last 12 months.
 
-💡 *Valve aims to enhance efficiency with AI-powered customer support solutions.*
+💡 *Market correction may signal a shift in DDR4 demand and pricing dynamics.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/steam-files-suggest-valve-is-developing-internal-steamgpt-ai-bot-aimed-at-tackling-customer-support-tickets-and-cs2-anti-cheat)
-
----
-
-### 8. $21 billion stolen from more than 1 million Americans due to cybercrime in 2025 $11 billion come from stolen crypto, $8.6 billion taken from investment scams, while AI-related attacks cost $893 million 
-
-The FBI reports $21 billion lost to online scams, with 55% involving cryptocurrency.
-
-💡 *Cybercrime targeting Americans disproportionately affects vulnerable cryptocurrency holders.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/usd21-billion-stolen-from-more-than-1-million-americans-due-to-cybercrime-in-2025-usd11-billion-come-from-stolen-crypto-usd8-6-billion-taken-from-investment-scams-while-ai-related-attacks-cost-usd893-million)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ddr4-spot-prices-fall-for-first-time-in-nearly-a-year-as-chinese-channel-inventory-clears)
 
 ---
 
-### 9. Ohio man pleads guilty in first case under federal law banning AI deepfakes 
+### 5. Newbie overclocker destroys $5,000 RTX 5090 Lightning Z GPU they used 'to learn how to solder' practicing newfound hobby goes wrong in the most expensive way imaginable 
 
-An Ohio man pleaded guilty to producing explicit AI deepfakes involving adults and minors. The deepfakes were created using AI software and manipulated real images of individuals from his community. The material was graphic and included scenes with individuals he personally knew, including children.
+A $5,000 GPU was damaged by a newbie overclocker trying to solder a resistor, leading to repair costs. The incident highlights the risks of experimenting with high-end electronics without proper knowledge. The owner's inexperience led to a costly mistake.
 
-💡 *Protection of individuals' privacy and safety from AI-generated exploitation*
+💡 *Lack of expertise can lead to expensive mistakes with high-tech gadgets.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112011-ohio-man-pleads-guilty-first-federal-ai-deepfake.html)
-
----
-
-### 10. John Deere will pay $99 million in right-to-repair lawsuit, but admits nothing 
-
-John Deere agrees to pay $99 million in a right-to-repair lawsuit, denying wrongdoing.
-
-💡 *Right-to-repair settlements may set precedent for industry-wide change*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112015-john-deere-agrees-99-million-settlement-major-right.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/newbie-overclocker-destroys-usd5-000-rtx-5090-lightning-z-gpu-they-used-to-learn-how-to-solder-practicing-newfound-hobby-goes-wrong-in-the-most-expensive-way-imaginable)
 
 ---
 
-### 11. Tech layoffs are piling up: 80,000 jobs cut in early 2026, and AI is getting the blame 
+### 6. Engineer installs 3.5-inch floppy drive in a Tesla modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette 
 
-Tech layoffs in early 2026 have surpassed 80,000 jobs, with AI often cited as the reason. However, experts argue that companies may be using AI as a convenient explanation for restructuring. The actual causes of job losses remain unclear.
+An engineer successfully integrated a 3.5-inch floppy drive into a Tesla, allowing the vehicle to recognize and play files from the ancient storage device. This was achieved using a simple USB-to-FDD converter. The setup even played an MP3 file from a floppy disk.
 
-💡 *AI blamed for job losses may be a convenient corporate narrative.*
+💡 *Reviving legacy tech can work with modern systems through creative adapters.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112006-tech-layoffs-hit-80000-early-2026-ai-blamed.html)
-
----
-
-### 12. Some Windows 3.1 apps were simply "too evil" for Windows 95 to support, says Microsoft veteran 
-
-Microsoft veteran Raymond Chen revealed that some Windows 3.1 apps were too difficult to support in Windows 95. Developers had to create custom solutions for compatibility. This process was crucial for the new OS.
-
-💡 *Legacy compatibility challenges shaped Windows 95's development process.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112000-windows-31-apps-simply-evil-windows-95-support.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/engineer-installs-3-5-inch-floppy-drive-in-a-tesla-modern-ev-recognizes-and-runs-ancient-storage-device-even-plays-an-mp3-file-from-diskette)
 
 ---
 
-### 13. AMD confirms Ryzen 9 9950X3D2 priced at $899 
+### 7. Bee Write Back A Raspberry Pi Zero 2 W-based DIY writerdeck with 5.5-inch OLED and mechanical keyboard 
 
-AMD confirms the Ryzen 9 9950X3D2 will be priced at $899, not $100 more than MSRP.
+The Bee Write Back is a DIY writerdeck built with Raspberry Pi Zero 2 W, featuring a 5.5-inch OLED screen and mechanical keyboard, designed as a distraction-free writing machine.
 
-💡 *Official price undercuts initial retailer price expectations by $100.*
+💡 *Combines digital writing with tactile experience for focused journaling.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112007-amd-confirms-ryzen-9-9950x3d2-priced-899-200.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/10/bee-write-back-a-raspberry-pi-zero-2-w-based-diy-writerdeck-with-5-5-inch-oled-and-mechanical-keyboard/)
 
 ---
 
-### 14. Chip revenue to reach record $1.3T in 2026, including sensors 
+### 8. Florida launches probe into OpenAI as company eyes massive IPO 
 
-Gartner predicts record chip revenue of $1.3T in 2026, driven by sensors and AI demand. However, memory price inflation may lead to delayed or destroyed non-AI demand. This trend highlights the increasing importance of AI and sensor technologies.
+Florida launches an investigation into OpenAI's data and AI systems. The probe aims to determine if sensitive information could be accessed by adversaries. This is amid OpenAI's plans for a massive IPO.
 
-💡 *Memory price inflation threatens non-AI chip demand viability.*
+💡 *National security concerns threaten OpenAI's public listing ambitions.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/electronics/chip-revenue-reach-record-13t-2026-including-sensors)
+🔗 [Read Full Article](https://www.techspot.com/news/112027-florida-launches-probe-openai-company-eyes-massive-ipo.html)
+
+---
+
+### 9. South Korea moves to curb the meteoritic rise of DRAM and PC hardware prices 
+
+South Korea is working to control rising DRAM and PC hardware prices. Strict market regulation may be necessary but not favored in Washington. Pressure from AI demand is driving up component costs.
+
+💡 *Rising AI demand drives hardware price inflation and supply chain strain.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112018-south-korea-moves-curb-meteoritic-rise-dram-pc.html)
+
+---
+
+### 10. Tesla is working on a smaller, cheaper electric SUV 
+
+Tesla is developing a smaller, more affordable electric SUV in China, with potential US and European production. The new vehicle will be shorter than the Model [Y], measuring around 14 feet in length. Its production aims to make EVs more accessible to a wider audience.
+
+💡 *Tesla's new model seeks to make electric vehicles more affordable.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112023-tesla-explores-compact-suv-lower-cost-single-motor.html)
+
+---
+
+### 11. FBI recovers "deleted" Signal messages through iPhone notifications 
+
+The FBI recovered deleted Signal messages from an iPhone by accessing push notifications stored in a separate database.
+
+💡 *FBI can recover deleted data through iPhone's notification database access.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112021-fbi-recovers-suspect-deleted-signal-messages-through-saved.html)
+
+---
+
+### 12. VeraCrypt, WireGuard among projects disrupted by Microsoft account suspensions 
+
+VeraCrypt's development is disrupted due to Microsoft's account suspension of its developer.
+
+💡 *Microsoft's actions impact open-source security projects and developers worldwide.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112017-veracrypt-wireguard-among-projects-disrupted-microsoft-account-suspensions.html)
+
+---
+
+### 13. The cables powering the internet are under the ocean and under threat 
+
+A surge in submarine-cable construction is driven by AI demand for increased network capacity.
+
+💡 *Rising demand for AI requires more undersea internet connectivity options.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112014-cables-powering-internet-under-ocean-under-threat.html)
+
+---
+
+### 14. Why IoT platforms must evolve for edge intelligence 
+
+Edge AI is transforming IoT devices with real-time processing capabilities, enabling them to perform complex tasks autonomously. This shift is driven by the need for faster decision-making and improved efficiency. As a result, IoT platforms must adapt to support edge intelligence.
+
+💡 *IoT devices require adaptive platforms for real-time edge intelligence.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/why-iot-platforms-must-evolve-edge-intelligence)
+
+---
+
+### 15. Amazon laid off 30,000 workers while CEO Andy Jassy got a 30% pay bump 
+
+Amazon's CEO Andy Jassy received a 30% pay bump despite laying off 30,000 workers. The company published its annual proxy statement revealing Jassy's compensation for last year. This move has sparked controversy among employees and critics.
+
+💡 *CEO compensation often diverges from company's worker treatment decisions*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112028-amazon-laid-off-30000-workers-while-ceo-andy.html)
 
 ---
 
