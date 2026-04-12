@@ -1,165 +1,115 @@
 # 🤖 AI & ML
-**Week of April 11, 2026**
+**Week of April 12, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 15
-- **Report generated:** 2026-04-11 09:25
+- **Articles this week:** 10
+- **Report generated:** 2026-04-12 09:31
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. PC market posts modest growth in early 2026 despite memory shortages and economic strain 
+### 1. Tests show $30,000 AI GPUs are terrible password crackers RTX 5090 gaming GPU outperforms Nvidia H200 and AMD MI300X ⭐
 
-The PC market saw modest growth in early 2026 despite economic strain and memory shortages. Preemptive purchasing and upgrades contributed to the uptick. Vendors and customers made cautious moves ahead of expected price hikes.
+A research team found the RTX 5090 gaming GPU outperforms AI datacenter GPUs in password cracking. This is significant because gaming GPUs are often cheaper and more accessible. The RTX 5090 was the winner in a benchmark test.
 
-💡 *Preemptive purchasing mitigated the impact of memory shortages financially.*
+💡 *Gaming GPUs beat AI datacenter GPUs in password cracking efficiency*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112020-pc-market-posts-modest-growth-early-2026-despite.html)
-
----
-
-### 2. Framework founder says that personal computing as we know it is dead vows to keep building computers that you can own at the deepest level  
-
-Framework founder Nirav Patel vows to keep building personal computers despite the industry shift towards subscription-based models, promising to preserve personal ownership of computation.
-
-💡 *Personal computing ownership under threat from subscription-based business models.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/framework-founder-says-that-personal-computing-as-we-know-it-is-dead-vows-to-keep-building-computers-that-you-can-own-at-the-deepest-level)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/tests-show-usd30-000-ai-gpus-are-terrible-password-crackers-h200-and-mi300x-outperformed-by-rtx-5090)
 
 ---
 
-### 3. 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future 
+### 2. Anti-data center vote in Wisconsin puts future AI projects on notice 
 
-Lexar is building storage solutions for today and tomorrow's AI-ready demands. A tour of its R&D labs and production facilities showcased the company's innovation and focus on emerging technologies. This includes the development of high-capacity storage for artificial intelligence applications.
+Port Washington, Wisconsin, residents voted to require voter approval for data center tax incentives, potentially slowing down future development.
 
-💡 *AI-ready storage demands faster, more reliable, and high-capacity solutions*
+💡 *Community control tightens around data center development and tax incentives.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/30-years-of-lexar-what-a-look-inside-its-r-and-d-labs-and-factory-reveals-about-its-plans-for-an-ai-ready-future)
-
----
-
-### 4. After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year DDR5 pricing sees some relief in China channel market 
-
-DDR4 16Gb spot prices fell 5%, marking the first decline in nearly a year after a 2,200% increase over the last 12 months.
-
-💡 *Market correction may signal a shift in DDR4 demand and pricing dynamics.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ddr4-spot-prices-fall-for-first-time-in-nearly-a-year-as-chinese-channel-inventory-clears)
+🔗 [Read Full Article](https://www.techspot.com/news/112035-wisconsin-city-becomes-first-vote-against-future-data.html)
 
 ---
 
-### 5. Newbie overclocker destroys $5,000 RTX 5090 Lightning Z GPU they used 'to learn how to solder' practicing newfound hobby goes wrong in the most expensive way imaginable 
+### 3. MacBook user explains why he files the sharp metal edges off his Apple laptops unibody design facilitates a surprisingly deep roundover 
 
-A $5,000 GPU was damaged by a newbie overclocker trying to solder a resistor, leading to repair costs. The incident highlights the risks of experimenting with high-end electronics without proper knowledge. The owner's inexperience led to a costly mistake.
+A MacBook user files off sharp edges to round over the unibody design, sparking controversy.
 
-💡 *Lack of expertise can lead to expensive mistakes with high-tech gadgets.*
+💡 *Safety and comfort matter, even on high-end tech products like MacBooks.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/newbie-overclocker-destroys-usd5-000-rtx-5090-lightning-z-gpu-they-used-to-learn-how-to-solder-practicing-newfound-hobby-goes-wrong-in-the-most-expensive-way-imaginable)
-
----
-
-### 6. Engineer installs 3.5-inch floppy drive in a Tesla modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette 
-
-An engineer successfully integrated a 3.5-inch floppy drive into a Tesla, allowing the vehicle to recognize and play files from the ancient storage device. This was achieved using a simple USB-to-FDD converter. The setup even played an MP3 file from a floppy disk.
-
-💡 *Reviving legacy tech can work with modern systems through creative adapters.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/engineer-installs-3-5-inch-floppy-drive-in-a-tesla-modern-ev-recognizes-and-runs-ancient-storage-device-even-plays-an-mp3-file-from-diskette)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/macbook-user-explains-why-he-files-the-sharp-metal-edges-off-his-apple-laptops-unibody-design-facilitates-a-surprisingly-deep-roundover)
 
 ---
 
-### 7. Bee Write Back A Raspberry Pi Zero 2 W-based DIY writerdeck with 5.5-inch OLED and mechanical keyboard 
+### 4. Chinese Nvidia Cloud Partner procured 300 servers with banned AI GPUs worth $92 million shares of data center supplier Sharetronic plummet following Super Micro smuggling arrest 
 
-The Bee Write Back is a DIY writerdeck built with Raspberry Pi Zero 2 W, featuring a 5.5-inch OLED screen and mechanical keyboard, designed as a distraction-free writing machine.
+A Chinese AI data center company sold Nvidia H100-chipped servers despite US export ban, leading to a drop in shares of data center supplier Sharetronic after a Super Micro smuggling arrest.
 
-💡 *Combines digital writing with tactile experience for focused journaling.*
+💡 *U.S. export ban circumvention undermines global AI technology security regulations.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/10/bee-write-back-a-raspberry-pi-zero-2-w-based-diy-writerdeck-with-5-5-inch-oled-and-mechanical-keyboard/)
-
----
-
-### 8. Florida launches probe into OpenAI as company eyes massive IPO 
-
-Florida launches an investigation into OpenAI's data and AI systems. The probe aims to determine if sensitive information could be accessed by adversaries. This is amid OpenAI's plans for a massive IPO.
-
-💡 *National security concerns threaten OpenAI's public listing ambitions.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112027-florida-launches-probe-openai-company-eyes-massive-ipo.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinese-nvidia-cloud-partner-procured-300-servers-with-banned-ai-gpus-worth-usd92-million-shares-of-data-center-supplier-sharetronic-plummet-following-super-micro-smuggling-arrest)
 
 ---
 
-### 9. South Korea moves to curb the meteoritic rise of DRAM and PC hardware prices 
+### 5. Original Apollo 11 code open-sourced by NASA original Command Module and Lunar Module code repos are now public domain resources 
 
-South Korea is working to control rising DRAM and PC hardware prices. Strict market regulation may be necessary but not favored in Washington. Pressure from AI demand is driving up component costs.
+NASA has open-sourced the original Apollo 11 computer code, making it publicly accessible for anyone to read, download, and modify.
 
-💡 *Rising AI demand drives hardware price inflation and supply chain strain.*
+💡 *Historic code preservation enables future space innovation and collaboration.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112018-south-korea-moves-curb-meteoritic-rise-dram-pc.html)
-
----
-
-### 10. Tesla is working on a smaller, cheaper electric SUV 
-
-Tesla is developing a smaller, more affordable electric SUV in China, with potential US and European production. The new vehicle will be shorter than the Model [Y], measuring around 14 feet in length. Its production aims to make EVs more accessible to a wider audience.
-
-💡 *Tesla's new model seeks to make electric vehicles more affordable.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112023-tesla-explores-compact-suv-lower-cost-single-motor.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/original-apollo-11-code-open-sourced-by-nasa-original-command-module-and-lunar-module-code-repos-are-now-public-domain-resources)
 
 ---
 
-### 11. FBI recovers "deleted" Signal messages through iPhone notifications 
+### 6. Benchmarking Nvidia's RTX Neural Texture Compression tech that can reduce VRAM usage by over 80% 
 
-The FBI recovered deleted Signal messages from an iPhone by accessing push notifications stored in a separate database.
+Nvidia's RTX Neural Texture Compression reduces VRAM usage by over 80% in various tests, showcasing its effectiveness in multiple GPU setups, including laptops.
 
-💡 *FBI can recover deleted data through iPhone's notification database access.*
+💡 *Reduced VRAM usage enables improved performance and increased graphical fidelity.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112021-fbi-recovers-suspect-deleted-signal-messages-through-saved.html)
-
----
-
-### 12. VeraCrypt, WireGuard among projects disrupted by Microsoft account suspensions 
-
-VeraCrypt's development is disrupted due to Microsoft's account suspension of its developer.
-
-💡 *Microsoft's actions impact open-source security projects and developers worldwide.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112017-veracrypt-wireguard-among-projects-disrupted-microsoft-account-suspensions.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/benchmarking-nvidias-rtx-neural-texture-compression-tech-that-can-reduce-vram-usage-by-over-80-percent)
 
 ---
 
-### 13. The cables powering the internet are under the ocean and under threat 
+### 7. FAA courts gamers to become air traffic controllers boasts $155k average annual salary after three years as the agency prepares for 8,000 applicants 
 
-A surge in submarine-cable construction is driven by AI demand for increased network capacity.
+The FAA is recruiting gamers to become air traffic controllers, offering a high average annual salary of $155k after three years. The agency aims to expand its numbers to address the ATC shortage, which affects safety and airport operations. This initiative targets the younger demographic to fill the shortage.
 
-💡 *Rising demand for AI requires more undersea internet connectivity options.*
+💡 *Gamers' multitasking skills can help alleviate air traffic control shortage*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112014-cables-powering-internet-under-ocean-under-threat.html)
-
----
-
-### 14. Why IoT platforms must evolve for edge intelligence 
-
-Edge AI is transforming IoT devices with real-time processing capabilities, enabling them to perform complex tasks autonomously. This shift is driven by the need for faster decision-making and improved efficiency. As a result, IoT platforms must adapt to support edge intelligence.
-
-💡 *IoT devices require adaptive platforms for real-time edge intelligence.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/why-iot-platforms-must-evolve-edge-intelligence)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/faa-courts-gamers-to-become-air-traffic-controllers-boasts-usd155k-average-annual-salary-after-three-years-as-the-agency-prepares-for-8-000-applicants)
 
 ---
 
-### 15. Amazon laid off 30,000 workers while CEO Andy Jassy got a 30% pay bump 
+### 8. Mozilla says Microsoft is using Copilot and Edge to tighten its grip on Windows 
 
-Amazon's CEO Andy Jassy received a 30% pay bump despite laying off 30,000 workers. The company published its annual proxy statement revealing Jassy's compensation for last year. This move has sparked controversy among employees and critics.
+Mozilla claims Microsoft's design choices in Windows favor Edge and Copilot, undermining user control.
 
-💡 *CEO compensation often diverges from company's worker treatment decisions*
+💡 *Microsoft's integration prioritizes its own products over competing software options.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112028-amazon-laid-off-30000-workers-while-ceo-andy.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112033-mozilla-microsoft-using-copilot-edge-tighten-grip-windows.html)
+
+---
+
+### 9. Gmail encryption goes mobile, but email itself remains the weak link 
+
+Google extends end-to-end encryption to Gmail mobile apps for users with organization-paid accounts, bolstering online security.
+
+💡 *Email remains a weak link in otherwise secure communication chains.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112031-gmail-encryption-goes-mobile-but-email-itself-remains.html)
+
+---
+
+### 10. xAI sues Colorado over AI law, calling it a threat to free speech 
+
+xAI is suing Colorado over an AI law it considers a threat to free speech. The dispute centers on control over information generated by large-scale AI systems. This frames the issue as a First Amendment matter.
+
+💡 *Free speech implications are at stake in AI regulation debates.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112029-xai-sues-colorado-over-ai-law-calling-threat.html)
 
 ---
 

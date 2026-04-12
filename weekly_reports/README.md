@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 11, 2026**
+**Week of April 12, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. French government says it's ditching Windows for Linux country accelerates plans to ditch US-based software in digital sovereignty push 
-
-**📰 Tech News**
-
-France is accelerating its digital sovereignty plans by adopting Linux over Windows. The country's DINUM announced its exit from Windows in favor of Linux workstations. This shift aims to reduce dependence on US-based software.
-
-💡 **Key Point:** France boosts national security with less reliance on US tech
-
-🔗 [Read More](https://www.tomshardware.com/software/windows/french-government-say-its-ditching-windows-for-linux-country-accelerates-plans-to-ditch-us-based-software-in-digital-sovereignty-push)
-
----
-
-### 2. Cooler Master MWE Bronze V2 230V 650W power supply review: A competent entry-level choice 
-
-**📰 Tech News**
-
-The Cooler Master MWE Bronze V2 230V 650W is a budget power supply that meets expectations, but its performance is limited by compromised active components and an 85 C bulk capacitor.
-
-💡 **Key Point:** Limited performance due to compromised components and heat issues.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-bronze-v2-230v-650w-power-supply-review)
-
----
-
-### 3. Silverstone IceMyst Pro 360 Pro Review: Designed for RAM overclocking 
-
-**📰 Tech News**
-
-The Silverstone IceMyst Pro 360 AIO is designed for RAM overclocking, offering targeted cooling and improved performance. In our review, we tested it with AMD's Ryzen 9 9950X3D CPU. This unique AIO aims to optimize RAM temperatures and enhance overclocking capabilities.
-
-💡 **Key Point:** Optimized RAM cooling boosts overclocking potential and performance.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/liquid-cooling/silverstone-icemyst-pro-360-pro-review)
-
----
-
-### 4. Cooler Master MWE Bronze V2 230V 650W power supply review: A competent entry-level choice 
+### 1. $15 STM32U575 development board features FPC display connector, microSD card slot, two 48-pin GPIO headers ⭐
 
 **💻 Hardware**
 
-The Cooler Master MWE Bronze V2 230V 650W is a budget power supply that meets expectations, but its performance is limited by compromised active components and an 85 C bulk capacitor.
+The Maker Go STM32U575 development board features an STM32U575VGT6 MCU, 8MB of external flash, and a high-performance Cortex-M33 core running at 160 MHz. It has a display connector, a microSD card slot, and multiple GPIO headers for compact UI projects. The board is available for $15.
 
-💡 **Key Point:** Limited performance due to compromised components and heat issues.
+💡 **Key Point:** Low-cost STM32U575 board simplifies compact UI development projects.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-bronze-v2-230v-650w-power-supply-review)
+🔗 [Read More](https://www.cnx-software.com/2026/04/11/15-stm32u575-development-board-features-fpc-display-connector-microsd-card-slot-two-48-pin-gpio-headers/)
 
 ---
 
-### 5. Silverstone IceMyst Pro 360 Pro Review: Designed for RAM overclocking 
+### 2. $15 STM32U575 development board features FPC display connector, microSD card slot, two 48-pin GPIO headers ⭐
+
+**🎮 GPUs**
+
+The Maker Go STM32U575 development board features an STM32U575VGT6 MCU, 8MB of external flash, and a high-performance Cortex-M33 core running at 160 MHz. It has a display connector, a microSD card slot, and multiple GPIO headers for compact UI projects. The board is available for $15.
+
+💡 **Key Point:** Low-cost STM32U575 board simplifies compact UI development projects.
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/11/15-stm32u575-development-board-features-fpc-display-connector-microsd-card-slot-two-48-pin-gpio-headers/)
+
+---
+
+### 3. Best Laptops 2026: Our benchmarked picks for productivity, portability, and battery life ⭐
 
 **💻 Hardware**
 
-The Silverstone IceMyst Pro 360 AIO is designed for RAM overclocking, offering targeted cooling and improved performance. In our review, we tested it with AMD's Ryzen 9 9950X3D CPU. This unique AIO aims to optimize RAM temperatures and enhance overclocking capabilities.
+Our expert review features the top-rated laptops for productivity, portability, and battery life, covering various brands and operating systems. We've rigorously tested dozens of models to identify the best options. Our picks cater to diverse needs and preferences.
 
-💡 **Key Point:** Optimized RAM cooling boosts overclocking potential and performance.
+💡 **Key Point:** The right laptop can boost work efficiency and personal productivity significantly.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/liquid-cooling/silverstone-icemyst-pro-360-pro-review)
+🔗 [Read More](https://www.tomshardware.com/laptops/best-laptops)
+
+---
+
+### 4. Tests show $30,000 AI GPUs are terrible password crackers RTX 5090 gaming GPU outperforms Nvidia H200 and AMD MI300X ⭐
+
+**🤖 AI & ML**
+
+A research team found the RTX 5090 gaming GPU outperforms AI datacenter GPUs in password cracking. This is significant because gaming GPUs are often cheaper and more accessible. The RTX 5090 was the winner in a benchmark test.
+
+💡 **Key Point:** Gaming GPUs beat AI datacenter GPUs in password cracking efficiency
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/tests-show-usd30-000-ai-gpus-are-terrible-password-crackers-h200-and-mi300x-outperformed-by-rtx-5090)
+
+---
+
+### 5. Best Laptops 2026: Our benchmarked picks for productivity, portability, and battery life ⭐
+
+**🎮 GPUs**
+
+Our expert review features the top-rated laptops for productivity, portability, and battery life, covering various brands and operating systems. We've rigorously tested dozens of models to identify the best options. Our picks cater to diverse needs and preferences.
+
+💡 **Key Point:** The right laptop can boost work efficiency and personal productivity significantly.
+
+🔗 [Read More](https://www.tomshardware.com/laptops/best-laptops)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **40 articles** across **5 focused categories**.
+We covered **28 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 15 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 9 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 10 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 7 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 2 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 15 articles
+*Artificial Intelligence and Machine Learning* — 10 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 3 articles
+*Graphics cards and compute accelerators* — 5 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 9 articles
+*Computing hardware and development boards* — 7 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 3 articles
+*Chip manufacturing and design* — 2 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 10 articles
+*Industry news and product launches* — 4 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-04-11 at 09:25 by an autonomous AI curation system.
+Generated 2026-04-12 at 09:31 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

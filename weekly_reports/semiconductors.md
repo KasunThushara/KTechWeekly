@@ -1,45 +1,35 @@
 # ⚡ Semiconductors
-**Week of April 11, 2026**
+**Week of April 12, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 3
-- **Report generated:** 2026-04-11 09:25
+- **Articles this week:** 2
+- **Report generated:** 2026-04-12 09:31
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. French government says it's ditching Windows for Linux country accelerates plans to ditch US-based software in digital sovereignty push 
+### 1. Two manufacturers commit to keep Blu-ray alive after others quit manufacturing Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market 
 
-France is accelerating its digital sovereignty plans by adopting Linux over Windows. The country's DINUM announced its exit from Windows in favor of Linux workstations. This shift aims to reduce dependence on US-based software.
+Verbatim Japan and I-O Data have extended their commitment to supply Blu-ray products, including hardware and media, in Japan, amid declining demand and manufacturer exits.
 
-💡 *France boosts national security with less reliance on US tech*
+💡 *Blu-ray's future secured by remaining manufacturers in Japan.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/french-government-say-its-ditching-windows-for-linux-country-accelerates-plans-to-ditch-us-based-software-in-digital-sovereignty-push)
-
----
-
-### 2. DDR5 prices drop nearly 30%, but memory costs are still far from normal 
-
-DDR4 chip prices have corrected slightly, but costs remain elevated after a prolonged increase.
-
-💡 *DRAM price fluctuations impact memory cost stability and technology adoption.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112030-memory-prices-finally-falling-but-ram-remain-unaffordable.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/verbatim-and-i-o-data-extend-blu-ray-supply-pledge-as-manufacturers-exit-the-market)
 
 ---
 
-### 3. VeraCrypt, WireGuard among projects disrupted by Microsoft account suspensions 
+### 2. France starts moving government systems from Windows to Linux 
 
-VeraCrypt's development is disrupted due to Microsoft's account suspension of its developer.
+France's DINUM plans to move government systems from non-European software, including Windows, to Linux and European-developed apps.
 
-💡 *Microsoft's actions impact open-source security projects and developers worldwide.*
+💡 *Enhancing national cybersecurity and reducing reliance on foreign technology*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112017-veracrypt-wireguard-among-projects-disrupted-microsoft-account-suspensions.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112032-france-starts-moving-government-systems-windows-linux.html)
 
 ---
 

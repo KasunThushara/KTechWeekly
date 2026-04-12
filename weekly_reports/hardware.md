@@ -1,105 +1,85 @@
 # 💻 Hardware
-**Week of April 11, 2026**
+**Week of April 12, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-04-11 09:25
+- **Articles this week:** 7
+- **Report generated:** 2026-04-12 09:31
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Cooler Master MWE Bronze V2 230V 650W power supply review: A competent entry-level choice 
+### 1. $15 STM32U575 development board features FPC display connector, microSD card slot, two 48-pin GPIO headers ⭐
 
-The Cooler Master MWE Bronze V2 230V 650W is a budget power supply that meets expectations, but its performance is limited by compromised active components and an 85 C bulk capacitor.
+The Maker Go STM32U575 development board features an STM32U575VGT6 MCU, 8MB of external flash, and a high-performance Cortex-M33 core running at 160 MHz. It has a display connector, a microSD card slot, and multiple GPIO headers for compact UI projects. The board is available for $15.
 
-💡 *Limited performance due to compromised components and heat issues.*
+💡 *Low-cost STM32U575 board simplifies compact UI development projects.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-bronze-v2-230v-650w-power-supply-review)
-
----
-
-### 2. Silverstone IceMyst Pro 360 Pro Review: Designed for RAM overclocking 
-
-The Silverstone IceMyst Pro 360 AIO is designed for RAM overclocking, offering targeted cooling and improved performance. In our review, we tested it with AMD's Ryzen 9 9950X3D CPU. This unique AIO aims to optimize RAM temperatures and enhance overclocking capabilities.
-
-💡 *Optimized RAM cooling boosts overclocking potential and performance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/silverstone-icemyst-pro-360-pro-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/11/15-stm32u575-development-board-features-fpc-display-connector-microsd-card-slot-two-48-pin-gpio-headers/)
 
 ---
 
-### 3. PC market posts modest growth in early 2026 despite memory shortages and economic strain 
+### 2. Best Laptops 2026: Our benchmarked picks for productivity, portability, and battery life ⭐
 
-The PC market saw modest growth in early 2026 despite economic strain and memory shortages. Preemptive purchasing and upgrades contributed to the uptick. Vendors and customers made cautious moves ahead of expected price hikes.
+Our expert review features the top-rated laptops for productivity, portability, and battery life, covering various brands and operating systems. We've rigorously tested dozens of models to identify the best options. Our picks cater to diverse needs and preferences.
 
-💡 *Preemptive purchasing mitigated the impact of memory shortages financially.*
+💡 *The right laptop can boost work efficiency and personal productivity significantly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112020-pc-market-posts-modest-growth-early-2026-despite.html)
-
----
-
-### 4. HWMonitor and CPU-Z developer CPUID breached by unknown attackers cyberattack forced users to download malware instead of valid apps for six hours 
-
-CPUID's website was compromised by unknown attackers, redirecting users to malware downloads. This breach occurred for six hours, forcing users to potentially install malicious software. The affected tools included HWMonitor and CPU-Z.
-
-💡 *Malware downloads can lead to significant security risks and data loss.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/hwmonitor-and-cpu-z-developer-cpuid-breached-by-unknown-attackers-cyberattack-forced-users-to-download-malware-instead-of-valid-apps-for-approximately-six-hours)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/best-laptops)
 
 ---
 
-### 5. Framework founder says that personal computing as we know it is dead vows to keep building computers that you can own at the deepest level  
+### 3. Two manufacturers commit to keep Blu-ray alive after others quit manufacturing Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market 
 
-Framework founder Nirav Patel vows to keep building personal computers despite the industry shift towards subscription-based models, promising to preserve personal ownership of computation.
+Verbatim Japan and I-O Data have extended their commitment to supply Blu-ray products, including hardware and media, in Japan, amid declining demand and manufacturer exits.
 
-💡 *Personal computing ownership under threat from subscription-based business models.*
+💡 *Blu-ray's future secured by remaining manufacturers in Japan.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/framework-founder-says-that-personal-computing-as-we-know-it-is-dead-vows-to-keep-building-computers-that-you-can-own-at-the-deepest-level)
-
----
-
-### 6. Bee Write Back A Raspberry Pi Zero 2 W-based DIY writerdeck with 5.5-inch OLED and mechanical keyboard 
-
-The Bee Write Back is a DIY writerdeck built with Raspberry Pi Zero 2 W, featuring a 5.5-inch OLED screen and mechanical keyboard, designed as a distraction-free writing machine.
-
-💡 *Combines digital writing with tactile experience for focused journaling.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/10/bee-write-back-a-raspberry-pi-zero-2-w-based-diy-writerdeck-with-5-5-inch-oled-and-mechanical-keyboard/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/verbatim-and-i-o-data-extend-blu-ray-supply-pledge-as-manufacturers-exit-the-market)
 
 ---
 
-### 7. South Korea moves to curb the meteoritic rise of DRAM and PC hardware prices 
+### 4. MacBook user explains why he files the sharp metal edges off his Apple laptops unibody design facilitates a surprisingly deep roundover 
 
-South Korea is working to control rising DRAM and PC hardware prices. Strict market regulation may be necessary but not favored in Washington. Pressure from AI demand is driving up component costs.
+A MacBook user files off sharp edges to round over the unibody design, sparking controversy.
 
-💡 *Rising AI demand drives hardware price inflation and supply chain strain.*
+💡 *Safety and comfort matter, even on high-end tech products like MacBooks.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112018-south-korea-moves-curb-meteoritic-rise-dram-pc.html)
-
----
-
-### 8. Keychron shares 3D keyboard blueprints on GitHub, opening hardware to modders 
-
-Keychron has shared 3D keyboard blueprints on GitHub for modders to customize.
-
-💡 *Increased user control and customizability in keyboard hardware design.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112022-keychron-shares-3d-keyboard-blueprints-github-opening-hardware.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/macbook-user-explains-why-he-files-the-sharp-metal-edges-off-his-apple-laptops-unibody-design-facilitates-a-surprisingly-deep-roundover)
 
 ---
 
-### 9. Nvidia's mythical N1 SoC surfaces on a real motherboard, and it's packing 128GB of LPDDR5X 
+### 5. Intel Core Ultra 7 270K Plus vs Ryzen 7 9700X faceoff a new midrange CPU champ emerges 
 
-Nvidia's long-rumored N1 SoC has been spotted on a real motherboard with 128GB of LPDDR5X. High-quality images suggest this product is closer to reality. The exact features and specifications of the N1 chip remain unclear.
+Intel's Core Ultra 7 270K Plus takes on Ryzen 7 9700X in a mid-range showdown, pitting its $300 price point against the Ryzen's performance. Our testing pits the two CPUs against each other in various tasks to see which emerges victorious. The results highlight a competitive mid-range market.
 
-💡 *Nvidia's N1 chip could revolutionize mobile, AI, and gaming performance*
+💡 *Mid-range CPU market sees intense competition between Intel and AMD.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112025-nvidia-mythical-n1-soc-surfaces-real-motherboard-packing.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-ryzen-7-9700x-cpu-faceoff)
+
+---
+
+### 6. HyperX Eve 1800 Review: Not worth $50 
+
+The HyperX Eve 1800 keyboard falls short in features and usability, making it a poor value for its price. Despite its relatively low cost of $50, it lacks key performance and comfort features. Users may find alternative options more satisfying for the same price.
+
+💡 *Priced poorly for its lacking features and usability.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/hyperx-eve-1800-review)
+
+---
+
+### 7. Original Apollo 11 code open-sourced by NASA original Command Module and Lunar Module code repos are now public domain resources 
+
+NASA has open-sourced the original Apollo 11 computer code, making it publicly accessible for anyone to read, download, and modify.
+
+💡 *Historic code preservation enables future space innovation and collaboration.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/original-apollo-11-code-open-sourced-by-nasa-original-command-module-and-lunar-module-code-repos-are-now-public-domain-resources)
 
 ---
 

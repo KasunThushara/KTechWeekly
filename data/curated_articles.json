@@ -1,303 +1,201 @@
 [
   {
-    "title": "Microsoft simplifies Windows Insider program fewer channels, and switching without wiping your device",
-    "summary": "Microsoft is simplifying the Windows Insider program with fewer channels, making it easier to switch between them and enable the latest features.",
-    "link": "https://www.tomshardware.com/software/windows/microsoft-simplifies-windows-insider-program-fewer-channels-and-switching-without-wiping-your-device",
+    "title": "Rockstar Games confirms it was hacked by malicious group 'ShinyHunters' takes credit, gives until April 14 to pay ransom or it will release confidential data",
+    "summary": "The hacker group \"Shiny Hunters\" has been able to breach Rockstar Games by accessing authentication tokens and getting inside the company's cloud infrastructure. The stolen data doesn't include any sensitive company or player information, according to a Rockstar spokesperson, but it's still being put up for ransom.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/rockstar-games-confirms-it-was-hacked-by-malicious-group-shinyhunters-takes-credit-gives-until-april-14-to-pay-ransom-or-risk-leaking-confidential-data-shinyhunters",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.081770"
+    "processed_date": "2026-04-12T09:30:23.937393"
   },
   {
-    "title": "HWMonitor and CPU-Z developer CPUID breached by unknown attackers cyberattack forced users to download malware instead of valid apps for six hours",
-    "summary": "Unknown attackers compromised the CPUID website, redirecting users to malware laden versions of popular tools.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/hwmonitor-and-cpu-z-developer-cpuid-breached-by-unknown-attackers-cyberattack-forced-users-to-download-malware-instead-of-valid-apps-for-approximately-six-hours",
+    "title": "Clippy, Microsoft s hapless Office assistant, was retired 25 years ago today its irritating spirit lives on in 100+ Copilots",
+    "summary": "Microsoft s Clippy was put out to pasture a quarter century ago. This hapless, and some would add irritating, productivity assistant would no longer be enabled by default in Office, starting April 11, 2001.",
+    "link": "https://www.tomshardware.com/software/windows/clippy-microsofts-hapless-office-assistant-was-retired-25-years-ago-today-its-irritating-spirit-lives-on-in-100-copilots",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-12T09:30:23.937511"
+  },
+  {
+    "title": "Two manufacturers commit to keep Blu-ray alive after others quit manufacturing Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market",
+    "summary": "Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as media.",
+    "link": "https://www.tomshardware.com/tech-industry/verbatim-and-i-o-data-extend-blu-ray-supply-pledge-as-manufacturers-exit-the-market",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-12T09:30:23.937645"
+  },
+  {
+    "title": "MacBook user explains why he files the sharp metal edges off his Apple laptops unibody design facilitates a surprisingly deep roundover",
+    "summary": "Tech DIYer Kent Walters has used a metalworking file to round over the corners of his MacBook. Apparently, some people freak out about this.",
+    "link": "https://www.tomshardware.com/laptops/macbooks/macbook-user-explains-why-he-files-the-sharp-metal-edges-off-his-apple-laptops-unibody-design-facilitates-a-surprisingly-deep-roundover",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-12T09:30:23.937752"
+  },
+  {
+    "title": "Best Laptops 2026: Our benchmarked picks for productivity, portability, and battery life",
+    "summary": "We test dozens of laptops a year for their performance, screen quality, and battery life, to find the best laptops right now across Windows, macOS, Intel, AMD, and Qualcomm notebooks.",
+    "link": "https://www.tomshardware.com/laptops/best-laptops",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-12T09:30:23.937912"
+  },
+  {
+    "title": "Denuvo properly cracked in Resident Evil: Requiem, bypasses become plug-and-play cracked version runs faster, smoother, and uses way less VRAM and RAM",
+    "summary": "Denuvo properly cracked in Resident Evil: Requiem, while HV bypasses become plug-and-play",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-properly-cracked-in-resident-evil-requiem-bypasses-become-plug-and-play-cracked-version-runs-faster-smoother-and-uses-way-less-vram-and-ram",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-12T09:30:23.938020"
+  },
+  {
+    "title": "Intel Core Ultra 7 270K Plus vs Ryzen 7 9700X faceoff a new midrange CPU champ emerges",
+    "summary": "Intel's new Core Ultra 7 270K Plus is going after the Ryzen 7 9700X with its $300 price point. We put the two head-to-head in a series of rounds based on our own testing to see which comes out on top.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-ryzen-7-9700x-cpu-faceoff",
     "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.081913"
+    "processed_date": "2026-04-12T09:30:23.938123"
   },
   {
-    "title": "Framework founder says that personal computing as we know it is dead vows to keep building computers that you can own at the deepest level ",
-    "summary": "Framework founder Nirav Patel said that the personal computing industry is facing a massive change as big companies are forcing it to move towards a subscription-based model. Still, he vows to continue making hardware that will enable the personal ownership of computation.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/framework-founder-says-that-personal-computing-as-we-know-it-is-dead-vows-to-keep-building-computers-that-you-can-own-at-the-deepest-level",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.082040"
-  },
-  {
-    "title": "French government says it's ditching Windows for Linux country accelerates plans to ditch US-based software in digital sovereignty push",
-    "summary": "France is accelerating its digital sovereignty plans. In an official press release this week, the country s DINUM announced its exit from Windows in favor of workstations running on the Linux operating system. ",
-    "link": "https://www.tomshardware.com/software/windows/french-government-say-its-ditching-windows-for-linux-country-accelerates-plans-to-ditch-us-based-software-in-digital-sovereignty-push",
-    "categories": [
-      "Tech News",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-11T09:24:53.082164"
-  },
-  {
-    "title": "Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives the price of a 30TB SSD has climbed 472%",
-    "summary": "Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterprise drive climbed 472%.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/vdura-sharply-revises-its-enterprise-ssd-pricing-figures",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.082290"
-  },
-  {
-    "title": "Cooler Master MWE Bronze V2 230V 650W power supply review: A competent entry-level choice",
-    "summary": "The Cooler Master MWE Bronze V2 230V 650W is a budget unit that punches above its class topologically, though compromised active components and an 85 C bulk capacitor keep it from being anything more than a competent entry-level choice.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-bronze-v2-230v-650w-power-supply-review",
+    "title": "HyperX Eve 1800 Review: Not worth $50",
+    "summary": "The HyperX Eve 1800 is not a good keyboard, even for $50, as it s lacking in features and not pleasant to use.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/hyperx-eve-1800-review",
     "categories": [
       "Hardware",
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-11T09:24:53.082430"
-  },
-  {
-    "title": "30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future",
-    "summary": "Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow.",
-    "link": "https://www.tomshardware.com/pc-components/storage/30-years-of-lexar-what-a-look-inside-its-r-and-d-labs-and-factory-reveals-about-its-plans-for-an-ai-ready-future",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.082533"
+    "processed_date": "2026-04-12T09:30:23.938212"
   },
   {
-    "title": "Embattled streamer goes viral after playing Red Dead Redemption 2 at 4 FPS i5-8300H and a 1050ti with 4GB setup takes 12 hours to play through the first chapter, would make the game 471 hours long",
-    "summary": "Prolific Danish YouTuber Mongo TV recently went viral, with his video series showing him enjoying RDR2 at a glacial 4 FPS.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/embattled-streamer-goes-viral-after-playing-red-dead-redemption-2-at-4-fps-i5-8300h-and-a-1050ti-with-4gb-setup-takes-12-hours-to-play-through-the-first-chapter-would-make-the-game-471-hours-long",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.082647"
-  },
-  {
-    "title": "After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year DDR5 pricing sees some relief in China channel market",
-    "summary": "DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains.",
-    "link": "https://www.tomshardware.com/tech-industry/ddr4-spot-prices-fall-for-first-time-in-nearly-a-year-as-chinese-channel-inventory-clears",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.082753"
-  },
-  {
-    "title": "Silverstone IceMyst Pro 360 Pro Review: Designed for RAM overclocking",
-    "summary": "Silverstone s IceMyst Pro 360 is a unique AIO that s designed for RAM overclocking. This review is tested with AMD s Ryzen 9 9950X3D CPU.",
-    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/silverstone-icemyst-pro-360-pro-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-11T09:24:53.082874"
-  },
-  {
-    "title": "Newbie overclocker destroys $5,000 RTX 5090 Lightning Z GPU they used 'to learn how to solder' practicing newfound hobby goes wrong in the most expensive way imaginable",
-    "summary": "An MSI GeForce RTX 5090 Lightning Z owner sent their $5,000 GPU for repair after damaging it while \"practicing\" soldering a resistor on the board.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/newbie-overclocker-destroys-usd5-000-rtx-5090-lightning-z-gpu-they-used-to-learn-how-to-solder-practicing-newfound-hobby-goes-wrong-in-the-most-expensive-way-imaginable",
+    "title": "Chinese Nvidia Cloud Partner procured 300 servers with banned AI GPUs worth $92 million shares of data center supplier Sharetronic plummet following Super Micro smuggling arrest",
+    "summary": "Publicly available documents reveal that a Chinese AI data center company sold servers that were designed for Nvidia H100 chips despite the U.S. export ban.",
+    "link": "https://www.tomshardware.com/tech-industry/chinese-nvidia-cloud-partner-procured-300-servers-with-banned-ai-gpus-worth-usd92-million-shares-of-data-center-supplier-sharetronic-plummet-following-super-micro-smuggling-arrest",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.083004"
+    "processed_date": "2026-04-12T09:30:23.938326"
   },
   {
-    "title": "Engineer installs 3.5-inch floppy drive in a Tesla modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette",
-    "summary": "An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter.",
-    "link": "https://www.tomshardware.com/pc-components/storage/engineer-installs-3-5-inch-floppy-drive-in-a-tesla-modern-ev-recognizes-and-runs-ancient-storage-device-even-plays-an-mp3-file-from-diskette",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.083110"
-  },
-  {
-    "title": "Bee Write Back A Raspberry Pi Zero 2 W-based DIY writerdeck with 5.5-inch OLED and mechanical keyboard",
-    "summary": "Based on Raspberry Pi Zero 2 W, the Bee Write Back writerdeck is another DIY project that should be relatively easy to reproduce, since it relies on off-the-shelf parts, including an OLED and mechanical key switches and caps, as well as a 3D printed enclosure. Simon (shmimel) had trouble falling asleep and found out that journaling helped him a lot, but he was not so fond of writing in a physical journal. So instead, he created the Bee Write Back journal/writerdeck as a distraction-free writing machine, and the result looks pretty neat. Bee Write Back key components: Raspberry Pi Zero 2 W SBC with Broadcom BCM2711 quad-core Cortex-A53 SoC, 512 MB RAM, WiFi 4 and Bluetooth 4.2 Display 5.5-inch AMOLED screen with 1280 x 720 resolution($52 on AliExpress) Keyboard accessories 47x switches 47x keycaps YMDK Air40 keyboard PCB (about $30 on AliExpress) Power Seengreat Pi Zero UPS USB HUB [...] The post Bee Write Back A Raspberry Pi Zero 2 W-based DIY writerdeck with 5.5-inch OLED and mechanical keyboard appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/10/bee-write-back-a-raspberry-pi-zero-2-w-based-diy-writerdeck-with-5-5-inch-oled-and-mechanical-keyboard/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.083622"
-  },
-  {
-    "title": "Perfect Orion splashdown caps record Artemis II mission around the Moon",
-    "summary": "Sensors carried an important role in many aspects of the mission, from sensors to judge the launch to CMOS image sensors in cameras to all important radiation sensors.",
-    "link": "https://www.fiercesensors.com/sensors/perfect-orion-splashdown-pegs-record-artemis-ii-mission-around-moon",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.084582"
-  },
-  {
-    "title": "Why IoT platforms must evolve for edge intelligence",
-    "summary": "Edge AI is redefining what IoT devices can achieve.",
-    "link": "https://www.fiercesensors.com/sensors/why-iot-platforms-must-evolve-edge-intelligence",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-11T09:24:53.084676"
-  },
-  {
-    "title": "Artemis II crew splashdown set for at 8:07 p.m. EDT Friday",
-    "summary": "Four astronauts spent 10 days on historic mission looping around the Moon and traveling farther into space than ever before.",
-    "link": "https://www.fiercesensors.com/sensors/artemis-ii-crew-splashdown-set-807-pm-edt-friday",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-11T09:24:53.084772"
-  },
-  {
-    "title": "Florida launches probe into OpenAI as company eyes massive IPO",
-    "summary": "In a video posted to X, he said his office is examining whether OpenAI's data and artificial intelligence systems \"could fall into the hands of America's enemies, such as the Chinese Communist Party.\" Read Entire Article",
-    "link": "https://www.techspot.com/news/112027-florida-launches-probe-openai-company-eyes-massive-ipo.html",
+    "title": "Original Apollo 11 code open-sourced by NASA original Command Module and Lunar Module code repos are now public domain resources",
+    "summary": "The historic computer software code that took Apollo 11 to the moon has been open-sourced and is available to anyone to read, download, and tinker with.",
+    "link": "https://www.tomshardware.com/software/original-apollo-11-code-open-sourced-by-nasa-original-command-module-and-lunar-module-code-repos-are-now-public-domain-resources",
     "categories": [
       "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.085066"
-  },
-  {
-    "title": "South Korea moves to curb the meteoritic rise of DRAM and PC hardware prices",
-    "summary": "Conditions in the hardware market remain strained, with prices for nearly all components rising sharply as AI companies place unprecedented pressure on supply chains for future demand. In this environment, stricter market regulation may be warranted, but there appears to be little appetite in Washington for increased government intervention. Read Entire Article",
-    "link": "https://www.techspot.com/news/112018-south-korea-moves-curb-meteoritic-rise-dram-pc.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.085194"
-  },
-  {
-    "title": "Keychron shares 3D keyboard blueprints on GitHub, opening hardware to modders",
-    "summary": "Keychron's devices have long supported the open-source QMK and VIA firmware platforms, allowing users to customize firmware behavior. However, the addition of editable hardware files takes that openness a step further. Read Entire Article",
-    "link": "https://www.techspot.com/news/112022-keychron-shares-3d-keyboard-blueprints-github-opening-hardware.html",
-    "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.085302"
+    "processed_date": "2026-04-12T09:30:23.938431"
   },
   {
-    "title": "Nvidia's mythical N1 SoC surfaces on a real motherboard, and it's packing 128GB of LPDDR5X",
-    "summary": "The long-rumored Nvidia N1 chip has been circulating in leaks and rumors for what feels like an eternity. But with a fresh leak, we may finally be getting our first proper look at it and this time, it includes actual, high-quality images. From these, the product appears closer to... Read Entire Article",
-    "link": "https://www.techspot.com/news/112025-nvidia-mythical-n1-soc-surfaces-real-motherboard-packing.html",
+    "title": "Benchmarking Nvidia's RTX Neural Texture Compression tech that can reduce VRAM usage by over 80%",
+    "summary": "We put RTX Neural Texture Compression to the test with multiple GPUs and on a laptop.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/benchmarking-nvidias-rtx-neural-texture-compression-tech-that-can-reduce-vram-usage-by-over-80-percent",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-12T09:30:23.938523"
+  },
+  {
+    "title": "FAA courts gamers to become air traffic controllers boasts $155k average annual salary after three years as the agency prepares for 8,000 applicants",
+    "summary": "The FAA's latest YouTube video is encouraging gamers to apply to become an air traffic controller, telling them that they've been training for this challenge. The agency is tapping on the younger demographic to help expand its numbers as the ATC shortage is hampering safety and airport operations.",
+    "link": "https://www.tomshardware.com/video-games/faa-courts-gamers-to-become-air-traffic-controllers-boasts-usd155k-average-annual-salary-after-three-years-as-the-agency-prepares-for-8-000-applicants",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-12T09:30:23.938655"
+  },
+  {
+    "title": "Tests show $30,000 AI GPUs are terrible password crackers RTX 5090 gaming GPU outperforms Nvidia H200 and AMD MI300X",
+    "summary": "A research team at Specops benchmarked an RTX 5090, against two AI datacenter GPUs with Hashcat to see which GPU is the better password cracker. Spoiler alert, the RTX 5090 was the winner.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/tests-show-usd30-000-ai-gpus-are-terrible-password-crackers-h200-and-mi300x-outperformed-by-rtx-5090",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-12T09:30:23.938758"
+  },
+  {
+    "title": "$15 STM32U575 development board features FPC display connector, microSD card slot, two 48-pin GPIO headers",
+    "summary": "A few days ago, we looked at the WeAct Studio STM32U585CIU6 development board, which features an ultra-low-power STM32U5 Cortex-M33 MCU and was added to MicroPython v1.28. If you re looking for another STM32U5-based option, especially for compact UI projects, Maker Go now offers an STM32U575 board with a display connector, a microSD card slot, and many more GPIOs While the STM32U585 on the WeAct board features cryptographic accelerators, the STM32U575VGT6 MCU on the Maker Go board is closely related and still offers the same high-performance Cortex-M33 core running at 160 MHz, along with ultra-low-power capabilities. This new board also adds 8MB of external flash and is designed to accept 1.47-inch or 2.0-inch LCDs directly via a ribbon cable. STM32U575VGT6 board specifications: Microcontroller ST STM32U575VGT6 Core Arm Cortex-M33 Armv8-M core clocked at up to 160 MHz with FPU, Arm TrustZone Memory 786 KB SRAM Flash 1024 KB (1 [...] The post $15 STM32U575 development board features FPC display connector, microSD card slot, two 48-pin GPIO headers appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/11/15-stm32u575-development-board-features-fpc-display-connector-microsd-card-slot-two-48-pin-gpio-headers/",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.085417"
+    "quality_score": 20,
+    "processed_date": "2026-04-12T09:30:23.939349"
   },
   {
-    "title": "Tesla is working on a smaller, cheaper electric SUV",
-    "summary": "Three of the sources said the new model would be produced in China, while one added that Tesla also aims to expand production to the United States and Europe. Two sources said the vehicle would measure about 4.28 meters (14.0 feet) in length, making it significantly shorter than the Model... Read Entire Article",
-    "link": "https://www.techspot.com/news/112023-tesla-explores-compact-suv-lower-cost-single-motor.html",
+    "title": "Anti-data center vote in Wisconsin puts future AI projects on notice",
+    "summary": "Residents of Port Washington, Wisconsin, have done something no other community in the country has done with data centers: They've voted to put the brakes on future development in the region by approving a referendum. From now on, city officials require voter approval before handing out tax incentives worth more... Read Entire Article",
+    "link": "https://www.techspot.com/news/112035-wisconsin-city-becomes-first-vote-against-future-data.html",
     "categories": [
       "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.085526"
-  },
-  {
-    "title": "DDR5 prices drop nearly 30%, but memory costs are still far from normal",
-    "summary": "The spot price of a 16GB DDR4 chip has reportedly fallen by around 5% to $74.10 over the past month, following more than a year of unrelenting increases. This modest correction marks the first monthly decline in DRAM spot pricing since the rally began in early 2025, when a 16GB... Read Entire Article",
-    "link": "https://www.techspot.com/news/112030-memory-prices-finally-falling-but-ram-remain-unaffordable.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.085637"
-  },
-  {
-    "title": "Amazon laid off 30,000 workers while CEO Andy Jassy got a 30% pay bump",
-    "summary": "Amazon published its annual proxy statement yesterday, revealing Jassy's compensation for last year. Read Entire Article",
-    "link": "https://www.techspot.com/news/112028-amazon-laid-off-30000-workers-while-ceo-andy.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-11T09:24:53.085733"
-  },
-  {
-    "title": "FBI recovers \"deleted\" Signal messages through iPhone notifications",
-    "summary": "Supporters of the defendants at a recent Texas trial informed 404 Media that the FBI extracted incoming Signal chat messages from a defendant's phone even though the defendant deleted the app and messages. The agents instead recovered message content that the iPhone had stored in a separate database containing push notifications. Read Entire Article",
-    "link": "https://www.techspot.com/news/112021-fbi-recovers-suspect-deleted-signal-messages-through-saved.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.085880"
-  },
-  {
-    "title": "PC market posts modest growth in early 2026 despite memory shortages and economic strain",
-    "summary": "The growth came despite a convergence of headwinds, including weakening economic indicators and a persistent memory shortage that has reverberated across the tech supply chain. IDC's latest analysis attributes the uptick partly to pre-emptive purchasing by vendors and customers ahead of expected memory price hikes, as well as continued upgrades... Read Entire Article",
-    "link": "https://www.techspot.com/news/112020-pc-market-posts-modest-growth-early-2026-despite.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-11T09:24:53.086005"
+    "processed_date": "2026-04-12T09:30:23.940703"
   },
   {
-    "title": "VeraCrypt, WireGuard among projects disrupted by Microsoft account suspensions",
-    "summary": "VeraCrypt developer Mounir Idrassi recently shared an alarming message about the state of the project. The programmer said that he was going through a few challenges, starting with Microsoft's decision to terminate his developer account. Idrassi said that without a fully working account, the open-source encryption tool would receive no... Read Entire Article",
-    "link": "https://www.techspot.com/news/112017-veracrypt-wireguard-among-projects-disrupted-microsoft-account-suspensions.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.086136"
-  },
-  {
-    "title": "Microsoft OneDrive users report mysterious spam files that won't go away",
-    "summary": "At least a few hundred users on Reddit and Microsoft's support forums began reporting that their OneDrive folders were receiving suspicious shared files and links starting in December. Although the source of the spam has not been definitively determined, many suspect phishing or hacking attempts. Read Entire Article",
-    "link": "https://www.techspot.com/news/112019-microsoft-onedrive-users-report-mysterious-spam-files-wont.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.086248"
-  },
-  {
-    "title": "Intel tops $300 billion market cap for the first time since the dot-com boom",
-    "summary": "Until recently, Intel's post-pandemic years have not been ones to remember. A declining share price, combined with AMD's success, allowed Team Red to surpass its rival in market cap for the first time ever in 2022. Read Entire Article",
-    "link": "https://www.techspot.com/news/112024-intel-tops-300-billion-market-cap-first-time.html",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.086354"
-  },
-  {
-    "title": "The cables powering the internet are under the ocean and under threat",
-    "summary": "Submarine-cable construction is surging as the growth of artificial intelligence drives demand for more network capacity. According to TeleGeography, 119 new undersea cables are planned worldwide this year, up from 66 in 2020. Read Entire Article",
-    "link": "https://www.techspot.com/news/112014-cables-powering-internet-under-ocean-under-threat.html",
+    "title": "Mozilla says Microsoft is using Copilot and Edge to tighten its grip on Windows",
+    "summary": "In a recent statement, Mozilla argued that Microsoft's design choices particularly those that link the Windows experience tightly to Edge and Copilot undermine genuine user control. When Microsoft embeds features that favor its own browser and AI tools, it removes opportunities for competing software to be used at... Read Entire Article",
+    "link": "https://www.techspot.com/news/112033-mozilla-microsoft-using-copilot-edge-tighten-grip-windows.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-11T09:24:53.086461"
+    "processed_date": "2026-04-12T09:30:23.940887"
+  },
+  {
+    "title": "Gmail encryption goes mobile, but email itself remains the weak link",
+    "summary": "A few months after introducing end-to-end encryption (E2EE) to Gmail's web platform, Google is doing the same to mobile apps. The company recently confirmed that Android and iOS users can now safely encrypt their email-based conversations, although they will still need to be part of an organization paying for the... Read Entire Article",
+    "link": "https://www.techspot.com/news/112031-gmail-encryption-goes-mobile-but-email-itself-remains.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-12T09:30:23.941034"
+  },
+  {
+    "title": "France starts moving government systems from Windows to Linux",
+    "summary": "Linuxiac reports that France's Inter-ministerial Digital Directorate (DINUM) has revealed a roadmap for shifting the country's government systems away from non-European software. This includes switching from Windows to Linux and adopting various European-developed apps. Read Entire Article",
+    "link": "https://www.techspot.com/news/112032-france-starts-moving-government-systems-windows-linux.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-12T09:30:23.941146"
+  },
+  {
+    "title": "xAI sues Colorado over AI law, calling it a threat to free speech",
+    "summary": "The company frames the dispute not as a question of safety or bias mitigation, but as a First Amendment issue over who controls the information that large-scale AI systems generate. Read Entire Article",
+    "link": "https://www.techspot.com/news/112029-xai-sues-colorado-over-ai-law-calling-threat.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-12T09:30:23.941242"
   }
 ]
