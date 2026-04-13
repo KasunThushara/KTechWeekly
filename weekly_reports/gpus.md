@@ -1,65 +1,55 @@
 # 🎮 GPUs
-**Week of April 12, 2026**
+**Week of April 13, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-04-12 09:31
+- **Articles this week:** 4
+- **Report generated:** 2026-04-13 10:22
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. $15 STM32U575 development board features FPC display connector, microSD card slot, two 48-pin GPIO headers ⭐
+### 1. Valve engineer shocks Linux community with game-changing VRAM hack for 8GB GPUs breakthrough solution turbocharges gaming by prioritizing VRAM for games while background tasks take a back seat 
 
-The Maker Go STM32U575 development board features an STM32U575VGT6 MCU, 8MB of external flash, and a high-performance Cortex-M33 core running at 160 MHz. It has a display connector, a microSD card slot, and multiple GPIO headers for compact UI projects. The board is available for $15.
+Natalie Vock has optimized VRAM usage for games in Linux, ensuring foreground games take priority over background tasks, preventing evictions and improving gaming performance.
 
-💡 *Low-cost STM32U575 board simplifies compact UI development projects.*
+💡 *Optimized VRAM prioritization enhances gaming performance in Linux environments significantly.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/11/15-stm32u575-development-board-features-fpc-display-connector-microsd-card-slot-two-48-pin-gpio-headers/)
-
----
-
-### 2. Best Laptops 2026: Our benchmarked picks for productivity, portability, and battery life ⭐
-
-Our expert review features the top-rated laptops for productivity, portability, and battery life, covering various brands and operating systems. We've rigorously tested dozens of models to identify the best options. Our picks cater to diverse needs and preferences.
-
-💡 *The right laptop can boost work efficiency and personal productivity significantly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/best-laptops)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/valve-engineer-shocks-linux-community-with-game-changing-vram-hack-for-8gb-gpus-breakthrough-solution-turbocharges-gaming-by-prioritizing-vram-for-games-while-background-tasks-take-a-back-seat)
 
 ---
 
-### 3. Tests show $30,000 AI GPUs are terrible password crackers RTX 5090 gaming GPU outperforms Nvidia H200 and AMD MI300X ⭐
+### 2. Lenovo hikes Legion Go 2 handheld gaming PC to almost $3,000 for 2 TB model Handheld now costs more than AMD's Strix Halo devices despite relatively weaker Z2 Extreme chip 
 
-A research team found the RTX 5090 gaming GPU outperforms AI datacenter GPUs in password cracking. This is significant because gaming GPUs are often cheaper and more accessible. The RTX 5090 was the winner in a benchmark test.
+Lenovo has significantly raised the prices of Legion Go 2 handhelds, with the 2 TB model increasing from $1,480 to $2,850, a 93% hike.
 
-💡 *Gaming GPUs beat AI datacenter GPUs in password cracking efficiency*
+💡 *Lenovo's pricing may deter handheld gaming PC adoption due to affordability concerns.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/tests-show-usd30-000-ai-gpus-are-terrible-password-crackers-h200-and-mi300x-outperformed-by-rtx-5090)
-
----
-
-### 4. Chinese Nvidia Cloud Partner procured 300 servers with banned AI GPUs worth $92 million shares of data center supplier Sharetronic plummet following Super Micro smuggling arrest 
-
-A Chinese AI data center company sold Nvidia H100-chipped servers despite US export ban, leading to a drop in shares of data center supplier Sharetronic after a Super Micro smuggling arrest.
-
-💡 *U.S. export ban circumvention undermines global AI technology security regulations.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinese-nvidia-cloud-partner-procured-300-servers-with-banned-ai-gpus-worth-usd92-million-shares-of-data-center-supplier-sharetronic-plummet-following-super-micro-smuggling-arrest)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/lenovo-hikes-legion-go-2-handheld-gaming-pc-to-almost-usd3-000-for-2-tb-model-handheld-now-costs-more-than-amds-strix-halo-devices-despite-relatively-weaker-z2-extreme-chip)
 
 ---
 
-### 5. Benchmarking Nvidia's RTX Neural Texture Compression tech that can reduce VRAM usage by over 80% 
+### 3. $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation 
 
-Nvidia's RTX Neural Texture Compression reduces VRAM usage by over 80% in various tests, showcasing its effectiveness in multiple GPU setups, including laptops.
+A PCIe adapter converts half-height GPUs to full-height and adds M.2 slots via PCIe bifurcation, expanding storage and GPU capabilities.
 
-💡 *Reduced VRAM usage enables improved performance and increased graphical fidelity.*
+💡 *Enabling compact builds with high-performance GPUs and SSDs simultaneously.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/benchmarking-nvidias-rtx-neural-texture-compression-tech-that-can-reduce-vram-usage-by-over-80-percent)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/usd27-platypus-pcie-adapter-converts-half-height-gpus-into-full-height-while-adding-two-m-2-slots-for-ssds-enthusiast-demos-low-profile-rtx-4060-with-two-ssds-thanks-to-pcie-bifurcation)
+
+---
+
+### 4. Grab MSI s RTX 5080 gaming laptop for just over $2,000 offers fast 240 Hz QHD+ display, dual storage slots, and expandable DDR5 memory 
+
+This MSI gaming laptop offers high-end performance at a competitive price with its 240Hz QHD+ display, Core Ultra 9 CPU, and RTX 5080 GPU.
+
+💡 *Competitive high-end gaming laptop at a relatively affordable price point.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/grab-msis-rtx-5080-gaming-laptop-for-just-over-usd2-000-offers-fast-240-hz-qhd-display-dual-storage-slots-and-expandable-ddr5-memory)
 
 ---
 

@@ -1,5 +1,5 @@
 # 🤖 AI & ML
-**Week of April 12, 2026**
+**Week of April 13, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
@@ -7,109 +7,109 @@
 
 ## 📊 Summary
 - **Articles this week:** 10
-- **Report generated:** 2026-04-12 09:31
+- **Report generated:** 2026-04-13 10:22
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Tests show $30,000 AI GPUs are terrible password crackers RTX 5090 gaming GPU outperforms Nvidia H200 and AMD MI300X ⭐
+### 1. Linux 7.0 Release Main changes, Arm, RISC-V, and MIPS architectures ⭐
 
-A research team found the RTX 5090 gaming GPU outperforms AI datacenter GPUs in password cracking. This is significant because gaming GPUs are often cheaper and more accessible. The RTX 5090 was the winner in a benchmark test.
+Linux 7.0 has been released with various small fixes and updates, including arch fixes for Arm, RISC-V, and MIPS architectures. The release follows Linux 6.19, which brought PCIe link encryption. Testing and the merge window for 7.1 have begun.
 
-💡 *Gaming GPUs beat AI datacenter GPUs in password cracking efficiency*
+💡 *Linux continues to evolve with AI-assisted corner case discoveries.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/tests-show-usd30-000-ai-gpus-are-terrible-password-crackers-h200-and-mi300x-outperformed-by-rtx-5090)
-
----
-
-### 2. Anti-data center vote in Wisconsin puts future AI projects on notice 
-
-Port Washington, Wisconsin, residents voted to require voter approval for data center tax incentives, potentially slowing down future development.
-
-💡 *Community control tightens around data center development and tax incentives.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112035-wisconsin-city-becomes-first-vote-against-future-data.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/13/linux-7-0-release-main-changes-arm-risc-v-and-mips-architectures/)
 
 ---
 
-### 3. MacBook user explains why he files the sharp metal edges off his Apple laptops unibody design facilitates a surprisingly deep roundover 
+### 2. Rockstar Games hit with ransom demand after third-party data breach 
 
-A MacBook user files off sharp edges to round over the unibody design, sparking controversy.
+Rockstar Games was hit with a ransom demand after a data breach. The attackers exploited access from Anodot, a cloud analytics tool, to gain unauthorized access to Rockstar's systems. ShinyHunters claims it didn't breach Rockstar directly.
 
-💡 *Safety and comfort matter, even on high-end tech products like MacBooks.*
+💡 *Third-party tool vulnerabilities can compromise even secure cloud environments.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/macbook-user-explains-why-he-files-the-sharp-metal-edges-off-his-apple-laptops-unibody-design-facilitates-a-surprisingly-deep-roundover)
-
----
-
-### 4. Chinese Nvidia Cloud Partner procured 300 servers with banned AI GPUs worth $92 million shares of data center supplier Sharetronic plummet following Super Micro smuggling arrest 
-
-A Chinese AI data center company sold Nvidia H100-chipped servers despite US export ban, leading to a drop in shares of data center supplier Sharetronic after a Super Micro smuggling arrest.
-
-💡 *U.S. export ban circumvention undermines global AI technology security regulations.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinese-nvidia-cloud-partner-procured-300-servers-with-banned-ai-gpus-worth-usd92-million-shares-of-data-center-supplier-sharetronic-plummet-following-super-micro-smuggling-arrest)
+🔗 [Read Full Article](https://www.techspot.com/news/112038-rockstar-games-hit-ransom-demand-after-third-party.html)
 
 ---
 
-### 5. Original Apollo 11 code open-sourced by NASA original Command Module and Lunar Module code repos are now public domain resources 
+### 3. Lenovo hikes Legion Go 2 handheld gaming PC to almost $3,000 for 2 TB model Handheld now costs more than AMD's Strix Halo devices despite relatively weaker Z2 Extreme chip 
 
-NASA has open-sourced the original Apollo 11 computer code, making it publicly accessible for anyone to read, download, and modify.
+Lenovo has significantly raised the prices of Legion Go 2 handhelds, with the 2 TB model increasing from $1,480 to $2,850, a 93% hike.
 
-💡 *Historic code preservation enables future space innovation and collaboration.*
+💡 *Lenovo's pricing may deter handheld gaming PC adoption due to affordability concerns.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/original-apollo-11-code-open-sourced-by-nasa-original-command-module-and-lunar-module-code-repos-are-now-public-domain-resources)
-
----
-
-### 6. Benchmarking Nvidia's RTX Neural Texture Compression tech that can reduce VRAM usage by over 80% 
-
-Nvidia's RTX Neural Texture Compression reduces VRAM usage by over 80% in various tests, showcasing its effectiveness in multiple GPU setups, including laptops.
-
-💡 *Reduced VRAM usage enables improved performance and increased graphical fidelity.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/benchmarking-nvidias-rtx-neural-texture-compression-tech-that-can-reduce-vram-usage-by-over-80-percent)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/lenovo-hikes-legion-go-2-handheld-gaming-pc-to-almost-usd3-000-for-2-tb-model-handheld-now-costs-more-than-amds-strix-halo-devices-despite-relatively-weaker-z2-extreme-chip)
 
 ---
 
-### 7. FAA courts gamers to become air traffic controllers boasts $155k average annual salary after three years as the agency prepares for 8,000 applicants 
+### 4. Iran's forced nationwide internet blackout becomes second-longest on record as it passes 1,000 hours offline possessing Starlink terminals punishable by death, country using 'military-grade jamming' against service 
 
-The FAA is recruiting gamers to become air traffic controllers, offering a high average annual salary of $155k after three years. The agency aims to expand its numbers to address the ATC shortage, which affects safety and airport operations. This initiative targets the younger demographic to fill the shortage.
+Iran's nationwide Internet blackout has surpassed 1,000 hours, becoming second-longest on record. The shutdown is enforced with threats of death for possessing Starlink terminals. Military-grade jamming is being used to block internet services.
 
-💡 *Gamers' multitasking skills can help alleviate air traffic control shortage*
+💡 *Iran's drastic measures severely impact its citizens' access to information and freedom.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/faa-courts-gamers-to-become-air-traffic-controllers-boasts-usd155k-average-annual-salary-after-three-years-as-the-agency-prepares-for-8-000-applicants)
-
----
-
-### 8. Mozilla says Microsoft is using Copilot and Edge to tighten its grip on Windows 
-
-Mozilla claims Microsoft's design choices in Windows favor Edge and Copilot, undermining user control.
-
-💡 *Microsoft's integration prioritizes its own products over competing software options.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112033-mozilla-microsoft-using-copilot-edge-tighten-grip-windows.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/iran-passes-1000-hours-offline)
 
 ---
 
-### 9. Gmail encryption goes mobile, but email itself remains the weak link 
+### 5. Linux lays down the law on AI-generated code, says yes to Copilot, no to AI slop, and humans take the fall for mistakes after months of fierce debate, Torvalds and maintainers come to an agreement 
 
-Google extends end-to-end encryption to Gmail mobile apps for users with organization-paid accounts, bolstering online security.
+Linus Torvalds and Linux kernel maintainers have reached an agreement on AI-generated code, accepting Copilot while rejecting sloppy AI outputs. Humans will be held accountable for mistakes after months of debate. This decision will shape the future of AI-assisted development in Linux.
 
-💡 *Email remains a weak link in otherwise secure communication chains.*
+💡 *Human accountability ensures AI-assisted code quality and reliability in Linux.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112031-gmail-encryption-goes-mobile-but-email-itself-remains.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement)
 
 ---
 
-### 10. xAI sues Colorado over AI law, calling it a threat to free speech 
+### 6. Linux 7.0 enables three new AI-specific keys for keyboards, an apparent expansion beyond the Copilot key Google authors both the HID spec and the kernel patch 
 
-xAI is suing Colorado over an AI law it considers a threat to free speech. The dispute centers on control over information generated by large-scale AI systems. This frames the issue as a First Amendment matter.
+Linux 7.0 kernel supports three new AI-specific keycodes for laptops. These keycodes are likely for dedicated AI agent keys. The addition is an expansion of AI-related keyboard features.
 
-💡 *Free speech implications are at stake in AI regulation debates.*
+💡 *Enabling AI-specific keys on laptops boosts AI-assisted productivity capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112029-xai-sues-colorado-over-ai-law-calling-threat.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linux-7-0-adds-three-new-ai-agent-keycodes-for-upcoming-laptops)
+
+---
+
+### 7. South Korea s telecom giants surprise 7 million users with unlimited, universal internet net access declared a 'basic telecommunications right,' 400 Kbps data after monthly plans run out 
+
+South Korea's telecom giants offer unlimited 400 Kbps data to 7 million users. This benefit is declared as a 'basic telecommunications right.' The service will be provided after monthly plans run out.
+
+💡 *Universal internet access becomes a basic right in South Korea.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/south-koreas-three-major-carriers-introduce-400-kbps-data-for-all)
+
+---
+
+### 8. Blu-ray lives on as Verbatim and I-O Data pledge support with new drives and discs 
+
+Verbatim and I-O Data partner to maintain Blu-ray supply in Japan, catering to individuals and businesses who still use optical discs for recording and archiving.
+
+💡 *Optical disc demand persists despite digital distribution growth*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112034-optical-media-lives-japan-verbatim-o-data-pledge.html)
+
+---
+
+### 9. The software that landed Apollo 11 on the moon is now free online 
+
+NASA has made the Apollo 11 mission's software publicly available online, free to access. The repository contains two distinct programs: Comanche055 and Luminary099. These programs played a crucial role in landing the first humans on the moon.
+
+💡 *Historical innovation now accessible to inspire future space exploration*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112037-software-landed-apollo-11-moon-now-free-online.html)
+
+---
+
+### 10. Homture Magic Frame smart photo display integrates generative AI and 60 GHz mmWave radar (Sponsored) 
+
+The Homture Magic Frame is a smart photo display integrating generative AI and 60 GHz mmWave radar. It transforms static photos into interactive, living windows of memory, detecting users' presence and movement. The frame features a 10.1-inch Full HD touchscreen display and 64GB local storage.
+
+💡 *Revolutionary AI-powered photo display brings memories to life interactively.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/13/homture-magic-frame-smart-photo-display-integrates-generative-ai-and-60-ghz-mmwave-radar/)
 
 ---
 

@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 12, 2026**
+**Week of April 13, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,77 +7,77 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. $15 STM32U575 development board features FPC display connector, microSD card slot, two 48-pin GPIO headers ⭐
+### 1. Linux 7.0 Release Main changes, Arm, RISC-V, and MIPS architectures ⭐
 
 **💻 Hardware**
 
-The Maker Go STM32U575 development board features an STM32U575VGT6 MCU, 8MB of external flash, and a high-performance Cortex-M33 core running at 160 MHz. It has a display connector, a microSD card slot, and multiple GPIO headers for compact UI projects. The board is available for $15.
+Linux 7.0 has been released with various small fixes and updates, including arch fixes for Arm, RISC-V, and MIPS architectures. The release follows Linux 6.19, which brought PCIe link encryption. Testing and the merge window for 7.1 have begun.
 
-💡 **Key Point:** Low-cost STM32U575 board simplifies compact UI development projects.
+💡 **Key Point:** Linux continues to evolve with AI-assisted corner case discoveries.
 
-🔗 [Read More](https://www.cnx-software.com/2026/04/11/15-stm32u575-development-board-features-fpc-display-connector-microsd-card-slot-two-48-pin-gpio-headers/)
-
----
-
-### 2. $15 STM32U575 development board features FPC display connector, microSD card slot, two 48-pin GPIO headers ⭐
-
-**🎮 GPUs**
-
-The Maker Go STM32U575 development board features an STM32U575VGT6 MCU, 8MB of external flash, and a high-performance Cortex-M33 core running at 160 MHz. It has a display connector, a microSD card slot, and multiple GPIO headers for compact UI projects. The board is available for $15.
-
-💡 **Key Point:** Low-cost STM32U575 board simplifies compact UI development projects.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/11/15-stm32u575-development-board-features-fpc-display-connector-microsd-card-slot-two-48-pin-gpio-headers/)
+🔗 [Read More](https://www.cnx-software.com/2026/04/13/linux-7-0-release-main-changes-arm-risc-v-and-mips-architectures/)
 
 ---
 
-### 3. Best Laptops 2026: Our benchmarked picks for productivity, portability, and battery life ⭐
+### 2. UmbrelOS A Debian-based personal home cloud OS with a slick user interface ⭐
 
 **💻 Hardware**
 
-Our expert review features the top-rated laptops for productivity, portability, and battery life, covering various brands and operating systems. We've rigorously tested dozens of models to identify the best options. Our picks cater to diverse needs and preferences.
+UmbrelOS is a Debian-based home cloud OS with a user-friendly web interface. It offers over 300 apps for media storage, streaming, automation, and more. Initially launched for Bitcoin full nodes, it has evolved into a comprehensive home cloud platform.
 
-💡 **Key Point:** The right laptop can boost work efficiency and personal productivity significantly.
+💡 **Key Point:** Transforms old devices into user-friendly home cloud centers easily.
 
-🔗 [Read More](https://www.tomshardware.com/laptops/best-laptops)
+🔗 [Read More](https://www.cnx-software.com/2026/04/12/umbrelos-a-debian-based-personal-home-cloud-os-with-a-slick-user-interface/)
 
 ---
 
-### 4. Tests show $30,000 AI GPUs are terrible password crackers RTX 5090 gaming GPU outperforms Nvidia H200 and AMD MI300X ⭐
+### 3. Linux 7.0 Release Main changes, Arm, RISC-V, and MIPS architectures ⭐
 
 **🤖 AI & ML**
 
-A research team found the RTX 5090 gaming GPU outperforms AI datacenter GPUs in password cracking. This is significant because gaming GPUs are often cheaper and more accessible. The RTX 5090 was the winner in a benchmark test.
+Linux 7.0 has been released with various small fixes and updates, including arch fixes for Arm, RISC-V, and MIPS architectures. The release follows Linux 6.19, which brought PCIe link encryption. Testing and the merge window for 7.1 have begun.
 
-💡 **Key Point:** Gaming GPUs beat AI datacenter GPUs in password cracking efficiency
+💡 **Key Point:** Linux continues to evolve with AI-assisted corner case discoveries.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/tests-show-usd30-000-ai-gpus-are-terrible-password-crackers-h200-and-mi300x-outperformed-by-rtx-5090)
+🔗 [Read More](https://www.cnx-software.com/2026/04/13/linux-7-0-release-main-changes-arm-risc-v-and-mips-architectures/)
 
 ---
 
-### 5. Best Laptops 2026: Our benchmarked picks for productivity, portability, and battery life ⭐
+### 4. UmbrelOS A Debian-based personal home cloud OS with a slick user interface ⭐
+
+**📰 Tech News**
+
+UmbrelOS is a Debian-based home cloud OS with a user-friendly web interface. It offers over 300 apps for media storage, streaming, automation, and more. Initially launched for Bitcoin full nodes, it has evolved into a comprehensive home cloud platform.
+
+💡 **Key Point:** Transforms old devices into user-friendly home cloud centers easily.
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/12/umbrelos-a-debian-based-personal-home-cloud-os-with-a-slick-user-interface/)
+
+---
+
+### 5. Valve engineer shocks Linux community with game-changing VRAM hack for 8GB GPUs breakthrough solution turbocharges gaming by prioritizing VRAM for games while background tasks take a back seat 
 
 **🎮 GPUs**
 
-Our expert review features the top-rated laptops for productivity, portability, and battery life, covering various brands and operating systems. We've rigorously tested dozens of models to identify the best options. Our picks cater to diverse needs and preferences.
+Natalie Vock has optimized VRAM usage for games in Linux, ensuring foreground games take priority over background tasks, preventing evictions and improving gaming performance.
 
-💡 **Key Point:** The right laptop can boost work efficiency and personal productivity significantly.
+💡 **Key Point:** Optimized VRAM prioritization enhances gaming performance in Linux environments significantly.
 
-🔗 [Read More](https://www.tomshardware.com/laptops/best-laptops)
+🔗 [Read More](https://www.tomshardware.com/software/linux/valve-engineer-shocks-linux-community-with-game-changing-vram-hack-for-8gb-gpus-breakthrough-solution-turbocharges-gaming-by-prioritizing-vram-for-games-while-background-tasks-take-a-back-seat)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **28 articles** across **5 focused categories**.
+We covered **33 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
 | 🤖 [AI & ML](ai_and_ml.md) | 10 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 7 | Computing hardware and development boards |
+| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 2 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
+| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
 
 ---
 
@@ -87,21 +87,21 @@ We covered **28 articles** across **5 focused categories**.
 *Artificial Intelligence and Machine Learning* — 10 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 5 articles
+*Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 7 articles
+*Computing hardware and development boards* — 11 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
 *Chip manufacturing and design* — 2 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 4 articles
+*Industry news and product launches* — 6 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-04-12 at 09:31 by an autonomous AI curation system.
+Generated 2026-04-13 at 10:22 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
