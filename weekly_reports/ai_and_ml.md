@@ -1,5 +1,5 @@
 # 🤖 AI & ML
-**Week of April 13, 2026**
+**Week of April 14, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
@@ -7,109 +7,109 @@
 
 ## 📊 Summary
 - **Articles this week:** 10
-- **Report generated:** 2026-04-13 10:22
+- **Report generated:** 2026-04-14 10:01
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Linux 7.0 Release Main changes, Arm, RISC-V, and MIPS architectures ⭐
+### 1. After Fortnite stumbles and layoffs, Epic bets on a Disney extraction shooter 
 
-Linux 7.0 has been released with various small fixes and updates, including arch fixes for Arm, RISC-V, and MIPS architectures. The release follows Linux 6.19, which brought PCIe link encryption. Testing and the merge window for 7.1 have begun.
+Epic Games faces uncertainty after layoffs and game updates underperform. The company is shifting focus to a new Disney extraction shooter. Fortnite will see further game mode closures.
 
-💡 *Linux continues to evolve with AI-assisted corner case discoveries.*
+💡 *Epic diversifies to mitigate Fortnite's decline in popularity*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/13/linux-7-0-release-main-changes-arm-risc-v-and-mips-architectures/)
-
----
-
-### 2. Rockstar Games hit with ransom demand after third-party data breach 
-
-Rockstar Games was hit with a ransom demand after a data breach. The attackers exploited access from Anodot, a cloud analytics tool, to gain unauthorized access to Rockstar's systems. ShinyHunters claims it didn't breach Rockstar directly.
-
-💡 *Third-party tool vulnerabilities can compromise even secure cloud environments.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112038-rockstar-games-hit-ransom-demand-after-third-party.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112046-after-fortnite-stumbles-layoffs-epic-bets-disney-extraction.html)
 
 ---
 
-### 3. Lenovo hikes Legion Go 2 handheld gaming PC to almost $3,000 for 2 TB model Handheld now costs more than AMD's Strix Halo devices despite relatively weaker Z2 Extreme chip 
+### 2. FAA approves military use of drone-killing laser weapons in US airspace decision comes after it was decided systems do not present an increased risk to the flying public  
 
-Lenovo has significantly raised the prices of Legion Go 2 handhelds, with the 2 TB model increasing from $1,480 to $2,850, a 93% hike.
+The FAA has granted approval for military laser systems to shoot down drones in US airspace, deeming them safe for public use.
 
-💡 *Lenovo's pricing may deter handheld gaming PC adoption due to affordability concerns.*
+💡 *Military's ability to counter rogue drones enhances national airspace security.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/lenovo-hikes-legion-go-2-handheld-gaming-pc-to-almost-usd3-000-for-2-tb-model-handheld-now-costs-more-than-amds-strix-halo-devices-despite-relatively-weaker-z2-extreme-chip)
-
----
-
-### 4. Iran's forced nationwide internet blackout becomes second-longest on record as it passes 1,000 hours offline possessing Starlink terminals punishable by death, country using 'military-grade jamming' against service 
-
-Iran's nationwide Internet blackout has surpassed 1,000 hours, becoming second-longest on record. The shutdown is enforced with threats of death for possessing Starlink terminals. Military-grade jamming is being used to block internet services.
-
-💡 *Iran's drastic measures severely impact its citizens' access to information and freedom.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/iran-passes-1000-hours-offline)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/faa-green-lights-military-use-of-laser-drone-zapping-weaponry-in-us-airspace-decision-comes-after-it-was-decided-systems-do-not-present-an-increased-risk-to-the-flying-public)
 
 ---
 
-### 5. Linux lays down the law on AI-generated code, says yes to Copilot, no to AI slop, and humans take the fall for mistakes after months of fierce debate, Torvalds and maintainers come to an agreement 
+### 3. Nvidia says AI cuts 10-month, eight-engineer GPU design task to overnight job company is still 'a long way' from AI designing chips without human input 
 
-Linus Torvalds and Linux kernel maintainers have reached an agreement on AI-generated code, accepting Copilot while rejecting sloppy AI outputs. Humans will be held accountable for mistakes after months of debate. This decision will shape the future of AI-assisted development in Linux.
+Nvidia uses AI to speed up GPU design, cutting 10 months to overnight. However, the company still requires human input. AI is not yet autonomous in designing chips.
 
-💡 *Human accountability ensures AI-assisted code quality and reliability in Linux.*
+💡 *AI accelerates chip design, but human oversight remains crucial.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement)
-
----
-
-### 6. Linux 7.0 enables three new AI-specific keys for keyboards, an apparent expansion beyond the Copilot key Google authors both the HID spec and the kernel patch 
-
-Linux 7.0 kernel supports three new AI-specific keycodes for laptops. These keycodes are likely for dedicated AI agent keys. The addition is an expansion of AI-related keyboard features.
-
-💡 *Enabling AI-specific keys on laptops boosts AI-assisted productivity capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linux-7-0-adds-three-new-ai-agent-keycodes-for-upcoming-laptops)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-ai-cuts-10-month-eight-engineer-gpu-design-task-to-overnight-job-company-is-still-a-long-way-from-ai-designing-chips-without-human-input)
 
 ---
 
-### 7. South Korea s telecom giants surprise 7 million users with unlimited, universal internet net access declared a 'basic telecommunications right,' 400 Kbps data after monthly plans run out 
+### 4. Small Missouri town ousts half its city council after $6 billion AI data center approval petition calls for mayor's removal as frustration (and violence) over AI data centers mounts 
 
-South Korea's telecom giants offer unlimited 400 Kbps data to 7 million users. This benefit is declared as a 'basic telecommunications right.' The service will be provided after monthly plans run out.
+Voters in Festus, MO ousted half of the city council members after a $6 billion AI data center project was approved, sparking frustration and calls for the mayor's removal.
 
-💡 *Universal internet access becomes a basic right in South Korea.*
+💡 *Community pushback against AI data centers reflects growing local distrust.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/south-koreas-three-major-carriers-introduce-400-kbps-data-for-all)
-
----
-
-### 8. Blu-ray lives on as Verbatim and I-O Data pledge support with new drives and discs 
-
-Verbatim and I-O Data partner to maintain Blu-ray supply in Japan, catering to individuals and businesses who still use optical discs for recording and archiving.
-
-💡 *Optical disc demand persists despite digital distribution growth*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112034-optical-media-lives-japan-verbatim-o-data-pledge.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/small-missouri-town-ousts-half-its-city-council-after-usd6-billion-ai-data-center-approval-petition-calls-for-mayors-removal-as-frustration-and-violence-over-ai-data-centers-mounts)
 
 ---
 
-### 9. The software that landed Apollo 11 on the moon is now free online 
+### 5. Trail Mate open-source firmware leverages Meshtastic and MeshCore for ESP32 off-grid handhelds 
 
-NASA has made the Apollo 11 mission's software publicly available online, free to access. The repository contains two distinct programs: Comanche055 and Luminary099. These programs played a crucial role in landing the first humans on the moon.
+Trail Mate is an open-source firmware for off-grid ESP32 handhelds, providing GPS mapping, LoRa messaging, and offline capabilities.
 
-💡 *Historical innovation now accessible to inspire future space exploration*
+💡 *Enabling off-grid communication and navigation without relying on smartphones.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112037-software-landed-apollo-11-moon-now-free-online.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/13/trail-mate-open-source-firmware-leverages-meshtastic-and-meshcore-for-esp32-off-grid-handhelds/)
 
 ---
 
-### 10. Homture Magic Frame smart photo display integrates generative AI and 60 GHz mmWave radar (Sponsored) 
+### 6. Microsoft admits Game Pass may have gotten too expensive 
 
-The Homture Magic Frame is a smart photo display integrating generative AI and 60 GHz mmWave radar. It transforms static photos into interactive, living windows of memory, detecting users' presence and movement. The frame features a 10.1-inch Full HD touchscreen display and 64GB local storage.
+Microsoft's Xbox division acknowledges Game Pass has become too expensive. The company is internally exploring lower-cost subscription tiers. No firm timeline is set for these changes.
 
-💡 *Revolutionary AI-powered photo display brings memories to life interactively.*
+💡 *Pricing strategy shift may impact Game Pass's market dominance*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/13/homture-magic-frame-smart-photo-display-integrates-generative-ai-and-60-ghz-mmwave-radar/)
+🔗 [Read Full Article](https://www.techspot.com/news/112057-microsoft-admits-game-pass-may-have-gotten-expensive.html)
+
+---
+
+### 7. NZXT to pay $3.45 million in class-action settlement over "predatory" Flex PC rental scheme 
+
+NZXT agreed to a $3.45 million settlement over its Flex PC rental program, which was accused of using predatory and bait-and-switch tactics.
+
+💡 *Gamers are wary of companies with questionable business practices and loyalty.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112053-nzxt-pay-345-million-class-action-settlement-over.html)
+
+---
+
+### 8. Study finds even the best AI models lose money betting on soccer 
+
+A London-based AI start-up found top-tier models consistently lost money predicting Premier League match outcomes.
+
+💡 *Even top AI models struggle in dynamic environments like sports forecasting.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112043-new-study-shows-even-best-ai-models-lost.html)
+
+---
+
+### 9. South Korea to give 7 million mobile users free unlimited data after hitting monthly caps 
+
+South Korea's three major carriers will provide free unlimited data to 7 million users after hitting monthly caps.
+
+💡 *Promotes digital equity and reduces financial burden for heavy data users.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112042-south-korea-give-7-million-mobile-users-free.html)
+
+---
+
+### 10. Sam Altman's San Francisco home targeted by Molotov cocktail and gunfire in two separate attacks 
+
+Sam Altman's San Francisco home was targeted by Molotov cocktail and gunfire in two separate attacks. A 20-year-old man was arrested and booked into jail on various charges.
+
+💡 *High-profile figures' homes increasingly vulnerable to violent attacks nationwide.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112047-sam-altman-san-francisco-home-hit-molotov-attack.html)
 
 ---
 

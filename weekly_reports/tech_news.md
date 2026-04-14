@@ -1,75 +1,115 @@
 # 📰 Tech News
-**Week of April 13, 2026**
+**Week of April 14, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-04-13 10:22
+- **Articles this week:** 10
+- **Report generated:** 2026-04-14 10:01
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. UmbrelOS A Debian-based personal home cloud OS with a slick user interface ⭐
+### 1. Acer Predator GX850 SFX power supply review: Solid electrical performance with good efficiency ⭐
 
-UmbrelOS is a Debian-based home cloud OS with a user-friendly web interface. It offers over 300 apps for media storage, streaming, automation, and more. Initially launched for Bitcoin full nodes, it has evolved into a comprehensive home cloud platform.
+The Acer Predator GX850 SFX power supply offers reliable electrical performance with good efficiency. It's compact design is a result of solid engineering from FSP. However, its price and noise levels may present practical challenges.
 
-💡 *Transforms old devices into user-friendly home cloud centers easily.*
+💡 *Compact SFX design for PC builds balances power and noise trade-offs.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/12/umbrelos-a-debian-based-personal-home-cloud-os-with-a-slick-user-interface/)
-
----
-
-### 2. Keychron Q6 Ultra 8K Review: 660 hours of battery life at 8 KHz 
-
-The Keychron Q6 Ultra 8K features 8 KHz polling and 660 hours battery life, but its keycaps and switches have drawbacks.
-
-💡 *Impressive battery life meets gaming demands with high polling rate.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/keychron-q6-ultra-8k-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/acer-predator-gx850-sfx-power-supply-review)
 
 ---
 
-### 3. Valve engineer shocks Linux community with game-changing VRAM hack for 8GB GPUs breakthrough solution turbocharges gaming by prioritizing VRAM for games while background tasks take a back seat 
+### 2. Denuvo removed from Resident Evil Requiem, improving performance over hypervisor-based crack ⭐
 
-Natalie Vock has optimized VRAM usage for games in Linux, ensuring foreground games take priority over background tasks, preventing evictions and improving gaming performance.
+Voices38 has removed Denuvo from Resident Evil Requiem, improving its performance. This marks the first game of 2026 to be fully cracked. The move is seen as a significant development in gaming.
 
-💡 *Optimized VRAM prioritization enhances gaming performance in Linux environments significantly.*
+💡 *Denuvo's removal can significantly enhance game performance post-cracking.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/valve-engineer-shocks-linux-community-with-game-changing-vram-hack-for-8gb-gpus-breakthrough-solution-turbocharges-gaming-by-prioritizing-vram-for-games-while-background-tasks-take-a-back-seat)
-
----
-
-### 4. We Tested Every Ryzen 5 and 7 X3D CPU: From 5800X3D to 9800X3D 
-
-We comprehensively tested nine AMD Ryzen 5 and 7 X3D CPUs, comparing their performance in 14 games across two platforms to determine the performance improvements since the 5800X3D.
-
-💡 *X3D performance gains matter in CPU-bound and high-resolution gaming scenarios.*
-
-🔗 [Read Full Article](https://www.techspot.com/review/3111-every-ryzen-x3d-cpu/)
+🔗 [Read Full Article](https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html)
 
 ---
 
-### 5. Startup secures $30 million contract to 3D print jet engines for the USAF company to test and develop small turbojets for drones and long-range weapons 
+### 3. MicroProse's next game is flight simulator Legendary Pilots ⭐
 
-Beehive Industries secured a $30 million contract to 3D print jet engines for the USAF, which are reportedly cheaper to build, use, and service. The 3D-printed engines will be tested for use in drones and long-range weapons. This partnership aims to accelerate technology development and cost savings.
+MicroProse's Legendary Pilots is a modern indie flight simulator with management elements. The game aims to deliver a complete yet accessible experience. It's set to be released by the end of the month.
 
-💡 *Revolutionizing military tech with 3D-printed, cost-effective jet engines.*
+💡 *Reviving flight simulation gaming with accessible management features*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/startup-secures-usd30-million-contract-to-3d-print-jet-engines-for-the-usaf-company-to-test-and-develop-small-turbojets-for-drones-and-long-range-weapons)
+🔗 [Read Full Article](https://www.techspot.com/news/112044-microprose-next-game-flight-simulator-legendary-pilots.html)
 
 ---
 
-### 6. Blu-ray lives on as Verbatim and I-O Data pledge support with new drives and discs 
+### 4. Why we spent 50+ hours retesting Intel s Core Ultra 270K Plus and 250K Plus 
 
-Verbatim and I-O Data partner to maintain Blu-ray supply in Japan, catering to individuals and businesses who still use optical discs for recording and archiving.
+We retested Intel's Core Ultra 270K Plus and 250K Plus after initial surprising results, spending over 50 hours to validate the data.
 
-💡 *Optical disc demand persists despite digital distribution growth*
+💡 *High-performance CPU results require rigorous testing to build trust in benchmarks.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112034-optical-media-lives-japan-verbatim-o-data-pledge.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/why-we-spent-50-hours-retesting-intels-core-ultra-270k-plus-and-250k-plus)
+
+---
+
+### 5. Espresso Lite 15 Review: An entry-level portable monitor with a splash of color 
+
+The Espresso Lite 15 is an entry-level portable monitor offering color and portability, perfect for creators on-the-go.
+
+💡 *Innovative portable display for creative professionals on a budget*
+
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/portable-monitors/espresso-lite-15-review)
+
+---
+
+### 6. Website backup crippled by 1.6MB Friends GIF that was replicated 246,173 times, breaking Linux's EXT4 filesystem limit Jennifer Aniston's 'happy dance' animation ate up 377 gigabytes of data due to security policy 
+
+A single 1.6MB GIF replicated 246,173 times caused a website backup to reach 377GB due to Linux's EXT4 file system limit. This limitation led to issues with the site's backup quota. The incident highlights the potential for small, duplicated files to cause significant storage issues.
+
+💡 *Small, duplicated files can silently cripple storage capacity.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/service-providers/web-hosting/friends-gif-cripples-website-discussion-platform-backup-with-377-gigabytes-of-rachels-happy-dance-1-6mb-animation-was-replicated-246-173-times-breaking-filesystem-limit)
+
+---
+
+### 7. OBS Studio revamps audio mixer, adds WebRTC simulcast support 
+
+OBS Studio 32.1 revamps its audio mixer with a new design and features, and introduces WebRTC simulcast support.
+
+💡 *Enhanced streaming capabilities for improved audio and video quality control.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7041-obs-studio.html)
+
+---
+
+### 8. Iran's internet blackout passes 1,000 hours as connectivity drops to near zero 
+
+Iran's internet blackout has surpassed 43 days, with connectivity at 1% pre-blackout levels.
+
+💡 *Mass internet censorship severely restricts information access and free speech.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112041-iran-internet-outage-passes-1000-hours-one-longest.html)
+
+---
+
+### 9. Everything is becoming agentic, and we're not fully ready for it 
+
+Emerging AI tools are rapidly automating tasks and transforming industries.
+
+💡 *Rise of autonomous tools challenges human skills and adaptability slowly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112040-everything-becoming-agentic-not-fully-ready.html)
+
+---
+
+### 10. What was the first ransomware attack to demand payment in Bitcoin? 
+
+The first known ransomware attack to demand payment in Bitcoin occurred in 2013. It was a variant of the 'CryptoLocker' malware. The attackers demanded payment in Bitcoin to restore encrypted files.
+
+💡 *Established Bitcoin as a preferred currency for ransomware attackers worldwide.*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/167-what-first-ransomware-attack-demand-payment-bitcoin/)
 
 ---
 

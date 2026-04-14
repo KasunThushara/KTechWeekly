@@ -1,35 +1,75 @@
 # ⚡ Semiconductors
-**Week of April 13, 2026**
+**Week of April 14, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 2
-- **Report generated:** 2026-04-13 10:22
+- **Articles this week:** 6
+- **Report generated:** 2026-04-14 10:01
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. South Korea s telecom giants surprise 7 million users with unlimited, universal internet net access declared a 'basic telecommunications right,' 400 Kbps data after monthly plans run out 
+### 1. New tech can see a CPU's transistors in action terahertz radiation can potentially steal data as a chip is running 
 
-South Korea's telecom giants offer unlimited 400 Kbps data to 7 million users. This benefit is declared as a 'basic telecommunications right.' The service will be provided after monthly plans run out.
+Researchers have developed a method to observe individual CPU transistors in action using terahertz radiation. This technology allows for a deeper understanding of chip performance. It can also potentially be used to steal sensitive data.
 
-💡 *Universal internet access becomes a basic right in South Korea.*
+💡 *Terahertz radiation can be used for both observation and data theft.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/south-koreas-three-major-carriers-introduce-400-kbps-data-for-all)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/new-tech-can-see-a-cpus-transistors-in-action-terahertz-radiation-can-potentially-steal-data-as-a-chip-is-running)
 
 ---
 
-### 2. Homture Magic Frame smart photo display integrates generative AI and 60 GHz mmWave radar (Sponsored) 
+### 2. Australia's social media ban for kids mostly isn't working, research suggests 
 
-The Homture Magic Frame is a smart photo display integrating generative AI and 60 GHz mmWave radar. It transforms static photos into interactive, living windows of memory, detecting users' presence and movement. The frame features a 10.1-inch Full HD touchscreen display and 64GB local storage.
+Australia's social media ban for users under 16 isn't effective, research shows. The ban aimed to protect young users from online risks, but kids are still accessing platforms. The government had hoped for better results from the ban.
 
-💡 *Revolutionary AI-powered photo display brings memories to life interactively.*
+💡 *Children are finding ways to circumvent age restrictions on social media*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/13/homture-magic-frame-smart-photo-display-integrates-generative-ai-and-60-ghz-mmwave-radar/)
+🔗 [Read Full Article](https://www.techspot.com/news/112049-australia-social-media-ban-kids-mostly-isnt-working.html)
+
+---
+
+### 3. Approvals for Nvidia and AMD AI chip exports to China stall under government bottleneck 20% staff turnover hobbles Bureau of Industry and Security 
+
+U.S. Commerce Department's Bureau of Industry and Security is severely understaffed, hindering AI chip exports to China due to a 20% staff turnover rate over the past year.
+
+💡 *Weak export vetting exposes U.S. AI tech to potential security risks*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-export-control-agency-has-lost-nearly-a-fifth-of-its-licensing-staff)
+
+---
+
+### 4. With Artemis safely home, NASA eyes radiation for future flights 
+
+NASA's Artemis II mission has successfully returned Orion to Earth, equipped with radiation sensors. These sensors will inform future mission planning, once testing on astronaut tissue chips is complete. The data collected will help protect astronauts from radiation exposure.
+
+💡 *Protecting astronauts from radiation exposure is crucial for long-duration spaceflight*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/artemis-crew-back-home-nasa-studies-radiation-future-flights)
+
+---
+
+### 5. Microsoft admits Game Pass may have gotten too expensive 
+
+Microsoft's Xbox division acknowledges Game Pass has become too expensive. The company is internally exploring lower-cost subscription tiers. No firm timeline is set for these changes.
+
+💡 *Pricing strategy shift may impact Game Pass's market dominance*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112057-microsoft-admits-game-pass-may-have-gotten-expensive.html)
+
+---
+
+### 6. Study finds even the best AI models lose money betting on soccer 
+
+A London-based AI start-up found top-tier models consistently lost money predicting Premier League match outcomes.
+
+💡 *Even top AI models struggle in dynamic environments like sports forecasting.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112043-new-study-shows-even-best-ai-models-lost.html)
 
 ---
 

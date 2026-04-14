@@ -1,55 +1,85 @@
 # 🎮 GPUs
-**Week of April 13, 2026**
+**Week of April 14, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-04-13 10:22
+- **Articles this week:** 7
+- **Report generated:** 2026-04-14 10:01
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Valve engineer shocks Linux community with game-changing VRAM hack for 8GB GPUs breakthrough solution turbocharges gaming by prioritizing VRAM for games while background tasks take a back seat 
+### 1. 'CopprLink' destroys every eGPU standard in new test, achieves near-native-level performance with an RTX 5090 setup requires $2,300 worth of additional hardware 
 
-Natalie Vock has optimized VRAM usage for games in Linux, ensuring foreground games take priority over background tasks, preventing evictions and improving gaming performance.
+CopprLink eGPU standard achieves near-native performance with RTX 5090 setup. This is made possible by a $1,300 enclosure and a $1,000 adapter card. The setup is geared towards enterprise markets but showcases the potential for future consumer eGPUs.
 
-💡 *Optimized VRAM prioritization enhances gaming performance in Linux environments significantly.*
+💡 *eGPU technology can rival motherboard performance with advanced adapters.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/valve-engineer-shocks-linux-community-with-game-changing-vram-hack-for-8gb-gpus-breakthrough-solution-turbocharges-gaming-by-prioritizing-vram-for-games-while-background-tasks-take-a-back-seat)
-
----
-
-### 2. Lenovo hikes Legion Go 2 handheld gaming PC to almost $3,000 for 2 TB model Handheld now costs more than AMD's Strix Halo devices despite relatively weaker Z2 Extreme chip 
-
-Lenovo has significantly raised the prices of Legion Go 2 handhelds, with the 2 TB model increasing from $1,480 to $2,850, a 93% hike.
-
-💡 *Lenovo's pricing may deter handheld gaming PC adoption due to affordability concerns.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/lenovo-hikes-legion-go-2-handheld-gaming-pc-to-almost-usd3-000-for-2-tb-model-handheld-now-costs-more-than-amds-strix-halo-devices-despite-relatively-weaker-z2-extreme-chip)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/copprlink-destroys-every-egpu-standard-in-new-test-achieves-near-native-level-performance-with-an-rtx-5090-setup-requires-usd2-300-worth-of-additional-hardware)
 
 ---
 
-### 3. $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation 
+### 2. Linux 7.0 released with self-healing XFS and expanded support for AMD, Intel, and ARM64 hardware 
 
-A PCIe adapter converts half-height GPUs to full-height and adds M.2 slots via PCIe bifurcation, expanding storage and GPU capabilities.
+Linux 7.0 introduces official support for Rust, marking a significant development milestone. This move is part of the 'Rust Experiment' that began in 2020. The release also includes self-healing XFS and expanded hardware support.
 
-💡 *Enabling compact builds with high-performance GPUs and SSDs simultaneously.*
+💡 *Linux's adoption of Rust enhances reliability and security standards.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/usd27-platypus-pcie-adapter-converts-half-height-gpus-into-full-height-while-adding-two-m-2-slots-for-ssds-enthusiast-demos-low-profile-rtx-4060-with-two-ssds-thanks-to-pcie-bifurcation)
+🔗 [Read Full Article](https://www.techspot.com/news/112050-linux-70-released-self-healing-xfs-expanded-support.html)
 
 ---
 
-### 4. Grab MSI s RTX 5080 gaming laptop for just over $2,000 offers fast 240 Hz QHD+ display, dual storage slots, and expandable DDR5 memory 
+### 3. Nvidia says AI cuts 10-month, eight-engineer GPU design task to overnight job company is still 'a long way' from AI designing chips without human input 
 
-This MSI gaming laptop offers high-end performance at a competitive price with its 240Hz QHD+ display, Core Ultra 9 CPU, and RTX 5080 GPU.
+Nvidia uses AI to speed up GPU design, cutting 10 months to overnight. However, the company still requires human input. AI is not yet autonomous in designing chips.
 
-💡 *Competitive high-end gaming laptop at a relatively affordable price point.*
+💡 *AI accelerates chip design, but human oversight remains crucial.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/grab-msis-rtx-5080-gaming-laptop-for-just-over-usd2-000-offers-fast-240-hz-qhd-display-dual-storage-slots-and-expandable-ddr5-memory)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-ai-cuts-10-month-eight-engineer-gpu-design-task-to-overnight-job-company-is-still-a-long-way-from-ai-designing-chips-without-human-input)
+
+---
+
+### 4. Intel's Nova Lake CPUs gear up to seize AMD s 3D V-Cache gaming throne early leak points to up to 52 cores, blazing DDR5-8000 support, and massive 175W TDP 
+
+Intel's Nova Lake CPUs may feature up to 52 cores and support DDR5-8000 speeds, with a massive 175W TDP. The Core Ultra 400S processors are expected to compete with AMD's 3D V-Cache gaming lineup. Details are based on an early leak of the CPU's preliminary SKU list.
+
+💡 *Intel's massive core count could surpass AMD's 3D V-Cache performance*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-nova-lake-cpus-gear-up-to-seize-amds-3d-v-cache-gaming-throne-early-leak-points-to-up-to-52-cores-blazing-ddr5-8000-support-and-massive-175w-tdp)
+
+---
+
+### 5. Approvals for Nvidia and AMD AI chip exports to China stall under government bottleneck 20% staff turnover hobbles Bureau of Industry and Security 
+
+U.S. Commerce Department's Bureau of Industry and Security is severely understaffed, hindering AI chip exports to China due to a 20% staff turnover rate over the past year.
+
+💡 *Weak export vetting exposes U.S. AI tech to potential security risks*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-export-control-agency-has-lost-nearly-a-fifth-of-its-licensing-staff)
+
+---
+
+### 6. Stop Killing Games backs California bill supporting clearer end-of-life rules for online games 
+
+Stop Killing Games supports California's Protect Our Games Act, requiring clear long-term support for online games. The bill aims to ensure gaming companies commit to server-connected game support. This legislation aims to give players clarity on game longevity.
+
+💡 *Transparency on game longevity boosts player trust and loyalty.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112055-stop-killing-games-backs-california-bill-supporting-clearer.html)
+
+---
+
+### 7. Valve engineer develops Linux VRAM fix that boosts gaming on 8GB GPUs 
+
+Valve engineer Natalie Vock develops Linux patches to boost gaming performance on 8GB GPUs by prioritizing game VRAM for faster local memory access.
+
+💡 *Prioritizing game VRAM improves gaming performance on lower spec GPUs significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112045-valve-engineer-develops-linux-vram-fix-boosts-gaming.html)
 
 ---
 

@@ -1,235 +1,381 @@
 [
   {
-    "title": "Grab MSI s RTX 5080 gaming laptop for just over $2,000 offers fast 240 Hz QHD+ display, dual storage slots, and expandable DDR5 memory",
-    "summary": "This MSI gaming laptop offers high-end performance at a competitive price with its 240Hz QHD+ display, Core Ultra 9 CPU, and RTX 5080 GPU.",
-    "link": "https://www.tomshardware.com/pc-components/grab-msis-rtx-5080-gaming-laptop-for-just-over-usd2-000-offers-fast-240-hz-qhd-display-dual-storage-slots-and-expandable-ddr5-memory",
+    "title": "FAA approves military use of drone-killing laser weapons in US airspace decision comes after it was decided systems do not present an increased risk to the flying public ",
+    "summary": "The FAA has granted approval for military laser systems to shoot down drones in US airspace, deeming them safe for public use.",
+    "link": "https://www.tomshardware.com/tech-industry/faa-green-lights-military-use-of-laser-drone-zapping-weaponry-in-us-airspace-decision-comes-after-it-was-decided-systems-do-not-present-an-increased-risk-to-the-flying-public",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.061226",
+    "insight": "Military's ability to counter rogue drones enhances national airspace security."
+  },
+  {
+    "title": "Nvidia says AI cuts 10-month, eight-engineer GPU design task to overnight job company is still 'a long way' from AI designing chips without human input",
+    "summary": "Nvidia uses AI to speed up GPU design, cutting 10 months to overnight. However, the company still requires human input. AI is not yet autonomous in designing chips.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-ai-cuts-10-month-eight-engineer-gpu-design-task-to-overnight-job-company-is-still-a-long-way-from-ai-designing-chips-without-human-input",
     "categories": [
       "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-13T10:21:49.636123",
-    "insight": "Competitive high-end gaming laptop at a relatively affordable price point."
-  },
-  {
-    "title": "Lenovo hikes Legion Go 2 handheld gaming PC to almost $3,000 for 2 TB model Handheld now costs more than AMD's Strix Halo devices despite relatively weaker Z2 Extreme chip",
-    "summary": "Lenovo has significantly raised the prices of Legion Go 2 handhelds, with the 2 TB model increasing from $1,480 to $2,850, a 93% hike.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/lenovo-hikes-legion-go-2-handheld-gaming-pc-to-almost-usd3-000-for-2-tb-model-handheld-now-costs-more-than-amds-strix-halo-devices-despite-relatively-weaker-z2-extreme-chip",
-    "categories": [
-      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-13T10:21:49.636263",
-    "insight": "Lenovo's pricing may deter handheld gaming PC adoption due to affordability concerns."
+    "processed_date": "2026-04-14T10:00:41.061384",
+    "insight": "AI accelerates chip design, but human oversight remains crucial."
   },
   {
-    "title": "Iran's forced nationwide internet blackout becomes second-longest on record as it passes 1,000 hours offline possessing Starlink terminals punishable by death, country using 'military-grade jamming' against service",
-    "summary": "Iran's nationwide Internet blackout has surpassed 1,000 hours, becoming second-longest on record. The shutdown is enforced with threats of death for possessing Starlink terminals. Military-grade jamming is being used to block internet services.",
-    "link": "https://www.tomshardware.com/tech-industry/iran-passes-1000-hours-offline",
+    "title": "Small Missouri town ousts half its city council after $6 billion AI data center approval petition calls for mayor's removal as frustration (and violence) over AI data centers mounts",
+    "summary": "Voters in Festus, MO ousted half of the city council members after a $6 billion AI data center project was approved, sparking frustration and calls for the mayor's removal.",
+    "link": "https://www.tomshardware.com/tech-industry/small-missouri-town-ousts-half-its-city-council-after-usd6-billion-ai-data-center-approval-petition-calls-for-mayors-removal-as-frustration-and-violence-over-ai-data-centers-mounts",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-13T10:21:49.636385",
-    "insight": "Iran's drastic measures severely impact its citizens' access to information and freedom."
+    "processed_date": "2026-04-14T10:00:41.061506",
+    "insight": "Community pushback against AI data centers reflects growing local distrust."
   },
   {
-    "title": "Tiny 3-inch cube PCs bring a splash of color to the passive PC market with red, orange, green and blue options Intel Twin Lake-powered Kubb Mini PCs start at $500",
-    "summary": "Kubb's compact 3-inch cube PCs offer colorful options starting at $500, with 16GB RAM and 256GB SSDs.",
-    "link": "https://www.tomshardware.com/desktops/mini-pcs/tiny-3-inch-cube-pcs-bring-a-splash-of-color-to-the-passive-pc-market-with-red-orange-green-and-blue-options-intel-twin-lake-powered-kubb-mini-pcs-start-at-usd500",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-13T10:21:49.636492",
-    "insight": "Mini PCs bring affordable, high-performance computing to home users."
-  },
-  {
-    "title": "Linux lays down the law on AI-generated code, says yes to Copilot, no to AI slop, and humans take the fall for mistakes after months of fierce debate, Torvalds and maintainers come to an agreement",
-    "summary": "Linus Torvalds and Linux kernel maintainers have reached an agreement on AI-generated code, accepting Copilot while rejecting sloppy AI outputs. Humans will be held accountable for mistakes after months of debate. This decision will shape the future of AI-assisted development in Linux.",
-    "link": "https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-13T10:21:49.636598",
-    "insight": "Human accountability ensures AI-assisted code quality and reliability in Linux."
-  },
-  {
-    "title": "Veteran Microsoft engineer says original Task Manager was only 80KB so it could run smoothly on 90s computers original utility used a smart technique to determine whether it was the only running instance",
-    "summary": "The original Windows Task Manager was optimized to run smoothly on 90s computers at just 80KB. Veteran engineer Dave Plummer implemented several clever techniques to minimize performance impact. This allowed the utility to run while being the only instance.",
-    "link": "https://www.tomshardware.com/software/windows/veteran-microsoft-engineer-says-original-task-manager-was-only-80kb-so-it-could-run-smoothly-on-90s-computers-original-utility-used-a-smart-technique-to-determine-whether-it-was-the-only-running-instance",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-13T10:21:49.636706",
-    "insight": "Optimizing for minimal footprint maximizes system resource efficiency."
-  },
-  {
-    "title": "Tech enthusiast gets Doom to run on a 40-year-old printer controller ancient Agfa Compugraphic 9000PS came with a Motorola 68020 onboard for fast processing",
-    "summary": "A tech enthusiast successfully ran Doom on a 40-year-old Agfa Compugraphic 9000PS printer controller, showcasing the system's potential and capabilities despite its age.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/tech-enthusiast-gets-doom-to-run-on-a-40-year-old-printer-controller-ancient-agfa-compugraphic-9000ps-came-with-a-motorola-68020-onboard-for-fast-processing",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-13T10:21:49.636819",
-    "insight": "Retro hardware can still deliver surprising performance and nostalgic gaming experiences."
-  },
-  {
-    "title": "Keychron Q6 Ultra 8K Review: 660 hours of battery life at 8 KHz",
-    "summary": "The Keychron Q6 Ultra 8K features 8 KHz polling and 660 hours battery life, but its keycaps and switches have drawbacks.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/keychron-q6-ultra-8k-review",
+    "title": "New tech can see a CPU's transistors in action terahertz radiation can potentially steal data as a chip is running",
+    "summary": "Researchers have developed a method to observe individual CPU transistors in action using terahertz radiation. This technology allows for a deeper understanding of chip performance. It can also potentially be used to steal sensitive data.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/new-tech-can-see-a-cpus-transistors-in-action-terahertz-radiation-can-potentially-steal-data-as-a-chip-is-running",
     "categories": [
       "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-13T10:21:49.636933",
-    "insight": "Impressive battery life meets gaming demands with high polling rate."
-  },
-  {
-    "title": "Startup secures $30 million contract to 3D print jet engines for the USAF company to test and develop small turbojets for drones and long-range weapons",
-    "summary": "Beehive Industries secured a $30 million contract to 3D print jet engines for the USAF, which are reportedly cheaper to build, use, and service. The 3D-printed engines will be tested for use in drones and long-range weapons. This partnership aims to accelerate technology development and cost savings.",
-    "link": "https://www.tomshardware.com/3d-printing/startup-secures-usd30-million-contract-to-3d-print-jet-engines-for-the-usaf-company-to-test-and-develop-small-turbojets-for-drones-and-long-range-weapons",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-13T10:21:49.637037",
-    "insight": "Revolutionizing military tech with 3D-printed, cost-effective jet engines."
-  },
-  {
-    "title": "Linux 7.0 enables three new AI-specific keys for keyboards, an apparent expansion beyond the Copilot key Google authors both the HID spec and the kernel patch",
-    "summary": "Linux 7.0 kernel supports three new AI-specific keycodes for laptops. These keycodes are likely for dedicated AI agent keys. The addition is an expansion of AI-related keyboard features.",
-    "link": "https://www.tomshardware.com/software/linux/linux-7-0-adds-three-new-ai-agent-keycodes-for-upcoming-laptops",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-13T10:21:49.637140",
-    "insight": "Enabling AI-specific keys on laptops boosts AI-assisted productivity capabilities."
-  },
-  {
-    "title": "$27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation",
-    "summary": "A PCIe adapter converts half-height GPUs to full-height and adds M.2 slots via PCIe bifurcation, expanding storage and GPU capabilities.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/usd27-platypus-pcie-adapter-converts-half-height-gpus-into-full-height-while-adding-two-m-2-slots-for-ssds-enthusiast-demos-low-profile-rtx-4060-with-two-ssds-thanks-to-pcie-bifurcation",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-13T10:21:49.637257",
-    "insight": "Enabling compact builds with high-performance GPUs and SSDs simultaneously."
-  },
-  {
-    "title": "South Korea s telecom giants surprise 7 million users with unlimited, universal internet net access declared a 'basic telecommunications right,' 400 Kbps data after monthly plans run out",
-    "summary": "South Korea's telecom giants offer unlimited 400 Kbps data to 7 million users. This benefit is declared as a 'basic telecommunications right.' The service will be provided after monthly plans run out.",
-    "link": "https://www.tomshardware.com/tech-industry/south-koreas-three-major-carriers-introduce-400-kbps-data-for-all",
-    "categories": [
-      "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-13T10:21:49.637369",
-    "insight": "Universal internet access becomes a basic right in South Korea."
-  },
-  {
-    "title": "Valve engineer shocks Linux community with game-changing VRAM hack for 8GB GPUs breakthrough solution turbocharges gaming by prioritizing VRAM for games while background tasks take a back seat",
-    "summary": "Natalie Vock has optimized VRAM usage for games in Linux, ensuring foreground games take priority over background tasks, preventing evictions and improving gaming performance.",
-    "link": "https://www.tomshardware.com/software/linux/valve-engineer-shocks-linux-community-with-game-changing-vram-hack-for-8gb-gpus-breakthrough-solution-turbocharges-gaming-by-prioritizing-vram-for-games-while-background-tasks-take-a-back-seat",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-04-13T10:21:49.637486",
-    "insight": "Optimized VRAM prioritization enhances gaming performance in Linux environments significantly."
+    "processed_date": "2026-04-14T10:00:41.061627",
+    "insight": "Terahertz radiation can be used for both observation and data theft."
   },
   {
-    "title": "Linux 7.0 Release Main changes, Arm, RISC-V, and MIPS architectures",
-    "summary": "Linux 7.0 has been released with various small fixes and updates, including arch fixes for Arm, RISC-V, and MIPS architectures. The release follows Linux 6.19, which brought PCIe link encryption. Testing and the merge window for 7.1 have begun.",
-    "link": "https://www.cnx-software.com/2026/04/13/linux-7-0-release-main-changes-arm-risc-v-and-mips-architectures/",
+    "title": "Intel's Nova Lake CPUs gear up to seize AMD s 3D V-Cache gaming throne early leak points to up to 52 cores, blazing DDR5-8000 support, and massive 175W TDP",
+    "summary": "Intel's Nova Lake CPUs may feature up to 52 cores and support DDR5-8000 speeds, with a massive 175W TDP. The Core Ultra 400S processors are expected to compete with AMD's 3D V-Cache gaming lineup. Details are based on an early leak of the CPU's preliminary SKU list.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intels-nova-lake-cpus-gear-up-to-seize-amds-3d-v-cache-gaming-throne-early-leak-points-to-up-to-52-cores-blazing-ddr5-8000-support-and-massive-175w-tdp",
     "categories": [
       "Hardware",
-      "AI & ML"
+      "GPUs"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-04-13T10:21:49.638065",
-    "insight": "Linux continues to evolve with AI-assisted corner case discoveries."
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.061739",
+    "insight": "Intel's massive core count could surpass AMD's 3D V-Cache performance"
   },
   {
-    "title": "Homture Magic Frame smart photo display integrates generative AI and 60 GHz mmWave radar (Sponsored)",
-    "summary": "The Homture Magic Frame is a smart photo display integrating generative AI and 60 GHz mmWave radar. It transforms static photos into interactive, living windows of memory, detecting users' presence and movement. The frame features a 10.1-inch Full HD touchscreen display and 64GB local storage.",
-    "link": "https://www.cnx-software.com/2026/04/13/homture-magic-frame-smart-photo-display-integrates-generative-ai-and-60-ghz-mmwave-radar/",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-13T10:21:49.638244",
-    "insight": "Revolutionary AI-powered photo display brings memories to life interactively."
-  },
-  {
-    "title": "UmbrelOS A Debian-based personal home cloud OS with a slick user interface",
-    "summary": "UmbrelOS is a Debian-based home cloud OS with a user-friendly web interface. It offers over 300 apps for media storage, streaming, automation, and more. Initially launched for Bitcoin full nodes, it has evolved into a comprehensive home cloud platform.",
-    "link": "https://www.cnx-software.com/2026/04/12/umbrelos-a-debian-based-personal-home-cloud-os-with-a-slick-user-interface/",
+    "title": "Acer Predator GX850 SFX power supply review: Solid electrical performance with good efficiency",
+    "summary": "The Acer Predator GX850 SFX power supply offers reliable electrical performance with good efficiency. It's compact design is a result of solid engineering from FSP. However, its price and noise levels may present practical challenges.",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/acer-predator-gx850-sfx-power-supply-review",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 15,
-    "processed_date": "2026-04-13T10:21:49.638414",
-    "insight": "Transforms old devices into user-friendly home cloud centers easily."
+    "processed_date": "2026-04-14T10:00:41.061844",
+    "insight": "Compact SFX design for PC builds balances power and noise trade-offs."
   },
   {
-    "title": "We Tested Every Ryzen 5 and 7 X3D CPU: From 5800X3D to 9800X3D",
-    "summary": "We comprehensively tested nine AMD Ryzen 5 and 7 X3D CPUs, comparing their performance in 14 games across two platforms to determine the performance improvements since the 5800X3D.",
-    "link": "https://www.techspot.com/review/3111-every-ryzen-x3d-cpu/",
+    "title": "NZXT to cough up $3.45 million over 'predatory' Flex PC rental scheme in RICO class-action settlement in-debt customers to get up to $5,000 of relief, eligible renters to be granted ownership",
+    "summary": "NZXT agreed to pay $3.45 million in a RICO class-action settlement. Eligible customers may receive up to $5,000 in relief. Renters may be granted ownership.",
+    "link": "https://www.tomshardware.com/tech-industry/nzxt-to-cough-up-usd3-45-million-over-predatory-flex-pc-rental-scheme-in-rico-class-action-settlement-in-debt-customers-to-get-up-to-usd5-000-of-relief-eligible-renters-to-be-granted-ownership",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.061952",
+    "insight": "Predatory business practices target vulnerable groups, including children and in-debt customers."
+  },
+  {
+    "title": "Bulbous 15x fan PC case side panel dubbed the Superdome lowers temps by 20 degrees $600 worth of Noctua fans arrayed in 3D-printed structure",
+    "summary": "The Superdome, a unique 15x fan PC case side panel, has shown improved cooling performance. Constructed with $600 worth of Noctua fans in a 3D-printed structure, it lowers temperatures by 20 degrees. This innovative design presents a promising solution for high-heat computing.",
+    "link": "https://www.tomshardware.com/pc-components/air-cooling/bulbous-15x-fan-pc-case-side-panel-dubbed-the-superdome-lowers-temps-by-20-degrees-usd600-worth-of-noctua-fans-arrayed-in-3d-printed-structure",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.062077",
+    "insight": "Innovative cooling designs can significantly reduce PC temperature and improve performance."
+  },
+  {
+    "title": "Approvals for Nvidia and AMD AI chip exports to China stall under government bottleneck 20% staff turnover hobbles Bureau of Industry and Security",
+    "summary": "U.S. Commerce Department's Bureau of Industry and Security is severely understaffed, hindering AI chip exports to China due to a 20% staff turnover rate over the past year.",
+    "link": "https://www.tomshardware.com/tech-industry/us-export-control-agency-has-lost-nearly-a-fifth-of-its-licensing-staff",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.062190",
+    "insight": "Weak export vetting exposes U.S. AI tech to potential security risks"
+  },
+  {
+    "title": "Espresso Lite 15 Review: An entry-level portable monitor with a splash of color",
+    "summary": "The Espresso Lite 15 is an entry-level portable monitor offering color and portability, perfect for creators on-the-go.",
+    "link": "https://www.tomshardware.com/monitors/portable-monitors/espresso-lite-15-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.062290",
+    "insight": "Innovative portable display for creative professionals on a budget"
+  },
+  {
+    "title": "'CopprLink' destroys every eGPU standard in new test, achieves near-native-level performance with an RTX 5090 setup requires $2,300 worth of additional hardware",
+    "summary": "CopprLink eGPU standard achieves near-native performance with RTX 5090 setup. This is made possible by a $1,300 enclosure and a $1,000 adapter card. The setup is geared towards enterprise markets but showcases the potential for future consumer eGPUs.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/copprlink-destroys-every-egpu-standard-in-new-test-achieves-near-native-level-performance-with-an-rtx-5090-setup-requires-usd2-300-worth-of-additional-hardware",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-14T10:00:41.062425",
+    "insight": "eGPU technology can rival motherboard performance with advanced adapters."
+  },
+  {
+    "title": "Website backup crippled by 1.6MB Friends GIF that was replicated 246,173 times, breaking Linux's EXT4 filesystem limit Jennifer Aniston's 'happy dance' animation ate up 377 gigabytes of data due to security policy",
+    "summary": "A single 1.6MB GIF replicated 246,173 times caused a website backup to reach 377GB due to Linux's EXT4 file system limit. This limitation led to issues with the site's backup quota. The incident highlights the potential for small, duplicated files to cause significant storage issues.",
+    "link": "https://www.tomshardware.com/service-providers/web-hosting/friends-gif-cripples-website-discussion-platform-backup-with-377-gigabytes-of-rachels-happy-dance-1-6mb-animation-was-replicated-246-173-times-breaking-filesystem-limit",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.062530",
+    "insight": "Small, duplicated files can silently cripple storage capacity."
+  },
+  {
+    "title": "Why we spent 50+ hours retesting Intel s Core Ultra 270K Plus and 250K Plus",
+    "summary": "We retested Intel's Core Ultra 270K Plus and 250K Plus after initial surprising results, spending over 50 hours to validate the data.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/why-we-spent-50-hours-retesting-intels-core-ultra-270k-plus-and-250k-plus",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-13T10:21:49.639703",
-    "insight": "X3D performance gains matter in CPU-bound and high-resolution gaming scenarios."
+    "processed_date": "2026-04-14T10:00:41.062635",
+    "insight": "High-performance CPU results require rigorous testing to build trust in benchmarks."
   },
   {
-    "title": "Rockstar Games hit with ransom demand after third-party data breach",
-    "summary": "Rockstar Games was hit with a ransom demand after a data breach. The attackers exploited access from Anodot, a cloud analytics tool, to gain unauthorized access to Rockstar's systems. ShinyHunters claims it didn't breach Rockstar directly.",
-    "link": "https://www.techspot.com/news/112038-rockstar-games-hit-ransom-demand-after-third-party.html",
+    "title": "192 MHz WCH CH32V205 RISC-V MCU offers a 480 Mbps USB 2.0 interface",
+    "summary": "The WCH CH32V205 is a 192 MHz RISC-V MCU with 480 Mbps USB 2.0 interface and various peripherals, including 80 GPIOs and a 16-channel 12-bit ADC.",
+    "link": "https://www.cnx-software.com/2026/04/14/192-mhz-wch-ch32v205-risc-v-mcu-offers-a-480-mbps-usb-2-0-interface/",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-14T10:00:41.063185",
+    "insight": "High-performance RISC-V MCU with advanced USB and peripherals capabilities."
+  },
+  {
+    "title": "DeskUp Pro smart standing desk controller integrates with Home Assistant and Homey Pro Smart Home hubs",
+    "summary": "The DeskUp Pro is a standing desk controller that integrates with Home Assistant and Homey Pro, allowing users to automate desk height, set reminders, and control their desk with voice assistants. It plugs directly into the desk's RJ11/RJ12 port and supports Jiecang control boxes. This solution enhances smart home functionality for standing desk users.",
+    "link": "https://www.cnx-software.com/2026/04/14/deskup-pro-smart-standing-desk-controller-integrates-with-home-assistant-and-homey-pro-smart-home-hubs/",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-14T10:00:41.063358",
+    "insight": "Streamlines smart home integration for standing desk users effortlessly"
+  },
+  {
+    "title": "Trail Mate open-source firmware leverages Meshtastic and MeshCore for ESP32 off-grid handhelds",
+    "summary": "Trail Mate is an open-source firmware for off-grid ESP32 handhelds, providing GPS mapping, LoRa messaging, and offline capabilities.",
+    "link": "https://www.cnx-software.com/2026/04/13/trail-mate-open-source-firmware-leverages-meshtastic-and-meshcore-for-esp32-off-grid-handhelds/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.063538",
+    "insight": "Enabling off-grid communication and navigation without relying on smartphones."
+  },
+  {
+    "title": "With Artemis safely home, NASA eyes radiation for future flights",
+    "summary": "NASA's Artemis II mission has successfully returned Orion to Earth, equipped with radiation sensors. These sensors will inform future mission planning, once testing on astronaut tissue chips is complete. The data collected will help protect astronauts from radiation exposure.",
+    "link": "https://www.fiercesensors.com/sensors/artemis-crew-back-home-nasa-studies-radiation-future-flights",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.064516",
+    "insight": "Protecting astronauts from radiation exposure is crucial for long-duration spaceflight"
+  },
+  {
+    "title": "Microsoft admits Game Pass may have gotten too expensive",
+    "summary": "Microsoft's Xbox division acknowledges Game Pass has become too expensive. The company is internally exploring lower-cost subscription tiers. No firm timeline is set for these changes.",
+    "link": "https://www.techspot.com/news/112057-microsoft-admits-game-pass-may-have-gotten-expensive.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.064936",
+    "insight": "Pricing strategy shift may impact Game Pass's market dominance"
+  },
+  {
+    "title": "Denuvo removed from Resident Evil Requiem, improving performance over hypervisor-based crack",
+    "summary": "Voices38 has removed Denuvo from Resident Evil Requiem, improving its performance. This marks the first game of 2026 to be fully cracked. The move is seen as a significant development in gaming.",
+    "link": "https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-14T10:00:41.065141",
+    "insight": "Denuvo's removal can significantly enhance game performance post-cracking."
+  },
+  {
+    "title": "What was the first ransomware attack to demand payment in Bitcoin?",
+    "summary": "The first known ransomware attack to demand payment in Bitcoin occurred in 2013. It was a variant of the 'CryptoLocker' malware. The attackers demanded payment in Bitcoin to restore encrypted files.",
+    "link": "https://www.techspot.com/trivia/167-what-first-ransomware-attack-demand-payment-bitcoin/",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-14T10:00:41.065289",
+    "insight": "Established Bitcoin as a preferred currency for ransomware attackers worldwide."
+  },
+  {
+    "title": "Stop Killing Games backs California bill supporting clearer end-of-life rules for online games",
+    "summary": "Stop Killing Games supports California's Protect Our Games Act, requiring clear long-term support for online games. The bill aims to ensure gaming companies commit to server-connected game support. This legislation aims to give players clarity on game longevity.",
+    "link": "https://www.techspot.com/news/112055-stop-killing-games-backs-california-bill-supporting-clearer.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.065478",
+    "insight": "Transparency on game longevity boosts player trust and loyalty."
+  },
+  {
+    "title": "Australia's social media ban for kids mostly isn't working, research suggests",
+    "summary": "Australia's social media ban for users under 16 isn't effective, research shows. The ban aimed to protect young users from online risks, but kids are still accessing platforms. The government had hoped for better results from the ban.",
+    "link": "https://www.techspot.com/news/112049-australia-social-media-ban-kids-mostly-isnt-working.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-14T10:00:41.065636",
+    "insight": "Children are finding ways to circumvent age restrictions on social media"
+  },
+  {
+    "title": "Linux 7.0 released with self-healing XFS and expanded support for AMD, Intel, and ARM64 hardware",
+    "summary": "Linux 7.0 introduces official support for Rust, marking a significant development milestone. This move is part of the 'Rust Experiment' that began in 2020. The release also includes self-healing XFS and expanded hardware support.",
+    "link": "https://www.techspot.com/news/112050-linux-70-released-self-healing-xfs-expanded-support.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-14T10:00:41.065821",
+    "insight": "Linux's adoption of Rust enhances reliability and security standards."
+  },
+  {
+    "title": "OBS Studio revamps audio mixer, adds WebRTC simulcast support",
+    "summary": "OBS Studio 32.1 revamps its audio mixer with a new design and features, and introduces WebRTC simulcast support.",
+    "link": "https://www.techspot.com/downloads/7041-obs-studio.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.065990",
+    "insight": "Enhanced streaming capabilities for improved audio and video quality control."
+  },
+  {
+    "title": "NZXT to pay $3.45 million in class-action settlement over \"predatory\" Flex PC rental scheme",
+    "summary": "NZXT agreed to a $3.45 million settlement over its Flex PC rental program, which was accused of using predatory and bait-and-switch tactics.",
+    "link": "https://www.techspot.com/news/112053-nzxt-pay-345-million-class-action-settlement-over.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.066195",
+    "insight": "Gamers are wary of companies with questionable business practices and loyalty."
+  },
+  {
+    "title": "MicroProse's next game is flight simulator Legendary Pilots",
+    "summary": "MicroProse's Legendary Pilots is a modern indie flight simulator with management elements. The game aims to deliver a complete yet accessible experience. It's set to be released by the end of the month.",
+    "link": "https://www.techspot.com/news/112044-microprose-next-game-flight-simulator-legendary-pilots.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-14T10:00:41.066365",
+    "insight": "Reviving flight simulation gaming with accessible management features"
+  },
+  {
+    "title": "After Fortnite stumbles and layoffs, Epic bets on a Disney extraction shooter",
+    "summary": "Epic Games faces uncertainty after layoffs and game updates underperform. The company is shifting focus to a new Disney extraction shooter. Fortnite will see further game mode closures.",
+    "link": "https://www.techspot.com/news/112046-after-fortnite-stumbles-layoffs-epic-bets-disney-extraction.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-13T10:21:49.639910",
-    "insight": "Third-party tool vulnerabilities can compromise even secure cloud environments."
+    "processed_date": "2026-04-14T10:00:41.066548",
+    "insight": "Epic diversifies to mitigate Fortnite's decline in popularity"
   },
   {
-    "title": "Blu-ray lives on as Verbatim and I-O Data pledge support with new drives and discs",
-    "summary": "Verbatim and I-O Data partner to maintain Blu-ray supply in Japan, catering to individuals and businesses who still use optical discs for recording and archiving.",
-    "link": "https://www.techspot.com/news/112034-optical-media-lives-japan-verbatim-o-data-pledge.html",
+    "title": "Valve engineer develops Linux VRAM fix that boosts gaming on 8GB GPUs",
+    "summary": "Valve engineer Natalie Vock develops Linux patches to boost gaming performance on 8GB GPUs by prioritizing game VRAM for faster local memory access.",
+    "link": "https://www.techspot.com/news/112045-valve-engineer-develops-linux-vram-fix-boosts-gaming.html",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.066716",
+    "insight": "Prioritizing game VRAM improves gaming performance on lower spec GPUs significantly."
+  },
+  {
+    "title": "Study finds even the best AI models lose money betting on soccer",
+    "summary": "A London-based AI start-up found top-tier models consistently lost money predicting Premier League match outcomes.",
+    "link": "https://www.techspot.com/news/112043-new-study-shows-even-best-ai-models-lost.html",
     "categories": [
       "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.066894",
+    "insight": "Even top AI models struggle in dynamic environments like sports forecasting."
+  },
+  {
+    "title": "South Korea to give 7 million mobile users free unlimited data after hitting monthly caps",
+    "summary": "South Korea's three major carriers will provide free unlimited data to 7 million users after hitting monthly caps.",
+    "link": "https://www.techspot.com/news/112042-south-korea-give-7-million-mobile-users-free.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.067055",
+    "insight": "Promotes digital equity and reduces financial burden for heavy data users."
+  },
+  {
+    "title": "Iran's internet blackout passes 1,000 hours as connectivity drops to near zero",
+    "summary": "Iran's internet blackout has surpassed 43 days, with connectivity at 1% pre-blackout levels.",
+    "link": "https://www.techspot.com/news/112041-iran-internet-outage-passes-1000-hours-one-longest.html",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-13T10:21:49.640084",
-    "insight": "Optical disc demand persists despite digital distribution growth"
+    "processed_date": "2026-04-14T10:00:41.067249",
+    "insight": "Mass internet censorship severely restricts information access and free speech."
   },
   {
-    "title": "The software that landed Apollo 11 on the moon is now free online",
-    "summary": "NASA has made the Apollo 11 mission's software publicly available online, free to access. The repository contains two distinct programs: Comanche055 and Luminary099. These programs played a crucial role in landing the first humans on the moon.",
-    "link": "https://www.techspot.com/news/112037-software-landed-apollo-11-moon-now-free-online.html",
+    "title": "Everything is becoming agentic, and we're not fully ready for it",
+    "summary": "Emerging AI tools are rapidly automating tasks and transforming industries.",
+    "link": "https://www.techspot.com/news/112040-everything-becoming-agentic-not-fully-ready.html",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-13T10:21:49.640236",
-    "insight": "Historical innovation now accessible to inspire future space exploration"
+    "processed_date": "2026-04-14T10:00:41.067414",
+    "insight": "Rise of autonomous tools challenges human skills and adaptability slowly."
+  },
+  {
+    "title": "Sam Altman's San Francisco home targeted by Molotov cocktail and gunfire in two separate attacks",
+    "summary": "Sam Altman's San Francisco home was targeted by Molotov cocktail and gunfire in two separate attacks. A 20-year-old man was arrested and booked into jail on various charges.",
+    "link": "https://www.techspot.com/news/112047-sam-altman-san-francisco-home-hit-molotov-attack.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-14T10:00:41.067596",
+    "insight": "High-profile figures' homes increasingly vulnerable to violent attacks nationwide."
   }
 ]
