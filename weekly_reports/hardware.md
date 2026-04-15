@@ -1,175 +1,135 @@
 # 💻 Hardware
-**Week of April 14, 2026**
+**Week of April 15, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 16
-- **Report generated:** 2026-04-14 10:01
+- **Articles this week:** 12
+- **Report generated:** 2026-04-15 10:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Acer Predator GX850 SFX power supply review: Solid electrical performance with good efficiency ⭐
+### 1. Alienware AW2726DM 27-inch QHD 240 Hz QD-OLED gaming monitor review: A price breakthrough for desktop OLED ⭐
 
-The Acer Predator GX850 SFX power supply offers reliable electrical performance with good efficiency. It's compact design is a result of solid engineering from FSP. However, its price and noise levels may present practical challenges.
+Alienware's AW2726DM breaks price barriers with its 27-inch QHD QD-OLED monitor, offering high-quality features at an affordable price of $350. This monitor boasts 240 Hz refresh rate, Adaptive-Sync, HDR10, and wide gamut color. It's a significant breakthrough for desktop OLED technology.
 
-💡 *Compact SFX design for PC builds balances power and noise trade-offs.*
+💡 *Affordable OLED gaming monitors for the masses*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/acer-predator-gx850-sfx-power-supply-review)
-
----
-
-### 2. Denuvo removed from Resident Evil Requiem, improving performance over hypervisor-based crack ⭐
-
-Voices38 has removed Denuvo from Resident Evil Requiem, improving its performance. This marks the first game of 2026 to be fully cracked. The move is seen as a significant development in gaming.
-
-💡 *Denuvo's removal can significantly enhance game performance post-cracking.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw2726dm-27-inch-qhd-240-hz-qd-oled-gaming-monitor-review)
 
 ---
 
-### 3. New tech can see a CPU's transistors in action terahertz radiation can potentially steal data as a chip is running 
+### 2. Microsoft is removing 32GB size limit for FAT32 volumes, this time for real ⭐
 
-Researchers have developed a method to observe individual CPU transistors in action using terahertz radiation. This technology allows for a deeper understanding of chip performance. It can also potentially be used to steal sensitive data.
+Microsoft has released a Windows 11 preview build with a new, higher FAT32 size limit, improving compatibility and flexibility.
 
-💡 *Terahertz radiation can be used for both observation and data theft.*
+💡 *FAT32 size limit increase enhances compatibility and flexibility for users.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/new-tech-can-see-a-cpus-transistors-in-action-terahertz-radiation-can-potentially-steal-data-as-a-chip-is-running)
-
----
-
-### 4. 'CopprLink' destroys every eGPU standard in new test, achieves near-native-level performance with an RTX 5090 setup requires $2,300 worth of additional hardware 
-
-CopprLink eGPU standard achieves near-native performance with RTX 5090 setup. This is made possible by a $1,300 enclosure and a $1,000 adapter card. The setup is geared towards enterprise markets but showcases the potential for future consumer eGPUs.
-
-💡 *eGPU technology can rival motherboard performance with advanced adapters.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/copprlink-destroys-every-egpu-standard-in-new-test-achieves-near-native-level-performance-with-an-rtx-5090-setup-requires-usd2-300-worth-of-additional-hardware)
+🔗 [Read Full Article](https://www.techspot.com/news/112058-microsoft-removing-32gb-size-limit-fat32-volumes-time.html)
 
 ---
 
-### 5. Why we spent 50+ hours retesting Intel s Core Ultra 270K Plus and 250K Plus 
+### 3. Our experts review your astonishing PC builds and setups in Rig Rundown from wall-mounted setups to a system packed inside of a 1:6 scale RC car 
 
-We retested Intel's Core Ultra 270K Plus and 250K Plus after initial surprising results, spending over 50 hours to validate the data.
+Tom's Hardware showcases user-submitted PC builds and crowns a winner in the inaugural Tom's Hardware Premium Rig Rundown results. The publication goes through various unique and creative setups, from wall-mounted PCs to a system packed inside of a 1:6 scale RC car. This special issue highlights the art of PC customization and innovation.
 
-💡 *High-performance CPU results require rigorous testing to build trust in benchmarks.*
+💡 *Creative PC builds showcase innovation and customization expertise.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/why-we-spent-50-hours-retesting-intels-core-ultra-270k-plus-and-250k-plus)
-
----
-
-### 6. 192 MHz WCH CH32V205 RISC-V MCU offers a 480 Mbps USB 2.0 interface 
-
-The WCH CH32V205 is a 192 MHz RISC-V MCU with 480 Mbps USB 2.0 interface and various peripherals, including 80 GPIOs and a 16-channel 12-bit ADC.
-
-💡 *High-performance RISC-V MCU with advanced USB and peripherals capabilities.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/14/192-mhz-wch-ch32v205-risc-v-mcu-offers-a-480-mbps-usb-2-0-interface/)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/our-experts-review-your-astonishing-pc-builds-and-setups-in-rig-rundown-from-wall-mounted-setups-to-a-system-packed-inside-of-a-1-6-scale-rc-car)
 
 ---
 
-### 7. DeskUp Pro smart standing desk controller integrates with Home Assistant and Homey Pro Smart Home hubs 
+### 4. Capcom's Pragmata earns strong early reviews ahead of release 
 
-The DeskUp Pro is a standing desk controller that integrates with Home Assistant and Homey Pro, allowing users to automate desk height, set reminders, and control their desk with voice assistants. It plugs directly into the desk's RJ11/RJ12 port and supports Jiecang control boxes. This solution enhances smart home functionality for standing desk users.
+Pragmata earns strong reviews for its innovative third-person shooting mechanics and real-time hacking features, combined with stunning futuristic visuals and engaging combat depth.
 
-💡 *Streamlines smart home integration for standing desk users effortlessly*
+💡 *Capcom's Pragmata offers a fresh gaming experience with hacking mechanics.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/14/deskup-pro-smart-standing-desk-controller-integrates-with-home-assistant-and-homey-pro-smart-home-hubs/)
-
----
-
-### 8. Linux 7.0 released with self-healing XFS and expanded support for AMD, Intel, and ARM64 hardware 
-
-Linux 7.0 introduces official support for Rust, marking a significant development milestone. This move is part of the 'Rust Experiment' that began in 2020. The release also includes self-healing XFS and expanded hardware support.
-
-💡 *Linux's adoption of Rust enhances reliability and security standards.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112050-linux-70-released-self-healing-xfs-expanded-support.html)
+🔗 [Read Full Article](https://www.techspot.com/products/pc-games/pragmata.323754/)
 
 ---
 
-### 9. Intel's Nova Lake CPUs gear up to seize AMD s 3D V-Cache gaming throne early leak points to up to 52 cores, blazing DDR5-8000 support, and massive 175W TDP 
+### 5. New terahertz technique lets engineers see inside running processors in real time 
 
-Intel's Nova Lake CPUs may feature up to 52 cores and support DDR5-8000 speeds, with a massive 175W TDP. The Core Ultra 400S processors are expected to compete with AMD's 3D V-Cache gaming lineup. Details are based on an early leak of the CPU's preliminary SKU list.
+Researchers modified a vector network analyzer to operate in the terahertz domain, enabling real-time monitoring of processors.
 
-💡 *Intel's massive core count could surpass AMD's 3D V-Cache performance*
+💡 *Insights into processor behavior in real-time could greatly improve chip design and reliability.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-nova-lake-cpus-gear-up-to-seize-amds-3d-v-cache-gaming-throne-early-leak-points-to-up-to-52-cores-blazing-ddr5-8000-support-and-massive-175w-tdp)
-
----
-
-### 10. NZXT to cough up $3.45 million over 'predatory' Flex PC rental scheme in RICO class-action settlement in-debt customers to get up to $5,000 of relief, eligible renters to be granted ownership 
-
-NZXT agreed to pay $3.45 million in a RICO class-action settlement. Eligible customers may receive up to $5,000 in relief. Renters may be granted ownership.
-
-💡 *Predatory business practices target vulnerable groups, including children and in-debt customers.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nzxt-to-cough-up-usd3-45-million-over-predatory-flex-pc-rental-scheme-in-rico-class-action-settlement-in-debt-customers-to-get-up-to-usd5-000-of-relief-eligible-renters-to-be-granted-ownership)
+🔗 [Read Full Article](https://www.techspot.com/news/112060-new-terahertz-technique-engineers-watch-processors-work-real.html)
 
 ---
 
-### 11. Bulbous 15x fan PC case side panel dubbed the Superdome lowers temps by 20 degrees $600 worth of Noctua fans arrayed in 3D-printed structure 
+### 6. Intel's promising upcoming Nova Lake-S lineup reportedly includes an iGPU-focused SKU with 12 Xe3P cores new leak claims a midrange 16-core CPU with powerful integrated graphics is in the works 
 
-The Superdome, a unique 15x fan PC case side panel, has shown improved cooling performance. Constructed with $600 worth of Noctua fans in a 3D-printed structure, it lowers temperatures by 20 degrees. This innovative design presents a promising solution for high-heat computing.
+A new leak suggests Intel's Nova Lake-S lineup will include a 16-core CPU with 12 Xe3P iGPU cores, targeting the Ryzen G-series APUs. This would offer significantly more integrated graphics capabilities than current AMD offerings. The 16-core CPU would be a strong competitor in the mid-range market.
 
-💡 *Innovative cooling designs can significantly reduce PC temperature and improve performance.*
+💡 *Intel's iGPU-focused SKU could surpass AMD's offerings in graphics performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/bulbous-15x-fan-pc-case-side-panel-dubbed-the-superdome-lowers-temps-by-20-degrees-usd600-worth-of-noctua-fans-arrayed-in-3d-printed-structure)
-
----
-
-### 12. Espresso Lite 15 Review: An entry-level portable monitor with a splash of color 
-
-The Espresso Lite 15 is an entry-level portable monitor offering color and portability, perfect for creators on-the-go.
-
-💡 *Innovative portable display for creative professionals on a budget*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/portable-monitors/espresso-lite-15-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-promising-upcoming-nova-lake-s-lineup-reportedly-includes-an-igpu-focused-sku-with-12-xe3p-cores-new-leak-claims-a-midrange-16-core-cpu-with-powerful-integrated-graphics-is-in-the-works)
 
 ---
 
-### 13. Trail Mate open-source firmware leverages Meshtastic and MeshCore for ESP32 off-grid handhelds 
+### 7. Nvidia quashes rumor it s planning to purchase a major PC manufacturer says that it s not engaged in discussions to acquire any PC maker  
 
-Trail Mate is an open-source firmware for off-grid ESP32 handhelds, providing GPS mapping, LoRa messaging, and offline capabilities.
+Nvidia denied acquiring another PC manufacturer despite 2024 rumors. The company stated it's not in talks to acquire any PC maker. Nvidia's clarification aims to alleviate market uncertainty.
 
-💡 *Enabling off-grid communication and navigation without relying on smartphones.*
+💡 *Nvidia's acquisition plans affect its position in the PC hardware market.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/13/trail-mate-open-source-firmware-leverages-meshtastic-and-meshcore-for-esp32-off-grid-handhelds/)
-
----
-
-### 14. With Artemis safely home, NASA eyes radiation for future flights 
-
-NASA's Artemis II mission has successfully returned Orion to Earth, equipped with radiation sensors. These sensors will inform future mission planning, once testing on astronaut tissue chips is complete. The data collected will help protect astronauts from radiation exposure.
-
-💡 *Protecting astronauts from radiation exposure is crucial for long-duration spaceflight*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/artemis-crew-back-home-nasa-studies-radiation-future-flights)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/nvidia-squashes-rumor-its-planning-to-purchase-a-major-pc-manufacturer-says-that-its-not-engaged-in-discussions-to-acquire-any-pc-maker)
 
 ---
 
-### 15. Stop Killing Games backs California bill supporting clearer end-of-life rules for online games 
+### 8. Bambu Lab X2D review: Improving a fan favorite 
 
-Stop Killing Games supports California's Protect Our Games Act, requiring clear long-term support for online games. The bill aims to ensure gaming companies commit to server-connected game support. This legislation aims to give players clarity on game longevity.
+The Bambu Lab X2D is an upgraded version of the X1 3D printer, featuring improved performance and reliability. It addresses user feedback and incorporates new technologies to enhance the printing experience. The X2D aims to solidify its position as a top-choice 3D printer.
 
-💡 *Transparency on game longevity boosts player trust and loyalty.*
+💡 *Refined design and performance improve user experience significantly*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112055-stop-killing-games-backs-california-bill-supporting-clearer.html)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/bambu-lab-x2d-review)
 
 ---
 
-### 16. NZXT to pay $3.45 million in class-action settlement over "predatory" Flex PC rental scheme 
+### 9. Score a massive $700 off this 4K-ready Lenovo gaming PC with an RTX 5070 Ti, now just $1,899 epic Legion Tower 5i pre-built ships with a 20-core Intel CPU, 32GB DDR5 and a 2TB SSD 
 
-NZXT agreed to a $3.45 million settlement over its Flex PC rental program, which was accused of using predatory and bait-and-switch tactics.
+Get a high-performance gaming PC with 20-core Intel CPU, 32GB DDR5 RAM, and 2TB SSD, now at a discounted price of $1,899.99.
 
-💡 *Gamers are wary of companies with questionable business practices and loyalty.*
+💡 *High-end gaming capabilities at a relatively affordable price point.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112053-nzxt-pay-345-million-class-action-settlement-over.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/score-a-massive-usd700-off-this-4k-ready-lenovo-gaming-pc-with-an-rtx-5070-ti-now-just-usd1-899-epic-legion-tower-5i-pre-built-ships-with-a-20-core-intel-cpu-32gb-ddr5-and-a-2tb-ssd)
+
+---
+
+### 10. Veteran Windows dev shows off AI running on 47-year-old PDP11 with 6 MHz CPU and 64KB of RAM 'gloriously absurd' project runs transformer model written in PDP-11 assembly language 
+
+A veteran Windows developer has successfully trained a neural network on a 47-year-old PDP-11 minicomputer with a 6 MHz CPU and 64 KB of RAM, showcasing the 'gloriously absurd' capabilities of AI on outdated hardware.
+
+💡 *Even ancient hardware can run AI with careful optimization and assembly language.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/veteran-windows-dev-shows-off-ai-running-on-47-year-old-pdp11-with-6-mhz-cpu-and-64kb-of-ram-gloriously-absurd-project-runs-transformer-model-written-in-pdp-11-assembly-language)
+
+---
+
+### 11. Microsoft just made its Surface laptops a lot more expensive 
+
+Microsoft has increased prices for its Surface Pro and Laptop models by $300, citing rising component costs.
+
+💡 *Higher prices may deter buyers and impact Surface sales*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112059-microsoft-made-surface-laptops-lot-more-expensive.html)
+
+---
+
+### 12. This 3D-printed 15-fan side panel drops CPU temps by 20 degrees 
+
+A 3D-printed side panel with 15 fans lowers CPU temperatures by 20 degrees. This design replaces tempered glass with a fan-filled structure for improved airflow. It was created in response to user feedback.
+
+💡 *Optimized airflow significantly reduces CPU temperatures with effective fan integration.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112056-3d-printed-15-fan-side-panel-dropped-cpu.html)
 
 ---
 

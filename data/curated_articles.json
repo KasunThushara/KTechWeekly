@@ -1,348 +1,329 @@
 [
   {
-    "title": "FAA approves military use of drone-killing laser weapons in US airspace decision comes after it was decided systems do not present an increased risk to the flying public ",
-    "summary": "The Federal Aviation Administration (FAA) has decided to give carte blanche approval to the military s use of laser weaponry to shoot down suspected errant drones in US airspace.",
-    "link": "https://www.tomshardware.com/tech-industry/faa-green-lights-military-use-of-laser-drone-zapping-weaponry-in-us-airspace-decision-comes-after-it-was-decided-systems-do-not-present-an-increased-risk-to-the-flying-public",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.061226"
-  },
-  {
-    "title": "Nvidia says AI cuts 10-month, eight-engineer GPU design task to overnight job company is still 'a long way' from AI designing chips without human input",
-    "summary": "Nvidia widely uses AI for different stages of the chip design process, though it admits that AI is a long way from designing chips completely autonomously.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-ai-cuts-10-month-eight-engineer-gpu-design-task-to-overnight-job-company-is-still-a-long-way-from-ai-designing-chips-without-human-input",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.061384"
-  },
-  {
-    "title": "Small Missouri town ousts half its city council after $6 billion AI data center approval petition calls for mayor's removal as frustration (and violence) over AI data centers mounts",
-    "summary": "Voters in Festus, MO ousted half of the city's council members following the approval of a $6 billion data center project.",
-    "link": "https://www.tomshardware.com/tech-industry/small-missouri-town-ousts-half-its-city-council-after-usd6-billion-ai-data-center-approval-petition-calls-for-mayors-removal-as-frustration-and-violence-over-ai-data-centers-mounts",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.061506"
-  },
-  {
-    "title": "New tech can see a CPU's transistors in action terahertz radiation can potentially steal data as a chip is running",
-    "summary": "Researchers have discovered a way of probing a microchip processor's individual transistors while it is working with terahertz radiation.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/new-tech-can-see-a-cpus-transistors-in-action-terahertz-radiation-can-potentially-steal-data-as-a-chip-is-running",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-14T10:00:41.061627"
-  },
-  {
-    "title": "Intel's Nova Lake CPUs gear up to seize AMD s 3D V-Cache gaming throne early leak points to up to 52 cores, blazing DDR5-8000 support, and massive 175W TDP",
-    "summary": "VideoCardz shares the alleged preliminary SKU list for Intel's upcoming Core Ultra 400S (codenamed Nova Lake) processors.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-nova-lake-cpus-gear-up-to-seize-amds-3d-v-cache-gaming-throne-early-leak-points-to-up-to-52-cores-blazing-ddr5-8000-support-and-massive-175w-tdp",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.061739"
-  },
-  {
-    "title": "Acer Predator GX850 SFX power supply review: Solid electrical performance with good efficiency",
-    "summary": "Solid engineering from FSP delivers reliable power in compact form, though pricing and acoustics present practical challenges.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/acer-predator-gx850-sfx-power-supply-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-14T10:00:41.061844"
-  },
-  {
-    "title": "NZXT to cough up $3.45 million over 'predatory' Flex PC rental scheme in RICO class-action settlement in-debt customers to get up to $5,000 of relief, eligible renters to be granted ownership",
-    "summary": "The company allegedly engaged in just about every kind of deceptive business practice possible, and even targeted children.",
-    "link": "https://www.tomshardware.com/tech-industry/nzxt-to-cough-up-usd3-45-million-over-predatory-flex-pc-rental-scheme-in-rico-class-action-settlement-in-debt-customers-to-get-up-to-usd5-000-of-relief-eligible-renters-to-be-granted-ownership",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.061952"
-  },
-  {
-    "title": "Bulbous 15x fan PC case side panel dubbed the Superdome lowers temps by 20 degrees $600 worth of Noctua fans arrayed in 3D-printed structure",
-    "summary": "A TechTuber has constructed a bulbous 15x fan PC case side panel as a cooling experiment. It seems to do a good job.",
-    "link": "https://www.tomshardware.com/pc-components/air-cooling/bulbous-15x-fan-pc-case-side-panel-dubbed-the-superdome-lowers-temps-by-20-degrees-usd600-worth-of-noctua-fans-arrayed-in-3d-printed-structure",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.062077"
-  },
-  {
-    "title": "Approvals for Nvidia and AMD AI chip exports to China stall under government bottleneck 20% staff turnover hobbles Bureau of Industry and Security",
-    "summary": "Staffing at the U.S. Commerce Department office that vets exports of Nvidia and AMD AI accelerators has collapsed over the past year.",
-    "link": "https://www.tomshardware.com/tech-industry/us-export-control-agency-has-lost-nearly-a-fifth-of-its-licensing-staff",
-    "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.062190"
-  },
-  {
-    "title": "Espresso Lite 15 Review: An entry-level portable monitor with a splash of color",
-    "summary": "The Lite 15 is the new entry-level portable monitor from Espresso, and it s dressed for the occasion.",
-    "link": "https://www.tomshardware.com/monitors/portable-monitors/espresso-lite-15-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.062290"
-  },
-  {
-    "title": "'CopprLink' destroys every eGPU standard in new test, achieves near-native-level performance with an RTX 5090 setup requires $2,300 worth of additional hardware",
-    "summary": "An RTX 5090 plugged into this eGPU using the CopprLink standard was able to get essentially the same level of performance as the GPU directly plugged into the motherboard. The setup requires a $1,300 enclosure and a $1,000 adapter card, and it's only meant for enterprise markets, but it shows what the future of eGPUs could be for consumers.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/copprlink-destroys-every-egpu-standard-in-new-test-achieves-near-native-level-performance-with-an-rtx-5090-setup-requires-usd2-300-worth-of-additional-hardware",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-14T10:00:41.062425"
-  },
-  {
-    "title": "Website backup crippled by 1.6MB Friends GIF that was replicated 246,173 times, breaking Linux's EXT4 filesystem limit Jennifer Aniston's 'happy dance' animation ate up 377 gigabytes of data due to security policy",
-    "summary": "A single reaction animation, frequently duplicated in chats by community members, added 377GB to a site's backup quota.",
-    "link": "https://www.tomshardware.com/service-providers/web-hosting/friends-gif-cripples-website-discussion-platform-backup-with-377-gigabytes-of-rachels-happy-dance-1-6mb-animation-was-replicated-246-173-times-breaking-filesystem-limit",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.062530"
-  },
-  {
-    "title": "Why we spent 50+ hours retesting Intel s Core Ultra 270K Plus and 250K Plus",
-    "summary": "Although we ve known for a long time that Intel planned to refresh its Arrow Lake CPUs, the 270K Plus and 250K Plus still posted results that were difficult to believe during our review period.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/why-we-spent-50-hours-retesting-intels-core-ultra-270k-plus-and-250k-plus",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-14T10:00:41.062635"
-  },
-  {
-    "title": "192 MHz WCH CH32V205 RISC-V MCU offers a 480 Mbps USB 2.0 interface",
-    "summary": "WCH CH32V205 is a 32-bit RISC-V MCU clocked at up to 192 MHz with 32KB SRAM, 256KB flash, and a USB 2.0 high-speed Host/device interface with a 480 Mbps PHY. The new microcontroller also features another USB 2.0 full speed (12 Mbps) Host/Device interface, a USB PD port, eighty GPIOs, a 16-channel 12-bit ADC, a 16-channel touchkey interface, and other interfaces such as CAN Bus, USART, I2C, SPI, and QSPI. WCH CH32V205 specifications: MCU core QingKe 32-bit RISC-V3B core processor up to 192 MHz Memory & Storage 32KB SRAM 256KB Flash Flexible Static Memory Controller (FSMC) Peripherals USB 480Mbps high-speed USB 2.0 controller and PHY Full-speed USB 2.0 controller and PHY USB PD and Type-C controller and PHY 8x USARTs, 2x I2C, 2x SPI , 1x QuadSPI 1-wire (default)/ 2-wire serial debug interface 1x CAN 2.0B Up to 80x GPIO with 16 external interrupts Programmable Protocol I/O Controller (PIOC). Note: [...] The post 192 MHz WCH CH32V205 RISC-V MCU offers a 480 Mbps USB 2.0 interface appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/14/192-mhz-wch-ch32v205-risc-v-mcu-offers-a-480-mbps-usb-2-0-interface/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-14T10:00:41.063185"
-  },
-  {
-    "title": "DeskUp Pro smart standing desk controller integrates with Home Assistant and Homey Pro Smart Home hubs",
-    "summary": "Designed by SmartHomeGuys in the UK, the DeskUp Pro is an ESP32-based standing desk controller compatible with Home Assistant, Homey Pro, and other Smart Home hubs, using the desk s standard RJ11/RJ12 connection. Many modern standing desks come with a controller from Jiecang or another company featuring an RJ12 port. The DeskUp Pro plugs directly into this port, draws power without an external USB supply, and bridges the desk s controls to your 2.4 GHz Wi-Fi network. This allows you to automate your desk height, set health-focused standing reminders, or use voice assistants like Google Home and Alexa, all while keeping the desk s original physical keypad fully functional. DeskUp Pro specifications: MCU Espressif Systems ESP32-C6 or ESP32-S3 microcontroller with 2.4GHz Wi-Fi and Bluetooth LE Desk connectivity Built-in RJ11/RJ12 cable for data and power USB USB Type-C port for initial setup and firmware flashing Misc Supported Jiecang control boxes JCB36NE2 (used [...] The post DeskUp Pro smart standing desk controller integrates with Home Assistant and Homey Pro Smart Home hubs appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/14/deskup-pro-smart-standing-desk-controller-integrates-with-home-assistant-and-homey-pro-smart-home-hubs/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-14T10:00:41.063358"
-  },
-  {
-    "title": "Trail Mate open-source firmware leverages Meshtastic and MeshCore for ESP32 off-grid handhelds",
-    "summary": "vicliu624 s Trail Mate is an open-source firmware for off-grid communication and GPS coordinates sharing, leveraging the Meshtastic, MeshCore, and other projects, and designed for ESP32 handhelds such as LILYGO s T-LoRa Pager or M5Stack s Tab5 with a LoRaWAN module. The Trail Mate firmware provides a fixed north-up GPS map, direct LoRa text messaging through Meshtastic or MeshCore mesh networks without relying on a smartphone, and prioritizes stability, efficiency, and interoperability over feature density. Trail Mate user interface highlights: Simple main menu with four icons: GPS, LoRa chat, tracker, and system utilities. GPS map Fixed North-Up map orientation (no rotation) Fully offline map rendering from SD card tiles (png/jpg files) Three switchable base layers: OSM / Terrain / Satellite Optional contour overlay for terrain shape awareness Real-time position marker for the current GPS fix Discrete zoom levels optimized for embedded systems Simple breadcrumb trails for path awareness Fast in-page layer switching via [...] The post Trail Mate open-source firmware leverages Meshtastic and MeshCore for ESP32 off-grid handhelds appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/13/trail-mate-open-source-firmware-leverages-meshtastic-and-meshcore-for-esp32-off-grid-handhelds/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.063538"
-  },
-  {
-    "title": "With Artemis safely home, NASA eyes radiation for future flights",
-    "summary": "A series of radiation sensors aboard Orion in Artemis II are likely to be the basis for future missions, once full testing on astronaut tissue chips is complete.",
-    "link": "https://www.fiercesensors.com/sensors/artemis-crew-back-home-nasa-studies-radiation-future-flights",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.064516"
-  },
-  {
-    "title": "Microsoft admits Game Pass may have gotten too expensive",
-    "summary": "An internal memo obtained by The Verge shows Xbox's new CEO, Asha Sharma, acknowledging that Game Pass has grown too expensive. Microsoft is now exploring lower-cost subscription tiers, though no firm timeline has been set. Read Entire Article",
-    "link": "https://www.techspot.com/news/112057-microsoft-admits-game-pass-may-have-gotten-expensive.html",
+    "title": "Nvidia releases open AI models for quantum computing tasks 'Ising' said to be 2.5x faster and 3x more accurate than existing tools for decoding",
+    "summary": "Nvidia has announced Ising, a family of open-source AI models for quantum processor calibration and real-time error correction decoding that claims to offer substantial speedups over existing methods.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-releases-ising-open-ai-models",
     "categories": [
       "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.064936"
-  },
-  {
-    "title": "Denuvo removed from Resident Evil Requiem, improving performance over hypervisor-based crack",
-    "summary": "Less than a month after removing Denuvo from Doom: The Dark Ages, Voices38 has now achieved the same feat with Resident Evil Requiem. Capcom's survival horror title is the first game released in 2026 to undergo a full \"cracking\" process, just as TDA marked the first cracked release of a... Read Entire Article",
-    "link": "https://www.techspot.com/news/112052-denuvo-cracker-releases-drm-free-version-resident-evil.html",
-    "categories": [
-      "Hardware",
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-04-14T10:00:41.065141"
+    "quality_score": 10,
+    "processed_date": "2026-04-15T10:01:22.777378"
   },
   {
-    "title": "What was the first ransomware attack to demand payment in Bitcoin?",
-    "summary": "Test your cyber history savvy in this week's trivia. Read Entire Article",
-    "link": "https://www.techspot.com/trivia/167-what-first-ransomware-attack-demand-payment-bitcoin/",
+    "title": "Anthropic's Claude Mythos might be the best overall AI model for cybersecurity, but cheaper models can attain similar results, research shows cross-examination of the frontier model raises questions on uptime and reliability",
+    "summary": "Anthropic's Mythos might be the best cybersecurity AI ever, but it's not the only one and it may well be the most expensive, raising questions about how useful it actually is, when weighed against the competition.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-mythos-might-be-the-best-overall-ai-model-for-cybersecurity-but-cheaper-models-can-attain-similar-results-research-shows-cross-examination-of-the-frontier-model-raises-questions-on-uptime-and-reliability",
     "categories": [
-      "Tech News"
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-15T10:01:22.777504"
+  },
+  {
+    "title": "Sony launches 720 Hz dual-mode OLED QHD gaming monitor 27-inch Inzone M10S II is aimed at hardcore eSports gamers",
+    "summary": "The 27-inch Sony Inzone M10S II can crank all the way to 720 Hz at 720p resolution",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/sony-launches-720-hz-dual-mode-oled-qhd-gaming-monitor-27-inch-inzone-m10s-ii-is-aimed-at-hardcore-esports-gamers",
+    "categories": [
+      "AI & ML",
+      "GPUs"
     ],
     "quality_score": 0,
-    "processed_date": "2026-04-14T10:00:41.065289"
+    "processed_date": "2026-04-15T10:01:22.777606"
   },
   {
-    "title": "Stop Killing Games backs California bill supporting clearer end-of-life rules for online games",
-    "summary": "Stop Killing Games is backing a new bill from Chris Ward, a member of the California State Assembly since 2020. Introduced earlier this year, the Protect Our Games Act would require gaming companies to make clear commitments to long-term support for \"server-connected\" video games. The bill has undergone a significant... Read Entire Article",
-    "link": "https://www.techspot.com/news/112055-stop-killing-games-backs-california-bill-supporting-clearer.html",
+    "title": "Intel's promising upcoming Nova Lake-S lineup reportedly includes an iGPU-focused SKU with 12 Xe3P cores new leak claims a midrange 16-core CPU with powerful integrated graphics is in the works",
+    "summary": "A new leak claims Intel is prepping a 16-core CPU featuring 12 Xe3P iGPU cores, likely targeting the Ryzen G-series APUs. AMD's latest desktop APUs top out at only 8 RDNA 3.5 CUs, while the Arc B390M in Panther Lake already beats the Radeon 890M in Strix Point. That means 12 Xe3P cores on an NVL-S chip would be a heaven-sent for gamers.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intels-promising-upcoming-nova-lake-s-lineup-reportedly-includes-an-igpu-focused-sku-with-12-xe3p-cores-new-leak-claims-a-midrange-16-core-cpu-with-powerful-integrated-graphics-is-in-the-works",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.777735"
+  },
+  {
+    "title": "Nvidia quashes rumor it s planning to purchase a major PC manufacturer says that it s not engaged in discussions to acquire any PC maker ",
+    "summary": "Nvidia said that it wasn't in talks with another PC manufacturer to acquire it, despite rumors saying that it has been discussing the possibility since 2024.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-squashes-rumor-its-planning-to-purchase-a-major-pc-manufacturer-says-that-its-not-engaged-in-discussions-to-acquire-any-pc-maker",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.065478"
+    "processed_date": "2026-04-15T10:01:22.777837"
   },
   {
-    "title": "Australia's social media ban for kids mostly isn't working, research suggests",
-    "summary": "Australia's world-first social media ban on users under the age of 16 isn't keeping kids off the platforms as well as the government hoped. Read Entire Article",
-    "link": "https://www.techspot.com/news/112049-australia-social-media-ban-kids-mostly-isnt-working.html",
+    "title": "China's premiere memory-maker YMTC plans two additional Wuhan fabs using homegrown chipmaking tools Phase 3 crosses 50% domestic tooling threshold",
+    "summary": "China s Yangtze Memory Technologies plans to build two fabs beyond the Phase 3 plant that it s due to complete in Wuhan this year.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/ymtc-planms-two-additional-wuhan-fabs",
     "categories": [
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-14T10:00:41.065636"
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.777943"
   },
   {
-    "title": "Linux 7.0 released with self-healing XFS and expanded support for AMD, Intel, and ARM64 hardware",
-    "summary": "One of the most notable features in Linux 7.0 is official support for Rust, after developers agreed to incorporate it as a core language alongside C at the 2025 Linux Maintainer Summit in Tokyo. The Rust for Linux project began in 2020 as part of the so-called \"Rust Experiment,\" and... Read Entire Article",
-    "link": "https://www.techspot.com/news/112050-linux-70-released-self-healing-xfs-expanded-support.html",
+    "title": "Bambu Lab X2D review: Improving a fan favorite",
+    "summary": "Bambu Lab s first 3D printer, the X1, gets an overhaul.",
+    "link": "https://www.tomshardware.com/3d-printing/bambu-lab-x2d-review",
     "categories": [
       "Hardware",
-      "GPUs"
+      "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-14T10:00:41.065821"
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.778027"
   },
   {
-    "title": "OBS Studio revamps audio mixer, adds WebRTC simulcast support",
-    "summary": "OBS Studio 32.1 introduces a redesigned audio mixer with a new default vertical layout, improved controls, and the ability to pin sources for easier management. The update also adds WebRTC simulcast support, alongside enhancements to Studio Mode, source visibility, and plugin management. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7041-obs-studio.html",
+    "title": "Alienware AW2726DM 27-inch QHD 240 Hz QD-OLED gaming monitor review: A price breakthrough for desktop OLED",
+    "summary": "Alienware smashes price barriers with the AW2726DM. It s a 27-inch QHD QD-OLED with 240 Hz, Adaptive-Sync, HDR10, and wide gamut color with an opening price of just $350.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw2726dm-27-inch-qhd-240-hz-qd-oled-gaming-monitor-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-15T10:01:22.778129"
+  },
+  {
+    "title": "Our experts review your astonishing PC builds and setups in Rig Rundown from wall-mounted setups to a system packed inside of a 1:6 scale RC car",
+    "summary": "We go through user-submitted PC builds and crown a winner in the inaugural Tom's Hardware Premium Rig Rundown results",
+    "link": "https://www.tomshardware.com/desktops/pc-building/our-experts-review-your-astonishing-pc-builds-and-setups-in-rig-rundown-from-wall-mounted-setups-to-a-system-packed-inside-of-a-1-6-scale-rc-car",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-15T10:01:22.778238"
+  },
+  {
+    "title": "News outlets are blocking Wayback Machine from archiving their pages 23 outlets concerned AI companies might abuse fair use and use it to train their models",
+    "summary": "Many major news outlets are blocking the Wayback Machine's crawler from archiving their pages, despite using the tool for their reporting. Their primary concern is that AI tech companies are breaking fair use and training their models on publicly available data.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/news-outlets-are-blocking-wayback-machine-from-archiving-their-pages-23-outlets-concerned-ai-companies-might-abuse-fair-use-and-use-it-to-train-their-models",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.778352"
+  },
+  {
+    "title": "Mark Zuckerberg reportedly working on AI clone of himself Meta insiders claim 3D photoreal animated Zuck will be able to engage with employees on his behalf",
+    "summary": "The very top job at Meta may periodically be delegated to an AI replica of Mark Zuckerberg. Will anyone notice?",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mark-zuckerberg-reportedly-working-on-ai-clone-of-himself-meta-insiders-claim-3d-photoreal-animated-zuck-will-be-able-to-engage-with-employees-on-his-behalf",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.778445"
+  },
+  {
+    "title": "Score a massive $700 off this 4K-ready Lenovo gaming PC with an RTX 5070 Ti, now just $1,899 epic Legion Tower 5i pre-built ships with a 20-core Intel CPU, 32GB DDR5 and a 2TB SSD",
+    "summary": "Save a massive $700 on this Lenovo Legion Tower 5i gaming PC with an Intel Core Ultra 265F CPU, Nvidia GeForce RTX 5070 Ti GPU, 32GB of DDR5-5600 RAM, and a 2TB NVMe SSD, all for just $1,899.99.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/score-a-massive-usd700-off-this-4k-ready-lenovo-gaming-pc-with-an-rtx-5070-ti-now-just-usd1-899-epic-legion-tower-5i-pre-built-ships-with-a-20-core-intel-cpu-32gb-ddr5-and-a-2tb-ssd",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.778546"
+  },
+  {
+    "title": "Veteran Windows dev shows off AI running on 47-year-old PDP11 with 6 MHz CPU and 64KB of RAM 'gloriously absurd' project runs transformer model written in PDP-11 assembly language",
+    "summary": "Ancient 6 MHz PDP11 can train a neural network says veteran dev.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/veteran-windows-dev-shows-off-ai-running-on-47-year-old-pdp11-with-6-mhz-cpu-and-64kb-of-ram-gloriously-absurd-project-runs-transformer-model-written-in-pdp-11-assembly-language",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.778652"
+  },
+  {
+    "title": "Half of all US employees now use artificial intelligence at work, crossing landmark threshold for first time Gallup data shows daily and weekly usage hitting all-time high of 28% in Q1 2026, with 65% feeling positive about its impact on productivity",
+    "summary": "50% of American adults in employment use AI at least once a year, with 28% using it daily or weekly, according to a new Gallup survey. While AI-focused companies are seeing huge disruption, 65% of those employees felt positive about its individual impact on their productivity.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-all-us-employees-now-use-artificial-intelligence-at-work-crossing-landmark-threshold-for-first-time-gallup-data-shows-daily-and-weekly-usage-hitting-all-time-high-of-28-percent-in-q1-2026-with-65-percent-feeling-positive-about-its-impact-on-productivity",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.778764"
+  },
+  {
+    "title": "China has spent 3.6 times more than the US on chipmaking subsidies over the past decade $142 billion and counting, easily outweighs CHIPS Act",
+    "summary": "Semiconductor industrial policy spending in China totaled around $142 billion between 2014 and 2023, roughly 3.6 times higher than the $39 billion committed in the United States over the same period.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-spending-3-6-times-more-than-the-us-on-chipmaking-subsidies",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.778863"
+  },
+  {
+    "title": "Clicking \"reject cookies\" might not actually do anything",
+    "summary": "California-based auditor webXray reports that tech giants have continued to use cookies to track users across the internet, even when website visitors reject them. Google, Microsoft, and Meta have all disputed the findings. Read Entire Article",
+    "link": "https://www.techspot.com/news/112073-clicking-reject-cookies-might-not-actually-do-anything.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.065990"
+    "processed_date": "2026-04-15T10:01:22.779539"
   },
   {
-    "title": "NZXT to pay $3.45 million in class-action settlement over \"predatory\" Flex PC rental scheme",
-    "summary": "NZXT introduced its Flex PC rental program in mid-2024, but it didn't take long for the service to catch the attention of Gamers Nexus. The popular YouTube channel claimed NZXT was running a \"predatory, evil rental computer scam\" that employed \"bait and switch\" tactics to essentially cheat customers out of... Read Entire Article",
-    "link": "https://www.techspot.com/news/112053-nzxt-pay-345-million-class-action-settlement-over.html",
+    "title": "DaVinci Resolve 21 beta adds photo editing and deeper AI integration",
+    "summary": "DaVinci Resolve 21 beta pushes further into all-in-one territory, adding a dedicated Photo section that allows edition of still images using the same color pipeline that made Resolve a favorite for video. The update leans heavily on AI to speed up everyday work. Early impressions highlight how seamlessly the new tools fit into existing workflows. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7863-davinci-resolve-beta.html",
     "categories": [
-      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.066195"
+    "processed_date": "2026-04-15T10:01:22.779648"
   },
   {
-    "title": "MicroProse's next game is flight simulator Legendary Pilots",
-    "summary": "After bringing the classic Grand Prix series back to digital stores, MicroProse has now announced its next game, set to be released by the end of the month. Legendary Pilots is a modern indie flight simulator designed to deliver a complete yet accessible management experience. This time, the simulation elements... Read Entire Article",
-    "link": "https://www.techspot.com/news/112044-microprose-next-game-flight-simulator-legendary-pilots.html",
+    "title": "Malware campaign lures users with fake Windows Update website",
+    "summary": "Malwarebytes recently uncovered a new malicious campaign targeting the Windows Update service. Focused on French-speaking users, the campaign uses layered obfuscation techniques to deliver multiple malicious payloads built with legitimate tools. The malware's primary goal is to steal passwords and other sensitive user data. Read Entire Article",
+    "link": "https://www.techspot.com/news/112069-malware-campaign-lures-french-users-fake-windows-update.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.779821"
+  },
+  {
+    "title": "Apple is testing four smart glasses designs as it prepares to challenge Meta Ray-Bans",
+    "summary": "While Meta partnered with Ray-Ban to position its smart glasses as more lifestyle-oriented than experimental, Apple's design philosophy remains distinctly in-house. In his Power On newsletter, Gurman notes that Apple is taking an independent approach, choosing to develop the product internally rather than collaborate with an established eyewear brand. Each... Read Entire Article",
+    "link": "https://www.techspot.com/news/112064-apple-tests-four-smart-glasses-designs-prepares-directly.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.779994"
+  },
+  {
+    "title": "Amazon purchases Globalstar for $11.6B to expand its low Earth orbit satellite network",
+    "summary": "Per the agreement, Amazon will take ownership of Globalstar's existing operations including its low Earth orbit satellite network and supporting infrastructure, as well as related assets like mobile satellite service spectrum licenses. Amazon is paying $90 per Globalstar share available either as cash or in Amazon stock which... Read Entire Article",
+    "link": "https://www.techspot.com/news/112067-amazon-purchases-globalstar-116b-expand-low-earth-orbit.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.780164"
+  },
+  {
+    "title": "Capcom's Pragmata earns strong early reviews ahead of release",
+    "summary": "Pragmata is drawing positive early reviews thanks to its inventive mix of third-person shooting and real-time hacking mechanics alongside striking futuristic visuals. The dynamic between its lead characters and the game's strategic combat depth stand out as key strengths. Read Entire Article",
+    "link": "https://www.techspot.com/products/pc-games/pragmata.323754/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-15T10:01:22.780349"
+  },
+  {
+    "title": "Microsoft is removing 32GB size limit for FAT32 volumes, this time for real",
+    "summary": "Microsoft recently released a new preview build of Windows 11 for the Windows Insider channels. Users enrolled in the Insider program can now test a somewhat historic change: a new \"hard\" size limit for disk volumes formatted with the FAT32 file system. This long-anticipated update may improve compatibility and flexibility... Read Entire Article",
+    "link": "https://www.techspot.com/news/112058-microsoft-removing-32gb-size-limit-fat32-volumes-time.html",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-15T10:01:22.780515"
+  },
+  {
+    "title": "Missouri town ousts half of its city council after $6 billion AI data center approval",
+    "summary": "Festus leaders pitched the project, set to span roughly 360 acres north of Highway 67 and Route CC, as a once-in-a-generation windfall, but many residents saw it as a massive development being pushed through over local objections. Read Entire Article",
+    "link": "https://www.techspot.com/news/112066-missouri-town-ousts-half-city-council-after-6.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-15T10:01:22.780664"
+  },
+  {
+    "title": "External GPUs were always second best. CopprLink may change that",
+    "summary": "Developed by PCI-SIG for high-bandwidth enterprise use, CopprLink provides a full PCIe 5.0 x16 interface with throughput of 32 GT/s per lane, or 64 GB/s of total bandwidth. That is four times the throughput of an OCuLink connection using PCIe 4.0 x8, one of the fastest eGPU options currently available alongside Thunderbolt. Read Entire Article",
+    "link": "https://www.techspot.com/news/112062-external-gpus-always-second-best-copprlink-may-change.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.780830"
+  },
+  {
+    "title": "Google will demote websites that hijack your browser's back button",
+    "summary": "In a post on the Google Developers blog, the company said it is designating back button hijacking as a malicious practice. It added that engaging in any activity that alters the default back button behavior of web browsers will be considered an \"explicit violation\" of its spam policies, potentially leading... Read Entire Article",
+    "link": "https://www.techspot.com/news/112065-google-demote-websites-hijack-browser-back-button.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.780985"
+  },
+  {
+    "title": "Japan finds a way to recover 90% of lithium from old EV batteries",
+    "summary": "Behind the breakthrough is JX Metals Circular Solutions, a subsidiary of one of Japan's largest non-ferrous metal companies. While it was announced back in April 2025, it really started grabbing headlines this month after some Japanese publications revealed the actual process at the company's plant in Tsuruga. Tadashi Nakagawa, the... Read Entire Article",
+    "link": "https://www.techspot.com/news/112051-japan-finds-way-recover-90-lithium-old-ev.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 15,
-    "processed_date": "2026-04-14T10:00:41.066365"
+    "processed_date": "2026-04-15T10:01:22.781144"
   },
   {
-    "title": "After Fortnite stumbles and layoffs, Epic bets on a Disney extraction shooter",
-    "summary": "Last month, Epic Games laid off about 1,000 employees as part of a $500 million cost-saving push, following the poor performance of several new games and Fortnite updates. On April 16, Epic will shut down Fortnite's Ballistic mode and Fortnite Festival Battle Stage. Rocket Racing will follow in October. Read Entire Article",
-    "link": "https://www.techspot.com/news/112046-after-fortnite-stumbles-layoffs-epic-bets-disney-extraction.html",
+    "title": "Man who vandalized Sam Altman's home claimed AI would end humanity, charged with attempted murder",
+    "summary": "Twenty-year-old Moreno-Gama threw a bottle containing a flaming rag at the metal gate of 855 Chestnut Street at around 3:40 am on Friday. He was later detained outside of OpenAI's Third Street offices after threatening to burn down the building. Read Entire Article",
+    "link": "https://www.techspot.com/news/112063-man-who-threw-molotov-sam-altman-home-claimed.html",
     "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.781317"
+  },
+  {
+    "title": "New terahertz technique lets engineers see inside running processors in real time",
+    "summary": "The work, reported by IEEE Spectrum, revolves around modifying a standard laboratory instrument, the vector network analyzer (VNA), to operate far beyond its usual range. A VNA typically generates a microwave signal with \"a known frequency and phase,\" but the Adelaide researchers extended its reach into the terahertz domain. The... Read Entire Article",
+    "link": "https://www.techspot.com/news/112060-new-terahertz-technique-engineers-watch-processors-work-real.html",
+    "categories": [
+      "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-14T10:00:41.066548"
+    "processed_date": "2026-04-15T10:01:22.781500"
   },
   {
-    "title": "Valve engineer develops Linux VRAM fix that boosts gaming on 8GB GPUs",
-    "summary": "Natalie Vock, who works on Valve's Linux graphics stack and the RADV Vulkan driver, has developed a set of kernel patches and user-space tools to address poor VRAM prioritization on Linux. As a result, games get priority for fast local memory, while less important tasks are pushed into slower system... Read Entire Article",
-    "link": "https://www.techspot.com/news/112045-valve-engineer-develops-linux-vram-fix-boosts-gaming.html",
+    "title": "Microsoft just made its Surface laptops a lot more expensive",
+    "summary": "Microsoft has updated the prices for the Surface Pro and Surface Laptop models on its website in response to rising component costs. Each of the 13-inch models has received a $300 hike. Read Entire Article",
+    "link": "https://www.techspot.com/news/112059-microsoft-made-surface-laptops-lot-more-expensive.html",
     "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.066716"
-  },
-  {
-    "title": "Study finds even the best AI models lose money betting on soccer",
-    "summary": "London-based AI start-up General Reasoning found that cutting-edge systems from Google, OpenAI, Anthropic, and Elon Musk's xAI consistently lost money when tasked with forecasting Premier League match outcomes over the 2023-24 season. The findings reveal how even top-tier frontier models still falter in dynamic environments, despite achieving rapid progress in... Read Entire Article",
-    "link": "https://www.techspot.com/news/112043-new-study-shows-even-best-ai-models-lost.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.066894"
-  },
-  {
-    "title": "South Korea to give 7 million mobile users free unlimited data after hitting monthly caps",
-    "summary": "South Korea's Ministry of Science and ICT said that the country's three major carriers SK Telecom, KT, and LG Uplus have agreed to the unlimited free data initiative. Read Entire Article",
-    "link": "https://www.techspot.com/news/112042-south-korea-give-7-million-mobile-users-free.html",
-    "categories": [
+      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.067055"
+    "processed_date": "2026-04-15T10:01:22.781647"
   },
   {
-    "title": "Iran's internet blackout passes 1,000 hours as connectivity drops to near zero",
-    "summary": "NetBlocks first tracked the disruption intensifying on February 28, the same day joint US and Israeli military strikes targeted sites in Iran. By April 11, the organization reported that traffic was stuck at about 1% of its pre-blackout levels. \"The outage had exceeded 43 days and was still ongoing,\" the group posted. Read Entire Article",
-    "link": "https://www.techspot.com/news/112041-iran-internet-outage-passes-1000-hours-one-longest.html",
+    "title": "Shipping records suggest Valve will launch the Steam Controller before the Steam Machine",
+    "summary": "The shipping manifest, posted on X by industry insider Brad Lynch, details the import of a \"Wireless PC Controller\" that arrived in the US from Hong Kong on April 4. Read Entire Article",
+    "link": "https://www.techspot.com/news/112061-shipping-records-suggest-valve-preparing-launch-new-steam.html",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.067249"
-  },
-  {
-    "title": "Everything is becoming agentic, and we're not fully ready for it",
-    "summary": "Tools like Claude Cowork, Claude Code, OpenClaw, and NemoClaw are demonstrating capabilities that would have sounded far-fetched even a year ago. They can automate repetitive work, generate polished content, and even enable non-programmers to build functional applications. Read Entire Article",
-    "link": "https://www.techspot.com/news/112040-everything-becoming-agentic-not-fully-ready.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.067414"
-  },
-  {
-    "title": "Sam Altman's San Francisco home targeted by Molotov cocktail and gunfire in two separate attacks",
-    "summary": "A 20-year-old man was arrested over allegedly throwing the Molotov on Friday. The San Francisco Standard reports that he was booked into San Francisco County Jail on Friday afternoon on suspicion of attempted murder, arson, possession or manufacture of an incendiary device, and other charges. Read Entire Article",
-    "link": "https://www.techspot.com/news/112047-sam-altman-san-francisco-home-hit-molotov-attack.html",
-    "categories": [
+      "Tech News",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-14T10:00:41.067596"
+    "processed_date": "2026-04-15T10:01:22.781803"
+  },
+  {
+    "title": "This 3D-printed 15-fan side panel drops CPU temps by 20 degrees",
+    "summary": "In place of the usual tempered glass, the Superdome forms a bulbous structure that concentrates intake across the entire flank of his Lian Li O11 case, effectively turning the side panel into a dense grid of pressure-optimized fans. The design is a direct response to viewer feedback on his prior... Read Entire Article",
+    "link": "https://www.techspot.com/news/112056-3d-printed-15-fan-side-panel-dropped-cpu.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-15T10:01:22.781957"
   }
 ]

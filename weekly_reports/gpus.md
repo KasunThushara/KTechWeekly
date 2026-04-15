@@ -1,85 +1,65 @@
 # 🎮 GPUs
-**Week of April 14, 2026**
+**Week of April 15, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-04-14 10:01
+- **Articles this week:** 5
+- **Report generated:** 2026-04-15 10:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. 'CopprLink' destroys every eGPU standard in new test, achieves near-native-level performance with an RTX 5090 setup requires $2,300 worth of additional hardware 
+### 1. Intel's promising upcoming Nova Lake-S lineup reportedly includes an iGPU-focused SKU with 12 Xe3P cores new leak claims a midrange 16-core CPU with powerful integrated graphics is in the works 
 
-CopprLink eGPU standard achieves near-native performance with RTX 5090 setup. This is made possible by a $1,300 enclosure and a $1,000 adapter card. The setup is geared towards enterprise markets but showcases the potential for future consumer eGPUs.
+A new leak suggests Intel's Nova Lake-S lineup will include a 16-core CPU with 12 Xe3P iGPU cores, targeting the Ryzen G-series APUs. This would offer significantly more integrated graphics capabilities than current AMD offerings. The 16-core CPU would be a strong competitor in the mid-range market.
 
-💡 *eGPU technology can rival motherboard performance with advanced adapters.*
+💡 *Intel's iGPU-focused SKU could surpass AMD's offerings in graphics performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/copprlink-destroys-every-egpu-standard-in-new-test-achieves-near-native-level-performance-with-an-rtx-5090-setup-requires-usd2-300-worth-of-additional-hardware)
-
----
-
-### 2. Linux 7.0 released with self-healing XFS and expanded support for AMD, Intel, and ARM64 hardware 
-
-Linux 7.0 introduces official support for Rust, marking a significant development milestone. This move is part of the 'Rust Experiment' that began in 2020. The release also includes self-healing XFS and expanded hardware support.
-
-💡 *Linux's adoption of Rust enhances reliability and security standards.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112050-linux-70-released-self-healing-xfs-expanded-support.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-promising-upcoming-nova-lake-s-lineup-reportedly-includes-an-igpu-focused-sku-with-12-xe3p-cores-new-leak-claims-a-midrange-16-core-cpu-with-powerful-integrated-graphics-is-in-the-works)
 
 ---
 
-### 3. Nvidia says AI cuts 10-month, eight-engineer GPU design task to overnight job company is still 'a long way' from AI designing chips without human input 
+### 2. Nvidia quashes rumor it s planning to purchase a major PC manufacturer says that it s not engaged in discussions to acquire any PC maker  
 
-Nvidia uses AI to speed up GPU design, cutting 10 months to overnight. However, the company still requires human input. AI is not yet autonomous in designing chips.
+Nvidia denied acquiring another PC manufacturer despite 2024 rumors. The company stated it's not in talks to acquire any PC maker. Nvidia's clarification aims to alleviate market uncertainty.
 
-💡 *AI accelerates chip design, but human oversight remains crucial.*
+💡 *Nvidia's acquisition plans affect its position in the PC hardware market.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-ai-cuts-10-month-eight-engineer-gpu-design-task-to-overnight-job-company-is-still-a-long-way-from-ai-designing-chips-without-human-input)
-
----
-
-### 4. Intel's Nova Lake CPUs gear up to seize AMD s 3D V-Cache gaming throne early leak points to up to 52 cores, blazing DDR5-8000 support, and massive 175W TDP 
-
-Intel's Nova Lake CPUs may feature up to 52 cores and support DDR5-8000 speeds, with a massive 175W TDP. The Core Ultra 400S processors are expected to compete with AMD's 3D V-Cache gaming lineup. Details are based on an early leak of the CPU's preliminary SKU list.
-
-💡 *Intel's massive core count could surpass AMD's 3D V-Cache performance*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-nova-lake-cpus-gear-up-to-seize-amds-3d-v-cache-gaming-throne-early-leak-points-to-up-to-52-cores-blazing-ddr5-8000-support-and-massive-175w-tdp)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/nvidia-squashes-rumor-its-planning-to-purchase-a-major-pc-manufacturer-says-that-its-not-engaged-in-discussions-to-acquire-any-pc-maker)
 
 ---
 
-### 5. Approvals for Nvidia and AMD AI chip exports to China stall under government bottleneck 20% staff turnover hobbles Bureau of Industry and Security 
+### 3. Score a massive $700 off this 4K-ready Lenovo gaming PC with an RTX 5070 Ti, now just $1,899 epic Legion Tower 5i pre-built ships with a 20-core Intel CPU, 32GB DDR5 and a 2TB SSD 
 
-U.S. Commerce Department's Bureau of Industry and Security is severely understaffed, hindering AI chip exports to China due to a 20% staff turnover rate over the past year.
+Get a high-performance gaming PC with 20-core Intel CPU, 32GB DDR5 RAM, and 2TB SSD, now at a discounted price of $1,899.99.
 
-💡 *Weak export vetting exposes U.S. AI tech to potential security risks*
+💡 *High-end gaming capabilities at a relatively affordable price point.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-export-control-agency-has-lost-nearly-a-fifth-of-its-licensing-staff)
-
----
-
-### 6. Stop Killing Games backs California bill supporting clearer end-of-life rules for online games 
-
-Stop Killing Games supports California's Protect Our Games Act, requiring clear long-term support for online games. The bill aims to ensure gaming companies commit to server-connected game support. This legislation aims to give players clarity on game longevity.
-
-💡 *Transparency on game longevity boosts player trust and loyalty.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112055-stop-killing-games-backs-california-bill-supporting-clearer.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/score-a-massive-usd700-off-this-4k-ready-lenovo-gaming-pc-with-an-rtx-5070-ti-now-just-usd1-899-epic-legion-tower-5i-pre-built-ships-with-a-20-core-intel-cpu-32gb-ddr5-and-a-2tb-ssd)
 
 ---
 
-### 7. Valve engineer develops Linux VRAM fix that boosts gaming on 8GB GPUs 
+### 4. External GPUs were always second best. CopprLink may change that 
 
-Valve engineer Natalie Vock develops Linux patches to boost gaming performance on 8GB GPUs by prioritizing game VRAM for faster local memory access.
+CopprLink offers a high-bandwidth interface with 64 GB/s throughput, surpassing current eGPU options.
 
-💡 *Prioritizing game VRAM improves gaming performance on lower spec GPUs significantly.*
+💡 *Faster data transfer may revolutionize eGPU performance and adoption*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112045-valve-engineer-develops-linux-vram-fix-boosts-gaming.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112062-external-gpus-always-second-best-copprlink-may-change.html)
+
+---
+
+### 5. Sony launches 720 Hz dual-mode OLED QHD gaming monitor 27-inch Inzone M10S II is aimed at hardcore eSports gamers 
+
+Sony's 27-inch Inzone M10S II gaming monitor boasts a 720 Hz refresh rate at 720p resolution, targeting hardcore eSports gamers.
+
+💡 *Ultra-high refresh rate enhances competitive gaming experience dramatically.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/sony-launches-720-hz-dual-mode-oled-qhd-gaming-monitor-27-inch-inzone-m10s-ii-is-aimed-at-hardcore-esports-gamers)
 
 ---
 
