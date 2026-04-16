@@ -1,195 +1,173 @@
 # 🤖 AI & ML
-**Week of April 15, 2026**
+**Week of April 16, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 18
-- **Report generated:** 2026-04-15 10:02
+- **Articles this week:** 16
+- **Report generated:** 2026-04-16 10:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Nvidia releases open AI models for quantum computing tasks 'Ising' said to be 2.5x faster and 3x more accurate than existing tools for decoding 
+### 1. Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB Review: RAM customization made easy ⭐
 
-Nvidia has released Ising, an open-source AI model for quantum computing. It claims to be 2.5x faster and 3x more accurate than existing tools for decoding. Ising is designed for quantum processor calibration and real-time error correction.
+The Corsair Vengeance RGB Custom Lab allows customers to personalize their RAM modules with unique designs and themes. This program offers a level of customization not often seen in the industry. The Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB is a prime example of this.
 
-💡 *Speeding up quantum computing with AI can improve accuracy significantly.*
+💡 *Personalized RAM modules set buyers apart from generic memory kits.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-releases-ising-open-ai-models)
-
----
-
-### 2. Anthropic's Claude Mythos might be the best overall AI model for cybersecurity, but cheaper models can attain similar results, research shows cross-examination of the frontier model raises questions on uptime and reliability 
-
-Anthropic's Mythos may be the best cybersecurity AI, but it's pricey and not the only option.
-
-💡 *Cost-effectiveness trumps cutting-edge AI for many cybersecurity applications.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-mythos-might-be-the-best-overall-ai-model-for-cybersecurity-but-cheaper-models-can-attain-similar-results-research-shows-cross-examination-of-the-frontier-model-raises-questions-on-uptime-and-reliability)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/corsair-vengeance-rgb-custom-lab-cherry-blossom-ddr5-6000-c36-2x16gb-review)
 
 ---
 
-### 3. Missouri town ousts half of its city council after $6 billion AI data center approval 
+### 2. Elon Musk demonstrates first sample of Tesla AI5 processor, accidentally thanks TSC rather than TSMC claims 40X performance boost over the predecessor 
 
-Festus, Missouri, ousts half of its city council after approving a $6 billion AI data center project. The 360-acre development faced local objections despite being touted as a 'once-in-a-generation windfall'.
+Elon Musk unveiled the first Tesla AI5 processor sample, boasting a 40X performance boost over its predecessor. The new processor features a 384-bit memory interface. Next-generation AI6 and Dojo 3 processors are in development.
 
-💡 *Community pushback can lead to significant changes in local government leadership.*
+💡 *Tesla's AI5 offers significant performance improvement for AI applications*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112066-missouri-town-ousts-half-city-council-after-6.html)
-
----
-
-### 4. New terahertz technique lets engineers see inside running processors in real time 
-
-Researchers modified a vector network analyzer to operate in the terahertz domain, enabling real-time monitoring of processors.
-
-💡 *Insights into processor behavior in real-time could greatly improve chip design and reliability.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112060-new-terahertz-technique-engineers-watch-processors-work-real.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-demonstrates-first-sample-of-tesla-ai5-processor-accidentally-thanks-tsc-rather-than-tsmc-claims-40x-performance-boost-over-the-predecessor)
 
 ---
 
-### 5. News outlets are blocking Wayback Machine from archiving their pages 23 outlets concerned AI companies might abuse fair use and use it to train their models 
+### 3. Our lifestyle tech colleagues at Tom's Guide have overhauled their site for smarter shopping more video and access to experts make it 'the biggest relaunch in our history' 
 
-Major news outlets block Wayback Machine due to fair use concerns, fearing AI companies will misuse publicly available data to train their models.
+Our tech colleagues over at Tom's Guide just relaunched their homepage, with destination-focused features like a dedicated live feed for news and expert reactions, AI-infused shopping and upgrading tools, and more short-form video.
 
-💡 *Fair use laws may be exploited for AI model training purposes*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/news-outlets-are-blocking-wayback-machine-from-archiving-their-pages-23-outlets-concerned-ai-companies-might-abuse-fair-use-and-use-it-to-train-their-models)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/our-lifestyle-tech-colleagues-at-toms-guide-have-overhauled-their-site-for-smarter-shopping-more-video-and-access-to-experts-make-it-the-biggest-relaunch-in-our-history)
 
 ---
 
-### 6. Mark Zuckerberg reportedly working on AI clone of himself Meta insiders claim 3D photoreal animated Zuck will be able to engage with employees on his behalf 
+### 4. PocketTerm35 A Raspberry Pi 4/5-based handheld Linux terminal with 3.5-inch touch display and built-in keyboard 
 
-Mark Zuckerberg is reportedly working on AI clone to engage employees, Meta insiders claim. The 3D photorealistic animated replica will be able to communicate on his behalf. This development raises questions about delegation of authority.
+PocketTerm35 is a portable handheld terminal with a 3.5-inch touchscreen display and built-in QWERTY keyboard, compatible with Raspberry Pi 4 and 5 single board computers.
 
-💡 *Redefining corporate leadership through AI-powered delegation and impersonation capabilities*
+💡 *Raspberry Pi-based handheld Linux terminal simplifies portable computing and coding.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/mark-zuckerberg-reportedly-working-on-ai-clone-of-himself-meta-insiders-claim-3d-photoreal-animated-zuck-will-be-able-to-engage-with-employees-on-his-behalf)
-
----
-
-### 7. Veteran Windows dev shows off AI running on 47-year-old PDP11 with 6 MHz CPU and 64KB of RAM 'gloriously absurd' project runs transformer model written in PDP-11 assembly language 
-
-A veteran Windows developer has successfully trained a neural network on a 47-year-old PDP-11 minicomputer with a 6 MHz CPU and 64 KB of RAM, showcasing the 'gloriously absurd' capabilities of AI on outdated hardware.
-
-💡 *Even ancient hardware can run AI with careful optimization and assembly language.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/veteran-windows-dev-shows-off-ai-running-on-47-year-old-pdp11-with-6-mhz-cpu-and-64kb-of-ram-gloriously-absurd-project-runs-transformer-model-written-in-pdp-11-assembly-language)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/14/pocketterm35-a-raspberry-pi-4-5-based-handheld-linux-terminal-with-3-5-inch-touch-display-and-built-in-keyboard/)
 
 ---
 
-### 8. Half of all US employees now use artificial intelligence at work, crossing landmark threshold for first time Gallup data shows daily and weekly usage hitting all-time high of 28% in Q1 2026, with 65% feeling positive about its impact on productivity 
+### 5. Popular WordPress plugins backdoored after ownership change, putting thousands of websites at risk 
 
-Half of US employees use AI at work, with 28% daily/weekly usage. A Gallup survey shows a positive impact on productivity. Employees' confidence in AI's benefits is on the rise.
+Popular WordPress plugins were backdoored after a change in ownership, putting thousands of websites at risk. The malicious code allows for the download and spread of malicious content. This supply chain attack was discovered by WordPress developer Austin Ginder.
 
-💡 *Widespread AI adoption boosts employee productivity and confidence.*
+💡 *Thousands of websites vulnerable to malicious code injection due to plugin backdoors.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-all-us-employees-now-use-artificial-intelligence-at-work-crossing-landmark-threshold-for-first-time-gallup-data-shows-daily-and-weekly-usage-hitting-all-time-high-of-28-percent-in-q1-2026-with-65-percent-feeling-positive-about-its-impact-on-productivity)
-
----
-
-### 9. DaVinci Resolve 21 beta adds photo editing and deeper AI integration 
-
-DaVinci Resolve 21 beta adds photo editing with AI-powered enhancements, integrating seamlessly into existing workflows.
-
-💡 *Enhanced color grading and AI-driven photo editing increases creative possibilities.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/7863-davinci-resolve-beta.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112086-popular-wordpress-plugins-backdoored-after-ownership-change-putting.html)
 
 ---
 
-### 10. Malware campaign lures users with fake Windows Update website 
+### 6. Duolingo stops evaluating workers based on how much AI they use 
 
-Malwarebytes uncovered a malicious campaign targeting French-speaking Windows Update users, using layered obfuscation to deliver malicious payloads and steal sensitive data.
+Duolingo is shifting focus to AI integration, eliminating contract workers.
 
-💡 *French-speaking users at risk of targeted malware attacks through fake Windows Update websites.*
+💡 *Contract worker elimination impacts labor market and job security.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112069-malware-campaign-lures-french-users-fake-windows-update.html)
-
----
-
-### 11. Apple is testing four smart glasses designs as it prepares to challenge Meta Ray-Bans 
-
-Apple is developing its own smart glasses internally, unlike Meta's collaboration with Ray-Ban.
-
-💡 *Apple's independent approach sets it apart in the smart glasses market.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112064-apple-tests-four-smart-glasses-designs-prepares-directly.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112080-duolingo-stops-evaluating-workers-based-how-much-ai.html)
 
 ---
 
-### 12. Amazon purchases Globalstar for $11.6B to expand its low Earth orbit satellite network 
+### 7. Memory cards and flash drives prices rocket 124%, some products peak at 261% jump increases from 2025 driven by AI chip shortage across a range of formats and capacities 
 
-Amazon acquires Globalstar for $11.6B to expand its low Earth orbit satellite network, gaining control over existing operations, supporting infrastructure, and related assets.
+The prices of memory cards and flash drives have surged due to a NAND chip shortage, affecting a wide range of storage options. This shortage has driven price increases of up to 261% in some products. The shortage is expanding beyond traditional formats and capacities.
 
-💡 *Amazon expands satellite capabilities for potential Project Kuiper success*
+💡 *Chip shortage disrupts widespread storage options, impacting consumers*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112067-amazon-purchases-globalstar-116b-expand-low-earth-orbit.html)
-
----
-
-### 13. External GPUs were always second best. CopprLink may change that 
-
-CopprLink offers a high-bandwidth interface with 64 GB/s throughput, surpassing current eGPU options.
-
-💡 *Faster data transfer may revolutionize eGPU performance and adoption*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112062-external-gpus-always-second-best-copprlink-may-change.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/memory-cards-and-flash-drives-prices-rocket-124-percent-some-products-peak-at-261-percent-jump-increases-from-2025-driven-by-ai-chip-shortage-across-a-range-of-formats-and-capacities)
 
 ---
 
-### 14. Google will demote websites that hijack your browser's back button 
+### 8. Netgear secures conditional approval from the FCC following router ban company can continue importing foreign-made routers through October 2027 
 
-Google will demote websites that hijack the back button, considering it a malicious practice.
+Netgear secured a conditional approval from the FCC to release new router models, allowing it to import foreign-made routers until October 2027. The company can continue launching new models indefinitely if it maintains its approval. This means Netgear can continue to operate without major disruptions.
 
-💡 *Google prioritizes user control and intuitive browsing experiences.*
+💡 *Netgear's approval secures US router market share until 2027*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112065-google-demote-websites-hijack-browser-back-button.html)
-
----
-
-### 15. Man who vandalized Sam Altman's home claimed AI would end humanity, charged with attempted murder 
-
-A 20-year-old man vandalized Sam Altman's home and threatened OpenAI's office, claiming AI would end humanity. He threw a flaming bottle at the gate and was detained outside the OpenAI office. The incident has sparked concerns about AI-related threats.
-
-💡 *Vandalism raises concerns about AI-related violence and potential threats.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112063-man-who-threw-molotov-sam-altman-home-claimed.html)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/netgear-secures-conditional-approval-from-the-fcc-following-router-ban-company-can-continue-importing-foreign-made-routers-through-october-2027)
 
 ---
 
-### 16. Microsoft just made its Surface laptops a lot more expensive 
+### 9. China tests deep-sea electro-hydrostatic actuator that can cut undersea cables at a depth of 3,500 meters state hails successful trial and hints at deployment readiness 
 
-Microsoft has increased prices for its Surface Pro and Laptop models by $300, citing rising component costs.
+China has successfully tested a deep-sea electro-hydrostatic actuator to cut undersea cables at 3,500 meters.
 
-💡 *Higher prices may deter buyers and impact Surface sales*
+💡 *Potential for China to disrupt global undersea communications and data transmission.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112059-microsoft-made-surface-laptops-lot-more-expensive.html)
-
----
-
-### 17. Shipping records suggest Valve will launch the Steam Controller before the Steam Machine 
-
-Valve's shipping records suggest the Steam Controller may release before Steam Machine.
-
-💡 *Implications for Steam's gaming ecosystem and user experience.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112061-shipping-records-suggest-valve-preparing-launch-new-steam.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-tests-deep-sea-electro-hydrostatic-actuator-that-can-cut-undersea-cables-at-a-depth-of-3-500-meters-state-hails-successful-trial-and-hints-at-deployment-readiness)
 
 ---
 
-### 18. Sony launches 720 Hz dual-mode OLED QHD gaming monitor 27-inch Inzone M10S II is aimed at hardcore eSports gamers 
+### 10. Microsoft counters MacBook Neo with free Game Pass and Office bundle on Windows laptops 
 
-Sony's 27-inch Inzone M10S II gaming monitor boasts a 720 Hz refresh rate at 720p resolution, targeting hardcore eSports gamers.
+Microsoft offers a bundle deal with free services for Windows laptop purchases. Eligible college students can receive Microsoft 365 Premium, Xbox Game Pass Ultimate, and a customized Xbox controller for free. This promotion targets the MacBook Neo market.
 
-💡 *Ultra-high refresh rate enhances competitive gaming experience dramatically.*
+💡 *Microsoft counters MacBook Neo with a competitive value proposition.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/sony-launches-720-hz-dual-mode-oled-qhd-gaming-monitor-27-inch-inzone-m10s-ii-is-aimed-at-hardcore-esports-gamers)
+🔗 [Read Full Article](https://www.techspot.com/news/112090-microsoft-counters-macbook-neo-free-game-pass-office.html)
+
+---
+
+### 11. Recordly brings Screen Studio-style recordings to a free, open-source app 
+
+Recordly offers free, screen capture and editing tools with motion effects.
+
+💡 *Free alternative to paid screen recording software like Screen Studio.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7860-recordly.html)
+
+---
+
+### 12. Someone finally got an RTX 5090 running on a Mac no hacks required 
+
+Tiny Corp has developed an open-source Nvidia GPU driver, TinyGPU, for Macs, signed by Apple, eliminating the need for workarounds.
+
+💡 *Macs can now run Nvidia GPUs with native, hack-free support.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112082-someone-finally-got-rtx-5090-running-mac-no.html)
+
+---
+
+### 13. Will AI agents need to buy their own software licenses? Microsoft sure hopes so 
+
+Microsoft proposes AI agents buying software licenses as company employees.
+
+💡 *AI accountability and revenue streams for companies like Microsoft.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112072-ai-agents-need-buy-their-own-software-licenses.html)
+
+---
+
+### 14. Nvidia warranty payouts surged 1,000% last year, not that they can't afford it 
+
+Nvidia's warranty payouts surged 11-fold to $894 million in 2025, largely due to power cable issues in a new product.
+
+💡 *Rapidly increasing warranty claims expose a product's reliability and manufacturing quality.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112074-nvidia-warranty-payouts-surged-1000-last-year-not.html)
+
+---
+
+### 15. Netgear becomes first router brand exempt from FCC foreign-made ban 
+
+Netgear becomes the first router brand exempt from the FCC's foreign-made ban. The agency granted conditional approval for Netgear's Nighthawk, Orbi, CAX, and CM products through October 1, 2027. This decision allows Netgear to continue importing these products.
+
+💡 *First exemption granted for foreign-made routers under FCC ban*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112078-netgear-becomes-first-router-brand-exempt-fcc-foreign.html)
+
+---
+
+### 16. Edge AI outlook viewed with cautious optimism 
+
+Edge AI has reached the early deployment stage after years of trials, according to Lattice. This milestone marks a significant shift in the technology's adoption and potential applications. Early deployments will likely drive innovation and improvement.
+
+💡 *Edge AI's early deployment paves the way for widespread adoption.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/edge-ai-outlook-viewed-cautious-optimism)
 
 ---
 

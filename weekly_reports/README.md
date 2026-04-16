@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 15, 2026**
+**Week of April 16, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,76 +7,76 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Alienware AW2726DM 27-inch QHD 240 Hz QD-OLED gaming monitor review: A price breakthrough for desktop OLED ⭐
+### 1. Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB Review: RAM customization made easy ⭐
 
-**📰 Tech News**
+**🤖 AI & ML**
 
-Alienware's AW2726DM breaks price barriers with its 27-inch QHD QD-OLED monitor, offering high-quality features at an affordable price of $350. This monitor boasts 240 Hz refresh rate, Adaptive-Sync, HDR10, and wide gamut color. It's a significant breakthrough for desktop OLED technology.
+The Corsair Vengeance RGB Custom Lab allows customers to personalize their RAM modules with unique designs and themes. This program offers a level of customization not often seen in the industry. The Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB is a prime example of this.
 
-💡 **Key Point:** Affordable OLED gaming monitors for the masses
+💡 **Key Point:** Personalized RAM modules set buyers apart from generic memory kits.
 
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw2726dm-27-inch-qhd-240-hz-qd-oled-gaming-monitor-review)
-
----
-
-### 2. Microsoft is removing 32GB size limit for FAT32 volumes, this time for real ⭐
-
-**📰 Tech News**
-
-Microsoft has released a Windows 11 preview build with a new, higher FAT32 size limit, improving compatibility and flexibility.
-
-💡 **Key Point:** FAT32 size limit increase enhances compatibility and flexibility for users.
-
-🔗 [Read More](https://www.techspot.com/news/112058-microsoft-removing-32gb-size-limit-fat32-volumes-time.html)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ram/corsair-vengeance-rgb-custom-lab-cherry-blossom-ddr5-6000-c36-2x16gb-review)
 
 ---
 
-### 3. Japan finds a way to recover 90% of lithium from old EV batteries ⭐
-
-**📰 Tech News**
-
-Japan's JX Metals Circular Solutions has developed a process to recover 90% of lithium from old EV batteries, a breakthrough announced in April 2025. The company's plant in Tsuruga is at the center of the innovative technology. This achievement could significantly improve EV recycling and battery sustainability.
-
-💡 **Key Point:** Revolutionizing EV recycling with high lithium recovery rates possible
-
-🔗 [Read More](https://www.techspot.com/news/112051-japan-finds-way-recover-90-lithium-old-ev.html)
-
----
-
-### 4. Alienware AW2726DM 27-inch QHD 240 Hz QD-OLED gaming monitor review: A price breakthrough for desktop OLED ⭐
+### 2. Intel Core Ultra X7 358H-powered open robotics development system targets humanoid robots and autonomous vehicles ⭐
 
 **💻 Hardware**
 
-Alienware's AW2726DM breaks price barriers with its 27-inch QHD QD-OLED monitor, offering high-quality features at an affordable price of $350. This monitor boasts 240 Hz refresh rate, Adaptive-Sync, HDR10, and wide gamut color. It's a significant breakthrough for desktop OLED technology.
+AAEON's CEXD-INTRBL system is an open robotics development platform powered by Intel's 16-core Ultra X7 358H SoC. It's designed for humanoid robots and autonomous vehicle development, featuring AI acceleration and high-speed connectivity. The system is suitable for edge AI applications.
 
-💡 **Key Point:** Affordable OLED gaming monitors for the masses
+💡 **Key Point:** Advancing AI-powered robotics for industrial and autonomous applications.
 
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw2726dm-27-inch-qhd-240-hz-qd-oled-gaming-monitor-review)
+🔗 [Read More](https://www.cnx-software.com/2026/04/16/intel-core-ultra-x7-358h-powered-open-robotics-development-system-targets-humanoid-robots-and-autonomous-vehicles/)
 
 ---
 
-### 5. Microsoft is removing 32GB size limit for FAT32 volumes, this time for real ⭐
+### 3. LimeSDR Micro M.2 2280 SDR card pairs NXP LA9310 baseband processor with LMS7002M RF transceiver (Crowdfunding) ⭐
 
 **💻 Hardware**
 
-Microsoft has released a Windows 11 preview build with a new, higher FAT32 size limit, improving compatibility and flexibility.
+The LimeSDR Micro M.2 2280 combines an NXP LA9310 baseband processor with a Lime Microsystems LMS7002M RF transceiver, targeting portable or embedded solutions with a spare M.2 PCIe Gen3 x1 socket. It supports a 30 MHz to 3.8 GHz frequency range and up to 100 MHz bandwidth. This SDR card is suitable for various applications such as 4G LTE/5G, future RAN research, and custom user equipment.
 
-💡 **Key Point:** FAT32 size limit increase enhances compatibility and flexibility for users.
+💡 **Key Point:** Enabling flexible, high-performance wireless research and development
 
-🔗 [Read More](https://www.techspot.com/news/112058-microsoft-removing-32gb-size-limit-fat32-volumes-time.html)
+🔗 [Read More](https://www.cnx-software.com/2026/04/15/limesdr-micro-m-2-2280-sdr-card-pairs-nxp-la9310-baseband-processor-with-lms7002m-rf-transceiver/)
+
+---
+
+### 4. LimeSDR Micro M.2 2280 SDR card pairs NXP LA9310 baseband processor with LMS7002M RF transceiver (Crowdfunding) ⭐
+
+**⚡ Semiconductors**
+
+The LimeSDR Micro M.2 2280 combines an NXP LA9310 baseband processor with a Lime Microsystems LMS7002M RF transceiver, targeting portable or embedded solutions with a spare M.2 PCIe Gen3 x1 socket. It supports a 30 MHz to 3.8 GHz frequency range and up to 100 MHz bandwidth. This SDR card is suitable for various applications such as 4G LTE/5G, future RAN research, and custom user equipment.
+
+💡 **Key Point:** Enabling flexible, high-performance wireless research and development
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/15/limesdr-micro-m-2-2280-sdr-card-pairs-nxp-la9310-baseband-processor-with-lms7002m-rf-transceiver/)
+
+---
+
+### 5. Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB Review: RAM customization made easy ⭐
+
+**📰 Tech News**
+
+The Corsair Vengeance RGB Custom Lab allows customers to personalize their RAM modules with unique designs and themes. This program offers a level of customization not often seen in the industry. The Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB is a prime example of this.
+
+💡 **Key Point:** Personalized RAM modules set buyers apart from generic memory kits.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ram/corsair-vengeance-rgb-custom-lab-cherry-blossom-ddr5-6000-c36-2x16gb-review)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **48 articles** across **5 focused categories**.
+We covered **51 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 18 | Artificial Intelligence and Machine Learning |
+| 🤖 [AI & ML](ai_and_ml.md) | 16 | Artificial Intelligence and Machine Learning |
 | 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 12 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 2 | Chip manufacturing and design |
+| 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
 | 📰 [Tech News](tech_news.md) | 11 | Industry news and product launches |
 
 ---
@@ -84,16 +84,16 @@ We covered **48 articles** across **5 focused categories**.
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 18 articles
+*Artificial Intelligence and Machine Learning* — 16 articles
 
 ### 🎮 [GPUs](gpus.md)
 *Graphics cards and compute accelerators* — 5 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 12 articles
+*Computing hardware and development boards* — 14 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 2 articles
+*Chip manufacturing and design* — 5 articles
 
 ### 📰 [Tech News](tech_news.md)
 *Industry news and product launches* — 11 articles
@@ -102,6 +102,6 @@ We covered **48 articles** across **5 focused categories**.
 
 ## 📅 About
 
-Generated 2026-04-15 at 10:02 by an autonomous AI curation system.
+Generated 2026-04-16 at 10:02 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

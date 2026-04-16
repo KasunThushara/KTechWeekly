@@ -1,360 +1,342 @@
 [
   {
-    "title": "Nvidia releases open AI models for quantum computing tasks 'Ising' said to be 2.5x faster and 3x more accurate than existing tools for decoding",
-    "summary": "Nvidia has released Ising, an open-source AI model for quantum computing. It claims to be 2.5x faster and 3x more accurate than existing tools for decoding. Ising is designed for quantum processor calibration and real-time error correction.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-releases-ising-open-ai-models",
+    "title": "Elon Musk demonstrates first sample of Tesla AI5 processor, accidentally thanks TSC rather than TSMC claims 40X performance boost over the predecessor",
+    "summary": "Elon Musk unveiled the first Tesla AI5 processor sample, boasting a 40X performance boost over its predecessor. The new processor features a 384-bit memory interface. Next-generation AI6 and Dojo 3 processors are in development.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-demonstrates-first-sample-of-tesla-ai5-processor-accidentally-thanks-tsc-rather-than-tsmc-claims-40x-performance-boost-over-the-predecessor",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-16T10:01:36.323182",
+    "insight": "Tesla's AI5 offers significant performance improvement for AI applications"
+  },
+  {
+    "title": "YMTC's third Wuhan fab clears Beijing's 50% local tooling threshold as two more are planned move positions company toward 3D NAND production to capitalize on wafer bonding strengths",
+    "summary": "YMTC's Wuhan fab is expected to start operations late this year, meeting China's 50% local tooling threshold. This milestone marks the first leading-edge memory plant built to comply with the requirement. The move is a step towards 3D NAND production.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/ymtcs-third-wuhan-fab-clears-beijings-50-percent-domestic-tooling-threshold-as-two-more-are-planned",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-16T10:01:36.323305",
+    "insight": "Capitalizing on wafer bonding strengths drives YMTC's 3D NAND production plans"
+  },
+  {
+    "title": "Memory cards and flash drives prices rocket 124%, some products peak at 261% jump increases from 2025 driven by AI chip shortage across a range of formats and capacities",
+    "summary": "The prices of memory cards and flash drives have surged due to a NAND chip shortage, affecting a wide range of storage options. This shortage has driven price increases of up to 261% in some products. The shortage is expanding beyond traditional formats and capacities.",
+    "link": "https://www.tomshardware.com/pc-components/storage/memory-cards-and-flash-drives-prices-rocket-124-percent-some-products-peak-at-261-percent-jump-increases-from-2025-driven-by-ai-chip-shortage-across-a-range-of-formats-and-capacities",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-16T10:01:36.323432",
+    "insight": "Chip shortage disrupts widespread storage options, impacting consumers"
+  },
+  {
+    "title": "Enermax Platimax II 1200DF power supply review: Powerful with Platinum level efficiency",
+    "summary": "The Enermax Platimax II 1200DF delivers Platinum-level efficiency and 13-year warranty, but with a limited connector loadout.",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/enermax-platimax-ii-1200df-power-supply-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-16T10:01:36.323537",
+    "insight": "High efficiency and warranty outweighs limited connector options slightly."
+  },
+  {
+    "title": "Netgear secures conditional approval from the FCC following router ban company can continue importing foreign-made routers through October 2027",
+    "summary": "Netgear secured a conditional approval from the FCC to release new router models, allowing it to import foreign-made routers until October 2027. The company can continue launching new models indefinitely if it maintains its approval. This means Netgear can continue to operate without major disruptions.",
+    "link": "https://www.tomshardware.com/networking/routers/netgear-secures-conditional-approval-from-the-fcc-following-router-ban-company-can-continue-importing-foreign-made-routers-through-october-2027",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-15T10:01:22.777378",
-    "insight": "Speeding up quantum computing with AI can improve accuracy significantly."
+    "quality_score": 5,
+    "processed_date": "2026-04-16T10:01:36.323655",
+    "insight": "Netgear's approval secures US router market share until 2027"
   },
   {
-    "title": "Anthropic's Claude Mythos might be the best overall AI model for cybersecurity, but cheaper models can attain similar results, research shows cross-examination of the frontier model raises questions on uptime and reliability",
-    "summary": "Anthropic's Mythos may be the best cybersecurity AI, but it's pricey and not the only option.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-mythos-might-be-the-best-overall-ai-model-for-cybersecurity-but-cheaper-models-can-attain-similar-results-research-shows-cross-examination-of-the-frontier-model-raises-questions-on-uptime-and-reliability",
+    "title": "China tests deep-sea electro-hydrostatic actuator that can cut undersea cables at a depth of 3,500 meters state hails successful trial and hints at deployment readiness",
+    "summary": "China has successfully tested a deep-sea electro-hydrostatic actuator to cut undersea cables at 3,500 meters.",
+    "link": "https://www.tomshardware.com/tech-industry/china-tests-deep-sea-electro-hydrostatic-actuator-that-can-cut-undersea-cables-at-a-depth-of-3-500-meters-state-hails-successful-trial-and-hints-at-deployment-readiness",
     "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-16T10:01:36.323759",
+    "insight": "Potential for China to disrupt global undersea communications and data transmission."
+  },
+  {
+    "title": "Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB Review: RAM customization made easy",
+    "summary": "The Corsair Vengeance RGB Custom Lab allows customers to personalize their RAM modules with unique designs and themes. This program offers a level of customization not often seen in the industry. The Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB is a prime example of this.",
+    "link": "https://www.tomshardware.com/pc-components/ram/corsair-vengeance-rgb-custom-lab-cherry-blossom-ddr5-6000-c36-2x16gb-review",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-16T10:01:36.323857",
+    "insight": "Personalized RAM modules set buyers apart from generic memory kits."
+  },
+  {
+    "title": "Iran reportedly bought an in-orbit Chinese satellite to target US military sites in the Middle East purchase agreement included ongoing ground control services based in China",
+    "summary": "Leaked documents reveal Iran's IRGC Aerospace Force is using a Chinese satellite to gather intel on U.S. bases in the Middle East for potential targeting by drones and missiles. This satellite is reportedly being controlled from China. The agreement includes ongoing ground control services.",
+    "link": "https://www.tomshardware.com/tech-industry/iran-reportedly-bought-an-in-orbit-chinese-satellite-to-target-us-military-sites-in-the-middle-east-purchase-agreement-included-ongoing-ground-control-services-based-in-china",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-16T10:01:36.323976",
+    "insight": "Iran's access to Chinese satellite technology compromises U.S. regional security"
+  },
+  {
+    "title": "Astonishing bundle makes 64GB of DDR5 RAM just $216, $100 cheaper than 32GB get a 9800X3D, G.Skill Ripjaws S5 DDR5-6000 RAM, case, motherboard, and CPU cooler for just $999",
+    "summary": "Newegg offers a bundle deal that makes 64GB DDR5 RAM affordable at $216.01, $100 cheaper than 32GB. The bundle includes a 9800X3D, G.Skill Ripjaws S5 DDR5-6000 RAM, case, motherboard, and CPU cooler for $999. This deal offsets the price of the RAM kit.",
+    "link": "https://www.tomshardware.com/pc-components/astonishing-bundle-makes-64gb-of-ddr5-ram-just-usd216-usd100-cheaper-than-32gb-get-a-9800x3d-g-skill-ripjaws-s5-ddr5-6000-ram-case-motherboard-and-cpu-cooler-for-just-usd999",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-16T10:01:36.324083",
+    "insight": "High-capacity DDR5 RAM becomes more accessible for consumers suddenly"
+  },
+  {
+    "title": "Our lifestyle tech colleagues at Tom's Guide have overhauled their site for smarter shopping more video and access to experts make it 'the biggest relaunch in our history'",
+    "summary": "Our tech colleagues over at Tom's Guide just relaunched their homepage, with destination-focused features like a dedicated live feed for news and expert reactions, AI-infused shopping and upgrading tools, and more short-form video.",
+    "link": "https://www.tomshardware.com/tech-industry/our-lifestyle-tech-colleagues-at-toms-guide-have-overhauled-their-site-for-smarter-shopping-more-video-and-access-to-experts-make-it-the-biggest-relaunch-in-our-history",
+    "categories": [
+      "Tech News",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-15T10:01:22.777504",
-    "insight": "Cost-effectiveness trumps cutting-edge AI for many cybersecurity applications."
+    "processed_date": "2026-04-16T10:01:36.324195"
   },
   {
-    "title": "Sony launches 720 Hz dual-mode OLED QHD gaming monitor 27-inch Inzone M10S II is aimed at hardcore eSports gamers",
-    "summary": "Sony's 27-inch Inzone M10S II gaming monitor boasts a 720 Hz refresh rate at 720p resolution, targeting hardcore eSports gamers.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/sony-launches-720-hz-dual-mode-oled-qhd-gaming-monitor-27-inch-inzone-m10s-ii-is-aimed-at-hardcore-esports-gamers",
+    "title": "ADLINK OSM-MTK520 A MediaTek Genio 520-based OSM Size-L system-on-module",
+    "summary": "ADLINK OSM-MTK520 is a 45 x 45mm OSM Size-L system-on-module with a MediaTek Genio 520 AIoT processor, featuring 10 TOPS NPU for Edge AI workloads and improved storage and memory capabilities compared to its predecessor.",
+    "link": "https://www.cnx-software.com/2026/04/16/adlink-osm-mtk520-mediatek-genio-520-based-osm-size-l-system-on-module/",
     "categories": [
-      "AI & ML",
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-16T10:01:36.324764",
+    "insight": "Enhanced AI capabilities for Edge AI workloads at an affordable price."
+  },
+  {
+    "title": "Intel Core Ultra X7 358H-powered open robotics development system targets humanoid robots and autonomous vehicles",
+    "summary": "AAEON's CEXD-INTRBL system is an open robotics development platform powered by Intel's 16-core Ultra X7 358H SoC. It's designed for humanoid robots and autonomous vehicle development, featuring AI acceleration and high-speed connectivity. The system is suitable for edge AI applications.",
+    "link": "https://www.cnx-software.com/2026/04/16/intel-core-ultra-x7-358h-powered-open-robotics-development-system-targets-humanoid-robots-and-autonomous-vehicles/",
+    "categories": [
+      "Hardware",
       "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-16T10:01:36.324930",
+    "insight": "Advancing AI-powered robotics for industrial and autonomous applications."
+  },
+  {
+    "title": "IP65-rated TWOWIN T808P-G Edge AI computer features 8x GMSL2 cameras, aviation-grade M12/M16 connectors",
+    "summary": "TWOWIN Technology introduces the TW-T808P-G, an IP65-rated edge AI computer with 8x GMSL2 cameras and aviation-grade connectors for industrial and smart infrastructure applications.",
+    "link": "https://www.cnx-software.com/2026/04/16/ip65-rated-twowin-t808p-g-edge-ai-computer-features-8x-gmsl2-cameras-aviation-grade-m12-m16-connectors/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-16T10:01:36.325126",
+    "insight": "Enhanced AI performance for rugged, real-time industrial and infrastructure monitoring."
+  },
+  {
+    "title": "Orange Pi Zero 3W An Allwinner A733 SBC in Raspberry Pi Zero form factor",
+    "summary": "The Orange Pi Zero 3W is a Raspberry Pi Zero-sized SBC featuring an Allwinner A733 SoC with up to 16GB of LPDDR5 RAM, offering a range of connectivity options and expandability features.",
+    "link": "https://www.cnx-software.com/2026/04/15/orange-pi-zero-3w-an-allwinner-a733-sbc-in-raspberry-pi-zero-form-factor/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-16T10:01:36.325286",
+    "insight": "Affordable, high-performance computing for embedded and IoT applications."
+  },
+  {
+    "title": "Reminder: enable ZRAM on your Linux system to optimize RAM usage (and potentially save money)",
+    "summary": "Enabling ZRAM on Linux optimizes RAM usage and saves memory constraints. This can potentially save money on memory upgrades or lower the cost of single board computers. It also improves system performance by reducing memory crashes.",
+    "link": "https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-16T10:01:36.325434",
+    "insight": "Optimizing RAM usage with ZRAM reduces memory crashes and costs."
+  },
+  {
+    "title": "LimeSDR Micro M.2 2280 SDR card pairs NXP LA9310 baseband processor with LMS7002M RF transceiver (Crowdfunding)",
+    "summary": "The LimeSDR Micro M.2 2280 combines an NXP LA9310 baseband processor with a Lime Microsystems LMS7002M RF transceiver, targeting portable or embedded solutions with a spare M.2 PCIe Gen3 x1 socket. It supports a 30 MHz to 3.8 GHz frequency range and up to 100 MHz bandwidth. This SDR card is suitable for various applications such as 4G LTE/5G, future RAN research, and custom user equipment.",
+    "link": "https://www.cnx-software.com/2026/04/15/limesdr-micro-m-2-2280-sdr-card-pairs-nxp-la9310-baseband-processor-with-lms7002m-rf-transceiver/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-16T10:01:36.325615",
+    "insight": "Enabling flexible, high-performance wireless research and development"
+  },
+  {
+    "title": "PocketTerm35 A Raspberry Pi 4/5-based handheld Linux terminal with 3.5-inch touch display and built-in keyboard",
+    "summary": "PocketTerm35 is a portable handheld terminal with a 3.5-inch touchscreen display and built-in QWERTY keyboard, compatible with Raspberry Pi 4 and 5 single board computers.",
+    "link": "https://www.cnx-software.com/2026/04/14/pocketterm35-a-raspberry-pi-4-5-based-handheld-linux-terminal-with-3-5-inch-touch-display-and-built-in-keyboard/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-16T10:01:36.325782",
+    "insight": "Raspberry Pi-based handheld Linux terminal simplifies portable computing and coding."
+  },
+  {
+    "title": "Edge AI outlook viewed with cautious optimism",
+    "summary": "Edge AI has reached the early deployment stage after years of trials, according to Lattice. This milestone marks a significant shift in the technology's adoption and potential applications. Early deployments will likely drive innovation and improvement.",
+    "link": "https://www.fiercesensors.com/sensors/edge-ai-outlook-viewed-cautious-optimism",
+    "categories": [
+      "AI & ML"
     ],
     "quality_score": 0,
-    "processed_date": "2026-04-15T10:01:22.777606",
-    "insight": "Ultra-high refresh rate enhances competitive gaming experience dramatically."
+    "processed_date": "2026-04-16T10:01:36.326704",
+    "insight": "Edge AI's early deployment paves the way for widespread adoption."
   },
   {
-    "title": "Intel's promising upcoming Nova Lake-S lineup reportedly includes an iGPU-focused SKU with 12 Xe3P cores new leak claims a midrange 16-core CPU with powerful integrated graphics is in the works",
-    "summary": "A new leak suggests Intel's Nova Lake-S lineup will include a 16-core CPU with 12 Xe3P iGPU cores, targeting the Ryzen G-series APUs. This would offer significantly more integrated graphics capabilities than current AMD offerings. The 16-core CPU would be a strong competitor in the mid-range market.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-promising-upcoming-nova-lake-s-lineup-reportedly-includes-an-igpu-focused-sku-with-12-xe3p-cores-new-leak-claims-a-midrange-16-core-cpu-with-powerful-integrated-graphics-is-in-the-works",
+    "title": "Microsoft counters MacBook Neo with free Game Pass and Office bundle on Windows laptops",
+    "summary": "Microsoft offers a bundle deal with free services for Windows laptop purchases. Eligible college students can receive Microsoft 365 Premium, Xbox Game Pass Ultimate, and a customized Xbox controller for free. This promotion targets the MacBook Neo market.",
+    "link": "https://www.techspot.com/news/112090-microsoft-counters-macbook-neo-free-game-pass-office.html",
     "categories": [
-      "GPUs",
+      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.777735",
-    "insight": "Intel's iGPU-focused SKU could surpass AMD's offerings in graphics performance."
+    "processed_date": "2026-04-16T10:01:36.327142",
+    "insight": "Microsoft counters MacBook Neo with a competitive value proposition."
   },
   {
-    "title": "Nvidia quashes rumor it s planning to purchase a major PC manufacturer says that it s not engaged in discussions to acquire any PC maker ",
-    "summary": "Nvidia denied acquiring another PC manufacturer despite 2024 rumors. The company stated it's not in talks to acquire any PC maker. Nvidia's clarification aims to alleviate market uncertainty.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-squashes-rumor-its-planning-to-purchase-a-major-pc-manufacturer-says-that-its-not-engaged-in-discussions-to-acquire-any-pc-maker",
+    "title": "Popular WordPress plugins backdoored after ownership change, putting thousands of websites at risk",
+    "summary": "Popular WordPress plugins were backdoored after a change in ownership, putting thousands of websites at risk. The malicious code allows for the download and spread of malicious content. This supply chain attack was discovered by WordPress developer Austin Ginder.",
+    "link": "https://www.techspot.com/news/112086-popular-wordpress-plugins-backdoored-after-ownership-change-putting.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-16T10:01:36.327318",
+    "insight": "Thousands of websites vulnerable to malicious code injection due to plugin backdoors."
+  },
+  {
+    "title": "Intel Nova Lake-S is coming after Ryzen APUs with a 16-core iGPU for gamers on a budget",
+    "summary": "Intel's Nova Lake-S CPU lineup will feature a 16-core iGPU for budget gamers. The chip includes 4 high-performance and 8 efficiency CPU cores. It has 12 Xe3P cores in the integrated graphics unit.",
+    "link": "https://www.techspot.com/news/112081-intel-nova-lake-s-coming-after-ryzen-apus.html",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.777837",
-    "insight": "Nvidia's acquisition plans affect its position in the PC hardware market."
-  },
-  {
-    "title": "China's premiere memory-maker YMTC plans two additional Wuhan fabs using homegrown chipmaking tools Phase 3 crosses 50% domestic tooling threshold",
-    "summary": "YMTC plans to build two additional fabs in Wuhan using homegrown chipmaking tools.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/ymtc-planms-two-additional-wuhan-fabs",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.777943",
-    "insight": "China's self-reliance in chip production gains significant momentum domestically."
-  },
-  {
-    "title": "Bambu Lab X2D review: Improving a fan favorite",
-    "summary": "The Bambu Lab X2D is an upgraded version of the X1 3D printer, featuring improved performance and reliability. It addresses user feedback and incorporates new technologies to enhance the printing experience. The X2D aims to solidify its position as a top-choice 3D printer.",
-    "link": "https://www.tomshardware.com/3d-printing/bambu-lab-x2d-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.778027",
-    "insight": "Refined design and performance improve user experience significantly"
-  },
-  {
-    "title": "Alienware AW2726DM 27-inch QHD 240 Hz QD-OLED gaming monitor review: A price breakthrough for desktop OLED",
-    "summary": "Alienware's AW2726DM breaks price barriers with its 27-inch QHD QD-OLED monitor, offering high-quality features at an affordable price of $350. This monitor boasts 240 Hz refresh rate, Adaptive-Sync, HDR10, and wide gamut color. It's a significant breakthrough for desktop OLED technology.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw2726dm-27-inch-qhd-240-hz-qd-oled-gaming-monitor-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-15T10:01:22.778129",
-    "insight": "Affordable OLED gaming monitors for the masses"
-  },
-  {
-    "title": "Our experts review your astonishing PC builds and setups in Rig Rundown from wall-mounted setups to a system packed inside of a 1:6 scale RC car",
-    "summary": "Tom's Hardware showcases user-submitted PC builds and crowns a winner in the inaugural Tom's Hardware Premium Rig Rundown results. The publication goes through various unique and creative setups, from wall-mounted PCs to a system packed inside of a 1:6 scale RC car. This special issue highlights the art of PC customization and innovation.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/our-experts-review-your-astonishing-pc-builds-and-setups-in-rig-rundown-from-wall-mounted-setups-to-a-system-packed-inside-of-a-1-6-scale-rc-car",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-04-15T10:01:22.778238",
-    "insight": "Creative PC builds showcase innovation and customization expertise."
+    "processed_date": "2026-04-16T10:01:36.327504",
+    "insight": "Budget gaming options with powerful integrated graphics now available"
   },
   {
-    "title": "News outlets are blocking Wayback Machine from archiving their pages 23 outlets concerned AI companies might abuse fair use and use it to train their models",
-    "summary": "Major news outlets block Wayback Machine due to fair use concerns, fearing AI companies will misuse publicly available data to train their models.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/news-outlets-are-blocking-wayback-machine-from-archiving-their-pages-23-outlets-concerned-ai-companies-might-abuse-fair-use-and-use-it-to-train-their-models",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.778352",
-    "insight": "Fair use laws may be exploited for AI model training purposes"
-  },
-  {
-    "title": "Mark Zuckerberg reportedly working on AI clone of himself Meta insiders claim 3D photoreal animated Zuck will be able to engage with employees on his behalf",
-    "summary": "Mark Zuckerberg is reportedly working on AI clone to engage employees, Meta insiders claim. The 3D photorealistic animated replica will be able to communicate on his behalf. This development raises questions about delegation of authority.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mark-zuckerberg-reportedly-working-on-ai-clone-of-himself-meta-insiders-claim-3d-photoreal-animated-zuck-will-be-able-to-engage-with-employees-on-his-behalf",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.778445",
-    "insight": "Redefining corporate leadership through AI-powered delegation and impersonation capabilities"
-  },
-  {
-    "title": "Score a massive $700 off this 4K-ready Lenovo gaming PC with an RTX 5070 Ti, now just $1,899 epic Legion Tower 5i pre-built ships with a 20-core Intel CPU, 32GB DDR5 and a 2TB SSD",
-    "summary": "Get a high-performance gaming PC with 20-core Intel CPU, 32GB DDR5 RAM, and 2TB SSD, now at a discounted price of $1,899.99.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/score-a-massive-usd700-off-this-4k-ready-lenovo-gaming-pc-with-an-rtx-5070-ti-now-just-usd1-899-epic-legion-tower-5i-pre-built-ships-with-a-20-core-intel-cpu-32gb-ddr5-and-a-2tb-ssd",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.778546",
-    "insight": "High-end gaming capabilities at a relatively affordable price point."
-  },
-  {
-    "title": "Veteran Windows dev shows off AI running on 47-year-old PDP11 with 6 MHz CPU and 64KB of RAM 'gloriously absurd' project runs transformer model written in PDP-11 assembly language",
-    "summary": "A veteran Windows developer has successfully trained a neural network on a 47-year-old PDP-11 minicomputer with a 6 MHz CPU and 64 KB of RAM, showcasing the 'gloriously absurd' capabilities of AI on outdated hardware.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/veteran-windows-dev-shows-off-ai-running-on-47-year-old-pdp11-with-6-mhz-cpu-and-64kb-of-ram-gloriously-absurd-project-runs-transformer-model-written-in-pdp-11-assembly-language",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.778652",
-    "insight": "Even ancient hardware can run AI with careful optimization and assembly language."
-  },
-  {
-    "title": "Half of all US employees now use artificial intelligence at work, crossing landmark threshold for first time Gallup data shows daily and weekly usage hitting all-time high of 28% in Q1 2026, with 65% feeling positive about its impact on productivity",
-    "summary": "Half of US employees use AI at work, with 28% daily/weekly usage. A Gallup survey shows a positive impact on productivity. Employees' confidence in AI's benefits is on the rise.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-all-us-employees-now-use-artificial-intelligence-at-work-crossing-landmark-threshold-for-first-time-gallup-data-shows-daily-and-weekly-usage-hitting-all-time-high-of-28-percent-in-q1-2026-with-65-percent-feeling-positive-about-its-impact-on-productivity",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.778764",
-    "insight": "Widespread AI adoption boosts employee productivity and confidence."
-  },
-  {
-    "title": "China has spent 3.6 times more than the US on chipmaking subsidies over the past decade $142 billion and counting, easily outweighs CHIPS Act",
-    "summary": "China's semiconductor subsidies exceeded US spending by 3.6 times from 2014-2023, totaling $142 billion. This significant investment in chipmaking has given China a competitive edge. The US CHIPS Act, which committed $39 billion, is dwarfed by China's spending.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-spending-3-6-times-more-than-the-us-on-chipmaking-subsidies",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.778863",
-    "insight": "China's massive chip subsidies create a significant competitive imbalance."
-  },
-  {
-    "title": "Clicking \"reject cookies\" might not actually do anything",
-    "summary": "Tech giants continue to track users despite 'reject cookies' settings.",
-    "link": "https://www.techspot.com/news/112073-clicking-reject-cookies-might-not-actually-do-anything.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.779539",
-    "insight": "Browser settings may not be enough to prevent tracking."
-  },
-  {
-    "title": "DaVinci Resolve 21 beta adds photo editing and deeper AI integration",
-    "summary": "DaVinci Resolve 21 beta adds photo editing with AI-powered enhancements, integrating seamlessly into existing workflows.",
-    "link": "https://www.techspot.com/downloads/7863-davinci-resolve-beta.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.779648",
-    "insight": "Enhanced color grading and AI-driven photo editing increases creative possibilities."
-  },
-  {
-    "title": "Malware campaign lures users with fake Windows Update website",
-    "summary": "Malwarebytes uncovered a malicious campaign targeting French-speaking Windows Update users, using layered obfuscation to deliver malicious payloads and steal sensitive data.",
-    "link": "https://www.techspot.com/news/112069-malware-campaign-lures-french-users-fake-windows-update.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.779821",
-    "insight": "French-speaking users at risk of targeted malware attacks through fake Windows Update websites."
-  },
-  {
-    "title": "Apple is testing four smart glasses designs as it prepares to challenge Meta Ray-Bans",
-    "summary": "Apple is developing its own smart glasses internally, unlike Meta's collaboration with Ray-Ban.",
-    "link": "https://www.techspot.com/news/112064-apple-tests-four-smart-glasses-designs-prepares-directly.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.779994",
-    "insight": "Apple's independent approach sets it apart in the smart glasses market."
-  },
-  {
-    "title": "Amazon purchases Globalstar for $11.6B to expand its low Earth orbit satellite network",
-    "summary": "Amazon acquires Globalstar for $11.6B to expand its low Earth orbit satellite network, gaining control over existing operations, supporting infrastructure, and related assets.",
-    "link": "https://www.techspot.com/news/112067-amazon-purchases-globalstar-116b-expand-low-earth-orbit.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.780164",
-    "insight": "Amazon expands satellite capabilities for potential Project Kuiper success"
-  },
-  {
-    "title": "Capcom's Pragmata earns strong early reviews ahead of release",
-    "summary": "Pragmata earns strong reviews for its innovative third-person shooting mechanics and real-time hacking features, combined with stunning futuristic visuals and engaging combat depth.",
-    "link": "https://www.techspot.com/products/pc-games/pragmata.323754/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-15T10:01:22.780349",
-    "insight": "Capcom's Pragmata offers a fresh gaming experience with hacking mechanics."
-  },
-  {
-    "title": "Microsoft is removing 32GB size limit for FAT32 volumes, this time for real",
-    "summary": "Microsoft has released a Windows 11 preview build with a new, higher FAT32 size limit, improving compatibility and flexibility.",
-    "link": "https://www.techspot.com/news/112058-microsoft-removing-32gb-size-limit-fat32-volumes-time.html",
+    "title": "Alienware launches $350 QD-OLED monitor with lower brightness to cut costs",
+    "summary": "Alienware launches a budget QD-OLED monitor with lower brightness for cost savings.",
+    "link": "https://www.techspot.com/news/112083-alienware-launches-350-qd-oled-monitor-lower-brightness.html",
     "categories": [
       "Tech News",
       "Hardware"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-04-15T10:01:22.780515",
-    "insight": "FAT32 size limit increase enhances compatibility and flexibility for users."
-  },
-  {
-    "title": "Missouri town ousts half of its city council after $6 billion AI data center approval",
-    "summary": "Festus, Missouri, ousts half of its city council after approving a $6 billion AI data center project. The 360-acre development faced local objections despite being touted as a 'once-in-a-generation windfall'.",
-    "link": "https://www.techspot.com/news/112066-missouri-town-ousts-half-city-council-after-6.html",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-04-15T10:01:22.780664",
-    "insight": "Community pushback can lead to significant changes in local government leadership."
+    "processed_date": "2026-04-16T10:01:36.327672",
+    "insight": "Alienware compromises on brightness for more affordable OLED gaming option."
   },
   {
-    "title": "External GPUs were always second best. CopprLink may change that",
-    "summary": "CopprLink offers a high-bandwidth interface with 64 GB/s throughput, surpassing current eGPU options.",
-    "link": "https://www.techspot.com/news/112062-external-gpus-always-second-best-copprlink-may-change.html",
+    "title": "Recordly brings Screen Studio-style recordings to a free, open-source app",
+    "summary": "Recordly offers free, screen capture and editing tools with motion effects.",
+    "link": "https://www.techspot.com/downloads/7860-recordly.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-16T10:01:36.327833",
+    "insight": "Free alternative to paid screen recording software like Screen Studio."
+  },
+  {
+    "title": "Someone finally got an RTX 5090 running on a Mac no hacks required",
+    "summary": "Tiny Corp has developed an open-source Nvidia GPU driver, TinyGPU, for Macs, signed by Apple, eliminating the need for workarounds.",
+    "link": "https://www.techspot.com/news/112082-someone-finally-got-rtx-5090-running-mac-no.html",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.780830",
-    "insight": "Faster data transfer may revolutionize eGPU performance and adoption"
+    "processed_date": "2026-04-16T10:01:36.328012",
+    "insight": "Macs can now run Nvidia GPUs with native, hack-free support."
   },
   {
-    "title": "Google will demote websites that hijack your browser's back button",
-    "summary": "Google will demote websites that hijack the back button, considering it a malicious practice.",
-    "link": "https://www.techspot.com/news/112065-google-demote-websites-hijack-browser-back-button.html",
+    "title": "Will AI agents need to buy their own software licenses? Microsoft sure hopes so",
+    "summary": "Microsoft proposes AI agents buying software licenses as company employees.",
+    "link": "https://www.techspot.com/news/112072-ai-agents-need-buy-their-own-software-licenses.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.780985",
-    "insight": "Google prioritizes user control and intuitive browsing experiences."
+    "processed_date": "2026-04-16T10:01:36.328193",
+    "insight": "AI accountability and revenue streams for companies like Microsoft."
   },
   {
-    "title": "Japan finds a way to recover 90% of lithium from old EV batteries",
-    "summary": "Japan's JX Metals Circular Solutions has developed a process to recover 90% of lithium from old EV batteries, a breakthrough announced in April 2025. The company's plant in Tsuruga is at the center of the innovative technology. This achievement could significantly improve EV recycling and battery sustainability.",
-    "link": "https://www.techspot.com/news/112051-japan-finds-way-recover-90-lithium-old-ev.html",
+    "title": "Duolingo stops evaluating workers based on how much AI they use",
+    "summary": "Duolingo is shifting focus to AI integration, eliminating contract workers.",
+    "link": "https://www.techspot.com/news/112080-duolingo-stops-evaluating-workers-based-how-much-ai.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-16T10:01:36.328360",
+    "insight": "Contract worker elimination impacts labor market and job security."
+  },
+  {
+    "title": "Nvidia warranty payouts surged 1,000% last year, not that they can't afford it",
+    "summary": "Nvidia's warranty payouts surged 11-fold to $894 million in 2025, largely due to power cable issues in a new product.",
+    "link": "https://www.techspot.com/news/112074-nvidia-warranty-payouts-surged-1000-last-year-not.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-16T10:01:36.328518",
+    "insight": "Rapidly increasing warranty claims expose a product's reliability and manufacturing quality."
+  },
+  {
+    "title": "Netgear becomes first router brand exempt from FCC foreign-made ban",
+    "summary": "Netgear becomes the first router brand exempt from the FCC's foreign-made ban. The agency granted conditional approval for Netgear's Nighthawk, Orbi, CAX, and CM products through October 1, 2027. This decision allows Netgear to continue importing these products.",
+    "link": "https://www.techspot.com/news/112078-netgear-becomes-first-router-brand-exempt-fcc-foreign.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-16T10:01:36.328688",
+    "insight": "First exemption granted for foreign-made routers under FCC ban"
+  },
+  {
+    "title": "Google adds Rust to Pixel 10 modem to block attacks at one of Android's weakest points",
+    "summary": "Google has added Rust to the Pixel 10 modem to improve security. The modem's baseband is its own OS, vulnerable to attacks. Rust helps block attacks at one of Android's weakest points.",
+    "link": "https://www.techspot.com/news/112071-google-adds-rust-pixel-10-modem-block-attacks.html",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-04-15T10:01:22.781144",
-    "insight": "Revolutionizing EV recycling with high lithium recovery rates possible"
-  },
-  {
-    "title": "Man who vandalized Sam Altman's home claimed AI would end humanity, charged with attempted murder",
-    "summary": "A 20-year-old man vandalized Sam Altman's home and threatened OpenAI's office, claiming AI would end humanity. He threw a flaming bottle at the gate and was detained outside the OpenAI office. The incident has sparked concerns about AI-related threats.",
-    "link": "https://www.techspot.com/news/112063-man-who-threw-molotov-sam-altman-home-claimed.html",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.781317",
-    "insight": "Vandalism raises concerns about AI-related violence and potential threats."
-  },
-  {
-    "title": "New terahertz technique lets engineers see inside running processors in real time",
-    "summary": "Researchers modified a vector network analyzer to operate in the terahertz domain, enabling real-time monitoring of processors.",
-    "link": "https://www.techspot.com/news/112060-new-terahertz-technique-engineers-watch-processors-work-real.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-15T10:01:22.781500",
-    "insight": "Insights into processor behavior in real-time could greatly improve chip design and reliability."
-  },
-  {
-    "title": "Microsoft just made its Surface laptops a lot more expensive",
-    "summary": "Microsoft has increased prices for its Surface Pro and Laptop models by $300, citing rising component costs.",
-    "link": "https://www.techspot.com/news/112059-microsoft-made-surface-laptops-lot-more-expensive.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.781647",
-    "insight": "Higher prices may deter buyers and impact Surface sales"
-  },
-  {
-    "title": "Shipping records suggest Valve will launch the Steam Controller before the Steam Machine",
-    "summary": "Valve's shipping records suggest the Steam Controller may release before Steam Machine.",
-    "link": "https://www.techspot.com/news/112061-shipping-records-suggest-valve-preparing-launch-new-steam.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.781803",
-    "insight": "Implications for Steam's gaming ecosystem and user experience."
-  },
-  {
-    "title": "This 3D-printed 15-fan side panel drops CPU temps by 20 degrees",
-    "summary": "A 3D-printed side panel with 15 fans lowers CPU temperatures by 20 degrees. This design replaces tempered glass with a fan-filled structure for improved airflow. It was created in response to user feedback.",
-    "link": "https://www.techspot.com/news/112056-3d-printed-15-fan-side-panel-dropped-cpu.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-15T10:01:22.781957",
-    "insight": "Optimized airflow significantly reduces CPU temperatures with effective fan integration."
+    "processed_date": "2026-04-16T10:01:36.328838",
+    "insight": "Android's cellular modems have proprietary, insecure code that's a security risk."
   }
 ]

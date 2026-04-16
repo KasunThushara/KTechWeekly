@@ -1,135 +1,155 @@
 # 💻 Hardware
-**Week of April 15, 2026**
+**Week of April 16, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-04-15 10:02
+- **Articles this week:** 14
+- **Report generated:** 2026-04-16 10:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Alienware AW2726DM 27-inch QHD 240 Hz QD-OLED gaming monitor review: A price breakthrough for desktop OLED ⭐
+### 1. Intel Core Ultra X7 358H-powered open robotics development system targets humanoid robots and autonomous vehicles ⭐
 
-Alienware's AW2726DM breaks price barriers with its 27-inch QHD QD-OLED monitor, offering high-quality features at an affordable price of $350. This monitor boasts 240 Hz refresh rate, Adaptive-Sync, HDR10, and wide gamut color. It's a significant breakthrough for desktop OLED technology.
+AAEON's CEXD-INTRBL system is an open robotics development platform powered by Intel's 16-core Ultra X7 358H SoC. It's designed for humanoid robots and autonomous vehicle development, featuring AI acceleration and high-speed connectivity. The system is suitable for edge AI applications.
 
-💡 *Affordable OLED gaming monitors for the masses*
+💡 *Advancing AI-powered robotics for industrial and autonomous applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw2726dm-27-inch-qhd-240-hz-qd-oled-gaming-monitor-review)
-
----
-
-### 2. Microsoft is removing 32GB size limit for FAT32 volumes, this time for real ⭐
-
-Microsoft has released a Windows 11 preview build with a new, higher FAT32 size limit, improving compatibility and flexibility.
-
-💡 *FAT32 size limit increase enhances compatibility and flexibility for users.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112058-microsoft-removing-32gb-size-limit-fat32-volumes-time.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/16/intel-core-ultra-x7-358h-powered-open-robotics-development-system-targets-humanoid-robots-and-autonomous-vehicles/)
 
 ---
 
-### 3. Our experts review your astonishing PC builds and setups in Rig Rundown from wall-mounted setups to a system packed inside of a 1:6 scale RC car 
+### 2. LimeSDR Micro M.2 2280 SDR card pairs NXP LA9310 baseband processor with LMS7002M RF transceiver (Crowdfunding) ⭐
 
-Tom's Hardware showcases user-submitted PC builds and crowns a winner in the inaugural Tom's Hardware Premium Rig Rundown results. The publication goes through various unique and creative setups, from wall-mounted PCs to a system packed inside of a 1:6 scale RC car. This special issue highlights the art of PC customization and innovation.
+The LimeSDR Micro M.2 2280 combines an NXP LA9310 baseband processor with a Lime Microsystems LMS7002M RF transceiver, targeting portable or embedded solutions with a spare M.2 PCIe Gen3 x1 socket. It supports a 30 MHz to 3.8 GHz frequency range and up to 100 MHz bandwidth. This SDR card is suitable for various applications such as 4G LTE/5G, future RAN research, and custom user equipment.
 
-💡 *Creative PC builds showcase innovation and customization expertise.*
+💡 *Enabling flexible, high-performance wireless research and development*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/our-experts-review-your-astonishing-pc-builds-and-setups-in-rig-rundown-from-wall-mounted-setups-to-a-system-packed-inside-of-a-1-6-scale-rc-car)
-
----
-
-### 4. Capcom's Pragmata earns strong early reviews ahead of release 
-
-Pragmata earns strong reviews for its innovative third-person shooting mechanics and real-time hacking features, combined with stunning futuristic visuals and engaging combat depth.
-
-💡 *Capcom's Pragmata offers a fresh gaming experience with hacking mechanics.*
-
-🔗 [Read Full Article](https://www.techspot.com/products/pc-games/pragmata.323754/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/15/limesdr-micro-m-2-2280-sdr-card-pairs-nxp-la9310-baseband-processor-with-lms7002m-rf-transceiver/)
 
 ---
 
-### 5. New terahertz technique lets engineers see inside running processors in real time 
+### 3. Elon Musk demonstrates first sample of Tesla AI5 processor, accidentally thanks TSC rather than TSMC claims 40X performance boost over the predecessor 
 
-Researchers modified a vector network analyzer to operate in the terahertz domain, enabling real-time monitoring of processors.
+Elon Musk unveiled the first Tesla AI5 processor sample, boasting a 40X performance boost over its predecessor. The new processor features a 384-bit memory interface. Next-generation AI6 and Dojo 3 processors are in development.
 
-💡 *Insights into processor behavior in real-time could greatly improve chip design and reliability.*
+💡 *Tesla's AI5 offers significant performance improvement for AI applications*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112060-new-terahertz-technique-engineers-watch-processors-work-real.html)
-
----
-
-### 6. Intel's promising upcoming Nova Lake-S lineup reportedly includes an iGPU-focused SKU with 12 Xe3P cores new leak claims a midrange 16-core CPU with powerful integrated graphics is in the works 
-
-A new leak suggests Intel's Nova Lake-S lineup will include a 16-core CPU with 12 Xe3P iGPU cores, targeting the Ryzen G-series APUs. This would offer significantly more integrated graphics capabilities than current AMD offerings. The 16-core CPU would be a strong competitor in the mid-range market.
-
-💡 *Intel's iGPU-focused SKU could surpass AMD's offerings in graphics performance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-promising-upcoming-nova-lake-s-lineup-reportedly-includes-an-igpu-focused-sku-with-12-xe3p-cores-new-leak-claims-a-midrange-16-core-cpu-with-powerful-integrated-graphics-is-in-the-works)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-demonstrates-first-sample-of-tesla-ai5-processor-accidentally-thanks-tsc-rather-than-tsmc-claims-40x-performance-boost-over-the-predecessor)
 
 ---
 
-### 7. Nvidia quashes rumor it s planning to purchase a major PC manufacturer says that it s not engaged in discussions to acquire any PC maker  
+### 4. Enermax Platimax II 1200DF power supply review: Powerful with Platinum level efficiency 
 
-Nvidia denied acquiring another PC manufacturer despite 2024 rumors. The company stated it's not in talks to acquire any PC maker. Nvidia's clarification aims to alleviate market uncertainty.
+The Enermax Platimax II 1200DF delivers Platinum-level efficiency and 13-year warranty, but with a limited connector loadout.
 
-💡 *Nvidia's acquisition plans affect its position in the PC hardware market.*
+💡 *High efficiency and warranty outweighs limited connector options slightly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/nvidia-squashes-rumor-its-planning-to-purchase-a-major-pc-manufacturer-says-that-its-not-engaged-in-discussions-to-acquire-any-pc-maker)
-
----
-
-### 8. Bambu Lab X2D review: Improving a fan favorite 
-
-The Bambu Lab X2D is an upgraded version of the X1 3D printer, featuring improved performance and reliability. It addresses user feedback and incorporates new technologies to enhance the printing experience. The X2D aims to solidify its position as a top-choice 3D printer.
-
-💡 *Refined design and performance improve user experience significantly*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/bambu-lab-x2d-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/enermax-platimax-ii-1200df-power-supply-review)
 
 ---
 
-### 9. Score a massive $700 off this 4K-ready Lenovo gaming PC with an RTX 5070 Ti, now just $1,899 epic Legion Tower 5i pre-built ships with a 20-core Intel CPU, 32GB DDR5 and a 2TB SSD 
+### 5. ADLINK OSM-MTK520 A MediaTek Genio 520-based OSM Size-L system-on-module 
 
-Get a high-performance gaming PC with 20-core Intel CPU, 32GB DDR5 RAM, and 2TB SSD, now at a discounted price of $1,899.99.
+ADLINK OSM-MTK520 is a 45 x 45mm OSM Size-L system-on-module with a MediaTek Genio 520 AIoT processor, featuring 10 TOPS NPU for Edge AI workloads and improved storage and memory capabilities compared to its predecessor.
 
-💡 *High-end gaming capabilities at a relatively affordable price point.*
+💡 *Enhanced AI capabilities for Edge AI workloads at an affordable price.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/score-a-massive-usd700-off-this-4k-ready-lenovo-gaming-pc-with-an-rtx-5070-ti-now-just-usd1-899-epic-legion-tower-5i-pre-built-ships-with-a-20-core-intel-cpu-32gb-ddr5-and-a-2tb-ssd)
-
----
-
-### 10. Veteran Windows dev shows off AI running on 47-year-old PDP11 with 6 MHz CPU and 64KB of RAM 'gloriously absurd' project runs transformer model written in PDP-11 assembly language 
-
-A veteran Windows developer has successfully trained a neural network on a 47-year-old PDP-11 minicomputer with a 6 MHz CPU and 64 KB of RAM, showcasing the 'gloriously absurd' capabilities of AI on outdated hardware.
-
-💡 *Even ancient hardware can run AI with careful optimization and assembly language.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/veteran-windows-dev-shows-off-ai-running-on-47-year-old-pdp11-with-6-mhz-cpu-and-64kb-of-ram-gloriously-absurd-project-runs-transformer-model-written-in-pdp-11-assembly-language)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/16/adlink-osm-mtk520-mediatek-genio-520-based-osm-size-l-system-on-module/)
 
 ---
 
-### 11. Microsoft just made its Surface laptops a lot more expensive 
+### 6. IP65-rated TWOWIN T808P-G Edge AI computer features 8x GMSL2 cameras, aviation-grade M12/M16 connectors 
 
-Microsoft has increased prices for its Surface Pro and Laptop models by $300, citing rising component costs.
+TWOWIN Technology introduces the TW-T808P-G, an IP65-rated edge AI computer with 8x GMSL2 cameras and aviation-grade connectors for industrial and smart infrastructure applications.
 
-💡 *Higher prices may deter buyers and impact Surface sales*
+💡 *Enhanced AI performance for rugged, real-time industrial and infrastructure monitoring.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112059-microsoft-made-surface-laptops-lot-more-expensive.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/16/ip65-rated-twowin-t808p-g-edge-ai-computer-features-8x-gmsl2-cameras-aviation-grade-m12-m16-connectors/)
 
 ---
 
-### 12. This 3D-printed 15-fan side panel drops CPU temps by 20 degrees 
+### 7. Orange Pi Zero 3W An Allwinner A733 SBC in Raspberry Pi Zero form factor 
 
-A 3D-printed side panel with 15 fans lowers CPU temperatures by 20 degrees. This design replaces tempered glass with a fan-filled structure for improved airflow. It was created in response to user feedback.
+The Orange Pi Zero 3W is a Raspberry Pi Zero-sized SBC featuring an Allwinner A733 SoC with up to 16GB of LPDDR5 RAM, offering a range of connectivity options and expandability features.
 
-💡 *Optimized airflow significantly reduces CPU temperatures with effective fan integration.*
+💡 *Affordable, high-performance computing for embedded and IoT applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112056-3d-printed-15-fan-side-panel-dropped-cpu.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/15/orange-pi-zero-3w-an-allwinner-a733-sbc-in-raspberry-pi-zero-form-factor/)
+
+---
+
+### 8. Reminder: enable ZRAM on your Linux system to optimize RAM usage (and potentially save money) 
+
+Enabling ZRAM on Linux optimizes RAM usage and saves memory constraints. This can potentially save money on memory upgrades or lower the cost of single board computers. It also improves system performance by reducing memory crashes.
+
+💡 *Optimizing RAM usage with ZRAM reduces memory crashes and costs.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/)
+
+---
+
+### 9. PocketTerm35 A Raspberry Pi 4/5-based handheld Linux terminal with 3.5-inch touch display and built-in keyboard 
+
+PocketTerm35 is a portable handheld terminal with a 3.5-inch touchscreen display and built-in QWERTY keyboard, compatible with Raspberry Pi 4 and 5 single board computers.
+
+💡 *Raspberry Pi-based handheld Linux terminal simplifies portable computing and coding.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/14/pocketterm35-a-raspberry-pi-4-5-based-handheld-linux-terminal-with-3-5-inch-touch-display-and-built-in-keyboard/)
+
+---
+
+### 10. Intel Nova Lake-S is coming after Ryzen APUs with a 16-core iGPU for gamers on a budget 
+
+Intel's Nova Lake-S CPU lineup will feature a 16-core iGPU for budget gamers. The chip includes 4 high-performance and 8 efficiency CPU cores. It has 12 Xe3P cores in the integrated graphics unit.
+
+💡 *Budget gaming options with powerful integrated graphics now available*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112081-intel-nova-lake-s-coming-after-ryzen-apus.html)
+
+---
+
+### 11. Alienware launches $350 QD-OLED monitor with lower brightness to cut costs 
+
+Alienware launches a budget QD-OLED monitor with lower brightness for cost savings.
+
+💡 *Alienware compromises on brightness for more affordable OLED gaming option.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112083-alienware-launches-350-qd-oled-monitor-lower-brightness.html)
+
+---
+
+### 12. Astonishing bundle makes 64GB of DDR5 RAM just $216, $100 cheaper than 32GB get a 9800X3D, G.Skill Ripjaws S5 DDR5-6000 RAM, case, motherboard, and CPU cooler for just $999 
+
+Newegg offers a bundle deal that makes 64GB DDR5 RAM affordable at $216.01, $100 cheaper than 32GB. The bundle includes a 9800X3D, G.Skill Ripjaws S5 DDR5-6000 RAM, case, motherboard, and CPU cooler for $999. This deal offsets the price of the RAM kit.
+
+💡 *High-capacity DDR5 RAM becomes more accessible for consumers suddenly*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/astonishing-bundle-makes-64gb-of-ddr5-ram-just-usd216-usd100-cheaper-than-32gb-get-a-9800x3d-g-skill-ripjaws-s5-ddr5-6000-ram-case-motherboard-and-cpu-cooler-for-just-usd999)
+
+---
+
+### 13. Microsoft counters MacBook Neo with free Game Pass and Office bundle on Windows laptops 
+
+Microsoft offers a bundle deal with free services for Windows laptop purchases. Eligible college students can receive Microsoft 365 Premium, Xbox Game Pass Ultimate, and a customized Xbox controller for free. This promotion targets the MacBook Neo market.
+
+💡 *Microsoft counters MacBook Neo with a competitive value proposition.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112090-microsoft-counters-macbook-neo-free-game-pass-office.html)
+
+---
+
+### 14. Recordly brings Screen Studio-style recordings to a free, open-source app 
+
+Recordly offers free, screen capture and editing tools with motion effects.
+
+💡 *Free alternative to paid screen recording software like Screen Studio.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7860-recordly.html)
 
 ---
 

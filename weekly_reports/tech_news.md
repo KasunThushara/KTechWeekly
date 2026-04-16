@@ -1,5 +1,5 @@
 # 📰 Tech News
-**Week of April 15, 2026**
+**Week of April 16, 2026**
 
 *Industry news and product launches*
 
@@ -7,119 +7,117 @@
 
 ## 📊 Summary
 - **Articles this week:** 11
-- **Report generated:** 2026-04-15 10:02
+- **Report generated:** 2026-04-16 10:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Alienware AW2726DM 27-inch QHD 240 Hz QD-OLED gaming monitor review: A price breakthrough for desktop OLED ⭐
+### 1. Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB Review: RAM customization made easy ⭐
 
-Alienware's AW2726DM breaks price barriers with its 27-inch QHD QD-OLED monitor, offering high-quality features at an affordable price of $350. This monitor boasts 240 Hz refresh rate, Adaptive-Sync, HDR10, and wide gamut color. It's a significant breakthrough for desktop OLED technology.
+The Corsair Vengeance RGB Custom Lab allows customers to personalize their RAM modules with unique designs and themes. This program offers a level of customization not often seen in the industry. The Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB is a prime example of this.
 
-💡 *Affordable OLED gaming monitors for the masses*
+💡 *Personalized RAM modules set buyers apart from generic memory kits.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw2726dm-27-inch-qhd-240-hz-qd-oled-gaming-monitor-review)
-
----
-
-### 2. Microsoft is removing 32GB size limit for FAT32 volumes, this time for real ⭐
-
-Microsoft has released a Windows 11 preview build with a new, higher FAT32 size limit, improving compatibility and flexibility.
-
-💡 *FAT32 size limit increase enhances compatibility and flexibility for users.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112058-microsoft-removing-32gb-size-limit-fat32-volumes-time.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/corsair-vengeance-rgb-custom-lab-cherry-blossom-ddr5-6000-c36-2x16gb-review)
 
 ---
 
-### 3. Japan finds a way to recover 90% of lithium from old EV batteries ⭐
+### 2. Enermax Platimax II 1200DF power supply review: Powerful with Platinum level efficiency 
 
-Japan's JX Metals Circular Solutions has developed a process to recover 90% of lithium from old EV batteries, a breakthrough announced in April 2025. The company's plant in Tsuruga is at the center of the innovative technology. This achievement could significantly improve EV recycling and battery sustainability.
+The Enermax Platimax II 1200DF delivers Platinum-level efficiency and 13-year warranty, but with a limited connector loadout.
 
-💡 *Revolutionizing EV recycling with high lithium recovery rates possible*
+💡 *High efficiency and warranty outweighs limited connector options slightly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112051-japan-finds-way-recover-90-lithium-old-ev.html)
-
----
-
-### 4. Nvidia releases open AI models for quantum computing tasks 'Ising' said to be 2.5x faster and 3x more accurate than existing tools for decoding 
-
-Nvidia has released Ising, an open-source AI model for quantum computing. It claims to be 2.5x faster and 3x more accurate than existing tools for decoding. Ising is designed for quantum processor calibration and real-time error correction.
-
-💡 *Speeding up quantum computing with AI can improve accuracy significantly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-releases-ising-open-ai-models)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/enermax-platimax-ii-1200df-power-supply-review)
 
 ---
 
-### 5. Our experts review your astonishing PC builds and setups in Rig Rundown from wall-mounted setups to a system packed inside of a 1:6 scale RC car 
+### 3. Our lifestyle tech colleagues at Tom's Guide have overhauled their site for smarter shopping more video and access to experts make it 'the biggest relaunch in our history' 
 
-Tom's Hardware showcases user-submitted PC builds and crowns a winner in the inaugural Tom's Hardware Premium Rig Rundown results. The publication goes through various unique and creative setups, from wall-mounted PCs to a system packed inside of a 1:6 scale RC car. This special issue highlights the art of PC customization and innovation.
+Our tech colleagues over at Tom's Guide just relaunched their homepage, with destination-focused features like a dedicated live feed for news and expert reactions, AI-infused shopping and upgrading tools, and more short-form video.
 
-💡 *Creative PC builds showcase innovation and customization expertise.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/our-experts-review-your-astonishing-pc-builds-and-setups-in-rig-rundown-from-wall-mounted-setups-to-a-system-packed-inside-of-a-1-6-scale-rc-car)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/our-lifestyle-tech-colleagues-at-toms-guide-have-overhauled-their-site-for-smarter-shopping-more-video-and-access-to-experts-make-it-the-biggest-relaunch-in-our-history)
 
 ---
 
-### 6. Capcom's Pragmata earns strong early reviews ahead of release 
+### 4. Reminder: enable ZRAM on your Linux system to optimize RAM usage (and potentially save money) 
 
-Pragmata earns strong reviews for its innovative third-person shooting mechanics and real-time hacking features, combined with stunning futuristic visuals and engaging combat depth.
+Enabling ZRAM on Linux optimizes RAM usage and saves memory constraints. This can potentially save money on memory upgrades or lower the cost of single board computers. It also improves system performance by reducing memory crashes.
 
-💡 *Capcom's Pragmata offers a fresh gaming experience with hacking mechanics.*
+💡 *Optimizing RAM usage with ZRAM reduces memory crashes and costs.*
 
-🔗 [Read Full Article](https://www.techspot.com/products/pc-games/pragmata.323754/)
-
----
-
-### 7. Bambu Lab X2D review: Improving a fan favorite 
-
-The Bambu Lab X2D is an upgraded version of the X1 3D printer, featuring improved performance and reliability. It addresses user feedback and incorporates new technologies to enhance the printing experience. The X2D aims to solidify its position as a top-choice 3D printer.
-
-💡 *Refined design and performance improve user experience significantly*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/bambu-lab-x2d-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/)
 
 ---
 
-### 8. News outlets are blocking Wayback Machine from archiving their pages 23 outlets concerned AI companies might abuse fair use and use it to train their models 
+### 5. Popular WordPress plugins backdoored after ownership change, putting thousands of websites at risk 
 
-Major news outlets block Wayback Machine due to fair use concerns, fearing AI companies will misuse publicly available data to train their models.
+Popular WordPress plugins were backdoored after a change in ownership, putting thousands of websites at risk. The malicious code allows for the download and spread of malicious content. This supply chain attack was discovered by WordPress developer Austin Ginder.
 
-💡 *Fair use laws may be exploited for AI model training purposes*
+💡 *Thousands of websites vulnerable to malicious code injection due to plugin backdoors.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/news-outlets-are-blocking-wayback-machine-from-archiving-their-pages-23-outlets-concerned-ai-companies-might-abuse-fair-use-and-use-it-to-train-their-models)
-
----
-
-### 9. Clicking "reject cookies" might not actually do anything 
-
-Tech giants continue to track users despite 'reject cookies' settings.
-
-💡 *Browser settings may not be enough to prevent tracking.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112073-clicking-reject-cookies-might-not-actually-do-anything.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112086-popular-wordpress-plugins-backdoored-after-ownership-change-putting.html)
 
 ---
 
-### 10. Amazon purchases Globalstar for $11.6B to expand its low Earth orbit satellite network 
+### 6. Alienware launches $350 QD-OLED monitor with lower brightness to cut costs 
 
-Amazon acquires Globalstar for $11.6B to expand its low Earth orbit satellite network, gaining control over existing operations, supporting infrastructure, and related assets.
+Alienware launches a budget QD-OLED monitor with lower brightness for cost savings.
 
-💡 *Amazon expands satellite capabilities for potential Project Kuiper success*
+💡 *Alienware compromises on brightness for more affordable OLED gaming option.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112067-amazon-purchases-globalstar-116b-expand-low-earth-orbit.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112083-alienware-launches-350-qd-oled-monitor-lower-brightness.html)
 
 ---
 
-### 11. Shipping records suggest Valve will launch the Steam Controller before the Steam Machine 
+### 7. Duolingo stops evaluating workers based on how much AI they use 
 
-Valve's shipping records suggest the Steam Controller may release before Steam Machine.
+Duolingo is shifting focus to AI integration, eliminating contract workers.
 
-💡 *Implications for Steam's gaming ecosystem and user experience.*
+💡 *Contract worker elimination impacts labor market and job security.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112061-shipping-records-suggest-valve-preparing-launch-new-steam.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112080-duolingo-stops-evaluating-workers-based-how-much-ai.html)
+
+---
+
+### 8. Netgear secures conditional approval from the FCC following router ban company can continue importing foreign-made routers through October 2027 
+
+Netgear secured a conditional approval from the FCC to release new router models, allowing it to import foreign-made routers until October 2027. The company can continue launching new models indefinitely if it maintains its approval. This means Netgear can continue to operate without major disruptions.
+
+💡 *Netgear's approval secures US router market share until 2027*
+
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/netgear-secures-conditional-approval-from-the-fcc-following-router-ban-company-can-continue-importing-foreign-made-routers-through-october-2027)
+
+---
+
+### 9. China tests deep-sea electro-hydrostatic actuator that can cut undersea cables at a depth of 3,500 meters state hails successful trial and hints at deployment readiness 
+
+China has successfully tested a deep-sea electro-hydrostatic actuator to cut undersea cables at 3,500 meters.
+
+💡 *Potential for China to disrupt global undersea communications and data transmission.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-tests-deep-sea-electro-hydrostatic-actuator-that-can-cut-undersea-cables-at-a-depth-of-3-500-meters-state-hails-successful-trial-and-hints-at-deployment-readiness)
+
+---
+
+### 10. Iran reportedly bought an in-orbit Chinese satellite to target US military sites in the Middle East purchase agreement included ongoing ground control services based in China 
+
+Leaked documents reveal Iran's IRGC Aerospace Force is using a Chinese satellite to gather intel on U.S. bases in the Middle East for potential targeting by drones and missiles. This satellite is reportedly being controlled from China. The agreement includes ongoing ground control services.
+
+💡 *Iran's access to Chinese satellite technology compromises U.S. regional security*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/iran-reportedly-bought-an-in-orbit-chinese-satellite-to-target-us-military-sites-in-the-middle-east-purchase-agreement-included-ongoing-ground-control-services-based-in-china)
+
+---
+
+### 11. Google adds Rust to Pixel 10 modem to block attacks at one of Android's weakest points 
+
+Google has added Rust to the Pixel 10 modem to improve security. The modem's baseband is its own OS, vulnerable to attacks. Rust helps block attacks at one of Android's weakest points.
+
+💡 *Android's cellular modems have proprietary, insecure code that's a security risk.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112071-google-adds-rust-pixel-10-modem-block-attacks.html)
 
 ---
 
