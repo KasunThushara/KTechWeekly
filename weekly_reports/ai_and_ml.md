@@ -1,5 +1,5 @@
 # 🤖 AI & ML
-**Week of April 16, 2026**
+**Week of April 17, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
@@ -7,167 +7,169 @@
 
 ## 📊 Summary
 - **Articles this week:** 16
-- **Report generated:** 2026-04-16 10:02
+- **Report generated:** 2026-04-17 10:00
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB Review: RAM customization made easy ⭐
+### 1. reBot Arm B601-DM An open-source 6+1 DoF robotic arm for embodied AI and teleoperation applications ⭐
 
-The Corsair Vengeance RGB Custom Lab allows customers to personalize their RAM modules with unique designs and themes. This program offers a level of customization not often seen in the industry. The Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB is a prime example of this.
+The Seeed Studio reBot Arm B601-DM is a fully open-source 6-axis robotic arm with a parallel gripper, designed for embodied AI learning and teleoperation applications, offering high precision and compatibility with major AI and robotics frameworks.
 
-💡 *Personalized RAM modules set buyers apart from generic memory kits.*
+💡 *Breaking barriers for AI and robotics research through open-source design.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/corsair-vengeance-rgb-custom-lab-cherry-blossom-ddr5-6000-c36-2x16gb-review)
-
----
-
-### 2. Elon Musk demonstrates first sample of Tesla AI5 processor, accidentally thanks TSC rather than TSMC claims 40X performance boost over the predecessor 
-
-Elon Musk unveiled the first Tesla AI5 processor sample, boasting a 40X performance boost over its predecessor. The new processor features a 384-bit memory interface. Next-generation AI6 and Dojo 3 processors are in development.
-
-💡 *Tesla's AI5 offers significant performance improvement for AI applications*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-demonstrates-first-sample-of-tesla-ai5-processor-accidentally-thanks-tsc-rather-than-tsmc-claims-40x-performance-boost-over-the-predecessor)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/17/rebot-arm-b601-dm-an-open-source-61-dof-robotic-arm-for-embodied-ai-and-teleoperation-applications/)
 
 ---
 
-### 3. Our lifestyle tech colleagues at Tom's Guide have overhauled their site for smarter shopping more video and access to experts make it 'the biggest relaunch in our history' 
+### 2. WiQwiic-32 A compact USB-C IoT board with eight Qwiic connectors (Crowdfunding) ⭐
 
-Our tech colleagues over at Tom's Guide just relaunched their homepage, with destination-focused features like a dedicated live feed for news and expert reactions, AI-infused shopping and upgrading tools, and more short-form video.
+WiQwiic-32 is a compact IoT board with ESP32-S3 and Qwiic connectors for easy prototyping.
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/our-lifestyle-tech-colleagues-at-toms-guide-have-overhauled-their-site-for-smarter-shopping-more-video-and-access-to-experts-make-it-the-biggest-relaunch-in-our-history)
+💡 *Compact IoT development board for streamlined AI and ML workloads.*
 
----
-
-### 4. PocketTerm35 A Raspberry Pi 4/5-based handheld Linux terminal with 3.5-inch touch display and built-in keyboard 
-
-PocketTerm35 is a portable handheld terminal with a 3.5-inch touchscreen display and built-in QWERTY keyboard, compatible with Raspberry Pi 4 and 5 single board computers.
-
-💡 *Raspberry Pi-based handheld Linux terminal simplifies portable computing and coding.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/14/pocketterm35-a-raspberry-pi-4-5-based-handheld-linux-terminal-with-3-5-inch-touch-display-and-built-in-keyboard/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/17/wiqwiic-32-a-compact-usb-c-iot-board-with-eight-qwiic-connectors/)
 
 ---
 
-### 5. Popular WordPress plugins backdoored after ownership change, putting thousands of websites at risk 
+### 3. Struggling shoemaker and apparel brand Albird pivots to AI data centers, stock jumps 580% in a single day sells core business and leveraging $50 million in financing to become a GPU-as-a-Service and AI cloud solutions provider 
 
-Popular WordPress plugins were backdoored after a change in ownership, putting thousands of websites at risk. The malicious code allows for the download and spread of malicious content. This supply chain attack was discovered by WordPress developer Austin Ginder.
+Albird pivots from apparel to AI data centers, sees stock surge 580%.
 
-💡 *Thousands of websites vulnerable to malicious code injection due to plugin backdoors.*
+💡 *Disruption of traditional industries by innovative tech pivots.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112086-popular-wordpress-plugins-backdoored-after-ownership-change-putting.html)
-
----
-
-### 6. Duolingo stops evaluating workers based on how much AI they use 
-
-Duolingo is shifting focus to AI integration, eliminating contract workers.
-
-💡 *Contract worker elimination impacts labor market and job security.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112080-duolingo-stops-evaluating-workers-based-how-much-ai.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/struggling-shoemaker-and-apparel-brand-albird-pivots-to-ai-data-centers-stock-jumps-580-percent-in-a-single-day-sells-core-business-and-leveraging-usd50-million-in-financing-to-become-a-gpu-as-a-service-and-ai-cloud-solutions-provider)
 
 ---
 
-### 7. Memory cards and flash drives prices rocket 124%, some products peak at 261% jump increases from 2025 driven by AI chip shortage across a range of formats and capacities 
+### 4. New self-healing material can repair itself over 1,000 times, extend the lifespan of cars and aircraft 
 
-The prices of memory cards and flash drives have surged due to a NAND chip shortage, affecting a wide range of storage options. This shortage has driven price increases of up to 261% in some products. The shortage is expanding beyond traditional formats and capacities.
+A new self-healing material can repair itself over 1,000 times, extending the lifespan of cars and aircraft. This breakthrough addresses delamination in fiber reinforced polymer (FRP) materials. The new composite is designed to be tougher than traditional FRPs.
 
-💡 *Chip shortage disrupts widespread storage options, impacting consumers*
+💡 *Prevents structural failures, saving resources and environmental impact.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/memory-cards-and-flash-drives-prices-rocket-124-percent-some-products-peak-at-261-percent-jump-increases-from-2025-driven-by-ai-chip-shortage-across-a-range-of-formats-and-capacities)
-
----
-
-### 8. Netgear secures conditional approval from the FCC following router ban company can continue importing foreign-made routers through October 2027 
-
-Netgear secured a conditional approval from the FCC to release new router models, allowing it to import foreign-made routers until October 2027. The company can continue launching new models indefinitely if it maintains its approval. This means Netgear can continue to operate without major disruptions.
-
-💡 *Netgear's approval secures US router market share until 2027*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/netgear-secures-conditional-approval-from-the-fcc-following-router-ban-company-can-continue-importing-foreign-made-routers-through-october-2027)
+🔗 [Read Full Article](https://www.techspot.com/news/112095-new-self-healing-material-can-repair-itself-over.html)
 
 ---
 
-### 9. China tests deep-sea electro-hydrostatic actuator that can cut undersea cables at a depth of 3,500 meters state hails successful trial and hints at deployment readiness 
+### 5. Japan's bullet train to debut high-tech private cabins, for an added fee 
 
-China has successfully tested a deep-sea electro-hydrostatic actuator to cut undersea cables at 3,500 meters.
+Japan's bullet train to debut high-tech private cabins for an added fee, offering improved remote working conditions and internet performance.
 
-💡 *Potential for China to disrupt global undersea communications and data transmission.*
+💡 *Enhancing business travel experience with exclusive high-tech amenities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-tests-deep-sea-electro-hydrostatic-actuator-that-can-cut-undersea-cables-at-a-depth-of-3-500-meters-state-hails-successful-trial-and-hints-at-deployment-readiness)
-
----
-
-### 10. Microsoft counters MacBook Neo with free Game Pass and Office bundle on Windows laptops 
-
-Microsoft offers a bundle deal with free services for Windows laptop purchases. Eligible college students can receive Microsoft 365 Premium, Xbox Game Pass Ultimate, and a customized Xbox controller for free. This promotion targets the MacBook Neo market.
-
-💡 *Microsoft counters MacBook Neo with a competitive value proposition.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112090-microsoft-counters-macbook-neo-free-game-pass-office.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112098-japan-bullet-train-debut-high-tech-private-cabins.html)
 
 ---
 
-### 11. Recordly brings Screen Studio-style recordings to a free, open-source app 
+### 6. Open-source tool decrypts all private data collected by Windows Recall on Copilot PCs 
 
-Recordly offers free, screen capture and editing tools with motion effects.
+A security researcher has released an updated tool that can bypass Windows Recall's protections, accessing private user data.
 
-💡 *Free alternative to paid screen recording software like Screen Studio.*
+💡 *Private user data remains vulnerable to exploitation by security researchers.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7860-recordly.html)
-
----
-
-### 12. Someone finally got an RTX 5090 running on a Mac no hacks required 
-
-Tiny Corp has developed an open-source Nvidia GPU driver, TinyGPU, for Macs, signed by Apple, eliminating the need for workarounds.
-
-💡 *Macs can now run Nvidia GPUs with native, hack-free support.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112082-someone-finally-got-rtx-5090-running-mac-no.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112087-open-source-tool-decrypts-all-private-data-collected.html)
 
 ---
 
-### 13. Will AI agents need to buy their own software licenses? Microsoft sure hopes so 
+### 7. Intel brings 18A process to budget laptops with new Core Series 3 CPUs 
 
-Microsoft proposes AI agents buying software licenses as company employees.
+Intel introduces Core Series 3 CPUs for budget laptops with 18A process, offering performance gains over older PCs and previous-generation low-power Core processors.
 
-💡 *AI accountability and revenue streams for companies like Microsoft.*
+💡 *Upgrade path for small businesses and home users with significant performance boosts.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112072-ai-agents-need-buy-their-own-software-licenses.html)
-
----
-
-### 14. Nvidia warranty payouts surged 1,000% last year, not that they can't afford it 
-
-Nvidia's warranty payouts surged 11-fold to $894 million in 2025, largely due to power cable issues in a new product.
-
-💡 *Rapidly increasing warranty claims expose a product's reliability and manufacturing quality.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112074-nvidia-warranty-payouts-surged-1000-last-year-not.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112093-intel-core-series-3-targets-affordable-pcs-ai.html)
 
 ---
 
-### 15. Netgear becomes first router brand exempt from FCC foreign-made ban 
+### 8. AMD Ryzen 9 9950X3D2 appears on Amazon with $1,000 pre-order price AMD confirms recommended pricing is still set at $899 [Updated] 
 
-Netgear becomes the first router brand exempt from the FCC's foreign-made ban. The agency granted conditional approval for Netgear's Nighthawk, Orbi, CAX, and CM products through October 1, 2027. This decision allows Netgear to continue importing these products.
+AMD's Ryzen 9 9950X3D2 is listed on Amazon at $1,000, $100 above the recommended price of $899. This discrepancy has sparked attention among tech enthusiasts and buyers. The CPU has started appearing at retailers with varying prices.
 
-💡 *First exemption granted for foreign-made routers under FCC ban*
+💡 *Retailers are pricing CPUs above AMD's recommended retail price*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112078-netgear-becomes-first-router-brand-exempt-fcc-foreign.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x3d2-appears-on-amazon-with-usd1-000-pre-order-price-amd-confirms-recommended-pricing-is-still-set-at-usd899)
 
 ---
 
-### 16. Edge AI outlook viewed with cautious optimism 
+### 9. AMD's market cap hits all-time high, Intel hits 25-year high on Agentic AI's insatiable demand for CPUs 
 
-Edge AI has reached the early deployment stage after years of trials, according to Lattice. This milestone marks a significant shift in the technology's adoption and potential applications. Early deployments will likely drive innovation and improvement.
+AMD and Intel stocks surge due to AI-driven CPU demand growth. The insatiable need for central processing units by AI systems is fueling a positive market sentiment. This trend is driving both companies' stocks to historic highs.
 
-💡 *Edge AI's early deployment paves the way for widespread adoption.*
+💡 *AI's CPU demand fuels unprecedented growth for chipmakers*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/edge-ai-outlook-viewed-cautious-optimism)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-market-cap-hits-all-time-high-intel-hits-25-year-high-on-agentic-ais-insatiable-demand-for-cpus)
+
+---
+
+### 10. Meta raising Quest headset prices due to AI-driven RAM shortage Quest 3 to cost $600, Quest 3S $350 from April 19 
+
+Meta raises Quest 3 and 3S prices due to AI-driven RAM shortage. The Quest 3 will now cost $600 and the Quest 3S will be $350. This change is effective from April 19.
+
+💡 *Rising AI demand devalues Meta's affordable VR offerings*
+
+🔗 [Read Full Article](https://www.tomshardware.com/virtual-reality/meta-raising-quest-headset-prices-due-to-ai-driven-ram-shortage-quest-3-to-cost-usd600-quest-3s-usd350-from-april-19)
+
+---
+
+### 11. US appeals court restarts $3 billion patent infringement lawsuit against Intel VLSI case from 2017 returns after court sets aside 2024 decision 
+
+A $3 billion patent infringement lawsuit against Intel is being reevaluated by a jury after a US appeals court found it unsuitable for summary judgment. The case originated in 2017. It will now proceed to a district court.
+
+💡 *Juries will now decide Intel's liability in patent infringement dispute.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/us-appeals-court-restarts-usd3-billion-patent-infringement-lawsuit-against-intel-vlsi-case-from-2017-returns-after-court-sets-aside-2024-decision)
+
+---
+
+### 12. Score 64GB of G.Skill DDR5 and a 1TB 990 Pro for an insane $441 in this Newegg bundle 9800X3D and X870E motherboard also comes with a free AIO, just $1,299 to start an AM5 gaming build 
+
+Newegg offers a combo bundle with a Ryzen 7 9800X3D CPU, 64GB DDR5 RAM, 1TB 990 Pro SSD, and Asus X870E-E motherboard for $1,299.99, including a free AIO.
+
+💡 *A high-performance gaming build at a competitive starting price point*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/score-64gb-of-g-skill-ddr5-and-a-1tb-990-pro-for-an-insane-usd441-in-this-newegg-bundle-9800x3d-and-x870e-motherboard-also-comes-with-a-free-aio-just-usd1-299-to-start-an-am5-gaming-build)
+
+---
+
+### 13. Anonymous perps behind 86 million files scraped from Spotify hit with $322 million court judgement Anna's Archive case presents intriguing precedent for AI training 
+
+A U.S. judge awarded $322 million to Spotify and labels in a default judgment against Anna's Archive for scraping 86 million files.
+
+💡 *Default judgment sets precedent for AI training data rights enforcement.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/annas-archive-fined-322-million)
+
+---
+
+### 14. Oklahoma farmer arrested and jailed for trespassing during AI data center town hall removed by officers after going a few seconds over allotted speaking time, trying to hand paperwork to counselors 
+
+Darren Blanchard, an Oklahoma farmer, was arrested for trespassing during a town hall meeting for exceeding the allotted time limit to discuss concerns over a data center project.
+
+💡 *Free speech and public expression can be restricted in certain settings.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/oklahoma-farmer-arrested-and-jailed-for-trespassing-during-ai-data-center-town-hall-removed-by-officers-after-going-a-few-seconds-over-allotted-speaking-time-trying-to-hand-paperwork-to-counselors)
+
+---
+
+### 15. Memory card and flash drive pricing surges 120%, with some models spiking 260% 
+
+Memory card and USB drive prices have surged by 123% compared to last year.
+
+💡 *Soaring prices impact consumers and industries reliant on storage technology.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112097-memory-card-flash-drive-prices-surge-up-123.html)
+
+---
+
+### 16. Your Airbnb host might actually be AI 
+
+An AI system is being used to manage Airbnb properties, responding to guest messages, and potentially replacing human hosts.
+
+💡 *Rise of AI host management threatens traditional human host business models.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112088-airbnb-host-might-actually-ai.html)
 
 ---
 

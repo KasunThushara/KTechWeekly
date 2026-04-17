@@ -1,65 +1,85 @@
 # ⚡ Semiconductors
-**Week of April 16, 2026**
+**Week of April 17, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-04-16 10:02
+- **Articles this week:** 7
+- **Report generated:** 2026-04-17 10:00
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. LimeSDR Micro M.2 2280 SDR card pairs NXP LA9310 baseband processor with LMS7002M RF transceiver (Crowdfunding) ⭐
+### 1. reBot Arm B601-DM An open-source 6+1 DoF robotic arm for embodied AI and teleoperation applications ⭐
 
-The LimeSDR Micro M.2 2280 combines an NXP LA9310 baseband processor with a Lime Microsystems LMS7002M RF transceiver, targeting portable or embedded solutions with a spare M.2 PCIe Gen3 x1 socket. It supports a 30 MHz to 3.8 GHz frequency range and up to 100 MHz bandwidth. This SDR card is suitable for various applications such as 4G LTE/5G, future RAN research, and custom user equipment.
+The Seeed Studio reBot Arm B601-DM is a fully open-source 6-axis robotic arm with a parallel gripper, designed for embodied AI learning and teleoperation applications, offering high precision and compatibility with major AI and robotics frameworks.
 
-💡 *Enabling flexible, high-performance wireless research and development*
+💡 *Breaking barriers for AI and robotics research through open-source design.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/15/limesdr-micro-m-2-2280-sdr-card-pairs-nxp-la9310-baseband-processor-with-lms7002m-rf-transceiver/)
-
----
-
-### 2. ADLINK OSM-MTK520 A MediaTek Genio 520-based OSM Size-L system-on-module 
-
-ADLINK OSM-MTK520 is a 45 x 45mm OSM Size-L system-on-module with a MediaTek Genio 520 AIoT processor, featuring 10 TOPS NPU for Edge AI workloads and improved storage and memory capabilities compared to its predecessor.
-
-💡 *Enhanced AI capabilities for Edge AI workloads at an affordable price.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/16/adlink-osm-mtk520-mediatek-genio-520-based-osm-size-l-system-on-module/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/17/rebot-arm-b601-dm-an-open-source-61-dof-robotic-arm-for-embodied-ai-and-teleoperation-applications/)
 
 ---
 
-### 3. IP65-rated TWOWIN T808P-G Edge AI computer features 8x GMSL2 cameras, aviation-grade M12/M16 connectors 
+### 2. Chinese fabs import record volumes of US chipmaking equipment via Singapore and Malaysia homegrown tool makers booked record 2025 revenues as price competition squeezes margins 
 
-TWOWIN Technology introduces the TW-T808P-G, an IP65-rated edge AI computer with 8x GMSL2 cameras and aviation-grade connectors for industrial and smart infrastructure applications.
+Chinese chipmaking equipment firms Naura, AMEC, ACM Research, and Piotech posted record revenues in 2025.
 
-💡 *Enhanced AI performance for rugged, real-time industrial and infrastructure monitoring.*
+💡 *Price competition squeezes margins for Chinese chip equipment makers.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/16/ip65-rated-twowin-t808p-g-edge-ai-computer-features-8x-gmsl2-cameras-aviation-grade-m12-m16-connectors/)
-
----
-
-### 4. YMTC's third Wuhan fab clears Beijing's 50% local tooling threshold as two more are planned move positions company toward 3D NAND production to capitalize on wafer bonding strengths 
-
-YMTC's Wuhan fab is expected to start operations late this year, meeting China's 50% local tooling threshold. This milestone marks the first leading-edge memory plant built to comply with the requirement. The move is a step towards 3D NAND production.
-
-💡 *Capitalizing on wafer bonding strengths drives YMTC's 3D NAND production plans*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/ymtcs-third-wuhan-fab-clears-beijings-50-percent-domestic-tooling-threshold-as-two-more-are-planned)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinese-chip-tool-makers-booked-record-2025-revenues)
 
 ---
 
-### 5. Memory cards and flash drives prices rocket 124%, some products peak at 261% jump increases from 2025 driven by AI chip shortage across a range of formats and capacities 
+### 3. Two US citizens get combined 16 years in prison for running North Korean laptop farms fake remote IT work scheme netted DPRK $5 million in around three years 
 
-The prices of memory cards and flash drives have surged due to a NAND chip shortage, affecting a wide range of storage options. This shortage has driven price increases of up to 261% in some products. The shortage is expanding beyond traditional formats and capacities.
+Two US nationals were sentenced to 16 years in prison for running a scheme where North Korean workers posed as Americans and worked at US tech firms, earning the DPRK $5 million in three years.
 
-💡 *Chip shortage disrupts widespread storage options, impacting consumers*
+💡 *North Korea's exploitation of US tech to bypass sanctions continues*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/memory-cards-and-flash-drives-prices-rocket-124-percent-some-products-peak-at-261-percent-jump-increases-from-2025-driven-by-ai-chip-shortage-across-a-range-of-formats-and-capacities)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/two-us-citizens-get-combined-18-years-in-prison-for-running-north-korean-laptop-farms-fake-remote-it-work-scheme-netted-dprk-usd5-million-in-around-three-years)
+
+---
+
+### 4. Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact, low-power SBC based on Microchip SAMA5D57 SiP 
+
+The Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact single board computer with a Microchip SAMA5D27 Arm Cortex-A5 processor, suitable for IoT and edge computing applications.
+
+💡 *Enables efficient, low-power edge computing for IoT devices and smart systems.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/16/conclusive-engineering-kstr-sama5d27-ultra-compact-sbc-microchip-sama5d57-sip/)
+
+---
+
+### 5. Legendary Qualcomm, Apple, and Nuvia alumni form new CPU startup Nuvacore promises to 'rewrite the rules of silicon' 
+
+Three high-profile ex-employees from Apple and Nuvia founded Nuvacore, a startup that aims to revolutionize the CPU industry by developing clean-sheet CPUs for AI workloads.
+
+💡 *AI-centric CPU design could boost efficiency in compute-intensive applications significantly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon)
+
+---
+
+### 6. Oklahoma farmer arrested and jailed for trespassing during AI data center town hall removed by officers after going a few seconds over allotted speaking time, trying to hand paperwork to counselors 
+
+Darren Blanchard, an Oklahoma farmer, was arrested for trespassing during a town hall meeting for exceeding the allotted time limit to discuss concerns over a data center project.
+
+💡 *Free speech and public expression can be restricted in certain settings.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/oklahoma-farmer-arrested-and-jailed-for-trespassing-during-ai-data-center-town-hall-removed-by-officers-after-going-a-few-seconds-over-allotted-speaking-time-trying-to-hand-paperwork-to-counselors)
+
+---
+
+### 7. PureMac is a new open-source macOS cleanup and app removal tool 
+
+PureMac is a free, open-source macOS cleanup tool offering advanced uninstallation features.
+
+💡 *Offers a privacy-focused alternative to paid cleaning software solutions.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7862-puremac.html)
 
 ---
 

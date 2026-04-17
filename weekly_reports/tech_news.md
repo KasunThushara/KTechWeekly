@@ -1,123 +1,85 @@
 # 📰 Tech News
-**Week of April 16, 2026**
+**Week of April 17, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-04-16 10:02
+- **Articles this week:** 7
+- **Report generated:** 2026-04-17 10:00
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB Review: RAM customization made easy ⭐
+### 1. Intel launches Wildcat Lake as Core Series 3 for value laptops and edge systems six consumer SKUs built on 18A promise 'all-day' battery life 
 
-The Corsair Vengeance RGB Custom Lab allows customers to personalize their RAM modules with unique designs and themes. This program offers a level of customization not often seen in the industry. The Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB is a prime example of this.
+Intel launches Core Series 3 mobile processors, branding Wildcat Lake silicon officially. These processors promise 'all-day' battery life for value laptops and edge systems. Six consumer SKUs are built on the 18A architecture.
 
-💡 *Personalized RAM modules set buyers apart from generic memory kits.*
+💡 *Enhanced battery life for budget-friendly laptops and edge computing devices*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/corsair-vengeance-rgb-custom-lab-cherry-blossom-ddr5-6000-c36-2x16gb-review)
-
----
-
-### 2. Enermax Platimax II 1200DF power supply review: Powerful with Platinum level efficiency 
-
-The Enermax Platimax II 1200DF delivers Platinum-level efficiency and 13-year warranty, but with a limited connector loadout.
-
-💡 *High efficiency and warranty outweighs limited connector options slightly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/enermax-platimax-ii-1200df-power-supply-review)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-launches-wildcat-lake-as-core-series-3)
 
 ---
 
-### 3. Our lifestyle tech colleagues at Tom's Guide have overhauled their site for smarter shopping more video and access to experts make it 'the biggest relaunch in our history' 
+### 2. New self-healing material can repair itself over 1,000 times, extend the lifespan of cars and aircraft 
 
-Our tech colleagues over at Tom's Guide just relaunched their homepage, with destination-focused features like a dedicated live feed for news and expert reactions, AI-infused shopping and upgrading tools, and more short-form video.
+A new self-healing material can repair itself over 1,000 times, extending the lifespan of cars and aircraft. This breakthrough addresses delamination in fiber reinforced polymer (FRP) materials. The new composite is designed to be tougher than traditional FRPs.
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/our-lifestyle-tech-colleagues-at-toms-guide-have-overhauled-their-site-for-smarter-shopping-more-video-and-access-to-experts-make-it-the-biggest-relaunch-in-our-history)
+💡 *Prevents structural failures, saving resources and environmental impact.*
 
----
-
-### 4. Reminder: enable ZRAM on your Linux system to optimize RAM usage (and potentially save money) 
-
-Enabling ZRAM on Linux optimizes RAM usage and saves memory constraints. This can potentially save money on memory upgrades or lower the cost of single board computers. It also improves system performance by reducing memory crashes.
-
-💡 *Optimizing RAM usage with ZRAM reduces memory crashes and costs.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/)
+🔗 [Read Full Article](https://www.techspot.com/news/112095-new-self-healing-material-can-repair-itself-over.html)
 
 ---
 
-### 5. Popular WordPress plugins backdoored after ownership change, putting thousands of websites at risk 
+### 3. Quantum photonics roadmap how Xanadu and PsiQuantum are looking to transfer qubits through beams of light 
 
-Popular WordPress plugins were backdoored after a change in ownership, putting thousands of websites at risk. The malicious code allows for the download and spread of malicious content. This supply chain attack was discovered by WordPress developer Austin Ginder.
+Xanadu and PsiQuantum are advancing quantum photonic communications through qubit transfer via light beams, paving the way for scalable quantum networks beyond 2029. Their approaches leverage the unique properties of photons to enable faster, more secure data transmission. This technology has the potential to revolutionize the field of quantum computing and cryptography.
 
-💡 *Thousands of websites vulnerable to malicious code injection due to plugin backdoors.*
+💡 *Scalable quantum networks enabled by photonic qubit transfer matter*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112086-popular-wordpress-plugins-backdoored-after-ownership-change-putting.html)
-
----
-
-### 6. Alienware launches $350 QD-OLED monitor with lower brightness to cut costs 
-
-Alienware launches a budget QD-OLED monitor with lower brightness for cost savings.
-
-💡 *Alienware compromises on brightness for more affordable OLED gaming option.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112083-alienware-launches-350-qd-oled-monitor-lower-brightness.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/quantum-computing/quantum-photonics-roadmap-how-xanadu-and-psiquantum-are-looking-to-transfer-qubits-through-beams-of-light)
 
 ---
 
-### 7. Duolingo stops evaluating workers based on how much AI they use 
+### 4. Bambu updates its 3D printers to print unique hues or gradients using two or three filaments company acknowledges OrcaSlicer-FullSpectrum fork as the basis for the color prediction part of the new feature 
 
-Duolingo is shifting focus to AI integration, eliminating contract workers.
+Bambu Studio V2.5.3 introduces Mixed Filament and Gradient features, allowing for unique color combinations and smooth transitions between hues.
 
-💡 *Contract worker elimination impacts labor market and job security.*
+💡 *Enhanced color possibilities in 3D printing technology emerges.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112080-duolingo-stops-evaluating-workers-based-how-much-ai.html)
-
----
-
-### 8. Netgear secures conditional approval from the FCC following router ban company can continue importing foreign-made routers through October 2027 
-
-Netgear secured a conditional approval from the FCC to release new router models, allowing it to import foreign-made routers until October 2027. The company can continue launching new models indefinitely if it maintains its approval. This means Netgear can continue to operate without major disruptions.
-
-💡 *Netgear's approval secures US router market share until 2027*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/netgear-secures-conditional-approval-from-the-fcc-following-router-ban-company-can-continue-importing-foreign-made-routers-through-october-2027)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/bambu-updates-its-3d-printers-to-print-unique-hues-or-gradients-using-two-or-three-filaments-company-acknowledges-orcaslicer-fullspectrum-fork-as-the-basis-for-the-color-prediction-part-of-the-new-feature)
 
 ---
 
-### 9. China tests deep-sea electro-hydrostatic actuator that can cut undersea cables at a depth of 3,500 meters state hails successful trial and hints at deployment readiness 
+### 5. Virginia voter support for new data centers collapses from 69% in 2023 to 35% in new poll Multi-gigawatt, 37-building Digital Gateway project abandoned 
 
-China has successfully tested a deep-sea electro-hydrostatic actuator to cut undersea cables at 3,500 meters.
+Virginia voters' support for new data centers drops from 69% to 35% in a year, indicating growing concerns about the impact of large-scale data center projects.
 
-💡 *Potential for China to disrupt global undersea communications and data transmission.*
+💡 *Community opposition rises against multi-gigawatt data center development plans.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-tests-deep-sea-electro-hydrostatic-actuator-that-can-cut-undersea-cables-at-a-depth-of-3-500-meters-state-hails-successful-trial-and-hints-at-deployment-readiness)
-
----
-
-### 10. Iran reportedly bought an in-orbit Chinese satellite to target US military sites in the Middle East purchase agreement included ongoing ground control services based in China 
-
-Leaked documents reveal Iran's IRGC Aerospace Force is using a Chinese satellite to gather intel on U.S. bases in the Middle East for potential targeting by drones and missiles. This satellite is reportedly being controlled from China. The agreement includes ongoing ground control services.
-
-💡 *Iran's access to Chinese satellite technology compromises U.S. regional security*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/iran-reportedly-bought-an-in-orbit-chinese-satellite-to-target-us-military-sites-in-the-middle-east-purchase-agreement-included-ongoing-ground-control-services-based-in-china)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/virginia-voter-support-for-new-data-centers-collapses-to-35-percent)
 
 ---
 
-### 11. Google adds Rust to Pixel 10 modem to block attacks at one of Android's weakest points 
+### 6. IPv6 usage reaches historic 50% across Google services, matching IPv4 increased usage eases pressure on the IPv4 address market as 'new' protocol designed in 1998 finally hits its stride 
 
-Google has added Rust to the Pixel 10 modem to improve security. The modem's baseband is its own OS, vulnerable to attacks. Rust helps block attacks at one of Android's weakest points.
+IPv6 usage has reached 50% across Google services, a historic milestone. This milestone marks a significant shift towards utilizing the 'new' protocol designed in 1998. The increased usage is expected to ease pressure on the IPv4 address market.
 
-💡 *Android's cellular modems have proprietary, insecure code that's a security risk.*
+💡 *IPv6 adoption finally hits stride after nearly three decades.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112071-google-adds-rust-pixel-10-modem-block-attacks.html)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/ipv6-usage-reaches-historic-50-percent-across-google-services-matching-ipv4-increased-usage-eases-pressure-on-the-ipv4-address-market-as-new-protocol-designed-in-1998-finally-hits-its-stride)
+
+---
+
+### 7. Engineer open-sources DIY radar system that's 95% cheaper than $250,000 commercial offerings, has 20 kilometer range Moroccan engineer designs Aeris-10 radar, shares it on GitHub 
+
+Moroccan engineer has designed an open-source radar system, the Aeris-10, which is 95% cheaper than commercial offerings.
+
+💡 *Affordable open-source technology democratizes access to advanced radar systems.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/open-source-radar-system-is-95-percent-cheaper-than-usd250-000-commercial-offerings-has-20-kilometer-range-moroccan-engineer-designs-aeris-10-radar-shares-it-on-github)
 
 ---
 

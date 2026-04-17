@@ -1,155 +1,175 @@
 # 💻 Hardware
-**Week of April 16, 2026**
+**Week of April 17, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-04-16 10:02
+- **Articles this week:** 16
+- **Report generated:** 2026-04-17 10:00
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel Core Ultra X7 358H-powered open robotics development system targets humanoid robots and autonomous vehicles ⭐
+### 1. Asus TUF Gaming A14 (2026) review: Big CPU power in a mispriced gaming laptop ⭐
 
-AAEON's CEXD-INTRBL system is an open robotics development platform powered by Intel's 16-core Ultra X7 358H SoC. It's designed for humanoid robots and autonomous vehicle development, featuring AI acceleration and high-speed connectivity. The system is suitable for edge AI applications.
+The Asus TUF Gaming A14 boasts a powerful CPU but underperforms in gaming.
 
-💡 *Advancing AI-powered robotics for industrial and autonomous applications.*
+💡 *Underwhelming gaming performance erodes its value as a gaming laptop.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/16/intel-core-ultra-x7-358h-powered-open-robotics-development-system-targets-humanoid-robots-and-autonomous-vehicles/)
-
----
-
-### 2. LimeSDR Micro M.2 2280 SDR card pairs NXP LA9310 baseband processor with LMS7002M RF transceiver (Crowdfunding) ⭐
-
-The LimeSDR Micro M.2 2280 combines an NXP LA9310 baseband processor with a Lime Microsystems LMS7002M RF transceiver, targeting portable or embedded solutions with a spare M.2 PCIe Gen3 x1 socket. It supports a 30 MHz to 3.8 GHz frequency range and up to 100 MHz bandwidth. This SDR card is suitable for various applications such as 4G LTE/5G, future RAN research, and custom user equipment.
-
-💡 *Enabling flexible, high-performance wireless research and development*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/15/limesdr-micro-m-2-2280-sdr-card-pairs-nxp-la9310-baseband-processor-with-lms7002m-rf-transceiver/)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/asus-tuf-gaming-a14-2026-review)
 
 ---
 
-### 3. Elon Musk demonstrates first sample of Tesla AI5 processor, accidentally thanks TSC rather than TSMC claims 40X performance boost over the predecessor 
+### 2. WiQwiic-32 A compact USB-C IoT board with eight Qwiic connectors (Crowdfunding) ⭐
 
-Elon Musk unveiled the first Tesla AI5 processor sample, boasting a 40X performance boost over its predecessor. The new processor features a 384-bit memory interface. Next-generation AI6 and Dojo 3 processors are in development.
+WiQwiic-32 is a compact IoT board with ESP32-S3 and Qwiic connectors for easy prototyping.
 
-💡 *Tesla's AI5 offers significant performance improvement for AI applications*
+💡 *Compact IoT development board for streamlined AI and ML workloads.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-demonstrates-first-sample-of-tesla-ai5-processor-accidentally-thanks-tsc-rather-than-tsmc-claims-40x-performance-boost-over-the-predecessor)
-
----
-
-### 4. Enermax Platimax II 1200DF power supply review: Powerful with Platinum level efficiency 
-
-The Enermax Platimax II 1200DF delivers Platinum-level efficiency and 13-year warranty, but with a limited connector loadout.
-
-💡 *High efficiency and warranty outweighs limited connector options slightly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/enermax-platimax-ii-1200df-power-supply-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/17/wiqwiic-32-a-compact-usb-c-iot-board-with-eight-qwiic-connectors/)
 
 ---
 
-### 5. ADLINK OSM-MTK520 A MediaTek Genio 520-based OSM Size-L system-on-module 
+### 3. Intel Core Series 3 Wildcat Lake processor family launched for entry-level laptops and Edge AI systems ⭐
 
-ADLINK OSM-MTK520 is a 45 x 45mm OSM Size-L system-on-module with a MediaTek Genio 520 AIoT processor, featuring 10 TOPS NPU for Edge AI workloads and improved storage and memory capabilities compared to its predecessor.
+Intel launches the Core Series 3 Wildcat Lake processor family, aimed at entry-level laptops and Edge AI systems. This family features up to six cores, Intel Xe 3 graphics, and LPDDR5x/DDR5 memory interfaces. The Platform controller tile integrates various connectivity options, including WiFi 7 and Bluetooth 6.0.
 
-💡 *Enhanced AI capabilities for Edge AI workloads at an affordable price.*
+💡 *Intel brings AI-ready and efficient processing to entry-level devices and systems.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/16/adlink-osm-mtk520-mediatek-genio-520-based-osm-size-l-system-on-module/)
-
----
-
-### 6. IP65-rated TWOWIN T808P-G Edge AI computer features 8x GMSL2 cameras, aviation-grade M12/M16 connectors 
-
-TWOWIN Technology introduces the TW-T808P-G, an IP65-rated edge AI computer with 8x GMSL2 cameras and aviation-grade connectors for industrial and smart infrastructure applications.
-
-💡 *Enhanced AI performance for rugged, real-time industrial and infrastructure monitoring.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/16/ip65-rated-twowin-t808p-g-edge-ai-computer-features-8x-gmsl2-cameras-aviation-grade-m12-m16-connectors/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/17/intel-core-series-3-wildcat-lake-processor-family-launched-for-entry-level-laptops-and-edge-ai-systems/)
 
 ---
 
-### 7. Orange Pi Zero 3W An Allwinner A733 SBC in Raspberry Pi Zero form factor 
+### 4. Pragmata PC performance tested: 18 GPUs take us to the Moon 
 
-The Orange Pi Zero 3W is a Raspberry Pi Zero-sized SBC featuring an Allwinner A733 SoC with up to 16GB of LPDDR5 RAM, offering a range of connectivity options and expandability features.
+Capcom's Pragmata offers a unique blend of gunplay and puzzle solving on the Moon, with 3D printed environments. We tested 18 different GPUs for performance in rasterization, ray tracing, and path tracing. This helps players find the best hardware for a smooth gaming experience.
 
-💡 *Affordable, high-performance computing for embedded and IoT applications.*
+💡 *Optimal GPU selection is crucial for a visually stunning gaming experience.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/15/orange-pi-zero-3w-an-allwinner-a733-sbc-in-raspberry-pi-zero-form-factor/)
-
----
-
-### 8. Reminder: enable ZRAM on your Linux system to optimize RAM usage (and potentially save money) 
-
-Enabling ZRAM on Linux optimizes RAM usage and saves memory constraints. This can potentially save money on memory upgrades or lower the cost of single board computers. It also improves system performance by reducing memory crashes.
-
-💡 *Optimizing RAM usage with ZRAM reduces memory crashes and costs.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/pragmata-pc-performance-review)
 
 ---
 
-### 9. PocketTerm35 A Raspberry Pi 4/5-based handheld Linux terminal with 3.5-inch touch display and built-in keyboard 
+### 5. Two US citizens get combined 16 years in prison for running North Korean laptop farms fake remote IT work scheme netted DPRK $5 million in around three years 
 
-PocketTerm35 is a portable handheld terminal with a 3.5-inch touchscreen display and built-in QWERTY keyboard, compatible with Raspberry Pi 4 and 5 single board computers.
+Two US nationals were sentenced to 16 years in prison for running a scheme where North Korean workers posed as Americans and worked at US tech firms, earning the DPRK $5 million in three years.
 
-💡 *Raspberry Pi-based handheld Linux terminal simplifies portable computing and coding.*
+💡 *North Korea's exploitation of US tech to bypass sanctions continues*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/14/pocketterm35-a-raspberry-pi-4-5-based-handheld-linux-terminal-with-3-5-inch-touch-display-and-built-in-keyboard/)
-
----
-
-### 10. Intel Nova Lake-S is coming after Ryzen APUs with a 16-core iGPU for gamers on a budget 
-
-Intel's Nova Lake-S CPU lineup will feature a 16-core iGPU for budget gamers. The chip includes 4 high-performance and 8 efficiency CPU cores. It has 12 Xe3P cores in the integrated graphics unit.
-
-💡 *Budget gaming options with powerful integrated graphics now available*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112081-intel-nova-lake-s-coming-after-ryzen-apus.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/two-us-citizens-get-combined-18-years-in-prison-for-running-north-korean-laptop-farms-fake-remote-it-work-scheme-netted-dprk-usd5-million-in-around-three-years)
 
 ---
 
-### 11. Alienware launches $350 QD-OLED monitor with lower brightness to cut costs 
+### 6. Intel launches Wildcat Lake as Core Series 3 for value laptops and edge systems six consumer SKUs built on 18A promise 'all-day' battery life 
 
-Alienware launches a budget QD-OLED monitor with lower brightness for cost savings.
+Intel launches Core Series 3 mobile processors, branding Wildcat Lake silicon officially. These processors promise 'all-day' battery life for value laptops and edge systems. Six consumer SKUs are built on the 18A architecture.
 
-💡 *Alienware compromises on brightness for more affordable OLED gaming option.*
+💡 *Enhanced battery life for budget-friendly laptops and edge computing devices*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112083-alienware-launches-350-qd-oled-monitor-lower-brightness.html)
-
----
-
-### 12. Astonishing bundle makes 64GB of DDR5 RAM just $216, $100 cheaper than 32GB get a 9800X3D, G.Skill Ripjaws S5 DDR5-6000 RAM, case, motherboard, and CPU cooler for just $999 
-
-Newegg offers a bundle deal that makes 64GB DDR5 RAM affordable at $216.01, $100 cheaper than 32GB. The bundle includes a 9800X3D, G.Skill Ripjaws S5 DDR5-6000 RAM, case, motherboard, and CPU cooler for $999. This deal offsets the price of the RAM kit.
-
-💡 *High-capacity DDR5 RAM becomes more accessible for consumers suddenly*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/astonishing-bundle-makes-64gb-of-ddr5-ram-just-usd216-usd100-cheaper-than-32gb-get-a-9800x3d-g-skill-ripjaws-s5-ddr5-6000-ram-case-motherboard-and-cpu-cooler-for-just-usd999)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-launches-wildcat-lake-as-core-series-3)
 
 ---
 
-### 13. Microsoft counters MacBook Neo with free Game Pass and Office bundle on Windows laptops 
+### 7. Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact, low-power SBC based on Microchip SAMA5D57 SiP 
 
-Microsoft offers a bundle deal with free services for Windows laptop purchases. Eligible college students can receive Microsoft 365 Premium, Xbox Game Pass Ultimate, and a customized Xbox controller for free. This promotion targets the MacBook Neo market.
+The Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact single board computer with a Microchip SAMA5D27 Arm Cortex-A5 processor, suitable for IoT and edge computing applications.
 
-💡 *Microsoft counters MacBook Neo with a competitive value proposition.*
+💡 *Enables efficient, low-power edge computing for IoT devices and smart systems.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112090-microsoft-counters-macbook-neo-free-game-pass-office.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/16/conclusive-engineering-kstr-sama5d27-ultra-compact-sbc-microchip-sama5d57-sip/)
 
 ---
 
-### 14. Recordly brings Screen Studio-style recordings to a free, open-source app 
+### 8. Open-source tool decrypts all private data collected by Windows Recall on Copilot PCs 
 
-Recordly offers free, screen capture and editing tools with motion effects.
+A security researcher has released an updated tool that can bypass Windows Recall's protections, accessing private user data.
 
-💡 *Free alternative to paid screen recording software like Screen Studio.*
+💡 *Private user data remains vulnerable to exploitation by security researchers.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7860-recordly.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112087-open-source-tool-decrypts-all-private-data-collected.html)
+
+---
+
+### 9. Intel brings 18A process to budget laptops with new Core Series 3 CPUs 
+
+Intel introduces Core Series 3 CPUs for budget laptops with 18A process, offering performance gains over older PCs and previous-generation low-power Core processors.
+
+💡 *Upgrade path for small businesses and home users with significant performance boosts.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112093-intel-core-series-3-targets-affordable-pcs-ai.html)
+
+---
+
+### 10. How Intel Got Into Trouble: We Test the Last Decade of Intel Flagship CPUs 
+
+We examine Intel's flagship CPUs from Kaby Lake to Core Ultra, analyzing design choices that impacted performance and power consumption over the past decade, ultimately contributing to the company's loss of market leadership.
+
+💡 *Intel's prioritization of power efficiency led to reduced raw performance*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3112-10-years-intel-flagship-cpus/)
+
+---
+
+### 11. AMD's market cap hits all-time high, Intel hits 25-year high on Agentic AI's insatiable demand for CPUs 
+
+AMD and Intel stocks surge due to AI-driven CPU demand growth. The insatiable need for central processing units by AI systems is fueling a positive market sentiment. This trend is driving both companies' stocks to historic highs.
+
+💡 *AI's CPU demand fuels unprecedented growth for chipmakers*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-market-cap-hits-all-time-high-intel-hits-25-year-high-on-agentic-ais-insatiable-demand-for-cpus)
+
+---
+
+### 12. Legendary Qualcomm, Apple, and Nuvia alumni form new CPU startup Nuvacore promises to 'rewrite the rules of silicon' 
+
+Three high-profile ex-employees from Apple and Nuvia founded Nuvacore, a startup that aims to revolutionize the CPU industry by developing clean-sheet CPUs for AI workloads.
+
+💡 *AI-centric CPU design could boost efficiency in compute-intensive applications significantly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon)
+
+---
+
+### 13. Score 64GB of G.Skill DDR5 and a 1TB 990 Pro for an insane $441 in this Newegg bundle 9800X3D and X870E motherboard also comes with a free AIO, just $1,299 to start an AM5 gaming build 
+
+Newegg offers a combo bundle with a Ryzen 7 9800X3D CPU, 64GB DDR5 RAM, 1TB 990 Pro SSD, and Asus X870E-E motherboard for $1,299.99, including a free AIO.
+
+💡 *A high-performance gaming build at a competitive starting price point*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/score-64gb-of-g-skill-ddr5-and-a-1tb-990-pro-for-an-insane-usd441-in-this-newegg-bundle-9800x3d-and-x870e-motherboard-also-comes-with-a-free-aio-just-usd1-299-to-start-an-am5-gaming-build)
+
+---
+
+### 14. Non-functioning counterfeit Samsung 990 Pro SSDs are circulating in Europe Despite convincing packaging, blue PCB easily gives away the dupe 
+
+Fake Samsung 990 Pro SSDs are circulating in Europe, despite convincing packaging. The clones were discovered after a buyer reported non-functioning devices in Austria. The counterfeit SSDs have a blue PCB that can be easily identified as fake.
+
+💡 *Counterfeit SSDs can cause financial loss and trust erosion in consumers.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/non-functioning-counterfeit-samsung-990-pro-ssds-are-circulating-in-europe-despite-convincing-packaging-blue-pcb-easily-gives-away-the-dupe)
+
+---
+
+### 15. Memory card and flash drive pricing surges 120%, with some models spiking 260% 
+
+Memory card and USB drive prices have surged by 123% compared to last year.
+
+💡 *Soaring prices impact consumers and industries reliant on storage technology.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112097-memory-card-flash-drive-prices-surge-up-123.html)
+
+---
+
+### 16. The 2026 PC and Console Gaming Report shows most revenue now comes from games outside the Top 20 
+
+The PC gaming market has shifted, with titles outside Top 20 now generating most revenue. This is reflected in Western PC markets, where spending from games ranked 21 and below rose to 56% in 2025. Total PC playtime also increased by 14% over the same period.
+
+💡 *Diversification and discovery drive growth in gaming revenue streams.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112092-2026-pc-console-gaming-report-shows-most-revenue.html)
 
 ---
 

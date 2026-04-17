@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 16, 2026**
+**Week of April 17, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,77 +7,77 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB Review: RAM customization made easy ⭐
+### 1. reBot Arm B601-DM An open-source 6+1 DoF robotic arm for embodied AI and teleoperation applications ⭐
 
 **🤖 AI & ML**
 
-The Corsair Vengeance RGB Custom Lab allows customers to personalize their RAM modules with unique designs and themes. This program offers a level of customization not often seen in the industry. The Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB is a prime example of this.
+The Seeed Studio reBot Arm B601-DM is a fully open-source 6-axis robotic arm with a parallel gripper, designed for embodied AI learning and teleoperation applications, offering high precision and compatibility with major AI and robotics frameworks.
 
-💡 **Key Point:** Personalized RAM modules set buyers apart from generic memory kits.
+💡 **Key Point:** Breaking barriers for AI and robotics research through open-source design.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ram/corsair-vengeance-rgb-custom-lab-cherry-blossom-ddr5-6000-c36-2x16gb-review)
-
----
-
-### 2. Intel Core Ultra X7 358H-powered open robotics development system targets humanoid robots and autonomous vehicles ⭐
-
-**💻 Hardware**
-
-AAEON's CEXD-INTRBL system is an open robotics development platform powered by Intel's 16-core Ultra X7 358H SoC. It's designed for humanoid robots and autonomous vehicle development, featuring AI acceleration and high-speed connectivity. The system is suitable for edge AI applications.
-
-💡 **Key Point:** Advancing AI-powered robotics for industrial and autonomous applications.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/16/intel-core-ultra-x7-358h-powered-open-robotics-development-system-targets-humanoid-robots-and-autonomous-vehicles/)
+🔗 [Read More](https://www.cnx-software.com/2026/04/17/rebot-arm-b601-dm-an-open-source-61-dof-robotic-arm-for-embodied-ai-and-teleoperation-applications/)
 
 ---
 
-### 3. LimeSDR Micro M.2 2280 SDR card pairs NXP LA9310 baseband processor with LMS7002M RF transceiver (Crowdfunding) ⭐
-
-**💻 Hardware**
-
-The LimeSDR Micro M.2 2280 combines an NXP LA9310 baseband processor with a Lime Microsystems LMS7002M RF transceiver, targeting portable or embedded solutions with a spare M.2 PCIe Gen3 x1 socket. It supports a 30 MHz to 3.8 GHz frequency range and up to 100 MHz bandwidth. This SDR card is suitable for various applications such as 4G LTE/5G, future RAN research, and custom user equipment.
-
-💡 **Key Point:** Enabling flexible, high-performance wireless research and development
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/15/limesdr-micro-m-2-2280-sdr-card-pairs-nxp-la9310-baseband-processor-with-lms7002m-rf-transceiver/)
-
----
-
-### 4. LimeSDR Micro M.2 2280 SDR card pairs NXP LA9310 baseband processor with LMS7002M RF transceiver (Crowdfunding) ⭐
+### 2. reBot Arm B601-DM An open-source 6+1 DoF robotic arm for embodied AI and teleoperation applications ⭐
 
 **⚡ Semiconductors**
 
-The LimeSDR Micro M.2 2280 combines an NXP LA9310 baseband processor with a Lime Microsystems LMS7002M RF transceiver, targeting portable or embedded solutions with a spare M.2 PCIe Gen3 x1 socket. It supports a 30 MHz to 3.8 GHz frequency range and up to 100 MHz bandwidth. This SDR card is suitable for various applications such as 4G LTE/5G, future RAN research, and custom user equipment.
+The Seeed Studio reBot Arm B601-DM is a fully open-source 6-axis robotic arm with a parallel gripper, designed for embodied AI learning and teleoperation applications, offering high precision and compatibility with major AI and robotics frameworks.
 
-💡 **Key Point:** Enabling flexible, high-performance wireless research and development
+💡 **Key Point:** Breaking barriers for AI and robotics research through open-source design.
 
-🔗 [Read More](https://www.cnx-software.com/2026/04/15/limesdr-micro-m-2-2280-sdr-card-pairs-nxp-la9310-baseband-processor-with-lms7002m-rf-transceiver/)
+🔗 [Read More](https://www.cnx-software.com/2026/04/17/rebot-arm-b601-dm-an-open-source-61-dof-robotic-arm-for-embodied-ai-and-teleoperation-applications/)
 
 ---
 
-### 5. Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB Review: RAM customization made easy ⭐
+### 3. Asus TUF Gaming A14 (2026) review: Big CPU power in a mispriced gaming laptop ⭐
 
-**📰 Tech News**
+**🎮 GPUs**
 
-The Corsair Vengeance RGB Custom Lab allows customers to personalize their RAM modules with unique designs and themes. This program offers a level of customization not often seen in the industry. The Corsair Vengeance RGB Custom Lab Cherry Blossom DDR5-6000 C36 2x16GB is a prime example of this.
+The Asus TUF Gaming A14 boasts a powerful CPU but underperforms in gaming.
 
-💡 **Key Point:** Personalized RAM modules set buyers apart from generic memory kits.
+💡 **Key Point:** Underwhelming gaming performance erodes its value as a gaming laptop.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ram/corsair-vengeance-rgb-custom-lab-cherry-blossom-ddr5-6000-c36-2x16gb-review)
+🔗 [Read More](https://www.tomshardware.com/laptops/gaming-laptops/asus-tuf-gaming-a14-2026-review)
+
+---
+
+### 4. Intel Core Series 3 Wildcat Lake processor family launched for entry-level laptops and Edge AI systems ⭐
+
+**🎮 GPUs**
+
+Intel launches the Core Series 3 Wildcat Lake processor family, aimed at entry-level laptops and Edge AI systems. This family features up to six cores, Intel Xe 3 graphics, and LPDDR5x/DDR5 memory interfaces. The Platform controller tile integrates various connectivity options, including WiFi 7 and Bluetooth 6.0.
+
+💡 **Key Point:** Intel brings AI-ready and efficient processing to entry-level devices and systems.
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/17/intel-core-series-3-wildcat-lake-processor-family-launched-for-entry-level-laptops-and-edge-ai-systems/)
+
+---
+
+### 5. WiQwiic-32 A compact USB-C IoT board with eight Qwiic connectors (Crowdfunding) ⭐
+
+**🤖 AI & ML**
+
+WiQwiic-32 is a compact IoT board with ESP32-S3 and Qwiic connectors for easy prototyping.
+
+💡 **Key Point:** Compact IoT development board for streamlined AI and ML workloads.
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/17/wiqwiic-32-a-compact-usb-c-iot-board-with-eight-qwiic-connectors/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **51 articles** across **5 focused categories**.
+We covered **52 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
 | 🤖 [AI & ML](ai_and_ml.md) | 16 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 11 | Industry news and product launches |
+| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 16 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
 
 ---
 
@@ -87,21 +87,21 @@ We covered **51 articles** across **5 focused categories**.
 *Artificial Intelligence and Machine Learning* — 16 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 5 articles
+*Graphics cards and compute accelerators* — 6 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 14 articles
+*Computing hardware and development boards* — 16 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 5 articles
+*Chip manufacturing and design* — 7 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 11 articles
+*Industry news and product launches* — 7 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-04-16 at 10:02 by an autonomous AI curation system.
+Generated 2026-04-17 at 10:00 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
