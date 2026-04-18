@@ -1,175 +1,155 @@
 # 💻 Hardware
-**Week of April 17, 2026**
+**Week of April 18, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 16
-- **Report generated:** 2026-04-17 10:00
+- **Articles this week:** 14
+- **Report generated:** 2026-04-18 09:34
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Asus TUF Gaming A14 (2026) review: Big CPU power in a mispriced gaming laptop ⭐
+### 1. Keychron V5 Ultra 8K Review: Budget-friendly 8K 
 
-The Asus TUF Gaming A14 boasts a powerful CPU but underperforms in gaming.
+The Keychron V5 Ultra 8K offers a budget-friendly wireless mechanical keyboard with impressive features like an 8,000 Hz polling rate and up to 660 hours of battery life.
 
-💡 *Underwhelming gaming performance erodes its value as a gaming laptop.*
+💡 *Budget-friendly 8K keyboard meets high-end performance expectations.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/asus-tuf-gaming-a14-2026-review)
-
----
-
-### 2. WiQwiic-32 A compact USB-C IoT board with eight Qwiic connectors (Crowdfunding) ⭐
-
-WiQwiic-32 is a compact IoT board with ESP32-S3 and Qwiic connectors for easy prototyping.
-
-💡 *Compact IoT development board for streamlined AI and ML workloads.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/17/wiqwiic-32-a-compact-usb-c-iot-board-with-eight-qwiic-connectors/)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-v5-ultra-8k-review)
 
 ---
 
-### 3. Intel Core Series 3 Wildcat Lake processor family launched for entry-level laptops and Edge AI systems ⭐
+### 2. Pironman 5 Pro Max Review A Raspberry Pi 5 Tower PC case with integrated video and audio capabilities, optional UPS kit 
 
-Intel launches the Core Series 3 Wildcat Lake processor family, aimed at entry-level laptops and Edge AI systems. This family features up to six cores, Intel Xe 3 graphics, and LPDDR5x/DDR5 memory interfaces. The Platform controller tile integrates various connectivity options, including WiFi 7 and Bluetooth 6.0.
+The Pironman 5 Pro Max is a Raspberry Pi 5 tower case with integrated display, camera, and audio features, and an optional UPS kit for power backup.
 
-💡 *Intel brings AI-ready and efficient processing to entry-level devices and systems.*
+💡 *Raspberry Pi 5 cases with integrated features enhance home automation and media capabilities.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/17/intel-core-series-3-wildcat-lake-processor-family-launched-for-entry-level-laptops-and-edge-ai-systems/)
-
----
-
-### 4. Pragmata PC performance tested: 18 GPUs take us to the Moon 
-
-Capcom's Pragmata offers a unique blend of gunplay and puzzle solving on the Moon, with 3D printed environments. We tested 18 different GPUs for performance in rasterization, ray tracing, and path tracing. This helps players find the best hardware for a smooth gaming experience.
-
-💡 *Optimal GPU selection is crucial for a visually stunning gaming experience.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/pragmata-pc-performance-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/18/pironman-5-pro-max-review-a-raspberry-pi-5-tower-pc-case-with-integrated-video-and-audio-capabilities-ups-kit/)
 
 ---
 
-### 5. Two US citizens get combined 16 years in prison for running North Korean laptop farms fake remote IT work scheme netted DPRK $5 million in around three years 
+### 3. Boardcon Tiny1126B is a smaller and lighter Rockchip RV1126B system-on-module, yet with more I/Os 
 
-Two US nationals were sentenced to 16 years in prison for running a scheme where North Korean workers posed as Americans and worked at US tech firms, earning the DPRK $5 million in three years.
+Boardcon Tiny1126B is a compact Rockchip RV1126B system-on-module with increased I/Os, suitable for AI vision systems and smart devices.
 
-💡 *North Korea's exploitation of US tech to bypass sanctions continues*
+💡 *Smaller size with more I/Os boosts AI vision system capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/two-us-citizens-get-combined-18-years-in-prison-for-running-north-korean-laptop-farms-fake-remote-it-work-scheme-netted-dprk-usd5-million-in-around-three-years)
-
----
-
-### 6. Intel launches Wildcat Lake as Core Series 3 for value laptops and edge systems six consumer SKUs built on 18A promise 'all-day' battery life 
-
-Intel launches Core Series 3 mobile processors, branding Wildcat Lake silicon officially. These processors promise 'all-day' battery life for value laptops and edge systems. Six consumer SKUs are built on the 18A architecture.
-
-💡 *Enhanced battery life for budget-friendly laptops and edge computing devices*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-launches-wildcat-lake-as-core-series-3)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/17/boardcon-tiny1126b-smaller-lighter-rockchip-rv1126b-system-on-module-yet-with-more-ios/)
 
 ---
 
-### 7. Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact, low-power SBC based on Microchip SAMA5D57 SiP 
+### 4. Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact, low-power SBC based on Microchip SAMA5D27 SiP 
 
-The Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact single board computer with a Microchip SAMA5D27 Arm Cortex-A5 processor, suitable for IoT and edge computing applications.
+Conclusive Engineering's KSTR-SAMA5D27 is an ultra-compact, low-power SBC with Microchip SAMA5D27 CPU and various connectivity options, suitable for IoT, smart systems, and edge computing. It features a microSD card slot, EEPROM, Fast Ethernet, WiFi, and Bluetooth connectivity. The board supports USB and battery power.
 
-💡 *Enables efficient, low-power edge computing for IoT devices and smart systems.*
+💡 *Compact, low-power SBC for IoT and edge computing applications.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/16/conclusive-engineering-kstr-sama5d27-ultra-compact-sbc-microchip-sama5d57-sip/)
-
----
-
-### 8. Open-source tool decrypts all private data collected by Windows Recall on Copilot PCs 
-
-A security researcher has released an updated tool that can bypass Windows Recall's protections, accessing private user data.
-
-💡 *Private user data remains vulnerable to exploitation by security researchers.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112087-open-source-tool-decrypts-all-private-data-collected.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/16/conclusive-engineering-kstr-sama5d27-ultra-compact-sbc-microchip-sama5d27-sip/)
 
 ---
 
-### 9. Intel brings 18A process to budget laptops with new Core Series 3 CPUs 
+### 5. Amazon Eero Signal review: 4G LTE internet backup for your Eero mesh network 
 
-Intel introduces Core Series 3 CPUs for budget laptops with 18A process, offering performance gains over older PCs and previous-generation low-power Core processors.
+The Eero Signal provides automatic 4G LTE failover for Eero mesh networks, ensuring uninterrupted internet connectivity. It seamlessly switches to 4G LTE when your primary ISP goes down, keeping your devices online. This feature is ideal for homes or businesses with unreliable internet providers.
 
-💡 *Upgrade path for small businesses and home users with significant performance boosts.*
+💡 *Reliable internet access is crucial for modern life and work.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112093-intel-core-series-3-targets-affordable-pcs-ai.html)
-
----
-
-### 10. How Intel Got Into Trouble: We Test the Last Decade of Intel Flagship CPUs 
-
-We examine Intel's flagship CPUs from Kaby Lake to Core Ultra, analyzing design choices that impacted performance and power consumption over the past decade, ultimately contributing to the company's loss of market leadership.
-
-💡 *Intel's prioritization of power efficiency led to reduced raw performance*
-
-🔗 [Read Full Article](https://www.techspot.com/article/3112-10-years-intel-flagship-cpus/)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/amazon-eero-signal-review)
 
 ---
 
-### 11. AMD's market cap hits all-time high, Intel hits 25-year high on Agentic AI's insatiable demand for CPUs 
+### 6. Microsoft's April patch puts Windows domain controllers into reboot loops third known issue from KB5082063 is affecting Windows Server 2016 through 2025 
 
-AMD and Intel stocks surge due to AI-driven CPU demand growth. The insatiable need for central processing units by AI systems is fueling a positive market sentiment. This trend is driving both companies' stocks to historic highs.
+Microsoft's April patch update is causing Windows domain controllers to enter continuous reboot loops, affecting Windows Server 2016 through 2022 versions. This issue is impacting enterprise networks, resulting in downtime and disruption to services. The problem is attributed to a known issue in KB5082063.
 
-💡 *AI's CPU demand fuels unprecedented growth for chipmakers*
+💡 *Critical infrastructure vulnerable to catastrophic system crashes*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-market-cap-hits-all-time-high-intel-hits-25-year-high-on-agentic-ais-insatiable-demand-for-cpus)
-
----
-
-### 12. Legendary Qualcomm, Apple, and Nuvia alumni form new CPU startup Nuvacore promises to 'rewrite the rules of silicon' 
-
-Three high-profile ex-employees from Apple and Nuvia founded Nuvacore, a startup that aims to revolutionize the CPU industry by developing clean-sheet CPUs for AI workloads.
-
-💡 *AI-centric CPU design could boost efficiency in compute-intensive applications significantly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon)
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsofts-april-patch-puts-windows-domain-controllers-into-reboot-loops)
 
 ---
 
-### 13. Score 64GB of G.Skill DDR5 and a 1TB 990 Pro for an insane $441 in this Newegg bundle 9800X3D and X870E motherboard also comes with a free AIO, just $1,299 to start an AM5 gaming build 
+### 7. Commodore fans split over C64 Ultimate FPGA firmware lockdown firm says it wants to protect its hardware and reduce support fallout 
 
-Newegg offers a combo bundle with a Ryzen 7 9800X3D CPU, 64GB DDR5 RAM, 1TB 990 Pro SSD, and Asus X870E-E motherboard for $1,299.99, including a free AIO.
+The Commodore C64 Ultimate's firmware lockdown has sparked a divide among retro fans, with some supporting the move to protect hardware and others opposing it as restricting customization and community support.
 
-💡 *A high-performance gaming build at a competitive starting price point*
+💡 *Firmware lockdown affects retro community's ability to modify and support hardware.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/score-64gb-of-g-skill-ddr5-and-a-1tb-990-pro-for-an-insane-usd441-in-this-newegg-bundle-9800x3d-and-x870e-motherboard-also-comes-with-a-free-aio-just-usd1-299-to-start-an-am5-gaming-build)
-
----
-
-### 14. Non-functioning counterfeit Samsung 990 Pro SSDs are circulating in Europe Despite convincing packaging, blue PCB easily gives away the dupe 
-
-Fake Samsung 990 Pro SSDs are circulating in Europe, despite convincing packaging. The clones were discovered after a buyer reported non-functioning devices in Austria. The counterfeit SSDs have a blue PCB that can be easily identified as fake.
-
-💡 *Counterfeit SSDs can cause financial loss and trust erosion in consumers.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/non-functioning-counterfeit-samsung-990-pro-ssds-are-circulating-in-europe-despite-convincing-packaging-blue-pcb-easily-gives-away-the-dupe)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/commodore-fans-split-over-c64-ultimate-fpga-firmware-lockdown-firm-says-it-wants-to-protect-its-hardware-and-reduce-support-fallout)
 
 ---
 
-### 15. Memory card and flash drive pricing surges 120%, with some models spiking 260% 
+### 8. AMD to resurrect Ryzen 7 5800X3D AM4 with 10th anniversary edition, leaker claims return of legendary CPU a sign of bleak PC building landscape 
 
-Memory card and USB drive prices have surged by 123% compared to last year.
+AMD is rumored to revive the Ryzen 7 5800X3D with a 10th Anniversary Edition, set to release in the second quarter of 2024. This move is speculated to be a response to the current state of the PC building landscape. The exact details of the new processor are still unknown.
 
-💡 *Soaring prices impact consumers and industries reliant on storage technology.*
+💡 *AMD revives legacy CPU to adapt to changing PC building market.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112097-memory-card-flash-drive-prices-surge-up-123.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-to-resurrect-ryzen-7-5800x3d-am4-with-10th-anniversary-edition-leaker-claims-return-of-legendary-cpu-a-sign-of-bleak-pc-building-landscape)
 
 ---
 
-### 16. The 2026 PC and Console Gaming Report shows most revenue now comes from games outside the Top 20 
+### 9. Amazon returns buyer gets scammed out of a Ryzen 9 9950X3D 'CPU' came with just a 3D-printed base underneath a real heat spreader 
 
-The PC gaming market has shifted, with titles outside Top 20 now generating most revenue. This is reflected in Western PC markets, where spending from games ranked 21 and below rose to 56% in 2025. Total PC playtime also increased by 14% over the same period.
+A buyer was scammed out of a Ryzen 9 9950X3D CPU on Amazon, receiving a 3D-printed base and an IHS of a 9950X3D instead of the actual CPU.
 
-💡 *Diversification and discovery drive growth in gaming revenue streams.*
+💡 *Counterfeit CPUs exploit weak return policies and consumer trust.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112092-2026-pc-console-gaming-report-shows-most-revenue.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amazon-returns-buyer-gets-scammed-out-of-a-ryzen-9-9950x3d-cpu-came-with-just-a-3d-printed-plastic-heat-spreader)
+
+---
+
+### 10. What was the first OS you ever used? 
+
+The first OS you used often sparks nostalgia and a deeper appreciation for the evolution of technology. For many, it's a gateway to understanding how computers operate beyond hardware. This early experience shapes one's perception of computer systems.
+
+💡 *Early OS interactions shape our perception of computer systems forever.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112113-what-first-os-you-ever-used.html)
+
+---
+
+### 11. A $7,000 DIY radar project is taking on hardware that usually costs over $100,000 
+
+Motii's open-source Aeris-10 project offers a complete, buildable DIY radar system for $7,000, rivaling expensive commercial hardware.
+
+💡 *Inexpensive DIY radar technology democratizes access to advanced sensing capabilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112104-7000-diy-radar-project-taking-hardware-usually-costs.html)
+
+---
+
+### 12. Metro 2039 is going darker than ever, launching this winter on PC and consoles 
+
+Metro 2039, the sequel to Metro Exodus, is set in Moscow's post-apocalyptic subway tunnels. The game will launch this winter on PC and consoles. Pre-rendered CGI dominates the trailer, with a glimpse of real-time gameplay showing improved visuals.
+
+💡 *Enhanced visuals signal a more immersive gaming experience ahead*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112100-metro-2039-going-darker-than-ever-launching-winter.html)
+
+---
+
+### 13. Gemini arrives on macOS with a dedicated desktop app 
+
+Gemini, a Google AI app, is now available on macOS with a dedicated desktop app. This native integration provides quick access to Google services and AI functionalities via keyboard shortcuts. Users can work with local files, on-screen content, and Google services like Drive and Photos.
+
+💡 *Native Google AI integration streamlines productivity on Apple desktops.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7868-gemini-for-macos.html)
+
+---
+
+### 14. Build an entire 9800X3D PC with 128GB of RAM for $2,999 Newegg bundle includes Asus B850 motherboard, 1TB of storage, and RTX 5070 Ti 
+
+Get a high-end gaming PC bundle with Ryzen 7 9800X3D, 128GB RAM, and an RTX 5070 Ti for $2,999, saving $1,933 from individual parts.
+
+💡 *Unbeatable value for a powerful gaming setup with premium components.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/build-an-entire-9800x3d-pc-with-128gb-of-ram-for-usd2-999-newegg-bundle-includes-asus-b850-motherboard-1tb-of-storage-and-rtx-5070-ti)
 
 ---
 

@@ -1,175 +1,165 @@
 # 🤖 AI & ML
-**Week of April 17, 2026**
+**Week of April 18, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 16
-- **Report generated:** 2026-04-17 10:00
+- **Articles this week:** 15
+- **Report generated:** 2026-04-18 09:34
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. reBot Arm B601-DM An open-source 6+1 DoF robotic arm for embodied AI and teleoperation applications ⭐
+### 1. Researchers warn Microsoft Defender vulnerability is already being exploited 
 
-The Seeed Studio reBot Arm B601-DM is a fully open-source 6-axis robotic arm with a parallel gripper, designed for embodied AI learning and teleoperation applications, offering high precision and compatibility with major AI and robotics frameworks.
+A security researcher discovered a vulnerability in Microsoft Defender Antivirus, dubbed 'Red Sun', which can bypass protections, and claimed malicious actors are already exploiting it.
 
-💡 *Breaking barriers for AI and robotics research through open-source design.*
+💡 *Critical vulnerability in Microsoft Defender exposes users to malicious attacks.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/17/rebot-arm-b601-dm-an-open-source-61-dof-robotic-arm-for-embodied-ai-and-teleoperation-applications/)
-
----
-
-### 2. WiQwiic-32 A compact USB-C IoT board with eight Qwiic connectors (Crowdfunding) ⭐
-
-WiQwiic-32 is a compact IoT board with ESP32-S3 and Qwiic connectors for easy prototyping.
-
-💡 *Compact IoT development board for streamlined AI and ML workloads.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/17/wiqwiic-32-a-compact-usb-c-iot-board-with-eight-qwiic-connectors/)
+🔗 [Read Full Article](https://www.techspot.com/news/112099-researchers-warn-microsoft-defender-vulnerability-already-exploited.html)
 
 ---
 
-### 3. Struggling shoemaker and apparel brand Albird pivots to AI data centers, stock jumps 580% in a single day sells core business and leveraging $50 million in financing to become a GPU-as-a-Service and AI cloud solutions provider 
+### 2. AI infrastructure boom pushes AMD, Intel and Arm to new valuation heights 
 
-Albird pivots from apparel to AI data centers, sees stock surge 580%.
+AMD, Intel, and Arm see valuation gains due to AI infrastructure boom. This is driven by emerging AI workloads requiring sustained compute performance and memory throughput. CPU design is key to meeting these demands.
 
-💡 *Disruption of traditional industries by innovative tech pivots.*
+💡 *Emerging AI workloads intensify CPU design requirements significantly*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/struggling-shoemaker-and-apparel-brand-albird-pivots-to-ai-data-centers-stock-jumps-580-percent-in-a-single-day-sells-core-business-and-leveraging-usd50-million-in-financing-to-become-a-gpu-as-a-service-and-ai-cloud-solutions-provider)
-
----
-
-### 4. New self-healing material can repair itself over 1,000 times, extend the lifespan of cars and aircraft 
-
-A new self-healing material can repair itself over 1,000 times, extending the lifespan of cars and aircraft. This breakthrough addresses delamination in fiber reinforced polymer (FRP) materials. The new composite is designed to be tougher than traditional FRPs.
-
-💡 *Prevents structural failures, saving resources and environmental impact.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112095-new-self-healing-material-can-repair-itself-over.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112102-ai-infrastructure-boom-pushes-amd-intel-arm-new.html)
 
 ---
 
-### 5. Japan's bullet train to debut high-tech private cabins, for an added fee 
+### 3. Analytics group signals possible delays at 40% of AI data center construction sites companies deny schedule holdups, but satellite imagery indicates otherwise 
 
-Japan's bullet train to debut high-tech private cabins for an added fee, offering improved remote working conditions and internet performance.
+At least 40% of AI data centers may face delays in 2026, according to analytics. Companies deny any holdups, attributing issues to labor and material shortages. Satellite imagery suggests otherwise.
 
-💡 *Enhancing business travel experience with exclusive high-tech amenities.*
+💡 *Construction delays threaten AI data center capacity and market timelines.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112098-japan-bullet-train-debut-high-tech-private-cabins.html)
-
----
-
-### 6. Open-source tool decrypts all private data collected by Windows Recall on Copilot PCs 
-
-A security researcher has released an updated tool that can bypass Windows Recall's protections, accessing private user data.
-
-💡 *Private user data remains vulnerable to exploitation by security researchers.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112087-open-source-tool-decrypts-all-private-data-collected.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/analytics-group-signals-possible-delays-at-40-percent-of-ai-data-center-construction-sites-companies-deny-schedule-holdups-but-satellite-imagery-indicates-otherwise)
 
 ---
 
-### 7. Intel brings 18A process to budget laptops with new Core Series 3 CPUs 
+### 4. Local political revolts threaten to derail US data center projects mounting delays are already costing AI hyperscalers billions 
 
-Intel introduces Core Series 3 CPUs for budget laptops with 18A process, offering performance gains over older PCs and previous-generation low-power Core processors.
+Local communities are pushing back on AI data center projects, forcing cancellations and mounting delays, with billions of dollars lost by AI hyperscalers due to community resistance.
 
-💡 *Upgrade path for small businesses and home users with significant performance boosts.*
+💡 *Community opposition is disrupting AI data center expansions worldwide.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112093-intel-core-series-3-targets-affordable-pcs-ai.html)
-
----
-
-### 8. AMD Ryzen 9 9950X3D2 appears on Amazon with $1,000 pre-order price AMD confirms recommended pricing is still set at $899 [Updated] 
-
-AMD's Ryzen 9 9950X3D2 is listed on Amazon at $1,000, $100 above the recommended price of $899. This discrepancy has sparked attention among tech enthusiasts and buyers. The CPU has started appearing at retailers with varying prices.
-
-💡 *Retailers are pricing CPUs above AMD's recommended retail price*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x3d2-appears-on-amazon-with-usd1-000-pre-order-price-amd-confirms-recommended-pricing-is-still-set-at-usd899)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/local-political-revolts-threaten-to-derail-us-data-center-projects-mounting-delays-are-already-costing-ai-hyperscalers-billions)
 
 ---
 
-### 9. AMD's market cap hits all-time high, Intel hits 25-year high on Agentic AI's insatiable demand for CPUs 
+### 5. Intel hires tenured Samsung exec to lead Foundry Services signals company focus on winning business from potential Foundry suitors 
 
-AMD and Intel stocks surge due to AI-driven CPU demand growth. The insatiable need for central processing units by AI systems is fueling a positive market sentiment. This trend is driving both companies' stocks to historic highs.
+Intel hires Shawn 'Seung Hoon' Han, a Samsung Foundry executive, to lead Intel Foundry Services, signaling the company's focus on attracting new customers and maintaining relationships with existing ones.
 
-💡 *AI's CPU demand fuels unprecedented growth for chipmakers*
+💡 *Intel strengthens competitive edge in the Foundry market with industry expertise.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-market-cap-hits-all-time-high-intel-hits-25-year-high-on-agentic-ais-insatiable-demand-for-cpus)
-
----
-
-### 10. Meta raising Quest headset prices due to AI-driven RAM shortage Quest 3 to cost $600, Quest 3S $350 from April 19 
-
-Meta raises Quest 3 and 3S prices due to AI-driven RAM shortage. The Quest 3 will now cost $600 and the Quest 3S will be $350. This change is effective from April 19.
-
-💡 *Rising AI demand devalues Meta's affordable VR offerings*
-
-🔗 [Read Full Article](https://www.tomshardware.com/virtual-reality/meta-raising-quest-headset-prices-due-to-ai-driven-ram-shortage-quest-3-to-cost-usd600-quest-3s-usd350-from-april-19)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-hires-tenured-samsung-exec-to-lead-foundry-services-signals-company-focus-on-winning-business-from-potential-foundry-suitors)
 
 ---
 
-### 11. US appeals court restarts $3 billion patent infringement lawsuit against Intel VLSI case from 2017 returns after court sets aside 2024 decision 
+### 6. Elon Musk pushing forward with Terafab at 'light speed' staff reaching out to various suppliers and are reportedly willing to pay a premium to gain priority 
 
-A $3 billion patent infringement lawsuit against Intel is being reevaluated by a jury after a US appeals court found it unsuitable for summary judgment. The case originated in 2017. It will now proceed to a district court.
+Elon Musk's team is contacting semiconductor fab suppliers for pricing and timelines as the Terafab project advances.
 
-💡 *Juries will now decide Intel's liability in patent infringement dispute.*
+💡 *Securing priority semiconductor fab production is crucial for Terafab's timely completion.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/us-appeals-court-restarts-usd3-billion-patent-infringement-lawsuit-against-intel-vlsi-case-from-2017-returns-after-court-sets-aside-2024-decision)
-
----
-
-### 12. Score 64GB of G.Skill DDR5 and a 1TB 990 Pro for an insane $441 in this Newegg bundle 9800X3D and X870E motherboard also comes with a free AIO, just $1,299 to start an AM5 gaming build 
-
-Newegg offers a combo bundle with a Ryzen 7 9800X3D CPU, 64GB DDR5 RAM, 1TB 990 Pro SSD, and Asus X870E-E motherboard for $1,299.99, including a free AIO.
-
-💡 *A high-performance gaming build at a competitive starting price point*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/score-64gb-of-g-skill-ddr5-and-a-1tb-990-pro-for-an-insane-usd441-in-this-newegg-bundle-9800x3d-and-x870e-motherboard-also-comes-with-a-free-aio-just-usd1-299-to-start-an-am5-gaming-build)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-pushing-forward-with-terafab-at-ight-speed-staff-reaching-out-to-various-suppliers-and-are-reportedly-willing-to-pay-a-premium-to-gain-priority)
 
 ---
 
-### 13. Anonymous perps behind 86 million files scraped from Spotify hit with $322 million court judgement Anna's Archive case presents intriguing precedent for AI training 
+### 7. Microsoft's April patch puts Windows domain controllers into reboot loops third known issue from KB5082063 is affecting Windows Server 2016 through 2025 
 
-A U.S. judge awarded $322 million to Spotify and labels in a default judgment against Anna's Archive for scraping 86 million files.
+Microsoft's April patch update is causing Windows domain controllers to enter continuous reboot loops, affecting Windows Server 2016 through 2022 versions. This issue is impacting enterprise networks, resulting in downtime and disruption to services. The problem is attributed to a known issue in KB5082063.
 
-💡 *Default judgment sets precedent for AI training data rights enforcement.*
+💡 *Critical infrastructure vulnerable to catastrophic system crashes*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/annas-archive-fined-322-million)
-
----
-
-### 14. Oklahoma farmer arrested and jailed for trespassing during AI data center town hall removed by officers after going a few seconds over allotted speaking time, trying to hand paperwork to counselors 
-
-Darren Blanchard, an Oklahoma farmer, was arrested for trespassing during a town hall meeting for exceeding the allotted time limit to discuss concerns over a data center project.
-
-💡 *Free speech and public expression can be restricted in certain settings.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/oklahoma-farmer-arrested-and-jailed-for-trespassing-during-ai-data-center-town-hall-removed-by-officers-after-going-a-few-seconds-over-allotted-speaking-time-trying-to-hand-paperwork-to-counselors)
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsofts-april-patch-puts-windows-domain-controllers-into-reboot-loops)
 
 ---
 
-### 15. Memory card and flash drive pricing surges 120%, with some models spiking 260% 
+### 8. TSMC ups revenue guidance and CapEx, buoyed by 'multiyear AI megatrend' warns Middle East conflict may impact profitability as costs increase 
 
-Memory card and USB drive prices have surged by 123% compared to last year.
+TSMC increases revenue and CapEx guidance due to strong AI demand. The company plans to ramp up 3nm-capable capacity. A Middle East conflict may impact profitability due to increased costs.
 
-💡 *Soaring prices impact consumers and industries reliant on storage technology.*
+💡 *TSMC's aggressive AI chip plans fuel growth and market momentum*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112097-memory-card-flash-drive-prices-surge-up-123.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ups-revenue-guidance-and-capex-buoyed-by-multiyear-ai-megatrend-warns-middle-east-conflict-may-impact-profitability-as-costs-increase)
 
 ---
 
-### 16. Your Airbnb host might actually be AI 
+### 9. Google and Pentagon in talks to run custom AI chips inside classified environments Google pushes for tight controls for TPUs surrounding use for mass surveillance and autonomous weapons 
 
-An AI system is being used to manage Airbnb properties, responding to guest messages, and potentially replacing human hosts.
+Google is negotiating with the Pentagon to deploy its Gemini AI in classified settings, potentially adding GPU racks to its Distributed Cloud. The talks also cover tight controls for Google's custom chips to prevent their use for mass surveillance and autonomous weapons.
 
-💡 *Rise of AI host management threatens traditional human host business models.*
+💡 *Google tightens controls for AI chip deployment to avoid misuse*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112088-airbnb-host-might-actually-ai.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-and-pentagon-in-talks-to-run-tpus-inside-classified-environments)
+
+---
+
+### 10. AMD to resurrect Ryzen 7 5800X3D AM4 with 10th anniversary edition, leaker claims return of legendary CPU a sign of bleak PC building landscape 
+
+AMD is rumored to revive the Ryzen 7 5800X3D with a 10th Anniversary Edition, set to release in the second quarter of 2024. This move is speculated to be a response to the current state of the PC building landscape. The exact details of the new processor are still unknown.
+
+💡 *AMD revives legacy CPU to adapt to changing PC building market.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-to-resurrect-ryzen-7-5800x3d-am4-with-10th-anniversary-edition-leaker-claims-return-of-legendary-cpu-a-sign-of-bleak-pc-building-landscape)
+
+---
+
+### 11. SNK revives NeoGeo AES with modern upgrades and HDMI support 
+
+SNK is reviving the NeoGeo AES console with modern upgrades and an HDMI port. The NeoGeo AES+ will be available in various editions, including a 35th Anniversary edition. It is set to launch on November 12.
+
+💡 *Nostalgic gamers get upgraded hardware for classic console experience.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112107-snk-revives-neogeo-aes-modern-upgrades-hdmi-support.html)
+
+---
+
+### 12. A four-day Steam freebie turned into $250,000 for an indie game 
+
+A four-day Steam freebie for indie game Graveyard Keeper led to $250,000 in revenue. The strategy relies on retaining players post-free offer to encourage purchases. Player retention was key to the game's financial success.
+
+💡 *Player retention is crucial for post-free trial revenue generation*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112106-four-day-steam-freebie-turned-250000-indie-game.html)
+
+---
+
+### 13. Two New Jersey men jailed for helping North Korean IT workers infiltrate 100+ companies 
+
+Two New Jersey men were sentenced to prison for helping North Korean IT workers infiltrate over 100 companies.
+
+💡 *Cybersecurity threats posed by foreign state-sponsored hacking operations are increasing significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112103-two-new-jersey-men-sentenced-funding-north-korea.html)
+
+---
+
+### 14. A $7,000 DIY radar project is taking on hardware that usually costs over $100,000 
+
+Motii's open-source Aeris-10 project offers a complete, buildable DIY radar system for $7,000, rivaling expensive commercial hardware.
+
+💡 *Inexpensive DIY radar technology democratizes access to advanced sensing capabilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112104-7000-diy-radar-project-taking-hardware-usually-costs.html)
+
+---
+
+### 15. Gemini arrives on macOS with a dedicated desktop app 
+
+Gemini, a Google AI app, is now available on macOS with a dedicated desktop app. This native integration provides quick access to Google services and AI functionalities via keyboard shortcuts. Users can work with local files, on-screen content, and Google services like Drive and Photos.
+
+💡 *Native Google AI integration streamlines productivity on Apple desktops.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7868-gemini-for-macos.html)
 
 ---
 

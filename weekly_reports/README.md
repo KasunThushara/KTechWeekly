@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 17, 2026**
+**Week of April 18, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. reBot Arm B601-DM An open-source 6+1 DoF robotic arm for embodied AI and teleoperation applications ⭐
+### 1. Valve's Proton 11 beta boosts Linux gaming with better performance and classic game support ⭐
 
-**🤖 AI & ML**
+**📰 Tech News**
 
-The Seeed Studio reBot Arm B601-DM is a fully open-source 6-axis robotic arm with a parallel gripper, designed for embodied AI learning and teleoperation applications, offering high precision and compatibility with major AI and robotics frameworks.
+Valve's Proton 11 beta improves Linux gaming with better performance and classic game support.
 
-💡 **Key Point:** Breaking barriers for AI and robotics research through open-source design.
+💡 **Key Point:** Enhanced gaming experience for Linux users and classic game enthusiasts.
 
-🔗 [Read More](https://www.cnx-software.com/2026/04/17/rebot-arm-b601-dm-an-open-source-61-dof-robotic-arm-for-embodied-ai-and-teleoperation-applications/)
-
----
-
-### 2. reBot Arm B601-DM An open-source 6+1 DoF robotic arm for embodied AI and teleoperation applications ⭐
-
-**⚡ Semiconductors**
-
-The Seeed Studio reBot Arm B601-DM is a fully open-source 6-axis robotic arm with a parallel gripper, designed for embodied AI learning and teleoperation applications, offering high precision and compatibility with major AI and robotics frameworks.
-
-💡 **Key Point:** Breaking barriers for AI and robotics research through open-source design.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/17/rebot-arm-b601-dm-an-open-source-61-dof-robotic-arm-for-embodied-ai-and-teleoperation-applications/)
+🔗 [Read More](https://www.techspot.com/news/112109-valve-proton-11-beta-boosts-linux-gaming-better.html)
 
 ---
 
-### 3. Asus TUF Gaming A14 (2026) review: Big CPU power in a mispriced gaming laptop ⭐
+### 2. Valve's Proton 11 beta boosts Linux gaming with better performance and classic game support ⭐
 
 **🎮 GPUs**
 
-The Asus TUF Gaming A14 boasts a powerful CPU but underperforms in gaming.
+Valve's Proton 11 beta improves Linux gaming with better performance and classic game support.
 
-💡 **Key Point:** Underwhelming gaming performance erodes its value as a gaming laptop.
+💡 **Key Point:** Enhanced gaming experience for Linux users and classic game enthusiasts.
 
-🔗 [Read More](https://www.tomshardware.com/laptops/gaming-laptops/asus-tuf-gaming-a14-2026-review)
-
----
-
-### 4. Intel Core Series 3 Wildcat Lake processor family launched for entry-level laptops and Edge AI systems ⭐
-
-**🎮 GPUs**
-
-Intel launches the Core Series 3 Wildcat Lake processor family, aimed at entry-level laptops and Edge AI systems. This family features up to six cores, Intel Xe 3 graphics, and LPDDR5x/DDR5 memory interfaces. The Platform controller tile integrates various connectivity options, including WiFi 7 and Bluetooth 6.0.
-
-💡 **Key Point:** Intel brings AI-ready and efficient processing to entry-level devices and systems.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/17/intel-core-series-3-wildcat-lake-processor-family-launched-for-entry-level-laptops-and-edge-ai-systems/)
+🔗 [Read More](https://www.techspot.com/news/112109-valve-proton-11-beta-boosts-linux-gaming-better.html)
 
 ---
 
-### 5. WiQwiic-32 A compact USB-C IoT board with eight Qwiic connectors (Crowdfunding) ⭐
+### 3. Keychron V5 Ultra 8K Review: Budget-friendly 8K 
 
-**🤖 AI & ML**
+**💻 Hardware**
 
-WiQwiic-32 is a compact IoT board with ESP32-S3 and Qwiic connectors for easy prototyping.
+The Keychron V5 Ultra 8K offers a budget-friendly wireless mechanical keyboard with impressive features like an 8,000 Hz polling rate and up to 660 hours of battery life.
 
-💡 **Key Point:** Compact IoT development board for streamlined AI and ML workloads.
+💡 **Key Point:** Budget-friendly 8K keyboard meets high-end performance expectations.
 
-🔗 [Read More](https://www.cnx-software.com/2026/04/17/wiqwiic-32-a-compact-usb-c-iot-board-with-eight-qwiic-connectors/)
+🔗 [Read More](https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-v5-ultra-8k-review)
+
+---
+
+### 4. Pironman 5 Pro Max Review A Raspberry Pi 5 Tower PC case with integrated video and audio capabilities, optional UPS kit 
+
+**💻 Hardware**
+
+The Pironman 5 Pro Max is a Raspberry Pi 5 tower case with integrated display, camera, and audio features, and an optional UPS kit for power backup.
+
+💡 **Key Point:** Raspberry Pi 5 cases with integrated features enhance home automation and media capabilities.
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/18/pironman-5-pro-max-review-a-raspberry-pi-5-tower-pc-case-with-integrated-video-and-audio-capabilities-ups-kit/)
+
+---
+
+### 5. Boardcon Tiny1126B is a smaller and lighter Rockchip RV1126B system-on-module, yet with more I/Os 
+
+**💻 Hardware**
+
+Boardcon Tiny1126B is a compact Rockchip RV1126B system-on-module with increased I/Os, suitable for AI vision systems and smart devices.
+
+💡 **Key Point:** Smaller size with more I/Os boosts AI vision system capabilities.
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/17/boardcon-tiny1126b-smaller-lighter-rockchip-rv1126b-system-on-module-yet-with-more-ios/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **52 articles** across **5 focused categories**.
+We covered **54 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 16 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 16 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 15 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 12 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 16 articles
+*Artificial Intelligence and Machine Learning* — 15 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 6 articles
+*Graphics cards and compute accelerators* — 3 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 16 articles
+*Computing hardware and development boards* — 14 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 7 articles
+*Chip manufacturing and design* — 12 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 7 articles
+*Industry news and product launches* — 10 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-04-17 at 10:00 by an autonomous AI curation system.
+Generated 2026-04-18 at 09:34 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

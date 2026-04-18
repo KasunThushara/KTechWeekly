@@ -1,351 +1,344 @@
 [
   {
-    "title": "AMD Ryzen 9 9950X3D2 appears on Amazon with $1,000 pre-order price AMD confirms recommended pricing is still set at $899 [Updated]",
-    "summary": "AMD's Ryzen 9 9950X3D2 has started appearing at retailers, with Amazon currently offering the CPU at $1,000 $100 above the suggest retail pricing.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x3d2-appears-on-amazon-with-usd1-000-pre-order-price-amd-confirms-recommended-pricing-is-still-set-at-usd899",
+    "title": "Keychron V5 Ultra 8K Review: Budget-friendly 8K",
+    "summary": "The Keychron V5 Ultra 8K is a wireless mechanical hot-swappable keyboard with a 96-percent layout and up to an 8,000 Hz polling rate and it gets up to 660 hours of battery life.",
+    "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-v5-ultra-8k-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-18T09:32:51.853386"
+  },
+  {
+    "title": "US lawmakers amend new restrictions on Chinese chipmakers MATCH Act's blanket restrictions removed from select chipmaking tools",
+    "summary": "U.S. lawmakers remove countrywide exports ban on cryogenic etching tools from the MATCH Act, yet Chinese companies could barely get them anyway.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/us-lawmakers-amend-new-restrictions-on-chinese-chipmakers-match-acts-blanket-restrictions-removed-from-select-chipmaking-tools",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.853514"
+  },
+  {
+    "title": "Analytics group signals possible delays at 40% of AI data center construction sites companies deny schedule holdups, but satellite imagery indicates otherwise",
+    "summary": "At least 40% of all AI data centers slated for completion in 2026 will be delayed, according to a data analytics group. AI tech companies say everything is on schedule, but labor and material shortages are seemingly holding up construction.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/analytics-group-signals-possible-delays-at-40-percent-of-ai-data-center-construction-sites-companies-deny-schedule-holdups-but-satellite-imagery-indicates-otherwise",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.853637"
+  },
+  {
+    "title": "Local political revolts threaten to derail US data center projects mounting delays are already costing AI hyperscalers billions",
+    "summary": "Local communities all over America and the world are pushing back on the explosive growth of AI data center projects. Through local courts, community action, and intense meetings with politicians, the general public are forcing the cancellation of major data center projects.",
+    "link": "https://www.tomshardware.com/tech-industry/local-political-revolts-threaten-to-derail-us-data-center-projects-mounting-delays-are-already-costing-ai-hyperscalers-billions",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.853770"
+  },
+  {
+    "title": "Intel hires tenured Samsung exec to lead Foundry Services signals company focus on winning business from potential Foundry suitors",
+    "summary": "Intel lures Shawn 'Seung Hoon' Han from Samsung Foundry to land new customers and maintain customer relationships at Intel Foundry.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-hires-tenured-samsung-exec-to-lead-foundry-services-signals-company-focus-on-winning-business-from-potential-foundry-suitors",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.853882"
+  },
+  {
+    "title": "Elon Musk pushing forward with Terafab at 'light speed' staff reaching out to various suppliers and are reportedly willing to pay a premium to gain priority",
+    "summary": "Elon Musk's people have begun reaching out to various semiconductor fab suppliers to ask for pricing and delivery timelines as the Terafab project ramps up.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-pushing-forward-with-terafab-at-ight-speed-staff-reaching-out-to-various-suppliers-and-are-reportedly-willing-to-pay-a-premium-to-gain-priority",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.853995"
+  },
+  {
+    "title": "Amazon Eero Signal review: 4G LTE internet backup for your Eero mesh network",
+    "summary": "The Eero Signal offers automatic 4G LTE failover for your primary ISP.",
+    "link": "https://www.tomshardware.com/networking/routers/amazon-eero-signal-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.854115"
+  },
+  {
+    "title": "Microsoft's April patch puts Windows domain controllers into reboot loops third known issue from KB5082063 is affecting Windows Server 2016 through 2025",
+    "summary": "Installing this month's Windows Server security update has knocked some enterprise domain controllers into continuous reboot cycles.",
+    "link": "https://www.tomshardware.com/software/windows/microsofts-april-patch-puts-windows-domain-controllers-into-reboot-loops",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.854229"
+  },
+  {
+    "title": "Build an entire 9800X3D PC with 128GB of RAM for $2,999 Newegg bundle includes Asus B850 motherboard, 1TB of storage, and RTX 5070 Ti",
+    "summary": "Score a massive Newegg combo deal: save $1,933 on a high-end gaming PC bundle with Ryzen 7 9800X3D, 128GB DDR5, RTX 5070 Ti, and more - premium parts, matching aesthetics, and serious performance.",
+    "link": "https://www.tomshardware.com/pc-components/build-an-entire-9800x3d-pc-with-128gb-of-ram-for-usd2-999-newegg-bundle-includes-asus-b850-motherboard-1tb-of-storage-and-rtx-5070-ti",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-18T09:32:51.854340"
+  },
+  {
+    "title": "TSMC ups revenue guidance and CapEx, buoyed by 'multiyear AI megatrend' warns Middle East conflict may impact profitability as costs increase",
+    "summary": "TSMC unveils aggressive plans to ramp up 3nm-capable capacity further in the coming years amid strong demand from the AI sector.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ups-revenue-guidance-and-capex-buoyed-by-multiyear-ai-megatrend-warns-middle-east-conflict-may-impact-profitability-as-costs-increase",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.854453"
+  },
+  {
+    "title": "Steam shown running on Nintendo Switch thanks to latest Proton Beta FEX 2604 translates x86 to ARM-friendly instructions on Linux",
+    "summary": "Valve has released Proton 11.0-Beta1, with support for Arm devices.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/steam-shown-running-on-nintendo-switch-thanks-to-latest-proton-beta-fex-2604-translates-x86-to-arm-friendly-instructions-on-linux",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.854554"
+  },
+  {
+    "title": "Google and Pentagon in talks to run custom AI chips inside classified environments Google pushes for tight controls for TPUs surrounding use for mass surveillance and autonomous weapons",
+    "summary": "Google is reportedly negotiating with the U.S. Department of Defense to deploy Gemini in classified settings, with the talks covering the addition of GPU racks to Google Distributed Cloud.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-and-pentagon-in-talks-to-run-tpus-inside-classified-environments",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.854680"
+  },
+  {
+    "title": "Commodore fans split over C64 Ultimate FPGA firmware lockdown firm says it wants to protect its hardware and reduce support fallout",
+    "summary": "The retro community seems sharply divided over a decision by Commodore regarding locking down firmware access in its C64 Ultimate computer.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/commodore-fans-split-over-c64-ultimate-fpga-firmware-lockdown-firm-says-it-wants-to-protect-its-hardware-and-reduce-support-fallout",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.854791"
+  },
+  {
+    "title": "AMD to resurrect Ryzen 7 5800X3D AM4 with 10th anniversary edition, leaker claims return of legendary CPU a sign of bleak PC building landscape",
+    "summary": "AMD is rumored to launch the Ryzen 7 5800X3D 10th Anniversary Edition in the second quarter of this year.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-to-resurrect-ryzen-7-5800x3d-am4-with-10th-anniversary-edition-leaker-claims-return-of-legendary-cpu-a-sign-of-bleak-pc-building-landscape",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.854898"
+  },
+  {
+    "title": "Amazon returns buyer gets scammed out of a Ryzen 9 9950X3D 'CPU' came with just a 3D-printed base underneath a real heat spreader",
+    "summary": "Another victim of Amazon's return policy shares their story on Reddit, how they bought a Ryzen 9 9950X3D for just 163 only to get a 3D-printed base and an IHS of a 9950X3D.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amazon-returns-buyer-gets-scammed-out-of-a-ryzen-9-9950x3d-cpu-came-with-just-a-3d-printed-plastic-heat-spreader",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.855002"
+  },
+  {
+    "title": "Crazed World of Warcraft gamer plays game with 3D-printed hot dog controller the left wiener quad-array controls movement, the right triggers abilities",
+    "summary": "Gamer and maker builds a hotdog-based game controller.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/crazed-world-of-warcraft-gamer-plays-game-with-3d-printed-hot-dog-controller-the-left-wiener-quad-array-controls-movement-the-right-triggers-abilities",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.855114"
+  },
+  {
+    "title": "TSMC warns of Intel Foundry's growing prowess during the company's latest earnings call 'We view Intel as our formidable competitor and do not underestimate them'",
+    "summary": "By now, TSMC has become a much bigger chipmaker than Intel has ever been, but the world's top foundry still calls its American peer a 'formidable' competitor.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-warns-of-intel-foundrys-growing-prowess-during-the-companys-latest-earnings-call-we-view-intel-as-our-formidable-competitor-and-do-not-underestimate-them",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.855223"
+  },
+  {
+    "title": "Pironman 5 Pro Max Review A Raspberry Pi 5 Tower PC case with integrated video and audio capabilities, optional UPS kit",
+    "summary": "SunFounder has sent us a sample of the Pironman 5 Pro Max tower PC case for Raspberry Pi 5 for review alongside a PiPower 5 UPS board. The Pro Max builds upon the Pironman 5 Max we reviewed last year, but adds a 4.3-inch capacitive touchscreen display, a 5MP camera module, two speakers, a USB microphone, and a 3.5mm audio jack. The PiPower 5 is a UPS HAT designed for Raspberry Pi Zero/Model B single board computers, and not directly compatible with the Pironman cases, but we ll still try to use it. I ll start this review with an unboxing of the Pironman 5 Pro Max and PiPower 5 packages, followed by an assembly guide for the Pironman 5 Pro Max, a test of the new features (display, camera, audio interaction), and finally, I ll have a quick test of the UPS HAT with the Raspberry Pi 5 enclosure. Unboxing of Pironman [...] The post Pironman 5 Pro Max Review A Raspberry Pi 5 Tower PC case with integrated video and audio capabilities, optional UPS kit appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/18/pironman-5-pro-max-review-a-raspberry-pi-5-tower-pc-case-with-integrated-video-and-audio-capabilities-ups-kit/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-18T09:32:51.855706"
+  },
+  {
+    "title": "Boardcon Tiny1126B is a smaller and lighter Rockchip RV1126B system-on-module, yet with more I/Os",
+    "summary": "Boardcon Tiny1126B shrinks the company s MINI1126B-P Rockchip RV1126B system-on-module (SoM) from 38x30mm to 34x30mm, targeting even more compact AI vision systems such as smart cameras, smart door locks, inspection cameras, cleaning/logistics robots, DMS (Driver Monitoring Systems), BSD (Blind Spot Detection) solutions, and smart displays. Despite its smaller size, the Tiny1126B features two 0.4mm pitch 100-pin connectors, instead of two 0.5mm pitch 80-pin connectors for its predecessors, offering even more I/Os. It s notably gaining a USB 3.0 DRD (Dual-Role Device) interface, an extra SDMMC interface, one additional SPI and I2C interfaces, Fast Ethernet, and more. The rest of the specifications, including memory capacity (up to 4GB LPDDR5) and storage (up to 256GB eMMC flash), remain the same. Boardcon Tiny1126B system-on-module Boardcon Tiny1126B specifications: SoC Rockchip RV1126B CPU Quad-core Arm Cortex-A53 up to 1.6 GHz with 32KB L1 I-Cache and 32KB L1 D-Cache, unified 512KB L2 Cache GPU 2D [...] The post Boardcon Tiny1126B is a smaller and lighter Rockchip RV1126B system-on-module, yet with more I/Os appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/17/boardcon-tiny1126b-smaller-lighter-rockchip-rv1126b-system-on-module-yet-with-more-ios/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-18T09:32:51.855884"
+  },
+  {
+    "title": "Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact, low-power SBC based on Microchip SAMA5D27 SiP",
+    "summary": "Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact (70x50mm) single board computer (SBC) powered by a Microchip SAMA5D27 Arm Cortex-A5 processor microprocessor clocked at 500 MHz paired with 256MB LPDDR2 (system-in-package). The board also features a microSD card slot and EEPROM for storage/configuration, Fast Ethernet, WiFi 4, and Bluetooth 4.1 connectivity, a USB-C port, two GPIO headers, and supports USB and battery power. It s designed for IoT devices, smart systems, and edge computing applications. Conclusive Engineering KSTR-SAMA5D27 specifications: SiP Microchip SAMA5D27 CPU Arm Cortex-A5 microprocessor @ 500 MHz System Memory 256 MB LPDDR2 Storage MicroSD card slot 4KB EEPROM Networking 10/100Mbps Ethernet RJ45 jack 2.4 GHz WLAN IEEE 802.11 b/g/n and Bluetooth 4.1 USB 1x USB 2.0 OTG Type-C connector 1x USB 2.0 Host on expansion header Expansion 34-pin and 30-pin connectors 2x Flexcom (configurable: I2C, SPI, UART) I2C 6-channel ADC with Vref 10-bit ISC (Image Sensor Controller), 10-bit [...] The post Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact, low-power SBC based on Microchip SAMA5D27 SiP appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/16/conclusive-engineering-kstr-sama5d27-ultra-compact-sbc-microchip-sama5d27-sip/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-18T09:32:51.856154"
+  },
+  {
+    "title": "What was the first OS you ever used?",
+    "summary": "Before clean installs, dual-boot menus, and cloud everything, there was that first encounter, the moment you realized a computer wasn't just hardware, it was a system with a personality. Read Entire Article",
+    "link": "https://www.techspot.com/news/112113-what-first-os-you-ever-used.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.857307"
+  },
+  {
+    "title": "SNK revives NeoGeo AES with modern upgrades and HDMI support",
+    "summary": "Set to launch on November 12, the NeoGeo AES+ will be available in Standard and 35th Anniversary editions priced at $249.99 / 179.99 / 199.99, with an Ultimate Edition bundle already listed through Plaion's storefront. The exterior closely mirrors the 1990 model, but the internal changes are aimed at aligning... Read Entire Article",
+    "link": "https://www.techspot.com/news/112107-snk-revives-neogeo-aes-modern-upgrades-hdmi-support.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.857484"
+  },
+  {
+    "title": "Valve's Proton 11 beta boosts Linux gaming with better performance and classic game support",
+    "summary": "Valve has released a new beta version of Proton, the company's official compatibility layer for improving Linux gaming. Proton 11.0-beta1 is a notable update for several reasons, including improved support for running classic games from the 90s. The release also lays the groundwork for further improvements expected in the near... Read Entire Article",
+    "link": "https://www.techspot.com/news/112109-valve-proton-11-beta-boosts-linux-gaming-better.html",
     "categories": [
       "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.577724"
-  },
-  {
-    "title": "AMD's market cap hits all-time high, Intel hits 25-year high on Agentic AI's insatiable demand for CPUs",
-    "summary": "Demand for CPUs by AI systems is creating positive sentiment and drives AMD and Intel stocks to their highs.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amds-market-cap-hits-all-time-high-intel-hits-25-year-high-on-agentic-ais-insatiable-demand-for-cpus",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.577847"
-  },
-  {
-    "title": "Quantum photonics roadmap how Xanadu and PsiQuantum are looking to transfer qubits through beams of light",
-    "summary": "We analyze the approaches of PsiQuantum and Xanadu, who are each developing their own approaches to quantum photonic communications, with a vision that extends beyond 2029.",
-    "link": "https://www.tomshardware.com/tech-industry/quantum-computing/quantum-photonics-roadmap-how-xanadu-and-psiquantum-are-looking-to-transfer-qubits-through-beams-of-light",
-    "categories": [
       "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.577962"
-  },
-  {
-    "title": "Meta raising Quest headset prices due to AI-driven RAM shortage Quest 3 to cost $600, Quest 3S $350 from April 19",
-    "summary": "Meta's Quest 3 lineup was known for offering an excellent value proposition, giving players a powerful, untethered VR experience without breaking the bank. Unfortunately, the AI boom is at the door, and Meta is now raising the price of the Quest 3 by $100, to $600, while the cheaper Quest 3S is getting hiked by $50.",
-    "link": "https://www.tomshardware.com/virtual-reality/meta-raising-quest-headset-prices-due-to-ai-driven-ram-shortage-quest-3-to-cost-usd600-quest-3s-usd350-from-april-19",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.578085"
-  },
-  {
-    "title": "Pragmata PC performance tested: 18 GPUs take us to the Moon",
-    "summary": "Capcom's Pragmata blends strategic gunplay and split-second puzzle solving for a fresh and fun adventure on the Moon. Oh, and everything is 3D printed. We tested 18 different GPUs for rasterization, ray tracing, and path-traced performance to find the best way to play.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/pragmata-pc-performance-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-17T09:59:07.578236"
-  },
-  {
-    "title": "Chinese fabs import record volumes of US chipmaking equipment via Singapore and Malaysia homegrown tool makers booked record 2025 revenues as price competition squeezes margins",
-    "summary": "2025 was a bumper year for Chinese chipmaking equipment firms Naura, AMEC, ACM Research, and Piotech, with each posting record revenues.",
-    "link": "https://www.tomshardware.com/tech-industry/chinese-chip-tool-makers-booked-record-2025-revenues",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-17T09:59:07.578353"
-  },
-  {
-    "title": "US appeals court restarts $3 billion patent infringement lawsuit against Intel VLSI case from 2017 returns after court sets aside 2024 decision",
-    "summary": "The U.S. Court of Appeals determines $3 billion VLSI lawsuit was not suitable for summary judgment and must instead be evaluated by a jury, so it must return to a district court for proceedings.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/us-appeals-court-restarts-usd3-billion-patent-infringement-lawsuit-against-intel-vlsi-case-from-2017-returns-after-court-sets-aside-2024-decision",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.578479"
-  },
-  {
-    "title": "Two US citizens get combined 16 years in prison for running North Korean laptop farms fake remote IT work scheme netted DPRK $5 million in around three years",
-    "summary": "The Department of Justice announced the sentencing of the U.S. nationals that have been convicted of running laptop farms that allowed North Korean workers to pose as American residents and work at American tech firms.",
-    "link": "https://www.tomshardware.com/tech-industry/two-us-citizens-get-combined-18-years-in-prison-for-running-north-korean-laptop-farms-fake-remote-it-work-scheme-netted-dprk-usd5-million-in-around-three-years",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-17T09:59:07.578602"
-  },
-  {
-    "title": "Intel launches Wildcat Lake as Core Series 3 for value laptops and edge systems six consumer SKUs built on 18A promise 'all-day' battery life",
-    "summary": "Intel has today launched its Core Series 3 mobile processors, confirming the official branding for the silicon tracked under the Wildcat Lake codename since late 2024.",
-    "link": "https://www.tomshardware.com/tech-industry/intel-launches-wildcat-lake-as-core-series-3",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-17T09:59:07.578717"
-  },
-  {
-    "title": "Legendary Qualcomm, Apple, and Nuvia alumni form new CPU startup Nuvacore promises to 'rewrite the rules of silicon'",
-    "summary": "Ex-Apple, ex-Nuvia CPU designers Gerard Williams, John Bruno, and Ram Srinivasan establish Nuvacore startup to develop clean-sheet CPUs for always-on compute-intensive AI workloads.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.578833"
-  },
-  {
-    "title": "Bambu updates its 3D printers to print unique hues or gradients using two or three filaments company acknowledges OrcaSlicer-FullSpectrum fork as the basis for the color prediction part of the new feature",
-    "summary": "Bambu Studio V2.5.3 gets a Mixed Filament feature that lets you combine two to three different filament colors to get a new, unique one. It also comes with a gradient feature to allow a smooth transition between different colors on a single plane.",
-    "link": "https://www.tomshardware.com/3d-printing/bambu-updates-its-3d-printers-to-print-unique-hues-or-gradients-using-two-or-three-filaments-company-acknowledges-orcaslicer-fullspectrum-fork-as-the-basis-for-the-color-prediction-part-of-the-new-feature",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.578952"
-  },
-  {
-    "title": "Score 64GB of G.Skill DDR5 and a 1TB 990 Pro for an insane $441 in this Newegg bundle 9800X3D and X870E motherboard also comes with a free AIO, just $1,299 to start an AM5 gaming build",
-    "summary": "Newegg's latest combo bundle lets you pay $1299.99 for 64GB of G.Skill DDR5-6000 RAM, Samsung 1TB 990 Pro SSD, Ryzen 7 9800X3D CPU, and Asus RoG Strix X870E-E Gaming WiFi Motherboard.",
-    "link": "https://www.tomshardware.com/pc-components/score-64gb-of-g-skill-ddr5-and-a-1tb-990-pro-for-an-insane-usd441-in-this-newegg-bundle-9800x3d-and-x870e-motherboard-also-comes-with-a-free-aio-just-usd1-299-to-start-an-am5-gaming-build",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.579072"
-  },
-  {
-    "title": "Asus TUF Gaming A14 (2026) review: Big CPU power in a mispriced gaming laptop",
-    "summary": "An impressively powerful CPU makes the TUF Gaming A14 a strong productivity machine, but underwhelming gaming performance undermines its value as a gaming laptop.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/asus-tuf-gaming-a14-2026-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
     ],
     "quality_score": 15,
-    "processed_date": "2026-04-17T09:59:07.579201"
+    "processed_date": "2026-04-18T09:32:51.857677"
   },
   {
-    "title": "Anonymous perps behind 86 million files scraped from Spotify hit with $322 million court judgement Anna's Archive case presents intriguing precedent for AI training",
-    "summary": "A U.S. federal judge on Tuesday awarded Spotify and the three major labels $322 million in a default judgment against Anna's Archive.",
-    "link": "https://www.tomshardware.com/tech-industry/annas-archive-fined-322-million",
+    "title": "Researchers warn Microsoft Defender vulnerability is already being exploited",
+    "summary": "A security researcher known as Chaotic Eclipse recently disclosed a vulnerability dubbed \"Red Sun\" affecting Microsoft Defender Antivirus. While criticizing Microsoft's handling of the issue, Chaotic Eclipse explained that their proof-of-concept code could potentially be used to bypass Defender's protections. The researcher also claimed that malicious actors have already begun... Read Entire Article",
+    "link": "https://www.techspot.com/news/112099-researchers-warn-microsoft-defender-vulnerability-already-exploited.html",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.579316"
+    "quality_score": 10,
+    "processed_date": "2026-04-18T09:32:51.857872"
   },
   {
-    "title": "Non-functioning counterfeit Samsung 990 Pro SSDs are circulating in Europe Despite convincing packaging, blue PCB easily gives away the dupe",
-    "summary": "In Austria, a buyer has received two Samsung 990 Pro clones that don't function.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/non-functioning-counterfeit-samsung-990-pro-ssds-are-circulating-in-europe-despite-convincing-packaging-blue-pcb-easily-gives-away-the-dupe",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.579423"
-  },
-  {
-    "title": "Oklahoma farmer arrested and jailed for trespassing during AI data center town hall removed by officers after going a few seconds over allotted speaking time, trying to hand paperwork to counselors",
-    "summary": "Darren Blanchard, a farmer from Tulsa, Oklahoma, was arrested for going over the time limit during a town hall meeting to discuss residents' concerns about a potential data center project in the area.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/oklahoma-farmer-arrested-and-jailed-for-trespassing-during-ai-data-center-town-hall-removed-by-officers-after-going-a-few-seconds-over-allotted-speaking-time-trying-to-hand-paperwork-to-counselors",
+    "title": "A four-day Steam freebie turned into $250,000 for an indie game",
+    "summary": "Nichiporchik said the increase came from new players who tried the game for free and then paid for additional content. The strategy relies less on the free offer itself and more on whether the game can retain players long enough for them to make a purchase. In this case, Graveyard... Read Entire Article",
+    "link": "https://www.techspot.com/news/112106-four-day-steam-freebie-turned-250000-indie-game.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.579544"
+    "processed_date": "2026-04-18T09:32:51.858074"
   },
   {
-    "title": "Virginia voter support for new data centers collapses from 69% in 2023 to 35% in new poll Multi-gigawatt, 37-building Digital Gateway project abandoned",
-    "summary": "Just 35% of Virginia voters now say they would be comfortable with a new data center going up in their community, down from 69% in 2023.",
-    "link": "https://www.tomshardware.com/tech-industry/virginia-voter-support-for-new-data-centers-collapses-to-35-percent",
+    "title": "AMD may relaunch Ryzen 7 5800X3D for AM4's 10th anniversary",
+    "summary": "Prominent leaker HXL recently shared a photo of AMD marketing material advertising a 10th-anniversary edition of the Ryzen 7 5800X3D CPU, planned for the second quarter of this year. While celebrating the 10th anniversary of the company's popular socket platform is a fitting pretext, the well-regarded chip would likely also... Read Entire Article",
+    "link": "https://www.techspot.com/news/112101-amd-may-relaunch-ryzen-7-5800x3d-am4-10th.html",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.858252"
+  },
+  {
+    "title": "This humanoid robot can almost run as fast as a human sprinter",
+    "summary": "The demonstration centers on a controlled track test in which the robot passes a speed-measurement device at peak velocity. Unitree says the measurement may not be exact, but the result still suggests a sharp increase in how fast humanoid robots can move. The company describes the robot as achieving \"world... Read Entire Article",
+    "link": "https://www.techspot.com/news/112094-humanoid-robot-can-almost-run-fast-human-sprinter.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.579649"
+    "processed_date": "2026-04-18T09:32:51.858425"
   },
   {
-    "title": "Struggling shoemaker and apparel brand Albird pivots to AI data centers, stock jumps 580% in a single day sells core business and leveraging $50 million in financing to become a GPU-as-a-Service and AI cloud solutions provider",
-    "summary": "Allbirds announced that it's selling its core shoe and apparel business and will pivot to selling compute as a GPU-as-a-Service and AI cloud solutions provider at a $50 million infusion from an institutional investor.",
-    "link": "https://www.tomshardware.com/tech-industry/struggling-shoemaker-and-apparel-brand-albird-pivots-to-ai-data-centers-stock-jumps-580-percent-in-a-single-day-sells-core-business-and-leveraging-usd50-million-in-financing-to-become-a-gpu-as-a-service-and-ai-cloud-solutions-provider",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-17T09:59:07.579774"
-  },
-  {
-    "title": "IPv6 usage reaches historic 50% across Google services, matching IPv4 increased usage eases pressure on the IPv4 address market as 'new' protocol designed in 1998 finally hits its stride",
-    "summary": "IPv6 usage reaches 50% across Google services",
-    "link": "https://www.tomshardware.com/networking/ipv6-usage-reaches-historic-50-percent-across-google-services-matching-ipv4-increased-usage-eases-pressure-on-the-ipv4-address-market-as-new-protocol-designed-in-1998-finally-hits-its-stride",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.579875"
-  },
-  {
-    "title": "Engineer open-sources DIY radar system that's 95% cheaper than $250,000 commercial offerings, has 20 kilometer range Moroccan engineer designs Aeris-10 radar, shares it on GitHub",
-    "summary": "Open-source radar system is 95% cheaper than $250k commercial offerings",
-    "link": "https://www.tomshardware.com/maker-stem/open-source-radar-system-is-95-percent-cheaper-than-usd250-000-commercial-offerings-has-20-kilometer-range-moroccan-engineer-designs-aeris-10-radar-shares-it-on-github",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.579979"
-  },
-  {
-    "title": "WiQwiic-32 A compact USB-C IoT board with eight Qwiic connectors (Crowdfunding)",
-    "summary": "Hack The Board s WiQwiic-32 is a small USB-C IoT development board based on an ESP32-S3-WROOM-1 Wi-Fi and Bluetooth module, and equipped with a 1.14-inch LCD and eight Qwiic ports for easy prototyping with compatible modules. It also features a microphone and a buzzer for audio interaction, four buttons, two RGB LEDs, and a power LED. There aren t any through-holes for GPIO pins, so expansion is only possible through the Qwiic connectors, although you can always add a Qwiic to header converter module if you ever need breadboard-compatible GPIO headers. WiQwiic-32 specifications: Wireless Module ESP32-S3-WROOM-1 SoC Espressif Systems ESP32-S3 CPU Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM 512KB SRAM Storage TBD Wireless WiFi 4 and Bluetooth LE 5 Antenna PCB antenna Display 1.14-inch TFT display Audio On-board buzzer Built-in microphone for voice and sound detection USB [...] The post WiQwiic-32 A compact USB-C IoT board with eight Qwiic connectors (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/17/wiqwiic-32-a-compact-usb-c-iot-board-with-eight-qwiic-connectors/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-17T09:59:07.580441"
-  },
-  {
-    "title": "reBot Arm B601-DM An open-source 6+1 DoF robotic arm for embodied AI and teleoperation applications",
-    "summary": "Seeed Studio reBot Arm B601-DM is a fully open-source 6-axis robotic arm (plus a parallel gripper) designed to lower the barrier to entry for embodied AI learning and teleoperation. Built around high-performance Damiao actuators, the arm offers up to 767mm of reach, a 1.5kg payload capacity, and high-precision 0.2mm repeatability. Designed for researchers and robotics developers, the B601-DM is compatible out of the box with major AI and robotics frameworks, including ROS 1/2, Hugging Face s LeRobot, NVIDIA Isaac Sim, and Pinocchio. Seeed Studio reBot Arm B601-DM specifications: Communication CAN bus @ 1Mbps) and UART @ 921600bps Degrees of Freedom (DOF) 6-axis arm + 1 parallel gripper Motors / Actuators 7x Damiao motors 4x DAMIAO 4310 (DM-J4310-2EC) 3x DAMIAO 4340P (DM-J4340P-2EC) high-torque motors Payload 1.5kg (without gripper, at recommended 70% reach) Reach 767mm (with gripper), 607mm (without gripper) Repeatability < 0.2 mm Joint torque and [...] The post reBot Arm B601-DM An open-source 6+1 DoF robotic arm for embodied AI and teleoperation applications appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/17/rebot-arm-b601-dm-an-open-source-61-dof-robotic-arm-for-embodied-ai-and-teleoperation-applications/",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-04-17T09:59:07.580625"
-  },
-  {
-    "title": "Intel Core Series 3 Wildcat Lake processor family launched for entry-level laptops and Edge AI systems",
-    "summary": "After several leaks, the Intel Core Series 3 Wildcat Lake entry-level processor family is now official. Intel describes it as the first hybrid AI-ready Core Series processor . As expected, the Computer & CPU tile comes with up to six cores (2x P cores + 4x LPE cores), up to 2-core Intel Xe 3 graphics, up to 40 TOPS of combined AI performance, and LPDDR5x/DDR5 memory interfaces. The Platform controller tile integrates six PCIe Gen4 lanes, two Thunderbolt 4 interfaces, two USB 3.2 and eight USB 2.0 interfaces, as well as WiFi 7 and Bluetooth 6.0 connectivity. The Computer & GPU tile is manufactured using an Intel 18A process, while the Platform controller tile is manufactured with another External process (TSMC?). Single-channel memory is confirmed, and it looks like eMMC flash will be replaced with UFS 3.0 memory for edge systems with soldered-on memory, although many systems will make use of [...] The post Intel Core Series 3 Wildcat Lake processor family launched for entry-level laptops and Edge AI systems appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/17/intel-core-series-3-wildcat-lake-processor-family-launched-for-entry-level-laptops-and-edge-ai-systems/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-17T09:59:07.580804"
-  },
-  {
-    "title": "Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact, low-power SBC based on Microchip SAMA5D57 SiP",
-    "summary": "Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact (70x50mm) single board computer (SBC) powered by a Microchip SAMA5D27 Arm Cortex-A5 processor microprocessor clocked at 500 MHz paired with 256MB LPDDR2 (system-in-package). The board also features a microSD card slot and EEPROM for storage/configuration, Fast Ethernet, WiFi 4, and Bluetooth 4.1 connectivity, a USB-C port, two GPIO headers, and supports USB and battery power. It s designed for IoT devices, smart systems, and edge computing applications. Conclusive Engineering KSTR-SAMA5D7 specifications: SiP Microchip SAMA5D27 CPU Arm Cortex-A5 microprocessor @ 500 MHz System Memory 256 MB LPDDR2 Storage MicroSD card slot 4KB EEPROM Networking 10/100Mbps Ethernet RJ45 jack 2.4 GHz WLAN IEEE 802.11 b/g/n and Bluetooth 4.1 USB 1x USB 2.0 OTG Type-C connector 1x USB 2.0 Host on expansion header Expansion 34-pin and 30-pin connectors 2x Flexcom (configurable: I2C, SPI, UART) I2C 6-channel ADC with Vref 10-bit ISC (Image Sensor Controller), 10-bit [...] The post Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact, low-power SBC based on Microchip SAMA5D57 SiP appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/16/conclusive-engineering-kstr-sama5d27-ultra-compact-sbc-microchip-sama5d57-sip/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-17T09:59:07.580983"
-  },
-  {
-    "title": "New self-healing material can repair itself over 1,000 times, extend the lifespan of cars and aircraft",
-    "summary": "The breakthrough addresses a critical structural failure known as delamination, where layers in fiber reinforced polymer (FRP) materials begin to separate over time. The new composite looks similar to traditional FRPs but is designed to be tougher, making it less prone to cracking or breaking. Read Entire Article",
-    "link": "https://www.techspot.com/news/112095-new-self-healing-material-can-repair-itself-over.html",
+    "title": "Two New Jersey men jailed for helping North Korean IT workers infiltrate 100+ companies",
+    "summary": "According to an official DoJ press release, 42-year-old Kejia \"Tony\" Wang of Edison, NJ, has been sentenced to nine years in prison, while 39-year-old Zhenxing \"Danny\" Wang of New Brunswick, NJ, has been sentenced to seven years and nine months in a federal penitentiary for his role in the scheme. Read Entire Article",
+    "link": "https://www.techspot.com/news/112103-two-new-jersey-men-sentenced-funding-north-korea.html",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-17T09:59:07.582222"
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.858596"
   },
   {
-    "title": "Japan's bullet train to debut high-tech private cabins, for an added fee",
-    "summary": "A recently introduced Shinkansen high-speed train is set to add several exclusive private cabins over the next few months. According to a local report, these \"private rooms\" will include high-tech services designed to improve remote working conditions and internet performance. Travelers visiting Japan may also find the option appealing, although... Read Entire Article",
-    "link": "https://www.techspot.com/news/112098-japan-bullet-train-debut-high-tech-private-cabins.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-17T09:59:07.582410"
-  },
-  {
-    "title": "Memory card and flash drive pricing surges 120%, with some models spiking 260%",
-    "summary": "Take flash-based memory cards, for example. Building on data from a PCWorld investigation, Tom's Hardware recently found that memory card and USB drive prices have increased by an average of 123% compared to last year. And that's just the median in one extreme example, a 256GB Lexar Blue microSDXC... Read Entire Article",
-    "link": "https://www.techspot.com/news/112097-memory-card-flash-drive-prices-surge-up-123.html",
+    "title": "A $7,000 DIY radar project is taking on hardware that usually costs over $100,000",
+    "summary": "Rather than presenting a stripped-down proof of concept, Motii has published a complete, buildable system. The Aeris-10 repository includes schematics, PCB layouts, firmware, and a graphical control interface, effectively exposing the entire stack from signal processing to user interaction. The project is available on GitHub. Read Entire Article",
+    "link": "https://www.techspot.com/news/112104-7000-diy-radar-project-taking-hardware-usually-costs.html",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.582602"
+    "processed_date": "2026-04-18T09:32:51.858775"
   },
   {
-    "title": "Open-source tool decrypts all private data collected by Windows Recall on Copilot PCs",
-    "summary": "Alexander Hagenah previously exposed issues affecting Windows Recall with his TotalRecall tool, prompting Microsoft to redesign the feature around stronger architectural principles. Now, the security researcher is once again highlighting Recall's weaknesses with TotalRecall Reloaded. The updated tool can reportedly bypass protections in Recall and access private user data stored... Read Entire Article",
-    "link": "https://www.techspot.com/news/112087-open-source-tool-decrypts-all-private-data-collected.html",
+    "title": "Metro 2039 is going darker than ever, launching this winter on PC and consoles",
+    "summary": "The follow up to 2020's Metro Exodus returns to the subway tunnels beneath post apocalyptic Moscow. Although most of the trailer is pre rendered CGI, a brief segment at the end shows real time gameplay with visuals that appear far more detailed than those in Exodus. Read Entire Article",
+    "link": "https://www.techspot.com/news/112100-metro-2039-going-darker-than-ever-launching-winter.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-18T09:32:51.858904"
+  },
+  {
+    "title": "Gemini arrives on macOS with a dedicated desktop app",
+    "summary": "The Gemini app for macOS gives Google's AI a native home on Apple desktops, with quick access via keyboard shortcuts, tight system integration, and the ability to work with on-screen content, local files, and Google services like Drive and Photos. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7868-gemini-for-macos.html",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-17T09:59:07.582797"
-  },
-  {
-    "title": "The 2026 PC and Console Gaming Report shows most revenue now comes from games outside the Top 20",
-    "summary": "In Western PC markets, titles ranked 21 and below accounted for 56% of spending in 2025, up from 48% in 2022. Most PC revenue now comes from games outside the Top 20. Over the same period, total PC playtime rose 14%. Games below the Top 20 increased their share of... Read Entire Article",
-    "link": "https://www.techspot.com/news/112092-2026-pc-console-gaming-report-shows-most-revenue.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.582969"
+    "processed_date": "2026-04-18T09:32:51.859014"
   },
   {
-    "title": "PureMac is a new open-source macOS cleanup and app removal tool",
-    "summary": "PureMac strips system cleanup back to basics, offering full app uninstallation with leftover file removal alongside tools for clearing caches, logs, and other clutter. It's positioned as a free, open-source alternative to CleanMyMac, it runs on-device with no telemetry or subscriptions. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7862-puremac.html",
+    "title": "AI infrastructure boom pushes AMD, Intel and Arm to new valuation heights",
+    "summary": "Those gains point to a broader realignment toward infrastructure built for emerging AI workloads, particularly agentic systems and retrieval augmented generation. Both lean heavily on sustained compute performance and memory throughput, putting renewed weight on CPU design, especially in systems where orchestration, preprocessing, and data movement remain CPU-bound even when... Read Entire Article",
+    "link": "https://www.techspot.com/news/112102-ai-infrastructure-boom-pushes-amd-intel-arm-new.html",
     "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.583135"
-  },
-  {
-    "title": "Your Airbnb host might actually be AI",
-    "summary": "The scale of this shift came into focus after an exchange at an Airbnb property near New York City, where an AI system speaking for hosts named Alexis and Peter responded to a guest message that appeared to test its system instructions. Read Entire Article",
-    "link": "https://www.techspot.com/news/112088-airbnb-host-might-actually-ai.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-17T09:59:07.583278"
-  },
-  {
-    "title": "Intel brings 18A process to budget laptops with new Core Series 3 CPUs",
-    "summary": "Intel describes Core Series 3 as an upgrade path for small businesses and home users following a typical five-year refresh cycle, offering performance gains over five-year-old PCs and previous-generation low-power Core processors such as Core 7 150U. Read Entire Article",
-    "link": "https://www.techspot.com/news/112093-intel-core-series-3-targets-affordable-pcs-ai.html",
-    "categories": [
-      "Hardware",
+      "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-17T09:59:07.583410"
-  },
-  {
-    "title": "How Intel Got Into Trouble: We Test the Last Decade of Intel Flagship CPUs",
-    "summary": "From Kaby Lake to Core Ultra, we revisit Intel's flagship CPUs to see how a decade of design choices shaped performance, power, and ultimately, how the company lost its lead. Read Entire Article",
-    "link": "https://www.techspot.com/article/3112-10-years-intel-flagship-cpus/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-17T09:59:07.583520"
+    "processed_date": "2026-04-18T09:32:51.859179"
   }
 ]
