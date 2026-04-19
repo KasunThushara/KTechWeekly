@@ -1,115 +1,65 @@
 # 📰 Tech News
-**Week of April 18, 2026**
+**Week of April 19, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-04-18 09:34
+- **Articles this week:** 5
+- **Report generated:** 2026-04-19 09:30
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Valve's Proton 11 beta boosts Linux gaming with better performance and classic game support ⭐
+### 1. Nvidia RTX 3060 comeback in 2026 could alleviate soaring GPU prices and memory shortages rumored RTX 5050 9GB abruptly shelved amid speculation 
 
-Valve's Proton 11 beta improves Linux gaming with better performance and classic game support.
+The Nvidia RTX 3060 may alleviate GPU price pressures and shortages if relaunched at a competitive price. This could provide a more affordable option for gamers and content creators. The move may also signal the shelving of the RTX 5050 9GB.
 
-💡 *Enhanced gaming experience for Linux users and classic game enthusiasts.*
+💡 *Relaunching the RTX 3060 could balance GPU market supply and demand.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112109-valve-proton-11-beta-boosts-linux-gaming-better.html)
-
----
-
-### 2. Keychron V5 Ultra 8K Review: Budget-friendly 8K 
-
-The Keychron V5 Ultra 8K offers a budget-friendly wireless mechanical keyboard with impressive features like an 8,000 Hz polling rate and up to 660 hours of battery life.
-
-💡 *Budget-friendly 8K keyboard meets high-end performance expectations.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-v5-ultra-8k-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3060-comeback-in-2026-could-alleviate-soaring-gpu-prices-and-memory-shortages-rumored-rtx-5050-9gb-abruptly-shelved-amid-speculation)
 
 ---
 
-### 3. Amazon Eero Signal review: 4G LTE internet backup for your Eero mesh network 
+### 2. Microsoft offers $2 million sweepstake for Edge users, but no one noticed for a month $1 million cash, Mercedes-Benz cars among prizes in desperate push for users 
 
-The Eero Signal provides automatic 4G LTE failover for Eero mesh networks, ensuring uninterrupted internet connectivity. It seamlessly switches to 4G LTE when your primary ISP goes down, keeping your devices online. This feature is ideal for homes or businesses with unreliable internet providers.
+Microsoft has launched a $2 million sweepstake for Edge browser users, offering prizes including $1 million cash and Mercedes-Benz cars.
 
-💡 *Reliable internet access is crucial for modern life and work.*
+💡 *Microsoft's desperate push for Edge adoption amidst declining browser market share.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/amazon-eero-signal-review)
-
----
-
-### 4. Steam shown running on Nintendo Switch thanks to latest Proton Beta FEX 2604 translates x86 to ARM-friendly instructions on Linux 
-
-Valve's Proton 11.0-Beta1 brings support for Arm devices, enabling Steam to run on the Nintendo Switch.
-
-💡 *Steam now accessible on non-x86 handheld gaming consoles.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/steam-shown-running-on-nintendo-switch-thanks-to-latest-proton-beta-fex-2604-translates-x86-to-arm-friendly-instructions-on-linux)
+🔗 [Read Full Article](https://www.tomshardware.com/software/microsoft-edge/microsoft-offers-usd2-million-sweepstake-for-edge-users-but-no-one-noticed-for-a-month-usd1-million-cash-mercedes-benz-cars-among-prizes-in-desperate-push-for-users)
 
 ---
 
-### 5. Crazed World of Warcraft gamer plays game with 3D-printed hot dog controller the left wiener quad-array controls movement, the right triggers abilities 
+### 3. IPv6 traffic reaches parity with IPv4 for the first time, Google data shows 
 
-A World of Warcraft gamer designed a unique controller using a 3D-printed hot dog, where the left wiener quad-array controls movement and the right triggers abilities.
+IPv6 traffic briefly surpassed IPv4 usage in March 2023, reaching parity.
 
-💡 *Blending creativity and innovation drives novel gaming solutions.*
+💡 *IPv6 adoption represents a significant shift towards a more modern internet.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/crazed-world-of-warcraft-gamer-plays-game-with-3d-printed-hot-dog-controller-the-left-wiener-quad-array-controls-movement-the-right-triggers-abilities)
-
----
-
-### 6. SNK revives NeoGeo AES with modern upgrades and HDMI support 
-
-SNK is reviving the NeoGeo AES console with modern upgrades and an HDMI port. The NeoGeo AES+ will be available in various editions, including a 35th Anniversary edition. It is set to launch on November 12.
-
-💡 *Nostalgic gamers get upgraded hardware for classic console experience.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112107-snk-revives-neogeo-aes-modern-upgrades-hdmi-support.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112108-google-briefly-reaches-ipv6-parity-half-users-connect.html)
 
 ---
 
-### 7. AMD may relaunch Ryzen 7 5800X3D for AM4's 10th anniversary 
+### 4. Blue Origin prepares to reuse New Glenn booster in bid to challenge SpaceX 
 
-AMD may relaunch the Ryzen 7 5800X3D CPU to celebrate its 10th anniversary. The chip is planned for a second-quarter release. This could be a strategic move to revitalize the AM4 platform.
+Blue Origin aims to reuse its New Glenn booster in a bid to challenge SpaceX's dominance in reusability. The mission, scheduled for Sunday, will use the same booster that flew and landed in November. This marks a significant milestone for Blue Origin in launch economics.
 
-💡 *Re-releasing a popular CPU could boost AM4 platform sales.*
+💡 *Reusable boosters revolutionize launch economics with significant cost savings.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112101-amd-may-relaunch-ryzen-7-5800x3d-am4-10th.html)
-
----
-
-### 8. This humanoid robot can almost run as fast as a human sprinter 
-
-A humanoid robot has demonstrated the ability to achieve high speeds, potentially matching human sprinters. The controlled track test resulted in a measurement of the robot's peak velocity. Unitree claims the robot's speed is a significant improvement over previous humanoid robots.
-
-💡 *Advancements in humanoid robotics may lead to faster human-like movement.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112094-humanoid-robot-can-almost-run-fast-human-sprinter.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112115-blue-origin-prepares-first-new-glenn-booster-reuse.html)
 
 ---
 
-### 9. Two New Jersey men jailed for helping North Korean IT workers infiltrate 100+ companies 
+### 5. SNK revives the mighty Neo Geo in modern form new AES+ system plays classic games without emulation 
 
-Two New Jersey men were sentenced to prison for helping North Korean IT workers infiltrate over 100 companies.
+SNK is reviving the Neo Geo in modern form with the AES+, which will play classic games natively without emulation, set to release in November.
 
-💡 *Cybersecurity threats posed by foreign state-sponsored hacking operations are increasing significantly.*
+💡 *Native game compatibility preserves original gaming experience and quality*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112103-two-new-jersey-men-sentenced-funding-north-korea.html)
-
----
-
-### 10. Metro 2039 is going darker than ever, launching this winter on PC and consoles 
-
-Metro 2039, the sequel to Metro Exodus, is set in Moscow's post-apocalyptic subway tunnels. The game will launch this winter on PC and consoles. Pre-rendered CGI dominates the trailer, with a glimpse of real-time gameplay showing improved visuals.
-
-💡 *Enhanced visuals signal a more immersive gaming experience ahead*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112100-metro-2039-going-darker-than-ever-launching-winter.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/snk-revives-the-mighty-neo-geo-in-modern-form-new-aes-system-plays-classic-games-without-emulation)
 
 ---
 

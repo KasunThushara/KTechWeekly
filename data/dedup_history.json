@@ -1,226 +1,4 @@
 {
-  "https://www.tomshardware.com/desktops/mini-pcs/arctics-usd1-400-amd-strix-point-fanless-mini-pc-hides-under-your-desk-senza-ai-370-features-ryzen-ai-9-hx-370-cpu-32gb-ram-and-1tb-ssd": {
-    "title": "Arctic's $1,400 AMD Strix Point fanless mini-PC hides under your desk Senza AI 370 features Ryzen AI 9 HX 370 CPU, 32GB RAM, and 1TB SSD",
-    "fingerprint": "62580ccced5a583a97e01909fcadd58a",
-    "timestamp": 1773998640.888506,
-    "date": "2026-03-20T09:24:00.888509"
-  },
-  "https://www.tomshardware.com/pc-components/pc-cases/corsairs-new-3200d-mid-tower-case-redefines-airflow-and-component-compatibility-the-case-perfectly-pairs-with-rear-connector-motherboards": {
-    "title": "Corsair's new 3200D mid-tower case redefines airflow and component compatibility the case perfectly pairs with rear-connector motherboards",
-    "fingerprint": "ee276225878f16751ddc8ed2cc01c61b",
-    "timestamp": 1773998640.888638,
-    "date": "2026-03-20T09:24:00.888639"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/walmart-flooded-with-rtx-40-series-gpus-as-50-series-remains-out-of-reach-for-most-gamers-retailer-slashes-up-to-usd480-off-last-gen-gpus-to-offer-sensible-prices": {
-    "title": "Walmart flooded with RTX 40-series GPUs as 50-series remains out of reach for most gamers retailer slashes up to $480 off last-gen GPUs to offer sensible prices",
-    "fingerprint": "d24ab0610018e0f2ac77ff374eeed63e",
-    "timestamp": 1773998640.888756,
-    "date": "2026-03-20T09:24:00.888757"
-  },
-  "https://www.tomshardware.com/peripherals/gaming-headsets/astro-a50-x-review": {
-    "title": "Astro A50 X Review: For your battlestation",
-    "fingerprint": "705b77708162307d09f28cc7b89319ca",
-    "timestamp": 1773998640.888869,
-    "date": "2026-03-20T09:24:00.888869"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/optiscaler-team-fixes-int8-fsr-4-ghosting-on-rx-6000-series-gpus-adds-support-for-the-latest-adrenalin-drivers": {
-    "title": "Optiscaler team fixes INT8 FSR 4 ghosting on RX 6000 series GPUs adds support for the latest Adrenalin drivers",
-    "fingerprint": "c6ad132d7e488927a68c665b1941405e",
-    "timestamp": 1773998640.888978,
-    "date": "2026-03-20T09:24:00.888979"
-  },
-  "https://www.tomshardware.com/tech-industry/semiconductors/tesla-hiring-semiconductor-fabs-construction-manager-elon-musks-ambitious-terafab-project-begins": {
-    "title": "Tesla hiring semiconductor fabs construction manager Elon Musk's ambitious Terafab project begins",
-    "fingerprint": "e45890b84b17e038e07b7a459eb89e45",
-    "timestamp": 1773998640.889096,
-    "date": "2026-03-20T09:24:00.889097"
-  },
-  "https://www.tomshardware.com/tech-industry/manufacturing/us-trade-deficit-hits-a-record-usd1-2-trillion-as-ai-hardware-imports-surge-under-the-trump-administration-massive-demand-for-chips-from-asia-outpaces-domestic-production-fueling-a-60-percent-increase-in-imports-in-12-months": {
-    "title": "US trade deficit hits a record $1.2 trillion as AI hardware imports surge under the Trump administration massive demand for chips from Asia outpaces domestic production, fueling a 60% increase in imports in 12 months",
-    "fingerprint": "6673472169b433f132d97e45dfd6db20",
-    "timestamp": 1773998640.889225,
-    "date": "2026-03-20T09:24:00.889225"
-  },
-  "https://www.tomshardware.com/tech-industry/semiconductors/nvidias-20-billion-groq-deal-produces-its-first-chip": {
-    "title": "How Nvidia's $20 billion Groq 3 LPU deal reshapes the Nvidia Vera Rubin Platform Samsung 4nm process serves as bedrock for SRAM-based AI accelerator chip",
-    "fingerprint": "e2a2d5b7d87a987867b54d3a0306ebf8",
-    "timestamp": 1773998640.889354,
-    "date": "2026-03-20T09:24:00.889355"
-  },
-  "https://www.tomshardware.com/pc-components/motherboards/msi-mpg-x870e-carbon-max-wifi-review": {
-    "title": "MSI MPG X870E Carbon Max Wifi Review: Small tweaks, same Carbon DNA",
-    "fingerprint": "bb09393e6a970cbc6fd8427221a0b7b9",
-    "timestamp": 1773998640.889464,
-    "date": "2026-03-20T09:24:00.889465"
-  },
-  "https://www.tomshardware.com/software/browsers/opera-gx-finally-arrives-on-linux-by-popular-demand-offers-gamers-and-developers-a-highly-customizable-browser-with-advanced-resource-management": {
-    "title": "Opera GX finally arrives on Linux by popular demand offers gamers and developers a highly customizable browser with advanced resource management",
-    "fingerprint": "f8bd85a728a39c4f239440eb3591ea17",
-    "timestamp": 1773998640.889571,
-    "date": "2026-03-20T09:24:00.889572"
-  },
-  "https://www.tomshardware.com/tech-industry/semiconductors/researchers-reach-superconductivity-at-ambient-pressure-record-high-temperature-milestone-of-122-c-reached-by-using-pressure-quenching-still-140-degrees-off-room-temperature-target": {
-    "title": "Researchers reach superconductivity at ambient pressure, record high temperature milestone of -122 C reached by using pressure quenching, still 140 degrees off room temperature target",
-    "fingerprint": "acf3d5e1b7f2071e1b1591ca9da2ddd4",
-    "timestamp": 1773998640.889681,
-    "date": "2026-03-20T09:24:00.889681"
-  },
-  "https://www.tomshardware.com/desktops/gaming-pcs/save-usd800-on-this-powerhouse-alienware-4k-gaming-pc-with-an-rtx-5080-and-64gb-ddr5-ram-epic-pre-built-also-includes-a-huge-4tb-ssd-and-a-24-core-intel-cpu-for-high-end-performance": {
-    "title": "Save $800 on this powerhouse Alienware 4K gaming PC with an RTX 5080 and 64GB DDR5 RAM epic pre-built also includes a huge 4TB SSD and a 24-core Intel CPU for high-end performance",
-    "fingerprint": "a4db00b03d00cbafcf63d90c9c0f6465",
-    "timestamp": 1773998640.88983,
-    "date": "2026-03-20T09:24:00.889832"
-  },
-  "https://www.tomshardware.com/pc-components/liquid-cooling/thermalrights-impressive-aio-cooler-lets-you-add-a-panoramic-screen-to-your-pc-for-just-usd165-bag-a-20-percent-saving-on-the-wonder-vision-360-and-treat-your-cpu": {
-    "title": "Thermalright's impressive AIO cooler lets you add a panoramic screen to your PC for just $165 bag a 20% saving on the Wonder Vision 360 and treat your CPU",
-    "fingerprint": "305411cf3c27acba6bcbeda7a4affd13",
-    "timestamp": 1773998640.889947,
-    "date": "2026-03-20T09:24:00.889948"
-  },
-  "https://www.tomshardware.com/pc-components/ssds/kioxia-announces-new-super-high-iops-ssd-that-helps-accelerate-ai-workloads-on-nvidia-gpus-25-6tb-drive-provides-more-gpu-accessible-memory-for-faster-data-access": {
-    "title": "Kioxia announces new Super High IOPS SSD that helps accelerate AI workloads on Nvidia GPUs 25.6TB drive provides more GPU-accessible memory for faster data access",
-    "fingerprint": "91ecaefb83bd756d2e4ccb2153f80cf3",
-    "timestamp": 1773998640.89008,
-    "date": "2026-03-20T09:24:00.890081"
-  },
-  "https://www.tomshardware.com/peripherals/controllers-gamepads/8bitdo-launches-usd40-nintendo-64-inspired-wireless-controller-with-2-4-ghz-connection-dedicated-wireless-receiver-even-works-with-the-original-n64": {
-    "title": "8BitDo launches $40 Nintendo 64-inspired wireless controller with 2.4 GHz connection dedicated wireless receiver even works with the original N64",
-    "fingerprint": "820e7e05db033abe4905f217478fa7a7",
-    "timestamp": 1773998640.890204,
-    "date": "2026-03-20T09:24:00.890204"
-  },
-  "https://www.tomshardware.com/tech-industry/cyber-security/north-korean-fake-it-army-of-100-000-nets-kim-jong-un-a-cool-usd500-million-a-year-nk-aligned-workers-infiltrated-in-it-companies-worldwide-feeding-the-nations-revenue-generation": {
-    "title": "North Korean fake IT army of 100,000 nets Kim Jong-Un a cool $500 million a year NK-aligned workers infiltrated in IT companies worldwide, feeding the nation's revenue generation",
-    "fingerprint": "9e9ab199b765dbcd4740166447b61841",
-    "timestamp": 1773998640.890307,
-    "date": "2026-03-20T09:24:00.890308"
-  },
-  "https://www.tomshardware.com/pc-components/gpu-drivers/intel-adds-precompiled-shader-delivery-to-arc-xe2-and-xe3-gpus-following-directx-sdk-release-new-feature-can-improve-game-loading-times-by-up-to-3x": {
-    "title": "Intel's new feature can improve game loading times by up to 3x Precompiled Shader Delivery comes to Arc Xe2 and Xe3 GPUs following DirectX SDK release",
-    "fingerprint": "6ee0cb28507241088f4b0a72a1cb6725",
-    "timestamp": 1773998640.890449,
-    "date": "2026-03-20T09:24:00.890450"
-  },
-  "https://www.tomshardware.com/pc-components/ssds/16tb-m-2-ssd-hits-retail-if-youre-ready-to-drop-usd16-000-for-the-ultimate-storage-upgrade-price-tag-explodes-4x-in-just-four-months": {
-    "title": "16TB M.2 SSD hits retail if you re ready to drop $16,000 for the ultimate storage upgrade price tag explodes 4X in just four months",
-    "fingerprint": "cade1bcabd316032a099cc930bcff65b",
-    "timestamp": 1773998640.890551,
-    "date": "2026-03-20T09:24:00.890552"
-  },
-  "https://www.tomshardware.com/tech-industry/manufacturing/australian-researchers-develop-quantum-battery-proof-of-concept-which-uses-lasers-to-charge-near-instantly-breakthrough-could-pave-the-way-for-ultra-fast-wireless-charging-for-evs-and-drones-in-the-future-say-researchers": {
-    "title": "Australian researchers develop quantum battery proof-of-concept which uses lasers to charge near-instantly breakthrough could pave the way for ultra-fast wireless charging for EVs and drones in the future, say researchers",
-    "fingerprint": "b8dbaf3477c157f88457b1a062c3b7fb",
-    "timestamp": 1773998640.890661,
-    "date": "2026-03-20T09:24:00.890662"
-  },
-  "https://www.cnx-software.com/2026/03/20/enabling-mediatek-m7902-wifi-and-bluetooth-drivers-on-ubuntu-24-04-the-easy-way/": {
-    "title": "Enabling MediaTek M7902 WiFi and Bluetooth drivers on Ubuntu 24.04 the easy way",
-    "fingerprint": "4b33049323704eb4b3aa1d409b74d8de",
-    "timestamp": 1773998640.891101,
-    "date": "2026-03-20T09:24:00.891101"
-  },
-  "https://www.cnx-software.com/2026/03/20/u-blox-jody-w6-nxp-iw623-aw693-tri-band-wi-fi-6e-and-bluetooth-5-4-le-audio-modules/": {
-    "title": "u-blox JODY-W6 NXP IW623/AW693 tri-band Wi-Fi 6E and Bluetooth 5.4 LE audio modules",
-    "fingerprint": "696f0ce696ecc7523e16068f695b3b0c",
-    "timestamp": 1773998640.891271,
-    "date": "2026-03-20T09:24:00.891271"
-  },
-  "https://www.cnx-software.com/2026/03/20/8-inch-esp32-p4-touch-display-offers-wifi-6-ble-802-15-4-connectivity-optional-4g-lte-and-lorawan/": {
-    "title": "8-inch ESP32-P4 touch display offers WiFi 6, BLE, 802.15.4 connectivity, optional 4G LTE and LoRaWAN",
-    "fingerprint": "0b31d1a548eaefbf529baa948fe89114",
-    "timestamp": 1773998640.891457,
-    "date": "2026-03-20T09:24:00.891458"
-  },
-  "https://www.cnx-software.com/2026/03/19/clintech-pico-raspberry-pi-rp2354b-board-raspberry-pi-pico-form-factor/": {
-    "title": "Clintech Pico The first Raspberry Pi RP2354B board offers 48 GPIOs in Raspberry Pi Pico form factor",
-    "fingerprint": "ad1e9e3fd1eb64d248d26ef215c6a4a7",
-    "timestamp": 1773998640.891622,
-    "date": "2026-03-20T09:24:00.891622"
-  },
-  "https://www.cnx-software.com/2026/03/19/avaota-f2-allwinner-v861-risc-v-sbc-targets-ai-cameras-with-ptz-and-audio-support/": {
-    "title": "Avaota F2 Allwinner V861 RISC-V SBC targets AI cameras with PTZ and audio support",
-    "fingerprint": "0e5a186f7578e8afb0ac34513bad5815",
-    "timestamp": 1773998640.891795,
-    "date": "2026-03-20T09:24:00.891795"
-  },
-  "https://www.techspot.com/news/111750-scientists-can-now-build-cyborg-cockroach-can-pull.html": {
-    "title": "Scientists can now build a cyborg cockroach that can pull miniature rigs through pipelines to find leaks",
-    "fingerprint": "ae94dd9a6d4e94e6d871fac7d5118cf6",
-    "timestamp": 1773998640.892986,
-    "date": "2026-03-20T09:24:00.892989"
-  },
-  "https://www.techspot.com/news/111753-playstation-6-next-gen-xbox-expected-late-2027.html": {
-    "title": "PlayStation 6 and Next Xbox still expected in 2027 despite memory crisis",
-    "fingerprint": "445fb5f7808870de9544f2700d790908",
-    "timestamp": 1773998640.893129,
-    "date": "2026-03-20T09:24:00.893129"
-  },
-  "https://www.techspot.com/news/111751-memory-chip-shortage-going-last-until-2030-sk.html": {
-    "title": "SK Hynix boss says the memory chip shortage is going to last until 2030",
-    "fingerprint": "cd39960cbc9a8d046d86a97583ce9d3b",
-    "timestamp": 1773998640.89325,
-    "date": "2026-03-20T09:24:00.893250"
-  },
-  "https://www.techspot.com/news/111738-modders-rebuilding-baldur-gate-1-using-bg3-engine.html": {
-    "title": "Fans are rebuilding Baldur's Gate 1 inside Baldur's Gate 3",
-    "fingerprint": "7d9e1a5e90e2f9216437f41b0a9038dc",
-    "timestamp": 1773998640.893378,
-    "date": "2026-03-20T09:24:00.893378"
-  },
-  "https://www.techspot.com/news/111747-2027-bmw-i3-here-nothing-like-hatchback-you.html": {
-    "title": "The 2027 BMW i3 is here, and it's nothing like the hatchback you remember",
-    "fingerprint": "817dc5712ee3e9191aebac0cbddb21ab",
-    "timestamp": 1773998640.893502,
-    "date": "2026-03-20T09:24:00.893503"
-  },
-  "https://www.techspot.com/news/111742-indie-game-idea-went-viral-ai-built-clones.html": {
-    "title": "This indie game idea went viral then AI-built clones showed up within hours",
-    "fingerprint": "0b667b9d12a378c0776939926b859b6b",
-    "timestamp": 1773998640.89362,
-    "date": "2026-03-20T09:24:00.893621"
-  },
-  "https://www.techspot.com/news/111748-val-kilmer-appear-new-movie-ai-recreation-approved.html": {
-    "title": "Val Kilmer will appear in a new movie as an AI recreation approved by his family",
-    "fingerprint": "79355d201aab3f7a97b95b5a3391cf21",
-    "timestamp": 1773998640.893728,
-    "date": "2026-03-20T09:24:00.893729"
-  },
-  "https://www.techspot.com/news/111749-north-korea-deployed-100000-fake-workers-infiltrate-western.html": {
-    "title": "North Korea deployed 100,000 fake IT workers to infiltrate Western companies, making $500M a year for Kim Jong Un",
-    "fingerprint": "a159bbb3ec43b4719f74a231dbf37fda",
-    "timestamp": 1773998640.893841,
-    "date": "2026-03-20T09:24:00.893841"
-  },
-  "https://www.techspot.com/news/111744-new-iphone-spyware-spread-through-hacked-websites-could.html": {
-    "title": "New iPhone spyware Darksword spread through hacked websites, putting millions at risk",
-    "fingerprint": "9d161138ebd892df1398279b86b02fc4",
-    "timestamp": 1773998640.893958,
-    "date": "2026-03-20T09:24:00.893958"
-  },
-  "https://www.techspot.com/news/111740-amd-could-answer-intel-core-ultra-200k-plus.html": {
-    "title": "AMD could answer the Intel Core Ultra 200K Plus with faster Ryzen refresh",
-    "fingerprint": "0214347f276c5709f216ad56514e42e5",
-    "timestamp": 1773998640.894074,
-    "date": "2026-03-20T09:24:00.894075"
-  },
-  "https://www.techspot.com/news/111741-scientists-build-first-quantum-battery-charges-femtoseconds.html": {
-    "title": "Scientists build first working quantum battery prototype, uses lasers to charge in femtoseconds",
-    "fingerprint": "1e9a95a8e3a510eb06430e1e8b4ed4eb",
-    "timestamp": 1773998640.894201,
-    "date": "2026-03-20T09:24:00.894201"
-  },
-  "https://www.techspot.com/news/111745-crimson-desert-reviews-fail-meet-hype-pearl-abyss.html": {
-    "title": "Crimson Desert reviews fail to meet the hype as Pearl Abyss shares tumble 29%",
-    "fingerprint": "917089beeb173d45e655a548b64ae379",
-    "timestamp": 1773998640.894309,
-    "date": "2026-03-20T09:24:00.894309"
-  },
-  "https://www.techspot.com/news/111739-fbi-admits-buying-americans-location-data-wont-stop.html": {
-    "title": "FBI admits buying Americans' location data and says it won't stop",
-    "fingerprint": "eddae0fc36847c716b837c576482b6ba",
-    "timestamp": 1773998640.894421,
-    "date": "2026-03-20T09:24:00.894422"
-  },
   "https://www.tomshardware.com/pc-components/gpus/intel-suggests-it-was-snubbed-by-crimson-desert-dev-after-reaching-out-many-times-about-arc-gpus-company-says-it-provided-early-hardware-drivers-and-engineering-resources-to-studio": {
     "title": "Intel suggests it was snubbed by Crimson Desert dev after reaching out \"many times\" about Arc GPUs company says it provided \"early hardware, drivers, and engineering resources\" to studio",
     "fingerprint": "28d17c2c03b8513f99048a85859ff6bc",
@@ -5440,5 +5218,95 @@
     "fingerprint": "1a0419376784bd237cb16f66b8004aac",
     "timestamp": 1776504771.859176,
     "date": "2026-04-18T09:32:51.859177"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3060-comeback-in-2026-could-alleviate-soaring-gpu-prices-and-memory-shortages-rumored-rtx-5050-9gb-abruptly-shelved-amid-speculation": {
+    "title": "Nvidia RTX 3060 comeback in 2026 could alleviate soaring GPU prices and memory shortages rumored RTX 5050 9GB abruptly shelved amid speculation",
+    "fingerprint": "d744a965406a78d01c7a91595d02fda6",
+    "timestamp": 1776591000.091008,
+    "date": "2026-04-19T09:30:00.091011"
+  },
+  "https://www.tomshardware.com/tech-industry/cyber-security/bluetooth-tracker-hidden-in-a-postcard-and-mailed-to-a-warship-exposed-its-location-a-eur5-gadget-put-a-eur500-million-dutch-ship-at-risk-for-24-hours": {
+    "title": "Bluetooth tracker hidden in a postcard and mailed to a warship exposed its location $5 gadget put a $585 million Dutch ship at risk for 24 hours",
+    "fingerprint": "1965616cde7d3ce5297b38ae8736d804",
+    "timestamp": 1776591000.091149,
+    "date": "2026-04-19T09:30:00.091150"
+  },
+  "https://www.tomshardware.com/monitors/gaming-monitors/ktc-m27t6s-27-inch-qhd-mini-led-gaming-monitor-review": {
+    "title": "KTC M27T6S 27-inch QHD Mini LED gaming monitor review: Affordable, colorful, and bright",
+    "fingerprint": "26bd735c14f0fb7b4fe3f59afa9636fe",
+    "timestamp": 1776591000.091268,
+    "date": "2026-04-19T09:30:00.091269"
+  },
+  "https://www.tomshardware.com/pc-components/nas/minisforums-beastly-n5-max-nas-comes-powered-by-amd-strix-halo-usd2-899-for-ai-nas-with-pre-installed-openclaw-supports-up-to-200tb-capacity": {
+    "title": "Minisforum's beastly N5 Max NAS comes powered by AMD Strix Halo $2,899 for 'AI NAS' with pre-installed OpenClaw, supports up to 200TB capacity",
+    "fingerprint": "8988c644dab1cfc1aa6f4b10b13e7b32",
+    "timestamp": 1776591000.091376,
+    "date": "2026-04-19T09:30:00.091377"
+  },
+  "https://www.tomshardware.com/tech-industry/cyber-security/techie-buys-fake-ledger-nano-s-hardware-crypto-wallet-and-almost-falls-for-phishing-a-convincing-clone-would-have-caught-newbies-unaware": {
+    "title": "Techie buys fake Ledger Nano S+ hardware crypto wallet and almost falls for phishing a convincing clone would have caught newbies unaware",
+    "fingerprint": "2ddc88a67e4aa05e80c8e9b3c0d117aa",
+    "timestamp": 1776591000.091479,
+    "date": "2026-04-19T09:30:00.091480"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-250k-plus-vs-amd-ryzen-5-9600x-faceoff": {
+    "title": "Intel Core Ultra 250K Plus vs AMD Ryzen 5 9600X faceoff battle for the best $200 CPU",
+    "fingerprint": "d12a7b2d86c01034e55dc8c9b4f38987",
+    "timestamp": 1776591000.091583,
+    "date": "2026-04-19T09:30:00.091584"
+  },
+  "https://www.tomshardware.com/video-games/retro-gaming/snk-revives-the-mighty-neo-geo-in-modern-form-new-aes-system-plays-classic-games-without-emulation": {
+    "title": "SNK revives the mighty Neo Geo in modern form new AES+ system plays classic games without emulation",
+    "fingerprint": "601b581d9942570bdf9fad526dfe4c8b",
+    "timestamp": 1776591000.091678,
+    "date": "2026-04-19T09:30:00.091678"
+  },
+  "https://www.tomshardware.com/software/microsoft-edge/microsoft-offers-usd2-million-sweepstake-for-edge-users-but-no-one-noticed-for-a-month-usd1-million-cash-mercedes-benz-cars-among-prizes-in-desperate-push-for-users": {
+    "title": "Microsoft offers $2 million sweepstake for Edge users, but no one noticed for a month $1 million cash, Mercedes-Benz cars among prizes in desperate push for users",
+    "fingerprint": "7171a4ffbf3dabdc9de3b7874e5c3202",
+    "timestamp": 1776591000.091778,
+    "date": "2026-04-19T09:30:00.091779"
+  },
+  "https://www.tomshardware.com/software/cloud-storage/backblaze-redefines-unlimited-while-users-discover-its-not-backing-up-dropbox-and-onedrive-service-changes-could-signal-shift-away-from-home-backups": {
+    "title": "Backblaze silently redefines 'unlimited' backups and users discover it's not backing up Dropbox and OneDrive as firm leans heavier into AI storage services, changes could signal shift away from home backups",
+    "fingerprint": "9a20a013e6faa96d2524617e8e5e7cc4",
+    "timestamp": 1776591000.091905,
+    "date": "2026-04-19T09:30:00.091906"
+  },
+  "https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-nearly-lost-his-composure-when-pressed-on-selling-chips-to-china-youre-not-talking-to-someone-who-woke-up-a-loser": {
+    "title": "Nvidia CEO Jensen Huang nearly lost his composure when pressed on selling chips to China You re not talking to someone who woke up a loser ",
+    "fingerprint": "07e01c376675f6756027fdb95f98391a",
+    "timestamp": 1776591000.092016,
+    "date": "2026-04-19T09:30:00.092017"
+  },
+  "https://www.cnx-software.com/2026/04/19/beagleconnect-zepto-a-1-computer-based-on-ti-mspm0l1117-cortex-m0-mcu/": {
+    "title": "BeagleConnect Zepto A $1 computer based on TI MSPM0L1117 Cortex-M0+ MCU",
+    "fingerprint": "2d7323878b5dbd8c871c83950a2be505",
+    "timestamp": 1776591000.092552,
+    "date": "2026-04-19T09:30:00.092552"
+  },
+  "https://www.techspot.com/news/112108-google-briefly-reaches-ipv6-parity-half-users-connect.html": {
+    "title": "IPv6 traffic reaches parity with IPv4 for the first time, Google data shows",
+    "fingerprint": "4dd7e37049f2dc38e71e72dbcd19e6c5",
+    "timestamp": 1776591000.093794,
+    "date": "2026-04-19T09:30:00.093796"
+  },
+  "https://www.techspot.com/news/112110-xbox-expansion-cards-now-cheaper-than-ssds-pc.html": {
+    "title": "Xbox expansion cards are now cheaper than SSDs, and PC users are repurposing them",
+    "fingerprint": "010c73d8d81c921cfe03e9708c2488fd",
+    "timestamp": 1776591000.094001,
+    "date": "2026-04-19T09:30:00.094002"
+  },
+  "https://www.techspot.com/news/112115-blue-origin-prepares-first-new-glenn-booster-reuse.html": {
+    "title": "Blue Origin prepares to reuse New Glenn booster in bid to challenge SpaceX",
+    "fingerprint": "700a190dfd14b612b191aa55d3d2036a",
+    "timestamp": 1776591000.094171,
+    "date": "2026-04-19T09:30:00.094172"
+  },
+  "https://www.techspot.com/news/112111-nvidia-could-bring-back-12gb-rtx-3060-supply.html": {
+    "title": "Nvidia could bring back the 12GB RTX 3060 as supply issues disrupt GPU roadmap",
+    "fingerprint": "9c94d8567c9684b6e1534444982e537e",
+    "timestamp": 1776591000.094346,
+    "date": "2026-04-19T09:30:00.094347"
   }
 }

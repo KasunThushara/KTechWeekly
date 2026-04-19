@@ -1,376 +1,175 @@
 [
   {
-    "title": "Keychron V5 Ultra 8K Review: Budget-friendly 8K",
-    "summary": "The Keychron V5 Ultra 8K offers a budget-friendly wireless mechanical keyboard with impressive features like an 8,000 Hz polling rate and up to 660 hours of battery life.",
-    "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-v5-ultra-8k-review",
+    "title": "Nvidia RTX 3060 comeback in 2026 could alleviate soaring GPU prices and memory shortages rumored RTX 5050 9GB abruptly shelved amid speculation",
+    "summary": "The Nvidia RTX 3060 may alleviate GPU price pressures and shortages if relaunched at a competitive price. This could provide a more affordable option for gamers and content creators. The move may also signal the shelving of the RTX 5050 9GB.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3060-comeback-in-2026-could-alleviate-soaring-gpu-prices-and-memory-shortages-rumored-rtx-5050-9gb-abruptly-shelved-amid-speculation",
     "categories": [
-      "Hardware",
+      "GPUs",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-18T09:32:51.853386",
-    "insight": "Budget-friendly 8K keyboard meets high-end performance expectations."
+    "processed_date": "2026-04-19T09:30:00.091015",
+    "insight": "Relaunching the RTX 3060 could balance GPU market supply and demand."
   },
   {
-    "title": "US lawmakers amend new restrictions on Chinese chipmakers MATCH Act's blanket restrictions removed from select chipmaking tools",
-    "summary": "US lawmakers have amended the MATCH Act to remove export restrictions on cryogenic etching tools, but Chinese chipmakers may still face significant hurdles in acquiring these critical semiconductor manufacturing tools.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/us-lawmakers-amend-new-restrictions-on-chinese-chipmakers-match-acts-blanket-restrictions-removed-from-select-chipmaking-tools",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.853514",
-    "insight": "Limited chipmaker access still hampers US-China tech trade relations"
-  },
-  {
-    "title": "Analytics group signals possible delays at 40% of AI data center construction sites companies deny schedule holdups, but satellite imagery indicates otherwise",
-    "summary": "At least 40% of AI data centers may face delays in 2026, according to analytics. Companies deny any holdups, attributing issues to labor and material shortages. Satellite imagery suggests otherwise.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/analytics-group-signals-possible-delays-at-40-percent-of-ai-data-center-construction-sites-companies-deny-schedule-holdups-but-satellite-imagery-indicates-otherwise",
+    "title": "Bluetooth tracker hidden in a postcard and mailed to a warship exposed its location $5 gadget put a $585 million Dutch ship at risk for 24 hours",
+    "summary": "A Dutch journalist hid a Bluetooth tracker in a postcard mailed to a Dutch Navy ship, revealing its location for 24 hours before it was found and disabled, putting the $585 million ship at risk.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/bluetooth-tracker-hidden-in-a-postcard-and-mailed-to-a-warship-exposed-its-location-a-eur5-gadget-put-a-eur500-million-dutch-ship-at-risk-for-24-hours",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.853637",
-    "insight": "Construction delays threaten AI data center capacity and market timelines."
+    "processed_date": "2026-04-19T09:30:00.091152",
+    "insight": "Vulnerabilities in naval security can have severe financial and operational consequences."
   },
   {
-    "title": "Local political revolts threaten to derail US data center projects mounting delays are already costing AI hyperscalers billions",
-    "summary": "Local communities are pushing back on AI data center projects, forcing cancellations and mounting delays, with billions of dollars lost by AI hyperscalers due to community resistance.",
-    "link": "https://www.tomshardware.com/tech-industry/local-political-revolts-threaten-to-derail-us-data-center-projects-mounting-delays-are-already-costing-ai-hyperscalers-billions",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.853770",
-    "insight": "Community opposition is disrupting AI data center expansions worldwide."
-  },
-  {
-    "title": "Intel hires tenured Samsung exec to lead Foundry Services signals company focus on winning business from potential Foundry suitors",
-    "summary": "Intel hires Shawn 'Seung Hoon' Han, a Samsung Foundry executive, to lead Intel Foundry Services, signaling the company's focus on attracting new customers and maintaining relationships with existing ones.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-hires-tenured-samsung-exec-to-lead-foundry-services-signals-company-focus-on-winning-business-from-potential-foundry-suitors",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.853882",
-    "insight": "Intel strengthens competitive edge in the Foundry market with industry expertise."
-  },
-  {
-    "title": "Elon Musk pushing forward with Terafab at 'light speed' staff reaching out to various suppliers and are reportedly willing to pay a premium to gain priority",
-    "summary": "Elon Musk's team is contacting semiconductor fab suppliers for pricing and timelines as the Terafab project advances.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-pushing-forward-with-terafab-at-ight-speed-staff-reaching-out-to-various-suppliers-and-are-reportedly-willing-to-pay-a-premium-to-gain-priority",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.853995",
-    "insight": "Securing priority semiconductor fab production is crucial for Terafab's timely completion."
-  },
-  {
-    "title": "Amazon Eero Signal review: 4G LTE internet backup for your Eero mesh network",
-    "summary": "The Eero Signal provides automatic 4G LTE failover for Eero mesh networks, ensuring uninterrupted internet connectivity. It seamlessly switches to 4G LTE when your primary ISP goes down, keeping your devices online. This feature is ideal for homes or businesses with unreliable internet providers.",
-    "link": "https://www.tomshardware.com/networking/routers/amazon-eero-signal-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.854115",
-    "insight": "Reliable internet access is crucial for modern life and work."
-  },
-  {
-    "title": "Microsoft's April patch puts Windows domain controllers into reboot loops third known issue from KB5082063 is affecting Windows Server 2016 through 2025",
-    "summary": "Microsoft's April patch update is causing Windows domain controllers to enter continuous reboot loops, affecting Windows Server 2016 through 2022 versions. This issue is impacting enterprise networks, resulting in downtime and disruption to services. The problem is attributed to a known issue in KB5082063.",
-    "link": "https://www.tomshardware.com/software/windows/microsofts-april-patch-puts-windows-domain-controllers-into-reboot-loops",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.854229",
-    "insight": "Critical infrastructure vulnerable to catastrophic system crashes"
-  },
-  {
-    "title": "Build an entire 9800X3D PC with 128GB of RAM for $2,999 Newegg bundle includes Asus B850 motherboard, 1TB of storage, and RTX 5070 Ti",
-    "summary": "Get a high-end gaming PC bundle with Ryzen 7 9800X3D, 128GB RAM, and an RTX 5070 Ti for $2,999, saving $1,933 from individual parts.",
-    "link": "https://www.tomshardware.com/pc-components/build-an-entire-9800x3d-pc-with-128gb-of-ram-for-usd2-999-newegg-bundle-includes-asus-b850-motherboard-1tb-of-storage-and-rtx-5070-ti",
+    "title": "KTC M27T6S 27-inch QHD Mini LED gaming monitor review: Affordable, colorful, and bright",
+    "summary": "The KTC M27T6S 27-inch QHD mini LED gaming monitor offers high brightness, vibrant colors, and a 200 Hz refresh rate.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/ktc-m27t6s-27-inch-qhd-mini-led-gaming-monitor-review",
     "categories": [
       "Hardware",
       "GPUs"
     ],
+    "quality_score": 10,
+    "processed_date": "2026-04-19T09:30:00.091271",
+    "insight": "Exceptional gaming performance at an affordable price point matters"
+  },
+  {
+    "title": "Minisforum's beastly N5 Max NAS comes powered by AMD Strix Halo $2,899 for 'AI NAS' with pre-installed OpenClaw, supports up to 200TB capacity",
+    "summary": "Minisforum's N5 Max NAS is a high-capacity AI NAS, launching on April 23, 2026, at $2,899. It is powered by AMD Strix Halo and comes pre-installed with OpenClaw.",
+    "link": "https://www.tomshardware.com/pc-components/nas/minisforums-beastly-n5-max-nas-comes-powered-by-amd-strix-halo-usd2-899-for-ai-nas-with-pre-installed-openclaw-supports-up-to-200tb-capacity",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-19T09:30:00.091379",
+    "insight": "AI-enhanced NAS offers high-capacity storage and advanced computational capabilities."
+  },
+  {
+    "title": "Techie buys fake Ledger Nano S+ hardware crypto wallet and almost falls for phishing a convincing clone would have caught newbies unaware",
+    "summary": "A cybersecurity expert discovered counterfeit Ledger Nano S+ hardware wallets in China, which could have led to phishing attacks on unsuspecting buyers. The clone's authenticity was convincing, posing a threat to new crypto users. Experts warn of the potential danger.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/techie-buys-fake-ledger-nano-s-hardware-crypto-wallet-and-almost-falls-for-phishing-a-convincing-clone-would-have-caught-newbies-unaware",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-19T09:30:00.091482",
+    "insight": "Counterfeit hardware wallets pose significant risks to crypto users' security."
+  },
+  {
+    "title": "Intel Core Ultra 250K Plus vs AMD Ryzen 5 9600X faceoff battle for the best $200 CPU",
+    "summary": "Intel Core Ultra 250K Plus and AMD Ryzen 5 9600X face off in a battle for the best $200 CPU, each offering unique strengths in gaming, productivity, and power consumption.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-250k-plus-vs-amd-ryzen-5-9600x-faceoff",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-19T09:30:00.091585",
+    "insight": "Power efficiency and performance vary significantly between Intel and AMD offerings."
+  },
+  {
+    "title": "SNK revives the mighty Neo Geo in modern form new AES+ system plays classic games without emulation",
+    "summary": "SNK is reviving the Neo Geo in modern form with the AES+, which will play classic games natively without emulation, set to release in November.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/snk-revives-the-mighty-neo-geo-in-modern-form-new-aes-system-plays-classic-games-without-emulation",
+    "categories": [
+      "Tech News"
+    ],
     "quality_score": 0,
-    "processed_date": "2026-04-18T09:32:51.854340",
-    "insight": "Unbeatable value for a powerful gaming setup with premium components."
+    "processed_date": "2026-04-19T09:30:00.091680",
+    "insight": "Native game compatibility preserves original gaming experience and quality"
   },
   {
-    "title": "TSMC ups revenue guidance and CapEx, buoyed by 'multiyear AI megatrend' warns Middle East conflict may impact profitability as costs increase",
-    "summary": "TSMC increases revenue and CapEx guidance due to strong AI demand. The company plans to ramp up 3nm-capable capacity. A Middle East conflict may impact profitability due to increased costs.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ups-revenue-guidance-and-capex-buoyed-by-multiyear-ai-megatrend-warns-middle-east-conflict-may-impact-profitability-as-costs-increase",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.854453",
-    "insight": "TSMC's aggressive AI chip plans fuel growth and market momentum"
-  },
-  {
-    "title": "Steam shown running on Nintendo Switch thanks to latest Proton Beta FEX 2604 translates x86 to ARM-friendly instructions on Linux",
-    "summary": "Valve's Proton 11.0-Beta1 brings support for Arm devices, enabling Steam to run on the Nintendo Switch.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/steam-shown-running-on-nintendo-switch-thanks-to-latest-proton-beta-fex-2604-translates-x86-to-arm-friendly-instructions-on-linux",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.854554",
-    "insight": "Steam now accessible on non-x86 handheld gaming consoles."
-  },
-  {
-    "title": "Google and Pentagon in talks to run custom AI chips inside classified environments Google pushes for tight controls for TPUs surrounding use for mass surveillance and autonomous weapons",
-    "summary": "Google is negotiating with the Pentagon to deploy its Gemini AI in classified settings, potentially adding GPU racks to its Distributed Cloud. The talks also cover tight controls for Google's custom chips to prevent their use for mass surveillance and autonomous weapons.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-and-pentagon-in-talks-to-run-tpus-inside-classified-environments",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.854680",
-    "insight": "Google tightens controls for AI chip deployment to avoid misuse"
-  },
-  {
-    "title": "Commodore fans split over C64 Ultimate FPGA firmware lockdown firm says it wants to protect its hardware and reduce support fallout",
-    "summary": "The Commodore C64 Ultimate's firmware lockdown has sparked a divide among retro fans, with some supporting the move to protect hardware and others opposing it as restricting customization and community support.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/commodore-fans-split-over-c64-ultimate-fpga-firmware-lockdown-firm-says-it-wants-to-protect-its-hardware-and-reduce-support-fallout",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.854791",
-    "insight": "Firmware lockdown affects retro community's ability to modify and support hardware."
-  },
-  {
-    "title": "AMD to resurrect Ryzen 7 5800X3D AM4 with 10th anniversary edition, leaker claims return of legendary CPU a sign of bleak PC building landscape",
-    "summary": "AMD is rumored to revive the Ryzen 7 5800X3D with a 10th Anniversary Edition, set to release in the second quarter of 2024. This move is speculated to be a response to the current state of the PC building landscape. The exact details of the new processor are still unknown.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-to-resurrect-ryzen-7-5800x3d-am4-with-10th-anniversary-edition-leaker-claims-return-of-legendary-cpu-a-sign-of-bleak-pc-building-landscape",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.854898",
-    "insight": "AMD revives legacy CPU to adapt to changing PC building market."
-  },
-  {
-    "title": "Amazon returns buyer gets scammed out of a Ryzen 9 9950X3D 'CPU' came with just a 3D-printed base underneath a real heat spreader",
-    "summary": "A buyer was scammed out of a Ryzen 9 9950X3D CPU on Amazon, receiving a 3D-printed base and an IHS of a 9950X3D instead of the actual CPU.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amazon-returns-buyer-gets-scammed-out-of-a-ryzen-9-9950x3d-cpu-came-with-just-a-3d-printed-plastic-heat-spreader",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.855002",
-    "insight": "Counterfeit CPUs exploit weak return policies and consumer trust."
-  },
-  {
-    "title": "Crazed World of Warcraft gamer plays game with 3D-printed hot dog controller the left wiener quad-array controls movement, the right triggers abilities",
-    "summary": "A World of Warcraft gamer designed a unique controller using a 3D-printed hot dog, where the left wiener quad-array controls movement and the right triggers abilities.",
-    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/crazed-world-of-warcraft-gamer-plays-game-with-3d-printed-hot-dog-controller-the-left-wiener-quad-array-controls-movement-the-right-triggers-abilities",
+    "title": "Microsoft offers $2 million sweepstake for Edge users, but no one noticed for a month $1 million cash, Mercedes-Benz cars among prizes in desperate push for users",
+    "summary": "Microsoft has launched a $2 million sweepstake for Edge browser users, offering prizes including $1 million cash and Mercedes-Benz cars.",
+    "link": "https://www.tomshardware.com/software/microsoft-edge/microsoft-offers-usd2-million-sweepstake-for-edge-users-but-no-one-noticed-for-a-month-usd1-million-cash-mercedes-benz-cars-among-prizes-in-desperate-push-for-users",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.855114",
-    "insight": "Blending creativity and innovation drives novel gaming solutions."
+    "processed_date": "2026-04-19T09:30:00.091781",
+    "insight": "Microsoft's desperate push for Edge adoption amidst declining browser market share."
   },
   {
-    "title": "TSMC warns of Intel Foundry's growing prowess during the company's latest earnings call 'We view Intel as our formidable competitor and do not underestimate them'",
-    "summary": "TSMC views Intel as a formidable competitor despite its size difference.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-warns-of-intel-foundrys-growing-prowess-during-the-companys-latest-earnings-call-we-view-intel-as-our-formidable-competitor-and-do-not-underestimate-them",
+    "title": "Backblaze silently redefines 'unlimited' backups and users discover it's not backing up Dropbox and OneDrive as firm leans heavier into AI storage services, changes could signal shift away from home backups",
+    "summary": "Backblaze redefines 'unlimited' backups, excluding Dropbox and OneDrive, sparking user confusion.",
+    "link": "https://www.tomshardware.com/software/cloud-storage/backblaze-redefines-unlimited-while-users-discover-its-not-backing-up-dropbox-and-onedrive-service-changes-could-signal-shift-away-from-home-backups",
     "categories": [
-      "Semiconductors"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.855223",
-    "insight": "Intel's foundry growth threatens TSMC's industry dominance position."
+    "processed_date": "2026-04-19T09:30:00.091908",
+    "insight": "Cloud storage limits redefine user expectations of 'unlimited' backup services"
   },
   {
-    "title": "Pironman 5 Pro Max Review A Raspberry Pi 5 Tower PC case with integrated video and audio capabilities, optional UPS kit",
-    "summary": "The Pironman 5 Pro Max is a Raspberry Pi 5 tower case with integrated display, camera, and audio features, and an optional UPS kit for power backup.",
-    "link": "https://www.cnx-software.com/2026/04/18/pironman-5-pro-max-review-a-raspberry-pi-5-tower-pc-case-with-integrated-video-and-audio-capabilities-ups-kit/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-18T09:32:51.855706",
-    "insight": "Raspberry Pi 5 cases with integrated features enhance home automation and media capabilities."
-  },
-  {
-    "title": "Boardcon Tiny1126B is a smaller and lighter Rockchip RV1126B system-on-module, yet with more I/Os",
-    "summary": "Boardcon Tiny1126B is a compact Rockchip RV1126B system-on-module with increased I/Os, suitable for AI vision systems and smart devices.",
-    "link": "https://www.cnx-software.com/2026/04/17/boardcon-tiny1126b-smaller-lighter-rockchip-rv1126b-system-on-module-yet-with-more-ios/",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-18T09:32:51.855884",
-    "insight": "Smaller size with more I/Os boosts AI vision system capabilities."
-  },
-  {
-    "title": "Conclusive Engineering KSTR-SAMA5D27 is an ultra-compact, low-power SBC based on Microchip SAMA5D27 SiP",
-    "summary": "Conclusive Engineering's KSTR-SAMA5D27 is an ultra-compact, low-power SBC with Microchip SAMA5D27 CPU and various connectivity options, suitable for IoT, smart systems, and edge computing. It features a microSD card slot, EEPROM, Fast Ethernet, WiFi, and Bluetooth connectivity. The board supports USB and battery power.",
-    "link": "https://www.cnx-software.com/2026/04/16/conclusive-engineering-kstr-sama5d27-ultra-compact-sbc-microchip-sama5d27-sip/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-18T09:32:51.856154",
-    "insight": "Compact, low-power SBC for IoT and edge computing applications."
-  },
-  {
-    "title": "What was the first OS you ever used?",
-    "summary": "The first OS you used often sparks nostalgia and a deeper appreciation for the evolution of technology. For many, it's a gateway to understanding how computers operate beyond hardware. This early experience shapes one's perception of computer systems.",
-    "link": "https://www.techspot.com/news/112113-what-first-os-you-ever-used.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.857307",
-    "insight": "Early OS interactions shape our perception of computer systems forever."
-  },
-  {
-    "title": "SNK revives NeoGeo AES with modern upgrades and HDMI support",
-    "summary": "SNK is reviving the NeoGeo AES console with modern upgrades and an HDMI port. The NeoGeo AES+ will be available in various editions, including a 35th Anniversary edition. It is set to launch on November 12.",
-    "link": "https://www.techspot.com/news/112107-snk-revives-neogeo-aes-modern-upgrades-hdmi-support.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.857484",
-    "insight": "Nostalgic gamers get upgraded hardware for classic console experience."
-  },
-  {
-    "title": "Valve's Proton 11 beta boosts Linux gaming with better performance and classic game support",
-    "summary": "Valve's Proton 11 beta improves Linux gaming with better performance and classic game support.",
-    "link": "https://www.techspot.com/news/112109-valve-proton-11-beta-boosts-linux-gaming-better.html",
+    "title": "Nvidia CEO Jensen Huang nearly lost his composure when pressed on selling chips to China You re not talking to someone who woke up a loser ",
+    "summary": "Nvidia CEO Jensen Huang believes blocking China from AI chip sales is a 'losing proposition' that doesn't make sense, as China is the second biggest market for AI chips.",
+    "link": "https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-nearly-lost-his-composure-when-pressed-on-selling-chips-to-china-youre-not-talking-to-someone-who-woke-up-a-loser",
     "categories": [
       "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-18T09:32:51.857677",
-    "insight": "Enhanced gaming experience for Linux users and classic game enthusiasts."
-  },
-  {
-    "title": "Researchers warn Microsoft Defender vulnerability is already being exploited",
-    "summary": "A security researcher discovered a vulnerability in Microsoft Defender Antivirus, dubbed 'Red Sun', which can bypass protections, and claimed malicious actors are already exploiting it.",
-    "link": "https://www.techspot.com/news/112099-researchers-warn-microsoft-defender-vulnerability-already-exploited.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-18T09:32:51.857872",
-    "insight": "Critical vulnerability in Microsoft Defender exposes users to malicious attacks."
-  },
-  {
-    "title": "A four-day Steam freebie turned into $250,000 for an indie game",
-    "summary": "A four-day Steam freebie for indie game Graveyard Keeper led to $250,000 in revenue. The strategy relies on retaining players post-free offer to encourage purchases. Player retention was key to the game's financial success.",
-    "link": "https://www.techspot.com/news/112106-four-day-steam-freebie-turned-250000-indie-game.html",
-    "categories": [
-      "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.858074",
-    "insight": "Player retention is crucial for post-free trial revenue generation"
+    "processed_date": "2026-04-19T09:30:00.092019",
+    "insight": "Blocking a massive market can have devastating economic consequences"
   },
   {
-    "title": "AMD may relaunch Ryzen 7 5800X3D for AM4's 10th anniversary",
-    "summary": "AMD may relaunch the Ryzen 7 5800X3D CPU to celebrate its 10th anniversary. The chip is planned for a second-quarter release. This could be a strategic move to revitalize the AM4 platform.",
-    "link": "https://www.techspot.com/news/112101-amd-may-relaunch-ryzen-7-5800x3d-am4-10th.html",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.858252",
-    "insight": "Re-releasing a popular CPU could boost AM4 platform sales."
-  },
-  {
-    "title": "This humanoid robot can almost run as fast as a human sprinter",
-    "summary": "A humanoid robot has demonstrated the ability to achieve high speeds, potentially matching human sprinters. The controlled track test resulted in a measurement of the robot's peak velocity. Unitree claims the robot's speed is a significant improvement over previous humanoid robots.",
-    "link": "https://www.techspot.com/news/112094-humanoid-robot-can-almost-run-fast-human-sprinter.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.858425",
-    "insight": "Advancements in humanoid robotics may lead to faster human-like movement."
-  },
-  {
-    "title": "Two New Jersey men jailed for helping North Korean IT workers infiltrate 100+ companies",
-    "summary": "Two New Jersey men were sentenced to prison for helping North Korean IT workers infiltrate over 100 companies.",
-    "link": "https://www.techspot.com/news/112103-two-new-jersey-men-sentenced-funding-north-korea.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.858596",
-    "insight": "Cybersecurity threats posed by foreign state-sponsored hacking operations are increasing significantly."
-  },
-  {
-    "title": "A $7,000 DIY radar project is taking on hardware that usually costs over $100,000",
-    "summary": "Motii's open-source Aeris-10 project offers a complete, buildable DIY radar system for $7,000, rivaling expensive commercial hardware.",
-    "link": "https://www.techspot.com/news/112104-7000-diy-radar-project-taking-hardware-usually-costs.html",
+    "title": "BeagleConnect Zepto A $1 computer based on TI MSPM0L1117 Cortex-M0+ MCU",
+    "summary": "BeagleConnect Zepto is an open-source, $1 computer based on a Cortex-M0+ MCU, offering mikroBus headers, Qwiic connectors, and a JTAG connector for debugging and expansion.",
+    "link": "https://www.cnx-software.com/2026/04/19/beagleconnect-zepto-a-1-computer-based-on-ti-mspm0l1117-cortex-m0-mcu/",
     "categories": [
       "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.858775",
-    "insight": "Inexpensive DIY radar technology democratizes access to advanced sensing capabilities."
-  },
-  {
-    "title": "Metro 2039 is going darker than ever, launching this winter on PC and consoles",
-    "summary": "Metro 2039, the sequel to Metro Exodus, is set in Moscow's post-apocalyptic subway tunnels. The game will launch this winter on PC and consoles. Pre-rendered CGI dominates the trailer, with a glimpse of real-time gameplay showing improved visuals.",
-    "link": "https://www.techspot.com/news/112100-metro-2039-going-darker-than-ever-launching-winter.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.858904",
-    "insight": "Enhanced visuals signal a more immersive gaming experience ahead"
-  },
-  {
-    "title": "Gemini arrives on macOS with a dedicated desktop app",
-    "summary": "Gemini, a Google AI app, is now available on macOS with a dedicated desktop app. This native integration provides quick access to Google services and AI functionalities via keyboard shortcuts. Users can work with local files, on-screen content, and Google services like Drive and Photos.",
-    "link": "https://www.techspot.com/downloads/7868-gemini-for-macos.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-18T09:32:51.859014",
-    "insight": "Native Google AI integration streamlines productivity on Apple desktops."
-  },
-  {
-    "title": "AI infrastructure boom pushes AMD, Intel and Arm to new valuation heights",
-    "summary": "AMD, Intel, and Arm see valuation gains due to AI infrastructure boom. This is driven by emerging AI workloads requiring sustained compute performance and memory throughput. CPU design is key to meeting these demands.",
-    "link": "https://www.techspot.com/news/112102-ai-infrastructure-boom-pushes-amd-intel-arm-new.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
+      "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-18T09:32:51.859179",
-    "insight": "Emerging AI workloads intensify CPU design requirements significantly"
+    "processed_date": "2026-04-19T09:30:00.092554",
+    "insight": "Ultra-low-cost, highly accessible microcontroller-based development platform emerges."
+  },
+  {
+    "title": "IPv6 traffic reaches parity with IPv4 for the first time, Google data shows",
+    "summary": "IPv6 traffic briefly surpassed IPv4 usage in March 2023, reaching parity.",
+    "link": "https://www.techspot.com/news/112108-google-briefly-reaches-ipv6-parity-half-users-connect.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-19T09:30:00.093823",
+    "insight": "IPv6 adoption represents a significant shift towards a more modern internet."
+  },
+  {
+    "title": "Xbox expansion cards are now cheaper than SSDs, and PC users are repurposing them",
+    "summary": "Xbox expansion cards are now cheaper than SSDs and being repurposed",
+    "link": "https://www.techspot.com/news/112110-xbox-expansion-cards-now-cheaper-than-ssds-pc.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-19T09:30:00.094006",
+    "insight": "Gaming console parts can be more cost-effective storage options suddenly"
+  },
+  {
+    "title": "Blue Origin prepares to reuse New Glenn booster in bid to challenge SpaceX",
+    "summary": "Blue Origin aims to reuse its New Glenn booster in a bid to challenge SpaceX's dominance in reusability. The mission, scheduled for Sunday, will use the same booster that flew and landed in November. This marks a significant milestone for Blue Origin in launch economics.",
+    "link": "https://www.techspot.com/news/112115-blue-origin-prepares-first-new-glenn-booster-reuse.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-19T09:30:00.094175",
+    "insight": "Reusable boosters revolutionize launch economics with significant cost savings."
+  },
+  {
+    "title": "Nvidia could bring back the 12GB RTX 3060 as supply issues disrupt GPU roadmap",
+    "summary": "Nvidia may bring back the 12GB RTX 3060 due to supply issues. The move could replace a delayed version of the RTX 5050. The RTX 3060 is expected to return in June.",
+    "link": "https://www.techspot.com/news/112111-nvidia-could-bring-back-12gb-rtx-3060-supply.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-19T09:30:00.094351",
+    "insight": "Nvidia adjusts GPU roadmap to address supply chain disruptions."
   }
 ]
