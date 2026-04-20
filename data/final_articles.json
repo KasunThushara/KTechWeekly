@@ -1,175 +1,258 @@
 [
   {
-    "title": "Nvidia RTX 3060 comeback in 2026 could alleviate soaring GPU prices and memory shortages rumored RTX 5050 9GB abruptly shelved amid speculation",
-    "summary": "The Nvidia RTX 3060 may alleviate GPU price pressures and shortages if relaunched at a competitive price. This could provide a more affordable option for gamers and content creators. The move may also signal the shelving of the RTX 5050 9GB.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3060-comeback-in-2026-could-alleviate-soaring-gpu-prices-and-memory-shortages-rumored-rtx-5050-9gb-abruptly-shelved-amid-speculation",
+    "title": "Original Task Manager creator explains why it lies to you about CPU usage former Microsoft engineer shows unique solution to a seemingly simple, but actually complicated, task",
+    "summary": "Microsoft engineer Dave Plummer reveals the inner workings of Task Manager, explaining how it calculates CPU usage and why it may not always reflect the true picture. This affects how users manage their computer resources, leading to potential performance issues.",
+    "link": "https://www.tomshardware.com/software/windows/original-task-manager-creator-explains-why-it-lies-to-you-about-cpu-usage-former-microsoft-engineer-shows-unique-solution-to-a-seemingly-simple-but-actually-complicated-task",
     "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-19T09:30:00.091015",
-    "insight": "Relaunching the RTX 3060 could balance GPU market supply and demand."
-  },
-  {
-    "title": "Bluetooth tracker hidden in a postcard and mailed to a warship exposed its location $5 gadget put a $585 million Dutch ship at risk for 24 hours",
-    "summary": "A Dutch journalist hid a Bluetooth tracker in a postcard mailed to a Dutch Navy ship, revealing its location for 24 hours before it was found and disabled, putting the $585 million ship at risk.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/bluetooth-tracker-hidden-in-a-postcard-and-mailed-to-a-warship-exposed-its-location-a-eur5-gadget-put-a-eur500-million-dutch-ship-at-risk-for-24-hours",
-    "categories": [
+      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-19T09:30:00.091152",
-    "insight": "Vulnerabilities in naval security can have severe financial and operational consequences."
+    "processed_date": "2026-04-20T10:22:24.915429",
+    "insight": "Task Manager lies about CPU usage due to inaccurate sampling methods."
   },
   {
-    "title": "KTC M27T6S 27-inch QHD Mini LED gaming monitor review: Affordable, colorful, and bright",
-    "summary": "The KTC M27T6S 27-inch QHD mini LED gaming monitor offers high brightness, vibrant colors, and a 200 Hz refresh rate.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/ktc-m27t6s-27-inch-qhd-mini-led-gaming-monitor-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-19T09:30:00.091271",
-    "insight": "Exceptional gaming performance at an affordable price point matters"
-  },
-  {
-    "title": "Minisforum's beastly N5 Max NAS comes powered by AMD Strix Halo $2,899 for 'AI NAS' with pre-installed OpenClaw, supports up to 200TB capacity",
-    "summary": "Minisforum's N5 Max NAS is a high-capacity AI NAS, launching on April 23, 2026, at $2,899. It is powered by AMD Strix Halo and comes pre-installed with OpenClaw.",
-    "link": "https://www.tomshardware.com/pc-components/nas/minisforums-beastly-n5-max-nas-comes-powered-by-amd-strix-halo-usd2-899-for-ai-nas-with-pre-installed-openclaw-supports-up-to-200tb-capacity",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-19T09:30:00.091379",
-    "insight": "AI-enhanced NAS offers high-capacity storage and advanced computational capabilities."
-  },
-  {
-    "title": "Techie buys fake Ledger Nano S+ hardware crypto wallet and almost falls for phishing a convincing clone would have caught newbies unaware",
-    "summary": "A cybersecurity expert discovered counterfeit Ledger Nano S+ hardware wallets in China, which could have led to phishing attacks on unsuspecting buyers. The clone's authenticity was convincing, posing a threat to new crypto users. Experts warn of the potential danger.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/techie-buys-fake-ledger-nano-s-hardware-crypto-wallet-and-almost-falls-for-phishing-a-convincing-clone-would-have-caught-newbies-unaware",
+    "title": "Voyager 1 gets emergency instrument shutdown to solve escalating power crisis and give it about a year of breathing room interstellar spacecraft's nuclear power source is dying, leading to intensifying countermeasures",
+    "summary": "Voyager 1's power crisis led to an emergency instrument shutdown. Scientists are working on a fix to swap onboard devices for low-power alternatives. This will give the spacecraft a year of breathing room.",
+    "link": "https://www.tomshardware.com/tech-industry/voyager-1-gets-emergency-instrument-shutdown-to-solve-escalating-power-crisis-and-give-it-about-a-year-of-breathing-room-interstellar-spacecrafts-nuclear-power-source-is-dying-leading-to-intensifying-countermeasures",
     "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-19T09:30:00.091482",
-    "insight": "Counterfeit hardware wallets pose significant risks to crypto users' security."
+    "processed_date": "2026-04-20T10:22:24.915564",
+    "insight": "Voyager's nuclear power source is dying, threatening its prolonged existence."
   },
   {
-    "title": "Intel Core Ultra 250K Plus vs AMD Ryzen 5 9600X faceoff battle for the best $200 CPU",
-    "summary": "Intel Core Ultra 250K Plus and AMD Ryzen 5 9600X face off in a battle for the best $200 CPU, each offering unique strengths in gaming, productivity, and power consumption.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-250k-plus-vs-amd-ryzen-5-9600x-faceoff",
+    "title": "Gaming laptop brought to repair shop for overheating problem, decorative stickers found to be the problem tech fixes problem in under 10 seconds after removing the stickers covering its fans",
+    "summary": "A gaming laptop was brought in for overheating issues due to decorative stickers covering its vents, which were quickly identified and removed by a tech to fix the problem in under 10 seconds.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/gaming-laptop-brought-to-repair-shop-for-overheating-problem-decorative-stickers-found-to-be-the-problem-tech-fixes-problem-in-under-10-seconds-after-removing-the-stickers-covering-its-fans",
     "categories": [
-      "Hardware",
-      "GPUs"
+      "AI & ML",
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-19T09:30:00.091585",
-    "insight": "Power efficiency and performance vary significantly between Intel and AMD offerings."
+    "processed_date": "2026-04-20T10:22:24.915681",
+    "insight": "Decorative stickers can cause laptop overheating and system failure."
   },
   {
-    "title": "SNK revives the mighty Neo Geo in modern form new AES+ system plays classic games without emulation",
-    "summary": "SNK is reviving the Neo Geo in modern form with the AES+, which will play classic games natively without emulation, set to release in November.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/snk-revives-the-mighty-neo-geo-in-modern-form-new-aes-system-plays-classic-games-without-emulation",
+    "title": "Russian-made Shahed drones are disintegrating in the air before reaching their targets due to shoddy manufacturing, video shows commentators call Russian clones of Iran's drones 'flying garbage'",
+    "summary": "Russian-made Shahed drones are disintegrating in mid-air due to shoddy manufacturing, video shows. This is reportedly due to Russian clones of Iran's drones. Commentators have described them as 'flying garbage'.",
+    "link": "https://www.tomshardware.com/tech-industry/russian-made-shahed-drones-are-disintegrating-in-the-air-before-reaching-their-targets-due-to-shoddy-manufacturing-video-shows-commentators-call-russian-clones-of-irans-drones-flying-garbage",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-19T09:30:00.091680",
-    "insight": "Native game compatibility preserves original gaming experience and quality"
-  },
-  {
-    "title": "Microsoft offers $2 million sweepstake for Edge users, but no one noticed for a month $1 million cash, Mercedes-Benz cars among prizes in desperate push for users",
-    "summary": "Microsoft has launched a $2 million sweepstake for Edge browser users, offering prizes including $1 million cash and Mercedes-Benz cars.",
-    "link": "https://www.tomshardware.com/software/microsoft-edge/microsoft-offers-usd2-million-sweepstake-for-edge-users-but-no-one-noticed-for-a-month-usd1-million-cash-mercedes-benz-cars-among-prizes-in-desperate-push-for-users",
-    "categories": [
-      "Tech News"
+      "AI & ML",
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-19T09:30:00.091781",
-    "insight": "Microsoft's desperate push for Edge adoption amidst declining browser market share."
+    "processed_date": "2026-04-20T10:22:24.915802",
+    "insight": "Subpar drone quality reveals underlying issues in Russia's military manufacturing."
   },
   {
-    "title": "Backblaze silently redefines 'unlimited' backups and users discover it's not backing up Dropbox and OneDrive as firm leans heavier into AI storage services, changes could signal shift away from home backups",
-    "summary": "Backblaze redefines 'unlimited' backups, excluding Dropbox and OneDrive, sparking user confusion.",
-    "link": "https://www.tomshardware.com/software/cloud-storage/backblaze-redefines-unlimited-while-users-discover-its-not-backing-up-dropbox-and-onedrive-service-changes-could-signal-shift-away-from-home-backups",
+    "title": "Bambu Lab overtakes Creality as the world's top-selling budget 3D printer brand resurgence in 3D printer market fueled by budget options",
+    "summary": "Bambu Lab surpassed Creality as the top-selling budget 3D printer brand in 2025, capturing the largest market share in the entry-level segment. This shift is attributed to Bambu Lab's focus on affordability and user-friendly designs. The resurgence in budget options has revitalized the 3D printer market.",
+    "link": "https://www.tomshardware.com/3d-printing/bambu-lab-overtakes-creality-as-the-worlds-top-selling-budget-3d-printer-brand",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-19T09:30:00.091908",
-    "insight": "Cloud storage limits redefine user expectations of 'unlimited' backup services"
+    "processed_date": "2026-04-20T10:22:24.915909",
+    "insight": "Budget-friendly 3D printers drive market demand and innovation"
   },
   {
-    "title": "Nvidia CEO Jensen Huang nearly lost his composure when pressed on selling chips to China You re not talking to someone who woke up a loser ",
-    "summary": "Nvidia CEO Jensen Huang believes blocking China from AI chip sales is a 'losing proposition' that doesn't make sense, as China is the second biggest market for AI chips.",
-    "link": "https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-nearly-lost-his-composure-when-pressed-on-selling-chips-to-china-youre-not-talking-to-someone-who-woke-up-a-loser",
+    "title": "Inventor showcases 3D printer filament dryer that mines Bitcoins and dries filament with waste heat, capable of 6 TH/s at 140W joins Bitcoin-mining 3D printer in hobbyist-focused miner lineup",
+    "summary": "An inventor has created a 3D printer filament dryer that also mines Bitcoins, utilizing waste heat for efficient drying and mining.",
+    "link": "https://www.tomshardware.com/tech-industry/cryptomining/inventor-showcases-3d-printer-filament-dryer-that-mines-bitcoins-and-dries-filament-with-waste-heat-capable-of-6-th-s-at-140w-joins-bitcoin-mining-3d-printer-in-hobbyist-focused-miner-lineup",
     "categories": [
-      "GPUs",
-      "Semiconductors"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-19T09:30:00.092019",
-    "insight": "Blocking a massive market can have devastating economic consequences"
+    "processed_date": "2026-04-20T10:22:24.916030",
+    "insight": "Merging 3D printing and Bitcoin mining creates a unique eco-friendly resource."
   },
   {
-    "title": "BeagleConnect Zepto A $1 computer based on TI MSPM0L1117 Cortex-M0+ MCU",
-    "summary": "BeagleConnect Zepto is an open-source, $1 computer based on a Cortex-M0+ MCU, offering mikroBus headers, Qwiic connectors, and a JTAG connector for debugging and expansion.",
-    "link": "https://www.cnx-software.com/2026/04/19/beagleconnect-zepto-a-1-computer-based-on-ti-mspm0l1117-cortex-m0-mcu/",
+    "title": "40 years ago we entered the megabit memory era with IBM s DRAM breakthrough a major leap beyond the 64 kilobit chips common at the time",
+    "summary": "40 years ago, IBM introduced 1-megabit memory chips, a significant breakthrough in computing technology, marking a major leap beyond the 64 kilobit chips common at the time. This innovation paved the way for faster and more efficient computing. IBM's achievement represented a major milestone in the evolution of computer memory.",
+    "link": "https://www.tomshardware.com/pc-components/dram/40-years-ago-we-entered-the-megabit-memory-era-with-ibms-dram-breakthrough-a-major-leap-beyond-the-64-kilobit-chips-common-at-the-time",
     "categories": [
-      "Hardware",
-      "Semiconductors"
+      "Semiconductors",
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-19T09:30:00.092554",
-    "insight": "Ultra-low-cost, highly accessible microcontroller-based development platform emerges."
+    "processed_date": "2026-04-20T10:22:24.916141",
+    "insight": "Faster computing enabled new possibilities and applications."
   },
   {
-    "title": "IPv6 traffic reaches parity with IPv4 for the first time, Google data shows",
-    "summary": "IPv6 traffic briefly surpassed IPv4 usage in March 2023, reaching parity.",
-    "link": "https://www.techspot.com/news/112108-google-briefly-reaches-ipv6-parity-half-users-connect.html",
+    "title": "Sudokoo SK620V and SK700V Review: Silent, Stylish AM5 cooling, with a built-in display",
+    "summary": "We reviewed Sudokoo's SK620V and SK700V air coolers, which deliver high performance quietly and feature a built-in display.",
+    "link": "https://www.tomshardware.com/pc-components/air-cooling/sudokoo-sk620v-and-sk700v-review",
     "categories": [
-      "Tech News"
+      "Tech News",
+      "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-19T09:30:00.093823",
-    "insight": "IPv6 adoption represents a significant shift towards a more modern internet."
+    "quality_score": 15,
+    "processed_date": "2026-04-20T10:22:24.916250",
+    "insight": "Silent AM5 cooling solutions for high-performance Ryzen processors exist."
   },
   {
-    "title": "Xbox expansion cards are now cheaper than SSDs, and PC users are repurposing them",
-    "summary": "Xbox expansion cards are now cheaper than SSDs and being repurposed",
-    "link": "https://www.techspot.com/news/112110-xbox-expansion-cards-now-cheaper-than-ssds-pc.html",
+    "title": "Researchers find a way to heat 3D printer filament using microwaves, enabling fusing circuits inside printed objects tech supports precise heating down to the width of a human hair",
+    "summary": " Researchers from Rice University developed microwave technology for precise 3D printing. This tech enables fusing circuits inside printed objects with high precision. It's already improving 3D printing efficiency and enabling new tech.",
+    "link": "https://www.tomshardware.com/3d-printing/researchers-find-a-way-to-heat-3d-printer-filament-using-microwaves-enabling-fusing-circuits-inside-printed-objects-tech-supports-precise-heating-down-to-the-width-of-a-human-hair",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-20T10:22:24.916369",
+    "insight": "Precise heating unlocks new possibilities in 3D printed electronics."
+  },
+  {
+    "title": "New HUDIMM memory specification debuts with goal of slashing DDR5 prices during RAM shortages A new, cheaper memory standard with half the bandwidth and half the capacity",
+    "summary": "ASRock's HUDIMM memory standard slashes DDR5 prices by reducing bandwidth & capacity.",
+    "link": "https://www.tomshardware.com/pc-components/ddr5/new-hudimm-memory-specification-debuts-with-goal-of-lowering-prices-during-ram-shortages-a-new-cheaper-memory-standard-featuring-only-one-subchannel-per-stick-aimed-at-budget-pcs",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-20T10:22:24.916487",
+    "insight": "Cost-efficient memory for widespread adoption during RAM shortages."
+  },
+  {
+    "title": "New flat M.2 SSD adapter doesn't stick out from the motherboard, unlocking PCIe slots hidden under massive GPUs JEYI's new 'ArcherX' AIC lays completely flush and supports PCIe 4.0 speeds",
+    "summary": "JEYI's flat PCIe to M.2 adapter allows for flush installation with motherboards, unlocking access to hidden PCIe slots. This feature is especially useful in systems with massive GPUs that block traditional M.2 slots. The adapter supports PCIe 4.0 speeds and is backwards compatible with PCIe 3.0.",
+    "link": "https://www.tomshardware.com/pc-components/external-ssds/new-flat-m-2-ssd-adapter-doesnt-stick-out-from-the-motherboard-unlocking-pcie-slots-hidden-under-massive-gpus-jeyis-new-archerx-aic-lays-completely-flush-and-supports-pcie-4-0-speeds",
     "categories": [
       "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-19T09:30:00.094006",
-    "insight": "Gaming console parts can be more cost-effective storage options suddenly"
-  },
-  {
-    "title": "Blue Origin prepares to reuse New Glenn booster in bid to challenge SpaceX",
-    "summary": "Blue Origin aims to reuse its New Glenn booster in a bid to challenge SpaceX's dominance in reusability. The mission, scheduled for Sunday, will use the same booster that flew and landed in November. This marks a significant milestone for Blue Origin in launch economics.",
-    "link": "https://www.techspot.com/news/112115-blue-origin-prepares-first-new-glenn-booster-reuse.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-19T09:30:00.094175",
-    "insight": "Reusable boosters revolutionize launch economics with significant cost savings."
-  },
-  {
-    "title": "Nvidia could bring back the 12GB RTX 3060 as supply issues disrupt GPU roadmap",
-    "summary": "Nvidia may bring back the 12GB RTX 3060 due to supply issues. The move could replace a delayed version of the RTX 5050. The RTX 3060 is expected to return in June.",
-    "link": "https://www.techspot.com/news/112111-nvidia-could-bring-back-12gb-rtx-3060-supply.html",
-    "categories": [
-      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-19T09:30:00.094351",
-    "insight": "Nvidia adjusts GPU roadmap to address supply chain disruptions."
+    "processed_date": "2026-04-20T10:22:24.916613",
+    "insight": "Unlocks access to hidden PCIe slots under massive GPUs"
+  },
+  {
+    "title": "Xbox Series X|S storage expansion cards can be used on PC with an inexpensive CFexpress adapter Speeds top out at 1,560 MB/s in Redditor's testing",
+    "summary": "Xbox Series X|S storage expansion cards can be used on PC with a CFexpress adapter, which requires formatting before use. Inexpensive adapters, such as PCIe to CFexpress or M.2 to CFexpress, are available. However, speeds may not be as fast as expected.",
+    "link": "https://www.tomshardware.com/pc-components/external-ssds/xbox-series-x-s-storage-expansion-cards-can-be-used-on-pc-with-an-inexpensive-cfexpress-adapter-speeds-top-out-at-1-560-mb-s-in-redditors-testing",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-20T10:22:24.916737",
+    "insight": "Unlock PC compatibility with affordable CFexpress adapter solutions"
+  },
+  {
+    "title": "Toshiba refuses to replace large hard drive that was under warranty company offers refund at the purchase price, not the higher current retail price",
+    "summary": "Toshiba refused to replace a broken hard drive under warranty. Instead, they offered a refund at the original purchase price. The user was left to buy a replacement at a higher retail price due to chip shortages.",
+    "link": "https://www.tomshardware.com/pc-components/hdds/toshiba-refuses-to-replace-large-hard-drives-under-warranty-the-company-offers-refunds-at-the-purchase-price-not-the-post-shortage-price",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-20T10:22:24.916854",
+    "insight": "Warranty limitations leave consumers vulnerable to price hikes and shortages."
+  },
+  {
+    "title": "$20,000 in 32GB RAM sticks saved from the dumpster are now worth a fortune seventy-two DDR4-2666 ECC RDIMMs were about to turn into e-waste",
+    "summary": "72 DDR4-2666 ECC RDIMMs, worth $20,000, were saved from e-waste by the Redditor's dad. The memory sticks were destined for the trash heap after a company upgrade. The father's actions proved financially beneficial.",
+    "link": "https://www.tomshardware.com/pc-components/ram/usd20-000-in-32gb-ram-sticks-saved-from-the-dumpster-are-now-worth-a-fortune-72-ddr4-2666-ecc-rdimms-were-about-to-turn-into-e-waste",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-20T10:22:24.916961",
+    "insight": "Proper resource management can yield significant financial returns unexpectedly."
+  },
+  {
+    "title": "Idle CPU power management: cpuidle",
+    "summary": "The idle CPU power management mechanism, cpuidle, has evolved to choose the most power-efficient idle state among various hardware options, considering the cost of entering and returning from an idle state. This is crucial for reducing power consumption in embedded systems. The idle loop's role has shifted from a simple infinite loop to a sophisticated power management tool.",
+    "link": "https://www.cnx-software.com/2026/04/20/idle-cpu-power-management-cpuidle/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-20T10:22:24.917465",
+    "insight": "Efficient power management requires strategic idle state selection."
+  },
+  {
+    "title": "IP67-rated AI security camera feature Rockchip RV1126B or RK3576/J/M SoC for commercial, industrial, and automotive applications",
+    "summary": "Firefly has released two new AI security cameras with IP67-rated enclosures, featuring Rockchip RV1126B and RK3576/J/M SoCs. The CQ38W-1126B and CQ38W-3576 cameras offer higher performance and support for demanding AI workloads. They are suitable for commercial, industrial, and automotive applications.",
+    "link": "https://www.cnx-software.com/2026/04/20/ip67-rated-ai-security-camera-feature-rockchip-rv1126b-or-rk3576-j-m-soc-for-commercial-industrial-and-automotive-applications/",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-20T10:22:24.917642",
+    "insight": "Higher-performance AI cameras for demanding industrial and automotive use cases."
+  },
+  {
+    "title": "Loona Deskmate An iPhone-powered AI desktop companion that doubles as a 165W GaN charging station (Crowdfunding)",
+    "summary": "Loona Deskmate is an AI desktop companion that utilizes a docked iPhone for computing, featuring hands-free interaction and a 165W GaN charging station.",
+    "link": "https://www.cnx-software.com/2026/04/20/loona-deskmate-an-iphone-powered-ai-desk-companion-that-doubles-as-a-165w-gan-charging-station/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-20T10:22:24.917817",
+    "insight": "Revolutionizing workspace efficiency with smartphone-integrated AI and high-speed charging."
+  },
+  {
+    "title": "Typing with your brain might soon be as simple as wearing a beanie",
+    "summary": "Sabi is developing a noninvasive beanie-like device translating brain speech into text.",
+    "link": "https://www.techspot.com/news/112116-scientists-chasing-thought-powered-typing-one-startup-betting.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-20T10:22:24.919048",
+    "insight": "Noninvasive brain-computer interface technology could revolutionize communication accessibility."
+  },
+  {
+    "title": "Slack chats and internal data from failed startups are finding a second life in AI training",
+    "summary": "Failed startups' internal data is repurposed for AI training, enriching models.",
+    "link": "https://www.techspot.com/news/112117-data-failed-startups-finds-second-life-ai-training.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-20T10:22:24.919241",
+    "insight": "AI training now relies on real-world operational residue for accuracy."
+  },
+  {
+    "title": "A $5 Bluetooth tracker hidden in a postcard exposed a warship's movements",
+    "summary": "A $5 Bluetooth tracker exposed a Dutch warship's movements in the Mediterranean.",
+    "link": "https://www.techspot.com/news/112118-cheap-bluetooth-tracker-hidden-postcard-exposed-warship-movements.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-20T10:22:24.919417",
+    "insight": "Weak security measures compromise sensitive military operations globally."
+  },
+  {
+    "title": "Leakers claim PlayStation 6 could offer at least 3x the performance of the PS5",
+    "summary": "Leaked documents suggest the PlayStation 6 will have at least 3x the performance of the PS5. This improvement could lead to enhanced gaming experiences, including better graphics and smoother gameplay. Analysts expect significant advancements in ray tracing performance as well.",
+    "link": "https://www.techspot.com/news/112112-leakers-claim-playstation-6-could-offer-least-3x.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-20T10:22:24.919596",
+    "insight": "PlayStation 6's performance boost could revolutionize gaming experiences"
+  },
+  {
+    "title": "The Mac Mini is no longer a niche product, it's local AI infrastructure",
+    "summary": "The Mac Mini's popularity has grown, shifting from a niche product. Consumer Intelligence Research Partners estimates the growth in US Mac unit sales. It now accounts for a significant portion of Apple's sales.",
+    "link": "https://www.techspot.com/news/112114-mac-mini-no-longer-niche-product-local-ai.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-20T10:22:24.919751",
+    "insight": "Mac Mini becomes local AI infrastructure and mainstream computing solution"
   }
 ]

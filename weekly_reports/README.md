@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 19, 2026**
+**Week of April 20, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,97 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Nvidia RTX 3060 comeback in 2026 could alleviate soaring GPU prices and memory shortages rumored RTX 5050 9GB abruptly shelved amid speculation 
+### 1. Sudokoo SK620V and SK700V Review: Silent, Stylish AM5 cooling, with a built-in display ⭐
 
-**🎮 GPUs**
+**💻 Hardware**
 
-The Nvidia RTX 3060 may alleviate GPU price pressures and shortages if relaunched at a competitive price. This could provide a more affordable option for gamers and content creators. The move may also signal the shelving of the RTX 5050 9GB.
+We reviewed Sudokoo's SK620V and SK700V air coolers, which deliver high performance quietly and feature a built-in display.
 
-💡 **Key Point:** Relaunching the RTX 3060 could balance GPU market supply and demand.
+💡 **Key Point:** Silent AM5 cooling solutions for high-performance Ryzen processors exist.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3060-comeback-in-2026-could-alleviate-soaring-gpu-prices-and-memory-shortages-rumored-rtx-5050-9gb-abruptly-shelved-amid-speculation)
-
----
-
-### 2. KTC M27T6S 27-inch QHD Mini LED gaming monitor review: Affordable, colorful, and bright 
-
-**🎮 GPUs**
-
-The KTC M27T6S 27-inch QHD mini LED gaming monitor offers high brightness, vibrant colors, and a 200 Hz refresh rate.
-
-💡 **Key Point:** Exceptional gaming performance at an affordable price point matters
-
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/ktc-m27t6s-27-inch-qhd-mini-led-gaming-monitor-review)
+🔗 [Read More](https://www.tomshardware.com/pc-components/air-cooling/sudokoo-sk620v-and-sk700v-review)
 
 ---
 
-### 3. Nvidia RTX 3060 comeback in 2026 could alleviate soaring GPU prices and memory shortages rumored RTX 5050 9GB abruptly shelved amid speculation 
+### 2. IP67-rated AI security camera feature Rockchip RV1126B or RK3576/J/M SoC for commercial, industrial, and automotive applications ⭐
+
+**🤖 AI & ML**
+
+Firefly has released two new AI security cameras with IP67-rated enclosures, featuring Rockchip RV1126B and RK3576/J/M SoCs. The CQ38W-1126B and CQ38W-3576 cameras offer higher performance and support for demanding AI workloads. They are suitable for commercial, industrial, and automotive applications.
+
+💡 **Key Point:** Higher-performance AI cameras for demanding industrial and automotive use cases.
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/20/ip67-rated-ai-security-camera-feature-rockchip-rv1126b-or-rk3576-j-m-soc-for-commercial-industrial-and-automotive-applications/)
+
+---
+
+### 3. IP67-rated AI security camera feature Rockchip RV1126B or RK3576/J/M SoC for commercial, industrial, and automotive applications ⭐
+
+**⚡ Semiconductors**
+
+Firefly has released two new AI security cameras with IP67-rated enclosures, featuring Rockchip RV1126B and RK3576/J/M SoCs. The CQ38W-1126B and CQ38W-3576 cameras offer higher performance and support for demanding AI workloads. They are suitable for commercial, industrial, and automotive applications.
+
+💡 **Key Point:** Higher-performance AI cameras for demanding industrial and automotive use cases.
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/20/ip67-rated-ai-security-camera-feature-rockchip-rv1126b-or-rk3576-j-m-soc-for-commercial-industrial-and-automotive-applications/)
+
+---
+
+### 4. Sudokoo SK620V and SK700V Review: Silent, Stylish AM5 cooling, with a built-in display ⭐
 
 **📰 Tech News**
 
-The Nvidia RTX 3060 may alleviate GPU price pressures and shortages if relaunched at a competitive price. This could provide a more affordable option for gamers and content creators. The move may also signal the shelving of the RTX 5050 9GB.
+We reviewed Sudokoo's SK620V and SK700V air coolers, which deliver high performance quietly and feature a built-in display.
 
-💡 **Key Point:** Relaunching the RTX 3060 could balance GPU market supply and demand.
+💡 **Key Point:** Silent AM5 cooling solutions for high-performance Ryzen processors exist.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3060-comeback-in-2026-could-alleviate-soaring-gpu-prices-and-memory-shortages-rumored-rtx-5050-9gb-abruptly-shelved-amid-speculation)
-
----
-
-### 4. KTC M27T6S 27-inch QHD Mini LED gaming monitor review: Affordable, colorful, and bright 
-
-**💻 Hardware**
-
-The KTC M27T6S 27-inch QHD mini LED gaming monitor offers high brightness, vibrant colors, and a 200 Hz refresh rate.
-
-💡 **Key Point:** Exceptional gaming performance at an affordable price point matters
-
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/ktc-m27t6s-27-inch-qhd-mini-led-gaming-monitor-review)
+🔗 [Read More](https://www.tomshardware.com/pc-components/air-cooling/sudokoo-sk620v-and-sk700v-review)
 
 ---
 
-### 5. BeagleConnect Zepto A $1 computer based on TI MSPM0L1117 Cortex-M0+ MCU 
+### 5. New HUDIMM memory specification debuts with goal of slashing DDR5 prices during RAM shortages A new, cheaper memory standard with half the bandwidth and half the capacity 
 
 **💻 Hardware**
 
-BeagleConnect Zepto is an open-source, $1 computer based on a Cortex-M0+ MCU, offering mikroBus headers, Qwiic connectors, and a JTAG connector for debugging and expansion.
+ASRock's HUDIMM memory standard slashes DDR5 prices by reducing bandwidth & capacity.
 
-💡 **Key Point:** Ultra-low-cost, highly accessible microcontroller-based development platform emerges.
+💡 **Key Point:** Cost-efficient memory for widespread adoption during RAM shortages.
 
-🔗 [Read More](https://www.cnx-software.com/2026/04/19/beagleconnect-zepto-a-1-computer-based-on-ti-mspm0l1117-cortex-m0-mcu/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ddr5/new-hudimm-memory-specification-debuts-with-goal-of-lowering-prices-during-ram-shortages-a-new-cheaper-memory-standard-featuring-only-one-subchannel-per-stick-aimed-at-budget-pcs)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **23 articles** across **5 focused categories**.
+We covered **36 articles** across **4 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 4 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 5 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 2 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 5 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 16 | Artificial Intelligence and Machine Learning |
+| 💻 [Hardware](hardware.md) | 12 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 4 articles
-
-### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 7 articles
+*Artificial Intelligence and Machine Learning* — 16 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 5 articles
+*Computing hardware and development boards* — 12 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 2 articles
+*Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 5 articles
+*Industry news and product launches* — 4 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-04-19 at 09:30 by an autonomous AI curation system.
+Generated 2026-04-20 at 10:23 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

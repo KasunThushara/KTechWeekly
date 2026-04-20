@@ -1,35 +1,55 @@
 # ⚡ Semiconductors
-**Week of April 19, 2026**
+**Week of April 20, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 2
-- **Report generated:** 2026-04-19 09:30
+- **Articles this week:** 4
+- **Report generated:** 2026-04-20 10:23
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. BeagleConnect Zepto A $1 computer based on TI MSPM0L1117 Cortex-M0+ MCU 
+### 1. IP67-rated AI security camera feature Rockchip RV1126B or RK3576/J/M SoC for commercial, industrial, and automotive applications ⭐
 
-BeagleConnect Zepto is an open-source, $1 computer based on a Cortex-M0+ MCU, offering mikroBus headers, Qwiic connectors, and a JTAG connector for debugging and expansion.
+Firefly has released two new AI security cameras with IP67-rated enclosures, featuring Rockchip RV1126B and RK3576/J/M SoCs. The CQ38W-1126B and CQ38W-3576 cameras offer higher performance and support for demanding AI workloads. They are suitable for commercial, industrial, and automotive applications.
 
-💡 *Ultra-low-cost, highly accessible microcontroller-based development platform emerges.*
+💡 *Higher-performance AI cameras for demanding industrial and automotive use cases.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/19/beagleconnect-zepto-a-1-computer-based-on-ti-mspm0l1117-cortex-m0-mcu/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/20/ip67-rated-ai-security-camera-feature-rockchip-rv1126b-or-rk3576-j-m-soc-for-commercial-industrial-and-automotive-applications/)
 
 ---
 
-### 2. Nvidia CEO Jensen Huang nearly lost his composure when pressed on selling chips to China You re not talking to someone who woke up a loser  
+### 2. 40 years ago we entered the megabit memory era with IBM s DRAM breakthrough a major leap beyond the 64 kilobit chips common at the time 
 
-Nvidia CEO Jensen Huang believes blocking China from AI chip sales is a 'losing proposition' that doesn't make sense, as China is the second biggest market for AI chips.
+40 years ago, IBM introduced 1-megabit memory chips, a significant breakthrough in computing technology, marking a major leap beyond the 64 kilobit chips common at the time. This innovation paved the way for faster and more efficient computing. IBM's achievement represented a major milestone in the evolution of computer memory.
 
-💡 *Blocking a massive market can have devastating economic consequences*
+💡 *Faster computing enabled new possibilities and applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-nearly-lost-his-composure-when-pressed-on-selling-chips-to-china-youre-not-talking-to-someone-who-woke-up-a-loser)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/40-years-ago-we-entered-the-megabit-memory-era-with-ibms-dram-breakthrough-a-major-leap-beyond-the-64-kilobit-chips-common-at-the-time)
+
+---
+
+### 3. Russian-made Shahed drones are disintegrating in the air before reaching their targets due to shoddy manufacturing, video shows commentators call Russian clones of Iran's drones 'flying garbage' 
+
+Russian-made Shahed drones are disintegrating in mid-air due to shoddy manufacturing, video shows. This is reportedly due to Russian clones of Iran's drones. Commentators have described them as 'flying garbage'.
+
+💡 *Subpar drone quality reveals underlying issues in Russia's military manufacturing.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/russian-made-shahed-drones-are-disintegrating-in-the-air-before-reaching-their-targets-due-to-shoddy-manufacturing-video-shows-commentators-call-russian-clones-of-irans-drones-flying-garbage)
+
+---
+
+### 4. Toshiba refuses to replace large hard drive that was under warranty company offers refund at the purchase price, not the higher current retail price 
+
+Toshiba refused to replace a broken hard drive under warranty. Instead, they offered a refund at the original purchase price. The user was left to buy a replacement at a higher retail price due to chip shortages.
+
+💡 *Warranty limitations leave consumers vulnerable to price hikes and shortages.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/hdds/toshiba-refuses-to-replace-large-hard-drives-under-warranty-the-company-offers-refunds-at-the-purchase-price-not-the-post-shortage-price)
 
 ---
 
