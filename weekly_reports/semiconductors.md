@@ -1,55 +1,95 @@
 # ⚡ Semiconductors
-**Week of April 20, 2026**
+**Week of April 21, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-04-20 10:23
+- **Articles this week:** 8
+- **Report generated:** 2026-04-21 10:06
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. IP67-rated AI security camera feature Rockchip RV1126B or RK3576/J/M SoC for commercial, industrial, and automotive applications ⭐
+### 1. LILYGO T-Watch Ultra An IP65-rated ESP32-S3 smartwatch with 2.01-inch AMOLED, LoRa, and GNSS ⭐
 
-Firefly has released two new AI security cameras with IP67-rated enclosures, featuring Rockchip RV1126B and RK3576/J/M SoCs. The CQ38W-1126B and CQ38W-3576 cameras offer higher performance and support for demanding AI workloads. They are suitable for commercial, industrial, and automotive applications.
+The LILYGO T-Watch Ultra is an ESP32-S3-based smartwatch with a 2.01-inch AMOLED display, IP65 rating, and features like LoRa, GNSS, and edge AI sensing capabilities. It has a high-capacity 1,100mAh battery and a range of I/O interfaces for development. The watch targets various applications, including GPS tracking and custom smartwatch firmware development.
 
-💡 *Higher-performance AI cameras for demanding industrial and automotive use cases.*
+💡 *IoT development becomes more accessible with a powerful, water-resistant smartwatch platform.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/20/ip67-rated-ai-security-camera-feature-rockchip-rv1126b-or-rk3576-j-m-soc-for-commercial-industrial-and-automotive-applications/)
-
----
-
-### 2. 40 years ago we entered the megabit memory era with IBM s DRAM breakthrough a major leap beyond the 64 kilobit chips common at the time 
-
-40 years ago, IBM introduced 1-megabit memory chips, a significant breakthrough in computing technology, marking a major leap beyond the 64 kilobit chips common at the time. This innovation paved the way for faster and more efficient computing. IBM's achievement represented a major milestone in the evolution of computer memory.
-
-💡 *Faster computing enabled new possibilities and applications.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/40-years-ago-we-entered-the-megabit-memory-era-with-ibms-dram-breakthrough-a-major-leap-beyond-the-64-kilobit-chips-common-at-the-time)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/20/lilygo-t-watch-ultra-an-ip65-rated-esp32-s3-smartwatch-with-2-01-inch-amoled-lora-and-gnss/)
 
 ---
 
-### 3. Russian-made Shahed drones are disintegrating in the air before reaching their targets due to shoddy manufacturing, video shows commentators call Russian clones of Iran's drones 'flying garbage' 
+### 2. Chinese chipmakers made record profit in 2025, despite slipping margins U.S shipments fall 34% as Beijing shores up local chipmaking efforts 
 
-Russian-made Shahed drones are disintegrating in mid-air due to shoddy manufacturing, video shows. This is reportedly due to Russian clones of Iran's drones. Commentators have described them as 'flying garbage'.
+Chinese chipmakers saw record profit despite slipping margins, driven by U.S. sales. Applied Materials, Lam Research, and KLA collectively booked $19 billion in China revenue across their fiscal 2025 reporting periods. Local chipmaking efforts are gaining momentum in Beijing.
 
-💡 *Subpar drone quality reveals underlying issues in Russia's military manufacturing.*
+💡 *Beijing's chipmaking efforts gain momentum, impacting U.S. sales significantly*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/russian-made-shahed-drones-are-disintegrating-in-the-air-before-reaching-their-targets-due-to-shoddy-manufacturing-video-shows-commentators-call-russian-clones-of-irans-drones-flying-garbage)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinese-chip-tool-makers-posted-record-2025-revenues-while-margins-slipped)
 
 ---
 
-### 4. Toshiba refuses to replace large hard drive that was under warranty company offers refund at the purchase price, not the higher current retail price 
+### 3. UGV Beast An off-road tracked AI robot built for Raspberry Pi 4/5 
 
-Toshiba refused to replace a broken hard drive under warranty. Instead, they offered a refund at the original purchase price. The user was left to buy a replacement at a higher retail price due to chip shortages.
+The Waveshare UGV Beast is an off-road robot designed for Raspberry Pi 4/5 using tracked wheels for improved terrain navigation with AI vision and strategy planning through the ESP32 sub-controller.
 
-💡 *Warranty limitations leave consumers vulnerable to price hikes and shortages.*
+💡 *Advances autonomous navigation in rugged terrain with AI-driven precision.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/hdds/toshiba-refuses-to-replace-large-hard-drives-under-warranty-the-company-offers-refunds-at-the-purchase-price-not-the-post-shortage-price)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/21/ugv-beast-an-off-road-tracked-ai-robot-built-for-raspberry-pi-4-5/)
+
+---
+
+### 4. Ezurio Tungsten 510/700 SMARC SoM features MediaTek Genio 510/700 AIoT SoC, dual GbE, WiFi 6 
+
+Ezurio Tungsten 510/700 is a SMARC module powered by MediaTek Genio 510/700 AIoT SoCs, offering high-performance computing and AI capabilities.
+
+💡 *MediaTek Genio 510/700 AIoT SoC enables efficient edge computing and IoT applications.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/21/ezurio-tungsten-510-700-smarc-som-features-mediatek-genio-510-700-aiot-soc-dual-gbe-wifi-6/)
+
+---
+
+### 5. Testing PC games using FEX on a high-end Android tablet can yield playable results but the early tech is still not ready for prime time 
+
+FEX translation layer brings PC games to ARM64 devices like Android tablets, yielding playable results, but early technology is still in development.
+
+💡 *Early adoption of FEX faces technical hurdles and performance limitations.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/testing-pc-games-using-fex-on-a-high-end-android-tablet-can-yield-playable-results-but-the-early-tech-is-still-not-ready-for-prime-time)
+
+---
+
+### 6. AI cloud company Vercel breached after employee grants AI tool unrestricted access to Google Workspace hacker seeking $2 million for stolen data 
+
+Vercel, a cloud company, was breached after an employee granted access to a hacker. The breach exposed non-sensitive environment variables. A threat actor known as ShinyHunters has claimed responsibility.
+
+💡 *Employee actions exposing company data to unauthorized access is a significant risk.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/vercel-breached-after-employee-grants-ai-tool-unrestricted-access-to-google-workspace)
+
+---
+
+### 7. US gov't blocks China's largest LED chipmaker's $239 million bid to acquire Dutch lighting firm Lumileds US blocks acquisition attempt of European firm 
+
+Sanan Optoelectronics, China's largest LED chipmaker, has abandoned its $239 million bid to acquire Dutch firm Lumileds after the US government blocked the deal through the Committee on Foreign Investment in the United States (CFIUS).
+
+💡 *US maintains control over foreign acquisitions of strategic US assets*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-blocks-chinese-acquisition-of-dutch-led-firm-lumileds-for-the-second-time)
+
+---
+
+### 8. Chipmakers on track to meet only 60% of AI memory demand by 2027 
+
+Chipmakers face a tight market due to ongoing memory shortages. The shortage is expected to last until they meet demand for AI-focused components from hyperscale customers. This has significant implications for various industries.
+
+💡 *Memory shortage limits AI development and innovation potential worldwide*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112125-chipmakers-track-meet-only-60-ai-memory-demand.html)
 
 ---
 

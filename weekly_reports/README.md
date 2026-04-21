@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 20, 2026**
+**Week of April 21, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,97 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Sudokoo SK620V and SK700V Review: Silent, Stylish AM5 cooling, with a built-in display ⭐
+### 1. LILYGO T-Watch Ultra An IP65-rated ESP32-S3 smartwatch with 2.01-inch AMOLED, LoRa, and GNSS ⭐
 
 **💻 Hardware**
 
-We reviewed Sudokoo's SK620V and SK700V air coolers, which deliver high performance quietly and feature a built-in display.
+The LILYGO T-Watch Ultra is an ESP32-S3-based smartwatch with a 2.01-inch AMOLED display, IP65 rating, and features like LoRa, GNSS, and edge AI sensing capabilities. It has a high-capacity 1,100mAh battery and a range of I/O interfaces for development. The watch targets various applications, including GPS tracking and custom smartwatch firmware development.
 
-💡 **Key Point:** Silent AM5 cooling solutions for high-performance Ryzen processors exist.
+💡 **Key Point:** IoT development becomes more accessible with a powerful, water-resistant smartwatch platform.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/air-cooling/sudokoo-sk620v-and-sk700v-review)
-
----
-
-### 2. IP67-rated AI security camera feature Rockchip RV1126B or RK3576/J/M SoC for commercial, industrial, and automotive applications ⭐
-
-**🤖 AI & ML**
-
-Firefly has released two new AI security cameras with IP67-rated enclosures, featuring Rockchip RV1126B and RK3576/J/M SoCs. The CQ38W-1126B and CQ38W-3576 cameras offer higher performance and support for demanding AI workloads. They are suitable for commercial, industrial, and automotive applications.
-
-💡 **Key Point:** Higher-performance AI cameras for demanding industrial and automotive use cases.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/20/ip67-rated-ai-security-camera-feature-rockchip-rv1126b-or-rk3576-j-m-soc-for-commercial-industrial-and-automotive-applications/)
+🔗 [Read More](https://www.cnx-software.com/2026/04/20/lilygo-t-watch-ultra-an-ip65-rated-esp32-s3-smartwatch-with-2-01-inch-amoled-lora-and-gnss/)
 
 ---
 
-### 3. IP67-rated AI security camera feature Rockchip RV1126B or RK3576/J/M SoC for commercial, industrial, and automotive applications ⭐
+### 2. LILYGO T-Watch Ultra An IP65-rated ESP32-S3 smartwatch with 2.01-inch AMOLED, LoRa, and GNSS ⭐
 
 **⚡ Semiconductors**
 
-Firefly has released two new AI security cameras with IP67-rated enclosures, featuring Rockchip RV1126B and RK3576/J/M SoCs. The CQ38W-1126B and CQ38W-3576 cameras offer higher performance and support for demanding AI workloads. They are suitable for commercial, industrial, and automotive applications.
+The LILYGO T-Watch Ultra is an ESP32-S3-based smartwatch with a 2.01-inch AMOLED display, IP65 rating, and features like LoRa, GNSS, and edge AI sensing capabilities. It has a high-capacity 1,100mAh battery and a range of I/O interfaces for development. The watch targets various applications, including GPS tracking and custom smartwatch firmware development.
 
-💡 **Key Point:** Higher-performance AI cameras for demanding industrial and automotive use cases.
+💡 **Key Point:** IoT development becomes more accessible with a powerful, water-resistant smartwatch platform.
 
-🔗 [Read More](https://www.cnx-software.com/2026/04/20/ip67-rated-ai-security-camera-feature-rockchip-rv1126b-or-rk3576-j-m-soc-for-commercial-industrial-and-automotive-applications/)
-
----
-
-### 4. Sudokoo SK620V and SK700V Review: Silent, Stylish AM5 cooling, with a built-in display ⭐
-
-**📰 Tech News**
-
-We reviewed Sudokoo's SK620V and SK700V air coolers, which deliver high performance quietly and feature a built-in display.
-
-💡 **Key Point:** Silent AM5 cooling solutions for high-performance Ryzen processors exist.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/air-cooling/sudokoo-sk620v-and-sk700v-review)
+🔗 [Read More](https://www.cnx-software.com/2026/04/20/lilygo-t-watch-ultra-an-ip65-rated-esp32-s3-smartwatch-with-2-01-inch-amoled-lora-and-gnss/)
 
 ---
 
-### 5. New HUDIMM memory specification debuts with goal of slashing DDR5 prices during RAM shortages A new, cheaper memory standard with half the bandwidth and half the capacity 
+### 3. Asrock's new HUDIMM standard wants to make DDR5 affordable again, by cutting it in half 
+
+**🤖 AI & ML**
+
+Asrock's HUDIMM aims to make DDR5 more affordable by reducing its size.
+
+💡 **Key Point:** Cost-effective DDR5 solution for system integrators and users.
+
+🔗 [Read More](https://www.techspot.com/news/112122-asrock-new-hudimm-standard-wants-make-ddr5-affordable.html)
+
+---
+
+### 4. Researchers are using ultrasound to trigger smell directly in the brain for VR 
+
+**🤖 AI & ML**
+
+Researchers are using ultrasound to stimulate the brain's olfactory system directly, enabling the simulation of smells in virtual reality and potentially revolutionizing the field by incorporating a long-missing sensory dimension.
+
+💡 **Key Point:** Enhancing emotional realism in VR through multisensory stimulation
+
+🔗 [Read More](https://www.techspot.com/news/112119-researchers-using-ultrasound-trigger-smell-directly-brain-vr.html)
+
+---
+
+### 5. UGV Beast An off-road tracked AI robot built for Raspberry Pi 4/5 
 
 **💻 Hardware**
 
-ASRock's HUDIMM memory standard slashes DDR5 prices by reducing bandwidth & capacity.
+The Waveshare UGV Beast is an off-road robot designed for Raspberry Pi 4/5 using tracked wheels for improved terrain navigation with AI vision and strategy planning through the ESP32 sub-controller.
 
-💡 **Key Point:** Cost-efficient memory for widespread adoption during RAM shortages.
+💡 **Key Point:** Advances autonomous navigation in rugged terrain with AI-driven precision.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ddr5/new-hudimm-memory-specification-debuts-with-goal-of-lowering-prices-during-ram-shortages-a-new-cheaper-memory-standard-featuring-only-one-subchannel-per-stick-aimed-at-budget-pcs)
+🔗 [Read More](https://www.cnx-software.com/2026/04/21/ugv-beast-an-off-road-tracked-ai-robot-built-for-raspberry-pi-4-5/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **36 articles** across **4 focused categories**.
+We covered **45 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 16 | Artificial Intelligence and Machine Learning |
-| 💻 [Hardware](hardware.md) | 12 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 14 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 1 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 8 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 16 articles
+*Artificial Intelligence and Machine Learning* — 14 articles
+
+### 🎮 [GPUs](gpus.md)
+*Graphics cards and compute accelerators* — 1 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 12 articles
+*Computing hardware and development boards* — 14 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 4 articles
+*Chip manufacturing and design* — 8 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 4 articles
+*Industry news and product launches* — 8 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-04-20 at 10:23 by an autonomous AI curation system.
+Generated 2026-04-21 at 10:06 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

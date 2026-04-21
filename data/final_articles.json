@@ -1,258 +1,357 @@
 [
   {
-    "title": "Original Task Manager creator explains why it lies to you about CPU usage former Microsoft engineer shows unique solution to a seemingly simple, but actually complicated, task",
-    "summary": "Microsoft engineer Dave Plummer reveals the inner workings of Task Manager, explaining how it calculates CPU usage and why it may not always reflect the true picture. This affects how users manage their computer resources, leading to potential performance issues.",
-    "link": "https://www.tomshardware.com/software/windows/original-task-manager-creator-explains-why-it-lies-to-you-about-cpu-usage-former-microsoft-engineer-shows-unique-solution-to-a-seemingly-simple-but-actually-complicated-task",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.915429",
-    "insight": "Task Manager lies about CPU usage due to inaccurate sampling methods."
-  },
-  {
-    "title": "Voyager 1 gets emergency instrument shutdown to solve escalating power crisis and give it about a year of breathing room interstellar spacecraft's nuclear power source is dying, leading to intensifying countermeasures",
-    "summary": "Voyager 1's power crisis led to an emergency instrument shutdown. Scientists are working on a fix to swap onboard devices for low-power alternatives. This will give the spacecraft a year of breathing room.",
-    "link": "https://www.tomshardware.com/tech-industry/voyager-1-gets-emergency-instrument-shutdown-to-solve-escalating-power-crisis-and-give-it-about-a-year-of-breathing-room-interstellar-spacecrafts-nuclear-power-source-is-dying-leading-to-intensifying-countermeasures",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.915564",
-    "insight": "Voyager's nuclear power source is dying, threatening its prolonged existence."
-  },
-  {
-    "title": "Gaming laptop brought to repair shop for overheating problem, decorative stickers found to be the problem tech fixes problem in under 10 seconds after removing the stickers covering its fans",
-    "summary": "A gaming laptop was brought in for overheating issues due to decorative stickers covering its vents, which were quickly identified and removed by a tech to fix the problem in under 10 seconds.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/gaming-laptop-brought-to-repair-shop-for-overheating-problem-decorative-stickers-found-to-be-the-problem-tech-fixes-problem-in-under-10-seconds-after-removing-the-stickers-covering-its-fans",
+    "title": "Enthusiasts build an interactive online Listening Museum of iconic mechanical keyboard audio samples 36 mechanical masterpieces available for you to audibly try out",
+    "summary": "The Listening Museum features 36 multisampled iconic and modern classic keyboards, allowing users to interactively explore and compare their distinct audio samples.",
+    "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/enthusiasts-build-an-interactive-online-listening-museum-of-iconic-keyboard-audio-samples-36-mechanical-masterpieces-available-for-you-to-audibly-try-out",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.915681",
-    "insight": "Decorative stickers can cause laptop overheating and system failure."
+    "processed_date": "2026-04-21T10:05:17.162794",
+    "insight": "Preserving keyboard sound heritage through immersive multisampling technology."
   },
   {
-    "title": "Russian-made Shahed drones are disintegrating in the air before reaching their targets due to shoddy manufacturing, video shows commentators call Russian clones of Iran's drones 'flying garbage'",
-    "summary": "Russian-made Shahed drones are disintegrating in mid-air due to shoddy manufacturing, video shows. This is reportedly due to Russian clones of Iran's drones. Commentators have described them as 'flying garbage'.",
-    "link": "https://www.tomshardware.com/tech-industry/russian-made-shahed-drones-are-disintegrating-in-the-air-before-reaching-their-targets-due-to-shoddy-manufacturing-video-shows-commentators-call-russian-clones-of-irans-drones-flying-garbage",
+    "title": "Apple CEO Tim Cook steps down, company names Ternus as incoming CEO",
+    "summary": "Apple CEO Tim Cook is stepping down on September 1. He will be replaced by John Ternus, the company's hardware engineering lead. Ternus will take the reins on September 1.",
+    "link": "https://www.tomshardware.com/software/macos/apple-ceo-time-cook-steps-down-company-names-ternus-as-incoming-ceo",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-21T10:05:17.162903",
+    "insight": "Tech giant Apple's leadership transition impacts global innovation landscape"
+  },
+  {
+    "title": "New cost-effective DDR5 memory 'HUDIMMs' show around 50% reduction in throughput with single subchannel Two HUDIMMs are as fast as a single stick of regular DDR5 RAM",
+    "summary": "HUDIMMs are a proposed cost-effective DDR5 memory spec with reduced performance. By using a single 32-bit subchannel, HUDIMMs decrease bandwidth and performance by half. Two HUDIMMs can match the performance of a single regular DDR5 stick.",
+    "link": "https://www.tomshardware.com/pc-components/ddr5/new-cost-effective-ddr5-memory-hudimms-show-around-50-percent-reduction-in-throughput-with-single-subchannel-two-hudimms-are-as-fast-as-a-single-stick-of-regular-ddr5-ram",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-21T10:05:17.163025",
+    "insight": "Reducing bandwidth halves performance in cost-saving memory technology design"
+  },
+  {
+    "title": "New Jersey datacenter expansion got $77m in tax breaks to create exactly one permanent job JPMorgan's site already scored $35m and currently employs just 25 workers",
+    "summary": "A New Jersey data center expansion received $77m in tax breaks despite creating only one new job, adding to concerns about corporate tax incentives that fail to deliver on promised employment. This came after JPMorgan's site already secured $35m in tax breaks and currently employs just 25 workers.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-jersey-datacenter-expansion-got-usd77m-in-tax-breaks-to-create-exactly-one-permanent-job-jpmorgans-site-already-scored-usd35m-and-currently-employs-just-25-workers",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.163132",
+    "insight": "Tax breaks often don't translate to promised job creation."
+  },
+  {
+    "title": "Testing PC games using FEX on a high-end Android tablet can yield playable results but the early tech is still not ready for prime time",
+    "summary": "FEX translation layer brings PC games to ARM64 devices like Android tablets, yielding playable results, but early technology is still in development.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/testing-pc-games-using-fex-on-a-high-end-android-tablet-can-yield-playable-results-but-the-early-tech-is-still-not-ready-for-prime-time",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.163252",
+    "insight": "Early adoption of FEX faces technical hurdles and performance limitations."
+  },
+  {
+    "title": "Chinese chipmakers made record profit in 2025, despite slipping margins U.S shipments fall 34% as Beijing shores up local chipmaking efforts",
+    "summary": "Chinese chipmakers saw record profit despite slipping margins, driven by U.S. sales. Applied Materials, Lam Research, and KLA collectively booked $19 billion in China revenue across their fiscal 2025 reporting periods. Local chipmaking efforts are gaining momentum in Beijing.",
+    "link": "https://www.tomshardware.com/tech-industry/chinese-chip-tool-makers-posted-record-2025-revenues-while-margins-slipped",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-21T10:05:17.163357",
+    "insight": "Beijing's chipmaking efforts gain momentum, impacting U.S. sales significantly"
+  },
+  {
+    "title": "AI cloud company Vercel breached after employee grants AI tool unrestricted access to Google Workspace hacker seeking $2 million for stolen data",
+    "summary": "Vercel, a cloud company, was breached after an employee granted access to a hacker. The breach exposed non-sensitive environment variables. A threat actor known as ShinyHunters has claimed responsibility.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/vercel-breached-after-employee-grants-ai-tool-unrestricted-access-to-google-workspace",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.915802",
-    "insight": "Subpar drone quality reveals underlying issues in Russia's military manufacturing."
+    "processed_date": "2026-04-21T10:05:17.163483",
+    "insight": "Employee actions exposing company data to unauthorized access is a significant risk."
   },
   {
-    "title": "Bambu Lab overtakes Creality as the world's top-selling budget 3D printer brand resurgence in 3D printer market fueled by budget options",
-    "summary": "Bambu Lab surpassed Creality as the top-selling budget 3D printer brand in 2025, capturing the largest market share in the entry-level segment. This shift is attributed to Bambu Lab's focus on affordability and user-friendly designs. The resurgence in budget options has revitalized the 3D printer market.",
-    "link": "https://www.tomshardware.com/3d-printing/bambu-lab-overtakes-creality-as-the-worlds-top-selling-budget-3d-printer-brand",
+    "title": "Every SK hynix employee could receive $477,000 bonuses this year, almost $900,000 next year 35,000 workers reportedly set to benefit from share of $169 billion projected operating profit",
+    "summary": "SK hynix plans to distribute a significant portion of its operating profit to employees through performance-based bonuses. Approximately 35,000 employees are expected to receive substantial payouts. The bonuses could reach $477,000 this year and nearly $900,000 next year.",
+    "link": "https://www.tomshardware.com/tech-industry/sk-hynix-employees-could-receive-447000-bonuses-this-year",
     "categories": [
-      "AI & ML"
+      "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.915909",
-    "insight": "Budget-friendly 3D printers drive market demand and innovation"
+    "quality_score": 10,
+    "processed_date": "2026-04-21T10:05:17.163592",
+    "insight": "Employees receive significant bonuses tied to company performance and profits"
   },
   {
-    "title": "Inventor showcases 3D printer filament dryer that mines Bitcoins and dries filament with waste heat, capable of 6 TH/s at 140W joins Bitcoin-mining 3D printer in hobbyist-focused miner lineup",
-    "summary": "An inventor has created a 3D printer filament dryer that also mines Bitcoins, utilizing waste heat for efficient drying and mining.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptomining/inventor-showcases-3d-printer-filament-dryer-that-mines-bitcoins-and-dries-filament-with-waste-heat-capable-of-6-th-s-at-140w-joins-bitcoin-mining-3d-printer-in-hobbyist-focused-miner-lineup",
+    "title": "Linux 7.1 update includes new in-kernel NTFS driver delivers storage support upgrade for Linux users",
+    "summary": "Linux 7.1 introduces a new in-kernel NTFS driver for improved storage support.",
+    "link": "https://www.tomshardware.com/software/linux/linux-7-1-update-includes-new-in-kernel-ntfs-driver-delivers-storage-support-upgrade-for-linux-users",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.916030",
-    "insight": "Merging 3D printing and Bitcoin mining creates a unique eco-friendly resource."
+    "processed_date": "2026-04-21T10:05:17.163687",
+    "insight": "Native NTFS support enhances compatibility with Windows file systems."
   },
   {
-    "title": "40 years ago we entered the megabit memory era with IBM s DRAM breakthrough a major leap beyond the 64 kilobit chips common at the time",
-    "summary": "40 years ago, IBM introduced 1-megabit memory chips, a significant breakthrough in computing technology, marking a major leap beyond the 64 kilobit chips common at the time. This innovation paved the way for faster and more efficient computing. IBM's achievement represented a major milestone in the evolution of computer memory.",
-    "link": "https://www.tomshardware.com/pc-components/dram/40-years-ago-we-entered-the-megabit-memory-era-with-ibms-dram-breakthrough-a-major-leap-beyond-the-64-kilobit-chips-common-at-the-time",
+    "title": "Latest Intel Core Ultra 7 270K bundle includes a 2TB SSD and 64GB of RAM for just $1,499 includes Z890 motherboard, case, and AIO cooler, just add a GPU and PSU for a complete PC build",
+    "summary": "The Newegg Intel combo bundle offers a powerful PC build at $1,499, including a 270K processor, 64GB RAM, 2TB SSD, Z890 motherboard, case, and AIO cooler.",
+    "link": "https://www.tomshardware.com/pc-components/latest-intel-core-ultra-7-270k-bundle-includes-a-2tb-ssd-and-64gb-of-ram-for-just-usd1-499-includes-z890-motherboard-case-and-aio-cooler-just-add-a-gpu-and-psu-for-a-complete-pc-build",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.163797",
+    "insight": "Affordable high-end PC build option for gamers and content creators."
+  },
+  {
+    "title": "US gov't blocks China's largest LED chipmaker's $239 million bid to acquire Dutch lighting firm Lumileds US blocks acquisition attempt of European firm",
+    "summary": "Sanan Optoelectronics, China's largest LED chipmaker, has abandoned its $239 million bid to acquire Dutch firm Lumileds after the US government blocked the deal through the Committee on Foreign Investment in the United States (CFIUS).",
+    "link": "https://www.tomshardware.com/tech-industry/us-blocks-chinese-acquisition-of-dutch-led-firm-lumileds-for-the-second-time",
     "categories": [
       "Semiconductors",
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-20T10:22:24.916141",
-    "insight": "Faster computing enabled new possibilities and applications."
-  },
-  {
-    "title": "Sudokoo SK620V and SK700V Review: Silent, Stylish AM5 cooling, with a built-in display",
-    "summary": "We reviewed Sudokoo's SK620V and SK700V air coolers, which deliver high performance quietly and feature a built-in display.",
-    "link": "https://www.tomshardware.com/pc-components/air-cooling/sudokoo-sk620v-and-sk700v-review",
-    "categories": [
-      "Tech News",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-20T10:22:24.916250",
-    "insight": "Silent AM5 cooling solutions for high-performance Ryzen processors exist."
-  },
-  {
-    "title": "Researchers find a way to heat 3D printer filament using microwaves, enabling fusing circuits inside printed objects tech supports precise heating down to the width of a human hair",
-    "summary": " Researchers from Rice University developed microwave technology for precise 3D printing. This tech enables fusing circuits inside printed objects with high precision. It's already improving 3D printing efficiency and enabling new tech.",
-    "link": "https://www.tomshardware.com/3d-printing/researchers-find-a-way-to-heat-3d-printer-filament-using-microwaves-enabling-fusing-circuits-inside-printed-objects-tech-supports-precise-heating-down-to-the-width-of-a-human-hair",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-20T10:22:24.916369",
-    "insight": "Precise heating unlocks new possibilities in 3D printed electronics."
-  },
-  {
-    "title": "New HUDIMM memory specification debuts with goal of slashing DDR5 prices during RAM shortages A new, cheaper memory standard with half the bandwidth and half the capacity",
-    "summary": "ASRock's HUDIMM memory standard slashes DDR5 prices by reducing bandwidth & capacity.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/new-hudimm-memory-specification-debuts-with-goal-of-lowering-prices-during-ram-shortages-a-new-cheaper-memory-standard-featuring-only-one-subchannel-per-stick-aimed-at-budget-pcs",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-20T10:22:24.916487",
-    "insight": "Cost-efficient memory for widespread adoption during RAM shortages."
-  },
-  {
-    "title": "New flat M.2 SSD adapter doesn't stick out from the motherboard, unlocking PCIe slots hidden under massive GPUs JEYI's new 'ArcherX' AIC lays completely flush and supports PCIe 4.0 speeds",
-    "summary": "JEYI's flat PCIe to M.2 adapter allows for flush installation with motherboards, unlocking access to hidden PCIe slots. This feature is especially useful in systems with massive GPUs that block traditional M.2 slots. The adapter supports PCIe 4.0 speeds and is backwards compatible with PCIe 3.0.",
-    "link": "https://www.tomshardware.com/pc-components/external-ssds/new-flat-m-2-ssd-adapter-doesnt-stick-out-from-the-motherboard-unlocking-pcie-slots-hidden-under-massive-gpus-jeyis-new-archerx-aic-lays-completely-flush-and-supports-pcie-4-0-speeds",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.916613",
-    "insight": "Unlocks access to hidden PCIe slots under massive GPUs"
+    "processed_date": "2026-04-21T10:05:17.163901",
+    "insight": "US maintains control over foreign acquisitions of strategic US assets"
   },
   {
-    "title": "Xbox Series X|S storage expansion cards can be used on PC with an inexpensive CFexpress adapter Speeds top out at 1,560 MB/s in Redditor's testing",
-    "summary": "Xbox Series X|S storage expansion cards can be used on PC with a CFexpress adapter, which requires formatting before use. Inexpensive adapters, such as PCIe to CFexpress or M.2 to CFexpress, are available. However, speeds may not be as fast as expected.",
-    "link": "https://www.tomshardware.com/pc-components/external-ssds/xbox-series-x-s-storage-expansion-cards-can-be-used-on-pc-with-an-inexpensive-cfexpress-adapter-speeds-top-out-at-1-560-mb-s-in-redditors-testing",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.916737",
-    "insight": "Unlock PC compatibility with affordable CFexpress adapter solutions"
-  },
-  {
-    "title": "Toshiba refuses to replace large hard drive that was under warranty company offers refund at the purchase price, not the higher current retail price",
-    "summary": "Toshiba refused to replace a broken hard drive under warranty. Instead, they offered a refund at the original purchase price. The user was left to buy a replacement at a higher retail price due to chip shortages.",
-    "link": "https://www.tomshardware.com/pc-components/hdds/toshiba-refuses-to-replace-large-hard-drives-under-warranty-the-company-offers-refunds-at-the-purchase-price-not-the-post-shortage-price",
+    "title": "Apex Gaming PCs recalls nearly 18,000 power supplies over missing safety labels the fix is a warning sticker sent by mail, units are entirely safe",
+    "summary": "Apex Gaming PCs recalls 17,730 power supplies due to missing safety labels. The units are entirely safe, but users are advised to apply a warning sticker. The recall was issued by the U.S. Consumer Product Safety Commission on April 16.",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/apex-gaming-pcs-recalls-nearly-18000-power-supplies-over-missing-safety-labels",
     "categories": [
       "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.164017",
+    "insight": "Safety oversight can lead to costly product recalls and consumer warnings."
+  },
+  {
+    "title": "Relive the PC magazine cover disk era with 758-strong archive.org CD-ROM collection 1.2TB treasure trove also includes Floppy Disks from as early as 1993",
+    "summary": "The Internet Archive has curated a 1.2TB collection of PC cover disks and floppy disks from 1993, featuring 758 CD-ROMs and offering a nostalgic look at the early days of computing.",
+    "link": "https://www.tomshardware.com/software/relive-the-pc-magazine-cover-disk-era-with-758-strong-archive-org-cd-rom-collection-1-2tb-treasure-trove-also-includes-floppy-disks-from-as-early-as-1993",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.164117",
+    "insight": "Preserving digital history for future generations of tech enthusiasts."
+  },
+  {
+    "title": "Tokyo court rules movie and anime 'spoiler articles' are copyright infringement in landmark criminal case detailed, monetized plot summaries land man in Japanese prison",
+    "summary": "Tokyo's District Court has ruled 'spoiler articles' as copyright infringement, impacting IP holders.",
+    "link": "https://www.tomshardware.com/tech-industry/tokyo-court-rules-movie-and-anime-spoiler-articles-are-copyright-infringement-in-landmark-criminal-case-detailed-monetized-plot-summaries-land-man-in-japanese-prison",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.164236",
+    "insight": "Detailed plot summaries can be seen as adaptations without permission."
+  },
+  {
+    "title": "UGV Beast An off-road tracked AI robot built for Raspberry Pi 4/5",
+    "summary": "The Waveshare UGV Beast is an off-road robot designed for Raspberry Pi 4/5 using tracked wheels for improved terrain navigation with AI vision and strategy planning through the ESP32 sub-controller.",
+    "link": "https://www.cnx-software.com/2026/04/21/ugv-beast-an-off-road-tracked-ai-robot-built-for-raspberry-pi-4-5/",
+    "categories": [
+      "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.916854",
-    "insight": "Warranty limitations leave consumers vulnerable to price hikes and shortages."
+    "quality_score": 10,
+    "processed_date": "2026-04-21T10:05:17.164771",
+    "insight": "Advances autonomous navigation in rugged terrain with AI-driven precision."
   },
   {
-    "title": "$20,000 in 32GB RAM sticks saved from the dumpster are now worth a fortune seventy-two DDR4-2666 ECC RDIMMs were about to turn into e-waste",
-    "summary": "72 DDR4-2666 ECC RDIMMs, worth $20,000, were saved from e-waste by the Redditor's dad. The memory sticks were destined for the trash heap after a company upgrade. The father's actions proved financially beneficial.",
-    "link": "https://www.tomshardware.com/pc-components/ram/usd20-000-in-32gb-ram-sticks-saved-from-the-dumpster-are-now-worth-a-fortune-72-ddr4-2666-ecc-rdimms-were-about-to-turn-into-e-waste",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.916961",
-    "insight": "Proper resource management can yield significant financial returns unexpectedly."
-  },
-  {
-    "title": "Idle CPU power management: cpuidle",
-    "summary": "The idle CPU power management mechanism, cpuidle, has evolved to choose the most power-efficient idle state among various hardware options, considering the cost of entering and returning from an idle state. This is crucial for reducing power consumption in embedded systems. The idle loop's role has shifted from a simple infinite loop to a sophisticated power management tool.",
-    "link": "https://www.cnx-software.com/2026/04/20/idle-cpu-power-management-cpuidle/",
+    "title": "Ezurio Tungsten 510/700 SMARC SoM features MediaTek Genio 510/700 AIoT SoC, dual GbE, WiFi 6",
+    "summary": "Ezurio Tungsten 510/700 is a SMARC module powered by MediaTek Genio 510/700 AIoT SoCs, offering high-performance computing and AI capabilities.",
+    "link": "https://www.cnx-software.com/2026/04/21/ezurio-tungsten-510-700-smarc-som-features-mediatek-genio-510-700-aiot-soc-dual-gbe-wifi-6/",
     "categories": [
       "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.917465",
-    "insight": "Efficient power management requires strategic idle state selection."
-  },
-  {
-    "title": "IP67-rated AI security camera feature Rockchip RV1126B or RK3576/J/M SoC for commercial, industrial, and automotive applications",
-    "summary": "Firefly has released two new AI security cameras with IP67-rated enclosures, featuring Rockchip RV1126B and RK3576/J/M SoCs. The CQ38W-1126B and CQ38W-3576 cameras offer higher performance and support for demanding AI workloads. They are suitable for commercial, industrial, and automotive applications.",
-    "link": "https://www.cnx-software.com/2026/04/20/ip67-rated-ai-security-camera-feature-rockchip-rv1126b-or-rk3576-j-m-soc-for-commercial-industrial-and-automotive-applications/",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-20T10:22:24.917642",
-    "insight": "Higher-performance AI cameras for demanding industrial and automotive use cases."
-  },
-  {
-    "title": "Loona Deskmate An iPhone-powered AI desktop companion that doubles as a 165W GaN charging station (Crowdfunding)",
-    "summary": "Loona Deskmate is an AI desktop companion that utilizes a docked iPhone for computing, featuring hands-free interaction and a 165W GaN charging station.",
-    "link": "https://www.cnx-software.com/2026/04/20/loona-deskmate-an-iphone-powered-ai-desk-companion-that-doubles-as-a-165w-gan-charging-station/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.917817",
-    "insight": "Revolutionizing workspace efficiency with smartphone-integrated AI and high-speed charging."
-  },
-  {
-    "title": "Typing with your brain might soon be as simple as wearing a beanie",
-    "summary": "Sabi is developing a noninvasive beanie-like device translating brain speech into text.",
-    "link": "https://www.techspot.com/news/112116-scientists-chasing-thought-powered-typing-one-startup-betting.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.919048",
-    "insight": "Noninvasive brain-computer interface technology could revolutionize communication accessibility."
-  },
-  {
-    "title": "Slack chats and internal data from failed startups are finding a second life in AI training",
-    "summary": "Failed startups' internal data is repurposed for AI training, enriching models.",
-    "link": "https://www.techspot.com/news/112117-data-failed-startups-finds-second-life-ai-training.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.919241",
-    "insight": "AI training now relies on real-world operational residue for accuracy."
-  },
-  {
-    "title": "A $5 Bluetooth tracker hidden in a postcard exposed a warship's movements",
-    "summary": "A $5 Bluetooth tracker exposed a Dutch warship's movements in the Mediterranean.",
-    "link": "https://www.techspot.com/news/112118-cheap-bluetooth-tracker-hidden-postcard-exposed-warship-movements.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-20T10:22:24.919417",
-    "insight": "Weak security measures compromise sensitive military operations globally."
-  },
-  {
-    "title": "Leakers claim PlayStation 6 could offer at least 3x the performance of the PS5",
-    "summary": "Leaked documents suggest the PlayStation 6 will have at least 3x the performance of the PS5. This improvement could lead to enhanced gaming experiences, including better graphics and smoother gameplay. Analysts expect significant advancements in ray tracing performance as well.",
-    "link": "https://www.techspot.com/news/112112-leakers-claim-playstation-6-could-offer-least-3x.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
+      "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-20T10:22:24.919596",
-    "insight": "PlayStation 6's performance boost could revolutionize gaming experiences"
+    "processed_date": "2026-04-21T10:05:17.164967",
+    "insight": "MediaTek Genio 510/700 AIoT SoC enables efficient edge computing and IoT applications."
   },
   {
-    "title": "The Mac Mini is no longer a niche product, it's local AI infrastructure",
-    "summary": "The Mac Mini's popularity has grown, shifting from a niche product. Consumer Intelligence Research Partners estimates the growth in US Mac unit sales. It now accounts for a significant portion of Apple's sales.",
-    "link": "https://www.techspot.com/news/112114-mac-mini-no-longer-niche-product-local-ai.html",
+    "title": "LILYGO T-Watch Ultra An IP65-rated ESP32-S3 smartwatch with 2.01-inch AMOLED, LoRa, and GNSS",
+    "summary": "The LILYGO T-Watch Ultra is an ESP32-S3-based smartwatch with a 2.01-inch AMOLED display, IP65 rating, and features like LoRa, GNSS, and edge AI sensing capabilities. It has a high-capacity 1,100mAh battery and a range of I/O interfaces for development. The watch targets various applications, including GPS tracking and custom smartwatch firmware development.",
+    "link": "https://www.cnx-software.com/2026/04/20/lilygo-t-watch-ultra-an-ip65-rated-esp32-s3-smartwatch-with-2-01-inch-amoled-lora-and-gnss/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-21T10:05:17.165147",
+    "insight": "IoT development becomes more accessible with a powerful, water-resistant smartwatch platform."
+  },
+  {
+    "title": "Edge AI survey finds most pilots fail to reach full rollout",
+    "summary": "A survey by Fierce Sensors found Edge AI rollout failures due to AI model lifecycle challenges and hardware/connection concerns.",
+    "link": "https://www.fiercesensors.com/ai/edge-ai-survey-finds-most-project-rollouts-fail",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.166110",
+    "insight": "Edge AI adoption hindered by AI model lifecycle complexity issues."
+  },
+  {
+    "title": "TDK Invensense rides again! Plus, Sensors Converge Q&As",
+    "summary": "TDK InvenSense hosts Sensors Converge, a key industry event. Fierce conducted Q&As with featured speakers, capturing insights from the event. The Q&As highlight the latest trends and innovations in the industry.",
+    "link": "https://www.fiercesensors.com/ai/tdk-invensense-rides-again-plus-sensors-converge-qas",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 0,
-    "processed_date": "2026-04-20T10:22:24.919751",
-    "insight": "Mac Mini becomes local AI infrastructure and mainstream computing solution"
+    "processed_date": "2026-04-21T10:05:17.166249",
+    "insight": "Accelerometers, gyroscopes, and microphones converge in future sensing technologies."
+  },
+  {
+    "title": "Q&A: Prasanthi Yerra on CMOS image sensors for surgical views",
+    "summary": "Prasanthi Yerra discusses CMOS image sensors for improved surgical views, addressing electrical isolation and image performance.",
+    "link": "https://www.fiercesensors.com/sensors/qa-prasanthi-yerra-cmos-image-sensors-surgical-views",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-21T10:05:17.166429",
+    "insight": "High-fidelity surgical vision enhances precision and reduces medical complications."
+  },
+  {
+    "title": "What s going on with Edge AI? And why a Fierce Sensors survey?",
+    "summary": "A Fierce survey explores Edge AI pilot success rates, aiming to identify common pitfalls that hinder production. The survey focuses on engineers' experiences to gather insights on what contributes to Edge AI projects' failure to reach production. The results may help organizations improve their AI development processes.",
+    "link": "https://www.fiercesensors.com/sensors/whats-going-edge-ai-and-why-fierce-sensors-survey",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.166652",
+    "insight": "Edge AI pilot success hinges on timely data processing and validation."
+  },
+  {
+    "title": "Tim Cook to step down as Apple CEO, hardware chief John Ternus takes the helm",
+    "summary": "Tim Cook is stepping down as Apple CEO on September 1, with John Ternus taking over.",
+    "link": "https://www.techspot.com/news/112129-tim-cook-step-down-apple-ceo-hardware-chief.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-21T10:05:17.166865",
+    "insight": "Apple's leadership transition may signal a shift in product priorities."
+  },
+  {
+    "title": "Chipmakers on track to meet only 60% of AI memory demand by 2027",
+    "summary": "Chipmakers face a tight market due to ongoing memory shortages. The shortage is expected to last until they meet demand for AI-focused components from hyperscale customers. This has significant implications for various industries.",
+    "link": "https://www.techspot.com/news/112125-chipmakers-track-meet-only-60-ai-memory-demand.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.166978",
+    "insight": "Memory shortage limits AI development and innovation potential worldwide"
+  },
+  {
+    "title": "If Apple built a $299 \"Neo\" desktop PC, Windows would have a real problem",
+    "summary": "Apple's $599 MacBook Neo laptop has disrupted the PC market by entering the sub-$700 segment, surprising industry competitors and potentially threatening Windows PC sales.",
+    "link": "https://www.techspot.com/news/112127-if-apple-built-299-neo-desktop-pc-windows.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.167089",
+    "insight": "Apple's affordability entry shakes up traditional Windows PC market dominance."
+  },
+  {
+    "title": "The Internet Archive makes 758 classic PC Gamer demo discs available to the public",
+    "summary": "The Internet Archive has made 758 classic PC Gamer demo discs available online, providing a nostalgic trip for gamers. This collection includes snippets of new games that were not available for rent, allowing users to experience them without spending extra money. The archive is a treasure trove of PC gaming history.",
+    "link": "https://www.techspot.com/news/112124-internet-archive-makes-758-classic-pc-gamer-demo.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.167203",
+    "insight": "Preserving gaming history and nostalgic value for PC gamers worldwide."
+  },
+  {
+    "title": "Asrock's new HUDIMM standard wants to make DDR5 affordable again, by cutting it in half",
+    "summary": "Asrock's HUDIMM aims to make DDR5 more affordable by reducing its size.",
+    "link": "https://www.techspot.com/news/112122-asrock-new-hudimm-standard-wants-make-ddr5-affordable.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-21T10:05:17.167310",
+    "insight": "Cost-effective DDR5 solution for system integrators and users."
+  },
+  {
+    "title": "Google Pixel 10 drops to $549, its lowest price yet",
+    "summary": "The Google Pixel 10 has dropped to its lowest price of $549. This 128GB model features a Tensor chip, 120Hz OLED display, and long-term software support. It's a competitive option in the mainstream segment.",
+    "link": "https://www.techspot.com/products/smartphones/google-pixel-10.311109/",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.167442",
+    "insight": "Affordable flagship experience at a lower price point"
+  },
+  {
+    "title": "72 sticks of server RAM were headed for the trash. They're now worth $20,000",
+    "summary": "72 sticks of DDR4 RAM were destined for the trash but found new value. An employee saved them, and they eventually sold for $20,000. This highlights the potential for repurposing IT assets.",
+    "link": "https://www.techspot.com/news/112121-company-discards-32gb-server-ram-sticks-worth-20000.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.167565",
+    "insight": "Proper asset management can yield significant financial returns"
+  },
+  {
+    "title": "Researchers are using ultrasound to trigger smell directly in the brain for VR",
+    "summary": "Researchers are using ultrasound to stimulate the brain's olfactory system directly, enabling the simulation of smells in virtual reality and potentially revolutionizing the field by incorporating a long-missing sensory dimension.",
+    "link": "https://www.techspot.com/news/112119-researchers-using-ultrasound-trigger-smell-directly-brain-vr.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-21T10:05:17.167675",
+    "insight": "Enhancing emotional realism in VR through multisensory stimulation"
+  },
+  {
+    "title": "The first CD recorder was shockingly expensive guess how much",
+    "summary": "The first CD recorder, made by Denon in 1991, was extremely expensive. Recording a CD cost a small fortune before CDs went mainstream. This made CD technology inaccessible to many consumers.",
+    "link": "https://www.techspot.com/trivia/85-first-cd-recorder-shockingly-expensive-guess-how-much/",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-21T10:05:17.167768",
+    "insight": "Early CD technology was unaffordable for the masses initially."
+  },
+  {
+    "title": "Flagship Rematch: Ryzen 7 5800X3D vs. Core i9-12900K",
+    "summary": "The Ryzen 7 5800X3D and Core i9-12900K remain closely matched in benchmarks, but memory type now significantly impacts performance.",
+    "link": "https://www.techspot.com/review/3110-cpu-rematch-ryzen-5800x3d-vs-core-i9-12900k/",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-21T10:05:17.167863",
+    "insight": "Memory choice greatly affects performance in modern CPU comparisons."
   }
 ]

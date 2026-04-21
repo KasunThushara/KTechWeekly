@@ -1,135 +1,155 @@
 # 💻 Hardware
-**Week of April 20, 2026**
+**Week of April 21, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-04-20 10:23
+- **Articles this week:** 14
+- **Report generated:** 2026-04-21 10:06
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Sudokoo SK620V and SK700V Review: Silent, Stylish AM5 cooling, with a built-in display ⭐
+### 1. LILYGO T-Watch Ultra An IP65-rated ESP32-S3 smartwatch with 2.01-inch AMOLED, LoRa, and GNSS ⭐
 
-We reviewed Sudokoo's SK620V and SK700V air coolers, which deliver high performance quietly and feature a built-in display.
+The LILYGO T-Watch Ultra is an ESP32-S3-based smartwatch with a 2.01-inch AMOLED display, IP65 rating, and features like LoRa, GNSS, and edge AI sensing capabilities. It has a high-capacity 1,100mAh battery and a range of I/O interfaces for development. The watch targets various applications, including GPS tracking and custom smartwatch firmware development.
 
-💡 *Silent AM5 cooling solutions for high-performance Ryzen processors exist.*
+💡 *IoT development becomes more accessible with a powerful, water-resistant smartwatch platform.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/sudokoo-sk620v-and-sk700v-review)
-
----
-
-### 2. New HUDIMM memory specification debuts with goal of slashing DDR5 prices during RAM shortages A new, cheaper memory standard with half the bandwidth and half the capacity 
-
-ASRock's HUDIMM memory standard slashes DDR5 prices by reducing bandwidth & capacity.
-
-💡 *Cost-efficient memory for widespread adoption during RAM shortages.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/new-hudimm-memory-specification-debuts-with-goal-of-lowering-prices-during-ram-shortages-a-new-cheaper-memory-standard-featuring-only-one-subchannel-per-stick-aimed-at-budget-pcs)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/20/lilygo-t-watch-ultra-an-ip65-rated-esp32-s3-smartwatch-with-2-01-inch-amoled-lora-and-gnss/)
 
 ---
 
-### 3. Leakers claim PlayStation 6 could offer at least 3x the performance of the PS5 
+### 2. UGV Beast An off-road tracked AI robot built for Raspberry Pi 4/5 
 
-Leaked documents suggest the PlayStation 6 will have at least 3x the performance of the PS5. This improvement could lead to enhanced gaming experiences, including better graphics and smoother gameplay. Analysts expect significant advancements in ray tracing performance as well.
+The Waveshare UGV Beast is an off-road robot designed for Raspberry Pi 4/5 using tracked wheels for improved terrain navigation with AI vision and strategy planning through the ESP32 sub-controller.
 
-💡 *PlayStation 6's performance boost could revolutionize gaming experiences*
+💡 *Advances autonomous navigation in rugged terrain with AI-driven precision.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112112-leakers-claim-playstation-6-could-offer-least-3x.html)
-
----
-
-### 4. Original Task Manager creator explains why it lies to you about CPU usage former Microsoft engineer shows unique solution to a seemingly simple, but actually complicated, task 
-
-Microsoft engineer Dave Plummer reveals the inner workings of Task Manager, explaining how it calculates CPU usage and why it may not always reflect the true picture. This affects how users manage their computer resources, leading to potential performance issues.
-
-💡 *Task Manager lies about CPU usage due to inaccurate sampling methods.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/original-task-manager-creator-explains-why-it-lies-to-you-about-cpu-usage-former-microsoft-engineer-shows-unique-solution-to-a-seemingly-simple-but-actually-complicated-task)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/21/ugv-beast-an-off-road-tracked-ai-robot-built-for-raspberry-pi-4-5/)
 
 ---
 
-### 5. Voyager 1 gets emergency instrument shutdown to solve escalating power crisis and give it about a year of breathing room interstellar spacecraft's nuclear power source is dying, leading to intensifying countermeasures 
+### 3. Ezurio Tungsten 510/700 SMARC SoM features MediaTek Genio 510/700 AIoT SoC, dual GbE, WiFi 6 
 
-Voyager 1's power crisis led to an emergency instrument shutdown. Scientists are working on a fix to swap onboard devices for low-power alternatives. This will give the spacecraft a year of breathing room.
+Ezurio Tungsten 510/700 is a SMARC module powered by MediaTek Genio 510/700 AIoT SoCs, offering high-performance computing and AI capabilities.
 
-💡 *Voyager's nuclear power source is dying, threatening its prolonged existence.*
+💡 *MediaTek Genio 510/700 AIoT SoC enables efficient edge computing and IoT applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/voyager-1-gets-emergency-instrument-shutdown-to-solve-escalating-power-crisis-and-give-it-about-a-year-of-breathing-room-interstellar-spacecrafts-nuclear-power-source-is-dying-leading-to-intensifying-countermeasures)
-
----
-
-### 6. Gaming laptop brought to repair shop for overheating problem, decorative stickers found to be the problem tech fixes problem in under 10 seconds after removing the stickers covering its fans 
-
-A gaming laptop was brought in for overheating issues due to decorative stickers covering its vents, which were quickly identified and removed by a tech to fix the problem in under 10 seconds.
-
-💡 *Decorative stickers can cause laptop overheating and system failure.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/gaming-laptop-brought-to-repair-shop-for-overheating-problem-decorative-stickers-found-to-be-the-problem-tech-fixes-problem-in-under-10-seconds-after-removing-the-stickers-covering-its-fans)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/21/ezurio-tungsten-510-700-smarc-som-features-mediatek-genio-510-700-aiot-soc-dual-gbe-wifi-6/)
 
 ---
 
-### 7. New flat M.2 SSD adapter doesn't stick out from the motherboard, unlocking PCIe slots hidden under massive GPUs JEYI's new 'ArcherX' AIC lays completely flush and supports PCIe 4.0 speeds 
+### 4. Tim Cook to step down as Apple CEO, hardware chief John Ternus takes the helm 
 
-JEYI's flat PCIe to M.2 adapter allows for flush installation with motherboards, unlocking access to hidden PCIe slots. This feature is especially useful in systems with massive GPUs that block traditional M.2 slots. The adapter supports PCIe 4.0 speeds and is backwards compatible with PCIe 3.0.
+Tim Cook is stepping down as Apple CEO on September 1, with John Ternus taking over.
 
-💡 *Unlocks access to hidden PCIe slots under massive GPUs*
+💡 *Apple's leadership transition may signal a shift in product priorities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-ssds/new-flat-m-2-ssd-adapter-doesnt-stick-out-from-the-motherboard-unlocking-pcie-slots-hidden-under-massive-gpus-jeyis-new-archerx-aic-lays-completely-flush-and-supports-pcie-4-0-speeds)
-
----
-
-### 8. Xbox Series X|S storage expansion cards can be used on PC with an inexpensive CFexpress adapter Speeds top out at 1,560 MB/s in Redditor's testing 
-
-Xbox Series X|S storage expansion cards can be used on PC with a CFexpress adapter, which requires formatting before use. Inexpensive adapters, such as PCIe to CFexpress or M.2 to CFexpress, are available. However, speeds may not be as fast as expected.
-
-💡 *Unlock PC compatibility with affordable CFexpress adapter solutions*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-ssds/xbox-series-x-s-storage-expansion-cards-can-be-used-on-pc-with-an-inexpensive-cfexpress-adapter-speeds-top-out-at-1-560-mb-s-in-redditors-testing)
+🔗 [Read Full Article](https://www.techspot.com/news/112129-tim-cook-step-down-apple-ceo-hardware-chief.html)
 
 ---
 
-### 9. $20,000 in 32GB RAM sticks saved from the dumpster are now worth a fortune seventy-two DDR4-2666 ECC RDIMMs were about to turn into e-waste 
+### 5. Enthusiasts build an interactive online Listening Museum of iconic mechanical keyboard audio samples 36 mechanical masterpieces available for you to audibly try out 
 
-72 DDR4-2666 ECC RDIMMs, worth $20,000, were saved from e-waste by the Redditor's dad. The memory sticks were destined for the trash heap after a company upgrade. The father's actions proved financially beneficial.
+The Listening Museum features 36 multisampled iconic and modern classic keyboards, allowing users to interactively explore and compare their distinct audio samples.
 
-💡 *Proper resource management can yield significant financial returns unexpectedly.*
+💡 *Preserving keyboard sound heritage through immersive multisampling technology.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/usd20-000-in-32gb-ram-sticks-saved-from-the-dumpster-are-now-worth-a-fortune-72-ddr4-2666-ecc-rdimms-were-about-to-turn-into-e-waste)
-
----
-
-### 10. Idle CPU power management: cpuidle 
-
-The idle CPU power management mechanism, cpuidle, has evolved to choose the most power-efficient idle state among various hardware options, considering the cost of entering and returning from an idle state. This is crucial for reducing power consumption in embedded systems. The idle loop's role has shifted from a simple infinite loop to a sophisticated power management tool.
-
-💡 *Efficient power management requires strategic idle state selection.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/20/idle-cpu-power-management-cpuidle/)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/mechanical-keyboards/enthusiasts-build-an-interactive-online-listening-museum-of-iconic-keyboard-audio-samples-36-mechanical-masterpieces-available-for-you-to-audibly-try-out)
 
 ---
 
-### 11. Loona Deskmate An iPhone-powered AI desktop companion that doubles as a 165W GaN charging station (Crowdfunding) 
+### 6. Testing PC games using FEX on a high-end Android tablet can yield playable results but the early tech is still not ready for prime time 
 
-Loona Deskmate is an AI desktop companion that utilizes a docked iPhone for computing, featuring hands-free interaction and a 165W GaN charging station.
+FEX translation layer brings PC games to ARM64 devices like Android tablets, yielding playable results, but early technology is still in development.
 
-💡 *Revolutionizing workspace efficiency with smartphone-integrated AI and high-speed charging.*
+💡 *Early adoption of FEX faces technical hurdles and performance limitations.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/20/loona-deskmate-an-iphone-powered-ai-desk-companion-that-doubles-as-a-165w-gan-charging-station/)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/testing-pc-games-using-fex-on-a-high-end-android-tablet-can-yield-playable-results-but-the-early-tech-is-still-not-ready-for-prime-time)
 
 ---
 
-### 12. Typing with your brain might soon be as simple as wearing a beanie 
+### 7. Latest Intel Core Ultra 7 270K bundle includes a 2TB SSD and 64GB of RAM for just $1,499 includes Z890 motherboard, case, and AIO cooler, just add a GPU and PSU for a complete PC build 
 
-Sabi is developing a noninvasive beanie-like device translating brain speech into text.
+The Newegg Intel combo bundle offers a powerful PC build at $1,499, including a 270K processor, 64GB RAM, 2TB SSD, Z890 motherboard, case, and AIO cooler.
 
-💡 *Noninvasive brain-computer interface technology could revolutionize communication accessibility.*
+💡 *Affordable high-end PC build option for gamers and content creators.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112116-scientists-chasing-thought-powered-typing-one-startup-betting.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/latest-intel-core-ultra-7-270k-bundle-includes-a-2tb-ssd-and-64gb-of-ram-for-just-usd1-499-includes-z890-motherboard-case-and-aio-cooler-just-add-a-gpu-and-psu-for-a-complete-pc-build)
+
+---
+
+### 8. Apex Gaming PCs recalls nearly 18,000 power supplies over missing safety labels the fix is a warning sticker sent by mail, units are entirely safe 
+
+Apex Gaming PCs recalls 17,730 power supplies due to missing safety labels. The units are entirely safe, but users are advised to apply a warning sticker. The recall was issued by the U.S. Consumer Product Safety Commission on April 16.
+
+💡 *Safety oversight can lead to costly product recalls and consumer warnings.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/apex-gaming-pcs-recalls-nearly-18000-power-supplies-over-missing-safety-labels)
+
+---
+
+### 9. Relive the PC magazine cover disk era with 758-strong archive.org CD-ROM collection 1.2TB treasure trove also includes Floppy Disks from as early as 1993 
+
+The Internet Archive has curated a 1.2TB collection of PC cover disks and floppy disks from 1993, featuring 758 CD-ROMs and offering a nostalgic look at the early days of computing.
+
+💡 *Preserving digital history for future generations of tech enthusiasts.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/relive-the-pc-magazine-cover-disk-era-with-758-strong-archive-org-cd-rom-collection-1-2tb-treasure-trove-also-includes-floppy-disks-from-as-early-as-1993)
+
+---
+
+### 10. Edge AI survey finds most pilots fail to reach full rollout 
+
+A survey by Fierce Sensors found Edge AI rollout failures due to AI model lifecycle challenges and hardware/connection concerns.
+
+💡 *Edge AI adoption hindered by AI model lifecycle complexity issues.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/edge-ai-survey-finds-most-project-rollouts-fail)
+
+---
+
+### 11. If Apple built a $299 "Neo" desktop PC, Windows would have a real problem 
+
+Apple's $599 MacBook Neo laptop has disrupted the PC market by entering the sub-$700 segment, surprising industry competitors and potentially threatening Windows PC sales.
+
+💡 *Apple's affordability entry shakes up traditional Windows PC market dominance.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112127-if-apple-built-299-neo-desktop-pc-windows.html)
+
+---
+
+### 12. The Internet Archive makes 758 classic PC Gamer demo discs available to the public 
+
+The Internet Archive has made 758 classic PC Gamer demo discs available online, providing a nostalgic trip for gamers. This collection includes snippets of new games that were not available for rent, allowing users to experience them without spending extra money. The archive is a treasure trove of PC gaming history.
+
+💡 *Preserving gaming history and nostalgic value for PC gamers worldwide.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112124-internet-archive-makes-758-classic-pc-gamer-demo.html)
+
+---
+
+### 13. 72 sticks of server RAM were headed for the trash. They're now worth $20,000 
+
+72 sticks of DDR4 RAM were destined for the trash but found new value. An employee saved them, and they eventually sold for $20,000. This highlights the potential for repurposing IT assets.
+
+💡 *Proper asset management can yield significant financial returns*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112121-company-discards-32gb-server-ram-sticks-worth-20000.html)
+
+---
+
+### 14. Apple CEO Tim Cook steps down, company names Ternus as incoming CEO 
+
+Apple CEO Tim Cook is stepping down on September 1. He will be replaced by John Ternus, the company's hardware engineering lead. Ternus will take the reins on September 1.
+
+💡 *Tech giant Apple's leadership transition impacts global innovation landscape*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/macos/apple-ceo-time-cook-steps-down-company-names-ternus-as-incoming-ceo)
 
 ---
 
