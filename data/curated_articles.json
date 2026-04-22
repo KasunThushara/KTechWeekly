@@ -1,326 +1,275 @@
 [
   {
-    "title": "Enthusiasts build an interactive online Listening Museum of iconic mechanical keyboard audio samples 36 mechanical masterpieces available for you to audibly try out",
-    "summary": "The Listening Museum presents a collection of 36 iconic to modern classic keyboards that have been multisampled and uploaded into an interactive site.",
-    "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/enthusiasts-build-an-interactive-online-listening-museum-of-iconic-keyboard-audio-samples-36-mechanical-masterpieces-available-for-you-to-audibly-try-out",
+    "title": "Enthusiast builds his own RAM in garden shed cleanroom fledgling array of memory cells groundwork for much larger future project",
+    "summary": "This is the first time ever RAM has been made at home boasts a garden shed-based semiconductor maker.",
+    "link": "https://www.tomshardware.com/pc-components/dram/dr-semiconductor-successfully-fabs-ram-in-garden-shed-cleanroom-array-of-memory-cells-with-12pf-capacitance-groundwork-for-much-larger-future-array",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-22T10:05:22.344418"
+  },
+  {
+    "title": "Framework s overhauled Laptop 13 Pro brings a redesigned chassis Intel Core Ultra Series 3 system aims to be a 'MacBook Pro for Linux users'",
+    "summary": "The Framework Laptop 13 Pro is the company's first redesign of its chassis, with CNC aluminum, a haptic touchpad, larger battery, and an option for pre-loaded Ubuntu.",
+    "link": "https://www.tomshardware.com/laptops/frameworks-overhauled-laptop-13-pro-brings-a-redesigned-chassis-intel-core-ultra-series-3-system-aims-to-be-a-macbook-pro-for-linux-users",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.162794"
+    "processed_date": "2026-04-22T10:05:22.344526"
   },
   {
-    "title": "Apple CEO Tim Cook steps down, company names Ternus as incoming CEO",
-    "summary": "Apple CEO Tim Cook is stepping down on September 1. He will be replaced by hardware engineering lead John Ternus.",
-    "link": "https://www.tomshardware.com/software/macos/apple-ceo-time-cook-steps-down-company-names-ternus-as-incoming-ceo",
+    "title": "Intel teases wider range of overclockable CPUs for future platforms VP Robert Hallock says budget builders 'deserve the same level of features' as more well-heeled enthusiasts",
+    "summary": "In a new interview, Intel VP Robert Hallock unveiled a renewed focus on the entry-level enthusiast market with a commitment to release more budget-friendly unlocked CPUs over time.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-teases-wider-range-of-overclockable-cpus-for-future-platforms-vp-robert-hallock-says-budget-builders-deserve-the-same-level-of-features-as-more-well-heeled-enthusiasts",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-22T10:05:22.344619"
+  },
+  {
+    "title": "Microsoft announces surprise Xbox Game Pass price cuts, ends day one Call of Duty inclusion Ultimate down to $22.99 while PC Game Pass drops to $13.99",
+    "summary": "Microsoft surprise-drops significant Xbox Game Pass price cuts",
+    "link": "https://www.tomshardware.com/video-games/xbox/microsoft-announces-surprise-xbox-game-pass-price-cuts-ends-day-one-call-of-duty-inclusion-ultimate-down-to-usd22-99-while-pc-game-pass-drops-to-usd13-99",
     "categories": [
       "Hardware"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-04-21T10:05:17.162903"
+    "quality_score": 5,
+    "processed_date": "2026-04-22T10:05:22.344699"
   },
   {
-    "title": "New cost-effective DDR5 memory 'HUDIMMs' show around 50% reduction in throughput with single subchannel Two HUDIMMs are as fast as a single stick of regular DDR5 RAM",
-    "summary": "HUDIMM is being proposed as a cheaper memory spec using only 1x 32-bit subchannel per stick instead of 2x 32-bit in order to populate less ICs. Turns out, halving the bandwidth like that actually slashes the performance in half too, alongside the expected capacity reduction. Two HUDIMMs running in dual channel perform similar to a single regular DDR5 stick.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/new-cost-effective-ddr5-memory-hudimms-show-around-50-percent-reduction-in-throughput-with-single-subchannel-two-hudimms-are-as-fast-as-a-single-stick-of-regular-ddr5-ram",
+    "title": "Showstopper Build: Greyscale building a custom-looped ITX PC that pushes the form factor to its limits",
+    "summary": "Building an ITX PC can be challenging in and of itself, so naturally, we decided to amp up the difficulty factor and see if we could build something uncoolable.",
+    "link": "https://www.tomshardware.com/pc-components/cooling/showstopper-build-greyscale-custom-looped-itx-pc-pushes-the-form-factor-to-its-limits",
     "categories": [
-      "Tech News"
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-22T10:05:22.344791"
+  },
+  {
+    "title": "AMD Ryzen 9 9950X3D2 review: More cache, more cash",
+    "summary": "The Ryzen 9 9950X3D2 is one of the most unique CPUs we ve ever reviewed, and although its price feels like a kick in the gut, it offers some interesting, highly specialized improvements in certain workloads based on our testing.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x3d2-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-21T10:05:17.163025"
+    "processed_date": "2026-04-22T10:05:22.344874"
   },
   {
-    "title": "New Jersey datacenter expansion got $77m in tax breaks to create exactly one permanent job JPMorgan's site already scored $35m and currently employs just 25 workers",
-    "summary": "A New Jersey data center expansion saw a tax break of $77,000,000, despite the fact that it would create exactly one new permanent job in the state.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-jersey-datacenter-expansion-got-usd77m-in-tax-breaks-to-create-exactly-one-permanent-job-jpmorgans-site-already-scored-usd35m-and-currently-employs-just-25-workers",
+    "title": "TP-Link seeks to secure conditional approval from FCC following router import ban company stresses it is no longer Chinese-owned",
+    "summary": "TP-Link, one of the most popular consumer router brands in the U.S., met with FCC officials to discuss how it can secure a conditional approval to continue introducing and selling new routers.",
+    "link": "https://www.tomshardware.com/networking/routers/tp-link-seeks-to-secure-conditional-approval-from-fcc-following-router-import-ban-company-stresses-it-is-no-longer-chinese-owned",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.163132"
+    "processed_date": "2026-04-22T10:05:22.344954"
   },
   {
-    "title": "Testing PC games using FEX on a high-end Android tablet can yield playable results but the early tech is still not ready for prime time",
-    "summary": "We take a brief look at FEX, the translation layer that allows PC games to run on ARM64 devices, such as Android Tablets. While the results are promising, it still has a long way to go.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/testing-pc-games-using-fex-on-a-high-end-android-tablet-can-yield-playable-results-but-the-early-tech-is-still-not-ready-for-prime-time",
+    "title": "Scientists solve decades-old 2D physics puzzle Chaotic growth in a 2D quantum system obeys statistical laws",
+    "summary": "Physicists have confirmed for the first time that chaotic growth in a 2D quantum system follows precise statistical rules, validating a 40-year-old mathematical model that describes how random, uneven surfaces evolve over time.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/scientists-solve-decades-old-2d-physics-puzzle-chaotic-growth-in-a-2d-quantum-system-obeys-statistical-laws",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-22T10:05:22.345063"
+  },
+  {
+    "title": "Apple s Pippin console launched 30 years ago today shunned by the public as too expensive and too slow, only 42,000 units were sold",
+    "summary": "Apple s Pippin was plucked from the tree 30 years ago today but would soon go past its sell-by date.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/apples-pippin-console-launched-30-years-ago-today-shunned-by-the-public-as-too-expensive-and-too-slow-only-42-000-units-were-sold",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-22T10:05:22.345136"
+  },
+  {
+    "title": "Polymega Remix can digitize retro games for Windows 11 PCs and handhelds, USB peripheral accepts games CDs, cartridges $199 units finally ship next month following years of production delays",
+    "summary": "Playmaji has opened pre-orders for its $199 USB peripheral that lets owners digitize and play physical retro games on Windows 11 PCs, laptops, and PC gaming handhelds",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/polymega-remix-to-ship-next-month-following-years-of-production-delays",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-22T10:05:22.345221"
+  },
+  {
+    "title": "Anthropic nuked a company's access to Claude, stopping 60 employees dead in their tracks support via Google Form is the only recourse for vague usage policy violation",
+    "summary": "Anthropic nukes a company's access to Claude, stopping 60 employees dead in their tracks on the back of a \"usage policy violation.\"",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-nuked-a-companys-access-to-claude-stopping-60-employees-dead-in-their-tracks-support-via-google-form-is-the-only-recourse-for-vague-usage-policy-violation",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-22T10:05:22.345304"
+  },
+  {
+    "title": "Biohacker claims to have sequenced their own genome at the kitchen table with M3 Ultra Mac Studio, Claude, and a $3,200 sequencer DIY project requires 100GB of data storage per run, oodles of RAM",
+    "summary": "A tinkerer has sequenced their own genome at home, hoping to uncover secrets behind a family history of autoimmune disease.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/biohacker-claims-to-have-sequenced-their-own-genome-at-the-kitchen-table-with-m3-ultra-mac-studio-claude-and-a-usd3-200-sequencer-diy-project-requires-100gb-of-data-storage-per-run-oodles-of-ram",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-22T10:05:22.345384"
+  },
+  {
+    "title": "Raspberry Pi RP2350 board offers NB-IoT cellular connectivity, GNSS, and Wi-Fi indoor location",
+    "summary": "Challenger+ RP2350 NB-IoT is a Feather-compatible board pairing a Raspberry Pi RP2350 microcontroller and a certified NB-IoT cellular module with built-in GNSS, suitable for long-range, low-power connectivity. It looks to be a variant of the earlier Challenger+ RP2350 WiFi6/BLE5 board that replaces an ESP32-C6 WiFi 6, BLE, and 802.15.4 module with an STMicroelectronics ST87M01 NB-IoT and GNSS module. It still offers Challenger+ RP2350 NB-IoT specifications: Microcontroller Raspberry Pi RP2350A MCU CPU Dual-core Arm Cortex-M33 processor @ 150MHz Dual-core 32-bit RISC-V processor @ 150MHz Up to two cores can be used at a given time Memory 520KB internal RAM 8KB OTP Storage Package QFN-60; 7 7 mm Memory 8MB PSRAM Storage 8MB SPI flash Cellular connectivity Module STMicro ST87M01-1301 LTE Cat NB2 (NB-IoT), 3GPP Release 15 Worldwide regional bands coverage B1, B3, B5, B8, B20, and B28 Single-tone / Multi-tone / Extended TBS and 2 [...] The post Raspberry Pi RP2350 board offers NB-IoT cellular connectivity, GNSS, and Wi-Fi indoor location appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/22/raspberry-pi-rp2350-board-offers-nb-iot-cellular-connectivity-gnss-and-wi-fi-indoor-location/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.163252"
+    "quality_score": 10,
+    "processed_date": "2026-04-22T10:05:22.345841"
   },
   {
-    "title": "Chinese chipmakers made record profit in 2025, despite slipping margins U.S shipments fall 34% as Beijing shores up local chipmaking efforts",
-    "summary": "Applied Materials, Lam Research, and KLA booked a combined $19 billion in China revenue across their fiscal 2025 reporting periods.",
-    "link": "https://www.tomshardware.com/tech-industry/chinese-chip-tool-makers-posted-record-2025-revenues-while-margins-slipped",
+    "title": "LeafKVM open-source hardware IP KVM offers WiFi 5, PoE, USB-C serial console, and 2.4-inch touchscreen display (Crowdfunding)",
+    "summary": "LeafKVM is a wireless and PoE open-source hardware IP KVM based on Rockchip RV1126B SoC with 512MB RAM and a microSD card slot for storage. Like other IP KVMs, it enables remote access to computers and servers, even at the BIOS level or when the machine is unresponsive, by emulating keyboard, mouse, and video through HDMI/VGA and USB ports. Other features include a 2.4-inch touchscreen display for configuration and guest video mirroring, a USB-C port for serial debug, a USB Type-A port for expansion (e.g., power control), and an ultra-low latency of less than 100ms. LeafKVM specifications: SoC Rockchip RV1126B CPU Quad-core Arm Cortex-A53 up to 1.6 GHz GPU 2D Graphics Engine VPU Video Decoder H.265/H.264 up to 3840 2160 @ 30fps Video Encoder H.265, H.264, JPEG up to 12Mbps @ 30fps JPEG Decoder AI accelerator Rockchip NPU engine up to 3 TOPS (INT8); likely not [...] The post LeafKVM open-source hardware IP KVM offers WiFi 5, PoE, USB-C serial console, and 2.4-inch touchscreen display (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/22/leafkvm-open-source-hardware-ip-kvm-offers-wifi-5-poe-usb-c-serial-console-and-2-4-inch-touchscreen-display/",
     "categories": [
+      "Hardware",
       "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-21T10:05:17.163357"
+    "processed_date": "2026-04-22T10:05:22.345978"
   },
   {
-    "title": "AI cloud company Vercel breached after employee grants AI tool unrestricted access to Google Workspace hacker seeking $2 million for stolen data",
-    "summary": "The breach exposed non-sensitive environment variables, and a threat actor operating under the ShinyHunters name has claimed responsibility.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/vercel-breached-after-employee-grants-ai-tool-unrestricted-access-to-google-workspace",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.163483"
-  },
-  {
-    "title": "Every SK hynix employee could receive $477,000 bonuses this year, almost $900,000 next year 35,000 workers reportedly set to benefit from share of $169 billion projected operating profit",
-    "summary": "SK hynix agreed last September to remove its previous bonus cap and allocate 10% of annual operating profit directly to employees as performance-based payouts.",
-    "link": "https://www.tomshardware.com/tech-industry/sk-hynix-employees-could-receive-447000-bonuses-this-year",
+    "title": "Q&A: Intel's Robert Watts on spatial digital twins",
+    "summary": "Intel's Robert Watts believes spatial digital twins may become the critical layer that connects sensors, systems and decisions to unlock the next wave off innovation.",
+    "link": "https://www.fiercesensors.com/sensors/qa-intels-robert-watts-spatial-digital-twins",
     "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-21T10:05:17.163592"
+    "processed_date": "2026-04-22T10:05:22.346815"
   },
   {
-    "title": "Linux 7.1 update includes new in-kernel NTFS driver delivers storage support upgrade for Linux users",
-    "summary": "Linux 7.1 is bringing what might be the biggest under-the-radar storage change in years: a new in-kernel NTFS driver.",
-    "link": "https://www.tomshardware.com/software/linux/linux-7-1-update-includes-new-in-kernel-ntfs-driver-delivers-storage-support-upgrade-for-linux-users",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.163687"
-  },
-  {
-    "title": "Latest Intel Core Ultra 7 270K bundle includes a 2TB SSD and 64GB of RAM for just $1,499 includes Z890 motherboard, case, and AIO cooler, just add a GPU and PSU for a complete PC build",
-    "summary": "This Newegg Intel combo bundle pairs an Intel 270K Plus, Z890 mobo, 64GB of DDR5 RAM, 2TB SSD, PC Case, and AIO cooler altogether for $1499.99.",
-    "link": "https://www.tomshardware.com/pc-components/latest-intel-core-ultra-7-270k-bundle-includes-a-2tb-ssd-and-64gb-of-ram-for-just-usd1-499-includes-z890-motherboard-case-and-aio-cooler-just-add-a-gpu-and-psu-for-a-complete-pc-build",
+    "title": "Microsoft lowers Game Pass Ultimate and PC prices, won't include next Call of Duty",
+    "summary": "The Game Pass front page on Microsoft's website now shows revised pricing for the service's two most expensive plans. Although delaying the addition of new Call of Duty titles marks a reversal of the company's earlier strategy, the expanded library introduced during last year's major price increase remains intact. Read Entire Article",
+    "link": "https://www.techspot.com/news/112140-microsoft-lowers-game-pass-ultimate-pc-prices-wont.html",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.163797"
+    "processed_date": "2026-04-22T10:05:22.347158"
   },
   {
-    "title": "US gov't blocks China's largest LED chipmaker's $239 million bid to acquire Dutch lighting firm Lumileds US blocks acquisition attempt of European firm",
-    "summary": "Sanan Optoelectronics, China's largest LED chipmaker, has abandoned its $239 million bid to acquire Dutch lighting firm Lumileds after CFIUS blocked it.",
-    "link": "https://www.tomshardware.com/tech-industry/us-blocks-chinese-acquisition-of-dutch-led-firm-lumileds-for-the-second-time",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.163901"
-  },
-  {
-    "title": "Apex Gaming PCs recalls nearly 18,000 power supplies over missing safety labels the fix is a warning sticker sent by mail, units are entirely safe",
-    "summary": "The U.S. Consumer Product Safety Commission issued a recall on April 16 for approximately 17,730 Manik and Apex-branded ATX power supplies.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/apex-gaming-pcs-recalls-nearly-18000-power-supplies-over-missing-safety-labels",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.164017"
-  },
-  {
-    "title": "Relive the PC magazine cover disk era with 758-strong archive.org CD-ROM collection 1.2TB treasure trove also includes Floppy Disks from as early as 1993",
-    "summary": "If you miss the old cover-mounted demo disks of yore, take a look at the Internet Archive's extensive collections.",
-    "link": "https://www.tomshardware.com/software/relive-the-pc-magazine-cover-disk-era-with-758-strong-archive-org-cd-rom-collection-1-2tb-treasure-trove-also-includes-floppy-disks-from-as-early-as-1993",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.164117"
-  },
-  {
-    "title": "Tokyo court rules movie and anime 'spoiler articles' are copyright infringement in landmark criminal case detailed, monetized plot summaries land man in Japanese prison",
-    "summary": "The Tokyo District Court has ruled that \"spoiler articles\" that describe the plot of a movie/show in detail now count as copyright infringement. The prosecution argued that these articles are \"adaptations\" made without permission, and that they earn ad revenue, further taking away fair compensation for IP holders.",
-    "link": "https://www.tomshardware.com/tech-industry/tokyo-court-rules-movie-and-anime-spoiler-articles-are-copyright-infringement-in-landmark-criminal-case-detailed-monetized-plot-summaries-land-man-in-japanese-prison",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.164236"
-  },
-  {
-    "title": "UGV Beast An off-road tracked AI robot built for Raspberry Pi 4/5",
-    "summary": "Waveshare UGV Beast is an off-road robot with tracked wheels designed for Raspberry Pi 4 or 5 SBC handling AI vision and strategy planning, while an ESP32 sub-controller takes care of motion control and sensor data processing. If the design feels familiar, it s because it s a variant of the UGV Rover unmanned ground vehicle we covered in 2024, which replaces the six wheels of the original model with two continuous tracks, as found in military tanks, for better driving in difficult terrain. Waveshare UGV Beast specifications: Supported SBCs Raspberry Pi 4B or Raspberry Pi 5 Multi-function driver board/sub-controller Main SoC ESP32 wireless microcontroller with WiFi, Bluetooth, ESPNOW connectivity Motor drivers 2x TB6612FNG chips Peripheral interfaces 4x motor control connectors 2x servo connectors Lidar USB (4-pin) and UART (USB-C) connectors 2x 4-pin I2C connectors Sensor 9-axis attitude sensor (ICM20948) for image stabilization Misc EN and user [...] The post UGV Beast An off-road tracked AI robot built for Raspberry Pi 4/5 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/21/ugv-beast-an-off-road-tracked-ai-robot-built-for-raspberry-pi-4-5/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-21T10:05:17.164771"
-  },
-  {
-    "title": "Ezurio Tungsten 510/700 SMARC SoM features MediaTek Genio 510/700 AIoT SoC, dual GbE, WiFi 6",
-    "summary": "Ezurio Tungsten 510 and Tungsten 700 SMARC 2.1 compliant system-on-module powered by MediaTek Genio 510 hexa-core and Genio 700 octa-core Cortex-A78/A55 AIoT SoCs with an up to 4 TOPS NPU. The SMARC modules feature 4GB or 8GB LPDDR4 memory and 16GB flash by default (upgradeable up to 128GB), offer dual Gigabit Ethernet, WiFi 6 and Bluetooth 5.2 connectivity, and various interfaces exposed through a standard 314-pin MXM connector, including HDMI, DisplayPort, eDP, and MIPI DSI display interfaces, two MIPI CSI camera interfaces, two I2S audio interface, PCIe Gen2 x1, and more. Ezurio Tungsten 510/700 specifications: SoC (one or the other) MediaTek Genio 510 (MT8370) CPU Hexa-core processor with 2x Arm Cortex-A78 core up to 2.2 GHz, 4x Cortex-A55 cores up to 2 GHz GPU Arm Mali-G57 MC2 GPU VPU 4Kp60 H.265, AV1, VP9, H.264 video decoding, 4Kp30 H.265 and H.264 video encoding Accelerators Up to 3.2 [...] The post Ezurio Tungsten 510/700 SMARC SoM features MediaTek Genio 510/700 AIoT SoC, dual GbE, WiFi 6 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/21/ezurio-tungsten-510-700-smarc-som-features-mediatek-genio-510-700-aiot-soc-dual-gbe-wifi-6/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-21T10:05:17.164967"
-  },
-  {
-    "title": "LILYGO T-Watch Ultra An IP65-rated ESP32-S3 smartwatch with 2.01-inch AMOLED, LoRa, and GNSS",
-    "summary": "LILYGO s T-Watch Ultra is an ESP32-S3-based smartwatch development platform that appears to be an upgrade over the previous T-Watch-S3 Plus (1.3-inch display and a 940mAh battery), with a larger 2.01-inch AMOLED touch display, a higher-capacity 1,100mAh battery, and an IP65 waterproof and dustproof rating. The device integrates a u-blox MIA-M10Q GNSS module for positioning, a SX1262 LoRa transceiver for long-range communication, and a Bosch BHI260AP smart sensor for motion-based AI applications. Additionally, it features an RTC chip, NFC, a built-in microphone, a haptic driver, a microSD card slot, and a USB Type-C port for programming and charging. The watch targets applications such as Meshtastic nodes, GPS tracking, wearable IoT interfaces, edge AI sensing, and custom smartwatch firmware development. LILYGO T-Watch Ultra specifications: SoC Espressif ESP32-S3R8 CPU Dual-core Tensilica LX7 microcontroller up to 240 MHz with vector instructions for AI acceleration Memory 512KB SRAM, 8MB PSRAM Wireless WiFi [...] The post LILYGO T-Watch Ultra An IP65-rated ESP32-S3 smartwatch with 2.01-inch AMOLED, LoRa, and GNSS appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/20/lilygo-t-watch-ultra-an-ip65-rated-esp32-s3-smartwatch-with-2-01-inch-amoled-lora-and-gnss/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-21T10:05:17.165147"
-  },
-  {
-    "title": "Edge AI survey finds most pilots fail to reach full rollout",
-    "summary": "An online survey by Fierce Sensors found AI model lifecycle challenges were a big reason for Edge AI rollout failures. The survey assessed hardware and connections concerns as well.",
-    "link": "https://www.fiercesensors.com/ai/edge-ai-survey-finds-most-project-rollouts-fail",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.166110"
-  },
-  {
-    "title": "TDK Invensense rides again! Plus, Sensors Converge Q&As",
-    "summary": "Fierce conducted Q&As with featured speakers at the event and here s when they occur.",
-    "link": "https://www.fiercesensors.com/ai/tdk-invensense-rides-again-plus-sensors-converge-qas",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-21T10:05:17.166249"
-  },
-  {
-    "title": "Q&A: Prasanthi Yerra on CMOS image sensors for surgical views",
-    "summary": "A Sensors Converge presentation by Prasanthi Yerra at Analog Devices focuses on CMOS image sensors at the tips of endoscopes and surgical tools, discussing the challenge of electrical isolation and increasing image performance.",
-    "link": "https://www.fiercesensors.com/sensors/qa-prasanthi-yerra-cmos-image-sensors-surgical-views",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-21T10:05:17.166429"
-  },
-  {
-    "title": "What s going on with Edge AI? And why a Fierce Sensors survey?",
-    "summary": "A short online Fierce survey asks engineers to describe their work with Edge AI pilots in hopes of revealing insights on why some never make it to production.",
-    "link": "https://www.fiercesensors.com/sensors/whats-going-edge-ai-and-why-fierce-sensors-survey",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.166652"
-  },
-  {
-    "title": "Tim Cook to step down as Apple CEO, hardware chief John Ternus takes the helm",
-    "summary": "Tim Cook has announced that he will be stepping down as Apple CEO on September 1. Senior vice president of hardware engineering John Ternus, long seen as the company's leading succession candidate, will take over following a summer transition period. Read Entire Article",
-    "link": "https://www.techspot.com/news/112129-tim-cook-step-down-apple-ceo-hardware-chief.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-21T10:05:17.166865"
-  },
-  {
-    "title": "Chipmakers on track to meet only 60% of AI memory demand by 2027",
-    "summary": "A recent report from Nikkei Asia yet again highlights how tight the market has become. It centers on the ongoing memory shortage, which is expected to persist until chipmakers have both the capacity and the facilities to meet demand for AI-focused components from hyperscale customers. Read Entire Article",
-    "link": "https://www.techspot.com/news/112125-chipmakers-track-meet-only-60-ai-memory-demand.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.166978"
-  },
-  {
-    "title": "If Apple built a $299 \"Neo\" desktop PC, Windows would have a real problem",
-    "summary": "The MacBook Neo has done something Apple almost never does: it surprised the industry. When Asus co-CEO described Apple's $599 laptop as a genuine \"shock\" to the Windows PC market, he wasn't being dramatic. PC makers had spent years safely assuming Apple would never touch the sub-$700 segment. That assumption... Read Entire Article",
-    "link": "https://www.techspot.com/news/112127-if-apple-built-299-neo-desktop-pc-windows.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.167089"
-  },
-  {
-    "title": "The Internet Archive makes 758 classic PC Gamer demo discs available to the public",
-    "summary": "Getting to try snippets of new games without having to spend extra money at your local rental store was awesome, and it was doubly cool for PC games, since rental outlets for such titles weren't a thing. Some of my earliest PC gaming memories involved demo discs, and now thanks... Read Entire Article",
-    "link": "https://www.techspot.com/news/112124-internet-archive-makes-758-classic-pc-gamer-demo.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.167203"
-  },
-  {
-    "title": "Asrock's new HUDIMM standard wants to make DDR5 affordable again, by cutting it in half",
-    "summary": "The company describes HUDIMM as a patent-pending solution aimed at giving system integrators more flexibility and a lower cost of entry. Standard DDR5 modules use a two sub-channel architecture, with a 2 32-bit configuration optimized for both capacity and throughput. Read Entire Article",
-    "link": "https://www.techspot.com/news/112122-asrock-new-hudimm-standard-wants-make-ddr5-affordable.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-21T10:05:17.167310"
-  },
-  {
-    "title": "Google Pixel 10 drops to $549, its lowest price yet",
-    "summary": "The 128GB Pixel 10 is down to $549, its lowest recorded price so far. It offers Google's latest Tensor chip, a 120Hz OLED display, and long-term software support, making it a competitive option in the mainstream segment. Read Entire Article",
-    "link": "https://www.techspot.com/products/smartphones/google-pixel-10.311109/",
+    "title": "ZenTimings provides a detailed view of RAM timings on Ryzen systems",
+    "summary": "ZenTimings is a Windows utility designed for AMD Ryzen platforms that displays real-time memory configuration data and timings, frequency, and Infinity Fabric clocks. It's primarily used to verify BIOS or XMP/EXPO settings, offering a straightforward way to check how system memory is running. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7713-zentimings.html",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.167442"
+    "processed_date": "2026-04-22T10:05:22.347288"
   },
   {
-    "title": "72 sticks of server RAM were headed for the trash. They're now worth $20,000",
-    "summary": "The story began in 2024, when an unnamed company completed a server upgrade. The incoming systems came with higher-capacity memory already installed, rendering the existing modules redundant. 72 sticks of registered DDR4 RAM were set aside for disposal. Before they were scrapped, an employee took them. They eventually passed to... Read Entire Article",
-    "link": "https://www.techspot.com/news/112121-company-discards-32gb-server-ram-sticks-worth-20000.html",
+    "title": "Microsoft's full-screen Xbox experience is now available to Windows 11 Insiders",
+    "summary": "Microsoft recently announced a new Canary build within the Windows Insider Program. While not particularly groundbreaking in terms of features, Windows 11 Canary Build 29570.1000 does include a potentially interesting change for gaming scenarios. The new preview release finally brings Xbox mode to Windows Insider testers, allowing users to try... Read Entire Article",
+    "link": "https://www.techspot.com/news/112131-microsoft-full-screen-xbox-experience-now-available-windows.html",
     "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-22T10:05:22.347425"
+  },
+  {
+    "title": "Michael Burry of \"The Big Short\" fame warns of inflated tech stock valuations amid fears of an AI bubble",
+    "summary": "Best known for predicting the 2007 2008 subprime crisis that ultimately escalated into a full-blown financial crash, Burry argued in a recent Substack post that several Nasdaq-100 tech companies have repeatedly misreported stock-based compensation over the past decade, overstating earnings by around 20% and leading investors to buy stocks... Read Entire Article",
+    "link": "https://www.techspot.com/news/112136-michael-burry-big-short-fame-warns-inflated-tech.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-22T10:05:22.347563"
+  },
+  {
+    "title": "Missing safety label triggers recall of nearly 18,000 Apex Gaming PC power supplies",
+    "summary": "Approximately 17,730 PSUs made it out of the factory without the mandatory permanent, on-product warning label, the CPSC said. Recalled units include 450W, 750W, 1,000W, and 1,200W models in black or white colorways, and were sold as part of full gaming PC builds and also individually through Apex Gaming PCs... Read Entire Article",
+    "link": "https://www.techspot.com/news/112137-missing-safety-label-triggers-recall-nearly-18000-apex.html",
+    "categories": [
+      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.167565"
+    "processed_date": "2026-04-22T10:05:22.347693"
   },
   {
-    "title": "Researchers are using ultrasound to trigger smell directly in the brain for VR",
-    "summary": "Current systems emphasize sight and sound, with some progress in haptics. Smell remains largely absent, despite its unusually strong connection to memory and emotion. Read Entire Article",
-    "link": "https://www.techspot.com/news/112119-researchers-using-ultrasound-trigger-smell-directly-brain-vr.html",
+    "title": "AI boom drives SK Hynix to pay $477,000 bonus per employee",
+    "summary": "After removing its previous bonus cap last September, SK Hynix is set to pay out 10% of its annual operating profits to employees as performance-based bonuses this year. With memory prices at record highs, analysts predict the company will generate about 250 trillion won ($169 billion) in operating profit, putting... Read Entire Article",
+    "link": "https://www.techspot.com/news/112128-ai-boom-drives-sk-hynix-pay-477000-bonus.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-21T10:05:17.167675"
+    "processed_date": "2026-04-22T10:05:22.347835"
   },
   {
-    "title": "The first CD recorder was shockingly expensive guess how much",
-    "summary": "Before CDs went mainstream, recording one cost a small fortune. Made by Denon in 1991 Read Entire Article",
-    "link": "https://www.techspot.com/trivia/85-first-cd-recorder-shockingly-expensive-guess-how-much/",
+    "title": "FAA grounds Blue Origin's New Glenn after launch fails to deliver payload",
+    "summary": "The launch itself, which took place on April 19 from Cape Canaveral Space Force Station, didn't look like a disaster at least not at first. Read Entire Article",
+    "link": "https://www.techspot.com/news/112135-faa-grounds-blue-origin-new-glenn-after-launch.html",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-21T10:05:17.167768"
-  },
-  {
-    "title": "Flagship Rematch: Ryzen 7 5800X3D vs. Core i9-12900K",
-    "summary": "Four years on, we revisit the Ryzen 7 5800X3D vs Core i9-12900K with modern games and DDR4 vs DDR5 configs. The result: still neck and neck, but memory choice now makes a real difference. Read Entire Article",
-    "link": "https://www.techspot.com/review/3110-cpu-rematch-ryzen-5800x3d-vs-core-i9-12900k/",
-    "categories": [
+      "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-21T10:05:17.167863"
+    "processed_date": "2026-04-22T10:05:22.347949"
+  },
+  {
+    "title": "AMD Ryzen 9 9950X3D2 Review: Twice the 3D V-Cache",
+    "summary": "AMD finally delivers dual 3D V-Cache on Zen 5 with the 9950X3D2, but does twice the cache translate into real gains? We test performance, power, and value to see if this flagship makes sense. Read Entire Article",
+    "link": "https://www.techspot.com/review/3114-amd-ryzen-9-9950x3d2/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-22T10:05:22.348066"
+  },
+  {
+    "title": "NZXT customer to sue after AIO leak damages Asus RTX 5090, payout won't cover replacement costs (Updated)",
+    "summary": "Update: NZXT has reached out via email regarding the story. It says there are several important omissions from the customer's account of what happened. According to the company, these are: Read Entire Article",
+    "link": "https://www.techspot.com/news/112134-nzxt-customer-sue-after-aio-leak-damages-asus.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-22T10:05:22.348187"
+  },
+  {
+    "title": "Nvidia research promises 2x to 3x faster path tracing with better visuals",
+    "summary": "A new research paper from Nvidia describes how an in-development update to ReSTIR (Reservoir Spatiotemporal Importance Resampling) path tracing addresses several of its flaws. While the technology is not quite ready for implementation in commercial games, it could enhance path tracing performance by 100% to 200%. Read Entire Article",
+    "link": "https://www.techspot.com/news/112130-nvidia-research-promises-2x-3x-faster-path-tracing.html",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-04-22T10:05:22.348314"
+  },
+  {
+    "title": "TP-Link seeks FCC exemption from router ban, says it is a US company",
+    "summary": "A pair of FCC regulatory filings show that TP-Link met with officials on Thursday, during which the company's lawyers and consultants spoke with staff for FCC Commissioners Olivia Trusty and Anna Gomez. Read Entire Article",
+    "link": "https://www.techspot.com/news/112133-tp-link-seeks-fcc-exemption-router-ban-us.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-22T10:05:22.348429"
   }
 ]

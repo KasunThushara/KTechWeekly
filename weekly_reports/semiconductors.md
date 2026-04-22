@@ -1,95 +1,45 @@
 # ⚡ Semiconductors
-**Week of April 21, 2026**
+**Week of April 22, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-04-21 10:06
+- **Articles this week:** 3
+- **Report generated:** 2026-04-22 10:06
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. LILYGO T-Watch Ultra An IP65-rated ESP32-S3 smartwatch with 2.01-inch AMOLED, LoRa, and GNSS ⭐
+### 1. Raspberry Pi RP2350 board offers NB-IoT cellular connectivity, GNSS, and Wi-Fi indoor location 
 
-The LILYGO T-Watch Ultra is an ESP32-S3-based smartwatch with a 2.01-inch AMOLED display, IP65 rating, and features like LoRa, GNSS, and edge AI sensing capabilities. It has a high-capacity 1,100mAh battery and a range of I/O interfaces for development. The watch targets various applications, including GPS tracking and custom smartwatch firmware development.
+The Raspberry Pi RP2350 board features NB-IoT connectivity, GNSS, and Wi-Fi, offering a compact solution for long-range, low-power connectivity. It pairs a Raspberry Pi RP2350 microcontroller with an STMicroelectronics ST87M01 NB-IoT and GNSS module. This board is suitable for applications requiring cellular connectivity and positioning.
 
-💡 *IoT development becomes more accessible with a powerful, water-resistant smartwatch platform.*
+💡 *Enables low-power cellular connectivity with built-in GNSS capabilities.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/20/lilygo-t-watch-ultra-an-ip65-rated-esp32-s3-smartwatch-with-2-01-inch-amoled-lora-and-gnss/)
-
----
-
-### 2. Chinese chipmakers made record profit in 2025, despite slipping margins U.S shipments fall 34% as Beijing shores up local chipmaking efforts 
-
-Chinese chipmakers saw record profit despite slipping margins, driven by U.S. sales. Applied Materials, Lam Research, and KLA collectively booked $19 billion in China revenue across their fiscal 2025 reporting periods. Local chipmaking efforts are gaining momentum in Beijing.
-
-💡 *Beijing's chipmaking efforts gain momentum, impacting U.S. sales significantly*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinese-chip-tool-makers-posted-record-2025-revenues-while-margins-slipped)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/22/raspberry-pi-rp2350-board-offers-nb-iot-cellular-connectivity-gnss-and-wi-fi-indoor-location/)
 
 ---
 
-### 3. UGV Beast An off-road tracked AI robot built for Raspberry Pi 4/5 
+### 2. LeafKVM open-source hardware IP KVM offers WiFi 5, PoE, USB-C serial console, and 2.4-inch touchscreen display (Crowdfunding) 
 
-The Waveshare UGV Beast is an off-road robot designed for Raspberry Pi 4/5 using tracked wheels for improved terrain navigation with AI vision and strategy planning through the ESP32 sub-controller.
+LeafKVM is an open-source IP KVM with remote access capabilities, Wi-Fi 5, and PoE. It features a 2.4-inch touchscreen display, USB-C serial console, and supports up to 4K video decoding. The device has a quad-core CPU and AI accelerator for enhanced performance.
 
-💡 *Advances autonomous navigation in rugged terrain with AI-driven precision.*
+💡 *Enabling remote access and control for IT professionals and data centers securely.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/21/ugv-beast-an-off-road-tracked-ai-robot-built-for-raspberry-pi-4-5/)
-
----
-
-### 4. Ezurio Tungsten 510/700 SMARC SoM features MediaTek Genio 510/700 AIoT SoC, dual GbE, WiFi 6 
-
-Ezurio Tungsten 510/700 is a SMARC module powered by MediaTek Genio 510/700 AIoT SoCs, offering high-performance computing and AI capabilities.
-
-💡 *MediaTek Genio 510/700 AIoT SoC enables efficient edge computing and IoT applications.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/21/ezurio-tungsten-510-700-smarc-som-features-mediatek-genio-510-700-aiot-soc-dual-gbe-wifi-6/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/22/leafkvm-open-source-hardware-ip-kvm-offers-wifi-5-poe-usb-c-serial-console-and-2-4-inch-touchscreen-display/)
 
 ---
 
-### 5. Testing PC games using FEX on a high-end Android tablet can yield playable results but the early tech is still not ready for prime time 
+### 3. Enthusiast builds his own RAM in garden shed cleanroom fledgling array of memory cells groundwork for much larger future project 
 
-FEX translation layer brings PC games to ARM64 devices like Android tablets, yielding playable results, but early technology is still in development.
+A DIY enthusiast successfully built RAM in their garden shed cleanroom, marking a first in home-made semiconductor production. This achievement serves as a groundwork for larger, more complex future projects. The garden shed-based setup demonstrates the feasibility of low-budget, low-tech fabrication.
 
-💡 *Early adoption of FEX faces technical hurdles and performance limitations.*
+💡 *Democratization of semiconductor manufacturing can accelerate innovation and accessibility.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/testing-pc-games-using-fex-on-a-high-end-android-tablet-can-yield-playable-results-but-the-early-tech-is-still-not-ready-for-prime-time)
-
----
-
-### 6. AI cloud company Vercel breached after employee grants AI tool unrestricted access to Google Workspace hacker seeking $2 million for stolen data 
-
-Vercel, a cloud company, was breached after an employee granted access to a hacker. The breach exposed non-sensitive environment variables. A threat actor known as ShinyHunters has claimed responsibility.
-
-💡 *Employee actions exposing company data to unauthorized access is a significant risk.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/vercel-breached-after-employee-grants-ai-tool-unrestricted-access-to-google-workspace)
-
----
-
-### 7. US gov't blocks China's largest LED chipmaker's $239 million bid to acquire Dutch lighting firm Lumileds US blocks acquisition attempt of European firm 
-
-Sanan Optoelectronics, China's largest LED chipmaker, has abandoned its $239 million bid to acquire Dutch firm Lumileds after the US government blocked the deal through the Committee on Foreign Investment in the United States (CFIUS).
-
-💡 *US maintains control over foreign acquisitions of strategic US assets*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-blocks-chinese-acquisition-of-dutch-led-firm-lumileds-for-the-second-time)
-
----
-
-### 8. Chipmakers on track to meet only 60% of AI memory demand by 2027 
-
-Chipmakers face a tight market due to ongoing memory shortages. The shortage is expected to last until they meet demand for AI-focused components from hyperscale customers. This has significant implications for various industries.
-
-💡 *Memory shortage limits AI development and innovation potential worldwide*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112125-chipmakers-track-meet-only-60-ai-memory-demand.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/dr-semiconductor-successfully-fabs-ram-in-garden-shed-cleanroom-array-of-memory-cells-with-12pf-capacitance-groundwork-for-much-larger-future-array)
 
 ---
 

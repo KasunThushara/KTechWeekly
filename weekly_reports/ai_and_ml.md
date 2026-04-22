@@ -1,155 +1,135 @@
 # 🤖 AI & ML
-**Week of April 21, 2026**
+**Week of April 22, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-04-21 10:06
+- **Articles this week:** 12
+- **Report generated:** 2026-04-22 10:06
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Asrock's new HUDIMM standard wants to make DDR5 affordable again, by cutting it in half 
+### 1. Microsoft's full-screen Xbox experience is now available to Windows 11 Insiders ⭐
 
-Asrock's HUDIMM aims to make DDR5 more affordable by reducing its size.
+Microsoft has released Xbox mode in Windows 11 Canary Build 29570.1000, allowing users to try a full-screen Xbox experience on Windows 11. This feature is now available to Windows 11 Insiders through the Windows Insider Program. The full-screen experience aims to enhance gaming on Windows 11.
 
-💡 *Cost-effective DDR5 solution for system integrators and users.*
+💡 *Gamers can enjoy a seamless full-screen Xbox experience*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112122-asrock-new-hudimm-standard-wants-make-ddr5-affordable.html)
-
----
-
-### 2. Researchers are using ultrasound to trigger smell directly in the brain for VR 
-
-Researchers are using ultrasound to stimulate the brain's olfactory system directly, enabling the simulation of smells in virtual reality and potentially revolutionizing the field by incorporating a long-missing sensory dimension.
-
-💡 *Enhancing emotional realism in VR through multisensory stimulation*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112119-researchers-using-ultrasound-trigger-smell-directly-brain-vr.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112131-microsoft-full-screen-xbox-experience-now-available-windows.html)
 
 ---
 
-### 3. Enthusiasts build an interactive online Listening Museum of iconic mechanical keyboard audio samples 36 mechanical masterpieces available for you to audibly try out 
+### 2. AI boom drives SK Hynix to pay $477,000 bonus per employee 
 
-The Listening Museum features 36 multisampled iconic and modern classic keyboards, allowing users to interactively explore and compare their distinct audio samples.
+SK Hynix plans to pay 10% of its operating profits as bonuses to employees, with analysts predicting 250 trillion won ($169 billion) in operating profit, driven by record-high memory prices. This move comes after the company removed its previous bonus cap last September. The payment will be approximately $477,000 per employee.
 
-💡 *Preserving keyboard sound heritage through immersive multisampling technology.*
+💡 *Record-high memory prices fuel massive employee bonuses at SK Hynix.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/mechanical-keyboards/enthusiasts-build-an-interactive-online-listening-museum-of-iconic-keyboard-audio-samples-36-mechanical-masterpieces-available-for-you-to-audibly-try-out)
-
----
-
-### 4. AI cloud company Vercel breached after employee grants AI tool unrestricted access to Google Workspace hacker seeking $2 million for stolen data 
-
-Vercel, a cloud company, was breached after an employee granted access to a hacker. The breach exposed non-sensitive environment variables. A threat actor known as ShinyHunters has claimed responsibility.
-
-💡 *Employee actions exposing company data to unauthorized access is a significant risk.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/vercel-breached-after-employee-grants-ai-tool-unrestricted-access-to-google-workspace)
+🔗 [Read Full Article](https://www.techspot.com/news/112128-ai-boom-drives-sk-hynix-pay-477000-bonus.html)
 
 ---
 
-### 5. Latest Intel Core Ultra 7 270K bundle includes a 2TB SSD and 64GB of RAM for just $1,499 includes Z890 motherboard, case, and AIO cooler, just add a GPU and PSU for a complete PC build 
+### 3. Framework s overhauled Laptop 13 Pro brings a redesigned chassis Intel Core Ultra Series 3 system aims to be a 'MacBook Pro for Linux users' 
 
-The Newegg Intel combo bundle offers a powerful PC build at $1,499, including a 270K processor, 64GB RAM, 2TB SSD, Z890 motherboard, case, and AIO cooler.
+The Framework Laptop 13 Pro features a redesigned CNC aluminum chassis, haptic touchpad, and larger battery. It also offers an option for pre-loaded Ubuntu, catering to Linux users. This overhaul aims to bring a MacBook Pro-like experience to Linux enthusiasts.
 
-💡 *Affordable high-end PC build option for gamers and content creators.*
+💡 *Redesigned laptop for Linux users challenges macOS dominance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/latest-intel-core-ultra-7-270k-bundle-includes-a-2tb-ssd-and-64gb-of-ram-for-just-usd1-499-includes-z890-motherboard-case-and-aio-cooler-just-add-a-gpu-and-psu-for-a-complete-pc-build)
-
----
-
-### 6. Apex Gaming PCs recalls nearly 18,000 power supplies over missing safety labels the fix is a warning sticker sent by mail, units are entirely safe 
-
-Apex Gaming PCs recalls 17,730 power supplies due to missing safety labels. The units are entirely safe, but users are advised to apply a warning sticker. The recall was issued by the U.S. Consumer Product Safety Commission on April 16.
-
-💡 *Safety oversight can lead to costly product recalls and consumer warnings.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/apex-gaming-pcs-recalls-nearly-18000-power-supplies-over-missing-safety-labels)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/frameworks-overhauled-laptop-13-pro-brings-a-redesigned-chassis-intel-core-ultra-series-3-system-aims-to-be-a-macbook-pro-for-linux-users)
 
 ---
 
-### 7. Tokyo court rules movie and anime 'spoiler articles' are copyright infringement in landmark criminal case detailed, monetized plot summaries land man in Japanese prison 
+### 4. Scientists solve decades-old 2D physics puzzle Chaotic growth in a 2D quantum system obeys statistical laws 
 
-Tokyo's District Court has ruled 'spoiler articles' as copyright infringement, impacting IP holders.
+Physicists have confirmed that chaotic growth in 2D quantum systems follows statistical rules, validating a 40-year-old mathematical model.
 
-💡 *Detailed plot summaries can be seen as adaptations without permission.*
+💡 *Chaotic systems can exhibit predictable behavior under certain conditions.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/tokyo-court-rules-movie-and-anime-spoiler-articles-are-copyright-infringement-in-landmark-criminal-case-detailed-monetized-plot-summaries-land-man-in-japanese-prison)
-
----
-
-### 8. Edge AI survey finds most pilots fail to reach full rollout 
-
-A survey by Fierce Sensors found Edge AI rollout failures due to AI model lifecycle challenges and hardware/connection concerns.
-
-💡 *Edge AI adoption hindered by AI model lifecycle complexity issues.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/edge-ai-survey-finds-most-project-rollouts-fail)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/scientists-solve-decades-old-2d-physics-puzzle-chaotic-growth-in-a-2d-quantum-system-obeys-statistical-laws)
 
 ---
 
-### 9. What s going on with Edge AI? And why a Fierce Sensors survey? 
+### 5. Biohacker claims to have sequenced their own genome at the kitchen table with M3 Ultra Mac Studio, Claude, and a $3,200 sequencer DIY project requires 100GB of data storage per run, oodles of RAM 
 
-A Fierce survey explores Edge AI pilot success rates, aiming to identify common pitfalls that hinder production. The survey focuses on engineers' experiences to gather insights on what contributes to Edge AI projects' failure to reach production. The results may help organizations improve their AI development processes.
+A biohacker successfully sequenced their genome at home using a DIY setup, hoping to understand a family history of autoimmune disease.
 
-💡 *Edge AI pilot success hinges on timely data processing and validation.*
+💡 *At-home genome sequencing can empower individuals to take control of their health data.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/whats-going-edge-ai-and-why-fierce-sensors-survey)
-
----
-
-### 10. Chipmakers on track to meet only 60% of AI memory demand by 2027 
-
-Chipmakers face a tight market due to ongoing memory shortages. The shortage is expected to last until they meet demand for AI-focused components from hyperscale customers. This has significant implications for various industries.
-
-💡 *Memory shortage limits AI development and innovation potential worldwide*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112125-chipmakers-track-meet-only-60-ai-memory-demand.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/biohacker-claims-to-have-sequenced-their-own-genome-at-the-kitchen-table-with-m3-ultra-mac-studio-claude-and-a-usd3-200-sequencer-diy-project-requires-100gb-of-data-storage-per-run-oodles-of-ram)
 
 ---
 
-### 11. The Internet Archive makes 758 classic PC Gamer demo discs available to the public 
+### 6. Microsoft lowers Game Pass Ultimate and PC prices, won't include next Call of Duty 
 
-The Internet Archive has made 758 classic PC Gamer demo discs available online, providing a nostalgic trip for gamers. This collection includes snippets of new games that were not available for rent, allowing users to experience them without spending extra money. The archive is a treasure trove of PC gaming history.
+Microsoft lowers Game Pass Ultimate and PC prices, removes Call of Duty.
 
-💡 *Preserving gaming history and nostalgic value for PC gamers worldwide.*
+💡 *Gaming market shift forces Microsoft to adjust its service strategy.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112124-internet-archive-makes-758-classic-pc-gamer-demo.html)
-
----
-
-### 12. Google Pixel 10 drops to $549, its lowest price yet 
-
-The Google Pixel 10 has dropped to its lowest price of $549. This 128GB model features a Tensor chip, 120Hz OLED display, and long-term software support. It's a competitive option in the mainstream segment.
-
-💡 *Affordable flagship experience at a lower price point*
-
-🔗 [Read Full Article](https://www.techspot.com/products/smartphones/google-pixel-10.311109/)
+🔗 [Read Full Article](https://www.techspot.com/news/112140-microsoft-lowers-game-pass-ultimate-pc-prices-wont.html)
 
 ---
 
-### 13. TDK Invensense rides again! Plus, Sensors Converge Q&As 
+### 7. ZenTimings provides a detailed view of RAM timings on Ryzen systems 
 
-TDK InvenSense hosts Sensors Converge, a key industry event. Fierce conducted Q&As with featured speakers, capturing insights from the event. The Q&As highlight the latest trends and innovations in the industry.
+ZenTimings is a Windows utility that displays real-time Ryzen memory data and timings. It helps verify BIOS or XMP/EXPO settings and monitor system memory configuration. This utility offers a straightforward way to check memory performance.
 
-💡 *Accelerometers, gyroscopes, and microphones converge in future sensing technologies.*
+💡 *Optimize Ryzen system memory performance with precise real-time monitoring.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/tdk-invensense-rides-again-plus-sensors-converge-qas)
+🔗 [Read Full Article](https://www.techspot.com/downloads/7713-zentimings.html)
 
 ---
 
-### 14. The first CD recorder was shockingly expensive guess how much 
+### 8. Michael Burry of "The Big Short" fame warns of inflated tech stock valuations amid fears of an AI bubble 
 
-The first CD recorder, made by Denon in 1991, was extremely expensive. Recording a CD cost a small fortune before CDs went mainstream. This made CD technology inaccessible to many consumers.
+Michael Burry warns of inflated tech stock valuations due to misreported earnings, overstating profits by 20%.
 
-💡 *Early CD technology was unaffordable for the masses initially.*
+💡 *Misreported earnings can create unsustainable tech stock valuations.*
 
-🔗 [Read Full Article](https://www.techspot.com/trivia/85-first-cd-recorder-shockingly-expensive-guess-how-much/)
+🔗 [Read Full Article](https://www.techspot.com/news/112136-michael-burry-big-short-fame-warns-inflated-tech.html)
+
+---
+
+### 9. Missing safety label triggers recall of nearly 18,000 Apex Gaming PC power supplies 
+
+Apex Gaming PC's 17,730 power supplies lack safety warning labels, prompting a recall. The recalled units are 450W, 750W, 1,000W, and 1,200W models in black or white. They were sold as part of full gaming PC builds or individually.
+
+💡 *Safety labels are crucial for preventing electrical shock and injury risks.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112137-missing-safety-label-triggers-recall-nearly-18000-apex.html)
+
+---
+
+### 10. FAA grounds Blue Origin's New Glenn after launch fails to deliver payload 
+
+The FAA has grounded Blue Origin's New Glenn after a failed launch. The launch attempt occurred on April 19 from Cape Canaveral Space Force Station. The mission did not deliver its intended payload.
+
+💡 *Failed launch raises concerns about New Glenn's reliability and safety record*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112135-faa-grounds-blue-origin-new-glenn-after-launch.html)
+
+---
+
+### 11. NZXT customer to sue after AIO leak damages Asus RTX 5090, payout won't cover replacement costs (Updated) 
+
+NZXT customer sues after AIO leak damages Asus RTX 5090, payout insufficient. NZXT claims omissions in customer's account, contradicting claims.
+
+💡 *Customers demand accountability for product damage from faulty manufacturer designs*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112134-nzxt-customer-sue-after-aio-leak-damages-asus.html)
+
+---
+
+### 12. TP-Link seeks FCC exemption from router ban, says it is a US company 
+
+TP-Link seeks FCC exemption from a router ban, claiming US status.
+
+💡 *TP-Link's US status is key to avoiding FCC router regulations.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112133-tp-link-seeks-fcc-exemption-router-ban-us.html)
 
 ---
 
