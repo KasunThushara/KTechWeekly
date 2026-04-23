@@ -1,135 +1,223 @@
 # 🤖 AI & ML
-**Week of April 22, 2026**
+**Week of April 23, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-04-22 10:06
+- **Articles this week:** 21
+- **Report generated:** 2026-04-23 10:10
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Microsoft's full-screen Xbox experience is now available to Windows 11 Insiders ⭐
+### 1. SamuRoid A Raspberry Pi-powered 22-DOF humanoid robot with Multimodal LLMs and ROS support ⭐
 
-Microsoft has released Xbox mode in Windows 11 Canary Build 29570.1000, allowing users to try a full-screen Xbox experience on Windows 11. This feature is now available to Windows 11 Insiders through the Windows Insider Program. The full-screen experience aims to enhance gaming on Windows 11.
+SamuRoid is a 22-DOF humanoid robot powered by a Raspberry Pi 4, offering advanced multimodal interaction capabilities and ROS support for researchers, educators, and developers.
 
-💡 *Gamers can enjoy a seamless full-screen Xbox experience*
+💡 *AI-powered humanoid robots integrate vision, voice, and language models seamlessly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112131-microsoft-full-screen-xbox-experience-now-available-windows.html)
-
----
-
-### 2. AI boom drives SK Hynix to pay $477,000 bonus per employee 
-
-SK Hynix plans to pay 10% of its operating profits as bonuses to employees, with analysts predicting 250 trillion won ($169 billion) in operating profit, driven by record-high memory prices. This move comes after the company removed its previous bonus cap last September. The payment will be approximately $477,000 per employee.
-
-💡 *Record-high memory prices fuel massive employee bonuses at SK Hynix.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112128-ai-boom-drives-sk-hynix-pay-477000-bonus.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/22/samuroid-a-raspberry-pi-powered-22-dof-humanoid-robot-with-multimodal-llms-and-ros-support/)
 
 ---
 
-### 3. Framework s overhauled Laptop 13 Pro brings a redesigned chassis Intel Core Ultra Series 3 system aims to be a 'MacBook Pro for Linux users' 
+### 2. Kioxia says its new QLC SSDs can match TLC performance at lower cost ⭐
 
-The Framework Laptop 13 Pro features a redesigned CNC aluminum chassis, haptic touchpad, and larger battery. It also offers an option for pre-loaded Ubuntu, catering to Linux users. This overhaul aims to bring a MacBook Pro-like experience to Linux enthusiasts.
+Kioxia has announced the EG7 series of solid-state drives, the company's first SSD line built around its quadruple-level cell (QLC) technology, branded as BiCS FLASH. Despite using QLC NAND, the new SSDs are said to deliver performance comparable to TLC-based drives at least according to Kioxia. However, the EG7... Read Entire Article
 
-💡 *Redesigned laptop for Linux users challenges macOS dominance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/frameworks-overhauled-laptop-13-pro-brings-a-redesigned-chassis-intel-core-ultra-series-3-system-aims-to-be-a-macbook-pro-for-linux-users)
+🔗 [Read Full Article](https://www.techspot.com/news/112150-kioxia-eg7-ssds-target-budget-friendly-pc-builds.html)
 
 ---
 
-### 4. Scientists solve decades-old 2D physics puzzle Chaotic growth in a 2D quantum system obeys statistical laws 
+### 3. CATL says its new EV battery can recharge from 10% to 98% in six minutes ⭐
 
-Physicists have confirmed that chaotic growth in 2D quantum systems follows statistical rules, validating a 40-year-old mathematical model.
+CATL has unveiled its third-generation Shenxing battery, offering rapid charging and improved efficiency.
 
-💡 *Chaotic systems can exhibit predictable behavior under certain conditions.*
+💡 *Accelerated charging enhances EV convenience and range anxiety relief.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/scientists-solve-decades-old-2d-physics-puzzle-chaotic-growth-in-a-2d-quantum-system-obeys-statistical-laws)
-
----
-
-### 5. Biohacker claims to have sequenced their own genome at the kitchen table with M3 Ultra Mac Studio, Claude, and a $3,200 sequencer DIY project requires 100GB of data storage per run, oodles of RAM 
-
-A biohacker successfully sequenced their genome at home using a DIY setup, hoping to understand a family history of autoimmune disease.
-
-💡 *At-home genome sequencing can empower individuals to take control of their health data.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/biohacker-claims-to-have-sequenced-their-own-genome-at-the-kitchen-table-with-m3-ultra-mac-studio-claude-and-a-usd3-200-sequencer-diy-project-requires-100gb-of-data-storage-per-run-oodles-of-ram)
+🔗 [Read Full Article](https://www.techspot.com/news/112139-catl-new-ev-battery-can-recharge-10-98.html)
 
 ---
 
-### 6. Microsoft lowers Game Pass Ultimate and PC prices, won't include next Call of Duty 
+### 4. Seagate FireCuda X Vault (8TB) review: A USB-powered, RGB-lit hard drive aimed at gamers 
 
-Microsoft lowers Game Pass Ultimate and PC prices, removes Call of Duty.
+The Seagate FireCuda X Vault is a 8TB 3.5-inch external hard drive designed for gamers, featuring easily controlled RGB lighting and a single USB-C cable for power and data.
 
-💡 *Gaming market shift forces Microsoft to adjust its service strategy.*
+💡 *Streamlined gaming storage with power and data via single cable.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112140-microsoft-lowers-game-pass-ultimate-pc-prices-wont.html)
-
----
-
-### 7. ZenTimings provides a detailed view of RAM timings on Ryzen systems 
-
-ZenTimings is a Windows utility that displays real-time Ryzen memory data and timings. It helps verify BIOS or XMP/EXPO settings and monitor system memory configuration. This utility offers a straightforward way to check memory performance.
-
-💡 *Optimize Ryzen system memory performance with precise real-time monitoring.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/7713-zentimings.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-ssds/seagate-firecuda-x-vault-8tb-review)
 
 ---
 
-### 8. Michael Burry of "The Big Short" fame warns of inflated tech stock valuations amid fears of an AI bubble 
+### 5. Linux may be ending support for older network drivers due to influx of false AI-generated bug reports maintenance has become too burdensome for old largely-unused systems 
 
-Michael Burry warns of inflated tech stock valuations due to misreported earnings, overstating profits by 20%.
+Linux kernel developers plan to remove outdated ISA and PCMCIA Ethernet drivers to reduce maintenance burden from AI-generated bug reports. This change would eliminate approximately 27,000 lines of legacy code. The decision aims to prioritize maintenance of modern network drivers.
 
-💡 *Misreported earnings can create unsustainable tech stock valuations.*
+💡 *AI-driven bug reports overwhelm maintenance for outdated Linux drivers*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112136-michael-burry-big-short-fame-warns-inflated-tech.html)
-
----
-
-### 9. Missing safety label triggers recall of nearly 18,000 Apex Gaming PC power supplies 
-
-Apex Gaming PC's 17,730 power supplies lack safety warning labels, prompting a recall. The recalled units are 450W, 750W, 1,000W, and 1,200W models in black or white. They were sold as part of full gaming PC builds or individually.
-
-💡 *Safety labels are crucial for preventing electrical shock and injury risks.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112137-missing-safety-label-triggers-recall-nearly-18000-apex.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linux-may-be-ending-support-for-older-network-drivers-due-to-influx-of-false-ai-generated-bug-reports-maintenance-has-become-too-burdensome-for-old-largely-unused-systems)
 
 ---
 
-### 10. FAA grounds Blue Origin's New Glenn after launch fails to deliver payload 
+### 6. Anthropic's Model Context Protocol includes a critical remote code execution vulnerability newly discovered exploit puts 200,000 AI servers at risk 
 
-The FAA has grounded Blue Origin's New Glenn after a failed launch. The launch attempt occurred on April 19 from Cape Canaveral Space Force Station. The mission did not deliver its intended payload.
+Researchers discovered a remote code execution vulnerability in Anthropic's Model Context Protocol, putting 200,000 AI servers at risk. This allows attackers to potentially execute malicious code on affected systems. The vulnerability was found by OX Security researchers.
 
-💡 *Failed launch raises concerns about New Glenn's reliability and safety record*
+💡 *Critical AI infrastructure security breach threatens massive data compromise*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112135-faa-grounds-blue-origin-new-glenn-after-launch.html)
-
----
-
-### 11. NZXT customer to sue after AIO leak damages Asus RTX 5090, payout won't cover replacement costs (Updated) 
-
-NZXT customer sues after AIO leak damages Asus RTX 5090, payout insufficient. NZXT claims omissions in customer's account, contradicting claims.
-
-💡 *Customers demand accountability for product damage from faulty manufacturer designs*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112134-nzxt-customer-sue-after-aio-leak-damages-asus.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-model-context-protocol-has-critical-security-flaw-exposed)
 
 ---
 
-### 12. TP-Link seeks FCC exemption from router ban, says it is a US company 
+### 7. Valve VRAM hack may improve gaming on 4GB GPUs testing showed mixed results in select titles, with FPS almost tripling in certain games 
 
-TP-Link seeks FCC exemption from a router ban, claiming US status.
+Valve's VRAM hack improves 4GB GPU performance with varied FPS gains in select titles.
 
-💡 *TP-Link's US status is key to avoiding FCC router regulations.*
+💡 *Boosts performance on older GPUs with limited VRAM capacity.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112133-tp-link-seeks-fcc-exemption-router-ban-us.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/valve-vram-hack-may-improve-gaming-on-4gb-gpus-testing-showed-mixed-results-in-select-titles-with-fps-almost-tripling-in-certain-games)
+
+---
+
+### 8. Espressif Systems ESP-Claw framework builds local AI agents for ESP32 devices 
+
+Espressif Systems' ESP-Claw framework enables local AI agents on ESP32 devices with low latency and offline capabilities, allowing for real-time event-driven interactions and actions.
+
+💡 *Local AI agents empower ESP32 devices for autonomous offline decision-making.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/23/espressif-systems-esp-claw-framework-builds-local-ai-agents-for-esp32-devices/)
+
+---
+
+### 9. The Handheld Gaming "Holy Grail": FSR 4 INT8, XeFG, and XeLL 
+
+Windows handhelds may have found a breakthrough in gaming performance with FSR, XeFG, and XeLL, enabling smooth 60 FPS gameplay on compromised devices.
+
+💡 *Unlocking 60 FPS gaming on low-end devices with advanced upscaling tech*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3096-handheld-gaming-holy-grail-dll-upscaling/)
+
+---
+
+### 10. AI agent designs a complete RISC-V CPU from a 219-word spec sheet in just 12 hours comparably simple design required 'many tens of billions of tokens' 
+
+An AI system designed a complete RISC-V CPU core in 12 hours, significantly accelerating chip development.
+
+💡 *Autonomous chip design revolutionizes semiconductor industry with unprecedented speed.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours)
+
+---
+
+### 11. Google Cloud customer wakes up to $18,000+ bill despite $7 budget, thanks to forgotten API key in published project attacker put in 60,000+ requests and blasted through $1,400 spending cap 
+
+A Google Cloud customer received a massive $18,000+ bill due to forgotten API key. The unknown API key generated over 60,000 requests, exceeding the $1,400 spending cap. This led to a 2,500 times increase from their initial $7 budget.
+
+💡 *Forgotten API keys can cause catastrophic cloud billing overspending.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-cloud-customer-wakes-up-to-usd18-000-bill-despite-usd7-budget-thanks-to-forgotten-public-api-key-attacker-put-in-60-000-requests-and-blasted-through-usd1-400-spending-cap)
+
+---
+
+### 12. Ransomware negotiator pleads guilty after leaking victims' insurance details to 'BlackCat' hackers perp gave attackers a precise picture of exactly how much each target could afford to pay 
+
+A cybersecurity professional pleaded guilty to leaking victims' insurance details to hackers, providing a precise picture of their financial situation to facilitate ransom payments.
+
+💡 *Leaked insurance data can maximize ransom payments for hackers.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/florida-man-pleads-guilty-after-leaking-victims-insurance-details-to-blackcat-hackers)
+
+---
+
+### 13. AMD SDK suggests 4x and 6x frame generation multipliers are in the works driver-level tweak will let gamers upgrade existing titles to FSR4 ML-based frame generation 
+
+AMD SDK hints at upcoming driver-level tweak for FSR4 ML-based frame generation, featuring 4x and 6x frame generation multipliers for gamers to upgrade existing titles.
+
+💡 *Enhanced frame generation boosts gaming performance and visual quality.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amd-sdk-update-suggests-fsr-multi-frame-generation-is-in-the-works-support-for-a-configurable-ratio-override-could-indicate-a-future-upgrade)
+
+---
+
+### 14. Iran claims US exploited networking equipment backdoors during strikes says devices from Cisco and others failed despite blackout in attack that 'indicates deep sabotage' 
+
+Iranian state media claims US exploited backdoors in networking equipment. Equipment from companies like Cisco and Juniper allegedly failed during US strikes. This indicates deep sabotage in Iranian systems.
+
+💡 *US military operations potentially expose vulnerabilities in global cybersecurity infrastructure*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/iran-claims-us-exploited-networking-equipment-backdoors-during-strikes)
+
+---
+
+### 15. Portal 2: Community Edition enters open beta with enhanced graphics, larger maps, and new modding tools 
+
+Portal 2: Community Edition enters open beta with enhanced graphics and modding tools. The modding platform is free for Portal 2 owners, despite being in beta. Users can expect bugs in the early stage.
+
+💡 *Community-driven enhancements offer endless possibilities for Portal 2 gameplay.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112155-portal-2-community-edition-enters-open-beta-enhanced.html)
+
+---
+
+### 16. Google is assembling the pieces for enterprise AI agents, now adoption becomes the challenge 
+
+Google and other companies are accelerating efforts to develop enterprise AI agents. These agents are expected to revolutionize business computing and operations. Adoption of these agents is now the main challenge.
+
+💡 *Enterprise AI adoption requires strategic integration and workforce retraining*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112148-google-assembling-pieces-enterprise-ai-agents-now-adoption.html)
+
+---
+
+### 17. Iran claims US botnets or backdoors disabled routers from Cisco, Juniper, and Fortinet 
+
+Iran claims US involvement in disabling its routers from major vendors.
+
+💡 *US alleged involvement in Iran's internet connectivity disruptions raises concerns.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112146-iran-claims-us-botnets-or-backdoors-disabled-networking.html)
+
+---
+
+### 18. iPhone 18 Pro to lead Apple's four-phase camera upgrade strategy 
+
+The upcoming iPhone 18 Pro and Pro Max are expected to feature a new main rear camera upgrade. This upgrade will be part of Apple's four-phase camera strategy. The exact details of the upgrade are still to be announced.
+
+💡 *Apple's iPhone 18 Pro boasts improved camera capabilities for photography enthusiasts.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112147-iphone-18-pro-lead-apple-four-phase-camera.html)
+
+---
+
+### 19. Gemini can now look through your Google Photos to create AI images, with a few caveats 
+
+Gemini can now use your Google Photos for AI image generation, but with limitations.
+
+💡 *Personalized AI content uses actual images of you and your loved ones.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112142-gemini-can-now-look-through-google-photos-create.html)
+
+---
+
+### 20. Framework unveils new Laptop 13 Pro, OcuLink kit, and lap keyboard 
+
+The Framework Laptop 13 Pro is now available for pre-order, starting at $1,199. It features Intel Core Ultra Series 3 CPUs, improved battery life, and enhanced performance. Upgrades for existing users are also available individually.
+
+💡 *Upgrades offer flexibility for existing Framework Laptop owners.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112141-framework-unveils-new-13-inch-laptop-pro-oculink.html)
+
+---
+
+### 21. Meta will record employee screens, clicks, and keystrokes to train AI that may replace them 
+
+Meta plans to record employee screen activity to train AI models that may replace them.
+
+💡 *Mass employee data collection fuels AI development to potentially displace workers.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112143-meta-record-employee-screens-clicks-keystrokes-train-ai.html)
 
 ---
 
