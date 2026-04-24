@@ -1,5 +1,5 @@
 # 💻 Hardware
-**Week of April 23, 2026**
+**Week of April 24, 2026**
 
 *Computing hardware and development boards*
 
@@ -7,149 +7,149 @@
 
 ## 📊 Summary
 - **Articles this week:** 14
-- **Report generated:** 2026-04-23 10:10
+- **Report generated:** 2026-04-24 10:12
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. SamuRoid A Raspberry Pi-powered 22-DOF humanoid robot with Multimodal LLMs and ROS support ⭐
+### 1. Ubuntu 26.04 LTS Resolute Raccoon released with Linux 7.0 ⭐
 
-SamuRoid is a 22-DOF humanoid robot powered by a Raspberry Pi 4, offering advanced multimodal interaction capabilities and ROS support for researchers, educators, and developers.
+Ubuntu 26.04 LTS Resolute Raccoon, with Linux 7.0 kernel, has been released with improved features and security updates.
 
-💡 *AI-powered humanoid robots integrate vision, voice, and language models seamlessly.*
+💡 *Latest Linux kernel supports Intel's newer Core Ultra Series processors.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/22/samuroid-a-raspberry-pi-powered-22-dof-humanoid-robot-with-multimodal-llms-and-ros-support/)
-
----
-
-### 2. Linux may be ending support for older network drivers due to influx of false AI-generated bug reports maintenance has become too burdensome for old largely-unused systems 
-
-Linux kernel developers plan to remove outdated ISA and PCMCIA Ethernet drivers to reduce maintenance burden from AI-generated bug reports. This change would eliminate approximately 27,000 lines of legacy code. The decision aims to prioritize maintenance of modern network drivers.
-
-💡 *AI-driven bug reports overwhelm maintenance for outdated Linux drivers*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linux-may-be-ending-support-for-older-network-drivers-due-to-influx-of-false-ai-generated-bug-reports-maintenance-has-become-too-burdensome-for-old-largely-unused-systems)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/24/ubuntu-26-04-lts-resolute-raccoon-released-with-linux-7-0/)
 
 ---
 
-### 3. Anthropic's Model Context Protocol includes a critical remote code execution vulnerability newly discovered exploit puts 200,000 AI servers at risk 
+### 2. Google says AI now generates 75% of its new code, up from 25% in 2024 ⭐
 
-Researchers discovered a remote code execution vulnerability in Anthropic's Model Context Protocol, putting 200,000 AI servers at risk. This allows attackers to potentially execute malicious code on affected systems. The vulnerability was found by OX Security researchers.
+Google reports significant increase in AI-generated code, now at 75%, up from 25% in 2024. This shift is largely due to the internal deployment of Gemini models for code generation and refactoring. The use of AI tools is also being tied to performance reviews beyond engineering.
 
-💡 *Critical AI infrastructure security breach threatens massive data compromise*
+💡 *AI-generated code efficiency transforms Google's development process fundamentally.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-model-context-protocol-has-critical-security-flaw-exposed)
-
----
-
-### 4. Espressif Systems ESP-Claw framework builds local AI agents for ESP32 devices 
-
-Espressif Systems' ESP-Claw framework enables local AI agents on ESP32 devices with low latency and offline capabilities, allowing for real-time event-driven interactions and actions.
-
-💡 *Local AI agents empower ESP32 devices for autonomous offline decision-making.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/23/espressif-systems-esp-claw-framework-builds-local-ai-agents-for-esp32-devices/)
+🔗 [Read Full Article](https://www.techspot.com/news/112152-google-ai-now-generates-75-new-code-up.html)
 
 ---
 
-### 5. Beelink EX Mate Pro A multi-function USB4 v2 80 Gbps dock with 2.5GbE, M.2 sockets, 140W charger, voice communication system, and more 
+### 3. First Intel Wildcat Lake laptop spotted in the wild, geared to compete with MacBook Neo features an aluminum chassis with 11W fanless mode 
 
-Beelink EX Mate Pro is a feature-rich USB4 v2 dock with advanced connectivity, including M.2 sockets, high-speed networking, and a built-in voice communication system. It supports multiple displays and offers 140W charging for laptops or mini PCs. This dock also features Bluetooth connectivity and a speaker for wireless audio.
+Intel's Wildcat Lake laptop has been spotted, featuring an aluminum chassis and fanless mode. The laptop, an Intel reference machine, showcases the new CPU's capabilities. It also highlights the CPU's power limits and modes.
 
-💡 *Advancements in USB4 v2 technology simplify high-speed peripheral connectivity efficiently.*
+💡 *Intel's Wildcat Lake CPU offers power efficiency and flexibility.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/23/beelink-ex-mate-pro-a-multi-function-usb4-v2-80-gbps-dock-with-2-5gbe-m-2-sockets-140w-charger-voice-communication-system/)
-
----
-
-### 6. AI agent designs a complete RISC-V CPU from a 219-word spec sheet in just 12 hours comparably simple design required 'many tens of billions of tokens' 
-
-An AI system designed a complete RISC-V CPU core in 12 hours, significantly accelerating chip development.
-
-💡 *Autonomous chip design revolutionizes semiconductor industry with unprecedented speed.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/first-intel-wildcat-lake-laptop-spotted-in-the-wild-geared-to-compete-with-macbook-neo-features-an-aluminum-chassis-with-11w-fanless-mode)
 
 ---
 
-### 7. Alienware Area-51 gaming desktop now available with AMD s flagship Ryzen 9 9950X3D2 Dual Edition top CPU config starts at $4,449.99 with RTX 5070 and 32GB DDR5 
+### 4. Wavkong V2700 Wi-Fi 6 router offers long-range and greater coverage with radio processing unit (RPU) for cleaner signals (Crowdfunding) 
 
-Alienware launches the first system with AMD's Ryzen 9 9950X3D2 Dual Edition CPU, offering high-end performance. The top configuration starts at $4,449.99, combining the new flagship CPU with RTX 5070 and 32GB DDR5. This marks a significant milestone in the partnership between Alienware and AMD.
+The Wavkong V2700 Wi-Fi 6 router offers 15,000 sq ft coverage with its Radio Processing Unit (RPU) for cleaner signals. It features a MediaTek Filogic 820 processor, 256 MB RAM, and 4x Gigabit Ethernet ports. The router is available through crowdfunding.
 
-💡 *Advancements in AMD CPUs boost high-end gaming desktop performance options*
+💡 *Enhanced WiFi coverage without the need for mesh networks*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/alienware-area-51-gaming-desktop-now-available-with-amds-flagship-ryzen-9-9950x3d2-dual-edition-base-config-starts-at-usd4-299-99-with-rtx-5070-and-32gb-ddr5)
-
----
-
-### 8. Keychron K3 Ultra Review: Got Wood? 
-
-The Keychron K3 Ultra is a top-notch mechanical keyboard with minor flaws. Its compact design and customizable switches make it ideal for users who prioritize portability and functionality. Overall, it's a solid choice for those seeking a reliable typing experience.
-
-💡 *Compact design balances portability and typing functionality effectively.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-k3-ultra-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/24/wavkong-v2700-wi-fi-6-router-claims-greater-coverage-with-radio-processing-unit-rpu-for-cleaner-signals/)
 
 ---
 
-### 9. Congress moves to strip the DoC of chip-export discretion with the MATCH Act DUV lithography machines among those targeted in chipmaking tool crackdown 
+### 5. Argon Industria HMI 5C An industrial aluminum enclosure for the 5-inch Raspberry Pi Touch Display 2 
 
-U.S. lawmakers introduced the MATCH Act to restrict DoC's chip-export discretion. The bill targets DUV lithography machines and other chipmaking tools. A bipartisan group of lawmakers supports the legislation.
+The Argon Industria HMI 5C is an industrial-grade aluminum enclosure for the Raspberry Pi 5 and official 5-inch Raspberry Pi Touch Display 2. It provides a compact Human Machine Interface (HMI) system with VESA and panel mounting capabilities, and allows access to various ports via an internal IO board. This enclosure is suitable for control panels, automation interfaces, and embedded display applications.
 
-💡 *U.S. seeks to limit China's access to advanced chip technology.*
+💡 *Enables industrial-grade Raspberry Pi solutions for control panel applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/congress-moves-to-strip-commerce-of-chip-export-discretion-with-the-match-act)
-
----
-
-### 10. Just $479 nets you the AMD Ryzen 5 9600X CPU, B850 Max motherboard, and 16GB of DDR5-6000 RAM perfect start to a low-cost gaming PC build 
-
-Build a budget gaming PC with this $479 Newegg bundle, featuring an AMD Ryzen 5 9600X CPU, B850 Max motherboard, and 16GB of DDR5-6000 RAM, all paired with a 360mm AIO CPU cooler for a low-cost gaming experience.
-
-💡 *Affordable gaming PC bundle for budget-conscious gamers and builders.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/just-usd479-nets-you-the-amd-ryzen-5-9600x-cpu-b850-max-motherboard-and-16gb-of-ddr5-6000-ram-perfect-start-to-a-low-cost-gaming-pc-build)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/24/argon-industria-hmi-5c-an-industrial-aluminum-enclosure-for-the-5-inch-raspberry-pi-touch-display-2/)
 
 ---
 
-### 11. Iran claims US botnets or backdoors disabled routers from Cisco, Juniper, and Fortinet 
+### 6. Microchip PIC16F132 and PIC18-Q35 low-power 8-bit MCUs feature CPLD-like Configurable Logic Blocks (CLB) 
 
-Iran claims US involvement in disabling its routers from major vendors.
+Microchip introduces the PIC16F132 and PIC18-Q35 MCUs with integrated Configurable Logic Blocks (CLB), reducing CPU load and power consumption. The CLB architecture executes logic functions on dedicated hardware for deterministic behavior in applications like motor control and industrial automation. The PIC18-Q35 offers higher logic density than the PIC16F132x.
 
-💡 *US alleged involvement in Iran's internet connectivity disruptions raises concerns.*
+💡 *Hardware-based logic execution reduces CPU load and power consumption.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112146-iran-claims-us-botnets-or-backdoors-disabled-networking.html)
-
----
-
-### 12. CPU prices jump 20% since March as Intel and AMD eye further increases 
-
-Intel has raised CPU prices twice this year, while AMD plans two hikes, totaling 16-17% increase. Supply chain bottlenecks are cited as the cause. This could impact the tech industry and consumers.
-
-💡 *Supply chain bottlenecks drive CPU price hikes, impacting tech industry and consumers.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112144-cpu-prices-jump-20-since-march-intel-amd.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/23/microchip-pic16f132-and-pic18-q35-low-power-8-bit-mcus-feature-cpld-like-configurable-logic-blocks-clb/)
 
 ---
 
-### 13. Framework unveils new Laptop 13 Pro, OcuLink kit, and lap keyboard 
+### 7. AAEON BOXER-6407-TWL A slim Twin Lake embedded PC for semiconductor manufacturing and digital signage 
 
-The Framework Laptop 13 Pro is now available for pre-order, starting at $1,199. It features Intel Core Ultra Series 3 CPUs, improved battery life, and enhanced performance. Upgrades for existing users are also available individually.
+The AAEON BOXER-6407-TWL is a slim, fanless embedded PC suitable for semiconductor manufacturing and digital signage applications, featuring Intel Twin Lake processors, up to 32GB DDR5 memory, and various connectivity options.
 
-💡 *Upgrades offer flexibility for existing Framework Laptop owners.*
+💡 *Optimized for extreme environments and space-constrained installations.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112141-framework-unveils-new-13-inch-laptop-pro-oculink.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/23/aaeon-boxer-6407-twl-a-slim-twin-lake-embedded-pc-for-semiconductor-manufacturing-and-digital-signage/)
 
 ---
 
-### 14. Where to buy AMD's Ryzen 9 9950X3D2 more L3 cache and dual 3D V-cache-stacked CCDs 
+### 8. An AI agent just designed a complete RISC-V CPU from scratch in 12 hours 
 
-The Ryzen 9 9950X3D2 is AMD's latest CPU offering, boasting more L3 cache and dual 3D V-cache-stacked CCDs for enhanced performance. It's a powerful processor designed for demanding tasks and applications.
+VerCore, a complete RISC-V CPU, was designed by AI in 12 hours, featuring a 5-stage pipeline design and 1.48GHz clock speed.
 
-💡 *Boosts performance with increased cache and stacked V-cache technology.*
+💡 *AI can revolutionize chip design with unprecedented speed and efficiency.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/where-to-buy-amds-ryzen-9-9950x3d2-more-l3-cache-and-dual-3d-v-cache-stacked-ccds)
+🔗 [Read Full Article](https://www.techspot.com/news/112164-ai-agent-designed-complete-risc-v-cpu-scratch.html)
+
+---
+
+### 9. UK spy agency releases malware-blocking gadget for HDMI and DisplayPort cables SilentGlass blocks malicious traffic traveling between display and computer 
+
+The UK's NCSC has released SilentGlass, a malware-blocking gadget for HDMI and DisplayPort cables. It protects government estates and is now available through Goldilock Labs. This device blocks malicious traffic between displays and computers.
+
+💡 *Enhanced cybersecurity measures for public and private networks*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/uk-spy-agency-releases-malware-blocking-gadget-for-hdmi-and-displayport-cables-silentglass-blocks-malicious-traffic-traveling-between-display-and-computer)
+
+---
+
+### 10. Hands On: Corsair s Frame Configurator brings dozens of customization options (and rippling wood) to its 4000 Series PC cases 
+
+Corsair's 4000-Series cases offer customization options such as unique wood panels and RGB lighting. The configurator allows users to select from various components, including three motherboard trays. This range of choices enhances the personalization of PC builds.
+
+💡 *Highly customizable PC cases cater to individual user preferences*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/hands-on-corsairs-frame-configurator-brings-dozens-of-customization-options-and-rippling-wood-to-its-4000-series-pc-cases)
+
+---
+
+### 11. You can now run Linux on your ancient Windows 95 desktop with a new tool very old Windows PCs, back to Intel 486, can cooperatively run very modern Linux kernels with WSL9x 
+
+Users with ancient Windows PCs can now run modern Linux kernels with WSL9x.
+
+💡 *Reviving legacy hardware with modern Linux capabilities*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/operating-systems/get-linux-on-your-ancient-486-windows-95-desktop-using-wsl9x-very-old-windows-pcs-can-cooperatively-run-very-modern-linux-kernels)
+
+---
+
+### 12. Intel showcases Wildcat Lake reference laptop with aluminum chassis and fanless design 
+
+Intel has showcased a Wildcat Lake reference laptop with an aluminum chassis and fanless design. It features a six-core CPU in a 2P+4LPE configuration. The SoC includes Xe graphics cores and a dedicated 17 TOPS NPU.
+
+💡 *Intel's Wildcat Lake aims for improved performance and power efficiency.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112165-intel-showcases-wildcat-lake-reference-laptop-aluminum-chassis.html)
+
+---
+
+### 13. Interactive Listening Museum lets you compare the sounds of 36 mechanical keyboards 
+
+The Interactive Listening Museum allows users to compare sounds of 36 mechanical keyboards, spanning from vintage to modern models.
+
+💡 *In-depth sound comparison empowers informed keyboard purchasing decisions.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112159-interactive-listening-museum-you-compare-sounds-36-mechanical.html)
+
+---
+
+### 14. Microsoft's next Xbox could get Asus and MSI variants, leaker claims 
+
+Asus and MSI may release Xbox variants with AMD GPU, leaker claims. Microsoft's next Xbox, codenamed Project Helix, features a semi-custom SoC. The news suggests possible partnerships with PC builders.
+
+💡 *Potential partnerships could expand Xbox's reach and accessibility options*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112153-microsoft-next-xbox-could-get-asus-msi-variants.html)
 
 ---
 
