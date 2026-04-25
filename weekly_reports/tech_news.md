@@ -1,95 +1,65 @@
 # 📰 Tech News
-**Week of April 24, 2026**
+**Week of April 25, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-04-24 10:12
+- **Articles this week:** 5
+- **Report generated:** 2026-04-25 09:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Ubuntu 26.04 LTS Resolute Raccoon released with Linux 7.0 ⭐
+### 1. Xbox may be working on an even cheaper Game Pass, and possible Netflix bundle 
 
-Ubuntu 26.04 LTS Resolute Raccoon, with Linux 7.0 kernel, has been released with improved features and security updates.
+Microsoft is reportedly working on an additional Xbox Game Pass subscription plan, possibly at a lower price point. The new tier is expected to provide more affordable gaming options for users. The exact details and pricing of the new plan have yet to be announced.
 
-💡 *Latest Linux kernel supports Intel's newer Core Ultra Series processors.*
+💡 *More affordable gaming options for budget-conscious gamers emerge*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/24/ubuntu-26-04-lts-resolute-raccoon-released-with-linux-7-0/)
-
----
-
-### 2. SoftBank subsidiary working with Intel to develop radical new ZAM memory is now receiving Japanese gov't subsidies new memory designed as a lower-power HBM for AI workloads 
-
-SaiMemory, a SoftBank subsidiary, secures funding to develop ZAM memory, a next-gen DRAM architecture designed to address limitations of High-Bandwidth Memory (HBM) for AI workloads, requiring lower power consumption.
-
-💡 *Lower-power memory crucial for AI workloads to boost efficiency.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-subsidiary-working-with-intel-to-develop-radical-new-zam-memory-is-now-receiving-japanese-govt-subsidies-new-memory-designed-as-a-lower-power-hbm-for-ai-workloads)
+🔗 [Read Full Article](https://www.techspot.com/news/112171-xbox-may-working-even-cheaper-game-pass-possible.html)
 
 ---
 
-### 3. Meta to cut 8,000 jobs to bankroll its AI ambitions 
+### 2. Widely ridiculed Intel stock buyer who invested $700,000 inheritance has the last laugh (if they held) as it nearly triples in value investment is now worth around $1.89 million 
 
-Meta is cutting 8,000 jobs to fund its AI investments and partnerships.
+A Redditor who invested in Intel stock after being ridiculed now reaps benefits, with their $700,000 inheritance nearly tripling in value to $1.89 million.
 
-💡 *AI spending drives layoffs in the tech industry, shifting priorities.*
+💡 *Holding onto long-term investments can lead to significant returns unexpectedly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112168-meta-cut-8000-jobs-bankroll-ai-ambitions.html)
-
----
-
-### 4. Microsoft says Windows 11 changes are "directly influenced" by users 
-
-Microsoft admits Windows 11 changes are influenced by user feedback, marking a shift in their approach.
-
-💡 *Users' opinions are finally driving product development at Microsoft.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112163-microsoft-windows-11-changes-directly-influenced-users.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/widely-ridiculed-intel-stock-buyer-who-invested-usd700-000-inheritance-has-the-last-laugh-if-they-held-as-it-nearly-triples-in-value-investment-is-now-worth-around-usd1-89-million)
 
 ---
 
-### 5. Kalshi fines candidates for betting on their own elections, but one says he wanted to get caught 
+### 3. Intel stock jumps 28%, setting a record, after it posts strong Q1 with rising forecasts Intel says yields are improving faster than expected with new nodes 
 
-Kalshi fined candidates for insider trading on their own elections, citing newly released safeguards.
+Intel's stock surged 28% after strong Q1 results, driven by demand and rising forecasts. Despite beating expectations, Intel still reports losses due to supply constraints. Improving yields on new nodes are a key factor in the company's turnaround.
 
-💡 *New safeguards uncover instances of insider trading among political candidates.*
+💡 *Intel's product demand exceeds supply, despite ongoing financial struggles*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112162-kalshi-fines-candidates-betting-their-own-elections-but.html)
-
----
-
-### 6. Intel shutters open-source evangelism program and archives key community projects closures point to significant shift in open-source leadership 
-
-Intel has shut down its open-source evangelism program and archived key community projects, highlighting a significant shift in its open-source leadership. This move is part of a broader pullback in Intel's open-source footprint amid ongoing restructuring. The closures on GitHub underscore this trend.
-
-💡 *Intel's strategic shift may reduce open-source innovation and collaboration*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/intel-shutters-open-source-evangelism-program-and-archives-key-community-projects-closures-point-to-significant-shift-in-open-source-leadership)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-stock-jumps-28-percent-setting-a-record-after-it-posts-strong-q1-with-rising-forecasts-intel-says-yields-are-improving-faster-than-expected-with-new-nodes)
 
 ---
 
-### 7. UK spy agency releases malware-blocking gadget for HDMI and DisplayPort cables SilentGlass blocks malicious traffic traveling between display and computer 
+### 4. Microsoft rolls out Copilot "vibe working" mode for Word, Excel, and PowerPoint 
 
-The UK's NCSC has released SilentGlass, a malware-blocking gadget for HDMI and DisplayPort cables. It protects government estates and is now available through Goldilock Labs. This device blocks malicious traffic between displays and computers.
+Microsoft introduces 'vibe working' mode for Copilot across Word, Excel, and PowerPoint, allowing users to streamline document creation with AI assistance.
 
-💡 *Enhanced cybersecurity measures for public and private networks*
+💡 *Microsoft embeds AI to enhance productivity in Microsoft 365 applications*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/uk-spy-agency-releases-malware-blocking-gadget-for-hdmi-and-displayport-cables-silentglass-blocks-malicious-traffic-traveling-between-display-and-computer)
+🔗 [Read Full Article](https://www.techspot.com/news/112167-microsoft-rolls-out-copilot-vibe-working-mode-microsoft.html)
 
 ---
 
-### 8. Mozilla uses Anthropic's Mythos to uncover 271 bugs in Firefox 150 
+### 5. Mercedes all-new C-Class electric sedan is a rolling tech demo with hyperscreens 
 
-Mozilla utilized Anthropic's Mythos to identify 271 bugs in Firefox 150, giving defenders an advantage over attackers.
+The Mercedes C-Class electric sedan features a digital interior with a large Superscreen as standard, offering a Hyperscreen option with multiple displays integrated into a single glass surface.
 
-💡 *AI-powered bug detection levels the playing field for cybersecurity defenders.*
+💡 *Mercedes pushes EV tech boundaries with innovative digital cabin designs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112156-mozilla-uses-anthropic-mythos-ai-uncover-271-bugs.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112173-mercedes-all-new-c-class-electric-sedan-rolling.html)
 
 ---
 

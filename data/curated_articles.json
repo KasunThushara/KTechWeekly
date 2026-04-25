@@ -1,355 +1,278 @@
 [
   {
-    "title": "SoftBank subsidiary working with Intel to develop radical new ZAM memory is now receiving Japanese gov't subsidies new memory designed as a lower-power HBM for AI workloads",
-    "summary": "Japan s SaiMemory, a SoftBank subsidiary collaborating with Intel, has secured NEDO funding to develop Z-Angle Memory (ZAM), a next-gen DRAM architecture addressing HBM limitations",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-subsidiary-working-with-intel-to-develop-radical-new-zam-memory-is-now-receiving-japanese-govt-subsidies-new-memory-designed-as-a-lower-power-hbm-for-ai-workloads",
+    "title": "New 3D device computes using living brain cells bioelectronic device uses 3D electronic mesh design paired with living tissue",
+    "summary": "Princeton researchers have developed a 3D bioelectronic device that combines living brain cells with embedded electronics, allowing neurons outside the body to perform simple computational tasks. The system may help scientists study brain function, neurological disease, and the brain s extraordinary energy efficiency.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/new-3d-device-computes-using-living-brain-cells-bioelectronic-device-uses-3d-electronic-mesh-design-paired-with-living-tissue",
     "categories": [
       "AI & ML",
-      "Tech News"
+      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.727014"
+    "processed_date": "2026-04-25T09:36:02.750055"
   },
   {
-    "title": "Intel CEO says he can 'think of no better partner than Elon Musk' to explore 'unconventional' ways to improve chip manufacturing TeraFab partnership aims to rethink how chips are made to reduce costs",
-    "summary": "Intel CEO Lip-Bu Tan commented on the company's partnership with Elon Musk's TeraFab project, but details about the relationship are still light.",
-    "link": "https://www.tomshardware.com/tech-industry/intel-ceo-says-he-can-think-of-no-better-partner-than-elon-musk-to-explore-unconventional-ways-to-improve-chip-manufacturing-terafab-partnership-aims-to-rethink-how-chips-are-made-to-reduce-costs",
+    "title": "NEO Semiconductor's revolutionary 3D X-DRAM for AI processors has passed proof-of-concept validation company secures funding to develop next-gen memory HBM alternative",
+    "summary": "NEO Semiconductor says its 3D X-DRAM passed proof-of-concept testing, using 3D NAND processes to target cheaper AI memory than HBM. The company has secured funding for development.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/neo-semiconductors-revolutionary-3d-x-dram-for-ai-processors-has-passed-proof-of-concept-validation-company-secures-funding-to-develop-next-gen-memory-hbm-alternative",
     "categories": [
-      "Semiconductors",
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-25T09:36:02.750201"
+  },
+  {
+    "title": "How a cavalcade of blunders gave unauthorized users access to Claude Mythos restricted model accessed by third parties, thanks to knowledge from data breach",
+    "summary": "Unauthorized individuals have accessed Anthropic's new Mythos cybersecurity-focused AI model, despite the developer locking it down to just a handful of companies. Considering the AI was purposefully designed to find zero-day exploits and offer viable fixes, the breach raises questions about Anthropic's own security, and why Mythos couldn't protect it.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/how-a-cavalcade-of-blunders-gave-unauthorized-users-access-to-claude-mythos-restricted-model-accessed-by-third-parties-thanks-to-knowledge-from-data-breach",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.727141"
+    "processed_date": "2026-04-25T09:36:02.750328"
   },
   {
-    "title": "First Intel Wildcat Lake laptop spotted in the wild, geared to compete with MacBook Neo features an aluminum chassis with 11W fanless mode",
-    "summary": "Intel's Wildcat Lake family was launched recently, but no devices featuring the CPUs have actually shown up yet. Analyst Vaidyanathan S shared pictures of a real laptop running the new 'Core Series 3' silicon, but it's just an Intel reference machine. It also shows that Wildcat Lake has a 17W PL1 and an 11W fanless mode, along with a 22W PL1 Max and a 35W PL2 mode.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/first-intel-wildcat-lake-laptop-spotted-in-the-wild-geared-to-compete-with-macbook-neo-features-an-aluminum-chassis-with-11w-fanless-mode",
+    "title": "CPU requirements for AI workloads are multiplying, driving intensifying shortages and price hikes Intel already shifting production from consumer chips to Xeon as inference workloads drive server CPU ratios back toward parity with GPUs",
+    "summary": "As workloads continue migrating towards inference and agentic AI, CPU-GPU ratios could converge to 1:1 or even tilt further in favor of CPUs.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/shifting-need-for-cpus-in-ai-workloads-drives-intensifying-shortages-price-hikes",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.750451"
+  },
+  {
+    "title": "Widely ridiculed Intel stock buyer who invested $700,000 inheritance has the last laugh (if they held) as it nearly triples in value investment is now worth around $1.89 million",
+    "summary": "In August 2024, a Redditor was widely, repeatedly, and mercilessly ridiculed for investing the majority of an $800,000 inheritance in Intel stock. It's been a rollercoaster, but that looks like it was a great decision.",
+    "link": "https://www.tomshardware.com/tech-industry/widely-ridiculed-intel-stock-buyer-who-invested-usd700-000-inheritance-has-the-last-laugh-if-they-held-as-it-nearly-triples-in-value-investment-is-now-worth-around-usd1-89-million",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.750561"
+  },
+  {
+    "title": "KTC H27P3 27-inch 5K dual-mode gaming monitor review: Incredible pixel density and flexibility",
+    "summary": "KTC delivers tremendous pixel density with its H27P3. It s a 27-inch IPS panel with 5120x2880 5K at 60 Hz, 2560x1440 QHD at 120 Hz, Adaptive-Sync, HDR and wide gamut color. It s color accurate out of the box and delivers a lot of flexibility.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/ktc-h27p3-27-inch-5k-dual-mode-gaming-monitor-review",
     "categories": [
       "Hardware",
-      "AI & ML"
+      "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.727291"
+    "processed_date": "2026-04-25T09:36:02.750670"
   },
   {
-    "title": "Intel shutters open-source evangelism program and archives key community projects closures point to significant shift in open-source leadership",
-    "summary": "The latest round of GitHub closures underscores a broader pullback in Intel's open-source footprint amid ongoing restructuring.",
-    "link": "https://www.tomshardware.com/software/intel-shutters-open-source-evangelism-program-and-archives-key-community-projects-closures-point-to-significant-shift-in-open-source-leadership",
+    "title": "Xbox outlines broad plan to revitalize brand with a back-to-basics approach that focuses on console New Xbox strategy reprioritizes console, while bolstering cloud and services",
+    "summary": "Microsoft Gaming has been rebranded to just Xbox and the new leadership at the company is looking to shift focus to what worked in the first place. The new open letter titled \"We are Xbox\" goes over four main points that the brand is putting at the center of this identity transformation. Surprisingly, it includes a reprioritization of console, too.",
+    "link": "https://www.tomshardware.com/video-games/xbox/xbox-outlines-broad-plan-to-revitalize-brand-with-a-back-to-basics-approach-that-focuses-on-console-new-xbox-strategy-reprioritizes-console-while-bolstering-cloud-and-services",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.727398"
-  },
-  {
-    "title": "Crypto scam takes advantage of Strait of Hormuz crisis by taking fake payments, leading to two ships being fired upon two vessels reportedly fell victim and paid fake 'Iranian authorities'",
-    "summary": "Two vessels waiting to transit the Strait of Hormuz reportedly fell victim to scammers posing as Iranian authorities and asking for transit fee payments in crypto.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/crypto-scam-takes-advantage-of-strait-of-hormuz-crisis-fake-iranian-authorities-take-payments-leading-to-two-ships-being-fired-upon-two-vessels-reportedly-fall-victim-and-were-fired-upon-by-iranians-despite-payment",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.727509"
-  },
-  {
-    "title": "Anthropic surpasses biggest rival OpenAI in secondary market valuation surges to $1 trillion amid frantic investor interest",
-    "summary": "Anthropic s secondary market valuation has reportedly surged to $1 trillion, surpassing OpenAI s $880 billion, driven by intense investor demand for AI exposure, and highlighting speculative pricing in secondary markets.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-surpasses-biggest-rival-openai-in-secondary-market-valuation-surges-to-usd1-trillion-amid-frantic-investor-interest",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.727619"
-  },
-  {
-    "title": "SpaceX says it is going to begin manufacturing GPUs $1.75 trillion IPO listing reportedly includes in-house GPU production",
-    "summary": "Elon Musk's SpaceX set to produce 'own GPUs' at its own multi-billion fab as the company warns that it may be unable to purchase all the silicon it needs to meet its goals.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-says-it-is-going-to-begin-manufacturing-gpus-usd1-75-trillion-ipo-listing-reportedly-includes-in-house-gpu-production",
-    "categories": [
-      "Semiconductors",
+      "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.727729"
+    "processed_date": "2026-04-25T09:36:02.750795"
   },
   {
-    "title": "UK spy agency releases malware-blocking gadget for HDMI and DisplayPort cables SilentGlass blocks malicious traffic traveling between display and computer",
-    "summary": "The NCSC, a part of the British GCHQ, has deployed this protective gadget throughout various government estates and is now making it publicly available through Goldilock Labs.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/uk-spy-agency-releases-malware-blocking-gadget-for-hdmi-and-displayport-cables-silentglass-blocks-malicious-traffic-traveling-between-display-and-computer",
-    "categories": [
-      "Tech News",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.727849"
-  },
-  {
-    "title": "Hands On: Corsair s Frame Configurator brings dozens of customization options (and rippling wood) to its 4000 Series PC cases",
-    "summary": "Corsair s 4000-Series cases and configurator offer up dozens of customization options, including unique wood and RGB front panels, three motherboard trays, and more.",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/hands-on-corsairs-frame-configurator-brings-dozens-of-customization-options-and-rippling-wood-to-its-4000-series-pc-cases",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.727956"
-  },
-  {
-    "title": "You can now run Linux on your ancient Windows 95 desktop with a new tool very old Windows PCs, back to Intel 486, can cooperatively run very modern Linux kernels with WSL9x",
-    "summary": "WSL9x enables users to run the most modern Linux kernels in Microsoft OSes as old as Windows 95.",
-    "link": "https://www.tomshardware.com/software/operating-systems/get-linux-on-your-ancient-486-windows-95-desktop-using-wsl9x-very-old-windows-pcs-can-cooperatively-run-very-modern-linux-kernels",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.728062"
-  },
-  {
-    "title": "More than 30,000 Samsung union members take to the streets to demand an average bonus of $400,000 per worker May 21 strike date looms, union points to rival SK hynix granting higher bonuses to its employees",
-    "summary": "Workers at Samsung's largest chip fab staged a rally today, demanding higher pay and bonuses, comparing their compensation to what SK hynix offers its people.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/more-than-30-000-samsung-union-members-take-to-the-streets-to-demand-an-average-bonus-of-usd400-000-per-worker-may-21-strike-date-looms-union-points-to-rival-sk-hynix-granting-higher-bonuses-to-its-employees",
+    "title": "Union rally causes Samsung fab production to plummet by 58% during night shift as workers demand up to $400,000 bonuses updated figures show over 40,000 people attended rally for better pay and bonuses",
+    "summary": "Samsung's memory fab and contract chip foundry production for a single night-shift fell by up to 58% after a one-day strike. The union is gearing up for an extended 18-day labor action if company management refuses to meet their demands when it comes to pay and bonuses.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/union-rally-causes-samsung-fab-production-to-plummet-by-58-percent-during-night-shift-as-workers-demand-up-to-usd400-000-bonuses-updated-figures-show-over-40-000-people-attended-rally-for-better-pay-and-bonuses",
     "categories": [
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.728171"
+    "processed_date": "2026-04-25T09:36:02.750914"
   },
   {
-    "title": "U.S. Commerce Secretary says Nvidia still hasn't sold any H200 AI GPUs to China Chinese government is blocking imports in an attempt to push domestic semiconductor industry",
-    "summary": "U.S. Commerce Secretary Howard Lutnick says Nvidia still hasn't sold a single H200 AI GPU to China, despite the ban being lifted four months ago. The Chinese government is making it difficult for Chinese companies to import Nvidia chips in a bid to support the country's own domestic semiconductor industry.",
-    "link": "https://www.tomshardware.com/tech-industry/u-s-commerce-secretary-says-nvidia-still-hasnt-sold-any-h200-ai-gpus-to-china-chinese-government-is-blocking-imports-in-an-attempt-to-push-domestic-semiconductor-industry",
+    "title": "Save a massive $520 on a gaming PC upgrade with this mega Newegg DDR5 RAM combo worth $1,159 separately free 1TB SSD thrown in ramps up the value of this $639.99 upgrade bundle with 32GB memory kit and a MSI MAG motherboard",
+    "summary": "Start your AM5 build off right and save almost $200 with this Newegg combo. Get 32GB of DDR5-6000 CL28 RAM, an MSI X870E Tomahawk Wifi motherboard, and a FREE 1TB Western Digital SN850X M.2 SSD for only $639.99.",
+    "link": "https://www.tomshardware.com/pc-components/save-a-massive-usd520-on-a-gaming-pc-upgrade-with-this-mega-newegg-ddr5-ram-combo-worth-usd1-159-separately-free-1tb-ssd-thrown-in-ramps-up-the-value-of-this-usd639-99-upgrade-bundle-with-32gb-memory-kit-and-a-msi-mag-motherboard",
     "categories": [
-      "Semiconductors",
+      "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.728330"
+    "processed_date": "2026-04-25T09:36:02.751046"
   },
   {
-    "title": "Bolt Graphics tapes out its first Zeus GPU test chip on TSMC 12nm firm touts 17x lower cost of compute",
-    "summary": "Bolt Graphics has announced its completed tape-out of a test chip for its Zeus GPU, marking the startup's first move from FPGA emulation to manufactured silicon.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/bolt-graphics-tapes-out-its-first-zeus-gpu-test-chip-on-tsmc-12nm",
+    "title": "Intel stock jumps 28%, setting a record, after it posts strong Q1 with rising forecasts Intel says yields are improving faster than expected with new nodes",
+    "summary": "Demand for Intel's products exceed expectations and supply, but Intel is still bleeding money.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-stock-jumps-28-percent-setting-a-record-after-it-posts-strong-q1-with-rising-forecasts-intel-says-yields-are-improving-faster-than-expected-with-new-nodes",
     "categories": [
-      "Semiconductors",
-      "GPUs"
+      "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.728437"
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.751161"
   },
   {
-    "title": "Wavkong V2700 Wi-Fi 6 router offers long-range and greater coverage with radio processing unit (RPU) for cleaner signals (Crowdfunding)",
-    "summary": "Installing a multi-node mesh network is one way to extend the range of your WiFi network, but the Wavkong V2700 Wi-Fi 6 router is said to remove that need, with the ability to provide 15,000 sq ft (about 1400 m2) of coverage from a single device. WavKong claims it s possible thanks to the company s Radio Processing Unit (RPU), a dedicated digital RF processing chip that continuously corrects signal distortion in real time using base-station-class Digital Pre-Distortion (DPD) technology found in cellular infrastructure and satellite systems. WavKong V2700 specifications: SoC MediaTek Filogic 820 (MT7981) dual-core Cortex-A53 processor @ 1.3 GHz System Memory 256 MB RAM Storage 128 MB flash Networking 4x Gigabit Ethernet RJ45 ports (1x WAN, 3x LAN) IEEE 802.11a/n/ac/ax WiFi 6 @ 2.4 GHz and 5 GHz Channel bandwidth 20/40/80/160 MHz WiFi security WPA-PSK, WPA2-PSK, WPA/WPA2, WPA3 Antennas 2x 2.4 GHz antennas, 2x [...] The post Wavkong V2700 Wi-Fi 6 router offers long-range and greater coverage with radio processing unit (RPU) for cleaner signals (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/24/wavkong-v2700-wi-fi-6-router-claims-greater-coverage-with-radio-processing-unit-rpu-for-cleaner-signals/",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.728944"
-  },
-  {
-    "title": "Argon Industria HMI 5C An industrial aluminum enclosure for the 5-inch Raspberry Pi Touch Display 2",
-    "summary": "The Argon Industria HMI 5C is an industrial-grade aluminum enclosure designed to house a Raspberry Pi 5 and the 5-inch variant of the Pi Touch Display 2, turning it into a compact Human Machine Interface (HMI) system for control panels, automation interfaces, and embedded display applications. The enclosure supports VESA and panel mounting with a soft foam gasket design, with access to USB, Ethernet, HDMI, and GPIO ports via an internal IO board that reroutes connections (including converting micro-HDMI to full-size HDMI), and includes cable punch-outs for clean installation. The design allows HAT expansion (when the cooling column is removed), PCIe-based M.2 NVMe storage expansion, and compatibility with various other modules. Argon Industria HMI 5C Specifications: Compatibility Raspberry Pi 5 Supported Display Official Raspberry Pi Touch Display 2 (5-inch, 720 x 1280 resolution) Port access Display HDMI (re-routed, full-size via internal PCB) Networking Gigabit Ethernet RJ45 jack USB 4x [...] The post Argon Industria HMI 5C An industrial aluminum enclosure for the 5-inch Raspberry Pi Touch Display 2 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/24/argon-industria-hmi-5c-an-industrial-aluminum-enclosure-for-the-5-inch-raspberry-pi-touch-display-2/",
+    "title": "Melody Machine firmware transforms LILYGO T-LoRa Pager into a portable MP3 player and Internet radio",
+    "summary": "Melody Machine is an open-source firmware that converts the ESP32-S3-based LILYGO T-LoRa Pager into a portable MP3 player and internet radio rather than a LoRa-based messenger running Meshtastic or Meshcore. Highlights of the Melody Machine firmware: LVGL-based graphical user interface with four themes WiFi Manager Non-blocking WiFi with network list, password entry via on-screen keyboard, and auto-reconnect MP3 playback from SD card with folder browser, shuffle, repeat modes, and seek Internet Radio via M3U over WiFi (ICY metadata support) Seek rewind / fast-forward MP3 tracks with the rotary encoder ( 5 s per step) Dual-core audio/task design MP3 decoding runs on Core 0 via FreeRTOS UI and WiFi manager on Core 1 Settings Saved as JSON on SD card in /melody_machine/settings.json; survives reboots and reflashes Auto power-off Configurable idle power-off timer: 15 minutes to 2 hours The rotary encoder and built-in keyboard allow plenty of controls: Rotary [...] The post Melody Machine firmware transforms LILYGO T-LoRa Pager into a portable MP3 player and Internet radio appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/25/melody-machine-firmware-transforms-lilygo-t-lora-pager-into-a-portable-mp3-player-and-internet-radio/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.729125"
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.751719"
   },
   {
-    "title": "Ubuntu 26.04 LTS Resolute Raccoon released with Linux 7.0",
-    "summary": "Canonical has just announced the release of Ubuntu 26.04 LTS Resolute Raccoon Linux distribution about two years after Ubuntu 24.04 LTS Noble Numbat was introduced. The new version of the operating system comes with the just-released Linux 7.0 kernel, GNOME 50, and a range of updates and new features. As a long-term support release, Ubuntu 26.04 LTS will be supported for 5 years until April 2031, and an Ubuntu Pro subscription provides access to ESM (Expanded Security Maintenance) updates for ten years, or until April 2036. One of the benefits of using the latest Linux 7.0 kernel is support for Intel Core Ultra Series 3 Panther Lake processors, including Intel Xe3 integrated graphics and the integrated NPU (Neural Processing Unit) optimizations, which may also benefit Wildcat Lake processors (aka Panther Lake Lite). Canonical also highlights TPM-backed full-disk encryption, improved support for application permission prompting, Livepatch updates for Arm-based servers, and [...] The post Ubuntu 26.04 LTS Resolute Raccoon released with Linux 7.0 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/24/ubuntu-26-04-lts-resolute-raccoon-released-with-linux-7-0/",
+    "title": "Axiomtek PICO570 An Intel Core Ultra Meteor Lake Pico-ITX SBC with DDR5-5600 SO-DIMM memory, HDMI 2.1 up to 4Kp120",
+    "summary": "Axiomtek has recently introduced the PICO570, a high-performance Pico-ITX SBC built around Intel Core Ultra (Series 1) Meteor Lake-U processors. Measuring just 100 x 72 mm, this ultra-compact board with its 11 TOPS NPU is designed for edge AI applications. The PICO570 board is very similar to the AAEON PICO-MTU4 Pico-ITX SBC, but it features a physical 262-pin DDR5 SO-DIMM slot that allows users to upgrade or replace the RAM instead of solder-on LPDDR5 memory, and features an HDMI 2.1 supporting up to 4K resolution at 120Hz. The SBC also features an RS-232/422/485 serial interface, two USB 3.0 ports, and a dedicated SMBus connector for system management. With an operating temperature range of -20 C to +60 C, a watchdog timer, hardware monitoring, and a 12V DC input, it can be used for AI inference nodes, automation controllers, medical systems, and intelligent infrastructure. Axiomtek PICO570 specifications: Meteor Lake-U SoC (one of the other) [...] The post Axiomtek PICO570 An Intel Core Ultra Meteor Lake Pico-ITX SBC with DDR5-5600 SO-DIMM memory, HDMI 2.1 up to 4Kp120 appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/24/axiomtek-pico570-an-intel-core-ultra-meteor-lake-pico-itx-sbc-with-ddr5-5600-so-dimm-memory-hdmi-2-1-up-to-4kp120/",
     "categories": [
       "Hardware",
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 15,
-    "processed_date": "2026-04-24T10:11:08.729336"
+    "processed_date": "2026-04-25T09:36:02.751890"
   },
   {
-    "title": "Microchip PIC16F132 and PIC18-Q35 low-power 8-bit MCUs feature CPLD-like Configurable Logic Blocks (CLB)",
-    "summary": "Microchip Technology has introduced the PIC16F132 and PIC18-Q35 8-bit families of MCUs, as an upgrade over the PIC16F13145, which combine traditional embedded control with integrated Configurable Logic Blocks (CLB), to bring CPLD-like programmable logic directly onto the microcontroller die. The main difference between the two families is in logic density, where the PIC16F132x includes 32 Basic Logic Elements (BLEs), and the PIC18-Q35 offers 128 BLEs. Alongside the CLB, these MCUs also integrate security and voltage management features. Programming and Debugging Interface Disable (PDID) provides anti-tamper protection against unauthorized firmware access, and Multi-Voltage I/O (MVIO) allows direct communication across different voltage domains without external level shifters. The company also mentions that by executing logic functions on dedicated hardware rather than in software, the CLB architecture reduces CPU load and power consumption while ensuring deterministic behavior. This makes the devices well-suited for timing-critical applications such as motor control, industrial automation, consumer electronics, [...] The post Microchip PIC16F132 and PIC18-Q35 low-power 8-bit MCUs feature CPLD-like Configurable Logic Blocks (CLB) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/23/microchip-pic16f132-and-pic18-q35-low-power-8-bit-mcus-feature-cpld-like-configurable-logic-blocks-clb/",
+    "title": "Android wants to replace email verification codes with one-tap credentials",
+    "summary": "Google is working on a more streamlined way for app developers to authenticate users. The company has introduced a new verified email credential issued directly through Android's Credential Manager API, with the goal of modernizing the authentication process. Users will no longer need to check their inbox for temporary authentication... Read Entire Article",
+    "link": "https://www.techspot.com/news/112180-android-new-verified-email-feature-simplifies-authentication-workflows.html",
     "categories": [
-      "Hardware",
-      "Semiconductors"
+      "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.729522"
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.753167"
   },
   {
-    "title": "AAEON BOXER-6407-TWL A slim Twin Lake embedded PC for semiconductor manufacturing and digital signage",
-    "summary": "AAEON BOXER-6407-TWL is a slim (30mm thin) embedded PC powered by Intel Processor N150 or N250 Twin Lake processor, paired with up to 32GB DDR5 SO-DIMM memory and NVMe SSD storage. The fanless mini PC also features HDMI and VGA video outputs, four USB ports, dual GbE networking, two DB-9 ports for RS-232/422/485, and three M.2 slots for storage (NVMe SSD), WiFi and Bluetooth, and 4G LTE/5G cellular connectivity. Its slim design, ports, and ability to operate in the -20 C ~ 60 C temperature range make it suitable for space-constrained applications such as semiconductor manufacturing equipment and digital signage installations. AAEON BOXER-6407-TWL specifications: Twin Lake SoC (one or the other) Intel Processor N150 quad-core processor @ up to 3.6 GHz (Turbo) with 6MB cache, 24EU Intel UHD graphics @ 1.0 GHz; TDP: 6W Intel Processor N250 quad-core processor @ up to 3.8 GHz (Turbo) with 6MB cache, 32EU Intel UHD graphics @ [...] The post AAEON BOXER-6407-TWL A slim Twin Lake embedded PC for semiconductor manufacturing and digital signage appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/23/aaeon-boxer-6407-twl-a-slim-twin-lake-embedded-pc-for-semiconductor-manufacturing-and-digital-signage/",
+    "title": "OpenAI Codex brings agent AI workflows to coding tasks",
+    "summary": "OpenAI Codex is a coding agent powered by ChatGPT that helps developers build, test, and ship software. It can run tasks in parallel, generate and review code changes, and automate repeatable workflows, while working with existing tools and secure sandboxed environments. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7870-openai-codex.html",
     "categories": [
-      "Semiconductors",
+      "AI & ML",
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.729692"
+    "processed_date": "2026-04-25T09:36:02.753286"
   },
   {
-    "title": "Meta to cut 8,000 jobs to bankroll its AI ambitions",
-    "summary": "The move reflects a broader pattern across major technology companies, where AI spending is rising even as headcount declines. Meta has projected record capital expenditures this year and announced several multibillion-dollar AI partnerships in recent months. Internally, employees have been encouraged to use AI agents in day-to-day work, including software... Read Entire Article",
-    "link": "https://www.techspot.com/news/112168-meta-cut-8000-jobs-bankroll-ai-ambitions.html",
+    "title": "Norway set to become the next country to ban under-16s from social media",
+    "summary": "Norway's Prime Minister Jonas Gahr St re said the legislation was being introduced to ensure \"a childhood where children get to be children.\" Read Entire Article",
+    "link": "https://www.techspot.com/news/112178-norway-set-become-next-country-ban-under-16s.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.753387"
+  },
+  {
+    "title": "Ransomware groups are using \"post-quantum\" hype to intimidate victims",
+    "summary": "Kyber, first observed in circulation as early as September, takes its name from the alternate designation of ML-KEM (Module-Lattice-based Key Encapsulation Mechanism). The algorithm, standardized by the National Institute of Standards and Technology, is part of a broader effort to prepare encryption systems for a future in which quantum computers... Read Entire Article",
+    "link": "https://www.techspot.com/news/112175-ransomware-groups-using-post-quantum-hype-intimidate-victims.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.753503"
+  },
+  {
+    "title": "2027 BMW 7 Series gets new battery with increased range and super-fast DC charging",
+    "summary": "The two new all-electric models include the BMW i7 50 xDrive and BMW i7 60 xDrive, each featuring a dual-motor, all-wheel-drive powertrain. The former is powered by a 449 hp motor producing 487 lb-ft of torque, while the latter features a 536 hp motor delivering 549 lb-ft of torque. Read Entire Article",
+    "link": "https://www.techspot.com/news/112179-2027-bmw-7-series-gets-new-battery-increased.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.753615"
+  },
+  {
+    "title": "Microsoft rolls out Copilot \"vibe working\" mode for Word, Excel, and PowerPoint",
+    "summary": "Microsoft introduced Copilot's agent mode in 2025, promising customers new \"intelligent\" ways to streamline document creation while large language models handle much of the work. The feature is now generally available across at least three applications in the Microsoft 365 suite, reflecting Microsoft's broader push to embed AI more deeply... Read Entire Article",
+    "link": "https://www.techspot.com/news/112167-microsoft-rolls-out-copilot-vibe-working-mode-microsoft.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.753729"
+  },
+  {
+    "title": "Mercedes all-new C-Class electric sedan is a rolling tech demo with hyperscreens",
+    "summary": "Inside, the C-Class EV centers on large digital displays and interface design. A full-width digital layout dominates the cabin, anchored by what Mercedes-Benz calls the Superscreen as standard equipment. A more advanced Hyperscreen setup is available as an option, integrating multiple displays into a single continuous glass surface. The system... Read Entire Article",
+    "link": "https://www.techspot.com/news/112173-mercedes-all-new-c-class-electric-sedan-rolling.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.753856"
+  },
+  {
+    "title": "Intel's stock is back to near-record highs as AI boom moves beyond GPUs",
+    "summary": "The company reported $13.6 billion in revenue for the quarter, up 7% year over year and well above analyst expectations. Intel also raised its current-quarter revenue guidance to between $13.8 billion and $14.8 billion, exceeding the roughly $13 billion analysts had projected. Read Entire Article",
+    "link": "https://www.techspot.com/news/112177-intel-stock-back-near-record-highs-ai-boom.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.753963"
+  },
+  {
+    "title": "Xbox may be working on an even cheaper Game Pass, and possible Netflix bundle",
+    "summary": "The developer(s) of Better xCloud, a third-party plug-in that adds numerous features to Xbox Cloud Gaming, recently uncovered code suggesting that Microsoft plans to introduce at least one more Xbox Game Pass subscription plan. While no pricing information for the new tier is available, and Microsoft has not announced anything,... Read Entire Article",
+    "link": "https://www.techspot.com/news/112171-xbox-may-working-even-cheaper-game-pass-possible.html",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.730787"
+    "processed_date": "2026-04-25T09:36:02.754119"
   },
   {
-    "title": "Intel showcases Wildcat Lake reference laptop with aluminum chassis and fanless design",
-    "summary": "The laptop is powered by a six-core CPU in a 2P+4LPE configuration, featuring two Cougar Cove P-cores and four Darkmont LPE cores. The SoC also includes two Xe graphics cores and a dedicated 17 TOPS NPU. Intel did not specify the exact CPU model, but it is believed to be... Read Entire Article",
-    "link": "https://www.techspot.com/news/112165-intel-showcases-wildcat-lake-reference-laptop-aluminum-chassis.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.730905"
-  },
-  {
-    "title": "Linux may drop legacy network drivers amid surge in AI-generated bug reports",
-    "summary": "The open-source community continues to question the impact of generative AI services on software development and bug reporting. \"Vibe-coded\" reports are becoming a growing burden for volunteers working on major software projects, starting with Linux and its extensive collection of legacy device drivers. One developer is now proposing to remove... Read Entire Article",
-    "link": "https://www.techspot.com/news/112166-linux-may-drop-legacy-network-drivers-amid-surge.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.731019"
-  },
-  {
-    "title": "Anker is betting its new chip can change how AI runs in earbuds",
-    "summary": "The processor's compute-in-memory architecture departs from the conventional separation between processing and storage. Traditional chips shuttle data back and forth between memory and compute units, a process that consumes both time and energy. In Thus, computation happens directly inside the NOR flash cells themselves, so models run in the same... Read Entire Article",
-    "link": "https://www.techspot.com/news/112161-anker-betting-new-chip-can-change-how-ai.html",
+    "title": "Samsung workers threaten strike, demand share of $38 billion AI memory windfall",
+    "summary": "Samsung's memory business is central to the current upswing in the chip market. Alongside SK Hynix and Micron, the company is one of the three major producers of DRAM and high-bandwidth memory (HBM). These chips are now critical for AI training and inference systems, where memory bandwidth has become as... Read Entire Article",
+    "link": "https://www.techspot.com/news/112172-samsung-workers-threaten-strike-demand-share-38-billion.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.731136"
-  },
-  {
-    "title": "An AI agent just designed a complete RISC-V CPU from scratch in 12 hours",
-    "summary": "The processor dubbed VerCore was created by chip design startup Verkor.io using its agentic AI system, Design Conductor. According to a whitepaper published by the company, VerCore features a five-stage pipeline design with an in-order, single-issue architecture and a 1.48GHz clock speed. Read Entire Article",
-    "link": "https://www.techspot.com/news/112164-ai-agent-designed-complete-risc-v-cpu-scratch.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.731270"
-  },
-  {
-    "title": "Duke Nukem 3D gets path tracing and DLSS through a new fan-made mod",
-    "summary": "Developer Brian Schulman's latest project, Duke-RT, introduces a major change in how Duke Nukem 3D graphics are rendered. The open-source code adds a new ray-tracing rendering backend to Raze, a fork of the original Build engine that incorporates technology from GZDoom prior to its development split over AI-generated code concerns. Read Entire Article",
-    "link": "https://www.techspot.com/news/112151-duke-rt-adds-ray-traced-rendering-duke-nukem.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.731392"
-  },
-  {
-    "title": "SpaceX may build its own GPUs to reduce chip supply risks",
-    "summary": "The disclosure appears in excerpts from SpaceX's S-1 filing ahead of its expected IPO this summer. Reuters says the filing lists \"manufacturing our own GPUs\" among the \"substantial capital expenditures\" the company is taking on. Read Entire Article",
-    "link": "https://www.techspot.com/news/112160-spacex-may-build-own-gpus-reduce-chip-supply.html",
-    "categories": [
-      "Semiconductors",
-      "GPUs"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.731497"
+    "processed_date": "2026-04-25T09:36:02.754236"
   },
   {
-    "title": "Interactive Listening Museum lets you compare the sounds of 36 mechanical keyboards",
-    "summary": "The site functions less like a conventional product gallery and more like a controlled listening environment. Users can select from 36 keyboard models ranging from legacy hardware such as the IBM Model M keyboard to contemporary devices from manufacturers including SteelSeries and Logitech and then type on their... Read Entire Article",
-    "link": "https://www.techspot.com/news/112159-interactive-listening-museum-you-compare-sounds-36-mechanical.html",
+    "title": "Weak IoT security could make EV chargers vulnerable to mass shutdowns",
+    "summary": "Public EV chargers, shared e-bikes, and rental scooters share a common problem: they are unattended, app-controlled devices deployed in public, potentially letting anyone inspect the hardware and mobile software. Read Entire Article",
+    "link": "https://www.techspot.com/news/112176-weak-iot-security-leaves-public-ev-chargers-vulnerable.html",
     "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.731615"
-  },
-  {
-    "title": "Microsoft says Windows 11 changes are \"directly influenced\" by users",
-    "summary": "The disclosure is a notable coming from a company that has spent months defending an OS criticized for its uneven performance, messy design, and too many features users never asked for looking at you, Copilot. Read Entire Article",
-    "link": "https://www.techspot.com/news/112163-microsoft-windows-11-changes-directly-influenced-users.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.731714"
-  },
-  {
-    "title": "Mozilla uses Anthropic's Mythos to uncover 271 bugs in Firefox 150",
-    "summary": "The result, in the view of Firefox CTO Bobby Holley, marks a decisive shift in the long-running asymmetry between attackers and defenders. \"Defenders finally have a chance to win, decisively,\" he wrote in a blog post. Read Entire Article",
-    "link": "https://www.techspot.com/news/112156-mozilla-uses-anthropic-mythos-ai-uncover-271-bugs.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.731813"
-  },
-  {
-    "title": "Kalshi fines candidates for betting on their own elections, but one says he wanted to get caught",
-    "summary": "Kalshi says the instances of political insider trading were flagged because of its newly released safeguards that block political candidates from trading on their own elections. In addition to Moran, the other two identified candidates were Matt Klein, who is running in the Democratic primary for Minnesota's 2nd Congressional District,... Read Entire Article",
-    "link": "https://www.techspot.com/news/112162-kalshi-fines-candidates-betting-their-own-elections-but.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.731929"
-  },
-  {
-    "title": "Sony AI builds a table tennis robot that reacts faster than humans can see",
-    "summary": "The Sony AI project focuses on table tennis, an activity that has resisted the kind of breakthroughs seen in digital environments. While AI has already outperformed humans in digital games, real-time physical sports remain difficult because they demand extremely fast, precise responses and continuous interaction under tight spatial and timing... Read Entire Article",
-    "link": "https://www.techspot.com/news/112154-sony-ai-builds-table-tennis-robot-reacts-faster.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-24T10:11:08.732051"
-  },
-  {
-    "title": "Microsoft's next Xbox could get Asus and MSI variants, leaker claims",
-    "summary": "Leaker KeplerL2, who has an established track record covering AMD hardware, recently stated that OEM PC builders such as Asus and MSI will release variants of the next Xbox console with the same GPU. Although Microsoft confirmed that the device, codenamed Project Helix, features a semi-custom system-on-a-chip (SoC), Kepler claims... Read Entire Article",
-    "link": "https://www.techspot.com/news/112153-microsoft-next-xbox-could-get-asus-msi-variants.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.732169"
-  },
-  {
-    "title": "Tesla says soaring gas prices are driving more EV demand",
-    "summary": "Tesla said on Wednesday that it had seen a \"resurgence\" in global demand for its vehicles, while the US experienced \"slight growth.\" It also posted its highest first-quarter order backlog in more than two years an impressive figure considering the federal EV tax credit ended last year. Read Entire Article",
-    "link": "https://www.techspot.com/news/112158-tesla-soaring-gas-prices-driving-more-ev-demand.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-24T10:11:08.732292"
-  },
-  {
-    "title": "Google says AI now generates 75% of its new code, up from 25% in 2024",
-    "summary": "The shift is tied closely to Google's internal deployment of its Gemini models, which engineers are using to generate, refactor, and migrate code. The company has also pushed broader use of AI tools beyond engineering, tying their use in some cases to performance reviews. Read Entire Article",
-    "link": "https://www.techspot.com/news/112152-google-ai-now-generates-75-new-code-up.html",
-    "categories": [
-      "AI & ML",
       "Hardware"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-04-24T10:11:08.732403"
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.754341"
+  },
+  {
+    "title": "Assassin's Creed Black Flag Resynced adds ray tracing, reworked combat, and handheld support",
+    "summary": "The company has rebuilt Black Flag's graphics from the ground up using the latest version of its Anvil engine, likely reusing technology from last year's entry, Assassin's Creed Shadows. The visuals incorporate micropolygons, physically based rendering, advanced water simulation, ray-traced global illumination, and RT reflections. Read Entire Article",
+    "link": "https://www.techspot.com/news/112169-assassin-creed-black-flag-resynced-adds-ray-tracing.html",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.754459"
+  },
+  {
+    "title": "OpenAI debuts GPT 5.5, Nvidia gave early access to 10,000 employees through Codex",
+    "summary": "Codex now runs on GPT-5.5 hosted on Nvidia's GB200 NVL72 rack-scale systems. Nvidia says the systems deliver 35x lower cost per million tokens and 50x higher token output per second per megawatt than prior-generation systems, economics it argues make frontier-model inference viable at enterprise scale. Read Entire Article",
+    "link": "https://www.techspot.com/news/112170-openai-debuts-gpt-55-nvidia-gave-early-access.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.754571"
+  },
+  {
+    "title": "Microsoft offers voluntary buyouts to thousands of US workers as AI spending takes priority",
+    "summary": "The buyout program will open to around 7% of Microsoft's US employees, according to CNBC, which cites a person familiar with the plans who can't be named. Read Entire Article",
+    "link": "https://www.techspot.com/news/112174-microsoft-offers-voluntary-buyouts-thousands-us-workers-ai.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-25T09:36:02.754669"
   }
 ]

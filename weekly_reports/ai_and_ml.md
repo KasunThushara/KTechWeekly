@@ -1,175 +1,195 @@
 # 🤖 AI & ML
-**Week of April 24, 2026**
+**Week of April 25, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 16
-- **Report generated:** 2026-04-24 10:12
+- **Articles this week:** 18
+- **Report generated:** 2026-04-25 09:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Google says AI now generates 75% of its new code, up from 25% in 2024 ⭐
+### 1. Axiomtek PICO570 An Intel Core Ultra Meteor Lake Pico-ITX SBC with DDR5-5600 SO-DIMM memory, HDMI 2.1 up to 4Kp120 ⭐
 
-Google reports significant increase in AI-generated code, now at 75%, up from 25% in 2024. This shift is largely due to the internal deployment of Gemini models for code generation and refactoring. The use of AI tools is also being tied to performance reviews beyond engineering.
+Axiomtek PICO570 is a high-performance Pico-ITX SBC with Intel Core Ultra Meteor Lake-U processor. It features DDR5-5600 SO-DIMM memory, HDMI 2.1 up to 4Kp120, and is designed for edge AI applications. The board is compact and has a wide operating temperature range.
 
-💡 *AI-generated code efficiency transforms Google's development process fundamentally.*
+💡 *Edge AI capabilities get a boost with upgradeable, high-performance SBC*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112152-google-ai-now-generates-75-new-code-up.html)
-
----
-
-### 2. SoftBank subsidiary working with Intel to develop radical new ZAM memory is now receiving Japanese gov't subsidies new memory designed as a lower-power HBM for AI workloads 
-
-SaiMemory, a SoftBank subsidiary, secures funding to develop ZAM memory, a next-gen DRAM architecture designed to address limitations of High-Bandwidth Memory (HBM) for AI workloads, requiring lower power consumption.
-
-💡 *Lower-power memory crucial for AI workloads to boost efficiency.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-subsidiary-working-with-intel-to-develop-radical-new-zam-memory-is-now-receiving-japanese-govt-subsidies-new-memory-designed-as-a-lower-power-hbm-for-ai-workloads)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/24/axiomtek-pico570-an-intel-core-ultra-meteor-lake-pico-itx-sbc-with-ddr5-5600-so-dimm-memory-hdmi-2-1-up-to-4kp120/)
 
 ---
 
-### 3. First Intel Wildcat Lake laptop spotted in the wild, geared to compete with MacBook Neo features an aluminum chassis with 11W fanless mode 
+### 2. New 3D device computes using living brain cells bioelectronic device uses 3D electronic mesh design paired with living tissue 
 
-Intel's Wildcat Lake laptop has been spotted, featuring an aluminum chassis and fanless mode. The laptop, an Intel reference machine, showcases the new CPU's capabilities. It also highlights the CPU's power limits and modes.
+Princeton researchers have developed a 3D bioelectronic device that combines living brain cells with embedded electronics, allowing neurons outside the body to perform simple computational tasks. This system may help scientists study brain function, neurological disease, and the brain's extraordinary energy efficiency.
 
-💡 *Intel's Wildcat Lake CPU offers power efficiency and flexibility.*
+💡 *Unlocking new insights into brain function and disease treatment possibilities*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/first-intel-wildcat-lake-laptop-spotted-in-the-wild-geared-to-compete-with-macbook-neo-features-an-aluminum-chassis-with-11w-fanless-mode)
-
----
-
-### 4. Meta to cut 8,000 jobs to bankroll its AI ambitions 
-
-Meta is cutting 8,000 jobs to fund its AI investments and partnerships.
-
-💡 *AI spending drives layoffs in the tech industry, shifting priorities.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112168-meta-cut-8000-jobs-bankroll-ai-ambitions.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/new-3d-device-computes-using-living-brain-cells-bioelectronic-device-uses-3d-electronic-mesh-design-paired-with-living-tissue)
 
 ---
 
-### 5. Linux may drop legacy network drivers amid surge in AI-generated bug reports 
+### 3. NEO Semiconductor's revolutionary 3D X-DRAM for AI processors has passed proof-of-concept validation company secures funding to develop next-gen memory HBM alternative 
 
-Linux may drop legacy network drivers due to AI-generated bug reports. The open-source community is concerned about the impact of generative AI services on software development and bug reporting. This could lead to a significant change in the way Linux handles its extensive collection of legacy device drivers.
+NEO Semiconductor's 3D X-DRAM has passed proof-of-concept testing, targeting cheaper AI memory. The technology leverages 3D NAND processes to create an alternative to HBM. The company has secured funding to further develop this innovation.
 
-💡 *AI-generated bug reports threaten the future of legacy code maintenance*
+💡 *Revolutionizing AI memory with cost-effective 3D X-DRAM technology*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112166-linux-may-drop-legacy-network-drivers-amid-surge.html)
-
----
-
-### 6. Anker is betting its new chip can change how AI runs in earbuds 
-
-Anker's new chip uses compute-in-memory architecture for efficient AI processing in earbuds. This reduces the need for data transfer between memory and compute units. The result is faster and more energy-efficient AI operations.
-
-💡 *Revolutionizes AI processing by reducing energy consumption and latency.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112161-anker-betting-new-chip-can-change-how-ai.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/neo-semiconductors-revolutionary-3d-x-dram-for-ai-processors-has-passed-proof-of-concept-validation-company-secures-funding-to-develop-next-gen-memory-hbm-alternative)
 
 ---
 
-### 7. An AI agent just designed a complete RISC-V CPU from scratch in 12 hours 
+### 4. OpenAI Codex brings agent AI workflows to coding tasks 
 
-VerCore, a complete RISC-V CPU, was designed by AI in 12 hours, featuring a 5-stage pipeline design and 1.48GHz clock speed.
+OpenAI Codex streamlines coding tasks with parallel execution and AI-powered code review.
 
-💡 *AI can revolutionize chip design with unprecedented speed and efficiency.*
+💡 *Automation boosts developer productivity with AI-driven coding workflows.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112164-ai-agent-designed-complete-risc-v-cpu-scratch.html)
-
----
-
-### 8. Duke Nukem 3D gets path tracing and DLSS through a new fan-made mod 
-
-A fan-made mod, Duke-RT, brings path tracing and DLSS to Duke Nukem 3D using an open-source code that incorporates ray-tracing rendering and a fork of the original Build engine, Raze.
-
-💡 *Revolutionizing retro gaming with cutting-edge graphics technology integration*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112151-duke-rt-adds-ray-traced-rendering-duke-nukem.html)
+🔗 [Read Full Article](https://www.techspot.com/downloads/7870-openai-codex.html)
 
 ---
 
-### 9. Sony AI builds a table tennis robot that reacts faster than humans can see 
+### 5. Xbox may be working on an even cheaper Game Pass, and possible Netflix bundle 
 
-Sony AI's table tennis robot reacts faster than human vision, marking a breakthrough in real-time physical sports.
+Microsoft is reportedly working on an additional Xbox Game Pass subscription plan, possibly at a lower price point. The new tier is expected to provide more affordable gaming options for users. The exact details and pricing of the new plan have yet to be announced.
 
-💡 *Advancements in AI can overcome physical limitations in real-time sports.*
+💡 *More affordable gaming options for budget-conscious gamers emerge*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112154-sony-ai-builds-table-tennis-robot-reacts-faster.html)
-
----
-
-### 10. Intel CEO says he can 'think of no better partner than Elon Musk' to explore 'unconventional' ways to improve chip manufacturing TeraFab partnership aims to rethink how chips are made to reduce costs 
-
-Intel CEO Lip-Bu Tan praises TeraFab partnership with Elon Musk, aiming to rethink chip manufacturing. The partnership aims to reduce costs by exploring unconventional ways to make chips. Details about the relationship are still limited.
-
-💡 *Revolutionizing chip manufacturing through unconventional, cost-reducing approaches emerges.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-ceo-says-he-can-think-of-no-better-partner-than-elon-musk-to-explore-unconventional-ways-to-improve-chip-manufacturing-terafab-partnership-aims-to-rethink-how-chips-are-made-to-reduce-costs)
+🔗 [Read Full Article](https://www.techspot.com/news/112171-xbox-may-working-even-cheaper-game-pass-possible.html)
 
 ---
 
-### 11. Crypto scam takes advantage of Strait of Hormuz crisis by taking fake payments, leading to two ships being fired upon two vessels reportedly fell victim and paid fake 'Iranian authorities' 
+### 6. How a cavalcade of blunders gave unauthorized users access to Claude Mythos restricted model accessed by third parties, thanks to knowledge from data breach 
 
-Two ships in the Strait of Hormuz were scammed into paying fake transit fees in crypto, reportedly falling victim to impostors claiming to be Iranian authorities.
+Unauthorized users accessed Anthropic's Mythos AI model, highlighting security concerns. The model was designed to identify vulnerabilities, but its own security failed. A data breach is suspected to be the source of the breach.
 
-💡 *Crypto scams exploit global crises for financial gain.*
+💡 *AI meant to prevent vulnerabilities was vulnerable due to own security lapse*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/crypto-scam-takes-advantage-of-strait-of-hormuz-crisis-fake-iranian-authorities-take-payments-leading-to-two-ships-being-fired-upon-two-vessels-reportedly-fall-victim-and-were-fired-upon-by-iranians-despite-payment)
-
----
-
-### 12. Anthropic surpasses biggest rival OpenAI in secondary market valuation surges to $1 trillion amid frantic investor interest 
-
-Anthropic's secondary market valuation has surged to $1 trillion, surpassing OpenAI's $880 billion, driven by intense investor demand for AI exposure.
-
-💡 *Speculative pricing in secondary markets fuels AI valuation boom.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-surpasses-biggest-rival-openai-in-secondary-market-valuation-surges-to-usd1-trillion-amid-frantic-investor-interest)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/how-a-cavalcade-of-blunders-gave-unauthorized-users-access-to-claude-mythos-restricted-model-accessed-by-third-parties-thanks-to-knowledge-from-data-breach)
 
 ---
 
-### 13. Hands On: Corsair s Frame Configurator brings dozens of customization options (and rippling wood) to its 4000 Series PC cases 
+### 7. CPU requirements for AI workloads are multiplying, driving intensifying shortages and price hikes Intel already shifting production from consumer chips to Xeon as inference workloads drive server CPU ratios back toward parity with GPUs 
 
-Corsair's 4000-Series cases offer customization options such as unique wood panels and RGB lighting. The configurator allows users to select from various components, including three motherboard trays. This range of choices enhances the personalization of PC builds.
+CPU requirements for AI workloads are increasing, driving shortages and price hikes. Intel is shifting production to focus on Xeon chips for inference workloads. This shift may lead to a convergence of CPU-GPU ratios in servers.
 
-💡 *Highly customizable PC cases cater to individual user preferences*
+💡 *Rising CPU demands threaten to equalize CPU-GPU server workload balances.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/hands-on-corsairs-frame-configurator-brings-dozens-of-customization-options-and-rippling-wood-to-its-4000-series-pc-cases)
-
----
-
-### 14. Intel showcases Wildcat Lake reference laptop with aluminum chassis and fanless design 
-
-Intel has showcased a Wildcat Lake reference laptop with an aluminum chassis and fanless design. It features a six-core CPU in a 2P+4LPE configuration. The SoC includes Xe graphics cores and a dedicated 17 TOPS NPU.
-
-💡 *Intel's Wildcat Lake aims for improved performance and power efficiency.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112165-intel-showcases-wildcat-lake-reference-laptop-aluminum-chassis.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/shifting-need-for-cpus-in-ai-workloads-drives-intensifying-shortages-price-hikes)
 
 ---
 
-### 15. Interactive Listening Museum lets you compare the sounds of 36 mechanical keyboards 
+### 8. Xbox outlines broad plan to revitalize brand with a back-to-basics approach that focuses on console New Xbox strategy reprioritizes console, while bolstering cloud and services 
 
-The Interactive Listening Museum allows users to compare sounds of 36 mechanical keyboards, spanning from vintage to modern models.
+Microsoft's Xbox brand is shifting focus back to its console roots, emphasizing a more streamlined approach to gaming. The new 'We are Xbox' open letter outlines four key points for the brand's identity transformation. This change aims to revitalize the brand and its products.
 
-💡 *In-depth sound comparison empowers informed keyboard purchasing decisions.*
+💡 *Prioritizing consoles to revive Xbox brand's core identity*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112159-interactive-listening-museum-you-compare-sounds-36-mechanical.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/xbox-outlines-broad-plan-to-revitalize-brand-with-a-back-to-basics-approach-that-focuses-on-console-new-xbox-strategy-reprioritizes-console-while-bolstering-cloud-and-services)
 
 ---
 
-### 16. Tesla says soaring gas prices are driving more EV demand 
+### 9. Android wants to replace email verification codes with one-tap credentials 
 
-Tesla reports surge in global EV demand, with US seeing slight growth.
+Google introduces a new verified email credential for Android app authentication, eliminating the need for users to check their inbox for temporary authentication codes.
 
-💡 *Soaring gas prices drive increased demand for electric vehicles.*
+💡 *Streamlined authentication boosts user experience and security on Android devices.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112158-tesla-soaring-gas-prices-driving-more-ev-demand.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112180-android-new-verified-email-feature-simplifies-authentication-workflows.html)
+
+---
+
+### 10. Norway set to become the next country to ban under-16s from social media 
+
+Norway's Prime Minister Jonas Gahr Støre plans to ban under-16s from social media. The move is aimed at protecting children's childhoods. Legislation is being introduced to ensure this protection.
+
+💡 *Protecting children's innocence from social media's potential harm matters.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112178-norway-set-become-next-country-ban-under-16s.html)
+
+---
+
+### 11. Ransomware groups are using "post-quantum" hype to intimidate victims 
+
+Ransomware groups are using 'post-quantum' hype to intimidate victims, leveraging the Kyber algorithm. Kyber is a standardized encryption system designed for future quantum computers. It was first observed in circulation as early as September.
+
+💡 *Abusing post-quantum hype enables ransomware groups to appear more sophisticated.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112175-ransomware-groups-using-post-quantum-hype-intimidate-victims.html)
+
+---
+
+### 12. 2027 BMW 7 Series gets new battery with increased range and super-fast DC charging 
+
+The 2027 BMW 7 Series features two new all-electric models with increased range and super-fast DC charging capabilities. The BMW i7 50 xDrive and BMW i7 60 xDrive boast dual-motor, all-wheel-drive powertrains with varying horsepower and torque outputs.
+
+💡 *Advancements in EV technology boost luxury driving experiences*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112179-2027-bmw-7-series-gets-new-battery-increased.html)
+
+---
+
+### 13. Microsoft rolls out Copilot "vibe working" mode for Word, Excel, and PowerPoint 
+
+Microsoft introduces 'vibe working' mode for Copilot across Word, Excel, and PowerPoint, allowing users to streamline document creation with AI assistance.
+
+💡 *Microsoft embeds AI to enhance productivity in Microsoft 365 applications*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112167-microsoft-rolls-out-copilot-vibe-working-mode-microsoft.html)
+
+---
+
+### 14. Mercedes all-new C-Class electric sedan is a rolling tech demo with hyperscreens 
+
+The Mercedes C-Class electric sedan features a digital interior with a large Superscreen as standard, offering a Hyperscreen option with multiple displays integrated into a single glass surface.
+
+💡 *Mercedes pushes EV tech boundaries with innovative digital cabin designs.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112173-mercedes-all-new-c-class-electric-sedan-rolling.html)
+
+---
+
+### 15. Intel's stock is back to near-record highs as AI boom moves beyond GPUs 
+
+Intel's stock surged near-record highs after beating revenue expectations, citing strong AI demand beyond GPUs.
+
+💡 *Intel capitalizes on AI growth beyond traditional GPU-driven segments.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112177-intel-stock-back-near-record-highs-ai-boom.html)
+
+---
+
+### 16. Samsung workers threaten strike, demand share of $38 billion AI memory windfall 
+
+Samsung workers threaten strike over demand for share of AI memory windfall, estimated at $38 billion.
+
+💡 *AI memory demand drives lucrative business for DRAM and HBM chip producers.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112172-samsung-workers-threaten-strike-demand-share-38-billion.html)
+
+---
+
+### 17. OpenAI debuts GPT 5.5, Nvidia gave early access to 10,000 employees through Codex 
+
+OpenAI has debuted GPT-5.5, while Nvidia provides access to 10,000 employees through Codex. This new system is hosted on Nvidia's GB200 NVL72 rack-scale systems, significantly improving efficiency and cost. The systems deliver 35x lower cost and 50x higher token output per second.
+
+💡 *Nvidia's advancements make frontier AI models viable at enterprise scale.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112170-openai-debuts-gpt-55-nvidia-gave-early-access.html)
+
+---
+
+### 18. Microsoft offers voluntary buyouts to thousands of US workers as AI spending takes priority 
+
+Microsoft offers buyouts to around 7% of its US employees, focusing on AI spending.
+
+💡 *AI investments take priority over human workforce at Microsoft.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112174-microsoft-offers-voluntary-buyouts-thousands-us-workers-ai.html)
 
 ---
 
