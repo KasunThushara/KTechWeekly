@@ -1,65 +1,85 @@
 # 📰 Tech News
-**Week of April 25, 2026**
+**Week of April 26, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-04-25 09:36
+- **Articles this week:** 7
+- **Report generated:** 2026-04-26 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Xbox may be working on an even cheaper Game Pass, and possible Netflix bundle 
+### 1. Steam Controller leaked review points to $99 MSRP more expensive than PS5 and Xbox controllers and Nintendo Joy-Cons 
 
-Microsoft is reportedly working on an additional Xbox Game Pass subscription plan, possibly at a lower price point. The new tier is expected to provide more affordable gaming options for users. The exact details and pricing of the new plan have yet to be announced.
+A leaked review of the Steam Controller revealed its $99 MSRP, making it more expensive than other popular gaming controllers.
 
-💡 *More affordable gaming options for budget-conscious gamers emerge*
+💡 *Gaming enthusiasts face higher costs with Steam's new controller option.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112171-xbox-may-working-even-cheaper-game-pass-possible.html)
-
----
-
-### 2. Widely ridiculed Intel stock buyer who invested $700,000 inheritance has the last laugh (if they held) as it nearly triples in value investment is now worth around $1.89 million 
-
-A Redditor who invested in Intel stock after being ridiculed now reaps benefits, with their $700,000 inheritance nearly tripling in value to $1.89 million.
-
-💡 *Holding onto long-term investments can lead to significant returns unexpectedly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/widely-ridiculed-intel-stock-buyer-who-invested-usd700-000-inheritance-has-the-last-laugh-if-they-held-as-it-nearly-triples-in-value-investment-is-now-worth-around-usd1-89-million)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-leaked-review-points-to-usd99-msrp-more-expensive-than-ps5-and-xbox-controllers-and-nintendo-joy-cons)
 
 ---
 
-### 3. Intel stock jumps 28%, setting a record, after it posts strong Q1 with rising forecasts Intel says yields are improving faster than expected with new nodes 
+### 2. BMW brings color changing tech closer to production with the iX3 Flow Edition 
 
-Intel's stock surged 28% after strong Q1 results, driven by demand and rising forecasts. Despite beating expectations, Intel still reports losses due to supply constraints. Improving yields on new nodes are a key factor in the company's turnaround.
+BMW has unveiled the iX3 Flow Edition, integrating E Ink's Prism technology into the vehicle's hood, bringing color-changing tech closer to production. This version embeds the electrophoretic system directly into the structure, moving beyond earlier external designs. The innovative design aims to revolutionize vehicle aesthetics.
 
-💡 *Intel's product demand exceeds supply, despite ongoing financial struggles*
+💡 *Embedded E Ink tech makes color-changing cars more practical*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-stock-jumps-28-percent-setting-a-record-after-it-posts-strong-q1-with-rising-forecasts-intel-says-yields-are-improving-faster-than-expected-with-new-nodes)
-
----
-
-### 4. Microsoft rolls out Copilot "vibe working" mode for Word, Excel, and PowerPoint 
-
-Microsoft introduces 'vibe working' mode for Copilot across Word, Excel, and PowerPoint, allowing users to streamline document creation with AI assistance.
-
-💡 *Microsoft embeds AI to enhance productivity in Microsoft 365 applications*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112167-microsoft-rolls-out-copilot-vibe-working-mode-microsoft.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112186-bmw-brings-color-changing-tech-closer-production-ix3.html)
 
 ---
 
-### 5. Mercedes all-new C-Class electric sedan is a rolling tech demo with hyperscreens 
+### 3. Intel's upcoming Xeon 7 "Diamond Rapids" server CPUs reportedly delayed to 2027 Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak 
 
-The Mercedes C-Class electric sedan features a digital interior with a large Superscreen as standard, offering a Hyperscreen option with multiple displays integrated into a single glass surface.
+Intel's Xeon 7 'Diamond Rapids' CPU launch delayed to 2027, not this year as initially planned. The Clearwater Forest E-core-only CPU is still expected to release in the first half of 2024. The next-gen Coral Rapids family is set to arrive in 2028.
 
-💡 *Mercedes pushes EV tech boundaries with innovative digital cabin designs.*
+💡 *Intel's server CPU roadmap faces significant delays and revisions.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112173-mercedes-all-new-c-class-electric-sedan-rolling.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-xeon-7-diamond-rapids-server-cpus-reportedly-delayed-to-2027-next-gen-coral-rapids-lineup-lands-2028-but-can-be-accelerated-according-to-new-leak)
+
+---
+
+### 4. Microsoft will allow users to indefinitely pause updates in Windows 11 first change in over a decade to the mandatory update policy 
+
+Microsoft is giving Windows 11 users more control over updates, allowing them to pause indefinitely and restoring normal shutdown options even when updates are pending. This change aims to improve user experience and flexibility. Updates will also be made clearer and more transparent.
+
+💡 *Users regain control over Windows 11 updates for the first time*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-will-allow-users-to-indefinitely-pause-updates-in-windows-11-first-change-in-over-a-decade-to-the-mandatory-update-policy)
+
+---
+
+### 5. US Navy tests laser weapon that shoots down drones on the USS George H.W. Bush supercarrier system tracked, engaged, and neutralized multiple target drones, has essentially unlimited power source 
+
+The US Navy tested the LOCUST Laser Weapon System on the USS George H.W. Bush, successfully neutralizing multiple target drones.
+
+💡 *Game-changing laser technology offers limitless power and precise drone destruction capability.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-navy-tests-laser-weapon-that-shoots-down-drones-on-the-uss-george-h-w-bush-supercarrier-system-tracked-engaged-and-neutralized-multiple-target-drones-has-essentially-unlimited-power-source)
+
+---
+
+### 6. Windows Insiders can now pause updates indefinitely, in 35-day increments 
+
+Windows Insiders can now pause updates indefinitely in 35-day increments, skip updates during initial setup, and reboot without installing updates.
+
+💡 *Increased user control over system updates brings greater flexibility and peace of mind.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112184-windows-insiders-can-now-pause-updates-indefinitely-35.html)
+
+---
+
+### 7. Battlefield movie reportedly in the works with Christopher McQuarrie and Michael B. Jordan 
+
+A Battlefield film adaptation is reportedly in the works with Christopher McQuarrie and Michael B. Jordan. McQuarrie will write, direct, and produce the project, while Jordan is in talks to produce. The film aims to bring the popular EA series to the big screen.
+
+💡 *High-profile collaboration could elevate Battlefield franchise's cinematic appeal.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112182-battlefield-movie-reportedly-works-christopher-mcquarrie-michael-b.html)
 
 ---
 

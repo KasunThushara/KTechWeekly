@@ -1,278 +1,192 @@
 [
   {
-    "title": "New 3D device computes using living brain cells bioelectronic device uses 3D electronic mesh design paired with living tissue",
-    "summary": "Princeton researchers have developed a 3D bioelectronic device that combines living brain cells with embedded electronics, allowing neurons outside the body to perform simple computational tasks. The system may help scientists study brain function, neurological disease, and the brain s extraordinary energy efficiency.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/new-3d-device-computes-using-living-brain-cells-bioelectronic-device-uses-3d-electronic-mesh-design-paired-with-living-tissue",
+    "title": "Score an RTX 5070 prebuilt with a Ryzen 7 7700X & 16 GB of DDR5 for $650 off Stack these promo codes to save on Skytech Gaming's high-end systems",
+    "summary": "You don't need to spend upwards of $1,500 to build and RTX 5070 system anymore as Skytech has two great prebuilts ready for you. Whether you're rocking a stealthy black setup or a minimal white one, the Shadow 5 and Archangel 5 are both ready to level it up.",
+    "link": "https://www.tomshardware.com/pc-components/score-an-rtx-5070-prebuilt-with-a-ryzen-7-7700x-and-16-gb-of-ddr5-for-usd650-off-stack-these-promo-codes-to-save-on-skytech-gamings-high-end-systems",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-25T09:36:02.750055"
+    "quality_score": 5,
+    "processed_date": "2026-04-26T09:36:37.658187"
   },
   {
-    "title": "NEO Semiconductor's revolutionary 3D X-DRAM for AI processors has passed proof-of-concept validation company secures funding to develop next-gen memory HBM alternative",
-    "summary": "NEO Semiconductor says its 3D X-DRAM passed proof-of-concept testing, using 3D NAND processes to target cheaper AI memory than HBM. The company has secured funding for development.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/neo-semiconductors-revolutionary-3d-x-dram-for-ai-processors-has-passed-proof-of-concept-validation-company-secures-funding-to-develop-next-gen-memory-hbm-alternative",
+    "title": "Steam Controller leaked review points to $99 MSRP more expensive than PS5 and Xbox controllers and Nintendo Joy-Cons",
+    "summary": "A hardware reviewer accidentally made their review video go live on YouTube before the embargo date, revealing the pricing for the Steam Controller.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-leaked-review-points-to-usd99-msrp-more-expensive-than-ps5-and-xbox-controllers-and-nintendo-joy-cons",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "Hardware",
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-25T09:36:02.750201"
+    "processed_date": "2026-04-26T09:36:37.658327"
   },
   {
-    "title": "How a cavalcade of blunders gave unauthorized users access to Claude Mythos restricted model accessed by third parties, thanks to knowledge from data breach",
-    "summary": "Unauthorized individuals have accessed Anthropic's new Mythos cybersecurity-focused AI model, despite the developer locking it down to just a handful of companies. Considering the AI was purposefully designed to find zero-day exploits and offer viable fixes, the breach raises questions about Anthropic's own security, and why Mythos couldn't protect it.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/how-a-cavalcade-of-blunders-gave-unauthorized-users-access-to-claude-mythos-restricted-model-accessed-by-third-parties-thanks-to-knowledge-from-data-breach",
+    "title": "Intel's upcoming Xeon 7 \"Diamond Rapids\" server CPUs reportedly delayed to 2027 Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak",
+    "summary": "Diamond Rapids, also known as Xeon 7, was supposed to launch later this year, but a new leak from Jaykihn claims the timeline has now moved to 2027. Clearwater Forest, the E-core-only successor to Sierra Forest, is set to release in the first half of this year, while the next-gen Coral Rapids family is reportedly planned for 2028.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-xeon-7-diamond-rapids-server-cpus-reportedly-delayed-to-2027-next-gen-coral-rapids-lineup-lands-2028-but-can-be-accelerated-according-to-new-leak",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-26T09:36:37.658469"
+  },
+  {
+    "title": "Microsoft will allow users to indefinitely pause updates in Windows 11 first change in over a decade to the mandatory update policy",
+    "summary": "Microsoft is introducing major changes to Windows 11 updates, giving users greater control by allowing extended or indefinite update pausing, restoring normal shutdown and restart options even when updates are pending, and improving clarity about which updates are installed.",
+    "link": "https://www.tomshardware.com/software/windows/microsoft-will-allow-users-to-indefinitely-pause-updates-in-windows-11-first-change-in-over-a-decade-to-the-mandatory-update-policy",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-26T09:36:37.658589"
+  },
+  {
+    "title": "Maine governor vetoes bill that bans large new data centers says legislature should ve exempted one particular well-supported data center",
+    "summary": "Governor Janet Mills vetoed a bill that would have enacted a moratorium on all data center projects because it would affect one site to be built on a former paper mill in Jay, Franklin County.",
+    "link": "https://www.tomshardware.com/desktops/servers/maine-governor-vetoes-bill-that-bans-large-new-data-centers-says-legislature-shouldve-exempted-one-particular-well-supported-data-center",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.750328"
+    "processed_date": "2026-04-26T09:36:37.658706"
   },
   {
-    "title": "CPU requirements for AI workloads are multiplying, driving intensifying shortages and price hikes Intel already shifting production from consumer chips to Xeon as inference workloads drive server CPU ratios back toward parity with GPUs",
-    "summary": "As workloads continue migrating towards inference and agentic AI, CPU-GPU ratios could converge to 1:1 or even tilt further in favor of CPUs.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/shifting-need-for-cpus-in-ai-workloads-drives-intensifying-shortages-price-hikes",
+    "title": "Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc \"Celestial\" family gaming GPU remains uncertain even for the next-gen Xe4 \"Druid\" lineup that lands in 2027",
+    "summary": "New leaks claim that Intel's upcoming Xe3P graphics architecture won't feature any discrete gaming GPUs, and even the next-gen Xe4 lineup isn't confirmed to. Intel is instead prioritizing the datacenter and workstation segments for new graphics IP, and is featuring them on mobile parts.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/intel-has-reportedly-killed-discrete-gaming-gpus-for-the-upcoming-xe3p-arc-celestial-family-gaming-gpu-remains-uncertain-even-for-the-next-gen-xe4-druid-lineup-that-lands-in-2027",
     "categories": [
-      "AI & ML",
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-26T09:36:37.658834"
+  },
+  {
+    "title": "Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7800X3D Can Intel finally beat X3D?",
+    "summary": "Intel's new Core Ultra 7 270K Plus is a productivity beast, but can it hang with the Ryzen 7 7800X3D in games? We put the two CPUs head-to-head.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-amd-ryzen-7-7800x3d-cpu-faceoff",
+    "categories": [
+      "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.750451"
+    "processed_date": "2026-04-26T09:36:37.658936"
   },
   {
-    "title": "Widely ridiculed Intel stock buyer who invested $700,000 inheritance has the last laugh (if they held) as it nearly triples in value investment is now worth around $1.89 million",
-    "summary": "In August 2024, a Redditor was widely, repeatedly, and mercilessly ridiculed for investing the majority of an $800,000 inheritance in Intel stock. It's been a rollercoaster, but that looks like it was a great decision.",
-    "link": "https://www.tomshardware.com/tech-industry/widely-ridiculed-intel-stock-buyer-who-invested-usd700-000-inheritance-has-the-last-laugh-if-they-held-as-it-nearly-triples-in-value-investment-is-now-worth-around-usd1-89-million",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.750561"
-  },
-  {
-    "title": "KTC H27P3 27-inch 5K dual-mode gaming monitor review: Incredible pixel density and flexibility",
-    "summary": "KTC delivers tremendous pixel density with its H27P3. It s a 27-inch IPS panel with 5120x2880 5K at 60 Hz, 2560x1440 QHD at 120 Hz, Adaptive-Sync, HDR and wide gamut color. It s color accurate out of the box and delivers a lot of flexibility.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/ktc-h27p3-27-inch-5k-dual-mode-gaming-monitor-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-25T09:36:02.750670"
-  },
-  {
-    "title": "Xbox outlines broad plan to revitalize brand with a back-to-basics approach that focuses on console New Xbox strategy reprioritizes console, while bolstering cloud and services",
-    "summary": "Microsoft Gaming has been rebranded to just Xbox and the new leadership at the company is looking to shift focus to what worked in the first place. The new open letter titled \"We are Xbox\" goes over four main points that the brand is putting at the center of this identity transformation. Surprisingly, it includes a reprioritization of console, too.",
-    "link": "https://www.tomshardware.com/video-games/xbox/xbox-outlines-broad-plan-to-revitalize-brand-with-a-back-to-basics-approach-that-focuses-on-console-new-xbox-strategy-reprioritizes-console-while-bolstering-cloud-and-services",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.750795"
-  },
-  {
-    "title": "Union rally causes Samsung fab production to plummet by 58% during night shift as workers demand up to $400,000 bonuses updated figures show over 40,000 people attended rally for better pay and bonuses",
-    "summary": "Samsung's memory fab and contract chip foundry production for a single night-shift fell by up to 58% after a one-day strike. The union is gearing up for an extended 18-day labor action if company management refuses to meet their demands when it comes to pay and bonuses.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/union-rally-causes-samsung-fab-production-to-plummet-by-58-percent-during-night-shift-as-workers-demand-up-to-usd400-000-bonuses-updated-figures-show-over-40-000-people-attended-rally-for-better-pay-and-bonuses",
+    "title": "Your Walmart might be 3D printed firm building more than a dozen 3D-printed Walmart expansions with concrete-printing robots",
+    "summary": "For years, 3D Concrete Printing (3DCP) has been an experimental novelty. Alquist 3D, based in Greeley, CO, is pushing the technology past the demonstration phase with their A1X, a robotic arm printer that lays down inch-thick layers at a whopping 200mm/s.",
+    "link": "https://www.tomshardware.com/3d-printing/your-walmart-might-be-3d-printed-firm-building-more-than-a-dozen-3d-printed-walmart-expansions-alquist-sells-superstore-on-3d-concrete-printing-robots",
     "categories": [
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.750914"
+    "processed_date": "2026-04-26T09:36:37.659054"
   },
   {
-    "title": "Save a massive $520 on a gaming PC upgrade with this mega Newegg DDR5 RAM combo worth $1,159 separately free 1TB SSD thrown in ramps up the value of this $639.99 upgrade bundle with 32GB memory kit and a MSI MAG motherboard",
-    "summary": "Start your AM5 build off right and save almost $200 with this Newegg combo. Get 32GB of DDR5-6000 CL28 RAM, an MSI X870E Tomahawk Wifi motherboard, and a FREE 1TB Western Digital SN850X M.2 SSD for only $639.99.",
-    "link": "https://www.tomshardware.com/pc-components/save-a-massive-usd520-on-a-gaming-pc-upgrade-with-this-mega-newegg-ddr5-ram-combo-worth-usd1-159-separately-free-1tb-ssd-thrown-in-ramps-up-the-value-of-this-usd639-99-upgrade-bundle-with-32gb-memory-kit-and-a-msi-mag-motherboard",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.751046"
-  },
-  {
-    "title": "Intel stock jumps 28%, setting a record, after it posts strong Q1 with rising forecasts Intel says yields are improving faster than expected with new nodes",
-    "summary": "Demand for Intel's products exceed expectations and supply, but Intel is still bleeding money.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-stock-jumps-28-percent-setting-a-record-after-it-posts-strong-q1-with-rising-forecasts-intel-says-yields-are-improving-faster-than-expected-with-new-nodes",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.751161"
-  },
-  {
-    "title": "Melody Machine firmware transforms LILYGO T-LoRa Pager into a portable MP3 player and Internet radio",
-    "summary": "Melody Machine is an open-source firmware that converts the ESP32-S3-based LILYGO T-LoRa Pager into a portable MP3 player and internet radio rather than a LoRa-based messenger running Meshtastic or Meshcore. Highlights of the Melody Machine firmware: LVGL-based graphical user interface with four themes WiFi Manager Non-blocking WiFi with network list, password entry via on-screen keyboard, and auto-reconnect MP3 playback from SD card with folder browser, shuffle, repeat modes, and seek Internet Radio via M3U over WiFi (ICY metadata support) Seek rewind / fast-forward MP3 tracks with the rotary encoder ( 5 s per step) Dual-core audio/task design MP3 decoding runs on Core 0 via FreeRTOS UI and WiFi manager on Core 1 Settings Saved as JSON on SD card in /melody_machine/settings.json; survives reboots and reflashes Auto power-off Configurable idle power-off timer: 15 minutes to 2 hours The rotary encoder and built-in keyboard allow plenty of controls: Rotary [...] The post Melody Machine firmware transforms LILYGO T-LoRa Pager into a portable MP3 player and Internet radio appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/25/melody-machine-firmware-transforms-lilygo-t-lora-pager-into-a-portable-mp3-player-and-internet-radio/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.751719"
-  },
-  {
-    "title": "Axiomtek PICO570 An Intel Core Ultra Meteor Lake Pico-ITX SBC with DDR5-5600 SO-DIMM memory, HDMI 2.1 up to 4Kp120",
-    "summary": "Axiomtek has recently introduced the PICO570, a high-performance Pico-ITX SBC built around Intel Core Ultra (Series 1) Meteor Lake-U processors. Measuring just 100 x 72 mm, this ultra-compact board with its 11 TOPS NPU is designed for edge AI applications. The PICO570 board is very similar to the AAEON PICO-MTU4 Pico-ITX SBC, but it features a physical 262-pin DDR5 SO-DIMM slot that allows users to upgrade or replace the RAM instead of solder-on LPDDR5 memory, and features an HDMI 2.1 supporting up to 4K resolution at 120Hz. The SBC also features an RS-232/422/485 serial interface, two USB 3.0 ports, and a dedicated SMBus connector for system management. With an operating temperature range of -20 C to +60 C, a watchdog timer, hardware monitoring, and a 12V DC input, it can be used for AI inference nodes, automation controllers, medical systems, and intelligent infrastructure. Axiomtek PICO570 specifications: Meteor Lake-U SoC (one of the other) [...] The post Axiomtek PICO570 An Intel Core Ultra Meteor Lake Pico-ITX SBC with DDR5-5600 SO-DIMM memory, HDMI 2.1 up to 4Kp120 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/24/axiomtek-pico570-an-intel-core-ultra-meteor-lake-pico-itx-sbc-with-ddr5-5600-so-dimm-memory-hdmi-2-1-up-to-4kp120/",
+    "title": "Intel VP claims up to 30% of CPU performance is untapped by modern games software optimization is critical to unlocking full potential of hybrid CPUs",
+    "summary": "Intel is claiming that better software optimization for hybrid architecture CPUs can unlock up to 30% more performance without hardware upgrades. The silicon itself is very capable, but its true potential is held back by code that perhaps prioritizes more conventional silicon and, therefore, benefits from brute-force upgrades like extra L3 cache.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-vp-claims-up-to-30-percent-of-cpu-performance-is-untapped-by-modern-games-software-optimization-is-critical-to-unlocking-full-potential-of-hybrid-cpus",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 15,
-    "processed_date": "2026-04-25T09:36:02.751890"
+    "processed_date": "2026-04-26T09:36:37.659194"
   },
   {
-    "title": "Android wants to replace email verification codes with one-tap credentials",
-    "summary": "Google is working on a more streamlined way for app developers to authenticate users. The company has introduced a new verified email credential issued directly through Android's Credential Manager API, with the goal of modernizing the authentication process. Users will no longer need to check their inbox for temporary authentication... Read Entire Article",
-    "link": "https://www.techspot.com/news/112180-android-new-verified-email-feature-simplifies-authentication-workflows.html",
+    "title": "AMD's memory-boosting EXPO 1.2 is here, adds support for three Chinese memory vendors performance gains could be muted until Zen 6",
+    "summary": "Third-party AMD developer and hardware leakers share details of the new AMD EXPO 1.2 technology arriving on AMD AM5 motherboards.",
+    "link": "https://www.tomshardware.com/pc-components/ram/amd-expo-1-2-is-here-but-you-may-not-notice-significant-gains-until-zen-6-upgraded-ram-overclocking-tech-will-unlock-the-next-level-of-memory-speed-on-ryzen-cpus",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.753167"
-  },
-  {
-    "title": "OpenAI Codex brings agent AI workflows to coding tasks",
-    "summary": "OpenAI Codex is a coding agent powered by ChatGPT that helps developers build, test, and ship software. It can run tasks in parallel, generate and review code changes, and automate repeatable workflows, while working with existing tools and secure sandboxed environments. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7870-openai-codex.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-25T09:36:02.753286"
-  },
-  {
-    "title": "Norway set to become the next country to ban under-16s from social media",
-    "summary": "Norway's Prime Minister Jonas Gahr St re said the legislation was being introduced to ensure \"a childhood where children get to be children.\" Read Entire Article",
-    "link": "https://www.techspot.com/news/112178-norway-set-become-next-country-ban-under-16s.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.753387"
-  },
-  {
-    "title": "Ransomware groups are using \"post-quantum\" hype to intimidate victims",
-    "summary": "Kyber, first observed in circulation as early as September, takes its name from the alternate designation of ML-KEM (Module-Lattice-based Key Encapsulation Mechanism). The algorithm, standardized by the National Institute of Standards and Technology, is part of a broader effort to prepare encryption systems for a future in which quantum computers... Read Entire Article",
-    "link": "https://www.techspot.com/news/112175-ransomware-groups-using-post-quantum-hype-intimidate-victims.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.753503"
-  },
-  {
-    "title": "2027 BMW 7 Series gets new battery with increased range and super-fast DC charging",
-    "summary": "The two new all-electric models include the BMW i7 50 xDrive and BMW i7 60 xDrive, each featuring a dual-motor, all-wheel-drive powertrain. The former is powered by a 449 hp motor producing 487 lb-ft of torque, while the latter features a 536 hp motor delivering 549 lb-ft of torque. Read Entire Article",
-    "link": "https://www.techspot.com/news/112179-2027-bmw-7-series-gets-new-battery-increased.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.753615"
-  },
-  {
-    "title": "Microsoft rolls out Copilot \"vibe working\" mode for Word, Excel, and PowerPoint",
-    "summary": "Microsoft introduced Copilot's agent mode in 2025, promising customers new \"intelligent\" ways to streamline document creation while large language models handle much of the work. The feature is now generally available across at least three applications in the Microsoft 365 suite, reflecting Microsoft's broader push to embed AI more deeply... Read Entire Article",
-    "link": "https://www.techspot.com/news/112167-microsoft-rolls-out-copilot-vibe-working-mode-microsoft.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.753729"
-  },
-  {
-    "title": "Mercedes all-new C-Class electric sedan is a rolling tech demo with hyperscreens",
-    "summary": "Inside, the C-Class EV centers on large digital displays and interface design. A full-width digital layout dominates the cabin, anchored by what Mercedes-Benz calls the Superscreen as standard equipment. A more advanced Hyperscreen setup is available as an option, integrating multiple displays into a single continuous glass surface. The system... Read Entire Article",
-    "link": "https://www.techspot.com/news/112173-mercedes-all-new-c-class-electric-sedan-rolling.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.753856"
-  },
-  {
-    "title": "Intel's stock is back to near-record highs as AI boom moves beyond GPUs",
-    "summary": "The company reported $13.6 billion in revenue for the quarter, up 7% year over year and well above analyst expectations. Intel also raised its current-quarter revenue guidance to between $13.8 billion and $14.8 billion, exceeding the roughly $13 billion analysts had projected. Read Entire Article",
-    "link": "https://www.techspot.com/news/112177-intel-stock-back-near-record-highs-ai-boom.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.753963"
-  },
-  {
-    "title": "Xbox may be working on an even cheaper Game Pass, and possible Netflix bundle",
-    "summary": "The developer(s) of Better xCloud, a third-party plug-in that adds numerous features to Xbox Cloud Gaming, recently uncovered code suggesting that Microsoft plans to introduce at least one more Xbox Game Pass subscription plan. While no pricing information for the new tier is available, and Microsoft has not announced anything,... Read Entire Article",
-    "link": "https://www.techspot.com/news/112171-xbox-may-working-even-cheaper-game-pass-possible.html",
-    "categories": [
-      "Tech News",
+      "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-25T09:36:02.754119"
+    "processed_date": "2026-04-26T09:36:37.659303"
   },
   {
-    "title": "Samsung workers threaten strike, demand share of $38 billion AI memory windfall",
-    "summary": "Samsung's memory business is central to the current upswing in the chip market. Alongside SK Hynix and Micron, the company is one of the three major producers of DRAM and high-bandwidth memory (HBM). These chips are now critical for AI training and inference systems, where memory bandwidth has become as... Read Entire Article",
-    "link": "https://www.techspot.com/news/112172-samsung-workers-threaten-strike-demand-share-38-billion.html",
+    "title": "Enthusiast fixes 30-year issue with S3 graphics card hacking the VBIOS fixes black levels by scalpelling out the Virge DX s pedestal bit ",
+    "summary": "A retro hardware enthusiast has demonstrated a fix that eliminates the washed-out appearance people witness when using 1990s graphics cards from S3.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/enthusiast-fixes-30-year-issue-with-s3-graphics-card-hacking-the-vbios-fixes-black-levels-by-scalpelling-out-the-virge-dxs-pedestal-bit",
     "categories": [
-      "AI & ML",
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-26T09:36:37.659409"
+  },
+  {
+    "title": "US Navy tests laser weapon that shoots down drones on the USS George H.W. Bush supercarrier system tracked, engaged, and neutralized multiple target drones, has essentially unlimited power source",
+    "summary": "The LOCUST Laser Weapon System was tested aboard the USS George H.W. Bush and neutralized multiple target drones.",
+    "link": "https://www.tomshardware.com/tech-industry/us-navy-tests-laser-weapon-that-shoots-down-drones-on-the-uss-george-h-w-bush-supercarrier-system-tracked-engaged-and-neutralized-multiple-target-drones-has-essentially-unlimited-power-source",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-26T09:36:37.659519"
+  },
+  {
+    "title": "LightInk An ESP32-based, solar-powered E-ink smartwatch with up to 10 months of battery life",
+    "summary": "Daniel Ansorregui has developed LightInk, an open-source solar-powered E-ink watch inspired by 90s solar digital watches. It features a 1.54-inch e-paper display and supports Wi-Fi, Bluetooth, LoRa, and GPS, running on a 100mAh battery. The project integrates a custom low-quiescent-power design using a TPS63900 buck-boost converter, capacitive-touch input, and deep-sleep-driven firmware, along with ultra-fast partial e-ink updates (<1 ms active time) and precise RTC timekeeping with drift calibration. It also supports solar-first operation (no dedicated charging IC) and dynamic power gating of peripherals, enabling around 9 10 months of operation on a small battery supplemented by solar power. LightInk specifications: System-in-package ESP32-PICO-D4 SiP CPU Dual-core processor @ 240MHz Memory 520KB SRAM Storage 4MB flash Wireless 2.4 GHz Wi-Fi 4 up to 150 Mbps and Bluetooth 4.2 BR/LE connectivity Display 1.54-inch 200 200 B/W e-Paper panel (GDEH0154D67 or compatible) Audio 10-15mm piezo electric disc speaker Connectivity [...] The post LightInk An ESP32-based, solar-powered E-ink smartwatch with up to 10 months of battery life appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/26/lightink-an-esp32-based-solar-powered-e-ink-smartwatch-with-up-to-10-months-of-battery-life/",
+    "categories": [
+      "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.754236"
+    "quality_score": 10,
+    "processed_date": "2026-04-26T09:36:37.660110"
   },
   {
-    "title": "Weak IoT security could make EV chargers vulnerable to mass shutdowns",
-    "summary": "Public EV chargers, shared e-bikes, and rental scooters share a common problem: they are unattended, app-controlled devices deployed in public, potentially letting anyone inspect the hardware and mobile software. Read Entire Article",
-    "link": "https://www.techspot.com/news/112176-weak-iot-security-leaves-public-ev-chargers-vulnerable.html",
+    "title": "BMW brings color changing tech closer to production with the iX3 Flow Edition",
+    "summary": "Unveiled at the 2026 Beijing Auto Show, the BMW iX3 Flow Edition integrates E Ink's Prism technology directly into the vehicle's hood, bringing the concept closer to real-world application. Unlike earlier efforts that relied on external layers of segmented panels, this version embeds the electrophoretic system into the structure of... Read Entire Article",
+    "link": "https://www.techspot.com/news/112186-bmw-brings-color-changing-tech-closer-production-ix3.html",
     "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-26T09:36:37.661366"
+  },
+  {
+    "title": "Windows Insiders can now pause updates indefinitely, in 35-day increments",
+    "summary": "A new Windows update, currently rolling out to Dev Channel and Experimental Channel Insiders, overhauls how users manage system updates. Windows Update now allows indefinite postponements, the option to skip updates during initial setup, and the ability to reboot without immediately installing updates. Read Entire Article",
+    "link": "https://www.techspot.com/news/112184-windows-insiders-can-now-pause-updates-indefinitely-35.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-26T09:36:37.661479"
+  },
+  {
+    "title": "The next Xbox could be waiting on the memory market",
+    "summary": "Sharma described the decision-making process as an equation, noting that memory costs influence multiple variables. She said Microsoft's focus is on building a console capable of running great games including PC titles while accounting for market conditions that remain in flux. Read Entire Article",
+    "link": "https://www.techspot.com/news/112185-next-xbox-could-waiting-memory-market.html",
+    "categories": [
+      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.754341"
+    "processed_date": "2026-04-26T09:36:37.661600"
   },
   {
-    "title": "Assassin's Creed Black Flag Resynced adds ray tracing, reworked combat, and handheld support",
-    "summary": "The company has rebuilt Black Flag's graphics from the ground up using the latest version of its Anvil engine, likely reusing technology from last year's entry, Assassin's Creed Shadows. The visuals incorporate micropolygons, physically based rendering, advanced water simulation, ray-traced global illumination, and RT reflections. Read Entire Article",
-    "link": "https://www.techspot.com/news/112169-assassin-creed-black-flag-resynced-adds-ray-tracing.html",
+    "title": "Battlefield movie reportedly in the works with Christopher McQuarrie and Michael B. Jordan",
+    "summary": "According to The Hollywood Reporter, producer Christopher McQuarrie and collaborators pitched a feature film adaptation of EA's Battlefield series to studios and streaming services this week. McQuarrie is expected to write, direct, and produce the project, while Oscar-winning actor Michael B. Jordan (Sinners) is reportedly in talks to produce and... Read Entire Article",
+    "link": "https://www.techspot.com/news/112182-battlefield-movie-reportedly-works-christopher-mcquarrie-michael-b.html",
     "categories": [
-      "GPUs"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.754459"
+    "processed_date": "2026-04-26T09:36:37.661722"
   },
   {
-    "title": "OpenAI debuts GPT 5.5, Nvidia gave early access to 10,000 employees through Codex",
-    "summary": "Codex now runs on GPT-5.5 hosted on Nvidia's GB200 NVL72 rack-scale systems. Nvidia says the systems deliver 35x lower cost per million tokens and 50x higher token output per second per megawatt than prior-generation systems, economics it argues make frontier-model inference viable at enterprise scale. Read Entire Article",
-    "link": "https://www.techspot.com/news/112170-openai-debuts-gpt-55-nvidia-gave-early-access.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.754571"
-  },
-  {
-    "title": "Microsoft offers voluntary buyouts to thousands of US workers as AI spending takes priority",
-    "summary": "The buyout program will open to around 7% of Microsoft's US employees, according to CNBC, which cites a person familiar with the plans who can't be named. Read Entire Article",
-    "link": "https://www.techspot.com/news/112174-microsoft-offers-voluntary-buyouts-thousands-us-workers-ai.html",
+    "title": "Samsung phone division could post its first ever loss as AI drives memory costs higher",
+    "summary": "The financial pressures stem from a fundamental shift in smartphone bill of materials. DRAM and NAND used to be minor costs but now dominate device expenses. Read Entire Article",
+    "link": "https://www.techspot.com/news/112183-samsung-phone-division-could-post-first-ever-loss.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-25T09:36:02.754669"
+    "processed_date": "2026-04-26T09:36:37.661825"
   }
 ]

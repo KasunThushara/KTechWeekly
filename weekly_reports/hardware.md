@@ -1,5 +1,5 @@
 # 💻 Hardware
-**Week of April 25, 2026**
+**Week of April 26, 2026**
 
 *Computing hardware and development boards*
 
@@ -7,109 +7,109 @@
 
 ## 📊 Summary
 - **Articles this week:** 10
-- **Report generated:** 2026-04-25 09:36
+- **Report generated:** 2026-04-26 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Axiomtek PICO570 An Intel Core Ultra Meteor Lake Pico-ITX SBC with DDR5-5600 SO-DIMM memory, HDMI 2.1 up to 4Kp120 ⭐
+### 1. Intel VP claims up to 30% of CPU performance is untapped by modern games software optimization is critical to unlocking full potential of hybrid CPUs ⭐
 
-Axiomtek PICO570 is a high-performance Pico-ITX SBC with Intel Core Ultra Meteor Lake-U processor. It features DDR5-5600 SO-DIMM memory, HDMI 2.1 up to 4Kp120, and is designed for edge AI applications. The board is compact and has a wide operating temperature range.
+Intel claims up to 30% of CPU performance is untapped due to suboptimal software, and better optimization can unlock its true potential. Hybrid architecture CPUs are capable but underutilized, and software updates can improve performance without hardware upgrades. This highlights the importance of software optimization for modern CPU architectures.
 
-💡 *Edge AI capabilities get a boost with upgradeable, high-performance SBC*
+💡 *Software optimization is key to unlocking hybrid CPU potential fully.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/24/axiomtek-pico570-an-intel-core-ultra-meteor-lake-pico-itx-sbc-with-ddr5-5600-so-dimm-memory-hdmi-2-1-up-to-4kp120/)
-
----
-
-### 2. New 3D device computes using living brain cells bioelectronic device uses 3D electronic mesh design paired with living tissue 
-
-Princeton researchers have developed a 3D bioelectronic device that combines living brain cells with embedded electronics, allowing neurons outside the body to perform simple computational tasks. This system may help scientists study brain function, neurological disease, and the brain's extraordinary energy efficiency.
-
-💡 *Unlocking new insights into brain function and disease treatment possibilities*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/new-3d-device-computes-using-living-brain-cells-bioelectronic-device-uses-3d-electronic-mesh-design-paired-with-living-tissue)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-vp-claims-up-to-30-percent-of-cpu-performance-is-untapped-by-modern-games-software-optimization-is-critical-to-unlocking-full-potential-of-hybrid-cpus)
 
 ---
 
-### 3. NEO Semiconductor's revolutionary 3D X-DRAM for AI processors has passed proof-of-concept validation company secures funding to develop next-gen memory HBM alternative 
+### 2. Steam Controller leaked review points to $99 MSRP more expensive than PS5 and Xbox controllers and Nintendo Joy-Cons 
 
-NEO Semiconductor's 3D X-DRAM has passed proof-of-concept testing, targeting cheaper AI memory. The technology leverages 3D NAND processes to create an alternative to HBM. The company has secured funding to further develop this innovation.
+A leaked review of the Steam Controller revealed its $99 MSRP, making it more expensive than other popular gaming controllers.
 
-💡 *Revolutionizing AI memory with cost-effective 3D X-DRAM technology*
+💡 *Gaming enthusiasts face higher costs with Steam's new controller option.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/neo-semiconductors-revolutionary-3d-x-dram-for-ai-processors-has-passed-proof-of-concept-validation-company-secures-funding-to-develop-next-gen-memory-hbm-alternative)
-
----
-
-### 4. KTC H27P3 27-inch 5K dual-mode gaming monitor review: Incredible pixel density and flexibility 
-
-The KTC H27P3 is a 27-inch 5K gaming monitor with impressive pixel density. It features a high-quality IPS panel, Adaptive-Sync, HDR, and wide gamut color. This monitor delivers accurate colors and flexibility.
-
-💡 *Exceptional pixel density enhances gaming and productivity experiences.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/ktc-h27p3-27-inch-5k-dual-mode-gaming-monitor-review)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-leaked-review-points-to-usd99-msrp-more-expensive-than-ps5-and-xbox-controllers-and-nintendo-joy-cons)
 
 ---
 
-### 5. OpenAI Codex brings agent AI workflows to coding tasks 
+### 3. Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc "Celestial" family gaming GPU remains uncertain even for the next-gen Xe4 "Druid" lineup that lands in 2027 
 
-OpenAI Codex streamlines coding tasks with parallel execution and AI-powered code review.
+Intel reportedly cancels discrete gaming GPUs for Xe3P, focuses on datacenter and mobile.
 
-💡 *Automation boosts developer productivity with AI-driven coding workflows.*
+💡 *Gaming GPU market absence hurts Intel's consumer segment growth opportunities.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7870-openai-codex.html)
-
----
-
-### 6. CPU requirements for AI workloads are multiplying, driving intensifying shortages and price hikes Intel already shifting production from consumer chips to Xeon as inference workloads drive server CPU ratios back toward parity with GPUs 
-
-CPU requirements for AI workloads are increasing, driving shortages and price hikes. Intel is shifting production to focus on Xeon chips for inference workloads. This shift may lead to a convergence of CPU-GPU ratios in servers.
-
-💡 *Rising CPU demands threaten to equalize CPU-GPU server workload balances.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/shifting-need-for-cpus-in-ai-workloads-drives-intensifying-shortages-price-hikes)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intel-has-reportedly-killed-discrete-gaming-gpus-for-the-upcoming-xe3p-arc-celestial-family-gaming-gpu-remains-uncertain-even-for-the-next-gen-xe4-druid-lineup-that-lands-in-2027)
 
 ---
 
-### 7. Save a massive $520 on a gaming PC upgrade with this mega Newegg DDR5 RAM combo worth $1,159 separately free 1TB SSD thrown in ramps up the value of this $639.99 upgrade bundle with 32GB memory kit and a MSI MAG motherboard 
+### 4. AMD's memory-boosting EXPO 1.2 is here, adds support for three Chinese memory vendors performance gains could be muted until Zen 6 
 
-Upgrade your gaming PC with a DDR5 RAM combo, MSI motherboard, and free 1TB SSD. This Newegg bundle offers 32GB of memory and a discounted price of $639.99. Save over $500 compared to separate purchases.
+AMD EXPO 1.2 is a memory-boosting technology for AM5 motherboards, offering support for three Chinese memory vendors. It aims to improve performance, but gains may be muted until Zen 6. EXPO 1.2 is now available on select motherboards.
 
-💡 *Massive $520 savings on gaming PC upgrade bundle with DDR5 RAM combo.*
+💡 *Performance gains may be muted until Zen 6 architecture*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-a-massive-usd520-on-a-gaming-pc-upgrade-with-this-mega-newegg-ddr5-ram-combo-worth-usd1-159-separately-free-1tb-ssd-thrown-in-ramps-up-the-value-of-this-usd639-99-upgrade-bundle-with-32gb-memory-kit-and-a-msi-mag-motherboard)
-
----
-
-### 8. Melody Machine firmware transforms LILYGO T-LoRa Pager into a portable MP3 player and Internet radio 
-
-Melody Machine firmware transforms the LILYGO T-LoRa Pager into a portable MP3 player and internet radio, offering features like WiFi connectivity, MP3 playback, and internet radio capabilities. The firmware is built on an open-source design and provides a customizable graphical user interface. It also supports settings saving and auto-reboot functionality.
-
-💡 *Converts a LoRa device into a versatile portable media player solution.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/25/melody-machine-firmware-transforms-lilygo-t-lora-pager-into-a-portable-mp3-player-and-internet-radio/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/amd-expo-1-2-is-here-but-you-may-not-notice-significant-gains-until-zen-6-upgraded-ram-overclocking-tech-will-unlock-the-next-level-of-memory-speed-on-ryzen-cpus)
 
 ---
 
-### 9. Ransomware groups are using "post-quantum" hype to intimidate victims 
+### 5. LightInk An ESP32-based, solar-powered E-ink smartwatch with up to 10 months of battery life 
 
-Ransomware groups are using 'post-quantum' hype to intimidate victims, leveraging the Kyber algorithm. Kyber is a standardized encryption system designed for future quantum computers. It was first observed in circulation as early as September.
+LightInk is a solar-powered E-ink smartwatch with up to 10 months of battery life. It features a 1.54-inch e-paper display and supports various wireless connectivity options. The watch is built using an ESP32-based design with a low-quiescent-power system.
 
-💡 *Abusing post-quantum hype enables ransomware groups to appear more sophisticated.*
+💡 *Extremely low power consumption enables months-long battery life on small solar-powered battery*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112175-ransomware-groups-using-post-quantum-hype-intimidate-victims.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/26/lightink-an-esp32-based-solar-powered-e-ink-smartwatch-with-up-to-10-months-of-battery-life/)
 
 ---
 
-### 10. Weak IoT security could make EV chargers vulnerable to mass shutdowns 
+### 6. Intel's upcoming Xeon 7 "Diamond Rapids" server CPUs reportedly delayed to 2027 Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak 
 
-Public EV chargers and shared mobility devices may be vulnerable to attacks due to weak IoT security. These devices are often left unattended, making them accessible to potential hackers. This poses a risk of mass shutdowns and disruptions to essential services.
+Intel's Xeon 7 'Diamond Rapids' CPU launch delayed to 2027, not this year as initially planned. The Clearwater Forest E-core-only CPU is still expected to release in the first half of 2024. The next-gen Coral Rapids family is set to arrive in 2028.
 
-💡 *Unattended IoT devices leave public services vulnerable to catastrophic failures.*
+💡 *Intel's server CPU roadmap faces significant delays and revisions.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112176-weak-iot-security-leaves-public-ev-chargers-vulnerable.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-xeon-7-diamond-rapids-server-cpus-reportedly-delayed-to-2027-next-gen-coral-rapids-lineup-lands-2028-but-can-be-accelerated-according-to-new-leak)
+
+---
+
+### 7. Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7800X3D Can Intel finally beat X3D? 
+
+Intel's Core Ultra 7 270K Plus challenges the AMD Ryzen 7 7800X3D in gaming benchmarks. The Core Ultra 7 270K Plus offers competitive performance in various tasks, but its gaming prowess is put to the test against the X3D. Our comparison highlights the strengths and weaknesses of each CPU.
+
+💡 *Intel's Core Ultra 7 270K Plus closes the gaming gap with X3D.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-amd-ryzen-7-7800x3d-cpu-faceoff)
+
+---
+
+### 8. Enthusiast fixes 30-year issue with S3 graphics card hacking the VBIOS fixes black levels by scalpelling out the Virge DX s pedestal bit  
+
+A retro hardware enthusiast has found a fix for a 30-year issue with S3 graphics cards, eliminating the washed-out appearance caused by the Virge DX's pedestal bit. This was achieved by hacking the VBIOS to scalp out the problematic bit. The fix enables users to enjoy improved black levels on their retro gaming systems.
+
+💡 *Preserving retro gaming experiences with hardware tweaks matters greatly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/enthusiast-fixes-30-year-issue-with-s3-graphics-card-hacking-the-vbios-fixes-black-levels-by-scalpelling-out-the-virge-dxs-pedestal-bit)
+
+---
+
+### 9. US Navy tests laser weapon that shoots down drones on the USS George H.W. Bush supercarrier system tracked, engaged, and neutralized multiple target drones, has essentially unlimited power source 
+
+The US Navy tested the LOCUST Laser Weapon System on the USS George H.W. Bush, successfully neutralizing multiple target drones.
+
+💡 *Game-changing laser technology offers limitless power and precise drone destruction capability.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-navy-tests-laser-weapon-that-shoots-down-drones-on-the-uss-george-h-w-bush-supercarrier-system-tracked-engaged-and-neutralized-multiple-target-drones-has-essentially-unlimited-power-source)
+
+---
+
+### 10. The next Xbox could be waiting on the memory market 
+
+The next Xbox's release might be impacted by memory market conditions. Microsoft aims to create a console capable of running great games and PC titles while considering market fluctuations. The company's decision-making process is driven by these factors.
+
+💡 *Memory costs drive Xbox development timeline uncertainty*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112185-next-xbox-could-waiting-memory-market.html)
 
 ---
 

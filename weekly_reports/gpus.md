@@ -1,75 +1,55 @@
 # 🎮 GPUs
-**Week of April 25, 2026**
+**Week of April 26, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-04-25 09:36
+- **Articles this week:** 4
+- **Report generated:** 2026-04-26 09:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. KTC H27P3 27-inch 5K dual-mode gaming monitor review: Incredible pixel density and flexibility 
+### 1. Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc "Celestial" family gaming GPU remains uncertain even for the next-gen Xe4 "Druid" lineup that lands in 2027 
 
-The KTC H27P3 is a 27-inch 5K gaming monitor with impressive pixel density. It features a high-quality IPS panel, Adaptive-Sync, HDR, and wide gamut color. This monitor delivers accurate colors and flexibility.
+Intel reportedly cancels discrete gaming GPUs for Xe3P, focuses on datacenter and mobile.
 
-💡 *Exceptional pixel density enhances gaming and productivity experiences.*
+💡 *Gaming GPU market absence hurts Intel's consumer segment growth opportunities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/ktc-h27p3-27-inch-5k-dual-mode-gaming-monitor-review)
-
----
-
-### 2. Xbox outlines broad plan to revitalize brand with a back-to-basics approach that focuses on console New Xbox strategy reprioritizes console, while bolstering cloud and services 
-
-Microsoft's Xbox brand is shifting focus back to its console roots, emphasizing a more streamlined approach to gaming. The new 'We are Xbox' open letter outlines four key points for the brand's identity transformation. This change aims to revitalize the brand and its products.
-
-💡 *Prioritizing consoles to revive Xbox brand's core identity*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/xbox-outlines-broad-plan-to-revitalize-brand-with-a-back-to-basics-approach-that-focuses-on-console-new-xbox-strategy-reprioritizes-console-while-bolstering-cloud-and-services)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intel-has-reportedly-killed-discrete-gaming-gpus-for-the-upcoming-xe3p-arc-celestial-family-gaming-gpu-remains-uncertain-even-for-the-next-gen-xe4-druid-lineup-that-lands-in-2027)
 
 ---
 
-### 3. Save a massive $520 on a gaming PC upgrade with this mega Newegg DDR5 RAM combo worth $1,159 separately free 1TB SSD thrown in ramps up the value of this $639.99 upgrade bundle with 32GB memory kit and a MSI MAG motherboard 
+### 2. Score an RTX 5070 prebuilt with a Ryzen 7 7700X & 16 GB of DDR5 for $650 off Stack these promo codes to save on Skytech Gaming's high-end systems 
 
-Upgrade your gaming PC with a DDR5 RAM combo, MSI motherboard, and free 1TB SSD. This Newegg bundle offers 32GB of memory and a discounted price of $639.99. Save over $500 compared to separate purchases.
+Skytech Gaming offers prebuilt RTX 5070 systems with Ryzen 7 7700X and 16 GB DDR5 for a discounted price of $650 off. The Shadow 5 and Archangel 5 systems are available in black and white setups, respectively, and are designed to meet gaming needs. This makes high-end gaming more affordable for consumers.
 
-💡 *Massive $520 savings on gaming PC upgrade bundle with DDR5 RAM combo.*
+💡 *High-end gaming systems are now within budget-friendly reach.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-a-massive-usd520-on-a-gaming-pc-upgrade-with-this-mega-newegg-ddr5-ram-combo-worth-usd1-159-separately-free-1tb-ssd-thrown-in-ramps-up-the-value-of-this-usd639-99-upgrade-bundle-with-32gb-memory-kit-and-a-msi-mag-motherboard)
-
----
-
-### 4. Intel's stock is back to near-record highs as AI boom moves beyond GPUs 
-
-Intel's stock surged near-record highs after beating revenue expectations, citing strong AI demand beyond GPUs.
-
-💡 *Intel capitalizes on AI growth beyond traditional GPU-driven segments.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112177-intel-stock-back-near-record-highs-ai-boom.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/score-an-rtx-5070-prebuilt-with-a-ryzen-7-7700x-and-16-gb-of-ddr5-for-usd650-off-stack-these-promo-codes-to-save-on-skytech-gamings-high-end-systems)
 
 ---
 
-### 5. Assassin's Creed Black Flag Resynced adds ray tracing, reworked combat, and handheld support 
+### 3. Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7800X3D Can Intel finally beat X3D? 
 
-Assassin's Creed Black Flag Resynced features rebuilt graphics with ray tracing and reworked combat.
+Intel's Core Ultra 7 270K Plus challenges the AMD Ryzen 7 7800X3D in gaming benchmarks. The Core Ultra 7 270K Plus offers competitive performance in various tasks, but its gaming prowess is put to the test against the X3D. Our comparison highlights the strengths and weaknesses of each CPU.
 
-💡 *Revamped Assassin's Creed Black Flag offers improved gaming immersion experience.*
+💡 *Intel's Core Ultra 7 270K Plus closes the gaming gap with X3D.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112169-assassin-creed-black-flag-resynced-adds-ray-tracing.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-amd-ryzen-7-7800x3d-cpu-faceoff)
 
 ---
 
-### 6. OpenAI debuts GPT 5.5, Nvidia gave early access to 10,000 employees through Codex 
+### 4. Enthusiast fixes 30-year issue with S3 graphics card hacking the VBIOS fixes black levels by scalpelling out the Virge DX s pedestal bit  
 
-OpenAI has debuted GPT-5.5, while Nvidia provides access to 10,000 employees through Codex. This new system is hosted on Nvidia's GB200 NVL72 rack-scale systems, significantly improving efficiency and cost. The systems deliver 35x lower cost and 50x higher token output per second.
+A retro hardware enthusiast has found a fix for a 30-year issue with S3 graphics cards, eliminating the washed-out appearance caused by the Virge DX's pedestal bit. This was achieved by hacking the VBIOS to scalp out the problematic bit. The fix enables users to enjoy improved black levels on their retro gaming systems.
 
-💡 *Nvidia's advancements make frontier AI models viable at enterprise scale.*
+💡 *Preserving retro gaming experiences with hardware tweaks matters greatly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112170-openai-debuts-gpt-55-nvidia-gave-early-access.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/enthusiast-fixes-30-year-issue-with-s3-graphics-card-hacking-the-vbios-fixes-black-levels-by-scalpelling-out-the-virge-dxs-pedestal-bit)
 
 ---
 
