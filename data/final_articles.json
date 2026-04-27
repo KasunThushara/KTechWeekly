@@ -1,210 +1,260 @@
 [
   {
-    "title": "Score an RTX 5070 prebuilt with a Ryzen 7 7700X & 16 GB of DDR5 for $650 off Stack these promo codes to save on Skytech Gaming's high-end systems",
-    "summary": "Skytech Gaming offers prebuilt RTX 5070 systems with Ryzen 7 7700X and 16 GB DDR5 for a discounted price of $650 off. The Shadow 5 and Archangel 5 systems are available in black and white setups, respectively, and are designed to meet gaming needs. This makes high-end gaming more affordable for consumers.",
-    "link": "https://www.tomshardware.com/pc-components/score-an-rtx-5070-prebuilt-with-a-ryzen-7-7700x-and-16-gb-of-ddr5-for-usd650-off-stack-these-promo-codes-to-save-on-skytech-gamings-high-end-systems",
+    "title": "Developer creates a basic first person shooter game using Gaussian splats, and you can play it for free in your browser",
+    "summary": "A basic first-person shooter game showcases Gaussian splats technology in-browser, offering a free playable experience. Although the game is simple, its concept demonstrates the potential of this innovative technique. It highlights the feasibility of complex graphics in web-based environments.",
+    "link": "https://www.tomshardware.com/software/programming/developer-creates-a-basic-first-person-shooter-game-using-gaussian-splats-and-you-can-play-it-for-free-in-your-browser",
     "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.159564",
+    "insight": "Real-time graphics capabilities in browsers enable new gaming experiences."
+  },
+  {
+    "title": "Linux kernel's second-in-command uses local AI bot to hunt bugs, powered by 'clanker' system with AMD's Ryzen AI Max+ Framework Desktop has resulted in close to two dozen patches",
+    "summary": "The Linux kernel's second-in-command, Greg Kroah-Hartman, uses AI to hunt bugs. His AI-assisted bug-finding tool is powered by the 'clanker' system and AMD's Ryzen AI Max+ Framework. This has resulted in multiple patches.",
+    "link": "https://www.tomshardware.com/software/linux/linux-kernels-second-in-command-uses-framework-desktop-to-hunt-bugs-with-local-ai",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.159691",
+    "insight": "AI-driven bug hunting improves Linux kernel's stability and security"
+  },
+  {
+    "title": "RTX 4090 sent for repair is a sophisticated fake with laser-etched VRAM and core, 'This is the best scam I've ever seen' Scammers pulled a factory-level job to sell a dud to unsuspecting customer",
+    "summary": "A sophisticated counterfeit Asus ROG Strix 4090 was sent for repair with fake VRAM and core, highlighting the increasing sophistication of scammers in the tech industry.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/rtx-4090-sent-for-repair-is-a-sophisticated-fake-with-laser-etched-vram-and-core-this-is-the-best-scam-ive-ever-seen-scammers-pulled-a-factory-level-job-to-sell-a-dud-to-unsuspecting-customer",
+    "categories": [
+      "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.658187",
-    "insight": "High-end gaming systems are now within budget-friendly reach."
+    "processed_date": "2026-04-27T10:34:34.159860",
+    "insight": "Counterfeiters are replicating factory-quality components with surprising accuracy and detail."
   },
   {
-    "title": "Steam Controller leaked review points to $99 MSRP more expensive than PS5 and Xbox controllers and Nintendo Joy-Cons",
-    "summary": "A leaked review of the Steam Controller revealed its $99 MSRP, making it more expensive than other popular gaming controllers.",
-    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-leaked-review-points-to-usd99-msrp-more-expensive-than-ps5-and-xbox-controllers-and-nintendo-joy-cons",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-26T09:36:37.658327",
-    "insight": "Gaming enthusiasts face higher costs with Steam's new controller option."
-  },
-  {
-    "title": "Intel's upcoming Xeon 7 \"Diamond Rapids\" server CPUs reportedly delayed to 2027 Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak",
-    "summary": "Intel's Xeon 7 'Diamond Rapids' CPU launch delayed to 2027, not this year as initially planned. The Clearwater Forest E-core-only CPU is still expected to release in the first half of 2024. The next-gen Coral Rapids family is set to arrive in 2028.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-xeon-7-diamond-rapids-server-cpus-reportedly-delayed-to-2027-next-gen-coral-rapids-lineup-lands-2028-but-can-be-accelerated-according-to-new-leak",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.658469",
-    "insight": "Intel's server CPU roadmap faces significant delays and revisions."
-  },
-  {
-    "title": "Microsoft will allow users to indefinitely pause updates in Windows 11 first change in over a decade to the mandatory update policy",
-    "summary": "Microsoft is giving Windows 11 users more control over updates, allowing them to pause indefinitely and restoring normal shutdown options even when updates are pending. This change aims to improve user experience and flexibility. Updates will also be made clearer and more transparent.",
-    "link": "https://www.tomshardware.com/software/windows/microsoft-will-allow-users-to-indefinitely-pause-updates-in-windows-11-first-change-in-over-a-decade-to-the-mandatory-update-policy",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.658589",
-    "insight": "Users regain control over Windows 11 updates for the first time"
-  },
-  {
-    "title": "Maine governor vetoes bill that bans large new data centers says legislature should ve exempted one particular well-supported data center",
-    "summary": "Maine Governor Janet Mills vetoed a data center moratorium bill, citing a specific project's impact.",
-    "link": "https://www.tomshardware.com/desktops/servers/maine-governor-vetoes-bill-that-bans-large-new-data-centers-says-legislature-shouldve-exempted-one-particular-well-supported-data-center",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.658706",
-    "insight": "Economic development vs environmental concerns in data center regulation matters"
-  },
-  {
-    "title": "Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc \"Celestial\" family gaming GPU remains uncertain even for the next-gen Xe4 \"Druid\" lineup that lands in 2027",
-    "summary": "Intel reportedly cancels discrete gaming GPUs for Xe3P, focuses on datacenter and mobile.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/intel-has-reportedly-killed-discrete-gaming-gpus-for-the-upcoming-xe3p-arc-celestial-family-gaming-gpu-remains-uncertain-even-for-the-next-gen-xe4-druid-lineup-that-lands-in-2027",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-26T09:36:37.658834",
-    "insight": "Gaming GPU market absence hurts Intel's consumer segment growth opportunities."
-  },
-  {
-    "title": "Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7800X3D Can Intel finally beat X3D?",
-    "summary": "Intel's Core Ultra 7 270K Plus challenges the AMD Ryzen 7 7800X3D in gaming benchmarks. The Core Ultra 7 270K Plus offers competitive performance in various tasks, but its gaming prowess is put to the test against the X3D. Our comparison highlights the strengths and weaknesses of each CPU.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-amd-ryzen-7-7800x3d-cpu-faceoff",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.658936",
-    "insight": "Intel's Core Ultra 7 270K Plus closes the gaming gap with X3D."
-  },
-  {
-    "title": "Your Walmart might be 3D printed firm building more than a dozen 3D-printed Walmart expansions with concrete-printing robots",
-    "summary": "Alquist 3D is using its A1X robot to 3D print Walmart expansions with concrete at a high speed.",
-    "link": "https://www.tomshardware.com/3d-printing/your-walmart-might-be-3d-printed-firm-building-more-than-a-dozen-3d-printed-walmart-expansions-alquist-sells-superstore-on-3d-concrete-printing-robots",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.659054",
-    "insight": "Revolutionizing construction with faster, more efficient 3D printing technology."
-  },
-  {
-    "title": "Intel VP claims up to 30% of CPU performance is untapped by modern games software optimization is critical to unlocking full potential of hybrid CPUs",
-    "summary": "Intel claims up to 30% of CPU performance is untapped due to suboptimal software, and better optimization can unlock its true potential. Hybrid architecture CPUs are capable but underutilized, and software updates can improve performance without hardware upgrades. This highlights the importance of software optimization for modern CPU architectures.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-vp-claims-up-to-30-percent-of-cpu-performance-is-untapped-by-modern-games-software-optimization-is-critical-to-unlocking-full-potential-of-hybrid-cpus",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-26T09:36:37.659194",
-    "insight": "Software optimization is key to unlocking hybrid CPU potential fully."
-  },
-  {
-    "title": "AMD's memory-boosting EXPO 1.2 is here, adds support for three Chinese memory vendors performance gains could be muted until Zen 6",
-    "summary": "AMD EXPO 1.2 is a memory-boosting technology for AM5 motherboards, offering support for three Chinese memory vendors. It aims to improve performance, but gains may be muted until Zen 6. EXPO 1.2 is now available on select motherboards.",
-    "link": "https://www.tomshardware.com/pc-components/ram/amd-expo-1-2-is-here-but-you-may-not-notice-significant-gains-until-zen-6-upgraded-ram-overclocking-tech-will-unlock-the-next-level-of-memory-speed-on-ryzen-cpus",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-26T09:36:37.659303",
-    "insight": "Performance gains may be muted until Zen 6 architecture"
-  },
-  {
-    "title": "Enthusiast fixes 30-year issue with S3 graphics card hacking the VBIOS fixes black levels by scalpelling out the Virge DX s pedestal bit ",
-    "summary": "A retro hardware enthusiast has found a fix for a 30-year issue with S3 graphics cards, eliminating the washed-out appearance caused by the Virge DX's pedestal bit. This was achieved by hacking the VBIOS to scalp out the problematic bit. The fix enables users to enjoy improved black levels on their retro gaming systems.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/enthusiast-fixes-30-year-issue-with-s3-graphics-card-hacking-the-vbios-fixes-black-levels-by-scalpelling-out-the-virge-dxs-pedestal-bit",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.659409",
-    "insight": "Preserving retro gaming experiences with hardware tweaks matters greatly."
-  },
-  {
-    "title": "US Navy tests laser weapon that shoots down drones on the USS George H.W. Bush supercarrier system tracked, engaged, and neutralized multiple target drones, has essentially unlimited power source",
-    "summary": "The US Navy tested the LOCUST Laser Weapon System on the USS George H.W. Bush, successfully neutralizing multiple target drones.",
-    "link": "https://www.tomshardware.com/tech-industry/us-navy-tests-laser-weapon-that-shoots-down-drones-on-the-uss-george-h-w-bush-supercarrier-system-tracked-engaged-and-neutralized-multiple-target-drones-has-essentially-unlimited-power-source",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.659519",
-    "insight": "Game-changing laser technology offers limitless power and precise drone destruction capability."
-  },
-  {
-    "title": "LightInk An ESP32-based, solar-powered E-ink smartwatch with up to 10 months of battery life",
-    "summary": "LightInk is a solar-powered E-ink smartwatch with up to 10 months of battery life. It features a 1.54-inch e-paper display and supports various wireless connectivity options. The watch is built using an ESP32-based design with a low-quiescent-power system.",
-    "link": "https://www.cnx-software.com/2026/04/26/lightink-an-esp32-based-solar-powered-e-ink-smartwatch-with-up-to-10-months-of-battery-life/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-26T09:36:37.660110",
-    "insight": "Extremely low power consumption enables months-long battery life on small solar-powered battery"
-  },
-  {
-    "title": "BMW brings color changing tech closer to production with the iX3 Flow Edition",
-    "summary": "BMW has unveiled the iX3 Flow Edition, integrating E Ink's Prism technology into the vehicle's hood, bringing color-changing tech closer to production. This version embeds the electrophoretic system directly into the structure, moving beyond earlier external designs. The innovative design aims to revolutionize vehicle aesthetics.",
-    "link": "https://www.techspot.com/news/112186-bmw-brings-color-changing-tech-closer-production-ix3.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-26T09:36:37.661366",
-    "insight": "Embedded E Ink tech makes color-changing cars more practical"
-  },
-  {
-    "title": "Windows Insiders can now pause updates indefinitely, in 35-day increments",
-    "summary": "Windows Insiders can now pause updates indefinitely in 35-day increments, skip updates during initial setup, and reboot without installing updates.",
-    "link": "https://www.techspot.com/news/112184-windows-insiders-can-now-pause-updates-indefinitely-35.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.661479",
-    "insight": "Increased user control over system updates brings greater flexibility and peace of mind."
-  },
-  {
-    "title": "The next Xbox could be waiting on the memory market",
-    "summary": "The next Xbox's release might be impacted by memory market conditions. Microsoft aims to create a console capable of running great games and PC titles while considering market fluctuations. The company's decision-making process is driven by these factors.",
-    "link": "https://www.techspot.com/news/112185-next-xbox-could-waiting-memory-market.html",
+    "title": "Toyota s limited edition $3,500 Crown gaming chair has heating, cooling, and a USB-C seatbelt buckle Toyota Crown front car seat turned into gaming chair, enjoy in-car comforts while on your PC",
+    "summary": "Toyota has created a limited edition gaming chair, The Crown Collection, featuring heating, cooling, and a USB-C seatbelt buckle. This chair is designed for in-car comfort while PC gaming. The chair is based on the Toyota Crown front car seat.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/toyotas-limited-edition-usd3-500-crown-gaming-chair-has-heating-cooling-and-a-usb-c-seatbelt-buckle-enjoy-in-car-comforts-while-you-are-on-your-pc",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.661600",
-    "insight": "Memory costs drive Xbox development timeline uncertainty"
+    "processed_date": "2026-04-27T10:34:34.159994",
+    "insight": "Blurring lines between automotive and gaming luxury experiences"
   },
   {
-    "title": "Battlefield movie reportedly in the works with Christopher McQuarrie and Michael B. Jordan",
-    "summary": "A Battlefield film adaptation is reportedly in the works with Christopher McQuarrie and Michael B. Jordan. McQuarrie will write, direct, and produce the project, while Jordan is in talks to produce. The film aims to bring the popular EA series to the big screen.",
-    "link": "https://www.techspot.com/news/112182-battlefield-movie-reportedly-works-christopher-mcquarrie-michael-b.html",
+    "title": "Chernobyl virus turned 27 today, and it could brick your PC in ways modern malware can't by overwriting BIOS firmware",
+    "summary": "The Chernobyl virus, also known as CIH, first appeared 27 years ago today. It was a 1 KB malware that targeted Windows 9x machines, causing widespread damage. This virus could brick a PC by overwriting BIOS firmware.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/the-chernobyl-virus-turned-27-today-and-it-could-brick-your-pc-in-ways-modern-malware-cant",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.160098",
+    "insight": "Legacy malware like CIH can still outsmart modern security measures."
+  },
+  {
+    "title": "New metal 3D printer shrinks industrial tech down to workbench size with laser powder bed fusion system aims to bring laser metal printing to workshops and labs for $9,600",
+    "summary": "Scrap Labs has introduced the Scrap 1, a compact laser metal 3D printer for $9,600, making industrial technology more accessible to workshops and labs.",
+    "link": "https://www.tomshardware.com/3d-printing/new-metal-3d-printer-shrinks-industrial-tech-down-to-workbench-size-with-laser-powder-bed-fusion-system-aims-to-bring-laser-metal-printing-to-workshops-and-labs-for-usd9-600",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-27T10:34:34.160211",
+    "insight": "Affordable industrial tech empowers small-scale innovation and entrepreneurship."
+  },
+  {
+    "title": "AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU",
+    "summary": "The AMD Ryzen 5 7600X3D is a budget gaming CPU that offers excellent performance at an unbeatable value. It's a great option for those looking for a reliable and affordable gaming experience. The Ryzen 5 7600X3D is a great pick for budget-conscious gamers.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-7600x3d-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-27T10:34:34.160318",
+    "insight": "Higher power consumption for minimal performance gains is a concern"
+  },
+  {
+    "title": "Disabled gamer prototypes true one-handed keyboard-and-mouse controller, device nominated for award maker inspired to build device after losing right arm in an accident",
+    "summary": "A disabled gamer prototyped a one-handed keyboard-and-mouse controller to regain gaming capabilities. This innovative peripheral combines a mouse and keypad into a single ergonomic device for one-handed use of PCs and consoles. The device is nominated for an award.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/disabled-gamer-prototypes-true-one-handed-keyboard-and-mouse-controller-maker-inspired-to-build-device-after-losing-right-arm-in-an-accident",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.160442",
+    "insight": "Accessibility technology empowers gamers with disabilities to participate in gaming communities."
+  },
+  {
+    "title": "Commodore backs down over FPGA firmware lockdown firm stops trying to block third-party firmware installs but will stand firm against bricked modded units",
+    "summary": "Commodore has reversed its stance on third-party firmware installations, but will not support or replace modified units that become unusable.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/commodore-backs-down-over-fpga-firmware-lockdown-it-wont-now-try-and-block-third-party-firmware-installs-but-will-stand-firm-against-bricked-modded-units",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.160552",
+    "insight": "Commodore balances user freedom with responsibility for modding risks."
+  },
+  {
+    "title": "DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.S. escalates AI theft accusations U.S. gov't alleges IP theft by DeepSeek and other Chinese AI firms",
+    "summary": "DeepSeek launched a 1.6 trillion parameter V4 language model on Huawei chips. The model is the startup's most powerful to date. The U.S. government has accused DeepSeek of IP theft.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-launches-1-6-trillion-parameter-v4-on-huawei-chips-as-us-escalates-ai-theft-accusations",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-27T10:34:34.160663",
+    "insight": "Major AI advancements raise concerns about IP theft in the industry."
+  },
+  {
+    "title": "Taiwan's stock market surpasses the UK's despite having less than a quarter of the UK's economy AI boom propels Taiwan forward, TSMC alone accounts for more than 40% of Taiwan's total market value",
+    "summary": "Taiwan's stock market surpasses the UK's, driven by AI chip demand. Taiwan Semiconductor Manufacturing Company (TSMC) contributes significantly to the market value. The AI boom propels Taiwan forward in the global market.",
+    "link": "https://www.tomshardware.com/tech-industry/taiwan-stock-market-overtakes-the-uk",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.160772",
+    "insight": "Taiwan's economic influence grows with its dominance in AI chip production."
+  },
+  {
+    "title": "Intel reportedly says it boosted yields by selling what would normally be 'scrap' or 'low-expectation' CPUs customers more willing to accept lesser chips due to overwhelming CPU demand",
+    "summary": "Intel is selling lower-quality CPUs due to overwhelming demand, increasing revenue through sales of previously considered 'scrap' or 'low-expectation' chips.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-says-it-boosted-yields-by-selling-what-would-normally-be-scrap-or-low-expectation-cpus-customers-more-willing-to-accept-lesser-chips-due-to-overwhelming-cpu-demand",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.160900",
+    "insight": "Intel capitalizes on surplus by selling lower-grade CPUs profitably."
+  },
+  {
+    "title": "Enthusiast builds 3D-printed retro PC case and shares the files so you can print it yourself design fits ITX mobo and ATX PSU, comes with front 3.5-inch bay for USB ports",
+    "summary": "Build a 3D-printed retro PC case with an ITX mobo and ATX PSU in under 100 hours using the provided files and guide.",
+    "link": "https://www.tomshardware.com/3d-printing/enthusiast-builds-3d-printed-retro-pc-case-and-shares-3d-files-so-you-can-print-it-yourself-design-fits-itx-mobo-and-atx-psu-comes-with-front-3-5-inch-bay-for-usb-ports",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.161012",
+    "insight": "DIY enthusiasts can create a unique PC case at home with ease."
+  },
+  {
+    "title": "Turtle Beach's new mouse has a 2.25-inch touchscreen and hotswap batteries that last 15 hours apiece 'MC7' costs $160, part of company's new Command Series peripheral lineup",
+    "summary": "Turtle Beach's MC7 mouse features a 2.25-inch touchscreen and hotswap batteries lasting 15 hours.",
+    "link": "https://www.tomshardware.com/peripherals/turtle-beachs-new-mouse-has-a-2-25-inch-touchscreen-and-hotswap-batteries-that-last-15-hours-apiece-the-mc7-costs-usd160-part-of-companys-new-command-series-peripheral-lineup",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.161139",
+    "insight": "Innovative mouse design with integrated touchscreen boosts gaming experience"
+  },
+  {
+    "title": "Mobile SMS blasters in vehicles prowled Canadian streets, causing 13 million network disruptions and infiltrating tens of thousands of devices blaster blocked 911 calls, stole cellphone data",
+    "summary": "Authorities reported 3 individuals used SMS blasters for smishing attacks, disrupting networks and 911 calls.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/sms-blasters-were-cruising-canadian-streets-stealing-cellphone-data-and-blocking-emergency-911-calls-project-lighthouse-infiltrated-tens-of-thousands-of-devices-and-caused-13-million-network-disruptions",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.661722",
-    "insight": "High-profile collaboration could elevate Battlefield franchise's cinematic appeal."
+    "processed_date": "2026-04-27T10:34:34.161242",
+    "insight": "Nationwide security compromised by malicious, high-tech SMS spam campaigns."
   },
   {
-    "title": "Samsung phone division could post its first ever loss as AI drives memory costs higher",
-    "summary": "Samsung's phone division might face its first loss due to rising memory costs, driven by AI's growing demand for DRAM and NAND.",
-    "link": "https://www.techspot.com/news/112183-samsung-phone-division-could-post-first-ever-loss.html",
+    "title": "DARPA calls for proposals for autonomous underwater drones gov't looking for a small, cheap autonomous sub that can be developed and built quickly",
+    "summary": "DARPA seeks proposals for affordable, quickly deployable autonomous underwater drones.",
+    "link": "https://www.tomshardware.com/tech-industry/darpa-calls-for-proposals-for-autonomous-underwater-drones-govt-looking-for-a-small-cheap-autonomous-sub-that-can-be-developed-and-built-quickly",
     "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.161343",
+    "insight": "Enhanced underwater surveillance and response capabilities boost national security."
+  },
+  {
+    "title": "VitaLink A foldable 180 keyboard with an integrated 13-inch 4K touchscreen (Crowdfunding)",
+    "summary": "VitaLink is a portable, foldable keyboard with a 13-inch 4K touchscreen, ideal for on-the-go work and multitasking.",
+    "link": "https://www.cnx-software.com/2026/04/27/vitalink-a-foldable-180-keyboard-with-an-integrated-13-inch-4k-touchscreen/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-27T10:34:34.161893",
+    "insight": "Enhanced productivity through a self-contained, dual-screen portable setup."
+  },
+  {
+    "title": "Raspberry Pi CM0 system-on-module is now sold for $33 and up on AliExpress",
+    "summary": "The Raspberry Pi CM0 system-on-module is now available on AliExpress for $33 and up, featuring a Raspberry Pi RP3A0 SiP with 512MB RAM, optional eMMC flash, WiFi, and Bluetooth.",
+    "link": "https://www.cnx-software.com/2026/04/27/raspberry-pi-cm0-system-on-module-is-now-sold-for-33-and-up-on-aliexpress/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-27T10:34:34.162058",
+    "insight": "Raspberry Pi CM0 becomes more accessible to global developers and makers."
+  },
+  {
+    "title": "KernelUNO A lightweight OS for Arduino UNO with a Linux-like shell",
+    "summary": "KernelUNO is a lightweight OS for the Arduino UNO with a Linux-like shell, offering 23 built-in commands for file system and hardware control.",
+    "link": "https://www.cnx-software.com/2026/04/27/kerneluno-a-lightweight-os-for-arduino-uno-with-a-linux-like-shell/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.162224",
+    "insight": "Arduino UNO gains a Linux-like shell for enhanced functionality and customization."
+  },
+  {
+    "title": "GPU Prices Have Stopped Climbing, But the Market Is Still Broken",
+    "summary": "GPU prices have plateaued but remain elevated above MSRP worldwide.",
+    "link": "https://www.techspot.com/article/3115-gpu-pricing-q2-2026/",
+    "categories": [
+      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.661825",
-    "insight": "AI-driven demand boosts memory costs, threatening Samsung's profit margins."
+    "processed_date": "2026-04-27T10:34:34.163483",
+    "insight": "Unstable market persists despite decreased demand and prices stagnation."
+  },
+  {
+    "title": "Microsoft Visual Studio Professional 2026 is down to $35",
+    "summary": "Visual Studio Professional 2026 offers a comprehensive development environment for large-scale projects. It supports various programming languages, debuggers, and tools. This extensive suite is ideal for enterprise-level development.",
+    "link": "https://www.techspot.com/news/112188-microsoft-visual-studio-professional-2026-down-35.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-27T10:34:34.163652",
+    "insight": "Comprehensive development environment for large-scale projects and enterprise workflows."
+  },
+  {
+    "title": "Steam Controller leak hints at $99 price tag and dual trackpad design",
+    "summary": "The Steam Controller is expected to cost $99 without subsidies. It was announced alongside a new Steam Machine and Steam Frame VR headset. The price reflects Valve's decision to not subsidize new hardware.",
+    "link": "https://www.techspot.com/news/112187-steam-controller-leak-hints-99-cost-dual-trackpad.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-27T10:34:34.163846",
+    "insight": "Valve breaks away from hardware subsidization model"
   }
 ]

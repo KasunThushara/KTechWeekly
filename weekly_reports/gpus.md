@@ -1,5 +1,5 @@
 # 🎮 GPUs
-**Week of April 26, 2026**
+**Week of April 27, 2026**
 
 *Graphics cards and compute accelerators*
 
@@ -7,49 +7,49 @@
 
 ## 📊 Summary
 - **Articles this week:** 4
-- **Report generated:** 2026-04-26 09:37
+- **Report generated:** 2026-04-27 10:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc "Celestial" family gaming GPU remains uncertain even for the next-gen Xe4 "Druid" lineup that lands in 2027 
+### 1. AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU ⭐
 
-Intel reportedly cancels discrete gaming GPUs for Xe3P, focuses on datacenter and mobile.
+The AMD Ryzen 5 7600X3D is a budget gaming CPU that offers excellent performance at an unbeatable value. It's a great option for those looking for a reliable and affordable gaming experience. The Ryzen 5 7600X3D is a great pick for budget-conscious gamers.
 
-💡 *Gaming GPU market absence hurts Intel's consumer segment growth opportunities.*
+💡 *Higher power consumption for minimal performance gains is a concern*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intel-has-reportedly-killed-discrete-gaming-gpus-for-the-upcoming-xe3p-arc-celestial-family-gaming-gpu-remains-uncertain-even-for-the-next-gen-xe4-druid-lineup-that-lands-in-2027)
-
----
-
-### 2. Score an RTX 5070 prebuilt with a Ryzen 7 7700X & 16 GB of DDR5 for $650 off Stack these promo codes to save on Skytech Gaming's high-end systems 
-
-Skytech Gaming offers prebuilt RTX 5070 systems with Ryzen 7 7700X and 16 GB DDR5 for a discounted price of $650 off. The Shadow 5 and Archangel 5 systems are available in black and white setups, respectively, and are designed to meet gaming needs. This makes high-end gaming more affordable for consumers.
-
-💡 *High-end gaming systems are now within budget-friendly reach.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/score-an-rtx-5070-prebuilt-with-a-ryzen-7-7700x-and-16-gb-of-ddr5-for-usd650-off-stack-these-promo-codes-to-save-on-skytech-gamings-high-end-systems)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-7600x3d-review)
 
 ---
 
-### 3. Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7800X3D Can Intel finally beat X3D? 
+### 2. Raspberry Pi CM0 system-on-module is now sold for $33 and up on AliExpress ⭐
 
-Intel's Core Ultra 7 270K Plus challenges the AMD Ryzen 7 7800X3D in gaming benchmarks. The Core Ultra 7 270K Plus offers competitive performance in various tasks, but its gaming prowess is put to the test against the X3D. Our comparison highlights the strengths and weaknesses of each CPU.
+The Raspberry Pi CM0 system-on-module is now available on AliExpress for $33 and up, featuring a Raspberry Pi RP3A0 SiP with 512MB RAM, optional eMMC flash, WiFi, and Bluetooth.
 
-💡 *Intel's Core Ultra 7 270K Plus closes the gaming gap with X3D.*
+💡 *Raspberry Pi CM0 becomes more accessible to global developers and makers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-amd-ryzen-7-7800x3d-cpu-faceoff)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/27/raspberry-pi-cm0-system-on-module-is-now-sold-for-33-and-up-on-aliexpress/)
 
 ---
 
-### 4. Enthusiast fixes 30-year issue with S3 graphics card hacking the VBIOS fixes black levels by scalpelling out the Virge DX s pedestal bit  
+### 3. RTX 4090 sent for repair is a sophisticated fake with laser-etched VRAM and core, 'This is the best scam I've ever seen' Scammers pulled a factory-level job to sell a dud to unsuspecting customer 
 
-A retro hardware enthusiast has found a fix for a 30-year issue with S3 graphics cards, eliminating the washed-out appearance caused by the Virge DX's pedestal bit. This was achieved by hacking the VBIOS to scalp out the problematic bit. The fix enables users to enjoy improved black levels on their retro gaming systems.
+A sophisticated counterfeit Asus ROG Strix 4090 was sent for repair with fake VRAM and core, highlighting the increasing sophistication of scammers in the tech industry.
 
-💡 *Preserving retro gaming experiences with hardware tweaks matters greatly.*
+💡 *Counterfeiters are replicating factory-quality components with surprising accuracy and detail.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/enthusiast-fixes-30-year-issue-with-s3-graphics-card-hacking-the-vbios-fixes-black-levels-by-scalpelling-out-the-virge-dxs-pedestal-bit)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/rtx-4090-sent-for-repair-is-a-sophisticated-fake-with-laser-etched-vram-and-core-this-is-the-best-scam-ive-ever-seen-scammers-pulled-a-factory-level-job-to-sell-a-dud-to-unsuspecting-customer)
+
+---
+
+### 4. GPU Prices Have Stopped Climbing, But the Market Is Still Broken 
+
+GPU prices have plateaued but remain elevated above MSRP worldwide.
+
+💡 *Unstable market persists despite decreased demand and prices stagnation.*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3115-gpu-pricing-q2-2026/)
 
 ---
 

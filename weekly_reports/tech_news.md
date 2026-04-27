@@ -1,5 +1,5 @@
 # 📰 Tech News
-**Week of April 26, 2026**
+**Week of April 27, 2026**
 
 *Industry news and product launches*
 
@@ -7,79 +7,79 @@
 
 ## 📊 Summary
 - **Articles this week:** 7
-- **Report generated:** 2026-04-26 09:37
+- **Report generated:** 2026-04-27 10:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Steam Controller leaked review points to $99 MSRP more expensive than PS5 and Xbox controllers and Nintendo Joy-Cons 
+### 1. DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.S. escalates AI theft accusations U.S. gov't alleges IP theft by DeepSeek and other Chinese AI firms ⭐
 
-A leaked review of the Steam Controller revealed its $99 MSRP, making it more expensive than other popular gaming controllers.
+DeepSeek launched a 1.6 trillion parameter V4 language model on Huawei chips. The model is the startup's most powerful to date. The U.S. government has accused DeepSeek of IP theft.
 
-💡 *Gaming enthusiasts face higher costs with Steam's new controller option.*
+💡 *Major AI advancements raise concerns about IP theft in the industry.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-leaked-review-points-to-usd99-msrp-more-expensive-than-ps5-and-xbox-controllers-and-nintendo-joy-cons)
-
----
-
-### 2. BMW brings color changing tech closer to production with the iX3 Flow Edition 
-
-BMW has unveiled the iX3 Flow Edition, integrating E Ink's Prism technology into the vehicle's hood, bringing color-changing tech closer to production. This version embeds the electrophoretic system directly into the structure, moving beyond earlier external designs. The innovative design aims to revolutionize vehicle aesthetics.
-
-💡 *Embedded E Ink tech makes color-changing cars more practical*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112186-bmw-brings-color-changing-tech-closer-production-ix3.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-launches-1-6-trillion-parameter-v4-on-huawei-chips-as-us-escalates-ai-theft-accusations)
 
 ---
 
-### 3. Intel's upcoming Xeon 7 "Diamond Rapids" server CPUs reportedly delayed to 2027 Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak 
+### 2. New metal 3D printer shrinks industrial tech down to workbench size with laser powder bed fusion system aims to bring laser metal printing to workshops and labs for $9,600 
 
-Intel's Xeon 7 'Diamond Rapids' CPU launch delayed to 2027, not this year as initially planned. The Clearwater Forest E-core-only CPU is still expected to release in the first half of 2024. The next-gen Coral Rapids family is set to arrive in 2028.
+Scrap Labs has introduced the Scrap 1, a compact laser metal 3D printer for $9,600, making industrial technology more accessible to workshops and labs.
 
-💡 *Intel's server CPU roadmap faces significant delays and revisions.*
+💡 *Affordable industrial tech empowers small-scale innovation and entrepreneurship.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-xeon-7-diamond-rapids-server-cpus-reportedly-delayed-to-2027-next-gen-coral-rapids-lineup-lands-2028-but-can-be-accelerated-according-to-new-leak)
-
----
-
-### 4. Microsoft will allow users to indefinitely pause updates in Windows 11 first change in over a decade to the mandatory update policy 
-
-Microsoft is giving Windows 11 users more control over updates, allowing them to pause indefinitely and restoring normal shutdown options even when updates are pending. This change aims to improve user experience and flexibility. Updates will also be made clearer and more transparent.
-
-💡 *Users regain control over Windows 11 updates for the first time*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-will-allow-users-to-indefinitely-pause-updates-in-windows-11-first-change-in-over-a-decade-to-the-mandatory-update-policy)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/new-metal-3d-printer-shrinks-industrial-tech-down-to-workbench-size-with-laser-powder-bed-fusion-system-aims-to-bring-laser-metal-printing-to-workshops-and-labs-for-usd9-600)
 
 ---
 
-### 5. US Navy tests laser weapon that shoots down drones on the USS George H.W. Bush supercarrier system tracked, engaged, and neutralized multiple target drones, has essentially unlimited power source 
+### 3. VitaLink A foldable 180 keyboard with an integrated 13-inch 4K touchscreen (Crowdfunding) 
 
-The US Navy tested the LOCUST Laser Weapon System on the USS George H.W. Bush, successfully neutralizing multiple target drones.
+VitaLink is a portable, foldable keyboard with a 13-inch 4K touchscreen, ideal for on-the-go work and multitasking.
 
-💡 *Game-changing laser technology offers limitless power and precise drone destruction capability.*
+💡 *Enhanced productivity through a self-contained, dual-screen portable setup.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-navy-tests-laser-weapon-that-shoots-down-drones-on-the-uss-george-h-w-bush-supercarrier-system-tracked-engaged-and-neutralized-multiple-target-drones-has-essentially-unlimited-power-source)
-
----
-
-### 6. Windows Insiders can now pause updates indefinitely, in 35-day increments 
-
-Windows Insiders can now pause updates indefinitely in 35-day increments, skip updates during initial setup, and reboot without installing updates.
-
-💡 *Increased user control over system updates brings greater flexibility and peace of mind.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112184-windows-insiders-can-now-pause-updates-indefinitely-35.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/27/vitalink-a-foldable-180-keyboard-with-an-integrated-13-inch-4k-touchscreen/)
 
 ---
 
-### 7. Battlefield movie reportedly in the works with Christopher McQuarrie and Michael B. Jordan 
+### 4. Steam Controller leak hints at $99 price tag and dual trackpad design 
 
-A Battlefield film adaptation is reportedly in the works with Christopher McQuarrie and Michael B. Jordan. McQuarrie will write, direct, and produce the project, while Jordan is in talks to produce. The film aims to bring the popular EA series to the big screen.
+The Steam Controller is expected to cost $99 without subsidies. It was announced alongside a new Steam Machine and Steam Frame VR headset. The price reflects Valve's decision to not subsidize new hardware.
 
-💡 *High-profile collaboration could elevate Battlefield franchise's cinematic appeal.*
+💡 *Valve breaks away from hardware subsidization model*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112182-battlefield-movie-reportedly-works-christopher-mcquarrie-michael-b.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112187-steam-controller-leak-hints-99-cost-dual-trackpad.html)
+
+---
+
+### 5. Developer creates a basic first person shooter game using Gaussian splats, and you can play it for free in your browser 
+
+A basic first-person shooter game showcases Gaussian splats technology in-browser, offering a free playable experience. Although the game is simple, its concept demonstrates the potential of this innovative technique. It highlights the feasibility of complex graphics in web-based environments.
+
+💡 *Real-time graphics capabilities in browsers enable new gaming experiences.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/programming/developer-creates-a-basic-first-person-shooter-game-using-gaussian-splats-and-you-can-play-it-for-free-in-your-browser)
+
+---
+
+### 6. Mobile SMS blasters in vehicles prowled Canadian streets, causing 13 million network disruptions and infiltrating tens of thousands of devices blaster blocked 911 calls, stole cellphone data 
+
+Authorities reported 3 individuals used SMS blasters for smishing attacks, disrupting networks and 911 calls.
+
+💡 *Nationwide security compromised by malicious, high-tech SMS spam campaigns.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/sms-blasters-were-cruising-canadian-streets-stealing-cellphone-data-and-blocking-emergency-911-calls-project-lighthouse-infiltrated-tens-of-thousands-of-devices-and-caused-13-million-network-disruptions)
+
+---
+
+### 7. DARPA calls for proposals for autonomous underwater drones gov't looking for a small, cheap autonomous sub that can be developed and built quickly 
+
+DARPA seeks proposals for affordable, quickly deployable autonomous underwater drones.
+
+💡 *Enhanced underwater surveillance and response capabilities boost national security.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/darpa-calls-for-proposals-for-autonomous-underwater-drones-govt-looking-for-a-small-cheap-autonomous-sub-that-can-be-developed-and-built-quickly)
 
 ---
 

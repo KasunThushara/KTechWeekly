@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 26, 2026**
+**Week of April 27, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,76 +7,76 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Intel VP claims up to 30% of CPU performance is untapped by modern games software optimization is critical to unlocking full potential of hybrid CPUs ⭐
+### 1. DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.S. escalates AI theft accusations U.S. gov't alleges IP theft by DeepSeek and other Chinese AI firms ⭐
 
-**💻 Hardware**
+**📰 Tech News**
 
-Intel claims up to 30% of CPU performance is untapped due to suboptimal software, and better optimization can unlock its true potential. Hybrid architecture CPUs are capable but underutilized, and software updates can improve performance without hardware upgrades. This highlights the importance of software optimization for modern CPU architectures.
+DeepSeek launched a 1.6 trillion parameter V4 language model on Huawei chips. The model is the startup's most powerful to date. The U.S. government has accused DeepSeek of IP theft.
 
-💡 **Key Point:** Software optimization is key to unlocking hybrid CPU potential fully.
+💡 **Key Point:** Major AI advancements raise concerns about IP theft in the industry.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-vp-claims-up-to-30-percent-of-cpu-performance-is-untapped-by-modern-games-software-optimization-is-critical-to-unlocking-full-potential-of-hybrid-cpus)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-launches-1-6-trillion-parameter-v4-on-huawei-chips-as-us-escalates-ai-theft-accusations)
 
 ---
 
-### 2. Intel VP claims up to 30% of CPU performance is untapped by modern games software optimization is critical to unlocking full potential of hybrid CPUs ⭐
+### 2. AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU ⭐
+
+**💻 Hardware**
+
+The AMD Ryzen 5 7600X3D is a budget gaming CPU that offers excellent performance at an unbeatable value. It's a great option for those looking for a reliable and affordable gaming experience. The Ryzen 5 7600X3D is a great pick for budget-conscious gamers.
+
+💡 **Key Point:** Higher power consumption for minimal performance gains is a concern
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-7600x3d-review)
+
+---
+
+### 3. Raspberry Pi CM0 system-on-module is now sold for $33 and up on AliExpress ⭐
+
+**💻 Hardware**
+
+The Raspberry Pi CM0 system-on-module is now available on AliExpress for $33 and up, featuring a Raspberry Pi RP3A0 SiP with 512MB RAM, optional eMMC flash, WiFi, and Bluetooth.
+
+💡 **Key Point:** Raspberry Pi CM0 becomes more accessible to global developers and makers.
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/27/raspberry-pi-cm0-system-on-module-is-now-sold-for-33-and-up-on-aliexpress/)
+
+---
+
+### 4. DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.S. escalates AI theft accusations U.S. gov't alleges IP theft by DeepSeek and other Chinese AI firms ⭐
 
 **🤖 AI & ML**
 
-Intel claims up to 30% of CPU performance is untapped due to suboptimal software, and better optimization can unlock its true potential. Hybrid architecture CPUs are capable but underutilized, and software updates can improve performance without hardware upgrades. This highlights the importance of software optimization for modern CPU architectures.
+DeepSeek launched a 1.6 trillion parameter V4 language model on Huawei chips. The model is the startup's most powerful to date. The U.S. government has accused DeepSeek of IP theft.
 
-💡 **Key Point:** Software optimization is key to unlocking hybrid CPU potential fully.
+💡 **Key Point:** Major AI advancements raise concerns about IP theft in the industry.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-vp-claims-up-to-30-percent-of-cpu-performance-is-untapped-by-modern-games-software-optimization-is-critical-to-unlocking-full-potential-of-hybrid-cpus)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-launches-1-6-trillion-parameter-v4-on-huawei-chips-as-us-escalates-ai-theft-accusations)
 
 ---
 
-### 3. Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc "Celestial" family gaming GPU remains uncertain even for the next-gen Xe4 "Druid" lineup that lands in 2027 
+### 5. AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU ⭐
 
 **🎮 GPUs**
 
-Intel reportedly cancels discrete gaming GPUs for Xe3P, focuses on datacenter and mobile.
+The AMD Ryzen 5 7600X3D is a budget gaming CPU that offers excellent performance at an unbeatable value. It's a great option for those looking for a reliable and affordable gaming experience. The Ryzen 5 7600X3D is a great pick for budget-conscious gamers.
 
-💡 **Key Point:** Gaming GPU market absence hurts Intel's consumer segment growth opportunities.
+💡 **Key Point:** Higher power consumption for minimal performance gains is a concern
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/intel-has-reportedly-killed-discrete-gaming-gpus-for-the-upcoming-xe3p-arc-celestial-family-gaming-gpu-remains-uncertain-even-for-the-next-gen-xe4-druid-lineup-that-lands-in-2027)
-
----
-
-### 4. Steam Controller leaked review points to $99 MSRP more expensive than PS5 and Xbox controllers and Nintendo Joy-Cons 
-
-**💻 Hardware**
-
-A leaked review of the Steam Controller revealed its $99 MSRP, making it more expensive than other popular gaming controllers.
-
-💡 **Key Point:** Gaming enthusiasts face higher costs with Steam's new controller option.
-
-🔗 [Read More](https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-leaked-review-points-to-usd99-msrp-more-expensive-than-ps5-and-xbox-controllers-and-nintendo-joy-cons)
-
----
-
-### 5. Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc "Celestial" family gaming GPU remains uncertain even for the next-gen Xe4 "Druid" lineup that lands in 2027 
-
-**💻 Hardware**
-
-Intel reportedly cancels discrete gaming GPUs for Xe3P, focuses on datacenter and mobile.
-
-💡 **Key Point:** Gaming GPU market absence hurts Intel's consumer segment growth opportunities.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/intel-has-reportedly-killed-discrete-gaming-gpus-for-the-upcoming-xe3p-arc-celestial-family-gaming-gpu-remains-uncertain-even-for-the-next-gen-xe4-druid-lineup-that-lands-in-2027)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-7600x3d-review)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **28 articles** across **5 focused categories**.
+We covered **38 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 5 | Artificial Intelligence and Machine Learning |
+| 🤖 [AI & ML](ai_and_ml.md) | 9 | Artificial Intelligence and Machine Learning |
 | 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 2 | Chip manufacturing and design |
+| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
 | 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
 
 ---
@@ -84,16 +84,16 @@ We covered **28 articles** across **5 focused categories**.
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 5 articles
+*Artificial Intelligence and Machine Learning* — 9 articles
 
 ### 🎮 [GPUs](gpus.md)
 *Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 10 articles
+*Computing hardware and development boards* — 13 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 2 articles
+*Chip manufacturing and design* — 5 articles
 
 ### 📰 [Tech News](tech_news.md)
 *Industry news and product launches* — 7 articles
@@ -102,6 +102,6 @@ We covered **28 articles** across **5 focused categories**.
 
 ## 📅 About
 
-Generated 2026-04-26 at 09:37 by an autonomous AI curation system.
+Generated 2026-04-27 at 10:35 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

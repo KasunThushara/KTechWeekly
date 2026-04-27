@@ -1,192 +1,238 @@
 [
   {
-    "title": "Score an RTX 5070 prebuilt with a Ryzen 7 7700X & 16 GB of DDR5 for $650 off Stack these promo codes to save on Skytech Gaming's high-end systems",
-    "summary": "You don't need to spend upwards of $1,500 to build and RTX 5070 system anymore as Skytech has two great prebuilts ready for you. Whether you're rocking a stealthy black setup or a minimal white one, the Shadow 5 and Archangel 5 are both ready to level it up.",
-    "link": "https://www.tomshardware.com/pc-components/score-an-rtx-5070-prebuilt-with-a-ryzen-7-7700x-and-16-gb-of-ddr5-for-usd650-off-stack-these-promo-codes-to-save-on-skytech-gamings-high-end-systems",
+    "title": "Developer creates a basic first person shooter game using Gaussian splats, and you can play it for free in your browser",
+    "summary": "It's not much of a game, but it's an impressive proof of concept for the novel technology.",
+    "link": "https://www.tomshardware.com/software/programming/developer-creates-a-basic-first-person-shooter-game-using-gaussian-splats-and-you-can-play-it-for-free-in-your-browser",
     "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.159564"
+  },
+  {
+    "title": "Linux kernel's second-in-command uses local AI bot to hunt bugs, powered by 'clanker' system with AMD's Ryzen AI Max+ Framework Desktop has resulted in close to two dozen patches",
+    "summary": "Greg Kroah-Hartman posted a photo to Mastodon this weekend showing the hardware behind his AI-assisted bug-finding tool.",
+    "link": "https://www.tomshardware.com/software/linux/linux-kernels-second-in-command-uses-framework-desktop-to-hunt-bugs-with-local-ai",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.159691"
+  },
+  {
+    "title": "RTX 4090 sent for repair is a sophisticated fake with laser-etched VRAM and core, 'This is the best scam I've ever seen' Scammers pulled a factory-level job to sell a dud to unsuspecting customer",
+    "summary": "Northwest Repair was sent an Asus ROG Strix 4090 that had a dead core and memory chips with fake markings to make it look like the real thing. Unfortunately, there's no way of telling what these counterfeit parts actually were, but the main takeaway is just how good these scammers are getting as of late.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/rtx-4090-sent-for-repair-is-a-sophisticated-fake-with-laser-etched-vram-and-core-this-is-the-best-scam-ive-ever-seen-scammers-pulled-a-factory-level-job-to-sell-a-dud-to-unsuspecting-customer",
+    "categories": [
+      "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.658187"
+    "processed_date": "2026-04-27T10:34:34.159860"
   },
   {
-    "title": "Steam Controller leaked review points to $99 MSRP more expensive than PS5 and Xbox controllers and Nintendo Joy-Cons",
-    "summary": "A hardware reviewer accidentally made their review video go live on YouTube before the embargo date, revealing the pricing for the Steam Controller.",
-    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-leaked-review-points-to-usd99-msrp-more-expensive-than-ps5-and-xbox-controllers-and-nintendo-joy-cons",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-26T09:36:37.658327"
-  },
-  {
-    "title": "Intel's upcoming Xeon 7 \"Diamond Rapids\" server CPUs reportedly delayed to 2027 Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak",
-    "summary": "Diamond Rapids, also known as Xeon 7, was supposed to launch later this year, but a new leak from Jaykihn claims the timeline has now moved to 2027. Clearwater Forest, the E-core-only successor to Sierra Forest, is set to release in the first half of this year, while the next-gen Coral Rapids family is reportedly planned for 2028.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-xeon-7-diamond-rapids-server-cpus-reportedly-delayed-to-2027-next-gen-coral-rapids-lineup-lands-2028-but-can-be-accelerated-according-to-new-leak",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.658469"
-  },
-  {
-    "title": "Microsoft will allow users to indefinitely pause updates in Windows 11 first change in over a decade to the mandatory update policy",
-    "summary": "Microsoft is introducing major changes to Windows 11 updates, giving users greater control by allowing extended or indefinite update pausing, restoring normal shutdown and restart options even when updates are pending, and improving clarity about which updates are installed.",
-    "link": "https://www.tomshardware.com/software/windows/microsoft-will-allow-users-to-indefinitely-pause-updates-in-windows-11-first-change-in-over-a-decade-to-the-mandatory-update-policy",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.658589"
-  },
-  {
-    "title": "Maine governor vetoes bill that bans large new data centers says legislature should ve exempted one particular well-supported data center",
-    "summary": "Governor Janet Mills vetoed a bill that would have enacted a moratorium on all data center projects because it would affect one site to be built on a former paper mill in Jay, Franklin County.",
-    "link": "https://www.tomshardware.com/desktops/servers/maine-governor-vetoes-bill-that-bans-large-new-data-centers-says-legislature-shouldve-exempted-one-particular-well-supported-data-center",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.658706"
-  },
-  {
-    "title": "Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc \"Celestial\" family gaming GPU remains uncertain even for the next-gen Xe4 \"Druid\" lineup that lands in 2027",
-    "summary": "New leaks claim that Intel's upcoming Xe3P graphics architecture won't feature any discrete gaming GPUs, and even the next-gen Xe4 lineup isn't confirmed to. Intel is instead prioritizing the datacenter and workstation segments for new graphics IP, and is featuring them on mobile parts.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/intel-has-reportedly-killed-discrete-gaming-gpus-for-the-upcoming-xe3p-arc-celestial-family-gaming-gpu-remains-uncertain-even-for-the-next-gen-xe4-druid-lineup-that-lands-in-2027",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-26T09:36:37.658834"
-  },
-  {
-    "title": "Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7800X3D Can Intel finally beat X3D?",
-    "summary": "Intel's new Core Ultra 7 270K Plus is a productivity beast, but can it hang with the Ryzen 7 7800X3D in games? We put the two CPUs head-to-head.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-amd-ryzen-7-7800x3d-cpu-faceoff",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.658936"
-  },
-  {
-    "title": "Your Walmart might be 3D printed firm building more than a dozen 3D-printed Walmart expansions with concrete-printing robots",
-    "summary": "For years, 3D Concrete Printing (3DCP) has been an experimental novelty. Alquist 3D, based in Greeley, CO, is pushing the technology past the demonstration phase with their A1X, a robotic arm printer that lays down inch-thick layers at a whopping 200mm/s.",
-    "link": "https://www.tomshardware.com/3d-printing/your-walmart-might-be-3d-printed-firm-building-more-than-a-dozen-3d-printed-walmart-expansions-alquist-sells-superstore-on-3d-concrete-printing-robots",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.659054"
-  },
-  {
-    "title": "Intel VP claims up to 30% of CPU performance is untapped by modern games software optimization is critical to unlocking full potential of hybrid CPUs",
-    "summary": "Intel is claiming that better software optimization for hybrid architecture CPUs can unlock up to 30% more performance without hardware upgrades. The silicon itself is very capable, but its true potential is held back by code that perhaps prioritizes more conventional silicon and, therefore, benefits from brute-force upgrades like extra L3 cache.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-vp-claims-up-to-30-percent-of-cpu-performance-is-untapped-by-modern-games-software-optimization-is-critical-to-unlocking-full-potential-of-hybrid-cpus",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-26T09:36:37.659194"
-  },
-  {
-    "title": "AMD's memory-boosting EXPO 1.2 is here, adds support for three Chinese memory vendors performance gains could be muted until Zen 6",
-    "summary": "Third-party AMD developer and hardware leakers share details of the new AMD EXPO 1.2 technology arriving on AMD AM5 motherboards.",
-    "link": "https://www.tomshardware.com/pc-components/ram/amd-expo-1-2-is-here-but-you-may-not-notice-significant-gains-until-zen-6-upgraded-ram-overclocking-tech-will-unlock-the-next-level-of-memory-speed-on-ryzen-cpus",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-26T09:36:37.659303"
-  },
-  {
-    "title": "Enthusiast fixes 30-year issue with S3 graphics card hacking the VBIOS fixes black levels by scalpelling out the Virge DX s pedestal bit ",
-    "summary": "A retro hardware enthusiast has demonstrated a fix that eliminates the washed-out appearance people witness when using 1990s graphics cards from S3.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/enthusiast-fixes-30-year-issue-with-s3-graphics-card-hacking-the-vbios-fixes-black-levels-by-scalpelling-out-the-virge-dxs-pedestal-bit",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.659409"
-  },
-  {
-    "title": "US Navy tests laser weapon that shoots down drones on the USS George H.W. Bush supercarrier system tracked, engaged, and neutralized multiple target drones, has essentially unlimited power source",
-    "summary": "The LOCUST Laser Weapon System was tested aboard the USS George H.W. Bush and neutralized multiple target drones.",
-    "link": "https://www.tomshardware.com/tech-industry/us-navy-tests-laser-weapon-that-shoots-down-drones-on-the-uss-george-h-w-bush-supercarrier-system-tracked-engaged-and-neutralized-multiple-target-drones-has-essentially-unlimited-power-source",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.659519"
-  },
-  {
-    "title": "LightInk An ESP32-based, solar-powered E-ink smartwatch with up to 10 months of battery life",
-    "summary": "Daniel Ansorregui has developed LightInk, an open-source solar-powered E-ink watch inspired by 90s solar digital watches. It features a 1.54-inch e-paper display and supports Wi-Fi, Bluetooth, LoRa, and GPS, running on a 100mAh battery. The project integrates a custom low-quiescent-power design using a TPS63900 buck-boost converter, capacitive-touch input, and deep-sleep-driven firmware, along with ultra-fast partial e-ink updates (<1 ms active time) and precise RTC timekeeping with drift calibration. It also supports solar-first operation (no dedicated charging IC) and dynamic power gating of peripherals, enabling around 9 10 months of operation on a small battery supplemented by solar power. LightInk specifications: System-in-package ESP32-PICO-D4 SiP CPU Dual-core processor @ 240MHz Memory 520KB SRAM Storage 4MB flash Wireless 2.4 GHz Wi-Fi 4 up to 150 Mbps and Bluetooth 4.2 BR/LE connectivity Display 1.54-inch 200 200 B/W e-Paper panel (GDEH0154D67 or compatible) Audio 10-15mm piezo electric disc speaker Connectivity [...] The post LightInk An ESP32-based, solar-powered E-ink smartwatch with up to 10 months of battery life appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/26/lightink-an-esp32-based-solar-powered-e-ink-smartwatch-with-up-to-10-months-of-battery-life/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-26T09:36:37.660110"
-  },
-  {
-    "title": "BMW brings color changing tech closer to production with the iX3 Flow Edition",
-    "summary": "Unveiled at the 2026 Beijing Auto Show, the BMW iX3 Flow Edition integrates E Ink's Prism technology directly into the vehicle's hood, bringing the concept closer to real-world application. Unlike earlier efforts that relied on external layers of segmented panels, this version embeds the electrophoretic system into the structure of... Read Entire Article",
-    "link": "https://www.techspot.com/news/112186-bmw-brings-color-changing-tech-closer-production-ix3.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-26T09:36:37.661366"
-  },
-  {
-    "title": "Windows Insiders can now pause updates indefinitely, in 35-day increments",
-    "summary": "A new Windows update, currently rolling out to Dev Channel and Experimental Channel Insiders, overhauls how users manage system updates. Windows Update now allows indefinite postponements, the option to skip updates during initial setup, and the ability to reboot without immediately installing updates. Read Entire Article",
-    "link": "https://www.techspot.com/news/112184-windows-insiders-can-now-pause-updates-indefinitely-35.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.661479"
-  },
-  {
-    "title": "The next Xbox could be waiting on the memory market",
-    "summary": "Sharma described the decision-making process as an equation, noting that memory costs influence multiple variables. She said Microsoft's focus is on building a console capable of running great games including PC titles while accounting for market conditions that remain in flux. Read Entire Article",
-    "link": "https://www.techspot.com/news/112185-next-xbox-could-waiting-memory-market.html",
+    "title": "Toyota s limited edition $3,500 Crown gaming chair has heating, cooling, and a USB-C seatbelt buckle Toyota Crown front car seat turned into gaming chair, enjoy in-car comforts while on your PC",
+    "summary": "The world's largest automaker has branched out into computer chairs with a limited edition model as part of The Crown Collection.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/toyotas-limited-edition-usd3-500-crown-gaming-chair-has-heating-cooling-and-a-usb-c-seatbelt-buckle-enjoy-in-car-comforts-while-you-are-on-your-pc",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.661600"
+    "processed_date": "2026-04-27T10:34:34.159994"
   },
   {
-    "title": "Battlefield movie reportedly in the works with Christopher McQuarrie and Michael B. Jordan",
-    "summary": "According to The Hollywood Reporter, producer Christopher McQuarrie and collaborators pitched a feature film adaptation of EA's Battlefield series to studios and streaming services this week. McQuarrie is expected to write, direct, and produce the project, while Oscar-winning actor Michael B. Jordan (Sinners) is reportedly in talks to produce and... Read Entire Article",
-    "link": "https://www.techspot.com/news/112182-battlefield-movie-reportedly-works-christopher-mcquarrie-michael-b.html",
+    "title": "Chernobyl virus turned 27 today, and it could brick your PC in ways modern malware can't by overwriting BIOS firmware",
+    "summary": "27 years ago today, on April 26, 1999, a 1 KB virus called CIH detonated its payload on hundreds of thousands of Windows 9x machines worldwide.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/the-chernobyl-virus-turned-27-today-and-it-could-brick-your-pc-in-ways-modern-malware-cant",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.160098"
+  },
+  {
+    "title": "New metal 3D printer shrinks industrial tech down to workbench size with laser powder bed fusion system aims to bring laser metal printing to workshops and labs for $9,600",
+    "summary": "Scrap Labs has unveiled the Scrap 1, a compact laser powder bed fusion metal 3D printer that fits on a workbench and starts at $9,600 a fraction of what industrial LPBF systems typically cost",
+    "link": "https://www.tomshardware.com/3d-printing/new-metal-3d-printer-shrinks-industrial-tech-down-to-workbench-size-with-laser-powder-bed-fusion-system-aims-to-bring-laser-metal-printing-to-workshops-and-labs-for-usd9-600",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-27T10:34:34.160211"
+  },
+  {
+    "title": "AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU",
+    "summary": "The Ryzen 7 9850X3D was never set up for success, but our testing reveals the ugly side of AMD s latest X3D CPU: higher power consumption for minuscule performance gains.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-7600x3d-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-27T10:34:34.160318"
+  },
+  {
+    "title": "Disabled gamer prototypes true one-handed keyboard-and-mouse controller, device nominated for award maker inspired to build device after losing right arm in an accident",
+    "summary": "A Redditor who lost their right arm in an accident decided to prototype and build their own single-handed controller to get back into gaming. This peripheral combines a mouse and keypad into a single ergonomic device for one-handed use of PCs and consoles.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/disabled-gamer-prototypes-true-one-handed-keyboard-and-mouse-controller-maker-inspired-to-build-device-after-losing-right-arm-in-an-accident",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.160442"
+  },
+  {
+    "title": "Commodore backs down over FPGA firmware lockdown firm stops trying to block third-party firmware installs but will stand firm against bricked modded units",
+    "summary": "Iconic home computer brand has reversed its no-third-party firmware decision but makes it clear that users will get 'no free support/replacement for bricked modded units.'",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/commodore-backs-down-over-fpga-firmware-lockdown-it-wont-now-try-and-block-third-party-firmware-installs-but-will-stand-firm-against-bricked-modded-units",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.160552"
+  },
+  {
+    "title": "DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.S. escalates AI theft accusations U.S. gov't alleges IP theft by DeepSeek and other Chinese AI firms",
+    "summary": "DeepSeek on Friday released a preview of its V4 large language model, the Hangzhou-based startup's most powerful to date.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-launches-1-6-trillion-parameter-v4-on-huawei-chips-as-us-escalates-ai-theft-accusations",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-27T10:34:34.160663"
+  },
+  {
+    "title": "Taiwan's stock market surpasses the UK's despite having less than a quarter of the UK's economy AI boom propels Taiwan forward, TSMC alone accounts for more than 40% of Taiwan's total market value",
+    "summary": "Taiwan's stock market is now worth more than the United Kingdom's, in a shift driven almost entirely by the insatiable global appetite for AI chips.",
+    "link": "https://www.tomshardware.com/tech-industry/taiwan-stock-market-overtakes-the-uk",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.160772"
+  },
+  {
+    "title": "Intel reportedly says it boosted yields by selling what would normally be 'scrap' or 'low-expectation' CPUs customers more willing to accept lesser chips due to overwhelming CPU demand",
+    "summary": "Intel s Investor relations team confirmed that customers are sweeping up the lower-quality chips, bringing in tangible revenue for the company.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-says-it-boosted-yields-by-selling-what-would-normally-be-scrap-or-low-expectation-cpus-customers-more-willing-to-accept-lesser-chips-due-to-overwhelming-cpu-demand",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.160900"
+  },
+  {
+    "title": "Enthusiast builds 3D-printed retro PC case and shares the files so you can print it yourself design fits ITX mobo and ATX PSU, comes with front 3.5-inch bay for USB ports",
+    "summary": "You finish building this 3D-printed retro PC case in under 100 hours as long as you have all the right tools and materials. u/Potatozeng even included a PDF guide (with pictures!) to help you through the process.",
+    "link": "https://www.tomshardware.com/3d-printing/enthusiast-builds-3d-printed-retro-pc-case-and-shares-3d-files-so-you-can-print-it-yourself-design-fits-itx-mobo-and-atx-psu-comes-with-front-3-5-inch-bay-for-usb-ports",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.161012"
+  },
+  {
+    "title": "Turtle Beach's new mouse has a 2.25-inch touchscreen and hotswap batteries that last 15 hours apiece 'MC7' costs $160, part of company's new Command Series peripheral lineup",
+    "summary": "Turtle Beach's new Command Series of peripherals features a lot of screens, and the most interesting implementation is seen in the MC7 mouse. The 2.25-inch LCD rests where your thumb will, while providing macros or glanceable information like your PC stats. The mouse otherwise has cutting-edge specs and will be available in July.",
+    "link": "https://www.tomshardware.com/peripherals/turtle-beachs-new-mouse-has-a-2-25-inch-touchscreen-and-hotswap-batteries-that-last-15-hours-apiece-the-mc7-costs-usd160-part-of-companys-new-command-series-peripheral-lineup",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.161139"
+  },
+  {
+    "title": "Mobile SMS blasters in vehicles prowled Canadian streets, causing 13 million network disruptions and infiltrating tens of thousands of devices blaster blocked 911 calls, stole cellphone data",
+    "summary": "The authorities say that the three individuals used the SMS blasters to send thousands of smishing messages.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/sms-blasters-were-cruising-canadian-streets-stealing-cellphone-data-and-blocking-emergency-911-calls-project-lighthouse-infiltrated-tens-of-thousands-of-devices-and-caused-13-million-network-disruptions",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.661722"
+    "processed_date": "2026-04-27T10:34:34.161242"
   },
   {
-    "title": "Samsung phone division could post its first ever loss as AI drives memory costs higher",
-    "summary": "The financial pressures stem from a fundamental shift in smartphone bill of materials. DRAM and NAND used to be minor costs but now dominate device expenses. Read Entire Article",
-    "link": "https://www.techspot.com/news/112183-samsung-phone-division-could-post-first-ever-loss.html",
+    "title": "DARPA calls for proposals for autonomous underwater drones gov't looking for a small, cheap autonomous sub that can be developed and built quickly",
+    "summary": "DARPA is looking for proposals for cheap undersea drones that can be quickly built and deployed nearly anywhere.",
+    "link": "https://www.tomshardware.com/tech-industry/darpa-calls-for-proposals-for-autonomous-underwater-drones-govt-looking-for-a-small-cheap-autonomous-sub-that-can-be-developed-and-built-quickly",
     "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.161343"
+  },
+  {
+    "title": "VitaLink A foldable 180 keyboard with an integrated 13-inch 4K touchscreen (Crowdfunding)",
+    "summary": "VitaLink is a portable keyboard with a built-in 4K touchscreen. It folds like a laptop and gives you a second display when connected to a laptop, tablet, or mini PC. It is mainly used for people who work on the go and want a simple dual-screen setup without carrying extra devices. It features a 13-inch 4K touch display (3840 1600, 60Hz) and a full keyboard with RGB backlight. The body is made of aluminum and folds flat to about 20 mm, with a 180 hinge. It connects using USB-C for power, video, and data, and works with Windows, macOS, Linux, and Android. It also has built-in speakers, 10-point touch, around 298 PPI, and weighs about 1.2 kg. It can be used for coding, writing, editing, gaming with handheld consoles, and general multitasking in small spaces, such as on desks or while traveling. VitaLink specifications: Compatibility Laptop, tablet, mini PC like [...] The post VitaLink A foldable 180 keyboard with an integrated 13-inch 4K touchscreen (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/27/vitalink-a-foldable-180-keyboard-with-an-integrated-13-inch-4k-touchscreen/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-27T10:34:34.161893"
+  },
+  {
+    "title": "Raspberry Pi CM0 system-on-module is now sold for $33 and up on AliExpress",
+    "summary": "The Raspberry Pi CM0 system-on-module is now available on AliExpress for $33 and up from various resellers, many of which claim to have several thousand in stock. The Raspberry Pi Compute Module Zero was introduced last year with a Raspberry Pi RP3A0 SiP with 512MB RAM, optional 8GB or 16GB eMMC flash, optional WiFi and Bluetooth, and castellated I/Os, or basically a Raspberry Pi Zero 2 W in Compute Module form factor. There s just one little issue: it s only officially sold in China, and the only way to get one is to get a development board like the Makerfabs CM0IQ or a complete product such as the ED-AIC1000 smart camera or ED-IPC1100 industrial box PC. Raspberry Pi CM0 specifications: SiP Raspberry Pi RP3A0 SoC Broadcom BCM2710A1 CPU Quad-core Cortex-A53 processor @ 1.0 GHz GPU VideoCore IV GPU supporting OpenGL ES 1.1, 2.0 graphics VPU H.264/MPEG-4 [...] The post Raspberry Pi CM0 system-on-module is now sold for $33 and up on AliExpress appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/27/raspberry-pi-cm0-system-on-module-is-now-sold-for-33-and-up-on-aliexpress/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-27T10:34:34.162058"
+  },
+  {
+    "title": "KernelUNO A lightweight OS for Arduino UNO with a Linux-like shell",
+    "summary": "KernelUNO is an Arduino sketch with 546 lines of code that provides a lightweight OS for the Arduino UNO with a Linux-like shell offering commands such as ls, df, uname, and so on. All you need is an Arduino UNO R3 or a compatible board with a Microchip ATmega328P microcontroller, a USB cable for programming, and optionally a few LEDs and resistors for testing the gpio command in the terminal. KernelUNO offers the following features: Virtual Filesystem Create files and directories in RAM (/dev, /home) Hardware Control GPIO management with pin mode configuration System Monitoring Memory usage, uptime, kernel messages (dmesg) Interactive Shell Real-time command execution with input buffering 23 built-in commands File system commands ls, cd, pwd, mkdir, touch, cat, echo [text] > [file], rm, info [name] Hardware commands pinmode [pin] [in/out] Set pin mode write [pin] [high/low] Write to pin read [...] The post KernelUNO A lightweight OS for Arduino UNO with a Linux-like shell appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/27/kerneluno-a-lightweight-os-for-arduino-uno-with-a-linux-like-shell/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-27T10:34:34.162224"
+  },
+  {
+    "title": "GPU Prices Have Stopped Climbing, But the Market Is Still Broken",
+    "summary": "GPU prices have stopped getting worse , but they have not gotten much better either. Demand has fallen, prices remain elevated, and most graphics cards still sell well above MSRP worldwide. Read Entire Article",
+    "link": "https://www.techspot.com/article/3115-gpu-pricing-q2-2026/",
+    "categories": [
+      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-26T09:36:37.661825"
+    "processed_date": "2026-04-27T10:34:34.163483"
+  },
+  {
+    "title": "Microsoft Visual Studio Professional 2026 is down to $35",
+    "summary": "Visual Studio has never really been the lightweight option. It's not the tool you open just to tweak a config file or write a quick script. It is the big Windows development environment, the one built for full applications, larger codebases, serious debugging, enterprise workflows, C++, .NET, cloud services, web... Read Entire Article",
+    "link": "https://www.techspot.com/news/112188-microsoft-visual-studio-professional-2026-down-35.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-27T10:34:34.163652"
+  },
+  {
+    "title": "Steam Controller leak hints at $99 price tag and dual trackpad design",
+    "summary": "The $99 price tag aligns with Valve's decision not to subsidize its new hardware. The company announced the Steam Controller in late 2025 alongside a new Steam Machine and the Steam Frame VR headset. Read Entire Article",
+    "link": "https://www.techspot.com/news/112187-steam-controller-leak-hints-99-cost-dual-trackpad.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-27T10:34:34.163846"
   }
 ]
