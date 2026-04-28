@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 27, 2026**
+**Week of April 28, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.S. escalates AI theft accusations U.S. gov't alleges IP theft by DeepSeek and other Chinese AI firms ⭐
-
-**📰 Tech News**
-
-DeepSeek launched a 1.6 trillion parameter V4 language model on Huawei chips. The model is the startup's most powerful to date. The U.S. government has accused DeepSeek of IP theft.
-
-💡 **Key Point:** Major AI advancements raise concerns about IP theft in the industry.
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-launches-1-6-trillion-parameter-v4-on-huawei-chips-as-us-escalates-ai-theft-accusations)
-
----
-
-### 2. AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU ⭐
-
-**💻 Hardware**
-
-The AMD Ryzen 5 7600X3D is a budget gaming CPU that offers excellent performance at an unbeatable value. It's a great option for those looking for a reliable and affordable gaming experience. The Ryzen 5 7600X3D is a great pick for budget-conscious gamers.
-
-💡 **Key Point:** Higher power consumption for minimal performance gains is a concern
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-7600x3d-review)
-
----
-
-### 3. Raspberry Pi CM0 system-on-module is now sold for $33 and up on AliExpress ⭐
-
-**💻 Hardware**
-
-The Raspberry Pi CM0 system-on-module is now available on AliExpress for $33 and up, featuring a Raspberry Pi RP3A0 SiP with 512MB RAM, optional eMMC flash, WiFi, and Bluetooth.
-
-💡 **Key Point:** Raspberry Pi CM0 becomes more accessible to global developers and makers.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/27/raspberry-pi-cm0-system-on-module-is-now-sold-for-33-and-up-on-aliexpress/)
-
----
-
-### 4. DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.S. escalates AI theft accusations U.S. gov't alleges IP theft by DeepSeek and other Chinese AI firms ⭐
+### 1. AMD's $900 Ryzen 9 9950X3D2 is selling despite mixed value arguments ⭐
 
 **🤖 AI & ML**
 
-DeepSeek launched a 1.6 trillion parameter V4 language model on Huawei chips. The model is the startup's most powerful to date. The U.S. government has accused DeepSeek of IP theft.
+The Ryzen 9 9950X3D2, priced at $899, offers improved gaming performance. However, its value is questioned due to minimal gains over its predecessor. This raises concerns about its cost-effectiveness.
 
-💡 **Key Point:** Major AI advancements raise concerns about IP theft in the industry.
+💡 **Key Point:** Questionable value for significant price increase over predecessor model.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-launches-1-6-trillion-parameter-v4-on-huawei-chips-as-us-escalates-ai-theft-accusations)
+🔗 [Read More](https://www.techspot.com/news/112197-amd-900-ryzen-9-9950x3d2-selling-despite-mixed.html)
 
 ---
 
-### 5. AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU ⭐
+### 2. AMD's $900 Ryzen 9 9950X3D2 is selling despite mixed value arguments ⭐
 
 **🎮 GPUs**
 
-The AMD Ryzen 5 7600X3D is a budget gaming CPU that offers excellent performance at an unbeatable value. It's a great option for those looking for a reliable and affordable gaming experience. The Ryzen 5 7600X3D is a great pick for budget-conscious gamers.
+The Ryzen 9 9950X3D2, priced at $899, offers improved gaming performance. However, its value is questioned due to minimal gains over its predecessor. This raises concerns about its cost-effectiveness.
 
-💡 **Key Point:** Higher power consumption for minimal performance gains is a concern
+💡 **Key Point:** Questionable value for significant price increase over predecessor model.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-7600x3d-review)
+🔗 [Read More](https://www.techspot.com/news/112197-amd-900-ryzen-9-9950x3d2-selling-despite-mixed.html)
+
+---
+
+### 3. ESP32-C5-WIFI6-KIT dual-band WiFi IoT board offers up to 32MB flash, 8MB PSRAM, onboard or external WiFi antenna ⭐
+
+**💻 Hardware**
+
+The Waveshare ESP32-C5-WIFI6-KIT offers a range of options for developers, including different memory capacities, antenna choices, and battery support. It is a dual-band WiFi 6 IoT board based on the ESP32-C5 SoC. The board can be ordered with or without pre-soldered headers.
+
+💡 **Key Point:** Enhanced flexibility for IoT development and deployment
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/28/esp32-c5-wifi6-kit-dual-band-wifi-iot-board-offers-up-to-32mb-flash-8mb-psram-onboard-or-external-wifi-antenna/)
+
+---
+
+### 4. ESP32-C5 Mini USB-C board supports 2.4 GHz and 5 GHz WiFi 6, up to 14x GPIO pins for IoT projects ⭐
+
+**💻 Hardware**
+
+The ESP32-C5 Mini is a compact development board supporting WiFi 6, Bluetooth, and Zigbee, featuring up to 14 GPIO pins for IoT projects.
+
+💡 **Key Point:** Compact design enables efficient IoT and Smart Home project implementation.
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/28/esp32-c5-mini-usb-c-board-offers-dual-band-wifi-6-and-up-to-14x-gpio-pins-for-iot-projects/)
+
+---
+
+### 5. ESP32-C5-WIFI6-KIT dual-band WiFi IoT board offers up to 32MB flash, 8MB PSRAM, onboard or external WiFi antenna ⭐
+
+**⚡ Semiconductors**
+
+The Waveshare ESP32-C5-WIFI6-KIT offers a range of options for developers, including different memory capacities, antenna choices, and battery support. It is a dual-band WiFi 6 IoT board based on the ESP32-C5 SoC. The board can be ordered with or without pre-soldered headers.
+
+💡 **Key Point:** Enhanced flexibility for IoT development and deployment
+
+🔗 [Read More](https://www.cnx-software.com/2026/04/28/esp32-c5-wifi6-kit-dual-band-wifi-iot-board-offers-up-to-32mb-flash-8mb-psram-onboard-or-external-wifi-antenna/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **38 articles** across **5 focused categories**.
+We covered **57 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 9 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 🤖 [AI & ML](ai_and_ml.md) | 23 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
 | 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
+| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 11 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 9 articles
+*Artificial Intelligence and Machine Learning* — 23 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 4 articles
+*Graphics cards and compute accelerators* — 6 articles
 
 ### 💻 [Hardware](hardware.md)
 *Computing hardware and development boards* — 13 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 5 articles
+*Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 7 articles
+*Industry news and product launches* — 11 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-04-27 at 10:35 by an autonomous AI curation system.
+Generated 2026-04-28 at 10:36 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

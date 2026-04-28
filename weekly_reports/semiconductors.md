@@ -1,65 +1,55 @@
 # ⚡ Semiconductors
-**Week of April 27, 2026**
+**Week of April 28, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-04-27 10:35
+- **Articles this week:** 4
+- **Report generated:** 2026-04-28 10:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Microsoft Visual Studio Professional 2026 is down to $35 
+### 1. ESP32-C5-WIFI6-KIT dual-band WiFi IoT board offers up to 32MB flash, 8MB PSRAM, onboard or external WiFi antenna ⭐
 
-Visual Studio Professional 2026 offers a comprehensive development environment for large-scale projects. It supports various programming languages, debuggers, and tools. This extensive suite is ideal for enterprise-level development.
+The Waveshare ESP32-C5-WIFI6-KIT offers a range of options for developers, including different memory capacities, antenna choices, and battery support. It is a dual-band WiFi 6 IoT board based on the ESP32-C5 SoC. The board can be ordered with or without pre-soldered headers.
 
-💡 *Comprehensive development environment for large-scale projects and enterprise workflows.*
+💡 *Enhanced flexibility for IoT development and deployment*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112188-microsoft-visual-studio-professional-2026-down-35.html)
-
----
-
-### 2. Disabled gamer prototypes true one-handed keyboard-and-mouse controller, device nominated for award maker inspired to build device after losing right arm in an accident 
-
-A disabled gamer prototyped a one-handed keyboard-and-mouse controller to regain gaming capabilities. This innovative peripheral combines a mouse and keypad into a single ergonomic device for one-handed use of PCs and consoles. The device is nominated for an award.
-
-💡 *Accessibility technology empowers gamers with disabilities to participate in gaming communities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/disabled-gamer-prototypes-true-one-handed-keyboard-and-mouse-controller-maker-inspired-to-build-device-after-losing-right-arm-in-an-accident)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/28/esp32-c5-wifi6-kit-dual-band-wifi-iot-board-offers-up-to-32mb-flash-8mb-psram-onboard-or-external-wifi-antenna/)
 
 ---
 
-### 3. Taiwan's stock market surpasses the UK's despite having less than a quarter of the UK's economy AI boom propels Taiwan forward, TSMC alone accounts for more than 40% of Taiwan's total market value 
+### 2. ESP32-C5 Mini USB-C board supports 2.4 GHz and 5 GHz WiFi 6, up to 14x GPIO pins for IoT projects ⭐
 
-Taiwan's stock market surpasses the UK's, driven by AI chip demand. Taiwan Semiconductor Manufacturing Company (TSMC) contributes significantly to the market value. The AI boom propels Taiwan forward in the global market.
+The ESP32-C5 Mini is a compact development board supporting WiFi 6, Bluetooth, and Zigbee, featuring up to 14 GPIO pins for IoT projects.
 
-💡 *Taiwan's economic influence grows with its dominance in AI chip production.*
+💡 *Compact design enables efficient IoT and Smart Home project implementation.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/taiwan-stock-market-overtakes-the-uk)
-
----
-
-### 4. Intel reportedly says it boosted yields by selling what would normally be 'scrap' or 'low-expectation' CPUs customers more willing to accept lesser chips due to overwhelming CPU demand 
-
-Intel is selling lower-quality CPUs due to overwhelming demand, increasing revenue through sales of previously considered 'scrap' or 'low-expectation' chips.
-
-💡 *Intel capitalizes on surplus by selling lower-grade CPUs profitably.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-reportedly-says-it-boosted-yields-by-selling-what-would-normally-be-scrap-or-low-expectation-cpus-customers-more-willing-to-accept-lesser-chips-due-to-overwhelming-cpu-demand)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/28/esp32-c5-mini-usb-c-board-offers-dual-band-wifi-6-and-up-to-14x-gpio-pins-for-iot-projects/)
 
 ---
 
-### 5. KernelUNO A lightweight OS for Arduino UNO with a Linux-like shell 
+### 3. TSMC's details next-gen CoWoS roadmap: over 14-reticle packages and 48x leap in compute power expected by 2029 massive size enables 24 HBM5E stacks and additional memory bandwidth jump 
 
-KernelUNO is a lightweight OS for the Arduino UNO with a Linux-like shell, offering 23 built-in commands for file system and hardware control.
+TSMC's next-gen CoWoS roadmap promises 48x more compute and 34x more memory bandwidth by 2029 for AI processors, with 14-reticle packages and up to 24 HBM5E stacks.
 
-💡 *Arduino UNO gains a Linux-like shell for enhanced functionality and customization.*
+💡 *Massive integration boosts AI processing capabilities and memory efficiency.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/27/kerneluno-a-lightweight-os-for-arduino-uno-with-a-linux-like-shell/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-details-next-gen-cowos-roadmap-over-14-reticle-packages-and-48x-leap-in-compute-power-expected-by-2029-massive-size-enables-24-hbm5e-stacks-and-additional-memory-bandwidth-jump)
+
+---
+
+### 4. ASML plans to build at least 60 EUV machines this year as AI chip demand surges 
+
+ASML plans to produce at least 60 EUV systems this year, a significant increase. The company aims to improve throughput by upgrading machines to process more wafers per hour. This move is in response to surging demand for AI chips.
+
+💡 *Boosting AI chip production with advanced semiconductor technology matters.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112192-asml-plans-build-least-60-euv-machines-year.html)
 
 ---
 

@@ -1,5 +1,5 @@
 # 💻 Hardware
-**Week of April 27, 2026**
+**Week of April 28, 2026**
 
 *Computing hardware and development boards*
 
@@ -7,139 +7,139 @@
 
 ## 📊 Summary
 - **Articles this week:** 13
-- **Report generated:** 2026-04-27 10:35
+- **Report generated:** 2026-04-28 10:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU ⭐
+### 1. ESP32-C5-WIFI6-KIT dual-band WiFi IoT board offers up to 32MB flash, 8MB PSRAM, onboard or external WiFi antenna ⭐
 
-The AMD Ryzen 5 7600X3D is a budget gaming CPU that offers excellent performance at an unbeatable value. It's a great option for those looking for a reliable and affordable gaming experience. The Ryzen 5 7600X3D is a great pick for budget-conscious gamers.
+The Waveshare ESP32-C5-WIFI6-KIT offers a range of options for developers, including different memory capacities, antenna choices, and battery support. It is a dual-band WiFi 6 IoT board based on the ESP32-C5 SoC. The board can be ordered with or without pre-soldered headers.
 
-💡 *Higher power consumption for minimal performance gains is a concern*
+💡 *Enhanced flexibility for IoT development and deployment*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-7600x3d-review)
-
----
-
-### 2. Raspberry Pi CM0 system-on-module is now sold for $33 and up on AliExpress ⭐
-
-The Raspberry Pi CM0 system-on-module is now available on AliExpress for $33 and up, featuring a Raspberry Pi RP3A0 SiP with 512MB RAM, optional eMMC flash, WiFi, and Bluetooth.
-
-💡 *Raspberry Pi CM0 becomes more accessible to global developers and makers.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/27/raspberry-pi-cm0-system-on-module-is-now-sold-for-33-and-up-on-aliexpress/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/28/esp32-c5-wifi6-kit-dual-band-wifi-iot-board-offers-up-to-32mb-flash-8mb-psram-onboard-or-external-wifi-antenna/)
 
 ---
 
-### 3. VitaLink A foldable 180 keyboard with an integrated 13-inch 4K touchscreen (Crowdfunding) 
+### 2. ESP32-C5 Mini USB-C board supports 2.4 GHz and 5 GHz WiFi 6, up to 14x GPIO pins for IoT projects ⭐
 
-VitaLink is a portable, foldable keyboard with a 13-inch 4K touchscreen, ideal for on-the-go work and multitasking.
+The ESP32-C5 Mini is a compact development board supporting WiFi 6, Bluetooth, and Zigbee, featuring up to 14 GPIO pins for IoT projects.
 
-💡 *Enhanced productivity through a self-contained, dual-screen portable setup.*
+💡 *Compact design enables efficient IoT and Smart Home project implementation.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/27/vitalink-a-foldable-180-keyboard-with-an-integrated-13-inch-4k-touchscreen/)
-
----
-
-### 4. Steam Controller leak hints at $99 price tag and dual trackpad design 
-
-The Steam Controller is expected to cost $99 without subsidies. It was announced alongside a new Steam Machine and Steam Frame VR headset. The price reflects Valve's decision to not subsidize new hardware.
-
-💡 *Valve breaks away from hardware subsidization model*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112187-steam-controller-leak-hints-99-cost-dual-trackpad.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/28/esp32-c5-mini-usb-c-board-offers-dual-band-wifi-6-and-up-to-14x-gpio-pins-for-iot-projects/)
 
 ---
 
-### 5. Linux kernel's second-in-command uses local AI bot to hunt bugs, powered by 'clanker' system with AMD's Ryzen AI Max+ Framework Desktop has resulted in close to two dozen patches 
+### 3. News site linked to OpenAI super PAC sent bots posing as journalists to interview real people site has published nearly 100 articles with real quotes gathered by fake writers 
 
-The Linux kernel's second-in-command, Greg Kroah-Hartman, uses AI to hunt bugs. His AI-assisted bug-finding tool is powered by the 'clanker' system and AMD's Ryzen AI Max+ Framework. This has resulted in multiple patches.
+A news site linked to OpenAI's super PAC used automated bots to pose as journalists, gathering quotes from real people under fake bylines for nearly 100 published articles since December.
 
-💡 *AI-driven bug hunting improves Linux kernel's stability and security*
+💡 *Fake journalism can erode trust in media and democratic institutions.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linux-kernels-second-in-command-uses-framework-desktop-to-hunt-bugs-with-local-ai)
-
----
-
-### 6. Toyota s limited edition $3,500 Crown gaming chair has heating, cooling, and a USB-C seatbelt buckle Toyota Crown front car seat turned into gaming chair, enjoy in-car comforts while on your PC 
-
-Toyota has created a limited edition gaming chair, The Crown Collection, featuring heating, cooling, and a USB-C seatbelt buckle. This chair is designed for in-car comfort while PC gaming. The chair is based on the Toyota Crown front car seat.
-
-💡 *Blurring lines between automotive and gaming luxury experiences*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/toyotas-limited-edition-usd3-500-crown-gaming-chair-has-heating-cooling-and-a-usb-c-seatbelt-buckle-enjoy-in-car-comforts-while-you-are-on-your-pc)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/news-site-linked-to-openai-super-pac-sent-bots-posing-as-journalists-to-interview-real-people)
 
 ---
 
-### 7. Chernobyl virus turned 27 today, and it could brick your PC in ways modern malware can't by overwriting BIOS firmware 
+### 4. Valve Steam Controller review: Every input to PC game from the sofa 
 
-The Chernobyl virus, also known as CIH, first appeared 27 years ago today. It was a 1 KB malware that targeted Windows 9x machines, causing widespread damage. This virus could brick a PC by overwriting BIOS firmware.
+The Steam Controller offers customization, comfort, and numerous input options, making it a valuable addition for PC gamers. Although it may not be essential, its adaptability makes it a worthwhile investment. Users can tailor the controller to suit their gaming preferences.
 
-💡 *Legacy malware like CIH can still outsmart modern security measures.*
+💡 *Vast customization options for personalized gaming experiences available.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/the-chernobyl-virus-turned-27-today-and-it-could-brick-your-pc-in-ways-modern-malware-cant)
-
----
-
-### 8. Disabled gamer prototypes true one-handed keyboard-and-mouse controller, device nominated for award maker inspired to build device after losing right arm in an accident 
-
-A disabled gamer prototyped a one-handed keyboard-and-mouse controller to regain gaming capabilities. This innovative peripheral combines a mouse and keypad into a single ergonomic device for one-handed use of PCs and consoles. The device is nominated for an award.
-
-💡 *Accessibility technology empowers gamers with disabilities to participate in gaming communities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/disabled-gamer-prototypes-true-one-handed-keyboard-and-mouse-controller-maker-inspired-to-build-device-after-losing-right-arm-in-an-accident)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/valve-steam-controller-review)
 
 ---
 
-### 9. Commodore backs down over FPGA firmware lockdown firm stops trying to block third-party firmware installs but will stand firm against bricked modded units 
+### 5. What a difference two years make? Comparing SBC prices in 2024 and 2026 
 
-Commodore has reversed its stance on third-party firmware installations, but will not support or replace modified units that become unusable.
+SBC prices have skyrocketed over two years due to rising component costs, making them less attractive. The Raspberry Pi 5 16GB saw a 154% price increase, while the Banana Pi BPI-M4 Zero surged 297%. This trend affects the price/performance ratio.
 
-💡 *Commodore balances user freedom with responsibility for modding risks.*
+💡 *Rising component costs make SBCs less attractive over time.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/commodore-backs-down-over-fpga-firmware-lockdown-it-wont-now-try-and-block-third-party-firmware-installs-but-will-stand-firm-against-bricked-modded-units)
-
----
-
-### 10. Intel reportedly says it boosted yields by selling what would normally be 'scrap' or 'low-expectation' CPUs customers more willing to accept lesser chips due to overwhelming CPU demand 
-
-Intel is selling lower-quality CPUs due to overwhelming demand, increasing revenue through sales of previously considered 'scrap' or 'low-expectation' chips.
-
-💡 *Intel capitalizes on surplus by selling lower-grade CPUs profitably.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-reportedly-says-it-boosted-yields-by-selling-what-would-normally-be-scrap-or-low-expectation-cpus-customers-more-willing-to-accept-lesser-chips-due-to-overwhelming-cpu-demand)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/28/what-a-difference-two-years-make-comparing-sbc-prices-in-2024-and-2026/)
 
 ---
 
-### 11. Enthusiast builds 3D-printed retro PC case and shares the files so you can print it yourself design fits ITX mobo and ATX PSU, comes with front 3.5-inch bay for USB ports 
+### 6. Former boss Shuhei Yoshida thinks day-one PlayStation launches on PC would be a mistake 
 
-Build a 3D-printed retro PC case with an ITX mobo and ATX PSU in under 100 hours using the provided files and guide.
+Shuhei Yoshida believes Sony should not launch PS exclusives on PC day one.
 
-💡 *DIY enthusiasts can create a unique PC case at home with ease.*
+💡 *Exclusive value relies on console ecosystem and player loyalty.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/enthusiast-builds-3d-printed-retro-pc-case-and-shares-3d-files-so-you-can-print-it-yourself-design-fits-itx-mobo-and-atx-psu-comes-with-front-3-5-inch-bay-for-usb-ports)
-
----
-
-### 12. Turtle Beach's new mouse has a 2.25-inch touchscreen and hotswap batteries that last 15 hours apiece 'MC7' costs $160, part of company's new Command Series peripheral lineup 
-
-Turtle Beach's MC7 mouse features a 2.25-inch touchscreen and hotswap batteries lasting 15 hours.
-
-💡 *Innovative mouse design with integrated touchscreen boosts gaming experience*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/turtle-beachs-new-mouse-has-a-2-25-inch-touchscreen-and-hotswap-batteries-that-last-15-hours-apiece-the-mc7-costs-usd160-part-of-companys-new-command-series-peripheral-lineup)
+🔗 [Read Full Article](https://www.techspot.com/news/112189-former-boss-shuhei-yoshida-thinks-day-one-playstation.html)
 
 ---
 
-### 13. KernelUNO A lightweight OS for Arduino UNO with a Linux-like shell 
+### 7. Russian-Chinese Irtysh 32-core CPU runs The Witcher 3 at 30+ FPS heavyweight chip still imposes CPU bottleneck despite impressive specs 
 
-KernelUNO is a lightweight OS for the Arduino UNO with a Linux-like shell, offering 23 built-in commands for file system and hardware control.
+A 32-core Irtysh CPU paired with an AMD Radeon RX 9600 XT runs The Witcher 3 at over 30 FPS, but still imposes a CPU bottleneck due to its limitations.
 
-💡 *Arduino UNO gains a Linux-like shell for enhanced functionality and customization.*
+💡 *Hardware advancements may not always translate to performance improvements in complex applications.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/27/kerneluno-a-lightweight-os-for-arduino-uno-with-a-linux-like-shell/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/russian-chinese-irtysh-32-core-cpu-runs-the-witcher-3-at-30-fps-heavyweight-chip-still-imposes-cpu-bottleneck-despite-impressive-specs)
+
+---
+
+### 8. Steam Controller developer interview Valve talks design, the learning curve, and the lack of kernel drivers 
+
+Valve's Steam Controller requires a deep learning experience for optimal use, according to the developers. This unique controller is best utilized when playing games through Steam. Valve engineer Steve Cardinali emphasizes the importance of exploring the controller features.
+
+💡 *Effective Steam Controller use requires hands-on experience with specific games.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/valve-steam-controller-developer-interview)
+
+---
+
+### 9. Complex that supplies 70% of global critical PCB base targeted in Iranian strike attack could fracture the already disrupted electronics supply chain 
+
+War disruptions in the Middle East are affecting global electronics supply chains, leading to shortages in critical PCB and chipmaking materials. This could drive up prices of gadgets and exacerbate existing disruptions. The impact may be felt across various industries.
+
+💡 *Global electronics supply chain fragility exposed by Middle East conflict*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/complex-that-supplies-70-percent-of-global-critical-pcb-base-targeted-in-iranian-strike-attack-could-fracture-the-already-disrupted-electronics-supply-chain)
+
+---
+
+### 10. Hacktivists share a guide on making working electronics PCBs made from natural clay with prehistoric technique ethical hardware tutorial explains how to find clay, stamp 3D printed circuits, paint traces, and fire tablets 
+
+Feminist hackers share a DIY guide to making working electronics PCBs from natural clay using prehistoric techniques, offering a sustainable alternative to traditional PCB manufacturing.
+
+💡 *Revolutionizing electronics with eco-friendly, low-tech, and cost-effective PCB production methods.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/hacktivists-share-a-guide-on-making-working-electronics-pcbs-made-from-natural-clay-with-prehistoric-technique-ethical-hardware-tutorial-explains-how-to-find-clay-stamp-3d-printed-circuits-paint-traces-and-fire-tablets)
+
+---
+
+### 11. BleachBit 6.0 updates the free PC cleaner with smarter browser cleanup 
+
+BleachBit 6.0 is an updated open-source PC cleaner with advanced browser cleanup capabilities.
+
+💡 *Easier online privacy with smarter browser data management features.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/5741-bleachbit.html)
+
+---
+
+### 12. Tesla moves Cybercab from concept to factory floor, but lowers expectations for robotaxis 
+
+Tesla's Cybercab is a compact EV designed for autonomous operation, relying on Full Self-Driving software and AI.
+
+💡 *Autonomous transportation may require significant adjustments to urban infrastructure and regulations.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112198-tesla-moves-cybercab-concept-factory-floor-but-lowers.html)
+
+---
+
+### 13. Denuvo may have reached the end as every protected PC game is now crackable 
+
+Denuvo's protection has been successfully cracked for all PC games, marking a significant shift in the piracy landscape.
+
+💡 *End of era for anti-piracy technology Denuvo's dominance*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112202-denuvo-may-have-reached-end-every-protected-pc.html)
 
 ---
 

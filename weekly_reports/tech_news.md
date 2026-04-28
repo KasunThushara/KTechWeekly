@@ -1,85 +1,125 @@
 # 📰 Tech News
-**Week of April 27, 2026**
+**Week of April 28, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-04-27 10:35
+- **Articles this week:** 11
+- **Report generated:** 2026-04-28 10:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.S. escalates AI theft accusations U.S. gov't alleges IP theft by DeepSeek and other Chinese AI firms ⭐
+### 1. Valve Steam Controller review: Every input to PC game from the sofa 
 
-DeepSeek launched a 1.6 trillion parameter V4 language model on Huawei chips. The model is the startup's most powerful to date. The U.S. government has accused DeepSeek of IP theft.
+The Steam Controller offers customization, comfort, and numerous input options, making it a valuable addition for PC gamers. Although it may not be essential, its adaptability makes it a worthwhile investment. Users can tailor the controller to suit their gaming preferences.
 
-💡 *Major AI advancements raise concerns about IP theft in the industry.*
+💡 *Vast customization options for personalized gaming experiences available.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-launches-1-6-trillion-parameter-v4-on-huawei-chips-as-us-escalates-ai-theft-accusations)
-
----
-
-### 2. New metal 3D printer shrinks industrial tech down to workbench size with laser powder bed fusion system aims to bring laser metal printing to workshops and labs for $9,600 
-
-Scrap Labs has introduced the Scrap 1, a compact laser metal 3D printer for $9,600, making industrial technology more accessible to workshops and labs.
-
-💡 *Affordable industrial tech empowers small-scale innovation and entrepreneurship.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/new-metal-3d-printer-shrinks-industrial-tech-down-to-workbench-size-with-laser-powder-bed-fusion-system-aims-to-bring-laser-metal-printing-to-workshops-and-labs-for-usd9-600)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/valve-steam-controller-review)
 
 ---
 
-### 3. VitaLink A foldable 180 keyboard with an integrated 13-inch 4K touchscreen (Crowdfunding) 
+### 2. Former boss Shuhei Yoshida thinks day-one PlayStation launches on PC would be a mistake 
 
-VitaLink is a portable, foldable keyboard with a 13-inch 4K touchscreen, ideal for on-the-go work and multitasking.
+Shuhei Yoshida believes Sony should not launch PS exclusives on PC day one.
 
-💡 *Enhanced productivity through a self-contained, dual-screen portable setup.*
+💡 *Exclusive value relies on console ecosystem and player loyalty.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/27/vitalink-a-foldable-180-keyboard-with-an-integrated-13-inch-4k-touchscreen/)
-
----
-
-### 4. Steam Controller leak hints at $99 price tag and dual trackpad design 
-
-The Steam Controller is expected to cost $99 without subsidies. It was announced alongside a new Steam Machine and Steam Frame VR headset. The price reflects Valve's decision to not subsidize new hardware.
-
-💡 *Valve breaks away from hardware subsidization model*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112187-steam-controller-leak-hints-99-cost-dual-trackpad.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112189-former-boss-shuhei-yoshida-thinks-day-one-playstation.html)
 
 ---
 
-### 5. Developer creates a basic first person shooter game using Gaussian splats, and you can play it for free in your browser 
+### 3. Denuvo has been cracked in all single-player games it previously protected 2K Games and Denuvo reportedly retaliate with mandatory 14-day online checks 
 
-A basic first-person shooter game showcases Gaussian splats technology in-browser, offering a free playable experience. Although the game is simple, its concept demonstrates the potential of this innovative technique. It highlights the feasibility of complex graphics in web-based environments.
+Denuvo's anti-tamper tech has been bypassed in all single-player games it protected, while 2K Games were affected. In response, Denuvo reportedly introduced mandatory 14-day online checks in some of its protected games. This move aims to prevent users from exploiting the hack.
 
-💡 *Real-time graphics capabilities in browsers enable new gaming experiences.*
+💡 *Denuvo's effectiveness compromised, forcing new security measures to prevent cheating.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/programming/developer-creates-a-basic-first-person-shooter-game-using-gaussian-splats-and-you-can-play-it-for-free-in-your-browser)
-
----
-
-### 6. Mobile SMS blasters in vehicles prowled Canadian streets, causing 13 million network disruptions and infiltrating tens of thousands of devices blaster blocked 911 calls, stole cellphone data 
-
-Authorities reported 3 individuals used SMS blasters for smishing attacks, disrupting networks and 911 calls.
-
-💡 *Nationwide security compromised by malicious, high-tech SMS spam campaigns.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/sms-blasters-were-cruising-canadian-streets-stealing-cellphone-data-and-blocking-emergency-911-calls-project-lighthouse-infiltrated-tens-of-thousands-of-devices-and-caused-13-million-network-disruptions)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks)
 
 ---
 
-### 7. DARPA calls for proposals for autonomous underwater drones gov't looking for a small, cheap autonomous sub that can be developed and built quickly 
+### 4. You can now 3D print your own Noctua fans and accessories CAD files available as free downloads for Noctua's top-rated products 
 
-DARPA seeks proposals for affordable, quickly deployable autonomous underwater drones.
+Noctua has released 3D CAD files for its top-rated products, allowing for customization and modification. The files have been slightly modified to protect intellectual property rights. This move is expected to benefit enthusiasts and modders.
 
-💡 *Enhanced underwater surveillance and response capabilities boost national security.*
+💡 *DIY enthusiasts can now customize Noctua's top-rated products.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/darpa-calls-for-proposals-for-autonomous-underwater-drones-govt-looking-for-a-small-cheap-autonomous-sub-that-can-be-developed-and-built-quickly)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/noctua-releases-free-3d-cad-files-for-top-rated-fans-and-accessories-enthusiasts-can-now-print-and-modify-their-own-versions)
+
+---
+
+### 5. Microsoft and OpenAI end exclusivity agreement, opening up potential partnerships with Amazon and Google Microsoft will continue to receive revenue share through 2030 
+
+Microsoft and OpenAI end exclusivity agreement, allowing OpenAI to use Amazon and Google cloud services. This move opens up potential partnerships with other tech giants.
+
+💡 *Expanding options for OpenAI's cloud infrastructure gives it more flexibility*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/microsoft-and-openai-end-exclusivity-agreement-opening-up-potential-partnerships-with-amazon-and-google-microsoft-will-continue-to-receive-revenue-share-through-2030)
+
+---
+
+### 6. Q&A: Omar Abed, TDK Invensense CTO, talks smart glasses 
+
+TDK Invensense CTO Omar Abed believes that the tipping point for smart glasses has arrived due to the advanced capabilities of Inertial Measurement Units (IMUs). IMUs enable the use of multiple algorithms at once while operating at low power, making them a crucial component in the development of smart glasses. This technology has the potential to revolutionize various industries such as fitness, healthcare, and gaming.
+
+💡 *Advanced IMUs enable multiple algorithms at low power consumption.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/qa-omar-abed-invensense-cto-talks-smart-glasses)
+
+---
+
+### 7. Startup unveils benchtop metal 3D printer that brings industrial tech below $10,000 
+
+A startup has developed a benchtop metal 3D printer that brings industrial technology under $10,000, allowing for the creation of dense, functional metal components with internal channels and lattice structures.
+
+💡 *Breaking industrial metal 3D printing barriers for small businesses and makers.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112194-startup-compresses-industrial-metal-3d-printing-10k-benchtop.html)
+
+---
+
+### 8. The 2026 Polestar 4 has no rear window, and that is the point 
+
+The 2026 Polestar 4 features a glass roof that replaces the traditional rear window, creating a seamless and uninterrupted design. The trunk is integrated into the body lines, maintaining a smooth surface. Inside, the glass roof ends just past the rear headrests.
+
+💡 *Design innovation prioritizes style and functionality over traditional conventions.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112193-2026-polestar-4-has-no-rear-window-point.html)
+
+---
+
+### 9. 3D printing community organizes against California law that would restrict sales to state-approved models to prevent printing gun parts 
+
+California law restricts 3D printing of gun parts to approved models, sparking opposition from the 3D printing community. Experts argue that 'safety algorithms' would stifle innovation and creativity in makerspaces and schools. The law poses a significant threat to the 3D printing industry's freedom and progress.
+
+💡 *Restricting 3D printing hurts innovation, creativity, and community progress.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/3d-printing-community-organizes-against-california-law-that-would-restrict-sales-to-state-approved-models-to-prevent-printing-gun-parts)
+
+---
+
+### 10. Prepping for SC26? Here s the latest scoop 
+
+Sensors Converge 2026 will feature robots, EVs, and advanced sensors. Attendees can expect to see innovative technologies and applications. This conference aims to showcase cutting-edge solutions.
+
+💡 *Accelerating automation and sustainability through sensor-driven innovation.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/prepping-sc26-heres-latest-scoop)
+
+---
+
+### 11. Which tech company invented work-from-home, then killed it? 
+
+Before Zoom, IBM allowed 40% of its workforce to work remotely. However, the company later reversed its policy. This shift highlights the evolving nature of remote work.
+
+💡 *Shifting work culture can hinder remote work adoption progress*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/175-which-tech-company-invented-work-home-killed/)
 
 ---
 

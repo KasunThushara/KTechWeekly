@@ -1,238 +1,374 @@
 [
   {
-    "title": "Developer creates a basic first person shooter game using Gaussian splats, and you can play it for free in your browser",
-    "summary": "It's not much of a game, but it's an impressive proof of concept for the novel technology.",
-    "link": "https://www.tomshardware.com/software/programming/developer-creates-a-basic-first-person-shooter-game-using-gaussian-splats-and-you-can-play-it-for-free-in-your-browser",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.159564"
-  },
-  {
-    "title": "Linux kernel's second-in-command uses local AI bot to hunt bugs, powered by 'clanker' system with AMD's Ryzen AI Max+ Framework Desktop has resulted in close to two dozen patches",
-    "summary": "Greg Kroah-Hartman posted a photo to Mastodon this weekend showing the hardware behind his AI-assisted bug-finding tool.",
-    "link": "https://www.tomshardware.com/software/linux/linux-kernels-second-in-command-uses-framework-desktop-to-hunt-bugs-with-local-ai",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.159691"
-  },
-  {
-    "title": "RTX 4090 sent for repair is a sophisticated fake with laser-etched VRAM and core, 'This is the best scam I've ever seen' Scammers pulled a factory-level job to sell a dud to unsuspecting customer",
-    "summary": "Northwest Repair was sent an Asus ROG Strix 4090 that had a dead core and memory chips with fake markings to make it look like the real thing. Unfortunately, there's no way of telling what these counterfeit parts actually were, but the main takeaway is just how good these scammers are getting as of late.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/rtx-4090-sent-for-repair-is-a-sophisticated-fake-with-laser-etched-vram-and-core-this-is-the-best-scam-ive-ever-seen-scammers-pulled-a-factory-level-job-to-sell-a-dud-to-unsuspecting-customer",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.159860"
-  },
-  {
-    "title": "Toyota s limited edition $3,500 Crown gaming chair has heating, cooling, and a USB-C seatbelt buckle Toyota Crown front car seat turned into gaming chair, enjoy in-car comforts while on your PC",
-    "summary": "The world's largest automaker has branched out into computer chairs with a limited edition model as part of The Crown Collection.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/toyotas-limited-edition-usd3-500-crown-gaming-chair-has-heating-cooling-and-a-usb-c-seatbelt-buckle-enjoy-in-car-comforts-while-you-are-on-your-pc",
+    "title": "News site linked to OpenAI super PAC sent bots posing as journalists to interview real people site has published nearly 100 articles with real quotes gathered by fake writers",
+    "summary": "The site has published 94 articles since late December using a fully automated pipeline that drafts stories, reviews them, and deploys bots to solicit quotes from real people under fake bylines.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/news-site-linked-to-openai-super-pac-sent-bots-posing-as-journalists-to-interview-real-people",
     "categories": [
       "AI & ML",
       "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.159994"
-  },
-  {
-    "title": "Chernobyl virus turned 27 today, and it could brick your PC in ways modern malware can't by overwriting BIOS firmware",
-    "summary": "27 years ago today, on April 26, 1999, a 1 KB virus called CIH detonated its payload on hundreds of thousands of Windows 9x machines worldwide.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/the-chernobyl-virus-turned-27-today-and-it-could-brick-your-pc-in-ways-modern-malware-cant",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.160098"
-  },
-  {
-    "title": "New metal 3D printer shrinks industrial tech down to workbench size with laser powder bed fusion system aims to bring laser metal printing to workshops and labs for $9,600",
-    "summary": "Scrap Labs has unveiled the Scrap 1, a compact laser powder bed fusion metal 3D printer that fits on a workbench and starts at $9,600 a fraction of what industrial LPBF systems typically cost",
-    "link": "https://www.tomshardware.com/3d-printing/new-metal-3d-printer-shrinks-industrial-tech-down-to-workbench-size-with-laser-powder-bed-fusion-system-aims-to-bring-laser-metal-printing-to-workshops-and-labs-for-usd9-600",
-    "categories": [
-      "AI & ML",
-      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-27T10:34:34.160211"
+    "processed_date": "2026-04-28T10:34:54.063761"
   },
   {
-    "title": "AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU",
-    "summary": "The Ryzen 7 9850X3D was never set up for success, but our testing reveals the ugly side of AMD s latest X3D CPU: higher power consumption for minuscule performance gains.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-7600x3d-review",
+    "title": "Denuvo has been cracked in all single-player games it previously protected 2K Games and Denuvo reportedly retaliate with mandatory 14-day online checks",
+    "summary": "Denuvo has been bypassed in all single-player, non-VR games it previously protected with the widely-publicized hypervisor bypass.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks",
     "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-27T10:34:34.160318"
-  },
-  {
-    "title": "Disabled gamer prototypes true one-handed keyboard-and-mouse controller, device nominated for award maker inspired to build device after losing right arm in an accident",
-    "summary": "A Redditor who lost their right arm in an accident decided to prototype and build their own single-handed controller to get back into gaming. This peripheral combines a mouse and keypad into a single ergonomic device for one-handed use of PCs and consoles.",
-    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/disabled-gamer-prototypes-true-one-handed-keyboard-and-mouse-controller-maker-inspired-to-build-device-after-losing-right-arm-in-an-accident",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.160442"
+    "processed_date": "2026-04-28T10:34:54.063846"
   },
   {
-    "title": "Commodore backs down over FPGA firmware lockdown firm stops trying to block third-party firmware installs but will stand firm against bricked modded units",
-    "summary": "Iconic home computer brand has reversed its no-third-party firmware decision but makes it clear that users will get 'no free support/replacement for bricked modded units.'",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/commodore-backs-down-over-fpga-firmware-lockdown-it-wont-now-try-and-block-third-party-firmware-installs-but-will-stand-firm-against-bricked-modded-units",
+    "title": "Russian-Chinese Irtysh 32-core CPU runs The Witcher 3 at 30+ FPS heavyweight chip still imposes CPU bottleneck despite impressive specs",
+    "summary": "Russian YouTube channel PRO Hi-Tech shows what the 32-core Irtysh C632 processor can achieve in The Witcher 3: Wild Hunt when paired with an AMD Radeon RX 9600 XT graphics card.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/russian-chinese-irtysh-32-core-cpu-runs-the-witcher-3-at-30-fps-heavyweight-chip-still-imposes-cpu-bottleneck-despite-impressive-specs",
     "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.160552"
-  },
-  {
-    "title": "DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.S. escalates AI theft accusations U.S. gov't alleges IP theft by DeepSeek and other Chinese AI firms",
-    "summary": "DeepSeek on Friday released a preview of its V4 large language model, the Hangzhou-based startup's most powerful to date.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-launches-1-6-trillion-parameter-v4-on-huawei-chips-as-us-escalates-ai-theft-accusations",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-27T10:34:34.160663"
-  },
-  {
-    "title": "Taiwan's stock market surpasses the UK's despite having less than a quarter of the UK's economy AI boom propels Taiwan forward, TSMC alone accounts for more than 40% of Taiwan's total market value",
-    "summary": "Taiwan's stock market is now worth more than the United Kingdom's, in a shift driven almost entirely by the insatiable global appetite for AI chips.",
-    "link": "https://www.tomshardware.com/tech-industry/taiwan-stock-market-overtakes-the-uk",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.160772"
-  },
-  {
-    "title": "Intel reportedly says it boosted yields by selling what would normally be 'scrap' or 'low-expectation' CPUs customers more willing to accept lesser chips due to overwhelming CPU demand",
-    "summary": "Intel s Investor relations team confirmed that customers are sweeping up the lower-quality chips, bringing in tangible revenue for the company.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-says-it-boosted-yields-by-selling-what-would-normally-be-scrap-or-low-expectation-cpus-customers-more-willing-to-accept-lesser-chips-due-to-overwhelming-cpu-demand",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.160900"
-  },
-  {
-    "title": "Enthusiast builds 3D-printed retro PC case and shares the files so you can print it yourself design fits ITX mobo and ATX PSU, comes with front 3.5-inch bay for USB ports",
-    "summary": "You finish building this 3D-printed retro PC case in under 100 hours as long as you have all the right tools and materials. u/Potatozeng even included a PDF guide (with pictures!) to help you through the process.",
-    "link": "https://www.tomshardware.com/3d-printing/enthusiast-builds-3d-printed-retro-pc-case-and-shares-3d-files-so-you-can-print-it-yourself-design-fits-itx-mobo-and-atx-psu-comes-with-front-3-5-inch-bay-for-usb-ports",
-    "categories": [
+      "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.161012"
+    "processed_date": "2026-04-28T10:34:54.063946"
   },
   {
-    "title": "Turtle Beach's new mouse has a 2.25-inch touchscreen and hotswap batteries that last 15 hours apiece 'MC7' costs $160, part of company's new Command Series peripheral lineup",
-    "summary": "Turtle Beach's new Command Series of peripherals features a lot of screens, and the most interesting implementation is seen in the MC7 mouse. The 2.25-inch LCD rests where your thumb will, while providing macros or glanceable information like your PC stats. The mouse otherwise has cutting-edge specs and will be available in July.",
-    "link": "https://www.tomshardware.com/peripherals/turtle-beachs-new-mouse-has-a-2-25-inch-touchscreen-and-hotswap-batteries-that-last-15-hours-apiece-the-mc7-costs-usd160-part-of-companys-new-command-series-peripheral-lineup",
+    "title": "You can now 3D print your own Noctua fans and accessories CAD files available as free downloads for Noctua's top-rated products",
+    "summary": "Noctua has opened Pandora's Box by releasing 3D CAD files of many of its fans and accessories, though with some slight modifications to protect Noctua's IP.",
+    "link": "https://www.tomshardware.com/3d-printing/noctua-releases-free-3d-cad-files-for-top-rated-fans-and-accessories-enthusiasts-can-now-print-and-modify-their-own-versions",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.064026"
+  },
+  {
+    "title": "Inside Google's TPU V8 strategy, delivering two chips for two crucial tasks at incredible scale network scales up to 1 million TPUs per cluster, an advantage over Nvidia AI accelerators",
+    "summary": "Google announced its eighth-gen TPUs at Cloud Next, shipping two distinct chip designs for the first time in the TPU program's decade-long history.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/google-splits-its-tpu-into-two-chips-for-the-first-time-with-training-and-inference-variants",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-28T10:34:54.064109"
+  },
+  {
+    "title": "Steam Controller developer interview Valve talks design, the learning curve, and the lack of kernel drivers",
+    "summary": "Valve programmer Pierre-Loup Griffais and engineer Steve Cardinali talked to Tom's Hardware about the Steam Controller, it's deep-dive learning experience, and why you really need to play games through Steam to get the best experience.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/valve-steam-controller-developer-interview",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.161139"
+    "processed_date": "2026-04-28T10:34:54.064189"
   },
   {
-    "title": "Mobile SMS blasters in vehicles prowled Canadian streets, causing 13 million network disruptions and infiltrating tens of thousands of devices blaster blocked 911 calls, stole cellphone data",
-    "summary": "The authorities say that the three individuals used the SMS blasters to send thousands of smishing messages.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/sms-blasters-were-cruising-canadian-streets-stealing-cellphone-data-and-blocking-emergency-911-calls-project-lighthouse-infiltrated-tens-of-thousands-of-devices-and-caused-13-million-network-disruptions",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.161242"
-  },
-  {
-    "title": "DARPA calls for proposals for autonomous underwater drones gov't looking for a small, cheap autonomous sub that can be developed and built quickly",
-    "summary": "DARPA is looking for proposals for cheap undersea drones that can be quickly built and deployed nearly anywhere.",
-    "link": "https://www.tomshardware.com/tech-industry/darpa-calls-for-proposals-for-autonomous-underwater-drones-govt-looking-for-a-small-cheap-autonomous-sub-that-can-be-developed-and-built-quickly",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.161343"
-  },
-  {
-    "title": "VitaLink A foldable 180 keyboard with an integrated 13-inch 4K touchscreen (Crowdfunding)",
-    "summary": "VitaLink is a portable keyboard with a built-in 4K touchscreen. It folds like a laptop and gives you a second display when connected to a laptop, tablet, or mini PC. It is mainly used for people who work on the go and want a simple dual-screen setup without carrying extra devices. It features a 13-inch 4K touch display (3840 1600, 60Hz) and a full keyboard with RGB backlight. The body is made of aluminum and folds flat to about 20 mm, with a 180 hinge. It connects using USB-C for power, video, and data, and works with Windows, macOS, Linux, and Android. It also has built-in speakers, 10-point touch, around 298 PPI, and weighs about 1.2 kg. It can be used for coding, writing, editing, gaming with handheld consoles, and general multitasking in small spaces, such as on desks or while traveling. VitaLink specifications: Compatibility Laptop, tablet, mini PC like [...] The post VitaLink A foldable 180 keyboard with an integrated 13-inch 4K touchscreen (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/27/vitalink-a-foldable-180-keyboard-with-an-integrated-13-inch-4k-touchscreen/",
+    "title": "Valve Steam Controller review: Every input to PC game from the sofa",
+    "summary": "Valve's Steam Controller ($99) is vastly customizable, comfortable, and has a ton of input options. You probably don't strictly need it, but you can make it your own.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/valve-steam-controller-review",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-27T10:34:34.161893"
+    "processed_date": "2026-04-28T10:34:54.064262"
   },
   {
-    "title": "Raspberry Pi CM0 system-on-module is now sold for $33 and up on AliExpress",
-    "summary": "The Raspberry Pi CM0 system-on-module is now available on AliExpress for $33 and up from various resellers, many of which claim to have several thousand in stock. The Raspberry Pi Compute Module Zero was introduced last year with a Raspberry Pi RP3A0 SiP with 512MB RAM, optional 8GB or 16GB eMMC flash, optional WiFi and Bluetooth, and castellated I/Os, or basically a Raspberry Pi Zero 2 W in Compute Module form factor. There s just one little issue: it s only officially sold in China, and the only way to get one is to get a development board like the Makerfabs CM0IQ or a complete product such as the ED-AIC1000 smart camera or ED-IPC1100 industrial box PC. Raspberry Pi CM0 specifications: SiP Raspberry Pi RP3A0 SoC Broadcom BCM2710A1 CPU Quad-core Cortex-A53 processor @ 1.0 GHz GPU VideoCore IV GPU supporting OpenGL ES 1.1, 2.0 graphics VPU H.264/MPEG-4 [...] The post Raspberry Pi CM0 system-on-module is now sold for $33 and up on AliExpress appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/27/raspberry-pi-cm0-system-on-module-is-now-sold-for-33-and-up-on-aliexpress/",
+    "title": "Microsoft and OpenAI end exclusivity agreement, opening up potential partnerships with Amazon and Google Microsoft will continue to receive revenue share through 2030",
+    "summary": "Microsoft and OpenAI are ending their long-standing exclusivity agreement, allowing OpenAI to leverage cloud providers like Amazon and Google.",
+    "link": "https://www.tomshardware.com/tech-industry/microsoft-and-openai-end-exclusivity-agreement-opening-up-potential-partnerships-with-amazon-and-google-microsoft-will-continue-to-receive-revenue-share-through-2030",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.064342"
+  },
+  {
+    "title": "Complex that supplies 70% of global critical PCB base targeted in Iranian strike attack could fracture the already disrupted electronics supply chain",
+    "summary": "War-related disruptions in the Middle East are hitting global electronics supply chains, triggering shortages in critical PCB and chipmaking materials that could drive up prices of gadgets",
+    "link": "https://www.tomshardware.com/tech-industry/complex-that-supplies-70-percent-of-global-critical-pcb-base-targeted-in-iranian-strike-attack-could-fracture-the-already-disrupted-electronics-supply-chain",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.064422"
+  },
+  {
+    "title": "Claude-powered AI coding agent deletes entire company database in 9 seconds backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue",
+    "summary": "After the company database was wiped in just 9 seconds, the founder of PocketOS penned a social media post to warn others about the 'systemic failures' of flagship AI and digital services providers.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.064498"
+  },
+  {
+    "title": "New AI data center in Utah will generate and consume more than twice the amount of power the entire state uses Kevin O'Leary's 9 Gigawatt Utah data center campus approved",
+    "summary": "Utah's Military Installation Development Authority on Friday approved a development agreement for a hyperscale data center campus in Box Elder County.",
+    "link": "https://www.tomshardware.com/tech-industry/kevin-o-learys-9-gw-utah-data-center-campus-approved",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-28T10:34:54.064587"
+  },
+  {
+    "title": "Hacktivists share a guide on making working electronics PCBs made from natural clay with prehistoric technique ethical hardware tutorial explains how to find clay, stamp 3D printed circuits, paint traces, and fire tablets",
+    "summary": "Feminist Hackers share a compelling solution for custom PCB-needy DIYers - a hand-made wild clay prehistoric-fired alternative.",
+    "link": "https://www.tomshardware.com/3d-printing/hacktivists-share-a-guide-on-making-working-electronics-pcbs-made-from-natural-clay-with-prehistoric-technique-ethical-hardware-tutorial-explains-how-to-find-clay-stamp-3d-printed-circuits-paint-traces-and-fire-tablets",
     "categories": [
       "Hardware",
-      "GPUs"
+      "AI & ML"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-04-27T10:34:34.162058"
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.064668"
   },
   {
-    "title": "KernelUNO A lightweight OS for Arduino UNO with a Linux-like shell",
-    "summary": "KernelUNO is an Arduino sketch with 546 lines of code that provides a lightweight OS for the Arduino UNO with a Linux-like shell offering commands such as ls, df, uname, and so on. All you need is an Arduino UNO R3 or a compatible board with a Microchip ATmega328P microcontroller, a USB cable for programming, and optionally a few LEDs and resistors for testing the gpio command in the terminal. KernelUNO offers the following features: Virtual Filesystem Create files and directories in RAM (/dev, /home) Hardware Control GPIO management with pin mode configuration System Monitoring Memory usage, uptime, kernel messages (dmesg) Interactive Shell Real-time command execution with input buffering 23 built-in commands File system commands ls, cd, pwd, mkdir, touch, cat, echo [text] > [file], rm, info [name] Hardware commands pinmode [pin] [in/out] Set pin mode write [pin] [high/low] Write to pin read [...] The post KernelUNO A lightweight OS for Arduino UNO with a Linux-like shell appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/27/kerneluno-a-lightweight-os-for-arduino-uno-with-a-linux-like-shell/",
+    "title": "TSMC's details next-gen CoWoS roadmap: over 14-reticle packages and 48x leap in compute power expected by 2029 massive size enables 24 HBM5E stacks and additional memory bandwidth jump",
+    "summary": "TSMC claims that CoWoS innovations will enable 48x more compute and 34x more memory bandwidth for 2029 AI processors.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-details-next-gen-cowos-roadmap-over-14-reticle-packages-and-48x-leap-in-compute-power-expected-by-2029-massive-size-enables-24-hbm5e-stacks-and-additional-memory-bandwidth-jump",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-28T10:34:54.064746"
+  },
+  {
+    "title": "3D printing community organizes against California law that would restrict sales to state-approved models to prevent printing gun parts",
+    "summary": "Experts warn that \"safety algorithms\" are a death sentence for makerspaces, schools, and innovation.",
+    "link": "https://www.tomshardware.com/3d-printing/3d-printing-community-organizes-against-california-law-that-would-restrict-sales-to-state-approved-models-to-prevent-printing-gun-parts",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-28T10:34:54.064826"
+  },
+  {
+    "title": "ESP32-C5-WIFI6-KIT dual-band WiFi IoT board offers up to 32MB flash, 8MB PSRAM, onboard or external WiFi antenna",
+    "summary": "Waveshare ESP32-C5-WIFI6-KIT development kit looks similar to the official Espressif Systems ESP32-C5-DevkitC-1 board, but offers a wider range of options, including different PSRAM and flash capacities, and onboard or external antenna selection. While the official devkit ships with 8MB PSRAM, 4MB SPI flash, and a PCB antenna, the Waveshare board is offered with up to 8MB PSRAM, 16MB or 32MB flash, and either a PCB and external antennas. It also adds battery support and can be ordered with or without pre-soldered headers. Waveshare ESP32-C5-WIFI6-KIT specifications: Wireless module ESP32-C5-WROOM-1 or ESP32-C5-WROOM-1U SoC ESP32-C5 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory 384 KB SRAM on-chip Storage 320 KB ROM Connectivity Dual-band (2.4GHz/5 GHz) 802.11ax WiFi 6, with 802.11b/g/n WiFi 4 standard fallback 20MHz bandwidth for the 802.11ax mode 20/40MHz bandwidth [...] The post ESP32-C5-WIFI6-KIT dual-band WiFi IoT board offers up to 32MB flash, 8MB PSRAM, onboard or external WiFi antenna appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/28/esp32-c5-wifi6-kit-dual-band-wifi-iot-board-offers-up-to-32mb-flash-8mb-psram-onboard-or-external-wifi-antenna/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.162224"
+    "quality_score": 15,
+    "processed_date": "2026-04-28T10:34:54.065286"
   },
   {
-    "title": "GPU Prices Have Stopped Climbing, But the Market Is Still Broken",
-    "summary": "GPU prices have stopped getting worse , but they have not gotten much better either. Demand has fallen, prices remain elevated, and most graphics cards still sell well above MSRP worldwide. Read Entire Article",
-    "link": "https://www.techspot.com/article/3115-gpu-pricing-q2-2026/",
+    "title": "What a difference two years make? Comparing SBC prices in 2024 and 2026",
+    "summary": "Looking back, 2024 feels like a golden year for single board computers, as the increasing price of RAM (and storage and other components) since late 2025 due to the AI demand has made those much less attractive, price/performance ratio-wise. We ve already documented Raspberry Pi SBC price hikes, and after several increases, the Raspberry Pi 5 16GB went from $120 to $305, or a 154% change in price. Yesterday, I noticed the Banana Pi BPI-M4 Zero had a new version with 4GB RAM and 32GB eMMC flash, and a reader was quick to point out the $181 price tag to Europe was painful, bearing in mind it also includes VAT and shipping. Looking at the original December 2023 article, the BPI-M4 Zero 2GB/8GB sold for $28.90 plus shipping, and it now shows up at $115 before taxes. That s a 297% hike, or about four times the price from a little over [...] The post What a difference two years make? Comparing SBC prices in 2024 and 2026 appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/28/what-a-difference-two-years-make-comparing-sbc-prices-in-2024-and-2026/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-28T10:34:54.065417"
+  },
+  {
+    "title": "ESP32-C5 Mini USB-C board supports 2.4 GHz and 5 GHz WiFi 6, up to 14x GPIO pins for IoT projects",
+    "summary": "ESP32-C5 Mini is a tiny development board with dual-band (2.4/5 GHz) WiFi 6, Bluetooth 5.x LE, and an 802.15.4 radio for Zigbee, Thread, and Matter, as well as two 9-pin headers offering up to fourteen GPIOs for IoT and Smart Home projects. It reminds me of the XIAO ESP32-C5, but it s slightly longer and features an ESP32-C5HF4 SoC instead of an ESP32-C5HR8 + 8MB SPI flash, meaning it lacks PSRAM, and only comes with 4MB flash on-chip instead of external flash. It also adds four GPIO pins and comes with a built-in antenna and an IPEX antenna connector. NiceMCU ESP32-C5 Mini specifications: Wireless MCU Espressif Systems ESP32-C5HF4 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 48 MHz acting as the main processor for power-sensitive applications Memory 384 KB SRAM on-chip Storage 320 KB ROM, 4MB SPI flash Wireless Dual-band (2.4/5 GHz) [...] The post ESP32-C5 Mini USB-C board supports 2.4 GHz and 5 GHz WiFi 6, up to 14x GPIO pins for IoT projects appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/28/esp32-c5-mini-usb-c-board-offers-dual-band-wifi-6-and-up-to-14x-gpio-pins-for-iot-projects/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-28T10:34:54.065549"
+  },
+  {
+    "title": "Q&A: Omar Abed, TDK Invensense CTO, talks smart glasses",
+    "summary": "TDK Invensense CTO Omar Abed describes why the tipping point for smart glasses is now because IMUs enable use of multiple algorithms at once while operating at low power.",
+    "link": "https://www.fiercesensors.com/ai/qa-omar-abed-invensense-cto-talks-smart-glasses",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.066362"
+  },
+  {
+    "title": "Prepping for SC26? Here s the latest scoop",
+    "summary": "Check out robots and EVs and a slew of new sensors at Sensors Converge 2026",
+    "link": "https://www.fiercesensors.com/sensors/prepping-sc26-heres-latest-scoop",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-28T10:34:54.066451"
+  },
+  {
+    "title": "Humanoid robots are coming to Japanese airports as labor shortages worsen",
+    "summary": "The robots will be introduced at the start of May by Japan Airlines on a trial basis, though the ultimate goal is to deploy them permanently. If you're one of the 60 million people passing through Haneda airport every year, keep a lookout for one. Read Entire Article",
+    "link": "https://www.techspot.com/news/112211-humanoid-robots-coming-japanese-airports-labor-shortages-worsen.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.066756"
+  },
+  {
+    "title": "Which tech company invented work-from-home, then killed it?",
+    "summary": "Before Zoom was popular, this tech giant had 40% of its workforce remote. Then came the reversal. Read Entire Article",
+    "link": "https://www.techspot.com/trivia/175-which-tech-company-invented-work-home-killed/",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-28T10:34:54.066842"
+  },
+  {
+    "title": "Microsoft's \"Windows K2\" plan promises a faster Start menu, instant search, and fewer botched updates",
+    "summary": "Sources tell Windows Latest that recent Windows 11 updates are only a sliver of a much larger internal effort to stabilize the operating system after a string of controversies. Botched updates and an aggressive AI push have intensified user frustration with Windows, and rivals macOS and Linux appear to be... Read Entire Article",
+    "link": "https://www.techspot.com/news/112204-microsoft-windows-k2-plan-promises-faster-start-menu.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.066930"
+  },
+  {
+    "title": "Denuvo may have reached the end as every protected PC game is now crackable",
+    "summary": "Released in 2014 to protect FIFA 15 from piracy and circumvention, Denuvo built a reputation as the toughest protection layer in PC gaming. Over the years, various groups and independent developers managed to break the technology on a case-by-case basis, producing cracked versions of individual games. That long-running contest now... Read Entire Article",
+    "link": "https://www.techspot.com/news/112202-denuvo-may-have-reached-end-every-protected-pc.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-28T10:34:54.067015"
+  },
+  {
+    "title": "AMD's $900 Ryzen 9 9950X3D2 is selling despite mixed value arguments",
+    "summary": "The Ryzen 9 9950X3D2 carries an $899 price tag, $200 above the prior flagship. From a technical standpoint, it builds on AMD's 3D V-Cache architecture, which has consistently driven strong gaming performance across recent generations. Independent reviews, however, make it clear that performance gains over the Ryzen 9 9950X3D are... Read Entire Article",
+    "link": "https://www.techspot.com/news/112197-amd-900-ryzen-9-9950x3d2-selling-despite-mixed.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 25,
+    "processed_date": "2026-04-28T10:34:54.067104"
+  },
+  {
+    "title": "Super ZSNES is a GPU-powered SNES emulator that supports per-game enhancements",
+    "summary": "Super ZSNES is said to utilize far more accurate CPU and audio cores compared to the original, on top of a GPU-powered PPU that enables hi-res Mode 7 and per-game enhancements. The new emulator additionally supports common components like save states, rewind / fast-forward, quick loads, bookmarks, and cheats codes,... Read Entire Article",
+    "link": "https://www.techspot.com/news/112201-original-devs-rewrite-zsnes-emulator-scratch-modern-era.html",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-27T10:34:34.163483"
+    "processed_date": "2026-04-28T10:34:54.067186"
   },
   {
-    "title": "Microsoft Visual Studio Professional 2026 is down to $35",
-    "summary": "Visual Studio has never really been the lightweight option. It's not the tool you open just to tweak a config file or write a quick script. It is the big Windows development environment, the one built for full applications, larger codebases, serious debugging, enterprise workflows, C++, .NET, cloud services, web... Read Entire Article",
-    "link": "https://www.techspot.com/news/112188-microsoft-visual-studio-professional-2026-down-35.html",
+    "title": "BleachBit 6.0 updates the free PC cleaner with smarter browser cleanup",
+    "summary": "BleachBit is an open-source utility built to clear junk files, reclaim storage, and scrub traces of browsing and system activity without the bloat often found in commercial cleaners. Its latest release expands browser cleaning, introduces a new cookie manager, and delivers over 100 fixes and improvements. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/5741-bleachbit.html",
     "categories": [
-      "Semiconductors"
+      "Hardware",
+      "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-27T10:34:34.163652"
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.067270"
   },
   {
-    "title": "Steam Controller leak hints at $99 price tag and dual trackpad design",
-    "summary": "The $99 price tag aligns with Valve's decision not to subsidize its new hardware. The company announced the Steam Controller in late 2025 alongside a new Steam Machine and the Steam Frame VR headset. Read Entire Article",
-    "link": "https://www.techspot.com/news/112187-steam-controller-leak-hints-99-cost-dual-trackpad.html",
+    "title": "Former boss Shuhei Yoshida thinks day-one PlayStation launches on PC would be a mistake",
+    "summary": "In a recent interview, Shuhei Yoshida reiterated what he believes Sony should continue doing with some of its most valuable gaming assets. The former head of PlayStation development, who led the division from 2008 to 2019, argued that a platform holder like Sony should not launch first-party exclusives on PC... Read Entire Article",
+    "link": "https://www.techspot.com/news/112189-former-boss-shuhei-yoshida-thinks-day-one-playstation.html",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-27T10:34:34.163846"
+    "processed_date": "2026-04-28T10:34:54.067363"
+  },
+  {
+    "title": "Tesla moves Cybercab from concept to factory floor, but lowers expectations for robotaxis",
+    "summary": "The compact two-seat EV is designed from the ground up to operate without human controls, with no steering wheel, pedals, mirrors, or conventional driver interface in the cabin. Instead, it relies on Tesla's vision-only Full Self-Driving software and an onboard AI computer to perceive its surroundings and navigate city streets. Read Entire Article",
+    "link": "https://www.techspot.com/news/112198-tesla-moves-cybercab-concept-factory-floor-but-lowers.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.067447"
+  },
+  {
+    "title": "Startup unveils benchtop metal 3D printer that brings industrial tech below $10,000",
+    "summary": "The process long dominated by industrial platforms builds parts by spreading thin layers of metal powder and selectively melting them with a laser, repeating the cycle until a finished geometry emerges. The result can be dense, functional components with internal channels and lattice structures that are difficult or... Read Entire Article",
+    "link": "https://www.techspot.com/news/112194-startup-compresses-industrial-metal-3d-printing-10k-benchtop.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.067543"
+  },
+  {
+    "title": "China blocks Meta's $2 billion Manus deal over national security concerns",
+    "summary": "The ruling is a major setback for Mark Zuckerberg's increasingly expensive AI ambitions. Manus burst onto the scene early last year after releasing what it described as the world's first general AI agent software capable of carrying out complex tasks such as research, coding, website creation, and analysis with... Read Entire Article",
+    "link": "https://www.techspot.com/news/112199-meta-2-billion-ai-acquisition-hits-wall-china.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.067634"
+  },
+  {
+    "title": "The 2026 Polestar 4 has no rear window, and that is the point",
+    "summary": "Instead of a traditional rear window, the Polestar 4's glass roof extends back to meet the rear deck, leaving no glass behind the rear seats. The trunk is built into the body lines, so the surface stays smooth and uninterrupted. Inside, the glass roof ends just past the rear headrests,... Read Entire Article",
+    "link": "https://www.techspot.com/news/112193-2026-polestar-4-has-no-rear-window-point.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.067716"
+  },
+  {
+    "title": "Stolen Apple Mac mini resurfaces on Facebook Marketplace as thief posts serial number and license plate",
+    "summary": "The aptly named Redditor macmini posted that they ordered the base model Mac mini from Apple in March. Read Entire Article",
+    "link": "https://www.techspot.com/news/112196-stolen-apple-mac-mini-resurfaces-facebook-marketplace-thief.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.067786"
+  },
+  {
+    "title": "Apple set to overtake Dell as MacBook shipments rise against market decline",
+    "summary": "Market research firm Sigmaintell projects Apple will ship about 28 million MacBooks in 2026, up from roughly 23 million units in 2025. That would push the company past Dell into third place by unit volume, behind Lenovo and HP, with estimated unit volumes of 43 million and 39 million, respectively. Read Entire Article",
+    "link": "https://www.techspot.com/news/112190-apple-set-overtake-dell-macbook-shipments-rise-against.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-28T10:34:54.067863"
+  },
+  {
+    "title": "Repair shop discovers near-perfect fake RTX 4090 with laser-etched VRAM and GPU core",
+    "summary": "The card, an Asus ROG Strix RTX 4090, arrived at the repair shop with a no-detect issue. At first glance, nothing appeared especially suspicious. The board had not been obviously baked, the memory chips were present, the GPU core was there, and the usual signs of a harvested card were missing. Read Entire Article",
+    "link": "https://www.techspot.com/news/112195-repair-shop-discovers-near-perfect-fake-rtx-4090.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.067947"
+  },
+  {
+    "title": "ASML plans to build at least 60 EUV machines this year as AI chip demand surges",
+    "summary": "ASML expects to produce at least 60 EUV systems this year, up sharply from 2025, with capacity rising to at least 80 systems annually in the next phase. At the same time, the firm is working to improve throughput, including upgrades that allow some machines to process more wafers per hour. Read Entire Article",
+    "link": "https://www.techspot.com/news/112192-asml-plans-build-least-60-euv-machines-year.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-28T10:34:54.068026"
   }
 ]
