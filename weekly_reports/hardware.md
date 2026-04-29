@@ -1,145 +1,155 @@
 # 💻 Hardware
-**Week of April 28, 2026**
+**Week of April 29, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-04-28 10:36
+- **Articles this week:** 14
+- **Report generated:** 2026-04-29 10:31
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. ESP32-C5-WIFI6-KIT dual-band WiFi IoT board offers up to 32MB flash, 8MB PSRAM, onboard or external WiFi antenna ⭐
+### 1. A Decade of AMD Ryzen: 10 Years of CPUs Tested ⭐
 
-The Waveshare ESP32-C5-WIFI6-KIT offers a range of options for developers, including different memory capacities, antenna choices, and battery support. It is a dual-band WiFi 6 IoT board based on the ESP32-C5 SoC. The board can be ordered with or without pre-soldered headers.
+AMD Ryzen's 10-year journey from near collapse to CPU dominance is explored through benchmarked flagship generations.
 
-💡 *Enhanced flexibility for IoT development and deployment*
+💡 *Ryzen's rise showcases the power of innovative architecture over pure brute force.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/28/esp32-c5-wifi6-kit-dual-band-wifi-iot-board-offers-up-to-32mb-flash-8mb-psram-onboard-or-external-wifi-antenna/)
-
----
-
-### 2. ESP32-C5 Mini USB-C board supports 2.4 GHz and 5 GHz WiFi 6, up to 14x GPIO pins for IoT projects ⭐
-
-The ESP32-C5 Mini is a compact development board supporting WiFi 6, Bluetooth, and Zigbee, featuring up to 14 GPIO pins for IoT projects.
-
-💡 *Compact design enables efficient IoT and Smart Home project implementation.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/28/esp32-c5-mini-usb-c-board-offers-dual-band-wifi-6-and-up-to-14x-gpio-pins-for-iot-projects/)
+🔗 [Read Full Article](https://www.techspot.com/article/3117-10-years-amd-flagship-cpus/)
 
 ---
 
-### 3. News site linked to OpenAI super PAC sent bots posing as journalists to interview real people site has published nearly 100 articles with real quotes gathered by fake writers 
+### 2. Gigabyte X870E Aorus Xtreme X3D AI Top motherboard review: The latest and greatest Xtreme ⭐
 
-A news site linked to OpenAI's super PAC used automated bots to pose as journalists, gathering quotes from real people under fake bylines for nearly 100 published articles since December.
+Gigabyte's X870E Aorus Xtreme X3D AI Top offers impressive performance and features at a lower price, making it an attractive option for premium AM5 builds.
 
-💡 *Fake journalism can erode trust in media and democratic institutions.*
+💡 *Balances high-end features with affordability for top-of-the-line PC builds*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/news-site-linked-to-openai-super-pac-sent-bots-posing-as-journalists-to-interview-real-people)
-
----
-
-### 4. Valve Steam Controller review: Every input to PC game from the sofa 
-
-The Steam Controller offers customization, comfort, and numerous input options, making it a valuable addition for PC gamers. Although it may not be essential, its adaptability makes it a worthwhile investment. Users can tailor the controller to suit their gaming preferences.
-
-💡 *Vast customization options for personalized gaming experiences available.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/valve-steam-controller-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870e-aorus-xtreme-x3d-ai-top-motherboard-review)
 
 ---
 
-### 5. What a difference two years make? Comparing SBC prices in 2024 and 2026 
+### 3. Nvidia quietly launches 12GB RTX 5070 laptop GPU midrange mobile gaming gets more VRAM amid the RAMpocalypse 
 
-SBC prices have skyrocketed over two years due to rising component costs, making them less attractive. The Raspberry Pi 5 16GB saw a 154% price increase, while the Banana Pi BPI-M4 Zero surged 297%. This trend affects the price/performance ratio.
+Nvidia has launched a 12GB version of its RTX 5070 laptop GPU, offering 50% more VRAM than its 8GB counterpart. This move addresses ongoing memory shortages and provides a boost to mid-range mobile gaming. The 12GB model is a response to the RAMpocalypse.
 
-💡 *Rising component costs make SBCs less attractive over time.*
+💡 *Nvidia addresses memory shortages with higher-capacity laptop GPU options.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/28/what-a-difference-two-years-make-comparing-sbc-prices-in-2024-and-2026/)
-
----
-
-### 6. Former boss Shuhei Yoshida thinks day-one PlayStation launches on PC would be a mistake 
-
-Shuhei Yoshida believes Sony should not launch PS exclusives on PC day one.
-
-💡 *Exclusive value relies on console ecosystem and player loyalty.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112189-former-boss-shuhei-yoshida-thinks-day-one-playstation.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-quietly-launches-12gb-rtx-5070-laptop-gpu-midrange-mobile-gaming-gets-more-vram-amid-the-rampocalypse)
 
 ---
 
-### 7. Russian-Chinese Irtysh 32-core CPU runs The Witcher 3 at 30+ FPS heavyweight chip still imposes CPU bottleneck despite impressive specs 
+### 4. China announces CPU-only exascale supercomputer with 47,000 homemade processors, record 2 Exaflops of performance without GPUs Lingshen super said to use Huawei Kunpeng servers and no foreign-made components 
 
-A 32-core Irtysh CPU paired with an AMD Radeon RX 9600 XT runs The Witcher 3 at over 30 FPS, but still imposes a CPU bottleneck due to its limitations.
+China has announced an exascale supercomputer, Lingshen, powered by 47,000 homemade processors. The system is designed to achieve 2 Exaflops of performance without GPU accelerators. It will be built using Huawei Kunpeng servers with no foreign-made components.
 
-💡 *Hardware advancements may not always translate to performance improvements in complex applications.*
+💡 *First exascale machine without GPU accelerators, marking significant technological milestone*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/russian-chinese-irtysh-32-core-cpu-runs-the-witcher-3-at-30-fps-heavyweight-chip-still-imposes-cpu-bottleneck-despite-impressive-specs)
-
----
-
-### 8. Steam Controller developer interview Valve talks design, the learning curve, and the lack of kernel drivers 
-
-Valve's Steam Controller requires a deep learning experience for optimal use, according to the developers. This unique controller is best utilized when playing games through Steam. Valve engineer Steve Cardinali emphasizes the importance of exploring the controller features.
-
-💡 *Effective Steam Controller use requires hands-on experience with specific games.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/valve-steam-controller-developer-interview)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-plans-cpu-only-exascale-supercomputer-with-47000-domestic-processors)
 
 ---
 
-### 9. Complex that supplies 70% of global critical PCB base targeted in Iranian strike attack could fracture the already disrupted electronics supply chain 
+### 5. Astro A20 X review: For PC gamers with a console 
 
-War disruptions in the Middle East are affecting global electronics supply chains, leading to shortages in critical PCB and chipmaking materials. This could drive up prices of gadgets and exacerbate existing disruptions. The impact may be felt across various industries.
+The Astro A20 X is a versatile wireless gaming headset for PCs and consoles. It features a lightweight design, customizable RGB lighting, and a compact base station for easy switching between devices. The headset is nearly identical to the Logitech G522.
 
-💡 *Global electronics supply chain fragility exposed by Middle East conflict*
+💡 *Seamless device switching for PC and console gamers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/complex-that-supplies-70-percent-of-global-critical-pcb-base-targeted-in-iranian-strike-attack-could-fracture-the-already-disrupted-electronics-supply-chain)
-
----
-
-### 10. Hacktivists share a guide on making working electronics PCBs made from natural clay with prehistoric technique ethical hardware tutorial explains how to find clay, stamp 3D printed circuits, paint traces, and fire tablets 
-
-Feminist hackers share a DIY guide to making working electronics PCBs from natural clay using prehistoric techniques, offering a sustainable alternative to traditional PCB manufacturing.
-
-💡 *Revolutionizing electronics with eco-friendly, low-tech, and cost-effective PCB production methods.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/hacktivists-share-a-guide-on-making-working-electronics-pcbs-made-from-natural-clay-with-prehistoric-technique-ethical-hardware-tutorial-explains-how-to-find-clay-stamp-3d-printed-circuits-paint-traces-and-fire-tablets)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/astro-a20-x-review)
 
 ---
 
-### 11. BleachBit 6.0 updates the free PC cleaner with smarter browser cleanup 
+### 6. SONOFF NSPanel Pro Gen2 A 86-Type Smart Home control panel with two relays, dual-band WiFi, Zigbee 3.0, Matter support 
 
-BleachBit 6.0 is an updated open-source PC cleaner with advanced browser cleanup capabilities.
+The SONOFF NSPanel Pro Gen2 is an 86-type Smart Home control panel with a 3.95-inch touch display, two relays, and dual-band WiFi connectivity. It also features Zigbee 3.0, Matter support, and an Android-based Rockchip RK3326-S SoC. The device includes a speaker, microphone, and various sensors for enhanced functionality.
 
-💡 *Easier online privacy with smarter browser data management features.*
+💡 *Integrates smart home automation with voice interaction and Matter support.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/5741-bleachbit.html)
-
----
-
-### 12. Tesla moves Cybercab from concept to factory floor, but lowers expectations for robotaxis 
-
-Tesla's Cybercab is a compact EV designed for autonomous operation, relying on Full Self-Driving software and AI.
-
-💡 *Autonomous transportation may require significant adjustments to urban infrastructure and regulations.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112198-tesla-moves-cybercab-concept-factory-floor-but-lowers.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/29/sonoff-nspanel-pro-gen2-a-86-type-smart-home-control-panel-two-relays-dual-band-wifi-zigbee-3-0-matter-support/)
 
 ---
 
-### 13. Denuvo may have reached the end as every protected PC game is now crackable 
+### 7. MoreSense MS-07 An ESP32-S3 indoor air quality monitor with SEN66 multisensor and Home Assistant support 
 
-Denuvo's protection has been successfully cracked for all PC games, marking a significant shift in the piracy landscape.
+The MoreSense MS-07 is an indoor air quality monitor that features a Sensirion SEN66 multisensor and ESP32-S3 microcontroller, providing accurate real-time measurements of air quality and comfort levels. It offers local data visualization, control, and supports Home Assistant integration for seamless smart home operation. The device is designed for use in homes, offices, and indoor environments.
 
-💡 *End of era for anti-piracy technology Denuvo's dominance*
+💡 *Advanced air quality monitoring for improved indoor health and comfort*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112202-denuvo-may-have-reached-end-every-protected-pc.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/29/moresense-ms-07-an-esp32-s3-indoor-air-quality-monitor-with-sen66-multisensor-and-home-assistant-support/)
+
+---
+
+### 8. Rockchip RK3326-S quad-core Cortex-A35 SBC targets smart audio devices 
+
+Boardcon EM3326S is a single-board computer featuring a Rockchip RK3326-S quad-core Cortex-A35 processor for smart audio applications.
+
+💡 *Powerful, compact solution for next-generation smart audio devices and IoT projects.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/29/rockchip-rk3326-s-quad-core-cortex-a35-sbc-targets-smart-audio-devices/)
+
+---
+
+### 9. Legendary ZSNES Nintendo emulator rewritten from scratch with GPU-acceleration, no vibe coding new Super ZSNES has far more accurate CPU and audio cores than the original  
+
+Super ZSNES is a rewritten Super Nintendo emulator with GPU-acceleration and improved CPU/audio cores, offering a more accurate gaming experience. This new version provides a major overhaul of the legendary ZSNES emulator, leveraging the power of graphics processing units to enhance performance and fidelity. Super ZSNES is a significant upgrade for fans and retro gaming enthusiasts.
+
+💡 *Faster, more accurate emulation thanks to GPU acceleration and updated cores.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/nintendo/legendary-zsnes-nintendo-emulator-rewritten-from-scratch-with-gpu-acceleration-no-vibe-coding-new-super-zsnes-has-far-more-accurate-cpu-and-audio-cores-than-the-original)
+
+---
+
+### 10. Save $400 on this 4K-ready MSI gaming PC with an RTX 5070 Ti and 32GB DDR5 budget-friendly Aegis Z2 rig also ships with eight-core AMD Ryzen CPU and a 2TB SSD, now just $1,849 
+
+This MSI Aegis Z2 gaming PC offers a powerful configuration at a discounted price. The system includes an eight-core AMD Ryzen CPU, an Nvidia GeForce RTX 5070 Ti, 32GB of DDR5 RAM, and a 2TB SSD. It can be purchased for $1,849.99, a $400 saving.
+
+💡 *High-performance gaming PC at a budget-friendly price point available now.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd400-on-this-4k-ready-msi-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-budget-friendly-aegis-z2-rig-also-ships-with-eight-core-amd-ryzen-cpu-and-a-2tb-ssd-now-just-usd1-849)
+
+---
+
+### 11. EXPO 1.2 only brings partial CUDIMM support due to lack of native IMC compatibility Asus also working on updating older B650 and X670 boards with EXPO 1.2 
+
+New AGESA updates bring partial CUDIMM support to 800-series AM5 motherboards due to IMC compatibility issues.
+
+💡 *Limited CUDIMM speeds hinder AM5 system's memory performance potential.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/expo-1-2-only-brings-partial-cudimm-support-due-to-lack-of-native-imc-compatibility-asus-also-working-on-updating-older-b650-and-x670-boards-with-expo-1-2)
+
+---
+
+### 12. Intel says software, not more cache, is key to beating AMD in gaming 
+
+Intel emphasizes software's importance over hardware upgrades for gaming performance.
+
+💡 *Software optimization trumps hardware specifications for gaming success.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112218-intel-software-not-more-cache-key-beating-amd.html)
+
+---
+
+### 13. A gamer who lost his arm built a one-handed controller after existing hardware failed him 
+
+A gamer adapted existing hardware to create a one-handed controller, improving accessibility. The ERCHAM MK1 combines mouse and keyboard functions in a compact design, offering flexibility and independence. This innovation enables gamers with disabilities to participate more fully in gaming communities.
+
+💡 *Adapting technology enhances inclusivity for gamers with disabilities greatly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112212-gamer-who-lost-arm-built-one-handed-controller.html)
+
+---
+
+### 14. OpenAI and Microsoft's alliance fractures as cloud exclusivity deal ends Azure's single-provider monopoly for ChatGPT is officially over 
+
+Microsoft and OpenAI end exclusivity deal, allowing OpenAI to work with other cloud providers.
+
+💡 *OpenAI gains cloud flexibility, ending Azure's monopoly on ChatGPT services.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsofts-alliance-fractures-as-cloud-exclusivity-deal-ends-azures-single-provider-monopoly-for-chatgpt-is-officially-over)
 
 ---
 

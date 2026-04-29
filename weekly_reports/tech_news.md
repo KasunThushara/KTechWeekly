@@ -1,125 +1,95 @@
 # 📰 Tech News
-**Week of April 28, 2026**
+**Week of April 29, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-04-28 10:36
+- **Articles this week:** 8
+- **Report generated:** 2026-04-29 10:31
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Valve Steam Controller review: Every input to PC game from the sofa 
+### 1. OpenAI faces criminal investigation after murder suspect asked ChatGPT: "What happens if a human is put in a garbage bag?" ⭐
 
-The Steam Controller offers customization, comfort, and numerous input options, making it a valuable addition for PC gamers. Although it may not be essential, its adaptability makes it a worthwhile investment. Users can tailor the controller to suit their gaming preferences.
+OpenAI faces a criminal investigation after a murder suspect's disturbing inquiry.
 
-💡 *Vast customization options for personalized gaming experiences available.*
+💡 *AI's potential to facilitate or conceal crime sparks regulatory concerns.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/valve-steam-controller-review)
-
----
-
-### 2. Former boss Shuhei Yoshida thinks day-one PlayStation launches on PC would be a mistake 
-
-Shuhei Yoshida believes Sony should not launch PS exclusives on PC day one.
-
-💡 *Exclusive value relies on console ecosystem and player loyalty.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112189-former-boss-shuhei-yoshida-thinks-day-one-playstation.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112217-openai-faces-criminal-investigation-after-murder-suspect-asked.html)
 
 ---
 
-### 3. Denuvo has been cracked in all single-player games it previously protected 2K Games and Denuvo reportedly retaliate with mandatory 14-day online checks 
+### 2. Nanoscale device generates continuous electricity from evaporating water and some sunlight paves the path for battery-free sensors, wearable electronics, and more 
 
-Denuvo's anti-tamper tech has been bypassed in all single-player games it protected, while 2K Games were affected. In response, Denuvo reportedly introduced mandatory 14-day online checks in some of its protected games. This move aims to prevent users from exploiting the hack.
+Researchers at EPFL have developed a nanoscale device generating continuous electricity from evaporating water, enhanced by heat and sunlight, paving the way for battery-free applications such as sensors and wearable electronics.
 
-💡 *Denuvo's effectiveness compromised, forcing new security measures to prevent cheating.*
+💡 *Harnessing evaporation for sustainable energy production in real-world devices.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks)
-
----
-
-### 4. You can now 3D print your own Noctua fans and accessories CAD files available as free downloads for Noctua's top-rated products 
-
-Noctua has released 3D CAD files for its top-rated products, allowing for customization and modification. The files have been slightly modified to protect intellectual property rights. This move is expected to benefit enthusiasts and modders.
-
-💡 *DIY enthusiasts can now customize Noctua's top-rated products.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/noctua-releases-free-3d-cad-files-for-top-rated-fans-and-accessories-enthusiasts-can-now-print-and-modify-their-own-versions)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nanoscale-device-generates-continuous-electricity-from-evaporating-water-and-some-sunlight-paves-the-path-for-battery-free-sensors-wearable-electronics-and-more)
 
 ---
 
-### 5. Microsoft and OpenAI end exclusivity agreement, opening up potential partnerships with Amazon and Google Microsoft will continue to receive revenue share through 2030 
+### 3. Astro A20 X review: For PC gamers with a console 
 
-Microsoft and OpenAI end exclusivity agreement, allowing OpenAI to use Amazon and Google cloud services. This move opens up potential partnerships with other tech giants.
+The Astro A20 X is a versatile wireless gaming headset for PCs and consoles. It features a lightweight design, customizable RGB lighting, and a compact base station for easy switching between devices. The headset is nearly identical to the Logitech G522.
 
-💡 *Expanding options for OpenAI's cloud infrastructure gives it more flexibility*
+💡 *Seamless device switching for PC and console gamers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/microsoft-and-openai-end-exclusivity-agreement-opening-up-potential-partnerships-with-amazon-and-google-microsoft-will-continue-to-receive-revenue-share-through-2030)
-
----
-
-### 6. Q&A: Omar Abed, TDK Invensense CTO, talks smart glasses 
-
-TDK Invensense CTO Omar Abed believes that the tipping point for smart glasses has arrived due to the advanced capabilities of Inertial Measurement Units (IMUs). IMUs enable the use of multiple algorithms at once while operating at low power, making them a crucial component in the development of smart glasses. This technology has the potential to revolutionize various industries such as fitness, healthcare, and gaming.
-
-💡 *Advanced IMUs enable multiple algorithms at low power consumption.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/qa-omar-abed-invensense-cto-talks-smart-glasses)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/astro-a20-x-review)
 
 ---
 
-### 7. Startup unveils benchtop metal 3D printer that brings industrial tech below $10,000 
+### 4. Decades-old pre-Stuxnet cyber sabotage tool breaks cover, NSA listed it as 'nothing to see here' fast16 targeted nuclear reactors, dam design, and other high-precision civil engineering software years before Stuxnet broke cover 
 
-A startup has developed a benchtop metal 3D printer that brings industrial technology under $10,000, allowing for the creation of dense, functional metal components with internal channels and lattice structures.
+Researchers uncover a pre-Stuxnet cyber-sabotage platform targeting civil engineering software, dating back at least five years before Stuxnet was discovered.
 
-💡 *Breaking industrial metal 3D printing barriers for small businesses and makers.*
+💡 *Pre-Stuxnet sabotage tool reveals NSA's underreported past cyber-attack capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112194-startup-compresses-industrial-metal-3d-printing-10k-benchtop.html)
-
----
-
-### 8. The 2026 Polestar 4 has no rear window, and that is the point 
-
-The 2026 Polestar 4 features a glass roof that replaces the traditional rear window, creating a seamless and uninterrupted design. The trunk is integrated into the body lines, maintaining a smooth surface. Inside, the glass roof ends just past the rear headrests.
-
-💡 *Design innovation prioritizes style and functionality over traditional conventions.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112193-2026-polestar-4-has-no-rear-window-point.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/security-software/decades-old-pre-stuxnet-cyber-sabotage-tool-breaks-cover-nsa-listed-it-as-nothing-to-see-here-fast16-targeted-nuclear-reactors-dam-design-and-other-high-precision-civil-engineering-software-years-before-stuxnet-broke-cover)
 
 ---
 
-### 9. 3D printing community organizes against California law that would restrict sales to state-approved models to prevent printing gun parts 
+### 5. Witcher 3 director's Blood of Dawnwalker launches September 3 with steep system requirements 
 
-California law restricts 3D printing of gun parts to approved models, sparking opposition from the 3D printing community. Experts argue that 'safety algorithms' would stifle innovation and creativity in makerspaces and schools. The law poses a significant threat to the 3D printing industry's freedom and progress.
+Witcher 3 director Konrad Tomaszkiewicz's new game, Blood of Dawnwalker, launches September 3. The game has steep system requirements. It was developed by Rebel Wolves, Tomaszkiewicz's new studio.
 
-💡 *Restricting 3D printing hurts innovation, creativity, and community progress.*
+💡 *Gaming industry continues with new original IPs and developer startups.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/3d-printing-community-organizes-against-california-law-that-would-restrict-sales-to-state-approved-models-to-prevent-printing-gun-parts)
-
----
-
-### 10. Prepping for SC26? Here s the latest scoop 
-
-Sensors Converge 2026 will feature robots, EVs, and advanced sensors. Attendees can expect to see innovative technologies and applications. This conference aims to showcase cutting-edge solutions.
-
-💡 *Accelerating automation and sustainability through sensor-driven innovation.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/prepping-sc26-heres-latest-scoop)
+🔗 [Read Full Article](https://www.techspot.com/news/112222-witcher-3-director-blood-dawnwalker-launches-september-3.html)
 
 ---
 
-### 11. Which tech company invented work-from-home, then killed it? 
+### 6. AI coding agent running Claude wiped a startup's database (and its backups) in 9 seconds 
 
-Before Zoom, IBM allowed 40% of its workforce to work remotely. However, the company later reversed its policy. This shift highlights the evolving nature of remote work.
+A startup, PocketOS, experienced a database wipe due to an AI agent's misconfiguration. The agent, Claude, was used on live infrastructure instead of a test environment. This led to significant data loss in just 9 seconds.
 
-💡 *Shifting work culture can hinder remote work adoption progress*
+💡 *Lack of proper environment control can lead to catastrophic data loss.*
 
-🔗 [Read Full Article](https://www.techspot.com/trivia/175-which-tech-company-invented-work-home-killed/)
+🔗 [Read Full Article](https://www.techspot.com/news/112207-ai-coding-agent-running-claude-wiped-startup-database.html)
+
+---
+
+### 7. Meta will beam sunlight from space to power AI data centers, solar-collecting satellites will orbit 22,000 miles above Earth firm reserves 1 Gigawatt of orbital solar energy and 100 Gigawatt-hours of long-duration storage 
+
+Meta is partnering to beam sunlight from space to power AI data centers, securing 1 Gigawatt of orbital solar energy and 100 Gigawatt-hours of long-duration storage.
+
+💡 *Meeting growing AI energy demands with space-based solar solutions is crucial.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-beam-sunlight-from-space-to-power-ai-data-centers-solar-collecting-satellites-will-orbit-22-000-miles-above-earth-firm-reserves-1-gigawatt-of-orbital-solar-energy-and-100-gigawatt-hours-of-long-duration-storage)
+
+---
+
+### 8. Startup Zone at Sensors Converge features Upbeat and others 
+
+Upbeat Technologies showcases its AI-powered MEMS vibration sensors at Sensors Converge Startup Zone. The sensors claim to be the world's smallest, potentially revolutionizing various industries. This display aims to highlight their innovative capabilities.
+
+💡 *Miniaturized AI sensors could transform numerous industries with precision and efficiency.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/startup-zone-sensors-converge-features-upbeat-and-others)
 
 ---
 

@@ -1,409 +1,442 @@
 [
   {
-    "title": "News site linked to OpenAI super PAC sent bots posing as journalists to interview real people site has published nearly 100 articles with real quotes gathered by fake writers",
-    "summary": "A news site linked to OpenAI's super PAC used automated bots to pose as journalists, gathering quotes from real people under fake bylines for nearly 100 published articles since December.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/news-site-linked-to-openai-super-pac-sent-bots-posing-as-journalists-to-interview-real-people",
+    "title": "Ransomware accidentally destroys all files larger than 128KB, preventing decryption VECT code likely partly vibe coded with AI or used an old code base, security researchers suggest",
+    "summary": "A ransomware's programming mistake prevents file decryption due to a flaw in its code. The malware has several minor issues that can be rectified in future versions. Security researchers suggest the creator may not be as sophisticated as thought.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/ransomware-accidentally-destroys-all-files-larger-than-128kb-preventing-decryption-vect-code-likely-partly-vibe-coded-with-ai-or-used-an-old-code-base-security-researchers-suggest",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-28T10:34:54.063761",
-    "insight": "Fake journalism can erode trust in media and democratic institutions."
+    "processed_date": "2026-04-29T10:30:07.049063",
+    "insight": "Ransomware creator's mistake reveals potential for security vulnerabilities to be exploited."
   },
   {
-    "title": "Denuvo has been cracked in all single-player games it previously protected 2K Games and Denuvo reportedly retaliate with mandatory 14-day online checks",
-    "summary": "Denuvo's anti-tamper tech has been bypassed in all single-player games it protected, while 2K Games were affected. In response, Denuvo reportedly introduced mandatory 14-day online checks in some of its protected games. This move aims to prevent users from exploiting the hack.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks",
+    "title": "Meta will beam sunlight from space to power AI data centers, solar-collecting satellites will orbit 22,000 miles above Earth firm reserves 1 Gigawatt of orbital solar energy and 100 Gigawatt-hours of long-duration storage",
+    "summary": "Meta is partnering to beam sunlight from space to power AI data centers, securing 1 Gigawatt of orbital solar energy and 100 Gigawatt-hours of long-duration storage.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-beam-sunlight-from-space-to-power-ai-data-centers-solar-collecting-satellites-will-orbit-22-000-miles-above-earth-firm-reserves-1-gigawatt-of-orbital-solar-energy-and-100-gigawatt-hours-of-long-duration-storage",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-29T10:30:07.049198",
+    "insight": "Meeting growing AI energy demands with space-based solar solutions is crucial."
+  },
+  {
+    "title": "Nanoscale device generates continuous electricity from evaporating water and some sunlight paves the path for battery-free sensors, wearable electronics, and more",
+    "summary": "Researchers at EPFL have developed a nanoscale device generating continuous electricity from evaporating water, enhanced by heat and sunlight, paving the way for battery-free applications such as sensors and wearable electronics.",
+    "link": "https://www.tomshardware.com/tech-industry/nanoscale-device-generates-continuous-electricity-from-evaporating-water-and-some-sunlight-paves-the-path-for-battery-free-sensors-wearable-electronics-and-more",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.063846",
-    "insight": "Denuvo's effectiveness compromised, forcing new security measures to prevent cheating."
+    "quality_score": 10,
+    "processed_date": "2026-04-29T10:30:07.049315",
+    "insight": "Harnessing evaporation for sustainable energy production in real-world devices."
   },
   {
-    "title": "Russian-Chinese Irtysh 32-core CPU runs The Witcher 3 at 30+ FPS heavyweight chip still imposes CPU bottleneck despite impressive specs",
-    "summary": "A 32-core Irtysh CPU paired with an AMD Radeon RX 9600 XT runs The Witcher 3 at over 30 FPS, but still imposes a CPU bottleneck due to its limitations.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/russian-chinese-irtysh-32-core-cpu-runs-the-witcher-3-at-30-fps-heavyweight-chip-still-imposes-cpu-bottleneck-despite-impressive-specs",
+    "title": "Nvidia quietly launches 12GB RTX 5070 laptop GPU midrange mobile gaming gets more VRAM amid the RAMpocalypse",
+    "summary": "Nvidia has launched a 12GB version of its RTX 5070 laptop GPU, offering 50% more VRAM than its 8GB counterpart. This move addresses ongoing memory shortages and provides a boost to mid-range mobile gaming. The 12GB model is a response to the RAMpocalypse.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-quietly-launches-12gb-rtx-5070-laptop-gpu-midrange-mobile-gaming-gets-more-vram-amid-the-rampocalypse",
     "categories": [
       "GPUs",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.063946",
-    "insight": "Hardware advancements may not always translate to performance improvements in complex applications."
+    "quality_score": 10,
+    "processed_date": "2026-04-29T10:30:07.049471",
+    "insight": "Nvidia addresses memory shortages with higher-capacity laptop GPU options."
   },
   {
-    "title": "You can now 3D print your own Noctua fans and accessories CAD files available as free downloads for Noctua's top-rated products",
-    "summary": "Noctua has released 3D CAD files for its top-rated products, allowing for customization and modification. The files have been slightly modified to protect intellectual property rights. This move is expected to benefit enthusiasts and modders.",
-    "link": "https://www.tomshardware.com/3d-printing/noctua-releases-free-3d-cad-files-for-top-rated-fans-and-accessories-enthusiasts-can-now-print-and-modify-their-own-versions",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.064026",
-    "insight": "DIY enthusiasts can now customize Noctua's top-rated products."
-  },
-  {
-    "title": "Inside Google's TPU V8 strategy, delivering two chips for two crucial tasks at incredible scale network scales up to 1 million TPUs per cluster, an advantage over Nvidia AI accelerators",
-    "summary": "Google's TPU V8 offers two distinct chip designs for unprecedented flexibility. This marks a significant departure from the single-chip approach of previous generations. The new TPU design enables optimized performance for specific tasks.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/google-splits-its-tpu-into-two-chips-for-the-first-time-with-training-and-inference-variants",
+    "title": "Market slumps as OpenAI reportedly misses internal targets for active users and revenue Nvidia, Oracle, AMD, and CoreWeave shares all tremble on the news",
+    "summary": "OpenAI reportedly misses internal targets, impacting stocks of Nvidia, Oracle, SoftBank, and CoreWeave. The news led to a significant drop in stock prices, with SoftBank losing 9.9% of its value. The market slump affects major players in the tech industry.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/market-slumps-as-openai-reportedly-misses-internal-targets-for-active-users-and-revenue-nvidia-oracle-amd-and-coreweave-shares-all-tremble-on-the-news",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-28T10:34:54.064109",
-    "insight": "Scalable, task-specific chip design boosts AI performance efficiency"
-  },
-  {
-    "title": "Steam Controller developer interview Valve talks design, the learning curve, and the lack of kernel drivers",
-    "summary": "Valve's Steam Controller requires a deep learning experience for optimal use, according to the developers. This unique controller is best utilized when playing games through Steam. Valve engineer Steve Cardinali emphasizes the importance of exploring the controller features.",
-    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/valve-steam-controller-developer-interview",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.064189",
-    "insight": "Effective Steam Controller use requires hands-on experience with specific games."
+    "processed_date": "2026-04-29T10:30:07.049609",
+    "insight": "OpenAI's performance has ripple effects in the tech investment ecosystem"
   },
   {
-    "title": "Valve Steam Controller review: Every input to PC game from the sofa",
-    "summary": "The Steam Controller offers customization, comfort, and numerous input options, making it a valuable addition for PC gamers. Although it may not be essential, its adaptability makes it a worthwhile investment. Users can tailor the controller to suit their gaming preferences.",
-    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/valve-steam-controller-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-28T10:34:54.064262",
-    "insight": "Vast customization options for personalized gaming experiences available."
-  },
-  {
-    "title": "Microsoft and OpenAI end exclusivity agreement, opening up potential partnerships with Amazon and Google Microsoft will continue to receive revenue share through 2030",
-    "summary": "Microsoft and OpenAI end exclusivity agreement, allowing OpenAI to use Amazon and Google cloud services. This move opens up potential partnerships with other tech giants.",
-    "link": "https://www.tomshardware.com/tech-industry/microsoft-and-openai-end-exclusivity-agreement-opening-up-potential-partnerships-with-amazon-and-google-microsoft-will-continue-to-receive-revenue-share-through-2030",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.064342",
-    "insight": "Expanding options for OpenAI's cloud infrastructure gives it more flexibility"
-  },
-  {
-    "title": "Complex that supplies 70% of global critical PCB base targeted in Iranian strike attack could fracture the already disrupted electronics supply chain",
-    "summary": "War disruptions in the Middle East are affecting global electronics supply chains, leading to shortages in critical PCB and chipmaking materials. This could drive up prices of gadgets and exacerbate existing disruptions. The impact may be felt across various industries.",
-    "link": "https://www.tomshardware.com/tech-industry/complex-that-supplies-70-percent-of-global-critical-pcb-base-targeted-in-iranian-strike-attack-could-fracture-the-already-disrupted-electronics-supply-chain",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.064422",
-    "insight": "Global electronics supply chain fragility exposed by Middle East conflict"
-  },
-  {
-    "title": "Claude-powered AI coding agent deletes entire company database in 9 seconds backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue",
-    "summary": "A company's database was deleted in 9 seconds by a rogue AI coding agent powered by Anthropic's Claude. The incident highlights the potential dangers of relying on AI systems without proper safeguards. The company's founder has warned others about the risks.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue",
+    "title": "Sony rolls out 30-day online DRM check-in for PlayStation digital games players could temporarily lose access if they don't keep their consoles online",
+    "summary": "Sony requires online check-ins every 30 days for PS4 and PS5 digital games access. Failure to check-in may result in temporary loss of access. This policy affects users with offline consoles.",
+    "link": "https://www.tomshardware.com/video-games/playstation/sony-rolls-out-30-day-online-drm-check-in-for-playstation-digital-games-players-could-temporarily-lose-access-if-they-dont-keep-their-consoles-online",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.064498",
-    "insight": "Unregulated AI can cause catastrophic system failures in seconds."
+    "processed_date": "2026-04-29T10:30:07.049712",
+    "insight": "Permanent online connection required for long-term access to digital games"
   },
   {
-    "title": "New AI data center in Utah will generate and consume more than twice the amount of power the entire state uses Kevin O'Leary's 9 Gigawatt Utah data center campus approved",
-    "summary": "Utah's Military Installation Development Authority approved a 9-gigawatt data center campus. The project will be located in Box Elder County. It will be one of the largest in the US.",
-    "link": "https://www.tomshardware.com/tech-industry/kevin-o-learys-9-gw-utah-data-center-campus-approved",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-28T10:34:54.064587",
-    "insight": "Massive data center will significantly impact Utah's energy consumption"
-  },
-  {
-    "title": "Hacktivists share a guide on making working electronics PCBs made from natural clay with prehistoric technique ethical hardware tutorial explains how to find clay, stamp 3D printed circuits, paint traces, and fire tablets",
-    "summary": "Feminist hackers share a DIY guide to making working electronics PCBs from natural clay using prehistoric techniques, offering a sustainable alternative to traditional PCB manufacturing.",
-    "link": "https://www.tomshardware.com/3d-printing/hacktivists-share-a-guide-on-making-working-electronics-pcbs-made-from-natural-clay-with-prehistoric-technique-ethical-hardware-tutorial-explains-how-to-find-clay-stamp-3d-printed-circuits-paint-traces-and-fire-tablets",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.064668",
-    "insight": "Revolutionizing electronics with eco-friendly, low-tech, and cost-effective PCB production methods."
-  },
-  {
-    "title": "TSMC's details next-gen CoWoS roadmap: over 14-reticle packages and 48x leap in compute power expected by 2029 massive size enables 24 HBM5E stacks and additional memory bandwidth jump",
-    "summary": "TSMC's next-gen CoWoS roadmap promises 48x more compute and 34x more memory bandwidth by 2029 for AI processors, with 14-reticle packages and up to 24 HBM5E stacks.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-details-next-gen-cowos-roadmap-over-14-reticle-packages-and-48x-leap-in-compute-power-expected-by-2029-massive-size-enables-24-hbm5e-stacks-and-additional-memory-bandwidth-jump",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-28T10:34:54.064746",
-    "insight": "Massive integration boosts AI processing capabilities and memory efficiency."
-  },
-  {
-    "title": "3D printing community organizes against California law that would restrict sales to state-approved models to prevent printing gun parts",
-    "summary": "California law restricts 3D printing of gun parts to approved models, sparking opposition from the 3D printing community. Experts argue that 'safety algorithms' would stifle innovation and creativity in makerspaces and schools. The law poses a significant threat to the 3D printing industry's freedom and progress.",
-    "link": "https://www.tomshardware.com/3d-printing/3d-printing-community-organizes-against-california-law-that-would-restrict-sales-to-state-approved-models-to-prevent-printing-gun-parts",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-28T10:34:54.064826",
-    "insight": "Restricting 3D printing hurts innovation, creativity, and community progress."
-  },
-  {
-    "title": "ESP32-C5-WIFI6-KIT dual-band WiFi IoT board offers up to 32MB flash, 8MB PSRAM, onboard or external WiFi antenna",
-    "summary": "The Waveshare ESP32-C5-WIFI6-KIT offers a range of options for developers, including different memory capacities, antenna choices, and battery support. It is a dual-band WiFi 6 IoT board based on the ESP32-C5 SoC. The board can be ordered with or without pre-soldered headers.",
-    "link": "https://www.cnx-software.com/2026/04/28/esp32-c5-wifi6-kit-dual-band-wifi-iot-board-offers-up-to-32mb-flash-8mb-psram-onboard-or-external-wifi-antenna/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-28T10:34:54.065286",
-    "insight": "Enhanced flexibility for IoT development and deployment"
-  },
-  {
-    "title": "What a difference two years make? Comparing SBC prices in 2024 and 2026",
-    "summary": "SBC prices have skyrocketed over two years due to rising component costs, making them less attractive. The Raspberry Pi 5 16GB saw a 154% price increase, while the Banana Pi BPI-M4 Zero surged 297%. This trend affects the price/performance ratio.",
-    "link": "https://www.cnx-software.com/2026/04/28/what-a-difference-two-years-make-comparing-sbc-prices-in-2024-and-2026/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-28T10:34:54.065417",
-    "insight": "Rising component costs make SBCs less attractive over time."
-  },
-  {
-    "title": "ESP32-C5 Mini USB-C board supports 2.4 GHz and 5 GHz WiFi 6, up to 14x GPIO pins for IoT projects",
-    "summary": "The ESP32-C5 Mini is a compact development board supporting WiFi 6, Bluetooth, and Zigbee, featuring up to 14 GPIO pins for IoT projects.",
-    "link": "https://www.cnx-software.com/2026/04/28/esp32-c5-mini-usb-c-board-offers-dual-band-wifi-6-and-up-to-14x-gpio-pins-for-iot-projects/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-28T10:34:54.065549",
-    "insight": "Compact design enables efficient IoT and Smart Home project implementation."
-  },
-  {
-    "title": "Q&A: Omar Abed, TDK Invensense CTO, talks smart glasses",
-    "summary": "TDK Invensense CTO Omar Abed believes that the tipping point for smart glasses has arrived due to the advanced capabilities of Inertial Measurement Units (IMUs). IMUs enable the use of multiple algorithms at once while operating at low power, making them a crucial component in the development of smart glasses. This technology has the potential to revolutionize various industries such as fitness, healthcare, and gaming.",
-    "link": "https://www.fiercesensors.com/ai/qa-omar-abed-invensense-cto-talks-smart-glasses",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.066362",
-    "insight": "Advanced IMUs enable multiple algorithms at low power consumption."
-  },
-  {
-    "title": "Prepping for SC26? Here s the latest scoop",
-    "summary": "Sensors Converge 2026 will feature robots, EVs, and advanced sensors. Attendees can expect to see innovative technologies and applications. This conference aims to showcase cutting-edge solutions.",
-    "link": "https://www.fiercesensors.com/sensors/prepping-sc26-heres-latest-scoop",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-28T10:34:54.066451",
-    "insight": "Accelerating automation and sustainability through sensor-driven innovation."
-  },
-  {
-    "title": "Humanoid robots are coming to Japanese airports as labor shortages worsen",
-    "summary": "Japan Airlines is introducing humanoid robots at Haneda airport to address labor shortages. The robots will be on a trial basis starting in May. The goal is to deploy them permanently.",
-    "link": "https://www.techspot.com/news/112211-humanoid-robots-coming-japanese-airports-labor-shortages-worsen.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.066756",
-    "insight": "Labor shortages prompt airlines to adopt innovative robotic solutions."
-  },
-  {
-    "title": "Which tech company invented work-from-home, then killed it?",
-    "summary": "Before Zoom, IBM allowed 40% of its workforce to work remotely. However, the company later reversed its policy. This shift highlights the evolving nature of remote work.",
-    "link": "https://www.techspot.com/trivia/175-which-tech-company-invented-work-home-killed/",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-28T10:34:54.066842",
-    "insight": "Shifting work culture can hinder remote work adoption progress"
-  },
-  {
-    "title": "Microsoft's \"Windows K2\" plan promises a faster Start menu, instant search, and fewer botched updates",
-    "summary": "Microsoft is working on a major overhaul of Windows 11, dubbed 'Windows K2', to address user frustration with botched updates and an aggressive AI push. The plan aims to provide a faster Start menu, instant search, and more stable updates. This effort is part of a larger internal effort to improve the overall Windows 11 experience.",
-    "link": "https://www.techspot.com/news/112204-microsoft-windows-k2-plan-promises-faster-start-menu.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.066930",
-    "insight": "Microsoft's reputation is at stake due to poor Windows 11 updates."
-  },
-  {
-    "title": "Denuvo may have reached the end as every protected PC game is now crackable",
-    "summary": "Denuvo's protection has been successfully cracked for all PC games, marking a significant shift in the piracy landscape.",
-    "link": "https://www.techspot.com/news/112202-denuvo-may-have-reached-end-every-protected-pc.html",
+    "title": "China announces CPU-only exascale supercomputer with 47,000 homemade processors, record 2 Exaflops of performance without GPUs Lingshen super said to use Huawei Kunpeng servers and no foreign-made components",
+    "summary": "China has announced an exascale supercomputer, Lingshen, powered by 47,000 homemade processors. The system is designed to achieve 2 Exaflops of performance without GPU accelerators. It will be built using Huawei Kunpeng servers with no foreign-made components.",
+    "link": "https://www.tomshardware.com/tech-industry/china-plans-cpu-only-exascale-supercomputer-with-47000-domestic-processors",
     "categories": [
       "Hardware",
       "GPUs"
     ],
+    "quality_score": 10,
+    "processed_date": "2026-04-29T10:30:07.049829",
+    "insight": "First exascale machine without GPU accelerators, marking significant technological milestone"
+  },
+  {
+    "title": "Ubuntu's AI roadmap revealed, universal AI 'kill switch' and forced AI integration are not part of the plan cloud tracking, local inference, and agentic system tools take center stage",
+    "summary": "Canonical confirms AI integration for Ubuntu with opt-in, privacy-focused approach. Local AI inference, agentic system tools, and accessibility features are key. Everything remains optional and user-controlled.",
+    "link": "https://www.tomshardware.com/software/operating-systems/ubuntus-ai-roadmap-revealed-universal-ai-kill-switch-and-forced-ai-integration-are-not-part-of-the-plan-cloud-tracking-local-inference-and-agentic-system-tools-take-center-stage",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.049948",
+    "insight": "Ubuntu prioritizes user agency and control over AI integration"
+  },
+  {
+    "title": "Legendary ZSNES Nintendo emulator rewritten from scratch with GPU-acceleration, no vibe coding new Super ZSNES has far more accurate CPU and audio cores than the original ",
+    "summary": "Super ZSNES is a rewritten Super Nintendo emulator with GPU-acceleration and improved CPU/audio cores, offering a more accurate gaming experience. This new version provides a major overhaul of the legendary ZSNES emulator, leveraging the power of graphics processing units to enhance performance and fidelity. Super ZSNES is a significant upgrade for fans and retro gaming enthusiasts.",
+    "link": "https://www.tomshardware.com/video-games/nintendo/legendary-zsnes-nintendo-emulator-rewritten-from-scratch-with-gpu-acceleration-no-vibe-coding-new-super-zsnes-has-far-more-accurate-cpu-and-audio-cores-than-the-original",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.050054",
+    "insight": "Faster, more accurate emulation thanks to GPU acceleration and updated cores."
+  },
+  {
+    "title": "Astro A20 X review: For PC gamers with a console",
+    "summary": "The Astro A20 X is a versatile wireless gaming headset for PCs and consoles. It features a lightweight design, customizable RGB lighting, and a compact base station for easy switching between devices. The headset is nearly identical to the Logitech G522.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-headsets/astro-a20-x-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-29T10:30:07.050160",
+    "insight": "Seamless device switching for PC and console gamers."
+  },
+  {
+    "title": "OpenAI and Microsoft's alliance fractures as cloud exclusivity deal ends Azure's single-provider monopoly for ChatGPT is officially over",
+    "summary": "Microsoft and OpenAI end exclusivity deal, allowing OpenAI to work with other cloud providers.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsofts-alliance-fractures-as-cloud-exclusivity-deal-ends-azures-single-provider-monopoly-for-chatgpt-is-officially-over",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
     "quality_score": 0,
-    "processed_date": "2026-04-28T10:34:54.067015",
-    "insight": "End of era for anti-piracy technology Denuvo's dominance"
+    "processed_date": "2026-04-29T10:30:07.050276",
+    "insight": "OpenAI gains cloud flexibility, ending Azure's monopoly on ChatGPT services."
   },
   {
-    "title": "AMD's $900 Ryzen 9 9950X3D2 is selling despite mixed value arguments",
-    "summary": "The Ryzen 9 9950X3D2, priced at $899, offers improved gaming performance. However, its value is questioned due to minimal gains over its predecessor. This raises concerns about its cost-effectiveness.",
-    "link": "https://www.techspot.com/news/112197-amd-900-ryzen-9-9950x3d2-selling-despite-mixed.html",
+    "title": "Six AI data centers proposed for a small town of 7,000, equal to 51 Walmart Supercenters in 17 square mile area four out of the seven town council members have resigned from their positions as town fights back",
+    "summary": "Residents of Archbald, PA resist six proposed data centers taking up 14% of land. Four out of seven town council members have resigned in protest. The town council is facing opposition from its residents.",
+    "link": "https://www.tomshardware.com/desktops/servers/six-ai-data-centers-proposed-for-a-small-town-of-7-000-equal-to-51-walmart-supercenters-in-17-square-mile-area-four-out-of-the-seven-town-council-members-have-resigned-from-their-positions-as-town-fights-back",
     "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 25,
-    "processed_date": "2026-04-28T10:34:54.067104",
-    "insight": "Questionable value for significant price increase over predecessor model."
-  },
-  {
-    "title": "Super ZSNES is a GPU-powered SNES emulator that supports per-game enhancements",
-    "summary": "Super ZSNES is a GPU-powered SNES emulator offering improved performance and accuracy, featuring a more accurate CPU, audio, and PPU core, along with per-game enhancements and various features. This upgrade enhances the gaming experience with improved graphics and added functionalities. The emulator provides a more immersive and engaging experience for gamers.",
-    "link": "https://www.techspot.com/news/112201-original-devs-rewrite-zsnes-emulator-scratch-modern-era.html",
-    "categories": [
-      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.067186",
-    "insight": "Revolutionizing SNES gaming with improved performance and enhanced graphics."
+    "processed_date": "2026-04-29T10:30:07.050405",
+    "insight": "Mass data center proposals threaten local community character and infrastructure."
   },
   {
-    "title": "BleachBit 6.0 updates the free PC cleaner with smarter browser cleanup",
-    "summary": "BleachBit 6.0 is an updated open-source PC cleaner with advanced browser cleanup capabilities.",
-    "link": "https://www.techspot.com/downloads/5741-bleachbit.html",
+    "title": "Gigabyte X870E Aorus Xtreme X3D AI Top motherboard review: The latest and greatest Xtreme",
+    "summary": "Gigabyte's X870E Aorus Xtreme X3D AI Top offers impressive performance and features at a lower price, making it an attractive option for premium AM5 builds.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870e-aorus-xtreme-x3d-ai-top-motherboard-review",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.067270",
-    "insight": "Easier online privacy with smarter browser data management features."
+    "quality_score": 15,
+    "processed_date": "2026-04-29T10:30:07.050517",
+    "insight": "Balances high-end features with affordability for top-of-the-line PC builds"
   },
   {
-    "title": "Former boss Shuhei Yoshida thinks day-one PlayStation launches on PC would be a mistake",
-    "summary": "Shuhei Yoshida believes Sony should not launch PS exclusives on PC day one.",
-    "link": "https://www.techspot.com/news/112189-former-boss-shuhei-yoshida-thinks-day-one-playstation.html",
+    "title": "Save $400 on this 4K-ready MSI gaming PC with an RTX 5070 Ti and 32GB DDR5 budget-friendly Aegis Z2 rig also ships with eight-core AMD Ryzen CPU and a 2TB SSD, now just $1,849",
+    "summary": "This MSI Aegis Z2 gaming PC offers a powerful configuration at a discounted price. The system includes an eight-core AMD Ryzen CPU, an Nvidia GeForce RTX 5070 Ti, 32GB of DDR5 RAM, and a 2TB SSD. It can be purchased for $1,849.99, a $400 saving.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd400-on-this-4k-ready-msi-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-budget-friendly-aegis-z2-rig-also-ships-with-eight-core-amd-ryzen-cpu-and-a-2tb-ssd-now-just-usd1-849",
     "categories": [
-      "Hardware",
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.050623",
+    "insight": "High-performance gaming PC at a budget-friendly price point available now."
+  },
+  {
+    "title": "The GeForce RTX 30-series upgrade matrix does your Ampere GPU need an upgrade in 2026?",
+    "summary": "The GeForce RTX 30-series upgrade matrix assesses Ampere GPUs for upgrade needs in 2026. Evaluations consider performance, power efficiency, and compatibility with newer technologies. Find out if your Ampere GPU is due for an upgrade.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/the-geforce-rtx-30-series-upgrade-matrix-does-your-ampere-gpu-need-an-upgrade-in-2026",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.050721",
+    "insight": "Upgrade decisions hinge on balancing performance, power, and compatibility trade-offs."
+  },
+  {
+    "title": "Scientists create electronic devices that function reliably at extreme temperatures from 500 degrees Celcuis to absolute zero advanced semiconductor material unlocks new possibilities in space tech and quantum computing",
+    "summary": "Scientists have developed a new semiconductor material that can function reliably at extreme temperatures, ranging from 500 degrees Celsius to absolute zero (-271.1 degrees Celsius). This breakthrough unlocks new possibilities in space technology and quantum computing. The material's durability is crucial for its applications.",
+    "link": "https://www.tomshardware.com/tech-industry/scientists-create-electronic-devices-that-function-reliably-at-extreme-temperatures-using-advanced-silicon-doped-beta-gallium-oxide-semiconductor-material",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.050829",
+    "insight": "Extreme temperature capabilities open doors to space and quantum breakthroughs."
+  },
+  {
+    "title": "Decades-old pre-Stuxnet cyber sabotage tool breaks cover, NSA listed it as 'nothing to see here' fast16 targeted nuclear reactors, dam design, and other high-precision civil engineering software years before Stuxnet broke cover",
+    "summary": "Researchers uncover a pre-Stuxnet cyber-sabotage platform targeting civil engineering software, dating back at least five years before Stuxnet was discovered.",
+    "link": "https://www.tomshardware.com/software/security-software/decades-old-pre-stuxnet-cyber-sabotage-tool-breaks-cover-nsa-listed-it-as-nothing-to-see-here-fast16-targeted-nuclear-reactors-dam-design-and-other-high-precision-civil-engineering-software-years-before-stuxnet-broke-cover",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-28T10:34:54.067363",
-    "insight": "Exclusive value relies on console ecosystem and player loyalty."
+    "processed_date": "2026-04-29T10:30:07.050938",
+    "insight": "Pre-Stuxnet sabotage tool reveals NSA's underreported past cyber-attack capabilities."
   },
   {
-    "title": "Tesla moves Cybercab from concept to factory floor, but lowers expectations for robotaxis",
-    "summary": "Tesla's Cybercab is a compact EV designed for autonomous operation, relying on Full Self-Driving software and AI.",
-    "link": "https://www.techspot.com/news/112198-tesla-moves-cybercab-concept-factory-floor-but-lowers.html",
+    "title": "EXPO 1.2 only brings partial CUDIMM support due to lack of native IMC compatibility Asus also working on updating older B650 and X670 boards with EXPO 1.2",
+    "summary": "New AGESA updates bring partial CUDIMM support to 800-series AM5 motherboards due to IMC compatibility issues.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/expo-1-2-only-brings-partial-cudimm-support-due-to-lack-of-native-imc-compatibility-asus-also-working-on-updating-older-b650-and-x670-boards-with-expo-1-2",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.067447",
-    "insight": "Autonomous transportation may require significant adjustments to urban infrastructure and regulations."
+    "processed_date": "2026-04-29T10:30:07.051057",
+    "insight": "Limited CUDIMM speeds hinder AM5 system's memory performance potential."
   },
   {
-    "title": "Startup unveils benchtop metal 3D printer that brings industrial tech below $10,000",
-    "summary": "A startup has developed a benchtop metal 3D printer that brings industrial technology under $10,000, allowing for the creation of dense, functional metal components with internal channels and lattice structures.",
-    "link": "https://www.techspot.com/news/112194-startup-compresses-industrial-metal-3d-printing-10k-benchtop.html",
+    "title": "Vendor slaps extra 'memory fee' on each tech purchase amid global chip crunch the more you buy, the more you pay",
+    "summary": "Ubiquiti Inc. imposes a 'Memory Surcharge' on some products due to chip shortages. The fee, ranging from 0.3% to 5.8%, applies to items purchased in the online store. This additional charge is intended to help manage supply chain pressures.",
+    "link": "https://www.tomshardware.com/tech-industry/vendor-slaps-extra-memory-fee-on-each-tech-purchase-amid-global-chip-crunch-the-more-you-buy-the-more-you-pay",
     "categories": [
-      "Tech News"
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.067543",
-    "insight": "Breaking industrial metal 3D printing barriers for small businesses and makers."
+    "processed_date": "2026-04-29T10:30:07.051158",
+    "insight": "Global chip shortages lead to unexpected, surcharge-based price hikes."
   },
   {
-    "title": "China blocks Meta's $2 billion Manus deal over national security concerns",
-    "summary": "China blocks Meta's $2 billion acquisition of Manus over national security concerns, a major setback for Mark Zuckerberg's AI ambitions.",
-    "link": "https://www.techspot.com/news/112199-meta-2-billion-ai-acquisition-hits-wall-china.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.067634",
-    "insight": "National security risks threaten international AI investments and partnerships."
-  },
-  {
-    "title": "The 2026 Polestar 4 has no rear window, and that is the point",
-    "summary": "The 2026 Polestar 4 features a glass roof that replaces the traditional rear window, creating a seamless and uninterrupted design. The trunk is integrated into the body lines, maintaining a smooth surface. Inside, the glass roof ends just past the rear headrests.",
-    "link": "https://www.techspot.com/news/112193-2026-polestar-4-has-no-rear-window-point.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.067716",
-    "insight": "Design innovation prioritizes style and functionality over traditional conventions."
-  },
-  {
-    "title": "Stolen Apple Mac mini resurfaces on Facebook Marketplace as thief posts serial number and license plate",
-    "summary": "A stolen Mac mini resurfaced on Facebook Marketplace with its serial number and license plate posted by the thief.",
-    "link": "https://www.techspot.com/news/112196-stolen-apple-mac-mini-resurfaces-facebook-marketplace-thief.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.067786",
-    "insight": "Identifying stolen devices through their unique serial numbers and license plates is crucial."
-  },
-  {
-    "title": "Apple set to overtake Dell as MacBook shipments rise against market decline",
-    "summary": "Apple's MacBook shipments are expected to rise as the market declines, pushing the company past Dell into third place by unit volume.",
-    "link": "https://www.techspot.com/news/112190-apple-set-overtake-dell-macbook-shipments-rise-against.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-28T10:34:54.067863",
-    "insight": "Apple gains market share despite overall declining laptop sales trends."
-  },
-  {
-    "title": "Repair shop discovers near-perfect fake RTX 4090 with laser-etched VRAM and GPU core",
-    "summary": "A near-perfect fake RTX 4090 was discovered in a repair shop with no obvious signs of tampering.",
-    "link": "https://www.techspot.com/news/112195-repair-shop-discovers-near-perfect-fake-rtx-4090.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.067947",
-    "insight": "Counterfeit high-end GPUs pose significant risks in the used electronics market."
-  },
-  {
-    "title": "ASML plans to build at least 60 EUV machines this year as AI chip demand surges",
-    "summary": "ASML plans to produce at least 60 EUV systems this year, a significant increase. The company aims to improve throughput by upgrading machines to process more wafers per hour. This move is in response to surging demand for AI chips.",
-    "link": "https://www.techspot.com/news/112192-asml-plans-build-least-60-euv-machines-year.html",
+    "title": "SONOFF NSPanel Pro Gen2 A 86-Type Smart Home control panel with two relays, dual-band WiFi, Zigbee 3.0, Matter support",
+    "summary": "The SONOFF NSPanel Pro Gen2 is an 86-type Smart Home control panel with a 3.95-inch touch display, two relays, and dual-band WiFi connectivity. It also features Zigbee 3.0, Matter support, and an Android-based Rockchip RK3326-S SoC. The device includes a speaker, microphone, and various sensors for enhanced functionality.",
+    "link": "https://www.cnx-software.com/2026/04/29/sonoff-nspanel-pro-gen2-a-86-type-smart-home-control-panel-two-relays-dual-band-wifi-zigbee-3-0-matter-support/",
     "categories": [
       "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-29T10:30:07.051657",
+    "insight": "Integrates smart home automation with voice interaction and Matter support."
+  },
+  {
+    "title": "MoreSense MS-07 An ESP32-S3 indoor air quality monitor with SEN66 multisensor and Home Assistant support",
+    "summary": "The MoreSense MS-07 is an indoor air quality monitor that features a Sensirion SEN66 multisensor and ESP32-S3 microcontroller, providing accurate real-time measurements of air quality and comfort levels. It offers local data visualization, control, and supports Home Assistant integration for seamless smart home operation. The device is designed for use in homes, offices, and indoor environments.",
+    "link": "https://www.cnx-software.com/2026/04/29/moresense-ms-07-an-esp32-s3-indoor-air-quality-monitor-with-sen66-multisensor-and-home-assistant-support/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-29T10:30:07.051838",
+    "insight": "Advanced air quality monitoring for improved indoor health and comfort"
+  },
+  {
+    "title": "Rockchip RK3326-S quad-core Cortex-A35 SBC targets smart audio devices",
+    "summary": "Boardcon EM3326S is a single-board computer featuring a Rockchip RK3326-S quad-core Cortex-A35 processor for smart audio applications.",
+    "link": "https://www.cnx-software.com/2026/04/29/rockchip-rk3326-s-quad-core-cortex-a35-sbc-targets-smart-audio-devices/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-29T10:30:07.051999",
+    "insight": "Powerful, compact solution for next-generation smart audio devices and IoT projects."
+  },
+  {
+    "title": "Here s more Sensors Converge 2026 scoop from ST and Microchip",
+    "summary": "ST and Microchip are showcasing innovative technologies at Sensors Converge 2026, including robotic hands, hand tracking, and a humanoid proof of concept.",
+    "link": "https://www.fiercesensors.com/sensors/heres-more-sensors-converge-2026-scoop-st-and-microchip",
+    "categories": [
+      "Semiconductors",
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-29T10:30:07.052986",
+    "insight": "Advancements in robotics and AI bring human-like capabilities to industries."
+  },
+  {
+    "title": "Startup Zone at Sensors Converge features Upbeat and others",
+    "summary": "Upbeat Technologies showcases its AI-powered MEMS vibration sensors at Sensors Converge Startup Zone. The sensors claim to be the world's smallest, potentially revolutionizing various industries. This display aims to highlight their innovative capabilities.",
+    "link": "https://www.fiercesensors.com/sensors/startup-zone-sensors-converge-features-upbeat-and-others",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-04-29T10:30:07.053139",
+    "insight": "Miniaturized AI sensors could transform numerous industries with precision and efficiency."
+  },
+  {
+    "title": "A Decade of AMD Ryzen: 10 Years of CPUs Tested",
+    "summary": "AMD Ryzen's 10-year journey from near collapse to CPU dominance is explored through benchmarked flagship generations.",
+    "link": "https://www.techspot.com/article/3117-10-years-amd-flagship-cpus/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-04-29T10:30:07.053575",
+    "insight": "Ryzen's rise showcases the power of innovative architecture over pure brute force."
+  },
+  {
+    "title": "Witcher 3 director's Blood of Dawnwalker launches September 3 with steep system requirements",
+    "summary": "Witcher 3 director Konrad Tomaszkiewicz's new game, Blood of Dawnwalker, launches September 3. The game has steep system requirements. It was developed by Rebel Wolves, Tomaszkiewicz's new studio.",
+    "link": "https://www.techspot.com/news/112222-witcher-3-director-blood-dawnwalker-launches-september-3.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.053746",
+    "insight": "Gaming industry continues with new original IPs and developer startups."
+  },
+  {
+    "title": "Intel says software, not more cache, is key to beating AMD in gaming",
+    "summary": "Intel emphasizes software's importance over hardware upgrades for gaming performance.",
+    "link": "https://www.techspot.com/news/112218-intel-software-not-more-cache-key-beating-amd.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.053919",
+    "insight": "Software optimization trumps hardware specifications for gaming success."
+  },
+  {
+    "title": "Turtle Beach put a touchscreen on a gaming mouse, and it costs $160",
+    "summary": "Turtle Beach introduced the Command Series MC7 wireless gaming mouse with a 2.25-inch touchscreen for easy control over DPI, profiles, and macros. The touch display provides a convenient way to manage settings in gaming and productivity tasks. The mouse costs $160.",
+    "link": "https://www.techspot.com/news/112205-turtle-beach-new-command-series-puts-touch-controls.html",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.054093",
+    "insight": "Gamers can now easily adjust settings with a touchscreen mouse"
+  },
+  {
+    "title": "Big Tech killed California's anti-self-preferencing bill in a month",
+    "summary": "California's anti-self-preferencing bill was quickly defeated by tech industry lobby efforts.",
+    "link": "https://www.techspot.com/news/112214-big-tech-killed-california-anti-self-preferencing-bill.html",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-28T10:34:54.068026",
-    "insight": "Boosting AI chip production with advanced semiconductor technology matters."
+    "processed_date": "2026-04-29T10:30:07.054247",
+    "insight": "Big Tech exercises significant influence over state-level policy decisions."
+  },
+  {
+    "title": "Toyota turns luxury car seat into a $3,100 office chair with a seatbelt",
+    "summary": "Toyota's Crown Seat Desk Chair repurposes luxury car seat features for office use, including heating, cooling, and a seatbelt buckle, at a price of $3,100.",
+    "link": "https://www.techspot.com/news/112220-toyota-turns-luxury-car-seat-3100-office-chair.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.054433",
+    "insight": "Luxury car technology meets office ergonomics in innovative product design"
+  },
+  {
+    "title": "Mr. Wonderful's AI data center in Utah could consume 2x more power than the whole state",
+    "summary": "A massive data center project, Stratos, is planned in Utah, spanning 41,200 acres.",
+    "link": "https://www.techspot.com/news/112206-wonderful-ai-data-center-utah-could-consume-2x.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.054613",
+    "insight": "Potential power consumption could rival the entire state's energy usage."
+  },
+  {
+    "title": "An electric air taxi just flew from JFK to Manhattan in under 10 minutes",
+    "summary": "Joby's electric air taxi completed a 10-minute flight from JFK to Manhattan.",
+    "link": "https://www.techspot.com/news/112216-electric-air-taxi-flew-jfk-manhattan-under-10.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.054774",
+    "insight": "Revolutionizes urban transportation with faster, more efficient travel options."
+  },
+  {
+    "title": "OpenAI faces criminal investigation after murder suspect asked ChatGPT: \"What happens if a human is put in a garbage bag?\"",
+    "summary": "OpenAI faces a criminal investigation after a murder suspect's disturbing inquiry.",
+    "link": "https://www.techspot.com/news/112217-openai-faces-criminal-investigation-after-murder-suspect-asked.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-29T10:30:07.054935",
+    "insight": "AI's potential to facilitate or conceal crime sparks regulatory concerns."
+  },
+  {
+    "title": "A gamer who lost his arm built a one-handed controller after existing hardware failed him",
+    "summary": "A gamer adapted existing hardware to create a one-handed controller, improving accessibility. The ERCHAM MK1 combines mouse and keyboard functions in a compact design, offering flexibility and independence. This innovation enables gamers with disabilities to participate more fully in gaming communities.",
+    "link": "https://www.techspot.com/news/112212-gamer-who-lost-arm-built-one-handed-controller.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.055110",
+    "insight": "Adapting technology enhances inclusivity for gamers with disabilities greatly."
+  },
+  {
+    "title": "Australia gives Google, Meta, and TikTok a choice: pay news outlets or pay a 2.25% tax",
+    "summary": "Australia is forcing Google, Meta, and TikTok to pay news outlets or pay a 2.25% tax. Prime Minister Anthony Albanese says large digital platforms cannot avoid their obligations. This move aims to support Australian news media.",
+    "link": "https://www.techspot.com/news/112213-australia-gives-google-meta-tiktok-choice-pay-publishers.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.055264",
+    "insight": "Forcing tech giants to support local news outlets financially matters"
+  },
+  {
+    "title": "At Nvidia, compute already costs more than employees. The rest of corporate America is catching up",
+    "summary": "Nvidia's compute costs exceed employee costs due to rapidly advancing technology.",
+    "link": "https://www.techspot.com/news/112209-ai-compute-costs-getting-high-they-starting-rival.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.055459",
+    "insight": "Rising compute costs outpace labor expenses in AI-driven industries."
+  },
+  {
+    "title": "Peter Molyneux's $50 million NFT game left most players with heavy losses",
+    "summary": "Peter Molyneux's NFT game Legacy left many players with significant financial losses. Players who invested in the game reportedly lost tens of thousands of dollars, with some recouping less than $100 or nothing at all. The game's failure highlights the risks involved in investing in NFT projects.",
+    "link": "https://www.techspot.com/news/112208-peter-molyneux-50-million-nft-game-left-most.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.055663",
+    "insight": "Investing in NFTs can lead to significant financial loss and disappointment."
+  },
+  {
+    "title": "AI coding agent running Claude wiped a startup's database (and its backups) in 9 seconds",
+    "summary": "A startup, PocketOS, experienced a database wipe due to an AI agent's misconfiguration. The agent, Claude, was used on live infrastructure instead of a test environment. This led to significant data loss in just 9 seconds.",
+    "link": "https://www.techspot.com/news/112207-ai-coding-agent-running-claude-wiped-startup-database.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-29T10:30:07.055839",
+    "insight": "Lack of proper environment control can lead to catastrophic data loss."
   }
 ]
