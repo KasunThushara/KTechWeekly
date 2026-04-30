@@ -1,225 +1,205 @@
 # 🤖 AI & ML
-**Week of April 29, 2026**
+**Week of April 30, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 21
-- **Report generated:** 2026-04-29 10:31
+- **Articles this week:** 19
+- **Report generated:** 2026-04-30 10:30
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Gigabyte X870E Aorus Xtreme X3D AI Top motherboard review: The latest and greatest Xtreme ⭐
+### 1. Framework's new RTX 5070 12GB graphics module costs a whopping $1,199 72% more expensive than $699 8GB version, says pricing is beyond its control 
 
-Gigabyte's X870E Aorus Xtreme X3D AI Top offers impressive performance and features at a lower price, making it an attractive option for premium AM5 builds.
+Framework's new RTX 5070 12GB graphics module costs $1,199, a 72% price increase from the $699 8GB version.
 
-💡 *Balances high-end features with affordability for top-of-the-line PC builds*
+💡 *Pricing disparity highlights manufacturers' limited control over GPU costs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870e-aorus-xtreme-x3d-ai-top-motherboard-review)
-
----
-
-### 2. OpenAI faces criminal investigation after murder suspect asked ChatGPT: "What happens if a human is put in a garbage bag?" ⭐
-
-OpenAI faces a criminal investigation after a murder suspect's disturbing inquiry.
-
-💡 *AI's potential to facilitate or conceal crime sparks regulatory concerns.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112217-openai-faces-criminal-investigation-after-murder-suspect-asked.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/frameworks-new-rtx-5070-12gb-graphics-module-costs-a-whopping-usd1-199-72-percent-more-expensive-than-usd699-8gb-version-says-pricing-is-beyond-its-control)
 
 ---
 
-### 3. Ransomware accidentally destroys all files larger than 128KB, preventing decryption VECT code likely partly vibe coded with AI or used an old code base, security researchers suggest 
+### 2. US stops exports of tools to China s number two chip maker Hua Hong and Huali Microelectronics reportedly on the cusp of starting a 7-nm fab in Shanghai 
 
-A ransomware's programming mistake prevents file decryption due to a flaw in its code. The malware has several minor issues that can be rectified in future versions. Security researchers suggest the creator may not be as sophisticated as thought.
+US restricts tool exports to China's Hua Hong and Huali Microelectronics. The move aims to prevent high-tech tools from being used in a planned 7-nm fab in Shanghai, reportedly to be used by Chinese company Hua Hong and Huali Microelectronics.
 
-💡 *Ransomware creator's mistake reveals potential for security vulnerabilities to be exploited.*
+💡 *US limits China's access to advanced chip production technology*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/ransomware-accidentally-destroys-all-files-larger-than-128kb-preventing-decryption-vect-code-likely-partly-vibe-coded-with-ai-or-used-an-old-code-base-security-researchers-suggest)
-
----
-
-### 4. MoreSense MS-07 An ESP32-S3 indoor air quality monitor with SEN66 multisensor and Home Assistant support 
-
-The MoreSense MS-07 is an indoor air quality monitor that features a Sensirion SEN66 multisensor and ESP32-S3 microcontroller, providing accurate real-time measurements of air quality and comfort levels. It offers local data visualization, control, and supports Home Assistant integration for seamless smart home operation. The device is designed for use in homes, offices, and indoor environments.
-
-💡 *Advanced air quality monitoring for improved indoor health and comfort*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/29/moresense-ms-07-an-esp32-s3-indoor-air-quality-monitor-with-sen66-multisensor-and-home-assistant-support/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-stops-exports-of-chip-making-tools-to-chinas-number-two-chip-maker-hua-hong-and-huali-microelectronics-reportedly-on-the-cusp-of-starting-a-7-nm-fab-in-shanghai)
 
 ---
 
-### 5. Market slumps as OpenAI reportedly misses internal targets for active users and revenue Nvidia, Oracle, AMD, and CoreWeave shares all tremble on the news 
+### 3. STMicro VD65G4 and VD55G4 0.56MP global shutter image sensors enable ultra-low-power always-on event-driven vision 
 
-OpenAI reportedly misses internal targets, impacting stocks of Nvidia, Oracle, SoftBank, and CoreWeave. The news led to a significant drop in stock prices, with SoftBank losing 9.9% of its value. The market slump affects major players in the tech industry.
+STMicroelectronics' VD65G4 and VD55G4 image sensors offer ultra-low-power, global shutter technology for always-on vision applications.
 
-💡 *OpenAI's performance has ripple effects in the tech investment ecosystem*
+💡 *Enabling always-on event-driven vision with ultra-low power consumption.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/market-slumps-as-openai-reportedly-misses-internal-targets-for-active-users-and-revenue-nvidia-oracle-amd-and-coreweave-shares-all-tremble-on-the-news)
-
----
-
-### 6. Sony rolls out 30-day online DRM check-in for PlayStation digital games players could temporarily lose access if they don't keep their consoles online 
-
-Sony requires online check-ins every 30 days for PS4 and PS5 digital games access. Failure to check-in may result in temporary loss of access. This policy affects users with offline consoles.
-
-💡 *Permanent online connection required for long-term access to digital games*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/sony-rolls-out-30-day-online-drm-check-in-for-playstation-digital-games-players-could-temporarily-lose-access-if-they-dont-keep-their-consoles-online)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/30/stmicro-vd65g4-and-vd55g4-0-56mp-global-shutter-image-sensors-enable-ultra-low-power-always-on-event-driven-vision/)
 
 ---
 
-### 7. Ubuntu's AI roadmap revealed, universal AI 'kill switch' and forced AI integration are not part of the plan cloud tracking, local inference, and agentic system tools take center stage 
+### 4. Palit confirms Galax brand will continue after takeover confusion, promises support for existing products 
 
-Canonical confirms AI integration for Ubuntu with opt-in, privacy-focused approach. Local AI inference, agentic system tools, and accessibility features are key. Everything remains optional and user-controlled.
+Galax has confirmed it will continue as the Galax brand under Palit's takeover, ensuring customer support for existing products.
 
-💡 *Ubuntu prioritizes user agency and control over AI integration*
+💡 *Galax customers retain support for existing products post-takeover*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/operating-systems/ubuntus-ai-roadmap-revealed-universal-ai-kill-switch-and-forced-ai-integration-are-not-part-of-the-plan-cloud-tracking-local-inference-and-agentic-system-tools-take-center-stage)
-
----
-
-### 8. Six AI data centers proposed for a small town of 7,000, equal to 51 Walmart Supercenters in 17 square mile area four out of the seven town council members have resigned from their positions as town fights back 
-
-Residents of Archbald, PA resist six proposed data centers taking up 14% of land. Four out of seven town council members have resigned in protest. The town council is facing opposition from its residents.
-
-💡 *Mass data center proposals threaten local community character and infrastructure.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/six-ai-data-centers-proposed-for-a-small-town-of-7-000-equal-to-51-walmart-supercenters-in-17-square-mile-area-four-out-of-the-seven-town-council-members-have-resigned-from-their-positions-as-town-fights-back)
+🔗 [Read Full Article](https://www.techspot.com/news/112238-palit-confirms-galax-brand-continue-after-takeover-confusion.html)
 
 ---
 
-### 9. EXPO 1.2 only brings partial CUDIMM support due to lack of native IMC compatibility Asus also working on updating older B650 and X670 boards with EXPO 1.2 
+### 5. Former Google and Meta engineers build memory-first AI server to challenge Nvidia's GPU dominance 
 
-New AGESA updates bring partial CUDIMM support to 800-series AM5 motherboards due to IMC compatibility issues.
+Majestic Labs AI, founded by former Google and Meta engineers, has developed a memory-first AI server to challenge Nvidia's dominance. The server architecture is built around a memory-first design, aiming to optimize AI computing performance.
 
-💡 *Limited CUDIMM speeds hinder AM5 system's memory performance potential.*
+💡 *Optimizing memory usage can significantly boost AI computing efficiency.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/expo-1-2-only-brings-partial-cudimm-support-due-to-lack-of-native-imc-compatibility-asus-also-working-on-updating-older-b650-and-x670-boards-with-expo-1-2)
-
----
-
-### 10. Big Tech killed California's anti-self-preferencing bill in a month 
-
-California's anti-self-preferencing bill was quickly defeated by tech industry lobby efforts.
-
-💡 *Big Tech exercises significant influence over state-level policy decisions.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112214-big-tech-killed-california-anti-self-preferencing-bill.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112235-former-google-meta-engineers-build-memory-first-ai.html)
 
 ---
 
-### 11. Toyota turns luxury car seat into a $3,100 office chair with a seatbelt 
+### 6. New ransomware is so badly coded it destroys your files instead of holding them hostage 
 
-Toyota's Crown Seat Desk Chair repurposes luxury car seat features for office use, including heating, cooling, and a seatbelt buckle, at a price of $3,100.
+New ransomware, Vect 2.0, has significant design flaws, destroying files instead of encrypting them.
 
-💡 *Luxury car technology meets office ergonomics in innovative product design*
+💡 *Malicious software failure can lead to unintended data destruction consequences.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112220-toyota-turns-luxury-car-seat-3100-office-chair.html)
-
----
-
-### 12. Mr. Wonderful's AI data center in Utah could consume 2x more power than the whole state 
-
-A massive data center project, Stratos, is planned in Utah, spanning 41,200 acres.
-
-💡 *Potential power consumption could rival the entire state's energy usage.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112206-wonderful-ai-data-center-utah-could-consume-2x.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112239-new-ransomware-badly-coded-destroys-files-instead-holding.html)
 
 ---
 
-### 13. An electric air taxi just flew from JFK to Manhattan in under 10 minutes 
+### 7. Notepad++ lands on macOS as a native app 
 
-Joby's electric air taxi completed a 10-minute flight from JFK to Manhattan.
+Notepad++ is now available on macOS as a free open-source app, offering familiar features and integrating with macOS for better performance.
 
-💡 *Revolutionizes urban transportation with faster, more efficient travel options.*
+💡 *Native macOS app brings Notepad++ features to Mac users seamlessly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112216-electric-air-taxi-flew-jfk-manhattan-under-10.html)
-
----
-
-### 14. A gamer who lost his arm built a one-handed controller after existing hardware failed him 
-
-A gamer adapted existing hardware to create a one-handed controller, improving accessibility. The ERCHAM MK1 combines mouse and keyboard functions in a compact design, offering flexibility and independence. This innovation enables gamers with disabilities to participate more fully in gaming communities.
-
-💡 *Adapting technology enhances inclusivity for gamers with disabilities greatly.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112212-gamer-who-lost-arm-built-one-handed-controller.html)
+🔗 [Read Full Article](https://www.techspot.com/downloads/7873-notepad-mac.html)
 
 ---
 
-### 15. Australia gives Google, Meta, and TikTok a choice: pay news outlets or pay a 2.25% tax 
+### 8. Exploding number of AI data center build-outs delay Texas housing projects data centers' high demand for electricians prices out contractors, homes now take two months longer to complete 
 
-Australia is forcing Google, Meta, and TikTok to pay news outlets or pay a 2.25% tax. Prime Minister Anthony Albanese says large digital platforms cannot avoid their obligations. This move aims to support Australian news media.
+Housing construction projects in Texas face delays up to two months due to a shortage of electricians, as data center projects offer higher salaries and benefits, making them more attractive to contractors.
 
-💡 *Forcing tech giants to support local news outlets financially matters*
+💡 *Data center boom drives labor shortages in Texas housing industry.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112213-australia-gives-google-meta-tiktok-choice-pay-publishers.html)
-
----
-
-### 16. At Nvidia, compute already costs more than employees. The rest of corporate America is catching up 
-
-Nvidia's compute costs exceed employee costs due to rapidly advancing technology.
-
-💡 *Rising compute costs outpace labor expenses in AI-driven industries.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112209-ai-compute-costs-getting-high-they-starting-rival.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/exploding-ai-data-center-build-outs-delay-texas-housing-projects-data-centers-high-demand-for-electricians-prices-out-contractors-homes-now-take-two-months-longer-to-complete)
 
 ---
 
-### 17. Peter Molyneux's $50 million NFT game left most players with heavy losses 
+### 9. Palit Group says Galax GPU brand will continue to operate following restructure Galax management centralized under Palit Group in 'pre-planned' shakeup 
 
-Peter Molyneux's NFT game Legacy left many players with significant financial losses. Players who invested in the game reportedly lost tens of thousands of dollars, with some recouping less than $100 or nothing at all. The game's failure highlights the risks involved in investing in NFT projects.
+Galax GPU brand remains operational under Palit Group's management restructuring.
 
-💡 *Investing in NFTs can lead to significant financial loss and disappointment.*
+💡 *Streamlined business operations enhance efficiency and competitiveness.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112208-peter-molyneux-50-million-nft-game-left-most.html)
-
----
-
-### 18. AI coding agent running Claude wiped a startup's database (and its backups) in 9 seconds 
-
-A startup, PocketOS, experienced a database wipe due to an AI agent's misconfiguration. The agent, Claude, was used on live infrastructure instead of a test environment. This led to significant data loss in just 9 seconds.
-
-💡 *Lack of proper environment control can lead to catastrophic data loss.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112207-ai-coding-agent-running-claude-wiped-startup-database.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/palit-group-says-galax-gpu-brand-will-continue-to-operate-following-restructure-galax-management-centralized-under-palit-group-in-pre-planned-shakeup)
 
 ---
 
-### 19. Meta will beam sunlight from space to power AI data centers, solar-collecting satellites will orbit 22,000 miles above Earth firm reserves 1 Gigawatt of orbital solar energy and 100 Gigawatt-hours of long-duration storage 
+### 10. Nvidia exec says AI is more expensive than actual workers yet some companies don't see the extra costs as a negative 
 
-Meta is partnering to beam sunlight from space to power AI data centers, securing 1 Gigawatt of orbital solar energy and 100 Gigawatt-hours of long-duration storage.
+Companies may prioritize AI over workers due to cost, despite AI expenses being higher. This shift could lead to a more automated future for businesses. However, the long-term implications of this trend remain unclear.
 
-💡 *Meeting growing AI energy demands with space-based solar solutions is crucial.*
+💡 *AI costs outweigh human labor expenses for some modern businesses.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-beam-sunlight-from-space-to-power-ai-data-centers-solar-collecting-satellites-will-orbit-22-000-miles-above-earth-firm-reserves-1-gigawatt-of-orbital-solar-energy-and-100-gigawatt-hours-of-long-duration-storage)
-
----
-
-### 20. OpenAI and Microsoft's alliance fractures as cloud exclusivity deal ends Azure's single-provider monopoly for ChatGPT is officially over 
-
-Microsoft and OpenAI end exclusivity deal, allowing OpenAI to work with other cloud providers.
-
-💡 *OpenAI gains cloud flexibility, ending Azure's monopoly on ChatGPT services.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsofts-alliance-fractures-as-cloud-exclusivity-deal-ends-azures-single-provider-monopoly-for-chatgpt-is-officially-over)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-exec-says-ai-is-more-expensive-than-actual-workers-yet-some-companies-dont-see-the-extra-costs-as-a-negative)
 
 ---
 
-### 21. Startup Zone at Sensors Converge features Upbeat and others 
+### 11. More details emerge about how Intel now earns more revenue from each wafer by looking to the edges analyst reports say reduced yield variability across each wafer leads to more sellable CPUs 
 
-Upbeat Technologies showcases its AI-powered MEMS vibration sensors at Sensors Converge Startup Zone. The sensors claim to be the world's smallest, potentially revolutionizing various industries. This display aims to highlight their innovative capabilities.
+Intel is reducing wafer yield variability to produce more CPU dies from edges, driven by AI demand. This allows the company to earn more revenue from each wafer. Analyst reports suggest the move is paying off.
 
-💡 *Miniaturized AI sensors could transform numerous industries with precision and efficiency.*
+💡 *Optimizing wafer edges yields more CPU dies for AI-driven demand*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/startup-zone-sensors-converge-features-upbeat-and-others)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/more-details-emerge-about-how-intel-now-earns-more-revenue-from-each-wafer-by-looking-to-the-edges-analyst-reports-say-reduced-yield-variability-across-each-wafer-leads-to-more-sellable-cpus)
+
+---
+
+### 12. GM is pushing Google Gemini AI to 4 million vehicles via OTA updates 
+
+GM is updating 4 million vehicles with a more advanced Google Gemini AI, replacing the current Google Assistant with a smarter, more intuitive system.
+
+💡 *GM is pushing AI advancements through massive vehicle software updates*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112242-gm-pushing-google-gemini-ai-4-million-vehicles.html)
+
+---
+
+### 13. Musk vs. OpenAI trial begins with internal emails, AGI governance, and billions in potential damages at stake 
+
+The Musk vs. OpenAI trial involves allegations of breached charitable trust over $38 million. Jury selection has begun in US District Court. A judge will decide on potential damages.
+
+💡 *AI governance and profit structures have significant financial implications.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112228-musk-vs-openai-trial-begins-internal-emails-agi.html)
+
+---
+
+### 14. Sony's latest PlayStation DRM policy is causing widespread confusion 
+
+Sony's new DRM policy limits offline play for PS games with a 30-day timer, requiring users to connect to the internet at least once a month to re-validate game licenses. This change has caused confusion among gamers and raises concerns about accessibility. The policy may impact users with unreliable internet connections.
+
+💡 *Digital ownership is being redefined with restrictive online requirements.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112236-sony-latest-playstation-drm-policy-causing-widespread-confusion.html)
+
+---
+
+### 15. A federal agent said WhatsApp's encryption is a lie. Then the investigation was shut down 
+
+A federal investigation was shut down into WhatsApp's encryption claims, sparking controversy.
+
+💡 *Encryption integrity questioned, undermining trust in secure messaging apps.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112232-federal-agent-whatsapp-encryption-lie-investigation-shut-down.html)
+
+---
+
+### 16. OpenAI is reportedly building a smartphone where AI agents replace apps 
+
+OpenAI is reportedly building a smartphone with AI agents replacing traditional apps, with a conventional hardware design using established partners.
+
+💡 *Relying on established tech partners may limit innovation and control.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112231-openai-reportedly-building-smartphone-where-ai-agents-replace.html)
+
+---
+
+### 17. EU says Meta is breaking the law by failing to keep children off Facebook and Instagram 
+
+The EU Commission claims Meta's systems fail to keep children off Facebook and Instagram. Meta's terms set 13 as the minimum age, but regulators say the enforcement is ineffective. Underage users can enter false birth dates to access the platforms.
+
+💡 *Ineffective age verification puts children at risk of online harm.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112234-meta-accused-violating-eu-law-failing-keep-children.html)
+
+---
+
+### 18. Texas Instruments refreshes its iconic calculator with the faster TI-84 Evo 
+
+Texas Instruments releases the TI-84 Evo calculator, focusing on a single-purpose tool. It lacks Wi-Fi, notifications, and an app ecosystem. The calculator aims to serve a specific need.
+
+💡 *Doubling down on simplicity may be the key to success.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112224-texas-instruments-refreshes-iconic-calculator-faster-ti-84.html)
+
+---
+
+### 19. Logitech's G512 X modular keyboard lets you mix analog and mechanical switches 
+
+The Logitech G512 X keyboard features a modular design with Dual Swap technology, offering users the ability to mix analog and mechanical switches. It comes in 75-key and 98-key layouts and is available on Logitech's website and global retailers. The keyboard is a wired option.
+
+💡 *Customizable switch options for enhanced typing experience*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112221-logitech-g512-x-modular-keyboard-you-mix-analog.html)
 
 ---
 

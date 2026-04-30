@@ -1,404 +1,372 @@
 [
   {
-    "title": "Ransomware accidentally destroys all files larger than 128KB, preventing decryption VECT code likely partly vibe coded with AI or used an old code base, security researchers suggest",
-    "summary": "A ransomware's major flaw meant that files cannot be decrypted because of a programming mistake. It also has several minor issues, showing that its creator may not be as sophisticated as suggested. Still, researchers point out that these can be rectified in future versions of the malware.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/ransomware-accidentally-destroys-all-files-larger-than-128kb-preventing-decryption-vect-code-likely-partly-vibe-coded-with-ai-or-used-an-old-code-base-security-researchers-suggest",
+    "title": "Exploding number of AI data center build-outs delay Texas housing projects data centers' high demand for electricians prices out contractors, homes now take two months longer to complete",
+    "summary": "Housing construction projects in Texas are facing delays of up to two months as contractors are having a harder time finding and keeping electricians. Data center projects are pricing out housing projects from the labor force as they offer 75% higher salaries and more benefits.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/exploding-ai-data-center-build-outs-delay-texas-housing-projects-data-centers-high-demand-for-electricians-prices-out-contractors-homes-now-take-two-months-longer-to-complete",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-29T10:30:07.049063"
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.203310"
   },
   {
-    "title": "Meta will beam sunlight from space to power AI data centers, solar-collecting satellites will orbit 22,000 miles above Earth firm reserves 1 Gigawatt of orbital solar energy and 100 Gigawatt-hours of long-duration storage",
-    "summary": "Meta has announced plans to help power its AI data centers using sunlight beamed from space through a partnership with Overview Energy, alongside a 100 GWh long-duration storage deal with Noon Energy, as the AI industry s energy demands continue to surge.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-beam-sunlight-from-space-to-power-ai-data-centers-solar-collecting-satellites-will-orbit-22-000-miles-above-earth-firm-reserves-1-gigawatt-of-orbital-solar-energy-and-100-gigawatt-hours-of-long-duration-storage",
+    "title": "iGame X870E Vulcan OC V14 Motherboard Review: Colorful enters the high-end overclocking scene",
+    "summary": "Colorful s iGame X870E Vulcan OC V14 is a capable premium mid-range motherboard built for overclocking, thanks to its robust power delivery, cooling, and design. It faces tough competition at its price point, but remains a solid, feature-rich option under $700.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/igame-x870e-vulcan-oc-v14-motherboard-review-colorful-enters-the-high-end-overclocking-scene",
     "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-29T10:30:07.049198"
-  },
-  {
-    "title": "Nanoscale device generates continuous electricity from evaporating water and some sunlight paves the path for battery-free sensors, wearable electronics, and more",
-    "summary": "Researchers at Switzerland s cole Polytechnique F d rale de Lausanne have developed a nanoscale device that generates continuous electricity from evaporating water, with heat and sunlight boosting the process.",
-    "link": "https://www.tomshardware.com/tech-industry/nanoscale-device-generates-continuous-electricity-from-evaporating-water-and-some-sunlight-paves-the-path-for-battery-free-sensors-wearable-electronics-and-more",
-    "categories": [
+      "Hardware",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-29T10:30:07.049315"
+    "processed_date": "2026-04-30T10:28:52.203473"
   },
   {
-    "title": "Nvidia quietly launches 12GB RTX 5070 laptop GPU midrange mobile gaming gets more VRAM amid the RAMpocalypse",
-    "summary": "Despite ongoing memory shortages, Nvidia has launched a higher-capacity 12GB trim of its RTX 5070 laptop GPU. The new part has 50% more capacity compared to Nvidia's existing RTX 5070 8GB model.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-quietly-launches-12gb-rtx-5070-laptop-gpu-midrange-mobile-gaming-gets-more-vram-amid-the-rampocalypse",
+    "title": "Lenovo abandons separate magnesium frame for latest P16 Gen 3 laptop after 20 years robust feature introduced in ThinkPad T60 in 2006, company now integrates material into outer shell for a thinner design",
+    "summary": "Lenovo has reportedly stopped using magnesium alloy subframes in the ThinkPad P16 Gen 3 to save on weight and thickness. This feature was first introduced on the ThinkPad T60 in 2006 and was added to ensure rigidity for the brand's workstation laptops.",
+    "link": "https://www.tomshardware.com/laptops/lenovo-abandons-separate-magnesium-frame-for-latest-p16-gen-3-laptop-after-20-years-robust-feature-introduced-in-thinkpad-t60-in-2006-company-now-integrates-material-into-outer-shell-for-a-thinner-design",
     "categories": [
-      "GPUs",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-29T10:30:07.049471"
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.203639"
   },
   {
-    "title": "Market slumps as OpenAI reportedly misses internal targets for active users and revenue Nvidia, Oracle, AMD, and CoreWeave shares all tremble on the news",
-    "summary": "Nvidia, Oracle, SoftBank, and CoreWeave saw their stock prices go down because of news that OpenAI has been missing its internal targets. SoftBank stock lost 9.9% of its value on the Tokyo Stock Exchange. Nvidia, AMD, Oracle, and CoreWeave also dropped during pre-market trading and remain down after the market opened.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/market-slumps-as-openai-reportedly-misses-internal-targets-for-active-users-and-revenue-nvidia-oracle-amd-and-coreweave-shares-all-tremble-on-the-news",
+    "title": "TSMC SoIC 3D stacking roadmap outlines path from 6-micron pitches today to 4.5-micron in 2029 Fujitsu's Monaka CPU to benefit from face-to-face chiplet stacking",
+    "summary": "TSMC adds support for face-to-face stacking, 6.5 m and 4.5 m pitches for the next generation of SoIC 3D stacking.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-soic-3d-stacking-roadmap-outlines-path-from-6-micron-pitches-today-to-4-5-micron-in-2029-fujitsus-monaka-cpu-to-benefit-from-face-to-face-chiplet-stacking",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.203744"
+  },
+  {
+    "title": "Framework's new RTX 5070 12GB graphics module costs a whopping $1,199 72% more expensive than $699 8GB version, says pricing is beyond its control",
+    "summary": "Framework has just launched a new graphics module featuring the RTX 5070 mobile 12GB, and it costs a cool $1,200, representing a 72% raise in pricing over the 8GB variant, that's $699. Both GPUs are identical apart from the memory capacity (and bandwidth), but Framework says pricing is out of its control.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/frameworks-new-rtx-5070-12gb-graphics-module-costs-a-whopping-usd1-199-72-percent-more-expensive-than-usd699-8gb-version-says-pricing-is-beyond-its-control",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-30T10:28:52.203855"
+  },
+  {
+    "title": "US stops exports of tools to China s number two chip maker Hua Hong and Huali Microelectronics reportedly on the cusp of starting a 7-nm fab in Shanghai",
+    "summary": "Applied Materials, KLA, and Lam Research received letters from the U.S. Department of Commerce preventing them from shipping some of Hua Hong's orders for the latest chipmaking tools. These are reportedly being planned for use on the Chinese company's planned 7-nm fab in Shanghai.",
+    "link": "https://www.tomshardware.com/tech-industry/us-stops-exports-of-chip-making-tools-to-chinas-number-two-chip-maker-hua-hong-and-huali-microelectronics-reportedly-on-the-cusp-of-starting-a-7-nm-fab-in-shanghai",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-30T10:28:52.203966"
+  },
+  {
+    "title": "Palit Group says Galax GPU brand will continue to operate following restructure Galax management centralized under Palit Group in 'pre-planned' shakeup",
+    "summary": "Galax has moved under the direct control of Palit, owned by the Palit Group, but the brand itself isn't going anywhere. Official statements from both companies clarify that Galax will continue to design, produce, and release hardware like before, but will be managed by Palit now to streamline the business.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/palit-group-says-galax-gpu-brand-will-continue-to-operate-following-restructure-galax-management-centralized-under-palit-group-in-pre-planned-shakeup",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.049609"
+    "processed_date": "2026-04-30T10:28:52.204081"
   },
   {
-    "title": "Sony rolls out 30-day online DRM check-in for PlayStation digital games players could temporarily lose access if they don't keep their consoles online",
-    "summary": "PS4 and PS5 consoles are now apparently subject to a new DRM policy requiring users to check-in online every 30 days to maintain access.",
-    "link": "https://www.tomshardware.com/video-games/playstation/sony-rolls-out-30-day-online-drm-check-in-for-playstation-digital-games-players-could-temporarily-lose-access-if-they-dont-keep-their-consoles-online",
+    "title": "Developer re-enables 3D printer features that Bambu Lab disabled, firm promptly threatens legal action OrcaSlicer-BambuLab project now shuttered",
+    "summary": "Independent software developer Pawel Jarczak has voluntarily shuttered his popular OrcaSlicer-BambuLab project following legal threats from Bambu Lab, ending one man s fight to restore direct control to the popular third-party slicer.",
+    "link": "https://www.tomshardware.com/3d-printing/developer-re-enables-3d-printer-features-that-bambu-lab-disabled-firm-promptly-threatens-legal-action-orcaslicer-bambulab-project-now-shuttered",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.049712"
-  },
-  {
-    "title": "China announces CPU-only exascale supercomputer with 47,000 homemade processors, record 2 Exaflops of performance without GPUs Lingshen super said to use Huawei Kunpeng servers and no foreign-made components",
-    "summary": "The system would pack 47,000 processors into 92 compute cabinets, making it the first exascale machine designed to reach that performance tier without GPU accelerators.",
-    "link": "https://www.tomshardware.com/tech-industry/china-plans-cpu-only-exascale-supercomputer-with-47000-domestic-processors",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-29T10:30:07.049829"
-  },
-  {
-    "title": "Ubuntu's AI roadmap revealed, universal AI 'kill switch' and forced AI integration are not part of the plan cloud tracking, local inference, and agentic system tools take center stage",
-    "summary": "Canonical has confirmed AI is coming to Ubuntu, with plans for local AI inference, agentic system tools, and AI-powered accessibility features says everything will remain opt-in and privacy-focused.",
-    "link": "https://www.tomshardware.com/software/operating-systems/ubuntus-ai-roadmap-revealed-universal-ai-kill-switch-and-forced-ai-integration-are-not-part-of-the-plan-cloud-tracking-local-inference-and-agentic-system-tools-take-center-stage",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.049948"
-  },
-  {
-    "title": "Legendary ZSNES Nintendo emulator rewritten from scratch with GPU-acceleration, no vibe coding new Super ZSNES has far more accurate CPU and audio cores than the original ",
-    "summary": "ZSNES is a legendary Super Nintendo emulator that has been reborn this week as Super ZSNES with 'super enhancements' powered by your GPU.",
-    "link": "https://www.tomshardware.com/video-games/nintendo/legendary-zsnes-nintendo-emulator-rewritten-from-scratch-with-gpu-acceleration-no-vibe-coding-new-super-zsnes-has-far-more-accurate-cpu-and-audio-cores-than-the-original",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.050054"
-  },
-  {
-    "title": "Astro A20 X review: For PC gamers with a console",
-    "summary": "The Astro A20 X is a wireless gaming headset designed to connect to two devices, such as a PC and a console, with a small, slim base station. It's nearly identical to the Logitech G522, with a lightweight plastic frame and bright, customizable RGB lighting.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-headsets/astro-a20-x-review",
-    "categories": [
-      "Hardware",
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-04-29T10:30:07.050160"
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.204182"
   },
   {
-    "title": "OpenAI and Microsoft's alliance fractures as cloud exclusivity deal ends Azure's single-provider monopoly for ChatGPT is officially over",
-    "summary": "Microsoft and OpenAI have announced a restructuring of their relationship. No longer will Microsoft pay OpenAI a revenue share, but it will continue to flow the other way. Microsoft will also retain model access and a first-refusal for its Azure server services, but OpenAI will be able to work with other CSPs.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsofts-alliance-fractures-as-cloud-exclusivity-deal-ends-azures-single-provider-monopoly-for-chatgpt-is-officially-over",
+    "title": "Nvidia exec says AI is more expensive than actual workers yet some companies don't see the extra costs as a negative",
+    "summary": "As advanced LLMs do more and more for modern businesses, the outlays to cover all those tokens can cost more than worker salaries alone. But some companies don't see the added costs as a negative as they look toward a more automated future.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-exec-says-ai-is-more-expensive-than-actual-workers-yet-some-companies-dont-see-the-extra-costs-as-a-negative",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.204284"
+  },
+  {
+    "title": "More details emerge about how Intel now earns more revenue from each wafer by looking to the edges analyst reports say reduced yield variability across each wafer leads to more sellable CPUs",
+    "summary": "According to analyst reports, Intel is reducing wafer yield variability to get more useful CPU dies from wafer edges amid AI-driven demand.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/more-details-emerge-about-how-intel-now-earns-more-revenue-from-each-wafer-by-looking-to-the-edges-analyst-reports-say-reduced-yield-variability-across-each-wafer-leads-to-more-sellable-cpus",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-04-29T10:30:07.050276"
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.204410"
   },
   {
-    "title": "Six AI data centers proposed for a small town of 7,000, equal to 51 Walmart Supercenters in 17 square mile area four out of the seven town council members have resigned from their positions as town fights back",
-    "summary": "The residents of Archbald, Pennsylvania have started pushing back against the six planned data centers in the town, which will take up about 14% of its land area.",
-    "link": "https://www.tomshardware.com/desktops/servers/six-ai-data-centers-proposed-for-a-small-town-of-7-000-equal-to-51-walmart-supercenters-in-17-square-mile-area-four-out-of-the-seven-town-council-members-have-resigned-from-their-positions-as-town-fights-back",
+    "title": "PS5 Linux loader goes public, turning Phat consoles into full Linux PCs build script includes bootable Ubuntu 24.04 image, can output 4K games at 60 FPS",
+    "summary": "Only PS5 Phat consoles on older firmware 3.00, 3.10, 3.20, 3.21, 4.00, 4.02, 4.03, 4.50, or 4.51 are supported.",
+    "link": "https://www.tomshardware.com/software/linux/ps5-linux-loadr-goes-public-turning-phat-consoles-into-full-linux-pcs",
     "categories": [
-      "AI & ML"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.050405"
+    "processed_date": "2026-04-30T10:28:52.204519"
   },
   {
-    "title": "Gigabyte X870E Aorus Xtreme X3D AI Top motherboard review: The latest and greatest Xtreme",
-    "summary": "Gigabyte s X870E Aorus Xtreme X3D AI Top delivers flagship-class hardware and excellent performance at a comparatively lower price, balancing high-end features, comprehensive connectivity, and even AI-focused tools for premium AM5 builds.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870e-aorus-xtreme-x3d-ai-top-motherboard-review",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-29T10:30:07.050517"
-  },
-  {
-    "title": "Save $400 on this 4K-ready MSI gaming PC with an RTX 5070 Ti and 32GB DDR5 budget-friendly Aegis Z2 rig also ships with eight-core AMD Ryzen CPU and a 2TB SSD, now just $1,849",
-    "summary": "A $400 saving means this MSI Aegis Z2 gaming PC, with an eight-core AMD Ryzen CPU, Nvidia GeForce RTX 5070 Ti, 32GB of DDR5 RAM, and 2TB SSD, could be yours for just $1,849.99.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd400-on-this-4k-ready-msi-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-budget-friendly-aegis-z2-rig-also-ships-with-eight-core-amd-ryzen-cpu-and-a-2tb-ssd-now-just-usd1-849",
+    "title": "Chinese GPU maker Lisuan Tech becomes only the fourth GPU maker ever to earn Microsoft WHQL certification LX 7G100 GPU joins Nvidia, AMD, and Intel as it crosses the WHQL driver finish line, first Chinese firm to earn certification",
+    "summary": "Lisuan Tech has secured Windows Hardware Quality Labs (WHQL) certification for its 6nm graphics cards, making it only the fourth company to ever do so.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/in-historic-first-chinese-gpu-maker-lisuan-tech-becomes-only-the-fourth-gpu-maker-to-earn-microsoft-whql-certification-lx-7g100-gpu-joins-nvidia-amd-and-intel-as-it-crosses-the-whql-driver-finish-line-first-chinese-firm-to-earn-certification",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.050623"
+    "processed_date": "2026-04-30T10:28:52.204632"
   },
   {
-    "title": "The GeForce RTX 30-series upgrade matrix does your Ampere GPU need an upgrade in 2026?",
-    "summary": "We go over every GPU in the RTX 30-series lineup to determine whether or not it's the right time to leave the Ampere platform for newer Blackwell and RDNA4-based pastures.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/the-geforce-rtx-30-series-upgrade-matrix-does-your-ampere-gpu-need-an-upgrade-in-2026",
+    "title": "Forlinx UP4 A 40 40 mm LCC + LGA system-on-module family with Rockchip, NXP, and Allwinner CPU options",
+    "summary": "Forlinx Embedded UP4 is a new family of pin-to-pin compatible system-on-modules currently offered with Rockchip RK3568J/RK3562J, NXP i.MX 9352, or Allwinner T527N/T536 processors. The UP4 modules measure just 40 40 mm and expose 487 pins through a hybrid LCC (Leadless Chip Carrier) and LGA (Land Grid Array) design with 1.0mm contact pitch and 1.27mm ball pitch, respectively. This should allow companies to design a single carrier board for multiple CPU variants. Forlinx UP4 specifications: SoC FET-MX9352-UP4 NXP i.MX 9352 with 2x Arm Cortex-A55 cores @ up to 1.7 GHz, Cortex-M33 real-time core @ 250 MHz, 2D GPU only, 0.5 TOPS Arm Ethos U65 microNPU FET3568-UP4 Rockchip RK3568B2/J with 4x Arm Cortex-A55 cores @ up to 2.0/1.8 GHz, Arm Mali-G52 MP2 3D GPU, 1 TOPS AI NPU FET3562J-UP4 Rockchip RK3562J with 4x Arm Cortex-A53 cores @ 1.8 GHz, Arm Mali-G52-2EE 3D GPU, 1 TOPS NPU FET527N-UP4 Allwinner T527N [...] The post Forlinx UP4 A 40 40 mm LCC + LGA system-on-module family with Rockchip, NXP, and Allwinner CPU options appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/30/forlinx-up4-a-40x40-mm-lcc-lga-system-on-module-family-with-rockchip-nxp-and-allwinner-cpu-options/",
     "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.050721"
-  },
-  {
-    "title": "Scientists create electronic devices that function reliably at extreme temperatures from 500 degrees Celcuis to absolute zero advanced semiconductor material unlocks new possibilities in space tech and quantum computing",
-    "summary": "Scientists have demonstrated a new semiconductor material that can operate at extreme temperatures, from 500 C and down to -271.1 C.",
-    "link": "https://www.tomshardware.com/tech-industry/scientists-create-electronic-devices-that-function-reliably-at-extreme-temperatures-using-advanced-silicon-doped-beta-gallium-oxide-semiconductor-material",
-    "categories": [
+      "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.050829"
+    "quality_score": 10,
+    "processed_date": "2026-04-30T10:28:52.205182"
   },
   {
-    "title": "Decades-old pre-Stuxnet cyber sabotage tool breaks cover, NSA listed it as 'nothing to see here' fast16 targeted nuclear reactors, dam design, and other high-precision civil engineering software years before Stuxnet broke cover",
-    "summary": "Security researchers have uncovered a cyber-sabotage platform that targeted software used for major civil engineering projects and predates Stuxnet by at least half a decade.",
-    "link": "https://www.tomshardware.com/software/security-software/decades-old-pre-stuxnet-cyber-sabotage-tool-breaks-cover-nsa-listed-it-as-nothing-to-see-here-fast16-targeted-nuclear-reactors-dam-design-and-other-high-precision-civil-engineering-software-years-before-stuxnet-broke-cover",
+    "title": "M5Stack Cardputer goes off-grid with new Mesh Kit featuring LoRa, GNSS, and Meshtastic support",
+    "summary": "M5Stack has just launched the Cardputer Mesh Kit, a portable, card-sized Meshtastic communication terminal built around the ESP32-S3-powered Cardputer-Adv controller and a new LoRa expansion module (CapLoRa-1262). The kit is essentially a modular upgrade to the original Cardputer, where the base unit handles the UI via a 56-key keyboard and a 1.14-inch LCD. The added Cap module adds a Semtech SX1262 transceiver and an AT6668 GNSS module, allowing for off-grid text messaging and GPS location tracking without relying on cellular networks. Cardputer Mesh Kit specifications: Core Controller (Cardputer-Adv): Wireless MCU module M5Stack M5Stamp S3A with SoC Espressif Systems ESP32-S3FN8 CPU Dual-core 32-bit Xtensa LX7 microcontroller with AI vector instructions up to 240MHz RISC-V ULP co-processor Memory 512KB SRAM Storage 8MB flash Wireless 2.4GHz WiFi 4 (802.11b/g/n), Bluetooth 5.0 BLE + Mesh 2.4GHz 3D antenna USB 1x USB Type-C port Expansion connectors for I/Os such as SPI, I2C, [...] The post M5Stack Cardputer goes off-grid with new Mesh Kit featuring LoRa, GNSS, and Meshtastic support appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/30/m5stack-cardputer-goes-off-grid-with-new-mesh-kit-featuring-lora-gnss-and-meshtastic-support/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-30T10:28:52.205362"
+  },
+  {
+    "title": "STMicro VD65G4 and VD55G4 0.56MP global shutter image sensors enable ultra-low-power always-on event-driven vision",
+    "summary": "STMicroelectronics VD65G4 and VD55G4 are ultra-low-power 0.56-megapixel global shutter CMOS image sensors designed for battery-operated edge AI and always-on vision applications. The main difference between the two sensors is that the VD65G4 features a color RGB Bayer pattern, while the VD55G4 is a monochrome sensor designed to capture visible to near-infrared (NIR) light. Both sensors use a compact 1/9-inch optical format and a 2.16 m pixel pitch, utilizing Back Side Illuminated (BSI), CDTI, and 3D stacking technologies to achieve a tiny 2.73 x 2.16 mm bare-die footprint. STMicro VD65G4 and VD55G4 specifications: Resolution 0.56 MP (804 x 704) Chroma VD65G4 RGB Bayer (RGGB). VD55G4 Monochrome (Clear, Visible to NIR). Optical Characteristics 1/9-inch (2.3mm) optical format with a 30 linear CRA and close to 1:1 aspect ratio. Pixel Technology 2.16 m x 2.16 m pixel size utilizing global shutter, BSI, CDTI, and 3D stacking. Frame Rates [...] The post STMicro VD65G4 and VD55G4 0.56MP global shutter image sensors enable ultra-low-power always-on event-driven vision appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/30/stmicro-vd65g4-and-vd55g4-0-56mp-global-shutter-image-sensors-enable-ultra-low-power-always-on-event-driven-vision/",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-30T10:28:52.205549"
+  },
+  {
+    "title": "MiciMike s open-source drop-in PCB converts Google Home Mini into a local voice assistant (Crowdfunding)",
+    "summary": "The MiciMike Home Mini Drop-In PCB is an open-source replacement mainboard designed to convert a 1st Gen Google Home Mini into a fully local, privacy-focused voice assistant running Home Assistant Voice. Built around an ESP32-S3 MCU and an XMOS XU316 audio processor, it removes cloud dependencies without any case modifications or soldering. The board offers on-device wake word detection, echo cancellation, and noise suppression via two MEMS microphones, and comes pre-flashed with ESPHome for easy Home Assistant integration. The PCBA fully supports local voice processing, optional cloud LLM integration, media playback, and Snapcast. It s released as open hardware under the CERN-OHL-S v2 license, with complete design files available, making it suitable for privacy-focused smart-home automation, DIY voice assistants, and hardware-reuse projects. MiciMike Home Mini Drop-In PCB specifications: Compatibility Google Home Mini 1st generation Wireless MCU Espressif Systems ESP32-S3 CPU Dual-core Xtensa LX7 microcontroller @ up to 240 [...] The post MiciMike s open-source drop-in PCB converts Google Home Mini into a local voice assistant (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/04/29/micimike-open-source-drop-in-pcb-converts-google-home-mini-into-a-local-voice-assistant/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-04-30T10:28:52.205735"
+  },
+  {
+    "title": "At Sensors Converge, head on over to Headless IoT Intelligence",
+    "summary": "Unified architecture from Azilen connects sensing, data and agent actions and is on display at Sensors Converge 2026",
+    "link": "https://www.fiercesensors.com/sensors/sensors-converge-head-over-headless-iot-intelligence",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.206777"
+  },
+  {
+    "title": "GM is pushing Google Gemini AI to 4 million vehicles via OTA updates",
+    "summary": "The update replaces the current Google Assistant experience with a more advanced system designed to handle natural-language interactions. GM described the update as \"one of the largest deployments of Gemini in the industry,\" adding that \"customers will notice an upgrade from the current Google Assistant to a smarter, more intuitive... Read Entire Article",
+    "link": "https://www.techspot.com/news/112242-gm-pushing-google-gemini-ai-4-million-vehicles.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.207175"
+  },
+  {
+    "title": "This $199 upscaler wants to make your retro consoles look great on modern TVs",
+    "summary": "Pre-orders for the recently announced Morph 2K analog-to-digital video converter open on June 1, starting at $199. The device is essentially a budget version of Pixel FX's earlier Morph 4K, dropping support for 4K output. Read Entire Article",
+    "link": "https://www.techspot.com/news/112240-199-upscaler-wants-make-retro-consoles-look-great.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-29T10:30:07.050938"
+    "processed_date": "2026-04-30T10:28:52.207285"
   },
   {
-    "title": "EXPO 1.2 only brings partial CUDIMM support due to lack of native IMC compatibility Asus also working on updating older B650 and X670 boards with EXPO 1.2",
-    "summary": "New AGESA updates are bringing EXPO 1.2 support to more and more 800-series AM5 motherboards, but CUDIMM support remains only partial. Because Zen 4 and 5's IMC is incompatible with CUDIMM, it can only run in bypass mode with limited speeds. Moreover, older 600-series motherboards are now also expected to get EXPO 1.2 support later.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/expo-1-2-only-brings-partial-cudimm-support-due-to-lack-of-native-imc-compatibility-asus-also-working-on-updating-older-b650-and-x670-boards-with-expo-1-2",
+    "title": "Palit confirms Galax brand will continue after takeover confusion, promises support for existing products",
+    "summary": "Galax announced the original news via a message on its Brazilian website and advised customers to contact Palit's official channels for all support and service inquiries. The company did not provide further details, instead emphasizing that both Galax and Palit are authorized Nvidia partners, adding that the restructuring would ensure... Read Entire Article",
+    "link": "https://www.techspot.com/news/112238-palit-confirms-galax-brand-continue-after-takeover-confusion.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-30T10:28:52.207403"
+  },
+  {
+    "title": "PowerToys 0.99.1 boosts multi-monitor management",
+    "summary": "The latest PowerToys update brings new tools like Power Display for multi-monitor brightness control and Grab and Move for simpler window handling, along with refinements to modules like Command Palette and Keyboard Manager. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7185-microsoft-powertoys.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.207520"
+  },
+  {
+    "title": "Former Google and Meta engineers build memory-first AI server to challenge Nvidia's GPU dominance",
+    "summary": "Majestic Labs AI, founded by Ofer Shacham, Masumi Reynders, and Sha Rabii, has developed a server architecture built around what it describes as a memory-first design. The company, which raised $100 million in November from investors including Bow Wave Capital, Lux Capital, and Grove, is targeting one of the most... Read Entire Article",
+    "link": "https://www.techspot.com/news/112235-former-google-meta-engineers-build-memory-first-ai.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-30T10:28:52.207639"
+  },
+  {
+    "title": "New ransomware is so badly coded it destroys your files instead of holding them hostage",
+    "summary": "Check Point researchers have uncovered a new ransomware-as-a-service threat with significant design flaws. Vect 2.0 is unable to properly perform its intended function, because it effectively destroys most files rather than encrypting them. The malware behaves more like a wiper, due to what appears to be a fundamental failure in... Read Entire Article",
+    "link": "https://www.techspot.com/news/112239-new-ransomware-badly-coded-destroys-files-instead-holding.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-30T10:28:52.207747"
+  },
+  {
+    "title": "Musk vs. OpenAI trial begins with internal emails, AGI governance, and billions in potential damages at stake",
+    "summary": "Jury selection in the case began this week in US District Court in Northern California. Judge Yvonne Gonzalez Rogers will ultimately decide whether OpenAI's shift to a capped-profit structure and its close partnership with Microsoft breached a charitable trust that Elon Musk says arose from roughly $38 million... Read Entire Article",
+    "link": "https://www.techspot.com/news/112228-musk-vs-openai-trial-begins-internal-emails-agi.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.207857"
+  },
+  {
+    "title": "Sony's latest PlayStation DRM policy is causing widespread confusion",
+    "summary": "Sony is reportedly introducing a significant limitation to offline play for PlayStation games. The Japanese company has allegedly implemented a new 30-day \"timer\" applied to certain digital purchases, requiring users to connect to the internet at least once a month to re-validate game licenses. However, according to some interpretations, the... Read Entire Article",
+    "link": "https://www.techspot.com/news/112236-sony-latest-playstation-drm-policy-causing-widespread-confusion.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.207963"
+  },
+  {
+    "title": "A federal agent said WhatsApp's encryption is a lie. Then the investigation was shut down",
+    "summary": "The case, led by a special agent in the Commerce Department's Bureau of Industry and Security, focused on claims that some Meta employees and contractors could access WhatsApp messages despite the app's use of end-to-end encryption. Read Entire Article",
+    "link": "https://www.techspot.com/news/112232-federal-agent-whatsapp-encryption-lie-investigation-shut-down.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.208062"
+  },
+  {
+    "title": "The Google Pixel 11 will reportedly feature a 5-year-old GPU",
+    "summary": "According to noted tipster Mystic Leaks, the Tensor G6 will use the PowerVR CXTP-48-1536 GPU, which debuted in 2021. If accurate, the outdated GPU could drag down graphics performance in the new devices, potentially pushing buyers toward alternatives from Samsung, Motorola, and others. Read Entire Article",
+    "link": "https://www.techspot.com/news/112233-google-pixel-11-reportedly-feature-5-year-old.html",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-30T10:28:52.208161"
+  },
+  {
+    "title": "OpenAI is reportedly building a smartphone where AI agents replace apps",
+    "summary": "The hardware side appears more conventional. Kuo says the device would use chips from either MediaTek or Qualcomm and be assembled by Luxshare, a manufacturer that also produces iPhones. That points to reliance on established partners rather than a new supply chain. Read Entire Article",
+    "link": "https://www.techspot.com/news/112231-openai-reportedly-building-smartphone-where-ai-agents-replace.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.208264"
+  },
+  {
+    "title": "Notepad++ lands on macOS as a native app",
+    "summary": "Notepad++ is now available on macOS as a free open-source app. It uses the same core editing engine, bringing familiar features like syntax highlighting, plugins, and macros, while integrating with macOS for better performance. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7873-notepad-mac.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-04-30T10:28:52.208365"
+  },
+  {
+    "title": "EU says Meta is breaking the law by failing to keep children off Facebook and Instagram",
+    "summary": "The Commission says Meta's own terms set 13 as the minimum age for Facebook and Instagram, but the systems in place to enforce that rule are not effective enough. Regulators say underage users can still get in by entering a false birth date, while existing accounts belonging to children are... Read Entire Article",
+    "link": "https://www.techspot.com/news/112234-meta-accused-violating-eu-law-failing-keep-children.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.208473"
+  },
+  {
+    "title": "Texas Instruments refreshes its iconic calculator with the faster TI-84 Evo",
+    "summary": "The Evo doesn't try to compete with smartphones or apps. Instead, Texas Instruments is effectively doubling down on the idea of a single-purpose tool at a time when most computing devices aim to consolidate tasks. There's no Wi-Fi, no notifications, and no app ecosystem. As the company puts it, the... Read Entire Article",
+    "link": "https://www.techspot.com/news/112224-texas-instruments-refreshes-iconic-calculator-faster-ti-84.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-04-30T10:28:52.208607"
+  },
+  {
+    "title": "Logitech's G512 X modular keyboard lets you mix analog and mechanical switches",
+    "summary": "The G512 X is now available on Logitech's website and will be available at global retailers on May 2. The wired keyboard, featuring the company's \"Dual Swap\" technology, comes in 75-key and 98-key layouts. Read Entire Article",
+    "link": "https://www.techspot.com/news/112221-logitech-g512-x-modular-keyboard-you-mix-analog.html",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.051057"
+    "processed_date": "2026-04-30T10:28:52.208712"
   },
   {
-    "title": "Vendor slaps extra 'memory fee' on each tech purchase amid global chip crunch the more you buy, the more you pay",
-    "summary": "Ubiquiti Inc. has started charging customers a 'Memory Surcharge' of up to 5.8% on some of the products sold in its online store.",
-    "link": "https://www.tomshardware.com/tech-industry/vendor-slaps-extra-memory-fee-on-each-tech-purchase-amid-global-chip-crunch-the-more-you-buy-the-more-you-pay",
+    "title": "Consumer tech lobby warns FCC that blocking router updates creates botnet risk for devices already in US homes",
+    "summary": "According to a filing, CTA representatives met with the FCC last week to discuss the foreign router ban. Read Entire Article",
+    "link": "https://www.techspot.com/news/112229-ces-owner-warns-fcc-router-ban-could-leave.html",
     "categories": [
-      "Semiconductors"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.051158"
+    "processed_date": "2026-04-30T10:28:52.208803"
   },
   {
-    "title": "SONOFF NSPanel Pro Gen2 A 86-Type Smart Home control panel with two relays, dual-band WiFi, Zigbee 3.0, Matter support",
-    "summary": "SONOFF NSPanel Pro Gen2 is an 86-type Smart Home control panel featuring a 3.95-inch touch display, two relays supporting up to 10A, and dual-band WiFi 4, Bluetooth LE, and Zigbee 3.0 connectivity. The device also integrates a 1.5W speaker and a microphone for voice interaction, light and proximity sensors, and runs Android on a Rockchip RK3326-S SoC paired with 2GB RAM and 32GB eMMC flash. SONOFF NSPanel Pro Gen2 specifications: SoC Rockchip RK3326-S CPU Quad-core Cortex-A35 processor @ 1.5 GHz GPU Arm Mali-G31 GPU System Memory 2GB DDR3 Storage 32GB eMMC 5.1 flash Display 3.95-inch capacitive touchscreen color TFT display with 480 480 resolution Audio 1.5W speaker, digital microphone for two-way communication (intercom) Connectivity Zigbee 3.0 support via EFR32MG24 Dual-band 2.4 GHz and 5 GHz WiFi + Bluetooth Matter support Relay Dual-gang relay up to 5A per gang, or 10A in total (resistive [...] The post SONOFF NSPanel Pro Gen2 A 86-Type Smart Home control panel with two relays, dual-band WiFi, Zigbee 3.0, Matter support appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/29/sonoff-nspanel-pro-gen2-a-86-type-smart-home-control-panel-two-relays-dual-band-wifi-zigbee-3-0-matter-support/",
+    "title": "A Supreme Court case could decide whether your phone can be used to find you first and suspect you later",
+    "summary": "The case stems from a 2019 armed robbery at Call Federal Credit Union near Richmond, Va., where a gunman took $195,000 from the vault before police arrived. When conventional investigative work stalled after reviewing security video and interviewing witnesses, a detective turned to a geofence warrant, asking Google to turn... Read Entire Article",
+    "link": "https://www.techspot.com/news/112219-supreme-court-case-could-decide-whether-phone-can.html",
     "categories": [
       "Semiconductors",
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-04-29T10:30:07.051657"
+    "processed_date": "2026-04-30T10:28:52.208917"
   },
   {
-    "title": "MoreSense MS-07 An ESP32-S3 indoor air quality monitor with SEN66 multisensor and Home Assistant support",
-    "summary": "MoreSense MS-07 indoor air quality monitor is built around the Sensirion SEN66 multisensor, powered by an ESP32-S3 microcontroller, and features a 3.5-inch capacitive IPS touchscreen for local data visualization and control. The MS-07 is a direct upgrade to the earlier MS-06, replacing the Sensirion SCD40 used for basic CO , temperature, and humidity measurement with the more advanced Sensirion SEN66 multisensor, which adds support for PM1.0, PM2.5, PM4.0, PM10, nitrogen oxides (NOx), and volatile organic compounds (VOCs). Like the previous model, it focuses on local operation and privacy, and supports integration with Home Assistant and Domoticz via MQTT autodiscovery, as well as Homey through the HomeyDuino app. It is typically used in homes, offices, and indoor environments to track air quality, comfort levels, and pollution metrics in real time. MoreSense MS-07 specifications: Microcontroller ESP32-S3 SoC, dual-core XTensa LX7 @ up to 240 MHz; 512KB SRAM; Integrated 2.4GHz Wi-Fi and BLE Storage [...] The post MoreSense MS-07 An ESP32-S3 indoor air quality monitor with SEN66 multisensor and Home Assistant support appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/29/moresense-ms-07-an-esp32-s3-indoor-air-quality-monitor-with-sen66-multisensor-and-home-assistant-support/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-29T10:30:07.051838"
-  },
-  {
-    "title": "Rockchip RK3326-S quad-core Cortex-A35 SBC targets smart audio devices",
-    "summary": "Boardcon EM3326S is a single board computer powered by a Rockchip RK3326-S quad-core Cortex-A35 processor paired with up to 4GB LPDDR4 memory and 128GB eMMC flash. With a 3.5mm audio jack and a speaker connector, Fast Ethernet, WiFi, and Bluetooth connectivity, the company says the board mainly targets smart audio applications. But it could certainly be used for a wider range of applications with RGB LCD and MIPI DSI display interfaces, MIPI CSI and DVP camera interfaces, an RS485 terminal block, a mini PCIe socket plus a SIM card slot for 4G LTE connectivity, and more. Boardcon EM3326S specifications: SoC Rockchip RK3326-S CPU Quad-core Cortex-A35 @ 1.5GHz with 512KB L2 cache GPU Arm Mali G31-2EE with support for OpenGL ES 1.1/2.0/3.2, DirectX 11 FL9_3, OpenCL 2.0, and Vulkan 1.0 VPU Video Decoder MPEG-4, H.264, H.265/HEVC, VP8, VC-1 up to 1080p60 Video Encoder H.264 video encoder [...] The post Rockchip RK3326-S quad-core Cortex-A35 SBC targets smart audio devices appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/04/29/rockchip-rk3326-s-quad-core-cortex-a35-sbc-targets-smart-audio-devices/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-04-29T10:30:07.051999"
-  },
-  {
-    "title": "Here s more Sensors Converge 2026 scoop from ST and Microchip",
-    "summary": "A robotic hand and hand tracking tech will be on display at ST s booth, as well as an ST-Nvidia humanoid proof of concept.",
-    "link": "https://www.fiercesensors.com/sensors/heres-more-sensors-converge-2026-scoop-st-and-microchip",
-    "categories": [
-      "Semiconductors",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-29T10:30:07.052986"
-  },
-  {
-    "title": "Startup Zone at Sensors Converge features Upbeat and others",
-    "summary": "Upbeat Technologies claims it has the world's smallest AI-powered MEMS vibrations sensors for display at the Sensors Converge Startup Zone.",
-    "link": "https://www.fiercesensors.com/sensors/startup-zone-sensors-converge-features-upbeat-and-others",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-04-29T10:30:07.053139"
-  },
-  {
-    "title": "A Decade of AMD Ryzen: 10 Years of CPUs Tested",
-    "summary": "From near collapse to CPU dominance , we revisit 10 years of AMD Ryzen, benchmarking every flagship generation to see how performance, value, and architecture evolved. Read Entire Article",
-    "link": "https://www.techspot.com/article/3117-10-years-amd-flagship-cpus/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-04-29T10:30:07.053575"
-  },
-  {
-    "title": "Witcher 3 director's Blood of Dawnwalker launches September 3 with steep system requirements",
-    "summary": "Konrad Tomaszkiewicz, a writer and quest designer on CD Projekt Red's first two Witcher games who went on to direct the award-winning Witcher 3, has spent the past several years building an original RPG at his new studio, Rebel Wolves. While the game resembles the director's prior fantasy series in... Read Entire Article",
-    "link": "https://www.techspot.com/news/112222-witcher-3-director-blood-dawnwalker-launches-september-3.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.053746"
-  },
-  {
-    "title": "Intel says software, not more cache, is key to beating AMD in gaming",
-    "summary": "Speaking to the German media outlet PC Games Hardware about Intel's plans to compete with AMD's X3D line of gaming CPUs, Vice President Robert Hallock said that hardcore PC enthusiasts are \"significantly underestimating\" the importance of software to the PC experience, and that no amount of cores or cache can... Read Entire Article",
-    "link": "https://www.techspot.com/news/112218-intel-software-not-more-cache-key-beating-amd.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.053919"
-  },
-  {
-    "title": "Turtle Beach put a touchscreen on a gaming mouse, and it costs $160",
-    "summary": "Turtle Beach describes the Command Series MC7 wireless mouse as a pointing device designed for precise control in both gaming and productivity tasks. The mouse includes a 2.25-inch touch display with programmable controls, theoretically providing an easy way to manage DPI levels, profiles, macros, or streaming through OBS Studio. Read Entire Article",
-    "link": "https://www.techspot.com/news/112205-turtle-beach-new-command-series-puts-touch-controls.html",
+    "title": "Nvidia quietly launches 12GB RTX 5070 Laptop GPU as Framework lists it for $1,199",
+    "summary": "Nvidia revealed the new GPU in the patch notes for its latest 596.36 GeForce graphics driver. The company writes that while demand for its GeForce RTX GPUs remains strong, the memory crisis is causing issues. Read Entire Article",
+    "link": "https://www.techspot.com/news/112230-nvidia-quietly-launches-12gb-rtx-5070-laptop-gpu.html",
     "categories": [
       "GPUs",
-      "Semiconductors"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.054093"
-  },
-  {
-    "title": "Big Tech killed California's anti-self-preferencing bill in a month",
-    "summary": "The bill, introduced by State Senator Scott Wiener, aimed to curb that conduct and drew on ideas similar to those driving Europe's recent digital competition rules. Read Entire Article",
-    "link": "https://www.techspot.com/news/112214-big-tech-killed-california-anti-self-preferencing-bill.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.054247"
-  },
-  {
-    "title": "Toyota turns luxury car seat into a $3,100 office chair with a seatbelt",
-    "summary": "Called the Crown Seat Desk Chair, it essentially repurposes the front power seat from Toyota's Crown luxury sedan for desk use. You get the full set of features from the car seat as well including heating and cooling with three levels and even the seatbelt buckle, which has been... Read Entire Article",
-    "link": "https://www.techspot.com/news/112220-toyota-turns-luxury-car-seat-3100-office-chair.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.054433"
-  },
-  {
-    "title": "Mr. Wonderful's AI data center in Utah could consume 2x more power than the whole state",
-    "summary": "According to the The Salt Lake Tribune, the Stratos project will be developed across roughly 41,200 acres in an unincorporated area of western Box Elder County. The site includes about 40,000 acres of private land and approximately 1,200 acres of military and state-owned property. The lead developer is O'Leary Digital,... Read Entire Article",
-    "link": "https://www.techspot.com/news/112206-wonderful-ai-data-center-utah-could-consume-2x.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.054613"
-  },
-  {
-    "title": "An electric air taxi just flew from JFK to Manhattan in under 10 minutes",
-    "summary": "In early demonstrations, Joby flew from JFK Airport to heliports in Lower Manhattan and Midtown in under 10 minutes. The route, which can take significantly longer by car depending on traffic, is a key use case for the company's proposed urban air mobility network. Read Entire Article",
-    "link": "https://www.techspot.com/news/112216-electric-air-taxi-flew-jfk-manhattan-under-10.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.054774"
-  },
-  {
-    "title": "OpenAI faces criminal investigation after murder suspect asked ChatGPT: \"What happens if a human is put in a garbage bag?\"",
-    "summary": "Attorney General James Uthmeier recently announced the Office of Statewide Prosecution launched a criminal investigation into OpenAI and ChatGPT. Read Entire Article",
-    "link": "https://www.techspot.com/news/112217-openai-faces-criminal-investigation-after-murder-suspect-asked.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-04-29T10:30:07.054935"
-  },
-  {
-    "title": "A gamer who lost his arm built a one-handed controller after existing hardware failed him",
-    "summary": "The ERCHAM MK1 combines mouse and keyboard functions into a single unit. It features an optical sensor that enables independent cursor control, alongside a 28-key programmable keypad. Each key can be mapped to specific inputs, giving users much of the flexibility of a full keyboard in a more compact layout. Read Entire Article",
-    "link": "https://www.techspot.com/news/112212-gamer-who-lost-arm-built-one-handed-controller.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.055110"
-  },
-  {
-    "title": "Australia gives Google, Meta, and TikTok a choice: pay news outlets or pay a 2.25% tax",
-    "summary": "Prime Minister Anthony Albanese said large digital platforms \"cannot avoid their obligations\" under the country's news media bargaining framework. Read Entire Article",
-    "link": "https://www.techspot.com/news/112213-australia-gives-google-meta-tiktok-choice-pay-publishers.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.055264"
-  },
-  {
-    "title": "At Nvidia, compute already costs more than employees. The rest of corporate America is catching up",
-    "summary": "At Nvidia, that shift is already visible. \"For my team, the cost of compute is far beyond the costs of the employees,\" Bryan Catanzaro, vice president of applied deep learning at Nvidia, told Axios. Read Entire Article",
-    "link": "https://www.techspot.com/news/112209-ai-compute-costs-getting-high-they-starting-rival.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.055459"
-  },
-  {
-    "title": "Peter Molyneux's $50 million NFT game left most players with heavy losses",
-    "summary": "Players who invested in Legacy recently told Ars Technica that some lost tens of thousands of dollars and recouped less than $100, or nothing at all. Events leading up to the game's 2021 unveiling made it an enticing prospect for the blockchain-faithful, but it ultimately met the same fate as... Read Entire Article",
-    "link": "https://www.techspot.com/news/112208-peter-molyneux-50-million-nft-game-left-most.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.055663"
-  },
-  {
-    "title": "AI coding agent running Claude wiped a startup's database (and its backups) in 9 seconds",
-    "summary": "PocketOS, which provides software to car rental businesses, was using the agent against live infrastructure rather than keeping it strictly in a test environment. In a public post, founder Jer Crane described the episode as evidence of \"systemic failures\" and argued it was more than a single mistaken command. Read Entire Article",
-    "link": "https://www.techspot.com/news/112207-ai-coding-agent-running-claude-wiped-startup-database.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-04-29T10:30:07.055839"
+    "processed_date": "2026-04-30T10:28:52.209016"
   }
 ]

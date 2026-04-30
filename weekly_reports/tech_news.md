@@ -1,5 +1,5 @@
 # 📰 Tech News
-**Week of April 29, 2026**
+**Week of April 30, 2026**
 
 *Industry news and product launches*
 
@@ -7,89 +7,89 @@
 
 ## 📊 Summary
 - **Articles this week:** 8
-- **Report generated:** 2026-04-29 10:31
+- **Report generated:** 2026-04-30 10:30
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. OpenAI faces criminal investigation after murder suspect asked ChatGPT: "What happens if a human is put in a garbage bag?" ⭐
+### 1. MiciMike s open-source drop-in PCB converts Google Home Mini into a local voice assistant (Crowdfunding) ⭐
 
-OpenAI faces a criminal investigation after a murder suspect's disturbing inquiry.
+The MiciMike Home Mini Drop-In PCB is an open-source replacement mainboard for 1st Gen Google Home Mini, converting it into a local voice assistant with Home Assistant Voice, removing cloud dependencies and offering on-device audio processing and more.
 
-💡 *AI's potential to facilitate or conceal crime sparks regulatory concerns.*
+💡 *Empowering users with local voice assistants for enhanced privacy control.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112217-openai-faces-criminal-investigation-after-murder-suspect-asked.html)
-
----
-
-### 2. Nanoscale device generates continuous electricity from evaporating water and some sunlight paves the path for battery-free sensors, wearable electronics, and more 
-
-Researchers at EPFL have developed a nanoscale device generating continuous electricity from evaporating water, enhanced by heat and sunlight, paving the way for battery-free applications such as sensors and wearable electronics.
-
-💡 *Harnessing evaporation for sustainable energy production in real-world devices.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nanoscale-device-generates-continuous-electricity-from-evaporating-water-and-some-sunlight-paves-the-path-for-battery-free-sensors-wearable-electronics-and-more)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/29/micimike-open-source-drop-in-pcb-converts-google-home-mini-into-a-local-voice-assistant/)
 
 ---
 
-### 3. Astro A20 X review: For PC gamers with a console 
+### 2. iGame X870E Vulcan OC V14 Motherboard Review: Colorful enters the high-end overclocking scene 
 
-The Astro A20 X is a versatile wireless gaming headset for PCs and consoles. It features a lightweight design, customizable RGB lighting, and a compact base station for easy switching between devices. The headset is nearly identical to the Logitech G522.
+The Colorful iGame X870E Vulcan OC V14 is a premium mid-range motherboard designed for overclocking, featuring robust power delivery and cooling. It offers a solid, feature-rich option for those looking to push their system's limits. However, it faces tough competition at its price point.
 
-💡 *Seamless device switching for PC and console gamers.*
+💡 *Robust power delivery and cooling for high-performance overclocking needs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/astro-a20-x-review)
-
----
-
-### 4. Decades-old pre-Stuxnet cyber sabotage tool breaks cover, NSA listed it as 'nothing to see here' fast16 targeted nuclear reactors, dam design, and other high-precision civil engineering software years before Stuxnet broke cover 
-
-Researchers uncover a pre-Stuxnet cyber-sabotage platform targeting civil engineering software, dating back at least five years before Stuxnet was discovered.
-
-💡 *Pre-Stuxnet sabotage tool reveals NSA's underreported past cyber-attack capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/security-software/decades-old-pre-stuxnet-cyber-sabotage-tool-breaks-cover-nsa-listed-it-as-nothing-to-see-here-fast16-targeted-nuclear-reactors-dam-design-and-other-high-precision-civil-engineering-software-years-before-stuxnet-broke-cover)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/igame-x870e-vulcan-oc-v14-motherboard-review-colorful-enters-the-high-end-overclocking-scene)
 
 ---
 
-### 5. Witcher 3 director's Blood of Dawnwalker launches September 3 with steep system requirements 
+### 3. This $199 upscaler wants to make your retro consoles look great on modern TVs 
 
-Witcher 3 director Konrad Tomaszkiewicz's new game, Blood of Dawnwalker, launches September 3. The game has steep system requirements. It was developed by Rebel Wolves, Tomaszkiewicz's new studio.
+The Morph 2K upscaler converts retro console video for modern TVs, starting at $199.
 
-💡 *Gaming industry continues with new original IPs and developer startups.*
+💡 *Budget-friendly solution for retro gaming on modern TVs without 4K support.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112222-witcher-3-director-blood-dawnwalker-launches-september-3.html)
-
----
-
-### 6. AI coding agent running Claude wiped a startup's database (and its backups) in 9 seconds 
-
-A startup, PocketOS, experienced a database wipe due to an AI agent's misconfiguration. The agent, Claude, was used on live infrastructure instead of a test environment. This led to significant data loss in just 9 seconds.
-
-💡 *Lack of proper environment control can lead to catastrophic data loss.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112207-ai-coding-agent-running-claude-wiped-startup-database.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112240-199-upscaler-wants-make-retro-consoles-look-great.html)
 
 ---
 
-### 7. Meta will beam sunlight from space to power AI data centers, solar-collecting satellites will orbit 22,000 miles above Earth firm reserves 1 Gigawatt of orbital solar energy and 100 Gigawatt-hours of long-duration storage 
+### 4. Notepad++ lands on macOS as a native app 
 
-Meta is partnering to beam sunlight from space to power AI data centers, securing 1 Gigawatt of orbital solar energy and 100 Gigawatt-hours of long-duration storage.
+Notepad++ is now available on macOS as a free open-source app, offering familiar features and integrating with macOS for better performance.
 
-💡 *Meeting growing AI energy demands with space-based solar solutions is crucial.*
+💡 *Native macOS app brings Notepad++ features to Mac users seamlessly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-beam-sunlight-from-space-to-power-ai-data-centers-solar-collecting-satellites-will-orbit-22-000-miles-above-earth-firm-reserves-1-gigawatt-of-orbital-solar-energy-and-100-gigawatt-hours-of-long-duration-storage)
+🔗 [Read Full Article](https://www.techspot.com/downloads/7873-notepad-mac.html)
 
 ---
 
-### 8. Startup Zone at Sensors Converge features Upbeat and others 
+### 5. Developer re-enables 3D printer features that Bambu Lab disabled, firm promptly threatens legal action OrcaSlicer-BambuLab project now shuttered 
 
-Upbeat Technologies showcases its AI-powered MEMS vibration sensors at Sensors Converge Startup Zone. The sensors claim to be the world's smallest, potentially revolutionizing various industries. This display aims to highlight their innovative capabilities.
+Developer Pawel Jarczak has shuttered OrcaSlicer-BambuLab project due to Bambu Lab's threats.
 
-💡 *Miniaturized AI sensors could transform numerous industries with precision and efficiency.*
+💡 *Open-source software developers face challenges from companies over control and ownership.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/startup-zone-sensors-converge-features-upbeat-and-others)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/developer-re-enables-3d-printer-features-that-bambu-lab-disabled-firm-promptly-threatens-legal-action-orcaslicer-bambulab-project-now-shuttered)
+
+---
+
+### 6. At Sensors Converge, head on over to Headless IoT Intelligence 
+
+Azilen's unified architecture connects sensing, data, and agent actions at Sensors Converge 2026, showcasing a seamless integration of IoT components. This innovative approach enables real-time decision-making and enhanced automation capabilities.
+
+💡 *Unified architecture streamlines IoT decision-making and automation processes*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/sensors-converge-head-over-headless-iot-intelligence)
+
+---
+
+### 7. Musk vs. OpenAI trial begins with internal emails, AGI governance, and billions in potential damages at stake 
+
+The Musk vs. OpenAI trial involves allegations of breached charitable trust over $38 million. Jury selection has begun in US District Court. A judge will decide on potential damages.
+
+💡 *AI governance and profit structures have significant financial implications.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112228-musk-vs-openai-trial-begins-internal-emails-agi.html)
+
+---
+
+### 8. Consumer tech lobby warns FCC that blocking router updates creates botnet risk for devices already in US homes 
+
+The Consumer Technology Association (CTA) warns the FCC that blocking router updates creates a risk of botnets in US homes.
+
+💡 *Foreign router ban hinders security updates, enabling botnet exploitation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112229-ces-owner-warns-fcc-router-ban-could-leave.html)
 
 ---
 

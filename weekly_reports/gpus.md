@@ -1,125 +1,95 @@
 # 🎮 GPUs
-**Week of April 29, 2026**
+**Week of April 30, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-04-29 10:31
+- **Articles this week:** 8
+- **Report generated:** 2026-04-30 10:30
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. A Decade of AMD Ryzen: 10 Years of CPUs Tested ⭐
+### 1. Framework's new RTX 5070 12GB graphics module costs a whopping $1,199 72% more expensive than $699 8GB version, says pricing is beyond its control 
 
-AMD Ryzen's 10-year journey from near collapse to CPU dominance is explored through benchmarked flagship generations.
+Framework's new RTX 5070 12GB graphics module costs $1,199, a 72% price increase from the $699 8GB version.
 
-💡 *Ryzen's rise showcases the power of innovative architecture over pure brute force.*
+💡 *Pricing disparity highlights manufacturers' limited control over GPU costs.*
 
-🔗 [Read Full Article](https://www.techspot.com/article/3117-10-years-amd-flagship-cpus/)
-
----
-
-### 2. Nvidia quietly launches 12GB RTX 5070 laptop GPU midrange mobile gaming gets more VRAM amid the RAMpocalypse 
-
-Nvidia has launched a 12GB version of its RTX 5070 laptop GPU, offering 50% more VRAM than its 8GB counterpart. This move addresses ongoing memory shortages and provides a boost to mid-range mobile gaming. The 12GB model is a response to the RAMpocalypse.
-
-💡 *Nvidia addresses memory shortages with higher-capacity laptop GPU options.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-quietly-launches-12gb-rtx-5070-laptop-gpu-midrange-mobile-gaming-gets-more-vram-amid-the-rampocalypse)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/frameworks-new-rtx-5070-12gb-graphics-module-costs-a-whopping-usd1-199-72-percent-more-expensive-than-usd699-8gb-version-says-pricing-is-beyond-its-control)
 
 ---
 
-### 3. China announces CPU-only exascale supercomputer with 47,000 homemade processors, record 2 Exaflops of performance without GPUs Lingshen super said to use Huawei Kunpeng servers and no foreign-made components 
+### 2. Palit confirms Galax brand will continue after takeover confusion, promises support for existing products 
 
-China has announced an exascale supercomputer, Lingshen, powered by 47,000 homemade processors. The system is designed to achieve 2 Exaflops of performance without GPU accelerators. It will be built using Huawei Kunpeng servers with no foreign-made components.
+Galax has confirmed it will continue as the Galax brand under Palit's takeover, ensuring customer support for existing products.
 
-💡 *First exascale machine without GPU accelerators, marking significant technological milestone*
+💡 *Galax customers retain support for existing products post-takeover*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-plans-cpu-only-exascale-supercomputer-with-47000-domestic-processors)
-
----
-
-### 4. Market slumps as OpenAI reportedly misses internal targets for active users and revenue Nvidia, Oracle, AMD, and CoreWeave shares all tremble on the news 
-
-OpenAI reportedly misses internal targets, impacting stocks of Nvidia, Oracle, SoftBank, and CoreWeave. The news led to a significant drop in stock prices, with SoftBank losing 9.9% of its value. The market slump affects major players in the tech industry.
-
-💡 *OpenAI's performance has ripple effects in the tech investment ecosystem*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/market-slumps-as-openai-reportedly-misses-internal-targets-for-active-users-and-revenue-nvidia-oracle-amd-and-coreweave-shares-all-tremble-on-the-news)
+🔗 [Read Full Article](https://www.techspot.com/news/112238-palit-confirms-galax-brand-continue-after-takeover-confusion.html)
 
 ---
 
-### 5. Legendary ZSNES Nintendo emulator rewritten from scratch with GPU-acceleration, no vibe coding new Super ZSNES has far more accurate CPU and audio cores than the original  
+### 3. Former Google and Meta engineers build memory-first AI server to challenge Nvidia's GPU dominance 
 
-Super ZSNES is a rewritten Super Nintendo emulator with GPU-acceleration and improved CPU/audio cores, offering a more accurate gaming experience. This new version provides a major overhaul of the legendary ZSNES emulator, leveraging the power of graphics processing units to enhance performance and fidelity. Super ZSNES is a significant upgrade for fans and retro gaming enthusiasts.
+Majestic Labs AI, founded by former Google and Meta engineers, has developed a memory-first AI server to challenge Nvidia's dominance. The server architecture is built around a memory-first design, aiming to optimize AI computing performance.
 
-💡 *Faster, more accurate emulation thanks to GPU acceleration and updated cores.*
+💡 *Optimizing memory usage can significantly boost AI computing efficiency.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/nintendo/legendary-zsnes-nintendo-emulator-rewritten-from-scratch-with-gpu-acceleration-no-vibe-coding-new-super-zsnes-has-far-more-accurate-cpu-and-audio-cores-than-the-original)
-
----
-
-### 6. Save $400 on this 4K-ready MSI gaming PC with an RTX 5070 Ti and 32GB DDR5 budget-friendly Aegis Z2 rig also ships with eight-core AMD Ryzen CPU and a 2TB SSD, now just $1,849 
-
-This MSI Aegis Z2 gaming PC offers a powerful configuration at a discounted price. The system includes an eight-core AMD Ryzen CPU, an Nvidia GeForce RTX 5070 Ti, 32GB of DDR5 RAM, and a 2TB SSD. It can be purchased for $1,849.99, a $400 saving.
-
-💡 *High-performance gaming PC at a budget-friendly price point available now.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd400-on-this-4k-ready-msi-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-budget-friendly-aegis-z2-rig-also-ships-with-eight-core-amd-ryzen-cpu-and-a-2tb-ssd-now-just-usd1-849)
+🔗 [Read Full Article](https://www.techspot.com/news/112235-former-google-meta-engineers-build-memory-first-ai.html)
 
 ---
 
-### 7. The GeForce RTX 30-series upgrade matrix does your Ampere GPU need an upgrade in 2026? 
+### 4. The Google Pixel 11 will reportedly feature a 5-year-old GPU 
 
-The GeForce RTX 30-series upgrade matrix assesses Ampere GPUs for upgrade needs in 2026. Evaluations consider performance, power efficiency, and compatibility with newer technologies. Find out if your Ampere GPU is due for an upgrade.
+The Google Pixel 11 may feature a 5-year-old GPU, potentially impacting performance.
 
-💡 *Upgrade decisions hinge on balancing performance, power, and compatibility trade-offs.*
+💡 *Outdated graphics processing could compromise device performance and user experience*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/the-geforce-rtx-30-series-upgrade-matrix-does-your-ampere-gpu-need-an-upgrade-in-2026)
-
----
-
-### 8. Intel says software, not more cache, is key to beating AMD in gaming 
-
-Intel emphasizes software's importance over hardware upgrades for gaming performance.
-
-💡 *Software optimization trumps hardware specifications for gaming success.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112218-intel-software-not-more-cache-key-beating-amd.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112233-google-pixel-11-reportedly-feature-5-year-old.html)
 
 ---
 
-### 9. Turtle Beach put a touchscreen on a gaming mouse, and it costs $160 
+### 5. Palit Group says Galax GPU brand will continue to operate following restructure Galax management centralized under Palit Group in 'pre-planned' shakeup 
 
-Turtle Beach introduced the Command Series MC7 wireless gaming mouse with a 2.25-inch touchscreen for easy control over DPI, profiles, and macros. The touch display provides a convenient way to manage settings in gaming and productivity tasks. The mouse costs $160.
+Galax GPU brand remains operational under Palit Group's management restructuring.
 
-💡 *Gamers can now easily adjust settings with a touchscreen mouse*
+💡 *Streamlined business operations enhance efficiency and competitiveness.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112205-turtle-beach-new-command-series-puts-touch-controls.html)
-
----
-
-### 10. At Nvidia, compute already costs more than employees. The rest of corporate America is catching up 
-
-Nvidia's compute costs exceed employee costs due to rapidly advancing technology.
-
-💡 *Rising compute costs outpace labor expenses in AI-driven industries.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112209-ai-compute-costs-getting-high-they-starting-rival.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/palit-group-says-galax-gpu-brand-will-continue-to-operate-following-restructure-galax-management-centralized-under-palit-group-in-pre-planned-shakeup)
 
 ---
 
-### 11. Here s more Sensors Converge 2026 scoop from ST and Microchip 
+### 6. Nvidia exec says AI is more expensive than actual workers yet some companies don't see the extra costs as a negative 
 
-ST and Microchip are showcasing innovative technologies at Sensors Converge 2026, including robotic hands, hand tracking, and a humanoid proof of concept.
+Companies may prioritize AI over workers due to cost, despite AI expenses being higher. This shift could lead to a more automated future for businesses. However, the long-term implications of this trend remain unclear.
 
-💡 *Advancements in robotics and AI bring human-like capabilities to industries.*
+💡 *AI costs outweigh human labor expenses for some modern businesses.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/heres-more-sensors-converge-2026-scoop-st-and-microchip)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-exec-says-ai-is-more-expensive-than-actual-workers-yet-some-companies-dont-see-the-extra-costs-as-a-negative)
+
+---
+
+### 7. Chinese GPU maker Lisuan Tech becomes only the fourth GPU maker ever to earn Microsoft WHQL certification LX 7G100 GPU joins Nvidia, AMD, and Intel as it crosses the WHQL driver finish line, first Chinese firm to earn certification 
+
+Lisuan Tech becomes fourth GPU maker to earn Microsoft WHQL certification, joining Nvidia, AMD, and Intel. This achievement marks a significant milestone for the Chinese firm. Lisuan Tech's 6nm graphics cards have met Microsoft's rigorous quality standards.
+
+💡 *Breakthrough for Chinese tech, marking international GPU market recognition.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/in-historic-first-chinese-gpu-maker-lisuan-tech-becomes-only-the-fourth-gpu-maker-to-earn-microsoft-whql-certification-lx-7g100-gpu-joins-nvidia-amd-and-intel-as-it-crosses-the-whql-driver-finish-line-first-chinese-firm-to-earn-certification)
+
+---
+
+### 8. Nvidia quietly launches 12GB RTX 5070 Laptop GPU as Framework lists it for $1,199 
+
+Nvidia quietly launched the 12GB RTX 5070 Laptop GPU, addressing memory issues.
+
+💡 *Memory crisis prompts Nvidia to release new GPU variant to meet demand.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112230-nvidia-quietly-launches-12gb-rtx-5070-laptop-gpu.html)
 
 ---
 
