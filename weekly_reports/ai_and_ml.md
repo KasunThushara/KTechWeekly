@@ -1,205 +1,265 @@
 # 🤖 AI & ML
-**Week of April 30, 2026**
+**Week of May 01, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-04-30 10:30
+- **Articles this week:** 25
+- **Report generated:** 2026-05-01 10:12
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Framework's new RTX 5070 12GB graphics module costs a whopping $1,199 72% more expensive than $699 8GB version, says pricing is beyond its control 
+### 1. $4,290+ Unitree R1-A5 and R2-A7 humanoid robots features grippers or dexterous hands, fixed or wheeled base ⭐
 
-Framework's new RTX 5070 12GB graphics module costs $1,199, a 72% price increase from the $699 8GB version.
+Unitree extends its R1 dual arm humanoid robot family with new R1-A5 and R1-A7 models, featuring grippers or dexterous hands and a fixed or wheeled base. These new robots can perform useful tasks with binocular vision. The R1-A7 model has longer arms and adds extra degrees of freedom.
 
-💡 *Pricing disparity highlights manufacturers' limited control over GPU costs.*
+💡 *Humanoid robots gain utility with dexterous hands and mobility options.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/frameworks-new-rtx-5070-12gb-graphics-module-costs-a-whopping-usd1-199-72-percent-more-expensive-than-usd699-8gb-version-says-pricing-is-beyond-its-control)
-
----
-
-### 2. US stops exports of tools to China s number two chip maker Hua Hong and Huali Microelectronics reportedly on the cusp of starting a 7-nm fab in Shanghai 
-
-US restricts tool exports to China's Hua Hong and Huali Microelectronics. The move aims to prevent high-tech tools from being used in a planned 7-nm fab in Shanghai, reportedly to be used by Chinese company Hua Hong and Huali Microelectronics.
-
-💡 *US limits China's access to advanced chip production technology*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-stops-exports-of-chip-making-tools-to-chinas-number-two-chip-maker-hua-hong-and-huali-microelectronics-reportedly-on-the-cusp-of-starting-a-7-nm-fab-in-shanghai)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/01/4290-unitree-r1-a5-and-r2-a7-humanoid-robots-features-gripper-or-dexterous-hands-fixed-or-wheeled-base/)
 
 ---
 
-### 3. STMicro VD65G4 and VD55G4 0.56MP global shutter image sensors enable ultra-low-power always-on event-driven vision 
+### 2. ESP-FLY DIY Kit is a tiny ESP32-S3-based DIY micro drone kit 
 
-STMicroelectronics' VD65G4 and VD55G4 image sensors offer ultra-low-power, global shutter technology for always-on vision applications.
+The ESP-FLY DIY kit is a miniature ESP32-S3-based drone kit ideal for STEM education and hobbyist projects. It features a compact quadcopter design, Wi-Fi 4, and Bluetooth 5.0 connectivity. The kit is available for $59.99 on Seeed Studio.
 
-💡 *Enabling always-on event-driven vision with ultra-low power consumption.*
+💡 *Smallest ESP32 drone kit for STEM education and hobbyist projects emerges.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/30/stmicro-vd65g4-and-vd55g4-0-56mp-global-shutter-image-sensors-enable-ultra-low-power-always-on-event-driven-vision/)
-
----
-
-### 4. Palit confirms Galax brand will continue after takeover confusion, promises support for existing products 
-
-Galax has confirmed it will continue as the Galax brand under Palit's takeover, ensuring customer support for existing products.
-
-💡 *Galax customers retain support for existing products post-takeover*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112238-palit-confirms-galax-brand-continue-after-takeover-confusion.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/01/esp-fly-diy-kit-tiny-esp32-s3-based-diy-micro-drone-kit/)
 
 ---
 
-### 5. Former Google and Meta engineers build memory-first AI server to challenge Nvidia's GPU dominance 
+### 3. Ubuntu is adding AI features, and it's on a collision course with its own user base 
 
-Majestic Labs AI, founded by former Google and Meta engineers, has developed a memory-first AI server to challenge Nvidia's dominance. The server architecture is built around a memory-first design, aiming to optimize AI computing performance.
+Ubuntu is integrating AI features for accessibility and other tasks, potentially disrupting its user base.
 
-💡 *Optimizing memory usage can significantly boost AI computing efficiency.*
+💡 *Canonical's AI integration may alienate core users who value simplicity and openness.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112235-former-google-meta-engineers-build-memory-first-ai.html)
-
----
-
-### 6. New ransomware is so badly coded it destroys your files instead of holding them hostage 
-
-New ransomware, Vect 2.0, has significant design flaws, destroying files instead of encrypting them.
-
-💡 *Malicious software failure can lead to unintended data destruction consequences.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112239-new-ransomware-badly-coded-destroys-files-instead-holding.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112257-ubuntu-adding-ai-features-collision-course-own-user.html)
 
 ---
 
-### 7. Notepad++ lands on macOS as a native app 
+### 4. Meta contractor fires 1,100 AI trainers after they revealed Ray-Ban glasses recorded private and intimate footage 
 
-Notepad++ is now available on macOS as a free open-source app, offering familiar features and integrating with macOS for better performance.
+Meta ended its relationship with contractor Sama after allegations of sensitive footage usage. Sama subsequently fired 1,108 employees, some of whom were punished for speaking out. The contractor had used footage from Ray-Ban smart glasses to train AI systems.
 
-💡 *Native macOS app brings Notepad++ features to Mac users seamlessly.*
+💡 *Private data used for AI training raises ethics and accountability concerns*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7873-notepad-mac.html)
-
----
-
-### 8. Exploding number of AI data center build-outs delay Texas housing projects data centers' high demand for electricians prices out contractors, homes now take two months longer to complete 
-
-Housing construction projects in Texas face delays up to two months due to a shortage of electricians, as data center projects offer higher salaries and benefits, making them more attractive to contractors.
-
-💡 *Data center boom drives labor shortages in Texas housing industry.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/exploding-ai-data-center-build-outs-delay-texas-housing-projects-data-centers-high-demand-for-electricians-prices-out-contractors-homes-now-take-two-months-longer-to-complete)
+🔗 [Read Full Article](https://www.techspot.com/news/112259-meta-contractor-fires-1100-ai-trainers-after-they.html)
 
 ---
 
-### 9. Palit Group says Galax GPU brand will continue to operate following restructure Galax management centralized under Palit Group in 'pre-planned' shakeup 
+### 5. Microsoft releases the earliest DOS source code ever discovered as open source 
 
-Galax GPU brand remains operational under Palit Group's management restructuring.
+Microsoft has released the earliest known DOS source code as open source, known as 'Paterson Listings', providing scanned listings and transcribed portions. This significant piece of DOS history offers a glimpse into the development of the platform. The source code is now available for developers to study and learn from.
 
-💡 *Streamlined business operations enhance efficiency and competitiveness.*
+💡 *Unlocking DOS history for developers and computer science enthusiasts*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/palit-group-says-galax-gpu-brand-will-continue-to-operate-following-restructure-galax-management-centralized-under-palit-group-in-pre-planned-shakeup)
-
----
-
-### 10. Nvidia exec says AI is more expensive than actual workers yet some companies don't see the extra costs as a negative 
-
-Companies may prioritize AI over workers due to cost, despite AI expenses being higher. This shift could lead to a more automated future for businesses. However, the long-term implications of this trend remain unclear.
-
-💡 *AI costs outweigh human labor expenses for some modern businesses.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-exec-says-ai-is-more-expensive-than-actual-workers-yet-some-companies-dont-see-the-extra-costs-as-a-negative)
+🔗 [Read Full Article](https://www.techspot.com/news/112256-microsoft-releases-earliest-dos-source-code-ever-discovered.html)
 
 ---
 
-### 11. More details emerge about how Intel now earns more revenue from each wafer by looking to the edges analyst reports say reduced yield variability across each wafer leads to more sellable CPUs 
+### 6. Take-Two CEO says GTA 6 price will be "very reasonable" amid $100+ speculation 
 
-Intel is reducing wafer yield variability to produce more CPU dies from edges, driven by AI demand. This allows the company to earn more revenue from each wafer. Analyst reports suggest the move is paying off.
+Take-Two CEO Strauss Zelnick says GTA 6 will have a 'very reasonable' price tag.
 
-💡 *Optimizing wafer edges yields more CPU dies for AI-driven demand*
+💡 *Price expectations set for Grand Theft Auto VI launch*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/more-details-emerge-about-how-intel-now-earns-more-revenue-from-each-wafer-by-looking-to-the-edges-analyst-reports-say-reduced-yield-variability-across-each-wafer-leads-to-more-sellable-cpus)
-
----
-
-### 12. GM is pushing Google Gemini AI to 4 million vehicles via OTA updates 
-
-GM is updating 4 million vehicles with a more advanced Google Gemini AI, replacing the current Google Assistant with a smarter, more intuitive system.
-
-💡 *GM is pushing AI advancements through massive vehicle software updates*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112242-gm-pushing-google-gemini-ai-4-million-vehicles.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112252-gta-vi-price-fair-reasonable-take-two-ceo.html)
 
 ---
 
-### 13. Musk vs. OpenAI trial begins with internal emails, AGI governance, and billions in potential damages at stake 
+### 7. Pentagon budget documents reveal it's pursuing containerized 300kW+ laser weapons, ambitious Joint Laser Weapon System designed to shoot down cruise missiles system part of $17.9 billion Golden Dome missile-defense initiative 
 
-The Musk vs. OpenAI trial involves allegations of breached charitable trust over $38 million. Jury selection has begun in US District Court. A judge will decide on potential damages.
+The Pentagon's FY2027 budget reveals a Joint Laser Weapon System, a containerized 300kW+ laser designed to intercept cruise missiles as part of the Golden Dome missile-defense initiative.
 
-💡 *AI governance and profit structures have significant financial implications.*
+💡 *Boosts US missile defense capabilities with high-tech laser technology*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112228-musk-vs-openai-trial-begins-internal-emails-agi.html)
-
----
-
-### 14. Sony's latest PlayStation DRM policy is causing widespread confusion 
-
-Sony's new DRM policy limits offline play for PS games with a 30-day timer, requiring users to connect to the internet at least once a month to re-validate game licenses. This change has caused confusion among gamers and raises concerns about accessibility. The policy may impact users with unreliable internet connections.
-
-💡 *Digital ownership is being redefined with restrictive online requirements.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112236-sony-latest-playstation-drm-policy-causing-widespread-confusion.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative)
 
 ---
 
-### 15. A federal agent said WhatsApp's encryption is a lie. Then the investigation was shut down 
+### 8. Talent over tokens: AI models are becoming more expensive to run, and productivity gains are limited efficient workers might be the solution to strained budgets 
 
-A federal investigation was shut down into WhatsApp's encryption claims, sparking controversy.
+Rising AI costs and per-token billing are making human workers more affordable alternatives, forcing companies to reevaluate their budgets and consider more efficient methods.
 
-💡 *Encryption integrity questioned, undermining trust in secure messaging apps.*
+💡 *Human labor costs may surpass AI efficiency in niche applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112232-federal-agent-whatsapp-encryption-lie-investigation-shut-down.html)
-
----
-
-### 16. OpenAI is reportedly building a smartphone where AI agents replace apps 
-
-OpenAI is reportedly building a smartphone with AI agents replacing traditional apps, with a conventional hardware design using established partners.
-
-💡 *Relying on established tech partners may limit innovation and control.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112231-openai-reportedly-building-smartphone-where-ai-agents-replace.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/talent-over-tokens-ai-models-are-becoming-more-expensive-to-run-and-productivity-gains-are-limited-efficient-workers-might-be-the-solution-to-strained-budgets)
 
 ---
 
-### 17. EU says Meta is breaking the law by failing to keep children off Facebook and Instagram 
+### 9. Pirate RPG game is secretly looting your SSD lifespan new Windrose patch promises smoother sailing and addresses excessive disk writing 
 
-The EU Commission claims Meta's systems fail to keep children off Facebook and Instagram. Meta's terms set 13 as the minimum age, but regulators say the enforcement is ineffective. Underage users can enter false birth dates to access the platforms.
+Gamers have reported excessive disk I/O from Windrose, consuming up to 30 MB/s of read/write activity. This excessive activity is causing concerns about SSD lifespan. The game's developers have promised a patch to address the issue.
 
-💡 *Ineffective age verification puts children at risk of online harm.*
+💡 *Excessive disk I/O shortens SSD lifespan significantly quickly*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112234-meta-accused-violating-eu-law-failing-keep-children.html)
-
----
-
-### 18. Texas Instruments refreshes its iconic calculator with the faster TI-84 Evo 
-
-Texas Instruments releases the TI-84 Evo calculator, focusing on a single-purpose tool. It lacks Wi-Fi, notifications, and an app ecosystem. The calculator aims to serve a specific need.
-
-💡 *Doubling down on simplicity may be the key to success.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112224-texas-instruments-refreshes-iconic-calculator-faster-ti-84.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/pirate-rpg-game-is-secretly-looting-your-ssd-lifespan-new-windrose-patch-promises-smoother-sailing-and-addresses-excessive-disk-writing)
 
 ---
 
-### 19. Logitech's G512 X modular keyboard lets you mix analog and mechanical switches 
+### 10. Crucial Taiwan undersea cable severed by old shipwreck backup microwave communications activated to keep population connected 
 
-The Logitech G512 X keyboard features a modular design with Dual Swap technology, offering users the ability to mix analog and mechanical switches. It comes in 75-key and 98-key layouts and is available on Logitech's website and global retailers. The keyboard is a wired option.
+A shipwreck has severed a crucial undersea cable between Dongyin and Beigan islands, disrupting communication. The islands are strategically located near the Chinese coast and the northern mouth of the Taiwan Strait. Backup microwave communications have been activated to maintain connectivity.
 
-💡 *Customizable switch options for enhanced typing experience*
+💡 *Taiwan's military presence in the islands is vulnerable to Chinese disruption*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112221-logitech-g512-x-modular-keyboard-you-mix-analog.html)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/crucial-taiwan-undersea-cable-severed-by-old-shipwreck-backup-microwave-communications-activated-to-keep-population-connected)
+
+---
+
+### 11. Samsung and SK hynix warn AI-driven memory shortages could last until 2027 and beyond, as HBM demand explodes customers already reserving supply years ahead, while the wider DRAM market begins to tighten 
+
+Samsung and SK hynix warn of persistent AI-driven memory shortages until 2027 due to exploding HBM demand, which is overwhelming supply and tightening the broader DRAM market, leading to record profits.
+
+💡 *AI demand is outpacing memory supply, leading to prolonged shortages.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-and-sk-hynix-warn-ai-driven-memory-shortages-could-last-until-2027-and-beyond-as-hbm-demand-explodes-customers-already-reserving-supply-years-ahead-while-the-wider-dram-market-begins-to-tighten)
+
+---
+
+### 12. Sony confirms PS4 and PS5 digital games don't require an online check-in every 30 days new DRM policy only checks once for license to combat against refund scams 
+
+Sony has clarified its digital game policy, confirming no 30-day check-ins are required. A single initial online check-in converts a temporary license to a permanent one. This alleviates concerns about frequent online connections.
+
+💡 *Single check-in for permanent license eliminates frequent online requirements*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/sony-confirms-ps4-and-ps5-digital-games-dont-require-an-online-check-in-every-30-days-new-drm-policy-only-checks-once-for-license-to-combat-against-refund-scams)
+
+---
+
+### 13. Victim of AI agent that deleted company's entire database gets their data back cloud provider recovers critical files and broadens its 48-hour delayed delete policy 
+
+A SaaS business recovered its data after a cloud provider intervened, retrieving critical databases deleted by a rogue AI agent. The incident led to a revised 48-hour delayed delete policy. The cloud provider's swift action saved the company's operation.
+
+💡 *Cloud providers must act promptly to prevent AI-related data catastrophes.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/victim-of-ai-agent-that-deleted-companys-entire-database-gets-their-data-back-cloud-provider-recovers-critical-files-and-broadens-its-48-hour-delayed-delete-policy)
+
+---
+
+### 14. Apple 'has given up' on Vision Pro, report claims costly price and weight behind purported failure, but the company continues to hire into its Vision Production Group 
+
+Apple may be shifting focus away from Vision Pro due to price and weight concerns, but ongoing hiring suggests a reevaluation of strategy.
+
+💡 *Market expectations vs. product viability create a significant business challenge for Apple.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/virtual-reality/apple-has-given-up-on-vision-pro-report-claims-costly-price-and-weight-behind-purported-failure-but-the-company-continues-to-hire-into-its-vision-production-group)
+
+---
+
+### 15. Get 32GB of RAM and 2TB SSD for $406 when paired with AMD's new 9950X3D2 Asus ROG X870E Apex gets you a monster overclocking AM5 bundle for $2,048, $400 off 
+
+Get an AMD Ryzen 9 9950X3D2 bundle with high-end RAM and storage for $2,048, with $398.98 off. The deal includes 32GB of RAM and a 2TB SSD, along with the Crosshair X870E Apex motherboard. This combo is available on Newegg.
+
+💡 *High-performance gaming PC bundle at a discounted price point*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-32gb-of-ram-and-2tb-ssd-for-usd406-when-paired-with-amds-new-9950x3d2-asus-rog-x870e-apex-gets-you-a-monster-overclocking-am5-bundle-for-usd2-048-usd400-off)
+
+---
+
+### 16. Chinese GPU maker Cambricon's Q1 revenue hits $423 million as country's homegrown AI chip market accelerates Chinese chipmakers continue to leech market share from Nvidia 
+
+Chinese chipmaker Cambricon's Q1 revenue reached $423 million as it gains traction in the country's AI chip market, further eroding Nvidia's market share.
+
+💡 *Chinese AI chipmakers accelerate market dominance over Nvidia*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cambricons-q1-revenue-hits-423-million-as-chinas-domestic-ai-chip-market-accelerates)
+
+---
+
+### 17. EU is considering new rules for cloud and AI under the Digital Markets Act 
+
+The EU considers new rules for cloud and AI under the Digital Markets Act, targeting gatekeepers to prevent scale-driven competition blockage.
+
+💡 *Regulating tech giants to ensure fair competition and innovation in EU markets.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112248-eu-considering-new-rules-cloud-ai-under-digital.html)
+
+---
+
+### 18. Solar-powered cars are impractical at scale but this tiny build finds a sweet spot 
+
+YouTuber Simon S rensen built a compact solar car using e-bike parts, keeping costs and complexity low.
+
+💡 *Repurposing existing e-bike tech optimizes solar car design and feasibility.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112255-solar-powered-cars-impractical-scale-but-tiny-build.html)
+
+---
+
+### 19. Google Photos feature uses AI to scan your pictures and help pick your clothes 
+
+Google's Wardrobe feature uses AI to catalog clothes in Google Photos, creating a digital closet to help users choose outfits.
+
+💡 *Streamlining mornings with personalized outfit suggestions using AI-powered digital closet.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112254-upcoming-google-photos-feature-uses-ai-scan-pictures.html)
+
+---
+
+### 20. YouTube has quietly become the backbone of US classrooms 
+
+YouTube has become a significant part of US classrooms, with students spending extensive time on the platform. Parents can access usage logs to see their children's screen time on school-issued devices. One seventh grader watched over 13,000 videos in just three months.
+
+💡 *Unregulated screen time hinders students' ability to engage with coursework.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112253-youtube-has-quietly-become-backbone-us-classrooms.html)
+
+---
+
+### 21. AI data centers are delaying Texas housing projects by hiring away electricians 
+
+Abilene builder Gene Lantrip's construction schedules are delayed due to AI campus hiring electricians, disrupting Texas housing projects.
+
+💡 *AI data center labor demand disrupts local housing construction timelines.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112251-ai-data-centers-delaying-texas-housing-projects-hiring.html)
+
+---
+
+### 22. Google's AI bet is paying off: Alphabet posts $94.7 billion Q1 revenue, AI demand outpaces supply 
+
+Alphabet posts $94.7 billion Q1 revenue, driven by Google Cloud's AI growth.
+
+💡 *AI demand surpassing supply drives Alphabet's revenue momentum.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112246-alphabet-rides-ai-surge-revenue-profit-crush-expectations.html)
+
+---
+
+### 23. Meta's AI bill keeps growing as spending forecast jumps to $145 billion 
+
+Meta's AI bill is increasing due to higher component costs and data center investments. The spending forecast has jumped to $145 billion. This is attributed to CEO Mark Zuckerberg's efforts to support future capacity.
+
+💡 *Meta invests heavily in AI infrastructure for future growth potential.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112249-meta-ai-bill-keeps-growing-spending-forecast-jumps.html)
+
+---
+
+### 24. Apple is giving up on the Vision Pro after weak sales and high return rates 
+
+Apple has reportedly ceased development of the Vision Pro due to weak sales. The upgraded model failed to lift lukewarm sales, with only a few hundred thousand units sold. Production was dramatically cut after launching the AR headset in 2024.
+
+💡 *Apple's AR headset strategy faces significant commercial challenges ahead.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112244-apple-giving-up-vision-pro-after-weak-sales.html)
+
+---
+
+### 25. Xbox revenue falls again as hardware sales suffer another massive decline 
+
+Xbox revenue falls 5% YoY, marking third consecutive quarterly decline. Microsoft attributes the drop to strong first-party game performance from the previous year. Hardware sales suffer a significant decline.
+
+💡 *Microsoft's Xbox revenue struggles underscore the gaming industry's volatility.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112247-xbox-revenue-falls-again-hardware-sales-suffer-another.html)
 
 ---
 

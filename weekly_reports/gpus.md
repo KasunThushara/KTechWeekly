@@ -1,95 +1,65 @@
 # 🎮 GPUs
-**Week of April 30, 2026**
+**Week of May 01, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-04-30 10:30
+- **Articles this week:** 5
+- **Report generated:** 2026-05-01 10:12
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Framework's new RTX 5070 12GB graphics module costs a whopping $1,199 72% more expensive than $699 8GB version, says pricing is beyond its control 
+### 1. Early tests show minimal performance impact from new budget HUDIMM DDR5 memory ⭐
 
-Framework's new RTX 5070 12GB graphics module costs $1,199, a 72% price increase from the $699 8GB version.
+Early tests show minimal performance impact from new HUDIMM DDR5 memory, suitable for gaming-focused systems.
 
-💡 *Pricing disparity highlights manufacturers' limited control over GPU costs.*
+💡 *HUDIMM DDR5 maintains performance parity with dual UDIMM DDR5 setups.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/frameworks-new-rtx-5070-12gb-graphics-module-costs-a-whopping-usd1-199-72-percent-more-expensive-than-usd699-8gb-version-says-pricing-is-beyond-its-control)
-
----
-
-### 2. Palit confirms Galax brand will continue after takeover confusion, promises support for existing products 
-
-Galax has confirmed it will continue as the Galax brand under Palit's takeover, ensuring customer support for existing products.
-
-💡 *Galax customers retain support for existing products post-takeover*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112238-palit-confirms-galax-brand-continue-after-takeover-confusion.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112241-early-tests-show-minimal-performance-impact-new-budget.html)
 
 ---
 
-### 3. Former Google and Meta engineers build memory-first AI server to challenge Nvidia's GPU dominance 
+### 2. NVIDIA phases out several Jetson modules due to high LPDDR4 RAM prices and tight supplies 
 
-Majestic Labs AI, founded by former Google and Meta engineers, has developed a memory-first AI server to challenge Nvidia's dominance. The server architecture is built around a memory-first design, aiming to optimize AI computing performance.
+NVIDIA has accelerated the end-of-life timeline for several Jetson modules due to high LPDDR4 RAM prices and tight supplies. The impacted modules include the NVIDIA Jetson TX2 NX, TX2i, AGX Xavier, and Xavier NX. New purchase orders for these modules are now Non-Cancelable, Non-Returnable.
 
-💡 *Optimizing memory usage can significantly boost AI computing efficiency.*
+💡 *LPDDR4 RAM shortages cripple NVIDIA Jetson module availability and pricing*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112235-former-google-meta-engineers-build-memory-first-ai.html)
-
----
-
-### 4. The Google Pixel 11 will reportedly feature a 5-year-old GPU 
-
-The Google Pixel 11 may feature a 5-year-old GPU, potentially impacting performance.
-
-💡 *Outdated graphics processing could compromise device performance and user experience*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112233-google-pixel-11-reportedly-feature-5-year-old.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/04/30/nvidia-phases-out-several-jetson-modules-due-to-high-lpddr4-ram-prices-and-tight-supplies/)
 
 ---
 
-### 5. Palit Group says Galax GPU brand will continue to operate following restructure Galax management centralized under Palit Group in 'pre-planned' shakeup 
+### 3. Get 32GB of RAM and 2TB SSD for $406 when paired with AMD's new 9950X3D2 Asus ROG X870E Apex gets you a monster overclocking AM5 bundle for $2,048, $400 off 
 
-Galax GPU brand remains operational under Palit Group's management restructuring.
+Get an AMD Ryzen 9 9950X3D2 bundle with high-end RAM and storage for $2,048, with $398.98 off. The deal includes 32GB of RAM and a 2TB SSD, along with the Crosshair X870E Apex motherboard. This combo is available on Newegg.
 
-💡 *Streamlined business operations enhance efficiency and competitiveness.*
+💡 *High-performance gaming PC bundle at a discounted price point*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/palit-group-says-galax-gpu-brand-will-continue-to-operate-following-restructure-galax-management-centralized-under-palit-group-in-pre-planned-shakeup)
-
----
-
-### 6. Nvidia exec says AI is more expensive than actual workers yet some companies don't see the extra costs as a negative 
-
-Companies may prioritize AI over workers due to cost, despite AI expenses being higher. This shift could lead to a more automated future for businesses. However, the long-term implications of this trend remain unclear.
-
-💡 *AI costs outweigh human labor expenses for some modern businesses.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-exec-says-ai-is-more-expensive-than-actual-workers-yet-some-companies-dont-see-the-extra-costs-as-a-negative)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-32gb-of-ram-and-2tb-ssd-for-usd406-when-paired-with-amds-new-9950x3d2-asus-rog-x870e-apex-gets-you-a-monster-overclocking-am5-bundle-for-usd2-048-usd400-off)
 
 ---
 
-### 7. Chinese GPU maker Lisuan Tech becomes only the fourth GPU maker ever to earn Microsoft WHQL certification LX 7G100 GPU joins Nvidia, AMD, and Intel as it crosses the WHQL driver finish line, first Chinese firm to earn certification 
+### 4. Chinese GPU maker Cambricon's Q1 revenue hits $423 million as country's homegrown AI chip market accelerates Chinese chipmakers continue to leech market share from Nvidia 
 
-Lisuan Tech becomes fourth GPU maker to earn Microsoft WHQL certification, joining Nvidia, AMD, and Intel. This achievement marks a significant milestone for the Chinese firm. Lisuan Tech's 6nm graphics cards have met Microsoft's rigorous quality standards.
+Chinese chipmaker Cambricon's Q1 revenue reached $423 million as it gains traction in the country's AI chip market, further eroding Nvidia's market share.
 
-💡 *Breakthrough for Chinese tech, marking international GPU market recognition.*
+💡 *Chinese AI chipmakers accelerate market dominance over Nvidia*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/in-historic-first-chinese-gpu-maker-lisuan-tech-becomes-only-the-fourth-gpu-maker-to-earn-microsoft-whql-certification-lx-7g100-gpu-joins-nvidia-amd-and-intel-as-it-crosses-the-whql-driver-finish-line-first-chinese-firm-to-earn-certification)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cambricons-q1-revenue-hits-423-million-as-chinas-domestic-ai-chip-market-accelerates)
 
 ---
 
-### 8. Nvidia quietly launches 12GB RTX 5070 Laptop GPU as Framework lists it for $1,199 
+### 5. Save $800 on this Alienware Aurora 5080 desktop 4K powerhouse with Intel Core Ultra 9 285K, 32GB of RAM, and 2TB of storage now just $2,899 
 
-Nvidia quietly launched the 12GB RTX 5070 Laptop GPU, addressing memory issues.
+Get an Alienware Aurora 5080 desktop gaming PC with powerful Intel Core Ultra 9 285K processor, 32GB RAM, and 2TB storage for $2,899.
 
-💡 *Memory crisis prompts Nvidia to release new GPU variant to meet demand.*
+💡 *Premium gaming desktop at reduced price for budget-conscious gamers.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112230-nvidia-quietly-launches-12gb-rtx-5070-laptop-gpu.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd800-on-this-alienware-aurora-5080-desktop-4k-powerhouse-with-intel-core-ultra-9-285k-32gb-of-ram-and-2tb-of-storage-now-just-usd2-899)
 
 ---
 

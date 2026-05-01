@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of April 30, 2026**
+**Week of May 01, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. M5Stack Cardputer goes off-grid with new Mesh Kit featuring LoRa, GNSS, and Meshtastic support ⭐
-
-**💻 Hardware**
-
-M5Stack's Cardputer Mesh Kit is a portable, card-sized device for off-grid messaging and GPS tracking.
-
-💡 **Key Point:** Enabling independent communication and location tracking in remote areas.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/30/m5stack-cardputer-goes-off-grid-with-new-mesh-kit-featuring-lora-gnss-and-meshtastic-support/)
-
----
-
-### 2. MiciMike s open-source drop-in PCB converts Google Home Mini into a local voice assistant (Crowdfunding) ⭐
-
-**💻 Hardware**
-
-The MiciMike Home Mini Drop-In PCB is an open-source replacement mainboard for 1st Gen Google Home Mini, converting it into a local voice assistant with Home Assistant Voice, removing cloud dependencies and offering on-device audio processing and more.
-
-💡 **Key Point:** Empowering users with local voice assistants for enhanced privacy control.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/29/micimike-open-source-drop-in-pcb-converts-google-home-mini-into-a-local-voice-assistant/)
-
----
-
-### 3. MiciMike s open-source drop-in PCB converts Google Home Mini into a local voice assistant (Crowdfunding) ⭐
-
-**📰 Tech News**
-
-The MiciMike Home Mini Drop-In PCB is an open-source replacement mainboard for 1st Gen Google Home Mini, converting it into a local voice assistant with Home Assistant Voice, removing cloud dependencies and offering on-device audio processing and more.
-
-💡 **Key Point:** Empowering users with local voice assistants for enhanced privacy control.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/29/micimike-open-source-drop-in-pcb-converts-google-home-mini-into-a-local-voice-assistant/)
-
----
-
-### 4. M5Stack Cardputer goes off-grid with new Mesh Kit featuring LoRa, GNSS, and Meshtastic support ⭐
-
-**⚡ Semiconductors**
-
-M5Stack's Cardputer Mesh Kit is a portable, card-sized device for off-grid messaging and GPS tracking.
-
-💡 **Key Point:** Enabling independent communication and location tracking in remote areas.
-
-🔗 [Read More](https://www.cnx-software.com/2026/04/30/m5stack-cardputer-goes-off-grid-with-new-mesh-kit-featuring-lora-gnss-and-meshtastic-support/)
-
----
-
-### 5. Framework's new RTX 5070 12GB graphics module costs a whopping $1,199 72% more expensive than $699 8GB version, says pricing is beyond its control 
+### 1. $4,290+ Unitree R1-A5 and R2-A7 humanoid robots features grippers or dexterous hands, fixed or wheeled base ⭐
 
 **🤖 AI & ML**
 
-Framework's new RTX 5070 12GB graphics module costs $1,199, a 72% price increase from the $699 8GB version.
+Unitree extends its R1 dual arm humanoid robot family with new R1-A5 and R1-A7 models, featuring grippers or dexterous hands and a fixed or wheeled base. These new robots can perform useful tasks with binocular vision. The R1-A7 model has longer arms and adds extra degrees of freedom.
 
-💡 **Key Point:** Pricing disparity highlights manufacturers' limited control over GPU costs.
+💡 **Key Point:** Humanoid robots gain utility with dexterous hands and mobility options.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/frameworks-new-rtx-5070-12gb-graphics-module-costs-a-whopping-usd1-199-72-percent-more-expensive-than-usd699-8gb-version-says-pricing-is-beyond-its-control)
+🔗 [Read More](https://www.cnx-software.com/2026/05/01/4290-unitree-r1-a5-and-r2-a7-humanoid-robots-features-gripper-or-dexterous-hands-fixed-or-wheeled-base/)
+
+---
+
+### 2. $4,290+ Unitree R1-A5 and R2-A7 humanoid robots features grippers or dexterous hands, fixed or wheeled base ⭐
+
+**📰 Tech News**
+
+Unitree extends its R1 dual arm humanoid robot family with new R1-A5 and R1-A7 models, featuring grippers or dexterous hands and a fixed or wheeled base. These new robots can perform useful tasks with binocular vision. The R1-A7 model has longer arms and adds extra degrees of freedom.
+
+💡 **Key Point:** Humanoid robots gain utility with dexterous hands and mobility options.
+
+🔗 [Read More](https://www.cnx-software.com/2026/05/01/4290-unitree-r1-a5-and-r2-a7-humanoid-robots-features-gripper-or-dexterous-hands-fixed-or-wheeled-base/)
+
+---
+
+### 3. Early tests show minimal performance impact from new budget HUDIMM DDR5 memory ⭐
+
+**🎮 GPUs**
+
+Early tests show minimal performance impact from new HUDIMM DDR5 memory, suitable for gaming-focused systems.
+
+💡 **Key Point:** HUDIMM DDR5 maintains performance parity with dual UDIMM DDR5 setups.
+
+🔗 [Read More](https://www.techspot.com/news/112241-early-tests-show-minimal-performance-impact-new-budget.html)
+
+---
+
+### 4. ESP-FLY DIY Kit is a tiny ESP32-S3-based DIY micro drone kit 
+
+**🤖 AI & ML**
+
+The ESP-FLY DIY kit is a miniature ESP32-S3-based drone kit ideal for STEM education and hobbyist projects. It features a compact quadcopter design, Wi-Fi 4, and Bluetooth 5.0 connectivity. The kit is available for $59.99 on Seeed Studio.
+
+💡 **Key Point:** Smallest ESP32 drone kit for STEM education and hobbyist projects emerges.
+
+🔗 [Read More](https://www.cnx-software.com/2026/05/01/esp-fly-diy-kit-tiny-esp32-s3-based-diy-micro-drone-kit/)
+
+---
+
+### 5. Ubuntu is adding AI features, and it's on a collision course with its own user base 
+
+**🤖 AI & ML**
+
+Ubuntu is integrating AI features for accessibility and other tasks, potentially disrupting its user base.
+
+💡 **Key Point:** Canonical's AI integration may alienate core users who value simplicity and openness.
+
+🔗 [Read More](https://www.techspot.com/news/112257-ubuntu-adding-ai-features-collision-course-own-user.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **55 articles** across **5 focused categories**.
+We covered **47 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 19 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 8 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 25 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 8 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 19 articles
+*Artificial Intelligence and Machine Learning* — 25 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 8 articles
+*Graphics cards and compute accelerators* — 5 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 13 articles
+*Computing hardware and development boards* — 8 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 7 articles
+*Chip manufacturing and design* — 3 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 8 articles
+*Industry news and product launches* — 6 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-04-30 at 10:30 by an autonomous AI curation system.
+Generated 2026-05-01 at 10:12 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

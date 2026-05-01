@@ -1,250 +1,4 @@
 {
-  "https://www.tomshardware.com/tech-industry/cyber-security/google-research-suggests-encryption-technique-used-by-bitcoin-will-be-cracked-by-quantum-computers-around-2029-search-giant-says-quantum-attacks-need-to-be-prepared-for-now": {
-    "title": "Google research suggests encryption technique used by Bitcoin will be cracked by quantum computers around 2029 search giant says quantum attacks need to be prepared for now",
-    "fingerprint": "aa4db22154ab04d353493b17e2d9e76f",
-    "timestamp": 1775036988.430605,
-    "date": "2026-04-01T09:49:48.430608"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/we-go-hands-on-with-nvidias-dlss-4-5-dynamic-multi-frame-generation-and-its-5x-and-6x-multipliers-more-generated-frames-now-tailor-made-for-your-monitors-refresh-rate": {
-    "title": "We go hands-on with Nvidia's DLSS 4.5 Dynamic Multi Frame Generation and its 5X and 6X multipliers more generated frames, now tailor-made for your monitor's refresh rate",
-    "fingerprint": "42075e31378dafa396d74d23ae2e4096",
-    "timestamp": 1775036988.430742,
-    "date": "2026-04-01T09:49:48.430743"
-  },
-  "https://www.tomshardware.com/tech-industry/nvidia-invests-2-billion-in-marvell-to-deepen-nvlink-fusion-partnership": {
-    "title": "Nvidia invests $2 billion in Marvell to deepen NVLink Fusion partnership signs deal with one of its biggest competitors",
-    "fingerprint": "85549048d526ad37222688bb3d8595fe",
-    "timestamp": 1775036988.430861,
-    "date": "2026-04-01T09:49:48.430861"
-  },
-  "https://www.tomshardware.com/tech-industry/iran-issues-direct-strike-threat-to-nvidia-microsoft-apple-google-14-other-us-tech-companies-these-companies-should-expect-destruction-of-their-facilities-in-response-to-each-act-of-terror-in-iran": {
-    "title": "Iran issues direct strike threat to Nvidia, Microsoft, Apple, Google, 14 other US tech companies 'These companies should expect destruction of their facilities in response to each act of terror in Iran'",
-    "fingerprint": "d9add57927bd8302225ee21d95353115",
-    "timestamp": 1775036988.430996,
-    "date": "2026-04-01T09:49:48.430997"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-4-5-dynamic-mfg-plus-5x-and-6x-framegen-modes-enter-beta-for-rtx-50-series-users-update-offers-greater-control-over-generated-frame-rates-and-more-headroom-for-high-refresh-rate-displays": {
-    "title": "Nvidia DLSS 4.5 Dynamic MFG plus 5X and 6X framegen modes enter beta for RTX 50-series users update offers greater control over generated frame rates and more headroom for high-refresh-rate displays",
-    "fingerprint": "0dc3dd6ccc2fdee5e48388c27d15ccd1",
-    "timestamp": 1775036988.431116,
-    "date": "2026-04-01T09:49:48.431117"
-  },
-  "https://www.tomshardware.com/pc-components/cooling/analyzing-noctuas-roadmap-new-psus-fan-equipped-mice-the-elusive-thermosiphon-and-disappearing-prototypes": {
-    "title": "Analyzing Noctua's roadmap new PSUs, fan-equipped mice, the elusive Thermosiphon, and disappearing prototypes",
-    "fingerprint": "5b11f0bb0cd02746dc0cfebca57c77f6",
-    "timestamp": 1775036988.431223,
-    "date": "2026-04-01T09:49:48.431223"
-  },
-  "https://www.tomshardware.com/tech-industry/fujitsu-plans-dedicated-1-4nm-ai-chip-manufactured-entirely-in-japan-by-rapidus": {
-    "title": "Fujitsu plans dedicated 1.4nm AI chip manufactured entirely in Japan by Rapidus AI chip to be designed and manufactured domestically",
-    "fingerprint": "b138c54348ff953e4de7ee0d9da6ec3f",
-    "timestamp": 1775036988.431341,
-    "date": "2026-04-01T09:49:48.431341"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/geekbench-investigates-up-to-30-percent-jump-with-intels-ibot-performance-gain-attributed-to-newly-vectorized-instructions": {
-    "title": "Geekbench investigates up to 30% jump with Intel's iBOT performance gain attributed to newly-vectorized instructions",
-    "fingerprint": "365a6ec31cb649a66cce8afea5aaf372",
-    "timestamp": 1775036988.431444,
-    "date": "2026-04-01T09:49:48.431445"
-  },
-  "https://www.tomshardware.com/pc-components/liquid-cooling/tryx-stage-360-aio-review": {
-    "title": "Tryx Stage 360 AIO Review: Luxurious, unique, and quiet",
-    "fingerprint": "aa034bb4ae1012c413f626c5cfcf845a",
-    "timestamp": 1775036988.431546,
-    "date": "2026-04-01T09:49:48.431547"
-  },
-  "https://www.tomshardware.com/pc-components/ssds/kioxia-discontinues-2d-nand-products-last-shipments-to-be-made-in-2028-1980s-planar-nand-memory-reaches-end-of-life": {
-    "title": "Kioxia discontinues 2D NAND products, last shipments to be made in 2028 1980s planar NAND memory reaches end of life",
-    "fingerprint": "b913a53dbd250654979bd77591644eb9",
-    "timestamp": 1775036988.431645,
-    "date": "2026-04-01T09:49:48.431646"
-  },
-  "https://www.tomshardware.com/tech-industry/semiconductors/the-global-helium-shortage-is-a-direct-threat-to-chipmaking": {
-    "title": "The global helium storage is a direct threat to the chipmaking supply chain disruption impacts critical processes, high-capacity HDDs, and alternative supplies are plagued by delays",
-    "fingerprint": "18194287fddfc945d0e0473964eb25b3",
-    "timestamp": 1775036988.431756,
-    "date": "2026-04-01T09:49:48.431757"
-  },
-  "https://www.tomshardware.com/peripherals/webcams/yololiv-yolocam-s3-review": {
-    "title": "YoloLiv YoloCam S3 Review: A 4K powerhouse",
-    "fingerprint": "475336874a177dba544234e60a174f93",
-    "timestamp": 1775036988.431862,
-    "date": "2026-04-01T09:49:48.431863"
-  },
-  "https://www.tomshardware.com/service-providers/network-providers/starlink-satellite-34343-disappears-in-fragment-creation-event-observation-immediately-detected-tens-of-objects-in-the-vicinity-of-the-satellite-after-the-event": {
-    "title": "Starlink satellite 34343 disappears in fragment creation event observation 'immediately detected tens of objects in the vicinity of the satellite after the event'",
-    "fingerprint": "a6f2ef1339e5916d1992ca4f84738e14",
-    "timestamp": 1775036988.431984,
-    "date": "2026-04-01T09:49:48.431984"
-  },
-  "https://www.tomshardware.com/tech-industry/cyber-security/axios-npm-package-compromised-in-supply-chain-attack-that-deployed-a-cross-platform-rat": {
-    "title": "One of JavaScript's most popular libraries compromised by hackers Axios npm package hit in supply chain attack that deployed a cross-platform RAT",
-    "fingerprint": "0cf24b811b96b05d52283cb88074b6a3",
-    "timestamp": 1775036988.432093,
-    "date": "2026-04-01T09:49:48.432093"
-  },
-  "https://www.tomshardware.com/pc-components/save-a-huge-usd100-on-this-vivid-27-inch-msi-oled-monitor-with-fast-240hz-refresh-rate-now-usd399-99-this-mag-qd-oled-model-is-close-to-its-lowest-price-ever-on-newegg": {
-    "title": "Save a huge $100 on this vivid 27-inch MSI OLED monitor with fast 240Hz refresh rate now $399.99, this MAG QD-OLED model is close to its lowest price ever on Newegg",
-    "fingerprint": "3a6212b783e97a23d0cd3251bc1eb9dc",
-    "timestamp": 1775036988.432205,
-    "date": "2026-04-01T09:49:48.432205"
-  },
-  "https://www.tomshardware.com/tech-industry/us-pc-sales-grow-by-3-percent-in-late-2025-as-companies-and-consumers-scrambled-to-replace-windows-10-2026-forecast-sees-13-percent-drop-as-storage-and-memory-prices-expected-to-climb-another-60-percent": {
-    "title": "US PC sales grow by 3% in late 2025 as companies and consumers scrambled to replace Windows 10 2026 forecast sees 13% drop as storage and memory prices expected to climb another 60%",
-    "fingerprint": "12cfd5f6ce7300d6600123836d3e2d6d",
-    "timestamp": 1775036988.432322,
-    "date": "2026-04-01T09:49:48.432323"
-  },
-  "https://www.tomshardware.com/pc-components/external-hdds/at-just-usd17-68-per-terabyte-this-22tb-external-seagate-expansion-hdd-is-one-of-the-cheapest-hard-drives-on-the-market-backup-copious-amounts-of-data-for-usd389": {
-    "title": "At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market backup copious amounts of data for $389",
-    "fingerprint": "b71b3e6fb69a69c3e8601db21e0d88b8",
-    "timestamp": 1775036988.432435,
-    "date": "2026-04-01T09:49:48.432435"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/modder-gets-intels-oem-only-bartlett-lake-cpu-to-post-on-a-regular-asus-z790-motherboard-bios-was-edited-by-claude-ai-to-make-core-ultra-9-273qpe-boot": {
-    "title": "Modder gets Intel's OEM-only 'Bartlett Lake' CPU to post on a regular Asus Z790 motherboard BIOS was edited by Claude AI to make Core Ultra 9 273QPE boot",
-    "fingerprint": "03abe0542b888d2faeb434314319d89f",
-    "timestamp": 1775036988.432554,
-    "date": "2026-04-01T09:49:48.432555"
-  },
-  "https://www.tomshardware.com/video-games/retro-gaming/diy-nes-sy2-0-synthesizer-doubles-as-a-game-console-luggable-polyphonic-synth-plays-chip-tunes-and-nes-cartridges-too": {
-    "title": "NES-inspired synthesizer doubles as a working game console luggable polyphonic synth plays chip tunes and NES cartridges, too",
-    "fingerprint": "97e60c6c14845fdd91eb72ef145e88ff",
-    "timestamp": 1775036988.432655,
-    "date": "2026-04-01T09:49:48.432656"
-  },
-  "https://www.tomshardware.com/pc-components/storage/this-usd28-floppy-disk-ssd-enclosure-is-a-fun-and-fast-way-to-keep-your-storage-safe-both-practical-and-nostalgic-this-rugged-usb-c-aluminum-enclosure-for-m-2-drives-supports-speeds-of-up-to-1-200-mb-s": {
-    "title": "This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s",
-    "fingerprint": "d012758a99bb8bc4f2dd8f4610d34370",
-    "timestamp": 1775036988.432776,
-    "date": "2026-04-01T09:49:48.432776"
-  },
-  "https://www.tomshardware.com/tech-industry/cryptomining/iran-conflict-forces-bitcoin-mining-operators-to-pivot-to-ai-infrastructure-btc-network-sees-the-first-quarterly-hashrate-drop-since-2020": {
-    "title": "Bitcoin network has its first quarterly hashrate drop since 2020 Iran conflict spurs Bitcoin mining operators to accelerate pivot to AI infrastructure",
-    "fingerprint": "debc96cc7328cd300deefb0508247b4e",
-    "timestamp": 1775036988.432881,
-    "date": "2026-04-01T09:49:48.432881"
-  },
-  "https://www.cnx-software.com/2026/04/01/telink-tl3228-low-power-low-latency-dual-core-risc-v-wireless-mcu-supports-bluetooth-6-0-802-15-4-and-2-4-ghz-proprietary/": {
-    "title": "Telink TL3228 Low-power, low-latency dual-core RISC-V wireless MCU supports Bluetooth 6.0, 802.15.4, and 2.4 GHz proprietary",
-    "fingerprint": "fd504c3b038d6bbea7d0863ed30a0e98",
-    "timestamp": 1775036988.433335,
-    "date": "2026-04-01T09:49:48.433336"
-  },
-  "https://www.cnx-software.com/2026/03/31/toradex-osm-and-lino-soms-30x30mm-nxp-i-mx-93-i-mx-91-modules-with-solder-down-or-b2b-connector-designs/": {
-    "title": "Toradex OSM and Lino SoMs 30 30mm NXP i.MX 93/i.MX 91 modules with solder-down or B2B connector designs",
-    "fingerprint": "8d86c7a1b7ea9af895f4656d540bf2bb",
-    "timestamp": 1775036988.433508,
-    "date": "2026-04-01T09:49:48.433508"
-  },
-  "https://www.fiercesensors.com/sensors/sensors-orion-will-monitor-solar-radiation-keep-crew-safe": {
-    "title": "Sensors on Orion will monitor solar radiation to keep crew safe",
-    "fingerprint": "b2d623bac4ad4ae7473393d04047b5ff",
-    "timestamp": 1775036988.43446,
-    "date": "2026-04-01T09:49:48.434461"
-  },
-  "https://www.techspot.com/news/111906-amd-buy-intel-completing-strangest-reversal-chip-history.html": {
-    "title": "AMD says it will buy Intel, completing the strangest reversal in chip history",
-    "fingerprint": "517bfec544d1c927c94f8fd75bdd42e9",
-    "timestamp": 1775036988.434745,
-    "date": "2026-04-01T09:49:48.434746"
-  },
-  "https://www.techspot.com/news/111895-windows-command-prompt-getting-faster-smarter-lot-more.html": {
-    "title": "The Windows Command Prompt is getting faster, smarter, and a lot more modern",
-    "fingerprint": "5ffe84a5741bf838da9abc3f891b610a",
-    "timestamp": 1775036988.434854,
-    "date": "2026-04-01T09:49:48.434854"
-  },
-  "https://www.techspot.com/news/111899-disney-gaming-push-could-one-day-include-buying.html": {
-    "title": "Disney's gaming push could one day include buying Epic Games",
-    "fingerprint": "5e30315f756211293c7b86d85bb5974d",
-    "timestamp": 1775036988.434993,
-    "date": "2026-04-01T09:49:48.434994"
-  },
-  "https://www.techspot.com/news/111887-rtx-60-series-leaks-everywhere-but-nvidia-hasnt.html": {
-    "title": "RTX 60 series leaks are everywhere, but Nvidia hasn't finalized the GPUs yet",
-    "fingerprint": "c4936935fc13b9986fac174e79b32609",
-    "timestamp": 1775036988.435154,
-    "date": "2026-04-01T09:49:48.435155"
-  },
-  "https://www.techspot.com/downloads/7608-nvidia-app.html": {
-    "title": "Nvidia App beta enables DLSS 4.5 with dynamic frame-gen, automatic shader compilation",
-    "fingerprint": "0b135bde29be38323fc17853f84393d1",
-    "timestamp": 1775036988.435287,
-    "date": "2026-04-01T09:49:48.435288"
-  },
-  "https://www.techspot.com/news/111884-microsoft-halts-windows-11-update-after-users-report.html": {
-    "title": "Microsoft halts Windows 11 update after users report installation errors",
-    "fingerprint": "9e1914f563e02bd9389456696e1ab0de",
-    "timestamp": 1775036988.4354,
-    "date": "2026-04-01T09:49:48.435401"
-  },
-  "https://www.techspot.com/news/111896-amazon-leo-satellites-power-flight-wi-fi-500.html": {
-    "title": "Delta is bringing free Wi-Fi to flights using Amazon's satellites",
-    "fingerprint": "b01cf2826b90795a28b0db251fcbfe1a",
-    "timestamp": 1775036988.435512,
-    "date": "2026-04-01T09:49:48.435512"
-  },
-  "https://www.techspot.com/news/111892-github-disables-copilot-pr-edits-after-ai-quietly.html": {
-    "title": "GitHub pulls Copilot \"feature\" after it added advertising to more than 11,000 pull requests",
-    "fingerprint": "a4baf4d476e76ed32384bea36b9a1f28",
-    "timestamp": 1775036988.435617,
-    "date": "2026-04-01T09:49:48.435617"
-  },
-  "https://www.techspot.com/downloads/7471-pdfsam.html": {
-    "title": "PDFsam 6.0 adds compression tools and PDF 2.0 support",
-    "fingerprint": "ad1ea8eab05d14cfa9ddbd2296ce3589",
-    "timestamp": 1775036988.435721,
-    "date": "2026-04-01T09:49:48.435721"
-  },
-  "https://www.techspot.com/news/111891-massive-25b-smuggling-case-exposes-loopholes-us-ai.html": {
-    "title": "A Supermicro co-founder is accused of smuggling $2.5B in AI servers to China",
-    "fingerprint": "cee0be5b6a1ff85339e8d48d1a510832",
-    "timestamp": 1775036988.435835,
-    "date": "2026-04-01T09:49:48.435835"
-  },
-  "https://www.techspot.com/news/111894-instagram-testing-new-paid-tier-allows-users-watch.html": {
-    "title": "Instagram is testing a new paid tier that allows users to watch Stories anonymously",
-    "fingerprint": "182319fabad8b414d1adb653edb6ecde",
-    "timestamp": 1775036988.435961,
-    "date": "2026-04-01T09:49:48.435962"
-  },
-  "https://www.techspot.com/news/111888-students-china-renting-ai-glasses-cheat-exams-surprisingly.html": {
-    "title": "Students in China are renting smart glasses to cheat on exams",
-    "fingerprint": "8460f6035cd660ee23c679cb258c2deb",
-    "timestamp": 1775036988.436077,
-    "date": "2026-04-01T09:49:48.436077"
-  },
-  "https://www.techspot.com/news/111890-samsung-new-galaxy-tab-s11-ultra-pro-keyboard.html": {
-    "title": "Samsung wants $400 for a tablet keyboard, even more than Apple",
-    "fingerprint": "2c19eccbb88a7ecb54fd8dd44b8fea83",
-    "timestamp": 1775036988.436187,
-    "date": "2026-04-01T09:49:48.436187"
-  },
-  "https://www.techspot.com/news/111889-new-rcs-standard-could-enable-cross-platform-video.html": {
-    "title": "New RCS standard could enable cross-platform video calls, if Apple and Google play along",
-    "fingerprint": "01b178514ab420b3603b276160c5eef1",
-    "timestamp": 1775036988.436297,
-    "date": "2026-04-01T09:49:48.436298"
-  },
-  "https://www.techspot.com/news/111881-apple-m5-max-macbooks-getting-surprisingly-close-real.html": {
-    "title": "Apple M5 Max MacBooks are getting surprisingly close to real gaming PCs",
-    "fingerprint": "41b31f37d7bcac9aecab52e9fab0c7b1",
-    "timestamp": 1775036988.436414,
-    "date": "2026-04-01T09:49:48.436414"
-  },
-  "https://www.techspot.com/news/111893-americans-using-ai-more-but-fear-job-losses.html": {
-    "title": "Americans are using AI more, but fear of job losses is growing",
-    "fingerprint": "7712e28b5cca937616ea807637d3ceec",
-    "timestamp": 1775036988.436516,
-    "date": "2026-04-01T09:49:48.436517"
-  },
-  "https://www.techspot.com/news/111880-tech-neck-becoming-new-concern-phone-use-reshapes.html": {
-    "title": "\"Tech neck\" is becoming a new concern as phone use reshapes how we age",
-    "fingerprint": "6ff1dcf2c3d333119e06f6d58c92616e",
-    "timestamp": 1775036988.436621,
-    "date": "2026-04-01T09:49:48.436622"
-  },
   "https://www.tomshardware.com/tech-industry/nvidia-market-share-in-china-falls-to-less-than-60-percent-chinese-chip-makers-deliver-1-65-million-ai-gpus-as-the-government-pushes-data-centers-to-use-domestic-chips": {
     "title": "Nvidia market share in China falls to less than 60% Chinese chip makers deliver 1.65 million AI GPUs as the government pushes data centers to use domestic chips",
     "fingerprint": "2dbb9d70f79f8f5d3938ef8e24c0c3a8",
@@ -5230,5 +4984,203 @@
     "fingerprint": "299538b686c8e56c5f95398b775b1e77",
     "timestamp": 1777544932.209014,
     "date": "2026-04-30T10:28:52.209015"
+  },
+  "https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative": {
+    "title": "Pentagon budget documents reveal it's pursuing containerized 300kW+ laser weapons, ambitious Joint Laser Weapon System designed to shoot down cruise missiles system part of $17.9 billion Golden Dome missile-defense initiative",
+    "fingerprint": "a8cb529d7722f0d5c7239d23373151ae",
+    "timestamp": 1777630257.62007,
+    "date": "2026-05-01T10:10:57.620073"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/talent-over-tokens-ai-models-are-becoming-more-expensive-to-run-and-productivity-gains-are-limited-efficient-workers-might-be-the-solution-to-strained-budgets": {
+    "title": "Talent over tokens: AI models are becoming more expensive to run, and productivity gains are limited efficient workers might be the solution to strained budgets",
+    "fingerprint": "421f2b462478116acbb802ab9e511edc",
+    "timestamp": 1777630257.620211,
+    "date": "2026-05-01T10:10:57.620212"
+  },
+  "https://www.tomshardware.com/pc-components/ssds/pirate-rpg-game-is-secretly-looting-your-ssd-lifespan-new-windrose-patch-promises-smoother-sailing-and-addresses-excessive-disk-writing": {
+    "title": "Pirate RPG game is secretly looting your SSD lifespan new Windrose patch promises smoother sailing and addresses excessive disk writing",
+    "fingerprint": "9afaa99290e216cce32b8d49c913fe8b",
+    "timestamp": 1777630257.620322,
+    "date": "2026-05-01T10:10:57.620323"
+  },
+  "https://www.tomshardware.com/networking/crucial-taiwan-undersea-cable-severed-by-old-shipwreck-backup-microwave-communications-activated-to-keep-population-connected": {
+    "title": "Crucial Taiwan undersea cable severed by old shipwreck backup microwave communications activated to keep population connected",
+    "fingerprint": "653a74ae2e19bb81c4221e4bbbd6877f",
+    "timestamp": 1777630257.620445,
+    "date": "2026-05-01T10:10:57.620446"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-and-sk-hynix-warn-ai-driven-memory-shortages-could-last-until-2027-and-beyond-as-hbm-demand-explodes-customers-already-reserving-supply-years-ahead-while-the-wider-dram-market-begins-to-tighten": {
+    "title": "Samsung and SK hynix warn AI-driven memory shortages could last until 2027 and beyond, as HBM demand explodes customers already reserving supply years ahead, while the wider DRAM market begins to tighten",
+    "fingerprint": "51454fff6e9a5d4d0d2c4f08d989a90a",
+    "timestamp": 1777630257.620563,
+    "date": "2026-05-01T10:10:57.620563"
+  },
+  "https://www.tomshardware.com/pc-components/newegg-finally-has-a-worthwhile-intel-combo-that-includes-memory-saving-almost-usd240-snag-an-intel-core-ultra-7-270k-plus-asrock-z890-motherboard-and-32gb-of-gskill-trident-z5-ddr5-ram-for-only-usd768-34": {
+    "title": "Newegg finally has a worthwhile Intel combo that includes memory, saving almost $240 snag an Intel Core Ultra 7 270K Plus, ASRock Z890 motherboard, and 32GB of GSkill Trident Z5 DDR5 RAM for only $768.34",
+    "fingerprint": "647e326f9b616042736425be68aefe72",
+    "timestamp": 1777630257.620672,
+    "date": "2026-05-01T10:10:57.620673"
+  },
+  "https://www.tomshardware.com/video-games/playstation/sony-confirms-ps4-and-ps5-digital-games-dont-require-an-online-check-in-every-30-days-new-drm-policy-only-checks-once-for-license-to-combat-against-refund-scams": {
+    "title": "Sony confirms PS4 and PS5 digital games don't require an online check-in every 30 days new DRM policy only checks once for license to combat against refund scams",
+    "fingerprint": "b711a30d76ca377ef51db450edf523a8",
+    "timestamp": 1777630257.620791,
+    "date": "2026-05-01T10:10:57.620791"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spending-plans-reach-725-billion": {
+    "title": "Google, Microsoft, Meta, and Amazon capex spending to hit $725 billion in 2026, up 77% from last year analyst says bear thesis is 'garbage'",
+    "fingerprint": "4bb77ac423423186dda9fdc4d7a4f337",
+    "timestamp": 1777630257.6209,
+    "date": "2026-05-01T10:10:57.620901"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/victim-of-ai-agent-that-deleted-companys-entire-database-gets-their-data-back-cloud-provider-recovers-critical-files-and-broadens-its-48-hour-delayed-delete-policy": {
+    "title": "Victim of AI agent that deleted company's entire database gets their data back cloud provider recovers critical files and broadens its 48-hour delayed delete policy",
+    "fingerprint": "37a009e8d41b9424d461a3a50709e729",
+    "timestamp": 1777630257.621015,
+    "date": "2026-05-01T10:10:57.621015"
+  },
+  "https://www.tomshardware.com/tech-industry/cryptocurrency/tennessee-bans-crypto-atms-that-have-become-payment-portal-of-choice-for-scammers-second-state-to-restrict-machines-after-indiana": {
+    "title": "Tennessee bans crypto ATMs that have become 'payment portal of choice for scammers' second state to restrict machines after Indiana",
+    "fingerprint": "63f433cdf97f08d188a1d6d52576c3ea",
+    "timestamp": 1777630257.621135,
+    "date": "2026-05-01T10:10:57.621136"
+  },
+  "https://www.tomshardware.com/virtual-reality/apple-has-given-up-on-vision-pro-report-claims-costly-price-and-weight-behind-purported-failure-but-the-company-continues-to-hire-into-its-vision-production-group": {
+    "title": "Apple 'has given up' on Vision Pro, report claims costly price and weight behind purported failure, but the company continues to hire into its Vision Production Group",
+    "fingerprint": "7a32dbf5033d0eac1222bb7d362e7bdc",
+    "timestamp": 1777630257.621244,
+    "date": "2026-05-01T10:10:57.621244"
+  },
+  "https://www.tomshardware.com/pc-components/get-32gb-of-ram-and-2tb-ssd-for-usd406-when-paired-with-amds-new-9950x3d2-asus-rog-x870e-apex-gets-you-a-monster-overclocking-am5-bundle-for-usd2-048-usd400-off": {
+    "title": "Get 32GB of RAM and 2TB SSD for $406 when paired with AMD's new 9950X3D2 Asus ROG X870E Apex gets you a monster overclocking AM5 bundle for $2,048, $400 off",
+    "fingerprint": "43fe4a5213ab88d4fe1aad3001cc95e9",
+    "timestamp": 1777630257.62136,
+    "date": "2026-05-01T10:10:57.621361"
+  },
+  "https://www.tomshardware.com/peripherals/controllers-gamepads/homebrew-playstation-dualsense-controller-adapter-for-pc-can-be-built-for-just-usd20-with-a-raspberry-pi-pico-wireless-dongle-delivers-adaptive-triggers-and-haptic-feedback-to-gamers": {
+    "title": "Homebrew PlayStation DualSense controller adapter for PC can be built for just $20 with a Raspberry Pi Pico wireless dongle delivers adaptive triggers and haptic feedback to gamers",
+    "fingerprint": "4d951057d12c135780cd5214cd80e8fd",
+    "timestamp": 1777630257.621477,
+    "date": "2026-05-01T10:10:57.621478"
+  },
+  "https://www.tomshardware.com/desktops/gaming-pcs/save-usd800-on-this-alienware-aurora-5080-desktop-4k-powerhouse-with-intel-core-ultra-9-285k-32gb-of-ram-and-2tb-of-storage-now-just-usd2-899": {
+    "title": "Save $800 on this Alienware Aurora 5080 desktop 4K powerhouse with Intel Core Ultra 9 285K, 32GB of RAM, and 2TB of storage now just $2,899",
+    "fingerprint": "82cf2e88c4b331e261a589e9c20f9501",
+    "timestamp": 1777630257.621577,
+    "date": "2026-05-01T10:10:57.621578"
+  },
+  "https://www.tomshardware.com/tech-industry/cambricons-q1-revenue-hits-423-million-as-chinas-domestic-ai-chip-market-accelerates": {
+    "title": "Chinese GPU maker Cambricon's Q1 revenue hits $423 million as country's homegrown AI chip market accelerates Chinese chipmakers continue to leech market share from Nvidia",
+    "fingerprint": "bd017d15e2662d5459492ed56354d00b",
+    "timestamp": 1777630257.621684,
+    "date": "2026-05-01T10:10:57.621685"
+  },
+  "https://www.cnx-software.com/2026/05/01/esp-fly-diy-kit-tiny-esp32-s3-based-diy-micro-drone-kit/": {
+    "title": "ESP-FLY DIY Kit is a tiny ESP32-S3-based DIY micro drone kit",
+    "fingerprint": "265ce7641a43a4761d283587cde20485",
+    "timestamp": 1777630257.622249,
+    "date": "2026-05-01T10:10:57.622250"
+  },
+  "https://www.cnx-software.com/2026/05/01/4290-unitree-r1-a5-and-r2-a7-humanoid-robots-features-gripper-or-dexterous-hands-fixed-or-wheeled-base/": {
+    "title": "$4,290+ Unitree R1-A5 and R2-A7 humanoid robots features grippers or dexterous hands, fixed or wheeled base",
+    "fingerprint": "b76a673fd6b37c864dccc7fca8b859fb",
+    "timestamp": 1777630257.622424,
+    "date": "2026-05-01T10:10:57.622425"
+  },
+  "https://www.cnx-software.com/2026/04/30/nvidia-phases-out-several-jetson-modules-due-to-high-lpddr4-ram-prices-and-tight-supplies/": {
+    "title": "NVIDIA phases out several Jetson modules due to high LPDDR4 RAM prices and tight supplies",
+    "fingerprint": "5aaf177e9641d40f1bffd0f19d39e349",
+    "timestamp": 1777630257.622598,
+    "date": "2026-05-01T10:10:57.622599"
+  },
+  "https://www.techspot.com/news/112257-ubuntu-adding-ai-features-collision-course-own-user.html": {
+    "title": "Ubuntu is adding AI features, and it's on a collision course with its own user base",
+    "fingerprint": "bceb72c890a05db09a40fd34ed8e9f7e",
+    "timestamp": 1777630257.623892,
+    "date": "2026-05-01T10:10:57.623894"
+  },
+  "https://www.techspot.com/news/112259-meta-contractor-fires-1100-ai-trainers-after-they.html": {
+    "title": "Meta contractor fires 1,100 AI trainers after they revealed Ray-Ban glasses recorded private and intimate footage",
+    "fingerprint": "b31011c4df0c56396aaeb0c0fc4559b3",
+    "timestamp": 1777630257.624098,
+    "date": "2026-05-01T10:10:57.624099"
+  },
+  "https://www.techspot.com/news/112250-security-researcher-turned-ps5-linux-pc-can-run.html": {
+    "title": "Security researcher just turned the PS5 into a Linux PC, and it can run GTA V at 60fps",
+    "fingerprint": "a84e3c424efd5135ca437ed427b87f6f",
+    "timestamp": 1777630257.624248,
+    "date": "2026-05-01T10:10:57.624249"
+  },
+  "https://www.techspot.com/news/112256-microsoft-releases-earliest-dos-source-code-ever-discovered.html": {
+    "title": "Microsoft releases the earliest DOS source code ever discovered as open source",
+    "fingerprint": "b0d4d4f5f01a8b931c5522118956d243",
+    "timestamp": 1777630257.624369,
+    "date": "2026-05-01T10:10:57.624370"
+  },
+  "https://www.techspot.com/news/112248-eu-considering-new-rules-cloud-ai-under-digital.html": {
+    "title": "EU is considering new rules for cloud and AI under the Digital Markets Act",
+    "fingerprint": "00af46a45da389d5b3e10645c0c8c70c",
+    "timestamp": 1777630257.624488,
+    "date": "2026-05-01T10:10:57.624489"
+  },
+  "https://www.techspot.com/news/112241-early-tests-show-minimal-performance-impact-new-budget.html": {
+    "title": "Early tests show minimal performance impact from new budget HUDIMM DDR5 memory",
+    "fingerprint": "a0b65311888c2565b52c390ca6c0326c",
+    "timestamp": 1777630257.624603,
+    "date": "2026-05-01T10:10:57.624603"
+  },
+  "https://www.techspot.com/news/112255-solar-powered-cars-impractical-scale-but-tiny-build.html": {
+    "title": "Solar-powered cars are impractical at scale but this tiny build finds a sweet spot",
+    "fingerprint": "a166b0368f159423241974faaba07a61",
+    "timestamp": 1777630257.62472,
+    "date": "2026-05-01T10:10:57.624721"
+  },
+  "https://www.techspot.com/news/112254-upcoming-google-photos-feature-uses-ai-scan-pictures.html": {
+    "title": "Google Photos feature uses AI to scan your pictures and help pick your clothes",
+    "fingerprint": "eb304969bfd73637d2f7fc1d88326a90",
+    "timestamp": 1777630257.624826,
+    "date": "2026-05-01T10:10:57.624827"
+  },
+  "https://www.techspot.com/news/112253-youtube-has-quietly-become-backbone-us-classrooms.html": {
+    "title": "YouTube has quietly become the backbone of US classrooms",
+    "fingerprint": "8a57ceceb43fb1f87d5927f6120f96b4",
+    "timestamp": 1777630257.624936,
+    "date": "2026-05-01T10:10:57.624937"
+  },
+  "https://www.techspot.com/news/112252-gta-vi-price-fair-reasonable-take-two-ceo.html": {
+    "title": "Take-Two CEO says GTA 6 price will be \"very reasonable\" amid $100+ speculation",
+    "fingerprint": "6fc8fed65d821542d0fbb7a1f40a4854",
+    "timestamp": 1777630257.625078,
+    "date": "2026-05-01T10:10:57.625079"
+  },
+  "https://www.techspot.com/news/112251-ai-data-centers-delaying-texas-housing-projects-hiring.html": {
+    "title": "AI data centers are delaying Texas housing projects by hiring away electricians",
+    "fingerprint": "1d54703020794a60cf15254b95ba159b",
+    "timestamp": 1777630257.625187,
+    "date": "2026-05-01T10:10:57.625187"
+  },
+  "https://www.techspot.com/news/112246-alphabet-rides-ai-surge-revenue-profit-crush-expectations.html": {
+    "title": "Google's AI bet is paying off: Alphabet posts $94.7 billion Q1 revenue, AI demand outpaces supply",
+    "fingerprint": "2cef8498980ca70a9bb90ec0b3100cdf",
+    "timestamp": 1777630257.6253,
+    "date": "2026-05-01T10:10:57.625301"
+  },
+  "https://www.techspot.com/news/112249-meta-ai-bill-keeps-growing-spending-forecast-jumps.html": {
+    "title": "Meta's AI bill keeps growing as spending forecast jumps to $145 billion",
+    "fingerprint": "907ab58fdf1a6c6993f70cd8008e39a0",
+    "timestamp": 1777630257.6254,
+    "date": "2026-05-01T10:10:57.625401"
+  },
+  "https://www.techspot.com/news/112244-apple-giving-up-vision-pro-after-weak-sales.html": {
+    "title": "Apple is giving up on the Vision Pro after weak sales and high return rates",
+    "fingerprint": "6cff3fb91758004971bb0563d832a55c",
+    "timestamp": 1777630257.625514,
+    "date": "2026-05-01T10:10:57.625515"
+  },
+  "https://www.techspot.com/news/112247-xbox-revenue-falls-again-hardware-sales-suffer-another.html": {
+    "title": "Xbox revenue falls again as hardware sales suffer another massive decline",
+    "fingerprint": "74055f69192e50ab589109ecf56445b1",
+    "timestamp": 1777630257.625626,
+    "date": "2026-05-01T10:10:57.625627"
   }
 }

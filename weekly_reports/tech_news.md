@@ -1,95 +1,75 @@
 # 📰 Tech News
-**Week of April 30, 2026**
+**Week of May 01, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-04-30 10:30
+- **Articles this week:** 6
+- **Report generated:** 2026-05-01 10:12
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. MiciMike s open-source drop-in PCB converts Google Home Mini into a local voice assistant (Crowdfunding) ⭐
+### 1. $4,290+ Unitree R1-A5 and R2-A7 humanoid robots features grippers or dexterous hands, fixed or wheeled base ⭐
 
-The MiciMike Home Mini Drop-In PCB is an open-source replacement mainboard for 1st Gen Google Home Mini, converting it into a local voice assistant with Home Assistant Voice, removing cloud dependencies and offering on-device audio processing and more.
+Unitree extends its R1 dual arm humanoid robot family with new R1-A5 and R1-A7 models, featuring grippers or dexterous hands and a fixed or wheeled base. These new robots can perform useful tasks with binocular vision. The R1-A7 model has longer arms and adds extra degrees of freedom.
 
-💡 *Empowering users with local voice assistants for enhanced privacy control.*
+💡 *Humanoid robots gain utility with dexterous hands and mobility options.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/29/micimike-open-source-drop-in-pcb-converts-google-home-mini-into-a-local-voice-assistant/)
-
----
-
-### 2. iGame X870E Vulcan OC V14 Motherboard Review: Colorful enters the high-end overclocking scene 
-
-The Colorful iGame X870E Vulcan OC V14 is a premium mid-range motherboard designed for overclocking, featuring robust power delivery and cooling. It offers a solid, feature-rich option for those looking to push their system's limits. However, it faces tough competition at its price point.
-
-💡 *Robust power delivery and cooling for high-performance overclocking needs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/igame-x870e-vulcan-oc-v14-motherboard-review-colorful-enters-the-high-end-overclocking-scene)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/01/4290-unitree-r1-a5-and-r2-a7-humanoid-robots-features-gripper-or-dexterous-hands-fixed-or-wheeled-base/)
 
 ---
 
-### 3. This $199 upscaler wants to make your retro consoles look great on modern TVs 
+### 2. Meta contractor fires 1,100 AI trainers after they revealed Ray-Ban glasses recorded private and intimate footage 
 
-The Morph 2K upscaler converts retro console video for modern TVs, starting at $199.
+Meta ended its relationship with contractor Sama after allegations of sensitive footage usage. Sama subsequently fired 1,108 employees, some of whom were punished for speaking out. The contractor had used footage from Ray-Ban smart glasses to train AI systems.
 
-💡 *Budget-friendly solution for retro gaming on modern TVs without 4K support.*
+💡 *Private data used for AI training raises ethics and accountability concerns*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112240-199-upscaler-wants-make-retro-consoles-look-great.html)
-
----
-
-### 4. Notepad++ lands on macOS as a native app 
-
-Notepad++ is now available on macOS as a free open-source app, offering familiar features and integrating with macOS for better performance.
-
-💡 *Native macOS app brings Notepad++ features to Mac users seamlessly.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/7873-notepad-mac.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112259-meta-contractor-fires-1100-ai-trainers-after-they.html)
 
 ---
 
-### 5. Developer re-enables 3D printer features that Bambu Lab disabled, firm promptly threatens legal action OrcaSlicer-BambuLab project now shuttered 
+### 3. Microsoft releases the earliest DOS source code ever discovered as open source 
 
-Developer Pawel Jarczak has shuttered OrcaSlicer-BambuLab project due to Bambu Lab's threats.
+Microsoft has released the earliest known DOS source code as open source, known as 'Paterson Listings', providing scanned listings and transcribed portions. This significant piece of DOS history offers a glimpse into the development of the platform. The source code is now available for developers to study and learn from.
 
-💡 *Open-source software developers face challenges from companies over control and ownership.*
+💡 *Unlocking DOS history for developers and computer science enthusiasts*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/developer-re-enables-3d-printer-features-that-bambu-lab-disabled-firm-promptly-threatens-legal-action-orcaslicer-bambulab-project-now-shuttered)
-
----
-
-### 6. At Sensors Converge, head on over to Headless IoT Intelligence 
-
-Azilen's unified architecture connects sensing, data, and agent actions at Sensors Converge 2026, showcasing a seamless integration of IoT components. This innovative approach enables real-time decision-making and enhanced automation capabilities.
-
-💡 *Unified architecture streamlines IoT decision-making and automation processes*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/sensors-converge-head-over-headless-iot-intelligence)
+🔗 [Read Full Article](https://www.techspot.com/news/112256-microsoft-releases-earliest-dos-source-code-ever-discovered.html)
 
 ---
 
-### 7. Musk vs. OpenAI trial begins with internal emails, AGI governance, and billions in potential damages at stake 
+### 4. Take-Two CEO says GTA 6 price will be "very reasonable" amid $100+ speculation 
 
-The Musk vs. OpenAI trial involves allegations of breached charitable trust over $38 million. Jury selection has begun in US District Court. A judge will decide on potential damages.
+Take-Two CEO Strauss Zelnick says GTA 6 will have a 'very reasonable' price tag.
 
-💡 *AI governance and profit structures have significant financial implications.*
+💡 *Price expectations set for Grand Theft Auto VI launch*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112228-musk-vs-openai-trial-begins-internal-emails-agi.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112252-gta-vi-price-fair-reasonable-take-two-ceo.html)
 
 ---
 
-### 8. Consumer tech lobby warns FCC that blocking router updates creates botnet risk for devices already in US homes 
+### 5. Google, Microsoft, Meta, and Amazon capex spending to hit $725 billion in 2026, up 77% from last year analyst says bear thesis is 'garbage' 
 
-The Consumer Technology Association (CTA) warns the FCC that blocking router updates creates a risk of botnets in US homes.
+Google, Amazon, Microsoft, and Meta to spend $725 billion on capex in 2026, up 77% from last year.
 
-💡 *Foreign router ban hinders security updates, enabling botnet exploitation.*
+💡 *Big tech's massive capex surge fuels growth and innovation bets.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112229-ces-owner-warns-fcc-router-ban-could-leave.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spending-plans-reach-725-billion)
+
+---
+
+### 6. Tennessee bans crypto ATMs that have become 'payment portal of choice for scammers' second state to restrict machines after Indiana 
+
+Tennessee becomes the second state to ban crypto ATMs, following Indiana's lead, with the ban taking effect on July 1st. The legislation aims to restrict the use of these machines, which have become a popular choice for scammers. The ban is part of a broader effort to regulate the crypto industry.
+
+💡 *Regulating crypto ATMs reduces opportunities for financial scams.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/tennessee-bans-crypto-atms-that-have-become-payment-portal-of-choice-for-scammers-second-state-to-restrict-machines-after-indiana)
 
 ---
 

@@ -1,85 +1,45 @@
 # ⚡ Semiconductors
-**Week of April 30, 2026**
+**Week of May 01, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-04-30 10:30
+- **Articles this week:** 3
+- **Report generated:** 2026-05-01 10:12
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. M5Stack Cardputer goes off-grid with new Mesh Kit featuring LoRa, GNSS, and Meshtastic support ⭐
+### 1. Security researcher just turned the PS5 into a Linux PC, and it can run GTA V at 60fps 
 
-M5Stack's Cardputer Mesh Kit is a portable, card-sized device for off-grid messaging and GPS tracking.
+A security researcher has successfully turned the PS5 into a Linux PC, allowing it to run GTA V at 60fps. The process uses a patched vulnerability to boot into a Linux environment. However, the setup is not permanent and requires reloading Linux each time the console is rebooted.
 
-💡 *Enabling independent communication and location tracking in remote areas.*
+💡 *PS5 can now be repurposed as a high-performance gaming PC temporarily.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/30/m5stack-cardputer-goes-off-grid-with-new-mesh-kit-featuring-lora-gnss-and-meshtastic-support/)
-
----
-
-### 2. US stops exports of tools to China s number two chip maker Hua Hong and Huali Microelectronics reportedly on the cusp of starting a 7-nm fab in Shanghai 
-
-US restricts tool exports to China's Hua Hong and Huali Microelectronics. The move aims to prevent high-tech tools from being used in a planned 7-nm fab in Shanghai, reportedly to be used by Chinese company Hua Hong and Huali Microelectronics.
-
-💡 *US limits China's access to advanced chip production technology*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-stops-exports-of-chip-making-tools-to-chinas-number-two-chip-maker-hua-hong-and-huali-microelectronics-reportedly-on-the-cusp-of-starting-a-7-nm-fab-in-shanghai)
+🔗 [Read Full Article](https://www.techspot.com/news/112250-security-researcher-turned-ps5-linux-pc-can-run.html)
 
 ---
 
-### 3. Forlinx UP4 A 40 40 mm LCC + LGA system-on-module family with Rockchip, NXP, and Allwinner CPU options 
+### 2. Homebrew PlayStation DualSense controller adapter for PC can be built for just $20 with a Raspberry Pi Pico wireless dongle delivers adaptive triggers and haptic feedback to gamers 
 
-Forlinx UP4 is a family of pin-to-pin compatible system-on-modules with various CPU options, measuring 40x40mm and featuring a hybrid LCC and LGA design. It allows for a single carrier board to support multiple CPUs, offering flexibility to companies for their designs. The modules are available with Rockchip, NXP, and Allwinner processors.
+A PC gaming enthusiast has created a DIY adapter for the Sony DualSense controller, allowing Windows users to access its features wirelessly. The DS5Dongle utilizes a Raspberry Pi Pico wireless dongle to deliver adaptive triggers and haptic feedback. This adapter can be built for under $20.
 
-💡 *Industry gains flexibility with pin-compatible SoM designs for multiple CPUs.*
+💡 *Wireless access to DualSense features on PC for under $20*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/30/forlinx-up4-a-40x40-mm-lcc-lga-system-on-module-family-with-rockchip-nxp-and-allwinner-cpu-options/)
-
----
-
-### 4. STMicro VD65G4 and VD55G4 0.56MP global shutter image sensors enable ultra-low-power always-on event-driven vision 
-
-STMicroelectronics' VD65G4 and VD55G4 image sensors offer ultra-low-power, global shutter technology for always-on vision applications.
-
-💡 *Enabling always-on event-driven vision with ultra-low power consumption.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/30/stmicro-vd65g4-and-vd55g4-0-56mp-global-shutter-image-sensors-enable-ultra-low-power-always-on-event-driven-vision/)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/homebrew-playstation-dualsense-controller-adapter-for-pc-can-be-built-for-just-usd20-with-a-raspberry-pi-pico-wireless-dongle-delivers-adaptive-triggers-and-haptic-feedback-to-gamers)
 
 ---
 
-### 5. A Supreme Court case could decide whether your phone can be used to find you first and suspect you later 
+### 3. Apple is giving up on the Vision Pro after weak sales and high return rates 
 
-A Supreme Court case may determine whether geofence warrants are constitutional, potentially affecting how law enforcement uses cell phone data to investigate crimes.
+Apple has reportedly ceased development of the Vision Pro due to weak sales. The upgraded model failed to lift lukewarm sales, with only a few hundred thousand units sold. Production was dramatically cut after launching the AR headset in 2024.
 
-💡 *Your phone's location history could be used to accuse you first, then investigate.*
+💡 *Apple's AR headset strategy faces significant commercial challenges ahead.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112219-supreme-court-case-could-decide-whether-phone-can.html)
-
----
-
-### 6. TSMC SoIC 3D stacking roadmap outlines path from 6-micron pitches today to 4.5-micron in 2029 Fujitsu's Monaka CPU to benefit from face-to-face chiplet stacking 
-
-TSMC expands SoIC 3D stacking capabilities to 6.5-micron and 4.5-micron pitches. This roadmap supports future advancements in chiplet stacking technology, such as Fujitsu's Monaka CPU. The updated SoIC 3D stacking process aims to increase performance and efficiency.
-
-💡 *Advancing chiplet stacking enables more powerful, efficient semiconductor designs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-soic-3d-stacking-roadmap-outlines-path-from-6-micron-pitches-today-to-4-5-micron-in-2029-fujitsus-monaka-cpu-to-benefit-from-face-to-face-chiplet-stacking)
-
----
-
-### 7. OpenAI is reportedly building a smartphone where AI agents replace apps 
-
-OpenAI is reportedly building a smartphone with AI agents replacing traditional apps, with a conventional hardware design using established partners.
-
-💡 *Relying on established tech partners may limit innovation and control.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112231-openai-reportedly-building-smartphone-where-ai-agents-replace.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112244-apple-giving-up-vision-pro-after-weak-sales.html)
 
 ---
 
