@@ -1,5 +1,5 @@
 # 🎮 GPUs
-**Week of May 01, 2026**
+**Week of May 02, 2026**
 
 *Graphics cards and compute accelerators*
 
@@ -7,59 +7,59 @@
 
 ## 📊 Summary
 - **Articles this week:** 5
-- **Report generated:** 2026-05-01 10:12
+- **Report generated:** 2026-05-02 09:46
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Early tests show minimal performance impact from new budget HUDIMM DDR5 memory ⭐
+### 1. Roblox Reality is like DLSS 5 for Roblox, except it invents photorealistic details the game never had 
 
-Early tests show minimal performance impact from new HUDIMM DDR5 memory, suitable for gaming-focused systems.
+Roblox Reality combines real-time graphics and AI video generation for enhanced visuals.
 
-💡 *HUDIMM DDR5 maintains performance parity with dual UDIMM DDR5 setups.*
+💡 *Revolutionizing Roblox visuals with photorealism and new game details.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112241-early-tests-show-minimal-performance-impact-new-budget.html)
-
----
-
-### 2. NVIDIA phases out several Jetson modules due to high LPDDR4 RAM prices and tight supplies 
-
-NVIDIA has accelerated the end-of-life timeline for several Jetson modules due to high LPDDR4 RAM prices and tight supplies. The impacted modules include the NVIDIA Jetson TX2 NX, TX2i, AGX Xavier, and Xavier NX. New purchase orders for these modules are now Non-Cancelable, Non-Returnable.
-
-💡 *LPDDR4 RAM shortages cripple NVIDIA Jetson module availability and pricing*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/04/30/nvidia-phases-out-several-jetson-modules-due-to-high-lpddr4-ram-prices-and-tight-supplies/)
+🔗 [Read Full Article](https://www.techspot.com/news/112261-roblox-building-dlss-5-like-system-generates-photorealistic.html)
 
 ---
 
-### 3. Get 32GB of RAM and 2TB SSD for $406 when paired with AMD's new 9950X3D2 Asus ROG X870E Apex gets you a monster overclocking AM5 bundle for $2,048, $400 off 
+### 2. Save a huge $400 on this Acer Predator OLED gaming laptop with an RTX 5070 Ti and 32GB DDR5, now under $1,800 big saving on Helios Neo 16S AI rig that ships with a 24-core Intel CPU, 1TB SSD, and a 240Hz refresh rate 
 
-Get an AMD Ryzen 9 9950X3D2 bundle with high-end RAM and storage for $2,048, with $398.98 off. The deal includes 32GB of RAM and a 2TB SSD, along with the Crosshair X870E Apex motherboard. This combo is available on Newegg.
+Best Buy offers the Acer Predator Helios Neo 16S AI laptop at a discounted price of $1,799.99, which is $400 less than its original price. This gaming laptop features a powerful RTX 5070 Ti, 32GB of DDR5 RAM, and a 240Hz OLED display. It also comes with a 24-core Intel CPU and 1TB SSD.
 
-💡 *High-performance gaming PC bundle at a discounted price point*
+💡 *Gaming laptops with AI and high-end specs become more affordable.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-32gb-of-ram-and-2tb-ssd-for-usd406-when-paired-with-amds-new-9950x3d2-asus-rog-x870e-apex-gets-you-a-monster-overclocking-am5-bundle-for-usd2-048-usd400-off)
-
----
-
-### 4. Chinese GPU maker Cambricon's Q1 revenue hits $423 million as country's homegrown AI chip market accelerates Chinese chipmakers continue to leech market share from Nvidia 
-
-Chinese chipmaker Cambricon's Q1 revenue reached $423 million as it gains traction in the country's AI chip market, further eroding Nvidia's market share.
-
-💡 *Chinese AI chipmakers accelerate market dominance over Nvidia*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cambricons-q1-revenue-hits-423-million-as-chinas-domestic-ai-chip-market-accelerates)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/save-a-huge-usd400-on-this-acer-predator-oled-gaming-laptop-with-an-rtx-5070-ti-and-32gb-ddr5-now-under-usd1-800-big-saving-on-helios-neo-16s-ai-rig-that-ships-with-a-24-core-intel-cpu-1tb-ssd-and-a-240hz-refresh-rate)
 
 ---
 
-### 5. Save $800 on this Alienware Aurora 5080 desktop 4K powerhouse with Intel Core Ultra 9 285K, 32GB of RAM, and 2TB of storage now just $2,899 
+### 3. Commodore 64 and ZX Spectrum receive clamshell makeover iconic 8-bit legends join the handheld gaming wars 
 
-Get an Alienware Aurora 5080 desktop gaming PC with powerful Intel Core Ultra 9 285K processor, 32GB RAM, and 2TB storage for $2,899.
+Retro Games Ltd and Blaze Entertainment are releasing handheld versions of the Commodore 64 and ZX Spectrum for $129.99. The C64 Handheld and The Spectrum Handheld will bring iconic 8-bit gaming to a new format. Preorders are now available.
 
-💡 *Premium gaming desktop at reduced price for budget-conscious gamers.*
+💡 *Nostalgic gamers can now carry 8-bit classics on the go*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd800-on-this-alienware-aurora-5080-desktop-4k-powerhouse-with-intel-core-ultra-9-285k-32gb-of-ram-and-2tb-of-storage-now-just-usd2-899)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/commodore-64-and-zx-spectrum-receive-clamshell-makeover-iconic-8-bit-legends-join-the-handheld-gaming-wars)
+
+---
+
+### 4. Nvidia could bring back the RTX 3060 12GB in July as memory crisis continues 
+
+Nvidia may reintroduce the RTX 3060 12GB GPU in July, addressing memory shortages.
+
+💡 *Nvidia's move could ease ongoing memory shortages in the graphics market.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112268-nvidia-could-bring-back-rtx-3060-12gb-july.html)
+
+---
+
+### 5. The Pentagon announces AI deals with OpenAI, Google, Microsoft, Amazon, Nvidia, and more LLMs to be deployed on classified Department of War networks for lawful operational use  
+
+The U.S. Department of War partnered with seven AI providers to deploy large language models (LLMs) on classified networks for operational use. This agreement allows the department to diversify its AI resources and avoid vendor lock-in. Multiple providers include OpenAI, Google, Microsoft, and Amazon.
+
+💡 *Diversifying AI resources to mitigate vendor lock-in risks and ensure flexibility*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/the-pentagon-announces-ai-deals-with-openai-google-microsoft-amazon-nvidia-and-more-llms-to-be-deployed-on-classified-department-of-war-networks-for-lawful-operational-use)
 
 ---
 

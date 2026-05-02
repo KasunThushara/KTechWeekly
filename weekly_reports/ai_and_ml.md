@@ -1,265 +1,185 @@
 # 🤖 AI & ML
-**Week of May 01, 2026**
+**Week of May 02, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 25
-- **Report generated:** 2026-05-01 10:12
+- **Articles this week:** 17
+- **Report generated:** 2026-05-02 09:46
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. $4,290+ Unitree R1-A5 and R2-A7 humanoid robots features grippers or dexterous hands, fixed or wheeled base ⭐
+### 1. This ultra-cheap, water-based iron battery could last 16 years without degrading ⭐
 
-Unitree extends its R1 dual arm humanoid robot family with new R1-A5 and R1-A7 models, featuring grippers or dexterous hands and a fixed or wheeled base. These new robots can perform useful tasks with binocular vision. The R1-A7 model has longer arms and adds extra degrees of freedom.
+Researchers at the Chinese Academy of Sciences developed an alkaline all-iron flow battery that can last 16 years without degrading, capable of more than 6,000 charge-discharge cycles without capacity decay.
 
-💡 *Humanoid robots gain utility with dexterous hands and mobility options.*
+💡 *Long-lasting, cost-effective battery technology for renewable energy storage.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/01/4290-unitree-r1-a5-and-r2-a7-humanoid-robots-features-gripper-or-dexterous-hands-fixed-or-wheeled-base/)
-
----
-
-### 2. ESP-FLY DIY Kit is a tiny ESP32-S3-based DIY micro drone kit 
-
-The ESP-FLY DIY kit is a miniature ESP32-S3-based drone kit ideal for STEM education and hobbyist projects. It features a compact quadcopter design, Wi-Fi 4, and Bluetooth 5.0 connectivity. The kit is available for $59.99 on Seeed Studio.
-
-💡 *Smallest ESP32 drone kit for STEM education and hobbyist projects emerges.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/01/esp-fly-diy-kit-tiny-esp32-s3-based-diy-micro-drone-kit/)
+🔗 [Read Full Article](https://www.techspot.com/news/112265-china-ultra-cheap-water-based-iron-battery-could.html)
 
 ---
 
-### 3. Ubuntu is adding AI features, and it's on a collision course with its own user base 
+### 2. Intel details 18A-P process node, touts higher performance, lower power, and better thermals 9% more performance, thermal conductivity improved by 50% 
 
-Ubuntu is integrating AI features for accessibility and other tasks, potentially disrupting its user base.
+Intel's 18A-P process node boasts improved performance, power efficiency, and yields.
 
-💡 *Canonical's AI integration may alienate core users who value simplicity and openness.*
+💡 *Faster, cooler, and more efficient chips for emerging applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112257-ubuntu-adding-ai-features-collision-course-own-user.html)
-
----
-
-### 4. Meta contractor fires 1,100 AI trainers after they revealed Ray-Ban glasses recorded private and intimate footage 
-
-Meta ended its relationship with contractor Sama after allegations of sensitive footage usage. Sama subsequently fired 1,108 employees, some of whom were punished for speaking out. The contractor had used footage from Ray-Ban smart glasses to train AI systems.
-
-💡 *Private data used for AI training raises ethics and accountability concerns*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112259-meta-contractor-fires-1100-ai-trainers-after-they.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-details-18a-p-process-node-touts-higher-performance-lower-power-and-better-thermals-9-percent-more-performance-thermal-conductivity-improved-by-50-percent)
 
 ---
 
-### 5. Microsoft releases the earliest DOS source code ever discovered as open source 
+### 3. "Copy Fail" is a rare Linux bug that can turn an unprivileged user into a root admin in seconds 
 
-Microsoft has released the earliest known DOS source code as open source, known as 'Paterson Listings', providing scanned listings and transcribed portions. This significant piece of DOS history offers a glimpse into the development of the platform. The source code is now available for developers to study and learn from.
+A rare Linux bug, 'Copy Fail' (CVE-2026-31431), allows unprivileged users to gain root access quickly.
 
-💡 *Unlocking DOS history for developers and computer science enthusiasts*
+💡 *Unprecedented privilege escalation via a 732-byte Python script compromises kernel security.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112256-microsoft-releases-earliest-dos-source-code-ever-discovered.html)
-
----
-
-### 6. Take-Two CEO says GTA 6 price will be "very reasonable" amid $100+ speculation 
-
-Take-Two CEO Strauss Zelnick says GTA 6 will have a 'very reasonable' price tag.
-
-💡 *Price expectations set for Grand Theft Auto VI launch*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112252-gta-vi-price-fair-reasonable-take-two-ceo.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112260-critical-copy-fail-vulnerability-affects-linux-systems-dating.html)
 
 ---
 
-### 7. Pentagon budget documents reveal it's pursuing containerized 300kW+ laser weapons, ambitious Joint Laser Weapon System designed to shoot down cruise missiles system part of $17.9 billion Golden Dome missile-defense initiative 
+### 4. Roblox Reality is like DLSS 5 for Roblox, except it invents photorealistic details the game never had 
 
-The Pentagon's FY2027 budget reveals a Joint Laser Weapon System, a containerized 300kW+ laser designed to intercept cruise missiles as part of the Golden Dome missile-defense initiative.
+Roblox Reality combines real-time graphics and AI video generation for enhanced visuals.
 
-💡 *Boosts US missile defense capabilities with high-tech laser technology*
+💡 *Revolutionizing Roblox visuals with photorealism and new game details.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative)
-
----
-
-### 8. Talent over tokens: AI models are becoming more expensive to run, and productivity gains are limited efficient workers might be the solution to strained budgets 
-
-Rising AI costs and per-token billing are making human workers more affordable alternatives, forcing companies to reevaluate their budgets and consider more efficient methods.
-
-💡 *Human labor costs may surpass AI efficiency in niche applications.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/talent-over-tokens-ai-models-are-becoming-more-expensive-to-run-and-productivity-gains-are-limited-efficient-workers-might-be-the-solution-to-strained-budgets)
+🔗 [Read Full Article](https://www.techspot.com/news/112261-roblox-building-dlss-5-like-system-generates-photorealistic.html)
 
 ---
 
-### 9. Pirate RPG game is secretly looting your SSD lifespan new Windrose patch promises smoother sailing and addresses excessive disk writing 
+### 5. Skyrocketing component prices push Big Tech capex to record $725 billion Microsoft alone attributes $25 billion of AI budget to increased memory and chip costs 
 
-Gamers have reported excessive disk I/O from Windrose, consuming up to 30 MB/s of read/write activity. This excessive activity is causing concerns about SSD lifespan. The game's developers have promised a patch to address the issue.
+Big Tech companies plan to spend a record $725 billion on capex in 2026, a 77% increase from last year. This surge in spending is largely driven by skyrocketing component prices. Microsoft attributes $25 billion of its AI budget to increased memory and chip costs.
 
-💡 *Excessive disk I/O shortens SSD lifespan significantly quickly*
+💡 *Rising component prices fuel Big Tech's record-breaking capex spending surge*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/pirate-rpg-game-is-secretly-looting-your-ssd-lifespan-new-windrose-patch-promises-smoother-sailing-and-addresses-excessive-disk-writing)
-
----
-
-### 10. Crucial Taiwan undersea cable severed by old shipwreck backup microwave communications activated to keep population connected 
-
-A shipwreck has severed a crucial undersea cable between Dongyin and Beigan islands, disrupting communication. The islands are strategically located near the Chinese coast and the northern mouth of the Taiwan Strait. Backup microwave communications have been activated to maintain connectivity.
-
-💡 *Taiwan's military presence in the islands is vulnerable to Chinese disruption*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/crucial-taiwan-undersea-cable-severed-by-old-shipwreck-backup-microwave-communications-activated-to-keep-population-connected)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/microsoft-attributed-25-billion-of-its-record-ai-budget-to-memory-chip-costs)
 
 ---
 
-### 11. Samsung and SK hynix warn AI-driven memory shortages could last until 2027 and beyond, as HBM demand explodes customers already reserving supply years ahead, while the wider DRAM market begins to tighten 
+### 6. SoftBank plans robotics and AI firm in the US to build data centers aims for $100 billion valuation and an IPO this year 
 
-Samsung and SK hynix warn of persistent AI-driven memory shortages until 2027 due to exploding HBM demand, which is overwhelming supply and tightening the broader DRAM market, leading to record profits.
+SoftBank plans AI and robotics startup for data centers, targeting $100 billion valuation and IPO this year in the US.
 
-💡 *AI demand is outpacing memory supply, leading to prolonged shortages.*
+💡 *Massive data center expansion could drive AI innovation and growth.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-and-sk-hynix-warn-ai-driven-memory-shortages-could-last-until-2027-and-beyond-as-hbm-demand-explodes-customers-already-reserving-supply-years-ahead-while-the-wider-dram-market-begins-to-tighten)
-
----
-
-### 12. Sony confirms PS4 and PS5 digital games don't require an online check-in every 30 days new DRM policy only checks once for license to combat against refund scams 
-
-Sony has clarified its digital game policy, confirming no 30-day check-ins are required. A single initial online check-in converts a temporary license to a permanent one. This alleviates concerns about frequent online connections.
-
-💡 *Single check-in for permanent license eliminates frequent online requirements*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/sony-confirms-ps4-and-ps5-digital-games-dont-require-an-online-check-in-every-30-days-new-drm-policy-only-checks-once-for-license-to-combat-against-refund-scams)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/softbank-plans-robotics-and-ai-firm-in-the-us-to-build-data-centers-aims-for-usd100-billion-valuation-and-an-ipo-this-year)
 
 ---
 
-### 13. Victim of AI agent that deleted company's entire database gets their data back cloud provider recovers critical files and broadens its 48-hour delayed delete policy 
+### 7. Huawei could seize China s AI chip crown in 2026 as Nvidia's H200 shipments stall in regulatory limbo Beijing pushes homegrown AI hardware dominance in a market projected to hit $67 billion by 2030 
 
-A SaaS business recovered its data after a cloud provider intervened, retrieving critical databases deleted by a rogue AI agent. The incident led to a revised 48-hour delayed delete policy. The cloud provider's swift action saved the company's operation.
+Huawei is poised to lead China's AI chip market as Nvidia faces export restrictions, potentially becoming the top AI chip supplier in China. Analysts predict China's domestic AI chip market will reach $67 billion by 2030. The market shift could cement China's dominance in AI technology.
 
-💡 *Cloud providers must act promptly to prevent AI-related data catastrophes.*
+💡 *China's AI chip market dominance has significant global tech implications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/victim-of-ai-agent-that-deleted-companys-entire-database-gets-their-data-back-cloud-provider-recovers-critical-files-and-broadens-its-48-hour-delayed-delete-policy)
-
----
-
-### 14. Apple 'has given up' on Vision Pro, report claims costly price and weight behind purported failure, but the company continues to hire into its Vision Production Group 
-
-Apple may be shifting focus away from Vision Pro due to price and weight concerns, but ongoing hiring suggests a reevaluation of strategy.
-
-💡 *Market expectations vs. product viability create a significant business challenge for Apple.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/virtual-reality/apple-has-given-up-on-vision-pro-report-claims-costly-price-and-weight-behind-purported-failure-but-the-company-continues-to-hire-into-its-vision-production-group)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-could-seize-chinas-ai-chip-crown-in-2026-as-nvidias-h200-shipments-stall-in-regulatory-limbo-beijing-pushes-homegrown-ai-hardware-dominance-in-a-market-projected-to-hit-usd67-billion-by-2030)
 
 ---
 
-### 15. Get 32GB of RAM and 2TB SSD for $406 when paired with AMD's new 9950X3D2 Asus ROG X870E Apex gets you a monster overclocking AM5 bundle for $2,048, $400 off 
+### 8. Slimline Commodore 64C Ultimate Edition computers go up for pre-order firm reintroduces the C64 s sleeker 1986-1994 styling across the range 
 
-Get an AMD Ryzen 9 9950X3D2 bundle with high-end RAM and storage for $2,048, with $398.98 off. The deal includes 32GB of RAM and a 2TB SSD, along with the Crosshair X870E Apex motherboard. This combo is available on Newegg.
+The Commodore 64C Ultimate Edition features the C64's sleeker 1986-1994 styling, recreated using original molds and tooling, going up for pre-order.
 
-💡 *High-performance gaming PC bundle at a discounted price point*
+💡 *Nostalgic design revival sparks interest among retro computing enthusiasts and collectors.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-32gb-of-ram-and-2tb-ssd-for-usd406-when-paired-with-amds-new-9950x3d2-asus-rog-x870e-apex-gets-you-a-monster-overclocking-am5-bundle-for-usd2-048-usd400-off)
-
----
-
-### 16. Chinese GPU maker Cambricon's Q1 revenue hits $423 million as country's homegrown AI chip market accelerates Chinese chipmakers continue to leech market share from Nvidia 
-
-Chinese chipmaker Cambricon's Q1 revenue reached $423 million as it gains traction in the country's AI chip market, further eroding Nvidia's market share.
-
-💡 *Chinese AI chipmakers accelerate market dominance over Nvidia*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cambricons-q1-revenue-hits-423-million-as-chinas-domestic-ai-chip-market-accelerates)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/slimline-commodore-64c-ultimate-edition-computers-go-up-for-pre-order-firm-reintroduces-the-c64s-sleeker-1986-1994-styling-across-the-range)
 
 ---
 
-### 17. EU is considering new rules for cloud and AI under the Digital Markets Act 
+### 9. ASML's roadmap for chipmaking lithography tools examined from DUV to Low-NA, High-NA, Hyper-NA, and beyond 
 
-The EU considers new rules for cloud and AI under the Digital Markets Act, targeting gatekeepers to prevent scale-driven competition blockage.
+ASML shipped 48 EUV and 131 immersion DUV tools in 2025, generating $32.7 billion in revenue. This was accompanied by a $38.8 billion order backlog. The company continues to play a crucial role in the chipmaking industry.
 
-💡 *Regulating tech giants to ensure fair competition and innovation in EU markets.*
+💡 *Accelerating semiconductor advancements with cutting-edge lithography technology matters*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112248-eu-considering-new-rules-cloud-ai-under-digital.html)
-
----
-
-### 18. Solar-powered cars are impractical at scale but this tiny build finds a sweet spot 
-
-YouTuber Simon S rensen built a compact solar car using e-bike parts, keeping costs and complexity low.
-
-💡 *Repurposing existing e-bike tech optimizes solar car design and feasibility.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112255-solar-powered-cars-impractical-scale-but-tiny-build.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/asml-lithograpy-roadmap-examined-from-duv-to-hyper-na)
 
 ---
 
-### 19. Google Photos feature uses AI to scan your pictures and help pick your clothes 
+### 10. Wingtech posts $1.3 billion loss and faces Shanghai delisting as Nexperia audit collapses 57% of company's assets can't be verified 
 
-Google's Wardrobe feature uses AI to catalog clothes in Google Photos, creating a digital closet to help users choose outfits.
+Wingtech faces delisting risk in Shanghai due to financial losses and audit issues. The company posted a significant $1.3 billion loss and 57% of its assets cannot be verified. This threatens the company's listing on the Shanghai bourse.
 
-💡 *Streamlining mornings with personalized outfit suggestions using AI-powered digital closet.*
+💡 *Financial transparency and accountability are crucial for companies' market survival.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112254-upcoming-google-photos-feature-uses-ai-scan-pictures.html)
-
----
-
-### 20. YouTube has quietly become the backbone of US classrooms 
-
-YouTube has become a significant part of US classrooms, with students spending extensive time on the platform. Parents can access usage logs to see their children's screen time on school-issued devices. One seventh grader watched over 13,000 videos in just three months.
-
-💡 *Unregulated screen time hinders students' ability to engage with coursework.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112253-youtube-has-quietly-become-backbone-us-classrooms.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/wingtech-posts-1-3-billion-loss-and-faces-shanghai-delisting-as-nexperia-audit-collapses)
 
 ---
 
-### 21. AI data centers are delaying Texas housing projects by hiring away electricians 
+### 11. Mark Zuckerberg says Meta is cutting 8,000 jobs to pay for AI infrastructure insatiable compute demand means the company can't rule out further headcount reductions 
 
-Abilene builder Gene Lantrip's construction schedules are delayed due to AI campus hiring electricians, disrupting Texas housing projects.
+Meta is cutting 8,000 jobs to fund AI infrastructure expansion. The company spent $72.2 billion on capex in 2025 and expects to nearly double that figure in 2026. This significant increase in spending is driven by the insatiable compute demand for AI.
 
-💡 *AI data center labor demand disrupts local housing construction timelines.*
+💡 *Meta's AI ambitions come at the cost of significant job cuts.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112251-ai-data-centers-delaying-texas-housing-projects-hiring.html)
-
----
-
-### 22. Google's AI bet is paying off: Alphabet posts $94.7 billion Q1 revenue, AI demand outpaces supply 
-
-Alphabet posts $94.7 billion Q1 revenue, driven by Google Cloud's AI growth.
-
-💡 *AI demand surpassing supply drives Alphabet's revenue momentum.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112246-alphabet-rides-ai-surge-revenue-profit-crush-expectations.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/mark-zuckerberg-says-meta-is-cutting-8000-jobs-to-pay-for-ai-infrastructure)
 
 ---
 
-### 23. Meta's AI bill keeps growing as spending forecast jumps to $145 billion 
+### 12. Commodore 64 and ZX Spectrum receive clamshell makeover iconic 8-bit legends join the handheld gaming wars 
 
-Meta's AI bill is increasing due to higher component costs and data center investments. The spending forecast has jumped to $145 billion. This is attributed to CEO Mark Zuckerberg's efforts to support future capacity.
+Retro Games Ltd and Blaze Entertainment are releasing handheld versions of the Commodore 64 and ZX Spectrum for $129.99. The C64 Handheld and The Spectrum Handheld will bring iconic 8-bit gaming to a new format. Preorders are now available.
 
-💡 *Meta invests heavily in AI infrastructure for future growth potential.*
+💡 *Nostalgic gamers can now carry 8-bit classics on the go*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112249-meta-ai-bill-keeps-growing-spending-forecast-jumps.html)
-
----
-
-### 24. Apple is giving up on the Vision Pro after weak sales and high return rates 
-
-Apple has reportedly ceased development of the Vision Pro due to weak sales. The upgraded model failed to lift lukewarm sales, with only a few hundred thousand units sold. Production was dramatically cut after launching the AR headset in 2024.
-
-💡 *Apple's AR headset strategy faces significant commercial challenges ahead.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112244-apple-giving-up-vision-pro-after-weak-sales.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/commodore-64-and-zx-spectrum-receive-clamshell-makeover-iconic-8-bit-legends-join-the-handheld-gaming-wars)
 
 ---
 
-### 25. Xbox revenue falls again as hardware sales suffer another massive decline 
+### 13. The Mac Mini is sold out for "several months" as AI developers snap them up for local agent workloads 
 
-Xbox revenue falls 5% YoY, marking third consecutive quarterly decline. Microsoft attributes the drop to strong first-party game performance from the previous year. Hardware sales suffer a significant decline.
+The Mac Mini is sold out for several months due to AI developers' demand, driven by faster-than-expected customer adoption of AI and agentic tools on the Mac Mini and Mac Studio.
 
-💡 *Microsoft's Xbox revenue struggles underscore the gaming industry's volatility.*
+💡 *AI developers drive demand for Macs in local agent workloads quickly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112247-xbox-revenue-falls-again-hardware-sales-suffer-another.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112267-mac-mini-sold-out-several-months-ai-developers.html)
+
+---
+
+### 14. A Harvard study shows AI model can outperform physicians in emergency room diagnoses 
+
+A Harvard study found an AI model outperformed physicians in ER diagnoses. The AI model identified a patient's lupus history, a crucial factor in treatment. This improved diagnosis led to better patient outcomes.
+
+💡 *AI models can provide crucial diagnoses missed by human physicians.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112262-openai-model-outperforms-physicians-emergency-room-diagnoses-using.html)
+
+---
+
+### 15. Nvidia could bring back the RTX 3060 12GB in July as memory crisis continues 
+
+Nvidia may reintroduce the RTX 3060 12GB GPU in July, addressing memory shortages.
+
+💡 *Nvidia's move could ease ongoing memory shortages in the graphics market.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112268-nvidia-could-bring-back-rtx-3060-12gb-july.html)
+
+---
+
+### 16. Canonical under sustained DDoS attack as Ubuntu 26 releases Iranian group 313 Team claims responsibility 
+
+Canonical, the company behind Ubuntu, is facing a sustained DDoS attack. The attack coincides with the release of Ubuntu 26. The Iranian group 313 Team has claimed responsibility for the attack.
+
+💡 *Critical infrastructure exposed to cyber threats via operating system releases*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/canonical-under-sustained-ddos-attack-as-ubuntu-26-releases-iranian-group-313-team-claims-responsibility)
+
+---
+
+### 17. The Pentagon announces AI deals with OpenAI, Google, Microsoft, Amazon, Nvidia, and more LLMs to be deployed on classified Department of War networks for lawful operational use  
+
+The U.S. Department of War partnered with seven AI providers to deploy large language models (LLMs) on classified networks for operational use. This agreement allows the department to diversify its AI resources and avoid vendor lock-in. Multiple providers include OpenAI, Google, Microsoft, and Amazon.
+
+💡 *Diversifying AI resources to mitigate vendor lock-in risks and ensure flexibility*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/the-pentagon-announces-ai-deals-with-openai-google-microsoft-amazon-nvidia-and-more-llms-to-be-deployed-on-classified-department-of-war-networks-for-lawful-operational-use)
 
 ---
 

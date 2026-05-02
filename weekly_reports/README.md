@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of May 01, 2026**
+**Week of May 02, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. $4,290+ Unitree R1-A5 and R2-A7 humanoid robots features grippers or dexterous hands, fixed or wheeled base ⭐
+### 1. This ultra-cheap, water-based iron battery could last 16 years without degrading ⭐
 
 **🤖 AI & ML**
 
-Unitree extends its R1 dual arm humanoid robot family with new R1-A5 and R1-A7 models, featuring grippers or dexterous hands and a fixed or wheeled base. These new robots can perform useful tasks with binocular vision. The R1-A7 model has longer arms and adds extra degrees of freedom.
+Researchers at the Chinese Academy of Sciences developed an alkaline all-iron flow battery that can last 16 years without degrading, capable of more than 6,000 charge-discharge cycles without capacity decay.
 
-💡 **Key Point:** Humanoid robots gain utility with dexterous hands and mobility options.
+💡 **Key Point:** Long-lasting, cost-effective battery technology for renewable energy storage.
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/01/4290-unitree-r1-a5-and-r2-a7-humanoid-robots-features-gripper-or-dexterous-hands-fixed-or-wheeled-base/)
+🔗 [Read More](https://www.techspot.com/news/112265-china-ultra-cheap-water-based-iron-battery-could.html)
 
 ---
 
-### 2. $4,290+ Unitree R1-A5 and R2-A7 humanoid robots features grippers or dexterous hands, fixed or wheeled base ⭐
+### 2. Biwin M350 2TB SSD Review: A Better Budget Alternative? ⭐
 
 **📰 Tech News**
 
-Unitree extends its R1 dual arm humanoid robot family with new R1-A5 and R1-A7 models, featuring grippers or dexterous hands and a fixed or wheeled base. These new robots can perform useful tasks with binocular vision. The R1-A7 model has longer arms and adds extra degrees of freedom.
+The Biwin M350 offers a budget-friendly PCIe 4.0 SSD with good performance and power efficiency, but it still suffers from the limitations of QLC flash in sustained performance.
 
-💡 **Key Point:** Humanoid robots gain utility with dexterous hands and mobility options.
+💡 **Key Point:** Budget SSDs can deliver surprisingly good performance with the right specs.
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/01/4290-unitree-r1-a5-and-r2-a7-humanoid-robots-features-gripper-or-dexterous-hands-fixed-or-wheeled-base/)
-
----
-
-### 3. Early tests show minimal performance impact from new budget HUDIMM DDR5 memory ⭐
-
-**🎮 GPUs**
-
-Early tests show minimal performance impact from new HUDIMM DDR5 memory, suitable for gaming-focused systems.
-
-💡 **Key Point:** HUDIMM DDR5 maintains performance parity with dual UDIMM DDR5 setups.
-
-🔗 [Read More](https://www.techspot.com/news/112241-early-tests-show-minimal-performance-impact-new-budget.html)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/biwin-m350-2tb-ssd-review)
 
 ---
 
-### 4. ESP-FLY DIY Kit is a tiny ESP32-S3-based DIY micro drone kit 
+### 3. Biwin M350 2TB SSD Review: A Better Budget Alternative? ⭐
+
+**💻 Hardware**
+
+The Biwin M350 offers a budget-friendly PCIe 4.0 SSD with good performance and power efficiency, but it still suffers from the limitations of QLC flash in sustained performance.
+
+💡 **Key Point:** Budget SSDs can deliver surprisingly good performance with the right specs.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/biwin-m350-2tb-ssd-review)
+
+---
+
+### 4. Intel details 18A-P process node, touts higher performance, lower power, and better thermals 9% more performance, thermal conductivity improved by 50% 
 
 **🤖 AI & ML**
 
-The ESP-FLY DIY kit is a miniature ESP32-S3-based drone kit ideal for STEM education and hobbyist projects. It features a compact quadcopter design, Wi-Fi 4, and Bluetooth 5.0 connectivity. The kit is available for $59.99 on Seeed Studio.
+Intel's 18A-P process node boasts improved performance, power efficiency, and yields.
 
-💡 **Key Point:** Smallest ESP32 drone kit for STEM education and hobbyist projects emerges.
+💡 **Key Point:** Faster, cooler, and more efficient chips for emerging applications.
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/01/esp-fly-diy-kit-tiny-esp32-s3-based-diy-micro-drone-kit/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/intel-details-18a-p-process-node-touts-higher-performance-lower-power-and-better-thermals-9-percent-more-performance-thermal-conductivity-improved-by-50-percent)
 
 ---
 
-### 5. Ubuntu is adding AI features, and it's on a collision course with its own user base 
+### 5. "Copy Fail" is a rare Linux bug that can turn an unprivileged user into a root admin in seconds 
 
 **🤖 AI & ML**
 
-Ubuntu is integrating AI features for accessibility and other tasks, potentially disrupting its user base.
+A rare Linux bug, 'Copy Fail' (CVE-2026-31431), allows unprivileged users to gain root access quickly.
 
-💡 **Key Point:** Canonical's AI integration may alienate core users who value simplicity and openness.
+💡 **Key Point:** Unprecedented privilege escalation via a 732-byte Python script compromises kernel security.
 
-🔗 [Read More](https://www.techspot.com/news/112257-ubuntu-adding-ai-features-collision-course-own-user.html)
+🔗 [Read More](https://www.techspot.com/news/112260-critical-copy-fail-vulnerability-affects-linux-systems-dating.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **47 articles** across **5 focused categories**.
+We covered **41 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 25 | Artificial Intelligence and Machine Learning |
+| 🤖 [AI & ML](ai_and_ml.md) | 17 | Artificial Intelligence and Machine Learning |
 | 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 8 | Computing hardware and development boards |
+| 💻 [Hardware](hardware.md) | 6 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
+| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 25 articles
+*Artificial Intelligence and Machine Learning* — 17 articles
 
 ### 🎮 [GPUs](gpus.md)
 *Graphics cards and compute accelerators* — 5 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 8 articles
+*Computing hardware and development boards* — 6 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
 *Chip manufacturing and design* — 3 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 6 articles
+*Industry news and product launches* — 10 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-05-01 at 10:12 by an autonomous AI curation system.
+Generated 2026-05-02 at 09:46 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

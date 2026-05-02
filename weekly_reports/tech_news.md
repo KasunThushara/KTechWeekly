@@ -1,75 +1,115 @@
 # 📰 Tech News
-**Week of May 01, 2026**
+**Week of May 02, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-05-01 10:12
+- **Articles this week:** 10
+- **Report generated:** 2026-05-02 09:46
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. $4,290+ Unitree R1-A5 and R2-A7 humanoid robots features grippers or dexterous hands, fixed or wheeled base ⭐
+### 1. Biwin M350 2TB SSD Review: A Better Budget Alternative? ⭐
 
-Unitree extends its R1 dual arm humanoid robot family with new R1-A5 and R1-A7 models, featuring grippers or dexterous hands and a fixed or wheeled base. These new robots can perform useful tasks with binocular vision. The R1-A7 model has longer arms and adds extra degrees of freedom.
+The Biwin M350 offers a budget-friendly PCIe 4.0 SSD with good performance and power efficiency, but it still suffers from the limitations of QLC flash in sustained performance.
 
-💡 *Humanoid robots gain utility with dexterous hands and mobility options.*
+💡 *Budget SSDs can deliver surprisingly good performance with the right specs.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/01/4290-unitree-r1-a5-and-r2-a7-humanoid-robots-features-gripper-or-dexterous-hands-fixed-or-wheeled-base/)
-
----
-
-### 2. Meta contractor fires 1,100 AI trainers after they revealed Ray-Ban glasses recorded private and intimate footage 
-
-Meta ended its relationship with contractor Sama after allegations of sensitive footage usage. Sama subsequently fired 1,108 employees, some of whom were punished for speaking out. The contractor had used footage from Ray-Ban smart glasses to train AI systems.
-
-💡 *Private data used for AI training raises ethics and accountability concerns*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112259-meta-contractor-fires-1100-ai-trainers-after-they.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/biwin-m350-2tb-ssd-review)
 
 ---
 
-### 3. Microsoft releases the earliest DOS source code ever discovered as open source 
+### 2. Prunt Board 3 3D printer control board offers smoother and quieter operation (Crowdfunding) 
 
-Microsoft has released the earliest known DOS source code as open source, known as 'Paterson Listings', providing scanned listings and transcribed portions. This significant piece of DOS history offers a glimpse into the development of the platform. The source code is now available for developers to study and learn from.
+The Prunt Board 3 is a 3D printer control board designed for smoother and quieter operation, featuring advanced hardware and firmware capabilities.
 
-💡 *Unlocking DOS history for developers and computer science enthusiasts*
+💡 *Smoothers 3D printing with 31-phase velocity profiles and hardware acceleration.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112256-microsoft-releases-earliest-dos-source-code-ever-discovered.html)
-
----
-
-### 4. Take-Two CEO says GTA 6 price will be "very reasonable" amid $100+ speculation 
-
-Take-Two CEO Strauss Zelnick says GTA 6 will have a 'very reasonable' price tag.
-
-💡 *Price expectations set for Grand Theft Auto VI launch*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112252-gta-vi-price-fair-reasonable-take-two-ceo.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/02/prunt-board-3-3d-printer-control-board-offers-smoother-and-quieter-operation/)
 
 ---
 
-### 5. Google, Microsoft, Meta, and Amazon capex spending to hit $725 billion in 2026, up 77% from last year analyst says bear thesis is 'garbage' 
+### 3. Microsoft admits Windows 11 lost its way, Nadella pledges to "win back fans" 
 
-Google, Amazon, Microsoft, and Meta to spend $725 billion on capex in 2026, up 77% from last year.
+Microsoft's Nadella prioritizes performance, quality, and UX in Windows 11, aiming to win back users. This shift marks a departure from the company's initial strategy for the operating system. The focus is on rebuilding trust with consumers.
 
-💡 *Big tech's massive capex surge fuels growth and innovation bets.*
+💡 *Microsoft is reorienting Windows 11 to prioritize core user needs again.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spending-plans-reach-725-billion)
+🔗 [Read Full Article](https://www.techspot.com/news/112258-microsoft-admits-windows-11-lost-way-nadella-pledges.html)
 
 ---
 
-### 6. Tennessee bans crypto ATMs that have become 'payment portal of choice for scammers' second state to restrict machines after Indiana 
+### 4. SoftBank plans robotics and AI firm in the US to build data centers aims for $100 billion valuation and an IPO this year 
 
-Tennessee becomes the second state to ban crypto ATMs, following Indiana's lead, with the ban taking effect on July 1st. The legislation aims to restrict the use of these machines, which have become a popular choice for scammers. The ban is part of a broader effort to regulate the crypto industry.
+SoftBank plans AI and robotics startup for data centers, targeting $100 billion valuation and IPO this year in the US.
 
-💡 *Regulating crypto ATMs reduces opportunities for financial scams.*
+💡 *Massive data center expansion could drive AI innovation and growth.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/tennessee-bans-crypto-atms-that-have-become-payment-portal-of-choice-for-scammers-second-state-to-restrict-machines-after-indiana)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/softbank-plans-robotics-and-ai-firm-in-the-us-to-build-data-centers-aims-for-usd100-billion-valuation-and-an-ipo-this-year)
+
+---
+
+### 5. Linux exploit instantly grants administrator access on most distributions since 2017 cryptography optimization snafu grants root privileges to local users 
+
+A zero-day exploit, stemming from a 2017 cryptography optimization, grants administrator access on most Linux distributions, potentially compromising the security of millions of systems.
+
+💡 *2017 cryptography optimization vulnerability leaves massive Linux user base exposed*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/linux-exploit-instantly-grants-administrator-access-on-most-distributions-since-2017-cryptography-optimization-snafu-grants-root-privileges-to-local-users)
+
+---
+
+### 6. NFL stadium deploys manhole sensors to secure network, tighten terror threat security 
+
+Sensor Works deploys rugged sensors on manhole covers to prevent tampering and enhance security.
+
+💡 *Advanced sensors strengthen physical security measures against potential threats.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/nfl-stadium-deploys-manhole-sensors-secure-network-tighten-terror-threat)
+
+---
+
+### 7. Epic Games Store launches on iPhone in Japan, but not one developer has signed on 
+
+Epic Games Store launches on iPhone in Japan post new law. The Mobile Software Competition Act, passed in December 2025, requires digital platforms to support alternative app distribution and payment systems. However, no developers have signed on for the Epic Games Store.
+
+💡 *New law fails to attract developers to Epic Games Store*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112270-epic-games-store-launches-iphone-japan-but-not.html)
+
+---
+
+### 8. A Harvard study shows AI model can outperform physicians in emergency room diagnoses 
+
+A Harvard study found an AI model outperformed physicians in ER diagnoses. The AI model identified a patient's lupus history, a crucial factor in treatment. This improved diagnosis led to better patient outcomes.
+
+💡 *AI models can provide crucial diagnoses missed by human physicians.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112262-openai-model-outperforms-physicians-emergency-room-diagnoses-using.html)
+
+---
+
+### 9. Canonical under sustained DDoS attack as Ubuntu 26 releases Iranian group 313 Team claims responsibility 
+
+Canonical, the company behind Ubuntu, is facing a sustained DDoS attack. The attack coincides with the release of Ubuntu 26. The Iranian group 313 Team has claimed responsibility for the attack.
+
+💡 *Critical infrastructure exposed to cyber threats via operating system releases*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/canonical-under-sustained-ddos-attack-as-ubuntu-26-releases-iranian-group-313-team-claims-responsibility)
+
+---
+
+### 10. Resident Evil's next reboot leans into horror, not just action 
+
+Resident Evil's next reboot shifts focus to horror elements, departing from previous action-oriented approaches. The story revolves around Bryan, a medical courier, and an ominous night. This reboot promises a fresh take on the series.
+
+💡 *Horror-focused reboot may reignite interest in the Resident Evil franchise.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112264-first-trailer-zach-cregger-resident-evil-teases-darker.html)
 
 ---
 

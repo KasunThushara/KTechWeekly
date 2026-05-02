@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of May 01, 2026**
+**Week of May 02, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,39 +7,39 @@
 
 ## 📊 Summary
 - **Articles this week:** 3
-- **Report generated:** 2026-05-01 10:12
+- **Report generated:** 2026-05-02 09:46
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Security researcher just turned the PS5 into a Linux PC, and it can run GTA V at 60fps 
+### 1. Skyrocketing component prices push Big Tech capex to record $725 billion Microsoft alone attributes $25 billion of AI budget to increased memory and chip costs 
 
-A security researcher has successfully turned the PS5 into a Linux PC, allowing it to run GTA V at 60fps. The process uses a patched vulnerability to boot into a Linux environment. However, the setup is not permanent and requires reloading Linux each time the console is rebooted.
+Big Tech companies plan to spend a record $725 billion on capex in 2026, a 77% increase from last year. This surge in spending is largely driven by skyrocketing component prices. Microsoft attributes $25 billion of its AI budget to increased memory and chip costs.
 
-💡 *PS5 can now be repurposed as a high-performance gaming PC temporarily.*
+💡 *Rising component prices fuel Big Tech's record-breaking capex spending surge*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112250-security-researcher-turned-ps5-linux-pc-can-run.html)
-
----
-
-### 2. Homebrew PlayStation DualSense controller adapter for PC can be built for just $20 with a Raspberry Pi Pico wireless dongle delivers adaptive triggers and haptic feedback to gamers 
-
-A PC gaming enthusiast has created a DIY adapter for the Sony DualSense controller, allowing Windows users to access its features wirelessly. The DS5Dongle utilizes a Raspberry Pi Pico wireless dongle to deliver adaptive triggers and haptic feedback. This adapter can be built for under $20.
-
-💡 *Wireless access to DualSense features on PC for under $20*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/homebrew-playstation-dualsense-controller-adapter-for-pc-can-be-built-for-just-usd20-with-a-raspberry-pi-pico-wireless-dongle-delivers-adaptive-triggers-and-haptic-feedback-to-gamers)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/microsoft-attributed-25-billion-of-its-record-ai-budget-to-memory-chip-costs)
 
 ---
 
-### 3. Apple is giving up on the Vision Pro after weak sales and high return rates 
+### 2. ASML's roadmap for chipmaking lithography tools examined from DUV to Low-NA, High-NA, Hyper-NA, and beyond 
 
-Apple has reportedly ceased development of the Vision Pro due to weak sales. The upgraded model failed to lift lukewarm sales, with only a few hundred thousand units sold. Production was dramatically cut after launching the AR headset in 2024.
+ASML shipped 48 EUV and 131 immersion DUV tools in 2025, generating $32.7 billion in revenue. This was accompanied by a $38.8 billion order backlog. The company continues to play a crucial role in the chipmaking industry.
 
-💡 *Apple's AR headset strategy faces significant commercial challenges ahead.*
+💡 *Accelerating semiconductor advancements with cutting-edge lithography technology matters*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112244-apple-giving-up-vision-pro-after-weak-sales.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/asml-lithograpy-roadmap-examined-from-duv-to-hyper-na)
+
+---
+
+### 3. Samsung's chip profit jumped nearly 50-fold in a single year, execs warn the shortage will get worse 
+
+Samsung's semiconductor operating profit surged nearly 50-fold to $36.15 billion in Q1.
+
+💡 *Supply chain shortage of semiconductors is expected to worsen significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112263-ai-demand-pushes-samsung-chip-profits-record-highs.html)
 
 ---
 
