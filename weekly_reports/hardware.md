@@ -1,75 +1,85 @@
 # 💻 Hardware
-**Week of May 02, 2026**
+**Week of May 03, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-05-02 09:46
+- **Articles this week:** 7
+- **Report generated:** 2026-05-03 09:54
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Biwin M350 2TB SSD Review: A Better Budget Alternative? ⭐
+### 1. Gigabyte Z890 Aorus Elite Duo X Motherboard Review: CQDIMM support with Arrow Lake Refresh 
 
-The Biwin M350 offers a budget-friendly PCIe 4.0 SSD with good performance and power efficiency, but it still suffers from the limitations of QLC flash in sustained performance.
+The Gigabyte Z890 Aorus Elite Duo X motherboard offers a balanced mid-range package with Arrow Lake Refresh support, native CQDIMM compatibility, and ample connectivity options, all at a sub-$280 price.
 
-💡 *Budget SSDs can deliver surprisingly good performance with the right specs.*
+💡 *Native CQDIMM support expands storage options for users.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/biwin-m350-2tb-ssd-review)
-
----
-
-### 2. Prunt Board 3 3D printer control board offers smoother and quieter operation (Crowdfunding) 
-
-The Prunt Board 3 is a 3D printer control board designed for smoother and quieter operation, featuring advanced hardware and firmware capabilities.
-
-💡 *Smoothers 3D printing with 31-phase velocity profiles and hardware acceleration.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/02/prunt-board-3-3d-printer-control-board-offers-smoother-and-quieter-operation/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890-aorus-elite-duo-x-motherboard-review)
 
 ---
 
-### 3. Microsoft begins rolling out Xbox Mode to Windows 11 desktops and laptops consolidated storefronts and console-style interface come to PC 
+### 2. Banana Pi BPI-OM7 AI 3D camera pairs BPI-M7 RK3588 SBC with ORBBEC Gemini 2 depth camera 
 
-Microsoft is rolling out Xbox Mode to Windows 11, replacing the standard desktop with an Xbox-style interface designed for gamepad navigation. This update aims to bring a console-like experience to PC gamers. The interface is optimized for gamepad control.
+The Banana Pi BPI-OM7 is a 3D depth camera that combines a Rockchip RK3588 SBC with an ORBBEC Gemini 2 depth camera, suitable for applications in 3D vision, robotics, and edge AI.
 
-💡 *Gaming on PC just got a console-like makeover experience*
+💡 *Enables high-precision 3D vision and edge AI capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/microsoft-begins-rolling-out-xbox-mode-to-windows-11-desktops-and-laptops)
-
----
-
-### 4. Huawei could seize China s AI chip crown in 2026 as Nvidia's H200 shipments stall in regulatory limbo Beijing pushes homegrown AI hardware dominance in a market projected to hit $67 billion by 2030 
-
-Huawei is poised to lead China's AI chip market as Nvidia faces export restrictions, potentially becoming the top AI chip supplier in China. Analysts predict China's domestic AI chip market will reach $67 billion by 2030. The market shift could cement China's dominance in AI technology.
-
-💡 *China's AI chip market dominance has significant global tech implications.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-could-seize-chinas-ai-chip-crown-in-2026-as-nvidias-h200-shipments-stall-in-regulatory-limbo-beijing-pushes-homegrown-ai-hardware-dominance-in-a-market-projected-to-hit-usd67-billion-by-2030)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/03/banana-pi-bpi-om7-ai-3d-camera-pairs-bpi-m7-rk3588-sbc-with-orbbec-gemini-2-depth-camera/)
 
 ---
 
-### 5. Slimline Commodore 64C Ultimate Edition computers go up for pre-order firm reintroduces the C64 s sleeker 1986-1994 styling across the range 
+### 3. Celebrate Star Wars Day 2026 with these upgrades to your gaming PC setup May the 4th bring you peace and prosperity with brand-new peripherals, games, collectibles, and more 
 
-The Commodore 64C Ultimate Edition features the C64's sleeker 1986-1994 styling, recreated using original molds and tooling, going up for pre-order.
+Upgrade your gaming PC setup with Star Wars-themed peripherals, games, and collectibles. May the Fourth marks the perfect opportunity to turn your gaming space into an immersive Star Wars experience. Get ready to join the Rebel Alliance with these epic upgrades.
 
-💡 *Nostalgic design revival sparks interest among retro computing enthusiasts and collectors.*
+💡 *Enhance your gaming setup with Star Wars-themed tech and accessories.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/slimline-commodore-64c-ultimate-edition-computers-go-up-for-pre-order-firm-reintroduces-the-c64s-sleeker-1986-1994-styling-across-the-range)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/celebrate-star-wars-day-2026-with-these-upgrades-to-your-gaming-pc-setup-may-the-4th-bring-you-peace-and-prosperity-with-brand-new-peripherals-games-collectibles-and-more)
 
 ---
 
-### 6. Save a huge $400 on this Acer Predator OLED gaming laptop with an RTX 5070 Ti and 32GB DDR5, now under $1,800 big saving on Helios Neo 16S AI rig that ships with a 24-core Intel CPU, 1TB SSD, and a 240Hz refresh rate 
+### 4. Tech teardown specialist delids a Xeon with a blowtorch and hunting knife wood chopping block makes a worthy stage for the sacrifice 
 
-Best Buy offers the Acer Predator Helios Neo 16S AI laptop at a discounted price of $1,799.99, which is $400 less than its original price. This gaming laptop features a powerful RTX 5070 Ti, 32GB of DDR5 RAM, and a 240Hz OLED display. It also comes with a 24-core Intel CPU and 1TB SSD.
+The Hackinator delids an Intel Xeon Silver 4110 processor using a blowtorch and hunting knife, demonstrating an unconventional approach to processor disassembly. This method may be useful for specific use cases or educational purposes. The process involves careful handling and safety precautions.
 
-💡 *Gaming laptops with AI and high-end specs become more affordable.*
+💡 *Unconventional techniques can reveal processor design details for educational purposes.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/save-a-huge-usd400-on-this-acer-predator-oled-gaming-laptop-with-an-rtx-5070-ti-and-32gb-ddr5-now-under-usd1-800-big-saving-on-helios-neo-16s-ai-rig-that-ships-with-a-24-core-intel-cpu-1tb-ssd-and-a-240hz-refresh-rate)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/tech-teardown-specialist-delids-a-xeon-with-a-blowtorch-and-hunting-knife-wood-chopping-block-makes-a-worthy-stage-for-the-sacrifice)
+
+---
+
+### 5. A $7 Raspberry Pi can do something Sony refuses to: give the DualSense wireless haptics on PC 
+
+A Raspberry Pi mod enables wireless DualSense haptics on PC, appealing to gamers.
+
+💡 *Affordable wireless haptics for PC gaming becomes a viable option.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112272-7-raspberry-pi-can-do-something-sony-refuses.html)
+
+---
+
+### 6. This is Why You Won't Buy a Steam Machine in 2026 
+
+Valve's Steam Machine failed to become an affordable gaming PC due to rising memory and storage costs. This has made the initial dream of a budget-friendly option unattainable. The project's viability has been severely impacted as a result.
+
+💡 *Rising memory and storage prices killed Steam Machine affordability.*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3119-no-steam-machine-yet/)
+
+---
+
+### 7. Artemis II with four crew aboard lifts off for Moon 
+
+The Artemis II mission successfully launched with four astronauts on board, marking a significant milestone in the United States' return to lunar exploration. The Space Flight System and rocket propelled the Orion space capsule into space on schedule. This historic mission paves the way for future human exploration of the Moon.
+
+💡 *First crewed mission to the Moon since the Apollo era*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/artemis-ii-four-crew-aboard-lifts-moon)
 
 ---
 

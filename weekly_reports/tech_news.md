@@ -1,115 +1,105 @@
 # 📰 Tech News
-**Week of May 02, 2026**
+**Week of May 03, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-05-02 09:46
+- **Articles this week:** 9
+- **Report generated:** 2026-05-03 09:54
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Biwin M350 2TB SSD Review: A Better Budget Alternative? ⭐
+### 1. 45 years later, earliest DOS source code transcribed from a stack of old printouts found in a garage code was open-sourced to mark 86-DOS 1.00 s anniversary 
 
-The Biwin M350 offers a budget-friendly PCIe 4.0 SSD with good performance and power efficiency, but it still suffers from the limitations of QLC flash in sustained performance.
+Microsoft has made 86-DOS 1.00 open-source to mark its 45th anniversary. This release provides access to early operating system history. The source code is now freely available for developers.
 
-💡 *Budget SSDs can deliver surprisingly good performance with the right specs.*
+💡 *Preserving legacy code for future innovation and historical context.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/biwin-m350-2tb-ssd-review)
-
----
-
-### 2. Prunt Board 3 3D printer control board offers smoother and quieter operation (Crowdfunding) 
-
-The Prunt Board 3 is a 3D printer control board designed for smoother and quieter operation, featuring advanced hardware and firmware capabilities.
-
-💡 *Smoothers 3D printing with 31-phase velocity profiles and hardware acceleration.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/02/prunt-board-3-3d-printer-control-board-offers-smoother-and-quieter-operation/)
+🔗 [Read Full Article](https://www.tomshardware.com/software/operating-systems/45-years-later-earliest-dos-source-code-transcribed-from-a-stack-of-old-printouts-found-in-a-garage-code-was-open-sourced-to-mark-86-dos-1-00s-anniversary)
 
 ---
 
-### 3. Microsoft admits Windows 11 lost its way, Nadella pledges to "win back fans" 
+### 2. Gigabyte Z890 Aorus Elite Duo X Motherboard Review: CQDIMM support with Arrow Lake Refresh 
 
-Microsoft's Nadella prioritizes performance, quality, and UX in Windows 11, aiming to win back users. This shift marks a departure from the company's initial strategy for the operating system. The focus is on rebuilding trust with consumers.
+The Gigabyte Z890 Aorus Elite Duo X motherboard offers a balanced mid-range package with Arrow Lake Refresh support, native CQDIMM compatibility, and ample connectivity options, all at a sub-$280 price.
 
-💡 *Microsoft is reorienting Windows 11 to prioritize core user needs again.*
+💡 *Native CQDIMM support expands storage options for users.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112258-microsoft-admits-windows-11-lost-way-nadella-pledges.html)
-
----
-
-### 4. SoftBank plans robotics and AI firm in the US to build data centers aims for $100 billion valuation and an IPO this year 
-
-SoftBank plans AI and robotics startup for data centers, targeting $100 billion valuation and IPO this year in the US.
-
-💡 *Massive data center expansion could drive AI innovation and growth.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/softbank-plans-robotics-and-ai-firm-in-the-us-to-build-data-centers-aims-for-usd100-billion-valuation-and-an-ipo-this-year)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890-aorus-elite-duo-x-motherboard-review)
 
 ---
 
-### 5. Linux exploit instantly grants administrator access on most distributions since 2017 cryptography optimization snafu grants root privileges to local users 
+### 3. We tested supercharging the RTX 5090 in PhysX games using an RTX 5060 as a secondary GPU SLI may be dead, but how much can dual GPUs boost performance in classic PhysX titles? 
 
-A zero-day exploit, stemming from a 2017 cryptography optimization, grants administrator access on most Linux distributions, potentially compromising the security of millions of systems.
+We tested supercharging the RTX 5090 with a secondary RTX 5060 GPU in classic PhysX titles like Batman Arkham games to see the performance boost.
 
-💡 *2017 cryptography optimization vulnerability leaves massive Linux user base exposed*
+💡 *Dual GPUs offer significant performance gains in legacy 32-bit PhysX games.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/linux-exploit-instantly-grants-administrator-access-on-most-distributions-since-2017-cryptography-optimization-snafu-grants-root-privileges-to-local-users)
-
----
-
-### 6. NFL stadium deploys manhole sensors to secure network, tighten terror threat security 
-
-Sensor Works deploys rugged sensors on manhole covers to prevent tampering and enhance security.
-
-💡 *Advanced sensors strengthen physical security measures against potential threats.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/nfl-stadium-deploys-manhole-sensors-secure-network-tighten-terror-threat)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/supercharging-the-rtx-5090-in-physx-games-using-an-rtx-5060-as-a-secondary-gpu-sli-may-be-dead-but-how-much-can-dual-gpus-boost-performance-in-classic-physx-titles)
 
 ---
 
-### 7. Epic Games Store launches on iPhone in Japan, but not one developer has signed on 
+### 4. This Early Access pirate game was quietly killing your SSD without you knowing 
 
-Epic Games Store launches on iPhone in Japan post new law. The Mobile Software Competition Act, passed in December 2025, requires digital platforms to support alternative app distribution and payment systems. However, no developers have signed on for the Epic Games Store.
+Windrose, a pirate game in Early Access, was quietly causing SSD damage due to a bug. The game's procedural generation and gameplay mechanics led to excessive write operations, resulting in wear and tear on the storage device. This issue was only discovered after players began reporting problems.
 
-💡 *New law fails to attract developers to Epic Games Store*
+💡 *Unnoticed game bugs can silently damage your SSD.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112270-epic-games-store-launches-iphone-japan-but-not.html)
-
----
-
-### 8. A Harvard study shows AI model can outperform physicians in emergency room diagnoses 
-
-A Harvard study found an AI model outperformed physicians in ER diagnoses. The AI model identified a patient's lupus history, a crucial factor in treatment. This improved diagnosis led to better patient outcomes.
-
-💡 *AI models can provide crucial diagnoses missed by human physicians.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112262-openai-model-outperforms-physicians-emergency-room-diagnoses-using.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112271-early-access-pirate-game-quietly-killing-ssd-without.html)
 
 ---
 
-### 9. Canonical under sustained DDoS attack as Ubuntu 26 releases Iranian group 313 Team claims responsibility 
+### 5. This must-have miniature Macintosh retro dock gives your M4 Mac Mini a 1980s makeover equipped with a 5-inch HD display and M.2 NVMe SSD slot 
 
-Canonical, the company behind Ubuntu, is facing a sustained DDoS attack. The attack coincides with the release of Ubuntu 26. The Iranian group 313 Team has claimed responsibility for the attack.
+The Wokyis M5 Retro Dock Station transforms your M4 Mac Mini into a retro Macintosh setup. It features a 5-inch HD display, M.2 NVMe SSD slot, and additional ports. This dock enhances your Mac experience with a nostalgic twist.
 
-💡 *Critical infrastructure exposed to cyber threats via operating system releases*
+💡 *Retro Mac makeover brings nostalgic charm to modern tech*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/canonical-under-sustained-ddos-attack-as-ubuntu-26-releases-iranian-group-313-team-claims-responsibility)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/docking-stations-hubs/this-must-have-miniature-macintosh-retro-dock-gives-your-m4-mac-mini-a-1980s-makeover-equipped-with-a-5-inch-hd-display-and-m-2-nvme-ssd-slot)
 
 ---
 
-### 10. Resident Evil's next reboot leans into horror, not just action 
+### 6. FCC votes to ban all Chinese labs from certifying electronics sold in the US due to national security concerns ruling would affect 75 percent of US-bound devices 
 
-Resident Evil's next reboot shifts focus to horror elements, departing from previous action-oriented approaches. The story revolves around Bryan, a medical courier, and an ominous night. This reboot promises a fresh take on the series.
+The FCC bans Chinese labs from certifying US-bound electronics due to security concerns, affecting 75% of devices.
 
-💡 *Horror-focused reboot may reignite interest in the Resident Evil franchise.*
+💡 *Security of US electronics under scrutiny due to foreign lab testing.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112264-first-trailer-zach-cregger-resident-evil-teases-darker.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/fcc-votes-to-ban-all-chinese-labs-from-certifying-electronics-sold-in-the-us)
+
+---
+
+### 7. Redditor gambles $20 on a 4TB Temu external HDD receives a microSD card reader hot-glued inside a plastic box 
+
+A Reddit user purchased a $20 4TB external HDD that turned out to be a microSD card reader, hot-glued to a plastic case, with a card inserted. The device's true nature was a cost-cutting measure by the seller. This highlights the potential for scams in online marketplaces.
+
+💡 *Online marketplace scams often involve deceptive packaging and labeling.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-hdds/redditor-gambles-usd20-on-a-4tb-temu-external-hdd-receives-a-microsd-card-reader-hot-glued-inside-a-plastic-box)
+
+---
+
+### 8. GameStop wants to buy eBay in an aggressive pivot to e-commerce 
+
+GameStop is considering a potential $12 billion bid for eBay, a significant e-commerce acquisition.
+
+💡 *GameStop's aggressive pivot to e-commerce could reshape retail landscape overnight.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112276-gamestop-wants-buy-ebay-aggressive-pivot-e-commerce.html)
+
+---
+
+### 9. NASA contractors supply an array of sensing tech for Artemis II 
+
+NASA contractors are providing advanced sensing technologies for the Artemis II mission, including sensor fusion and radiation detection systems to enhance the crew's safety and navigation. These technologies will help gather crucial data and provide real-time displays of critical information. The contractors' innovations will play a vital role in the mission's success.
+
+💡 *Accurate sensing tech ensures crew safety in deep space missions.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/nasa-contractors-supply-array-sensing-tech-artemis-ii)
 
 ---
 
