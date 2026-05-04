@@ -1,45 +1,55 @@
 # ⚡ Semiconductors
-**Week of May 03, 2026**
+**Week of May 04, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 3
-- **Report generated:** 2026-05-03 09:54
+- **Articles this week:** 4
+- **Report generated:** 2026-05-04 10:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Banana Pi BPI-OM7 AI 3D camera pairs BPI-M7 RK3588 SBC with ORBBEC Gemini 2 depth camera 
+### 1. Boardcon PICOT536 SoM and EMT536 SBC feature Allwinner T536 Edge AI processor ⭐
 
-The Banana Pi BPI-OM7 is a 3D depth camera that combines a Rockchip RK3588 SBC with an ORBBEC Gemini 2 depth camera, suitable for applications in 3D vision, robotics, and edge AI.
+Boardcon's PICOT536 SoM and EMT536 SBC feature the Allwinner T536 Edge AI processor, suitable for industrial HMI, machine vision, and robotics applications. The module is equipped with a quad-core Arm Cortex-A55 CPU, RISC-V coprocessors, and a 2 TOPS NPU for edge AI processing.
 
-💡 *Enables high-precision 3D vision and edge AI capabilities.*
+💡 *Advances edge AI computing capabilities in industrial automation applications.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/03/banana-pi-bpi-om7-ai-3d-camera-pairs-bpi-m7-rk3588-sbc-with-orbbec-gemini-2-depth-camera/)
-
----
-
-### 2. Apple warns Mac mini and Mac Studio shortages could last for months local AI boom and memory crunch drive demand beyond Apple s manufacturing capacity 
-
-Apple warns of ongoing shortages for Mac mini and Mac Studio due to high demand from developers seeking high-memory systems for running local AI models and agentic AI workloads. The shortages are expected to last for months. Local AI boom and memory crunch contribute to the issue.
-
-💡 *High-memory AI demand outstrips Apple's manufacturing capacity and supply*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/apple-warns-mac-mini-and-mac-studio-shortages-could-last-for-months-local-ai-boom-and-memory-crunch-drive-demand-beyond-apples-manufacturing-capacity)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/04/boardcon-picot536-som-and-emt536-sbc-feature-allwinner-t536-edge-ai-processor/)
 
 ---
 
-### 3. A $7 Raspberry Pi can do something Sony refuses to: give the DualSense wireless haptics on PC 
+### 2. AMD Versal Prime VM2152 mid-range adaptive SoC features 112 Gbps GTM Transceivers, 600Gbps Ethernet, DDR5/LPDDR5 ⭐
 
-A Raspberry Pi mod enables wireless DualSense haptics on PC, appealing to gamers.
+AMD's Versal Prime VM2152 is a mid-range adaptive SoC offering high-speed connectivity, 112 Gbps transceivers, and 600 Gbps Ethernet, balancing programmable logic with hardened IP blocks for power-efficient performance.
 
-💡 *Affordable wireless haptics for PC gaming becomes a viable option.*
+💡 *High-speed connectivity with power efficiency for wired comms and aerospace applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112272-7-raspberry-pi-can-do-something-sony-refuses.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/04/amd-versal-prime-vm2152-mid-range-adaptive-soc-features-112-gbps-gtm-transceivers-600gbps-ethernet-ddr5-lpddr5/)
+
+---
+
+### 3. Anthropic in early talks to buy DRAM-less AI inference chips from UK startup Fractile's SRAM architecture reduces need for pricey memory during extreme pricing and shortage crunch 
+
+Anthropic holds talks with Fractile to acquire DRAM-less AI inference chips.
+
+💡 *Fractile's SRAM architecture mitigates DRAM shortages and pricing pressures.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-in-early-talks-to-buy-inference-chips-from-uk-startup-fractile)
+
+---
+
+### 4. AMD Ryzen 9 PRO 9965X3D spotted on Passmark company's first PRO chip with 3D V-Cache also bumps the lineup up to 16 cores 
+
+The AMD Ryzen 9 PRO 9965X3D is a 16-core Zen 5 chip with 3D V-Cache, marking the first PRO series processor with this technology. It is based on the 9950X3D and likely has a lower TDP. Three samples of this processor have appeared on PassMark.
+
+💡 *First PRO chip with 3D V-Cache technology introduced.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-pro-9965x3d-spotted-on-passmark-companys-first-pro-chip-with-3d-v-cache-also-bumps-the-lineup-up-to-16-cores)
 
 ---
 

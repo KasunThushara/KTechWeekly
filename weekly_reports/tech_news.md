@@ -1,105 +1,75 @@
 # 📰 Tech News
-**Week of May 03, 2026**
+**Week of May 04, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-05-03 09:54
+- **Articles this week:** 6
+- **Report generated:** 2026-05-04 10:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. 45 years later, earliest DOS source code transcribed from a stack of old printouts found in a garage code was open-sourced to mark 86-DOS 1.00 s anniversary 
+### 1. Crushing shortages have pushed long-term supply agreements for SSDs and HDDs to record five years large customers are signing large contracts 
 
-Microsoft has made 86-DOS 1.00 open-source to mark its 45th anniversary. This release provides access to early operating system history. The source code is now freely available for developers.
+Demand for storage devices has reached record highs, prompting large customers to sign long-term supply agreements with major manufacturers like Sandisk, Seagate, and Western Digital, potentially committing to up to five years.
 
-💡 *Preserving legacy code for future innovation and historical context.*
+💡 *Supply chain commitments are adapting to unprecedented storage demand.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/operating-systems/45-years-later-earliest-dos-source-code-transcribed-from-a-stack-of-old-printouts-found-in-a-garage-code-was-open-sourced-to-mark-86-dos-1-00s-anniversary)
-
----
-
-### 2. Gigabyte Z890 Aorus Elite Duo X Motherboard Review: CQDIMM support with Arrow Lake Refresh 
-
-The Gigabyte Z890 Aorus Elite Duo X motherboard offers a balanced mid-range package with Arrow Lake Refresh support, native CQDIMM compatibility, and ample connectivity options, all at a sub-$280 price.
-
-💡 *Native CQDIMM support expands storage options for users.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890-aorus-elite-duo-x-motherboard-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/crushing-shortages-have-pushed-long-term-supply-agreements-for-ssds-and-hdds-to-record-five-years-large-customers-are-signing-large-contracts)
 
 ---
 
-### 3. We tested supercharging the RTX 5090 in PhysX games using an RTX 5060 as a secondary GPU SLI may be dead, but how much can dual GPUs boost performance in classic PhysX titles? 
+### 2. A suspected YouTube interface bug spikes RAM usage above 7 gigabytes, users report severe lag and frozen tabs bug might be trapping browsers in an endless layout loop 
 
-We tested supercharging the RTX 5090 with a secondary RTX 5060 GPU in classic PhysX titles like Batman Arkham games to see the performance boost.
+YouTube users report severe lag and frozen tabs due to a suspected UI bug, which causes browsers to consume massive amounts of RAM. The issue is thought to be triggered by endless layout recalculations. Developers are working to resolve the problem.
 
-💡 *Dual GPUs offer significant performance gains in legacy 32-bit PhysX games.*
+💡 *Endless layout loops can cripple browser performance and RAM.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/supercharging-the-rtx-5090-in-physx-games-using-an-rtx-5060-as-a-secondary-gpu-sli-may-be-dead-but-how-much-can-dual-gpus-boost-performance-in-classic-physx-titles)
-
----
-
-### 4. This Early Access pirate game was quietly killing your SSD without you knowing 
-
-Windrose, a pirate game in Early Access, was quietly causing SSD damage due to a bug. The game's procedural generation and gameplay mechanics led to excessive write operations, resulting in wear and tear on the storage device. This issue was only discovered after players began reporting problems.
-
-💡 *Unnoticed game bugs can silently damage your SSD.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112271-early-access-pirate-game-quietly-killing-ssd-without.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/a-suspected-youtube-interface-bug-spikes-ram-usage-above-7-gigabytes-users-report-severe-lag-and-frozen-tabs-bug-might-be-trapping-browsers-in-an-endless-layout-loop)
 
 ---
 
-### 5. This must-have miniature Macintosh retro dock gives your M4 Mac Mini a 1980s makeover equipped with a 5-inch HD display and M.2 NVMe SSD slot 
+### 3. Utah first state to hold websites liable for users who mask their location with VPNs law goes into effect, designed to prevent bypassing age checks 
 
-The Wokyis M5 Retro Dock Station transforms your M4 Mac Mini into a retro Macintosh setup. It features a 5-inch HD display, M.2 NVMe SSD slot, and additional ports. This dock enhances your Mac experience with a nostalgic twist.
+Utah's Online Age Verification Amendments (Senate Bill 73) take effect on May 6, making it the first state to hold websites liable for users who mask their location with VPNs to bypass age checks.
 
-💡 *Retro Mac makeover brings nostalgic charm to modern tech*
+💡 *Age verification online regulations gain traction in the US.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/docking-stations-hubs/this-must-have-miniature-macintosh-retro-dock-gives-your-m4-mac-mini-a-1980s-makeover-equipped-with-a-5-inch-hd-display-and-m-2-nvme-ssd-slot)
-
----
-
-### 6. FCC votes to ban all Chinese labs from certifying electronics sold in the US due to national security concerns ruling would affect 75 percent of US-bound devices 
-
-The FCC bans Chinese labs from certifying US-bound electronics due to security concerns, affecting 75% of devices.
-
-💡 *Security of US electronics under scrutiny due to foreign lab testing.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/fcc-votes-to-ban-all-chinese-labs-from-certifying-electronics-sold-in-the-us)
+🔗 [Read Full Article](https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law)
 
 ---
 
-### 7. Redditor gambles $20 on a 4TB Temu external HDD receives a microSD card reader hot-glued inside a plastic box 
+### 4. A startup says it can replace home sprinklers with sound waves. Fire safety experts say show us the data 
 
-A Reddit user purchased a $20 4TB external HDD that turned out to be a microSD card reader, hot-glued to a plastic case, with a card inserted. The device's true nature was a cost-cutting measure by the seller. This highlights the potential for scams in online marketplaces.
+A startup claims sound waves can replace home sprinklers for fire safety, but experts demand evidence.
 
-💡 *Online marketplace scams often involve deceptive packaging and labeling.*
+💡 *Acoustic fire suppression has been studied for years with existing data.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-hdds/redditor-gambles-usd20-on-a-4tb-temu-external-hdd-receives-a-microsd-card-reader-hot-glued-inside-a-plastic-box)
-
----
-
-### 8. GameStop wants to buy eBay in an aggressive pivot to e-commerce 
-
-GameStop is considering a potential $12 billion bid for eBay, a significant e-commerce acquisition.
-
-💡 *GameStop's aggressive pivot to e-commerce could reshape retail landscape overnight.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112276-gamestop-wants-buy-ebay-aggressive-pivot-e-commerce.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112278-startup-can-replace-home-sprinklers-sound-waves-fire.html)
 
 ---
 
-### 9. NASA contractors supply an array of sensing tech for Artemis II 
+### 5. This $170 retro-style dock gives your Mac mini a tiny screen and upgradeable storage 
 
-NASA contractors are providing advanced sensing technologies for the Artemis II mission, including sensor fusion and radiation detection systems to enhance the crew's safety and navigation. These technologies will help gather crucial data and provide real-time displays of critical information. The contractors' innovations will play a vital role in the mission's success.
+Wokyis offers a retro-styled dock for Mac mini with NVMe storage and extra ports.
 
-💡 *Accurate sensing tech ensures crew safety in deep space missions.*
+💡 *Enhances Mac mini's functionality without sacrificing its compact design.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/nasa-contractors-supply-array-sensing-tech-artemis-ii)
+🔗 [Read Full Article](https://www.techspot.com/news/112279-170-retro-style-dock-gives-mac-mini-tiny.html)
+
+---
+
+### 6. The Sega Genesis is the latest classic console to get the Lego treatment 
+
+The Lego Sega Genesis console model will be available on June 1, priced at $39.99. The set comprises 479 pieces, allowing for a compact yet detailed replica of the original console. It measures 4.5 inches long and six inches wide.
+
+💡 *Nostalgic gamers can relive retro console memories with Lego models*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112275-sega-genesis-latest-classic-console-get-lego-treatment.html)
 
 ---
 

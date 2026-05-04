@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of May 03, 2026**
+**Week of May 04, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. 45 years later, earliest DOS source code transcribed from a stack of old printouts found in a garage code was open-sourced to mark 86-DOS 1.00 s anniversary 
+### 1. Boardcon PICOT536 SoM and EMT536 SBC feature Allwinner T536 Edge AI processor ⭐
 
-**📰 Tech News**
+**⚡ Semiconductors**
 
-Microsoft has made 86-DOS 1.00 open-source to mark its 45th anniversary. This release provides access to early operating system history. The source code is now freely available for developers.
+Boardcon's PICOT536 SoM and EMT536 SBC feature the Allwinner T536 Edge AI processor, suitable for industrial HMI, machine vision, and robotics applications. The module is equipped with a quad-core Arm Cortex-A55 CPU, RISC-V coprocessors, and a 2 TOPS NPU for edge AI processing.
 
-💡 **Key Point:** Preserving legacy code for future innovation and historical context.
+💡 **Key Point:** Advances edge AI computing capabilities in industrial automation applications.
 
-🔗 [Read More](https://www.tomshardware.com/software/operating-systems/45-years-later-earliest-dos-source-code-transcribed-from-a-stack-of-old-printouts-found-in-a-garage-code-was-open-sourced-to-mark-86-dos-1-00s-anniversary)
-
----
-
-### 2. Gigabyte Z890 Aorus Elite Duo X Motherboard Review: CQDIMM support with Arrow Lake Refresh 
-
-**📰 Tech News**
-
-The Gigabyte Z890 Aorus Elite Duo X motherboard offers a balanced mid-range package with Arrow Lake Refresh support, native CQDIMM compatibility, and ample connectivity options, all at a sub-$280 price.
-
-💡 **Key Point:** Native CQDIMM support expands storage options for users.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890-aorus-elite-duo-x-motherboard-review)
+🔗 [Read More](https://www.cnx-software.com/2026/05/04/boardcon-picot536-som-and-emt536-sbc-feature-allwinner-t536-edge-ai-processor/)
 
 ---
 
-### 3. We tested supercharging the RTX 5090 in PhysX games using an RTX 5060 as a secondary GPU SLI may be dead, but how much can dual GPUs boost performance in classic PhysX titles? 
+### 2. Boardcon PICOT536 SoM and EMT536 SBC feature Allwinner T536 Edge AI processor ⭐
 
-**📰 Tech News**
+**💻 Hardware**
 
-We tested supercharging the RTX 5090 with a secondary RTX 5060 GPU in classic PhysX titles like Batman Arkham games to see the performance boost.
+Boardcon's PICOT536 SoM and EMT536 SBC feature the Allwinner T536 Edge AI processor, suitable for industrial HMI, machine vision, and robotics applications. The module is equipped with a quad-core Arm Cortex-A55 CPU, RISC-V coprocessors, and a 2 TOPS NPU for edge AI processing.
 
-💡 **Key Point:** Dual GPUs offer significant performance gains in legacy 32-bit PhysX games.
+💡 **Key Point:** Advances edge AI computing capabilities in industrial automation applications.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/supercharging-the-rtx-5090-in-physx-games-using-an-rtx-5060-as-a-secondary-gpu-sli-may-be-dead-but-how-much-can-dual-gpus-boost-performance-in-classic-physx-titles)
-
----
-
-### 4. This Early Access pirate game was quietly killing your SSD without you knowing 
-
-**📰 Tech News**
-
-Windrose, a pirate game in Early Access, was quietly causing SSD damage due to a bug. The game's procedural generation and gameplay mechanics led to excessive write operations, resulting in wear and tear on the storage device. This issue was only discovered after players began reporting problems.
-
-💡 **Key Point:** Unnoticed game bugs can silently damage your SSD.
-
-🔗 [Read More](https://www.techspot.com/news/112271-early-access-pirate-game-quietly-killing-ssd-without.html)
+🔗 [Read More](https://www.cnx-software.com/2026/05/04/boardcon-picot536-som-and-emt536-sbc-feature-allwinner-t536-edge-ai-processor/)
 
 ---
 
-### 5. 45 years later, earliest DOS source code transcribed from a stack of old printouts found in a garage code was open-sourced to mark 86-DOS 1.00 s anniversary 
+### 3. AMD Versal Prime VM2152 mid-range adaptive SoC features 112 Gbps GTM Transceivers, 600Gbps Ethernet, DDR5/LPDDR5 ⭐
 
-**🤖 AI & ML**
+**⚡ Semiconductors**
 
-Microsoft has made 86-DOS 1.00 open-source to mark its 45th anniversary. This release provides access to early operating system history. The source code is now freely available for developers.
+AMD's Versal Prime VM2152 is a mid-range adaptive SoC offering high-speed connectivity, 112 Gbps transceivers, and 600 Gbps Ethernet, balancing programmable logic with hardened IP blocks for power-efficient performance.
 
-💡 **Key Point:** Preserving legacy code for future innovation and historical context.
+💡 **Key Point:** High-speed connectivity with power efficiency for wired comms and aerospace applications.
 
-🔗 [Read More](https://www.tomshardware.com/software/operating-systems/45-years-later-earliest-dos-source-code-transcribed-from-a-stack-of-old-printouts-found-in-a-garage-code-was-open-sourced-to-mark-86-dos-1-00s-anniversary)
+🔗 [Read More](https://www.cnx-software.com/2026/05/04/amd-versal-prime-vm2152-mid-range-adaptive-soc-features-112-gbps-gtm-transceivers-600gbps-ethernet-ddr5-lpddr5/)
+
+---
+
+### 4. AMD Versal Prime VM2152 mid-range adaptive SoC features 112 Gbps GTM Transceivers, 600Gbps Ethernet, DDR5/LPDDR5 ⭐
+
+**💻 Hardware**
+
+AMD's Versal Prime VM2152 is a mid-range adaptive SoC offering high-speed connectivity, 112 Gbps transceivers, and 600 Gbps Ethernet, balancing programmable logic with hardened IP blocks for power-efficient performance.
+
+💡 **Key Point:** High-speed connectivity with power efficiency for wired comms and aerospace applications.
+
+🔗 [Read More](https://www.cnx-software.com/2026/05/04/amd-versal-prime-vm2152-mid-range-adaptive-soc-features-112-gbps-gtm-transceivers-600gbps-ethernet-ddr5-lpddr5/)
+
+---
+
+### 5. Anthropic in early talks to buy DRAM-less AI inference chips from UK startup Fractile's SRAM architecture reduces need for pricey memory during extreme pricing and shortage crunch 
+
+**⚡ Semiconductors**
+
+Anthropic holds talks with Fractile to acquire DRAM-less AI inference chips.
+
+💡 **Key Point:** Fractile's SRAM architecture mitigates DRAM shortages and pricing pressures.
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-in-early-talks-to-buy-inference-chips-from-uk-startup-fractile)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **31 articles** across **5 focused categories**.
+We covered **33 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 6 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 7 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 10 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 8 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 6 articles
+*Artificial Intelligence and Machine Learning* — 10 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 6 articles
+*Graphics cards and compute accelerators* — 5 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 7 articles
+*Computing hardware and development boards* — 8 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 3 articles
+*Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 9 articles
+*Industry news and product launches* — 6 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-05-03 at 09:54 by an autonomous AI curation system.
+Generated 2026-05-04 at 10:35 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

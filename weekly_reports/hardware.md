@@ -1,85 +1,95 @@
 # 💻 Hardware
-**Week of May 03, 2026**
+**Week of May 04, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-05-03 09:54
+- **Articles this week:** 8
+- **Report generated:** 2026-05-04 10:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Gigabyte Z890 Aorus Elite Duo X Motherboard Review: CQDIMM support with Arrow Lake Refresh 
+### 1. Boardcon PICOT536 SoM and EMT536 SBC feature Allwinner T536 Edge AI processor ⭐
 
-The Gigabyte Z890 Aorus Elite Duo X motherboard offers a balanced mid-range package with Arrow Lake Refresh support, native CQDIMM compatibility, and ample connectivity options, all at a sub-$280 price.
+Boardcon's PICOT536 SoM and EMT536 SBC feature the Allwinner T536 Edge AI processor, suitable for industrial HMI, machine vision, and robotics applications. The module is equipped with a quad-core Arm Cortex-A55 CPU, RISC-V coprocessors, and a 2 TOPS NPU for edge AI processing.
 
-💡 *Native CQDIMM support expands storage options for users.*
+💡 *Advances edge AI computing capabilities in industrial automation applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890-aorus-elite-duo-x-motherboard-review)
-
----
-
-### 2. Banana Pi BPI-OM7 AI 3D camera pairs BPI-M7 RK3588 SBC with ORBBEC Gemini 2 depth camera 
-
-The Banana Pi BPI-OM7 is a 3D depth camera that combines a Rockchip RK3588 SBC with an ORBBEC Gemini 2 depth camera, suitable for applications in 3D vision, robotics, and edge AI.
-
-💡 *Enables high-precision 3D vision and edge AI capabilities.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/03/banana-pi-bpi-om7-ai-3d-camera-pairs-bpi-m7-rk3588-sbc-with-orbbec-gemini-2-depth-camera/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/04/boardcon-picot536-som-and-emt536-sbc-feature-allwinner-t536-edge-ai-processor/)
 
 ---
 
-### 3. Celebrate Star Wars Day 2026 with these upgrades to your gaming PC setup May the 4th bring you peace and prosperity with brand-new peripherals, games, collectibles, and more 
+### 2. AMD Versal Prime VM2152 mid-range adaptive SoC features 112 Gbps GTM Transceivers, 600Gbps Ethernet, DDR5/LPDDR5 ⭐
 
-Upgrade your gaming PC setup with Star Wars-themed peripherals, games, and collectibles. May the Fourth marks the perfect opportunity to turn your gaming space into an immersive Star Wars experience. Get ready to join the Rebel Alliance with these epic upgrades.
+AMD's Versal Prime VM2152 is a mid-range adaptive SoC offering high-speed connectivity, 112 Gbps transceivers, and 600 Gbps Ethernet, balancing programmable logic with hardened IP blocks for power-efficient performance.
 
-💡 *Enhance your gaming setup with Star Wars-themed tech and accessories.*
+💡 *High-speed connectivity with power efficiency for wired comms and aerospace applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/celebrate-star-wars-day-2026-with-these-upgrades-to-your-gaming-pc-setup-may-the-4th-bring-you-peace-and-prosperity-with-brand-new-peripherals-games-collectibles-and-more)
-
----
-
-### 4. Tech teardown specialist delids a Xeon with a blowtorch and hunting knife wood chopping block makes a worthy stage for the sacrifice 
-
-The Hackinator delids an Intel Xeon Silver 4110 processor using a blowtorch and hunting knife, demonstrating an unconventional approach to processor disassembly. This method may be useful for specific use cases or educational purposes. The process involves careful handling and safety precautions.
-
-💡 *Unconventional techniques can reveal processor design details for educational purposes.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/tech-teardown-specialist-delids-a-xeon-with-a-blowtorch-and-hunting-knife-wood-chopping-block-makes-a-worthy-stage-for-the-sacrifice)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/04/amd-versal-prime-vm2152-mid-range-adaptive-soc-features-112-gbps-gtm-transceivers-600gbps-ethernet-ddr5-lpddr5/)
 
 ---
 
-### 5. A $7 Raspberry Pi can do something Sony refuses to: give the DualSense wireless haptics on PC 
+### 3. Enthusiast builds a PC big enough to live in humans in this RGB-lit fish tank case look just like figurines 
 
-A Raspberry Pi mod enables wireless DualSense haptics on PC, appealing to gamers.
+A Chinese TechTuber created a massive tower PC for human-sized operations, equipped with air conditioning, allowing users to work and play comfortably inside. The PC resembles a large RGB-lit fish tank case and features a living space for humans. This innovative design pushes the boundaries of traditional PC construction.
 
-💡 *Affordable wireless haptics for PC gaming becomes a viable option.*
+💡 *Redefining personal computing spaces with giant, functional, self-sustaining PCs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112272-7-raspberry-pi-can-do-something-sony-refuses.html)
-
----
-
-### 6. This is Why You Won't Buy a Steam Machine in 2026 
-
-Valve's Steam Machine failed to become an affordable gaming PC due to rising memory and storage costs. This has made the initial dream of a budget-friendly option unattainable. The project's viability has been severely impacted as a result.
-
-💡 *Rising memory and storage prices killed Steam Machine affordability.*
-
-🔗 [Read Full Article](https://www.techspot.com/article/3119-no-steam-machine-yet/)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/techtuber-builds-a-pc-big-enough-to-live-in-humans-in-this-rgb-lit-fish-tank-case-look-just-like-figurines)
 
 ---
 
-### 7. Artemis II with four crew aboard lifts off for Moon 
+### 4. Nvidia accelerates end-of-life for some Jetson AI processors due to memory shortages RAMpocalypse sends older DDR4-based modules to the great scrapheap in the sky 
 
-The Artemis II mission successfully launched with four astronauts on board, marking a significant milestone in the United States' return to lunar exploration. The Space Flight System and rocket propelled the Orion space capsule into space on schedule. This historic mission paves the way for future human exploration of the Moon.
+Nvidia is accelerating the end-of-life for some Jetson AI processors due to market forces and memory shortages. This is largely a case of market reality catching up, rather than an abrupt discontinuation. Older DDR4-based modules are being phased out. 
 
-💡 *First crewed mission to the Moon since the Apollo era*
+💡 *Memory shortages drive Nvidia to accelerate AI processor end-of-life*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/artemis-ii-four-crew-aboard-lifts-moon)
+🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/nvidia-accelerates-end-of-life-for-some-jetson-ai-processors-due-to-memory-shortages-rampocalypse-sends-older-ddr4-based-modules-to-the-great-scrapheap-in-the-sky)
+
+---
+
+### 5. Japan is deploying ultra-cheap cardboard drones built for swarm warfare and expendable combat missions $2,000 expendable combat drones cost less than some gaming PCs 
+
+Japan is deploying low-cost cardboard drones for swarm warfare and expendable combat missions. The AirKamuy 150 costs around $2,000, making it a cost-effective option for military operations. These drones are designed for mass production and disposal.
+
+💡 *Low-cost drones enable more flexible, expendable military strategies.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/japan-is-deploying-ultra-cheap-cardboard-drones-built-for-swarm-warfare-and-expendable-combat-missions-usd2-000-expendable-combat-drones-cost-less-than-some-gaming-pcs)
+
+---
+
+### 6. Steam Survey: AMD's CPU gains stall as Nvidia's final RTX 5000 desktop GPU appears 
+
+Nvidia's RTX 3060 remains the most popular GPU among Steam survey participants.
+
+💡 *Nvidia's GPU dominance unmoved by AMD's CPU gains.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112281-steam-survey-amd-cpu-gains-stall-nvidia-final.html)
+
+---
+
+### 7. Japan is building military drones out of cardboard, and they're faster and cheaper than you'd expect 
+
+Japan's defense ministry is partnering with Air Kamuy to develop cardboard drones. These drones are reportedly faster and cheaper than expected. This collaboration aims to make Japan a leader in low-cost drone production.
+
+💡 *Cardboard drones challenge traditional materials in modern warfare applications.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112274-japan-building-military-drones-out-cardboard-theyre-faster.html)
+
+---
+
+### 8. Save $370 on this AMD Ryzen 9 9950X3D2 Dual Edition with an X870E motherboard and 32GB of RAM big savings for your next high-end build 
+
+This Newegg bundle combines AMD's flagship CPU with high-end components at a discounted price, offering cutting-edge performance with practical value.
+
+💡 *High-end components at a discounted price for significant savings opportunities.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-usd370-on-this-amd-ryzen-9-9950x3d2-dual-edition-with-an-x870e-motherboard-and-32gb-of-ram-big-savings-for-your-next-high-end-build)
 
 ---
 

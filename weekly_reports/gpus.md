@@ -1,75 +1,65 @@
 # 🎮 GPUs
-**Week of May 03, 2026**
+**Week of May 04, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-05-03 09:54
+- **Articles this week:** 5
+- **Report generated:** 2026-05-04 10:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. We tested supercharging the RTX 5090 in PhysX games using an RTX 5060 as a secondary GPU SLI may be dead, but how much can dual GPUs boost performance in classic PhysX titles? 
+### 1. AMD Ryzen 9 PRO 9965X3D spotted on Passmark company's first PRO chip with 3D V-Cache also bumps the lineup up to 16 cores 
 
-We tested supercharging the RTX 5090 with a secondary RTX 5060 GPU in classic PhysX titles like Batman Arkham games to see the performance boost.
+The AMD Ryzen 9 PRO 9965X3D is a 16-core Zen 5 chip with 3D V-Cache, marking the first PRO series processor with this technology. It is based on the 9950X3D and likely has a lower TDP. Three samples of this processor have appeared on PassMark.
 
-💡 *Dual GPUs offer significant performance gains in legacy 32-bit PhysX games.*
+💡 *First PRO chip with 3D V-Cache technology introduced.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/supercharging-the-rtx-5090-in-physx-games-using-an-rtx-5060-as-a-secondary-gpu-sli-may-be-dead-but-how-much-can-dual-gpus-boost-performance-in-classic-physx-titles)
-
----
-
-### 2. Retailer selling broken RTX 5090 GPUs for as low as $1,760 GPUs were damaged during transport, but include all components on the PCB 
-
-A French retailer offers defective RTX 5090 GPUs for $1,760-$2,000, requiring repair or recycling. The units come with transport-related damage but include all components on the PCB. Customers can choose between a random variant or an MSI Ventus 3X OC model.
-
-💡 *Affordable, repairable GPUs could mitigate high-end graphics shortages.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/retailer-selling-broken-rtx-5090-gpus-for-as-low-as-usd1-760-gpus-were-damaged-during-transport-but-include-all-components-on-the-pcb)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-pro-9965x3d-spotted-on-passmark-companys-first-pro-chip-with-3d-v-cache-also-bumps-the-lineup-up-to-16-cores)
 
 ---
 
-### 3. Enthusiast creates Peltier thermoelectric cooler from scratch impressive rig uses two 360mm AIOs, homemade DC controllers, and a custom loop 
+### 2. Jensen says Nvidia now has 'zero percent' market share in China says US export policy 'has already largely backfired' 
 
-A YouTuber created a Peltier thermoelectric cooler from scratch, but its effectiveness was limited, consuming over 300 watts of power yet barely cooling an RTX 3070 below ambient temperatures. The homemade DC controllers and custom loop were impressive features of the setup. Unfortunately, the results showed that thermoelectric cooling may not be as effective as expected for GPUs.
+Nvidia co-founder Jensen Huang states China is a lost market due to US sanctions. The US export policy has largely backfired, according to Huang. This may lead to the US losing out in the AI competition.
 
-💡 *Thermoelectric cooling may not be worth the power consumption for GPUs.*
+💡 *US export policy risks harming national interests in global AI competition.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-creates-peltier-thermoelectric-cooler-from-scratch-impressive-rig-uses-two-360mm-aios-homemade-dc-controllers-and-a-custom-loop)
-
----
-
-### 4. Celebrate Star Wars Day 2026 with these upgrades to your gaming PC setup May the 4th bring you peace and prosperity with brand-new peripherals, games, collectibles, and more 
-
-Upgrade your gaming PC setup with Star Wars-themed peripherals, games, and collectibles. May the Fourth marks the perfect opportunity to turn your gaming space into an immersive Star Wars experience. Get ready to join the Rebel Alliance with these epic upgrades.
-
-💡 *Enhance your gaming setup with Star Wars-themed tech and accessories.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/celebrate-star-wars-day-2026-with-these-upgrades-to-your-gaming-pc-setup-may-the-4th-bring-you-peace-and-prosperity-with-brand-new-peripherals-games-collectibles-and-more)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-says-nvidia-now-has-zero-percent-market-share-in-china-says-us-export-policy-has-already-largely-backfired)
 
 ---
 
-### 5. This is Why You Won't Buy a Steam Machine in 2026 
+### 3. Japan is deploying ultra-cheap cardboard drones built for swarm warfare and expendable combat missions $2,000 expendable combat drones cost less than some gaming PCs 
 
-Valve's Steam Machine failed to become an affordable gaming PC due to rising memory and storage costs. This has made the initial dream of a budget-friendly option unattainable. The project's viability has been severely impacted as a result.
+Japan is deploying low-cost cardboard drones for swarm warfare and expendable combat missions. The AirKamuy 150 costs around $2,000, making it a cost-effective option for military operations. These drones are designed for mass production and disposal.
 
-💡 *Rising memory and storage prices killed Steam Machine affordability.*
+💡 *Low-cost drones enable more flexible, expendable military strategies.*
 
-🔗 [Read Full Article](https://www.techspot.com/article/3119-no-steam-machine-yet/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/japan-is-deploying-ultra-cheap-cardboard-drones-built-for-swarm-warfare-and-expendable-combat-missions-usd2-000-expendable-combat-drones-cost-less-than-some-gaming-pcs)
 
 ---
 
-### 6. The Pentagon just signed AI deals with OpenAI, Google, Microsoft, and Nvidia - and cut Anthropic out entirely 
+### 4. Steam Survey: AMD's CPU gains stall as Nvidia's final RTX 5000 desktop GPU appears 
 
-The Pentagon signed AI deals with major tech companies, excluding Anthropic. The move aims to stay competitive in technological advancements. AI tools will give military an unfair advantage.
+Nvidia's RTX 3060 remains the most popular GPU among Steam survey participants.
 
-💡 *Pentagon prioritizes AI partnerships to maintain military technological superiority.*
+💡 *Nvidia's GPU dominance unmoved by AMD's CPU gains.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112269-pentagon-signed-ai-deals-openai-google-microsoft-nvidia.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112281-steam-survey-amd-cpu-gains-stall-nvidia-final.html)
+
+---
+
+### 5. Save $370 on this AMD Ryzen 9 9950X3D2 Dual Edition with an X870E motherboard and 32GB of RAM big savings for your next high-end build 
+
+This Newegg bundle combines AMD's flagship CPU with high-end components at a discounted price, offering cutting-edge performance with practical value.
+
+💡 *High-end components at a discounted price for significant savings opportunities.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-usd370-on-this-amd-ryzen-9-9950x3d2-dual-edition-with-an-x870e-motherboard-and-32gb-of-ram-big-savings-for-your-next-high-end-build)
 
 ---
 
