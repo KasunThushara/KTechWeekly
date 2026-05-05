@@ -1,95 +1,165 @@
 # 💻 Hardware
-**Week of May 04, 2026**
+**Week of May 05, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-05-04 10:35
+- **Articles this week:** 15
+- **Report generated:** 2026-05-05 10:25
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Boardcon PICOT536 SoM and EMT536 SBC feature Allwinner T536 Edge AI processor ⭐
+### 1. Renesas RZ/V2H Robotics Development Kit handles AI vision, motor control, and power management with a single board ⭐
 
-Boardcon's PICOT536 SoM and EMT536 SBC feature the Allwinner T536 Edge AI processor, suitable for industrial HMI, machine vision, and robotics applications. The module is equipped with a quad-core Arm Cortex-A55 CPU, RISC-V coprocessors, and a 2 TOPS NPU for edge AI processing.
+The Renesas RZ/V2H Robotics Development Kit is a single-board solution for AI vision, motor control, and power management, featuring a 80 TOPS AI accelerator and a 40-pin Raspberry Pi GPIO header.
 
-💡 *Advances edge AI computing capabilities in industrial automation applications.*
+💡 *AI-powered robotics development becomes more accessible and feasible on a single board.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/04/boardcon-picot536-som-and-emt536-sbc-feature-allwinner-t536-edge-ai-processor/)
-
----
-
-### 2. AMD Versal Prime VM2152 mid-range adaptive SoC features 112 Gbps GTM Transceivers, 600Gbps Ethernet, DDR5/LPDDR5 ⭐
-
-AMD's Versal Prime VM2152 is a mid-range adaptive SoC offering high-speed connectivity, 112 Gbps transceivers, and 600 Gbps Ethernet, balancing programmable logic with hardened IP blocks for power-efficient performance.
-
-💡 *High-speed connectivity with power efficiency for wired comms and aerospace applications.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/04/amd-versal-prime-vm2152-mid-range-adaptive-soc-features-112-gbps-gtm-transceivers-600gbps-ethernet-ddr5-lpddr5/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/05/renesas-rz-v2h-robotics-development-kit-handles-ai-vision-motor-control-and-power-management-with-a-single-board/)
 
 ---
 
-### 3. Enthusiast builds a PC big enough to live in humans in this RGB-lit fish tank case look just like figurines 
+### 2. ESP32-P4 + ESP32-C5 board features Raspberry Pi-compatible MIPI connectors for official displays and camera modules ⭐
 
-A Chinese TechTuber created a massive tower PC for human-sized operations, equipped with air conditioning, allowing users to work and play comfortably inside. The PC resembles a large RGB-lit fish tank case and features a living space for humans. This innovative design pushes the boundaries of traditional PC construction.
+The ESP32-P4 + ESP32-C5 board features a compact design with four MIPI connectors, including two compatible with Raspberry Pi camera modules and displays. It contains an ESP32-P4 MCU with 32MB PSRAM, an ESP32-C5 dual-band WiFi 6 SoC, and a 16MB NOR flash. The board also includes various ports and connectors for expansion and peripherals.
 
-💡 *Redefining personal computing spaces with giant, functional, self-sustaining PCs.*
+💡 *Enhanced display and camera integration for IoT projects.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/techtuber-builds-a-pc-big-enough-to-live-in-humans-in-this-rgb-lit-fish-tank-case-look-just-like-figurines)
-
----
-
-### 4. Nvidia accelerates end-of-life for some Jetson AI processors due to memory shortages RAMpocalypse sends older DDR4-based modules to the great scrapheap in the sky 
-
-Nvidia is accelerating the end-of-life for some Jetson AI processors due to market forces and memory shortages. This is largely a case of market reality catching up, rather than an abrupt discontinuation. Older DDR4-based modules are being phased out. 
-
-💡 *Memory shortages drive Nvidia to accelerate AI processor end-of-life*
-
-🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/nvidia-accelerates-end-of-life-for-some-jetson-ai-processors-due-to-memory-shortages-rampocalypse-sends-older-ddr4-based-modules-to-the-great-scrapheap-in-the-sky)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/04/esp32-p4-esp32-c5-board-features-raspberry-pi-compatible-mipi-connectors-for-official-displays-and-camera-modules/)
 
 ---
 
-### 5. Japan is deploying ultra-cheap cardboard drones built for swarm warfare and expendable combat missions $2,000 expendable combat drones cost less than some gaming PCs 
+### 3. 3DMark tests CPU and GPU performance with modern graphics workloads ⭐
 
-Japan is deploying low-cost cardboard drones for swarm warfare and expendable combat missions. The AirKamuy 150 costs around $2,000, making it a cost-effective option for military operations. These drones are designed for mass production and disposal.
+3DMark is a benchmarking tool that measures GPU and CPU performance, useful for system checks and performance comparisons.
 
-💡 *Low-cost drones enable more flexible, expendable military strategies.*
+💡 *Precise performance evaluations for modern graphics workloads and hardware configurations.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/japan-is-deploying-ultra-cheap-cardboard-drones-built-for-swarm-warfare-and-expendable-combat-missions-usd2-000-expendable-combat-drones-cost-less-than-some-gaming-pcs)
-
----
-
-### 6. Steam Survey: AMD's CPU gains stall as Nvidia's final RTX 5000 desktop GPU appears 
-
-Nvidia's RTX 3060 remains the most popular GPU among Steam survey participants.
-
-💡 *Nvidia's GPU dominance unmoved by AMD's CPU gains.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112281-steam-survey-amd-cpu-gains-stall-nvidia-final.html)
+🔗 [Read Full Article](https://www.techspot.com/downloads/5775-3dmark.html)
 
 ---
 
-### 7. Japan is building military drones out of cardboard, and they're faster and cheaper than you'd expect 
+### 4. New server-focused SPEC CPU 2026 benchmarking suite has results for a Raspberry Pi 5 updated tools feature more tests and can run a wide range of systems 
 
-Japan's defense ministry is partnering with Air Kamuy to develop cardboard drones. These drones are reportedly faster and cheaper than expected. This collaboration aims to make Japan a leader in low-cost drone production.
+The SPEC CPU 2026 is an updated benchmarking suite featuring more tests and emphasizing portability, allowing it to run on a wide range of systems, from high-end servers to low-end devices like the Raspberry Pi 5.
 
-💡 *Cardboard drones challenge traditional materials in modern warfare applications.*
+💡 *Industry-standard benchmarking now spans entire tech ecosystems efficiently.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112274-japan-building-military-drones-out-cardboard-theyre-faster.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/new-server-focused-spec-cpu-2026-benchmarking-suite-has-results-for-a-raspberry-pi-5-updated-tools-feature-more-tests-and-can-run-a-wide-range-of-systems)
 
 ---
 
-### 8. Save $370 on this AMD Ryzen 9 9950X3D2 Dual Edition with an X870E motherboard and 32GB of RAM big savings for your next high-end build 
+### 5. Intel's Arc Pro B70 workstation GPU with 32GB of VRAM gets tested in games Roughly twice as fast as Arc B580 on average, beats RTX 5060 Ti in some titles 
 
-This Newegg bundle combines AMD's flagship CPU with high-end components at a discounted price, offering cutting-edge performance with practical value.
+Intel's Arc Pro B70 workstation GPU performs well in games, averaging 2.9% behind the RTX 5060 Ti.
 
-💡 *High-end components at a discounted price for significant savings opportunities.*
+💡 *Arc Pro B70 closes performance gap in high-end gaming market.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-usd370-on-this-amd-ryzen-9-9950x3d2-dual-edition-with-an-x870e-motherboard-and-32gb-of-ram-big-savings-for-your-next-high-end-build)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intels-arc-pro-b70-workstation-gpu-with-32gb-of-vram-gets-tested-in-games-roughly-twice-as-fast-as-arc-b580-on-average-beats-rtx-5060-ti-in-some-titles)
+
+---
+
+### 6. Congatec conga-TC300 COM Express module features up to Intel Core 7 350 Wildcat Lake processor 
+
+The congatec conga-TC300 is an entry-level edge AI module featuring Intel Wildcat Lake SoCs, up to the Core 7 350 processor, with support for up to 64GB DDR5 memory and various I/O interfaces.
+
+💡 *Enables efficient edge AI computing with high-performance Intel processors.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/05/congatec-conga-tc300-com-express-module-features-up-to-intel-core-7-350-wildcat-lake-processor/)
+
+---
+
+### 7. AMD Ryzen AI Halo mini PC is coming in June with 128GB of unified memory and a focus on local AI workloads 
+
+AMD is launching a Ryzen AI Halo mini PC in June, featuring 128GB unified memory. The device focuses on local AI workloads. Pricing details are not yet available.
+
+💡 *Accelerating local AI workloads with high-performance unified memory capabilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112287-amd-ryzen-ai-halo-mini-pc-coming-june.html)
+
+---
+
+### 8. Enthusiast recreates 43-year-old Apple Lisa with FPGA board first commercial computer with a GUI faithfully cloned with modernized machine 
+
+An enthusiast recreated the Apple Lisa with an FPGA board, faithfully cloning its GUI and hardware. The Apple Lisa was the first commercial computer with a graphical user interface. This modernized machine is a testament to retro technology innovation.
+
+💡 *Reviving vintage tech showcases innovation's enduring legacy and potential.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/enthusiast-creates-an-fpga-powered-apple-lisa-clone-modernized-machine-faithfully-recreates-the-first-commercial-computer-with-a-gui)
+
+---
+
+### 9. Intel swipes Qualcomm veteran of 25 years to lead client computing Alex Katouzian jumps ship to oversee consumer CPUs and physical AI 
+
+Intel appoints Alex Katouzian to lead client computing and AI efforts, signaling a shift towards AI-driven and edge computing systems. The move also confirms Pushkar Ranade as CTO. Katouzian brings 25 years of experience from Qualcomm.
+
+💡 *Intel enhances AI capabilities with Qualcomm veteran's expertise leadership*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/intel-swipes-qualcomm-veteran-of-25-years-to-lead-client-computing-alex-katouzian-jumps-ship-to-oversee-consumer-cpus-and-physical-ai)
+
+---
+
+### 10. Get a DDR5 starter build with a Ryzen 5 7600X and ASRock B650M Pro motherboard for 23% off $430 bundle helps avoid inflated RAM prices 
+
+Get a DDR5 starter build with a Ryzen 5 7600X and ASRock B650M Pro motherboard for a discounted price of $329.10, helping to avoid inflated RAM prices.
+
+💡 *Avoid expensive RAM prices with a bundled motherboard combo.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-a-ddr5-starter-build-with-a-ryzen-5-7600x-and-asrock-b650m-pro-motherboard-for-23-percent-off-usd430-bundle-helps-avoid-inflated-ram-prices)
+
+---
+
+### 11. Alienware 16 Area-51 review: OLED screen update 
+
+The Alienware 16 Area-51 features a powerful performance, OLED display option, and updated design.
+
+💡 *OLED display upgrade offers superior visuals and gaming experience.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/alienware-16-area-51-oled-2026-review)
+
+---
+
+### 12. AIVON Offers $60 New User Credits for PCB Prototyping Starting from $1 (Sponsored) 
+
+AIVON offers $60 in credits for new users to reduce prototyping costs. New customers receive $30 manufacturing credit and $30 shipping credit. This allows for free shipping on standard PCB prototype orders.
+
+💡 *Low-cost prototyping enables faster development and reduced financial risk.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/05/aivon-offers-60-new-user-credits-for-pcb-prototyping-starting-from-1/)
+
+---
+
+### 13. The Best CPUs: Gaming, Productivity, and the Best Bang for Your Buck 
+
+Intel's resurgence and AMD's X3D dominance make the CPU market highly competitive, offering genuine value at every price point.
+
+💡 *Competitive CPU market offers better value and performance options.*
+
+🔗 [Read Full Article](https://www.techspot.com/bestof/cpu-26/)
+
+---
+
+### 14. Bazzite 44 brings kernel, desktop, and security updates 
+
+Bazzite 44 brings significant updates to its gaming-focused Linux distro, including improved GPU support and strengthened security.
+
+💡 *Enhanced gaming experience with improved GPU support and security features.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7796-bazzite-gaming-os.html)
+
+---
+
+### 15. Utah just passed the first US law targeting VPN use for age verification 
+
+Utah's law requires age verification for online content, disregarding VPN use. The law considers a user to be accessing a website from Utah if they are physically located there, regardless of VPN or proxy use. This law takes effect on May 6.
+
+💡 *Challenges to online anonymity and privacy in the digital age*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112284-utah-becomes-first-state-target-vpn-use-age.html)
 
 ---
 

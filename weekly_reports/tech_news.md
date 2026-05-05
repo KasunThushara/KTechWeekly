@@ -1,75 +1,105 @@
 # 📰 Tech News
-**Week of May 04, 2026**
+**Week of May 05, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-05-04 10:35
+- **Articles this week:** 9
+- **Report generated:** 2026-05-05 10:25
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Crushing shortages have pushed long-term supply agreements for SSDs and HDDs to record five years large customers are signing large contracts 
+### 1. Trump administration considers mandatory pre-release vetting of AI models Anthropic's Mythos cited as catalyst for policy reversal ⭐
 
-Demand for storage devices has reached record highs, prompting large customers to sign long-term supply agreements with major manufacturers like Sandisk, Seagate, and Western Digital, potentially committing to up to five years.
+The Trump administration is considering an executive order for AI model review. This would involve a government review process for new AI models before public release. The goal is to ensure AI safety and accountability.
 
-💡 *Supply chain commitments are adapting to unprecedented storage demand.*
+💡 *Regulating AI releases could prevent catastrophic AI misuse scenarios*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/crushing-shortages-have-pushed-long-term-supply-agreements-for-ssds-and-hdds-to-record-five-years-large-customers-are-signing-large-contracts)
-
----
-
-### 2. A suspected YouTube interface bug spikes RAM usage above 7 gigabytes, users report severe lag and frozen tabs bug might be trapping browsers in an endless layout loop 
-
-YouTube users report severe lag and frozen tabs due to a suspected UI bug, which causes browsers to consume massive amounts of RAM. The issue is thought to be triggered by endless layout recalculations. Developers are working to resolve the problem.
-
-💡 *Endless layout loops can cripple browser performance and RAM.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/a-suspected-youtube-interface-bug-spikes-ram-usage-above-7-gigabytes-users-report-severe-lag-and-frozen-tabs-bug-might-be-trapping-browsers-in-an-endless-layout-loop)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-considers-mandatory-pre-release-vetting-of-ai-models)
 
 ---
 
-### 3. Utah first state to hold websites liable for users who mask their location with VPNs law goes into effect, designed to prevent bypassing age checks 
+### 2. CISA flags actively exploited Copy Fail Linux kernel flaw enabling root takeover across major distros unpatched systems may remain vulnerable to attack 
 
-Utah's Online Age Verification Amendments (Senate Bill 73) take effect on May 6, making it the first state to hold websites liable for users who mask their location with VPNs to bypass age checks.
+CISA warns of actively exploited Copy Fail Linux flaw (CVE-2026-31431) allowing root access, with a public exploit released before patches were ready.
 
-💡 *Age verification online regulations gain traction in the US.*
+💡 *Unpatched Linux systems remain vulnerable to root takeover through exploited kernel flaw.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law)
-
----
-
-### 4. A startup says it can replace home sprinklers with sound waves. Fire safety experts say show us the data 
-
-A startup claims sound waves can replace home sprinklers for fire safety, but experts demand evidence.
-
-💡 *Acoustic fire suppression has been studied for years with existing data.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112278-startup-can-replace-home-sprinklers-sound-waves-fire.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/cisa-flags-actively-exploited-copy-fail-linux-kernel-flaw-enabling-root-takeover-across-major-distros-unpatched-systems-may-remain-vulnerable-to-attack)
 
 ---
 
-### 5. This $170 retro-style dock gives your Mac mini a tiny screen and upgradeable storage 
+### 3. This new material could make carbon capture dramatically cheaper by cutting the energy needed to run it 
 
-Wokyis offers a retro-styled dock for Mac mini with NVMe storage and extra ports.
+Researchers at Chiba University in Japan are developing a new material called viciazites to reduce energy needs for carbon capture.
 
-💡 *Enhances Mac mini's functionality without sacrificing its compact design.*
+💡 *Lowering energy needs makes carbon capture more affordable and efficient.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112279-170-retro-style-dock-gives-mac-mini-tiny.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112277-new-material-could-make-carbon-capture-dramatically-cheaper.html)
 
 ---
 
-### 6. The Sega Genesis is the latest classic console to get the Lego treatment 
+### 4. Steam Controller scalpers are asking for $300+ on eBay Valve's $99 controller demands high price as pre-orders sell out almost immediately 
 
-The Lego Sega Genesis console model will be available on June 1, priced at $39.99. The set comprises 479 pieces, allowing for a compact yet detailed replica of the original console. It measures 4.5 inches long and six inches wide.
+Valve's Steam Controller sold out quickly, prompting scalpers to demand $300+ on eBay.
 
-💡 *Nostalgic gamers can relive retro console memories with Lego models*
+💡 *Gamers face price gouging due to high demand and limited supply.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112275-sega-genesis-latest-classic-console-get-lego-treatment.html)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/steam-controller-scalpers-are-asking-for-usd300-on-ebay-valves-usd99-controller-demands-high-price-as-pre-orders-sell-out-almost-immediately)
+
+---
+
+### 5. Alienware 16 Area-51 review: OLED screen update 
+
+The Alienware 16 Area-51 features a powerful performance, OLED display option, and updated design.
+
+💡 *OLED display upgrade offers superior visuals and gaming experience.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/alienware-16-area-51-oled-2026-review)
+
+---
+
+### 6. Kids are using fake mustaches, VPNs, and their parents' accounts to get around age verification 
+
+A recent survey shows UK's Online Safety Act has limited effectiveness in preventing minors from accessing social media and adult content, with some kids using tactics like fake mustaches, VPNs, and their parents' accounts to bypass age verification.
+
+💡 *Minors exploit loopholes in age verification systems with creative tactics*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112294-kids-using-fake-mustaches-vpns-their-parents-accounts.html)
+
+---
+
+### 7. Trivia: What was the population of the Death Star? 
+
+The Death Star was a massive space station with a significant workforce. Its population is estimated to be around 1,000,000 stormtroopers, technicians, and other personnel. This enormous workforce was necessary to maintain and operate the Death Star.
+
+💡 *Massive workforce required to maintain and operate the Death Star.*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/165-star-wars-death-star-population/)
+
+---
+
+### 8. Meta says New Mexico lawsuit could force Facebook, Instagram, and WhatsApp out of the state 
+
+A New Mexico jury found Meta liable for platform safety lies, awarding $375 million in damages. Meta may be forced out of New Mexico due to the lawsuit. The outcome could impact Facebook, Instagram, and WhatsApp operations.
+
+💡 *Meta's reputation and operations face significant threats in New Mexico.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112280-meta-new-mexico-lawsuit-could-force-facebook-instagram.html)
+
+---
+
+### 9. Artemis II update: Launch, TLI burn, toilet fix to Moon or bust 
+
+Artemis II mission is underway with a Moon flyby expected Monday. The spacecraft will conduct a Trans-Lunar Injection (TLI) burn and a toilet fix to ensure the crew's comfort during the mission. This is a crucial step towards the first crewed mission to the Moon.
+
+💡 *Pioneering a safe, habitable lunar presence for human exploration.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/artemis-ii-update-launch-tli-burn-toilet-fix-moon-or-bust)
 
 ---
 

@@ -1,224 +1,375 @@
 [
   {
-    "title": "Crushing shortages have pushed long-term supply agreements for SSDs and HDDs to record five years large customers are signing large contracts",
-    "summary": "Demand for storage devices is so high that large customers are willing to sign up to five-year long-term supply agreements, according to Sandisk, Seagate, and Western Digital.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/crushing-shortages-have-pushed-long-term-supply-agreements-for-ssds-and-hdds-to-record-five-years-large-customers-are-signing-large-contracts",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.024755"
-  },
-  {
-    "title": "AMD Ryzen 9 PRO 9965X3D spotted on Passmark company's first PRO chip with 3D V-Cache also bumps the lineup up to 16 cores",
-    "summary": "A new Ryzen PRO series processor has appeared on PassMark with just three samples, but a very promising spec sheet. The Ryzen 9 PRO 9965X3D is a 16-core Zen 5 chip with 3D V-Cache, making it the first of its kind. It performs quite closely to the standard 9950X3D it's based on, but likely has a lower TDP.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-pro-9965x3d-spotted-on-passmark-companys-first-pro-chip-with-3d-v-cache-also-bumps-the-lineup-up-to-16-cores",
-    "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.024886"
-  },
-  {
-    "title": "Enthusiast builds a PC big enough to live in humans in this RGB-lit fish tank case look just like figurines",
-    "summary": "A Chinese TechTuber scaled a tower PC large enough for a human to work and play in. It has air conditioning, too.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/techtuber-builds-a-pc-big-enough-to-live-in-humans-in-this-rgb-lit-fish-tank-case-look-just-like-figurines",
+    "title": "Enthusiast recreates 43-year-old Apple Lisa with FPGA board first commercial computer with a GUI faithfully cloned with modernized machine",
+    "summary": "An enthusiast has taken the time to recreate the Apple Lisa, the first commercial PC with a GUI, with an FPGA board.",
+    "link": "https://www.tomshardware.com/maker-stem/enthusiast-creates-an-fpga-powered-apple-lisa-clone-modernized-machine-faithfully-recreates-the-first-commercial-computer-with-a-gui",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.024993"
+    "processed_date": "2026-05-05T10:23:58.726112"
   },
   {
-    "title": "Nvidia accelerates end-of-life for some Jetson AI processors due to memory shortages RAMpocalypse sends older DDR4-based modules to the great scrapheap in the sky",
-    "summary": "Nvidia is apparently discontinuing some older embedded platforms earlier than anticipated, but this is mostly about market reality finally catching up, not abrupt discontinuation.",
-    "link": "https://www.tomshardware.com/maker-stem/nvidia-accelerates-end-of-life-for-some-jetson-ai-processors-due-to-memory-shortages-rampocalypse-sends-older-ddr4-based-modules-to-the-great-scrapheap-in-the-sky",
+    "title": "New server-focused SPEC CPU 2026 benchmarking suite has results for a Raspberry Pi 5 updated tools feature more tests and can run a wide range of systems",
+    "summary": "The SPEC CPU 2026 features more tests and an emphasis on portability, running on everything from fleets of servers down to a Raspberry Pi.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/new-server-focused-spec-cpu-2026-benchmarking-suite-has-results-for-a-raspberry-pi-5-updated-tools-feature-more-tests-and-can-run-a-wide-range-of-systems",
     "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.025110"
-  },
-  {
-    "title": "Save $370 on this AMD Ryzen 9 9950X3D2 Dual Edition with an X870E motherboard and 32GB of RAM big savings for your next high-end build",
-    "summary": "This Newegg bundle offers cutting-edge performance with practical value, combining AMD s latest flagship CPU with high-end supporting components at a discounted price.",
-    "link": "https://www.tomshardware.com/pc-components/save-usd370-on-this-amd-ryzen-9-9950x3d2-dual-edition-with-an-x870e-motherboard-and-32gb-of-ram-big-savings-for-your-next-high-end-build",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-05-04T10:34:50.025242"
-  },
-  {
-    "title": "A suspected YouTube interface bug spikes RAM usage above 7 gigabytes, users report severe lag and frozen tabs bug might be trapping browsers in an endless layout loop",
-    "summary": "Reports of YouTube freezing browsers and consuming massive amounts of RAM are spreading online, with developers tracing the issue to a suspected UI bug that may trigger endless layout recalculations and severe system lag.",
-    "link": "https://www.tomshardware.com/software/a-suspected-youtube-interface-bug-spikes-ram-usage-above-7-gigabytes-users-report-severe-lag-and-frozen-tabs-bug-might-be-trapping-browsers-in-an-endless-layout-loop",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.025354"
-  },
-  {
-    "title": "Popular 90s search engine Ask Jeeves finally bites the dust parent company shutters website that pioneered natural language queries, only a placeholder results page remains",
-    "summary": "IAC, the parent company of Ask Jeeves, is finally putting the search engine out to pasture after 30 years.",
-    "link": "https://www.tomshardware.com/software/search-engines/popular-90s-search-engine-ask-jeeves-finally-bites-the-dust-parent-company-shutters-website-that-pioneered-natural-language-queries-only-a-placeholder-results-page-remains",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.025457"
-  },
-  {
-    "title": "Anthropic in early talks to buy DRAM-less AI inference chips from UK startup Fractile's SRAM architecture reduces need for pricey memory during extreme pricing and shortage crunch",
-    "summary": "Anthropic has reportedly held early discussions with London-based chip startup Fractile about purchasing the company's inference accelerators.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-in-early-talks-to-buy-inference-chips-from-uk-startup-fractile",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-04T10:34:50.025574"
+    "processed_date": "2026-05-05T10:23:58.726222"
   },
   {
-    "title": "Chinese court rules companies can't fire workers just because AI is cheaper ruling says automation alone doesn't justify layoffs",
-    "summary": "Chinese courts ruled that companies cannot automatically fire workers simply because AI can do the job more cheaply, declaring that automation alone does not justify dismissal under labor law.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-court-rules-companies-cant-fire-workers-just-because-ai-is-cheaper-ruling-says-automation-alone-doesnt-justify-layoffs",
+    "title": "Intel swipes Qualcomm veteran of 25 years to lead client computing Alex Katouzian jumps ship to oversee consumer CPUs and physical AI",
+    "summary": "Intel appoints Alex Katouzian to lead client computing and physical AI efforts and confirms Pushkar Ranade as CTO, signaling a deeper shift toward AI-driven and edge computing systems",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/intel-swipes-qualcomm-veteran-of-25-years-to-lead-client-computing-alex-katouzian-jumps-ship-to-oversee-consumer-cpus-and-physical-ai",
     "categories": [
-      "AI & ML"
+      "AI & ML",
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.025679"
+    "processed_date": "2026-05-05T10:23:58.726331"
   },
   {
-    "title": "Jensen says Nvidia now has 'zero percent' market share in China says US export policy 'has already largely backfired'",
-    "summary": "Jensen Huang says China has become a lost market for Nvidia due to U.S. sanctions, but warns that America could lose out in a broader AI competition.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-says-nvidia-now-has-zero-percent-market-share-in-china-says-us-export-policy-has-already-largely-backfired",
+    "title": "Trump administration considers mandatory pre-release vetting of AI models Anthropic's Mythos cited as catalyst for policy reversal",
+    "summary": "The Trump administration is said to be discussing an executive order that would establish a government review process for new AI models before they re released to the public.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-considers-mandatory-pre-release-vetting-of-ai-models",
     "categories": [
-      "GPUs",
-      "AI & ML"
+      "AI & ML",
+      "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.025780"
+    "quality_score": 15,
+    "processed_date": "2026-05-05T10:23:58.726439"
   },
   {
-    "title": "Utah first state to hold websites liable for users who mask their location with VPNs law goes into effect, designed to prevent bypassing age checks",
-    "summary": "Utah's Online Age Verification Amendments, formally Senate Bill 73, take effect on May 6.",
-    "link": "https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law",
+    "title": "Steam Controller scalpers are asking for $300+ on eBay Valve's $99 controller demands high price as pre-orders sell out almost immediately",
+    "summary": "Valve's long-anticipated Steam Controller sold out almost immediately, and scalpers have stepped in with price demands of $300 or more.",
+    "link": "https://www.tomshardware.com/peripherals/steam-controller-scalpers-are-asking-for-usd300-on-ebay-valves-usd99-controller-demands-high-price-as-pre-orders-sell-out-almost-immediately",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.025875"
+    "processed_date": "2026-05-05T10:23:58.726533"
   },
   {
-    "title": "Keychain-size GameCube uses genuine Nintendo silicon system also includes a dock, design shared to GitHub",
-    "summary": "Video showcases the Nintendo Kawaii project, in which modders have shrunken a boxy GameCube down to a keychain.",
-    "link": "https://www.tomshardware.com/video-games/nintendo/keychain-size-gamecube-uses-genuine-nintendo-silicon-system-also-includes-a-dock-design-shared-to-github",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.025968"
-  },
-  {
-    "title": "Amazon s Middle East data centers damaged by Iran drone and missile attacks will be down for several months during repairs U.S. and Iran currently observing an uneasy truce, but renewed strikes possible if talks break down",
-    "summary": "Amazon says that it will take months before it can return its Bahrain and UAE data center back to full operational status. In the meantime, the company suspends billing for affected customers while also recommending that they move to other Regions to restore service.",
-    "link": "https://www.tomshardware.com/desktops/servers/amazons-middle-east-data-centers-damaged-by-iran-drone-and-missile-attacks-will-be-down-for-several-months-during-repairs-u-s-and-iran-currently-observing-an-uneasy-truce-but-renewed-strikes-possible-if-talks-break-down",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.026096"
-  },
-  {
-    "title": "Japan is deploying ultra-cheap cardboard drones built for swarm warfare and expendable combat missions $2,000 expendable combat drones cost less than some gaming PCs",
-    "summary": "Japan is deploying ultra-cheap cardboard drones built for swarm warfare and expendable combat missions. The flat-packed AirKamuy 150 costs as little as $2,000 far cheaper than many military drones.",
-    "link": "https://www.tomshardware.com/tech-industry/japan-is-deploying-ultra-cheap-cardboard-drones-built-for-swarm-warfare-and-expendable-combat-missions-usd2-000-expendable-combat-drones-cost-less-than-some-gaming-pcs",
+    "title": "Get a DDR5 starter build with a Ryzen 5 7600X and ASRock B650M Pro motherboard for 23% off $430 bundle helps avoid inflated RAM prices",
+    "summary": "Start your next gaming build with this this combo from Newegg featuring a Ryzen 5 7600X, 16GB of DDR5-6000 memory, and a Micro-ATX B650M motherboard from ASRock for just $430.",
+    "link": "https://www.tomshardware.com/pc-components/get-a-ddr5-starter-build-with-a-ryzen-5-7600x-and-asrock-b650m-pro-motherboard-for-23-percent-off-usd430-bundle-helps-avoid-inflated-ram-prices",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.026246"
+    "processed_date": "2026-05-05T10:23:58.726636"
   },
   {
-    "title": "Boardcon PICOT536 SoM and EMT536 SBC feature Allwinner T536 Edge AI processor",
-    "summary": "Back in April last year, Allwinner released the T536 SoC, and since then, we ve seen MYiR Tech and Forlinx introduce SoM and SBC based on it. The latest to join the lineup is Boardcon, which has recently launched the PICOT536 SoM and EMT536 SBC for industrial HMI, machine vision, robotics, and other edge computing applications. As a reminder, the Allwinner T536 SoC features a quad-core Arm Cortex-A55 CPU, XuanTie E907 and E902 RISC-V coprocessors, and a 2 TOPS NPU for edge AI. The module comes with up to 8GB LPDDR4/LPDDR4X memory, up to 64GB eMMC flash, an optional WiFi 6 and Bluetooth 5.4 module, and a 314-pin MXM edge connector exposing I/Os such as MIPI DSI and LVDS, camera inputs, audio inputs and outputs, Gigabit Ethernet, PCIe, USB 3.0, and more. PICOT536 System-on-Module PICOT536 specifications: SoC Allwinner T536 CPU Quad-core Arm Cortex-A55 at up to 1.6GHz, RISC-V XuanTie [...] The post Boardcon PICOT536 SoM and EMT536 SBC feature Allwinner T536 Edge AI processor appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/04/boardcon-picot536-som-and-emt536-sbc-feature-allwinner-t536-edge-ai-processor/",
+    "title": "Secretlab launches Mandalorian Titan Evo gaming chair in Star Wars collection for May the 4th collab builds with a new high-end themed chair",
+    "summary": "Secretlab dropped a Mandalorian Edition, along with other Star Wars-themed designs, to its Titan Evo gaming chair lineup on Star Wars Day.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/secretlab-launches-mandalorian-titan-evo-gaming-chair-for-star-wars-day",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-05T10:23:58.726767"
+  },
+  {
+    "title": "Alienware 16 Area-51 review: OLED screen update",
+    "summary": "The Alienware 16 Area-51 is a slightly updated spaceship of a laptop that's powerful and finally gets an OLED display option.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/alienware-16-area-51-oled-2026-review",
     "categories": [
       "Hardware",
-      "Semiconductors"
+      "Tech News"
     ],
-    "quality_score": 20,
-    "processed_date": "2026-05-04T10:34:50.026773"
+    "quality_score": 5,
+    "processed_date": "2026-05-05T10:23:58.726883"
   },
   {
-    "title": "AMD Versal Prime VM2152 mid-range adaptive SoC features 112 Gbps GTM Transceivers, 600Gbps Ethernet, DDR5/LPDDR5",
-    "summary": "The AMD Versal Prime VM2152 adaptive SoC is designed as a mid-range device for high-speed connectivity, with 112 Gbps transceivers and 600 GbE networking in a power-efficient package. It balances programmable logic with hardened IP blocks to simplify the design of high-throughput systems used in wired communications, aerospace, and test and measurement, without the higher power and complexity of high-end FPGAs. Compared to the AMD Versal Prime VP1902, the VM2152 focuses more on I/O performance rather than raw logic density. While the VP1902 offers more logic cells, the VM2152 adds support for LPDDR5 memory up to 6400 Mb/s and includes a 400 Gbps High-Speed Crypto engine, making it suitable for faster, more secure data processing than Agilex 7. AMD Versal Prime VM2152 specifications: Processor Subsystem APU Dual-core Arm Cortex-A72 with 48 KB / 32 KB L1 Cache (with parity & ECC) and 1 MB L2 Cache (with ECC) Real-time [...] The post AMD Versal Prime VM2152 mid-range adaptive SoC features 112 Gbps GTM Transceivers, 600Gbps Ethernet, DDR5/LPDDR5 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/04/amd-versal-prime-vm2152-mid-range-adaptive-soc-features-112-gbps-gtm-transceivers-600gbps-ethernet-ddr5-lpddr5/",
+    "title": "AMD Ryzen AI 5 435G APU breaks cover in early benchmarks six-core Zen 5 chip goes head-to-head with the Ryzen 5 8600G for budget PC builders",
+    "summary": "The Ryzen AI 5 435G shows similar performance to the existing Ryzen 5 8600G in new Geekbench 6 benchmarks.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-5-435g-apu-breaks-cover-in-early-benchmarks-six-core-zen-5-chip-goes-head-to-head-with-the-ryzen-5-8600g-for-budget-pc-builders",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-05T10:23:58.726984"
+  },
+  {
+    "title": "CISA flags actively exploited Copy Fail Linux kernel flaw enabling root takeover across major distros unpatched systems may remain vulnerable to attack",
+    "summary": "CISA warns of the actively exploited Copy Fail Linux flaw (CVE-2026-31431), enabling root access, with a public exploit released before patches were ready.",
+    "link": "https://www.tomshardware.com/software/linux/cisa-flags-actively-exploited-copy-fail-linux-kernel-flaw-enabling-root-takeover-across-major-distros-unpatched-systems-may-remain-vulnerable-to-attack",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-05T10:23:58.727081"
+  },
+  {
+    "title": "Intel's Arc Pro B70 workstation GPU with 32GB of VRAM gets tested in games Roughly twice as fast as Arc B580 on average, beats RTX 5060 Ti in some titles",
+    "summary": "In a new review for the Arc Pro B70, the workstation GPU performs rather well across five games tested at 1440p resolution. On average, it loses to the RTX 5060 Ti 16GB in traditional raster but beats it in ray tracing. Overall, the B70 was only 2.9% behind the 5060 Ti in all games when you average out both RT and raster.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/intels-arc-pro-b70-workstation-gpu-with-32gb-of-vram-gets-tested-in-games-roughly-twice-as-fast-as-arc-b580-on-average-beats-rtx-5060-ti-in-some-titles",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-05T10:23:58.727191"
+  },
+  {
+    "title": "Nvidia's exposure to Asian supply chains for components hits 90% of its production costs marked increase from 65% could intensify as physical AI adds even more exposure",
+    "summary": "Asian suppliers now represent roughly 90% of Nvidia's production costs, up from about 65% a year earlier, according to data compiled by Bloomberg.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-asian-supply-chain-hits-90-percent-of-production-costs",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-05T10:23:58.727286"
+  },
+  {
+    "title": "AMD Ryzen AI Max+ PRO 495 APU could arrive with 192GB of unified memory leaked PassMark benchmarks suggest modest update over Strix Halo",
+    "summary": "The Ryzen AI Max+ PRO 495 appears to retain the same core configuration as its predecessor while adding more unified memory and slightly better performance.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-max-pro-495-apu-could-arrive-with-192gb-of-unified-memory-leaked-passmark-benchmarks-suggest-modest-update-over-strix-halo",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-05T10:23:58.727390"
+  },
+  {
+    "title": "Renesas RZ/V2H Robotics Development Kit handles AI vision, motor control, and power management with a single board",
+    "summary": "Renesas WS125-V2HRDKREFZ is a Robotics Development Kit (RDK) powered by Renesas RZ/V2H Arm Cortex-A55/R8/M33 microprocessor and designed for high performance AI vision applications leveraging the MPU s built-in 80 TOPS (sparse) AI accelerator. The kit ships with 16GB LPDDR4, 64MB QSPI flash, a 64GB microSD card, and appears to be partially inspired by the Raspberry Pi 5 with a 40-pin Raspberry Pi GPIO header, a 16-pin PCIe Gen3 FFC connector, two MIPI CSI connectors, and a micro HDMI port. Other features include a Gigabit Ethernet port, two USB 3.2 ports, two CAN-FD interfaces, and a 12-24V DC input voltage range. Renesas WS125-V2HRDKREFZ specifications: SoC Renesas RZ/V2H CPU/MCU cores 4x Arm Cortex-A55 cores up to 1.8 GHz 2x Cortex-R8 real-time cores up to 800 MHz Arm Cortex-M33 microcontroller core up to 200 MHz for system management GPU Arm Mali-G31 GPU NPU DRP-AI3 dynamically reconfigurable processor delivering up to 8 TOPS (INT8) or [...] The post Renesas RZ/V2H Robotics Development Kit handles AI vision, motor control, and power management with a single board appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/05/renesas-rz-v2h-robotics-development-kit-handles-ai-vision-motor-control-and-power-management-with-a-single-board/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-05-05T10:23:58.727977"
+  },
+  {
+    "title": "Congatec conga-TC300 COM Express module features up to Intel Core 7 350 Wildcat Lake processor",
+    "summary": "congatec conga-TC300 is an entry-level edge AI COM Express Type-6 Compact module powered by 15W Intel Core Series 3 Wildcat Lake SoCs up to the Core 7 350 hexa-core processor. The module supports up to 64GB DDR5 SO-DIMM memory and features optional on-board UFS 3.1 storage, an Intel i226 2.5GbE controller, and two standard 220-pin board-to-board connectors exposing I/Os such as SATA, DDI and LVDS or eDP display interfaces, USB4, USB 3.2, USB 2.0, PCIe Gen4/Gen3, and more. congatec conga-TC300 specifications: Wildcat Lake SoC (one or the other) Intel Core 3 305 6-core CPU 2x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) NPU N/A Intel Core 5 320 6-core CPU 2x P-cores @ 1.5/4.6 GHz (Turbo) + 4x LPE-cores @ 1.4/3.4 GHz (Turbo) GPU 2-core Intel Xe3 Graphics @ 2.5 [...] The post Congatec conga-TC300 COM Express module features up to Intel Core 7 350 Wildcat Lake processor appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/05/congatec-conga-tc300-com-express-module-features-up-to-intel-core-7-350-wildcat-lake-processor/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-05T10:23:58.728137"
+  },
+  {
+    "title": "AIVON Offers $60 New User Credits for PCB Prototyping Starting from $1 (Sponsored)",
+    "summary": "Hardware prototyping often starts with a simple idea, but quickly runs into a familiar problem: costs add up faster than expected. Small batch PCB orders, international shipping fees, and repeated iterations can easily slow down development before the first working prototype is even finished. To make early-stage development easier, AIVON has launched a new user support program that significantly lowers the cost barrier for first-time orders. New customers who register on AIVON and verify their email address will automatically receive $60 in welcome credits, which include: $30 Manufacturing Credit applied to the PCB portion of their first PCB or PCBA order (minimum order amount after credit: $1). $30 Shipping Credit for their first pure-PCB order (including stencil orders). With these credits, most standard PCB prototype orders qualify for completely free shipping. For example: If your calculated PCB cost is $20 and shipping is $25, you would only pay $1 for [...] The post AIVON Offers $60 New User Credits for PCB Prototyping Starting from $1 (Sponsored) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/05/aivon-offers-60-new-user-credits-for-pcb-prototyping-starting-from-1/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-05T10:23:58.728305"
+  },
+  {
+    "title": "ESP32-P4 + ESP32-C5 board features Raspberry Pi-compatible MIPI connectors for official displays and camera modules",
+    "summary": "We ve come across an ESP32-P4 + ESP32-C5 board that looks similar to the Wireless Tag WTDKP4C5-S1 board, but is even more compact and features four MIPI connectors, including two whose pinout is compatible with Raspberry Pi camera modules and displays. Maker Go calls it the ESP32P4C5 core board and features an ESP32-P4-Module with ESP32-P4 MCU with 32MB PSRAM, an ESP32-C5 dual-band WiFi 6 SoC, nd a 16MB NOR flash. Besides the MIPI connectors, the board features three USB ports, one for debugging, and two Type-C/A ports sharing a USB 2.0 data connection, a built-in MEMS microphone, a speaker connector, and two 34-pin headers for expansion. ESP32P4C5 Core Board specifications: Main SoC Espressif Systems ESP32-P4 CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 400 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz with 8KB of zero-wait TCM RAM [...] The post ESP32-P4 + ESP32-C5 board features Raspberry Pi-compatible MIPI connectors for official displays and camera modules appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/04/esp32-p4-esp32-c5-board-features-raspberry-pi-compatible-mipi-connectors-for-official-displays-and-camera-modules/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 15,
-    "processed_date": "2026-05-04T10:34:50.026944"
+    "processed_date": "2026-05-05T10:23:58.728472"
   },
   {
-    "title": "Steam Survey: AMD's CPU gains stall as Nvidia's final RTX 5000 desktop GPU appears",
-    "summary": "There was little movement at the top of the GPU chart as the RTX 3060 remained the most popular option among survey participants. Its place at the top could be cemented if reports that Nvidia is re-releasing the 2021 card in July a response to the memory crisis prove accurate. Read Entire Article",
-    "link": "https://www.techspot.com/news/112281-steam-survey-amd-cpu-gains-stall-nvidia-final.html",
+    "title": "Enabling Autonomous Smart Fabs: How Sensor-Driven Intelligence Is Redefining Semiconductor Manufacturing",
+    "summary": "The next phase of productivity in semiconductor manufacturing is increasingly driven by data and multivariate analytics using advanced ML.",
+    "link": "https://www.fiercesensors.com/sponsored/enabling-autonomous-smart-fabs-how-sensor-driven-intelligence-redefining-semiconductor",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-05T10:23:58.729468"
+  },
+  {
+    "title": "Artemis II update: Launch, TLI burn, toilet fix to Moon or bust",
+    "summary": "Flyby of Moon and its dark side is expected Monday.",
+    "link": "https://www.fiercesensors.com/sensors/artemis-ii-update-launch-tli-burn-toilet-fix-moon-or-bust",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-05-05T10:23:58.729745"
+  },
+  {
+    "title": "The Best CPUs: Gaming, Productivity, and the Best Bang for Your Buck",
+    "summary": "The CPU market looks very different from six months ago. Intel's back in the conversation, AMD's X3D chips still rule gaming, and there's genuine value at every price point . Read Entire Article",
+    "link": "https://www.techspot.com/bestof/cpu-26/",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.028238"
+    "processed_date": "2026-05-05T10:23:58.729854"
   },
   {
-    "title": "A startup says it can replace home sprinklers with sound waves. Fire safety experts say show us the data",
-    "summary": "The underlying concept is not new. Acoustic fire suppression has been studied for years as a means of disrupting combustion by pushing oxygen away from the fuel surface. Read Entire Article",
-    "link": "https://www.techspot.com/news/112278-startup-can-replace-home-sprinklers-sound-waves-fire.html",
+    "title": "Kids are using fake mustaches, VPNs, and their parents' accounts to get around age verification",
+    "summary": "A recent survey from Internet Matters reveals that the UK's Online Safety Act has had limited effectiveness in stopping minors from accessing social media and adult content. Read Entire Article",
+    "link": "https://www.techspot.com/news/112294-kids-using-fake-mustaches-vpns-their-parents-accounts.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.028398"
+    "processed_date": "2026-05-05T10:23:58.729946"
   },
   {
-    "title": "This $170 retro-style dock gives your Mac mini a tiny screen and upgradeable storage",
-    "summary": "One of the more distinctive entries in that category comes from Wokyis: a retro-styled dock that adds NVMe storage, extra ports, and a small secondary display, all within a chassis designed to sit directly under the Mac mini. Read Entire Article",
-    "link": "https://www.techspot.com/news/112279-170-retro-style-dock-gives-mac-mini-tiny.html",
+    "title": "A government used AI to write its AI regulations. It did not go well",
+    "summary": "Cape Town authorities had effectively asked for public comment on a draft AI bill that contained hallucinated sources. Read Entire Article",
+    "link": "https://www.techspot.com/news/112293-south-africa-minister-withdraws-new-ai-policy-containing.html",
     "categories": [
-      "Tech News"
+      "AI & ML",
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.028552"
+    "processed_date": "2026-05-05T10:23:58.730034"
   },
   {
-    "title": "Japan is building military drones out of cardboard, and they're faster and cheaper than you'd expect",
-    "summary": "Japan's defense ministry recently sat down with Air Kamuy, a drone manufacturer whose signature design relies on corrugated cardboard construction. The meeting signals Tokyo's broader ambition to carve out a leadership role in low-cost drone production as mass-market models reshape the calculus of modern warfare. Read Entire Article",
-    "link": "https://www.techspot.com/news/112274-japan-building-military-drones-out-cardboard-theyre-faster.html",
+    "title": "Bazzite 44 brings kernel, desktop, and security updates",
+    "summary": "Bazzite 44 is a big one. Built on Fedora 44, this gaming-focused Linux distro lands with KDE Plasma 6.6 and Gnome 50, the OGC kernel 6.19, and Mesa 26.0.5 for better GPU support across Vulkan and OpenGL titles. The release also strengthens security with signed ISOs and updates bundled tools. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7796-bazzite-gaming-os.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-05T10:23:58.730134"
+  },
+  {
+    "title": "This $88 retro gaming handheld has a screen that rotates on a hinge, because why not",
+    "summary": "The handheld is powered by a Unisoc Tiger T618 octa-core CPU alongside a Mali G52 GPU ticking along at 850MHz. The combo is paired with 3GB of RAM and 32GB of eMCP storage, and supports expansion via TF card slot. WiFi 5 comes standard, as does Bluetooth 5.0 connectivity, and... Read Entire Article",
+    "link": "https://www.techspot.com/news/112290-anbernic-rg-rotate-low-cost-retro-gaming-handheld.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-05T10:23:58.730241"
+  },
+  {
+    "title": "The chip industry is booming again, but only for companies building AI infrastructure",
+    "summary": "A recent report by Semi's Silicon Manufacturers Group found that the silicon wafer industry is growing once again. The quarterly analysis confirmed that global shipments for silicon wafers increased 13.1% compared to the same quarter a year earlier, rising from 2,896 million square inches (MSI) to 3,275 MSI. Shipments declined... Read Entire Article",
+    "link": "https://www.techspot.com/news/112289-chip-industry-booming-again-but-only-companies-building.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-05T10:23:58.730346"
+  },
+  {
+    "title": "3DMark tests CPU and GPU performance with modern graphics workloads",
+    "summary": "3DMark is a widely used benchmarking tool that measures GPU and CPU performance using a range of graphics tests, including modern ray tracing workloads, making it useful for everything from quick system checks to in-depth performance comparisons across different hardware configurations. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/5775-3dmark.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-05T10:23:58.730447"
+  },
+  {
+    "title": "AMD Ryzen AI Halo mini PC is coming in June with 128GB of unified memory and a focus on local AI workloads",
+    "summary": "The Redditor, who claims to have attended the event, posted photos of Huynh holding the device on stage, along with what appear to be key specifications displayed on a background screen. Huynh reportedly confirmed that the Halo will launch in June, but did not provide any details on pricing. Read Entire Article",
+    "link": "https://www.techspot.com/news/112287-amd-ryzen-ai-halo-mini-pc-coming-june.html",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.028726"
+    "quality_score": 10,
+    "processed_date": "2026-05-05T10:23:58.730555"
   },
   {
-    "title": "The Sega Genesis is the latest classic console to get the Lego treatment",
-    "summary": "The set launches June 1, priced at $39.99, and comprises 479 pieces. The finished model measures roughly 4.5 inches long and six inches wide, a compact footprint that still leaves room for the details that made the original console recognizable. Read Entire Article",
-    "link": "https://www.techspot.com/news/112275-sega-genesis-latest-classic-console-get-lego-treatment.html",
+    "title": "Trivia: What was the population of the Death Star?",
+    "summary": "In a galaxy far, far away, the Death Star wasn't just a weapon... it was a monumental achievement of (fictional) engineering and human resource management. Read Entire Article",
+    "link": "https://www.techspot.com/trivia/165-star-wars-death-star-population/",
     "categories": [
-      "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-04T10:34:50.028885"
+    "processed_date": "2026-05-05T10:23:58.730640"
+  },
+  {
+    "title": "Next-gen MRDIMM standard nears completion targeting 12,800 MT/s DDR5 transfer rates for AI and data center workloads",
+    "summary": "JEDEC's latest announcement provides an updated timeline for the future of MRDIMM, a relatively new memory standard introduced a few years ago to support bandwidth-intensive data workloads. Multiplexed Rank DIMM technology uses a multiplexing register and buffers to allow two memory ranks to operate simultaneously on a single DIMM, effectively... Read Entire Article",
+    "link": "https://www.techspot.com/news/112286-mrdimm-getting-faster-jedec-targets-higher-bandwidth-ai.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-05T10:23:58.730762"
+  },
+  {
+    "title": "The Oscars just declared that AI actors and AI-written scripts can't win awards",
+    "summary": "The Academy clarified rules for two categories related to AI, writes Vanity Fair. The first states that the only acting roles eligible for Oscar nominations are those \"demonstrably performed by humans with their consent.\" Screenplays, meanwhile, must be human-authored to be eligible. Read Entire Article",
+    "link": "https://www.techspot.com/news/112288-oscars-ruled-ai-actors-ai-written-scripts-cant.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-05T10:23:58.730866"
+  },
+  {
+    "title": "That time when a Waymo robotaxi drove off with a passenger's luggage after the trunk failed to unlock at the airport",
+    "summary": "\"I pressed the trunk open button, tried to get my luggage, but it doesn't do anything, and it drives away immediately,\" Jin told NBC. Read Entire Article",
+    "link": "https://www.techspot.com/news/112283-waymo-robotaxi-drives-off-passenger-luggage-after-airport.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-05T10:23:58.730959"
+  },
+  {
+    "title": "Utah just passed the first US law targeting VPN use for age verification",
+    "summary": "On May 6, Utah's Online Age Verification Amendments, formally Senate Bill 73, takes effect. The law states that a user is considered to be accessing a website from the state if they are physically located there, regardless of whether they use a VPN, proxy server, or other means to disguise... Read Entire Article",
+    "link": "https://www.techspot.com/news/112284-utah-becomes-first-state-target-vpn-use-age.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-05T10:23:58.731058"
+  },
+  {
+    "title": "Meta says New Mexico lawsuit could force Facebook, Instagram, and WhatsApp out of the state",
+    "summary": "Back in March, a jury already found the company violated the state's consumer protection law by lying about platform safety and hit Meta with $375 million in damages. Read Entire Article",
+    "link": "https://www.techspot.com/news/112280-meta-new-mexico-lawsuit-could-force-facebook-instagram.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-05T10:23:58.731147"
+  },
+  {
+    "title": "A Chinese court just ruled companies can't fire workers simply because AI can replace them",
+    "summary": "We see a lot of stories about US tech giants laying off employees because AI systems are replacing them. As was the case with Meta, Amazon, and Block, these cuts are usually framed as ways to streamline businesses and embrace new technologies even when they're not which tends... Read Entire Article",
+    "link": "https://www.techspot.com/news/112282-chinese-court-rules-companies-cant-fire-workers-because.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-05T10:23:58.731248"
+  },
+  {
+    "title": "This new material could make carbon capture dramatically cheaper by cutting the energy needed to run it",
+    "summary": "A research team at Chiba University in Japan is taking a different approach, focusing on solid carbon materials that can do the same job with far less heat. Their work centers on a new class of materials called viciazites, designed to control how nitrogen atoms are arranged within a carbon... Read Entire Article",
+    "link": "https://www.techspot.com/news/112277-new-material-could-make-carbon-capture-dramatically-cheaper.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-05T10:23:58.731359"
   }
 ]

@@ -1,55 +1,65 @@
 # ⚡ Semiconductors
-**Week of May 04, 2026**
+**Week of May 05, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-05-04 10:35
+- **Articles this week:** 5
+- **Report generated:** 2026-05-05 10:25
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Boardcon PICOT536 SoM and EMT536 SBC feature Allwinner T536 Edge AI processor ⭐
+### 1. AMD Ryzen AI 5 435G APU breaks cover in early benchmarks six-core Zen 5 chip goes head-to-head with the Ryzen 5 8600G for budget PC builders ⭐
 
-Boardcon's PICOT536 SoM and EMT536 SBC feature the Allwinner T536 Edge AI processor, suitable for industrial HMI, machine vision, and robotics applications. The module is equipped with a quad-core Arm Cortex-A55 CPU, RISC-V coprocessors, and a 2 TOPS NPU for edge AI processing.
+The Ryzen AI 5 435G APU rivals the Ryzen 5 8600G in performance, according to early Geekbench 6 benchmarks. This new chip, featuring a six-core Zen 5 design, may offer budget PC builders a compelling alternative. The AMD Ryzen AI 5 435G appears to offer comparable performance to existing options.
 
-💡 *Advances edge AI computing capabilities in industrial automation applications.*
+💡 *Budget builders have a competitive six-core APU option emerging.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/04/boardcon-picot536-som-and-emt536-sbc-feature-allwinner-t536-edge-ai-processor/)
-
----
-
-### 2. AMD Versal Prime VM2152 mid-range adaptive SoC features 112 Gbps GTM Transceivers, 600Gbps Ethernet, DDR5/LPDDR5 ⭐
-
-AMD's Versal Prime VM2152 is a mid-range adaptive SoC offering high-speed connectivity, 112 Gbps transceivers, and 600 Gbps Ethernet, balancing programmable logic with hardened IP blocks for power-efficient performance.
-
-💡 *High-speed connectivity with power efficiency for wired comms and aerospace applications.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/04/amd-versal-prime-vm2152-mid-range-adaptive-soc-features-112-gbps-gtm-transceivers-600gbps-ethernet-ddr5-lpddr5/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-5-435g-apu-breaks-cover-in-early-benchmarks-six-core-zen-5-chip-goes-head-to-head-with-the-ryzen-5-8600g-for-budget-pc-builders)
 
 ---
 
-### 3. Anthropic in early talks to buy DRAM-less AI inference chips from UK startup Fractile's SRAM architecture reduces need for pricey memory during extreme pricing and shortage crunch 
+### 2. ESP32-P4 + ESP32-C5 board features Raspberry Pi-compatible MIPI connectors for official displays and camera modules ⭐
 
-Anthropic holds talks with Fractile to acquire DRAM-less AI inference chips.
+The ESP32-P4 + ESP32-C5 board features a compact design with four MIPI connectors, including two compatible with Raspberry Pi camera modules and displays. It contains an ESP32-P4 MCU with 32MB PSRAM, an ESP32-C5 dual-band WiFi 6 SoC, and a 16MB NOR flash. The board also includes various ports and connectors for expansion and peripherals.
 
-💡 *Fractile's SRAM architecture mitigates DRAM shortages and pricing pressures.*
+💡 *Enhanced display and camera integration for IoT projects.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-in-early-talks-to-buy-inference-chips-from-uk-startup-fractile)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/04/esp32-p4-esp32-c5-board-features-raspberry-pi-compatible-mipi-connectors-for-official-displays-and-camera-modules/)
 
 ---
 
-### 4. AMD Ryzen 9 PRO 9965X3D spotted on Passmark company's first PRO chip with 3D V-Cache also bumps the lineup up to 16 cores 
+### 3. The chip industry is booming again, but only for companies building AI infrastructure 
 
-The AMD Ryzen 9 PRO 9965X3D is a 16-core Zen 5 chip with 3D V-Cache, marking the first PRO series processor with this technology. It is based on the 9950X3D and likely has a lower TDP. Three samples of this processor have appeared on PassMark.
+The silicon wafer industry is experiencing a 13.1% growth in shipments, driven by increased demand for AI infrastructure.
 
-💡 *First PRO chip with 3D V-Cache technology introduced.*
+💡 *AI infrastructure drives silicon wafer industry growth again.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-pro-9965x3d-spotted-on-passmark-companys-first-pro-chip-with-3d-v-cache-also-bumps-the-lineup-up-to-16-cores)
+🔗 [Read Full Article](https://www.techspot.com/news/112289-chip-industry-booming-again-but-only-companies-building.html)
+
+---
+
+### 4. Enabling Autonomous Smart Fabs: How Sensor-Driven Intelligence Is Redefining Semiconductor Manufacturing 
+
+The future of semiconductor manufacturing relies on sensor-driven intelligence and AI-driven analytics to increase productivity and efficiency.
+
+💡 *Precision control enables defect-free, high-yield semiconductor production cycles consistently.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sponsored/enabling-autonomous-smart-fabs-how-sensor-driven-intelligence-redefining-semiconductor)
+
+---
+
+### 5. A government used AI to write its AI regulations. It did not go well 
+
+A government used AI to draft an AI regulation bill, but it contained fabricated sources, sparking concerns. The incident raises questions about the reliability and accountability of AI-generated content. It's unclear what the implications will be for regulation.
+
+💡 *Unreliable AI-generated content can undermine trust in critical decision-making processes.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112293-south-africa-minister-withdraws-new-ai-policy-containing.html)
 
 ---
 
