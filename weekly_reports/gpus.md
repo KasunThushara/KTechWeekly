@@ -1,125 +1,75 @@
 # 🎮 GPUs
-**Week of May 05, 2026**
+**Week of May 06, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-05-05 10:25
+- **Articles this week:** 6
+- **Report generated:** 2026-05-06 10:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Renesas RZ/V2H Robotics Development Kit handles AI vision, motor control, and power management with a single board ⭐
+### 1. AMD posts record first-quarter results, driven by skyrocketing data center CPU demand company expects consumer andgaming revenue to decline in Q2 over rising memory and component costs 
 
-The Renesas RZ/V2H Robotics Development Kit is a single-board solution for AI vision, motor control, and power management, featuring a 80 TOPS AI accelerator and a 40-pin Raspberry Pi GPIO header.
+AMD records highest-ever quarterly revenue driven by data center CPU demand, with AI sector fueling growth. Consumer and gaming revenue is expected to decline in Q2 due to rising memory and component costs. The company's data center business is poised for long-term growth.
 
-💡 *AI-powered robotics development becomes more accessible and feasible on a single board.*
+💡 *Artificial intelligence drives surge in data center CPU demand for AMD.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/05/renesas-rz-v2h-robotics-development-kit-handles-ai-vision-motor-control-and-power-management-with-a-single-board/)
-
----
-
-### 2. AMD Ryzen AI Max+ PRO 495 APU could arrive with 192GB of unified memory leaked PassMark benchmarks suggest modest update over Strix Halo ⭐
-
-The AMD Ryzen AI Max+ PRO 495 APU gains unified memory, but retains core configuration. It offers slightly better performance compared to its predecessor, the Strix Halo. The update is considered modest.
-
-💡 *Incremental performance boost with increased unified memory capacity.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-max-pro-495-apu-could-arrive-with-192gb-of-unified-memory-leaked-passmark-benchmarks-suggest-modest-update-over-strix-halo)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-posts-record-first-quarter-results-driven-by-skyrocketing-data-center-cpu-demand-company-expects-consumer-and-gaming-revenue-to-decline-in-q2-over-rising-memory-and-component-costs)
 
 ---
 
-### 3. 3DMark tests CPU and GPU performance with modern graphics workloads ⭐
+### 2. AMD expects 20% decline in gaming revenue from 'higher memory and component costs' in the second half of the year CEO Lisa Su warns of further memory crunch 
 
-3DMark is a benchmarking tool that measures GPU and CPU performance, useful for system checks and performance comparisons.
+AMD expects a 20% decline in gaming revenue due to higher memory costs.
 
-💡 *Precise performance evaluations for modern graphics workloads and hardware configurations.*
+💡 *Memory shortage affects AMD's gaming revenue significantly.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/5775-3dmark.html)
-
----
-
-### 4. Intel's Arc Pro B70 workstation GPU with 32GB of VRAM gets tested in games Roughly twice as fast as Arc B580 on average, beats RTX 5060 Ti in some titles 
-
-Intel's Arc Pro B70 workstation GPU performs well in games, averaging 2.9% behind the RTX 5060 Ti.
-
-💡 *Arc Pro B70 closes performance gap in high-end gaming market.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intels-arc-pro-b70-workstation-gpu-with-32gb-of-vram-gets-tested-in-games-roughly-twice-as-fast-as-arc-b580-on-average-beats-rtx-5060-ti-in-some-titles)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/amd-expects-20-percent-decline-in-gaming-revenue-from-higher-memory-and-component-costs-in-the-second-half-of-the-year-ceo-lisa-su-warns-of-further-memory-crunch)
 
 ---
 
-### 5. Congatec conga-TC300 COM Express module features up to Intel Core 7 350 Wildcat Lake processor 
+### 3. Nvidia CEO Jensen Huang says China should not have Blackwell or Rubin AI GPUs firmly states US should have 'the first, the most, and the best' when it comes to AI hardware 
 
-The congatec conga-TC300 is an entry-level edge AI module featuring Intel Wildcat Lake SoCs, up to the Core 7 350 processor, with support for up to 64GB DDR5 memory and various I/O interfaces.
+Nvidia CEO Jensen Huang suggests restricting AI hardware exports to China, emphasizing America's dominance in AI.
 
-💡 *Enables efficient edge AI computing with high-performance Intel processors.*
+💡 *Protecting AI leadership requires controlling key hardware technologies domestically.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/05/congatec-conga-tc300-com-express-module-features-up-to-intel-core-7-350-wildcat-lake-processor/)
-
----
-
-### 6. Get a DDR5 starter build with a Ryzen 5 7600X and ASRock B650M Pro motherboard for 23% off $430 bundle helps avoid inflated RAM prices 
-
-Get a DDR5 starter build with a Ryzen 5 7600X and ASRock B650M Pro motherboard for a discounted price of $329.10, helping to avoid inflated RAM prices.
-
-💡 *Avoid expensive RAM prices with a bundled motherboard combo.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-a-ddr5-starter-build-with-a-ryzen-5-7600x-and-asrock-b650m-pro-motherboard-for-23-percent-off-usd430-bundle-helps-avoid-inflated-ram-prices)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-jensen-huang-says-china-should-not-have-blackwell-or-rubin-ai-gpus-firmly-states-us-should-have-the-first-the-most-and-the-best-when-it-comes-to-ai-hardware)
 
 ---
 
-### 7. Secretlab launches Mandalorian Titan Evo gaming chair in Star Wars collection for May the 4th collab builds with a new high-end themed chair 
+### 4. Outstanding RTX 5080 combo bundle saves you $1,385 on a complete high-spec PC build 64GB of RAM, 9850X3D, 2TB Samsung 9100 Pro, Corsair Case, and Power Supply for $2849 
 
-Secretlab releases Mandalorian Titan Evo gaming chair for Star Wars fans on May 4th, as part of a new collection, combining comfort and high-end gaming with Star Wars-themed designs.
+The Newegg combo bundle offers a high-spec PC build with significant savings. It includes a powerful RTX 5080, 9850X3D, and 64GB of RAM, along with a 2TB Samsung 9100 Pro storage and a Corsair case, all for $2849. This bundle saves users $1,385 compared to buying individual components.
 
-💡 *Gaming brands collaborate with popular franchises to boost brand appeal.*
+💡 *Significant savings on top-tier gaming PC components and performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/secretlab-launches-mandalorian-titan-evo-gaming-chair-for-star-wars-day)
-
----
-
-### 8. Nvidia's exposure to Asian supply chains for components hits 90% of its production costs marked increase from 65% could intensify as physical AI adds even more exposure 
-
-Nvidia's dependence on Asian suppliers has increased to 90%, up from 65%. This shift in supply chain exposes Nvidia to potential global disruptions. The trend may worsen as the AI industry grows.
-
-💡 *Nvidia's Asian supply chain exposure intensifies global vulnerability risks.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-asian-supply-chain-hits-90-percent-of-production-costs)
+🔗 [Read Full Article](https://www.tomshardware.com/speakers/outstanding-rtx-5080-combo-bundle-saves-you-usd1-385-on-a-complete-high-spec-pc-build-64gb-of-ram-9850x3d-2tb-samsung-9100-pro-corsair-case-and-power-supply-for-usd2849)
 
 ---
 
-### 9. The Best CPUs: Gaming, Productivity, and the Best Bang for Your Buck 
+### 5. Save a massive $1,120 on this HP OLED gaming laptop with an RTX 5080 right now Omen Max 16 rig ships with a 24-core Intel CPU, 32GB DDR5, 2TB SSD, and a 16-inch 1600p panel with a 240Hz refresh rate for less than $2,900 
 
-Intel's resurgence and AMD's X3D dominance make the CPU market highly competitive, offering genuine value at every price point.
+Save $1,120 on the HP Omen Max 16 gaming laptop with an RTX 5080, 24-core Intel CPU, 32GB DDR5, and a 16-inch 1600p OLED panel with a 240Hz refresh rate.
 
-💡 *Competitive CPU market offers better value and performance options.*
+💡 *High-end gaming laptop at a significantly reduced price point.*
 
-🔗 [Read Full Article](https://www.techspot.com/bestof/cpu-26/)
-
----
-
-### 10. Bazzite 44 brings kernel, desktop, and security updates 
-
-Bazzite 44 brings significant updates to its gaming-focused Linux distro, including improved GPU support and strengthened security.
-
-💡 *Enhanced gaming experience with improved GPU support and security features.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/7796-bazzite-gaming-os.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/save-a-massive-usd1-120-on-this-hp-oled-gaming-laptop-with-an-rtx-5080-right-now-omen-max-16-rig-ships-with-a-24-core-intel-cpu-32gb-ddr5-2tb-ssd-and-a-16-inch-1600p-panel-with-a-240hz-refresh-rate-for-less-than-usd2-900)
 
 ---
 
-### 11. This $88 retro gaming handheld has a screen that rotates on a hinge, because why not 
+### 6. Intel's P-core Core 9 273PQE 'Bartlett Lake' CPU beats 14900K by up to 9% in gaming tests embedded-only chip is unofficially Intel's fastest gaming CPU (at 720p) 
 
-The retro gaming handheld features an octa-core CPU, Mali G52 GPU, and 3GB RAM, while its 32GB eMCP storage is expandable via a TF card slot. It also includes WiFi 5 and Bluetooth 5.0 connectivity. The handheld's unique aspect is its screen that rotates on a hinge.
+Intel's 12 P-core Core 9 273PQE outperforms the Core i9-14900K by up to 9% in gaming tests, potentially making it Intel's fastest gaming CPU.
 
-💡 *Retro gaming handheld innovation boosts flexibility and user experience*
+💡 *Exceptional performance in low-resolution gaming could redefine Intel's gaming landscape.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112290-anbernic-rg-rotate-low-cost-retro-gaming-handheld.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-p-core-core-9-273pqe-bartlett-lake-cpu-beats-14900k-by-up-to-9-percent-in-gaming-tests-embedded-only-chip-is-unofficially-intels-fastest-gaming-cpu-at-720p)
 
 ---
 

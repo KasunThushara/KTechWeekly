@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of May 05, 2026**
+**Week of May 06, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Renesas RZ/V2H Robotics Development Kit handles AI vision, motor control, and power management with a single board ⭐
+### 1. Study compares Rust and C languages for embedded firmware development ⭐
 
 **💻 Hardware**
 
-The Renesas RZ/V2H Robotics Development Kit is a single-board solution for AI vision, motor control, and power management, featuring a 80 TOPS AI accelerator and a 40-pin Raspberry Pi GPIO header.
+A study compares Rust and C languages for embedded firmware development, concluding that Rust is a viable option due to its safety features and low memory footprint.
 
-💡 **Key Point:** AI-powered robotics development becomes more accessible and feasible on a single board.
+💡 **Key Point:** Rust's safety features improve firmware reliability for battery-powered devices.
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/05/renesas-rz-v2h-robotics-development-kit-handles-ai-vision-motor-control-and-power-management-with-a-single-board/)
-
----
-
-### 2. Renesas RZ/V2H Robotics Development Kit handles AI vision, motor control, and power management with a single board ⭐
-
-**🎮 GPUs**
-
-The Renesas RZ/V2H Robotics Development Kit is a single-board solution for AI vision, motor control, and power management, featuring a 80 TOPS AI accelerator and a 40-pin Raspberry Pi GPIO header.
-
-💡 **Key Point:** AI-powered robotics development becomes more accessible and feasible on a single board.
-
-🔗 [Read More](https://www.cnx-software.com/2026/05/05/renesas-rz-v2h-robotics-development-kit-handles-ai-vision-motor-control-and-power-management-with-a-single-board/)
+🔗 [Read More](https://www.cnx-software.com/2026/05/06/study-compares-rust-and-c-languages-for-embedded-firmware-development/)
 
 ---
 
-### 3. ESP32-P4 + ESP32-C5 board features Raspberry Pi-compatible MIPI connectors for official displays and camera modules ⭐
-
-**💻 Hardware**
-
-The ESP32-P4 + ESP32-C5 board features a compact design with four MIPI connectors, including two compatible with Raspberry Pi camera modules and displays. It contains an ESP32-P4 MCU with 32MB PSRAM, an ESP32-C5 dual-band WiFi 6 SoC, and a 16MB NOR flash. The board also includes various ports and connectors for expansion and peripherals.
-
-💡 **Key Point:** Enhanced display and camera integration for IoT projects.
-
-🔗 [Read More](https://www.cnx-software.com/2026/05/04/esp32-p4-esp32-c5-board-features-raspberry-pi-compatible-mipi-connectors-for-official-displays-and-camera-modules/)
-
----
-
-### 4. 3DMark tests CPU and GPU performance with modern graphics workloads ⭐
-
-**💻 Hardware**
-
-3DMark is a benchmarking tool that measures GPU and CPU performance, useful for system checks and performance comparisons.
-
-💡 **Key Point:** Precise performance evaluations for modern graphics workloads and hardware configurations.
-
-🔗 [Read More](https://www.techspot.com/downloads/5775-3dmark.html)
-
----
-
-### 5. Trump administration considers mandatory pre-release vetting of AI models Anthropic's Mythos cited as catalyst for policy reversal ⭐
+### 2. Study compares Rust and C languages for embedded firmware development ⭐
 
 **🤖 AI & ML**
 
-The Trump administration is considering an executive order for AI model review. This would involve a government review process for new AI models before public release. The goal is to ensure AI safety and accountability.
+A study compares Rust and C languages for embedded firmware development, concluding that Rust is a viable option due to its safety features and low memory footprint.
 
-💡 **Key Point:** Regulating AI releases could prevent catastrophic AI misuse scenarios
+💡 **Key Point:** Rust's safety features improve firmware reliability for battery-powered devices.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-considers-mandatory-pre-release-vetting-of-ai-models)
+🔗 [Read More](https://www.cnx-software.com/2026/05/06/study-compares-rust-and-c-languages-for-embedded-firmware-development/)
+
+---
+
+### 3. Inland QN450 1TB SSD Review: Maximum efficiency, minimum spend ⭐
+
+**💻 Hardware**
+
+The Inland QN450 Gen 4 SSD offers impressive performance and efficiency at a budget-friendly price. It outperforms the NV3 in various benchmarks, making it a compelling option for those seeking a balance between performance and affordability. However, it has some hardware uncertainty and lower TBW.
+
+💡 **Key Point:** Budget SSD with surprising performance capabilities and efficiency.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/inland-qn450-1tb-ssd-review)
+
+---
+
+### 4. ESP32-P4 security key features 2-inch touchscreen, 3,000+ password capacity (Crowdfunding) ⭐
+
+**💻 Hardware**
+
+MiixKey is a compact, offline ESP32-P4-based security key with a 2-inch touchscreen, allowing for secure offline storage and management of over 3,000 passwords. It's designed for users, developers, and professionals who need secure credential management without relying on cloud services or smartphone apps. MiixKey features a dual-core CPU and AI instructions extension.
+
+💡 **Key Point:** Offline password management empowers secure credential independence from cloud services.
+
+🔗 [Read More](https://www.cnx-software.com/2026/05/06/esp32-p4-security-key-features-2-inch-touchscreen-3000-password-capacity/)
+
+---
+
+### 5. Inland QN450 1TB SSD Review: Maximum efficiency, minimum spend ⭐
+
+**📰 Tech News**
+
+The Inland QN450 Gen 4 SSD offers impressive performance and efficiency at a budget-friendly price. It outperforms the NV3 in various benchmarks, making it a compelling option for those seeking a balance between performance and affordability. However, it has some hardware uncertainty and lower TBW.
+
+💡 **Key Point:** Budget SSD with surprising performance capabilities and efficiency.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/inland-qn450-1tb-ssd-review)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **58 articles** across **5 focused categories**.
+We covered **59 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 18 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 11 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 15 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 20 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 14 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 18 articles
+*Artificial Intelligence and Machine Learning* — 20 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 11 articles
+*Graphics cards and compute accelerators* — 6 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 15 articles
+*Computing hardware and development boards* — 13 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 5 articles
+*Chip manufacturing and design* — 6 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 9 articles
+*Industry news and product launches* — 14 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-05-05 at 10:25 by an autonomous AI curation system.
+Generated 2026-05-06 at 10:37 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

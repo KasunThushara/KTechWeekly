@@ -1,195 +1,215 @@
 # 🤖 AI & ML
-**Week of May 05, 2026**
+**Week of May 06, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 18
-- **Report generated:** 2026-05-05 10:25
+- **Articles this week:** 20
+- **Report generated:** 2026-05-06 10:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Trump administration considers mandatory pre-release vetting of AI models Anthropic's Mythos cited as catalyst for policy reversal ⭐
+### 1. Study compares Rust and C languages for embedded firmware development ⭐
 
-The Trump administration is considering an executive order for AI model review. This would involve a government review process for new AI models before public release. The goal is to ensure AI safety and accountability.
+A study compares Rust and C languages for embedded firmware development, concluding that Rust is a viable option due to its safety features and low memory footprint.
 
-💡 *Regulating AI releases could prevent catastrophic AI misuse scenarios*
+💡 *Rust's safety features improve firmware reliability for battery-powered devices.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-considers-mandatory-pre-release-vetting-of-ai-models)
-
----
-
-### 2. AMD Ryzen AI 5 435G APU breaks cover in early benchmarks six-core Zen 5 chip goes head-to-head with the Ryzen 5 8600G for budget PC builders ⭐
-
-The Ryzen AI 5 435G APU rivals the Ryzen 5 8600G in performance, according to early Geekbench 6 benchmarks. This new chip, featuring a six-core Zen 5 design, may offer budget PC builders a compelling alternative. The AMD Ryzen AI 5 435G appears to offer comparable performance to existing options.
-
-💡 *Budget builders have a competitive six-core APU option emerging.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-5-435g-apu-breaks-cover-in-early-benchmarks-six-core-zen-5-chip-goes-head-to-head-with-the-ryzen-5-8600g-for-budget-pc-builders)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/06/study-compares-rust-and-c-languages-for-embedded-firmware-development/)
 
 ---
 
-### 3. AMD Ryzen AI Max+ PRO 495 APU could arrive with 192GB of unified memory leaked PassMark benchmarks suggest modest update over Strix Halo ⭐
+### 2. Google Chrome 'silently' downloads 4GB AI model to your device without permission, report claims researcher says practice may violate EU law, waste thousands of kilowatts of energy 
 
-The AMD Ryzen AI Max+ PRO 495 APU gains unified memory, but retains core configuration. It offers slightly better performance compared to its predecessor, the Strix Halo. The update is considered modest.
+Google Chrome allegedly downloads a 4GB AI model without user consent, potentially violating EU law and wasting energy.
 
-💡 *Incremental performance boost with increased unified memory capacity.*
+💡 *Unauthorized AI model downloads exploit user devices and waste significant energy resources.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-max-pro-495-apu-could-arrive-with-192gb-of-unified-memory-leaked-passmark-benchmarks-suggest-modest-update-over-strix-halo)
-
----
-
-### 4. CISA flags actively exploited Copy Fail Linux kernel flaw enabling root takeover across major distros unpatched systems may remain vulnerable to attack 
-
-CISA warns of actively exploited Copy Fail Linux flaw (CVE-2026-31431) allowing root access, with a public exploit released before patches were ready.
-
-💡 *Unpatched Linux systems remain vulnerable to root takeover through exploited kernel flaw.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/cisa-flags-actively-exploited-copy-fail-linux-kernel-flaw-enabling-root-takeover-across-major-distros-unpatched-systems-may-remain-vulnerable-to-attack)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/google-chrome-silently-downloads-4gb-ai-model-to-your-device-without-permission-report-claims-researcher-says-practice-may-violate-eu-law-waste-thousands-of-kilowatts-of-energy)
 
 ---
 
-### 5. The chip industry is booming again, but only for companies building AI infrastructure 
+### 3. Microsoft says 'Transformation Paradox' holding back AI adoption in the workplace 45% of respondents say it's safer to focus on current goals, rather than AI innovation 
 
-The silicon wafer industry is experiencing a 13.1% growth in shipments, driven by increased demand for AI infrastructure.
+Microsoft's study finds that AI adoption in workplaces is hindered by outdated processes, requiring a transformation from top-down to fully integrate AI tools effectively. This transformation paradox prevents employees from making the most of AI. Employees often prioritize current goals over innovation.
 
-💡 *AI infrastructure drives silicon wafer industry growth again.*
+💡 *Outdated processes hinder AI adoption in the workplace effectively*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112289-chip-industry-booming-again-but-only-companies-building.html)
-
----
-
-### 6. AMD Ryzen AI Halo mini PC is coming in June with 128GB of unified memory and a focus on local AI workloads 
-
-AMD is launching a Ryzen AI Halo mini PC in June, featuring 128GB unified memory. The device focuses on local AI workloads. Pricing details are not yet available.
-
-💡 *Accelerating local AI workloads with high-performance unified memory capabilities.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112287-amd-ryzen-ai-halo-mini-pc-coming-june.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-transformation-paradox-holding-back-ai-adoption-in-the-workplace-45-percent-of-respondents-say-its-safer-to-focus-on-current-goals-rather-than-ai-innovation)
 
 ---
 
-### 7. Enthusiast recreates 43-year-old Apple Lisa with FPGA board first commercial computer with a GUI faithfully cloned with modernized machine 
+### 4. Accelerating AI at the Edge with Synthesized Sensor Data 
 
-An enthusiast recreated the Apple Lisa with an FPGA board, faithfully cloning its GUI and hardware. The Apple Lisa was the first commercial computer with a graphical user interface. This modernized machine is a testament to retro technology innovation.
+Synthetic data accelerates AI at the edge by overcoming data pipeline constraints, improving scalability, performance, and reliability of intelligent systems.
 
-💡 *Reviving vintage tech showcases innovation's enduring legacy and potential.*
+💡 *Faster, more reliable AI at the edge with synthetic data.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/enthusiast-creates-an-fpga-powered-apple-lisa-clone-modernized-machine-faithfully-recreates-the-first-commercial-computer-with-a-gui)
-
----
-
-### 8. Intel swipes Qualcomm veteran of 25 years to lead client computing Alex Katouzian jumps ship to oversee consumer CPUs and physical AI 
-
-Intel appoints Alex Katouzian to lead client computing and AI efforts, signaling a shift towards AI-driven and edge computing systems. The move also confirms Pushkar Ranade as CTO. Katouzian brings 25 years of experience from Qualcomm.
-
-💡 *Intel enhances AI capabilities with Qualcomm veteran's expertise leadership*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/intel-swipes-qualcomm-veteran-of-25-years-to-lead-client-computing-alex-katouzian-jumps-ship-to-oversee-consumer-cpus-and-physical-ai)
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/accelerating-ai-edge-synthesized-sensor-data)
 
 ---
 
-### 9. Secretlab launches Mandalorian Titan Evo gaming chair in Star Wars collection for May the 4th collab builds with a new high-end themed chair 
+### 5. Meta is using AI facial analysis to identify underage users on Facebook and Instagram 
 
-Secretlab releases Mandalorian Titan Evo gaming chair for Star Wars fans on May 4th, as part of a new collection, combining comfort and high-end gaming with Star Wars-themed designs.
+Meta is developing AI to scan photos and videos for age estimation, claiming it's not facial recognition.
 
-💡 *Gaming brands collaborate with popular franchises to boost brand appeal.*
+💡 *Potential invasion of users' privacy through AI-powered age analysis.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/secretlab-launches-mandalorian-titan-evo-gaming-chair-for-star-wars-day)
-
----
-
-### 10. Nvidia's exposure to Asian supply chains for components hits 90% of its production costs marked increase from 65% could intensify as physical AI adds even more exposure 
-
-Nvidia's dependence on Asian suppliers has increased to 90%, up from 65%. This shift in supply chain exposes Nvidia to potential global disruptions. The trend may worsen as the AI industry grows.
-
-💡 *Nvidia's Asian supply chain exposure intensifies global vulnerability risks.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-asian-supply-chain-hits-90-percent-of-production-costs)
+🔗 [Read Full Article](https://www.techspot.com/news/112306-meta-using-ai-facial-analysis-identify-underage-users.html)
 
 ---
 
-### 11. AIVON Offers $60 New User Credits for PCB Prototyping Starting from $1 (Sponsored) 
+### 6. Denmark presses pause on new data center grid connections as total requests hit 60 GW Nordic nation is the latest to put the brakes on AI buildouts 
 
-AIVON offers $60 in credits for new users to reduce prototyping costs. New customers receive $30 manufacturing credit and $30 shipping credit. This allows for free shipping on standard PCB prototype orders.
+Denmark's grid operator has paused new connection requests due to high demand from potential data centers and other installations, totaling up to 60 GW. This move aims to manage the strain on the grid and prevent potential supply shortages. The country is now re-evaluating its energy infrastructure to meet the increasing needs of the data center industry.
 
-💡 *Low-cost prototyping enables faster development and reduced financial risk.*
+💡 *Rapid data center growth strains Denmark's energy infrastructure capacity*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/05/aivon-offers-60-new-user-credits-for-pcb-prototyping-starting-from-1/)
-
----
-
-### 12. Enabling Autonomous Smart Fabs: How Sensor-Driven Intelligence Is Redefining Semiconductor Manufacturing 
-
-The future of semiconductor manufacturing relies on sensor-driven intelligence and AI-driven analytics to increase productivity and efficiency.
-
-💡 *Precision control enables defect-free, high-yield semiconductor production cycles consistently.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sponsored/enabling-autonomous-smart-fabs-how-sensor-driven-intelligence-redefining-semiconductor)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/denmark-presses-pause-on-new-data-center-grid-connections-as-total-requests-hit-60-gw-nordic-nation-is-the-latest-to-put-the-brakes-on-ai-buildouts)
 
 ---
 
-### 13. A government used AI to write its AI regulations. It did not go well 
+### 7. Palantir co-founder Peter Thiel backs $140M wave-powered AI data center startup Panthalassa aims to run offshore compute nodes using ocean energy 
 
-A government used AI to draft an AI regulation bill, but it contained fabricated sources, sparking concerns. The incident raises questions about the reliability and accountability of AI-generated content. It's unclear what the implications will be for regulation.
+Panthalassa raises $140M for wave-powered offshore data centers tackling energy efficiency.
 
-💡 *Unreliable AI-generated content can undermine trust in critical decision-making processes.*
+💡 *Decarbonizing data centers by harnessing ocean energy for compute power.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112293-south-africa-minister-withdraws-new-ai-policy-containing.html)
-
----
-
-### 14. This $88 retro gaming handheld has a screen that rotates on a hinge, because why not 
-
-The retro gaming handheld features an octa-core CPU, Mali G52 GPU, and 3GB RAM, while its 32GB eMCP storage is expandable via a TF card slot. It also includes WiFi 5 and Bluetooth 5.0 connectivity. The handheld's unique aspect is its screen that rotates on a hinge.
-
-💡 *Retro gaming handheld innovation boosts flexibility and user experience*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112290-anbernic-rg-rotate-low-cost-retro-gaming-handheld.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/palantir-co-founder-peter-thiel-backs-usd140m-wave-powered-ai-data-center-startup-panthalassa-aims-to-run-offshore-compute-nodes-using-ocean-energy)
 
 ---
 
-### 15. Next-gen MRDIMM standard nears completion targeting 12,800 MT/s DDR5 transfer rates for AI and data center workloads 
+### 8. Huawei braces for $12 billion in AI chip revenue driven by homegrown AI model demand Chinese fabs can barely keep up as Nvidia's market share craters within the region 
 
-JEDEC's updated timeline brings near-completion for the next-gen MRDIMM standard, enabling 12,800 MT/s DDR5 transfer rates for AI and data center workloads.
+Huawei is expected to generate $12 billion in AI chip revenue, driven by demand for its homegrown AI model. This represents a growth of at least 60% year-over-year, based on orders from major Chinese tech firms. Chinese fabs are struggling to keep up with Nvidia's declining market share in the region.
 
-💡 *Future-proofing data centers with significantly faster memory transfer rates.*
+💡 *Huawei's homegrown AI model drives massive chip revenue growth.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112286-mrdimm-getting-faster-jedec-targets-higher-bandwidth-ai.html)
-
----
-
-### 16. The Oscars just declared that AI actors and AI-written scripts can't win awards 
-
-The Oscars have clarified rules to exclude AI-created content from eligibility. Acting roles must be performed by humans with their consent, while screenplays must be human-authored. This move aims to maintain the integrity of the awards.
-
-💡 *Preserving human creative agency in the face of AI advancements*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112288-oscars-ruled-ai-actors-ai-written-scripts-cant.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero)
 
 ---
 
-### 17. That time when a Waymo robotaxi drove off with a passenger's luggage after the trunk failed to unlock at the airport 
+### 9. JSR to build first Taiwan photoresist plant to co-develop advanced resists with TSMC multi-million dollar plant could come online as early as 2028 
 
-A Waymo robotaxi drove away with a passenger's luggage at the airport, as the trunk failed to unlock.
+JSR is building its first Taiwan photoresist plant with TSMC to co-develop advanced resists, addressing a competitive disadvantage. The facility aims to close the gap with Japanese rivals. The multi-million dollar plant could come online as early as 2028.
 
-💡 *Autonomous vehicles may struggle with basic functions like trunk operation.*
+💡 *Closing competitive gap with advanced resists development*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112283-waymo-robotaxi-drives-off-passenger-luggage-after-airport.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/jsr-to-build-first-taiwan-photoresist-plant-to-co-develop-advanced-resists-with-tsmc)
 
 ---
 
-### 18. A Chinese court just ruled companies can't fire workers simply because AI can replace them 
+### 10. Apple considering Intel and Samsung for US chip production, report claims consumer electronics giant looks to diversify supply chain amid chip shortages 
 
-A Chinese court ruled that AI-based layoffs are not justifiable without evidence.
+Apple is in talks with Intel and Samsung to diversify its chip production amid supply chain constraints.
 
-💡 *Protecting workers' rights in the face of AI automation*
+💡 *Chip shortages force Apple to consider new production partnerships.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112282-chinese-court-rules-companies-cant-fire-workers-because.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/apple-considering-intel-and-samsung-for-us-chip-production-report-claims-consumer-electronics-giant-looks-to-diversify-supply-chain-amid-chip-shortages)
+
+---
+
+### 11. Nvidia CEO Jensen Huang says China should not have Blackwell or Rubin AI GPUs firmly states US should have 'the first, the most, and the best' when it comes to AI hardware 
+
+Nvidia CEO Jensen Huang suggests restricting AI hardware exports to China, emphasizing America's dominance in AI.
+
+💡 *Protecting AI leadership requires controlling key hardware technologies domestically.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-jensen-huang-says-china-should-not-have-blackwell-or-rubin-ai-gpus-firmly-states-us-should-have-the-first-the-most-and-the-best-when-it-comes-to-ai-hardware)
+
+---
+
+### 12. China pushes for 70% homegrown silicon wafer use as domestic firm ramps up 12-inch production government seeking to localize critical chip supply chain amid AI boom and export restrictions 
+
+China aims for 70% domestic silicon wafer sourcing, driven by AI boom and export restrictions, with firms like Eswin scaling 12-inch production to reduce reliance on foreign suppliers.
+
+💡 *Reducing reliance on foreign chip suppliers amid AI boom and export restrictions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/china-pushes-for-70-percent-homegrown-silicon-wafer-use-as-domestic-firm-ramps-up-12-inch-production-government-seeking-to-localize-critical-chip-supply-chain-amid-ai-boom-and-export-restrictions)
+
+---
+
+### 13. Notepad++ creator threatens legal action over macOS port of open-source app developer says port is fine, but branding is too far 
+
+Notepad++ creator Don Ho threatens legal action over macOS port branding.
+
+💡 *Trademark dispute affects open-source app's macOS development and branding freedom.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/notepad-plus-plus-creator-threatens-legal-action-over-macos-port)
+
+---
+
+### 14. TDK debuts SensorGPT and SensorStage for developers 
+
+TDK debuts SensorGPT and SensorStage to accelerate Edge AI development, leveraging synthetic data to reduce development time.
+
+💡 *Synthetic data speeds up Edge AI model building and deployment.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/nxp-debuts-sensorgpt-and-sensorstage-developers)
+
+---
+
+### 15. Google Chrome has been silently pushing a 4GB AI model to your device without asking 
+
+Google Chrome has silently downloaded a 4GB AI model without user consent, occupying space in the browser's directory, potentially contributing to storage issues.
+
+💡 *Unregulated AI model downloads violate user trust and storage.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112309-google-chrome-has-silently-pushing-4gb-ai-model.html)
+
+---
+
+### 16. Gearbox boss posts AI image "for fun," spends hours defending studio's no-AI policy 
+
+Gearbox boss Pitchford posted an AI-generated image 'for fun,' sparking controversy over AI use in game development.
+
+💡 *Studio's AI policy contradicts its public stance on game content creation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112304-randy-pitchford-ai-post-backfires-fans-question-gearbox.html)
+
+---
+
+### 17. Unofficial Notepad++ macOS app forced to rebrand after creator objects 
+
+Notepad++ macOS app forced to rebrand after creator's objection. Developer Andrey Letov's unofficial port aims to replicate Notepad++ experience on macOS, but due to trademark concerns, it must change its name.
+
+💡 *Trademark disputes hinder open-source software porting efforts significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112299-unofficial-notepad-macos-app-forced-rebrand-after-creator.html)
+
+---
+
+### 18. PC players must wait for GTA 6 because they aren't the "core" audience and spend less on GTA Online 
+
+Take-Two may prioritize console users over PC players for GTA 6, citing a focus on its 'core' audience. This suggests that the company views the PC as a secondary market. However, PC players' contribution to GTA Online revenue is acknowledged.
+
+💡 *Prioritizing core audience over PC players may impact GTA 6 revenue potential*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112296-pc-players-must-wait-gta-6-because-they.html)
+
+---
+
+### 19. This startup just raised $140 million to build wave-powered AI data centers at sea 
+
+Panthalassa is building wave-powered AI data centers at sea using autonomous platforms that harness ocean energy to power AI chips.
+
+💡 *Decoupling data centers from traditional grid infrastructure reduces carbon footprint significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112295-startup-raised-140-million-build-wave-powered-ai.html)
+
+---
+
+### 20. The life and death of sensors crept in at this Sensors Converge workshop 
+
+The Sensors Converge workshop explored sensors and AI for Industry 4.0, but delved deeper into the intersection of technologies, revealing new possibilities for innovation and growth. The event brought together experts from various fields to discuss the latest advancements and challenges in sensor technology and artificial intelligence. Attendees gained insights into how these technologies can be applied to real-world problems, driving industry transformation.
+
+💡 *Sensor convergence fuels AI-driven innovation and industry-wide disruption.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/life-and-death-sensors-crept-sensors-converge-workshop)
 
 ---
 

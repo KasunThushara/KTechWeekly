@@ -1,165 +1,145 @@
 # 💻 Hardware
-**Week of May 05, 2026**
+**Week of May 06, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 15
-- **Report generated:** 2026-05-05 10:25
+- **Articles this week:** 13
+- **Report generated:** 2026-05-06 10:37
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Renesas RZ/V2H Robotics Development Kit handles AI vision, motor control, and power management with a single board ⭐
+### 1. Study compares Rust and C languages for embedded firmware development ⭐
 
-The Renesas RZ/V2H Robotics Development Kit is a single-board solution for AI vision, motor control, and power management, featuring a 80 TOPS AI accelerator and a 40-pin Raspberry Pi GPIO header.
+A study compares Rust and C languages for embedded firmware development, concluding that Rust is a viable option due to its safety features and low memory footprint.
 
-💡 *AI-powered robotics development becomes more accessible and feasible on a single board.*
+💡 *Rust's safety features improve firmware reliability for battery-powered devices.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/05/renesas-rz-v2h-robotics-development-kit-handles-ai-vision-motor-control-and-power-management-with-a-single-board/)
-
----
-
-### 2. ESP32-P4 + ESP32-C5 board features Raspberry Pi-compatible MIPI connectors for official displays and camera modules ⭐
-
-The ESP32-P4 + ESP32-C5 board features a compact design with four MIPI connectors, including two compatible with Raspberry Pi camera modules and displays. It contains an ESP32-P4 MCU with 32MB PSRAM, an ESP32-C5 dual-band WiFi 6 SoC, and a 16MB NOR flash. The board also includes various ports and connectors for expansion and peripherals.
-
-💡 *Enhanced display and camera integration for IoT projects.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/04/esp32-p4-esp32-c5-board-features-raspberry-pi-compatible-mipi-connectors-for-official-displays-and-camera-modules/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/06/study-compares-rust-and-c-languages-for-embedded-firmware-development/)
 
 ---
 
-### 3. 3DMark tests CPU and GPU performance with modern graphics workloads ⭐
+### 2. Inland QN450 1TB SSD Review: Maximum efficiency, minimum spend ⭐
 
-3DMark is a benchmarking tool that measures GPU and CPU performance, useful for system checks and performance comparisons.
+The Inland QN450 Gen 4 SSD offers impressive performance and efficiency at a budget-friendly price. It outperforms the NV3 in various benchmarks, making it a compelling option for those seeking a balance between performance and affordability. However, it has some hardware uncertainty and lower TBW.
 
-💡 *Precise performance evaluations for modern graphics workloads and hardware configurations.*
+💡 *Budget SSD with surprising performance capabilities and efficiency.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/5775-3dmark.html)
-
----
-
-### 4. New server-focused SPEC CPU 2026 benchmarking suite has results for a Raspberry Pi 5 updated tools feature more tests and can run a wide range of systems 
-
-The SPEC CPU 2026 is an updated benchmarking suite featuring more tests and emphasizing portability, allowing it to run on a wide range of systems, from high-end servers to low-end devices like the Raspberry Pi 5.
-
-💡 *Industry-standard benchmarking now spans entire tech ecosystems efficiently.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/new-server-focused-spec-cpu-2026-benchmarking-suite-has-results-for-a-raspberry-pi-5-updated-tools-feature-more-tests-and-can-run-a-wide-range-of-systems)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/inland-qn450-1tb-ssd-review)
 
 ---
 
-### 5. Intel's Arc Pro B70 workstation GPU with 32GB of VRAM gets tested in games Roughly twice as fast as Arc B580 on average, beats RTX 5060 Ti in some titles 
+### 3. ESP32-P4 security key features 2-inch touchscreen, 3,000+ password capacity (Crowdfunding) ⭐
 
-Intel's Arc Pro B70 workstation GPU performs well in games, averaging 2.9% behind the RTX 5060 Ti.
+MiixKey is a compact, offline ESP32-P4-based security key with a 2-inch touchscreen, allowing for secure offline storage and management of over 3,000 passwords. It's designed for users, developers, and professionals who need secure credential management without relying on cloud services or smartphone apps. MiixKey features a dual-core CPU and AI instructions extension.
 
-💡 *Arc Pro B70 closes performance gap in high-end gaming market.*
+💡 *Offline password management empowers secure credential independence from cloud services.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intels-arc-pro-b70-workstation-gpu-with-32gb-of-vram-gets-tested-in-games-roughly-twice-as-fast-as-arc-b580-on-average-beats-rtx-5060-ti-in-some-titles)
-
----
-
-### 6. Congatec conga-TC300 COM Express module features up to Intel Core 7 350 Wildcat Lake processor 
-
-The congatec conga-TC300 is an entry-level edge AI module featuring Intel Wildcat Lake SoCs, up to the Core 7 350 processor, with support for up to 64GB DDR5 memory and various I/O interfaces.
-
-💡 *Enables efficient edge AI computing with high-performance Intel processors.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/05/congatec-conga-tc300-com-express-module-features-up-to-intel-core-7-350-wildcat-lake-processor/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/06/esp32-p4-security-key-features-2-inch-touchscreen-3000-password-capacity/)
 
 ---
 
-### 7. AMD Ryzen AI Halo mini PC is coming in June with 128GB of unified memory and a focus on local AI workloads 
+### 4. Lenovo Yoga Slim 7i Aura Edition (2026) Review: Vibrant display, lightweight design, and an endurance champ 
 
-AMD is launching a Ryzen AI Halo mini PC in June, featuring 128GB unified memory. The device focuses on local AI workloads. Pricing details are not yet available.
+The Lenovo Yoga Slim 7i Aura Edition offers a vibrant display and long battery life in a lightweight design.
 
-💡 *Accelerating local AI workloads with high-performance unified memory capabilities.*
+💡 *Balancing performance, portability, and endurance for modern users' needs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112287-amd-ryzen-ai-halo-mini-pc-coming-june.html)
-
----
-
-### 8. Enthusiast recreates 43-year-old Apple Lisa with FPGA board first commercial computer with a GUI faithfully cloned with modernized machine 
-
-An enthusiast recreated the Apple Lisa with an FPGA board, faithfully cloning its GUI and hardware. The Apple Lisa was the first commercial computer with a graphical user interface. This modernized machine is a testament to retro technology innovation.
-
-💡 *Reviving vintage tech showcases innovation's enduring legacy and potential.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/enthusiast-creates-an-fpga-powered-apple-lisa-clone-modernized-machine-faithfully-recreates-the-first-commercial-computer-with-a-gui)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/lenovo-yoga-slim-7i-aura-edition-2026-review)
 
 ---
 
-### 9. Intel swipes Qualcomm veteran of 25 years to lead client computing Alex Katouzian jumps ship to oversee consumer CPUs and physical AI 
+### 5. Toradex Zinnia Linux IoT Gateway offers dual GbE, WiFi 5, 4G LTE, I/Os, and simplify software deployment 
 
-Intel appoints Alex Katouzian to lead client computing and AI efforts, signaling a shift towards AI-driven and edge computing systems. The move also confirms Pushkar Ranade as CTO. Katouzian brings 25 years of experience from Qualcomm.
+Toradex Zinnia is an industrial IoT gateway with dual Gigabit Ethernet, Wi-Fi 5, and optional 4G LTE, targeting edge AI and industrial automation, smart cities, and energy infrastructure.
 
-💡 *Intel enhances AI capabilities with Qualcomm veteran's expertise leadership*
+💡 *Simplifies industrial IoT edge computing with scalable, secure solutions.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/intel-swipes-qualcomm-veteran-of-25-years-to-lead-client-computing-alex-katouzian-jumps-ship-to-oversee-consumer-cpus-and-physical-ai)
-
----
-
-### 10. Get a DDR5 starter build with a Ryzen 5 7600X and ASRock B650M Pro motherboard for 23% off $430 bundle helps avoid inflated RAM prices 
-
-Get a DDR5 starter build with a Ryzen 5 7600X and ASRock B650M Pro motherboard for a discounted price of $329.10, helping to avoid inflated RAM prices.
-
-💡 *Avoid expensive RAM prices with a bundled motherboard combo.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-a-ddr5-starter-build-with-a-ryzen-5-7600x-and-asrock-b650m-pro-motherboard-for-23-percent-off-usd430-bundle-helps-avoid-inflated-ram-prices)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/06/toradex-zinnia-linux-iot-gateway-offers-dual-gbe-wifi-5-4g-lte-i-os-and-simplify-software-deployment/)
 
 ---
 
-### 11. Alienware 16 Area-51 review: OLED screen update 
+### 6. AMD posts record first-quarter results, driven by skyrocketing data center CPU demand company expects consumer andgaming revenue to decline in Q2 over rising memory and component costs 
 
-The Alienware 16 Area-51 features a powerful performance, OLED display option, and updated design.
+AMD records highest-ever quarterly revenue driven by data center CPU demand, with AI sector fueling growth. Consumer and gaming revenue is expected to decline in Q2 due to rising memory and component costs. The company's data center business is poised for long-term growth.
 
-💡 *OLED display upgrade offers superior visuals and gaming experience.*
+💡 *Artificial intelligence drives surge in data center CPU demand for AMD.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/alienware-16-area-51-oled-2026-review)
-
----
-
-### 12. AIVON Offers $60 New User Credits for PCB Prototyping Starting from $1 (Sponsored) 
-
-AIVON offers $60 in credits for new users to reduce prototyping costs. New customers receive $30 manufacturing credit and $30 shipping credit. This allows for free shipping on standard PCB prototype orders.
-
-💡 *Low-cost prototyping enables faster development and reduced financial risk.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/05/aivon-offers-60-new-user-credits-for-pcb-prototyping-starting-from-1/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-posts-record-first-quarter-results-driven-by-skyrocketing-data-center-cpu-demand-company-expects-consumer-and-gaming-revenue-to-decline-in-q2-over-rising-memory-and-component-costs)
 
 ---
 
-### 13. The Best CPUs: Gaming, Productivity, and the Best Bang for Your Buck 
+### 7. Latest Apex Legends update smooths out stutter on Ryzen X3D CPUs physics algos apparently struggled at high frame rates unlocked by V-Cache 
 
-Intel's resurgence and AMD's X3D dominance make the CPU market highly competitive, offering genuine value at every price point.
+Apex Legends Season 29 update addresses high frame rate stuttering issues caused by physics calculations struggling to keep up on modern high-end CPUs, particularly Ryzen X3D CPUs with unlocked V-Cache technology.
 
-💡 *Competitive CPU market offers better value and performance options.*
+💡 *Optimized physics algos improve gaming performance at high frame rates.*
 
-🔗 [Read Full Article](https://www.techspot.com/bestof/cpu-26/)
-
----
-
-### 14. Bazzite 44 brings kernel, desktop, and security updates 
-
-Bazzite 44 brings significant updates to its gaming-focused Linux distro, including improved GPU support and strengthened security.
-
-💡 *Enhanced gaming experience with improved GPU support and security features.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/7796-bazzite-gaming-os.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/latest-apex-legends-update-smooths-out-stutter-on-ryzen-x3d-cpus-physics-algos-apparently-struggled-at-high-frame-rates-unlocked-by-v-cache)
 
 ---
 
-### 15. Utah just passed the first US law targeting VPN use for age verification 
+### 8. Outstanding RTX 5080 combo bundle saves you $1,385 on a complete high-spec PC build 64GB of RAM, 9850X3D, 2TB Samsung 9100 Pro, Corsair Case, and Power Supply for $2849 
 
-Utah's law requires age verification for online content, disregarding VPN use. The law considers a user to be accessing a website from Utah if they are physically located there, regardless of VPN or proxy use. This law takes effect on May 6.
+The Newegg combo bundle offers a high-spec PC build with significant savings. It includes a powerful RTX 5080, 9850X3D, and 64GB of RAM, along with a 2TB Samsung 9100 Pro storage and a Corsair case, all for $2849. This bundle saves users $1,385 compared to buying individual components.
 
-💡 *Challenges to online anonymity and privacy in the digital age*
+💡 *Significant savings on top-tier gaming PC components and performance.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112284-utah-becomes-first-state-target-vpn-use-age.html)
+🔗 [Read Full Article](https://www.tomshardware.com/speakers/outstanding-rtx-5080-combo-bundle-saves-you-usd1-385-on-a-complete-high-spec-pc-build-64gb-of-ram-9850x3d-2tb-samsung-9100-pro-corsair-case-and-power-supply-for-usd2849)
+
+---
+
+### 9. Save a massive $1,120 on this HP OLED gaming laptop with an RTX 5080 right now Omen Max 16 rig ships with a 24-core Intel CPU, 32GB DDR5, 2TB SSD, and a 16-inch 1600p panel with a 240Hz refresh rate for less than $2,900 
+
+Save $1,120 on the HP Omen Max 16 gaming laptop with an RTX 5080, 24-core Intel CPU, 32GB DDR5, and a 16-inch 1600p OLED panel with a 240Hz refresh rate.
+
+💡 *High-end gaming laptop at a significantly reduced price point.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/save-a-massive-usd1-120-on-this-hp-oled-gaming-laptop-with-an-rtx-5080-right-now-omen-max-16-rig-ships-with-a-24-core-intel-cpu-32gb-ddr5-2tb-ssd-and-a-16-inch-1600p-panel-with-a-240hz-refresh-rate-for-less-than-usd2-900)
+
+---
+
+### 10. Intel's P-core Core 9 273PQE 'Bartlett Lake' CPU beats 14900K by up to 9% in gaming tests embedded-only chip is unofficially Intel's fastest gaming CPU (at 720p) 
+
+Intel's 12 P-core Core 9 273PQE outperforms the Core i9-14900K by up to 9% in gaming tests, potentially making it Intel's fastest gaming CPU.
+
+💡 *Exceptional performance in low-resolution gaming could redefine Intel's gaming landscape.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-p-core-core-9-273pqe-bartlett-lake-cpu-beats-14900k-by-up-to-9-percent-in-gaming-tests-embedded-only-chip-is-unofficially-intels-fastest-gaming-cpu-at-720p)
+
+---
+
+### 11. The Metal Gear Solid 2 leak is massive and perfectly timed modders are already dreaming big 
+
+Metal Gear Solid 2's HD remaster assets were leaked on 4chan, including source code and 30GB of raw data.
+
+💡 *Massive leak opens doors to endless modding possibilities for the game.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112297-metal-gear-solid-2-leak-massive-perfectly-timed.html)
+
+---
+
+### 12. The FCC wants to ban Chinese labs from certifying electronics, but 75% of devices are tested there now 
+
+The FCC proposes banning Chinese labs from certifying US-bound electronics, citing concerns over radio frequency emissions. Currently, 75% of devices are tested in these labs, raising questions about compliance and security. This move could impact imports and sales.
+
+💡 *US electronics imports heavily reliant on Chinese certification labs.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112305-devices-could-cost-more-fcc-moves-ban-china.html)
+
+---
+
+### 13. PC players must wait for GTA 6 because they aren't the "core" audience and spend less on GTA Online 
+
+Take-Two may prioritize console users over PC players for GTA 6, citing a focus on its 'core' audience. This suggests that the company views the PC as a secondary market. However, PC players' contribution to GTA Online revenue is acknowledged.
+
+💡 *Prioritizing core audience over PC players may impact GTA 6 revenue potential*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112296-pc-players-must-wait-gta-6-because-they.html)
 
 ---
 
