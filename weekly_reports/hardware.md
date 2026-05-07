@@ -1,145 +1,125 @@
 # 💻 Hardware
-**Week of May 06, 2026**
+**Week of May 07, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-05-06 10:37
+- **Articles this week:** 11
+- **Report generated:** 2026-05-07 10:54
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Study compares Rust and C languages for embedded firmware development ⭐
+### 1. FalCAN Probe is an open-source, STM32-based USB to CAN/RS-485/RS-422 adapter ⭐
 
-A study compares Rust and C languages for embedded firmware development, concluding that Rust is a viable option due to its safety features and low memory footprint.
+FalCAN Probe is an open-source, multi-protocol USB adapter for CAN and RS serial buses, featuring an STM32F042 microcontroller with USB, CAN, RS-485, and RS-422 interfaces.
 
-💡 *Rust's safety features improve firmware reliability for battery-powered devices.*
+💡 *Flexible, open-source adapter enables diverse automotive and industrial network connectivity options.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/06/study-compares-rust-and-c-languages-for-embedded-firmware-development/)
-
----
-
-### 2. Inland QN450 1TB SSD Review: Maximum efficiency, minimum spend ⭐
-
-The Inland QN450 Gen 4 SSD offers impressive performance and efficiency at a budget-friendly price. It outperforms the NV3 in various benchmarks, making it a compelling option for those seeking a balance between performance and affordability. However, it has some hardware uncertainty and lower TBW.
-
-💡 *Budget SSD with surprising performance capabilities and efficiency.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/inland-qn450-1tb-ssd-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/07/falcan-probe-open-source-stm32-based-usb-to-can-adapter-rs485-rs422/)
 
 ---
 
-### 3. ESP32-P4 security key features 2-inch touchscreen, 3,000+ password capacity (Crowdfunding) ⭐
+### 2. GameNative adds multi-frame generation to PC games on Android devices, unlocking up to 100 fps gameplay Vulkan version of Lossless Scaling boosts performance 
 
-MiixKey is a compact, offline ESP32-P4-based security key with a 2-inch touchscreen, allowing for secure offline storage and management of over 3,000 passwords. It's designed for users, developers, and professionals who need secure credential management without relying on cloud services or smartphone apps. MiixKey features a dual-core CPU and AI instructions extension.
+GameNative's update brings Lossless Scaling's multi-frame generation to Android devices, enabling up to 100 FPS gameplay.
 
-💡 *Offline password management empowers secure credential independence from cloud services.*
+💡 *Smoothened gaming experience with significantly reduced screen tearing.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/06/esp32-p4-security-key-features-2-inch-touchscreen-3000-password-capacity/)
-
----
-
-### 4. Lenovo Yoga Slim 7i Aura Edition (2026) Review: Vibrant display, lightweight design, and an endurance champ 
-
-The Lenovo Yoga Slim 7i Aura Edition offers a vibrant display and long battery life in a lightweight design.
-
-💡 *Balancing performance, portability, and endurance for modern users' needs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/lenovo-yoga-slim-7i-aura-edition-2026-review)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/gamenative-adds-multi-frame-generation-to-pc-games-on-android-devices-vulkan-version-of-lossless-scaling-enables-100-fps-gameplay)
 
 ---
 
-### 5. Toradex Zinnia Linux IoT Gateway offers dual GbE, WiFi 5, 4G LTE, I/Os, and simplify software deployment 
+### 3. AMD to broaden and specialize EPYC CPUs, already working on Zen 7 architecture increased customization to better address evolving AI and cloud needs 
 
-Toradex Zinnia is an industrial IoT gateway with dual Gigabit Ethernet, Wi-Fi 5, and optional 4G LTE, targeting edge AI and industrial automation, smart cities, and energy infrastructure.
+AMD plans to expand its EPYC CPU portfolio for data centers, targeting various workloads with increased customization and the upcoming Zen 7 architecture, to address evolving AI and cloud needs.
 
-💡 *Simplifies industrial IoT edge computing with scalable, secure solutions.*
+💡 *Adaptable EPYC CPUs to dominate cloud and AI infrastructure markets.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/06/toradex-zinnia-linux-iot-gateway-offers-dual-gbe-wifi-5-4g-lte-i-os-and-simplify-software-deployment/)
-
----
-
-### 6. AMD posts record first-quarter results, driven by skyrocketing data center CPU demand company expects consumer andgaming revenue to decline in Q2 over rising memory and component costs 
-
-AMD records highest-ever quarterly revenue driven by data center CPU demand, with AI sector fueling growth. Consumer and gaming revenue is expected to decline in Q2 due to rising memory and component costs. The company's data center business is poised for long-term growth.
-
-💡 *Artificial intelligence drives surge in data center CPU demand for AMD.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-posts-record-first-quarter-results-driven-by-skyrocketing-data-center-cpu-demand-company-expects-consumer-and-gaming-revenue-to-decline-in-q2-over-rising-memory-and-component-costs)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-to-broaden-and-specialize-epyc-cpus-already-working-on-zen-7-architecture-increased-customization-to-better-address-evolving-ai-and-cloud-needs)
 
 ---
 
-### 7. Latest Apex Legends update smooths out stutter on Ryzen X3D CPUs physics algos apparently struggled at high frame rates unlocked by V-Cache 
+### 4. Ploopy Bean open-source hardware pointing stick mouse runs QMK firmware 
 
-Apex Legends Season 29 update addresses high frame rate stuttering issues caused by physics calculations struggling to keep up on modern high-end CPUs, particularly Ryzen X3D CPUs with unlocked V-Cache technology.
+The Ploopy Bean is a 3D-printed, open-source pointing stick mouse that runs QMK firmware on a Raspberry Pi RP2040 microcontroller, featuring high-precision 3D hall effect sensor and customizable buttons.
 
-💡 *Optimized physics algos improve gaming performance at high frame rates.*
+💡 *Advances open-source hardware innovation with precise and customizable pointing technology.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/latest-apex-legends-update-smooths-out-stutter-on-ryzen-x3d-cpus-physics-algos-apparently-struggled-at-high-frame-rates-unlocked-by-v-cache)
-
----
-
-### 8. Outstanding RTX 5080 combo bundle saves you $1,385 on a complete high-spec PC build 64GB of RAM, 9850X3D, 2TB Samsung 9100 Pro, Corsair Case, and Power Supply for $2849 
-
-The Newegg combo bundle offers a high-spec PC build with significant savings. It includes a powerful RTX 5080, 9850X3D, and 64GB of RAM, along with a 2TB Samsung 9100 Pro storage and a Corsair case, all for $2849. This bundle saves users $1,385 compared to buying individual components.
-
-💡 *Significant savings on top-tier gaming PC components and performance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/speakers/outstanding-rtx-5080-combo-bundle-saves-you-usd1-385-on-a-complete-high-spec-pc-build-64gb-of-ram-9850x3d-2tb-samsung-9100-pro-corsair-case-and-power-supply-for-usd2849)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/07/ploopy-bean-open-source-hardware-pointing-stick-mouse-runs-qmk-firmware/)
 
 ---
 
-### 9. Save a massive $1,120 on this HP OLED gaming laptop with an RTX 5080 right now Omen Max 16 rig ships with a 24-core Intel CPU, 32GB DDR5, 2TB SSD, and a 16-inch 1600p panel with a 240Hz refresh rate for less than $2,900 
+### 5. HAUI 3Gang Touch Display is a 7-inch wall-mount Home Assistant dashboard with MQTT support 
 
-Save $1,120 on the HP Omen Max 16 gaming laptop with an RTX 5080, 24-core Intel CPU, 32GB DDR5, and a 16-inch 1600p OLED panel with a 240Hz refresh rate.
+The HAUI 3Gang Touch Display is a 7-inch wall-mount smart home control dashboard designed to run Home Assistant or other web-based home automation dashboards. It features a Raspberry Pi 3B+, 7-inch capacitive touchscreen, Wi-Fi connectivity, and built-in MQTT integration. The device replaces standard wall switches and fits into a standard single-gang electrical box.
 
-💡 *High-end gaming laptop at a significantly reduced price point.*
+💡 *Enhances home automation control with a customizable, wall-mountable dashboard solution.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/save-a-massive-usd1-120-on-this-hp-oled-gaming-laptop-with-an-rtx-5080-right-now-omen-max-16-rig-ships-with-a-24-core-intel-cpu-32gb-ddr5-2tb-ssd-and-a-16-inch-1600p-panel-with-a-240hz-refresh-rate-for-less-than-usd2-900)
-
----
-
-### 10. Intel's P-core Core 9 273PQE 'Bartlett Lake' CPU beats 14900K by up to 9% in gaming tests embedded-only chip is unofficially Intel's fastest gaming CPU (at 720p) 
-
-Intel's 12 P-core Core 9 273PQE outperforms the Core i9-14900K by up to 9% in gaming tests, potentially making it Intel's fastest gaming CPU.
-
-💡 *Exceptional performance in low-resolution gaming could redefine Intel's gaming landscape.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-p-core-core-9-273pqe-bartlett-lake-cpu-beats-14900k-by-up-to-9-percent-in-gaming-tests-embedded-only-chip-is-unofficially-intels-fastest-gaming-cpu-at-720p)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/07/haui-3gang-touch-display-7-inch-wall-mount-home-assistant-dashboard-with-mqtt-support/)
 
 ---
 
-### 11. The Metal Gear Solid 2 leak is massive and perfectly timed modders are already dreaming big 
+### 6. Hackers used Daemon Tools' own website to silently install backdoors on thousands of PCs for nearly a month 
 
-Metal Gear Solid 2's HD remaster assets were leaked on 4chan, including source code and 30GB of raw data.
+Hackers compromised Daemon Tools' website, silently installing backdoors on thousands of PCs.
 
-💡 *Massive leak opens doors to endless modding possibilities for the game.*
+💡 *Legitimate digital certificates used to bypass traditional security detection methods.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112297-metal-gear-solid-2-leak-massive-perfectly-timed.html)
-
----
-
-### 12. The FCC wants to ban Chinese labs from certifying electronics, but 75% of devices are tested there now 
-
-The FCC proposes banning Chinese labs from certifying US-bound electronics, citing concerns over radio frequency emissions. Currently, 75% of devices are tested in these labs, raising questions about compliance and security. This move could impact imports and sales.
-
-💡 *US electronics imports heavily reliant on Chinese certification labs.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112305-devices-could-cost-more-fcc-moves-ban-china.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112318-hackers-used-daemon-tools-own-website-silently-install.html)
 
 ---
 
-### 13. PC players must wait for GTA 6 because they aren't the "core" audience and spend less on GTA Online 
+### 7. Save nearly $300 on AMD Ryzen 7 9850X3D and Asus Prime RTX 5070 bundle, plus an 850W PSU score the core components to a new gaming rig for only $940 
 
-Take-Two may prioritize console users over PC players for GTA 6, citing a focus on its 'core' audience. This suggests that the company views the PC as a secondary market. However, PC players' contribution to GTA Online revenue is acknowledged.
+Assemble a gaming PC with AMD Ryzen 7 9850X3D and Asus Prime RTX 5070, along with an 850W PSU, for $940. This deal includes a copy of Capcom's Pragmata game. Build a high-performance gaming rig at a budget-friendly price.
 
-💡 *Prioritizing core audience over PC players may impact GTA 6 revenue potential*
+💡 *Affordable high-performance gaming PC build option for budget-conscious gamers.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112296-pc-players-must-wait-gta-6-because-they.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-nearly-usd300-on-amd-ryzen-7-9850x3d-and-asus-prime-rtx-5070-bundle-plus-an-850w-psu-score-the-core-components-to-a-new-gaming-rig-for-only-usd940)
+
+---
+
+### 8. PCIe 8.0 spec hits 1 TB/s of bandwidth and has new connector technology spec hits 0.5V milestone, final ratification expected in 2028 
+
+PCIe 8.0 spec achieves 1 TB/s of bandwidth, with new connector technology reaching 0.5V milestone. The draft maintains 256 GT/s data transfer rate and backwards compatibility. Final ratification is expected in 2028.
+
+💡 *Revolutionizing data transfer speeds with unprecedented PCIe performance*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/pci-sig-reveals-pcie-8-0-0-5v-spec-first-draft-includes-1-tb-s-bandwidth-and-new-connector-technology)
+
+---
+
+### 9. SteelSeries Aerox 3 Wireless Gen 2 Review: The Bright and Bold 
+
+The SteelSeries Aerox 3 Wireless Gen 2 offers an excellent gaming experience with fast charging and a bright, bold design. However, it may experience some sluggish performance. Overall, this mouse is a great choice for those seeking high-quality wireless gaming.
+
+💡 *Wireless gaming capabilities meet high-performance expectations with this mouse design*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/steelseries-aerox-3-wireless-gen-2-review)
+
+---
+
+### 10. Dell XPS 16 (2026) Review: A flagship return to form 
+
+Dell's revived XPS 16 offers an elite experience, but at a premium price.
+
+💡 *Flagship laptops require high investment for high-end performance.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-16-2026-review-da16260)
+
+---
+
+### 11. AMD warns gaming revenue will plunge over 20% as memory prices drive up PC hardware costs 
+
+AMD's Q1 revenue rose 38% to $10.3 billion, driven by strong data center sales and improved client and gaming segments. Gaming revenue saw a notable increase. However, the company warns that gaming revenue will decline due to rising memory costs.
+
+💡 *Rising memory prices threaten AMD's gaming revenue growth momentum.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112316-amd-warns-gaming-revenue-plunge-over-20-memory.html)
 
 ---
 

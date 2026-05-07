@@ -1,441 +1,404 @@
 [
   {
-    "title": "AMD posts record first-quarter results, driven by skyrocketing data center CPU demand company expects consumer andgaming revenue to decline in Q2 over rising memory and component costs",
-    "summary": "AMD records highest-ever quarterly revenue driven by data center CPU demand, with AI sector fueling growth. Consumer and gaming revenue is expected to decline in Q2 due to rising memory and component costs. The company's data center business is poised for long-term growth.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-posts-record-first-quarter-results-driven-by-skyrocketing-data-center-cpu-demand-company-expects-consumer-and-gaming-revenue-to-decline-in-q2-over-rising-memory-and-component-costs",
+    "title": "GameNative adds multi-frame generation to PC games on Android devices, unlocking up to 100 fps gameplay Vulkan version of Lossless Scaling boosts performance",
+    "summary": "GameNative's update brings Lossless Scaling's multi-frame generation to Android devices, enabling up to 100 FPS gameplay.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/gamenative-adds-multi-frame-generation-to-pc-games-on-android-devices-vulkan-version-of-lossless-scaling-enables-100-fps-gameplay",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-07T10:53:10.141549",
+    "insight": "Smoothened gaming experience with significantly reduced screen tearing."
+  },
+  {
+    "title": "College student hacks Taiwan high-speed rail line with software defined radios, stopping four trains 19 years without crypto key rotation ends in predictable result as hacker sails through 7 layers of protection",
+    "summary": "A college student hacked the Taiwan high-speed rail line using software defined radios, stopping four trains. The breach occurred because of a predictable security vulnerability, specifically 19 years without crypto key rotation. This allowed the hacker to easily bypass multiple layers of protection.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/college-student-hacks-taiwan-high-speed-rail-line-stopping-four-trains-19-years-without-crypto-key-rotation-ends-in-predictable-result",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.141665",
+    "insight": "Outdated security practices create predictable vulnerabilities that hackers can exploit easily."
+  },
+  {
+    "title": "Samsung chip workers reject $340,000 one-time bonus, demand annual payouts like SK hynix's $900,000 workers want share of AI windfall, impending 18-day strike could cost Samsung up to $11.7 billion",
+    "summary": "Samsung chip workers reject one-time bonus, demand annual payouts instead. This follows demands from SK hynix workers for a share of AI windfall. A potential 18-day strike could cost Samsung up to $11.7 billion.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/samsung-chip-workers-reject-usd340-000-one-time-bonus-demand-annual-payouts-like-sk-hynixs-usd900-000-workers-want-share-of-ai-windfall-impending-18-day-strike-could-cost-samsung-up-to-usd11-7-billion",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.141786",
+    "insight": "Workers seek long-term financial gains over one-time bonuses."
+  },
+  {
+    "title": "Save nearly $300 on AMD Ryzen 7 9850X3D and Asus Prime RTX 5070 bundle, plus an 850W PSU score the core components to a new gaming rig for only $940",
+    "summary": "Assemble a gaming PC with AMD Ryzen 7 9850X3D and Asus Prime RTX 5070, along with an 850W PSU, for $940. This deal includes a copy of Capcom's Pragmata game. Build a high-performance gaming rig at a budget-friendly price.",
+    "link": "https://www.tomshardware.com/pc-components/save-nearly-usd300-on-amd-ryzen-7-9850x3d-and-asus-prime-rtx-5070-bundle-plus-an-850w-psu-score-the-core-components-to-a-new-gaming-rig-for-only-usd940",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.136693",
-    "insight": "Artificial intelligence drives surge in data center CPU demand for AMD."
+    "processed_date": "2026-05-07T10:53:10.141895",
+    "insight": "Affordable high-performance gaming PC build option for budget-conscious gamers."
   },
   {
-    "title": "Google Chrome 'silently' downloads 4GB AI model to your device without permission, report claims researcher says practice may violate EU law, waste thousands of kilowatts of energy",
-    "summary": "Google Chrome allegedly downloads a 4GB AI model without user consent, potentially violating EU law and wasting energy.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/google-chrome-silently-downloads-4gb-ai-model-to-your-device-without-permission-report-claims-researcher-says-practice-may-violate-eu-law-waste-thousands-of-kilowatts-of-energy",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-06T10:36:24.136817",
-    "insight": "Unauthorized AI model downloads exploit user devices and waste significant energy resources."
-  },
-  {
-    "title": "Denmark presses pause on new data center grid connections as total requests hit 60 GW Nordic nation is the latest to put the brakes on AI buildouts",
-    "summary": "Denmark's grid operator has paused new connection requests due to high demand from potential data centers and other installations, totaling up to 60 GW. This move aims to manage the strain on the grid and prevent potential supply shortages. The country is now re-evaluating its energy infrastructure to meet the increasing needs of the data center industry.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/denmark-presses-pause-on-new-data-center-grid-connections-as-total-requests-hit-60-gw-nordic-nation-is-the-latest-to-put-the-brakes-on-ai-buildouts",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.136928",
-    "insight": "Rapid data center growth strains Denmark's energy infrastructure capacity"
-  },
-  {
-    "title": "Microsoft says 'Transformation Paradox' holding back AI adoption in the workplace 45% of respondents say it's safer to focus on current goals, rather than AI innovation",
-    "summary": "Microsoft's study finds that AI adoption in workplaces is hindered by outdated processes, requiring a transformation from top-down to fully integrate AI tools effectively. This transformation paradox prevents employees from making the most of AI. Employees often prioritize current goals over innovation.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-transformation-paradox-holding-back-ai-adoption-in-the-workplace-45-percent-of-respondents-say-its-safer-to-focus-on-current-goals-rather-than-ai-innovation",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-06T10:36:24.137039",
-    "insight": "Outdated processes hinder AI adoption in the workplace effectively"
-  },
-  {
-    "title": "Japan using game development engines for urban planning and disaster management Kimono sales also stretching Unity and Unreal Engine capabilities beyond the small screen",
-    "summary": "Japan leverages game engines for urban planning and disaster management, while also pushing the limits of 3D avatar clothing sales. Unity and Unreal Engine are being utilized for a range of applications. Kimono sales are utilizing 3D avatar technology.",
-    "link": "https://www.tomshardware.com/virtual-reality/japan-using-game-development-engines-for-urban-planning-and-disaster-management-kimono-sales-also-stretching-unity-and-unreal-engine-capabilities-beyond-the-small-screen",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-05-06T10:36:24.137139",
-    "insight": "Game engines drive innovation in non-entertainment sectors beyond gaming."
-  },
-  {
-    "title": "Latest Apex Legends update smooths out stutter on Ryzen X3D CPUs physics algos apparently struggled at high frame rates unlocked by V-Cache",
-    "summary": "Apex Legends Season 29 update addresses high frame rate stuttering issues caused by physics calculations struggling to keep up on modern high-end CPUs, particularly Ryzen X3D CPUs with unlocked V-Cache technology.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/latest-apex-legends-update-smooths-out-stutter-on-ryzen-x3d-cpus-physics-algos-apparently-struggled-at-high-frame-rates-unlocked-by-v-cache",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.137250",
-    "insight": "Optimized physics algos improve gaming performance at high frame rates."
-  },
-  {
-    "title": "AMD expects 20% decline in gaming revenue from 'higher memory and component costs' in the second half of the year CEO Lisa Su warns of further memory crunch",
-    "summary": "AMD expects a 20% decline in gaming revenue due to higher memory costs.",
-    "link": "https://www.tomshardware.com/tech-industry/amd-expects-20-percent-decline-in-gaming-revenue-from-higher-memory-and-component-costs-in-the-second-half-of-the-year-ceo-lisa-su-warns-of-further-memory-crunch",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.137351",
-    "insight": "Memory shortage affects AMD's gaming revenue significantly."
-  },
-  {
-    "title": "Palantir co-founder Peter Thiel backs $140M wave-powered AI data center startup Panthalassa aims to run offshore compute nodes using ocean energy",
-    "summary": "Panthalassa raises $140M for wave-powered offshore data centers tackling energy efficiency.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/palantir-co-founder-peter-thiel-backs-usd140m-wave-powered-ai-data-center-startup-panthalassa-aims-to-run-offshore-compute-nodes-using-ocean-energy",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.137452",
-    "insight": "Decarbonizing data centers by harnessing ocean energy for compute power."
-  },
-  {
-    "title": "Huawei braces for $12 billion in AI chip revenue driven by homegrown AI model demand Chinese fabs can barely keep up as Nvidia's market share craters within the region",
-    "summary": "Huawei is expected to generate $12 billion in AI chip revenue, driven by demand for its homegrown AI model. This represents a growth of at least 60% year-over-year, based on orders from major Chinese tech firms. Chinese fabs are struggling to keep up with Nvidia's declining market share in the region.",
-    "link": "https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.137571",
-    "insight": "Huawei's homegrown AI model drives massive chip revenue growth."
-  },
-  {
-    "title": "Lenovo Yoga Slim 7i Aura Edition (2026) Review: Vibrant display, lightweight design, and an endurance champ",
-    "summary": "The Lenovo Yoga Slim 7i Aura Edition offers a vibrant display and long battery life in a lightweight design.",
-    "link": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/lenovo-yoga-slim-7i-aura-edition-2026-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-06T10:36:24.137663",
-    "insight": "Balancing performance, portability, and endurance for modern users' needs."
-  },
-  {
-    "title": "JSR to build first Taiwan photoresist plant to co-develop advanced resists with TSMC multi-million dollar plant could come online as early as 2028",
-    "summary": "JSR is building its first Taiwan photoresist plant with TSMC to co-develop advanced resists, addressing a competitive disadvantage. The facility aims to close the gap with Japanese rivals. The multi-million dollar plant could come online as early as 2028.",
-    "link": "https://www.tomshardware.com/tech-industry/jsr-to-build-first-taiwan-photoresist-plant-to-co-develop-advanced-resists-with-tsmc",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.137756",
-    "insight": "Closing competitive gap with advanced resists development"
-  },
-  {
-    "title": "Apple considering Intel and Samsung for US chip production, report claims consumer electronics giant looks to diversify supply chain amid chip shortages",
-    "summary": "Apple is in talks with Intel and Samsung to diversify its chip production amid supply chain constraints.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/apple-considering-intel-and-samsung-for-us-chip-production-report-claims-consumer-electronics-giant-looks-to-diversify-supply-chain-amid-chip-shortages",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.137860",
-    "insight": "Chip shortages force Apple to consider new production partnerships."
-  },
-  {
-    "title": "Inland QN450 1TB SSD Review: Maximum efficiency, minimum spend",
-    "summary": "The Inland QN450 Gen 4 SSD offers impressive performance and efficiency at a budget-friendly price. It outperforms the NV3 in various benchmarks, making it a compelling option for those seeking a balance between performance and affordability. However, it has some hardware uncertainty and lower TBW.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/inland-qn450-1tb-ssd-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-05-06T10:36:24.137957",
-    "insight": "Budget SSD with surprising performance capabilities and efficiency."
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang says China should not have Blackwell or Rubin AI GPUs firmly states US should have 'the first, the most, and the best' when it comes to AI hardware",
-    "summary": "Nvidia CEO Jensen Huang suggests restricting AI hardware exports to China, emphasizing America's dominance in AI.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-jensen-huang-says-china-should-not-have-blackwell-or-rubin-ai-gpus-firmly-states-us-should-have-the-first-the-most-and-the-best-when-it-comes-to-ai-hardware",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.138059",
-    "insight": "Protecting AI leadership requires controlling key hardware technologies domestically."
-  },
-  {
-    "title": "Outstanding RTX 5080 combo bundle saves you $1,385 on a complete high-spec PC build 64GB of RAM, 9850X3D, 2TB Samsung 9100 Pro, Corsair Case, and Power Supply for $2849",
-    "summary": "The Newegg combo bundle offers a high-spec PC build with significant savings. It includes a powerful RTX 5080, 9850X3D, and 64GB of RAM, along with a 2TB Samsung 9100 Pro storage and a Corsair case, all for $2849. This bundle saves users $1,385 compared to buying individual components.",
-    "link": "https://www.tomshardware.com/speakers/outstanding-rtx-5080-combo-bundle-saves-you-usd1-385-on-a-complete-high-spec-pc-build-64gb-of-ram-9850x3d-2tb-samsung-9100-pro-corsair-case-and-power-supply-for-usd2849",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.138160",
-    "insight": "Significant savings on top-tier gaming PC components and performance."
-  },
-  {
-    "title": "Save a massive $1,120 on this HP OLED gaming laptop with an RTX 5080 right now Omen Max 16 rig ships with a 24-core Intel CPU, 32GB DDR5, 2TB SSD, and a 16-inch 1600p panel with a 240Hz refresh rate for less than $2,900",
-    "summary": "Save $1,120 on the HP Omen Max 16 gaming laptop with an RTX 5080, 24-core Intel CPU, 32GB DDR5, and a 16-inch 1600p OLED panel with a 240Hz refresh rate.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-a-massive-usd1-120-on-this-hp-oled-gaming-laptop-with-an-rtx-5080-right-now-omen-max-16-rig-ships-with-a-24-core-intel-cpu-32gb-ddr5-2tb-ssd-and-a-16-inch-1600p-panel-with-a-240hz-refresh-rate-for-less-than-usd2-900",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.138276",
-    "insight": "High-end gaming laptop at a significantly reduced price point."
-  },
-  {
-    "title": "China pushes for 70% homegrown silicon wafer use as domestic firm ramps up 12-inch production government seeking to localize critical chip supply chain amid AI boom and export restrictions",
-    "summary": "China aims for 70% domestic silicon wafer sourcing, driven by AI boom and export restrictions, with firms like Eswin scaling 12-inch production to reduce reliance on foreign suppliers.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-pushes-for-70-percent-homegrown-silicon-wafer-use-as-domestic-firm-ramps-up-12-inch-production-government-seeking-to-localize-critical-chip-supply-chain-amid-ai-boom-and-export-restrictions",
+    "title": "3D-printed rocket fuel successfully tested, could enable lighter missiles and faster production rates new additive manufacturing process tested at 1,800 PSI",
+    "summary": "Chromatic 3D Materials successfully tested 3D-printed rocket propellant with 1,800 PSI pressure, enabling faster production and advanced designs.",
+    "link": "https://www.tomshardware.com/3d-printing/startup-successfully-tests-3d-printed-rocket-fuel-that-could-enable-lighter-missiles-and-faster-production-rates-new-additive-manufacturing-process-tested-at-1-800-psi",
     "categories": [
       "Semiconductors",
-      "AI & ML"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.138381",
-    "insight": "Reducing reliance on foreign chip suppliers amid AI boom and export restrictions."
+    "processed_date": "2026-05-07T10:53:10.142017",
+    "insight": "Potential for lightweight, high-performance missiles with rapid production rates."
   },
   {
-    "title": "Notepad++ creator threatens legal action over macOS port of open-source app developer says port is fine, but branding is too far",
-    "summary": "Notepad++ creator Don Ho threatens legal action over macOS port branding.",
-    "link": "https://www.tomshardware.com/tech-industry/notepad-plus-plus-creator-threatens-legal-action-over-macos-port",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.138474",
-    "insight": "Trademark dispute affects open-source app's macOS development and branding freedom."
-  },
-  {
-    "title": "Intel's P-core Core 9 273PQE 'Bartlett Lake' CPU beats 14900K by up to 9% in gaming tests embedded-only chip is unofficially Intel's fastest gaming CPU (at 720p)",
-    "summary": "Intel's 12 P-core Core 9 273PQE outperforms the Core i9-14900K by up to 9% in gaming tests, potentially making it Intel's fastest gaming CPU.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-p-core-core-9-273pqe-bartlett-lake-cpu-beats-14900k-by-up-to-9-percent-in-gaming-tests-embedded-only-chip-is-unofficially-intels-fastest-gaming-cpu-at-720p",
+    "title": "PCIe 8.0 spec hits 1 TB/s of bandwidth and has new connector technology spec hits 0.5V milestone, final ratification expected in 2028",
+    "summary": "PCIe 8.0 spec achieves 1 TB/s of bandwidth, with new connector technology reaching 0.5V milestone. The draft maintains 256 GT/s data transfer rate and backwards compatibility. Final ratification is expected in 2028.",
+    "link": "https://www.tomshardware.com/tech-industry/pci-sig-reveals-pcie-8-0-0-5v-spec-first-draft-includes-1-tb-s-bandwidth-and-new-connector-technology",
     "categories": [
       "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.142126",
+    "insight": "Revolutionizing data transfer speeds with unprecedented PCIe performance"
+  },
+  {
+    "title": "Xbox CEO Asha Sharma kills Copilot for Gaming overhauls leadership with CoreAI veterans",
+    "summary": "Xbox CEO Asha Sharma has made significant changes to the gaming platform, killing off Copilot and introducing new leadership from CoreAI veterans. This shift aims to overhaul the gaming experience with AI-driven innovations. Sharma's vision is to drive growth and improvement.",
+    "link": "https://www.tomshardware.com/video-games/xbox/xbox-ceo-asha-sharma-kills-copilot-for-gaming",
+    "categories": [
+      "AI & ML",
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.138578",
-    "insight": "Exceptional performance in low-resolution gaming could redefine Intel's gaming landscape."
-  },
-  {
-    "title": "ESP32-P4 security key features 2-inch touchscreen, 3,000+ password capacity (Crowdfunding)",
-    "summary": "MiixKey is a compact, offline ESP32-P4-based security key with a 2-inch touchscreen, allowing for secure offline storage and management of over 3,000 passwords. It's designed for users, developers, and professionals who need secure credential management without relying on cloud services or smartphone apps. MiixKey features a dual-core CPU and AI instructions extension.",
-    "link": "https://www.cnx-software.com/2026/05/06/esp32-p4-security-key-features-2-inch-touchscreen-3000-password-capacity/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-05-06T10:36:24.139072",
-    "insight": "Offline password management empowers secure credential independence from cloud services."
-  },
-  {
-    "title": "Toradex Zinnia Linux IoT Gateway offers dual GbE, WiFi 5, 4G LTE, I/Os, and simplify software deployment",
-    "summary": "Toradex Zinnia is an industrial IoT gateway with dual Gigabit Ethernet, Wi-Fi 5, and optional 4G LTE, targeting edge AI and industrial automation, smart cities, and energy infrastructure.",
-    "link": "https://www.cnx-software.com/2026/05/06/toradex-zinnia-linux-iot-gateway-offers-dual-gbe-wifi-5-4g-lte-i-os-and-simplify-software-deployment/",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-06T10:36:24.139265",
-    "insight": "Simplifies industrial IoT edge computing with scalable, secure solutions."
-  },
-  {
-    "title": "Study compares Rust and C languages for embedded firmware development",
-    "summary": "A study compares Rust and C languages for embedded firmware development, concluding that Rust is a viable option due to its safety features and low memory footprint.",
-    "link": "https://www.cnx-software.com/2026/05/06/study-compares-rust-and-c-languages-for-embedded-firmware-development/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-05-06T10:36:24.139436",
-    "insight": "Rust's safety features improve firmware reliability for battery-powered devices."
-  },
-  {
-    "title": "The life and death of sensors crept in at this Sensors Converge workshop",
-    "summary": "The Sensors Converge workshop explored sensors and AI for Industry 4.0, but delved deeper into the intersection of technologies, revealing new possibilities for innovation and growth. The event brought together experts from various fields to discuss the latest advancements and challenges in sensor technology and artificial intelligence. Attendees gained insights into how these technologies can be applied to real-world problems, driving industry transformation.",
-    "link": "https://www.fiercesensors.com/sensors/life-and-death-sensors-crept-sensors-converge-workshop",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 0,
-    "processed_date": "2026-05-06T10:36:24.140461",
-    "insight": "Sensor convergence fuels AI-driven innovation and industry-wide disruption."
+    "processed_date": "2026-05-07T10:53:10.142250",
+    "insight": "Xbox leadership pivots to AI-driven gaming with Copilot's demise"
   },
   {
-    "title": "At SC26, Murata and Hexagon show driver assistance tech updates",
-    "summary": "At SC26, Murata and Hexagon showcased advancements in driver assistance technologies, prioritizing safety through engineering innovation. These updates focus on improving ADAS systems, enhancing safety features and overall driving experiences. The collaboration brings together expertise to create more reliable and efficient ADAS solutions.",
-    "link": "https://www.fiercesensors.com/sensors/sc26-murata-and-hexagon-show-driver-assistance-tech-updates",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-05-06T10:36:24.140583",
-    "insight": "Advancements in ADAS technologies improve safety and driving experiences."
-  },
-  {
-    "title": "Accelerating AI at the Edge with Synthesized Sensor Data",
-    "summary": "Synthetic data accelerates AI at the edge by overcoming data pipeline constraints, improving scalability, performance, and reliability of intelligent systems.",
-    "link": "https://www.fiercesensors.com/ai/accelerating-ai-edge-synthesized-sensor-data",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-06T10:36:24.140718",
-    "insight": "Faster, more reliable AI at the edge with synthetic data."
-  },
-  {
-    "title": "TDK debuts SensorGPT and SensorStage for developers",
-    "summary": "TDK debuts SensorGPT and SensorStage to accelerate Edge AI development, leveraging synthetic data to reduce development time.",
-    "link": "https://www.fiercesensors.com/sensors/nxp-debuts-sensorgpt-and-sensorstage-developers",
+    "title": "Survey shows that nearly half of Americans don't want new data centers built near their homes 47% oppose the construction of new AI data centers in their neighborhood",
+    "summary": "Almost half of Americans oppose AI data center construction near their neighborhoods.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/survey-shows-that-nearly-half-of-americans-dont-want-new-data-centers-built-near-their-homes-47-percent-oppose-the-construction-of-new-ai-data-centers-in-their-neighborhood",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.140839",
-    "insight": "Synthetic data speeds up Edge AI model building and deployment."
+    "processed_date": "2026-05-07T10:53:10.142378",
+    "insight": "Public concerns about AI data centers' environmental impact matter significantly."
   },
   {
-    "title": "Frame Generation Doesn't Fix Bad Performance!",
-    "summary": "Lego Batman's actual performance falls short of its advertised 60 FPS, running at 15 FPS. Frame generation is intended to enhance smooth gameplay, not mask poor performance. Players expect honest representation of a game's capabilities.",
-    "link": "https://www.techspot.com/article/3121-frame-gen-wont-fix-performance/",
+    "title": "Steam Controller and Puck CAD files officially released under a Creative Commons license Valve encourages users to create accessories for the device",
+    "summary": "Valve has released official 3D CAD files for the Steam Controller and Puck, allowing users to create custom accessories. The files are available under a Creative Commons license, encouraging users to share their creations. This move enables enthusiasts to tailor their gaming experience.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-and-puck-cad-files-officially-released-under-a-creative-commons-license-valve-encourages-users-to-create-accessories-for-the-device",
     "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-06T10:36:24.141109",
-    "insight": "Misleading performance metrics harm player trust and game reputation."
+    "processed_date": "2026-05-07T10:53:10.142499",
+    "insight": "Custom accessories empower gamers to personalize their Steam experience."
   },
   {
-    "title": "Google Chrome has been silently pushing a 4GB AI model to your device without asking",
-    "summary": "Google Chrome has silently downloaded a 4GB AI model without user consent, occupying space in the browser's directory, potentially contributing to storage issues.",
-    "link": "https://www.techspot.com/news/112309-google-chrome-has-silently-pushing-4gb-ai-model.html",
+    "title": "New Linux StarFighter laptop family debuts starting at $1,878 Star Labs Systems' laptops arrive with spacious RAM, several options",
+    "summary": "The StarFighter Linux laptop is now available for purchase, offering spacious RAM options. It's the latest model from Star Labs Systems, a small startup based in rural England. Prices start at $1,878.",
+    "link": "https://www.tomshardware.com/laptops/new-linux-starfighter-laptop-family-debuts-starting-at-usd1-878-star-labs-systems-laptops-arrive-with-spacious-ram-several-options",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.141234",
-    "insight": "Unregulated AI model downloads violate user trust and storage."
+    "processed_date": "2026-05-07T10:53:10.142638",
+    "insight": "High-end Linux laptop offers competitive RAM capacity at an affordable price."
   },
   {
-    "title": "The Metal Gear Solid 2 leak is massive and perfectly timed modders are already dreaming big",
-    "summary": "Metal Gear Solid 2's HD remaster assets were leaked on 4chan, including source code and 30GB of raw data.",
-    "link": "https://www.techspot.com/news/112297-metal-gear-solid-2-leak-massive-perfectly-timed.html",
+    "title": "AMD to broaden and specialize EPYC CPUs, already working on Zen 7 architecture increased customization to better address evolving AI and cloud needs",
+    "summary": "AMD plans to expand its EPYC CPU portfolio for data centers, targeting various workloads with increased customization and the upcoming Zen 7 architecture, to address evolving AI and cloud needs.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-to-broaden-and-specialize-epyc-cpus-already-working-on-zen-7-architecture-increased-customization-to-better-address-evolving-ai-and-cloud-needs",
     "categories": [
+      "AI & ML",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.141347",
-    "insight": "Massive leak opens doors to endless modding possibilities for the game."
+    "quality_score": 10,
+    "processed_date": "2026-05-07T10:53:10.142744",
+    "insight": "Adaptable EPYC CPUs to dominate cloud and AI infrastructure markets."
   },
   {
-    "title": "Meta is using AI facial analysis to identify underage users on Facebook and Instagram",
-    "summary": "Meta is developing AI to scan photos and videos for age estimation, claiming it's not facial recognition.",
-    "link": "https://www.techspot.com/news/112306-meta-using-ai-facial-analysis-identify-underage-users.html",
+    "title": "SteelSeries Aerox 3 Wireless Gen 2 Review: The Bright and Bold",
+    "summary": "The SteelSeries Aerox 3 Wireless Gen 2 offers an excellent gaming experience with fast charging and a bright, bold design. However, it may experience some sluggish performance. Overall, this mouse is a great choice for those seeking high-quality wireless gaming.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-mice/steelseries-aerox-3-wireless-gen-2-review",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.142840",
+    "insight": "Wireless gaming capabilities meet high-performance expectations with this mouse design"
+  },
+  {
+    "title": "Dell XPS 16 (2026) Review: A flagship return to form",
+    "summary": "Dell's revived XPS 16 offers an elite experience, but at a premium price.",
+    "link": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-16-2026-review-da16260",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.142935",
+    "insight": "Flagship laptops require high investment for high-end performance."
+  },
+  {
+    "title": "Score this 500Hz 27-inch Samsung Odyssey OLED gaming monitor at its lowest ever price, now just $649.99 huge $349 saving nets you ultra-fast G60SF display with Nvidia G-Sync support",
+    "summary": "The Samsung Odyssey OLED G60SF gaming monitor is now at $649.99, a $349 saving off the regular price, offering an ultra-fast G60SF display with Nvidia G-Sync support.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/score-this-500hz-27-inch-samsung-odyssey-oled-gaming-monitor-at-its-lowest-ever-price-now-just-usd649-99-huge-usd349-saving-nets-you-ultra-fast-g60sf-display-with-nvidia-g-sync-support",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.143041",
+    "insight": "Significant price drop for high-quality gaming monitor technology."
+  },
+  {
+    "title": "SpaceX files for $55 billion semiconductor fab in rural Texas for Musk's Terafab total chipmaking fab investment could reach $119 billion",
+    "summary": "SpaceX files for a $55 billion semiconductor fab in rural Texas, exceeding the initial $20 billion Terafab investment announced in March. This filing suggests Musk's total chipmaking investment could reach $119 billion. The project's massive scale reflects growing demand for advanced semiconductors.",
+    "link": "https://www.tomshardware.com/tech-industry/spacex-files-for-55-billion-semiconductor-fab-in-rural-texas",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-07T10:53:10.143158",
+    "insight": "Transformative investment in chipmaking could drive technological breakthroughs and innovation"
+  },
+  {
+    "title": "Apple quietly axes 128GB Mac Studio amid supply constraints and local AI frenzy highest memory capacity reduced to 96GB, two months after discontinuation of 512GB model",
+    "summary": "Apple discreetly removes high capacity Mac Studios and Mac minis from sale due to ongoing memory constraints.",
+    "link": "https://www.tomshardware.com/desktops/apple-quietly-axes-128gb-mac-studio-amid-supply-constraints-and-local-ai-frenzy-highest-memory-capacity-reduced-to-96gb-two-months-after-discontinuation-of-512gb-model",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-05-06T10:36:24.141464",
-    "insight": "Potential invasion of users' privacy through AI-powered age analysis."
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.143277",
+    "insight": "Memory supply constraints impact consumer Apple products severely."
   },
   {
-    "title": "The FCC wants to ban Chinese labs from certifying electronics, but 75% of devices are tested there now",
-    "summary": "The FCC proposes banning Chinese labs from certifying US-bound electronics, citing concerns over radio frequency emissions. Currently, 75% of devices are tested in these labs, raising questions about compliance and security. This move could impact imports and sales.",
-    "link": "https://www.techspot.com/news/112305-devices-could-cost-more-fcc-moves-ban-china.html",
+    "title": "FalCAN Probe is an open-source, STM32-based USB to CAN/RS-485/RS-422 adapter",
+    "summary": "FalCAN Probe is an open-source, multi-protocol USB adapter for CAN and RS serial buses, featuring an STM32F042 microcontroller with USB, CAN, RS-485, and RS-422 interfaces.",
+    "link": "https://www.cnx-software.com/2026/05/07/falcan-probe-open-source-stm32-based-usb-to-can-adapter-rs485-rs422/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-07T10:53:10.143759",
+    "insight": "Flexible, open-source adapter enables diverse automotive and industrial network connectivity options."
+  },
+  {
+    "title": "Ploopy Bean open-source hardware pointing stick mouse runs QMK firmware",
+    "summary": "The Ploopy Bean is a 3D-printed, open-source pointing stick mouse that runs QMK firmware on a Raspberry Pi RP2040 microcontroller, featuring high-precision 3D hall effect sensor and customizable buttons.",
+    "link": "https://www.cnx-software.com/2026/05/07/ploopy-bean-open-source-hardware-pointing-stick-mouse-runs-qmk-firmware/",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-07T10:53:10.143921",
+    "insight": "Advances open-source hardware innovation with precise and customizable pointing technology."
+  },
+  {
+    "title": "HAUI 3Gang Touch Display is a 7-inch wall-mount Home Assistant dashboard with MQTT support",
+    "summary": "The HAUI 3Gang Touch Display is a 7-inch wall-mount smart home control dashboard designed to run Home Assistant or other web-based home automation dashboards. It features a Raspberry Pi 3B+, 7-inch capacitive touchscreen, Wi-Fi connectivity, and built-in MQTT integration. The device replaces standard wall switches and fits into a standard single-gang electrical box.",
+    "link": "https://www.cnx-software.com/2026/05/07/haui-3gang-touch-display-7-inch-wall-mount-home-assistant-dashboard-with-mqtt-support/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-07T10:53:10.144089",
+    "insight": "Enhances home automation control with a customizable, wall-mountable dashboard solution."
+  },
+  {
+    "title": "2026 Best of Sensors winners announced at Sensors Converge",
+    "summary": "The Best of Sensors awards at Sensors Converge celebrated innovation in sensor technology, recognizing industry leaders and pioneers. The winners showcased cutting-edge advancements in various fields, from wearable technology to automotive systems. These achievements highlight the transformative impact of sensors on modern industries.",
+    "link": "https://www.fiercesensors.com/sensors/2026-best-sensors-winners-announced-sensors-converge",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.145039",
+    "insight": "Sensors Converge recognizes game-changing innovations in sensor technology and applications."
+  },
+  {
+    "title": "Sensors Converge 26: smart glasses, robots, Edge AI predictions",
+    "summary": "Thousands attended the first day of SC exhibition floor in Santa Clara, experiencing smart glasses, robots, and Edge AI predictions.",
+    "link": "https://www.fiercesensors.com/sensors/sensors-converge-26-smart-glasses-robots-edge-ai-predictions-embargo-8-et",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-05-07T10:53:10.145226",
+    "insight": "Convergence of sensors, AI, and robotics transforms industries and lives."
+  },
+  {
+    "title": "Student brought multiple Taiwan high-speed trains to a standstill with handheld radio spoofing attack",
+    "summary": "A 48-minute disruption occurred on Taiwan's high-speed rail due to a hoax alert. A student's handheld radio spoofing attack triggered a General Alarm signal, prompting emergency stops. The incident affected four trains, with some reports saying three.",
+    "link": "https://www.techspot.com/news/112328-student-brought-multiple-taiwan-high-speed-trains-standstill.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.145647",
+    "insight": "Cybersecurity threats can cripple critical infrastructure with devastating consequences quickly."
+  },
+  {
+    "title": "Microsoft made Copilot a co-author on every VS Code project, reverted after developers revolted",
+    "summary": "Microsoft inadvertently made Copilot a co-author in VS Code projects, sparking user backlash.",
+    "link": "https://www.techspot.com/news/112321-microsoft-made-copilot-co-author-every-vs-code.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.145816",
+    "insight": "Developer ownership and authorship are being redefined by AI tools automatically."
+  },
+  {
+    "title": "Hackers used Daemon Tools' own website to silently install backdoors on thousands of PCs for nearly a month",
+    "summary": "Hackers compromised Daemon Tools' website, silently installing backdoors on thousands of PCs.",
+    "link": "https://www.techspot.com/news/112318-hackers-used-daemon-tools-own-website-silently-install.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-07T10:53:10.145994",
+    "insight": "Legitimate digital certificates used to bypass traditional security detection methods."
+  },
+  {
+    "title": "Myst and Riven remakes head to PlayStation, Xbox, and Microsoft Store",
+    "summary": "Myst and Riven remakes are coming to PS5, Xbox, and Microsoft Store. The games will support HDR, 4K, and ray tracing for immersive experiences. This remake marks a return to classic puzzle-adventure gameplay.",
+    "link": "https://www.techspot.com/news/112322-myst-riven-remakes-head-playstation-xbox-microsoft-store.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.146148",
+    "insight": "Reviving nostalgic puzzle-adventure games for modern gaming platforms"
+  },
+  {
+    "title": "Roku and TCL face lawsuit over software updates that allegedly brick smart TVs",
+    "summary": "Roku and TCL face a lawsuit over software updates that allegedly render certain smart TVs unusable, affecting Roku Select and Plus Series sets, as well as TCL's 3- to 6-series TVs running Roku OS.",
+    "link": "https://www.techspot.com/news/112314-roku-tcl-face-lawsuit-over-software-updates-allegedly.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.146337",
+    "insight": "Uncontrolled software updates can cause irreversible damage to smart devices."
+  },
+  {
+    "title": "Game engines were built for video games, but Japan is finding more interesting things to do with them",
+    "summary": "Japanese developers are repurposing popular 3D engines for new applications beyond gaming, expanding their capabilities. Unity and Unreal Engine are being used for non-game projects, such as simulations and training tools. These engines are being given a 'extended life'.",
+    "link": "https://www.techspot.com/news/112319-game-engines-built-video-games-but-japan-finding.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.146506",
+    "insight": "Repurposing game engines unlocks new possibilities in innovation and development."
+  },
+  {
+    "title": "The quiet reinvention of search in the age of AI",
+    "summary": "The concept of traditional search is evolving with AI advancements, leading to a quieter, more nuanced approach to information retrieval. New technologies, such as generative AI, are transforming the search experience. This shift requires a reevaluation of how we interact with information.",
+    "link": "https://www.techspot.com/news/111566-quiet-reinvention-search-age-ai.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.146675",
+    "insight": "AI redefines search from finding answers to generating new possibilities"
+  },
+  {
+    "title": "A single Micron SSD can now store 245TB and use half the power of hard drives",
+    "summary": "Micron's 6600 ION SSD offers up to 245TB storage in a single drive, doubling industry capacity. The new SSD comes in U.2 and E3.L form factors. It also uses half the power of traditional hard drives.",
+    "link": "https://www.techspot.com/news/112308-single-micron-ssd-can-now-store-245tb-use.html",
     "categories": [
       "Tech News",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.141575",
-    "insight": "US electronics imports heavily reliant on Chinese certification labs."
-  },
-  {
-    "title": "California just gave police a way to ticket Waymo and other robotaxis",
-    "summary": "California has updated laws to allow police to ticket self-driving cars. The change addresses confusion over issuing fines for violations committed by software. This affects companies like Waymo and other robotaxi services.",
-    "link": "https://www.techspot.com/news/112300-california-gave-police-way-ticket-waymo-other-robotaxis.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.141677",
-    "insight": "Clarifying liability for autonomous vehicle violations boosts public safety"
-  },
-  {
-    "title": "Gearbox boss posts AI image \"for fun,\" spends hours defending studio's no-AI policy",
-    "summary": "Gearbox boss Pitchford posted an AI-generated image 'for fun,' sparking controversy over AI use in game development.",
-    "link": "https://www.techspot.com/news/112304-randy-pitchford-ai-post-backfires-fans-question-gearbox.html",
-    "categories": [
       "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.141779",
-    "insight": "Studio's AI policy contradicts its public stance on game content creation."
-  },
-  {
-    "title": "Unofficial Notepad++ macOS app forced to rebrand after creator objects",
-    "summary": "Notepad++ macOS app forced to rebrand after creator's objection. Developer Andrey Letov's unofficial port aims to replicate Notepad++ experience on macOS, but due to trademark concerns, it must change its name.",
-    "link": "https://www.techspot.com/news/112299-unofficial-notepad-macos-app-forced-rebrand-after-creator.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.141887",
-    "insight": "Trademark disputes hinder open-source software porting efforts significantly."
-  },
-  {
-    "title": "Steam Controller sells out in 30 minutes as scalpers push prices to $300",
-    "summary": "The Steam Controller sold out within 30 minutes after launch, with delivery times increasing from 3-5 business days to 6-10 days. The controller's Steam page initially showed it in stock, but quickly displayed an 'Out-of-Stock' label. Scalpers drove prices up to $300.",
-    "link": "https://www.techspot.com/news/112302-steam-controller-sells-out-30-minutes-scalpers-push.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.141982",
-    "insight": "Rapid demand and scalping create a controller shortage and price inflation."
-  },
-  {
-    "title": "PC players must wait for GTA 6 because they aren't the \"core\" audience and spend less on GTA Online",
-    "summary": "Take-Two may prioritize console users over PC players for GTA 6, citing a focus on its 'core' audience. This suggests that the company views the PC as a secondary market. However, PC players' contribution to GTA Online revenue is acknowledged.",
-    "link": "https://www.techspot.com/news/112296-pc-players-must-wait-gta-6-because-they.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.142089",
-    "insight": "Prioritizing core audience over PC players may impact GTA 6 revenue potential"
-  },
-  {
-    "title": "This startup just raised $140 million to build wave-powered AI data centers at sea",
-    "summary": "Panthalassa is building wave-powered AI data centers at sea using autonomous platforms that harness ocean energy to power AI chips.",
-    "link": "https://www.techspot.com/news/112295-startup-raised-140-million-build-wave-powered-ai.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-06T10:36:24.142208",
-    "insight": "Decoupling data centers from traditional grid infrastructure reduces carbon footprint significantly."
-  },
-  {
-    "title": "DDR6 development begins as Samsung, SK Hynix, and Micron target 2028-2029 launch",
-    "summary": "Samsung, SK Hynix, and Micron are developing DDR6 memory in coordination. They have requested substrate manufacturers to start production and are conducting preliminary development. The new memory standard is expected to launch in 2028-2029.",
-    "link": "https://www.techspot.com/news/112301-ddr6-development-kicks-off-samsung-sk-hynix-micron.html",
-    "categories": [
-      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-06T10:36:24.142310",
-    "insight": "Enhanced DDR6 memory to fuel faster computing and data storage advancements"
+    "processed_date": "2026-05-07T10:53:10.146842",
+    "insight": "Revolutionary storage density boosts capacity and efficiency for data-intensive applications."
+  },
+  {
+    "title": "Apple is paying $250 million after overselling AI features before they actually worked",
+    "summary": "Apple is paying $250 million to settle claims it oversold AI features. Consumers who bought certain iPhone models between June 2024 and March 2025 may be eligible for up to $95 per device. Apple denies any wrongdoing as part of the settlement.",
+    "link": "https://www.techspot.com/news/112312-apple-pays-250-million-settle-claims-oversold-first.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.147005",
+    "insight": "Marketing hype can lead to costly product feature disappointments"
+  },
+  {
+    "title": "Scientists create \"living plastic\" that can self-destruct on command",
+    "summary": "Scientists have created a 'living plastic' with a built-in self-destruct mechanism. The material contains dormant spores from engineered Bacillus subtilis bacteria. This allows for the material to degrade on command.",
+    "link": "https://www.techspot.com/news/112317-scientists-create-living-plastic-can-self-destruct-command.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.147163",
+    "insight": "Breakaway from non-biodegradable plastics with biodegradable alternatives now possible."
+  },
+  {
+    "title": "Microsoft Edge stores all your saved passwords unencrypted in memory",
+    "summary": "Microsoft Edge stores saved passwords unencrypted in memory, compromising user security.",
+    "link": "https://www.techspot.com/news/112310-microsoft-edge-stores-all-saved-passwords-unencrypted-memory.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-07T10:53:10.147350",
+    "insight": "Unencrypted passwords in memory are vulnerable to memory scraping attacks."
+  },
+  {
+    "title": "AMD warns gaming revenue will plunge over 20% as memory prices drive up PC hardware costs",
+    "summary": "AMD's Q1 revenue rose 38% to $10.3 billion, driven by strong data center sales and improved client and gaming segments. Gaming revenue saw a notable increase. However, the company warns that gaming revenue will decline due to rising memory costs.",
+    "link": "https://www.techspot.com/news/112316-amd-warns-gaming-revenue-plunge-over-20-memory.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.147518",
+    "insight": "Rising memory prices threaten AMD's gaming revenue growth momentum."
+  },
+  {
+    "title": "A major study claiming ChatGPT improves student learning has been retracted",
+    "summary": "A major study claiming ChatGPT improves student learning has been retracted. The paper, published in May 2025, combined results from 51 separate studies. It had already gained significant attention before being retracted.",
+    "link": "https://www.techspot.com/news/112303-major-chatgpt-education-study-retracted-after-flaws-found.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.147682",
+    "insight": "Questionable research methods undermine AI education credibility"
+  },
+  {
+    "title": "Microsoft kills Gaming Copilot for Xbox consoles and mobile",
+    "summary": "Microsoft has canceled the rollout of Gaming Copilot for Xbox consoles and mobile devices, just two months after announcing its release for current-gen consoles.",
+    "link": "https://www.techspot.com/news/112315-microsoft-kills-gaming-copilot-ai-xbox-consoles-mobile.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-07T10:53:10.147845",
+    "insight": "Gaming industry faces uncertainty with cancelled AI-powered features."
   }
 ]

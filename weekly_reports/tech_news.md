@@ -1,155 +1,125 @@
 # 📰 Tech News
-**Week of May 06, 2026**
+**Week of May 07, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-05-06 10:37
+- **Articles this week:** 11
+- **Report generated:** 2026-05-07 10:54
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Inland QN450 1TB SSD Review: Maximum efficiency, minimum spend ⭐
+### 1. Microsoft Edge stores all your saved passwords unencrypted in memory ⭐
 
-The Inland QN450 Gen 4 SSD offers impressive performance and efficiency at a budget-friendly price. It outperforms the NV3 in various benchmarks, making it a compelling option for those seeking a balance between performance and affordability. However, it has some hardware uncertainty and lower TBW.
+Microsoft Edge stores saved passwords unencrypted in memory, compromising user security.
 
-💡 *Budget SSD with surprising performance capabilities and efficiency.*
+💡 *Unencrypted passwords in memory are vulnerable to memory scraping attacks.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/inland-qn450-1tb-ssd-review)
-
----
-
-### 2. ESP32-P4 security key features 2-inch touchscreen, 3,000+ password capacity (Crowdfunding) ⭐
-
-MiixKey is a compact, offline ESP32-P4-based security key with a 2-inch touchscreen, allowing for secure offline storage and management of over 3,000 passwords. It's designed for users, developers, and professionals who need secure credential management without relying on cloud services or smartphone apps. MiixKey features a dual-core CPU and AI instructions extension.
-
-💡 *Offline password management empowers secure credential independence from cloud services.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/06/esp32-p4-security-key-features-2-inch-touchscreen-3000-password-capacity/)
+🔗 [Read Full Article](https://www.techspot.com/news/112310-microsoft-edge-stores-all-saved-passwords-unencrypted-memory.html)
 
 ---
 
-### 3. Microsoft says 'Transformation Paradox' holding back AI adoption in the workplace 45% of respondents say it's safer to focus on current goals, rather than AI innovation 
+### 2. Steam Controller and Puck CAD files officially released under a Creative Commons license Valve encourages users to create accessories for the device 
 
-Microsoft's study finds that AI adoption in workplaces is hindered by outdated processes, requiring a transformation from top-down to fully integrate AI tools effectively. This transformation paradox prevents employees from making the most of AI. Employees often prioritize current goals over innovation.
+Valve has released official 3D CAD files for the Steam Controller and Puck, allowing users to create custom accessories. The files are available under a Creative Commons license, encouraging users to share their creations. This move enables enthusiasts to tailor their gaming experience.
 
-💡 *Outdated processes hinder AI adoption in the workplace effectively*
+💡 *Custom accessories empower gamers to personalize their Steam experience.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-transformation-paradox-holding-back-ai-adoption-in-the-workplace-45-percent-of-respondents-say-its-safer-to-focus-on-current-goals-rather-than-ai-innovation)
-
----
-
-### 4. Lenovo Yoga Slim 7i Aura Edition (2026) Review: Vibrant display, lightweight design, and an endurance champ 
-
-The Lenovo Yoga Slim 7i Aura Edition offers a vibrant display and long battery life in a lightweight design.
-
-💡 *Balancing performance, portability, and endurance for modern users' needs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/lenovo-yoga-slim-7i-aura-edition-2026-review)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-and-puck-cad-files-officially-released-under-a-creative-commons-license-valve-encourages-users-to-create-accessories-for-the-device)
 
 ---
 
-### 5. Frame Generation Doesn't Fix Bad Performance! 
+### 3. SpaceX files for $55 billion semiconductor fab in rural Texas for Musk's Terafab total chipmaking fab investment could reach $119 billion 
 
-Lego Batman's actual performance falls short of its advertised 60 FPS, running at 15 FPS. Frame generation is intended to enhance smooth gameplay, not mask poor performance. Players expect honest representation of a game's capabilities.
+SpaceX files for a $55 billion semiconductor fab in rural Texas, exceeding the initial $20 billion Terafab investment announced in March. This filing suggests Musk's total chipmaking investment could reach $119 billion. The project's massive scale reflects growing demand for advanced semiconductors.
 
-💡 *Misleading performance metrics harm player trust and game reputation.*
+💡 *Transformative investment in chipmaking could drive technological breakthroughs and innovation*
 
-🔗 [Read Full Article](https://www.techspot.com/article/3121-frame-gen-wont-fix-performance/)
-
----
-
-### 6. DDR6 development begins as Samsung, SK Hynix, and Micron target 2028-2029 launch 
-
-Samsung, SK Hynix, and Micron are developing DDR6 memory in coordination. They have requested substrate manufacturers to start production and are conducting preliminary development. The new memory standard is expected to launch in 2028-2029.
-
-💡 *Enhanced DDR6 memory to fuel faster computing and data storage advancements*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112301-ddr6-development-kicks-off-samsung-sk-hynix-micron.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/spacex-files-for-55-billion-semiconductor-fab-in-rural-texas)
 
 ---
 
-### 7. Palantir co-founder Peter Thiel backs $140M wave-powered AI data center startup Panthalassa aims to run offshore compute nodes using ocean energy 
+### 4. A single Micron SSD can now store 245TB and use half the power of hard drives 
 
-Panthalassa raises $140M for wave-powered offshore data centers tackling energy efficiency.
+Micron's 6600 ION SSD offers up to 245TB storage in a single drive, doubling industry capacity. The new SSD comes in U.2 and E3.L form factors. It also uses half the power of traditional hard drives.
 
-💡 *Decarbonizing data centers by harnessing ocean energy for compute power.*
+💡 *Revolutionary storage density boosts capacity and efficiency for data-intensive applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/palantir-co-founder-peter-thiel-backs-usd140m-wave-powered-ai-data-center-startup-panthalassa-aims-to-run-offshore-compute-nodes-using-ocean-energy)
-
----
-
-### 8. Google Chrome has been silently pushing a 4GB AI model to your device without asking 
-
-Google Chrome has silently downloaded a 4GB AI model without user consent, occupying space in the browser's directory, potentially contributing to storage issues.
-
-💡 *Unregulated AI model downloads violate user trust and storage.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112309-google-chrome-has-silently-pushing-4gb-ai-model.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112308-single-micron-ssd-can-now-store-245tb-use.html)
 
 ---
 
-### 9. The FCC wants to ban Chinese labs from certifying electronics, but 75% of devices are tested there now 
+### 5. 3D-printed rocket fuel successfully tested, could enable lighter missiles and faster production rates new additive manufacturing process tested at 1,800 PSI 
 
-The FCC proposes banning Chinese labs from certifying US-bound electronics, citing concerns over radio frequency emissions. Currently, 75% of devices are tested in these labs, raising questions about compliance and security. This move could impact imports and sales.
+Chromatic 3D Materials successfully tested 3D-printed rocket propellant with 1,800 PSI pressure, enabling faster production and advanced designs.
 
-💡 *US electronics imports heavily reliant on Chinese certification labs.*
+💡 *Potential for lightweight, high-performance missiles with rapid production rates.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112305-devices-could-cost-more-fcc-moves-ban-china.html)
-
----
-
-### 10. California just gave police a way to ticket Waymo and other robotaxis 
-
-California has updated laws to allow police to ticket self-driving cars. The change addresses confusion over issuing fines for violations committed by software. This affects companies like Waymo and other robotaxi services.
-
-💡 *Clarifying liability for autonomous vehicle violations boosts public safety*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112300-california-gave-police-way-ticket-waymo-other-robotaxis.html)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/startup-successfully-tests-3d-printed-rocket-fuel-that-could-enable-lighter-missiles-and-faster-production-rates-new-additive-manufacturing-process-tested-at-1-800-psi)
 
 ---
 
-### 11. Steam Controller sells out in 30 minutes as scalpers push prices to $300 
+### 6. New Linux StarFighter laptop family debuts starting at $1,878 Star Labs Systems' laptops arrive with spacious RAM, several options 
 
-The Steam Controller sold out within 30 minutes after launch, with delivery times increasing from 3-5 business days to 6-10 days. The controller's Steam page initially showed it in stock, but quickly displayed an 'Out-of-Stock' label. Scalpers drove prices up to $300.
+The StarFighter Linux laptop is now available for purchase, offering spacious RAM options. It's the latest model from Star Labs Systems, a small startup based in rural England. Prices start at $1,878.
 
-💡 *Rapid demand and scalping create a controller shortage and price inflation.*
+💡 *High-end Linux laptop offers competitive RAM capacity at an affordable price.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112302-steam-controller-sells-out-30-minutes-scalpers-push.html)
-
----
-
-### 12. This startup just raised $140 million to build wave-powered AI data centers at sea 
-
-Panthalassa is building wave-powered AI data centers at sea using autonomous platforms that harness ocean energy to power AI chips.
-
-💡 *Decoupling data centers from traditional grid infrastructure reduces carbon footprint significantly.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112295-startup-raised-140-million-build-wave-powered-ai.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/new-linux-starfighter-laptop-family-debuts-starting-at-usd1-878-star-labs-systems-laptops-arrive-with-spacious-ram-several-options)
 
 ---
 
-### 13. Japan using game development engines for urban planning and disaster management Kimono sales also stretching Unity and Unreal Engine capabilities beyond the small screen 
+### 7. Dell XPS 16 (2026) Review: A flagship return to form 
 
-Japan leverages game engines for urban planning and disaster management, while also pushing the limits of 3D avatar clothing sales. Unity and Unreal Engine are being utilized for a range of applications. Kimono sales are utilizing 3D avatar technology.
+Dell's revived XPS 16 offers an elite experience, but at a premium price.
 
-💡 *Game engines drive innovation in non-entertainment sectors beyond gaming.*
+💡 *Flagship laptops require high investment for high-end performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/virtual-reality/japan-using-game-development-engines-for-urban-planning-and-disaster-management-kimono-sales-also-stretching-unity-and-unreal-engine-capabilities-beyond-the-small-screen)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-16-2026-review-da16260)
 
 ---
 
-### 14. At SC26, Murata and Hexagon show driver assistance tech updates 
+### 8. 2026 Best of Sensors winners announced at Sensors Converge 
 
-At SC26, Murata and Hexagon showcased advancements in driver assistance technologies, prioritizing safety through engineering innovation. These updates focus on improving ADAS systems, enhancing safety features and overall driving experiences. The collaboration brings together expertise to create more reliable and efficient ADAS solutions.
+The Best of Sensors awards at Sensors Converge celebrated innovation in sensor technology, recognizing industry leaders and pioneers. The winners showcased cutting-edge advancements in various fields, from wearable technology to automotive systems. These achievements highlight the transformative impact of sensors on modern industries.
 
-💡 *Advancements in ADAS technologies improve safety and driving experiences.*
+💡 *Sensors Converge recognizes game-changing innovations in sensor technology and applications.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/sc26-murata-and-hexagon-show-driver-assistance-tech-updates)
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/2026-best-sensors-winners-announced-sensors-converge)
+
+---
+
+### 9. Microsoft made Copilot a co-author on every VS Code project, reverted after developers revolted 
+
+Microsoft inadvertently made Copilot a co-author in VS Code projects, sparking user backlash.
+
+💡 *Developer ownership and authorship are being redefined by AI tools automatically.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112321-microsoft-made-copilot-co-author-every-vs-code.html)
+
+---
+
+### 10. Myst and Riven remakes head to PlayStation, Xbox, and Microsoft Store 
+
+Myst and Riven remakes are coming to PS5, Xbox, and Microsoft Store. The games will support HDR, 4K, and ray tracing for immersive experiences. This remake marks a return to classic puzzle-adventure gameplay.
+
+💡 *Reviving nostalgic puzzle-adventure games for modern gaming platforms*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112322-myst-riven-remakes-head-playstation-xbox-microsoft-store.html)
+
+---
+
+### 11. Game engines were built for video games, but Japan is finding more interesting things to do with them 
+
+Japanese developers are repurposing popular 3D engines for new applications beyond gaming, expanding their capabilities. Unity and Unreal Engine are being used for non-game projects, such as simulations and training tools. These engines are being given a 'extended life'.
+
+💡 *Repurposing game engines unlocks new possibilities in innovation and development.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112319-game-engines-built-video-games-but-japan-finding.html)
 
 ---
 

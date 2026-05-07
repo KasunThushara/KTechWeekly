@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of May 06, 2026**
+**Week of May 07, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Study compares Rust and C languages for embedded firmware development ⭐
+### 1. FalCAN Probe is an open-source, STM32-based USB to CAN/RS-485/RS-422 adapter ⭐
 
 **💻 Hardware**
 
-A study compares Rust and C languages for embedded firmware development, concluding that Rust is a viable option due to its safety features and low memory footprint.
+FalCAN Probe is an open-source, multi-protocol USB adapter for CAN and RS serial buses, featuring an STM32F042 microcontroller with USB, CAN, RS-485, and RS-422 interfaces.
 
-💡 **Key Point:** Rust's safety features improve firmware reliability for battery-powered devices.
+💡 **Key Point:** Flexible, open-source adapter enables diverse automotive and industrial network connectivity options.
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/06/study-compares-rust-and-c-languages-for-embedded-firmware-development/)
-
----
-
-### 2. Study compares Rust and C languages for embedded firmware development ⭐
-
-**🤖 AI & ML**
-
-A study compares Rust and C languages for embedded firmware development, concluding that Rust is a viable option due to its safety features and low memory footprint.
-
-💡 **Key Point:** Rust's safety features improve firmware reliability for battery-powered devices.
-
-🔗 [Read More](https://www.cnx-software.com/2026/05/06/study-compares-rust-and-c-languages-for-embedded-firmware-development/)
+🔗 [Read More](https://www.cnx-software.com/2026/05/07/falcan-probe-open-source-stm32-based-usb-to-can-adapter-rs485-rs422/)
 
 ---
 
-### 3. Inland QN450 1TB SSD Review: Maximum efficiency, minimum spend ⭐
+### 2. FalCAN Probe is an open-source, STM32-based USB to CAN/RS-485/RS-422 adapter ⭐
 
-**💻 Hardware**
+**⚡ Semiconductors**
 
-The Inland QN450 Gen 4 SSD offers impressive performance and efficiency at a budget-friendly price. It outperforms the NV3 in various benchmarks, making it a compelling option for those seeking a balance between performance and affordability. However, it has some hardware uncertainty and lower TBW.
+FalCAN Probe is an open-source, multi-protocol USB adapter for CAN and RS serial buses, featuring an STM32F042 microcontroller with USB, CAN, RS-485, and RS-422 interfaces.
 
-💡 **Key Point:** Budget SSD with surprising performance capabilities and efficiency.
+💡 **Key Point:** Flexible, open-source adapter enables diverse automotive and industrial network connectivity options.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/inland-qn450-1tb-ssd-review)
-
----
-
-### 4. ESP32-P4 security key features 2-inch touchscreen, 3,000+ password capacity (Crowdfunding) ⭐
-
-**💻 Hardware**
-
-MiixKey is a compact, offline ESP32-P4-based security key with a 2-inch touchscreen, allowing for secure offline storage and management of over 3,000 passwords. It's designed for users, developers, and professionals who need secure credential management without relying on cloud services or smartphone apps. MiixKey features a dual-core CPU and AI instructions extension.
-
-💡 **Key Point:** Offline password management empowers secure credential independence from cloud services.
-
-🔗 [Read More](https://www.cnx-software.com/2026/05/06/esp32-p4-security-key-features-2-inch-touchscreen-3000-password-capacity/)
+🔗 [Read More](https://www.cnx-software.com/2026/05/07/falcan-probe-open-source-stm32-based-usb-to-can-adapter-rs485-rs422/)
 
 ---
 
-### 5. Inland QN450 1TB SSD Review: Maximum efficiency, minimum spend ⭐
+### 3. Microsoft Edge stores all your saved passwords unencrypted in memory ⭐
 
 **📰 Tech News**
 
-The Inland QN450 Gen 4 SSD offers impressive performance and efficiency at a budget-friendly price. It outperforms the NV3 in various benchmarks, making it a compelling option for those seeking a balance between performance and affordability. However, it has some hardware uncertainty and lower TBW.
+Microsoft Edge stores saved passwords unencrypted in memory, compromising user security.
 
-💡 **Key Point:** Budget SSD with surprising performance capabilities and efficiency.
+💡 **Key Point:** Unencrypted passwords in memory are vulnerable to memory scraping attacks.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/inland-qn450-1tb-ssd-review)
+🔗 [Read More](https://www.techspot.com/news/112310-microsoft-edge-stores-all-saved-passwords-unencrypted-memory.html)
+
+---
+
+### 4. GameNative adds multi-frame generation to PC games on Android devices, unlocking up to 100 fps gameplay Vulkan version of Lossless Scaling boosts performance 
+
+**💻 Hardware**
+
+GameNative's update brings Lossless Scaling's multi-frame generation to Android devices, enabling up to 100 FPS gameplay.
+
+💡 **Key Point:** Smoothened gaming experience with significantly reduced screen tearing.
+
+🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/gamenative-adds-multi-frame-generation-to-pc-games-on-android-devices-vulkan-version-of-lossless-scaling-enables-100-fps-gameplay)
+
+---
+
+### 5. AMD to broaden and specialize EPYC CPUs, already working on Zen 7 architecture increased customization to better address evolving AI and cloud needs 
+
+**💻 Hardware**
+
+AMD plans to expand its EPYC CPU portfolio for data centers, targeting various workloads with increased customization and the upcoming Zen 7 architecture, to address evolving AI and cloud needs.
+
+💡 **Key Point:** Adaptable EPYC CPUs to dominate cloud and AI infrastructure markets.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-to-broaden-and-specialize-epyc-cpus-already-working-on-zen-7-architecture-increased-customization-to-better-address-evolving-ai-and-cloud-needs)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **59 articles** across **5 focused categories**.
+We covered **52 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 20 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
+| 🤖 [AI & ML](ai_and_ml.md) | 19 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 14 | Industry news and product launches |
+| 📰 [Tech News](tech_news.md) | 11 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 20 articles
+*Artificial Intelligence and Machine Learning* — 19 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 6 articles
+*Graphics cards and compute accelerators* — 5 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 13 articles
+*Computing hardware and development boards* — 11 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
 *Chip manufacturing and design* — 6 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 14 articles
+*Industry news and product launches* — 11 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-05-06 at 10:37 by an autonomous AI curation system.
+Generated 2026-05-07 at 10:54 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
