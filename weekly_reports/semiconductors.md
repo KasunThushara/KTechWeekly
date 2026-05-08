@@ -1,75 +1,55 @@
 # ⚡ Semiconductors
-**Week of May 07, 2026**
+**Week of May 08, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-05-07 10:54
+- **Articles this week:** 4
+- **Report generated:** 2026-05-08 10:08
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. FalCAN Probe is an open-source, STM32-based USB to CAN/RS-485/RS-422 adapter ⭐
+### 1. Arbor ARES-2100 Wildcat Lake fanless box PC targets industrial automation, machine vision, and Edge AI applications ⭐
 
-FalCAN Probe is an open-source, multi-protocol USB adapter for CAN and RS serial buses, featuring an STM32F042 microcontroller with USB, CAN, RS-485, and RS-422 interfaces.
+The Arbor ARES-2100 is a fanless box PC designed for industrial applications, supporting up to 64GB DDR5 memory and offering various connectivity options. It's powered by the Intel Core Series 3 Wildcat Lake processor and is MIL-STD-810H certified for shock and vibration. The device operates in a wide temperature range and is suited for automation, machine vision, and Edge AI.
 
-💡 *Flexible, open-source adapter enables diverse automotive and industrial network connectivity options.*
+💡 *Industrial-grade computing with AI performance in a ruggedized design*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/07/falcan-probe-open-source-stm32-based-usb-to-can-adapter-rs485-rs422/)
-
----
-
-### 2. SpaceX files for $55 billion semiconductor fab in rural Texas for Musk's Terafab total chipmaking fab investment could reach $119 billion 
-
-SpaceX files for a $55 billion semiconductor fab in rural Texas, exceeding the initial $20 billion Terafab investment announced in March. This filing suggests Musk's total chipmaking investment could reach $119 billion. The project's massive scale reflects growing demand for advanced semiconductors.
-
-💡 *Transformative investment in chipmaking could drive technological breakthroughs and innovation*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/spacex-files-for-55-billion-semiconductor-fab-in-rural-texas)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/08/arbor-ares-2100-compact-wildcat-lake-fanless-box-pc-targets-industrial-automation-machine-vision-and-edge-ai-applications/)
 
 ---
 
-### 3. Samsung chip workers reject $340,000 one-time bonus, demand annual payouts like SK hynix's $900,000 workers want share of AI windfall, impending 18-day strike could cost Samsung up to $11.7 billion 
+### 2. AMD's next Epyc server chip debuts this year with 256 cores and 70% better performance ⭐
 
-Samsung chip workers reject one-time bonus, demand annual payouts instead. This follows demands from SK hynix workers for a share of AI windfall. A potential 18-day strike could cost Samsung up to $11.7 billion.
+AMD's next Epyc server chip will debut later this year with 256 cores and 70% better performance. The Epyc Venice processors will mark the debut of the Zen 6 architecture and AMD's move to TSMC's 2nm process technology.
 
-💡 *Workers seek long-term financial gains over one-time bonuses.*
+💡 *Significant server performance boost with TSMC's 2nm process technology.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/samsung-chip-workers-reject-usd340-000-one-time-bonus-demand-annual-payouts-like-sk-hynixs-usd900-000-workers-want-share-of-ai-windfall-impending-18-day-strike-could-cost-samsung-up-to-usd11-7-billion)
-
----
-
-### 4. 3D-printed rocket fuel successfully tested, could enable lighter missiles and faster production rates new additive manufacturing process tested at 1,800 PSI 
-
-Chromatic 3D Materials successfully tested 3D-printed rocket propellant with 1,800 PSI pressure, enabling faster production and advanced designs.
-
-💡 *Potential for lightweight, high-performance missiles with rapid production rates.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/startup-successfully-tests-3d-printed-rocket-fuel-that-could-enable-lighter-missiles-and-faster-production-rates-new-additive-manufacturing-process-tested-at-1-800-psi)
+🔗 [Read Full Article](https://www.techspot.com/news/112326-amd-next-epyc-server-chip-debuts-year-256.html)
 
 ---
 
-### 5. SteelSeries Aerox 3 Wireless Gen 2 Review: The Bright and Bold 
+### 3. 21.5-inch AI Touch Panel PC is powered by NVIDIA Jetson Orin NX module for industrial HMI applications 
 
-The SteelSeries Aerox 3 Wireless Gen 2 offers an excellent gaming experience with fast charging and a bright, bold design. However, it may experience some sluggish performance. Overall, this mouse is a great choice for those seeking high-quality wireless gaming.
+The AAEON NIKY-2215-NX is a 21.5-inch Full HD AI Touch Panel PC powered by NVIDIA Jetson Orin NX module, designed for AI-enhanced HMI applications in industrial settings.
 
-💡 *Wireless gaming capabilities meet high-performance expectations with this mouse design*
+💡 *Advancing industrial automation with AI-powered human-machine interfaces.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/steelseries-aerox-3-wireless-gen-2-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/08/21-5-inch-ai-touch-panel-pc-is-powered-by-nvidia-jetson-orin-nx-module-for-industrial-hmi-applications/)
 
 ---
 
-### 6. Student brought multiple Taiwan high-speed trains to a standstill with handheld radio spoofing attack 
+### 4. Silex joins Nasdaq Stockholm as MEMS foundry seeks US fab 
 
-A 48-minute disruption occurred on Taiwan's high-speed rail due to a hoax alert. A student's handheld radio spoofing attack triggered a General Alarm signal, prompting emergency stops. The incident affected four trains, with some reports saying three.
+Silex, a 25-year-old MEMS foundry, has listed on Nasdaq Stockholm, raising capital for expansion.
 
-💡 *Cybersecurity threats can cripple critical infrastructure with devastating consequences quickly.*
+💡 *Capital raise supports Silex's push into US semiconductor manufacturing facilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112328-student-brought-multiple-taiwan-high-speed-trains-standstill.html)
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/silex-joins-nasdaq-stockholm-mems-foundry-seeks-us-fab)
 
 ---
 

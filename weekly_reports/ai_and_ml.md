@@ -1,205 +1,145 @@
 # 🤖 AI & ML
-**Week of May 07, 2026**
+**Week of May 08, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-05-07 10:54
+- **Articles this week:** 13
+- **Report generated:** 2026-05-08 10:08
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD to broaden and specialize EPYC CPUs, already working on Zen 7 architecture increased customization to better address evolving AI and cloud needs 
+### 1. PCIe has doubled bandwidth every generation for two decades, PCIe 8.0 is on track to do it again at 1TB/s ⭐
 
-AMD plans to expand its EPYC CPU portfolio for data centers, targeting various workloads with increased customization and the upcoming Zen 7 architecture, to address evolving AI and cloud needs.
+The PCIe 8.0 draft specification has been released, doubling bandwidth to 1TB/s and reducing power consumption.
 
-💡 *Adaptable EPYC CPUs to dominate cloud and AI infrastructure markets.*
+💡 *Faster storage drives innovation and efficiency in data-intensive applications and industries.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-to-broaden-and-specialize-epyc-cpus-already-working-on-zen-7-architecture-increased-customization-to-better-address-evolving-ai-and-cloud-needs)
-
----
-
-### 2. HAUI 3Gang Touch Display is a 7-inch wall-mount Home Assistant dashboard with MQTT support 
-
-The HAUI 3Gang Touch Display is a 7-inch wall-mount smart home control dashboard designed to run Home Assistant or other web-based home automation dashboards. It features a Raspberry Pi 3B+, 7-inch capacitive touchscreen, Wi-Fi connectivity, and built-in MQTT integration. The device replaces standard wall switches and fits into a standard single-gang electrical box.
-
-💡 *Enhances home automation control with a customizable, wall-mountable dashboard solution.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/07/haui-3gang-touch-display-7-inch-wall-mount-home-assistant-dashboard-with-mqtt-support/)
+🔗 [Read Full Article](https://www.techspot.com/news/112323-pcie-has-doubled-bandwidth-every-generation-two-decades.html)
 
 ---
 
-### 3. Hackers used Daemon Tools' own website to silently install backdoors on thousands of PCs for nearly a month 
+### 2. White House reportedly considers mandatory government vetting of AI models before release executive order under discussion 
 
-Hackers compromised Daemon Tools' website, silently installing backdoors on thousands of PCs.
+The Trump administration is considering an executive order for AI model review. This would involve a government review process before public release. The goal is to ensure AI models meet safety and security standards.
 
-💡 *Legitimate digital certificates used to bypass traditional security detection methods.*
+💡 *Regulating AI models' release could mitigate potential societal risks.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112318-hackers-used-daemon-tools-own-website-silently-install.html)
-
----
-
-### 4. A single Micron SSD can now store 245TB and use half the power of hard drives 
-
-Micron's 6600 ION SSD offers up to 245TB storage in a single drive, doubling industry capacity. The new SSD comes in U.2 and E3.L form factors. It also uses half the power of traditional hard drives.
-
-💡 *Revolutionary storage density boosts capacity and efficiency for data-intensive applications.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112308-single-micron-ssd-can-now-store-245tb-use.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/white-house-considers-mandatory-government-vetting-of-ai-models-before-release)
 
 ---
 
-### 5. College student hacks Taiwan high-speed rail line with software defined radios, stopping four trains 19 years without crypto key rotation ends in predictable result as hacker sails through 7 layers of protection 
+### 3. 6.67-inch flexible AMOLED display works with Raspberry Pi, LattePanda, and other SBCs with HDMI output 
 
-A college student hacked the Taiwan high-speed rail line using software defined radios, stopping four trains. The breach occurred because of a predictable security vulnerability, specifically 19 years without crypto key rotation. This allowed the hacker to easily bypass multiple layers of protection.
+DFRobot's 6.67-inch flexible AMOLED display is designed for use with single-board computers, offering plug-and-play compatibility with a wide range of platforms, including Raspberry Pi and LattePanda, due to a dedicated MIPI-to-HDMI driver board. The display features a 2400x1080 resolution, 450 cd/m brightness, and 16.7 million colors, making it suitable for various applications such as wearables, robotics, and industrial HMI systems. It boasts a thin 1.2mm profile and is bendable.
 
-💡 *Outdated security practices create predictable vulnerabilities that hackers can exploit easily.*
+💡 *Flexible AMOLED display for diverse applications with plug-and-play SBC support*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/college-student-hacks-taiwan-high-speed-rail-line-stopping-four-trains-19-years-without-crypto-key-rotation-ends-in-predictable-result)
-
----
-
-### 6. Samsung chip workers reject $340,000 one-time bonus, demand annual payouts like SK hynix's $900,000 workers want share of AI windfall, impending 18-day strike could cost Samsung up to $11.7 billion 
-
-Samsung chip workers reject one-time bonus, demand annual payouts instead. This follows demands from SK hynix workers for a share of AI windfall. A potential 18-day strike could cost Samsung up to $11.7 billion.
-
-💡 *Workers seek long-term financial gains over one-time bonuses.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/samsung-chip-workers-reject-usd340-000-one-time-bonus-demand-annual-payouts-like-sk-hynixs-usd900-000-workers-want-share-of-ai-windfall-impending-18-day-strike-could-cost-samsung-up-to-usd11-7-billion)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/08/6-67-inch-flexible-amoled-display-works-with-raspberry-pi-lattepanda-sbc-hdmi/)
 
 ---
 
-### 7. PCIe 8.0 spec hits 1 TB/s of bandwidth and has new connector technology spec hits 0.5V milestone, final ratification expected in 2028 
+### 4. Samsung is pulling TVs and appliances from China after losing $138 million to local competition 
 
-PCIe 8.0 spec achieves 1 TB/s of bandwidth, with new connector technology reaching 0.5V milestone. The draft maintains 256 GT/s data transfer rate and backwards compatibility. Final ratification is expected in 2028.
+Samsung is pulling TVs and appliances from China due to intense local competition, resulting in $138 million losses. The company aims to minimize the impact on existing customers. Other divisions in the region will not be affected.
 
-💡 *Revolutionizing data transfer speeds with unprecedented PCIe performance*
+💡 *Intense local competition erodes global brands' market share significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/pci-sig-reveals-pcie-8-0-0-5v-spec-first-draft-includes-1-tb-s-bandwidth-and-new-connector-technology)
-
----
-
-### 8. Survey shows that nearly half of Americans don't want new data centers built near their homes 47% oppose the construction of new AI data centers in their neighborhood 
-
-Almost half of Americans oppose AI data center construction near their neighborhoods.
-
-💡 *Public concerns about AI data centers' environmental impact matter significantly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/survey-shows-that-nearly-half-of-americans-dont-want-new-data-centers-built-near-their-homes-47-percent-oppose-the-construction-of-new-ai-data-centers-in-their-neighborhood)
+🔗 [Read Full Article](https://www.techspot.com/news/112335-samsung-ends-sales-tvs-appliances-china-amid-intense.html)
 
 ---
 
-### 9. New Linux StarFighter laptop family debuts starting at $1,878 Star Labs Systems' laptops arrive with spacious RAM, several options 
+### 5. Project Mariner is dead, but Google's browser-controlling AI plans are not 
 
-The StarFighter Linux laptop is now available for purchase, offering spacious RAM options. It's the latest model from Star Labs Systems, a small startup based in rural England. Prices start at $1,878.
+Project Mariner, an AI-powered Chrome extension, aimed to simplify tasks with multi-step commands. However, it has been discontinued. Google is reportedly working on new browser-controlling AI plans.
 
-💡 *High-end Linux laptop offers competitive RAM capacity at an affordable price.*
+💡 *AI-assisted browsing could revolutionize user experience and efficiency online*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/new-linux-starfighter-laptop-family-debuts-starting-at-usd1-878-star-labs-systems-laptops-arrive-with-spacious-ram-several-options)
-
----
-
-### 10. Apple quietly axes 128GB Mac Studio amid supply constraints and local AI frenzy highest memory capacity reduced to 96GB, two months after discontinuation of 512GB model 
-
-Apple discreetly removes high capacity Mac Studios and Mac minis from sale due to ongoing memory constraints.
-
-💡 *Memory supply constraints impact consumer Apple products severely.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/apple-quietly-axes-128gb-mac-studio-amid-supply-constraints-and-local-ai-frenzy-highest-memory-capacity-reduced-to-96gb-two-months-after-discontinuation-of-512gb-model)
+🔗 [Read Full Article](https://www.techspot.com/news/112334-project-mariner-dead-but-google-browser-controlling-ai.html)
 
 ---
 
-### 11. Student brought multiple Taiwan high-speed trains to a standstill with handheld radio spoofing attack 
+### 6. SpaceX will help power Claude with 220,000 Nvidia GPUs despite Elon's attacks on Anthropic 
 
-A 48-minute disruption occurred on Taiwan's high-speed rail due to a hoax alert. A student's handheld radio spoofing attack triggered a General Alarm signal, prompting emergency stops. The incident affected four trains, with some reports saying three.
+SpaceXAI will provide Anthropic with compute capacity from Colossus 1 data center, offering over 300 megawatts of new capacity. This deal allows Anthropic to leverage massive computing power for AI development. Anthropic will utilize 220,000 Nvidia GPUs.
 
-💡 *Cybersecurity threats can cripple critical infrastructure with devastating consequences quickly.*
+💡 *Massive computing power fuels AI advancements.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112328-student-brought-multiple-taiwan-high-speed-trains-standstill.html)
-
----
-
-### 12. Roku and TCL face lawsuit over software updates that allegedly brick smart TVs 
-
-Roku and TCL face a lawsuit over software updates that allegedly render certain smart TVs unusable, affecting Roku Select and Plus Series sets, as well as TCL's 3- to 6-series TVs running Roku OS.
-
-💡 *Uncontrolled software updates can cause irreversible damage to smart devices.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112314-roku-tcl-face-lawsuit-over-software-updates-allegedly.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112331-elon-musk-spacexai-help-power-claude-despite-attacks.html)
 
 ---
 
-### 13. The quiet reinvention of search in the age of AI 
+### 7. Devastating 'Dirty Frag' exploit leaks out, gives immediate root access on most Linux machines since 2017, no patches available, no warning given Copy Fail-like vulnerability had its embargo broken 
 
-The concept of traditional search is evolving with AI advancements, leading to a quieter, more nuanced approach to information retrieval. New technologies, such as generative AI, are transforming the search experience. This shift requires a reevaluation of how we interact with information.
+A critical 'Dirty Frag' exploit grants immediate root access on many Linux systems since 2017, with no available patches or warning given.
 
-💡 *AI redefines search from finding answers to generating new possibilities*
+💡 *Vulnerable Linux systems pose significant risks to global network security and stability.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/111566-quiet-reinvention-search-age-ai.html)
-
----
-
-### 14. Apple is paying $250 million after overselling AI features before they actually worked 
-
-Apple is paying $250 million to settle claims it oversold AI features. Consumers who bought certain iPhone models between June 2024 and March 2025 may be eligible for up to $95 per device. Apple denies any wrongdoing as part of the settlement.
-
-💡 *Marketing hype can lead to costly product feature disappointments*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112312-apple-pays-250-million-settle-claims-oversold-first.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/dirty-frag-exploit-gets-root-on-most-linux-machines-since-2017-no-patches-available-no-warning-given-copy-fail-like-vulnerability-had-its-embargo-broken)
 
 ---
 
-### 15. Scientists create "living plastic" that can self-destruct on command 
+### 8. Lian Li s new DK07 Wood motorized standing desk doubles as a dual-PC chassis with support for E-ATX systems and massive cooling setups five new wood-finished models are available now 
 
-Scientists have created a 'living plastic' with a built-in self-destruct mechanism. The material contains dormant spores from engineered Bacillus subtilis bacteria. This allows for the material to degrade on command.
+Lian Li introduces the DK07 Wood, a motorized standing desk with E-ATX support, offering a unique blend of functionality and style, featuring five new wood-finished models and retention of support for dual systems, large GPUs, and extensive cooling setups.
 
-💡 *Breakaway from non-biodegradable plastics with biodegradable alternatives now possible.*
+💡 *Ergonomic workstations are increasingly prioritizing form and function seamlessly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112317-scientists-create-living-plastic-can-self-destruct-command.html)
-
----
-
-### 16. A major study claiming ChatGPT improves student learning has been retracted 
-
-A major study claiming ChatGPT improves student learning has been retracted. The paper, published in May 2025, combined results from 51 separate studies. It had already gained significant attention before being retracted.
-
-💡 *Questionable research methods undermine AI education credibility*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112303-major-chatgpt-education-study-retracted-after-flaws-found.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/lian-lis-new-dk07-wood-motorized-standing-desk-doubles-as-a-dual-pc-chassis-with-support-for-e-atx-systems-and-massive-cooling-setups-five-new-wood-finished-models-are-available-now)
 
 ---
 
-### 17. Microsoft kills Gaming Copilot for Xbox consoles and mobile 
+### 9. Nvidia s ISP piracy defense backfires as judge refuses to dismiss copyright lawsuit over more than 197,000 pirated books scripts in NeMo Framework allegedly have no other purpose than to speed up infringement 
 
-Microsoft has canceled the rollout of Gaming Copilot for Xbox consoles and mobile devices, just two months after announcing its release for current-gen consoles.
+A judge refuses to dismiss a copyright lawsuit against Nvidia, citing that the NeMo Framework's alleged purpose of speeding up piracy is a non-infringing use defense backfire. The court's decision suggests Nvidia's argument may not hold up in court.
 
-💡 *Gaming industry faces uncertainty with cancelled AI-powered features.*
+💡 *Nvidia's defense of NeMo's non-infringing uses may be flawed in court.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112315-microsoft-kills-gaming-copilot-ai-xbox-consoles-mobile.html)
-
----
-
-### 18. Xbox CEO Asha Sharma kills Copilot for Gaming overhauls leadership with CoreAI veterans 
-
-Xbox CEO Asha Sharma has made significant changes to the gaming platform, killing off Copilot and introducing new leadership from CoreAI veterans. This shift aims to overhaul the gaming experience with AI-driven innovations. Sharma's vision is to drive growth and improvement.
-
-💡 *Xbox leadership pivots to AI-driven gaming with Copilot's demise*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/xbox-ceo-asha-sharma-kills-copilot-for-gaming)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/nvidias-isp-piracy-defense-backfires-as-judge-refuses-to-dismiss-copyright-lawsuit-over-more-than-197-000-pirated-books-scripts-in-nemo-framework-allegedly-have-no-other-purpose-than-to-speed-up-infringement)
 
 ---
 
-### 19. Sensors Converge 26: smart glasses, robots, Edge AI predictions 
+### 10. After a $16 billion Stargate AI data center was built despite being voted down, Michigan towns rush to block new buildouts massive facility will suck 1.4 Gigawatts of energy to power ChatGPT 
 
-Thousands attended the first day of SC exhibition floor in Santa Clara, experiencing smart glasses, robots, and Edge AI predictions.
+A $16 billion Stargate AI data center is sparking backlash in Michigan, with several towns and the state government working to block its construction. The facility would consume 1.4 Gigawatts of energy, raising concerns about its environmental impact. Local opposition is intensifying as a regional water authority refuses to serve the proposed facilities.
 
-💡 *Convergence of sensors, AI, and robotics transforms industries and lives.*
+💡 *Massive AI data centers threaten local resources and infrastructure*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/sensors-converge-26-smart-glasses-robots-edge-ai-predictions-embargo-8-et)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/michigan-towns-rush-to-block-ai-data-centers-after-16-billion-stargate-project-overrode-local-opposition)
+
+---
+
+### 11. AI images are getting harder to spot, but physics still gives them away if you know where to look 
+
+Modern image generators improve quickly, but physics-based flaws remain, giving away fakes.
+
+💡 *Physics-based flaws in AI images betray their artificial nature always.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112338-ai-images-getting-harder-spot-but-physics-gives.html)
+
+---
+
+### 12. Image generation is now the feature that moves the needle for AI apps 
+
+AI app adoption is shifting towards image generation capabilities. Advances in conversational models and voice features are no longer the primary drivers of interest. Visual content generation now sparks immediate interest.
+
+💡 *Visual content generation drives AI app adoption and interest now.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112324-image-generation-now-feature-moves-needle-ai-apps.html)
+
+---
+
+### 13.  It s AI or die, keynoter warns sensor makers at SC26 
+
+On-device sensor-computers are redefining a new tech paradigm in sensing, thinking, and reasoning. This shift is expected to revolutionize various industries. Venture capitalist Kedia emphasized the importance of adapting to this change.
+
+💡 *Adapting to on-device AI is crucial for future tech relevance.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/its-ai-or-die-keynoter-warns-sensor-makers-sc26)
 
 ---
 

@@ -1,5 +1,5 @@
 # 💻 Hardware
-**Week of May 07, 2026**
+**Week of May 08, 2026**
 
 *Computing hardware and development boards*
 
@@ -7,119 +7,119 @@
 
 ## 📊 Summary
 - **Articles this week:** 11
-- **Report generated:** 2026-05-07 10:54
+- **Report generated:** 2026-05-08 10:08
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. FalCAN Probe is an open-source, STM32-based USB to CAN/RS-485/RS-422 adapter ⭐
+### 1. Khadas Mind Graphics 2 and Mind xPlay display + keyboard review Part 1: Unboxing, teardown, and first try ⭐
 
-FalCAN Probe is an open-source, multi-protocol USB adapter for CAN and RS serial buses, featuring an STM32F042 microcontroller with USB, CAN, RS-485, and RS-422 interfaces.
+Khadas Mind Graphics 2 and Mind xPlay review covers unboxing, teardown, and first try.
 
-💡 *Flexible, open-source adapter enables diverse automotive and industrial network connectivity options.*
+💡 *Khadas offers a versatile portable display and keyboard solution for mini PCs.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/07/falcan-probe-open-source-stm32-based-usb-to-can-adapter-rs485-rs422/)
-
----
-
-### 2. GameNative adds multi-frame generation to PC games on Android devices, unlocking up to 100 fps gameplay Vulkan version of Lossless Scaling boosts performance 
-
-GameNative's update brings Lossless Scaling's multi-frame generation to Android devices, enabling up to 100 FPS gameplay.
-
-💡 *Smoothened gaming experience with significantly reduced screen tearing.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/gamenative-adds-multi-frame-generation-to-pc-games-on-android-devices-vulkan-version-of-lossless-scaling-enables-100-fps-gameplay)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/07/khadas-mind-graphics-2-and-mind-xplay-display-keyboard-review-part-1-unboxing-teardown-and-first-try/)
 
 ---
 
-### 3. AMD to broaden and specialize EPYC CPUs, already working on Zen 7 architecture increased customization to better address evolving AI and cloud needs 
+### 2. Arbor ARES-2100 Wildcat Lake fanless box PC targets industrial automation, machine vision, and Edge AI applications ⭐
 
-AMD plans to expand its EPYC CPU portfolio for data centers, targeting various workloads with increased customization and the upcoming Zen 7 architecture, to address evolving AI and cloud needs.
+The Arbor ARES-2100 is a fanless box PC designed for industrial applications, supporting up to 64GB DDR5 memory and offering various connectivity options. It's powered by the Intel Core Series 3 Wildcat Lake processor and is MIL-STD-810H certified for shock and vibration. The device operates in a wide temperature range and is suited for automation, machine vision, and Edge AI.
 
-💡 *Adaptable EPYC CPUs to dominate cloud and AI infrastructure markets.*
+💡 *Industrial-grade computing with AI performance in a ruggedized design*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-to-broaden-and-specialize-epyc-cpus-already-working-on-zen-7-architecture-increased-customization-to-better-address-evolving-ai-and-cloud-needs)
-
----
-
-### 4. Ploopy Bean open-source hardware pointing stick mouse runs QMK firmware 
-
-The Ploopy Bean is a 3D-printed, open-source pointing stick mouse that runs QMK firmware on a Raspberry Pi RP2040 microcontroller, featuring high-precision 3D hall effect sensor and customizable buttons.
-
-💡 *Advances open-source hardware innovation with precise and customizable pointing technology.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/07/ploopy-bean-open-source-hardware-pointing-stick-mouse-runs-qmk-firmware/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/08/arbor-ares-2100-compact-wildcat-lake-fanless-box-pc-targets-industrial-automation-machine-vision-and-edge-ai-applications/)
 
 ---
 
-### 5. HAUI 3Gang Touch Display is a 7-inch wall-mount Home Assistant dashboard with MQTT support 
+### 3. AMD's next Epyc server chip debuts this year with 256 cores and 70% better performance ⭐
 
-The HAUI 3Gang Touch Display is a 7-inch wall-mount smart home control dashboard designed to run Home Assistant or other web-based home automation dashboards. It features a Raspberry Pi 3B+, 7-inch capacitive touchscreen, Wi-Fi connectivity, and built-in MQTT integration. The device replaces standard wall switches and fits into a standard single-gang electrical box.
+AMD's next Epyc server chip will debut later this year with 256 cores and 70% better performance. The Epyc Venice processors will mark the debut of the Zen 6 architecture and AMD's move to TSMC's 2nm process technology.
 
-💡 *Enhances home automation control with a customizable, wall-mountable dashboard solution.*
+💡 *Significant server performance boost with TSMC's 2nm process technology.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/07/haui-3gang-touch-display-7-inch-wall-mount-home-assistant-dashboard-with-mqtt-support/)
-
----
-
-### 6. Hackers used Daemon Tools' own website to silently install backdoors on thousands of PCs for nearly a month 
-
-Hackers compromised Daemon Tools' website, silently installing backdoors on thousands of PCs.
-
-💡 *Legitimate digital certificates used to bypass traditional security detection methods.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112318-hackers-used-daemon-tools-own-website-silently-install.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112326-amd-next-epyc-server-chip-debuts-year-256.html)
 
 ---
 
-### 7. Save nearly $300 on AMD Ryzen 7 9850X3D and Asus Prime RTX 5070 bundle, plus an 850W PSU score the core components to a new gaming rig for only $940 
+### 4. PCIe has doubled bandwidth every generation for two decades, PCIe 8.0 is on track to do it again at 1TB/s ⭐
 
-Assemble a gaming PC with AMD Ryzen 7 9850X3D and Asus Prime RTX 5070, along with an 850W PSU, for $940. This deal includes a copy of Capcom's Pragmata game. Build a high-performance gaming rig at a budget-friendly price.
+The PCIe 8.0 draft specification has been released, doubling bandwidth to 1TB/s and reducing power consumption.
 
-💡 *Affordable high-performance gaming PC build option for budget-conscious gamers.*
+💡 *Faster storage drives innovation and efficiency in data-intensive applications and industries.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-nearly-usd300-on-amd-ryzen-7-9850x3d-and-asus-prime-rtx-5070-bundle-plus-an-850w-psu-score-the-core-components-to-a-new-gaming-rig-for-only-usd940)
-
----
-
-### 8. PCIe 8.0 spec hits 1 TB/s of bandwidth and has new connector technology spec hits 0.5V milestone, final ratification expected in 2028 
-
-PCIe 8.0 spec achieves 1 TB/s of bandwidth, with new connector technology reaching 0.5V milestone. The draft maintains 256 GT/s data transfer rate and backwards compatibility. Final ratification is expected in 2028.
-
-💡 *Revolutionizing data transfer speeds with unprecedented PCIe performance*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/pci-sig-reveals-pcie-8-0-0-5v-spec-first-draft-includes-1-tb-s-bandwidth-and-new-connector-technology)
+🔗 [Read Full Article](https://www.techspot.com/news/112323-pcie-has-doubled-bandwidth-every-generation-two-decades.html)
 
 ---
 
-### 9. SteelSeries Aerox 3 Wireless Gen 2 Review: The Bright and Bold 
+### 5. Intel Core Ultra 5 225 review: Arrow Lake s forgotten CPU needs a price cut 
 
-The SteelSeries Aerox 3 Wireless Gen 2 offers an excellent gaming experience with fast charging and a bright, bold design. However, it may experience some sluggish performance. Overall, this mouse is a great choice for those seeking high-quality wireless gaming.
+Intel's Core Ultra 5 225 has been overshadowed by Arrow Lake's poor launch, but a price cut could make it a viable option.
 
-💡 *Wireless gaming capabilities meet high-performance expectations with this mouse design*
+💡 *Underpriced CPUs can revive stagnant product lines and gain market share.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/steelseries-aerox-3-wireless-gen-2-review)
-
----
-
-### 10. Dell XPS 16 (2026) Review: A flagship return to form 
-
-Dell's revived XPS 16 offers an elite experience, but at a premium price.
-
-💡 *Flagship laptops require high investment for high-end performance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-16-2026-review-da16260)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-225-review)
 
 ---
 
-### 11. AMD warns gaming revenue will plunge over 20% as memory prices drive up PC hardware costs 
+### 6. 6.67-inch flexible AMOLED display works with Raspberry Pi, LattePanda, and other SBCs with HDMI output 
 
-AMD's Q1 revenue rose 38% to $10.3 billion, driven by strong data center sales and improved client and gaming segments. Gaming revenue saw a notable increase. However, the company warns that gaming revenue will decline due to rising memory costs.
+DFRobot's 6.67-inch flexible AMOLED display is designed for use with single-board computers, offering plug-and-play compatibility with a wide range of platforms, including Raspberry Pi and LattePanda, due to a dedicated MIPI-to-HDMI driver board. The display features a 2400x1080 resolution, 450 cd/m brightness, and 16.7 million colors, making it suitable for various applications such as wearables, robotics, and industrial HMI systems. It boasts a thin 1.2mm profile and is bendable.
 
-💡 *Rising memory prices threaten AMD's gaming revenue growth momentum.*
+💡 *Flexible AMOLED display for diverse applications with plug-and-play SBC support*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112316-amd-warns-gaming-revenue-plunge-over-20-memory.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/08/6-67-inch-flexible-amoled-display-works-with-raspberry-pi-lattepanda-sbc-hdmi/)
+
+---
+
+### 7. 21.5-inch AI Touch Panel PC is powered by NVIDIA Jetson Orin NX module for industrial HMI applications 
+
+The AAEON NIKY-2215-NX is a 21.5-inch Full HD AI Touch Panel PC powered by NVIDIA Jetson Orin NX module, designed for AI-enhanced HMI applications in industrial settings.
+
+💡 *Advancing industrial automation with AI-powered human-machine interfaces.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/08/21-5-inch-ai-touch-panel-pc-is-powered-by-nvidia-jetson-orin-nx-module-for-industrial-hmi-applications/)
+
+---
+
+### 8. Samsung is pulling TVs and appliances from China after losing $138 million to local competition 
+
+Samsung is pulling TVs and appliances from China due to intense local competition, resulting in $138 million losses. The company aims to minimize the impact on existing customers. Other divisions in the region will not be affected.
+
+💡 *Intense local competition erodes global brands' market share significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112335-samsung-ends-sales-tvs-appliances-china-amid-intense.html)
+
+---
+
+### 9. AMD announces MI350P PCIe AI accelerator card with 144GB of HBM3E roughly 40% faster in FP16 and FP8 theoretical compute compared to Nvidia's H200 NVL competitor 
+
+AMD launches MI350P PCIe AI-accelerator card with lower cores and memory, suitable for drop-in upgrades. The card is roughly 40% faster in FP16 and FP8 theoretical compute compared to Nvidia's H200 NVL competitor. It offers 144GB of HBM3E memory.
+
+💡 *AMD AI-accelerator offers competitive performance with reduced resource requirements.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amd-announces-mi350p-pcie-ai-accelerator-card-with-144gb-of-hbm3e-roughly-40-percent-faster-in-fp16-and-fp8-theoretical-compute-compared-to-nvidias-h200-nvl-competitor)
+
+---
+
+### 10. Lian Li s new DK07 Wood motorized standing desk doubles as a dual-PC chassis with support for E-ATX systems and massive cooling setups five new wood-finished models are available now 
+
+Lian Li introduces the DK07 Wood, a motorized standing desk with E-ATX support, offering a unique blend of functionality and style, featuring five new wood-finished models and retention of support for dual systems, large GPUs, and extensive cooling setups.
+
+💡 *Ergonomic workstations are increasingly prioritizing form and function seamlessly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/lian-lis-new-dk07-wood-motorized-standing-desk-doubles-as-a-dual-pc-chassis-with-support-for-e-atx-systems-and-massive-cooling-setups-five-new-wood-finished-models-are-available-now)
+
+---
+
+### 11.  It s AI or die, keynoter warns sensor makers at SC26 
+
+On-device sensor-computers are redefining a new tech paradigm in sensing, thinking, and reasoning. This shift is expected to revolutionize various industries. Venture capitalist Kedia emphasized the importance of adapting to this change.
+
+💡 *Adapting to on-device AI is crucial for future tech relevance.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/its-ai-or-die-keynoter-warns-sensor-makers-sc26)
 
 ---
 

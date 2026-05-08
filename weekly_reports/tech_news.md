@@ -1,125 +1,115 @@
 # 📰 Tech News
-**Week of May 07, 2026**
+**Week of May 08, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-05-07 10:54
+- **Articles this week:** 10
+- **Report generated:** 2026-05-08 10:08
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Microsoft Edge stores all your saved passwords unencrypted in memory ⭐
+### 1. White House reportedly considers mandatory government vetting of AI models before release executive order under discussion 
 
-Microsoft Edge stores saved passwords unencrypted in memory, compromising user security.
+The Trump administration is considering an executive order for AI model review. This would involve a government review process before public release. The goal is to ensure AI models meet safety and security standards.
 
-💡 *Unencrypted passwords in memory are vulnerable to memory scraping attacks.*
+💡 *Regulating AI models' release could mitigate potential societal risks.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112310-microsoft-edge-stores-all-saved-passwords-unencrypted-memory.html)
-
----
-
-### 2. Steam Controller and Puck CAD files officially released under a Creative Commons license Valve encourages users to create accessories for the device 
-
-Valve has released official 3D CAD files for the Steam Controller and Puck, allowing users to create custom accessories. The files are available under a Creative Commons license, encouraging users to share their creations. This move enables enthusiasts to tailor their gaming experience.
-
-💡 *Custom accessories empower gamers to personalize their Steam experience.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-and-puck-cad-files-officially-released-under-a-creative-commons-license-valve-encourages-users-to-create-accessories-for-the-device)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/white-house-considers-mandatory-government-vetting-of-ai-models-before-release)
 
 ---
 
-### 3. SpaceX files for $55 billion semiconductor fab in rural Texas for Musk's Terafab total chipmaking fab investment could reach $119 billion 
+### 2. Intel Core Ultra 5 225 review: Arrow Lake s forgotten CPU needs a price cut 
 
-SpaceX files for a $55 billion semiconductor fab in rural Texas, exceeding the initial $20 billion Terafab investment announced in March. This filing suggests Musk's total chipmaking investment could reach $119 billion. The project's massive scale reflects growing demand for advanced semiconductors.
+Intel's Core Ultra 5 225 has been overshadowed by Arrow Lake's poor launch, but a price cut could make it a viable option.
 
-💡 *Transformative investment in chipmaking could drive technological breakthroughs and innovation*
+💡 *Underpriced CPUs can revive stagnant product lines and gain market share.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/spacex-files-for-55-billion-semiconductor-fab-in-rural-texas)
-
----
-
-### 4. A single Micron SSD can now store 245TB and use half the power of hard drives 
-
-Micron's 6600 ION SSD offers up to 245TB storage in a single drive, doubling industry capacity. The new SSD comes in U.2 and E3.L form factors. It also uses half the power of traditional hard drives.
-
-💡 *Revolutionary storage density boosts capacity and efficiency for data-intensive applications.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112308-single-micron-ssd-can-now-store-245tb-use.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-225-review)
 
 ---
 
-### 5. 3D-printed rocket fuel successfully tested, could enable lighter missiles and faster production rates new additive manufacturing process tested at 1,800 PSI 
+### 3. Open-source project wants to bring stereoscopic 3D gaming back from the dead 
 
-Chromatic 3D Materials successfully tested 3D-printed rocket propellant with 1,800 PSI pressure, enabling faster production and advanced designs.
+The wiz3D project aims to revive stereoscopic 3D gaming support in older games, enabling them to run with compatible stereo display devices on modern Windows systems. This open-source tool injects hooks into gaming APIs to generate real-time stereo 3D output. The project seeks to breathe new life into a neglected gaming technology.
 
-💡 *Potential for lightweight, high-performance missiles with rapid production rates.*
+💡 *Reviving nostalgic 3D gaming experiences for modern players and enthusiasts.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/startup-successfully-tests-3d-printed-rocket-fuel-that-could-enable-lighter-missiles-and-faster-production-rates-new-additive-manufacturing-process-tested-at-1-800-psi)
-
----
-
-### 6. New Linux StarFighter laptop family debuts starting at $1,878 Star Labs Systems' laptops arrive with spacious RAM, several options 
-
-The StarFighter Linux laptop is now available for purchase, offering spacious RAM options. It's the latest model from Star Labs Systems, a small startup based in rural England. Prices start at $1,878.
-
-💡 *High-end Linux laptop offers competitive RAM capacity at an affordable price.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/new-linux-starfighter-laptop-family-debuts-starting-at-usd1-878-star-labs-systems-laptops-arrive-with-spacious-ram-several-options)
+🔗 [Read Full Article](https://www.techspot.com/news/112325-open-source-project-wants-bring-stereoscopic-3d-gaming.html)
 
 ---
 
-### 7. Dell XPS 16 (2026) Review: A flagship return to form 
+### 4. Project Mariner is dead, but Google's browser-controlling AI plans are not 
 
-Dell's revived XPS 16 offers an elite experience, but at a premium price.
+Project Mariner, an AI-powered Chrome extension, aimed to simplify tasks with multi-step commands. However, it has been discontinued. Google is reportedly working on new browser-controlling AI plans.
 
-💡 *Flagship laptops require high investment for high-end performance.*
+💡 *AI-assisted browsing could revolutionize user experience and efficiency online*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-16-2026-review-da16260)
-
----
-
-### 8. 2026 Best of Sensors winners announced at Sensors Converge 
-
-The Best of Sensors awards at Sensors Converge celebrated innovation in sensor technology, recognizing industry leaders and pioneers. The winners showcased cutting-edge advancements in various fields, from wearable technology to automotive systems. These achievements highlight the transformative impact of sensors on modern industries.
-
-💡 *Sensors Converge recognizes game-changing innovations in sensor technology and applications.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/2026-best-sensors-winners-announced-sensors-converge)
+🔗 [Read Full Article](https://www.techspot.com/news/112334-project-mariner-dead-but-google-browser-controlling-ai.html)
 
 ---
 
-### 9. Microsoft made Copilot a co-author on every VS Code project, reverted after developers revolted 
+### 5. Nintendo is selling the Switch 2 at a loss, so investors are asking for a hefty price hike 
 
-Microsoft inadvertently made Copilot a co-author in VS Code projects, sparking user backlash.
+Nintendo's stock price falls over 30% in 2026 due to Switch 2 losses.
 
-💡 *Developer ownership and authorship are being redefined by AI tools automatically.*
+💡 *Nintendo's profits squeezed by Switch 2 losses and declining stock value.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112321-microsoft-made-copilot-co-author-every-vs-code.html)
-
----
-
-### 10. Myst and Riven remakes head to PlayStation, Xbox, and Microsoft Store 
-
-Myst and Riven remakes are coming to PS5, Xbox, and Microsoft Store. The games will support HDR, 4K, and ray tracing for immersive experiences. This remake marks a return to classic puzzle-adventure gameplay.
-
-💡 *Reviving nostalgic puzzle-adventure games for modern gaming platforms*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112322-myst-riven-remakes-head-playstation-xbox-microsoft-store.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112329-nintendo-investors-reportedly-want-switch-2-price-hike.html)
 
 ---
 
-### 11. Game engines were built for video games, but Japan is finding more interesting things to do with them 
+### 6. Devastating 'Dirty Frag' exploit leaks out, gives immediate root access on most Linux machines since 2017, no patches available, no warning given Copy Fail-like vulnerability had its embargo broken 
 
-Japanese developers are repurposing popular 3D engines for new applications beyond gaming, expanding their capabilities. Unity and Unreal Engine are being used for non-game projects, such as simulations and training tools. These engines are being given a 'extended life'.
+A critical 'Dirty Frag' exploit grants immediate root access on many Linux systems since 2017, with no available patches or warning given.
 
-💡 *Repurposing game engines unlocks new possibilities in innovation and development.*
+💡 *Vulnerable Linux systems pose significant risks to global network security and stability.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112319-game-engines-built-video-games-but-japan-finding.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/dirty-frag-exploit-gets-root-on-most-linux-machines-since-2017-no-patches-available-no-warning-given-copy-fail-like-vulnerability-had-its-embargo-broken)
+
+---
+
+### 7. High-capacity HDD roadmap: the race to 100TB and zettabyte-scale storage Toshiba, Seagate and WD outline three distinct strategies 
+
+Toshiba, Seagate, and Western Digital are developing distinct strategies to reach 100TB storage capacity, driven by growing data center needs. Each company is focusing on its unique strengths to outperform competitors in the zettabyte-scale storage market. Their approaches will likely shape the future of data storage.
+
+💡 *Racing to 100TB storage capacity defines new era in data storage.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/hdds/high-capacity-hdd-roadmap-the-race-to-100tb-and-zettabyte-scale-storage-toshiba-seagate-and-wd-outline-three-distinct-strategies)
+
+---
+
+### 8. Star Fox remake hits Switch 2 on June 25 with 4v4 battle mode and iconic maps 
+
+The Star Fox remake launches on Switch 2 on June 25, 2026, with a 4v4 battle mode and iconic maps. This marks the fifth remake or remaster of the classic title by Nintendo. The game will be released on the latest Switch console.
+
+💡 *Nintendo revives beloved Star Fox series with modern multiplayer twist*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112332-star-fox-remake-arrives-june-25-switch-2.html)
+
+---
+
+### 9. Gen Z is turning subscriptions into short-term rentals for shows, movies, and games 
+
+Gen Z is using streaming subscriptions as temporary access points, frequently subscribing and unsubscribing for individual shows or films, changing the traditional subscription model.
+
+💡 *Streaming subscriptions have become transactional, not ongoing commitments.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112327-gen-z-turning-subscriptions-short-term-rentals-shows.html)
+
+---
+
+### 10. Lenovo appears to join retro gaming handheld race with new G02 system handheld for sale on AliExpress, listed on Lenovo's official China site 
+
+Lenovo's G02 retro gaming handheld is now available on AliExpress and Lenovo's China site, despite no official announcement. The device features a retro aesthetic and gaming capabilities. Its release is sparking curiosity among gaming enthusiasts and Lenovo fans.
+
+💡 *Lenovo joins retro gaming handheld market with unannounced device release*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/lenovo-appears-to-join-retro-gaming-handheld-race-g02-system-shows-on-aliexpress-with-mentions-on-chinese-manufacturers-site)
 
 ---
 

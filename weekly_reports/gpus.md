@@ -1,65 +1,75 @@
 # 🎮 GPUs
-**Week of May 07, 2026**
+**Week of May 08, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-05-07 10:54
+- **Articles this week:** 6
+- **Report generated:** 2026-05-08 10:08
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Save nearly $300 on AMD Ryzen 7 9850X3D and Asus Prime RTX 5070 bundle, plus an 850W PSU score the core components to a new gaming rig for only $940 
+### 1. Khadas Mind Graphics 2 and Mind xPlay display + keyboard review Part 1: Unboxing, teardown, and first try ⭐
 
-Assemble a gaming PC with AMD Ryzen 7 9850X3D and Asus Prime RTX 5070, along with an 850W PSU, for $940. This deal includes a copy of Capcom's Pragmata game. Build a high-performance gaming rig at a budget-friendly price.
+Khadas Mind Graphics 2 and Mind xPlay review covers unboxing, teardown, and first try.
 
-💡 *Affordable high-performance gaming PC build option for budget-conscious gamers.*
+💡 *Khadas offers a versatile portable display and keyboard solution for mini PCs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-nearly-usd300-on-amd-ryzen-7-9850x3d-and-asus-prime-rtx-5070-bundle-plus-an-850w-psu-score-the-core-components-to-a-new-gaming-rig-for-only-usd940)
-
----
-
-### 2. Score this 500Hz 27-inch Samsung Odyssey OLED gaming monitor at its lowest ever price, now just $649.99 huge $349 saving nets you ultra-fast G60SF display with Nvidia G-Sync support 
-
-The Samsung Odyssey OLED G60SF gaming monitor is now at $649.99, a $349 saving off the regular price, offering an ultra-fast G60SF display with Nvidia G-Sync support.
-
-💡 *Significant price drop for high-quality gaming monitor technology.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/score-this-500hz-27-inch-samsung-odyssey-oled-gaming-monitor-at-its-lowest-ever-price-now-just-usd649-99-huge-usd349-saving-nets-you-ultra-fast-g60sf-display-with-nvidia-g-sync-support)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/07/khadas-mind-graphics-2-and-mind-xplay-display-keyboard-review-part-1-unboxing-teardown-and-first-try/)
 
 ---
 
-### 3. AMD warns gaming revenue will plunge over 20% as memory prices drive up PC hardware costs 
+### 2. Open-source project wants to bring stereoscopic 3D gaming back from the dead 
 
-AMD's Q1 revenue rose 38% to $10.3 billion, driven by strong data center sales and improved client and gaming segments. Gaming revenue saw a notable increase. However, the company warns that gaming revenue will decline due to rising memory costs.
+The wiz3D project aims to revive stereoscopic 3D gaming support in older games, enabling them to run with compatible stereo display devices on modern Windows systems. This open-source tool injects hooks into gaming APIs to generate real-time stereo 3D output. The project seeks to breathe new life into a neglected gaming technology.
 
-💡 *Rising memory prices threaten AMD's gaming revenue growth momentum.*
+💡 *Reviving nostalgic 3D gaming experiences for modern players and enthusiasts.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112316-amd-warns-gaming-revenue-plunge-over-20-memory.html)
-
----
-
-### 4. Microsoft kills Gaming Copilot for Xbox consoles and mobile 
-
-Microsoft has canceled the rollout of Gaming Copilot for Xbox consoles and mobile devices, just two months after announcing its release for current-gen consoles.
-
-💡 *Gaming industry faces uncertainty with cancelled AI-powered features.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112315-microsoft-kills-gaming-copilot-ai-xbox-consoles-mobile.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112325-open-source-project-wants-bring-stereoscopic-3d-gaming.html)
 
 ---
 
-### 5. Xbox CEO Asha Sharma kills Copilot for Gaming overhauls leadership with CoreAI veterans 
+### 3. SpaceX will help power Claude with 220,000 Nvidia GPUs despite Elon's attacks on Anthropic 
 
-Xbox CEO Asha Sharma has made significant changes to the gaming platform, killing off Copilot and introducing new leadership from CoreAI veterans. This shift aims to overhaul the gaming experience with AI-driven innovations. Sharma's vision is to drive growth and improvement.
+SpaceXAI will provide Anthropic with compute capacity from Colossus 1 data center, offering over 300 megawatts of new capacity. This deal allows Anthropic to leverage massive computing power for AI development. Anthropic will utilize 220,000 Nvidia GPUs.
 
-💡 *Xbox leadership pivots to AI-driven gaming with Copilot's demise*
+💡 *Massive computing power fuels AI advancements.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/xbox-ceo-asha-sharma-kills-copilot-for-gaming)
+🔗 [Read Full Article](https://www.techspot.com/news/112331-elon-musk-spacexai-help-power-claude-despite-attacks.html)
+
+---
+
+### 4. AMD announces MI350P PCIe AI accelerator card with 144GB of HBM3E roughly 40% faster in FP16 and FP8 theoretical compute compared to Nvidia's H200 NVL competitor 
+
+AMD launches MI350P PCIe AI-accelerator card with lower cores and memory, suitable for drop-in upgrades. The card is roughly 40% faster in FP16 and FP8 theoretical compute compared to Nvidia's H200 NVL competitor. It offers 144GB of HBM3E memory.
+
+💡 *AMD AI-accelerator offers competitive performance with reduced resource requirements.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amd-announces-mi350p-pcie-ai-accelerator-card-with-144gb-of-hbm3e-roughly-40-percent-faster-in-fp16-and-fp8-theoretical-compute-compared-to-nvidias-h200-nvl-competitor)
+
+---
+
+### 5. Nvidia s ISP piracy defense backfires as judge refuses to dismiss copyright lawsuit over more than 197,000 pirated books scripts in NeMo Framework allegedly have no other purpose than to speed up infringement 
+
+A judge refuses to dismiss a copyright lawsuit against Nvidia, citing that the NeMo Framework's alleged purpose of speeding up piracy is a non-infringing use defense backfire. The court's decision suggests Nvidia's argument may not hold up in court.
+
+💡 *Nvidia's defense of NeMo's non-infringing uses may be flawed in court.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/nvidias-isp-piracy-defense-backfires-as-judge-refuses-to-dismiss-copyright-lawsuit-over-more-than-197-000-pirated-books-scripts-in-nemo-framework-allegedly-have-no-other-purpose-than-to-speed-up-infringement)
+
+---
+
+### 6. Lenovo appears to join retro gaming handheld race with new G02 system handheld for sale on AliExpress, listed on Lenovo's official China site 
+
+Lenovo's G02 retro gaming handheld is now available on AliExpress and Lenovo's China site, despite no official announcement. The device features a retro aesthetic and gaming capabilities. Its release is sparking curiosity among gaming enthusiasts and Lenovo fans.
+
+💡 *Lenovo joins retro gaming handheld market with unannounced device release*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/lenovo-appears-to-join-retro-gaming-handheld-race-g02-system-shows-on-aliexpress-with-mentions-on-chinese-manufacturers-site)
 
 ---
 
