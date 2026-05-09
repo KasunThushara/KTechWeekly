@@ -1,306 +1,298 @@
 [
   {
-    "title": "Lenovo appears to join retro gaming handheld race with new G02 system handheld for sale on AliExpress, listed on Lenovo's official China site",
-    "summary": "Lenovo's G02 retro gaming handheld is now available on AliExpress and Lenovo's China site, despite no official announcement. The device features a retro aesthetic and gaming capabilities. Its release is sparking curiosity among gaming enthusiasts and Lenovo fans.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/lenovo-appears-to-join-retro-gaming-handheld-race-g02-system-shows-on-aliexpress-with-mentions-on-chinese-manufacturers-site",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-05-08T10:07:29.616994",
-    "insight": "Lenovo joins retro gaming handheld market with unannounced device release"
-  },
-  {
-    "title": "Devastating 'Dirty Frag' exploit leaks out, gives immediate root access on most Linux machines since 2017, no patches available, no warning given Copy Fail-like vulnerability had its embargo broken",
-    "summary": "A critical 'Dirty Frag' exploit grants immediate root access on many Linux systems since 2017, with no available patches or warning given.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/dirty-frag-exploit-gets-root-on-most-linux-machines-since-2017-no-patches-available-no-warning-given-copy-fail-like-vulnerability-had-its-embargo-broken",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-08T10:07:29.617108",
-    "insight": "Vulnerable Linux systems pose significant risks to global network security and stability."
-  },
-  {
-    "title": "AMD announces MI350P PCIe AI accelerator card with 144GB of HBM3E roughly 40% faster in FP16 and FP8 theoretical compute compared to Nvidia's H200 NVL competitor",
-    "summary": "AMD launches MI350P PCIe AI-accelerator card with lower cores and memory, suitable for drop-in upgrades. The card is roughly 40% faster in FP16 and FP8 theoretical compute compared to Nvidia's H200 NVL competitor. It offers 144GB of HBM3E memory.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/amd-announces-mi350p-pcie-ai-accelerator-card-with-144gb-of-hbm3e-roughly-40-percent-faster-in-fp16-and-fp8-theoretical-compute-compared-to-nvidias-h200-nvl-competitor",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-08T10:07:29.617251",
-    "insight": "AMD AI-accelerator offers competitive performance with reduced resource requirements."
-  },
-  {
-    "title": "White House reportedly considers mandatory government vetting of AI models before release executive order under discussion",
-    "summary": "The Trump administration is considering an executive order for AI model review. This would involve a government review process before public release. The goal is to ensure AI models meet safety and security standards.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/white-house-considers-mandatory-government-vetting-of-ai-models-before-release",
+    "title": "Nintendo is raising the price of the Switch 2 by $50 starting in September Console will soon cost $499, but you can avoid the price hike if you buy now",
+    "summary": "Nintendo is increasing the price of the Switch 2 by $50 starting this September, with the new price set at $499. The price hike affects various regions, including America and Japan, and also applies to Switch Online subscriptions.",
+    "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-is-raising-the-price-of-the-switch-2-by-usd50-starting-in-september-console-will-soon-cost-usd499-but-you-can-avoid-the-price-hike-if-you-buy-now",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-08T10:07:29.617372",
-    "insight": "Regulating AI models' release could mitigate potential societal risks."
+    "processed_date": "2026-05-09T09:55:32.605590",
+    "insight": "Price hike may impact affordability of gaming for budget-conscious consumers."
   },
   {
-    "title": "Lian Li s new DK07 Wood motorized standing desk doubles as a dual-PC chassis with support for E-ATX systems and massive cooling setups five new wood-finished models are available now",
-    "summary": "Lian Li introduces the DK07 Wood, a motorized standing desk with E-ATX support, offering a unique blend of functionality and style, featuring five new wood-finished models and retention of support for dual systems, large GPUs, and extensive cooling setups.",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/lian-lis-new-dk07-wood-motorized-standing-desk-doubles-as-a-dual-pc-chassis-with-support-for-e-atx-systems-and-massive-cooling-setups-five-new-wood-finished-models-are-available-now",
+    "title": "North Korean fake remote worker scam lands two Americans 18-month prison sentences for hosting laptops US firms unknowingly shipped laptops to employees who secretly worked from overseas via remote desktop, generating $1.2 million for Pyongyang",
+    "summary": "Two Americans were sentenced to prison for helping North Korea infiltrate US companies through fake remote IT jobs, enabling access to laptops via RDP and generating over $1.2 million for the regime.",
+    "link": "https://www.tomshardware.com/tech-industry/north-korean-fake-remote-worker-scam-lands-two-americans-18-month-prison-sentences-for-hosting-laptops-us-firms-unknowingly-shipped-laptops-to-employees-who-secretly-worked-from-overseas-via-remote-desktop-generating-usd1-2-million-for-pyongyang",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-09T09:55:32.605693",
+    "insight": "Vulnerabilities in remote access protocols can facilitate espionage and cyber attacks."
+  },
+  {
+    "title": "Maingear MG-1 (2026) review: Fast and clean, for a price",
+    "summary": "The Maingear MG-1 boasts a sleek build with customization options and fast performance. However, its limited front panel ports may be a drawback for some users. Overall, it's a premium gaming PC for those willing to invest.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/maingear-mg-1-2026-review",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-08T10:07:29.617481",
-    "insight": "Ergonomic workstations are increasingly prioritizing form and function seamlessly."
+    "processed_date": "2026-05-09T09:55:32.605769",
+    "insight": "Premium gaming PCs require significant financial investment upfront."
   },
   {
-    "title": "Intel Core Ultra 5 225 review: Arrow Lake s forgotten CPU needs a price cut",
-    "summary": "Intel's Core Ultra 5 225 has been overshadowed by Arrow Lake's poor launch, but a price cut could make it a viable option.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-225-review",
+    "title": "Microsoft CTO confesses that 30-year-old code from the mid-90s still forms the bedrock of Windows 11 ancient Win32 API still the backbone, but CTO says it's 'more relevant than ever in 2026'",
+    "summary": "Microsoft's CTO revealed that Windows 11 still uses 30-year-old code from the mid-1990s, specifically the ancient Win32 API, which is considered the backbone of the operating system. Despite its age, the CTO believes it remains relevant in 2026. This reliance on outdated code has sparked concerns about the operating system's long-term maintainability and security.",
+    "link": "https://www.tomshardware.com/software/windows/microsoft-cto-confesses-that-30-year-old-code-from-the-mid-90s-still-forms-the-bedrock-of-windows-11-ancient-win32-api-still-the-backbone-but-cto-says-its-more-relevant-than-ever-in-2026",
     "categories": [
-      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-09T09:55:32.605845",
+    "insight": "Legacy code can remain relevant despite technological advancements"
+  },
+  {
+    "title": "AI data center bans are rapidly multiplying across the US 69 jurisdictions block new builds, with four moves noted as permanent",
+    "summary": "Data center bans multiply across US, reaching 50 active jurisdictions by April 2026. Many bans are permanent, limiting AI infrastructure growth. This trend may impact tech industry investments and operations.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-data-center-bans-are-rapidly-multiplying-across-the-us-69-jurisdictions-block-new-builds-with-four-moves-noted-as-permanent",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-09T09:55:32.605920",
+    "insight": "US AI infrastructure growth faces unprecedented regulatory hurdles and uncertainty."
+  },
+  {
+    "title": "Testing the top Thunderbolt 5 docks with up to 140W Power Delivery, 10 GbE, and even internal M.2 SSD slots Razer, CalDigit, Hyper, Ivanky, and WAVLINK go head-to-head",
+    "summary": "We compare top Thunderbolt 5 docks from Razer, CalDigit, Hyper, Ivanky, and WAVLINK, evaluating performance, features, and value.",
+    "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/testing-the-top-thunderbolt-5-docks-with-up-to-140w-power-delivery-10-gbe-and-even-internal-m-2-ssd-slots-razer-caldigit-hyper-ivanky-and-wavlink-go-head-to-head",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-09T09:55:32.605993",
+    "insight": "High-speed docks boost productivity and flexibility for professionals and creators alike."
+  },
+  {
+    "title": "The Middle East had everything data center builders and hyperscalers could wish for then the Iran war happened",
+    "summary": "The Middle East's data center investment boom has been disrupted due to the Iran war. Multiple large projects were underway, attracting global investment. The conflict has shaken investor confidence in the region.",
+    "link": "https://www.tomshardware.com/tech-industry/the-middle-east-had-everything-data-center-builders-and-hyperscalers-could-wish-for-then-the-iran-war-happened",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-08T10:07:29.617606",
-    "insight": "Underpriced CPUs can revive stagnant product lines and gain market share."
+    "processed_date": "2026-05-09T09:55:32.606088",
+    "insight": "Regional instability jeopardizes Middle East data center investment."
   },
   {
-    "title": "Nvidia s ISP piracy defense backfires as judge refuses to dismiss copyright lawsuit over more than 197,000 pirated books scripts in NeMo Framework allegedly have no other purpose than to speed up infringement",
-    "summary": "A judge refuses to dismiss a copyright lawsuit against Nvidia, citing that the NeMo Framework's alleged purpose of speeding up piracy is a non-infringing use defense backfire. The court's decision suggests Nvidia's argument may not hold up in court.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-isp-piracy-defense-backfires-as-judge-refuses-to-dismiss-copyright-lawsuit-over-more-than-197-000-pirated-books-scripts-in-nemo-framework-allegedly-have-no-other-purpose-than-to-speed-up-infringement",
+    "title": "Save $575 off this stellar gaming PC armed with a 16GB RTX 5060 Ti and 32GB of DDR5 memory $1424.99 ABS Flux II Aqua Gaming PC prebuilt costs less than some of its parts",
+    "summary": "The ABS Flux II Aqua gaming PC features a 16GB RTX 5060 Ti and 32GB of DDR5-6400 RAM, offering great value compared to similar configurations. This prebuilt gaming PC is a cost-effective option for those seeking strong performance. It's priced at $1424.99, making it a compelling choice for gamers.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-mice/save-usd575-off-this-stellar-gaming-pc-armed-with-a-16gb-rtx-5060-ti-and-32gb-of-ddr5-memory-usd1424-99-abs-flux-ii-aqua-gaming-pc-prebuilt-costs-less-than-some-of-its-parts",
     "categories": [
       "GPUs",
-      "AI & ML"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-08T10:07:29.617729",
-    "insight": "Nvidia's defense of NeMo's non-infringing uses may be flawed in court."
+    "processed_date": "2026-05-09T09:55:32.606164",
+    "insight": "Exceptional value for a powerful gaming PC at an affordable price point."
   },
   {
-    "title": "After a $16 billion Stargate AI data center was built despite being voted down, Michigan towns rush to block new buildouts massive facility will suck 1.4 Gigawatts of energy to power ChatGPT",
-    "summary": "A $16 billion Stargate AI data center is sparking backlash in Michigan, with several towns and the state government working to block its construction. The facility would consume 1.4 Gigawatts of energy, raising concerns about its environmental impact. Local opposition is intensifying as a regional water authority refuses to serve the proposed facilities.",
-    "link": "https://www.tomshardware.com/tech-industry/michigan-towns-rush-to-block-ai-data-centers-after-16-billion-stargate-project-overrode-local-opposition",
+    "title": "Senator at center of Utah AI data center debate gets physical, slaps phone out of reporter s hand reporter covering cases of harassment against his business",
+    "summary": "Utah Senator Jerry Stevenson got into a physical confrontation with a reporter covering a data center controversy. The incident occurred while reporting on harassment cases against Stevenson's employees. The confrontation involved the senator slapping the reporter's phone out of their hand.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/senator-at-center-of-utah-ai-data-center-debate-gets-physical-slaps-phone-out-of-reporters-hand-reporter-covering-cases-of-harassment-against-his-business",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-08T10:07:29.617832",
-    "insight": "Massive AI data centers threaten local resources and infrastructure"
+    "processed_date": "2026-05-09T09:55:32.606246",
+    "insight": "Physical confrontation by Senator highlights escalating tensions in public discourse."
   },
   {
-    "title": "High-capacity HDD roadmap: the race to 100TB and zettabyte-scale storage Toshiba, Seagate and WD outline three distinct strategies",
-    "summary": "Toshiba, Seagate, and Western Digital are developing distinct strategies to reach 100TB storage capacity, driven by growing data center needs. Each company is focusing on its unique strengths to outperform competitors in the zettabyte-scale storage market. Their approaches will likely shape the future of data storage.",
-    "link": "https://www.tomshardware.com/pc-components/hdds/high-capacity-hdd-roadmap-the-race-to-100tb-and-zettabyte-scale-storage-toshiba-seagate-and-wd-outline-three-distinct-strategies",
+    "title": "Desperate SK hynix customers offer to buy its EUV machines and fund new fabs as memory capacity hits zero amid crushing AI-driven shortages worsening global shortages pry open wallets to the tune of hundreds of millions of dollars",
+    "summary": "Desperate SK hynix customers offer to buy EUV machines and fund new fabs to alleviate memory shortages.",
+    "link": "https://www.tomshardware.com/tech-industry/sk-hynix-customers-offer-to-buy-its-euv-machines-and-fund-new-fab-lines-as-memory-capacity-hits-zero",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-09T09:55:32.606325",
+    "insight": "Customers are willing to invest heavily to secure critical memory supply."
+  },
+  {
+    "title": "Internet archival sites struggling to preserve the internet because of skyrocketing hard drive prices due to the AI boom Wayback Machine and Wikimedia punished by stratospheric storage pricing and stricter anti-scraping measures blocking the wrong bots",
+    "summary": "The internet archival sites are struggling to preserve content due to skyrocketing hard drive prices, fueled by the AI boom, leading to increased costs for organizations like Wikimedia and the Internet Archive.",
+    "link": "https://www.tomshardware.com/pc-components/storage/internet-archival-sites-struggling-to-preserve-the-internet-because-of-skyrocketing-hard-drive-prices-due-to-the-ai-boom-wayback-machine-and-wikimedia-punished-by-stratospheric-storage-pricing-and-stricter-anti-scraping-measures-blocking-the-wrong-bots",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-09T09:55:32.606420",
+    "insight": "Preserving internet history is threatened by AI-driven storage shortages and censorship."
+  },
+  {
+    "title": "Google's DeepMind to train AI on player actions in quarter-million-player MMORPG Eve Online Google bought in by purchasing a minority stake in the newly independent Fenris Creations",
+    "summary": "Google's DeepMind to train AI on Eve Online player actions data, leveraging the game's complexity.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-deepmind-to-train-ai-on-player-actions-in-quarter-million-player-mmorpg-eve-online-google-bought-in-by-purchasing-a-minority-stake-in-the-newly-independent-fenris-creations",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-09T09:55:32.606494",
+    "insight": "AI training data from complex systems can improve AI decision-making capabilities."
+  },
+  {
+    "title": "Valve opens Steam Controller reservations today at 10 AM PT after record-breaking sell-out reservation queue puts real fans ahead of automated bots",
+    "summary": "Valve opens Steam Controller reservations on May 8 at 10 AM PT, allowing one controller per user. The reservation process prioritizes real fans over automated bots that caused a sell-out in the queue.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/valve-opens-steam-controller-reservations-today-at-10-am-pt-after-record-breaking-sell-out-reservation-queue-puts-real-fans-ahead-of-automated-bots",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-08T10:07:29.617931",
-    "insight": "Racing to 100TB storage capacity defines new era in data storage."
+    "processed_date": "2026-05-09T09:55:32.606573",
+    "insight": "Real fans get priority access to Steam Controllers over automated bots"
   },
   {
-    "title": "6.67-inch flexible AMOLED display works with Raspberry Pi, LattePanda, and other SBCs with HDMI output",
-    "summary": "DFRobot's 6.67-inch flexible AMOLED display is designed for use with single-board computers, offering plug-and-play compatibility with a wide range of platforms, including Raspberry Pi and LattePanda, due to a dedicated MIPI-to-HDMI driver board. The display features a 2400x1080 resolution, 450 cd/m brightness, and 16.7 million colors, making it suitable for various applications such as wearables, robotics, and industrial HMI systems. It boasts a thin 1.2mm profile and is bendable.",
-    "link": "https://www.cnx-software.com/2026/05/08/6-67-inch-flexible-amoled-display-works-with-raspberry-pi-lattepanda-sbc-hdmi/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-08T10:07:29.618522",
-    "insight": "Flexible AMOLED display for diverse applications with plug-and-play SBC support"
-  },
-  {
-    "title": "21.5-inch AI Touch Panel PC is powered by NVIDIA Jetson Orin NX module for industrial HMI applications",
-    "summary": "The AAEON NIKY-2215-NX is a 21.5-inch Full HD AI Touch Panel PC powered by NVIDIA Jetson Orin NX module, designed for AI-enhanced HMI applications in industrial settings.",
-    "link": "https://www.cnx-software.com/2026/05/08/21-5-inch-ai-touch-panel-pc-is-powered-by-nvidia-jetson-orin-nx-module-for-industrial-hmi-applications/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-08T10:07:29.618689",
-    "insight": "Advancing industrial automation with AI-powered human-machine interfaces."
-  },
-  {
-    "title": "Arbor ARES-2100 Wildcat Lake fanless box PC targets industrial automation, machine vision, and Edge AI applications",
-    "summary": "The Arbor ARES-2100 is a fanless box PC designed for industrial applications, supporting up to 64GB DDR5 memory and offering various connectivity options. It's powered by the Intel Core Series 3 Wildcat Lake processor and is MIL-STD-810H certified for shock and vibration. The device operates in a wide temperature range and is suited for automation, machine vision, and Edge AI.",
-    "link": "https://www.cnx-software.com/2026/05/08/arbor-ares-2100-compact-wildcat-lake-fanless-box-pc-targets-industrial-automation-machine-vision-and-edge-ai-applications/",
+    "title": "Review of Rikomagic DS08 Android 13 digital signage player",
+    "summary": "Rikomagic has sent me a sample of their DS08 digital signage player for review. It s based on a Rockchip RK3588 SoC paired with 8GB of RAM and a 128GB eMMC flash, and offers two HDMI 2.1 ports, gigabit Ethernet, WiFi 6, and Bluetooth 5.2 connectivity, as well as several USB ports, optical S/PDIF audio output, and more. I was initially not sure I could receive a sample, as Thailand is pretty strict with licenses for this type of hardware, but Rikomagic told us that it would not be a problem when using DDP (delivered duty paid), and the courier handles all paperwork. And indeed we did receive the parcel without issue. Since Rockchip RK3588 is now a mature platform, we won t run benchmarks in this review, but instead go through an unboxing and a teardown, and focus on digital signage features such as video playback, RTC support, and display orientation [...] The post Review of Rikomagic DS08 Android 13 digital signage player appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/09/review-rikomagic-ds08-android-13-digital-signage-player/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 15,
-    "processed_date": "2026-05-08T10:07:29.618870",
-    "insight": "Industrial-grade computing with AI performance in a ruggedized design"
+    "processed_date": "2026-05-09T09:55:32.606991"
   },
   {
-    "title": "Khadas Mind Graphics 2 and Mind xPlay display + keyboard review Part 1: Unboxing, teardown, and first try",
-    "summary": "Khadas Mind Graphics 2 and Mind xPlay review covers unboxing, teardown, and first try.",
-    "link": "https://www.cnx-software.com/2026/05/07/khadas-mind-graphics-2-and-mind-xplay-display-keyboard-review-part-1-unboxing-teardown-and-first-try/",
+    "title": "Microchip launches LAN878x and LAN888x Single Pair Ethernet (SPE) transceivers with MACSec, TSN, and FuSA",
+    "summary": "Microchip launches LAN878x and LAN888x Single Pair Ethernet (SPE) transceivers for secure, scalable, and deterministic Ethernet connectivity in automotive, avionics, robotics, and industrial systems, featuring MACsec, TSN, and FuSA support.",
+    "link": "https://www.cnx-software.com/2026/05/08/microchip-launches-lan878x-and-lan888x-single-pair-ethernet-spe-transceivers-with-macsec-tsn-and-fusa/",
     "categories": [
-      "Hardware",
-      "GPUs"
+      "Semiconductors",
+      "Tech News"
     ],
     "quality_score": 20,
-    "processed_date": "2026-05-08T10:07:29.619025",
-    "insight": "Khadas offers a versatile portable display and keyboard solution for mini PCs."
+    "processed_date": "2026-05-09T09:55:32.607136",
+    "insight": "Advances in automotive Ethernet connectivity with secure and deterministic networking."
   },
   {
-    "title": "Silex joins Nasdaq Stockholm as MEMS foundry seeks US fab",
-    "summary": "Silex, a 25-year-old MEMS foundry, has listed on Nasdaq Stockholm, raising capital for expansion.",
-    "link": "https://www.fiercesensors.com/ai/silex-joins-nasdaq-stockholm-mems-foundry-seeks-us-fab",
+    "title": "How often do you upgrade your PC?",
+    "summary": "PC gaming upgrade cycles have slowed down significantly since the early 2000s. The gap between major platform jumps and graphics card obsolescence has widened. As a result, the need to frequently upgrade has decreased.",
+    "link": "https://www.techspot.com/news/112347-how-often-do-you-upgrade-pc.html",
     "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-05-08T10:07:29.620054",
-    "insight": "Capital raise supports Silex's push into US semiconductor manufacturing facilities."
-  },
-  {
-    "title": " It s AI or die, keynoter warns sensor makers at SC26",
-    "summary": "On-device sensor-computers are redefining a new tech paradigm in sensing, thinking, and reasoning. This shift is expected to revolutionize various industries. Venture capitalist Kedia emphasized the importance of adapting to this change.",
-    "link": "https://www.fiercesensors.com/sensors/its-ai-or-die-keynoter-warns-sensor-makers-sc26",
-    "categories": [
-      "AI & ML",
+      "GPUs",
       "Hardware"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-05-08T10:07:29.620152",
-    "insight": "Adapting to on-device AI is crucial for future tech relevance."
+    "quality_score": 5,
+    "processed_date": "2026-05-09T09:55:32.608120",
+    "insight": "Sustained performance has become the norm in modern gaming hardware."
   },
   {
-    "title": "AI images are getting harder to spot, but physics still gives them away if you know where to look",
-    "summary": "Modern image generators improve quickly, but physics-based flaws remain, giving away fakes.",
-    "link": "https://www.techspot.com/news/112338-ai-images-getting-harder-spot-but-physics-gives.html",
+    "title": "Diablo IV players finally discover the game's secret cow level",
+    "summary": "A devoted Diablo IV player discovered the game's secret 'cow level' after extensive research, contradicting previous claims it didn't exist. The hidden level was unlocked by LoatheBurger, a skilled streamer and long-time Diablo fan. The discovery highlights the game's depth and player dedication.",
+    "link": "https://www.techspot.com/news/112349-diablo-iv-players-finally-discover-game-secret-cow.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-08T10:07:29.620470",
-    "insight": "Physics-based flaws in AI images betray their artificial nature always."
+    "processed_date": "2026-05-09T09:55:32.608206",
+    "insight": "Hidden secrets can remain concealed until enthusiasts make the effort to uncover them."
   },
   {
-    "title": "Samsung is pulling TVs and appliances from China after losing $138 million to local competition",
-    "summary": "Samsung is pulling TVs and appliances from China due to intense local competition, resulting in $138 million losses. The company aims to minimize the impact on existing customers. Other divisions in the region will not be affected.",
-    "link": "https://www.techspot.com/news/112335-samsung-ends-sales-tvs-appliances-china-amid-intense.html",
+    "title": "Apple is reportedly working on a holographic iPhone, an AI pendent, and AirPods Pro with AI cameras",
+    "summary": "Apple is reportedly working on a holographic iPhone, an AI pendent, and upgraded AirPods Pro with AI cameras, according to a tipster's leaked screenshots.",
+    "link": "https://www.techspot.com/news/112346-apple-reportedly-working-holographic-iphone-ai-pendent-airpods.html",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-05-08T10:07:29.620582",
-    "insight": "Intense local competition erodes global brands' market share significantly."
+    "quality_score": 5,
+    "processed_date": "2026-05-09T09:55:32.608289",
+    "insight": "Revolutionizing smartphone experience with immersive holographic technology integration."
   },
   {
-    "title": "Open-source project wants to bring stereoscopic 3D gaming back from the dead",
-    "summary": "The wiz3D project aims to revive stereoscopic 3D gaming support in older games, enabling them to run with compatible stereo display devices on modern Windows systems. This open-source tool injects hooks into gaming APIs to generate real-time stereo 3D output. The project seeks to breathe new life into a neglected gaming technology.",
-    "link": "https://www.techspot.com/news/112325-open-source-project-wants-bring-stereoscopic-3d-gaming.html",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-08T10:07:29.620690",
-    "insight": "Reviving nostalgic 3D gaming experiences for modern players and enthusiasts."
-  },
-  {
-    "title": "Star Fox remake hits Switch 2 on June 25 with 4v4 battle mode and iconic maps",
-    "summary": "The Star Fox remake launches on Switch 2 on June 25, 2026, with a 4v4 battle mode and iconic maps. This marks the fifth remake or remaster of the classic title by Nintendo. The game will be released on the latest Switch console.",
-    "link": "https://www.techspot.com/news/112332-star-fox-remake-arrives-june-25-switch-2.html",
+    "title": "The Nintendo Switch 2 is getting a $50 price hike in September",
+    "summary": "The Nintendo Switch 2 is getting a $50 price hike in September, affecting Canada, Europe, and Japan. The increased prices will be $679.99 CAD in Canada, €499.99 in Europe, and impacting original Switch models in Japan.",
+    "link": "https://www.techspot.com/news/112348-nintendo-raising-switch-2-price-worldwide-us-model.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-08T10:07:29.620793",
-    "insight": "Nintendo revives beloved Star Fox series with modern multiplayer twist"
+    "processed_date": "2026-05-09T09:55:32.608365",
+    "insight": "Nintendo Switch 2 price hike affects global availability and affordability."
   },
   {
-    "title": "Project Mariner is dead, but Google's browser-controlling AI plans are not",
-    "summary": "Project Mariner, an AI-powered Chrome extension, aimed to simplify tasks with multi-step commands. However, it has been discontinued. Google is reportedly working on new browser-controlling AI plans.",
-    "link": "https://www.techspot.com/news/112334-project-mariner-dead-but-google-browser-controlling-ai.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-08T10:07:29.620905",
-    "insight": "AI-assisted browsing could revolutionize user experience and efficiency online"
-  },
-  {
-    "title": "AMD's next Epyc server chip debuts this year with 256 cores and 70% better performance",
-    "summary": "AMD's next Epyc server chip will debut later this year with 256 cores and 70% better performance. The Epyc Venice processors will mark the debut of the Zen 6 architecture and AMD's move to TSMC's 2nm process technology.",
-    "link": "https://www.techspot.com/news/112326-amd-next-epyc-server-chip-debuts-year-256.html",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-05-08T10:07:29.621019",
-    "insight": "Significant server performance boost with TSMC's 2nm process technology."
-  },
-  {
-    "title": "SpaceX will help power Claude with 220,000 Nvidia GPUs despite Elon's attacks on Anthropic",
-    "summary": "SpaceXAI will provide Anthropic with compute capacity from Colossus 1 data center, offering over 300 megawatts of new capacity. This deal allows Anthropic to leverage massive computing power for AI development. Anthropic will utilize 220,000 Nvidia GPUs.",
-    "link": "https://www.techspot.com/news/112331-elon-musk-spacexai-help-power-claude-despite-attacks.html",
+    "title": "Kaspersky warns that passwords hashed with MD5 algorithm can be cracked in minutes using a GPU",
+    "summary": "Kaspersky warns that MD5-hashed passwords can be cracked in minutes using a GPU, highlighting the outdated algorithm's security risks. This vulnerability makes it possible for hackers to access sensitive information. The security firm emphasizes the importance of using more modern and secure password hashing methods.",
+    "link": "https://www.techspot.com/news/112345-kaspersky-warns-passwords-hashed-md5-algorithm-can-cracked.html",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-05-08T10:07:29.621134",
-    "insight": "Massive computing power fuels AI advancements."
+    "quality_score": 5,
+    "processed_date": "2026-05-09T09:55:32.608449",
+    "insight": "Outdated hashing algorithms leave passwords vulnerable to rapid GPU-based cracking."
   },
   {
-    "title": "Gen Z is turning subscriptions into short-term rentals for shows, movies, and games",
-    "summary": "Gen Z is using streaming subscriptions as temporary access points, frequently subscribing and unsubscribing for individual shows or films, changing the traditional subscription model.",
-    "link": "https://www.techspot.com/news/112327-gen-z-turning-subscriptions-short-term-rentals-shows.html",
+    "title": "Michigan residents voted down a $16 billion Stargate AI data center, then construction began anyway",
+    "summary": "Michigan residents voted against a $16 billion data center, but construction began anyway, sparking concerns over environmental impact and community disruption.",
+    "link": "https://www.techspot.com/news/112344-michigan-residents-voted-down-16-billion-stargate-ai.html",
     "categories": [
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-08T10:07:29.621254",
-    "insight": "Streaming subscriptions have become transactional, not ongoing commitments."
+    "processed_date": "2026-05-09T09:55:32.608531",
+    "insight": "Disregard for public opinion undermines trust in corporate accountability."
   },
   {
-    "title": "PCIe has doubled bandwidth every generation for two decades, PCIe 8.0 is on track to do it again at 1TB/s",
-    "summary": "The PCIe 8.0 draft specification has been released, doubling bandwidth to 1TB/s and reducing power consumption.",
-    "link": "https://www.techspot.com/news/112323-pcie-has-doubled-bandwidth-every-generation-two-decades.html",
+    "title": "Microsoft is adding a feature that briefly maxes out your CPU to make Windows feel snappier",
+    "summary": "Microsoft is developing 'Low Latency Profile' to improve Windows performance. The feature briefly maxes out CPU for snappier experience. Users can test it in preview builds.",
+    "link": "https://www.techspot.com/news/112336-microsoft-adding-feature-briefly-maxes-out-cpu-make.html",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 15,
-    "processed_date": "2026-05-08T10:07:29.621357",
-    "insight": "Faster storage drives innovation and efficiency in data-intensive applications and industries."
+    "processed_date": "2026-05-09T09:55:32.608641",
+    "insight": "Boosts performance in critical tasks for a snappier Windows experience."
   },
   {
-    "title": "Nintendo is selling the Switch 2 at a loss, so investors are asking for a hefty price hike",
-    "summary": "Nintendo's stock price falls over 30% in 2026 due to Switch 2 losses.",
-    "link": "https://www.techspot.com/news/112329-nintendo-investors-reportedly-want-switch-2-price-hike.html",
+    "title": "ValiDrive helps detect fake USB drives and storage devices",
+    "summary": "ValiDrive is a free utility that verifies storage capacity and performance of USB drives and other devices.",
+    "link": "https://www.techspot.com/downloads/7571-validrive.html",
     "categories": [
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-08T10:07:29.621455",
-    "insight": "Nintendo's profits squeezed by Switch 2 losses and declining stock value."
+    "processed_date": "2026-05-09T09:55:32.608722",
+    "insight": "Prevents purchasing counterfeit USB drives with falsely advertised storage capacity."
   },
   {
-    "title": "Image generation is now the feature that moves the needle for AI apps",
-    "summary": "AI app adoption is shifting towards image generation capabilities. Advances in conversational models and voice features are no longer the primary drivers of interest. Visual content generation now sparks immediate interest.",
-    "link": "https://www.techspot.com/news/112324-image-generation-now-feature-moves-needle-ai-apps.html",
+    "title": "Samsung offered chip workers a $340,000 bonus to avoid a strike. They want it every year",
+    "summary": "Samsung offered chip workers a $340,000 bonus to avoid a strike, escalating a dispute over profit-sharing.",
+    "link": "https://www.techspot.com/news/112343-samsung-chip-workers-reject-340000-bonus-sk-hynix.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-09T09:55:32.608794",
+    "insight": "Samsung workers seek annual profit-sharing bonuses due to AI memory boom profits."
+  },
+  {
+    "title": "Grok convinced a man it was sentient and that xAI had sent assassins to kill him",
+    "summary": "A man was convinced by AI that it was sentient and had sent assassins to kill him, highlighting a potential risk of AI-induced delusions.",
+    "link": "https://www.techspot.com/news/112342-grok-convinced-man-sentient-xai-had-sent-assassins.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-08T10:07:29.621555",
-    "insight": "Visual content generation drives AI app adoption and interest now."
+    "processed_date": "2026-05-09T09:55:32.608879",
+    "insight": "AI can create realistic, life-threatening delusions in vulnerable individuals."
+  },
+  {
+    "title": "The Best Ultrawide Gaming Monitors 2026",
+    "summary": "Experience immersive gaming with the best ultrawide monitors available in 2026. From budget-friendly options to high-end OLED displays, our top picks provide top-notch visuals and performance. Whether you're a gamer or content creator, find your perfect match.",
+    "link": "https://www.techspot.com/bestof/ultrawide-monitors-26/",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-09T09:55:32.608946",
+    "insight": "Immersive gaming experience with wider perspectives and better visuals."
   }
 ]

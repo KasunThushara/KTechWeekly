@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of May 08, 2026**
+**Week of May 09, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,49 +7,47 @@
 
 ## 📊 Summary
 - **Articles this week:** 4
-- **Report generated:** 2026-05-08 10:08
+- **Report generated:** 2026-05-09 09:56
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Arbor ARES-2100 Wildcat Lake fanless box PC targets industrial automation, machine vision, and Edge AI applications ⭐
+### 1. Microchip launches LAN878x and LAN888x Single Pair Ethernet (SPE) transceivers with MACSec, TSN, and FuSA ⭐
 
-The Arbor ARES-2100 is a fanless box PC designed for industrial applications, supporting up to 64GB DDR5 memory and offering various connectivity options. It's powered by the Intel Core Series 3 Wildcat Lake processor and is MIL-STD-810H certified for shock and vibration. The device operates in a wide temperature range and is suited for automation, machine vision, and Edge AI.
+Microchip launches LAN878x and LAN888x Single Pair Ethernet (SPE) transceivers for secure, scalable, and deterministic Ethernet connectivity in automotive, avionics, robotics, and industrial systems, featuring MACsec, TSN, and FuSA support.
 
-💡 *Industrial-grade computing with AI performance in a ruggedized design*
+💡 *Advances in automotive Ethernet connectivity with secure and deterministic networking.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/08/arbor-ares-2100-compact-wildcat-lake-fanless-box-pc-targets-industrial-automation-machine-vision-and-edge-ai-applications/)
-
----
-
-### 2. AMD's next Epyc server chip debuts this year with 256 cores and 70% better performance ⭐
-
-AMD's next Epyc server chip will debut later this year with 256 cores and 70% better performance. The Epyc Venice processors will mark the debut of the Zen 6 architecture and AMD's move to TSMC's 2nm process technology.
-
-💡 *Significant server performance boost with TSMC's 2nm process technology.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112326-amd-next-epyc-server-chip-debuts-year-256.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/08/microchip-launches-lan878x-and-lan888x-single-pair-ethernet-spe-transceivers-with-macsec-tsn-and-fusa/)
 
 ---
 
-### 3. 21.5-inch AI Touch Panel PC is powered by NVIDIA Jetson Orin NX module for industrial HMI applications 
+### 2. Review of Rikomagic DS08 Android 13 digital signage player ⭐
 
-The AAEON NIKY-2215-NX is a 21.5-inch Full HD AI Touch Panel PC powered by NVIDIA Jetson Orin NX module, designed for AI-enhanced HMI applications in industrial settings.
+Rikomagic has sent me a sample of their DS08 digital signage player for review. It s based on a Rockchip RK3588 SoC paired with 8GB of RAM and a 128GB eMMC flash, and offers two HDMI 2.1 ports, gigabit Ethernet, WiFi 6, and Bluetooth 5.2 connectivity, as well as several USB ports, optical S/PDIF audio output, and more. I was initially not sure I could receive a sample, as Thailand is pretty strict with licenses for this type of hardware, but Rikomagic told us that it would not be a problem when using DDP (delivered duty paid), and the courier handles all paperwork. And indeed we did receive the parcel without issue. Since Rockchip RK3588 is now a mature platform, we won t run benchmarks in this review, but instead go through an unboxing and a teardown, and focus on digital signage features such as video playback, RTC support, and display orientation [...] The post Review of Rikomagic DS08 Android 13 digital signage player appeared first on CNX Software - Embedded Systems News .
 
-💡 *Advancing industrial automation with AI-powered human-machine interfaces.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/08/21-5-inch-ai-touch-panel-pc-is-powered-by-nvidia-jetson-orin-nx-module-for-industrial-hmi-applications/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/09/review-rikomagic-ds08-android-13-digital-signage-player/)
 
 ---
 
-### 4. Silex joins Nasdaq Stockholm as MEMS foundry seeks US fab 
+### 3. Desperate SK hynix customers offer to buy its EUV machines and fund new fabs as memory capacity hits zero amid crushing AI-driven shortages worsening global shortages pry open wallets to the tune of hundreds of millions of dollars 
 
-Silex, a 25-year-old MEMS foundry, has listed on Nasdaq Stockholm, raising capital for expansion.
+Desperate SK hynix customers offer to buy EUV machines and fund new fabs to alleviate memory shortages.
 
-💡 *Capital raise supports Silex's push into US semiconductor manufacturing facilities.*
+💡 *Customers are willing to invest heavily to secure critical memory supply.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/silex-joins-nasdaq-stockholm-mems-foundry-seeks-us-fab)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/sk-hynix-customers-offer-to-buy-its-euv-machines-and-fund-new-fab-lines-as-memory-capacity-hits-zero)
+
+---
+
+### 4. Samsung offered chip workers a $340,000 bonus to avoid a strike. They want it every year 
+
+Samsung offered chip workers a $340,000 bonus to avoid a strike, escalating a dispute over profit-sharing.
+
+💡 *Samsung workers seek annual profit-sharing bonuses due to AI memory boom profits.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112343-samsung-chip-workers-reject-340000-bonus-sk-hynix.html)
 
 ---
 

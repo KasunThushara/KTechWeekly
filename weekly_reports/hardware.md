@@ -1,125 +1,73 @@
 # 💻 Hardware
-**Week of May 08, 2026**
+**Week of May 09, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-05-08 10:08
+- **Articles this week:** 6
+- **Report generated:** 2026-05-09 09:56
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Khadas Mind Graphics 2 and Mind xPlay display + keyboard review Part 1: Unboxing, teardown, and first try ⭐
+### 1. Review of Rikomagic DS08 Android 13 digital signage player ⭐
 
-Khadas Mind Graphics 2 and Mind xPlay review covers unboxing, teardown, and first try.
+Rikomagic has sent me a sample of their DS08 digital signage player for review. It s based on a Rockchip RK3588 SoC paired with 8GB of RAM and a 128GB eMMC flash, and offers two HDMI 2.1 ports, gigabit Ethernet, WiFi 6, and Bluetooth 5.2 connectivity, as well as several USB ports, optical S/PDIF audio output, and more. I was initially not sure I could receive a sample, as Thailand is pretty strict with licenses for this type of hardware, but Rikomagic told us that it would not be a problem when using DDP (delivered duty paid), and the courier handles all paperwork. And indeed we did receive the parcel without issue. Since Rockchip RK3588 is now a mature platform, we won t run benchmarks in this review, but instead go through an unboxing and a teardown, and focus on digital signage features such as video playback, RTC support, and display orientation [...] The post Review of Rikomagic DS08 Android 13 digital signage player appeared first on CNX Software - Embedded Systems News .
 
-💡 *Khadas offers a versatile portable display and keyboard solution for mini PCs.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/07/khadas-mind-graphics-2-and-mind-xplay-display-keyboard-review-part-1-unboxing-teardown-and-first-try/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/09/review-rikomagic-ds08-android-13-digital-signage-player/)
 
 ---
 
-### 2. Arbor ARES-2100 Wildcat Lake fanless box PC targets industrial automation, machine vision, and Edge AI applications ⭐
+### 2. Microsoft is adding a feature that briefly maxes out your CPU to make Windows feel snappier ⭐
 
-The Arbor ARES-2100 is a fanless box PC designed for industrial applications, supporting up to 64GB DDR5 memory and offering various connectivity options. It's powered by the Intel Core Series 3 Wildcat Lake processor and is MIL-STD-810H certified for shock and vibration. The device operates in a wide temperature range and is suited for automation, machine vision, and Edge AI.
+Microsoft is developing 'Low Latency Profile' to improve Windows performance. The feature briefly maxes out CPU for snappier experience. Users can test it in preview builds.
 
-💡 *Industrial-grade computing with AI performance in a ruggedized design*
+💡 *Boosts performance in critical tasks for a snappier Windows experience.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/08/arbor-ares-2100-compact-wildcat-lake-fanless-box-pc-targets-industrial-automation-machine-vision-and-edge-ai-applications/)
-
----
-
-### 3. AMD's next Epyc server chip debuts this year with 256 cores and 70% better performance ⭐
-
-AMD's next Epyc server chip will debut later this year with 256 cores and 70% better performance. The Epyc Venice processors will mark the debut of the Zen 6 architecture and AMD's move to TSMC's 2nm process technology.
-
-💡 *Significant server performance boost with TSMC's 2nm process technology.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112326-amd-next-epyc-server-chip-debuts-year-256.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112336-microsoft-adding-feature-briefly-maxes-out-cpu-make.html)
 
 ---
 
-### 4. PCIe has doubled bandwidth every generation for two decades, PCIe 8.0 is on track to do it again at 1TB/s ⭐
+### 3. North Korean fake remote worker scam lands two Americans 18-month prison sentences for hosting laptops US firms unknowingly shipped laptops to employees who secretly worked from overseas via remote desktop, generating $1.2 million for Pyongyang 
 
-The PCIe 8.0 draft specification has been released, doubling bandwidth to 1TB/s and reducing power consumption.
+Two Americans were sentenced to prison for helping North Korea infiltrate US companies through fake remote IT jobs, enabling access to laptops via RDP and generating over $1.2 million for the regime.
 
-💡 *Faster storage drives innovation and efficiency in data-intensive applications and industries.*
+💡 *Vulnerabilities in remote access protocols can facilitate espionage and cyber attacks.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112323-pcie-has-doubled-bandwidth-every-generation-two-decades.html)
-
----
-
-### 5. Intel Core Ultra 5 225 review: Arrow Lake s forgotten CPU needs a price cut 
-
-Intel's Core Ultra 5 225 has been overshadowed by Arrow Lake's poor launch, but a price cut could make it a viable option.
-
-💡 *Underpriced CPUs can revive stagnant product lines and gain market share.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-225-review)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/north-korean-fake-remote-worker-scam-lands-two-americans-18-month-prison-sentences-for-hosting-laptops-us-firms-unknowingly-shipped-laptops-to-employees-who-secretly-worked-from-overseas-via-remote-desktop-generating-usd1-2-million-for-pyongyang)
 
 ---
 
-### 6. 6.67-inch flexible AMOLED display works with Raspberry Pi, LattePanda, and other SBCs with HDMI output 
+### 4. Maingear MG-1 (2026) review: Fast and clean, for a price 
 
-DFRobot's 6.67-inch flexible AMOLED display is designed for use with single-board computers, offering plug-and-play compatibility with a wide range of platforms, including Raspberry Pi and LattePanda, due to a dedicated MIPI-to-HDMI driver board. The display features a 2400x1080 resolution, 450 cd/m brightness, and 16.7 million colors, making it suitable for various applications such as wearables, robotics, and industrial HMI systems. It boasts a thin 1.2mm profile and is bendable.
+The Maingear MG-1 boasts a sleek build with customization options and fast performance. However, its limited front panel ports may be a drawback for some users. Overall, it's a premium gaming PC for those willing to invest.
 
-💡 *Flexible AMOLED display for diverse applications with plug-and-play SBC support*
+💡 *Premium gaming PCs require significant financial investment upfront.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/08/6-67-inch-flexible-amoled-display-works-with-raspberry-pi-lattepanda-sbc-hdmi/)
-
----
-
-### 7. 21.5-inch AI Touch Panel PC is powered by NVIDIA Jetson Orin NX module for industrial HMI applications 
-
-The AAEON NIKY-2215-NX is a 21.5-inch Full HD AI Touch Panel PC powered by NVIDIA Jetson Orin NX module, designed for AI-enhanced HMI applications in industrial settings.
-
-💡 *Advancing industrial automation with AI-powered human-machine interfaces.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/08/21-5-inch-ai-touch-panel-pc-is-powered-by-nvidia-jetson-orin-nx-module-for-industrial-hmi-applications/)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/maingear-mg-1-2026-review)
 
 ---
 
-### 8. Samsung is pulling TVs and appliances from China after losing $138 million to local competition 
+### 5. Save $575 off this stellar gaming PC armed with a 16GB RTX 5060 Ti and 32GB of DDR5 memory $1424.99 ABS Flux II Aqua Gaming PC prebuilt costs less than some of its parts 
 
-Samsung is pulling TVs and appliances from China due to intense local competition, resulting in $138 million losses. The company aims to minimize the impact on existing customers. Other divisions in the region will not be affected.
+The ABS Flux II Aqua gaming PC features a 16GB RTX 5060 Ti and 32GB of DDR5-6400 RAM, offering great value compared to similar configurations. This prebuilt gaming PC is a cost-effective option for those seeking strong performance. It's priced at $1424.99, making it a compelling choice for gamers.
 
-💡 *Intense local competition erodes global brands' market share significantly.*
+💡 *Exceptional value for a powerful gaming PC at an affordable price point.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112335-samsung-ends-sales-tvs-appliances-china-amid-intense.html)
-
----
-
-### 9. AMD announces MI350P PCIe AI accelerator card with 144GB of HBM3E roughly 40% faster in FP16 and FP8 theoretical compute compared to Nvidia's H200 NVL competitor 
-
-AMD launches MI350P PCIe AI-accelerator card with lower cores and memory, suitable for drop-in upgrades. The card is roughly 40% faster in FP16 and FP8 theoretical compute compared to Nvidia's H200 NVL competitor. It offers 144GB of HBM3E memory.
-
-💡 *AMD AI-accelerator offers competitive performance with reduced resource requirements.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amd-announces-mi350p-pcie-ai-accelerator-card-with-144gb-of-hbm3e-roughly-40-percent-faster-in-fp16-and-fp8-theoretical-compute-compared-to-nvidias-h200-nvl-competitor)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/save-usd575-off-this-stellar-gaming-pc-armed-with-a-16gb-rtx-5060-ti-and-32gb-of-ddr5-memory-usd1424-99-abs-flux-ii-aqua-gaming-pc-prebuilt-costs-less-than-some-of-its-parts)
 
 ---
 
-### 10. Lian Li s new DK07 Wood motorized standing desk doubles as a dual-PC chassis with support for E-ATX systems and massive cooling setups five new wood-finished models are available now 
+### 6. How often do you upgrade your PC? 
 
-Lian Li introduces the DK07 Wood, a motorized standing desk with E-ATX support, offering a unique blend of functionality and style, featuring five new wood-finished models and retention of support for dual systems, large GPUs, and extensive cooling setups.
+PC gaming upgrade cycles have slowed down significantly since the early 2000s. The gap between major platform jumps and graphics card obsolescence has widened. As a result, the need to frequently upgrade has decreased.
 
-💡 *Ergonomic workstations are increasingly prioritizing form and function seamlessly.*
+💡 *Sustained performance has become the norm in modern gaming hardware.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/lian-lis-new-dk07-wood-motorized-standing-desk-doubles-as-a-dual-pc-chassis-with-support-for-e-atx-systems-and-massive-cooling-setups-five-new-wood-finished-models-are-available-now)
-
----
-
-### 11.  It s AI or die, keynoter warns sensor makers at SC26 
-
-On-device sensor-computers are redefining a new tech paradigm in sensing, thinking, and reasoning. This shift is expected to revolutionize various industries. Venture capitalist Kedia emphasized the importance of adapting to this change.
-
-💡 *Adapting to on-device AI is crucial for future tech relevance.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/its-ai-or-die-keynoter-warns-sensor-makers-sc26)
+🔗 [Read Full Article](https://www.techspot.com/news/112347-how-often-do-you-upgrade-pc.html)
 
 ---
 
