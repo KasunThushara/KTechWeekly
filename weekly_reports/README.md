@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of May 09, 2026**
+**Week of May 10, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,99 +7,97 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Microchip launches LAN878x and LAN888x Single Pair Ethernet (SPE) transceivers with MACSec, TSN, and FuSA ⭐
-
-**📰 Tech News**
-
-Microchip launches LAN878x and LAN888x Single Pair Ethernet (SPE) transceivers for secure, scalable, and deterministic Ethernet connectivity in automotive, avionics, robotics, and industrial systems, featuring MACsec, TSN, and FuSA support.
-
-💡 **Key Point:** Advances in automotive Ethernet connectivity with secure and deterministic networking.
-
-🔗 [Read More](https://www.cnx-software.com/2026/05/08/microchip-launches-lan878x-and-lan888x-single-pair-ethernet-spe-transceivers-with-macsec-tsn-and-fusa/)
-
----
-
-### 2. Microchip launches LAN878x and LAN888x Single Pair Ethernet (SPE) transceivers with MACSec, TSN, and FuSA ⭐
-
-**⚡ Semiconductors**
-
-Microchip launches LAN878x and LAN888x Single Pair Ethernet (SPE) transceivers for secure, scalable, and deterministic Ethernet connectivity in automotive, avionics, robotics, and industrial systems, featuring MACsec, TSN, and FuSA support.
-
-💡 **Key Point:** Advances in automotive Ethernet connectivity with secure and deterministic networking.
-
-🔗 [Read More](https://www.cnx-software.com/2026/05/08/microchip-launches-lan878x-and-lan888x-single-pair-ethernet-spe-transceivers-with-macsec-tsn-and-fusa/)
-
----
-
-### 3. Microsoft is adding a feature that briefly maxes out your CPU to make Windows feel snappier ⭐
+### 1. Best budget gaming laptops of 2026: The best cheap laptops we've tested and benchmarked ⭐
 
 **🤖 AI & ML**
 
-Microsoft is developing 'Low Latency Profile' to improve Windows performance. The feature briefly maxes out CPU for snappier experience. Users can test it in preview builds.
+Gaming laptops are expensive, and only getting pricier as AI-driven shortages increase. Here are the best options for budget gaming laptops on the cheap, comprised of laptop models that we have tested throughout our full, stringent gaming test suite that measures performance in demanding graphical conditions.
 
-💡 **Key Point:** Boosts performance in critical tasks for a snappier Windows experience.
-
-🔗 [Read More](https://www.techspot.com/news/112336-microsoft-adding-feature-briefly-maxes-out-cpu-make.html)
+🔗 [Read More](https://www.tomshardware.com/laptops/gaming-laptops/best-budget-gaming-laptops)
 
 ---
 
-### 4. Review of Rikomagic DS08 Android 13 digital signage player ⭐
+### 2. Nextorage NEM-PAC 2TB SSD Review: A solid, PS5-ready workhorse ⭐
 
-**💻 Hardware**
+**📰 Tech News**
 
-Rikomagic has sent me a sample of their DS08 digital signage player for review. It s based on a Rockchip RK3588 SoC paired with 8GB of RAM and a 128GB eMMC flash, and offers two HDMI 2.1 ports, gigabit Ethernet, WiFi 6, and Bluetooth 5.2 connectivity, as well as several USB ports, optical S/PDIF audio output, and more. I was initially not sure I could receive a sample, as Thailand is pretty strict with licenses for this type of hardware, but Rikomagic told us that it would not be a problem when using DDP (delivered duty paid), and the courier handles all paperwork. And indeed we did receive the parcel without issue. Since Rockchip RK3588 is now a mature platform, we won t run benchmarks in this review, but instead go through an unboxing and a teardown, and focus on digital signage features such as video playback, RTC support, and display orientation [...] The post Review of Rikomagic DS08 Android 13 digital signage player appeared first on CNX Software - Embedded Systems News .
+The Nextorage NEM-PAC 2TB SSD offers good performance and a PS5-ready heatsink.
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/09/review-rikomagic-ds08-android-13-digital-signage-player/)
+💡 **Key Point:** PS5-compliance makes it a reliable storage option for gamers and PS5 users.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/nextorage-nem-pac-2tb-ssd-review)
 
 ---
 
-### 5. Microsoft is adding a feature that briefly maxes out your CPU to make Windows feel snappier ⭐
+### 3. Nextorage NEM-PAC 2TB SSD Review: A solid, PS5-ready workhorse ⭐
 
 **💻 Hardware**
 
-Microsoft is developing 'Low Latency Profile' to improve Windows performance. The feature briefly maxes out CPU for snappier experience. Users can test it in preview builds.
+The Nextorage NEM-PAC 2TB SSD offers good performance and a PS5-ready heatsink.
 
-💡 **Key Point:** Boosts performance in critical tasks for a snappier Windows experience.
+💡 **Key Point:** PS5-compliance makes it a reliable storage option for gamers and PS5 users.
 
-🔗 [Read More](https://www.techspot.com/news/112336-microsoft-adding-feature-briefly-maxes-out-cpu-make.html)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/nextorage-nem-pac-2tb-ssd-review)
+
+---
+
+### 4. Best budget gaming laptops of 2026: The best cheap laptops we've tested and benchmarked ⭐
+
+**💻 Hardware**
+
+Gaming laptops are expensive, and only getting pricier as AI-driven shortages increase. Here are the best options for budget gaming laptops on the cheap, comprised of laptop models that we have tested throughout our full, stringent gaming test suite that measures performance in demanding graphical conditions.
+
+🔗 [Read More](https://www.tomshardware.com/laptops/gaming-laptops/best-budget-gaming-laptops)
+
+---
+
+### 5. Maryland citizens slapped with $2 billion power grid upgrade bill for out-of-state AI data centers state complains to federal energy regulators, says additional cost breaks ratepayer protection pledge promises 
+
+**🤖 AI & ML**
+
+Maryland complains to federal regulators about a $2 billion power grid upgrade bill, citing that most data centers benefiting from the upgrades are located out-of-state, particularly in neighboring regions.
+
+💡 **Key Point:** Ratepayers face additional costs for out-of-state data center benefits
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **37 articles** across **5 focused categories**.
+We covered **24 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 15 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 🤖 [AI & ML](ai_and_ml.md) | 9 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
 | 💻 [Hardware](hardware.md) | 6 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
+| ⚡ [Semiconductors](semiconductors.md) | 2 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 15 articles
+*Artificial Intelligence and Machine Learning* — 9 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 4 articles
+*Graphics cards and compute accelerators* — 3 articles
 
 ### 💻 [Hardware](hardware.md)
 *Computing hardware and development boards* — 6 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 4 articles
+*Chip manufacturing and design* — 2 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 8 articles
+*Industry news and product launches* — 4 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-05-09 at 09:56 by an autonomous AI curation system.
+Generated 2026-05-10 at 10:02 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

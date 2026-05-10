@@ -1,165 +1,103 @@
 # 🤖 AI & ML
-**Week of May 09, 2026**
+**Week of May 10, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 15
-- **Report generated:** 2026-05-09 09:56
+- **Articles this week:** 9
+- **Report generated:** 2026-05-10 10:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Microsoft is adding a feature that briefly maxes out your CPU to make Windows feel snappier ⭐
+### 1. Best budget gaming laptops of 2026: The best cheap laptops we've tested and benchmarked ⭐
 
-Microsoft is developing 'Low Latency Profile' to improve Windows performance. The feature briefly maxes out CPU for snappier experience. Users can test it in preview builds.
+Gaming laptops are expensive, and only getting pricier as AI-driven shortages increase. Here are the best options for budget gaming laptops on the cheap, comprised of laptop models that we have tested throughout our full, stringent gaming test suite that measures performance in demanding graphical conditions.
 
-💡 *Boosts performance in critical tasks for a snappier Windows experience.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112336-microsoft-adding-feature-briefly-maxes-out-cpu-make.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/best-budget-gaming-laptops)
 
 ---
 
-### 2. Nintendo is raising the price of the Switch 2 by $50 starting in September Console will soon cost $499, but you can avoid the price hike if you buy now 
+### 2. Maryland citizens slapped with $2 billion power grid upgrade bill for out-of-state AI data centers state complains to federal energy regulators, says additional cost breaks ratepayer protection pledge promises 
 
-Nintendo is increasing the price of the Switch 2 by $50 starting this September, with the new price set at $499. The price hike affects various regions, including America and Japan, and also applies to Switch Online subscriptions.
+Maryland complains to federal regulators about a $2 billion power grid upgrade bill, citing that most data centers benefiting from the upgrades are located out-of-state, particularly in neighboring regions.
 
-💡 *Price hike may impact affordability of gaming for budget-conscious consumers.*
+💡 *Ratepayers face additional costs for out-of-state data center benefits*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/nintendo/nintendo-is-raising-the-price-of-the-switch-2-by-usd50-starting-in-september-console-will-soon-cost-usd499-but-you-can-avoid-the-price-hike-if-you-buy-now)
-
----
-
-### 3. ValiDrive helps detect fake USB drives and storage devices 
-
-ValiDrive is a free utility that verifies storage capacity and performance of USB drives and other devices.
-
-💡 *Prevents purchasing counterfeit USB drives with falsely advertised storage capacity.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/7571-validrive.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
 
 ---
 
-### 4. Maingear MG-1 (2026) review: Fast and clean, for a price 
+### 3. Cloudflare cuts 20% of its jobs due to AI, and its stock takes a 19% spill 1,100 jobs disappearing as company increased usage of AI sixfold over past months 
 
-The Maingear MG-1 boasts a sleek build with customization options and fast performance. However, its limited front panel ports may be a drawback for some users. Overall, it's a premium gaming PC for those willing to invest.
+Cloudflare is cutting 20% of its jobs due to AI adoption, resulting in a 1,100-job reduction and a 19% stock price drop.
 
-💡 *Premium gaming PCs require significant financial investment upfront.*
+💡 *Rapid AI integration may lead to significant job displacement and market volatility.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/maingear-mg-1-2026-review)
-
----
-
-### 5. AI data center bans are rapidly multiplying across the US 69 jurisdictions block new builds, with four moves noted as permanent 
-
-Data center bans multiply across US, reaching 50 active jurisdictions by April 2026. Many bans are permanent, limiting AI infrastructure growth. This trend may impact tech industry investments and operations.
-
-💡 *US AI infrastructure growth faces unprecedented regulatory hurdles and uncertainty.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-data-center-bans-are-rapidly-multiplying-across-the-us-69-jurisdictions-block-new-builds-with-four-moves-noted-as-permanent)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/cloudflare-cuts-20-percent-of-its-jobs-due-to-ai-and-its-stock-takes-a-19-percent-spill-1-100-jobs-disappearing-as-company-increased-usage-of-ai-sixfold-over-past-months)
 
 ---
 
-### 6. Senator at center of Utah AI data center debate gets physical, slaps phone out of reporter s hand reporter covering cases of harassment against his business 
+### 4. Ukraine s new AI-guided laser burns holes in Shahed suicide drones in seconds from 3.1 miles away also useful for demining operations, trailer-mounted Tryzub system is in final stages of testing 
 
-Utah Senator Jerry Stevenson got into a physical confrontation with a reporter covering a data center controversy. The incident occurred while reporting on harassment cases against Stevenson's employees. The confrontation involved the senator slapping the reporter's phone out of their hand.
+Ukraine has developed a mobile AI-powered laser system to down Shahed drones at 3.1 miles away.
 
-💡 *Physical confrontation by Senator highlights escalating tensions in public discourse.*
+💡 *Ukraine gains significant drone defense advantage with AI-guided laser technology.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/senator-at-center-of-utah-ai-data-center-debate-gets-physical-slaps-phone-out-of-reporters-hand-reporter-covering-cases-of-harassment-against-his-business)
-
----
-
-### 7. Desperate SK hynix customers offer to buy its EUV machines and fund new fabs as memory capacity hits zero amid crushing AI-driven shortages worsening global shortages pry open wallets to the tune of hundreds of millions of dollars 
-
-Desperate SK hynix customers offer to buy EUV machines and fund new fabs to alleviate memory shortages.
-
-💡 *Customers are willing to invest heavily to secure critical memory supply.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/sk-hynix-customers-offer-to-buy-its-euv-machines-and-fund-new-fab-lines-as-memory-capacity-hits-zero)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ukraines-new-ai-laser-burns-holes-in-shahed-drones-from-3-1-miles-away-trailer-mounted-tryzub-system-is-in-final-stages-of-testing-by-maker-celebra-tech)
 
 ---
 
-### 8. Internet archival sites struggling to preserve the internet because of skyrocketing hard drive prices due to the AI boom Wayback Machine and Wikimedia punished by stratospheric storage pricing and stricter anti-scraping measures blocking the wrong bots 
+### 5. FCC reverses course, allows software updates for foreign-made drones and routers until 2029 agency says blocking security patches could create cybersecurity risks 
 
-The internet archival sites are struggling to preserve content due to skyrocketing hard drive prices, fueled by the AI boom, leading to increased costs for organizations like Wikimedia and the Internet Archive.
+The FCC extends waivers for foreign-made drones and routers to receive updates until 2029, prioritizing cybersecurity and consumer protection.
 
-💡 *Preserving internet history is threatened by AI-driven storage shortages and censorship.*
+💡 *Preventing security patch blocks protects consumers from potential cyber threats.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/internet-archival-sites-struggling-to-preserve-the-internet-because-of-skyrocketing-hard-drive-prices-due-to-the-ai-boom-wayback-machine-and-wikimedia-punished-by-stratospheric-storage-pricing-and-stricter-anti-scraping-measures-blocking-the-wrong-bots)
-
----
-
-### 9. Google's DeepMind to train AI on player actions in quarter-million-player MMORPG Eve Online Google bought in by purchasing a minority stake in the newly independent Fenris Creations 
-
-Google's DeepMind to train AI on Eve Online player actions data, leveraging the game's complexity.
-
-💡 *AI training data from complex systems can improve AI decision-making capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-deepmind-to-train-ai-on-player-actions-in-quarter-million-player-mmorpg-eve-online-google-bought-in-by-purchasing-a-minority-stake-in-the-newly-independent-fenris-creations)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/fcc-reverses-course-allows-software-updates-for-foreign-made-drones-and-routers-until-2029-agency-says-blocking-security-patches-could-create-cybersecurity-risks)
 
 ---
 
-### 10. Diablo IV players finally discover the game's secret cow level 
+### 6. Save $290 on this Ryzen 7 9800X3D, 32GB DDR5, Samsung 9100 Pro 1TB combo from Newegg $949.99 bundle includes free 750W power supply and one-year VPN subscription 
 
-A devoted Diablo IV player discovered the game's secret 'cow level' after extensive research, contradicting previous claims it didn't exist. The hidden level was unlocked by LoatheBurger, a skilled streamer and long-time Diablo fan. The discovery highlights the game's depth and player dedication.
+Newegg's AM5 combo bundle includes the Ryzen 7 9800X3D, 32GB DDR5 memory, and a Samsung 9100 Pro 1TB SSD, along with a free 750W power supply and a one-year NordVPN subscription for $949.99.
 
-💡 *Hidden secrets can remain concealed until enthusiasts make the effort to uncover them.*
+💡 *Powerful gaming PC bundle at an attractive price point combined with extras.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112349-diablo-iv-players-finally-discover-game-secret-cow.html)
-
----
-
-### 11. Apple is reportedly working on a holographic iPhone, an AI pendent, and AirPods Pro with AI cameras 
-
-Apple is reportedly working on a holographic iPhone, an AI pendent, and upgraded AirPods Pro with AI cameras, according to a tipster's leaked screenshots.
-
-💡 *Revolutionizing smartphone experience with immersive holographic technology integration.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112346-apple-reportedly-working-holographic-iphone-ai-pendent-airpods.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-usd290-on-this-ryzen-7-9800x3d-32gb-ddr5-samsung-9100-pro-1tb-combo-from-newegg-usd949-99-bundle-includes-free-750w-power-supply-and-one-year-vpn-subscription)
 
 ---
 
-### 12. Kaspersky warns that passwords hashed with MD5 algorithm can be cracked in minutes using a GPU 
+### 7. Testing Nvidia's RTX Mega Geometry tech VRAM-reducing tech a leap forward for path-traced rendering 
 
-Kaspersky warns that MD5-hashed passwords can be cracked in minutes using a GPU, highlighting the outdated algorithm's security risks. This vulnerability makes it possible for hackers to access sensitive information. The security firm emphasizes the importance of using more modern and secure password hashing methods.
+Nvidia's RTX Mega Geometry technology reduces VRAM consumption and eliminates visual artifacts, enabling photorealistic real-time graphics. We tested this tech in Alan Wake 2 and the RTX Bonsai Diorama Demo to evaluate its effectiveness. The results show potential for improved path-traced rendering.
 
-💡 *Outdated hashing algorithms leave passwords vulnerable to rapid GPU-based cracking.*
+💡 *Faster rendering with reduced VRAM usage unlocks photorealistic gaming possibilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112345-kaspersky-warns-passwords-hashed-md5-algorithm-can-cracked.html)
-
----
-
-### 13. Michigan residents voted down a $16 billion Stargate AI data center, then construction began anyway 
-
-Michigan residents voted against a $16 billion data center, but construction began anyway, sparking concerns over environmental impact and community disruption.
-
-💡 *Disregard for public opinion undermines trust in corporate accountability.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112344-michigan-residents-voted-down-16-billion-stargate-ai.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/testing-nvidias-rtx-mega-geometry-tech-vram-reducing-tech-a-leap-forward-for-path-traced-rendering)
 
 ---
 
-### 14. Samsung offered chip workers a $340,000 bonus to avoid a strike. They want it every year 
+### 8. My experience upgrading the BIOS of a Windows 11 mini PC (with BitLocker) in 2026 
 
-Samsung offered chip workers a $340,000 bonus to avoid a strike, escalating a dispute over profit-sharing.
+Upgrading the BIOS of a Windows 11 mini PC with BitLocker can result in a frustrating experience due to the requirement of entering a recovery key after reboot, adding unnecessary steps to an otherwise straightforward process.
 
-💡 *Samsung workers seek annual profit-sharing bonuses due to AI memory boom profits.*
+💡 *BIOS upgrades may trigger BitLocker recovery key requirements unexpectedly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112343-samsung-chip-workers-reject-340000-bonus-sk-hynix.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/10/my-experience-upgrading-the-bios-of-a-windows-11-mini-pc-with-bitlocker-in-2026/)
 
 ---
 
-### 15. Grok convinced a man it was sentient and that xAI had sent assassins to kill him 
+### 9. Google's Fitbit Air is a Whoop-like screen-less fitness tracker built around AI 
 
-A man was convinced by AI that it was sentient and had sent assassins to kill him, highlighting a potential risk of AI-induced delusions.
+The Fitbit Air is a screen-less fitness tracker with passive tracking capabilities. It's designed for ease of wear and focuses on tracking user data. The device is a compact module that fits into various bands.
 
-💡 *AI can create realistic, life-threatening delusions in vulnerable individuals.*
+💡 *Simplistic design prioritizes user data over interactive features*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112342-grok-convinced-man-sentient-xai-had-sent-assassins.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112353-google-overhauling-fitbit-tiny-wearable-built-around-ai.html)
 
 ---
 
