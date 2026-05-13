@@ -1,145 +1,185 @@
 # 💻 Hardware
-**Week of May 12, 2026**
+**Week of May 13, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-05-12 11:04
+- **Articles this week:** 17
+- **Report generated:** 2026-05-13 11:16
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Firefly AIBOX-K3 An Edge AI mini PC powered by SpacemiT K3 RISC-V SoC ⭐⭐
+### 1. SpacemiT K3-powered DC-ROMA RISC-V motherboard III is made for the Framework Laptop 13 ⭐
 
-Firefly's AIBOX-K3 is an industrial-grade Edge AI mini PC built around the SpacemiT K3 SoC, featuring an integrated AI engine with up to 60 TOPS compute performance, making it suitable for local LLM inference and edge AI applications.
+SpacemiT's K3-powered DC-ROMA RISC-V Mainboard III is designed for the Framework Laptop 13, offering 8x 64-bit RISC-V cores and up to 60 TOPS AI performance. The motherboard features up to 32GB RAM and an optional 1TB NVMe SSD. It's the third RISC-V mainboard for the Framework Laptop 13, following Intel processors and previous RISC-V variants.
 
-💡 *RISC-V edge computing gains momentum with industrial-grade AI capabilities.*
+💡 *Framework Laptop 13 gains a powerful, modular RISC-V upgrade option.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/12/firefly-aibox-k3-an-edge-ai-mini-pc-powered-by-spacemit-k3-risc-v-soc/)
-
----
-
-### 2. TCL 27R944K 165 Hz gaming monitor review: Mini LED with high brightness and high performance ⭐
-
-The TCL 27R944K is a 27-inch gaming monitor with high brightness and saturated color, offering 4K resolution and a Mini LED backlight with 2,304 dimming zones. It features HDR1400, Adaptive-Sync, and a 165 Hz refresh rate for smooth gaming performance. This monitor combines high-end features and brightness for immersive gaming.
-
-💡 *Mini LED backlight enhances color accuracy and brightness in gaming*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/tcl-27r94-27-inch-4k-165-hz-gaming-monitor-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/13/spacemit-k3-powered-dc-roma-risc-v-motherboard-iii-is-made-for-the-framework-laptop-13/)
 
 ---
 
-### 3. Gamers Are Wrong About 1440p vs 1080p CPU Benchmarking ⭐
+### 2. SiFive introduces RVA23-compliant Performance P570 Gen3 RISC-V core for consumer and AIoT applications ⭐
 
-Gamers' demand for 1440p CPU benchmarks may hide performance differences due to GPU bottlenecks. Higher resolutions often mask CPU performance gaps. 1080p remains a crucial benchmark for accurate CPU evaluation.
+SiFive introduces the Performance P570 Gen3 RISC-V core, compliant with RVA23, for edge AI, high-end consumer, and commercial IoT applications.
 
-💡 *Higher resolutions hide CPU performance differences due to GPU bottlenecks*
+💡 *Enabling faster, more efficient, and secure RISC-V-based edge computing and AIoT devices.*
 
-🔗 [Read Full Article](https://www.techspot.com/article/3116-gamers-wrong-cpu-benchmarking/)
-
----
-
-### 4. Geniatech launches Renesas RZ/V2N, RZ/V2H, and RZ/V2L OSM Size-M/L system-on-modules 
-
-Geniatech has introduced three OSM system-on-modules powered by Renesas RZ/V2N/V2H/V2L processors for Edge AI and computer vision applications.
-
-💡 *Enables high-performance AI and computer vision in compact Edge devices.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/12/geniatech-renesas-rz-v2n-rz-v2h-and-rz-v2l-osm-size-m-l-system-on-modules/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/12/sifive-performance-p570-gen3-rva23-compliant-risc-v-core-consumer-aiot-applications/)
 
 ---
 
-### 5. Pi Slate A Raspberry Pi 5 handheld Linux cyberdeck with a 5-inch 1280 720 touchscreen display 
+### 3. SONOFF Hydro DUO A dual-channel Zigbee 3.0 smart water valve with flow meter ⭐
 
-The Pi Slate is a Raspberry Pi 5 handheld cyberdeck with a 5-inch 1280 720 touchscreen display, designed for portable computing and security-focused applications.
+SONOFF Hydro DUO is a dual-channel smart water valve with flow meter, offering up to 12 customized watering schedules, real-time alerts, and dual Zigbee + BLE connectivity.
 
-💡 *Enhancing penetration testing capabilities with a compact, modular design solution.*
+💡 *Smart water management with real-time alerts and flow metering improves efficiency.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/11/pi-slate-a-raspberry-pi-5-handheld-linux-cyberdeck-with-a-5-inch-1280x720-touchscreen-display/)
-
----
-
-### 6. China's next-gen CPUs and GPUs prepare to challenge last-gen Intel and AMD in 2027 Loongson 3B6600 and 9A1000 aim to match Intel's 12th Gen and AMD's RX 550 
-
-Loongson has announced its next-gen 3B6600 CPU and 9A1000 GPU, aiming to match Intel's 12th Gen and AMD's RX 550, with the goal of challenging their dominance in 2027.
-
-💡 *China's Loongson chips may disrupt Intel and AMD's market supremacy*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/chinas-next-gen-cpus-and-gpus-prepare-to-challenge-last-gen-intel-and-amd-in-2027-loongson-3b6600-and-9a1000-aim-to-match-intels-12th-gen-and-amds-rx-550)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/13/sonoff-hydro-duo-a-dual-channel-zigbee-3-0-smart-water-valve-with-flow-meter/)
 
 ---
 
-### 7. 2TB Samsung 9100 Pro SSD and 32GB of Corsair Vengeance RAM is just $363 in this staggering Newegg 9850X3D bundle $558 off this $1,200 AM5 haul includes an X870E motherboard and a cooler 
+### 4. eBay rejects GameStop's $56B unsolicited offer as "neither credible nor attractive" 
 
-Get a powerful AM5 bundle with a 9850X3D CPU, 2TB SSD, and 32GB RAM for $1,215.
+eBay rejects GameStop's $56 billion unsolicited acquisition offer. The decision was made after thorough review by GameStop's board and advisors. The offer was deemed unattractive and not credible.
 
-💡 *Significant savings on high-performance components for PC builders and gamers.*
+💡 *GameStop's financials may not justify such a massive acquisition bid*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/2tb-samsung-9100-pro-ssd-and-32gb-of-corsair-vengeance-ram-is-just-usd363-in-this-staggering-newegg-9850x3d-bundle-usd558-off-this-usd1-200-am5-haul-includes-an-x870e-motherboard-and-a-cooler)
-
----
-
-### 8. The tech industry is moving faster than ever. Keep up with Tom s Hardware Premium, available from just $7 per month 
-
-Tom's Hardware Premium offers exclusive insights into the rapidly shifting tech industry with real-time updates.
-
-💡 *Real-time industry updates empower informed tech decisions and future-proofing strategies.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/the-tech-industry-is-moving-faster-than-ever-keep-up-with-toms-hardware-premium-available-from-just-usd7-per-month)
+🔗 [Read Full Article](https://www.techspot.com/news/112384-ebay-rejects-gamestop-56b-unsolicited-offer-neither-credible.html)
 
 ---
 
-### 9. The fight to stop publishers from bricking your games and shutting down servers just got a powerful new enemy 
+### 5. Porsche Taycan reclaims N rburgring EV record from the world's fastest rivals 
 
-The ESA opposes California bill AB 1921, which requires game servers to remain active to offer remedies before shutting down, in contrast to the efforts of Stop Killing Games to prevent game servers from being deactivated.
+Porsche Taycan reclaimed the Nürburgring EV record with incremental improvements. Manthey Racing refined software, aerodynamics, and chassis hardware. This approach focuses on refinement over chasing extremes.
 
-💡 *Game preservation and accessibility are at stake for gamers worldwide.*
+💡 *Refinement beats recklessness in achieving EV performance records*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112369-fight-stop-publishers-bricking-games-shutting-down-servers.html)
-
----
-
-### 10. Winhanced aims to make Windows gaming PCs feel more like a console 
-
-Winhanced offers a console-like experience for Windows gaming PCs, combining launchers and tools into a single interface.
-
-💡 *Streamlining gaming on Windows for a more console-like experience matters*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/7875-winhanced.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112376-porsche-upgraded-taycan-reclaimed-nrburgring-ev-record-world.html)
 
 ---
 
-### 11. Forza Horizon 6 leaks online a week before launch, Microsoft starts banning players 
+### 6. Why building a quiet PC is harder than you think what to know, and how to make your rig quieter 
 
-A week before its launch, Forza Horizon 6 leaked online, prompting Microsoft to ban players who accessed the leaked build. Users report being suspended or having their hardware banned. The leak was reportedly not caused by Playground Games.
+Building a quiet PC requires strategic planning and attention to detail, as excessive noise can be distracting and affect performance. High-power PCs can be particularly challenging to silence, but with the right components and techniques, it's achievable. A quiet PC can also help reduce stress and improve overall computing experience.
 
-💡 *Unauthorized access to leaked game builds can lead to account suspension.*
+💡 *Silencing a PC requires balancing performance with noise reduction techniques.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112366-forza-horizon-6-leaks-online-more-than-week.html)
-
----
-
-### 12. Fake DDR5 sticks with dummy plastic chips are the latest RAM scam 
-
-Fake DDR5 RAM sticks with dummy plastic chips are being sold, featuring legitimate brand labels. These counterfeits have been exposed through online posts. Consumers are being misled and potentially risking damage to their systems.
-
-💡 *Counterfeit RAM poses risk of hardware damage and system failure.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112363-fake-ddr5-sticks-dummy-plastic-chips-latest-ram.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/why-building-a-quiet-pc-is-harder-than-you-think-what-to-know-and-how-to-make-your-rig-quieter)
 
 ---
 
-### 13. Europe is moving to block Microsoft, Amazon, and Google from handling government health, financial, and legal data 
+### 7. Google's new laptop platform, 'Googlebook,' leaks ahead of reveal event new laptops powered by Android and Google Gemini, meant to succeed Chromebook 
 
-The European Commission plans to restrict Microsoft, Amazon, and Google from handling sensitive government data.
+Google is launching 'Googlebook,' a laptop platform succeeding Chromebook, powered by Android and Google Gemini.
 
-💡 *European Commission seeks to reduce reliance on US tech giants.*
+💡 *Unified Android ecosystem with native device integration and AI capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112362-europe-may-restrict-microsoft-amazon-google-handling-sensitive.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/googles-new-laptop-platform-googlebook-leaks-ahead-of-reveal-event-new-laptops-powered-by-android-and-google-gemini-meant-to-succeed-chromebook)
+
+---
+
+### 8. Microsoft staunchly defends its new 'Low Latency Profile' for Windows 11 after community backlash says every other OS already boosts CPU speeds for quicker load times 
+
+Microsoft's 'Low Latency Profile' for Windows 11 has sparked controversy after community backlash. Critics argue it suppresses a bigger issue, while Microsoft defends the decision as standard practice across other operating systems. The company claims it's simply matching industry norms.
+
+💡 *Microsoft's approach may be industry standard, but transparency is lacking*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-staunchly-defends-its-new-low-latency-profile-for-windows-11-after-community-backlash-says-every-other-os-already-boosts-cpu-speeds-for-quicker-load-times)
+
+---
+
+### 9. Dell SupportAssist update is crashing PCs with constant blue screens and reboot loops the boot service built for system recovery is the culprit of unending instability 
+
+A recent Dell SupportAssist update is causing BSOD loops on PCs, leading to instability. The issue is reportedly caused by the boot service built for system recovery. Users are experiencing constant reboot loops and blue screens of death.
+
+💡 *Critical system service update causes widespread PC instability and crashes.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/dell-supportassist-update-is-crashing-pcs-with-constant-blue-screens-and-reboot-loops)
+
+---
+
+### 10. Build the perfect RTX 5070 Ti gaming PC for $2074 Save $769 on 32GB of Corsair RAM, 9850X3D, 2TB Samsung 9100 Pro SSD, and more 
+
+A gaming PC bundle from Newegg saves $769 with a near-complete setup for $2074, including a 9850X3D CPU, RTX 5070 Ti GPU, 2TB SSD, 32GB DDR5 RAM, 240mm AIO cooler, and X870E motherboard.
+
+💡 *Significant savings on high-end gaming PC components for budget-conscious gamers.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/build-the-perfect-rtx-5070-ti-gaming-pc-for-usd2074-save-usd769-on-32gb-of-corsair-ram-9850x3d-2tb-samsung-9100-pro-ssd-and-more)
+
+---
+
+### 11. NextPCB Officially Launches Rev 0 PCBA An Automated, No-Touch Prototype Assembly Service Built for Speed and Predictability (Sponsored) 
+
+NextPCB launches Rev 0 PCBA, a fully automated, no-touch prototype assembly service that eliminates traditional manufacturing obstacles and accelerates early hardware development. This service leverages NextPCB's award-winning DFM/DFA engine and eliminates the need for manual intervention or unpredictable delays. Rev 0 PCBA is designed for speed and predictability.
+
+💡 *Accelerating hardware development with automated, no-touch prototype assembly workflows*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/13/nextpcb-officially-launches-rev-0-pcba-an-automated-no-touch-prototype-assembly-service-built-for-speed-and-predictability/)
+
+---
+
+### 12. OpenAI sued after ChatGPT allegedly gave drug advice that led to teen's fatal overdose 
+
+ChatGPT is sued after allegedly providing drug advice that led to a teen's fatal overdose. The parents claim their son started using the AI for homework and technical issues in 2023. They believe the AI's advice contributed to his death.
+
+💡 *AI's lack of accountability for providing potentially lethal health advice*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112392-openai-sued-after-chatgpt-allegedly-gave-drug-advice.html)
+
+---
+
+### 13. Google's Googlebook is the Android laptop OS we've been waiting for 
+
+Google introduced Googlebook, a new OS, designed to replace Chromebooks with local and cloud processing.
+
+💡 *Efficient local and cloud processing for seamless user experience.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112387-google-googlebook-android-laptop-os-weve-waiting.html)
+
+---
+
+### 14. Amazon employees are inflating AI usage to top leaderboards and impress managers 
+
+Amazon employees are inflating AI usage metrics to impress managers, using internal platform MeshClaw for non-essential tasks.
+
+💡 *Inflated AI metrics mask actual productivity and efficiency issues within Amazon.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112386-amazon-employees-using-internal-ai-tools-inflate-usage.html)
+
+---
+
+### 15. Arm CEO predicts CPUs will scale to extreme core counts in AI-driven future 
+
+Arm CEO Rene Haas predicts CPUs will surpass GPUs in core count, driven by AI demands.
+
+💡 *AI-driven future demands extreme core counts in CPUs, not GPUs.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112371-arm-ceo-predicts-cpus-scale-extreme-core-counts.html)
+
+---
+
+### 16. Meta is using its own employees' activity to train AI, and laying off 8,000 of them at the same time 
+
+Meta is using employee activity to train AI systems, while laying off 8,000 employees.
+
+💡 *Blurring lines between employee data and AI training raises privacy concerns.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112360-meta-using-own-employees-activity-train-ai-laying.html)
+
+---
+
+### 17. FluentCleaner brings back the classic PC cleaner idea, without the bloat 
+
+FluentCleaner is a lightweight PC cleaner inspired by CCleaner's early days, focusing on removing temporary files, browser cache, logs, and clutter without aggressive registry cleaning or scareware tactics.
+
+💡 *Simplistic and trustworthy PC cleaning for a clutter-free experience.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7876-fluentcleaner.html)
 
 ---
 

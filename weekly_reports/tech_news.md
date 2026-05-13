@@ -1,5 +1,5 @@
 # 📰 Tech News
-**Week of May 12, 2026**
+**Week of May 13, 2026**
 
 *Industry news and product launches*
 
@@ -7,99 +7,99 @@
 
 ## 📊 Summary
 - **Articles this week:** 9
-- **Report generated:** 2026-05-12 11:04
+- **Report generated:** 2026-05-13 11:16
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Steam Machine may launch soon as reservation system and four retail packages surface 
+### 1. SpacemiT K3-powered DC-ROMA RISC-V motherboard III is made for the Framework Laptop 13 ⭐
 
-A new reservation system and four Steam Machine packages may be launching soon. The information was discovered in the latest Steam update files by a Redditor. This suggests an upcoming release of Steam Machines.
+SpacemiT's K3-powered DC-ROMA RISC-V Mainboard III is designed for the Framework Laptop 13, offering 8x 64-bit RISC-V cores and up to 60 TOPS AI performance. The motherboard features up to 32GB RAM and an optional 1TB NVMe SSD. It's the third RISC-V mainboard for the Framework Laptop 13, following Intel processors and previous RISC-V variants.
 
-💡 *Steam Machine launch could revitalize gaming console market competition*
+💡 *Framework Laptop 13 gains a powerful, modular RISC-V upgrade option.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112364-steam-machine-may-launch-soon-reservation-system-four.html)
-
----
-
-### 2. SoftBank to manufacture its own batteries with water-based tech to power AI data centers targets gigawatt-hour-scale production by 2028 
-
-SoftBank is partnering with South Korean startups to produce zinc-halogen batteries using water-based technology, aiming to power AI data centers at a gigawatt-hour scale by 2028.
-
-💡 *Water-based battery tech could revolutionize efficient AI data center power*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/softbank-to-manufacture-its-own-batteries-to-power-ai-data-centers)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/13/spacemit-k3-powered-dc-roma-risc-v-motherboard-iii-is-made-for-the-framework-laptop-13/)
 
 ---
 
-### 3. AMD is reportedly developing an entry-level RDNA 4 GPU with 8GB of VRAM RX 9050 rumored to debut with 2048 cores, more than RX 9060 
+### 2. Broadcom BCM67142, BCM67192, and BCM68565 chips target low-cost WiFi 8 10 Gbps fiber access points ⭐
 
-AMD is reportedly developing an entry-level RDNA 4 GPU, the RX 9050, with 8GB of VRAM. The RX 9050 is expected to feature more than 2048 cores. It aims to compete with the NVIDIA RTX 5050.
+Broadcom has introduced the BCM67142, BCM67192, and BCM68565 chips for low-cost residential Wi-Fi 8 access points and PON gateways with 10 Gbps fiber support.
 
-💡 *AMD expands its RDNA 4 lineup to compete with NVIDIA mid-range GPUs*
+💡 *Enabling affordable high-speed internet access for low-income households worldwide.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amd-is-reportedly-developing-an-entry-level-rdna-4-gpu-with-8gb-of-vram-rx-9050-rumored-to-debut-with-2048-cores-more-than-rx-9060)
-
----
-
-### 4. At 14, Shanya Gill dishes on tech and how she built Vigil Inc. 
-
-At 14, Shanya Gill discusses tech and her company Vigil Inc., offering customized monitoring with a camera and VLM. She critiques the tech scene for being filled with buzzwords. The interview highlights her entrepreneurial achievements at a young age.
-
-💡 *Teenage entrepreneurs challenge traditional tech industry norms effectively.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/14-shanya-gill-dishes-tech-and-how-she-built-vigil-inc)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/13/broadcom-bcm67142-bcm67192-and-bcm68565-chips-target-low-cost-wifi-8-10-gbps-fiber-access-points/)
 
 ---
 
-### 5. Perfect Orion splashdown caps record Artemis II mission around the Moon 
+### 3. A stainless steel breakthrough could slash the cost of green hydrogen production ⭐
 
-The Artemis II mission successfully completed a record-breaking lunar flyby with a precise Orion splashdown. Sensors played a crucial role in various aspects of the mission, including launch and radiation monitoring. The mission marked a significant milestone in space exploration.
+Researchers have created a new stainless steel material (SS-H2) that can withstand conditions where conventional stainless steel fails. This breakthrough is part of the Super Steel research program, which has previously produced ultra-strong alloys and antimicrobial stainless steel. SS-H2 could lower the cost of green hydrogen production.
 
-💡 *Advanced sensor technologies enabled precise space exploration and safety monitoring.*
+💡 *Enabling cheaper green hydrogen production through improved materials science.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/perfect-orion-splashdown-pegs-record-artemis-ii-mission-around-moon)
-
----
-
-### 6. NASA's next Mars helicopters tested beyond the speed of sound 
-
-NASA has successfully tested a new Mars helicopter system beyond Mach 1, enhancing future Red Planet mission capabilities.
-
-💡 *Breaking the sound barrier on Mars expands exploration speed and efficiency.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112367-nasa-next-mars-helicopters-tested-beyond-speed-sound.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112373-stainless-steel-breakthrough-could-slash-cost-green-hydrogen.html)
 
 ---
 
-### 7. Newly disclosed "Dirty Frag" vulnerability left Linux exposed for nearly a decade 
+### 4. Microsoft's $1 billion Kenya AI data center could require switching off "half the country" 
 
-A newly disclosed 'Dirty Frag' vulnerability exposes Linux systems to local attacks, allowing root access. This issue affects all major and likely many minor Linux distributions. A patch is currently unavailable to mitigate the vulnerability.
+Microsoft's $1 billion Kenya AI data center may impact national power supply.
 
-💡 *Local attackers can gain root access on vulnerable Linux systems easily.*
+💡 *Massive power requirements could severely impact Kenyan national energy grid.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112365-newly-disclosed-dirty-frag-vulnerability-left-linux-exposed.html)
-
----
-
-### 8. Forza Horizon 6 leaks online a week before launch, Microsoft starts banning players 
-
-A week before its launch, Forza Horizon 6 leaked online, prompting Microsoft to ban players who accessed the leaked build. Users report being suspended or having their hardware banned. The leak was reportedly not caused by Playground Games.
-
-💡 *Unauthorized access to leaked game builds can lead to account suspension.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112366-forza-horizon-6-leaks-online-more-than-week.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112380-microsoft-1-billion-kenya-ai-data-center-could.html)
 
 ---
 
-### 9. Artemis II crew splashdown set for at 8:07 p.m. EDT Friday 
+### 5. Apple is rolling out end-to-end encryption for iPhone to Android RCS messages 
 
-The Artemis II crew is returning to Earth after a 10-day mission around the Moon, setting a new record for the farthest distance traveled by humans in space.
+Apple introduces end-to-end encryption for iPhone RCS messages to Android devices, enhancing user security.
 
-💡 *Paving the way for future lunar and Mars missions with human exploration.*
+💡 *Secure messaging between iPhone and Android users is now possible*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/artemis-ii-crew-splashdown-set-807-pm-edt-friday)
+🔗 [Read Full Article](https://www.techspot.com/news/112372-end-end-encrypted-rcs-rolling-out-iphone-android.html)
+
+---
+
+### 6. Innovative startup pioneers 3D printing with recycled glass new binder jet process combines powder with adhesive agent in layering technique 
+
+Vitriform3D uses post-consumer glass in their binder jet 3D printing process, reducing waste and promoting sustainability. The process combines powder with an adhesive agent in a layering technique. This innovative approach could revolutionize the 3D printing industry.
+
+💡 *Closed-loop recycling transforms waste glass into valuable 3D printing material.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/innovative-startup-pioneers-3d-printing-with-recycled-glass-new-binder-jet-process-combines-powder-with-adhesive-agent-in-layering-technique)
+
+---
+
+### 7. NextPCB Officially Launches Rev 0 PCBA An Automated, No-Touch Prototype Assembly Service Built for Speed and Predictability (Sponsored) 
+
+NextPCB launches Rev 0 PCBA, a fully automated, no-touch prototype assembly service that eliminates traditional manufacturing obstacles and accelerates early hardware development. This service leverages NextPCB's award-winning DFM/DFA engine and eliminates the need for manual intervention or unpredictable delays. Rev 0 PCBA is designed for speed and predictability.
+
+💡 *Accelerating hardware development with automated, no-touch prototype assembly workflows*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/13/nextpcb-officially-launches-rev-0-pcba-an-automated-no-touch-prototype-assembly-service-built-for-speed-and-predictability/)
+
+---
+
+### 8. Intel CEO promises partnership with Nvidia will produce "exciting new products" 
+
+Intel CEO Tan congratulates Nvidia CEO Huang on honorary doctorate, hints at partnership.
+
+💡 *Potential collaboration could drive innovation in accelerated computing and AI.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112381-intel-ceo-promises-partnership-nvidia-produce-exciting-new.html)
+
+---
+
+### 9. ST notches market lead for in-car sensors 
+
+European regulation is driving the adoption of in-car sensors to detect driver distraction and drowsiness, thus lifting occupant sensor growth. This trend is primarily driven by a need for increased road safety. Sensors are being integrated into vehicles to prevent accidents.
+
+💡 *Regulation boosts in-car sensor adoption for road safety reasons*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/st-notches-market-lead-car-sensors)
 
 ---
 

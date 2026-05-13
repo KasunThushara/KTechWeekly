@@ -1,5 +1,5 @@
 # 🎮 GPUs
-**Week of May 12, 2026**
+**Week of May 13, 2026**
 
 *Graphics cards and compute accelerators*
 
@@ -7,49 +7,49 @@
 
 ## 📊 Summary
 - **Articles this week:** 4
-- **Report generated:** 2026-05-12 11:04
+- **Report generated:** 2026-05-13 11:16
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. TCL 27R944K 165 Hz gaming monitor review: Mini LED with high brightness and high performance ⭐
+### 1. Jensen Huang snubbed by White House for President Trump s China state visit Nvidia CEO not on roster, which includes Apple's Tim Cook and Elon Musk 
 
-The TCL 27R944K is a 27-inch gaming monitor with high brightness and saturated color, offering 4K resolution and a Mini LED backlight with 2,304 dimming zones. It features HDR1400, Adaptive-Sync, and a 165 Hz refresh rate for smooth gaming performance. This monitor combines high-end features and brightness for immersive gaming.
+Nvidia CEO Jensen Huang was excluded from President Trump's China state visit, along with several other top tech leaders, sparking speculation about Washington's stance on exporting high-end chips to China.
 
-💡 *Mini LED backlight enhances color accuracy and brightness in gaming*
+💡 *Washington sends a strong signal on banning high-end chip exports to China.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/tcl-27r94-27-inch-4k-165-hz-gaming-monitor-review)
-
----
-
-### 2. Geniatech launches Renesas RZ/V2N, RZ/V2H, and RZ/V2L OSM Size-M/L system-on-modules 
-
-Geniatech has introduced three OSM system-on-modules powered by Renesas RZ/V2N/V2H/V2L processors for Edge AI and computer vision applications.
-
-💡 *Enables high-performance AI and computer vision in compact Edge devices.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/12/geniatech-renesas-rz-v2n-rz-v2h-and-rz-v2l-osm-size-m-l-system-on-modules/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/jensen-huang-snubbed-by-white-house-for-president-trumps-china-state-visit-nvidia-ceo-not-on-roster-which-includes-apples-tim-cook-and-elon-musk)
 
 ---
 
-### 3. China's next-gen CPUs and GPUs prepare to challenge last-gen Intel and AMD in 2027 Loongson 3B6600 and 9A1000 aim to match Intel's 12th Gen and AMD's RX 550 
+### 2. Build the perfect RTX 5070 Ti gaming PC for $2074 Save $769 on 32GB of Corsair RAM, 9850X3D, 2TB Samsung 9100 Pro SSD, and more 
 
-Loongson has announced its next-gen 3B6600 CPU and 9A1000 GPU, aiming to match Intel's 12th Gen and AMD's RX 550, with the goal of challenging their dominance in 2027.
+A gaming PC bundle from Newegg saves $769 with a near-complete setup for $2074, including a 9850X3D CPU, RTX 5070 Ti GPU, 2TB SSD, 32GB DDR5 RAM, 240mm AIO cooler, and X870E motherboard.
 
-💡 *China's Loongson chips may disrupt Intel and AMD's market supremacy*
+💡 *Significant savings on high-end gaming PC components for budget-conscious gamers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/chinas-next-gen-cpus-and-gpus-prepare-to-challenge-last-gen-intel-and-amd-in-2027-loongson-3b6600-and-9a1000-aim-to-match-intels-12th-gen-and-amds-rx-550)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/build-the-perfect-rtx-5070-ti-gaming-pc-for-usd2074-save-usd769-on-32gb-of-corsair-ram-9850x3d-2tb-samsung-9100-pro-ssd-and-more)
 
 ---
 
-### 4. AMD is reportedly developing an entry-level RDNA 4 GPU with 8GB of VRAM RX 9050 rumored to debut with 2048 cores, more than RX 9060 
+### 3. Intel CEO promises partnership with Nvidia will produce "exciting new products" 
 
-AMD is reportedly developing an entry-level RDNA 4 GPU, the RX 9050, with 8GB of VRAM. The RX 9050 is expected to feature more than 2048 cores. It aims to compete with the NVIDIA RTX 5050.
+Intel CEO Tan congratulates Nvidia CEO Huang on honorary doctorate, hints at partnership.
 
-💡 *AMD expands its RDNA 4 lineup to compete with NVIDIA mid-range GPUs*
+💡 *Potential collaboration could drive innovation in accelerated computing and AI.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amd-is-reportedly-developing-an-entry-level-rdna-4-gpu-with-8gb-of-vram-rx-9050-rumored-to-debut-with-2048-cores-more-than-rx-9060)
+🔗 [Read Full Article](https://www.techspot.com/news/112381-intel-ceo-promises-partnership-nvidia-produce-exciting-new.html)
+
+---
+
+### 4. AMD's 8GB Radeon RX 9050 could arrive soon to challenge Nvidia's RTX 5050 
+
+AMD's Radeon RX 9050, based on the Navi 44 model, is reportedly a lower-clocked option positioned below the RX 9060 series, aiming to challenge Nvidia's RTX 5050.
+
+💡 *AMD challenges Nvidia's mid-range with lower-clocked Navi 44 model*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112377-amd-8gb-radeon-rx-9050-desktop-card-could.html)
 
 ---
 

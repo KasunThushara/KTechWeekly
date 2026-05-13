@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of May 12, 2026**
+**Week of May 13, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,59 +7,59 @@
 
 ## 📊 Summary
 - **Articles this week:** 5
-- **Report generated:** 2026-05-12 11:04
+- **Report generated:** 2026-05-13 11:16
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Microsoft's massive Kenya AI data center would require switching off 'half the country' to meet power requirements, government says $1 billion project stalls over capacity disagreements and lack of infrastructure 
+### 1. Broadcom BCM67142, BCM67192, and BCM68565 chips target low-cost WiFi 8 10 Gbps fiber access points ⭐
 
-A proposed $1 billion Microsoft data center in Kenya's Olkaria region faces delays. The project was set to utilize geothermal power but is hindered by infrastructure issues. It may require Kenya to temporarily shut off power to meet demands.
+Broadcom has introduced the BCM67142, BCM67192, and BCM68565 chips for low-cost residential Wi-Fi 8 access points and PON gateways with 10 Gbps fiber support.
 
-💡 *Microsoft's massive data center stalling due to Kenya's inadequate infrastructure.*
+💡 *Enabling affordable high-speed internet access for low-income households worldwide.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/microsofts-1-billion-kenya-data-center-stalls-over-disagreements-on-power-capacity)
-
----
-
-### 2. Samsung holds desperate final talks with union over 18-day chip factory strike that could cost $20 billion government-mediated summit seeks to avert industrial action that could hit HBM production 
-
-Samsung is in final talks with union over 18-day chip factory strike. The talks are being mediated by South Korea's National Labor Relations Commission. A possible $20 billion loss is at stake.
-
-💡 *Potential $20 billion loss due to chip factory strike threatens Samsung*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsung-and-union-resume-talks-10-days-before-planned-18-day-chip-factory-strike)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/13/broadcom-bcm67142-bcm67192-and-bcm68565-chips-target-low-cost-wifi-8-10-gbps-fiber-access-points/)
 
 ---
 
-### 3. Fake DDR5 sticks with dummy plastic chips are the latest RAM scam 
+### 2. TSMC allocates $20 billion to Arizona expansion project faces water and labor shortages, complicated by visa rules 
 
-Fake DDR5 RAM sticks with dummy plastic chips are being sold, featuring legitimate brand labels. These counterfeits have been exposed through online posts. Consumers are being misled and potentially risking damage to their systems.
+TSMC's Fab 21 is profitable after 1 year, but faces significant challenges. Despite labor, water, and visa issues, TSMC invests $20 billion in the Arizona project. The company remains concerned about the long-term power supply.
 
-💡 *Counterfeit RAM poses risk of hardware damage and system failure.*
+💡 *TSMC's Arizona expansion is a gamble on US semiconductor dominance.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112363-fake-ddr5-sticks-dummy-plastic-chips-latest-ram.html)
-
----
-
-### 4. Europe is moving to block Microsoft, Amazon, and Google from handling government health, financial, and legal data 
-
-The European Commission plans to restrict Microsoft, Amazon, and Google from handling sensitive government data.
-
-💡 *European Commission seeks to reduce reliance on US tech giants.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112362-europe-may-restrict-microsoft-amazon-google-handling-sensitive.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-allocates-usd20-billion-to-arizona-expansion-project-faces-water-and-labor-shortages-complicated-by-visa-rules)
 
 ---
 
-### 5. Ukraine is testing an AI-guided laser weapon that can destroy drones in seconds 
+### 3. Intel confirms Googlebook AI laptop partnership, opening x86 possibilities for new OS Google VP says devices to also ship with Qualcomm and MediaTek chips 
 
-Ukraine is testing an AI-guided laser system to destroy drones quickly.
+Intel has confirmed a partnership with Googlebook for Gemini-powered AI laptops, which will also be available with Qualcomm and MediaTek chips. This marks a significant move towards expanding x86 possibilities for Google's new OS. The partnership is expected to bring AI capabilities to a wider range of devices.
 
-💡 *Rapid and precise countermeasures for drone threats are crucial.*
+💡 *Googlebook's OS gains x86 support, expanding AI laptop options*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112357-ukraine-testing-ai-guided-laser-weapon-can-destroy.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/intel-confirms-googlebook-ai-laptop-partnership-opening-x86-possibilities-for-new-os-google-vp-says-devices-to-also-ship-with-qualcomm-and-mediatek-chips)
+
+---
+
+### 4. Jensen Huang snubbed by White House for President Trump s China state visit Nvidia CEO not on roster, which includes Apple's Tim Cook and Elon Musk 
+
+Nvidia CEO Jensen Huang was excluded from President Trump's China state visit, along with several other top tech leaders, sparking speculation about Washington's stance on exporting high-end chips to China.
+
+💡 *Washington sends a strong signal on banning high-end chip exports to China.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/jensen-huang-snubbed-by-white-house-for-president-trumps-china-state-visit-nvidia-ceo-not-on-roster-which-includes-apples-tim-cook-and-elon-musk)
+
+---
+
+### 5. NASA partners with Microchip to build next-generation spaceflight chips with 100x the power of current offerings chip designed to withstand radiation for extended missions on the Moon and Mars 
+
+NASA partners with Microchip to develop a next-gen spaceflight SoC offering 100x the power of current chips, designed to withstand radiation for extended missions on the Moon and Mars, with potential Earth-bound applications.
+
+💡 *Advancing space technology drives innovation on Earth.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/nasa-partners-with-microchip-to-build-next-generation-spaceflight-chips-with-100x-the-power-of-current-offerings-chip-designed-to-withstand-radiation-for-extended-missions-on-the-moon-and-mars)
 
 ---
 

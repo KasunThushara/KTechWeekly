@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of May 12, 2026**
+**Week of May 13, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,75 +7,75 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Firefly AIBOX-K3 An Edge AI mini PC powered by SpacemiT K3 RISC-V SoC ⭐⭐
+### 1. SiFive introduces RVA23-compliant Performance P570 Gen3 RISC-V core for consumer and AIoT applications ⭐
 
 **🤖 AI & ML**
 
-Firefly's AIBOX-K3 is an industrial-grade Edge AI mini PC built around the SpacemiT K3 SoC, featuring an integrated AI engine with up to 60 TOPS compute performance, making it suitable for local LLM inference and edge AI applications.
+SiFive introduces the Performance P570 Gen3 RISC-V core, compliant with RVA23, for edge AI, high-end consumer, and commercial IoT applications.
 
-💡 **Key Point:** RISC-V edge computing gains momentum with industrial-grade AI capabilities.
+💡 **Key Point:** Enabling faster, more efficient, and secure RISC-V-based edge computing and AIoT devices.
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/12/firefly-aibox-k3-an-edge-ai-mini-pc-powered-by-spacemit-k3-risc-v-soc/)
+🔗 [Read More](https://www.cnx-software.com/2026/05/12/sifive-performance-p570-gen3-rva23-compliant-risc-v-core-consumer-aiot-applications/)
 
 ---
 
-### 2. Firefly AIBOX-K3 An Edge AI mini PC powered by SpacemiT K3 RISC-V SoC ⭐⭐
+### 2. SpacemiT K3-powered DC-ROMA RISC-V motherboard III is made for the Framework Laptop 13 ⭐
+
+**📰 Tech News**
+
+SpacemiT's K3-powered DC-ROMA RISC-V Mainboard III is designed for the Framework Laptop 13, offering 8x 64-bit RISC-V cores and up to 60 TOPS AI performance. The motherboard features up to 32GB RAM and an optional 1TB NVMe SSD. It's the third RISC-V mainboard for the Framework Laptop 13, following Intel processors and previous RISC-V variants.
+
+💡 **Key Point:** Framework Laptop 13 gains a powerful, modular RISC-V upgrade option.
+
+🔗 [Read More](https://www.cnx-software.com/2026/05/13/spacemit-k3-powered-dc-roma-risc-v-motherboard-iii-is-made-for-the-framework-laptop-13/)
+
+---
+
+### 3. SpacemiT K3-powered DC-ROMA RISC-V motherboard III is made for the Framework Laptop 13 ⭐
 
 **💻 Hardware**
 
-Firefly's AIBOX-K3 is an industrial-grade Edge AI mini PC built around the SpacemiT K3 SoC, featuring an integrated AI engine with up to 60 TOPS compute performance, making it suitable for local LLM inference and edge AI applications.
+SpacemiT's K3-powered DC-ROMA RISC-V Mainboard III is designed for the Framework Laptop 13, offering 8x 64-bit RISC-V cores and up to 60 TOPS AI performance. The motherboard features up to 32GB RAM and an optional 1TB NVMe SSD. It's the third RISC-V mainboard for the Framework Laptop 13, following Intel processors and previous RISC-V variants.
 
-💡 **Key Point:** RISC-V edge computing gains momentum with industrial-grade AI capabilities.
+💡 **Key Point:** Framework Laptop 13 gains a powerful, modular RISC-V upgrade option.
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/12/firefly-aibox-k3-an-edge-ai-mini-pc-powered-by-spacemit-k3-risc-v-soc/)
+🔗 [Read More](https://www.cnx-software.com/2026/05/13/spacemit-k3-powered-dc-roma-risc-v-motherboard-iii-is-made-for-the-framework-laptop-13/)
 
 ---
 
-### 3. Gamers Are Wrong About 1440p vs 1080p CPU Benchmarking ⭐
+### 4. SiFive introduces RVA23-compliant Performance P570 Gen3 RISC-V core for consumer and AIoT applications ⭐
+
+**💻 Hardware**
+
+SiFive introduces the Performance P570 Gen3 RISC-V core, compliant with RVA23, for edge AI, high-end consumer, and commercial IoT applications.
+
+💡 **Key Point:** Enabling faster, more efficient, and secure RISC-V-based edge computing and AIoT devices.
+
+🔗 [Read More](https://www.cnx-software.com/2026/05/12/sifive-performance-p570-gen3-rva23-compliant-risc-v-core-consumer-aiot-applications/)
+
+---
+
+### 5. SONOFF Hydro DUO A dual-channel Zigbee 3.0 smart water valve with flow meter ⭐
 
 **🤖 AI & ML**
 
-Gamers' demand for 1440p CPU benchmarks may hide performance differences due to GPU bottlenecks. Higher resolutions often mask CPU performance gaps. 1080p remains a crucial benchmark for accurate CPU evaluation.
+SONOFF Hydro DUO is a dual-channel smart water valve with flow meter, offering up to 12 customized watering schedules, real-time alerts, and dual Zigbee + BLE connectivity.
 
-💡 **Key Point:** Higher resolutions hide CPU performance differences due to GPU bottlenecks
+💡 **Key Point:** Smart water management with real-time alerts and flow metering improves efficiency.
 
-🔗 [Read More](https://www.techspot.com/article/3116-gamers-wrong-cpu-benchmarking/)
-
----
-
-### 4. TCL 27R944K 165 Hz gaming monitor review: Mini LED with high brightness and high performance ⭐
-
-**🎮 GPUs**
-
-The TCL 27R944K is a 27-inch gaming monitor with high brightness and saturated color, offering 4K resolution and a Mini LED backlight with 2,304 dimming zones. It features HDR1400, Adaptive-Sync, and a 165 Hz refresh rate for smooth gaming performance. This monitor combines high-end features and brightness for immersive gaming.
-
-💡 **Key Point:** Mini LED backlight enhances color accuracy and brightness in gaming
-
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/tcl-27r94-27-inch-4k-165-hz-gaming-monitor-review)
-
----
-
-### 5. TCL 27R944K 165 Hz gaming monitor review: Mini LED with high brightness and high performance ⭐
-
-**💻 Hardware**
-
-The TCL 27R944K is a 27-inch gaming monitor with high brightness and saturated color, offering 4K resolution and a Mini LED backlight with 2,304 dimming zones. It features HDR1400, Adaptive-Sync, and a 165 Hz refresh rate for smooth gaming performance. This monitor combines high-end features and brightness for immersive gaming.
-
-💡 **Key Point:** Mini LED backlight enhances color accuracy and brightness in gaming
-
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/tcl-27r94-27-inch-4k-165-hz-gaming-monitor-review)
+🔗 [Read More](https://www.cnx-software.com/2026/05/13/sonoff-hydro-duo-a-dual-channel-zigbee-3-0-smart-water-valve-with-flow-meter/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **49 articles** across **5 focused categories**.
+We covered **60 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 18 | Artificial Intelligence and Machine Learning |
+| 🤖 [AI & ML](ai_and_ml.md) | 25 | Artificial Intelligence and Machine Learning |
 | 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
+| 💻 [Hardware](hardware.md) | 17 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
 | 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
 
@@ -84,13 +84,13 @@ We covered **49 articles** across **5 focused categories**.
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 18 articles
+*Artificial Intelligence and Machine Learning* — 25 articles
 
 ### 🎮 [GPUs](gpus.md)
 *Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 13 articles
+*Computing hardware and development boards* — 17 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
 *Chip manufacturing and design* — 5 articles
@@ -102,6 +102,6 @@ We covered **49 articles** across **5 focused categories**.
 
 ## 📅 About
 
-Generated 2026-05-12 at 11:04 by an autonomous AI curation system.
+Generated 2026-05-13 at 11:16 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
