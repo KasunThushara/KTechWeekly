@@ -1,65 +1,83 @@
 # ⚡ Semiconductors
-**Week of May 13, 2026**
+**Week of May 14, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-05-13 11:16
+- **Articles this week:** 7
+- **Report generated:** 2026-05-14 11:03
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Broadcom BCM67142, BCM67192, and BCM68565 chips target low-cost WiFi 8 10 Gbps fiber access points ⭐
+### 1. Asus Prime Z890-P Wifi Motherboard Review: Primed and ready for your Core Ultra processor 
 
-Broadcom has introduced the BCM67142, BCM67192, and BCM68565 chips for low-cost residential Wi-Fi 8 access points and PON gateways with 10 Gbps fiber support.
+The Asus Prime Z890-P Wifi is a solid, all-around budget-class board for Z890 and the latest Core Ultra chips. However, other boards around its price offer compelling features and better value.
 
-💡 *Enabling affordable high-speed internet access for low-income households worldwide.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/13/broadcom-bcm67142-bcm67192-and-bcm68565-chips-target-low-cost-wifi-8-10-gbps-fiber-access-points/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/asus-prime-z890-p-wifi-motherboard-review)
 
 ---
 
-### 2. TSMC allocates $20 billion to Arizona expansion project faces water and labor shortages, complicated by visa rules 
+### 2. PortaRF single board SDR mixes HackRF One and PortaPack H4M hardware, adds AI voice control 
 
-TSMC's Fab 21 is profitable after 1 year, but faces significant challenges. Despite labor, water, and visa issues, TSMC invests $20 billion in the Arizona project. The company remains concerned about the long-term power supply.
+PortaRF is a compact, open-source software-defined radio integrating HackRF One and PortaPack H4M hardware with AI voice control, featuring improved signal quality and a wider frequency range.
 
-💡 *TSMC's Arizona expansion is a gamble on US semiconductor dominance.*
+💡 *Revolutionizing portable SDR with AI-powered voice control and enhanced performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-allocates-usd20-billion-to-arizona-expansion-project-faces-water-and-labor-shortages-complicated-by-visa-rules)
-
----
-
-### 3. Intel confirms Googlebook AI laptop partnership, opening x86 possibilities for new OS Google VP says devices to also ship with Qualcomm and MediaTek chips 
-
-Intel has confirmed a partnership with Googlebook for Gemini-powered AI laptops, which will also be available with Qualcomm and MediaTek chips. This marks a significant move towards expanding x86 possibilities for Google's new OS. The partnership is expected to bring AI capabilities to a wider range of devices.
-
-💡 *Googlebook's OS gains x86 support, expanding AI laptop options*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/intel-confirms-googlebook-ai-laptop-partnership-opening-x86-possibilities-for-new-os-google-vp-says-devices-to-also-ship-with-qualcomm-and-mediatek-chips)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/14/portarf-single-board-sdr-mixes-hackrf-one-and-portapack-h4m-hardware-adds-ai-voice-control/)
 
 ---
 
-### 4. Jensen Huang snubbed by White House for President Trump s China state visit Nvidia CEO not on roster, which includes Apple's Tim Cook and Elon Musk 
+### 3. Clawdmeter A DIY ESP32-S3 desk dashboard for Claude Code token usage monitoring 
 
-Nvidia CEO Jensen Huang was excluded from President Trump's China state visit, along with several other top tech leaders, sparking speculation about Washington's stance on exporting high-end chips to China.
+Clawdmeter is a DIY ESP32-S3 desk dashboard that displays Claude Code token usage in real-time, utilizing a 2.16-inch AMOLED screen and leveraging LVGL, NimBLE, and HID keyboard functionality.
 
-💡 *Washington sends a strong signal on banning high-end chip exports to China.*
+💡 *Real-time token usage monitoring for optimized code efficiency.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/jensen-huang-snubbed-by-white-house-for-president-trumps-china-state-visit-nvidia-ceo-not-on-roster-which-includes-apples-tim-cook-and-elon-musk)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/14/clawdmeter-a-diy-esp32-s3-desk-dashboard-for-claude-code-token-usage-monitoring/)
 
 ---
 
-### 5. NASA partners with Microchip to build next-generation spaceflight chips with 100x the power of current offerings chip designed to withstand radiation for extended missions on the Moon and Mars 
+### 4. Japanese chemical giant JSR expands to Taiwan for EUV photoresist production near TSMC plant to fill missing chemical link to scale EUV materials 
 
-NASA partners with Microchip to develop a next-gen spaceflight SoC offering 100x the power of current chips, designed to withstand radiation for extended missions on the Moon and Mars, with potential Earth-bound applications.
+JSR is establishing a plant in Taiwan to produce EUV photoresist, co-developing with TSMC. The plant, set to come online in 2028, aims to fill a critical gap in EUV materials. This expansion will support advanced semiconductor manufacturing.
 
-💡 *Advancing space technology drives innovation on Earth.*
+💡 *Critical EUV material link secured for TSMC chip production*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/nasa-partners-with-microchip-to-build-next-generation-spaceflight-chips-with-100x-the-power-of-current-offerings-chip-designed-to-withstand-radiation-for-extended-missions-on-the-moon-and-mars)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/jsr-builds-first-taiwan-photoresist-plant-as-japanese-materials-makers-race-to-embed-next-to-tsmc)
+
+---
+
+### 5. Samsung's critical union negotiations break down eight days before planned 18-day chip factory strike that's projected to cost $700 million per day Korean PM calls emergency meeting as strike looms 
+
+Samsung's union negotiations have broken down, leading to an impending 18-day strike. The strike is projected to cost $700 million per day. In response, the South Korean Prime Minister has called an emergency meeting.
+
+💡 *Global chip supply chain threatened by massive labor dispute escalation*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsungs-last-ditch-union-talks-collapse-eight-days-before-planned-18-day-chip-factory-strike)
+
+---
+
+### 6. Google Nest Wifi Pro three-pack hits new $229 record low 
+
+The Google Nest Wifi Pro three-pack is now available for $229, down from its usual $299 price, and offers a mesh Wi-Fi system with Wi-Fi 6E capabilities and support for modern smart home devices.
+
+💡 *Affordable upgrade to high-speed Wi-Fi and smart home connectivity*
+
+🔗 [Read Full Article](https://www.techspot.com/products/routers/google-nest-wifi-pro.263047/)
+
+---
+
+### 7. Googlebooks will feature Intel, Qualcomm, and MediaTek chips, and follow Google's strict hardware guidelines 
+
+Google's Googlebook premium brand will enforce strict hardware guidelines for OEMs.
+
+💡 *Consistent user experience across devices drives premium market success.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112396-googlebooks-feature-intel-qualcomm-mediatek-chips-follow-google.html)
 
 ---
 

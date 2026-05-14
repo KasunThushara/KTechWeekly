@@ -1,265 +1,165 @@
 # 🤖 AI & ML
-**Week of May 13, 2026**
+**Week of May 14, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 25
-- **Report generated:** 2026-05-13 11:16
+- **Articles this week:** 15
+- **Report generated:** 2026-05-14 11:03
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. SiFive introduces RVA23-compliant Performance P570 Gen3 RISC-V core for consumer and AIoT applications ⭐
+### 1. DEEPX DX-AIPlayer N97 mini PC combines Intel N97 SoC and 25 TOPS DX-M1 AI accelerator ⭐
 
-SiFive introduces the Performance P570 Gen3 RISC-V core, compliant with RVA23, for edge AI, high-end consumer, and commercial IoT applications.
+The DEEPX DX-AIPlayer N97 mini PC combines Intel N97 SoC with a 25 TOPS DX-M1 AI accelerator for real-time vision AI applications.
 
-💡 *Enabling faster, more efficient, and secure RISC-V-based edge computing and AIoT devices.*
+💡 *Edge AI performance enhanced with dedicated, low-power AI acceleration.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/12/sifive-performance-p570-gen3-rva23-compliant-risc-v-core-consumer-aiot-applications/)
-
----
-
-### 2. SONOFF Hydro DUO A dual-channel Zigbee 3.0 smart water valve with flow meter ⭐
-
-SONOFF Hydro DUO is a dual-channel smart water valve with flow meter, offering up to 12 customized watering schedules, real-time alerts, and dual Zigbee + BLE connectivity.
-
-💡 *Smart water management with real-time alerts and flow metering improves efficiency.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/13/sonoff-hydro-duo-a-dual-channel-zigbee-3-0-smart-water-valve-with-flow-meter/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/14/deepx-dx-aiplayer-n97-mini-pc-combines-intel-n97-soc-and-25-tops-dx-m1-ai-accelerator/)
 
 ---
 
-### 3. A stainless steel breakthrough could slash the cost of green hydrogen production ⭐
+### 2. The humble desktop monitor is quietly having its best years, and gamers are fully responsible 
 
-Researchers have created a new stainless steel material (SS-H2) that can withstand conditions where conventional stainless steel fails. This breakthrough is part of the Super Steel research program, which has previously produced ultra-strong alloys and antimicrobial stainless steel. SS-H2 could lower the cost of green hydrogen production.
+Desktop monitor sales rebounded in 2025, growing 4.3% year over year. Manufacturers shipped 133.4 million units, driven by evolving high-end devices. The market is adapting to a laptop-dominated world.
 
-💡 *Enabling cheaper green hydrogen production through improved materials science.*
+💡 *Gamers drive demand for enhanced desktop monitors and high-end visuals.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112373-stainless-steel-breakthrough-could-slash-cost-green-hydrogen.html)
-
----
-
-### 4. Compromised Mistral AI and TanStack packages may have exposed GitHub, cloud and CI/CD credentials in 'mini Shai Hulud' malware infection supply-chain campaign spreads across npm and AI developer ecosystems like wildfire 
-
-Attackers compromised AI and cloud tool packages, exposing sensitive credentials. The malware, 'mini Shai-Hulud', spread through supply-chain attacks on npm and PyPI. This campaign affects developer ecosystems and cloud services.
-
-💡 *Exposure of credentials can lead to catastrophic data breaches.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/compromised-mistral-ai-and-tanstack-packages-may-have-exposed-github-cloud-and-ci-cd-credentials-in-mini-shai-hulud-malware-infection-supply-chain-campaign-spreads-across-npm-and-ai-developer-ecosystems-like-wildfire)
+🔗 [Read Full Article](https://www.techspot.com/news/112389-humble-desktop-monitor-quietly-having-best-years-gamers.html)
 
 ---
 
-### 5. Standard 90-day vulnerability disclosure policy is likely dead thanks to AI, expert warns that AI can weaponize patches in 30 minutes LLM-assisted bug-hunting ushers in a new cyberworld order 
+### 3. Sony Reon Pocket Pro Plus brings the personal cooling device to the US 
 
-AI-assisted bug detection has accelerated vulnerability discovery, rendering 90-day disclosure policy obsolete.
+Sony's Reon Pocket Pro Plus, a personal cooling device, has arrived in the US market. Originally developed in 2017 and crowdfunded in 2019, it has now expanded globally. This portable device offers a novel solution for temperature control.
 
-💡 *AI accelerates vulnerability discovery, rendering traditional disclosure timelines obsolete quickly.*
+💡 *Revolutionizing personal temperature control with wearable tech innovation*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/standard-90-day-vulnerability-disclosure-policy-is-likely-dead-thanks-to-ai-leaving-worlds-systems-exposed-to-zero-day-attacks-security-expert-details-how-llm-assisted-bug-hunting-ushers-in-a-new-cyberworld-orders)
-
----
-
-### 6. eBay rejects GameStop's $56B unsolicited offer as "neither credible nor attractive" 
-
-eBay rejects GameStop's $56 billion unsolicited acquisition offer. The decision was made after thorough review by GameStop's board and advisors. The offer was deemed unattractive and not credible.
-
-💡 *GameStop's financials may not justify such a massive acquisition bid*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112384-ebay-rejects-gamestop-56b-unsolicited-offer-neither-credible.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112393-sony-reon-pocket-pro-plus-brings-personal-cooling.html)
 
 ---
 
-### 7. Porsche Taycan reclaims N rburgring EV record from the world's fastest rivals 
+### 4. Bitcoin trader recovers $400,000 using Claude AI after losing wallet password 11 years ago bot tried 3.5 trillion passwords before decrypting an old wallet backup 
 
-Porsche Taycan reclaimed the Nürburgring EV record with incremental improvements. Manthey Racing refined software, aerodynamics, and chassis hardware. This approach focuses on refinement over chasing extremes.
+A Bitcoin trader recovered $400,000 using Claude AI after losing their wallet password 11 years ago. The AI bot successfully decrypted an old wallet backup after trying 3.5 trillion passwords. The trader's luck and AI assistance led to the recovery.
 
-💡 *Refinement beats recklessness in achieving EV performance records*
+💡 *AI-powered password recovery can salvage lost cryptocurrency fortunes.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112376-porsche-upgraded-taycan-reclaimed-nrburgring-ev-record-world.html)
-
----
-
-### 8. Microsoft's $1 billion Kenya AI data center could require switching off "half the country" 
-
-Microsoft's $1 billion Kenya AI data center may impact national power supply.
-
-💡 *Massive power requirements could severely impact Kenyan national energy grid.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112380-microsoft-1-billion-kenya-ai-data-center-could.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
 
 ---
 
-### 9. Apple is rolling out end-to-end encryption for iPhone to Android RCS messages 
+### 5. 49,000 Lake Tahoe residents could be left powerless as AI data centers inhale electricity supply power company looking to redirect power to 12 data centers, high demand plus a regulatory limbo equals a dim situation 
 
-Apple introduces end-to-end encryption for iPhone RCS messages to Android devices, enhancing user security.
+49,000 Lake Tahoe residents may lose power due to NV Energy redirecting electricity to 12 AI data centers. High demand and regulatory uncertainty contribute to the potential power outage. This situation is expected to worsen by May 2027.
 
-💡 *Secure messaging between iPhone and Android users is now possible*
+💡 *Electricity supply insecurity threatens local residents due to data center demand*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112372-end-end-encrypted-rcs-rolling-out-iphone-android.html)
-
----
-
-### 10. Intel confirms Googlebook AI laptop partnership, opening x86 possibilities for new OS Google VP says devices to also ship with Qualcomm and MediaTek chips 
-
-Intel has confirmed a partnership with Googlebook for Gemini-powered AI laptops, which will also be available with Qualcomm and MediaTek chips. This marks a significant move towards expanding x86 possibilities for Google's new OS. The partnership is expected to bring AI capabilities to a wider range of devices.
-
-💡 *Googlebook's OS gains x86 support, expanding AI laptop options*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/intel-confirms-googlebook-ai-laptop-partnership-opening-x86-possibilities-for-new-os-google-vp-says-devices-to-also-ship-with-qualcomm-and-mediatek-chips)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/49-000-lake-tahoe-residents-could-be-left-powerless-as-ai-data-centers-inhale-electricity-supply-power-company-looking-to-redirect-power-to-12-data-centers-high-demand-plus-a-regulatory-limbo-equals-a-dim-situation)
 
 ---
 
-### 11. South Korean official proposes 'citizen dividend' payouts from AI windfall markets spooked by suggestion AI revenue should be redistributed to citizens 
+### 6. Japanese chemical giant JSR expands to Taiwan for EUV photoresist production near TSMC plant to fill missing chemical link to scale EUV materials 
 
-A South Korean official, Kim Yong-beom, proposed a 'national dividend' from AI revenue.
+JSR is establishing a plant in Taiwan to produce EUV photoresist, co-developing with TSMC. The plant, set to come online in 2028, aims to fill a critical gap in EUV materials. This expansion will support advanced semiconductor manufacturing.
 
-💡 *Redistributing AI revenue to citizens could disrupt economic power dynamics.*
+💡 *Critical EUV material link secured for TSMC chip production*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/south-korean-official-proposes-citizen-dividend-from-samsung-and-sk-hynix-tax-windfall-spooking-markets)
-
----
-
-### 12. Google's new laptop platform, 'Googlebook,' leaks ahead of reveal event new laptops powered by Android and Google Gemini, meant to succeed Chromebook 
-
-Google is launching 'Googlebook,' a laptop platform succeeding Chromebook, powered by Android and Google Gemini.
-
-💡 *Unified Android ecosystem with native device integration and AI capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/googles-new-laptop-platform-googlebook-leaks-ahead-of-reveal-event-new-laptops-powered-by-android-and-google-gemini-meant-to-succeed-chromebook)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/jsr-builds-first-taiwan-photoresist-plant-as-japanese-materials-makers-race-to-embed-next-to-tsmc)
 
 ---
 
-### 13. Trump administration reportedly debating ban on Chinese cellular modules in expansion of FCC crackdown potential restrictions could impact everything from smart devices and routers to connected cars and industrial IoT systems 
+### 7. AMD expands its Ryzen 9000 PRO lineup with six new SKUs, now featuring 3D V-Cache for the first time new workstation CPUs have up to 170W TDPs, available with OEMs later this year 
 
-The Trump administration is reportedly considering a ban on Chinese cellular modules as part of the FCC's crackdown on Chinese communications technology, potentially impacting a wide range of IoT devices and electronics.
+AMD expands its Ryzen 9000 PRO series with six new SKUs, featuring 3D V-Cache and higher TDPs up to 170W, available with OEMs in Q3 2026.
 
-💡 *Global supply chain vulnerable to Chinese technology restrictions*
+💡 *AMD offers workstation CPUs with higher performance and power efficiency options*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/trump-administration-reportedly-debating-ban-on-chinese-cellular-modules-in-expansion-of-fcc-crackdown-potential-restrictions-could-impact-everything-from-smart-devices-and-routers-to-connected-cars-and-industrial-iot-systems)
-
----
-
-### 14. Amazon employees admit to using AI unnecessarily to pump up internal usage scores workers complain of intense pressure to use AI tools 
-
-Amazon employees inflate AI token consumption to meet internal usage targets, amid intense pressure to use AI tools. This practice compromises the accuracy of AI usage metrics and may skew product development decisions. Workers feel pressured to artificially inflate metrics.
-
-💡 *Inflated AI metrics undermine trust and inform product development decisions.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/big-tech-has-a-tokenmaxxing-habit)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-expands-its-ryzen-9000-pro-lineup-with-six-new-skus-now-featuring-3d-v-cache-for-the-first-time-new-workstation-cpus-have-up-to-170w-tdps-available-with-oems-later-this-year)
 
 ---
 
-### 15. Dell SupportAssist update is crashing PCs with constant blue screens and reboot loops the boot service built for system recovery is the culprit of unending instability 
+### 8. SSD prices skyrocket by 300% in Japan, bringing 8TB Samsung 9100 drive to an eye-watering $3,500 industry continues to reckon with the ongoing AI storage crunch 
 
-A recent Dell SupportAssist update is causing BSOD loops on PCs, leading to instability. The issue is reportedly caused by the boot service built for system recovery. Users are experiencing constant reboot loops and blue screens of death.
+Samsung SSD prices surged 300% in Japan, reaching $3,500 for 8TB drives. This massive price hike is attributed to supply chain disruptions and high demand for AI storage. The AI storage crunch is driving up costs across the industry.
 
-💡 *Critical system service update causes widespread PC instability and crashes.*
+💡 *Rising SSD prices exacerbate AI storage crunch and industry supply chain pressure.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/dell-supportassist-update-is-crashing-pcs-with-constant-blue-screens-and-reboot-loops)
-
----
-
-### 16. NASA partners with Microchip to build next-generation spaceflight chips with 100x the power of current offerings chip designed to withstand radiation for extended missions on the Moon and Mars 
-
-NASA partners with Microchip to develop a next-gen spaceflight SoC offering 100x the power of current chips, designed to withstand radiation for extended missions on the Moon and Mars, with potential Earth-bound applications.
-
-💡 *Advancing space technology drives innovation on Earth.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/nasa-partners-with-microchip-to-build-next-generation-spaceflight-chips-with-100x-the-power-of-current-offerings-chip-designed-to-withstand-radiation-for-extended-missions-on-the-moon-and-mars)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/ssd-prices-skyrocket-by-300-percent-in-japan-bringing-8tb-samsung-9100-drive-to-an-eye-watering-usd3-500-industry-continues-to-reckon-with-the-ongoing-ai-storage-crunch)
 
 ---
 
-### 17. OpenAI sued after ChatGPT allegedly gave drug advice that led to teen's fatal overdose 
+### 9. EU considers running undersea cable under the North Pole to link Europe to Asia Polar Connect aims to bypass the Strait of Hormuz and Russia by 2030 
 
-ChatGPT is sued after allegedly providing drug advice that led to a teen's fatal overdose. The parents claim their son started using the AI for homework and technical issues in 2023. They believe the AI's advice contributed to his death.
+The EU plans to build an undersea cable under the North Pole to connect Europe to Asia, bypassing sensitive areas like the Strait of Hormuz and Russia. The project, called Polar Connect, aims to be operational by 2030. This route will pass through the harsh Arctic environment.
 
-💡 *AI's lack of accountability for providing potentially lethal health advice*
+💡 *Boosting EU-Asia connectivity and reducing reliance on geopolitically sensitive routes.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112392-openai-sued-after-chatgpt-allegedly-gave-drug-advice.html)
-
----
-
-### 18. Google's Googlebook is the Android laptop OS we've been waiting for 
-
-Google introduced Googlebook, a new OS, designed to replace Chromebooks with local and cloud processing.
-
-💡 *Efficient local and cloud processing for seamless user experience.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112387-google-googlebook-android-laptop-os-weve-waiting.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/eu-considers-running-undersea-cable-under-the-north-pole-to-link-europe-to-asia-polar-connect-aims-to-bypass-the-strait-of-hormuz-and-russia-by-2030)
 
 ---
 
-### 19. Amazon employees are inflating AI usage to top leaderboards and impress managers 
+### 10. Nearly 50,000 Lake Tahoe residents have one year to find new power as their utility pivots to data centers 
 
-Amazon employees are inflating AI usage metrics to impress managers, using internal platform MeshClaw for non-essential tasks.
+A Nevada energy company will stop supplying electricity to 49,000 Lake Tahoe residents in May 2027, leaving them to find alternative power sources. This change is not directly tied to a specific data center but follows Nevada's growing data center industry. The affected utility provider is based in California.
 
-💡 *Inflated AI metrics mask actual productivity and efficiency issues within Amazon.*
+💡 *Rapid growth of data centers threatens local power reliability*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112386-amazon-employees-using-internal-ai-tools-inflate-usage.html)
-
----
-
-### 20. Arm CEO predicts CPUs will scale to extreme core counts in AI-driven future 
-
-Arm CEO Rene Haas predicts CPUs will surpass GPUs in core count, driven by AI demands.
-
-💡 *AI-driven future demands extreme core counts in CPUs, not GPUs.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112371-arm-ceo-predicts-cpus-scale-extreme-core-counts.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112403-nearly-50000-lake-tahoe-residents-have-one-year.html)
 
 ---
 
-### 21. Meta is using its own employees' activity to train AI, and laying off 8,000 of them at the same time 
+### 11. The EU is going after TikTok and Meta over addictive algorithms and child safety failures 
 
-Meta is using employee activity to train AI systems, while laying off 8,000 employees.
+The European Commission is taking action against TikTok and Meta over addictive algorithms and child safety failures.
 
-💡 *Blurring lines between employee data and AI training raises privacy concerns.*
+💡 *EU targets algorithm-driven addiction and child safety concerns in tech giants.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112360-meta-using-own-employees-activity-train-ai-laying.html)
-
----
-
-### 22. FluentCleaner brings back the classic PC cleaner idea, without the bloat 
-
-FluentCleaner is a lightweight PC cleaner inspired by CCleaner's early days, focusing on removing temporary files, browser cache, logs, and clutter without aggressive registry cleaning or scareware tactics.
-
-💡 *Simplistic and trustworthy PC cleaning for a clutter-free experience.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/7876-fluentcleaner.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112400-european-union-moves-crack-down-addictive-social-media.html)
 
 ---
 
-### 23. Samsung put Dua Lipa's face on TV boxes without asking. Now she's suing for $15 million 
+### 12. NAND contract prices surge over 600% since September 2025, DRAM up ~400% 
 
-Singer Dua Lipa sues Samsung for $15 million over unauthorized use of her image on TV boxes.
+NAND contract prices surge over 600% since September 2025, DRAM up ~400%, due to high demand from AI startups.
 
-💡 *Celebrity image rights matter, as unauthorized use can lead to costly lawsuits.*
+💡 *High demand for memory by AI startups drives inflationary market.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112383-samsung-blames-content-partner-after-dua-lipa-files.html)
-
----
-
-### 24. The FCC has banned new foreign-made routers, but existing ones can keep receiving updates until 2029 
-
-The FCC banned new foreign-made routers, but existing ones can be updated until 2029. The change targets national security risks in foreign supply chains. Existing routers will receive updates until 2029.
-
-💡 *National security concerns drive ban on foreign-made consumer routers.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112374-fcc-banning-new-foreign-made-routers-but-existing.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112398-nand-contract-prices-surge-over-600-since-september.html)
 
 ---
 
-### 25. AMD's 8GB Radeon RX 9050 could arrive soon to challenge Nvidia's RTX 5050 
+### 13. Unitree reveals $650,000 production-ready mecha that punches through walls and crawls like a spider 
 
-AMD's Radeon RX 9050, based on the Navi 44 model, is reportedly a lower-clocked option positioned below the RX 9060 series, aiming to challenge Nvidia's RTX 5050.
+Unitree Robotics unveiled a production-ready mecha robot, the GD01, in a video. The GD01 is capable of punching through walls and crawling like a spider. This robot is priced at $650,000.
 
-💡 *AMD challenges Nvidia's mid-range with lower-clocked Navi 44 model*
+💡 *Advancements in robotics could lead to new industrial and search applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112377-amd-8gb-radeon-rx-9050-desktop-card-could.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112397-unitree-reveals-650000-production-ready-piloted-mecha-punches.html)
+
+---
+
+### 14. Windows is getting a cloud feature that fixes bad drivers before they wreck your PC 
+
+Microsoft is introducing a cloud-based recovery process for problematic drivers that will automatically replace outdated or bad drivers with the next available version.
+
+💡 *Preventive driver updates to avoid PC damage*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112395-microsoft-new-cloud-initiated-driver-recovery-automatically-rolls.html)
+
+---
+
+### 15. UCF graduates boo commencement speaker for calling AI "the next industrial revolution" 
+
+UCF graduates booed their commencement speaker over AI remarks.
+
+💡 *Graduates react strongly to AI being compared to industrial revolution.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112390-ucf-graduates-boo-commencement-speaker-after-praises-ai.html)
 
 ---
 

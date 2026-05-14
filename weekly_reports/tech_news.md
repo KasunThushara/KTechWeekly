@@ -1,105 +1,135 @@
 # 📰 Tech News
-**Week of May 13, 2026**
+**Week of May 14, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-05-13 11:16
+- **Articles this week:** 12
+- **Report generated:** 2026-05-14 11:03
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. SpacemiT K3-powered DC-ROMA RISC-V motherboard III is made for the Framework Laptop 13 ⭐
+### 1. $499 case turns your PC into a liquid cooling masterpiece for your wall Portal Advanced comes with an integrated distribution plate and reservoir to start of your build 
 
-SpacemiT's K3-powered DC-ROMA RISC-V Mainboard III is designed for the Framework Laptop 13, offering 8x 64-bit RISC-V cores and up to 60 TOPS AI performance. The motherboard features up to 32GB RAM and an optional 1TB NVMe SSD. It's the third RISC-V mainboard for the Framework Laptop 13, following Intel processors and previous RISC-V variants.
+The Portal Advanced is a wall-mounted display case with liquid-cooling support, starting at $499. It features an integrated distribution plate and reservoir to facilitate a seamless build experience. This case is designed for users who want to showcase their PC builds.
 
-💡 *Framework Laptop 13 gains a powerful, modular RISC-V upgrade option.*
+💡 *Enhanced liquid cooling in a stylish, wall-mounted display case design*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/13/spacemit-k3-powered-dc-roma-risc-v-motherboard-iii-is-made-for-the-framework-laptop-13/)
-
----
-
-### 2. Broadcom BCM67142, BCM67192, and BCM68565 chips target low-cost WiFi 8 10 Gbps fiber access points ⭐
-
-Broadcom has introduced the BCM67142, BCM67192, and BCM68565 chips for low-cost residential Wi-Fi 8 access points and PON gateways with 10 Gbps fiber support.
-
-💡 *Enabling affordable high-speed internet access for low-income households worldwide.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/13/broadcom-bcm67142-bcm67192-and-bcm68565-chips-target-low-cost-wifi-8-10-gbps-fiber-access-points/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/usd499-case-turns-your-pc-into-a-liquid-cooling-masterpiece-for-your-wall-portal-advanced-comes-with-an-integrated-distribution-plate-and-reservoir-to-start-of-your-build)
 
 ---
 
-### 3. A stainless steel breakthrough could slash the cost of green hydrogen production ⭐
+### 2. Klipsch Pro Media Lumina Review: Slimmer subwoofer, even slimmer bass 
 
-Researchers have created a new stainless steel material (SS-H2) that can withstand conditions where conventional stainless steel fails. This breakthrough is part of the Super Steel research program, which has previously produced ultra-strong alloys and antimicrobial stainless steel. SS-H2 could lower the cost of green hydrogen production.
+Klipsch's ProMedia Lumina features customizable LED backlighting and a redesigned subwoofer for enhanced performance.
 
-💡 *Enabling cheaper green hydrogen production through improved materials science.*
+💡 *Slimmer subwoofer design maintains robust low-frequency sound quality reliably.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112373-stainless-steel-breakthrough-could-slash-cost-green-hydrogen.html)
-
----
-
-### 4. Microsoft's $1 billion Kenya AI data center could require switching off "half the country" 
-
-Microsoft's $1 billion Kenya AI data center may impact national power supply.
-
-💡 *Massive power requirements could severely impact Kenyan national energy grid.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112380-microsoft-1-billion-kenya-ai-data-center-could.html)
+🔗 [Read Full Article](https://www.tomshardware.com/speakers/klipsch-pro-media-lumina-review)
 
 ---
 
-### 5. Apple is rolling out end-to-end encryption for iPhone to Android RCS messages 
+### 3. ForkLift 4.6.2 refines one of macOS' favorite SFTP file managers 
 
-Apple introduces end-to-end encryption for iPhone RCS messages to Android devices, enhancing user security.
+ForkLift 4.6.2 refines its SFTP file management capabilities on macOS with improved Finder integration, enhanced checksum tool, and bug fixes.
 
-💡 *Secure messaging between iPhone and Android users is now possible*
+💡 *Streamlined file management for macOS users enhances productivity.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112372-end-end-encrypted-rcs-rolling-out-iphone-android.html)
-
----
-
-### 6. Innovative startup pioneers 3D printing with recycled glass new binder jet process combines powder with adhesive agent in layering technique 
-
-Vitriform3D uses post-consumer glass in their binder jet 3D printing process, reducing waste and promoting sustainability. The process combines powder with an adhesive agent in a layering technique. This innovative approach could revolutionize the 3D printing industry.
-
-💡 *Closed-loop recycling transforms waste glass into valuable 3D printing material.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/innovative-startup-pioneers-3d-printing-with-recycled-glass-new-binder-jet-process-combines-powder-with-adhesive-agent-in-layering-technique)
+🔗 [Read Full Article](https://www.techspot.com/downloads/6698-forklift.html)
 
 ---
 
-### 7. NextPCB Officially Launches Rev 0 PCBA An Automated, No-Touch Prototype Assembly Service Built for Speed and Predictability (Sponsored) 
+### 4. Sony Reon Pocket Pro Plus brings the personal cooling device to the US 
 
-NextPCB launches Rev 0 PCBA, a fully automated, no-touch prototype assembly service that eliminates traditional manufacturing obstacles and accelerates early hardware development. This service leverages NextPCB's award-winning DFM/DFA engine and eliminates the need for manual intervention or unpredictable delays. Rev 0 PCBA is designed for speed and predictability.
+Sony's Reon Pocket Pro Plus, a personal cooling device, has arrived in the US market. Originally developed in 2017 and crowdfunded in 2019, it has now expanded globally. This portable device offers a novel solution for temperature control.
 
-💡 *Accelerating hardware development with automated, no-touch prototype assembly workflows*
+💡 *Revolutionizing personal temperature control with wearable tech innovation*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/13/nextpcb-officially-launches-rev-0-pcba-an-automated-no-touch-prototype-assembly-service-built-for-speed-and-predictability/)
-
----
-
-### 8. Intel CEO promises partnership with Nvidia will produce "exciting new products" 
-
-Intel CEO Tan congratulates Nvidia CEO Huang on honorary doctorate, hints at partnership.
-
-💡 *Potential collaboration could drive innovation in accelerated computing and AI.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112381-intel-ceo-promises-partnership-nvidia-produce-exciting-new.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112393-sony-reon-pocket-pro-plus-brings-personal-cooling.html)
 
 ---
 
-### 9. ST notches market lead for in-car sensors 
+### 5. Louis Rossmann taunts Bambu Lab by hosting banned 3D Printer firmware fork, dares $1 billion company to sue him more creators pledge support and boycotts, Snapmaker donates equipment to embattled developer 
 
-European regulation is driving the adoption of in-car sensors to detect driver distraction and drowsiness, thus lifting occupant sensor growth. This trend is primarily driven by a need for increased road safety. Sensors are being integrated into vehicles to prevent accidents.
+Louis Rossmann hosts Bambu Lab's banned 3D printer firmware fork on his GitHub, daring legal action.
 
-💡 *Regulation boosts in-car sensor adoption for road safety reasons*
+💡 *3D printing community defies corporate control through open-source firmware forks.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/st-notches-market-lead-car-sensors)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/louis-rossmann-taunts-bambu-lab-by-hosting-banned-3d-printer-firmware-fork-dares-usd1-billion-company-to-sue-him-more-creators-pledge-support-and-boycotts-snapmaker-donates-equipment-to-embattled-developer)
+
+---
+
+### 6. Microsoft BitLocker-protected drives can now be opened with just some files on a USB stick YellowKey zero-day exploit demonstrates an apparent backdoor 
+
+Microsoft BitLocker-protected drives can be opened with files on a USB stick, potentially compromising security.
+
+💡 *Potential backdoor in Microsoft BitLocker raises security concerns for encrypted data.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor)
+
+---
+
+### 7. Microsoft launches Cloud Initiated Driver Recovery for remote rollback of faulty updates no user action or OEM intervention will be needed to handle broken drivers delivered via Windows Update 
+
+Microsoft introduces Cloud-Initiated Driver Recovery to minimize buggy driver issues, enabling remote rollback of faulty updates without user intervention. This reliability change aims to improve Windows stability and reduce downtime. Automatic recovery will be triggered by Windows Update.
+
+💡 *Automated driver recovery reduces downtime and minimizes user inconvenience.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-launches-cloud-initiated-driver-recovery-for-remote-rollback-of-faulty-updates-no-user-action-or-oem-intervention-will-be-needed-to-handle-broken-drivers-delivered-via-windows-update)
+
+---
+
+### 8. Google reportedly in talks with SpaceX to launch its orbital data centers partnership could mark a historic turning point and boost upcoming IPO 
+
+Google is reportedly in talks with SpaceX to launch its orbital data centers, a key component of its Project Suncatcher initiative. This partnership could mark a historic turning point in space-based infrastructure. It may also boost Google's upcoming IPO.
+
+💡 *Space-based data centers could revolutionize global cloud computing infrastructure.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-in-talks-with-spacex-to-launch-its-orbital-data-centers-partnership-could-mark-a-historic-turning-point-and-boost-upcoming-ipo)
+
+---
+
+### 9. Android Auto's biggest update in years delivers edge-to-edge Maps, Gemini, and HD video streaming 
+
+Android Auto receives its biggest update in years, featuring a Material 3 redesign and enhanced safety features.
+
+💡 *Improved user experience enhances driving safety and convenience.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112399-android-auto-update-delivers-fullscreen-google-maps-hd.html)
+
+---
+
+### 10. NAND contract prices surge over 600% since September 2025, DRAM up ~400% 
+
+NAND contract prices surge over 600% since September 2025, DRAM up ~400%, due to high demand from AI startups.
+
+💡 *High demand for memory by AI startups drives inflationary market.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112398-nand-contract-prices-surge-over-600-since-september.html)
+
+---
+
+### 11. Subnautica 2 playable build leaks online days before early access launch 
+
+Subnautica 2 gameplay and screenshots leaked online before early access launch.
+
+💡 *Early access game security compromised by unknown individual's actions.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112394-subnautica-2-playable-build-leaks-online-days-before.html)
+
+---
+
+### 12. Best of Sensors: InPlay's NanoBeacon targets temperature sensing 
+
+InPlay's NanoBeacon wins Best of Sensors 2026 for temperature sensing innovation.
+
+💡 *Advancements in SoC technology address temperature sensing accuracy limitations.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/best-sensors-inplays-nanobeacon-targets-temperature-sensing)
 
 ---
 

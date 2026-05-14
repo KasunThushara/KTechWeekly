@@ -1,386 +1,361 @@
 [
   {
-    "title": "Intel confirms Googlebook AI laptop partnership, opening x86 possibilities for new OS Google VP says devices to also ship with Qualcomm and MediaTek chips",
-    "summary": "Intel has officially confirmed its partnership with Googlebook as Google prepares a new lineup of Gemini-powered AI laptops.",
-    "link": "https://www.tomshardware.com/laptops/intel-confirms-googlebook-ai-laptop-partnership-opening-x86-possibilities-for-new-os-google-vp-says-devices-to-also-ship-with-qualcomm-and-mediatek-chips",
+    "title": "AMD reaches 46% of server x86 CPU revenue Intel still controls 70% of the consumer PC market share",
+    "summary": "AMD now commands 38.1% of total x86 CPU revenue share, skyrockets past 46.2% x86 server CPU market share, according to Mercury Research.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-reaches-46-percent-of-server-x86-cpu-revenue-intel-still-controls-70-percent-of-the-consumer-pc-market-share",
     "categories": [
-      "Semiconductors",
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-14T11:02:25.817519"
+  },
+  {
+    "title": "$499 case turns your PC into a liquid cooling masterpiece for your wall Portal Advanced comes with an integrated distribution plate and reservoir to start of your build",
+    "summary": "Singularity Computers has announced the Portal Advanced, an open wall-mounted display case with liquid-cooling support, starting at $499.",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/usd499-case-turns-your-pc-into-a-liquid-cooling-masterpiece-for-your-wall-portal-advanced-comes-with-an-integrated-distribution-plate-and-reservoir-to-start-of-your-build",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-14T11:02:25.817639"
+  },
+  {
+    "title": "Bitcoin trader recovers $400,000 using Claude AI after losing wallet password 11 years ago bot tried 3.5 trillion passwords before decrypting an old wallet backup",
+    "summary": "An X user shared how they were able to recover the password on their old cryptocurrency wallet using Claude and some luck.",
+    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.747413"
+    "processed_date": "2026-05-14T11:02:25.817740"
   },
   {
-    "title": "South Korean official proposes 'citizen dividend' payouts from AI windfall markets spooked by suggestion AI revenue should be redistributed to citizens",
-    "summary": "Kim Yong-beom, presidential chief of staff for policy, floated the idea of a \"national dividend\" in a Facebook post late Monday.",
-    "link": "https://www.tomshardware.com/tech-industry/south-korean-official-proposes-citizen-dividend-from-samsung-and-sk-hynix-tax-windfall-spooking-markets",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.747611"
-  },
-  {
-    "title": "Innovative startup pioneers 3D printing with recycled glass new binder jet process combines powder with adhesive agent in layering technique",
-    "summary": "A startup called Vitriform3D has developed an innovative 3D printing process that makes use of the abundance of post-consumer glass for raw material.",
-    "link": "https://www.tomshardware.com/3d-printing/innovative-startup-pioneers-3d-printing-with-recycled-glass-new-binder-jet-process-combines-powder-with-adhesive-agent-in-layering-technique",
+    "title": "Louis Rossmann taunts Bambu Lab by hosting banned 3D Printer firmware fork, dares $1 billion company to sue him more creators pledge support and boycotts, Snapmaker donates equipment to embattled developer",
+    "summary": "Louis Rossmann posted yet another YouTube video taunting the 3D printing juggernaut into taking legal action. In the video, he stated the contentious fork of OrcaSlicer-BambuLab was now hosted on his own FULU (Freedom from Unethical Limitations) Foundation GitHub.",
+    "link": "https://www.tomshardware.com/3d-printing/louis-rossmann-taunts-bambu-lab-by-hosting-banned-3d-printer-firmware-fork-dares-usd1-billion-company-to-sue-him-more-creators-pledge-support-and-boycotts-snapmaker-donates-equipment-to-embattled-developer",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.747781"
+    "processed_date": "2026-05-14T11:02:25.817853"
   },
   {
-    "title": "Why building a quiet PC is harder than you think what to know, and how to make your rig quieter",
-    "summary": "Building a quiet PC is a challenge, especially with high-power PCs but it is possible with effort focused on the right areas",
-    "link": "https://www.tomshardware.com/desktops/pc-building/why-building-a-quiet-pc-is-harder-than-you-think-what-to-know-and-how-to-make-your-rig-quieter",
+    "title": "49,000 Lake Tahoe residents could be left powerless as AI data centers inhale electricity supply power company looking to redirect power to 12 data centers, high demand plus a regulatory limbo equals a dim situation",
+    "summary": "Around 49,000 Lake Tahoe residents are finding out in the worst way that they might become literally powerless come May 2027, as provider NV Energy is poised to redirect the spice flow elsewhere, according to an article on Fortune.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/49-000-lake-tahoe-residents-could-be-left-powerless-as-ai-data-centers-inhale-electricity-supply-power-company-looking-to-redirect-power-to-12-data-centers-high-demand-plus-a-regulatory-limbo-equals-a-dim-situation",
     "categories": [
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.747939"
+    "processed_date": "2026-05-14T11:02:25.817978"
   },
   {
-    "title": "Google's new laptop platform, 'Googlebook,' leaks ahead of reveal event new laptops powered by Android and Google Gemini, meant to succeed Chromebook",
-    "summary": "Google has a new laptop platform coming out called the \"Googlebook\" and it's meant to replace or succeed Chromebook. It's powered by Android and \"designed for Gemini Intelligence.\" The main highlight is native integration with other Android devices and a \"Glowbar\" that dynamically reacts to what your Googlebook is doing.",
-    "link": "https://www.tomshardware.com/laptops/googles-new-laptop-platform-googlebook-leaks-ahead-of-reveal-event-new-laptops-powered-by-android-and-google-gemini-meant-to-succeed-chromebook",
+    "title": "Klipsch Pro Media Lumina Review: Slimmer subwoofer, even slimmer bass",
+    "summary": "Klipsch's new ProMedia Lumina brings customizable LED backlighting to the company's iconic PC speaker lineup and redesigns both the speakers and the subwoofer.",
+    "link": "https://www.tomshardware.com/speakers/klipsch-pro-media-lumina-review",
     "categories": [
       "Hardware",
-      "AI & ML"
+      "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.748111"
+    "quality_score": 10,
+    "processed_date": "2026-05-14T11:02:25.818069"
   },
   {
-    "title": "Trump administration reportedly debating ban on Chinese cellular modules in expansion of FCC crackdown potential restrictions could impact everything from smart devices and routers to connected cars and industrial IoT systems",
-    "summary": "A Financial Times report claims the Trump administration is considering restrictions on Chinese cellular modules as the FCC escalates its crackdown on Chinese communications technology, potentially affecting massive portions of the global IoT and electronics supply chain.",
-    "link": "https://www.tomshardware.com/tech-industry/trump-administration-reportedly-debating-ban-on-chinese-cellular-modules-in-expansion-of-fcc-crackdown-potential-restrictions-could-impact-everything-from-smart-devices-and-routers-to-connected-cars-and-industrial-iot-systems",
+    "title": "Asus Prime Z890-P Wifi Motherboard Review: Primed and ready for your Core Ultra processor",
+    "summary": "The Asus Prime Z890-P Wifi is a solid, all-around budget-class board for Z890 and the latest Core Ultra chips. However, other boards around its price offer compelling features and better value.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/asus-prime-z890-p-wifi-motherboard-review",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.748282"
-  },
-  {
-    "title": "TSMC allocates $20 billion to Arizona expansion project faces water and labor shortages, complicated by visa rules",
-    "summary": "TSMC's Fab 21 becomes profitable in the first year of operations, though TSMC continues to struggle with labor shortage, water shortage, and is concerned about the long-term power supply. Nevertheless, it allocates $20 billion on further development of the project.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-allocates-usd20-billion-to-arizona-expansion-project-faces-water-and-labor-shortages-complicated-by-visa-rules",
-    "categories": [
+      "Hardware",
       "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-13T11:14:40.748442"
+    "processed_date": "2026-05-14T11:02:25.818172"
   },
   {
-    "title": "Microsoft staunchly defends its new 'Low Latency Profile' for Windows 11 after community backlash says every other OS already boosts CPU speeds for quicker load times",
-    "summary": "After a new \"low Latency Profile\" for Windows 11 was discovered last week, the community has responded severely, criticizing Microsoft for suppressing a bigger issue. The company, however, is defending the decision on social media, saying that it's only doing what every other operating system already does.",
-    "link": "https://www.tomshardware.com/software/windows/microsoft-staunchly-defends-its-new-low-latency-profile-for-windows-11-after-community-backlash-says-every-other-os-already-boosts-cpu-speeds-for-quicker-load-times",
+    "title": "Japanese chemical giant JSR expands to Taiwan for EUV photoresist production near TSMC plant to fill missing chemical link to scale EUV materials",
+    "summary": "The plant, located in Yunlin County, is expected to come online as early as 2028 and will co-develop advanced photoresists with TSMC.",
+    "link": "https://www.tomshardware.com/tech-industry/jsr-builds-first-taiwan-photoresist-plant-as-japanese-materials-makers-race-to-embed-next-to-tsmc",
     "categories": [
-      "Hardware"
+      "Semiconductors",
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.748635"
+    "processed_date": "2026-05-14T11:02:25.818269"
   },
   {
-    "title": "Jensen Huang snubbed by White House for President Trump s China state visit Nvidia CEO not on roster, which includes Apple's Tim Cook and Elon Musk",
-    "summary": "Jensen Huang was reportedly not invited to President Trump's state visit to China, even though the Nvidia CEO has accompanied the U.S. president in several state visits across the globe. One expert says that this is a \"strong signal\" to Beijing that Washington won't budge on its stance of banning the export of high-end chips to China.",
-    "link": "https://www.tomshardware.com/tech-industry/jensen-huang-snubbed-by-white-house-for-president-trumps-china-state-visit-nvidia-ceo-not-on-roster-which-includes-apples-tim-cook-and-elon-musk",
+    "title": "Microsoft BitLocker-protected drives can now be opened with just some files on a USB stick YellowKey zero-day exploit demonstrates an apparent backdoor",
+    "summary": "Microsoft Bitlocker-protected drives can be opened with just some files on a stick",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
     "categories": [
-      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-14T11:02:25.818368"
+  },
+  {
+    "title": "AMD expands its Ryzen 9000 PRO lineup with six new SKUs, now featuring 3D V-Cache for the first time new workstation CPUs have up to 170W TDPs, available with OEMs later this year",
+    "summary": "The Ryzen 9000 family is expanding with six new PRO series models that break two rules: higher than 65W TDPs and 3D V-Cache stacked underneath the CCDs. It's the first time we're seeing 120W to 170W SKUs in this lineup, along with the introduction of X3D models. General availability beings in Q3 2026.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-expands-its-ryzen-9000-pro-lineup-with-six-new-skus-now-featuring-3d-v-cache-for-the-first-time-new-workstation-cpus-have-up-to-170w-tdps-available-with-oems-later-this-year",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-14T11:02:25.818498"
+  },
+  {
+    "title": "Microsoft launches Cloud Initiated Driver Recovery for remote rollback of faulty updates no user action or OEM intervention will be needed to handle broken drivers delivered via Windows Update",
+    "summary": "Microsoft introduces Cloud-Initiated Driver Recovery, an important Windows reliability change designed to minimize buggy driver mayhem.",
+    "link": "https://www.tomshardware.com/software/windows/microsoft-launches-cloud-initiated-driver-recovery-for-remote-rollback-of-faulty-updates-no-user-action-or-oem-intervention-will-be-needed-to-handle-broken-drivers-delivered-via-windows-update",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-14T11:02:25.818598"
+  },
+  {
+    "title": "Samsung's critical union negotiations break down eight days before planned 18-day chip factory strike that's projected to cost $700 million per day Korean PM calls emergency meeting as strike looms",
+    "summary": "South Korean Prime Minister Kim Min-seok responded by convening an emergency ministerial meeting.",
+    "link": "https://www.tomshardware.com/tech-industry/samsungs-last-ditch-union-talks-collapse-eight-days-before-planned-18-day-chip-factory-strike",
+    "categories": [
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.748811"
+    "processed_date": "2026-05-14T11:02:25.818703"
   },
   {
-    "title": "Amazon employees admit to using AI unnecessarily to pump up internal usage scores workers complain of intense pressure to use AI tools",
-    "summary": "Amazon is the latest hyperscaler where employees have been caught inflating AI token consumption to hit internal usage targets.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/big-tech-has-a-tokenmaxxing-habit",
+    "title": "Google reportedly in talks with SpaceX to launch its orbital data centers partnership could mark a historic turning point and boost upcoming IPO",
+    "summary": "Google is reportedly in talks to make Elon Musk's SpaceX its launch partner for its orbital data centers as part of its Project Suncatcher initiative.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-in-talks-with-spacex-to-launch-its-orbital-data-centers-partnership-could-mark-a-historic-turning-point-and-boost-upcoming-ipo",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.748954"
-  },
-  {
-    "title": "Compromised Mistral AI and TanStack packages may have exposed GitHub, cloud and CI/CD credentials in 'mini Shai Hulud' malware infection supply-chain campaign spreads across npm and AI developer ecosystems like wildfire",
-    "summary": "Microsoft says attackers compromised the mistralai PyPI package with malware that executed on import, while researchers link related npm compromises affecting TanStack and Mistral SDKs to the broader Mini Shai-Hulud supply-chain campaign.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/compromised-mistral-ai-and-tanstack-packages-may-have-exposed-github-cloud-and-ci-cd-credentials-in-mini-shai-hulud-malware-infection-supply-chain-campaign-spreads-across-npm-and-ai-developer-ecosystems-like-wildfire",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-13T11:14:40.749126"
-  },
-  {
-    "title": "Dell SupportAssist update is crashing PCs with constant blue screens and reboot loops the boot service built for system recovery is the culprit of unending instability",
-    "summary": "SupportAssist Remediation is a background service that Dell bundles on its Windows PCs to automate system recovery and repair tasks, and a recent update is reportedly causing BSOD loops.",
-    "link": "https://www.tomshardware.com/software/windows/dell-supportassist-update-is-crashing-pcs-with-constant-blue-screens-and-reboot-loops",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.749277"
-  },
-  {
-    "title": "Standard 90-day vulnerability disclosure policy is likely dead thanks to AI, expert warns that AI can weaponize patches in 30 minutes LLM-assisted bug-hunting ushers in a new cyberworld order",
-    "summary": "AI-assisted bug detection has massively accelerated the timeline in which new security vulnerabilities are discovered, and one researcher argues that has killed the standard 90-day disclosure policy.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/standard-90-day-vulnerability-disclosure-policy-is-likely-dead-thanks-to-ai-leaving-worlds-systems-exposed-to-zero-day-attacks-security-expert-details-how-llm-assisted-bug-hunting-ushers-in-a-new-cyberworld-orders",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-13T11:14:40.749428"
-  },
-  {
-    "title": "Build the perfect RTX 5070 Ti gaming PC for $2074 Save $769 on 32GB of Corsair RAM, 9850X3D, 2TB Samsung 9100 Pro SSD, and more",
-    "summary": "A near-complete gaming PC bundle from Newegg saves you $769. The combo includes a 9850X3D, RTX 5070 Ti, 2TB SSD, 32GB of DDR5 RAM, 240mm AIO cooler, and an X870E motherboard for $2074.",
-    "link": "https://www.tomshardware.com/pc-components/build-the-perfect-rtx-5070-ti-gaming-pc-for-usd2074-save-usd769-on-32gb-of-corsair-ram-9850x3d-2tb-samsung-9100-pro-ssd-and-more",
-    "categories": [
-      "GPUs",
+      "Tech News",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.749596"
+    "processed_date": "2026-05-14T11:02:25.818804"
   },
   {
-    "title": "NASA partners with Microchip to build next-generation spaceflight chips with 100x the power of current offerings chip designed to withstand radiation for extended missions on the Moon and Mars",
-    "summary": "The public-private partnership aims to develop an SoC that offers 100x the computing power of current chips designed for spaceflight. NASA envisions that the technologies developed from this project will also be widely implemented on Earth-bound applications, like the automotive and aerospace industries.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/nasa-partners-with-microchip-to-build-next-generation-spaceflight-chips-with-100x-the-power-of-current-offerings-chip-designed-to-withstand-radiation-for-extended-missions-on-the-moon-and-mars",
+    "title": "SSD prices skyrocket by 300% in Japan, bringing 8TB Samsung 9100 drive to an eye-watering $3,500 industry continues to reckon with the ongoing AI storage crunch",
+    "summary": "Samsung SSDs saw massive price hikes across multiple Japanese PC retailers, with prices going up to $3,500 for 8TB drives.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/ssd-prices-skyrocket-by-300-percent-in-japan-bringing-8tb-samsung-9100-drive-to-an-eye-watering-usd3-500-industry-continues-to-reckon-with-the-ongoing-ai-storage-crunch",
     "categories": [
-      "Semiconductors",
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-14T11:02:25.818902"
+  },
+  {
+    "title": "EU considers running undersea cable under the North Pole to link Europe to Asia Polar Connect aims to bypass the Strait of Hormuz and Russia by 2030",
+    "summary": "The EU is planning an undersea cable that goes under the North Pole to connect to Asia. This route avoids geopolitical hotspots like the Red Sea and the Persian Gulf but will have to weather the harsh Arctic.",
+    "link": "https://www.tomshardware.com/tech-industry/eu-considers-running-undersea-cable-under-the-north-pole-to-link-europe-to-asia-polar-connect-aims-to-bypass-the-strait-of-hormuz-and-russia-by-2030",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.749781"
+    "processed_date": "2026-05-14T11:02:25.819006"
   },
   {
-    "title": "NextPCB Officially Launches Rev 0 PCBA An Automated, No-Touch Prototype Assembly Service Built for Speed and Predictability (Sponsored)",
-    "summary": "NextPCB today announced the official launch of Rev 0 PCBA, a fully automated, no-touch prototype assembly workflow engineered to eliminate traditional manufacturing obstacles and dramatically accelerate early hardware development. Rev 0 PCBA introduces a new era of rapid prototyping by automating the entire front end workflow from file upload to assembly without engineering queries, manual intervention, or unpredictable delays or costs. Rev 0 PCBA was born from countless conversations with engineers. The EQ email loop kept coming up as the biggest momentum killer, so we built a workflow that removes it entirely. By integrating DFM directly into the process, we ve created a no touch path from screen to factory floor no delays, no back and forth, just clean, confident verified builds. And with our new Jiangmen Smart Manufacturing Base, we can deliver those builds with ultra-fast, reliable production. said Ivy Li, head of international business development at NextPCB. Rev 0 PCBA leverages NextPCB s award winning DFM/DFA engine [...] The post NextPCB Officially Launches Rev 0 PCBA An Automated, No-Touch Prototype Assembly Service Built for Speed and Predictability (Sponsored) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/13/nextpcb-officially-launches-rev-0-pcba-an-automated-no-touch-prototype-assembly-service-built-for-speed-and-predictability/",
+    "title": "PortaRF single board SDR mixes HackRF One and PortaPack H4M hardware, adds AI voice control",
+    "summary": "Designed by OpenSourceSDRLab, the PortaRF is an open-source software-defined radio (SDR) that integrates HackRF One and the PortaPack H4M into a single device. It s a standalone device that supports transmitting and receiving radio signals from 1 MHz to 6 GHz. Traditionally, a portable HackRF setup meant stacking a PortaPack on top of the main board. PortaRF replaces this with a single PCB, making it more compact, easier to use, and with improved signal quality. It also adds a larger display, more flash, and a bigger battery. PortaRF specifications: MCU NXP LPC432 dual core ARM Cortex M4/M0 (LPC4320FBD144) microcontroller CPLD Xilinx XC2C64A CoolRunner-II AGM AG256SL100 RF ICs MAX2837 2.3GHz to 2.7GHz Wireless Broadband RF Transceiver RFFC5072 Wideband Synthesizer/VCO with Integrated 30MHz to 6 GHz Mixer Frequency range 1 MHz to 6 GHz (Transmit and Receive) Storage 2MB SPI Flash (W25Q16DV) provides more space for the Mayhem firmware MicroSD card slot [...] The post PortaRF single board SDR mixes HackRF One and PortaPack H4M hardware, adds AI voice control appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/14/portarf-single-board-sdr-mixes-hackrf-one-and-portapack-h4m-hardware-adds-ai-voice-control/",
     "categories": [
       "Hardware",
-      "Tech News"
+      "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.750651"
+    "quality_score": 10,
+    "processed_date": "2026-05-14T11:02:25.819567"
   },
   {
-    "title": "SpacemiT K3-powered DC-ROMA RISC-V motherboard III is made for the Framework Laptop 13",
-    "summary": "Another day, another SpacemiT K3 device is released, namely Deep Computing DC-ROMA RISC-V Mainboard III for Framework Laptop 13, following the K3 Pico-ITX SBC and K3-CoM260 (and related Jupiter 2 and Banana Pi BPI-SM10) on Monday, and the Firefly AIBOX-K3 on Tuesday. Initially launched with Intel processors, the Framework Laptop 13 repairable and modular laptop had already got a RISC-V motherboard with the StarFive JH7110-based DC-ROMA RISC-V Mainboard in 2024, followed by an ESWIN EIC7702X variant the next year. The third RISC-V mainboard features the octa-core K3 64-bit RISC-V SoC with up to 60 TOPS (Sparse) of AI performance, up to 32GB RAM, and an optional 1TB NVMe SSD. Specifications of the Framework Laptop 13 with DC-ROMA RISC-V Mainboard III: SoC SpacemiT K3 CPU 8x 64-bit RISC-V X100 big cores clocked up to 2.4 GHz, RVA23 compliance; 130 KDMIPS performance (similar to RK3588) 8x RISC-V A100 AI Cores with [...] The post SpacemiT K3-powered DC-ROMA RISC-V motherboard III is made for the Framework Laptop 13 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/13/spacemit-k3-powered-dc-roma-risc-v-motherboard-iii-is-made-for-the-framework-laptop-13/",
+    "title": "Clawdmeter A DIY ESP32-S3 desk dashboard for Claude Code token usage monitoring",
+    "summary": "Clawdmeter is a DIY ESP32-S3-powered desk dashboard that displays Claude Code token usage on a 2.16-inch AMOLED screen so you know when you re about to reach the limits in real time. It s mostly a firmware project since it relies on off-the-shelf hardware (Waveshare ESP32-S3-Touch-AMOLED-2.16). It leverages the LVGL library for its graphics user interface, the NimBLE stack for Bluetooth LE (BLE) communication, and also functions as a HID keyboard for shortcuts using the buttons from the unit. We previously covered Waveshare ESP32-S3-Touch-AMOLED-1.8 with a 1.8-inch display, but never the 2.16-inch variant, so let s have a quick look at the hardware first. ESP32-S3-Touch-AMOLED-2.16 specifications: Wireless MCU Espressif Systems ESP32-S3R8 CPU Dual-core Tensilica LX7 @ up to 240 MHz with vector instructions for AI acceleration. Memory 512KB RAM, 8MB PSRAM ROM 384KB Connectivity 2.4 GHz WiFi 4 and Bluetooth 5.0 LE Storage 16MB NOR flash MicroSD card slot [...] The post Clawdmeter A DIY ESP32-S3 desk dashboard for Claude Code token usage monitoring appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/14/clawdmeter-a-diy-esp32-s3-desk-dashboard-for-claude-code-token-usage-monitoring/",
     "categories": [
       "Hardware",
-      "Tech News"
+      "Semiconductors"
     ],
-    "quality_score": 25,
-    "processed_date": "2026-05-13T11:14:40.750891"
+    "quality_score": 10,
+    "processed_date": "2026-05-14T11:02:25.819741"
   },
   {
-    "title": "Broadcom BCM67142, BCM67192, and BCM68565 chips target low-cost WiFi 8 10 Gbps fiber access points",
-    "summary": "Broadcom has recently announced the BCM67142 and BCM67192 WiFi 8 (802.11bn) chips for low-cost residential access points, and the BCM68565 PON Gateway SoC with 10 Gbps Fiber support to enable complete broadband access points. The announcement follows the launch of the company s flagship residential (BCM6718) and enterprise (BCM43840/BCM43820) platforms last year, with the new chips aiming to provide value-focused residential Wi-Fi 8 and 10G PON gateway solutions. Broadcom BCM67142 and BCM67192 WiFi 8 access point chips BCM67142/BCM67192 specifications: Wi-Fi Standards IEEE 802.11bn (Wi-Fi 8) compliant IEEE 802.11be (Wi-Fi 7) compliant IEEE 802.11 a/b/g/n/ac/ax Spatial Streams BCM67142 Dual-Radio: 3 3 (2.4 GHz) + 4 4 (5 GHz). Total 7 streams BCM67192 Dual-Radio: 4 4 (2.4 GHz) + 4 4 (5 GHz). Total 8 streams Spectral Bands 2.4 GHz, 5 GHz Channel Bandwidths 20/40 MHz (2.4 GHz), 20/40/80/160 MHz (5 GHz) Highest Modulation Rate 4096-QAM (for UHR/Wi-Fi 8 operation) Multi-Link Operation [...] The post Broadcom BCM67142, BCM67192, and BCM68565 chips target low-cost WiFi 8 10 Gbps fiber access points appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/13/broadcom-bcm67142-bcm67192-and-bcm68565-chips-target-low-cost-wifi-8-10-gbps-fiber-access-points/",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-05-13T11:14:40.751137"
-  },
-  {
-    "title": "SONOFF Hydro DUO A dual-channel Zigbee 3.0 smart water valve with flow meter",
-    "summary": "SONOFF Hydro DUO is a dual-channel Zigbee 3.0 and Bluetooth 5 LE smart water valve with up to 12 customized watering schedules, a flow meter, and alerts for frost risk, leakage, low battery, and water shortages. Paisit previously reviewed the SONOFF SWV smart water valve, but the company has now launched the Hydro series with various improvements, including a brass inlet instead of a plastic one, weather-based skipping, real-time alerts, flow metering, and dual Zigbee + BLE so it can work even without a Zigbee gateway. The single-channel Hydro models were introduced earlier this year, and now the Hydro DUO offers a variant with two outlets to manage two watering zones. SONOFF Hydro DUO (SWV-ZF2U/SWV-ZF2E) specifications: MCU Telink TLSR8258 (TLSR8258F1KAT32) multiprotocol microcontroller @ 48 MHz with BLE 5 and Zigbee 3.0, RF4CE, Thread, 6LoWPAN, HomeKit, ANT, and 2.4GHz proprietary connectivity Inlets SWV-ZF2U model NH (National Hose) pipe thread [...] The post SONOFF Hydro DUO A dual-channel Zigbee 3.0 smart water valve with flow meter appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/13/sonoff-hydro-duo-a-dual-channel-zigbee-3-0-smart-water-valve-with-flow-meter/",
+    "title": "DEEPX DX-AIPlayer N97 mini PC combines Intel N97 SoC and 25 TOPS DX-M1 AI accelerator",
+    "summary": "DEEPX has just launched the DX-AIPlayer, an ultra-compact edge AI mini PC with an Intel Processor Alder Lake-N N97 SoC and the company s DX-M1 M.2 AI accelerator module. The system is designed for real-time vision AI applications in robotics, smart cities, and factory automation. We ve seen plenty of Alder Lake-N mini PCs like the Jetway B420UADN1, the Avalue EPC-ASL, the AAEON UP 710S, and various others, but the DX-AIPlayer N97 is different as it integrates the DX-M1 module via an M.2 2280 M-Key (PCIe Gen 3 x4) slot. The NPU delivers up to 25 TOPS of INT8 AI performance while consuming only 1 to 5 Watts of power, and features 4GB of dedicated LPDDR5 memory to handle larger workloads and multi-model execution without bottlenecking the host system s RAM. DEEPX DX-AIPlayer N97 specifications: SoC Intel Processor N97 quad-core processor up to 3.6 GHz with 6MB cache, 24 EU Intel UHD graphics [...] The post DEEPX DX-AIPlayer N97 mini PC combines Intel N97 SoC and 25 TOPS DX-M1 AI accelerator appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/14/deepx-dx-aiplayer-n97-mini-pc-combines-intel-n97-soc-and-25-tops-dx-m1-ai-accelerator/",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 20,
-    "processed_date": "2026-05-13T11:14:40.751390"
+    "processed_date": "2026-05-14T11:02:25.819906"
   },
   {
-    "title": "SiFive introduces RVA23-compliant Performance P570 Gen3 RISC-V core for consumer and AIoT applications",
-    "summary": "SiFive has just launched the SiFive Performance P570 Gen 3 out-of-order RISC-V processor core, compliant with the RVA23 ISA profile, and designed for edge AI, high-end consumer, and commercial IoT applications running Android or enterprise-grade OS. Besides the CPU core, SiFive also provides system IP, such as the RISC-V standard-compliant advanced interrupt architecture (AIA), WorldGuard security, and a second-generation RISC-V standard-compliant IOMMU to build a complete SoC with up to 16x P570 Gen 3 cores. Performance P570 Gen3 specifications: Support for all mandatory RVA23 profile extensions for compatibility with modern operating systems such as Ubuntu 26.04 LTS and Red Hat Enterprise Adds extensions for enhanced security and performance, including Smepmp, Zvkng, Zvksg, Zicfilp, Zicfiss, Zfbfmin, Zvfbfmin, Zvfbfwma, and Zvdot4a8i Third-generation out-of-order core building on earlier P550 Gen1 and P470 Gen2 cores 3-wide, 13-stage fully out of order execution superscalar pipeline Single 128-bit vector pipeline with dot product extensions Supports multicore coherence [...] The post SiFive introduces RVA23-compliant Performance P570 Gen3 RISC-V core for consumer and AIoT applications appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/12/sifive-performance-p570-gen3-rva23-compliant-risc-v-core-consumer-aiot-applications/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 25,
-    "processed_date": "2026-05-13T11:14:40.751677"
-  },
-  {
-    "title": "ST notches market lead for in-car sensors",
-    "summary": "European regulation is driving adoption of sensors to detect driver distraction and drowsiness and lifting occupant sensor growth as well",
-    "link": "https://www.fiercesensors.com/sensors/st-notches-market-lead-car-sensors",
+    "title": "Best of Sensors: InPlay's NanoBeacon targets temperature sensing",
+    "summary": "InPlay won a Best of Sensors 2026 award for an SoC that addresses temperature sensing challenges.",
+    "link": "https://www.fiercesensors.com/sensors/best-sensors-inplays-nanobeacon-targets-temperature-sensing",
     "categories": [
       "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-05-13T11:14:40.752855"
+    "processed_date": "2026-05-14T11:02:25.820947"
   },
   {
-    "title": "OpenAI sued after ChatGPT allegedly gave drug advice that led to teen's fatal overdose",
-    "summary": "Leila Turner-Scott and her husband, Angus Scott, say their son Sam started using ChatGPT during his senior year of high school in 2023 for help with homework and troubleshooting computer issues. Read Entire Article",
-    "link": "https://www.techspot.com/news/112392-openai-sued-after-chatgpt-allegedly-gave-drug-advice.html",
+    "title": "Nvidia adds the RTX 5060 Ti to its 007 First Light game bundle",
+    "summary": "Nvidia's latest game bundle includes one of our most anticipated PC titles of 2026: 007 First Light, which tells an original origin story charting James Bond's early days. Read Entire Article",
+    "link": "https://www.techspot.com/news/112406-nvidia-adds-rtx-5060-ti-007-first-light.html",
     "categories": [
-      "AI & ML",
+      "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.753299"
+    "processed_date": "2026-05-14T11:02:25.821354"
   },
   {
-    "title": "Google's Googlebook is the Android laptop OS we've been waiting for",
-    "summary": "Google devoted much of its Android Show event to Googlebook, a new operating system and product line designed to replace Chromebooks, with an emphasis on both local and cloud processing. Read Entire Article",
-    "link": "https://www.techspot.com/news/112387-google-googlebook-android-laptop-os-weve-waiting.html",
+    "title": "Nearly 50,000 Lake Tahoe residents have one year to find new power as their utility pivots to data centers",
+    "summary": "A Nevada energy company recently informed a nearby California utility provider that it will no longer supply electricity to 49,000 Lake Tahoe customers after May 2027. Although the decision is not tied to a specific AI data center, data centers have grown their footprint in Nevada significantly in recent years. Read Entire Article",
+    "link": "https://www.techspot.com/news/112403-nearly-50000-lake-tahoe-residents-have-one-year.html",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.753454"
+    "processed_date": "2026-05-14T11:02:25.821530"
   },
   {
-    "title": "Amazon employees are inflating AI usage to top leaderboards and impress managers",
-    "summary": "Three Amazon employees told The Financial Times that the company's internal AI usage metrics are likely inflated. According to the sources, employees are using MeshClaw, Amazon's internal AI platform, to perform non-essential tasks in an effort to make a stronger impression on managers. Read Entire Article",
-    "link": "https://www.techspot.com/news/112386-amazon-employees-using-internal-ai-tools-inflate-usage.html",
+    "title": "Android Auto's biggest update in years delivers edge-to-edge Maps, Gemini, and HD video streaming",
+    "summary": "The updated Android Auto brings a complete Material 3 Expressive design overhaul, including expressive typography, smooth animations, and vibrant wallpapers. It is the biggest update to the platform since the 2023 \"Coolwalk\" redesign, which introduced a dynamic interface, split-screen multitasking, a revamped dock, and enhanced safety features. Read Entire Article",
+    "link": "https://www.techspot.com/news/112399-android-auto-update-delivers-fullscreen-google-maps-hd.html",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.753646"
+    "processed_date": "2026-05-14T11:02:25.821649"
   },
   {
-    "title": "eBay rejects GameStop's $56B unsolicited offer as \"neither credible nor attractive\"",
-    "summary": "In the letter, which was also shared online, the executive said the board and its independent advisors thoroughly reviewed GameStop's proposal before making a decision. Read Entire Article",
-    "link": "https://www.techspot.com/news/112384-ebay-rejects-gamestop-56b-unsolicited-offer-neither-credible.html",
+    "title": "The EU is going after TikTok and Meta over addictive algorithms and child safety failures",
+    "summary": "Von der Leyen stated that the EC one of the European Union's highest governing bodies is taking action against TikTok and Meta's social media platforms, including Facebook and Instagram. The video-sharing platform and Meta's services are said to rely on engagement-driven features such as endless scrolling, auto-play, and... Read Entire Article",
+    "link": "https://www.techspot.com/news/112400-european-union-moves-crack-down-addictive-social-media.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-14T11:02:25.821763"
+  },
+  {
+    "title": "NAND contract prices surge over 600% since September 2025, DRAM up ~400%",
+    "summary": "You've no doubt heard the short version of this story time and again: AI startups are gobbling up all of the memory that manufacturers can produce, leaving traditional electronics firms to fight for the remaining scraps. In all situations, that means heavily inflated prices and for some near the bottom... Read Entire Article",
+    "link": "https://www.techspot.com/news/112398-nand-contract-prices-surge-over-600-since-september.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-14T11:02:25.821868"
+  },
+  {
+    "title": "ForkLift 4.6.2 refines one of macOS' favorite SFTP file managers",
+    "summary": "ForkLift is one our favorite SFTP/SSH file manager for macOS, alongside WinSCP on Windows. ForkLift 4.6.2 improves Finder integration, checksum tool with CSV export support, and fixes for icon preview glitches on macOS Sequoia. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/6698-forklift.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-14T11:02:25.821965"
+  },
+  {
+    "title": "Google Nest Wifi Pro three-pack hits new $229 record low",
+    "summary": "Google's Nest Wifi Pro three-pack has dropped to a new low of $229 at Woot, undercutting its usual $299 price while still offering one of the easiest mesh setups around. The Wi-Fi 6E system adds access to the cleaner 6 GHz band, recent software updates have improved mesh stability and roaming. It also doubles as a Matter and Thread hub for modern smart home devices. Read Entire Article",
+    "link": "https://www.techspot.com/products/routers/google-nest-wifi-pro.263047/",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-14T11:02:25.822071"
+  },
+  {
+    "title": "The humble desktop monitor is quietly having its best years, and gamers are fully responsible",
+    "summary": "Research firm Omdia reports that desktop monitor manufacturers shipped 133.4 million units in 2025. The market grew by a solid 4.3% year over year, recovering from the \"disruption\" that followed the Covid-19 pandemic. Omdia said that classic desktop monitors are evolving into more versatile, high-end visual devices in a laptop-dominated world. Read Entire Article",
+    "link": "https://www.techspot.com/news/112389-humble-desktop-monitor-quietly-having-best-years-gamers.html",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-13T11:14:40.753804"
+    "processed_date": "2026-05-14T11:02:25.822184"
   },
   {
-    "title": "Arm CEO predicts CPUs will scale to extreme core counts in AI-driven future",
-    "summary": "During a recent earnings call for the fourth quarter of fiscal year 2026, Arm executives shared some interesting insights into the company's outlook on the future of computing devices. According to CEO Rene Haas, CPUs will eventually surpass GPUs in terms of total compute cores. And yes, you guessed it:... Read Entire Article",
-    "link": "https://www.techspot.com/news/112371-arm-ceo-predicts-cpus-scale-extreme-core-counts.html",
+    "title": "Googlebooks will feature Intel, Qualcomm, and MediaTek chips, and follow Google's strict hardware guidelines",
+    "summary": "In an interview with Chrome Unboxed, Google VP John Maletis claimed that, unlike Chromebooks, Googlebook will be positioned as a premium brand offering a high-end user experience. He added that although the devices will be manufactured by third-party OEMs, Google will enforce strict hardware guidelines to ensure a consistent experience... Read Entire Article",
+    "link": "https://www.techspot.com/news/112396-googlebooks-feature-intel-qualcomm-mediatek-chips-follow-google.html",
     "categories": [
-      "AI & ML",
+      "Semiconductors",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.753970"
+    "processed_date": "2026-05-14T11:02:25.822296"
   },
   {
-    "title": "Meta is using its own employees' activity to train AI, and laying off 8,000 of them at the same time",
-    "summary": "Meta said the data will help its AI systems learn how people complete everyday tasks on a computer. Read Entire Article",
-    "link": "https://www.techspot.com/news/112360-meta-using-own-employees-activity-train-ai-laying.html",
+    "title": "Unitree reveals $650,000 production-ready mecha that punches through walls and crawls like a spider",
+    "summary": "Chinese firm Unitree Robotics maker of several robot models, including \"budget\" models revealed the GD01 in a video with a suitably pounding rock soundtrack. Read Entire Article",
+    "link": "https://www.techspot.com/news/112397-unitree-reveals-650000-production-ready-piloted-mecha-punches.html",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.754129"
+    "processed_date": "2026-05-14T11:02:25.822389"
   },
   {
-    "title": "FluentCleaner brings back the classic PC cleaner idea, without the bloat",
-    "summary": "Inspired by the early days of CCleaner , FluentCleaner is a cleanup utility that focuses on removing temporary files, browser cache, logs, and leftover clutter without aggressive registry cleaning or scareware tactics. The app also supports community-maintained cleaning databases and optional extensions. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7876-fluentcleaner.html",
+    "title": "Windows is getting a cloud feature that fixes bad drivers before they wreck your PC",
+    "summary": "According to an official Microsoft blog post, the cloud-based recovery process will be initiated if a driver is identified as problematic during evaluation. In such cases, the company will reject publishing requests for said driver before replacing it with the next best available version. The process will not be initiated... Read Entire Article",
+    "link": "https://www.techspot.com/news/112395-microsoft-new-cloud-initiated-driver-recovery-automatically-rolls.html",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.754297"
+    "processed_date": "2026-05-14T11:02:25.822525"
   },
   {
-    "title": "Samsung put Dua Lipa's face on TV boxes without asking. Now she's suing for $15 million",
-    "summary": "Lipa filed the lawsuit in California on May 8. It alleges Samsung prominently displayed a photograph of her face on television models sold in the US without \"her knowledge, without consideration, and as to which she had no say, control, or input whatsoever.\" Read Entire Article",
-    "link": "https://www.techspot.com/news/112383-samsung-blames-content-partner-after-dua-lipa-files.html",
+    "title": "Subnautica 2 playable build leaks online days before early access launch",
+    "summary": "Subnautica 2, one of our most anticipated PC games of 2026, arrives in early access on Thursday, May 14. But a clip of PC gameplay and screenshots appeared on Reddit yesterday. As reported by IGN, fans say an unknown person somehow got ahold of a copy and streamed the game last night. Read Entire Article",
+    "link": "https://www.techspot.com/news/112394-subnautica-2-playable-build-leaks-online-days-before.html",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.754452"
-  },
-  {
-    "title": "Intel CEO promises partnership with Nvidia will produce \"exciting new products\"",
-    "summary": "The update came via Tan's latest post on X, in which he congratulated Nvidia CEO Jensen Huang on receiving an Honorary Doctorate in Science and Technology from Carnegie Mellon University for his contributions to accelerated computing and AI. Huang chose to receive the award from Tan, who posted photos from... Read Entire Article",
-    "link": "https://www.techspot.com/news/112381-intel-ceo-promises-partnership-nvidia-produce-exciting-new.html",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.754648"
-  },
-  {
-    "title": "Porsche Taycan reclaims N rburgring EV record from the world's fastest rivals",
-    "summary": "Porsche's approach is less about chasing extremes and more about refining every variable that affects lap performance. Manthey Racing best known for its work on N rburgring-dominating 911 variants applied a familiar formula to the Taycan: incremental improvements across software, aerodynamics, and chassis hardware. Read Entire Article",
-    "link": "https://www.techspot.com/news/112376-porsche-upgraded-taycan-reclaimed-nrburgring-ev-record-world.html",
-    "categories": [
-      "AI & ML",
+      "Tech News",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-05-13T11:14:40.754823"
+    "quality_score": 5,
+    "processed_date": "2026-05-14T11:02:25.822633"
   },
   {
-    "title": "Microsoft's $1 billion Kenya AI data center could require switching off \"half the country\"",
-    "summary": "The project was announced in May 2024 during Kenyan President William Ruto's state visit to Washington. G42 was expected to lead construction of the Olkaria facility in Kenya's Rift Valley, with Microsoft using it to launch a new East Africa cloud region for Azure. The first phase was supposed to... Read Entire Article",
-    "link": "https://www.techspot.com/news/112380-microsoft-1-billion-kenya-ai-data-center-could.html",
+    "title": "Google \"Gemini Intelligence\" shows off agentic Android 17 features that Apple has yet to deliver with Siri",
+    "summary": "The latest Google Pixel and Samsung Galaxy phones will begin receiving new automation features from Gemini this summer. The updates will come to other devices, such as smartwatches, vehicles, glasses, and laptops, later this year. Read Entire Article",
+    "link": "https://www.techspot.com/news/112388-google-gemini-intelligence-shows-off-agentic-android-17.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-14T11:02:25.822733"
+  },
+  {
+    "title": "Sony Reon Pocket Pro Plus brings the personal cooling device to the US",
+    "summary": "Sony started development of the Reon back in 2017. A crowdfunding campaign ran in 2019 for the Reon Pocket ahead of its launch in Japan, and it eventually expanded to the West. Read Entire Article",
+    "link": "https://www.techspot.com/news/112393-sony-reon-pocket-pro-plus-brings-personal-cooling.html",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-13T11:14:40.754993"
+    "processed_date": "2026-05-14T11:02:25.822832"
   },
   {
-    "title": "The FCC has banned new foreign-made routers, but existing ones can keep receiving updates until 2029",
-    "summary": "The change leaves the FCC's broader policy intact. Rules adopted in March block approval of new consumer routers manufactured outside the United States, part of an effort the commission says targets national security risks in foreign supply chains. That restriction remains in place, with exemptions granted selectively to companies the... Read Entire Article",
-    "link": "https://www.techspot.com/news/112374-fcc-banning-new-foreign-made-routers-but-existing.html",
+    "title": "UCF graduates boo commencement speaker for calling AI \"the next industrial revolution\"",
+    "summary": "The crowd did not take the comments quietly. What began as scattered murmurs quickly built into loud, sustained boos. Read Entire Article",
+    "link": "https://www.techspot.com/news/112390-ucf-graduates-boo-commencement-speaker-after-praises-ai.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.755169"
-  },
-  {
-    "title": "Apple is rolling out end-to-end encryption for iPhone to Android RCS messages",
-    "summary": "iPhone owners who want to text users of non-Apple devices more securely should install iOS 26.5, which Apple released on Monday. The update introduces support for end-to-end encryption when using Rich Communication Services (RCS). The encryption, which makes messages unreadable outside the sending and receiving devices, is available to users... Read Entire Article",
-    "link": "https://www.techspot.com/news/112372-end-end-encrypted-rcs-rolling-out-iphone-android.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-13T11:14:40.755364"
-  },
-  {
-    "title": "A stainless steel breakthrough could slash the cost of green hydrogen production",
-    "summary": "The material, known as SS-H2, is designed to remain stable where conventional stainless steel fails. The work, published in Materials Today, builds on Huang's long-running Super Steel research program, which has previously produced ultra-strong alloys and antimicrobial stainless steel. Read Entire Article",
-    "link": "https://www.techspot.com/news/112373-stainless-steel-breakthrough-could-slash-cost-green-hydrogen.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-05-13T11:14:40.755542"
-  },
-  {
-    "title": "AMD's 8GB Radeon RX 9050 could arrive soon to challenge Nvidia's RTX 5050",
-    "summary": "According to VideoCardz's report, the Radeon RX 9050 will be a lower-clocked Navi 44 model positioned below the Radeon RX 9060 series in AMD's product stack. Read Entire Article",
-    "link": "https://www.techspot.com/news/112377-amd-8gb-radeon-rx-9050-desktop-card-could.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-13T11:14:40.755728"
+    "processed_date": "2026-05-14T11:02:25.822922"
   }
 ]
