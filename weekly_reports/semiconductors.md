@@ -1,83 +1,65 @@
 # ⚡ Semiconductors
-**Week of May 14, 2026**
+**Week of May 15, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-05-14 11:03
+- **Articles this week:** 5
+- **Report generated:** 2026-05-15 11:06
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Asus Prime Z890-P Wifi Motherboard Review: Primed and ready for your Core Ultra processor 
+### 1. M5Stack PaperColor ESP32-S3 devkit features 4-inch E Ink Spectra 6 color display ⭐
 
-The Asus Prime Z890-P Wifi is a solid, all-around budget-class board for Z890 and the latest Core Ultra chips. However, other boards around its price offer compelling features and better value.
+The M5Stack PaperColor ESP32-S3 devkit features a 4-inch full-color E Ink display, offering low power consumption and high visibility under strong lights. It's equipped with various sensors, buttons, LEDs, and a speaker, and includes a rechargeable 1250 mAh battery. The device supports WiFi, Bluetooth, and microSD storage.
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/asus-prime-z890-p-wifi-motherboard-review)
+💡 *Advancements in ePaper technology for IoT and wearable applications.*
 
----
-
-### 2. PortaRF single board SDR mixes HackRF One and PortaPack H4M hardware, adds AI voice control 
-
-PortaRF is a compact, open-source software-defined radio integrating HackRF One and PortaPack H4M hardware with AI voice control, featuring improved signal quality and a wider frequency range.
-
-💡 *Revolutionizing portable SDR with AI-powered voice control and enhanced performance.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/14/portarf-single-board-sdr-mixes-hackrf-one-and-portapack-h4m-hardware-adds-ai-voice-control/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/15/m5stack-papercolor-esp32-s3-devkit-features-4-inch-e-ink-spectra-6-color-display/)
 
 ---
 
-### 3. Clawdmeter A DIY ESP32-S3 desk dashboard for Claude Code token usage monitoring 
+### 2. Start9 RISC-V Router features SpacemiT K1 SoC, runs StartWRT OpenWrt fork (Crowdfunding) ⭐
 
-Clawdmeter is a DIY ESP32-S3 desk dashboard that displays Claude Code token usage in real-time, utilizing a 2.16-inch AMOLED screen and leveraging LVGL, NimBLE, and HID keyboard functionality.
+The Start9 RISC-V Router features a SpacemiT K1 SoC with 8-core RISC-V processor, 4GB RAM, and 16GB eMMC flash, offering dual GbE networking and WiFi 6 capabilities. It runs the StartWRT OpenWrt fork, making it highly customizable. The router is available for crowdfunding.
 
-💡 *Real-time token usage monitoring for optimized code efficiency.*
+💡 *Highly customizable, open-source router for tech enthusiasts and developers.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/14/clawdmeter-a-diy-esp32-s3-desk-dashboard-for-claude-code-token-usage-monitoring/)
-
----
-
-### 4. Japanese chemical giant JSR expands to Taiwan for EUV photoresist production near TSMC plant to fill missing chemical link to scale EUV materials 
-
-JSR is establishing a plant in Taiwan to produce EUV photoresist, co-developing with TSMC. The plant, set to come online in 2028, aims to fill a critical gap in EUV materials. This expansion will support advanced semiconductor manufacturing.
-
-💡 *Critical EUV material link secured for TSMC chip production*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/jsr-builds-first-taiwan-photoresist-plant-as-japanese-materials-makers-race-to-embed-next-to-tsmc)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/15/start9-risc-v-router-features-spacemit-k1-soc-startwrt-openwrt-fork/)
 
 ---
 
-### 5. Samsung's critical union negotiations break down eight days before planned 18-day chip factory strike that's projected to cost $700 million per day Korean PM calls emergency meeting as strike looms 
+### 3. AMD makes FSR 4 upscaling official for Radeon RX 7000- and 6000-series cards RDNA 3 and RDNA 2 chips will soon enjoy improved visuals 
 
-Samsung's union negotiations have broken down, leading to an impending 18-day strike. The strike is projected to cost $700 million per day. In response, the South Korean Prime Minister has called an emergency meeting.
+AMD is officially bringing FSR 4 to Radeon RX 7000- and 6000-series cards, making it available to a wider range of users. This feature, previously exclusive to RX 9000-series cards, will bring improved visuals to older Radeons. The update is expected to roll out in the coming months.
 
-💡 *Global chip supply chain threatened by massive labor dispute escalation*
+💡 *Wider compatibility with FSR 4 boosts Radeon performance and visuals.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsungs-last-ditch-union-talks-collapse-eight-days-before-planned-18-day-chip-factory-strike)
-
----
-
-### 6. Google Nest Wifi Pro three-pack hits new $229 record low 
-
-The Google Nest Wifi Pro three-pack is now available for $229, down from its usual $299 price, and offers a mesh Wi-Fi system with Wi-Fi 6E capabilities and support for modern smart home devices.
-
-💡 *Affordable upgrade to high-speed Wi-Fi and smart home connectivity*
-
-🔗 [Read Full Article](https://www.techspot.com/products/routers/google-nest-wifi-pro.263047/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/amd-makes-fsr-4-upscaling-official-for-radeon-rx-7000-and-6000-series-cards-rdna-3-and-rdna-2-chips-will-soon-enjoy-improved-visuals)
 
 ---
 
-### 7. Googlebooks will feature Intel, Qualcomm, and MediaTek chips, and follow Google's strict hardware guidelines 
+### 4. Leading-edge foundry roadmaps for TSMC, Intel and Samsung outlining the path to 1.4nm nodes and beyond 
 
-Google's Googlebook premium brand will enforce strict hardware guidelines for OEMs.
+Leading-edge foundries TSMC, Intel, and Samsung have divergent roadmaps: TSMC prioritizes predictability, Intel focuses on architectural shifts, and Samsung optimizes yields. Their paths to 1.4nm nodes and beyond differ significantly. Each foundry must balance technological advancements with cost and yield considerations.
 
-💡 *Consistent user experience across devices drives premium market success.*
+💡 *Foundry roadmaps diverge, impacting industry's future and innovation pace*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112396-googlebooks-feature-intel-qualcomm-mediatek-chips-follow-google.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/leading-edge-foundry-roadmaps-for-tsmc-intel-and-samsung-outlining-the-path-to-1-4nm-nodes-and-beyond)
+
+---
+
+### 5. With Artemis safely home, NASA eyes radiation for future flights 
+
+NASA plans to use radiation sensors from Artemis II for future missions, pending full testing on tissue chips. These sensors will help protect astronauts from cosmic radiation. The data collected will aid in developing better shielding for future flights.
+
+💡 *Astronaut radiation protection is a top priority for long-term space travel*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/artemis-crew-back-home-nasa-studies-radiation-future-flights)
 
 ---
 

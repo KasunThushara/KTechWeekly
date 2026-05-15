@@ -1,394 +1,362 @@
 [
   {
-    "title": "AMD reaches 46% of server x86 CPU revenue Intel still controls 70% of the consumer PC market share",
-    "summary": "AMD has reached 46.2% of the x86 server CPU market share, surpassing 38.1% total x86 CPU revenue share. This significant growth is a notable achievement for AMD in the competitive processor market. Intel still maintains a strong presence in the consumer PC market.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-reaches-46-percent-of-server-x86-cpu-revenue-intel-still-controls-70-percent-of-the-consumer-pc-market-share",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-14T11:02:25.817519",
-    "insight": "AMD's server CPU market share surge indicates long-term industry shift."
-  },
-  {
-    "title": "$499 case turns your PC into a liquid cooling masterpiece for your wall Portal Advanced comes with an integrated distribution plate and reservoir to start of your build",
-    "summary": "The Portal Advanced is a wall-mounted display case with liquid-cooling support, starting at $499. It features an integrated distribution plate and reservoir to facilitate a seamless build experience. This case is designed for users who want to showcase their PC builds.",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/usd499-case-turns-your-pc-into-a-liquid-cooling-masterpiece-for-your-wall-portal-advanced-comes-with-an-integrated-distribution-plate-and-reservoir-to-start-of-your-build",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-14T11:02:25.817639",
-    "insight": "Enhanced liquid cooling in a stylish, wall-mounted display case design"
-  },
-  {
-    "title": "Bitcoin trader recovers $400,000 using Claude AI after losing wallet password 11 years ago bot tried 3.5 trillion passwords before decrypting an old wallet backup",
-    "summary": "A Bitcoin trader recovered $400,000 using Claude AI after losing their wallet password 11 years ago. The AI bot successfully decrypted an old wallet backup after trying 3.5 trillion passwords. The trader's luck and AI assistance led to the recovery.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.817740",
-    "insight": "AI-powered password recovery can salvage lost cryptocurrency fortunes."
-  },
-  {
-    "title": "Louis Rossmann taunts Bambu Lab by hosting banned 3D Printer firmware fork, dares $1 billion company to sue him more creators pledge support and boycotts, Snapmaker donates equipment to embattled developer",
-    "summary": "Louis Rossmann hosts Bambu Lab's banned 3D printer firmware fork on his GitHub, daring legal action.",
-    "link": "https://www.tomshardware.com/3d-printing/louis-rossmann-taunts-bambu-lab-by-hosting-banned-3d-printer-firmware-fork-dares-usd1-billion-company-to-sue-him-more-creators-pledge-support-and-boycotts-snapmaker-donates-equipment-to-embattled-developer",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.817853",
-    "insight": "3D printing community defies corporate control through open-source firmware forks."
-  },
-  {
-    "title": "49,000 Lake Tahoe residents could be left powerless as AI data centers inhale electricity supply power company looking to redirect power to 12 data centers, high demand plus a regulatory limbo equals a dim situation",
-    "summary": "49,000 Lake Tahoe residents may lose power due to NV Energy redirecting electricity to 12 AI data centers. High demand and regulatory uncertainty contribute to the potential power outage. This situation is expected to worsen by May 2027.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/49-000-lake-tahoe-residents-could-be-left-powerless-as-ai-data-centers-inhale-electricity-supply-power-company-looking-to-redirect-power-to-12-data-centers-high-demand-plus-a-regulatory-limbo-equals-a-dim-situation",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.817978",
-    "insight": "Electricity supply insecurity threatens local residents due to data center demand"
-  },
-  {
-    "title": "Klipsch Pro Media Lumina Review: Slimmer subwoofer, even slimmer bass",
-    "summary": "Klipsch's ProMedia Lumina features customizable LED backlighting and a redesigned subwoofer for enhanced performance.",
-    "link": "https://www.tomshardware.com/speakers/klipsch-pro-media-lumina-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-14T11:02:25.818069",
-    "insight": "Slimmer subwoofer design maintains robust low-frequency sound quality reliably."
-  },
-  {
-    "title": "Asus Prime Z890-P Wifi Motherboard Review: Primed and ready for your Core Ultra processor",
-    "summary": "The Asus Prime Z890-P Wifi is a solid, all-around budget-class board for Z890 and the latest Core Ultra chips. However, other boards around its price offer compelling features and better value.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/asus-prime-z890-p-wifi-motherboard-review",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-14T11:02:25.818172"
-  },
-  {
-    "title": "Japanese chemical giant JSR expands to Taiwan for EUV photoresist production near TSMC plant to fill missing chemical link to scale EUV materials",
-    "summary": "JSR is establishing a plant in Taiwan to produce EUV photoresist, co-developing with TSMC. The plant, set to come online in 2028, aims to fill a critical gap in EUV materials. This expansion will support advanced semiconductor manufacturing.",
-    "link": "https://www.tomshardware.com/tech-industry/jsr-builds-first-taiwan-photoresist-plant-as-japanese-materials-makers-race-to-embed-next-to-tsmc",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.818269",
-    "insight": "Critical EUV material link secured for TSMC chip production"
-  },
-  {
-    "title": "Microsoft BitLocker-protected drives can now be opened with just some files on a USB stick YellowKey zero-day exploit demonstrates an apparent backdoor",
-    "summary": "Microsoft BitLocker-protected drives can be opened with files on a USB stick, potentially compromising security.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.818368",
-    "insight": "Potential backdoor in Microsoft BitLocker raises security concerns for encrypted data."
-  },
-  {
-    "title": "AMD expands its Ryzen 9000 PRO lineup with six new SKUs, now featuring 3D V-Cache for the first time new workstation CPUs have up to 170W TDPs, available with OEMs later this year",
-    "summary": "AMD expands its Ryzen 9000 PRO series with six new SKUs, featuring 3D V-Cache and higher TDPs up to 170W, available with OEMs in Q3 2026.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-expands-its-ryzen-9000-pro-lineup-with-six-new-skus-now-featuring-3d-v-cache-for-the-first-time-new-workstation-cpus-have-up-to-170w-tdps-available-with-oems-later-this-year",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.818498",
-    "insight": "AMD offers workstation CPUs with higher performance and power efficiency options"
-  },
-  {
-    "title": "Microsoft launches Cloud Initiated Driver Recovery for remote rollback of faulty updates no user action or OEM intervention will be needed to handle broken drivers delivered via Windows Update",
-    "summary": "Microsoft introduces Cloud-Initiated Driver Recovery to minimize buggy driver issues, enabling remote rollback of faulty updates without user intervention. This reliability change aims to improve Windows stability and reduce downtime. Automatic recovery will be triggered by Windows Update.",
-    "link": "https://www.tomshardware.com/software/windows/microsoft-launches-cloud-initiated-driver-recovery-for-remote-rollback-of-faulty-updates-no-user-action-or-oem-intervention-will-be-needed-to-handle-broken-drivers-delivered-via-windows-update",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.818598",
-    "insight": "Automated driver recovery reduces downtime and minimizes user inconvenience."
-  },
-  {
-    "title": "Samsung's critical union negotiations break down eight days before planned 18-day chip factory strike that's projected to cost $700 million per day Korean PM calls emergency meeting as strike looms",
-    "summary": "Samsung's union negotiations have broken down, leading to an impending 18-day strike. The strike is projected to cost $700 million per day. In response, the South Korean Prime Minister has called an emergency meeting.",
-    "link": "https://www.tomshardware.com/tech-industry/samsungs-last-ditch-union-talks-collapse-eight-days-before-planned-18-day-chip-factory-strike",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.818703",
-    "insight": "Global chip supply chain threatened by massive labor dispute escalation"
-  },
-  {
-    "title": "Google reportedly in talks with SpaceX to launch its orbital data centers partnership could mark a historic turning point and boost upcoming IPO",
-    "summary": "Google is reportedly in talks with SpaceX to launch its orbital data centers, a key component of its Project Suncatcher initiative. This partnership could mark a historic turning point in space-based infrastructure. It may also boost Google's upcoming IPO.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-in-talks-with-spacex-to-launch-its-orbital-data-centers-partnership-could-mark-a-historic-turning-point-and-boost-upcoming-ipo",
-    "categories": [
-      "Tech News",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.818804",
-    "insight": "Space-based data centers could revolutionize global cloud computing infrastructure."
-  },
-  {
-    "title": "SSD prices skyrocket by 300% in Japan, bringing 8TB Samsung 9100 drive to an eye-watering $3,500 industry continues to reckon with the ongoing AI storage crunch",
-    "summary": "Samsung SSD prices surged 300% in Japan, reaching $3,500 for 8TB drives. This massive price hike is attributed to supply chain disruptions and high demand for AI storage. The AI storage crunch is driving up costs across the industry.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/ssd-prices-skyrocket-by-300-percent-in-japan-bringing-8tb-samsung-9100-drive-to-an-eye-watering-usd3-500-industry-continues-to-reckon-with-the-ongoing-ai-storage-crunch",
+    "title": "Musk's Colossus 1 AI supercomputer's inefficient mixed-architecture design couldn't be used to train Grok, so Anthropic's using it for inference instead Musk readies unified Blackwell-only Colossus 2 for frontier training and potential IPO",
+    "summary": "Anthropic leases Colossus 1 from SpaceX to alleviate Claude's compute bottlenecks, potentially expanding AI infrastructure ambitions.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-colossus-1-ai-supercomputers-inefficient-mixed-architecture-design-couldnt-be-used-to-train-grok-so-anthropics-using-it-for-inference-instead-musk-readies-unified-blackwell-only-colossus-2-for-frontier-training-and-potential-ipo",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.818902",
-    "insight": "Rising SSD prices exacerbate AI storage crunch and industry supply chain pressure."
+    "quality_score": 0,
+    "processed_date": "2026-05-15T11:05:14.472508",
+    "insight": "Musk repurposes underutilized AI supercomputer for inference, freeing resources for unified training."
   },
   {
-    "title": "EU considers running undersea cable under the North Pole to link Europe to Asia Polar Connect aims to bypass the Strait of Hormuz and Russia by 2030",
-    "summary": "The EU plans to build an undersea cable under the North Pole to connect Europe to Asia, bypassing sensitive areas like the Strait of Hormuz and Russia. The project, called Polar Connect, aims to be operational by 2030. This route will pass through the harsh Arctic environment.",
-    "link": "https://www.tomshardware.com/tech-industry/eu-considers-running-undersea-cable-under-the-north-pole-to-link-europe-to-asia-polar-connect-aims-to-bypass-the-strait-of-hormuz-and-russia-by-2030",
+    "title": "Australian who smuggled 50 pounds of cocaine hidden inside printers get nine years behind bars five devices intercepted by border forces had compressed powder stuffed in the paper trays",
+    "summary": "An Australian smuggler received a nine-year sentence for cocaine hidden in printers. Five printers were intercepted by border forces containing compressed powder. The smuggler was part of a crime syndicate.",
+    "link": "https://www.tomshardware.com/peripherals/printers/australian-who-smuggled-50-pounds-of-cocaine-hidden-inside-printers-get-nine-years-behind-bars-five-devices-intercepted-by-border-forces-had-compressed-powder-stuffed-in-the-paper-trays",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.819006",
-    "insight": "Boosting EU-Asia connectivity and reducing reliance on geopolitically sensitive routes."
+    "processed_date": "2026-05-15T11:05:14.472627",
+    "insight": "Creative smuggling methods can lead to severe consequences"
   },
   {
-    "title": "PortaRF single board SDR mixes HackRF One and PortaPack H4M hardware, adds AI voice control",
-    "summary": "PortaRF is a compact, open-source software-defined radio integrating HackRF One and PortaPack H4M hardware with AI voice control, featuring improved signal quality and a wider frequency range.",
-    "link": "https://www.cnx-software.com/2026/05/14/portarf-single-board-sdr-mixes-hackrf-one-and-portapack-h4m-hardware-adds-ai-voice-control/",
+    "title": "AMD GPU owners take to Reddit to report fan problem with driver update Zero RPM feature could cause GPU temperatures to rise unexpectedly",
+    "summary": "AMD GPU owners report Zero RPM feature malfunction with driver update, causing GPU temperatures to rise unexpectedly when monitor goes to sleep or turns off.",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-gpu-owners-take-to-reddit-to-report-fan-problem-with-driver-update-zero-rpm-feature-could-cause-gpu-temperatures-to-rise-unexpectedly",
     "categories": [
-      "Hardware",
-      "Semiconductors"
+      "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-05-14T11:02:25.819567",
-    "insight": "Revolutionizing portable SDR with AI-powered voice control and enhanced performance."
+    "quality_score": 5,
+    "processed_date": "2026-05-15T11:05:14.472736",
+    "insight": "GPU temperature control compromised by driver update glitch."
   },
   {
-    "title": "Clawdmeter A DIY ESP32-S3 desk dashboard for Claude Code token usage monitoring",
-    "summary": "Clawdmeter is a DIY ESP32-S3 desk dashboard that displays Claude Code token usage in real-time, utilizing a 2.16-inch AMOLED screen and leveraging LVGL, NimBLE, and HID keyboard functionality.",
-    "link": "https://www.cnx-software.com/2026/05/14/clawdmeter-a-diy-esp32-s3-desk-dashboard-for-claude-code-token-usage-monitoring/",
+    "title": "Microsoft is working on a fix to downgraded GPU drivers in Windows Update new system uses multiple IDs",
+    "summary": "Microsoft confirms Windows Update downgrades GPU drivers under certain conditions. A partial fix is in development to minimize driver downgrades. The fix is expected to release later this year.",
+    "link": "https://www.tomshardware.com/software/windows/microsoft-is-working-on-a-fix-to-downgraded-gpu-drivers-in-windows-update-new-system-uses-multiple-ids",
     "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-14T11:02:25.819741",
-    "insight": "Real-time token usage monitoring for optimized code efficiency."
-  },
-  {
-    "title": "DEEPX DX-AIPlayer N97 mini PC combines Intel N97 SoC and 25 TOPS DX-M1 AI accelerator",
-    "summary": "The DEEPX DX-AIPlayer N97 mini PC combines Intel N97 SoC with a 25 TOPS DX-M1 AI accelerator for real-time vision AI applications.",
-    "link": "https://www.cnx-software.com/2026/05/14/deepx-dx-aiplayer-n97-mini-pc-combines-intel-n97-soc-and-25-tops-dx-m1-ai-accelerator/",
-    "categories": [
-      "Hardware",
+      "GPUs",
       "AI & ML"
     ],
-    "quality_score": 20,
-    "processed_date": "2026-05-14T11:02:25.819906",
-    "insight": "Edge AI performance enhanced with dedicated, low-power AI acceleration."
+    "quality_score": 5,
+    "processed_date": "2026-05-15T11:05:14.472847",
+    "insight": "Preventing driver downgrades avoids potential system crashes and performance issues."
   },
   {
-    "title": "Best of Sensors: InPlay's NanoBeacon targets temperature sensing",
-    "summary": "InPlay's NanoBeacon wins Best of Sensors 2026 for temperature sensing innovation.",
-    "link": "https://www.fiercesensors.com/sensors/best-sensors-inplays-nanobeacon-targets-temperature-sensing",
+    "title": "AMD makes FSR 4 upscaling official for Radeon RX 7000- and 6000-series cards RDNA 3 and RDNA 2 chips will soon enjoy improved visuals",
+    "summary": "AMD is officially bringing FSR 4 to Radeon RX 7000- and 6000-series cards, making it available to a wider range of users. This feature, previously exclusive to RX 9000-series cards, will bring improved visuals to older Radeons. The update is expected to roll out in the coming months.",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-makes-fsr-4-upscaling-official-for-radeon-rx-7000-and-6000-series-cards-rdna-3-and-rdna-2-chips-will-soon-enjoy-improved-visuals",
     "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-15T11:05:14.472962",
+    "insight": "Wider compatibility with FSR 4 boosts Radeon performance and visuals."
+  },
+  {
+    "title": "Turtle Beach Stealth Pro II review: Impressively versatile",
+    "summary": "The Turtle Beach Stealth Pro II headset offers versatile connectivity with multiple 2.4GHz wireless connections using USB-A dongles, making it a highly convenient option for users who need to switch between devices.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-headsets/turtle-beach-stealth-pro-ii-review",
+    "categories": [
+      "Hardware",
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-05-14T11:02:25.820947",
-    "insight": "Advancements in SoC technology address temperature sensing accuracy limitations."
+    "quality_score": 10,
+    "processed_date": "2026-05-15T11:05:14.473084",
+    "insight": "Wireless connectivity freedom across multiple devices at once matters."
   },
   {
-    "title": "Nvidia adds the RTX 5060 Ti to its 007 First Light game bundle",
-    "summary": "Nvidia has added the RTX 5060 Ti to its 007 First Light game bundle, offering a high-performance graphics option for PC gamers. This bundle includes a highly anticipated title, charting James Bond's early days. The bundle is a promotion for Nvidia's latest graphics cards.",
-    "link": "https://www.techspot.com/news/112406-nvidia-adds-rtx-5060-ti-007-first-light.html",
+    "title": "Intel announces McLaren F1 partnership, will battle AMD-powered Mercedes deal includes chips for aerodynamic analysis, vehicle-dynamics simulation, race strategy analytics, and more",
+    "summary": "Intel partners with McLaren Racing, expanding their presence in F1. The deal involves collaboration on various aspects, including aerodynamic analysis and vehicle-dynamics simulation. This partnership marks a significant development in the tech-racing landscape.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/intel-announces-mclaren-f1-partnership-will-battle-amd-powered-mercedes-deal-includes-chips-for-aerodynamic-analysis-vehicle-dynamics-simulation-race-strategy-analytics-and-more",
+    "categories": [
+      "Tech News",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-15T11:05:14.473198",
+    "insight": "Tech giants invest in F1 to improve performance and innovation"
+  },
+  {
+    "title": "Alienware's budget gaming laptop starts at $1,299 Last-gen parts and a plastic shell bring the premium brand into the mainstream",
+    "summary": "Alienware enters the mainstream with a budget gaming laptop starting at $1,299, using last-gen components in a plastic shell.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/alienwares-budget-gaming-laptop-starts-at-usd1-299-last-gen-parts-and-a-plastic-shell-bring-the-premium-brand-into-the-mainstream",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-15T11:05:14.473328",
+    "insight": "Budget-friendly Alienware laptops appeal to a broader gaming audience."
+  },
+  {
+    "title": "Fully-functional RTX 3070 16GB gets frankensteined into existence by harvesting dead PCBs and RX 6800 XT's VRAM chips doubles frame rate in games like Spider Man 2 at 4K and includes switch for 8GB mode",
+    "summary": "A tech enthusiast has created a functional RTX 3070 with 16GB of VRAM by combining a defective Nvidia card with VRAM chips from an AMD Radeon RX 6800 XT and using a switch to enable 8GB mode.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/fully-functional-rtx-3070-16gb-gets-frankensteined-into-existence-by-harvesting-dead-pcbs-and-rx-6800-xts-vram-chips-doubles-frame-rate-in-games-like-spider-man-2-at-4k-and-includes-switch-for-8gb-mode",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.821354",
-    "insight": "Enhanced gaming experience for PC gamers with high-end graphics"
+    "processed_date": "2026-05-15T11:05:14.473442",
+    "insight": "Reviving dead hardware components can unlock new performance possibilities."
   },
   {
-    "title": "Nearly 50,000 Lake Tahoe residents have one year to find new power as their utility pivots to data centers",
-    "summary": "A Nevada energy company will stop supplying electricity to 49,000 Lake Tahoe residents in May 2027, leaving them to find alternative power sources. This change is not directly tied to a specific data center but follows Nevada's growing data center industry. The affected utility provider is based in California.",
-    "link": "https://www.techspot.com/news/112403-nearly-50000-lake-tahoe-residents-have-one-year.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.821530",
-    "insight": "Rapid growth of data centers threatens local power reliability"
-  },
-  {
-    "title": "Android Auto's biggest update in years delivers edge-to-edge Maps, Gemini, and HD video streaming",
-    "summary": "Android Auto receives its biggest update in years, featuring a Material 3 redesign and enhanced safety features.",
-    "link": "https://www.techspot.com/news/112399-android-auto-update-delivers-fullscreen-google-maps-hd.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.821649",
-    "insight": "Improved user experience enhances driving safety and convenience."
-  },
-  {
-    "title": "The EU is going after TikTok and Meta over addictive algorithms and child safety failures",
-    "summary": "The European Commission is taking action against TikTok and Meta over addictive algorithms and child safety failures.",
-    "link": "https://www.techspot.com/news/112400-european-union-moves-crack-down-addictive-social-media.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.821763",
-    "insight": "EU targets algorithm-driven addiction and child safety concerns in tech giants."
-  },
-  {
-    "title": "NAND contract prices surge over 600% since September 2025, DRAM up ~400%",
-    "summary": "NAND contract prices surge over 600% since September 2025, DRAM up ~400%, due to high demand from AI startups.",
-    "link": "https://www.techspot.com/news/112398-nand-contract-prices-surge-over-600-since-september.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.821868",
-    "insight": "High demand for memory by AI startups drives inflationary market."
-  },
-  {
-    "title": "ForkLift 4.6.2 refines one of macOS' favorite SFTP file managers",
-    "summary": "ForkLift 4.6.2 refines its SFTP file management capabilities on macOS with improved Finder integration, enhanced checksum tool, and bug fixes.",
-    "link": "https://www.techspot.com/downloads/6698-forklift.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-14T11:02:25.821965",
-    "insight": "Streamlined file management for macOS users enhances productivity."
-  },
-  {
-    "title": "Google Nest Wifi Pro three-pack hits new $229 record low",
-    "summary": "The Google Nest Wifi Pro three-pack is now available for $229, down from its usual $299 price, and offers a mesh Wi-Fi system with Wi-Fi 6E capabilities and support for modern smart home devices.",
-    "link": "https://www.techspot.com/products/routers/google-nest-wifi-pro.263047/",
+    "title": "Leading-edge foundry roadmaps for TSMC, Intel and Samsung outlining the path to 1.4nm nodes and beyond",
+    "summary": "Leading-edge foundries TSMC, Intel, and Samsung have divergent roadmaps: TSMC prioritizes predictability, Intel focuses on architectural shifts, and Samsung optimizes yields. Their paths to 1.4nm nodes and beyond differ significantly. Each foundry must balance technological advancements with cost and yield considerations.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/leading-edge-foundry-roadmaps-for-tsmc-intel-and-samsung-outlining-the-path-to-1-4nm-nodes-and-beyond",
     "categories": [
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.822071",
-    "insight": "Affordable upgrade to high-speed Wi-Fi and smart home connectivity"
+    "processed_date": "2026-05-15T11:05:14.473547",
+    "insight": "Foundry roadmaps diverge, impacting industry's future and innovation pace"
   },
   {
-    "title": "The humble desktop monitor is quietly having its best years, and gamers are fully responsible",
-    "summary": "Desktop monitor sales rebounded in 2025, growing 4.3% year over year. Manufacturers shipped 133.4 million units, driven by evolving high-end devices. The market is adapting to a laptop-dominated world.",
-    "link": "https://www.techspot.com/news/112389-humble-desktop-monitor-quietly-having-best-years-gamers.html",
+    "title": "70% of Americans oppose data centers near their homes, now less popular than nuclear power plants opposition towards nearby AI infrastructure heating up as tech companies ramp up projects to acquire more compute",
+    "summary": "A new survey shows 70% of Americans oppose data centers near their homes. This opposition has increased significantly from 47% in a previous survey. Data center projects are becoming more unpopular, especially AI infrastructure.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/70-percent-of-americans-oppose-data-centers-near-their-homes-now-less-popular-than-nuclear-power-plants-opposition-towards-nearby-ai-infrastructure-heating-up-as-tech-companies-ramp-up-projects-to-acquire-more-compute",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-15T11:05:14.473663",
+    "insight": "Rising opposition to AI data centers erodes tech industry's public image."
+  },
+  {
+    "title": "PENOX WristBuds A Bluetooth 6.0 smartwatch with integrated TWS earbuds (Crowdfunding)",
+    "summary": "The PENOX WristBuds is a rugged Bluetooth 6.0 smartwatch with integrated TWS earbuds, offering a 2-in-1 device that eliminates the need for a separate charging case.",
+    "link": "https://www.cnx-software.com/2026/05/15/penox-wristbuds-a-smartwatch-with-integrated-tws-earbuds/",
     "categories": [
       "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-15T11:05:14.474223",
+    "insight": "Redefining wearable tech with a clutter-free, all-in-one design experience."
+  },
+  {
+    "title": "M5Stack PaperColor ESP32-S3 devkit features 4-inch E Ink Spectra 6 color display",
+    "summary": "The M5Stack PaperColor ESP32-S3 devkit features a 4-inch full-color E Ink display, offering low power consumption and high visibility under strong lights. It's equipped with various sensors, buttons, LEDs, and a speaker, and includes a rechargeable 1250 mAh battery. The device supports WiFi, Bluetooth, and microSD storage.",
+    "link": "https://www.cnx-software.com/2026/05/15/m5stack-papercolor-esp32-s3-devkit-features-4-inch-e-ink-spectra-6-color-display/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-15T11:05:14.474415",
+    "insight": "Advancements in ePaper technology for IoT and wearable applications."
+  },
+  {
+    "title": "Start9 RISC-V Router features SpacemiT K1 SoC, runs StartWRT OpenWrt fork (Crowdfunding)",
+    "summary": "The Start9 RISC-V Router features a SpacemiT K1 SoC with 8-core RISC-V processor, 4GB RAM, and 16GB eMMC flash, offering dual GbE networking and WiFi 6 capabilities. It runs the StartWRT OpenWrt fork, making it highly customizable. The router is available for crowdfunding.",
+    "link": "https://www.cnx-software.com/2026/05/15/start9-risc-v-router-features-spacemit-k1-soc-startwrt-openwrt-fork/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-15T11:05:14.474593",
+    "insight": "Highly customizable, open-source router for tech enthusiasts and developers."
+  },
+  {
+    "title": "Yocto Project 6.0 Wrynose released with Linux 6.18 LTS",
+    "summary": "The Yocto Project 6.0, codenamed Wrynose, has been released with Linux 6.18 LTS, offering over 4 years of support and improved security features. This release includes toolchain updates and new tools to ease compliance with regulations. It is the first LTS release since Yocto 5.0.",
+    "link": "https://www.cnx-software.com/2026/05/14/yocto-project-6-0-wrynose-released-with-linux-6-18-lts/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-15T11:05:14.474756",
+    "insight": "Enhanced security and compliance features for embedded Linux systems."
+  },
+  {
+    "title": "Best of Sensors: MethaneTrack brings realtime gas leak detection",
+    "summary": "NevadaNano's MethaneTrack Automated Continuous Emissions Monitoring System won a Best of Sensors award for its innovative real-time gas leak detection capabilities.",
+    "link": "https://www.fiercesensors.com/sensors/award-winner-methanetrack-brings-real-time-gas-leak-detection",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-05-15T11:05:14.475669",
+    "insight": "Real-time gas leak detection enhances safety and environmental accountability."
+  },
+  {
+    "title": "With Artemis safely home, NASA eyes radiation for future flights",
+    "summary": "NASA plans to use radiation sensors from Artemis II for future missions, pending full testing on tissue chips. These sensors will help protect astronauts from cosmic radiation. The data collected will aid in developing better shielding for future flights.",
+    "link": "https://www.fiercesensors.com/sensors/artemis-crew-back-home-nasa-studies-radiation-future-flights",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-15T11:05:14.476072",
+    "insight": "Astronaut radiation protection is a top priority for long-term space travel"
+  },
+  {
+    "title": "Forced to vibe code at work, programmers say their skills are deteriorating",
+    "summary": "Programmers are forced to use AI coding, leading to skill decline and frustration.",
+    "link": "https://www.techspot.com/news/112415-forced-vibe-code-work-programmers-their-skills-deteriorating.html",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-14T11:02:25.822184",
-    "insight": "Gamers drive demand for enhanced desktop monitors and high-end visuals."
+    "processed_date": "2026-05-15T11:05:14.476254",
+    "insight": "Forced AI adoption erodes developer skills and creates technical debt issues."
   },
   {
-    "title": "Googlebooks will feature Intel, Qualcomm, and MediaTek chips, and follow Google's strict hardware guidelines",
-    "summary": "Google's Googlebook premium brand will enforce strict hardware guidelines for OEMs.",
-    "link": "https://www.techspot.com/news/112396-googlebooks-feature-intel-qualcomm-mediatek-chips-follow-google.html",
+    "title": "Microsoft is baking even more Copilot functionality into the Edge browser",
+    "summary": "Microsoft is adding more Copilot functionality to the Edge browser, enhancing seamless browsing. This shift focuses on Edge as the primary platform for AI-powered features. Copilot integration in Windows 11 is being scaled back.",
+    "link": "https://www.techspot.com/news/112416-microsoft-baking-even-more-copilot-functionality-edge-browser.html",
     "categories": [
-      "Semiconductors",
-      "Hardware"
+      "AI & ML",
+      "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.822296",
-    "insight": "Consistent user experience across devices drives premium market success."
+    "quality_score": 10,
+    "processed_date": "2026-05-15T11:05:14.476422",
+    "insight": "Enhancing web browsing with AI-powered features in Edge"
   },
   {
-    "title": "Unitree reveals $650,000 production-ready mecha that punches through walls and crawls like a spider",
-    "summary": "Unitree Robotics unveiled a production-ready mecha robot, the GD01, in a video. The GD01 is capable of punching through walls and crawling like a spider. This robot is priced at $650,000.",
-    "link": "https://www.techspot.com/news/112397-unitree-reveals-650000-production-ready-piloted-mecha-punches.html",
+    "title": "The Sony Xperia 1 VIII is the anti-flagship flagship: headphone jack, microSD, and thick bezels in 2026",
+    "summary": "The Xperia 1 VIII boasts a 6.5-inch display with 120Hz refresh, AMOLED technology, and Corning Gorilla Glass Victus 2 protection. It features a headphone jack and microSD card slot. The device has thick top and bottom bezels.",
+    "link": "https://www.techspot.com/news/112411-sony-xperia-1-viii-anti-flagship-flagship-headphone.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.822389",
-    "insight": "Advancements in robotics could lead to new industrial and search applications."
+    "processed_date": "2026-05-15T11:05:14.476574",
+    "insight": "Sony defies modern design trends with nostalgic features in 2026 flagship"
   },
   {
-    "title": "Windows is getting a cloud feature that fixes bad drivers before they wreck your PC",
-    "summary": "Microsoft is introducing a cloud-based recovery process for problematic drivers that will automatically replace outdated or bad drivers with the next available version.",
-    "link": "https://www.techspot.com/news/112395-microsoft-new-cloud-initiated-driver-recovery-automatically-rolls.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.822525",
-    "insight": "Preventive driver updates to avoid PC damage"
-  },
-  {
-    "title": "Subnautica 2 playable build leaks online days before early access launch",
-    "summary": "Subnautica 2 gameplay and screenshots leaked online before early access launch.",
-    "link": "https://www.techspot.com/news/112394-subnautica-2-playable-build-leaks-online-days-before.html",
-    "categories": [
-      "Tech News",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.822633",
-    "insight": "Early access game security compromised by unknown individual's actions."
-  },
-  {
-    "title": "Google \"Gemini Intelligence\" shows off agentic Android 17 features that Apple has yet to deliver with Siri",
-    "summary": "Google's Gemini Intelligence will roll out new automation features to devices this summer, starting with Pixel and Galaxy phones, and expanding to other devices later this year.",
-    "link": "https://www.techspot.com/news/112388-google-gemini-intelligence-shows-off-agentic-android-17.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.822733",
-    "insight": "Google's Gemini Intelligence surpasses Apple's Siri with agentic Android features."
-  },
-  {
-    "title": "Sony Reon Pocket Pro Plus brings the personal cooling device to the US",
-    "summary": "Sony's Reon Pocket Pro Plus, a personal cooling device, has arrived in the US market. Originally developed in 2017 and crowdfunded in 2019, it has now expanded globally. This portable device offers a novel solution for temperature control.",
-    "link": "https://www.techspot.com/news/112393-sony-reon-pocket-pro-plus-brings-personal-cooling.html",
+    "title": "A security researcher says Microsoft secretly built a backdoor into BitLocker, releases an exploit to prove it",
+    "summary": "Microsoft's BitLocker allegedly contains a backdoor, dubbed YellowKey, which allows unauthorized access. A researcher has released an exploit to demonstrate the flaw. The bug can be triggered by copying a specific folder to a USB drive.",
+    "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-14T11:02:25.822832",
-    "insight": "Revolutionizing personal temperature control with wearable tech innovation"
+    "processed_date": "2026-05-15T11:05:14.476692",
+    "insight": "Potential compromise of secure encryption undermines user trust and security"
   },
   {
-    "title": "UCF graduates boo commencement speaker for calling AI \"the next industrial revolution\"",
-    "summary": "UCF graduates booed their commencement speaker over AI remarks.",
-    "link": "https://www.techspot.com/news/112390-ucf-graduates-boo-commencement-speaker-after-praises-ai.html",
+    "title": "Motorola Razr Fold takes on Samsung and Google with a strong first-gen debut",
+    "summary": "Motorola's first book-style foldable, the Razr Fold, earns strong early reviews for its design and features.",
+    "link": "https://www.techspot.com/products/smartphones/motorola-razr-fold.324999/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-15T11:05:14.476802",
+    "insight": "Motorola challenges Samsung and Google with a competitive foldable debut."
+  },
+  {
+    "title": "70% of Americans don't want AI data centers near their home, that's more opposition than nuclear plants get",
+    "summary": "70% of Americans oppose AI data centers near their homes, a strong opposition. This is more resistance than nuclear plants typically face. The negative media stories about AI data centers contribute to this widespread disapproval.",
+    "link": "https://www.techspot.com/news/112409-seven-ten-americans-oppose-ai-data-centers-making.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-14T11:02:25.822922",
-    "insight": "Graduates react strongly to AI being compared to industrial revolution."
+    "processed_date": "2026-05-15T11:05:14.476901",
+    "insight": "Negative media coverage fuels public opposition to AI data centers."
+  },
+  {
+    "title": "The Steam Controller's hidden Wilhelm scream Easter Egg is pure Valve genius",
+    "summary": "The second-gen Steam Controller sold out quickly due to scalpers. A new reservation system aims to address this issue. The controller was initially priced at $99.",
+    "link": "https://www.techspot.com/news/112414-steam-controller-hidden-wilhelm-scream-easter-egg-pure.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-15T11:05:14.477007",
+    "insight": "Scalpers drive up demand, making high-end products unaffordable for genuine customers."
+  },
+  {
+    "title": "FSR 4 upscaling is finally coming to older Radeon GPUs, and the image quality gains are real",
+    "summary": "AMD's Radeon RX 7000 and RX 6000 GPUs will support FSR 4.1, with RX 6000 getting support in 2027. Older GPUs will rely on INT8 processing, a slower alternative. This will bring image quality gains to older graphics cards.",
+    "link": "https://www.techspot.com/news/112412-fsr-4-upscaling-finally-coming-older-radeon-gpus.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-15T11:05:14.477120",
+    "insight": "FSR 4.1 brings image quality gains to older Radeon GPUs"
+  },
+  {
+    "title": "What was Nintendo's first ever product (back in 1889)?",
+    "summary": "Nintendo's first product was a handmade hanafuda playing card set, produced in 1889. The cards were a type of Japanese playing card used for games and were popular among locals. This early product laid the foundation for Nintendo's future success.",
+    "link": "https://www.techspot.com/trivia/39-nintendo-first-ever-product/",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-05-15T11:05:14.477207",
+    "insight": "Nintendo's humble beginnings in traditional Japanese card games"
+  },
+  {
+    "title": "Forza Horizon 6 GPU Benchmark: 8GB vs. 16GB VRAM",
+    "summary": "Forza Horizon 6's demanding visuals result in significant VRAM consumption, affecting performance. Testing across various settings and resolutions reveals notable differences between 8GB and 16GB GPUs. The right VRAM choice impacts frame rates and overall gaming experience.",
+    "link": "https://www.techspot.com/article/3125-forza-horizon-6-vram-gpu/",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-15T11:05:14.477338",
+    "insight": "8GB VRAM may not be enough for Forza Horizon 6's high graphics settings."
+  },
+  {
+    "title": "GoPro explores sale after falling from $11 billion giant to $187 million company",
+    "summary": "GoPro considers sale or merger amidst shareholder optimism, despite financial struggles.",
+    "link": "https://www.techspot.com/news/112407-gopro-explores-sale-after-falling-11-billion-giant.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-05-15T11:05:14.477454",
+    "insight": "Strategic options signal potential for drastic change in company direction."
+  },
+  {
+    "title": "Microsoft is finally fixing Windows Update's habit of downgrading your GPU drivers without asking",
+    "summary": "Microsoft is changing its policy to prevent WU from downgrading GPU drivers.",
+    "link": "https://www.techspot.com/news/112404-microsoft-finally-tackles-windows-update-annoying-gpu-driver.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-15T11:05:14.477565",
+    "insight": "Prevents unnecessary driver downgrades saving users time and performance."
+  },
+  {
+    "title": "Anthropic says more than 90% of its code is now written by AI",
+    "summary": "Anthropic's CFO, Krishna Rao, revealed that over 90% of their code is now written by AI. This statement was made on an episode of Patrick O'Shaughnessy's Invest Like the Best podcast. This high percentage highlights the growing reliance on AI in software development.",
+    "link": "https://www.techspot.com/news/112408-anthropic-more-than-90-code-now-written-ai.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-15T11:05:14.477659",
+    "insight": "AI-generated code is rapidly replacing human-written code in tech companies."
+  },
+  {
+    "title": "Two brothers deleted 96 federal databases after being fired one googled how to hide the evidence afterward",
+    "summary": "Two brothers, Sohaib and Muneeb Akhter, were convicted of conspiracy to commit computer fraud after deleting 96 federal databases. They had previously worked for federal contractor Opexus before being fired. The incident marks their second federal cybercrime conviction.",
+    "link": "https://www.techspot.com/news/112405-two-brothers-deleted-96-federal-databases-after-fired.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-15T11:05:14.477772",
+    "insight": "Former employees pose significant insider threat to sensitive information"
   }
 ]
