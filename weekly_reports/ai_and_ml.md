@@ -1,155 +1,135 @@
 # 🤖 AI & ML
-**Week of May 15, 2026**
+**Week of May 16, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-05-15 11:06
+- **Articles this week:** 12
+- **Report generated:** 2026-05-16 10:04
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Forced to vibe code at work, programmers say their skills are deteriorating 
+### 1. Android Studio Panda 4 adds smarter AI planning and predictive coding tools ⭐
 
-Programmers are forced to use AI coding, leading to skill decline and frustration.
+Android Studio Panda 4 introduces AI upgrades like Planning Mode, allowing Gemini to generate and review implementation plans before writing code, alongside a new Gemini API starter template.
 
-💡 *Forced AI adoption erodes developer skills and creates technical debt issues.*
+💡 *AI-driven development streamlines Android app creation process efficiency*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112415-forced-vibe-code-work-programmers-their-skills-deteriorating.html)
-
----
-
-### 2. Microsoft is baking even more Copilot functionality into the Edge browser 
-
-Microsoft is adding more Copilot functionality to the Edge browser, enhancing seamless browsing. This shift focuses on Edge as the primary platform for AI-powered features. Copilot integration in Windows 11 is being scaled back.
-
-💡 *Enhancing web browsing with AI-powered features in Edge*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112416-microsoft-baking-even-more-copilot-functionality-edge-browser.html)
+🔗 [Read Full Article](https://www.techspot.com/downloads/6831-android-studio.html)
 
 ---
 
-### 3. A security researcher says Microsoft secretly built a backdoor into BitLocker, releases an exploit to prove it 
+### 2. Google floats reduced initial 5GB free cloud storage limit, users claim 15GB to require extra security measures, company confirms it is 'testing a new storage policy for new accounts' 
 
-Microsoft's BitLocker allegedly contains a backdoor, dubbed YellowKey, which allows unauthorized access. A researcher has released an exploit to demonstrate the flaw. The bug can be triggered by copying a specific folder to a USB drive.
+Google is testing a new storage policy for new accounts, confirming a reduced initial 5GB free cloud storage limit. Users claim this change requires extra security measures, specifically for the 15GB limit. The company aims to improve account security and data recovery.
 
-💡 *Potential compromise of secure encryption undermines user trust and security*
+💡 *Google's new storage policy prioritizes security over user convenience.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)
-
----
-
-### 4. Australian who smuggled 50 pounds of cocaine hidden inside printers get nine years behind bars five devices intercepted by border forces had compressed powder stuffed in the paper trays 
-
-An Australian smuggler received a nine-year sentence for cocaine hidden in printers. Five printers were intercepted by border forces containing compressed powder. The smuggler was part of a crime syndicate.
-
-💡 *Creative smuggling methods can lead to severe consequences*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/printers/australian-who-smuggled-50-pounds-of-cocaine-hidden-inside-printers-get-nine-years-behind-bars-five-devices-intercepted-by-border-forces-had-compressed-powder-stuffed-in-the-paper-trays)
+🔗 [Read Full Article](https://www.tomshardware.com/software/cloud-storage/google-floats-reduced-initial-5gb-free-cloud-storage-limit-users-claim-15gb-to-require-extra-security-measures-company-confirms-it-is-testing-a-new-storage-policy-for-new-accounts)
 
 ---
 
-### 5. Microsoft is working on a fix to downgraded GPU drivers in Windows Update new system uses multiple IDs 
+### 3. Pennsylvania residents complain they are being 'bulldozed' over AI data center concerns lambast Gov. Shapiro in two-hour town hall, say he is losing support base 
 
-Microsoft confirms Windows Update downgrades GPU drivers under certain conditions. A partial fix is in development to minimize driver downgrades. The fix is expected to release later this year.
+Pennsylvania residents criticize Governor Josh Shapiro for excessive data center projects, citing concerns for local welfare.
 
-💡 *Preventing driver downgrades avoids potential system crashes and performance issues.*
+💡 *Balancing economic growth with community welfare is a pressing state concern.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-is-working-on-a-fix-to-downgraded-gpu-drivers-in-windows-update-new-system-uses-multiple-ids)
-
----
-
-### 6. Alienware's budget gaming laptop starts at $1,299 Last-gen parts and a plastic shell bring the premium brand into the mainstream 
-
-Alienware enters the mainstream with a budget gaming laptop starting at $1,299, using last-gen components in a plastic shell.
-
-💡 *Budget-friendly Alienware laptops appeal to a broader gaming audience.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/alienwares-budget-gaming-laptop-starts-at-usd1-299-last-gen-parts-and-a-plastic-shell-bring-the-premium-brand-into-the-mainstream)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/pennsylvania-residents-complain-they-are-being-bulldozed-over-ai-data-center-concerns-lambast-gov-shapiro-in-two-hour-town-hall-say-he-is-losing-support-base)
 
 ---
 
-### 7. 70% of Americans oppose data centers near their homes, now less popular than nuclear power plants opposition towards nearby AI infrastructure heating up as tech companies ramp up projects to acquire more compute 
+### 4. Anthropic s open-source Claude Desktop Buddy turns ESP32-S3 devices into interactive AI desk companions 
 
-A new survey shows 70% of Americans oppose data centers near their homes. This opposition has increased significantly from 47% in a previous survey. Data center projects are becoming more unpopular, especially AI infrastructure.
+Anthropic has released an open-source Claude Desktop Buddy for ESP32-S3 devices, enabling direct interaction with Claude via Bluetooth Low Energy (BLE). The reference project runs on the M5StickC Plus and serves as a small, interactive desk companion for the AI agent. It provides real-time updates and allows for direct button-based responses.
 
-💡 *Rising opposition to AI data centers erodes tech industry's public image.*
+💡 *Interactive AI desk companions blur human-computer interface boundaries effectively*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/70-percent-of-americans-oppose-data-centers-near-their-homes-now-less-popular-than-nuclear-power-plants-opposition-towards-nearby-ai-infrastructure-heating-up-as-tech-companies-ramp-up-projects-to-acquire-more-compute)
-
----
-
-### 8. The Sony Xperia 1 VIII is the anti-flagship flagship: headphone jack, microSD, and thick bezels in 2026 
-
-The Xperia 1 VIII boasts a 6.5-inch display with 120Hz refresh, AMOLED technology, and Corning Gorilla Glass Victus 2 protection. It features a headphone jack and microSD card slot. The device has thick top and bottom bezels.
-
-💡 *Sony defies modern design trends with nostalgic features in 2026 flagship*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112411-sony-xperia-1-viii-anti-flagship-flagship-headphone.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/16/anthropics-open-source-claude-desktop-buddy-turns-esp32-s3-devices-into-interactive-ai-desk-companions/)
 
 ---
 
-### 9. 70% of Americans don't want AI data centers near their home, that's more opposition than nuclear plants get 
+### 5. This robot changes tires faster than any mechanic, without even removing the wheel 
 
-70% of Americans oppose AI data centers near their homes, a strong opposition. This is more resistance than nuclear plants typically face. The negative media stories about AI data centers contribute to this widespread disapproval.
+Boston-based startup Automated Tire unveiled AI-powered robot SmartBay for tire changes and inspections.
 
-💡 *Negative media coverage fuels public opposition to AI data centers.*
+💡 *Revolutionizing tire maintenance with AI-powered efficiency and speed.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112409-seven-ten-americans-oppose-ai-data-centers-making.html)
-
----
-
-### 10. FSR 4 upscaling is finally coming to older Radeon GPUs, and the image quality gains are real 
-
-AMD's Radeon RX 7000 and RX 6000 GPUs will support FSR 4.1, with RX 6000 getting support in 2027. Older GPUs will rely on INT8 processing, a slower alternative. This will bring image quality gains to older graphics cards.
-
-💡 *FSR 4.1 brings image quality gains to older Radeon GPUs*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112412-fsr-4-upscaling-finally-coming-older-radeon-gpus.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112423-robot-changes-tires-faster-than-any-mechanic-without.html)
 
 ---
 
-### 11. Anthropic says more than 90% of its code is now written by AI 
+### 6. AMD keeps gaining on Intel in servers, but desktop PCs tell a different story 
 
-Anthropic's CFO, Krishna Rao, revealed that over 90% of their code is now written by AI. This statement was made on an episode of Patrick O'Shaughnessy's Invest Like the Best podcast. This high percentage highlights the growing reliance on AI in software development.
+AMD is gaining ground on Intel in server CPUs, reaching 46.2% revenue share. This milestone marks a new record for the company's server unit share, which has risen to 33.2%. AMD's Epyc processors are driving this growth in cloud and enterprise infrastructure.
 
-💡 *AI-generated code is rapidly replacing human-written code in tech companies.*
+💡 *AMD's server CPU gains outpace its declining desktop PC market share.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112408-anthropic-more-than-90-code-now-written-ai.html)
-
----
-
-### 12. Two brothers deleted 96 federal databases after being fired one googled how to hide the evidence afterward 
-
-Two brothers, Sohaib and Muneeb Akhter, were convicted of conspiracy to commit computer fraud after deleting 96 federal databases. They had previously worked for federal contractor Opexus before being fired. The incident marks their second federal cybercrime conviction.
-
-💡 *Former employees pose significant insider threat to sensitive information*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112405-two-brothers-deleted-96-federal-databases-after-fired.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112419-amd-keeps-gaining-intel-servers-but-desktop-pcs.html)
 
 ---
 
-### 13. Musk's Colossus 1 AI supercomputer's inefficient mixed-architecture design couldn't be used to train Grok, so Anthropic's using it for inference instead Musk readies unified Blackwell-only Colossus 2 for frontier training and potential IPO 
+### 7. Samsung starts winding down chip production six days before planned 18-day strike company enters 'emergency management mode,' daily losses could hit $2 billion 
 
-Anthropic leases Colossus 1 from SpaceX to alleviate Claude's compute bottlenecks, potentially expanding AI infrastructure ambitions.
+Samsung Electronics has begun reducing semiconductor production ahead of a planned 18-day strike. The move is expected to cause daily losses of up to $2 billion. The company has entered 'emergency management mode' as a result.
 
-💡 *Musk repurposes underutilized AI supercomputer for inference, freeing resources for unified training.*
+💡 *Potential $2 billion daily losses threaten Samsung's financial stability*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-colossus-1-ai-supercomputers-inefficient-mixed-architecture-design-couldnt-be-used-to-train-grok-so-anthropics-using-it-for-inference-instead-musk-readies-unified-blackwell-only-colossus-2-for-frontier-training-and-potential-ipo)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsung-starts-winding-down-chip-producton-six-days-before-planned-18-day-strike)
 
 ---
 
-### 14. GoPro explores sale after falling from $11 billion giant to $187 million company 
+### 8. Sensors Converge panel sees more credible Edge AI apps emerging 
 
-GoPro considers sale or merger amidst shareholder optimism, despite financial struggles.
+Smart glasses with a neural network inside detect early onset of epileptic seizures, showcasing Edge AI growth. This technology converges sensors and AI to create innovative applications.
 
-💡 *Strategic options signal potential for drastic change in company direction.*
+💡 *Edge AI converges sensors and AI for more credible applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112407-gopro-explores-sale-after-falling-11-billion-giant.html)
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/sensors-converge-panel-sees-more-credible-edge-ai-apps-emerging)
+
+---
+
+### 9. European Court of Justice rules Meta must compensate Italian publishers for content use 
+
+The European Court of Justice ruled that Meta must compensate Italian publishers for content use, allowing member states to grant fair compensation to local publishers.
+
+💡 *Fair compensation for content use protects traditional publishers' rights and interests.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112426-european-court-justice-rules-meta-must-compensate-italian.html)
+
+---
+
+### 10. Google trials 5GB storage cap for new Gmail sign-ups without phone numbers 
+
+Google tests 5GB Gmail storage cap for new sign-ups in some regions, requiring a phone number to upgrade to 15GB
+
+💡 *Limited free storage affects basic Gmail users without a phone number*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112425-google-trials-5gb-storage-cap-new-gmail-sign.html)
+
+---
+
+### 11. Man who lost Bitcoin wallet password while high recovers $400,000 using Claude AI after 11-year lockout 
+
+A user recovered $400,000 in lost Bitcoin after 11-year lockout using AI.
+
+💡 *AI can help recover lost cryptocurrency even after long-term password lockouts.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112421-man-who-lost-bitcoin-wallet-password-while-high.html)
+
+---
+
+### 12. Sony Xperia 1 VIII AI Camera Assistant images are so bad people think they were mislabeled 
+
+The Sony Xperia 1 VIII's AI Camera Assistant has been criticized for poor image quality, prompting concerns about mislabeled photos.
+
+💡 *Poor AI Camera Assistant performance undermines phone's high-end camera reputation*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112422-sony-xperia-1-viii-ai-camera-assistant-images.html)
 
 ---
 

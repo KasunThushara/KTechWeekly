@@ -1,135 +1,85 @@
 # 💻 Hardware
-**Week of May 15, 2026**
+**Week of May 16, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-05-15 11:06
+- **Articles this week:** 7
+- **Report generated:** 2026-05-16 10:04
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. M5Stack PaperColor ESP32-S3 devkit features 4-inch E Ink Spectra 6 color display ⭐
+### 1. TP-Link Archer BE770 Wi-Fi 7 router review: Prioritizing wireless performance over wired connectivity 
 
-The M5Stack PaperColor ESP32-S3 devkit features a 4-inch full-color E Ink display, offering low power consumption and high visibility under strong lights. It's equipped with various sensors, buttons, LEDs, and a speaker, and includes a rechargeable 1250 mAh battery. The device supports WiFi, Bluetooth, and microSD storage.
+The TP-Link Archer BE770 excels in wireless performance but falls short with limited wired connectivity options.
 
-💡 *Advancements in ePaper technology for IoT and wearable applications.*
+💡 *Wireless performance takes precedence over wired connectivity in this router design.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/15/m5stack-papercolor-esp32-s3-devkit-features-4-inch-e-ink-spectra-6-color-display/)
-
----
-
-### 2. Start9 RISC-V Router features SpacemiT K1 SoC, runs StartWRT OpenWrt fork (Crowdfunding) ⭐
-
-The Start9 RISC-V Router features a SpacemiT K1 SoC with 8-core RISC-V processor, 4GB RAM, and 16GB eMMC flash, offering dual GbE networking and WiFi 6 capabilities. It runs the StartWRT OpenWrt fork, making it highly customizable. The router is available for crowdfunding.
-
-💡 *Highly customizable, open-source router for tech enthusiasts and developers.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/15/start9-risc-v-router-features-spacemit-k1-soc-startwrt-openwrt-fork/)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/tp-link-archer-be770-wi-fi-7-router-review)
 
 ---
 
-### 3. Turtle Beach Stealth Pro II review: Impressively versatile 
+### 2. Anthropic s open-source Claude Desktop Buddy turns ESP32-S3 devices into interactive AI desk companions 
 
-The Turtle Beach Stealth Pro II headset offers versatile connectivity with multiple 2.4GHz wireless connections using USB-A dongles, making it a highly convenient option for users who need to switch between devices.
+Anthropic has released an open-source Claude Desktop Buddy for ESP32-S3 devices, enabling direct interaction with Claude via Bluetooth Low Energy (BLE). The reference project runs on the M5StickC Plus and serves as a small, interactive desk companion for the AI agent. It provides real-time updates and allows for direct button-based responses.
 
-💡 *Wireless connectivity freedom across multiple devices at once matters.*
+💡 *Interactive AI desk companions blur human-computer interface boundaries effectively*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/turtle-beach-stealth-pro-ii-review)
-
----
-
-### 4. PENOX WristBuds A Bluetooth 6.0 smartwatch with integrated TWS earbuds (Crowdfunding) 
-
-The PENOX WristBuds is a rugged Bluetooth 6.0 smartwatch with integrated TWS earbuds, offering a 2-in-1 device that eliminates the need for a separate charging case.
-
-💡 *Redefining wearable tech with a clutter-free, all-in-one design experience.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/15/penox-wristbuds-a-smartwatch-with-integrated-tws-earbuds/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/16/anthropics-open-source-claude-desktop-buddy-turns-esp32-s3-devices-into-interactive-ai-desk-companions/)
 
 ---
 
-### 5. Yocto Project 6.0 Wrynose released with Linux 6.18 LTS 
+### 3. AMD keeps gaining on Intel in servers, but desktop PCs tell a different story 
 
-The Yocto Project 6.0, codenamed Wrynose, has been released with Linux 6.18 LTS, offering over 4 years of support and improved security features. This release includes toolchain updates and new tools to ease compliance with regulations. It is the first LTS release since Yocto 5.0.
+AMD is gaining ground on Intel in server CPUs, reaching 46.2% revenue share. This milestone marks a new record for the company's server unit share, which has risen to 33.2%. AMD's Epyc processors are driving this growth in cloud and enterprise infrastructure.
 
-💡 *Enhanced security and compliance features for embedded Linux systems.*
+💡 *AMD's server CPU gains outpace its declining desktop PC market share.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/14/yocto-project-6-0-wrynose-released-with-linux-6-18-lts/)
-
----
-
-### 6. Motorola Razr Fold takes on Samsung and Google with a strong first-gen debut 
-
-Motorola's first book-style foldable, the Razr Fold, earns strong early reviews for its design and features.
-
-💡 *Motorola challenges Samsung and Google with a competitive foldable debut.*
-
-🔗 [Read Full Article](https://www.techspot.com/products/smartphones/motorola-razr-fold.324999/)
+🔗 [Read Full Article](https://www.techspot.com/news/112419-amd-keeps-gaining-intel-servers-but-desktop-pcs.html)
 
 ---
 
-### 7. Fully-functional RTX 3070 16GB gets frankensteined into existence by harvesting dead PCBs and RX 6800 XT's VRAM chips doubles frame rate in games like Spider Man 2 at 4K and includes switch for 8GB mode 
+### 4. Acer's monster 18-inch Predator Helios Neo 18 AI gaming laptop drops to $1799 save $400 on this 5070 Ti desktop replacement 
 
-A tech enthusiast has created a functional RTX 3070 with 16GB of VRAM by combining a defective Nvidia card with VRAM chips from an AMD Radeon RX 6800 XT and using a switch to enable 8GB mode.
+Acer's Predator Helios Neo 18 AI gaming laptop drops to $1799, saving $400. This powerful 18-inch laptop features an RTX 5070 Ti desktop replacement GPU. It's an affordable option for gamers seeking high-performance capabilities.
 
-💡 *Reviving dead hardware components can unlock new performance possibilities.*
+💡 *High-performance gaming at an affordable price point emerges*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/fully-functional-rtx-3070-16gb-gets-frankensteined-into-existence-by-harvesting-dead-pcbs-and-rx-6800-xts-vram-chips-doubles-frame-rate-in-games-like-spider-man-2-at-4k-and-includes-switch-for-8gb-mode)
-
----
-
-### 8. With Artemis safely home, NASA eyes radiation for future flights 
-
-NASA plans to use radiation sensors from Artemis II for future missions, pending full testing on tissue chips. These sensors will help protect astronauts from cosmic radiation. The data collected will aid in developing better shielding for future flights.
-
-💡 *Astronaut radiation protection is a top priority for long-term space travel*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/artemis-crew-back-home-nasa-studies-radiation-future-flights)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/acers-monster-18-inch-predator-helios-neo-18-ai-gaming-laptop-drops-to-usd1799-save-usd400-on-this-5070-ti-desktop-replacement)
 
 ---
 
-### 9. Microsoft is finally fixing Windows Update's habit of downgrading your GPU drivers without asking 
+### 5. Dell Alienware's new $1,300 gaming laptop cuts corners by using cheap plastic and older-gen gaming hardware 
 
-Microsoft is changing its policy to prevent WU from downgrading GPU drivers.
+Dell's Alienware 15 gaming laptop offers affordable options with AMD and Intel CPUs, as well as Nvidia GeForce RTX GPUs. A configuration with an AMD Ryzen 5 220 processor and a GeForce RTX 4050 graphics card starts at $1,300. This laptop features multiple hardware configurations, but may cut corners with cheap plastic and older-gen hardware.
 
-💡 *Prevents unnecessary driver downgrades saving users time and performance.*
+💡 *Affordability may come at the cost of quality and performance*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112404-microsoft-finally-tackles-windows-update-annoying-gpu-driver.html)
-
----
-
-### 10. Two brothers deleted 96 federal databases after being fired one googled how to hide the evidence afterward 
-
-Two brothers, Sohaib and Muneeb Akhter, were convicted of conspiracy to commit computer fraud after deleting 96 federal databases. They had previously worked for federal contractor Opexus before being fired. The incident marks their second federal cybercrime conviction.
-
-💡 *Former employees pose significant insider threat to sensitive information*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112405-two-brothers-deleted-96-federal-databases-after-fired.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112418-dell-alienware-15-laptop-cutting-corners-using-cheap.html)
 
 ---
 
-### 11. Musk's Colossus 1 AI supercomputer's inefficient mixed-architecture design couldn't be used to train Grok, so Anthropic's using it for inference instead Musk readies unified Blackwell-only Colossus 2 for frontier training and potential IPO 
+### 6. Modder creates a fully working 16GB RTX 3070 using VRAM from a dead AMD GPU 
 
-Anthropic leases Colossus 1 from SpaceX to alleviate Claude's compute bottlenecks, potentially expanding AI infrastructure ambitions.
+A modder repurposed a dead AMD GPU's VRAM for a working RTX 3070, effectively increasing its capacity to 16GB. This modification involved combining the Gigabyte RTX 3070 Gaming OC with the AMD Radeon RX 6900 XT's VRAM. The project showcases the creativity and resourcefulness of enthusiasts in the tech community.
 
-💡 *Musk repurposes underutilized AI supercomputer for inference, freeing resources for unified training.*
+💡 *Repurposing VRAM from other GPUs can boost performance capabilities*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-colossus-1-ai-supercomputers-inefficient-mixed-architecture-design-couldnt-be-used-to-train-grok-so-anthropics-using-it-for-inference-instead-musk-readies-unified-blackwell-only-colossus-2-for-frontier-training-and-potential-ipo)
+🔗 [Read Full Article](https://www.techspot.com/news/112420-modder-creates-fully-working-16gb-rtx-3070-using.html)
 
 ---
 
-### 12. GoPro explores sale after falling from $11 billion giant to $187 million company 
+### 7. Asus ROG Xreal R1 AR glasses pre-orders start today at $849 240 Hz virtual gaming at 171 inches on PC, Xbox, and PlayStation 
 
-GoPro considers sale or merger amidst shareholder optimism, despite financial struggles.
+Asus ROG Xreal R1 AR glasses pre-order at $849, offering 240 Hz virtual gaming experience on PC, Xbox, and PlayStation, covering up to 171 inches.
 
-💡 *Strategic options signal potential for drastic change in company direction.*
+💡 *High-end gaming glasses for immersive, large-scale PC gaming experiences.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112407-gopro-explores-sale-after-falling-11-billion-giant.html)
+🔗 [Read Full Article](https://www.tomshardware.com/virtual-reality/asus-rog-xreal-r1-ar-glasses-pre-orders-start-today-at-usd849-240-hz-virtual-gaming-at-171-inches-on-pc-xbox-and-playstation)
 
 ---
 

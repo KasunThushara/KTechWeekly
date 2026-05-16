@@ -1,65 +1,75 @@
 # ⚡ Semiconductors
-**Week of May 15, 2026**
+**Week of May 16, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-05-15 11:06
+- **Articles this week:** 6
+- **Report generated:** 2026-05-16 10:04
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. M5Stack PaperColor ESP32-S3 devkit features 4-inch E Ink Spectra 6 color display ⭐
+### 1. Google floats reduced initial 5GB free cloud storage limit, users claim 15GB to require extra security measures, company confirms it is 'testing a new storage policy for new accounts' 
 
-The M5Stack PaperColor ESP32-S3 devkit features a 4-inch full-color E Ink display, offering low power consumption and high visibility under strong lights. It's equipped with various sensors, buttons, LEDs, and a speaker, and includes a rechargeable 1250 mAh battery. The device supports WiFi, Bluetooth, and microSD storage.
+Google is testing a new storage policy for new accounts, confirming a reduced initial 5GB free cloud storage limit. Users claim this change requires extra security measures, specifically for the 15GB limit. The company aims to improve account security and data recovery.
 
-💡 *Advancements in ePaper technology for IoT and wearable applications.*
+💡 *Google's new storage policy prioritizes security over user convenience.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/15/m5stack-papercolor-esp32-s3-devkit-features-4-inch-e-ink-spectra-6-color-display/)
-
----
-
-### 2. Start9 RISC-V Router features SpacemiT K1 SoC, runs StartWRT OpenWrt fork (Crowdfunding) ⭐
-
-The Start9 RISC-V Router features a SpacemiT K1 SoC with 8-core RISC-V processor, 4GB RAM, and 16GB eMMC flash, offering dual GbE networking and WiFi 6 capabilities. It runs the StartWRT OpenWrt fork, making it highly customizable. The router is available for crowdfunding.
-
-💡 *Highly customizable, open-source router for tech enthusiasts and developers.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/15/start9-risc-v-router-features-spacemit-k1-soc-startwrt-openwrt-fork/)
+🔗 [Read Full Article](https://www.tomshardware.com/software/cloud-storage/google-floats-reduced-initial-5gb-free-cloud-storage-limit-users-claim-15gb-to-require-extra-security-measures-company-confirms-it-is-testing-a-new-storage-policy-for-new-accounts)
 
 ---
 
-### 3. AMD makes FSR 4 upscaling official for Radeon RX 7000- and 6000-series cards RDNA 3 and RDNA 2 chips will soon enjoy improved visuals 
+### 2. TP-Link Archer BE770 Wi-Fi 7 router review: Prioritizing wireless performance over wired connectivity 
 
-AMD is officially bringing FSR 4 to Radeon RX 7000- and 6000-series cards, making it available to a wider range of users. This feature, previously exclusive to RX 9000-series cards, will bring improved visuals to older Radeons. The update is expected to roll out in the coming months.
+The TP-Link Archer BE770 excels in wireless performance but falls short with limited wired connectivity options.
 
-💡 *Wider compatibility with FSR 4 boosts Radeon performance and visuals.*
+💡 *Wireless performance takes precedence over wired connectivity in this router design.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/amd-makes-fsr-4-upscaling-official-for-radeon-rx-7000-and-6000-series-cards-rdna-3-and-rdna-2-chips-will-soon-enjoy-improved-visuals)
-
----
-
-### 4. Leading-edge foundry roadmaps for TSMC, Intel and Samsung outlining the path to 1.4nm nodes and beyond 
-
-Leading-edge foundries TSMC, Intel, and Samsung have divergent roadmaps: TSMC prioritizes predictability, Intel focuses on architectural shifts, and Samsung optimizes yields. Their paths to 1.4nm nodes and beyond differ significantly. Each foundry must balance technological advancements with cost and yield considerations.
-
-💡 *Foundry roadmaps diverge, impacting industry's future and innovation pace*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/leading-edge-foundry-roadmaps-for-tsmc-intel-and-samsung-outlining-the-path-to-1-4nm-nodes-and-beyond)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/tp-link-archer-be770-wi-fi-7-router-review)
 
 ---
 
-### 5. With Artemis safely home, NASA eyes radiation for future flights 
+### 3. Apache helicopter 'loyal wingmen' support drones to be used for precision strikes, other duties British Army's Project NYX funding money goes to four firms as effort hits new milestone 
 
-NASA plans to use radiation sensors from Artemis II for future missions, pending full testing on tissue chips. These sensors will help protect astronauts from cosmic radiation. The data collected will aid in developing better shielding for future flights.
+The UK Ministry of Defence has shortlisted four firms to develop 'loyal wingmen' drones that will support British Army Apache helicopters in precision strikes and other duties as part of Project NYX.
 
-💡 *Astronaut radiation protection is a top priority for long-term space travel*
+💡 *Enhancing Apache capabilities with autonomous drones for improved combat efficiency.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/artemis-crew-back-home-nasa-studies-radiation-future-flights)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/apache-helicopter-loyal-wingmen-support-drones-to-be-used-for-precision-strikes-other-duties-british-armys-project-nyx-funding-money-goes-to-four-firms-as-effort-hits-new-milestone)
+
+---
+
+### 4. Trump says China is blocking Nvidia H200 purchases despite US approval says country 'chose not to' sanction purchases, pushing homegrown chips instead 
+
+President Donald Trump claims China is blocking Nvidia H200 purchases, citing US approval was not utilized. China instead chose to sanction purchases and promote homegrown chips.
+
+💡 *China prioritizes domestic chip development over foreign imports.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/trump-says-china-is-blocking-h200-purchases)
+
+---
+
+### 5. Samsung starts winding down chip production six days before planned 18-day strike company enters 'emergency management mode,' daily losses could hit $2 billion 
+
+Samsung Electronics has begun reducing semiconductor production ahead of a planned 18-day strike. The move is expected to cause daily losses of up to $2 billion. The company has entered 'emergency management mode' as a result.
+
+💡 *Potential $2 billion daily losses threaten Samsung's financial stability*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsung-starts-winding-down-chip-producton-six-days-before-planned-18-day-strike)
+
+---
+
+### 6. Google trials 5GB storage cap for new Gmail sign-ups without phone numbers 
+
+Google tests 5GB Gmail storage cap for new sign-ups in some regions, requiring a phone number to upgrade to 15GB
+
+💡 *Limited free storage affects basic Gmail users without a phone number*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112425-google-trials-5gb-storage-cap-new-gmail-sign.html)
 
 ---
 

@@ -1,105 +1,65 @@
 # 🎮 GPUs
-**Week of May 15, 2026**
+**Week of May 16, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-05-15 11:06
+- **Articles this week:** 5
+- **Report generated:** 2026-05-16 10:04
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Forza Horizon 6 GPU Benchmark: 8GB vs. 16GB VRAM 
+### 1. Trump says China is blocking Nvidia H200 purchases despite US approval says country 'chose not to' sanction purchases, pushing homegrown chips instead 
 
-Forza Horizon 6's demanding visuals result in significant VRAM consumption, affecting performance. Testing across various settings and resolutions reveals notable differences between 8GB and 16GB GPUs. The right VRAM choice impacts frame rates and overall gaming experience.
+President Donald Trump claims China is blocking Nvidia H200 purchases, citing US approval was not utilized. China instead chose to sanction purchases and promote homegrown chips.
 
-💡 *8GB VRAM may not be enough for Forza Horizon 6's high graphics settings.*
+💡 *China prioritizes domestic chip development over foreign imports.*
 
-🔗 [Read Full Article](https://www.techspot.com/article/3125-forza-horizon-6-vram-gpu/)
-
----
-
-### 2. AMD GPU owners take to Reddit to report fan problem with driver update Zero RPM feature could cause GPU temperatures to rise unexpectedly 
-
-AMD GPU owners report Zero RPM feature malfunction with driver update, causing GPU temperatures to rise unexpectedly when monitor goes to sleep or turns off.
-
-💡 *GPU temperature control compromised by driver update glitch.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/amd-gpu-owners-take-to-reddit-to-report-fan-problem-with-driver-update-zero-rpm-feature-could-cause-gpu-temperatures-to-rise-unexpectedly)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/trump-says-china-is-blocking-h200-purchases)
 
 ---
 
-### 3. Microsoft is working on a fix to downgraded GPU drivers in Windows Update new system uses multiple IDs 
+### 2. Acer's monster 18-inch Predator Helios Neo 18 AI gaming laptop drops to $1799 save $400 on this 5070 Ti desktop replacement 
 
-Microsoft confirms Windows Update downgrades GPU drivers under certain conditions. A partial fix is in development to minimize driver downgrades. The fix is expected to release later this year.
+Acer's Predator Helios Neo 18 AI gaming laptop drops to $1799, saving $400. This powerful 18-inch laptop features an RTX 5070 Ti desktop replacement GPU. It's an affordable option for gamers seeking high-performance capabilities.
 
-💡 *Preventing driver downgrades avoids potential system crashes and performance issues.*
+💡 *High-performance gaming at an affordable price point emerges*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-is-working-on-a-fix-to-downgraded-gpu-drivers-in-windows-update-new-system-uses-multiple-ids)
-
----
-
-### 4. AMD makes FSR 4 upscaling official for Radeon RX 7000- and 6000-series cards RDNA 3 and RDNA 2 chips will soon enjoy improved visuals 
-
-AMD is officially bringing FSR 4 to Radeon RX 7000- and 6000-series cards, making it available to a wider range of users. This feature, previously exclusive to RX 9000-series cards, will bring improved visuals to older Radeons. The update is expected to roll out in the coming months.
-
-💡 *Wider compatibility with FSR 4 boosts Radeon performance and visuals.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/amd-makes-fsr-4-upscaling-official-for-radeon-rx-7000-and-6000-series-cards-rdna-3-and-rdna-2-chips-will-soon-enjoy-improved-visuals)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/acers-monster-18-inch-predator-helios-neo-18-ai-gaming-laptop-drops-to-usd1799-save-usd400-on-this-5070-ti-desktop-replacement)
 
 ---
 
-### 5. Intel announces McLaren F1 partnership, will battle AMD-powered Mercedes deal includes chips for aerodynamic analysis, vehicle-dynamics simulation, race strategy analytics, and more 
+### 3. Dell Alienware's new $1,300 gaming laptop cuts corners by using cheap plastic and older-gen gaming hardware 
 
-Intel partners with McLaren Racing, expanding their presence in F1. The deal involves collaboration on various aspects, including aerodynamic analysis and vehicle-dynamics simulation. This partnership marks a significant development in the tech-racing landscape.
+Dell's Alienware 15 gaming laptop offers affordable options with AMD and Intel CPUs, as well as Nvidia GeForce RTX GPUs. A configuration with an AMD Ryzen 5 220 processor and a GeForce RTX 4050 graphics card starts at $1,300. This laptop features multiple hardware configurations, but may cut corners with cheap plastic and older-gen hardware.
 
-💡 *Tech giants invest in F1 to improve performance and innovation*
+💡 *Affordability may come at the cost of quality and performance*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/intel-announces-mclaren-f1-partnership-will-battle-amd-powered-mercedes-deal-includes-chips-for-aerodynamic-analysis-vehicle-dynamics-simulation-race-strategy-analytics-and-more)
-
----
-
-### 6. Alienware's budget gaming laptop starts at $1,299 Last-gen parts and a plastic shell bring the premium brand into the mainstream 
-
-Alienware enters the mainstream with a budget gaming laptop starting at $1,299, using last-gen components in a plastic shell.
-
-💡 *Budget-friendly Alienware laptops appeal to a broader gaming audience.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/alienwares-budget-gaming-laptop-starts-at-usd1-299-last-gen-parts-and-a-plastic-shell-bring-the-premium-brand-into-the-mainstream)
+🔗 [Read Full Article](https://www.techspot.com/news/112418-dell-alienware-15-laptop-cutting-corners-using-cheap.html)
 
 ---
 
-### 7. Fully-functional RTX 3070 16GB gets frankensteined into existence by harvesting dead PCBs and RX 6800 XT's VRAM chips doubles frame rate in games like Spider Man 2 at 4K and includes switch for 8GB mode 
+### 4. Modder creates a fully working 16GB RTX 3070 using VRAM from a dead AMD GPU 
 
-A tech enthusiast has created a functional RTX 3070 with 16GB of VRAM by combining a defective Nvidia card with VRAM chips from an AMD Radeon RX 6800 XT and using a switch to enable 8GB mode.
+A modder repurposed a dead AMD GPU's VRAM for a working RTX 3070, effectively increasing its capacity to 16GB. This modification involved combining the Gigabyte RTX 3070 Gaming OC with the AMD Radeon RX 6900 XT's VRAM. The project showcases the creativity and resourcefulness of enthusiasts in the tech community.
 
-💡 *Reviving dead hardware components can unlock new performance possibilities.*
+💡 *Repurposing VRAM from other GPUs can boost performance capabilities*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/fully-functional-rtx-3070-16gb-gets-frankensteined-into-existence-by-harvesting-dead-pcbs-and-rx-6800-xts-vram-chips-doubles-frame-rate-in-games-like-spider-man-2-at-4k-and-includes-switch-for-8gb-mode)
-
----
-
-### 8. FSR 4 upscaling is finally coming to older Radeon GPUs, and the image quality gains are real 
-
-AMD's Radeon RX 7000 and RX 6000 GPUs will support FSR 4.1, with RX 6000 getting support in 2027. Older GPUs will rely on INT8 processing, a slower alternative. This will bring image quality gains to older graphics cards.
-
-💡 *FSR 4.1 brings image quality gains to older Radeon GPUs*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112412-fsr-4-upscaling-finally-coming-older-radeon-gpus.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112420-modder-creates-fully-working-16gb-rtx-3070-using.html)
 
 ---
 
-### 9. Microsoft is finally fixing Windows Update's habit of downgrading your GPU drivers without asking 
+### 5. Asus ROG Xreal R1 AR glasses pre-orders start today at $849 240 Hz virtual gaming at 171 inches on PC, Xbox, and PlayStation 
 
-Microsoft is changing its policy to prevent WU from downgrading GPU drivers.
+Asus ROG Xreal R1 AR glasses pre-order at $849, offering 240 Hz virtual gaming experience on PC, Xbox, and PlayStation, covering up to 171 inches.
 
-💡 *Prevents unnecessary driver downgrades saving users time and performance.*
+💡 *High-end gaming glasses for immersive, large-scale PC gaming experiences.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112404-microsoft-finally-tackles-windows-update-annoying-gpu-driver.html)
+🔗 [Read Full Article](https://www.tomshardware.com/virtual-reality/asus-rog-xreal-r1-ar-glasses-pre-orders-start-today-at-usd849-240-hz-virtual-gaming-at-171-inches-on-pc-xbox-and-playstation)
 
 ---
 
