@@ -1,237 +1,188 @@
 [
   {
-    "title": "Apache helicopter 'loyal wingmen' support drones to be used for precision strikes, other duties British Army's Project NYX funding money goes to four firms as effort hits new milestone",
-    "summary": "The UK Ministry of Defence has shortlisted four firms to develop 'loyal wingmen' drones that will support British Army Apache helicopters in precision strikes and other duties as part of Project NYX.",
-    "link": "https://www.tomshardware.com/tech-industry/apache-helicopter-loyal-wingmen-support-drones-to-be-used-for-precision-strikes-other-duties-british-armys-project-nyx-funding-money-goes-to-four-firms-as-effort-hits-new-milestone",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-16T10:03:40.968672",
-    "insight": "Enhancing Apache capabilities with autonomous drones for improved combat efficiency."
-  },
-  {
-    "title": "Google floats reduced initial 5GB free cloud storage limit, users claim 15GB to require extra security measures, company confirms it is 'testing a new storage policy for new accounts'",
-    "summary": "Google is testing a new storage policy for new accounts, confirming a reduced initial 5GB free cloud storage limit. Users claim this change requires extra security measures, specifically for the 15GB limit. The company aims to improve account security and data recovery.",
-    "link": "https://www.tomshardware.com/software/cloud-storage/google-floats-reduced-initial-5gb-free-cloud-storage-limit-users-claim-15gb-to-require-extra-security-measures-company-confirms-it-is-testing-a-new-storage-policy-for-new-accounts",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-16T10:03:40.968810",
-    "insight": "Google's new storage policy prioritizes security over user convenience."
-  },
-  {
-    "title": "Pennsylvania residents complain they are being 'bulldozed' over AI data center concerns lambast Gov. Shapiro in two-hour town hall, say he is losing support base",
-    "summary": "Pennsylvania residents criticize Governor Josh Shapiro for excessive data center projects, citing concerns for local welfare.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/pennsylvania-residents-complain-they-are-being-bulldozed-over-ai-data-center-concerns-lambast-gov-shapiro-in-two-hour-town-hall-say-he-is-losing-support-base",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-16T10:03:40.968927",
-    "insight": "Balancing economic growth with community welfare is a pressing state concern."
-  },
-  {
-    "title": "Trump says China is blocking Nvidia H200 purchases despite US approval says country 'chose not to' sanction purchases, pushing homegrown chips instead",
-    "summary": "President Donald Trump claims China is blocking Nvidia H200 purchases, citing US approval was not utilized. China instead chose to sanction purchases and promote homegrown chips.",
-    "link": "https://www.tomshardware.com/tech-industry/trump-says-china-is-blocking-h200-purchases",
+    "title": "Jensen Huang slams 'stupid' analogy comparing GPUs to nuclear weapons Nvidia CEO says government should allow selling GPUs to 'adversarial countries'",
+    "summary": "Nvidia CEO Jensen Huang criticized the comparison of AI GPUs to nuclear weapons, arguing it's an 'unfair' and 'stupid' analogy. He believes the government should allow selling GPUs to 'adversarial countries' for the advancement of technology. This stance highlights the importance of innovation and collaboration.",
+    "link": "https://www.tomshardware.com/tech-industry/jensen-huang-says-comparing-gpus-to-atomic-bombs-is-stupid-nvidia-ceo-says-government-should-allow-selling-gpus-to-adversarial-companies",
     "categories": [
       "GPUs",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-16T10:03:40.969037",
-    "insight": "China prioritizes domestic chip development over foreign imports."
+    "processed_date": "2026-05-17T10:12:09.529631",
+    "insight": "Comparing AI GPUs to nuclear weapons hinders global tech progress significantly."
   },
   {
-    "title": "Samsung starts winding down chip production six days before planned 18-day strike company enters 'emergency management mode,' daily losses could hit $2 billion",
-    "summary": "Samsung Electronics has begun reducing semiconductor production ahead of a planned 18-day strike. The move is expected to cause daily losses of up to $2 billion. The company has entered 'emergency management mode' as a result.",
-    "link": "https://www.tomshardware.com/tech-industry/samsung-starts-winding-down-chip-producton-six-days-before-planned-18-day-strike",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-16T10:03:40.969159",
-    "insight": "Potential $2 billion daily losses threaten Samsung's financial stability"
-  },
-  {
-    "title": "TP-Link Archer BE770 Wi-Fi 7 router review: Prioritizing wireless performance over wired connectivity",
-    "summary": "The TP-Link Archer BE770 excels in wireless performance but falls short with limited wired connectivity options.",
-    "link": "https://www.tomshardware.com/networking/routers/tp-link-archer-be770-wi-fi-7-router-review",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-16T10:03:40.969262",
-    "insight": "Wireless performance takes precedence over wired connectivity in this router design."
-  },
-  {
-    "title": "Acer's monster 18-inch Predator Helios Neo 18 AI gaming laptop drops to $1799 save $400 on this 5070 Ti desktop replacement",
-    "summary": "Acer's Predator Helios Neo 18 AI gaming laptop drops to $1799, saving $400. This powerful 18-inch laptop features an RTX 5070 Ti desktop replacement GPU. It's an affordable option for gamers seeking high-performance capabilities.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/acers-monster-18-inch-predator-helios-neo-18-ai-gaming-laptop-drops-to-usd1799-save-usd400-on-this-5070-ti-desktop-replacement",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-16T10:03:40.969362",
-    "insight": "High-performance gaming at an affordable price point emerges"
-  },
-  {
-    "title": "Asus ROG Xreal R1 AR glasses pre-orders start today at $849 240 Hz virtual gaming at 171 inches on PC, Xbox, and PlayStation",
-    "summary": "Asus ROG Xreal R1 AR glasses pre-order at $849, offering 240 Hz virtual gaming experience on PC, Xbox, and PlayStation, covering up to 171 inches.",
-    "link": "https://www.tomshardware.com/virtual-reality/asus-rog-xreal-r1-ar-glasses-pre-orders-start-today-at-usd849-240-hz-virtual-gaming-at-171-inches-on-pc-xbox-and-playstation",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-05-16T10:03:40.969468",
-    "insight": "High-end gaming glasses for immersive, large-scale PC gaming experiences."
-  },
-  {
-    "title": "Anthropic s open-source Claude Desktop Buddy turns ESP32-S3 devices into interactive AI desk companions",
-    "summary": "Anthropic has released an open-source Claude Desktop Buddy for ESP32-S3 devices, enabling direct interaction with Claude via Bluetooth Low Energy (BLE). The reference project runs on the M5StickC Plus and serves as a small, interactive desk companion for the AI agent. It provides real-time updates and allows for direct button-based responses.",
-    "link": "https://www.cnx-software.com/2026/05/16/anthropics-open-source-claude-desktop-buddy-turns-esp32-s3-devices-into-interactive-ai-desk-companions/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-16T10:03:40.970073",
-    "insight": "Interactive AI desk companions blur human-computer interface boundaries effectively"
-  },
-  {
-    "title": "Sensors Converge panel sees more credible Edge AI apps emerging",
-    "summary": "Smart glasses with a neural network inside detect early onset of epileptic seizures, showcasing Edge AI growth. This technology converges sensors and AI to create innovative applications.",
-    "link": "https://www.fiercesensors.com/sensors/sensors-converge-panel-sees-more-credible-edge-ai-apps-emerging",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-16T10:03:40.971048",
-    "insight": "Edge AI converges sensors and AI for more credible applications."
-  },
-  {
-    "title": "European Court of Justice rules Meta must compensate Italian publishers for content use",
-    "summary": "The European Court of Justice ruled that Meta must compensate Italian publishers for content use, allowing member states to grant fair compensation to local publishers.",
-    "link": "https://www.techspot.com/news/112426-european-court-justice-rules-meta-must-compensate-italian.html",
+    "title": "Maker packs an opinionated, googly-eyed AI chatbot into a mobile suitcase, powered by an Nvidia Jetson entirely local machine entity runs Gemma 4 E4B and can respond in 200ms",
+    "summary": "Sparky is an AI chatbot in a mobile suitcase, powered by an Nvidia Jetson Orin NS Super with 16GB of memory, capable of responding in 200ms. This compact entity runs Gemma 4 E4B, making it a portable and efficient AI solution. Sparky's opinionated personality adds a unique touch to the conversation.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maker-packs-an-opinionated-googly-eyed-ai-chatbot-into-a-mobile-suitcase-powered-by-an-nvidia-jetson-entirely-local-machine-entity-runs-gemma-4-e4b-and-can-respond-in-200ms",
     "categories": [
       "AI & ML",
-      "Tech News"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-16T10:03:40.971474",
-    "insight": "Fair compensation for content use protects traditional publishers' rights and interests."
+    "processed_date": "2026-05-17T10:12:09.529722",
+    "insight": "Portable AI brings opinionated conversational capabilities to users everywhere instantly."
   },
   {
-    "title": "Google trials 5GB storage cap for new Gmail sign-ups without phone numbers",
-    "summary": "Google tests 5GB Gmail storage cap for new sign-ups in some regions, requiring a phone number to upgrade to 15GB",
-    "link": "https://www.techspot.com/news/112425-google-trials-5gb-storage-cap-new-gmail-sign.html",
+    "title": "The Core Ultra 7 270K was too good, so Intel scrapped the flagship Core Ultra 9 290K Plus benchmarks of the 290K prototype find slim 2% faster performance in gaming and applications",
+    "summary": "The Core Ultra 9 290K Plus never released due to marginal performance gains. Compared to the Core Ultra 7 270K Plus, it's 2% faster in gaming and 4% faster in synthetic benchmarks and productivity workloads. This lack of significant improvement led Intel to cancel its release.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/the-core-ultra-7-270k-was-too-good-so-intel-scrapped-the-flagship-core-ultra-9-290k-plus-benchmarks-of-the-290k-prototype-find-slim-2-percent-faster-performance-in-gaming-and-applications",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-16T10:03:40.971602",
-    "insight": "Limited free storage affects basic Gmail users without a phone number"
-  },
-  {
-    "title": "Android Studio Panda 4 adds smarter AI planning and predictive coding tools",
-    "summary": "Android Studio Panda 4 introduces AI upgrades like Planning Mode, allowing Gemini to generate and review implementation plans before writing code, alongside a new Gemini API starter template.",
-    "link": "https://www.techspot.com/downloads/6831-android-studio.html",
-    "categories": [
-      "Tech News",
+      "GPUs",
       "AI & ML"
     ],
     "quality_score": 15,
-    "processed_date": "2026-05-16T10:03:40.971752",
-    "insight": "AI-driven development streamlines Android app creation process efficiency"
+    "processed_date": "2026-05-17T10:12:09.529832",
+    "insight": "Intel skipped flagship release due to minimal performance upgrades."
   },
   {
-    "title": "Doom's original soundtrack is now preserved by the Library of Congress",
-    "summary": "The Library of Congress has added Bobby Prince's 1993 Doom soundtrack to the National Recording Registry, recognizing its cultural, historical, and aesthetic importance. This addition acknowledges the soundtrack's impact on gaming and music. The recording is one of 25 selected this year.",
-    "link": "https://www.techspot.com/news/112424-doom-original-soundtrack-now-preserved-library-congress.html",
+    "title": "Texas county passes data center ban for rural areas for a year, move comes in wake of AI data centers moving to remote areas to skirt regulations state senator says counties cannot legally impose these bans",
+    "summary": "Hill County passes 1-year data center ban, but faces potential lawsuits. The ban aims to study effects on the community, but a State Senator questions its legality. The County Attorney warned about potential lawsuits and a State Senator asked for an investigation.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/texas-county-passes-data-center-moratorium-for-a-year-follows-other-local-governments-pausing-similar-projects-but-state-senator-says-counties-cannot-impose-these-bans",
     "categories": [
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-16T10:03:40.971857",
-    "insight": "Preserving the soundtrack secures gaming history's audio legacy"
+    "processed_date": "2026-05-17T10:12:09.529948",
+    "insight": "Rural counties may ban data centers to regulate AI industry growth."
   },
   {
-    "title": "Dell Alienware's new $1,300 gaming laptop cuts corners by using cheap plastic and older-gen gaming hardware",
-    "summary": "Dell's Alienware 15 gaming laptop offers affordable options with AMD and Intel CPUs, as well as Nvidia GeForce RTX GPUs. A configuration with an AMD Ryzen 5 220 processor and a GeForce RTX 4050 graphics card starts at $1,300. This laptop features multiple hardware configurations, but may cut corners with cheap plastic and older-gen hardware.",
-    "link": "https://www.techspot.com/news/112418-dell-alienware-15-laptop-cutting-corners-using-cheap.html",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-16T10:03:40.971976",
-    "insight": "Affordability may come at the cost of quality and performance"
-  },
-  {
-    "title": "Modder creates a fully working 16GB RTX 3070 using VRAM from a dead AMD GPU",
-    "summary": "A modder repurposed a dead AMD GPU's VRAM for a working RTX 3070, effectively increasing its capacity to 16GB. This modification involved combining the Gigabyte RTX 3070 Gaming OC with the AMD Radeon RX 6900 XT's VRAM. The project showcases the creativity and resourcefulness of enthusiasts in the tech community.",
-    "link": "https://www.techspot.com/news/112420-modder-creates-fully-working-16gb-rtx-3070-using.html",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-16T10:03:40.972077",
-    "insight": "Repurposing VRAM from other GPUs can boost performance capabilities"
-  },
-  {
-    "title": "This robot changes tires faster than any mechanic, without even removing the wheel",
-    "summary": "Boston-based startup Automated Tire unveiled AI-powered robot SmartBay for tire changes and inspections.",
-    "link": "https://www.techspot.com/news/112423-robot-changes-tires-faster-than-any-mechanic-without.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-16T10:03:40.972194",
-    "insight": "Revolutionizing tire maintenance with AI-powered efficiency and speed."
-  },
-  {
-    "title": "AMD keeps gaining on Intel in servers, but desktop PCs tell a different story",
-    "summary": "AMD is gaining ground on Intel in server CPUs, reaching 46.2% revenue share. This milestone marks a new record for the company's server unit share, which has risen to 33.2%. AMD's Epyc processors are driving this growth in cloud and enterprise infrastructure.",
-    "link": "https://www.techspot.com/news/112419-amd-keeps-gaining-intel-servers-but-desktop-pcs.html",
+    "title": "60% of PC gamers have no plans to build a new PC in the next two years AI pricing crunch on RAM and other components paralyze enthusiast market",
+    "summary": "A Tom's Hardware survey found 60% of PC gamers won't build a new PC in two years due to high component prices.",
+    "link": "https://www.tomshardware.com/tech-industry/60-percent-of-pc-gamers-have-no-plans-to-build-a-new-pc-in-the-next-two-years-ai-pricing-crunch-on-ram-and-other-components-paralyze-enthusiast-market",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
+    "quality_score": 5,
+    "processed_date": "2026-05-17T10:12:09.530027",
+    "insight": "Component price inflation stifles PC upgrade enthusiasm among gamers."
+  },
+  {
+    "title": "Modder uses Nintendo Switch to boost aging 3D printer's speed by 90%, dropping 3DBenchy print time from 90 minutes to a mere 8 minutes and 41 seconds enthusiast claims big quality improvements by using jailbroken quad-core console",
+    "summary": "A 3D printer's speed was boosted by 90% using a Nintendo Switch and Klipper firmware, reducing print times from 90 minutes to 8 minutes and 41 seconds, while also improving print quality.",
+    "link": "https://www.tomshardware.com/3d-printing/modder-uses-nintendo-switch-to-boost-aging-3d-printers-speed-by-90-percent-dropping-3dbenchy-print-time-from-90-minutes-to-a-mere-8-minutes-and-41-seconds-enthusiast-claims-big-quality-improvements-by-using-jailbroken-quad-core-console",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-17T10:12:09.530108",
+    "insight": "Repurposing consumer tech enhances aging 3D printer performance greatly."
+  },
+  {
+    "title": "AI data centers trigger massive 'irreversible' 76% electricity price spike in largest US region federal watchdog demands tech giants pay for their own power infrastructure",
+    "summary": "A 76% electricity price spike in the US' largest region is attributed to massive data center demand, prompting a federal watchdog to call for tech giants to invest in their own power infrastructure.",
+    "link": "https://www.tomshardware.com/tech-industry/ai-data-centers-trigger-massive-irreversible-76-percent-electricity-price-spike-in-largest-us-region-federal-watchdog-demands-tech-giants-pay-for-their-own-power-infrastructure",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-17T10:12:09.530184",
+    "insight": "Data centers straining grid capacity with unsustainable power demands."
+  },
+  {
+    "title": "Intel Core Ultra 5 250K Plus vs AMD Ryzen 5 7600X3D faceoff Battle for the fastest mid-range gaming CPU",
+    "summary": "Intel's Core Ultra 5 250K Plus competes with AMD's Ryzen 5 7600X3D in mid-range gaming. We compared their performance in gaming, rendering, encoding, and efficiency. The battle for mid-range supremacy has begun.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-250k-plus-vs-amd-ryzen-5-7600x3d-faceoff",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-17T10:12:09.530263",
+    "insight": "Mid-range gaming performance gap between Intel and AMD closes significantly"
+  },
+  {
+    "title": "AI data centers require 36 times more fiber than designs with standard servers severe glass shortages push cable lead times out to a full year",
+    "summary": "Rising demand for AI data centers in China drives fiber shortages, extending lead times to a year due to supply chain limitations.",
+    "link": "https://www.tomshardware.com/tech-industry/ai-data-centers-are-consuming-fiber-optic-cable-faster-than-suppliers-can-make-it",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-17T10:12:09.530342",
+    "insight": "AI data centers exacerbate fiber shortages and supply chain strain."
+  },
+  {
+    "title": "First Apple M5 memory exploit discovered using Anthropic AI, gives root access on MacOS Claude Mythos helps security researchers bypass Memory Integrity Enforcement",
+    "summary": "Researchers have discovered a memory exploit on Apple M5 architecture, granting root access on MacOS. The exploit leverages the Anthropic AI and bypasses Memory Integrity Enforcement. This vulnerability compromises the security of M5-powered devices.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-17T10:12:09.530413",
+    "insight": "M5 security weakened by Anthropic AI-powered memory exploit compromise"
+  },
+  {
+    "title": "M5 Max MacBook Pro paired with RTX 5090 in an eGPU dock runs Cyberpunk 2077 at over 100 FPS at max settings with frame generation",
+    "summary": "A software engineer successfully paired an M5 Max MacBook Pro with an RTX 5090 eGPU to run Cyberpunk 2077 at over 100 FPS with max settings and frame generation, requiring a Linux VM and FEX translation layer.",
+    "link": "https://www.tomshardware.com/laptops/macbooks/m5-max-macbook-pro-paired-with-rtx-5090-in-an-egpu-dock-runs-cyberpunk-2077-at-over-100-fps-at-max-settings-with-frame-generation",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-17T10:12:09.530491",
+    "insight": "Breaking GPU limitations opens doors for high-performance gaming on laptops."
+  },
+  {
+    "title": "Asus enters the RAM market during the largest memory shortage in history, 48GB kit lands at $880 brand's first DDR5 kit makes the RTX 5070 Ti look like a bargain",
+    "summary": "Asus has released its first DDR5 RAM kit, priced at $880, and dubbed the ROG \"DDR5 RGB 20th Anniversary Edition\". The high-end memory kit is part of the company's ROG Day 2026 lineup. The pricey kit aims to cater to enthusiasts.",
+    "link": "https://www.tomshardware.com/pc-components/ram/asus-enters-the-ram-market-during-the-largest-memory-shortage-in-history-brands-first-ddr5-kit-makes-the-rtx-5070-ti-look-like-a-bargain",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-17T10:12:09.530564",
+    "insight": "Historic memory shortage fuels record-breaking RAM prices."
+  },
+  {
+    "title": "ESP32-S3 boards features WAGO connectors for LED strips, buttons, other swappable modules",
+    "summary": "Rev Adrian Kennard has designed open-source ESP32-S3 boards with WAGO connectors for flexibility and reliability in IoT projects such as wearables. The ESP32-S3 boards feature a dual-core processor, WiFi 4, Bluetooth 5.0, and WAGO connectors for easy module swapping. This design makes prototyping and wearables development more efficient and convenient.",
+    "link": "https://www.cnx-software.com/2026/05/17/esp32-s3-boards-features-wago-connectors-for-led-strips-buttons-other-swappable-modules/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-17T10:12:09.531023",
+    "insight": "Flexible IoT prototyping with easy module swapping and reliability matters."
+  },
+  {
+    "title": "Edge AI outlook viewed with cautious optimism",
+    "summary": "Edge AI has reached the early deployment stage after years of trials, according to Lattice. This milestone marks a crucial step towards widespread adoption and efficient processing of data at the edge. Companies can now leverage Edge AI to improve real-time decision-making and enhance user experiences.",
+    "link": "https://www.fiercesensors.com/sensors/edge-ai-outlook-viewed-cautious-optimism",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-05-17T10:12:09.532061",
+    "insight": "Edge AI enables faster, more personalized, and secure data processing"
+  },
+  {
+    "title": "AI could steal fingerprints from high-resolution selfies, experts warn",
+    "summary": "High-resolution selfies can potentially reveal enough detail to recreate fingerprints.",
+    "link": "https://www.techspot.com/news/112427-ai-could-steal-fingerprints-high-resolution-selfies-experts.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-17T10:12:09.532151",
+    "insight": "Biometric security may be vulnerable to sophisticated image-based attacks."
+  },
+  {
+    "title": "Forza Horizon 6 Benchmark: 47 GPUs Tested",
+    "summary": "Forza Horizon 6 puts modern GPUs to the test at various resolutions, with max settings and RT demanding significant performance. Our benchmark tests 47 graphics cards to determine what's required to run the game smoothly. The results provide valuable insights for gamers and hardware enthusiasts.",
+    "link": "https://www.techspot.com/article/3128-forza-horizon-6-benchmark/",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
     "quality_score": 10,
-    "processed_date": "2026-05-16T10:03:40.972304",
-    "insight": "AMD's server CPU gains outpace its declining desktop PC market share."
-  },
-  {
-    "title": "Man who lost Bitcoin wallet password while high recovers $400,000 using Claude AI after 11-year lockout",
-    "summary": "A user recovered $400,000 in lost Bitcoin after 11-year lockout using AI.",
-    "link": "https://www.techspot.com/news/112421-man-who-lost-bitcoin-wallet-password-while-high.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-16T10:03:40.972415",
-    "insight": "AI can help recover lost cryptocurrency even after long-term password lockouts."
-  },
-  {
-    "title": "Sony Xperia 1 VIII AI Camera Assistant images are so bad people think they were mislabeled",
-    "summary": "The Sony Xperia 1 VIII's AI Camera Assistant has been criticized for poor image quality, prompting concerns about mislabeled photos.",
-    "link": "https://www.techspot.com/news/112422-sony-xperia-1-viii-ai-camera-assistant-images.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-16T10:03:40.972513",
-    "insight": "Poor AI Camera Assistant performance undermines phone's high-end camera reputation"
+    "processed_date": "2026-05-17T10:12:09.532222",
+    "insight": "High-performance GPUs struggle with max settings and real-time ray tracing."
   }
 ]

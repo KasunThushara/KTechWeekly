@@ -1,85 +1,65 @@
 # 💻 Hardware
-**Week of May 16, 2026**
+**Week of May 17, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-05-16 10:04
+- **Articles this week:** 5
+- **Report generated:** 2026-05-17 10:12
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. TP-Link Archer BE770 Wi-Fi 7 router review: Prioritizing wireless performance over wired connectivity 
+### 1. ESP32-S3 boards features WAGO connectors for LED strips, buttons, other swappable modules ⭐
 
-The TP-Link Archer BE770 excels in wireless performance but falls short with limited wired connectivity options.
+Rev Adrian Kennard has designed open-source ESP32-S3 boards with WAGO connectors for flexibility and reliability in IoT projects such as wearables. The ESP32-S3 boards feature a dual-core processor, WiFi 4, Bluetooth 5.0, and WAGO connectors for easy module swapping. This design makes prototyping and wearables development more efficient and convenient.
 
-💡 *Wireless performance takes precedence over wired connectivity in this router design.*
+💡 *Flexible IoT prototyping with easy module swapping and reliability matters.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/tp-link-archer-be770-wi-fi-7-router-review)
-
----
-
-### 2. Anthropic s open-source Claude Desktop Buddy turns ESP32-S3 devices into interactive AI desk companions 
-
-Anthropic has released an open-source Claude Desktop Buddy for ESP32-S3 devices, enabling direct interaction with Claude via Bluetooth Low Energy (BLE). The reference project runs on the M5StickC Plus and serves as a small, interactive desk companion for the AI agent. It provides real-time updates and allows for direct button-based responses.
-
-💡 *Interactive AI desk companions blur human-computer interface boundaries effectively*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/16/anthropics-open-source-claude-desktop-buddy-turns-esp32-s3-devices-into-interactive-ai-desk-companions/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/17/esp32-s3-boards-features-wago-connectors-for-led-strips-buttons-other-swappable-modules/)
 
 ---
 
-### 3. AMD keeps gaining on Intel in servers, but desktop PCs tell a different story 
+### 2. Maker packs an opinionated, googly-eyed AI chatbot into a mobile suitcase, powered by an Nvidia Jetson entirely local machine entity runs Gemma 4 E4B and can respond in 200ms 
 
-AMD is gaining ground on Intel in server CPUs, reaching 46.2% revenue share. This milestone marks a new record for the company's server unit share, which has risen to 33.2%. AMD's Epyc processors are driving this growth in cloud and enterprise infrastructure.
+Sparky is an AI chatbot in a mobile suitcase, powered by an Nvidia Jetson Orin NS Super with 16GB of memory, capable of responding in 200ms. This compact entity runs Gemma 4 E4B, making it a portable and efficient AI solution. Sparky's opinionated personality adds a unique touch to the conversation.
 
-💡 *AMD's server CPU gains outpace its declining desktop PC market share.*
+💡 *Portable AI brings opinionated conversational capabilities to users everywhere instantly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112419-amd-keeps-gaining-intel-servers-but-desktop-pcs.html)
-
----
-
-### 4. Acer's monster 18-inch Predator Helios Neo 18 AI gaming laptop drops to $1799 save $400 on this 5070 Ti desktop replacement 
-
-Acer's Predator Helios Neo 18 AI gaming laptop drops to $1799, saving $400. This powerful 18-inch laptop features an RTX 5070 Ti desktop replacement GPU. It's an affordable option for gamers seeking high-performance capabilities.
-
-💡 *High-performance gaming at an affordable price point emerges*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/acers-monster-18-inch-predator-helios-neo-18-ai-gaming-laptop-drops-to-usd1799-save-usd400-on-this-5070-ti-desktop-replacement)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/maker-packs-an-opinionated-googly-eyed-ai-chatbot-into-a-mobile-suitcase-powered-by-an-nvidia-jetson-entirely-local-machine-entity-runs-gemma-4-e4b-and-can-respond-in-200ms)
 
 ---
 
-### 5. Dell Alienware's new $1,300 gaming laptop cuts corners by using cheap plastic and older-gen gaming hardware 
+### 3. 60% of PC gamers have no plans to build a new PC in the next two years AI pricing crunch on RAM and other components paralyze enthusiast market 
 
-Dell's Alienware 15 gaming laptop offers affordable options with AMD and Intel CPUs, as well as Nvidia GeForce RTX GPUs. A configuration with an AMD Ryzen 5 220 processor and a GeForce RTX 4050 graphics card starts at $1,300. This laptop features multiple hardware configurations, but may cut corners with cheap plastic and older-gen hardware.
+A Tom's Hardware survey found 60% of PC gamers won't build a new PC in two years due to high component prices.
 
-💡 *Affordability may come at the cost of quality and performance*
+💡 *Component price inflation stifles PC upgrade enthusiasm among gamers.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112418-dell-alienware-15-laptop-cutting-corners-using-cheap.html)
-
----
-
-### 6. Modder creates a fully working 16GB RTX 3070 using VRAM from a dead AMD GPU 
-
-A modder repurposed a dead AMD GPU's VRAM for a working RTX 3070, effectively increasing its capacity to 16GB. This modification involved combining the Gigabyte RTX 3070 Gaming OC with the AMD Radeon RX 6900 XT's VRAM. The project showcases the creativity and resourcefulness of enthusiasts in the tech community.
-
-💡 *Repurposing VRAM from other GPUs can boost performance capabilities*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112420-modder-creates-fully-working-16gb-rtx-3070-using.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/60-percent-of-pc-gamers-have-no-plans-to-build-a-new-pc-in-the-next-two-years-ai-pricing-crunch-on-ram-and-other-components-paralyze-enthusiast-market)
 
 ---
 
-### 7. Asus ROG Xreal R1 AR glasses pre-orders start today at $849 240 Hz virtual gaming at 171 inches on PC, Xbox, and PlayStation 
+### 4. Intel Core Ultra 5 250K Plus vs AMD Ryzen 5 7600X3D faceoff Battle for the fastest mid-range gaming CPU 
 
-Asus ROG Xreal R1 AR glasses pre-order at $849, offering 240 Hz virtual gaming experience on PC, Xbox, and PlayStation, covering up to 171 inches.
+Intel's Core Ultra 5 250K Plus competes with AMD's Ryzen 5 7600X3D in mid-range gaming. We compared their performance in gaming, rendering, encoding, and efficiency. The battle for mid-range supremacy has begun.
 
-💡 *High-end gaming glasses for immersive, large-scale PC gaming experiences.*
+💡 *Mid-range gaming performance gap between Intel and AMD closes significantly*
 
-🔗 [Read Full Article](https://www.tomshardware.com/virtual-reality/asus-rog-xreal-r1-ar-glasses-pre-orders-start-today-at-usd849-240-hz-virtual-gaming-at-171-inches-on-pc-xbox-and-playstation)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-250k-plus-vs-amd-ryzen-5-7600x3d-faceoff)
+
+---
+
+### 5. AI data centers require 36 times more fiber than designs with standard servers severe glass shortages push cable lead times out to a full year 
+
+Rising demand for AI data centers in China drives fiber shortages, extending lead times to a year due to supply chain limitations.
+
+💡 *AI data centers exacerbate fiber shortages and supply chain strain.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ai-data-centers-are-consuming-fiber-optic-cable-faster-than-suppliers-can-make-it)
 
 ---
 

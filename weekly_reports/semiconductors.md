@@ -1,75 +1,35 @@
 # ⚡ Semiconductors
-**Week of May 16, 2026**
+**Week of May 17, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-05-16 10:04
+- **Articles this week:** 2
+- **Report generated:** 2026-05-17 10:12
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Google floats reduced initial 5GB free cloud storage limit, users claim 15GB to require extra security measures, company confirms it is 'testing a new storage policy for new accounts' 
+### 1. ESP32-S3 boards features WAGO connectors for LED strips, buttons, other swappable modules ⭐
 
-Google is testing a new storage policy for new accounts, confirming a reduced initial 5GB free cloud storage limit. Users claim this change requires extra security measures, specifically for the 15GB limit. The company aims to improve account security and data recovery.
+Rev Adrian Kennard has designed open-source ESP32-S3 boards with WAGO connectors for flexibility and reliability in IoT projects such as wearables. The ESP32-S3 boards feature a dual-core processor, WiFi 4, Bluetooth 5.0, and WAGO connectors for easy module swapping. This design makes prototyping and wearables development more efficient and convenient.
 
-💡 *Google's new storage policy prioritizes security over user convenience.*
+💡 *Flexible IoT prototyping with easy module swapping and reliability matters.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/cloud-storage/google-floats-reduced-initial-5gb-free-cloud-storage-limit-users-claim-15gb-to-require-extra-security-measures-company-confirms-it-is-testing-a-new-storage-policy-for-new-accounts)
-
----
-
-### 2. TP-Link Archer BE770 Wi-Fi 7 router review: Prioritizing wireless performance over wired connectivity 
-
-The TP-Link Archer BE770 excels in wireless performance but falls short with limited wired connectivity options.
-
-💡 *Wireless performance takes precedence over wired connectivity in this router design.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/tp-link-archer-be770-wi-fi-7-router-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/17/esp32-s3-boards-features-wago-connectors-for-led-strips-buttons-other-swappable-modules/)
 
 ---
 
-### 3. Apache helicopter 'loyal wingmen' support drones to be used for precision strikes, other duties British Army's Project NYX funding money goes to four firms as effort hits new milestone 
+### 2. Jensen Huang slams 'stupid' analogy comparing GPUs to nuclear weapons Nvidia CEO says government should allow selling GPUs to 'adversarial countries' 
 
-The UK Ministry of Defence has shortlisted four firms to develop 'loyal wingmen' drones that will support British Army Apache helicopters in precision strikes and other duties as part of Project NYX.
+Nvidia CEO Jensen Huang criticized the comparison of AI GPUs to nuclear weapons, arguing it's an 'unfair' and 'stupid' analogy. He believes the government should allow selling GPUs to 'adversarial countries' for the advancement of technology. This stance highlights the importance of innovation and collaboration.
 
-💡 *Enhancing Apache capabilities with autonomous drones for improved combat efficiency.*
+💡 *Comparing AI GPUs to nuclear weapons hinders global tech progress significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/apache-helicopter-loyal-wingmen-support-drones-to-be-used-for-precision-strikes-other-duties-british-armys-project-nyx-funding-money-goes-to-four-firms-as-effort-hits-new-milestone)
-
----
-
-### 4. Trump says China is blocking Nvidia H200 purchases despite US approval says country 'chose not to' sanction purchases, pushing homegrown chips instead 
-
-President Donald Trump claims China is blocking Nvidia H200 purchases, citing US approval was not utilized. China instead chose to sanction purchases and promote homegrown chips.
-
-💡 *China prioritizes domestic chip development over foreign imports.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/trump-says-china-is-blocking-h200-purchases)
-
----
-
-### 5. Samsung starts winding down chip production six days before planned 18-day strike company enters 'emergency management mode,' daily losses could hit $2 billion 
-
-Samsung Electronics has begun reducing semiconductor production ahead of a planned 18-day strike. The move is expected to cause daily losses of up to $2 billion. The company has entered 'emergency management mode' as a result.
-
-💡 *Potential $2 billion daily losses threaten Samsung's financial stability*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsung-starts-winding-down-chip-producton-six-days-before-planned-18-day-strike)
-
----
-
-### 6. Google trials 5GB storage cap for new Gmail sign-ups without phone numbers 
-
-Google tests 5GB Gmail storage cap for new sign-ups in some regions, requiring a phone number to upgrade to 15GB
-
-💡 *Limited free storage affects basic Gmail users without a phone number*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112425-google-trials-5gb-storage-cap-new-gmail-sign.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/jensen-huang-says-comparing-gpus-to-atomic-bombs-is-stupid-nvidia-ceo-says-government-should-allow-selling-gpus-to-adversarial-companies)
 
 ---
 
