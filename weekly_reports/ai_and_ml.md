@@ -1,135 +1,145 @@
 # 🤖 AI & ML
-**Week of May 17, 2026**
+**Week of May 18, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-05-17 10:12
+- **Articles this week:** 13
+- **Report generated:** 2026-05-18 12:05
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. The Core Ultra 7 270K was too good, so Intel scrapped the flagship Core Ultra 9 290K Plus benchmarks of the 290K prototype find slim 2% faster performance in gaming and applications ⭐
+### 1. Josef Prusa says Bambu Lab allegedly violates AGPL license with an un-auditable network 'black box' warns Chinese 3D printing software poses massive security risks 
 
-The Core Ultra 9 290K Plus never released due to marginal performance gains. Compared to the Core Ultra 7 270K Plus, it's 2% faster in gaming and 4% faster in synthetic benchmarks and productivity workloads. This lack of significant improvement led Intel to cancel its release.
+Josef Prusa warns of potential AGPL license violation by Bambu Lab, citing security risks.
 
-💡 *Intel skipped flagship release due to minimal performance upgrades.*
+💡 *Chinese 3D printing software may pose significant security risks to users.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/the-core-ultra-7-270k-was-too-good-so-intel-scrapped-the-flagship-core-ultra-9-290k-plus-benchmarks-of-the-290k-prototype-find-slim-2-percent-faster-performance-in-gaming-and-applications)
-
----
-
-### 2. First Apple M5 memory exploit discovered using Anthropic AI, gives root access on MacOS Claude Mythos helps security researchers bypass Memory Integrity Enforcement ⭐
-
-Researchers have discovered a memory exploit on Apple M5 architecture, granting root access on MacOS. The exploit leverages the Anthropic AI and bypasses Memory Integrity Enforcement. This vulnerability compromises the security of M5-powered devices.
-
-💡 *M5 security weakened by Anthropic AI-powered memory exploit compromise*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/josef-prusa-warns-chinese-3d-printing-software-poses-massive-security-risks-bambu-lab-allegedly-violates-agpl-license-with-an-un-auditable-network-black-box)
 
 ---
 
-### 3. Maker packs an opinionated, googly-eyed AI chatbot into a mobile suitcase, powered by an Nvidia Jetson entirely local machine entity runs Gemma 4 E4B and can respond in 200ms 
+### 2. Researchers built a switch 1,000 times faster than today's AI chips, and it barely generates any heat 
 
-Sparky is an AI chatbot in a mobile suitcase, powered by an Nvidia Jetson Orin NS Super with 16GB of memory, capable of responding in 200ms. This compact entity runs Gemma 4 E4B, making it a portable and efficient AI solution. Sparky's opinionated personality adds a unique touch to the conversation.
+Researchers built a switch 1,000 times faster than current AI chips, with minimal heat generation. This achievement is based on a new method to flip a binary magnetic state at picosecond speeds. The study was published in Science earlier this week.
 
-💡 *Portable AI brings opinionated conversational capabilities to users everywhere instantly.*
+💡 *Groundbreaking switch speeds enable real-time AI processing and applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/maker-packs-an-opinionated-googly-eyed-ai-chatbot-into-a-mobile-suitcase-powered-by-an-nvidia-jetson-entirely-local-machine-entity-runs-gemma-4-e4b-and-can-respond-in-200ms)
-
----
-
-### 4. Texas county passes data center ban for rural areas for a year, move comes in wake of AI data centers moving to remote areas to skirt regulations state senator says counties cannot legally impose these bans 
-
-Hill County passes 1-year data center ban, but faces potential lawsuits. The ban aims to study effects on the community, but a State Senator questions its legality. The County Attorney warned about potential lawsuits and a State Senator asked for an investigation.
-
-💡 *Rural counties may ban data centers to regulate AI industry growth.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/texas-county-passes-data-center-moratorium-for-a-year-follows-other-local-governments-pausing-similar-projects-but-state-senator-says-counties-cannot-impose-these-bans)
+🔗 [Read Full Article](https://www.techspot.com/news/112430-researchers-built-switch-1000-times-faster-than-today.html)
 
 ---
 
-### 5. 60% of PC gamers have no plans to build a new PC in the next two years AI pricing crunch on RAM and other components paralyze enthusiast market 
+### 3. Samsung granted court injunction against imminent strike action in last-minute reprieve talks resume as unions barred from occupying or locking facilities, obstructing workers 
 
-A Tom's Hardware survey found 60% of PC gamers won't build a new PC in two years due to high component prices.
+Samsung granted injunction against strike action to limit walkout plans. The court ruling bars unions from obstructing workers or occupying facilities. Talks will resume as a result.
 
-💡 *Component price inflation stifles PC upgrade enthusiasm among gamers.*
+💡 *Court intervention limits union's power ahead of planned walkout*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/60-percent-of-pc-gamers-have-no-plans-to-build-a-new-pc-in-the-next-two-years-ai-pricing-crunch-on-ram-and-other-components-paralyze-enthusiast-market)
-
----
-
-### 6. Modder uses Nintendo Switch to boost aging 3D printer's speed by 90%, dropping 3DBenchy print time from 90 minutes to a mere 8 minutes and 41 seconds enthusiast claims big quality improvements by using jailbroken quad-core console 
-
-A 3D printer's speed was boosted by 90% using a Nintendo Switch and Klipper firmware, reducing print times from 90 minutes to 8 minutes and 41 seconds, while also improving print quality.
-
-💡 *Repurposing consumer tech enhances aging 3D printer performance greatly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/modder-uses-nintendo-switch-to-boost-aging-3d-printers-speed-by-90-percent-dropping-3dbenchy-print-time-from-90-minutes-to-a-mere-8-minutes-and-41-seconds-enthusiast-claims-big-quality-improvements-by-using-jailbroken-quad-core-console)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsung-granted-court-injunction-against-imminent-strike-action-in-last-minute-reprieve-talks-resume-as-unions-barred-from-occupying-or-locking-facilities-obstructing-workers)
 
 ---
 
-### 7. AI data centers trigger massive 'irreversible' 76% electricity price spike in largest US region federal watchdog demands tech giants pay for their own power infrastructure 
+### 4. Enthusiast crams reversed-engineered PS2 into a handheld, designs custom motherboard bespoke "PlayStation 2 Portable" pairs modern features with original silicon 
 
-A 76% electricity price spike in the US' largest region is attributed to massive data center demand, prompting a federal watchdog to call for tech giants to invest in their own power infrastructure.
+A custom-built PS2 Portable handheld device allows native PS2 game play on the go, featuring a bespoke motherboard with original PS2 silicon and modern features like hall-effect joysticks. It provides up to 4.5 hours of playtime on a single USB-C charge.
 
-💡 *Data centers straining grid capacity with unsustainable power demands.*
+💡 *Reviving classic gaming without emulation preserves original console experiences.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ai-data-centers-trigger-massive-irreversible-76-percent-electricity-price-spike-in-largest-us-region-federal-watchdog-demands-tech-giants-pay-for-their-own-power-infrastructure)
-
----
-
-### 8. AI data centers require 36 times more fiber than designs with standard servers severe glass shortages push cable lead times out to a full year 
-
-Rising demand for AI data centers in China drives fiber shortages, extending lead times to a year due to supply chain limitations.
-
-💡 *AI data centers exacerbate fiber shortages and supply chain strain.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ai-data-centers-are-consuming-fiber-optic-cable-faster-than-suppliers-can-make-it)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/enthusiast-crams-reversed-engineered-ps2-into-a-handheld-designs-custom-motherboard-bespoke-playstation-2-portable-pairs-modern-features-with-original-silicon)
 
 ---
 
-### 9. M5 Max MacBook Pro paired with RTX 5090 in an eGPU dock runs Cyberpunk 2077 at over 100 FPS at max settings with frame generation 
+### 5. ASML to equip India s first commercial chip fab $11 billion Dholera project targets 50,000 wafers a month 
 
-A software engineer successfully paired an M5 Max MacBook Pro with an RTX 5090 eGPU to run Cyberpunk 2077 at over 100 FPS with max settings and frame generation, requiring a Linux VM and FEX translation layer.
+ASML and Tata Electronics partner to deploy equipment at India's first commercial chip fab, a $11 billion Dholera project aiming to produce 50,000 wafers a month.
 
-💡 *Breaking GPU limitations opens doors for high-performance gaming on laptops.*
+💡 *India takes significant step towards becoming a major chip manufacturing hub.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/m5-max-macbook-pro-paired-with-rtx-5090-in-an-egpu-dock-runs-cyberpunk-2077-at-over-100-fps-at-max-settings-with-frame-generation)
-
----
-
-### 10. Asus enters the RAM market during the largest memory shortage in history, 48GB kit lands at $880 brand's first DDR5 kit makes the RTX 5070 Ti look like a bargain 
-
-Asus has released its first DDR5 RAM kit, priced at $880, and dubbed the ROG "DDR5 RGB 20th Anniversary Edition". The high-end memory kit is part of the company's ROG Day 2026 lineup. The pricey kit aims to cater to enthusiasts.
-
-💡 *Historic memory shortage fuels record-breaking RAM prices.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/asus-enters-the-ram-market-during-the-largest-memory-shortage-in-history-brands-first-ddr5-kit-makes-the-rtx-5070-ti-look-like-a-bargain)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/asml-partners-with-tata-electronics-to-equip-indias-first-commercial-semiconductor-fab)
 
 ---
 
-### 11. AI could steal fingerprints from high-resolution selfies, experts warn 
+### 6. LinkedIn user hides AI prompt injection in bio to force recruitment spam to be sent in Olde English prose bots also manipulated to address user as My Lord  
 
-High-resolution selfies can potentially reveal enough detail to recreate fingerprints.
+A LinkedIn user has used an AI prompt injection to evade recruiter spam by disguising their bio in Olde English prose, forcing bots to address them as 'My Lord'. This unusual tactic has managed to outsmart AI-powered recruitment software.
 
-💡 *Biometric security may be vulnerable to sophisticated image-based attacks.*
+💡 *Recruiters' reliance on AI may be exploited by creative users.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112427-ai-could-steal-fingerprints-high-resolution-selfies-experts.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/linkedin-recruitment-spam-becomes-olde-english-prose-after-user-hides-ai-prompt-injection-in-bio-bots-also-also-manipulated-to-address-user-as-my-lord)
 
 ---
 
-### 12. Edge AI outlook viewed with cautious optimism 
+### 7. Russia s Mikron is selling framed test wafers with up to 120,000 processors as souvenirs 12 designs, priced around $170 each, sold alongside $2 vials of cleanroom air 
 
-Edge AI has reached the early deployment stage after years of trials, according to Lattice. This milestone marks a crucial step towards widespread adoption and efficient processing of data at the edge. Companies can now leverage Edge AI to improve real-time decision-making and enhance user experiences.
+Russia's Mikron sells framed test wafers with 120,000 processors as souvenirs, priced at around $170 each, with 12 designs available. These unique items are sold alongside vials of cleanroom air for $2. The souvenirs offer a glimpse into the company's technological capabilities.
 
-💡 *Edge AI enables faster, more personalized, and secure data processing*
+💡 *Tech companies are monetizing niche products for brand promotion*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/edge-ai-outlook-viewed-cautious-optimism)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/russias-mikron-is-selling-framed-test-wafers-with-up-to-120-000-processors-as-souvenirs-12-designs-priced-around-usd170-each-sold-alongside-usd2-vials-of-cleanroom-air)
+
+---
+
+### 8. Forza Horizon 6 boots up in just 4 seconds instead of 90 with new Advanced Shader Delivery tech and AMD GPUs Microsoft claims 95% reduction in gaming load times 
+
+Microsoft introduces Advanced Shader Delivery to Windows 11 PCs, reducing load times by up to 95%. This technology precompiles shaders, resulting in faster game launches. Forza Horizon 6 loads in 4 seconds instead of 90.
+
+💡 *Faster game loading transforms gaming experiences and user expectations.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/forza-horizon-6-boots-up-in-just-4-seconds-instead-of-90-with-new-advanced-shader-delivery-tech-and-amd-gpus-microsoft-claims-95-percent-reduction-in-gaming-load-times)
+
+---
+
+### 9. OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month bill covered 603 billion tokens across 7.6 million requests and 100 coding agents 
+
+OpenClaw creator spent $1.3 million on OpenAI API tokens in a month, generating 603 billion tokens across 7.6 million requests with 100 Codex instances.
+
+💡 *Massive AI-driven development can result in exorbitant costs unexpectedly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-creator-burns-through-1-3-million-in-openai-api-tokens-in-a-single-month)
+
+---
+
+### 10. Taiwan declares itself 'sovereign and independent' after Trump questions US defense commitment comments come after Trump said he opposes Taiwan independence 
+
+Taiwan declares itself 'sovereign and independent' despite Trump's opposition to independence. This move comes after Trump stated he opposes Taiwan pursuing formal independence. The statement suggests a rift between Taiwan and the US.
+
+💡 *Taiwan's sovereignty hangs in balance due to US-Taiwan diplomatic tensions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/taiwan-declares-itself-sovreign-and-independent-after-trump-questions-us-defense-commitment)
+
+---
+
+### 11. Best of Sensors: Polar ID aims for better face authentication 
+
+Polar ID from Metalenz uses polarization image data to enhance face authentication, offering improved cost and performance compared to conventional methods.
+
+💡 *Breakthrough in face authentication with polarized imaging technology advancements.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/best-sensors-polar-id-aims-better-face-authentication)
+
+---
+
+### 12. Samsung avoids worst-case strike scenario as court restricts union action 
+
+The Suwon District Court has partially approved Samsung's injunction request, restricting union labor actions. The ruling aims to prevent disruptions to production, safety, and property. Workers' actions are limited to avoid damage or interference.
+
+💡 *Regulated labor actions protect Samsung's business continuity and assets.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112434-samsung-avoids-worst-case-strike-scenario-court-restricts.html)
+
+---
+
+### 13. Ex-Google CEO Eric Schmidt's AI-heavy graduation speech goes badly as graduates drown him out with boos 
+
+Eric Schmidt's AI-focused commencement speech at University of Arizona was met with boos.
+
+💡 *Public skepticism towards AI highlights concern for its impact on society.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112432-ex-google-ceo-eric-schmidt-ai-heavy-graduation.html)
 
 ---
 
