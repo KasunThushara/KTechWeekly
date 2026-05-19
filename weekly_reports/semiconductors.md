@@ -1,75 +1,115 @@
 # ⚡ Semiconductors
-**Week of May 18, 2026**
+**Week of May 19, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-05-18 12:05
+- **Articles this week:** 10
+- **Report generated:** 2026-05-19 11:44
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. $13 Qualcomm QCC74xM EVK offers Wi-Fi 6, Bluetooth 5.4, and 802.15.4 connectivity (Bouffalo Lab BL618 inside) ⭐
+### 1. Researchers unveil NAND-DRAM hybrid that could outperform traditional memory ⭐
 
-Qualcomm's QCC74xM EVK is a tri-radio evaluation board with Wi-Fi 6, Bluetooth 5.4, and 802.15.4 connectivity, available for just over $13. The board is based on the Bouffalo Lab BL618 series. It features a 32-bit RISC-V processor and supports various variants depending on the board.
+Imec has developed a 3D NAND-DRAM hybrid memory technology, combining DRAM speed and NAND storage density.
 
-💡 *Affordable, feature-rich IoT development board for mass adoption.*
+💡 *Overcoming the memory wall bottleneck for AI applications*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/18/13-qualcomm-qcc74xm-evk-offers-wi-fi-6-bluetooth-5-4-and-802-15-4-connectivity-bouffalo-lab-bl618-inside/)
-
----
-
-### 2. US FTC reportedly launches antitrust probe into Arm following its launch of its own AGI CPU regulators investigate if chip designer is restricting architecture access to rivals 
-
-The US FTC is probing Arm Holdings for potential antitrust violations. They're investigating if Arm's market dominance is being used to give its new chip manufacturing business an unfair advantage. This could restrict access to its architecture for competitors.
-
-💡 *Dominant chip designer accused of favoring its own manufacturing business.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/us-ftc-reportedly-launches-antitrust-probe-into-arm-following-its-launch-of-its-own-agi-cpu-regulators-investigate-if-chip-designer-is-restricting-architecture-access-to-rivals)
+🔗 [Read Full Article](https://www.techspot.com/news/112437-researchers-unveil-nand-dram-hybrid-could-outperform-traditional.html)
 
 ---
 
-### 3. Semtech FX86E A Compact 5G RedCap and 4G LTE modem for industrial IoT applications 
+### 2. Intel's Project Firefly creates sub-$600 laptops to compete with Apple's MacBook Neo leverages China's smartphone manufacturing blueprint to produce affordable Wildcat Lake systems 
 
-Semtech FX86E is a compact 5G RedCap and 4G LTE cellular modem designed for industrial IoT applications with a MIL-STD-810H military-grade design and low power consumption.
+Intel's Project Firefly uses China's smartphone blueprint to create affordable laptops, leveraging Wildcat Lake processors.
 
-💡 *Industrial IoT gets secure, rugged, and efficient 5G connectivity solutions.*
+💡 *Disrupting traditional laptop pricing with innovative manufacturing strategies.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/18/semtech-fx86e-a-compact-5g-redcap-and-4g-lte-modem-for-industrial-iot-applications/)
-
----
-
-### 4. Researchers built a switch 1,000 times faster than today's AI chips, and it barely generates any heat 
-
-Researchers built a switch 1,000 times faster than current AI chips, with minimal heat generation. This achievement is based on a new method to flip a binary magnetic state at picosecond speeds. The study was published in Science earlier this week.
-
-💡 *Groundbreaking switch speeds enable real-time AI processing and applications.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112430-researchers-built-switch-1000-times-faster-than-today.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/intels-project-firefly-creates-sub-usd600-laptops-to-compete-with-macbook-neo-leverages-chinas-smartphone-manufacturing-blueprint-to-produce-affordable-wildcat-lake-systems)
 
 ---
 
-### 5. Samsung meeting transcripts show memory workers offered incredible 607% bonus worth $477,000, while logic chip staff get as little as 50% union says misbalance 'creates a retention crisis the company cannot afford' 
+### 3. $60 kit transforms the Raspberry Pi 4/5 into a DIN Rail industrial computer with isolated RS232, RS485, and CAN Bus 
 
-Samsung proposed a 607% bonus for memory workers, but only 50% for logic chip staff. This disparity has led to a retention crisis, according to the union. The company's offer is worth $477,000.
+The Waveshare kit transforms Raspberry Pi 4/5 into an industrial computer with isolated interfaces, offering a compact DIN rail or wall mount solution for industrial applications.
 
-💡 *Disparate bonuses exacerbate talent retention issues at Samsung.*
+💡 *Industrial-grade computing made accessible to Raspberry Pi users inexpensively.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/leaked-samsung-meeting-transcripts-show-memory-workers-offered-607-percent-bonus)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/19/60-kit-transforms-the-raspberry-pi-4-5-into-a-din-rail-industrial-controller-with-isolated-rs232-rs485-and-can-bus/)
 
 ---
 
-### 6. ASML to equip India s first commercial chip fab $11 billion Dholera project targets 50,000 wafers a month 
+### 4. ESP32-S3 PowerFeather V2 board gains support for LiFePO4/LFP batteries 
 
-ASML and Tata Electronics partner to deploy equipment at India's first commercial chip fab, a $11 billion Dholera project aiming to produce 50,000 wafers a month.
+The ESP32-S3 PowerFeather V2 board now supports LiFePO4/LFP batteries, along with Li-Ion/LiPo. It features an Analog Devices fuel gauge and TPS631013 buck-boost regulator to ensure stable 3.3V power. This board is ideal for IoT applications with solar panel input and various battery options.
 
-💡 *India takes significant step towards becoming a major chip manufacturing hub.*
+💡 *Enhanced battery safety and longer lifespan for IoT applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/asml-partners-with-tata-electronics-to-equip-indias-first-commercial-semiconductor-fab)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/19/esp32-s3-powerfeather-v2-board-gains-support-for-lifepo4-lfp-batteries/)
+
+---
+
+### 5. LG unveils 'world's first' native 1000 Hz refresh rate at 1080p for serious competitive gaming UltraGear 25G590B to launch in the second half of 2026 
+
+LG unveiled the world's first native 1000Hz refresh rate monitor, the UltraGear 25G590B, supporting 1080p resolution. Unlike previous dual-mode displays, this monitor maintains full-HD resolution for immersive gaming. It is set to launch in the second half of 2026.
+
+💡 *Higher refresh rates enhance competitive gaming experience and immersion.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/lg-unveils-worlds-first-native-1000-hz-refresh-rate-at-1080p-for-serious-competitive-gaming-ultragear-25g590b-to-launch-in-the-second-half-of-2026)
+
+---
+
+### 6. Record-high pricing pushes SSD and memory makers to borrow $880 million just to afford buying chips Adata, TeamGroup, and others take on substantial debt to survive shortages 
+
+SSD and memory makers borrow $880 million to afford chip shortages, with Adata taking on the most debt.
+
+💡 *Chip shortages force manufacturers to take on substantial debt to survive.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/taiwanese-memory-module-makers-raise-880-million-to-stockpile-chips)
+
+---
+
+### 7. Linus Torvalds says flood of duplicate AI-generated vulnerability reports have made Linux security mailing list 'almost entirely unmanageable' private list 'a waste of time for everybody involved' in switch to new public system 
+
+Linus Torvalds criticizes private AI-generated vulnerability reports on Linux mailing list, saying they're a waste of time due to being publicly detectable.
+
+💡 *Publicly detectable AI bugs make private reporting redundant and ineffective.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linus-torvalds-says-ai-bug-reports-have-made-the-linux-security-mailing-list-almost-entirely-unmanageable)
+
+---
+
+### 8. The Best Mouse: Our Favorite Mice for Work and Play 
+
+Discover top-rated mice for work, gaming, and everyday use, covering budget to flagship models.
+
+💡 *Ergonomic design and precision matter for productivity and gaming performance alike.*
+
+🔗 [Read Full Article](https://www.techspot.com/bestof/mouse-26/)
+
+---
+
+### 9. TP-Link's tiny 5-port Gigabit switch drops to just $9 
+
+The TP-Link LiteWave LS1005G is a 5-port Gigabit switch available for $9, a 50% discount from its usual Amazon price.
+
+💡 *Affordable high-speed networking for home and small business setups*
+
+🔗 [Read Full Article](https://www.amazon.com/dp/B0863M7C1L)
+
+---
+
+### 10. VMware Workstation Pro 26H1 brings broader Linux support and quality-of-life upgrades 
+
+VMware Workstation Pro 26H1 adds broader Linux support and quality-of-life upgrades.
+
+💡 *Enhanced virtualization for developers and tinkerers with Linux and Windows.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html)
 
 ---
 

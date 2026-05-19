@@ -1,234 +1,321 @@
 [
   {
-    "title": "LG UltraGear 52G930B 52-inch 5K gaming monitor review: Extreme in every respect",
-    "summary": "LG combines the extremes of size and resolution in its UltraGear 52G930B. It s a 52-inch 1000R curved VA gaming monitor with 5120x2160 pixels, 240 Hz, Adaptive-Sync HDR600, and wide gamut color.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/lg-ultragear-52g930b-52-inch-5k-gaming-monitor-review-extreme-in-every-respect",
+    "title": "LG unveils 'world's first' native 1000 Hz refresh rate at 1080p for serious competitive gaming UltraGear 25G590B to launch in the second half of 2026",
+    "summary": "Unlike previous dual-mode displays that lowered resolution to hit extreme refresh rates, LG s latest monitor supports native 1000Hz gaming at full-HD resolution",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/lg-unveils-worlds-first-native-1000-hz-refresh-rate-at-1080p-for-serious-competitive-gaming-ultragear-25g590b-to-launch-in-the-second-half-of-2026",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-19T11:42:56.545529"
+  },
+  {
+    "title": "Intel's Project Firefly creates sub-$600 laptops to compete with Apple's MacBook Neo leverages China's smartphone manufacturing blueprint to produce affordable Wildcat Lake systems",
+    "summary": "Intel China has unveiled Project Firefly, which borrows a page from China's smartphone supply chain to produce budget-friendly laptops that leverage Wildcat Lake processors.",
+    "link": "https://www.tomshardware.com/laptops/intels-project-firefly-creates-sub-usd600-laptops-to-compete-with-macbook-neo-leverages-chinas-smartphone-manufacturing-blueprint-to-produce-affordable-wildcat-lake-systems",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-19T11:42:56.545672"
+  },
+  {
+    "title": "Researchers attack AMD's Infinity Fabric to bypass hardware security protections with 'Fabricked' flaw lets malicious cloud hosts silently read confidential VM memory and forge attestation reports",
+    "summary": "ETH Zurich researchers disclosed Fabricked, a software-only attack that manipulates AMD Infinity Fabric routing during boot to undermine SEV-SNP protections on EPYC systems, enabling malicious cloud hosts to read confidential VM memory and forge attestation reports",
+    "link": "https://www.tomshardware.com/pc-components/researchers-attack-amds-infinity-fabric-to-bypass-hardware-security-protections-with-fabricked-flaw-lets-malicious-cloud-hosts-silently-read-confidential-vm-memory-and-forge-attestation-reports",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-18T12:04:48.402337"
+    "processed_date": "2026-05-19T11:42:56.545870"
   },
   {
-    "title": "Samsung granted court injunction against imminent strike action in last-minute reprieve talks resume as unions barred from occupying or locking facilities, obstructing workers",
-    "summary": "Samsung has been granted an injunction to limit the scope of planned strike action ahead of an 18-day walkout due to start on Thursday.",
-    "link": "https://www.tomshardware.com/tech-industry/samsung-granted-court-injunction-against-imminent-strike-action-in-last-minute-reprieve-talks-resume-as-unions-barred-from-occupying-or-locking-facilities-obstructing-workers",
+    "title": "Custom-built passive water-cooled PC relies on convection chimney effect powered by triple-stacked radiators 9800X3D build with RTX 5080 has no fans, copper, and radiator chimney, but struggles to keep temperatures down",
+    "summary": "Innovative London-based PC cooling firm Billet Labs builds and showcases a completely passive, fanless, gaming build.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/ambitious-modder-creates-custom-passive-water-cooled-pc-9800x3d-build-with-rtx-5080-has-no-fans-copper-and-radiator-chimney-struggles-to-keep-temperatures-down",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-19T11:42:56.545996"
+  },
+  {
+    "title": "Fans secretly mapped 24 terabytes of Minecraft s infamous 2b2t server, million square block archive to be shared via torrent Intense digital archaeology project has taken years, risked player wrath",
+    "summary": "A digital gaming archaeology project has archived 24TB of data, preserving a million squared block of Minecraft s infamous 2b2t server.",
+    "link": "https://www.tomshardware.com/video-games/fans-release-24tb-million-square-block-archive-of-minecrafts-infamous-2b2t-server-intense-digital-archaeology-project-has-taken-years-to-reach-this-stage",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-19T11:42:56.546100"
+  },
+  {
+    "title": "Next-gen mobile gaming just got $1,150 cheaper Dell slashes RTX 5090 gaming laptop price tag to $4,399",
+    "summary": "Dell is temporarily selling its Alienware 16 Area-51 with a GeForce RTX 5090 for $4,399.99, $1,150 off its regular price tag.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/next-gen-mobile-gaming-just-got-usd1-150-cheaper-dell-slashes-rtx-5090-gaming-laptop-price-tag-to-usd4-399",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-19T11:42:56.546194"
+  },
+  {
+    "title": "Jury throws out Elon Musk's lawsuit against OpenAI after less than two hours of deliberation Unanimous vote that Musk filed the lawsuit too late",
+    "summary": "A federal jury in Oakland, California, on Monday unanimously rejected every claim in Elon Musk's lawsuit against OpenAI.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jury-throws-out-elon-musks-lawsuit-against-openai-after-less-than-two-hours-of-deliberation",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.402493"
+    "processed_date": "2026-05-19T11:42:56.546285"
   },
   {
-    "title": "Samsung meeting transcripts show memory workers offered incredible 607% bonus worth $477,000, while logic chip staff get as little as 50% union says misbalance 'creates a retention crisis the company cannot afford'",
-    "summary": "Internal Samsung wage negotiation transcripts show the company proposed bonuses of 607% of annual salary for its memory chip division in March,",
-    "link": "https://www.tomshardware.com/tech-industry/leaked-samsung-meeting-transcripts-show-memory-workers-offered-607-percent-bonus",
+    "title": "Record-high pricing pushes SSD and memory makers to borrow $880 million just to afford buying chips Adata, TeamGroup, and others take on substantial debt to survive shortages",
+    "summary": "Adata is the largest single borrower in the group, having completed a NT$2 billion convertible bond issuance and secured NT$12 billion in bank loans.",
+    "link": "https://www.tomshardware.com/tech-industry/taiwanese-memory-module-makers-raise-880-million-to-stockpile-chips",
     "categories": [
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.402608"
+    "processed_date": "2026-05-19T11:42:56.546394"
   },
   {
-    "title": "Enthusiast crams reversed-engineered PS2 into a handheld, designs custom motherboard bespoke \"PlayStation 2 Portable\" pairs modern features with original silicon",
-    "summary": "What if you wanted to play PS2 games on the go but didn't want to emulate them? Meet the PS2 Portable: an open-source handheld pieced together with a custom motherboard featuring original PS2 silicon and modern niceties such as hall-effect joysticks. It can play any PS2 game natively for up to 4.5 hours on a single charge, which happens via USB-C.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/enthusiast-crams-reversed-engineered-ps2-into-a-handheld-designs-custom-motherboard-bespoke-playstation-2-portable-pairs-modern-features-with-original-silicon",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.402732"
-  },
-  {
-    "title": "Japan can t make robot wolves fast enough to counter the rise in bear attacks that have killed 13 humans this year $4,000+ animatronic Monster Wolf features intense LEDs and makes loud noises",
-    "summary": "With record numbers of bear attacks on humans, Japan has been increasingly turning to high-tech solutions like the Monster Wolf robot. But production can't keep up with demand.",
-    "link": "https://www.tomshardware.com/maker-stem/robot-kits/japan-cant-make-robot-wolves-fast-enough-to-counter-the-rise-in-bear-attacks-that-have-killed-13-humans-this-year-usd4-000-animatronic-monster-wolf-features-intense-leds-and-makes-loud-noises",
+    "title": "Why now is the best time to jump on the OLED monitor bandwagon breaking down new-gen panel tech and our top burn-in prevention tips",
+    "summary": "Better reliability and dropping prices are making OLED monitors even more attractive.",
+    "link": "https://www.tomshardware.com/monitors/why-now-is-the-best-time-to-jump-on-the-oled-monitor-bandwagon-breaking-down-new-gen-panel-tech-and-our-top-burn-in-prevention-tips",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.402850"
+    "processed_date": "2026-05-19T11:42:56.546481"
   },
   {
-    "title": "ASML to equip India s first commercial chip fab $11 billion Dholera project targets 50,000 wafers a month",
-    "summary": "ASML and Tata Electronics have signed a memorandum of understanding to deploy ASML's equipment at India's first fab.",
-    "link": "https://www.tomshardware.com/tech-industry/asml-partners-with-tata-electronics-to-equip-indias-first-commercial-semiconductor-fab",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.402948"
-  },
-  {
-    "title": "LinkedIn user hides AI prompt injection in bio to force recruitment spam to be sent in Olde English prose bots also manipulated to address user as My Lord ",
-    "summary": "One LinkedIn user has fought back against recruiter spam in a very unusual way.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/linkedin-recruitment-spam-becomes-olde-english-prose-after-user-hides-ai-prompt-injection-in-bio-bots-also-also-manipulated-to-address-user-as-my-lord",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.403044"
-  },
-  {
-    "title": "Russia s Mikron is selling framed test wafers with up to 120,000 processors as souvenirs 12 designs, priced around $170 each, sold alongside $2 vials of cleanroom air",
-    "summary": "Russia s Mikron is earning a bit of cash on the side by selling picture-framed test wafers as souvenirs with 12 designs to choose from, priced around $170.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/russias-mikron-is-selling-framed-test-wafers-with-up-to-120-000-processors-as-souvenirs-12-designs-priced-around-usd170-each-sold-alongside-usd2-vials-of-cleanroom-air",
+    "title": "China says 'world's first' offshore wind-powered underwater data center has entered full operation, houses 2,000 servers 24 megawatt subsea AI facility uses ocean water for passive cooling and offshore wind for power",
+    "summary": "China has begun full operations at a 24 MW underwater AI data center off Shanghai s coast, using offshore wind power and seawater cooling to reduce energy consumption and improve efficiency",
+    "link": "https://www.tomshardware.com/tech-industry/china-says-worlds-first-offshore-wind-powered-underwater-data-center-has-entered-full-operation-houses-2-000-servers-24-megawatt-subsea-ai-facility-uses-ocean-water-for-passive-cooling-and-offshore-wind-for-power",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.403151"
+    "processed_date": "2026-05-19T11:42:56.546587"
   },
   {
-    "title": "Jay Forrester filed the first practical computer RAM patent 75 years ago this week his Magnetic Core Memory patent would be granted five years later",
-    "summary": "Granted as U.S. Patent 2,736,880 in February 1956, Forrester's invention evolved from MIT's Project Whirlwind.",
-    "link": "https://www.tomshardware.com/tech-industry/jay-forrester-filed-the-first-practical-ram-patent-75-years-ago-this-week",
+    "title": "Linus Torvalds says flood of duplicate AI-generated vulnerability reports have made Linux security mailing list 'almost entirely unmanageable' private list 'a waste of time for everybody involved' in switch to new public system",
+    "summary": "\"AI detected bugs are pretty much by definition not secret, and treating them on some private list is a waste of time for everybody involved.\"",
+    "link": "https://www.tomshardware.com/software/linux/linus-torvalds-says-ai-bug-reports-have-made-the-linux-security-mailing-list-almost-entirely-unmanageable",
     "categories": [
-      "Hardware"
+      "AI & ML",
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.403249"
+    "processed_date": "2026-05-19T11:42:56.546689"
   },
   {
-    "title": "Forza Horizon 6 boots up in just 4 seconds instead of 90 with new Advanced Shader Delivery tech and AMD GPUs Microsoft claims 95% reduction in gaming load times",
-    "summary": "Microsoft is bringing Advanced Shader Delivery to Windows 11 PCs at large, after introducing the tech on Xbox ROG Ally handhelds last year. The company says you can expect up to 95% faster load times in Forza Horizon 6, for instance, going from 90 seconds to just 4 seconds on initial launch thanks to precompiled shaders.",
-    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/forza-horizon-6-boots-up-in-just-4-seconds-instead-of-90-with-new-advanced-shader-delivery-tech-and-amd-gpus-microsoft-claims-95-percent-reduction-in-gaming-load-times",
+    "title": "Ubuntu Core 26 targets IoT devices and embedded systems, offers up to 15 years of security maintenance",
+    "summary": "Canonical has just introduced Ubuntu Core 26, based on the recently-released Ubuntu 26.04 LTS and designed for IoT devices and embedded systems, with precise Linux builds, optimized OTA updates, live kernel patching, and enhanced hardware-backed protection for mission-critical deployments. Offered with up to 15 years of security maintenance, Ubuntu Core 26 minimal, immutable operating system enables reduced installation times, 90% smaller OTA updates, and precision-led builds via Chisel. Every component is a containerized snap, just like in prior Ubuntu Core releases. Canonical says it can help companies meet requirements for the EU Cyber Resilience Act (CRA) with securely designed and private AI deployments relying on hardware-based trust. Ubuntu Core 26 highlights: Faster snap installation and updates An improved snap-delta format reduces update sizes between 50% and 90% for most snaps. For instance, updates to the Core base snaps dropped from 16MB to 1.5MB in size. This lowers data usage [...] The post Ubuntu Core 26 targets IoT devices and embedded systems, offers up to 15 years of security maintenance appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/19/ubuntu-core-26-targets-iot-devices-and-embedded-systems-offers-up-to-15-years-of-security-maintenance/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-19T11:42:56.547297"
+  },
+  {
+    "title": "$60 kit transforms the Raspberry Pi 4/5 into a DIN Rail industrial computer with isolated RS232, RS485, and CAN Bus",
+    "summary": "Waveshare s Isolated RS232 / RS485 / CAN / CAN FD Expansion Board For Raspberry Pi kit transforms your Raspberry Pi 4B or 5 into an industrial computer with a DIN rail or wall mount enclosure. The solution also provides access to isolated interfaces, including two RS485, RS232, CAN FD, and CAN Bus interfaces, as well as 7-36V DC input through screw terminals. The complete solution also benefits from the Raspberry Pi s Gigabit Ethernet, four USB ports, and full-size HDMI port (via adapter), as well as support for Raspberry Pi HAT and PCIe expansion boards for NVMe SSD, an additional GbE port, 4G LTE/5G cellular, etc Specifications: Compatible SBCs Raspberry Pi 4B and Raspberry Pi 5 Host interface SPI + UART Isolated industrial interfaces via screw terminals 1x CAN FD with 5kbps ~ 8 Mbps baudrate via MCP2518FD + MCP2562FD chips 1x CAN Bus with 5kbps ~ 1 Mbps [...] The post $60 kit transforms the Raspberry Pi 4/5 into a DIN Rail industrial computer with isolated RS232, RS485, and CAN Bus appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/19/60-kit-transforms-the-raspberry-pi-4-5-into-a-din-rail-industrial-controller-with-isolated-rs232-rs485-and-can-bus/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-19T11:42:56.547465"
+  },
+  {
+    "title": "ESP32-S3 PowerFeather V2 board gains support for LiFePO4/LFP batteries",
+    "summary": "The ESP32-S3 PowerFeather V2 board is an ESP32-S3 WiFi and BLE IoT board with an Adafruit Feather form factor that supports LiFePO4/LFP batteries, as well as Li-Ion or LiPo batteries, and up to 18V DC input for solar panel connection. As one could have guessed, it s an update to the ESP32-S3 PowerFeather board introduced in 2024 with support for solar panel input, Li-Ion, and LiPo batteries. The V2 design is virtually identical, except it features an Analog Devices MAX17260 fuel gauge and a TPS631013 buck-boost regulator that keeps 3.3 V stable to add support for LiFePO4 batteries. Lithium Iron Phosphate batteries are said to be safer and longer-lasting than Li-ion or LiPo batteries, albeit at the cost of lower energy density. ESP32-S3 PowerFeather V2 specifications: ESP32-S3-WROOM-1-N8R2 SoC ESP32-S3 CPU Dual-core Tensilica LX7 up to 240 MHz Memory 512KB SRAM, 16 KB RTC SRAM Wireless 2.4 GHz [...] The post ESP32-S3 PowerFeather V2 board gains support for LiFePO4/LFP batteries appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/19/esp32-s3-powerfeather-v2-board-gains-support-for-lifepo4-lfp-batteries/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-19T11:42:56.547628"
+  },
+  {
+    "title": "The Best Mouse: Our Favorite Mice for Work and Play",
+    "summary": "The best mice for work, gaming, and everything in between tested and ranked across every category, from budget picks to flagship wireless. Read Entire Article",
+    "link": "https://www.techspot.com/bestof/mouse-26/",
     "categories": [
       "GPUs",
-      "AI & ML"
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.403366"
+    "processed_date": "2026-05-19T11:42:56.548984"
   },
   {
-    "title": "US FTC reportedly launches antitrust probe into Arm following its launch of its own AGI CPU regulators investigate if chip designer is restricting architecture access to rivals",
-    "summary": "The U.S. FTC is looking into Arm Holdings to see if it's abusing its market position as a dominant chip designer to gives its new chip manufacturing business an advantage over competitors who build semiconductors based on Arm designs.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/us-ftc-reportedly-launches-antitrust-probe-into-arm-following-its-launch-of-its-own-agi-cpu-regulators-investigate-if-chip-designer-is-restricting-architecture-access-to-rivals",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-18T12:04:48.403520"
-  },
-  {
-    "title": "Josef Prusa says Bambu Lab allegedly violates AGPL license with an un-auditable network 'black box' warns Chinese 3D printing software poses massive security risks",
-    "summary": "While the internet is up in arms over Bambu Lab threatening legal action against an indy OrcaSlicer developer, Josef Prusa once again warns of sheep in wolves' clothing. Prusa, the founder and CEO of Prusa Research and proponent of open source, has often noted that his company is the last Western manufacturer of desktop 3D printers still standing after China began subsidizing manufacturers within its borders.",
-    "link": "https://www.tomshardware.com/3d-printing/josef-prusa-warns-chinese-3d-printing-software-poses-massive-security-risks-bambu-lab-allegedly-violates-agpl-license-with-an-un-auditable-network-black-box",
+    "title": "Elon Musk loses OpenAI trial after jury says he waited too long to sue",
+    "summary": "Musk was one of the co-founders, backers, and initial board members of OpenAI. He claims that when he was approached by Altman and Brockman to help fund the startup in 2015, he was promised that it would be an open-source, not-for-profit company focused on safely creating artificial general intelligence (AGI)... Read Entire Article",
+    "link": "https://www.techspot.com/news/112450-elon-musk-loses-openai-trial-after-jury-waited.html",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-05-18T12:04:48.403651"
-  },
-  {
-    "title": "China bypasses US GPU bans with 1.54-exaflops 'LineShine' supercomputer CPU-only monster packs 2.4 million Huawei-designed Armv9 cores",
-    "summary": "China's National Supercomputing Center in Shenzhen takes a page from Japan's Fugaku supercomputer and Fujitsu's A64FX processor, build LineShine supercomputer based entirely on Armv9-based LineShine LX2 CPUs.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-bypasses-us-gpu-bans-with-1-54-exaflops-lineshine-supercomputer-cpu-only-monster-packs-2-4-million-huawei-designed-armv9-cores",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.403757"
+    "processed_date": "2026-05-19T11:42:56.549147"
   },
   {
-    "title": "OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month bill covered 603 billion tokens across 7.6 million requests and 100 coding agents",
-    "summary": "The bill covered 603 billion tokens across 7.6 million requests, all generated by roughly 100 Codex instances.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-creator-burns-through-1-3-million-in-openai-api-tokens-in-a-single-month",
+    "title": "Amazon's Alexa can now generate podcasts on whatever topic you want. But, will anyone listen?",
+    "summary": "Prime subscribers in the US can now ask Alexa to create audio podcasts on virtually any topic. To provide the AI with reliable sources, Amazon has partnered with The Washington Post (owned by CEO Jeff Bezos), Reuters, the Associated Press, TIME, Forbes, Business Insider, Politico, USA Today, Vox, and more... Read Entire Article",
+    "link": "https://www.techspot.com/news/112446-amazon-alexa-can-now-generate-podcasts-whatever-topic.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.403854"
+    "processed_date": "2026-05-19T11:42:56.549301"
   },
   {
-    "title": "Taiwan declares itself 'sovereign and independent' after Trump questions US defense commitment comments come after Trump said he opposes Taiwan independence",
-    "summary": "The statement came hours after President Donald Trump told Fox News he opposes Taiwan pursuing formal independence.",
-    "link": "https://www.tomshardware.com/tech-industry/taiwan-declares-itself-sovreign-and-independent-after-trump-questions-us-defense-commitment",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.403951"
-  },
-  {
-    "title": "Semtech FX86E A Compact 5G RedCap and 4G LTE modem for industrial IoT applications",
-    "summary": "Semtech FX86E is a 5G RedCap and 4G LTE cellular modem designed for industrial IoT applications such as rugged, long-range security cameras, heavy-duty vehicles, and various solar/battery-powered applications. Based on the company s EM8695 M.2 module powered by a Snapdragon X35 5G RedCap modem, the pre-certified modem supports public and private networks, boasts a MIL-STD-810H military-grade design, IP30 protection, E-Mark certification, and low power consumption. Semtech FX86E specifications: SoC/Memory/Storage TBD Cellular 5G RedCap (Sub-6 Ghz) and LTE Cat-4 Frequency bands 5G RedCap 5G Sub-6 Ghz (FR1 1CC): n1, n2, n3, n5, n7, n8, n12, n13, n14, n18, n20, n25, n26, n28, n30, n38, n40, n41, n48, n66, n70, n71, n77, n78, n79 4G LTE LTE (Cat-4 DL / Cat-3 UL): B1, B2, B3, B4, B5, B7, B8, B12, B13, B14, B17, B18, B19, B20, B25, B26, B28, B30, B34, B38, B39, B40, B41, B42, B43, B48, B66, B70, [...] The post Semtech FX86E A Compact 5G RedCap and 4G LTE modem for industrial IoT applications appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/18/semtech-fx86e-a-compact-5g-redcap-and-4g-lte-modem-for-industrial-iot-applications/",
+    "title": "TP-Link's tiny 5-port Gigabit switch drops to just $9",
+    "summary": "The TP-Link LiteWave LS1005G is a simple a 5-port Gigabit switch, currently available for just $9. That's 50% off its usual Amazon price. The unmanaged switch offers plug-and-play setup, fanless operation, and Gigabit speeds across all five ports. Read Entire Article",
+    "link": "https://www.amazon.com/dp/B0863M7C1L",
     "categories": [
       "Semiconductors",
-      "Hardware"
+      "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-05-18T12:04:48.404470"
+    "quality_score": 5,
+    "processed_date": "2026-05-19T11:42:56.549439"
   },
   {
-    "title": "$13 Qualcomm QCC74xM EVK offers Wi-Fi 6, Bluetooth 5.4, and 802.15.4 connectivity (Bouffalo Lab BL618 inside)",
-    "summary": "Back in November 2024, we wrote about Qualcomm s QCC730M and QCC74xM modules for low-power IoT devices, but at the time, there was no evaluation board EVK for those SoCs. Fast forward to today, and the official development boards for the QCC74x series have finally been released, complete with a surprisingly affordable price tag. The Qualcomm QCC74xM EVK is a tri-radio evaluation board with Wi-Fi 6, Bluetooth 5.4, and IEEE 802.15.4 (Thread/Zigbee) with a price tag of just over $13. But what is interesting is that, while it carries the Qualcomm brand, documentation from the Zephyr Project clearly shows that the QCC74x series is actually based on and mostly equivalent to the Bouffalo Lab BL61x series, specifically the BL618. Qualcomm QCC74xM EVK specifications: Wireless Module Qualcomm QCC74xM LGA Module (QCC743M, QCC744M, or QCC748M depending on the board variant) CPU 32-bit RISC-V processor (RV32IMAFCP) @ up to 325 MHz with FPU [...] The post $13 Qualcomm QCC74xM EVK offers Wi-Fi 6, Bluetooth 5.4, and 802.15.4 connectivity (Bouffalo Lab BL618 inside) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/18/13-qualcomm-qcc74xm-evk-offers-wi-fi-6-bluetooth-5-4-and-802-15-4-connectivity-bouffalo-lab-bl618-inside/",
+    "title": "ArXiv will ban researchers for a year if they submit papers with AI slop",
+    "summary": "The arXiv (pronounced \"archive\") team recently announced a significant update to its official code of conduct. The popular open-access repository of research papers awaiting peer review will now seek to deter AI-generated \"slop\" by enforcing stricter accountability rules, including a one-year ban for violations. The team said that using LLMs... Read Entire Article",
+    "link": "https://www.techspot.com/news/112442-arxiv-moves-combat-ai-slop-submissions-one-year.html",
     "categories": [
-      "Hardware",
-      "Semiconductors"
+      "AI & ML",
+      "Tech News"
     ],
     "quality_score": 20,
-    "processed_date": "2026-05-18T12:04:48.404641"
+    "processed_date": "2026-05-19T11:42:56.549605"
   },
   {
-    "title": "Geniatech APC888 NXP i.MX 95-powered Edge AI Box PC takes M.2 AI accelerator from Hailo, MemryX, NXP, or DeepX",
-    "summary": "Geniatech APC888 Edge AI Box PC is powered by an NXP i.MX 95 Cortex-A55/M7/M33 applications processor, and features an M.2 socket for AI accelerator from Hailo, MemryX, DeepX, or Kinara (now NXP). The system comes with 4GB LPDDR5 and 32GB eMMC flash by default, features two Gigabit Ethernet ports, optional WiFi, Bluetooth, cellular, and GNSS connectivity, and two USB 3.0 ports. It s available in commercial and industrial temperature grades. Geniatech APC888 specifications: SoC NXP i.MX 95 CPU Up to 6x Arm Cortex-A55 application cores clocked at 1.8 GHz with 32KB I-cache and D-cache, 64KB L2 cache, and 512KB L3 cache 1x Arm Cortex-M7 real-time core clocked at 800 MHz 1x Arm Cortex-M33 safety core clocked at 333 MHz GPU Arm Mali-G310 V2 GPU for 2D/3D acceleration with support for OpenGL ES 3.2, OpenCL 3.0 VPU 1080p60/4Kp30 H.265 and H.264 encode and decode JPEG Encoder, JPEG Decoder Decoding [...] The post Geniatech APC888 NXP i.MX 95-powered Edge AI Box PC takes M.2 AI accelerator from Hailo, MemryX, NXP, or DeepX appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/18/geniatech-apc888-nxp-i-mx-95-powered-edge-ai-box-pc-takes-m-2-ai-accelerator-from-hailo-memryx-nxp-or-deepx/",
+    "title": "Terraria celebrates 15 years of crafting, mining, and survival",
+    "summary": "Terraria can be played alone or online with others. It originated on the PC but was eventually ported to consoles and mobile devices. Gameplay is accentuated by a stellar soundtrack and above all else, it's a blast to play. Those needing proof of that need look no further than the... Read Entire Article",
+    "link": "https://www.techspot.com/news/112444-terraria-celebrates-15-years-crafting-mining-survival.html",
     "categories": [
-      "Hardware",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-19T11:42:56.549772"
+  },
+  {
+    "title": "Researchers unveil NAND-DRAM hybrid that could outperform traditional memory",
+    "summary": "Leuven, Belgium-based nanotechnology and semiconductor research center Imec has unveiled what it describes as the world's first 3D implementation of a charge-coupled device (CCD) designed for AI memory applications. The new technology combines the speed of DRAM with the storage density of NAND flash, potentially reducing the \"memory wall\" bottleneck,... Read Entire Article",
+    "link": "https://www.techspot.com/news/112437-researchers-unveil-nand-dram-hybrid-could-outperform-traditional.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-19T11:42:56.549941"
+  },
+  {
+    "title": "One company now controls more than 4% of all Bitcoin",
+    "summary": "As of this writing, Bitcoin is trading around $76,574 per, valuing the company's holding at roughly $64.6 billion. Strategy shelled out just over $2 billion during its latest spending spree. Read Entire Article",
+    "link": "https://www.techspot.com/news/112440-one-company-now-controls-more-than-4-total.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-19T11:42:56.550071"
+  },
+  {
+    "title": "Dell makes its strongest case yet for keeping AI out of the cloud",
+    "summary": "The cloud-only AI narrative is getting harder to defend. At this year's Dell Technologies World in Las Vegas, Dell is making its case backed by real customer deployments and new product announcements that enterprises are running serious AI workloads on their own infrastructure, from corporate data centers down... Read Entire Article",
+    "link": "https://www.techspot.com/news/112438-dell-makes-strongest-case-keeping-ai-out-cloud.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-19T11:42:56.550221"
+  },
+  {
+    "title": "AMD Radeon RX 9070 XT deal drops to $629 as GPU prices slowly cool off",
+    "summary": "Gigabyte's Radeon RX 9070 XT Gaming OC is down to $629 on Amazon as a Lightning Deal, marking one of the lower prices we've seen for the card these days. It features 16GB GDDR6 memory, triple-fan cooling, factory overclocking, and enough horsepower for high-refresh 1440p gaming with capable 4K performance in most modern titles. Read Entire Article",
+    "link": "https://www.techspot.com/specs/gpu/305058-amd-radeon-rx-9070-xt.html",
+    "categories": [
       "GPUs"
     ],
+    "quality_score": 0,
+    "processed_date": "2026-05-19T11:42:56.550368"
+  },
+  {
+    "title": "A Windows 11 speed boost is coming as soon as next month, along with a taskbar you can finally move",
+    "summary": "This new optimization push comes even as the company continues its campaign to embed Copilot almost everywhere and for everything. CEO Satya Nadella has acknowledged the need to win back users who have grown skeptical of the platform. Part of that effort is a renewed focus on raw performance, particularly... Read Entire Article",
+    "link": "https://www.techspot.com/news/112431-windows-11-speed-boost-coming-soon-next-month.html",
+    "categories": [
+      "AI & ML"
+    ],
     "quality_score": 10,
-    "processed_date": "2026-05-18T12:04:48.404807"
+    "processed_date": "2026-05-19T11:42:56.550525"
   },
   {
-    "title": "Best of Sensors: Polar ID aims for better face authentication",
-    "summary": "Polar ID from Metalenz leverages polarization image data to improve upon the cost and performance of convential face authentication.",
-    "link": "https://www.fiercesensors.com/sensors/best-sensors-polar-id-aims-better-face-authentication",
+    "title": "Discord improves Linux support with Steam Deck and distro-friendly upgrades",
+    "summary": "Discord is now more Linux friendly than ever before, having rolled out major improvements for the OS, including official packages for Fedora and Arch distros. A new self-updater brings Linux closer to the Windows experience, and better support for the Steam Deck. The update also adds hardware video acceleration for AMD, Intel, and Nvidia GPUs. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/6871-discord.html",
     "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-19T11:42:56.550681"
+  },
+  {
+    "title": "Forget Raspberry Pi: this computer is the literally the size of a credit card",
+    "summary": "For years, Raspberry Pi boards and similar devices have been marketed as credit card-sized computers. But while that description is fair in terms of length and width, it's not so accurate when it comes to thickness, ports, headers, and the general likelihood of one sitting comfortably next to your Visa. Read Entire Article",
+    "link": "https://www.techspot.com/news/112436-forget-raspberry-pi-computer-literally-size-credit-card.html",
+    "categories": [
+      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.405733"
+    "processed_date": "2026-05-19T11:42:56.550863"
   },
   {
-    "title": "Samsung avoids worst-case strike scenario as court restricts union action",
-    "summary": "The Suwon District Court has partially approved Samsung Electronics' request for an injunction against labor actions planned by its unions. The ruling says any strike must not disrupt production, damage materials or finished products, or interfere with safety-related operations. Workers are also barred from blocking access to company sites or... Read Entire Article",
-    "link": "https://www.techspot.com/news/112434-samsung-avoids-worst-case-strike-scenario-court-restricts.html",
+    "title": "The first computer mouse: how many buttons did it have?",
+    "summary": "One button, two buttons... three? Read Entire Article",
+    "link": "https://www.techspot.com/trivia/68-first-computer-mouse-how-many-buttons-did-have/",
     "categories": [
-      "AI & ML"
+      "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.406021"
+    "quality_score": 0,
+    "processed_date": "2026-05-19T11:42:56.550984"
   },
   {
-    "title": "Ex-Google CEO Eric Schmidt's AI-heavy graduation speech goes badly as graduates drown him out with boos",
-    "summary": "Schmidt, who served as Google's CEO during its early years between 2001 and 2011 and was Alphabet chairman until 2017, was speaking about AI during a commencement speech at the University of Arizona. Read Entire Article",
-    "link": "https://www.techspot.com/news/112432-ex-google-ceo-eric-schmidt-ai-heavy-graduation.html",
+    "title": "VMware Workstation Pro 26H1 brings broader Linux support and quality-of-life upgrades",
+    "summary": "VMware Workstation Pro 26H1 adds broader Linux support, full 64-bit Windows components, and direct connections to remote ESXi Arm hosts. The update also introduces several quality-of-life fixes requested since Broadcom made Workstation free . For developers, tinkerers, and anyone juggling Linux distros or Windows test environments, Workstation Pro remains one of the easiest ways to run reliable virtual machines on a PC. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-18T12:04:48.406123"
-  },
-  {
-    "title": "Researchers built a switch 1,000 times faster than today's AI chips, and it barely generates any heat",
-    "summary": "The research, which was published in Science earlier this week, builds on another study published in Nature in January 2025. It demonstrates a new way to flip a binary magnetic state at picosecond speeds - a massive improvement over the nanosecond-scale switching considered standard for modern silicon-based processors. Read Entire Article",
-    "link": "https://www.techspot.com/news/112430-researchers-built-switch-1000-times-faster-than-today.html",
-    "categories": [
-      "AI & ML",
+      "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-05-18T12:04:48.406238"
+    "quality_score": 5,
+    "processed_date": "2026-05-19T11:42:56.551153"
+  },
+  {
+    "title": "Japan is using $4,000 animatronic wolves to scare off bears, and can't make them fast enough",
+    "summary": "Bear attacks are a serious problem in Japan. The animals killed 13 people across the country in 2025-2026, more than twice the previous high, and there have been numerous other attacks and incidents that didn't lead to fatalities. Sightings, meanwhile, rose to 50,000, which was also double the previous record. Read Entire Article",
+    "link": "https://www.techspot.com/news/112435-demand-japan-robotic-monster-wolves-explodes-amid-record.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-19T11:42:56.551302"
   }
 ]

@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of May 18, 2026**
+**Week of May 19, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. $13 Qualcomm QCC74xM EVK offers Wi-Fi 6, Bluetooth 5.4, and 802.15.4 connectivity (Bouffalo Lab BL618 inside) ⭐
+### 1. ArXiv will ban researchers for a year if they submit papers with AI slop ⭐
 
-**💻 Hardware**
+**🤖 AI & ML**
 
-Qualcomm's QCC74xM EVK is a tri-radio evaluation board with Wi-Fi 6, Bluetooth 5.4, and 802.15.4 connectivity, available for just over $13. The board is based on the Bouffalo Lab BL618 series. It features a 32-bit RISC-V processor and supports various variants depending on the board.
+ArXiv updates code of conduct to deter AI-generated 'slop', enforcing a one-year ban for violators.
 
-💡 **Key Point:** Affordable, feature-rich IoT development board for mass adoption.
+💡 **Key Point:** Authenticity of research is at stake with AI-generated content proliferating.
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/18/13-qualcomm-qcc74xm-evk-offers-wi-fi-6-bluetooth-5-4-and-802-15-4-connectivity-bouffalo-lab-bl618-inside/)
+🔗 [Read More](https://www.techspot.com/news/112442-arxiv-moves-combat-ai-slop-submissions-one-year.html)
 
 ---
 
-### 2. $13 Qualcomm QCC74xM EVK offers Wi-Fi 6, Bluetooth 5.4, and 802.15.4 connectivity (Bouffalo Lab BL618 inside) ⭐
+### 2. ArXiv will ban researchers for a year if they submit papers with AI slop ⭐
+
+**📰 Tech News**
+
+ArXiv updates code of conduct to deter AI-generated 'slop', enforcing a one-year ban for violators.
+
+💡 **Key Point:** Authenticity of research is at stake with AI-generated content proliferating.
+
+🔗 [Read More](https://www.techspot.com/news/112442-arxiv-moves-combat-ai-slop-submissions-one-year.html)
+
+---
+
+### 3. Researchers unveil NAND-DRAM hybrid that could outperform traditional memory ⭐
 
 **⚡ Semiconductors**
 
-Qualcomm's QCC74xM EVK is a tri-radio evaluation board with Wi-Fi 6, Bluetooth 5.4, and 802.15.4 connectivity, available for just over $13. The board is based on the Bouffalo Lab BL618 series. It features a 32-bit RISC-V processor and supports various variants depending on the board.
+Imec has developed a 3D NAND-DRAM hybrid memory technology, combining DRAM speed and NAND storage density.
 
-💡 **Key Point:** Affordable, feature-rich IoT development board for mass adoption.
+💡 **Key Point:** Overcoming the memory wall bottleneck for AI applications
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/18/13-qualcomm-qcc74xm-evk-offers-wi-fi-6-bluetooth-5-4-and-802-15-4-connectivity-bouffalo-lab-bl618-inside/)
-
----
-
-### 3. LG UltraGear 52G930B 52-inch 5K gaming monitor review: Extreme in every respect 
-
-**💻 Hardware**
-
-LG's UltraGear 52G930B is a 52-inch 5K gaming monitor with extreme specs, boasting a 1000R curved VA panel, 240 Hz refresh rate, Adaptive-Sync HDR600, and wide gamut color, making it ideal for immersive gaming.
-
-💡 **Key Point:** Unparalleled gaming immersion with ultra-high resolution and refresh rate
-
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/lg-ultragear-52g930b-52-inch-5k-gaming-monitor-review-extreme-in-every-respect)
+🔗 [Read More](https://www.techspot.com/news/112437-researchers-unveil-nand-dram-hybrid-could-outperform-traditional.html)
 
 ---
 
-### 4. US FTC reportedly launches antitrust probe into Arm following its launch of its own AGI CPU regulators investigate if chip designer is restricting architecture access to rivals 
+### 4. Researchers unveil NAND-DRAM hybrid that could outperform traditional memory ⭐
 
-**💻 Hardware**
+**🤖 AI & ML**
 
-The US FTC is probing Arm Holdings for potential antitrust violations. They're investigating if Arm's market dominance is being used to give its new chip manufacturing business an unfair advantage. This could restrict access to its architecture for competitors.
+Imec has developed a 3D NAND-DRAM hybrid memory technology, combining DRAM speed and NAND storage density.
 
-💡 **Key Point:** Dominant chip designer accused of favoring its own manufacturing business.
+💡 **Key Point:** Overcoming the memory wall bottleneck for AI applications
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/big-tech/us-ftc-reportedly-launches-antitrust-probe-into-arm-following-its-launch-of-its-own-agi-cpu-regulators-investigate-if-chip-designer-is-restricting-architecture-access-to-rivals)
+🔗 [Read More](https://www.techspot.com/news/112437-researchers-unveil-nand-dram-hybrid-could-outperform-traditional.html)
 
 ---
 
-### 5. Josef Prusa says Bambu Lab allegedly violates AGPL license with an un-auditable network 'black box' warns Chinese 3D printing software poses massive security risks 
+### 5. Researchers attack AMD's Infinity Fabric to bypass hardware security protections with 'Fabricked' flaw lets malicious cloud hosts silently read confidential VM memory and forge attestation reports 
 
-**💻 Hardware**
+**🎮 GPUs**
 
-Josef Prusa warns of potential AGPL license violation by Bambu Lab, citing security risks.
+ETH Zurich researchers found a software-only attack on AMD Infinity Fabric, allowing malicious cloud hosts to read confidential VM memory and forge attestation reports on EPYC systems.
 
-💡 **Key Point:** Chinese 3D printing software may pose significant security risks to users.
+💡 **Key Point:** AMD Infinity Fabric bypassed, compromising sensitive cloud data security
 
-🔗 [Read More](https://www.tomshardware.com/3d-printing/josef-prusa-warns-chinese-3d-printing-software-poses-massive-security-risks-bambu-lab-allegedly-violates-agpl-license-with-an-un-auditable-network-black-box)
+🔗 [Read More](https://www.tomshardware.com/pc-components/researchers-attack-amds-infinity-fabric-to-bypass-hardware-security-protections-with-fabricked-flaw-lets-malicious-cloud-hosts-silently-read-confidential-vm-memory-and-forge-attestation-reports)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **34 articles** across **5 focused categories**.
+We covered **49 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 13 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 1 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 12 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 8 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 15 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 10 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 13 articles
+*Artificial Intelligence and Machine Learning* — 12 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 4 articles
+*Graphics cards and compute accelerators* — 8 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 10 articles
+*Computing hardware and development boards* — 15 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 6 articles
+*Chip manufacturing and design* — 10 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 1 articles
+*Industry news and product launches* — 4 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-05-18 at 12:05 by an autonomous AI curation system.
+Generated 2026-05-19 at 11:44 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
