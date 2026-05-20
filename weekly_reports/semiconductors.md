@@ -1,115 +1,93 @@
 # ⚡ Semiconductors
-**Week of May 19, 2026**
+**Week of May 20, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-05-19 11:44
+- **Articles this week:** 8
+- **Report generated:** 2026-05-20 11:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Researchers unveil NAND-DRAM hybrid that could outperform traditional memory ⭐
+### 1. Firefly CSC2-N48SPK3 A 2880 TOPS RISC-V AI server with 48 SpacemiT K3 Nodes, 48 NVMe SSDs ⭐
 
-Imec has developed a 3D NAND-DRAM hybrid memory technology, combining DRAM speed and NAND storage density.
+Firefly's CSC2-N48SPK3 is a 2U rack-mounted server featuring 48 SpacemiT K3 nodes, each delivering up to 60 TOPS AI performance. The server also includes 48 NVMe SSDs, a Rockchip RK3588 central control node, and up to 32GB LPDDR5 RAM per node. This powerful RISC-V AI server is designed for large-scale enterprise applications.
 
-💡 *Overcoming the memory wall bottleneck for AI applications*
+💡 *Massive RISC-V compute power for enterprise AI workloads*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112437-researchers-unveil-nand-dram-hybrid-could-outperform-traditional.html)
-
----
-
-### 2. Intel's Project Firefly creates sub-$600 laptops to compete with Apple's MacBook Neo leverages China's smartphone manufacturing blueprint to produce affordable Wildcat Lake systems 
-
-Intel's Project Firefly uses China's smartphone blueprint to create affordable laptops, leveraging Wildcat Lake processors.
-
-💡 *Disrupting traditional laptop pricing with innovative manufacturing strategies.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/intels-project-firefly-creates-sub-usd600-laptops-to-compete-with-macbook-neo-leverages-chinas-smartphone-manufacturing-blueprint-to-produce-affordable-wildcat-lake-systems)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/20/firefly-csc2-n48spk3-a-2880-tops-risc-v-ai-server-with-48-spacemit-k3-nodes-48-nvme-ssds/)
 
 ---
 
-### 3. $60 kit transforms the Raspberry Pi 4/5 into a DIN Rail industrial computer with isolated RS232, RS485, and CAN Bus 
+### 2. Intel CEO Lip-Bu Tan stamps out chip bugs with aggressive new quality standards, says major validation errors can result in termination 'B0, you keep your job. Anything above that, you are fired' 
 
-The Waveshare kit transforms Raspberry Pi 4/5 into an industrial computer with isolated interfaces, offering a compact DIN rail or wall mount solution for industrial applications.
+Intel CEO Lip-Bu Tan introduces strict quality standards to minimize chip bugs. He aims to achieve production readiness with A0 silicon revision. Employees with major validation errors will face termination.
 
-💡 *Industrial-grade computing made accessible to Raspberry Pi users inexpensively.*
+💡 *Strict quality standards to prevent costly chip development failures.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/19/60-kit-transforms-the-raspberry-pi-4-5-into-a-din-rail-industrial-controller-with-isolated-rs232-rs485-and-can-bus/)
-
----
-
-### 4. ESP32-S3 PowerFeather V2 board gains support for LiFePO4/LFP batteries 
-
-The ESP32-S3 PowerFeather V2 board now supports LiFePO4/LFP batteries, along with Li-Ion/LiPo. It features an Analog Devices fuel gauge and TPS631013 buck-boost regulator to ensure stable 3.3V power. This board is ideal for IoT applications with solar panel input and various battery options.
-
-💡 *Enhanced battery safety and longer lifespan for IoT applications.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/19/esp32-s3-powerfeather-v2-board-gains-support-for-lifepo4-lfp-batteries/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-ceo-lip-bu-tan-stamps-out-chip-bugs-with-aggressive-new-quality-standards-says-major-validation-errors-can-result-in-termination-b0-you-keep-your-job-anything-above-that-you-are-fired)
 
 ---
 
-### 5. LG unveils 'world's first' native 1000 Hz refresh rate at 1080p for serious competitive gaming UltraGear 25G590B to launch in the second half of 2026 
+### 3. ODROID-H5 A $250 Intel Core i3-N300 SBC with 10GbE networking, four M.2 PCIe slots 
 
-LG unveiled the world's first native 1000Hz refresh rate monitor, the UltraGear 25G590B, supporting 1080p resolution. Unlike previous dual-mode displays, this monitor maintains full-HD resolution for immersive gaming. It is set to launch in the second half of 2026.
+The ODROID-H5 is a budget-friendly SBC offering 10GbE networking and four M.2 PCIe slots for expansion. It features an Intel Core i3-N300 octa-core processor, up to 64GB DDR5 memory, and supports up to four 2280 NVMe SSDs. This makes it suitable for various applications, including AI, AI acceleration, and storage-intensive tasks.
 
-💡 *Higher refresh rates enhance competitive gaming experience and immersion.*
+💡 *High-end features at an affordable price for AI and storage-intensive tasks.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/lg-unveils-worlds-first-native-1000-hz-refresh-rate-at-1080p-for-serious-competitive-gaming-ultragear-25g590b-to-launch-in-the-second-half-of-2026)
-
----
-
-### 6. Record-high pricing pushes SSD and memory makers to borrow $880 million just to afford buying chips Adata, TeamGroup, and others take on substantial debt to survive shortages 
-
-SSD and memory makers borrow $880 million to afford chip shortages, with Adata taking on the most debt.
-
-💡 *Chip shortages force manufacturers to take on substantial debt to survive.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/taiwanese-memory-module-makers-raise-880-million-to-stockpile-chips)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/20/odroid-h5-an-intel-core-i3-n300-sbc-with-10gbe-networking-four-m-2-pcie-slots/)
 
 ---
 
-### 7. Linus Torvalds says flood of duplicate AI-generated vulnerability reports have made Linux security mailing list 'almost entirely unmanageable' private list 'a waste of time for everybody involved' in switch to new public system 
+### 4. LG unveils the world's first 1080p gaming monitor with a native 1,000Hz refresh rate 
 
-Linus Torvalds criticizes private AI-generated vulnerability reports on Linux mailing list, saying they're a waste of time due to being publicly detectable.
+LG introduces the UltraGear 25G590B, a 1080p gaming monitor with a 1,000Hz refresh rate, targeting competitive gamers for speed and accuracy.
 
-💡 *Publicly detectable AI bugs make private reporting redundant and ineffective.*
+💡 *Enhanced gaming performance for competitive players with ultra-high refresh rates.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linus-torvalds-says-ai-bug-reports-have-made-the-linux-security-mailing-list-almost-entirely-unmanageable)
-
----
-
-### 8. The Best Mouse: Our Favorite Mice for Work and Play 
-
-Discover top-rated mice for work, gaming, and everyday use, covering budget to flagship models.
-
-💡 *Ergonomic design and precision matter for productivity and gaming performance alike.*
-
-🔗 [Read Full Article](https://www.techspot.com/bestof/mouse-26/)
+🔗 [Read Full Article](https://www.techspot.com/news/112453-lg-unveils-world-first-full-hd-gaming-monitor.html)
 
 ---
 
-### 9. TP-Link's tiny 5-port Gigabit switch drops to just $9 
+### 5. SMIC founder and AMEC CEO urge Chinese fabs to test domestic chipmaking tools on active production lines equipment makers post record revenue but falling margins 
 
-The TP-Link LiteWave LS1005G is a 5-port Gigabit switch available for $9, a 50% discount from its usual Amazon price.
+SMIC founder and AMEC CEO urge domestic fab test on production lines to improve efficiency and reduce costs. China's semiconductor equipment vendors posted record revenue but falling margins due to domestic price competition. This suggests a need for balance between market growth and profitability.
 
-💡 *Affordable high-speed networking for home and small business setups*
+💡 *Domestic price competition erodes profitability for Chinese semiconductor vendors.*
 
-🔗 [Read Full Article](https://www.amazon.com/dp/B0863M7C1L)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/smic-founder-and-amec-ceo-urge-chinese-fabs-to-test-domestic-chip-tools-on-production-lines)
 
 ---
 
-### 10. VMware Workstation Pro 26H1 brings broader Linux support and quality-of-life upgrades 
+### 6. RAM makers are taking on massive debt to keep up with AI's chip appetite 
 
-VMware Workstation Pro 26H1 adds broader Linux support and quality-of-life upgrades.
+RAM makers are taking on massive debt to keep up with increasing demand for chips to support AI development. This strain on their finances raises concerns about their long-term sustainability. The industry is struggling to meet the growing chip needs.
 
-💡 *Enhanced virtualization for developers and tinkerers with Linux and Windows.*
+💡 *AI chip demand strains RAM makers' financial sustainability severely.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112458-taiwanese-memory-manufacturers-borrowing-millions-rebuild-chip-inventories.html)
+
+---
+
+### 7. Intel may be forcing PC makers to buy its newer 18A chips by cutting off the old ones 
+
+Intel is reportedly cutting off older 7nm-class processors due to supply constraints, driven by high AI demand.
+
+💡 *Surging AI demand disrupts supply chains for older Intel processors.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112457-intel-allegedly-forcing-pc-makers-adopt-pricey-18a.html)
+
+---
+
+### 8. Meta is reassigning 7,000 workers to AI jobs while laying off thousands more 
+
+Plans for the reassignments were laid out in a memo from chief people officer Janelle Gale, which was seen by Bloomberg. Gale wrote that 7,000 workers will be moved to four new organizations within Meta focused on building new AI tools, including agents and apps. Read Entire Article
+
+🔗 [Read Full Article](https://www.techspot.com/news/112451-meta-reassigning-7000-workers-ai-jobs-while-laying.html)
 
 ---
 

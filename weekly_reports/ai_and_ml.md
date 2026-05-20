@@ -1,135 +1,191 @@
 # 🤖 AI & ML
-**Week of May 19, 2026**
+**Week of May 20, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-05-19 11:44
+- **Articles this week:** 18
+- **Report generated:** 2026-05-20 11:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. ArXiv will ban researchers for a year if they submit papers with AI slop ⭐
+### 1. MSI Raider 16 Max HX review: Elite gaming performance ⭐
 
-ArXiv updates code of conduct to deter AI-generated 'slop', enforcing a one-year ban for violators.
+The MSI Raider 16 Max HX delivers elite gaming performance with the RTX 5090, but at a premium price.
 
-💡 *Authenticity of research is at stake with AI-generated content proliferating.*
+💡 *Premium gaming performance requires a significant investment for enthusiasts.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112442-arxiv-moves-combat-ai-slop-submissions-one-year.html)
-
----
-
-### 2. Researchers unveil NAND-DRAM hybrid that could outperform traditional memory ⭐
-
-Imec has developed a 3D NAND-DRAM hybrid memory technology, combining DRAM speed and NAND storage density.
-
-💡 *Overcoming the memory wall bottleneck for AI applications*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112437-researchers-unveil-nand-dram-hybrid-could-outperform-traditional.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/msi-raider-16-max-hx-review)
 
 ---
 
-### 3. Ubuntu Core 26 targets IoT devices and embedded systems, offers up to 15 years of security maintenance 
+### 2. Laser-driven spintronic memory device switches 1,000 times faster than DRAM non-volatile device switches in 40 picoseconds while generating almost no heat 
 
-Canonical has released Ubuntu Core 26, a minimal operating system designed for IoT devices and embedded systems, offering up to 15 years of security maintenance and optimized OTA updates.
+Researchers at the University of Tokyo developed a non-volatile Mn Sn magnetic switching device that can switch bits in 40 picoseconds, generating minimal heat, which could lead to lower-power AI hardware and memory systems.
 
-💡 *Enhanced security for IoT devices meets EU Cyber Resilience Act requirements.*
+💡 *Faster, cooler memory could revolutionize AI computing efficiency.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/19/ubuntu-core-26-targets-iot-devices-and-embedded-systems-offers-up-to-15-years-of-security-maintenance/)
-
----
-
-### 4. A Windows 11 speed boost is coming as soon as next month, along with a taskbar you can finally move 
-
-Windows 11 is set to receive a speed boost and taskbar updates next month, addressing user skepticism and performance concerns.
-
-💡 *Microsoft prioritizes performance to win back disillusioned Windows users.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112431-windows-11-speed-boost-coming-soon-next-month.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/laser-driven-spintronic-memory-device-switches-1-000-times-faster-than-dram-non-volatile-device-switches-in-40-picoseconds-while-generating-almost-no-heat)
 
 ---
 
-### 5. Jury throws out Elon Musk's lawsuit against OpenAI after less than two hours of deliberation Unanimous vote that Musk filed the lawsuit too late 
+### 3. New Microsoft Surface for Business PCs pair Panther Lake chips with as little as 8GB of RAM 13-inch Surface Laptop goes light on memory but still starts at $1,299 
 
-A federal jury in California rejected Elon Musk's lawsuit against OpenAI, citing a late filing. The unanimous decision was made after less than two hours of deliberation. Musk's claims were dismissed in their entirety.
+Microsoft has announced new Surface PCs for business, featuring Intel's Panther Lake chips, with prices starting at $1,949 for the 13-inch Surface Laptop and $1,299 for the 13-inch model with 8GB RAM.
 
-💡 *Timing can be a crucial factor in high-stakes business lawsuits.*
+💡 *Business users face limited RAM options at lower price points.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/jury-throws-out-elon-musks-lawsuit-against-openai-after-less-than-two-hours-of-deliberation)
-
----
-
-### 6. China says 'world's first' offshore wind-powered underwater data center has entered full operation, houses 2,000 servers 24 megawatt subsea AI facility uses ocean water for passive cooling and offshore wind for power 
-
-China has launched a 24 MW underwater AI data center off Shanghai's coast, using offshore wind power and seawater cooling to reduce energy consumption and improve efficiency.
-
-💡 *Pioneering sustainable data storage with reduced energy consumption.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-says-worlds-first-offshore-wind-powered-underwater-data-center-has-entered-full-operation-houses-2-000-servers-24-megawatt-subsea-ai-facility-uses-ocean-water-for-passive-cooling-and-offshore-wind-for-power)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/new-microsoft-surface-for-business-pcs-pair-panther-lake-chips-with-as-little-as-8gb-of-ram-13-inch-surface-laptop-goes-light-on-memory-but-still-starts-at-usd1-299)
 
 ---
 
-### 7. Linus Torvalds says flood of duplicate AI-generated vulnerability reports have made Linux security mailing list 'almost entirely unmanageable' private list 'a waste of time for everybody involved' in switch to new public system 
+### 4. Forza Horizon 6 Optimization Guide: Best Settings for PC Gamers 
 
-Linus Torvalds criticizes private AI-generated vulnerability reports on Linux mailing list, saying they're a waste of time due to being publicly detectable.
+This guide benchmarks Forza Horizon 6 settings to optimize performance on PC, catering to various GPU tiers, and provides the best settings for maximum FPS with minimal visual loss.
 
-💡 *Publicly detectable AI bugs make private reporting redundant and ineffective.*
+💡 *Optimized settings boost FPS without sacrificing visual fidelity significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linus-torvalds-says-ai-bug-reports-have-made-the-linux-security-mailing-list-almost-entirely-unmanageable)
-
----
-
-### 8. Elon Musk loses OpenAI trial after jury says he waited too long to sue 
-
-Elon Musk loses OpenAI trial for waiting too long to sue.
-
-💡 *Musk's delayed lawsuit jeopardizes his claims against OpenAI's actions.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112450-elon-musk-loses-openai-trial-after-jury-waited.html)
+🔗 [Read Full Article](https://www.techspot.com/article/3127-forza-horizon-6-optimization/)
 
 ---
 
-### 9. Amazon's Alexa can now generate podcasts on whatever topic you want. But, will anyone listen? 
+### 5. Nvidia's latest Game Ready drivers deliver worthwhile gains in Forza Horizon 6 
 
-Amazon's Alexa can now create podcasts on any topic, partnering with reputable sources for accurate information.
+Nvidia's Game Ready drivers deliver noticeable performance improvements for Forza Horizon 6. This update brings worthwhile gains, making it a worthwhile install for players. Nvidia's optimizations seem to be more effective than usual.
 
-💡 *AI-generated content may revolutionize podcasting, accessibility, and information dissemination.*
+💡 *Nvidia's last-minute optimizations deliver meaningful launch-day performance gains.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112446-amazon-alexa-can-now-generate-podcasts-whatever-topic.html)
-
----
-
-### 10. TP-Link's tiny 5-port Gigabit switch drops to just $9 
-
-The TP-Link LiteWave LS1005G is a 5-port Gigabit switch available for $9, a 50% discount from its usual Amazon price.
-
-💡 *Affordable high-speed networking for home and small business setups*
-
-🔗 [Read Full Article](https://www.amazon.com/dp/B0863M7C1L)
+🔗 [Read Full Article](https://www.techspot.com/downloads/drivers/essentials/nvidia-geforce/)
 
 ---
 
-### 11. Dell makes its strongest case yet for keeping AI out of the cloud 
+### 6. Microsoft is finally letting you remap the Copilot key nobody asked for 
 
-Dell is showcasing customer deployments and new products that demonstrate AI workloads can be run on-premises, challenging the cloud-only AI narrative.
+Microsoft has confirmed the Copilot key is a failed keyboard innovation, allowing remapping. The dedicated button for Windows' chatbot has been met with criticism from keyboard enthusiasts. Redmond is finally giving users the option to remap the key.
 
-💡 *On-premises AI infrastructure offers control and security advantages for enterprises.*
+💡 *Microsoft admits Copilot key is a failed keyboard innovation design*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112438-dell-makes-strongest-case-keeping-ai-out-cloud.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112445-microsoft-rolling-back-copilot-key-no-one-asked.html)
 
 ---
 
-### 12. Forget Raspberry Pi: this computer is the literally the size of a credit card 
+### 7. Lisa Su meets China's vice premier during China visit AMD CEO pledges deeper investment days after Trump-Xi summit 
 
-Raspberry Pi boards are not truly credit card-sized due to thickness and ports, misleading their description.
+AMD CEO Lisa Su met with China's Vice Premier He Lifeng, pledging deeper investment and expanded operations in China, citing its dynamic AI ecosystem. The meeting comes days after the Trump-Xi summit, highlighting the growing importance of Sino-American tech ties.
 
-💡 *Raspberry Pi boards are not credit card thin or practical.*
+💡 *China's AI ecosystem attracts significant foreign tech investment.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112436-forget-raspberry-pi-computer-literally-size-credit-card.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-meets-chinas-vice-premier)
+
+---
+
+### 8. Pizza Hut's AI delivery system cooks up $100 million franchisee lawsuit deliveries allegedly shot from under 30 minutes to over 45 under new system 
+
+Pizza Hut's AI delivery system allegedly caused $100 million loss for a franchisee, leading to a lawsuit.
+
+💡 *Innovative tech can have unintended business-crippling consequences for franchise owners.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/pizza-huts-ai-delivery-system-cooks-up-usd100-million-franchisee-lawsuit-deliveries-allegedly-shot-from-under-30-minutes-to-over-45-under-new-system)
+
+---
+
+### 9. Physical attacks against crypto holders, including kidnap and assault, up 75% in 2025 72 confirmed incidents see $41 million lost, real number likely higher 
+
+Crypto holders face a 75% rise in physical attacks, with 72 confirmed incidents and $41 million lost. Criminals are tracing large wallets back to their owners, prompting investments in physical security. Firms and individuals are hiring bodyguards and security measures.
+
+💡 *Physical attacks on crypto holders escalate as wallet tracing improves.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/physical-attacks-against-crypto-holders-including-kidnap-and-assault-up-75-percent-in-2025-72-confirmed-incidents-see-usd41-million-lost-real-number-likely-higher)
+
+---
+
+### 10. Standard Chartered plans to cut 7,000 jobs in AI push lender wants to replace lower-value human capital and focus on automation 
+
+Standard Chartered plans to cut 7,000 jobs in a bid to increase automation in its back offices.
+
+💡 *Automation replaces lower-value human capital for efficiency and cost savings.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/standard-chartered-plans-to-cut-7-000-jobs-in-ai-push-lender-wants-to-replace-lower-value-human-capital-and-focus-on-automation)
+
+---
+
+### 11. Intel tells PC makers to adopt 18A CPUs or lose their supply, report claims Intel 7 supply dries up, pressuring notebook and PC manufacturers in the US, China, and Taiwan 
+
+Intel has shifted its Intel 7 production capacity to servers and industrial customers, prompting PC manufacturers to adopt 18A CPUs to avoid supply disruptions.
+
+💡 *PC supply chain at risk due to Intel 7 capacity shift.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-tells-pc-makers-to-adopt-18a-cpus-or-lose-their-allocations)
+
+---
+
+### 12. Texas flooding gets the AI & Sensor early warning treatment 
+
+Axiom and Simplicity Integration set up a flood warning system in Galveston County. Additionally, UTA and Rice University received $4M for a flood warning system in the Hill Country. Early warning systems aim to mitigate the impact of flooding.
+
+💡 *Real-time flood warnings can save lives and property instantly always.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/texas-flooding-gets-ai-sensor-early-warning-treatment)
+
+---
+
+### 13. AMD may be preparing the Ryzen 7 7700X3D, offering 7800X3D-like gaming for less 
+
+Claims that AMD will launch the chip come from prolific hardware tipster chi11eddog, who has a history of accurate leaks. Read Entire Article
+
+🔗 [Read Full Article](https://www.techspot.com/news/112467-amd-may-preparing-ryzen-7-7700x3d-offering-7800x3d.html)
+
+---
+
+### 14. Google is making AI images easier to create, and deepfakes easier to spot 
+
+Google's new AI image-editing tool, Pics, simplifies photo editing in testing. Google also expands access to tools for spotting deepfakes. A broader rollout is planned for the coming months.
+
+💡 *Deepfakes may become more detectable, but creation tools improve*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112462-google-making-ai-images-easier-create-deepfakes-easier.html)
+
+---
+
+### 15. RAM makers are taking on massive debt to keep up with AI's chip appetite 
+
+RAM makers are taking on massive debt to keep up with increasing demand for chips to support AI development. This strain on their finances raises concerns about their long-term sustainability. The industry is struggling to meet the growing chip needs.
+
+💡 *AI chip demand strains RAM makers' financial sustainability severely.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112458-taiwanese-memory-manufacturers-borrowing-millions-rebuild-chip-inventories.html)
+
+---
+
+### 16. Sony's luxury 1000X headphones celebrate 10 years of premium ANC audio 
+
+Sony's 1000X 'The ColleXion' headphones celebrate 10 years of premium ANC audio with upgraded materials and comfort, but a higher price tag and shorter battery life.
+
+💡 *Luxury upgrade comes at a significant price and performance cost compromise.*
+
+🔗 [Read Full Article](https://www.techspot.com/products/headphones/sony-1000x-the-collexion.325343/)
+
+---
+
+### 17. Apple to host final WWDC of the Tim Cook era on June 8 
+
+Apple is hosting its final WWDC under Tim Cook's leadership on June 8, with a keynote and state of the platform address available to stream on YouTube or Apple's website.
+
+💡 *Tim Cook's legacy in tech is being cemented at WWDC.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112455-apple-host-final-wwdc-tim-cook-era-june.html)
+
+---
+
+### 18. Meta is reassigning 7,000 workers to AI jobs while laying off thousands more 
+
+Plans for the reassignments were laid out in a memo from chief people officer Janelle Gale, which was seen by Bloomberg. Gale wrote that 7,000 workers will be moved to four new organizations within Meta focused on building new AI tools, including agents and apps. Read Entire Article
+
+🔗 [Read Full Article](https://www.techspot.com/news/112451-meta-reassigning-7000-workers-ai-jobs-while-laying.html)
 
 ---
 

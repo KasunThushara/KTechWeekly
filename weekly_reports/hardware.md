@@ -1,165 +1,135 @@
 # 💻 Hardware
-**Week of May 19, 2026**
+**Week of May 20, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 15
-- **Report generated:** 2026-05-19 11:44
+- **Articles this week:** 12
+- **Report generated:** 2026-05-20 11:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel's Project Firefly creates sub-$600 laptops to compete with Apple's MacBook Neo leverages China's smartphone manufacturing blueprint to produce affordable Wildcat Lake systems 
+### 1. Firefly CSC2-N48SPK3 A 2880 TOPS RISC-V AI server with 48 SpacemiT K3 Nodes, 48 NVMe SSDs ⭐
 
-Intel's Project Firefly uses China's smartphone blueprint to create affordable laptops, leveraging Wildcat Lake processors.
+Firefly's CSC2-N48SPK3 is a 2U rack-mounted server featuring 48 SpacemiT K3 nodes, each delivering up to 60 TOPS AI performance. The server also includes 48 NVMe SSDs, a Rockchip RK3588 central control node, and up to 32GB LPDDR5 RAM per node. This powerful RISC-V AI server is designed for large-scale enterprise applications.
 
-💡 *Disrupting traditional laptop pricing with innovative manufacturing strategies.*
+💡 *Massive RISC-V compute power for enterprise AI workloads*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/intels-project-firefly-creates-sub-usd600-laptops-to-compete-with-macbook-neo-leverages-chinas-smartphone-manufacturing-blueprint-to-produce-affordable-wildcat-lake-systems)
-
----
-
-### 2. Researchers attack AMD's Infinity Fabric to bypass hardware security protections with 'Fabricked' flaw lets malicious cloud hosts silently read confidential VM memory and forge attestation reports 
-
-ETH Zurich researchers found a software-only attack on AMD Infinity Fabric, allowing malicious cloud hosts to read confidential VM memory and forge attestation reports on EPYC systems.
-
-💡 *AMD Infinity Fabric bypassed, compromising sensitive cloud data security*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/researchers-attack-amds-infinity-fabric-to-bypass-hardware-security-protections-with-fabricked-flaw-lets-malicious-cloud-hosts-silently-read-confidential-vm-memory-and-forge-attestation-reports)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/20/firefly-csc2-n48spk3-a-2880-tops-risc-v-ai-server-with-48-spacemit-k3-nodes-48-nvme-ssds/)
 
 ---
 
-### 3. Ubuntu Core 26 targets IoT devices and embedded systems, offers up to 15 years of security maintenance 
+### 2. Laser-driven spintronic memory device switches 1,000 times faster than DRAM non-volatile device switches in 40 picoseconds while generating almost no heat 
 
-Canonical has released Ubuntu Core 26, a minimal operating system designed for IoT devices and embedded systems, offering up to 15 years of security maintenance and optimized OTA updates.
+Researchers at the University of Tokyo developed a non-volatile Mn Sn magnetic switching device that can switch bits in 40 picoseconds, generating minimal heat, which could lead to lower-power AI hardware and memory systems.
 
-💡 *Enhanced security for IoT devices meets EU Cyber Resilience Act requirements.*
+💡 *Faster, cooler memory could revolutionize AI computing efficiency.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/19/ubuntu-core-26-targets-iot-devices-and-embedded-systems-offers-up-to-15-years-of-security-maintenance/)
-
----
-
-### 4. $60 kit transforms the Raspberry Pi 4/5 into a DIN Rail industrial computer with isolated RS232, RS485, and CAN Bus 
-
-The Waveshare kit transforms Raspberry Pi 4/5 into an industrial computer with isolated interfaces, offering a compact DIN rail or wall mount solution for industrial applications.
-
-💡 *Industrial-grade computing made accessible to Raspberry Pi users inexpensively.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/19/60-kit-transforms-the-raspberry-pi-4-5-into-a-din-rail-industrial-controller-with-isolated-rs232-rs485-and-can-bus/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/laser-driven-spintronic-memory-device-switches-1-000-times-faster-than-dram-non-volatile-device-switches-in-40-picoseconds-while-generating-almost-no-heat)
 
 ---
 
-### 5. ESP32-S3 PowerFeather V2 board gains support for LiFePO4/LFP batteries 
+### 3. New Microsoft Surface for Business PCs pair Panther Lake chips with as little as 8GB of RAM 13-inch Surface Laptop goes light on memory but still starts at $1,299 
 
-The ESP32-S3 PowerFeather V2 board now supports LiFePO4/LFP batteries, along with Li-Ion/LiPo. It features an Analog Devices fuel gauge and TPS631013 buck-boost regulator to ensure stable 3.3V power. This board is ideal for IoT applications with solar panel input and various battery options.
+Microsoft has announced new Surface PCs for business, featuring Intel's Panther Lake chips, with prices starting at $1,949 for the 13-inch Surface Laptop and $1,299 for the 13-inch model with 8GB RAM.
 
-💡 *Enhanced battery safety and longer lifespan for IoT applications.*
+💡 *Business users face limited RAM options at lower price points.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/19/esp32-s3-powerfeather-v2-board-gains-support-for-lifepo4-lfp-batteries/)
-
----
-
-### 6. Custom-built passive water-cooled PC relies on convection chimney effect powered by triple-stacked radiators 9800X3D build with RTX 5080 has no fans, copper, and radiator chimney, but struggles to keep temperatures down 
-
-Billet Labs' custom-built passive PC relies on a convection chimney effect powered by triple-stacked radiators, achieving a fanless gaming build. This innovative cooling system utilizes copper and a radiator chimney to dissipate heat. The build features a powerful AMD Ryzen 9 9800X3D and NVIDIA GeForce RTX 5080.
-
-💡 *Passive cooling systems push thermal limits with innovative design approaches.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/ambitious-modder-creates-custom-passive-water-cooled-pc-9800x3d-build-with-rtx-5080-has-no-fans-copper-and-radiator-chimney-struggles-to-keep-temperatures-down)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/new-microsoft-surface-for-business-pcs-pair-panther-lake-chips-with-as-little-as-8gb-of-ram-13-inch-surface-laptop-goes-light-on-memory-but-still-starts-at-usd1-299)
 
 ---
 
-### 7. Fans secretly mapped 24 terabytes of Minecraft s infamous 2b2t server, million square block archive to be shared via torrent Intense digital archaeology project has taken years, risked player wrath 
+### 4. ODROID-H5 A $250 Intel Core i3-N300 SBC with 10GbE networking, four M.2 PCIe slots 
 
-A massive digital archaeology project has archived 24TB of 2b2t server data, preserving a million squared blocks of Minecraft history.
+The ODROID-H5 is a budget-friendly SBC offering 10GbE networking and four M.2 PCIe slots for expansion. It features an Intel Core i3-N300 octa-core processor, up to 64GB DDR5 memory, and supports up to four 2280 NVMe SSDs. This makes it suitable for various applications, including AI, AI acceleration, and storage-intensive tasks.
 
-💡 *Preserving online gaming history for future generations and research purposes.*
+💡 *High-end features at an affordable price for AI and storage-intensive tasks.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/fans-release-24tb-million-square-block-archive-of-minecrafts-infamous-2b2t-server-intense-digital-archaeology-project-has-taken-years-to-reach-this-stage)
-
----
-
-### 8. Next-gen mobile gaming just got $1,150 cheaper Dell slashes RTX 5090 gaming laptop price tag to $4,399 
-
-Dell has temporarily reduced the price of its Alienware 16 Area-51 gaming laptop with GeForce RTX 5090 to $4,399.99, saving customers $1,150.
-
-💡 *High-end gaming laptops become more affordable for consumers.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/next-gen-mobile-gaming-just-got-usd1-150-cheaper-dell-slashes-rtx-5090-gaming-laptop-price-tag-to-usd4-399)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/20/odroid-h5-an-intel-core-i3-n300-sbc-with-10gbe-networking-four-m-2-pcie-slots/)
 
 ---
 
-### 9. China says 'world's first' offshore wind-powered underwater data center has entered full operation, houses 2,000 servers 24 megawatt subsea AI facility uses ocean water for passive cooling and offshore wind for power 
+### 5. Forza Horizon 6 Optimization Guide: Best Settings for PC Gamers 
 
-China has launched a 24 MW underwater AI data center off Shanghai's coast, using offshore wind power and seawater cooling to reduce energy consumption and improve efficiency.
+This guide benchmarks Forza Horizon 6 settings to optimize performance on PC, catering to various GPU tiers, and provides the best settings for maximum FPS with minimal visual loss.
 
-💡 *Pioneering sustainable data storage with reduced energy consumption.*
+💡 *Optimized settings boost FPS without sacrificing visual fidelity significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-says-worlds-first-offshore-wind-powered-underwater-data-center-has-entered-full-operation-houses-2-000-servers-24-megawatt-subsea-ai-facility-uses-ocean-water-for-passive-cooling-and-offshore-wind-for-power)
-
----
-
-### 10. Elon Musk loses OpenAI trial after jury says he waited too long to sue 
-
-Elon Musk loses OpenAI trial for waiting too long to sue.
-
-💡 *Musk's delayed lawsuit jeopardizes his claims against OpenAI's actions.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112450-elon-musk-loses-openai-trial-after-jury-waited.html)
+🔗 [Read Full Article](https://www.techspot.com/article/3127-forza-horizon-6-optimization/)
 
 ---
 
-### 11. Terraria celebrates 15 years of crafting, mining, and survival 
+### 6. AMD rumored to ready budget-friendly Ryzen 7 7700X3D for suffering gamers chipmaker lowers clocks and price with new Zen 4 X3D CPU 
 
-Terraria celebrates 15 years of crafting, mining, and survival gameplay. The game can be played alone or online with others, and it has been ported to various platforms. Its engaging experience is highlighted by a great soundtrack.
+AMD allegedly prepares to launch the Ryzen 7 7700X3D, a budget-friendly version of the Ryzen 7 7800X3D, at a lower price with reduced clocks.
 
-💡 *Long-running indie game series maintains enduring community appeal.*
+💡 *Budget gamers may finally get an affordable, high-performance CPU option.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112444-terraria-celebrates-15-years-crafting-mining-survival.html)
-
----
-
-### 12. Discord improves Linux support with Steam Deck and distro-friendly upgrades 
-
-Discord has improved its Linux support with official packages for Fedora and Arch distros, a self-updater, and hardware video acceleration for various GPUs, bringing the experience closer to Windows.
-
-💡 *Enhanced Linux support expands Discord's user base and accessibility.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/6871-discord.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-rumored-to-ready-budget-friendly-ryzen-7-7700x3d-for-suffering-gamers-chipmaker-lowers-clocks-and-price-with-rumored-zen-4-x3d-cpu)
 
 ---
 
-### 13. Forget Raspberry Pi: this computer is the literally the size of a credit card 
+### 7. Intel tells PC makers to adopt 18A CPUs or lose their supply, report claims Intel 7 supply dries up, pressuring notebook and PC manufacturers in the US, China, and Taiwan 
 
-Raspberry Pi boards are not truly credit card-sized due to thickness and ports, misleading their description.
+Intel has shifted its Intel 7 production capacity to servers and industrial customers, prompting PC manufacturers to adopt 18A CPUs to avoid supply disruptions.
 
-💡 *Raspberry Pi boards are not credit card thin or practical.*
+💡 *PC supply chain at risk due to Intel 7 capacity shift.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112436-forget-raspberry-pi-computer-literally-size-credit-card.html)
-
----
-
-### 14. VMware Workstation Pro 26H1 brings broader Linux support and quality-of-life upgrades 
-
-VMware Workstation Pro 26H1 adds broader Linux support and quality-of-life upgrades.
-
-💡 *Enhanced virtualization for developers and tinkerers with Linux and Windows.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-tells-pc-makers-to-adopt-18a-cpus-or-lose-their-allocations)
 
 ---
 
-### 15. The first computer mouse: how many buttons did it have? 
+### 8. Intel may be forcing PC makers to buy its newer 18A chips by cutting off the old ones 
 
-The first computer mouse, developed by Douglas Engelbart and his team, had one button. Released in 1964, it revolutionized human-computer interaction. The single button facilitated basic navigation and selection functions.
+Intel is reportedly cutting off older 7nm-class processors due to supply constraints, driven by high AI demand.
 
-💡 *Single-button mouse simplicity laid foundational UI navigation principles.*
+💡 *Surging AI demand disrupts supply chains for older Intel processors.*
 
-🔗 [Read Full Article](https://www.techspot.com/trivia/68-first-computer-mouse-how-many-buttons-did-have/)
+🔗 [Read Full Article](https://www.techspot.com/news/112457-intel-allegedly-forcing-pc-makers-adopt-pricey-18a.html)
+
+---
+
+### 9. Sony's PC gaming era is over at least for single-player games 
+
+Sony plans to restrict single-player games on PlayStation consoles, affecting narrative games.
+
+💡 *Impact on exclusive, story-driven games is a major concern for fans.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112456-sony-locking-single-player-exclusives-playstation-consoles.html)
+
+---
+
+### 10. Asus and HP unveil Intel Wildcat Lake laptops starting at $449 to rival Apple's MacBook Neo 
+
+Asus and HP unveil Intel Wildcat Lake laptops at affordable prices. The most budget-friendly option is the Chuwi UniBook, starting at $449. It runs Windows 11 and is powered by the Core 3 304 processor.
+
+💡 *Intel Wildcat Lake laptops challenge Apple's MacBook Neo price dominance*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112452-asus-hp-unveil-intel-wildcat-lake-laptops-starting.html)
+
+---
+
+### 11. This gorgeous fanless RTX 5080 PC turns passive cooling into a thermal nightmare 
+
+A fanless RTX 5080 PC pushes the limits of passive cooling with over 500W of power.
+
+💡 *Passive cooling efficiency is often underestimated and worth exploring further limits.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112454-gorgeous-fanless-rtx-5080-pc-turns-passive-cooling.html)
+
+---
+
+### 12. Microsoft's new tech cuts Forza Horizon 6's shader loading time from 90 seconds to four seconds 
+
+Microsoft's ASD tech reduces shader loading time in Forza Horizon 6 from 90 seconds to four seconds on Windows 11 PCs, initially supporting RDNA 3 GPUs and integrated graphics with Nvidia support coming later this year.
+
+💡 *Faster shader loading times enhance gaming experiences for PC players.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112447-microsoft-new-tech-cuts-forza-horizon-6-shader.html)
 
 ---
 

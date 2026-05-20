@@ -1,321 +1,323 @@
 [
   {
-    "title": "LG unveils 'world's first' native 1000 Hz refresh rate at 1080p for serious competitive gaming UltraGear 25G590B to launch in the second half of 2026",
-    "summary": "Unlike previous dual-mode displays that lowered resolution to hit extreme refresh rates, LG s latest monitor supports native 1000Hz gaming at full-HD resolution",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/lg-unveils-worlds-first-native-1000-hz-refresh-rate-at-1080p-for-serious-competitive-gaming-ultragear-25g590b-to-launch-in-the-second-half-of-2026",
+    "title": "Intel CEO Lip-Bu Tan stamps out chip bugs with aggressive new quality standards, says major validation errors can result in termination 'B0, you keep your job. Anything above that, you are fired'",
+    "summary": "Lip-Bu Tan wants Intel to radically improve its chip development discipline and achieve production readiness with A0 silicon revision.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-ceo-lip-bu-tan-stamps-out-chip-bugs-with-aggressive-new-quality-standards-says-major-validation-errors-can-result-in-termination-b0-you-keep-your-job-anything-above-that-you-are-fired",
     "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.545529"
-  },
-  {
-    "title": "Intel's Project Firefly creates sub-$600 laptops to compete with Apple's MacBook Neo leverages China's smartphone manufacturing blueprint to produce affordable Wildcat Lake systems",
-    "summary": "Intel China has unveiled Project Firefly, which borrows a page from China's smartphone supply chain to produce budget-friendly laptops that leverage Wildcat Lake processors.",
-    "link": "https://www.tomshardware.com/laptops/intels-project-firefly-creates-sub-usd600-laptops-to-compete-with-macbook-neo-leverages-chinas-smartphone-manufacturing-blueprint-to-produce-affordable-wildcat-lake-systems",
-    "categories": [
-      "Hardware",
       "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-19T11:42:56.545672"
+    "processed_date": "2026-05-20T11:32:43.813456"
   },
   {
-    "title": "Researchers attack AMD's Infinity Fabric to bypass hardware security protections with 'Fabricked' flaw lets malicious cloud hosts silently read confidential VM memory and forge attestation reports",
-    "summary": "ETH Zurich researchers disclosed Fabricked, a software-only attack that manipulates AMD Infinity Fabric routing during boot to undermine SEV-SNP protections on EPYC systems, enabling malicious cloud hosts to read confidential VM memory and forge attestation reports",
-    "link": "https://www.tomshardware.com/pc-components/researchers-attack-amds-infinity-fabric-to-bypass-hardware-security-protections-with-fabricked-flaw-lets-malicious-cloud-hosts-silently-read-confidential-vm-memory-and-forge-attestation-reports",
+    "title": "Laser-driven spintronic memory device switches 1,000 times faster than DRAM non-volatile device switches in 40 picoseconds while generating almost no heat",
+    "summary": "Researchers at the University of Tokyo demonstrated a non-volatile Mn Sn magnetic switching device capable of flipping bits in just 40 picoseconds while generating minimal heat, potentially paving the way for lower-power AI hardware and memory systems.",
+    "link": "https://www.tomshardware.com/pc-components/storage/laser-driven-spintronic-memory-device-switches-1-000-times-faster-than-dram-non-volatile-device-switches-in-40-picoseconds-while-generating-almost-no-heat",
     "categories": [
-      "Hardware",
-      "GPUs"
+      "AI & ML",
+      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-19T11:42:56.545870"
+    "processed_date": "2026-05-20T11:32:43.813563"
   },
   {
-    "title": "Custom-built passive water-cooled PC relies on convection chimney effect powered by triple-stacked radiators 9800X3D build with RTX 5080 has no fans, copper, and radiator chimney, but struggles to keep temperatures down",
-    "summary": "Innovative London-based PC cooling firm Billet Labs builds and showcases a completely passive, fanless, gaming build.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/ambitious-modder-creates-custom-passive-water-cooled-pc-9800x3d-build-with-rtx-5080-has-no-fans-copper-and-radiator-chimney-struggles-to-keep-temperatures-down",
+    "title": "Lisa Su meets China's vice premier during China visit AMD CEO pledges deeper investment days after Trump-Xi summit",
+    "summary": "AMD CEO Lisa Su met with Chinese Vice Premier He Lifeng at the Great Hall of the People in Beijing on Monday, pledging further investment and expanded operations in what she calls \"the world s most dynamic AI ecosystem.\"",
+    "link": "https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-meets-chinas-vice-premier",
     "categories": [
       "GPUs",
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.545996"
+    "processed_date": "2026-05-20T11:32:43.813659"
   },
   {
-    "title": "Fans secretly mapped 24 terabytes of Minecraft s infamous 2b2t server, million square block archive to be shared via torrent Intense digital archaeology project has taken years, risked player wrath",
-    "summary": "A digital gaming archaeology project has archived 24TB of data, preserving a million squared block of Minecraft s infamous 2b2t server.",
-    "link": "https://www.tomshardware.com/video-games/fans-release-24tb-million-square-block-archive-of-minecrafts-infamous-2b2t-server-intense-digital-archaeology-project-has-taken-years-to-reach-this-stage",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.546100"
-  },
-  {
-    "title": "Next-gen mobile gaming just got $1,150 cheaper Dell slashes RTX 5090 gaming laptop price tag to $4,399",
-    "summary": "Dell is temporarily selling its Alienware 16 Area-51 with a GeForce RTX 5090 for $4,399.99, $1,150 off its regular price tag.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/next-gen-mobile-gaming-just-got-usd1-150-cheaper-dell-slashes-rtx-5090-gaming-laptop-price-tag-to-usd4-399",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.546194"
-  },
-  {
-    "title": "Jury throws out Elon Musk's lawsuit against OpenAI after less than two hours of deliberation Unanimous vote that Musk filed the lawsuit too late",
-    "summary": "A federal jury in Oakland, California, on Monday unanimously rejected every claim in Elon Musk's lawsuit against OpenAI.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jury-throws-out-elon-musks-lawsuit-against-openai-after-less-than-two-hours-of-deliberation",
+    "title": "Pizza Hut's AI delivery system cooks up $100 million franchisee lawsuit deliveries allegedly shot from under 30 minutes to over 45 under new system",
+    "summary": "Pizza Hut's AI delivery system allegedly cost one franchisee $100 million in lost business, resulting in a spicy lawsuit to recover the lost dough.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/pizza-huts-ai-delivery-system-cooks-up-usd100-million-franchisee-lawsuit-deliveries-allegedly-shot-from-under-30-minutes-to-over-45-under-new-system",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.546285"
+    "processed_date": "2026-05-20T11:32:43.813734"
   },
   {
-    "title": "Record-high pricing pushes SSD and memory makers to borrow $880 million just to afford buying chips Adata, TeamGroup, and others take on substantial debt to survive shortages",
-    "summary": "Adata is the largest single borrower in the group, having completed a NT$2 billion convertible bond issuance and secured NT$12 billion in bank loans.",
-    "link": "https://www.tomshardware.com/tech-industry/taiwanese-memory-module-makers-raise-880-million-to-stockpile-chips",
+    "title": "New Microsoft Surface for Business PCs pair Panther Lake chips with as little as 8GB of RAM 13-inch Surface Laptop goes light on memory but still starts at $1,299",
+    "summary": "Microsoft has announced the Surface Laptop 8 and Surface Pro 12 for Business, both starting at $1,949 and featuring Intel's Panther Lake silicon. There's also a new Surface Laptop 13-inch that comes with as little as 8GB RAM coming later this year and starting at $1,299.",
+    "link": "https://www.tomshardware.com/laptops/new-microsoft-surface-for-business-pcs-pair-panther-lake-chips-with-as-little-as-8gb-of-ram-13-inch-surface-laptop-goes-light-on-memory-but-still-starts-at-usd1-299",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-20T11:32:43.813826"
+  },
+  {
+    "title": "AMD rumored to ready budget-friendly Ryzen 7 7700X3D for suffering gamers chipmaker lowers clocks and price with new Zen 4 X3D CPU",
+    "summary": "A hardware leaker claims AMD is preparing to launch the Ryzen 7 7700X3D, a lower-binned version of the no-longer-available Ryzen 7 7800X3D at a lower price.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-rumored-to-ready-budget-friendly-ryzen-7-7700x3d-for-suffering-gamers-chipmaker-lowers-clocks-and-price-with-rumored-zen-4-x3d-cpu",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-20T11:32:43.813907"
+  },
+  {
+    "title": "SMIC founder and AMEC CEO urge Chinese fabs to test domestic chipmaking tools on active production lines equipment makers post record revenue but falling margins",
+    "summary": "China's semiconductor equipment vendors collectively posted record revenues in 2025, but profitability is under pressure from domestic price competition.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/smic-founder-and-amec-ceo-urge-chinese-fabs-to-test-domestic-chip-tools-on-production-lines",
     "categories": [
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.546394"
+    "processed_date": "2026-05-20T11:32:43.813988"
   },
   {
-    "title": "Why now is the best time to jump on the OLED monitor bandwagon breaking down new-gen panel tech and our top burn-in prevention tips",
-    "summary": "Better reliability and dropping prices are making OLED monitors even more attractive.",
-    "link": "https://www.tomshardware.com/monitors/why-now-is-the-best-time-to-jump-on-the-oled-monitor-bandwagon-breaking-down-new-gen-panel-tech-and-our-top-burn-in-prevention-tips",
+    "title": "Physical attacks against crypto holders, including kidnap and assault, up 75% in 2025 72 confirmed incidents see $41 million lost, real number likely higher",
+    "summary": "Large cryptocurrency holders are increasingly being targeted by criminals as large wallets are traced back to their owners. Because of this, many firms and individuals are now investing in physical security and bodyguards, with some having details that rival those of high-level executives working at major banks.",
+    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/physical-attacks-against-crypto-holders-including-kidnap-and-assault-up-75-percent-in-2025-72-confirmed-incidents-see-usd41-million-lost-real-number-likely-higher",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-20T11:32:43.814084"
+  },
+  {
+    "title": "Creative Sound Blaster Audigy FX Pro 7.1 channel sound card: A decent 2026 upgrade for analog audio",
+    "summary": "Creative's new Audigy FX Pro sound card is an $80 discrete internal sound card with 7.1 surround sound, high-res playback, 120dB SNR, and the support of Creative's new Nexus app.",
+    "link": "https://www.tomshardware.com/pc-components/sound-cards/creative-sound-blaster-audigy-fx-pro-a-decent-upgrade-for-analog-audio",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.546481"
+    "processed_date": "2026-05-20T11:32:43.814156"
   },
   {
-    "title": "China says 'world's first' offshore wind-powered underwater data center has entered full operation, houses 2,000 servers 24 megawatt subsea AI facility uses ocean water for passive cooling and offshore wind for power",
-    "summary": "China has begun full operations at a 24 MW underwater AI data center off Shanghai s coast, using offshore wind power and seawater cooling to reduce energy consumption and improve efficiency",
-    "link": "https://www.tomshardware.com/tech-industry/china-says-worlds-first-offshore-wind-powered-underwater-data-center-has-entered-full-operation-houses-2-000-servers-24-megawatt-subsea-ai-facility-uses-ocean-water-for-passive-cooling-and-offshore-wind-for-power",
+    "title": "Standard Chartered plans to cut 7,000 jobs in AI push lender wants to replace lower-value human capital and focus on automation",
+    "summary": "Standard Chartered says that it will trim a huge number of positions from its back offices in a bid to increase automation.",
+    "link": "https://www.tomshardware.com/tech-industry/standard-chartered-plans-to-cut-7-000-jobs-in-ai-push-lender-wants-to-replace-lower-value-human-capital-and-focus-on-automation",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.546587"
+    "processed_date": "2026-05-20T11:32:43.814235"
   },
   {
-    "title": "Linus Torvalds says flood of duplicate AI-generated vulnerability reports have made Linux security mailing list 'almost entirely unmanageable' private list 'a waste of time for everybody involved' in switch to new public system",
-    "summary": "\"AI detected bugs are pretty much by definition not secret, and treating them on some private list is a waste of time for everybody involved.\"",
-    "link": "https://www.tomshardware.com/software/linux/linus-torvalds-says-ai-bug-reports-have-made-the-linux-security-mailing-list-almost-entirely-unmanageable",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.546689"
-  },
-  {
-    "title": "Ubuntu Core 26 targets IoT devices and embedded systems, offers up to 15 years of security maintenance",
-    "summary": "Canonical has just introduced Ubuntu Core 26, based on the recently-released Ubuntu 26.04 LTS and designed for IoT devices and embedded systems, with precise Linux builds, optimized OTA updates, live kernel patching, and enhanced hardware-backed protection for mission-critical deployments. Offered with up to 15 years of security maintenance, Ubuntu Core 26 minimal, immutable operating system enables reduced installation times, 90% smaller OTA updates, and precision-led builds via Chisel. Every component is a containerized snap, just like in prior Ubuntu Core releases. Canonical says it can help companies meet requirements for the EU Cyber Resilience Act (CRA) with securely designed and private AI deployments relying on hardware-based trust. Ubuntu Core 26 highlights: Faster snap installation and updates An improved snap-delta format reduces update sizes between 50% and 90% for most snaps. For instance, updates to the Core base snaps dropped from 16MB to 1.5MB in size. This lowers data usage [...] The post Ubuntu Core 26 targets IoT devices and embedded systems, offers up to 15 years of security maintenance appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/19/ubuntu-core-26-targets-iot-devices-and-embedded-systems-offers-up-to-15-years-of-security-maintenance/",
+    "title": "Intel tells PC makers to adopt 18A CPUs or lose their supply, report claims Intel 7 supply dries up, pressuring notebook and PC manufacturers in the US, China, and Taiwan",
+    "summary": "Intel has redirected its constrained Intel 7 capacity toward server and industrial customers.",
+    "link": "https://www.tomshardware.com/tech-industry/intel-tells-pc-makers-to-adopt-18a-cpus-or-lose-their-allocations",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-05-19T11:42:56.547297"
+    "quality_score": 5,
+    "processed_date": "2026-05-20T11:32:43.814310"
   },
   {
-    "title": "$60 kit transforms the Raspberry Pi 4/5 into a DIN Rail industrial computer with isolated RS232, RS485, and CAN Bus",
-    "summary": "Waveshare s Isolated RS232 / RS485 / CAN / CAN FD Expansion Board For Raspberry Pi kit transforms your Raspberry Pi 4B or 5 into an industrial computer with a DIN rail or wall mount enclosure. The solution also provides access to isolated interfaces, including two RS485, RS232, CAN FD, and CAN Bus interfaces, as well as 7-36V DC input through screw terminals. The complete solution also benefits from the Raspberry Pi s Gigabit Ethernet, four USB ports, and full-size HDMI port (via adapter), as well as support for Raspberry Pi HAT and PCIe expansion boards for NVMe SSD, an additional GbE port, 4G LTE/5G cellular, etc Specifications: Compatible SBCs Raspberry Pi 4B and Raspberry Pi 5 Host interface SPI + UART Isolated industrial interfaces via screw terminals 1x CAN FD with 5kbps ~ 8 Mbps baudrate via MCP2518FD + MCP2562FD chips 1x CAN Bus with 5kbps ~ 1 Mbps [...] The post $60 kit transforms the Raspberry Pi 4/5 into a DIN Rail industrial computer with isolated RS232, RS485, and CAN Bus appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/19/60-kit-transforms-the-raspberry-pi-4-5-into-a-din-rail-industrial-controller-with-isolated-rs232-rs485-and-can-bus/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-19T11:42:56.547465"
-  },
-  {
-    "title": "ESP32-S3 PowerFeather V2 board gains support for LiFePO4/LFP batteries",
-    "summary": "The ESP32-S3 PowerFeather V2 board is an ESP32-S3 WiFi and BLE IoT board with an Adafruit Feather form factor that supports LiFePO4/LFP batteries, as well as Li-Ion or LiPo batteries, and up to 18V DC input for solar panel connection. As one could have guessed, it s an update to the ESP32-S3 PowerFeather board introduced in 2024 with support for solar panel input, Li-Ion, and LiPo batteries. The V2 design is virtually identical, except it features an Analog Devices MAX17260 fuel gauge and a TPS631013 buck-boost regulator that keeps 3.3 V stable to add support for LiFePO4 batteries. Lithium Iron Phosphate batteries are said to be safer and longer-lasting than Li-ion or LiPo batteries, albeit at the cost of lower energy density. ESP32-S3 PowerFeather V2 specifications: ESP32-S3-WROOM-1-N8R2 SoC ESP32-S3 CPU Dual-core Tensilica LX7 up to 240 MHz Memory 512KB SRAM, 16 KB RTC SRAM Wireless 2.4 GHz [...] The post ESP32-S3 PowerFeather V2 board gains support for LiFePO4/LFP batteries appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/19/esp32-s3-powerfeather-v2-board-gains-support-for-lifepo4-lfp-batteries/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-19T11:42:56.547628"
-  },
-  {
-    "title": "The Best Mouse: Our Favorite Mice for Work and Play",
-    "summary": "The best mice for work, gaming, and everything in between tested and ranked across every category, from budget picks to flagship wireless. Read Entire Article",
-    "link": "https://www.techspot.com/bestof/mouse-26/",
+    "title": "MSI Raider 16 Max HX review: Elite gaming performance",
+    "summary": "Gamers seeking maximum performance will find MSI s Raider 16 Max HX a natural choice, particularly with the RTX 5090, as long as they're willing to pay up for it.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/msi-raider-16-max-hx-review",
     "categories": [
       "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.548984"
-  },
-  {
-    "title": "Elon Musk loses OpenAI trial after jury says he waited too long to sue",
-    "summary": "Musk was one of the co-founders, backers, and initial board members of OpenAI. He claims that when he was approached by Altman and Brockman to help fund the startup in 2015, he was promised that it would be an open-source, not-for-profit company focused on safely creating artificial general intelligence (AGI)... Read Entire Article",
-    "link": "https://www.techspot.com/news/112450-elon-musk-loses-openai-trial-after-jury-waited.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.549147"
-  },
-  {
-    "title": "Amazon's Alexa can now generate podcasts on whatever topic you want. But, will anyone listen?",
-    "summary": "Prime subscribers in the US can now ask Alexa to create audio podcasts on virtually any topic. To provide the AI with reliable sources, Amazon has partnered with The Washington Post (owned by CEO Jeff Bezos), Reuters, the Associated Press, TIME, Forbes, Business Insider, Politico, USA Today, Vox, and more... Read Entire Article",
-    "link": "https://www.techspot.com/news/112446-amazon-alexa-can-now-generate-podcasts-whatever-topic.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.549301"
-  },
-  {
-    "title": "TP-Link's tiny 5-port Gigabit switch drops to just $9",
-    "summary": "The TP-Link LiteWave LS1005G is a simple a 5-port Gigabit switch, currently available for just $9. That's 50% off its usual Amazon price. The unmanaged switch offers plug-and-play setup, fanless operation, and Gigabit speeds across all five ports. Read Entire Article",
-    "link": "https://www.amazon.com/dp/B0863M7C1L",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.549439"
-  },
-  {
-    "title": "ArXiv will ban researchers for a year if they submit papers with AI slop",
-    "summary": "The arXiv (pronounced \"archive\") team recently announced a significant update to its official code of conduct. The popular open-access repository of research papers awaiting peer review will now seek to deter AI-generated \"slop\" by enforcing stricter accountability rules, including a one-year ban for violations. The team said that using LLMs... Read Entire Article",
-    "link": "https://www.techspot.com/news/112442-arxiv-moves-combat-ai-slop-submissions-one-year.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-05-19T11:42:56.549605"
-  },
-  {
-    "title": "Terraria celebrates 15 years of crafting, mining, and survival",
-    "summary": "Terraria can be played alone or online with others. It originated on the PC but was eventually ported to consoles and mobile devices. Gameplay is accentuated by a stellar soundtrack and above all else, it's a blast to play. Those needing proof of that need look no further than the... Read Entire Article",
-    "link": "https://www.techspot.com/news/112444-terraria-celebrates-15-years-crafting-mining-survival.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.549772"
-  },
-  {
-    "title": "Researchers unveil NAND-DRAM hybrid that could outperform traditional memory",
-    "summary": "Leuven, Belgium-based nanotechnology and semiconductor research center Imec has unveiled what it describes as the world's first 3D implementation of a charge-coupled device (CCD) designed for AI memory applications. The new technology combines the speed of DRAM with the storage density of NAND flash, potentially reducing the \"memory wall\" bottleneck,... Read Entire Article",
-    "link": "https://www.techspot.com/news/112437-researchers-unveil-nand-dram-hybrid-could-outperform-traditional.html",
-    "categories": [
-      "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 15,
-    "processed_date": "2026-05-19T11:42:56.549941"
+    "processed_date": "2026-05-20T11:32:43.814381"
   },
   {
-    "title": "One company now controls more than 4% of all Bitcoin",
-    "summary": "As of this writing, Bitcoin is trading around $76,574 per, valuing the company's holding at roughly $64.6 billion. Strategy shelled out just over $2 billion during its latest spending spree. Read Entire Article",
-    "link": "https://www.techspot.com/news/112440-one-company-now-controls-more-than-4-total.html",
+    "title": "ODROID-H5 A $250 Intel Core i3-N300 SBC with 10GbE networking, four M.2 PCIe slots",
+    "summary": "Hardkernel ODROID-H5 is an affordable Intel Core i3-N300 octa-core Alder Lake-N SBC providing a 10GbE RJ45 networking jack, and four M.2 PCIe slots for storage, wired/wireless networking, or AI accelerator expansion. It relies on the same SoC as in the earlier ODROID-H4 Ultra SBC, but trades a single PCIe Gen3 x4 M.2 slot and four SATA ports for four M.2 slots, and upgrades from dual 2.5GbE to single 10GbE. It still features four USB ports, but only one USB 3.0 port, and three USB 2.0 ports. ODROID-H5 specifications: SoC- Intel Core i3-N300 CPU Octa-core Alder Lake-N processor @ up to 3.8 GHz (Turbo single-core) or 2.3 GHz (Turbo multi-core) with 6MB cache GPU 32EU Intel UHD Graphics @ 1.25 GHz TDP: 7W System Memory Up to 64GB DDR5 4800 MHz SO-DIMM memory Storage Up to 4x 2280 NVMe SSDs via M.2 slots (See Expansion section) eMMC flash [...] The post ODROID-H5 A $250 Intel Core i3-N300 SBC with 10GbE networking, four M.2 PCIe slots appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/20/odroid-h5-an-intel-core-i3-n300-sbc-with-10gbe-networking-four-m-2-pcie-slots/",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.550071"
-  },
-  {
-    "title": "Dell makes its strongest case yet for keeping AI out of the cloud",
-    "summary": "The cloud-only AI narrative is getting harder to defend. At this year's Dell Technologies World in Las Vegas, Dell is making its case backed by real customer deployments and new product announcements that enterprises are running serious AI workloads on their own infrastructure, from corporate data centers down... Read Entire Article",
-    "link": "https://www.techspot.com/news/112438-dell-makes-strongest-case-keeping-ai-out-cloud.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.550221"
-  },
-  {
-    "title": "AMD Radeon RX 9070 XT deal drops to $629 as GPU prices slowly cool off",
-    "summary": "Gigabyte's Radeon RX 9070 XT Gaming OC is down to $629 on Amazon as a Lightning Deal, marking one of the lower prices we've seen for the card these days. It features 16GB GDDR6 memory, triple-fan cooling, factory overclocking, and enough horsepower for high-refresh 1440p gaming with capable 4K performance in most modern titles. Read Entire Article",
-    "link": "https://www.techspot.com/specs/gpu/305058-amd-radeon-rx-9070-xt.html",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-05-19T11:42:56.550368"
-  },
-  {
-    "title": "A Windows 11 speed boost is coming as soon as next month, along with a taskbar you can finally move",
-    "summary": "This new optimization push comes even as the company continues its campaign to embed Copilot almost everywhere and for everything. CEO Satya Nadella has acknowledged the need to win back users who have grown skeptical of the platform. Part of that effort is a renewed focus on raw performance, particularly... Read Entire Article",
-    "link": "https://www.techspot.com/news/112431-windows-11-speed-boost-coming-soon-next-month.html",
-    "categories": [
-      "AI & ML"
+      "Hardware",
+      "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-19T11:42:56.550525"
+    "processed_date": "2026-05-20T11:32:43.814783"
   },
   {
-    "title": "Discord improves Linux support with Steam Deck and distro-friendly upgrades",
-    "summary": "Discord is now more Linux friendly than ever before, having rolled out major improvements for the OS, including official packages for Fedora and Arch distros. A new self-updater brings Linux closer to the Windows experience, and better support for the Steam Deck. The update also adds hardware video acceleration for AMD, Intel, and Nvidia GPUs. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/6871-discord.html",
+    "title": "Firefly CSC2-N48SPK3 A 2880 TOPS RISC-V AI server with 48 SpacemiT K3 Nodes, 48 NVMe SSDs",
+    "summary": "After SpacemiT officially launched the K3 Pico-ITX SBC, and the K3 chip entered volume production, an Edge AI mini PC, and a laptop motherboard (for Framework 13) have been released. To add to the list, Firefly has recently launched the CSC2-N48SPK3, a massive 2U rack-mounted server based on multiple SpacemiT K3 SoCs designed to bring RISC-V computing power to enterprise racks. While consumer devices and modular laptops are great for developers, large-scale server-side AI workloads require more powerful hardware. The CSC2-N48SPK3 addresses this with up to 48 SpacemiT K3 RISC-V compute nodes, each with an octa-core X100 SoC delivering up to 60 TOPS (Sparse) AI performance, up to 32GB LPDDR5 RAM, 128 GB UFS storage, and an optional NVMe SSD. To manage all of these nodes, Firefly relies on a Rockchip RK3588 octa-core Arm processor as the central control node. Firefly CSC2-N48SPK3 specifications: Server Form Factor 2U rack-mounted 48 Node high-density [...] The post Firefly CSC2-N48SPK3 A 2880 TOPS RISC-V AI server with 48 SpacemiT K3 Nodes, 48 NVMe SSDs appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/20/firefly-csc2-n48spk3-a-2880-tops-risc-v-ai-server-with-48-spacemit-k3-nodes-48-nvme-ssds/",
     "categories": [
-      "GPUs",
-      "Hardware"
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 25,
+    "processed_date": "2026-05-20T11:32:43.814911"
+  },
+  {
+    "title": "Texas flooding gets the AI & Sensor early warning treatment",
+    "summary": "Axonis and Simplicity Integration set up flood-warning system in Galveston County, Also, UTA and Rice got $4M for flood warning in the Hill Country.",
+    "link": "https://www.fiercesensors.com/sensors/texas-flooding-gets-ai-sensor-early-warning-treatment",
+    "categories": [
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.550681"
+    "processed_date": "2026-05-20T11:32:43.815755"
   },
   {
-    "title": "Forget Raspberry Pi: this computer is the literally the size of a credit card",
-    "summary": "For years, Raspberry Pi boards and similar devices have been marketed as credit card-sized computers. But while that description is fair in terms of length and width, it's not so accurate when it comes to thickness, ports, headers, and the general likelihood of one sitting comfortably next to your Visa. Read Entire Article",
-    "link": "https://www.techspot.com/news/112436-forget-raspberry-pi-computer-literally-size-credit-card.html",
+    "title": "Forza Horizon 6 Optimization Guide: Best Settings for PC Gamers",
+    "summary": "Forza Horizon 6 looks stunning on PC, but some settings deliver huge FPS gains with little visual loss. We benchmark every major option to find the best optimized settings for every GPU tier . Read Entire Article",
+    "link": "https://www.techspot.com/article/3127-forza-horizon-6-optimization/",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.550863"
+    "quality_score": 10,
+    "processed_date": "2026-05-20T11:32:43.816084"
   },
   {
-    "title": "The first computer mouse: how many buttons did it have?",
-    "summary": "One button, two buttons... three? Read Entire Article",
-    "link": "https://www.techspot.com/trivia/68-first-computer-mouse-how-many-buttons-did-have/",
+    "title": "AMD may be preparing the Ryzen 7 7700X3D, offering 7800X3D-like gaming for less",
+    "summary": "Claims that AMD will launch the chip come from prolific hardware tipster chi11eddog, who has a history of accurate leaks. Read Entire Article",
+    "link": "https://www.techspot.com/news/112467-amd-may-preparing-ryzen-7-7700x3d-offering-7800x3d.html",
     "categories": [
-      "Hardware"
+      "GPUs",
+      "AI & ML"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-05-19T11:42:56.550984"
+    "quality_score": 5,
+    "processed_date": "2026-05-20T11:32:43.816200"
   },
   {
-    "title": "VMware Workstation Pro 26H1 brings broader Linux support and quality-of-life upgrades",
-    "summary": "VMware Workstation Pro 26H1 adds broader Linux support, full 64-bit Windows components, and direct connections to remote ESXi Arm hosts. The update also introduces several quality-of-life fixes requested since Broadcom made Workstation free . For developers, tinkerers, and anyone juggling Linux distros or Windows test environments, Workstation Pro remains one of the easiest ways to run reliable virtual machines on a PC. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html",
+    "title": "Google is making AI images easier to create, and deepfakes easier to spot",
+    "summary": "Google Pics is the company's new AI image-editing tool, which aims to make altering photos easier than ever. The tool is currently in closed testing, with a broader rollout planned for the coming months. In parallel, Google is widening access to its SynthID and C2PA labeling systems, so users can... Read Entire Article",
+    "link": "https://www.techspot.com/news/112462-google-making-ai-images-easier-create-deepfakes-easier.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-20T11:32:43.816316"
+  },
+  {
+    "title": "RAM makers are taking on massive debt to keep up with AI's chip appetite",
+    "summary": "Correction (May 19): This article has been updated for clarity and accuracy regarding memory pricing trends and certain reported revenue growth figures and framing cited from translated industry reports. Read Entire Article",
+    "link": "https://www.techspot.com/news/112458-taiwanese-memory-manufacturers-borrowing-millions-rebuild-chip-inventories.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-20T11:32:43.816443"
+  },
+  {
+    "title": "Nvidia's latest Game Ready drivers deliver worthwhile gains in Forza Horizon 6",
+    "summary": "Nvidia GeForce Game Ready Drivers include day-one support for the hugely popular Forza Horizon 6, and based on our testing , the update brings noticeable performance improvements. While Game Ready drivers do not always deliver meaningful launch-day gains, Nvidia appears to have implemented worthwhile last-minute optimizations this time. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/drivers/essentials/nvidia-geforce/",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-20T11:32:43.816567"
+  },
+  {
+    "title": "Intel may be forcing PC makers to buy its newer 18A chips by cutting off the old ones",
+    "summary": "According to supply chain sources cited by Nikkei Asia, the primary reason behind Intel's move is supply constraints affecting its older 7nm-class processors, driven largely by surging AI demand. Read Entire Article",
+    "link": "https://www.techspot.com/news/112457-intel-allegedly-forcing-pc-makers-adopt-pricey-18a.html",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.551153"
+    "processed_date": "2026-05-20T11:32:43.816679"
   },
   {
-    "title": "Japan is using $4,000 animatronic wolves to scare off bears, and can't make them fast enough",
-    "summary": "Bear attacks are a serious problem in Japan. The animals killed 13 people across the country in 2025-2026, more than twice the previous high, and there have been numerous other attacks and incidents that didn't lead to fatalities. Sightings, meanwhile, rose to 50,000, which was also double the previous record. Read Entire Article",
-    "link": "https://www.techspot.com/news/112435-demand-japan-robotic-monster-wolves-explodes-amid-record.html",
+    "title": "Microsoft is finally letting you remap the Copilot key nobody asked for",
+    "summary": "In a recently updated support page, Microsoft has confirmed what keyboard enthusiasts have known for years: the Copilot key a dedicated button for quickly launching Windows' native chatbot is one of the least successful \"innovations\" in modern keyboard design. Redmond is now effectively admitting as much, offering Windows... Read Entire Article",
+    "link": "https://www.techspot.com/news/112445-microsoft-rolling-back-copilot-key-no-one-asked.html",
     "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-20T11:32:43.816799"
+  },
+  {
+    "title": "Sony's luxury 1000X headphones celebrate 10 years of premium ANC audio",
+    "summary": "Sony's new 1000X \"The ColleXion\" headphones celebrate a decade of the company's flagship ANC lineup with a more luxurious take on the WH-1000XM6 formula. Built around the same QN3-powered noise canceling platform, early impressions praise the upgraded materials, comfort, and refined tuning, though the premium design also brings a much higher price tag and shorter battery life. Read Entire Article",
+    "link": "https://www.techspot.com/products/headphones/sony-1000x-the-collexion.325343/",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-20T11:32:43.816921"
+  },
+  {
+    "title": "Sony's PC gaming era is over at least for single-player games",
+    "summary": "According to Bloomberg's Jason Schreier, Sony Interactive Entertainment Studio Business Group CEO Hermen Hulst recently told employees during a town hall meeting that the company will start restricting single-player narrative games to the PlayStation. It is unclear when the change will occur, and which upcoming games it might impact. Read Entire Article",
+    "link": "https://www.techspot.com/news/112456-sony-locking-single-player-exclusives-playstation-consoles.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-20T11:32:43.817058"
+  },
+  {
+    "title": "Asus and HP unveil Intel Wildcat Lake laptops starting at $449 to rival Apple's MacBook Neo",
+    "summary": "The most affordable Wildcat Lake notebook currently listed online is the Chuwi UniBook, priced at $449 before tax. It runs Windows 11 and is powered by the Core 3 304 processor, which features five CPU cores clocked at up to 4.3GHz, a single Xe GPU core running at up to... Read Entire Article",
+    "link": "https://www.techspot.com/news/112452-asus-hp-unveil-intel-wildcat-lake-laptops-starting.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-20T11:32:43.817179"
+  },
+  {
+    "title": "Apple to host final WWDC of the Tim Cook era on June 8",
+    "summary": "Both the keynote and state of the platform address will be available to stream on YouTube or directly on Apple's website, with on-demand playbacks for viewing at the conclusion of the stream. Read Entire Article",
+    "link": "https://www.techspot.com/news/112455-apple-host-final-wwdc-tim-cook-era-june.html",
+    "categories": [
+      "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-19T11:42:56.551302"
+    "processed_date": "2026-05-20T11:32:43.817285"
+  },
+  {
+    "title": "This gorgeous fanless RTX 5080 PC turns passive cooling into a thermal nightmare",
+    "summary": "The build comes from Felix at Billet Labs, who set out to answer the question: can you cool more than 500W worth of modern PC hardware without any fans? The internet's usual answer to passive water cooling is that it is pointless and inefficient, but that wasn't going to stop... Read Entire Article",
+    "link": "https://www.techspot.com/news/112454-gorgeous-fanless-rtx-5080-pc-turns-passive-cooling.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-20T11:32:43.817399"
+  },
+  {
+    "title": "LG unveils the world's first 1080p gaming monitor with a native 1,000Hz refresh rate",
+    "summary": "Following the long tradition of memorable monitor names, LG has announced the UltraGear 25G590B. As with other monitors boasting insanely high refresh rates, this one is primarily focused on competitive gamers who want speed and accuracy in first-person shooters. Read Entire Article",
+    "link": "https://www.techspot.com/news/112453-lg-unveils-world-first-full-hd-gaming-monitor.html",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-20T11:32:43.817520"
+  },
+  {
+    "title": "Microsoft's new tech cuts Forza Horizon 6's shader loading time from 90 seconds to four seconds",
+    "summary": "When Microsoft introduced ASD last year, it was restricted to Asus Xbox ROG Ally devices, but Turn 10 Studios' new racing title brings the feature to standard Windows 11 PCs. Currently, ASD only supports RDNA 3, RDNA 3.5, and RDNA 4 GPUs and integrated graphics, but Nvidia RTX hardware will receive support later this year. Read Entire Article",
+    "link": "https://www.techspot.com/news/112447-microsoft-new-tech-cuts-forza-horizon-6-shader.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-20T11:32:43.817645"
+  },
+  {
+    "title": "Meta is reassigning 7,000 workers to AI jobs while laying off thousands more",
+    "summary": "Plans for the reassignments were laid out in a memo from chief people officer Janelle Gale, which was seen by Bloomberg. Gale wrote that 7,000 workers will be moved to four new organizations within Meta focused on building new AI tools, including agents and apps. Read Entire Article",
+    "link": "https://www.techspot.com/news/112451-meta-reassigning-7000-workers-ai-jobs-while-laying.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-20T11:32:43.817759"
   }
 ]

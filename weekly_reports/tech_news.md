@@ -1,5 +1,5 @@
 # 📰 Tech News
-**Week of May 19, 2026**
+**Week of May 20, 2026**
 
 *Industry news and product launches*
 
@@ -7,49 +7,49 @@
 
 ## 📊 Summary
 - **Articles this week:** 4
-- **Report generated:** 2026-05-19 11:44
+- **Report generated:** 2026-05-20 11:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. ArXiv will ban researchers for a year if they submit papers with AI slop ⭐
+### 1. Microsoft is finally letting you remap the Copilot key nobody asked for 
 
-ArXiv updates code of conduct to deter AI-generated 'slop', enforcing a one-year ban for violators.
+Microsoft has confirmed the Copilot key is a failed keyboard innovation, allowing remapping. The dedicated button for Windows' chatbot has been met with criticism from keyboard enthusiasts. Redmond is finally giving users the option to remap the key.
 
-💡 *Authenticity of research is at stake with AI-generated content proliferating.*
+💡 *Microsoft admits Copilot key is a failed keyboard innovation design*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112442-arxiv-moves-combat-ai-slop-submissions-one-year.html)
-
----
-
-### 2. Why now is the best time to jump on the OLED monitor bandwagon breaking down new-gen panel tech and our top burn-in prevention tips 
-
-OLED monitors are becoming a more viable option due to improved reliability and decreasing prices, making them an attractive choice for those seeking high-quality visuals.
-
-💡 *Advancements in OLED tech make it a viable mainstream alternative now.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/why-now-is-the-best-time-to-jump-on-the-oled-monitor-bandwagon-breaking-down-new-gen-panel-tech-and-our-top-burn-in-prevention-tips)
+🔗 [Read Full Article](https://www.techspot.com/news/112445-microsoft-rolling-back-copilot-key-no-one-asked.html)
 
 ---
 
-### 3. One company now controls more than 4% of all Bitcoin 
+### 2. AMD rumored to ready budget-friendly Ryzen 7 7700X3D for suffering gamers chipmaker lowers clocks and price with new Zen 4 X3D CPU 
 
-A company now controls over 4% of all Bitcoin, with holdings valued at $64.6 billion. This follows a recent spending spree of just over $2 billion. The current price of Bitcoin is around $76,574 per unit.
+AMD allegedly prepares to launch the Ryzen 7 7700X3D, a budget-friendly version of the Ryzen 7 7800X3D, at a lower price with reduced clocks.
 
-💡 *Concentration of wealth and control in the Bitcoin market increases*
+💡 *Budget gamers may finally get an affordable, high-performance CPU option.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112440-one-company-now-controls-more-than-4-total.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-rumored-to-ready-budget-friendly-ryzen-7-7700x3d-for-suffering-gamers-chipmaker-lowers-clocks-and-price-with-rumored-zen-4-x3d-cpu)
 
 ---
 
-### 4. Japan is using $4,000 animatronic wolves to scare off bears, and can't make them fast enough 
+### 3. Creative Sound Blaster Audigy FX Pro 7.1 channel sound card: A decent 2026 upgrade for analog audio 
 
-Japan is using $4,000 animatronic wolves to deter bears due to a surge in attacks and sightings.
+The Creative Sound Blaster Audigy FX Pro offers 7.1 channel surround sound and high-res playback capabilities, making it a suitable upgrade for users seeking improved analog audio quality. With a 120dB SNR, it delivers clear and detailed sound. The sound card is supported by the Creative Nexus app.
 
-💡 *Bear attacks pose significant threat to human safety and Japanese wildlife.*
+💡 *Enhanced analog audio quality for discerning music listeners sought*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112435-demand-japan-robotic-monster-wolves-explodes-amid-record.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/sound-cards/creative-sound-blaster-audigy-fx-pro-a-decent-upgrade-for-analog-audio)
+
+---
+
+### 4. Apple to host final WWDC of the Tim Cook era on June 8 
+
+Apple is hosting its final WWDC under Tim Cook's leadership on June 8, with a keynote and state of the platform address available to stream on YouTube or Apple's website.
+
+💡 *Tim Cook's legacy in tech is being cemented at WWDC.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112455-apple-host-final-wwdc-tim-cook-era-june.html)
 
 ---
 

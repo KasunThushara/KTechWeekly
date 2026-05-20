@@ -1,95 +1,103 @@
 # 🎮 GPUs
-**Week of May 19, 2026**
+**Week of May 20, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-05-19 11:44
+- **Articles this week:** 9
+- **Report generated:** 2026-05-20 11:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Researchers attack AMD's Infinity Fabric to bypass hardware security protections with 'Fabricked' flaw lets malicious cloud hosts silently read confidential VM memory and forge attestation reports 
+### 1. MSI Raider 16 Max HX review: Elite gaming performance ⭐
 
-ETH Zurich researchers found a software-only attack on AMD Infinity Fabric, allowing malicious cloud hosts to read confidential VM memory and forge attestation reports on EPYC systems.
+The MSI Raider 16 Max HX delivers elite gaming performance with the RTX 5090, but at a premium price.
 
-💡 *AMD Infinity Fabric bypassed, compromising sensitive cloud data security*
+💡 *Premium gaming performance requires a significant investment for enthusiasts.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/researchers-attack-amds-infinity-fabric-to-bypass-hardware-security-protections-with-fabricked-flaw-lets-malicious-cloud-hosts-silently-read-confidential-vm-memory-and-forge-attestation-reports)
-
----
-
-### 2. LG unveils 'world's first' native 1000 Hz refresh rate at 1080p for serious competitive gaming UltraGear 25G590B to launch in the second half of 2026 
-
-LG unveiled the world's first native 1000Hz refresh rate monitor, the UltraGear 25G590B, supporting 1080p resolution. Unlike previous dual-mode displays, this monitor maintains full-HD resolution for immersive gaming. It is set to launch in the second half of 2026.
-
-💡 *Higher refresh rates enhance competitive gaming experience and immersion.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/lg-unveils-worlds-first-native-1000-hz-refresh-rate-at-1080p-for-serious-competitive-gaming-ultragear-25g590b-to-launch-in-the-second-half-of-2026)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/msi-raider-16-max-hx-review)
 
 ---
 
-### 3. Custom-built passive water-cooled PC relies on convection chimney effect powered by triple-stacked radiators 9800X3D build with RTX 5080 has no fans, copper, and radiator chimney, but struggles to keep temperatures down 
+### 2. Nvidia's latest Game Ready drivers deliver worthwhile gains in Forza Horizon 6 
 
-Billet Labs' custom-built passive PC relies on a convection chimney effect powered by triple-stacked radiators, achieving a fanless gaming build. This innovative cooling system utilizes copper and a radiator chimney to dissipate heat. The build features a powerful AMD Ryzen 9 9800X3D and NVIDIA GeForce RTX 5080.
+Nvidia's Game Ready drivers deliver noticeable performance improvements for Forza Horizon 6. This update brings worthwhile gains, making it a worthwhile install for players. Nvidia's optimizations seem to be more effective than usual.
 
-💡 *Passive cooling systems push thermal limits with innovative design approaches.*
+💡 *Nvidia's last-minute optimizations deliver meaningful launch-day performance gains.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/ambitious-modder-creates-custom-passive-water-cooled-pc-9800x3d-build-with-rtx-5080-has-no-fans-copper-and-radiator-chimney-struggles-to-keep-temperatures-down)
-
----
-
-### 4. Fans secretly mapped 24 terabytes of Minecraft s infamous 2b2t server, million square block archive to be shared via torrent Intense digital archaeology project has taken years, risked player wrath 
-
-A massive digital archaeology project has archived 24TB of 2b2t server data, preserving a million squared blocks of Minecraft history.
-
-💡 *Preserving online gaming history for future generations and research purposes.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/fans-release-24tb-million-square-block-archive-of-minecrafts-infamous-2b2t-server-intense-digital-archaeology-project-has-taken-years-to-reach-this-stage)
+🔗 [Read Full Article](https://www.techspot.com/downloads/drivers/essentials/nvidia-geforce/)
 
 ---
 
-### 5. Next-gen mobile gaming just got $1,150 cheaper Dell slashes RTX 5090 gaming laptop price tag to $4,399 
+### 3. LG unveils the world's first 1080p gaming monitor with a native 1,000Hz refresh rate 
 
-Dell has temporarily reduced the price of its Alienware 16 Area-51 gaming laptop with GeForce RTX 5090 to $4,399.99, saving customers $1,150.
+LG introduces the UltraGear 25G590B, a 1080p gaming monitor with a 1,000Hz refresh rate, targeting competitive gamers for speed and accuracy.
 
-💡 *High-end gaming laptops become more affordable for consumers.*
+💡 *Enhanced gaming performance for competitive players with ultra-high refresh rates.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/next-gen-mobile-gaming-just-got-usd1-150-cheaper-dell-slashes-rtx-5090-gaming-laptop-price-tag-to-usd4-399)
-
----
-
-### 6. The Best Mouse: Our Favorite Mice for Work and Play 
-
-Discover top-rated mice for work, gaming, and everyday use, covering budget to flagship models.
-
-💡 *Ergonomic design and precision matter for productivity and gaming performance alike.*
-
-🔗 [Read Full Article](https://www.techspot.com/bestof/mouse-26/)
+🔗 [Read Full Article](https://www.techspot.com/news/112453-lg-unveils-world-first-full-hd-gaming-monitor.html)
 
 ---
 
-### 7. Discord improves Linux support with Steam Deck and distro-friendly upgrades 
+### 4. Lisa Su meets China's vice premier during China visit AMD CEO pledges deeper investment days after Trump-Xi summit 
 
-Discord has improved its Linux support with official packages for Fedora and Arch distros, a self-updater, and hardware video acceleration for various GPUs, bringing the experience closer to Windows.
+AMD CEO Lisa Su met with China's Vice Premier He Lifeng, pledging deeper investment and expanded operations in China, citing its dynamic AI ecosystem. The meeting comes days after the Trump-Xi summit, highlighting the growing importance of Sino-American tech ties.
 
-💡 *Enhanced Linux support expands Discord's user base and accessibility.*
+💡 *China's AI ecosystem attracts significant foreign tech investment.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/6871-discord.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-meets-chinas-vice-premier)
 
 ---
 
-### 8. AMD Radeon RX 9070 XT deal drops to $629 as GPU prices slowly cool off 
+### 5. AMD may be preparing the Ryzen 7 7700X3D, offering 7800X3D-like gaming for less 
 
-The Radeon RX 9070 XT Gaming OC by Gigabyte has dropped to $629 on Amazon, marking a lower price point for the GPU. This deal features 16GB GDDR6 memory, triple-fan cooling, factory overclocking, and suitable performance for 1440p gaming and 4K titles. The Lightning Deal highlights a trend of cooling GPU prices.
+Claims that AMD will launch the chip come from prolific hardware tipster chi11eddog, who has a history of accurate leaks. Read Entire Article
 
-💡 *GPU prices slowly decline, making high-end options more accessible.*
+🔗 [Read Full Article](https://www.techspot.com/news/112467-amd-may-preparing-ryzen-7-7700x3d-offering-7800x3d.html)
 
-🔗 [Read Full Article](https://www.techspot.com/specs/gpu/305058-amd-radeon-rx-9070-xt.html)
+---
+
+### 6. Sony's PC gaming era is over at least for single-player games 
+
+Sony plans to restrict single-player games on PlayStation consoles, affecting narrative games.
+
+💡 *Impact on exclusive, story-driven games is a major concern for fans.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112456-sony-locking-single-player-exclusives-playstation-consoles.html)
+
+---
+
+### 7. Asus and HP unveil Intel Wildcat Lake laptops starting at $449 to rival Apple's MacBook Neo 
+
+Asus and HP unveil Intel Wildcat Lake laptops at affordable prices. The most budget-friendly option is the Chuwi UniBook, starting at $449. It runs Windows 11 and is powered by the Core 3 304 processor.
+
+💡 *Intel Wildcat Lake laptops challenge Apple's MacBook Neo price dominance*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112452-asus-hp-unveil-intel-wildcat-lake-laptops-starting.html)
+
+---
+
+### 8. This gorgeous fanless RTX 5080 PC turns passive cooling into a thermal nightmare 
+
+A fanless RTX 5080 PC pushes the limits of passive cooling with over 500W of power.
+
+💡 *Passive cooling efficiency is often underestimated and worth exploring further limits.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112454-gorgeous-fanless-rtx-5080-pc-turns-passive-cooling.html)
+
+---
+
+### 9. Microsoft's new tech cuts Forza Horizon 6's shader loading time from 90 seconds to four seconds 
+
+Microsoft's ASD tech reduces shader loading time in Forza Horizon 6 from 90 seconds to four seconds on Windows 11 PCs, initially supporting RDNA 3 GPUs and integrated graphics with Nvidia support coming later this year.
+
+💡 *Faster shader loading times enhance gaming experiences for PC players.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112447-microsoft-new-tech-cuts-forza-horizon-6-shader.html)
 
 ---
 
