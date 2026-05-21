@@ -1,93 +1,105 @@
 # ⚡ Semiconductors
-**Week of May 20, 2026**
+**Week of May 21, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-05-20 11:33
+- **Articles this week:** 9
+- **Report generated:** 2026-05-21 11:53
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Firefly CSC2-N48SPK3 A 2880 TOPS RISC-V AI server with 48 SpacemiT K3 Nodes, 48 NVMe SSDs ⭐
+### 1. Hacknect A wireless hacking USB cable with a built-in microSD card slot (Crowdfunding) ⭐
 
-Firefly's CSC2-N48SPK3 is a 2U rack-mounted server featuring 48 SpacemiT K3 nodes, each delivering up to 60 TOPS AI performance. The server also includes 48 NVMe SSDs, a Rockchip RK3588 central control node, and up to 32GB LPDDR5 RAM per node. This powerful RISC-V AI server is designed for large-scale enterprise applications.
+Hacknect is a wireless hacking USB cable with a microSD card slot, controlled via Wi-Fi or Bluetooth, designed for makers, developers, and cybersecurity researchers.
 
-💡 *Massive RISC-V compute power for enterprise AI workloads*
+💡 *Concealed hacking tool raises concerns about secure data exchange and device safety.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/20/firefly-csc2-n48spk3-a-2880-tops-risc-v-ai-server-with-48-spacemit-k3-nodes-48-nvme-ssds/)
-
----
-
-### 2. Intel CEO Lip-Bu Tan stamps out chip bugs with aggressive new quality standards, says major validation errors can result in termination 'B0, you keep your job. Anything above that, you are fired' 
-
-Intel CEO Lip-Bu Tan introduces strict quality standards to minimize chip bugs. He aims to achieve production readiness with A0 silicon revision. Employees with major validation errors will face termination.
-
-💡 *Strict quality standards to prevent costly chip development failures.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-ceo-lip-bu-tan-stamps-out-chip-bugs-with-aggressive-new-quality-standards-says-major-validation-errors-can-result-in-termination-b0-you-keep-your-job-anything-above-that-you-are-fired)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/20/hacknect-a-wireless-hacking-usb-cable-with-a-built-in-microsd-card-slot/)
 
 ---
 
-### 3. ODROID-H5 A $250 Intel Core i3-N300 SBC with 10GbE networking, four M.2 PCIe slots 
+### 2. Researchers hit 112Gbps over wireless in a breakthrough that could shape 6G ⭐
 
-The ODROID-H5 is a budget-friendly SBC offering 10GbE networking and four M.2 PCIe slots for expansion. It features an Intel Core i3-N300 octa-core processor, up to 64GB DDR5 memory, and supports up to four 2280 NVMe SSDs. This makes it suitable for various applications, including AI, AI acceleration, and storage-intensive tasks.
+Researchers achieved 112Gbps wireless communication, surpassing 420GHz, a new frontier in high-frequency wireless communications, potentially paving the way for 6G cellular networks.
 
-💡 *High-end features at an affordable price for AI and storage-intensive tasks.*
+💡 *Enabling ultra-high-speed, low-latency wireless networks for future 6G applications.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/20/odroid-h5-an-intel-core-i3-n300-sbc-with-10gbe-networking-four-m-2-pcie-slots/)
-
----
-
-### 4. LG unveils the world's first 1080p gaming monitor with a native 1,000Hz refresh rate 
-
-LG introduces the UltraGear 25G590B, a 1080p gaming monitor with a 1,000Hz refresh rate, targeting competitive gamers for speed and accuracy.
-
-💡 *Enhanced gaming performance for competitive players with ultra-high refresh rates.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112453-lg-unveils-world-first-full-hd-gaming-monitor.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112461-researchers-achieve-112gbps-wireless-speeds-breakthrough-future-6g.html)
 
 ---
 
-### 5. SMIC founder and AMEC CEO urge Chinese fabs to test domestic chipmaking tools on active production lines equipment makers post record revenue but falling margins 
+### 3. Samsung and SK Hynix employees are reportedly abandoning overseas training programs to nab up to $400,000 performance bonuses online dating grades rise as female members 'seeking out SK hynix employees' 
 
-SMIC founder and AMEC CEO urge domestic fab test on production lines to improve efficiency and reduce costs. China's semiconductor equipment vendors posted record revenue but falling margins due to domestic price competition. This suggests a need for balance between market growth and profitability.
+Samsung and SK Hynix employees are considering abandoning training programs for performance bonuses, driven by AI-led semiconductor profits and record bonus projections.
 
-💡 *Domestic price competition erodes profitability for Chinese semiconductor vendors.*
+💡 *Semiconductor profits fuel employee loyalty crisis over performance bonuses.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/smic-founder-and-amec-ceo-urge-chinese-fabs-to-test-domestic-chip-tools-on-production-lines)
-
----
-
-### 6. RAM makers are taking on massive debt to keep up with AI's chip appetite 
-
-RAM makers are taking on massive debt to keep up with increasing demand for chips to support AI development. This strain on their finances raises concerns about their long-term sustainability. The industry is struggling to meet the growing chip needs.
-
-💡 *AI chip demand strains RAM makers' financial sustainability severely.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112458-taiwanese-memory-manufacturers-borrowing-millions-rebuild-chip-inventories.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/samsung-and-sk-hynix-employees-are-reportedly-abandoning-overseas-training-programs-to-nab-up-to-usd400-000-performance-bonuses-online-dating-grades-rise-as-female-members-seeking-out-sk-hynix-employees)
 
 ---
 
-### 7. Intel may be forcing PC makers to buy its newer 18A chips by cutting off the old ones 
+### 4. Flipper One A Rockchip RK3576-powered portable Arm Linux computer and networking multi-tool 
 
-Intel is reportedly cutting off older 7nm-class processors due to supply constraints, driven by high AI demand.
+The Flipper One is a portable Arm Linux computer and networking multi-tool, featuring a Rockchip RK3576 SoC and dual Gigabit Ethernet, Wi-Fi 6E, and optional 5G or 4G LTE modem support.
 
-💡 *Surging AI demand disrupts supply chains for older Intel processors.*
+💡 *Redefining wireless hacking and networking with open-source hardware and mainline Linux kernel support.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112457-intel-allegedly-forcing-pc-makers-adopt-pricey-18a.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/21/flipper-one-a-rockchip-rk3576-powered-portable-arm-linux-computer-and-networking-multi-tool/)
 
 ---
 
-### 8. Meta is reassigning 7,000 workers to AI jobs while laying off thousands more 
+### 5. ASML CEO says Elon Musk is 'very serious' about TeraFab chipmaking megaproject, confirms direct talks Musk targets $119 billion Texas semiconductor facility 
 
-Plans for the reassignments were laid out in a memo from chief people officer Janelle Gale, which was seen by Bloomberg. Gale wrote that 7,000 workers will be moved to four new organizations within Meta focused on building new AI tools, including agents and apps. Read Entire Article
+ASML CEO confirms direct talks with Elon Musk on TeraFab chip project, which entails a $119 billion Texas semiconductor facility.
 
-🔗 [Read Full Article](https://www.techspot.com/news/112451-meta-reassigning-7000-workers-ai-jobs-while-laying.html)
+💡 *Musk's investment could disrupt global chip manufacturing landscape significantly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/asml-ceo-confirms-direct-talks-with-elon-musk-about-terafab)
+
+---
+
+### 6. Memory makers brace for hydrogen fluoride pricing shock as Hormuz blockade impacts supply chain key etching and cleaning material faces sharp cost increase amid trade disruption 
+
+Hydrogen fluoride prices may rise due to supply chain disruptions, affecting memory products.
+
+💡 *Price shock threatens global memory and storage product supply chain stability.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/memory-makers-brace-for-hydrogen-fluoride-pricing-shock-as-hormuz-blockade-impacts-supply-chain-key-etching-and-cleaning-material-faces-sharp-cost-increase-amid-trade-disruption)
+
+---
+
+### 7. Russia's Sberbank wants Chinese chips for its GigaChat AI in the face of Western sanctions faces a long wait behind ByteDance and Alibaba 
+
+Sberbank seeks Chinese chips for its GigaChat AI, potentially Huawei's Ascend 950, as a response to Western sanctions.
+
+💡 *Russian banks turn to Chinese tech amid escalating Western sanctions tensions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/russias-sberbank-wants-chinese-chips-for-its-gigachat-ai)
+
+---
+
+### 8. ASML says first silicon from its latest $400M High-NA EUV machines is just months away 
+
+ASML's latest $400M chipmaking machines will deliver first silicon products soon.
+
+💡 *Advancements in chip manufacturing drive long-term cost and efficiency benefits.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112473-asml-first-silicon-latest-400m-high-na-euv.html)
+
+---
+
+### 9. Sony cuts prices on flagship WH-1000XM6 and XM5 headphones 
+
+Sony's WH-1000XM6 and XM5 headphones are discounted to $400 and $250. The WH-1000XM6 and XM5 remain top ANC options for strong audio and long battery life. The price cuts follow the debut of the 1000X The ColleXion lineup.
+
+💡 *High-end headphones become more affordable for consumers suddenly*
+
+🔗 [Read Full Article](https://www.techspot.com/products/headphones/sony-wh-1000xm6.308500/)
 
 ---
 

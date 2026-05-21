@@ -1,191 +1,255 @@
 # 🤖 AI & ML
-**Week of May 20, 2026**
+**Week of May 21, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 18
-- **Report generated:** 2026-05-20 11:33
+- **Articles this week:** 24
+- **Report generated:** 2026-05-21 11:53
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. MSI Raider 16 Max HX review: Elite gaming performance ⭐
+### 1. Coralboard features Synaptics Astra SL2619 Edge AI SoC, supports Google Gemma 3 inference ⭐
 
-The MSI Raider 16 Max HX delivers elite gaming performance with the RTX 5090, but at a premium price.
+The Coralboard development board features the Synaptics Astra SL2619 Edge AI SoC with 1 TOPS Synaptics Torq inference engine, supporting Google Gemma 3 inference. It offers 2GB of RAM, MIPI camera and display interfaces, and expansion connectors. The board is ideal for AI applications and edge computing projects.
 
-💡 *Premium gaming performance requires a significant investment for enthusiasts.*
+💡 *Accelerates Edge AI with high-performance inference capabilities integrated.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/msi-raider-16-max-hx-review)
-
----
-
-### 2. Laser-driven spintronic memory device switches 1,000 times faster than DRAM non-volatile device switches in 40 picoseconds while generating almost no heat 
-
-Researchers at the University of Tokyo developed a non-volatile Mn Sn magnetic switching device that can switch bits in 40 picoseconds, generating minimal heat, which could lead to lower-power AI hardware and memory systems.
-
-💡 *Faster, cooler memory could revolutionize AI computing efficiency.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/laser-driven-spintronic-memory-device-switches-1-000-times-faster-than-dram-non-volatile-device-switches-in-40-picoseconds-while-generating-almost-no-heat)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/20/coralboard-features-synaptics-astra-sl2619-edge-ai-soc-supports-google-gemma-3-inference/)
 
 ---
 
-### 3. New Microsoft Surface for Business PCs pair Panther Lake chips with as little as 8GB of RAM 13-inch Surface Laptop goes light on memory but still starts at $1,299 
+### 2. New Flipper One computing multitool bristles with network, GPIO, and M.2 connectivity new keychain device is also a fully open Arm Linux computer 
 
-Microsoft has announced new Surface PCs for business, featuring Intel's Panther Lake chips, with prices starting at $1,949 for the 13-inch Surface Laptop and $1,299 for the 13-inch model with 8GB RAM.
+The Flipper One is a new, compact computing multitool with network and GPIO capabilities. It also features M.2 connectivity and a fully open Arm Linux computer. The device is designed for geeks and enthusiasts.
 
-💡 *Business users face limited RAM options at lower price points.*
+💡 *Rugged, open-source computing in the palm of your hand*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/new-microsoft-surface-for-business-pcs-pair-panther-lake-chips-with-as-little-as-8gb-of-ram-13-inch-surface-laptop-goes-light-on-memory-but-still-starts-at-usd1-299)
-
----
-
-### 4. Forza Horizon 6 Optimization Guide: Best Settings for PC Gamers 
-
-This guide benchmarks Forza Horizon 6 settings to optimize performance on PC, catering to various GPU tiers, and provides the best settings for maximum FPS with minimal visual loss.
-
-💡 *Optimized settings boost FPS without sacrificing visual fidelity significantly.*
-
-🔗 [Read Full Article](https://www.techspot.com/article/3127-forza-horizon-6-optimization/)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/flipper-one-computing-multitool-bristles-with-network-gpio-and-m-2-connectivity-new-keychain-device-is-also-a-fully-open-arm-linux-computer)
 
 ---
 
-### 5. Nvidia's latest Game Ready drivers deliver worthwhile gains in Forza Horizon 6 
+### 3. AMD Ryzen AI Max 400 Gorgon Halo packs up to 192GB of unified memory refreshed APU uses Zen 5 and RDNA 3.5, and can clock up to 5.2 GHz 
 
-Nvidia's Game Ready drivers deliver noticeable performance improvements for Forza Horizon 6. This update brings worthwhile gains, making it a worthwhile install for players. Nvidia's optimizations seem to be more effective than usual.
+AMD introduces Ryzen AI Max 400 Gorgon Halo series with up to 192GB unified memory. These refreshed APUs utilize Zen 5 and RDNA 3.5 architectures, reaching clock speeds of 5.2 GHz. The Ryzen AI Halo development box, featuring last-gen Strix Halo chips, will be available for pre-order in June for $3,999.
 
-💡 *Nvidia's last-minute optimizations deliver meaningful launch-day performance gains.*
+💡 *Groundbreaking unified memory and performance elevate AI-focused computing experience*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/drivers/essentials/nvidia-geforce/)
-
----
-
-### 6. Microsoft is finally letting you remap the Copilot key nobody asked for 
-
-Microsoft has confirmed the Copilot key is a failed keyboard innovation, allowing remapping. The dedicated button for Windows' chatbot has been met with criticism from keyboard enthusiasts. Redmond is finally giving users the option to remap the key.
-
-💡 *Microsoft admits Copilot key is a failed keyboard innovation design*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112445-microsoft-rolling-back-copilot-key-no-one-asked.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-max-400-gorgon-halo-packs-up-to-192gb-of-unified-memory-refreshed-apu-uses-zen-5-and-rdna-3-5-and-can-clock-up-to-5-2-ghz)
 
 ---
 
-### 7. Lisa Su meets China's vice premier during China visit AMD CEO pledges deeper investment days after Trump-Xi summit 
+### 4. Team Group agrees to $1.1 million DRAM settlement in another false advertising lawsuit claimed advertised memory speeds required BIOS tweaks and overclocking settings 
 
-AMD CEO Lisa Su met with China's Vice Premier He Lifeng, pledging deeper investment and expanded operations in China, citing its dynamic AI ecosystem. The meeting comes days after the Trump-Xi summit, highlighting the growing importance of Sino-American tech ties.
+Team Group settles $1.1 million lawsuit over false RAM advertising claims. The company denies wrongdoing but agreed to the settlement. The lawsuit alleged that advertised memory speeds required BIOS tweaks and overclocking settings.
 
-💡 *China's AI ecosystem attracts significant foreign tech investment.*
+💡 *Companies may face lawsuits over exaggerated RAM performance claims.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-meets-chinas-vice-premier)
-
----
-
-### 8. Pizza Hut's AI delivery system cooks up $100 million franchisee lawsuit deliveries allegedly shot from under 30 minutes to over 45 under new system 
-
-Pizza Hut's AI delivery system allegedly caused $100 million loss for a franchisee, leading to a lawsuit.
-
-💡 *Innovative tech can have unintended business-crippling consequences for franchise owners.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/pizza-huts-ai-delivery-system-cooks-up-usd100-million-franchisee-lawsuit-deliveries-allegedly-shot-from-under-30-minutes-to-over-45-under-new-system)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/team-group-agrees-to-usd1-1-million-dram-settlement-in-another-false-advertising-lawsuit-claimed-advertised-memory-speeds-required-bios-tweaks-and-overclocking-settings)
 
 ---
 
-### 9. Physical attacks against crypto holders, including kidnap and assault, up 75% in 2025 72 confirmed incidents see $41 million lost, real number likely higher 
+### 5. Samsung and SK Hynix employees are reportedly abandoning overseas training programs to nab up to $400,000 performance bonuses online dating grades rise as female members 'seeking out SK hynix employees' 
 
-Crypto holders face a 75% rise in physical attacks, with 72 confirmed incidents and $41 million lost. Criminals are tracing large wallets back to their owners, prompting investments in physical security. Firms and individuals are hiring bodyguards and security measures.
+Samsung and SK Hynix employees are considering abandoning training programs for performance bonuses, driven by AI-led semiconductor profits and record bonus projections.
 
-💡 *Physical attacks on crypto holders escalate as wallet tracing improves.*
+💡 *Semiconductor profits fuel employee loyalty crisis over performance bonuses.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/physical-attacks-against-crypto-holders-including-kidnap-and-assault-up-75-percent-in-2025-72-confirmed-incidents-see-usd41-million-lost-real-number-likely-higher)
-
----
-
-### 10. Standard Chartered plans to cut 7,000 jobs in AI push lender wants to replace lower-value human capital and focus on automation 
-
-Standard Chartered plans to cut 7,000 jobs in a bid to increase automation in its back offices.
-
-💡 *Automation replaces lower-value human capital for efficiency and cost savings.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/standard-chartered-plans-to-cut-7-000-jobs-in-ai-push-lender-wants-to-replace-lower-value-human-capital-and-focus-on-automation)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/samsung-and-sk-hynix-employees-are-reportedly-abandoning-overseas-training-programs-to-nab-up-to-usd400-000-performance-bonuses-online-dating-grades-rise-as-female-members-seeking-out-sk-hynix-employees)
 
 ---
 
-### 11. Intel tells PC makers to adopt 18A CPUs or lose their supply, report claims Intel 7 supply dries up, pressuring notebook and PC manufacturers in the US, China, and Taiwan 
+### 6. Intel kicks off development on next-decade 10A and 7A process technologies 14A node remains on track for critical October PDK release 
 
-Intel has shifted its Intel 7 production capacity to servers and industrial customers, prompting PC manufacturers to adopt 18A CPUs to avoid supply disruptions.
+Intel is on track to release its 14A process technology in 2029, with 10A and 7A following in the 2030s. The company has kicked off development on these next-generation process technologies. High-volume manufacturing is expected to begin in 2029 and 2030 respectively.
 
-💡 *PC supply chain at risk due to Intel 7 capacity shift.*
+💡 *Advancements in microprocessor technology boost computing performance and efficiency.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-tells-pc-makers-to-adopt-18a-cpus-or-lose-their-allocations)
-
----
-
-### 12. Texas flooding gets the AI & Sensor early warning treatment 
-
-Axiom and Simplicity Integration set up a flood warning system in Galveston County. Additionally, UTA and Rice University received $4M for a flood warning system in the Hill Country. Early warning systems aim to mitigate the impact of flooding.
-
-💡 *Real-time flood warnings can save lives and property instantly always.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/texas-flooding-gets-ai-sensor-early-warning-treatment)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-kicks-off-development-on-next-decade-10a-and-7a-process-technologies-14a-node-remains-on-track-for-critical-october-pdk-release)
 
 ---
 
-### 13. AMD may be preparing the Ryzen 7 7700X3D, offering 7800X3D-like gaming for less 
+### 7. Procolored X one A 3-in-1 laser engraver with UV and UV-DTF color printing (Crowdfunding) 
 
-Claims that AMD will launch the chip come from prolific hardware tipster chi11eddog, who has a history of accurate leaks. Read Entire Article
+The Procolored X one is a 3-in-1 machine combining UV printing, dual-laser engraving, and UV-DTF sticker making, simplifying workflows for small businesses and DIY makers. It features a compact, enclosed design with a unique X-axis dual-track system. The machine boasts improved print efficiency and speed.
 
-🔗 [Read Full Article](https://www.techspot.com/news/112467-amd-may-preparing-ryzen-7-7700x3d-offering-7800x3d.html)
+💡 *Streamlined multi-functionality boosts efficiency for small businesses and DIY makers*
 
----
-
-### 14. Google is making AI images easier to create, and deepfakes easier to spot 
-
-Google's new AI image-editing tool, Pics, simplifies photo editing in testing. Google also expands access to tools for spotting deepfakes. A broader rollout is planned for the coming months.
-
-💡 *Deepfakes may become more detectable, but creation tools improve*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112462-google-making-ai-images-easier-create-deepfakes-easier.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/21/procolored-x-one-a-3-in-1-uv-printer-and-color-laser-engraver-with-uv-dtf-support/)
 
 ---
 
-### 15. RAM makers are taking on massive debt to keep up with AI's chip appetite 
+### 8. Intel leans on LPDDR5X to dodge global HBM crisis, leaked Crescent Island AI GPU pics reveal massive Xe3P core chip sidesteps HBM shortage with 160GB of cheaper memory 
 
-RAM makers are taking on massive debt to keep up with increasing demand for chips to support AI development. This strain on their finances raises concerns about their long-term sustainability. The industry is struggling to meet the growing chip needs.
+Intel's Crescent Island GPU uses 20 LPDDR5X modules instead of HBM, avoiding the memory shortage.
 
-💡 *AI chip demand strains RAM makers' financial sustainability severely.*
+💡 *Intel sidesteps HBM shortage with cost-effective LPDDR5X memory solution*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112458-taiwanese-memory-manufacturers-borrowing-millions-rebuild-chip-inventories.html)
-
----
-
-### 16. Sony's luxury 1000X headphones celebrate 10 years of premium ANC audio 
-
-Sony's 1000X 'The ColleXion' headphones celebrate 10 years of premium ANC audio with upgraded materials and comfort, but a higher price tag and shorter battery life.
-
-💡 *Luxury upgrade comes at a significant price and performance cost compromise.*
-
-🔗 [Read Full Article](https://www.techspot.com/products/headphones/sony-1000x-the-collexion.325343/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/pcb-shots-appear-of-intels-crescent-island-revealing-a-single-gpu-setup-and-pads-for-20-lpddr5x-modules)
 
 ---
 
-### 17. Apple to host final WWDC of the Tim Cook era on June 8 
+### 9. ASML CEO says Elon Musk is 'very serious' about TeraFab chipmaking megaproject, confirms direct talks Musk targets $119 billion Texas semiconductor facility 
 
-Apple is hosting its final WWDC under Tim Cook's leadership on June 8, with a keynote and state of the platform address available to stream on YouTube or Apple's website.
+ASML CEO confirms direct talks with Elon Musk on TeraFab chip project, which entails a $119 billion Texas semiconductor facility.
 
-💡 *Tim Cook's legacy in tech is being cemented at WWDC.*
+💡 *Musk's investment could disrupt global chip manufacturing landscape significantly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112455-apple-host-final-wwdc-tim-cook-era-june.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/asml-ceo-confirms-direct-talks-with-elon-musk-about-terafab)
 
 ---
 
-### 18. Meta is reassigning 7,000 workers to AI jobs while laying off thousands more 
+### 10. Angry tiny Texas town council member proposes total ban on cellular and GPS devices in protest over AI dispute says 'Let s take Bandera back to 1880' after town votes to dump AI-powered license plate reader 
 
-Plans for the reassignments were laid out in a memo from chief people officer Janelle Gale, which was seen by Bloomberg. Gale wrote that 7,000 workers will be moved to four new organizations within Meta focused on building new AI tools, including agents and apps. Read Entire Article
+A Texas town councilor proposes a ban on cellular and GPS devices after a vote to remove AI-powered license plate readers. The proposal aims to take the town back to the 1880s. This move is seen as a protest against the technology.
 
-🔗 [Read Full Article](https://www.techspot.com/news/112451-meta-reassigning-7000-workers-ai-jobs-while-laying.html)
+💡 *Fear of AI and government surveillance drives resistance in small towns.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/angry-tiny-texas-town-council-member-proposes-total-ban-on-cellular-and-gps-devices-in-protest-over-ai-dispute-says-lets-take-bandera-back-to-1880-after-town-votes-to-dump-ai-powered-license-plate-reader)
+
+---
+
+### 11. Korean funeral services company lost $33 million of its customers' money over a bad crypto bet firm was secretly investing client funds into leveraged crypto ETFs 
+
+Bumo Sarang, a Korean funeral services company, lost $33 million after investing $40 million of client funds into a leveraged crypto ETF. This exploitation of loopholes to siphon funds into high-risk investments is a widespread issue in the industry. Almost half of the industry is involved in similar practices.
+
+💡 *Lack of regulation enables widespread exploitation of client funds.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/korean-funeral-services-company-lost-usd33-million-of-its-customers-money-over-a-wrong-crypto-bet-firm-was-secretly-investing-client-funds-into-leveraged-crypto-etfs)
+
+---
+
+### 12. Memory makers brace for hydrogen fluoride pricing shock as Hormuz blockade impacts supply chain key etching and cleaning material faces sharp cost increase amid trade disruption 
+
+Hydrogen fluoride prices may rise due to supply chain disruptions, affecting memory products.
+
+💡 *Price shock threatens global memory and storage product supply chain stability.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/memory-makers-brace-for-hydrogen-fluoride-pricing-shock-as-hormuz-blockade-impacts-supply-chain-key-etching-and-cleaning-material-faces-sharp-cost-increase-amid-trade-disruption)
+
+---
+
+### 13. Russia's Sberbank wants Chinese chips for its GigaChat AI in the face of Western sanctions faces a long wait behind ByteDance and Alibaba 
+
+Sberbank seeks Chinese chips for its GigaChat AI, potentially Huawei's Ascend 950, as a response to Western sanctions.
+
+💡 *Russian banks turn to Chinese tech amid escalating Western sanctions tensions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/russias-sberbank-wants-chinese-chips-for-its-gigachat-ai)
+
+---
+
+### 14. China banned Nvidia 5090D V2 while CEO Jensen Huang was in town, report claims move comes as Beijing pushes its AI tech companies to use homegrown chips 
+
+China banned the Nvidia RTX 5090D V2 GPU due to US export restrictions. The GPU was designed for gaming and AI development. The move pushes Beijing to rely on homegrown AI chips.
+
+💡 *Nvidia's compliance with US export controls backfires in China market.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-banned-nvidia-5090d-v2-while-ceo-jensen-huang-was-in-town-report-claims-move-comes-as-beijing-pushes-its-ai-tech-companies-to-use-homegrown-chips)
+
+---
+
+### 15. ADI buys Empower for $1.5B and then reports record 2Q bookings 
+
+ADI has acquired Empower for $1.5B, expanding its manufacturing and customer base. Empower's FinFast technology integrates IVRs with AI systems, bringing them closer to processor hardware. This acquisition has led to record 2Q bookings for ADI.
+
+💡 *AI processing gets a significant boost with ADI-Empower integration.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/adi-buys-empower-15b-and-then-reports-record-2q-bookings)
+
+---
+
+### 16. A Lord of the Rings open-world RPG is coming from the Kingdom Come: Deliverance studio 
+
+Warhorse Studios is developing a Lord of the Rings open-world RPG. The studio confirmed rumors of the project in a recent post. Details are scarce, but more information will be revealed in time.
+
+💡 *Kingdom Come: Deliverance studio brings open-world expertise to Middle-earth*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112481-lord-rings-open-world-rpg-coming-kingdom-come.html)
+
+---
+
+### 17. Nvidia hits record $81.6 billion revenue as AI boom shows no sign of slowing 
+
+Nvidia achieves record $81.6 billion revenue, driven by the AI boom. Data centers are being rapidly built, with CEO Jensen Huang calling it the largest infrastructure expansion in human history. The expansion is accelerating at an extraordinary speed.
+
+💡 *AI infrastructure growth is transforming industries at unprecedented speed.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112480-nvidia-hits-record-816-billion-revenue-ai-boom.html)
+
+---
+
+### 18. Google is remaking Search in ChatGPT's image 
+
+Google is remaking Search in the image of ChatGPT, despite reliability concerns.
+
+💡 *Google's AI-driven Search may fundamentally alter user information experience*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112477-google-remaking-search-chatgpt-image.html)
+
+---
+
+### 19. ASML says first silicon from its latest $400M High-NA EUV machines is just months away 
+
+ASML's latest $400M chipmaking machines will deliver first silicon products soon.
+
+💡 *Advancements in chip manufacturing drive long-term cost and efficiency benefits.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112473-asml-first-silicon-latest-400m-high-na-euv.html)
+
+---
+
+### 20. Sony cuts prices on flagship WH-1000XM6 and XM5 headphones 
+
+Sony's WH-1000XM6 and XM5 headphones are discounted to $400 and $250. The WH-1000XM6 and XM5 remain top ANC options for strong audio and long battery life. The price cuts follow the debut of the 1000X The ColleXion lineup.
+
+💡 *High-end headphones become more affordable for consumers suddenly*
+
+🔗 [Read Full Article](https://www.techspot.com/products/headphones/sony-wh-1000xm6.308500/)
+
+---
+
+### 21. Jeff Bezos isn't worried about the AI bubble: "the good ideas will pay for all of the losers" 
+
+Jeff Bezos dismisses AI bubble fears, citing accelerated technological progress.
+
+💡 *Speculative excess can drive technological progress, outweighing potential losses.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112472-jeff-bezos-isnt-worried-about-ai-bubble-good.html)
+
+---
+
+### 22. Microsoft is pulling the plug on SMS codes, wants you to switch to passkeys 
+
+Microsoft is phasing out SMS-based authentication for personal accounts, citing security concerns.
+
+💡 *SMS codes are no longer secure, replaced by stronger alternatives.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112463-microsoft-pulling-plug-sms-codes-wants-you-switch.html)
+
+---
+
+### 23. Microsoft refreshes Surface with Panther Lake and up to 64GB of RAM, starting at $1,500 
+
+Microsoft has launched new Surface for Business laptops with Panther Lake processors, up to 64GB of RAM, and starting at $1,500. Orders are now open for two new laptops and a 2-in-1, with more models to follow later this year.
+
+💡 *Microsoft responds to business demand with upgraded Surface laptops and 2-in-1*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112464-microsoft-refreshes-surface-panther-lake-up-64gb-ram.html)
+
+---
+
+### 24. Google takes on OpenClaw with Gemini Spark, a 24/7 AI agent for your digital life 
+
+Google introduces Gemini Spark, a 24/7 AI agent for digital life, helping users navigate and automate tasks.
+
+💡 *Revolutionizing personal AI assistance in daily life with seamless automation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112468-google-takes-openclaw-gemini-spark-247-ai-agent.html)
 
 ---
 

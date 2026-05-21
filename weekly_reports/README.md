@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of May 20, 2026**
+**Week of May 21, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Firefly CSC2-N48SPK3 A 2880 TOPS RISC-V AI server with 48 SpacemiT K3 Nodes, 48 NVMe SSDs ⭐
+### 1. Researchers hit 112Gbps over wireless in a breakthrough that could shape 6G ⭐
 
-**⚡ Semiconductors**
+**📰 Tech News**
 
-Firefly's CSC2-N48SPK3 is a 2U rack-mounted server featuring 48 SpacemiT K3 nodes, each delivering up to 60 TOPS AI performance. The server also includes 48 NVMe SSDs, a Rockchip RK3588 central control node, and up to 32GB LPDDR5 RAM per node. This powerful RISC-V AI server is designed for large-scale enterprise applications.
+Researchers achieved 112Gbps wireless communication, surpassing 420GHz, a new frontier in high-frequency wireless communications, potentially paving the way for 6G cellular networks.
 
-💡 **Key Point:** Massive RISC-V compute power for enterprise AI workloads
+💡 **Key Point:** Enabling ultra-high-speed, low-latency wireless networks for future 6G applications.
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/20/firefly-csc2-n48spk3-a-2880-tops-risc-v-ai-server-with-48-spacemit-k3-nodes-48-nvme-ssds/)
-
----
-
-### 2. Firefly CSC2-N48SPK3 A 2880 TOPS RISC-V AI server with 48 SpacemiT K3 Nodes, 48 NVMe SSDs ⭐
-
-**💻 Hardware**
-
-Firefly's CSC2-N48SPK3 is a 2U rack-mounted server featuring 48 SpacemiT K3 nodes, each delivering up to 60 TOPS AI performance. The server also includes 48 NVMe SSDs, a Rockchip RK3588 central control node, and up to 32GB LPDDR5 RAM per node. This powerful RISC-V AI server is designed for large-scale enterprise applications.
-
-💡 **Key Point:** Massive RISC-V compute power for enterprise AI workloads
-
-🔗 [Read More](https://www.cnx-software.com/2026/05/20/firefly-csc2-n48spk3-a-2880-tops-risc-v-ai-server-with-48-spacemit-k3-nodes-48-nvme-ssds/)
+🔗 [Read More](https://www.techspot.com/news/112461-researchers-achieve-112gbps-wireless-speeds-breakthrough-future-6g.html)
 
 ---
 
-### 3. MSI Raider 16 Max HX review: Elite gaming performance ⭐
+### 2. Coralboard features Synaptics Astra SL2619 Edge AI SoC, supports Google Gemma 3 inference ⭐
 
 **🤖 AI & ML**
 
-The MSI Raider 16 Max HX delivers elite gaming performance with the RTX 5090, but at a premium price.
+The Coralboard development board features the Synaptics Astra SL2619 Edge AI SoC with 1 TOPS Synaptics Torq inference engine, supporting Google Gemma 3 inference. It offers 2GB of RAM, MIPI camera and display interfaces, and expansion connectors. The board is ideal for AI applications and edge computing projects.
 
-💡 **Key Point:** Premium gaming performance requires a significant investment for enthusiasts.
+💡 **Key Point:** Accelerates Edge AI with high-performance inference capabilities integrated.
 
-🔗 [Read More](https://www.tomshardware.com/laptops/gaming-laptops/msi-raider-16-max-hx-review)
-
----
-
-### 4. MSI Raider 16 Max HX review: Elite gaming performance ⭐
-
-**🎮 GPUs**
-
-The MSI Raider 16 Max HX delivers elite gaming performance with the RTX 5090, but at a premium price.
-
-💡 **Key Point:** Premium gaming performance requires a significant investment for enthusiasts.
-
-🔗 [Read More](https://www.tomshardware.com/laptops/gaming-laptops/msi-raider-16-max-hx-review)
+🔗 [Read More](https://www.cnx-software.com/2026/05/20/coralboard-features-synaptics-astra-sl2619-edge-ai-soc-supports-google-gemma-3-inference/)
 
 ---
 
-### 5. Intel CEO Lip-Bu Tan stamps out chip bugs with aggressive new quality standards, says major validation errors can result in termination 'B0, you keep your job. Anything above that, you are fired' 
+### 3. China's new homegrown gaming GPU flops in performance and price flagship $485 LX 7G100 can't keep pace with Nvidia's older RTX 4060 ⭐
 
-**⚡ Semiconductors**
+**💻 Hardware**
 
-Intel CEO Lip-Bu Tan introduces strict quality standards to minimize chip bugs. He aims to achieve production readiness with A0 silicon revision. Employees with major validation errors will face termination.
+Lisuan Tech's LX 7G100 gaming GPU faces criticism from Chinese media for poor performance and high price, struggling to keep up with Nvidia's RTX 4060. The graphics card, priced at $485, has gone up for preorder. Reviews from Chinese outlets highlight its shortcomings in comparison to established competitors.
 
-💡 **Key Point:** Strict quality standards to prevent costly chip development failures.
+💡 **Key Point:** New Chinese gaming GPU lags behind established Nvidia models significantly
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-ceo-lip-bu-tan-stamps-out-chip-bugs-with-aggressive-new-quality-standards-says-major-validation-errors-can-result-in-termination-b0-you-keep-your-job-anything-above-that-you-are-fired)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/chinas-new-homegrown-gaming-gpu-flops-in-performance-and-price-flagship-usd485-lx-7g100-cant-keep-pace-with-nvidias-older-rtx-4060)
+
+---
+
+### 4. Coralboard features Synaptics Astra SL2619 Edge AI SoC, supports Google Gemma 3 inference ⭐
+
+**💻 Hardware**
+
+The Coralboard development board features the Synaptics Astra SL2619 Edge AI SoC with 1 TOPS Synaptics Torq inference engine, supporting Google Gemma 3 inference. It offers 2GB of RAM, MIPI camera and display interfaces, and expansion connectors. The board is ideal for AI applications and edge computing projects.
+
+💡 **Key Point:** Accelerates Edge AI with high-performance inference capabilities integrated.
+
+🔗 [Read More](https://www.cnx-software.com/2026/05/20/coralboard-features-synaptics-astra-sl2619-edge-ai-soc-supports-google-gemma-3-inference/)
+
+---
+
+### 5. Hacknect A wireless hacking USB cable with a built-in microSD card slot (Crowdfunding) ⭐
+
+**💻 Hardware**
+
+Hacknect is a wireless hacking USB cable with a microSD card slot, controlled via Wi-Fi or Bluetooth, designed for makers, developers, and cybersecurity researchers.
+
+💡 **Key Point:** Concealed hacking tool raises concerns about secure data exchange and device safety.
+
+🔗 [Read More](https://www.cnx-software.com/2026/05/20/hacknect-a-wireless-hacking-usb-cable-with-a-built-in-microsd-card-slot/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **51 articles** across **5 focused categories**.
+We covered **63 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 18 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 9 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 12 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 8 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 24 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 8 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 9 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 18 articles
+*Artificial Intelligence and Machine Learning* — 24 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 9 articles
+*Graphics cards and compute accelerators* — 8 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 12 articles
+*Computing hardware and development boards* — 13 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 8 articles
+*Chip manufacturing and design* — 9 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 4 articles
+*Industry news and product launches* — 9 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-05-20 at 11:33 by an autonomous AI curation system.
+Generated 2026-05-21 at 11:53 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

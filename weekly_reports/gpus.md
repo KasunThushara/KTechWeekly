@@ -1,103 +1,95 @@
 # 🎮 GPUs
-**Week of May 20, 2026**
+**Week of May 21, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-05-20 11:33
+- **Articles this week:** 8
+- **Report generated:** 2026-05-21 11:53
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. MSI Raider 16 Max HX review: Elite gaming performance ⭐
+### 1. China's new homegrown gaming GPU flops in performance and price flagship $485 LX 7G100 can't keep pace with Nvidia's older RTX 4060 ⭐
 
-The MSI Raider 16 Max HX delivers elite gaming performance with the RTX 5090, but at a premium price.
+Lisuan Tech's LX 7G100 gaming GPU faces criticism from Chinese media for poor performance and high price, struggling to keep up with Nvidia's RTX 4060. The graphics card, priced at $485, has gone up for preorder. Reviews from Chinese outlets highlight its shortcomings in comparison to established competitors.
 
-💡 *Premium gaming performance requires a significant investment for enthusiasts.*
+💡 *New Chinese gaming GPU lags behind established Nvidia models significantly*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/msi-raider-16-max-hx-review)
-
----
-
-### 2. Nvidia's latest Game Ready drivers deliver worthwhile gains in Forza Horizon 6 
-
-Nvidia's Game Ready drivers deliver noticeable performance improvements for Forza Horizon 6. This update brings worthwhile gains, making it a worthwhile install for players. Nvidia's optimizations seem to be more effective than usual.
-
-💡 *Nvidia's last-minute optimizations deliver meaningful launch-day performance gains.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/drivers/essentials/nvidia-geforce/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/chinas-new-homegrown-gaming-gpu-flops-in-performance-and-price-flagship-usd485-lx-7g100-cant-keep-pace-with-nvidias-older-rtx-4060)
 
 ---
 
-### 3. LG unveils the world's first 1080p gaming monitor with a native 1,000Hz refresh rate 
+### 2. AMD Ryzen AI Max 400 Gorgon Halo packs up to 192GB of unified memory refreshed APU uses Zen 5 and RDNA 3.5, and can clock up to 5.2 GHz 
 
-LG introduces the UltraGear 25G590B, a 1080p gaming monitor with a 1,000Hz refresh rate, targeting competitive gamers for speed and accuracy.
+AMD introduces Ryzen AI Max 400 Gorgon Halo series with up to 192GB unified memory. These refreshed APUs utilize Zen 5 and RDNA 3.5 architectures, reaching clock speeds of 5.2 GHz. The Ryzen AI Halo development box, featuring last-gen Strix Halo chips, will be available for pre-order in June for $3,999.
 
-💡 *Enhanced gaming performance for competitive players with ultra-high refresh rates.*
+💡 *Groundbreaking unified memory and performance elevate AI-focused computing experience*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112453-lg-unveils-world-first-full-hd-gaming-monitor.html)
-
----
-
-### 4. Lisa Su meets China's vice premier during China visit AMD CEO pledges deeper investment days after Trump-Xi summit 
-
-AMD CEO Lisa Su met with China's Vice Premier He Lifeng, pledging deeper investment and expanded operations in China, citing its dynamic AI ecosystem. The meeting comes days after the Trump-Xi summit, highlighting the growing importance of Sino-American tech ties.
-
-💡 *China's AI ecosystem attracts significant foreign tech investment.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-meets-chinas-vice-premier)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-max-400-gorgon-halo-packs-up-to-192gb-of-unified-memory-refreshed-apu-uses-zen-5-and-rdna-3-5-and-can-clock-up-to-5-2-ghz)
 
 ---
 
-### 5. AMD may be preparing the Ryzen 7 7700X3D, offering 7800X3D-like gaming for less 
+### 3. Intel leans on LPDDR5X to dodge global HBM crisis, leaked Crescent Island AI GPU pics reveal massive Xe3P core chip sidesteps HBM shortage with 160GB of cheaper memory 
 
-Claims that AMD will launch the chip come from prolific hardware tipster chi11eddog, who has a history of accurate leaks. Read Entire Article
+Intel's Crescent Island GPU uses 20 LPDDR5X modules instead of HBM, avoiding the memory shortage.
 
-🔗 [Read Full Article](https://www.techspot.com/news/112467-amd-may-preparing-ryzen-7-7700x3d-offering-7800x3d.html)
+💡 *Intel sidesteps HBM shortage with cost-effective LPDDR5X memory solution*
 
----
-
-### 6. Sony's PC gaming era is over at least for single-player games 
-
-Sony plans to restrict single-player games on PlayStation consoles, affecting narrative games.
-
-💡 *Impact on exclusive, story-driven games is a major concern for fans.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112456-sony-locking-single-player-exclusives-playstation-consoles.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/pcb-shots-appear-of-intels-crescent-island-revealing-a-single-gpu-setup-and-pads-for-20-lpddr5x-modules)
 
 ---
 
-### 7. Asus and HP unveil Intel Wildcat Lake laptops starting at $449 to rival Apple's MacBook Neo 
+### 4. Ryzen 7 5800X3D AM4 10th Anniversary Edition surfaces online for $310 return of iconic gaming CPU for budget builders seems imminent 
 
-Asus and HP unveil Intel Wildcat Lake laptops at affordable prices. The most budget-friendly option is the Chuwi UniBook, starting at $449. It runs Windows 11 and is powered by the Core 3 304 processor.
+AMD's Ryzen 7 5800X3D AM4 10th Anniversary Edition CPU listed for $310, a budget-friendly option for gaming builders.
 
-💡 *Intel Wildcat Lake laptops challenge Apple's MacBook Neo price dominance*
+💡 *Iconic gaming CPU returns to budget market, affordable gaming options increase.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112452-asus-hp-unveil-intel-wildcat-lake-laptops-starting.html)
-
----
-
-### 8. This gorgeous fanless RTX 5080 PC turns passive cooling into a thermal nightmare 
-
-A fanless RTX 5080 PC pushes the limits of passive cooling with over 500W of power.
-
-💡 *Passive cooling efficiency is often underestimated and worth exploring further limits.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112454-gorgeous-fanless-rtx-5080-pc-turns-passive-cooling.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/ryzen-7-5800x3d-am4-10th-anniversary-edition-surfaces-online-for-usd310-return-of-iconic-gaming-cpu-for-budget-builders-seems-imminent)
 
 ---
 
-### 9. Microsoft's new tech cuts Forza Horizon 6's shader loading time from 90 seconds to four seconds 
+### 5. China banned Nvidia 5090D V2 while CEO Jensen Huang was in town, report claims move comes as Beijing pushes its AI tech companies to use homegrown chips 
 
-Microsoft's ASD tech reduces shader loading time in Forza Horizon 6 from 90 seconds to four seconds on Windows 11 PCs, initially supporting RDNA 3 GPUs and integrated graphics with Nvidia support coming later this year.
+China banned the Nvidia RTX 5090D V2 GPU due to US export restrictions. The GPU was designed for gaming and AI development. The move pushes Beijing to rely on homegrown AI chips.
 
-💡 *Faster shader loading times enhance gaming experiences for PC players.*
+💡 *Nvidia's compliance with US export controls backfires in China market.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112447-microsoft-new-tech-cuts-forza-horizon-6-shader.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-banned-nvidia-5090d-v2-while-ceo-jensen-huang-was-in-town-report-claims-move-comes-as-beijing-pushes-its-ai-tech-companies-to-use-homegrown-chips)
+
+---
+
+### 6. Nvidia hits record $81.6 billion revenue as AI boom shows no sign of slowing 
+
+Nvidia achieves record $81.6 billion revenue, driven by the AI boom. Data centers are being rapidly built, with CEO Jensen Huang calling it the largest infrastructure expansion in human history. The expansion is accelerating at an extraordinary speed.
+
+💡 *AI infrastructure growth is transforming industries at unprecedented speed.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112480-nvidia-hits-record-816-billion-revenue-ai-boom.html)
+
+---
+
+### 7. Redditor creates ungodly gaming PC with 13 internal screens and 15,000 looping GIFs 
+
+Redditor Several-Bar-6512 built a gaming PC with 13 internal screens and 15,000 looping GIFs.
+
+💡 *Unconventional design challenges traditional gaming PC expectations and boundaries.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112470-redditor-creates-ungodly-gaming-pc-13-internal-screens.html)
+
+---
+
+### 8. Herman Miller's new Coyl gaming desk starts at $1,095 
+
+Herman Miller's Coyl gaming desk is customizable with various colors and leg options, offering a tailored experience. The desk comes with a red power cable and cable tray for cable management. Starting price is $1,095.
+
+💡 *Gaming desks are becoming a key focus for high-end interior design.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112475-herman-miller-new-coyl-gaming-desk-starts-1095.html)
 
 ---
 
