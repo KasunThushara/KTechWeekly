@@ -1,5 +1,5 @@
 # 🎮 GPUs
-**Week of May 21, 2026**
+**Week of May 22, 2026**
 
 *Graphics cards and compute accelerators*
 
@@ -7,89 +7,89 @@
 
 ## 📊 Summary
 - **Articles this week:** 8
-- **Report generated:** 2026-05-21 11:53
+- **Report generated:** 2026-05-22 11:30
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. China's new homegrown gaming GPU flops in performance and price flagship $485 LX 7G100 can't keep pace with Nvidia's older RTX 4060 ⭐
+### 1. MSI MPG 322UR QD-OLED X24 4K 240 Hz gaming monitor review: Blistering performance with pro-level color ⭐
 
-Lisuan Tech's LX 7G100 gaming GPU faces criticism from Chinese media for poor performance and high price, struggling to keep up with Nvidia's RTX 4060. The graphics card, priced at $485, has gone up for preorder. Reviews from Chinese outlets highlight its shortcomings in comparison to established competitors.
+The MSI MPG 322UR QD-OLED X24 gaming monitor delivers exceptional performance and color accuracy, rivaling pro displays.
 
-💡 *New Chinese gaming GPU lags behind established Nvidia models significantly*
+💡 *Cutting-edge gaming performance with top-tier color accuracy achieved.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/chinas-new-homegrown-gaming-gpu-flops-in-performance-and-price-flagship-usd485-lx-7g100-cant-keep-pace-with-nvidias-older-rtx-4060)
-
----
-
-### 2. AMD Ryzen AI Max 400 Gorgon Halo packs up to 192GB of unified memory refreshed APU uses Zen 5 and RDNA 3.5, and can clock up to 5.2 GHz 
-
-AMD introduces Ryzen AI Max 400 Gorgon Halo series with up to 192GB unified memory. These refreshed APUs utilize Zen 5 and RDNA 3.5 architectures, reaching clock speeds of 5.2 GHz. The Ryzen AI Halo development box, featuring last-gen Strix Halo chips, will be available for pre-order in June for $3,999.
-
-💡 *Groundbreaking unified memory and performance elevate AI-focused computing experience*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-max-400-gorgon-halo-packs-up-to-192gb-of-unified-memory-refreshed-apu-uses-zen-5-and-rdna-3-5-and-can-clock-up-to-5-2-ghz)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/msi-mpg-322ur-qd-oled-x24-32-inch-4k-240-hz-gaming-monitor-review)
 
 ---
 
-### 3. Intel leans on LPDDR5X to dodge global HBM crisis, leaked Crescent Island AI GPU pics reveal massive Xe3P core chip sidesteps HBM shortage with 160GB of cheaper memory 
+### 2. Nvidia RTX 5070 Ti vs AMD Radeon 9070 XT: Massive 52 Game Benchmark ⭐
 
-Intel's Crescent Island GPU uses 20 LPDDR5X modules instead of HBM, avoiding the memory shortage.
+We compare the Radeon RX 9070 XT and GeForce RTX 5070 Ti in 52 games, evaluating performance at 1440p and 4K with both rasterization and ray tracing enabled.
 
-💡 *Intel sidesteps HBM shortage with cost-effective LPDDR5X memory solution*
+💡 *Real-world performance differences between Nvidia and AMD in modern games revealed.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/pcb-shots-appear-of-intels-crescent-island-revealing-a-single-gpu-setup-and-pads-for-20-lpddr5x-modules)
-
----
-
-### 4. Ryzen 7 5800X3D AM4 10th Anniversary Edition surfaces online for $310 return of iconic gaming CPU for budget builders seems imminent 
-
-AMD's Ryzen 7 5800X3D AM4 10th Anniversary Edition CPU listed for $310, a budget-friendly option for gaming builders.
-
-💡 *Iconic gaming CPU returns to budget market, affordable gaming options increase.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/ryzen-7-5800x3d-am4-10th-anniversary-edition-surfaces-online-for-usd310-return-of-iconic-gaming-cpu-for-budget-builders-seems-imminent)
+🔗 [Read Full Article](https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/)
 
 ---
 
-### 5. China banned Nvidia 5090D V2 while CEO Jensen Huang was in town, report claims move comes as Beijing pushes its AI tech companies to use homegrown chips 
+### 3. China built a gaming GPU: Lisuan's LX 7G100 performs like an RTX 3060 but costs almost $500 ⭐
 
-China banned the Nvidia RTX 5090D V2 GPU due to US export restrictions. The GPU was designed for gaming and AI development. The move pushes Beijing to rely on homegrown AI chips.
+China's Lisuan has released a gaming GPU, the LX 7G100, which outperforms an RTX 3060 but costs nearly $500.
 
-💡 *Nvidia's compliance with US export controls backfires in China market.*
+💡 *Chinese GPU maker challenges NVIDIA's dominance with affordable high-performance option.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-banned-nvidia-5090d-v2-while-ceo-jensen-huang-was-in-town-report-claims-move-comes-as-beijing-pushes-its-ai-tech-companies-to-use-homegrown-chips)
-
----
-
-### 6. Nvidia hits record $81.6 billion revenue as AI boom shows no sign of slowing 
-
-Nvidia achieves record $81.6 billion revenue, driven by the AI boom. Data centers are being rapidly built, with CEO Jensen Huang calling it the largest infrastructure expansion in human history. The expansion is accelerating at an extraordinary speed.
-
-💡 *AI infrastructure growth is transforming industries at unprecedented speed.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112480-nvidia-hits-record-816-billion-revenue-ai-boom.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112483-china-lisuan-lx-7g100-gaming-gpu-tested-rtx.html)
 
 ---
 
-### 7. Redditor creates ungodly gaming PC with 13 internal screens and 15,000 looping GIFs 
+### 4. Nvidia's memory costs soar 485%, latest AI systems now cost $7.8 million to build memory now comprises 25% of the total cost, Rubin GPUs a mere $50,000 apiece 
 
-Redditor Several-Bar-6512 built a gaming PC with 13 internal screens and 15,000 looping GIFs.
+Nvidia's memory costs surge 485%, impacting AI system costs significantly. Memory now accounts for 25% of the total cost in Vera Rubin platforms. This shift affects the overall pricing of the systems.
 
-💡 *Unconventional design challenges traditional gaming PC expectations and boundaries.*
+💡 *Rising memory costs drastically inflate AI system development expenses.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112470-redditor-creates-ungodly-gaming-pc-13-internal-screens.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece)
 
 ---
 
-### 8. Herman Miller's new Coyl gaming desk starts at $1,095 
+### 5. Taiwan raids 12 locations in its first formal crackdown on Nvidia AI chip smuggling hunts three fugitives for document forgery, fraudulent declarations in Super Micro smuggling case 
 
-Herman Miller's Coyl gaming desk is customizable with various colors and leg options, offering a tailored experience. The desk comes with a red power cable and cable tray for cable management. Starting price is $1,095.
+Taiwan raids 12 locations in its first formal crackdown on Nvidia AI chip smuggling, targeting three fugitives for document forgery and fraudulent declarations in relation to the Super Micro smuggling case. This move makes it even more difficult to smuggle Hopper or Blackwell chips into mainland data centers. The crackdown aims to tighten regulations on high-tech exports.
 
-💡 *Gaming desks are becoming a key focus for high-end interior design.*
+💡 *Taiwan's crackdown tightens Nvidia chip smuggling regulations significantly globally.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112475-herman-miller-new-coyl-gaming-desk-starts-1095.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case)
+
+---
+
+### 6. Lenovo G02 retro handheld allegedly comes preloaded with thousands of copyrighted games, including Nintendo ROMs company confirms that it s an officially white-labeled device meant for the Chinese market 
+
+Lenovo confirmed partnering with a third-party to sell the G02 retro handheld in China. The device allegedly comes preloaded with thousands of copyrighted games, including Nintendo ROMs. The legitimacy of these titles' licenses is in question.
+
+💡 *Licensing disputes could impact the global games industry significantly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/lenovo-g02-retro-handheld-allegedly-comes-preloaded-with-thousands-of-copyrighted-games-including-nintendo-roms-company-confirms-that-its-an-officially-white-labeled-device-meant-for-the-chinese-market)
+
+---
+
+### 7. Samsung's new 32-inch 6K gaming monitor is the first of its kind if you ignore the one Samsung made last year 
+
+Samsung's Odyssey G80HS features a 32-inch 6K IPS panel with 165Hz refresh rate.
+
+💡 *First 32-inch 6K gaming monitor with high refresh rate available*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112486-samsung-announces-32-inch-odyssey-g80hs-industry-first.html)
+
+---
+
+### 8. Lenovo-branded retro handheld comes pre-loaded with tons of Nintendo ROMs 
+
+Lenovo partnered with a Chinese company to release a retro handheld gaming device pre-loaded with Nintendo ROMs, despite not being directly involved in its manufacturing or sales.
+
+💡 *Lenovo's brand licensing strategy expands gaming options in China's market.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112488-lenovo-branded-retro-handheld-comes-pre-loaded-tons.html)
 
 ---
 
