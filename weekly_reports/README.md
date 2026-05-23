@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of May 22, 2026**
+**Week of May 23, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,63 +7,63 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. ESP32-S31 development boards unveiled for IoT, Smart Audio, and HMI applications ⭐
-
-**💻 Hardware**
-
-ESP32-S31 development boards unveiled for IoT, Smart Audio, and HMI applications, offering advanced features like Gigabit Ethernet, 2.4 GHz WiFi 6, and RISC-V cores.
-
-💡 **Key Point:** Advances in IoT, Smart Audio, and HMI with high-performance RISC-V cores.
-
-🔗 [Read More](https://www.cnx-software.com/2026/05/22/esp32-s31-development-boards-iot-smart-audio-and-hmi-applications/)
-
----
-
-### 2. ESP32-S31 development boards unveiled for IoT, Smart Audio, and HMI applications ⭐
+### 1. SpacemiT K3 Pico-ITX Chassis Kit Review Part 1: Unboxing, teardown, and first boot ⭐
 
 **📰 Tech News**
 
-ESP32-S31 development boards unveiled for IoT, Smart Audio, and HMI applications, offering advanced features like Gigabit Ethernet, 2.4 GHz WiFi 6, and RISC-V cores.
+The reviewer unboxed and reviewed the SpacemiT K3 Pico-ITX Chassis Kit, which includes a RISC-V Edge AI processor and a UGREEN USB-C dock.
 
-💡 **Key Point:** Advances in IoT, Smart Audio, and HMI with high-performance RISC-V cores.
+💡 **Key Point:** RISC-V Edge AI processor in a compact Pico-ITX form factor reviewed.
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/22/esp32-s31-development-boards-iot-smart-audio-and-hmi-applications/)
-
----
-
-### 3. AMD begins production ramp of 256-core EPYC Venice first 2nm HPC chip claims 70% performance leap ⭐
-
-**💻 Hardware**
-
-AMD has started mass production of its 256-core EPYC Venice processor, utilizing TSMC's 2nm N2 process. This marks a significant leap in performance, with the Venice chip claiming a 70% performance increase. The 6th Gen EPYC processor is designed for high-performance computing applications.
-
-💡 **Key Point:** Breakthrough in high-performance computing with unprecedented performance gains.
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/amd-begins-production-ramp-of-256-core-epyc-venice-on-tsmcs-2nm-node)
+🔗 [Read More](https://www.cnx-software.com/2026/05/23/spacemit-k3-pico-itx-chassis-kit-review-part-1-unboxing-teardown-and-first-boot/)
 
 ---
 
-### 4. MSI MPG 322UR QD-OLED X24 4K 240 Hz gaming monitor review: Blistering performance with pro-level color ⭐
+### 2. SpacemiT K3 Pico-ITX Chassis Kit Review Part 1: Unboxing, teardown, and first boot ⭐
 
 **💻 Hardware**
 
-The MSI MPG 322UR QD-OLED X24 gaming monitor delivers exceptional performance and color accuracy, rivaling pro displays.
+The reviewer unboxed and reviewed the SpacemiT K3 Pico-ITX Chassis Kit, which includes a RISC-V Edge AI processor and a UGREEN USB-C dock.
 
-💡 **Key Point:** Cutting-edge gaming performance with top-tier color accuracy achieved.
+💡 **Key Point:** RISC-V Edge AI processor in a compact Pico-ITX form factor reviewed.
 
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/msi-mpg-322ur-qd-oled-x24-32-inch-4k-240-hz-gaming-monitor-review)
+🔗 [Read More](https://www.cnx-software.com/2026/05/23/spacemit-k3-pico-itx-chassis-kit-review-part-1-unboxing-teardown-and-first-boot/)
 
 ---
 
-### 5. M5Stack StopWatch ESP32-S3 devkit offers 1.75-inch touch AMOLED, microphone, speaker, and GPIO expansion ⭐
+### 3. AMD's 256 core Epyc Venice enters production on TSMC's 2nm node ⭐
 
-**💻 Hardware**
+**🎮 GPUs**
 
-M5Stack Core StopWatch is a portable IoT development board with a 1.75-inch AMOLED display, speaker, microphone, and expansion capabilities.
+AMD's 6th-gen Epyc Venice chip boasts 70% performance and efficiency gains
 
-💡 **Key Point:** Enables compact, voice-enabled IoT devices with AI acceleration capabilities.
+💡 **Key Point:** Transforming data centers with significantly improved efficiency and performance
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/22/m5stack-stopwatch-esp32-s3-devkit-offers-1-75-inch-touch-amoled-microphone-speaker-and-gpio-expansion/)
+🔗 [Read More](https://www.techspot.com/news/112492-amd-256-core-epyc-venice-enters-production-tsmc.html)
+
+---
+
+### 4. AI is starting to out-design chip engineers in narrow areas as LLMs accelerate software chip design tool development "There is still a lot of human guidance" says Berkley researcher ⭐
+
+**🤖 AI & ML**
+
+AI is outperforming chip engineers in narrow areas through software tool development, with human guidance still required.
+
+💡 **Key Point:** Human-AI collaboration enhances chip design efficiency and innovation.
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-starting-to-out-design-chip-engineers-in-narrow-areas-as-llms-accelerate-software-chip-design-tool-development-there-is-still-a-lot-of-human-guidance-says-berkley-researcher)
+
+---
+
+### 5. AI is starting to out-design chip engineers in narrow areas as LLMs accelerate software chip design tool development "There is still a lot of human guidance" says Berkley researcher ⭐
+
+**⚡ Semiconductors**
+
+AI is outperforming chip engineers in narrow areas through software tool development, with human guidance still required.
+
+💡 **Key Point:** Human-AI collaboration enhances chip design efficiency and innovation.
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-starting-to-out-design-chip-engineers-in-narrow-areas-as-llms-accelerate-software-chip-design-tool-development-there-is-still-a-lot-of-human-guidance-says-berkley-researcher)
 
 ---
 
@@ -74,10 +74,10 @@ We covered **35 articles** across **5 focused categories**.
 | Category | Articles | Description |
 |----------|----------|-------------|
 | 🤖 [AI & ML](ai_and_ml.md) | 11 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 8 | Graphics cards and compute accelerators |
+| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
 | 💻 [Hardware](hardware.md) | 8 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 1 | Industry news and product launches |
+| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
 
 ---
 
@@ -87,21 +87,21 @@ We covered **35 articles** across **5 focused categories**.
 *Artificial Intelligence and Machine Learning* — 11 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 8 articles
+*Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
 *Computing hardware and development boards* — 8 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 7 articles
+*Chip manufacturing and design* — 5 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 1 articles
+*Industry news and product launches* — 7 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-05-22 at 11:30 by an autonomous AI curation system.
+Generated 2026-05-23 at 10:15 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

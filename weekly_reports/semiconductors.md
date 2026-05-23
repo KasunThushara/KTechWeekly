@@ -1,85 +1,65 @@
 # ⚡ Semiconductors
-**Week of May 22, 2026**
+**Week of May 23, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-05-22 11:30
+- **Articles this week:** 5
+- **Report generated:** 2026-05-23 10:15
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD begins production ramp of 256-core EPYC Venice first 2nm HPC chip claims 70% performance leap ⭐
+### 1. AI is starting to out-design chip engineers in narrow areas as LLMs accelerate software chip design tool development "There is still a lot of human guidance" says Berkley researcher ⭐
 
-AMD has started mass production of its 256-core EPYC Venice processor, utilizing TSMC's 2nm N2 process. This marks a significant leap in performance, with the Venice chip claiming a 70% performance increase. The 6th Gen EPYC processor is designed for high-performance computing applications.
+AI is outperforming chip engineers in narrow areas through software tool development, with human guidance still required.
 
-💡 *Breakthrough in high-performance computing with unprecedented performance gains.*
+💡 *Human-AI collaboration enhances chip design efficiency and innovation.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/amd-begins-production-ramp-of-256-core-epyc-venice-on-tsmcs-2nm-node)
-
----
-
-### 2. M5Stack StopWatch ESP32-S3 devkit offers 1.75-inch touch AMOLED, microphone, speaker, and GPIO expansion ⭐
-
-M5Stack Core StopWatch is a portable IoT development board with a 1.75-inch AMOLED display, speaker, microphone, and expansion capabilities.
-
-💡 *Enables compact, voice-enabled IoT devices with AI acceleration capabilities.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/22/m5stack-stopwatch-esp32-s3-devkit-offers-1-75-inch-touch-amoled-microphone-speaker-and-gpio-expansion/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-starting-to-out-design-chip-engineers-in-narrow-areas-as-llms-accelerate-software-chip-design-tool-development-there-is-still-a-lot-of-human-guidance-says-berkley-researcher)
 
 ---
 
-### 3. reComputer RK3576/RK3588 Edge AI computers are supported by reComputer AI Lab one-click deployment platform ⭐
+### 2. AMD's 256 core Epyc Venice enters production on TSMC's 2nm node ⭐
 
-Seeed Studio's reComputer RK3576/RK3588 Edge AI computers offer one-click AI deployment through the reComputer AI Lab platform, featuring Rockchip RK3576 and RK3588 processors with advanced AI, video, and networking capabilities.
+AMD's 6th-gen Epyc Venice chip boasts 70% performance and efficiency gains
 
-💡 *Simplified AI deployment accelerates edge AI innovation development.*
+💡 *Transforming data centers with significantly improved efficiency and performance*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/21/recomputer-rk3576-rk3588-edge-ai-computers-are-supported-by-recomputer-ai-lab-one-click-deployment-platform/)
-
----
-
-### 4. Huion Note E A 8.4-inch Android 15 electronic notebook with battery-free, pressure sensitive stylus 
-
-The Huion Note E is an 8.4-inch Android 15 electronic notebook with a battery-free, pressure-sensitive stylus. It features a MediaTek Helio G99 SoC, 6GB of memory, and 128GB of storage. The device provides an e-Paper-like experience with a 60 Hz refresh rate.
-
-💡 *Combines traditional pen-on-paper experience with modern Android functionality seamlessly.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/22/huion-note-e-a-8-4-inch-android-15-electronic-notebook-with-battery-free-pressure-sensitive-stylus/)
+🔗 [Read Full Article](https://www.techspot.com/news/112492-amd-256-core-epyc-venice-enters-production-tsmc.html)
 
 ---
 
-### 5. Intel says 14A is on track for 2028 risk production, 10A and 7A now in development 
+### 3. The US government is spending $2 billion on quantum computing, while taking stock in the companies it funds 
 
-Intel's 14A process node is on track for 2028 risk production, with volume manufacturing expected in 2029, aligning with TSMC's A14 roadmap.
+The US government allocates $2 billion to quantum computing, with $1 billion going to IBM, a leader in quantum development. As part of the agreement, IBM will invest in its quantum systems. This funding aims to advance the field of quantum computing.
 
-💡 *Significant progress in Intel's chip manufacturing technology development plans*
+💡 *Government investment in quantum computing may fuel innovation and job creation.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112482-intel-14a-track-2028-risk-production-10a-7a.html)
-
----
-
-### 6. EU forced to exempt banned Chinese chipmaker after auto industry warns of supply crisis European car factories warn of imminent supply chain collapse 
-
-The European Commission will propose a temporary exemption for a Chinese chipmaker from EU sanctions, due to warnings from the auto industry about an impending supply chain crisis.
-
-💡 *Automakers fear supply collapse without Chinese semiconductor access.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/eu-moves-to-exempt-sanctioned-chinese-chipmaker-after-auto-industry-warns-of-weeks-long-supply-crisis)
+🔗 [Read Full Article](https://www.techspot.com/news/112499-us-government-bets-billions-quantum-computing-direct-stakes.html)
 
 ---
 
-### 7. Lenovo-branded retro handheld comes pre-loaded with tons of Nintendo ROMs 
+### 4. Best of Sensors: Why PolyEdge could be the future of Edge AI 
 
-Lenovo partnered with a Chinese company to release a retro handheld gaming device pre-loaded with Nintendo ROMs, despite not being directly involved in its manufacturing or sales.
+Tiami Networks' PolyEdge sensor transforms ambient signals into real-time awareness, prioritizing user privacy.
 
-💡 *Lenovo's brand licensing strategy expands gaming options in China's market.*
+💡 *Privacy-centric edge AI could revolutionize IoT sensing and data collection.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112488-lenovo-branded-retro-handheld-comes-pre-loaded-tons.html)
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/best-sensors-why-polyedge-could-be-future-edge-ai)
+
+---
+
+### 5. Memory prices tipped to fall as China starts flooding the market with DRAM and NAND chips 
+
+Corsair has integrated Chinese-made memory chips into its next-generation modules to reduce costs. Elevated market prices have reportedly driven the company to explore cost-effective alternatives. This move could impact the global memory market.
+
+💡 *Cost-cutting measures in memory production may lead to market disruption.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112502-memory-prices-tipped-fall-china-starts-flooding-market.html)
 
 ---
 

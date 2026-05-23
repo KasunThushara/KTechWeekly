@@ -1,267 +1,267 @@
 [
   {
-    "title": "Europol's Operation Saffron takes down First VPN service over ransomware attacks 33 'bulletproof' servers spread across 27 countries seized",
-    "summary": "Europol's Operation Saffron took down First VPN service for facilitating ransomware attacks. Thirty-three 'bulletproof' servers were seized across 27 countries. The operation targeted the company's involvement in cybercrime.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/europols-operation-saffron-takes-down-first-vpn-service-over-ransomware-attacks-33-servers-and-multiple-domains-seized",
+    "title": "Steam Controller puck charger nearly catches fire after contact with Pixel Watch 3 sparks fly after the metal wristband magnetizes to the puck's pogo pins",
+    "summary": "A Steam Controller charger nearly caught fire when the Pixel Watch 3's metal wristband magnetized to the pogo pins, causing electrical arcing. The incident highlights a potential safety risk with magnetic attachments and exposed electrical contacts. Users should exercise caution when handling devices with strong magnetic fields and exposed electronics.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/steam-controller-puck-charger-nearly-catches-fire-after-contact-with-pixel-watch-3-sparks-fly-after-metal-wristband-magnetizes-to-pucks-pogo-pins",
     "categories": [
-      "Hardware"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-22T11:29:40.487859",
-    "insight": "Ransomware attacks compromised VPN's promise of online anonymity and security."
+    "processed_date": "2026-05-23T10:14:44.005883",
+    "insight": "Magnetic attachments can create electrical hazards with exposed contacts"
   },
   {
-    "title": "Open-source non-profit claims Bambu Lab violated license SFC steps in after multi-billion dollar 3D printer giant threatened independent developer, issued cease-and-desist demand on OrcaSlicer fork that restored cloud printing features",
-    "summary": "Bambu Lab is accused of violating the AGPLv3 license by including proprietary code alongside open-source software. This alleged violation was discovered after the company threatened an independent developer, issuing a cease-and-desist demand for a fork of OrcaSlicer that restored cloud printing features. The Software Freedom Conservancy (SFC) says this practice has been ongoing for years.",
-    "link": "https://www.tomshardware.com/3d-printing/open-source-non-profit-claims-bambu-lab-violated-license-move-follows-cease-and-desist-demand-on-orcaslicer-fork-that-restored-cloud-printing-features-without-using-bambu-connect",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-22T11:29:40.488013",
-    "insight": "License compliance crucial for open-source project integrity and independence."
-  },
-  {
-    "title": "Nvidia's memory costs soar 485%, latest AI systems now cost $7.8 million to build memory now comprises 25% of the total cost, Rubin GPUs a mere $50,000 apiece",
-    "summary": "Nvidia's memory costs surge 485%, impacting AI system costs significantly. Memory now accounts for 25% of the total cost in Vera Rubin platforms. This shift affects the overall pricing of the systems.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+    "title": "Retro enthusiast injects Snake game into vintage S3 graphics card VBIOS enjoy some serpentum fun while your old PC boots",
+    "summary": "A retro PC enthusiast modified a vintage graphics card's VBIOS to play Snake during bootup, bringing nostalgic gaming fun to old PCs.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/retro-enthusiast-injects-snake-game-into-vintage-s3-graphics-card-vbios-enjoy-some-serpentum-fun-while-your-old-pc-boots",
     "categories": [
       "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-22T11:29:40.488130",
-    "insight": "Rising memory costs drastically inflate AI system development expenses."
-  },
-  {
-    "title": "EU forced to exempt banned Chinese chipmaker after auto industry warns of supply crisis European car factories warn of imminent supply chain collapse",
-    "summary": "The European Commission will propose a temporary exemption for a Chinese chipmaker from EU sanctions, due to warnings from the auto industry about an impending supply chain crisis.",
-    "link": "https://www.tomshardware.com/tech-industry/eu-moves-to-exempt-sanctioned-chinese-chipmaker-after-auto-industry-warns-of-weeks-long-supply-crisis",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-22T11:29:40.488274",
-    "insight": "Automakers fear supply collapse without Chinese semiconductor access."
-  },
-  {
-    "title": "Taiwan raids 12 locations in its first formal crackdown on Nvidia AI chip smuggling hunts three fugitives for document forgery, fraudulent declarations in Super Micro smuggling case",
-    "summary": "Taiwan raids 12 locations in its first formal crackdown on Nvidia AI chip smuggling, targeting three fugitives for document forgery and fraudulent declarations in relation to the Super Micro smuggling case. This move makes it even more difficult to smuggle Hopper or Blackwell chips into mainland data centers. The crackdown aims to tighten regulations on high-tech exports.",
-    "link": "https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-22T11:29:40.488417",
-    "insight": "Taiwan's crackdown tightens Nvidia chip smuggling regulations significantly globally."
-  },
-  {
-    "title": "AMD begins production ramp of 256-core EPYC Venice first 2nm HPC chip claims 70% performance leap",
-    "summary": "AMD has started mass production of its 256-core EPYC Venice processor, utilizing TSMC's 2nm N2 process. This marks a significant leap in performance, with the Venice chip claiming a 70% performance increase. The 6th Gen EPYC processor is designed for high-performance computing applications.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/amd-begins-production-ramp-of-256-core-epyc-venice-on-tsmcs-2nm-node",
-    "categories": [
-      "Semiconductors",
       "Hardware"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-05-22T11:29:40.488542",
-    "insight": "Breakthrough in high-performance computing with unprecedented performance gains."
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.006002",
+    "insight": "Reviving nostalgia through creative repurposing of vintage technology."
   },
   {
-    "title": "MSI MPG 322UR QD-OLED X24 4K 240 Hz gaming monitor review: Blistering performance with pro-level color",
-    "summary": "The MSI MPG 322UR QD-OLED X24 gaming monitor delivers exceptional performance and color accuracy, rivaling pro displays.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/msi-mpg-322ur-qd-oled-x24-32-inch-4k-240-hz-gaming-monitor-review",
+    "title": "Class-action price-fixing lawsuit targets hard drive component makers as costs skyrocket 13-year scheme allegedly drove up prices for major HDD brands",
+    "summary": "A class-action lawsuit targets HDD suspension assembly makers for alleged price-fixing. The 13-year scheme allegedly drove up prices for major hard drive brands. The lawsuit seeks damages for consumers affected by the price hike.",
+    "link": "https://www.tomshardware.com/pc-components/hdds/class-action-price-fixing-lawsuit-targets-hard-drive-component-makers-as-costs-skyrocket-13-year-scheme-allegedly-drove-up-prices-for-major-hdd-brands",
     "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-05-22T11:29:40.488657",
-    "insight": "Cutting-edge gaming performance with top-tier color accuracy achieved."
-  },
-  {
-    "title": "Lenovo G02 retro handheld allegedly comes preloaded with thousands of copyrighted games, including Nintendo ROMs company confirms that it s an officially white-labeled device meant for the Chinese market",
-    "summary": "Lenovo confirmed partnering with a third-party to sell the G02 retro handheld in China. The device allegedly comes preloaded with thousands of copyrighted games, including Nintendo ROMs. The legitimacy of these titles' licenses is in question.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/lenovo-g02-retro-handheld-allegedly-comes-preloaded-with-thousands-of-copyrighted-games-including-nintendo-roms-company-confirms-that-its-an-officially-white-labeled-device-meant-for-the-chinese-market",
-    "categories": [
-      "AI & ML",
-      "GPUs"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-22T11:29:40.488783",
-    "insight": "Licensing disputes could impact the global games industry significantly."
+    "processed_date": "2026-05-23T10:14:44.006118",
+    "insight": "Price-fixing scandal raises costs for consumers and companies"
   },
   {
-    "title": "ESP32-S31 development boards unveiled for IoT, Smart Audio, and HMI applications",
-    "summary": "ESP32-S31 development boards unveiled for IoT, Smart Audio, and HMI applications, offering advanced features like Gigabit Ethernet, 2.4 GHz WiFi 6, and RISC-V cores.",
-    "link": "https://www.cnx-software.com/2026/05/22/esp32-s31-development-boards-iot-smart-audio-and-hmi-applications/",
+    "title": "Chinese memory maker CXMT enters mainstream consumer memory with Corsair Vengeance DDR5 kit Chinese-made DRAM emerges as an antidote for crushing shortages",
+    "summary": "Corsair's use of Chinese-made CXMT DDR5 modules may alleviate RAM shortages. This marks a significant shift towards Chinese DRAM in the mainstream consumer market. The move could also make high-performance memory more affordable.",
+    "link": "https://www.tomshardware.com/pc-components/ddr5/chinese-memory-maker-cxmt-enters-the-mainstream-consumer-memory-with-corsair-vengeance-ddr5-kit-chinese-made-dram-emerges-as-an-antidote-for-crushing-shortages",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.006240",
+    "insight": "Chinese DRAM offers potential antidote to crushing RAM shortages"
+  },
+  {
+    "title": "Meta data center allegedly muddies Georgia town's drinking water, investigation underway EPA promises immediate investigation after congresswoman brings dirty jars of water to hearing",
+    "summary": "Meta's data center construction allegedly contaminates Georgia town's drinking water. Residents complain of dirty faucets. An investigation is underway.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/meta-data-center-allegedly-muddies-georgia-towns-drinking-water-investigation-underway-epa-promises-immediate-investigation-after-congresswoman-brings-dirty-jars-of-water-to-hearing",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.006363",
+    "insight": "Clean water access is a fundamental human right, compromised by corporate activities."
+  },
+  {
+    "title": "After a year, Firefox finally stops crashing on Intel's Raptor Lake CPUs Mozilla releases new version patch critical flaw on Intel 13th-gen and 14th-gen CPUs",
+    "summary": "Mozilla resolved a year-long issue of widespread Firefox crashes on Intel's Raptor Lake CPUs with a new patch. The patch addresses a critical flaw affecting 13th-gen and 14th-gen CPUs. This update brings stability to affected systems.",
+    "link": "https://www.tomshardware.com/software/mozilla-firefox/after-a-year-firefox-finally-stops-crashing-on-intels-raptor-lake-cpus-mozilla-releases-new-version-patch-critical-flaw-on-intel-13th-gen-and-14th-gen-cpus",
     "categories": [
       "Hardware",
       "Tech News"
     ],
-    "quality_score": 25,
-    "processed_date": "2026-05-22T11:29:40.489361",
-    "insight": "Advances in IoT, Smart Audio, and HMI with high-performance RISC-V cores."
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.006482",
+    "insight": "Stable browser performance is crucial for user productivity and trust."
   },
   {
-    "title": "Huion Note E A 8.4-inch Android 15 electronic notebook with battery-free, pressure sensitive stylus",
-    "summary": "The Huion Note E is an 8.4-inch Android 15 electronic notebook with a battery-free, pressure-sensitive stylus. It features a MediaTek Helio G99 SoC, 6GB of memory, and 128GB of storage. The device provides an e-Paper-like experience with a 60 Hz refresh rate.",
-    "link": "https://www.cnx-software.com/2026/05/22/huion-note-e-a-8-4-inch-android-15-electronic-notebook-with-battery-free-pressure-sensitive-stylus/",
+    "title": "Analyst says Nvidia poised to capture two-thirds of the x86 server CPU market from Intel and AMD with expected $20 billion in revenue 'Nvidia is already on track'to deliver 4 million Vera CPUs in FY2027",
+    "summary": "Nvidia is poised to capture a significant share of the x86 server CPU market, surpassing Intel and AMD, with expected revenue of $20 billion. The company is on track to deliver 4 million Vera CPUs in FY2027. This marks a shift in the market, with Nvidia becoming a leading supplier of processors.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/analyst-says-nvidia-poised-to-capture-two-thirds-of-the-x86-server-cpu-market-from-intel-and-amd-with-expected-usd20-billion-in-revenue-nvidia-is-already-on-track-to-deliver-4-million-vera-cpus-in-fy2027",
     "categories": [
       "Hardware",
-      "Semiconductors"
+      "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-05-22T11:29:40.489541",
-    "insight": "Combines traditional pen-on-paper experience with modern Android functionality seamlessly."
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.006597",
+    "insight": "Nvidia's AI accelerator dominance fuels processor market share gain."
   },
   {
-    "title": "M5Stack StopWatch ESP32-S3 devkit offers 1.75-inch touch AMOLED, microphone, speaker, and GPIO expansion",
-    "summary": "M5Stack Core StopWatch is a portable IoT development board with a 1.75-inch AMOLED display, speaker, microphone, and expansion capabilities.",
-    "link": "https://www.cnx-software.com/2026/05/22/m5stack-stopwatch-esp32-s3-devkit-offers-1-75-inch-touch-amoled-microphone-speaker-and-gpio-expansion/",
+    "title": "AI is starting to out-design chip engineers in narrow areas as LLMs accelerate software chip design tool development \"There is still a lot of human guidance\" says Berkley researcher",
+    "summary": "AI is outperforming chip engineers in narrow areas through software tool development, with human guidance still required.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-starting-to-out-design-chip-engineers-in-narrow-areas-as-llms-accelerate-software-chip-design-tool-development-there-is-still-a-lot-of-human-guidance-says-berkley-researcher",
     "categories": [
-      "Hardware",
+      "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 15,
-    "processed_date": "2026-05-22T11:29:40.489713",
-    "insight": "Enables compact, voice-enabled IoT devices with AI acceleration capabilities."
+    "processed_date": "2026-05-23T10:14:44.006711",
+    "insight": "Human-AI collaboration enhances chip design efficiency and innovation."
   },
   {
-    "title": "reComputer RK3576/RK3588 Edge AI computers are supported by reComputer AI Lab one-click deployment platform",
-    "summary": "Seeed Studio's reComputer RK3576/RK3588 Edge AI computers offer one-click AI deployment through the reComputer AI Lab platform, featuring Rockchip RK3576 and RK3588 processors with advanced AI, video, and networking capabilities.",
-    "link": "https://www.cnx-software.com/2026/05/21/recomputer-rk3576-rk3588-edge-ai-computers-are-supported-by-recomputer-ai-lab-one-click-deployment-platform/",
+    "title": "Acer Nitro 65 review: Solid gaming performance, but skimping on some features",
+    "summary": "The Acer Nitro 65 is a solid gaming PC with impressive performance, but it falls short in offering a built-in AIO cooler, which would elevate it to an exceptional gaming rig.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/acer-nitro-65-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-23T10:14:44.006825",
+    "insight": "Gaming performance is compromised without a built-in AIO cooler."
+  },
+  {
+    "title": "SpacemiT K3 Pico-ITX Chassis Kit Review Part 1: Unboxing, teardown, and first boot",
+    "summary": "The reviewer unboxed and reviewed the SpacemiT K3 Pico-ITX Chassis Kit, which includes a RISC-V Edge AI processor and a UGREEN USB-C dock.",
+    "link": "https://www.cnx-software.com/2026/05/23/spacemit-k3-pico-itx-chassis-kit-review-part-1-unboxing-teardown-and-first-boot/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-05-23T10:14:44.007356",
+    "insight": "RISC-V Edge AI processor in a compact Pico-ITX form factor reviewed."
+  },
+  {
+    "title": "Best of Sensors: Why PolyEdge could be the future of Edge AI",
+    "summary": "Tiami Networks' PolyEdge sensor transforms ambient signals into real-time awareness, prioritizing user privacy.",
+    "link": "https://www.fiercesensors.com/sensors/best-sensors-why-polyedge-could-be-future-edge-ai",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-05-22T11:29:40.489890",
-    "insight": "Simplified AI deployment accelerates edge AI innovation development."
-  },
-  {
-    "title": "Ouster lidar for Gecko robots improves detect and repair",
-    "summary": "Ouster's Rev8 lidar sensors will enhance Gecko Robotics' Komodo robots, providing more precise insights into infrastructure, aircraft, and ship cracks.",
-    "link": "https://www.fiercesensors.com/sensors/ouster-lidar-gecko-robots-improves-detect-and-repair",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-05-22T11:29:40.490978",
-    "insight": "Advanced sensing improves crack detection and infrastructure integrity assessment."
+    "processed_date": "2026-05-23T10:14:44.008387",
+    "insight": "Privacy-centric edge AI could revolutionize IoT sensing and data collection."
   },
   {
-    "title": "Steve Wozniak mentions AI in graduation speech and gets cheers instead of boos",
-    "summary": "Apple co-founder Steve Wozniak spoke at Grand Valley State University's graduation ceremony, mentioning AI without backlash.",
-    "link": "https://www.techspot.com/news/112497-steve-wozniak-mentions-ai-graduation-speech-gets-cheers.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-22T11:29:40.491421",
-    "insight": "Tech icon's positive reception showcases evolving AI public perception"
-  },
-  {
-    "title": "Nvidia RTX 5070 Ti vs AMD Radeon 9070 XT: Massive 52 Game Benchmark",
-    "summary": "We compare the Radeon RX 9070 XT and GeForce RTX 5070 Ti in 52 games, evaluating performance at 1440p and 4K with both rasterization and ray tracing enabled.",
-    "link": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-05-22T11:29:40.491565",
-    "insight": "Real-world performance differences between Nvidia and AMD in modern games revealed."
-  },
-  {
-    "title": "SpaceX files for record-breaking IPO with rockets, AI, and Mars ambitions at the center",
-    "summary": "SpaceX files for a record-breaking IPO after reporting significant revenue growth. However, the company has also posted substantial losses in 2026, following a profitable year in 2024. The losses continue a trend seen in the first quarter of 2026.",
-    "link": "https://www.techspot.com/news/112489-spacex-files-record-breaking-ipo-rockets-ai-mars.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-22T11:29:40.491676",
-    "insight": "Revenue growth comes with significant operational losses for SpaceX."
-  },
-  {
-    "title": "Lenovo-branded retro handheld comes pre-loaded with tons of Nintendo ROMs",
-    "summary": "Lenovo partnered with a Chinese company to release a retro handheld gaming device pre-loaded with Nintendo ROMs, despite not being directly involved in its manufacturing or sales.",
-    "link": "https://www.techspot.com/news/112488-lenovo-branded-retro-handheld-comes-pre-loaded-tons.html",
-    "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-05-22T11:29:40.491793",
-    "insight": "Lenovo's brand licensing strategy expands gaming options in China's market."
-  },
-  {
-    "title": "Google accidentally published a four-year-old Chromium security bug, then tried to hide it again",
-    "summary": "Google briefly exposed and then hid a four-year-old Chromium security bug. The vulnerability was initially discovered in 2022 and still requires a fix. Researcher Lyra Rebane first identified the issue four years ago.",
-    "link": "https://www.techspot.com/news/112479-google-accidentally-published-four-year-old-chromium-security.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-22T11:29:40.491952",
-    "insight": "Unpatched security bugs can put users at risk for extended periods."
-  },
-  {
-    "title": "Samsung's new 32-inch 6K gaming monitor is the first of its kind if you ignore the one Samsung made last year",
-    "summary": "Samsung's Odyssey G80HS features a 32-inch 6K IPS panel with 165Hz refresh rate.",
-    "link": "https://www.techspot.com/news/112486-samsung-announces-32-inch-odyssey-g80hs-industry-first.html",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-22T11:29:40.492063",
-    "insight": "First 32-inch 6K gaming monitor with high refresh rate available"
-  },
-  {
-    "title": "Intel says 14A is on track for 2028 risk production, 10A and 7A now in development",
-    "summary": "Intel's 14A process node is on track for 2028 risk production, with volume manufacturing expected in 2029, aligning with TSMC's A14 roadmap.",
-    "link": "https://www.techspot.com/news/112482-intel-14a-track-2028-risk-production-10a-7a.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-22T11:29:40.492199",
-    "insight": "Significant progress in Intel's chip manufacturing technology development plans"
-  },
-  {
-    "title": "Intuit cuts 3,000 jobs as it refocuses on AI, but says layoffs are \"not about AI\"",
-    "summary": "Intuit cuts 3,000 jobs to simplify structure and focus on key bets, including AI.",
-    "link": "https://www.techspot.com/news/112484-intuit-cuts-3000-jobs-refocuses-ai-but-layoffs.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-22T11:29:40.492352",
-    "insight": "Rapid AI adoption forces companies to reevaluate and simplify operations."
-  },
-  {
-    "title": "Vivaldi 8 brings a redesigned interface and smarter tab tools",
-    "summary": "Vivaldi 8 revamps its desktop interface for faster navigation and deeper customization.",
-    "link": "https://www.techspot.com/downloads/6692-vivaldi-browser.html",
+    "title": "Your Blu-ray drive can now rip GameCube, Wii, and Xbox games legally",
+    "summary": "GameCube, Wii, and Xbox owners can back up physical games with PC Blu-ray drives. This method is legal and suitable for emulator use. The process involves specific hardware and steps.",
+    "link": "https://www.techspot.com/news/112505-blu-ray-drive-can-now-rip-gamecube-wii.html",
     "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-22T11:29:40.492486",
-    "insight": "Enhanced user experience boosts productivity and browser efficiency significantly."
+    "processed_date": "2026-05-23T10:14:44.008730",
+    "insight": "Legally backing up physical games for emulator use is now possible"
   },
   {
-    "title": "China built a gaming GPU: Lisuan's LX 7G100 performs like an RTX 3060 but costs almost $500",
-    "summary": "China's Lisuan has released a gaming GPU, the LX 7G100, which outperforms an RTX 3060 but costs nearly $500.",
-    "link": "https://www.techspot.com/news/112483-china-lisuan-lx-7g100-gaming-gpu-tested-rtx.html",
+    "title": "Trdo is a modern internet radio player for Windows",
+    "summary": "Trdo is a modern, simple, and polished internet radio player for Windows.",
+    "link": "https://www.techspot.com/downloads/7878-trdo.html",
     "categories": [
-      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.008859",
+    "insight": "Streamline global radio access with a native Windows experience."
+  },
+  {
+    "title": "A VPN built for criminals just got shut down by Europol and Eurojust",
+    "summary": "Europol and Eurojust shut down First VPN, a crime-focused service marketed to cybercriminals.",
+    "link": "https://www.techspot.com/news/112503-europol-eurojust-take-down-major-vpn-service-used.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.008991",
+    "insight": "Law enforcement targets VPNs used for cybercrime, undermining online anonymity."
+  },
+  {
+    "title": "SpaceX scrubs Starship V3 test flight after last-minute launch tower issue",
+    "summary": "SpaceX scrubbed the Starship V3 test flight due to a last-minute launch tower issue. The delay is notable as it occurred just after filing for the largest IPO in history, reportedly valuing the company at $1.75 trillion. This suggests a tight schedule for the company.",
+    "link": "https://www.techspot.com/news/112501-spacex-scrubs-starship-v3-test-flight-after-last.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.009098",
+    "insight": "SpaceX's ambitious schedule may compromise its launch timelines and safety standards."
+  },
+  {
+    "title": "Memory prices tipped to fall as China starts flooding the market with DRAM and NAND chips",
+    "summary": "Corsair has integrated Chinese-made memory chips into its next-generation modules to reduce costs. Elevated market prices have reportedly driven the company to explore cost-effective alternatives. This move could impact the global memory market.",
+    "link": "https://www.techspot.com/news/112502-memory-prices-tipped-fall-china-starts-flooding-market.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.009219",
+    "insight": "Cost-cutting measures in memory production may lead to market disruption."
+  },
+  {
+    "title": "The US government is spending $2 billion on quantum computing, while taking stock in the companies it funds",
+    "summary": "The US government allocates $2 billion to quantum computing, with $1 billion going to IBM, a leader in quantum development. As part of the agreement, IBM will invest in its quantum systems. This funding aims to advance the field of quantum computing.",
+    "link": "https://www.techspot.com/news/112499-us-government-bets-billions-quantum-computing-direct-stakes.html",
+    "categories": [
+      "Semiconductors",
       "Hardware"
     ],
+    "quality_score": 10,
+    "processed_date": "2026-05-23T10:14:44.009333",
+    "insight": "Government investment in quantum computing may fuel innovation and job creation."
+  },
+  {
+    "title": "Flipper One is a next-gen Flipper Zero with a Linux brain and serious hardware upgrades",
+    "summary": "Flipper Devices introduces Flipper One, a next-gen Flipper Zero with Linux brain and hardware upgrades, set to impact security and customized computing projects.",
+    "link": "https://www.techspot.com/news/112490-flipper-one-next-gen-flipper-zero-linux-brain.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.009441",
+    "insight": "Revolutionizing customized computing and security with advanced Linux-powered hardware."
+  },
+  {
+    "title": "Tech layoffs have already passed 100,000 in 2026 as the industry cuts jobs to fund AI",
+    "summary": "Tech companies, including Meta, are conducting massive layoffs to fund AI investments. The layoffs have already exceeded 100,000 in 2026, with 20,000+ in every month except April. Meta's 15,000 layoffs are the largest in recent series.",
+    "link": "https://www.techspot.com/news/112493-tech-layoffs-pass-100000-2026-tracker-points-ai.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.009546",
+    "insight": "Industry-wide job cuts fuel AI development and innovation investments."
+  },
+  {
+    "title": "Meta launches Forum, an app for Facebook Groups offered as a Reddit alternative",
+    "summary": "Meta launches Forum, a dedicated discussion space for Facebook Groups, as a Reddit alternative.",
+    "link": "https://www.techspot.com/news/112500-meta-quietly-launches-forum-reddit-like-app-built.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.009651",
+    "insight": "Meta expands into social media forum competition with Forum app launch."
+  },
+  {
+    "title": "Firefox is getting a major redesign with one-click controls to disable all AI features",
+    "summary": "Mozilla is redesigning Firefox's Settings menu for better AI feature control. A single toggle will allow users to disable all current and future AI features. This aims to simplify user privacy.",
+    "link": "https://www.techspot.com/news/112496-firefox-getting-major-redesign-one-click-controls-disable.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.009760",
+    "insight": "Centralized AI control empowers users to take control of their data."
+  },
+  {
+    "title": "Philips made a monitor with screens on both sides, and it's actually kind of brilliant",
+    "summary": "Philips has released a dual-sided monitor with screens on both sides, available from June for £359.",
+    "link": "https://www.techspot.com/news/112491-philips-made-monitor-screens-both-sides-actually-kind.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-23T10:14:44.009901",
+    "insight": "Increased productivity through simultaneous multitasking and improved workflow organization."
+  },
+  {
+    "title": "AMD's 256 core Epyc Venice enters production on TSMC's 2nm node",
+    "summary": "AMD's 6th-gen Epyc Venice chip boasts 70% performance and efficiency gains",
+    "link": "https://www.techspot.com/news/112492-amd-256-core-epyc-venice-enters-production-tsmc.html",
+    "categories": [
+      "Semiconductors",
+      "GPUs"
+    ],
     "quality_score": 15,
-    "processed_date": "2026-05-22T11:29:40.492629",
-    "insight": "Chinese GPU maker challenges NVIDIA's dominance with affordable high-performance option."
+    "processed_date": "2026-05-23T10:14:44.010013",
+    "insight": "Transforming data centers with significantly improved efficiency and performance"
   }
 ]

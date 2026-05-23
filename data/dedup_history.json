@@ -1,190 +1,4 @@
 {
-  "https://www.tomshardware.com/pc-components/external-ssds/seagate-firecuda-x-vault-8tb-review": {
-    "title": "Seagate FireCuda X Vault (8TB) review: A USB-powered, RGB-lit hard drive aimed at gamers",
-    "fingerprint": "1af512e7cb2251549d64747132d2f43d",
-    "timestamp": 1776938940.388543,
-    "date": "2026-04-23T10:09:00.388546"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours": {
-    "title": "AI agent designs a complete RISC-V CPU from a 219-word spec sheet in just 12 hours comparably simple design required 'many tens of billions of tokens'",
-    "fingerprint": "e0e1087ae049a83f216dc94ed4a5e681",
-    "timestamp": 1776938940.388681,
-    "date": "2026-04-23T10:09:00.388682"
-  },
-  "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-unveils-process-technology-roadmap-through-2029-a12-a13-n2u-announced-a16-slips-to-2027": {
-    "title": "TSMC unveils process technology roadmap through 2029 A12, A13, N2U announced, A16 slips to 2027",
-    "fingerprint": "047a90ece792a0f4db28281ebe68d3c7",
-    "timestamp": 1776938940.388819,
-    "date": "2026-04-23T10:09:00.388820"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-cloud-customer-wakes-up-to-usd18-000-bill-despite-usd7-budget-thanks-to-forgotten-public-api-key-attacker-put-in-60-000-requests-and-blasted-through-usd1-400-spending-cap": {
-    "title": "Google Cloud customer wakes up to $18,000+ bill despite $7 budget, thanks to forgotten API key in published project attacker put in 60,000+ requests and blasted through $1,400 spending cap",
-    "fingerprint": "ea3eb64c2eda01272c730dd538e7528f",
-    "timestamp": 1776938940.388948,
-    "date": "2026-04-23T10:09:00.388949"
-  },
-  "https://www.tomshardware.com/tech-industry/samsung-engineer-sentenced-to-7-years-in-prison-for-selling-chipmaking-trade-secrets-to-chinese-chipmaker-ex-employee-supplied-10nm-dram-data-to-cxmt-for-usd2-million": {
-    "title": "Samsung engineer sentenced to 7 years in prison for selling chipmaking trade secrets to Chinese chipmaker ex-employee supplied 10nm DRAM data to CXMT for $2 million",
-    "fingerprint": "37b133b97ff5a236cfa7a93e03732d05",
-    "timestamp": 1776938940.389104,
-    "date": "2026-04-23T10:09:00.389105"
-  },
-  "https://www.tomshardware.com/software/linux/linux-may-be-ending-support-for-older-network-drivers-due-to-influx-of-false-ai-generated-bug-reports-maintenance-has-become-too-burdensome-for-old-largely-unused-systems": {
-    "title": "Linux may be ending support for older network drivers due to influx of false AI-generated bug reports maintenance has become too burdensome for old largely-unused systems",
-    "fingerprint": "6fae1fe6695c756aa55a7a71d5688429",
-    "timestamp": 1776938940.389238,
-    "date": "2026-04-23T10:09:00.389239"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/where-to-buy-amds-ryzen-9-9950x3d2-more-l3-cache-and-dual-3d-v-cache-stacked-ccds": {
-    "title": "Where to buy AMD's Ryzen 9 9950X3D2 more L3 cache and dual 3D V-cache-stacked CCDs",
-    "fingerprint": "44ff7a1d51c7cb2d2e97a6a4714cb394",
-    "timestamp": 1776938940.389351,
-    "date": "2026-04-23T10:09:00.389352"
-  },
-  "https://www.tomshardware.com/desktops/gaming-pcs/alienware-area-51-gaming-desktop-now-available-with-amds-flagship-ryzen-9-9950x3d2-dual-edition-base-config-starts-at-usd4-299-99-with-rtx-5070-and-32gb-ddr5": {
-    "title": "Alienware Area-51 gaming desktop now available with AMD s flagship Ryzen 9 9950X3D2 Dual Edition top CPU config starts at $4,449.99 with RTX 5070 and 32GB DDR5",
-    "fingerprint": "65281b4d78d78d7e0d70eca2ba39c9b0",
-    "timestamp": 1776938940.389472,
-    "date": "2026-04-23T10:09:00.389473"
-  },
-  "https://www.tomshardware.com/tech-industry/cyber-security/florida-man-pleads-guilty-after-leaking-victims-insurance-details-to-blackcat-hackers": {
-    "title": "Ransomware negotiator pleads guilty after leaking victims' insurance details to 'BlackCat' hackers perp gave attackers a precise picture of exactly how much each target could afford to pay",
-    "fingerprint": "f8835a98873d12bd4d0118028a1e782e",
-    "timestamp": 1776938940.389602,
-    "date": "2026-04-23T10:09:00.389602"
-  },
-  "https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-k3-ultra-review": {
-    "title": "Keychron K3 Ultra Review: Got Wood?",
-    "fingerprint": "0b5db6f841f656d34a3d56e53171791a",
-    "timestamp": 1776938940.389726,
-    "date": "2026-04-23T10:09:00.389727"
-  },
-  "https://www.tomshardware.com/tech-industry/semiconductors/congress-moves-to-strip-commerce-of-chip-export-discretion-with-the-match-act": {
-    "title": "Congress moves to strip the DoC of chip-export discretion with the MATCH Act DUV lithography machines among those targeted in chipmaking tool crackdown",
-    "fingerprint": "bda55496599e81ba4859ad597b101b90",
-    "timestamp": 1776938940.38986,
-    "date": "2026-04-23T10:09:00.389860"
-  },
-  "https://www.tomshardware.com/pc-components/just-usd479-nets-you-the-amd-ryzen-5-9600x-cpu-b850-max-motherboard-and-16gb-of-ddr5-6000-ram-perfect-start-to-a-low-cost-gaming-pc-build": {
-    "title": "Just $479 nets you the AMD Ryzen 5 9600X CPU, B850 Max motherboard, and 16GB of DDR5-6000 RAM perfect start to a low-cost gaming PC build",
-    "fingerprint": "fbea1268505264bb9500e294a1d6397f",
-    "timestamp": 1776938940.389994,
-    "date": "2026-04-23T10:09:00.389994"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-model-context-protocol-has-critical-security-flaw-exposed": {
-    "title": "Anthropic's Model Context Protocol includes a critical remote code execution vulnerability newly discovered exploit puts 200,000 AI servers at risk",
-    "fingerprint": "b7d45691e681cf6522fc98bf9eff8bfc",
-    "timestamp": 1776938940.390115,
-    "date": "2026-04-23T10:09:00.390116"
-  },
-  "https://www.tomshardware.com/software/linux/valve-vram-hack-may-improve-gaming-on-4gb-gpus-testing-showed-mixed-results-in-select-titles-with-fps-almost-tripling-in-certain-games": {
-    "title": "Valve VRAM hack may improve gaming on 4GB GPUs testing showed mixed results in select titles, with FPS almost tripling in certain games",
-    "fingerprint": "de0cb3f29540a6d334ac9881c870e558",
-    "timestamp": 1776938940.39023,
-    "date": "2026-04-23T10:09:00.390231"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/amd-sdk-update-suggests-fsr-multi-frame-generation-is-in-the-works-support-for-a-configurable-ratio-override-could-indicate-a-future-upgrade": {
-    "title": "AMD SDK suggests 4x and 6x frame generation multipliers are in the works driver-level tweak will let gamers upgrade existing titles to FSR4 ML-based frame generation",
-    "fingerprint": "cabb11bcc91d39d24e8ae4ef521bb639",
-    "timestamp": 1776938940.390342,
-    "date": "2026-04-23T10:09:00.390342"
-  },
-  "https://www.tomshardware.com/tech-industry/cyber-security/iran-claims-us-exploited-networking-equipment-backdoors-during-strikes": {
-    "title": "Iran claims US exploited networking equipment backdoors during strikes says devices from Cisco and others failed despite blackout in attack that 'indicates deep sabotage'",
-    "fingerprint": "85b0544006f26a9b1a823fcdda39deab",
-    "timestamp": 1776938940.390461,
-    "date": "2026-04-23T10:09:00.390461"
-  },
-  "https://www.cnx-software.com/2026/04/23/espressif-systems-esp-claw-framework-builds-local-ai-agents-for-esp32-devices/": {
-    "title": "Espressif Systems ESP-Claw framework builds local AI agents for ESP32 devices",
-    "fingerprint": "e6b0444a57cb59e23ebe21223db962ab",
-    "timestamp": 1776938940.390941,
-    "date": "2026-04-23T10:09:00.390942"
-  },
-  "https://www.cnx-software.com/2026/04/23/beelink-ex-mate-pro-a-multi-function-usb4-v2-80-gbps-dock-with-2-5gbe-m-2-sockets-140w-charger-voice-communication-system/": {
-    "title": "Beelink EX Mate Pro A multi-function USB4 v2 80 Gbps dock with 2.5GbE, M.2 sockets, 140W charger, voice communication system, and more",
-    "fingerprint": "b554c4fcb05ee4957685d2cf9e124eac",
-    "timestamp": 1776938940.391144,
-    "date": "2026-04-23T10:09:00.391145"
-  },
-  "https://www.cnx-software.com/2026/04/22/samuroid-a-raspberry-pi-powered-22-dof-humanoid-robot-with-multimodal-llms-and-ros-support/": {
-    "title": "SamuRoid A Raspberry Pi-powered 22-DOF humanoid robot with Multimodal LLMs and ROS support",
-    "fingerprint": "37c37209c6429124a4991ddc99e58a2d",
-    "timestamp": 1776938940.391329,
-    "date": "2026-04-23T10:09:00.391330"
-  },
-  "https://www.techspot.com/article/3096-handheld-gaming-holy-grail-dll-upscaling/": {
-    "title": "The Handheld Gaming \"Holy Grail\": FSR 4 INT8, XeFG, and XeLL",
-    "fingerprint": "5255d4965c6a516d7c9c049fa9a9622f",
-    "timestamp": 1776938940.392568,
-    "date": "2026-04-23T10:09:00.392570"
-  },
-  "https://www.techspot.com/news/112155-portal-2-community-edition-enters-open-beta-enhanced.html": {
-    "title": "Portal 2: Community Edition enters open beta with enhanced graphics, larger maps, and new modding tools",
-    "fingerprint": "7c25f24326f27333fa3369ebddbb1e4c",
-    "timestamp": 1776938940.392745,
-    "date": "2026-04-23T10:09:00.392746"
-  },
-  "https://www.techspot.com/news/112150-kioxia-eg7-ssds-target-budget-friendly-pc-builds.html": {
-    "title": "Kioxia says its new QLC SSDs can match TLC performance at lower cost",
-    "fingerprint": "14dadcc873ee5b16b49eb291faef595c",
-    "timestamp": 1776938940.392921,
-    "date": "2026-04-23T10:09:00.392922"
-  },
-  "https://www.techspot.com/news/112148-google-assembling-pieces-enterprise-ai-agents-now-adoption.html": {
-    "title": "Google is assembling the pieces for enterprise AI agents, now adoption becomes the challenge",
-    "fingerprint": "bc255fb5806d52d5c60a9d9be869f804",
-    "timestamp": 1776938940.393127,
-    "date": "2026-04-23T10:09:00.393128"
-  },
-  "https://www.techspot.com/news/112146-iran-claims-us-botnets-or-backdoors-disabled-networking.html": {
-    "title": "Iran claims US botnets or backdoors disabled routers from Cisco, Juniper, and Fortinet",
-    "fingerprint": "ad6b6cc28fca0d92ce83db88cdf2906d",
-    "timestamp": 1776938940.393315,
-    "date": "2026-04-23T10:09:00.393316"
-  },
-  "https://www.techspot.com/news/112139-catl-new-ev-battery-can-recharge-10-98.html": {
-    "title": "CATL says its new EV battery can recharge from 10% to 98% in six minutes",
-    "fingerprint": "2e9fd4e85ba404ed4b65acca808a9bca",
-    "timestamp": 1776938940.393502,
-    "date": "2026-04-23T10:09:00.393503"
-  },
-  "https://www.techspot.com/news/112144-cpu-prices-jump-20-since-march-intel-amd.html": {
-    "title": "CPU prices jump 20% since March as Intel and AMD eye further increases",
-    "fingerprint": "eedfceab4b3d6cefd5a6307cd9853ae2",
-    "timestamp": 1776938940.393692,
-    "date": "2026-04-23T10:09:00.393693"
-  },
-  "https://www.techspot.com/news/112147-iphone-18-pro-lead-apple-four-phase-camera.html": {
-    "title": "iPhone 18 Pro to lead Apple's four-phase camera upgrade strategy",
-    "fingerprint": "aceffbc6d89d986fe669876c143d2673",
-    "timestamp": 1776938940.393861,
-    "date": "2026-04-23T10:09:00.393863"
-  },
-  "https://www.techspot.com/news/112145-one-permanent-job-77-million-jpmorgan-data-center.html": {
-    "title": "$77 million tax break, one new permanent job: JPMorgan data center deal sparks backlash",
-    "fingerprint": "b12590922ae70e2e13417d17195a3f25",
-    "timestamp": 1776938940.394049,
-    "date": "2026-04-23T10:09:00.394050"
-  },
-  "https://www.techspot.com/news/112142-gemini-can-now-look-through-google-photos-create.html": {
-    "title": "Gemini can now look through your Google Photos to create AI images, with a few caveats",
-    "fingerprint": "77c019368ddee02d44023a09f7478901",
-    "timestamp": 1776938940.394212,
-    "date": "2026-04-23T10:09:00.394213"
-  },
-  "https://www.techspot.com/news/112141-framework-unveils-new-13-inch-laptop-pro-oculink.html": {
-    "title": "Framework unveils new Laptop 13 Pro, OcuLink kit, and lap keyboard",
-    "fingerprint": "263c6752ad47b8a301984a19f2cf297c",
-    "timestamp": 1776938940.394387,
-    "date": "2026-04-23T10:09:00.394389"
-  },
-  "https://www.techspot.com/news/112143-meta-record-employee-screens-clicks-keystrokes-train-ai.html": {
-    "title": "Meta will record employee screens, clicks, and keystrokes to train AI that may replace them",
-    "fingerprint": "f10039000a0292d03a5583cb104b2afe",
-    "timestamp": 1776938940.394549,
-    "date": "2026-04-23T10:09:00.394550"
-  },
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-subsidiary-working-with-intel-to-develop-radical-new-zam-memory-is-now-receiving-japanese-govt-subsidies-new-memory-designed-as-a-lower-power-hbm-for-ai-workloads": {
     "title": "SoftBank subsidiary working with Intel to develop radical new ZAM memory is now receiving Japanese gov't subsidies new memory designed as a lower-power HBM for AI workloads",
     "fingerprint": "3d356b50b33d1781496505456d4cf254",
@@ -5098,5 +4912,143 @@
     "fingerprint": "406bd439094a9636b8f37730bf128a4c",
     "timestamp": 1779449380.492627,
     "date": "2026-05-22T11:29:40.492628"
+  },
+  "https://www.tomshardware.com/video-games/pc-gaming/steam-controller-puck-charger-nearly-catches-fire-after-contact-with-pixel-watch-3-sparks-fly-after-metal-wristband-magnetizes-to-pucks-pogo-pins": {
+    "title": "Steam Controller puck charger nearly catches fire after contact with Pixel Watch 3 sparks fly after the metal wristband magnetizes to the puck's pogo pins",
+    "fingerprint": "daaf4d03a69bad32f9e36f82f053b5e7",
+    "timestamp": 1779531284.005876,
+    "date": "2026-05-23T10:14:44.005878"
+  },
+  "https://www.tomshardware.com/video-games/pc-gaming/retro-enthusiast-injects-snake-game-into-vintage-s3-graphics-card-vbios-enjoy-some-serpentum-fun-while-your-old-pc-boots": {
+    "title": "Retro enthusiast injects Snake game into vintage S3 graphics card VBIOS enjoy some serpentum fun while your old PC boots",
+    "fingerprint": "f673973a9fec7e9dbc46b5ad542c8b3f",
+    "timestamp": 1779531284.005999,
+    "date": "2026-05-23T10:14:44.006000"
+  },
+  "https://www.tomshardware.com/pc-components/hdds/class-action-price-fixing-lawsuit-targets-hard-drive-component-makers-as-costs-skyrocket-13-year-scheme-allegedly-drove-up-prices-for-major-hdd-brands": {
+    "title": "Class-action price-fixing lawsuit targets hard drive component makers as costs skyrocket 13-year scheme allegedly drove up prices for major HDD brands",
+    "fingerprint": "4790750e05c937b4d80b6af78333ffa7",
+    "timestamp": 1779531284.006115,
+    "date": "2026-05-23T10:14:44.006116"
+  },
+  "https://www.tomshardware.com/pc-components/ddr5/chinese-memory-maker-cxmt-enters-the-mainstream-consumer-memory-with-corsair-vengeance-ddr5-kit-chinese-made-dram-emerges-as-an-antidote-for-crushing-shortages": {
+    "title": "Chinese memory maker CXMT enters mainstream consumer memory with Corsair Vengeance DDR5 kit Chinese-made DRAM emerges as an antidote for crushing shortages",
+    "fingerprint": "113a6899789fc75f8bb38d66b704451f",
+    "timestamp": 1779531284.006237,
+    "date": "2026-05-23T10:14:44.006238"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/meta-data-center-allegedly-muddies-georgia-towns-drinking-water-investigation-underway-epa-promises-immediate-investigation-after-congresswoman-brings-dirty-jars-of-water-to-hearing": {
+    "title": "Meta data center allegedly muddies Georgia town's drinking water, investigation underway EPA promises immediate investigation after congresswoman brings dirty jars of water to hearing",
+    "fingerprint": "df1f106351b8820bb04b64bd1c10c0df",
+    "timestamp": 1779531284.00636,
+    "date": "2026-05-23T10:14:44.006361"
+  },
+  "https://www.tomshardware.com/software/mozilla-firefox/after-a-year-firefox-finally-stops-crashing-on-intels-raptor-lake-cpus-mozilla-releases-new-version-patch-critical-flaw-on-intel-13th-gen-and-14th-gen-cpus": {
+    "title": "After a year, Firefox finally stops crashing on Intel's Raptor Lake CPUs Mozilla releases new version patch critical flaw on Intel 13th-gen and 14th-gen CPUs",
+    "fingerprint": "cd712a5b1e7cd70bf7b2d27d0c6e95b2",
+    "timestamp": 1779531284.00648,
+    "date": "2026-05-23T10:14:44.006481"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/analyst-says-nvidia-poised-to-capture-two-thirds-of-the-x86-server-cpu-market-from-intel-and-amd-with-expected-usd20-billion-in-revenue-nvidia-is-already-on-track-to-deliver-4-million-vera-cpus-in-fy2027": {
+    "title": "Analyst says Nvidia poised to capture two-thirds of the x86 server CPU market from Intel and AMD with expected $20 billion in revenue 'Nvidia is already on track'to deliver 4 million Vera CPUs in FY2027",
+    "fingerprint": "936bb7b40d52b7a049c81779ef160798",
+    "timestamp": 1779531284.006595,
+    "date": "2026-05-23T10:14:44.006595"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-starting-to-out-design-chip-engineers-in-narrow-areas-as-llms-accelerate-software-chip-design-tool-development-there-is-still-a-lot-of-human-guidance-says-berkley-researcher": {
+    "title": "AI is starting to out-design chip engineers in narrow areas as LLMs accelerate software chip design tool development \"There is still a lot of human guidance\" says Berkley researcher",
+    "fingerprint": "eccbd96ccf1de2e1266732ef8d7bedec",
+    "timestamp": 1779531284.006708,
+    "date": "2026-05-23T10:14:44.006709"
+  },
+  "https://www.tomshardware.com/desktops/gaming-pcs/acer-nitro-65-review": {
+    "title": "Acer Nitro 65 review: Solid gaming performance, but skimping on some features",
+    "fingerprint": "f11d74033fedcd6affda3d91bcc279d2",
+    "timestamp": 1779531284.006822,
+    "date": "2026-05-23T10:14:44.006823"
+  },
+  "https://www.cnx-software.com/2026/05/23/spacemit-k3-pico-itx-chassis-kit-review-part-1-unboxing-teardown-and-first-boot/": {
+    "title": "SpacemiT K3 Pico-ITX Chassis Kit Review Part 1: Unboxing, teardown, and first boot",
+    "fingerprint": "894dfb3d0ced0003af9f2c4443b2159d",
+    "timestamp": 1779531284.007353,
+    "date": "2026-05-23T10:14:44.007354"
+  },
+  "https://www.fiercesensors.com/sensors/best-sensors-why-polyedge-could-be-future-edge-ai": {
+    "title": "Best of Sensors: Why PolyEdge could be the future of Edge AI",
+    "fingerprint": "86f286591c79ac694a58e468d72f7a7a",
+    "timestamp": 1779531284.008381,
+    "date": "2026-05-23T10:14:44.008383"
+  },
+  "https://www.techspot.com/news/112505-blu-ray-drive-can-now-rip-gamecube-wii.html": {
+    "title": "Your Blu-ray drive can now rip GameCube, Wii, and Xbox games legally",
+    "fingerprint": "c926b1bdecd428e1ac962117f329a12d",
+    "timestamp": 1779531284.008726,
+    "date": "2026-05-23T10:14:44.008727"
+  },
+  "https://www.techspot.com/downloads/7878-trdo.html": {
+    "title": "Trdo is a modern internet radio player for Windows",
+    "fingerprint": "35d793e3c3f8977a981cb8542a2f91e8",
+    "timestamp": 1779531284.008856,
+    "date": "2026-05-23T10:14:44.008857"
+  },
+  "https://www.techspot.com/news/112503-europol-eurojust-take-down-major-vpn-service-used.html": {
+    "title": "A VPN built for criminals just got shut down by Europol and Eurojust",
+    "fingerprint": "e911d3a0d9b08d70ac297a8943f40acf",
+    "timestamp": 1779531284.008988,
+    "date": "2026-05-23T10:14:44.008989"
+  },
+  "https://www.techspot.com/news/112501-spacex-scrubs-starship-v3-test-flight-after-last.html": {
+    "title": "SpaceX scrubs Starship V3 test flight after last-minute launch tower issue",
+    "fingerprint": "b070f11fc01ab06e955e529688b7a43b",
+    "timestamp": 1779531284.009096,
+    "date": "2026-05-23T10:14:44.009097"
+  },
+  "https://www.techspot.com/news/112502-memory-prices-tipped-fall-china-starts-flooding-market.html": {
+    "title": "Memory prices tipped to fall as China starts flooding the market with DRAM and NAND chips",
+    "fingerprint": "996ab129729a559c7b1b6af7609a863d",
+    "timestamp": 1779531284.009217,
+    "date": "2026-05-23T10:14:44.009217"
+  },
+  "https://www.techspot.com/news/112499-us-government-bets-billions-quantum-computing-direct-stakes.html": {
+    "title": "The US government is spending $2 billion on quantum computing, while taking stock in the companies it funds",
+    "fingerprint": "4fb1b181675181d0db85268e143aa04f",
+    "timestamp": 1779531284.009331,
+    "date": "2026-05-23T10:14:44.009331"
+  },
+  "https://www.techspot.com/news/112490-flipper-one-next-gen-flipper-zero-linux-brain.html": {
+    "title": "Flipper One is a next-gen Flipper Zero with a Linux brain and serious hardware upgrades",
+    "fingerprint": "19a42215e1c5233d633bd1712d513175",
+    "timestamp": 1779531284.009439,
+    "date": "2026-05-23T10:14:44.009439"
+  },
+  "https://www.techspot.com/news/112493-tech-layoffs-pass-100000-2026-tracker-points-ai.html": {
+    "title": "Tech layoffs have already passed 100,000 in 2026 as the industry cuts jobs to fund AI",
+    "fingerprint": "821474dcb6744552dd16d563c6aa7913",
+    "timestamp": 1779531284.009544,
+    "date": "2026-05-23T10:14:44.009544"
+  },
+  "https://www.techspot.com/news/112500-meta-quietly-launches-forum-reddit-like-app-built.html": {
+    "title": "Meta launches Forum, an app for Facebook Groups offered as a Reddit alternative",
+    "fingerprint": "b360dd989d29dd04b5427418931a6580",
+    "timestamp": 1779531284.009649,
+    "date": "2026-05-23T10:14:44.009649"
+  },
+  "https://www.techspot.com/news/112496-firefox-getting-major-redesign-one-click-controls-disable.html": {
+    "title": "Firefox is getting a major redesign with one-click controls to disable all AI features",
+    "fingerprint": "4863725e4a6fec97257d58119aa069ec",
+    "timestamp": 1779531284.009758,
+    "date": "2026-05-23T10:14:44.009759"
+  },
+  "https://www.techspot.com/news/112491-philips-made-monitor-screens-both-sides-actually-kind.html": {
+    "title": "Philips made a monitor with screens on both sides, and it's actually kind of brilliant",
+    "fingerprint": "f50de878d6678b7221e77d9757d84f01",
+    "timestamp": 1779531284.009898,
+    "date": "2026-05-23T10:14:44.009899"
+  },
+  "https://www.techspot.com/news/112492-amd-256-core-epyc-venice-enters-production-tsmc.html": {
+    "title": "AMD's 256 core Epyc Venice enters production on TSMC's 2nm node",
+    "fingerprint": "265e1ee3dec6a723e9c0fa554f106eea",
+    "timestamp": 1779531284.010011,
+    "date": "2026-05-23T10:14:44.010012"
   }
 }

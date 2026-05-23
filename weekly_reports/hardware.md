@@ -1,5 +1,5 @@
 # 💻 Hardware
-**Week of May 22, 2026**
+**Week of May 23, 2026**
 
 *Computing hardware and development boards*
 
@@ -7,89 +7,89 @@
 
 ## 📊 Summary
 - **Articles this week:** 8
-- **Report generated:** 2026-05-22 11:30
+- **Report generated:** 2026-05-23 10:15
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. ESP32-S31 development boards unveiled for IoT, Smart Audio, and HMI applications ⭐
+### 1. SpacemiT K3 Pico-ITX Chassis Kit Review Part 1: Unboxing, teardown, and first boot ⭐
 
-ESP32-S31 development boards unveiled for IoT, Smart Audio, and HMI applications, offering advanced features like Gigabit Ethernet, 2.4 GHz WiFi 6, and RISC-V cores.
+The reviewer unboxed and reviewed the SpacemiT K3 Pico-ITX Chassis Kit, which includes a RISC-V Edge AI processor and a UGREEN USB-C dock.
 
-💡 *Advances in IoT, Smart Audio, and HMI with high-performance RISC-V cores.*
+💡 *RISC-V Edge AI processor in a compact Pico-ITX form factor reviewed.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/22/esp32-s31-development-boards-iot-smart-audio-and-hmi-applications/)
-
----
-
-### 2. AMD begins production ramp of 256-core EPYC Venice first 2nm HPC chip claims 70% performance leap ⭐
-
-AMD has started mass production of its 256-core EPYC Venice processor, utilizing TSMC's 2nm N2 process. This marks a significant leap in performance, with the Venice chip claiming a 70% performance increase. The 6th Gen EPYC processor is designed for high-performance computing applications.
-
-💡 *Breakthrough in high-performance computing with unprecedented performance gains.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/amd-begins-production-ramp-of-256-core-epyc-venice-on-tsmcs-2nm-node)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/23/spacemit-k3-pico-itx-chassis-kit-review-part-1-unboxing-teardown-and-first-boot/)
 
 ---
 
-### 3. MSI MPG 322UR QD-OLED X24 4K 240 Hz gaming monitor review: Blistering performance with pro-level color ⭐
+### 2. Acer Nitro 65 review: Solid gaming performance, but skimping on some features 
 
-The MSI MPG 322UR QD-OLED X24 gaming monitor delivers exceptional performance and color accuracy, rivaling pro displays.
+The Acer Nitro 65 is a solid gaming PC with impressive performance, but it falls short in offering a built-in AIO cooler, which would elevate it to an exceptional gaming rig.
 
-💡 *Cutting-edge gaming performance with top-tier color accuracy achieved.*
+💡 *Gaming performance is compromised without a built-in AIO cooler.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/msi-mpg-322ur-qd-oled-x24-32-inch-4k-240-hz-gaming-monitor-review)
-
----
-
-### 4. M5Stack StopWatch ESP32-S3 devkit offers 1.75-inch touch AMOLED, microphone, speaker, and GPIO expansion ⭐
-
-M5Stack Core StopWatch is a portable IoT development board with a 1.75-inch AMOLED display, speaker, microphone, and expansion capabilities.
-
-💡 *Enables compact, voice-enabled IoT devices with AI acceleration capabilities.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/22/m5stack-stopwatch-esp32-s3-devkit-offers-1-75-inch-touch-amoled-microphone-speaker-and-gpio-expansion/)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/acer-nitro-65-review)
 
 ---
 
-### 5. China built a gaming GPU: Lisuan's LX 7G100 performs like an RTX 3060 but costs almost $500 ⭐
+### 3. The US government is spending $2 billion on quantum computing, while taking stock in the companies it funds 
 
-China's Lisuan has released a gaming GPU, the LX 7G100, which outperforms an RTX 3060 but costs nearly $500.
+The US government allocates $2 billion to quantum computing, with $1 billion going to IBM, a leader in quantum development. As part of the agreement, IBM will invest in its quantum systems. This funding aims to advance the field of quantum computing.
 
-💡 *Chinese GPU maker challenges NVIDIA's dominance with affordable high-performance option.*
+💡 *Government investment in quantum computing may fuel innovation and job creation.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112483-china-lisuan-lx-7g100-gaming-gpu-tested-rtx.html)
-
----
-
-### 6. Huion Note E A 8.4-inch Android 15 electronic notebook with battery-free, pressure sensitive stylus 
-
-The Huion Note E is an 8.4-inch Android 15 electronic notebook with a battery-free, pressure-sensitive stylus. It features a MediaTek Helio G99 SoC, 6GB of memory, and 128GB of storage. The device provides an e-Paper-like experience with a 60 Hz refresh rate.
-
-💡 *Combines traditional pen-on-paper experience with modern Android functionality seamlessly.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/22/huion-note-e-a-8-4-inch-android-15-electronic-notebook-with-battery-free-pressure-sensitive-stylus/)
+🔗 [Read Full Article](https://www.techspot.com/news/112499-us-government-bets-billions-quantum-computing-direct-stakes.html)
 
 ---
 
-### 7. Europol's Operation Saffron takes down First VPN service over ransomware attacks 33 'bulletproof' servers spread across 27 countries seized 
+### 4. Retro enthusiast injects Snake game into vintage S3 graphics card VBIOS enjoy some serpentum fun while your old PC boots 
 
-Europol's Operation Saffron took down First VPN service for facilitating ransomware attacks. Thirty-three 'bulletproof' servers were seized across 27 countries. The operation targeted the company's involvement in cybercrime.
+A retro PC enthusiast modified a vintage graphics card's VBIOS to play Snake during bootup, bringing nostalgic gaming fun to old PCs.
 
-💡 *Ransomware attacks compromised VPN's promise of online anonymity and security.*
+💡 *Reviving nostalgia through creative repurposing of vintage technology.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/europols-operation-saffron-takes-down-first-vpn-service-over-ransomware-attacks-33-servers-and-multiple-domains-seized)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/retro-enthusiast-injects-snake-game-into-vintage-s3-graphics-card-vbios-enjoy-some-serpentum-fun-while-your-old-pc-boots)
 
 ---
 
-### 8. Vivaldi 8 brings a redesigned interface and smarter tab tools 
+### 5. After a year, Firefox finally stops crashing on Intel's Raptor Lake CPUs Mozilla releases new version patch critical flaw on Intel 13th-gen and 14th-gen CPUs 
 
-Vivaldi 8 revamps its desktop interface for faster navigation and deeper customization.
+Mozilla resolved a year-long issue of widespread Firefox crashes on Intel's Raptor Lake CPUs with a new patch. The patch addresses a critical flaw affecting 13th-gen and 14th-gen CPUs. This update brings stability to affected systems.
 
-💡 *Enhanced user experience boosts productivity and browser efficiency significantly.*
+💡 *Stable browser performance is crucial for user productivity and trust.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/6692-vivaldi-browser.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/mozilla-firefox/after-a-year-firefox-finally-stops-crashing-on-intels-raptor-lake-cpus-mozilla-releases-new-version-patch-critical-flaw-on-intel-13th-gen-and-14th-gen-cpus)
+
+---
+
+### 6. Analyst says Nvidia poised to capture two-thirds of the x86 server CPU market from Intel and AMD with expected $20 billion in revenue 'Nvidia is already on track'to deliver 4 million Vera CPUs in FY2027 
+
+Nvidia is poised to capture a significant share of the x86 server CPU market, surpassing Intel and AMD, with expected revenue of $20 billion. The company is on track to deliver 4 million Vera CPUs in FY2027. This marks a shift in the market, with Nvidia becoming a leading supplier of processors.
+
+💡 *Nvidia's AI accelerator dominance fuels processor market share gain.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/analyst-says-nvidia-poised-to-capture-two-thirds-of-the-x86-server-cpu-market-from-intel-and-amd-with-expected-usd20-billion-in-revenue-nvidia-is-already-on-track-to-deliver-4-million-vera-cpus-in-fy2027)
+
+---
+
+### 7. Your Blu-ray drive can now rip GameCube, Wii, and Xbox games legally 
+
+GameCube, Wii, and Xbox owners can back up physical games with PC Blu-ray drives. This method is legal and suitable for emulator use. The process involves specific hardware and steps.
+
+💡 *Legally backing up physical games for emulator use is now possible*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112505-blu-ray-drive-can-now-rip-gamecube-wii.html)
+
+---
+
+### 8. Flipper One is a next-gen Flipper Zero with a Linux brain and serious hardware upgrades 
+
+Flipper Devices introduces Flipper One, a next-gen Flipper Zero with Linux brain and hardware upgrades, set to impact security and customized computing projects.
+
+💡 *Revolutionizing customized computing and security with advanced Linux-powered hardware.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112490-flipper-one-next-gen-flipper-zero-linux-brain.html)
 
 ---
 

@@ -1,95 +1,55 @@
 # 🎮 GPUs
-**Week of May 22, 2026**
+**Week of May 23, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-05-22 11:30
+- **Articles this week:** 4
+- **Report generated:** 2026-05-23 10:15
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. MSI MPG 322UR QD-OLED X24 4K 240 Hz gaming monitor review: Blistering performance with pro-level color ⭐
+### 1. AMD's 256 core Epyc Venice enters production on TSMC's 2nm node ⭐
 
-The MSI MPG 322UR QD-OLED X24 gaming monitor delivers exceptional performance and color accuracy, rivaling pro displays.
+AMD's 6th-gen Epyc Venice chip boasts 70% performance and efficiency gains
 
-💡 *Cutting-edge gaming performance with top-tier color accuracy achieved.*
+💡 *Transforming data centers with significantly improved efficiency and performance*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/msi-mpg-322ur-qd-oled-x24-32-inch-4k-240-hz-gaming-monitor-review)
-
----
-
-### 2. Nvidia RTX 5070 Ti vs AMD Radeon 9070 XT: Massive 52 Game Benchmark ⭐
-
-We compare the Radeon RX 9070 XT and GeForce RTX 5070 Ti in 52 games, evaluating performance at 1440p and 4K with both rasterization and ray tracing enabled.
-
-💡 *Real-world performance differences between Nvidia and AMD in modern games revealed.*
-
-🔗 [Read Full Article](https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/)
+🔗 [Read Full Article](https://www.techspot.com/news/112492-amd-256-core-epyc-venice-enters-production-tsmc.html)
 
 ---
 
-### 3. China built a gaming GPU: Lisuan's LX 7G100 performs like an RTX 3060 but costs almost $500 ⭐
+### 2. Acer Nitro 65 review: Solid gaming performance, but skimping on some features 
 
-China's Lisuan has released a gaming GPU, the LX 7G100, which outperforms an RTX 3060 but costs nearly $500.
+The Acer Nitro 65 is a solid gaming PC with impressive performance, but it falls short in offering a built-in AIO cooler, which would elevate it to an exceptional gaming rig.
 
-💡 *Chinese GPU maker challenges NVIDIA's dominance with affordable high-performance option.*
+💡 *Gaming performance is compromised without a built-in AIO cooler.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112483-china-lisuan-lx-7g100-gaming-gpu-tested-rtx.html)
-
----
-
-### 4. Nvidia's memory costs soar 485%, latest AI systems now cost $7.8 million to build memory now comprises 25% of the total cost, Rubin GPUs a mere $50,000 apiece 
-
-Nvidia's memory costs surge 485%, impacting AI system costs significantly. Memory now accounts for 25% of the total cost in Vera Rubin platforms. This shift affects the overall pricing of the systems.
-
-💡 *Rising memory costs drastically inflate AI system development expenses.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/acer-nitro-65-review)
 
 ---
 
-### 5. Taiwan raids 12 locations in its first formal crackdown on Nvidia AI chip smuggling hunts three fugitives for document forgery, fraudulent declarations in Super Micro smuggling case 
+### 3. Retro enthusiast injects Snake game into vintage S3 graphics card VBIOS enjoy some serpentum fun while your old PC boots 
 
-Taiwan raids 12 locations in its first formal crackdown on Nvidia AI chip smuggling, targeting three fugitives for document forgery and fraudulent declarations in relation to the Super Micro smuggling case. This move makes it even more difficult to smuggle Hopper or Blackwell chips into mainland data centers. The crackdown aims to tighten regulations on high-tech exports.
+A retro PC enthusiast modified a vintage graphics card's VBIOS to play Snake during bootup, bringing nostalgic gaming fun to old PCs.
 
-💡 *Taiwan's crackdown tightens Nvidia chip smuggling regulations significantly globally.*
+💡 *Reviving nostalgia through creative repurposing of vintage technology.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/taiwan-raids-12-locations-in-its-first-formal-crackdown-on-nvidia-ai-chip-smuggling-hunts-three-fugitives-for-document-forgery-fraudulent-declarations-in-super-micro-smuggling-case)
-
----
-
-### 6. Lenovo G02 retro handheld allegedly comes preloaded with thousands of copyrighted games, including Nintendo ROMs company confirms that it s an officially white-labeled device meant for the Chinese market 
-
-Lenovo confirmed partnering with a third-party to sell the G02 retro handheld in China. The device allegedly comes preloaded with thousands of copyrighted games, including Nintendo ROMs. The legitimacy of these titles' licenses is in question.
-
-💡 *Licensing disputes could impact the global games industry significantly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/lenovo-g02-retro-handheld-allegedly-comes-preloaded-with-thousands-of-copyrighted-games-including-nintendo-roms-company-confirms-that-its-an-officially-white-labeled-device-meant-for-the-chinese-market)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/retro-enthusiast-injects-snake-game-into-vintage-s3-graphics-card-vbios-enjoy-some-serpentum-fun-while-your-old-pc-boots)
 
 ---
 
-### 7. Samsung's new 32-inch 6K gaming monitor is the first of its kind if you ignore the one Samsung made last year 
+### 4. Analyst says Nvidia poised to capture two-thirds of the x86 server CPU market from Intel and AMD with expected $20 billion in revenue 'Nvidia is already on track'to deliver 4 million Vera CPUs in FY2027 
 
-Samsung's Odyssey G80HS features a 32-inch 6K IPS panel with 165Hz refresh rate.
+Nvidia is poised to capture a significant share of the x86 server CPU market, surpassing Intel and AMD, with expected revenue of $20 billion. The company is on track to deliver 4 million Vera CPUs in FY2027. This marks a shift in the market, with Nvidia becoming a leading supplier of processors.
 
-💡 *First 32-inch 6K gaming monitor with high refresh rate available*
+💡 *Nvidia's AI accelerator dominance fuels processor market share gain.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112486-samsung-announces-32-inch-odyssey-g80hs-industry-first.html)
-
----
-
-### 8. Lenovo-branded retro handheld comes pre-loaded with tons of Nintendo ROMs 
-
-Lenovo partnered with a Chinese company to release a retro handheld gaming device pre-loaded with Nintendo ROMs, despite not being directly involved in its manufacturing or sales.
-
-💡 *Lenovo's brand licensing strategy expands gaming options in China's market.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112488-lenovo-branded-retro-handheld-comes-pre-loaded-tons.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/analyst-says-nvidia-poised-to-capture-two-thirds-of-the-x86-server-cpu-market-from-intel-and-amd-with-expected-usd20-billion-in-revenue-nvidia-is-already-on-track-to-deliver-4-million-vera-cpus-in-fy2027)
 
 ---
 
