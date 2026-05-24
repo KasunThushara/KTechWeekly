@@ -1,244 +1,138 @@
 [
   {
-    "title": "Steam Controller puck charger nearly catches fire after contact with Pixel Watch 3 sparks fly after the metal wristband magnetizes to the puck's pogo pins",
-    "summary": "A Steam Controller charging puck nearly causes a fire after the wristband on a Pixel Watch 3 magnetically attaches to the charger, causing the exposed pogo pins to arc electricity.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/steam-controller-puck-charger-nearly-catches-fire-after-contact-with-pixel-watch-3-sparks-fly-after-metal-wristband-magnetizes-to-pucks-pogo-pins",
+    "title": "007: First Light drops last-minute Denuvo DRM bombshell, leaving pre-order customers and fans furious Bond title risks FPS drops and strict online check-ins, Pirates eagerly await repack as day-one cracks become the norm",
+    "summary": "IO Interative's latest James Bond adventure has been hit with the curse of Denuvo DRM, leaving many paying customers frustrated over a deliberate roadblock. With all versions of Denuvo now cracked anyways, there's a high chance 007: First Light will be cracked within a few days of its launch anyways.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/007-first-light-drops-last-minute-denuvo-drm-bombshell-leaving-pre-order-customers-and-fans-furious-bond-title-risks-fps-drops-and-strict-online-check-ins-pirates-eagerly-await-repack-as-day-one-cracks-become-the-norm",
     "categories": [
+      "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.005883"
+    "processed_date": "2026-05-24T10:21:16.508005"
   },
   {
-    "title": "Retro enthusiast injects Snake game into vintage S3 graphics card VBIOS enjoy some serpentum fun while your old PC boots",
-    "summary": "A retro PC enthusiast has modified the VBIOS of a vintage graphics card to embed a version of Snake the game everyone used to play on their dumb phones.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/retro-enthusiast-injects-snake-game-into-vintage-s3-graphics-card-vbios-enjoy-some-serpentum-fun-while-your-old-pc-boots",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.006002"
-  },
-  {
-    "title": "Class-action price-fixing lawsuit targets hard drive component makers as costs skyrocket 13-year scheme allegedly drove up prices for major HDD brands",
-    "summary": "Class-action lawsuit filed against HDD suspension assembly makers",
-    "link": "https://www.tomshardware.com/pc-components/hdds/class-action-price-fixing-lawsuit-targets-hard-drive-component-makers-as-costs-skyrocket-13-year-scheme-allegedly-drove-up-prices-for-major-hdd-brands",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.006118"
-  },
-  {
-    "title": "Chinese memory maker CXMT enters mainstream consumer memory with Corsair Vengeance DDR5 kit Chinese-made DRAM emerges as an antidote for crushing shortages",
-    "summary": "Is the answer to the RAM crisis Chinese-made DRAM that's much cheaper to source since those companies aren't tied up in AI data center contracts? It's too early to say yet, but when a manufacturer as big as Corsair starts using DDR5 modules from ChangXing Memory Technologies (CXMT), that notion gains a lot of merit.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/chinese-memory-maker-cxmt-enters-the-mainstream-consumer-memory-with-corsair-vengeance-ddr5-kit-chinese-made-dram-emerges-as-an-antidote-for-crushing-shortages",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.006240"
-  },
-  {
-    "title": "Meta data center allegedly muddies Georgia town's drinking water, investigation underway EPA promises immediate investigation after congresswoman brings dirty jars of water to hearing",
-    "summary": "Morgan County residents are complaining about dirty water coming out of their faucets ever since Meta began constructing a data center near the area.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/meta-data-center-allegedly-muddies-georgia-towns-drinking-water-investigation-underway-epa-promises-immediate-investigation-after-congresswoman-brings-dirty-jars-of-water-to-hearing",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.006363"
-  },
-  {
-    "title": "After a year, Firefox finally stops crashing on Intel's Raptor Lake CPUs Mozilla releases new version patch critical flaw on Intel 13th-gen and 14th-gen CPUs",
-    "summary": "Mozilla spent more than a year investigating widespread browser crashes on Intel 13th-gen and 14th-gen systems.",
-    "link": "https://www.tomshardware.com/software/mozilla-firefox/after-a-year-firefox-finally-stops-crashing-on-intels-raptor-lake-cpus-mozilla-releases-new-version-patch-critical-flaw-on-intel-13th-gen-and-14th-gen-cpus",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.006482"
-  },
-  {
-    "title": "Analyst says Nvidia poised to capture two-thirds of the x86 server CPU market from Intel and AMD with expected $20 billion in revenue 'Nvidia is already on track'to deliver 4 million Vera CPUs in FY2027",
-    "summary": "Having become the main supplier of AI accelerators, Nvidia is now on track to outsell AMD and Intel with Vera CPUs and become a leading supplier of processors.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/analyst-says-nvidia-poised-to-capture-two-thirds-of-the-x86-server-cpu-market-from-intel-and-amd-with-expected-usd20-billion-in-revenue-nvidia-is-already-on-track-to-deliver-4-million-vera-cpus-in-fy2027",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.006597"
-  },
-  {
-    "title": "AI is starting to out-design chip engineers in narrow areas as LLMs accelerate software chip design tool development \"There is still a lot of human guidance\" says Berkley researcher",
-    "summary": "We interview researchers and chip design experts to explore where and how AI is being used during the process, and what trials and tribulations come alongside the usage of the nascent technology in their workflows.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-starting-to-out-design-chip-engineers-in-narrow-areas-as-llms-accelerate-software-chip-design-tool-development-there-is-still-a-lot-of-human-guidance-says-berkley-researcher",
+    "title": "Samsung's $400,000 payout for memory workers sparks revolt as other divisions get only $4,000, fueling intentional production slowdowns internal resentment disrupts packaging operations, major AI chip project decisions to a complete halt",
+    "summary": "It s understood that meetings are being canceled across Samsung's non-memory and shared business units.",
+    "link": "https://www.tomshardware.com/tech-industry/samsungs-bonus-dispute-spreads-to-chip-packaging-divisions-threatening-hbm-delivery-schedules",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-05-23T10:14:44.006711"
-  },
-  {
-    "title": "Acer Nitro 65 review: Solid gaming performance, but skimping on some features",
-    "summary": "The Nitro 65 excels in gaming, but it s an AIO cooler away from being a truly excellent rig.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/acer-nitro-65-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-23T10:14:44.006825"
-  },
-  {
-    "title": "SpacemiT K3 Pico-ITX Chassis Kit Review Part 1: Unboxing, teardown, and first boot",
-    "summary": "SpacemiT has sent me a K3 Pico-ITX Chassis Kit for review. It s based on the K3 Pico-ITX motherboard with the SpacemiT K3 16-core RISC-V Edge AI processor housed in a compatible chassis. I ll start the review with an unboxing, a teardown, and a first boot to the pre-installed Bianbu OS. In the second part of the review, I ll perform feature testing and run several benchmarks (see early K3 benchmarks for reference) to evaluate the status of the software and performance of the system. SpacemiT K3 Pico-ITX Chassis Kit unboxing I received a kit in a retail package reading RISC-V AI CPI K3 RVA23 Profile Chip and a UGREEN USB-C dock with a few USB-A ports, HDMI output, and 100W USB PD support. The dock will make perfect sense once we connect the system for our first boot. I was initially expecting a Pico-ITX SBC, so I was a little surprised [...] The post SpacemiT K3 Pico-ITX Chassis Kit Review Part 1: Unboxing, teardown, and first boot appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/23/spacemit-k3-pico-itx-chassis-kit-review-part-1-unboxing-teardown-and-first-boot/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-05-23T10:14:44.007356"
-  },
-  {
-    "title": "Best of Sensors: Why PolyEdge could be the future of Edge AI",
-    "summary": "Tiami Networks created the PolyEdge Multifunction Sensor to transform ambient wireless signals into a real-time environmental awareness system with privacy kept paramount.",
-    "link": "https://www.fiercesensors.com/sensors/best-sensors-why-polyedge-could-be-future-edge-ai",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.008387"
+    "processed_date": "2026-05-24T10:21:16.508125"
   },
   {
-    "title": "Your Blu-ray drive can now rip GameCube, Wii, and Xbox games legally",
-    "summary": "GameCube, Wii, Xbox, and Xbox 360 owners looking to back up their physical game libraries for use with emulators without crossing into piracy can now do so with standard PC optical drives. The process is moderately involved and limited to specific hardware, though anyone who has ripped Blu-ray... Read Entire Article",
-    "link": "https://www.techspot.com/news/112505-blu-ray-drive-can-now-rip-gamecube-wii.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.008730"
-  },
-  {
-    "title": "Trdo is a modern internet radio player for Windows",
-    "summary": "Trdo is an internet radio player focused on simplicity. Despite its early beta status, Trdo already feels polished, offering a native experience for streaming radio stations from around the world. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7878-trdo.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.008859"
-  },
-  {
-    "title": "A VPN built for criminals just got shut down by Europol and Eurojust",
-    "summary": "Earlier this week, European authorities carried out a continent-wide operation targeting a crime-focused VPN service known as \"First VPN.\" Europol said the illicit service had been promoted for years on Russian-language underground forums, where it was marketed as a \"trusted\" platform for cybercriminals seeking a safehaven for their malicious online... Read Entire Article",
-    "link": "https://www.techspot.com/news/112503-europol-eurojust-take-down-major-vpn-service-used.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.008991"
-  },
-  {
-    "title": "SpaceX scrubs Starship V3 test flight after last-minute launch tower issue",
-    "summary": "Even so, the timing of the delay is notable. SpaceX had scheduled the launch just one day after filing paperwork for what could become the largest IPO in history, reportedly valuing the company at $1.75 trillion. \"Tying the launch to their IPO timeline is daring,\" Greg Autry, associate provost at... Read Entire Article",
-    "link": "https://www.techspot.com/news/112501-spacex-scrubs-starship-v3-test-flight-after-last.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.009098"
-  },
-  {
-    "title": "Memory prices tipped to fall as China starts flooding the market with DRAM and NAND chips",
-    "summary": "According to screenshots posted on X by tipster @wxnod, Corsair has integrated memory chips manufactured by Chinese DRAM maker ChangXin Memory Technologies (CXMT) into its next-generation memory modules. While Corsair typically sources memory chips from Micron Technology, elevated market prices have reportedly pushed the company to explore more cost-effective alternatives. Read Entire Article",
-    "link": "https://www.techspot.com/news/112502-memory-prices-tipped-fall-china-starts-flooding-market.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.009219"
-  },
-  {
-    "title": "The US government is spending $2 billion on quantum computing, while taking stock in the companies it funds",
-    "summary": "IBM is set to receive the largest share of the funding, with $1 billion allocated to the company. Long seen as a frontrunner in quantum development, IBM has been building out both hardware and software systems designed to handle quantum workloads. As part of the agreement, the company will invest... Read Entire Article",
-    "link": "https://www.techspot.com/news/112499-us-government-bets-billions-quantum-computing-direct-stakes.html",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-23T10:14:44.009333"
-  },
-  {
-    "title": "Flipper One is a next-gen Flipper Zero with a Linux brain and serious hardware upgrades",
-    "summary": "After turning opsec conventions upside down with the \"toy-like\" Flipper Zero tool, Flipper Devices is now developing yet another \"fun\" project that could make a significant impact on security and customized computing projects. Read Entire Article",
-    "link": "https://www.techspot.com/news/112490-flipper-one-next-gen-flipper-zero-linux-brain.html",
+    "title": "AI cost crisis hits tech giants as employee 'tokenmaxxing' backfires, sparking corporate pullback at Microsoft, Meta, and Amazon agentic AI eats up to 1000x more tokens than standard AI",
+    "summary": "Agentic AI is consuming so many tokens that it's draining AI budgets way faster than expected. Jevons Paradox rings true 161 years after it was coined.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon",
     "categories": [
       "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-24T10:21:16.508233"
+  },
+  {
+    "title": "$100 CPU Shootout: Comparing the Ryzen 5 5500, Core i3-14100F, and Core i3-12100F to find the top DDR4 CPU",
+    "summary": "As RAM prices continue to climb, budget CPUs are becoming more important. Here, we look at the three leading CPUs around $100 that use DDR4 memory to find which one is right for your next budget PC build.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/100-budget-cpu-shootout-ddr4",
+    "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.009441"
+    "processed_date": "2026-05-24T10:21:16.508333"
   },
   {
-    "title": "Tech layoffs have already passed 100,000 in 2026 as the industry cuts jobs to fund AI",
-    "summary": "Meta's decision to lay off 8,000 workers to offset AI investments while potentially redirecting another 7,000 toward AI-related roles is the largest in a brutal series of tech company layoffs over the past month. Layoffs have exceeded 20,000 in every month of 2026 so far except April. Read Entire Article",
-    "link": "https://www.techspot.com/news/112493-tech-layoffs-pass-100000-2026-tracker-points-ai.html",
+    "title": "Micron's Virginia fab begins producing America's most advanced DRAM memory fab expansion to quadruple output, easing DDR4 shortage for automotive and defense sectors",
+    "summary": "Micron is scaling up DDR4 production as the supply of the older memory standard has become unexpectedly tight.",
+    "link": "https://www.tomshardware.com/tech-industry/micron-begins-producing-americas-most-advanced-dram-at-its-virginia-fab",
     "categories": [
-      "AI & ML"
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.009546"
+    "processed_date": "2026-05-24T10:21:16.508429"
   },
   {
-    "title": "Meta launches Forum, an app for Facebook Groups offered as a Reddit alternative",
-    "summary": "The Forum app was spotted in Apple's storefront by Geekout Newsletter's Matt Navarra. According to the official description, it offers a dedicated space built for deeper discussions, real answers, and the communities users care about. Read Entire Article",
-    "link": "https://www.techspot.com/news/112500-meta-quietly-launches-forum-reddit-like-app-built.html",
+    "title": "Huawei develops 122TB SSD with new packaging tech to sidestep US sanctions on 3D NAND chips Chinese firm develops proprietary tech to cram more NAND dies in a smaller footprint",
+    "summary": "Huawei developed a new die-on-board packaging, which directly mounted NAND dies on the SSD PCB, to get around the sanctions that prevented it from acquiring high-layer-count 3D NAND chips that used American tech. This allowed the company to pile in more 3D NAND on its storage devices without the limitations of traditional NAND packaging to deliver higher capacity using less dense 3D NAND dies.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/huawei-introduces-122tb-ssd-without-using-sanctioned-3d-nand-chips-chinese-tech-firm-develops-proprietary-tech-to-cram-more-nand-dies-in-a-smaller-footprint",
     "categories": [
-      "Tech News"
+      "Hardware",
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.009651"
+    "processed_date": "2026-05-24T10:21:16.508566"
   },
   {
-    "title": "Firefox is getting a major redesign with one-click controls to disable all AI features",
-    "summary": "The biggest change is inside the Settings menu. Mozilla is redesigning it to make privacy controls easier to find and understand, including a single toggle that lets users shut off all current and future AI features. As browsers add more AI features, centralized controls like this become more important, and... Read Entire Article",
-    "link": "https://www.techspot.com/news/112496-firefox-getting-major-redesign-one-click-controls-disable.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.009760"
-  },
-  {
-    "title": "Philips made a monitor with screens on both sides, and it's actually kind of brilliant",
-    "summary": "A dual-sided monitor labeled 24B2D5300 recently appeared on Philips' UK and Ireland online storefronts. Digital Camera World reports that the panel will be available from June for 359 ($481), but pre-order options have not appeared in any region. Read Entire Article",
-    "link": "https://www.techspot.com/news/112491-philips-made-monitor-screens-both-sides-actually-kind.html",
+    "title": "768GB of cheap Intel Optane DIMM memory sticks used to run 1-trillion-parameter LLM on a system with a single GPU local Kimi K2.5 install achieved roughly 4 tokens per second",
+    "summary": "A Redditor has caused a stir by coaxing a workstation build using Optane PMem DIMMs as RAM to run a 1-trillion parameter LLM.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second",
     "categories": [
       "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-24T10:21:16.508674"
+  },
+  {
+    "title": "Wi-Fi controlled hacking USB cable stealthily packs in a microcontroller, microSD storage, and more cable executes remote payload execution, keystroke injection, and more, but is 'built for makers, developers, enthusiasts, and cybersecurity learners'",
+    "summary": "A device that 'looks like a normal USB cable' but packs in an ESP32-S3 microcontroller, micro SD card storage, and Wi-Fi capabilities has enjoyed great success on Kickstarter.",
+    "link": "https://www.tomshardware.com/maker-stem/microcontrollers-projects/wi-fi-controlled-hacking-usb-cable-stealthily-packs-in-an-esp32-s3-microsd-storage-and-more-cable-can-execute-remote-payload-execution-keystroke-injection-and-more-but-is-built-for-makers-developers-enthusiasts-and-cybersecurity-learners",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-24T10:21:16.508785"
+  },
+  {
+    "title": "Valorant anti-cheat update soft-bricks $6,000 cheating hardware, company then trolls cheaters on social media studio tweets 'congrats to the owners of a brand new $6k paperweight'",
+    "summary": "Riot Games has updated its Vanguard anti-cheat software in Valorant to block cheaters using DMA devices that cost up to $6,000.",
+    "link": "https://www.tomshardware.com/software/valorant-dev-bans-players-who-spent-usd6-000-on-cheats-then-trolls-them-on-social-media-studio-tweets-congrats-to-the-owners-of-a-brand-new-usd6k-paperweight",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-24T10:21:16.508891"
+  },
+  {
+    "title": "OpenTrafficMap ESP32-C5 C-ITS receiver board can help improve traffic efficiency using 802.11p V2X communication",
+    "summary": "The ESP32-C5 C-ITS receiver project is an open-source hardware board that gathers data over 802.11p V2X communication from nearby traffic lights, public transportation (buses, trams ), trucks, cars, motorcycles, and even pedestrians to display the results on online maps. It works using the ITS-G5 protocol built on top of 802.11p V2X (Vehicle-to-Everything), which requires a 5.9 GHz WiFi radio, and makes the ESP32-C5 an ideal candidate. The standard requires a C-ITS Station (ITS-S) found in vehicles (on-board units OBU) or roadside units (RSU) handling both transmission and reception, and a receiver to handle incoming wireless signals, decode C-ITS (Cooperative Intelligent Transport Systems) messages, and feed the data into online maps like OpenTrafficMap (See screenshot below). ESP32-C5 C-ITX receiver specifications: Wireless module ESP32-C5-WROOM-1 (ESP32-C5-WROOM-1-N16R8 or ESP32-C5-WROOM-1-N8R8) SoC ESP32-C5 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for [...] The post OpenTrafficMap ESP32-C5 C-ITS receiver board can help improve traffic efficiency using 802.11p V2X communication appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/24/opentrafficmap-esp32-c5-c-its-receiver-board-can-help-improve-traffic-efficiency-using-802-11p-v2x-communication/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-05-24T10:21:16.509491"
+  },
+  {
+    "title": "TDK and NHK Spring accused of fixing prices on components used in 97% of hard drives for over a decade",
+    "summary": "Filed in the US District Court for the Northern District of California, the lawsuit accuses major suspension assembly manufacturers of engaging in price-fixing over more than a decade. The defendants are grouped around two key players, TDK Corporation and NHK Spring, whose components are used across nearly the entire hard... Read Entire Article",
+    "link": "https://www.techspot.com/news/112508-tdk-nhk-spring-accused-fixing-prices-components-used.html",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-23T10:14:44.009901"
+    "processed_date": "2026-05-24T10:21:16.510981"
   },
   {
-    "title": "AMD's 256 core Epyc Venice enters production on TSMC's 2nm node",
-    "summary": "Venice is a 6th-gen Epyc chip based on the Zen 6 core architecture and targeted at dense data center workloads. AMD is claiming more than a 70% improvement in overall performance and efficiency versus the current Epyc Turin chips, along with more than a 30% increase in thread density. Read Entire Article",
-    "link": "https://www.techspot.com/news/112492-amd-256-core-epyc-venice-enters-production-tsmc.html",
+    "title": "Infinity Ward teases the next Call of Duty, calling it \"the definitive Modern Warfare\"",
+    "summary": "Infinity Ward studio heads Mark Grigsby and Jack O'Hara shared brief statements this week about the developer's next game, indicating that they plan to unveil the next Call of Duty title soon. The highly anticipated first-person shooter might debut during Sony's hour-long June 2 State of Play presentation or the... Read Entire Article",
+    "link": "https://www.techspot.com/news/112507-infinity-ward-teases-next-call-duty-calling-definitive.html",
     "categories": [
-      "Semiconductors",
-      "GPUs"
+      "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-05-23T10:14:44.010013"
+    "quality_score": 5,
+    "processed_date": "2026-05-24T10:21:16.511089"
+  },
+  {
+    "title": "Canada is imposing a 15% tax on streaming services to support local content",
+    "summary": "The Canadian Radio-television and Telecommunications Commission recently introduced a significant update to the Online Streaming Act. The legislation, enacted in 2023, requires major streaming platforms such as Netflix to contribute funding toward Canadian content. The CRTC now says that these financial obligations are being further expanded for companies generating significant... Read Entire Article",
+    "link": "https://www.techspot.com/news/112504-canada-imposing-15-tax-global-streaming-services-support.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-24T10:21:16.511216"
   }
 ]

@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of May 23, 2026**
+**Week of May 24, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,59 +7,59 @@
 
 ## 📊 Summary
 - **Articles this week:** 5
-- **Report generated:** 2026-05-23 10:15
+- **Report generated:** 2026-05-24 10:21
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AI is starting to out-design chip engineers in narrow areas as LLMs accelerate software chip design tool development "There is still a lot of human guidance" says Berkley researcher ⭐
+### 1. Samsung's $400,000 payout for memory workers sparks revolt as other divisions get only $4,000, fueling intentional production slowdowns internal resentment disrupts packaging operations, major AI chip project decisions to a complete halt 
 
-AI is outperforming chip engineers in narrow areas through software tool development, with human guidance still required.
+Samsung's memory division workers receive $400,000 payout, sparking revolt and resentment. Other divisions receive only $4,000, leading to intentional production slowdowns and cancelled meetings. Internal tensions halt major AI chip project decisions.
 
-💡 *Human-AI collaboration enhances chip design efficiency and innovation.*
+💡 *Uneven payouts spark internal conflict and disrupt business operations severely*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-starting-to-out-design-chip-engineers-in-narrow-areas-as-llms-accelerate-software-chip-design-tool-development-there-is-still-a-lot-of-human-guidance-says-berkley-researcher)
-
----
-
-### 2. AMD's 256 core Epyc Venice enters production on TSMC's 2nm node ⭐
-
-AMD's 6th-gen Epyc Venice chip boasts 70% performance and efficiency gains
-
-💡 *Transforming data centers with significantly improved efficiency and performance*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112492-amd-256-core-epyc-venice-enters-production-tsmc.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsungs-bonus-dispute-spreads-to-chip-packaging-divisions-threatening-hbm-delivery-schedules)
 
 ---
 
-### 3. The US government is spending $2 billion on quantum computing, while taking stock in the companies it funds 
+### 2. AI cost crisis hits tech giants as employee 'tokenmaxxing' backfires, sparking corporate pullback at Microsoft, Meta, and Amazon agentic AI eats up to 1000x more tokens than standard AI 
 
-The US government allocates $2 billion to quantum computing, with $1 billion going to IBM, a leader in quantum development. As part of the agreement, IBM will invest in its quantum systems. This funding aims to advance the field of quantum computing.
+Agentic AI is consuming excessive resources, draining AI budgets faster than expected. The phenomenon is reminiscent of the Jevons Paradox, where increased efficiency leads to increased consumption. This crisis is affecting tech giants like Microsoft, Meta, and Amazon.
 
-💡 *Government investment in quantum computing may fuel innovation and job creation.*
+💡 *Increased AI efficiency leads to higher resource consumption paradoxically.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112499-us-government-bets-billions-quantum-computing-direct-stakes.html)
-
----
-
-### 4. Best of Sensors: Why PolyEdge could be the future of Edge AI 
-
-Tiami Networks' PolyEdge sensor transforms ambient signals into real-time awareness, prioritizing user privacy.
-
-💡 *Privacy-centric edge AI could revolutionize IoT sensing and data collection.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/best-sensors-why-polyedge-could-be-future-edge-ai)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon)
 
 ---
 
-### 5. Memory prices tipped to fall as China starts flooding the market with DRAM and NAND chips 
+### 3. Micron's Virginia fab begins producing America's most advanced DRAM memory fab expansion to quadruple output, easing DDR4 shortage for automotive and defense sectors 
 
-Corsair has integrated Chinese-made memory chips into its next-generation modules to reduce costs. Elevated market prices have reportedly driven the company to explore cost-effective alternatives. This move could impact the global memory market.
+Micron's Virginia fab is increasing DDR4 production to address supply shortages, specifically catering to automotive and defense sectors.
 
-💡 *Cost-cutting measures in memory production may lead to market disruption.*
+💡 *Critical memory supply for critical infrastructure sectors is being bolstered.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112502-memory-prices-tipped-fall-china-starts-flooding-market.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/micron-begins-producing-americas-most-advanced-dram-at-its-virginia-fab)
+
+---
+
+### 4. Huawei develops 122TB SSD with new packaging tech to sidestep US sanctions on 3D NAND chips Chinese firm develops proprietary tech to cram more NAND dies in a smaller footprint 
+
+Huawei developed a new packaging tech to bypass US sanctions on 3D NAND chips, allowing the company to increase storage capacity using less dense 3D NAND dies directly mounted on the SSD PCB.
+
+💡 *Workaround enables higher capacity storage with less dense 3D NAND dies*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/huawei-introduces-122tb-ssd-without-using-sanctioned-3d-nand-chips-chinese-tech-firm-develops-proprietary-tech-to-cram-more-nand-dies-in-a-smaller-footprint)
+
+---
+
+### 5. OpenTrafficMap ESP32-C5 C-ITS receiver board can help improve traffic efficiency using 802.11p V2X communication 
+
+The ESP32-C5 C-ITS receiver board uses 802.11p V2X communication to gather data from nearby vehicles and traffic systems, displaying the results on online maps like OpenTrafficMap, thereby improving traffic efficiency.
+
+💡 *Enhancing real-time traffic monitoring for smoother journeys*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/24/opentrafficmap-esp32-c5-c-its-receiver-board-can-help-improve-traffic-efficiency-using-802-11p-v2x-communication/)
 
 ---
 
