@@ -1,65 +1,125 @@
 # 💻 Hardware
-**Week of May 24, 2026**
+**Week of May 25, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-05-24 10:21
+- **Articles this week:** 11
+- **Report generated:** 2026-05-25 12:07
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. $100 CPU Shootout: Comparing the Ryzen 5 5500, Core i3-14100F, and Core i3-12100F to find the top DDR4 CPU 
+### 1. Super Flower Leadex 2800W ATX 3.1 power supply review: Top-notch build quality, exceptional efficiency ⭐
 
-In search of the best budget CPU for DDR4 memory, we compare the Ryzen 5 5500, Core i3-14100F, and Core i3-12100F. These three CPUs, all valued around $100, will help you determine which one to choose for your next budget PC build. We'll examine their performance, features, and power consumption.
+The Super Flower Leadex 2800W power supply boasts top-notch build quality and exceptional efficiency, but at an extreme price.
 
-💡 *DDR4 memory upgrade costs can outpace CPU power gains significantly.*
+💡 *Unparalleled efficiency and quality in a high-end power supply solution.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/100-budget-cpu-shootout-ddr4)
-
----
-
-### 2. Huawei develops 122TB SSD with new packaging tech to sidestep US sanctions on 3D NAND chips Chinese firm develops proprietary tech to cram more NAND dies in a smaller footprint 
-
-Huawei developed a new packaging tech to bypass US sanctions on 3D NAND chips, allowing the company to increase storage capacity using less dense 3D NAND dies directly mounted on the SSD PCB.
-
-💡 *Workaround enables higher capacity storage with less dense 3D NAND dies*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/huawei-introduces-122tb-ssd-without-using-sanctioned-3d-nand-chips-chinese-tech-firm-develops-proprietary-tech-to-cram-more-nand-dies-in-a-smaller-footprint)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/super-flower-leadex-2800w-atx-3-1-power-supply-review)
 
 ---
 
-### 3. Wi-Fi controlled hacking USB cable stealthily packs in a microcontroller, microSD storage, and more cable executes remote payload execution, keystroke injection, and more, but is 'built for makers, developers, enthusiasts, and cybersecurity learners' 
+### 2. Khadas Mind Graphics 2 review A powerful NVIDIA Geforce RTX 5060 Ti eGPU dock for the Mind 2 mini PC ⭐
 
-A stealthy USB cable with ESP32-S3 and microSD storage executes hacking payloads remotely.
+The Khadas Mind Graphics 2 dock is reviewed with the Mind 2 mini PC, featuring an NVIDIA GeForce RTX 5060 Ti GPU. The review tests the dock's features, including 2.5GbE networking, speakers, and microphone array. The Mind 2 mini PC with the dock is tested running Windows 11.
 
-💡 *Empowering makers with accessible hacking tools for cybersecurity education.*
+💡 *Powerful eGPU dock unlocks high-end gaming and AI capabilities*
 
-🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/microcontrollers-projects/wi-fi-controlled-hacking-usb-cable-stealthily-packs-in-an-esp32-s3-microsd-storage-and-more-cable-can-execute-remote-payload-execution-keystroke-injection-and-more-but-is-built-for-makers-developers-enthusiasts-and-cybersecurity-learners)
-
----
-
-### 4. Valorant anti-cheat update soft-bricks $6,000 cheating hardware, company then trolls cheaters on social media studio tweets 'congrats to the owners of a brand new $6k paperweight' 
-
-Riot Games updates Vanguard anti-cheat to block $6,000 DMA devices. The new update effectively bans expensive cheating hardware. This move aims to maintain fair gameplay in Valorant.
-
-💡 *High-end cheating devices are now detectable and blocked by Vanguard.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/valorant-dev-bans-players-who-spent-usd6-000-on-cheats-then-trolls-them-on-social-media-studio-tweets-congrats-to-the-owners-of-a-brand-new-usd6k-paperweight)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/25/khadas-mind-graphics-2-review-a-powerful-nvidia-geforce-rtx-5060-ti-egpu-dock-for-the-mind-2-mini-pc/)
 
 ---
 
-### 5. OpenTrafficMap ESP32-C5 C-ITS receiver board can help improve traffic efficiency using 802.11p V2X communication 
+### 3. Researchers identify people through ordinary Wi-Fi routers with 99.5% accuracy technique works with standard Wi-Fi routers 
 
-The ESP32-C5 C-ITS receiver board uses 802.11p V2X communication to gather data from nearby vehicles and traffic systems, displaying the results on online maps like OpenTrafficMap, thereby improving traffic efficiency.
+Researchers have developed a technique to identify individuals using standard Wi-Fi routers with 99.5% accuracy without any specialized hardware or access to the target network.
 
-💡 *Enhancing real-time traffic monitoring for smoother journeys*
+💡 *Mass surveillance through public Wi-Fi is now a major concern*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/24/opentrafficmap-esp32-c5-c-its-receiver-board-can-help-improve-traffic-efficiency-using-802-11p-v2x-communication/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/researchers-identify-people-through-ordinary-wi-fi-routers-with-99-percent-accuracy)
+
+---
+
+### 4. Monitor live traffic from V2X signals with V2X2MAP open-source Android app and an ESP32-C5 development board 
+
+The V2X2MAP Android app, paired with an ESP32-C5 board, enables monitoring live traffic from V2X signals, leveraging 802.11p/ITS-G5 communication and GPS capabilities on recent Android smartphones.
+
+💡 *Real-time traffic monitoring using V2X signals on Android devices.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/25/monitor-live-traffic-from-v2x-signals-with-v2x2map-open-source-android-app-and-an-esp32-c5-development-board/)
+
+---
+
+### 5. First ever Cray T3D Supercomputer goes up for auction with $81,000 reserve Europe s fastest supercomputer in June 1996 goes on the block 
+
+The first Cray T3D supercomputer, serial number 6001, is up for auction with a $81,000 reserve. The supercomputer, Europe's fastest in June 1996, is a piece of computing history. Potential buyers can submit opening bids from $60,000.
+
+💡 *Historic computing technology up for sale to the highest bidder.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/supercomputers/first-ever-cray-t3d-supercomputer-goes-up-for-auction-with-usd81-000-reserve-europes-fastest-supercomputer-in-june-1996-goes-on-the-block)
+
+---
+
+### 6. Steam Machine appears in Vulkan s conformant product database upcoming Valve console is certified compliant with the graphics API 
+
+The Steam Machine has been added to the Vulkan conformant product database. This indicates that the console meets the graphics API standard. The certification is a step towards a potential release.
+
+💡 *Vulkan certification is a crucial step for Steam Machine's market readiness.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/steam-machine-appears-in-vulkans-conformant-product-database-upcoming-valve-console-is-certified-compliant-with-the-graphics-api)
+
+---
+
+### 7. Electronics buff hand-draws and etches custom PCBs at home functional home-etched PCB runs a 3D-printed fume extractor fan 
+
+A maker has developed a hand-drawn and etched PCB process at home, using a 3D-printed fume extractor fan to create functional and unique printed circuit boards.
+
+💡 *Custom PCBs empower makers to design and build without mass production constraints.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/electronics-buff-hand-draws-and-etches-custom-pcbs-at-home-functional-home-etched-pcb-runs-a-3d-printed-fume-extractor-fan)
+
+---
+
+### 8. Cyberpunk 2077 cosplay jacket features a $1,200 flexible OLED collar that you can game on with a Steam Controller dual Raspberry Pi 4s power the wearable tech 
+
+A cosplay enthusiast created a Cyberpunk 2077 jacket with a flexible OLED collar, featuring a dual Raspberry Pi 4 power source and integration with a Steam Controller for gaming capabilities.
+
+💡 *Advancements in wearable tech blur lines between gaming and real-life fashion.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/cyberpunk-2077-cosplay-jacket-features-a-usd1-200-flexible-oled-collar-that-you-can-actually-play-games-on-with-a-steam-controller-dual-raspberry-pi-4s-power-the-wearable-tech)
+
+---
+
+### 9. HP BIOS updates are bricking premium laptops through Windows Update 
+
+HP BIOS updates through Windows Update are bricking some premium laptops, causing boot issues and freezing. Similar complaints have appeared online, describing the same kind of problems after installing recent BIOS updates. This has left affected users with non-functional devices.
+
+💡 *Faulty BIOS updates can render high-end laptops useless permanently.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112518-hp-bios-updates-bricking-premium-laptops-through-windows.html)
+
+---
+
+### 10. This $82 USB cable hides a Wi-Fi microcontroller inside its connector 
+
+A Kickstarter device packs a Wi-Fi microcontroller inside a standard-looking USB cable, challenging the typical assumption of what a USB cable can do.
+
+💡 *Hiding computing power in everyday objects expands possibilities for IoT applications.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112512-82-usb-cable-hides-wi-fi-microcontroller-inside.html)
+
+---
+
+### 11. This wearable $2,000 AI exoskeleton wants to turn your legs into hybrid hardware 
+
+A $2,000 AI exoskeleton enhances leg movement with dual hip-mounted motors, adding force to each step. The system uses carbon-fiber linkages and hinged braces for stability. This wearable technology aims to turn legs into hybrid hardware.
+
+💡 *Revolutionizing mobility with AI-powered leg enhancement technology advancements.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112509-wearable-2000-ai-exoskeleton-wants-turn-legs-hybrid.html)
 
 ---
 

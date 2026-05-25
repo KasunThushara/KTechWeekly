@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of May 24, 2026**
+**Week of May 25, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. 007: First Light drops last-minute Denuvo DRM bombshell, leaving pre-order customers and fans furious Bond title risks FPS drops and strict online check-ins, Pirates eagerly await repack as day-one cracks become the norm 
+### 1. Super Flower Leadex 2800W ATX 3.1 power supply review: Top-notch build quality, exceptional efficiency ⭐
 
-**🤖 AI & ML**
+**💻 Hardware**
 
-IO Interactive's 007: First Light is plagued by Denuvo DRM, frustrating customers and fans. The inclusion of Denuvo DRM has led to performance issues and strict online check-ins. Cracking of Denuvo versions has become a norm, making the DRM's effectiveness questionable.
+The Super Flower Leadex 2800W power supply boasts top-notch build quality and exceptional efficiency, but at an extreme price.
 
-💡 **Key Point:** Denuvo DRM often causes more problems than it solves for gamers.
+💡 **Key Point:** Unparalleled efficiency and quality in a high-end power supply solution.
 
-🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/007-first-light-drops-last-minute-denuvo-drm-bombshell-leaving-pre-order-customers-and-fans-furious-bond-title-risks-fps-drops-and-strict-online-check-ins-pirates-eagerly-await-repack-as-day-one-cracks-become-the-norm)
-
----
-
-### 2. Samsung's $400,000 payout for memory workers sparks revolt as other divisions get only $4,000, fueling intentional production slowdowns internal resentment disrupts packaging operations, major AI chip project decisions to a complete halt 
-
-**🤖 AI & ML**
-
-Samsung's memory division workers receive $400,000 payout, sparking revolt and resentment. Other divisions receive only $4,000, leading to intentional production slowdowns and cancelled meetings. Internal tensions halt major AI chip project decisions.
-
-💡 **Key Point:** Uneven payouts spark internal conflict and disrupt business operations severely
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/samsungs-bonus-dispute-spreads-to-chip-packaging-divisions-threatening-hbm-delivery-schedules)
+🔗 [Read More](https://www.tomshardware.com/pc-components/power-supplies/super-flower-leadex-2800w-atx-3-1-power-supply-review)
 
 ---
 
-### 3. AI cost crisis hits tech giants as employee 'tokenmaxxing' backfires, sparking corporate pullback at Microsoft, Meta, and Amazon agentic AI eats up to 1000x more tokens than standard AI 
+### 2. Khadas Mind Graphics 2 review A powerful NVIDIA Geforce RTX 5060 Ti eGPU dock for the Mind 2 mini PC ⭐
 
-**🤖 AI & ML**
+**💻 Hardware**
 
-Agentic AI is consuming excessive resources, draining AI budgets faster than expected. The phenomenon is reminiscent of the Jevons Paradox, where increased efficiency leads to increased consumption. This crisis is affecting tech giants like Microsoft, Meta, and Amazon.
+The Khadas Mind Graphics 2 dock is reviewed with the Mind 2 mini PC, featuring an NVIDIA GeForce RTX 5060 Ti GPU. The review tests the dock's features, including 2.5GbE networking, speakers, and microphone array. The Mind 2 mini PC with the dock is tested running Windows 11.
 
-💡 **Key Point:** Increased AI efficiency leads to higher resource consumption paradoxically.
+💡 **Key Point:** Powerful eGPU dock unlocks high-end gaming and AI capabilities
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon)
-
----
-
-### 4. 768GB of cheap Intel Optane DIMM memory sticks used to run 1-trillion-parameter LLM on a system with a single GPU local Kimi K2.5 install achieved roughly 4 tokens per second 
-
-**🤖 AI & ML**
-
-A Redditor successfully ran a 1-trillion parameter LLM on a workstation with Optane PMem DIMMs and a single GPU, achieving 4 tokens per second.
-
-💡 **Key Point:** Optane PMem enables massive model training at significantly reduced costs and power consumption.
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second)
+🔗 [Read More](https://www.cnx-software.com/2026/05/25/khadas-mind-graphics-2-review-a-powerful-nvidia-geforce-rtx-5060-ti-egpu-dock-for-the-mind-2-mini-pc/)
 
 ---
 
-### 5. 007: First Light drops last-minute Denuvo DRM bombshell, leaving pre-order customers and fans furious Bond title risks FPS drops and strict online check-ins, Pirates eagerly await repack as day-one cracks become the norm 
+### 3. Super Flower Leadex 2800W ATX 3.1 power supply review: Top-notch build quality, exceptional efficiency ⭐
 
 **📰 Tech News**
 
-IO Interactive's 007: First Light is plagued by Denuvo DRM, frustrating customers and fans. The inclusion of Denuvo DRM has led to performance issues and strict online check-ins. Cracking of Denuvo versions has become a norm, making the DRM's effectiveness questionable.
+The Super Flower Leadex 2800W power supply boasts top-notch build quality and exceptional efficiency, but at an extreme price.
 
-💡 **Key Point:** Denuvo DRM often causes more problems than it solves for gamers.
+💡 **Key Point:** Unparalleled efficiency and quality in a high-end power supply solution.
 
-🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/007-first-light-drops-last-minute-denuvo-drm-bombshell-leaving-pre-order-customers-and-fans-furious-bond-title-risks-fps-drops-and-strict-online-check-ins-pirates-eagerly-await-repack-as-day-one-cracks-become-the-norm)
+🔗 [Read More](https://www.tomshardware.com/pc-components/power-supplies/super-flower-leadex-2800w-atx-3-1-power-supply-review)
+
+---
+
+### 4. Khadas Mind Graphics 2 review A powerful NVIDIA Geforce RTX 5060 Ti eGPU dock for the Mind 2 mini PC ⭐
+
+**🎮 GPUs**
+
+The Khadas Mind Graphics 2 dock is reviewed with the Mind 2 mini PC, featuring an NVIDIA GeForce RTX 5060 Ti GPU. The review tests the dock's features, including 2.5GbE networking, speakers, and microphone array. The Mind 2 mini PC with the dock is tested running Windows 11.
+
+💡 **Key Point:** Powerful eGPU dock unlocks high-end gaming and AI capabilities
+
+🔗 [Read More](https://www.cnx-software.com/2026/05/25/khadas-mind-graphics-2-review-a-powerful-nvidia-geforce-rtx-5060-ti-egpu-dock-for-the-mind-2-mini-pc/)
+
+---
+
+### 5. Researchers identify people through ordinary Wi-Fi routers with 99.5% accuracy technique works with standard Wi-Fi routers 
+
+**💻 Hardware**
+
+Researchers have developed a technique to identify individuals using standard Wi-Fi routers with 99.5% accuracy without any specialized hardware or access to the target network.
+
+💡 **Key Point:** Mass surveillance through public Wi-Fi is now a major concern
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/researchers-identify-people-through-ordinary-wi-fi-routers-with-99-percent-accuracy)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **19 articles** across **5 focused categories**.
+We covered **36 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 4 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 1 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 5 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 11 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 4 articles
+*Artificial Intelligence and Machine Learning* — 11 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 1 articles
+*Graphics cards and compute accelerators* — 5 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 5 articles
+*Computing hardware and development boards* — 11 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 5 articles
+*Chip manufacturing and design* — 3 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 4 articles
+*Industry news and product launches* — 6 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-05-24 at 10:21 by an autonomous AI curation system.
+Generated 2026-05-25 at 12:07 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
