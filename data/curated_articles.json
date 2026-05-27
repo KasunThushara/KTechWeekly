@@ -1,227 +1,654 @@
 [
   {
-    "title": "Super Flower Leadex 2800W ATX 3.1 power supply review: Top-notch build quality, exceptional efficiency",
-    "summary": "The Super Flower Leadex 2800W is a technical statement rather than a conventional product. It delivers extraordinary efficiency, exemplary power quality, and an internal design that leaves nothing on the table. The asking price is extreme, but so is everything else about this unit.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/super-flower-leadex-2800w-atx-3-1-power-supply-review",
+    "title": "SpaceX admits it can't find enough chips for orbital AI yet, requires 'significantly more than are currently available to us' firm's risk factors in IPO paperwork also says ambitious TeraFab project may not be successful",
+    "summary": "SpaceX warns that it may not secure enough AI hardware to achieve its orbital AI ambitions even with supply from TeraFab. Also, Intel and Tesla may leave the TeraFab project.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-admits-it-cant-find-enough-chips-for-orbital-ai-yet-requires-significantly-more-than-are-currently-available-to-us-firms-risk-factors-in-ipo-paperwork-also-says-ambitious-terafab-project-may-not-be-successful",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.947167"
+  },
+  {
+    "title": "Lenovo says it's digging into allegations that its China-only G10 handheld is being used for piracy third parties may be including illicit games to inflate prices in the gray market",
+    "summary": "Lenovo has announced it is conducting an in-depth investigation of its Chinese retail supply chains following allegations that its recently released G02 retro-gaming handheld is enabling piracy.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/lenovo-says-its-digging-into-allegations-that-its-china-only-g10-handheld-is-being-used-for-piracy-third-parties-may-be-including-illicit-games-to-inflate-prices-in-the-gray-market",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-27T11:58:33.947292"
+  },
+  {
+    "title": "Save a massive $950 on this RTX 5090 OLED gaming laptop right now 16-inch Legion Pro 7i features a 240Hz refresh rate, 32GB DDR5, 2TB SSD, and more for just $3,049",
+    "summary": "B&H Photo has slashed the price of this Lenovo Legion Pro 7i gaming laptop by $950, netting you an RTX 5090 laptop with an 16\" OLED display for just $3,049.",
+    "link": "https://www.tomshardware.com/pc-components/save-a-massive-usd950-on-this-rtx-5090-oled-gaming-laptop-right-now-16-inch-legion-pro-7i-features-a-240hz-refresh-rate-32gb-ddr5-2tb-ssd-and-more-for-just-usd3-049",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.947421"
+  },
+  {
+    "title": "Taiwan authorities arrest three on suspicion of smuggling Nvidia chips to China operation allegedly used Japan as transshipment point before forwarding banned Supermicro servers to Hong Kong",
+    "summary": "Reports say that the three individuals successfully shipped a batch of banned Nvidia AI chips in Super Micro servers to China from Taiwan to Hong Kong via Japan using falsified documentation.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/taiwan-authorities-arrest-three-on-suspicion-of-smuggling-nvidia-chips-to-china-operation-allegedly-used-japan-as-transshipment-point-before-forwarding-banned-supermicro-servers-to-hong-kong",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.947542"
+  },
+  {
+    "title": "Best Buy has slashed $1,000 off this RTX 5070 OLED gaming laptop with Intel Core Ultra 9 275HX Lenovo Legion Pro now just $1,749, includes 32GB of RAM and 1TB SSD",
+    "summary": "You can save $1,000 on this Lenovo Legion Pro 5i 16\" gaming laptop at Best Buy.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/best-buy-has-slashed-usd1-000-off-this-rtx-5070-oled-gaming-laptop-with-intel-core-ultra-9-275hx-lenovo-legion-pro-now-just-usd1-749-includes-32gb-of-ram-and-1tb-ssd",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.947653"
+  },
+  {
+    "title": "Microsoft's GitHub bans security researcher who posted zero-day Windows exploits because company 'ruined their life' expert claims action is vindictive and promises further retaliation",
+    "summary": "Microsoft's GitHub bans security researcher who posted zero-day Windows exploits",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-27T11:58:33.947751"
+  },
+  {
+    "title": "IBM spins off America's first quantum chip foundry with $2 billion in federal and private funding newly-minted 'Anderon' foundry to offer 300mm quantum wafer fab and manufacturing services",
+    "summary": "Headquartered in Albany, New York, Anderon will operate a 300mm quantum wafer fab and offer its manufacturing services to competing quantum hardware vendors.",
+    "link": "https://www.tomshardware.com/tech-industry/quantum-computing/ibm-spins-off-americas-first-quantum-chip-foundry-with-2-billion-in-federal-and-private-funding",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.947863"
+  },
+  {
+    "title": "Nvidia is finally ditching its iconic GPU Control Panel after 20 years new driver updates only ship in the Nvidia App",
+    "summary": "Nvidia has finally retired its 20-year-old control panel for GeForce GPUs. From now on, new GeForce drivers will only include the Nvidia App.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-is-finally-ditching-its-iconic-control-panel-after-20-years-new-driver-updates-only-ship-in-the-nvidia-app",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.947959"
+  },
+  {
+    "title": "Chinese AI experts in private firms now required to secure approval before international travel Beijing enforces policy to secure top-tier talent, expands measures beyond government",
+    "summary": "The Chinese government has imposed travel restrictions on key AI experts, requiring them to secure an approval before they can leave the country. Beijing is reportedly doing this to secure talent, which it now considers as a strategic resource, as it competes with the U.S. to gain supremacy in artificial intelligence.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-ai-experts-in-private-firms-now-required-to-secure-approval-before-international-travel-beijing-enforces-policy-to-secure-top-tier-talent-expands-measures-beyond-government",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.948087"
+  },
+  {
+    "title": "Acer is reportedly working on a 'Predator Atlas 8' handheld featuring Intel's Arc G3 chips Panther Lake-based handhelds expected to be revealed at Computex 2026",
+    "summary": "At Computex next month, Intel is expected to reveal a bunch of handhelds rocking its Arc G3 series of chips, and Acer is now rumored to be one of the manufacturers showing off its devices. New leaks say a \"Predator Atlas 8\" is in the works that, as the name suggests, will feature an 8-inch screen and might come in both the Arc G3 and G3 Extreme variants.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/acer-is-reportedly-working-on-a-predator-atlas-8-handheld-featuring-intels-arc-g3-chips-panther-lake-based-handhelds-expected-to-be-revealed-at-computex-2026",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.948202"
+  },
+  {
+    "title": "AMD leaves Linux FPGA users in the lurch with controversial Vivado licensing update new tier model restricts future free versions to Windows",
+    "summary": "AMD has been accused of 'bait-and-switch' tactics following changes to the licensing of Vivado on Linux.",
+    "link": "https://www.tomshardware.com/software/linux/amd-leaves-linux-fpga-users-in-the-lurch-with-controversial-vivado-licensing-update-new-tier-model-restricts-future-free-versions-to-windows",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.948301"
+  },
+  {
+    "title": "Intel s new Bartlett Lake flagship loses fight to a four-year-old CPU Core 9 273PQE has 50% more P-cores but can't surpass Core i9-13900K in games",
+    "summary": "German media outlet PC Games Hardware benchmarks the Core 9 273PQE and compares it to modern mainstream processors.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intels-new-bartlett-lake-flagship-loses-fight-to-a-four-year-old-cpu-core-9-273pqe-has-50-percent-more-p-cores-but-cant-surpass-core-i9-13900k-in-games",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-27T11:58:33.948416"
+  },
+  {
+    "title": "Tryx launches new liquid AIO cooler with holographic display uses beam splitters to create a hologram-like display effect inside the pump block",
+    "summary": "The Holo 360 replaces conventional LCD layering with a floating hologram-like image effect.",
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/tryx-launches-new-liquid-aio-cooler-with-holographic-display-uses-beam-splitters-to-create-a-hologram-like-display-effect-inside-the-pump-block",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.948514"
+  },
+  {
+    "title": "3D printing enthusiast smashes 59-second 3DBenchy for new speed world record Minuteman 3D printer with revamped bed motion system breaches minute mark",
+    "summary": "A 3D printing enthusiast broke the 3DBenchy speed record with a cute little boat model printed in 59 seconds.",
+    "link": "https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-smashes-59-second-3dbenchy-for-new-speed-world-record-minuteman-3d-printer-with-revamped-bed-motion-system-breaches-minute-mark",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.948609"
+  },
+  {
+    "title": "Arctic Freezer 36-S Review: Small size, effective performance, low price",
+    "summary": "We tested Arctic s entry-level Freezer 36-S with AMD s Ryzen 9 9950X3D, and it did better than you might expect for a single-tower air cooler.",
+    "link": "https://www.tomshardware.com/pc-components/air-cooling/arctic-freezer-36-s-review",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-27T11:58:33.948705"
+  },
+  {
+    "title": "SK hynix unveils 'iHBM' thermal architecture that cools AI memory at the source integrated cooling elements inside HBM interface cut thermal resistance by 30%, target next-gen HBM5 accelerators and dense AI data centers",
+    "summary": "SK hynix has unveiled iHBM, a new thermal packaging architecture that embeds cooling elements directly into the HBM interface layer, reducing thermal resistance by 30% and helping future AI accelerators avoid performance-killing thermal throttling.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-05-27T11:58:33.948835"
+  },
+  {
+    "title": "Uber chief warns no link yet between AI tokenmaxxing and shipping successful products company pumps the brakes on all-out AI spending",
+    "summary": "Uber might be having a serious rethink about lavishing cash on AI services as management still can't draw a clear link between LLM use and beneficial results.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/uber-chief-warns-no-link-yet-between-ai-tokenmaxxing-and-shipping-successful-products-company-pumps-the-brakes-on-all-out-ai-spending",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.948947"
+  },
+  {
+    "title": "Angry TSMC employees considering strikes, unionization over employee bonuses, report claims company reportedly considering 15% payout cut to fund capex despite record revenues fuelled by AI surge",
+    "summary": "TSMC responded by saying it expects employee profit-sharing bonuses to grow at a faster rate in 2026 than they did in 2025.",
+    "link": "https://www.tomshardware.com/tech-industry/tsmc-employees-threaten-samsung-style-strike-over-rumored-15-percent-bonus-cuts-despite-record-profits",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.949049"
+  },
+  {
+    "title": "Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC third-party OmniDrive firmware unlocks game rips from physical media on select players",
+    "summary": "Third-party firmware has unlocked the ability for Blu-ray players to rip physical game media for retro consoles, transforming the way game preservation and emulation will work for retro gaming enthusiasts.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.949154"
+  },
+  {
+    "title": "AI shrinks zero-day exploit time from a year to a single day, heading toward one minute Zero-Day Clock warns security window has collapsed",
+    "summary": "Zero-Day clock visualizes the effect of AI on software security and predicts that exploits will happen one minute after disclosure in 2027.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.949249"
+  },
+  {
+    "title": "Survey reveals that 99% of CEOs now expect AI-driven layoffs companies are racing to replace junior workers with AI, even as many executives remain uncertain about the returns on AI investments",
+    "summary": "A new Mercer report reveals that 99% of CEOs expect AI-driven layoffs within two years, with entry-level workers facing the biggest threat as companies slash junior roles despite many executives admitting AI investments still show weak or unproven returns.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/survey-reveals-that-99-percent-of-ceos-now-expect-ai-driven-layoffs-companies-are-racing-to-replace-junior-workers-with-ai-even-as-many-executives-remain-uncertain-about-the-returns-on-ai-investments",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.949372"
+  },
+  {
+    "title": "Chinese GPU maker sells out over 30,000 gaming GPUs within 48 hours despite lukewarm benchmarks LX 7G100 proves hype trumps performance",
+    "summary": "Lisuan Tech reports having sold out 30,,000 preorder LX 7G100 graphics cards with a second batch on June 18.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/chinese-gpu-maker-sells-out-over-30-000-gaming-gpus-within-48-hours-despite-lukewarm-benchmarks-lx-7g100-proves-hype-trumps-performance",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-27T11:58:33.949470"
+  },
+  {
+    "title": "Imec builds world's first High-NA EUV-fabricated quantum dot qubit device breakthrough could pull quantum computing onto the same manufacturing roadmap as next-gen AI processors, compressing timelines",
+    "summary": "Imec unveiled the world s first silicon quantum dot qubit device fabricated with High-NA EUV lithography, suggesting quantum computing may eventually scale using the semiconductor industry s existing advanced manufacturing ecosystem.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/imec-builds-worlds-first-high-na-euv-fabricated-quantum-dot-qubit-device-breakthrough-could-pull-quantum-computing-onto-the-same-manufacturing-roadmap-as-next-gen-ai-processors-compressing-timelines",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-27T11:58:33.949586"
+  },
+  {
+    "title": "Testing GPU Safeguard+ on the MSI MPG Ai1600TS PSU solution aims to tame melting 16-pin connectors",
+    "summary": "At CES 2026, MSI unveiled a new lineup of power supplies under its MPG and MAG series. The 2026 MPG models are available in 1600W and 1300W variants and feature server-grade SiC MOSFETs designed to deliver a high level of stability and power efficiency. However, the standout addition is GPU Safeguard+, a new protection system aimed at preventing the overheating and melting issues associated with 12V-2x6 GPU power connectors.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/testing-gpu-safeguard-on-the-msi-mpg-ai1600ts-psu-solution-aims-to-tame-melting-16-pin-connectors",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-27T11:58:33.949706"
+  },
+  {
+    "title": "Save up to $200 on a 13-inch or 15-inch MacBook Air with M5 chip and 16GB of RAM Memorial Day discounts get you Apple's latest and best consumer laptop for as low as $899",
+    "summary": "The MacBook Air is an easy recommendation in the world of laptops thanks to its excellent pillars, featuring a great screen, build quality, performance, keyboard, trackpad, webcam, speakers, and battery life. Apple's latest M5 model can be yours for as low as $899 for the 13-inch version, or $1,099 for the 15-inch mahine.",
+    "link": "https://www.tomshardware.com/pc-components/save-up-to-usd200-on-a-13-inch-or-15-inch-macbook-air-with-m5-chip-and-16gb-of-ram-memorial-day-discounts-get-you-apples-latest-and-best-consumer-laptop-for-as-low-as-usd899",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-05-27T11:58:33.949823"
+  },
+  {
+    "title": "California moves to exempt Linux from its upcoming age-verification law after backlash over forcing operating systems to collect users ages amendment proposed by the same lawmaker who wrote the original law",
+    "summary": "California lawmakers introduced a new amendment that could exempt most Linux distributions from the state s upcoming Digital Age Assurance Act after privacy backlash and concerns that the law would force open-source operating systems to become age-verification platforms.",
+    "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.949935"
+  },
+  {
+    "title": "Star Citizen reaches $1 billion in lifetime funding, 14 years after the project was first announced game still in early access with no release window, including 'Squadron 42' campaign",
+    "summary": "Star Citizen, originally announced back in 2012, has just amassed $1 billion in crowdfunding despite the game still not having any release date. The game is currently expected sometime in 2027-2028, which means it might have to prepare a PS6/Xbox Helix version as well. A single game spanning across four different console generations.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/star-citizen-reaches-usd1-billion-in-lifetime-funding-14-years-after-the-project-was-first-announced-game-still-in-early-access-with-no-release-window-including-squadron-42-campaign",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-27T11:58:33.950056"
+  },
+  {
+    "title": "Huawei claims sanctions-busting breakthrough with 1.4nm-class chips by 2031, claims 55% higher transistor density firm claims new LogicFolding chip architecture can bypass EUV restrictions, introduces 'Tau Scaling Law' to replace Moore's Law",
+    "summary": "Huawei Technologies unveiled a new LogicFolding chip design framework built on its proprietary Tau scaling law, claiming it can dramatically boost transistor density and power efficiency without EUV lithography potentially helping China narrow the gap with TSMC and Nvidia despite U.S. sanctions.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/huawei-claims-sanctions-busting-breakthrough-with-1-4nm-class-chips-by-2031-claims-55-percent-higher-transistor-density-firm-claims-new-logicfolding-chip-architecture-can-bypass-euv-restrictions-introduces-tau-scaling-law-to-replace-moores-law",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-05-27T11:58:33.950178"
+  },
+  {
+    "title": "MuseLab nanoCH32H417 A $17 WCH CH32H417 RISC-V MCU development board with USB 3.0, Fast Ethernet",
+    "summary": "Designed by MuseLab, the nanoCH32H417 is a development board for the WCH CH32H417 dual-core RISC-V MCU, which we covered earlier this year for its USB 3.0 (5 Gbps), UHS, and Fast Ethernet support. At that time, only the official CH32H417 development board was available, but this board adds a third-party option. The board exposes various features of the MCU, including one USB 3.0 port, two USB Type-C ports, a 100Mbps Ethernet interface, and a MicroSD card slot. It also simplifies the prototyping workflow by integrating a WCHLink-E debugger directly onto the board, meaning you won t need to wire up an external programmer to flash the MCU or view serial output. MuseLab nanoCH32H417 specifications: MCU WCH CH32H417QEU6 MCU QingKe RISC-V5F up to 400 MHz QinKe RISC-V3F up to 144 MHz GPU Graphics Processing Hardware Accelerator GPHA Memory 896KB SRAM Storage 960KB Flash Storage MicroSD card slot Display [...] The post MuseLab nanoCH32H417 A $17 WCH CH32H417 RISC-V MCU development board with USB 3.0, Fast Ethernet appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/27/muselab-nanoch32h417-a-17-wch-ch32h417-risc-v-mcu-development-board-with-usb-3-0-fast-ethernet/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-27T11:58:33.950551"
+  },
+  {
+    "title": "LichtBit s open-source ESP32 Art-Net/sACN NeoPixels controller can drive up to 2,720 RGB LEDs",
+    "summary": "Dutch hardware designer LichtBit has launched a fully open-source ESP32-based Art-Net/sACN NeoPixels LED strip controller designed for large-scale lighting installations and custom stage design. Built around an ESP32, the hardware routes lighting data over wired Ethernet or Wi-Fi to manage up to 16 universes of addressable LEDs across 4 dedicated outputs. We have previously written about various NeoPixel LED controllers, such as the xcrhom WLED Type-C, the Adafruit Sparkle Motion Stick, the full-featured Adafruit Sparkle Motion, and others, which are designed for portable lighting setups and standalone animations. But LichtBit s board targets the professional event industry by bridging the gap between commercial live-performance software (such as Resolume Arena, MadMapper, or xLights) and low-cost digital LED strips. LichtBit s Art-Net and sACN LED controller specifications: Development Board Generic ESP32 based developmt board with ESP32-WROOM-32 MCU Display 128 32 I2C OLED display for real-time device configurations, status, and IP mapping Network 10/100Mbps Ethernet via WIZnet W5500 [...] The post LichtBit s open-source ESP32 Art-Net/sACN NeoPixels controller can drive up to 2,720 RGB LEDs appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/27/lichtbit-open-source-esp32-art-net-sacn-neopixels-controller-can-drive-up-to-2720-rgb-leds/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 25,
+    "processed_date": "2026-05-27T11:58:33.950732"
+  },
+  {
+    "title": "ODROID-H5 SBC Review Part 1: Unboxing, Type1 case assembly, and first boot",
+    "summary": "Hardkernel has sent me a kit with the ODROID-H5 10GbE SBC for review. In addition to the Intel Core i3-300 board itself, the kit also comes with an ODROID-H5 Type-1 case, an M.2 card for a second 10 Gbps Ethernet port, and other accessories. I ll start the review with an unboxing, my experience assembling the kit, and first boot using an M.2 NVMe SSD with Ubuntu 24.04 and Windows 11 in a dual-boot configuration. In a few weeks, I ll continue the review after upgrading to Ubuntu 26.04 and perform thorough testing of all features and performance. ODROID-H5 kit unboxing An advantage of the ODROID family is that it s highly flexible, and you can build your own customized system. For this review, Hardkernel sent me a package with the following items: External LED power button H5 Case Type 1 enclosure ODROID-H5 16GB DDR5 SO-DIMM (Crucial) 15V/4A PSU with US plug adapter [...] The post ODROID-H5 SBC Review Part 1: Unboxing, Type1 case assembly, and first boot appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/27/odroid-h5-sbc-review-part-1-unboxing-type1-case-assembly-and-first-boot/",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 15,
-    "processed_date": "2026-05-25T12:06:43.726541"
+    "processed_date": "2026-05-27T11:58:33.950883"
   },
   {
-    "title": "Researchers identify people through ordinary Wi-Fi routers with 99.5% accuracy technique works with standard Wi-Fi routers",
-    "summary": "The system requires no specialized hardware, no access to the target Wi-Fi network, and works even if the person being tracked isn't carrying a wireless device.",
-    "link": "https://www.tomshardware.com/tech-industry/researchers-identify-people-through-ordinary-wi-fi-routers-with-99-percent-accuracy",
+    "title": "PolyCast5 An ESP32-C5 multi-tool remote with dual-band WiFi 6, BLE, ESP-NOW, LoRa, and Infrared Tx/Rx (Crowdfunding)",
+    "summary": "PolyCast5 is a portable, hackable ESP32-C5-based multi-tool remote to control devices through five different core wireless technologies: WiFi 6, Bluetooth LE, ESP-NOW, LoRa, and infrared Tx/Rx. The all-in-one controller can be used for cybersecurity work, a standard IR learning remote control, a voice-enabled password manager, a robotic arm controller, an AI keyboard using the built-in microphone and Bluetooth connectivity, a long-range LoRa remote control, DIY electronics projects through a 4-pin GPIO header, and more. PolyCast5 specifications: Wireless module ESP32-C5-WROOM-1 SoC ESP32-C5 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory 384 KB SRAM on-chip, 8MB PSRAM Storage 320 KB ROM Wireless Connectivity Dual-band (2.4GHz/5 GHz) 802.11ax WiFi 6, with 802.11b/g/n WiFi 4 standard fallback Bluetooth 5.0 Low Energy (LE) 802.15.4 radio for Zigbee 3.0 and Thread 1.3 (note: support not [...] The post PolyCast5 An ESP32-C5 multi-tool remote with dual-band WiFi 6, BLE, ESP-NOW, LoRa, and Infrared Tx/Rx (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/26/polycast5-an-esp32-c5-multi-tool-remote-with-dual-band-wifi-6-ble-esp-now-lora-and-infrared-tx-rx/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-25T12:06:43.726629"
+    "processed_date": "2026-05-27T11:58:33.951059"
   },
   {
-    "title": "Drone breaks world speed record with 453 mph in test run exotic sawtooth carbon fiber propeller blades one of the key advances in the Blackbird design",
-    "summary": "A YouTuber duo unofficially broke the world record using a custom-made carbon fiber propeller blade that featured exotic sawtooth leading edges. The first test ended in a disaster, though, after the drone lost contact and crashed at 393 mph.",
-    "link": "https://www.tomshardware.com/tech-industry/drone-breaks-world-speed-record-with-453-mph-in-test-run-exotic-sawtooth-carbon-fiber-propeller-blades-one-of-the-key-advances-in-the-blackbird-design",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-25T12:06:43.726724"
-  },
-  {
-    "title": "After $2.5 billion Supermicro smuggling bust, Nvidia CEO urges company to fix export control compliance Taiwan also begins to crack down on AI GPU chip smuggling to China",
-    "summary": "Huang told reporters at Songshan Airport that Nvidia insists its partners follow U.S. trade rules.",
-    "link": "https://www.tomshardware.com/tech-industry/jensen-huang-urges-super-micro-to-tighten-compliance",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-25T12:06:43.726802"
-  },
-  {
-    "title": "First ever Cray T3D Supercomputer goes up for auction with $81,000 reserve Europe s fastest supercomputer in June 1996 goes on the block",
-    "summary": "The first Cray T3D supercomputer ever produced, serial number 6001, was recently put up for auction, with opening bids from 60,000 (~$81,000) invited.",
-    "link": "https://www.tomshardware.com/tech-industry/supercomputers/first-ever-cray-t3d-supercomputer-goes-up-for-auction-with-usd81-000-reserve-europes-fastest-supercomputer-in-june-1996-goes-on-the-block",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-25T12:06:43.726875"
-  },
-  {
-    "title": "Steam Machine appears in Vulkan s conformant product database upcoming Valve console is certified compliant with the graphics API",
-    "summary": "The Khronos Group, which created the Vulkan API standard and continues to develop and maintain it, added the Steam Machine to its list of conformant products. This does not indicate how far or soon a product will come to the market, but it's a step in the right direction showing that much-awaited console will arrive... someday.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/steam-machine-appears-in-vulkans-conformant-product-database-upcoming-valve-console-is-certified-compliant-with-the-graphics-api",
+    "title": "WCH BLE Analyzer Pro USB Bluetooth LE sniffer gains Linux software with Wireshark (pcap) support",
+    "summary": "Last November, we wrote about the WCH BLE Analyzer Pro, an inexpensive (~$20) USB Bluetooth LE sniffer and analyzer, which looked useful and good value for reverse engineering and debugging. One downside is that the WCH BLE Analyzer software was only made for Windows 7 to 11, but Xecaz decided to look into it and reverse-engineered the USB protocol to write Linux software using libusb that outputs a standard pcap compatible with popular tools such as Wireshark, or as he puts it: WinChipHead forgot to ship a Linux driver. We forgot to ask permission. As a reminder, the BLE Analyzer Pro features three CH582F Bluetooth LE RISC-V microcontrollers and a CH334 USB hub, supports Bluetooth Low Energy (BLE) 4.0/4.2/5.0, and connects to the host through its USB-C port. The Linux driver for the BLE Analyzer Pro tool can be found on GitHub. Building and installing the software is quick and [...] The post WCH BLE Analyzer Pro USB Bluetooth LE sniffer gains Linux software with Wireshark (pcap) support appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/26/wch-ble-analyzer-pro-usb-bluetooth-le-sniffer-gains-linux-software-with-wireshark-pcap-support/",
     "categories": [
       "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-25T12:06:43.726961"
-  },
-  {
-    "title": "We tested Advanced Shader Delivery on the RX 9070 XT in six games up to 95% improvement in load times and 33 percent faster 1% Low FPS",
-    "summary": "Today, we will take a look at Advanced Shader Delivery (ASD) a new gaming feature aimed at improving the overall user experience by reducing load times dramatically and improving 1% low FPS. We tested six games, measuring up to a 95% improvement in game loading times and solid improvements in 1% Low FPS in some titles.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/we-tested-advanced-shader-delivery-on-the-rx-9070-xt",
-    "categories": [
-      "Tech News",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-25T12:06:43.727045"
+    "processed_date": "2026-05-27T11:58:33.951220"
   },
   {
-    "title": "Ubisoft reportedly testing generative AI in Far Cry 7, insider says it 'looks like sh*t' company recently posted a record 1.3 billion loss",
-    "summary": "Ubisoft is using an early build of its unannounced Far Cry 7 as a testbed for generative AI tools, according to Tom Henderson of Insider Gaming.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ubisoft-reportedly-testing-generative-ai-in-far-cry-7-as-company-posts-record-1-3-billion-loss",
+    "title": "ESPHome 2026.5.0 released with new ESPHome Device Builder (beta), performance/memory optimizations",
+    "summary": "ESPHome 2026.5.0 has just been released with the beta version of the new ESPHome Device Builder web app that replaces the legacy in-tree dashboard with a real configuration editor, a firmware job queue, multi-select bulk actions, labels and areas, out-of-sync detection, cross-config search, distributed builds, and a proper settings UI. The firmware itself gains optimizations of the main loop, scheduler, and task watchdog to lower CPU and power usage on supported platforms, and a range of other memory/performance optimizations across the API, audio, and helper hot paths. The audio decoder pipeline has been improved and features new microMP3, microWAV, and microFLAC streaming libraries. OTA has also been enhanced with partition-table and bootloader updates, web-server OTA, and soft-brick recovery, and ESP32 MCUs are now handled by up to the ESP-IDF v6.0.1 framework natively, while Zigbee support has been expanded to ESP32 H2 and ESP32-C6, among other features. Key features of the [...] The post ESPHome 2026.5.0 released with new ESPHome Device Builder (beta), performance/memory optimizations appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/26/esphome-2026-5-0-released-with-new-esphome-device-builder-beta-performance-memory-optimizations/",
     "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-25T12:06:43.727118"
-  },
-  {
-    "title": "Researcher develops 'spray-on' stealth coating for drones volcanic rock formulation claims to reduce radar return signals by up to 43dB, compared to 20 to 30dB for typical radar absorbent material",
-    "summary": "Users can easily spray on this radar absorbent material on any drone to increase their survivability in contested skies.",
-    "link": "https://www.tomshardware.com/tech-industry/researcher-develops-spray-on-stealth-coating-for-drones-volcanic-rock-formulation-claims-to-reduce-radar-return-signals-by-up-to-43db-compared-to-20-to-30db-for-typical-radar-absorbent-material",
-    "categories": [
-      "AI & ML",
+      "Hardware",
       "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-27T11:58:33.951401"
+  },
+  {
+    "title": "RAKwireless WisMesh Pi HAT RAK6421 turns your Raspberry Pi 4/5 into a modular Meshtastic gateway",
+    "summary": "RAKwireless WisMesh Pi HAT RAK6421 is a modular Meshtastic gateway expansion board for Raspberry Pi 4/5 that adds support for the company s WisBlock ecosystem. Designed for users running meshtasticd (the Linux-native Meshtastic service), it enables scalable, always-on Meshtastic base stations, MQTT gateways, and backbone relay nodes. Unlike other LoRa solutions based on Raspberry Pi, the RAK6421 takes a modular approach. Instead of a built-in radio, it offers two WisBlock IO slots and four sensor slots, allowing users to easily plug in or swap modules. This means you can choose between standard LoRa modules like the RAK13300 or higher-power 1W versions like the RAK13302, without dealing with messy USB adapters or breadboard wiring. RAK6421 WisMesh Pi HAT RAK6421 specifications: Compatibility Raspberry Pi 4, Raspberry Pi 5, and Raspberry Pi Zero 2W SBCs Potentially other SBC with standard 40-pin Raspberry Pi GPIO header (HAT+ compliant) Expansion 2x WisBlock IO slots for LoRa radio [...] The post RAKwireless WisMesh Pi HAT RAK6421 turns your Raspberry Pi 4/5 into a modular Meshtastic gateway appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/26/rakwireless-wismesh-pi-hat-rak6421-turns-your-raspberry-pi-4-5-into-a-modular-meshtastic-gateway/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
     ],
     "quality_score": 0,
-    "processed_date": "2026-05-25T12:06:43.727192"
+    "processed_date": "2026-05-27T11:58:33.951573"
   },
   {
-    "title": "Autonomous ErgoChair Pro Review: Comfortable, but that's it",
-    "summary": "The Autonomous ErgoChair Pro is a solid entry in the ErgoChair line, offering good back support and adjustability. However, it lacks any standout features that separate it from the wide range of office chairs available.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/autonomous-ergochair-pro-review",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-25T12:06:43.727262"
-  },
-  {
-    "title": "Electronics buff hand-draws and etches custom PCBs at home functional home-etched PCB runs a 3D-printed fume extractor fan",
-    "summary": "A maker bored with the staid designs of modern factory-produced PCBs has perfected their own hand-inking and home-etching process.",
-    "link": "https://www.tomshardware.com/maker-stem/electronics-buff-hand-draws-and-etches-custom-pcbs-at-home-functional-home-etched-pcb-runs-a-3d-printed-fume-extractor-fan",
+    "title": "CardputerZero A Raspberry Pi CM0 pocket computer for makers (Crowdfunding)",
+    "summary": "CardputerZero is a pocket-sized computer based on the Raspberry Pi Compute Module Zero (CM0) and designed for makers with a 46-key matrix keyboard, a 1.9-inch LCD, HDMI video output, Fast Ethernet, three USB ports, a microphone and a speaker for voice interaction, a 14-pin GPIO header, a Grove interface, and an IR transceiver (Rx/Tx). The credit card-sized device comes in two models: CardputerZero Lite and CardputerZero. The latter also adds an 8MP camera, a 6-axis IMU, and a 32GB microSD card preloaded with the software. Both models are powered by a rechargeable 1,500 mAh LiPo battery or directly via a USB-C port. Cardputer Zero specifications: SoM Raspberry Pi CM0 Lite SoC Broadcom BCM2710A1 CPU Quad-core Cortex-A53 processor @ 1.0 GHz GPU VideoCore IV GPU supporting OpenGL ES 1.1, 2.0 graphics VPU H.264/MPEG-4 1080p30 video decoding, H.264 1080p30 video encoding System Memory 512MB LPDDR2 RAM Storage [...] The post CardputerZero A Raspberry Pi CM0 pocket computer for makers (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/05/25/cardputerzero-a-raspberry-pi-cm0-pocket-computer-for-makers/",
     "categories": [
       "Hardware",
-      "AI & ML"
+      "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-05-25T12:06:43.727346"
+    "quality_score": 10,
+    "processed_date": "2026-05-27T11:58:33.951735"
   },
   {
-    "title": "New video of melted Bambu Lab A1 sparks debate about whether the 3D printer is still a fire hazard critics push for recall while redditors suspect external factors",
-    "summary": "Bambu Lab is once more in hot water after user Moreiras3D posted a video of a melted A1 3D printer to Instagram. The footage shows an A1 with its side completely melted down to the metal chassis, but some of the key details behind the incident remain unknown.",
-    "link": "https://www.tomshardware.com/3d-printing/new-video-of-melted-bambu-lab-a1-sparks-debate-about-whether-the-a1-3d-printer-is-still-a-fire-hazard-critics-push-for-recall-while-redditors-suspect-external-factors",
+    "title": "Research at UAB underway on wearables that are thin and durable",
+    "summary": "A thin network of molybdenum disulfide ribbons is about to enter a proof of concept for durable ultra-thin sensing that could be worn over longer periods on human skin.",
+    "link": "https://www.fiercesensors.com/sensors/research-uab-underway-wearables-are-thin-and-durable",
     "categories": [
-      "AI & ML"
+      "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-05-25T12:06:43.727425"
+    "quality_score": 10,
+    "processed_date": "2026-05-27T11:58:33.952590"
   },
   {
-    "title": "Cyberpunk 2077 cosplay jacket features a $1,200 flexible OLED collar that you can game on with a Steam Controller dual Raspberry Pi 4s power the wearable tech",
-    "summary": "A robotics and animatronic cosplay enthusiast has made a real-life Cyberpunk 2077 NUSA Infiltrator jacket with a built-in collar display.",
-    "link": "https://www.tomshardware.com/peripherals/wearable-tech/cyberpunk-2077-cosplay-jacket-features-a-usd1-200-flexible-oled-collar-that-you-can-actually-play-games-on-with-a-steam-controller-dual-raspberry-pi-4s-power-the-wearable-tech",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-25T12:06:43.727496"
-  },
-  {
-    "title": "Commercial satellite supplying intel to Ukraine is cornered by four Russian spacecraft US Space Force can only watch as Russia threatens 'quasi-civilian' targets",
-    "summary": "These Russian satellites are getting uncomfortably close to a U.S.- and European-operated radar satellite, particularly in Ukraine, used for reconnaissance missions. While their intentions are unclear, these maneuvers consume a lot of fuel and are not typically undertaken by other satellites.",
-    "link": "https://www.tomshardware.com/tech-industry/russia-moves-four-satellites-to-close-gap-with-commercial-radar-satellite-delivering-intelligence-to-ukraine-while-fifth-satellite-makes-similar-move-us-officials-believe-some-of-them-to-be-part-of-an-anti-satellite-weapons-program",
+    "title": "Best of Sensors: Electro Scan s Solar Drone Wins Ag & Enviro",
+    "summary": "Solar Drone by Electro Scan inspects and cleans solar arrays using imaging sensors and can navigate mountains and rooftops. The product won Best of Sensors 2026 in the ag and environmental category.",
+    "link": "https://www.fiercesensors.com/sensors/best-sensors-electro-scans-solar-drone-wins-ag-enviro",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-25T12:06:43.727580"
+    "processed_date": "2026-05-27T11:58:33.952738"
   },
   {
-    "title": "Khadas Mind Graphics 2 review A powerful NVIDIA Geforce RTX 5060 Ti eGPU dock for the Mind 2 mini PC",
-    "summary": "Earlier this month, I received the Khadas Mind 2 (Intel Core Ultra 7 155H) mini PC with two accessories connecting through the Mind Link (PCIe x8) connector: The Mind xPlay Display and Keyboard combo, and the Mind Graphics 2 dock, adding a range of interfaces and an NVIDIA GeForce RTX 5060 Ti GPU with 16GB of VRAM. After going through the specifications, an unboxing, and a partial teardown in the first part of the review, I tested the Mind xPlay using the Mind and Mind 2 mini PCs running Windows 11 and Ubuntu 24.04. I ve now had time to test the Khadas Mind Graphics 2 dock with the Mind 2 mini PC running Windows 11, so I ll report my experience with the NVIDIA GPU (3D graphics and AI), and test all features, including 2.5GbE networking, the built-in speakers, microphone array, and so on. A few gremlins and system info When [...] The post Khadas Mind Graphics 2 review A powerful NVIDIA Geforce RTX 5060 Ti eGPU dock for the Mind 2 mini PC appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/25/khadas-mind-graphics-2-review-a-powerful-nvidia-geforce-rtx-5060-ti-egpu-dock-for-the-mind-2-mini-pc/",
+    "title": "Sam Altman is \"delighted\" his AI jobs apocalypse prediction was wrong",
+    "summary": "Speaking virtually at a Commonwealth Bank of Australia (CBA) conference in Sydney, Australia, Altman admitted that his early prediction that entire job classes would be wiped out by AI has not come true at least not yet. Read Entire Article",
+    "link": "https://www.techspot.com/news/112543-sam-altman-delighted-ai-jobs-apocalypse-prediction-wrong.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.953126"
+  },
+  {
+    "title": "Nvidia Vera CPU impresses in early Nvidia-sanctioned benchmarks",
+    "summary": "Michael Larabel from Phoronix recently called Nvidia's Vera datacenter CPU the fastest Arm Linux processor he has tested in the outlet's 22-year history. However, since he conducted the benchmarks in a controlled environment at the company's Santa Clara headquarters, the results can hardly be considered definitive. Read Entire Article",
+    "link": "https://www.techspot.com/news/112537-nvidia-vera-cpu-impresses-early-nvidia-sanctioned-benchmarks.html",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-27T11:58:33.953246"
+  },
+  {
+    "title": "SK Hynix is embedding cooling into HBM memory to stop AI chips from overheating",
+    "summary": "SK Hynix has introduced iHBM, a high-bandwidth memory packaging solution that changes how and where heat is managed inside the package. Rather than relying on conventional methods that pull heat away from the chip after it accumulates, SK Hynix is placing cooling structures directly at the source. Read Entire Article",
+    "link": "https://www.techspot.com/news/112532-sk-hynix-embedding-cooling-hbm-memory-stop-ai.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.953392"
+  },
+  {
+    "title": "Nvidia retires the classic GeForce Control Panel after 20 years",
+    "summary": "Nvidia has retired its long-running Control Panel software for GeForce users, ending more than two decades of one of PC gaming's most recognizable utilities. Future Game Ready and Studio driver updates will now focus entirely on the newer Nvidia App , which combines driver and graphics settings, recording tools, and game optimizations into a single interface. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7608-nvidia-app.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.953511"
+  },
+  {
+    "title": "Pope Leo XIV says humanity needs to disarm AI before it's too late",
+    "summary": "The remarks come from an 82-page text called Magnifica Humanitas (translated as Magnificent Humanity), the first encyclical of his papacy, released on May 25. An encyclical is a pope's official teaching letter to the Catholic Church, outlining his priorities for the Church's 1.4 billion members. For Leo, the priority appears... Read Entire Article",
+    "link": "https://www.techspot.com/news/112526-pope-leo-xiv-humanity-needs-disarm-ai-before.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-27T11:58:33.953624"
+  },
+  {
+    "title": "Micron just made the most advanced DRAM ever produced in the US, and it's not for your PC",
+    "summary": "Micron is introducing its 1 (1-alpha) DRAM memory technology to the US, bringing \"home\" an advanced manufacturing process that should deliver significant improvements in industrial memory chips. The company recently announced the expansion of its Manassas, Virginia facility, where the node will be used to ramp up DDR4 wafer production. Read Entire Article",
+    "link": "https://www.techspot.com/news/112525-micron-made-most-advanced-dram-ever-produced-us.html",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-27T11:58:33.953740"
+  },
+  {
+    "title": "Windows Secure Boot certificates set to expire in June here's what it means for your PC",
+    "summary": "In an Ask Microsoft Anything livestream on YouTube, Microsoft Principal Security Engineer Arden White, Principal Software Architect Scott Shell, and Group Engineering Manager Richard Powell answered a range of questions about Secure Boot, including its importance for Windows devices, how to update to the latest version, and what could happen... Read Entire Article",
+    "link": "https://www.techspot.com/news/112527-windows-secure-boot-certificates-set-expire-june-here.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.953853"
+  },
+  {
+    "title": "007 First Light reviews call the spy thriller one of the best Bond games ever made",
+    "summary": "007 First Light is earning strong early reviews, with critics praising its mix of stealth, cinematic action, gadget-driven gameplay, and globe-trotting spy missions. Several outlets are already calling it one of the best James Bond games ever made, highlighting its replayability and authentic Bond atmosphere. Read Entire Article",
+    "link": "https://www.techspot.com/products/pc-games/007-first-light.325373/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-27T11:58:33.953964"
+  },
+  {
+    "title": "TSMC workers threaten Samsung-style strike over rumored bonus cuts despite record profits",
+    "summary": "The anger appears to have been sparked by claims that TSMC is considering reducing some employee payouts by as much as 15%, with staff arguing that the company is asking workers to help pay for its enormous expansion plans. Read Entire Article",
+    "link": "https://www.techspot.com/news/112534-tsmc-workers-threaten-samsung-style-strike-over-rumored.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.954067"
+  },
+  {
+    "title": "AMD targets TSMC's A14 node for Zen 7, pushing server chips into the angstrom era",
+    "summary": "According to a report from Taiwan's Commercial Times, AMD is considering TSMC's A14 process node for its Zen 7 generation. Such a move would push AMD into the angstrom-era of semiconductor manufacturing for the first time, taking the company beyond the traditional cadence of incremental node shrinks and into a... Read Entire Article",
+    "link": "https://www.techspot.com/news/112531-amd-eyes-tsmc-a14-node-zen-7-bringing.html",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.954182"
+  },
+  {
+    "title": "Starbucks tried using AI to count syrup bottles it kept hallucinating the inventory",
+    "summary": "After a nine-month pilot turned out to be a dud, Starbucks recently decided to retire a new AI-based tool designed to ease its inventory management pains. The coffeehouse chain tried to bring more automation into its stores' beverage inventory, but it was ultimately forced to admit that human workers are... Read Entire Article",
+    "link": "https://www.techspot.com/news/112524-starbucks-tried-using-ai-count-syrup-bottles-kept.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.954289"
+  },
+  {
+    "title": "People without lawyers are using AI to flood courts with lawsuits",
+    "summary": "The New York Times highlights the case of Donald Sauve, a Minnesota man who sued his ex-wife, her lawyer, and a state judge after an earlier legal challenge was rejected as frivolous. His first handwritten complaint, which sought $275,000 in damages, was dismissed in less than a month for lack... Read Entire Article",
+    "link": "https://www.techspot.com/news/112533-people-without-lawyers-using-ai-flood-courts-lawsuits.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.954421"
+  },
+  {
+    "title": "DriftGuard update lets Xbox gamers fix stick drift without replacing controllers",
+    "summary": "DriftGuard first gained attention in 2024 for its work with PlayStation controllers, offering deeper calibration tools than Sony provides out of the box. Until now, DriftGuard has been far less useful on Xbox hardware because of restrictions on how calibration data is stored and accessed. Read Entire Article",
+    "link": "https://www.techspot.com/news/112528-driftguard-update-xbox-gamers-fix-stick-drift-without.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.954534"
+  },
+  {
+    "title": "Crewless warship concept pushes autonomous naval warfare closer to reality",
+    "summary": "Developed by Navantia's UK arm, the Large Autonomous Surface Vessel 75, or LASV75, is aptly named. It's a 75-meter-long surface vessel designed from the keel up to operate without a crew. That puts it at roughly half the length of a Type 45 destroyer and closer to a River-class patrol... Read Entire Article",
+    "link": "https://www.techspot.com/news/112530-crewless-warship-concept-pushes-autonomous-naval-warfare-closer.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.954642"
+  },
+  {
+    "title": "Linus Torvalds is fed up with AI-generated bug reports bloating the Linux kernel",
+    "summary": "In his weekly state of the kernel update, Torvalds noted that the new RC5 is much larger than any other RC5 in recent memory, and he blamed developers for using AI to submit \"pointless pull requests.\" Torvalds added that he is \"not entirely happy\" about the additional bloat, especially because... Read Entire Article",
+    "link": "https://www.techspot.com/news/112523-linus-torvalds-fed-up-ai-generated-bug-reports.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.954750"
+  },
+  {
+    "title": "Ferrari's first EV brings 1,000 horsepower, four motors, a $640,000 price tag, and Jony Ive design input",
+    "summary": "The Luce runs on a new architecture with a four-motor layout one motor at each wheel that produces just over 1,000 horsepower in its most aggressive mode. The setup allows for precise, independent control at each corner of the car. Read Entire Article",
+    "link": "https://www.techspot.com/news/112521-ferrari-first-full-ev-brings-1000-horsepower-four.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-27T11:58:33.954853"
+  },
+  {
+    "title": "China's first credible gaming GPU sells 30,000 units in 48 hours, despite RTX 3060-level performance",
+    "summary": "As we reported last week, the LX 7G100 is more impressive as a milestone for China than as a value proposition. A review of the 12GB card showed it running a range of modern games with few major crashes, which is no small achievement for a new GPU vendor using... Read Entire Article",
+    "link": "https://www.techspot.com/news/112529-china-first-credible-gaming-gpu-sells-30000-units.html",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 15,
-    "processed_date": "2026-05-25T12:06:43.728008"
+    "processed_date": "2026-05-27T11:58:33.954967"
   },
   {
-    "title": "Monitor live traffic from V2X signals with V2X2MAP open-source Android app and an ESP32-C5 development board",
-    "summary": "Yesterday, I wrote about the OpenTrafficMap ESP32-C5 C-ITS receiver board to monitor and potentially optimize traffic using 802.11p / ITS-G5 V2X communication over 5.9 GHz WiFi 6, and map all detected nodes on the OpenTrafficMap website. Peter Holzhauser (Pit711) forked the ESP32-C5 C-ITS receiver firmware to port it to the Waveshare ESP32-C5-WIFI6-KIT development board and added BLE streaming. He also designed the V2X2MAP open-source Android app to interface with the board (since 5GHz WiFi on phones can t usually handle 802.11p), and a Windows installer to flash the firmware. While the ESP32-C5 C-ITS receiver board integrates an ESP32-C5-WROOM-1 module, a GPS module, and an Ethernet port with PoE, the V2X2MAP project leverages any recent Android smartphone with a USB OTG port and GPS, so you can simply connect most ESP32-C5 boards to monitor live traffic at proximity (a few hundred meters to several kilometers) on your phone including traffic lights, public [...] The post Monitor live traffic from V2X signals with V2X2MAP open-source Android app and an ESP32-C5 development board appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/25/monitor-live-traffic-from-v2x-signals-with-v2x2map-open-source-android-app-and-an-esp32-c5-development-board/",
+    "title": "Unreal Engine 6 is coming in 2028, aims to streamline live-service game development",
+    "summary": "At the Rocket League Championship Series Paris Major, Epic-owned studio Psyonix showed a version of Rocket League running on Unreal Engine 6, offering the first public look at updated visuals alongside the engine's new purple logo. Read Entire Article",
+    "link": "https://www.techspot.com/news/112513-unreal-engine-6-coming-2028-aims-streamline-live.html",
     "categories": [
-      "Hardware",
-      "Semiconductors"
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-25T12:06:43.728141"
+    "processed_date": "2026-05-27T11:58:33.955070"
   },
   {
-    "title": "Was Ray Tracing a Scam?",
-    "summary": "Eight years after Nvidia promised ray tracing would revolutionize gaming, most gamers still disable it. So what happened, and did RTX buyers get sold a fantasy instead of the future? Read Entire Article",
-    "link": "https://www.techspot.com/article/3126-ray-tracing-scam/",
+    "title": "Star Citizen crosses $1 billion in crowdfunding as Chris Roberts eyes version 1.0",
+    "summary": "Just one year after reaching $800 million in its unrelenting funding spree, Star Citizen has now crossed yet another significant milestone. The overly ambitious space trading and combat simulator, developed by Cloud Imperium Games, has officially raised more than $1 billion from enthusiasts and early backers. Game director Chris Roberts,... Read Entire Article",
+    "link": "https://www.techspot.com/news/112514-star-citizen-crosses-1-billion-crowdfunding-chris-roberts.html",
     "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-25T12:06:43.729180"
-  },
-  {
-    "title": "HP BIOS updates are bricking premium laptops through Windows Update",
-    "summary": "One case in April involved a ZBook Ultra G1a owner who said a firmware update left the machine unable to start and caused it to freeze completely during the boot process. Similar complaints have appeared elsewhere online, including Reddit, describing the same kind of boot problems after installing recent BIOS... Read Entire Article",
-    "link": "https://www.techspot.com/news/112518-hp-bios-updates-bricking-premium-laptops-through-windows.html",
-    "categories": [
-      "Hardware",
+      "Tech News",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-25T12:06:43.729318"
+    "processed_date": "2026-05-27T11:58:33.955184"
   },
   {
-    "title": "This $82 USB cable hides a Wi-Fi microcontroller inside its connector",
-    "summary": "A USB cable is not typically something that raises eyebrows. Most people plug one in and move on. But a Kickstarter device is challenging that assumption by packing a surprising amount of computing power into something that looks completely ordinary. Read Entire Article",
-    "link": "https://www.techspot.com/news/112512-82-usb-cable-hides-wi-fi-microcontroller-inside.html",
+    "title": "Microsoft's latest Copilot idea is a pinnable sidebar that steals your screen real estate",
+    "summary": "Granted, the core Copilot experience remains unchanged in the latest update, but according to Windows Latest, a new drop-down menu on the title bar introduces four snapping options, letting users dock the assistant to the left or right edge of the screen or keep it in a standard resizable window.... Read Entire Article",
+    "link": "https://www.techspot.com/news/112522-microsoft-latest-copilot-idea-pinnable-sidebar-steals-screen.html",
     "categories": [
-      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-25T12:06:43.729437"
+    "processed_date": "2026-05-27T11:58:33.955294"
   },
   {
-    "title": "Tesla's Cybercab just became the most efficient EV ever built",
-    "summary": "On paper, the number is striking. In practice, it reflects a very different kind of vehicle. Read Entire Article",
-    "link": "https://www.techspot.com/news/112511-tesla-cybercab-became-most-efficient-ev-ever-built.html",
+    "title": "Drone speed record falls again as Blackbird hits 453 mph using custom carbon fiber propellers",
+    "summary": "The Blackbird, built by the Drone Pro Hub duo, hit 730 km/h, or about 453.6 mph, during a downwind run on the second day of testing. Its return leg into heavy wind topped out at 640 km/h, giving the pair a two-way average of 685 km/h, or about 425.6 mph. Read Entire Article",
+    "link": "https://www.techspot.com/news/112516-drone-speed-record-falls-again-blackbird-hits-453.html",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-05-25T12:06:43.729532"
-  },
-  {
-    "title": "This wearable $2,000 AI exoskeleton wants to turn your legs into hybrid hardware",
-    "summary": "The hardware looks straightforward at first glance: a waist belt connected to hinged braces along the thighs, but the mechanics beneath do more than stabilize movement. The system uses dual hip-mounted motors that can draw up to 1,000 watts, pushing carbon-fiber linkages that add force to each step. Instead of... Read Entire Article",
-    "link": "https://www.techspot.com/news/112509-wearable-2000-ai-exoskeleton-wants-turn-legs-hybrid.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-25T12:06:43.729647"
+    "processed_date": "2026-05-27T11:58:33.955422"
+  },
+  {
+    "title": "Huawei says it can build 1.4nm chips without ASML's most advanced machines",
+    "summary": "The approach, still in development, aims to produce processors that reach transistor densities comparable to a 1.4-nanometer process by 2031. That level of density is widely viewed as the next milestone for leading chipmakers such as Intel, TSMC, and Samsung Electronics, all of which rely on extreme ultraviolet lithography systems... Read Entire Article",
+    "link": "https://www.techspot.com/news/112519-huawei-now-can-build-14nm-class-chips-without.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-27T11:58:33.955537"
+  },
+  {
+    "title": "99% of executives expect AI to trigger layoffs within two years, survey finds",
+    "summary": "Consulting firm Mercer's Global Talent Trends report covers several AI-related topics. The most depressing finding is that virtually every one of the 825 C-suite leaders who participated expects AI to lead to at least some headcount reduction in the next two years. Read Entire Article",
+    "link": "https://www.techspot.com/news/112520-99-executives-expect-ai-trigger-layoffs-within-two.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-27T11:58:33.955644"
   }
 ]

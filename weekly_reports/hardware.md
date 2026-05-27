@@ -1,125 +1,265 @@
 # 💻 Hardware
-**Week of May 25, 2026**
+**Week of May 27, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-05-25 12:07
+- **Articles this week:** 25
+- **Report generated:** 2026-05-27 12:00
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Super Flower Leadex 2800W ATX 3.1 power supply review: Top-notch build quality, exceptional efficiency ⭐
+### 1. LichtBit s open-source ESP32 Art-Net/sACN NeoPixels controller can drive up to 2,720 RGB LEDs ⭐
 
-The Super Flower Leadex 2800W power supply boasts top-notch build quality and exceptional efficiency, but at an extreme price.
+LichtBit's open-source ESP32 Art-Net/sACN NeoPixels controller drives up to 2,720 RGB LEDs, targeting the professional event industry with large-scale lighting installations and custom stage design.
 
-💡 *Unparalleled efficiency and quality in a high-end power supply solution.*
+💡 *Professional-grade LED control for events at an affordable, open-source cost*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/super-flower-leadex-2800w-atx-3-1-power-supply-review)
-
----
-
-### 2. Khadas Mind Graphics 2 review A powerful NVIDIA Geforce RTX 5060 Ti eGPU dock for the Mind 2 mini PC ⭐
-
-The Khadas Mind Graphics 2 dock is reviewed with the Mind 2 mini PC, featuring an NVIDIA GeForce RTX 5060 Ti GPU. The review tests the dock's features, including 2.5GbE networking, speakers, and microphone array. The Mind 2 mini PC with the dock is tested running Windows 11.
-
-💡 *Powerful eGPU dock unlocks high-end gaming and AI capabilities*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/25/khadas-mind-graphics-2-review-a-powerful-nvidia-geforce-rtx-5060-ti-egpu-dock-for-the-mind-2-mini-pc/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/27/lichtbit-open-source-esp32-art-net-sacn-neopixels-controller-can-drive-up-to-2720-rgb-leds/)
 
 ---
 
-### 3. Researchers identify people through ordinary Wi-Fi routers with 99.5% accuracy technique works with standard Wi-Fi routers 
+### 2. Arctic Freezer 36-S Review: Small size, effective performance, low price ⭐
 
-Researchers have developed a technique to identify individuals using standard Wi-Fi routers with 99.5% accuracy without any specialized hardware or access to the target network.
+The Arctic Freezer 36-S air cooler impressed with its performance, exceeding expectations. This single-tower cooler effectively handled a high-power processor, the AMD Ryzen 9 9950X3D. Its compact size and affordability make it a valuable option.
 
-💡 *Mass surveillance through public Wi-Fi is now a major concern*
+💡 *Effective performance at a low price, surprising for an entry-level cooler.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/researchers-identify-people-through-ordinary-wi-fi-routers-with-99-percent-accuracy)
-
----
-
-### 4. Monitor live traffic from V2X signals with V2X2MAP open-source Android app and an ESP32-C5 development board 
-
-The V2X2MAP Android app, paired with an ESP32-C5 board, enables monitoring live traffic from V2X signals, leveraging 802.11p/ITS-G5 communication and GPS capabilities on recent Android smartphones.
-
-💡 *Real-time traffic monitoring using V2X signals on Android devices.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/25/monitor-live-traffic-from-v2x-signals-with-v2x2map-open-source-android-app-and-an-esp32-c5-development-board/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/arctic-freezer-36-s-review)
 
 ---
 
-### 5. First ever Cray T3D Supercomputer goes up for auction with $81,000 reserve Europe s fastest supercomputer in June 1996 goes on the block 
+### 3. MuseLab nanoCH32H417 A $17 WCH CH32H417 RISC-V MCU development board with USB 3.0, Fast Ethernet ⭐
 
-The first Cray T3D supercomputer, serial number 6001, is up for auction with a $81,000 reserve. The supercomputer, Europe's fastest in June 1996, is a piece of computing history. Potential buyers can submit opening bids from $60,000.
+MuseLab's nanoCH32H417 is a development board for the WCH CH32H417 RISC-V MCU, featuring USB 3.0, Fast Ethernet, and a built-in debugger. It offers a compact and cost-effective solution for prototyping and development. The board exposes various features of the MCU, including USB ports, Ethernet interface, and a MicroSD card slot.
 
-💡 *Historic computing technology up for sale to the highest bidder.*
+💡 *Cost-effective RISC-V development board for USB 3.0 and Ethernet projects.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/supercomputers/first-ever-cray-t3d-supercomputer-goes-up-for-auction-with-usd81-000-reserve-europes-fastest-supercomputer-in-june-1996-goes-on-the-block)
-
----
-
-### 6. Steam Machine appears in Vulkan s conformant product database upcoming Valve console is certified compliant with the graphics API 
-
-The Steam Machine has been added to the Vulkan conformant product database. This indicates that the console meets the graphics API standard. The certification is a step towards a potential release.
-
-💡 *Vulkan certification is a crucial step for Steam Machine's market readiness.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/steam-machine-appears-in-vulkans-conformant-product-database-upcoming-valve-console-is-certified-compliant-with-the-graphics-api)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/27/muselab-nanoch32h417-a-17-wch-ch32h417-risc-v-mcu-development-board-with-usb-3-0-fast-ethernet/)
 
 ---
 
-### 7. Electronics buff hand-draws and etches custom PCBs at home functional home-etched PCB runs a 3D-printed fume extractor fan 
+### 4. ODROID-H5 SBC Review Part 1: Unboxing, Type1 case assembly, and first boot ⭐
 
-A maker has developed a hand-drawn and etched PCB process at home, using a 3D-printed fume extractor fan to create functional and unique printed circuit boards.
+The reviewer unboxes the ODROID-H5 10GbE SBC kit, assembles the Type-1 case, and performs a successful first boot with Ubuntu 24.04 and Windows 11 in a dual-boot configuration.
 
-💡 *Custom PCBs empower makers to design and build without mass production constraints.*
+💡 *ODROID-H5 offers flexible, customizable builds with high performance features.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/electronics-buff-hand-draws-and-etches-custom-pcbs-at-home-functional-home-etched-pcb-runs-a-3d-printed-fume-extractor-fan)
-
----
-
-### 8. Cyberpunk 2077 cosplay jacket features a $1,200 flexible OLED collar that you can game on with a Steam Controller dual Raspberry Pi 4s power the wearable tech 
-
-A cosplay enthusiast created a Cyberpunk 2077 jacket with a flexible OLED collar, featuring a dual Raspberry Pi 4 power source and integration with a Steam Controller for gaming capabilities.
-
-💡 *Advancements in wearable tech blur lines between gaming and real-life fashion.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/cyberpunk-2077-cosplay-jacket-features-a-usd1-200-flexible-oled-collar-that-you-can-actually-play-games-on-with-a-steam-controller-dual-raspberry-pi-4s-power-the-wearable-tech)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/27/odroid-h5-sbc-review-part-1-unboxing-type1-case-assembly-and-first-boot/)
 
 ---
 
-### 9. HP BIOS updates are bricking premium laptops through Windows Update 
+### 5. ESPHome 2026.5.0 released with new ESPHome Device Builder (beta), performance/memory optimizations ⭐
 
-HP BIOS updates through Windows Update are bricking some premium laptops, causing boot issues and freezing. Similar complaints have appeared online, describing the same kind of problems after installing recent BIOS updates. This has left affected users with non-functional devices.
+The ESPHome 2026.5.0 release introduces the beta ESPHome Device Builder, a configuration editor, and various performance optimizations.
 
-💡 *Faulty BIOS updates can render high-end laptops useless permanently.*
+💡 *Significant improvements in performance, memory usage, and features for ESPHome users.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112518-hp-bios-updates-bricking-premium-laptops-through-windows.html)
-
----
-
-### 10. This $82 USB cable hides a Wi-Fi microcontroller inside its connector 
-
-A Kickstarter device packs a Wi-Fi microcontroller inside a standard-looking USB cable, challenging the typical assumption of what a USB cable can do.
-
-💡 *Hiding computing power in everyday objects expands possibilities for IoT applications.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112512-82-usb-cable-hides-wi-fi-microcontroller-inside.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/26/esphome-2026-5-0-released-with-new-esphome-device-builder-beta-performance-memory-optimizations/)
 
 ---
 
-### 11. This wearable $2,000 AI exoskeleton wants to turn your legs into hybrid hardware 
+### 6. China's first credible gaming GPU sells 30,000 units in 48 hours, despite RTX 3060-level performance ⭐
 
-A $2,000 AI exoskeleton enhances leg movement with dual hip-mounted motors, adding force to each step. The system uses carbon-fiber linkages and hinged braces for stability. This wearable technology aims to turn legs into hybrid hardware.
+China's LX 7G100 GPU sells 30,000 units in 48 hours, despite mid-range performance. The card performed well in modern games, showing few major crashes. This marks a milestone for new Chinese GPU vendors.
 
-💡 *Revolutionizing mobility with AI-powered leg enhancement technology advancements.*
+💡 *Chinese GPU market gains traction despite performance not exceeding expectations.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112509-wearable-2000-ai-exoskeleton-wants-turn-legs-hybrid.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112529-china-first-credible-gaming-gpu-sells-30000-units.html)
+
+---
+
+### 7. Intel s new Bartlett Lake flagship loses fight to a four-year-old CPU Core 9 273PQE has 50% more P-cores but can't surpass Core i9-13900K in games 
+
+Intel's new flagship processor, Core 9 273PQE, failed to surpass the Core i9-13900K in gaming benchmarks despite having 50% more P-cores. The Core i9-13900K's performance edges out the newer processor in various games. PC Games Hardware conducted the comparison.
+
+💡 *Gaming performance matters more than core count*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-new-bartlett-lake-flagship-loses-fight-to-a-four-year-old-cpu-core-9-273pqe-has-50-percent-more-p-cores-but-cant-surpass-core-i9-13900k-in-games)
+
+---
+
+### 8. PolyCast5 An ESP32-C5 multi-tool remote with dual-band WiFi 6, BLE, ESP-NOW, LoRa, and Infrared Tx/Rx (Crowdfunding) 
+
+PolyCast5 is a portable, hackable ESP32-C5-based remote controller offering five wireless technologies. It can be used for various applications such as cybersecurity, voice password management, and DIY electronics projects. The device features a powerful RISC-V processor, dual-band WiFi 6, and other advanced wireless connectivity options.
+
+💡 *Comprehensive wireless multi-tool for cybersecurity and IoT enthusiasts*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/26/polycast5-an-esp32-c5-multi-tool-remote-with-dual-band-wifi-6-ble-esp-now-lora-and-infrared-tx-rx/)
+
+---
+
+### 9. CardputerZero A Raspberry Pi CM0 pocket computer for makers (Crowdfunding) 
+
+CardputerZero is a compact Raspberry Pi CM0 computer for makers with a range of features, including a keyboard, LCD, and camera. It comes in two models: CardputerZero Lite and CardputerZero, with the latter adding an 8MP camera and 6-axis IMU. The credit card-sized device is powered by a rechargeable battery or USB-C port.
+
+💡 *Compact maker computer with versatile features and camera capabilities released.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/25/cardputerzero-a-raspberry-pi-cm0-pocket-computer-for-makers/)
+
+---
+
+### 10. Nvidia Vera CPU impresses in early Nvidia-sanctioned benchmarks 
+
+Nvidia's Vera datacenter CPU has shown impressive performance in early benchmarks, surpassing expectations. The results, however, are still considered non-definitive due to the controlled environment. Further testing is needed to confirm its capabilities.
+
+💡 *Nvidia Vera's speed may revolutionize Arm-based Linux datacenter processing.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112537-nvidia-vera-cpu-impresses-early-nvidia-sanctioned-benchmarks.html)
+
+---
+
+### 11. Micron just made the most advanced DRAM ever produced in the US, and it's not for your PC 
+
+Micron introduces 1-alpha DRAM technology in the US for industrial use, expanding production at its Manassas, Virginia facility.
+
+💡 *Advances in industrial memory chips benefit applications beyond consumer electronics.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112525-micron-made-most-advanced-dram-ever-produced-us.html)
+
+---
+
+### 12. 007 First Light reviews call the spy thriller one of the best Bond games ever made 
+
+Critics praise 007 First Light for its stealth, action, and gadget-driven gameplay. The game's mix of globe-trotting spy missions and authentic Bond atmosphere has earned it a spot among the best James Bond games. Strong early reviews highlight its replayability.
+
+💡 *Authentic Bond experience sets new standard for spy thrillers*
+
+🔗 [Read Full Article](https://www.techspot.com/products/pc-games/007-first-light.325373/)
+
+---
+
+### 13. Save a massive $950 on this RTX 5090 OLED gaming laptop right now 16-inch Legion Pro 7i features a 240Hz refresh rate, 32GB DDR5, 2TB SSD, and more for just $3,049 
+
+B&H Photo has discounted the Lenovo Legion Pro 7i gaming laptop by $950, offering a powerful RTX 5090 laptop with an 16-inch OLED display and advanced features for $3,049.
+
+💡 *Affordable high-end gaming laptops now more accessible to consumers.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-a-massive-usd950-on-this-rtx-5090-oled-gaming-laptop-right-now-16-inch-legion-pro-7i-features-a-240hz-refresh-rate-32gb-ddr5-2tb-ssd-and-more-for-just-usd3-049)
+
+---
+
+### 14. Taiwan authorities arrest three on suspicion of smuggling Nvidia chips to China operation allegedly used Japan as transshipment point before forwarding banned Supermicro servers to Hong Kong 
+
+Taiwan authorities arrested three suspects for smuggling Nvidia AI chips to China. The operation allegedly used Japan as a transshipment point, shipping banned Supermicro servers to Hong Kong via Taiwan. The individuals reportedly used falsified documentation to conceal the shipment.
+
+💡 *Escalating chip shortages fuel global tech smuggling and security concerns.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/taiwan-authorities-arrest-three-on-suspicion-of-smuggling-nvidia-chips-to-china-operation-allegedly-used-japan-as-transshipment-point-before-forwarding-banned-supermicro-servers-to-hong-kong)
+
+---
+
+### 15. Best Buy has slashed $1,000 off this RTX 5070 OLED gaming laptop with Intel Core Ultra 9 275HX Lenovo Legion Pro now just $1,749, includes 32GB of RAM and 1TB SSD 
+
+Best Buy offers a $1,000 discount on the Lenovo Legion Pro 5i 16" gaming laptop, now priced at $1,749. This deal includes 32GB of RAM and 1TB SSD. The laptop features an Intel Core Ultra 9 275HX processor and an RTX 5070 OLED display.
+
+💡 *Significant cost savings for high-end gaming laptops at Best Buy.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/best-buy-has-slashed-usd1-000-off-this-rtx-5070-oled-gaming-laptop-with-intel-core-ultra-9-275hx-lenovo-legion-pro-now-just-usd1-749-includes-32gb-of-ram-and-1tb-ssd)
+
+---
+
+### 16. AMD leaves Linux FPGA users in the lurch with controversial Vivado licensing update new tier model restricts future free versions to Windows 
+
+AMD has updated Vivado licensing, restricting free versions on Linux to users who use Windows for development. This change has been met with criticism from Linux FPGA users, who claim it is a 'bait-and-switch' tactic. The update has left users feeling abandoned by AMD.
+
+💡 *AMD's business model change hurts Linux FPGA user base trust*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/amd-leaves-linux-fpga-users-in-the-lurch-with-controversial-vivado-licensing-update-new-tier-model-restricts-future-free-versions-to-windows)
+
+---
+
+### 17. Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC third-party OmniDrive firmware unlocks game rips from physical media on select players 
+
+A third-party firmware has enabled Blu-ray players to rip game media from retro consoles, opening a new avenue for game preservation and emulation.
+
+💡 *Preserving retro games becomes more accessible and efficient for enthusiasts.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players)
+
+---
+
+### 18. California moves to exempt Linux from its upcoming age-verification law after backlash over forcing operating systems to collect users ages amendment proposed by the same lawmaker who wrote the original law 
+
+California lawmakers propose amending Digital Age Assurance Act to exempt Linux distributions due to concerns over open-source operating systems being forced to collect user ages.
+
+💡 *Forcing age verification on open-source systems poses significant data collection concerns.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law)
+
+---
+
+### 19. WCH BLE Analyzer Pro USB Bluetooth LE sniffer gains Linux software with Wireshark (pcap) support 
+
+A reverse-engineered Linux driver for the WCH BLE Analyzer Pro allows users to capture and analyze Bluetooth Low Energy (BLE) signals on Linux systems, utilizing libusb and outputting pcap files compatible with Wireshark. This adds Linux support to the previously Windows-only tool, making it a valuable resource for reverse engineering and debugging.
+
+💡 *Cross-platform BLE analysis expands development possibilities and opportunities.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/26/wch-ble-analyzer-pro-usb-bluetooth-le-sniffer-gains-linux-software-with-wireshark-pcap-support/)
+
+---
+
+### 20. Nvidia retires the classic GeForce Control Panel after 20 years 
+
+Nvidia has retired its GeForce Control Panel after 20 years of service, shifting focus towards the Nvidia App that integrates driver and graphics settings, recording tools, and game optimizations into a single interface.
+
+💡 *Nvidia App centralizes PC gaming utilities for streamlined user experience*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7608-nvidia-app.html)
+
+---
+
+### 21. Windows Secure Boot certificates set to expire in June here's what it means for your PC 
+
+Windows Secure Boot certificates are set to expire in June, potentially affecting device security. To mitigate this, Microsoft recommends updating to the latest Secure Boot version. This ensures continued protection against malware and unauthorized software.
+
+💡 *Outdated Secure Boot certificates compromise Windows device security integrity.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112527-windows-secure-boot-certificates-set-expire-june-here.html)
+
+---
+
+### 22. AMD targets TSMC's A14 node for Zen 7, pushing server chips into the angstrom era 
+
+AMD is reportedly considering TSMC's A14 process node for Zen 7, pushing the company into the angstrom era. This would signify a shift beyond traditional node shrinks. AMD's server chips could benefit from the improved process node.
+
+💡 *AMD enters angstrom era with A14 node, boosting server chip performance*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112531-amd-eyes-tsmc-a14-node-zen-7-bringing.html)
+
+---
+
+### 23. DriftGuard update lets Xbox gamers fix stick drift without replacing controllers 
+
+DriftGuard now supports Xbox controllers, allowing users to calibrate stick drift without replacing their controllers.
+
+💡 *Fixing stick drift on Xbox controllers without expensive replacements available now.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112528-driftguard-update-xbox-gamers-fix-stick-drift-without.html)
+
+---
+
+### 24. Save up to $200 on a 13-inch or 15-inch MacBook Air with M5 chip and 16GB of RAM Memorial Day discounts get you Apple's latest and best consumer laptop for as low as $899 
+
+Get the latest MacBook Air with M5 chip and 16GB RAM starting at $899, making it an affordable option for those seeking an excellent laptop experience.
+
+💡 *Affordable flagship laptop option for consumers on a budget.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-up-to-usd200-on-a-13-inch-or-15-inch-macbook-air-with-m5-chip-and-16gb-of-ram-memorial-day-discounts-get-you-apples-latest-and-best-consumer-laptop-for-as-low-as-usd899)
+
+---
+
+### 25. RAKwireless WisMesh Pi HAT RAK6421 turns your Raspberry Pi 4/5 into a modular Meshtastic gateway 
+
+The RAKwireless WisMesh Pi HAT RAK6421 is a modular Meshtastic gateway expansion board for Raspberry Pi 4/5, offering two WisBlock IO slots and four sensor slots for easy module swapping. This enables scalable, always-on Meshtastic base stations, MQTT gateways, and backbone relay nodes. It supports standard and high-power LoRa modules, eliminating the need for USB adapters or breadboard wiring.
+
+💡 *Modular design simplifies LoRa module swapping and upgrades.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/26/rakwireless-wismesh-pi-hat-rak6421-turns-your-raspberry-pi-4-5-into-a-modular-meshtastic-gateway/)
 
 ---
 
