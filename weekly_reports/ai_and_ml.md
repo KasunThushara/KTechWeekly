@@ -1,345 +1,195 @@
 # 🤖 AI & ML
-**Week of May 27, 2026**
+**Week of May 28, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 33
-- **Report generated:** 2026-05-27 12:00
+- **Articles this week:** 18
+- **Report generated:** 2026-05-28 12:06
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. SK hynix unveils 'iHBM' thermal architecture that cools AI memory at the source integrated cooling elements inside HBM interface cut thermal resistance by 30%, target next-gen HBM5 accelerators and dense AI data centers ⭐
+### 1. Chinese university builds 3D chip design tool tailored to Huawei's LogicFolding architecture 3D design delivers increased performance and better thermal management ⭐
 
-SK hynix unveiled iHBM, a thermal packaging architecture that embeds cooling elements into the HBM interface, reducing thermal resistance by 30% and addressing performance-killing thermal throttling in future AI accelerators.
+A Chinese university has developed a 3D chip design tool specifically for Huawei's LogicFolding architecture, enhancing performance and thermal management.
 
-💡 *Improved thermal management for AI accelerators is crucial for high-performance computing.*
+💡 *Improved performance through 3D chip design and better thermal management.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers)
-
----
-
-### 2. Lenovo says it's digging into allegations that its China-only G10 handheld is being used for piracy third parties may be including illicit games to inflate prices in the gray market ⭐
-
-Lenovo is investigating allegations its G10 handheld is used for piracy, affecting gray market prices.
-
-💡 *Gray market prices may be inflated through illicit game inclusion.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/lenovo-says-its-digging-into-allegations-that-its-china-only-g10-handheld-is-being-used-for-piracy-third-parties-may-be-including-illicit-games-to-inflate-prices-in-the-gray-market)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/peking-university-builds-3d-chip-design-tool-tailored-to-huaweis-logicfolding-architecture)
 
 ---
 
-### 3. Microsoft's GitHub bans security researcher who posted zero-day Windows exploits because company 'ruined their life' expert claims action is vindictive and promises further retaliation 
+### 2. Italian council sets 200% tax on data center development in agricultural zones aims to spur the use of old industrial areas instead and limit environmental impact 
 
-Microsoft's GitHub banned a security researcher for posting zero-day Windows exploits, sparking controversy.
+Italy introduces a 200% tax on data centers in rural zones, promoting development in disused industrial areas to reduce environmental impact.
 
-💡 *Vulnerability disclosure laws clash with corporate interests over zero-day exploit sharing.*
+💡 *Reducing rural data centers' environmental footprint through industrial area repurposing.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)
-
----
-
-### 4. Intel s new Bartlett Lake flagship loses fight to a four-year-old CPU Core 9 273PQE has 50% more P-cores but can't surpass Core i9-13900K in games 
-
-Intel's new flagship processor, Core 9 273PQE, failed to surpass the Core i9-13900K in gaming benchmarks despite having 50% more P-cores. The Core i9-13900K's performance edges out the newer processor in various games. PC Games Hardware conducted the comparison.
-
-💡 *Gaming performance matters more than core count*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-new-bartlett-lake-flagship-loses-fight-to-a-four-year-old-cpu-core-9-273pqe-has-50-percent-more-p-cores-but-cant-surpass-core-i9-13900k-in-games)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/italian-council-sets-200-percent-tax-on-data-center-development-in-agricultural-zones-aims-to-spur-the-use-of-old-industrial-areas-instead-and-limit-environmental-impact)
 
 ---
 
-### 5. Testing GPU Safeguard+ on the MSI MPG Ai1600TS PSU solution aims to tame melting 16-pin connectors 
+### 3. Erin Brockovich starts tracking AI data centers, calls on affected communities to submit issues website shows more than 2,700 reports from across the US raising various concerns 
 
-MSI's MPG 1600W and 1300W power supplies feature GPU Safeguard+, a protection system designed to prevent GPU power connector overheating and melting.
+Erin Brockovich tracks data center impact on communities, gathers reports nationwide.
 
-💡 *Protecting GPU connectors from overheating and melting issues.*
+💡 *Data centers pose environmental and health risks to surrounding communities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/testing-gpu-safeguard-on-the-msi-mpg-ai1600ts-psu-solution-aims-to-tame-melting-16-pin-connectors)
-
----
-
-### 6. Star Citizen reaches $1 billion in lifetime funding, 14 years after the project was first announced game still in early access with no release window, including 'Squadron 42' campaign 
-
-Star Citizen has reached $1 billion in crowdfunding after 14 years, still in early access and with a release window expected sometime between 2027-2028.
-
-💡 *Massive crowdfunding success raises concerns about game's prolonged development timeline.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/star-citizen-reaches-usd1-billion-in-lifetime-funding-14-years-after-the-project-was-first-announced-game-still-in-early-access-with-no-release-window-including-squadron-42-campaign)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/erin-brockovich-starts-tracking-ai-data-centers-calls-on-affected-communities-to-submit-issues-website-shows-more-than-2-700-reports-from-across-the-us-raising-various-concerns)
 
 ---
 
-### 7. Pope Leo XIV says humanity needs to disarm AI before it's too late 
+### 4. VIA Labs VL610/VL610D MST Hub controllers to enable USB-C multi-display adapters with up to three 4K display outputs 
 
-Pope Leo XIV warns about the dangers of AI in his new encyclical, Magnifica Humanitas, emphasizing the need for humanity to disarm AI before it's too late.
+VIA Labs VL610/VL610D MST Hub controllers enable USB-C adapters to drive up to three 4K UHD displays simultaneously. The VL610 supports three video outputs up to 4Kp60, while the VL610D is limited to two outputs. These chips succeed the VL605 single-channel USB-C to HDMI 2.1 signal converter.
 
-💡 *Preemptive AI regulation necessary to prevent catastrophic consequences.*
+💡 *Enabling multi-display expansion for USB-C adapters and docking stations.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112526-pope-leo-xiv-humanity-needs-disarm-ai-before.html)
-
----
-
-### 8. Unreal Engine 6 is coming in 2028, aims to streamline live-service game development 
-
-Unreal Engine 6 is coming in 2028, promising streamlined live-service game development. Epic-owned studio Psyonix showcased a version of Rocket League running on the engine at the Rocket League Championship Series Paris Major. The engine's new purple logo was also revealed.
-
-💡 *Streamlined live-service game development could revolutionize the gaming industry.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112513-unreal-engine-6-coming-2028-aims-streamline-live.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/28/via-labs-vl610-vl610d-mst-hub-controllers-to-enable-usb-c-dock-with-up-to-three-4k-display-outputs/)
 
 ---
 
-### 9. Huawei says it can build 1.4nm chips without ASML's most advanced machines 
+### 5. Modos Flow An FPGA-based 13.3-inch USB-C touchscreen e-paper monitor (Crowdfunding) 
 
-Huawei claims to develop 1.4nm chips without ASML's advanced machines, targeting 2031.
+Modos Flow is a 13.3-inch e-paper monitor with a touchscreen and FPGA, featuring a 4096-color display, frontlight, and USB-C connectivity.
 
-💡 *Huawei seeks to bypass ASML's dominance in extreme ultraviolet lithography.*
+💡 *Innovative e-paper display technology for eco-friendly and energy-efficient monitor options.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112519-huawei-now-can-build-14nm-class-chips-without.html)
-
----
-
-### 10. SpaceX admits it can't find enough chips for orbital AI yet, requires 'significantly more than are currently available to us' firm's risk factors in IPO paperwork also says ambitious TeraFab project may not be successful 
-
-SpaceX may struggle to obtain sufficient AI hardware due to chip shortages. The company's ambitious TeraFab project is also at risk of failure. Intel and Tesla may withdraw from the project.
-
-💡 *SpaceX's AI ambitions hinge on uncertain chip supply chains.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-admits-it-cant-find-enough-chips-for-orbital-ai-yet-requires-significantly-more-than-are-currently-available-to-us-firms-risk-factors-in-ipo-paperwork-also-says-ambitious-terafab-project-may-not-be-successful)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/27/modos-flow-an-fpga-based-13-3-inch-usb-c-touchscreen-color-e-paper-monitor/)
 
 ---
 
-### 11. Taiwan authorities arrest three on suspicion of smuggling Nvidia chips to China operation allegedly used Japan as transshipment point before forwarding banned Supermicro servers to Hong Kong 
+### 6. Gigabyte bundles 1 gram of pure gold with every RTX 5090 Infinity to celebrate 40th anniversary 
 
-Taiwan authorities arrested three suspects for smuggling Nvidia AI chips to China. The operation allegedly used Japan as a transshipment point, shipping banned Supermicro servers to Hong Kong via Taiwan. The individuals reportedly used falsified documentation to conceal the shipment.
+Gigabyte is offering 1 gram of 999 pure gold with every RTX 5090 Infinity purchase. The promotion runs from May 25 to June 7. Eligible buyers will receive the gold item while supplies last.
 
-💡 *Escalating chip shortages fuel global tech smuggling and security concerns.*
+💡 *Gigabyte adds luxury to high-end graphics card purchases.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/taiwan-authorities-arrest-three-on-suspicion-of-smuggling-nvidia-chips-to-china-operation-allegedly-used-japan-as-transshipment-point-before-forwarding-banned-supermicro-servers-to-hong-kong)
-
----
-
-### 12. Chinese AI experts in private firms now required to secure approval before international travel Beijing enforces policy to secure top-tier talent, expands measures beyond government 
-
-China requires AI experts to secure approval for international travel to secure top talent, viewing AI as a strategic resource in the global AI competition with the US.
-
-💡 *China treats AI expertise as a national strategic asset now.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-ai-experts-in-private-firms-now-required-to-secure-approval-before-international-travel-beijing-enforces-policy-to-secure-top-tier-talent-expands-measures-beyond-government)
+🔗 [Read Full Article](https://www.techspot.com/news/112553-gigabyte-bundles-1-gram-pure-gold-every-rtx.html)
 
 ---
 
-### 13. AMD leaves Linux FPGA users in the lurch with controversial Vivado licensing update new tier model restricts future free versions to Windows 
+### 7. Samsung averts strike with $340,000 bonuses for semiconductor workers 
 
-AMD has updated Vivado licensing, restricting free versions on Linux to users who use Windows for development. This change has been met with criticism from Linux FPGA users, who claim it is a 'bait-and-switch' tactic. The update has left users feeling abandoned by AMD.
+Samsung averts strike by offering $340,000 bonuses to semiconductor workers, preventing industry disruptions.
 
-💡 *AMD's business model change hurts Linux FPGA user base trust*
+💡 *Semiconductor shortages have far-reaching impacts on multiple industries and economies.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/amd-leaves-linux-fpga-users-in-the-lurch-with-controversial-vivado-licensing-update-new-tier-model-restricts-future-free-versions-to-windows)
-
----
-
-### 14. Tryx launches new liquid AIO cooler with holographic display uses beam splitters to create a hologram-like display effect inside the pump block 
-
-The Tryx Holo 360 features a holographic display cooler with a unique beam splitter technology, eliminating the need for conventional LCD layers and creating a floating image effect inside the pump block. This innovative design enhances the visual appeal and immersion of the cooling system. The Holo 360 aims to revolutionize liquid AIO coolers with its futuristic display.
-
-💡 *Revolutionary holographic display elevates liquid cooling aesthetics.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/tryx-launches-new-liquid-aio-cooler-with-holographic-display-uses-beam-splitters-to-create-a-hologram-like-display-effect-inside-the-pump-block)
+🔗 [Read Full Article](https://www.techspot.com/news/112542-samsung-chip-workers-approve-massive-ai-boom-bonuses.html)
 
 ---
 
-### 15. 3D printing enthusiast smashes 59-second 3DBenchy for new speed world record Minuteman 3D printer with revamped bed motion system breaches minute mark 
+### 8. Get 32GB of Corsair Vengeance DDR5 RAM for $240 when paired with this Asus motherboard start your AM5 PC for just $639, saving $245 in the process 
 
-A 3D printing enthusiast broke the 3DBenchy speed record with a 59-second print.
+Get 32GB of DDR5 RAM for $240 with an Asus motherboard bundle. This affordable bundle starts your AM5 PC for $639, saving $245. Bundle includes Vengeance RAM and an Asus ROG Strix X870E-E motherboard.
 
-💡 *Advancements in 3D printing technology increase speed and efficiency significantly.*
+💡 *Save $245 with a RAM and motherboard bundle purchase.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-smashes-59-second-3dbenchy-for-new-speed-world-record-minuteman-3d-printer-with-revamped-bed-motion-system-breaches-minute-mark)
-
----
-
-### 16. Uber chief warns no link yet between AI tokenmaxxing and shipping successful products company pumps the brakes on all-out AI spending 
-
-Uber's AI spending is being reconsidered due to unclear benefits from LLMs. Management struggles to establish a direct link between AI tokenmaxxing and successful product development. This leads to a cautious approach to all-out AI spending.
-
-💡 *Unclear AI benefits hinder large-scale spending on LLMs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/uber-chief-warns-no-link-yet-between-ai-tokenmaxxing-and-shipping-successful-products-company-pumps-the-brakes-on-all-out-ai-spending)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-32gb-of-corsair-vengeance-ddr5-ram-for-usd240-when-paired-with-this-asus-motherboard-start-your-am5-pc-for-just-usd639-saving-usd245-in-the-process)
 
 ---
 
-### 17. Angry TSMC employees considering strikes, unionization over employee bonuses, report claims company reportedly considering 15% payout cut to fund capex despite record revenues fuelled by AI surge 
+### 9. ASRock BC-250 used for Steam Machine duty gains third-party hack to unlock all 40 CUs mining board now has more CUs than a base PS5 
 
-TSMC employees consider strikes over potential 15% bonus cut, unionization due to company's plan to reduce employee bonuses to fund capital expenditures despite record revenues fueled by the AI surge. The company claims employee profit-sharing bonuses will still increase in 2026.
+ASRock's BC-250 server board has been hacked to unlock all 40 CUs, surpassing the base PS5's 36 CUs. This modification enables the mining board to utilize more processing power. The hack opens up new possibilities for gaming and cryptocurrency mining.
 
-💡 *Employee morale and retention at risk amid TSMC's capex funding concerns*
+💡 *Unlocking 40 CUs boosts processing power over base PS5.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/tsmc-employees-threaten-samsung-style-strike-over-rumored-15-percent-bonus-cuts-despite-record-profits)
-
----
-
-### 18. AI shrinks zero-day exploit time from a year to a single day, heading toward one minute Zero-Day Clock warns security window has collapsed 
-
-AI-powered zero-day exploit attacks are accelerating, shrinking the exploit window from a year to a single day, and potentially down to one minute by 2027, according to Zero-Day clock predictions.
-
-💡 *AI accelerates zero-day exploits, collapsing security windows rapidly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/asrock-bc-250-used-for-steam-machine-duty-gains-third-party-hack-to-unlock-all-40-cus-mining-board-now-has-more-cus-than-a-base-ps5)
 
 ---
 
-### 19. Survey reveals that 99% of CEOs now expect AI-driven layoffs companies are racing to replace junior workers with AI, even as many executives remain uncertain about the returns on AI investments 
+### 10. AI costs begin to bite as agents may increase token demand by 24 times, says Goldman Sachs report Uber and Microsoft among companies feeling the bite of tokenized billing 
 
-A Mercer report finds 99% of CEOs expect AI-driven layoffs within two years, primarily targeting entry-level workers. Many executives admit AI investments have weak or unproven returns. Companies are racing to replace junior workers with AI.
+Rising token costs from AI agents threaten the viability of tokenized billing for tech companies, prompting a reevaluation of their AI approaches.
 
-💡 *Automation threatens entry-level jobs despite uncertain AI investment returns.*
+💡 *AI agents drive 24x increase in token demand, crippling tokenized billing cost-efficiency.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/survey-reveals-that-99-percent-of-ceos-now-expect-ai-driven-layoffs-companies-are-racing-to-replace-junior-workers-with-ai-even-as-many-executives-remain-uncertain-about-the-returns-on-ai-investments)
-
----
-
-### 20. WCH BLE Analyzer Pro USB Bluetooth LE sniffer gains Linux software with Wireshark (pcap) support 
-
-A reverse-engineered Linux driver for the WCH BLE Analyzer Pro allows users to capture and analyze Bluetooth Low Energy (BLE) signals on Linux systems, utilizing libusb and outputting pcap files compatible with Wireshark. This adds Linux support to the previously Windows-only tool, making it a valuable resource for reverse engineering and debugging.
-
-💡 *Cross-platform BLE analysis expands development possibilities and opportunities.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/26/wch-ble-analyzer-pro-usb-bluetooth-le-sniffer-gains-linux-software-with-wireshark-pcap-support/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-begin-to-bite-as-agents-may-increase-token-demand-by-24-times-says-goldman-sachs-report-uber-and-microsoft-among-companies-feeling-the-bite-of-tokenized-billing)
 
 ---
 
-### 21. Best of Sensors: Electro Scan s Solar Drone Wins Ag & Enviro 
+### 11. China adds homegrown AI chips to 'secure and reliable' procurement list for the first time nine options added as move away from Nvidia continues 
 
-Electro Scan's Solar Drone uses imaging sensors to inspect and clean solar arrays, navigating challenging terrain such as mountains and rooftops.
+China has added nine homegrown AI chips to its secure procurement list, marking a shift away from Nvidia. The certifications are valid for three years, issued by the China Information Technology Security Evaluation Centre and the National Secrecy Science and Technology Evaluation Centre.
 
-💡 *Enhancing solar panel efficiency with autonomous and agile maintenance solutions*
+💡 *China reduces dependence on foreign tech with domestic AI chip certifications*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/best-sensors-electro-scans-solar-drone-wins-ag-enviro)
-
----
-
-### 22. Sam Altman is "delighted" his AI jobs apocalypse prediction was wrong 
-
-Sam Altman conceded his AI jobs apocalypse prediction was premature. Speaking at a Commonwealth Bank of Australia conference, Altman acknowledged that AI has not yet wiped out entire job classes. This admission comes as a relief to many.
-
-💡 *AI's transformative impact is more nuanced than initially predicted.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112543-sam-altman-delighted-ai-jobs-apocalypse-prediction-wrong.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/china-certifies-nine-domestic-ai-chips-for-government-procurement)
 
 ---
 
-### 23. SK Hynix is embedding cooling into HBM memory to stop AI chips from overheating 
+### 12. Prototype of the world s first fluid circuit board can be physically rewired in less than a minute, startup claims could make hardware iteration 1,000 times faster than traditional PCB 
 
-SK Hynix's iHBM embeds cooling structures directly into HBM memory, addressing overheating issues in AI chips.
+A deep tech startup has created a fluid circuit board prototype that can be rewired in under a minute, potentially revolutionizing hardware iteration speeds.
 
-💡 *Embedded cooling enables real-time thermal management in AI chip applications.*
+💡 *Accelerating hardware development 1,000 times faster than traditional PCBs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112532-sk-hynix-embedding-cooling-hbm-memory-stop-ai.html)
-
----
-
-### 24. TSMC workers threaten Samsung-style strike over rumored bonus cuts despite record profits 
-
-TSMC workers threaten strike over potential 15% bonus cuts amid profits. The move is seen as unfair by staff, who claim the company is asking them to subsidize expansion plans. This comes despite record profits for the company.
-
-💡 *Workers' discontent highlights growing income inequality in tech industry*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112534-tsmc-workers-threaten-samsung-style-strike-over-rumored.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/prototype-of-the-worlds-first-fluid-circuit-board-can-be-physically-rewired-in-less-than-a-minute-startup-claims-could-make-hardware-iteration-1-000-times-faster-than-traditional-pcb)
 
 ---
 
-### 25. Starbucks tried using AI to count syrup bottles it kept hallucinating the inventory 
+### 13. Privacy-focused, open-source Raspberry Pi Zero 2W DIY security camera offers end-to-end encryption, on-device AI 
 
-Starbucks abandoned an AI-powered inventory management tool due to inaccuracies.
+Secluso is a private, open-source security camera system built on Raspberry Pi Zero 2 W, offering end-to-end encryption and on-device AI for human, pet, and vehicle detection, providing a secure alternative to commercial smart home cameras.
 
-💡 *Human judgment can still outperform AI in practical applications.*
+💡 *Private, end-to-end encryption secures DIY home security camera feeds locally.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112524-starbucks-tried-using-ai-count-syrup-bottles-kept.html)
-
----
-
-### 26. People without lawyers are using AI to flood courts with lawsuits 
-
-A Minnesota man is using AI to file lawsuits without a lawyer, exploiting the system. His handwritten complaint was dismissed for being frivolous, but the issue persists. This trend could overwhelm courts with baseless claims.
-
-💡 *Lack of regulation enables AI-facilitated abuse of the justice system.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112533-people-without-lawyers-using-ai-flood-courts-lawsuits.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/28/privacy-focused-open-source-raspberry-pi-zero-2w-diy-security-camera-offers-end-to-end-encryption-on-device-ai/)
 
 ---
 
-### 27. DriftGuard update lets Xbox gamers fix stick drift without replacing controllers 
+### 14. Steam Deck OLED is back in stock with a $300 price hike 
 
-DriftGuard now supports Xbox controllers, allowing users to calibrate stick drift without replacing their controllers.
+Steam Deck OLED prices have increased by $240-$300, with the LCD model discontinued.
 
-💡 *Fixing stick drift on Xbox controllers without expensive replacements available now.*
+💡 *Steam Deck pricing shift affects affordability for PC gaming enthusiasts worldwide.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112528-driftguard-update-xbox-gamers-fix-stick-drift-without.html)
-
----
-
-### 28. Linus Torvalds is fed up with AI-generated bug reports bloating the Linux kernel 
-
-Linus Torvalds criticizes AI-generated bug reports bloating the Linux kernel's RC5 release.
-
-💡 *Artificial intelligence misuse threatens Linux kernel's efficiency and code integrity.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112523-linus-torvalds-fed-up-ai-generated-bug-reports.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112556-steam-deck-oled-back-stock-300-price-hike.html)
 
 ---
 
-### 29. Star Citizen crosses $1 billion in crowdfunding as Chris Roberts eyes version 1.0 
+### 15. Spotify CEO defends AI music, promises musicians will be adequately compensated 
 
-Star Citizen has surpassed $1 billion in crowdfunding, a significant milestone for the ambitious space trading and combat simulator. This achievement comes just one year after reaching $800 million, highlighting the game's enduring enthusiast support. Game director Chris Roberts is now eyeing version 1.0.
+Spotify CEO defends AI music, calling it a 'legal' and 'controlled' feature.
 
-💡 *Robust community funding fuels Star Citizen's continued development momentum.*
+💡 *Musicians' compensation is key to AI-generated content adoption success.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112514-star-citizen-crosses-1-billion-crowdfunding-chris-roberts.html)
-
----
-
-### 30. Microsoft's latest Copilot idea is a pinnable sidebar that steals your screen real estate 
-
-Microsoft's latest Copilot update includes a new drop-down menu with snapping options, allowing users to dock the assistant to the left or right edge of the screen or keep it in a resizable window.
-
-💡 *Innovative feature may compromise screen real estate for some users.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112522-microsoft-latest-copilot-idea-pinnable-sidebar-steals-screen.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112551-spotify-ceo-defends-ai-music-promises-musicians-adequately.html)
 
 ---
 
-### 31. Drone speed record falls again as Blackbird hits 453 mph using custom carbon fiber propellers 
+### 16. DuckDuckGo's app is growing in popularity after Google turned search into AI 
 
-The Blackbird drone achieved a speed record of 453.6 mph during testing. It hit 730 km/h on the downwind run and 640 km/h on the return leg. The two-way average speed was 425.6 mph.
+Google's AI-driven search change is causing users to seek alternatives like DuckDuckGo.
 
-💡 *Record-breaking drone speed opens doors to new applications and innovations*
+💡 *Users are seeking alternatives to avoid reinforcing AI-centric search.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112516-drone-speed-record-falls-again-blackbird-hits-453.html)
-
----
-
-### 32. 99% of executives expect AI to trigger layoffs within two years, survey finds 
-
-A survey of 825 C-suite leaders found that 99% expect AI-related layoffs within two years.
-
-💡 *AI adoption threatens significant job losses in the next two years.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112520-99-executives-expect-ai-trigger-layoffs-within-two.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112547-duckduckgo-app-growing-popularity-after-google-turned-search.html)
 
 ---
 
-### 33. Save up to $200 on a 13-inch or 15-inch MacBook Air with M5 chip and 16GB of RAM Memorial Day discounts get you Apple's latest and best consumer laptop for as low as $899 
+### 17. The Witcher 3 is getting a third expansion in 2027, but minimum specs are increasing 
 
-Get the latest MacBook Air with M5 chip and 16GB RAM starting at $899, making it an affordable option for those seeking an excellent laptop experience.
+A third expansion for The Witcher 3 is reportedly in development by Fool's Theory, the studio behind the first game's remake. The expansion is expected to be released in 2027. System requirements for the game may increase with the expansion.
 
-💡 *Affordable flagship laptop option for consumers on a budget.*
+💡 *Future-proofing for The Witcher 3 requires updated hardware and specs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-up-to-usd200-on-a-13-inch-or-15-inch-macbook-air-with-m5-chip-and-16gb-of-ram-memorial-day-discounts-get-you-apples-latest-and-best-consumer-laptop-for-as-low-as-usd899)
+🔗 [Read Full Article](https://www.techspot.com/news/112548-witcher-3-getting-third-expansion-2027-minimum-specs.html)
+
+---
+
+### 18. Apple's M5 MacBook Air drops to $899 in latest deal 
+
+Apple's M5 MacBook Air drops to $899 with 16GB RAM and 512GB SSD.
+
+💡 *Affordable high-performance laptops boost consumer purchasing power.*
+
+🔗 [Read Full Article](https://www.techspot.com/products/laptops/apple-macbook-air-m5.322146/)
 
 ---
 

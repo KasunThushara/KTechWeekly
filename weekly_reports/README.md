@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of May 27, 2026**
+**Week of May 28, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. LichtBit s open-source ESP32 Art-Net/sACN NeoPixels controller can drive up to 2,720 RGB LEDs ⭐
-
-**📰 Tech News**
-
-LichtBit's open-source ESP32 Art-Net/sACN NeoPixels controller drives up to 2,720 RGB LEDs, targeting the professional event industry with large-scale lighting installations and custom stage design.
-
-💡 **Key Point:** Professional-grade LED control for events at an affordable, open-source cost
-
-🔗 [Read More](https://www.cnx-software.com/2026/05/27/lichtbit-open-source-esp32-art-net-sacn-neopixels-controller-can-drive-up-to-2720-rgb-leds/)
-
----
-
-### 2. LichtBit s open-source ESP32 Art-Net/sACN NeoPixels controller can drive up to 2,720 RGB LEDs ⭐
-
-**💻 Hardware**
-
-LichtBit's open-source ESP32 Art-Net/sACN NeoPixels controller drives up to 2,720 RGB LEDs, targeting the professional event industry with large-scale lighting installations and custom stage design.
-
-💡 **Key Point:** Professional-grade LED control for events at an affordable, open-source cost
-
-🔗 [Read More](https://www.cnx-software.com/2026/05/27/lichtbit-open-source-esp32-art-net-sacn-neopixels-controller-can-drive-up-to-2720-rgb-leds/)
-
----
-
-### 3. Huawei claims sanctions-busting breakthrough with 1.4nm-class chips by 2031, claims 55% higher transistor density firm claims new LogicFolding chip architecture can bypass EUV restrictions, introduces 'Tau Scaling Law' to replace Moore's Law ⭐
+### 1. Gesture HW1 is a 10-DOF ESP32-S3 robotic hand with high-dexterity manipulation (Crowdfunding) ⭐
 
 **⚡ Semiconductors**
 
-Huawei claims to have developed a breakthrough chip design that bypasses EUV restrictions, allowing for 1.4nm-class chips by 2031 with 55% higher transistor density, using its proprietary Tau scaling law.
+The Gesture HW1 is a 10-DOF robotic hand with ESP32-S3 MCU, designed for research, education, and hobbyists. It offers high-dexterity manipulation, weighs 500g, and can handle 1kg dynamic and 3kg static loads. It communicates via USB-C or Bluetooth 5.0 with a companion desktop app and SDKs.
 
-💡 **Key Point:** Bypassing EUV restrictions could narrow China's chip gap with the US.
+💡 **Key Point:** Revolutionizing robotics research and education with affordable high-dexterity manipulation.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/huawei-claims-sanctions-busting-breakthrough-with-1-4nm-class-chips-by-2031-claims-55-percent-higher-transistor-density-firm-claims-new-logicfolding-chip-architecture-can-bypass-euv-restrictions-introduces-tau-scaling-law-to-replace-moores-law)
+🔗 [Read More](https://www.cnx-software.com/2026/05/28/gesture-hw1-10-dof-esp32-s3-robotic-hand-with-high-dexterity-manipulation/)
 
 ---
 
-### 4. SK hynix unveils 'iHBM' thermal architecture that cools AI memory at the source integrated cooling elements inside HBM interface cut thermal resistance by 30%, target next-gen HBM5 accelerators and dense AI data centers ⭐
+### 2. Gesture HW1 is a 10-DOF ESP32-S3 robotic hand with high-dexterity manipulation (Crowdfunding) ⭐
+
+**💻 Hardware**
+
+The Gesture HW1 is a 10-DOF robotic hand with ESP32-S3 MCU, designed for research, education, and hobbyists. It offers high-dexterity manipulation, weighs 500g, and can handle 1kg dynamic and 3kg static loads. It communicates via USB-C or Bluetooth 5.0 with a companion desktop app and SDKs.
+
+💡 **Key Point:** Revolutionizing robotics research and education with affordable high-dexterity manipulation.
+
+🔗 [Read More](https://www.cnx-software.com/2026/05/28/gesture-hw1-10-dof-esp32-s3-robotic-hand-with-high-dexterity-manipulation/)
+
+---
+
+### 3. Chinese university builds 3D chip design tool tailored to Huawei's LogicFolding architecture 3D design delivers increased performance and better thermal management ⭐
 
 **🤖 AI & ML**
 
-SK hynix unveiled iHBM, a thermal packaging architecture that embeds cooling elements into the HBM interface, reducing thermal resistance by 30% and addressing performance-killing thermal throttling in future AI accelerators.
+A Chinese university has developed a 3D chip design tool specifically for Huawei's LogicFolding architecture, enhancing performance and thermal management.
 
-💡 **Key Point:** Improved thermal management for AI accelerators is crucial for high-performance computing.
+💡 **Key Point:** Improved performance through 3D chip design and better thermal management.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-unveils-ihbm-thermal-architecture-that-cools-ai-memory-at-the-source-integrated-cooling-elements-inside-hbm-interface-cut-thermal-resistance-by-30-percent-target-next-gen-hbm5-accelerators-and-dense-ai-data-centers)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/peking-university-builds-3d-chip-design-tool-tailored-to-huaweis-logicfolding-architecture)
 
 ---
 
-### 5. Huawei claims sanctions-busting breakthrough with 1.4nm-class chips by 2031, claims 55% higher transistor density firm claims new LogicFolding chip architecture can bypass EUV restrictions, introduces 'Tau Scaling Law' to replace Moore's Law ⭐
+### 4. Chinese university builds 3D chip design tool tailored to Huawei's LogicFolding architecture 3D design delivers increased performance and better thermal management ⭐
 
-**📰 Tech News**
+**⚡ Semiconductors**
 
-Huawei claims to have developed a breakthrough chip design that bypasses EUV restrictions, allowing for 1.4nm-class chips by 2031 with 55% higher transistor density, using its proprietary Tau scaling law.
+A Chinese university has developed a 3D chip design tool specifically for Huawei's LogicFolding architecture, enhancing performance and thermal management.
 
-💡 **Key Point:** Bypassing EUV restrictions could narrow China's chip gap with the US.
+💡 **Key Point:** Improved performance through 3D chip design and better thermal management.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/huawei-claims-sanctions-busting-breakthrough-with-1-4nm-class-chips-by-2031-claims-55-percent-higher-transistor-density-firm-claims-new-logicfolding-chip-architecture-can-bypass-euv-restrictions-introduces-tau-scaling-law-to-replace-moores-law)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/peking-university-builds-3d-chip-design-tool-tailored-to-huaweis-logicfolding-architecture)
+
+---
+
+### 5. Italian council sets 200% tax on data center development in agricultural zones aims to spur the use of old industrial areas instead and limit environmental impact 
+
+**🤖 AI & ML**
+
+Italy introduces a 200% tax on data centers in rural zones, promoting development in disused industrial areas to reduce environmental impact.
+
+💡 **Key Point:** Reducing rural data centers' environmental footprint through industrial area repurposing.
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/italian-council-sets-200-percent-tax-on-data-center-development-in-agricultural-zones-aims-to-spur-the-use-of-old-industrial-areas-instead-and-limit-environmental-impact)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **103 articles** across **5 focused categories**.
+We covered **56 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 33 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 10 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 25 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 20 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 15 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 18 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 11 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 33 articles
+*Artificial Intelligence and Machine Learning* — 18 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 10 articles
+*Graphics cards and compute accelerators* — 7 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 25 articles
+*Computing hardware and development boards* — 14 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 20 articles
+*Chip manufacturing and design* — 6 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 15 articles
+*Industry news and product launches* — 11 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-05-27 at 12:00 by an autonomous AI curation system.
+Generated 2026-05-28 at 12:06 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

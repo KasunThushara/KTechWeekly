@@ -1,165 +1,125 @@
 # 📰 Tech News
-**Week of May 27, 2026**
+**Week of May 28, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 15
-- **Report generated:** 2026-05-27 12:00
+- **Articles this week:** 11
+- **Report generated:** 2026-05-28 12:06
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. LichtBit s open-source ESP32 Art-Net/sACN NeoPixels controller can drive up to 2,720 RGB LEDs ⭐
+### 1. Samsung Display announces world's first 360 Hz 4K QD-OLED panel dual-mode support also offers 680Hz at FHD, 10 customers reportedly lined up 
 
-LichtBit's open-source ESP32 Art-Net/sACN NeoPixels controller drives up to 2,720 RGB LEDs, targeting the professional event industry with large-scale lighting installations and custom stage design.
+Samsung Display announces 360 Hz 4K QD-OLED panel, a major gaming breakthrough. This panel also supports 680Hz at FHD. Several clients are reportedly lined up to use the technology.
 
-💡 *Professional-grade LED control for events at an affordable, open-source cost*
+💡 *Revolutionizes gaming with ultra-high refresh rates and 4K resolution*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/27/lichtbit-open-source-esp32-art-net-sacn-neopixels-controller-can-drive-up-to-2720-rgb-leds/)
-
----
-
-### 2. Huawei claims sanctions-busting breakthrough with 1.4nm-class chips by 2031, claims 55% higher transistor density firm claims new LogicFolding chip architecture can bypass EUV restrictions, introduces 'Tau Scaling Law' to replace Moore's Law ⭐
-
-Huawei claims to have developed a breakthrough chip design that bypasses EUV restrictions, allowing for 1.4nm-class chips by 2031 with 55% higher transistor density, using its proprietary Tau scaling law.
-
-💡 *Bypassing EUV restrictions could narrow China's chip gap with the US.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/huawei-claims-sanctions-busting-breakthrough-with-1-4nm-class-chips-by-2031-claims-55-percent-higher-transistor-density-firm-claims-new-logicfolding-chip-architecture-can-bypass-euv-restrictions-introduces-tau-scaling-law-to-replace-moores-law)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/samsung-display-announces-worlds-first-360-hz-4k-qd-oled-panel-dual-mode-support-also-offers-680hz-at-fhd-10-customers-reportedly-lined-up)
 
 ---
 
-### 3. Lenovo says it's digging into allegations that its China-only G10 handheld is being used for piracy third parties may be including illicit games to inflate prices in the gray market ⭐
+### 2. Microsoft is rolling out its Windows 11 CPU-boosting update here's how to enable it now 
 
-Lenovo is investigating allegations its G10 handheld is used for piracy, affecting gray market prices.
+Microsoft is rolling out a Windows 11 update that boosts CPU performance, accelerating app launches and core shell experiences. Update KB5089573 utilizes the LLP system to temporarily increase CPU clocks. This improvement aims to enhance overall system responsiveness.
 
-💡 *Gray market prices may be inflated through illicit game inclusion.*
+💡 *Temporary CPU clock boosts enhance Windows 11 system responsiveness*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/lenovo-says-its-digging-into-allegations-that-its-china-only-g10-handheld-is-being-used-for-piracy-third-parties-may-be-including-illicit-games-to-inflate-prices-in-the-gray-market)
-
----
-
-### 4. Arctic Freezer 36-S Review: Small size, effective performance, low price ⭐
-
-The Arctic Freezer 36-S air cooler impressed with its performance, exceeding expectations. This single-tower cooler effectively handled a high-power processor, the AMD Ryzen 9 9950X3D. Its compact size and affordability make it a valuable option.
-
-💡 *Effective performance at a low price, surprising for an entry-level cooler.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/arctic-freezer-36-s-review)
+🔗 [Read Full Article](https://www.techspot.com/news/112561-microsoft-rolling-out-windows-11-cpu-boosting-update.html)
 
 ---
 
-### 5. Imec builds world's first High-NA EUV-fabricated quantum dot qubit device breakthrough could pull quantum computing onto the same manufacturing roadmap as next-gen AI processors, compressing timelines ⭐
+### 3. Ferrari bet its legacy on an EV designed by Jony Ive. The backlash wiped out $5 billion in a day. 
 
-Imec has developed the world's first silicon quantum dot qubit device using High-NA EUV lithography, a breakthrough that could enable the mass production of quantum computing devices. This achievement brings quantum computing closer to being manufactured alongside next-generation AI processors. The existing advanced manufacturing ecosystem may be leveraged to accelerate quantum computing scalability.
+Ferrari's EV, designed by Jony Ive, received harsh criticism from Italy's deputy prime minister and others, deviating from Ferrari's established identity.
 
-💡 *Quantum computing may soon use existing manufacturing infrastructure.*
+💡 *Brand identity and legacy matter in electric vehicle innovation.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/imec-builds-worlds-first-high-na-euv-fabricated-quantum-dot-qubit-device-breakthrough-could-pull-quantum-computing-onto-the-same-manufacturing-roadmap-as-next-gen-ai-processors-compressing-timelines)
-
----
-
-### 6. ODROID-H5 SBC Review Part 1: Unboxing, Type1 case assembly, and first boot ⭐
-
-The reviewer unboxes the ODROID-H5 10GbE SBC kit, assembles the Type-1 case, and performs a successful first boot with Ubuntu 24.04 and Windows 11 in a dual-boot configuration.
-
-💡 *ODROID-H5 offers flexible, customizable builds with high performance features.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/27/odroid-h5-sbc-review-part-1-unboxing-type1-case-assembly-and-first-boot/)
+🔗 [Read Full Article](https://www.techspot.com/news/112546-ferrari-bet-legacy-ev-designed-jony-backlash-wiped.html)
 
 ---
 
-### 7. ESPHome 2026.5.0 released with new ESPHome Device Builder (beta), performance/memory optimizations ⭐
+### 4. Wide-ranging 7-zip vulnerability with 8.8 CVE rating allows for code execution hundreds of millions of machines potentially at risk 
 
-The ESPHome 2026.5.0 release introduces the beta ESPHome Device Builder, a configuration editor, and various performance optimizations.
+A critical 7-zip vulnerability allows code execution with an 8.8 CVE rating, affecting hundreds of millions of machines worldwide.
 
-💡 *Significant improvements in performance, memory usage, and features for ESPHome users.*
+💡 *Massive user base makes widespread exploitation extremely concerning and feasible.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/26/esphome-2026-5-0-released-with-new-esphome-device-builder-beta-performance-memory-optimizations/)
-
----
-
-### 8. Testing GPU Safeguard+ on the MSI MPG Ai1600TS PSU solution aims to tame melting 16-pin connectors 
-
-MSI's MPG 1600W and 1300W power supplies feature GPU Safeguard+, a protection system designed to prevent GPU power connector overheating and melting.
-
-💡 *Protecting GPU connectors from overheating and melting issues.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/testing-gpu-safeguard-on-the-msi-mpg-ai1600ts-psu-solution-aims-to-tame-melting-16-pin-connectors)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/wide-ranging-7-zip-vulnerability-with-8-8-cve-rating-allows-for-code-execution-hundreds-of-millions-of-machines-potentially-at-risk)
 
 ---
 
-### 9. Star Citizen reaches $1 billion in lifetime funding, 14 years after the project was first announced game still in early access with no release window, including 'Squadron 42' campaign 
+### 5. The Netherlands just blocked a US company from buying the app Dutch citizens use for everything 
 
-Star Citizen has reached $1 billion in crowdfunding after 14 years, still in early access and with a release window expected sometime between 2027-2028.
+The Netherlands blocked a US company's acquisition of a domestic app, showing a growing trend among European countries to protect their digital sovereignty and limit foreign influence on local service providers.
 
-💡 *Massive crowdfunding success raises concerns about game's prolonged development timeline.*
+💡 *European nations prioritize digital self-reliance over foreign investment and control.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/star-citizen-reaches-usd1-billion-in-lifetime-funding-14-years-after-the-project-was-first-announced-game-still-in-early-access-with-no-release-window-including-squadron-42-campaign)
-
----
-
-### 10. Research at UAB underway on wearables that are thin and durable 
-
-Researchers at UAB are developing ultra-thin, durable wearables using molybdenum disulfide ribbons. These ribbons are designed to be worn on human skin for extended periods. The proof-of-concept aims to demonstrate their feasibility.
-
-💡 *Breakthrough in long-term wearable technology for comfortable, flexible sensing.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/research-uab-underway-wearables-are-thin-and-durable)
+🔗 [Read Full Article](https://www.techspot.com/news/112552-netherlands-blocked-us-company-buying-app-dutch-citizens.html)
 
 ---
 
-### 11. 007 First Light reviews call the spy thriller one of the best Bond games ever made 
+### 6. This startup wants to destroy cancer tumors using ultrasound instead of surgery 
 
-Critics praise 007 First Light for its stealth, action, and gadget-driven gameplay. The game's mix of globe-trotting spy missions and authentic Bond atmosphere has earned it a spot among the best James Bond games. Strong early reviews highlight its replayability.
+HistoSonics is developing histotripsy, an ultrasound technique to destroy cancer tumors without surgery.
 
-💡 *Authentic Bond experience sets new standard for spy thrillers*
+💡 *Non-invasive cancer treatment could reduce patient trauma and recovery time.*
 
-🔗 [Read Full Article](https://www.techspot.com/products/pc-games/007-first-light.325373/)
-
----
-
-### 12. Ferrari's first EV brings 1,000 horsepower, four motors, a $640,000 price tag, and Jony Ive design input 
-
-Ferrari's first EV, Luce, features 1,000 horsepower and a four-motor setup, offering precise control at each corner.
-
-💡 *Game-changing EV performance with unparalleled control and luxury design*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112521-ferrari-first-full-ev-brings-1000-horsepower-four.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112536-startup-wants-destroy-cancer-tumors-using-ultrasound-instead.html)
 
 ---
 
-### 13. IBM spins off America's first quantum chip foundry with $2 billion in federal and private funding newly-minted 'Anderon' foundry to offer 300mm quantum wafer fab and manufacturing services 
+### 7. Smartphone shipments face worst decline ever: memory crisis and US-Iran war hit market 
 
-IBM has spun off America's first quantum chip foundry, Anderon, with $2 billion in funding. Headquartered in Albany, New York, Anderon will operate a 300mm quantum wafer fab and offer manufacturing services to competing vendors. This will drive innovation and growth in the quantum technology sector.
+Global smartphone shipments are forecast to fall 13.9% in 2026 to 1.09 billion units, the lowest since 2013.
 
-💡 *Accelerating quantum tech development with commercial-scale manufacturing capabilities*
+💡 *Memory crisis and US-Iran war exacerbate struggling smartphone market.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/quantum-computing/ibm-spins-off-americas-first-quantum-chip-foundry-with-2-billion-in-federal-and-private-funding)
-
----
-
-### 14. Tryx launches new liquid AIO cooler with holographic display uses beam splitters to create a hologram-like display effect inside the pump block 
-
-The Tryx Holo 360 features a holographic display cooler with a unique beam splitter technology, eliminating the need for conventional LCD layers and creating a floating image effect inside the pump block. This innovative design enhances the visual appeal and immersion of the cooling system. The Holo 360 aims to revolutionize liquid AIO coolers with its futuristic display.
-
-💡 *Revolutionary holographic display elevates liquid cooling aesthetics.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/tryx-launches-new-liquid-aio-cooler-with-holographic-display-uses-beam-splitters-to-create-a-hologram-like-display-effect-inside-the-pump-block)
+🔗 [Read Full Article](https://www.techspot.com/news/112550-smartphone-shipments-face-worst-decline-ever-memory-crisis.html)
 
 ---
 
-### 15. Star Citizen crosses $1 billion in crowdfunding as Chris Roberts eyes version 1.0 
+### 8. Most Americans want digital shelf labels and surveillance pricing banned 
 
-Star Citizen has surpassed $1 billion in crowdfunding, a significant milestone for the ambitious space trading and combat simulator. This achievement comes just one year after reaching $800 million, highlighting the game's enduring enthusiast support. Game director Chris Roberts is now eyeing version 1.0.
+A survey found 65% of Americans believe ESLs will increase prices, and 68% think surveillance pricing will have the same effect.
 
-💡 *Robust community funding fuels Star Citizen's continued development momentum.*
+💡 *Concerns over price increases drive opposition to ESLs and surveillance pricing.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112514-star-citizen-crosses-1-billion-crowdfunding-chris-roberts.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112545-most-americans-want-digital-shelf-labels-surveillance-pricing.html)
+
+---
+
+### 9. Inside the data center boom that's consuming Chile's last water 
+
+Data centers in Chile consume billions of liters of water annually, exacerbating drought conditions in the Quilicura wetland.
+
+💡 *Water-intensive data centers threaten Chile's ecosystem and drinking water supply.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112540-inside-data-center-boom-consuming-chile-last-water.html)
+
+---
+
+### 10. Sandisk brings back affordable storage to rescue buyers from the SSD crisis new 320 and 520 SATA SSDs are ready to launch 
+
+SanDisk is set to launch new SATA SSDs, the 520 and 320, with capacities up to 4TB, offering more affordable storage options for consumers.
+
+💡 *Affordable storage revival in midst of SSD price crisis.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/sandisk-brings-back-affordable-storage-to-rescue-buyers-from-the-ssd-crisis-new-320-and-520-sata-ssds-are-ready-to-launch)
+
+---
+
+### 11. Valve hikes Steam Deck OLED prices 512GB is now $789, while 1TB climbs to $949 
+
+Valve's Steam Deck prices have increased by up to $300 due to component shortages.
+
+💡 *Component shortages drive significant price hikes for gaming devices*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/valve-hikes-steam-deck-oled-prices-512gb-is-now-usd789-while-1tb-climbs-to-usd949)
 
 ---
 
