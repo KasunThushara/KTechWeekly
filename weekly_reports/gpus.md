@@ -1,85 +1,95 @@
 # 🎮 GPUs
-**Week of May 28, 2026**
+**Week of May 29, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-05-28 12:06
+- **Articles this week:** 8
+- **Report generated:** 2026-05-29 11:56
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Samsung Display announces world's first 360 Hz 4K QD-OLED panel dual-mode support also offers 680Hz at FHD, 10 customers reportedly lined up 
+### 1. Redmagic 11S Pro gaming phone gets cooling and CPU upgrades, but drops to 16GB RAM as price climbs to $849 ⭐
 
-Samsung Display announces 360 Hz 4K QD-OLED panel, a major gaming breakthrough. This panel also supports 680Hz at FHD. Several clients are reportedly lined up to use the technology.
+The Redmagic 11S Pro gaming phone gets cooling and CPU upgrades, but drops to 16GB RAM, with a price increase to $849. The Snapdragon 8 Elite Gen 5 Leading Version powers the device. Nubia focuses on squeezing more performance from familiar hardware.
 
-💡 *Revolutionizes gaming with ultra-high refresh rates and 4K resolution*
+💡 *Performance upgrade prioritized over RAM capacity in new gaming phone release*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/samsung-display-announces-worlds-first-360-hz-4k-qd-oled-panel-dual-mode-support-also-offers-680hz-at-fhd-10-customers-reportedly-lined-up)
-
----
-
-### 2. Nvidia offers restricted access to Vera CPU in first round of Linux benchmarks - 88-core monster competes with or beats Epyc and Xeon in selected tests 
-
-Nvidia's first-generation custom server core, Vera, performs closely to AMD's EPYC in benchmarks. Although it doesn't win outright in most tests, Vera's performance is impressive for a first-gen CPU. This indicates Nvidia's potential in the server CPU market.
-
-💡 *Nvidia's server CPU debut shows remarkable performance potential.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/nvidias-vera-cpu-tested-in-common-linux-benchmarks-88-core-monster-competes-or-beats-amd-epyc-intel-xeon-in-carefully-curated-test)
+🔗 [Read Full Article](https://www.techspot.com/news/112566-redmagic-11s-pro-gaming-phone-upgrades-cooling-cpu.html)
 
 ---
 
-### 3. Gigabyte bundles 1 gram of pure gold with every RTX 5090 Infinity to celebrate 40th anniversary 
+### 2. Petros CH32H417M Alef A Raspberry Pi Pico-sized RISC-V USB 3.0 camera board 
 
-Gigabyte is offering 1 gram of 999 pure gold with every RTX 5090 Infinity purchase. The promotion runs from May 25 to June 7. Eligible buyers will receive the gold item while supplies last.
+The Petros CH32H417M Alef is a compact, Raspberry Pi Pico-sized board using WCH's CH32H417M RISC-V MCU, featuring a 2MP camera and USB 3.0 connectivity.
 
-💡 *Gigabyte adds luxury to high-end graphics card purchases.*
+💡 *Low-power, high-performance RISC-V board for AI and IoT applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112553-gigabyte-bundles-1-gram-pure-gold-every-rtx.html)
-
----
-
-### 4. China adds homegrown AI chips to 'secure and reliable' procurement list for the first time nine options added as move away from Nvidia continues 
-
-China has added nine homegrown AI chips to its secure procurement list, marking a shift away from Nvidia. The certifications are valid for three years, issued by the China Information Technology Security Evaluation Centre and the National Secrecy Science and Technology Evaluation Centre.
-
-💡 *China reduces dependence on foreign tech with domestic AI chip certifications*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/china-certifies-nine-domestic-ai-chips-for-government-procurement)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/29/petros-ch32h417m-alef-a-raspberry-pi-pico-sized-risc-v-usb-3-0-camera-board/)
 
 ---
 
-### 5. The Nvidia App Settings You Should Actually Be Using 
+### 3. Save $575 on this OLED Asus gaming laptop with RTX 5070, now just $1,575 ROG Zephyrus G16 comes with 240 Hz refresh rate, Intel Core Ultra 9, 16GB of RAM, and a 1TB SSD 
 
-The Nvidia App offers a range of advanced features beyond driver updates, including monitor settings, DLSS overrides, and recording tools to enhance the gaming experience. These features can be customized to improve performance, graphics quality, and overall gaming experience. By utilizing these settings, PC gamers can unlock new capabilities and optimize their gaming setup.
+Save $575 on the ROG Zephyrus G16 gaming laptop, now priced at $1,575. This Asus laptop features a 240 Hz refresh rate, Intel Core Ultra 9 processor, 16GB of RAM, and a 1TB SSD.
 
-💡 *Unlocking advanced Nvidia features enhances gaming performance and visuals.*
+💡 *High-performance gaming laptop now more affordable with significant price reduction*
 
-🔗 [Read Full Article](https://www.techspot.com/guides/3131-nvidia-app/)
-
----
-
-### 6. Taiwan just busted an alleged Nvidia GPU smuggling ring using Japan as a cover 
-
-Taiwanese prosecutors detained three individuals for allegedly smuggling Nvidia GPUs using Japan as a cover. The investigation found falsified export documents for Super Micro Computer servers. At least one shipment of servers is believed to have slipped through.
-
-💡 *Nvidia GPU smuggling undermines global semiconductor export regulations tightly.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112544-taiwan-busted-alleged-nvidia-gpu-smuggling-ring-using.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/save-usd575-on-this-oled-asus-gaming-laptop-with-rtx-5070-now-just-usd1-575-rog-zephyrus-g16-comes-with-240-hz-refresh-rate-intel-core-ultra-9-16gb-of-ram-and-a-1tb-ssd)
 
 ---
 
-### 7. TCL is selling a 300Hz 1080p gaming monitor for $88 
+### 4. Ambernic's retro gaming handhelds are quietly losing RAM capacity and being downgraded to older LPDDR3 memory company says 1GB capacity is still the standard, 512MB models 'an unexpected error' 
 
-A 24.5-inch 1080p gaming monitor from TCL offers a 300Hz refresh rate for esports players prioritizing frame rate stability and low latency.
+Anbernic retro gaming handhelds are being shipped with reduced RAM capacity without customer notification, downgrading from LPDDR4 to LPDDR3 memory in some units.
 
-💡 *Lower resolutions prioritize frame rate stability in competitive gaming scenarios.*
+💡 *Reduced RAM capacity affects gaming performance and device functionality.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112541-tcl-selling-300hz-1080p-gaming-monitor-88.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/gaming-handhelds-are-quietly-losing-ram-vendors-aggressively-trim-memory-specs-as-supply-dries-up)
+
+---
+
+### 5. Intel challenges AMD s handheld dominance with new Arc G3 chips Panther Lake silicon brings up to 14 cores, Arc B390 graphics to handhelds 
+
+Intel has unveiled the Arc G3 and G3 Extreme chips, built on Panther Lake dies, featuring up to 14 cores and an Arc B390 iGPU, set to power devices from Acer and OneXPlayer.
+
+💡 *Intel challenges AMD's handheld graphics dominance with new Arc G3 chips*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/intel-challenges-amds-handheld-dominance-with-new-arc-g3-chips-panther-lake-silicon-brings-up-to-14-cores-arc-b390-graphics-to-handhelds)
+
+---
+
+### 6. Acer brings Intel Arc B390 graphics to Predator Atlas 8 gaming handheld G3 Extreme CPU paired with segment-first metal fan for increased airflow 
+
+Acer's Predator Atlas 8 gaming handheld now features Intel Arc processors, including the G3 Extreme CPU paired with a segment-first metal fan for increased airflow, and options with Arc B370 or B390 iGPUs.
+
+💡 *Acer challenges AMD dominance in handheld gaming with Intel Arc integration.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/acer-brings-intel-arc-b390-graphics-to-predator-atlas-8-gaming-handheld-g3-extreme-cpu-paired-with-segment-first-metal-fan-for-increased-airflow)
+
+---
+
+### 7. Ultima Underworld returns as a fan-made Unity remake after 10 years of work 
+
+A fan-made Unity remake of Ultima Underworld is finally released after 10 years of development. This project aims to recreate the classic gaming experience using the Unity engine. The remake is a labor of love from the gaming community.
+
+💡 *Fans bring classic gaming experience back to life with modern tech.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112557-ultima-underworld-returns-fan-made-unity-remake-after.html)
+
+---
+
+### 8. MSI celebrates 40th anniversary with dragon-themed Titan laptop and MEG Ace motherboard 
+
+MSI celebrates 40th anniversary with a special edition Titan laptop and MEG Ace motherboard. The Titan 18 HX Dragon Edition Draco Epic features a unique dragon design on its lid. This is a nod to the company's logo and anniversary.
+
+💡 *MSI's 40th anniversary edition showcases brand heritage and innovation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112563-msi-celebrates-40th-anniversary-dragon-themed-titan-laptop.html)
 
 ---
 

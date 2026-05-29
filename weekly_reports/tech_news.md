@@ -1,125 +1,95 @@
 # 📰 Tech News
-**Week of May 28, 2026**
+**Week of May 29, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-05-28 12:06
+- **Articles this week:** 8
+- **Report generated:** 2026-05-29 11:56
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Samsung Display announces world's first 360 Hz 4K QD-OLED panel dual-mode support also offers 680Hz at FHD, 10 customers reportedly lined up 
+### 1. TP-Link announces its first consumer Wi-Fi 8 roadmap Archer 8 routers scheduled to arrive in October 2026, pending FCC approval 
 
-Samsung Display announces 360 Hz 4K QD-OLED panel, a major gaming breakthrough. This panel also supports 680Hz at FHD. Several clients are reportedly lined up to use the technology.
+TP-Link announced its Wi-Fi 8 roadmap with Archer 8 router launch in October, pending FCC approval.
 
-💡 *Revolutionizes gaming with ultra-high refresh rates and 4K resolution*
+💡 *Boosts wireless speeds and efficiency for modern smart homes and devices.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/samsung-display-announces-worlds-first-360-hz-4k-qd-oled-panel-dual-mode-support-also-offers-680hz-at-fhd-10-customers-reportedly-lined-up)
-
----
-
-### 2. Microsoft is rolling out its Windows 11 CPU-boosting update here's how to enable it now 
-
-Microsoft is rolling out a Windows 11 update that boosts CPU performance, accelerating app launches and core shell experiences. Update KB5089573 utilizes the LLP system to temporarily increase CPU clocks. This improvement aims to enhance overall system responsiveness.
-
-💡 *Temporary CPU clock boosts enhance Windows 11 system responsiveness*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112561-microsoft-rolling-out-windows-11-cpu-boosting-update.html)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/tp-link-announces-its-first-consumer-wi-fi-8-roadmap-archer-8-routers-scheduled-to-arrive-in-october-2026-pending-fcc-approval)
 
 ---
 
-### 3. Ferrari bet its legacy on an EV designed by Jony Ive. The backlash wiped out $5 billion in a day. 
+### 2. Researchers found a way to spy on your browsing by watching your SSD's activity 
 
-Ferrari's EV, designed by Jony Ive, received harsh criticism from Italy's deputy prime minister and others, deviating from Ferrari's established identity.
+Researchers discovered a method to spy on browsing habits by monitoring SSD timing differences.
 
-💡 *Brand identity and legacy matter in electric vehicle innovation.*
+💡 *SSD timing can reveal sensitive browsing information without direct access.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112546-ferrari-bet-legacy-ev-designed-jony-backlash-wiped.html)
-
----
-
-### 4. Wide-ranging 7-zip vulnerability with 8.8 CVE rating allows for code execution hundreds of millions of machines potentially at risk 
-
-A critical 7-zip vulnerability allows code execution with an 8.8 CVE rating, affecting hundreds of millions of machines worldwide.
-
-💡 *Massive user base makes widespread exploitation extremely concerning and feasible.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/wide-ranging-7-zip-vulnerability-with-8-8-cve-rating-allows-for-code-execution-hundreds-of-millions-of-machines-potentially-at-risk)
+🔗 [Read Full Article](https://www.techspot.com/news/112562-researchers-found-way-spy-browsing-watching-ssd-activity.html)
 
 ---
 
-### 5. The Netherlands just blocked a US company from buying the app Dutch citizens use for everything 
+### 3. Philips and AOC join the 1,000 Hz monitor race with new 1080p models 
 
-The Netherlands blocked a US company's acquisition of a domestic app, showing a growing trend among European countries to protect their digital sovereignty and limit foreign influence on local service providers.
+AOC and Philips unveiled 1,000Hz 1080p monitors in collaboration with BOE, targeting esports and motion clarity.
 
-💡 *European nations prioritize digital self-reliance over foreign investment and control.*
+💡 *High refresh rate enhances competitive gaming and motion smoothness significantly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112552-netherlands-blocked-us-company-buying-app-dutch-citizens.html)
-
----
-
-### 6. This startup wants to destroy cancer tumors using ultrasound instead of surgery 
-
-HistoSonics is developing histotripsy, an ultrasound technique to destroy cancer tumors without surgery.
-
-💡 *Non-invasive cancer treatment could reduce patient trauma and recovery time.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112536-startup-wants-destroy-cancer-tumors-using-ultrasound-instead.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112559-philips-aoc-join-1000-hz-monitor-race-new.html)
 
 ---
 
-### 7. Smartphone shipments face worst decline ever: memory crisis and US-Iran war hit market 
+### 4. Linux prepares to axe legacy x32 hybrid mode hybrid 32-bit/64-bit mode faces complete removal by 2027 due to low adoption 
 
-Global smartphone shipments are forecast to fall 13.9% in 2026 to 1.09 billion units, the lowest since 2013.
+Linux developers plan to remove the x32 ABI due to low adoption, a hybrid mode that combines 32-bit and 64-bit capabilities. The x32 ABI was introduced as a potential solution for 32-bit binary compatibility on 64-bit systems. Its removal is expected by 2027.
 
-💡 *Memory crisis and US-Iran war exacerbate struggling smartphone market.*
+💡 *Legacy x32 ABI faces removal due to lack of developer adoption*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112550-smartphone-shipments-face-worst-decline-ever-memory-crisis.html)
-
----
-
-### 8. Most Americans want digital shelf labels and surveillance pricing banned 
-
-A survey found 65% of Americans believe ESLs will increase prices, and 68% think surveillance pricing will have the same effect.
-
-💡 *Concerns over price increases drive opposition to ESLs and surveillance pricing.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112545-most-americans-want-digital-shelf-labels-surveillance-pricing.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linux-developers-are-looking-to-retire-x32-abi-a-hybrid-32-bit-64-bit-mode-that-was-built-to-speed-up-64-bit-applications)
 
 ---
 
-### 9. Inside the data center boom that's consuming Chile's last water 
+### 5. Startup unveils underwater drone designed for protecting undersea cables small drone dives to 1,640 feet, comes with four-hour battery endurance or unlimited range when tethered to surface power source 
 
-Data centers in Chile consume billions of liters of water annually, exacerbating drought conditions in the Quilicura wetland.
+A British-New Zealand startup has unveiled an AI-powered undersea drone for patrolling undersea infrastructure, powered by an autonomous software stack. The drone can dive to 1,640 feet and has four-hour battery endurance or unlimited range when tethered. It allows a single operator to coordinate multiple drones.
 
-💡 *Water-intensive data centers threaten Chile's ecosystem and drinking water supply.*
+💡 *Enhanced underwater security with AI-powered drone surveillance capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112540-inside-data-center-boom-consuming-chile-last-water.html)
-
----
-
-### 10. Sandisk brings back affordable storage to rescue buyers from the SSD crisis new 320 and 520 SATA SSDs are ready to launch 
-
-SanDisk is set to launch new SATA SSDs, the 520 and 320, with capacities up to 4TB, offering more affordable storage options for consumers.
-
-💡 *Affordable storage revival in midst of SSD price crisis.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/sandisk-brings-back-affordable-storage-to-rescue-buyers-from-the-ssd-crisis-new-320-and-520-sata-ssds-are-ready-to-launch)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/startup-unveils-uncrewed-vehicle-designed-for-monitoring-undersea-cables-small-drone-comes-with-four-hour-battery-endurance-or-unlimited-range-when-tethered-to-surface-power-source)
 
 ---
 
-### 11. Valve hikes Steam Deck OLED prices 512GB is now $789, while 1TB climbs to $949 
+### 6. Blue Origin's New Glenn rocket explodes in massive fireball during testing in Florida 
 
-Valve's Steam Deck prices have increased by up to $300 due to component shortages.
+Blue Origin's New Glenn rocket exploded during a static fire test in Florida, marking a setback for the company's launch ambitions. The test was one of the final checks before launch and was meant to verify the rocket's engines and ground systems. The incident was captured on livestream footage.
 
-💡 *Component shortages drive significant price hikes for gaming devices*
+💡 *Blue Origin's New Glenn rocket development faces significant technical hurdles.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/valve-hikes-steam-deck-oled-prices-512gb-is-now-usd789-while-1tb-climbs-to-usd949)
+🔗 [Read Full Article](https://www.techspot.com/news/112577-blue-origin-massive-new-glenn-rocket-disappears-fireball.html)
+
+---
+
+### 7. YouTube is cracking down on undisclosed AI videos, but won't penalize creators for making them 
+
+YouTube introduces a simplified labeling system for AI-generated content, emphasizing transparency.
+
+💡 *Creators won't face penalties for using AI, just disclosure.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112570-youtube-cracking-down-undisclosed-ai-videos-but-wont.html)
+
+---
+
+### 8. Valve's Steam Machine may cost more than today's Steam Deck OLED 
+
+Brad Lynch warned that Valve's Steam Machine may cost more than the Steam Deck OLED. The Steam Deck OLED's price is around $399, making the potential increase concerning. This news may impact gamers' purchasing decisions.
+
+💡 *Potential price hike may deter gamers from buying Steam Machine.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112565-valve-steam-machine-may-cost-more-than-today.html)
 
 ---
 
