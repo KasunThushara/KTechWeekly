@@ -1,95 +1,85 @@
 # 📰 Tech News
-**Week of May 29, 2026**
+**Week of May 30, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-05-29 11:56
+- **Articles this week:** 7
+- **Report generated:** 2026-05-30 10:28
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. TP-Link announces its first consumer Wi-Fi 8 roadmap Archer 8 routers scheduled to arrive in October 2026, pending FCC approval 
+### 1. Windows BitLocker exploit sparks messy feud between Microsoft and the researcher who exposed it 
 
-TP-Link announced its Wi-Fi 8 roadmap with Archer 8 router launch in October, pending FCC approval.
+A security researcher exposed a zero-day exploit in Windows BitLocker, allowing access to encrypted drives.
 
-💡 *Boosts wireless speeds and efficiency for modern smart homes and devices.*
+💡 *Windows BitLocker encryption compromised by a publicly disclosed zero-day exploit.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/tp-link-announces-its-first-consumer-wi-fi-8-roadmap-archer-8-routers-scheduled-to-arrive-in-october-2026-pending-fcc-approval)
-
----
-
-### 2. Researchers found a way to spy on your browsing by watching your SSD's activity 
-
-Researchers discovered a method to spy on browsing habits by monitoring SSD timing differences.
-
-💡 *SSD timing can reveal sensitive browsing information without direct access.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112562-researchers-found-way-spy-browsing-watching-ssd-activity.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112576-windows-bitlocker-exploit-sparks-messy-feud-between-microsoft.html)
 
 ---
 
-### 3. Philips and AOC join the 1,000 Hz monitor race with new 1080p models 
+### 2. Cooler Master is bringing active cooling to DDR5 RAM, promising up to 15-degree temperature drops 'MasterDIMM' combines G.SKILL memory with a built-in fan, kits run up to 128GB 
 
-AOC and Philips unveiled 1,000Hz 1080p monitors in collaboration with BOE, targeting esports and motion clarity.
+Cooler Master and G.Skill launch 'MasterDIMM' DDR5 memory sticks with built-in fans, reducing temperatures by up to 15 degrees. The MasterDIMM features a stylish black and gold heatsink with RGB stripes. Kits can hold up to 128GB of memory.
 
-💡 *High refresh rate enhances competitive gaming and motion smoothness significantly.*
+💡 *Integrated cooling can improve system performance and reduce overheating risks*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112559-philips-aoc-join-1000-hz-monitor-race-new.html)
-
----
-
-### 4. Linux prepares to axe legacy x32 hybrid mode hybrid 32-bit/64-bit mode faces complete removal by 2027 due to low adoption 
-
-Linux developers plan to remove the x32 ABI due to low adoption, a hybrid mode that combines 32-bit and 64-bit capabilities. The x32 ABI was introduced as a potential solution for 32-bit binary compatibility on 64-bit systems. Its removal is expected by 2027.
-
-💡 *Legacy x32 ABI faces removal due to lack of developer adoption*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linux-developers-are-looking-to-retire-x32-abi-a-hybrid-32-bit-64-bit-mode-that-was-built-to-speed-up-64-bit-applications)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/cooler-master-is-bringing-active-cooling-to-ddr5-ram-promising-up-to-15-degree-temperature-drops-masterdimm-combines-g-skill-memory-with-a-built-in-fan-kits-run-up-to-128gb)
 
 ---
 
-### 5. Startup unveils underwater drone designed for protecting undersea cables small drone dives to 1,640 feet, comes with four-hour battery endurance or unlimited range when tethered to surface power source 
+### 3. Creative launches Sound Blaster AE-X for PC audio enthusiasts 
 
-A British-New Zealand startup has unveiled an AI-powered undersea drone for patrolling undersea infrastructure, powered by an autonomous software stack. The drone can dive to 1,640 feet and has four-hour battery endurance or unlimited range when tethered. It allows a single operator to coordinate multiple drones.
+The Sound Blaster AE-X features an ESS Sabre DAC for improved sound quality.
 
-💡 *Enhanced underwater security with AI-powered drone surveillance capabilities.*
+💡 *Enhanced audio clarity for PC gaming and music enthusiasts.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/startup-unveils-uncrewed-vehicle-designed-for-monitoring-undersea-cables-small-drone-comes-with-four-hour-battery-endurance-or-unlimited-range-when-tethered-to-surface-power-source)
-
----
-
-### 6. Blue Origin's New Glenn rocket explodes in massive fireball during testing in Florida 
-
-Blue Origin's New Glenn rocket exploded during a static fire test in Florida, marking a setback for the company's launch ambitions. The test was one of the final checks before launch and was meant to verify the rocket's engines and ground systems. The incident was captured on livestream footage.
-
-💡 *Blue Origin's New Glenn rocket development faces significant technical hurdles.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112577-blue-origin-massive-new-glenn-rocket-disappears-fireball.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112582-creative-launches-sound-blaster-ae-x-high-end.html)
 
 ---
 
-### 7. YouTube is cracking down on undisclosed AI videos, but won't penalize creators for making them 
+### 4. Call of Duty: Modern Warfare 4 confirmed for October 23, brings the series to Korea 
 
-YouTube introduces a simplified labeling system for AI-generated content, emphasizing transparency.
+Pre-orders open for Call of Duty: Modern Warfare 4, releasing on October 23.
 
-💡 *Creators won't face penalties for using AI, just disclosure.*
+💡 *Call of Duty series expands to the Korean setting for the first time.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112570-youtube-cracking-down-undisclosed-ai-videos-but-wont.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112572-call-duty-modern-warfare-4-confirmed-october-23.html)
 
 ---
 
-### 8. Valve's Steam Machine may cost more than today's Steam Deck OLED 
+### 5. Google engineer arrested for using internal search data to win $1.2 million on Polymarket 
 
-Brad Lynch warned that Valve's Steam Machine may cost more than the Steam Deck OLED. The Steam Deck OLED's price is around $399, making the potential increase concerning. This news may impact gamers' purchasing decisions.
+Google engineer Spagnuolo was arrested for using internal data to win $1.2 million on Polymarket, allegedly exploiting his inside knowledge to make bets on outcomes he already knew.
 
-💡 *Potential price hike may deter gamers from buying Steam Machine.*
+💡 *Inside information can be misused for personal financial gain in the digital age.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112565-valve-steam-machine-may-cost-more-than-today.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112574-google-engineer-charged-after-allegedly-using-confidential-data.html)
+
+---
+
+### 6. Bambu Lab teases new A2L 3D printer June 1 launch hints at a massive, budget-friendly bed slinger 
+
+Bambu Lab is teasing a new A2L 3D printer with a June 1 launch, sparking speculation about its features.
+
+💡 *Potential massive, budget-friendly 3D printer could disrupt the market.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/bambu-lab-teases-new-a2l-3d-printer-june-1-launch-confirmed)
+
+---
+
+### 7. Startup Zone at Sensors Converge features Upbeat and others 
+
+Upbeat Technologies will showcase its AI-powered MEMS vibration sensors at Sensors Converge. These sensors are claimed to be the world's smallest. This innovation is expected to revolutionize various industries.
+
+💡 *Advancements in AI-powered sensing technology enhance industrial precision and efficiency*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/startup-zone-sensors-converge-features-upbeat-and-others)
 
 ---
 

@@ -1,205 +1,125 @@
 # 💻 Hardware
-**Week of May 29, 2026**
+**Week of May 30, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-05-29 11:56
+- **Articles this week:** 11
+- **Report generated:** 2026-05-30 10:28
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Qualcomm announces Snapdragon C Platform for $300 and up laptops Windows on Arm and NPUs for the budget tier ⭐
+### 1. Microchip dsPIC33CK low-cost motor control MCU sells for $0.51 and up ⭐
 
-Qualcomm announced the Snapdragon C Platform for budget laptops priced at $300 and up, featuring a new Kryo chip variant. This platform aims to power laptops with Windows on Arm and Neural Processing Units (NPUs). It targets the budget tier, competing with existing affordable laptop options.
+Microchip has released the dsPIC33CK Value Line, a low-cost 16-bit DSC series for motor control applications, offering up to 100 MIPS and high-resolution PWM.
 
-💡 *Qualcomm enters budget laptop market with competitive Kryo chip variant*
+💡 *Cost-effective motor control MCU for industrial and automotive applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/qualcomm-announces-snapdragon-c-platform-for-usd300-and-up-laptops-windows-on-arm-and-npus-for-the-budget-market)
-
----
-
-### 2. u-blox ALMA-B2 Bluetooth 6.0 and 802.15.4 module features Nordic nRF54LM20 Edge AI wireless MCU ⭐
-
-u-blox announced the ALMA-B2 module series with Nordic nRF54LM20 wireless MCU, supporting BLE 6.0, 802.15.4, and Edge AI capabilities.
-
-💡 *Enables fast, energy-efficient Edge AI applications in wireless devices.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/29/u-blox-alma-b2-bluetooth-6-0-and-802-15-4-module-features-nordic-nrf54lm20-edge-ai-wireless-mcu/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/29/microchip-dspic33ck-low-cost-motor-control-mcu/)
 
 ---
 
-### 3. Qualcomm Snapdragon C to power cheaper, entry-level Arm Windows laptops selling for $300 and up ⭐
+### 2. Amazon unveils 'Resilient Network Graphs' data center network that cuts hardware by 69% and boosts throughput by 33% now the default for most AWS workloads 
 
-Qualcomm Snapdragon C SoC powers entry-level Arm Windows laptops at $300+, targeting Intel competitors.
+Amazon Web Services (AWS) has unveiled 'Resilient Network Graphs' (RNG), a new data center network architecture that significantly reduces hardware usage and boosts throughput. RNG delivers 33% higher throughput, cuts network power consumption by 40%, and uses 69% fewer devices. It is now the default for most AWS workloads.
 
-💡 *Qualcomm enters budget laptop market with energy-efficient, AI-accelerated Arm Windows offerings.*
+💡 *Significant cost savings and efficiency gains in cloud infrastructure management.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/29/qualcomm-snapdragon-c-to-power-cheaper-entry-level-arm-windows-laptops-selling-for-300-and-up/)
-
----
-
-### 4. AMD launches Versal Prime Gen 2 2VM3454, 2VM3254, and 2VM3104 adaptive SoCs in compact 23x23mm packages ⭐
-
-AMD has launched three new Versal Prime Gen 2 adaptive SoCs, the 2VM3454, 2VM3254, and 2VM3104, designed for space-constrained applications. These devices offer up to 100K DMIPS of scalar compute in compact 23x23mm packages. They deliver an optimized footprint and processing subsystem compared to earlier models.
-
-💡 *Significant performance boost in compact package for space-constrained applications.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/29/amd-launches-versal-prime-gen-2-2vm3454-2vm3254-and-2vm3104-adaptive-socs-in-compact-23x23mm-packages/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/amazon-unveils-resilient-network-graphs-data-center-network-that-cuts-hardware-by-69-percent-and-boosts-throughput-by-33-percent-now-the-default-for-most-aws-workloads)
 
 ---
 
-### 5. Redmagic 11S Pro gaming phone gets cooling and CPU upgrades, but drops to 16GB RAM as price climbs to $849 ⭐
+### 3. Nvidia and Microsoft tease "a new era of PC" ahead of Computex 2026 coordinated social media posts could indicate that rumored N1X laptops will be Windows on Arm systems 
 
-The Redmagic 11S Pro gaming phone gets cooling and CPU upgrades, but drops to 16GB RAM, with a price increase to $849. The Snapdragon 8 Elite Gen 5 Leading Version powers the device. Nubia focuses on squeezing more performance from familiar hardware.
+Nvidia and Microsoft are teasing a new era of PC, possibly featuring Windows on Arm systems in rumored N1X laptops, which could enable new local AI experiences, such as beyond Copilot+.
 
-💡 *Performance upgrade prioritized over RAM capacity in new gaming phone release*
+💡 *Nvidia and Microsoft's collaboration could revolutionize AI capabilities on PCs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112566-redmagic-11s-pro-gaming-phone-upgrades-cooling-cpu.html)
-
----
-
-### 6. Independent cyber audit finds zero malware or backdoors in DJI drones U.S. firm's hardware analysis challenges FCC ban amid ongoing $1.56 billion legal battle 
-
-DJI publishes results of independent security assessment by OnDefend, finding no malware or backdoors in their drones.
-
-💡 *Independent audit challenges FCC ban on DJI drones over national security concerns.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/dji-commissioned-security-audit-finds-no-major-vulnerabilities-in-two-drone-models-as-fcc-lawsuit-continues)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/nvidia-and-microsoft-tease-a-new-era-of-pc-ahead-of-computex-2026-coordinated-social-media-posts-could-indicate-that-rumored-n1x-laptops-will-be-windows-on-arm-systems)
 
 ---
 
-### 7. Asus ROG Crosshair 2006 motherboard review: 20 years of ROG 
+### 4. TikTok owner ByteDance is reportedly developing its own custom AI CPUs company looks to ease China's dependence on US chipmakers 
 
-The Asus ROG Crosshair 2006 motherboard offers a premium mid-range AM5 experience with unique retro flair, robust power delivery, and high-speed networking options.
+TikTok owner Bytedance is reportedly developing its own custom CPUs to reduce costs and dependence on US chipmakers.
 
-💡 *Limited production run and nostalgia factor justify premium price increase.*
+💡 *Bytedance's custom CPUs aim to mitigate China's reliance on foreign technology.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/asus-rog-crosshair-2006-motherboard-review)
-
----
-
-### 8. Petros CH32H417M Alef A Raspberry Pi Pico-sized RISC-V USB 3.0 camera board 
-
-The Petros CH32H417M Alef is a compact, Raspberry Pi Pico-sized board using WCH's CH32H417M RISC-V MCU, featuring a 2MP camera and USB 3.0 connectivity.
-
-💡 *Low-power, high-performance RISC-V board for AI and IoT applications.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/29/petros-ch32h417m-alef-a-raspberry-pi-pico-sized-risc-v-usb-3-0-camera-board/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tiktok-owner-bytedance-is-reportedly-developing-its-own-custom-ai-cpus-company-looks-to-ease-chinas-dependence-on-us-chipmakers)
 
 ---
 
-### 9. AAEON MIX-PTLWV1 Panther Lake industrial mini-ITX motherboard offers quad DisplayPort, dual 10GbE, and more 
+### 5. Hands-on with Corsair's 3200D RS ARGB Mid-tower PC Case: Budget chassis includes three fans and doesn t empty your wallet 
 
-The AAEON MIX-PTLWV1 is an industrial mini-ITX motherboard featuring Intel Panther Lake processors with quad DisplayPort and dual 10GbE connectivity. It supports up to 128GB DDR5 memory, M.2 NVMe SSD storage, and more. The motherboard is designed for industrial applications requiring high-performance and expandability.
+The Corsair 3200D RS ARGB mid-tower PC case offers strong airflow, supports large GPUs and radiators, and comes with three built-in fans at an affordable price under $80.
 
-💡 *High-performance industrial computing for demanding applications and environments*
+💡 *Affordable PC case with robust cooling and large GPU support.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/28/aaeon-mix-ptlwv1-panther-lake-industrial-mini-itx-motherboard-offers-quad-displayport-dual-10gbe/)
-
----
-
-### 10. Save $575 on this OLED Asus gaming laptop with RTX 5070, now just $1,575 ROG Zephyrus G16 comes with 240 Hz refresh rate, Intel Core Ultra 9, 16GB of RAM, and a 1TB SSD 
-
-Save $575 on the ROG Zephyrus G16 gaming laptop, now priced at $1,575. This Asus laptop features a 240 Hz refresh rate, Intel Core Ultra 9 processor, 16GB of RAM, and a 1TB SSD.
-
-💡 *High-performance gaming laptop now more affordable with significant price reduction*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/save-usd575-on-this-oled-asus-gaming-laptop-with-rtx-5070-now-just-usd1-575-rog-zephyrus-g16-comes-with-240-hz-refresh-rate-intel-core-ultra-9-16gb-of-ram-and-a-1tb-ssd)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/hands-on-corsair-3200d-rs-argb-mid-tower-pc-case)
 
 ---
 
-### 11. IBM ThinkPad T43 enthusiast installs 'almost' every version of Windows on the single-core laptop without using virtual machine 26 years of Windows running bare metal, from 1996 Windows NT 4.0 to Windows 10 22H2 working on legendary hardware 
+### 6. Epic Games Tim Sweeney slams Valve over Steam Deck price hikes mocks founder Gabe Newell over rising costs of megayachts 
 
-An IBM ThinkPad user has successfully installed various Windows versions bare-metal on their single-core laptop from 1996 to 2023, demonstrating exceptional technical skills and dedication.
+Epic Games' Tim Sweeney criticized Valve CEO Gabe Newell over Steam Deck price hikes and his expensive megayacht collection on social media. The comparison was made to highlight the Steam Deck's significant price increases compared to other gaming consoles. The post sparked a public debate about the cost of gaming hardware.
 
-💡 *Legacy hardware can still run modern operating systems with proper configuration and effort.*
+💡 *Valve's Steam Deck price hikes raise competition and consumer concern*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/ibm-thinkpad-t43-enthusiast-installs-almost-every-version-of-windows-on-the-device-without-using-virtual-machine-1996-windows-nt-4-0-to-windows-10-22h2-working-on-legendary-hardware)
-
----
-
-### 12. Microsoft warns GPU mining malware is being spread to users through SEO poisoning and AI chatbots cryptojacking campaign targets gamers and high-end PC users with downloads disguised as popular PC utilities 
-
-Microsoft uncovered a GPU-focused cryptojacking campaign using SEO poisoning and chatbots to spread malware disguised as popular PC utilities.
-
-💡 *Users are vulnerable to malware through trusted software recommendations and search results.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-warns-gpu-mining-malware-is-being-spread-to-users-through-seo-poisoning-and-ai-chatbots-cryptojacking-campaign-targets-gamers-and-high-end-pc-users-with-downloads-disguised-as-popular-pc-utilities)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/epic-games-tim-sweeney-slams-valve-over-steam-deck-price-hikes-mocks-founder-gabe-newell-over-rising-costs-of-megayachts)
 
 ---
 
-### 13. Supermicro says it assisted Taiwanese authorities in server smuggling bust that led to three arrests company issues statement on working with US, Taiwan to block illicit diversion of servers to China 
+### 7. Acer unveils its first Ryzen 9 9955X3D gaming laptop refreshed Nitro 16 joins new Predator Helios 18 AI and streaming-only Nitro Blaze Link handheld 
 
-Supermicro assisted Taiwanese authorities in a server smuggling bust, leading to 3 arrests and 50 servers seized.
+Acer unveils new gaming laptops, including its first Ryzen 9 9955HX3D model, and a handheld device. The Nitro 16 features triple PCIe 5.0 storage, while the Predator Helios 18 boasts AI capabilities. These devices are showcased at Computex.
 
-💡 *Counter-smuggling efforts thwart Chinese access to sensitive US tech*
+💡 *Acer expands gaming laptop lineup with high-performance Ryzen and AI features.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/supermicro-says-it-assisted-taiwanese-authorities-in-server-smuggling-bust-that-led-to-three-arrests-company-issues-statement-on-working-with-us-taiwan-to-block-illicit-diversion-of-servers-to-china)
-
----
-
-### 14. 'Call of Duty Modern Warfare 4' developer promises PC focus Infinity Ward promises extensive optimization and is dropping older consoles 
-
-Infinity Ward is dropping older consoles and focusing on PC optimization for Call of Duty Modern Warfare 4. The developer promises extensive optimization and PC-specific options for a smoother gaming experience. This shift prioritizes performance and features for PC gamers.
-
-💡 *Better console drop means more resources for PC optimization and features*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/call-of-duty-modern-warfare-4-developer-promises-pc-focus-infinity-ward-promises-extensive-optimization-and-is-dropping-older-consoles)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/acer-unveils-first-ryzen-9-9955x3d-gaming-laptop-refreshed-nitro-16-joins-new-predator-helios-18-ai-and-streaming-only-nitro-blaze-link-handheld)
 
 ---
 
-### 15. Acer brings Intel Arc B390 graphics to Predator Atlas 8 gaming handheld G3 Extreme CPU paired with segment-first metal fan for increased airflow 
+### 8. PCMFlow722 library enables two-way real-time HD voice over ESP-NOW with G.722 audio codec 
 
-Acer's Predator Atlas 8 gaming handheld now features Intel Arc processors, including the G3 Extreme CPU paired with a segment-first metal fan for increased airflow, and options with Arc B370 or B390 iGPUs.
+The PCMFlow722 library enables two-way real-time HD voice over ESP-NOW on ESP32 boards, utilizing the G.722 codec for 7 kHz audio at 16 kHz sampling.
 
-💡 *Acer challenges AMD dominance in handheld gaming with Intel Arc integration.*
+💡 *HD voice over ESP-NOW achieves 7 kHz at 64 kbps with G.722 codec.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/acer-brings-intel-arc-b390-graphics-to-predator-atlas-8-gaming-handheld-g3-extreme-cpu-paired-with-segment-first-metal-fan-for-increased-airflow)
-
----
-
-### 16. Acer and Qualcomm take on MacBook Neo with first Snapdragon C laptop Aspire Go 15 delivers 512GB SSD and 8GB of RAM at entry-tier price  
-
-Acer's Aspire Go 15 is the first Snapdragon C-powered laptop, offering 512GB storage and 8GB RAM at a competitive entry-tier price.
-
-💡 *Budget-friendly laptops with long-lasting batteries are gaining mainstream traction slowly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/acer-and-qualcomm-take-on-the-macbook-neo-with-first-snapdragon-c-laptop-aspire-go-15-delivers-512gb-ssd-and-8gb-of-ram-at-entry-tier-price)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/30/pcmflow722-library-enables-two-way-real-time-hd-voice-over-esp-now-with-g-722-audio-codec/)
 
 ---
 
-### 17. Windows can now share audio to two Bluetooth headphones at once, sort of 
+### 9. Are you actually using AI on your PC? 
 
-Windows now allows simultaneous audio transmission to two Bluetooth headphones using shared audio.
+AI is ubiquitous, but its integration into everyday tools is questionable.
 
-💡 *Enhanced productivity and gaming experiences through multi-device audio connectivity.*
+💡 *Availability doesn't equal actual AI usage in daily applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112567-windows-can-now-share-audio-two-bluetooth-headphones.html)
-
----
-
-### 18. This startup has raised $12 million to make liquid-metal circuit boards rewritable 
-
-Itera has raised $12 million to develop rewritable liquid-metal circuit boards using electrowetting technology. This approach dynamically forms connections by shifting conductive liquid across a glass substrate, effectively redrawing circuit paths. The technology has potential applications in fields such as electronics and medical devices.
-
-💡 *Rewritable circuit boards revolutionize electronics manufacturing and repair.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112560-startup-has-raised-12-million-make-liquid-metal.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112586-you-actually-using-ai-pc.html)
 
 ---
 
-### 19. MSI celebrates 40th anniversary with dragon-themed Titan laptop and MEG Ace motherboard 
+### 10. Creative launches Sound Blaster AE-X for PC audio enthusiasts 
 
-MSI celebrates 40th anniversary with a special edition Titan laptop and MEG Ace motherboard. The Titan 18 HX Dragon Edition Draco Epic features a unique dragon design on its lid. This is a nod to the company's logo and anniversary.
+The Sound Blaster AE-X features an ESS Sabre DAC for improved sound quality.
 
-💡 *MSI's 40th anniversary edition showcases brand heritage and innovation.*
+💡 *Enhanced audio clarity for PC gaming and music enthusiasts.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112563-msi-celebrates-40th-anniversary-dragon-themed-titan-laptop.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112582-creative-launches-sound-blaster-ae-x-high-end.html)
+
+---
+
+### 11. New 7-Zip security flaw could put hundreds of millions of systems at risk 
+
+A security flaw in 7-Zip could be exploited by cybercriminals to spread malware and compromise PCs. The bug affects how 7-Zip handles NTFS-based volume image files. This vulnerability puts hundreds of millions of systems at risk.
+
+💡 *Critical flaw in 7-Zip poses massive malware and data compromise risk.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112575-new-7-zip-security-flaw-could-put-hundreds.html)
 
 ---
 

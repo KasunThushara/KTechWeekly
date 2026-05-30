@@ -1,215 +1,155 @@
 # 🤖 AI & ML
-**Week of May 29, 2026**
+**Week of May 30, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 20
-- **Report generated:** 2026-05-29 11:56
+- **Articles this week:** 14
+- **Report generated:** 2026-05-30 10:28
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD launches Versal Prime Gen 2 2VM3454, 2VM3254, and 2VM3104 adaptive SoCs in compact 23x23mm packages ⭐
+### 1. Steam Deck sells out again despite $300 price hike, meanwhile Intel unveils new handheld chip to counter AMD's dominance ⭐
 
-AMD has launched three new Versal Prime Gen 2 adaptive SoCs, the 2VM3454, 2VM3254, and 2VM3104, designed for space-constrained applications. These devices offer up to 100K DMIPS of scalar compute in compact 23x23mm packages. They deliver an optimized footprint and processing subsystem compared to earlier models.
+The Steam Deck sells out after a $300 price hike, despite being less appealing. Intel responds by unveiling its Arc G3 series APUs, bringing its Panther Lake architecture to portable gaming. This move counters AMD's dominance in the market.
 
-💡 *Significant performance boost in compact package for space-constrained applications.*
+💡 *Intel challenges AMD's handheld gaming PC market lead strongly*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/29/amd-launches-versal-prime-gen-2-2vm3454-2vm3254-and-2vm3104-adaptive-socs-in-compact-23x23mm-packages/)
-
----
-
-### 2. New Silicon Motion SM2524XT chip brings 14 GB/s to mainstream SSDs 6nm DRAMless controller boasts heavy AI PC optimization and slashes KV cache latency 
-
-Silicon Motion's SM2524XT mainstream SSD controller achieves 14 GB/s read speed and 2.5 million random IOPS, making it suitable for AI-optimized PCs and heavy workloads.
-
-💡 *Boosts AI PC performance with high-speed storage solutions*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/new-silicon-motion-sm2524xt-chip-brings-14-gb-s-to-mainstream-ssds-6nm-dramless-controller-boasts-heavy-ai-pc-optimization-and-slashes-kv-cache-latency)
+🔗 [Read Full Article](https://www.techspot.com/news/112571-steam-deck-sells-out-despite-300-price-hike.html)
 
 ---
 
-### 3. Researchers say they can spy on your browsing by measuring SSD activity through a browser API claim FROST attack requires no permissions or user interaction to identify which apps and websites you're using 
+### 2. DRAM coolers make a comeback: G.Skill and Cooler Master unveil DDR5 kits with built-in fans 
 
-Researchers claim to have developed FROST, an attack that can spy on users' browsing activity through a browser API without permission or user interaction. FROST exploits the Origin Private File System (OPFS), allowing websites to create files on the local disk. This allows for indirect tracking of user behavior.
+G.Skill and Cooler Master release DDR5 kits with built-in fans, reducing memory temperatures by up to 15 C, ensuring sustained performance and improved signal integrity.
 
-💡 *Browser API can bypass permission requirements for data snooping attacks*
+💡 *Improved memory cooling for enhanced system reliability and performance stability.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/researchers-say-they-can-spy-on-your-browsing-by-measuring-ssd-activity-through-a-browser-api)
-
----
-
-### 4. Asus ROG Crosshair 2006 motherboard review: 20 years of ROG 
-
-The Asus ROG Crosshair 2006 motherboard offers a premium mid-range AM5 experience with unique retro flair, robust power delivery, and high-speed networking options.
-
-💡 *Limited production run and nostalgia factor justify premium price increase.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/asus-rog-crosshair-2006-motherboard-review)
+🔗 [Read Full Article](https://www.techspot.com/news/112580-dram-coolers-make-comeback-gskill-cooler-master-unveil.html)
 
 ---
 
-### 5. Philips and AOC join the 1,000 Hz monitor race with new 1080p models 
+### 3. TikTok owner ByteDance is reportedly developing its own custom AI CPUs company looks to ease China's dependence on US chipmakers 
 
-AOC and Philips unveiled 1,000Hz 1080p monitors in collaboration with BOE, targeting esports and motion clarity.
+TikTok owner Bytedance is reportedly developing its own custom CPUs to reduce costs and dependence on US chipmakers.
 
-💡 *High refresh rate enhances competitive gaming and motion smoothness significantly.*
+💡 *Bytedance's custom CPUs aim to mitigate China's reliance on foreign technology.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112559-philips-aoc-join-1000-hz-monitor-race-new.html)
-
----
-
-### 6. Ambernic's retro gaming handhelds are quietly losing RAM capacity and being downgraded to older LPDDR3 memory company says 1GB capacity is still the standard, 512MB models 'an unexpected error' 
-
-Anbernic retro gaming handhelds are being shipped with reduced RAM capacity without customer notification, downgrading from LPDDR4 to LPDDR3 memory in some units.
-
-💡 *Reduced RAM capacity affects gaming performance and device functionality.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/gaming-handhelds-are-quietly-losing-ram-vendors-aggressively-trim-memory-specs-as-supply-dries-up)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tiktok-owner-bytedance-is-reportedly-developing-its-own-custom-ai-cpus-company-looks-to-ease-chinas-dependence-on-us-chipmakers)
 
 ---
 
-### 7. Startup unveils underwater drone designed for protecting undersea cables small drone dives to 1,640 feet, comes with four-hour battery endurance or unlimited range when tethered to surface power source 
+### 4. Hands-on with Corsair's 3200D RS ARGB Mid-tower PC Case: Budget chassis includes three fans and doesn t empty your wallet 
 
-A British-New Zealand startup has unveiled an AI-powered undersea drone for patrolling undersea infrastructure, powered by an autonomous software stack. The drone can dive to 1,640 feet and has four-hour battery endurance or unlimited range when tethered. It allows a single operator to coordinate multiple drones.
+The Corsair 3200D RS ARGB mid-tower PC case offers strong airflow, supports large GPUs and radiators, and comes with three built-in fans at an affordable price under $80.
 
-💡 *Enhanced underwater security with AI-powered drone surveillance capabilities.*
+💡 *Affordable PC case with robust cooling and large GPU support.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/startup-unveils-uncrewed-vehicle-designed-for-monitoring-undersea-cables-small-drone-comes-with-four-hour-battery-endurance-or-unlimited-range-when-tethered-to-surface-power-source)
-
----
-
-### 8. Mystery company accidentally blew $500 million on Claude AI in a single month failed to put usage limit on licenses for employees 
-
-A company accidentally spent $500 million on Claude AI in a single month due to a lack of usage limits on employee licenses.
-
-💡 *Accidental AI overspending can have catastrophic financial implications for businesses.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/hands-on-corsair-3200d-rs-argb-mid-tower-pc-case)
 
 ---
 
-### 9. Microsoft warns GPU mining malware is being spread to users through SEO poisoning and AI chatbots cryptojacking campaign targets gamers and high-end PC users with downloads disguised as popular PC utilities 
+### 5. Acer unveils its first Ryzen 9 9955X3D gaming laptop refreshed Nitro 16 joins new Predator Helios 18 AI and streaming-only Nitro Blaze Link handheld 
 
-Microsoft uncovered a GPU-focused cryptojacking campaign using SEO poisoning and chatbots to spread malware disguised as popular PC utilities.
+Acer unveils new gaming laptops, including its first Ryzen 9 9955HX3D model, and a handheld device. The Nitro 16 features triple PCIe 5.0 storage, while the Predator Helios 18 boasts AI capabilities. These devices are showcased at Computex.
 
-💡 *Users are vulnerable to malware through trusted software recommendations and search results.*
+💡 *Acer expands gaming laptop lineup with high-performance Ryzen and AI features.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-warns-gpu-mining-malware-is-being-spread-to-users-through-seo-poisoning-and-ai-chatbots-cryptojacking-campaign-targets-gamers-and-high-end-pc-users-with-downloads-disguised-as-popular-pc-utilities)
-
----
-
-### 10. Supermicro says it assisted Taiwanese authorities in server smuggling bust that led to three arrests company issues statement on working with US, Taiwan to block illicit diversion of servers to China 
-
-Supermicro assisted Taiwanese authorities in a server smuggling bust, leading to 3 arrests and 50 servers seized.
-
-💡 *Counter-smuggling efforts thwart Chinese access to sensitive US tech*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/supermicro-says-it-assisted-taiwanese-authorities-in-server-smuggling-bust-that-led-to-three-arrests-company-issues-statement-on-working-with-us-taiwan-to-block-illicit-diversion-of-servers-to-china)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/acer-unveils-first-ryzen-9-9955x3d-gaming-laptop-refreshed-nitro-16-joins-new-predator-helios-18-ai-and-streaming-only-nitro-blaze-link-handheld)
 
 ---
 
-### 11. Trailing-edge foundry roadmaps for GlobalFoundries, UMC, and SMIC mature node chipmakers each pursue differing strategies and IP 
+### 6. Are you actually using AI on your PC? 
 
-GlobalFoundries, UMC, and SMIC pursue distinct trailing-edge roadmaps shaped by geography, regulation, and technology choices, with varying strategies in IP and manufacturing processes.
+AI is ubiquitous, but its integration into everyday tools is questionable.
 
-💡 *Differing strategies impact the future of global semiconductor manufacturing ecosystems.*
+💡 *Availability doesn't equal actual AI usage in daily applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/the-trailing-edge-foundry-roadmap-examined)
-
----
-
-### 12. Leaks reveal US authorities concerned about the rise of anti-tech extremists as AI data center issues become increasingly contentious critics say this could lead to surveillance, criminalization of peaceful opposition 
-
-A leaked report reveals law enforcement concerns about anti-tech extremist protests, warning of widespread violence and unrest. The protests are against data centers and AI, with critics arguing they could lead to surveillance and criminalization of peaceful opposition. The situation has become increasingly contentious, with authorities taking a stern stance.
-
-💡 *Government surveillance and censorship may silence AI critics and protesters.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/leaks-reveal-us-authorities-concerned-about-the-rise-of-anti-tech-extremists-as-ai-data-center-issues-become-increasingly-contentious-critics-say-this-could-lead-to-surveillance-criminalization-of-peaceful-opposition)
+🔗 [Read Full Article](https://www.techspot.com/news/112586-you-actually-using-ai-pc.html)
 
 ---
 
-### 13. Apple may need Google's Gemini to make Siri smart enough to compete 
+### 7. The ad-tracking industry is exposing US soldiers on the battlefield 
 
-Apple's on-device AI capabilities are limited by memory and processing ceilings, hindering Siri's development. Large AI models now operate at a scale that Apple's custom silicon struggles to match. This gap may require Apple to collaborate with Google.
+Centcom has acknowledged receiving reports of US personnel being targeted by adversaries using commercial location data.
 
-💡 *On-device AI limitations threaten Apple's Siri competitive edge.*
+💡 *Adversary access to commercial data threatens US soldier safety and security.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112568-apple-may-need-google-gemini-make-siri-smart.html)
-
----
-
-### 14. Blue Origin's New Glenn rocket explodes in massive fireball during testing in Florida 
-
-Blue Origin's New Glenn rocket exploded during a static fire test in Florida, marking a setback for the company's launch ambitions. The test was one of the final checks before launch and was meant to verify the rocket's engines and ground systems. The incident was captured on livestream footage.
-
-💡 *Blue Origin's New Glenn rocket development faces significant technical hurdles.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112577-blue-origin-massive-new-glenn-rocket-disappears-fireball.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112578-ad-tracking-industry-exposing-us-soldiers-battlefield.html)
 
 ---
 
-### 15. Uber burned through its entire 2026 AI budget in four months and has little to show for it 
+### 8. New 7-Zip security flaw could put hundreds of millions of systems at risk 
 
-Uber has burned through its 2026 AI budget in four months with little return. The company's AI spending is rising but hasn't seen meaningful ROI. President and Chief Operating Officer Andrew Macdonald notes this concern.
+A security flaw in 7-Zip could be exploited by cybercriminals to spread malware and compromise PCs. The bug affects how 7-Zip handles NTFS-based volume image files. This vulnerability puts hundreds of millions of systems at risk.
 
-💡 *Uber's AI investment is struggling to yield meaningful financial returns.*
+💡 *Critical flaw in 7-Zip poses massive malware and data compromise risk.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112569-uber-spending-heavily-ai-but-returns-remain-elusive.html)
-
----
-
-### 16. Windows can now share audio to two Bluetooth headphones at once, sort of 
-
-Windows now allows simultaneous audio transmission to two Bluetooth headphones using shared audio.
-
-💡 *Enhanced productivity and gaming experiences through multi-device audio connectivity.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112567-windows-can-now-share-audio-two-bluetooth-headphones.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112575-new-7-zip-security-flaw-could-put-hundreds.html)
 
 ---
 
-### 17. This startup has raised $12 million to make liquid-metal circuit boards rewritable 
+### 9. Call of Duty: Modern Warfare 4 confirmed for October 23, brings the series to Korea 
 
-Itera has raised $12 million to develop rewritable liquid-metal circuit boards using electrowetting technology. This approach dynamically forms connections by shifting conductive liquid across a glass substrate, effectively redrawing circuit paths. The technology has potential applications in fields such as electronics and medical devices.
+Pre-orders open for Call of Duty: Modern Warfare 4, releasing on October 23.
 
-💡 *Rewritable circuit boards revolutionize electronics manufacturing and repair.*
+💡 *Call of Duty series expands to the Korean setting for the first time.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112560-startup-has-raised-12-million-make-liquid-metal.html)
-
----
-
-### 18. Elizabeth Warren wants to tax AI data centers as power bills climb 
-
-Elizabeth Warren proposes taxing AI data centers due to rising power costs affecting consumers.
-
-💡 *AI economic gains are concentrated among a few firms and executives.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112549-elizabeth-warren-wants-tax-ai-data-centers-power.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112572-call-duty-modern-warfare-4-confirmed-october-23.html)
 
 ---
 
-### 19. YouTube is cracking down on undisclosed AI videos, but won't penalize creators for making them 
+### 10. TP-Link's first Wi-Fi 8 router is coming, if the FCC allows it 
 
-YouTube introduces a simplified labeling system for AI-generated content, emphasizing transparency.
+TP-Link is preparing to release its first Wi-Fi 8 router, pending FCC approval. The company completed successful Wi-Fi 8 trials last year, validating data throughput and the Wi-Fi 8 beacon. This marks a significant step towards future wireless networking.
 
-💡 *Creators won't face penalties for using AI, just disclosure.*
+💡 *Enhanced wireless networking for faster, more reliable internet connectivity.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112570-youtube-cracking-down-undisclosed-ai-videos-but-wont.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112579-tp-link-first-wi-fi-8-router-coming.html)
 
 ---
 
-### 20. Tech executives are suffering from "AI psychosis," says Box CEO 
+### 11. Wix lays off 1,000 workers as the AI jobs apocalypse keeps looking very real 
 
-Box CEO Aaron Levie labels the C-suite affliction as 'AI psychosis.' This condition refers to the anxiety or confusion caused by the rapid integration of AI technology into business operations. Levie believes it affects top executives.
+Wix lays off 1,000 workers in a 20% team reduction. CEO Avishai Abrahami described the decision as 'hard'. This move is part of a broader AI-driven job market shift.
 
-💡 *Over-reliance on AI can lead to decision-making uncertainty in executives.*
+💡 *AI adoption accelerates job cuts in the tech industry*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112555-tech-executives-suffering-ai-psychosis-box-ceo.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112573-wix-lays-off-1000-workers-ai-jobs-apocalypse.html)
+
+---
+
+### 12. Acer cranks its latest Predator gaming monitor up to 1,000 Hz Model joins lineup with QD-OLED panels and an immersive 3D display 
+
+Acer introduces a high-end gaming monitor with a 1,000 Hz refresh rate, QD-OLED panels, and immersive 3D capabilities. The monitor joins Acer's lineup with its advanced features. The new monitor is set to be showcased at Computex.
+
+💡 *Unmatched gaming performance and immersion with cutting-edge display technology.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/acer-cranks-its-latest-predator-gaming-monitor-up-to-1-000-hz-model-joins-lineup-with-qd-oled-panels-and-an-immersive-3d-display)
+
+---
+
+### 13. Startup Zone at Sensors Converge features Upbeat and others 
+
+Upbeat Technologies will showcase its AI-powered MEMS vibration sensors at Sensors Converge. These sensors are claimed to be the world's smallest. This innovation is expected to revolutionize various industries.
+
+💡 *Advancements in AI-powered sensing technology enhance industrial precision and efficiency*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/startup-zone-sensors-converge-features-upbeat-and-others)
+
+---
+
+### 14. Europe fines Temu $232 million over illegal and unsafe product listings 
+
+The European Commission fined Temu $232 million for selling illegal goods that posed a risk to EU consumers. This marks the second fine ever against an international company under the Digital Services Act. Temu is a Chinese online marketplace for low-cost products.
+
+💡 *European consumer safety is compromised by unchecked cross-border online trade.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112583-european-commission-fines-temu-200-million-over-illegal.html)
 
 ---
 
