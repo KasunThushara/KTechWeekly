@@ -1,291 +1,165 @@
 [
   {
-    "title": "Nvidia and Microsoft tease \"a new era of PC\" ahead of Computex 2026 coordinated social media posts could indicate that rumored N1X laptops will be Windows on Arm systems",
-    "summary": "Nvidia and Microsoft are teasing a new era of PC, possibly featuring Windows on Arm systems in rumored N1X laptops, which could enable new local AI experiences, such as beyond Copilot+.",
-    "link": "https://www.tomshardware.com/laptops/nvidia-and-microsoft-tease-a-new-era-of-pc-ahead-of-computex-2026-coordinated-social-media-posts-could-indicate-that-rumored-n1x-laptops-will-be-windows-on-arm-systems",
+    "title": "California Assembly passes 3D printer bill that would criminalize bypassing mandated gun-blocking software",
+    "summary": "California's Assembly passes AB 2047, a bill criminalizing bypassing gun-blocking software in 3D printers. The bill, known as the California Firearm Printing Prevention Act, aims to restrict the unregulated production of firearms. It now moves to the state Senate for further consideration.",
+    "link": "https://www.tomshardware.com/3d-printing/california-assembly-passes-3d-printer-bill-that-would-criminalize-bypassing-mandated-gun-blocking-software",
     "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.071079",
-    "insight": "Nvidia and Microsoft's collaboration could revolutionize AI capabilities on PCs."
-  },
-  {
-    "title": "TikTok owner ByteDance is reportedly developing its own custom AI CPUs company looks to ease China's dependence on US chipmakers",
-    "summary": "TikTok owner Bytedance is reportedly developing its own custom CPUs to reduce costs and dependence on US chipmakers.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tiktok-owner-bytedance-is-reportedly-developing-its-own-custom-ai-cpus-company-looks-to-ease-chinas-dependence-on-us-chipmakers",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.071213",
-    "insight": "Bytedance's custom CPUs aim to mitigate China's reliance on foreign technology."
-  },
-  {
-    "title": "Cooler Master is bringing active cooling to DDR5 RAM, promising up to 15-degree temperature drops 'MasterDIMM' combines G.SKILL memory with a built-in fan, kits run up to 128GB",
-    "summary": "Cooler Master and G.Skill launch 'MasterDIMM' DDR5 memory sticks with built-in fans, reducing temperatures by up to 15 degrees. The MasterDIMM features a stylish black and gold heatsink with RGB stripes. Kits can hold up to 128GB of memory.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/cooler-master-is-bringing-active-cooling-to-ddr5-ram-promising-up-to-15-degree-temperature-drops-masterdimm-combines-g-skill-memory-with-a-built-in-fan-kits-run-up-to-128gb",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.071320",
-    "insight": "Integrated cooling can improve system performance and reduce overheating risks"
-  },
-  {
-    "title": "Hands-on with Corsair's 3200D RS ARGB Mid-tower PC Case: Budget chassis includes three fans and doesn t empty your wallet",
-    "summary": "The Corsair 3200D RS ARGB mid-tower PC case offers strong airflow, supports large GPUs and radiators, and comes with three built-in fans at an affordable price under $80.",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/hands-on-corsair-3200d-rs-argb-mid-tower-pc-case",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.071415",
-    "insight": "Affordable PC case with robust cooling and large GPU support."
-  },
-  {
-    "title": "Epic Games Tim Sweeney slams Valve over Steam Deck price hikes mocks founder Gabe Newell over rising costs of megayachts",
-    "summary": "Epic Games' Tim Sweeney criticized Valve CEO Gabe Newell over Steam Deck price hikes and his expensive megayacht collection on social media. The comparison was made to highlight the Steam Deck's significant price increases compared to other gaming consoles. The post sparked a public debate about the cost of gaming hardware.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/epic-games-tim-sweeney-slams-valve-over-steam-deck-price-hikes-mocks-founder-gabe-newell-over-rising-costs-of-megayachts",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.071509",
-    "insight": "Valve's Steam Deck price hikes raise competition and consumer concern"
-  },
-  {
-    "title": "Amazon unveils 'Resilient Network Graphs' data center network that cuts hardware by 69% and boosts throughput by 33% now the default for most AWS workloads",
-    "summary": "Amazon Web Services (AWS) has unveiled 'Resilient Network Graphs' (RNG), a new data center network architecture that significantly reduces hardware usage and boosts throughput. RNG delivers 33% higher throughput, cuts network power consumption by 40%, and uses 69% fewer devices. It is now the default for most AWS workloads.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/amazon-unveils-resilient-network-graphs-data-center-network-that-cuts-hardware-by-69-percent-and-boosts-throughput-by-33-percent-now-the-default-for-most-aws-workloads",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-30T10:27:53.071601",
-    "insight": "Significant cost savings and efficiency gains in cloud infrastructure management."
-  },
-  {
-    "title": "Bambu Lab teases new A2L 3D printer June 1 launch hints at a massive, budget-friendly bed slinger",
-    "summary": "Bambu Lab is teasing a new A2L 3D printer with a June 1 launch, sparking speculation about its features.",
-    "link": "https://www.tomshardware.com/3d-printing/bambu-lab-teases-new-a2l-3d-printer-june-1-launch-confirmed",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-05-30T10:27:53.071676",
-    "insight": "Potential massive, budget-friendly 3D printer could disrupt the market."
-  },
-  {
-    "title": "Acer unveils its first Ryzen 9 9955X3D gaming laptop refreshed Nitro 16 joins new Predator Helios 18 AI and streaming-only Nitro Blaze Link handheld",
-    "summary": "Acer unveils new gaming laptops, including its first Ryzen 9 9955HX3D model, and a handheld device. The Nitro 16 features triple PCIe 5.0 storage, while the Predator Helios 18 boasts AI capabilities. These devices are showcased at Computex.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/acer-unveils-first-ryzen-9-9955x3d-gaming-laptop-refreshed-nitro-16-joins-new-predator-helios-18-ai-and-streaming-only-nitro-blaze-link-handheld",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.071769",
-    "insight": "Acer expands gaming laptop lineup with high-performance Ryzen and AI features."
-  },
-  {
-    "title": "Acer cranks its latest Predator gaming monitor up to 1,000 Hz Model joins lineup with QD-OLED panels and an immersive 3D display",
-    "summary": "Acer introduces a high-end gaming monitor with a 1,000 Hz refresh rate, QD-OLED panels, and immersive 3D capabilities. The monitor joins Acer's lineup with its advanced features. The new monitor is set to be showcased at Computex.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/acer-cranks-its-latest-predator-gaming-monitor-up-to-1-000-hz-model-joins-lineup-with-qd-oled-panels-and-an-immersive-3d-display",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-05-30T10:27:53.071847",
-    "insight": "Unmatched gaming performance and immersion with cutting-edge display technology."
-  },
-  {
-    "title": "PCMFlow722 library enables two-way real-time HD voice over ESP-NOW with G.722 audio codec",
-    "summary": "The PCMFlow722 library enables two-way real-time HD voice over ESP-NOW on ESP32 boards, utilizing the G.722 codec for 7 kHz audio at 16 kHz sampling.",
-    "link": "https://www.cnx-software.com/2026/05/30/pcmflow722-library-enables-two-way-real-time-hd-voice-over-esp-now-with-g-722-audio-codec/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.072438",
-    "insight": "HD voice over ESP-NOW achieves 7 kHz at 64 kbps with G.722 codec."
-  },
-  {
-    "title": "Microchip dsPIC33CK low-cost motor control MCU sells for $0.51 and up",
-    "summary": "Microchip has released the dsPIC33CK Value Line, a low-cost 16-bit DSC series for motor control applications, offering up to 100 MIPS and high-resolution PWM.",
-    "link": "https://www.cnx-software.com/2026/05/29/microchip-dspic33ck-low-cost-motor-control-mcu/",
-    "categories": [
-      "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-05-30T10:27:53.072590",
-    "insight": "Cost-effective motor control MCU for industrial and automotive applications."
+    "quality_score": 5,
+    "processed_date": "2026-05-31T10:35:05.355850",
+    "insight": "Regulating 3D printing of guns to prevent uncontrolled firearm proliferation."
   },
   {
-    "title": "Here s more Sensors Converge 2026 scoop from ST and Microchip",
-    "summary": "ST and Microchip will showcase robotic hand and hand tracking tech, along with an ST-Nvidia humanoid proof of concept at Sensors Converge 2026.",
-    "link": "https://www.fiercesensors.com/sensors/heres-more-sensors-converge-2026-scoop-st-and-microchip",
-    "categories": [
-      "Semiconductors",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-05-30T10:27:53.073858",
-    "insight": "Advancements in robotics and AI enable more precise human-machine interactions."
-  },
-  {
-    "title": "Startup Zone at Sensors Converge features Upbeat and others",
-    "summary": "Upbeat Technologies will showcase its AI-powered MEMS vibration sensors at Sensors Converge. These sensors are claimed to be the world's smallest. This innovation is expected to revolutionize various industries.",
-    "link": "https://www.fiercesensors.com/sensors/startup-zone-sensors-converge-features-upbeat-and-others",
+    "title": "A robot startup is wreaking havoc on short-term rentals in San Francisco Airbnb hosts allege 'guests' secretly tested robots indoors, left the units completely trashed",
+    "summary": "San Francisco Airbnb hosts report damaged properties after 'robot guests' stay. The hosts claim that the units were left trashed, with scratched kitchens, damaged appliances, and missing items. This has led to concerns about the misuse of short-term rentals.",
+    "link": "https://www.tomshardware.com/tech-industry/a-robot-startup-is-wreaking-havoc-on-short-term-rentals-in-san-francisco-airbnb-hosts-allege-guests-secretly-tested-robots-indoors-left-the-units-completely-trashed",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-05-30T10:27:53.074008",
-    "insight": "Advancements in AI-powered sensing technology enhance industrial precision and efficiency"
+    "quality_score": 5,
+    "processed_date": "2026-05-31T10:35:05.355985",
+    "insight": "Rise of AI-enabled rentals sparks new concerns about property safety."
   },
   {
-    "title": "Are you actually using AI on your PC?",
-    "summary": "AI is ubiquitous, but its integration into everyday tools is questionable.",
-    "link": "https://www.techspot.com/news/112586-you-actually-using-ai-pc.html",
+    "title": "ATX12VO V3 standard shrinks the connector and maximizes power efficiency new 8-pin connector also brings smarter power supply monitoring",
+    "summary": "Intel's ATX12VO V3 standard introduces a smaller 8-pin connector, improved power efficiency, and PMBus support for smarter power supply monitoring.",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/atx12vo-v3-standard-shrinks-the-connector-and-maximizes-power-efficiency-new-8-pin-connector-also-brings-smarter-power-supply-monitoring",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.074184",
-    "insight": "Availability doesn't equal actual AI usage in daily applications."
+    "processed_date": "2026-05-31T10:35:05.356104",
+    "insight": "Enhanced efficiency and monitoring for more reliable power delivery."
   },
   {
-    "title": "Europe fines Temu $232 million over illegal and unsafe product listings",
-    "summary": "The European Commission fined Temu $232 million for selling illegal goods that posed a risk to EU consumers. This marks the second fine ever against an international company under the Digital Services Act. Temu is a Chinese online marketplace for low-cost products.",
-    "link": "https://www.techspot.com/news/112583-european-commission-fines-temu-200-million-over-illegal.html",
+    "title": "MSI's new 32-inch OLED monitor can switch between 4K 360 Hz, 1440p 520 Hz, and 1080p 680 Hz featuring a 'Penta Tandem' QD-OLED panel with RGB stripe subpixels",
+    "summary": "MSI's new 32-inch OLED monitor offers high refresh rates across multiple resolutions. It features a 'Penta Tandem' QD-OLED panel with RGB stripe subpixels. The monitor can switch between 4K 360 Hz, 1440p 520 Hz, and 1080p 680 Hz.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/msis-new-32-oled-monitor-can-switch-between-4k-360-hz-1440p-520-hz-and-1080p-680-hz-featuring-a-penta-tandem-qd-oled-panel-with-rgb-stripe-subpixels",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-05-30T10:27:53.074360",
-    "insight": "European consumer safety is compromised by unchecked cross-border online trade."
+    "quality_score": 5,
+    "processed_date": "2026-05-31T10:35:05.356249",
+    "insight": "High refresh rates on high-resolution displays for smoother gaming."
   },
   {
-    "title": "DRAM coolers make a comeback: G.Skill and Cooler Master unveil DDR5 kits with built-in fans",
-    "summary": "G.Skill and Cooler Master release DDR5 kits with built-in fans, reducing memory temperatures by up to 15 C, ensuring sustained performance and improved signal integrity.",
-    "link": "https://www.techspot.com/news/112580-dram-coolers-make-comeback-gskill-cooler-master-unveil.html",
+    "title": "Nikon weaponizes lower prices to break ASML's lithography monopoly tech giant leverages in-house manufacturing to slash prices to lure back American chipmakers",
+    "summary": "Nikon aims to regain lithography market share by undercutting ASML's prices with in-house manufacturing, targeting American chipmakers.",
+    "link": "https://www.tomshardware.com/tech-industry/nikon-plans-to-undercut-asml-on-price-to-win-back-chipmaking-lithography-customers",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-31T10:35:05.356358",
+    "insight": "Nikon challenges ASML's monopoly with aggressive pricing and in-house manufacturing."
+  },
+  {
+    "title": "Kevin O'Leary claims Chinese propaganda is to blame for anti-datacenter backlash, 'hundreds of millions of dollars' being spent to kill US dominance in AI industry proponents and Trump administration reinforce claims of foreign interference",
+    "summary": "Kevin O'Leary blames Chinese propaganda for anti-datacenter backlash, citing foreign interference.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/kevin-oleary-claims-chinese-propaganda-is-to-blame-for-anti-datacenter-sentiment-industry-proponents-and-trump-administration-reinforce-claims-of-foreign-interference",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-05-30T10:27:53.074535",
-    "insight": "Improved memory cooling for enhanced system reliability and performance stability."
+    "quality_score": 5,
+    "processed_date": "2026-05-31T10:35:05.356465",
+    "insight": "Chinese propaganda undermines US AI industry dominance efforts."
   },
   {
-    "title": "Creative launches Sound Blaster AE-X for PC audio enthusiasts",
-    "summary": "The Sound Blaster AE-X features an ESS Sabre DAC for improved sound quality.",
-    "link": "https://www.techspot.com/news/112582-creative-launches-sound-blaster-ae-x-high-end.html",
+    "title": "Huawei chairman thanks the US for export restrictions on chips, says it supercharged China s semiconductor industry Washington s export controls encouraged Chinese firms to invest in R&D and build their own tech stack competing with American tech",
+    "summary": "Huawei's chairman thanked the US for export restrictions that boosted China's semiconductor industry. He credited the restrictions for encouraging Chinese firms to invest in R&D and build their own tech stack. This allowed them to compete with American tech.",
+    "link": "https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-31T10:35:05.356592",
+    "insight": "US export controls fueled China's semiconductor growth through innovation"
+  },
+  {
+    "title": "Pentagon eyes 3D-printed military boats made from volcanic fiber non-conductive hulls add stealth capabilities while replacing a 6,545-mile supply chain, could scale to 25,000 vessels a year at forward bases",
+    "summary": "The U.S. Navy may build 3D-printed boats with volcanic fiber hulls, reducing reliance on a 6,545-mile supply chain and increasing output to 15,000 metric tons annually.",
+    "link": "https://www.tomshardware.com/3d-printing/us-navy-pitched-3d-printed-inflatable-boat-for-maritime-defense-six-meter-vessel-combines-recycled-petg-plastic-with-chopped-basalt-fiber-for-better-strength-water-resistance-and-stealth",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-31T10:35:05.356733",
+    "insight": "Revolutionizing naval logistics with localized, high-volume boat production capabilities."
+  },
+  {
+    "title": "ODROID-H5 Review A dual 10GbE mini PC tested with Ubuntu 26.04",
+    "summary": "The reviewer upgrades the ODROID-H5 SBC to Ubuntu 26.04, tests the 10GbE ports, and runs benchmarks.",
+    "link": "https://www.cnx-software.com/2026/05/31/odroid-h5-review-a-dual-10gbe-mini-pc-tested-with-ubuntu-26-04/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-05-31T10:35:05.357295",
+    "insight": "Upgrading Ubuntu ensures access to latest drivers for SBCs like ODROID-H5."
+  },
+  {
+    "title": "A Java library just tried to trick AI coding agents into deleting your tests, and it almost worked",
+    "summary": "A Java library update attempted to delete test files using AI agents, highlighting a security concern in AI-assisted coding. This incident demonstrates the potential risks of automated coding tools. The vulnerability could have been exploited to sabotage software development and testing processes.",
+    "link": "https://www.techspot.com/news/112589-java-library-tried-trick-ai-coding-agents-deleting.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-05-31T10:35:05.358498",
+    "insight": "AI-assisted coding tools can be exploited for malicious purposes"
+  },
+  {
+    "title": "Sandisk is launching new SATA SSDs in 2026 because NVMe prices are out of control",
+    "summary": "SanDisk is launching new SATA SSDs in 2026 to counter high NVMe prices. The drives come in familiar 2.5-inch, 7mm-thick format, suitable for PCs and laptops. Capacities range from 250GB to 2TB with sequential speeds up to 545 MB/s.",
+    "link": "https://www.techspot.com/news/112590-sandisk-new-sata-ssds-could-lifeline-buyers-priced.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-31T10:35:05.358613",
+    "insight": "NVMe prices are driving demand for more affordable SATA SSDs."
+  },
+  {
+    "title": "Nvidia's first consumer CPU in over a decade to debut at Computex next week",
+    "summary": "Nvidia is set to debut its first consumer CPU in over a decade at Computex 2026, potentially supporting Windows' push into Arm chipsets.",
+    "link": "https://www.techspot.com/news/112585-microsoft-nvidia-arm-tease-new-era-pc-computex.html",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-05-31T10:35:05.358727",
+    "insight": "Nvidia enters competitive CPU market after a decade-long hiatus."
+  },
+  {
+    "title": "Someone got 26 years of Windows running on a classic IBM ThinkPad T43 without a virtual machine",
+    "summary": "A user successfully ran 26 years of Windows on a single ThinkPad T43 without virtualization, showcasing the operating system's backwards compatibility and resilience.",
+    "link": "https://www.techspot.com/news/112588-someone-got-26-years-windows-running-ibm-thinkpad.html",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.074697",
-    "insight": "Enhanced audio clarity for PC gaming and music enthusiasts."
+    "processed_date": "2026-05-31T10:35:05.358839",
+    "insight": "Windows' ability to adapt to evolving hardware and software is remarkable."
   },
   {
-    "title": "The ad-tracking industry is exposing US soldiers on the battlefield",
-    "summary": "Centcom has acknowledged receiving reports of US personnel being targeted by adversaries using commercial location data.",
-    "link": "https://www.techspot.com/news/112578-ad-tracking-industry-exposing-us-soldiers-battlefield.html",
+    "title": "Dell Alienware AW2726DM Review: QD-OLED Gaming for $350",
+    "summary": "The Dell Alienware AW2726DM offers OLED gaming at an affordable $350 price.",
+    "link": "https://www.techspot.com/review/3123-dell-alienware-aw2726dm/",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.074863",
-    "insight": "Adversary access to commercial data threatens US soldier safety and security."
-  },
-  {
-    "title": "New 7-Zip security flaw could put hundreds of millions of systems at risk",
-    "summary": "A security flaw in 7-Zip could be exploited by cybercriminals to spread malware and compromise PCs. The bug affects how 7-Zip handles NTFS-based volume image files. This vulnerability puts hundreds of millions of systems at risk.",
-    "link": "https://www.techspot.com/news/112575-new-7-zip-security-flaw-could-put-hundreds.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.075028",
-    "insight": "Critical flaw in 7-Zip poses massive malware and data compromise risk."
-  },
-  {
-    "title": "Windows BitLocker exploit sparks messy feud between Microsoft and the researcher who exposed it",
-    "summary": "A security researcher exposed a zero-day exploit in Windows BitLocker, allowing access to encrypted drives.",
-    "link": "https://www.techspot.com/news/112576-windows-bitlocker-exploit-sparks-messy-feud-between-microsoft.html",
-    "categories": [
-      "Tech News"
+      "Hardware",
+      "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-30T10:27:53.075202",
-    "insight": "Windows BitLocker encryption compromised by a publicly disclosed zero-day exploit."
-  },
-  {
-    "title": "Call of Duty: Modern Warfare 4 confirmed for October 23, brings the series to Korea",
-    "summary": "Pre-orders open for Call of Duty: Modern Warfare 4, releasing on October 23.",
-    "link": "https://www.techspot.com/news/112572-call-duty-modern-warfare-4-confirmed-october-23.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.075370",
-    "insight": "Call of Duty series expands to the Korean setting for the first time."
-  },
-  {
-    "title": "Google engineer arrested for using internal search data to win $1.2 million on Polymarket",
-    "summary": "Google engineer Spagnuolo was arrested for using internal data to win $1.2 million on Polymarket, allegedly exploiting his inside knowledge to make bets on outcomes he already knew.",
-    "link": "https://www.techspot.com/news/112574-google-engineer-charged-after-allegedly-using-confidential-data.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.075521",
-    "insight": "Inside information can be misused for personal financial gain in the digital age."
-  },
-  {
-    "title": "TP-Link's first Wi-Fi 8 router is coming, if the FCC allows it",
-    "summary": "TP-Link is preparing to release its first Wi-Fi 8 router, pending FCC approval. The company completed successful Wi-Fi 8 trials last year, validating data throughput and the Wi-Fi 8 beacon. This marks a significant step towards future wireless networking.",
-    "link": "https://www.techspot.com/news/112579-tp-link-first-wi-fi-8-router-coming.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.075676",
-    "insight": "Enhanced wireless networking for faster, more reliable internet connectivity."
-  },
-  {
-    "title": "Steam Deck sells out again despite $300 price hike, meanwhile Intel unveils new handheld chip to counter AMD's dominance",
-    "summary": "The Steam Deck sells out after a $300 price hike, despite being less appealing. Intel responds by unveiling its Arc G3 series APUs, bringing its Panther Lake architecture to portable gaming. This move counters AMD's dominance in the market.",
-    "link": "https://www.techspot.com/news/112571-steam-deck-sells-out-despite-300-price-hike.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-05-30T10:27:53.075855",
-    "insight": "Intel challenges AMD's handheld gaming PC market lead strongly"
-  },
-  {
-    "title": "Wix lays off 1,000 workers as the AI jobs apocalypse keeps looking very real",
-    "summary": "Wix lays off 1,000 workers in a 20% team reduction. CEO Avishai Abrahami described the decision as 'hard'. This move is part of a broader AI-driven job market shift.",
-    "link": "https://www.techspot.com/news/112573-wix-lays-off-1000-workers-ai-jobs-apocalypse.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-30T10:27:53.075995",
-    "insight": "AI adoption accelerates job cuts in the tech industry"
+    "processed_date": "2026-05-31T10:35:05.358940",
+    "insight": "OLED gaming made accessible to a wider budget-conscious market."
   }
 ]

@@ -1,155 +1,85 @@
 # 🤖 AI & ML
-**Week of May 30, 2026**
+**Week of May 31, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-05-30 10:28
+- **Articles this week:** 7
+- **Report generated:** 2026-05-31 10:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Steam Deck sells out again despite $300 price hike, meanwhile Intel unveils new handheld chip to counter AMD's dominance ⭐
+### 1. Huawei chairman thanks the US for export restrictions on chips, says it supercharged China s semiconductor industry Washington s export controls encouraged Chinese firms to invest in R&D and build their own tech stack competing with American tech 
 
-The Steam Deck sells out after a $300 price hike, despite being less appealing. Intel responds by unveiling its Arc G3 series APUs, bringing its Panther Lake architecture to portable gaming. This move counters AMD's dominance in the market.
+Huawei's chairman thanked the US for export restrictions that boosted China's semiconductor industry. He credited the restrictions for encouraging Chinese firms to invest in R&D and build their own tech stack. This allowed them to compete with American tech.
 
-💡 *Intel challenges AMD's handheld gaming PC market lead strongly*
+💡 *US export controls fueled China's semiconductor growth through innovation*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112571-steam-deck-sells-out-despite-300-price-hike.html)
-
----
-
-### 2. DRAM coolers make a comeback: G.Skill and Cooler Master unveil DDR5 kits with built-in fans 
-
-G.Skill and Cooler Master release DDR5 kits with built-in fans, reducing memory temperatures by up to 15 C, ensuring sustained performance and improved signal integrity.
-
-💡 *Improved memory cooling for enhanced system reliability and performance stability.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112580-dram-coolers-make-comeback-gskill-cooler-master-unveil.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies)
 
 ---
 
-### 3. TikTok owner ByteDance is reportedly developing its own custom AI CPUs company looks to ease China's dependence on US chipmakers 
+### 2. A Java library just tried to trick AI coding agents into deleting your tests, and it almost worked 
 
-TikTok owner Bytedance is reportedly developing its own custom CPUs to reduce costs and dependence on US chipmakers.
+A Java library update attempted to delete test files using AI agents, highlighting a security concern in AI-assisted coding. This incident demonstrates the potential risks of automated coding tools. The vulnerability could have been exploited to sabotage software development and testing processes.
 
-💡 *Bytedance's custom CPUs aim to mitigate China's reliance on foreign technology.*
+💡 *AI-assisted coding tools can be exploited for malicious purposes*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tiktok-owner-bytedance-is-reportedly-developing-its-own-custom-ai-cpus-company-looks-to-ease-chinas-dependence-on-us-chipmakers)
-
----
-
-### 4. Hands-on with Corsair's 3200D RS ARGB Mid-tower PC Case: Budget chassis includes three fans and doesn t empty your wallet 
-
-The Corsair 3200D RS ARGB mid-tower PC case offers strong airflow, supports large GPUs and radiators, and comes with three built-in fans at an affordable price under $80.
-
-💡 *Affordable PC case with robust cooling and large GPU support.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/hands-on-corsair-3200d-rs-argb-mid-tower-pc-case)
+🔗 [Read Full Article](https://www.techspot.com/news/112589-java-library-tried-trick-ai-coding-agents-deleting.html)
 
 ---
 
-### 5. Acer unveils its first Ryzen 9 9955X3D gaming laptop refreshed Nitro 16 joins new Predator Helios 18 AI and streaming-only Nitro Blaze Link handheld 
+### 3. A robot startup is wreaking havoc on short-term rentals in San Francisco Airbnb hosts allege 'guests' secretly tested robots indoors, left the units completely trashed 
 
-Acer unveils new gaming laptops, including its first Ryzen 9 9955HX3D model, and a handheld device. The Nitro 16 features triple PCIe 5.0 storage, while the Predator Helios 18 boasts AI capabilities. These devices are showcased at Computex.
+San Francisco Airbnb hosts report damaged properties after 'robot guests' stay. The hosts claim that the units were left trashed, with scratched kitchens, damaged appliances, and missing items. This has led to concerns about the misuse of short-term rentals.
 
-💡 *Acer expands gaming laptop lineup with high-performance Ryzen and AI features.*
+💡 *Rise of AI-enabled rentals sparks new concerns about property safety.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/acer-unveils-first-ryzen-9-9955x3d-gaming-laptop-refreshed-nitro-16-joins-new-predator-helios-18-ai-and-streaming-only-nitro-blaze-link-handheld)
-
----
-
-### 6. Are you actually using AI on your PC? 
-
-AI is ubiquitous, but its integration into everyday tools is questionable.
-
-💡 *Availability doesn't equal actual AI usage in daily applications.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112586-you-actually-using-ai-pc.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/a-robot-startup-is-wreaking-havoc-on-short-term-rentals-in-san-francisco-airbnb-hosts-allege-guests-secretly-tested-robots-indoors-left-the-units-completely-trashed)
 
 ---
 
-### 7. The ad-tracking industry is exposing US soldiers on the battlefield 
+### 4. Nikon weaponizes lower prices to break ASML's lithography monopoly tech giant leverages in-house manufacturing to slash prices to lure back American chipmakers 
 
-Centcom has acknowledged receiving reports of US personnel being targeted by adversaries using commercial location data.
+Nikon aims to regain lithography market share by undercutting ASML's prices with in-house manufacturing, targeting American chipmakers.
 
-💡 *Adversary access to commercial data threatens US soldier safety and security.*
+💡 *Nikon challenges ASML's monopoly with aggressive pricing and in-house manufacturing.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112578-ad-tracking-industry-exposing-us-soldiers-battlefield.html)
-
----
-
-### 8. New 7-Zip security flaw could put hundreds of millions of systems at risk 
-
-A security flaw in 7-Zip could be exploited by cybercriminals to spread malware and compromise PCs. The bug affects how 7-Zip handles NTFS-based volume image files. This vulnerability puts hundreds of millions of systems at risk.
-
-💡 *Critical flaw in 7-Zip poses massive malware and data compromise risk.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112575-new-7-zip-security-flaw-could-put-hundreds.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nikon-plans-to-undercut-asml-on-price-to-win-back-chipmaking-lithography-customers)
 
 ---
 
-### 9. Call of Duty: Modern Warfare 4 confirmed for October 23, brings the series to Korea 
+### 5. Kevin O'Leary claims Chinese propaganda is to blame for anti-datacenter backlash, 'hundreds of millions of dollars' being spent to kill US dominance in AI industry proponents and Trump administration reinforce claims of foreign interference 
 
-Pre-orders open for Call of Duty: Modern Warfare 4, releasing on October 23.
+Kevin O'Leary blames Chinese propaganda for anti-datacenter backlash, citing foreign interference.
 
-💡 *Call of Duty series expands to the Korean setting for the first time.*
+💡 *Chinese propaganda undermines US AI industry dominance efforts.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112572-call-duty-modern-warfare-4-confirmed-october-23.html)
-
----
-
-### 10. TP-Link's first Wi-Fi 8 router is coming, if the FCC allows it 
-
-TP-Link is preparing to release its first Wi-Fi 8 router, pending FCC approval. The company completed successful Wi-Fi 8 trials last year, validating data throughput and the Wi-Fi 8 beacon. This marks a significant step towards future wireless networking.
-
-💡 *Enhanced wireless networking for faster, more reliable internet connectivity.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112579-tp-link-first-wi-fi-8-router-coming.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/kevin-oleary-claims-chinese-propaganda-is-to-blame-for-anti-datacenter-sentiment-industry-proponents-and-trump-administration-reinforce-claims-of-foreign-interference)
 
 ---
 
-### 11. Wix lays off 1,000 workers as the AI jobs apocalypse keeps looking very real 
+### 6. Pentagon eyes 3D-printed military boats made from volcanic fiber non-conductive hulls add stealth capabilities while replacing a 6,545-mile supply chain, could scale to 25,000 vessels a year at forward bases 
 
-Wix lays off 1,000 workers in a 20% team reduction. CEO Avishai Abrahami described the decision as 'hard'. This move is part of a broader AI-driven job market shift.
+The U.S. Navy may build 3D-printed boats with volcanic fiber hulls, reducing reliance on a 6,545-mile supply chain and increasing output to 15,000 metric tons annually.
 
-💡 *AI adoption accelerates job cuts in the tech industry*
+💡 *Revolutionizing naval logistics with localized, high-volume boat production capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112573-wix-lays-off-1000-workers-ai-jobs-apocalypse.html)
-
----
-
-### 12. Acer cranks its latest Predator gaming monitor up to 1,000 Hz Model joins lineup with QD-OLED panels and an immersive 3D display 
-
-Acer introduces a high-end gaming monitor with a 1,000 Hz refresh rate, QD-OLED panels, and immersive 3D capabilities. The monitor joins Acer's lineup with its advanced features. The new monitor is set to be showcased at Computex.
-
-💡 *Unmatched gaming performance and immersion with cutting-edge display technology.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/acer-cranks-its-latest-predator-gaming-monitor-up-to-1-000-hz-model-joins-lineup-with-qd-oled-panels-and-an-immersive-3d-display)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/us-navy-pitched-3d-printed-inflatable-boat-for-maritime-defense-six-meter-vessel-combines-recycled-petg-plastic-with-chopped-basalt-fiber-for-better-strength-water-resistance-and-stealth)
 
 ---
 
-### 13. Startup Zone at Sensors Converge features Upbeat and others 
+### 7. Sandisk is launching new SATA SSDs in 2026 because NVMe prices are out of control 
 
-Upbeat Technologies will showcase its AI-powered MEMS vibration sensors at Sensors Converge. These sensors are claimed to be the world's smallest. This innovation is expected to revolutionize various industries.
+SanDisk is launching new SATA SSDs in 2026 to counter high NVMe prices. The drives come in familiar 2.5-inch, 7mm-thick format, suitable for PCs and laptops. Capacities range from 250GB to 2TB with sequential speeds up to 545 MB/s.
 
-💡 *Advancements in AI-powered sensing technology enhance industrial precision and efficiency*
+💡 *NVMe prices are driving demand for more affordable SATA SSDs.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/startup-zone-sensors-converge-features-upbeat-and-others)
-
----
-
-### 14. Europe fines Temu $232 million over illegal and unsafe product listings 
-
-The European Commission fined Temu $232 million for selling illegal goods that posed a risk to EU consumers. This marks the second fine ever against an international company under the Digital Services Act. Temu is a Chinese online marketplace for low-cost products.
-
-💡 *European consumer safety is compromised by unchecked cross-border online trade.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112583-european-commission-fines-temu-200-million-over-illegal.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112590-sandisk-new-sata-ssds-could-lifeline-buyers-priced.html)
 
 ---
 

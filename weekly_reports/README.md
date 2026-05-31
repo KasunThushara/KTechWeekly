@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of May 30, 2026**
+**Week of May 31, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Microchip dsPIC33CK low-cost motor control MCU sells for $0.51 and up ⭐
+### 1. ODROID-H5 Review A dual 10GbE mini PC tested with Ubuntu 26.04 ⭐
+
+**📰 Tech News**
+
+The reviewer upgrades the ODROID-H5 SBC to Ubuntu 26.04, tests the 10GbE ports, and runs benchmarks.
+
+💡 **Key Point:** Upgrading Ubuntu ensures access to latest drivers for SBCs like ODROID-H5.
+
+🔗 [Read More](https://www.cnx-software.com/2026/05/31/odroid-h5-review-a-dual-10gbe-mini-pc-tested-with-ubuntu-26-04/)
+
+---
+
+### 2. ODROID-H5 Review A dual 10GbE mini PC tested with Ubuntu 26.04 ⭐
 
 **💻 Hardware**
 
-Microchip has released the dsPIC33CK Value Line, a low-cost 16-bit DSC series for motor control applications, offering up to 100 MIPS and high-resolution PWM.
+The reviewer upgrades the ODROID-H5 SBC to Ubuntu 26.04, tests the 10GbE ports, and runs benchmarks.
 
-💡 **Key Point:** Cost-effective motor control MCU for industrial and automotive applications.
+💡 **Key Point:** Upgrading Ubuntu ensures access to latest drivers for SBCs like ODROID-H5.
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/29/microchip-dspic33ck-low-cost-motor-control-mcu/)
-
----
-
-### 2. Steam Deck sells out again despite $300 price hike, meanwhile Intel unveils new handheld chip to counter AMD's dominance ⭐
-
-**🎮 GPUs**
-
-The Steam Deck sells out after a $300 price hike, despite being less appealing. Intel responds by unveiling its Arc G3 series APUs, bringing its Panther Lake architecture to portable gaming. This move counters AMD's dominance in the market.
-
-💡 **Key Point:** Intel challenges AMD's handheld gaming PC market lead strongly
-
-🔗 [Read More](https://www.techspot.com/news/112571-steam-deck-sells-out-despite-300-price-hike.html)
+🔗 [Read More](https://www.cnx-software.com/2026/05/31/odroid-h5-review-a-dual-10gbe-mini-pc-tested-with-ubuntu-26-04/)
 
 ---
 
-### 3. Steam Deck sells out again despite $300 price hike, meanwhile Intel unveils new handheld chip to counter AMD's dominance ⭐
-
-**🤖 AI & ML**
-
-The Steam Deck sells out after a $300 price hike, despite being less appealing. Intel responds by unveiling its Arc G3 series APUs, bringing its Panther Lake architecture to portable gaming. This move counters AMD's dominance in the market.
-
-💡 **Key Point:** Intel challenges AMD's handheld gaming PC market lead strongly
-
-🔗 [Read More](https://www.techspot.com/news/112571-steam-deck-sells-out-despite-300-price-hike.html)
-
----
-
-### 4. Microchip dsPIC33CK low-cost motor control MCU sells for $0.51 and up ⭐
+### 3. Huawei chairman thanks the US for export restrictions on chips, says it supercharged China s semiconductor industry Washington s export controls encouraged Chinese firms to invest in R&D and build their own tech stack competing with American tech 
 
 **⚡ Semiconductors**
 
-Microchip has released the dsPIC33CK Value Line, a low-cost 16-bit DSC series for motor control applications, offering up to 100 MIPS and high-resolution PWM.
+Huawei's chairman thanked the US for export restrictions that boosted China's semiconductor industry. He credited the restrictions for encouraging Chinese firms to invest in R&D and build their own tech stack. This allowed them to compete with American tech.
 
-💡 **Key Point:** Cost-effective motor control MCU for industrial and automotive applications.
+💡 **Key Point:** US export controls fueled China's semiconductor growth through innovation
 
-🔗 [Read More](https://www.cnx-software.com/2026/05/29/microchip-dspic33ck-low-cost-motor-control-mcu/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies)
 
 ---
 
-### 5. Amazon unveils 'Resilient Network Graphs' data center network that cuts hardware by 69% and boosts throughput by 33% now the default for most AWS workloads 
+### 4. A Java library just tried to trick AI coding agents into deleting your tests, and it almost worked 
 
-**💻 Hardware**
+**📰 Tech News**
 
-Amazon Web Services (AWS) has unveiled 'Resilient Network Graphs' (RNG), a new data center network architecture that significantly reduces hardware usage and boosts throughput. RNG delivers 33% higher throughput, cuts network power consumption by 40%, and uses 69% fewer devices. It is now the default for most AWS workloads.
+A Java library update attempted to delete test files using AI agents, highlighting a security concern in AI-assisted coding. This incident demonstrates the potential risks of automated coding tools. The vulnerability could have been exploited to sabotage software development and testing processes.
 
-💡 **Key Point:** Significant cost savings and efficiency gains in cloud infrastructure management.
+💡 **Key Point:** AI-assisted coding tools can be exploited for malicious purposes
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/big-tech/amazon-unveils-resilient-network-graphs-data-center-network-that-cuts-hardware-by-69-percent-and-boosts-throughput-by-33-percent-now-the-default-for-most-aws-workloads)
+🔗 [Read More](https://www.techspot.com/news/112589-java-library-tried-trick-ai-coding-agents-deleting.html)
+
+---
+
+### 5. Huawei chairman thanks the US for export restrictions on chips, says it supercharged China s semiconductor industry Washington s export controls encouraged Chinese firms to invest in R&D and build their own tech stack competing with American tech 
+
+**🤖 AI & ML**
+
+Huawei's chairman thanked the US for export restrictions that boosted China's semiconductor industry. He credited the restrictions for encouraging Chinese firms to invest in R&D and build their own tech stack. This allowed them to compete with American tech.
+
+💡 **Key Point:** US export controls fueled China's semiconductor growth through innovation
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **39 articles** across **5 focused categories**.
+We covered **23 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 14 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 7 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 1 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 5 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 14 articles
+*Artificial Intelligence and Machine Learning* — 7 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 4 articles
+*Graphics cards and compute accelerators* — 1 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 11 articles
+*Computing hardware and development boards* — 5 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 3 articles
+*Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 7 articles
+*Industry news and product launches* — 6 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-05-30 at 10:28 by an autonomous AI curation system.
+Generated 2026-05-31 at 10:35 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

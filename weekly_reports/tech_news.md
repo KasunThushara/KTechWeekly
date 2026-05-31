@@ -1,85 +1,75 @@
 # 📰 Tech News
-**Week of May 30, 2026**
+**Week of May 31, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-05-30 10:28
+- **Articles this week:** 6
+- **Report generated:** 2026-05-31 10:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Windows BitLocker exploit sparks messy feud between Microsoft and the researcher who exposed it 
+### 1. ODROID-H5 Review A dual 10GbE mini PC tested with Ubuntu 26.04 ⭐
 
-A security researcher exposed a zero-day exploit in Windows BitLocker, allowing access to encrypted drives.
+The reviewer upgrades the ODROID-H5 SBC to Ubuntu 26.04, tests the 10GbE ports, and runs benchmarks.
 
-💡 *Windows BitLocker encryption compromised by a publicly disclosed zero-day exploit.*
+💡 *Upgrading Ubuntu ensures access to latest drivers for SBCs like ODROID-H5.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112576-windows-bitlocker-exploit-sparks-messy-feud-between-microsoft.html)
-
----
-
-### 2. Cooler Master is bringing active cooling to DDR5 RAM, promising up to 15-degree temperature drops 'MasterDIMM' combines G.SKILL memory with a built-in fan, kits run up to 128GB 
-
-Cooler Master and G.Skill launch 'MasterDIMM' DDR5 memory sticks with built-in fans, reducing temperatures by up to 15 degrees. The MasterDIMM features a stylish black and gold heatsink with RGB stripes. Kits can hold up to 128GB of memory.
-
-💡 *Integrated cooling can improve system performance and reduce overheating risks*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/cooler-master-is-bringing-active-cooling-to-ddr5-ram-promising-up-to-15-degree-temperature-drops-masterdimm-combines-g-skill-memory-with-a-built-in-fan-kits-run-up-to-128gb)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/05/31/odroid-h5-review-a-dual-10gbe-mini-pc-tested-with-ubuntu-26-04/)
 
 ---
 
-### 3. Creative launches Sound Blaster AE-X for PC audio enthusiasts 
+### 2. A Java library just tried to trick AI coding agents into deleting your tests, and it almost worked 
 
-The Sound Blaster AE-X features an ESS Sabre DAC for improved sound quality.
+A Java library update attempted to delete test files using AI agents, highlighting a security concern in AI-assisted coding. This incident demonstrates the potential risks of automated coding tools. The vulnerability could have been exploited to sabotage software development and testing processes.
 
-💡 *Enhanced audio clarity for PC gaming and music enthusiasts.*
+💡 *AI-assisted coding tools can be exploited for malicious purposes*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112582-creative-launches-sound-blaster-ae-x-high-end.html)
-
----
-
-### 4. Call of Duty: Modern Warfare 4 confirmed for October 23, brings the series to Korea 
-
-Pre-orders open for Call of Duty: Modern Warfare 4, releasing on October 23.
-
-💡 *Call of Duty series expands to the Korean setting for the first time.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112572-call-duty-modern-warfare-4-confirmed-october-23.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112589-java-library-tried-trick-ai-coding-agents-deleting.html)
 
 ---
 
-### 5. Google engineer arrested for using internal search data to win $1.2 million on Polymarket 
+### 3. A robot startup is wreaking havoc on short-term rentals in San Francisco Airbnb hosts allege 'guests' secretly tested robots indoors, left the units completely trashed 
 
-Google engineer Spagnuolo was arrested for using internal data to win $1.2 million on Polymarket, allegedly exploiting his inside knowledge to make bets on outcomes he already knew.
+San Francisco Airbnb hosts report damaged properties after 'robot guests' stay. The hosts claim that the units were left trashed, with scratched kitchens, damaged appliances, and missing items. This has led to concerns about the misuse of short-term rentals.
 
-💡 *Inside information can be misused for personal financial gain in the digital age.*
+💡 *Rise of AI-enabled rentals sparks new concerns about property safety.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112574-google-engineer-charged-after-allegedly-using-confidential-data.html)
-
----
-
-### 6. Bambu Lab teases new A2L 3D printer June 1 launch hints at a massive, budget-friendly bed slinger 
-
-Bambu Lab is teasing a new A2L 3D printer with a June 1 launch, sparking speculation about its features.
-
-💡 *Potential massive, budget-friendly 3D printer could disrupt the market.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/bambu-lab-teases-new-a2l-3d-printer-june-1-launch-confirmed)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/a-robot-startup-is-wreaking-havoc-on-short-term-rentals-in-san-francisco-airbnb-hosts-allege-guests-secretly-tested-robots-indoors-left-the-units-completely-trashed)
 
 ---
 
-### 7. Startup Zone at Sensors Converge features Upbeat and others 
+### 4. ATX12VO V3 standard shrinks the connector and maximizes power efficiency new 8-pin connector also brings smarter power supply monitoring 
 
-Upbeat Technologies will showcase its AI-powered MEMS vibration sensors at Sensors Converge. These sensors are claimed to be the world's smallest. This innovation is expected to revolutionize various industries.
+Intel's ATX12VO V3 standard introduces a smaller 8-pin connector, improved power efficiency, and PMBus support for smarter power supply monitoring.
 
-💡 *Advancements in AI-powered sensing technology enhance industrial precision and efficiency*
+💡 *Enhanced efficiency and monitoring for more reliable power delivery.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/startup-zone-sensors-converge-features-upbeat-and-others)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/atx12vo-v3-standard-shrinks-the-connector-and-maximizes-power-efficiency-new-8-pin-connector-also-brings-smarter-power-supply-monitoring)
+
+---
+
+### 5. MSI's new 32-inch OLED monitor can switch between 4K 360 Hz, 1440p 520 Hz, and 1080p 680 Hz featuring a 'Penta Tandem' QD-OLED panel with RGB stripe subpixels 
+
+MSI's new 32-inch OLED monitor offers high refresh rates across multiple resolutions. It features a 'Penta Tandem' QD-OLED panel with RGB stripe subpixels. The monitor can switch between 4K 360 Hz, 1440p 520 Hz, and 1080p 680 Hz.
+
+💡 *High refresh rates on high-resolution displays for smoother gaming.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/msis-new-32-oled-monitor-can-switch-between-4k-360-hz-1440p-520-hz-and-1080p-680-hz-featuring-a-penta-tandem-qd-oled-panel-with-rgb-stripe-subpixels)
+
+---
+
+### 6. Someone got 26 years of Windows running on a classic IBM ThinkPad T43 without a virtual machine 
+
+A user successfully ran 26 years of Windows on a single ThinkPad T43 without virtualization, showcasing the operating system's backwards compatibility and resilience.
+
+💡 *Windows' ability to adapt to evolving hardware and software is remarkable.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112588-someone-got-26-years-windows-running-ibm-thinkpad.html)
 
 ---
 

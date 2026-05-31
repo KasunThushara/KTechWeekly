@@ -1,45 +1,55 @@
 # ⚡ Semiconductors
-**Week of May 30, 2026**
+**Week of May 31, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 3
-- **Report generated:** 2026-05-30 10:28
+- **Articles this week:** 4
+- **Report generated:** 2026-05-31 10:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Microchip dsPIC33CK low-cost motor control MCU sells for $0.51 and up ⭐
+### 1. Huawei chairman thanks the US for export restrictions on chips, says it supercharged China s semiconductor industry Washington s export controls encouraged Chinese firms to invest in R&D and build their own tech stack competing with American tech 
 
-Microchip has released the dsPIC33CK Value Line, a low-cost 16-bit DSC series for motor control applications, offering up to 100 MIPS and high-resolution PWM.
+Huawei's chairman thanked the US for export restrictions that boosted China's semiconductor industry. He credited the restrictions for encouraging Chinese firms to invest in R&D and build their own tech stack. This allowed them to compete with American tech.
 
-💡 *Cost-effective motor control MCU for industrial and automotive applications.*
+💡 *US export controls fueled China's semiconductor growth through innovation*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/05/29/microchip-dspic33ck-low-cost-motor-control-mcu/)
-
----
-
-### 2. Here s more Sensors Converge 2026 scoop from ST and Microchip 
-
-ST and Microchip will showcase robotic hand and hand tracking tech, along with an ST-Nvidia humanoid proof of concept at Sensors Converge 2026.
-
-💡 *Advancements in robotics and AI enable more precise human-machine interactions.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/heres-more-sensors-converge-2026-scoop-st-and-microchip)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies)
 
 ---
 
-### 3. Europe fines Temu $232 million over illegal and unsafe product listings 
+### 2. California Assembly passes 3D printer bill that would criminalize bypassing mandated gun-blocking software 
 
-The European Commission fined Temu $232 million for selling illegal goods that posed a risk to EU consumers. This marks the second fine ever against an international company under the Digital Services Act. Temu is a Chinese online marketplace for low-cost products.
+California's Assembly passes AB 2047, a bill criminalizing bypassing gun-blocking software in 3D printers. The bill, known as the California Firearm Printing Prevention Act, aims to restrict the unregulated production of firearms. It now moves to the state Senate for further consideration.
 
-💡 *European consumer safety is compromised by unchecked cross-border online trade.*
+💡 *Regulating 3D printing of guns to prevent uncontrolled firearm proliferation.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112583-european-commission-fines-temu-200-million-over-illegal.html)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/california-assembly-passes-3d-printer-bill-that-would-criminalize-bypassing-mandated-gun-blocking-software)
+
+---
+
+### 3. Nikon weaponizes lower prices to break ASML's lithography monopoly tech giant leverages in-house manufacturing to slash prices to lure back American chipmakers 
+
+Nikon aims to regain lithography market share by undercutting ASML's prices with in-house manufacturing, targeting American chipmakers.
+
+💡 *Nikon challenges ASML's monopoly with aggressive pricing and in-house manufacturing.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nikon-plans-to-undercut-asml-on-price-to-win-back-chipmaking-lithography-customers)
+
+---
+
+### 4. Nvidia's first consumer CPU in over a decade to debut at Computex next week 
+
+Nvidia is set to debut its first consumer CPU in over a decade at Computex 2026, potentially supporting Windows' push into Arm chipsets.
+
+💡 *Nvidia enters competitive CPU market after a decade-long hiatus.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112585-microsoft-nvidia-arm-tease-new-era-pc-computex.html)
 
 ---
 
