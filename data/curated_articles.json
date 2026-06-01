@@ -1,151 +1,642 @@
 [
   {
-    "title": "California Assembly passes 3D printer bill that would criminalize bypassing mandated gun-blocking software",
-    "summary": "California's Assembly has passed AB 2047, the California Firearm Printing Prevention Act, sending the amended bill to the state Senate.",
-    "link": "https://www.tomshardware.com/3d-printing/california-assembly-passes-3d-printer-bill-that-would-criminalize-bypassing-mandated-gun-blocking-software",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-31T10:35:05.355850"
-  },
-  {
-    "title": "A robot startup is wreaking havoc on short-term rentals in San Francisco Airbnb hosts allege 'guests' secretly tested robots indoors, left the units completely trashed",
-    "summary": "Picture this: you're the owner of a dainty place in San Francisco. You put it up on Airbnb, considering the area is sprawling with AI bros, thinking you'd get a pretty good return on your investment. What you actually get in return are scratched kitchens, damaged appliances, bizarre rearrangements, and just straight up missing items.",
-    "link": "https://www.tomshardware.com/tech-industry/a-robot-startup-is-wreaking-havoc-on-short-term-rentals-in-san-francisco-airbnb-hosts-allege-guests-secretly-tested-robots-indoors-left-the-units-completely-trashed",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-31T10:35:05.355985"
-  },
-  {
-    "title": "ATX12VO V3 standard shrinks the connector and maximizes power efficiency new 8-pin connector also brings smarter power supply monitoring",
-    "summary": "Intel's next-generation 12V-only PSU standard reportedly adds PMBus support, smaller connectors, and improved power efficiency.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/atx12vo-v3-standard-shrinks-the-connector-and-maximizes-power-efficiency-new-8-pin-connector-also-brings-smarter-power-supply-monitoring",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-31T10:35:05.356104"
-  },
-  {
-    "title": "MSI's new 32-inch OLED monitor can switch between 4K 360 Hz, 1440p 520 Hz, and 1080p 680 Hz featuring a 'Penta Tandem' QD-OLED panel with RGB stripe subpixels",
-    "summary": "Have you ever thought that going from 4K to 1080p on a dual-mode monitor was just too much of compromise for higher refresh rates? Well, worry not, as MSI has just answered your prayers with a 4K 360 Hz QD-OLED monitor that has a 1440p 520 Hz mode and a 1080p 680 Hz mode, all packaged nicely inside a 32\" beast.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/msis-new-32-oled-monitor-can-switch-between-4k-360-hz-1440p-520-hz-and-1080p-680-hz-featuring-a-penta-tandem-qd-oled-panel-with-rgb-stripe-subpixels",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-31T10:35:05.356249"
-  },
-  {
-    "title": "Nikon weaponizes lower prices to break ASML's lithography monopoly tech giant leverages in-house manufacturing to slash prices to lure back American chipmakers",
-    "summary": "Nikon will try to claw back lithography customers by selling argon fluoride (ArF) tools for less than the market leader, ASML.",
-    "link": "https://www.tomshardware.com/tech-industry/nikon-plans-to-undercut-asml-on-price-to-win-back-chipmaking-lithography-customers",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-31T10:35:05.356358"
-  },
-  {
-    "title": "Kevin O'Leary claims Chinese propaganda is to blame for anti-datacenter backlash, 'hundreds of millions of dollars' being spent to kill US dominance in AI industry proponents and Trump administration reinforce claims of foreign interference",
-    "summary": "Kevin O'Leary claims Chinese propaganda to blame for anti-datacenter sentiment.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/kevin-oleary-claims-chinese-propaganda-is-to-blame-for-anti-datacenter-sentiment-industry-proponents-and-trump-administration-reinforce-claims-of-foreign-interference",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-31T10:35:05.356465"
-  },
-  {
-    "title": "Huawei chairman thanks the US for export restrictions on chips, says it supercharged China s semiconductor industry Washington s export controls encouraged Chinese firms to invest in R&D and build their own tech stack competing with American tech",
-    "summary": "Huawei's current Rotating Chairman thanked the United States for its export bans, which boosted the progress of China's semiconductor industry. He made the comment after unveiling the groundbreaking LogicFolding chip architecture, when reporters asked him how the company came up with the idea.",
-    "link": "https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-05-31T10:35:05.356592"
-  },
-  {
-    "title": "Pentagon eyes 3D-printed military boats made from volcanic fiber non-conductive hulls add stealth capabilities while replacing a 6,545-mile supply chain, could scale to 25,000 vessels a year at forward bases",
-    "summary": "Voltage Vessels hopes to allow the U.S. Navy to build boats where they're needed and reduce reliance on an overly long supply chain. The company claims that it can forward deploy its 3D printers in-theater and also increase output up to 15,000 metric tons annually.",
-    "link": "https://www.tomshardware.com/3d-printing/us-navy-pitched-3d-printed-inflatable-boat-for-maritime-defense-six-meter-vessel-combines-recycled-petg-plastic-with-chopped-basalt-fiber-for-better-strength-water-resistance-and-stealth",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-05-31T10:35:05.356733"
-  },
-  {
-    "title": "ODROID-H5 Review A dual 10GbE mini PC tested with Ubuntu 26.04",
-    "summary": "I received a kit for review last week with an ODROID-H5 SBC, a Type1 case, an M.2 10GbE module, and other accessories. In the first part of the review, I went through an unboxing, assembled the kit, and tested whether it could boot an M.2 NVMe SSD with Ubuntu 24.04 and Windows 11. I ve now updated the system to Ubuntu 26.04, run a few benchmarks, tested the two 10GbE RJ45 ports, as well as other features. I ll report my experience about all that today. Upgrading from Ubuntu 24.04 to Ubuntu 26.04 The 512GB M.2 NVMe SSD I use in the ODROID-H5 comes from a laptop, which I upgraded with a 2TB SSD. That means the operating systems were not upgraded for a few months. While Ubuntu 24.04 could boot, it would not show the two 10GbE interfaces. That s because the required drivers were not available in the version of Ubuntu [...] The post ODROID-H5 Review A dual 10GbE mini PC tested with Ubuntu 26.04 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/05/31/odroid-h5-review-a-dual-10gbe-mini-pc-tested-with-ubuntu-26-04/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-05-31T10:35:05.357295"
-  },
-  {
-    "title": "A Java library just tried to trick AI coding agents into deleting your tests, and it almost worked",
-    "summary": "The latest flare-up in the debate over AI-assisted coding did not come from a new model release or a benchmark result. It came from a single line of text buried inside a software update. Read Entire Article",
-    "link": "https://www.techspot.com/news/112589-java-library-tried-trick-ai-coding-agents-deleting.html",
+    "title": "Asus rolls out a ROG 20th anniversary chair and backpack, alongside commemorative components and peripherals ROG Destrier Edition 20, ROG SLASH Hard-case Luggage Edition 20 are back in black (and gold)",
+    "summary": "Apart from hardware, Asus s ROG 20th anniversary products include a Destreir Edition 20 gaming chair and gold-accented luggage and backpacks.",
+    "link": "https://www.tomshardware.com/peripherals/asus-rolls-out-a-rog-20th-anniversary-chair-and-backpack-alongside-commemorative-components-and-peripherals-rog-destrier-edition-20-rog-slash-hard-case-luggage-edition-20-are-back-in-black-and-gold",
     "categories": [
       "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.055150"
+  },
+  {
+    "title": "Seven hospitalized after toxic gas fire at SK hynix advanced memory plant Cheongju 4th campus incident today led to all 3,600 staff being evacuated",
+    "summary": "Thousands of SK hynix employees fled their factory stations earlier today as a fire broke out in a room where fluorine gas was used.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/seven-hospitalized-after-toxic-gas-fire-at-sk-hynix-advanced-memory-plant-cheongju-4th-campus-incident-today-led-to-all-3-600-staff-being-evacuated",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.055255"
+  },
+  {
+    "title": "Bambu Lab Launches Big Bed Slinger: A2L company's 'H2S Lite' is half the cost of H2S at just $469",
+    "summary": "Or get the combo for $569",
+    "link": "https://www.tomshardware.com/3d-printing/bambu-lab-launches-big-bed-slinger-a2l-companys-h2s-lite-is-half-the-cost-of-h2s-at-just-usd469",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-01T14:39:14.055339"
+  },
+  {
+    "title": "256GB of dual-channel RAM hits mass market thanks to Origin Code quad-rank CUDIMM packs 128GB of DDR5-8000 into a single module",
+    "summary": "Origin Code reveals the brand's Vortex 4R DDR5-8000 256GB (2x128GB) CUDIMM memory kits at Computex 2025.",
+    "link": "https://www.tomshardware.com/pc-components/ram/256gb-of-dual-channel-ram-hits-mass-market-thanks-to-origin-code-quad-rank-cudimm-packs-128gb-of-ddr5-8000-into-a-single-module",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.055471"
+  },
+  {
+    "title": "Tom's Hardware Unfiltered: Computex 2026, Day 0 peek behind the curtain to see how we're covering the biggest trade show of the year",
+    "summary": "Our team is on the ground in Taipei for Computex 2026. For the first time, we're peeling back the curtain to show you exactly how we're covering it, documenting our trials and tribulations during the massive event.",
+    "link": "https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-0-peek-behind-the-curtain-to-see-how-were-covering-the-biggest-trade-show-of-the-year",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.055583"
+  },
+  {
+    "title": "Nvidia says RTX Spark chip will support all major anti-cheat and DRM technologies Fortnite, Valorant, Denuvo, and more to work natively with Windows on Arm",
+    "summary": "Microsoft and Nvidia are working together to bring popular anti-cheat software to the new RTX Spark chip, allowing support for all major multiplayer games. So far, Fortnite is the only game that runs on Windows-on-Arm devices with a native ARM64 port for Easy Anti-Cheat, but the precedent is about to change.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-says-rtx-spark-chip-will-support-all-major-anti-cheat-and-drm-technologies-fortnite-valorant-denuvo-and-more-to-work-natively-with-windows-on-arm",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.055702"
+  },
+  {
+    "title": "Asus' monstrous ROG Astral GeForce RTX 5090 Edition 20 includes expansive curved AMOLED display also debuts 3,000W power supply and striking PC case",
+    "summary": "Asus has used its Computex press event to showcase a huge celebration of its ROG gaming sub-brand with commemorative gear including the Asus ROG Astral GeForce RTX 5090 Edition 20.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/asus-monstrous-rog-astral-geforce-rtx-5090-edition-20-includes-expansive-curved-amoled-display-also-debuts-3-000w-power-supply-and-striking-pc-case",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.055802"
+  },
+  {
+    "title": "Supermicro shows off Vera Rubin NVL72 rack with all-new type of coolant company claims coolant offers 1,000 times higher electrical impedance over standard cooling",
+    "summary": "Supermicro demonstrates upcoming servers based on AMD s EPYC Venice CPUs, MI450 accelerators, and Nvidia s Vera Rubin-based solutions.",
+    "link": "https://www.tomshardware.com/desktops/servers/supermicro-shows-off-vera-rubin-nvl72-rack-with-all-new-type-of-coolant-company-claims-coolant-offers-1-000-times-higher-electrical-impedance-over-standard-cooling",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.055911"
+  },
+  {
+    "title": "Save 78% on Nord's latest Complete VPN package 27 months of online protection for $107",
+    "summary": "Pick up 27 months of NordVPN coverage for just $107. Fast VPN connections, anti-virus protection, and a password manager for only $3.99 per month.",
+    "link": "https://www.tomshardware.com/software/vpn/save-78-percent-on-nords-latest-complete-vpn-package-27-months-of-online-protection-for-usd107",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.055998"
+  },
+  {
+    "title": "US closes loophole that allowed Chinese-owned subsidiaries located outside China to buy AI chips report claims that hundreds of thousands of advanced AI chips have been acquired through BIS blind spot",
+    "summary": "The BIS just issued a clarification that Chinese-owned subsidiaries are included in U.S. export controls, even if they're based outside of China. However, one source said that some companies have been using this loophole to acquire AI chips that estimated to be in the hundreds of thousands.",
+    "link": "https://www.tomshardware.com/tech-industry/us-closes-loophole-that-allowed-chinese-owned-subsidiaries-located-outside-china-to-buy-ai-chips-report-claims-that-hundreds-of-thousands-of-advanced-ai-chips-have-been-acquired-through-bis-blind-spot",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.056110"
+  },
+  {
+    "title": "Negative time experiment clears peer review as photons appear to leave an atom cloud before entering groundbreaking quantum 'negative time' proven after 1 million test runs",
+    "summary": "A University of Toronto experiment showing that photons can spend a negative amount of time inside a cloud of atoms has been published in Physical Review Letters.",
+    "link": "https://www.tomshardware.com/tech-industry/negative-time-experiment-clears-peer-review-as-photons-appear-to-leave-an-atom-cloud-before-entering",
+    "categories": [
+      "Hardware",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-31T10:35:05.358498"
+    "processed_date": "2026-06-01T14:39:14.056208"
   },
   {
-    "title": "Sandisk is launching new SATA SSDs in 2026 because NVMe prices are out of control",
-    "summary": "Spotted by hardware leaker momomo_us on Amazon UK, both drives use the familiar 2.5-inch, 7mm-thick format, making them suitable for a wider range of PCs and laptops. The Sandisk 320 is the mainstream model, with capacities from 250GB to 2TB and sequential speeds of up to 545 MB/s read and... Read Entire Article",
-    "link": "https://www.techspot.com/news/112590-sandisk-new-sata-ssds-could-lifeline-buyers-priced.html",
+    "title": "Acer s PM131QT portable monitor is a 12.3-inch touchscreen with magnetic mounting, a built-in kickstand, and 5-point touch 1920 x 720 IPS screen has pogo pins for a keyboard, and is designed for secondary and in-vehicle use",
+    "summary": "Are you looking for a compact monitor for multiple uses around the home and on the go? Acer s new PM131QT might be just what you re looking for.",
+    "link": "https://www.tomshardware.com/monitors/portable-monitors/acers-pm131qt-portable-monitor-is-a-12-3-inch-touchscreen-with-magnetic-mounting-a-built-in-kickstand-and-5-point-touch-1920-x-720-ips-screen-has-pogo-pins-for-a-keyboard-and-is-designed-for-secondary-and-in-vehicle-use",
     "categories": [
-      "Hardware",
-      "AI & ML"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-31T10:35:05.358613"
+    "processed_date": "2026-06-01T14:39:14.056306"
   },
   {
-    "title": "Nvidia's first consumer CPU in over a decade to debut at Computex next week",
-    "summary": "Identical posts from Nvidia, Arm, and Microsoft contained the words \"A new era of PC,\" followed by the coordinates \"25.0528, 121.5990,\" which map to the Computex 2026 venue in Taipei. The cryptic posts can be seen as early confirmation that Nvidia is finally ready to support Windows' push into Arm chipsets. Read Entire Article",
-    "link": "https://www.techspot.com/news/112585-microsoft-nvidia-arm-tease-new-era-pc-computex.html",
+    "title": "Resourceful runner 'can race my own ghost' using homemade Meta Ray-Ban Display app also adds bonus coins, mini leaderboard, and more",
+    "summary": "Video demonstrates brand-new gamified running app for the Meta Ray-Ban Display glasses.",
+    "link": "https://www.tomshardware.com/peripherals/wearable-tech/resourceful-runner-can-race-my-own-ghost-using-homemade-meta-ray-ban-display-app-also-adds-bonus-coins-mini-leaderboard-and-more",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.056405"
+  },
+  {
+    "title": "Computex 2026 Live: Every update and announcement from day one in Taipei",
+    "summary": "Every update live from Taipei as Computex continues in Taiwan.",
+    "link": "https://www.tomshardware.com/news/live/computex-2026-",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-01T14:39:14.056487"
+  },
+  {
+    "title": "AMD promises 13% uplift with new EXPO Ultra Low Latency overclocking on DDR5 DIMMs automatic memory overclocking delivers 4% improvement over standard EXPO, says AMD",
+    "summary": "AMD s upcoming EXPO Ultra Low Latency automatic memory overclocking promises a 13% improvement over standard DDR5 speeds, as well as a 4% jump compared to standard EXPO.",
+    "link": "https://www.tomshardware.com/pc-components/ram/amd-promises-13-percent-uplift-with-new-expo-ultra-low-latency-overclocking-on-ddr5-dimms-automatic-memory-overclocking-delivers-4-percent-improvement-over-standard-expo-says-amd",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.056585"
+  },
+  {
+    "title": "Intel warns it has 'a healthy dose of paranoia' over Nvidia entrance into PC market company says RTX Spark is 'great for the market' while touting the virtues of x86",
+    "summary": "Intel reacts to Nvidia s RTX Spark announcement, and says that it s treating the green giant s entrance into consumer SoCs with a healthy dose of skepticism.\"",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-warns-it-has-a-healthy-dose-of-paranoia-over-nvidia-entrance-into-pc-market-company-says-rtx-spark-is-great-for-the-market-while-touting-the-virtues-of-x86",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.056685"
+  },
+  {
+    "title": "We went hands-on with Qualcomm's new '$300 and up' ARM laptop platform with mystery eight-core CPU active-cooled Snapdragon C laptop surfaces in Acer Aspire Go 15",
+    "summary": "We've learned a few new details of the Snapdragon C platform at Computex 2026 by opening up a few Windows utilities on a demo unit.",
+    "link": "https://www.tomshardware.com/laptops/we-went-hands-on-with-qualcomms-new-usd300-and-up-arm-laptop-platform-mystery-eight-core-cpu-in-active-cooled-snapdragon-c-laptop-surfaces-in-acer-aspire-go-15",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-31T10:35:05.358727"
+    "processed_date": "2026-06-01T14:39:14.056786"
   },
   {
-    "title": "Someone got 26 years of Windows running on a classic IBM ThinkPad T43 without a virtual machine",
-    "summary": "Redditor MatiHalek posted the results of the experiment to r/Windows, showing 26 years of Microsoft's operating systems running on the same bare-metal laptop. The gallery includes screenshots of the classic System Properties/About screens, taking viewers from the old NT era through to one of the final Windows 10 releases. Read Entire Article",
-    "link": "https://www.techspot.com/news/112588-someone-got-26-years-windows-running-ibm-thinkpad.html",
+    "title": "DLSS 4.5 Ray Reconstruction update arrives in August for better ray tracing visuals broader training data set and second-gen transformer architecture combine for improved image quality",
+    "summary": "At Computex 2026, Nvidia announced DLSS 4.5 Ray Reconstruction, an updated version of its neural RT denoiser with a second-gen transformer architecture and a broader training data set for better output image quality.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/dlss-4-5-ray-reconstruction-update-arrives-in-august-for-better-ray-tracing-visuals-broader-training-data-set-and-second-gen-transformer-architecture-combine-for-improved-image-quality",
     "categories": [
-      "Hardware",
-      "Tech News"
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-01T14:39:14.056895"
+  },
+  {
+    "title": "Microsoft Surface Laptop Ultra weilds Nvidia's RTX Spark superchip with 128GB of RAM, 20 Arm CPU cores, and a Blackwell GPU 15-inch mini-LED PixelSense Ultra display rounds out the powerful package",
+    "summary": "Powered by Nvidia's RTX Spark Superchip, the Surface Laptop Ultra features 20 Arm CPU cores, 6,144 CUDA cores, and up to 128GB of unified memory",
+    "link": "https://www.tomshardware.com/laptops/microsoft-surface-laptop-ultra-weilds-nvidias-rtx-spark-superchip-with-128gb-of-ram-20-arm-cpu-cores-and-a-blackwell-gpu-15-inch-mini-led-pixelsense-ultra-display-rounds-out-the-powerful-package",
+    "categories": [
+      "GPUs",
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-05-31T10:35:05.358839"
+    "processed_date": "2026-06-01T14:39:14.056996"
   },
   {
-    "title": "Dell Alienware AW2726DM Review: QD-OLED Gaming for $350",
-    "summary": "The Dell Alienware AW2726DM makes OLED gaming more accessible than ever with its aggressive $350 price point, while still delivering excellent motion clarity, deep contrast, and 240Hz refresh rates. Read Entire Article",
-    "link": "https://www.techspot.com/review/3123-dell-alienware-aw2726dm/",
+    "title": "Nvidia lays out RTX Spark roadmap for laptops and desktop PCs at Computex 2026 three generations outlined, Rubin with LPDDR6 memory, followed by Rosa Feynman",
+    "summary": "Along with its first-generation RTX Spark platform for desktop and laptop PCs, Nvidia CEO Jensen Huang revealed the company's commitment to future generations of those platforms on its future roadmaps.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-unveils-dgx-sparrk-roadmap-for-laptops-and-desktop-pcs-at-computex-2026-three-generations-outlined-rubin-followed-by-rosa-feynman",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.057097"
+  },
+  {
+    "title": "Nvidia unveils RTX Spark Superchip for laptops and desktop PCs at Computex 2026 new platform promises to turn Windows into an agentic AI OS with Arm CPU, Blackwell GPU, and 128GB unified memory",
+    "summary": "At Computex 2026, Nvidia CEO Jensen Huang unveiled the RTX Spark Superchip, a new Arm laptop and desktop platform that powers agentic AI on Windows with a 20-core Arm CPU, powerful 6144-CUDA-core Blackwell GPU, and up to 128 GB of local memory.",
+    "link": "https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-05-31T10:35:05.358940"
+    "processed_date": "2026-06-01T14:39:14.057210"
+  },
+  {
+    "title": "Intel Xeon 7 Diamond Rapids CPUs officially launching in 2027 on Intel 18A-P next-gen P-core Xeon features PCIe 6.0, 50% higher core counts, and twice the memory bandwidth",
+    "summary": "Intel has officially confirmed its next-gen Xeon 7 Diamond Rapids CPUs are coming in 2027, featuring 50% higher core counts and twice the memory bandwidth of Xeon 6 in a bid to compete against AMD s upcoming EPYC Venice CPUs.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-cpus-officially-launching-in-2027-on-intel-18a-p-next-gen-p-core-xeon-features-pcie-6-0-50-percent-higher-core-counts-and-twice-the-memory-bandwidth",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.057315"
+  },
+  {
+    "title": "Intel details long-awaited Crescent Island AI GPU at Computex, boasts up to 480 GB of LPDDR5X to combat memory shortages company shares more details of its Xe3P inference accelerator at Computex",
+    "summary": "Intel revealed more details of its next-gen Data Center GPU, code-named Crescent Island, at Computex 2026. This inference-optimized chip will feature up to 480GB of LPDDR5X memory for efficient handling of massive AI contexts.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/intel-details-long-awaited-crescent-island-ai-gpu-at-computex-boasts-up-to-480-gb-of-lpddr5x-to-combat-memory-shortages-company-shares-more-details-of-its-xe3p-inference-accelerator-at-computex",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.057442"
+  },
+  {
+    "title": "Intel Xeon 6+ Clearwater Forest puts 18A in the data center with up to 288 cores, 576 MB of L3 cache new Xeon 6990E+ is 30% faster per thread than 192-core AMD Epyc 9965, says Intel",
+    "summary": "Intel is putting its 18A node into the data center with new Xeon 6+ Clearwater Forest CPUs, which pack up to 288 E-cores for dense compute.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-6-clearwater-forest-puts-18a-in-the-data-center-with-up-to-288-cores-576-mb-of-l3-cache-new-xeon-6990e-is-30-percent-faster-per-thread-than-192-core-amd-epyc-9965-says-intel",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.057542"
+  },
+  {
+    "title": "AMD s formerly China-exclusive Radeon RX 9070 GRE goes global for $549 on June 2 RDNA 4 GPU will bridge the gap between RX 9060 XT and RX 9070",
+    "summary": "AMD has officially launched the Radeon RX 9070 GRE for $549, an RDNA 4 graphics card that was previously exclusive to the Chinese market.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/amds-formerly-china-exclusive-radeon-rx-9070-gre-goes-global-for-usd549-on-june-2-rdna-4-gpu-will-bridge-the-gap-between-rx-9060-xt-and-rx-9070",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-01T14:39:14.057634"
+  },
+  {
+    "title": "Watch Nvidia's Computex 2026 keynote here Jensen Huang takes the stage for Computex and GTC Taipei at 8pm PT / 11pm ET on May 31",
+    "summary": "Nvidia CEO Jensen Huang is set to take the stage at Computex 2026 and GTC Taipei. Here's how to watch the keynote address, where we could hear more about the rumored N1X.",
+    "link": "https://www.tomshardware.com/tech-industry/nvidia-keynote-computex-2026-gtc-taipei-where-to-watch",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.057729"
+  },
+  {
+    "title": "AMD confirms AM5 support through 2029 Zen 4 and 5 platform will likely see two more generations, at least",
+    "summary": "AMD confirmed it will support its current AM5 socket through 2029, extending the timeline by two years and likely lining up at least two more generations on the socket.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-confirms-am5-support-through-2029-zen-4-and-5-platform-will-likely-see-two-more-generations-at-least",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.057822"
+  },
+  {
+    "title": "AMD brings back Ryzen 7 5800X3D, launches Ryzen 7 7700X3D to combat rising component prices eight-core X3D CPUs arrive under $350 for AM4 or AM5, DDR4 or DDR5",
+    "summary": "AMD is rereleasing the Ryzen 7 5800X3D and introducing the Ryzen 7 7700X3D, both eight-core chips with 3DV-Cache targeting midrange gamers who ve been under the thumb of rising component prices.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-brings-back-ryzen-7-5800x3d-launches-ryzen-7-7700x3d-to-combat-rising-component-prices-eight-core-x3d-cpus-arrive-under-usd350-for-am4-or-am5-ddr4-or-ddr5",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.057924"
+  },
+  {
+    "title": "Dell XPS 13 targets MacBook Neo with Intel's Wildcat Lake $699 starting price, $599 for students",
+    "summary": "Dell's XPS 13 is going after Apple's MacBook Neo with a $699 starting price, some higher specs, and Intel's new Wildcat Lake processors.",
+    "link": "https://www.tomshardware.com/laptops/dell-xps-13-targets-macbook-neo-with-intels-wildcat-lake-usd699-starting-price-usd599-for-students",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.058012"
+  },
+  {
+    "title": "Alienware debuts 39, 34-inch OLED gaming monitors RGB Stripe Tandem and Penta Tandem tech should boost color performance and text clarity",
+    "summary": "Alienware hits the ground running at Computex with four new gaming monitors covering OLED and VA panel types.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/alienware-debuts-39-34-inch-oled-gaming-monitors-rgb-stripe-tandem-and-penta-tandem-tech-should-boost-color-performance-and-text-clarity",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-01T14:39:14.058105"
+  },
+  {
+    "title": "Nvidia's long-awaited N1/N1X SoC specs leak ahead of Computex launch N1 to feature up to 20 Arm-based cores, standard N1 equipped with 12- and 10-core configs",
+    "summary": "The N1X reportedly comes in two SKUs: a top-end 20-core option with 6,144 CUDA cores matching the desktop RTX 5070, and a cut-down 18-core option with 5,120 CUDA cores. The standard N1 also has two configs, one with a 12-core CPU and 2,560 CUDA cores and a 10-core model with 2,048 CUDA cores.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/nvidias-long-awaited-n1-n1x-soc-specs-leak-ahead-of-computex-launch-n1-to-feature-up-to-20-arm-based-cores-standard-n1-equipped-with-12-and-10-core-configs",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.058220"
+  },
+  {
+    "title": "SoftBank to spend up to $87 billion on French AI data centers country offers ample nuclear grid that US sites lack",
+    "summary": "SoftBank carries over $130 billion in debt and took a $40 billion bridge loan in March to fund its latest OpenAI investment.",
+    "link": "https://www.tomshardware.com/tech-industry/softbank-to-spend-up-to-75-billion-on-french-ai-data-centers",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.058320"
+  },
+  {
+    "title": "New one-meter-cubed 3D printer pumps out large-scale prints at 3kg an hour Modix MAMA-1000 also needs a big wallet with prices starting at $35,000",
+    "summary": "The MAMA-1000 pellet 3D printer from Modix prints with a whopping 3kg an hour throughput.",
+    "link": "https://www.tomshardware.com/3d-printing/new-one-meter-cubed-3d-printer-pumps-out-large-scale-prints-at-3kg-an-hour-modix-mama-1000-also-needs-a-big-wallet-with-prices-starting-at-usd35-000",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.058421"
+  },
+  {
+    "title": "Lenovo Yoga Slim 7x review: Snapdragon X2 Elite makes its case",
+    "summary": "The Yoga Slim 7x brings Snapdragon performance, long battery life, and an OLED display provided you re fine with ARM apps and USB-C everything.",
+    "link": "https://www.tomshardware.com/laptops/lenovo-yoga-slim-7x-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-01T14:39:14.058512"
+  },
+  {
+    "title": "Microsoft veteran recalls the last time Nvidia and Arm was the future of Windows shares a video of the first time Windows ran on Nvidia Tegra Arm from 2010",
+    "summary": "Microsoft veteran Steven Sinofsky is here to remind folks that excitement about a new PC era fueled by Nvidia and Arm culminated in the Surface RT 16 years ago.",
+    "link": "https://www.tomshardware.com/pc-components/microsoft-veteran-recalls-the-last-time-nvidia-and-arm-was-the-future-of-windows-shares-a-video-of-the-first-time-windows-ran-on-nvidia-tegra-arm-from-2010",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.058613"
+  },
+  {
+    "title": "New AI-compute cryptocurrency Pearl sparks a GPU mining rush but profitability is already sliding RTX 5090 daily revenue has halved to $17.19 since April",
+    "summary": "A new cryptocurrency called Pearl has set off a short-lived GPU mining rush.",
+    "link": "https://www.tomshardware.com/tech-industry/cryptomining/new-ai-compute-cryptocurrency-pearl-sparks-a-gpu-mining-rush-but-profitability-is-sliding",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.058702"
+  },
+  {
+    "title": "The 'ultimate mosquito killer' uses lasers and AI custom model trained to detect and lock lasers on these pests",
+    "summary": "A computer vision and robotics expert has created and trained what he boasts is the ultimate mosquito killer using machine learning and a laser.",
+    "link": "https://www.tomshardware.com/maker-stem/robot-kits/the-ultimate-mosquito-killer-uses-lasers-and-ai-custom-model-trained-to-detect-and-lock-lasers-on-these-pests",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.058795"
+  },
+  {
+    "title": "Orpheus II ISA soundcard returns due to popular demand aimed at DOS and early Windows users, this card includes hardware to support every major audio standard",
+    "summary": "Want real Sound Blaster, Gravis UltraSound, OPL3 FM synthesis, and MPU-401 MIDI support? You got it.",
+    "link": "https://www.tomshardware.com/pc-components/sound-cards/orpheus-ii-isa-soundcard-returns-due-to-popular-demand-aimed-at-dos-and-early-windows-users-this-card-includes-hardware-to-support-every-major-audio-standard",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.058892"
+  },
+  {
+    "title": "You can still run the original Nvidia Control Panel by grabbing it from the Microsoft Store today app remains useful to adjust a handful of RTX Pro and Quadro features, and may be handy for troubleshooting",
+    "summary": "The old Nvidia Control Panel is now a separate, optional download, but is it worth grabbing?",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/you-can-still-run-the-original-nvidia-control-panel-by-grabbing-it-from-the-microsoft-store-today-app-remains-useful-to-adjust-a-handful-of-rtx-pro-and-quadro-features-and-may-be-handy-for-troubleshooting",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.058994"
+  },
+  {
+    "title": "Bill Gates once starred in a bizarre Doom promo to push Windows 95 back in 1993 tech mogul wore a trench coat, wielded a shotgun, and shot a demon, saying 'Who do you want to execute today?'",
+    "summary": "Bill Gates gives a possessed Doom heavy weapon dude both barrels in a rediscovered Windows 95 plus DirectX gaming presentation.",
+    "link": "https://www.tomshardware.com/software/windows/bill-gates-once-starred-in-a-bizarre-doom-promo-to-push-windows-95-back-in-1993-tech-mogul-wore-a-trench-coat-wielded-a-shotgun-and-shot-a-demon-saying-who-do-you-want-to-execute-today",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.059089"
+  },
+  {
+    "title": "Sixfab AI HAT+ for Raspberry Pi 5 integrates DEEPX DX-M1 AI accelerator",
+    "summary": "Sixfab has launched the AI HAT+ for Raspberry Pi 5, a PCIe HAT+ based on the DEEPX DX-M1 AI accelerator, which we also found in the DEEPX DX-AIPlayer, Mini DX-M1 SoM, and ALPON X5. Unlike the M.2 module used in the ALPON X5, the AI HAT+ has the accelerator soldered directly to the board. It connects to the Pi 5 via the PCIe FFC cable and draws power from the 40-pin header. The board is also available in 13 TOPS and 25 TOPS versions and is designed to run vision AI tasks such as object detection and segmentation locally on the Pi 5. Sixfab AI HAT+ specifications: Supported SBC Raspberry Pi 5 AI Accelerator (one or the other): DEEPX DX-M1M with up to 25 TOPS (INT8), 1 GB LPDDR4X NPU memory DEEPX DX-M1ML with up to 13 TOPS (INT8), 512 MB LPDDR4X NPU memory Host Interface PCIe Gen [...] The post Sixfab AI HAT+ for Raspberry Pi 5 integrates DEEPX DX-M1 AI accelerator appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/01/sixfab-ai-hat-for-raspberry-pi-5-integrates-deepx-dx-m1-ai-accelerator/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-01T14:39:14.059356"
+  },
+  {
+    "title": "Nuvoton NuMaker-GestureAI-M55M1 module combines Cortex-M55 MCU with GC0308 camera for AI gesture control",
+    "summary": "Back in November last year, we covered the launch of the NuMicro M55M1 MCU from Nuvoton, which combines an Arm Cortex-M55 core with an Ethos-U55 microNPU for on-device AI and gesture control. Now, they have released the NuMaker-GestureAI-M55M1, a development module based on that MCU for AI vision-related applications. This new board integrates the M55M1 MCU with a GC0308 CMOS image sensor, a digital microphone, and a microSD card slot for storing AI models. It is designed for applications such as gesture control, basic vision systems, and touchless interfaces. NuMaker-GestureAI-M55M1 specifications: MCU Nuvoton NuMicro M55M1R2LJAE CPU Cortex-M55 MCU @ 220 MHz Memory 1.5 MB SRAM Storage 2 MB Flash AI Accelerator Arm Ethos-U55 micro-NPU @ 220 MHz Storage MicroSD card slot (located on the back) for storing AI model files Camera Integrated VGA GC0308 CMOS image sensor Audio On-board digital microphone (DMIC) USB [...] The post Nuvoton NuMaker-GestureAI-M55M1 module combines Cortex-M55 MCU with GC0308 camera for AI gesture control appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/01/nuvoton-numaker-gestureai-m55m1-module-combines-cortex-m55-mcu-with-gc0308-camera-for-ai-gesture-control/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-06-01T14:39:14.059560"
+  },
+  {
+    "title": "Waveshare RP2350B-Plus-W A Raspberry Pi Pico 2 W-sized board with 41 GPIOs, 16MB flash, USB-C port",
+    "summary": "Waveshare RP2350B-Plus-W is a development board that follows the Raspberry Pi Pico 2 W form factor, but offers 41 GPIOs thanks to the RP2350B MCU, integrates 16 MB of flash, and includes a USB-C port. So, in several ways, it s an upgrade over the RP2350A-based official board, which offers only 26 GPIOs via two 13-pin GPIO headers, 4MB of flash, and a micro USB port. Since it s the same size, where do the extra GPIOs come from? Answer: The company simply added 15 pads to the bottom of the board, not quite as convenient since it s requires soldering, but it does the job. Waveshare RP2350B-Plus-W specifications: SoC Raspberry Pi RP2350B CPU Dual-core Arm Cortex-M33 @ 150 MHz with Arm Trustzone Dual-core RISC-V Hazard3 @ 150 MHz Only two cores can be used at any given time Memory 520 KB on-chip SRAM Package QFN-80 Memory Footprint [...] The post Waveshare RP2350B-Plus-W A Raspberry Pi Pico 2 W-sized board with 41 GPIOs, 16MB flash, USB-C port appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/01/waveshare-rp2350b-plus-w-raspberry-pi-pico-2-w-sized-board-with-41-gpios-16mb-flash-usb-c-port/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-01T14:39:14.059722"
+  },
+  {
+    "title": "Radxa s 2026 Qualcomm hardware: Dragon Q8B and Q5E SBCs, DragonStation and DragonBay NAS systems",
+    "summary": "Radxa started its partnership with Qualcomm last with the Dragon Q6A SBC, but it turns out it was just the start, and the company showcased more Qualcomm SBCs and NAS systems at a Radxa + Qualcomm developer day on May 30, 2026. The Radxa Q8B SBC will be based on a Qualcomm Snapdragon 8cx Gen3 octa-core SoC, the Q5E SBC on a Dragonwing QCS6690 octa-core Kryo SoC, and the company also teased DragonStation and DragonBay NAS systems, and a 2026 roadmap features a total of 22 Qualcomm systems made by Radxa. Radxa Dragon Q8B Dragon Q8B specifications: SoC Qualcomm Snapdragon 8cx Gen 3 compute platform Octa-core CPU 4x 3.0 GHz Kryo Prime cores, 4x 2.4 GHz Kryo Efficiency Cores GPU Adreno 690 GPU with DirectX 12 (DX12) API support DSP Qualcomm Hexagon Processor, Qualcomm Sensing Hub AI Qualcomm Neural Processing Engine SDK support for AI [...] The post Radxa s 2026 Qualcomm hardware: Dragon Q8B and Q5E SBCs, DragonStation and DragonBay NAS systems appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/01/radxa-2026-qualcomm-hardware-dragon-q8b-and-q5e-sbcs-dragonstation-and-dragonbay-nas-systems/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-01T14:39:14.059885"
+  },
+  {
+    "title": "Qualcomm unveils robot reference design, IQ10",
+    "summary": "CEO Cristiano announces new Robot Reference Design during Computex keynote in Taiwan",
+    "link": "https://www.fiercesensors.com/sensors/qualcomm-unveils-robot-reference-design-iq10",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-01T14:39:14.060912"
+  },
+  {
+    "title": "Humanoids are insanely hard to build, but Nvidia has a plan",
+    "summary": "Nvidia and Unitree H2 Plus humanoid robot reference design announced in Taiwan at GTC Taipei at Computex.",
+    "link": "https://www.fiercesensors.com/ai/humanoids-are-insanely-hard-build-nvidia-has-plan",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.061039"
+  },
+  {
+    "title": "Intel intros OpenVINO for robots; 130 firms use Ultra Series 3",
+    "summary": "Sensory AI displayed Ella, a robot barrista, at Computex with the Intel Core Ultra processor inside. The upgrade to Series 3 eliminated an entire class of components with lower software complexity and increased ROI.",
+    "link": "https://www.fiercesensors.com/sensors/intel-unveils-openvino-robots-130-firms-use-ultra-series-3",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.061154"
+  },
+  {
+    "title": "Intel tackles tracking of data center energy use with AET",
+    "summary": "Intel named Schwartz Digits as an Application Energy Telemetry user in search for a better TCO.",
+    "link": "https://www.fiercesensors.com/ai/intel-tackles-tracking-data-center-energy-use-aet",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-01T14:39:14.061239"
+  },
+  {
+    "title": "Engineer builds AI laser defense system that wiped out every mosquito in his home",
+    "summary": "The foundation of the system is its visual model, which Cheng trained on a custom mosquito dataset. To do that, he relied on a DSLR camera with a high-magnification zoom lens, capturing detailed images of mosquitoes for training data. That same camera setup serves as both the training tool and... Read Entire Article",
+    "link": "https://www.techspot.com/news/112601-engineer-builds-ai-laser-defense-system-wiped-out.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.061557"
+  },
+  {
+    "title": "MSI unveils the MEG Vision X2 AI+ gaming PC with LuckyClaw AI agent and holographic Holostage companion",
+    "summary": "MSI writes that its PC introduces the company's own agentic AI companion, LuckyClaw, which will be available from the machine's initial setup. According to the press release, it responds to natural speech commands, enabling seamless, hands-free control of performance profiles, MSI monitor settings, RGB lighting, and more. There's also the... Read Entire Article",
+    "link": "https://www.techspot.com/news/112605-msi-unveils-meg-vision-x2-ai-gaming-pc.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-01T14:39:14.061715"
+  },
+  {
+    "title": "United flight turns around after passenger's Bluetooth speaker name triggers security scare",
+    "summary": "Flight 236 left Newark Liberty International Airport on Saturday night en route to Palma de Mallorca but reversed course about an hour after takeoff. Read Entire Article",
+    "link": "https://www.techspot.com/news/112598-united-flight-turns-around-after-passenger-bluetooth-speaker.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.061813"
+  },
+  {
+    "title": "DLSS 4.5 Ray Reconstruction arrives this August to make ray tracing look cleaner and more stable",
+    "summary": "Ray Reconstruction is designed to replace the hand-tuned denoisers traditionally used in ray-traced and path-traced games. Read Entire Article",
+    "link": "https://www.techspot.com/news/112603-dlss-45-ray-reconstruction-arrives-august-make-ray.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.061904"
+  },
+  {
+    "title": "Mathematicians used Minecraft mobs to calculate Pi without writing a single line of code",
+    "summary": "Molly Lynch of Hollins University and Michael Weselcouch of Roanoke College approached the problem less like programmers and more like experimentalists. Instead of recreating a traditional algorithm inside Minecraft a process that typically involves building elaborate in-game logic systems they leaned on probability and the game's existing mechanics... Read Entire Article",
+    "link": "https://www.techspot.com/news/112595-mathematicians-used-minecraft-mobs-calculate-pi-without-writing.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.062012"
+  },
+  {
+    "title": "AMD at Computex: Ryzen 7 5800X3D revival, 7700X3D launch, RX 9070 GRE goes global, and AM5 support through 2029",
+    "summary": "In Taiwan a few hours ago, Team Red revealed the return of the Ryzen 7 5800X3D for AM4 users, a cheaper Ryzen 7 7700X3D for AM5, and the global launch of the Radeon RX 9070 GRE. Read Entire Article",
+    "link": "https://www.techspot.com/news/112600-amd-computex-ryzen-7-5800x3d-revival-7700x3d-launch.html",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.062109"
+  },
+  {
+    "title": "Nvidia RTX Spark CPU is now official: \"superchip\" will power Windows laptops and desktops",
+    "summary": "Ryan Shrout is a longtime technology analyst and industry veteran who has spent over two decades covering PC hardware, graphics, and semiconductors. He previously led technical marketing at Intel and was the founding editor of PC Perspective. He is currently President and GM at Signal65. You can follow him on... Read Entire Article",
+    "link": "https://www.techspot.com/news/112597-nvidia-rtx-spark-cpu-now-official-superchip-power.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-01T14:39:14.062216"
+  },
+  {
+    "title": "Moore's law is hitting a wall, so researchers are stacking silicon chip layers instead of shrinking them",
+    "summary": "At the Grainger College of Engineering, materials science and engineering professor Qing Cao and his team have built working silicon circuits by stacking active layers directly on top of each other. Instead of adding more devices side by side, they are moving into the third dimension and building stacked layers... Read Entire Article",
+    "link": "https://www.techspot.com/news/112591-moore-law-hitting-wall-researchers-stacking-silicon-chip.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-01T14:39:14.062327"
+  },
+  {
+    "title": "A Trump-linked startup is sending humanoid robots to the Ukraine battlefield",
+    "summary": "Foundation Future Industries, a startup founded in 2024 in San Francisco, has a goal shared by many similar robotics firms: to create machines that can take on those challenging, dangerous roles performed by humans. Read Entire Article",
+    "link": "https://www.techspot.com/news/112592-trump-family-linked-startup-sending-humanoid-robots-toward.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.062455"
+  },
+  {
+    "title": "MIT researchers found a way to get lithium out of hard rock without the massive energy bill",
+    "summary": "For now, lithium-ion batteries continue to dominate for a simple reason scale. The global lithium supply chain is already well-developed and highly efficient, making it difficult for alternatives to compete on cost. Read Entire Article",
+    "link": "https://www.techspot.com/news/112593-mit-researchers-found-way-get-lithium-out-hard.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-01T14:39:14.062559"
+  },
+  {
+    "title": "California passes bill requiring gun-blocking software in 3D printers",
+    "summary": "The bill would require consumer 3D printers sold in California to include \"firearm blocking technology\" that checks design files before a print job can begin. Read Entire Article",
+    "link": "https://www.techspot.com/news/112594-california-assembly-passes-bill-requiring-gun-blocking-software.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.062659"
+  },
+  {
+    "title": "Fake downloads of popular PC utilities are quietly installing crypto miners on enthusiast PCs",
+    "summary": "The Windows Defender security team is alerting users with dedicated GPUs about scammers manipulating search engine results to distribute remote monitoring and cryptomining payloads. The hackers are manipulating not only search engine results but also AI chatbot responses. Read Entire Article",
+    "link": "https://www.techspot.com/news/112587-fake-downloads-popular-pc-utilities-quietly-installing-crypto.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-01T14:39:14.062768"
   }
 ]
