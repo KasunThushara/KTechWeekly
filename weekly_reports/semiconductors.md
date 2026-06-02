@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of June 01, 2026**
+**Week of June 02, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,89 +7,87 @@
 
 ## 📊 Summary
 - **Articles this week:** 8
-- **Report generated:** 2026-06-01 14:41
+- **Report generated:** 2026-06-02 12:30
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Waveshare RP2350B-Plus-W A Raspberry Pi Pico 2 W-sized board with 41 GPIOs, 16MB flash, USB-C port ⭐
+### 1. ASUS Ascent QN10 mini PC is powered by Qualcomm Snapdragon X2 Elite 18-core Armv9 processor ⭐
 
-The Waveshare RP2350B-Plus-W is a Raspberry Pi Pico 2 W-sized board with 41 GPIOs, 16MB flash, and a USB-C port, providing an upgrade over the official board with additional GPIOs on the bottom.
+ASUS Ascent QN10 is a powerful mini PC featuring a 18-core Armv9 processor and 80 TOPS AI performance for seamless Windows CoPilot+ experience. It comes with up to 32GB LPDDR5 memory and 512GB to 2TB NVMe SSD storage. The mini PC also supports 2.5GbE and WiFi 7 networking.
 
-💡 *More GPIOs and USB-C port offer enhanced development possibilities.*
+💡 *Breakthrough in AI performance for edge computing devices*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/01/waveshare-rp2350b-plus-w-raspberry-pi-pico-2-w-sized-board-with-41-gpios-16mb-flash-usb-c-port/)
-
----
-
-### 2. Moore's law is hitting a wall, so researchers are stacking silicon chip layers instead of shrinking them 
-
-Researchers are stacking silicon chip layers to bypass shrinking limits, enabling more complex designs.
-
-💡 *Breaking the 2D paradigm with 3D stacked silicon chip architecture.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112591-moore-law-hitting-wall-researchers-stacking-silicon-chip.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/02/asus-ascent-qn10-mini-pc-is-powered-by-qualcomm-snapdragon-x2-elite-18-core-armv9-processor/)
 
 ---
 
-### 3. Nvidia says RTX Spark chip will support all major anti-cheat and DRM technologies Fortnite, Valorant, Denuvo, and more to work natively with Windows on Arm 
+### 2. Intel Xeon 6+ Computex roundtable interview transcript Kira Boyko and Tim Wilson on 18A wafer allocation, Clearwater Forest, and dropping hyper-threading 
 
-Nvidia's RTX Spark chip will support major anti-cheat and DRM technologies, making multiplayer games more accessible on Windows on Arm devices, with Fortnite being the first game to run natively with Easy Anti-Cheat.
+Intel's Xeon 6+ processors were launched at Computex, sparking a roundtable discussion. Kira Boyko and Tim Wilson, key figures behind the product, addressed pressing questions from the press. Topics included 18A wafer allocation, Clearwater Forest, and the decision to drop hyper-threading.
 
-💡 *Widespread anti-cheat support boosts gaming on Windows on Arm devices*
+💡 *Intel's Xeon 6+ marks a strategic shift in high-performance computing.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/nvidia-says-rtx-spark-chip-will-support-all-major-anti-cheat-and-drm-technologies-fortnite-valorant-denuvo-and-more-to-work-natively-with-windows-on-arm)
-
----
-
-### 4. US closes loophole that allowed Chinese-owned subsidiaries located outside China to buy AI chips report claims that hundreds of thousands of advanced AI chips have been acquired through BIS blind spot 
-
-The US has closed a loophole allowing Chinese subsidiaries to acquire AI chips. A clarification from the BIS now includes foreign-based Chinese subsidiaries in US export controls. Hundreds of thousands of AI chips are estimated to have been acquired through this loophole.
-
-💡 *US export control loophole allowed massive AI chip acquisition by China.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-closes-loophole-that-allowed-chinese-owned-subsidiaries-located-outside-china-to-buy-ai-chips-report-claims-that-hundreds-of-thousands-of-advanced-ai-chips-have-been-acquired-through-bis-blind-spot)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-xeon-6-plus-roundtable-transcript-computex-2026)
 
 ---
 
-### 5. We went hands-on with Qualcomm's new '$300 and up' ARM laptop platform with mystery eight-core CPU active-cooled Snapdragon C laptop surfaces in Acer Aspire Go 15 
+### 3. Drones to protect undersea cables from Russian sabotage touted in new defense pact US one of three partners developing new tech to protect $1.8 trillion in daily transactions 
 
-Qualcomm's Snapdragon C laptop platform has been showcased at Computex 2026, featuring an active-cooled eight-core CPU. The platform is designed for laptops priced from $300. Details were revealed through demos of Windows utilities on a demo unit.
+The US, UK, and Australia join forces to protect undersea cables from sabotage. The partnership aims to develop new technologies, including drones, to safeguard these vital communication routes. This move comes in response to recent incidents and Russian Navy's surveying activities.
 
-💡 *First ARM-based laptops could disrupt budget laptop market dynamics.*
+💡 *Protection of $1.8 trillion daily transactions relies on secure undersea cables*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/we-went-hands-on-with-qualcomms-new-usd300-and-up-arm-laptop-platform-mystery-eight-core-cpu-in-active-cooled-snapdragon-c-laptop-surfaces-in-acer-aspire-go-15)
-
----
-
-### 6. Microsoft veteran recalls the last time Nvidia and Arm was the future of Windows shares a video of the first time Windows ran on Nvidia Tegra Arm from 2010 
-
-Microsoft veteran Steven Sinofsky recalls the hype around Nvidia and Arm-powered Windows in 2010, referencing the Surface RT as the culmination of this excitement. This era aimed to bring a new PC experience but ultimately faced challenges. The video showcases Windows running on Nvidia Tegra Arm from 2010.
-
-💡 *Nvidia and Arm's promise to Windows PC users remains unfulfilled*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/microsoft-veteran-recalls-the-last-time-nvidia-and-arm-was-the-future-of-windows-shares-a-video-of-the-first-time-windows-ran-on-nvidia-tegra-arm-from-2010)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones-to-protect-undersea-cables-from-russian-sabotage-touted-in-new-defense-pact-us-one-of-three-partners-developing-new-tech-to-protect-usd1-8-trillion-in-daily-transactions)
 
 ---
 
-### 7. California passes bill requiring gun-blocking software in 3D printers 
+### 4. Qualcomm aims Snapdragon C laptop chip at the budget laptop segment, as manufacturers feel the DRAM squeeze analysts warn sub $500 laptop market may disappear before 2028 
 
-California passes bill requiring 3D printers to include gun-blocking software. The bill aims to prevent 3D printed firearms by checking design files before a print job begins. This technology will be mandatory for consumer 3D printers sold in California.
+Qualcomm announced the Snapdragon C Platform on May 28th, ahead of Computex 2026 in Taipei.
 
-💡 *Preventing 3D printed firearms reduces gun-related violence risk.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112594-california-assembly-passes-bill-requiring-gun-blocking-software.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/qualcomm-aims-snapdragon-c-at-300-laptops-as-memory-costs-gut-the-budget-segment)
 
 ---
 
-### 8. Qualcomm unveils robot reference design, IQ10 
+### 5. SK hynix to double memory wafer capacity within five years, chairman says AI-driven shortage will persist until at least 2030 
 
-Qualcomm unveiled the IQ10 robot reference design at Computex in Taiwan, led by CEO Cristiano Amon. This design is intended to accelerate the development of robots and related technologies. It showcases Qualcomm's efforts in expanding its presence in the robotics industry.
+SK hynix plans to double its memory wafer capacity within five years, with chairman Chey Tae-won citing the ongoing AI-driven semiconductor shortage as a persisting issue until at least 2030.
 
-💡 *Qualcomm's IQ10 accelerates robotics innovation and adoption rapidly*
+💡 *AI-driven shortage to persist for over a decade ahead*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/qualcomm-unveils-robot-reference-design-iq10)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-double-memory-wafer-capacity-over-five-years)
+
+---
+
+### 6. AMD had to re-engineer the Ryzen 7 5800X3D for a re-release 10th Anniversary Edition chip had a whole body of engineering work put into it 
+
+AMD had to re-engineer the Ryzen 7 5800X3D due to a change in fabrication method, requiring a significant investment of engineering work to release a 10th Anniversary Edition. The original manufacturing process was no longer viable due to a new TSMC bonding method, necessitating a complete overhaul. This re-engineering effort involved substantial redesign and testing.
+
+💡 *Manufacturing process changes require continuous innovation and re-engineering.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-had-to-re-engineer-the-ryzen-7-5800x3d-for-a-re-release-10th-anniversary-edition-chip-had-a-whole-body-of-engineering-work-put-into-it)
+
+---
+
+### 7. Intel Arc G3 interview transcript Intel's Senior Product Director talks new handheld chips, Arrow Lake Refresh, and RTX Spark 
+
+Intel's Nish Neelalojanan discusses the G3 chip line's impact on handheld gaming market, and how it addresses rising chip and memory prices.
+
+💡 *Intel enters handheld gaming with competitive, affordable chips and solutions*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-arc-g3-interview-transcript-intels-senior-product-director-talks-new-handheld-chips-arrow-lake-refresh-and-rtx-spark)
+
+---
+
+### 8. Nvidia's RTX Spark could caplitalize where Qualcomm's Arm-based efforts have not following the expiration of Qualcomm's Windows on Arm deal, Nvidia stands poised to pick up the slack 
+
+Nvidia's RTX Spark superchip combines a 20-core Arm-based CPU with a Blackwell RTX GPU, marking a key step in the company's Arm-based efforts. This move comes as Qualcomm's Windows on Arm deal has expired, leaving room for Nvidia to capitalize. The RTX Spark superchip is set to be showcased at Nvidia's GTC Taipei event.
+
+💡 *Nvidia fills void left by Qualcomm's expired Windows on Arm deal*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/nvidia-enters-the-windows-pc-market-with-rtx-spark)
 
 ---
 

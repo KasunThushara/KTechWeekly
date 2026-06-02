@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 01, 2026**
+**Week of June 02, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Nuvoton NuMaker-GestureAI-M55M1 module combines Cortex-M55 MCU with GC0308 camera for AI gesture control ⭐
-
-**🤖 AI & ML**
-
-Nuvoton has released the NuMaker-GestureAI-M55M1 development module for AI vision applications, combining the NuMicro M55M1 MCU with a GC0308 camera for gesture control.
-
-💡 **Key Point:** AI-powered gesture control for touchless interfaces and vision systems is emerging.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/01/nuvoton-numaker-gestureai-m55m1-module-combines-cortex-m55-mcu-with-gc0308-camera-for-ai-gesture-control/)
-
----
-
-### 2. Nuvoton NuMaker-GestureAI-M55M1 module combines Cortex-M55 MCU with GC0308 camera for AI gesture control ⭐
+### 1. Wireless-Tag ESP32P4C61-TINY board combines ESP32-P4 and ESP32-C61 SoCs (Crowdfunding) ⭐
 
 **💻 Hardware**
 
-Nuvoton has released the NuMaker-GestureAI-M55M1 development module for AI vision applications, combining the NuMicro M55M1 MCU with a GC0308 camera for gesture control.
+Wireless-Tag's ESP32P4C61-TINY is a compact AIoT board combining ESP32-P4 and ESP32-C61 SoCs for edge computing and AI applications. It features MIPI CSI and DSI interfaces, a microSD card slot, and supports camera and display connectivity. This board is suitable for various AIoT and edge computing use cases.
 
-💡 **Key Point:** AI-powered gesture control for touchless interfaces and vision systems is emerging.
+💡 **Key Point:** Combining AI and wireless capabilities in a tiny, open-source package.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/01/nuvoton-numaker-gestureai-m55m1-module-combines-cortex-m55-mcu-with-gc0308-camera-for-ai-gesture-control/)
-
----
-
-### 3. DLSS 4.5 Ray Reconstruction update arrives in August for better ray tracing visuals broader training data set and second-gen transformer architecture combine for improved image quality ⭐
-
-**🤖 AI & ML**
-
-Nvidia's DLSS 4.5 Ray Reconstruction offers improved image quality with a broader training data set and second-gen transformer architecture.
-
-💡 **Key Point:** Enhanced ray tracing visuals for a more immersive gaming experience.
-
-🔗 [Read More](https://www.tomshardware.com/video-games/pc-gaming/dlss-4-5-ray-reconstruction-update-arrives-in-august-for-better-ray-tracing-visuals-broader-training-data-set-and-second-gen-transformer-architecture-combine-for-improved-image-quality)
+🔗 [Read More](https://www.cnx-software.com/2026/06/02/wireless-tag-esp32p4c61-tiny-board-combines-esp32-p4-esp32-c61/)
 
 ---
 
-### 4. Sixfab AI HAT+ for Raspberry Pi 5 integrates DEEPX DX-M1 AI accelerator ⭐
+### 2. Wireless-Tag ESP32P4C61-TINY board combines ESP32-P4 and ESP32-C61 SoCs (Crowdfunding) ⭐
 
-**🤖 AI & ML**
+**📰 Tech News**
 
-Sixfab has released the AI HAT+ for Raspberry Pi 5, integrating the DEEPX DX-M1 AI accelerator. The board is available in two versions with 13 TOPS and 25 TOPS performance. It enables local vision AI tasks on the Pi 5.
+Wireless-Tag's ESP32P4C61-TINY is a compact AIoT board combining ESP32-P4 and ESP32-C61 SoCs for edge computing and AI applications. It features MIPI CSI and DSI interfaces, a microSD card slot, and supports camera and display connectivity. This board is suitable for various AIoT and edge computing use cases.
 
-💡 **Key Point:** Accelerates local vision AI tasks on Raspberry Pi 5 efficiently
+💡 **Key Point:** Combining AI and wireless capabilities in a tiny, open-source package.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/01/sixfab-ai-hat-for-raspberry-pi-5-integrates-deepx-dx-m1-ai-accelerator/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/02/wireless-tag-esp32p4c61-tiny-board-combines-esp32-p4-esp32-c61/)
 
 ---
 
-### 5. Lenovo Yoga Slim 7x review: Snapdragon X2 Elite makes its case ⭐
+### 3. ASUS Ascent QN10 mini PC is powered by Qualcomm Snapdragon X2 Elite 18-core Armv9 processor ⭐
+
+**⚡ Semiconductors**
+
+ASUS Ascent QN10 is a powerful mini PC featuring a 18-core Armv9 processor and 80 TOPS AI performance for seamless Windows CoPilot+ experience. It comes with up to 32GB LPDDR5 memory and 512GB to 2TB NVMe SSD storage. The mini PC also supports 2.5GbE and WiFi 7 networking.
+
+💡 **Key Point:** Breakthrough in AI performance for edge computing devices
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/02/asus-ascent-qn10-mini-pc-is-powered-by-qualcomm-snapdragon-x2-elite-18-core-armv9-processor/)
+
+---
+
+### 4. ASUS Ascent QN10 mini PC is powered by Qualcomm Snapdragon X2 Elite 18-core Armv9 processor ⭐
 
 **💻 Hardware**
 
-The Lenovo Yoga Slim 7x offers Snapdragon performance and long battery life, but with limitations such as ARM apps and USB-C only connectivity. It also features an OLED display for an enhanced viewing experience. This laptop is ideal for those who prioritize portability and power.
+ASUS Ascent QN10 is a powerful mini PC featuring a 18-core Armv9 processor and 80 TOPS AI performance for seamless Windows CoPilot+ experience. It comes with up to 32GB LPDDR5 memory and 512GB to 2TB NVMe SSD storage. The mini PC also supports 2.5GbE and WiFi 7 networking.
 
-💡 **Key Point:** Snapdragon-powered laptops challenge Intel's dominance in mobile performance
+💡 **Key Point:** Breakthrough in AI performance for edge computing devices
 
-🔗 [Read More](https://www.tomshardware.com/laptops/lenovo-yoga-slim-7x-review)
+🔗 [Read More](https://www.cnx-software.com/2026/06/02/asus-ascent-qn10-mini-pc-is-powered-by-qualcomm-snapdragon-x2-elite-18-core-armv9-processor/)
+
+---
+
+### 5. Chinese military has been acquiring Nvidia chips, even post-Washington export controls, research claims multiple institutions linked to the PLA asked for Nvidia AI chips, according to publicly available documents ⭐
+
+**🤖 AI & ML**
+
+The Chinese military has been acquiring Nvidia AI chips despite US export controls, according to publicly available documents. Multiple institutions linked to the PLA have requested these chips by name or specifications. This suggests a continued attempt to circumvent restrictions.
+
+💡 **Key Point:** Circumventing export controls poses significant national security risks globally.
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/chinese-military-has-been-acquiring-nvidia-chips-even-post-washington-export-controls-research-claims-multiple-institutions-linked-to-the-pla-asked-for-nvidia-ai-chips-according-to-publicly-available-documents)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **100 articles** across **5 focused categories**.
+We covered **75 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 26 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 24 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 27 | Computing hardware and development boards |
+| 🤖 [AI & ML](ai_and_ml.md) | 22 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 16 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 22 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 8 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 15 | Industry news and product launches |
+| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 26 articles
+*Artificial Intelligence and Machine Learning* — 22 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 24 articles
+*Graphics cards and compute accelerators* — 16 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 27 articles
+*Computing hardware and development boards* — 22 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
 *Chip manufacturing and design* — 8 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 15 articles
+*Industry news and product launches* — 7 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-01 at 14:41 by an autonomous AI curation system.
+Generated 2026-06-02 at 12:30 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
