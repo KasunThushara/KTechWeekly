@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 02, 2026**
+**Week of June 03, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Wireless-Tag ESP32P4C61-TINY board combines ESP32-P4 and ESP32-C61 SoCs (Crowdfunding) ⭐
+### 1. Intel's 5.7 GHz Xeon 6377P features 12 P-cores and a desktop-class LGA1700 socket unusual server CPU prioritizes clock speed over core count ⭐
 
 **💻 Hardware**
 
-Wireless-Tag's ESP32P4C61-TINY is a compact AIoT board combining ESP32-P4 and ESP32-C61 SoCs for edge computing and AI applications. It features MIPI CSI and DSI interfaces, a microSD card slot, and supports camera and display connectivity. This board is suitable for various AIoT and edge computing use cases.
+Intel's Xeon 6377P features a 5.7 GHz boost clock, 12 P-cores, and ECC support, prioritizing clock speed over core count for entry-level enterprise workloads.
 
-💡 **Key Point:** Combining AI and wireless capabilities in a tiny, open-source package.
+💡 **Key Point:** Prioritizing clock speed over core count for single-threaded performance matters
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/02/wireless-tag-esp32p4c61-tiny-board-combines-esp32-p4-esp32-c61/)
-
----
-
-### 2. Wireless-Tag ESP32P4C61-TINY board combines ESP32-P4 and ESP32-C61 SoCs (Crowdfunding) ⭐
-
-**📰 Tech News**
-
-Wireless-Tag's ESP32P4C61-TINY is a compact AIoT board combining ESP32-P4 and ESP32-C61 SoCs for edge computing and AI applications. It features MIPI CSI and DSI interfaces, a microSD card slot, and supports camera and display connectivity. This board is suitable for various AIoT and edge computing use cases.
-
-💡 **Key Point:** Combining AI and wireless capabilities in a tiny, open-source package.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/02/wireless-tag-esp32p4c61-tiny-board-combines-esp32-p4-esp32-c61/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intels-5-7-ghz-s-features-12-p-cores-and-a-desktop-class-lga1700-socket-unusual-server-cpu-prioritizes-clock-speed-over-core-count)
 
 ---
 
-### 3. ASUS Ascent QN10 mini PC is powered by Qualcomm Snapdragon X2 Elite 18-core Armv9 processor ⭐
-
-**⚡ Semiconductors**
-
-ASUS Ascent QN10 is a powerful mini PC featuring a 18-core Armv9 processor and 80 TOPS AI performance for seamless Windows CoPilot+ experience. It comes with up to 32GB LPDDR5 memory and 512GB to 2TB NVMe SSD storage. The mini PC also supports 2.5GbE and WiFi 7 networking.
-
-💡 **Key Point:** Breakthrough in AI performance for edge computing devices
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/02/asus-ascent-qn10-mini-pc-is-powered-by-qualcomm-snapdragon-x2-elite-18-core-armv9-processor/)
-
----
-
-### 4. ASUS Ascent QN10 mini PC is powered by Qualcomm Snapdragon X2 Elite 18-core Armv9 processor ⭐
+### 2. Reolink OMVI triple-lens AI security cameras combine 4K PTZ camera with dual-lens system with fixed 180 panoramic view ⭐
 
 **💻 Hardware**
 
-ASUS Ascent QN10 is a powerful mini PC featuring a 18-core Armv9 processor and 80 TOPS AI performance for seamless Windows CoPilot+ experience. It comes with up to 32GB LPDDR5 memory and 512GB to 2TB NVMe SSD storage. The mini PC also supports 2.5GbE and WiFi 7 networking.
+Reolink OMVI triple-lens AI security cameras combine a 4K PTZ camera with a fixed dual-lens system offering a 180 panoramic view, designed to eliminate blind spots and enhance surveillance capabilities.
 
-💡 **Key Point:** Breakthrough in AI performance for edge computing devices
+💡 **Key Point:** Enhanced surveillance capabilities with seamless panoramic and zoom views.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/02/asus-ascent-qn10-mini-pc-is-powered-by-qualcomm-snapdragon-x2-elite-18-core-armv9-processor/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/03/reolink-omvi-triple-lens-ai-security-cameras-combine-4k-ptz-camera-with-dual-lens-system-with-fixed-180-panoramic-view/)
 
 ---
 
-### 5. Chinese military has been acquiring Nvidia chips, even post-Washington export controls, research claims multiple institutions linked to the PLA asked for Nvidia AI chips, according to publicly available documents ⭐
+### 3. Reolink OMVI triple-lens AI security cameras combine 4K PTZ camera with dual-lens system with fixed 180 panoramic view ⭐
 
 **🤖 AI & ML**
 
-The Chinese military has been acquiring Nvidia AI chips despite US export controls, according to publicly available documents. Multiple institutions linked to the PLA have requested these chips by name or specifications. This suggests a continued attempt to circumvent restrictions.
+Reolink OMVI triple-lens AI security cameras combine a 4K PTZ camera with a fixed dual-lens system offering a 180 panoramic view, designed to eliminate blind spots and enhance surveillance capabilities.
 
-💡 **Key Point:** Circumventing export controls poses significant national security risks globally.
+💡 **Key Point:** Enhanced surveillance capabilities with seamless panoramic and zoom views.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/chinese-military-has-been-acquiring-nvidia-chips-even-post-washington-export-controls-research-claims-multiple-institutions-linked-to-the-pla-asked-for-nvidia-ai-chips-according-to-publicly-available-documents)
+🔗 [Read More](https://www.cnx-software.com/2026/06/03/reolink-omvi-triple-lens-ai-security-cameras-combine-4k-ptz-camera-with-dual-lens-system-with-fixed-180-panoramic-view/)
+
+---
+
+### 4. Intel's 5.7 GHz Xeon 6377P features 12 P-cores and a desktop-class LGA1700 socket unusual server CPU prioritizes clock speed over core count ⭐
+
+**📰 Tech News**
+
+Intel's Xeon 6377P features a 5.7 GHz boost clock, 12 P-cores, and ECC support, prioritizing clock speed over core count for entry-level enterprise workloads.
+
+💡 **Key Point:** Prioritizing clock speed over core count for single-threaded performance matters
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intels-5-7-ghz-s-features-12-p-cores-and-a-desktop-class-lga1700-socket-unusual-server-cpu-prioritizes-clock-speed-over-core-count)
+
+---
+
+### 5. Microsoft unveils Project Solara AI, a chip-to-cloud platform built to power a new generation of 'agent-first' enterprise devices hardware designed to run AI agents instead of traditional apps 
+
+**⚡ Semiconductors**
+
+Microsoft has unveiled Project Solara, an AI-first enterprise device platform combining hardware and cloud services for adaptive interfaces and AI agents. The system leverages Qualcomm and MediaTek hardware, along with Azure-hosted agents. Reference designs include wearables and desktop devices.
+
+💡 **Key Point:** Enabling businesses to automate and transform with AI-powered enterprise devices.
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-unveils-project-solara-ai-a-chip-to-cloud-platform-built-to-power-a-new-generation-of-agent-first-enterprise-devices-hardware-designed-to-run-ai-agents-instead-of-traditional-apps)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **75 articles** across **5 focused categories**.
+We covered **70 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 22 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 16 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 22 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 8 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 28 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 9 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 17 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 11 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 5 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 22 articles
+*Artificial Intelligence and Machine Learning* — 28 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 16 articles
+*Graphics cards and compute accelerators* — 9 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 22 articles
+*Computing hardware and development boards* — 17 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 8 articles
+*Chip manufacturing and design* — 11 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 7 articles
+*Industry news and product launches* — 5 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-02 at 12:30 by an autonomous AI curation system.
+Generated 2026-06-03 at 13:01 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

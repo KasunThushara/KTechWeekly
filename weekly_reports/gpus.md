@@ -1,175 +1,105 @@
 # 🎮 GPUs
-**Week of June 02, 2026**
+**Week of June 03, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 16
-- **Report generated:** 2026-06-02 12:30
+- **Articles this week:** 9
+- **Report generated:** 2026-06-03 13:01
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Chinese military has been acquiring Nvidia chips, even post-Washington export controls, research claims multiple institutions linked to the PLA asked for Nvidia AI chips, according to publicly available documents ⭐
+### 1. Cherry XTRFY launches first 8K ultra-wideband gaming keyboard featuring more compact 70-percent layout 
 
-The Chinese military has been acquiring Nvidia AI chips despite US export controls, according to publicly available documents. Multiple institutions linked to the PLA have requested these chips by name or specifications. This suggests a continued attempt to circumvent restrictions.
+Cherry XTRFY launched the first 8K ultra-wideband wireless gaming keyboard with a 70-percent compact layout, low-profile switches, and a gasket mount design at Computex 2026, offering gamers a new level of wireless performance and portability.
 
-💡 *Circumventing export controls poses significant national security risks globally.*
+💡 *Revolutionizes wireless gaming with ultra-wideband technology and compact design*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinese-military-has-been-acquiring-nvidia-chips-even-post-washington-export-controls-research-claims-multiple-institutions-linked-to-the-pla-asked-for-nvidia-ai-chips-according-to-publicly-available-documents)
-
----
-
-### 2. AMD Radeon RX 9070 GRE review: thoroughly midrange ⭐
-
-The AMD Radeon RX 9070 GRE offers strong high-refresh-rate gaming at 1080p and 1440p, making it a viable option for midrange users. Although its performance is solid, the price tag of $549 is somewhat high for a midrange GPU. Overall, the RX 9070 GRE is a thoroughly midrange graphics card.
-
-💡 *Price holds back RX 9070 GRE from midrange dominance potential*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amd-radeon-rx-9070-gre-review)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/cherry-xtrfy-launches-first-8k-ultra-wideband-gaming-keyboard-featuring-more-compact-70-percent-layout)
 
 ---
 
-### 3. Computex 2026 Day Zero Wrap-Up: Nvidia launches RTX Spark Superchip assault on laptop and desktop markets, Intel readies Xeon 6+ 
+### 2. AMD is considering a potential Ryzen 5 9600X3D company says six-core Zen 5 X3D chip 'maybe something we look at doing... later this year' 
 
-Nvidia unveiled the RTX Spark Superchip, a powerful GPU aimed at laptops and desktops. Meanwhile, Intel announced the Xeon 6+, a new line of processors. These announcements mark a significant push in the tech industry's competition for market dominance.
+AMD is considering a 6-core Ryzen 5 9600X3D chip with Zen 5 architecture. This would be a departure from their current X3D offerings, which are 8-core. The company deems 6-core X3D chips impractical for broad market adoption.
 
-💡 *High-performance computing just got a major competitive upgrade*
+💡 *Potential shift to 6-core X3D chips with Zen 5 architecture emerging.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/computex-2026-day-zero-wrap-up-nvidia-launches-rtx-spark-superchip-assault-on-laptop-and-desktop-markets-intel-readies-xeon-6)
-
----
-
-### 4. AMD Radeon RX 9070 GRE Review: An Awkward Addition to the Lineup 
-
-The AMD Radeon RX 9070 GRE, a year-old GPU, faces challenges in its market due to its high price and crowded competition.
-
-💡 *Outdated GPU struggles in crowded market with high price tag.*
-
-🔗 [Read Full Article](https://www.techspot.com/review/3133-amd-radeon-9070-gre/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-is-considering-a-potential-ryzen-5-9600x3d-company-says-six-core-zen-5-x3d-chip-maybe-something-we-look-at-doing-later-this-year)
 
 ---
 
-### 5. Intel Crescent Island data center GPU supports up to 480GB LPDDR5X with 350W air-cooled TDP 
+### 3. Corsair shows off gaming mouse with dedicated Stream Deck launch button wireless mouse also gets almost 50 hours of 8K battery life 
 
-Intel's Crescent Island GPU uses LPDDR5X DRAM for AI workloads, air-cooled design.
+Corsair unveiled the Nightsword v2 Wireless SD gaming mouse with a dedicated Stream Deck launch button, offering users enhanced control and convenience during gaming sessions. The device provides virtually seamless integration with popular streaming software. It boasts an impressive battery life of almost 50 hours at 8K resolution.
 
-💡 *Intel offers affordable AI acceleration with consumer-grade memory technology.*
+💡 *Streamers and gamers get instant access to Stream Deck functions*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112608-intel-crescent-island-gpu-support-up-480gb-lpddr5x.html)
-
----
-
-### 6. Gigabyte showcases new Infinity products for its 40th anniversary X870 Infinity Next halo motherboard boasts metal 3D-printed elements, Aero Wood goes dark, MicroATX Stealth boards, Infinity-style GPUs extend down the product stack 
-
-Gigabyte celebrates 40 years with new Infinity products, including a Next halo motherboard and Aero Wood design refresh. The X870 Infinity Next motherboard features metal 3D-printed elements. Gigabyte also introduces extended Infinity-style GPUs and MicroATX Stealth boards.
-
-💡 *Gigabyte's 40th anniversary marks a significant product design refresh.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gigabyte-showcases-new-infinity-products-for-its-40th-anniversary-the-x870-infinity-next-halo-motherboard-boasts-metal-3d-printed-elements-aero-wood-goes-dark-microatx-stealth-boards-infinity-style-gpus-extend-down-the-product-stack)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/corsair-shows-off-gaming-mouse-with-dedicated-stream-deck-launch-button-wireless-mouse-also-gets-almost-50-hours-of-8k-battery-life)
 
 ---
 
-### 7. Jensen Huang says Nvidia wants to 'reinvent the single most important tool of humanity' with RTX Spark Nvidia CEO touts support of 'literally every computer maker in the world' for its agentic AI PC platform 
+### 4. AMD says new EXPO Ultra Low Latency DDR5 memory should be 'effectively the same price' as current kits feature will work on existing chipsets, but will require new DIMMs 
 
-Nvidia CEO Jensen Huang discusses Nvidia's ambitions for the future of computing, including its entry into the PC market with the RTX Spark platform, which aims to 'reinvent the single most important tool of humanity' with agentic AI support.
+AMD's new EXPO Ultra Low Latency DDR5 memory offers improved performance with existing chipsets through new DIMMs, with a price comparable to current kits.
 
-💡 *Nvidia seeks to revolutionize computing with AI-powered PC innovation.*
+💡 *Enhanced performance at no significant cost increase expected.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-nvidia-wants-to-reinvent-the-single-most-important-tool-of-humanity-with-rtx-spark-nvidia-ceo-touts-support-of-literally-every-computer-maker-in-the-world-for-its-agentic-ai-pc-platform)
-
----
-
-### 8. Intel Arc G3 interview transcript Intel's Senior Product Director talks new handheld chips, Arrow Lake Refresh, and RTX Spark 
-
-Intel's Nish Neelalojanan discusses the G3 chip line's impact on handheld gaming market, and how it addresses rising chip and memory prices.
-
-💡 *Intel enters handheld gaming with competitive, affordable chips and solutions*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-arc-g3-interview-transcript-intels-senior-product-director-talks-new-handheld-chips-arrow-lake-refresh-and-rtx-spark)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/amd-says-new-expo-ultra-low-latency-ddr5-memory-should-be-effectively-the-same-price-as-current-kits-feature-will-work-on-existing-chipsets-but-will-require-new-dimms)
 
 ---
 
-### 9. Asus shows off updated Zenbook and Strix Scar laptops, along with a TUF-based Gaming desktop a refreshed look on laptops takes center stage 
+### 5. The rise of local agentic computing faces a brutal reality: rising DRAM prices RTX Spark, Gorgon Halo chips subject to 63% DRAM contract price hike this quarter 
 
-Asus unveiled updated Zenbook, Expertbook, and Strix Scar laptops at Computex 2026, along with the TUF T700 gaming desktop. The event highlighted a refreshed design and new features across the lineup. This marks a significant update to Asus' gaming and productivity laptops.
+DRAM contract prices are forecast to climb 58-63% this quarter, affecting local agentic computing.
 
-💡 *Innovative design enhances user experience in Asus' latest laptop lineup.*
+💡 *Increased DRAM costs threaten affordability of advanced computing technologies.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/asus-shows-off-updated-zenbook-and-strix-scar-laptops-along-with-a-tuf-based-gaming-desktop-a-refreshed-look-on-laptops-takes-center-stage)
-
----
-
-### 10. Hands-on with Asus ROG Azoth Extreme Edition 20 mechanical keyboard when carbon fiber isn t enough, Asus goes for the gold 
-
-Asus ROG Azoth Extreme Edition 20 is a high-end gaming keyboard with gold-plated accents, 8K polling, transparent switches and keycaps, and an OLED touchscreen, priced at $599.
-
-💡 *Luxury gaming keyboard design pushes boundaries of premium gaming experience*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/hands-on-with-asus-rog-azoth-extreme-edition-20-mechanical-keyboard)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/amds-gorgon-halo-pushes-on-device-ai-memory-to-192gb-as-dram-prices-hit-15-year-high)
 
 ---
 
-### 11. Hands-on with Asus ROG Harpe II Extreme Edition 20 gaming mouse 24K gold and a 65K sensor 
+### 6. Astera Labs showcases 320-lane PCIe 6.0 switch for vendor-agnostic scaling in data centers up to 80 accelerators can be scaled up using PCIe alone 
 
-Asus ROG Harpe II Extreme Edition 20 is a limited-edition gaming mouse that celebrates the brand's 20-year milestone, featuring a luxurious 24K gold and black design, along with a see-through backside. This high-end gaming peripheral boasts an impressive 65K sensor for precise tracking and accurate performance. The ROG Harpe II is a premium offering for serious gamers seeking top-notch gaming experience.
+Astera Labs has showcased the Scorpio X-Series 320-lane PCIe 6.0 switch, enabling vendor-agnostic scale-up in data centers. This technology promises to support up to 80 accelerators using PCIe alone. The switch is suitable for AI infrastructure and disaggregated data centers.
 
-💡 *Luxurious design meets high-performance gaming with cutting-edge tech specs.*
+💡 *Breaks vendor lock-in for AI infrastructure scalability*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/hands-on-with-asus-rog-harpe-ii-extreme-edition-20-gaming-mouse-24k-gold-and-a-65k-sensor)
-
----
-
-### 12. Gigabyte debuts fourth-gen Tandem WOLED and multi-mode Mini LED gaming monitors 27 to 32 inches, up to 480 Hz, and up to 5K resolution 
-
-Gigabyte debuts fourth-gen Tandem WOLED gaming monitors with high refresh rates and resolutions.
-
-💡 *Enhanced gaming experiences with high-end visuals and ultra-fast refresh rates.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-debuts-fourth-gen-tandem-woled-and-multi-mode-mini-led-gaming-monitors-27-to-32-inches-up-to-480-hz-and-up-to-5k-resolution)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/astera-labs-showcases-320-lane-pcie-6-0-switch-for-vendor-agnostic-scaling-in-data-centers-up-to-80-accelerators-can-be-scaled-up-using-pcie-alone)
 
 ---
 
-### 13. Noctua announces new thermal pad for AMD chips in partnership with Carbice product will work with processors in AM5 and AM4 sockets 
+### 7. Microsoft debuts Surface RTX Spark Dev Box Nvidia-powered mini-PC helps devs get ready for an agentic Windows 
 
-Noctua has partnered with Carbice to release a new thermal pad, NT-CP1, designed for AMD Ryzen CPUs in both AM5 and AM4 sockets.
+Microsoft unveiled the Surface RTX Spark Dev Box, a mini-PC for developers to create AI applications. This system is designed to help developers prepare for the upcoming agentic Windows. It is powered by Nvidia, which provides the necessary hardware for AI development.
 
-💡 *Enhanced cooling solutions for AMD users with improved thermal performance.*
+💡 *Accelerating AI innovation with powerful Nvidia-powered development tools.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/thermal-paste/noctua-announces-new-thermal-pad-for-amd-chips-in-partnership-with-carbice-product-will-work-with-processors-in-am5-and-am4-sockets)
-
----
-
-### 14. Asus unveils 3,000W PSU that can power up to four GeForce RTX 5090 GPUs 
-
-Asus has unveiled a 3,000W PSU that can power up to four GeForce RTX 5090 GPUs, part of the ROG brand's celebration. The ROG Thor 3,000W Titanium III Edition 20 is designed for gaming-focused hardware. This PSU aims to cater to high-performance systems.
-
-💡 *Unprecedented power for extreme gaming and high-end PC builds*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112609-asus-unveils-3000w-psu-can-power-up-four.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/microsoft-debuts-surface-rtx-spark-dev-box-nvidia-powered-mini-pc-helps-devs-get-ready-for-an-agentic-windows)
 
 ---
 
-### 15. Microsoft unveils Surface Laptop Ultra with Nvidia RTX Spark chip and up to 128GB of RAM 
+### 8. Cooler Master shows off new MWE Gold V4 Power supplies and GPU Shield adapter per-pin monitoring can dynamically scale down power to stop cables melting 
 
-Microsoft unveils Surface Laptop Ultra with Nvidia RTX Spark chip, featuring up to 128GB of RAM and a standard design.
+Cooler Master showcases new power supplies and GPU Shield adapter at Computex. The MWE Gold V4 Power supplies and GPU Shield adapter feature per-pin monitoring, dynamically scaling down power to prevent overheating and cable damage.
 
-💡 *Groundbreaking performance in a compact, user-friendly laptop design.*
+💡 *Dynamic power scaling prevents GPU cable damage and overheating issues.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112606-microsoft-unveils-surface-laptop-ultra-nvidia-rtx-spark.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/cooler-master-shows-off-new-mwe-gold-v4-power-supplies-and-gpu-shield-adapter-per-pin-monitoring-can-dynamically-scale-down-power-to-stop-cables-melting)
 
 ---
 
-### 16. Nvidia's RTX Spark could caplitalize where Qualcomm's Arm-based efforts have not following the expiration of Qualcomm's Windows on Arm deal, Nvidia stands poised to pick up the slack 
+### 9. Nvidia brings back the RTX 3060 12GB for $350 as GPU market gets weird again 
 
-Nvidia's RTX Spark superchip combines a 20-core Arm-based CPU with a Blackwell RTX GPU, marking a key step in the company's Arm-based efforts. This move comes as Qualcomm's Windows on Arm deal has expired, leaving room for Nvidia to capitalize. The RTX Spark superchip is set to be showcased at Nvidia's GTC Taipei event.
+Nvidia is reportedly restarting production of the RTX 3060 12GB, originally discontinued in 2024. The move comes amid huge disruption to graphics card supply due to RAMageddon. The card is set to be released again at $350.
 
-💡 *Nvidia fills void left by Qualcomm's expired Windows on Arm deal*
+💡 *GPU market volatility sparks Nvidia to revive a popular model.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/nvidia-enters-the-windows-pc-market-with-rtx-spark)
+🔗 [Read Full Article](https://www.techspot.com/news/112626-nvidia-brings-back-rtx-3060-12gb-china-347.html)
 
 ---
 
