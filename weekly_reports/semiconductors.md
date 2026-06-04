@@ -1,125 +1,85 @@
 # ⚡ Semiconductors
-**Week of June 03, 2026**
+**Week of June 04, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-06-03 13:01
+- **Articles this week:** 7
+- **Report generated:** 2026-06-04 11:40
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Microsoft unveils Project Solara AI, a chip-to-cloud platform built to power a new generation of 'agent-first' enterprise devices hardware designed to run AI agents instead of traditional apps 
+### 1. Forlinx launches Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP ⭐
 
-Microsoft has unveiled Project Solara, an AI-first enterprise device platform combining hardware and cloud services for adaptive interfaces and AI agents. The system leverages Qualcomm and MediaTek hardware, along with Azure-hosted agents. Reference designs include wearables and desktop devices.
+Forlinx has launched a Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP, targeting HMI applications that leverage Edge AI. The SoC features an octa-core Cortex-A73/A53 processor, 4 TOPS NPU, and Arm Mali-G310V2 GPU. This launch aims to support consumer electronics, industrial control, and edge computing applications.
 
-💡 *Enabling businesses to automate and transform with AI-powered enterprise devices.*
+💡 *Bringing Edge AI capabilities to mid-range HMI applications*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-unveils-project-solara-ai-a-chip-to-cloud-platform-built-to-power-a-new-generation-of-agent-first-enterprise-devices-hardware-designed-to-run-ai-agents-instead-of-traditional-apps)
-
----
-
-### 2. Trump signs AI executive order seeking 30-day government access to frontier models before release voluntary framework will include classified benchmark to determine which models qualify 
-
-President Donald Trump signed an executive order requiring AI companies to give the US government early access to their most advanced models. The move aims to establish a voluntary framework for evaluating AI capabilities. The framework will include a classified benchmark to determine which models qualify.
-
-💡 *US government seeks control over high-stakes AI development and deployment.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-signs-ai-executive-order-seeking-30-day-government-access-to-frontier-models-before-release)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/04/forlinx-launches-rockchip-rk3572-system-on-module-som-and-development-board-with-linux-6-12-bsp/)
 
 ---
 
-### 3. AMD is considering a potential Ryzen 5 9600X3D company says six-core Zen 5 X3D chip 'maybe something we look at doing... later this year' 
+### 2. ModRetro M64 An AMD Artix UltraScale+ FPGA based open-source Nintendo 64-compatible console with original cartridge support ⭐
 
-AMD is considering a 6-core Ryzen 5 9600X3D chip with Zen 5 architecture. This would be a departure from their current X3D offerings, which are 8-core. The company deems 6-core X3D chips impractical for broad market adoption.
+The ModRetro M64 is an open-source Nintendo 64-compatible console powered by an AMD Artix UltraScale+ FPGA, supporting original cartridges and modern connectivity features.
 
-💡 *Potential shift to 6-core X3D chips with Zen 5 architecture emerging.*
+💡 *Advances retro gaming with accurate, responsive, and scalable hardware-level emulation technology.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-is-considering-a-potential-ryzen-5-9600x3d-company-says-six-core-zen-5-x3d-chip-maybe-something-we-look-at-doing-later-this-year)
-
----
-
-### 4. Comet Q USB-C KVM device is made for smartphones, tablets, and laptops (Crowdfunding) 
-
-The Comet Q is a KVM device for remote control of mobile devices via a USB-C cable and web browser, with a touchscreen LCD for control and information display.
-
-💡 *Enables seamless remote control of mobile devices with web-based interface simplicity.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/03/comet-q-usb-c-kvm-device-is-made-for-smartphones-tablets-and-laptops-crowdfunding/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/03/modretro-m64-an-amd-artix-ultrascale-fpga-based-open-source-nintendo-64-console-with-original-cartridge-support/)
 
 ---
 
-### 5. Florida sues OpenAI and Sam Altman in test of who is liable for AI harms 
+### 3. TeamGroup shows off external SSD with wireless self-destruct function T-Create Expert P35SG External SSD can be wiped with a single text message ⭐
 
-Florida has sued OpenAI and its CEO, Sam Altman, over AI safety concerns.
+TeamGroup released a T-Create Expert P35SG External SSD with a unique feature: it can be wiped with a single text message, demonstrating a focus on security.
 
-💡 *AI safety accountability is being tested at the state level nationwide.*
+💡 *Security through remote data destruction offers peace of mind.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112623-florida-sues-openai-sam-altman-test-who-liable.html)
-
----
-
-### 6. China's military obtained Nvidia chips despite US export controls, report claims 
-
-China's military obtained Nvidia chips despite US export controls. A business-intelligence firm found repeated procurement attempts by People's Liberation Army units. Nvidia hardware was bought through Chinese procurement documents.
-
-💡 *US export controls may be circumvented by Chinese procurement tactics.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112624-china-military-obtained-nvidia-chips-despite-us-export.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/teamgroup-shows-off-external-ssd-with-wireless-self-destruct-function-t-create-expert-p35sg-external-ssd-can-be-wiped-with-a-single-text-message)
 
 ---
 
-### 7. AMD says new EXPO Ultra Low Latency DDR5 memory should be 'effectively the same price' as current kits feature will work on existing chipsets, but will require new DIMMs 
+### 4. Microsoft CEO says new AI data centers use as little water annually as a restaurant closed-loop cooling system aims to slash consumption from millions of gallons as AI infrastructure faces mounting environmental scrutiny 
 
-AMD's new EXPO Ultra Low Latency DDR5 memory offers improved performance with existing chipsets through new DIMMs, with a price comparable to current kits.
+Microsoft's new AI data centers use as little water as a restaurant annually, thanks to a closed-loop cooling system, aiming to reduce consumption significantly.
 
-💡 *Enhanced performance at no significant cost increase expected.*
+💡 *Reducing AI infrastructure water consumption has significant environmental implications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/amd-says-new-expo-ultra-low-latency-ddr5-memory-should-be-effectively-the-same-price-as-current-kits-feature-will-work-on-existing-chipsets-but-will-require-new-dimms)
-
----
-
-### 8. The rise of local agentic computing faces a brutal reality: rising DRAM prices RTX Spark, Gorgon Halo chips subject to 63% DRAM contract price hike this quarter 
-
-DRAM contract prices are forecast to climb 58-63% this quarter, affecting local agentic computing.
-
-💡 *Increased DRAM costs threaten affordability of advanced computing technologies.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/amds-gorgon-halo-pushes-on-device-ai-memory-to-192gb-as-dram-prices-hit-15-year-high)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/microsoft-ceo-says-new-ai-data-centers-use-as-little-water-annually-as-a-restaurant-closed-loop-cooling-system-aims-to-slash-consumption-from-millions-of-gallons-as-ai-infrastructure-faces-mounting-environmental-scrutiny)
 
 ---
 
-### 9. Microsoft announces Majorana 2 quantum computing chip claims a practical machine will come in 2029 
+### 5. Microsoft unveils Majorana 2, a lead-based quantum chip designed with AI 
 
-Microsoft's Majorana 2 quantum computing chip has shifted to lead-based materials. This decision accelerates their roadmap, with a practical quantum machine expected in 2029. The chip aims to overcome previous challenges.
+Microsoft introduces Majorana 2, a lead-based quantum chip utilizing AI in design.
 
-💡 *Practical quantum computing within reach by 2029, transforming industries worldwide*
+💡 *Microsoft's lead-based design may offer a more robust quantum computing solution.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/quantum-computing/microsoft-announces-majorana-2-quantum-computing-chip-claims-a-practical-machine-will-come-in-2029)
-
----
-
-### 10. MSI unveils latest set of WiFi 7 gaming routers touting ultra-fast speeds flagship RadiXBE19000 model comes with a built-in SSD slot for 'NAS Lite' experience and wireless speeds up to 19 Gbps 
-
-MSI has unveiled three WiFi 7 gaming routers, including the flagship BE19000 model. This model features an SSD slot, eight antennas, and a unique design. It offers ultra-fast wireless speeds of up to 19 Gbps.
-
-💡 *Enhanced gaming performance with ultra-fast WiFi 7 speeds*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/msi-unveils-latest-set-of-wifi-7-gaming-routers-touting-ultra-fast-speeds-flagship-radix-be19000-model-comes-with-a-built-in-ssd-slot-for-nas-lite-experience-and-wireless-speeds-up-to-19-gbps)
+🔗 [Read Full Article](https://www.techspot.com/news/112639-microsoft-unveils-majorana-2-lead-based-quantum-chip.html)
 
 ---
 
-### 11. Computex 2026 Day One Wrap-Up: Arm makes a bold play for Windows PCs, PCIe 6.0 SSDs are coming, Asus embraces black and gold for ROG 20th 
+### 6. Microsoft Surface RTX Spark Dev Box packs 128GB unified memory and Nvidia's new Arm chip for local AI 
 
-At Computex 2026, Arm announced a significant push into Windows PCs, marking a bold shift in the market. Meanwhile, PCIe 6.0 SSDs are set to revolutionize storage, and Asus is celebrating its 20th ROG anniversary with a new black and gold aesthetic.
+Microsoft's Surface RTX Spark Dev Box features a 100-watt thermal envelope and 128GB unified memory, powered by Nvidia's new Arm chip. The device's design resembles an Xbox Series X and includes an aluminum casing that acts as a heatsink. This powerful system is ideal for local AI development.
 
-💡 *Arm challenges Intel's dominance in Windows PC market*
+💡 *Nvidia's Arm chip boosts local AI capabilities on Microsoft Surface RTX.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/computex-2026-day-one-wrap-up-arm-makes-a-bold-play-for-windows-pcs-pcie-6-0-ssds-are-coming-asus-embraces-black-and-gold-for-rog-20th)
+🔗 [Read Full Article](https://www.techspot.com/news/112634-microsoft-surface-rtx-spark-dev-box-packs-nvidia.html)
+
+---
+
+### 7. The world's largest private laser just fired up in race to make fusion power real 
+
+The world's largest private laser, Phoenix, has powered up to achieve fusion. Located inside a 74,000-square-foot facility, it utilizes a krypton fluoride excimer laser. This technology has roots in semiconductor manufacturing.
+
+💡 *Advancements in laser technology could revolutionize fusion energy production.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112641-world-largest-private-laser-fired-up-race-make.html)
 
 ---
 

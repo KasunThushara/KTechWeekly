@@ -1,65 +1,55 @@
 # 📰 Tech News
-**Week of June 03, 2026**
+**Week of June 04, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-06-03 13:01
+- **Articles this week:** 4
+- **Report generated:** 2026-06-04 11:40
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel's 5.7 GHz Xeon 6377P features 12 P-cores and a desktop-class LGA1700 socket unusual server CPU prioritizes clock speed over core count ⭐
+### 1. TeamGroup shows off external SSD with wireless self-destruct function T-Create Expert P35SG External SSD can be wiped with a single text message ⭐
 
-Intel's Xeon 6377P features a 5.7 GHz boost clock, 12 P-cores, and ECC support, prioritizing clock speed over core count for entry-level enterprise workloads.
+TeamGroup released a T-Create Expert P35SG External SSD with a unique feature: it can be wiped with a single text message, demonstrating a focus on security.
 
-💡 *Prioritizing clock speed over core count for single-threaded performance matters*
+💡 *Security through remote data destruction offers peace of mind.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-5-7-ghz-s-features-12-p-cores-and-a-desktop-class-lga1700-socket-unusual-server-cpu-prioritizes-clock-speed-over-core-count)
-
----
-
-### 2. ILL's full trailer is packed with zombie baby-punching, eye-gouging, and ultra-realistic body horror 
-
-ILL's full trailer showcases intense zombie action and ultra-realistic body horror, building hype after concept teasers were first released in 2021.
-
-💡 *Sony's ILL trailer unleashes graphic content for horror fans worldwide.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112636-ill-full-trailer-packed-zombie-baby-punching-eye.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/teamgroup-shows-off-external-ssd-with-wireless-self-destruct-function-t-create-expert-p35sg-external-ssd-can-be-wiped-with-a-single-text-message)
 
 ---
 
-### 3. A startup is using AI to find lithium deposits directly beneath Europe's battery factories 
+### 2.  Bots have now passed human traffic online, Cloudflare boss laments says agentic traffic wasn t expected to eclipse real people until next year 
 
-A startup uses AI and historical data to identify lithium deposits near European battery factories, spanning 1.5 million acres around Salzgitter and Wroclaw, where major battery manufacturing facilities are located.
+Bots have surpassed human traffic online for the first time, said Cloudflare's CEO Matthew Prince, citing a rapid increase in agentic internet traffic.
 
-💡 *Closing the loop on local battery production with nearby lithium reserves.*
+💡 *Agentic bots' unexpected growth undermines online trust and authenticity.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112625-startup-targets-lithium-deposits-beneath-volkswagen-lg-battery.html)
-
----
-
-### 4. Intel reportedly no longer working on 6-core Nova Lake mobile SKU, alleges new rumor Wildcat Lake Refresh to become focus for next-gen budget markets instead 
-
-Intel is reportedly not developing a 6-core Nova Lake mobile SKU, prioritizing Wildcat Lake instead. The 6-core part was targeted at budget markets. Nova Lake is still expected to be announced at the end of the year.
-
-💡 *Intel shifts focus from budget 6-core to Wildcat Lake Refresh.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-reportedly-no-longer-working-on-6-core-nova-lake-mobile-sku-alleges-new-rumor-wildcat-lake-refresh-to-become-focus-for-next-gen-budget-markets-instead)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year)
 
 ---
 
-### 5. Intel launches Xeon 6+ Clearwater Forest with 288 E-cores on 18A node, teases Diamond Rapids for 2027 
+### 3. Lian Li's Edge Platinum V2 PSUs have an LED dust indicator, magnetic filter, and a snap-on fan and USB header hub Edge line's trademark 90-degree power connector also returns 
 
-Intel releases Xeon 6+ Clearwater Forest with up to 288 E-cores and 576 MB L3 cache.
+Lian Li's Edge Platinum V2 PSUs introduce a dust-detecting LED and snap-on features. They also return the 90-degree power connector and include a removable filter. The PSUs are expected to arrive in September.
 
-💡 *Massive core count boosts high-performance computing capabilities significantly.*
+💡 *Upgraded PSUs enhance user experience and efficiency with convenience features.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112618-intel-launches-xeon-6-clearwater-forest-288-e.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/lian-lis-edge-platinum-v2-psus-have-an-led-dust-indicator-magnetic-filter-and-a-snap-on-fan-and-usb-header-hub-edge-lines-trademark-90-degree-power-connector-also-returns)
+
+---
+
+### 4. Noctua shows off improved thermosiphon prototype passively circulated liquid cooler gets Q3 2027 projected launch date 
+
+Noctua showcased an improved thermosiphon liquid cooler at Computex 2026, with a Q3 2027 launch date set. The refined design features an enhanced evaporator for better performance. This marks a significant step in passive liquid cooling technology.
+
+💡 *Breakthrough in passive liquid cooling technology for quieter systems*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/heatsinks/noctua-shows-off-improved-thermosiphon-prototype-passively-circulated-liquid-cooler-gets-q3-2027-projected-launch-date)
 
 ---
 

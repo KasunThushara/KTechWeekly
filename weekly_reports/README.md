@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 03, 2026**
+**Week of June 04, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Intel's 5.7 GHz Xeon 6377P features 12 P-cores and a desktop-class LGA1700 socket unusual server CPU prioritizes clock speed over core count ⭐
+### 1. Forlinx launches Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP ⭐
 
 **💻 Hardware**
 
-Intel's Xeon 6377P features a 5.7 GHz boost clock, 12 P-cores, and ECC support, prioritizing clock speed over core count for entry-level enterprise workloads.
+Forlinx has launched a Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP, targeting HMI applications that leverage Edge AI. The SoC features an octa-core Cortex-A73/A53 processor, 4 TOPS NPU, and Arm Mali-G310V2 GPU. This launch aims to support consumer electronics, industrial control, and edge computing applications.
 
-💡 **Key Point:** Prioritizing clock speed over core count for single-threaded performance matters
+💡 **Key Point:** Bringing Edge AI capabilities to mid-range HMI applications
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intels-5-7-ghz-s-features-12-p-cores-and-a-desktop-class-lga1700-socket-unusual-server-cpu-prioritizes-clock-speed-over-core-count)
+🔗 [Read More](https://www.cnx-software.com/2026/06/04/forlinx-launches-rockchip-rk3572-system-on-module-som-and-development-board-with-linux-6-12-bsp/)
 
 ---
 
-### 2. Reolink OMVI triple-lens AI security cameras combine 4K PTZ camera with dual-lens system with fixed 180 panoramic view ⭐
+### 2. ModRetro M64 An AMD Artix UltraScale+ FPGA based open-source Nintendo 64-compatible console with original cartridge support ⭐
 
 **💻 Hardware**
 
-Reolink OMVI triple-lens AI security cameras combine a 4K PTZ camera with a fixed dual-lens system offering a 180 panoramic view, designed to eliminate blind spots and enhance surveillance capabilities.
+The ModRetro M64 is an open-source Nintendo 64-compatible console powered by an AMD Artix UltraScale+ FPGA, supporting original cartridges and modern connectivity features.
 
-💡 **Key Point:** Enhanced surveillance capabilities with seamless panoramic and zoom views.
+💡 **Key Point:** Advances retro gaming with accurate, responsive, and scalable hardware-level emulation technology.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/03/reolink-omvi-triple-lens-ai-security-cameras-combine-4k-ptz-camera-with-dual-lens-system-with-fixed-180-panoramic-view/)
-
----
-
-### 3. Reolink OMVI triple-lens AI security cameras combine 4K PTZ camera with dual-lens system with fixed 180 panoramic view ⭐
-
-**🤖 AI & ML**
-
-Reolink OMVI triple-lens AI security cameras combine a 4K PTZ camera with a fixed dual-lens system offering a 180 panoramic view, designed to eliminate blind spots and enhance surveillance capabilities.
-
-💡 **Key Point:** Enhanced surveillance capabilities with seamless panoramic and zoom views.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/03/reolink-omvi-triple-lens-ai-security-cameras-combine-4k-ptz-camera-with-dual-lens-system-with-fixed-180-panoramic-view/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/03/modretro-m64-an-amd-artix-ultrascale-fpga-based-open-source-nintendo-64-console-with-original-cartridge-support/)
 
 ---
 
-### 4. Intel's 5.7 GHz Xeon 6377P features 12 P-cores and a desktop-class LGA1700 socket unusual server CPU prioritizes clock speed over core count ⭐
-
-**📰 Tech News**
-
-Intel's Xeon 6377P features a 5.7 GHz boost clock, 12 P-cores, and ECC support, prioritizing clock speed over core count for entry-level enterprise workloads.
-
-💡 **Key Point:** Prioritizing clock speed over core count for single-threaded performance matters
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intels-5-7-ghz-s-features-12-p-cores-and-a-desktop-class-lga1700-socket-unusual-server-cpu-prioritizes-clock-speed-over-core-count)
-
----
-
-### 5. Microsoft unveils Project Solara AI, a chip-to-cloud platform built to power a new generation of 'agent-first' enterprise devices hardware designed to run AI agents instead of traditional apps 
+### 3. Forlinx launches Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP ⭐
 
 **⚡ Semiconductors**
 
-Microsoft has unveiled Project Solara, an AI-first enterprise device platform combining hardware and cloud services for adaptive interfaces and AI agents. The system leverages Qualcomm and MediaTek hardware, along with Azure-hosted agents. Reference designs include wearables and desktop devices.
+Forlinx has launched a Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP, targeting HMI applications that leverage Edge AI. The SoC features an octa-core Cortex-A73/A53 processor, 4 TOPS NPU, and Arm Mali-G310V2 GPU. This launch aims to support consumer electronics, industrial control, and edge computing applications.
 
-💡 **Key Point:** Enabling businesses to automate and transform with AI-powered enterprise devices.
+💡 **Key Point:** Bringing Edge AI capabilities to mid-range HMI applications
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-unveils-project-solara-ai-a-chip-to-cloud-platform-built-to-power-a-new-generation-of-agent-first-enterprise-devices-hardware-designed-to-run-ai-agents-instead-of-traditional-apps)
+🔗 [Read More](https://www.cnx-software.com/2026/06/04/forlinx-launches-rockchip-rk3572-system-on-module-som-and-development-board-with-linux-6-12-bsp/)
+
+---
+
+### 4. ModRetro M64 An AMD Artix UltraScale+ FPGA based open-source Nintendo 64-compatible console with original cartridge support ⭐
+
+**⚡ Semiconductors**
+
+The ModRetro M64 is an open-source Nintendo 64-compatible console powered by an AMD Artix UltraScale+ FPGA, supporting original cartridges and modern connectivity features.
+
+💡 **Key Point:** Advances retro gaming with accurate, responsive, and scalable hardware-level emulation technology.
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/03/modretro-m64-an-amd-artix-ultrascale-fpga-based-open-source-nintendo-64-console-with-original-cartridge-support/)
+
+---
+
+### 5. TeamGroup shows off external SSD with wireless self-destruct function T-Create Expert P35SG External SSD can be wiped with a single text message ⭐
+
+**📰 Tech News**
+
+TeamGroup released a T-Create Expert P35SG External SSD with a unique feature: it can be wiped with a single text message, demonstrating a focus on security.
+
+💡 **Key Point:** Security through remote data destruction offers peace of mind.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/teamgroup-shows-off-external-ssd-with-wireless-self-destruct-function-t-create-expert-p35sg-external-ssd-can-be-wiped-with-a-single-text-message)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **70 articles** across **5 focused categories**.
+We covered **69 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 28 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 9 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 17 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 11 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 5 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 25 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 14 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 19 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 28 articles
+*Artificial Intelligence and Machine Learning* — 25 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 9 articles
+*Graphics cards and compute accelerators* — 14 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 17 articles
+*Computing hardware and development boards* — 19 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 11 articles
+*Chip manufacturing and design* — 7 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 5 articles
+*Industry news and product launches* — 4 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-03 at 13:01 by an autonomous AI curation system.
+Generated 2026-06-04 at 11:40 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
