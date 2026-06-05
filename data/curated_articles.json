@@ -1,440 +1,383 @@
 [
   {
-    "title": " Bots have now passed human traffic online, Cloudflare boss laments says agentic traffic wasn t expected to eclipse real people until next year",
-    "summary": "The rapid increase in agentic internet traffic means bots have now passed human traffic online for the first time in the Internet's history, remarked CEO and co-founder of Cloudflare, Matthew Prince.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year",
+    "title": "Save 55% on 12 months of Norton VPN coverage pay just $49.99 for complete protection from scams, malware, and nefarious ads",
+    "summary": "$4.17 per month for Norton VPN. Save 55% by picking up a 12-month subscription for just $49.99. Watch the World Cup from anywhere.",
+    "link": "https://www.tomshardware.com/software/vpn/save-55-percent-on-12-months-of-norton-vpn-coverage-pay-just-usd49-99-for-complete-protection-from-scams-malware-and-nefarious-ads",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.836667"
+    "processed_date": "2026-06-05T11:48:31.586279"
   },
   {
-    "title": "AMD's Helios MI455X AI platform breaks cover, initial systems use UALink-over-Ethernet interconnects AMD's Vera Rubin rival surfaces, but the downsides of Ethernet could hamstring performance",
-    "summary": "AMD s Helios set to compete against Nvidia s NVL72 VR200 rack-scale system later this year, but its UALink-over-Ethernet interconnection may affect performance in certain workloads before real UALink interconnects are deployed.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amds-helios-mi455x-ai-platform-breaks-cover-initial-systems-use-ualink-over-ethernet-interconnects-amds-vera-rubin-rival-surfaces-but-the-downsides-of-ethernet-could-hamstring-performance",
+    "title": "Anthropic warns Claude AI is building itself faster than expected, calls for option to halt frontier development 'recursive self improvement' increases risk humans lose control of AI",
+    "summary": "Anthropic has published a report warning that the development path it s on could eventually leave humans unable to control AI systems.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-now-writes-more-than-80-percent-of-its-merged-code",
     "categories": [
-      "GPUs",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-04T11:38:25.836804"
+    "processed_date": "2026-06-05T11:48:31.586400"
   },
   {
-    "title": "OpenAI CEO Sam Altman admits AI token costs are becoming 'a huge issue' company seeks improved value as overspending becomes a meme",
-    "summary": "OpenAI's clients are complaining about out-of-control AI spending, and they're asking Sam Altman to make it more efficient so they don't blow their annual AI budgets in just one quarter.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-ceo-sam-altman-admits-ai-token-costs-are-becoming-a-huge-issue-company-seeks-improved-value-as-overspending-becomes-a-meme",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.836920"
-  },
-  {
-    "title": "Production of DDR4 memory and motherboards is restarting amid unprecedented memory shortages PC industry preparing for a world without DDR5",
-    "summary": "Back to the (stone) DDR4 age.",
-    "link": "https://www.tomshardware.com/pc-components/ram/production-of-ddr4-memory-and-motherboards-is-restarting-amid-unprecedented-memory-shortages-pc-industry-preparing-for-a-world-without-ddr5",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-04T11:38:25.837023"
-  },
-  {
-    "title": "$559 Nvidia RTX 5070 GPU deal is the cheapest model available 1440p high-performance gaming at just $10 above MSRP",
-    "summary": "Quickly grab the cheapest RTX 5070 GPU available right now. Lenovo deal strips $80 off the list price.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/usd559-nvidia-rtx-5070-gpu-deal-is-the-cheapest-model-available-1440p-high-performance-gaming-at-just-usd10-above-msrp",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-04T11:38:25.837127"
-  },
-  {
-    "title": "HP has slashed an astonishing $2,600 off this RTX 5080 gaming PC, nearly 50% off get an epic Omen 35L rig with a 9900X3D, 64GB DDR5, and 4TB of SSD storage for just $2,899.99",
-    "summary": "An unthinkable $2,600 saving can be had right now on this HP Omen 45L gaming rig, fitted with a 9900X3D, RTX 5080, 64GB of DDR5 RAM, and 4TB in SSD storage, all for just $2,899.99.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/hp-has-slashed-an-astonishing-usd2-600-off-this-rtx-5080-gaming-pc-nearly-50-percent-off-get-an-epic-omen-35l-rig-with-a-9900x3d-64gb-ddr5-and-4tb-of-ssd-storage-for-just-usd2-899-99",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.837237"
-  },
-  {
-    "title": "Frore shows off LiquidJet Nexus coldplate for Nvidia Vera Rubin, other AI accelerators offers up claimed 10% token generation boost over rival liquid-cooling solutions",
-    "summary": "Frore s LiquidJet Nexus promises to enable 10% more token generation on Blackwell Ultra when compared to existing liquid-cooling solutions.",
-    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/frore-shows-off-liquidjet-nexus-coldplate-for-nvidia-vera-rubin-other-ai-accelerators-offers-up-claimed-10-percent-token-generation-boost-over-rival-liquid-cooling-solutions",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.837392"
-  },
-  {
-    "title": "Microsoft CEO says new AI data centers use as little water annually as a restaurant closed-loop cooling system aims to slash consumption from millions of gallons as AI infrastructure faces mounting environmental scrutiny",
-    "summary": "Microsoft CEO claims the company's new AI data centers use only as much water as a single restaurant annually, thanks to a closed-loop cooling system designed to dramatically reduce consumption.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/microsoft-ceo-says-new-ai-data-centers-use-as-little-water-annually-as-a-restaurant-closed-loop-cooling-system-aims-to-slash-consumption-from-millions-of-gallons-as-ai-infrastructure-faces-mounting-environmental-scrutiny",
+    "title": "Tom's Hardware Unfiltered: Computex 2026, Day 4 the B2B shift, and we say farewell to Taipei",
+    "summary": "In the final entry in our series of daily Computex blogs, our team ruminates on their thoughts from the show itself.",
+    "link": "https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-4-the-b2b-shift-and-we-say-farewell-to-taipei",
     "categories": [
       "AI & ML",
-      "Semiconductors"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.837518"
+    "processed_date": "2026-06-05T11:48:31.586521"
   },
   {
-    "title": "Surface Laptop Ultra targets 110W TDP for RTX Spark Superchip Microsoft reveals power budget of its high-end 15\" system in hands-on session",
-    "summary": "The RTX Spark Superchip still holds many mysteries, but we now have a better idea of its TDP. Microsoft revealed to Tom's Hardware that the Surface Laptop Ultra with this SoC inside will target a 110W TDP, suggesting a thermal and power ballpark for other, similarly-sized systems.",
-    "link": "https://www.tomshardware.com/laptops/surface-laptop-ultra-targets-110w-tdp-for-rtx-spark-superchip-microsoft-reveals-power-budget-of-its-high-end-15-system-in-hands-on-session",
+    "title": "Jensen Huang says 'every edge device will become autonomous' Nvidia maps one computing pattern from the cloud to robotics",
+    "summary": "\"There's a new computing pattern,\" the Nvidia CEO told reporters at a press gaggle the day after his GTC Taipei keynote.",
+    "link": "https://www.tomshardware.com/tech-industry/jensen-huang-says-every-edge-device-will-become-autonomous",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.586672"
+  },
+  {
+    "title": "Meta putting up tents across the US to house AI servers, like a scene out of the movie Mad Max structures take three months to build and use jet engines for power",
+    "summary": "Meta is reportedly building more tents that house expensive data centers across the U.S., as it reportedly cuts construction time from two to three years to just a few months. It's also bringing its own power instead of relying on electricity from the grid.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-putting-up-tents-across-the-us-to-house-ai-servers-like-a-scene-out-of-the-movie-mad-max-structures-take-three-months-to-build-and-use-jet-engines-for-power",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.586796"
+  },
+  {
+    "title": "Outlook may have allowed unencrypted connections for decades, report claims Fedora and Dovecot upgrade reveal protocol downgrade issue present since at least 2007",
+    "summary": "Ssh, don't tell the customer anything.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/outlook-may-have-allowed-unencrypted-connections-for-decades-report-claims-fedora-and-dovecot-upgrade-reveal-protocol-downgrade-issue-present-since-at-least-2007",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.586897"
+  },
+  {
+    "title": "Lightning strike enters apartment through coaxial internet cable, blows up gamer's PC surge causes extensive damage to motherboard, destroys router, and leaves burn marks on the wall",
+    "summary": "While direct lightning strikes are difficult to defend against, proper grounding and protection for coaxial and network lines can help reduce the risk of costly hardware damage.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/lightning-strike-enters-apartment-through-coaxial-internet-cable-blows-up-gamers-pc-surge-causes-extensive-damage-to-motherboard-destroys-router-and-leaves-burn-marks-on-the-wall",
     "categories": [
       "Hardware",
-      "GPUs"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.837642"
+    "processed_date": "2026-06-05T11:48:31.587014"
   },
   {
-    "title": "Tom's Hardware Unfiltered: Computex 2026, Day 3 the heat bites as our team races across Taipei",
-    "summary": "Our team in Taipei feels the heat in another extremely busy day covering Computex 2026, which is busier than ever before.",
-    "link": "https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-3-the-heat-bites-as-our-team-races-across-taipei",
+    "title": "Indiana mayor secretly recorded saying AI data center protestors only live in 'sh***y' houses office issues statement of clarification over controversial comments",
+    "summary": "Shelbyville mayor Scott Ferguson (R) made these remarks likelly without knowing that he was being recorded, and it has ignited a political firestorm in the small town.",
+    "link": "https://www.tomshardware.com/tech-industry/indiana-mayor-secretly-recorded-saying-ai-data-center-protestors-have-sh-y-unkempt-houses-office-issues-statement-of-clarification-over-controversial-comments",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.837743"
+    "processed_date": "2026-06-05T11:48:31.587121"
   },
   {
-    "title": "Aviation enthusiast uses Raspberry Pi and ABS-B radio to create viral real-time airport tracker open-source 'Skylight' intercepts aircraft signals and projects flight paths onto your ceiling",
-    "summary": "Software engineer Cameron Paczek has developed Skylight, a project that receives ADS-B signals from an RTL-SDR radio antenna and shows the airplanes flying above you on a projector aimed at your ceiling.",
-    "link": "https://www.tomshardware.com/raspberry-pi/aviation-enthusiast-uses-raspberry-pi-and-abs-b-radio-to-create-viral-real-time-airport-tracker-open-source-skylight-intercepts-aircraft-signals-and-projects-flight-paths-onto-your-ceiling",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.837856"
-  },
-  {
-    "title": "TeamGroup shows off external SSD with wireless self-destruct function T-Create Expert P35SG External SSD can be wiped with a single text message",
-    "summary": "TeamGroup released a plethora of new SSDs and RAM kits at Computex 2026, offering a mixture of design, performance, and security.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/teamgroup-shows-off-external-ssd-with-wireless-self-destruct-function-t-create-expert-p35sg-external-ssd-can-be-wiped-with-a-single-text-message",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-04T11:38:25.837960"
-  },
-  {
-    "title": "MSI Claw 8 EX AI+ brings Intel Arc G3 Extreme to handhelds 8-inch, 120 Hz display and new ergonomic grips",
-    "summary": "The MSI Claw 8 EX AI+ brought comfort and performance to Computex with massive prongs and Intel Arc G3 Extreme.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/msi-claw-8-ex-ai-brings-intel-arc-g3-extreme-to-handhelds-8-inch-120-hz-display-and-new-ergonomic-grips",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-04T11:38:25.838059"
-  },
-  {
-    "title": "Save $1,280 on this 4K-ready Alienware Aurora desktop PC with RTX 5080 high-performance gaming at your fingertips for $2,919",
-    "summary": "Save $1,280 off this Dell Alienware Aurora gaming PC with an RTX 5080 graphics card inside.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd1-280-on-this-4k-ready-alienware-aurora-desktop-pc-with-rtx-5080-high-performance-gaming-at-your-fingertips-for-usd2-919",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-04T11:38:25.838158"
-  },
-  {
-    "title": "Lian Li's Edge Platinum V2 PSUs have an LED dust indicator, magnetic filter, and a snap-on fan and USB header hub Edge line's trademark 90-degree power connector also returns",
-    "summary": "Lian Li's Edge V2 PSUs add a dust-detecting LED indicator, a removable filter, and a snap-on hub for fans and USB devices. They should arrive in September, at up to 1350 watts.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/lian-lis-edge-platinum-v2-psus-have-an-led-dust-indicator-magnetic-filter-and-a-snap-on-fan-and-usb-header-hub-edge-lines-trademark-90-degree-power-connector-also-returns",
+    "title": "Take your OpenClaw box back to the future with retro Mac Mini, Mac Studio docks Wokyis tempts Nintendo and Apple lawyers, while adding a screen, ports, and style to your modern Mac",
+    "summary": "Wokyis is already selling its M5 dock that turns your Mac Mini into a mini Macintosh. But it plans to add G7 NES-themed docks, as well, with up to 80Gbps of throughput and larger 7-inch screens.",
+    "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/take-your-openclaw-box-back-to-the-future-with-retro-mac-mini-mac-studio-docks-wokyis-tempts-nintendo-and-apple-lawyers-while-adding-a-screen-ports-and-style-to-your-modern-mini-mac",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.838282"
+    "processed_date": "2026-06-05T11:48:31.587228"
   },
   {
-    "title": "ASRock shows off a slew of new AIOs, Power Supplies, and 10th Anniversary hardware a monster 3KW Taichi power supply for AI and hybrid Taichi Aqua AIO/custom loop stand out in the crowd",
-    "summary": "Tom's Hardware stopped by the ASRock booth, and was greeted by a wide variety of products at this year's Computex.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/asrock-shows-off-a-slew-of-new-aios-power-supplies-and-10th-anniversary-hardware-a-monster-3kw-taichi-power-supply-for-ai-and-hybrid-taichi-aqua-aio-custom-loop-stand-out-in-the-crowd",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.838395"
-  },
-  {
-    "title": "Samsung shows first HBM5 mockup with Heat Path Block cooling thermal race with SK hynix shaping up",
-    "summary": "Samsung displayed its first physical mockup of HBM5 memory at Computex 2026 in Taipei, pairing the eighth-generation AI memory with a new in-package cooling structure.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.838495"
-  },
-  {
-    "title": "Computex 2026 Day Two Wrap-Up: Intel atones for Arrow Lake, Wi-Fi 8 comes into focus",
-    "summary": "Computex 2026 is in full swing in Taipei",
-    "link": "https://www.tomshardware.com/pc-components/cpus/computex-2026-day-two-wrap-up-intel-atones-for-arrow-lake-wi-fi-8-comes-into-focus",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-04T11:38:25.838584"
-  },
-  {
-    "title": "Corsair launches lightweight budget-friendly HS35 v3 gaming headsets wired version weighs a cool 230 grams",
-    "summary": "Corsair launched its HS35 v3 lightweight gaming headsets wired and wireless at Computex 2026.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-headsets/corsair-launches-lightweight-budget-friendly-hs35-v3-gaming-headsets",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.838686"
-  },
-  {
-    "title": "Noctua shows off improved thermosiphon prototype passively circulated liquid cooler gets Q3 2027 projected launch date",
-    "summary": "Noctua showed off a refined version of its passively circulated thermosiphon liquid cooler at Computex 2026 with an improved evaporator design. The company is confident enough in its progress with this product to set a Q3 2027 launch window.",
-    "link": "https://www.tomshardware.com/pc-components/heatsinks/noctua-shows-off-improved-thermosiphon-prototype-passively-circulated-liquid-cooler-gets-q3-2027-projected-launch-date",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.838792"
-  },
-  {
-    "title": "Samsung rolls out 2026 Odyssey gaming monitors, including 5K and 6K models 27 to 32 inches with up to 330 Hz refresh rate",
-    "summary": "The Odyssey G8 (G80HS) features a 32-inch 6K IPS panel",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-rolls-out-2026-odyssey-gaming-monitors-including-5k-and-6k-models-27-to-32-inches-with-up-to-330-hz-refresh-rate",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-04T11:38:25.838887"
-  },
-  {
-    "title": "AMD executives react to Nvidia s RTX Spark you re just wrong if you don t get a Strix Halo notebook ",
-    "summary": "AMD welcomes Nvidia into the market with RTX Spark, saying that its Strix Halo and upcoming Gorgon Halo products will be superior.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-executives-react-to-nvidias-rtx-spark-youre-just-wrong-if-you-dont-get-a-strix-halo-notebook",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.838985"
-  },
-  {
-    "title": "NZXT showcases H6 mid-tower chassis, new Ultra RGB fans, and a white H2 offering boundless RGB customization options take this case to a whole new level",
-    "summary": "Tom's Hardware stopped by NZXT at Computex 2026 to get a look at their latest offerings.",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/nzxt-showcases-h6-mid-tower-chassis-new-ultra-rgb-fans-and-a-white-h2-offering-boundless-rgb-customization-options-take-this-case-to-a-whole-new-level",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.839128"
-  },
-  {
-    "title": "Convert old IR remote controls into presentation clickers using an RP2040 USB board and open-source TTVKTR firmware",
-    "summary": "Brisk4t s Tossed The TV Kept The Remote (TTVKTR) is an open-source firmware project for Raspberry Pi RP2040 USB boards that aims to reduce electronics waste by converting old IR remote controls into presentation clickers. Most Raspberry Pi RP2040 boards with USB ports should work, but the project highlights the Waveshare RP2040-Zero combined with a standard 38 kHz infrared receiver due to its small size and low price ($4-5). The project also relies on the built-in RGB LED for layer color feedback. That s about it for the hardware. It just required some basic soldering of the IR receiver to GPIO 28 (OUT), 5V or 3.3V, and GND pins. Nothing too hard. The WS2812 RGB LED is already connected to GPIO 16. I tried to look for RP2040 USB boards with a built-in IR receiver, but I could not find any. The firmware receives IR codes from a standard 38 [...] The post Convert old IR remote controls into presentation clickers using an RP2040 USB board and open-source TTVKTR firmware appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/04/convert-old-ir-remote-controls-into-presentation-clickers-using-an-rp2040-usb-board-and-open-source-ttvktr-firmware/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.839652"
-  },
-  {
-    "title": "Forlinx launches Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP",
-    "summary": "We noticed the Rockchip RK3572 mid-range HMI SoC a couple of months ago, and Forlinx has launched the first system-on-module (FET3572-C SoM) based on the processor, along with a development board (OK3572-C) and BSP (Board Support Package) with a fairly recent Linux 6.12 kernel. The octa-core Cortex-A73/A53 processor features a 4 TOPS NPU (the same as in the RK3588) and targets HMI applications leveraging Edge AI for consumer electronics, industrial control, edge computing, smart security, and in-vehicle terminals. Forlinx FET3572-C Rockchip RK3572 system-on-module Specifications: SoC Rockchip RK3572 or RK3572J Octa-core CPU 2x Arm Cortex-A73 @ up to 2.2 GHz+ 2x Arm Cortex-A53 @ up to 2.1 GHz + 4x Arm Cortex-A53 @ up to 2.1 GHz GPU Arm Mali-G310V2 MC1 with support for OpenGL ES 1.1/2.0/3.2, OpenCL 3.0, and Vulkan 1.4 VPU Hardware Encoding -H.264, H265, 4K @ 60fps Hardware Decoding H.264, H.265, VP9, AV1, AVS2, [...] The post Forlinx launches Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/04/forlinx-launches-rockchip-rk3572-system-on-module-som-and-development-board-with-linux-6-12-bsp/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-06-04T11:38:25.839821"
-  },
-  {
-    "title": "Avalue EPC-WCL fanless Edge AI mini PC features Intel Core Series 3 Wildcat Lake processor",
-    "summary": "Avalue Technology EPC-WCL is an Intel Core Series 3 Wildcat Lake-powered fanless Edge AI mini PC with up to 40 TOPS of AI performance to handle tasks like real-time inference, vision processing, and speech recognition locally. It ships with up to 48GB DDR5-6400 memory via a single SO-DIMM slot and offers M.2 expansion for NVMe storage, Wi-Fi 7, and 4G LTE/5G cellular modules. Display outputs include HDMI, DisplayPort, and USB Type-C with DP Alt Mode, supporting up to three displays. The USB Type-C port also supports 45W Power Delivery, enabling power, data, and video over a single cable. Avalue EPC-WCL specifications: SoC Intel Core Series 3 Wildcat Lake processors with five or six cores, Intel Xe3 Graphics, and up to 40 TOPS of combined AI performance. TDP: 15W Memory Up to 48GB DDR5 6400MHz via 262-pin SO-DIMM socket Storage M.2 Key-M 2280 slot for NVMe SSD Display HDMI 2.0b [...] The post Avalue EPC-WCL fanless Edge AI mini PC features Intel Core Series 3 Wildcat Lake processor appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/04/avalue-epc-wcl-fanless-edge-ai-mini-pc-features-intel-core-series-3-wildcat-lake-processor/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-04T11:38:25.839989"
-  },
-  {
-    "title": "ModRetro M64 An AMD Artix UltraScale+ FPGA based open-source Nintendo 64-compatible console with original cartridge support",
-    "summary": "ModRetro has announced the M64, an open-source Nintendo 64-compatible console powered by an AMD Artix UltraScale+ FPGA, designed to play original cartridges using hardware-level emulation instead of software. The M64 s reliance on an AMD Artix FPGA enables accurate and responsive gameplay, and the console supports original game cartridges and controllers, while also adding modern connectivity features such as HDMI, WiFi, Bluetooth, and USB-C. ModRetro M64 specifications: FPGA AMD Artix UltraScale+ (16nm architecture) Memory PSRAM Storage MicroSD card slot (for firmware updates and potential homebrew applications) Media Interfaces Dedicated Nintendo 64 physical cartridge slot for original retro media preservation and play. Display HDMI port (upscaling for modern TVs, supporting custom video filters like Scan Line and CRT profiles) Audio Digital audio output via HDMI Connectivity Bluetooth with advanced SCI wireless mode (ModRetro s own low-latency protocol) Wi-Fi support for firmware upgrade USB 3x USB-C ports [...] The post ModRetro M64 An AMD Artix UltraScale+ FPGA based open-source Nintendo 64-compatible console with original cartridge support appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/03/modretro-m64-an-amd-artix-ultrascale-fpga-based-open-source-nintendo-64-console-with-original-cartridge-support/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-06-04T11:38:25.840175"
-  },
-  {
-    "title": "AMD CPUs hit another Steam survey record as Intel gap shrinks to all-time low",
-    "summary": "Thanks to a 0.79% increase last month, almost 45% of Steam survey participants now use AMD processors. With Intel's share falling by the same amount, the gap between to the two rivals is just under 10%. Read Entire Article",
-    "link": "https://www.techspot.com/news/112655-amd-cpus-hit-another-steam-survey-record-intel.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.841425"
-  },
-  {
-    "title": "Your DisplayPort 2.1 Monitor Might Not Be Running DisplayPort 2.1",
-    "summary": "Your DisplayPort 2.1 monitor and graphics card may support UHBR20, but that doesn't mean you're getting it. Here's how a seemingly harmless cable choice can change everything. Read Entire Article",
-    "link": "https://www.techspot.com/article/3118-displayport-21/",
+    "title": "AMD's Frank Azor pushes back against claim that FSR 4.1 won't be ported to RDNA 3.5 GPUs says 'no such decision' has been made",
+    "summary": "AMD's Frank Azor hits back against allegations suggesting AMD will skip RDNA 3.5 integration with FSR 4.1.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/amds-frank-azor-pushes-back-against-claim-that-fsr-4-1-wont-be-ported-to-rdna-3-5-gpus-says-no-such-decision-has-been-made",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.841539"
+    "processed_date": "2026-06-05T11:48:31.587327"
   },
   {
-    "title": "Microsoft built a wearable AI badge with a camera and fingerprint sensor",
-    "summary": "At its annual developer conference, the company introduced two early-stage hardware concepts designed to make AI agents easier to access throughout the workday. Instead of pulling up a laptop or opening an app, the idea is to let users interact with AI more fluidly using devices that sit on a... Read Entire Article",
-    "link": "https://www.techspot.com/news/112637-microsoft-built-wearable-ai-badge-camera-fingerprint-sensor.html",
+    "title": "8GB of RAM is back on laptops companies are lowering memory offerings to make affordable notebooks during component crisis",
+    "summary": "At Computex, Dell and Acer both introduced systems starting with 8GB of RAM to compete with the MacBook Neo, following a rush to 16GB systems in the last two years to bolster local AI.",
+    "link": "https://www.tomshardware.com/laptops/8gb-of-ram-is-back-on-laptops-companies-are-lowering-memory-offerings-to-make-affordable-notebooks-during-component-crisis",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.841656"
+    "processed_date": "2026-06-05T11:48:31.587432"
   },
   {
-    "title": "FanControl is a powerful Windows utility for advanced cooling management",
-    "summary": "FanControl lets you create detailed fan curves, monitor temperatures, and fine-tune cooling behavior across a wide range of supported PC hardware. The latest release issues various fixes and limits the app to a single service client connection for improved stability. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7419-fancontrol.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.841771"
-  },
-  {
-    "title": "Tomb Raider: Legacy of Atlantis devs confirm AI use, but promise final game will be fully human-crafted",
-    "summary": "During its latest State of Play showcase for upcoming PlayStation games, Sony shared a new trailer for Tomb Raider: Legacy of Atlantis. The second remake of Tomb Raider will bring back Lara Croft's classic attire on modern platforms, alongside reimagined puzzles and visually upgraded locations. Read Entire Article",
-    "link": "https://www.techspot.com/news/112643-tomb-raider-legacy-atlantis-devs-confirm-ai-use.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.841891"
-  },
-  {
-    "title": "Microsoft unveils Majorana 2, a lead-based quantum chip designed with AI",
-    "summary": "This week, the company introduced Majorana 2, a redesigned quantum chip that reflects a shift in both its engineering approach and underlying physics. Instead of the superconducting aluminum-based designs used by most rivals, Microsoft has built its latest system around lead. That choice forced the company to overcome manufacturing challenges... Read Entire Article",
-    "link": "https://www.techspot.com/news/112639-microsoft-unveils-majorana-2-lead-based-quantum-chip.html",
+    "title": "TSMC CEO C.C. Wei says, It will be a long time before we can meet customer demand tells shareholders that he will keep prices stable, refrain from implementing price hikes",
+    "summary": "TSMC says it does not have enough capacity to handle all the demand from AI hyperscalers, with CEO C.C. Wei saying that it will take a long time before it can match customer demand. This is an opportunity for Intel, though, as companies desperate to get their hands on advanced chips might be willing to use Intel 18A or 14A nodes for their needs instead.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.842007"
+    "processed_date": "2026-06-05T11:48:31.587554"
   },
   {
-    "title": "Microsoft took OpenClaw, wrapped it in enterprise security, and called it Scout",
-    "summary": "A few days after Google introduced its OpenClaw-based AI agent with Spark, Microsoft is now doing the same with Scout. The new AI tool is the first personal agent designed for the Microsoft 365 ecosystem, the Redmond-based company said. Scout is part of a new category of agents called Autopilots... Read Entire Article",
-    "link": "https://www.techspot.com/news/112632-microsoft-took-openclaw-wrapped-enterprise-security-called-scout.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.842121"
-  },
-  {
-    "title": "Phison's next-gen PCIe 6.0 SSD controller hits 28 GB/s, and it's doing it at just 7 watts",
-    "summary": "That balancing act is most visible in its upcoming PCIe 6.0 controller, the X3, which is edging closer to market readiness. The controller uses a PCIe 6.0 x4 interface and supports NVMe 2.3, targeting roughly twice the throughput of today's high-end PCIe 5.0 SSDs. Phison is aiming for sequential speeds... Read Entire Article",
-    "link": "https://www.techspot.com/news/112635-phison-next-gen-pcie-60-ssd-controller-hits.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.842234"
-  },
-  {
-    "title": "Microsoft Surface RTX Spark Dev Box packs 128GB unified memory and Nvidia's new Arm chip for local AI",
-    "summary": "At first glance, the device is understated, with a design that loosely resembles the top of an Xbox Series X. The aluminum casing isn't just aesthetic; it also doubles as a heatsink, helping the system manage a 100-watt thermal envelope. That's slightly above the 45- to 80-watt thermal envelopes typical... Read Entire Article",
-    "link": "https://www.techspot.com/news/112634-microsoft-surface-rtx-spark-dev-box-packs-nvidia.html",
+    "title": "Qualcomm Roundtable Interview transcript SVP of Compute and Gaming talks Snapdragon C, RTX Spark, and the agentic AI future",
+    "summary": "Qualcomm has Snapdragon C to compete in the exciting low-cost laptop market, but it's also looking to build an entire agentic AI ecosystem on Qualcomm silicon.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/qualcomm-roundtable-interview-transcript-svp-of-compute-and-gaming-talks-snapdragon-c-rtx-spark-and-the-agentic-ai-future",
     "categories": [
       "GPUs",
-      "Semiconductors"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.842412"
+    "processed_date": "2026-06-05T11:48:31.587684"
   },
   {
-    "title": "Google is offering Android developers cash in exchange for code to train AI",
-    "summary": "According to a report from 404 Media, Google has emailed some Android app developers with a \"confidential content offer pilot,\" inviting them to share their codebases with the company to help train its AI coding tools. Read Entire Article",
-    "link": "https://www.techspot.com/news/112642-google-offers-android-app-developers-cash-exchange-code.html",
+    "title": "Nintendo Switch 2 with user-replaceable batteries coming to the EU console maker confirms it will comply with regulations set to take effect from 2027",
+    "summary": "The European Union's new directives for easily user-replaceable batteries will force Nintendo to update its Switch 2 console with a revised model. The law goes into effect from February 18, 2027, which means an updated Switch 2 that complies with these new regulations needs to come out before that deadline.",
+    "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-with-user-replaceable-batteries-coming-to-the-eu-console-maker-confirms-it-will-comply-with-regulations-set-to-take-effect-from-2027",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.842522"
+    "processed_date": "2026-06-05T11:48:31.587808"
   },
   {
-    "title": "GitHub just switched Copilot to metered billing, and developers are watching months of credits vanish in a single day",
-    "summary": "Back in April, the company said it would move all Copilot plans to a usage-based system that bills users based on actual AI consumption, measured in tokens, starting June 1. Under the old setup, subscribers worked from a pool of \"requests\" and \"premium requests,\" whether they were asking a quick... Read Entire Article",
-    "link": "https://www.techspot.com/news/112628-github-switched-copilot-metered-billing-developers-watching-months.html",
+    "title": "US tech layoffs record single-highest month in two years, and more than any other sector nearly 40,000 get the axe, AI the most cited reason for layoffs",
+    "summary": "U.S. tech companies announced 38,242 job cuts in May, more than any other sector and the industry's heaviest month of reductions in nearly two years.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-sector-cut-us-jobs-by-38242-in-may",
     "categories": [
-      "AI & ML"
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-05T11:48:31.587933"
+  },
+  {
+    "title": "Hyte shows off Y50 chassis, aesthetic cable accessory kit, new fans, and updates Nexus Software sub $100 Y50 brings value to Y-series, Nexus 3.0 goes web-based, now works on Mac, Linux, Windows, and your phone",
+    "summary": "We stopped by Hyte at Computex 2026.",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/hyte-shows-off-y50-chassis-aesthetic-cable-accessory-kit-new-fans-and-updates-nexus-software-sub-usd100-y50-brings-value-to-y-series-nexus-3-0-goes-web-based-now-works-on-mac-linux-windows-and-your-phone",
+    "categories": [
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.842636"
+    "processed_date": "2026-06-05T11:48:31.588040"
   },
   {
-    "title": "Cherry XTRFY launches the world's first 8K ultra-wideband gaming keyboard",
-    "summary": "The K63W Pro is another keyboard offering an 8,000Hz polling rate in both wired and wireless modes, meaning it reports to the computer up to eight times every millisecond for lower input latency. It's something we saw in this year's Cherry Xtrfy MX 8.2 Pro TMR my current favorite... Read Entire Article",
-    "link": "https://www.techspot.com/news/112640-cherry-xtrfy-launches-world-first-8k-ultra-wideband.html",
+    "title": "Best of Computex 2026: Innovating despite disruptions",
+    "summary": "From affordable premium laptops to next-gen handhelds, and Nvidia bringing its Spark to Windows on Arm, these are the 11 best products introduced at this year s show.",
+    "link": "https://www.tomshardware.com/tech-industry/best-of-computex-2026",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.842749"
+    "processed_date": "2026-06-05T11:48:31.588138"
   },
   {
-    "title": "Fans say StarCraft II's first major patch in nearly 6 years is \"essentially a new game\"",
-    "summary": "StarCraft II version 5.0.15, which recently entered the game's beta channel, contains the most significant balance changes since primary development ceased in late 2020. All three playable races have received notable changes to the costs and abilities of certain units. Read Entire Article",
-    "link": "https://www.techspot.com/news/112633-fans-call-starcraft-ii-first-major-patch-nearly.html",
+    "title": "Thundercomm TurboX C7790 Android and Linux development kit features Qualcomm Dragonwing Q-7790 Edge AI SoC",
+    "summary": "Thundercomm has launched the TurboX C7790 development kit, a compact edge AI platform built around the Qualcomm Dragonwing Q-7790 (CQ7790S) processor. The kit offers up to 24 TOPS of AI performance and support for both Android and Linux operating systems. The development kit pairs a TurboX C7790 system-on-module equipped with 12GB LPDDR5X RAM and 128GB flash with a carrier board featuring a wide range of interfaces from dual GbE to HDMI, USB-C, and MIPI DSI display interfaces. Target applications include AI cameras, video conferencing, robotics, and edge AI gateways. TurboX C7790 Development Kit specifications: System-on-Module TurboX C7790 SoC Qualcomm Dragonwing Q-7790 (CQ7790S) 4nm processor CPU Octa-core Kryo processor up to 2.8 GHz 1x Gold+ core @ 2.8 GHz 4x Gold cores @ 2.4 GHz 3x Silver cores @ 1.8 GHz GPU Qualcomm Adreno 722 GPU up to 1.15 GHz VPU Video Decode 4K120 H.264/H.265/AV1 Video [...] The post Thundercomm TurboX C7790 Android and Linux development kit features Qualcomm Dragonwing Q-7790 Edge AI SoC appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/05/thundercomm-turbox-c7790-android-and-linux-development-kit-features-qualcomm-dragonwing-q-7790-edge-ai-soc/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 25,
+    "processed_date": "2026-06-05T11:48:31.588575"
+  },
+  {
+    "title": "$54 ThinkNode G4 Wi-Fi HaLow gateway extends the range of Ethernet or 2.4 GHz WiFi 4 devices",
+    "summary": "Elecrow s ThinkNode G4 is a Wi-Fi HaLow gateway with Ethernet and 2.4 GHz WiFi that allows you to connect compatible devices or extend the range of existing devices when used with two gateways or in an 802.11s Mesh configuration with multiple gateways. It s based on a (legacy) Mediatek MT7628N MIPS processor paired with a Quectel FGH100M featuring Morse Micro MM6108 Wi-Fi HaLow SoC introduced in 2022 with a data rate of up to 32.5 Mbps and a range of up to one kilometer with line-of-sight. ThinkNode G4 specifications: Core module HLK-7628N Module SoC Mediatek MT7628N MIPS processor @ up to 580 MHz System Memory 128MB DDR2 RAM Storage 32 MB SPI flash Connectivity 2.4 GHz WiFi 4 2 2 MIMO 802.11b/g/n up to 300 Mbps combined WiFi HaLow Module Quectel FGH100M based on Morse Micro MM6108 chipset WiFi protocol IEEE 802.11ah Frequency band 850~950 [...] The post $54 ThinkNode G4 Wi-Fi HaLow gateway extends the range of Ethernet or 2.4 GHz WiFi 4 devices appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/05/54-thinknode-g4-wi-fi-halow-gateway-extends-the-range-of-ethernet-or-2-4-ghz-wifi-4-devices/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-05T11:48:31.588754"
+  },
+  {
+    "title": "Erqos EQSP32CE An industrial IoT ESP32-S3 PLC with Ethernet, RS232, RS485, CAN Bus, DIN Rail support",
+    "summary": "Erqos EQSP32CE is a DIN rail-mountable industrial IoT PLC based on an ESP32-S3 WiFi and Bluetooth SoC and offering Ethernet, RS-485, RS-232, and CAN bus industrial communication interfaces. The IIoT logic controller also features several protected digital (16x) and analog (8x) inputs, eight current inputs, eight special mode analog inputs, and sixteen digital outputs with PWM support. A USB-C port is used for firmware flashing and monitoring, and the PLC takes a wide 7V 26V DC input voltage and outputs 5V/1A for I/O expansion modules. Erqos EQSP32CE specifications: SoC Espressif ESP32-S3 dual-core LX7 processor @ 240 MHz with 8MB Flash, 512kB RAM, wireless connectivity (so probably ESP32-S3FN8) Communication interfaces 10/100 Mbps Ethernet RJ45 port Wi-Fi + Bluetooth Low Energy (on ESP32-S3) with internal antenna RS232 (protected) and RS485 half-duplex (protected) with support for Modbus RTU, DMX512, and custom serial protocols CAN Bus (protected) USB 1x USB-C power for [...] The post Erqos EQSP32CE An industrial IoT ESP32-S3 PLC with Ethernet, RS232, RS485, CAN Bus, DIN Rail support appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/05/erqos-eqsp32ce-an-industrial-iot-esp32-s3-plc-with-ethernet-rs232-rs485-can-bus-din-rail-support/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-05T11:48:31.588928"
+  },
+  {
+    "title": "EKOS An ESP32-S3 ePaper dashboard housed in an oak-aluminum enclosure (Crowdfunding)",
+    "summary": "Designed by StillFixing in Normandy (France), the EKOS is a local-first, low-power ePaper dashboard built around an ESP32-S3 SoC. It operates without any cloud dependency, subscriptions, or external accounts, offering full privacy, faster response times, and direct local control. The device comes in two variants: the EKOS Pure is a minimalist, non-touch version with two physical buttons for basic control, and the EKOS Sense adds a capacitive touch layer for smart home control, such as toggling devices, triggering scenes, or managing tasks. Both models feature a repair-friendly design with no adhesives, using four screws for assembly and a user-replaceable lithium-polymer battery. Additionally, the dashboard can be updated entirely over your home network without needing the internet. You can push data to the screen using a local API from a phone or PC, link it straight to Home Assistant, or use it to control other ESPHome devices around your house. EKOS [...] The post EKOS An ESP32-S3 ePaper dashboard housed in an oak-aluminum enclosure (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/05/ekos-esp32-s3-epaper-dashboard-housed-in-an-oak-aluminum-enclosure/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.589096"
+  },
+  {
+    "title": "NVIDIA Jetson gets fanless solid-state cooling module",
+    "summary": "YPlasma has showcased its ultrathin solid-state cooling module based on dielectric barrier discharge (DBD) plasma actuators on NVIDIA Jetson Orin Nano at Computex 2026. Ultrathin solid-state cooling solutions replacing thicker and noisier mechanical fans have been demonstrated on consumer hardware in the past, with solutions such as xMEMS Cooling fan-on-a-chip for SSDs and Frore Systems Airjet Mini and Airjet Pro used in laptops and mini PCs. Both solutions generate tiny vibrations to create an airflow, but YPlasma s DBD plasma cooling module generates ionic wind to cool the device. This forces convection without moving parts, audible noise, vibration, or dust ingestion paths. We ll explain more about the technology below. The company validated the following on the NVIDIA Jetson Orin Nano: Thermal range 7 W to 25 W, the full operating range of the Jetson Orin Nano family, including Super Mode (25W), with a steady state reached in 10 minutes. Form [...] The post NVIDIA Jetson gets fanless solid-state cooling module appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/04/nvidia-jetson-gets-fanless-solid-state-cooling-module/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.589261"
+  },
+  {
+    "title": "The RAM crisis is resurrecting DDR4 memory and motherboard production as hardware cycle reverses",
+    "summary": "Several manufacturers at Computex 2026 informed Tom's Hardware that they are preparing to increase production of DDR4 memory and older motherboards that support it. Demand has increased significantly since DRAM and NAND shortages have made DDR5 RAM prohibitively expensive. Read Entire Article",
+    "link": "https://www.techspot.com/news/112661-ram-crisis-resurrecting-ddr4-memory-motherboard-production-hardware.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.590433"
+  },
+  {
+    "title": "Nvidia RTX 5000 Super series tipped for 2026 launch despite memory crisis",
+    "summary": "The prediction comes from MEGAsizeGPU, who has a good track record when it comes to Nvidia rumors. Read Entire Article",
+    "link": "https://www.techspot.com/news/112665-rtx-5000-super-series-tipped-2026-launch-despite.html",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-05T11:48:31.590613"
+  },
+  {
+    "title": "ESA report finds 212 million Americans now play video games weekly",
+    "summary": "The Entertainment Software Association's latest annual study confirms that video games have long shed their \"nerdy\" reputation. Released in partnership with market research firm YouGov, the 2026 Essential Facts About the US Video Game Industry report draws on survey data from more than 13,500 respondents to paint a detailed portrait... Read Entire Article",
+    "link": "https://www.techspot.com/news/112660-esa-report-finds-212-million-americans-now-play.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-05T11:48:31.590804"
+  },
+  {
+    "title": "Spammers are flooding Reddit with fake posts designed to show up in AI search results",
+    "summary": "According to the moderators, companies that sell peptides and hormone replacement therapy (HRT) have been posting strategically in the forum to shape content that AI models later incorporate into their answers. The tactic hinges on Reddit's growing role as a source for AI tools. Read Entire Article",
+    "link": "https://www.techspot.com/news/112654-spammers-flooding-reddit-fake-posts-designed-show-up.html",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-04T11:38:25.842860"
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.590974"
   },
   {
-    "title": "The world's largest private laser just fired up in race to make fusion power real",
-    "summary": "Housed inside Xcimer's 74,000-square-foot laser facility, Phoenix uses a krypton fluoride excimer laser, a gas-laser design related to technology used in semiconductor manufacturing, albeit at a much larger scale. Read Entire Article",
-    "link": "https://www.techspot.com/news/112641-world-largest-private-laser-fired-up-race-make.html",
+    "title": "What is the most commonly used password?",
+    "summary": "It takes less than a second to crack the world's most popular password. Do you know what it is? Read Entire Article",
+    "link": "https://www.techspot.com/trivia/6-most-common-password/",
     "categories": [
-      "Semiconductors"
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-05T11:48:31.591114"
+  },
+  {
+    "title": "SpaceX IPO could be the largest in history at a $1.76 trillion valuation",
+    "summary": "In a regulatory filing on Wednesday, SpaceX said it will offer 555.6 million shares at $135 each, valuing the company at $1.76 trillion. If the IPO is successful, SpaceX would raise $75 billion, potentially shattering the current fundraising record held by Saudi Aramco the Saudi Arabian state-owned oil company... Read Entire Article",
+    "link": "https://www.techspot.com/news/112658-spacex-ipo-could-largest-history-176-trillion-valuation.html",
+    "categories": [
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-04T11:38:25.842965"
+    "processed_date": "2026-06-05T11:48:31.591286"
+  },
+  {
+    "title": "Android can now detect when scammers are faking calls from your contacts",
+    "summary": "Google recently introduced a new feature designed to improve Android safety against scammers. The \"industry-first\" Fake Call Detection feature is compatible with most Android phones and works in the background to identify potential fake calls from criminals attempting to impersonate friends or close relatives. Read Entire Article",
+    "link": "https://www.techspot.com/news/112644-android-can-now-detect-when-scammers-faking-calls.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.591452"
+  },
+  {
+    "title": "Bots have officially overtaken humans on the internet",
+    "summary": "Prince said that while he had predicted bot traffic would surpass humans, he believed it would happen toward the end of 2027. Cloudflare Radar shows bots currently make up around 56% of all traffic, though that figure has been as high as 62% over the last week. The CEO said... Read Entire Article",
+    "link": "https://www.techspot.com/news/112657-bots-have-officially-overtaken-humans-internet-cloudflare.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.591637"
+  },
+  {
+    "title": "PC shipments could drop 20% by year's end as AI datacenters consume 70% of high-end DRAM",
+    "summary": "The main issue is supply, especially a shortage of high-end DRAM, much of which is now being diverted to AI data centers. Read Entire Article",
+    "link": "https://www.techspot.com/news/112652-pc-shipments-could-drop-20-year-end-ai.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.591792"
+  },
+  {
+    "title": "After 33 years, EA's College Football game is coming to PC for the first time",
+    "summary": "Sources have told Insider Gaming that EA will confirm PC support for EA Sports College Football when it formally unveils the game on Thursday evening. However, a recent press release from the company appears to have already revealed details that all but confirm the existence of a PC version. Read Entire Article",
+    "link": "https://www.techspot.com/news/112649-after-33-years-ea-college-football-game-coming.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.591967"
+  },
+  {
+    "title": "71% of Americans now oppose data centers near their homes, up from 42% just nine months ago",
+    "summary": "A survey by Heatmap Pro found that 71% of Americans would oppose a data center being built near where they live, with 55% \"strongly\" opposing such a project. Read Entire Article",
+    "link": "https://www.techspot.com/news/112651-ai-data-center-backlash-grows-rapidly-americans-blame.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.592118"
+  },
+  {
+    "title": "Microsoft Office 2019 for Mac will no longer edit documents after July 13",
+    "summary": "Microsoft recently warned Office users on Apple devices that older versions of the company's productivity apps running on outdated operating systems will lose the ability to edit files next month. Mobile users and Microsoft 365 subscribers can resolve the issue by simply updating their OS and Office, but users with... Read Entire Article",
+    "link": "https://www.techspot.com/news/112648-microsoft-office-2019-mac-no-longer-edit-documents.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.592282"
+  },
+  {
+    "title": "Intel denies Arc desktop GPUs are going away",
+    "summary": "During a Q&A at Computex, Intel Client Computing Group general manager Alex Katouzian was asked by Tweakers about the future of Arc desktop graphics cards. He said that GPUs remain a \"super important\" part of Team Blue's PC lineup. Read Entire Article",
+    "link": "https://www.techspot.com/news/112653-intel-denies-arc-desktop-gpus-going-away-but.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.592442"
+  },
+  {
+    "title": "A truck-mounted nuclear reactor that runs for decades without refueling is being tested in China",
+    "summary": "The project is led by Wu Yican at the Institute of Nuclear Energy Safety Technology, who has described the system as a first-of-its-kind mobile nuclear unit. \"Our team has built the world's first 10-megawatt vehicle-mounted nuclear power bank engineering integrated simulation test prototype,\" Wu told Science and Technology Daily. \"The... Read Entire Article",
+    "link": "https://www.techspot.com/news/112646-truck-mounted-nuclear-reactor-runs-decades-without-refueling.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-05T11:48:31.592640"
   }
 ]

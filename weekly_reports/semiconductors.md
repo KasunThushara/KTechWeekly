@@ -1,85 +1,55 @@
 # ⚡ Semiconductors
-**Week of June 04, 2026**
+**Week of June 05, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-06-04 11:40
+- **Articles this week:** 4
+- **Report generated:** 2026-06-05 11:49
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Forlinx launches Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP ⭐
+### 1. Thundercomm TurboX C7790 Android and Linux development kit features Qualcomm Dragonwing Q-7790 Edge AI SoC ⭐
 
-Forlinx has launched a Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP, targeting HMI applications that leverage Edge AI. The SoC features an octa-core Cortex-A73/A53 processor, 4 TOPS NPU, and Arm Mali-G310V2 GPU. This launch aims to support consumer electronics, industrial control, and edge computing applications.
+Thundercomm launched the TurboX C7790 development kit, a compact edge AI platform based on the Qualcomm Dragonwing Q-7790 SoC, offering up to 24 TOPS of AI performance and supporting both Android and Linux operating systems.
 
-💡 *Bringing Edge AI capabilities to mid-range HMI applications*
+💡 *Enables efficient AI processing at the edge of networks*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/04/forlinx-launches-rockchip-rk3572-system-on-module-som-and-development-board-with-linux-6-12-bsp/)
-
----
-
-### 2. ModRetro M64 An AMD Artix UltraScale+ FPGA based open-source Nintendo 64-compatible console with original cartridge support ⭐
-
-The ModRetro M64 is an open-source Nintendo 64-compatible console powered by an AMD Artix UltraScale+ FPGA, supporting original cartridges and modern connectivity features.
-
-💡 *Advances retro gaming with accurate, responsive, and scalable hardware-level emulation technology.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/03/modretro-m64-an-amd-artix-ultrascale-fpga-based-open-source-nintendo-64-console-with-original-cartridge-support/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/05/thundercomm-turbox-c7790-android-and-linux-development-kit-features-qualcomm-dragonwing-q-7790-edge-ai-soc/)
 
 ---
 
-### 3. TeamGroup shows off external SSD with wireless self-destruct function T-Create Expert P35SG External SSD can be wiped with a single text message ⭐
+### 2. $54 ThinkNode G4 Wi-Fi HaLow gateway extends the range of Ethernet or 2.4 GHz WiFi 4 devices 
 
-TeamGroup released a T-Create Expert P35SG External SSD with a unique feature: it can be wiped with a single text message, demonstrating a focus on security.
+The ThinkNode G4 Wi-Fi HaLow gateway extends Ethernet or 2.4 GHz WiFi 4 device ranges using a Mediatek MT7628N processor and Morse Micro MM6108 Wi-Fi HaLow SoC.
 
-💡 *Security through remote data destruction offers peace of mind.*
+💡 *Long-range connectivity solution for IoT devices with low power consumption.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/teamgroup-shows-off-external-ssd-with-wireless-self-destruct-function-t-create-expert-p35sg-external-ssd-can-be-wiped-with-a-single-text-message)
-
----
-
-### 4. Microsoft CEO says new AI data centers use as little water annually as a restaurant closed-loop cooling system aims to slash consumption from millions of gallons as AI infrastructure faces mounting environmental scrutiny 
-
-Microsoft's new AI data centers use as little water as a restaurant annually, thanks to a closed-loop cooling system, aiming to reduce consumption significantly.
-
-💡 *Reducing AI infrastructure water consumption has significant environmental implications.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/microsoft-ceo-says-new-ai-data-centers-use-as-little-water-annually-as-a-restaurant-closed-loop-cooling-system-aims-to-slash-consumption-from-millions-of-gallons-as-ai-infrastructure-faces-mounting-environmental-scrutiny)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/05/54-thinknode-g4-wi-fi-halow-gateway-extends-the-range-of-ethernet-or-2-4-ghz-wifi-4-devices/)
 
 ---
 
-### 5. Microsoft unveils Majorana 2, a lead-based quantum chip designed with AI 
+### 3. Erqos EQSP32CE An industrial IoT ESP32-S3 PLC with Ethernet, RS232, RS485, CAN Bus, DIN Rail support 
 
-Microsoft introduces Majorana 2, a lead-based quantum chip utilizing AI in design.
+The Erqos EQSP32CE is a compact industrial IoT PLC offering extensive connectivity options and interfaces for versatile automation applications.
 
-💡 *Microsoft's lead-based design may offer a more robust quantum computing solution.*
+💡 *Industrial automation gets a compact, connected, and versatile PLC solution.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112639-microsoft-unveils-majorana-2-lead-based-quantum-chip.html)
-
----
-
-### 6. Microsoft Surface RTX Spark Dev Box packs 128GB unified memory and Nvidia's new Arm chip for local AI 
-
-Microsoft's Surface RTX Spark Dev Box features a 100-watt thermal envelope and 128GB unified memory, powered by Nvidia's new Arm chip. The device's design resembles an Xbox Series X and includes an aluminum casing that acts as a heatsink. This powerful system is ideal for local AI development.
-
-💡 *Nvidia's Arm chip boosts local AI capabilities on Microsoft Surface RTX.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112634-microsoft-surface-rtx-spark-dev-box-packs-nvidia.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/05/erqos-eqsp32ce-an-industrial-iot-esp32-s3-plc-with-ethernet-rs232-rs485-can-bus-din-rail-support/)
 
 ---
 
-### 7. The world's largest private laser just fired up in race to make fusion power real 
+### 4. TSMC CEO C.C. Wei says, It will be a long time before we can meet customer demand tells shareholders that he will keep prices stable, refrain from implementing price hikes 
 
-The world's largest private laser, Phoenix, has powered up to achieve fusion. Located inside a 74,000-square-foot facility, it utilizes a krypton fluoride excimer laser. This technology has roots in semiconductor manufacturing.
+TSMC struggles to meet AI hyperscalers' demand, citing insufficient capacity. CEO C.C. Wei assures stable prices, despite high demand. This creates an opportunity for Intel to gain market share.
 
-💡 *Advancements in laser technology could revolutionize fusion energy production.*
+💡 *Intel gains market share due to TSMC's capacity constraints.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112641-world-largest-private-laser-fired-up-race-make.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes)
 
 ---
 

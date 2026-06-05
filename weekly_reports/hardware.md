@@ -1,205 +1,155 @@
 # 💻 Hardware
-**Week of June 04, 2026**
+**Week of June 05, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-06-04 11:40
+- **Articles this week:** 14
+- **Report generated:** 2026-06-05 11:49
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Forlinx launches Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP ⭐
+### 1. Thundercomm TurboX C7790 Android and Linux development kit features Qualcomm Dragonwing Q-7790 Edge AI SoC ⭐
 
-Forlinx has launched a Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP, targeting HMI applications that leverage Edge AI. The SoC features an octa-core Cortex-A73/A53 processor, 4 TOPS NPU, and Arm Mali-G310V2 GPU. This launch aims to support consumer electronics, industrial control, and edge computing applications.
+Thundercomm launched the TurboX C7790 development kit, a compact edge AI platform based on the Qualcomm Dragonwing Q-7790 SoC, offering up to 24 TOPS of AI performance and supporting both Android and Linux operating systems.
 
-💡 *Bringing Edge AI capabilities to mid-range HMI applications*
+💡 *Enables efficient AI processing at the edge of networks*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/04/forlinx-launches-rockchip-rk3572-system-on-module-som-and-development-board-with-linux-6-12-bsp/)
-
----
-
-### 2. ModRetro M64 An AMD Artix UltraScale+ FPGA based open-source Nintendo 64-compatible console with original cartridge support ⭐
-
-The ModRetro M64 is an open-source Nintendo 64-compatible console powered by an AMD Artix UltraScale+ FPGA, supporting original cartridges and modern connectivity features.
-
-💡 *Advances retro gaming with accurate, responsive, and scalable hardware-level emulation technology.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/03/modretro-m64-an-amd-artix-ultrascale-fpga-based-open-source-nintendo-64-console-with-original-cartridge-support/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/05/thundercomm-turbox-c7790-android-and-linux-development-kit-features-qualcomm-dragonwing-q-7790-edge-ai-soc/)
 
 ---
 
-### 3. Avalue EPC-WCL fanless Edge AI mini PC features Intel Core Series 3 Wildcat Lake processor ⭐
+### 2. $54 ThinkNode G4 Wi-Fi HaLow gateway extends the range of Ethernet or 2.4 GHz WiFi 4 devices 
 
-The Avalue EPC-WCL is a fanless Edge AI mini PC powered by the Intel Core Series 3 Wildcat Lake processor, offering up to 40 TOPS of AI performance and supporting tasks like real-time inference and vision processing. It features up to 48GB DDR5 memory, M.2 expansion, and multiple display outputs. The device also supports Wi-Fi 7, 4G LTE/5G, and 45W Power Delivery via USB Type-C.
+The ThinkNode G4 Wi-Fi HaLow gateway extends Ethernet or 2.4 GHz WiFi 4 device ranges using a Mediatek MT7628N processor and Morse Micro MM6108 Wi-Fi HaLow SoC.
 
-💡 *Edge AI mini PC for real-time inference and vision processing capabilities.*
+💡 *Long-range connectivity solution for IoT devices with low power consumption.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/04/avalue-epc-wcl-fanless-edge-ai-mini-pc-features-intel-core-series-3-wildcat-lake-processor/)
-
----
-
-### 4. Save $1,280 on this 4K-ready Alienware Aurora desktop PC with RTX 5080 high-performance gaming at your fingertips for $2,919 
-
-Save $1,280 on the Dell Alienware Aurora gaming PC with RTX 5080 graphics card
-
-💡 *Unlock high-performance gaming at an affordable price point*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd1-280-on-this-4k-ready-alienware-aurora-desktop-pc-with-rtx-5080-high-performance-gaming-at-your-fingertips-for-usd2-919)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/05/54-thinknode-g4-wi-fi-halow-gateway-extends-the-range-of-ethernet-or-2-4-ghz-wifi-4-devices/)
 
 ---
 
-### 5. HP has slashed an astonishing $2,600 off this RTX 5080 gaming PC, nearly 50% off get an epic Omen 35L rig with a 9900X3D, 64GB DDR5, and 4TB of SSD storage for just $2,899.99 
+### 3. Erqos EQSP32CE An industrial IoT ESP32-S3 PLC with Ethernet, RS232, RS485, CAN Bus, DIN Rail support 
 
-Save $2,600 on an HP Omen 45L gaming PC, featuring a 9900X3D, RTX 5080, 64GB of DDR5 RAM, and 4TB in SSD storage, now available for $2,899.99.
+The Erqos EQSP32CE is a compact industrial IoT PLC offering extensive connectivity options and interfaces for versatile automation applications.
 
-💡 *Deeply discounted top-tier gaming PC offers exceptional value for buyers.*
+💡 *Industrial automation gets a compact, connected, and versatile PLC solution.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/hp-has-slashed-an-astonishing-usd2-600-off-this-rtx-5080-gaming-pc-nearly-50-percent-off-get-an-epic-omen-35l-rig-with-a-9900x3d-64gb-ddr5-and-4tb-of-ssd-storage-for-just-usd2-899-99)
-
----
-
-### 6. Surface Laptop Ultra targets 110W TDP for RTX Spark Superchip Microsoft reveals power budget of its high-end 15" system in hands-on session 
-
-Microsoft's Surface Laptop Ultra with RTX Spark Superchip targets 110W TDP, suggesting a thermal and power ballpark for other similarly-sized systems.
-
-💡 *Power budget for high-end laptops revealed for the first time publicly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/surface-laptop-ultra-targets-110w-tdp-for-rtx-spark-superchip-microsoft-reveals-power-budget-of-its-high-end-15-system-in-hands-on-session)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/05/erqos-eqsp32ce-an-industrial-iot-esp32-s3-plc-with-ethernet-rs232-rs485-can-bus-din-rail-support/)
 
 ---
 
-### 7. Tom's Hardware Unfiltered: Computex 2026, Day 3 the heat bites as our team races across Taipei 
+### 4. Tom's Hardware Unfiltered: Computex 2026, Day 4 the B2B shift, and we say farewell to Taipei 
 
-Our team in Taipei is working through a sweltering Computex 2026, navigating crowded exhibition halls and multiple high-profile announcements. With the show busier than ever, our team is racing to deliver in-depth coverage of the latest tech trends and products. From AI-powered innovations to cutting-edge hardware, every moment counts.
+Our team reflects on Computex 2026, highlighting key takeaways and trends. The B2B shift was a notable theme, with many exhibitors focusing on enterprise solutions. We bid farewell to Taipei and look forward to next year's show.
 
-💡 *Rapid innovation fuels intense competition in the tech industry landscape.*
+💡 *B2B focus signals a growing importance of enterprise tech solutions.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-3-the-heat-bites-as-our-team-races-across-taipei)
-
----
-
-### 8. Aviation enthusiast uses Raspberry Pi and ABS-B radio to create viral real-time airport tracker open-source 'Skylight' intercepts aircraft signals and projects flight paths onto your ceiling 
-
-Cameron Paczek's Skylight project uses RTL-SDR radio and Raspberry Pi to display real-time ADS-B signals from aircraft, projecting flight paths onto a ceiling with a projector.
-
-💡 *Real-time airport tracking technology is now accessible and affordable for enthusiasts.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/raspberry-pi/aviation-enthusiast-uses-raspberry-pi-and-abs-b-radio-to-create-viral-real-time-airport-tracker-open-source-skylight-intercepts-aircraft-signals-and-projects-flight-paths-onto-your-ceiling)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-4-the-b2b-shift-and-we-say-farewell-to-taipei)
 
 ---
 
-### 9. ASRock shows off a slew of new AIOs, Power Supplies, and 10th Anniversary hardware a monster 3KW Taichi power supply for AI and hybrid Taichi Aqua AIO/custom loop stand out in the crowd 
+### 5. Meta putting up tents across the US to house AI servers, like a scene out of the movie Mad Max structures take three months to build and use jet engines for power 
 
-ASRock showcased new AIOs, Power Supplies, and 10th Anniversary hardware at Computex, including a 3KW Taichi power supply.
+Meta is rapidly building AI server tents across the US, cutting construction time from two to three years to just a few months. These structures are powered by jet engines, allowing for independence from the grid. The move aims to support Meta's growing data center needs.
 
-💡 *ASRock pushes boundaries with high-wattage power supplies for AI and gaming.*
+💡 *Meta's rapid expansion empowers its AI infrastructure development.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/asrock-shows-off-a-slew-of-new-aios-power-supplies-and-10th-anniversary-hardware-a-monster-3kw-taichi-power-supply-for-ai-and-hybrid-taichi-aqua-aio-custom-loop-stand-out-in-the-crowd)
-
----
-
-### 10. AMD executives react to Nvidia s RTX Spark you re just wrong if you don t get a Strix Halo notebook  
-
-AMD responds to Nvidia's RTX Spark with confidence in its Strix Halo and Gorgon Halo products. AMD believes its products will be superior to Nvidia's offerings. This marks a competitive move in the graphics market.
-
-💡 *AMD asserts its competitive edge in high-end gaming notebooks.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-executives-react-to-nvidias-rtx-spark-youre-just-wrong-if-you-dont-get-a-strix-halo-notebook)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-putting-up-tents-across-the-us-to-house-ai-servers-like-a-scene-out-of-the-movie-mad-max-structures-take-three-months-to-build-and-use-jet-engines-for-power)
 
 ---
 
-### 11. NZXT showcases H6 mid-tower chassis, new Ultra RGB fans, and a white H2 offering boundless RGB customization options take this case to a whole new level 
+### 6. Lightning strike enters apartment through coaxial internet cable, blows up gamer's PC surge causes extensive damage to motherboard, destroys router, and leaves burn marks on the wall 
 
-NZXT showcased their H6 mid-tower chassis, Ultra RGB fans, and H2 case at Computex 2026, offering enhanced customization options.
+A lightning strike through a coaxial cable caused extensive damage to a gamer's PC and surrounding area. Proper grounding and protection can reduce the risk of costly hardware damage from lightning strikes. Direct lightning strikes can be difficult to defend against.
 
-💡 *Seamless RGB integration for immersive PC experiences*
+💡 *Grounding and protection reduce lightning strike damage risks significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/nzxt-showcases-h6-mid-tower-chassis-new-ultra-rgb-fans-and-a-white-h2-offering-boundless-rgb-customization-options-take-this-case-to-a-whole-new-level)
-
----
-
-### 12. Convert old IR remote controls into presentation clickers using an RP2040 USB board and open-source TTVKTR firmware 
-
-Convert old IR remote controls into presentation clickers using an RP2040 USB board and the open-source TTVKTR firmware, reducing electronics waste and repurposing old devices.
-
-💡 *Reducing electronics waste through creative repurposing of old devices matters.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/04/convert-old-ir-remote-controls-into-presentation-clickers-using-an-rp2040-usb-board-and-open-source-ttvktr-firmware/)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/lightning-strike-enters-apartment-through-coaxial-internet-cable-blows-up-gamers-pc-surge-causes-extensive-damage-to-motherboard-destroys-router-and-leaves-burn-marks-on-the-wall)
 
 ---
 
-### 13. AMD CPUs hit another Steam survey record as Intel gap shrinks to all-time low 
+### 7. 8GB of RAM is back on laptops companies are lowering memory offerings to make affordable notebooks during component crisis 
 
-AMD CPUs set a new Steam survey record with 44.9% market share, closing the gap with Intel to under 10%.
+Laptop manufacturers are reverting to 8GB RAM due to component crisis, aiming to make affordable notebooks. Dell and Acer introduced systems starting with 8GB of RAM to compete with the MacBook Neo. This move follows a recent trend of increasing RAM capacity to bolster AI.
 
-💡 *AMD gains significant ground in CPU market share competition.*
+💡 *Budget-friendly laptops may compromise performance due to reduced RAM.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112655-amd-cpus-hit-another-steam-survey-record-intel.html)
-
----
-
-### 14. Microsoft built a wearable AI badge with a camera and fingerprint sensor 
-
-Microsoft introduced wearable AI badges with cameras and fingerprint sensors for easy AI access.
-
-💡 *Streamlined AI interaction can boost productivity and work efficiency.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112637-microsoft-built-wearable-ai-badge-camera-fingerprint-sensor.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/8gb-of-ram-is-back-on-laptops-companies-are-lowering-memory-offerings-to-make-affordable-notebooks-during-component-crisis)
 
 ---
 
-### 15. FanControl is a powerful Windows utility for advanced cooling management 
+### 8. Best of Computex 2026: Innovating despite disruptions 
 
-FanControl is a powerful Windows utility for advanced cooling management, offering detailed fan curves and temperature monitoring.
+This year's Computex 2026 showcased innovative products including affordable premium laptops, next-gen handhelds, and Nvidia's Spark on Windows on Arm. The event highlighted advancements in technology despite disruptions in the industry. The introduction of new devices and technologies is set to shape the future of computing.
 
-💡 *Optimized cooling boosts PC performance and prolongs component lifespan.*
+💡 *Adaptation and innovation drive progress in the face of disruption.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7419-fancontrol.html)
-
----
-
-### 16. Tomb Raider: Legacy of Atlantis devs confirm AI use, but promise final game will be fully human-crafted 
-
-Tomb Raider: Legacy of Atlantis brings Lara Croft's classic attire to modern platforms with reimagined puzzles and visually upgraded locations. The game is a remake of the classic series, combining nostalgic elements with modern features. It will be available on PlayStation.
-
-💡 *Human-crafted gameplay, no AI-driven content in the final game.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112643-tomb-raider-legacy-atlantis-devs-confirm-ai-use.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/best-of-computex-2026)
 
 ---
 
-### 17. Phison's next-gen PCIe 6.0 SSD controller hits 28 GB/s, and it's doing it at just 7 watts 
+### 9. EKOS An ESP32-S3 ePaper dashboard housed in an oak-aluminum enclosure (Crowdfunding) 
 
-Phison's next-gen PCIe 6.0 SSD controller, X3, promises twice the throughput of current high-end PCIe 5.0 SSDs. It achieves 28 GB/s sequential speeds using a PCIe 6.0 x4 interface while consuming only 7 watts of power.
+EKOS is a local-first ePaper dashboard built around ESP32-S3 SoC, offering full privacy and control without cloud dependency, in a repair-friendly oak-aluminum enclosure with two variants: Pure and Sense.
 
-💡 *Phison's X3 controller optimizes performance and efficiency simultaneously.*
+💡 *Private, local control for smart home devices with no cloud dependency required.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112635-phison-next-gen-pcie-60-ssd-controller-hits.html)
-
----
-
-### 18. Cherry XTRFY launches the world's first 8K ultra-wideband gaming keyboard 
-
-Cherry XTRFY introduces the world's first 8K ultra-wideband gaming keyboard, the K63W Pro, with an 8,000Hz polling rate in both wired and wireless modes, providing lower input latency.
-
-💡 *Industry-leading polling rate for ultra-responsive gaming keyboard experience*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112640-cherry-xtrfy-launches-world-first-8k-ultra-wideband.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/05/ekos-esp32-s3-epaper-dashboard-housed-in-an-oak-aluminum-enclosure/)
 
 ---
 
-### 19. Production of DDR4 memory and motherboards is restarting amid unprecedented memory shortages PC industry preparing for a world without DDR5 
+### 10. NVIDIA Jetson gets fanless solid-state cooling module 
 
-DDR4 memory and motherboard production is restarting due to unprecedented shortages, signaling a shift back to older technology. This move is a response to DDR5's high cost and limited availability, affecting the PC industry's supply chain. Manufacturers are preparing for a potential future without DDR5.
+YPlasma has developed a DBD plasma cooling module for NVIDIA Jetson Orin Nano, providing fanless solid-state cooling.
 
-💡 *Industry pivots to DDR4 due to DDR5 cost and supply constraints.*
+💡 *Fanless cooling technology advances efficiency and reliability in embedded systems.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/production-of-ddr4-memory-and-motherboards-is-restarting-amid-unprecedented-memory-shortages-pc-industry-preparing-for-a-world-without-ddr5)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/04/nvidia-jetson-gets-fanless-solid-state-cooling-module/)
+
+---
+
+### 11. The RAM crisis is resurrecting DDR4 memory and motherboard production as hardware cycle reverses 
+
+DDR4 memory and motherboard production are being ramped up due to increased demand, as DRAM and NAND shortages make DDR5 RAM unaffordable. Several manufacturers are preparing to increase production in response to the crisis. This shift is part of a hardware cycle reversal.
+
+💡 *Supply chain shortages force consumers to opt for older, more affordable tech.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112661-ram-crisis-resurrecting-ddr4-memory-motherboard-production-hardware.html)
+
+---
+
+### 12. PC shipments could drop 20% by year's end as AI datacenters consume 70% of high-end DRAM 
+
+PC shipments may decline by 20% due to supply shortages, mainly high-end DRAM. The shortage is caused by AI data centers consuming a large portion of high-end DRAM. This diversion of resources affects PC manufacturers.
+
+💡 *Supply chain diversion hurts PC industry, not AI data centers.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112652-pc-shipments-could-drop-20-year-end-ai.html)
+
+---
+
+### 13. After 33 years, EA's College Football game is coming to PC for the first time 
+
+EA's College Football game is coming to PC after 33 years, following a formal announcement.
+
+💡 *Historic PC release will expand game's reach and audience possibilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112649-after-33-years-ea-college-football-game-coming.html)
+
+---
+
+### 14. Intel denies Arc desktop GPUs are going away 
+
+Intel denies plans to discontinue Arc desktop graphics cards, calling them a crucial part of their PC lineup.
+
+💡 *Arc GPUs remain a vital component of Intel's PC offerings.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112653-intel-denies-arc-desktop-gpus-going-away-but.html)
 
 ---
 

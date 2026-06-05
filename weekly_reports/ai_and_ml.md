@@ -1,265 +1,235 @@
 # 🤖 AI & ML
-**Week of June 04, 2026**
+**Week of June 05, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 25
-- **Report generated:** 2026-06-04 11:40
+- **Articles this week:** 22
+- **Report generated:** 2026-06-05 11:49
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Avalue EPC-WCL fanless Edge AI mini PC features Intel Core Series 3 Wildcat Lake processor ⭐
+### 1. ESA report finds 212 million Americans now play video games weekly ⭐
 
-The Avalue EPC-WCL is a fanless Edge AI mini PC powered by the Intel Core Series 3 Wildcat Lake processor, offering up to 40 TOPS of AI performance and supporting tasks like real-time inference and vision processing. It features up to 48GB DDR5 memory, M.2 expansion, and multiple display outputs. The device also supports Wi-Fi 7, 4G LTE/5G, and 45W Power Delivery via USB Type-C.
+The ESA report finds 212 million Americans play video games weekly, shedding the 'nerdy' reputation. The 2026 Essential Facts report draws on data from over 13,500 respondents. The study paints a detailed portrait of the US video game industry.
 
-💡 *Edge AI mini PC for real-time inference and vision processing capabilities.*
+💡 *Mainstream America has fully adopted video games as a popular form of entertainment*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/04/avalue-epc-wcl-fanless-edge-ai-mini-pc-features-intel-core-series-3-wildcat-lake-processor/)
-
----
-
-### 2. AMD's Helios MI455X AI platform breaks cover, initial systems use UALink-over-Ethernet interconnects AMD's Vera Rubin rival surfaces, but the downsides of Ethernet could hamstring performance 
-
-AMD's Helios MI455X AI platform competes with Nvidia's NVL72, but may be hampered by Ethernet interconnects.
-
-💡 *Ethernet interconnects could limit Helios performance in certain workloads initially.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/amds-helios-mi455x-ai-platform-breaks-cover-initial-systems-use-ualink-over-ethernet-interconnects-amds-vera-rubin-rival-surfaces-but-the-downsides-of-ethernet-could-hamstring-performance)
+🔗 [Read Full Article](https://www.techspot.com/news/112660-esa-report-finds-212-million-americans-now-play.html)
 
 ---
 
-### 3. MSI Claw 8 EX AI+ brings Intel Arc G3 Extreme to handhelds 8-inch, 120 Hz display and new ergonomic grips 
+### 2. Anthropic warns Claude AI is building itself faster than expected, calls for option to halt frontier development 'recursive self improvement' increases risk humans lose control of AI 
 
-MSI's Claw 8 EX AI+ features an 8-inch 120 Hz display, Intel Arc G3 Extreme, and ergonomic grips.
+Anthropic warns that AI's recursive self-improvement may lead to loss of human control. The company's report highlights a concerning trend where AI development is accelerating beyond expectations. This could result in unforeseen consequences for humanity.
 
-💡 *Enhanced gaming performance in a handheld console design*
+💡 *AI's exponential growth may outpace human capacity to contain it.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/msi-claw-8-ex-ai-brings-intel-arc-g3-extreme-to-handhelds-8-inch-120-hz-display-and-new-ergonomic-grips)
-
----
-
-### 4. Fans say StarCraft II's first major patch in nearly 6 years is "essentially a new game" 
-
-StarCraft II's first major patch in nearly 6 years brings significant balance changes, updating unit costs and abilities for all three playable races.
-
-💡 *Massive update breathes new life into an aging real-time strategy game.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112633-fans-call-starcraft-ii-first-major-patch-nearly.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-now-writes-more-than-80-percent-of-its-merged-code)
 
 ---
 
-### 5. OpenAI CEO Sam Altman admits AI token costs are becoming 'a huge issue' company seeks improved value as overspending becomes a meme 
+### 3. US tech layoffs record single-highest month in two years, and more than any other sector nearly 40,000 get the axe, AI the most cited reason for layoffs 
 
-OpenAI's clients are complaining about excessive AI spending, prompting CEO Sam Altman to address the issue.
+US tech companies announced 38,242 job cuts in May, exceeding all sectors and a nearly two-year high.
 
-💡 *Excessive AI costs threaten clients' annual budgets and overall financial stability tightly.*
+💡 *Massive tech layoffs signal industry shift and potential AI disruption.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-ceo-sam-altman-admits-ai-token-costs-are-becoming-a-huge-issue-company-seeks-improved-value-as-overspending-becomes-a-meme)
-
----
-
-### 6. Frore shows off LiquidJet Nexus coldplate for Nvidia Vera Rubin, other AI accelerators offers up claimed 10% token generation boost over rival liquid-cooling solutions 
-
-Frore's LiquidJet Nexus coldplate boosts token generation by 10% on Nvidia Vera Rubin
-
-💡 *AI accelerator efficiency gains through innovative liquid cooling solutions matter*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/frore-shows-off-liquidjet-nexus-coldplate-for-nvidia-vera-rubin-other-ai-accelerators-offers-up-claimed-10-percent-token-generation-boost-over-rival-liquid-cooling-solutions)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-sector-cut-us-jobs-by-38242-in-may)
 
 ---
 
-### 7. Microsoft CEO says new AI data centers use as little water annually as a restaurant closed-loop cooling system aims to slash consumption from millions of gallons as AI infrastructure faces mounting environmental scrutiny 
+### 4. Tom's Hardware Unfiltered: Computex 2026, Day 4 the B2B shift, and we say farewell to Taipei 
 
-Microsoft's new AI data centers use as little water as a restaurant annually, thanks to a closed-loop cooling system, aiming to reduce consumption significantly.
+Our team reflects on Computex 2026, highlighting key takeaways and trends. The B2B shift was a notable theme, with many exhibitors focusing on enterprise solutions. We bid farewell to Taipei and look forward to next year's show.
 
-💡 *Reducing AI infrastructure water consumption has significant environmental implications.*
+💡 *B2B focus signals a growing importance of enterprise tech solutions.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/microsoft-ceo-says-new-ai-data-centers-use-as-little-water-annually-as-a-restaurant-closed-loop-cooling-system-aims-to-slash-consumption-from-millions-of-gallons-as-ai-infrastructure-faces-mounting-environmental-scrutiny)
-
----
-
-### 8. Tom's Hardware Unfiltered: Computex 2026, Day 3 the heat bites as our team races across Taipei 
-
-Our team in Taipei is working through a sweltering Computex 2026, navigating crowded exhibition halls and multiple high-profile announcements. With the show busier than ever, our team is racing to deliver in-depth coverage of the latest tech trends and products. From AI-powered innovations to cutting-edge hardware, every moment counts.
-
-💡 *Rapid innovation fuels intense competition in the tech industry landscape.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-3-the-heat-bites-as-our-team-races-across-taipei)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-4-the-b2b-shift-and-we-say-farewell-to-taipei)
 
 ---
 
-### 9. Aviation enthusiast uses Raspberry Pi and ABS-B radio to create viral real-time airport tracker open-source 'Skylight' intercepts aircraft signals and projects flight paths onto your ceiling 
+### 5. Jensen Huang says 'every edge device will become autonomous' Nvidia maps one computing pattern from the cloud to robotics 
 
-Cameron Paczek's Skylight project uses RTL-SDR radio and Raspberry Pi to display real-time ADS-B signals from aircraft, projecting flight paths onto a ceiling with a projector.
+Nvidia CEO Jensen Huang foresees a future where every edge device becomes autonomous, with a new computing pattern that maps data from the cloud to robotics.
 
-💡 *Real-time airport tracking technology is now accessible and affordable for enthusiasts.*
+💡 *Edge devices will increasingly rely on autonomous cloud-connected computing.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/raspberry-pi/aviation-enthusiast-uses-raspberry-pi-and-abs-b-radio-to-create-viral-real-time-airport-tracker-open-source-skylight-intercepts-aircraft-signals-and-projects-flight-paths-onto-your-ceiling)
-
----
-
-### 10. ASRock shows off a slew of new AIOs, Power Supplies, and 10th Anniversary hardware a monster 3KW Taichi power supply for AI and hybrid Taichi Aqua AIO/custom loop stand out in the crowd 
-
-ASRock showcased new AIOs, Power Supplies, and 10th Anniversary hardware at Computex, including a 3KW Taichi power supply.
-
-💡 *ASRock pushes boundaries with high-wattage power supplies for AI and gaming.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/asrock-shows-off-a-slew-of-new-aios-power-supplies-and-10th-anniversary-hardware-a-monster-3kw-taichi-power-supply-for-ai-and-hybrid-taichi-aqua-aio-custom-loop-stand-out-in-the-crowd)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/jensen-huang-says-every-edge-device-will-become-autonomous)
 
 ---
 
-### 11. Samsung shows first HBM5 mockup with Heat Path Block cooling thermal race with SK hynix shaping up 
+### 6. Meta putting up tents across the US to house AI servers, like a scene out of the movie Mad Max structures take three months to build and use jet engines for power 
 
-Samsung unveiled its first HBM5 mockup at Computex 2026, featuring in-package cooling. This marks a milestone in the development of high-bandwidth memory. The new cooling structure is designed to combat thermal issues.
+Meta is rapidly building AI server tents across the US, cutting construction time from two to three years to just a few months. These structures are powered by jet engines, allowing for independence from the grid. The move aims to support Meta's growing data center needs.
 
-💡 *Advancing memory tech with in-package cooling boosts performance and efficiency.*
+💡 *Meta's rapid expansion empowers its AI infrastructure development.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling)
-
----
-
-### 12. Corsair launches lightweight budget-friendly HS35 v3 gaming headsets wired version weighs a cool 230 grams 
-
-Corsair released the HS35 v3 gaming headsets, available in wired and wireless versions, at Computex 2026. The wired version of the headset weighs 230 grams, making it a lightweight option for gamers. This new headset offers a budget-friendly gaming experience.
-
-💡 *Lightweight gaming headsets cater to gamers seeking comfort and portability.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/corsair-launches-lightweight-budget-friendly-hs35-v3-gaming-headsets)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-putting-up-tents-across-the-us-to-house-ai-servers-like-a-scene-out-of-the-movie-mad-max-structures-take-three-months-to-build-and-use-jet-engines-for-power)
 
 ---
 
-### 13. Convert old IR remote controls into presentation clickers using an RP2040 USB board and open-source TTVKTR firmware 
+### 7. Outlook may have allowed unencrypted connections for decades, report claims Fedora and Dovecot upgrade reveal protocol downgrade issue present since at least 2007 
 
-Convert old IR remote controls into presentation clickers using an RP2040 USB board and the open-source TTVKTR firmware, reducing electronics waste and repurposing old devices.
+A report claims that Outlook may have allowed unencrypted connections since at least 2007. An upgrade to Fedora and Dovecot revealed a protocol downgrade issue. This issue may have compromised customer data security.
 
-💡 *Reducing electronics waste through creative repurposing of old devices matters.*
+💡 *Customer data security may have been compromised for over 15 years.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/04/convert-old-ir-remote-controls-into-presentation-clickers-using-an-rp2040-usb-board-and-open-source-ttvktr-firmware/)
-
----
-
-### 14. Your DisplayPort 2.1 Monitor Might Not Be Running DisplayPort 2.1 
-
-DisplayPort 2.1 monitors may not run at full UHBR20 speed due to cable limitations, requiring specific cables to unlock the true capabilities.
-
-💡 *Cable choice limits DisplayPort 2.1 performance significantly.*
-
-🔗 [Read Full Article](https://www.techspot.com/article/3118-displayport-21/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/outlook-may-have-allowed-unencrypted-connections-for-decades-report-claims-fedora-and-dovecot-upgrade-reveal-protocol-downgrade-issue-present-since-at-least-2007)
 
 ---
 
-### 15. Microsoft built a wearable AI badge with a camera and fingerprint sensor 
+### 8. Lightning strike enters apartment through coaxial internet cable, blows up gamer's PC surge causes extensive damage to motherboard, destroys router, and leaves burn marks on the wall 
 
-Microsoft introduced wearable AI badges with cameras and fingerprint sensors for easy AI access.
+A lightning strike through a coaxial cable caused extensive damage to a gamer's PC and surrounding area. Proper grounding and protection can reduce the risk of costly hardware damage from lightning strikes. Direct lightning strikes can be difficult to defend against.
 
-💡 *Streamlined AI interaction can boost productivity and work efficiency.*
+💡 *Grounding and protection reduce lightning strike damage risks significantly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112637-microsoft-built-wearable-ai-badge-camera-fingerprint-sensor.html)
-
----
-
-### 16. FanControl is a powerful Windows utility for advanced cooling management 
-
-FanControl is a powerful Windows utility for advanced cooling management, offering detailed fan curves and temperature monitoring.
-
-💡 *Optimized cooling boosts PC performance and prolongs component lifespan.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/7419-fancontrol.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/lightning-strike-enters-apartment-through-coaxial-internet-cable-blows-up-gamers-pc-surge-causes-extensive-damage-to-motherboard-destroys-router-and-leaves-burn-marks-on-the-wall)
 
 ---
 
-### 17. Tomb Raider: Legacy of Atlantis devs confirm AI use, but promise final game will be fully human-crafted 
+### 9. Indiana mayor secretly recorded saying AI data center protestors only live in 'sh***y' houses office issues statement of clarification over controversial comments 
 
-Tomb Raider: Legacy of Atlantis brings Lara Croft's classic attire to modern platforms with reimagined puzzles and visually upgraded locations. The game is a remake of the classic series, combining nostalgic elements with modern features. It will be available on PlayStation.
+Shelbyville mayor Scott Ferguson made controversial comments about protestors' living conditions, sparking outrage.
 
-💡 *Human-crafted gameplay, no AI-driven content in the final game.*
+💡 *Elected officials' comments can reflect and perpetuate societal biases and inequalities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112643-tomb-raider-legacy-atlantis-devs-confirm-ai-use.html)
-
----
-
-### 18. Microsoft unveils Majorana 2, a lead-based quantum chip designed with AI 
-
-Microsoft introduces Majorana 2, a lead-based quantum chip utilizing AI in design.
-
-💡 *Microsoft's lead-based design may offer a more robust quantum computing solution.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112639-microsoft-unveils-majorana-2-lead-based-quantum-chip.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/indiana-mayor-secretly-recorded-saying-ai-data-center-protestors-have-sh-y-unkempt-houses-office-issues-statement-of-clarification-over-controversial-comments)
 
 ---
 
-### 19. Microsoft took OpenClaw, wrapped it in enterprise security, and called it Scout 
+### 10. AMD's Frank Azor pushes back against claim that FSR 4.1 won't be ported to RDNA 3.5 GPUs says 'no such decision' has been made 
 
-Microsoft has introduced Scout, a personal AI agent within Microsoft 365. Scout is designed to provide a new category of agents called Autopilots, enhancing productivity. It's built on OpenClaw technology with added enterprise security.
+AMD's Frank Azor denies FSR 4.1 will be skipped on RDNA 3.5 GPUs.
 
-💡 *Microsoft enhances productivity with AI-powered personal agent, Scout.*
+💡 *AMD's GPU compatibility matters for gamers' upgrade flexibility.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112632-microsoft-took-openclaw-wrapped-enterprise-security-called-scout.html)
-
----
-
-### 20. Phison's next-gen PCIe 6.0 SSD controller hits 28 GB/s, and it's doing it at just 7 watts 
-
-Phison's next-gen PCIe 6.0 SSD controller, X3, promises twice the throughput of current high-end PCIe 5.0 SSDs. It achieves 28 GB/s sequential speeds using a PCIe 6.0 x4 interface while consuming only 7 watts of power.
-
-💡 *Phison's X3 controller optimizes performance and efficiency simultaneously.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112635-phison-next-gen-pcie-60-ssd-controller-hits.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amds-frank-azor-pushes-back-against-claim-that-fsr-4-1-wont-be-ported-to-rdna-3-5-gpus-says-no-such-decision-has-been-made)
 
 ---
 
-### 21. Google is offering Android developers cash in exchange for code to train AI 
+### 11. 8GB of RAM is back on laptops companies are lowering memory offerings to make affordable notebooks during component crisis 
 
-Google is offering Android developers cash for their code to train AI coding tools.
+Laptop manufacturers are reverting to 8GB RAM due to component crisis, aiming to make affordable notebooks. Dell and Acer introduced systems starting with 8GB of RAM to compete with the MacBook Neo. This move follows a recent trend of increasing RAM capacity to bolster AI.
 
-💡 *Google's AI training initiative could democratize access to coding expertise globally.*
+💡 *Budget-friendly laptops may compromise performance due to reduced RAM.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112642-google-offers-android-app-developers-cash-exchange-code.html)
-
----
-
-### 22. GitHub just switched Copilot to metered billing, and developers are watching months of credits vanish in a single day 
-
-GitHub switched Copilot to metered billing, causing users to lose credits. The change moved from a pool-based system to a usage-based system, billing users based on actual AI consumption in tokens. This switch affected all plans starting June 1.
-
-💡 *Users face sudden, significant losses in unused Copilot credits.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112628-github-switched-copilot-metered-billing-developers-watching-months.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/8gb-of-ram-is-back-on-laptops-companies-are-lowering-memory-offerings-to-make-affordable-notebooks-during-component-crisis)
 
 ---
 
-### 23. $559 Nvidia RTX 5070 GPU deal is the cheapest model available 1440p high-performance gaming at just $10 above MSRP 
+### 12. TSMC CEO C.C. Wei says, It will be a long time before we can meet customer demand tells shareholders that he will keep prices stable, refrain from implementing price hikes 
 
-Lenovo offers a discounted $559 Nvidia RTX 5070 GPU, $80 off MSRP.
+TSMC struggles to meet AI hyperscalers' demand, citing insufficient capacity. CEO C.C. Wei assures stable prices, despite high demand. This creates an opportunity for Intel to gain market share.
 
-💡 *Cheapest RTX 5070 GPU available for 1440p gaming with performance.*
+💡 *Intel gains market share due to TSMC's capacity constraints.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/usd559-nvidia-rtx-5070-gpu-deal-is-the-cheapest-model-available-1440p-high-performance-gaming-at-just-usd10-above-msrp)
-
----
-
-### 24. Computex 2026 Day Two Wrap-Up: Intel atones for Arrow Lake, Wi-Fi 8 comes into focus 
-
-Intel made amends for Arrow Lake delays at Computex 2026, showcasing advancements in Wi-Fi 8 technology. The company's efforts to improve Wi-Fi 8 capabilities are gaining momentum. Industry stakeholders are now focusing on the potential benefits of this upgraded standard.
-
-💡 *Upgraded Wi-Fi 8 technology poised to revolutionize connectivity standards.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/computex-2026-day-two-wrap-up-intel-atones-for-arrow-lake-wi-fi-8-comes-into-focus)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes)
 
 ---
 
-### 25. Samsung rolls out 2026 Odyssey gaming monitors, including 5K and 6K models 27 to 32 inches with up to 330 Hz refresh rate 
+### 13. Qualcomm Roundtable Interview transcript SVP of Compute and Gaming talks Snapdragon C, RTX Spark, and the agentic AI future 
 
-Samsung has released the 2026 Odyssey gaming monitors with high refresh rates and resolutions. The line includes 27 to 32-inch models featuring 5K and 6K IPS panels. The Odyssey G8 has a 32-inch 6K IPS panel.
+Qualcomm's Snapdragon C targets the low-cost laptop market, while also building an AI ecosystem on its silicon. The company is expanding its offerings to compete in the growing laptop market and drive innovation in AI technology. It aims to establish a presence in the affordable and premium laptop segments.
 
-💡 *Samsung boosts gaming performance with high-resolution and high-refresh-rate monitors*
+💡 *Qualcomm's agentic AI ecosystem shifts laptop tech paradigm*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/samsung-rolls-out-2026-odyssey-gaming-monitors-including-5k-and-6k-models-27-to-32-inches-with-up-to-330-hz-refresh-rate)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/qualcomm-roundtable-interview-transcript-svp-of-compute-and-gaming-talks-snapdragon-c-rtx-spark-and-the-agentic-ai-future)
+
+---
+
+### 14. Nintendo Switch 2 with user-replaceable batteries coming to the EU console maker confirms it will comply with regulations set to take effect from 2027 
+
+Nintendo will release an updated Switch 2 with user-replaceable batteries in the EU. The new console complies with regulations set to take effect from February 18, 2027. This change aims to reduce electronic waste.
+
+💡 *Compliance with EU regulations will reduce electronic waste significantly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-with-user-replaceable-batteries-coming-to-the-eu-console-maker-confirms-it-will-comply-with-regulations-set-to-take-effect-from-2027)
+
+---
+
+### 15. EKOS An ESP32-S3 ePaper dashboard housed in an oak-aluminum enclosure (Crowdfunding) 
+
+EKOS is a local-first ePaper dashboard built around ESP32-S3 SoC, offering full privacy and control without cloud dependency, in a repair-friendly oak-aluminum enclosure with two variants: Pure and Sense.
+
+💡 *Private, local control for smart home devices with no cloud dependency required.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/05/ekos-esp32-s3-epaper-dashboard-housed-in-an-oak-aluminum-enclosure/)
+
+---
+
+### 16. Spammers are flooding Reddit with fake posts designed to show up in AI search results 
+
+Spammers are flooding Reddit with fake posts to influence AI search results, targeting companies selling peptides and hormone replacement therapy. They strategically post in forums to shape content used by AI models. This tactic exploits Reddit's growing role as a source for AI tools.
+
+💡 *AI model accuracy suffers from biased, manipulated online content.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112654-spammers-flooding-reddit-fake-posts-designed-show-up.html)
+
+---
+
+### 17. SpaceX IPO could be the largest in history at a $1.76 trillion valuation 
+
+SpaceX plans to go public with a $1.76 trillion valuation, potentially shattering records.
+
+💡 *Historic IPO could reshape the global tech and finance landscape*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112658-spacex-ipo-could-largest-history-176-trillion-valuation.html)
+
+---
+
+### 18. Android can now detect when scammers are faking calls from your contacts 
+
+Google's Fake Call Detection feature helps Android users identify potential scam calls.
+
+💡 *Prevents scammers from impersonating loved ones via fake phone calls.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112644-android-can-now-detect-when-scammers-faking-calls.html)
+
+---
+
+### 19. Bots have officially overtaken humans on the internet 
+
+Bots have surpassed humans in internet traffic, according to Cloudflare Radar, making up around 56% of all traffic.
+
+💡 *Rise of bots threatens data accuracy and user experience online.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112657-bots-have-officially-overtaken-humans-internet-cloudflare.html)
+
+---
+
+### 20. PC shipments could drop 20% by year's end as AI datacenters consume 70% of high-end DRAM 
+
+PC shipments may decline by 20% due to supply shortages, mainly high-end DRAM. The shortage is caused by AI data centers consuming a large portion of high-end DRAM. This diversion of resources affects PC manufacturers.
+
+💡 *Supply chain diversion hurts PC industry, not AI data centers.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112652-pc-shipments-could-drop-20-year-end-ai.html)
+
+---
+
+### 21. After 33 years, EA's College Football game is coming to PC for the first time 
+
+EA's College Football game is coming to PC after 33 years, following a formal announcement.
+
+💡 *Historic PC release will expand game's reach and audience possibilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112649-after-33-years-ea-college-football-game-coming.html)
+
+---
+
+### 22. A truck-mounted nuclear reactor that runs for decades without refueling is being tested in China 
+
+China is testing a truck-mounted nuclear reactor that runs for decades without refueling.
+
+💡 *Self-sustaining mobile nuclear power could revolutionize remote energy access worldwide.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112646-truck-mounted-nuclear-reactor-runs-decades-without-refueling.html)
 
 ---
 

@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 04, 2026**
+**Week of June 05, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Forlinx launches Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP ⭐
+### 1. Thundercomm TurboX C7790 Android and Linux development kit features Qualcomm Dragonwing Q-7790 Edge AI SoC ⭐
 
 **💻 Hardware**
 
-Forlinx has launched a Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP, targeting HMI applications that leverage Edge AI. The SoC features an octa-core Cortex-A73/A53 processor, 4 TOPS NPU, and Arm Mali-G310V2 GPU. This launch aims to support consumer electronics, industrial control, and edge computing applications.
+Thundercomm launched the TurboX C7790 development kit, a compact edge AI platform based on the Qualcomm Dragonwing Q-7790 SoC, offering up to 24 TOPS of AI performance and supporting both Android and Linux operating systems.
 
-💡 **Key Point:** Bringing Edge AI capabilities to mid-range HMI applications
+💡 **Key Point:** Enables efficient AI processing at the edge of networks
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/04/forlinx-launches-rockchip-rk3572-system-on-module-som-and-development-board-with-linux-6-12-bsp/)
-
----
-
-### 2. ModRetro M64 An AMD Artix UltraScale+ FPGA based open-source Nintendo 64-compatible console with original cartridge support ⭐
-
-**💻 Hardware**
-
-The ModRetro M64 is an open-source Nintendo 64-compatible console powered by an AMD Artix UltraScale+ FPGA, supporting original cartridges and modern connectivity features.
-
-💡 **Key Point:** Advances retro gaming with accurate, responsive, and scalable hardware-level emulation technology.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/03/modretro-m64-an-amd-artix-ultrascale-fpga-based-open-source-nintendo-64-console-with-original-cartridge-support/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/05/thundercomm-turbox-c7790-android-and-linux-development-kit-features-qualcomm-dragonwing-q-7790-edge-ai-soc/)
 
 ---
 
-### 3. Forlinx launches Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP ⭐
+### 2. Thundercomm TurboX C7790 Android and Linux development kit features Qualcomm Dragonwing Q-7790 Edge AI SoC ⭐
 
 **⚡ Semiconductors**
 
-Forlinx has launched a Rockchip RK3572 system-on-module (SoM) and development board with Linux 6.12 BSP, targeting HMI applications that leverage Edge AI. The SoC features an octa-core Cortex-A73/A53 processor, 4 TOPS NPU, and Arm Mali-G310V2 GPU. This launch aims to support consumer electronics, industrial control, and edge computing applications.
+Thundercomm launched the TurboX C7790 development kit, a compact edge AI platform based on the Qualcomm Dragonwing Q-7790 SoC, offering up to 24 TOPS of AI performance and supporting both Android and Linux operating systems.
 
-💡 **Key Point:** Bringing Edge AI capabilities to mid-range HMI applications
+💡 **Key Point:** Enables efficient AI processing at the edge of networks
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/04/forlinx-launches-rockchip-rk3572-system-on-module-som-and-development-board-with-linux-6-12-bsp/)
-
----
-
-### 4. ModRetro M64 An AMD Artix UltraScale+ FPGA based open-source Nintendo 64-compatible console with original cartridge support ⭐
-
-**⚡ Semiconductors**
-
-The ModRetro M64 is an open-source Nintendo 64-compatible console powered by an AMD Artix UltraScale+ FPGA, supporting original cartridges and modern connectivity features.
-
-💡 **Key Point:** Advances retro gaming with accurate, responsive, and scalable hardware-level emulation technology.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/03/modretro-m64-an-amd-artix-ultrascale-fpga-based-open-source-nintendo-64-console-with-original-cartridge-support/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/05/thundercomm-turbox-c7790-android-and-linux-development-kit-features-qualcomm-dragonwing-q-7790-edge-ai-soc/)
 
 ---
 
-### 5. TeamGroup shows off external SSD with wireless self-destruct function T-Create Expert P35SG External SSD can be wiped with a single text message ⭐
+### 3. ESA report finds 212 million Americans now play video games weekly ⭐
 
 **📰 Tech News**
 
-TeamGroup released a T-Create Expert P35SG External SSD with a unique feature: it can be wiped with a single text message, demonstrating a focus on security.
+The ESA report finds 212 million Americans play video games weekly, shedding the 'nerdy' reputation. The 2026 Essential Facts report draws on data from over 13,500 respondents. The study paints a detailed portrait of the US video game industry.
 
-💡 **Key Point:** Security through remote data destruction offers peace of mind.
+💡 **Key Point:** Mainstream America has fully adopted video games as a popular form of entertainment
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/teamgroup-shows-off-external-ssd-with-wireless-self-destruct-function-t-create-expert-p35sg-external-ssd-can-be-wiped-with-a-single-text-message)
+🔗 [Read More](https://www.techspot.com/news/112660-esa-report-finds-212-million-americans-now-play.html)
+
+---
+
+### 4. ESA report finds 212 million Americans now play video games weekly ⭐
+
+**🤖 AI & ML**
+
+The ESA report finds 212 million Americans play video games weekly, shedding the 'nerdy' reputation. The 2026 Essential Facts report draws on data from over 13,500 respondents. The study paints a detailed portrait of the US video game industry.
+
+💡 **Key Point:** Mainstream America has fully adopted video games as a popular form of entertainment
+
+🔗 [Read More](https://www.techspot.com/news/112660-esa-report-finds-212-million-americans-now-play.html)
+
+---
+
+### 5. US tech layoffs record single-highest month in two years, and more than any other sector nearly 40,000 get the axe, AI the most cited reason for layoffs 
+
+**📰 Tech News**
+
+US tech companies announced 38,242 job cuts in May, exceeding all sectors and a nearly two-year high.
+
+💡 **Key Point:** Massive tech layoffs signal industry shift and potential AI disruption.
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-sector-cut-us-jobs-by-38242-in-may)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **69 articles** across **5 focused categories**.
+We covered **57 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 25 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 14 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 19 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 22 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 25 articles
+*Artificial Intelligence and Machine Learning* — 22 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 14 articles
+*Graphics cards and compute accelerators* — 7 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 19 articles
+*Computing hardware and development boards* — 14 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 7 articles
+*Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 4 articles
+*Industry news and product launches* — 10 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-04 at 11:40 by an autonomous AI curation system.
+Generated 2026-06-05 at 11:49 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
