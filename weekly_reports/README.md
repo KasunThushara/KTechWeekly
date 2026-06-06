@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 05, 2026**
+**Week of June 06, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Thundercomm TurboX C7790 Android and Linux development kit features Qualcomm Dragonwing Q-7790 Edge AI SoC ⭐
+### 1. Acer MA200 1TB SSD Review: Good enough, and that s the point ⭐
+
+**📰 Tech News**
+
+The Acer MA200 is a reliable M.2 2230 NVMe SSD with balanced performance and power efficiency, suitable for general use. It may not be the fastest option available, but its efficiency makes it a good choice for everyday needs.
+
+💡 **Key Point:** Balanced performance and efficiency for everyday computing needs prevail.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/acer-ma200-1tb-ssd-review)
+
+---
+
+### 2. Acer MA200 1TB SSD Review: Good enough, and that s the point ⭐
 
 **💻 Hardware**
 
-Thundercomm launched the TurboX C7790 development kit, a compact edge AI platform based on the Qualcomm Dragonwing Q-7790 SoC, offering up to 24 TOPS of AI performance and supporting both Android and Linux operating systems.
+The Acer MA200 is a reliable M.2 2230 NVMe SSD with balanced performance and power efficiency, suitable for general use. It may not be the fastest option available, but its efficiency makes it a good choice for everyday needs.
 
-💡 **Key Point:** Enables efficient AI processing at the edge of networks
+💡 **Key Point:** Balanced performance and efficiency for everyday computing needs prevail.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/05/thundercomm-turbox-c7790-android-and-linux-development-kit-features-qualcomm-dragonwing-q-7790-edge-ai-soc/)
-
----
-
-### 2. Thundercomm TurboX C7790 Android and Linux development kit features Qualcomm Dragonwing Q-7790 Edge AI SoC ⭐
-
-**⚡ Semiconductors**
-
-Thundercomm launched the TurboX C7790 development kit, a compact edge AI platform based on the Qualcomm Dragonwing Q-7790 SoC, offering up to 24 TOPS of AI performance and supporting both Android and Linux operating systems.
-
-💡 **Key Point:** Enables efficient AI processing at the edge of networks
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/05/thundercomm-turbox-c7790-android-and-linux-development-kit-features-qualcomm-dragonwing-q-7790-edge-ai-soc/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/acer-ma200-1tb-ssd-review)
 
 ---
 
-### 3. ESA report finds 212 million Americans now play video games weekly ⭐
+### 3. Elegoo announces bizarre 3D printer collab with Emoji brand special edition Centauri Carbon 2 Combo is priced at $489 USD 
 
 **📰 Tech News**
 
-The ESA report finds 212 million Americans play video games weekly, shedding the 'nerdy' reputation. The 2026 Essential Facts report draws on data from over 13,500 respondents. The study paints a detailed portrait of the US video game industry.
+Elegoo collaborates with Emoji brand for a special edition Centauri Carbon 2 Combo 3D printer. The machine is priced at $489 USD. This marks a unique partnership between a 3D printing company and an emoji trademark holder.
 
-💡 **Key Point:** Mainstream America has fully adopted video games as a popular form of entertainment
+💡 **Key Point:** 3D printing enters the world of branded, consumer-friendly merchandise.
 
-🔗 [Read More](https://www.techspot.com/news/112660-esa-report-finds-212-million-americans-now-play.html)
-
----
-
-### 4. ESA report finds 212 million Americans now play video games weekly ⭐
-
-**🤖 AI & ML**
-
-The ESA report finds 212 million Americans play video games weekly, shedding the 'nerdy' reputation. The 2026 Essential Facts report draws on data from over 13,500 respondents. The study paints a detailed portrait of the US video game industry.
-
-💡 **Key Point:** Mainstream America has fully adopted video games as a popular form of entertainment
-
-🔗 [Read More](https://www.techspot.com/news/112660-esa-report-finds-212-million-americans-now-play.html)
+🔗 [Read More](https://www.tomshardware.com/3d-printing/elegoo-announces-bizarre-3d-printer-collab-with-emoji-brand-special-edition-centauri-carbon-2-combo-is-priced-at-usd489-usd)
 
 ---
 
-### 5. US tech layoffs record single-highest month in two years, and more than any other sector nearly 40,000 get the axe, AI the most cited reason for layoffs 
+### 4. Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites 
 
 **📰 Tech News**
 
-US tech companies announced 38,242 job cuts in May, exceeding all sectors and a nearly two-year high.
+Starlink reaches 12 million subscribers and plans a significant bandwidth upgrade.
 
-💡 **Key Point:** Massive tech layoffs signal industry shift and potential AI disruption.
+💡 **Key Point:** Massive bandwidth boost expected from new Starlink V3 satellite technology.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-sector-cut-us-jobs-by-38242-in-may)
+🔗 [Read More](https://www.techspot.com/news/112669-starlink-crosses-12-million-active-users-spacex-outlines.html)
+
+---
+
+### 5. Valve confirms Steam Machine and Steam Frame are still shipping this summer 
+
+**📰 Tech News**
+
+Valve is expanding its Verified program to Steam Machine and Steam Frame, both shipping this summer.
+
+💡 **Key Point:** Expanded Verified program enhances gaming experience on Steam devices.
+
+🔗 [Read More](https://www.techspot.com/news/112664-valve-confirms-steam-machine-steam-frame-shipping-summer.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **57 articles** across **5 focused categories**.
+We covered **30 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 22 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 13 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 2 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 5 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 2 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 22 articles
+*Artificial Intelligence and Machine Learning* — 13 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 7 articles
+*Graphics cards and compute accelerators* — 2 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 14 articles
+*Computing hardware and development boards* — 5 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 4 articles
+*Chip manufacturing and design* — 2 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 10 articles
+*Industry news and product launches* — 8 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-05 at 11:49 by an autonomous AI curation system.
+Generated 2026-06-06 at 10:33 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

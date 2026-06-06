@@ -1,115 +1,95 @@
 # 📰 Tech News
-**Week of June 05, 2026**
+**Week of June 06, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-06-05 11:49
+- **Articles this week:** 8
+- **Report generated:** 2026-06-06 10:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. ESA report finds 212 million Americans now play video games weekly ⭐
+### 1. Acer MA200 1TB SSD Review: Good enough, and that s the point ⭐
 
-The ESA report finds 212 million Americans play video games weekly, shedding the 'nerdy' reputation. The 2026 Essential Facts report draws on data from over 13,500 respondents. The study paints a detailed portrait of the US video game industry.
+The Acer MA200 is a reliable M.2 2230 NVMe SSD with balanced performance and power efficiency, suitable for general use. It may not be the fastest option available, but its efficiency makes it a good choice for everyday needs.
 
-💡 *Mainstream America has fully adopted video games as a popular form of entertainment*
+💡 *Balanced performance and efficiency for everyday computing needs prevail.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112660-esa-report-finds-212-million-americans-now-play.html)
-
----
-
-### 2. US tech layoffs record single-highest month in two years, and more than any other sector nearly 40,000 get the axe, AI the most cited reason for layoffs 
-
-US tech companies announced 38,242 job cuts in May, exceeding all sectors and a nearly two-year high.
-
-💡 *Massive tech layoffs signal industry shift and potential AI disruption.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-sector-cut-us-jobs-by-38242-in-may)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/acer-ma200-1tb-ssd-review)
 
 ---
 
-### 3. Save 55% on 12 months of Norton VPN coverage pay just $49.99 for complete protection from scams, malware, and nefarious ads 
+### 2. Elegoo announces bizarre 3D printer collab with Emoji brand special edition Centauri Carbon 2 Combo is priced at $489 USD 
 
-Get complete protection from scams, malware, and ads with Norton VPN's 12-month subscription. Save 55% with a discounted price of $49.99. Enjoy secure browsing and streaming, perfect for events like the World Cup.
+Elegoo collaborates with Emoji brand for a special edition Centauri Carbon 2 Combo 3D printer. The machine is priced at $489 USD. This marks a unique partnership between a 3D printing company and an emoji trademark holder.
 
-💡 *Protect your online identity and data with robust VPN coverage.*
+💡 *3D printing enters the world of branded, consumer-friendly merchandise.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/vpn/save-55-percent-on-12-months-of-norton-vpn-coverage-pay-just-usd49-99-for-complete-protection-from-scams-malware-and-nefarious-ads)
-
----
-
-### 4. Take your OpenClaw box back to the future with retro Mac Mini, Mac Studio docks Wokyis tempts Nintendo and Apple lawyers, while adding a screen, ports, and style to your modern Mac 
-
-Wokyis is releasing a retro-themed Mac dock with larger screens and high throughput, offering a nostalgic twist on modern Macs. The M5 dock is already available, and the company plans to release a G7 NES-themed dock. The dock adds a screen, ports, and style to the Mac Mini or Mac Studio.
-
-💡 *Reviving nostalgia with tech innovation appeals to retro gaming enthusiasts*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/docking-stations-hubs/take-your-openclaw-box-back-to-the-future-with-retro-mac-mini-mac-studio-docks-wokyis-tempts-nintendo-and-apple-lawyers-while-adding-a-screen-ports-and-style-to-your-modern-mini-mac)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/elegoo-announces-bizarre-3d-printer-collab-with-emoji-brand-special-edition-centauri-carbon-2-combo-is-priced-at-usd489-usd)
 
 ---
 
-### 5. Hyte shows off Y50 chassis, aesthetic cable accessory kit, new fans, and updates Nexus Software sub $100 Y50 brings value to Y-series, Nexus 3.0 goes web-based, now works on Mac, Linux, Windows, and your phone 
+### 3. Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites 
 
-Hyte showcased the Y50 chassis, aesthetic cable accessory kit, and new fans. They also updated Nexus Software, making it web-based and cross-platform. The Y50's value is now comparable to the Y-series at a sub-$100 price point.
+Starlink reaches 12 million subscribers and plans a significant bandwidth upgrade.
 
-💡 *Hyte expands Y-series value at an affordable price point.*
+💡 *Massive bandwidth boost expected from new Starlink V3 satellite technology.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/hyte-shows-off-y50-chassis-aesthetic-cable-accessory-kit-new-fans-and-updates-nexus-software-sub-usd100-y50-brings-value-to-y-series-nexus-3-0-goes-web-based-now-works-on-mac-linux-windows-and-your-phone)
-
----
-
-### 6. 71% of Americans now oppose data centers near their homes, up from 42% just nine months ago 
-
-A survey by Heatmap Pro found 71% of Americans oppose data centers near their homes.
-
-💡 *Growing public opposition to data centers near residential areas.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112651-ai-data-center-backlash-grows-rapidly-americans-blame.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112669-starlink-crosses-12-million-active-users-spacex-outlines.html)
 
 ---
 
-### 7. Microsoft Office 2019 for Mac will no longer edit documents after July 13 
+### 4. Valve confirms Steam Machine and Steam Frame are still shipping this summer 
 
-Microsoft Office 2019 for Mac will stop editing documents after July 13. Users with non-updated operating systems will be affected. Updating the OS and Office can resolve the issue.
+Valve is expanding its Verified program to Steam Machine and Steam Frame, both shipping this summer.
 
-💡 *Older Office versions and OS updates are crucial for document compatibility.*
+💡 *Expanded Verified program enhances gaming experience on Steam devices.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112648-microsoft-office-2019-mac-no-longer-edit-documents.html)
-
----
-
-### 8. A truck-mounted nuclear reactor that runs for decades without refueling is being tested in China 
-
-China is testing a truck-mounted nuclear reactor that runs for decades without refueling.
-
-💡 *Self-sustaining mobile nuclear power could revolutionize remote energy access worldwide.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112646-truck-mounted-nuclear-reactor-runs-decades-without-refueling.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112664-valve-confirms-steam-machine-steam-frame-shipping-summer.html)
 
 ---
 
-### 9. Nvidia RTX 5000 Super series tipped for 2026 launch despite memory crisis 
+### 5. Finland deploys new system to detect threats to undersea cables distributed acoustic sensors measure vibrations from the seabed and informs the authorities and operators of suspicious activities 
 
-Nvidia RTX 5000 Super series is reportedly set for a 2026 launch, despite memory concerns.
+Finland deploys a system using undersea cables to detect seabed disturbances, enabling swift responses to potential threats.
 
-💡 *Potential new GPU release may alleviate existing graphics card shortages.*
+💡 *Protecting critical undersea infrastructure from sabotage and natural disasters is crucial.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112665-rtx-5000-super-series-tipped-2026-launch-despite.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/finland-deploys-new-system-to-detect-threats-to-undersea-cables-distributed-acoustic-sensors-measure-vibrations-from-the-seabed-and-informs-the-authorities-and-operators-of-suspicious-activities)
 
 ---
 
-### 10. What is the most commonly used password? 
+### 6. Valve says Steam Machine and Steam Frame 'shipping this summer' company confirms release window as it expands Verified program 
 
-The world's most commonly used password is easily crackable in under a second, highlighting a significant security risk.
+Valve confirms Steam Machine and Steam Frame will ship this summer, expanding its Verified program.
 
-💡 *Weak passwords compromise online security and put sensitive data at risk.*
+💡 *Valve's gaming ecosystem expands its reach to living rooms and beyond.*
 
-🔗 [Read Full Article](https://www.techspot.com/trivia/6-most-common-password/)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/valve-says-steam-machine-and-steam-frame-shipping-this-summer-company-confirms-release-window-as-it-expands-verified-program)
+
+---
+
+### 7. Browser makers are calling out Microsoft for using Windows to push Edge on users 
+
+Browser makers are criticizing Microsoft for allegedly coercing users into using Edge over other browsers.
+
+💡 *Browser choice freedom being threatened by Microsoft's aggressive marketing tactics.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112667-browser-coalition-accuses-microsoft-monopolistic-abuse-demands-change.html)
+
+---
+
+### 8. At SC26, Murata and Hexagon show driver assistance tech updates 
+
+Murata and Hexagon unveiled driver assistance tech updates at SC26, prioritizing safety through engineering advances.
+
+💡 *Improved ADAS safety drives innovation and technological advancements.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/sc26-murata-and-hexagon-show-driver-assistance-tech-updates)
 
 ---
 

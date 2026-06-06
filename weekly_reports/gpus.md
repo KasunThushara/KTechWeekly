@@ -1,85 +1,35 @@
 # 🎮 GPUs
-**Week of June 05, 2026**
+**Week of June 06, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-06-05 11:49
+- **Articles this week:** 2
+- **Report generated:** 2026-06-06 10:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Jensen Huang says 'every edge device will become autonomous' Nvidia maps one computing pattern from the cloud to robotics 
+### 1. Retro gaming enthusiast attempts loading games to Sega Genesis from a vinyl record player, recording game data as sound Mega EverDrive Pro and Pi Pico 2 board not enough to overcome limitations of the turntable 
 
-Nvidia CEO Jensen Huang foresees a future where every edge device becomes autonomous, with a new computing pattern that maps data from the cloud to robotics.
+A retro gaming enthusiast tried to load Sega Genesis games from a vinyl record player. The attempt used a Mega EverDrive Pro and Pi Pico 2 board but failed. The project was hindered by turntable limitations.
 
-💡 *Edge devices will increasingly rely on autonomous cloud-connected computing.*
+💡 *Vinyl record players lack precision for accurate digital data transfer.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/jensen-huang-says-every-edge-device-will-become-autonomous)
-
----
-
-### 2. AMD's Frank Azor pushes back against claim that FSR 4.1 won't be ported to RDNA 3.5 GPUs says 'no such decision' has been made 
-
-AMD's Frank Azor denies FSR 4.1 will be skipped on RDNA 3.5 GPUs.
-
-💡 *AMD's GPU compatibility matters for gamers' upgrade flexibility.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amds-frank-azor-pushes-back-against-claim-that-fsr-4-1-wont-be-ported-to-rdna-3-5-gpus-says-no-such-decision-has-been-made)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/retro-gaming-enthusiast-attempts-loading-games-to-sega-genesis-from-a-vinyl-record-player-recording-game-data-as-sound-mega-everdrive-pro-and-pi-pico-2-board-not-enough-to-overcome-limitations-of-the-turntable)
 
 ---
 
-### 3. Qualcomm Roundtable Interview transcript SVP of Compute and Gaming talks Snapdragon C, RTX Spark, and the agentic AI future 
+### 2. Nvidia is reportedly still planning fabled RTX 50 Super series for 2026, leak claims lineup could now include a potential 'RTX 5060 Super' with 12GB of VRAM 
 
-Qualcomm's Snapdragon C targets the low-cost laptop market, while also building an AI ecosystem on its silicon. The company is expanding its offerings to compete in the growing laptop market and drive innovation in AI technology. It aims to establish a presence in the affordable and premium laptop segments.
+Nvidia reportedly plans to revive the RTX 50 Super series for 2026, featuring a potential 'RTX 5060 Super' with 12GB of VRAM. This lineup had initially lost hype due to the AI boom and rising memory prices. The series is now allegedly back on track.
 
-💡 *Qualcomm's agentic AI ecosystem shifts laptop tech paradigm*
+💡 *Nvidia revives RTX 50 Super series amidst AI-driven memory price surge.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/qualcomm-roundtable-interview-transcript-svp-of-compute-and-gaming-talks-snapdragon-c-rtx-spark-and-the-agentic-ai-future)
-
----
-
-### 4. Best of Computex 2026: Innovating despite disruptions 
-
-This year's Computex 2026 showcased innovative products including affordable premium laptops, next-gen handhelds, and Nvidia's Spark on Windows on Arm. The event highlighted advancements in technology despite disruptions in the industry. The introduction of new devices and technologies is set to shape the future of computing.
-
-💡 *Adaptation and innovation drive progress in the face of disruption.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/best-of-computex-2026)
-
----
-
-### 5. NVIDIA Jetson gets fanless solid-state cooling module 
-
-YPlasma has developed a DBD plasma cooling module for NVIDIA Jetson Orin Nano, providing fanless solid-state cooling.
-
-💡 *Fanless cooling technology advances efficiency and reliability in embedded systems.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/04/nvidia-jetson-gets-fanless-solid-state-cooling-module/)
-
----
-
-### 6. Intel denies Arc desktop GPUs are going away 
-
-Intel denies plans to discontinue Arc desktop graphics cards, calling them a crucial part of their PC lineup.
-
-💡 *Arc GPUs remain a vital component of Intel's PC offerings.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112653-intel-denies-arc-desktop-gpus-going-away-but.html)
-
----
-
-### 7. Nvidia RTX 5000 Super series tipped for 2026 launch despite memory crisis 
-
-Nvidia RTX 5000 Super series is reportedly set for a 2026 launch, despite memory concerns.
-
-💡 *Potential new GPU release may alleviate existing graphics card shortages.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112665-rtx-5000-super-series-tipped-2026-launch-despite.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-is-reportedly-still-planning-fabled-rtx-50-super-series-for-2026-leak-claims-lineup-could-now-include-a-potential-rtx-5060-super-with-12gb-of-vram)
 
 ---
 
