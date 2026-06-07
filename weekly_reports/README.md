@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 06, 2026**
+**Week of June 07, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Acer MA200 1TB SSD Review: Good enough, and that s the point ⭐
-
-**📰 Tech News**
-
-The Acer MA200 is a reliable M.2 2230 NVMe SSD with balanced performance and power efficiency, suitable for general use. It may not be the fastest option available, but its efficiency makes it a good choice for everyday needs.
-
-💡 **Key Point:** Balanced performance and efficiency for everyday computing needs prevail.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/acer-ma200-1tb-ssd-review)
-
----
-
-### 2. Acer MA200 1TB SSD Review: Good enough, and that s the point ⭐
+### 1. Unreleased RTX 3050 Ti engineering sample appears in photos and benchmarks the RTX 3060 alternative that never happened ⭐
 
 **💻 Hardware**
 
-The Acer MA200 is a reliable M.2 2230 NVMe SSD with balanced performance and power efficiency, suitable for general use. It may not be the fastest option available, but its efficiency makes it a good choice for everyday needs.
+A leaked RTX 3050 Ti engineering sample has been photographed and benchmarked, showcasing Nvidia's unreleased desktop graphics card that was an alternative to the RTX 3060.
 
-💡 **Key Point:** Balanced performance and efficiency for everyday computing needs prevail.
+💡 **Key Point:** Provides insight into Nvidia's product development and cancelled designs
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/acer-ma200-1tb-ssd-review)
-
----
-
-### 3. Elegoo announces bizarre 3D printer collab with Emoji brand special edition Centauri Carbon 2 Combo is priced at $489 USD 
-
-**📰 Tech News**
-
-Elegoo collaborates with Emoji brand for a special edition Centauri Carbon 2 Combo 3D printer. The machine is priced at $489 USD. This marks a unique partnership between a 3D printing company and an emoji trademark holder.
-
-💡 **Key Point:** 3D printing enters the world of branded, consumer-friendly merchandise.
-
-🔗 [Read More](https://www.tomshardware.com/3d-printing/elegoo-announces-bizarre-3d-printer-collab-with-emoji-brand-special-edition-centauri-carbon-2-combo-is-priced-at-usd489-usd)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/unreleased-rtx-3050-ti-engineering-sample-appears-in-photos-and-benchmarks-the-rtx-3060-alternative-that-never-happened)
 
 ---
 
-### 4. Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites 
+### 2. AweSun Cloud KVM Q1 Review An ultra-compact, low-cost KVM over IP solution tested with Windows 11 and Android clients ⭐
 
-**📰 Tech News**
+**💻 Hardware**
 
-Starlink reaches 12 million subscribers and plans a significant bandwidth upgrade.
+AweSun Cloud KVM Q1 is an ultra-compact, low-cost KVM over IP solution reviewed with Windows 11 and Android clients. It features a compact design with a USB-C port for keyboard and mouse emulation, HDMI input for video, and Ethernet connectivity. The review explores its capabilities and performance with various targets.
 
-💡 **Key Point:** Massive bandwidth boost expected from new Starlink V3 satellite technology.
+💡 **Key Point:** Cost-effective remote access expands possibilities for IT and tech professionals.
 
-🔗 [Read More](https://www.techspot.com/news/112669-starlink-crosses-12-million-active-users-spacex-outlines.html)
+🔗 [Read More](https://www.cnx-software.com/2026/06/07/awesun-cloud-kvm-q1-review-an-ultra-compact-low-cost-kvm-over-ip-solution/)
 
 ---
 
-### 5. Valve confirms Steam Machine and Steam Frame are still shipping this summer 
+### 3. G.Skill explains how AMD EXPO ULL unlocks additional performance expanded profiles allow memory makers to include subtiming tweaks for the first time ⭐
 
-**📰 Tech News**
+**🎮 GPUs**
 
-Valve is expanding its Verified program to Steam Machine and Steam Frame, both shipping this summer.
+AMD's EXPO ULL program allows for lower memory latencies with one click, giving users a streamlined experience. This is an expansion of the existing EXPO profiles, enabling memory makers to include sub-timing tweaks for the first time. The goal is to improve overall system performance.
 
-💡 **Key Point:** Expanded Verified program enhances gaming experience on Steam devices.
+💡 **Key Point:** Faster memory access unlocks smoother gaming and productivity experiences always
 
-🔗 [Read More](https://www.techspot.com/news/112664-valve-confirms-steam-machine-steam-frame-shipping-summer.html)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ram/g-skill-explains-how-amd-expo-ull-unlocks-additional-performance-expanded-profiles-allow-memory-makers-to-include-subtiming-tweaks-for-the-first-time)
+
+---
+
+### 4. Unreleased RTX 3050 Ti engineering sample appears in photos and benchmarks the RTX 3060 alternative that never happened ⭐
+
+**🎮 GPUs**
+
+A leaked RTX 3050 Ti engineering sample has been photographed and benchmarked, showcasing Nvidia's unreleased desktop graphics card that was an alternative to the RTX 3060.
+
+💡 **Key Point:** Provides insight into Nvidia's product development and cancelled designs
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/unreleased-rtx-3050-ti-engineering-sample-appears-in-photos-and-benchmarks-the-rtx-3060-alternative-that-never-happened)
+
+---
+
+### 5. G.Skill explains how AMD EXPO ULL unlocks additional performance expanded profiles allow memory makers to include subtiming tweaks for the first time ⭐
+
+**🤖 AI & ML**
+
+AMD's EXPO ULL program allows for lower memory latencies with one click, giving users a streamlined experience. This is an expansion of the existing EXPO profiles, enabling memory makers to include sub-timing tweaks for the first time. The goal is to improve overall system performance.
+
+💡 **Key Point:** Faster memory access unlocks smoother gaming and productivity experiences always
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ram/g-skill-explains-how-amd-expo-ull-unlocks-additional-performance-expanded-profiles-allow-memory-makers-to-include-subtiming-tweaks-for-the-first-time)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **30 articles** across **5 focused categories**.
+We covered **27 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 13 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 2 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 5 | Computing hardware and development boards |
+| 🤖 [AI & ML](ai_and_ml.md) | 8 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 7 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 2 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
+| 📰 [Tech News](tech_news.md) | 5 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 13 articles
+*Artificial Intelligence and Machine Learning* — 8 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 2 articles
+*Graphics cards and compute accelerators* — 5 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 5 articles
+*Computing hardware and development boards* — 7 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
 *Chip manufacturing and design* — 2 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 8 articles
+*Industry news and product launches* — 5 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-06 at 10:33 by an autonomous AI curation system.
+Generated 2026-06-07 at 10:55 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

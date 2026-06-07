@@ -1,241 +1,189 @@
 [
   {
-    "title": "Finland deploys new system to detect threats to undersea cables distributed acoustic sensors measure vibrations from the seabed and informs the authorities and operators of suspicious activities",
-    "summary": "Finland deploys a system using undersea cables to detect seabed disturbances, enabling swift responses to potential threats.",
-    "link": "https://www.tomshardware.com/tech-industry/finland-deploys-new-system-to-detect-threats-to-undersea-cables-distributed-acoustic-sensors-measure-vibrations-from-the-seabed-and-informs-the-authorities-and-operators-of-suspicious-activities",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-06T10:32:24.665279",
-    "insight": "Protecting critical undersea infrastructure from sabotage and natural disasters is crucial."
-  },
-  {
-    "title": "Retro gaming enthusiast attempts loading games to Sega Genesis from a vinyl record player, recording game data as sound Mega EverDrive Pro and Pi Pico 2 board not enough to overcome limitations of the turntable",
-    "summary": "A retro gaming enthusiast tried to load Sega Genesis games from a vinyl record player. The attempt used a Mega EverDrive Pro and Pi Pico 2 board but failed. The project was hindered by turntable limitations.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/retro-gaming-enthusiast-attempts-loading-games-to-sega-genesis-from-a-vinyl-record-player-recording-game-data-as-sound-mega-everdrive-pro-and-pi-pico-2-board-not-enough-to-overcome-limitations-of-the-turntable",
+    "title": "Intel adds iGPU-less mobile chips to Core 200H lineup Raptor Lake-based Core 7 230H and Core 5 205H sport disabled graphics for small form factor desktop boards",
+    "summary": "Intel introduces two Raptor Lake CPUs in the Core 200H series with disabled iGPUs. The Core 7 230H and Core 5 205H are geared towards small form factor desktops. This move may appeal to users who prioritize performance over graphics capabilities.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-adds-igpu-less-mobile-chips-to-core-200h-lineup-raptor-lake-based-core-7-230h-and-core-5-205h-sport-disabled-graphics-for-small-form-factor-desktop-boards",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-06T10:32:24.665425",
-    "insight": "Vinyl record players lack precision for accurate digital data transfer."
+    "processed_date": "2026-06-07T10:55:20.048412",
+    "insight": "Intel adapts to SFF desktop market demands for performance-focused CPUs"
   },
   {
-    "title": "NSA using Claude Mythos for 'offensive cyber operations,' report claims says 'half-a-dozen' Anthropic engineers embedded inside the agency",
-    "summary": "The US National Security Agency allegedly utilizes Mythos for 'offensive cyber operations,' with Anthropic engineers embedded within the agency.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nsa-using-clause-mythos-for-offensive-cyber-operations-report-claims-says-half-a-dozen-anthropic-engineers-embedded-inside-the-agency",
+    "title": "AMD B650 expansion cards hit retail starting at $199 add four M.2 PCIe 4.0 slots and 11 USB ports to any PC with a PCIe slot",
+    "summary": "AMD B650 expansion cards hit retail, offering I/O expansion via Promontory 21 chipset. These cards add four M.2 PCIe 4.0 slots and eleven USB ports to PCs with a PCIe slot. This trend provides a cost-effective alternative to upgrading motherboards.",
+    "link": "https://www.tomshardware.com/pc-components/chipsets/amd-b650-expansion-cards-hit-retail-starting-at-usd199-add-four-m-2-pcie-4-0-slots-and-11-usb-ports-to-any-pc-with-a-pcie-slot",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-06T10:32:24.665574",
-    "insight": "NSA's use of AI for cyberattacks raises concerns about accountability and ethics."
+    "processed_date": "2026-06-07T10:55:20.048539",
+    "insight": "Cost-effective I/O expansion via add-in cards for AMD systems"
   },
   {
-    "title": "Intel will reportedly upgrade its Wildcat Lake refresh to an 8-core config next year, leak claims top-end silicon tipped to feature 4 P-cores and 4 LP-E cores as part of 'Core 400' series",
-    "summary": "Intel's Wildcat Lake refresh will focus on upmarket Core 5 and 7 tiers with an 8-core config, featuring 4 P-cores and 4 LP-E cores at the top-end. The Core 3 parts will remain unchanged. This refresh is expected to debut next year.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-will-reportedly-upgrade-its-wildcat-lake-refresh-to-an-8-core-config-next-year-leak-claims-top-end-silicon-tipped-to-feature-4-p-cores-and-4-lp-e-cores-as-part-of-core-400-series",
+    "title": "Gaming soundbar can be hijacked from over 16 yards away without touch or pairing the company allegedly refuses to label the blatant security flaw a cybersecurity risk",
+    "summary": "Rasmus Moorats demonstrated a security flaw in Creative's Sound Blaster Katana V2X, allowing hijacking over Bluetooth from 16 yards away without pairing or touch.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/creatives-sound-blaster-katana-v2x-can-be-hijacked-over-bluetooth",
     "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-07T10:55:20.048655",
+    "insight": "Bluetooth gaming device vulnerability compromises user data and privacy."
+  },
+  {
+    "title": "$6000 semi-truck gaming rig just got a massive upgrade cabin overhaul includes new racing bucket seat, pedals, and other accessories to level up their truck",
+    "summary": "A semi-truck gamer upgraded their rig with a new cabin overhaul, installing a racing bucket seat, pedals, and other accessories to enhance their gaming experience. The upgrade was done in collaboration with Conspit. This overhaul is expected to provide a more immersive gaming experience.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/usd6000-semi-truck-gaming-rig-just-got-a-massive-upgrade-cabin-overhaul-includes-new-racing-bucket-seat-pedals-and-other-accessories-to-level-up-their-truck",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-07T10:55:20.048779",
+    "insight": "Enhanced gaming experience through realistic truck simulator setup."
+  },
+  {
+    "title": "The Floppy Disk patent was granted today in 1972 when 80KB took up 8 inches and were really floppy",
+    "summary": "The patent application for the floppy disk was granted to IBM engineers in 1972, marking a significant innovation in data storage technology.",
+    "link": "https://www.tomshardware.com/pc-components/storage/the-floppy-disk-patent-was-granted-today-in-1972-when-80kb-took-up-8-inches-and-were-really-floppy",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-07T10:55:20.048868",
+    "insight": "Revolutionized data storage with flexible, portable, and user-friendly devices."
+  },
+  {
+    "title": "Prusa Research goes full spectrum in anticipation of INDX",
+    "summary": "Prusa Research introduces ColorMix engine for PrusaSlicer and EasyPrint, enabling full spectrum printing. This new feature allows users to print with a wide range of colors, improving design possibilities. The ColorMix engine is open-source, promoting community development and innovation.",
+    "link": "https://www.tomshardware.com/3d-printing/prusa-research-goes-full-spectrum-in-anticipation-of-indx",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-07T10:55:20.048957",
+    "insight": "Enhanced color options for 3D printing unlock creative possibilities."
+  },
+  {
+    "title": "Gigabyte Z890 Aorus Elite Wifi7 Plus Motherboard Review: Cost-conscious refresh board delivers (almost) all the fixens",
+    "summary": "The Gigabyte Z890 Aorus Elite Wifi7 Plus motherboard offers fast networking and storage at an affordable price of under $270.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890-aorus-elite-wifi7-plus-motherboard-review",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-07T10:55:20.049071",
+    "insight": "Cost-effective mainstream motherboard with robust features and performance."
+  },
+  {
+    "title": "Taiwanese startup FormulaV Line wants to break into US market with two new unique cases company expects products to become available on Newegg later this year",
+    "summary": "Taiwanese startup FormulaV Line enters US market with unique cases, other components at Computex 2026.",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/taiwanese-startup-formulav-line-wants-to-break-into-us-market-with-two-new-unique-cases-company-expects-products-to-become-available-on-newegg-later-this-year",
+    "categories": [
+      "Tech News",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-06T10:32:24.665735",
-    "insight": "Intel aims to boost performance for high-end Wildcat Lake users."
+    "processed_date": "2026-06-07T10:55:20.049199",
+    "insight": "Taiwanese company expands global presence in the gaming hardware market."
   },
   {
-    "title": "Acer MA200 1TB SSD Review: Good enough, and that s the point",
-    "summary": "The Acer MA200 is a reliable M.2 2230 NVMe SSD with balanced performance and power efficiency, suitable for general use. It may not be the fastest option available, but its efficiency makes it a good choice for everyday needs.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/acer-ma200-1tb-ssd-review",
+    "title": "G.Skill explains how AMD EXPO ULL unlocks additional performance expanded profiles allow memory makers to include subtiming tweaks for the first time",
+    "summary": "AMD's EXPO ULL program allows for lower memory latencies with one click, giving users a streamlined experience. This is an expansion of the existing EXPO profiles, enabling memory makers to include sub-timing tweaks for the first time. The goal is to improve overall system performance.",
+    "link": "https://www.tomshardware.com/pc-components/ram/g-skill-explains-how-amd-expo-ull-unlocks-additional-performance-expanded-profiles-allow-memory-makers-to-include-subtiming-tweaks-for-the-first-time",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-07T10:55:20.049318",
+    "insight": "Faster memory access unlocks smoother gaming and productivity experiences always"
+  },
+  {
+    "title": "Huawei-led team claims it post-trained DeepSeek's 1.6-trillion-parameter model 1,000 Ascend 910C chips used in training",
+    "summary": "Huawei-led research group completed post-training of DeepSeek's 1.6-trillion-parameter V4-Pro model.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-07T10:55:20.049438",
+    "insight": "Advances in model training efficiency and scalability are significant breakthroughs."
+  },
+  {
+    "title": "Unreleased RTX 3050 Ti engineering sample appears in photos and benchmarks the RTX 3060 alternative that never happened",
+    "summary": "A leaked RTX 3050 Ti engineering sample has been photographed and benchmarked, showcasing Nvidia's unreleased desktop graphics card that was an alternative to the RTX 3060.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/unreleased-rtx-3050-ti-engineering-sample-appears-in-photos-and-benchmarks-the-rtx-3060-alternative-that-never-happened",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-07T10:55:20.049546",
+    "insight": "Provides insight into Nvidia's product development and cancelled designs"
+  },
+  {
+    "title": "AweSun Cloud KVM Q1 Review An ultra-compact, low-cost KVM over IP solution tested with Windows 11 and Android clients",
+    "summary": "AweSun Cloud KVM Q1 is an ultra-compact, low-cost KVM over IP solution reviewed with Windows 11 and Android clients. It features a compact design with a USB-C port for keyboard and mouse emulation, HDMI input for video, and Ethernet connectivity. The review explores its capabilities and performance with various targets.",
+    "link": "https://www.cnx-software.com/2026/06/07/awesun-cloud-kvm-q1-review-an-ultra-compact-low-cost-kvm-over-ip-solution/",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 15,
-    "processed_date": "2026-06-06T10:32:24.665858",
-    "insight": "Balanced performance and efficiency for everyday computing needs prevail."
+    "processed_date": "2026-06-07T10:55:20.050143",
+    "insight": "Cost-effective remote access expands possibilities for IT and tech professionals."
   },
   {
-    "title": "Seattle to pass one-year AI data center moratorium next week will use window to study community impact of AI buildouts",
-    "summary": "Seattle city council committees pass one-year data center moratorium resolution, pending full council vote.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/seattle-to-pass-one-year-ai-data-center-moratorium-next-week-will-use-window-to-study-community-impact-of-ai-buildouts",
+    "title": "Anthropic is blacklisted by the Pentagon and being used by the NSA at the same time",
+    "summary": "Anthropic has embedded engineers within the NSA to guide AI model use. The engineers are working with Claude Mythos, a powerful AI model. They customize the model for specific applications.",
+    "link": "https://www.techspot.com/news/112677-nsa-using-anthropic-claude-mythos-offensive-cyber-ops.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-06T10:32:24.665986",
-    "insight": "Community impact of AI data center buildouts will be extensively studied."
+    "processed_date": "2026-06-07T10:55:20.051491",
+    "insight": "Government's reliance on private AI firms raises national security concerns"
   },
   {
-    "title": "Nvidia is reportedly still planning fabled RTX 50 Super series for 2026, leak claims lineup could now include a potential 'RTX 5060 Super' with 12GB of VRAM",
-    "summary": "Nvidia reportedly plans to revive the RTX 50 Super series for 2026, featuring a potential 'RTX 5060 Super' with 12GB of VRAM. This lineup had initially lost hype due to the AI boom and rising memory prices. The series is now allegedly back on track.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-is-reportedly-still-planning-fabled-rtx-50-super-series-for-2026-leak-claims-lineup-could-now-include-a-potential-rtx-5060-super-with-12gb-of-vram",
+    "title": "TeamGroup built an external SSD that destroys itself when you send it a text message",
+    "summary": "TeamGroup's T-Create Expert P35SG external SSD can self-destruct remotely via text message. This feature utilizes a 4G LTE connection for remote access. The drive can be accessed and destroyed even when not plugged into a computer.",
+    "link": "https://www.techspot.com/news/112673-teamgroup-built-external-ssd-destroys-itself-when-you.html",
     "categories": [
-      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-07T10:55:20.051605",
+    "insight": "Ransomware-proofing through self-destruction in high-stakes data protection scenarios"
+  },
+  {
+    "title": "Summer Game Fest 2026: Virtua Fighter is back, Guild Wars 3 is real, and Final Fantasy VII's trilogy is ending",
+    "summary": "Summer Game Fest revealed new game announcements, including Virtua Fighter's return and a Guild Wars 3 preview. The event also hinted at the conclusion of Final Fantasy VII's trilogy. Sony's State of Play preceded the festival.",
+    "link": "https://www.techspot.com/news/112674-summer-game-fest-2026-virtua-fighter-back-guild.html",
+    "categories": [
+      "Hardware",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-06-06T10:32:24.666143",
-    "insight": "Nvidia revives RTX 50 Super series amidst AI-driven memory price surge."
+    "quality_score": 10,
+    "processed_date": "2026-06-07T10:55:20.051711",
+    "insight": "Major gaming franchises make significant announcements and updates"
   },
   {
-    "title": "Valve says Steam Machine and Steam Frame 'shipping this summer' company confirms release window as it expands Verified program",
-    "summary": "Valve confirms Steam Machine and Steam Frame will ship this summer, expanding its Verified program.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/valve-says-steam-machine-and-steam-frame-shipping-this-summer-company-confirms-release-window-as-it-expands-verified-program",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-06T10:32:24.666282",
-    "insight": "Valve's gaming ecosystem expands its reach to living rooms and beyond."
-  },
-  {
-    "title": "Industry coalition urges Trump administration to take urgent action as AI data centers' extreme memory consumption threatens other industries AI-driven memory chip shortage could raise prices in automotive, medical, telecommunications sectors",
-    "summary": "A coalition of U.S. trade associations warns of an AI-driven memory chip shortage, which could raise costs for various industries and disrupt supply chains through 2027. The shortage is attributed to extreme memory consumption by AI data centers, leading to soaring DRAM prices. This shortage threatens the automotive, medical, and telecommunications sectors.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors",
+    "title": "Google tests making AI Mode the default in Search, then says it was an error",
+    "summary": "Google tested AI Mode as default in Chrome Canary, sparking concerns. A flag indicated AI Mode would fulfill search queries by default. However, Google later clarified it was an error.",
+    "link": "https://www.techspot.com/news/112676-google-tests-making-ai-mode-default-chrome-error.html",
     "categories": [
       "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-06T10:32:24.666430",
-    "insight": "AI data centers drive up DRAM prices, crippling industry supply."
-  },
-  {
-    "title": "Elegoo announces bizarre 3D printer collab with Emoji brand special edition Centauri Carbon 2 Combo is priced at $489 USD",
-    "summary": "Elegoo collaborates with Emoji brand for a special edition Centauri Carbon 2 Combo 3D printer. The machine is priced at $489 USD. This marks a unique partnership between a 3D printing company and an emoji trademark holder.",
-    "link": "https://www.tomshardware.com/3d-printing/elegoo-announces-bizarre-3d-printer-collab-with-emoji-brand-special-edition-centauri-carbon-2-combo-is-priced-at-usd489-usd",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-06T10:32:24.666579",
-    "insight": "3D printing enters the world of branded, consumer-friendly merchandise."
-  },
-  {
-    "title": "Docker for Microcontrollers? AkiraOS combines Zephyr RTOS with WebAssembly (WASM) applications",
-    "summary": "AkiraOS is an open-source embedded OS that runs sandboxed WebAssembly applications on microcontrollers, separating the OS from the application and enabling over-the-air updates without reflashing. This platform supports up to 8 apps, 2 concurrent runs, and a small footprint of 50KB to 200KB per app. It's similar to Docker containers, but for microcontrollers.",
-    "link": "https://www.cnx-software.com/2026/06/06/docker-for-microcontrollers-akiraos-combines-zephyr-rtos-with-webassembly-wasm-applications/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-06T10:32:24.667199",
-    "insight": "Separating OS and apps enables flexible, secure, and efficient updates."
-  },
-  {
-    "title": "The life and death of sensors crept in at this Sensors Converge workshop",
-    "summary": "The workshop was about sensors and AI for Industry 4.0, but went further.",
-    "link": "https://www.fiercesensors.com/sensors/life-and-death-sensors-crept-sensors-converge-workshop",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-06T10:32:24.668448"
-  },
-  {
-    "title": "At SC26, Murata and Hexagon show driver assistance tech updates",
-    "summary": "Murata and Hexagon unveiled driver assistance tech updates at SC26, prioritizing safety through engineering advances.",
-    "link": "https://www.fiercesensors.com/sensors/sc26-murata-and-hexagon-show-driver-assistance-tech-updates",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-06T10:32:24.668621",
-    "insight": "Improved ADAS safety drives innovation and technological advancements."
-  },
-  {
-    "title": "YouTube Premium just got more expensive again: now $16 a month, or $27 for families",
-    "summary": "YouTube Premium prices have increased by up to 2 dollars per month, with the individual plan now at $15.99 and the family plan at $26.99.",
-    "link": "https://www.techspot.com/news/112670-youtube-premium-gets-pricier-now-starts-16-individuals.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-06T10:32:24.668798",
-    "insight": "Premium subscribers face higher costs, potentially affecting user engagement and retention."
-  },
-  {
-    "title": "Brave is charging $60 for a version of its browser that removes the features you probably never wanted",
-    "summary": "Brave's 'Origin' package offers a premium web experience with a one-time $60 fee.",
-    "link": "https://www.techspot.com/news/112671-brave-charging-60-version-browser-removes-features-you.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-06T10:32:24.668975",
-    "insight": "Brave charges for removing features users probably didn't want."
-  },
-  {
-    "title": "Browser makers are calling out Microsoft for using Windows to push Edge on users",
-    "summary": "Browser makers are criticizing Microsoft for allegedly coercing users into using Edge over other browsers.",
-    "link": "https://www.techspot.com/news/112667-browser-coalition-accuses-microsoft-monopolistic-abuse-demands-change.html",
-    "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-06T10:32:24.669146",
-    "insight": "Browser choice freedom being threatened by Microsoft's aggressive marketing tactics."
-  },
-  {
-    "title": "Thermaltake built a PSU that splits in two, so you never have to redo cable management again",
-    "summary": "Thermaltake introduced the Dockpower PSUs, a revolutionary next-gen PSU architecture splitting in two, offering flexible cable management.",
-    "link": "https://www.techspot.com/news/112668-thermaltake-built-psu-splits-two-you-never-have.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-06T10:32:24.669314",
-    "insight": "Game-changing modular PSU design eliminates perpetual cable reorganization"
-  },
-  {
-    "title": "Starlink hits 12 million subscribers, plans 100x bandwidth boost with V3 satellites",
-    "summary": "Starlink reaches 12 million subscribers and plans a significant bandwidth upgrade.",
-    "link": "https://www.techspot.com/news/112669-starlink-crosses-12-million-active-users-spacex-outlines.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-06T10:32:24.669482",
-    "insight": "Massive bandwidth boost expected from new Starlink V3 satellite technology."
-  },
-  {
-    "title": "TSMC CEO says it will be \"a long time\" before they can meet AI chip demand, with price hikes likely",
-    "summary": "TSMC CEO warns of long wait times and price hikes due to strong AI chip demand.",
-    "link": "https://www.techspot.com/news/112666-tsmc-ceo-customer-demand-outstrip-supply-long-time.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-06T10:32:24.669674",
-    "insight": "AI chip shortage to persist due to insatiable customer demand."
-  },
-  {
-    "title": "Apple is doubling MacBook Neo production target, but keeping it at $599 may be the hard part",
-    "summary": "Apple has doubled its production targets for the MacBook Neo to 10 million units, despite supply chain challenges.",
-    "link": "https://www.techspot.com/news/112663-apple-doubling-macbook-neo-production-target-but-keeping.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-06T10:32:24.669847",
-    "insight": "Maintaining a $599 price point may be a significant production challenge."
-  },
-  {
-    "title": "Valve confirms Steam Machine and Steam Frame are still shipping this summer",
-    "summary": "Valve is expanding its Verified program to Steam Machine and Steam Frame, both shipping this summer.",
-    "link": "https://www.techspot.com/news/112664-valve-confirms-steam-machine-steam-frame-shipping-summer.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-06T10:32:24.670010",
-    "insight": "Expanded Verified program enhances gaming experience on Steam devices."
+    "processed_date": "2026-06-07T10:55:20.051806",
+    "insight": "AI Mode default setting raises concerns about search query transparency"
   }
 ]

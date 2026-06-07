@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of June 06, 2026**
+**Week of June 07, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,29 +7,29 @@
 
 ## 📊 Summary
 - **Articles this week:** 2
-- **Report generated:** 2026-06-06 10:33
+- **Report generated:** 2026-06-07 10:55
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Industry coalition urges Trump administration to take urgent action as AI data centers' extreme memory consumption threatens other industries AI-driven memory chip shortage could raise prices in automotive, medical, telecommunications sectors 
+### 1. Gigabyte Z890 Aorus Elite Wifi7 Plus Motherboard Review: Cost-conscious refresh board delivers (almost) all the fixens 
 
-A coalition of U.S. trade associations warns of an AI-driven memory chip shortage, which could raise costs for various industries and disrupt supply chains through 2027. The shortage is attributed to extreme memory consumption by AI data centers, leading to soaring DRAM prices. This shortage threatens the automotive, medical, and telecommunications sectors.
+The Gigabyte Z890 Aorus Elite Wifi7 Plus motherboard offers fast networking and storage at an affordable price of under $270.
 
-💡 *AI data centers drive up DRAM prices, crippling industry supply.*
+💡 *Cost-effective mainstream motherboard with robust features and performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890-aorus-elite-wifi7-plus-motherboard-review)
 
 ---
 
-### 2. TSMC CEO says it will be "a long time" before they can meet AI chip demand, with price hikes likely 
+### 2. Huawei-led team claims it post-trained DeepSeek's 1.6-trillion-parameter model 1,000 Ascend 910C chips used in training 
 
-TSMC CEO warns of long wait times and price hikes due to strong AI chip demand.
+Huawei-led research group completed post-training of DeepSeek's 1.6-trillion-parameter V4-Pro model.
 
-💡 *AI chip shortage to persist due to insatiable customer demand.*
+💡 *Advances in model training efficiency and scalability are significant breakthroughs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112666-tsmc-ceo-customer-demand-outstrip-supply-long-time.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips)
 
 ---
 
