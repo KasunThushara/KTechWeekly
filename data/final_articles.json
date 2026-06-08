@@ -1,189 +1,327 @@
 [
   {
-    "title": "Intel adds iGPU-less mobile chips to Core 200H lineup Raptor Lake-based Core 7 230H and Core 5 205H sport disabled graphics for small form factor desktop boards",
-    "summary": "Intel introduces two Raptor Lake CPUs in the Core 200H series with disabled iGPUs. The Core 7 230H and Core 5 205H are geared towards small form factor desktops. This move may appeal to users who prioritize performance over graphics capabilities.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-adds-igpu-less-mobile-chips-to-core-200h-lineup-raptor-lake-based-core-7-230h-and-core-5-205h-sport-disabled-graphics-for-small-form-factor-desktop-boards",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-07T10:55:20.048412",
-    "insight": "Intel adapts to SFF desktop market demands for performance-focused CPUs"
-  },
-  {
-    "title": "AMD B650 expansion cards hit retail starting at $199 add four M.2 PCIe 4.0 slots and 11 USB ports to any PC with a PCIe slot",
-    "summary": "AMD B650 expansion cards hit retail, offering I/O expansion via Promontory 21 chipset. These cards add four M.2 PCIe 4.0 slots and eleven USB ports to PCs with a PCIe slot. This trend provides a cost-effective alternative to upgrading motherboards.",
-    "link": "https://www.tomshardware.com/pc-components/chipsets/amd-b650-expansion-cards-hit-retail-starting-at-usd199-add-four-m-2-pcie-4-0-slots-and-11-usb-ports-to-any-pc-with-a-pcie-slot",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-07T10:55:20.048539",
-    "insight": "Cost-effective I/O expansion via add-in cards for AMD systems"
-  },
-  {
-    "title": "Gaming soundbar can be hijacked from over 16 yards away without touch or pairing the company allegedly refuses to label the blatant security flaw a cybersecurity risk",
-    "summary": "Rasmus Moorats demonstrated a security flaw in Creative's Sound Blaster Katana V2X, allowing hijacking over Bluetooth from 16 yards away without pairing or touch.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/creatives-sound-blaster-katana-v2x-can-be-hijacked-over-bluetooth",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-07T10:55:20.048655",
-    "insight": "Bluetooth gaming device vulnerability compromises user data and privacy."
-  },
-  {
-    "title": "$6000 semi-truck gaming rig just got a massive upgrade cabin overhaul includes new racing bucket seat, pedals, and other accessories to level up their truck",
-    "summary": "A semi-truck gamer upgraded their rig with a new cabin overhaul, installing a racing bucket seat, pedals, and other accessories to enhance their gaming experience. The upgrade was done in collaboration with Conspit. This overhaul is expected to provide a more immersive gaming experience.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/usd6000-semi-truck-gaming-rig-just-got-a-massive-upgrade-cabin-overhaul-includes-new-racing-bucket-seat-pedals-and-other-accessories-to-level-up-their-truck",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-07T10:55:20.048779",
-    "insight": "Enhanced gaming experience through realistic truck simulator setup."
-  },
-  {
-    "title": "The Floppy Disk patent was granted today in 1972 when 80KB took up 8 inches and were really floppy",
-    "summary": "The patent application for the floppy disk was granted to IBM engineers in 1972, marking a significant innovation in data storage technology.",
-    "link": "https://www.tomshardware.com/pc-components/storage/the-floppy-disk-patent-was-granted-today-in-1972-when-80kb-took-up-8-inches-and-were-really-floppy",
+    "title": "Four suspects identified in Finland undersea cable damage investigation criminal case referred to prosecutors for consideration of charges",
+    "summary": "Finland's National Bureau of Investigation has concluded its investigation into undersea cable damage. Four suspects have been identified, and the case has been referred to prosecutors for consideration of charges. This marks a significant step forward in the investigation.",
+    "link": "https://www.tomshardware.com/networking/finland-concludes-baltic-cable-sabotage-investigation-with-four-suspects-referred-to-prosecutors",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-06-07T10:55:20.048868",
-    "insight": "Revolutionized data storage with flexible, portable, and user-friendly devices."
-  },
-  {
-    "title": "Prusa Research goes full spectrum in anticipation of INDX",
-    "summary": "Prusa Research introduces ColorMix engine for PrusaSlicer and EasyPrint, enabling full spectrum printing. This new feature allows users to print with a wide range of colors, improving design possibilities. The ColorMix engine is open-source, promoting community development and innovation.",
-    "link": "https://www.tomshardware.com/3d-printing/prusa-research-goes-full-spectrum-in-anticipation-of-indx",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-07T10:55:20.048957",
-    "insight": "Enhanced color options for 3D printing unlock creative possibilities."
-  },
-  {
-    "title": "Gigabyte Z890 Aorus Elite Wifi7 Plus Motherboard Review: Cost-conscious refresh board delivers (almost) all the fixens",
-    "summary": "The Gigabyte Z890 Aorus Elite Wifi7 Plus motherboard offers fast networking and storage at an affordable price of under $270.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890-aorus-elite-wifi7-plus-motherboard-review",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-07T10:55:20.049071",
-    "insight": "Cost-effective mainstream motherboard with robust features and performance."
-  },
-  {
-    "title": "Taiwanese startup FormulaV Line wants to break into US market with two new unique cases company expects products to become available on Newegg later this year",
-    "summary": "Taiwanese startup FormulaV Line enters US market with unique cases, other components at Computex 2026.",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/taiwanese-startup-formulav-line-wants-to-break-into-us-market-with-two-new-unique-cases-company-expects-products-to-become-available-on-newegg-later-this-year",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-06-07T10:55:20.049199",
-    "insight": "Taiwanese company expands global presence in the gaming hardware market."
+    "processed_date": "2026-06-08T12:48:37.664690",
+    "insight": "International communication networks vulnerable to targeted attacks and sabotage."
   },
   {
-    "title": "G.Skill explains how AMD EXPO ULL unlocks additional performance expanded profiles allow memory makers to include subtiming tweaks for the first time",
-    "summary": "AMD's EXPO ULL program allows for lower memory latencies with one click, giving users a streamlined experience. This is an expansion of the existing EXPO profiles, enabling memory makers to include sub-timing tweaks for the first time. The goal is to improve overall system performance.",
-    "link": "https://www.tomshardware.com/pc-components/ram/g-skill-explains-how-amd-expo-ull-unlocks-additional-performance-expanded-profiles-allow-memory-makers-to-include-subtiming-tweaks-for-the-first-time",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-07T10:55:20.049318",
-    "insight": "Faster memory access unlocks smoother gaming and productivity experiences always"
-  },
-  {
-    "title": "Huawei-led team claims it post-trained DeepSeek's 1.6-trillion-parameter model 1,000 Ascend 910C chips used in training",
-    "summary": "Huawei-led research group completed post-training of DeepSeek's 1.6-trillion-parameter V4-Pro model.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-07T10:55:20.049438",
-    "insight": "Advances in model training efficiency and scalability are significant breakthroughs."
-  },
-  {
-    "title": "Unreleased RTX 3050 Ti engineering sample appears in photos and benchmarks the RTX 3060 alternative that never happened",
-    "summary": "A leaked RTX 3050 Ti engineering sample has been photographed and benchmarked, showcasing Nvidia's unreleased desktop graphics card that was an alternative to the RTX 3060.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/unreleased-rtx-3050-ti-engineering-sample-appears-in-photos-and-benchmarks-the-rtx-3060-alternative-that-never-happened",
+    "title": "Nvidia and SK hynix ink multi-year memory co-development and supply agreement seeks to address extended development cycles",
+    "summary": "Nvidia and SK hynix have formed a multi-year agreement to co-develop memory technologies. The collaboration aims to address extended development cycles in the memory industry. SK hynix will supply next-generation memory to Nvidia.",
+    "link": "https://www.tomshardware.com/pc-components/dram/nvidia-and-sk-hynix-ink-multi-year-memory-co-development-and-supply-agreement-seeks-to-address-extended-development-cycles",
     "categories": [
       "GPUs",
       "Hardware"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-06-07T10:55:20.049546",
-    "insight": "Provides insight into Nvidia's product development and cancelled designs"
+    "quality_score": 10,
+    "processed_date": "2026-06-08T12:48:37.664827",
+    "insight": "Accelerating memory innovation to meet growing demand for AI and gaming."
   },
   {
-    "title": "AweSun Cloud KVM Q1 Review An ultra-compact, low-cost KVM over IP solution tested with Windows 11 and Android clients",
-    "summary": "AweSun Cloud KVM Q1 is an ultra-compact, low-cost KVM over IP solution reviewed with Windows 11 and Android clients. It features a compact design with a USB-C port for keyboard and mouse emulation, HDMI input for video, and Ethernet connectivity. The review explores its capabilities and performance with various targets.",
-    "link": "https://www.cnx-software.com/2026/06/07/awesun-cloud-kvm-q1-review-an-ultra-compact-low-cost-kvm-over-ip-solution/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-07T10:55:20.050143",
-    "insight": "Cost-effective remote access expands possibilities for IT and tech professionals."
-  },
-  {
-    "title": "Anthropic is blacklisted by the Pentagon and being used by the NSA at the same time",
-    "summary": "Anthropic has embedded engineers within the NSA to guide AI model use. The engineers are working with Claude Mythos, a powerful AI model. They customize the model for specific applications.",
-    "link": "https://www.techspot.com/news/112677-nsa-using-anthropic-claude-mythos-offensive-cyber-ops.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-07T10:55:20.051491",
-    "insight": "Government's reliance on private AI firms raises national security concerns"
-  },
-  {
-    "title": "TeamGroup built an external SSD that destroys itself when you send it a text message",
-    "summary": "TeamGroup's T-Create Expert P35SG external SSD can self-destruct remotely via text message. This feature utilizes a 4G LTE connection for remote access. The drive can be accessed and destroyed even when not plugged into a computer.",
-    "link": "https://www.techspot.com/news/112673-teamgroup-built-external-ssd-destroys-itself-when-you.html",
+    "title": "Intel introduced the first processor in the x86 series and the first 8086 microprocessor on this day in 1978 CPU was designed as a temporary substitute for the delayed iAPX 432 project",
+    "summary": "Intel introduced the 8086 CPU on June 8, 1978, marking the beginning of the x86 architecture. This 16-bit processor was initially designed as a temporary substitute for the iAPX 432 project. It would eventually become the standard for personal computers.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-introduced-the-first-processor-in-the-x86-series-and-the-first-8086-microprocessor-on-this-day-in-1978-cpu-was-designed-as-a-temporary-substitute-for-the-delayed-iapx-432-project",
     "categories": [
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-06-07T10:55:20.051605",
-    "insight": "Ransomware-proofing through self-destruction in high-stakes data protection scenarios"
+    "quality_score": 10,
+    "processed_date": "2026-06-08T12:48:37.664935",
+    "insight": "Foundational architecture for modern personal computers was born unexpectedly"
   },
   {
-    "title": "Summer Game Fest 2026: Virtua Fighter is back, Guild Wars 3 is real, and Final Fantasy VII's trilogy is ending",
-    "summary": "Summer Game Fest revealed new game announcements, including Virtua Fighter's return and a Guild Wars 3 preview. The event also hinted at the conclusion of Final Fantasy VII's trilogy. Sony's State of Play preceded the festival.",
-    "link": "https://www.techspot.com/news/112674-summer-game-fest-2026-virtua-fighter-back-guild.html",
+    "title": "Executives are cutting jobs for an AI future that hasn't fully arrived yet, even as productivity gains remain difficult to prove data neither confirms nor refutes an AI unemployment apocalypse",
+    "summary": "CEOs expect AI-driven layoffs, but data shows complex picture emerging.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/executives-are-cutting-jobs-for-an-ai-future-that-hasnt-fully-arrived-yet-even-as-productivity-gains-remain-difficult-to-prove-data-neither-confirms-nor-refutes-an-ai-unemployment-apocalypse",
     "categories": [
-      "Hardware",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-07T10:55:20.051711",
-    "insight": "Major gaming franchises make significant announcements and updates"
+    "quality_score": 5,
+    "processed_date": "2026-06-08T12:48:37.665043",
+    "insight": "Productivity gains from AI remain difficult to prove and measure accurately."
   },
   {
-    "title": "Google tests making AI Mode the default in Search, then says it was an error",
-    "summary": "Google tested AI Mode as default in Chrome Canary, sparking concerns. A flag indicated AI Mode would fulfill search queries by default. However, Google later clarified it was an error.",
-    "link": "https://www.techspot.com/news/112676-google-tests-making-ai-mode-default-chrome-error.html",
+    "title": "MSI, Gigabyte debut new 5K 27-inch Mini-LED monitors with 2,304 dimming zones and glossy panel both models double the native 180 Hz refresh rate to 330 Hz at 1440p",
+    "summary": "MSI and Gigabyte have introduced 5K 27-inch Mini-LED monitors with 2,304 dimming zones and glossy panels, featuring high peak brightness, HDR support, and color accuracy suitable for professional work, along with higher refresh rates.",
+    "link": "https://www.tomshardware.com/monitors/msi-gigabyte-debut-new-5k-27-inch-mini-led-monitors-with-2-304-dimming-zones-and-glossy-panel-both-models-double-the-native-180-hz-refresh-rate-to-330-hz-at-1440p",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
+    "quality_score": 10,
+    "processed_date": "2026-06-08T12:48:37.665183",
+    "insight": "Industry-leading Mini-LED technology for enhanced visuals and HDR support."
+  },
+  {
+    "title": "Ukraine s birds adapt to battlefield environment, weaving nests out of drone fiber-optic cables resourceful wildlife adapts to miles of littered drone fibers",
+    "summary": "In Donbas, birds have adapted to their environment by using optical fiber from drone cables to build stronger, more resilient nests.",
+    "link": "https://www.tomshardware.com/networking/ukraines-birds-adapt-to-battlefield-environment-weaving-optical-fiber-nests-for-warmth-canny-feathered-friends-repurpose-scraps-of-this-spun-off-insulator-material",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
     "quality_score": 5,
-    "processed_date": "2026-06-07T10:55:20.051806",
-    "insight": "AI Mode default setting raises concerns about search query transparency"
+    "processed_date": "2026-06-08T12:48:37.665279",
+    "insight": "Resourceful wildlife adapts to human conflict, highlighting ecosystem resilience and adaptability."
+  },
+  {
+    "title": "AMD's RDNA 5 gaming GPUs are coming late next year, according to AIBs at Computex manufacturers expect new Team Red cards in the second half of 2027 alongside Nvidia",
+    "summary": "AMD's RDNA 5 GPUs expected to launch in 2H 2027 or 2028, competing with Nvidia RTX 60 series.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/amds-rdna-5-gaming-gpus-are-coming-late-next-year-according-to-aibs-at-computex-manufacturers-expect-new-team-red-cards-in-the-second-half-of-2027-alongside-nvidia",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-08T12:48:37.665391",
+    "insight": "Next-gen GPU showdown between AMD and Nvidia in the second half of 2027"
+  },
+  {
+    "title": "ASML becomes Europe's most valuable company ever as analysts bet on higher EUV output its market cap hit $674 billion this week",
+    "summary": "ASML reached a market cap of $668 billion on June 3rd, becoming Europe's most valuable company in history.",
+    "link": "https://www.tomshardware.com/tech-industry/asml-beocmes-europes-most-valuable-company-ever-as-analysts-bet-on-higher-euv-output",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-08T12:48:37.665488",
+    "insight": "ASML's EUV output drives market value and European economic influence."
+  },
+  {
+    "title": "RetroPad is a full-feature-parity version of Notepad from XP in just 2,749 bytes x86 assembly coded apps comes from Windows legend Dave W Plummer",
+    "summary": "A full-feature version of Notepad has been recreated in under 3KB using x86 assembly by Dave W Plummer, showcasing the efficiency of low-level programming.",
+    "link": "https://www.tomshardware.com/software/windows/retropad-is-a-full-feature-parity-version-of-notepad-from-xp-in-just-2-749-bytes-x86-assembly-coded-apps-comes-from-windows-legend-dave-w-plummer",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-08T12:48:37.665604",
+    "insight": "Tiny codebase achieves feature parity with Notepad using x86 assembly expertise."
+  },
+  {
+    "title": "Russia s new Starlink Style Rassvet fleet loses its first satellite after weeks Object 4 drops out of orbit but 15 others remain",
+    "summary": "Russia's Rassvet satellite network lost its first satellite, Object 4, after weeks in orbit.",
+    "link": "https://www.tomshardware.com/tech-industry/russias-rassvet-constellation-loses-its-first-satellite-to-orbital-decay",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-08T12:48:37.665701",
+    "insight": "Rassvet fleet's reliability is questioned early in its operational life cycle."
+  },
+  {
+    "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95 proves 2007 phones can just about match 1998 PCs",
+    "summary": "Argentine developer Dante Leoncini successfully runs Half-Life on a 2007 Nokia N95 at 30 FPS, demonstrating that early smartphones can rival 1998 gaming PCs in performance.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-08T12:48:37.665793",
+    "insight": "Rapid progress in mobile tech can bridge significant performance gaps quickly."
+  },
+  {
+    "title": "Elegoo Jupiter 2 Resin 3D Printer review: The giant returns for round two",
+    "summary": "Elegoo's Jupiter 2 resin 3D printer offers a large print area and high-quality 16K prints at an affordable price, making it a powerful option for hobbyists and professionals.",
+    "link": "https://www.tomshardware.com/3d-printing/elegoo-jupiter-2-resin-3d-printer-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-08T12:48:37.665886",
+    "insight": "High-quality resin printing at a budget-friendly price point."
+  },
+  {
+    "title": "AMD reaches almost 45% CPU share in the latest Steam Hardware Survey for Windows gaming PCs Ryzen is steadily gaining ground against Intel's legacy domination",
+    "summary": "AMD's CPU market share reaches 45% in the latest Steam Hardware Survey, surpassing Intel's 55% share. This marks a significant growth for AMD's Ryzen series, indicating a shift in the market towards AMD. The decline of Intel's market share suggests a changing landscape in Windows gaming PCs.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-reaches-almost-45-percent-cpu-share-in-the-latest-steam-hardware-survey-for-windows-gaming-pcs-ryzen-is-steadily-gaining-ground-against-intels-legacy-domination",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-08T12:48:37.665996",
+    "insight": "AMD's Ryzen series gains traction against Intel's declining dominance."
+  },
+  {
+    "title": "Ludicrous overclock slams 1.7 volts into 6700K in an attempt to stop CPU from bottlenecking an RTX 3080 5.2 GHz on aging four-core pushes GPU utilization from 60% to 74%",
+    "summary": "YouTuber attempts to alleviate CPU bottleneck by overclocking Core i7-6700K paired with RTX 3080, increasing GPU utilization from 60% to 74% by applying 1.7 volts at 5.2 GHz.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/youtube-slams-1-7-volts-into-6700k-in-an-attempt-to-stop-the-cpu-from-bottlenecking-an-rtx-3080-pushes-gpu-utilization-from-60-percent-to-74-percent",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-08T12:48:37.666098",
+    "insight": "Overclocking can mitigate CPU bottleneck limitations in GPU-intensive applications."
+  },
+  {
+    "title": "Mudi 7 (GL-E5800) 5G NR Wi-Fi 7 travel router supports up to 4.67 Gbps link rate",
+    "summary": "The Mudi 7 is a 5G NR Wi-Fi 7 travel router with advanced features and high-speed connectivity, including up to 4.67 Gbps downlink cellular speed and up to 5.76 Gbps WiFi link rate.",
+    "link": "https://www.cnx-software.com/2026/06/08/mudi-7-gl-e5800-5g-nr-wi-fi-7-travel-router-supports-up-to-4-67-gbps-link-rate/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-08T12:48:37.666631",
+    "insight": "Revolutionary wireless connectivity for high-speed mobile internet access anytime."
+  },
+  {
+    "title": "Armbian Imager 2.0 release supports over 300 boards from 64 SBC vendors, custom user profiles",
+    "summary": "Armbian Imager 2.0 is a GUI program for flashing pre-built images to over 300 boards from 64 SBC vendors. It features a new user interface and custom user profiles for a board's settings. This simplifies the setup process for single-board computers.",
+    "link": "https://www.cnx-software.com/2026/06/08/armbian-imager-2-0-release-supports-over-300-boards-from-64-sbc-vendors-custom-user-profiles/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-08T12:48:37.666795",
+    "insight": "Simplified setup for a broad range of single-board computers."
+  },
+  {
+    "title": "Qualcomm Dragonwing Mobile Broadband Multimedia (MBM) MBM715 and MBM 415 SoCs combine 5G, Wi-Fi, multimedia, and Edge AI",
+    "summary": "Qualcomm's Dragonwing MBM715 and MBM415 SoCs integrate 5G, Wi-Fi, and AI into a single platform, ideal for interactive broadband devices like smart displays, retail kiosks, and service terminals. The platforms combine connectivity, display, camera, and AI processing into one chip, eliminating the need for a separate processor. This enables fast connectivity and local processing in connected devices.",
+    "link": "https://www.cnx-software.com/2026/06/08/qualcomm-dragonwing-mobile-broadband-multimedia-mbm-mbm715-and-mbm-415-socs-combine-5g-wi-fi-multimedia-and-edge-ai/",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-08T12:48:37.666972",
+    "insight": "Integrated 5G, Wi-Fi, and AI enable seamless broadband experiences"
+  },
+  {
+    "title": "Best of Sensors: Teradar Summit clinches best of Auto & Mobile",
+    "summary": "Teradar Summit is a cutting-edge terahertz vision sensor for vehicles, providing unparalleled clarity and range. It has won the Best of Sensors award in the automotive category. This innovation enhances vehicle safety and performance.",
+    "link": "https://www.fiercesensors.com/ai/best-sensors-teradar-summit-clinches-best-auto-mobile",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-08T12:48:37.667996",
+    "insight": "Enhancing vehicle safety and performance with advanced terahertz vision."
+  },
+  {
+    "title": "Silex joins Nasdaq Stockholm as MEMS foundry seeks US fab",
+    "summary": "Silex, a Swedish MEMS foundry, has joined Nasdaq Stockholm in an IPO. The proceeds from the IPO could support Silex's plans to establish a US-based fabrication facility. This move marks a significant milestone for the 25-year-old company.",
+    "link": "https://www.fiercesensors.com/ai/silex-joins-nasdaq-stockholm-mems-foundry-seeks-us-fab",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-08T12:48:37.668357",
+    "insight": "Silex seeks US expansion with Nasdaq Stockholm IPO proceeds"
+  },
+  {
+    "title": " It s AI or die, keynoter warns sensor makers at SC26",
+    "summary": "On-device sensor-computers are redefining tech with sensing, thinking, and reasoning capabilities. Keynote speaker Kedia emphasizes the importance of this new paradigm. Sensor makers are warned to adapt or risk being left behind.",
+    "link": "https://www.fiercesensors.com/sensors/its-ai-or-die-keynoter-warns-sensor-makers-sc26",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-08T12:48:37.668498",
+    "insight": "Sensor makers must innovate or be replaced by AI-powered technologies."
+  },
+  {
+    "title": "2026 Best of Sensors winners announced at Sensors Converge",
+    "summary": "The best of Sensors Converge awards were announced at Questex's event, recognizing outstanding innovations in sensor technology.",
+    "link": "https://www.fiercesensors.com/sensors/2026-best-sensors-winners-announced-sensors-converge",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-08T12:48:37.668649",
+    "insight": "Advancements in sensor tech drive innovation and growth across industries worldwide."
+  },
+  {
+    "title": "Sensors Converge 26: smart glasses, robots, Edge AI predictions",
+    "summary": "The first full day of SC 26 in Santa Clara drew thousands of attendees. The exhibition floor featured various cutting-edge technologies, including smart glasses and robots. Edge AI predictions were also a major focus.",
+    "link": "https://www.fiercesensors.com/sensors/sensors-converge-26-smart-glasses-robots-edge-ai-predictions-embargo-8-et",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-08T12:48:37.668784",
+    "insight": "Emerging technologies converge to revolutionize industries and personal lives."
+  },
+  {
+    "title": "Gears of War: E-Day PC requirements are surprisingly forgiving, apart from the 130GB SSD demand",
+    "summary": "Gears of War: E-Day is a highly anticipated PC game launching on October 6, 2026, with Xbox and Game Pass Ultimate availability. The game skips a PlayStation release. A 130GB SSD storage requirement is the only notable PC demand.",
+    "link": "https://www.techspot.com/news/112683-gears-war-e-day-releases-october-6-trailer.html",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-08T12:48:37.668951",
+    "insight": "Forgiving PC requirements, except for massive SSD storage demand"
+  },
+  {
+    "title": "Microsoft just announced an Xbox 25th anniversary console and controller in translucent green",
+    "summary": "Microsoft introduced the Xbox 25th anniversary console and controller in translucent green. The console's performance matches the standard Series X. The design pays homage to the first-generation machine.",
+    "link": "https://www.techspot.com/news/112680-microsoft-announced-xbox-25th-anniversary-console-controller-translucent.html",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-08T12:48:37.669106",
+    "insight": "Reviving retro aesthetic for nostalgia and brand loyalty boost"
+  },
+  {
+    "title": "Birds in Ukraine are building nests from discarded drone fiber-optic cables",
+    "summary": "Birds in Ukraine are building nests from discarded drone fiber-optic cables. A Russian glide bomb knocked down a tree, causing the nest to roll out from shattered branches.",
+    "link": "https://www.techspot.com/news/112681-birds-ukraine-weaving-nests-discarded-drone-fiber-optic.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-08T12:48:37.669268",
+    "insight": "Adaptation to conflict enables nature's resilience in unexpected ways always."
+  },
+  {
+    "title": "In Hindsight: Tech Quotes That Got the Future Right and Wrong",
+    "summary": "Tech leaders' predictions often provide valuable insights, both accurate and humorous.",
+    "link": "https://www.techspot.com/article/3134-tech-predictions-and-quotes-v2/",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-08T12:48:37.669406",
+    "insight": "Historical tech quotes offer unique perspectives on innovation and progress."
+  },
+  {
+    "title": "AMD welcomes Nvidia to the local AI PC race, points to Gorgon Halo's 192GB memory advantage",
+    "summary": "AMD welcomes Nvidia's entry into local AI PC market, sees it as overdue. AMD's Strix Halo chips have been moving in this direction. The company is not rattled by Nvidia's arrival.",
+    "link": "https://www.techspot.com/news/112675-amd-welcomes-nvidia-local-ai-pc-race-points.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-08T12:48:37.669579",
+    "insight": "AMD's existing AI chip advantage is set to be challenged."
+  },
+  {
+    "title": "Signal, DuckDuckGo, and NordVPN threaten to exit Canada if metadata surveillance law passes",
+    "summary": "Canada's Bill C-22 may force tech companies like Signal and DuckDuckGo to leave the country if passed, as it requires them to retain user metadata for up to a year and grant authorities access to user data.",
+    "link": "https://www.techspot.com/news/112672-signal-duckduckgo-nordvpn-threaten-exit-canada-if-metadata.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-08T12:48:37.669754",
+    "insight": "Metadata retention erodes user trust and threatens global tech presence."
   }
 ]
