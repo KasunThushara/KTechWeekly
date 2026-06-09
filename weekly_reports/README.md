@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 08, 2026**
+**Week of June 09, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Microsoft just announced an Xbox 25th anniversary console and controller in translucent green ⭐
-
-**📰 Tech News**
-
-Microsoft introduced the Xbox 25th anniversary console and controller in translucent green. The console's performance matches the standard Series X. The design pays homage to the first-generation machine.
-
-💡 **Key Point:** Reviving retro aesthetic for nostalgia and brand loyalty boost
-
-🔗 [Read More](https://www.techspot.com/news/112680-microsoft-announced-xbox-25th-anniversary-console-controller-translucent.html)
-
----
-
-### 2. Microsoft just announced an Xbox 25th anniversary console and controller in translucent green ⭐
+### 1. Travlfi JourneyGo 5G mobile hotspot review Affordably priced, but lacking in performance and features ⭐
 
 **💻 Hardware**
 
-Microsoft introduced the Xbox 25th anniversary console and controller in translucent green. The console's performance matches the standard Series X. The design pays homage to the first-generation machine.
+The Travlfi JourneyGo 5G offers a budget-friendly option, but lacks performance and features.
 
-💡 **Key Point:** Reviving retro aesthetic for nostalgia and brand loyalty boost
+💡 **Key Point:** Affordability comes at the cost of performance and functionality.
 
-🔗 [Read More](https://www.techspot.com/news/112680-microsoft-announced-xbox-25th-anniversary-console-controller-translucent.html)
-
----
-
-### 3. MSI, Gigabyte debut new 5K 27-inch Mini-LED monitors with 2,304 dimming zones and glossy panel both models double the native 180 Hz refresh rate to 330 Hz at 1440p 
-
-**📰 Tech News**
-
-MSI and Gigabyte have introduced 5K 27-inch Mini-LED monitors with 2,304 dimming zones and glossy panels, featuring high peak brightness, HDR support, and color accuracy suitable for professional work, along with higher refresh rates.
-
-💡 **Key Point:** Industry-leading Mini-LED technology for enhanced visuals and HDR support.
-
-🔗 [Read More](https://www.tomshardware.com/monitors/msi-gigabyte-debut-new-5k-27-inch-mini-led-monitors-with-2-304-dimming-zones-and-glossy-panel-both-models-double-the-native-180-hz-refresh-rate-to-330-hz-at-1440p)
+🔗 [Read More](https://www.tomshardware.com/networking/routers/travlfi-journeygo-5g-mobile-hotspot-review)
 
 ---
 
-### 4. Developer gets Half-Life running at 30 FPS on a Nokia N95 proves 2007 phones can just about match 1998 PCs 
+### 2. Altera Agilex 9 Direct RF-Series AGRW039 SoC FPGA targets high-performance RF systems ⭐
 
-**📰 Tech News**
+**💻 Hardware**
 
-Argentine developer Dante Leoncini successfully runs Half-Life on a 2007 Nokia N95 at 30 FPS, demonstrating that early smartphones can rival 1998 gaming PCs in performance.
+The Altera Agilex 9 Direct RF-Series AGRW039 SoC FPGA is designed for high-performance Radio Frequency (RF) systems, offering increased logic, DSP resources, and a wideband RF. It integrates a quad-core Cortex-A53 processor and supports DDR5 and LPDDR5 memory. This SoC FPGA is suitable for aerospace, defense, and advanced communications systems.
 
-💡 **Key Point:** Rapid progress in mobile tech can bridge significant performance gaps quickly.
+💡 **Key Point:** Enables more efficient and powerful RF systems with increased processing capabilities.
 
-🔗 [Read More](https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95)
+🔗 [Read More](https://www.cnx-software.com/2026/06/09/altera-agilex-9-direct-rf-series-agrw039-soc-fpga-targets-high-performance-rf-systems/)
 
 ---
 
-### 5. Gears of War: E-Day PC requirements are surprisingly forgiving, apart from the 130GB SSD demand 
+### 3. GEEKOM A7 2026 Edition (AMD Ryzen 5 7545U) mini PC review Part 1: specifications, unboxing, teardown, and first boot ⭐
 
-**📰 Tech News**
+**💻 Hardware**
 
-Gears of War: E-Day is a highly anticipated PC game launching on October 6, 2026, with Xbox and Game Pass Ultimate availability. The game skips a PlayStation release. A 130GB SSD storage requirement is the only notable PC demand.
+GEEKOM A7 2026 Edition mini PC review covers specifications, unboxing, teardown, and first boot on Windows 11 Pro.
 
-💡 **Key Point:** Forgiving PC requirements, except for massive SSD storage demand
+💡 **Key Point:** Comparing affordable 2026 Edition to its pricier Ryzen 9 7940HS sibling matters.
 
-🔗 [Read More](https://www.techspot.com/news/112683-gears-war-e-day-releases-october-6-trailer.html)
+🔗 [Read More](https://www.cnx-software.com/2026/06/09/geekom-a7-2026-edition-amd-ryzen-5-7545u-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/)
+
+---
+
+### 4. AV2 promises 30% better compression than AV1 and costs nothing to use ⭐
+
+**💻 Hardware**
+
+AV2, a new video codec, offers 30% better compression than AV1 at no additional cost.
+
+💡 **Key Point:** Higher compression efficiency at no extra cost boosts industry adoption.
+
+🔗 [Read More](https://www.techspot.com/news/112690-av2-promises-30-better-compression-than-av1-costs.html)
+
+---
+
+### 5. Altera Agilex 9 Direct RF-Series AGRW039 SoC FPGA targets high-performance RF systems ⭐
+
+**🤖 AI & ML**
+
+The Altera Agilex 9 Direct RF-Series AGRW039 SoC FPGA is designed for high-performance Radio Frequency (RF) systems, offering increased logic, DSP resources, and a wideband RF. It integrates a quad-core Cortex-A53 processor and supports DDR5 and LPDDR5 memory. This SoC FPGA is suitable for aerospace, defense, and advanced communications systems.
+
+💡 **Key Point:** Enables more efficient and powerful RF systems with increased processing capabilities.
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/09/altera-agilex-9-direct-rf-series-agrw039-soc-fpga-targets-high-performance-rf-systems/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **45 articles** across **5 focused categories**.
+We covered **42 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 13 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
+| 🤖 [AI & ML](ai_and_ml.md) | 15 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
 | 💻 [Hardware](hardware.md) | 12 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
+| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 13 articles
+*Artificial Intelligence and Machine Learning* — 15 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 5 articles
+*Graphics cards and compute accelerators* — 3 articles
 
 ### 💻 [Hardware](hardware.md)
 *Computing hardware and development boards* — 12 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 7 articles
+*Chip manufacturing and design* — 6 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 8 articles
+*Industry news and product launches* — 6 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-08 at 12:49 by an autonomous AI curation system.
+Generated 2026-06-09 at 11:44 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
