@@ -1,5 +1,5 @@
 # 🤖 AI & ML
-**Week of June 09, 2026**
+**Week of June 10, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
@@ -7,159 +7,159 @@
 
 ## 📊 Summary
 - **Articles this week:** 15
-- **Report generated:** 2026-06-09 11:44
+- **Report generated:** 2026-06-10 11:59
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Altera Agilex 9 Direct RF-Series AGRW039 SoC FPGA targets high-performance RF systems ⭐
+### 1. Claude Fable 5 brings Mythos to the masses Anthropic's new frontier model is 'state-of-the-art on nearly all tested benchmarks' ⭐
 
-The Altera Agilex 9 Direct RF-Series AGRW039 SoC FPGA is designed for high-performance Radio Frequency (RF) systems, offering increased logic, DSP resources, and a wideband RF. It integrates a quad-core Cortex-A53 processor and supports DDR5 and LPDDR5 memory. This SoC FPGA is suitable for aerospace, defense, and advanced communications systems.
+Anthropic releases Fable 5, a public version of its Mythos model, deemed 'safe for general use'.
 
-💡 *Enables more efficient and powerful RF systems with increased processing capabilities.*
+💡 *Anthropic's Fable 5 model sets new benchmarks in AI capability and safety.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/09/altera-agilex-9-direct-rf-series-agrw039-soc-fpga-targets-high-performance-rf-systems/)
-
----
-
-### 2. Intel expands new game-boosting iBOT software with seven more games, up to a 27% improvement Team Blue claims 12% average jump in newly-supported titles 
-
-Intel expands its iBOT feature, adding seven new games for improved performance.
-
-💡 *Enhanced gaming experience with significant performance boosts*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-expands-new-game-boosting-ibot-software-with-seven-more-games-up-to-a-27-percent-improvement-team-blue-claims-12-percent-average-jump-in-newly-supported-titles)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-fable-5-brings-mythos-to-the-masses-anthropics-next-frontier-model-is-state-of-the-art-on-nearly-all-tested-benchmarks)
 
 ---
 
-### 3. Farmer donates land for a park, city sells it for data center development $10 gift became $10M for city government, with $30M tax expected over next decade 
+### 2. Anthropic's warning over AI self-improvement has a hidden message accelerating development requires more compute before companies ever risk losing control of frontier AI models ⭐
 
-Texas farmland donated in 1999 for a public park was sold to a data center developer for $10 million, with the city expecting a $30 million tax revenue over the next decade.
+Anthropic is reconsidering its powerful AI model, Mythos, due to concerns over self-improvement. This shift highlights the delicate balance between AI development and control. Companies must carefully manage AI advancements to prevent loss of control.
 
-💡 *City's land use policy shift generates significant tax revenue.*
+💡 *Accelerating AI requires more compute to prevent loss of control.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
-
----
-
-### 4. Linux developers are using AI vibe coding to keep vintage AMD GPUs alive R600 driver cleaned up with GitHub Copilot gives HD 2000 to HD 6000 series a new lease of life 
-
-Linux developers leverage AI to revive support for vintage AMD GPUs with the R600 driver update, giving a new lease of life to HD 2000 to HD 6000 series graphics cards.
-
-💡 *Reviving vintage GPUs extends their lifespan and reduces electronic waste.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-ai-self-improvement-could-end-in-lost-human-control)
 
 ---
 
-### 5. Levelplay shows off magnetically attached fans that are reversible, connect via pogo pins and USB-C plus an AIO that trades a screen for a big knob 
+### 3. OpenCV 5 release New DNN engine with enhanced ONNX and LLM/VLM support, Intel, Arm, and RISC-V hardware optimizations ⭐
 
-Levelplay showcased innovative cooling solutions, including reversibly attached fans and a unique AIO design with a tactile knob for fan control.
+OpenCV 5 introduces a new DNN engine with enhanced ONNX coverage, LLM/VLM support, and hardware optimizations for Intel, Arm, Qualcomm, and RISC-V.
 
-💡 *Reimagining cooling systems for improved usability and customization.*
+💡 *Broader ONNX model support enables more applications to run smoothly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cooling/levelplay-shows-off-magnetically-attached-fans-that-are-reversible-connect-via-pogo-pins-and-usb-c-plus-an-aio-that-trades-a-screen-for-a-big-knob)
-
----
-
-### 6. Chinese startup claims photonic chip production without DUV lithography, says nanoimprint process cuts costs by 90% 8-inch wafers produced without conventional optical lithography 
-
-Chinese startup Prinano achieves photonic chip production without DUV lithography using nanoimprint technology, reducing costs by 90%
-
-💡 *Revolutionary nanoimprint tech slashes photonic chip production costs dramatically worldwide*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/chinese-startup-claims-photonic-chip-production-without-duv-lithography-says-nanoimprint-process-cuts-costs-by-90-percent-8-inch-wafers-produced-without-conventional-optical-lithography)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/10/opencv-5-release-new-dnn-engine-with-enhanced-onnx-and-llm-vlm-support-intel-arm-and-risc-v-hardware-optimizations/)
 
 ---
 
-### 7. Apple demonstrates cross-platform Siri upgrades in macOS 27 Golden Gate at WWDC update brings Liquid Glass improvements and unifies AI strategy 
+### 4. Secretlab Atlas review: The one you ve been waiting for 
 
-Apple's macOS 27 Golden Gate update introduces refined Liquid Glass design and unified AI features, including cross-platform Siri upgrades.
+The Secretlab Atlas is a task chair emphasizing productivity and comfort.
 
-💡 *Unifying AI strategy enhances user experience across Apple devices.*
+💡 *Ergonomic design boosts focus and efficiency for professionals.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/macos/apple-demonstrates-cross-platform-siri-upgrades-in-macos-27-golden-gate-at-wwdc-update-brings-liquid-glass-improvements-and-unifies-ai-strategy)
-
----
-
-### 8. Most new U.S. AI data centers are being built in drought zones two-thirds of 809 planned projects set for areas with water shortages 
-
-Two-thirds of planned US data centers are built in drought zones, exacerbating water shortages. This poses significant challenges for cooling and water management. The trend may have long-term environmental implications.
-
-💡 *Drought-stricken areas struggle to support water-intensive AI infrastructure needs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/most-new-us-ai-data-centers-are-going-up-on-drought-land)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/secretlab-atlas-review)
 
 ---
 
-### 9. Demand for data center CPUs has surged, and AI agents are responsible why the CPU to GPU ratio is more important than ever for hyperscalers 
+### 5. Synaptics Astra SRW1500 Cortex-M52 Edge AI MCU features Ethos-U55 NPU, Wi-Fi 6/7, Bluetooth 6.0, 802.15.4 connectivity 
 
-The AI gold rush is driving a surge in demand for data center CPUs, causing a bottleneck. Industry experts attribute this to the increasing use of AI workloads and the need for more powerful processing capabilities. Hyperscalers must now focus on optimizing their CPU to GPU ratios to meet the growing demand.
+Synaptics' Astra SRW1500 is an AI-native Edge AI MCU for IoT devices, featuring a Cortex-M52 core, Ethos-U55 NPU, and Wi-Fi 6/7, Bluetooth 6.0, and 802.15.4 connectivity.
 
-💡 *Optimizing CPU to GPU ratios is crucial for AI workload efficiency.*
+💡 *Integrated AI, sensing, and wireless in a single chip reduces system costs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/demand-for-data-center-cpus-has-surged-and-ai-agents-are-responsible-why-the-cpu-to-gpu-ratio-is-more-important-than-ever-for-hyperscalers)
-
----
-
-### 10. Disgruntled ASML employees threaten to boycott Elon Musk conference appearance staff express ire at political involvement and 'Nazi sympathies' 
-
-ASML employees protest Elon Musk's invitation to their annual tech conference, citing his political involvement and alleged 'Nazi sympathies'. The employees threaten a boycott in response. The situation has sparked internal debate at the equipment maker.
-
-💡 *Employees rebel against Elon Musk's appearance over controversial views and politics*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/asml-staff-want-to-boycott-musk)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/10/synaptics-astra-srw1500-cortex-m52-edge-ai-mcu-features-ethos-u55-npu-wi-fi-6-7-bluetooth-6-0-802-15-4-connectivity/)
 
 ---
 
-### 11. A thief used a Waymo as a getaway car. Six months later, police still have no suspect 
+### 6. Analyzing TSMC's fab expansion roadmap multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks 
 
-A burglar used a Waymo robotaxi as a getaway vehicle after breaking into a yoga studio in San Francisco's Marina District. The thief entered, grabbed merchandise, and left within minutes. Six months later, no suspect has been identified.
+TSMC executes largest semiconductor expansion with AI-driven optimizations and CoWoS/SoIC expansion. Simultaneous multi-fab N2 ramps meet increasing AI accelerator demand. Massive packaging capacity supports growth.
 
-💡 *Unidentified suspect raises concerns about autonomous vehicle security and surveillance.*
+💡 *AI demand drives record semiconductor manufacturing expansion globally.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112689-thief-used-waymo-getaway-car-six-months-later.html)
-
----
-
-### 12. Apple iOS 27 brings long-awaited Siri AI overhaul, with daily usage limits unless you pay for iCloud+ 
-
-iOS 27 brings generative AI features and strengthens child-safety controls to Apple devices.
-
-💡 *Siri AI overhaul raises concerns about usage limits without iCloud+ subscription.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112693-year-apple-os-updates-revamp-siri-parental-controls.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/analyzing-tsmcs-fab-expansion-roadmap-multi-fab-n2-ramp-cowos-soic-and-uncorking-bottlenecks)
 
 ---
 
-### 13. Happy Birthday, Intel 8086: World's first x86 processor debuted exactly 48 years ago today 
+### 7. China drafts $295 billion plan to build national AI data center grid running on 80% homemade silicon projected 2028 timeline could run into limits of local chip production 
 
-The Intel 8086, a world's first x86 processor, debuted exactly 48 years ago. It was initially conceived as a stopgap due to delays in the iAPX 432. The 8086 was developed in just 18 months and supported demanding applications.
+China plans to invest $295 billion in nationwide AI data centers. The grid will be powered by 80% domestic silicon. The timeline aims to be completed by 2028.
 
-💡 *Pivotal shift in microprocessors led to widespread computational innovation.*
+💡 *Rapid AI expansion may strain local chip production capacity limits.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112687-happy-birthday-intel-8086-world-first-x86-processor.html)
-
----
-
-### 14. US microreactor achieves first self-sustaining nuclear chain reaction, targets 2028 deployment 
-
-US microreactor achieves a self-sustaining nuclear chain reaction, marking a historic milestone.
-
-💡 *Advances nuclear energy, potentially increasing carbon-free electricity production capacity.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112684-us-microreactor-achieves-self-sustaining-nuclear-chain-reaction.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-drafts-295-billion-plan-to-build-a-national-ai-data-center-grid-running-on-80-percent-domestic-chips)
 
 ---
 
-### 15. US government could take a stake in OpenAI as Trump explores AI equity plan 
+### 8. Elon Musk's first-gen orbital data center craft spans wider than a Boeing 747 and runs an interchangeable chip payload AI1 satellite compute payload is 120 kW, peaks at 150 kW 
 
-US government officials have discussed receiving shares in major AI firms, including OpenAI. This move is part of a potential AI equity plan being explored. The plan's details and implications are still unclear.
+Elon Musk unveiled the design of SpaceX's AI1 satellite, a massive data center in space with an interchangeable chip payload that can generate up to 150 kW of power, wider than a Boeing 747.
 
-💡 *Government equity in AI firms could influence tech industry direction*
+💡 *Revolutionizing space-based computing with massive, high-performance data center capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112685-us-government-could-take-stake-openai-trump-explores.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/spacex-details-its-ai1-compute-satellite)
+
+---
+
+### 9. SpaceX unveils 11-million-square-foot Gigasat factory, a new manufacturing facility for space-based data centers aims for 1 GW/year of space AI compute by late 2027 from its satellites 
+
+SpaceX unveils Gigasat factory, aiming to mass-produce AI satellites for orbital data centers, with plans to reach 1 GW of space AI compute by 2027 and 100 GW per year by 2030.
+
+💡 *Revolutionizing space-based data centers with massive AI compute capacity expansion.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/spacex-unveils-11-million-square-foot-gigasat-factory-a-new-manufacturing-facility-for-space-based-data-centers-aims-for-1-gw-year-of-space-ai-compute-by-late-2027-from-its-satellites)
+
+---
+
+### 10. Startup s miracle solid-state battery actually uses lithium-ion chemistry, according to third-party tests Donut Lab raised $25M and is valued at $1.25B on what now appear to be debunked claims 
+
+A Finnish startup, Donut Lab, made unsubstantiated claims about solid-state batteries. Independent tests revealed their battery uses lithium-ion chemistry, contradicting their initial statements. The startup's valuation and funding are now called into question.
+
+💡 *Debunked claims can significantly impact startup valuations and funding*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/startups-miracle-solid-state-battery-actually-uses-lithium-ion-chemistry-according-to-third-party-tests-donut-lab-raised-usd25m-and-is-valued-at-usd1-25b-on-what-now-appear-to-be-debunked-claims)
+
+---
+
+### 11. Elon Musk reveals SpaceX's 230-foot-wide orbital AI data center satellite ahead of record IPO 
+
+SpaceX unveils its AI data center satellite with 229.6-foot wingspan.
+
+💡 *Revolutionizing space-based data storage and AI computing capabilities emerge.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112710-elon-musk-reveals-spacex-230-foot-wide-orbital.html)
+
+---
+
+### 12. The AI boomerang effect: more data suggests employers are reversing AI layoffs 
+
+Companies are rehiring workers they previously replaced with AI, citing regret.
+
+💡 *AI layoffs may have unintended consequences on business operations.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112707-ai-boomerang-effect-more-data-suggests-employers-reversing.html)
+
+---
+
+### 13. iOS 27's most advanced on-device AI needs 12GB of RAM and most iPhones don't have it 
+
+iOS 27's advanced on-device AI requires 12GB of RAM, limiting compatible iPhones.
+
+💡 *Limited iPhone models support iOS 27's advanced AI features.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112702-ios-27-most-advanced-device-ai-needs-12gb.html)
+
+---
+
+### 14. PSA: Scammers are getting their fake shopping sites into ChatGPT's results 
+
+Scammers are creating fake shopping sites, including cloned versions of real stores, and these sites are appearing in AI-generated shopping results, such as those provided by ChatGPT. This allows scammers to potentially trick users into making purchases on fake sites. The issue affects not only the open web but also AI-generated answers.
+
+💡 *Scammers exploit AI's lack of human judgment to deceive users.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112698-psa-scammers-getting-their-fake-shopping-sites-chatgpt.html)
+
+---
+
+### 15. Sam Altman's other startup is laying off workers 
+
+Sam Altman's startup Tools for Humanity is laying off employees as part of a shift in strategy and operating priorities.
+
+💡 *Tech industry layoffs signal evolving business strategies and uncertain market conditions.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112701-sam-altman-eye-scanning-world-project-lays-off.html)
 
 ---
 

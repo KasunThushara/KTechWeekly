@@ -1,75 +1,85 @@
 # ⚡ Semiconductors
-**Week of June 09, 2026**
+**Week of June 10, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-06-09 11:44
+- **Articles this week:** 7
+- **Report generated:** 2026-06-10 11:59
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Travlfi JourneyGo 5G mobile hotspot review Affordably priced, but lacking in performance and features ⭐
+### 1. Synaptics Astra SRW1500 Cortex-M52 Edge AI MCU features Ethos-U55 NPU, Wi-Fi 6/7, Bluetooth 6.0, 802.15.4 connectivity 
 
-The Travlfi JourneyGo 5G offers a budget-friendly option, but lacks performance and features.
+Synaptics' Astra SRW1500 is an AI-native Edge AI MCU for IoT devices, featuring a Cortex-M52 core, Ethos-U55 NPU, and Wi-Fi 6/7, Bluetooth 6.0, and 802.15.4 connectivity.
 
-💡 *Affordability comes at the cost of performance and functionality.*
+💡 *Integrated AI, sensing, and wireless in a single chip reduces system costs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/travlfi-journeygo-5g-mobile-hotspot-review)
-
----
-
-### 2. GEEKOM A7 2026 Edition (AMD Ryzen 5 7545U) mini PC review Part 1: specifications, unboxing, teardown, and first boot ⭐
-
-GEEKOM A7 2026 Edition mini PC review covers specifications, unboxing, teardown, and first boot on Windows 11 Pro.
-
-💡 *Comparing affordable 2026 Edition to its pricier Ryzen 9 7940HS sibling matters.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/09/geekom-a7-2026-edition-amd-ryzen-5-7545u-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/10/synaptics-astra-srw1500-cortex-m52-edge-ai-mcu-features-ethos-u55-npu-wi-fi-6-7-bluetooth-6-0-802-15-4-connectivity/)
 
 ---
 
-### 3. Farmer donates land for a park, city sells it for data center development $10 gift became $10M for city government, with $30M tax expected over next decade 
+### 2. NanoPi M6V2 RK3588S SBC gains support for dual analog microphone input 
 
-Texas farmland donated in 1999 for a public park was sold to a data center developer for $10 million, with the city expecting a $30 million tax revenue over the next decade.
+The NanoPi M6V2, an updated version of the Rockchip RK3588S SBC, features a 4-pin connector for dual analog microphone input, fixed 8GB RAM, and updated button layouts.
 
-💡 *City's land use policy shift generates significant tax revenue.*
+💡 *Dual analog microphone support enhances audio capabilities for applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
-
----
-
-### 4. Chinese startup claims photonic chip production without DUV lithography, says nanoimprint process cuts costs by 90% 8-inch wafers produced without conventional optical lithography 
-
-Chinese startup Prinano achieves photonic chip production without DUV lithography using nanoimprint technology, reducing costs by 90%
-
-💡 *Revolutionary nanoimprint tech slashes photonic chip production costs dramatically worldwide*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/chinese-startup-claims-photonic-chip-production-without-duv-lithography-says-nanoimprint-process-cuts-costs-by-90-percent-8-inch-wafers-produced-without-conventional-optical-lithography)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/10/nanopi-m6v2-rk3588s-sbc-gains-support-for-dual-analog-microphone-input/)
 
 ---
 
-### 5. Disgruntled ASML employees threaten to boycott Elon Musk conference appearance staff express ire at political involvement and 'Nazi sympathies' 
+### 3. Analyzing TSMC's fab expansion roadmap multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks 
 
-ASML employees protest Elon Musk's invitation to their annual tech conference, citing his political involvement and alleged 'Nazi sympathies'. The employees threaten a boycott in response. The situation has sparked internal debate at the equipment maker.
+TSMC executes largest semiconductor expansion with AI-driven optimizations and CoWoS/SoIC expansion. Simultaneous multi-fab N2 ramps meet increasing AI accelerator demand. Massive packaging capacity supports growth.
 
-💡 *Employees rebel against Elon Musk's appearance over controversial views and politics*
+💡 *AI demand drives record semiconductor manufacturing expansion globally.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/asml-staff-want-to-boycott-musk)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/analyzing-tsmcs-fab-expansion-roadmap-multi-fab-n2-ramp-cowos-soic-and-uncorking-bottlenecks)
 
 ---
 
-### 6. US government could take a stake in OpenAI as Trump explores AI equity plan 
+### 4. China drafts $295 billion plan to build national AI data center grid running on 80% homemade silicon projected 2028 timeline could run into limits of local chip production 
 
-US government officials have discussed receiving shares in major AI firms, including OpenAI. This move is part of a potential AI equity plan being explored. The plan's details and implications are still unclear.
+China plans to invest $295 billion in nationwide AI data centers. The grid will be powered by 80% domestic silicon. The timeline aims to be completed by 2028.
 
-💡 *Government equity in AI firms could influence tech industry direction*
+💡 *Rapid AI expansion may strain local chip production capacity limits.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112685-us-government-could-take-stake-openai-trump-explores.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-drafts-295-billion-plan-to-build-a-national-ai-data-center-grid-running-on-80-percent-domestic-chips)
+
+---
+
+### 5. 3D-printed nozzles could revolutionize drug and self-healing material manufacturing MIT-developed triaxial electrospray design makes cleanroom fabrication optional 
+
+MIT has developed 3D-printed triaxial electrospray nozzles for drug and material manufacturing, eliminating the need for cleanrooms.
+
+💡 *Cost-effective nozzle fabrication transforms material manufacturing possibilities*
+
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/3d-printed-triaxial-electrospray-nozzles-could-revolutionize-drug-and-self-healing-material-manufacturing-mit-developed-technique-makes-cleanroom-fabrication-optional)
+
+---
+
+### 6. Elon Musk's first-gen orbital data center craft spans wider than a Boeing 747 and runs an interchangeable chip payload AI1 satellite compute payload is 120 kW, peaks at 150 kW 
+
+Elon Musk unveiled the design of SpaceX's AI1 satellite, a massive data center in space with an interchangeable chip payload that can generate up to 150 kW of power, wider than a Boeing 747.
+
+💡 *Revolutionizing space-based computing with massive, high-performance data center capabilities.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/spacex-details-its-ai1-compute-satellite)
+
+---
+
+### 7. SpaceX unveils 11-million-square-foot Gigasat factory, a new manufacturing facility for space-based data centers aims for 1 GW/year of space AI compute by late 2027 from its satellites 
+
+SpaceX unveils Gigasat factory, aiming to mass-produce AI satellites for orbital data centers, with plans to reach 1 GW of space AI compute by 2027 and 100 GW per year by 2030.
+
+💡 *Revolutionizing space-based data centers with massive AI compute capacity expansion.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/spacex-unveils-11-million-square-foot-gigasat-factory-a-new-manufacturing-facility-for-space-based-data-centers-aims-for-1-gw-year-of-space-ai-compute-by-late-2027-from-its-satellites)
 
 ---
 
