@@ -1,279 +1,343 @@
 [
   {
-    "title": "Analyzing TSMC's fab expansion roadmap multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks",
-    "summary": "TSMC is executing the largest manufacturing expansion in semiconductor industry history that combines simultaneous multi-fab N2 ramps, AI-driven manufacturing optimizations, and massive CoWoS/SoIC packaging capacity expansion to meet increasing demand for AI accelerators.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/analyzing-tsmcs-fab-expansion-roadmap-multi-fab-n2-ramp-cowos-soic-and-uncorking-bottlenecks",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.734096"
-  },
-  {
-    "title": "Grab an $800 saving on this RTX 5070 Ti gaming laptop from HP with customizable specs and a 20-core CPU base model costs just $1,999 for 16-inch rig with 16GB DDR5, with OLED costing just $60 extra",
-    "summary": "Save $800 on this customizable RTX 5070 Ti HP Omen Max 16 gaming laptop with 16GB DDR5, 1TB SSD, and a 16-inch display.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/grab-an-usd800-saving-on-this-rtx-5070-ti-gaming-laptop-from-hp-with-customizable-specs-and-a-20-core-cpu-base-model-costs-just-usd1-999-for-16-inch-rig-with-16gb-ddr5-with-oled-costing-just-usd60-extra",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.734277"
-  },
-  {
-    "title": "China drafts $295 billion plan to build national AI data center grid running on 80% homemade silicon projected 2028 timeline could run into limits of local chip production",
-    "summary": "China is drafting a plan to spend roughly 2 trillion yuan over five years on a nationwide grid of AI data centers.",
-    "link": "https://www.tomshardware.com/tech-industry/china-drafts-295-billion-plan-to-build-a-national-ai-data-center-grid-running-on-80-percent-domestic-chips",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.734411"
-  },
-  {
-    "title": "3D-printed nozzles could revolutionize drug and self-healing material manufacturing MIT-developed triaxial electrospray design makes cleanroom fabrication optional",
-    "summary": "MIT's 3D-printed triaxial electrospray nozzles could revolutionize drug and self-healing material manufacturing. By using a relatively inexpensive resin printing approach, the new nozzle fabrication technique removes the need for a semiconductor-class cleanroom facility.",
-    "link": "https://www.tomshardware.com/3d-printing/3d-printed-triaxial-electrospray-nozzles-could-revolutionize-drug-and-self-healing-material-manufacturing-mit-developed-technique-makes-cleanroom-fabrication-optional",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.734532"
-  },
-  {
-    "title": "Claude Fable 5 brings Mythos to the masses Anthropic's new frontier model is 'state-of-the-art on nearly all tested benchmarks'",
-    "summary": "After first announcing its scarily capable Mythos Preview model back in April, Anthropic is releasing a public version of Mythos, called Fable 5, that it says is \"safe for general use.\"",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-fable-5-brings-mythos-to-the-masses-anthropics-next-frontier-model-is-state-of-the-art-on-nearly-all-tested-benchmarks",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-10T11:58:25.734645"
-  },
-  {
-    "title": "Razer Seiren V3 Pro Review: USB, XLR, and 32-bit float",
-    "summary": "Razer's new Seiren V3 Pro is an end-address mic with both USB-C and XLR connectivity, and it also supports 32-bit float.",
-    "link": "https://www.tomshardware.com/peripherals/microphones/razer-seiren-v3-pro-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.734742"
-  },
-  {
-    "title": "Anthropic's warning over AI self-improvement has a hidden message accelerating development requires more compute before companies ever risk losing control of frontier AI models",
-    "summary": "The company that just a few weeks ago told us that its Mythos model was much too powerful to be released is now saying that we might need to hit the pause button.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-ai-self-improvement-could-end-in-lost-human-control",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-10T11:58:25.734854"
-  },
-  {
-    "title": "Secretlab Atlas review: The one you ve been waiting for",
-    "summary": "Secretlab has unveiled its new Atlas task chair with an emphasis on productivity.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/secretlab-atlas-review",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-10T11:58:25.734949"
-  },
-  {
-    "title": "Elon Musk's first-gen orbital data center craft spans wider than a Boeing 747 and runs an interchangeable chip payload AI1 satellite compute payload is 120 kW, peaks at 150 kW",
-    "summary": "Elon Musk laid out the first detailed design of SpaceX's AI1 satellite in a 30-minute video posted to the company's X account.",
-    "link": "https://www.tomshardware.com/tech-industry/spacex-details-its-ai1-compute-satellite",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.735065"
-  },
-  {
-    "title": "HVAC tech finds former AMD CEO Rory Read's PC in a customer's basement, signed by Lisa Su unused 2014 desktop had Bulldozer-era hardware inside and a wrapped Windows 8.1 CD",
-    "summary": "Someone on Reddit has stumbled upon former AMD CEO Rory Read's PC that might've been given to him as a parting gift. Read was AMD's CEO between 2011 and 2014. He helped AMD navigate the failure of Bulldozer while securing massive console contracts with Sony and Microsoft, and also began work on the Zen architecture that would eventually revive AMD.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/hvac-tech-finds-former-amd-ceo-rory-reads-pc-in-a-customers-basement-signed-by-lisa-su-unused-2014-desktop-had-bulldozer-era-hardware-inside-and-a-wrapped-windows-8-1-cd",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-10T11:58:25.735208"
-  },
-  {
-    "title": "SpaceX unveils 11-million-square-foot Gigasat factory, a new manufacturing facility for space-based data centers aims for 1 GW/year of space AI compute by late 2027 from its satellites",
-    "summary": "SpaceX's new Gigasat factory will mass-produce AI satellites for orbital data centers. Musk says the company is targeting 1 GW of space AI compute by 2027 and 100 GW per year by 2030.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/spacex-unveils-11-million-square-foot-gigasat-factory-a-new-manufacturing-facility-for-space-based-data-centers-aims-for-1-gw-year-of-space-ai-compute-by-late-2027-from-its-satellites",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.735324"
-  },
-  {
-    "title": "Startup s miracle solid-state battery actually uses lithium-ion chemistry, according to third-party tests Donut Lab raised $25M and is valued at $1.25B on what now appear to be debunked claims",
-    "summary": "A Finnish startup s startling claims to have a production-ready miracle solid-state battery have thoroughly collapsed under independent scrutiny.",
-    "link": "https://www.tomshardware.com/tech-industry/startups-miracle-solid-state-battery-actually-uses-lithium-ion-chemistry-according-to-third-party-tests-donut-lab-raised-usd25m-and-is-valued-at-usd1-25b-on-what-now-appear-to-be-debunked-claims",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.735432"
-  },
-  {
-    "title": "Synaptics Astra SRW1500 Cortex-M52 Edge AI MCU features Ethos-U55 NPU, Wi-Fi 6/7, Bluetooth 6.0, 802.15.4 connectivity",
-    "summary": "Synaptics has introduced the Astra SRW1500 Series of AI-native Edge AI MCUs designed for smart IoT edge devices. The family features an Arm Cortex-M52 core, an optional Arm Ethos-U55 Neural Processing Unit (NPU), and tri-band Wi-Fi 7 or Wi-Fi 6, Bluetooth 6.0 LE, and 802.15.4 connectivity, in a single package. It targets low-latency on-device AI workloads such as voice-trigger detection, sound-event classification, and AI-enhanced Wi-Fi sensing. The series currently comes in four variants offering different wireless and USB options. Since sensing, AI processing, and wireless connectivity are integrated into a single chip, this approach helps reduce system costs, simplify PCB design, and lower power consumption in devices such as smart home hubs, building automation systems, and home appliances. Synaptics SRW1500 Series specifications: CPU Arm Cortex-M52 application core up to 200 MHz with Arm Helium (MVE) vector extensions for DSP and ML Arm Cortex-R4 WiFi core with 960 KB SRAM and 1408 [...] The post Synaptics Astra SRW1500 Cortex-M52 Edge AI MCU features Ethos-U55 NPU, Wi-Fi 6/7, Bluetooth 6.0, 802.15.4 connectivity appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/10/synaptics-astra-srw1500-cortex-m52-edge-ai-mcu-features-ethos-u55-npu-wi-fi-6-7-bluetooth-6-0-802-15-4-connectivity/",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-10T11:58:25.735965"
-  },
-  {
-    "title": "NanoPi M6V2 RK3588S SBC gains support for dual analog microphone input",
-    "summary": "FriendlyELEC s NanoPi M6V2 is an update to the NanoPi M6 Rockchip RK3588S SBC, whose main change is a 4-pin connector for dual analog microphone input. The RAM is also now fixed to 8GB (no more 4GB, 16GB, or 32GB options), some buttons have changed, and the company has stopped offering an enclosure with a built-in 3.5-inch display. The rest of the specifications remain the same, with LPDDR5 memory, support for microSD, eMMC flash, or NVMe storage, HDMI 2.1 and MIPI DSI display interfaces, MIPI CSI camera inputs, Gigabit Ethernet and optional M.2 WiFi/Bluetooth connectivity, a few USB ports, and a 30-pin GPIO header. NanoPi M6V2 specifications: SoC Rockchip RK3588S CPU Octa-core processor with 4x Cortex-A76 cores @ up to 2.4 GHz, 4x Cortex-A55 cores @ up to 1.8 GHz GPU Arm Mali-G610 MP4 GPU compatible with OpenGL ES 3.2, OpenCL 2.2, and Vulkan 1.2 APIs VPU [...] The post NanoPi M6V2 RK3588S SBC gains support for dual analog microphone input appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/10/nanopi-m6v2-rk3588s-sbc-gains-support-for-dual-analog-microphone-input/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-10T11:58:25.736126"
-  },
-  {
-    "title": "OpenCV 5 release New DNN engine with enhanced ONNX and LLM/VLM support, Intel, Arm, and RISC-V hardware optimizations",
-    "summary": "OpenCV 5 open-source computer vision library has recently been released with a brand-new DNN (Deep Neural Network) engine that provides better ONNX coverage and enables LLM/VLM support. The fifth version of the popular CV library also adds support for Intel, Arm, Qualcomm, and RISC-V hardware acceleration, improved 3D vision, and various new core features such as new data types, real N-dimensional and scalar support, and performance improvements. OpenCV 5 s DNN Engine OpenCV 4.x supports about 22% of ONNX operators, and the new DNN engine in OpenCV 5 brings coverage to over 80%. That means models with dynamic shapes that used to fail on OpenCV 4.x, should now work, as the 5.x engine was rebuilt around a typed operation graph with proper shape inference, constant folding, and operator fusion. The table below shows the main difference between OpenCV 4.x and OpenCV 5 Since it s quite a big change, to make sure [...] The post OpenCV 5 release New DNN engine with enhanced ONNX and LLM/VLM support, Intel, Arm, and RISC-V hardware optimizations appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/10/opencv-5-release-new-dnn-engine-with-enhanced-onnx-and-llm-vlm-support-intel-arm-and-risc-v-hardware-optimizations/",
+    "title": "Gaming PC deflects bullet shot through wall by neighbour, saving owner's life criminal negligence charges for culprit who claims 'firearm was accidentally discharged by her dog'",
+    "summary": "A Redditor's powerful gaming PC just might have just saved their life after its splintered G.Skill RAM sticks diverted a bullet shot through the wall.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/gaming-pc-deflects-bullet-shot-through-wall-by-neighbour-saving-owners-life-criminal-negligence-charges-for-culprit-who-claims-firearm-was-accidentally-discharged-by-her-dog",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-06-10T11:58:25.736315"
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.855093"
   },
   {
-    "title": "Palantir system helps Florida hospital save 886 lives by spotting sepsis earlier",
-    "summary": "The system is estimated to have helped save 886 lives since August 2022. Sepsis is notoriously difficult to catch early. It can begin with small shifts in vital signs that do not immediately stand out slight increases in heart rate, minor temperature changes, subtle indicators that can easily be... Read Entire Article",
-    "link": "https://www.techspot.com/news/112709-palantir-system-helps-florida-hospital-save-886-lives.html",
+    "title": "AI is set to consume up to 600 billion gallons of water by 2030 rising energy consumption primarily to blame as data center power demands rise",
+    "summary": "Direct cooling data center GPUs uses only a fraction of the water required to keep them running, and with plans for future GPUs and rack systems to be even more power hungry, this problem could make data centers even more of a resource hog.",
+    "link": "https://www.tomshardware.com/tech-industry/ai-is-set-to-consume-up-to-600-billion-gallons-of-water-by-2030-rising-energy-consumption-primarily-to-blame-as-data-center-power-demands-rise",
     "categories": [
-      "Tech News"
+      "AI & ML",
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.737450"
+    "processed_date": "2026-06-11T12:31:16.855242"
   },
   {
-    "title": "Elon Musk reveals SpaceX's 230-foot-wide orbital AI data center satellite ahead of record IPO",
-    "summary": "SpaceX says the first-generation AI1 design is 20 meters tall (65.6 feet) and has a 70-meter (229.6-foot) deployed wingspan, making it wider than a Boeing 747-8. Read Entire Article",
-    "link": "https://www.techspot.com/news/112710-elon-musk-reveals-spacex-230-foot-wide-orbital.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.737563"
-  },
-  {
-    "title": "The AI boomerang effect: more data suggests employers are reversing AI layoffs",
-    "summary": "In some studies, roughly a third of companies that attempted to replace workers with AI have either rehired some of them or expressed regret over the decision. The figures add to a growing body of evidence that the true cost of implementing generative AI is catching businesses off guard. Read Entire Article",
-    "link": "https://www.techspot.com/news/112707-ai-boomerang-effect-more-data-suggests-employers-reversing.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.737673"
-  },
-  {
-    "title": "The Legend of Zelda: Ocarina of Time remake announced for Switch 2, due out later this year",
-    "summary": "The minute-and-a-half teaser doesn't show any actual gameplay, nor does it provide a launch window outside of 2026. We also don't know how much Nintendo is planning to charge for the game, although it's probably a safe bet to assume this will be a premium title with a matching price... Read Entire Article",
-    "link": "https://www.techspot.com/news/112705-legend-zelda-ocarina-time-remake-announced-switch-2.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-10T11:58:25.737781"
-  },
-  {
-    "title": "Windows 11 will soon have an option for removing web results from local search queries",
-    "summary": "During a recent meetup with Windows enthusiasts enrolled in the Windows Insiders program, Microsoft showcased several search-related changes that are expected to arrive in a future update to Windows. Redmond engineers are working on a set of relatively small features that could have a significant impact, starting with the ability... Read Entire Article",
-    "link": "https://www.techspot.com/news/112691-windows-11-soon-have-option-removing-web-results.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.737891"
-  },
-  {
-    "title": "iOS 27's most advanced on-device AI needs 12GB of RAM and most iPhones don't have it",
-    "summary": "According to Apple's press release, features such as Expressive Voices and enhanced dictation rely on a new on-device AI model that requires at least 12GB of system memory. As a result, only the iPhone 17 Pro, iPhone 17 Pro Max, and iPhone Air support all of the new generative AI features. Read Entire Article",
-    "link": "https://www.techspot.com/news/112702-ios-27-most-advanced-device-ai-needs-12gb.html",
+    "title": "Massive 8TB SD cards are set to ship 'shortly' after a two-year delay mind-blowing storage at possibly bank-breaking prices",
+    "summary": "Notebookcheck reports that 8TB SD cards will soon hit the retail market, although an exact launch date and pricing remain a mystery.",
+    "link": "https://www.tomshardware.com/pc-components/microsd-cards/8tb-sd-cards-are-set-to-ship-shortly-after-a-two-year-delay-mind-blowing-storage-at-possibly-bank-breaking-prices",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.738002"
+    "processed_date": "2026-06-11T12:31:16.855350"
   },
   {
-    "title": "PSA: Scammers are getting their fake shopping sites into ChatGPT's results",
-    "summary": "Scam-checking service Ask Silver says these fake sites aren't just appearing on the open web they're also showing up in AI-generated answers. The firm found that ChatGPT included links to cloned versions of both Russell & Bromley and home furnishings retailer Dunelm in its shopping results. Read Entire Article",
-    "link": "https://www.techspot.com/news/112698-psa-scammers-getting-their-fake-shopping-sites-chatgpt.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.738118"
-  },
-  {
-    "title": "Amazon just got a reprieve: it only has 331 Leo satellites instead of the 1,616 it needed by July",
-    "summary": "Amazon Leo, which was formerly known as Project Kuiper, was approved by the FCC in 2020 with conditions attached. Read Entire Article",
-    "link": "https://www.techspot.com/news/112703-amazon-gets-fcc-reprieve-satellite-internet-deadline-after.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.738283"
-  },
-  {
-    "title": "CPU-Z adds support for Panther Lake, Ryzen AI Max, and new memory form factors",
-    "summary": "CPU-Z 2.20.2 expands compatibility with upcoming Intel and AMD processors, including Panther Lake, Wildcat Lake, Bartlett Lake, Ryzen AI Max, and Ryzen Pro. The release also adds support for Intel Arc Pro B-series GPUs and new HUDIMM and HSODIMM memory. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/27-cpu-z.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.738412"
-  },
-  {
-    "title": "Sam Altman's other startup is laying off workers",
-    "summary": "Business Insider reports that employees were informed of the cuts in an internal email from the HR team on Monday. The memo said the company was making changes to some roles and teams as part of a shift in strategy and operating priorities. Tools for Humanity is expected to explain... Read Entire Article",
-    "link": "https://www.techspot.com/news/112701-sam-altman-eye-scanning-world-project-lays-off.html",
+    "title": "We tested 20 wall chargers, from cheap to expensive, to find the best from 15W to 140W, here are the chargers that perform the best without overheating and throttling",
+    "summary": "We tested the top 20 chargers on the market across different power segments to find out which models provide the most consistent power and the best charging experience without thermal throttling.",
+    "link": "https://www.tomshardware.com/peripherals/usb/we-tested-20-wall-chargers-from-cheap-to-expensive-to-see-what-we-would-find-from-15-140w-with-screens-and-without",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.738518"
+    "processed_date": "2026-06-11T12:31:16.855463"
   },
   {
-    "title": "Microsoft admits Game Pass price hike drove away \"millions\" of subscribers",
-    "summary": "Speaking during a Summer Game Fest interview with Game Business Live (via GameSpot), Microsoft's recently installed Xbox chief strategy officer, Matthew Ball, spoke about the impact of the Game Pass price hikes that were introduced last October. Read Entire Article",
-    "link": "https://www.techspot.com/news/112699-microsoft-admits-game-pass-price-hike-drove-away.html",
+    "title": "Louis Rossmann is suing Samsung after firm offers $330 refund for defective SSD while selling the drives on Amazon for $949 spat over 4TB 990 Pro SSD is headed to court",
+    "summary": "Right to Repair activist Louis Rossman threatens to sue Samsung after the SSD maker failed to replace his dead 990 Pro 4TB SSD under warranty.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/louis-rossman-threatens-to-take-samsung-to-court-over-dead-4tb-990-pro-ssd-after-ssd-maker-failed-to-replace-the-drive-under-warranty",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.855570"
+  },
+  {
+    "title": "Brad Paisley joins fight as zoo's dispute with AI data center escalates, petition tops 330,000 signatures Nashville weighs sweeping hyperscale ban",
+    "summary": "An ongoing fight over a proposed data center sited just 50 yards from Nashville Zoo has escalated further, with the zoo s land use attorney filing a zoning appeal to overturn permits already approved.",
+    "link": "https://www.tomshardware.com/tech-industry/nashville-considers-hyperscale-data-center-ban-as-zoo-dispute-escalates",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.855700"
+  },
+  {
+    "title": "Intel's upcoming Z970 and Z990 flagship chipsets will reportedly consume up to 14W at peak load, courtesy of more PCIe 5.0 support Nova Lake motherboards may feature a 22% smaller PCH than Z890",
+    "summary": "The Z990 PCH for Nova Lake motherboards is apparently 22% smaller than Z890, despite featuring a higher power maximum power draw of up to 14W. The leaked picture of the PCH shows a 11.15 x 6.5mm die and 25 x 24mm package, but we're unsure what motherboard it actually comes from.",
+    "link": "https://www.tomshardware.com/pc-components/chipsets/intels-upcoming-z790-and-z990-flagship-chipsets-will-reportedly-consume-up-to-14w-at-peak-load-courtesy-of-more-pcie-5-0-support-nova-lake-motherboards-may-feature-a-22-percent-smaller-pch-than-z890",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.855832"
+  },
+  {
+    "title": "AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance company shares first estimated EPYC Venice benchmarks",
+    "summary": "AMD has shared the first official results for its 256-core EPYC Venice CPU, saying it beats Nvidia's Vera by 3.3x in a rack-level deployment.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-fires-back-at-nvidia-claiming-256-core-zen-6-venice-cpu-beats-vera-by-3-3x-in-rack-level-performance-company-shares-first-estimated-epyc-venice-benchmarks",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-11T12:31:16.855947"
+  },
+  {
+    "title": "Google reportedly books Intel for packaging more than 3 million TPUs in 2028 SK hynix is testing Intel's EMIB packaging for HBM integration",
+    "summary": "Google has placed an order for Intel to build more than 3 million of its TPUs in 2028 after months of testing Intel's advanced packaging.",
+    "link": "https://www.tomshardware.com/tech-industry/google-reportedly-books-intel-for-more-than-3-million-tpus-in-2028",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-10T11:58:25.738651"
+    "processed_date": "2026-06-11T12:31:16.856048"
+  },
+  {
+    "title": "Samsung Heavy Industries recruits Greek shipowner and Supermicro to bring 50MW floating AI data centers to market can be powered by solid oxide fuel cells running on liquefied natural gas",
+    "summary": "Besides Samsung Heavy, Japan s MOL is also building a 73 MW floating data center with Karpowership for a 2027 deployment.",
+    "link": "https://www.tomshardware.com/tech-industry/samsung-heavy-industries-recruits-greek-shipowner-and-supermicro-to-bring-50mw-floating-ai-data-centers-to-market",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.856151"
+  },
+  {
+    "title": "Valve to discontinue physical Steam gift cards by the end of 2026 due to scammers says nefarious actors continue to exploit them despite years of restrictions",
+    "summary": "Physical Steam gift cards will no longer be restocked at retail stores, though digital gifting options and existing cards will remain supported.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/valve-to-discontinue-physical-steam-gift-cards-by-the-end-of-2026-due-to-scammers-says-nefarious-actors-continue-to-exploit-them-despite-years-of-restrictions",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.856252"
+  },
+  {
+    "title": "Overenthusiastic GTA 6 fan claims to be monitoring oxygen levels, acoustic noise from the bushes at Rockstar North HQ promises trailer 3 launch is imminent based on heightened activity",
+    "summary": "Either a dedicated jokester or a deranged fan has been posting advanced surveillance on Reddit in an attempt to predict the next GTA 6 trailer.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/overenthusiastic-gta-6-fan-claims-to-be-monitoring-oxygen-levels-acoustic-noise-from-the-bushes-at-rockstar-north-hq-promises-trailer-3-launch-is-imminent-based-on-heightened-activity",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.856357"
+  },
+  {
+    "title": "Bare-metal MSX2+ Emulator for ESP32-S3 offers custom LCD_CAM VGA implementation & Z80 optimizations",
+    "summary": "Ivan Svarkovsky s S3-MSX-PC open-source project implements a bare-metal MSX2+ emulator running on an ESP32-S3 microcontroller and outputting 64-color VGA via a simple R-2R resistor ladder. It s a fork of the Retro-Go emulator for ODROID-GO and other ESP32 devices, but with various optimizations. It was tested on an off-the-shelf ESP32-S3 board with one core handling the game logic and the other video and audio output. VGA is implemented through a clever resistor network that converts digital data into an analog signal that any old monitor understands, while audio relies on Sigma-Delta modulation with a multi-stage PDM filter. The USB host port on the board allows for the connection of a keyboard. S3-MSX-PC firmware highlights: Emulation Core fMSX 6.0 Full MSX1 / MSX2 / MSX2+ support Video Output VGA 640 480@60Hz, 16-bit parallel RGB via LCD_CAM Color Depth 64 colors (2 bits per channel: R, G, B) Audio PDM Stereo [...] The post Bare-metal MSX2+ Emulator for ESP32-S3 offers custom LCD_CAM VGA implementation & Z80 optimizations appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/11/bare-metal-msx2-emulator-for-esp32-s3-offers-custom-lcd_cam-vga-implementation-z80-optimizations/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.856878"
+  },
+  {
+    "title": "piBrick PocketCM5 An open-source handheld Linux computer kit for Raspberry Pi CM5",
+    "summary": "Designed by Indonesian maker Ahmad Amarullah (amarullz), the piBrick PocketCM5 is an open-source hardware handheld Linux computer kit built around the Raspberry Pi CM5; it s basically a smartphone-sized Linux machine with a physical keyboard and touchscreen. It is for developers, makers, and system administrators, for tasks such as general experimentation, embedded development, and remote access. We have seen other handheld terminals and pocket computers based on Raspberry Pi SBCs and Compute Modules over the years, such as the PocketTerm35, DevTerm, Carbon s CyberT, Pi Slate, and many others. However, the piBrick PocketCM5 is based on the latest Raspberry Pi CM5 and features a 3.92-inch AMOLED touchscreen display, a physical BlackBerry QWERTY keyboard, and various expansion options. piBrick PocketCM5 specifications: Compatibility Raspberry Pi Compute Module 5 (CM5 and CM5 Lite) Auxiliary MCU Raspberry Pi RP2040 for keyboard/trackpad input, rotary encoders and buttons, USB HID (keyboard/mouse) emulation, and accelerometer data processing Storage [...] The post piBrick PocketCM5 An open-source handheld Linux computer kit for Raspberry Pi CM5 appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/11/pibrick-pocketcm5-an-open-source-handheld-linux-computer-kit-for-raspberry-pi-cm5/",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-11T12:31:16.857048"
+  },
+  {
+    "title": "PZSDR P047 RF-ADC and RF-DAC high-end SDR board is based on AMD Zynq UltraScale+ ZU47DR RFSoC (Crowdfunding)",
+    "summary": "PZSDR P047 RF-ADC and RF-DAC software-defined radio (SDR) board is based on AMD Zynq UltraScale+ ZU47DR RFSoC with a quad-core Cortex-A53 processor, a dual-core Cortex-R5F real-time CPU, FPGA fabric, eight RF ADCs, and eight RF DACs. The board features 6GB of DDR4 memory (4GB for PS, 2GB for PL), 8 GB eMMC flash, and 512 Mbit QSPI flash, plus microSD card and M.2 NVMe sockets for storage, a mini DP video output, a Gigabit Ethernet RJ45 port, two 100 Gbps QSFP28 cages, a USB 3.0 port, plus JTAG and serial debug interfaces, and a 32-pin IO header. It makes use of all RF channels of the RFSoC with 8 receiver and 8 transmitter connectors, plus various clock inputs. The company says the PZSDR P047 is ideal for advanced MIMO wireless applications such as cellular and shortwave communication. PZSDR P047 RF-ADC and RF-DAC specifications: SoC FPGA AMD Xilinx Zynq UltraScale+ [...] The post PZSDR P047 RF-ADC and RF-DAC high-end SDR board is based on AMD Zynq UltraScale+ ZU47DR RFSoC (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/11/pzsdr-p047-rf-adc-and-rf-dac-high-end-sdr-board-is-based-on-amd-zynq-ultrascale-zu47dr-rfsoc/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-11T12:31:16.857209"
+  },
+  {
+    "title": "Best of Sensors: Aizip and Asahi Kasei win in wearables",
+    "summary": "AI Gesture Recognition is a wearable that turns subtle muscle electrical signals at the wrist into reliable, intuitive input commands. It won Best of Sensors 2026 in the healthcare and wearable category.",
+    "link": "https://www.fiercesensors.com/ai/best-sensors-aizip-and-asahi-kasei-win-wearable",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.858152"
+  },
+  {
+    "title": "California tests smart freeway that could make drivers wait four minutes to merge",
+    "summary": "The Riverside County Transportation Commission launched the smart freeway on an eight-mile stretch of the northbound lanes of Interstate 15 in Temecula on June 1. Read Entire Article",
+    "link": "https://www.techspot.com/news/112730-california-tests-smart-freeway-could-make-drivers-wait.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-11T12:31:16.858434"
+  },
+  {
+    "title": "GM just updated 250,000 EVs to sell power back to the grid",
+    "summary": "GM has already put the basics in place. Roughly 250,000 of its electric vehicles on US roads can perform bidirectional charging power can flow into the battery and back out again. That has mostly meant keeping the lights on at home during an outage. Now GM is trying to... Read Entire Article",
+    "link": "https://www.techspot.com/news/112718-gm-updated-250000-evs-sell-power-back-grid.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.858540"
+  },
+  {
+    "title": "Canada introduces social media ban for under-16s, but platforms could avoid it",
+    "summary": "Bill C-34, also known as the Safe Social Media Act, would make social media services and some AI chatbot providers responsible for protecting children from online harms. The Canadian government says the aim is to shift the burden away from parents and onto companies designing platforms that keep young users... Read Entire Article",
+    "link": "https://www.techspot.com/news/112728-canada-introduces-social-media-ban-under-16s-but.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.858652"
+  },
+  {
+    "title": "The Best Laptops of 2026: A Disruptive Mac, a Windows Comeback, and an Nvidia Wildcard",
+    "summary": "The first half of 2026 has been defined by a memory shortage that pushed laptop prices sharply higher and by a $599 Apple laptop that somehow defied all of it. Read Entire Article",
+    "link": "https://www.techspot.com/bestof/laptops-26/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.858791"
+  },
+  {
+    "title": "AMD claims next-gen Zen 6 server CPU will deliver 330% of Nvidia Vera's performance per rack",
+    "summary": "AMD recently published performance projections claiming its upcoming server CPU platform will dramatically outpace Nvidia's latest showing. AMD's estimates directly reference earlier results from controlled benchmarks that had favored Nvidia's processor. Read Entire Article",
+    "link": "https://www.techspot.com/news/112724-amd-claims-next-gen-zen-6-server-cpu.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-11T12:31:16.858904"
+  },
+  {
+    "title": "Windows Ready Print is Microsoft's biggest overhaul of Windows printing in years",
+    "summary": "Microsoft recently introduced Windows Ready Print, a new printing model designed to \"evolve\" the company's previous Modern Print Platform. The core idea behind the model is to align printing devices and the Windows ecosystem with up-to-date communication standards, including Internet Printing Protocol (IPP), eSCL scanning, and Universal Print. Read Entire Article",
+    "link": "https://www.techspot.com/news/112720-windows-ready-print-microsoft-most-ambitious-attempt-modernize.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.859017"
+  },
+  {
+    "title": "Logitech's new Mobi Fold mouse folds flat for travel",
+    "summary": "The Mobi Fold is a compact wireless mouse designed to fold flat when not in use. Early impressions are positive for its surprisingly comfortable shape, quiet clicks, and multi-device Bluetooth support. Read Entire Article",
+    "link": "https://www.techspot.com/products/mice/logitech-mobi-fold.325793/",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.859116"
+  },
+  {
+    "title": "A developer ported Half-Life to a Nokia N95, and it runs at 30fps with Bluetooth keyboard support",
+    "summary": "Developer Dante Leoncini recently shared his latest coding and modding effort. The Argentinian programmer ported Half-Life to Symbian S60v3, making Valve's FPS compatible with the Nokia N95 smartphone. The Symbian OS device was originally released in 2007, while Half-Life debuted in 1998 for PC. Thanks to modern open-source engines and... Read Entire Article",
+    "link": "https://www.techspot.com/news/112706-developer-ported-half-life-nokia-n95-runs-30fps.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-11T12:31:16.859231"
+  },
+  {
+    "title": "This soundbar can be hijacked over Bluetooth to control your computer, no pairing required",
+    "summary": "That scenario comes from research into Creative Technology's Sound Blaster Katana V2X, a midrange soundbar that connects to PCs, Macs, and Linux systems over USB or Bluetooth. Researcher Rasmus Moorats uncovered the issue while experimenting with ways to communicate with the device from Linux. What he discovered went far beyond... Read Entire Article",
+    "link": "https://www.techspot.com/news/112715-bluetooth-bug-turns-gaming-soundbar-attack-tool.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-11T12:31:16.859345"
+  },
+  {
+    "title": "A one-of-a-kind AMD PC signed by Lisa Su was sitting unopened in a basement for a decade",
+    "summary": "According to Redditor gazicoldfur, the unique piece of tech memorabilia was discovered in someone's basement while he was there to work on their HVAC system. The PC, believed to have been given to former AMD CEO Rory Read as a retirement gift in 2014, is signed by several of his... Read Entire Article",
+    "link": "https://www.techspot.com/news/112716-unused-pc-bearing-lisa-su-signature-former-amd.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.859454"
+  },
+  {
+    "title": "GPU-Z remains the go-to tool for detailed graphics card info",
+    "summary": "GPU-Z delivers a clean, no-install snapshot at key GPU information, including clocks, memory, sensors, BIOS, and driver data. It supports Nvidia, AMD, and Intel GPUs, making it a handy tool for verifying specs, monitoring behavior, or troubleshooting a system without extra bloat. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/4452-gpu-z.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.859559"
+  },
+  {
+    "title": "Experts say Donut Lab's \"breakthrough\" solid-state battery is just ordinary lithium-ion",
+    "summary": "The conclusion doesn't rest on speculation or anonymous sources. Instead, it comes down to how the battery behaves under testing. Data from Finland's VTT, including voltage curves and expansion measurements, consistently points to lithium-ion chemistry rather than the sodium-ion solid-state design the company claimed. Read Entire Article",
+    "link": "https://www.techspot.com/news/112713-battery-experts-donut-lab-breakthrough-battery-looks-like.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-11T12:31:16.859687"
+  },
+  {
+    "title": "YouTuber says he will sue Samsung for dodging 990 Pro SSD warranty replacement amid memory crisis",
+    "summary": "Rossmann says he bought the Samsung 990 Pro 4TB from Best Buy less than two years ago for around $330. The drive was being used with a heatsink and two 80mm fans above it, and was part of a RAID 1 array. Read Entire Article",
+    "link": "https://www.techspot.com/news/112717-youtuber-sue-samsung-dodging-990-pro-ssd-warranty.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.859792"
+  },
+  {
+    "title": "Crazy Taxi is back, but Sega's use of generative AI steals the spotlight",
+    "summary": "Revealed during an Xbox showcase, Crazy Taxi: World Tour is slated for release in 2027 on Nintendo Switch 2, PlayStation 5, Windows PC, and Xbox Series X. The footage shows a fast-paced drive through a bright, San Francisco-style city, with the original driver, Axel, back behind the wheel. But the... Read Entire Article",
+    "link": "https://www.techspot.com/news/112711-crazy-taxi-back-but-sega-use-generative-ai.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.859903"
+  },
+  {
+    "title": "SanDisk's massive 8TB SD cards are finally close to launch",
+    "summary": "The SD Association's booth at Computex 2026 included spec sheets for new 4TB and 8TB SDUC memory cards. Multiple manufacturers at the event informed Notebookcheck that the cards will be available \"shortly,\" providing easier access to massive storage capacities for digital cameras, handheld gaming devices, and other portable hardware. Read Entire Article",
+    "link": "https://www.techspot.com/news/112708-sandisk-massive-8tb-sd-cards-finally-close-launch.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-11T12:31:16.860017"
+  },
+  {
+    "title": "Signal attacks UK plan to scan devices for nude images as \"mass surveillance\"",
+    "summary": "The device-scanning proposal was announced by Prime Minister Keir Starmer at London Tech Week. Under the plan, companies such as Apple and Google would be expected to activate built-in features on smartphones and tablets that detect and block nude images on children's devices. Read Entire Article",
+    "link": "https://www.techspot.com/news/112712-signal-attacks-uk-plan-scan-devices-nude-images.html",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-11T12:31:16.860126"
   }
 ]

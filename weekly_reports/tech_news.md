@@ -1,135 +1,115 @@
 # 📰 Tech News
-**Week of June 10, 2026**
+**Week of June 11, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-06-10 11:59
+- **Articles this week:** 10
+- **Report generated:** 2026-06-11 12:32
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Claude Fable 5 brings Mythos to the masses Anthropic's new frontier model is 'state-of-the-art on nearly all tested benchmarks' ⭐
+### 1. California tests smart freeway that could make drivers wait four minutes to merge 
 
-Anthropic releases Fable 5, a public version of its Mythos model, deemed 'safe for general use'.
+California's smart freeway on I-15 in Temecula aims to optimize traffic flow by controlling merge times, which could potentially make drivers wait four minutes to merge. This technology aims to reduce congestion and improve safety. It was launched on June 1.
 
-💡 *Anthropic's Fable 5 model sets new benchmarks in AI capability and safety.*
+💡 *Smart freeway technology aims to optimize traffic flow and reduce congestion.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-fable-5-brings-mythos-to-the-masses-anthropics-next-frontier-model-is-state-of-the-art-on-nearly-all-tested-benchmarks)
-
----
-
-### 2. Anthropic's warning over AI self-improvement has a hidden message accelerating development requires more compute before companies ever risk losing control of frontier AI models ⭐
-
-Anthropic is reconsidering its powerful AI model, Mythos, due to concerns over self-improvement. This shift highlights the delicate balance between AI development and control. Companies must carefully manage AI advancements to prevent loss of control.
-
-💡 *Accelerating AI requires more compute to prevent loss of control.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-ai-self-improvement-could-end-in-lost-human-control)
+🔗 [Read Full Article](https://www.techspot.com/news/112730-california-tests-smart-freeway-could-make-drivers-wait.html)
 
 ---
 
-### 3. Secretlab Atlas review: The one you ve been waiting for 
+### 2. A developer ported Half-Life to a Nokia N95, and it runs at 30fps with Bluetooth keyboard support 
 
-The Secretlab Atlas is a task chair emphasizing productivity and comfort.
+Developer Dante Leoncini ported Half-Life to Nokia N95, achieving 30fps at launch. This feat was made possible by modern open-source engines, allowing the 1998 PC game to run on a 2007 mobile device. The project supports Bluetooth keyboard input.
 
-💡 *Ergonomic design boosts focus and efficiency for professionals.*
+💡 *Legacy games can be reimagined on new platforms with modern tech.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/secretlab-atlas-review)
-
----
-
-### 4. The Legend of Zelda: Ocarina of Time remake announced for Switch 2, due out later this year 
-
-A remake of The Legend of Zelda: Ocarina of Time has been announced for Switch 2 with a 2026 release. The teaser trailer is only a minute and a half long and does not show gameplay. The price of the game is unknown.
-
-💡 *Nintendo's classic IP gets a remastered revival in 2026*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112705-legend-zelda-ocarina-time-remake-announced-switch-2.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112706-developer-ported-half-life-nokia-n95-runs-30fps.html)
 
 ---
 
-### 5. Razer Seiren V3 Pro Review: USB, XLR, and 32-bit float 
+### 3. Experts say Donut Lab's "breakthrough" solid-state battery is just ordinary lithium-ion 
 
-The Razer Seiren V3 Pro offers versatility with USB-C and XLR connectivity, catering to various recording setups. This end-address microphone also supports 32-bit float, ensuring high-quality audio capture. With its sleek design and robust features, it's suitable for content creators and professionals.
+Donut Lab's solid-state battery is not a breakthrough, but a lithium-ion battery. This conclusion is based on testing data from VTT, which shows the battery's behavior aligns with lithium-ion chemistry. The company claimed it was a sodium-ion solid-state design.
 
-💡 *Seamless switching between USB and XLR recording options matters*
+💡 *False marketing of a non-revolutionary battery technology matters*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/microphones/razer-seiren-v3-pro-review)
-
----
-
-### 6. Startup s miracle solid-state battery actually uses lithium-ion chemistry, according to third-party tests Donut Lab raised $25M and is valued at $1.25B on what now appear to be debunked claims 
-
-A Finnish startup, Donut Lab, made unsubstantiated claims about solid-state batteries. Independent tests revealed their battery uses lithium-ion chemistry, contradicting their initial statements. The startup's valuation and funding are now called into question.
-
-💡 *Debunked claims can significantly impact startup valuations and funding*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/startups-miracle-solid-state-battery-actually-uses-lithium-ion-chemistry-according-to-third-party-tests-donut-lab-raised-usd25m-and-is-valued-at-usd1-25b-on-what-now-appear-to-be-debunked-claims)
+🔗 [Read Full Article](https://www.techspot.com/news/112713-battery-experts-donut-lab-breakthrough-battery-looks-like.html)
 
 ---
 
-### 7. Palantir system helps Florida hospital save 886 lives by spotting sepsis earlier 
+### 4. Signal attacks UK plan to scan devices for nude images as "mass surveillance" 
 
-A Palantir system at a Florida hospital detected sepsis earlier, saving 886 lives. The system identified subtle vital sign shifts that typically go unnoticed. This earlier detection improved patient outcomes significantly.
+The UK plans to scan devices for nude images via built-in features, sparking concerns over mass surveillance.
 
-💡 *Early sepsis detection revolutionizes patient care and saves countless lives.*
+💡 *Raises questions about balancing child protection with individual privacy rights.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112709-palantir-system-helps-florida-hospital-save-886-lives.html)
-
----
-
-### 8. Windows 11 will soon have an option for removing web results from local search queries 
-
-Microsoft is introducing an option to remove web results from local search queries on Windows 11. This feature is part of future updates for Windows Insiders. It aims to improve search functionality.
-
-💡 *Enhanced user control over search results is long overdue.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112691-windows-11-soon-have-option-removing-web-results.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112712-signal-attacks-uk-plan-scan-devices-nude-images.html)
 
 ---
 
-### 9. iOS 27's most advanced on-device AI needs 12GB of RAM and most iPhones don't have it 
+### 5. Massive 8TB SD cards are set to ship 'shortly' after a two-year delay mind-blowing storage at possibly bank-breaking prices 
 
-iOS 27's advanced on-device AI requires 12GB of RAM, limiting compatible iPhones.
+8TB SD cards are set to release after a two-year delay, offering massive storage capacity. The exact launch date and pricing remain unknown. Notebookcheck reports on the impending retail market arrival.
 
-💡 *Limited iPhone models support iOS 27's advanced AI features.*
+💡 *Unprecedented storage capacity meets uncertain, potentially high pricing*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112702-ios-27-most-advanced-device-ai-needs-12gb.html)
-
----
-
-### 10. Amazon just got a reprieve: it only has 331 Leo satellites instead of the 1,616 it needed by July 
-
-Amazon's Leo satellite project, formerly Project Kuiper, received a temporary reprieve from the FCC. The reprieve is due to Amazon only having 331 operational satellites, rather than the 1,616 needed by July. This is a significant deviation from the original plan.
-
-💡 *Amazon's Leo project faces significant delays and regulatory hurdles.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112703-amazon-gets-fcc-reprieve-satellite-internet-deadline-after.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/microsd-cards/8tb-sd-cards-are-set-to-ship-shortly-after-a-two-year-delay-mind-blowing-storage-at-possibly-bank-breaking-prices)
 
 ---
 
-### 11. Sam Altman's other startup is laying off workers 
+### 6. We tested 20 wall chargers, from cheap to expensive, to find the best from 15W to 140W, here are the chargers that perform the best without overheating and throttling 
 
-Sam Altman's startup Tools for Humanity is laying off employees as part of a shift in strategy and operating priorities.
+We tested 20 top wall chargers for performance and thermal control. Our results reveal the best chargers that deliver consistent power without overheating and throttling. These findings help consumers make informed purchasing decisions.
 
-💡 *Tech industry layoffs signal evolving business strategies and uncertain market conditions.*
+💡 *Reliable charging speeds matter for seamless device performance and longevity.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112701-sam-altman-eye-scanning-world-project-lays-off.html)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/usb/we-tested-20-wall-chargers-from-cheap-to-expensive-to-see-what-we-would-find-from-15-140w-with-screens-and-without)
 
 ---
 
-### 12. Microsoft admits Game Pass price hike drove away "millions" of subscribers 
+### 7. Google reportedly books Intel for packaging more than 3 million TPUs in 2028 SK hynix is testing Intel's EMIB packaging for HBM integration 
 
-Microsoft's Xbox chief strategy officer, Matthew Ball, revealed that price hikes for Game Pass drove away 'millions' of subscribers.
+Google orders Intel to build over 3 million TPUs in 2028 after testing advanced packaging. This comes after months of evaluation by Google of Intel's packaging capabilities. The deal is a significant boost for Intel's packaging business.
 
-💡 *Price hikes deter subscribers, potentially harming subscription-based business models.*
+💡 *Breakthrough packaging tech fuels large-scale AI computing deployment ambitions.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112699-microsoft-admits-game-pass-price-hike-drove-away.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/google-reportedly-books-intel-for-more-than-3-million-tpus-in-2028)
+
+---
+
+### 8. Overenthusiastic GTA 6 fan claims to be monitoring oxygen levels, acoustic noise from the bushes at Rockstar North HQ promises trailer 3 launch is imminent based on heightened activity 
+
+A GTA 6 fan claims to be monitoring Rockstar North HQ's activity, posting surveillance on Reddit to predict the next trailer. The fan's methods are likely a joke or a delusion. Their claims have sparked debate among the gaming community.
+
+💡 *Fanbase enthusiasm may lead to speculation and misinformation*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/overenthusiastic-gta-6-fan-claims-to-be-monitoring-oxygen-levels-acoustic-noise-from-the-bushes-at-rockstar-north-hq-promises-trailer-3-launch-is-imminent-based-on-heightened-activity)
+
+---
+
+### 9. Bare-metal MSX2+ Emulator for ESP32-S3 offers custom LCD_CAM VGA implementation & Z80 optimizations 
+
+The S3-MSX-PC project offers a bare-metal MSX2+ emulator for ESP32-S3, featuring custom VGA output and Z80 optimizations. It uses a resistor ladder for 64-color VGA and Sigma-Delta modulation for audio. The emulator can run games at 60Hz on an off-the-shelf ESP32-S3 board.
+
+💡 *Retro gaming on ESP32-S3 with custom, high-quality video output*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/11/bare-metal-msx2-emulator-for-esp32-s3-offers-custom-lcd_cam-vga-implementation-z80-optimizations/)
+
+---
+
+### 10. SanDisk's massive 8TB SD cards are finally close to launch 
+
+SanDisk's 8TB SD cards are nearing release, promising ample storage for portable devices.
+
+💡 *Massive storage capacity for portable devices is finally becoming more accessible.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112708-sandisk-massive-8tb-sd-cards-finally-close-launch.html)
 
 ---
 

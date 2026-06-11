@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 10, 2026**
+**Week of June 11, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Claude Fable 5 brings Mythos to the masses Anthropic's new frontier model is 'state-of-the-art on nearly all tested benchmarks' ⭐
+### 1. AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance company shares first estimated EPYC Venice benchmarks ⭐
 
 **🤖 AI & ML**
 
-Anthropic releases Fable 5, a public version of its Mythos model, deemed 'safe for general use'.
+AMD claims its 256-core EPYC Venice CPU outperforms Nvidia's Vera by 3.3x in rack-level deployments, showcasing AMD's advancements in high-performance computing.
 
-💡 **Key Point:** Anthropic's Fable 5 model sets new benchmarks in AI capability and safety.
+💡 **Key Point:** EPYC Venice provides significant performance boost over competing high-end solutions
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-fable-5-brings-mythos-to-the-masses-anthropics-next-frontier-model-is-state-of-the-art-on-nearly-all-tested-benchmarks)
-
----
-
-### 2. Anthropic's warning over AI self-improvement has a hidden message accelerating development requires more compute before companies ever risk losing control of frontier AI models ⭐
-
-**🤖 AI & ML**
-
-Anthropic is reconsidering its powerful AI model, Mythos, due to concerns over self-improvement. This shift highlights the delicate balance between AI development and control. Companies must carefully manage AI advancements to prevent loss of control.
-
-💡 **Key Point:** Accelerating AI requires more compute to prevent loss of control.
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-ai-self-improvement-could-end-in-lost-human-control)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-fires-back-at-nvidia-claiming-256-core-zen-6-venice-cpu-beats-vera-by-3-3x-in-rack-level-performance-company-shares-first-estimated-epyc-venice-benchmarks)
 
 ---
 
-### 3. OpenCV 5 release New DNN engine with enhanced ONNX and LLM/VLM support, Intel, Arm, and RISC-V hardware optimizations ⭐
-
-**🤖 AI & ML**
-
-OpenCV 5 introduces a new DNN engine with enhanced ONNX coverage, LLM/VLM support, and hardware optimizations for Intel, Arm, Qualcomm, and RISC-V.
-
-💡 **Key Point:** Broader ONNX model support enables more applications to run smoothly.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/10/opencv-5-release-new-dnn-engine-with-enhanced-onnx-and-llm-vlm-support-intel-arm-and-risc-v-hardware-optimizations/)
-
----
-
-### 4. OpenCV 5 release New DNN engine with enhanced ONNX and LLM/VLM support, Intel, Arm, and RISC-V hardware optimizations ⭐
+### 2. piBrick PocketCM5 An open-source handheld Linux computer kit for Raspberry Pi CM5 ⭐
 
 **💻 Hardware**
 
-OpenCV 5 introduces a new DNN engine with enhanced ONNX coverage, LLM/VLM support, and hardware optimizations for Intel, Arm, Qualcomm, and RISC-V.
+The piBrick PocketCM5 is an open-source handheld Linux computer kit based on Raspberry Pi CM5, featuring a 3.92-inch AMOLED touchscreen display, physical keyboard, and expansion options. It's designed for developers, makers, and system administrators. This Linux machine is compact and versatile.
 
-💡 **Key Point:** Broader ONNX model support enables more applications to run smoothly.
+💡 **Key Point:** Compact, open-source Linux machine for makers and developers
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/10/opencv-5-release-new-dnn-engine-with-enhanced-onnx-and-llm-vlm-support-intel-arm-and-risc-v-hardware-optimizations/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/11/pibrick-pocketcm5-an-open-source-handheld-linux-computer-kit-for-raspberry-pi-cm5/)
 
 ---
 
-### 5. Claude Fable 5 brings Mythos to the masses Anthropic's new frontier model is 'state-of-the-art on nearly all tested benchmarks' ⭐
+### 3. AMD claims next-gen Zen 6 server CPU will deliver 330% of Nvidia Vera's performance per rack ⭐
 
-**📰 Tech News**
+**💻 Hardware**
 
-Anthropic releases Fable 5, a public version of its Mythos model, deemed 'safe for general use'.
+AMD claims its next-gen Zen 6 server CPU will outperform Nvidia Vera, citing dramatic improvements in performance. The projection is based on AMD's earlier benchmark results that favored Nvidia's processor. The company aims to deliver a significant advantage in server performance.
 
-💡 **Key Point:** Anthropic's Fable 5 model sets new benchmarks in AI capability and safety.
+💡 **Key Point:** AMD's Zen 6 CPU promises to revolutionize server computing performance
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-fable-5-brings-mythos-to-the-masses-anthropics-next-frontier-model-is-state-of-the-art-on-nearly-all-tested-benchmarks)
+🔗 [Read More](https://www.techspot.com/news/112724-amd-claims-next-gen-zen-6-server-cpu.html)
+
+---
+
+### 4. AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance company shares first estimated EPYC Venice benchmarks ⭐
+
+**🎮 GPUs**
+
+AMD claims its 256-core EPYC Venice CPU outperforms Nvidia's Vera by 3.3x in rack-level deployments, showcasing AMD's advancements in high-performance computing.
+
+💡 **Key Point:** EPYC Venice provides significant performance boost over competing high-end solutions
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-fires-back-at-nvidia-claiming-256-core-zen-6-venice-cpu-beats-vera-by-3-3x-in-rack-level-performance-company-shares-first-estimated-epyc-venice-benchmarks)
+
+---
+
+### 5. AMD claims next-gen Zen 6 server CPU will deliver 330% of Nvidia Vera's performance per rack ⭐
+
+**🎮 GPUs**
+
+AMD claims its next-gen Zen 6 server CPU will outperform Nvidia Vera, citing dramatic improvements in performance. The projection is based on AMD's earlier benchmark results that favored Nvidia's processor. The company aims to deliver a significant advantage in server performance.
+
+💡 **Key Point:** AMD's Zen 6 CPU promises to revolutionize server computing performance
+
+🔗 [Read More](https://www.techspot.com/news/112724-amd-claims-next-gen-zen-6-server-cpu.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **43 articles** across **5 focused categories**.
+We covered **53 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 15 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 6 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 12 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 21 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 15 articles
+*Artificial Intelligence and Machine Learning* — 21 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 3 articles
+*Graphics cards and compute accelerators* — 6 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 6 articles
+*Computing hardware and development boards* — 11 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 7 articles
+*Chip manufacturing and design* — 5 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 12 articles
+*Industry news and product launches* — 10 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-10 at 11:59 by an autonomous AI curation system.
+Generated 2026-06-11 at 12:32 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

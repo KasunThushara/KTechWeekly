@@ -1,165 +1,225 @@
 # 🤖 AI & ML
-**Week of June 10, 2026**
+**Week of June 11, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 15
-- **Report generated:** 2026-06-10 11:59
+- **Articles this week:** 21
+- **Report generated:** 2026-06-11 12:32
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Claude Fable 5 brings Mythos to the masses Anthropic's new frontier model is 'state-of-the-art on nearly all tested benchmarks' ⭐
+### 1. AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance company shares first estimated EPYC Venice benchmarks ⭐
 
-Anthropic releases Fable 5, a public version of its Mythos model, deemed 'safe for general use'.
+AMD claims its 256-core EPYC Venice CPU outperforms Nvidia's Vera by 3.3x in rack-level deployments, showcasing AMD's advancements in high-performance computing.
 
-💡 *Anthropic's Fable 5 model sets new benchmarks in AI capability and safety.*
+💡 *EPYC Venice provides significant performance boost over competing high-end solutions*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-fable-5-brings-mythos-to-the-masses-anthropics-next-frontier-model-is-state-of-the-art-on-nearly-all-tested-benchmarks)
-
----
-
-### 2. Anthropic's warning over AI self-improvement has a hidden message accelerating development requires more compute before companies ever risk losing control of frontier AI models ⭐
-
-Anthropic is reconsidering its powerful AI model, Mythos, due to concerns over self-improvement. This shift highlights the delicate balance between AI development and control. Companies must carefully manage AI advancements to prevent loss of control.
-
-💡 *Accelerating AI requires more compute to prevent loss of control.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-ai-self-improvement-could-end-in-lost-human-control)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-fires-back-at-nvidia-claiming-256-core-zen-6-venice-cpu-beats-vera-by-3-3x-in-rack-level-performance-company-shares-first-estimated-epyc-venice-benchmarks)
 
 ---
 
-### 3. OpenCV 5 release New DNN engine with enhanced ONNX and LLM/VLM support, Intel, Arm, and RISC-V hardware optimizations ⭐
+### 2. California tests smart freeway that could make drivers wait four minutes to merge 
 
-OpenCV 5 introduces a new DNN engine with enhanced ONNX coverage, LLM/VLM support, and hardware optimizations for Intel, Arm, Qualcomm, and RISC-V.
+California's smart freeway on I-15 in Temecula aims to optimize traffic flow by controlling merge times, which could potentially make drivers wait four minutes to merge. This technology aims to reduce congestion and improve safety. It was launched on June 1.
 
-💡 *Broader ONNX model support enables more applications to run smoothly.*
+💡 *Smart freeway technology aims to optimize traffic flow and reduce congestion.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/10/opencv-5-release-new-dnn-engine-with-enhanced-onnx-and-llm-vlm-support-intel-arm-and-risc-v-hardware-optimizations/)
-
----
-
-### 4. Secretlab Atlas review: The one you ve been waiting for 
-
-The Secretlab Atlas is a task chair emphasizing productivity and comfort.
-
-💡 *Ergonomic design boosts focus and efficiency for professionals.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/secretlab-atlas-review)
+🔗 [Read Full Article](https://www.techspot.com/news/112730-california-tests-smart-freeway-could-make-drivers-wait.html)
 
 ---
 
-### 5. Synaptics Astra SRW1500 Cortex-M52 Edge AI MCU features Ethos-U55 NPU, Wi-Fi 6/7, Bluetooth 6.0, 802.15.4 connectivity 
+### 3. This soundbar can be hijacked over Bluetooth to control your computer, no pairing required 
 
-Synaptics' Astra SRW1500 is an AI-native Edge AI MCU for IoT devices, featuring a Cortex-M52 core, Ethos-U55 NPU, and Wi-Fi 6/7, Bluetooth 6.0, and 802.15.4 connectivity.
+A midrange soundbar can be hijacked via Bluetooth to control computers without pairing
 
-💡 *Integrated AI, sensing, and wireless in a single chip reduces system costs.*
+💡 *Bluetooth vulnerability allows unauthorized remote control of connected devices*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/10/synaptics-astra-srw1500-cortex-m52-edge-ai-mcu-features-ethos-u55-npu-wi-fi-6-7-bluetooth-6-0-802-15-4-connectivity/)
-
----
-
-### 6. Analyzing TSMC's fab expansion roadmap multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks 
-
-TSMC executes largest semiconductor expansion with AI-driven optimizations and CoWoS/SoIC expansion. Simultaneous multi-fab N2 ramps meet increasing AI accelerator demand. Massive packaging capacity supports growth.
-
-💡 *AI demand drives record semiconductor manufacturing expansion globally.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/analyzing-tsmcs-fab-expansion-roadmap-multi-fab-n2-ramp-cowos-soic-and-uncorking-bottlenecks)
+🔗 [Read Full Article](https://www.techspot.com/news/112715-bluetooth-bug-turns-gaming-soundbar-attack-tool.html)
 
 ---
 
-### 7. China drafts $295 billion plan to build national AI data center grid running on 80% homemade silicon projected 2028 timeline could run into limits of local chip production 
+### 4. Experts say Donut Lab's "breakthrough" solid-state battery is just ordinary lithium-ion 
 
-China plans to invest $295 billion in nationwide AI data centers. The grid will be powered by 80% domestic silicon. The timeline aims to be completed by 2028.
+Donut Lab's solid-state battery is not a breakthrough, but a lithium-ion battery. This conclusion is based on testing data from VTT, which shows the battery's behavior aligns with lithium-ion chemistry. The company claimed it was a sodium-ion solid-state design.
 
-💡 *Rapid AI expansion may strain local chip production capacity limits.*
+💡 *False marketing of a non-revolutionary battery technology matters*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-drafts-295-billion-plan-to-build-a-national-ai-data-center-grid-running-on-80-percent-domestic-chips)
-
----
-
-### 8. Elon Musk's first-gen orbital data center craft spans wider than a Boeing 747 and runs an interchangeable chip payload AI1 satellite compute payload is 120 kW, peaks at 150 kW 
-
-Elon Musk unveiled the design of SpaceX's AI1 satellite, a massive data center in space with an interchangeable chip payload that can generate up to 150 kW of power, wider than a Boeing 747.
-
-💡 *Revolutionizing space-based computing with massive, high-performance data center capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/spacex-details-its-ai1-compute-satellite)
+🔗 [Read Full Article](https://www.techspot.com/news/112713-battery-experts-donut-lab-breakthrough-battery-looks-like.html)
 
 ---
 
-### 9. SpaceX unveils 11-million-square-foot Gigasat factory, a new manufacturing facility for space-based data centers aims for 1 GW/year of space AI compute by late 2027 from its satellites 
+### 5. Gaming PC deflects bullet shot through wall by neighbour, saving owner's life criminal negligence charges for culprit who claims 'firearm was accidentally discharged by her dog' 
 
-SpaceX unveils Gigasat factory, aiming to mass-produce AI satellites for orbital data centers, with plans to reach 1 GW of space AI compute by 2027 and 100 GW per year by 2030.
+A gaming PC's RAM sticks deflected a bullet shot through a wall, saving the owner's life. A neighbor's accidental firearm discharge led to the incident. The owner is grateful for their gaming PC's unexpected lifesaving intervention.
 
-💡 *Revolutionizing space-based data centers with massive AI compute capacity expansion.*
+💡 *Unlikely objects can sometimes provide unexpected lifesaving interventions in critical moments.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/spacex-unveils-11-million-square-foot-gigasat-factory-a-new-manufacturing-facility-for-space-based-data-centers-aims-for-1-gw-year-of-space-ai-compute-by-late-2027-from-its-satellites)
-
----
-
-### 10. Startup s miracle solid-state battery actually uses lithium-ion chemistry, according to third-party tests Donut Lab raised $25M and is valued at $1.25B on what now appear to be debunked claims 
-
-A Finnish startup, Donut Lab, made unsubstantiated claims about solid-state batteries. Independent tests revealed their battery uses lithium-ion chemistry, contradicting their initial statements. The startup's valuation and funding are now called into question.
-
-💡 *Debunked claims can significantly impact startup valuations and funding*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/startups-miracle-solid-state-battery-actually-uses-lithium-ion-chemistry-according-to-third-party-tests-donut-lab-raised-usd25m-and-is-valued-at-usd1-25b-on-what-now-appear-to-be-debunked-claims)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/gaming-pc-deflects-bullet-shot-through-wall-by-neighbour-saving-owners-life-criminal-negligence-charges-for-culprit-who-claims-firearm-was-accidentally-discharged-by-her-dog)
 
 ---
 
-### 11. Elon Musk reveals SpaceX's 230-foot-wide orbital AI data center satellite ahead of record IPO 
+### 6. AI is set to consume up to 600 billion gallons of water by 2030 rising energy consumption primarily to blame as data center power demands rise 
 
-SpaceX unveils its AI data center satellite with 229.6-foot wingspan.
+Data centers are projected to consume up to 600 billion gallons of water by 2030, largely due to increasing energy demands from rising power consumption. This is primarily caused by the growing power needs of data center GPUs and rack systems. Direct cooling methods require significantly less water compared to traditional cooling methods.
 
-💡 *Revolutionizing space-based data storage and AI computing capabilities emerge.*
+💡 *Rising energy consumption drives unsustainable water usage in data centers.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112710-elon-musk-reveals-spacex-230-foot-wide-orbital.html)
-
----
-
-### 12. The AI boomerang effect: more data suggests employers are reversing AI layoffs 
-
-Companies are rehiring workers they previously replaced with AI, citing regret.
-
-💡 *AI layoffs may have unintended consequences on business operations.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112707-ai-boomerang-effect-more-data-suggests-employers-reversing.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ai-is-set-to-consume-up-to-600-billion-gallons-of-water-by-2030-rising-energy-consumption-primarily-to-blame-as-data-center-power-demands-rise)
 
 ---
 
-### 13. iOS 27's most advanced on-device AI needs 12GB of RAM and most iPhones don't have it 
+### 7. Massive 8TB SD cards are set to ship 'shortly' after a two-year delay mind-blowing storage at possibly bank-breaking prices 
 
-iOS 27's advanced on-device AI requires 12GB of RAM, limiting compatible iPhones.
+8TB SD cards are set to release after a two-year delay, offering massive storage capacity. The exact launch date and pricing remain unknown. Notebookcheck reports on the impending retail market arrival.
 
-💡 *Limited iPhone models support iOS 27's advanced AI features.*
+💡 *Unprecedented storage capacity meets uncertain, potentially high pricing*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112702-ios-27-most-advanced-device-ai-needs-12gb.html)
-
----
-
-### 14. PSA: Scammers are getting their fake shopping sites into ChatGPT's results 
-
-Scammers are creating fake shopping sites, including cloned versions of real stores, and these sites are appearing in AI-generated shopping results, such as those provided by ChatGPT. This allows scammers to potentially trick users into making purchases on fake sites. The issue affects not only the open web but also AI-generated answers.
-
-💡 *Scammers exploit AI's lack of human judgment to deceive users.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112698-psa-scammers-getting-their-fake-shopping-sites-chatgpt.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/microsd-cards/8tb-sd-cards-are-set-to-ship-shortly-after-a-two-year-delay-mind-blowing-storage-at-possibly-bank-breaking-prices)
 
 ---
 
-### 15. Sam Altman's other startup is laying off workers 
+### 8. We tested 20 wall chargers, from cheap to expensive, to find the best from 15W to 140W, here are the chargers that perform the best without overheating and throttling 
 
-Sam Altman's startup Tools for Humanity is laying off employees as part of a shift in strategy and operating priorities.
+We tested 20 top wall chargers for performance and thermal control. Our results reveal the best chargers that deliver consistent power without overheating and throttling. These findings help consumers make informed purchasing decisions.
 
-💡 *Tech industry layoffs signal evolving business strategies and uncertain market conditions.*
+💡 *Reliable charging speeds matter for seamless device performance and longevity.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112701-sam-altman-eye-scanning-world-project-lays-off.html)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/usb/we-tested-20-wall-chargers-from-cheap-to-expensive-to-see-what-we-would-find-from-15-140w-with-screens-and-without)
+
+---
+
+### 9. Louis Rossmann is suing Samsung after firm offers $330 refund for defective SSD while selling the drives on Amazon for $949 spat over 4TB 990 Pro SSD is headed to court 
+
+Louis Rossmann is suing Samsung over a defective 4TB 990 Pro SSD. Samsung offered a $330 refund under warranty, but Rossmann claims this is insufficient. The issue is now heading to court.
+
+💡 *Right to Repair movement challenges corporate control over repair and replacement.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/louis-rossman-threatens-to-take-samsung-to-court-over-dead-4tb-990-pro-ssd-after-ssd-maker-failed-to-replace-the-drive-under-warranty)
+
+---
+
+### 10. Brad Paisley joins fight as zoo's dispute with AI data center escalates, petition tops 330,000 signatures Nashville weighs sweeping hyperscale ban 
+
+A data center dispute near Nashville Zoo escalates with a zoning appeal filed, as country singer Brad Paisley lends his support and a petition surpasses 330,000 signatures, with Nashville considering a ban on hyperscale data centers.
+
+💡 *Community preservation vs. technological progress in Nashville's urban landscape.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nashville-considers-hyperscale-data-center-ban-as-zoo-dispute-escalates)
+
+---
+
+### 11. Samsung Heavy Industries recruits Greek shipowner and Supermicro to bring 50MW floating AI data centers to market can be powered by solid oxide fuel cells running on liquefied natural gas 
+
+Samsung Heavy Industries partners with a Greek shipowner and Supermicro to develop 50MW floating AI data centers that can be powered by solid oxide fuel cells running on liquefied natural gas, a move that could revolutionize data storage and processing at sea.
+
+💡 *Transforming data storage with innovative, eco-friendly, and scalable sea-based solutions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsung-heavy-industries-recruits-greek-shipowner-and-supermicro-to-bring-50mw-floating-ai-data-centers-to-market)
+
+---
+
+### 12. Valve to discontinue physical Steam gift cards by the end of 2026 due to scammers says nefarious actors continue to exploit them despite years of restrictions 
+
+Steam will discontinue physical gift cards by the end of 2026, citing scams.
+
+💡 *Steam gift cards vulnerable to scammers despite security efforts.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/valve-to-discontinue-physical-steam-gift-cards-by-the-end-of-2026-due-to-scammers-says-nefarious-actors-continue-to-exploit-them-despite-years-of-restrictions)
+
+---
+
+### 13. Overenthusiastic GTA 6 fan claims to be monitoring oxygen levels, acoustic noise from the bushes at Rockstar North HQ promises trailer 3 launch is imminent based on heightened activity 
+
+A GTA 6 fan claims to be monitoring Rockstar North HQ's activity, posting surveillance on Reddit to predict the next trailer. The fan's methods are likely a joke or a delusion. Their claims have sparked debate among the gaming community.
+
+💡 *Fanbase enthusiasm may lead to speculation and misinformation*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/overenthusiastic-gta-6-fan-claims-to-be-monitoring-oxygen-levels-acoustic-noise-from-the-bushes-at-rockstar-north-hq-promises-trailer-3-launch-is-imminent-based-on-heightened-activity)
+
+---
+
+### 14. Best of Sensors: Aizip and Asahi Kasei win in wearables 
+
+AI Gesture Recognition, a wearable device, won Best of Sensors 2026 in the healthcare and wearable category. It uses wrist electrical signals for intuitive input commands, revolutionizing user interaction. This technology has significant potential for healthcare and accessibility.
+
+💡 *Revolutionizing user interaction with subtle electrical signals at the wrist.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/best-sensors-aizip-and-asahi-kasei-win-wearable)
+
+---
+
+### 15. GM just updated 250,000 EVs to sell power back to the grid 
+
+GM has updated 250,000 EVs to enable bidirectional charging, allowing owners to sell power back to the grid.
+
+💡 *Electric vehicles become grid energy storage and revenue sources simultaneously.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112718-gm-updated-250000-evs-sell-power-back-grid.html)
+
+---
+
+### 16. Canada introduces social media ban for under-16s, but platforms could avoid it 
+
+Canada's Safe Social Media Act forces tech companies to protect under-16s from online harms.
+
+💡 *Tech companies' responsibility increases, shifting burden from parents.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112728-canada-introduces-social-media-ban-under-16s-but.html)
+
+---
+
+### 17. Windows Ready Print is Microsoft's biggest overhaul of Windows printing in years 
+
+Microsoft's Windows Ready Print updates the company's printing model to align with modern communication standards.
+
+💡 *Enhanced interoperability between printing devices and the Windows ecosystem.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112720-windows-ready-print-microsoft-most-ambitious-attempt-modernize.html)
+
+---
+
+### 18. GPU-Z remains the go-to tool for detailed graphics card info 
+
+GPU-Z provides a clean snapshot of GPU information without installation requirements. It supports various GPU manufacturers, including Nvidia, AMD, and Intel. The tool is useful for verifying specs, monitoring behavior, or troubleshooting.
+
+💡 *Accurate GPU information for troubleshooting and system optimization.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/4452-gpu-z.html)
+
+---
+
+### 19. YouTuber says he will sue Samsung for dodging 990 Pro SSD warranty replacement amid memory crisis 
+
+Rossmann claims Samsung is dodging warranty for the 990 Pro SSD due to memory crisis.
+
+💡 *Samsung's warranty policy may be impacted by global memory supply issues.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112717-youtuber-sue-samsung-dodging-990-pro-ssd-warranty.html)
+
+---
+
+### 20. Crazy Taxi is back, but Sega's use of generative AI steals the spotlight 
+
+Crazy Taxi: World Tour is coming in 2027 to multiple platforms, with Axel returning as the main driver. The game's fast-paced gameplay and San Francisco-style city are showcased in the latest footage. Fans can expect a new installment in the beloved franchise.
+
+💡 *Sega's use of generative AI dominates the Crazy Taxi revival buzz*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112711-crazy-taxi-back-but-sega-use-generative-ai.html)
+
+---
+
+### 21. SanDisk's massive 8TB SD cards are finally close to launch 
+
+SanDisk's 8TB SD cards are nearing release, promising ample storage for portable devices.
+
+💡 *Massive storage capacity for portable devices is finally becoming more accessible.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112708-sandisk-massive-8tb-sd-cards-finally-close-launch.html)
 
 ---
 

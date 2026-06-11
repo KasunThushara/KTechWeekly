@@ -1,85 +1,65 @@
 # ⚡ Semiconductors
-**Week of June 10, 2026**
+**Week of June 11, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-06-10 11:59
+- **Articles this week:** 5
+- **Report generated:** 2026-06-11 12:32
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Synaptics Astra SRW1500 Cortex-M52 Edge AI MCU features Ethos-U55 NPU, Wi-Fi 6/7, Bluetooth 6.0, 802.15.4 connectivity 
+### 1. Signal attacks UK plan to scan devices for nude images as "mass surveillance" 
 
-Synaptics' Astra SRW1500 is an AI-native Edge AI MCU for IoT devices, featuring a Cortex-M52 core, Ethos-U55 NPU, and Wi-Fi 6/7, Bluetooth 6.0, and 802.15.4 connectivity.
+The UK plans to scan devices for nude images via built-in features, sparking concerns over mass surveillance.
 
-💡 *Integrated AI, sensing, and wireless in a single chip reduces system costs.*
+💡 *Raises questions about balancing child protection with individual privacy rights.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/10/synaptics-astra-srw1500-cortex-m52-edge-ai-mcu-features-ethos-u55-npu-wi-fi-6-7-bluetooth-6-0-802-15-4-connectivity/)
-
----
-
-### 2. NanoPi M6V2 RK3588S SBC gains support for dual analog microphone input 
-
-The NanoPi M6V2, an updated version of the Rockchip RK3588S SBC, features a 4-pin connector for dual analog microphone input, fixed 8GB RAM, and updated button layouts.
-
-💡 *Dual analog microphone support enhances audio capabilities for applications.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/10/nanopi-m6v2-rk3588s-sbc-gains-support-for-dual-analog-microphone-input/)
+🔗 [Read Full Article](https://www.techspot.com/news/112712-signal-attacks-uk-plan-scan-devices-nude-images.html)
 
 ---
 
-### 3. Analyzing TSMC's fab expansion roadmap multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks 
+### 2. Intel's upcoming Z970 and Z990 flagship chipsets will reportedly consume up to 14W at peak load, courtesy of more PCIe 5.0 support Nova Lake motherboards may feature a 22% smaller PCH than Z890 
 
-TSMC executes largest semiconductor expansion with AI-driven optimizations and CoWoS/SoIC expansion. Simultaneous multi-fab N2 ramps meet increasing AI accelerator demand. Massive packaging capacity supports growth.
+Intel's Z990 PCH for Nova Lake motherboards is smaller than Z890, despite increased power consumption.
 
-💡 *AI demand drives record semiconductor manufacturing expansion globally.*
+💡 *Power efficiency trade-off in smaller, more powerful chipsets.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/analyzing-tsmcs-fab-expansion-roadmap-multi-fab-n2-ramp-cowos-soic-and-uncorking-bottlenecks)
-
----
-
-### 4. China drafts $295 billion plan to build national AI data center grid running on 80% homemade silicon projected 2028 timeline could run into limits of local chip production 
-
-China plans to invest $295 billion in nationwide AI data centers. The grid will be powered by 80% domestic silicon. The timeline aims to be completed by 2028.
-
-💡 *Rapid AI expansion may strain local chip production capacity limits.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-drafts-295-billion-plan-to-build-a-national-ai-data-center-grid-running-on-80-percent-domestic-chips)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/chipsets/intels-upcoming-z790-and-z990-flagship-chipsets-will-reportedly-consume-up-to-14w-at-peak-load-courtesy-of-more-pcie-5-0-support-nova-lake-motherboards-may-feature-a-22-percent-smaller-pch-than-z890)
 
 ---
 
-### 5. 3D-printed nozzles could revolutionize drug and self-healing material manufacturing MIT-developed triaxial electrospray design makes cleanroom fabrication optional 
+### 3. Canada introduces social media ban for under-16s, but platforms could avoid it 
 
-MIT has developed 3D-printed triaxial electrospray nozzles for drug and material manufacturing, eliminating the need for cleanrooms.
+Canada's Safe Social Media Act forces tech companies to protect under-16s from online harms.
 
-💡 *Cost-effective nozzle fabrication transforms material manufacturing possibilities*
+💡 *Tech companies' responsibility increases, shifting burden from parents.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/3d-printed-triaxial-electrospray-nozzles-could-revolutionize-drug-and-self-healing-material-manufacturing-mit-developed-technique-makes-cleanroom-fabrication-optional)
-
----
-
-### 6. Elon Musk's first-gen orbital data center craft spans wider than a Boeing 747 and runs an interchangeable chip payload AI1 satellite compute payload is 120 kW, peaks at 150 kW 
-
-Elon Musk unveiled the design of SpaceX's AI1 satellite, a massive data center in space with an interchangeable chip payload that can generate up to 150 kW of power, wider than a Boeing 747.
-
-💡 *Revolutionizing space-based computing with massive, high-performance data center capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/spacex-details-its-ai1-compute-satellite)
+🔗 [Read Full Article](https://www.techspot.com/news/112728-canada-introduces-social-media-ban-under-16s-but.html)
 
 ---
 
-### 7. SpaceX unveils 11-million-square-foot Gigasat factory, a new manufacturing facility for space-based data centers aims for 1 GW/year of space AI compute by late 2027 from its satellites 
+### 4. Logitech's new Mobi Fold mouse folds flat for travel 
 
-SpaceX unveils Gigasat factory, aiming to mass-produce AI satellites for orbital data centers, with plans to reach 1 GW of space AI compute by 2027 and 100 GW per year by 2030.
+Logitech's Mobi Fold mouse folds flat for travel, providing comfort and quiet use.
 
-💡 *Revolutionizing space-based data centers with massive AI compute capacity expansion.*
+💡 *Compact wireless mouse design simplifies travel storage options.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/spacex-unveils-11-million-square-foot-gigasat-factory-a-new-manufacturing-facility-for-space-based-data-centers-aims-for-1-gw-year-of-space-ai-compute-by-late-2027-from-its-satellites)
+🔗 [Read Full Article](https://www.techspot.com/products/mice/logitech-mobi-fold.325793/)
+
+---
+
+### 5. PZSDR P047 RF-ADC and RF-DAC high-end SDR board is based on AMD Zynq UltraScale+ ZU47DR RFSoC (Crowdfunding) 
+
+The PZSDR P047 is a high-end SDR board featuring 8 RF ADCs and 8 RF DACs, based on the AMD Zynq UltraScale+ ZU47DR RFSoC. It includes various interfaces and a quad-core processor, making it suitable for advanced MIMO wireless applications. The board is available through crowdfunding.
+
+💡 *High-performance MIMO wireless applications now have a highly capable platform*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/11/pzsdr-p047-rf-adc-and-rf-dac-high-end-sdr-board-is-based-on-amd-zynq-ultrascale-zu47dr-rfsoc/)
 
 ---
 
