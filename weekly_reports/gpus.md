@@ -1,75 +1,105 @@
 # 🎮 GPUs
-**Week of June 11, 2026**
+**Week of June 12, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-06-11 12:32
+- **Articles this week:** 9
+- **Report generated:** 2026-06-12 12:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance company shares first estimated EPYC Venice benchmarks ⭐
+### 1. AMD denies researcher a $10,000 bug bounty after fixing critical auto-updater vulnerability security flaw took 124 days to patch 
 
-AMD claims its 256-core EPYC Venice CPU outperforms Nvidia's Vera by 3.3x in rack-level deployments, showcasing AMD's advancements in high-performance computing.
+AMD took 124 days to fix a critical auto-updater vulnerability, denying a $10,000 bug bounty to a researcher who reported the issue.
 
-💡 *EPYC Venice provides significant performance boost over competing high-end solutions*
+💡 *Security vulnerabilities can affect user trust in companies' ability to prioritize patching.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-fires-back-at-nvidia-claiming-256-core-zen-6-venice-cpu-beats-vera-by-3-3x-in-rack-level-performance-company-shares-first-estimated-epyc-venice-benchmarks)
-
----
-
-### 2. AMD claims next-gen Zen 6 server CPU will deliver 330% of Nvidia Vera's performance per rack ⭐
-
-AMD claims its next-gen Zen 6 server CPU will outperform Nvidia Vera, citing dramatic improvements in performance. The projection is based on AMD's earlier benchmark results that favored Nvidia's processor. The company aims to deliver a significant advantage in server performance.
-
-💡 *AMD's Zen 6 CPU promises to revolutionize server computing performance*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112724-amd-claims-next-gen-zen-6-server-cpu.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/amd-denies-researcher-a-usd10-000-bug-bounty-after-fixing-critical-auto-updater-vulnerability-security-flaw-took-124-days-to-patch)
 
 ---
 
-### 3. AI is set to consume up to 600 billion gallons of water by 2030 rising energy consumption primarily to blame as data center power demands rise 
+### 2. Microsoft is now letting Nvidia GPUs run local AI features that were locked to Copilot+ PCs 
 
-Data centers are projected to consume up to 600 billion gallons of water by 2030, largely due to increasing energy demands from rising power consumption. This is primarily caused by the growing power needs of data center GPUs and rack systems. Direct cooling methods require significantly less water compared to traditional cooling methods.
+Microsoft is now allowing Nvidia GPUs to run AI features previously restricted to Copilot+ PCs, making the dedicated AI hardware requirement less essential.
 
-💡 *Rising energy consumption drives unsustainable water usage in data centers.*
+💡 *Nvidia GPUs can run AI features, reducing hardware dependency.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ai-is-set-to-consume-up-to-600-billion-gallons-of-water-by-2030-rising-energy-consumption-primarily-to-blame-as-data-center-power-demands-rise)
-
----
-
-### 4. The Best Laptops of 2026: A Disruptive Mac, a Windows Comeback, and an Nvidia Wildcard 
-
-The 2026 laptop market has been impacted by a memory shortage, leading to increased prices. A $599 Apple laptop has bucked this trend. This has disrupted the market and sparked interest.
-
-💡 *Innovative products can thrive in times of scarcity and high demand.*
-
-🔗 [Read Full Article](https://www.techspot.com/bestof/laptops-26/)
+🔗 [Read Full Article](https://www.techspot.com/news/112729-microsoft-now-letting-nvidia-gpus-run-local-ai.html)
 
 ---
 
-### 5. A one-of-a-kind AMD PC signed by Lisa Su was sitting unopened in a basement for a decade 
+### 3. Display Driver Uninstaller completely wipes your GPU drivers for a fresh start 
 
-A rare AMD PC signed by Lisa Su was discovered in a basement after a decade. The PC is believed to have been a retirement gift to Rory Read in 2014. Its significance and value remain uncertain.
+Display Driver Uninstaller is a trusted utility for fully removing graphics drivers. It's useful for swapping GPUs, fixing driver conflicts, or troubleshooting crashes or odd performance issues. Regular uninstall may not be enough.
 
-💡 *Rare tech memorabilia holds potential for significant monetary or historical value.*
+💡 *A fresh driver start can resolve stubborn performance and crash issues.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112716-unused-pc-bearing-lisa-su-signature-former-amd.html)
+🔗 [Read Full Article](https://www.techspot.com/downloads/drivers/essentials/ddu-display-driver-uninstaller/)
 
 ---
 
-### 6. GPU-Z remains the go-to tool for detailed graphics card info 
+### 4. Save $300 on Gigabyte's Gaming A16 gaming laptop at Walmart Budget RTX 5060 -powered 16-inch laptop is now only $1,199 
 
-GPU-Z provides a clean snapshot of GPU information without installation requirements. It supports various GPU manufacturers, including Nvidia, AMD, and Intel. The tool is useful for verifying specs, monitoring behavior, or troubleshooting.
+Save $300 on Gigabyte's Gaming A16 laptop at Walmart, now $1,199.
 
-💡 *Accurate GPU information for troubleshooting and system optimization.*
+💡 *Budget gaming laptops become more affordable with significant price drops.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/4452-gpu-z.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/save-usd300-on-gigabytes-gaming-a16-gaming-laptop-at-walmart-budget-rtx-5060-powered-16-inch-laptop-is-now-only-usd1-199)
+
+---
+
+### 5. Save a massive $751 on this RTX 5070 Ti gaming PC with a 9800X3D right now liquid-cooled, 4K-ready Skytech rig with 32GB DDR5 and a 2TB SSD is now just $2,249 
+
+Save $751 on a powerful Skytech gaming PC with a 9800X3D and RTX 5070 Ti, ideal for 4K gaming.
+
+💡 *High-performance gaming at a significantly reduced price point.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-a-massive-usd751-on-this-rtx-5070-ti-gaming-pc-with-a-9800x3d-right-now-liquid-cooled-4k-ready-skytech-rig-with-32gb-ddr5-and-a-2tb-ssd-is-now-just-usd2-249)
+
+---
+
+### 6. Memory famine compels GPU vendors to re-release 2020 graphics cards GeForce RTX 3060 and GeForce RTX 3050 return to Asian market 
+
+GPU vendors re-release 2020 graphics cards due to memory shortages. Manli adds new GeForce RTX 3060 and GeForce RTX 3050 SKUs to its portfolio. These cards aim to meet increasing demand in the Asian market.
+
+💡 *Limited availability drives demand for re-released older graphics card models.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/memory-famine-compels-gpu-vendors-to-re-release-2020-graphics-cards-geforce-rtx-3060-and-geforce-rtx-3050-return-to-asian-market)
+
+---
+
+### 7. Ubisoft to cut 380 jobs and shut down studios in Canada and Serbia, report claims 
+
+Ubisoft plans to cut 380 jobs and shut down studios in Canada and Serbia.
+
+💡 *Mass layoffs threaten Ubisoft's global gaming industry presence and talent loss.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112737-ubisoft-cut-380-jobs-shut-down-studios-canada.html)
+
+---
+
+### 8. Gaming PC saves owner from bullet fired by neighbor's dog 
+
+A gaming PC helped save its owner from a stray bullet fired by a neighbor's dog, which shattered a window and hit the owner in the face.
+
+💡 *Unpredictable events can be deflected by technology in unexpected ways suddenly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112736-gaming-pc-saves-owner-bullet-fired-neighbor-dog.html)
+
+---
+
+### 9. Xbox is planning major layoffs and hinting at "radically different" console business model 
+
+Xbox is planning major layoffs, citing a need to revamp its console business model.
+
+💡 *Microsoft aims to adapt to changing gaming industry dynamics.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112725-xbox-planning-major-layoffs-hinting-radically-different-business.html)
 
 ---
 

@@ -1,115 +1,105 @@
 # 📰 Tech News
-**Week of June 11, 2026**
+**Week of June 12, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-06-11 12:32
+- **Articles this week:** 9
+- **Report generated:** 2026-06-12 12:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. California tests smart freeway that could make drivers wait four minutes to merge 
+### 1. Razer Blade 18 (2026) review: Coming in fast and hot 
 
-California's smart freeway on I-15 in Temecula aims to optimize traffic flow by controlling merge times, which could potentially make drivers wait four minutes to merge. This technology aims to reduce congestion and improve safety. It was launched on June 1.
+The Razer Blade 18 boasts strong performance and a versatile display, but comes with a hefty price tag and thermal issues.
 
-💡 *Smart freeway technology aims to optimize traffic flow and reduce congestion.*
+💡 *Expensive gaming PC compromises on power efficiency and cooling.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112730-california-tests-smart-freeway-could-make-drivers-wait.html)
-
----
-
-### 2. A developer ported Half-Life to a Nokia N95, and it runs at 30fps with Bluetooth keyboard support 
-
-Developer Dante Leoncini ported Half-Life to Nokia N95, achieving 30fps at launch. This feat was made possible by modern open-source engines, allowing the 1998 PC game to run on a 2007 mobile device. The project supports Bluetooth keyboard input.
-
-💡 *Legacy games can be reimagined on new platforms with modern tech.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112706-developer-ported-half-life-nokia-n95-runs-30fps.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/razer-blade-18-2026-review)
 
 ---
 
-### 3. Experts say Donut Lab's "breakthrough" solid-state battery is just ordinary lithium-ion 
+### 2. Anthropic launches powerful Fable 5 model publicly, while keeping Mythos restricted over cybersecurity concerns 
 
-Donut Lab's solid-state battery is not a breakthrough, but a lithium-ion battery. This conclusion is based on testing data from VTT, which shows the battery's behavior aligns with lithium-ion chemistry. The company claimed it was a sodium-ion solid-state design.
+Anthropic publicly releases Fable 5 while keeping Mythos restricted due to security concerns.
 
-💡 *False marketing of a non-revolutionary battery technology matters*
+💡 *Unrestricted AI models can reveal thousands of critical security vulnerabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112713-battery-experts-donut-lab-breakthrough-battery-looks-like.html)
-
----
-
-### 4. Signal attacks UK plan to scan devices for nude images as "mass surveillance" 
-
-The UK plans to scan devices for nude images via built-in features, sparking concerns over mass surveillance.
-
-💡 *Raises questions about balancing child protection with individual privacy rights.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112712-signal-attacks-uk-plan-scan-devices-nude-images.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112726-anthropic-launches-powerful-fable-5-model-publicly-while.html)
 
 ---
 
-### 5. Massive 8TB SD cards are set to ship 'shortly' after a two-year delay mind-blowing storage at possibly bank-breaking prices 
+### 3. Microsoft's June Patch Tuesday fixes a record 200 vulnerabilities, including five being actively exploited 
 
-8TB SD cards are set to release after a two-year delay, offering massive storage capacity. The exact launch date and pricing remain unknown. Notebookcheck reports on the impending retail market arrival.
+Microsoft released a record 200 CVE-tracked flaws, including 33 critical vulnerabilities in Windows, Office, and other products. This month's Patch Tuesday addresses actively exploited and potentially damaging bugs. Customers should prioritize installing the latest security fixes to minimize risks.
 
-💡 *Unprecedented storage capacity meets uncertain, potentially high pricing*
+💡 *Massive vulnerability patch underscores critical importance of timely software updates.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/microsd-cards/8tb-sd-cards-are-set-to-ship-shortly-after-a-two-year-delay-mind-blowing-storage-at-possibly-bank-breaking-prices)
-
----
-
-### 6. We tested 20 wall chargers, from cheap to expensive, to find the best from 15W to 140W, here are the chargers that perform the best without overheating and throttling 
-
-We tested 20 top wall chargers for performance and thermal control. Our results reveal the best chargers that deliver consistent power without overheating and throttling. These findings help consumers make informed purchasing decisions.
-
-💡 *Reliable charging speeds matter for seamless device performance and longevity.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/usb/we-tested-20-wall-chargers-from-cheap-to-expensive-to-see-what-we-would-find-from-15-140w-with-screens-and-without)
+🔗 [Read Full Article](https://www.techspot.com/news/112723-microsoft-june-patch-tuesday-fixes-record-200-vulnerabilities.html)
 
 ---
 
-### 7. Google reportedly books Intel for packaging more than 3 million TPUs in 2028 SK hynix is testing Intel's EMIB packaging for HBM integration 
+### 4. Memory famine compels GPU vendors to re-release 2020 graphics cards GeForce RTX 3060 and GeForce RTX 3050 return to Asian market 
 
-Google orders Intel to build over 3 million TPUs in 2028 after testing advanced packaging. This comes after months of evaluation by Google of Intel's packaging capabilities. The deal is a significant boost for Intel's packaging business.
+GPU vendors re-release 2020 graphics cards due to memory shortages. Manli adds new GeForce RTX 3060 and GeForce RTX 3050 SKUs to its portfolio. These cards aim to meet increasing demand in the Asian market.
 
-💡 *Breakthrough packaging tech fuels large-scale AI computing deployment ambitions.*
+💡 *Limited availability drives demand for re-released older graphics card models.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/google-reportedly-books-intel-for-more-than-3-million-tpus-in-2028)
-
----
-
-### 8. Overenthusiastic GTA 6 fan claims to be monitoring oxygen levels, acoustic noise from the bushes at Rockstar North HQ promises trailer 3 launch is imminent based on heightened activity 
-
-A GTA 6 fan claims to be monitoring Rockstar North HQ's activity, posting surveillance on Reddit to predict the next trailer. The fan's methods are likely a joke or a delusion. Their claims have sparked debate among the gaming community.
-
-💡 *Fanbase enthusiasm may lead to speculation and misinformation*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/overenthusiastic-gta-6-fan-claims-to-be-monitoring-oxygen-levels-acoustic-noise-from-the-bushes-at-rockstar-north-hq-promises-trailer-3-launch-is-imminent-based-on-heightened-activity)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/memory-famine-compels-gpu-vendors-to-re-release-2020-graphics-cards-geforce-rtx-3060-and-geforce-rtx-3050-return-to-asian-market)
 
 ---
 
-### 9. Bare-metal MSX2+ Emulator for ESP32-S3 offers custom LCD_CAM VGA implementation & Z80 optimizations 
+### 5. At 14, Shanya Gill dishes on tech and how she built Vigil Inc. 
 
-The S3-MSX-PC project offers a bare-metal MSX2+ emulator for ESP32-S3, featuring custom VGA output and Z80 optimizations. It uses a resistor ladder for 64-color VGA and Sigma-Delta modulation for audio. The emulator can run games at 60Hz on an off-the-shelf ESP32-S3 board.
+At 14, Shanya Gill founded Vigil Inc., offering customized monitoring services with cameras and VLM technology. In an interview, she breaks down the tech scene, highlighting the need for clarity beyond buzzwords. Gill's innovative approach is making waves in the industry.
 
-💡 *Retro gaming on ESP32-S3 with custom, high-quality video output*
+💡 *Behind tech buzzwords lies the need for practical innovation solutions.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/11/bare-metal-msx2-emulator-for-esp32-s3-offers-custom-lcd_cam-vga-implementation-z80-optimizations/)
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/14-shanya-gill-dishes-tech-and-how-she-built-vigil-inc)
 
 ---
 
-### 10. SanDisk's massive 8TB SD cards are finally close to launch 
+### 6. Touchscreen MacBook Pro looks "100% confirmed" as macOS 27 gives Sidecar full touch support 
 
-SanDisk's 8TB SD cards are nearing release, promising ample storage for portable devices.
+A prominent tipster claims the next MacBook Pro will feature a touchscreen, reversing Apple's stance.
 
-💡 *Massive storage capacity for portable devices is finally becoming more accessible.*
+💡 *Touchscreen integration could revolutionize MacBook Pro user experience dramatically.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112708-sandisk-massive-8tb-sd-cards-finally-close-launch.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112741-touchscreen-macbook-pro-looks-100-confirmed-macos-27.html)
+
+---
+
+### 7. ChatGPT becomes the fastest app to reach 1 billion monthly active users, just as AI sentiment worsens 
+
+ChatGPT has reached 1 billion monthly active users, breaking Google Maps' record.
+
+💡 *Rapid AI adoption fuels concerns about AI's growing impact and influence.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112743-chatgpt-becomes-fastest-app-reach-1-billion-monthly.html)
+
+---
+
+### 8. Solar generation beats coal in the US for the first time ever 
+
+Solar energy has surpassed coal as a source of US electricity, marking a significant shift in the energy mix. In just five years, coal's share has fallen from 19.7% to no longer being the leading source. Solar power now accounts for a larger percentage of US electricity.
+
+💡 *Accelerating transition to renewable energy reduces carbon emissions significantly*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112735-us-solar-generation-beats-coal-first-time-ever.html)
+
+---
+
+### 9. The end of uBlock Origin in Chrome is now weeks away, not months 
+
+Chromium will stop supporting Manifest V2 extensions, affecting uBlock Origin users. This change will impact users in Chrome, Edge, and Opera. The shift will occur with the next major release.
+
+💡 *uBlock Origin users face extension loss in Chromium-based browsers.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112722-end-ublock-origin-chrome-now-weeks-away-not.html)
 
 ---
 

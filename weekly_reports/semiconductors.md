@@ -1,65 +1,55 @@
 # ⚡ Semiconductors
-**Week of June 11, 2026**
+**Week of June 12, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-06-11 12:32
+- **Articles this week:** 4
+- **Report generated:** 2026-06-12 12:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Signal attacks UK plan to scan devices for nude images as "mass surveillance" 
+### 1. M5Stack Capsule Kit v1.1- A Battery-powered ESP32-S3 IoT controller with IMU sensor, MEMS microphone, and IR transmitter 
 
-The UK plans to scan devices for nude images via built-in features, sparking concerns over mass surveillance.
+The M5Stack Capsule v1.1 is a battery-powered ESP32-S3 IoT controller with various sensors and expansion capabilities, offering improved power efficiency and enhanced features.
 
-💡 *Raises questions about balancing child protection with individual privacy rights.*
+💡 *IoT applications benefit from compact, low-power, and feature-rich modules like M5Stack Capsule v1.1.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112712-signal-attacks-uk-plan-scan-devices-nude-images.html)
-
----
-
-### 2. Intel's upcoming Z970 and Z990 flagship chipsets will reportedly consume up to 14W at peak load, courtesy of more PCIe 5.0 support Nova Lake motherboards may feature a 22% smaller PCH than Z890 
-
-Intel's Z990 PCH for Nova Lake motherboards is smaller than Z890, despite increased power consumption.
-
-💡 *Power efficiency trade-off in smaller, more powerful chipsets.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/chipsets/intels-upcoming-z790-and-z990-flagship-chipsets-will-reportedly-consume-up-to-14w-at-peak-load-courtesy-of-more-pcie-5-0-support-nova-lake-motherboards-may-feature-a-22-percent-smaller-pch-than-z890)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/12/m5stack-capsule-kit-v1-1-a-battery-powered-esp32-s3-iot-controller-with-imu-sensor-mems-microphone-and-ir-transmitter/)
 
 ---
 
-### 3. Canada introduces social media ban for under-16s, but platforms could avoid it 
+### 2. $7.99 Seeed Studio Wio-S3 WiFi, Bluetooth LE, and LoRa IoT module combines ESP32-S3 and SX1262 RF transceiver 
 
-Canada's Safe Social Media Act forces tech companies to protect under-16s from online harms.
+The Seeed Studio Wio-S3 is a compact IoT module combining ESP32-S3 and SX1262 for WiFi, Bluetooth, and LoRa connectivity, suitable for industrial automation, remote monitoring, and IoT data logging.
 
-💡 *Tech companies' responsibility increases, shifting burden from parents.*
+💡 *Affordable, compact, and feature-rich IoT connectivity for various applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112728-canada-introduces-social-media-ban-under-16s-but.html)
-
----
-
-### 4. Logitech's new Mobi Fold mouse folds flat for travel 
-
-Logitech's Mobi Fold mouse folds flat for travel, providing comfort and quiet use.
-
-💡 *Compact wireless mouse design simplifies travel storage options.*
-
-🔗 [Read Full Article](https://www.techspot.com/products/mice/logitech-mobi-fold.325793/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/12/7-99-seeed-studio-wio-s3-wifi-bluetooth-le-and-lora-iot-module-combines-esp32-s3-and-sx1262-rf-transceiver/)
 
 ---
 
-### 5. PZSDR P047 RF-ADC and RF-DAC high-end SDR board is based on AMD Zynq UltraScale+ ZU47DR RFSoC (Crowdfunding) 
+### 3. SONOFF BASIC-1GSP Matter over WiFi smart switch supports DIN rail mounting, real-time energy monitoring 
 
-The PZSDR P047 is a high-end SDR board featuring 8 RF ADCs and 8 RF DACs, based on the AMD Zynq UltraScale+ ZU47DR RFSoC. It includes various interfaces and a quad-core processor, making it suitable for advanced MIMO wireless applications. The board is available through crowdfunding.
+The SONOFF BASIC-1GSP is a Matter-enabled smart switch for DIN rail mounting, offering real-time energy monitoring and customizable safety features for high-power circuits.
 
-💡 *High-performance MIMO wireless applications now have a highly capable platform*
+💡 *Real-time energy monitoring for high-power devices and safety features matter.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/11/pzsdr-p047-rf-adc-and-rf-dac-high-end-sdr-board-is-based-on-amd-zynq-ultrascale-zu47dr-rfsoc/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/11/sonoff-basic-1gsp-matter-over-wifi-smart-switch-supports-din-rail-mounting-real-time-energy-monitoring/)
+
+---
+
+### 4. The PCIe 5.0 tax: Intel's Z990 chipset for Nova Lake runs hotter and uses more power despite shrinking 
+
+The Intel Z990 chipset for Nova Lake is smaller and more efficient. However, it runs hotter and uses more power. This is a trade-off for supporting PCIe 5.0.
+
+💡 *PCIe 5.0 adoption comes at a cost of increased power consumption.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112731-intel-z990-chipset-could-use-more-power-than.html)
 
 ---
 

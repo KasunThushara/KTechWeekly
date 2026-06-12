@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 11, 2026**
+**Week of June 12, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance company shares first estimated EPYC Venice benchmarks ⭐
-
-**🤖 AI & ML**
-
-AMD claims its 256-core EPYC Venice CPU outperforms Nvidia's Vera by 3.3x in rack-level deployments, showcasing AMD's advancements in high-performance computing.
-
-💡 **Key Point:** EPYC Venice provides significant performance boost over competing high-end solutions
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-fires-back-at-nvidia-claiming-256-core-zen-6-venice-cpu-beats-vera-by-3-3x-in-rack-level-performance-company-shares-first-estimated-epyc-venice-benchmarks)
-
----
-
-### 2. piBrick PocketCM5 An open-source handheld Linux computer kit for Raspberry Pi CM5 ⭐
-
-**💻 Hardware**
-
-The piBrick PocketCM5 is an open-source handheld Linux computer kit based on Raspberry Pi CM5, featuring a 3.92-inch AMOLED touchscreen display, physical keyboard, and expansion options. It's designed for developers, makers, and system administrators. This Linux machine is compact and versatile.
-
-💡 **Key Point:** Compact, open-source Linux machine for makers and developers
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/11/pibrick-pocketcm5-an-open-source-handheld-linux-computer-kit-for-raspberry-pi-cm5/)
-
----
-
-### 3. AMD claims next-gen Zen 6 server CPU will deliver 330% of Nvidia Vera's performance per rack ⭐
-
-**💻 Hardware**
-
-AMD claims its next-gen Zen 6 server CPU will outperform Nvidia Vera, citing dramatic improvements in performance. The projection is based on AMD's earlier benchmark results that favored Nvidia's processor. The company aims to deliver a significant advantage in server performance.
-
-💡 **Key Point:** AMD's Zen 6 CPU promises to revolutionize server computing performance
-
-🔗 [Read More](https://www.techspot.com/news/112724-amd-claims-next-gen-zen-6-server-cpu.html)
-
----
-
-### 4. AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance company shares first estimated EPYC Venice benchmarks ⭐
+### 1. AMD denies researcher a $10,000 bug bounty after fixing critical auto-updater vulnerability security flaw took 124 days to patch 
 
 **🎮 GPUs**
 
-AMD claims its 256-core EPYC Venice CPU outperforms Nvidia's Vera by 3.3x in rack-level deployments, showcasing AMD's advancements in high-performance computing.
+AMD took 124 days to fix a critical auto-updater vulnerability, denying a $10,000 bug bounty to a researcher who reported the issue.
 
-💡 **Key Point:** EPYC Venice provides significant performance boost over competing high-end solutions
+💡 **Key Point:** Security vulnerabilities can affect user trust in companies' ability to prioritize patching.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-fires-back-at-nvidia-claiming-256-core-zen-6-venice-cpu-beats-vera-by-3-3x-in-rack-level-performance-company-shares-first-estimated-epyc-venice-benchmarks)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/amd-denies-researcher-a-usd10-000-bug-bounty-after-fixing-critical-auto-updater-vulnerability-security-flaw-took-124-days-to-patch)
 
 ---
 
-### 5. AMD claims next-gen Zen 6 server CPU will deliver 330% of Nvidia Vera's performance per rack ⭐
+### 2. Microsoft is now letting Nvidia GPUs run local AI features that were locked to Copilot+ PCs 
 
 **🎮 GPUs**
 
-AMD claims its next-gen Zen 6 server CPU will outperform Nvidia Vera, citing dramatic improvements in performance. The projection is based on AMD's earlier benchmark results that favored Nvidia's processor. The company aims to deliver a significant advantage in server performance.
+Microsoft is now allowing Nvidia GPUs to run AI features previously restricted to Copilot+ PCs, making the dedicated AI hardware requirement less essential.
 
-💡 **Key Point:** AMD's Zen 6 CPU promises to revolutionize server computing performance
+💡 **Key Point:** Nvidia GPUs can run AI features, reducing hardware dependency.
 
-🔗 [Read More](https://www.techspot.com/news/112724-amd-claims-next-gen-zen-6-server-cpu.html)
+🔗 [Read More](https://www.techspot.com/news/112729-microsoft-now-letting-nvidia-gpus-run-local-ai.html)
+
+---
+
+### 3. Display Driver Uninstaller completely wipes your GPU drivers for a fresh start 
+
+**🎮 GPUs**
+
+Display Driver Uninstaller is a trusted utility for fully removing graphics drivers. It's useful for swapping GPUs, fixing driver conflicts, or troubleshooting crashes or odd performance issues. Regular uninstall may not be enough.
+
+💡 **Key Point:** A fresh driver start can resolve stubborn performance and crash issues.
+
+🔗 [Read More](https://www.techspot.com/downloads/drivers/essentials/ddu-display-driver-uninstaller/)
+
+---
+
+### 4. Razer Blade 18 (2026) review: Coming in fast and hot 
+
+**💻 Hardware**
+
+The Razer Blade 18 boasts strong performance and a versatile display, but comes with a hefty price tag and thermal issues.
+
+💡 **Key Point:** Expensive gaming PC compromises on power efficiency and cooling.
+
+🔗 [Read More](https://www.tomshardware.com/laptops/gaming-laptops/razer-blade-18-2026-review)
+
+---
+
+### 5. M5Stack Capsule Kit v1.1- A Battery-powered ESP32-S3 IoT controller with IMU sensor, MEMS microphone, and IR transmitter 
+
+**💻 Hardware**
+
+The M5Stack Capsule v1.1 is a battery-powered ESP32-S3 IoT controller with various sensors and expansion capabilities, offering improved power efficiency and enhanced features.
+
+💡 **Key Point:** IoT applications benefit from compact, low-power, and feature-rich modules like M5Stack Capsule v1.1.
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/12/m5stack-capsule-kit-v1-1-a-battery-powered-esp32-s3-iot-controller-with-imu-sensor-mems-microphone-and-ir-transmitter/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **53 articles** across **5 focused categories**.
+We covered **44 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 21 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 12 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 9 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 21 articles
+*Artificial Intelligence and Machine Learning* — 12 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 6 articles
+*Graphics cards and compute accelerators* — 9 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 11 articles
+*Computing hardware and development boards* — 10 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 5 articles
+*Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 10 articles
+*Industry news and product launches* — 9 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-11 at 12:32 by an autonomous AI curation system.
+Generated 2026-06-12 at 12:02 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
