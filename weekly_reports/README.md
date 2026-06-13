@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 12, 2026**
+**Week of June 13, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. AMD denies researcher a $10,000 bug bounty after fixing critical auto-updater vulnerability security flaw took 124 days to patch 
-
-**🎮 GPUs**
-
-AMD took 124 days to fix a critical auto-updater vulnerability, denying a $10,000 bug bounty to a researcher who reported the issue.
-
-💡 **Key Point:** Security vulnerabilities can affect user trust in companies' ability to prioritize patching.
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/amd-denies-researcher-a-usd10-000-bug-bounty-after-fixing-critical-auto-updater-vulnerability-security-flaw-took-124-days-to-patch)
-
----
-
-### 2. Microsoft is now letting Nvidia GPUs run local AI features that were locked to Copilot+ PCs 
-
-**🎮 GPUs**
-
-Microsoft is now allowing Nvidia GPUs to run AI features previously restricted to Copilot+ PCs, making the dedicated AI hardware requirement less essential.
-
-💡 **Key Point:** Nvidia GPUs can run AI features, reducing hardware dependency.
-
-🔗 [Read More](https://www.techspot.com/news/112729-microsoft-now-letting-nvidia-gpus-run-local-ai.html)
-
----
-
-### 3. Display Driver Uninstaller completely wipes your GPU drivers for a fresh start 
-
-**🎮 GPUs**
-
-Display Driver Uninstaller is a trusted utility for fully removing graphics drivers. It's useful for swapping GPUs, fixing driver conflicts, or troubleshooting crashes or odd performance issues. Regular uninstall may not be enough.
-
-💡 **Key Point:** A fresh driver start can resolve stubborn performance and crash issues.
-
-🔗 [Read More](https://www.techspot.com/downloads/drivers/essentials/ddu-display-driver-uninstaller/)
-
----
-
-### 4. Razer Blade 18 (2026) review: Coming in fast and hot 
+### 1. Espressif ESP32-E22 WiFi 6E module gets Wi-Fi CERTIFIED certificate, open-source WiFi and Bluetooth Linux drivers ⭐
 
 **💻 Hardware**
 
-The Razer Blade 18 boasts strong performance and a versatile display, but comes with a hefty price tag and thermal issues.
+Espressif's ESP32-E22 WiFi 6E module has achieved Wi-Fi CERTIFIED status and open-source drivers.
 
-💡 **Key Point:** Expensive gaming PC compromises on power efficiency and cooling.
+💡 **Key Point:** Advancements in wireless technology for host-based systems gain momentum.
 
-🔗 [Read More](https://www.tomshardware.com/laptops/gaming-laptops/razer-blade-18-2026-review)
+🔗 [Read More](https://www.cnx-software.com/2026/06/13/espressif-esp32-e22-wifi-6e-module-gets-wi-fi-certified-certificate-an-open-source-wifi-and-bluetooth-linux-drivers/)
 
 ---
 
-### 5. M5Stack Capsule Kit v1.1- A Battery-powered ESP32-S3 IoT controller with IMU sensor, MEMS microphone, and IR transmitter 
+### 2. Espressif ESP32-E22 WiFi 6E module gets Wi-Fi CERTIFIED certificate, open-source WiFi and Bluetooth Linux drivers ⭐
 
-**💻 Hardware**
+**⚡ Semiconductors**
 
-The M5Stack Capsule v1.1 is a battery-powered ESP32-S3 IoT controller with various sensors and expansion capabilities, offering improved power efficiency and enhanced features.
+Espressif's ESP32-E22 WiFi 6E module has achieved Wi-Fi CERTIFIED status and open-source drivers.
 
-💡 **Key Point:** IoT applications benefit from compact, low-power, and feature-rich modules like M5Stack Capsule v1.1.
+💡 **Key Point:** Advancements in wireless technology for host-based systems gain momentum.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/12/m5stack-capsule-kit-v1-1-a-battery-powered-esp32-s3-iot-controller-with-imu-sensor-mems-microphone-and-ir-transmitter/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/13/espressif-esp32-e22-wifi-6e-module-gets-wi-fi-certified-certificate-an-open-source-wifi-and-bluetooth-linux-drivers/)
+
+---
+
+### 3. Dev releases unblockable ASCII video stream software delivers 360p video at 30 FPS and acts as a bridge for AI  
+
+**🤖 AI & ML**
+
+A new software delivers high-performance, real-time ASCII video rendering, capable of broadcasting 360p video at 30 FPS, offering an unblockable video stream solution. It acts as a bridge for AI-powered applications, providing a unique video streaming solution. This software promises to revolutionize the way we stream video content.
+
+💡 **Key Point:** Unblockable video stream bypasses traditional content delivery network restrictions
+
+🔗 [Read More](https://www.tomshardware.com/software/video-editing-graphic-design/dev-releases-unblockable-ascii-video-stream-software-mode-5-rendering-puts-out-360p-at-30-fps-using-pure-text)
+
+---
+
+### 4. Microsoft's bug-hunting nemesis extends vendetta with more zero-day attacks Nightmare Eclipse publishes RoguePlanet and GreatXML local privilege escalation exploits 
+
+**🤖 AI & ML**
+
+Nightmare-Eclipse expands its vendetta against Microsoft with two new zero-day exploits. The researcher has published RoguePlanet and GreatXML, which are local privilege escalation exploits. This is the latest in a series of attacks targeting Windows.
+
+💡 **Key Point:** Zero-day exploits threaten vulnerable Windows systems with unpatched vulnerabilities.
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-bug-hunting-nemesis-extends-vendetta-with-more-zero-day-attacks-nightmare-eclipse-publishes-rogueplanet-and-greatxml-local-privilege-escalation-exploits)
+
+---
+
+### 5. Samsung is building floating data centers on ships, and it's already got regulatory approval 
+
+**🤖 AI & ML**
+
+Samsung Heavy Industries is developing floating data centers with partners. This innovation aims to provide sustainable and efficient data hosting facilities. The project has already received regulatory approval.
+
+💡 **Key Point:** Revolutionizing data hosting with sustainable, self-sustaining AI facilities on sea
+
+🔗 [Read More](https://www.techspot.com/news/112738-samsung-building-floating-data-centers-ships-already-got.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **44 articles** across **5 focused categories**.
+We covered **32 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 12 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 9 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 9 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 9 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 12 articles
+*Artificial Intelligence and Machine Learning* — 9 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 9 articles
+*Graphics cards and compute accelerators* — 5 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 10 articles
+*Computing hardware and development boards* — 9 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 4 articles
+*Chip manufacturing and design* — 3 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 9 articles
+*Industry news and product launches* — 6 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-12 at 12:02 by an autonomous AI curation system.
+Generated 2026-06-13 at 11:01 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

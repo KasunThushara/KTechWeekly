@@ -1,105 +1,75 @@
 # 📰 Tech News
-**Week of June 12, 2026**
+**Week of June 13, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-06-12 12:02
+- **Articles this week:** 6
+- **Report generated:** 2026-06-13 11:01
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Razer Blade 18 (2026) review: Coming in fast and hot 
+### 1. Dev releases unblockable ASCII video stream software delivers 360p video at 30 FPS and acts as a bridge for AI  
 
-The Razer Blade 18 boasts strong performance and a versatile display, but comes with a hefty price tag and thermal issues.
+A new software delivers high-performance, real-time ASCII video rendering, capable of broadcasting 360p video at 30 FPS, offering an unblockable video stream solution. It acts as a bridge for AI-powered applications, providing a unique video streaming solution. This software promises to revolutionize the way we stream video content.
 
-💡 *Expensive gaming PC compromises on power efficiency and cooling.*
+💡 *Unblockable video stream bypasses traditional content delivery network restrictions*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/razer-blade-18-2026-review)
-
----
-
-### 2. Anthropic launches powerful Fable 5 model publicly, while keeping Mythos restricted over cybersecurity concerns 
-
-Anthropic publicly releases Fable 5 while keeping Mythos restricted due to security concerns.
-
-💡 *Unrestricted AI models can reveal thousands of critical security vulnerabilities.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112726-anthropic-launches-powerful-fable-5-model-publicly-while.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/video-editing-graphic-design/dev-releases-unblockable-ascii-video-stream-software-mode-5-rendering-puts-out-360p-at-30-fps-using-pure-text)
 
 ---
 
-### 3. Microsoft's June Patch Tuesday fixes a record 200 vulnerabilities, including five being actively exploited 
+### 2. Windows Server is getting new network safety capabilities with DNS over HTTPS 
 
-Microsoft released a record 200 CVE-tracked flaws, including 33 critical vulnerabilities in Windows, Office, and other products. This month's Patch Tuesday addresses actively exploited and potentially damaging bugs. Customers should prioritize installing the latest security fixes to minimize risks.
+Windows Server 2025 now supports DNS over HTTPS for encrypted DNS traffic.
 
-💡 *Massive vulnerability patch underscores critical importance of timely software updates.*
+💡 *Enhanced network safety through secure client-to-server communications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112723-microsoft-june-patch-tuesday-fixes-record-200-vulnerabilities.html)
-
----
-
-### 4. Memory famine compels GPU vendors to re-release 2020 graphics cards GeForce RTX 3060 and GeForce RTX 3050 return to Asian market 
-
-GPU vendors re-release 2020 graphics cards due to memory shortages. Manli adds new GeForce RTX 3060 and GeForce RTX 3050 SKUs to its portfolio. These cards aim to meet increasing demand in the Asian market.
-
-💡 *Limited availability drives demand for re-released older graphics card models.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/memory-famine-compels-gpu-vendors-to-re-release-2020-graphics-cards-geforce-rtx-3060-and-geforce-rtx-3050-return-to-asian-market)
+🔗 [Read Full Article](https://www.techspot.com/news/112749-windows-server-getting-new-network-safety-capabilities-dns.html)
 
 ---
 
-### 5. At 14, Shanya Gill dishes on tech and how she built Vigil Inc. 
+### 3. Samsung is building floating data centers on ships, and it's already got regulatory approval 
 
-At 14, Shanya Gill founded Vigil Inc., offering customized monitoring services with cameras and VLM technology. In an interview, she breaks down the tech scene, highlighting the need for clarity beyond buzzwords. Gill's innovative approach is making waves in the industry.
+Samsung Heavy Industries is developing floating data centers with partners. This innovation aims to provide sustainable and efficient data hosting facilities. The project has already received regulatory approval.
 
-💡 *Behind tech buzzwords lies the need for practical innovation solutions.*
+💡 *Revolutionizing data hosting with sustainable, self-sustaining AI facilities on sea*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/14-shanya-gill-dishes-tech-and-how-she-built-vigil-inc)
-
----
-
-### 6. Touchscreen MacBook Pro looks "100% confirmed" as macOS 27 gives Sidecar full touch support 
-
-A prominent tipster claims the next MacBook Pro will feature a touchscreen, reversing Apple's stance.
-
-💡 *Touchscreen integration could revolutionize MacBook Pro user experience dramatically.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112741-touchscreen-macbook-pro-looks-100-confirmed-macos-27.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112738-samsung-building-floating-data-centers-ships-already-got.html)
 
 ---
 
-### 7. ChatGPT becomes the fastest app to reach 1 billion monthly active users, just as AI sentiment worsens 
+### 4. Android engineer leaves Google amid concerns over defense partnerships 
 
-ChatGPT has reached 1 billion monthly active users, breaking Google Maps' record.
+Ren Mayrhofer, an Android engineer, left Google citing concerns over defense partnerships.
 
-💡 *Rapid AI adoption fuels concerns about AI's growing impact and influence.*
+💡 *Google's shift from neutrality sparks engineer's moral and ethical concerns.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112743-chatgpt-becomes-fastest-app-reach-1-billion-monthly.html)
-
----
-
-### 8. Solar generation beats coal in the US for the first time ever 
-
-Solar energy has surpassed coal as a source of US electricity, marking a significant shift in the energy mix. In just five years, coal's share has fallen from 19.7% to no longer being the leading source. Solar power now accounts for a larger percentage of US electricity.
-
-💡 *Accelerating transition to renewable energy reduces carbon emissions significantly*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112735-us-solar-generation-beats-coal-first-time-ever.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112747-android-engineer-leaves-google-amid-concerns-over-defense.html)
 
 ---
 
-### 9. The end of uBlock Origin in Chrome is now weeks away, not months 
+### 5. Delicate touch: Tactile sensors help humanoids get a grip 
 
-Chromium will stop supporting Manifest V2 extensions, affecting uBlock Origin users. This change will impact users in Chrome, Edge, and Opera. The shift will occur with the next major release.
+Bosch is leveraging MEMS technology for humanoids to improve tactile sensing, enabling more precise interactions. This advancement is expected to drive growth in the industry. The investment in robot startups also doubles, indicating a surge in interest.
 
-💡 *uBlock Origin users face extension loss in Chromium-based browsers.*
+💡 *Advanced tactile sensors enhance humanoids' grip and interaction capabilities*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112722-end-ublock-origin-chrome-now-weeks-away-not.html)
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/delicate-touch-tactile-sensors-help-humanoids-get-grip)
+
+---
+
+### 6. ST notches market lead for in-car sensors 
+
+European regulation is driving the adoption of in-car sensors to detect driver distraction and drowsiness, leading to a growth in occupant sensor technology.
+
+💡 *Safety regulations boost in-car sensor adoption across European market.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/st-notches-market-lead-car-sensors)
 
 ---
 

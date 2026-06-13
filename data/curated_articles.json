@@ -1,289 +1,223 @@
 [
   {
-    "title": "Save $300 on Gigabyte's Gaming A16 gaming laptop at Walmart Budget RTX 5060 -powered 16-inch laptop is now only $1,199",
-    "summary": "Save $300 on Gigabyte's Gaming A16 gaming laptop at Walmart. Budget RTX 5060 -powered 16-inch laptop is now only $1,199.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd300-on-gigabytes-gaming-a16-gaming-laptop-at-walmart-budget-rtx-5060-powered-16-inch-laptop-is-now-only-usd1-199",
+    "title": "Ukraine used 10 AI-controlled Terminator drones to kill Russian soldiers two years ago, marking first autonomous killings of humans autonomous killer quadcopters left everything dead says senior Ukrainian defense industry figure",
+    "summary": "A watershed moment occurred on the battlefields of Ukraine in 2024 when 10 fully autonomous AI-controlled quadcopter drones were sent to the front lines against Russia with Terminator Mode engaged.",
+    "link": "https://www.tomshardware.com/tech-industry/ukraine-used-10-ai-controlled-terminator-drones-to-kill-russian-soldiers-two-years-ago-marking-first-autonomous-killings-of-humans-senior-ukrainian-defense-industry-figure-confirms-this-autonomous-watershed-was-passed-in-2024",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-13T11:01:02.995293"
+  },
+  {
+    "title": "Dev releases unblockable ASCII video stream software delivers 360p video at 30 FPS and acts as a bridge for AI ",
+    "summary": "A new and unique video streaming solution is pitched as a 'high-performance, real-time ASCII video rendering engine' that can be used to broadcast 'an unblockable video stream.'",
+    "link": "https://www.tomshardware.com/software/video-editing-graphic-design/dev-releases-unblockable-ascii-video-stream-software-mode-5-rendering-puts-out-360p-at-30-fps-using-pure-text",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-13T11:01:02.995419"
+  },
+  {
+    "title": "Thrustmaster's new specialized T.Flight Hotas 5 Microsoft Flight Simulator Edition provides a plug-and-play flight sim setup for just $109 featuring 5-axis control with 16-bit precision and dual-rudder system",
+    "summary": "Rocking 16-bit precision, dual-rudder yaw, 5-axis control and a plug-and-play profile for Microsoft Flight Simulator 2024, the new T.Flight Hotas 5 is a solid entry point to flight sims. It works with PlayStation consoles and PC out of the box, with convenient features like a detachable throttle.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/thrustmasters-new-specialized-t-flight-hotas-5-microsoft-flight-simulator-edition-provides-a-plug-and-play-flight-sim-setup-for-just-usd109-featuring-5-axis-control-with-16-bit-precision-and-dual-rudder-system",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-13T11:01:02.995592"
+  },
+  {
+    "title": "Radeon RX 9070 XT finally appears in Steam Hardware Survey RDNA 4 flagship surprisingly lands just behind RTX 5080",
+    "summary": "AMD s Radeon RX 9070 XT graphics card has finally penetrated the Steam Survey video card results table, going straight in at position 25.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/radeon-rx-9070-xt-finally-appears-in-steam-hardware-survey-rdna-4-flagship-surprisingly-lands-just-behind-rtx-5080",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.611981"
+    "processed_date": "2026-06-13T11:01:02.995703"
   },
   {
-    "title": "Save a massive $751 on this RTX 5070 Ti gaming PC with a 9800X3D right now liquid-cooled, 4K-ready Skytech rig with 32GB DDR5 and a 2TB SSD is now just $2,249",
-    "summary": "Save $750 on this Skytech gaming PC for gaming at 1440p and 4K, featuring a 9800X3D, RTX 5070 Ti, 32GB DDR5, and a 2 TB SSD.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-a-massive-usd751-on-this-rtx-5070-ti-gaming-pc-with-a-9800x3d-right-now-liquid-cooled-4k-ready-skytech-rig-with-32gb-ddr5-and-a-2tb-ssd-is-now-just-usd2-249",
+    "title": "Nvidia's high-speed AI data center storage servers break cover, touting 2.9 petabytes of storage and extreme PCIe 6.0 performance Wiwynn shows off SCADA server with GPU-accelerated storage",
+    "summary": "Wiwynn is among the first to demonstrate Nvidia SCADA server that promises to offer AI systems petabytes of ultra-fast storage thanks to GPU-accelerated storage acceleration.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/nvidias-high-speed-ai-data-center-storage-servers-break-cover-touting-2-9-petabytes-of-storage-and-extreme-pcie-6-0-performance-wiwynn-shows-off-scada-server-with-gpu-accelerated-storage",
     "categories": [
-      "GPUs",
-      "Hardware"
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-13T11:01:02.995820"
+  },
+  {
+    "title": "Microsoft's bug-hunting nemesis extends vendetta with more zero-day attacks Nightmare Eclipse publishes RoguePlanet and GreatXML local privilege escalation exploits",
+    "summary": "Nightmare-Eclipse's vendetta against Microsoft and Windows continues apace researcher publishes RoguePlanet and GreatXML local privilege escalation zero-day exploits",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-bug-hunting-nemesis-extends-vendetta-with-more-zero-day-attacks-nightmare-eclipse-publishes-rogueplanet-and-greatxml-local-privilege-escalation-exploits",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-13T11:01:02.995931"
+  },
+  {
+    "title": "Various vendors add AMD EXPO Ultra-Low Latency to 600-series motherboards in latest BIOS updates tech tightens memory subtimings on compatible kits, boosting FPS by up to 4%",
+    "summary": "New BIOS updates featuring AMD EXPO Ultra Low Latency support are being released across a plethora of 600-series motherboards by multiple vendors.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/various-vendors-add-amd-expo-ultra-low-latency-to-600-series-motherboards-in-latest-bios-updates-tech-tightens-memory-subtimings-on-compatible-kits-boosting-fps-by-up-to-4-percent",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-13T11:01:02.996040"
+  },
+  {
+    "title": "Republican lawmakers urge federal agency to block imports of infringing TSMC chips as patent ruling nears five asserted U.S. patents come from United Microelectronics Corporation",
+    "summary": "Four Republican members of Congress have urged the U.S. ITC to block imports of foreign-made chips found to infringe U.S. patents",
+    "link": "https://www.tomshardware.com/tech-industry/republican-lawmakers-urge-itc-to-block-imports-of-infringing-tsmc-chips-as-patent-ruling-imminent",
+    "categories": [
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.612099"
+    "processed_date": "2026-06-13T11:01:02.996145"
   },
   {
-    "title": "Xbox will pay five times more for memory and storage in 2027 than it did two years ago CEO Asha Sharma admits there's an unsustainable hardware gap that 'cannot continue'",
-    "summary": "The next-gen Xbox Helix is looking in trouble due to surging memory and storage costs that are forcing even a giant like Microsoft to bend down.",
-    "link": "https://www.tomshardware.com/video-games/xbox/xbox-will-pay-five-times-more-for-components-in-2027-than-it-did-two-years-ago-ceo-asha-sharma-admits-theres-an-unsustainable-hardware-gap-that-cannot-continue",
+    "title": "Espressif ESP32-E22 WiFi 6E module gets Wi-Fi CERTIFIED certificate, open-source WiFi and Bluetooth Linux drivers",
+    "summary": "The ESP32-E22 tri-band Wi-Fi 6E and Bluetooth 5.4 module has received a Wi-Fi CERTIFIED certificate from the Wi-Fi Alliance, and Espressif has also released WiFi and Bluetooth Linux drivers for the chip. The ESP32-E22 was first unveiled at CES 2026 with a dual-core RISC-V processor clocked at up to 500 MHz, 1MB RAM, tri-band WiFi 6E tested up to 2.1 Gbps with iperf, and dual-mode Bluetooth 5.4/6.0. While it also features 41 GPIO pins, it s not mainly designed for IoT projects, but instead targets host-based wireless systems needing WiFi 6E / Bluetooth 5.4 connectivity through PCIe 2.0 or SDIO interfaces. In other words, the ESP32-E22 will likely show on M.2 modules, competing against similar products from MediaTek and Intel. Espressif has not said which module was tested for the Wi-Fi CERTIFIED certificate, but I suspect it should be the upcoming ESP32-E22-M2-1 M.2 module listed on the company s website. From the certificate, [...] The post Espressif ESP32-E22 WiFi 6E module gets Wi-Fi CERTIFIED certificate, open-source WiFi and Bluetooth Linux drivers appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/13/espressif-esp32-e22-wifi-6e-module-gets-wi-fi-certified-certificate-an-open-source-wifi-and-bluetooth-linux-drivers/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-13T11:01:02.996730"
+  },
+  {
+    "title": "Delicate touch: Tactile sensors help humanoids get a grip",
+    "summary": "Bosch sees big MEMS growth with humanoids, while industry robot startup investment doubles",
+    "link": "https://www.fiercesensors.com/sensors/delicate-touch-tactile-sensors-help-humanoids-get-grip",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-13T11:01:02.997758"
+  },
+  {
+    "title": "ST notches market lead for in-car sensors",
+    "summary": "European regulation is driving adoption of sensors to detect driver distraction and drowsiness and lifting occupant sensor growth as well",
+    "link": "https://www.fiercesensors.com/sensors/st-notches-market-lead-car-sensors",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-13T11:01:02.998126"
+  },
+  {
+    "title": "SpaceX goes public in the largest IPO ever, and Musk crosses the trillion-dollar line",
+    "summary": "SpaceX began trading on the Nasdaq on Friday under the ticker SPCX, and the numbers attached to the debut are the kind that usually require a footnote to believe. The company priced 555.6 million Class A shares at $135 on Thursday evening, raising roughly $75 billion and valuing the firm... Read Entire Article",
+    "link": "https://www.techspot.com/news/112752-spacex-goes-public-largest-ipo-ever-musk-crosses.html",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.612209"
+    "processed_date": "2026-06-13T11:01:02.998332"
   },
   {
-    "title": "New malware campaign tricks AI scanners with fake nuclear weapon prompts malicious code triggers safety failsafes so scanners skip the payload",
-    "summary": "Hades malware campaign now tricks AI bots into not scanning development packages, as prompts for bio- and nuclear weapons trigger failsafe mechanisms.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/hades-malware-campaign-now-tricks-ai-bots-by-injecting-text-about-biological-and-nuclear-weapons-failsafe-mechanisms-triggered-by-prompts-for-weapon-creation-stop-scans-before-payload-is-seen",
+    "title": "Windows Server is getting new network safety capabilities with DNS over HTTPS",
+    "summary": "Microsoft recently announced that DNS over HTTPS (DoH) is now available on Windows Server 2025, providing encrypted DNS traffic for client-to-server communications. The feature has been available in Windows client editions for years and is now being extended to server-oriented versions of the operating system. Read Entire Article",
+    "link": "https://www.techspot.com/news/112749-windows-server-getting-new-network-safety-capabilities-dns.html",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-13T11:01:02.998538"
+  },
+  {
+    "title": "Flock AI cameras allegedly used by police to stalk ex-girlfriends and partners",
+    "summary": "According to reports from various local and national news outlets, at least 18 police officers have either been arrested, fired, or placed under investigation for allegedly abusing data from Flock AI cameras to stalk their ex-partners. Investigators told 404 Media they believe the cases represent only the tip of the... Read Entire Article",
+    "link": "https://www.techspot.com/news/112750-flock-ai-cameras-allegedly-used-police-stalk-ex.html",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.612325"
+    "quality_score": 5,
+    "processed_date": "2026-06-13T11:01:02.998714"
   },
   {
-    "title": "AMD denies researcher a $10,000 bug bounty after fixing critical auto-updater vulnerability security flaw took 124 days to patch",
-    "summary": "AMD took over four months to fix a critical security bug in its autoupdater, and the security researcher didn't see a dime for his efforts",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/amd-denies-researcher-a-usd10-000-bug-bounty-after-fixing-critical-auto-updater-vulnerability-security-flaw-took-124-days-to-patch",
+    "title": "Android engineer leaves Google amid concerns over defense partnerships",
+    "summary": "Ren Mayrhofer, a principal software engineer for Android Security and self-described pacifist and privacy advocate, has resigned from Google. The engineer had worked at Mountain View since 2017 but said he had become increasingly dissatisfied with what he sees as the company's departure from its previously stated and repeatedly... Read Entire Article",
+    "link": "https://www.techspot.com/news/112747-android-engineer-leaves-google-amid-concerns-over-defense.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-13T11:01:02.998888"
+  },
+  {
+    "title": "Chris Seedor once spent 1,500 Bitcoin on a GPU. Now he insures crypto fortunes",
+    "summary": "His journey began in 2011, when a friend handed him what would later turn out to be a small fortune in digital assets. At the time, Seedor was a mechanical engineering student at a university in Germany and saw little use for bitcoin. Read Entire Article",
+    "link": "https://www.techspot.com/news/112744-chris-seedor-once-spent-1500-bitcoin-gpu-now.html",
     "categories": [
       "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.612421"
-  },
-  {
-    "title": "Several police officers arrested for using controversial Flock AI license plate reader system to stalk romantic partners, says report investigators have unearthed at least 18 such cases in the US over recent years",
-    "summary": "Tens of officers have been fired, and some even arrested, for abuse of the Flock license plate reader system used by police departments throughout the US, according to a new report.",
-    "link": "https://www.tomshardware.com/software/security-software/several-police-officers-arrested-for-using-controversial-flock-ai-license-plate-reader-system-to-stalk-romantic-partners-says-report-investigators-have-unearthed-at-least-18-such-cases-in-the-us-over-recent-years",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.612531"
+    "processed_date": "2026-06-13T11:01:02.999048"
   },
   {
-    "title": "OpenAI bans China-linked ChatGPT accounts that amplified US data center electricity price backlash used AI-generated cartoons to stoke fears over U.S. data center energy costs",
-    "summary": "OpenAI says it has banned two clusters of ChatGPT accounts it believes are operating from China, and that used its models for covert influence campaigns targeting U.S. tech and policy debates.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-bans-china-linked-chatgpt-accounts-that-amplified-us-data-center-electricity-price-backlash",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.612639"
-  },
-  {
-    "title": "Memory famine compels GPU vendors to re-release 2020 graphics cards GeForce RTX 3060 and GeForce RTX 3050 return to Asian market",
-    "summary": "Graphics card manufacturer Manli adds new GeForce RTX 3060 and GeForce RTX 3050 SKUs to its portfolio.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/memory-famine-compels-gpu-vendors-to-re-release-2020-graphics-cards-geforce-rtx-3060-and-geforce-rtx-3050-return-to-asian-market",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.612774"
-  },
-  {
-    "title": "Razer Blade 18 (2026) review: Coming in fast and hot",
-    "summary": "The Razer Blade 18 is a large gaming rig with an 18-inch dual-mode display and strong performance, but it runs hot and is very expensive.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/razer-blade-18-2026-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.612885"
-  },
-  {
-    "title": "M5Stack Capsule Kit v1.1- A Battery-powered ESP32-S3 IoT controller with IMU sensor, MEMS microphone, and IR transmitter",
-    "summary": "M5Stack Capsule v1.1 is a Stamp-S3A-based IoT controller with a microSD card slot, several sensors (6-axis IMU, microphone), an IR transmitter, a built-in 250 mAh battery, a few buttons, a buzzer, an RTC, and expansion capabilities through GPIO headers and a Grove connector. It s an upgrade to the earlier Capsule based on the Stamp-S3 module. The new version still features an ESP32-S3 WiFi and Bluetooth microcontroller, 8MB flash, a USB-C port, and a few GPIOs, but benefits from the Stamp-S3A improvements, including an optimized antenna design and lower power consumption. We never had a look at the Capsule before, so let s do it now. M5Stack Capsule v1.1 specifications: M5Stack Stamp-S3A module WiSoC Espressif Systems ESP32-S3FN8 CPU Dual-core 32-bit Xtensa LX7 microcontroller with AI vector instructions up to 240MHz RISC-V ULP co-processor Memory 512KB SRAM Storage 8MB flash Wireless 2.4GHz WiFi 4 (802.11b/g/n), Bluetooth 5.0 LE + [...] The post M5Stack Capsule Kit v1.1- A Battery-powered ESP32-S3 IoT controller with IMU sensor, MEMS microphone, and IR transmitter appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/12/m5stack-capsule-kit-v1-1-a-battery-powered-esp32-s3-iot-controller-with-imu-sensor-mems-microphone-and-ir-transmitter/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.613478"
-  },
-  {
-    "title": "Fortior FU75xx dual-core motor control MCU family combines 32-bit RISC-V core with 2nd-gen Motor Engine (ME2) core",
-    "summary": "Motor driver IC specialist Fortior Technology has recently introduced the FU75xx dual-core motor control MCU family, pairing a 32-bit RISC-V core and the company s proprietary 2nd-generation Motor Engine (ME2) core. The RISC-V core is used for parameter configuration and routine processing, while the ME core integrates FOC and CORDIC modules that enable fast calculation of FOC (as quick as 5 s) or square-wave control for sensored/sensorless BLDC/PMSM motors. The chips have an impressive list of peripherals (see specs below) and target high-speed computing and real-time control for robotics and motion systems, such as industrial servo drives, robotic joints, smart home appliances, and new energy vehicle systems. FU75xx MCU specifications: Dual-core CPU RISC-V core @ 48 MHz ME2 motor engine core @ 48 MHz with FOC module and CORDIC module Memory 12kB SRAM, 4kB PRAM for program execution Storage 64kB Flash with ECC and CRC, self-program and code protection I/Os [...] The post Fortior FU75xx dual-core motor control MCU family combines 32-bit RISC-V core with 2nd-gen Motor Engine (ME2) core appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/12/fortior-fu75xx-dual-core-motor-control-mcu-family-combines-32-bit-risc-v-core-with-2nd-generation-motor-engine-me2-core/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.613659"
-  },
-  {
-    "title": "$7.99 Seeed Studio Wio-S3 WiFi, Bluetooth LE, and LoRa IoT module combines ESP32-S3 and SX1262 RF transceiver",
-    "summary": "Seeed Studio Wio-S3 is a compact (21.6 x 16.5 x 3.3 mm) wireless module that combines an ESP32-S3R8 dual-core WiFi 4 and Bluetooth LE MCU and a Semtech SX1262 LoRa transceiver. The module includes 16MB Flash and 8MB PSRAM, and supports LoRa (EU868/US915) with up to +20.9 dBm transmit power and -137 dBm sensitivity. It also supports Wi-Fi 4 and BLE 5.0, and comes with two IPEX connectors for external antennas. With interfaces such as UART, I2C, SPI, ADC, and USB, and support for -40 C to 85 C operation, it is designed for remote monitoring, industrial automation, smart agriculture, and IoT data logging. Seeed Studio Wio-S3 module specifications: SoC Espressif ESP32-S3R8 CPU Dual-core Tensilica LX7 microcontroller up to 240 MHz with vector instructions for AI acceleration Memory 8MB PSRAM Wireless 2.4 GHz 802.11b/g/n WiFi 4 and Bluetooth 5.0 LE + Mesh connectivity Storage 16MB external SPI flash [...] The post $7.99 Seeed Studio Wio-S3 WiFi, Bluetooth LE, and LoRa IoT module combines ESP32-S3 and SX1262 RF transceiver appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/12/7-99-seeed-studio-wio-s3-wifi-bluetooth-le-and-lora-iot-module-combines-esp32-s3-and-sx1262-rf-transceiver/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.613844"
-  },
-  {
-    "title": "SONOFF BASIC-1GSP Matter over WiFi smart switch supports DIN rail mounting, real-time energy monitoring",
-    "summary": "SONOFF Basic DIN Rail , codenamed BASIC-1GSP, is a Matter Over WiFi smart switch designed to be installed in electrical distribution boxes with a DIN rail, and it also supports real-time energy monitoring to track voltage, current, power, and energy consumption. The BASIC-1GSP can handle high-power circuits up to 32A (7,680W @ 240V AC), which makes it suitable for electric floor heating, EV charging stations, water heaters, and other heavy-duty devices. The device also focuses on safety with customizable overload protection & a double-pole safety switch. SONOFF BASIC-1GSP specifications: SoC Beken BK7238 wireless microcontroller as found in SONOFF Basic Gen5 and Tx Gen2 Core 32-bit Arm Cortex-M MCU at up to 160 MHz Memory 288 KB RAM Storage 2 MB flash (SiP) Wireless 2.4 GHz 802.11b/g/n WiFi 4, Bluetooth LE 5.2, Matter Screw terminals for AC input and load Wire gauge range 11 AWG to [...] The post SONOFF BASIC-1GSP Matter over WiFi smart switch supports DIN rail mounting, real-time energy monitoring appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/11/sonoff-basic-1gsp-matter-over-wifi-smart-switch-supports-din-rail-mounting-real-time-energy-monitoring/",
+    "title": "Arm is bringing Android its own version of DLSS game with Unreal MegaLights will show it off",
+    "summary": "Sumo Digital's upcoming Neural Dawn aims to demonstrate that mobile graphics chips can achieve high-quality upscaling, denoising, frame generation, and ray tracing with large numbers of dynamic lights. The tech demo is set to launch in the fourth quarter of this year exclusively for devices equipped with an upcoming successor... Read Entire Article",
+    "link": "https://www.techspot.com/news/112740-arm-bringing-android-own-version-dlss-game-unreal.html",
     "categories": [
       "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.614011"
-  },
-  {
-    "title": "At 14, Shanya Gill dishes on tech and how she built Vigil Inc.",
-    "summary": "With a camera and VLM, Vigil customers get customized monitoring. But much of the tech scene is just buzzwords, Shanya Gill says in an interview.",
-    "link": "https://www.fiercesensors.com/sensors/14-shanya-gill-dishes-tech-and-how-she-built-vigil-inc",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.615177"
-  },
-  {
-    "title": "Touchscreen MacBook Pro looks \"100% confirmed\" as macOS 27 gives Sidecar full touch support",
-    "summary": "Prominent tipster Instant Digital recently stated that he is \"100%\" certain the next MacBook Pro model will feature a touchscreen, reversing Apple's stance regarding vertical touchscreens. The claim follows earlier reports from Bloomberg's Mark Gurman that the company plans to release the next major MacBook Pro revision later this year. Read Entire Article",
-    "link": "https://www.techspot.com/news/112741-touchscreen-macbook-pro-looks-100-confirmed-macos-27.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.615313"
-  },
-  {
-    "title": "ChatGPT becomes the fastest app to reach 1 billion monthly active users, just as AI sentiment worsens",
-    "summary": "Market intelligence firm Sensor Tower reports that ChatGPT has become the fastest app ever to reach one billion monthly app users (MAUs), beating the previous record holder, Google Maps, which took around five years after launch to hit the same number. Read Entire Article",
-    "link": "https://www.techspot.com/news/112743-chatgpt-becomes-fastest-app-reach-1-billion-monthly.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.615416"
-  },
-  {
-    "title": "Microsoft is now letting Nvidia GPUs run local AI features that were locked to Copilot+ PCs",
-    "summary": "When Copilot+ PCs launched on June 18, 2024, the messaging was clear: dedicated AI hardware was essential. These machines were defined in part by their neural processing units, along with baseline specs such as 16GB of RAM and solid-state storage. The NPU requirement, in particular, was positioned as the key... Read Entire Article",
-    "link": "https://www.techspot.com/news/112729-microsoft-now-letting-nvidia-gpus-run-local-ai.html",
-    "categories": [
-      "GPUs",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.615525"
-  },
-  {
-    "title": "Ubisoft to cut 380 jobs and shut down studios in Canada and Serbia, report claims",
-    "summary": "According to Insider Gaming, Ubisoft has informed employees via an internal communications post that a new restructuring plan will affect approximately 380 staff across its studios in the United States, Canada, Spain, and Serbia. Read Entire Article",
-    "link": "https://www.techspot.com/news/112737-ubisoft-cut-380-jobs-shut-down-studios-canada.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.615624"
+    "processed_date": "2026-06-13T11:01:02.999228"
   },
   {
-    "title": "Anthropic launches powerful Fable 5 model publicly, while keeping Mythos restricted over cybersecurity concerns",
-    "summary": "Mythos has already shown what it can do when it is not heavily restricted. Since April, when an earlier preview was sent to about 150 organizations under the banner of Project Glasswing, users have reported more than 10,000 critical security flaws in their own systems. Those same capabilities could also... Read Entire Article",
-    "link": "https://www.techspot.com/news/112726-anthropic-launches-powerful-fable-5-model-publicly-while.html",
+    "title": "Samsung is building floating data centers on ships, and it's already got regulatory approval",
+    "summary": "Hitachi recently announced a partnership with Mitsui O.S.K. Lines to develop floating systems to host self-sustaining AI data center facilities. Now, Samsung Heavy Industries is cooperating with different partners to fully develop its novel Floating Data Centers (FDC) concept. Samsung Heavy Industries is a South Korean shipbuilding company that's part... Read Entire Article",
+    "link": "https://www.techspot.com/news/112738-samsung-building-floating-data-centers-ships-already-got.html",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.615764"
+    "processed_date": "2026-06-13T11:01:02.999405"
   },
   {
-    "title": "Microsoft's June Patch Tuesday fixes a record 200 vulnerabilities, including five being actively exploited",
-    "summary": "Microsoft recently released its latest batch of monthly security fixes for vulnerabilities found in Windows, Office, and other products sold by the company. This month's Patch Tuesday stands out for a record number of CVE-tracked flaws, with 200 individual bugs and 33 \"critical\" vulnerabilities that could have serious consequences for Microsoft customers. Read Entire Article",
-    "link": "https://www.techspot.com/news/112723-microsoft-june-patch-tuesday-fixes-record-200-vulnerabilities.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.615881"
-  },
-  {
-    "title": "Display Driver Uninstaller completely wipes your GPU drivers for a fresh start",
-    "summary": "Display Driver Uninstaller is a trusted utility for fully removing AMD, Nvidia, and Intel graphics drivers when a regular uninstall is not enough. It's especially useful when swapping GPUs, fixing driver conflicts, or troubleshooting crashes or odd performance issues. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/drivers/essentials/ddu-display-driver-uninstaller/",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.615982"
-  },
-  {
-    "title": "Solar generation beats coal in the US for the first time ever",
-    "summary": "Five years make the shift look even sharper. In May 2021, coal supplied 19.7% of US electricity, while solar accounted for just 5.4%. Today, solar's share of the mix has risen to the point where coal is no longer ahead of it on the grid. Read Entire Article",
-    "link": "https://www.techspot.com/news/112735-us-solar-generation-beats-coal-first-time-ever.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.616075"
-  },
-  {
-    "title": "The PCIe 5.0 tax: Intel's Z990 chipset for Nova Lake runs hotter and uses more power despite shrinking",
-    "summary": "The latest leaks focus on the platform controller hub, which handles most of a motherboard's connectivity. For Z990, that hub is said to be significantly smaller than the one found on today's Z890 boards. The die is estimated to measure about 72.5 square millimeters, down from roughly 92.9 square millimeters.... Read Entire Article",
-    "link": "https://www.techspot.com/news/112731-intel-z990-chipset-could-use-more-power-than.html",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.616184"
-  },
-  {
-    "title": "Gaming PC saves owner from bullet fired by neighbor's dog",
-    "summary": "Redditor angelbabyzz writes on r/pcmasterrace that they woke up in the middle of the night to a bang and glass hitting them in the face. Read Entire Article",
-    "link": "https://www.techspot.com/news/112736-gaming-pc-saves-owner-bullet-fired-neighbor-dog.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.616272"
-  },
-  {
-    "title": "The end of uBlock Origin in Chrome is now weeks away, not months",
-    "summary": "Starting with the next major release, Chromium will stop supporting Manifest V2 extensions. The change will affect users who have clung to uBlock Origin in Chrome, Edge, and other major web browsers based on Chromium. Even Opera, despite stating otherwise, will soon lose this capability. Read Entire Article",
-    "link": "https://www.techspot.com/news/112722-end-ublock-origin-chrome-now-weeks-away-not.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.616369"
-  },
-  {
-    "title": "OpenAI says China ran a covert campaign to turn Americans against data centers, but used facts that happen to be true",
-    "summary": "OpenAI writes that the now-banned accounts were \"supporting covert influence operations that promoted narratives in an attempt to manipulate a legitimate debate about American AI and wider tech policies.\" Read Entire Article",
-    "link": "https://www.techspot.com/news/112732-openai-china-linked-accounts-used-chatgpt-turn-americans.html",
+    "title": "This jacket can harvest drinking water from the air like a real-life Dune stillsuit",
+    "summary": "The creation comes from engineers at the University of Texas at Austin, who have developed textile fibers for atmospheric water harvesting the process of collecting moisture from the air and turning it into liquid water. Read Entire Article",
+    "link": "https://www.techspot.com/news/112745-jacket-can-harvest-drinking-water-air-like-real.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.616469"
+    "processed_date": "2026-06-13T11:01:02.999595"
   },
   {
-    "title": "Xbox is planning major layoffs and hinting at \"radically different\" console business model",
-    "summary": "Although Xbox chief Asha Sharma didn't say \"layoffs\" in her recent memo to staff, the message's tone certainly gives off the feeling that they're coming. Sources recently informed Bloomberg that layoffs are indeed on the horizon as Microsoft tries to save its console gaming business. Read Entire Article",
-    "link": "https://www.techspot.com/news/112725-xbox-planning-major-layoffs-hinting-radically-different-business.html",
+    "title": "Intel's Project Firefly is borrowing smartphone parts to build a better budget laptop",
+    "summary": "In a recent Talking Tech interview, Intel cast Project Firefly as an attempt to reshape the entry-level PC category. The emphasis is on a more unified laptop ecosystem instead of the fragmented approach that has defined this segment for years. Read Entire Article",
+    "link": "https://www.techspot.com/news/112742-intel-project-firefly-borrowing-smartphone-parts-build-better.html",
     "categories": [
-      "AI & ML",
-      "GPUs"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.616574"
+    "processed_date": "2026-06-13T11:01:02.999759"
+  },
+  {
+    "title": "AMD changes rules, denies researcher $10,000 bounty after taking 124 days to patch security flaw",
+    "summary": "The vulnerability was discovered by security researcher MrBruh after an AMD updater console window kept appearing on his new gaming PC. Read Entire Article",
+    "link": "https://www.techspot.com/news/112746-amd-changes-rules-denies-researcher-10000-bounty-after.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-13T11:01:02.999918"
   }
 ]

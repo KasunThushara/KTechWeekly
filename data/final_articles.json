@@ -1,316 +1,244 @@
 [
   {
-    "title": "Save $300 on Gigabyte's Gaming A16 gaming laptop at Walmart Budget RTX 5060 -powered 16-inch laptop is now only $1,199",
-    "summary": "Save $300 on Gigabyte's Gaming A16 laptop at Walmart, now $1,199.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd300-on-gigabytes-gaming-a16-gaming-laptop-at-walmart-budget-rtx-5060-powered-16-inch-laptop-is-now-only-usd1-199",
+    "title": "Ukraine used 10 AI-controlled Terminator drones to kill Russian soldiers two years ago, marking first autonomous killings of humans autonomous killer quadcopters left everything dead says senior Ukrainian defense industry figure",
+    "summary": "In 2024, Ukraine deployed 10 AI-controlled quadcopters to kill Russian soldiers.",
+    "link": "https://www.tomshardware.com/tech-industry/ukraine-used-10-ai-controlled-terminator-drones-to-kill-russian-soldiers-two-years-ago-marking-first-autonomous-killings-of-humans-senior-ukrainian-defense-industry-figure-confirms-this-autonomous-watershed-was-passed-in-2024",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-13T11:01:02.995293",
+    "insight": "Autonomous AI systems are now capable of making lethal decisions."
+  },
+  {
+    "title": "Dev releases unblockable ASCII video stream software delivers 360p video at 30 FPS and acts as a bridge for AI ",
+    "summary": "A new software delivers high-performance, real-time ASCII video rendering, capable of broadcasting 360p video at 30 FPS, offering an unblockable video stream solution. It acts as a bridge for AI-powered applications, providing a unique video streaming solution. This software promises to revolutionize the way we stream video content.",
+    "link": "https://www.tomshardware.com/software/video-editing-graphic-design/dev-releases-unblockable-ascii-video-stream-software-mode-5-rendering-puts-out-360p-at-30-fps-using-pure-text",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-13T11:01:02.995419",
+    "insight": "Unblockable video stream bypasses traditional content delivery network restrictions"
+  },
+  {
+    "title": "Thrustmaster's new specialized T.Flight Hotas 5 Microsoft Flight Simulator Edition provides a plug-and-play flight sim setup for just $109 featuring 5-axis control with 16-bit precision and dual-rudder system",
+    "summary": "The T.Flight Hotas 5 provides a plug-and-play flight sim setup with 5-axis control and 16-bit precision, suitable for Microsoft Flight Simulator 2024 and compatible with both PC and PlayStation consoles.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/thrustmasters-new-specialized-t-flight-hotas-5-microsoft-flight-simulator-edition-provides-a-plug-and-play-flight-sim-setup-for-just-usd109-featuring-5-axis-control-with-16-bit-precision-and-dual-rudder-system",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-13T11:01:02.995592",
+    "insight": "Accurate 16-bit precision enhances the realism of flight simulation."
+  },
+  {
+    "title": "Radeon RX 9070 XT finally appears in Steam Hardware Survey RDNA 4 flagship surprisingly lands just behind RTX 5080",
+    "summary": "AMD's Radeon RX 9070 XT has entered the Steam Hardware Survey, ranking 25th. This marks a milestone in the card's adoption rate, indicating growing market presence. Its positioning behind the NVIDIA RTX 5080 suggests a competitive landscape.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/radeon-rx-9070-xt-finally-appears-in-steam-hardware-survey-rdna-4-flagship-surprisingly-lands-just-behind-rtx-5080",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.611981",
-    "insight": "Budget gaming laptops become more affordable with significant price drops."
+    "processed_date": "2026-06-13T11:01:02.995703",
+    "insight": "Radeon RX 9070 XT's Steam entry highlights AMD's GPU market traction"
   },
   {
-    "title": "Save a massive $751 on this RTX 5070 Ti gaming PC with a 9800X3D right now liquid-cooled, 4K-ready Skytech rig with 32GB DDR5 and a 2TB SSD is now just $2,249",
-    "summary": "Save $751 on a powerful Skytech gaming PC with a 9800X3D and RTX 5070 Ti, ideal for 4K gaming.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-a-massive-usd751-on-this-rtx-5070-ti-gaming-pc-with-a-9800x3d-right-now-liquid-cooled-4k-ready-skytech-rig-with-32gb-ddr5-and-a-2tb-ssd-is-now-just-usd2-249",
+    "title": "Nvidia's high-speed AI data center storage servers break cover, touting 2.9 petabytes of storage and extreme PCIe 6.0 performance Wiwynn shows off SCADA server with GPU-accelerated storage",
+    "summary": "Wiwynn showcases Nvidia's high-speed AI data center storage servers with 2.9 petabytes of storage and extreme PCIe 6.0 performance. The server features GPU-accelerated storage acceleration for AI systems. This technology promises ultra-fast storage and improved AI processing capabilities.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/nvidias-high-speed-ai-data-center-storage-servers-break-cover-touting-2-9-petabytes-of-storage-and-extreme-pcie-6-0-performance-wiwynn-shows-off-scada-server-with-gpu-accelerated-storage",
     "categories": [
-      "GPUs",
-      "Hardware"
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-13T11:01:02.995820",
+    "insight": "GPU-accelerated storage boosts AI system performance and efficiency significantly."
+  },
+  {
+    "title": "Microsoft's bug-hunting nemesis extends vendetta with more zero-day attacks Nightmare Eclipse publishes RoguePlanet and GreatXML local privilege escalation exploits",
+    "summary": "Nightmare-Eclipse expands its vendetta against Microsoft with two new zero-day exploits. The researcher has published RoguePlanet and GreatXML, which are local privilege escalation exploits. This is the latest in a series of attacks targeting Windows.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-bug-hunting-nemesis-extends-vendetta-with-more-zero-day-attacks-nightmare-eclipse-publishes-rogueplanet-and-greatxml-local-privilege-escalation-exploits",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-13T11:01:02.995931",
+    "insight": "Zero-day exploits threaten vulnerable Windows systems with unpatched vulnerabilities."
+  },
+  {
+    "title": "Various vendors add AMD EXPO Ultra-Low Latency to 600-series motherboards in latest BIOS updates tech tightens memory subtimings on compatible kits, boosting FPS by up to 4%",
+    "summary": "Various vendors release BIOS updates with AMD EXPO support for 600-series boards, tightening memory subtimings and boosting FPS by up to 4%. These updates are designed to improve gaming performance on compatible systems. The feature is part of AMD's EXPO technology.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/various-vendors-add-amd-expo-ultra-low-latency-to-600-series-motherboards-in-latest-bios-updates-tech-tightens-memory-subtimings-on-compatible-kits-boosting-fps-by-up-to-4-percent",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-13T11:01:02.996040",
+    "insight": "Improved gaming performance, tightened memory subtimings for AMD EXPO support."
+  },
+  {
+    "title": "Republican lawmakers urge federal agency to block imports of infringing TSMC chips as patent ruling nears five asserted U.S. patents come from United Microelectronics Corporation",
+    "summary": "Four Republican lawmakers urge the ITC to block infringing chip imports.",
+    "link": "https://www.tomshardware.com/tech-industry/republican-lawmakers-urge-itc-to-block-imports-of-infringing-tsmc-chips-as-patent-ruling-imminent",
+    "categories": [
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.612099",
-    "insight": "High-performance gaming at a significantly reduced price point."
+    "processed_date": "2026-06-13T11:01:02.996145",
+    "insight": "Protecting U.S. patent rights in the semiconductor industry"
   },
   {
-    "title": "Xbox will pay five times more for memory and storage in 2027 than it did two years ago CEO Asha Sharma admits there's an unsustainable hardware gap that 'cannot continue'",
-    "summary": "Microsoft's next-gen Xbox Helix is facing challenges due to rising memory and storage costs. CEO Asha Sharma acknowledges an unsustainable hardware gap. This gap threatens the console's development and pricing.",
-    "link": "https://www.tomshardware.com/video-games/xbox/xbox-will-pay-five-times-more-for-components-in-2027-than-it-did-two-years-ago-ceo-asha-sharma-admits-theres-an-unsustainable-hardware-gap-that-cannot-continue",
+    "title": "Espressif ESP32-E22 WiFi 6E module gets Wi-Fi CERTIFIED certificate, open-source WiFi and Bluetooth Linux drivers",
+    "summary": "Espressif's ESP32-E22 WiFi 6E module has achieved Wi-Fi CERTIFIED status and open-source drivers.",
+    "link": "https://www.cnx-software.com/2026/06/13/espressif-esp32-e22-wifi-6e-module-gets-wi-fi-certified-certificate-an-open-source-wifi-and-bluetooth-linux-drivers/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-13T11:01:02.996730",
+    "insight": "Advancements in wireless technology for host-based systems gain momentum."
+  },
+  {
+    "title": "Delicate touch: Tactile sensors help humanoids get a grip",
+    "summary": "Bosch is leveraging MEMS technology for humanoids to improve tactile sensing, enabling more precise interactions. This advancement is expected to drive growth in the industry. The investment in robot startups also doubles, indicating a surge in interest.",
+    "link": "https://www.fiercesensors.com/sensors/delicate-touch-tactile-sensors-help-humanoids-get-grip",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-13T11:01:02.997758",
+    "insight": "Advanced tactile sensors enhance humanoids' grip and interaction capabilities"
+  },
+  {
+    "title": "ST notches market lead for in-car sensors",
+    "summary": "European regulation is driving the adoption of in-car sensors to detect driver distraction and drowsiness, leading to a growth in occupant sensor technology.",
+    "link": "https://www.fiercesensors.com/sensors/st-notches-market-lead-car-sensors",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-13T11:01:02.998126",
+    "insight": "Safety regulations boost in-car sensor adoption across European market."
+  },
+  {
+    "title": "SpaceX goes public in the largest IPO ever, and Musk crosses the trillion-dollar line",
+    "summary": "SpaceX went public in a record-breaking IPO, raising $75 billion and valuing the company at an enormous sum.",
+    "link": "https://www.techspot.com/news/112752-spacex-goes-public-largest-ipo-ever-musk-crosses.html",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.612209",
-    "insight": "Surging memory and storage costs jeopardize console affordability and competitiveness."
+    "processed_date": "2026-06-13T11:01:02.998332",
+    "insight": "SpaceX's massive valuation cements Elon Musk's status as a trillionaire."
   },
   {
-    "title": "New malware campaign tricks AI scanners with fake nuclear weapon prompts malicious code triggers safety failsafes so scanners skip the payload",
-    "summary": "A new malware campaign, Hades, uses fake nuclear prompts to evade AI scanners, triggering safety failsafes that cause them to skip malicious code.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/hades-malware-campaign-now-tricks-ai-bots-by-injecting-text-about-biological-and-nuclear-weapons-failsafe-mechanisms-triggered-by-prompts-for-weapon-creation-stop-scans-before-payload-is-seen",
+    "title": "Windows Server is getting new network safety capabilities with DNS over HTTPS",
+    "summary": "Windows Server 2025 now supports DNS over HTTPS for encrypted DNS traffic.",
+    "link": "https://www.techspot.com/news/112749-windows-server-getting-new-network-safety-capabilities-dns.html",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-13T11:01:02.998538",
+    "insight": "Enhanced network safety through secure client-to-server communications."
+  },
+  {
+    "title": "Flock AI cameras allegedly used by police to stalk ex-girlfriends and partners",
+    "summary": "Police officers allegedly misuse Flock AI cameras to stalk ex-partners, sparking investigations.",
+    "link": "https://www.techspot.com/news/112750-flock-ai-cameras-allegedly-used-police-stalk-ex.html",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.612325",
-    "insight": "Evasion through exploitation of AI safety features compromises cybersecurity."
+    "quality_score": 5,
+    "processed_date": "2026-06-13T11:01:02.998714",
+    "insight": "Abuse of surveillance tech erodes trust in law enforcement and public safety."
   },
   {
-    "title": "AMD denies researcher a $10,000 bug bounty after fixing critical auto-updater vulnerability security flaw took 124 days to patch",
-    "summary": "AMD took 124 days to fix a critical auto-updater vulnerability, denying a $10,000 bug bounty to a researcher who reported the issue.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/amd-denies-researcher-a-usd10-000-bug-bounty-after-fixing-critical-auto-updater-vulnerability-security-flaw-took-124-days-to-patch",
+    "title": "Android engineer leaves Google amid concerns over defense partnerships",
+    "summary": "Ren Mayrhofer, an Android engineer, left Google citing concerns over defense partnerships.",
+    "link": "https://www.techspot.com/news/112747-android-engineer-leaves-google-amid-concerns-over-defense.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-13T11:01:02.998888",
+    "insight": "Google's shift from neutrality sparks engineer's moral and ethical concerns."
+  },
+  {
+    "title": "Chris Seedor once spent 1,500 Bitcoin on a GPU. Now he insures crypto fortunes",
+    "summary": "Chris Seedor's journey began with 2011 bitcoin inheritance, initially dismissed as worthless. He later turned this fortune into a lucrative business, insuring crypto assets for others. Today, he helps people protect their digital wealth.",
+    "link": "https://www.techspot.com/news/112744-chris-seedor-once-spent-1500-bitcoin-gpu-now.html",
     "categories": [
       "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.612421",
-    "insight": "Security vulnerabilities can affect user trust in companies' ability to prioritize patching."
-  },
-  {
-    "title": "Several police officers arrested for using controversial Flock AI license plate reader system to stalk romantic partners, says report investigators have unearthed at least 18 such cases in the US over recent years",
-    "summary": "Tens of police officers have been fired or arrested for abusing the Flock AI license plate reader system, which has been used to stalk romantic partners, according to a new report. The system is widely used by police departments in the US. Investigators have found at least 18 such cases.",
-    "link": "https://www.tomshardware.com/software/security-software/several-police-officers-arrested-for-using-controversial-flock-ai-license-plate-reader-system-to-stalk-romantic-partners-says-report-investigators-have-unearthed-at-least-18-such-cases-in-the-us-over-recent-years",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.612531",
-    "insight": "Abuse of power erodes trust in law enforcement institutions"
+    "processed_date": "2026-06-13T11:01:02.999048",
+    "insight": "Turning dismissed digital assets into a lucrative business opportunity"
   },
   {
-    "title": "OpenAI bans China-linked ChatGPT accounts that amplified US data center electricity price backlash used AI-generated cartoons to stoke fears over U.S. data center energy costs",
-    "summary": "OpenAI has banned China-linked ChatGPT accounts for covert influence campaigns. The accounts used AI-generated content to target U.S. tech and policy debates. They also amplified concerns over U.S. data center energy costs.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-bans-china-linked-chatgpt-accounts-that-amplified-us-data-center-electricity-price-backlash",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.612639",
-    "insight": "Chinese covert influence campaigns exploit AI for U.S. policy manipulation."
-  },
-  {
-    "title": "Memory famine compels GPU vendors to re-release 2020 graphics cards GeForce RTX 3060 and GeForce RTX 3050 return to Asian market",
-    "summary": "GPU vendors re-release 2020 graphics cards due to memory shortages. Manli adds new GeForce RTX 3060 and GeForce RTX 3050 SKUs to its portfolio. These cards aim to meet increasing demand in the Asian market.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/memory-famine-compels-gpu-vendors-to-re-release-2020-graphics-cards-geforce-rtx-3060-and-geforce-rtx-3050-return-to-asian-market",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.612774",
-    "insight": "Limited availability drives demand for re-released older graphics card models."
-  },
-  {
-    "title": "Razer Blade 18 (2026) review: Coming in fast and hot",
-    "summary": "The Razer Blade 18 boasts strong performance and a versatile display, but comes with a hefty price tag and thermal issues.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/razer-blade-18-2026-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.612885",
-    "insight": "Expensive gaming PC compromises on power efficiency and cooling."
-  },
-  {
-    "title": "M5Stack Capsule Kit v1.1- A Battery-powered ESP32-S3 IoT controller with IMU sensor, MEMS microphone, and IR transmitter",
-    "summary": "The M5Stack Capsule v1.1 is a battery-powered ESP32-S3 IoT controller with various sensors and expansion capabilities, offering improved power efficiency and enhanced features.",
-    "link": "https://www.cnx-software.com/2026/06/12/m5stack-capsule-kit-v1-1-a-battery-powered-esp32-s3-iot-controller-with-imu-sensor-mems-microphone-and-ir-transmitter/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.613478",
-    "insight": "IoT applications benefit from compact, low-power, and feature-rich modules like M5Stack Capsule v1.1."
-  },
-  {
-    "title": "Fortior FU75xx dual-core motor control MCU family combines 32-bit RISC-V core with 2nd-gen Motor Engine (ME2) core",
-    "summary": "Fortior Technology's FU75xx MCU family combines a 32-bit RISC-V core with the 2nd-gen Motor Engine (ME2) core, enabling efficient motor control for high-speed computing and real-time applications such as robotics and motion systems.",
-    "link": "https://www.cnx-software.com/2026/06/12/fortior-fu75xx-dual-core-motor-control-mcu-family-combines-32-bit-risc-v-core-with-2nd-generation-motor-engine-me2-core/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.613659",
-    "insight": "Effortless motor control for robotics and motion systems with high precision."
-  },
-  {
-    "title": "$7.99 Seeed Studio Wio-S3 WiFi, Bluetooth LE, and LoRa IoT module combines ESP32-S3 and SX1262 RF transceiver",
-    "summary": "The Seeed Studio Wio-S3 is a compact IoT module combining ESP32-S3 and SX1262 for WiFi, Bluetooth, and LoRa connectivity, suitable for industrial automation, remote monitoring, and IoT data logging.",
-    "link": "https://www.cnx-software.com/2026/06/12/7-99-seeed-studio-wio-s3-wifi-bluetooth-le-and-lora-iot-module-combines-esp32-s3-and-sx1262-rf-transceiver/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.613844",
-    "insight": "Affordable, compact, and feature-rich IoT connectivity for various applications."
-  },
-  {
-    "title": "SONOFF BASIC-1GSP Matter over WiFi smart switch supports DIN rail mounting, real-time energy monitoring",
-    "summary": "The SONOFF BASIC-1GSP is a Matter-enabled smart switch for DIN rail mounting, offering real-time energy monitoring and customizable safety features for high-power circuits.",
-    "link": "https://www.cnx-software.com/2026/06/11/sonoff-basic-1gsp-matter-over-wifi-smart-switch-supports-din-rail-mounting-real-time-energy-monitoring/",
+    "title": "Arm is bringing Android its own version of DLSS game with Unreal MegaLights will show it off",
+    "summary": "Arm's upcoming tech demo, Neural Dawn, showcases advanced mobile graphics capabilities, including upscaling, denoising, frame generation, and ray tracing with dynamic lights. It will be exclusive to devices with an upcoming successor to the mobile graphics chip. This tech demo aims to demonstrate the power of mobile graphics.",
+    "link": "https://www.techspot.com/news/112740-arm-bringing-android-own-version-dlss-game-unreal.html",
     "categories": [
       "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.614011",
-    "insight": "Real-time energy monitoring for high-power devices and safety features matter."
-  },
-  {
-    "title": "At 14, Shanya Gill dishes on tech and how she built Vigil Inc.",
-    "summary": "At 14, Shanya Gill founded Vigil Inc., offering customized monitoring services with cameras and VLM technology. In an interview, she breaks down the tech scene, highlighting the need for clarity beyond buzzwords. Gill's innovative approach is making waves in the industry.",
-    "link": "https://www.fiercesensors.com/sensors/14-shanya-gill-dishes-tech-and-how-she-built-vigil-inc",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.615177",
-    "insight": "Behind tech buzzwords lies the need for practical innovation solutions."
-  },
-  {
-    "title": "Touchscreen MacBook Pro looks \"100% confirmed\" as macOS 27 gives Sidecar full touch support",
-    "summary": "A prominent tipster claims the next MacBook Pro will feature a touchscreen, reversing Apple's stance.",
-    "link": "https://www.techspot.com/news/112741-touchscreen-macbook-pro-looks-100-confirmed-macos-27.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.615313",
-    "insight": "Touchscreen integration could revolutionize MacBook Pro user experience dramatically."
-  },
-  {
-    "title": "ChatGPT becomes the fastest app to reach 1 billion monthly active users, just as AI sentiment worsens",
-    "summary": "ChatGPT has reached 1 billion monthly active users, breaking Google Maps' record.",
-    "link": "https://www.techspot.com/news/112743-chatgpt-becomes-fastest-app-reach-1-billion-monthly.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.615416",
-    "insight": "Rapid AI adoption fuels concerns about AI's growing impact and influence."
-  },
-  {
-    "title": "Microsoft is now letting Nvidia GPUs run local AI features that were locked to Copilot+ PCs",
-    "summary": "Microsoft is now allowing Nvidia GPUs to run AI features previously restricted to Copilot+ PCs, making the dedicated AI hardware requirement less essential.",
-    "link": "https://www.techspot.com/news/112729-microsoft-now-letting-nvidia-gpus-run-local-ai.html",
-    "categories": [
-      "GPUs",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.615525",
-    "insight": "Nvidia GPUs can run AI features, reducing hardware dependency."
-  },
-  {
-    "title": "Ubisoft to cut 380 jobs and shut down studios in Canada and Serbia, report claims",
-    "summary": "Ubisoft plans to cut 380 jobs and shut down studios in Canada and Serbia.",
-    "link": "https://www.techspot.com/news/112737-ubisoft-cut-380-jobs-shut-down-studios-canada.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.615624",
-    "insight": "Mass layoffs threaten Ubisoft's global gaming industry presence and talent loss."
+    "processed_date": "2026-06-13T11:01:02.999228",
+    "insight": "Advancements in mobile graphics can match high-end PC experiences."
   },
   {
-    "title": "Anthropic launches powerful Fable 5 model publicly, while keeping Mythos restricted over cybersecurity concerns",
-    "summary": "Anthropic publicly releases Fable 5 while keeping Mythos restricted due to security concerns.",
-    "link": "https://www.techspot.com/news/112726-anthropic-launches-powerful-fable-5-model-publicly-while.html",
+    "title": "Samsung is building floating data centers on ships, and it's already got regulatory approval",
+    "summary": "Samsung Heavy Industries is developing floating data centers with partners. This innovation aims to provide sustainable and efficient data hosting facilities. The project has already received regulatory approval.",
+    "link": "https://www.techspot.com/news/112738-samsung-building-floating-data-centers-ships-already-got.html",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.615764",
-    "insight": "Unrestricted AI models can reveal thousands of critical security vulnerabilities."
+    "processed_date": "2026-06-13T11:01:02.999405",
+    "insight": "Revolutionizing data hosting with sustainable, self-sustaining AI facilities on sea"
   },
   {
-    "title": "Microsoft's June Patch Tuesday fixes a record 200 vulnerabilities, including five being actively exploited",
-    "summary": "Microsoft released a record 200 CVE-tracked flaws, including 33 critical vulnerabilities in Windows, Office, and other products. This month's Patch Tuesday addresses actively exploited and potentially damaging bugs. Customers should prioritize installing the latest security fixes to minimize risks.",
-    "link": "https://www.techspot.com/news/112723-microsoft-june-patch-tuesday-fixes-record-200-vulnerabilities.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.615881",
-    "insight": "Massive vulnerability patch underscores critical importance of timely software updates."
-  },
-  {
-    "title": "Display Driver Uninstaller completely wipes your GPU drivers for a fresh start",
-    "summary": "Display Driver Uninstaller is a trusted utility for fully removing graphics drivers. It's useful for swapping GPUs, fixing driver conflicts, or troubleshooting crashes or odd performance issues. Regular uninstall may not be enough.",
-    "link": "https://www.techspot.com/downloads/drivers/essentials/ddu-display-driver-uninstaller/",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-12T12:01:50.615982",
-    "insight": "A fresh driver start can resolve stubborn performance and crash issues."
-  },
-  {
-    "title": "Solar generation beats coal in the US for the first time ever",
-    "summary": "Solar energy has surpassed coal as a source of US electricity, marking a significant shift in the energy mix. In just five years, coal's share has fallen from 19.7% to no longer being the leading source. Solar power now accounts for a larger percentage of US electricity.",
-    "link": "https://www.techspot.com/news/112735-us-solar-generation-beats-coal-first-time-ever.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.616075",
-    "insight": "Accelerating transition to renewable energy reduces carbon emissions significantly"
-  },
-  {
-    "title": "The PCIe 5.0 tax: Intel's Z990 chipset for Nova Lake runs hotter and uses more power despite shrinking",
-    "summary": "The Intel Z990 chipset for Nova Lake is smaller and more efficient. However, it runs hotter and uses more power. This is a trade-off for supporting PCIe 5.0.",
-    "link": "https://www.techspot.com/news/112731-intel-z990-chipset-could-use-more-power-than.html",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.616184",
-    "insight": "PCIe 5.0 adoption comes at a cost of increased power consumption."
-  },
-  {
-    "title": "Gaming PC saves owner from bullet fired by neighbor's dog",
-    "summary": "A gaming PC helped save its owner from a stray bullet fired by a neighbor's dog, which shattered a window and hit the owner in the face.",
-    "link": "https://www.techspot.com/news/112736-gaming-pc-saves-owner-bullet-fired-neighbor-dog.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.616272",
-    "insight": "Unpredictable events can be deflected by technology in unexpected ways suddenly."
-  },
-  {
-    "title": "The end of uBlock Origin in Chrome is now weeks away, not months",
-    "summary": "Chromium will stop supporting Manifest V2 extensions, affecting uBlock Origin users. This change will impact users in Chrome, Edge, and Opera. The shift will occur with the next major release.",
-    "link": "https://www.techspot.com/news/112722-end-ublock-origin-chrome-now-weeks-away-not.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.616369",
-    "insight": "uBlock Origin users face extension loss in Chromium-based browsers."
-  },
-  {
-    "title": "OpenAI says China ran a covert campaign to turn Americans against data centers, but used facts that happen to be true",
-    "summary": "OpenAI claims China ran a covert campaign against US data centers, using true facts to manipulate public opinion. The campaign supposedly promoted narratives to influence tech policies. The accounts were later banned.",
-    "link": "https://www.techspot.com/news/112732-openai-china-linked-accounts-used-chatgpt-turn-americans.html",
+    "title": "This jacket can harvest drinking water from the air like a real-life Dune stillsuit",
+    "summary": "Engineers at the University of Texas at Austin have developed textile fibers that can collect moisture from the air and turn it into liquid water, providing a potential solution for water scarcity.",
+    "link": "https://www.techspot.com/news/112745-jacket-can-harvest-drinking-water-air-like-real.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.616469",
-    "insight": "Manipulation through fact-based narratives can be just as effective as misinformation."
+    "processed_date": "2026-06-13T11:01:02.999595",
+    "insight": "Revolutionizes access to clean drinking water in drought-stricken areas globally."
   },
   {
-    "title": "Xbox is planning major layoffs and hinting at \"radically different\" console business model",
-    "summary": "Xbox is planning major layoffs, citing a need to revamp its console business model.",
-    "link": "https://www.techspot.com/news/112725-xbox-planning-major-layoffs-hinting-radically-different-business.html",
+    "title": "Intel's Project Firefly is borrowing smartphone parts to build a better budget laptop",
+    "summary": "Intel's Project Firefly aims to unify the entry-level PC category with a simplified laptop ecosystem.",
+    "link": "https://www.techspot.com/news/112742-intel-project-firefly-borrowing-smartphone-parts-build-better.html",
     "categories": [
-      "AI & ML",
-      "GPUs"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-12T12:01:50.616574",
-    "insight": "Microsoft aims to adapt to changing gaming industry dynamics."
+    "processed_date": "2026-06-13T11:01:02.999759",
+    "insight": "Unifying laptop ecosystem improves user experience and affordability."
+  },
+  {
+    "title": "AMD changes rules, denies researcher $10,000 bounty after taking 124 days to patch security flaw",
+    "summary": "AMD denied a $10,000 bounty to a researcher after discovering a vulnerability, citing a 124-day response time, which the researcher argues is too long.",
+    "link": "https://www.techspot.com/news/112746-amd-changes-rules-denies-researcher-10000-bounty-after.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-13T11:01:02.999918",
+    "insight": "Timely patching of security flaws is crucial for public trust in tech companies."
   }
 ]

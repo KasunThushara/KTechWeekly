@@ -1,55 +1,45 @@
 # ⚡ Semiconductors
-**Week of June 12, 2026**
+**Week of June 13, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-06-12 12:02
+- **Articles this week:** 3
+- **Report generated:** 2026-06-13 11:01
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. M5Stack Capsule Kit v1.1- A Battery-powered ESP32-S3 IoT controller with IMU sensor, MEMS microphone, and IR transmitter 
+### 1. Espressif ESP32-E22 WiFi 6E module gets Wi-Fi CERTIFIED certificate, open-source WiFi and Bluetooth Linux drivers ⭐
 
-The M5Stack Capsule v1.1 is a battery-powered ESP32-S3 IoT controller with various sensors and expansion capabilities, offering improved power efficiency and enhanced features.
+Espressif's ESP32-E22 WiFi 6E module has achieved Wi-Fi CERTIFIED status and open-source drivers.
 
-💡 *IoT applications benefit from compact, low-power, and feature-rich modules like M5Stack Capsule v1.1.*
+💡 *Advancements in wireless technology for host-based systems gain momentum.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/12/m5stack-capsule-kit-v1-1-a-battery-powered-esp32-s3-iot-controller-with-imu-sensor-mems-microphone-and-ir-transmitter/)
-
----
-
-### 2. $7.99 Seeed Studio Wio-S3 WiFi, Bluetooth LE, and LoRa IoT module combines ESP32-S3 and SX1262 RF transceiver 
-
-The Seeed Studio Wio-S3 is a compact IoT module combining ESP32-S3 and SX1262 for WiFi, Bluetooth, and LoRa connectivity, suitable for industrial automation, remote monitoring, and IoT data logging.
-
-💡 *Affordable, compact, and feature-rich IoT connectivity for various applications.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/12/7-99-seeed-studio-wio-s3-wifi-bluetooth-le-and-lora-iot-module-combines-esp32-s3-and-sx1262-rf-transceiver/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/13/espressif-esp32-e22-wifi-6e-module-gets-wi-fi-certified-certificate-an-open-source-wifi-and-bluetooth-linux-drivers/)
 
 ---
 
-### 3. SONOFF BASIC-1GSP Matter over WiFi smart switch supports DIN rail mounting, real-time energy monitoring 
+### 2. Republican lawmakers urge federal agency to block imports of infringing TSMC chips as patent ruling nears five asserted U.S. patents come from United Microelectronics Corporation 
 
-The SONOFF BASIC-1GSP is a Matter-enabled smart switch for DIN rail mounting, offering real-time energy monitoring and customizable safety features for high-power circuits.
+Four Republican lawmakers urge the ITC to block infringing chip imports.
 
-💡 *Real-time energy monitoring for high-power devices and safety features matter.*
+💡 *Protecting U.S. patent rights in the semiconductor industry*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/11/sonoff-basic-1gsp-matter-over-wifi-smart-switch-supports-din-rail-mounting-real-time-energy-monitoring/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/republican-lawmakers-urge-itc-to-block-imports-of-infringing-tsmc-chips-as-patent-ruling-imminent)
 
 ---
 
-### 4. The PCIe 5.0 tax: Intel's Z990 chipset for Nova Lake runs hotter and uses more power despite shrinking 
+### 3. Arm is bringing Android its own version of DLSS game with Unreal MegaLights will show it off 
 
-The Intel Z990 chipset for Nova Lake is smaller and more efficient. However, it runs hotter and uses more power. This is a trade-off for supporting PCIe 5.0.
+Arm's upcoming tech demo, Neural Dawn, showcases advanced mobile graphics capabilities, including upscaling, denoising, frame generation, and ray tracing with dynamic lights. It will be exclusive to devices with an upcoming successor to the mobile graphics chip. This tech demo aims to demonstrate the power of mobile graphics.
 
-💡 *PCIe 5.0 adoption comes at a cost of increased power consumption.*
+💡 *Advancements in mobile graphics can match high-end PC experiences.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112731-intel-z990-chipset-could-use-more-power-than.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112740-arm-bringing-android-own-version-dlss-game-unreal.html)
 
 ---
 
