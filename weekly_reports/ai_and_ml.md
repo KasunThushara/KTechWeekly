@@ -1,105 +1,95 @@
 # 🤖 AI & ML
-**Week of June 13, 2026**
+**Week of June 14, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-06-13 11:01
+- **Articles this week:** 8
+- **Report generated:** 2026-06-14 11:16
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Dev releases unblockable ASCII video stream software delivers 360p video at 30 FPS and acts as a bridge for AI  
+### 1. More than 75 data center build-outs worth $130 billion have been successfully blocked in the first three months of 2026 bipartisan opposition mounts nationwide over fears of soaring power and water costs ⭐
 
-A new software delivers high-performance, real-time ASCII video rendering, capable of broadcasting 360p video at 30 FPS, offering an unblockable video stream solution. It acts as a bridge for AI-powered applications, providing a unique video streaming solution. This software promises to revolutionize the way we stream video content.
+Bipartisan opposition blocks over 75 data center build-outs worth $130 billion in Q1 2026. The number of blocked projects matches last year's total. President Trump's push for AI development faces opposition nationwide.
 
-💡 *Unblockable video stream bypasses traditional content delivery network restrictions*
+💡 *Soaring power and water costs fuel bipartisan data center opposition*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/video-editing-graphic-design/dev-releases-unblockable-ascii-video-stream-software-mode-5-rendering-puts-out-360p-at-30-fps-using-pure-text)
-
----
-
-### 2. Microsoft's bug-hunting nemesis extends vendetta with more zero-day attacks Nightmare Eclipse publishes RoguePlanet and GreatXML local privilege escalation exploits 
-
-Nightmare-Eclipse expands its vendetta against Microsoft with two new zero-day exploits. The researcher has published RoguePlanet and GreatXML, which are local privilege escalation exploits. This is the latest in a series of attacks targeting Windows.
-
-💡 *Zero-day exploits threaten vulnerable Windows systems with unpatched vulnerabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-bug-hunting-nemesis-extends-vendetta-with-more-zero-day-attacks-nightmare-eclipse-publishes-rogueplanet-and-greatxml-local-privilege-escalation-exploits)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-75-data-center-build-outs-worth-usd130-billion-have-been-successfully-blocked-in-the-first-four-months-of-2026-bipartisan-opposition-mounts-nationwide-over-fears-of-soaring-power-and-water-costs)
 
 ---
 
-### 3. Samsung is building floating data centers on ships, and it's already got regulatory approval 
+### 2. Netgear countersues TP-Link, saying firm 'remains, at its core, a Chinese company selling Chinese-made products' alleges its 'American company' rebrand is false advertising 
 
-Samsung Heavy Industries is developing floating data centers with partners. This innovation aims to provide sustainable and efficient data hosting facilities. The project has already received regulatory approval.
+Netgear countersues TP-Link, accusing it of false advertising as 'American company'.
 
-💡 *Revolutionizing data hosting with sustainable, self-sustaining AI facilities on sea*
+💡 *Rival companies clash over authenticity and national branding claims.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112738-samsung-building-floating-data-centers-ships-already-got.html)
-
----
-
-### 4. Ukraine used 10 AI-controlled Terminator drones to kill Russian soldiers two years ago, marking first autonomous killings of humans autonomous killer quadcopters left everything dead says senior Ukrainian defense industry figure 
-
-In 2024, Ukraine deployed 10 AI-controlled quadcopters to kill Russian soldiers.
-
-💡 *Autonomous AI systems are now capable of making lethal decisions.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ukraine-used-10-ai-controlled-terminator-drones-to-kill-russian-soldiers-two-years-ago-marking-first-autonomous-killings-of-humans-senior-ukrainian-defense-industry-figure-confirms-this-autonomous-watershed-was-passed-in-2024)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/netgear-countersues-tp-link-alleging-its-american-company-rebrand-is-false-advertising)
 
 ---
 
-### 5. SpaceX goes public in the largest IPO ever, and Musk crosses the trillion-dollar line 
+### 3. Nvidia raises RTX Pro 6000 Blackwell GPU pricing to $13,250 55% increase over MSRP in a year's time 
 
-SpaceX went public in a record-breaking IPO, raising $75 billion and valuing the company at an enormous sum.
+Nvidia increases RTX Pro 6000 Blackwell GPU pricing by 55% within a year.
 
-💡 *SpaceX's massive valuation cements Elon Musk's status as a trillionaire.*
+💡 *Massive price hike makes high-end GPUs inaccessible to many consumers.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112752-spacex-goes-public-largest-ipo-ever-musk-crosses.html)
-
----
-
-### 6. Flock AI cameras allegedly used by police to stalk ex-girlfriends and partners 
-
-Police officers allegedly misuse Flock AI cameras to stalk ex-partners, sparking investigations.
-
-💡 *Abuse of surveillance tech erodes trust in law enforcement and public safety.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112750-flock-ai-cameras-allegedly-used-police-stalk-ex.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-raises-rtx-pro-6000-blackwell-gpu-pricing-to-usd13-250-55-percent-increase-over-msrp-in-a-years-time)
 
 ---
 
-### 7. Android engineer leaves Google amid concerns over defense partnerships 
+### 4. AI costs spike as subscriptions hit pricing wall firms turn towards Chinese LLMs, open-source models to extend budget 
 
-Ren Mayrhofer, an Android engineer, left Google citing concerns over defense partnerships.
+Companies turn to cheaper alternatives as AI model costs spike, threatening profitability.
 
-💡 *Google's shift from neutrality sparks engineer's moral and ethical concerns.*
+💡 *High utilization rates can lead to significant AI cost losses.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112747-android-engineer-leaves-google-amid-concerns-over-defense.html)
-
----
-
-### 8. Arm is bringing Android its own version of DLSS game with Unreal MegaLights will show it off 
-
-Arm's upcoming tech demo, Neural Dawn, showcases advanced mobile graphics capabilities, including upscaling, denoising, frame generation, and ray tracing with dynamic lights. It will be exclusive to devices with an upcoming successor to the mobile graphics chip. This tech demo aims to demonstrate the power of mobile graphics.
-
-💡 *Advancements in mobile graphics can match high-end PC experiences.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112740-arm-bringing-android-own-version-dlss-game-unreal.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-spike-as-subscriptions-hit-pricing-wall-firms-turn-towards-chinese-llms-open-source-models-to-extend-budget)
 
 ---
 
-### 9. This jacket can harvest drinking water from the air like a real-life Dune stillsuit 
+### 5. U.S. gov't orders Anthropic to disable its newest AI models worldwide due to security threats ban on Claude Fable 5 and Mythos 5 bars access by any foreign national, even its own employees 
 
-Engineers at the University of Texas at Austin have developed textile fibers that can collect moisture from the air and turn it into liquid water, providing a potential solution for water scarcity.
+Anthropic disabled its AI models, Claude Fable 5 and Mythos 5, worldwide due to a U.S. government order citing security threats. The ban restricts access to these models by any foreign national, including the company's own employees. This move is intended to prevent potential misuse.
 
-💡 *Revolutionizes access to clean drinking water in drought-stricken areas globally.*
+💡 *US government prioritizes national security over AI model accessibility*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112745-jacket-can-harvest-drinking-water-air-like-real.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-export-control-order-forces-anthropic-to-disable-claude-fable-5-and-mythos-5-worldwide)
+
+---
+
+### 6. Microsoft president says AI backlash at graduation events should be wake-up call for the tech industry 
+
+Microsoft president Brad Smith urges industry leaders to heed growing AI backlash, citing concerns about AI speakers at graduation events.
+
+💡 *Industry should listen to public concerns about AI's impact and ethics.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112751-microsoft-president-ai-backlash-graduation-events-wake-up.html)
+
+---
+
+### 7. Justice Department seizes websites that published deepfake nudes of famous women 
+
+The US Justice Department seized websites publishing deepfake nudes without consent, hosting thousands of digital forgeries.
+
+💡 *Non-consensual deepfakes have severe consequences for victims' reputations and mental health.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112756-justice-department-seizes-websites-published-deepfake-nude-images.html)
+
+---
+
+### 8. Microsoft may consider Xbox spin-off or joint venture as console business struggles 
+
+Microsoft executives consider restructuring Xbox as subsidiary or joint venture due to business struggles.
+
+💡 *Xbox's future uncertain as Microsoft explores new ownership structures.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112753-microsoft-may-consider-xbox-spin-off-or-joint.html)
 
 ---
 

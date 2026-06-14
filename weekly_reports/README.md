@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 13, 2026**
+**Week of June 14, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Espressif ESP32-E22 WiFi 6E module gets Wi-Fi CERTIFIED certificate, open-source WiFi and Bluetooth Linux drivers ⭐
+### 1. Creality Sermoon S1 review Part 3: 3D scanning with Khadas Mind 2 and NVIDIA GeForce RTX 5060 Ti 16GB dock ⭐
 
 **💻 Hardware**
 
-Espressif's ESP32-E22 WiFi 6E module has achieved Wi-Fi CERTIFIED status and open-source drivers.
+This review continues the Creality Sermoon S1 3D scanner assessment with a more capable setup featuring the Khadas Mind 2 mini PC and NVIDIA GeForce RTX 5060 Ti graphics dock, showcasing improved performance and capabilities.
 
-💡 **Key Point:** Advancements in wireless technology for host-based systems gain momentum.
+💡 **Key Point:** NVIDIA GPU significantly boosts 3D scanner performance and functionality
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/13/espressif-esp32-e22-wifi-6e-module-gets-wi-fi-certified-certificate-an-open-source-wifi-and-bluetooth-linux-drivers/)
-
----
-
-### 2. Espressif ESP32-E22 WiFi 6E module gets Wi-Fi CERTIFIED certificate, open-source WiFi and Bluetooth Linux drivers ⭐
-
-**⚡ Semiconductors**
-
-Espressif's ESP32-E22 WiFi 6E module has achieved Wi-Fi CERTIFIED status and open-source drivers.
-
-💡 **Key Point:** Advancements in wireless technology for host-based systems gain momentum.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/13/espressif-esp32-e22-wifi-6e-module-gets-wi-fi-certified-certificate-an-open-source-wifi-and-bluetooth-linux-drivers/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/14/creality-sermoon-s1-review-part-3-3d-scanning-with-khadas-mind-2-and-nvidia-geforce-rtx-5060-ti-16gb-dock/)
 
 ---
 
-### 3. Dev releases unblockable ASCII video stream software delivers 360p video at 30 FPS and acts as a bridge for AI  
+### 2. Creality Sermoon S1 review Part 3: 3D scanning with Khadas Mind 2 and NVIDIA GeForce RTX 5060 Ti 16GB dock ⭐
+
+**🎮 GPUs**
+
+This review continues the Creality Sermoon S1 3D scanner assessment with a more capable setup featuring the Khadas Mind 2 mini PC and NVIDIA GeForce RTX 5060 Ti graphics dock, showcasing improved performance and capabilities.
+
+💡 **Key Point:** NVIDIA GPU significantly boosts 3D scanner performance and functionality
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/14/creality-sermoon-s1-review-part-3-3d-scanning-with-khadas-mind-2-and-nvidia-geforce-rtx-5060-ti-16gb-dock/)
+
+---
+
+### 3. More than 75 data center build-outs worth $130 billion have been successfully blocked in the first three months of 2026 bipartisan opposition mounts nationwide over fears of soaring power and water costs ⭐
 
 **🤖 AI & ML**
 
-A new software delivers high-performance, real-time ASCII video rendering, capable of broadcasting 360p video at 30 FPS, offering an unblockable video stream solution. It acts as a bridge for AI-powered applications, providing a unique video streaming solution. This software promises to revolutionize the way we stream video content.
+Bipartisan opposition blocks over 75 data center build-outs worth $130 billion in Q1 2026. The number of blocked projects matches last year's total. President Trump's push for AI development faces opposition nationwide.
 
-💡 **Key Point:** Unblockable video stream bypasses traditional content delivery network restrictions
+💡 **Key Point:** Soaring power and water costs fuel bipartisan data center opposition
 
-🔗 [Read More](https://www.tomshardware.com/software/video-editing-graphic-design/dev-releases-unblockable-ascii-video-stream-software-mode-5-rendering-puts-out-360p-at-30-fps-using-pure-text)
-
----
-
-### 4. Microsoft's bug-hunting nemesis extends vendetta with more zero-day attacks Nightmare Eclipse publishes RoguePlanet and GreatXML local privilege escalation exploits 
-
-**🤖 AI & ML**
-
-Nightmare-Eclipse expands its vendetta against Microsoft with two new zero-day exploits. The researcher has published RoguePlanet and GreatXML, which are local privilege escalation exploits. This is the latest in a series of attacks targeting Windows.
-
-💡 **Key Point:** Zero-day exploits threaten vulnerable Windows systems with unpatched vulnerabilities.
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-bug-hunting-nemesis-extends-vendetta-with-more-zero-day-attacks-nightmare-eclipse-publishes-rogueplanet-and-greatxml-local-privilege-escalation-exploits)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-75-data-center-build-outs-worth-usd130-billion-have-been-successfully-blocked-in-the-first-four-months-of-2026-bipartisan-opposition-mounts-nationwide-over-fears-of-soaring-power-and-water-costs)
 
 ---
 
-### 5. Samsung is building floating data centers on ships, and it's already got regulatory approval 
+### 4. Razer Kiyo V2 X Review: Auto-focus for life 
 
-**🤖 AI & ML**
+**💻 Hardware**
 
-Samsung Heavy Industries is developing floating data centers with partners. This innovation aims to provide sustainable and efficient data hosting facilities. The project has already received regulatory approval.
+Razer Kiyo V2 X is a budget-friendly webcam offering 1440p / 60 fps video, auto-focus, and an 80-degree field of view with a physical privacy shutter.
 
-💡 **Key Point:** Revolutionizing data hosting with sustainable, self-sustaining AI facilities on sea
+💡 **Key Point:** Cost-effective solution for high-quality video streaming and conferencing.
 
-🔗 [Read More](https://www.techspot.com/news/112738-samsung-building-floating-data-centers-ships-already-got.html)
+🔗 [Read More](https://www.tomshardware.com/peripherals/webcams/razer-kiyo-v2-x-review)
+
+---
+
+### 5. Razer Kiyo V2 X Review: Auto-focus for life 
+
+**📰 Tech News**
+
+Razer Kiyo V2 X is a budget-friendly webcam offering 1440p / 60 fps video, auto-focus, and an 80-degree field of view with a physical privacy shutter.
+
+💡 **Key Point:** Cost-effective solution for high-quality video streaming and conferencing.
+
+🔗 [Read More](https://www.tomshardware.com/peripherals/webcams/razer-kiyo-v2-x-review)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **32 articles** across **5 focused categories**.
+We covered **23 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 9 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 5 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 9 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 8 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 4 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 1 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 9 articles
+*Artificial Intelligence and Machine Learning* — 8 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 5 articles
+*Graphics cards and compute accelerators* — 6 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 9 articles
+*Computing hardware and development boards* — 4 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 3 articles
+*Chip manufacturing and design* — 1 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 6 articles
+*Industry news and product launches* — 4 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-13 at 11:01 by an autonomous AI curation system.
+Generated 2026-06-14 at 11:16 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

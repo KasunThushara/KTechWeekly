@@ -1,75 +1,55 @@
 # 📰 Tech News
-**Week of June 13, 2026**
+**Week of June 14, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-06-13 11:01
+- **Articles this week:** 4
+- **Report generated:** 2026-06-14 11:16
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Dev releases unblockable ASCII video stream software delivers 360p video at 30 FPS and acts as a bridge for AI  
+### 1. Razer Kiyo V2 X Review: Auto-focus for life 
 
-A new software delivers high-performance, real-time ASCII video rendering, capable of broadcasting 360p video at 30 FPS, offering an unblockable video stream solution. It acts as a bridge for AI-powered applications, providing a unique video streaming solution. This software promises to revolutionize the way we stream video content.
+Razer Kiyo V2 X is a budget-friendly webcam offering 1440p / 60 fps video, auto-focus, and an 80-degree field of view with a physical privacy shutter.
 
-💡 *Unblockable video stream bypasses traditional content delivery network restrictions*
+💡 *Cost-effective solution for high-quality video streaming and conferencing.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/video-editing-graphic-design/dev-releases-unblockable-ascii-video-stream-software-mode-5-rendering-puts-out-360p-at-30-fps-using-pure-text)
-
----
-
-### 2. Windows Server is getting new network safety capabilities with DNS over HTTPS 
-
-Windows Server 2025 now supports DNS over HTTPS for encrypted DNS traffic.
-
-💡 *Enhanced network safety through secure client-to-server communications.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112749-windows-server-getting-new-network-safety-capabilities-dns.html)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/webcams/razer-kiyo-v2-x-review)
 
 ---
 
-### 3. Samsung is building floating data centers on ships, and it's already got regulatory approval 
+### 2. Microsoft's shader stutter fix is now available for all AMD Radeon GPUs, Nvidia users have to wait 
 
-Samsung Heavy Industries is developing floating data centers with partners. This innovation aims to provide sustainable and efficient data hosting facilities. The project has already received regulatory approval.
+Microsoft's shader stutter fix is available for all AMD Radeon GPUs, improving gaming performance. The feature virtually eliminates shader compilation in PC games played through the Xbox app. It currently only supports AMD Radeon graphics cards.
 
-💡 *Revolutionizing data hosting with sustainable, self-sustaining AI facilities on sea*
+💡 *Shader stutter fix enhances gaming performance for AMD Radeon users.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112738-samsung-building-floating-data-centers-ships-already-got.html)
-
----
-
-### 4. Android engineer leaves Google amid concerns over defense partnerships 
-
-Ren Mayrhofer, an Android engineer, left Google citing concerns over defense partnerships.
-
-💡 *Google's shift from neutrality sparks engineer's moral and ethical concerns.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112747-android-engineer-leaves-google-amid-concerns-over-defense.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112755-microsoft-rolls-out-shader-stutter-fix-xbox-app.html)
 
 ---
 
-### 5. Delicate touch: Tactile sensors help humanoids get a grip 
+### 3. Hardcore SpongeBob speedrunners smudged Xbox optical disks with sweat and grease to exploit 'lag clip' trick filthy smeared disks cut gameplay times in ultimate pursuit of speed 
 
-Bosch is leveraging MEMS technology for humanoids to improve tactile sensing, enabling more precise interactions. This advancement is expected to drive growth in the industry. The investment in robot startups also doubles, indicating a surge in interest.
+Speedrunners discovered that a grease smear on Xbox optical disks can help them save time in SpongeBob SquarePants: Battle for Bikini Bottom by exploiting a quirk in the game's disc reading system, known as the 'lag clip' trick.
 
-💡 *Advanced tactile sensors enhance humanoids' grip and interaction capabilities*
+💡 *Speedrun optimization relies on unexpected hardware interactions.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/delicate-touch-tactile-sensors-help-humanoids-get-grip)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/hardcore-spongebob-speedrunners-smudged-xbox-optical-disks-to-exploit-lag-clip-trick-filthy-disks-smeared-with-grease-and-sweat-cut-gameplay-times-in-ultimate-pursuit-of-speed)
 
 ---
 
-### 6. ST notches market lead for in-car sensors 
+### 4. AI costs spike as subscriptions hit pricing wall firms turn towards Chinese LLMs, open-source models to extend budget 
 
-European regulation is driving the adoption of in-car sensors to detect driver distraction and drowsiness, leading to a growth in occupant sensor technology.
+Companies turn to cheaper alternatives as AI model costs spike, threatening profitability.
 
-💡 *Safety regulations boost in-car sensor adoption across European market.*
+💡 *High utilization rates can lead to significant AI cost losses.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/st-notches-market-lead-car-sensors)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-spike-as-subscriptions-hit-pricing-wall-firms-turn-towards-chinese-llms-open-source-models-to-extend-budget)
 
 ---
 
