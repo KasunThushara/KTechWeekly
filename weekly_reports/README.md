@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 14, 2026**
+**Week of June 15, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Creality Sermoon S1 review Part 3: 3D scanning with Khadas Mind 2 and NVIDIA GeForce RTX 5060 Ti 16GB dock ⭐
+### 1. Gateworks Catalina GW9200 NXP i.MX 95 SBC features Flexible Socket Adapter sockets for M.2 or mPCIe modules ⭐
 
-**💻 Hardware**
+**⚡ Semiconductors**
 
-This review continues the Creality Sermoon S1 3D scanner assessment with a more capable setup featuring the Khadas Mind 2 mini PC and NVIDIA GeForce RTX 5060 Ti graphics dock, showcasing improved performance and capabilities.
+Gateworks' Catalina GW9200 SBC features NXP i.MX 95 SoC with Flexible Socket Adapter (FSA) sockets for M.2 or mini PCIe expansion, supporting industrial Edge AI applications with 10GbE and GbE connectivity.
 
-💡 **Key Point:** NVIDIA GPU significantly boosts 3D scanner performance and functionality
+💡 **Key Point:** Supports Edge AI and industrial applications with flexible expansion options.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/14/creality-sermoon-s1-review-part-3-3d-scanning-with-khadas-mind-2-and-nvidia-geforce-rtx-5060-ti-16gb-dock/)
-
----
-
-### 2. Creality Sermoon S1 review Part 3: 3D scanning with Khadas Mind 2 and NVIDIA GeForce RTX 5060 Ti 16GB dock ⭐
-
-**🎮 GPUs**
-
-This review continues the Creality Sermoon S1 3D scanner assessment with a more capable setup featuring the Khadas Mind 2 mini PC and NVIDIA GeForce RTX 5060 Ti graphics dock, showcasing improved performance and capabilities.
-
-💡 **Key Point:** NVIDIA GPU significantly boosts 3D scanner performance and functionality
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/14/creality-sermoon-s1-review-part-3-3d-scanning-with-khadas-mind-2-and-nvidia-geforce-rtx-5060-ti-16gb-dock/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/15/gateworks-catalina-gw9200-nxp-i-mx-95-sbc-features-flexible-socket-adapter-sockets-for-m-2-or-mpcie-modules/)
 
 ---
 
-### 3. More than 75 data center build-outs worth $130 billion have been successfully blocked in the first three months of 2026 bipartisan opposition mounts nationwide over fears of soaring power and water costs ⭐
+### 2. Linux 7.1 Release Main changes, Arm, RISC-V, and MIPS architectures ⭐
 
 **🤖 AI & ML**
 
-Bipartisan opposition blocks over 75 data center build-outs worth $130 billion in Q1 2026. The number of blocked projects matches last year's total. President Trump's push for AI development faces opposition nationwide.
+Linux 7.1 has been released, marking a new version of the popular operating system. The release includes various improvements and changes, particularly focusing on Arm, RISC-V, and MIPS architectures. This update is expected to bring enhanced performance and stability to users of these architectures.
 
-💡 **Key Point:** Soaring power and water costs fuel bipartisan data center opposition
+💡 **Key Point:** Enhanced performance and stability for Arm, RISC-V, and MIPS users
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-75-data-center-build-outs-worth-usd130-billion-have-been-successfully-blocked-in-the-first-four-months-of-2026-bipartisan-opposition-mounts-nationwide-over-fears-of-soaring-power-and-water-costs)
+🔗 [Read More](https://www.cnx-software.com/2026/06/15/linux-7-1-release-main-changes-arm-risc-v-and-mips-architectures/)
 
 ---
 
-### 4. Razer Kiyo V2 X Review: Auto-focus for life 
+### 3. Researchers recycle old phones and cluster them into computing platforms that operate as a low-cost data center says processors on modern smartphones deliver higher single-core performance than comparable multicore servers ⭐
 
 **💻 Hardware**
 
-Razer Kiyo V2 X is a budget-friendly webcam offering 1440p / 60 fps video, auto-focus, and an 80-degree field of view with a physical privacy shutter.
+Researchers from UC San Diego repurposed old smartphones as a low-cost data center, leveraging their processing power to run apps locally.
 
-💡 **Key Point:** Cost-effective solution for high-quality video streaming and conferencing.
+💡 **Key Point:** Old smartphones can deliver comparable performance to modern servers inexpensively.
 
-🔗 [Read More](https://www.tomshardware.com/peripherals/webcams/razer-kiyo-v2-x-review)
+🔗 [Read More](https://www.tomshardware.com/desktops/servers/researchers-recycle-old-phones-and-cluster-them-into-computing-platforms-says-processors-on-modern-smartphones-deliver-higher-single-core-performance-than-comparable-multicore-servers)
 
 ---
 
-### 5. Razer Kiyo V2 X Review: Auto-focus for life 
+### 4. Linux 7.1 Release Main changes, Arm, RISC-V, and MIPS architectures ⭐
 
-**📰 Tech News**
+**💻 Hardware**
 
-Razer Kiyo V2 X is a budget-friendly webcam offering 1440p / 60 fps video, auto-focus, and an 80-degree field of view with a physical privacy shutter.
+Linux 7.1 has been released, marking a new version of the popular operating system. The release includes various improvements and changes, particularly focusing on Arm, RISC-V, and MIPS architectures. This update is expected to bring enhanced performance and stability to users of these architectures.
 
-💡 **Key Point:** Cost-effective solution for high-quality video streaming and conferencing.
+💡 **Key Point:** Enhanced performance and stability for Arm, RISC-V, and MIPS users
 
-🔗 [Read More](https://www.tomshardware.com/peripherals/webcams/razer-kiyo-v2-x-review)
+🔗 [Read More](https://www.cnx-software.com/2026/06/15/linux-7-1-release-main-changes-arm-risc-v-and-mips-architectures/)
+
+---
+
+### 5. Gateworks Catalina GW9200 NXP i.MX 95 SBC features Flexible Socket Adapter sockets for M.2 or mPCIe modules ⭐
+
+**💻 Hardware**
+
+Gateworks' Catalina GW9200 SBC features NXP i.MX 95 SoC with Flexible Socket Adapter (FSA) sockets for M.2 or mini PCIe expansion, supporting industrial Edge AI applications with 10GbE and GbE connectivity.
+
+💡 **Key Point:** Supports Edge AI and industrial applications with flexible expansion options.
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/15/gateworks-catalina-gw9200-nxp-i-mx-95-sbc-features-flexible-socket-adapter-sockets-for-m-2-or-mpcie-modules/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **23 articles** across **5 focused categories**.
+We covered **49 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 8 | Artificial Intelligence and Machine Learning |
+| 🤖 [AI & ML](ai_and_ml.md) | 14 | Artificial Intelligence and Machine Learning |
 | 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 4 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 1 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
+| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 8 articles
+*Artificial Intelligence and Machine Learning* — 14 articles
 
 ### 🎮 [GPUs](gpus.md)
 *Graphics cards and compute accelerators* — 6 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 4 articles
+*Computing hardware and development boards* — 13 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 1 articles
+*Chip manufacturing and design* — 6 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 4 articles
+*Industry news and product launches* — 10 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-14 at 11:16 by an autonomous AI curation system.
+Generated 2026-06-15 at 14:48 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
