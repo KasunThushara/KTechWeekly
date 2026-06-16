@@ -1,100 +1,4 @@
 {
-  "https://www.tomshardware.com/tech-industry/jensen-huang-says-comparing-gpus-to-atomic-bombs-is-stupid-nvidia-ceo-says-government-should-allow-selling-gpus-to-adversarial-companies": {
-    "title": "Jensen Huang slams 'stupid' analogy comparing GPUs to nuclear weapons Nvidia CEO says government should allow selling GPUs to 'adversarial countries'",
-    "fingerprint": "05aceead60e316e6505b4c566d385a5f",
-    "timestamp": 1779012729.529623,
-    "date": "2026-05-17T10:12:09.529628"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/maker-packs-an-opinionated-googly-eyed-ai-chatbot-into-a-mobile-suitcase-powered-by-an-nvidia-jetson-entirely-local-machine-entity-runs-gemma-4-e4b-and-can-respond-in-200ms": {
-    "title": "Maker packs an opinionated, googly-eyed AI chatbot into a mobile suitcase, powered by an Nvidia Jetson entirely local machine entity runs Gemma 4 E4B and can respond in 200ms",
-    "fingerprint": "9f76e5320dafe1915128fe1a7f956767",
-    "timestamp": 1779012729.52972,
-    "date": "2026-05-17T10:12:09.529721"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/the-core-ultra-7-270k-was-too-good-so-intel-scrapped-the-flagship-core-ultra-9-290k-plus-benchmarks-of-the-290k-prototype-find-slim-2-percent-faster-performance-in-gaming-and-applications": {
-    "title": "The Core Ultra 7 270K was too good, so Intel scrapped the flagship Core Ultra 9 290K Plus benchmarks of the 290K prototype find slim 2% faster performance in gaming and applications",
-    "fingerprint": "56b9a579db830d061e80ee5ebf26935c",
-    "timestamp": 1779012729.52983,
-    "date": "2026-05-17T10:12:09.529830"
-  },
-  "https://www.tomshardware.com/tech-industry/big-tech/texas-county-passes-data-center-moratorium-for-a-year-follows-other-local-governments-pausing-similar-projects-but-state-senator-says-counties-cannot-impose-these-bans": {
-    "title": "Texas county passes data center ban for rural areas for a year, move comes in wake of AI data centers moving to remote areas to skirt regulations state senator says counties cannot legally impose these bans",
-    "fingerprint": "840a8bb689a699bff1ce29e103bc7aa5",
-    "timestamp": 1779012729.529947,
-    "date": "2026-05-17T10:12:09.529947"
-  },
-  "https://www.tomshardware.com/tech-industry/60-percent-of-pc-gamers-have-no-plans-to-build-a-new-pc-in-the-next-two-years-ai-pricing-crunch-on-ram-and-other-components-paralyze-enthusiast-market": {
-    "title": "60% of PC gamers have no plans to build a new PC in the next two years AI pricing crunch on RAM and other components paralyze enthusiast market",
-    "fingerprint": "63088a52103e03f096a71a1525e6f06a",
-    "timestamp": 1779012729.530025,
-    "date": "2026-05-17T10:12:09.530025"
-  },
-  "https://www.tomshardware.com/3d-printing/modder-uses-nintendo-switch-to-boost-aging-3d-printers-speed-by-90-percent-dropping-3dbenchy-print-time-from-90-minutes-to-a-mere-8-minutes-and-41-seconds-enthusiast-claims-big-quality-improvements-by-using-jailbroken-quad-core-console": {
-    "title": "Modder uses Nintendo Switch to boost aging 3D printer's speed by 90%, dropping 3DBenchy print time from 90 minutes to a mere 8 minutes and 41 seconds enthusiast claims big quality improvements by using jailbroken quad-core console",
-    "fingerprint": "eb375f7e1d3f30ac3335bdc9c5481a9b",
-    "timestamp": 1779012729.530107,
-    "date": "2026-05-17T10:12:09.530107"
-  },
-  "https://www.tomshardware.com/tech-industry/ai-data-centers-trigger-massive-irreversible-76-percent-electricity-price-spike-in-largest-us-region-federal-watchdog-demands-tech-giants-pay-for-their-own-power-infrastructure": {
-    "title": "AI data centers trigger massive 'irreversible' 76% electricity price spike in largest US region federal watchdog demands tech giants pay for their own power infrastructure",
-    "fingerprint": "be0bb7014f633e1378f0854d616608ba",
-    "timestamp": 1779012729.530183,
-    "date": "2026-05-17T10:12:09.530183"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-250k-plus-vs-amd-ryzen-5-7600x3d-faceoff": {
-    "title": "Intel Core Ultra 5 250K Plus vs AMD Ryzen 5 7600X3D faceoff Battle for the fastest mid-range gaming CPU",
-    "fingerprint": "ddf86402b6b709a955c7daaec55c8cd1",
-    "timestamp": 1779012729.530261,
-    "date": "2026-05-17T10:12:09.530261"
-  },
-  "https://www.tomshardware.com/tech-industry/ai-data-centers-are-consuming-fiber-optic-cable-faster-than-suppliers-can-make-it": {
-    "title": "AI data centers require 36 times more fiber than designs with standard servers severe glass shortages push cable lead times out to a full year",
-    "fingerprint": "a4f749c62d2fdb70e4ce557e78723624",
-    "timestamp": 1779012729.530341,
-    "date": "2026-05-17T10:12:09.530341"
-  },
-  "https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement": {
-    "title": "First Apple M5 memory exploit discovered using Anthropic AI, gives root access on MacOS Claude Mythos helps security researchers bypass Memory Integrity Enforcement",
-    "fingerprint": "7fae7a1295268eee49c60f9d559c11a2",
-    "timestamp": 1779012729.53041,
-    "date": "2026-05-17T10:12:09.530410"
-  },
-  "https://www.tomshardware.com/laptops/macbooks/m5-max-macbook-pro-paired-with-rtx-5090-in-an-egpu-dock-runs-cyberpunk-2077-at-over-100-fps-at-max-settings-with-frame-generation": {
-    "title": "M5 Max MacBook Pro paired with RTX 5090 in an eGPU dock runs Cyberpunk 2077 at over 100 FPS at max settings with frame generation",
-    "fingerprint": "2fed9ba530f4f68e4ea6c0d16df6c82f",
-    "timestamp": 1779012729.53049,
-    "date": "2026-05-17T10:12:09.530490"
-  },
-  "https://www.tomshardware.com/pc-components/ram/asus-enters-the-ram-market-during-the-largest-memory-shortage-in-history-brands-first-ddr5-kit-makes-the-rtx-5070-ti-look-like-a-bargain": {
-    "title": "Asus enters the RAM market during the largest memory shortage in history, 48GB kit lands at $880 brand's first DDR5 kit makes the RTX 5070 Ti look like a bargain",
-    "fingerprint": "3f0245905457f8500fcd170a358bf892",
-    "timestamp": 1779012729.530563,
-    "date": "2026-05-17T10:12:09.530563"
-  },
-  "https://www.cnx-software.com/2026/05/17/esp32-s3-boards-features-wago-connectors-for-led-strips-buttons-other-swappable-modules/": {
-    "title": "ESP32-S3 boards features WAGO connectors for LED strips, buttons, other swappable modules",
-    "fingerprint": "9e3ed5c5df9ba035575ca80603924430",
-    "timestamp": 1779012729.531022,
-    "date": "2026-05-17T10:12:09.531022"
-  },
-  "https://www.fiercesensors.com/sensors/edge-ai-outlook-viewed-cautious-optimism": {
-    "title": "Edge AI outlook viewed with cautious optimism",
-    "fingerprint": "a2d143b809d6fbb70aa41a3746b34769",
-    "timestamp": 1779012729.532056,
-    "date": "2026-05-17T10:12:09.532058"
-  },
-  "https://www.techspot.com/news/112427-ai-could-steal-fingerprints-high-resolution-selfies-experts.html": {
-    "title": "AI could steal fingerprints from high-resolution selfies, experts warn",
-    "fingerprint": "0ecf5b40134dc2a277b224e374d5c979",
-    "timestamp": 1779012729.532149,
-    "date": "2026-05-17T10:12:09.532149"
-  },
-  "https://www.techspot.com/article/3128-forza-horizon-6-benchmark/": {
-    "title": "Forza Horizon 6 Benchmark: 47 GPUs Tested",
-    "fingerprint": "c3d1221b0961fecef8d8448ee481fafe",
-    "timestamp": 1779012729.53222,
-    "date": "2026-05-17T10:12:09.532221"
-  },
   "https://www.tomshardware.com/monitors/gaming-monitors/lg-ultragear-52g930b-52-inch-5k-gaming-monitor-review-extreme-in-every-respect": {
     "title": "LG UltraGear 52G930B 52-inch 5K gaming monitor review: Extreme in every respect",
     "fingerprint": "23da3fcf87052bcf5420fd2a98d95a26",
@@ -5170,5 +5074,215 @@
     "fingerprint": "87657e34a0838e4f0eadecbe5356073b",
     "timestamp": 1781534854.278889,
     "date": "2026-06-15T14:47:34.278890"
+  },
+  "https://www.tomshardware.com/laptops/microsoft-debuts-surface-pro-and-surface-laptop-with-new-jade-green-color-and-qualcomm-snapdragon-x2-chips-refreshed-devices-start-at-usd1-499-with-16gb-of-ram": {
+    "title": "Microsoft debuts Surface Pro and Surface Laptop with new jade green color and Qualcomm Snapdragon X2 chips refreshed devices start at $1,499 with 16GB of RAM",
+    "fingerprint": "47b329bfe7dfa83a14b830dc1c933841",
+    "timestamp": 1781615808.381242,
+    "date": "2026-06-16T13:16:48.381245"
+  },
+  "https://www.tomshardware.com/pc-components/liquid-cooling/msi-mpg-coreliquid-p22-360-review": {
+    "title": "MSI MPG Coreliquid P22 360 Review: Low noise, strong performance, budget price",
+    "fingerprint": "e8629ecfab2d07e171c81e4039dc424e",
+    "timestamp": 1781615808.381367,
+    "date": "2026-06-16T13:16:48.381368"
+  },
+  "https://www.tomshardware.com/pc-components/ssds/agi-ai858-2tb-ssd-review": {
+    "title": "AGI AI858 2TB SSD Review High-end PCIe 5 speeds on a budget",
+    "fingerprint": "913345104100bf6e3af9ab28aa587d35",
+    "timestamp": 1781615808.381485,
+    "date": "2026-06-16T13:16:48.381486"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/intels-one-two-punch-plan-in-desktop-cpus-is-taking-shape-z990-spotted-nova-lake-detailed-raptor-lake-next-teased": {
+    "title": "Intel's one-two punch plan in desktop CPUs is taking shape Z990 spotted, Nova Lake detailed, Raptor Lake Next teased",
+    "fingerprint": "c68406f01bd20dc7900fb3845380208a",
+    "timestamp": 1781615808.381592,
+    "date": "2026-06-16T13:16:48.381593"
+  },
+  "https://www.tomshardware.com/phones/commodore-announces-linux-based-flip-phone-with-no-social-media-no-browser-the-callback-8020-will-be-available-in-five-retro-colorways-starting-at-usd499-runs-99-percent-of-android-apps": {
+    "title": "Commodore announces Linux-based flip phone with no social media, no browser the Callback 8020 will be available in five retro colorways starting at $499, runs 99% of Android apps",
+    "fingerprint": "5785f0e5506fb9550a6e75068f4bce5c",
+    "timestamp": 1781615808.381702,
+    "date": "2026-06-16T13:16:48.381703"
+  },
+  "https://www.tomshardware.com/pc-components/microsd-cards/save-40-percent-on-this-ultra-fast-samsung-microsd-card-with-256gb-storage-now-just-usd47-99-usd32-saving-on-p9-express-model-with-read-speeds-of-up-to-800-mb-s-perfect-for-a-gaming-laptop-or-a-nintendo-switch-2": {
+    "title": "Save 40% on this ultra-fast Samsung microSD card with 256GB storage, now just $47.99 $32 saving on P9 Express model with read speeds of up to 800 MB/s, perfect for a gaming laptop or a Nintendo Switch 2",
+    "fingerprint": "2f14a43149f2ab60d82b5155c95a5b4f",
+    "timestamp": 1781615808.381809,
+    "date": "2026-06-16T13:16:48.381810"
+  },
+  "https://www.tomshardware.com/laptops/gaming-laptops/get-an-rtx-5090-gaming-laptop-for-less-than-usd3-000-acers-16-inch-predator-with-2tb-of-storage-and-32gb-of-ram-is-now-usd500-off": {
+    "title": "Get an RTX 5090 gaming laptop for less than $3,000 Acer's 16-inch Predator with 2TB of storage and 32GB of RAM is now $500 off",
+    "fingerprint": "07c846707596ab487ffaaed38b49c1e6",
+    "timestamp": 1781615808.381929,
+    "date": "2026-06-16T13:16:48.381929"
+  },
+  "https://www.tomshardware.com/peripherals/gaming-keyboards/these-are-the-four-keyboards-im-still-using-after-reviewing-keyboards-for-years-how-a-500-hz-tkl-and-a-stream-deck-layout-dominated-my-desk": {
+    "title": "These are the four keyboards I'm still using after reviewing keyboards for years How a 500 Hz TKL and a Stream Deck layout dominated my desk",
+    "fingerprint": "b918a167dc6dba39d273e4047aba2d78",
+    "timestamp": 1781615808.382081,
+    "date": "2026-06-16T13:16:48.382083"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/amds-massive-sp7-socket-for-epyc-venice-and-intels-gargantuan-9-324-pin-socket-for-diamond-rapids-appear-at-computex-sp7-and-lga9324-1-sockets-will-power-the-next-generation-of-ai-servers": {
+    "title": "AMD s massive SP7 socket for EPYC Venice and Intel s gargantuan 9,324-pin socket for Diamond Rapids appear at Computex SP7 and LGA9324-1 sockets will power the next generation of AI servers",
+    "fingerprint": "8cf477571878052c92440c68d6ea76de",
+    "timestamp": 1781615808.382197,
+    "date": "2026-06-16T13:16:48.382198"
+  },
+  "https://www.tomshardware.com/networking/finland-charges-russian-captain-and-crew-member-of-ship-suspected-of-damaging-undersea-cables-prosecutors-claim-ship-had-eight-more-targets-before-it-was-stopped-by-coast-guard": {
+    "title": "Finland charges Russian captain and crew member of ship suspected of damaging undersea cables prosecutors claim ship had eight more targets before it was stopped by coast guard",
+    "fingerprint": "6067a14cb2b56a5e7420f077d251f708",
+    "timestamp": 1781615808.382321,
+    "date": "2026-06-16T13:16:48.382321"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package": {
+    "title": "TSMC says panel packaging won't replace CoWoS anytime soon for the largest future AI processors wafer-level tech can scale to 58 massive dies in one package",
+    "fingerprint": "e574abee43719b1c368a04c7326c4bb0",
+    "timestamp": 1781615808.382432,
+    "date": "2026-06-16T13:16:48.382433"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e": {
+    "title": "Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU surfaces in new engineering sample Company's cancelled AI processor features 32GB of HBM2E",
+    "fingerprint": "258b9059298effafccf361670e459a29",
+    "timestamp": 1781615808.382539,
+    "date": "2026-06-16T13:16:48.382540"
+  },
+  "https://www.tomshardware.com/pc-components/amazon-uk-has-slashed-43-percent-off-this-excellent-4k-32-inch-oled-gaming-monitor-lowest-ever-price-on-this-asus-rog-strix-oled-now-just-gbp599": {
+    "title": "Amazon UK has slashed 43% off this excellent 4K 32-inch OLED gaming monitor lowest-ever price on this ASUS ROG Strix OLED now just 599",
+    "fingerprint": "5d1d229f5499dbeef8f803952caa19d9",
+    "timestamp": 1781615808.38263,
+    "date": "2026-06-16T13:16:48.382630"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/project-jupiter-ai-data-center-build-raises-concerns-about-water-usage-in-rural-new-mexico-desert-oracle-calls-water-usage-negligible-for-11-million-gallon-one-time-fill": {
+    "title": "Project Jupiter AI data center build raises concerns about water usage in rural New Mexico desert Oracle calls water usage 'negligible' for 11 million gallon one-time fill",
+    "fingerprint": "970659b4311ef6e9557e565315d9efba",
+    "timestamp": 1781615808.382734,
+    "date": "2026-06-16T13:16:48.382734"
+  },
+  "https://www.tomshardware.com/software/operating-systems/reddit-user-gets-valves-amd-first-gaming-os-running-on-intel-hardware-steamos-boots-on-intel-arc-b580-desktop-gpu-but-it-takes-a-radeon-card-installer-workaround-and-resizable-bar-fix": {
+    "title": "Enthusiast hacks Valve s AMD-first gaming OS to run on Intel hardware SteamOS boots on Intel Arc B580 desktop GPU, but it takes a Radeon card, installer workaround, and Resizable BAR fix",
+    "fingerprint": "d4bfa078eb6e974a818eb3b745f5dfa8",
+    "timestamp": 1781615808.382841,
+    "date": "2026-06-16T13:16:48.382842"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/amd-takes-over-mext-to-address-growing-memory-constraints-in-the-data-center-memory-tiering-technology-enables-flash-to-appear-as-dram-to-applications": {
+    "title": "AMD takes over MEXT for memory tiering tech that enables flash to appear as DRAM to applications tech to 'address growing memory constraints' in the data center",
+    "fingerprint": "ca33a9ad6d5a24bc09fed595831a48af",
+    "timestamp": 1781615808.382942,
+    "date": "2026-06-16T13:16:48.382943"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/multiple-small-tennessee-counties-pass-temporary-data-center-bans-nashville-also-passed-near-unanimous-moratorium-on-first-reading": {
+    "title": "Multiple small Tennessee counties pass temporary data center bans Nashville also passed near-unanimous moratorium on first reading",
+    "fingerprint": "6301d1535a549b3a1de54897b1d6105f",
+    "timestamp": 1781615808.383069,
+    "date": "2026-06-16T13:16:48.383070"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/marvell-details-vision-of-optically-interconnected-data-centers-spanning-across-thousands-of-kilometers-new-interconnects-sampling-later-this-year-would-allow-csps-to-pool-resources-based-on-workload": {
+    "title": "Marvell details vision of optically-interconnected data centers spanning across thousands of kilometers new interconnects sampling later this year would allow CSPs to pool resources based on workload",
+    "fingerprint": "82fefbc2d7adefc68be3b418824f1f19",
+    "timestamp": 1781615808.383182,
+    "date": "2026-06-16T13:16:48.383182"
+  },
+  "https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/": {
+    "title": "$4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor",
+    "fingerprint": "b7d72d2be95d595480eea25b39ec59c4",
+    "timestamp": 1781615808.38366,
+    "date": "2026-06-16T13:16:48.383660"
+  },
+  "https://www.cnx-software.com/2026/06/16/adlink-com-hpc-mptl-com-hpc-mini-computer-on-module-features-up-to-180-tops-intel-core-ultra-series-3-cpu/": {
+    "title": "ADLINK COM-HPC-mPTL COM-HPC Mini computer-on-module features up to 180 TOPS Intel Core Ultra Series 3 CPU",
+    "fingerprint": "ac8fc774c782793cfcd67d541fe9d872",
+    "timestamp": 1781615808.383825,
+    "date": "2026-06-16T13:16:48.383826"
+  },
+  "https://www.cnx-software.com/2026/06/16/onethingcloud-decentralized-bandwidth-sharing-distributed-cdn-solution-pays-you-for-your-spare-bandwidth/": {
+    "title": "OneThingCloud decentralized bandwidth sharing/distributed CDN solution pays you for your spare bandwidth",
+    "fingerprint": "d6deda99ae4d24173f9a62ff461478cd",
+    "timestamp": 1781615808.38399,
+    "date": "2026-06-16T13:16:48.383991"
+  },
+  "https://www.fiercesensors.com/ai/best-sensors-siargo-wins-its-mems-mass-flow-sensor": {
+    "title": "Best of Sensors: Siargo wins with MEMS Mass Flow Sensor",
+    "fingerprint": "89b19cc6d4844773f2fc0bf86908f032",
+    "timestamp": 1781615808.384907,
+    "date": "2026-06-16T13:16:48.384909"
+  },
+  "https://www.fiercesensors.com/sensors/sensors-converge-panel-sees-more-credible-edge-ai-apps-emerging": {
+    "title": "Sensors Converge panel sees more credible Edge AI apps emerging",
+    "fingerprint": "c0148cfa73e6533d2728fcaafab6db71",
+    "timestamp": 1781615808.385163,
+    "date": "2026-06-16T13:16:48.385163"
+  },
+  "https://www.techspot.com/news/112779-ea-launches-new-platform-put-even-more-ads.html": {
+    "title": "EA launches new platform to put even more ads inside games",
+    "fingerprint": "43b0c5b869be28b7cb37f4348e381229",
+    "timestamp": 1781615808.385298,
+    "date": "2026-06-16T13:16:48.385298"
+  },
+  "https://www.techspot.com/news/112776-rise-dopamine-sites-fake-food-delivery-shopping-apps.html": {
+    "title": "The rise of \"dopamine sites\": fake food delivery and shopping apps that satisfy cravings without spending a cent",
+    "fingerprint": "d3f62f29d7ce1e41c0d99822efdb41ae",
+    "timestamp": 1781615808.385404,
+    "date": "2026-06-16T13:16:48.385404"
+  },
+  "https://www.techspot.com/news/112778-xbox-closing-ninja-theory-double-fine-compulsion-may.html": {
+    "title": "Xbox is closing Ninja Theory, and Double Fine and Compulsion may not be far behind",
+    "fingerprint": "5de18627b697f27ba68a58ff31bced4e",
+    "timestamp": 1781615808.3855,
+    "date": "2026-06-16T13:16:48.385501"
+  },
+  "https://www.techspot.com/bestof/phones-26/": {
+    "title": "The Best Phones for Every Budget - 2026 Update",
+    "fingerprint": "b161c87f017195ee57e82ce2d572b9aa",
+    "timestamp": 1781615808.385591,
+    "date": "2026-06-16T13:16:48.385591"
+  },
+  "https://www.techspot.com/news/112771-intel-cpus-nvidia-rtx-integrated-graphics-targeting-early.html": {
+    "title": "Intel CPUs with Nvidia RTX integrated graphics are targeting an early 2028 release",
+    "fingerprint": "faf6151d86dd4f9c3a0edd7962dbcd00",
+    "timestamp": 1781615808.385706,
+    "date": "2026-06-16T13:16:48.385707"
+  },
+  "https://www.techspot.com/news/112764-fbi-built-fake-town-alabama-study-simulate-real.html": {
+    "title": "The FBI built a fake town in Alabama to study and simulate real-world cyberattacks",
+    "fingerprint": "a23d29a764f2c3143da3947c6c128c21",
+    "timestamp": 1781615808.385821,
+    "date": "2026-06-16T13:16:48.385822"
+  },
+  "https://www.techspot.com/news/112763-nothing-ceo-warns-memory-costs-now-exceed-50.html": {
+    "title": "Nothing CEO warns memory costs now exceed 50% of smartphone's hardware bill",
+    "fingerprint": "e1042ea1e392aa0d9dca75b9845afdb1",
+    "timestamp": 1781615808.385931,
+    "date": "2026-06-16T13:16:48.385932"
+  },
+  "https://www.techspot.com/downloads/1018-google-earth.html": {
+    "title": "Google Earth just turned your browser into a flight simulator",
+    "fingerprint": "e565748bb8ca9a79e23c7c28522593c0",
+    "timestamp": 1781615808.386082,
+    "date": "2026-06-16T13:16:48.386083"
+  },
+  "https://www.techspot.com/news/112766-pcb-prices-up-40-month-because-material-most.html": {
+    "title": "PCB prices are up 40% in a month because of a material most people have never heard of",
+    "fingerprint": "e8858c28b33f377c09693b6f4ccfe1d2",
+    "timestamp": 1781615808.386197,
+    "date": "2026-06-16T13:16:48.386198"
+  },
+  "https://www.techspot.com/news/112769-fox-acquire-roku-22-billion-deal-largest-ever.html": {
+    "title": "Fox to acquire Roku in $22 billion deal, its largest ever",
+    "fingerprint": "ffad5172e5deed91e09351caed39caab",
+    "timestamp": 1781615808.386304,
+    "date": "2026-06-16T13:16:48.386305"
+  },
+  "https://www.techspot.com/downloads/7448-files.html": {
+    "title": "Files app brings smarter folder size scanning to its already capable Windows file manager",
+    "fingerprint": "7e5229967ef282c07f06cbc275f82e5a",
+    "timestamp": 1781615808.386418,
+    "date": "2026-06-16T13:16:48.386419"
+  },
+  "https://www.techspot.com/news/112768-onimusha-way-sword-releases-september-25-surprisingly-modest.html": {
+    "title": "Onimusha: Way of the Sword releases September 25 with surprisingly modest system requirements",
+    "fingerprint": "c20ee92cbd058f0143df16927f4b4ce6",
+    "timestamp": 1781615808.386528,
+    "date": "2026-06-16T13:16:48.386529"
   }
 }

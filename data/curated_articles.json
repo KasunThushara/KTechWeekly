@@ -1,348 +1,376 @@
 [
   {
-    "title": "China's supreme court bans Infineon from selling GaN power chips in China market-leader Innoscience secures major victory in multi-region patent war",
-    "summary": "China's Supreme People's Court on Friday upheld an injunction prohibiting Infineon from selling disputed GaN products in mainland China.",
-    "link": "https://www.tomshardware.com/tech-industry/chinas-top-court-bars-infineon-from-selling-gan-power-chips-in-china",
+    "title": "Microsoft debuts Surface Pro and Surface Laptop with new jade green color and Qualcomm Snapdragon X2 chips refreshed devices start at $1,499 with 16GB of RAM",
+    "summary": "Microsoft is updating the Surface Pro and Surface Laptop using the latest Qualcomm Snapdragon X2 chips, along with haptic feedback on the Laptop's touchpad and a new jade color.",
+    "link": "https://www.tomshardware.com/laptops/microsoft-debuts-surface-pro-and-surface-laptop-with-new-jade-green-color-and-qualcomm-snapdragon-x2-chips-refreshed-devices-start-at-usd1-499-with-16gb-of-ram",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.381249"
+  },
+  {
+    "title": "MSI MPG Coreliquid P22 360 Review: Low noise, strong performance, budget price",
+    "summary": "The MSI MPG Coreliquid P22 360 is a new AIO with a low price tag, strong thermal performance, and a 2.1-inch IPS display. We ve tested this liquid cooler paired with AMD s Ryzen 9 9950X3D CPU to benchmark thermal efficiency.",
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/msi-mpg-coreliquid-p22-360-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-06-16T13:16:48.381370"
+  },
+  {
+    "title": "AGI AI858 2TB SSD Review High-end PCIe 5 speeds on a budget",
+    "summary": "The AGI AI858 is a wallet-friendly entry into the high-end PCIe 5.0 SSD playground with good random read latency, a bundled heatsink, and minimal trade-offs.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/agi-ai858-2tb-ssd-review",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-16T13:16:48.381488"
+  },
+  {
+    "title": "Intel's one-two punch plan in desktop CPUs is taking shape Z990 spotted, Nova Lake detailed, Raptor Lake Next teased",
+    "summary": "Intel s next-gen desktop plans are starting to take shape, and Computex entertained a lot of murmurs about what s coming from Team Blue over the next year at the event.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intels-one-two-punch-plan-in-desktop-cpus-is-taking-shape-z990-spotted-nova-lake-detailed-raptor-lake-next-teased",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.381595"
+  },
+  {
+    "title": "Commodore announces Linux-based flip phone with no social media, no browser the Callback 8020 will be available in five retro colorways starting at $499, runs 99% of Android apps",
+    "summary": "After some teasing and a couple of red herrings Commodore today unveiled a retro-styled flip phone dubbed the Callback 8020.",
+    "link": "https://www.tomshardware.com/phones/commodore-announces-linux-based-flip-phone-with-no-social-media-no-browser-the-callback-8020-will-be-available-in-five-retro-colorways-starting-at-usd499-runs-99-percent-of-android-apps",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-16T13:16:48.381704"
+  },
+  {
+    "title": "Save 40% on this ultra-fast Samsung microSD card with 256GB storage, now just $47.99 $32 saving on P9 Express model with read speeds of up to 800 MB/s, perfect for a gaming laptop or a Nintendo Switch 2",
+    "summary": "Save $32 on this Samsung P9 Express microSD card with read speeds up to 800MB/s.",
+    "link": "https://www.tomshardware.com/pc-components/microsd-cards/save-40-percent-on-this-ultra-fast-samsung-microsd-card-with-256gb-storage-now-just-usd47-99-usd32-saving-on-p9-express-model-with-read-speeds-of-up-to-800-mb-s-perfect-for-a-gaming-laptop-or-a-nintendo-switch-2",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.381811"
+  },
+  {
+    "title": "Get an RTX 5090 gaming laptop for less than $3,000 Acer's 16-inch Predator with 2TB of storage and 32GB of RAM is now $500 off",
+    "summary": "Save $500 on a super-powerful 16-inch gaming laptop with RTX 5090 graphics and a 240Hz OLED screen. Acer's Predator Helios AI falls to just $2,999.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/get-an-rtx-5090-gaming-laptop-for-less-than-usd3-000-acers-16-inch-predator-with-2tb-of-storage-and-32gb-of-ram-is-now-usd500-off",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.381931"
+  },
+  {
+    "title": "These are the four keyboards I'm still using after reviewing keyboards for years How a 500 Hz TKL and a Stream Deck layout dominated my desk",
+    "summary": "It's hard to find a keyboard that's satisfying for both writing and gaming and I'm not sure the perfect board even exists. But while I wait to find it, these are the keyboards I keep coming back to, for one reason or another.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/these-are-the-four-keyboards-im-still-using-after-reviewing-keyboards-for-years-how-a-500-hz-tkl-and-a-stream-deck-layout-dominated-my-desk",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-16T13:16:48.382086"
+  },
+  {
+    "title": "AMD s massive SP7 socket for EPYC Venice and Intel s gargantuan 9,324-pin socket for Diamond Rapids appear at Computex SP7 and LGA9324-1 sockets will power the next generation of AI servers",
+    "summary": "Next-generation data center processors from AMD and Intel with 16 DDR5 memory channels are even bigger than today s designs.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amds-massive-sp7-socket-for-epyc-venice-and-intels-gargantuan-9-324-pin-socket-for-diamond-rapids-appear-at-computex-sp7-and-lga9324-1-sockets-will-power-the-next-generation-of-ai-servers",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.382199"
+  },
+  {
+    "title": "Finland charges Russian captain and crew member of ship suspected of damaging undersea cables prosecutors claim ship had eight more targets before it was stopped by coast guard",
+    "summary": "Finnish prosecutors charged two crew members of a cargo ship suspected of deliberately damaging two undersea cables at the turn of the year, with two more remaining detained in Finland. This is the second investigation to result in charges, although the first case failed to secure a conviction, with the case still on appeal.",
+    "link": "https://www.tomshardware.com/networking/finland-charges-russian-captain-and-crew-member-of-ship-suspected-of-damaging-undersea-cables-prosecutors-claim-ship-had-eight-more-targets-before-it-was-stopped-by-coast-guard",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.382323"
+  },
+  {
+    "title": "TSMC says panel packaging won't replace CoWoS anytime soon for the largest future AI processors wafer-level tech can scale to 58 massive dies in one package",
+    "summary": "TSMC is exploring panel-level packaging and is working on its CoPoS technology, but the company's Kevin Zhang says wafer-level packaging technologies is considerably more advanced than panel-level packaging.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.273264"
+    "processed_date": "2026-06-16T13:16:48.382434"
   },
   {
-    "title": "Cancelled Xbox 360 version of GoldenEye 007 gets recompiled for PC No emulator, the game runs as a real native executable, insists dev",
-    "summary": "GoldenEye Recomp v1.0 has been released, providing 'a native PC port of GoldenEye 007 built by statically recompiling the original game into C++' with no emulation involved.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/cancelled-xbox-360-version-of-goldeneye-007-gets-recompiled-for-pc-no-emulator-the-game-runs-as-a-real-native-executable-insists-dev",
+    "title": "Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU surfaces in new engineering sample Company's cancelled AI processor features 32GB of HBM2E",
+    "summary": "Intel's cancelled \"Arctic Sound\" AI GPU based on the original Xe-HP architecture has been pictured sporting two tiles and 32GB of HBM2E.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e",
     "categories": [
-      "Hardware",
-      "Tech News"
+      "AI & ML",
+      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-15T14:47:34.273395"
+    "processed_date": "2026-06-16T13:16:48.382541"
   },
   {
-    "title": "Cooler Master MasterHUB review: A modular stream deck with potential",
-    "summary": "Cooler Master's MasterHUB is a modular customizable macropad that's perhaps a little too ambitious. Its modularity is nicely implemented, but it's limited by its software and lack of plugins.",
-    "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/cooler-master-masterhub-review",
+    "title": "Amazon UK has slashed 43% off this excellent 4K 32-inch OLED gaming monitor lowest-ever price on this ASUS ROG Strix OLED now just 599",
+    "summary": "Get 43% off this excellent Asus ROG Strix OLED monitor.",
+    "link": "https://www.tomshardware.com/pc-components/amazon-uk-has-slashed-43-percent-off-this-excellent-4k-32-inch-oled-gaming-monitor-lowest-ever-price-on-this-asus-rog-strix-oled-now-just-gbp599",
     "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-15T14:47:34.273539"
-  },
-  {
-    "title": "Score 32GB of DDR5 RAM from only $240 in these Newegg hardware bundles for Intel and AMD gaming PC builds huge savings on premium Gigabyte motherboards coupled with popular Corsair Vengeance memory",
-    "summary": "These Newegg bundles for Intel and AMD gaming PC builds feature 32GB of Corsair Vengeance DDR5 RAM from only $240, featuring Gigabyte motherboards.",
-    "link": "https://www.tomshardware.com/pc-components/score-32gb-of-ddr5-ram-from-only-usd240-in-these-newegg-hardware-bundles-for-intel-and-amd-gaming-pc-builds-huge-savings-on-premium-gigabyte-motherboards-coupled-with-popular-corsair-vengeance-memory",
-    "categories": [
-      "Hardware",
       "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.273658"
-  },
-  {
-    "title": "Asus ProArt PA27USD 27-inch OLED review: Precision color with high-speed gaming prowess",
-    "summary": "Asus combines professional and gaming cred in the ProArt PA27USD. It s a 27-inch QD-OLED with 4K resolution, professional image modes, auto-calibration, 240 Hz, Adaptive-Sync, HDR10, HLG, Dolby Vision and wide gamut color.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/asus-proart-pa27usd-27-inch-oled-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-15T14:47:34.273764"
-  },
-  {
-    "title": "Google Chromebook marks its 15th anniversary slow feature rollouts and a canceled Steam beta leave it largely stuck in classrooms",
-    "summary": "Today marks 15 years since the first Chromebooks hit the market.",
-    "link": "https://www.tomshardware.com/laptops/chromebooks/google-chromebook-marks-its-15th-anniversary-slow-feature-rollouts-and-a-canceled-steam-beta-leave-it-largely-stuck-in-classrooms",
-    "categories": [
-      "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-06-15T14:47:34.273858"
+    "processed_date": "2026-06-16T13:16:48.382632"
   },
   {
-    "title": "Samsung's 49-inch ultrawide Odyssey G9 gaming monitor dips to the lowest-ever price of $664 at Amazon get 240Hz refresh rate and dense 109 PPI for 34% off",
-    "summary": "Save 34% on Samsung's Odyssey G9 gaming monitor and pick up this massive 49-inch display for just $664.99. Its lowest-ever price.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/samsungs-49-inch-ultrawide-odyssey-g9-gaming-monitor-dips-to-the-lowest-ever-price-of-usd664-at-amazon-get-240hz-refresh-rate-and-dense-109-ppi-for-34-percent-off",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.273960"
-  },
-  {
-    "title": "FBI dismantles Chinese phishing service that coached buyers to generate scam sites using AI $88 cybercrime product linked to $1.9 billion in losses, 3.87 million stolen cards",
-    "summary": "The FBI, Google, and Lumen Technologies say they ve dismantled a China-based phishing-as-a-service operation called Outsider Enterprise.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-and-google-dismantle-chinese-phishing-service-that-coached-buyers-to-generate-scam-sites-with-gemini",
+    "title": "Project Jupiter AI data center build raises concerns about water usage in rural New Mexico desert Oracle calls water usage 'negligible' for 11 million gallon one-time fill",
+    "summary": "Oracle's Project Jupiter is targeting a New Mexico desert already struggling with water consumption, but the company assures residents that the data center's water usage is \"negligible.\"",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/project-jupiter-ai-data-center-build-raises-concerns-about-water-usage-in-rural-new-mexico-desert-oracle-calls-water-usage-negligible-for-11-million-gallon-one-time-fill",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.274063"
+    "processed_date": "2026-06-16T13:16:48.382735"
   },
   {
-    "title": "42% slashed off Samsung's 990 Pro SSD, 2TB now $369 $270 savings brings one of the fastest PCIe 4.0 SSDs to its lowest price in months",
-    "summary": "Samsung's 990 Pro 2TB is one of the fastest PCIe 4.0 M.2 SSDs around, delivering excellent performance and efficiency and backed by a 5-year warranty - now priced at $369.99, it's not the cheapest around, but is a well-rounded storage upgrade for any build.",
-    "link": "https://www.tomshardware.com/pc-components/42-percent-slashed-of-samsungs-990-pro-ssd-2tb-now-usd369-usd270-savings-brings-one-of-the-fastest-pcie-4-0-ssds-to-its-lowest-price-in-months",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-15T14:47:34.274169"
-  },
-  {
-    "title": "2021 Honda Civic infotainment system can be jailbroken via USB flaw uses public Android test keys to install unauthorized apps, enables for 'EvilValet' attacks",
-    "summary": "A software architect determined that they could practically install anything they want on the infotainment system of their 2021 Honda Civic through the front USB port. While the head unit required a signed AOSP file to update itself, the AOSP test key is publicly known, meaning anyone with the knowledge could potentially build their own update file and load it with malware.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/2021-honda-civic-infotainment-system-can-be-jailbroken-via-usb-flaw-uses-public-android-test-keys-to-install-unauthorized-apps-enables-for-evilvalet-attacks",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.274288"
-  },
-  {
-    "title": "Intel's upcoming 'Raptor Lake Next' will reportedly top out at 20 cores and retain Core 200 branding Lineup may include a special 10-core SKU with 24MB of L3 cache",
-    "summary": "Intel's Raptor Lake family might be coming back for a third time and sit alongside Nova Lake on shelves as the budget-oriented offering from the company.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-raptor-lake-next-will-reportedly-top-out-at-20-cores-and-retain-core-200-branding-lineup-may-include-a-special-10-core-sku-with-24mb-of-l3-cache",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.274391"
-  },
-  {
-    "title": "Amazon says its data centers consume only 0.075% of the water Americans use for watering their lawns and gardens company also boasts of its improvements in water efficiency",
-    "summary": "Amazon says that it uses 2.5 billion gallons of water annually for data center cooling but compares it to the 3.3 trillion gallons of water used for watering lawns and gardens in the U.S. every year.",
-    "link": "https://www.tomshardware.com/desktops/servers/amazon-says-its-data-centers-consume-only-0-075-percent-of-the-water-americans-use-for-watering-their-lawns-and-gardens-company-also-boasts-of-its-improvements-in-water-efficiency",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.274515"
-  },
-  {
-    "title": "Computer History Museum recalls astonishing retro haul recovered from abandoned German warehouse over 2,000 artifacts spanning the 1930s to 1980s required seven tractor-trailers after a WWII bomb scare",
-    "summary": "The Computer History Museum recalls one of its biggest ever retro treasure troves. This astonishing haul was rescued from an abandoned warehouse in the town of Castrop-Rauxel, Germany.",
-    "link": "https://www.tomshardware.com/tech-industry/computer-history-museum-recalls-astonishing-retro-haul-recovered-from-abandoned-german-warehouse-over-2-000-artifacts-spanning-the-1930s-to-1980s-required-seven-tractor-trailers-after-a-wwii-bomb-scare",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.274629"
-  },
-  {
-    "title": "Apple made marketing gold from the export ban on Power Mac G4 'supercomputer' in 1999, 'for the first time in history a personal computer has been classified as a weapon' Pentagon banned sales of the 400 MHz G4 in 50 countries when it launched",
-    "summary": "In the context of the recent tech export bans, we look back at the Apple PowerMac G4 export ban from 1999 and Steve Jobs making marketing gold from the situation.",
-    "link": "https://www.tomshardware.com/tech-industry/apple-made-marketing-gold-from-the-power-mac-g4-supercomputer-export-ban-in-1999-pentagon-banned-sales-of-the-400-mhz-g4-in-50-countries-when-it-launched-and-became-the-first-pc-to-be-classed-as-a-weapon",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-15T14:47:34.274739"
-  },
-  {
-    "title": "Researchers recycle old phones and cluster them into computing platforms that operate as a low-cost data center says processors on modern smartphones deliver higher single-core performance than comparable multicore servers",
-    "summary": "A team of researchers from UC San Diego found that 'old' smartphones from 2023 could be combined to build a server capable of running apps locally, instead of relying on cloud servers located on a distant site.",
-    "link": "https://www.tomshardware.com/desktops/servers/researchers-recycle-old-phones-and-cluster-them-into-computing-platforms-says-processors-on-modern-smartphones-deliver-higher-single-core-performance-than-comparable-multicore-servers",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-15T14:47:34.274852"
-  },
-  {
-    "title": "Snapmaker launches $150,000 Innovation Fund for open source 3D printing cash rewards target developers backing the U1 toolchanger across Klipper, OrcaSlicer, and Moonraker ecosystems",
-    "summary": "Snapmaker celebrates 10 years in business by sponsoring open-source developers and you.",
-    "link": "https://www.tomshardware.com/3d-printing/snapmaker-launches-usd150-000-innovation-fund-for-open-source-3d-printing-cash-rewards-target-developers-backing-the-u1-toolchanger-across-klipper-orcaslicer-and-moonraker-ecosystems",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-15T14:47:34.274948"
-  },
-  {
-    "title": "New 3D printer tech uses elliptical laser beams to stir molten metal and create alloys-on-demand existing machinery can implement technique in software meaning for more convenient, stronger alloy printing",
-    "summary": "NIST has demonstrated a metal 3D printing method that stirs molten metal during the print by sending the laser along looping elliptical paths instead of straight lines.",
-    "link": "https://www.tomshardware.com/3d-printing/nist-gets-metal-3d-printers-to-mix-alloys-mid-print-by-rewriting-the-lasers-path",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.275066"
-  },
-  {
-    "title": "Microsoft is reportedly testing Copilot+ AI features with discrete GPUs instead of NPUs a feature available on Windows App SDK with a Windows Insider Experimental Channel build and Developer Mode turned on",
-    "summary": "Microsoft is experimenting with Windows AI features on non-Copilot devices, finally allowing AI features to run on discrete GPUs. This move expands its user base and gives more users access to Windows 11 local AI capabilities.",
-    "link": "https://www.tomshardware.com/software/windows/microsoft-is-reportedly-testing-copilot-ai-features-with-discrete-gpus-instead-of-npus-a-feature-available-on-windows-app-sdk-with-a-windows-insider-experimental-channel-build-and-developer-mode-turned-on",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.275181"
-  },
-  {
-    "title": "OpenAI hit with sweeping probe from massive coalition of 42 US state attorneys general just days after reported IPO filing subpoena targets ChatGPT maker s ads, data practices, handling of minors, model sycophancy, and safety policies",
-    "summary": "State attorneys general have opened a broad investigation into OpenAI, subpoenaing documents on ads, user retention, data handling, minors, health data, model behavior, and safety policies.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-hit-with-sweeping-probe-from-massive-coalition-of-42-us-state-attorneys-general-just-days-after-reported-ipo-filing-subpoena-targets-chatgpt-makers-ads-data-practices-handling-of-minors-model-sycophancy-and-safety-policies",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.275293"
-  },
-  {
-    "title": "US government warned Anthropic that Fable 5 had been jailbroken, but firm 'refused' to fix before US implemented export controls Anthropic defended its decision by saying the jailbreak 'isn t serious,' Chinese group had reportedly accessed model",
-    "summary": "David Sacks said the US government warned Anthropic that Claude Fable 5 had been jailbroken and that CEO Dario Amodei refused to fix the flaw.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-adviser-david-sacks-says-anthropic-refused-to-fix-fable-5-jailbreak-before-us-export-controls",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.275416"
-  },
-  {
-    "title": "AI cryptomining network's 320,000 RTX 3090-class GPUs allegedly burn 112 megawatts of power on zero useful AI computation GPU rental costs jump 38%, but Pearl s cards are doing random matrix math, study claims",
-    "summary": "A preprint claims Pearl s AI mining network consumes 320,000 GPU-equivalents and 112 MW while producing no verified useful AI computation.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cryptomining-networks-320-000-rtx-3090-class-gpus-allegedly-burn-112-megawatts-of-power-on-zero-useful-ai-computation-pearls-gpus-are-doing-random-matrix-math-study-claims",
+    "title": "Enthusiast hacks Valve s AMD-first gaming OS to run on Intel hardware SteamOS boots on Intel Arc B580 desktop GPU, but it takes a Radeon card, installer workaround, and Resizable BAR fix",
+    "summary": "A Reddit user has shown SteamOS running on an Intel Arc B580 desktop GPU, but the early proof of concept required a Radeon-assisted install workaround and Resizable BAR to recover performance.",
+    "link": "https://www.tomshardware.com/software/operating-systems/reddit-user-gets-valves-amd-first-gaming-os-running-on-intel-hardware-steamos-boots-on-intel-arc-b580-desktop-gpu-but-it-takes-a-radeon-card-installer-workaround-and-resizable-bar-fix",
     "categories": [
       "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-16T13:16:48.382843"
+  },
+  {
+    "title": "AMD takes over MEXT for memory tiering tech that enables flash to appear as DRAM to applications tech to 'address growing memory constraints' in the data center",
+    "summary": "AMD acquires MEXT to get Predictive Memory Engine that offloads infrequently accessed data from DRAM to NAND storage.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-takes-over-mext-to-address-growing-memory-constraints-in-the-data-center-memory-tiering-technology-enables-flash-to-appear-as-dram-to-applications",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.382944"
+  },
+  {
+    "title": "Multiple small Tennessee counties pass temporary data center bans Nashville also passed near-unanimous moratorium on first reading",
+    "summary": "Two jurisdictions in Tennessee just passed a data center moratorium as three more a set to vote on bills that delay these projects. These temporary bans have gained widespread support, especially in rural regions where developers are increasingly looking to for building their massive projects.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/multiple-small-tennessee-counties-pass-temporary-data-center-bans-nashville-also-passed-near-unanimous-moratorium-on-first-reading",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.275557"
+    "processed_date": "2026-06-16T13:16:48.383072"
   },
   {
-    "title": "Linux 7.1 Release Main changes, Arm, RISC-V, and MIPS architectures",
-    "summary": "Linus Torvalds has just released Linux 7.1 on LKML: So it s only Sunday morning back home, but it s Sunday afternoon where I am right now, so I m doing the 7.1 release at the regular time just not in the regular timezone. This obviously means that the merge window opens tomorrow, but I ll be in yet another timezone by then, so timing will all be a bit irregular. Normally I try to front-load the merge window and do as much as possible the first few days this time I m not sure that will work out with my laptop and a couple of long flights without internet, but I ve made sure that I have fetched the early pull requests (thank you you know who you are), so I will be able to do some of it off-line. Anyway, possible slight hiccups in the merge window aside, the news today [...] The post Linux 7.1 Release Main changes, Arm, RISC-V, and MIPS architectures appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/15/linux-7-1-release-main-changes-arm-risc-v-and-mips-architectures/",
+    "title": "Marvell details vision of optically-interconnected data centers spanning across thousands of kilometers new interconnects sampling later this year would allow CSPs to pool resources based on workload",
+    "summary": "Marvell shares its vision for optically connected data centers, connecting devices across hundreds of kilometers, and the company already has hardware to build them.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/marvell-details-vision-of-optically-interconnected-data-centers-spanning-across-thousands-of-kilometers-new-interconnects-sampling-later-this-year-would-allow-csps-to-pool-resources-based-on-workload",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.383184"
+  },
+  {
+    "title": "$4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor",
+    "summary": "Last month, AMD introduced the Ryzen AI Halo Developer Platform based on the Ryzen AI Max+ 395 processor, delivering up to 126 TOPS, and pre-orders are now available for $3,999.99 at MicroCenter (US only, in-store pickup). The computer ships with 128GB LPDDR5x memory and a 2TB NVMe SSD. It offers 10GbE and WiFi 7 networking, HDMI 2.1 and USB-C DisplayPort video output, and a few extra USB-C ports Ryzen AI Halo developer kit specifications: SoC AMD Ryzen AI Max+ 395 CPU 16 cores, 32 threads, Zen 5 Architecture clocked up to 5.1 GHz GPU AMD Radeon 8060S Integrated Graphics with 40 CUs, RDNA 3.5 architecture NPU AMD XDNA 2 NPU TDP 120W Process TSMC 4nm FinFET Memory 128GB LPDDR5x up to 8,000 MT/s speed, 256GB/s bandwidth Storage 2TB M.2 SSD Video Output HDMI 2.1b DisplayPort via USB-C port Networking 10GbE RJ45 port [...] The post $4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/",
     "categories": [
       "Hardware",
-      "AI & ML"
+      "GPUs"
     ],
     "quality_score": 15,
-    "processed_date": "2026-06-15T14:47:34.275960"
+    "processed_date": "2026-06-16T13:16:48.383662"
   },
   {
-    "title": "Gateworks Catalina GW9200 NXP i.MX 95 SBC features Flexible Socket Adapter sockets for M.2 or mPCIe modules",
-    "summary": "Last March, Gateworks introduced the Catalina SBC family, starting with the GW9200 board, based on NXP i.MX 95 SoC for industrial Edge AI applications, and featuring Flexible Socket Adapter (FSA) sockets to accommodate either mini PCIe or M.2 module adapters, depending on requirements. We missed the original announcement, but the new SBC family was brought to our attention when Ezurio announced the acquisition of Gateworks last week. The GW9200 board comprises a system-on-module with the NXP i.MX 95 chip, 4GB LPDDR5 and 8GB eMMC flash by default, as well as a carrier board with 10GbE and GbE RJ45 ports, a MIPI DSI/CSI display/camera interface, two FSA sockets for M.2 or mini PCIe expansion, and a range of I/Os. Ezurio/Gateworks Catalina GW9200 specifications: SoC NXP i.MX 95 CPU Up to 6x Arm Cortex-A55 application cores clocked at 1.8 GHz with 32KB I-cache and D-cache, 64KB L2 cache, and 512KB L3 [...] The post Gateworks Catalina GW9200 NXP i.MX 95 SBC features Flexible Socket Adapter sockets for M.2 or mPCIe modules appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/15/gateworks-catalina-gw9200-nxp-i-mx-95-sbc-features-flexible-socket-adapter-sockets-for-m-2-or-mpcie-modules/",
+    "title": "ADLINK COM-HPC-mPTL COM-HPC Mini computer-on-module features up to 180 TOPS Intel Core Ultra Series 3 CPU",
+    "summary": "ADLINK COM-HPC-mPTL is a COM-HPC R1.3 Mini computer-on-module powered by the Intel Core Ultra Processor Series 3 Panther Lake family, up to the 180 TOPS 16-core Core Ultra X7 358H processor. The module supports up to 64GB LPDDR5x and optional NVMe SSD BGA storage, and features two 2.5GbE controllers, optional MIPI CSI camera connectors, and a 40-pin debug connector. All I/Os are exposed through a standard 400-pin high-density board-to-board connector, including four display interfaces (HDMI, DP, USB4, eDP), and up to 16x PCIe Gen4/Gen5 lanes. COM-HPC-mPTL specifications: SoC Intel Core Ultra Series 3 Panther Lake-H processors (one or the other) Intel Core Ultra 5 325 8-core (4P+0E+4LPE) processor up to 2.1 GHz / 4.5 GHz (Turbo) with 12MB cache, 4-core Xe3 graphics (40 TOPS), 47 TOPS NPU; PBP: 25W Intel Core Ultra 7 356H 16-core (4P+8E+4LPE) processor up to 1.9 GHz / 4.7 GHz (Turbo) with 18MB cache, 4-core [...] The post ADLINK COM-HPC-mPTL COM-HPC Mini computer-on-module features up to 180 TOPS Intel Core Ultra Series 3 CPU appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/16/adlink-com-hpc-mptl-com-hpc-mini-computer-on-module-features-up-to-180-tops-intel-core-ultra-series-3-cpu/",
     "categories": [
       "Hardware",
-      "Semiconductors"
+      "GPUs"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-06-15T14:47:34.276131"
+    "quality_score": 10,
+    "processed_date": "2026-06-16T13:16:48.383827"
   },
   {
-    "title": "Best of Sensors: MethaneTrack brings realtime gas leak detection",
-    "summary": "NevadaNano s MethaneTrack Automated Continuous Emissions Monitoring System recently won a Best of Sensors award.",
-    "link": "https://www.fiercesensors.com/sensors/award-winner-methanetrack-brings-real-time-gas-leak-detection",
+    "title": "OneThingCloud decentralized bandwidth sharing/distributed CDN solution pays you for your spare bandwidth",
+    "summary": "While writing about the recent Linux 7.1 release, I came across the OneThing Edge Cube (OEC) based on the Rockchip RK3566 SoC. I assume it may have been some type of NAS, but instead it s a box for the OpenThingCloud decentralized bandwidth sharing solution. People purchase the OEC or OEC-Turbo device and install it at home to be part of a distributed P2P CDN (Content Delivery Network), caching data for other nodes operating nearby. As I understand it, there s no user-facing functionality, and people install this type of hardware at home to get passive income. OneThing Edge Cube (OEC) / Cube Pro (OEC-Pro) specifications: SoC Rockchip RK3566 System Memory 2GB (OEC) or 4GB (OEC-turbo) LPDDR4X Storage 8GB eMMC flash SATA 3.0 connector Networking Gigabit Ethernet port 100+ Mbps upload bandwidth recommended USB USB 3.0 port, USB 2.0 Type-C 2.0 port Power Supply 12V DC Power supply [...] The post OneThingCloud decentralized bandwidth sharing/distributed CDN solution pays you for your spare bandwidth appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/16/onethingcloud-decentralized-bandwidth-sharing-distributed-cdn-solution-pays-you-for-your-spare-bandwidth/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-16T13:16:48.383992"
+  },
+  {
+    "title": "Best of Sensors: Siargo wins with MEMS Mass Flow Sensor",
+    "summary": "The Siargo MEMS mass flow sensor FS4000 captures dynamic thermal transfer data for heat distribution and time. It won Best Instrumentation and Test Solution at Best of Sensors 2026.",
+    "link": "https://www.fiercesensors.com/ai/best-sensors-siargo-wins-its-mems-mass-flow-sensor",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-06-15T14:47:34.277327"
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.384912"
   },
   {
-    "title": "Best of Sensors: InPlay's NanoBeacon targets temperature sensing",
-    "summary": "InPlay won a Best of Sensors 2026 award for an SoC that addresses temperature sensing challenges.",
-    "link": "https://www.fiercesensors.com/sensors/best-sensors-inplays-nanobeacon-targets-temperature-sensing",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-15T14:47:34.277504"
-  },
-  {
-    "title": "Bitcoin is down nearly 50% and the debate over its value is heating up again",
-    "summary": "It's another reminder that volatility is inherent to this asset. Some investors are taking profits after bitcoin's recent run-up. Others are concerned that interest rates may remain high, which tends to weigh on speculative investments. At the same time, capital is flowing into other high-growth themes, with artificial intelligence emerging... Read Entire Article",
-    "link": "https://www.techspot.com/news/112767-bitcoin-down-nearly-50-debate-over-value-heating.html",
+    "title": "Sensors Converge panel sees more credible Edge AI apps emerging",
+    "summary": "Smart glasses with a neural network inside detect early onset of epileptic seizures cited at Sensors Converge as example of Edge AI growth.",
+    "link": "https://www.fiercesensors.com/sensors/sensors-converge-panel-sees-more-credible-edge-ai-apps-emerging",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.277725"
+    "processed_date": "2026-06-16T13:16:48.385165"
   },
   {
-    "title": "Researchers are turning old Pixel phones into a data center and they outperform some server hardware",
-    "summary": "Google Research frames the project around \"embodied carbon,\" the emissions tied to manufacturing devices in the first place. Smartphones, which most people replace every few years, account for a growing share of global e-waste. Extending their useful life, even in a different role, directly reduces that footprint. Read Entire Article",
-    "link": "https://www.techspot.com/news/112762-researchers-turning-old-pixel-phones-data-center-they.html",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-15T14:47:34.277902"
-  },
-  {
-    "title": "How often do the sensors inside the 2026 FIFA World Cup ball record data?",
-    "summary": "The 2026 World Cup ball is basically a flying motion tracker Read Entire Article",
-    "link": "https://www.techspot.com/trivia/176-how-often-do-sensors-inside-2026-fifa-world/",
+    "title": "EA launches new platform to put even more ads inside games",
+    "summary": "Electronic Arts writes that EA Advertising is a new platform transforming how brands connect with audiences through digital and real-world experiences across its global portfolio of games. Read Entire Article",
+    "link": "https://www.techspot.com/news/112779-ea-launches-new-platform-put-even-more-ads.html",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-06-15T14:47:34.278059"
-  },
-  {
-    "title": "SK Hynix moves 375-layer NAND into mass production, replacing tungsten with molybdenum",
-    "summary": "According to sources interviewed by The Elec, mass production will take place in existing fabs, which currently produce 321-layer V9 NAND. Inside the company, the 375-layer design has been referred to as a \"400-layer\" product. Read Entire Article",
-    "link": "https://www.techspot.com/news/112760-sk-hynix-moves-375-layer-nand-mass-production.html",
-    "categories": [
-      "Semiconductors"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.278219"
+    "processed_date": "2026-06-16T13:16:48.385300"
   },
   {
-    "title": "A $200 ChatGPT subscription could cost OpenAI $14,000 if you actually used it to its full potential",
-    "summary": "SemiAnalysis has calculated how big that gap really is. After testing subscription tiers from both OpenAI and Anthropic running long-horizon coding and agentic tasks until weekly limits were exhausted the firm found that the cost of theoretical maximum usage of these plans if priced at standard API rates... Read Entire Article",
-    "link": "https://www.techspot.com/news/112759-openai-anthropic-cant-afford-have-everyone-use-ai.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-15T14:47:34.278395"
-  },
-  {
-    "title": "Netgear countersuit says TP-Link's American company rebrand is false advertising",
-    "summary": "Netgear has filed counterclaims against TP-Link in the US District Court for the District of Delaware, escalating a legal fight that TP-Link started last November. Read Entire Article",
-    "link": "https://www.techspot.com/news/112761-netgear-countersuit-tp-link-american-company-rebrand-false.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.278583"
-  },
-  {
-    "title": "Intel could launch 'Raptor Lake Next' in 2027 as DDR4 makes a comeback",
-    "summary": "That sequencing would put an older architecture alongside a newer one in the market at the same time, a decision that seems driven as much by platform and component realities as by standard product cycles. Read Entire Article",
-    "link": "https://www.techspot.com/news/112757-intel-could-launch-raptor-lake-next-cpus-2027.html",
+    "title": "The rise of \"dopamine sites\": fake food delivery and shopping apps that satisfy cravings without spending a cent",
+    "summary": "Young people, particularly in South Korea, have begun visiting so-called \"dopamine sites\" for the same reason people doomscroll on phones. The trend might be the latest expression of an online culture increasingly centered around instant gratification. Read Entire Article",
+    "link": "https://www.techspot.com/news/112776-rise-dopamine-sites-fake-food-delivery-shopping-apps.html",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-15T14:47:34.278738"
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.385406"
   },
   {
-    "title": "AMD mocks MacBook Neo's PC gaming support, says it runs only 5 of the top 20 titles natively",
-    "summary": "Like other companies, AMD likely feels a little threatened by the success of a budget MacBook, so it's gone after its weakest area: PC gaming. Read Entire Article",
-    "link": "https://www.techspot.com/news/112758-amd-mocks-macbook-neo-pc-gaming-support-runs.html",
+    "title": "Xbox is closing Ninja Theory, and Double Fine and Compulsion may not be far behind",
+    "summary": "Sources have told The Verge that Ninja Theory staffers were told on a call on Monday about the closure, leaving the team looking for a buyer so operations can continue. Read Entire Article",
+    "link": "https://www.techspot.com/news/112778-xbox-closing-ninja-theory-double-fine-compulsion-may.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.385502"
+  },
+  {
+    "title": "The Best Phones for Every Budget - 2026 Update",
+    "summary": "The best phone for you in 2026 isn't necessarily the most expensive one. Whether you're spending $199 or $1,199, there's a strong case to be made across every budget. Read Entire Article",
+    "link": "https://www.techspot.com/bestof/phones-26/",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.385593"
+  },
+  {
+    "title": "Intel CPUs with Nvidia RTX integrated graphics are targeting an early 2028 release",
+    "summary": "Tech journalist Erdi z a reports that Intel's current roadmap targets the first quarter of 2028 for its initial x86 processors with Nvidia RTX graphics, with a possible reveal at CES. The long-anticipated chips are expected to challenge AMD's high-end mobile APUs and bolster both companies' broader platform ambitions. Read Entire Article",
+    "link": "https://www.techspot.com/news/112771-intel-cpus-nvidia-rtx-integrated-graphics-targeting-early.html",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-15T14:47:34.278893"
+    "processed_date": "2026-06-16T13:16:48.385708"
+  },
+  {
+    "title": "The FBI built a fake town in Alabama to study and simulate real-world cyberattacks",
+    "summary": "At first glance, the Cyber Range looks like a stage set for traditional, in-person training drills. In reality, nearly everything inside is wired so the systems behave like they would in an actual community network, which is the whole point of the build. Read Entire Article",
+    "link": "https://www.techspot.com/news/112764-fbi-built-fake-town-alabama-study-simulate-real.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.385823"
+  },
+  {
+    "title": "Nothing CEO warns memory costs now exceed 50% of smartphone's hardware bill",
+    "summary": "Nothing co-founder and CEO Carl Pei has said that AI is making components significantly more expensive, warning that a reckoning is coming for consumers buying new devices. In a recent post shared on his X account, Pei said memory chips now account for more than 50% of the total hardware... Read Entire Article",
+    "link": "https://www.techspot.com/news/112763-nothing-ceo-warns-memory-costs-now-exceed-50.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.385933"
+  },
+  {
+    "title": "Google Earth just turned your browser into a flight simulator",
+    "summary": "Google Earth has brought its flight simulator to the web , originally an Easter egg in the desktop app . No download required anymore: just open Google Earth, hit Explore Earth, then Tools > Flight Simulator. You get two aircraft: the F-16 for speed or the Cirrus SR22 for sightseeing. The experience works best at slower speeds, as the app needs time to stream terrain and satellite imagery in real time. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/1018-google-earth.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.386085"
+  },
+  {
+    "title": "PCB prices are up 40% in a month because of a material most people have never heard of",
+    "summary": "The disruption at Jubail did not begin with the missile strikes on April 6 and 7. Plants had already been shut down in late March as it became clear that moving cargo through the Strait of Hormuz was too risky amid the conflict. The attacks then added damage to a... Read Entire Article",
+    "link": "https://www.techspot.com/news/112766-pcb-prices-up-40-month-because-material-most.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.386199"
+  },
+  {
+    "title": "Fox to acquire Roku in $22 billion deal, its largest ever",
+    "summary": "Under the terms announced Monday morning, Fox Corporation will pay $160 per share, split as $96 in cash and the remainder in Fox Class A common stock. Upon closing, existing Fox shareholders would own roughly 73% of the combined company, with Roku shareholders holding about 27%. The deal is expected... Read Entire Article",
+    "link": "https://www.techspot.com/news/112769-fox-acquire-roku-22-billion-deal-largest-ever.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-16T13:16:48.386306"
+  },
+  {
+    "title": "Files app brings smarter folder size scanning to its already capable Windows file manager",
+    "summary": "Files is an open-source File Explorer replacement for Windows. It supports tabbed browsing, dual-pane layouts, file tagging and preview, cloud integration, and deep customization. The latest version adds on-demand folder size calculation to avoid unnecessary background scans, and preserves file selections when changing layouts. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7448-files.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-16T13:16:48.386420"
+  },
+  {
+    "title": "Onimusha: Way of the Sword releases September 25 with surprisingly modest system requirements",
+    "summary": "Way of the Sword is the first new mainline entry in the series since Onimusha: Dawn of Dreams in 2006 a gap of nearly two decades. That said, the series hasn't been entirely dormant: it produced several spin-offs and side projects, including remasters, the VR title Onimusha VR: Shadow... Read Entire Article",
+    "link": "https://www.techspot.com/news/112768-onimusha-way-sword-releases-september-25-surprisingly-modest.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-16T13:16:48.386530"
   }
 ]

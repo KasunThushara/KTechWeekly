@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 15, 2026**
+**Week of June 16, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Gateworks Catalina GW9200 NXP i.MX 95 SBC features Flexible Socket Adapter sockets for M.2 or mPCIe modules ⭐
+### 1. MSI MPG Coreliquid P22 360 Review: Low noise, strong performance, budget price ⭐
+
+**💻 Hardware**
+
+The MSI MPG Coreliquid P22 360 is a budget-friendly AIO liquid cooler with strong thermal performance and a 2.1-inch IPS display. It's paired with AMD's Ryzen 9 9950X3D CPU to test its efficiency. This AIO offers a low noise level and impressive performance at an affordable price.
+
+💡 **Key Point:** Budget-friendly AIO liquid cooler with high thermal performance capabilities.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/liquid-cooling/msi-mpg-coreliquid-p22-360-review)
+
+---
+
+### 2. MSI MPG Coreliquid P22 360 Review: Low noise, strong performance, budget price ⭐
+
+**📰 Tech News**
+
+The MSI MPG Coreliquid P22 360 is a budget-friendly AIO liquid cooler with strong thermal performance and a 2.1-inch IPS display. It's paired with AMD's Ryzen 9 9950X3D CPU to test its efficiency. This AIO offers a low noise level and impressive performance at an affordable price.
+
+💡 **Key Point:** Budget-friendly AIO liquid cooler with high thermal performance capabilities.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/liquid-cooling/msi-mpg-coreliquid-p22-360-review)
+
+---
+
+### 3. $4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor ⭐
+
+**💻 Hardware**
+
+AMD's Ryzen AI Halo Developer Platform offers 126 TOPS performance and 16 cores for AI and other applications.
+
+💡 **Key Point:** Advances AI computing for developers with high-performance and power-efficient Ryzen processor.
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/)
+
+---
+
+### 4. $4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor ⭐
+
+**🎮 GPUs**
+
+AMD's Ryzen AI Halo Developer Platform offers 126 TOPS performance and 16 cores for AI and other applications.
+
+💡 **Key Point:** Advances AI computing for developers with high-performance and power-efficient Ryzen processor.
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/)
+
+---
+
+### 5. OneThingCloud decentralized bandwidth sharing/distributed CDN solution pays you for your spare bandwidth 
 
 **⚡ Semiconductors**
 
-Gateworks' Catalina GW9200 SBC features NXP i.MX 95 SoC with Flexible Socket Adapter (FSA) sockets for M.2 or mini PCIe expansion, supporting industrial Edge AI applications with 10GbE and GbE connectivity.
+OneThingCloud allows users to monetize their spare bandwidth by installing a small hardware device at home. The device, known as the OneThing Edge Cube, joins a decentralized network to cache and distribute content, earning users passive income. This solution is based on the Rockchip RK3566 SoC and has multiple variants with varying specifications.
 
-💡 **Key Point:** Supports Edge AI and industrial applications with flexible expansion options.
+💡 **Key Point:** Monetize spare bandwidth with a low-maintenance, decentralized hardware solution
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/15/gateworks-catalina-gw9200-nxp-i-mx-95-sbc-features-flexible-socket-adapter-sockets-for-m-2-or-mpcie-modules/)
-
----
-
-### 2. Linux 7.1 Release Main changes, Arm, RISC-V, and MIPS architectures ⭐
-
-**🤖 AI & ML**
-
-Linux 7.1 has been released, marking a new version of the popular operating system. The release includes various improvements and changes, particularly focusing on Arm, RISC-V, and MIPS architectures. This update is expected to bring enhanced performance and stability to users of these architectures.
-
-💡 **Key Point:** Enhanced performance and stability for Arm, RISC-V, and MIPS users
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/15/linux-7-1-release-main-changes-arm-risc-v-and-mips-architectures/)
-
----
-
-### 3. Researchers recycle old phones and cluster them into computing platforms that operate as a low-cost data center says processors on modern smartphones deliver higher single-core performance than comparable multicore servers ⭐
-
-**💻 Hardware**
-
-Researchers from UC San Diego repurposed old smartphones as a low-cost data center, leveraging their processing power to run apps locally.
-
-💡 **Key Point:** Old smartphones can deliver comparable performance to modern servers inexpensively.
-
-🔗 [Read More](https://www.tomshardware.com/desktops/servers/researchers-recycle-old-phones-and-cluster-them-into-computing-platforms-says-processors-on-modern-smartphones-deliver-higher-single-core-performance-than-comparable-multicore-servers)
-
----
-
-### 4. Linux 7.1 Release Main changes, Arm, RISC-V, and MIPS architectures ⭐
-
-**💻 Hardware**
-
-Linux 7.1 has been released, marking a new version of the popular operating system. The release includes various improvements and changes, particularly focusing on Arm, RISC-V, and MIPS architectures. This update is expected to bring enhanced performance and stability to users of these architectures.
-
-💡 **Key Point:** Enhanced performance and stability for Arm, RISC-V, and MIPS users
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/15/linux-7-1-release-main-changes-arm-risc-v-and-mips-architectures/)
-
----
-
-### 5. Gateworks Catalina GW9200 NXP i.MX 95 SBC features Flexible Socket Adapter sockets for M.2 or mPCIe modules ⭐
-
-**💻 Hardware**
-
-Gateworks' Catalina GW9200 SBC features NXP i.MX 95 SoC with Flexible Socket Adapter (FSA) sockets for M.2 or mini PCIe expansion, supporting industrial Edge AI applications with 10GbE and GbE connectivity.
-
-💡 **Key Point:** Supports Edge AI and industrial applications with flexible expansion options.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/15/gateworks-catalina-gw9200-nxp-i-mx-95-sbc-features-flexible-socket-adapter-sockets-for-m-2-or-mpcie-modules/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/16/onethingcloud-decentralized-bandwidth-sharing-distributed-cdn-solution-pays-you-for-your-spare-bandwidth/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **49 articles** across **5 focused categories**.
+We covered **59 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 14 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 19 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 19 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 11 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 14 articles
+*Artificial Intelligence and Machine Learning* — 19 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 6 articles
+*Graphics cards and compute accelerators* — 7 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 13 articles
+*Computing hardware and development boards* — 19 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 6 articles
+*Chip manufacturing and design* — 3 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 10 articles
+*Industry news and product launches* — 11 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-15 at 14:48 by an autonomous AI curation system.
+Generated 2026-06-16 at 13:18 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

@@ -1,115 +1,125 @@
 # 📰 Tech News
-**Week of June 15, 2026**
+**Week of June 16, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-06-15 14:48
+- **Articles this week:** 11
+- **Report generated:** 2026-06-16 13:18
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Cancelled Xbox 360 version of GoldenEye 007 gets recompiled for PC No emulator, the game runs as a real native executable, insists dev 
+### 1. MSI MPG Coreliquid P22 360 Review: Low noise, strong performance, budget price ⭐
 
-GoldenEye 007 has been recompiled into a native PC executable, providing a native port of the classic game without using emulation.
+The MSI MPG Coreliquid P22 360 is a budget-friendly AIO liquid cooler with strong thermal performance and a 2.1-inch IPS display. It's paired with AMD's Ryzen 9 9950X3D CPU to test its efficiency. This AIO offers a low noise level and impressive performance at an affordable price.
 
-💡 *Native PC port preserves original game performance and stability.*
+💡 *Budget-friendly AIO liquid cooler with high thermal performance capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/cancelled-xbox-360-version-of-goldeneye-007-gets-recompiled-for-pc-no-emulator-the-game-runs-as-a-real-native-executable-insists-dev)
-
----
-
-### 2. Cooler Master MasterHUB review: A modular stream deck with potential 
-
-The Cooler Master MasterHUB is a modular, customizable macropad with potential, but its software and plugin limitations hold it back. Its modularity is a highlight, but it falls short in terms of customization options. The MasterHUB could be a great tool for streamers and gamers, but it needs improvement.
-
-💡 *Modularity is only as good as the software that supports it.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/docking-stations-hubs/cooler-master-masterhub-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/msi-mpg-coreliquid-p22-360-review)
 
 ---
 
-### 3. Snapmaker launches $150,000 Innovation Fund for open source 3D printing cash rewards target developers backing the U1 toolchanger across Klipper, OrcaSlicer, and Moonraker ecosystems 
+### 2. Commodore announces Linux-based flip phone with no social media, no browser the Callback 8020 will be available in five retro colorways starting at $499, runs 99% of Android apps 
 
-Snapmaker launches a $150,000 Innovation Fund to support open-source 3D printing developers. The fund targets rewards for developers working on the U1 toolchanger in Klipper, OrcaSlicer, and Moonraker ecosystems. This initiative celebrates Snapmaker's 10th anniversary and fosters collaboration in the 3D printing community.
+Commodore unveiled a retro-styled flip phone, the Callback 8020, with Linux-based OS and Android app support, available in five retro colorways starting at $499. It features no social media and no browser, appealing to those seeking a minimalist mobile experience.
 
-💡 *Boosting open-source innovation with $150,000 cash rewards and ecosystem integration.*
+💡 *Nostalgic consumers seek low-tech, high-security flip phone with Android app support options.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/snapmaker-launches-usd150-000-innovation-fund-for-open-source-3d-printing-cash-rewards-target-developers-backing-the-u1-toolchanger-across-klipper-orcaslicer-and-moonraker-ecosystems)
-
----
-
-### 4. Intel could launch 'Raptor Lake Next' in 2027 as DDR4 makes a comeback 
-
-Intel may launch 'Raptor Lake Next' in 2027 alongside older DDR4 architecture.
-
-💡 *Intel is driven by platform realities over standard product cycles.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112757-intel-could-launch-raptor-lake-next-cpus-2027.html)
+🔗 [Read Full Article](https://www.tomshardware.com/phones/commodore-announces-linux-based-flip-phone-with-no-social-media-no-browser-the-callback-8020-will-be-available-in-five-retro-colorways-starting-at-usd499-runs-99-percent-of-android-apps)
 
 ---
 
-### 5. Amazon says its data centers consume only 0.075% of the water Americans use for watering their lawns and gardens company also boasts of its improvements in water efficiency 
+### 3. These are the four keyboards I'm still using after reviewing keyboards for years How a 500 Hz TKL and a Stream Deck layout dominated my desk 
 
-Amazon's data centers use 0.075% of U.S. water used for lawns and gardens annually. The company consumes 2.5 billion gallons of water yearly for data center cooling. This is a fraction of the 3.3 trillion gallons used for watering lawns and gardens.
+The author has found four keyboards that meet their needs for writing and gaming, despite the elusive perfect board. These keyboards offer a combination of features that make them stand out, including a 500 Hz TKL and Stream Deck layout. The author has been unable to find a better alternative.
 
-💡 *Water usage for data centers is a tiny fraction of lawn watering.*
+💡 *Finding the right keyboard can elevate user experience significantly*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/amazon-says-its-data-centers-consume-only-0-075-percent-of-the-water-americans-use-for-watering-their-lawns-and-gardens-company-also-boasts-of-its-improvements-in-water-efficiency)
-
----
-
-### 6. Google Chromebook marks its 15th anniversary slow feature rollouts and a canceled Steam beta leave it largely stuck in classrooms 
-
-Google Chromebook marks its 15th anniversary amidst slow feature rollouts and limited adoption outside classrooms. Despite its initial promise, Chromebooks have failed to gain significant traction in the consumer market. The platform's evolution has been hindered by slow feature updates and canceled projects, such as the Steam beta.
-
-💡 *Stagnant Chromebook development limits its appeal beyond education*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/chromebooks/google-chromebook-marks-its-15th-anniversary-slow-feature-rollouts-and-a-canceled-steam-beta-leave-it-largely-stuck-in-classrooms)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/these-are-the-four-keyboards-im-still-using-after-reviewing-keyboards-for-years-how-a-500-hz-tkl-and-a-stream-deck-layout-dominated-my-desk)
 
 ---
 
-### 7. Apple made marketing gold from the export ban on Power Mac G4 'supercomputer' in 1999, 'for the first time in history a personal computer has been classified as a weapon' Pentagon banned sales of the 400 MHz G4 in 50 countries when it launched 
+### 4. Files app brings smarter folder size scanning to its already capable Windows file manager 
 
-In 1999, Apple's PowerMac G4 was banned in 50 countries by the Pentagon, but Steve Jobs turned the situation into a marketing opportunity, showcasing the computer's capabilities and fueling its appeal. This event is often cited as an example of successful crisis management and innovative marketing.
+The Files app now features on-demand folder size calculation, improving performance and preserving file selections when switching layouts.
 
-💡 *Crisis can be opportunity for innovative marketing and branding.*
+💡 *Faster, more efficient Windows file management for improved productivity*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/apple-made-marketing-gold-from-the-power-mac-g4-supercomputer-export-ban-in-1999-pentagon-banned-sales-of-the-400-mhz-g4-in-50-countries-when-it-launched-and-became-the-first-pc-to-be-classed-as-a-weapon)
-
----
-
-### 8. Best of Sensors: MethaneTrack brings realtime gas leak detection 
-
-NevadaNano's MethaneTrack system won a Best of Sensors award for its real-time gas leak detection capabilities.
-
-💡 *Real-time gas leak detection saves lives and reduces environmental impact immediately.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/award-winner-methanetrack-brings-real-time-gas-leak-detection)
+🔗 [Read Full Article](https://www.techspot.com/downloads/7448-files.html)
 
 ---
 
-### 9. Best of Sensors: InPlay's NanoBeacon targets temperature sensing 
+### 5. Best of Sensors: Siargo wins with MEMS Mass Flow Sensor 
 
-InPlay received a Best of Sensors 2026 award for their SoC addressing temperature sensing challenges. Their NanoBeacon SoC offers innovative solutions for temperature measurement and monitoring. This technology improves accuracy and reliability in various applications.
+The Siargo MEMS mass flow sensor FS4000 won Best Instrumentation at Best of Sensors 2026 for its dynamic thermal transfer data capture capabilities. This sensor excels in heat distribution and time measurements. Its innovative technology has made it a standout in the industry.
 
-💡 *Precise temperature sensing enables better decision-making in critical systems.*
+💡 *Accurate thermal monitoring enables precise temperature control and efficiency*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/best-sensors-inplays-nanobeacon-targets-temperature-sensing)
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/best-sensors-siargo-wins-its-mems-mass-flow-sensor)
 
 ---
 
-### 10. How often do the sensors inside the 2026 FIFA World Cup ball record data? 
+### 6. EA launches new platform to put even more ads inside games 
 
-The 2026 FIFA World Cup ball features advanced sensors that track its movement in real-time, providing detailed data on speed, spin, and other parameters to enhance the fan experience and improve gameplay analysis.
+EA launches EA Advertising platform to integrate ads into games.
 
-💡 *Advanced sensors enhance gameplay analysis and fan experience precision.*
+💡 *Brands increase reach through immersive gaming experiences.*
 
-🔗 [Read Full Article](https://www.techspot.com/trivia/176-how-often-do-sensors-inside-2026-fifa-world/)
+🔗 [Read Full Article](https://www.techspot.com/news/112779-ea-launches-new-platform-put-even-more-ads.html)
+
+---
+
+### 7. The rise of "dopamine sites": fake food delivery and shopping apps that satisfy cravings without spending a cent 
+
+Young people in South Korea visit 'dopamine sites' for instant gratification, often browsing fake food delivery and shopping apps to satisfy cravings without spending money.
+
+💡 *Instant gratification fuels addictive online behaviors in South Korean youth.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112776-rise-dopamine-sites-fake-food-delivery-shopping-apps.html)
+
+---
+
+### 8. Xbox is closing Ninja Theory, and Double Fine and Compulsion may not be far behind 
+
+Xbox is reportedly closing Ninja Theory, leaving staff to find a buyer.
+
+💡 *Potential closure of key game development studios impacts industry stability.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112778-xbox-closing-ninja-theory-double-fine-compulsion-may.html)
+
+---
+
+### 9. The Best Phones for Every Budget - 2026 Update 
+
+The best phone for you in 2026 can be found across various budgets. From affordable options under $200 to flagship devices over $1,000, there's a strong case for every price point. Whether you prioritize budget-friendliness, performance, or features, 2026 has a phone for you.
+
+💡 *Every budget has a great phone to match your needs and preferences.*
+
+🔗 [Read Full Article](https://www.techspot.com/bestof/phones-26/)
+
+---
+
+### 10. Onimusha: Way of the Sword releases September 25 with surprisingly modest system requirements 
+
+Onimusha: Way of the Sword releases after nearly two decades of silence, reviving the mainline series. It's the first new mainline entry since Onimusha: Dawn of Dreams in 2006. The game's release comes with surprisingly modest system requirements.
+
+💡 *Revival of a nearly two-decade-old gaming franchise*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112768-onimusha-way-sword-releases-september-25-surprisingly-modest.html)
+
+---
+
+### 11. Fox to acquire Roku in $22 billion deal, its largest ever 
+
+Fox Corporation is acquiring Roku in a $22 billion deal, paying $160 per share. The deal will see existing Fox shareholders own 73% and Roku shareholders own 27% of the combined company. The transaction is expected to close soon.
+
+💡 *Significant consolidation in the streaming media and entertainment industry landscape*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112769-fox-acquire-roku-22-billion-deal-largest-ever.html)
 
 ---
 

@@ -1,75 +1,45 @@
 # ⚡ Semiconductors
-**Week of June 15, 2026**
+**Week of June 16, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-06-15 14:48
+- **Articles this week:** 3
+- **Report generated:** 2026-06-16 13:18
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Gateworks Catalina GW9200 NXP i.MX 95 SBC features Flexible Socket Adapter sockets for M.2 or mPCIe modules ⭐
+### 1. OneThingCloud decentralized bandwidth sharing/distributed CDN solution pays you for your spare bandwidth 
 
-Gateworks' Catalina GW9200 SBC features NXP i.MX 95 SoC with Flexible Socket Adapter (FSA) sockets for M.2 or mini PCIe expansion, supporting industrial Edge AI applications with 10GbE and GbE connectivity.
+OneThingCloud allows users to monetize their spare bandwidth by installing a small hardware device at home. The device, known as the OneThing Edge Cube, joins a decentralized network to cache and distribute content, earning users passive income. This solution is based on the Rockchip RK3566 SoC and has multiple variants with varying specifications.
 
-💡 *Supports Edge AI and industrial applications with flexible expansion options.*
+💡 *Monetize spare bandwidth with a low-maintenance, decentralized hardware solution*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/15/gateworks-catalina-gw9200-nxp-i-mx-95-sbc-features-flexible-socket-adapter-sockets-for-m-2-or-mpcie-modules/)
-
----
-
-### 2. Researchers are turning old Pixel phones into a data center and they outperform some server hardware 
-
-Researchers repurpose old Pixel phones into a data center, outperforming some server hardware. This reduces embodied carbon emissions and e-waste. The project extends the life of discarded devices.
-
-💡 *Reducing e-waste through creative repurposing reduces carbon emissions.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112762-researchers-turning-old-pixel-phones-data-center-they.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/16/onethingcloud-decentralized-bandwidth-sharing-distributed-cdn-solution-pays-you-for-your-spare-bandwidth/)
 
 ---
 
-### 3. China's supreme court bans Infineon from selling GaN power chips in China market-leader Innoscience secures major victory in multi-region patent war 
+### 2. Microsoft debuts Surface Pro and Surface Laptop with new jade green color and Qualcomm Snapdragon X2 chips refreshed devices start at $1,499 with 16GB of RAM 
 
-China's Supreme People's Court upheld an injunction against Infineon in China. This blocks Infineon from selling disputed GaN power chips in mainland China. Innoscience secures a major victory in a multi-region patent war.
+Microsoft updates Surface Pro and Surface Laptop with Snapdragon X2 chips, haptic feedback, and a new jade green color. The refreshed devices start at $1,499 with 16GB of RAM. This update aims to enhance user experience and performance.
 
-💡 *Patent disputes can drastically impact global semiconductor market share.*
+💡 *Microsoft refreshes Surface Pro and Laptop with modern, high-end features*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinas-top-court-bars-infineon-from-selling-gan-power-chips-in-china)
-
----
-
-### 4. 2021 Honda Civic infotainment system can be jailbroken via USB flaw uses public Android test keys to install unauthorized apps, enables for 'EvilValet' attacks 
-
-A security flaw in the 2021 Honda Civic infotainment system allows unauthorized app installation through a USB port, using publicly known Android test keys. This enables potential 'EvilValet' attacks, where malicious updates can be loaded with malware. The vulnerability is due to the system's reliance on a publicly known AOSP test key.
-
-💡 *Publicly known keys compromise Android-based infotainment system security*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/2021-honda-civic-infotainment-system-can-be-jailbroken-via-usb-flaw-uses-public-android-test-keys-to-install-unauthorized-apps-enables-for-evilvalet-attacks)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/microsoft-debuts-surface-pro-and-surface-laptop-with-new-jade-green-color-and-qualcomm-snapdragon-x2-chips-refreshed-devices-start-at-usd1-499-with-16gb-of-ram)
 
 ---
 
-### 5. US government warned Anthropic that Fable 5 had been jailbroken, but firm 'refused' to fix before US implemented export controls Anthropic defended its decision by saying the jailbreak 'isn t serious,' Chinese group had reportedly accessed model 
+### 3. TSMC says panel packaging won't replace CoWoS anytime soon for the largest future AI processors wafer-level tech can scale to 58 massive dies in one package 
 
-The US government warned Anthropic about a Fable 5 jailbreak, but the company refused to fix it before US export controls were implemented, reportedly downplaying the vulnerability's severity.
+TSMC's Kevin Zhang says wafer-level packaging is more advanced than panel-level packaging, with the ability to scale to 58 massive dies in one package, making it more suitable for large future AI processors.
 
-💡 *US export controls may prevent tech firms from mitigating security risks.*
+💡 *Wafer-level packaging outpaces panel-level for massive AI chip integration.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-adviser-david-sacks-says-anthropic-refused-to-fix-fable-5-jailbreak-before-us-export-controls)
-
----
-
-### 6. SK Hynix moves 375-layer NAND into mass production, replacing tungsten with molybdenum 
-
-SK Hynix has moved into mass production of 375-layer NAND flash memory, replacing tungsten with molybdenum. Production is taking place in existing fabs, previously used for 321-layer V9 NAND. The 375-layer design is internally referred to as a '400-layer' product.
-
-💡 *Breakthrough in NAND density boosts storage capacity and performance significantly.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112760-sk-hynix-moves-375-layer-nand-mass-production.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package)
 
 ---
 
