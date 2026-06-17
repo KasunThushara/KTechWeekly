@@ -1,205 +1,155 @@
 # 🤖 AI & ML
-**Week of June 16, 2026**
+**Week of June 17, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-06-16 13:18
+- **Articles this week:** 14
+- **Report generated:** 2026-06-17 12:41
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AGI AI858 2TB SSD Review High-end PCIe 5 speeds on a budget 
+### 1. Amlogic A311Y3 octa-core Edge AI SoC features Cortex-A78/A55 cores, 8 TOPS NPU, LPDDR5 support ⭐
 
-The AGI AI858 offers high-end PCIe 5.0 speeds at a budget-friendly price, featuring good random read latency and a bundled heatsink. This makes it a great entry point for users seeking high-performance storage without breaking the bank. The AGI AI858 is an attractive option for those who want to upgrade their storage without making significant trade-offs.
+Amlogic introduces the A311Y3 Edge AI SoC with 6nm Cortex-A78/A55 cores and 8 TOPS NPU.
 
-💡 *Affordable high-speed storage for gamers and content creators*
+💡 *Amlogic A311Y3 enhances edge AI capabilities with improved CPU and NPU performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/agi-ai858-2tb-ssd-review)
-
----
-
-### 2. Commodore announces Linux-based flip phone with no social media, no browser the Callback 8020 will be available in five retro colorways starting at $499, runs 99% of Android apps 
-
-Commodore unveiled a retro-styled flip phone, the Callback 8020, with Linux-based OS and Android app support, available in five retro colorways starting at $499. It features no social media and no browser, appealing to those seeking a minimalist mobile experience.
-
-💡 *Nostalgic consumers seek low-tech, high-security flip phone with Android app support options.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/phones/commodore-announces-linux-based-flip-phone-with-no-social-media-no-browser-the-callback-8020-will-be-available-in-five-retro-colorways-starting-at-usd499-runs-99-percent-of-android-apps)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/17/amlogic-a311y3-octa-core-edge-ai-soc-features-cortex-a78-a55-cores-8-tops-npu-lpddr5-support/)
 
 ---
 
-### 3. Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU surfaces in new engineering sample Company's cancelled AI processor features 32GB of HBM2E 
+### 2. Noctua launches its first AIO liquid CPU coolers with a range of radiator sizes 
 
-Intel's cancelled 'Arctic Sound' AI GPU prototype features 2 tiles and 32GB of HBM2E memory. It's based on the original Xe-HP architecture, showcasing the company's early AI processor developments. The engineering sample reveals a powerful GPU design.
+Noctua's new AIO liquid CPU coolers feature a three-layer acoustic soundproofing structure and a pump speed toggle for improved performance and quiet operation.
 
-💡 *Early glimpse into Intel's abandoned AI GPU design advancements.*
+💡 *Innovative soundproofing technology enhances cooling performance and reduces noise.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e)
-
----
-
-### 4. Intel's one-two punch plan in desktop CPUs is taking shape Z990 spotted, Nova Lake detailed, Raptor Lake Next teased 
-
-Intel's next-gen desktop CPU plans are taking shape with several new models. The Z990 and Nova Lake have been spotted, and Raptor Lake Next has been teased. These updates suggest a significant shift in Intel's desktop CPU strategy.
-
-💡 *Intel's evolving plans may shake up the desktop CPU market dynamics*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-one-two-punch-plan-in-desktop-cpus-is-taking-shape-z990-spotted-nova-lake-detailed-raptor-lake-next-teased)
+🔗 [Read Full Article](https://www.techspot.com/news/112786-noctua-launches-first-aio-liquid-cpu-coolers-range.html)
 
 ---
 
-### 5. Save 40% on this ultra-fast Samsung microSD card with 256GB storage, now just $47.99 $32 saving on P9 Express model with read speeds of up to 800 MB/s, perfect for a gaming laptop or a Nintendo Switch 2 
+### 3. U.S. gov't asks court to dismiss NAACP lawsuit against Elon Musk's xAI over use of unpermitted gas turbines DOJ says Grok model running at Colossus 2 supports mission-critical operations  
 
-Save $32 on a Samsung P9 Express microSD card with 256GB storage and read speeds up to 800MB/s, perfect for gaming laptops or the Nintendo Switch 2.
+The US government seeks dismissal of a NAACP lawsuit against xAI over Colossus 2 operations, citing national security concerns.
 
-💡 *Enhanced gaming performance with ultra-fast storage*
+💡 *National security interests take precedence over environmental and social concerns in this case.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/microsd-cards/save-40-percent-on-this-ultra-fast-samsung-microsd-card-with-256gb-storage-now-just-usd47-99-usd32-saving-on-p9-express-model-with-read-speeds-of-up-to-800-mb-s-perfect-for-a-gaming-laptop-or-a-nintendo-switch-2)
-
----
-
-### 6. AMD s massive SP7 socket for EPYC Venice and Intel s gargantuan 9,324-pin socket for Diamond Rapids appear at Computex SP7 and LGA9324-1 sockets will power the next generation of AI servers 
-
-AMD and Intel unveil massive new sockets for next-gen AI servers, supporting 16 DDR5 memory channels.
-
-💡 *Increased memory capacity drives AI server performance advancements.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-massive-sp7-socket-for-epyc-venice-and-intels-gargantuan-9-324-pin-socket-for-diamond-rapids-appear-at-computex-sp7-and-lga9324-1-sockets-will-power-the-next-generation-of-ai-servers)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/u-s-govt-asks-court-to-dismiss-naacp-lawsuit-against-elon-musks-xai-over-use-of-unpermitted-gas-turbines-doj-says-grok-model-running-at-colossus-2-supports-mission-critical-operations)
 
 ---
 
-### 7. Finland charges Russian captain and crew member of ship suspected of damaging undersea cables prosecutors claim ship had eight more targets before it was stopped by coast guard 
+### 4. SMI says Nvidia is driving its consumer PCIe 6.0 roadmap, not AMD and Intel RTX Spark agentic AI platform fuels a hunger for storage bandwidth 
 
-Finnish prosecutors charge two crew members for damaging undersea cables, with two more detained.
+Nvidia may lead in PCIe Gen6 client PC platforms, influencing suppliers like Silicon Motion.
 
-💡 *Damage to undersea cables poses significant risks to global internet connectivity.*
+💡 *Nvidia's AI ambitions drive its PCIe 6.0 roadmap ahead of competitors*
 
-🔗 [Read Full Article](https://www.tomshardware.com/networking/finland-charges-russian-captain-and-crew-member-of-ship-suspected-of-damaging-undersea-cables-prosecutors-claim-ship-had-eight-more-targets-before-it-was-stopped-by-coast-guard)
-
----
-
-### 8. TSMC says panel packaging won't replace CoWoS anytime soon for the largest future AI processors wafer-level tech can scale to 58 massive dies in one package 
-
-TSMC's Kevin Zhang says wafer-level packaging is more advanced than panel-level packaging, with the ability to scale to 58 massive dies in one package, making it more suitable for large future AI processors.
-
-💡 *Wafer-level packaging outpaces panel-level for massive AI chip integration.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/silicon-motions-client-pcie-6-x-roadmap-is-driven-by-nvidia-not-by-amd-and-intel-rtx-spark-agentic-ai-platform-could-fuel-a-hunger-for-storage-bandwidth)
 
 ---
 
-### 9. Project Jupiter AI data center build raises concerns about water usage in rural New Mexico desert Oracle calls water usage 'negligible' for 11 million gallon one-time fill 
+### 5. Chinese memory brands ditch Samsung and Micron for homegrown CXMT and YMTC silicon Corsair, HP, and Dell are already adopting the China-produced DDR5 chips 
 
-Oracle's Project Jupiter data center in New Mexico raises water usage concerns despite the company's assurance of 'negligible' impact. The facility, which will hold an 11 million-gallon one-time fill, is located in a rural desert area already struggling with water consumption. Residents are skeptical about the data center's water usage claims.
+Chinese memory brands Gloway and KingBank are adopting homegrown silicon from CXMT and YMTC to produce DDR5 memory kits, replacing foreign DRAM suppliers like Samsung, Micron, and SK hynix.
 
-💡 *Water scarcity in desert regions demands careful data center planning and management.*
+💡 *China's memory industry is rapidly reducing reliance on foreign suppliers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/project-jupiter-ai-data-center-build-raises-concerns-about-water-usage-in-rural-new-mexico-desert-oracle-calls-water-usage-negligible-for-11-million-gallon-one-time-fill)
-
----
-
-### 10. AMD takes over MEXT for memory tiering tech that enables flash to appear as DRAM to applications tech to 'address growing memory constraints' in the data center 
-
-AMD acquires MEXT to improve memory efficiency with Predictive Memory Engine. This technology offloads infrequently accessed data from DRAM to NAND storage. This addresses growing memory constraints in the data center.
-
-💡 *Offloading infrequent data from DRAM saves memory resources.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-takes-over-mext-to-address-growing-memory-constraints-in-the-data-center-memory-tiering-technology-enables-flash-to-appear-as-dram-to-applications)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/chinese-memory-vendors-snub-industry-giants-in-favor-of-homegrown-ram-chips-samsung-micron-and-sk-hynix-face-a-chinese-supply-chain-revolt)
 
 ---
 
-### 11. Multiple small Tennessee counties pass temporary data center bans Nashville also passed near-unanimous moratorium on first reading 
+### 6. Dell's $699 XPS 13 laptop is now available with the MacBook Neo in its sights entry-level XPS design comes with Wildcat Lake, 8GB of RAM, and a 512GB SSD 
 
-Tennessee towns are passing data center moratoriums to delay projects. The temporary bans have gained support in rural regions. Nashville also voted on a near-unanimous moratorium.
+Dell's $699 XPS 13 now available with Wildcat Lake CPU, 8GB RAM, and 512GB SSD.
 
-💡 *Rural communities push back against massive data center developments.*
+💡 *Dell's budget laptop challenges Apple's MacBook Neo market dominance*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/multiple-small-tennessee-counties-pass-temporary-data-center-bans-nashville-also-passed-near-unanimous-moratorium-on-first-reading)
-
----
-
-### 12. Marvell details vision of optically-interconnected data centers spanning across thousands of kilometers new interconnects sampling later this year would allow CSPs to pool resources based on workload 
-
-Marvell envisions optically interconnected data centers spanning thousands of kilometers, enabling CSPs to pool resources based on workload. The company already has the necessary hardware to build these interconnected data centers. This technology could revolutionize data center connectivity.
-
-💡 *Enhanced resource pooling and workload optimization for CSPs*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/marvell-details-vision-of-optically-interconnected-data-centers-spanning-across-thousands-of-kilometers-new-interconnects-sampling-later-this-year-would-allow-csps-to-pool-resources-based-on-workload)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/dells-usd699-xps-13-laptop-is-now-available-with-the-macbook-neo-in-its-sights-entry-level-xps-design-comes-with-wildcat-lake-8gb-of-ram-and-a-512gb-ssd)
 
 ---
 
-### 13. Sensors Converge panel sees more credible Edge AI apps emerging 
+### 7. 'The retail SSD market has almost disappeared,' says Silicon Motion exec PC OEMs are buying third-party drives as direct NAND supply dries up 
 
-Smart glasses with neural networks detect early onset of epileptic seizures, citing growth in Edge AI applications.
+The retail SSD market is dwindling as NAND suppliers focus on AI data centers. PC OEMs are now purchasing third-party SSDs due to the direct NAND supply shortage. This shift is impacting the availability of retail SSDs.
 
-💡 *Edge AI allows for real-time, on-device health monitoring and intervention.*
+💡 *NAND manufacturers prioritize AI data centers over retail SSD demand*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/sensors-converge-panel-sees-more-credible-edge-ai-apps-emerging)
-
----
-
-### 14. The FBI built a fake town in Alabama to study and simulate real-world cyberattacks 
-
-The FBI built a simulated town in Alabama to study real-world cyberattacks. The Cyber Range is a training facility with wired systems mimicking a community network. It's designed to prepare for and respond to cyber threats.
-
-💡 *Real-world cyberattack simulations help improve response and defense strategies.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112764-fbi-built-fake-town-alabama-study-simulate-real.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/the-retail-ssd-market-has-almost-disappeared-says-silicon-motion-exec-pc-oems-are-buying-third-party-drives-as-direct-nand-supply-dries-up)
 
 ---
 
-### 15. Nothing CEO warns memory costs now exceed 50% of smartphone's hardware bill 
+### 8. Noctua finally releases its first AIO coolers prices start at $220 for 240mm, features the company s legendary A-series fans 
 
-Nothing CEO Carl Pei warns that memory costs now exceed 50% of smartphone hardware bill due to rising AI component prices.
+Noctua releases its NL-LC1 AIO coolers with prices starting at $219.95. The 240mm option includes an optional 80mm auxiliary fan. This aims to enhance cooling performance in PCs.
 
-💡 *Soaring AI demands drive up memory costs, impacting consumer device affordability.*
+💡 *Noctua combines legendary fans with AIO coolers for optimal performance.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112763-nothing-ceo-warns-memory-costs-now-exceed-50.html)
-
----
-
-### 16. Google Earth just turned your browser into a flight simulator 
-
-Google Earth now features a flight simulator on its web platform, allowing users to experience flight without a download. To access it, users can hit Explore Earth, then Tools > Flight Simulator. The simulator comes with two aircraft options: the F-16 and the Cirrus SR22.
-
-💡 *Interactive web-based flight simulator offers immersive real-time experiences.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/1018-google-earth.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/noctua-finally-releases-its-first-aio-coolers-prices-start-at-usd220-for-240mm-features-the-companys-legendary-a-series-fans)
 
 ---
 
-### 17. PCB prices are up 40% in a month because of a material most people have never heard of 
+### 9. SMI's PCIe 6.0 SSD controller for consumer SSDs coming next year, but severe NAND shortages will get even worse in 2027 as AI data centers swallow supply An interview with Silicon Motion's SVP Nelson Duann 
 
-PCB prices have surged 40% in a month due to supply chain disruptions caused by the conflict in the Middle East, specifically a shortage of a crucial material. The shortage stems from damage to a key plant in Jubail, and the risk of cargo disruptions in the Strait of Hormuz. This has a significant impact on industries reliant on printed circuit boards.
+Silicon Motion's SVP Nelson Duann discusses the NAND supply crisis and future consumer storage trends.
 
-💡 *Global electronics supply chains are vulnerable to Middle Eastern conflicts.*
+💡 *NAND shortages worsen due to AI data centers' expanding demand.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112766-pcb-prices-up-40-month-because-material-most.html)
-
----
-
-### 18. Onimusha: Way of the Sword releases September 25 with surprisingly modest system requirements 
-
-Onimusha: Way of the Sword releases after nearly two decades of silence, reviving the mainline series. It's the first new mainline entry since Onimusha: Dawn of Dreams in 2006. The game's release comes with surprisingly modest system requirements.
-
-💡 *Revival of a nearly two-decade-old gaming franchise*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112768-onimusha-way-sword-releases-september-25-surprisingly-modest.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/smis-pcie-6-0-ssd-controller-for-consumer-ssds-coming-next-year-but-severe-nand-shortages-will-get-even-worse-in-2027-as-ai-data-centers-swallow-supply-an-interview-with-silicon-motions-svp-nelson-duann)
 
 ---
 
-### 19. Fox to acquire Roku in $22 billion deal, its largest ever 
+### 10. Snap says its $2,195 Specs are AR glasses for the post-smartphone era 
 
-Fox Corporation is acquiring Roku in a $22 billion deal, paying $160 per share. The deal will see existing Fox shareholders own 73% and Roku shareholders own 27% of the combined company. The transaction is expected to close soon.
+Snap introduces Specs, AR glasses for the post-smartphone era, available for pre-order with a $200 refundable deposit. Specs are expected to ship this fall in the US, UK, and France. This marks a significant step in the evolution of augmented reality.
 
-💡 *Significant consolidation in the streaming media and entertainment industry landscape*
+💡 *Marking a shift from smartphones to immersive, wearable technology experiences.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112769-fox-acquire-roku-22-billion-deal-largest-ever.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112795-snap-2195-specs-ar-glasses-post-smartphone-era.html)
+
+---
+
+### 11. The "Made in America" Trump phone is just a reskinned HTC U24 built in China 
+
+A teardown of the Trump Mobile T1 revealed it's an HTC U24 Pro with minor cosmetic changes. The phone's manufacturing origins contradict Trump Mobile's original claim of being American-made. This settles suspicions raised earlier this year.
+
+💡 *False advertising undermines American manufacturing claims with a Trump-branded phone.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112785-made-america-trump-phone-reskinned-htc-u24-built.html)
+
+---
+
+### 12. Microsoft Teams is getting Wi-Fi location "check-in," but it's less creepy than it sounds 
+
+Microsoft Teams is introducing a Wi-Fi location 'check-in' feature, allowing users to control their location settings. The feature will provide employees' physical locations to their organizations. Microsoft has clarified how this feature will work and be managed.
+
+💡 *Location tracking in Teams is an extension, not a new layer of surveillance.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112774-microsoft-teams-use-wi-fi-determine-employee-location.html)
+
+---
+
+### 13. Microsoft is making Windows 11 updates require just one reboot instead of several 
+
+Microsoft is updating Windows 11 to require a single reboot for all updates.
+
+💡 *Smaller system downtime improves user productivity and efficiency significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112782-microsoft-making-windows-11-updates-require-one-reboot.html)
+
+---
+
+### 14. SpaceX acquires AI coding startup Cursor for $60 billion, days after record IPO 
+
+SpaceX acquires Cursor for $60 billion, capitalizing on its post-IPO stock surge.
+
+💡 *SpaceX leverages inflated stock value to seal strategic AI acquisition.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112784-spacex-acquires-ai-coding-startup-cursor-60-billion.html)
 
 ---
 

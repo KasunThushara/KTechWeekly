@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of June 16, 2026**
+**Week of June 17, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,39 +7,39 @@
 
 ## 📊 Summary
 - **Articles this week:** 3
-- **Report generated:** 2026-06-16 13:18
+- **Report generated:** 2026-06-17 12:41
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. OneThingCloud decentralized bandwidth sharing/distributed CDN solution pays you for your spare bandwidth 
+### 1. Chinese fab SMIC's 7nm metal pitch beats Intel 18A but lags 38% on density, teardown finds Huawei's sanctions-beating HiSilicon Kirin 9030 is the first subject of SemiAnalysis's new teardown lab 
 
-OneThingCloud allows users to monetize their spare bandwidth by installing a small hardware device at home. The device, known as the OneThing Edge Cube, joins a decentralized network to cache and distribute content, earning users passive income. This solution is based on the Rockchip RK3566 SoC and has multiple variants with varying specifications.
+SMIC's 7nm metal pitch is 32.5nm, beating Intel's 18A but lagging in density.
 
-💡 *Monetize spare bandwidth with a low-maintenance, decentralized hardware solution*
+💡 *Advancements in Chinese fab technology narrow global semiconductor gap.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/16/onethingcloud-decentralized-bandwidth-sharing-distributed-cdn-solution-pays-you-for-your-spare-bandwidth/)
-
----
-
-### 2. Microsoft debuts Surface Pro and Surface Laptop with new jade green color and Qualcomm Snapdragon X2 chips refreshed devices start at $1,499 with 16GB of RAM 
-
-Microsoft updates Surface Pro and Surface Laptop with Snapdragon X2 chips, haptic feedback, and a new jade green color. The refreshed devices start at $1,499 with 16GB of RAM. This update aims to enhance user experience and performance.
-
-💡 *Microsoft refreshes Surface Pro and Laptop with modern, high-end features*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/microsoft-debuts-surface-pro-and-surface-laptop-with-new-jade-green-color-and-qualcomm-snapdragon-x2-chips-refreshed-devices-start-at-usd1-499-with-16gb-of-ram)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/semianalysis-opens-its-own-chip-teardown-lab)
 
 ---
 
-### 3. TSMC says panel packaging won't replace CoWoS anytime soon for the largest future AI processors wafer-level tech can scale to 58 massive dies in one package 
+### 2. U.S. gov't asks court to dismiss NAACP lawsuit against Elon Musk's xAI over use of unpermitted gas turbines DOJ says Grok model running at Colossus 2 supports mission-critical operations  
 
-TSMC's Kevin Zhang says wafer-level packaging is more advanced than panel-level packaging, with the ability to scale to 58 massive dies in one package, making it more suitable for large future AI processors.
+The US government seeks dismissal of a NAACP lawsuit against xAI over Colossus 2 operations, citing national security concerns.
 
-💡 *Wafer-level packaging outpaces panel-level for massive AI chip integration.*
+💡 *National security interests take precedence over environmental and social concerns in this case.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/u-s-govt-asks-court-to-dismiss-naacp-lawsuit-against-elon-musks-xai-over-use-of-unpermitted-gas-turbines-doj-says-grok-model-running-at-colossus-2-supports-mission-critical-operations)
+
+---
+
+### 3. Chinese memory brands ditch Samsung and Micron for homegrown CXMT and YMTC silicon Corsair, HP, and Dell are already adopting the China-produced DDR5 chips 
+
+Chinese memory brands Gloway and KingBank are adopting homegrown silicon from CXMT and YMTC to produce DDR5 memory kits, replacing foreign DRAM suppliers like Samsung, Micron, and SK hynix.
+
+💡 *China's memory industry is rapidly reducing reliance on foreign suppliers.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/chinese-memory-vendors-snub-industry-giants-in-favor-of-homegrown-ram-chips-samsung-micron-and-sk-hynix-face-a-chinese-supply-chain-revolt)
 
 ---
 

@@ -1,85 +1,95 @@
 # 🎮 GPUs
-**Week of June 16, 2026**
+**Week of June 17, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-06-16 13:18
+- **Articles this week:** 8
+- **Report generated:** 2026-06-17 12:41
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. $4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor ⭐
+### 1. SCINTIX P4 ESP32-P4 Compute Module works with (some) Raspberry Pi CM4/CM5 carrier boards (Crowdfunding) 
 
-AMD's Ryzen AI Halo Developer Platform offers 126 TOPS performance and 16 cores for AI and other applications.
+The SCINTIX P4 is an ESP32-P4 Compute Module compatible with some Raspberry Pi CM4/CM5 carrier boards, offering wireless connectivity and access to various peripherals. It features a dual-core RISC-V CPU and supports programming in standalone mode. The module is currently available through crowdfunding.
 
-💡 *Advances AI computing for developers with high-performance and power-efficient Ryzen processor.*
+💡 *First MCU-based system-on-module for Raspberry Pi CM4/CM5 form factor*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/)
-
----
-
-### 2. Enthusiast hacks Valve s AMD-first gaming OS to run on Intel hardware SteamOS boots on Intel Arc B580 desktop GPU, but it takes a Radeon card, installer workaround, and Resizable BAR fix 
-
-A Reddit user successfully installed SteamOS on an Intel Arc B580 GPU, requiring a Radeon-assisted install workaround and Resizable BAR fix to achieve performance. The early proof of concept demonstrates SteamOS can run on Intel hardware, potentially broadening compatibility options.
-
-💡 *SteamOS runs on Intel hardware with creative workarounds and tweaks applied*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/operating-systems/reddit-user-gets-valves-amd-first-gaming-os-running-on-intel-hardware-steamos-boots-on-intel-arc-b580-desktop-gpu-but-it-takes-a-radeon-card-installer-workaround-and-resizable-bar-fix)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/17/scintix-p4-esp32-p4-compute-module-raspberry-pi-cm4-cm5-carrier-boards/)
 
 ---
 
-### 3. ADLINK COM-HPC-mPTL COM-HPC Mini computer-on-module features up to 180 TOPS Intel Core Ultra Series 3 CPU 
+### 2. AMD quietly disabled RAM encryption on some consumer Ryzen CPUs and users want to know why 
 
-The ADLINK COM-HPC-mPTL is a high-performance COM-HPC mini computer-on-module with up to 180 TOPS, powered by the Intel Core Ultra Series 3 processor. It supports up to 64GB LPDDR5x memory and features multiple display interfaces, PCIe lanes, and a 40-pin debug connector. The module is designed for demanding applications in various industries.
+AMD disabled RAM encryption on some Ryzen CPUs without user notification, sparking concerns about data security.
 
-💡 *High-performance computing for AI, ML, and edge applications.*
+💡 *Users rely on hardware security features for sensitive data protection.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/16/adlink-com-hpc-mptl-com-hpc-mini-computer-on-module-features-up-to-180-tops-intel-core-ultra-series-3-cpu/)
-
----
-
-### 4. Get an RTX 5090 gaming laptop for less than $3,000 Acer's 16-inch Predator with 2TB of storage and 32GB of RAM is now $500 off 
-
-Save $500 on Acer's 16-inch Predator Helios AI gaming laptop with RTX 5090 graphics and a 240Hz OLED screen. The discounted price is $2,999. This powerful gaming laptop features 2TB storage and 32GB RAM.
-
-💡 *High-end gaming laptops become more affordable with significant price cuts.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/get-an-rtx-5090-gaming-laptop-for-less-than-usd3-000-acers-16-inch-predator-with-2tb-of-storage-and-32gb-of-ram-is-now-usd500-off)
+🔗 [Read Full Article](https://www.techspot.com/news/112791-amd-quietly-disabled-ram-encryption-consumer-ryzen-cpus.html)
 
 ---
 
-### 5. AMD takes over MEXT for memory tiering tech that enables flash to appear as DRAM to applications tech to 'address growing memory constraints' in the data center 
+### 3. Save $500 on this Acer 16 Predator Helios Neo 16 IPS Gaming laptop just $1,499.99 gets you a powerful portable gaming rig with an RTX 5070, 32GB DDR5, and Intel Core Ultra 9 275 HX processor 
 
-AMD acquires MEXT to improve memory efficiency with Predictive Memory Engine. This technology offloads infrequently accessed data from DRAM to NAND storage. This addresses growing memory constraints in the data center.
+Acer's Predator Helios Neo 16 IPS Gaming laptop is now available for $1,499.99, offering a powerful portable gaming rig with an RTX 5070, 32GB DDR5, and Intel Core Ultra 9 275 HX processor, representing a $500 discount from its original price.
 
-💡 *Offloading infrequent data from DRAM saves memory resources.*
+💡 *High-performance gaming at an affordable price point*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-takes-over-mext-to-address-growing-memory-constraints-in-the-data-center-memory-tiering-technology-enables-flash-to-appear-as-dram-to-applications)
-
----
-
-### 6. Intel CPUs with Nvidia RTX integrated graphics are targeting an early 2028 release 
-
-Intel's x86 processors with Nvidia RTX graphics are expected to release in the first quarter of 2028, potentially challenging AMD's high-end mobile APUs and boosting both companies' platform ambitions.
-
-💡 *Nvidia RTX integration boosts Intel's mobile computing competitiveness significantly.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112771-intel-cpus-nvidia-rtx-integrated-graphics-targeting-early.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-usd500-on-this-acer-16-predator-helios-neo-16-ips-gaming-laptop-just-usd1-499-99-gets-you-a-powerful-portable-gaming-rig-with-an-rtx-5070-32gb-ddr5-and-intel-core-ultra-9-275-hx-processor)
 
 ---
 
-### 7. Amazon UK has slashed 43% off this excellent 4K 32-inch OLED gaming monitor lowest-ever price on this ASUS ROG Strix OLED now just 599 
+### 4. Nvidia reveals AI robots that taught themselves to install GPUs into motherboards video shows robot solve high-precision tasks like installing GPUs all by itself  
 
-Amazon UK offers a discounted price for the ASUS ROG Strix OLED gaming monitor, with 43% off its original price. The 32-inch 4K display is now available for £599. This is considered a lowest-ever price for this model.
+Nvidia showcases robots that can teach themselves high-precision tasks like installing GPUs. These agentic robots can perform real-world tasks with dexterity and precision. The technology has potential applications in various industries.
 
-💡 *Exceptional gaming performance at an unbeatable price point available*
+💡 *Autonomous robots can automate complex, high-precision tasks with minimal human oversight.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/amazon-uk-has-slashed-43-percent-off-this-excellent-4k-32-inch-oled-gaming-monitor-lowest-ever-price-on-this-asus-rog-strix-oled-now-just-gbp599)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reveals-ai-robots-that-taught-themselves-to-install-gpus-into-motherboards-video-shows-robot-solve-high-precision-tasks-like-installing-gpus-all-by-itself)
+
+---
+
+### 5. SMI says Nvidia is driving its consumer PCIe 6.0 roadmap, not AMD and Intel RTX Spark agentic AI platform fuels a hunger for storage bandwidth 
+
+Nvidia may lead in PCIe Gen6 client PC platforms, influencing suppliers like Silicon Motion.
+
+💡 *Nvidia's AI ambitions drive its PCIe 6.0 roadmap ahead of competitors*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/silicon-motions-client-pcie-6-x-roadmap-is-driven-by-nvidia-not-by-amd-and-intel-rtx-spark-agentic-ai-platform-could-fuel-a-hunger-for-storage-bandwidth)
+
+---
+
+### 6. AMD silently removes memory encryption from consumer Ryzen CPUs, leaving users unaware that they may be vulnerable security feature vanishes after newer AGESA firmware, AMD engineers go radio silent when pressed about the change 
+
+AMD has reportedly removed TSME, a memory-encryption feature, from consumer Ryzen CPUs. Newer AGESA firmware disables the feature, leaving users vulnerable. Pro and EPYC CPUs remain unaffected.
+
+💡 *Security feature removal compromises sensitive data, risking user confidentiality and integrity.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
+
+---
+
+### 7. AMD Zen 6 desktop CPUs may ditch integrated graphics for a built-in NPU 
+
+AMD's Zen 6 'Morpheus' processors may abandon integrated graphics for a built-in NPU, marking a significant shift in the architecture.
+
+💡 *Integrated graphics replacement with NPU enhances AI capabilities significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112788-amd-zen-6-desktop-cpus-may-ditch-integrated.html)
+
+---
+
+### 8. Logitech completes G3 lineup with budget gaming keyboard and mouse 
+
+Logitech introduces the G305 X Superlight, a budget gaming mouse with improved features. Priced at $79.99, it offers an updated sensor, scroll wheel, and RGB lighting. The device supports up to five on-board profiles for customization.
+
+💡 *Mid-range gaming peripherals offer affordable high-performance options for gamers.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112783-logitech-completes-g3-lineup-budget-gaming-keyboard-mouse.html)
 
 ---
 

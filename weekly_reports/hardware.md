@@ -1,205 +1,185 @@
 # 💻 Hardware
-**Week of June 16, 2026**
+**Week of June 17, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-06-16 13:18
+- **Articles this week:** 17
+- **Report generated:** 2026-06-17 12:41
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. MSI MPG Coreliquid P22 360 Review: Low noise, strong performance, budget price ⭐
+### 1. Zhihe A210 octa-core RISC-V SoC with 12 TOPS NPU powers SoM-based development board ⭐⭐
 
-The MSI MPG Coreliquid P22 360 is a budget-friendly AIO liquid cooler with strong thermal performance and a 2.1-inch IPS display. It's paired with AMD's Ryzen 9 9950X3D CPU to test its efficiency. This AIO offers a low noise level and impressive performance at an affordable price.
+The Zhihe A210 is an octa-core RISC-V SoC with a 12 TOPS NPU, featuring 4x 64-bit RISC-V C920 cores at up to 2.3 GHz. This SoC powers a SoM-based development board, offering improved performance and AI capabilities. The A210 SODIMM V2 development kit is available for testing and development.
 
-💡 *Budget-friendly AIO liquid cooler with high thermal performance capabilities.*
+💡 *High-performance RISC-V SoC boosts AI capabilities and processing power.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/msi-mpg-coreliquid-p22-360-review)
-
----
-
-### 2. $4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor ⭐
-
-AMD's Ryzen AI Halo Developer Platform offers 126 TOPS performance and 16 cores for AI and other applications.
-
-💡 *Advances AI computing for developers with high-performance and power-efficient Ryzen processor.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/17/zhihe-a210-octa-core-risc-v-soc-with-12-tops-npu-powers-som-based-development-board/)
 
 ---
 
-### 3. AGI AI858 2TB SSD Review High-end PCIe 5 speeds on a budget 
+### 2. Amlogic A311Y3 octa-core Edge AI SoC features Cortex-A78/A55 cores, 8 TOPS NPU, LPDDR5 support ⭐
 
-The AGI AI858 offers high-end PCIe 5.0 speeds at a budget-friendly price, featuring good random read latency and a bundled heatsink. This makes it a great entry point for users seeking high-performance storage without breaking the bank. The AGI AI858 is an attractive option for those who want to upgrade their storage without making significant trade-offs.
+Amlogic introduces the A311Y3 Edge AI SoC with 6nm Cortex-A78/A55 cores and 8 TOPS NPU.
 
-💡 *Affordable high-speed storage for gamers and content creators*
+💡 *Amlogic A311Y3 enhances edge AI capabilities with improved CPU and NPU performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/agi-ai858-2tb-ssd-review)
-
----
-
-### 4. These are the four keyboards I'm still using after reviewing keyboards for years How a 500 Hz TKL and a Stream Deck layout dominated my desk 
-
-The author has found four keyboards that meet their needs for writing and gaming, despite the elusive perfect board. These keyboards offer a combination of features that make them stand out, including a 500 Hz TKL and Stream Deck layout. The author has been unable to find a better alternative.
-
-💡 *Finding the right keyboard can elevate user experience significantly*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/these-are-the-four-keyboards-im-still-using-after-reviewing-keyboards-for-years-how-a-500-hz-tkl-and-a-stream-deck-layout-dominated-my-desk)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/17/amlogic-a311y3-octa-core-edge-ai-soc-features-cortex-a78-a55-cores-8-tops-npu-lpddr5-support/)
 
 ---
 
-### 5. Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU surfaces in new engineering sample Company's cancelled AI processor features 32GB of HBM2E 
+### 3. ViewSonic VX2738-2K 27-inch OLED review: An OLED value play ⭐
 
-Intel's cancelled 'Arctic Sound' AI GPU prototype features 2 tiles and 32GB of HBM2E memory. It's based on the original Xe-HP architecture, showcasing the company's early AI processor developments. The engineering sample reveals a powerful GPU design.
+The ViewSonic VX2738-2K 27-inch OLED monitor provides high-performance gaming at a low price. It boasts 240 Hz, Adaptive-Sync, HDR, and Quantum Dot color for smooth, quick, and saturated visuals. This monitor is a great value for gamers seeking high-end features.
 
-💡 *Early glimpse into Intel's abandoned AI GPU design advancements.*
+💡 *Affordable high-performance OLED gaming monitor with premium features*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e)
-
----
-
-### 6. Enthusiast hacks Valve s AMD-first gaming OS to run on Intel hardware SteamOS boots on Intel Arc B580 desktop GPU, but it takes a Radeon card, installer workaround, and Resizable BAR fix 
-
-A Reddit user successfully installed SteamOS on an Intel Arc B580 GPU, requiring a Radeon-assisted install workaround and Resizable BAR fix to achieve performance. The early proof of concept demonstrates SteamOS can run on Intel hardware, potentially broadening compatibility options.
-
-💡 *SteamOS runs on Intel hardware with creative workarounds and tweaks applied*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/operating-systems/reddit-user-gets-valves-amd-first-gaming-os-running-on-intel-hardware-steamos-boots-on-intel-arc-b580-desktop-gpu-but-it-takes-a-radeon-card-installer-workaround-and-resizable-bar-fix)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/viewsonic-vx2738-2k-27-inch-oled-review)
 
 ---
 
-### 7. ADLINK COM-HPC-mPTL COM-HPC Mini computer-on-module features up to 180 TOPS Intel Core Ultra Series 3 CPU 
+### 4. SanDisk Optimus GX Pro 8100 8TB SSD Review the undisputed king of high-capacity PCIe 5.0 SSDs ⭐
 
-The ADLINK COM-HPC-mPTL is a high-performance COM-HPC mini computer-on-module with up to 180 TOPS, powered by the Intel Core Ultra Series 3 processor. It supports up to 64GB LPDDR5x memory and features multiple display interfaces, PCIe lanes, and a 40-pin debug connector. The module is designed for demanding applications in various industries.
+The SanDisk Optimus GX Pro 8100 excels in performance and efficiency. With its high-capacity PCIe 5.0 capabilities, it meets the demands of data-intensive workloads. However, its price might be a limiting factor.
 
-💡 *High-performance computing for AI, ML, and edge applications.*
+💡 *Unmatched performance for high-capacity data-intensive workloads requires significant investment*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/16/adlink-com-hpc-mptl-com-hpc-mini-computer-on-module-features-up-to-180-tops-intel-core-ultra-series-3-cpu/)
-
----
-
-### 8. OneThingCloud decentralized bandwidth sharing/distributed CDN solution pays you for your spare bandwidth 
-
-OneThingCloud allows users to monetize their spare bandwidth by installing a small hardware device at home. The device, known as the OneThing Edge Cube, joins a decentralized network to cache and distribute content, earning users passive income. This solution is based on the Rockchip RK3566 SoC and has multiple variants with varying specifications.
-
-💡 *Monetize spare bandwidth with a low-maintenance, decentralized hardware solution*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/16/onethingcloud-decentralized-bandwidth-sharing-distributed-cdn-solution-pays-you-for-your-spare-bandwidth/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/sandisk-optimus-gx-pro-8100-8tb-ssd-review)
 
 ---
 
-### 9. Files app brings smarter folder size scanning to its already capable Windows file manager 
+### 5. SCINTIX P4 ESP32-P4 Compute Module works with (some) Raspberry Pi CM4/CM5 carrier boards (Crowdfunding) 
 
-The Files app now features on-demand folder size calculation, improving performance and preserving file selections when switching layouts.
+The SCINTIX P4 is an ESP32-P4 Compute Module compatible with some Raspberry Pi CM4/CM5 carrier boards, offering wireless connectivity and access to various peripherals. It features a dual-core RISC-V CPU and supports programming in standalone mode. The module is currently available through crowdfunding.
 
-💡 *Faster, more efficient Windows file management for improved productivity*
+💡 *First MCU-based system-on-module for Raspberry Pi CM4/CM5 form factor*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7448-files.html)
-
----
-
-### 10. Microsoft debuts Surface Pro and Surface Laptop with new jade green color and Qualcomm Snapdragon X2 chips refreshed devices start at $1,499 with 16GB of RAM 
-
-Microsoft updates Surface Pro and Surface Laptop with Snapdragon X2 chips, haptic feedback, and a new jade green color. The refreshed devices start at $1,499 with 16GB of RAM. This update aims to enhance user experience and performance.
-
-💡 *Microsoft refreshes Surface Pro and Laptop with modern, high-end features*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/microsoft-debuts-surface-pro-and-surface-laptop-with-new-jade-green-color-and-qualcomm-snapdragon-x2-chips-refreshed-devices-start-at-usd1-499-with-16gb-of-ram)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/17/scintix-p4-esp32-p4-compute-module-raspberry-pi-cm4-cm5-carrier-boards/)
 
 ---
 
-### 11. Intel's one-two punch plan in desktop CPUs is taking shape Z990 spotted, Nova Lake detailed, Raptor Lake Next teased 
+### 6. AMD quietly disabled RAM encryption on some consumer Ryzen CPUs and users want to know why 
 
-Intel's next-gen desktop CPU plans are taking shape with several new models. The Z990 and Nova Lake have been spotted, and Raptor Lake Next has been teased. These updates suggest a significant shift in Intel's desktop CPU strategy.
+AMD disabled RAM encryption on some Ryzen CPUs without user notification, sparking concerns about data security.
 
-💡 *Intel's evolving plans may shake up the desktop CPU market dynamics*
+💡 *Users rely on hardware security features for sensitive data protection.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-one-two-punch-plan-in-desktop-cpus-is-taking-shape-z990-spotted-nova-lake-detailed-raptor-lake-next-teased)
-
----
-
-### 12. Save 40% on this ultra-fast Samsung microSD card with 256GB storage, now just $47.99 $32 saving on P9 Express model with read speeds of up to 800 MB/s, perfect for a gaming laptop or a Nintendo Switch 2 
-
-Save $32 on a Samsung P9 Express microSD card with 256GB storage and read speeds up to 800MB/s, perfect for gaming laptops or the Nintendo Switch 2.
-
-💡 *Enhanced gaming performance with ultra-fast storage*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/microsd-cards/save-40-percent-on-this-ultra-fast-samsung-microsd-card-with-256gb-storage-now-just-usd47-99-usd32-saving-on-p9-express-model-with-read-speeds-of-up-to-800-mb-s-perfect-for-a-gaming-laptop-or-a-nintendo-switch-2)
+🔗 [Read Full Article](https://www.techspot.com/news/112791-amd-quietly-disabled-ram-encryption-consumer-ryzen-cpus.html)
 
 ---
 
-### 13. Get an RTX 5090 gaming laptop for less than $3,000 Acer's 16-inch Predator with 2TB of storage and 32GB of RAM is now $500 off 
+### 7. Noctua launches its first AIO liquid CPU coolers with a range of radiator sizes 
 
-Save $500 on Acer's 16-inch Predator Helios AI gaming laptop with RTX 5090 graphics and a 240Hz OLED screen. The discounted price is $2,999. This powerful gaming laptop features 2TB storage and 32GB RAM.
+Noctua's new AIO liquid CPU coolers feature a three-layer acoustic soundproofing structure and a pump speed toggle for improved performance and quiet operation.
 
-💡 *High-end gaming laptops become more affordable with significant price cuts.*
+💡 *Innovative soundproofing technology enhances cooling performance and reduces noise.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/get-an-rtx-5090-gaming-laptop-for-less-than-usd3-000-acers-16-inch-predator-with-2tb-of-storage-and-32gb-of-ram-is-now-usd500-off)
-
----
-
-### 14. AMD s massive SP7 socket for EPYC Venice and Intel s gargantuan 9,324-pin socket for Diamond Rapids appear at Computex SP7 and LGA9324-1 sockets will power the next generation of AI servers 
-
-AMD and Intel unveil massive new sockets for next-gen AI servers, supporting 16 DDR5 memory channels.
-
-💡 *Increased memory capacity drives AI server performance advancements.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-massive-sp7-socket-for-epyc-venice-and-intels-gargantuan-9-324-pin-socket-for-diamond-rapids-appear-at-computex-sp7-and-lga9324-1-sockets-will-power-the-next-generation-of-ai-servers)
+🔗 [Read Full Article](https://www.techspot.com/news/112786-noctua-launches-first-aio-liquid-cpu-coolers-range.html)
 
 ---
 
-### 15. Marvell details vision of optically-interconnected data centers spanning across thousands of kilometers new interconnects sampling later this year would allow CSPs to pool resources based on workload 
+### 8. Save $500 on this Acer 16 Predator Helios Neo 16 IPS Gaming laptop just $1,499.99 gets you a powerful portable gaming rig with an RTX 5070, 32GB DDR5, and Intel Core Ultra 9 275 HX processor 
 
-Marvell envisions optically interconnected data centers spanning thousands of kilometers, enabling CSPs to pool resources based on workload. The company already has the necessary hardware to build these interconnected data centers. This technology could revolutionize data center connectivity.
+Acer's Predator Helios Neo 16 IPS Gaming laptop is now available for $1,499.99, offering a powerful portable gaming rig with an RTX 5070, 32GB DDR5, and Intel Core Ultra 9 275 HX processor, representing a $500 discount from its original price.
 
-💡 *Enhanced resource pooling and workload optimization for CSPs*
+💡 *High-performance gaming at an affordable price point*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/marvell-details-vision-of-optically-interconnected-data-centers-spanning-across-thousands-of-kilometers-new-interconnects-sampling-later-this-year-would-allow-csps-to-pool-resources-based-on-workload)
-
----
-
-### 16. Intel CPUs with Nvidia RTX integrated graphics are targeting an early 2028 release 
-
-Intel's x86 processors with Nvidia RTX graphics are expected to release in the first quarter of 2028, potentially challenging AMD's high-end mobile APUs and boosting both companies' platform ambitions.
-
-💡 *Nvidia RTX integration boosts Intel's mobile computing competitiveness significantly.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112771-intel-cpus-nvidia-rtx-integrated-graphics-targeting-early.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-usd500-on-this-acer-16-predator-helios-neo-16-ips-gaming-laptop-just-usd1-499-99-gets-you-a-powerful-portable-gaming-rig-with-an-rtx-5070-32gb-ddr5-and-intel-core-ultra-9-275-hx-processor)
 
 ---
 
-### 17. Nothing CEO warns memory costs now exceed 50% of smartphone's hardware bill 
+### 9. Nvidia reveals AI robots that taught themselves to install GPUs into motherboards video shows robot solve high-precision tasks like installing GPUs all by itself  
 
-Nothing CEO Carl Pei warns that memory costs now exceed 50% of smartphone hardware bill due to rising AI component prices.
+Nvidia showcases robots that can teach themselves high-precision tasks like installing GPUs. These agentic robots can perform real-world tasks with dexterity and precision. The technology has potential applications in various industries.
 
-💡 *Soaring AI demands drive up memory costs, impacting consumer device affordability.*
+💡 *Autonomous robots can automate complex, high-precision tasks with minimal human oversight.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112763-nothing-ceo-warns-memory-costs-now-exceed-50.html)
-
----
-
-### 18. Google Earth just turned your browser into a flight simulator 
-
-Google Earth now features a flight simulator on its web platform, allowing users to experience flight without a download. To access it, users can hit Explore Earth, then Tools > Flight Simulator. The simulator comes with two aircraft options: the F-16 and the Cirrus SR22.
-
-💡 *Interactive web-based flight simulator offers immersive real-time experiences.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/1018-google-earth.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reveals-ai-robots-that-taught-themselves-to-install-gpus-into-motherboards-video-shows-robot-solve-high-precision-tasks-like-installing-gpus-all-by-itself)
 
 ---
 
-### 19. PCB prices are up 40% in a month because of a material most people have never heard of 
+### 10. AMD silently removes memory encryption from consumer Ryzen CPUs, leaving users unaware that they may be vulnerable security feature vanishes after newer AGESA firmware, AMD engineers go radio silent when pressed about the change 
 
-PCB prices have surged 40% in a month due to supply chain disruptions caused by the conflict in the Middle East, specifically a shortage of a crucial material. The shortage stems from damage to a key plant in Jubail, and the risk of cargo disruptions in the Strait of Hormuz. This has a significant impact on industries reliant on printed circuit boards.
+AMD has reportedly removed TSME, a memory-encryption feature, from consumer Ryzen CPUs. Newer AGESA firmware disables the feature, leaving users vulnerable. Pro and EPYC CPUs remain unaffected.
 
-💡 *Global electronics supply chains are vulnerable to Middle Eastern conflicts.*
+💡 *Security feature removal compromises sensitive data, risking user confidentiality and integrity.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112766-pcb-prices-up-40-month-because-material-most.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
+
+---
+
+### 11. Dell's $699 XPS 13 laptop is now available with the MacBook Neo in its sights entry-level XPS design comes with Wildcat Lake, 8GB of RAM, and a 512GB SSD 
+
+Dell's $699 XPS 13 now available with Wildcat Lake CPU, 8GB RAM, and 512GB SSD.
+
+💡 *Dell's budget laptop challenges Apple's MacBook Neo market dominance*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/dells-usd699-xps-13-laptop-is-now-available-with-the-macbook-neo-in-its-sights-entry-level-xps-design-comes-with-wildcat-lake-8gb-of-ram-and-a-512gb-ssd)
+
+---
+
+### 12. Logitech's new G305 X Superlight weighs just 59 grams and costs $79 company also releases hot-swappable G316 X 98 keyboard with pixel display, translucent control knob 
+
+Logitech releases the G305 X Superlight mouse and G316 X 98 keyboard, both designed for gaming performance and customization.
+
+💡 *Logitech enhances gaming peripherals for competitive players with high-performance features.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/logitechs-new-g305-x-superlight-weighs-just-59-grams-and-costs-usd79-company-also-releases-new-hot-swappable-g316-x-98-keyboard)
+
+---
+
+### 13. 'The retail SSD market has almost disappeared,' says Silicon Motion exec PC OEMs are buying third-party drives as direct NAND supply dries up 
+
+The retail SSD market is dwindling as NAND suppliers focus on AI data centers. PC OEMs are now purchasing third-party SSDs due to the direct NAND supply shortage. This shift is impacting the availability of retail SSDs.
+
+💡 *NAND manufacturers prioritize AI data centers over retail SSD demand*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/the-retail-ssd-market-has-almost-disappeared-says-silicon-motion-exec-pc-oems-are-buying-third-party-drives-as-direct-nand-supply-dries-up)
+
+---
+
+### 14. SMI's PCIe 6.0 SSD controller for consumer SSDs coming next year, but severe NAND shortages will get even worse in 2027 as AI data centers swallow supply An interview with Silicon Motion's SVP Nelson Duann 
+
+Silicon Motion's SVP Nelson Duann discusses the NAND supply crisis and future consumer storage trends.
+
+💡 *NAND shortages worsen due to AI data centers' expanding demand.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/smis-pcie-6-0-ssd-controller-for-consumer-ssds-coming-next-year-but-severe-nand-shortages-will-get-even-worse-in-2027-as-ai-data-centers-swallow-supply-an-interview-with-silicon-motions-svp-nelson-duann)
+
+---
+
+### 15. AMD Zen 6 desktop CPUs may ditch integrated graphics for a built-in NPU 
+
+AMD's Zen 6 'Morpheus' processors may abandon integrated graphics for a built-in NPU, marking a significant shift in the architecture.
+
+💡 *Integrated graphics replacement with NPU enhances AI capabilities significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112788-amd-zen-6-desktop-cpus-may-ditch-integrated.html)
+
+---
+
+### 16. Logitech completes G3 lineup with budget gaming keyboard and mouse 
+
+Logitech introduces the G305 X Superlight, a budget gaming mouse with improved features. Priced at $79.99, it offers an updated sensor, scroll wheel, and RGB lighting. The device supports up to five on-board profiles for customization.
+
+💡 *Mid-range gaming peripherals offer affordable high-performance options for gamers.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112783-logitech-completes-g3-lineup-budget-gaming-keyboard-mouse.html)
+
+---
+
+### 17. UK confirms social media ban for kids is coming Meta, YouTube, and Snapchat respond 
+
+The UK confirms plans to ban social media for users under 16, following the lead of other countries like Australia.
+
+💡 *Protecting children's mental health and well-being is a top priority worldwide.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112780-uk-confirms-under-16-social-media-ban-2027.html)
 
 ---
 
