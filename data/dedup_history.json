@@ -1,184 +1,4 @@
 {
-  "https://www.tomshardware.com/monitors/gaming-monitors/lg-unveils-worlds-first-native-1000-hz-refresh-rate-at-1080p-for-serious-competitive-gaming-ultragear-25g590b-to-launch-in-the-second-half-of-2026": {
-    "title": "LG unveils 'world's first' native 1000 Hz refresh rate at 1080p for serious competitive gaming UltraGear 25G590B to launch in the second half of 2026",
-    "fingerprint": "08f4a7d2d83e54534335c9c0f66679cb",
-    "timestamp": 1779190976.545517,
-    "date": "2026-05-19T11:42:56.545522"
-  },
-  "https://www.tomshardware.com/laptops/intels-project-firefly-creates-sub-usd600-laptops-to-compete-with-macbook-neo-leverages-chinas-smartphone-manufacturing-blueprint-to-produce-affordable-wildcat-lake-systems": {
-    "title": "Intel's Project Firefly creates sub-$600 laptops to compete with Apple's MacBook Neo leverages China's smartphone manufacturing blueprint to produce affordable Wildcat Lake systems",
-    "fingerprint": "b27afecefff81ff310e32301e99ae3c6",
-    "timestamp": 1779190976.54567,
-    "date": "2026-05-19T11:42:56.545671"
-  },
-  "https://www.tomshardware.com/pc-components/researchers-attack-amds-infinity-fabric-to-bypass-hardware-security-protections-with-fabricked-flaw-lets-malicious-cloud-hosts-silently-read-confidential-vm-memory-and-forge-attestation-reports": {
-    "title": "Researchers attack AMD's Infinity Fabric to bypass hardware security protections with 'Fabricked' flaw lets malicious cloud hosts silently read confidential VM memory and forge attestation reports",
-    "fingerprint": "1925ee3fdba82ccf015bc05017744daf",
-    "timestamp": 1779190976.545866,
-    "date": "2026-05-19T11:42:56.545867"
-  },
-  "https://www.tomshardware.com/desktops/pc-building/ambitious-modder-creates-custom-passive-water-cooled-pc-9800x3d-build-with-rtx-5080-has-no-fans-copper-and-radiator-chimney-struggles-to-keep-temperatures-down": {
-    "title": "Custom-built passive water-cooled PC relies on convection chimney effect powered by triple-stacked radiators 9800X3D build with RTX 5080 has no fans, copper, and radiator chimney, but struggles to keep temperatures down",
-    "fingerprint": "b7bcc1c2f4bad5c6a04c5af1d4e2600d",
-    "timestamp": 1779190976.545994,
-    "date": "2026-05-19T11:42:56.545994"
-  },
-  "https://www.tomshardware.com/video-games/fans-release-24tb-million-square-block-archive-of-minecrafts-infamous-2b2t-server-intense-digital-archaeology-project-has-taken-years-to-reach-this-stage": {
-    "title": "Fans secretly mapped 24 terabytes of Minecraft s infamous 2b2t server, million square block archive to be shared via torrent Intense digital archaeology project has taken years, risked player wrath",
-    "fingerprint": "67ccf9aba184ced12206982e39ccbc09",
-    "timestamp": 1779190976.546098,
-    "date": "2026-05-19T11:42:56.546099"
-  },
-  "https://www.tomshardware.com/laptops/gaming-laptops/next-gen-mobile-gaming-just-got-usd1-150-cheaper-dell-slashes-rtx-5090-gaming-laptop-price-tag-to-usd4-399": {
-    "title": "Next-gen mobile gaming just got $1,150 cheaper Dell slashes RTX 5090 gaming laptop price tag to $4,399",
-    "fingerprint": "7bc110afbf74a2866cc99a7e7322e2ac",
-    "timestamp": 1779190976.546192,
-    "date": "2026-05-19T11:42:56.546192"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/jury-throws-out-elon-musks-lawsuit-against-openai-after-less-than-two-hours-of-deliberation": {
-    "title": "Jury throws out Elon Musk's lawsuit against OpenAI after less than two hours of deliberation Unanimous vote that Musk filed the lawsuit too late",
-    "fingerprint": "738468e609e8adccc1849dc85252e037",
-    "timestamp": 1779190976.546283,
-    "date": "2026-05-19T11:42:56.546284"
-  },
-  "https://www.tomshardware.com/tech-industry/taiwanese-memory-module-makers-raise-880-million-to-stockpile-chips": {
-    "title": "Record-high pricing pushes SSD and memory makers to borrow $880 million just to afford buying chips Adata, TeamGroup, and others take on substantial debt to survive shortages",
-    "fingerprint": "d0ccbff1e1a8c589770820f9b977814c",
-    "timestamp": 1779190976.546391,
-    "date": "2026-05-19T11:42:56.546392"
-  },
-  "https://www.tomshardware.com/monitors/why-now-is-the-best-time-to-jump-on-the-oled-monitor-bandwagon-breaking-down-new-gen-panel-tech-and-our-top-burn-in-prevention-tips": {
-    "title": "Why now is the best time to jump on the OLED monitor bandwagon breaking down new-gen panel tech and our top burn-in prevention tips",
-    "fingerprint": "917bea728db70e874a8a78c623ec8689",
-    "timestamp": 1779190976.546479,
-    "date": "2026-05-19T11:42:56.546480"
-  },
-  "https://www.tomshardware.com/tech-industry/china-says-worlds-first-offshore-wind-powered-underwater-data-center-has-entered-full-operation-houses-2-000-servers-24-megawatt-subsea-ai-facility-uses-ocean-water-for-passive-cooling-and-offshore-wind-for-power": {
-    "title": "China says 'world's first' offshore wind-powered underwater data center has entered full operation, houses 2,000 servers 24 megawatt subsea AI facility uses ocean water for passive cooling and offshore wind for power",
-    "fingerprint": "881dc8cb9113f8eccfd9ca9c14e7c690",
-    "timestamp": 1779190976.546585,
-    "date": "2026-05-19T11:42:56.546586"
-  },
-  "https://www.tomshardware.com/software/linux/linus-torvalds-says-ai-bug-reports-have-made-the-linux-security-mailing-list-almost-entirely-unmanageable": {
-    "title": "Linus Torvalds says flood of duplicate AI-generated vulnerability reports have made Linux security mailing list 'almost entirely unmanageable' private list 'a waste of time for everybody involved' in switch to new public system",
-    "fingerprint": "e28e1cf150e343cb681b4e0297b161ad",
-    "timestamp": 1779190976.546687,
-    "date": "2026-05-19T11:42:56.546687"
-  },
-  "https://www.cnx-software.com/2026/05/19/ubuntu-core-26-targets-iot-devices-and-embedded-systems-offers-up-to-15-years-of-security-maintenance/": {
-    "title": "Ubuntu Core 26 targets IoT devices and embedded systems, offers up to 15 years of security maintenance",
-    "fingerprint": "e2aa02d871890554dd3e55178bcd483e",
-    "timestamp": 1779190976.547294,
-    "date": "2026-05-19T11:42:56.547295"
-  },
-  "https://www.cnx-software.com/2026/05/19/60-kit-transforms-the-raspberry-pi-4-5-into-a-din-rail-industrial-controller-with-isolated-rs232-rs485-and-can-bus/": {
-    "title": "$60 kit transforms the Raspberry Pi 4/5 into a DIN Rail industrial computer with isolated RS232, RS485, and CAN Bus",
-    "fingerprint": "be904999d9ea51e158d8c3d0695c97ed",
-    "timestamp": 1779190976.547463,
-    "date": "2026-05-19T11:42:56.547464"
-  },
-  "https://www.cnx-software.com/2026/05/19/esp32-s3-powerfeather-v2-board-gains-support-for-lifepo4-lfp-batteries/": {
-    "title": "ESP32-S3 PowerFeather V2 board gains support for LiFePO4/LFP batteries",
-    "fingerprint": "ddbccb3d05e57ebfb1bef56a4619e817",
-    "timestamp": 1779190976.547626,
-    "date": "2026-05-19T11:42:56.547626"
-  },
-  "https://www.techspot.com/bestof/mouse-26/": {
-    "title": "The Best Mouse: Our Favorite Mice for Work and Play",
-    "fingerprint": "c255b1110c1ee1edd6a0c966616881c9",
-    "timestamp": 1779190976.548977,
-    "date": "2026-05-19T11:42:56.548979"
-  },
-  "https://www.techspot.com/news/112450-elon-musk-loses-openai-trial-after-jury-waited.html": {
-    "title": "Elon Musk loses OpenAI trial after jury says he waited too long to sue",
-    "fingerprint": "1c1ecb64ab565a12fe1bb3aca1e9f925",
-    "timestamp": 1779190976.549143,
-    "date": "2026-05-19T11:42:56.549144"
-  },
-  "https://www.techspot.com/news/112446-amazon-alexa-can-now-generate-podcasts-whatever-topic.html": {
-    "title": "Amazon's Alexa can now generate podcasts on whatever topic you want. But, will anyone listen?",
-    "fingerprint": "b0b788d6e69607f22cde48a1a446ef6a",
-    "timestamp": 1779190976.549297,
-    "date": "2026-05-19T11:42:56.549299"
-  },
-  "https://www.amazon.com/dp/B0863M7C1L": {
-    "title": "TP-Link's tiny 5-port Gigabit switch drops to just $9",
-    "fingerprint": "4008eb76ed5525387c9aa0289c89364f",
-    "timestamp": 1779190976.549436,
-    "date": "2026-05-19T11:42:56.549437"
-  },
-  "https://www.techspot.com/news/112442-arxiv-moves-combat-ai-slop-submissions-one-year.html": {
-    "title": "ArXiv will ban researchers for a year if they submit papers with AI slop",
-    "fingerprint": "8d2a12305acde0ec161c030ef485a982",
-    "timestamp": 1779190976.549602,
-    "date": "2026-05-19T11:42:56.549603"
-  },
-  "https://www.techspot.com/news/112444-terraria-celebrates-15-years-crafting-mining-survival.html": {
-    "title": "Terraria celebrates 15 years of crafting, mining, and survival",
-    "fingerprint": "605b47f1b6a133d559d285f1053068ad",
-    "timestamp": 1779190976.549769,
-    "date": "2026-05-19T11:42:56.549770"
-  },
-  "https://www.techspot.com/news/112437-researchers-unveil-nand-dram-hybrid-could-outperform-traditional.html": {
-    "title": "Researchers unveil NAND-DRAM hybrid that could outperform traditional memory",
-    "fingerprint": "bfb05b7afdd76e10904ead1d99c2ef8a",
-    "timestamp": 1779190976.549938,
-    "date": "2026-05-19T11:42:56.549938"
-  },
-  "https://www.techspot.com/news/112440-one-company-now-controls-more-than-4-total.html": {
-    "title": "One company now controls more than 4% of all Bitcoin",
-    "fingerprint": "9f0bbba7283bbb8df93704e2a44f2ede",
-    "timestamp": 1779190976.550068,
-    "date": "2026-05-19T11:42:56.550069"
-  },
-  "https://www.techspot.com/news/112438-dell-makes-strongest-case-keeping-ai-out-cloud.html": {
-    "title": "Dell makes its strongest case yet for keeping AI out of the cloud",
-    "fingerprint": "246a78053fb2789add599501fb5a7bf2",
-    "timestamp": 1779190976.550218,
-    "date": "2026-05-19T11:42:56.550219"
-  },
-  "https://www.techspot.com/specs/gpu/305058-amd-radeon-rx-9070-xt.html": {
-    "title": "AMD Radeon RX 9070 XT deal drops to $629 as GPU prices slowly cool off",
-    "fingerprint": "c7bf2f7618f70fda9d1f6c261409c741",
-    "timestamp": 1779190976.550365,
-    "date": "2026-05-19T11:42:56.550366"
-  },
-  "https://www.techspot.com/news/112431-windows-11-speed-boost-coming-soon-next-month.html": {
-    "title": "A Windows 11 speed boost is coming as soon as next month, along with a taskbar you can finally move",
-    "fingerprint": "51bb8c53ca7c452c42df9dc101ecf60c",
-    "timestamp": 1779190976.550522,
-    "date": "2026-05-19T11:42:56.550522"
-  },
-  "https://www.techspot.com/downloads/6871-discord.html": {
-    "title": "Discord improves Linux support with Steam Deck and distro-friendly upgrades",
-    "fingerprint": "4b573b08ff853e5d3e4e5e16c72721cc",
-    "timestamp": 1779190976.550677,
-    "date": "2026-05-19T11:42:56.550678"
-  },
-  "https://www.techspot.com/news/112436-forget-raspberry-pi-computer-literally-size-credit-card.html": {
-    "title": "Forget Raspberry Pi: this computer is the literally the size of a credit card",
-    "fingerprint": "3e511e6aaec642fbadba0df780c4caf8",
-    "timestamp": 1779190976.550859,
-    "date": "2026-05-19T11:42:56.550860"
-  },
-  "https://www.techspot.com/trivia/68-first-computer-mouse-how-many-buttons-did-have/": {
-    "title": "The first computer mouse: how many buttons did it have?",
-    "fingerprint": "9e2382980720c099ef9ef72aa5994823",
-    "timestamp": 1779190976.550981,
-    "date": "2026-05-19T11:42:56.550981"
-  },
-  "https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html": {
-    "title": "VMware Workstation Pro 26H1 brings broader Linux support and quality-of-life upgrades",
-    "fingerprint": "a0331716b8916edc658f80cede12805d",
-    "timestamp": 1779190976.551149,
-    "date": "2026-05-19T11:42:56.551150"
-  },
-  "https://www.techspot.com/news/112435-demand-japan-robotic-monster-wolves-explodes-amid-record.html": {
-    "title": "Japan is using $4,000 animatronic wolves to scare off bears, and can't make them fast enough",
-    "fingerprint": "7f7b04e06407553f0432306cb942f8d1",
-    "timestamp": 1779190976.551299,
-    "date": "2026-05-19T11:42:56.551300"
-  },
   "https://www.tomshardware.com/pc-components/cpus/intel-ceo-lip-bu-tan-stamps-out-chip-bugs-with-aggressive-new-quality-standards-says-major-validation-errors-can-result-in-termination-b0-you-keep-your-job-anything-above-that-you-are-fired": {
     "title": "Intel CEO Lip-Bu Tan stamps out chip bugs with aggressive new quality standards, says major validation errors can result in termination 'B0, you keep your job. Anything above that, you are fired'",
     "fingerprint": "8c8d8cf1641ee57ee49b6f7535d020e4",
@@ -5344,5 +5164,185 @@
     "fingerprint": "624f5cb425f77752130baf84f0d1138e",
     "timestamp": 1781700010.931805,
     "date": "2026-06-17T12:40:10.931806"
+  },
+  "https://www.tomshardware.com/pc-components/ssds/chinese-makers-of-dram-modules-ssds-have-a-serious-advantage-over-american-and-taiwanese-suppliers-says-smi-svp-state-guidance-secures-local-dram-and-ssd-supply-while-the-big-three-chase-ai-margins": {
+    "title": "Chinese makers of DRAM modules, SSDs have a serious advantage over American and Taiwanese suppliers, says SMI SVP state guidance secures local DRAM and SSD supply while the Big Three chase AI margins",
+    "fingerprint": "4914141a5cafd06bdaf3d1550ca2ee02",
+    "timestamp": 1781784332.612095,
+    "date": "2026-06-18T12:05:32.612100"
+  },
+  "https://www.tomshardware.com/tech-industry/cryptocurrency/digital-entrepreneur-creates-humorous-physical-nft-minting-device-using-a-raspberry-pi-in-quest-for-infinite-money-machine-contraption-trained-on-m3-macbook-can-generate-an-nft-in-3-seconds-has-so-far-sold-one-for-usd9-92": {
+    "title": "Digital entrepreneur creates humorous 'physical NFT minting device' using a Raspberry Pi in quest for 'infinite money machine' contraption trained on M3 MacBook can generate an NFT in 3 seconds, has so far sold one for $9.92",
+    "fingerprint": "413e788a8e00c247dd3302cf4e360ac0",
+    "timestamp": 1781784332.61223,
+    "date": "2026-06-18T12:05:32.612231"
+  },
+  "https://www.tomshardware.com/tech-industry/cyber-security/kaspersky-finds-malware-hidden-in-steam-wallpapers-that-hijacks-accounts-to-spread-itself": {
+    "title": "Kaspersky finds malware hidden in Steam Wallpaper Engine that hijacks accounts to spread itself dozens of malicious packages downloaded tens of thousands of times",
+    "fingerprint": "bd1c4b7d0bf7315393514e24c16f42c6",
+    "timestamp": 1781784332.612332,
+    "date": "2026-06-18T12:05:32.612332"
+  },
+  "https://www.tomshardware.com/tech-industry/cyber-security/frontier-airlines-site-leaks-all-personal-info-with-just-a-glance-at-a-boarding-pass-researcher-claims-booking-number-and-last-name-nets-you-every-passengers-personal-info-including-address-passport-tsa-precheck-and-most-credit-card-info": {
+    "title": "Frontier Airlines site leaks all personal info with just a glance at a boarding pass, researcher claims booking number and last name nets you every passenger's personal info, including address, passport, TSA PreCheck, and most credit card info",
+    "fingerprint": "41a801dcd626cc5c3d9540f18d980cc3",
+    "timestamp": 1781784332.61247,
+    "date": "2026-06-18T12:05:32.612470"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/intels-fab-roadmap-examined": {
+    "title": "Intel's fab roadmap examined Arizona, Ohio, Ireland, and the two deadlines deciding 14A process node",
+    "fingerprint": "54322b1128dadae5603557826c5a12c6",
+    "timestamp": 1781784332.612568,
+    "date": "2026-06-18T12:05:32.612569"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-pulls-the-kill-switch-on-anthropics-fable-5-ai-models-sending-global-allies-scrambling-european-and-canadian-leaders-alarm-allies-over-sudden-export-bans": {
+    "title": "US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling European and Canadian leaders alarm allies over sudden export bans",
+    "fingerprint": "95b5f897f70c4195bc3cd042853e5c03",
+    "timestamp": 1781784332.612677,
+    "date": "2026-06-18T12:05:32.612677"
+  },
+  "https://www.tomshardware.com/tech-industry/deepseek-was-set-to-be-added-to-us-entity-list-for-supporting-chinas-military-and-intelligence-operations-report-claims-white-house-holds-off-to-avoid-escalating-tensions-with-china": {
+    "title": "DeepSeek was set to be added to US Entity List for supporting China s military and intelligence operations, report claims White House holds off to avoid escalating tensions with China",
+    "fingerprint": "b88d77ddfa718af0036a68a98354d6f0",
+    "timestamp": 1781784332.612787,
+    "date": "2026-06-18T12:05:32.612788"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/nvidia-releases-rtx-remix-1-5-with-new-rtx-io-compression-reducing-mod-file-sizes-by-up-to-37-percent-update-also-adds-smooth-normals-and-rtx-remix-skills-agents": {
+    "title": "Nvidia releases RTX Remix 1.5 with new RTX IO compression reducing mod file sizes by up to 37% update also adds Smooth Normals and 'RTX Remix Skills' Agents",
+    "fingerprint": "2d0002bdeeaf3493209c0b769cb8472a",
+    "timestamp": 1781784332.612906,
+    "date": "2026-06-18T12:05:32.612907"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-build-brain-like-memory-device-for-ai-sensors-that-may-improve-energy-efficiency-phototransistor-device-combines-light-sensing-memory-and-processing-to-cut-data-movement": {
+    "title": "Researchers build brain-like memory device for AI sensors that may improve energy efficiency phototransistor device combines light sensing, memory, and processing to cut data movement",
+    "fingerprint": "ec1984160ea8d45e5b8592175bfe96f3",
+    "timestamp": 1781784332.613023,
+    "date": "2026-06-18T12:05:32.613023"
+  },
+  "https://www.tomshardware.com/networking/undersea-cable-connecting-egypt-and-syria-has-been-cut-damascus-blames-systematic-sabotage-campaign-as-cause-of-damage": {
+    "title": "Undersea cable connecting Egypt and Syria has been cut, state-owned telecom operator says Damascus blames 'systematic sabotage campaign' as cause of damage",
+    "fingerprint": "2fdc7b373666380c9471a7c1faba409e",
+    "timestamp": 1781784332.613129,
+    "date": "2026-06-18T12:05:32.613130"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/first-official-details-of-amds-next-gen-mustang-peak-threadripper-cpus-come-into-view-chips-feature-ddr5-pcie-6-0-and-a-new-socket": {
+    "title": "First official details of AMD's next-gen 'Mustang Peak' Threadripper CPUs come into view chips feature DDR5, PCIe 6.0, and a new socket",
+    "fingerprint": "3ccdb1b9864d10c187f44c584abe5e32",
+    "timestamp": 1781784332.613223,
+    "date": "2026-06-18T12:05:32.613224"
+  },
+  "https://www.cnx-software.com/2026/06/18/broadcom-fully-integrated-quad-core-wi-fi-8-access-point-socs-5g-fwa-router-reference-platform/": {
+    "title": "Broadcom unveils fully-integrated quad-core Wi-Fi 8 access point SoCs, 5G FWA router reference platform",
+    "fingerprint": "32a55576a303a1053ef449c0f90e40c1",
+    "timestamp": 1781784332.613827,
+    "date": "2026-06-18T12:05:32.613828"
+  },
+  "https://www.cnx-software.com/2026/06/18/rockchip-rk3539-quad-core-cortex-a55-soc-low-cost-android-14-4k-tv-stick/": {
+    "title": "Rockchip RK3539 quad-core Cortex-A55 SoC shows up in low-cost Android 14 4K TV stick with AV1 codec support",
+    "fingerprint": "8a7aa43c000bd0ed9b889e362b220d55",
+    "timestamp": 1781784332.613992,
+    "date": "2026-06-18T12:05:32.613993"
+  },
+  "https://www.fiercesensors.com/sensors/quest-better-chip-design-accelerates": {
+    "title": "The quest for better chip design accelerates",
+    "fingerprint": "f34681744747cbea3b5defa291a1f6c4",
+    "timestamp": 1781784332.615047,
+    "date": "2026-06-18T12:05:32.615050"
+  },
+  "https://www.fiercesensors.com/sensors/best-sensors-polar-id-aims-better-face-authentication": {
+    "title": "Best of Sensors: Polar ID aims for better face authentication",
+    "fingerprint": "c96ecc8d2f8153b10c6850bbd0ccd5dd",
+    "timestamp": 1781784332.615403,
+    "date": "2026-06-18T12:05:32.615405"
+  },
+  "https://www.techspot.com/news/112806-tim-cook-confirms-apple-price-hikes-coming-iphones.html": {
+    "title": "Tim Cook confirms Apple price hikes are coming, iPhones could jump $200 or more",
+    "fingerprint": "74019ff360f93733e6bdefdb1175b57b",
+    "timestamp": 1781784332.615647,
+    "date": "2026-06-18T12:05:32.615652"
+  },
+  "https://www.techspot.com/article/3113-replace-windows-default-apps/": {
+    "title": "Replace These 11 Default Apps in Windows 11",
+    "fingerprint": "3595310ac0defd682e0ea43c89c3473a",
+    "timestamp": 1781784332.615791,
+    "date": "2026-06-18T12:05:32.615792"
+  },
+  "https://www.techspot.com/news/112808-trump-apple-work-intel-build-chips-us.html": {
+    "title": "Trump says Apple will work with Intel to build chips in the US",
+    "fingerprint": "94659723d082c33057219ef60531915a",
+    "timestamp": 1781784332.615942,
+    "date": "2026-06-18T12:05:32.615943"
+  },
+  "https://www.techspot.com/news/112802-stop-killing-games-lost-biggest-battle-despite-13.html": {
+    "title": "Stop Killing Games lost its biggest battle despite 1.3 million signatures, but the fight isn't over",
+    "fingerprint": "35b173a5ed53e80e5970868ed5426bcd",
+    "timestamp": 1781784332.616087,
+    "date": "2026-06-18T12:05:32.616088"
+  },
+  "https://www.techspot.com/news/112803-firefox-has-ambitious-new-roadmap-browser-also-losing.html": {
+    "title": "Firefox has an ambitious new roadmap, the browser is also losing millions of users a month",
+    "fingerprint": "a3b3645d19d8c8d1a1564b19aed579f4",
+    "timestamp": 1781784332.616248,
+    "date": "2026-06-18T12:05:32.616249"
+  },
+  "https://www.techspot.com/downloads/7887-ab-download-manager.html": {
+    "title": "AB Download Manager is a free alternative to Internet Download Manager",
+    "fingerprint": "e45e7b3c5671c95d41f211fdc4eea32e",
+    "timestamp": 1781784332.616443,
+    "date": "2026-06-18T12:05:32.616444"
+  },
+  "https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html": {
+    "title": "Samsung's foundry is booming as TSMC struggles with demand bags Nvidia, Tesla, and Qualcomm as new clients",
+    "fingerprint": "66095ec841ea60d5b61ad83b85e83133",
+    "timestamp": 1781784332.616627,
+    "date": "2026-06-18T12:05:32.616628"
+  },
+  "https://www.techspot.com/news/112796-android-17-arrives-pixel-floating-apps-foldable-features.html": {
+    "title": "Android 17 arrives on Pixel with floating apps, foldable features, and new AI tools",
+    "fingerprint": "0a0131d421987c7af20a27304128c885",
+    "timestamp": 1781784332.616791,
+    "date": "2026-06-18T12:05:32.616792"
+  },
+  "https://www.techspot.com/news/112790-handheld-x86-mini-computer-heading-kickstarter-swappable-accessories.html": {
+    "title": "This handheld x86 mini-computer is heading to Kickstarter with swappable accessories and 4G LTE",
+    "fingerprint": "8c46f1408ae32d7be8c7a7082fff9301",
+    "timestamp": 1781784332.616951,
+    "date": "2026-06-18T12:05:32.616952"
+  },
+  "https://www.techspot.com/news/112794-openai-made-13-billion-2025-lost-21-billion.html": {
+    "title": "OpenAI made $13 billion in 2025 and lost $21 billion doing it",
+    "fingerprint": "9fd35f010f4e8353ee0c6d2b70ca31bb",
+    "timestamp": 1781784332.617117,
+    "date": "2026-06-18T12:05:32.617118"
+  },
+  "https://www.techspot.com/downloads/4718-google-chrome.html": {
+    "title": "Chrome update fixes 33 security flaws, including seven critical bugs",
+    "fingerprint": "1ecb96b7d43e25e070ce161c2f6e60ec",
+    "timestamp": 1781784332.617271,
+    "date": "2026-06-18T12:05:32.617272"
+  },
+  "https://www.techspot.com/news/112799-white-house-app-could-soon-auto-installed-every.html": {
+    "title": "The White House app could soon be auto-installed on every DHS work phone",
+    "fingerprint": "c479ff7d6e368cf3e06a47034108a9a5",
+    "timestamp": 1781784332.617409,
+    "date": "2026-06-18T12:05:32.617410"
+  },
+  "https://www.techspot.com/news/112792-apple-ai-hardware-roadmap-includes-camera-eqipped-airpods.html": {
+    "title": "Apple's AI hardware roadmap: camera-equipped AirPods, smart glasses, and foldable iPhones",
+    "fingerprint": "1edd6addea66d270011ab2d758ec30e5",
+    "timestamp": 1781784332.617586,
+    "date": "2026-06-18T12:05:32.617587"
+  },
+  "https://www.techspot.com/news/112797-microsoft-refreshes-surface-pro-surface-laptop-snapdragon-x2.html": {
+    "title": "Microsoft refreshes Surface Pro and Surface Laptop with Snapdragon X2 chips, longer battery life, and higher prices",
+    "fingerprint": "5c971dc0ce6230cc1ed6ad1036d5e706",
+    "timestamp": 1781784332.617742,
+    "date": "2026-06-18T12:05:32.617743"
+  },
+  "https://www.techspot.com/news/112789-retail-ssd-market-has-almost-disappeared-silicon-motion.html": {
+    "title": "\"The retail SSD market has almost disappeared,\" Silicon Motion says, as OEMs take what's left",
+    "fingerprint": "a220199033394b95e456c381bb08ced0",
+    "timestamp": 1781784332.617905,
+    "date": "2026-06-18T12:05:32.617907"
   }
 }

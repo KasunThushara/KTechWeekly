@@ -1,377 +1,348 @@
 [
   {
-    "title": "Save $500 on this Acer 16 Predator Helios Neo 16 IPS Gaming laptop just $1,499.99 gets you a powerful portable gaming rig with an RTX 5070, 32GB DDR5, and Intel Core Ultra 9 275 HX processor",
-    "summary": "Acer's Predator Helios Neo 16 IPS Gaming laptop is now available for $1,499.99, offering a powerful portable gaming rig with an RTX 5070, 32GB DDR5, and Intel Core Ultra 9 275 HX processor, representing a $500 discount from its original price.",
-    "link": "https://www.tomshardware.com/pc-components/save-usd500-on-this-acer-16-predator-helios-neo-16-ips-gaming-laptop-just-usd1-499-99-gets-you-a-powerful-portable-gaming-rig-with-an-rtx-5070-32gb-ddr5-and-intel-core-ultra-9-275-hx-processor",
+    "title": "Chinese makers of DRAM modules, SSDs have a serious advantage over American and Taiwanese suppliers, says SMI SVP state guidance secures local DRAM and SSD supply while the Big Three chase AI margins",
+    "summary": "Chinese DRAM and SSD producers may gain an advantage due to CCP directives. These directives can secure local supply and support the industry. This may allow them to compete with American and Taiwanese suppliers.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/chinese-makers-of-dram-modules-ssds-have-a-serious-advantage-over-american-and-taiwanese-suppliers-says-smi-svp-state-guidance-secures-local-dram-and-ssd-supply-while-the-big-three-chase-ai-margins",
     "categories": [
-      "Hardware",
-      "GPUs"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.926715",
-    "insight": "High-performance gaming at an affordable price point"
+    "processed_date": "2026-06-18T12:05:32.612107",
+    "insight": "CCP directives secure local DRAM and SSD supply advantage"
   },
   {
-    "title": "ViewSonic VX2738-2K 27-inch OLED review: An OLED value play",
-    "summary": "The ViewSonic VX2738-2K 27-inch OLED monitor provides high-performance gaming at a low price. It boasts 240 Hz, Adaptive-Sync, HDR, and Quantum Dot color for smooth, quick, and saturated visuals. This monitor is a great value for gamers seeking high-end features.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/viewsonic-vx2738-2k-27-inch-oled-review",
+    "title": "Digital entrepreneur creates humorous 'physical NFT minting device' using a Raspberry Pi in quest for 'infinite money machine' contraption trained on M3 MacBook can generate an NFT in 3 seconds, has so far sold one for $9.92",
+    "summary": "A young entrepreneur creates a portable NFT minting device using a Raspberry Pi, aiming to achieve wealth similar to Elon Musk.",
+    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/digital-entrepreneur-creates-humorous-physical-nft-minting-device-using-a-raspberry-pi-in-quest-for-infinite-money-machine-contraption-trained-on-m3-macbook-can-generate-an-nft-in-3-seconds-has-so-far-sold-one-for-usd9-92",
     "categories": [
-      "Hardware",
-      "Tech News"
+      "AI & ML",
+      "Hardware"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-06-17T12:40:10.926836",
-    "insight": "Affordable high-performance OLED gaming monitor with premium features"
+    "quality_score": 5,
+    "processed_date": "2026-06-18T12:05:32.612233",
+    "insight": "Decentralized and automated NFT creation can potentially disrupt art and collectible markets."
   },
   {
-    "title": "Nvidia reveals AI robots that taught themselves to install GPUs into motherboards video shows robot solve high-precision tasks like installing GPUs all by itself ",
-    "summary": "Nvidia showcases robots that can teach themselves high-precision tasks like installing GPUs. These agentic robots can perform real-world tasks with dexterity and precision. The technology has potential applications in various industries.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reveals-ai-robots-that-taught-themselves-to-install-gpus-into-motherboards-video-shows-robot-solve-high-precision-tasks-like-installing-gpus-all-by-itself",
+    "title": "Kaspersky finds malware hidden in Steam Wallpaper Engine that hijacks accounts to spread itself dozens of malicious packages downloaded tens of thousands of times",
+    "summary": "Malware was hidden in Steam Wallpaper Engine, hijacking user accounts to spread itself. Dozens of malicious packages were downloaded tens of thousands of times. Kaspersky discovered the malware after several months of smuggling.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/kaspersky-finds-malware-hidden-in-steam-wallpapers-that-hijacks-accounts-to-spread-itself",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-18T12:05:32.612334",
+    "insight": "Malicious content can hide in seemingly harmless digital assets"
+  },
+  {
+    "title": "Frontier Airlines site leaks all personal info with just a glance at a boarding pass, researcher claims booking number and last name nets you every passenger's personal info, including address, passport, TSA PreCheck, and most credit card info",
+    "summary": "Frontier Airlines' website exposes passengers' personal information with minimal details, including address, passport, and credit card info, raising concerns over data security and privacy.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/frontier-airlines-site-leaks-all-personal-info-with-just-a-glance-at-a-boarding-pass-researcher-claims-booking-number-and-last-name-nets-you-every-passengers-personal-info-including-address-passport-tsa-precheck-and-most-credit-card-info",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-18T12:05:32.612472",
+    "insight": "Sensitive passenger data vulnerable to unauthorized access via booking number and last name."
+  },
+  {
+    "title": "Intel's fab roadmap examined Arizona, Ohio, Ireland, and the two deadlines deciding 14A process node",
+    "summary": "Intel's fab roadmap outlines expansions in Arizona, Ohio, Ireland, focusing on 14A process node production capacity. The roadmap sets two key deadlines for achieving this goal, emphasizing the company's ongoing efforts to increase its manufacturing capabilities. This expansion aims to meet growing demand for semiconductors.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intels-fab-roadmap-examined",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-18T12:05:32.612571",
+    "insight": "Intel invests $100 billion in US to secure future chip supply."
+  },
+  {
+    "title": "US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling European and Canadian leaders alarm allies over sudden export bans",
+    "summary": "The US blocks Anthropic's Fable 5 AI models, sparking global concern and alarm. World leaders worry about developing national alternatives due to export bans. This move may lead to a fragmented AI landscape.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-pulls-the-kill-switch-on-anthropics-fable-5-ai-models-sending-global-allies-scrambling-european-and-canadian-leaders-alarm-allies-over-sudden-export-bans",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-18T12:05:32.612679",
+    "insight": "US AI export controls spark global AI fragmentation fears"
+  },
+  {
+    "title": "DeepSeek was set to be added to US Entity List for supporting China s military and intelligence operations, report claims White House holds off to avoid escalating tensions with China",
+    "summary": "DeepSeek and CXMT are set to be added to the US Entity List due to their alleged ties to Chinese military and intelligence operations. The White House has delayed the move to avoid escalating tensions with Beijing. This decision has significant implications for US-China trade relations.",
+    "link": "https://www.tomshardware.com/tech-industry/deepseek-was-set-to-be-added-to-us-entity-list-for-supporting-chinas-military-and-intelligence-operations-report-claims-white-house-holds-off-to-avoid-escalating-tensions-with-china",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-18T12:05:32.612789",
+    "insight": "US avoids escalating tensions with China over trade restrictions"
+  },
+  {
+    "title": "Nvidia releases RTX Remix 1.5 with new RTX IO compression reducing mod file sizes by up to 37% update also adds Smooth Normals and 'RTX Remix Skills' Agents",
+    "summary": "Nvidia's RTX Remix 1.5 update introduces new features including RTX IO compression, which reduces mod file sizes by up to 37%, as well as Smooth Normals and 'RTX Remix Skills' Agents to enhance modding capabilities.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-releases-rtx-remix-1-5-with-new-rtx-io-compression-reducing-mod-file-sizes-by-up-to-37-percent-update-also-adds-smooth-normals-and-rtx-remix-skills-agents",
     "categories": [
       "GPUs",
-      "Hardware"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.926952",
-    "insight": "Autonomous robots can automate complex, high-precision tasks with minimal human oversight."
+    "processed_date": "2026-06-18T12:05:32.612909",
+    "insight": "Improved modding efficiency through significant file size reduction efforts."
   },
   {
-    "title": "U.S. gov't asks court to dismiss NAACP lawsuit against Elon Musk's xAI over use of unpermitted gas turbines DOJ says Grok model running at Colossus 2 supports mission-critical operations ",
-    "summary": "The US government seeks dismissal of a NAACP lawsuit against xAI over Colossus 2 operations, citing national security concerns.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/u-s-govt-asks-court-to-dismiss-naacp-lawsuit-against-elon-musks-xai-over-use-of-unpermitted-gas-turbines-doj-says-grok-model-running-at-colossus-2-supports-mission-critical-operations",
+    "title": "Researchers build brain-like memory device for AI sensors that may improve energy efficiency phototransistor device combines light sensing, memory, and processing to cut data movement",
+    "summary": "Oregon State University researchers created a brain-inspired phototransistor combining light sensing, memory, and processing. This device can control the persistence of optical memories, potentially improving energy efficiency in AI systems. The innovation aims to reduce data movement and enhance AI vision capabilities.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-build-brain-like-memory-device-for-ai-sensors-that-may-improve-energy-efficiency-phototransistor-device-combines-light-sensing-memory-and-processing-to-cut-data-movement",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-18T12:05:32.613025",
+    "insight": "Optical memory control enhances AI energy efficiency and vision capabilities."
+  },
+  {
+    "title": "Undersea cable connecting Egypt and Syria has been cut, state-owned telecom operator says Damascus blames 'systematic sabotage campaign' as cause of damage",
+    "summary": "An undersea cable connecting Egypt and Syria has been damaged, prompting accusations of sabotage. The Syrian government blames a 'systematic sabotage campaign' for the damage, without naming a specific entity. The cable's location makes it a prime target for disruption.",
+    "link": "https://www.tomshardware.com/networking/undersea-cable-connecting-egypt-and-syria-has-been-cut-damascus-blames-systematic-sabotage-campaign-as-cause-of-damage",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.927090",
-    "insight": "National security interests take precedence over environmental and social concerns in this case."
+    "processed_date": "2026-06-18T12:05:32.613131",
+    "insight": "High-stakes geopolitics in the Middle East escalate with undersea sabotage"
   },
   {
-    "title": "SMI says Nvidia is driving its consumer PCIe 6.0 roadmap, not AMD and Intel RTX Spark agentic AI platform fuels a hunger for storage bandwidth",
-    "summary": "Nvidia may lead in PCIe Gen6 client PC platforms, influencing suppliers like Silicon Motion.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/silicon-motions-client-pcie-6-x-roadmap-is-driven-by-nvidia-not-by-amd-and-intel-rtx-spark-agentic-ai-platform-could-fuel-a-hunger-for-storage-bandwidth",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.927215",
-    "insight": "Nvidia's AI ambitions drive its PCIe 6.0 roadmap ahead of competitors"
-  },
-  {
-    "title": "AMD silently removes memory encryption from consumer Ryzen CPUs, leaving users unaware that they may be vulnerable security feature vanishes after newer AGESA firmware, AMD engineers go radio silent when pressed about the change",
-    "summary": "AMD has reportedly removed TSME, a memory-encryption feature, from consumer Ryzen CPUs. Newer AGESA firmware disables the feature, leaving users vulnerable. Pro and EPYC CPUs remain unaffected.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.927343",
-    "insight": "Security feature removal compromises sensitive data, risking user confidentiality and integrity."
-  },
-  {
-    "title": "Chinese memory brands ditch Samsung and Micron for homegrown CXMT and YMTC silicon Corsair, HP, and Dell are already adopting the China-produced DDR5 chips",
-    "summary": "Chinese memory brands Gloway and KingBank are adopting homegrown silicon from CXMT and YMTC to produce DDR5 memory kits, replacing foreign DRAM suppliers like Samsung, Micron, and SK hynix.",
-    "link": "https://www.tomshardware.com/pc-components/ram/chinese-memory-vendors-snub-industry-giants-in-favor-of-homegrown-ram-chips-samsung-micron-and-sk-hynix-face-a-chinese-supply-chain-revolt",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.927451",
-    "insight": "China's memory industry is rapidly reducing reliance on foreign suppliers."
-  },
-  {
-    "title": "Intel s performance-enhanced 18A-P process enters risk production drop-in 18A upgrade promises 9% performance improvement at iso-power, cuts thermal resistance by 40%",
-    "summary": "Intel's enhanced 18A-P process has entered risk production, setting stage for full production ramp-up. This process promises a 9% performance improvement at iso-power and reduces thermal resistance by 40%. The upgrade aims to enhance overall system performance and efficiency.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intels-performance-enhanced-18a-p-process-enters-risk-production-enhanced-node-promises-9-percent-performance-improvement-at-iso-power",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-17T12:40:10.927558",
-    "insight": "Enhanced performance and reduced thermal resistance boost system efficiency."
-  },
-  {
-    "title": "Dell's $699 XPS 13 laptop is now available with the MacBook Neo in its sights entry-level XPS design comes with Wildcat Lake, 8GB of RAM, and a 512GB SSD",
-    "summary": "Dell's $699 XPS 13 now available with Wildcat Lake CPU, 8GB RAM, and 512GB SSD.",
-    "link": "https://www.tomshardware.com/laptops/dells-usd699-xps-13-laptop-is-now-available-with-the-macbook-neo-in-its-sights-entry-level-xps-design-comes-with-wildcat-lake-8gb-of-ram-and-a-512gb-ssd",
+    "title": "First official details of AMD's next-gen 'Mustang Peak' Threadripper CPUs come into view chips feature DDR5, PCIe 6.0, and a new socket",
+    "summary": "AMD's next-gen 'Mustang Peak' Threadripper CPUs feature DDR5 and PCIe 6.0, with a new socket. The CPUs are based on the Zen 6 architecture, indicating significant performance improvements. This marks a significant upgrade for AMD's high-end desktop lineup.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/first-official-details-of-amds-next-gen-mustang-peak-threadripper-cpus-come-into-view-chips-feature-ddr5-pcie-6-0-and-a-new-socket",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.927692",
-    "insight": "Dell's budget laptop challenges Apple's MacBook Neo market dominance"
+    "processed_date": "2026-06-18T12:05:32.613225",
+    "insight": "Enhanced performance and compatibility for high-end desktop applications"
   },
   {
-    "title": "SanDisk Optimus GX Pro 8100 8TB SSD Review the undisputed king of high-capacity PCIe 5.0 SSDs",
-    "summary": "The SanDisk Optimus GX Pro 8100 excels in performance and efficiency. With its high-capacity PCIe 5.0 capabilities, it meets the demands of data-intensive workloads. However, its price might be a limiting factor.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/sandisk-optimus-gx-pro-8100-8tb-ssd-review",
+    "title": "Broadcom unveils fully-integrated quad-core Wi-Fi 8 access point SoCs, 5G FWA router reference platform",
+    "summary": "Broadcom has launched three new fully-integrated quad-core Wi-Fi 8 access point SoCs, which offer improved performance and efficiency. The BCM6772 is for mass-market Ethernet routers, the BCM6774 for high-volume Ethernet routers, and the BCM6776 for premium Ethernet tri-band routers. The BCM6776 is also part of a 5G FWA router platform.",
+    "link": "https://www.cnx-software.com/2026/06/18/broadcom-fully-integrated-quad-core-wi-fi-8-access-point-socs-5g-fwa-router-reference-platform/",
     "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-17T12:40:10.927800",
-    "insight": "Unmatched performance for high-capacity data-intensive workloads requires significant investment"
-  },
-  {
-    "title": "Logitech's new G305 X Superlight weighs just 59 grams and costs $79 company also releases hot-swappable G316 X 98 keyboard with pixel display, translucent control knob",
-    "summary": "Logitech releases the G305 X Superlight mouse and G316 X 98 keyboard, both designed for gaming performance and customization.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-mice/logitechs-new-g305-x-superlight-weighs-just-59-grams-and-costs-usd79-company-also-releases-new-hot-swappable-g316-x-98-keyboard",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.927928",
-    "insight": "Logitech enhances gaming peripherals for competitive players with high-performance features."
-  },
-  {
-    "title": "'The retail SSD market has almost disappeared,' says Silicon Motion exec PC OEMs are buying third-party drives as direct NAND supply dries up",
-    "summary": "The retail SSD market is dwindling as NAND suppliers focus on AI data centers. PC OEMs are now purchasing third-party SSDs due to the direct NAND supply shortage. This shift is impacting the availability of retail SSDs.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/the-retail-ssd-market-has-almost-disappeared-says-silicon-motion-exec-pc-oems-are-buying-third-party-drives-as-direct-nand-supply-dries-up",
-    "categories": [
-      "AI & ML",
+      "Semiconductors",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.928036",
-    "insight": "NAND manufacturers prioritize AI data centers over retail SSD demand"
+    "quality_score": 10,
+    "processed_date": "2026-06-18T12:05:32.613830",
+    "insight": "Fully-integrated Wi-Fi 8 SoCs enable more efficient and high-performance routers."
   },
   {
-    "title": "Chinese fab SMIC's 7nm metal pitch beats Intel 18A but lags 38% on density, teardown finds Huawei's sanctions-beating HiSilicon Kirin 9030 is the first subject of SemiAnalysis's new teardown lab",
-    "summary": "SMIC's 7nm metal pitch is 32.5nm, beating Intel's 18A but lagging in density.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/semianalysis-opens-its-own-chip-teardown-lab",
+    "title": "Rockchip RK3539 quad-core Cortex-A55 SoC shows up in low-cost Android 14 4K TV stick with AV1 codec support",
+    "summary": "The HS89 T15 TV stick features a Rockchip RK3539 SoC, offering 4K video capabilities and Android 14 support.",
+    "link": "https://www.cnx-software.com/2026/06/18/rockchip-rk3539-quad-core-cortex-a55-soc-low-cost-android-14-4k-tv-stick/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-18T12:05:32.613994",
+    "insight": "Affordable 4K streaming with AV1 codec support becomes a reality."
+  },
+  {
+    "title": "The quest for better chip design accelerates",
+    "summary": "Synopsys announces Multiphysics Fusion products to improve chip design efficiency, reducing respins and costs.",
+    "link": "https://www.fiercesensors.com/sensors/quest-better-chip-design-accelerates",
     "categories": [
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-17T12:40:10.928141",
-    "insight": "Advancements in Chinese fab technology narrow global semiconductor gap."
+    "quality_score": 0,
+    "processed_date": "2026-06-18T12:05:32.615054",
+    "insight": "Optimized chip design saves time and reduces costly redesigns."
   },
   {
-    "title": "Noctua finally releases its first AIO coolers prices start at $220 for 240mm, features the company s legendary A-series fans",
-    "summary": "Noctua releases its NL-LC1 AIO coolers with prices starting at $219.95. The 240mm option includes an optional 80mm auxiliary fan. This aims to enhance cooling performance in PCs.",
-    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/noctua-finally-releases-its-first-aio-coolers-prices-start-at-usd220-for-240mm-features-the-companys-legendary-a-series-fans",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.928248",
-    "insight": "Noctua combines legendary fans with AIO coolers for optimal performance."
-  },
-  {
-    "title": "18 funky tech gift ideas for Father's Day 2026 get something a little different for dad this year",
-    "summary": "Celebrate Father's Day by getting your dad a unique tech gift, showcasing your creativity and thoughtfulness. Consider his interests and hobbies when selecting a gift. This will make the gift even more special and meaningful.",
-    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/18-funky-tech-gift-ideas-for-fathers-day-2026-get-something-a-little-different-for-dad-this-year",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.928342",
-    "insight": "Personalized tech gifts show dad you care about his passions."
-  },
-  {
-    "title": "SMI's PCIe 6.0 SSD controller for consumer SSDs coming next year, but severe NAND shortages will get even worse in 2027 as AI data centers swallow supply An interview with Silicon Motion's SVP Nelson Duann",
-    "summary": "Silicon Motion's SVP Nelson Duann discusses the NAND supply crisis and future consumer storage trends.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/smis-pcie-6-0-ssd-controller-for-consumer-ssds-coming-next-year-but-severe-nand-shortages-will-get-even-worse-in-2027-as-ai-data-centers-swallow-supply-an-interview-with-silicon-motions-svp-nelson-duann",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.928451",
-    "insight": "NAND shortages worsen due to AI data centers' expanding demand."
-  },
-  {
-    "title": "Zhihe A210 octa-core RISC-V SoC with 12 TOPS NPU powers SoM-based development board",
-    "summary": "The Zhihe A210 is an octa-core RISC-V SoC with a 12 TOPS NPU, featuring 4x 64-bit RISC-V C920 cores at up to 2.3 GHz. This SoC powers a SoM-based development board, offering improved performance and AI capabilities. The A210 SODIMM V2 development kit is available for testing and development.",
-    "link": "https://www.cnx-software.com/2026/06/17/zhihe-a210-octa-core-risc-v-soc-with-12-tops-npu-powers-som-based-development-board/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 30,
-    "processed_date": "2026-06-17T12:40:10.928954",
-    "insight": "High-performance RISC-V SoC boosts AI capabilities and processing power."
-  },
-  {
-    "title": "Amlogic A311Y3 octa-core Edge AI SoC features Cortex-A78/A55 cores, 8 TOPS NPU, LPDDR5 support",
-    "summary": "Amlogic introduces the A311Y3 Edge AI SoC with 6nm Cortex-A78/A55 cores and 8 TOPS NPU.",
-    "link": "https://www.cnx-software.com/2026/06/17/amlogic-a311y3-octa-core-edge-ai-soc-features-cortex-a78-a55-cores-8-tops-npu-lpddr5-support/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-06-17T12:40:10.929125",
-    "insight": "Amlogic A311Y3 enhances edge AI capabilities with improved CPU and NPU performance."
-  },
-  {
-    "title": "SCINTIX P4 ESP32-P4 Compute Module works with (some) Raspberry Pi CM4/CM5 carrier boards (Crowdfunding)",
-    "summary": "The SCINTIX P4 is an ESP32-P4 Compute Module compatible with some Raspberry Pi CM4/CM5 carrier boards, offering wireless connectivity and access to various peripherals. It features a dual-core RISC-V CPU and supports programming in standalone mode. The module is currently available through crowdfunding.",
-    "link": "https://www.cnx-software.com/2026/06/17/scintix-p4-esp32-p4-compute-module-raspberry-pi-cm4-cm5-carrier-boards/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-17T12:40:10.929294",
-    "insight": "First MCU-based system-on-module for Raspberry Pi CM4/CM5 form factor"
-  },
-  {
-    "title": "Snap says its $2,195 Specs are AR glasses for the post-smartphone era",
-    "summary": "Snap introduces Specs, AR glasses for the post-smartphone era, available for pre-order with a $200 refundable deposit. Specs are expected to ship this fall in the US, UK, and France. This marks a significant step in the evolution of augmented reality.",
-    "link": "https://www.techspot.com/news/112795-snap-2195-specs-ar-glasses-post-smartphone-era.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.930446",
-    "insight": "Marking a shift from smartphones to immersive, wearable technology experiences."
-  },
-  {
-    "title": "AMD quietly disabled RAM encryption on some consumer Ryzen CPUs and users want to know why",
-    "summary": "AMD disabled RAM encryption on some Ryzen CPUs without user notification, sparking concerns about data security.",
-    "link": "https://www.techspot.com/news/112791-amd-quietly-disabled-ram-encryption-consumer-ryzen-cpus.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-17T12:40:10.930563",
-    "insight": "Users rely on hardware security features for sensitive data protection."
-  },
-  {
-    "title": "Sony patents PlayStation controller buttons that get harder, softer, and grab your fingers as you play",
-    "summary": "Sony has patented a PlayStation controller with adaptive buttons that change hardness and grip as you play, potentially enhancing player experience and interaction.",
-    "link": "https://www.techspot.com/news/112793-sony-patents-playstation-controller-buttons-get-harder-softer.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.930695",
-    "insight": "Innovative haptic feedback technology redefines gaming controller interaction."
-  },
-  {
-    "title": "AMD Zen 6 desktop CPUs may ditch integrated graphics for a built-in NPU",
-    "summary": "AMD's Zen 6 'Morpheus' processors may abandon integrated graphics for a built-in NPU, marking a significant shift in the architecture.",
-    "link": "https://www.techspot.com/news/112788-amd-zen-6-desktop-cpus-may-ditch-integrated.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.930811",
-    "insight": "Integrated graphics replacement with NPU enhances AI capabilities significantly."
-  },
-  {
-    "title": "The \"Made in America\" Trump phone is just a reskinned HTC U24 built in China",
-    "summary": "A teardown of the Trump Mobile T1 revealed it's an HTC U24 Pro with minor cosmetic changes. The phone's manufacturing origins contradict Trump Mobile's original claim of being American-made. This settles suspicions raised earlier this year.",
-    "link": "https://www.techspot.com/news/112785-made-america-trump-phone-reskinned-htc-u24-built.html",
+    "title": "Best of Sensors: Polar ID aims for better face authentication",
+    "summary": "Polar ID from Metalenz uses polarization image data to enhance face authentication, offering improved cost and performance compared to conventional methods.",
+    "link": "https://www.fiercesensors.com/sensors/best-sensors-polar-id-aims-better-face-authentication",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.930921",
-    "insight": "False advertising undermines American manufacturing claims with a Trump-branded phone."
+    "processed_date": "2026-06-18T12:05:32.615408",
+    "insight": "Advanced polarization technology boosts face authentication accuracy and efficiency."
   },
   {
-    "title": "Microsoft Teams is getting Wi-Fi location \"check-in,\" but it's less creepy than it sounds",
-    "summary": "Microsoft Teams is introducing a Wi-Fi location 'check-in' feature, allowing users to control their location settings. The feature will provide employees' physical locations to their organizations. Microsoft has clarified how this feature will work and be managed.",
-    "link": "https://www.techspot.com/news/112774-microsoft-teams-use-wi-fi-determine-employee-location.html",
+    "title": "Tim Cook confirms Apple price hikes are coming, iPhones could jump $200 or more",
+    "summary": "Apple CEO Tim Cook warns of impending price hikes due to rising memory costs.",
+    "link": "https://www.techspot.com/news/112806-tim-cook-confirms-apple-price-hikes-coming-iphones.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.931034",
-    "insight": "Location tracking in Teams is an extension, not a new layer of surveillance."
+    "processed_date": "2026-06-18T12:05:32.615655",
+    "insight": "Rising memory costs force Apple to consider significant iPhone price jumps."
   },
   {
-    "title": "Noctua launches its first AIO liquid CPU coolers with a range of radiator sizes",
-    "summary": "Noctua's new AIO liquid CPU coolers feature a three-layer acoustic soundproofing structure and a pump speed toggle for improved performance and quiet operation.",
-    "link": "https://www.techspot.com/news/112786-noctua-launches-first-aio-liquid-cpu-coolers-range.html",
+    "title": "Replace These 11 Default Apps in Windows 11",
+    "summary": "Windows 11 users can replace default apps with more capable alternatives to enhance their experience. Replacing apps such as Photos, Maps, and Clock can provide improved functionality and features. Users can benefit from more comprehensive apps.",
+    "link": "https://www.techspot.com/article/3113-replace-windows-default-apps/",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-18T12:05:32.615794",
+    "insight": "Upgrade Windows 11 with better, more feature-rich default apps"
+  },
+  {
+    "title": "Trump says Apple will work with Intel to build chips in the US",
+    "summary": "Trump announces Apple will collaborate with Intel to build US-based chips.",
+    "link": "https://www.techspot.com/news/112808-trump-apple-work-intel-build-chips-us.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-18T12:05:32.615945",
+    "insight": "Boosting US chip manufacturing could strengthen national economic security."
+  },
+  {
+    "title": "Stop Killing Games lost its biggest battle despite 1.3 million signatures, but the fight isn't over",
+    "summary": "The European Commission rejected a petition with 1.3 million signatures to ban permanent game unplayability.",
+    "link": "https://www.techspot.com/news/112802-stop-killing-games-lost-biggest-battle-despite-13.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-18T12:05:32.616090",
+    "insight": "Gamers' rights and consumer protection are being undermined by industry practices."
+  },
+  {
+    "title": "Firefox has an ambitious new roadmap, the browser is also losing millions of users a month",
+    "summary": "Mozilla is innovating Firefox with new features, but the browser is losing users. Despite this, the company has published a roadmap outlining upcoming changes. The browser's growth concerns are a major challenge for the company.",
+    "link": "https://www.techspot.com/news/112803-firefox-has-ambitious-new-roadmap-browser-also-losing.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-18T12:05:32.616251",
+    "insight": "Firefox's user decline highlights Mozilla's struggles to compete in the market."
+  },
+  {
+    "title": "AB Download Manager is a free alternative to Internet Download Manager",
+    "summary": "AB Download Manager is a free, open-source download accelerator and manager. It supports download acceleration, queue management, and pause/resume features. Available for Windows, macOS, and Linux.",
+    "link": "https://www.techspot.com/downloads/7887-ab-download-manager.html",
     "categories": [
       "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-17T12:40:10.931149",
-    "insight": "Innovative soundproofing technology enhances cooling performance and reduces noise."
-  },
-  {
-    "title": "Commodore's Callback 8020 is a $499 flip phone that blocks social media and browsers",
-    "summary": "The Commodore Callback 8020 is a $499 flip phone that blocks social media and browsers, positioning itself between a basic feature phone and a full Android device.",
-    "link": "https://www.techspot.com/news/112781-commodore-callback-8020-499-flip-phone-blocks-social.html",
-    "categories": [
-      "Tech News"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.931245",
-    "insight": "Reviving the 'dumb phone' concept with a modern, high-end twist"
+    "processed_date": "2026-06-18T12:05:32.616447",
+    "insight": "Free alternative to expensive download managers like Internet Download Manager"
   },
   {
-    "title": "Firefox adds new tab tools, JPEG XL, cleaner Settings page",
-    "summary": "Firefox 152 brings new tab tools, a refreshed Settings page, and JPEG XL support.",
-    "link": "https://www.techspot.com/downloads/19-mozilla-firefox.html",
+    "title": "Samsung's foundry is booming as TSMC struggles with demand bags Nvidia, Tesla, and Qualcomm as new clients",
+    "summary": "Samsung Foundry is gaining new clients, including Nvidia, Tesla, and Qualcomm, as it manufactures advanced semiconductor chips. This shift comes after some companies previously worked exclusively with TSMC. Samsung's foundry is booming due to increased demand.",
+    "link": "https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html",
     "categories": [
-      "Tech News"
+      "Semiconductors",
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.931348",
-    "insight": "Improved browser usability and performance with enhanced features."
+    "processed_date": "2026-06-18T12:05:32.616631",
+    "insight": "Samsung gains market share from struggling TSMC demand."
   },
   {
-    "title": "Microsoft is making Windows 11 updates require just one reboot instead of several",
-    "summary": "Microsoft is updating Windows 11 to require a single reboot for all updates.",
-    "link": "https://www.techspot.com/news/112782-microsoft-making-windows-11-updates-require-one-reboot.html",
+    "title": "Android 17 arrives on Pixel with floating apps, foldable features, and new AI tools",
+    "summary": "Android 17 brings floating apps, foldable features, and AI tools to Pixel phones, building upon Google's customized version of the operating system.",
+    "link": "https://www.techspot.com/news/112796-android-17-arrives-pixel-floating-apps-foldable-features.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-18T12:05:32.616794",
+    "insight": "Context-dependent Android updates reveal the evolving role of Google's services layer."
+  },
+  {
+    "title": "This handheld x86 mini-computer is heading to Kickstarter with swappable accessories and 4G LTE",
+    "summary": "Mogozen's CG Deck is a handheld x86 mini-computer with swappable accessories and 4G LTE. It offers customization options and compatibility with various operating systems. A crowdfunding campaign is planned on Kickstarter.",
+    "link": "https://www.techspot.com/news/112790-handheld-x86-mini-computer-heading-kickstarter-swappable-accessories.html",
     "categories": [
       "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-18T12:05:32.616954",
+    "insight": "Potential game-changer for portable computing with x86 performance and LTE connectivity"
+  },
+  {
+    "title": "OpenAI made $13 billion in 2025 and lost $21 billion doing it",
+    "summary": "OpenAI's revenue surged from $3.7 billion in 2024 to $13.07 billion in 2025, driven by rapid growth in demand for its AI products, particularly ChatGPT, which now has over 900 million weekly users.",
+    "link": "https://www.techspot.com/news/112794-openai-made-13-billion-2025-lost-21-billion.html",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.931460",
-    "insight": "Smaller system downtime improves user productivity and efficiency significantly."
+    "processed_date": "2026-06-18T12:05:32.617120",
+    "insight": "Massive revenue growth comes with significant financial risk and volatility."
   },
   {
-    "title": "SpaceX acquires AI coding startup Cursor for $60 billion, days after record IPO",
-    "summary": "SpaceX acquires Cursor for $60 billion, capitalizing on its post-IPO stock surge.",
-    "link": "https://www.techspot.com/news/112784-spacex-acquires-ai-coding-startup-cursor-60-billion.html",
+    "title": "Chrome update fixes 33 security flaws, including seven critical bugs",
+    "summary": "Google Chrome's latest update (149.0.7827.156) fixes 33 security flaws, including 7 critical bugs.",
+    "link": "https://www.techspot.com/downloads/4718-google-chrome.html",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.931570",
-    "insight": "SpaceX leverages inflated stock value to seal strategic AI acquisition."
+    "processed_date": "2026-06-18T12:05:32.617274",
+    "insight": "Vulnerabilities pose significant risk to billions of Chrome users worldwide."
   },
   {
-    "title": "Logitech completes G3 lineup with budget gaming keyboard and mouse",
-    "summary": "Logitech introduces the G305 X Superlight, a budget gaming mouse with improved features. Priced at $79.99, it offers an updated sensor, scroll wheel, and RGB lighting. The device supports up to five on-board profiles for customization.",
-    "link": "https://www.techspot.com/news/112783-logitech-completes-g3-lineup-budget-gaming-keyboard-mouse.html",
+    "title": "The White House app could soon be auto-installed on every DHS work phone",
+    "summary": "The White House app may be auto-installed on DHS work phones, offering access to official communications and updates.",
+    "link": "https://www.techspot.com/news/112799-white-house-app-could-soon-auto-installed-every.html",
     "categories": [
-      "Hardware",
-      "GPUs"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.931705",
-    "insight": "Mid-range gaming peripherals offer affordable high-performance options for gamers."
+    "processed_date": "2026-06-18T12:05:32.617412",
+    "insight": "Monitoring government communications could increase surveillance of DHS employees and contractors."
   },
   {
-    "title": "UK confirms social media ban for kids is coming Meta, YouTube, and Snapchat respond",
-    "summary": "The UK confirms plans to ban social media for users under 16, following the lead of other countries like Australia.",
-    "link": "https://www.techspot.com/news/112780-uk-confirms-under-16-social-media-ban-2027.html",
+    "title": "Apple's AI hardware roadmap: camera-equipped AirPods, smart glasses, and foldable iPhones",
+    "summary": "Apple plans to launch camera-equipped AirPods, smart glasses, and foldable iPhones. The AirPods with cameras, code-named B798, is now slated for a 2027 release. The product lineup marks a significant shift in Apple's AI hardware strategy.",
+    "link": "https://www.techspot.com/news/112792-apple-ai-hardware-roadmap-includes-camera-eqipped-airpods.html",
     "categories": [
+      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-17T12:40:10.931807",
-    "insight": "Protecting children's mental health and well-being is a top priority worldwide."
+    "processed_date": "2026-06-18T12:05:32.617589",
+    "insight": "Apple's AI hardware roadmap expands beyond smartphones."
+  },
+  {
+    "title": "Microsoft refreshes Surface Pro and Surface Laptop with Snapdragon X2 chips, longer battery life, and higher prices",
+    "summary": "Microsoft has updated the Surface Pro and Surface Laptop with new features, including Snapdragon X2 chips and longer battery life, but also higher prices.",
+    "link": "https://www.techspot.com/news/112797-microsoft-refreshes-surface-pro-surface-laptop-snapdragon-x2.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-18T12:05:32.617745",
+    "insight": "Microsoft prioritizes performance and battery life over affordability with new Surface updates."
+  },
+  {
+    "title": "\"The retail SSD market has almost disappeared,\" Silicon Motion says, as OEMs take what's left",
+    "summary": "The retail SSD market has dwindled due to NAND shortages. Silicon Motion's SSD controllers, previously sold in retail drives, now primarily go to OEMs. This shift affects the availability of SSDs for direct-to-consumer sales.",
+    "link": "https://www.techspot.com/news/112789-retail-ssd-market-has-almost-disappeared-silicon-motion.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-18T12:05:32.617909",
+    "insight": "NAND shortages devastate retail SSD market, favoring OEM sales instead"
   }
 ]

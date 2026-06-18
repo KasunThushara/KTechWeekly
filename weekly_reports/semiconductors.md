@@ -1,45 +1,95 @@
 # ⚡ Semiconductors
-**Week of June 17, 2026**
+**Week of June 18, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 3
-- **Report generated:** 2026-06-17 12:41
+- **Articles this week:** 8
+- **Report generated:** 2026-06-18 12:06
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Chinese fab SMIC's 7nm metal pitch beats Intel 18A but lags 38% on density, teardown finds Huawei's sanctions-beating HiSilicon Kirin 9030 is the first subject of SemiAnalysis's new teardown lab 
+### 1. Intel's fab roadmap examined Arizona, Ohio, Ireland, and the two deadlines deciding 14A process node 
 
-SMIC's 7nm metal pitch is 32.5nm, beating Intel's 18A but lagging in density.
+Intel's fab roadmap outlines expansions in Arizona, Ohio, Ireland, focusing on 14A process node production capacity. The roadmap sets two key deadlines for achieving this goal, emphasizing the company's ongoing efforts to increase its manufacturing capabilities. This expansion aims to meet growing demand for semiconductors.
 
-💡 *Advancements in Chinese fab technology narrow global semiconductor gap.*
+💡 *Intel invests $100 billion in US to secure future chip supply.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/semianalysis-opens-its-own-chip-teardown-lab)
-
----
-
-### 2. U.S. gov't asks court to dismiss NAACP lawsuit against Elon Musk's xAI over use of unpermitted gas turbines DOJ says Grok model running at Colossus 2 supports mission-critical operations  
-
-The US government seeks dismissal of a NAACP lawsuit against xAI over Colossus 2 operations, citing national security concerns.
-
-💡 *National security interests take precedence over environmental and social concerns in this case.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/u-s-govt-asks-court-to-dismiss-naacp-lawsuit-against-elon-musks-xai-over-use-of-unpermitted-gas-turbines-doj-says-grok-model-running-at-colossus-2-supports-mission-critical-operations)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intels-fab-roadmap-examined)
 
 ---
 
-### 3. Chinese memory brands ditch Samsung and Micron for homegrown CXMT and YMTC silicon Corsair, HP, and Dell are already adopting the China-produced DDR5 chips 
+### 2. Broadcom unveils fully-integrated quad-core Wi-Fi 8 access point SoCs, 5G FWA router reference platform 
 
-Chinese memory brands Gloway and KingBank are adopting homegrown silicon from CXMT and YMTC to produce DDR5 memory kits, replacing foreign DRAM suppliers like Samsung, Micron, and SK hynix.
+Broadcom has launched three new fully-integrated quad-core Wi-Fi 8 access point SoCs, which offer improved performance and efficiency. The BCM6772 is for mass-market Ethernet routers, the BCM6774 for high-volume Ethernet routers, and the BCM6776 for premium Ethernet tri-band routers. The BCM6776 is also part of a 5G FWA router platform.
 
-💡 *China's memory industry is rapidly reducing reliance on foreign suppliers.*
+💡 *Fully-integrated Wi-Fi 8 SoCs enable more efficient and high-performance routers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/chinese-memory-vendors-snub-industry-giants-in-favor-of-homegrown-ram-chips-samsung-micron-and-sk-hynix-face-a-chinese-supply-chain-revolt)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/18/broadcom-fully-integrated-quad-core-wi-fi-8-access-point-socs-5g-fwa-router-reference-platform/)
+
+---
+
+### 3. Rockchip RK3539 quad-core Cortex-A55 SoC shows up in low-cost Android 14 4K TV stick with AV1 codec support 
+
+The HS89 T15 TV stick features a Rockchip RK3539 SoC, offering 4K video capabilities and Android 14 support.
+
+💡 *Affordable 4K streaming with AV1 codec support becomes a reality.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/18/rockchip-rk3539-quad-core-cortex-a55-soc-low-cost-android-14-4k-tv-stick/)
+
+---
+
+### 4. US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling European and Canadian leaders alarm allies over sudden export bans 
+
+The US blocks Anthropic's Fable 5 AI models, sparking global concern and alarm. World leaders worry about developing national alternatives due to export bans. This move may lead to a fragmented AI landscape.
+
+💡 *US AI export controls spark global AI fragmentation fears*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-pulls-the-kill-switch-on-anthropics-fable-5-ai-models-sending-global-allies-scrambling-european-and-canadian-leaders-alarm-allies-over-sudden-export-bans)
+
+---
+
+### 5. Undersea cable connecting Egypt and Syria has been cut, state-owned telecom operator says Damascus blames 'systematic sabotage campaign' as cause of damage 
+
+An undersea cable connecting Egypt and Syria has been damaged, prompting accusations of sabotage. The Syrian government blames a 'systematic sabotage campaign' for the damage, without naming a specific entity. The cable's location makes it a prime target for disruption.
+
+💡 *High-stakes geopolitics in the Middle East escalate with undersea sabotage*
+
+🔗 [Read Full Article](https://www.tomshardware.com/networking/undersea-cable-connecting-egypt-and-syria-has-been-cut-damascus-blames-systematic-sabotage-campaign-as-cause-of-damage)
+
+---
+
+### 6. Trump says Apple will work with Intel to build chips in the US 
+
+Trump announces Apple will collaborate with Intel to build US-based chips.
+
+💡 *Boosting US chip manufacturing could strengthen national economic security.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112808-trump-apple-work-intel-build-chips-us.html)
+
+---
+
+### 7. Samsung's foundry is booming as TSMC struggles with demand bags Nvidia, Tesla, and Qualcomm as new clients 
+
+Samsung Foundry is gaining new clients, including Nvidia, Tesla, and Qualcomm, as it manufactures advanced semiconductor chips. This shift comes after some companies previously worked exclusively with TSMC. Samsung's foundry is booming due to increased demand.
+
+💡 *Samsung gains market share from struggling TSMC demand.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html)
+
+---
+
+### 8. The quest for better chip design accelerates 
+
+Synopsys announces Multiphysics Fusion products to improve chip design efficiency, reducing respins and costs.
+
+💡 *Optimized chip design saves time and reduces costly redesigns.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/quest-better-chip-design-accelerates)
 
 ---
 

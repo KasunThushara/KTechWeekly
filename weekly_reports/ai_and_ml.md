@@ -1,155 +1,205 @@
 # 🤖 AI & ML
-**Week of June 17, 2026**
+**Week of June 18, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-06-17 12:41
+- **Articles this week:** 19
+- **Report generated:** 2026-06-18 12:06
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Amlogic A311Y3 octa-core Edge AI SoC features Cortex-A78/A55 cores, 8 TOPS NPU, LPDDR5 support ⭐
+### 1. Frontier Airlines site leaks all personal info with just a glance at a boarding pass, researcher claims booking number and last name nets you every passenger's personal info, including address, passport, TSA PreCheck, and most credit card info 
 
-Amlogic introduces the A311Y3 Edge AI SoC with 6nm Cortex-A78/A55 cores and 8 TOPS NPU.
+Frontier Airlines' website exposes passengers' personal information with minimal details, including address, passport, and credit card info, raising concerns over data security and privacy.
 
-💡 *Amlogic A311Y3 enhances edge AI capabilities with improved CPU and NPU performance.*
+💡 *Sensitive passenger data vulnerable to unauthorized access via booking number and last name.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/17/amlogic-a311y3-octa-core-edge-ai-soc-features-cortex-a78-a55-cores-8-tops-npu-lpddr5-support/)
-
----
-
-### 2. Noctua launches its first AIO liquid CPU coolers with a range of radiator sizes 
-
-Noctua's new AIO liquid CPU coolers feature a three-layer acoustic soundproofing structure and a pump speed toggle for improved performance and quiet operation.
-
-💡 *Innovative soundproofing technology enhances cooling performance and reduces noise.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112786-noctua-launches-first-aio-liquid-cpu-coolers-range.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/frontier-airlines-site-leaks-all-personal-info-with-just-a-glance-at-a-boarding-pass-researcher-claims-booking-number-and-last-name-nets-you-every-passengers-personal-info-including-address-passport-tsa-precheck-and-most-credit-card-info)
 
 ---
 
-### 3. U.S. gov't asks court to dismiss NAACP lawsuit against Elon Musk's xAI over use of unpermitted gas turbines DOJ says Grok model running at Colossus 2 supports mission-critical operations  
+### 2. Researchers build brain-like memory device for AI sensors that may improve energy efficiency phototransistor device combines light sensing, memory, and processing to cut data movement 
 
-The US government seeks dismissal of a NAACP lawsuit against xAI over Colossus 2 operations, citing national security concerns.
+Oregon State University researchers created a brain-inspired phototransistor combining light sensing, memory, and processing. This device can control the persistence of optical memories, potentially improving energy efficiency in AI systems. The innovation aims to reduce data movement and enhance AI vision capabilities.
 
-💡 *National security interests take precedence over environmental and social concerns in this case.*
+💡 *Optical memory control enhances AI energy efficiency and vision capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/u-s-govt-asks-court-to-dismiss-naacp-lawsuit-against-elon-musks-xai-over-use-of-unpermitted-gas-turbines-doj-says-grok-model-running-at-colossus-2-supports-mission-critical-operations)
-
----
-
-### 4. SMI says Nvidia is driving its consumer PCIe 6.0 roadmap, not AMD and Intel RTX Spark agentic AI platform fuels a hunger for storage bandwidth 
-
-Nvidia may lead in PCIe Gen6 client PC platforms, influencing suppliers like Silicon Motion.
-
-💡 *Nvidia's AI ambitions drive its PCIe 6.0 roadmap ahead of competitors*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/silicon-motions-client-pcie-6-x-roadmap-is-driven-by-nvidia-not-by-amd-and-intel-rtx-spark-agentic-ai-platform-could-fuel-a-hunger-for-storage-bandwidth)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-build-brain-like-memory-device-for-ai-sensors-that-may-improve-energy-efficiency-phototransistor-device-combines-light-sensing-memory-and-processing-to-cut-data-movement)
 
 ---
 
-### 5. Chinese memory brands ditch Samsung and Micron for homegrown CXMT and YMTC silicon Corsair, HP, and Dell are already adopting the China-produced DDR5 chips 
+### 3. Chinese makers of DRAM modules, SSDs have a serious advantage over American and Taiwanese suppliers, says SMI SVP state guidance secures local DRAM and SSD supply while the Big Three chase AI margins 
 
-Chinese memory brands Gloway and KingBank are adopting homegrown silicon from CXMT and YMTC to produce DDR5 memory kits, replacing foreign DRAM suppliers like Samsung, Micron, and SK hynix.
+Chinese DRAM and SSD producers may gain an advantage due to CCP directives. These directives can secure local supply and support the industry. This may allow them to compete with American and Taiwanese suppliers.
 
-💡 *China's memory industry is rapidly reducing reliance on foreign suppliers.*
+💡 *CCP directives secure local DRAM and SSD supply advantage*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/chinese-memory-vendors-snub-industry-giants-in-favor-of-homegrown-ram-chips-samsung-micron-and-sk-hynix-face-a-chinese-supply-chain-revolt)
-
----
-
-### 6. Dell's $699 XPS 13 laptop is now available with the MacBook Neo in its sights entry-level XPS design comes with Wildcat Lake, 8GB of RAM, and a 512GB SSD 
-
-Dell's $699 XPS 13 now available with Wildcat Lake CPU, 8GB RAM, and 512GB SSD.
-
-💡 *Dell's budget laptop challenges Apple's MacBook Neo market dominance*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/dells-usd699-xps-13-laptop-is-now-available-with-the-macbook-neo-in-its-sights-entry-level-xps-design-comes-with-wildcat-lake-8gb-of-ram-and-a-512gb-ssd)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/chinese-makers-of-dram-modules-ssds-have-a-serious-advantage-over-american-and-taiwanese-suppliers-says-smi-svp-state-guidance-secures-local-dram-and-ssd-supply-while-the-big-three-chase-ai-margins)
 
 ---
 
-### 7. 'The retail SSD market has almost disappeared,' says Silicon Motion exec PC OEMs are buying third-party drives as direct NAND supply dries up 
+### 4. Digital entrepreneur creates humorous 'physical NFT minting device' using a Raspberry Pi in quest for 'infinite money machine' contraption trained on M3 MacBook can generate an NFT in 3 seconds, has so far sold one for $9.92 
 
-The retail SSD market is dwindling as NAND suppliers focus on AI data centers. PC OEMs are now purchasing third-party SSDs due to the direct NAND supply shortage. This shift is impacting the availability of retail SSDs.
+A young entrepreneur creates a portable NFT minting device using a Raspberry Pi, aiming to achieve wealth similar to Elon Musk.
 
-💡 *NAND manufacturers prioritize AI data centers over retail SSD demand*
+💡 *Decentralized and automated NFT creation can potentially disrupt art and collectible markets.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/the-retail-ssd-market-has-almost-disappeared-says-silicon-motion-exec-pc-oems-are-buying-third-party-drives-as-direct-nand-supply-dries-up)
-
----
-
-### 8. Noctua finally releases its first AIO coolers prices start at $220 for 240mm, features the company s legendary A-series fans 
-
-Noctua releases its NL-LC1 AIO coolers with prices starting at $219.95. The 240mm option includes an optional 80mm auxiliary fan. This aims to enhance cooling performance in PCs.
-
-💡 *Noctua combines legendary fans with AIO coolers for optimal performance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/noctua-finally-releases-its-first-aio-coolers-prices-start-at-usd220-for-240mm-features-the-companys-legendary-a-series-fans)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/digital-entrepreneur-creates-humorous-physical-nft-minting-device-using-a-raspberry-pi-in-quest-for-infinite-money-machine-contraption-trained-on-m3-macbook-can-generate-an-nft-in-3-seconds-has-so-far-sold-one-for-usd9-92)
 
 ---
 
-### 9. SMI's PCIe 6.0 SSD controller for consumer SSDs coming next year, but severe NAND shortages will get even worse in 2027 as AI data centers swallow supply An interview with Silicon Motion's SVP Nelson Duann 
+### 5. US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling European and Canadian leaders alarm allies over sudden export bans 
 
-Silicon Motion's SVP Nelson Duann discusses the NAND supply crisis and future consumer storage trends.
+The US blocks Anthropic's Fable 5 AI models, sparking global concern and alarm. World leaders worry about developing national alternatives due to export bans. This move may lead to a fragmented AI landscape.
 
-💡 *NAND shortages worsen due to AI data centers' expanding demand.*
+💡 *US AI export controls spark global AI fragmentation fears*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/smis-pcie-6-0-ssd-controller-for-consumer-ssds-coming-next-year-but-severe-nand-shortages-will-get-even-worse-in-2027-as-ai-data-centers-swallow-supply-an-interview-with-silicon-motions-svp-nelson-duann)
-
----
-
-### 10. Snap says its $2,195 Specs are AR glasses for the post-smartphone era 
-
-Snap introduces Specs, AR glasses for the post-smartphone era, available for pre-order with a $200 refundable deposit. Specs are expected to ship this fall in the US, UK, and France. This marks a significant step in the evolution of augmented reality.
-
-💡 *Marking a shift from smartphones to immersive, wearable technology experiences.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112795-snap-2195-specs-ar-glasses-post-smartphone-era.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-pulls-the-kill-switch-on-anthropics-fable-5-ai-models-sending-global-allies-scrambling-european-and-canadian-leaders-alarm-allies-over-sudden-export-bans)
 
 ---
 
-### 11. The "Made in America" Trump phone is just a reskinned HTC U24 built in China 
+### 6. DeepSeek was set to be added to US Entity List for supporting China s military and intelligence operations, report claims White House holds off to avoid escalating tensions with China 
 
-A teardown of the Trump Mobile T1 revealed it's an HTC U24 Pro with minor cosmetic changes. The phone's manufacturing origins contradict Trump Mobile's original claim of being American-made. This settles suspicions raised earlier this year.
+DeepSeek and CXMT are set to be added to the US Entity List due to their alleged ties to Chinese military and intelligence operations. The White House has delayed the move to avoid escalating tensions with Beijing. This decision has significant implications for US-China trade relations.
 
-💡 *False advertising undermines American manufacturing claims with a Trump-branded phone.*
+💡 *US avoids escalating tensions with China over trade restrictions*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112785-made-america-trump-phone-reskinned-htc-u24-built.html)
-
----
-
-### 12. Microsoft Teams is getting Wi-Fi location "check-in," but it's less creepy than it sounds 
-
-Microsoft Teams is introducing a Wi-Fi location 'check-in' feature, allowing users to control their location settings. The feature will provide employees' physical locations to their organizations. Microsoft has clarified how this feature will work and be managed.
-
-💡 *Location tracking in Teams is an extension, not a new layer of surveillance.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112774-microsoft-teams-use-wi-fi-determine-employee-location.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/deepseek-was-set-to-be-added-to-us-entity-list-for-supporting-chinas-military-and-intelligence-operations-report-claims-white-house-holds-off-to-avoid-escalating-tensions-with-china)
 
 ---
 
-### 13. Microsoft is making Windows 11 updates require just one reboot instead of several 
+### 7. Undersea cable connecting Egypt and Syria has been cut, state-owned telecom operator says Damascus blames 'systematic sabotage campaign' as cause of damage 
 
-Microsoft is updating Windows 11 to require a single reboot for all updates.
+An undersea cable connecting Egypt and Syria has been damaged, prompting accusations of sabotage. The Syrian government blames a 'systematic sabotage campaign' for the damage, without naming a specific entity. The cable's location makes it a prime target for disruption.
 
-💡 *Smaller system downtime improves user productivity and efficiency significantly.*
+💡 *High-stakes geopolitics in the Middle East escalate with undersea sabotage*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112782-microsoft-making-windows-11-updates-require-one-reboot.html)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/undersea-cable-connecting-egypt-and-syria-has-been-cut-damascus-blames-systematic-sabotage-campaign-as-cause-of-damage)
 
 ---
 
-### 14. SpaceX acquires AI coding startup Cursor for $60 billion, days after record IPO 
+### 8. First official details of AMD's next-gen 'Mustang Peak' Threadripper CPUs come into view chips feature DDR5, PCIe 6.0, and a new socket 
 
-SpaceX acquires Cursor for $60 billion, capitalizing on its post-IPO stock surge.
+AMD's next-gen 'Mustang Peak' Threadripper CPUs feature DDR5 and PCIe 6.0, with a new socket. The CPUs are based on the Zen 6 architecture, indicating significant performance improvements. This marks a significant upgrade for AMD's high-end desktop lineup.
 
-💡 *SpaceX leverages inflated stock value to seal strategic AI acquisition.*
+💡 *Enhanced performance and compatibility for high-end desktop applications*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112784-spacex-acquires-ai-coding-startup-cursor-60-billion.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/first-official-details-of-amds-next-gen-mustang-peak-threadripper-cpus-come-into-view-chips-feature-ddr5-pcie-6-0-and-a-new-socket)
+
+---
+
+### 9. Best of Sensors: Polar ID aims for better face authentication 
+
+Polar ID from Metalenz uses polarization image data to enhance face authentication, offering improved cost and performance compared to conventional methods.
+
+💡 *Advanced polarization technology boosts face authentication accuracy and efficiency.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/best-sensors-polar-id-aims-better-face-authentication)
+
+---
+
+### 10. Tim Cook confirms Apple price hikes are coming, iPhones could jump $200 or more 
+
+Apple CEO Tim Cook warns of impending price hikes due to rising memory costs.
+
+💡 *Rising memory costs force Apple to consider significant iPhone price jumps.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112806-tim-cook-confirms-apple-price-hikes-coming-iphones.html)
+
+---
+
+### 11. Stop Killing Games lost its biggest battle despite 1.3 million signatures, but the fight isn't over 
+
+The European Commission rejected a petition with 1.3 million signatures to ban permanent game unplayability.
+
+💡 *Gamers' rights and consumer protection are being undermined by industry practices.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112802-stop-killing-games-lost-biggest-battle-despite-13.html)
+
+---
+
+### 12. Firefox has an ambitious new roadmap, the browser is also losing millions of users a month 
+
+Mozilla is innovating Firefox with new features, but the browser is losing users. Despite this, the company has published a roadmap outlining upcoming changes. The browser's growth concerns are a major challenge for the company.
+
+💡 *Firefox's user decline highlights Mozilla's struggles to compete in the market.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112803-firefox-has-ambitious-new-roadmap-browser-also-losing.html)
+
+---
+
+### 13. AB Download Manager is a free alternative to Internet Download Manager 
+
+AB Download Manager is a free, open-source download accelerator and manager. It supports download acceleration, queue management, and pause/resume features. Available for Windows, macOS, and Linux.
+
+💡 *Free alternative to expensive download managers like Internet Download Manager*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7887-ab-download-manager.html)
+
+---
+
+### 14. Android 17 arrives on Pixel with floating apps, foldable features, and new AI tools 
+
+Android 17 brings floating apps, foldable features, and AI tools to Pixel phones, building upon Google's customized version of the operating system.
+
+💡 *Context-dependent Android updates reveal the evolving role of Google's services layer.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112796-android-17-arrives-pixel-floating-apps-foldable-features.html)
+
+---
+
+### 15. OpenAI made $13 billion in 2025 and lost $21 billion doing it 
+
+OpenAI's revenue surged from $3.7 billion in 2024 to $13.07 billion in 2025, driven by rapid growth in demand for its AI products, particularly ChatGPT, which now has over 900 million weekly users.
+
+💡 *Massive revenue growth comes with significant financial risk and volatility.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112794-openai-made-13-billion-2025-lost-21-billion.html)
+
+---
+
+### 16. Chrome update fixes 33 security flaws, including seven critical bugs 
+
+Google Chrome's latest update (149.0.7827.156) fixes 33 security flaws, including 7 critical bugs.
+
+💡 *Vulnerabilities pose significant risk to billions of Chrome users worldwide.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/4718-google-chrome.html)
+
+---
+
+### 17. Apple's AI hardware roadmap: camera-equipped AirPods, smart glasses, and foldable iPhones 
+
+Apple plans to launch camera-equipped AirPods, smart glasses, and foldable iPhones. The AirPods with cameras, code-named B798, is now slated for a 2027 release. The product lineup marks a significant shift in Apple's AI hardware strategy.
+
+💡 *Apple's AI hardware roadmap expands beyond smartphones.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112792-apple-ai-hardware-roadmap-includes-camera-eqipped-airpods.html)
+
+---
+
+### 18. Microsoft refreshes Surface Pro and Surface Laptop with Snapdragon X2 chips, longer battery life, and higher prices 
+
+Microsoft has updated the Surface Pro and Surface Laptop with new features, including Snapdragon X2 chips and longer battery life, but also higher prices.
+
+💡 *Microsoft prioritizes performance and battery life over affordability with new Surface updates.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112797-microsoft-refreshes-surface-pro-surface-laptop-snapdragon-x2.html)
+
+---
+
+### 19. "The retail SSD market has almost disappeared," Silicon Motion says, as OEMs take what's left 
+
+The retail SSD market has dwindled due to NAND shortages. Silicon Motion's SSD controllers, previously sold in retail drives, now primarily go to OEMs. This shift affects the availability of SSDs for direct-to-consumer sales.
+
+💡 *NAND shortages devastate retail SSD market, favoring OEM sales instead*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112789-retail-ssd-market-has-almost-disappeared-silicon-motion.html)
 
 ---
 

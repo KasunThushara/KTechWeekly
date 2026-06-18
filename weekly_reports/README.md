@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 17, 2026**
+**Week of June 18, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Zhihe A210 octa-core RISC-V SoC with 12 TOPS NPU powers SoM-based development board ⭐⭐
-
-**💻 Hardware**
-
-The Zhihe A210 is an octa-core RISC-V SoC with a 12 TOPS NPU, featuring 4x 64-bit RISC-V C920 cores at up to 2.3 GHz. This SoC powers a SoM-based development board, offering improved performance and AI capabilities. The A210 SODIMM V2 development kit is available for testing and development.
-
-💡 **Key Point:** High-performance RISC-V SoC boosts AI capabilities and processing power.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/17/zhihe-a210-octa-core-risc-v-soc-with-12-tops-npu-powers-som-based-development-board/)
-
----
-
-### 2. Zhihe A210 octa-core RISC-V SoC with 12 TOPS NPU powers SoM-based development board ⭐⭐
-
-**📰 Tech News**
-
-The Zhihe A210 is an octa-core RISC-V SoC with a 12 TOPS NPU, featuring 4x 64-bit RISC-V C920 cores at up to 2.3 GHz. This SoC powers a SoM-based development board, offering improved performance and AI capabilities. The A210 SODIMM V2 development kit is available for testing and development.
-
-💡 **Key Point:** High-performance RISC-V SoC boosts AI capabilities and processing power.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/17/zhihe-a210-octa-core-risc-v-soc-with-12-tops-npu-powers-som-based-development-board/)
-
----
-
-### 3. Amlogic A311Y3 octa-core Edge AI SoC features Cortex-A78/A55 cores, 8 TOPS NPU, LPDDR5 support ⭐
-
-**💻 Hardware**
-
-Amlogic introduces the A311Y3 Edge AI SoC with 6nm Cortex-A78/A55 cores and 8 TOPS NPU.
-
-💡 **Key Point:** Amlogic A311Y3 enhances edge AI capabilities with improved CPU and NPU performance.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/17/amlogic-a311y3-octa-core-edge-ai-soc-features-cortex-a78-a55-cores-8-tops-npu-lpddr5-support/)
-
----
-
-### 4. Amlogic A311Y3 octa-core Edge AI SoC features Cortex-A78/A55 cores, 8 TOPS NPU, LPDDR5 support ⭐
+### 1. Frontier Airlines site leaks all personal info with just a glance at a boarding pass, researcher claims booking number and last name nets you every passenger's personal info, including address, passport, TSA PreCheck, and most credit card info 
 
 **🤖 AI & ML**
 
-Amlogic introduces the A311Y3 Edge AI SoC with 6nm Cortex-A78/A55 cores and 8 TOPS NPU.
+Frontier Airlines' website exposes passengers' personal information with minimal details, including address, passport, and credit card info, raising concerns over data security and privacy.
 
-💡 **Key Point:** Amlogic A311Y3 enhances edge AI capabilities with improved CPU and NPU performance.
+💡 **Key Point:** Sensitive passenger data vulnerable to unauthorized access via booking number and last name.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/17/amlogic-a311y3-octa-core-edge-ai-soc-features-cortex-a78-a55-cores-8-tops-npu-lpddr5-support/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/frontier-airlines-site-leaks-all-personal-info-with-just-a-glance-at-a-boarding-pass-researcher-claims-booking-number-and-last-name-nets-you-every-passengers-personal-info-including-address-passport-tsa-precheck-and-most-credit-card-info)
 
 ---
 
-### 5. ViewSonic VX2738-2K 27-inch OLED review: An OLED value play ⭐
+### 2. Researchers build brain-like memory device for AI sensors that may improve energy efficiency phototransistor device combines light sensing, memory, and processing to cut data movement 
+
+**🤖 AI & ML**
+
+Oregon State University researchers created a brain-inspired phototransistor combining light sensing, memory, and processing. This device can control the persistence of optical memories, potentially improving energy efficiency in AI systems. The innovation aims to reduce data movement and enhance AI vision capabilities.
+
+💡 **Key Point:** Optical memory control enhances AI energy efficiency and vision capabilities.
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-build-brain-like-memory-device-for-ai-sensors-that-may-improve-energy-efficiency-phototransistor-device-combines-light-sensing-memory-and-processing-to-cut-data-movement)
+
+---
+
+### 3. Frontier Airlines site leaks all personal info with just a glance at a boarding pass, researcher claims booking number and last name nets you every passenger's personal info, including address, passport, TSA PreCheck, and most credit card info 
 
 **💻 Hardware**
 
-The ViewSonic VX2738-2K 27-inch OLED monitor provides high-performance gaming at a low price. It boasts 240 Hz, Adaptive-Sync, HDR, and Quantum Dot color for smooth, quick, and saturated visuals. This monitor is a great value for gamers seeking high-end features.
+Frontier Airlines' website exposes passengers' personal information with minimal details, including address, passport, and credit card info, raising concerns over data security and privacy.
 
-💡 **Key Point:** Affordable high-performance OLED gaming monitor with premium features
+💡 **Key Point:** Sensitive passenger data vulnerable to unauthorized access via booking number and last name.
 
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/viewsonic-vx2738-2k-27-inch-oled-review)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/frontier-airlines-site-leaks-all-personal-info-with-just-a-glance-at-a-boarding-pass-researcher-claims-booking-number-and-last-name-nets-you-every-passengers-personal-info-including-address-passport-tsa-precheck-and-most-credit-card-info)
+
+---
+
+### 4. Researchers build brain-like memory device for AI sensors that may improve energy efficiency phototransistor device combines light sensing, memory, and processing to cut data movement 
+
+**💻 Hardware**
+
+Oregon State University researchers created a brain-inspired phototransistor combining light sensing, memory, and processing. This device can control the persistence of optical memories, potentially improving energy efficiency in AI systems. The innovation aims to reduce data movement and enhance AI vision capabilities.
+
+💡 **Key Point:** Optical memory control enhances AI energy efficiency and vision capabilities.
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-build-brain-like-memory-device-for-ai-sensors-that-may-improve-energy-efficiency-phototransistor-device-combines-light-sensing-memory-and-processing-to-cut-data-movement)
+
+---
+
+### 5. Broadcom unveils fully-integrated quad-core Wi-Fi 8 access point SoCs, 5G FWA router reference platform 
+
+**💻 Hardware**
+
+Broadcom has launched three new fully-integrated quad-core Wi-Fi 8 access point SoCs, which offer improved performance and efficiency. The BCM6772 is for mass-market Ethernet routers, the BCM6774 for high-volume Ethernet routers, and the BCM6776 for premium Ethernet tri-band routers. The BCM6776 is also part of a 5G FWA router platform.
+
+💡 **Key Point:** Fully-integrated Wi-Fi 8 SoCs enable more efficient and high-performance routers.
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/18/broadcom-fully-integrated-quad-core-wi-fi-8-access-point-socs-5g-fwa-router-reference-platform/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **55 articles** across **5 focused categories**.
+We covered **46 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 14 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 8 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 17 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 13 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 19 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 8 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 5 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 14 articles
+*Artificial Intelligence and Machine Learning* — 19 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 8 articles
+*Graphics cards and compute accelerators* — 3 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 17 articles
+*Computing hardware and development boards* — 11 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 3 articles
+*Chip manufacturing and design* — 8 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 13 articles
+*Industry news and product launches* — 5 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-17 at 12:41 by an autonomous AI curation system.
+Generated 2026-06-18 at 12:06 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

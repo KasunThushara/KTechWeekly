@@ -1,95 +1,45 @@
 # 🎮 GPUs
-**Week of June 17, 2026**
+**Week of June 18, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-06-17 12:41
+- **Articles this week:** 3
+- **Report generated:** 2026-06-18 12:06
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. SCINTIX P4 ESP32-P4 Compute Module works with (some) Raspberry Pi CM4/CM5 carrier boards (Crowdfunding) 
+### 1. Nvidia releases RTX Remix 1.5 with new RTX IO compression reducing mod file sizes by up to 37% update also adds Smooth Normals and 'RTX Remix Skills' Agents 
 
-The SCINTIX P4 is an ESP32-P4 Compute Module compatible with some Raspberry Pi CM4/CM5 carrier boards, offering wireless connectivity and access to various peripherals. It features a dual-core RISC-V CPU and supports programming in standalone mode. The module is currently available through crowdfunding.
+Nvidia's RTX Remix 1.5 update introduces new features including RTX IO compression, which reduces mod file sizes by up to 37%, as well as Smooth Normals and 'RTX Remix Skills' Agents to enhance modding capabilities.
 
-💡 *First MCU-based system-on-module for Raspberry Pi CM4/CM5 form factor*
+💡 *Improved modding efficiency through significant file size reduction efforts.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/17/scintix-p4-esp32-p4-compute-module-raspberry-pi-cm4-cm5-carrier-boards/)
-
----
-
-### 2. AMD quietly disabled RAM encryption on some consumer Ryzen CPUs and users want to know why 
-
-AMD disabled RAM encryption on some Ryzen CPUs without user notification, sparking concerns about data security.
-
-💡 *Users rely on hardware security features for sensitive data protection.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112791-amd-quietly-disabled-ram-encryption-consumer-ryzen-cpus.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-releases-rtx-remix-1-5-with-new-rtx-io-compression-reducing-mod-file-sizes-by-up-to-37-percent-update-also-adds-smooth-normals-and-rtx-remix-skills-agents)
 
 ---
 
-### 3. Save $500 on this Acer 16 Predator Helios Neo 16 IPS Gaming laptop just $1,499.99 gets you a powerful portable gaming rig with an RTX 5070, 32GB DDR5, and Intel Core Ultra 9 275 HX processor 
+### 2. AB Download Manager is a free alternative to Internet Download Manager 
 
-Acer's Predator Helios Neo 16 IPS Gaming laptop is now available for $1,499.99, offering a powerful portable gaming rig with an RTX 5070, 32GB DDR5, and Intel Core Ultra 9 275 HX processor, representing a $500 discount from its original price.
+AB Download Manager is a free, open-source download accelerator and manager. It supports download acceleration, queue management, and pause/resume features. Available for Windows, macOS, and Linux.
 
-💡 *High-performance gaming at an affordable price point*
+💡 *Free alternative to expensive download managers like Internet Download Manager*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-usd500-on-this-acer-16-predator-helios-neo-16-ips-gaming-laptop-just-usd1-499-99-gets-you-a-powerful-portable-gaming-rig-with-an-rtx-5070-32gb-ddr5-and-intel-core-ultra-9-275-hx-processor)
-
----
-
-### 4. Nvidia reveals AI robots that taught themselves to install GPUs into motherboards video shows robot solve high-precision tasks like installing GPUs all by itself  
-
-Nvidia showcases robots that can teach themselves high-precision tasks like installing GPUs. These agentic robots can perform real-world tasks with dexterity and precision. The technology has potential applications in various industries.
-
-💡 *Autonomous robots can automate complex, high-precision tasks with minimal human oversight.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reveals-ai-robots-that-taught-themselves-to-install-gpus-into-motherboards-video-shows-robot-solve-high-precision-tasks-like-installing-gpus-all-by-itself)
+🔗 [Read Full Article](https://www.techspot.com/downloads/7887-ab-download-manager.html)
 
 ---
 
-### 5. SMI says Nvidia is driving its consumer PCIe 6.0 roadmap, not AMD and Intel RTX Spark agentic AI platform fuels a hunger for storage bandwidth 
+### 3. Samsung's foundry is booming as TSMC struggles with demand bags Nvidia, Tesla, and Qualcomm as new clients 
 
-Nvidia may lead in PCIe Gen6 client PC platforms, influencing suppliers like Silicon Motion.
+Samsung Foundry is gaining new clients, including Nvidia, Tesla, and Qualcomm, as it manufactures advanced semiconductor chips. This shift comes after some companies previously worked exclusively with TSMC. Samsung's foundry is booming due to increased demand.
 
-💡 *Nvidia's AI ambitions drive its PCIe 6.0 roadmap ahead of competitors*
+💡 *Samsung gains market share from struggling TSMC demand.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/silicon-motions-client-pcie-6-x-roadmap-is-driven-by-nvidia-not-by-amd-and-intel-rtx-spark-agentic-ai-platform-could-fuel-a-hunger-for-storage-bandwidth)
-
----
-
-### 6. AMD silently removes memory encryption from consumer Ryzen CPUs, leaving users unaware that they may be vulnerable security feature vanishes after newer AGESA firmware, AMD engineers go radio silent when pressed about the change 
-
-AMD has reportedly removed TSME, a memory-encryption feature, from consumer Ryzen CPUs. Newer AGESA firmware disables the feature, leaving users vulnerable. Pro and EPYC CPUs remain unaffected.
-
-💡 *Security feature removal compromises sensitive data, risking user confidentiality and integrity.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
-
----
-
-### 7. AMD Zen 6 desktop CPUs may ditch integrated graphics for a built-in NPU 
-
-AMD's Zen 6 'Morpheus' processors may abandon integrated graphics for a built-in NPU, marking a significant shift in the architecture.
-
-💡 *Integrated graphics replacement with NPU enhances AI capabilities significantly.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112788-amd-zen-6-desktop-cpus-may-ditch-integrated.html)
-
----
-
-### 8. Logitech completes G3 lineup with budget gaming keyboard and mouse 
-
-Logitech introduces the G305 X Superlight, a budget gaming mouse with improved features. Priced at $79.99, it offers an updated sensor, scroll wheel, and RGB lighting. The device supports up to five on-board profiles for customization.
-
-💡 *Mid-range gaming peripherals offer affordable high-performance options for gamers.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112783-logitech-completes-g3-lineup-budget-gaming-keyboard-mouse.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html)
 
 ---
 
