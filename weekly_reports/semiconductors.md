@@ -1,95 +1,65 @@
 # ⚡ Semiconductors
-**Week of June 18, 2026**
+**Week of June 19, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-06-18 12:06
+- **Articles this week:** 5
+- **Report generated:** 2026-06-19 12:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel's fab roadmap examined Arizona, Ohio, Ireland, and the two deadlines deciding 14A process node 
+### 1. UP WCL A credit card-sized Wildcat Lake SBC with up to 24GB LPDDR5, 256GB UFS 
 
-Intel's fab roadmap outlines expansions in Arizona, Ohio, Ireland, focusing on 14A process node production capacity. The roadmap sets two key deadlines for achieving this goal, emphasizing the company's ongoing efforts to increase its manufacturing capabilities. This expansion aims to meet growing demand for semiconductors.
+The AAEON UP WCL is a compact SBC featuring Intel Wildcat Lake processors with up to 24GB LPDDR5 and 256GB UFS storage, offering various I/O options for expansion.
 
-💡 *Intel invests $100 billion in US to secure future chip supply.*
+💡 *High-performance computing in a credit card-sized, compact form factor emerges.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intels-fab-roadmap-examined)
-
----
-
-### 2. Broadcom unveils fully-integrated quad-core Wi-Fi 8 access point SoCs, 5G FWA router reference platform 
-
-Broadcom has launched three new fully-integrated quad-core Wi-Fi 8 access point SoCs, which offer improved performance and efficiency. The BCM6772 is for mass-market Ethernet routers, the BCM6774 for high-volume Ethernet routers, and the BCM6776 for premium Ethernet tri-band routers. The BCM6776 is also part of a 5G FWA router platform.
-
-💡 *Fully-integrated Wi-Fi 8 SoCs enable more efficient and high-performance routers.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/18/broadcom-fully-integrated-quad-core-wi-fi-8-access-point-socs-5g-fwa-router-reference-platform/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/18/up-wcl-a-credit-card-sized-wildcat-lake-sbc-with-up-to-24gb-lpddr5-256gb-ufs/)
 
 ---
 
-### 3. Rockchip RK3539 quad-core Cortex-A55 SoC shows up in low-cost Android 14 4K TV stick with AV1 codec support 
+### 2. The first unpatchable iPhone exploit in six years targets chips still running Apple's latest iOS 
 
-The HS89 T15 TV stick features a Rockchip RK3539 SoC, offering 4K video capabilities and Android 14 support.
+Security researchers at Paradigm Shift have published the first iPhone bootROM exploit in years, targeting a hardware-level flaw that can only be fixed by upgrading to newer hardware.
 
-💡 *Affordable 4K streaming with AV1 codec support becomes a reality.*
+💡 *Hardware-level vulnerability makes iOS upgrades ineffective against bootROM exploits.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/18/rockchip-rk3539-quad-core-cortex-a55-soc-low-cost-android-14-4k-tv-stick/)
-
----
-
-### 4. US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling European and Canadian leaders alarm allies over sudden export bans 
-
-The US blocks Anthropic's Fable 5 AI models, sparking global concern and alarm. World leaders worry about developing national alternatives due to export bans. This move may lead to a fragmented AI landscape.
-
-💡 *US AI export controls spark global AI fragmentation fears*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-pulls-the-kill-switch-on-anthropics-fable-5-ai-models-sending-global-allies-scrambling-european-and-canadian-leaders-alarm-allies-over-sudden-export-bans)
+🔗 [Read Full Article](https://www.techspot.com/news/112820-first-unpatchable-iphone-exploit-six-years-targets-chips.html)
 
 ---
 
-### 5. Undersea cable connecting Egypt and Syria has been cut, state-owned telecom operator says Damascus blames 'systematic sabotage campaign' as cause of damage 
+### 3. Intel hires former SK hynix chief Seok-Hee Lee to lead Intel Foundry advanced packaging company establishing section as 'focused business with dedicated leadership' 
 
-An undersea cable connecting Egypt and Syria has been damaged, prompting accusations of sabotage. The Syrian government blames a 'systematic sabotage campaign' for the damage, without naming a specific entity. The cable's location makes it a prime target for disruption.
+Intel appoints Seok-Hee Lee as EVP of Intel Foundry, bringing experience from SK hynix and SK On. Lee will lead the advanced packaging company, establishing it as a 'focused business with dedicated leadership'. This move aims to enhance Intel's foundry capabilities.
 
-💡 *High-stakes geopolitics in the Middle East escalate with undersea sabotage*
+💡 *Intel seeks industry expertise to boost foundry business and competitiveness.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/networking/undersea-cable-connecting-egypt-and-syria-has-been-cut-damascus-blames-systematic-sabotage-campaign-as-cause-of-damage)
-
----
-
-### 6. Trump says Apple will work with Intel to build chips in the US 
-
-Trump announces Apple will collaborate with Intel to build US-based chips.
-
-💡 *Boosting US chip manufacturing could strengthen national economic security.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112808-trump-apple-work-intel-build-chips-us.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-hires-former-sk-hynix-chief-seok-hee-lee-to-lead-intel-foundry-advanced-packaging)
 
 ---
 
-### 7. Samsung's foundry is booming as TSMC struggles with demand bags Nvidia, Tesla, and Qualcomm as new clients 
+### 4. CEO of Chinese Anthropic rival tells Elon Musk that China will have a Fable 5-class AI model before next year it won t take that long says Jie Tang in response to Musk's prediction of a Q1 target 
 
-Samsung Foundry is gaining new clients, including Nvidia, Tesla, and Qualcomm, as it manufactures advanced semiconductor chips. This shift comes after some companies previously worked exclusively with TSMC. Samsung's foundry is booming due to increased demand.
+Elon Musk predicts Chinese AI firms will reach Mythos level by Q1 2027, but Z.ai CEO Jie Tang believes they will achieve this soon, without specifying a timeline.
 
-💡 *Samsung gains market share from struggling TSMC demand.*
+💡 *China's AI advancements challenge Musk's predictions and global technology leadership*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long)
 
 ---
 
-### 8. The quest for better chip design accelerates 
+### 5. SK Telecom named as the Korean carrier at the center of Anthropic's Mythos export controls controversy access was revoked days before White House took Mythos and Fable 5 offline for all foreign nationals 
 
-Synopsys announces Multiphysics Fusion products to improve chip design efficiency, reducing respins and costs.
+SK Telecom's access to Anthropic's Mythos model was revoked by the White House, citing alleged ties to China. This decision came days before the White House took Mythos and Fable 5 offline for foreign nationals. The move aims to prevent potential export control breaches.
 
-💡 *Optimized chip design saves time and reduces costly redesigns.*
+💡 *Export controls protect sensitive AI tech from falling into adversarial hands abroad.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/quest-better-chip-design-accelerates)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-telecom-named-as-the-korean-carrier-at-the-center-of-anthropics-mythos-export-controls)
 
 ---
 

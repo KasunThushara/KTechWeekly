@@ -1,205 +1,185 @@
 # 🤖 AI & ML
-**Week of June 18, 2026**
+**Week of June 19, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-06-18 12:06
+- **Articles this week:** 17
+- **Report generated:** 2026-06-19 12:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Frontier Airlines site leaks all personal info with just a glance at a boarding pass, researcher claims booking number and last name nets you every passenger's personal info, including address, passport, TSA PreCheck, and most credit card info 
+### 1. Qualcomm promises a major reset with upstream-first, Qualcomm Linux 2.0 for Dragonwing IoT platforms 
 
-Frontier Airlines' website exposes passengers' personal information with minimal details, including address, passport, and credit card info, raising concerns over data security and privacy.
+Qualcomm is shifting to an upstream-first, open development model with Qualcomm Linux 2.0, aiming to reduce friction and make builds more predictable across Dragonwing IoT platforms.
 
-💡 *Sensitive passenger data vulnerable to unauthorized access via booking number and last name.*
+💡 *Unified open development model for improved IoT platform consistency*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/frontier-airlines-site-leaks-all-personal-info-with-just-a-glance-at-a-boarding-pass-researcher-claims-booking-number-and-last-name-nets-you-every-passengers-personal-info-including-address-passport-tsa-precheck-and-most-credit-card-info)
-
----
-
-### 2. Researchers build brain-like memory device for AI sensors that may improve energy efficiency phototransistor device combines light sensing, memory, and processing to cut data movement 
-
-Oregon State University researchers created a brain-inspired phototransistor combining light sensing, memory, and processing. This device can control the persistence of optical memories, potentially improving energy efficiency in AI systems. The innovation aims to reduce data movement and enhance AI vision capabilities.
-
-💡 *Optical memory control enhances AI energy efficiency and vision capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-build-brain-like-memory-device-for-ai-sensors-that-may-improve-energy-efficiency-phototransistor-device-combines-light-sensing-memory-and-processing-to-cut-data-movement)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/19/qualcomm-promises-a-major-reset-with-upstream-first-qualcomm-linux-2-0-for-dragonwing-iot-platforms/)
 
 ---
 
-### 3. Chinese makers of DRAM modules, SSDs have a serious advantage over American and Taiwanese suppliers, says SMI SVP state guidance secures local DRAM and SSD supply while the Big Three chase AI margins 
+### 2. AMD resolves HandBrake scaling issues on Threadripper, gains reach 215% 
 
-Chinese DRAM and SSD producers may gain an advantage due to CCP directives. These directives can secure local supply and support the industry. This may allow them to compete with American and Taiwanese suppliers.
+AMD resolves HandBrake scaling issues on Threadripper with significant performance gains.
 
-💡 *CCP directives secure local DRAM and SSD supply advantage*
+💡 *Optimized scaling on high-core-count CPUs boosts transcoding speeds dramatically.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/chinese-makers-of-dram-modules-ssds-have-a-serious-advantage-over-american-and-taiwanese-suppliers-says-smi-svp-state-guidance-secures-local-dram-and-ssd-supply-while-the-big-three-chase-ai-margins)
-
----
-
-### 4. Digital entrepreneur creates humorous 'physical NFT minting device' using a Raspberry Pi in quest for 'infinite money machine' contraption trained on M3 MacBook can generate an NFT in 3 seconds, has so far sold one for $9.92 
-
-A young entrepreneur creates a portable NFT minting device using a Raspberry Pi, aiming to achieve wealth similar to Elon Musk.
-
-💡 *Decentralized and automated NFT creation can potentially disrupt art and collectible markets.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/digital-entrepreneur-creates-humorous-physical-nft-minting-device-using-a-raspberry-pi-in-quest-for-infinite-money-machine-contraption-trained-on-m3-macbook-can-generate-an-nft-in-3-seconds-has-so-far-sold-one-for-usd9-92)
+🔗 [Read Full Article](https://www.techspot.com/downloads/4785-handbrake.html)
 
 ---
 
-### 5. US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling European and Canadian leaders alarm allies over sudden export bans 
+### 3. Microsoft and Adobe team up and make Photoshop 20% faster on Windows 
 
-The US blocks Anthropic's Fable 5 AI models, sparking global concern and alarm. World leaders worry about developing national alternatives due to export bans. This move may lead to a fragmented AI landscape.
+Microsoft engineers have improved Photoshop performance on Windows through a collaboration with Adobe, focusing on the Visual C++ compiler to enhance native application speed.
 
-💡 *US AI export controls spark global AI fragmentation fears*
+💡 *Boosting Photoshop speed on Windows can benefit creative professionals worldwide.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-pulls-the-kill-switch-on-anthropics-fable-5-ai-models-sending-global-allies-scrambling-european-and-canadian-leaders-alarm-allies-over-sudden-export-bans)
-
----
-
-### 6. DeepSeek was set to be added to US Entity List for supporting China s military and intelligence operations, report claims White House holds off to avoid escalating tensions with China 
-
-DeepSeek and CXMT are set to be added to the US Entity List due to their alleged ties to Chinese military and intelligence operations. The White House has delayed the move to avoid escalating tensions with Beijing. This decision has significant implications for US-China trade relations.
-
-💡 *US avoids escalating tensions with China over trade restrictions*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/deepseek-was-set-to-be-added-to-us-entity-list-for-supporting-chinas-military-and-intelligence-operations-report-claims-white-house-holds-off-to-avoid-escalating-tensions-with-china)
+🔗 [Read Full Article](https://www.techspot.com/news/112815-microsoft-worked-adobe-improve-photoshop-performance-windows.html)
 
 ---
 
-### 7. Undersea cable connecting Egypt and Syria has been cut, state-owned telecom operator says Damascus blames 'systematic sabotage campaign' as cause of damage 
+### 4. Just 16% of Americans think AI will benefit society, despite chatbot use climbing to 49% of US adults 
 
-An undersea cable connecting Egypt and Syria has been damaged, prompting accusations of sabotage. The Syrian government blames a 'systematic sabotage campaign' for the damage, without naming a specific entity. The cable's location makes it a prime target for disruption.
+49% of US adults use chatbots, up from 33% two years ago, but 51% don't use them at all, with the majority being 50 and older. Despite increasing use, most Americans are skeptical about AI's benefits to society.
 
-💡 *High-stakes geopolitics in the Middle East escalate with undersea sabotage*
+💡 *Growing chatbot adoption contrasts with public skepticism of AI benefits.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/networking/undersea-cable-connecting-egypt-and-syria-has-been-cut-damascus-blames-systematic-sabotage-campaign-as-cause-of-damage)
-
----
-
-### 8. First official details of AMD's next-gen 'Mustang Peak' Threadripper CPUs come into view chips feature DDR5, PCIe 6.0, and a new socket 
-
-AMD's next-gen 'Mustang Peak' Threadripper CPUs feature DDR5 and PCIe 6.0, with a new socket. The CPUs are based on the Zen 6 architecture, indicating significant performance improvements. This marks a significant upgrade for AMD's high-end desktop lineup.
-
-💡 *Enhanced performance and compatibility for high-end desktop applications*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/first-official-details-of-amds-next-gen-mustang-peak-threadripper-cpus-come-into-view-chips-feature-ddr5-pcie-6-0-and-a-new-socket)
+🔗 [Read Full Article](https://www.techspot.com/news/112811-16-americans-think-ai-benefit-society-despite-chatbot.html)
 
 ---
 
-### 9. Best of Sensors: Polar ID aims for better face authentication 
+### 5. AMD confirms next-gen Threadripper with Zen 6 cores, PCIe 6.0, and new TR6 socket 
 
-Polar ID from Metalenz uses polarization image data to enhance face authentication, offering improved cost and performance compared to conventional methods.
+AMD confirms the next-gen Threadripper with Zen 6 cores, PCIe 6.0, and DDR5 memory.
 
-💡 *Advanced polarization technology boosts face authentication accuracy and efficiency.*
+💡 *Upgrade to Zen 6 cores offers significant performance boost for high-end users.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/best-sensors-polar-id-aims-better-face-authentication)
-
----
-
-### 10. Tim Cook confirms Apple price hikes are coming, iPhones could jump $200 or more 
-
-Apple CEO Tim Cook warns of impending price hikes due to rising memory costs.
-
-💡 *Rising memory costs force Apple to consider significant iPhone price jumps.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112806-tim-cook-confirms-apple-price-hikes-coming-iphones.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112810-amd-confirms-next-gen-threadripper-zen-6-cores.html)
 
 ---
 
-### 11. Stop Killing Games lost its biggest battle despite 1.3 million signatures, but the fight isn't over 
+### 6. CEO of Chinese Anthropic rival tells Elon Musk that China will have a Fable 5-class AI model before next year it won t take that long says Jie Tang in response to Musk's prediction of a Q1 target 
 
-The European Commission rejected a petition with 1.3 million signatures to ban permanent game unplayability.
+Elon Musk predicts Chinese AI firms will reach Mythos level by Q1 2027, but Z.ai CEO Jie Tang believes they will achieve this soon, without specifying a timeline.
 
-💡 *Gamers' rights and consumer protection are being undermined by industry practices.*
+💡 *China's AI advancements challenge Musk's predictions and global technology leadership*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112802-stop-killing-games-lost-biggest-battle-despite-13.html)
-
----
-
-### 12. Firefox has an ambitious new roadmap, the browser is also losing millions of users a month 
-
-Mozilla is innovating Firefox with new features, but the browser is losing users. Despite this, the company has published a roadmap outlining upcoming changes. The browser's growth concerns are a major challenge for the company.
-
-💡 *Firefox's user decline highlights Mozilla's struggles to compete in the market.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112803-firefox-has-ambitious-new-roadmap-browser-also-losing.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long)
 
 ---
 
-### 13. AB Download Manager is a free alternative to Internet Download Manager 
+### 7. SK Telecom named as the Korean carrier at the center of Anthropic's Mythos export controls controversy access was revoked days before White House took Mythos and Fable 5 offline for all foreign nationals 
 
-AB Download Manager is a free, open-source download accelerator and manager. It supports download acceleration, queue management, and pause/resume features. Available for Windows, macOS, and Linux.
+SK Telecom's access to Anthropic's Mythos model was revoked by the White House, citing alleged ties to China. This decision came days before the White House took Mythos and Fable 5 offline for foreign nationals. The move aims to prevent potential export control breaches.
 
-💡 *Free alternative to expensive download managers like Internet Download Manager*
+💡 *Export controls protect sensitive AI tech from falling into adversarial hands abroad.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7887-ab-download-manager.html)
-
----
-
-### 14. Android 17 arrives on Pixel with floating apps, foldable features, and new AI tools 
-
-Android 17 brings floating apps, foldable features, and AI tools to Pixel phones, building upon Google's customized version of the operating system.
-
-💡 *Context-dependent Android updates reveal the evolving role of Google's services layer.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112796-android-17-arrives-pixel-floating-apps-foldable-features.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-telecom-named-as-the-korean-carrier-at-the-center-of-anthropics-mythos-export-controls)
 
 ---
 
-### 15. OpenAI made $13 billion in 2025 and lost $21 billion doing it 
+### 8. Tesco UK supermarket chain removes 40,000 servers from VMware infrastructure mass exodus continues due to Broadcom's aggressive subscription model 
 
-OpenAI's revenue surged from $3.7 billion in 2024 to $13.07 billion in 2025, driven by rapid growth in demand for its AI products, particularly ChatGPT, which now has over 900 million weekly users.
+Tesco UK has migrated 40,000 servers away from VMware's infrastructure due to Broadcom's aggressive subscription model. This move is part of a larger exodus from VMware, driven by concerns over the company's pricing strategy. The shift aims to reduce costs and improve efficiency.
 
-💡 *Massive revenue growth comes with significant financial risk and volatility.*
+💡 *Broadcom's pricing model sparks mass VMware exodus among major enterprises*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112794-openai-made-13-billion-2025-lost-21-billion.html)
-
----
-
-### 16. Chrome update fixes 33 security flaws, including seven critical bugs 
-
-Google Chrome's latest update (149.0.7827.156) fixes 33 security flaws, including 7 critical bugs.
-
-💡 *Vulnerabilities pose significant risk to billions of Chrome users worldwide.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/4718-google-chrome.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/tesco-uk-supermarket-chain-removes-40-000-servers-from-vmware-infrastructure-mass-exodus-continues-due-to-broadcoms-aggressive-subscription-model)
 
 ---
 
-### 17. Apple's AI hardware roadmap: camera-equipped AirPods, smart glasses, and foldable iPhones 
+### 9. US energy regulator to order grid operators to expedite AI data center applications says projects should bring their own power or cut usage during high demand 
 
-Apple plans to launch camera-equipped AirPods, smart glasses, and foldable iPhones. The AirPods with cameras, code-named B798, is now slated for a 2027 release. The product lineup marks a significant shift in Apple's AI hardware strategy.
+FERC orders grid operators to expedite AI data center connections that generate their own power or reduce peak demand within 90 days.
 
-💡 *Apple's AI hardware roadmap expands beyond smartphones.*
+💡 *AI data centers must adapt to grid capacity or power themselves.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112792-apple-ai-hardware-roadmap-includes-camera-eqipped-airpods.html)
-
----
-
-### 18. Microsoft refreshes Surface Pro and Surface Laptop with Snapdragon X2 chips, longer battery life, and higher prices 
-
-Microsoft has updated the Surface Pro and Surface Laptop with new features, including Snapdragon X2 chips and longer battery life, but also higher prices.
-
-💡 *Microsoft prioritizes performance and battery life over affordability with new Surface updates.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112797-microsoft-refreshes-surface-pro-surface-laptop-snapdragon-x2.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/us-energy-regulator-to-order-grid-operators-to-expedite-ai-data-center-applications-says-projects-should-bring-their-own-power-or-cut-usage-during-high-demand)
 
 ---
 
-### 19. "The retail SSD market has almost disappeared," Silicon Motion says, as OEMs take what's left 
+### 10. MSI's new Claw 8 EX AI+ handheld with an Intel Arc G3 Extreme and 32GB of RAM costs $1,799 company says it'll be 'a tough year' with chances of 'another price hike' 
 
-The retail SSD market has dwindled due to NAND shortages. Silicon Motion's SSD controllers, previously sold in retail drives, now primarily go to OEMs. This shift affects the availability of SSDs for direct-to-consumer sales.
+MSI's Claw 8 EX AI+ handheld costs $1,799 with Intel Arc G3 Extreme and 32GB RAM. The company anticipates a tough year with potential price hikes. This may deter potential buyers.
 
-💡 *NAND shortages devastate retail SSD market, favoring OEM sales instead*
+💡 *High-end gaming handhelds come with hefty price tags, unpredictable costs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112789-retail-ssd-market-has-almost-disappeared-silicon-motion.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/msis-new-claw-8-ex-ai-handheld-with-an-intel-arc-g3-extreme-and-32gb-of-ram-costs-usd1-799-company-says-itll-be-a-tough-year-with-chances-of-another-price-hike)
+
+---
+
+### 11. Ditching the cloud for local AI how I use two mini PCs to process millions of tokens a day and save money on costly API fees 
+
+I built a local AI infrastructure using mini PCs to process millions of tokens daily, reducing costly API fees. This setup allows for more control and cost-effectiveness in AI model deployment. By leveraging local processing power, I can save money and improve efficiency.
+
+💡 *Rolling your own AI models can save you thousands in API fees annually.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ditching-the-cloud-for-local-ai-how-i-use-two-mini-pcs-to-process-millions-of-tokens-a-day-and-save-money-on-costly-api-fees)
+
+---
+
+### 12. Retro pirate gets two-year suspended jail sentence for being stuck in the past, burning and selling remix CDs of famous artists four-year investigation into copyright infringement on 40-year-old medium began in 2018 
+
+A UK man was sentenced for breaking copyright laws by selling unauthorized music mix CDs. The case began in 2018 and involved remixes of famous artists. The man received a two-year suspended jail sentence.
+
+💡 *Copyright laws protect artists' rights beyond physical medium obsolescence.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/retro-pirate-gets-two-year-suspended-jail-sentence-for-being-stuck-in-the-past-burning-and-selling-remix-cds-of-famous-artists-four-year-investigation-into-copyright-infringement-on-40-year-old-medium-began-in-2018)
+
+---
+
+### 13. Apple CEO Tim Cook warns AI-driven price increases are unavoidable says company is trying its best but 'the situation has become unsustainable' 
+
+Apple CEO Tim Cook warns of unavoidable price increases due to DRAM and NAND memory costs.
+
+💡 *DRAM and NAND memory shortages cause unsustainable price hikes.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/apple-ceo-tim-cook-warns-ai-driven-price-increases-are-unavoidable-says-company-is-trying-its-best-but-the-situation-has-become-unsustainable)
+
+---
+
+### 14. Old-school crime: man gets suspended jail sentence for burning and selling pirated CDs 
+
+A 47-year-old man from East Yorkshire was given a suspended jail sentence for burning and selling pirated CDs after a two-year investigation.
+
+💡 *Intellectual property theft can lead to serious consequences years later.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112825-old-school-crime-man-gets-suspended-jail-sentence.html)
+
+---
+
+### 15. Frontier Airlines is leaking your passport and credit card details from a boarding pass 
+
+Frontier Airlines boarding passes contain sensitive personal data, potentially exposing passengers to identity theft.
+
+💡 *Exposure of passport and credit card details compromises passenger security permanently online.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112817-frontier-airlines-leaking-passport-credit-card-details-boarding.html)
+
+---
+
+### 16. Apple's iPhone Air 2 is getting a second camera and better battery life, coming next year 
+
+The next iPhone Air is reportedly getting a second camera and improved battery life.
+
+💡 *Enhanced camera capabilities boost appeal to photography enthusiasts.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112814-apple-iphone-air-return-spring-2027-new-camera.html)
+
+---
+
+### 17. Taiwan is teaching civilians drone skills learned from Ukraine's war 
+
+Taiwan is empowering civilians with drone skills for defense against China.
+
+💡 *Civilian-led defense efforts bolster Taiwan's resilience against potential invasion threats.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112813-taiwan-teaches-civilians-drone-skills-learned-ukraine-war.html)
 
 ---
 

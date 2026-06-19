@@ -1,125 +1,165 @@
 # 💻 Hardware
-**Week of June 18, 2026**
+**Week of June 19, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-06-18 12:06
+- **Articles this week:** 15
+- **Report generated:** 2026-06-19 12:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Frontier Airlines site leaks all personal info with just a glance at a boarding pass, researcher claims booking number and last name nets you every passenger's personal info, including address, passport, TSA PreCheck, and most credit card info 
+### 1. ViewSonic VX2730D-4K 27-inch 4K dual-refresh gaming monitor review: Delivering speed, color, accuracy, and pixel density ⭐
 
-Frontier Airlines' website exposes passengers' personal information with minimal details, including address, passport, and credit card info, raising concerns over data security and privacy.
+The ViewSonic VX2730D-4K 27-inch 4K gaming monitor offers high performance and accurate color at an affordable price.
 
-💡 *Sensitive passenger data vulnerable to unauthorized access via booking number and last name.*
+💡 *Balanced performance meets affordability in a 4K gaming monitor.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/frontier-airlines-site-leaks-all-personal-info-with-just-a-glance-at-a-boarding-pass-researcher-claims-booking-number-and-last-name-nets-you-every-passengers-personal-info-including-address-passport-tsa-precheck-and-most-credit-card-info)
-
----
-
-### 2. Researchers build brain-like memory device for AI sensors that may improve energy efficiency phototransistor device combines light sensing, memory, and processing to cut data movement 
-
-Oregon State University researchers created a brain-inspired phototransistor combining light sensing, memory, and processing. This device can control the persistence of optical memories, potentially improving energy efficiency in AI systems. The innovation aims to reduce data movement and enhance AI vision capabilities.
-
-💡 *Optical memory control enhances AI energy efficiency and vision capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-build-brain-like-memory-device-for-ai-sensors-that-may-improve-energy-efficiency-phototransistor-device-combines-light-sensing-memory-and-processing-to-cut-data-movement)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/viewsonic-vx2730d-4k-27-inch-4k-dual-refresh-gaming-monitor-review)
 
 ---
 
-### 3. Broadcom unveils fully-integrated quad-core Wi-Fi 8 access point SoCs, 5G FWA router reference platform 
+### 2. Noctua NL-LC1-36 Review: Compromise paves the way ⭐
 
-Broadcom has launched three new fully-integrated quad-core Wi-Fi 8 access point SoCs, which offer improved performance and efficiency. The BCM6772 is for mass-market Ethernet routers, the BCM6774 for high-volume Ethernet routers, and the BCM6776 for premium Ethernet tri-band routers. The BCM6776 is also part of a 5G FWA router platform.
+Noctua's NL-LC1-36 AIO cooler is a promising alternative to air cooling, offering improved pump performance. The product is a departure from Noctua's traditional air coolers and fans, but maintains their brand reputation for quality. AIO liquid coolers are an attractive option for users seeking a hassle-free cooling solution.
 
-💡 *Fully-integrated Wi-Fi 8 SoCs enable more efficient and high-performance routers.*
+💡 *Pump performance redefines AIO coolers with improved efficiency potential.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/18/broadcom-fully-integrated-quad-core-wi-fi-8-access-point-socs-5g-fwa-router-reference-platform/)
-
----
-
-### 4. Rockchip RK3539 quad-core Cortex-A55 SoC shows up in low-cost Android 14 4K TV stick with AV1 codec support 
-
-The HS89 T15 TV stick features a Rockchip RK3539 SoC, offering 4K video capabilities and Android 14 support.
-
-💡 *Affordable 4K streaming with AV1 codec support becomes a reality.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/18/rockchip-rk3539-quad-core-cortex-a55-soc-low-cost-android-14-4k-tv-stick/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/noctua-nl-lc1-36-review)
 
 ---
 
-### 5. Digital entrepreneur creates humorous 'physical NFT minting device' using a Raspberry Pi in quest for 'infinite money machine' contraption trained on M3 MacBook can generate an NFT in 3 seconds, has so far sold one for $9.92 
+### 3. Matter 1.6 specification adds NFC-based commissioning, thermostat suggestions, various core enhancements ⭐
 
-A young entrepreneur creates a portable NFT minting device using a Raspberry Pi, aiming to achieve wealth similar to Elon Musk.
+The Matter 1.6 specification adds NFC-based commissioning and Thermostat Suggestions, enhancing device communication and security.
 
-💡 *Decentralized and automated NFT creation can potentially disrupt art and collectible markets.*
+💡 *Simplifies smart device setup with NFC-based commissioning functionality.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cryptocurrency/digital-entrepreneur-creates-humorous-physical-nft-minting-device-using-a-raspberry-pi-in-quest-for-infinite-money-machine-contraption-trained-on-m3-macbook-can-generate-an-nft-in-3-seconds-has-so-far-sold-one-for-usd9-92)
-
----
-
-### 6. Kaspersky finds malware hidden in Steam Wallpaper Engine that hijacks accounts to spread itself dozens of malicious packages downloaded tens of thousands of times 
-
-Malware was hidden in Steam Wallpaper Engine, hijacking user accounts to spread itself. Dozens of malicious packages were downloaded tens of thousands of times. Kaspersky discovered the malware after several months of smuggling.
-
-💡 *Malicious content can hide in seemingly harmless digital assets*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/kaspersky-finds-malware-hidden-in-steam-wallpapers-that-hijacks-accounts-to-spread-itself)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/19/matter-1-6-specification-adds-nfc-based-commissioning-thermostat-suggestions-various-core-enhancements/)
 
 ---
 
-### 7. First official details of AMD's next-gen 'Mustang Peak' Threadripper CPUs come into view chips feature DDR5, PCIe 6.0, and a new socket 
+### 4. CyberPowerPC Gaming Desktop (GXi3800BSTV2) review: A showpiece with real muscle 
 
-AMD's next-gen 'Mustang Peak' Threadripper CPUs feature DDR5 and PCIe 6.0, with a new socket. The CPUs are based on the Zen 6 architecture, indicating significant performance improvements. This marks a significant upgrade for AMD's high-end desktop lineup.
+The CyberPowerPC Gaming Desktop (GXi3800BSTV2) is a stylish and powerful gaming PC that combines style and speed at an affordable price.
 
-💡 *Enhanced performance and compatibility for high-end desktop applications*
+💡 *Aesthetic appeal meets exceptional gaming performance under budget.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/first-official-details-of-amds-next-gen-mustang-peak-threadripper-cpus-come-into-view-chips-feature-ddr5-pcie-6-0-and-a-new-socket)
-
----
-
-### 8. This handheld x86 mini-computer is heading to Kickstarter with swappable accessories and 4G LTE 
-
-Mogozen's CG Deck is a handheld x86 mini-computer with swappable accessories and 4G LTE. It offers customization options and compatibility with various operating systems. A crowdfunding campaign is planned on Kickstarter.
-
-💡 *Potential game-changer for portable computing with x86 performance and LTE connectivity*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112790-handheld-x86-mini-computer-heading-kickstarter-swappable-accessories.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/cyberpowerpc-gaming-desktop-gxi3800bstv2-review)
 
 ---
 
-### 9. Apple's AI hardware roadmap: camera-equipped AirPods, smart glasses, and foldable iPhones 
+### 5. UP WCL A credit card-sized Wildcat Lake SBC with up to 24GB LPDDR5, 256GB UFS 
 
-Apple plans to launch camera-equipped AirPods, smart glasses, and foldable iPhones. The AirPods with cameras, code-named B798, is now slated for a 2027 release. The product lineup marks a significant shift in Apple's AI hardware strategy.
+The AAEON UP WCL is a compact SBC featuring Intel Wildcat Lake processors with up to 24GB LPDDR5 and 256GB UFS storage, offering various I/O options for expansion.
 
-💡 *Apple's AI hardware roadmap expands beyond smartphones.*
+💡 *High-performance computing in a credit card-sized, compact form factor emerges.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112792-apple-ai-hardware-roadmap-includes-camera-eqipped-airpods.html)
-
----
-
-### 10. Microsoft refreshes Surface Pro and Surface Laptop with Snapdragon X2 chips, longer battery life, and higher prices 
-
-Microsoft has updated the Surface Pro and Surface Laptop with new features, including Snapdragon X2 chips and longer battery life, but also higher prices.
-
-💡 *Microsoft prioritizes performance and battery life over affordability with new Surface updates.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112797-microsoft-refreshes-surface-pro-surface-laptop-snapdragon-x2.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/18/up-wcl-a-credit-card-sized-wildcat-lake-sbc-with-up-to-24gb-lpddr5-256gb-ufs/)
 
 ---
 
-### 11. "The retail SSD market has almost disappeared," Silicon Motion says, as OEMs take what's left 
+### 6. The first unpatchable iPhone exploit in six years targets chips still running Apple's latest iOS 
 
-The retail SSD market has dwindled due to NAND shortages. Silicon Motion's SSD controllers, previously sold in retail drives, now primarily go to OEMs. This shift affects the availability of SSDs for direct-to-consumer sales.
+Security researchers at Paradigm Shift have published the first iPhone bootROM exploit in years, targeting a hardware-level flaw that can only be fixed by upgrading to newer hardware.
 
-💡 *NAND shortages devastate retail SSD market, favoring OEM sales instead*
+💡 *Hardware-level vulnerability makes iOS upgrades ineffective against bootROM exploits.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112789-retail-ssd-market-has-almost-disappeared-silicon-motion.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112820-first-unpatchable-iphone-exploit-six-years-targets-chips.html)
+
+---
+
+### 7. AMD resolves HandBrake scaling issues on Threadripper, gains reach 215% 
+
+AMD resolves HandBrake scaling issues on Threadripper with significant performance gains.
+
+💡 *Optimized scaling on high-core-count CPUs boosts transcoding speeds dramatically.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/4785-handbrake.html)
+
+---
+
+### 8. Microsoft and Adobe team up and make Photoshop 20% faster on Windows 
+
+Microsoft engineers have improved Photoshop performance on Windows through a collaboration with Adobe, focusing on the Visual C++ compiler to enhance native application speed.
+
+💡 *Boosting Photoshop speed on Windows can benefit creative professionals worldwide.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112815-microsoft-worked-adobe-improve-photoshop-performance-windows.html)
+
+---
+
+### 9. AMD confirms next-gen Threadripper with Zen 6 cores, PCIe 6.0, and new TR6 socket 
+
+AMD confirms the next-gen Threadripper with Zen 6 cores, PCIe 6.0, and DDR5 memory.
+
+💡 *Upgrade to Zen 6 cores offers significant performance boost for high-end users.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112810-amd-confirms-next-gen-threadripper-zen-6-cores.html)
+
+---
+
+### 10. Tesco UK supermarket chain removes 40,000 servers from VMware infrastructure mass exodus continues due to Broadcom's aggressive subscription model 
+
+Tesco UK has migrated 40,000 servers away from VMware's infrastructure due to Broadcom's aggressive subscription model. This move is part of a larger exodus from VMware, driven by concerns over the company's pricing strategy. The shift aims to reduce costs and improve efficiency.
+
+💡 *Broadcom's pricing model sparks mass VMware exodus among major enterprises*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/tesco-uk-supermarket-chain-removes-40-000-servers-from-vmware-infrastructure-mass-exodus-continues-due-to-broadcoms-aggressive-subscription-model)
+
+---
+
+### 11. Best USB Chargers 2026: Our tested phone and laptop charger picks, from compact GaN to budget charging bliss 
+
+We tested 20 laptop and phone chargers, identifying top performers from affordable to high-end options.
+
+💡 *Efficient chargers can significantly reduce energy waste and environmental impact.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/usb/best-usb-chargers)
+
+---
+
+### 12. Ditching the cloud for local AI how I use two mini PCs to process millions of tokens a day and save money on costly API fees 
+
+I built a local AI infrastructure using mini PCs to process millions of tokens daily, reducing costly API fees. This setup allows for more control and cost-effectiveness in AI model deployment. By leveraging local processing power, I can save money and improve efficiency.
+
+💡 *Rolling your own AI models can save you thousands in API fees annually.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ditching-the-cloud-for-local-ai-how-i-use-two-mini-pcs-to-process-millions-of-tokens-a-day-and-save-money-on-costly-api-fees)
+
+---
+
+### 13. Rotary Mouse puts a rotary wheel into a standard desktop mouse (Crowdfunding) 
+
+Airra Labs introduces the Rotary Mouse, a standard desktop mouse with a rotary wheel for smoother scrolling. The device comes in two variants: standard and vertical. This allows for faster and more comfortable scrolling during long sessions.
+
+💡 *Revolutionizes mouse scrolling with a more ergonomic circular motion.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/19/rotary-mouse-puts-a-rotary-wheel-into-a-standard-desktop-mouse/)
+
+---
+
+### 14. The Real Reason Nvidia Has Abandoned PC Gamers 
+
+Nvidia's shift away from PC gaming is driven by slowing GPU gains, rising manufacturing costs, and longer upgrade cycles. This makes PC gamers a less attractive business segment. As a result, Nvidia is focusing on more profitable areas.
+
+💡 *Gaming revenue is no longer driving Nvidia's growth trajectory.*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3139-the-reason-nvidia-abandoned-gamers/)
+
+---
+
+### 15. Frontier Airlines is leaking your passport and credit card details from a boarding pass 
+
+Frontier Airlines boarding passes contain sensitive personal data, potentially exposing passengers to identity theft.
+
+💡 *Exposure of passport and credit card details compromises passenger security permanently online.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112817-frontier-airlines-leaking-passport-credit-card-details-boarding.html)
 
 ---
 
