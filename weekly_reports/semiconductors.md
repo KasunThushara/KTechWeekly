@@ -1,65 +1,75 @@
 # ⚡ Semiconductors
-**Week of June 19, 2026**
+**Week of June 20, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-06-19 12:36
+- **Articles this week:** 6
+- **Report generated:** 2026-06-20 11:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. UP WCL A credit card-sized Wildcat Lake SBC with up to 24GB LPDDR5, 256GB UFS 
+### 1. Pine64 Pinevoice A $50 RISC-V Smart Speaker for Home Assistant based on Bouffalo Lab BL606P MCU ⭐
 
-The AAEON UP WCL is a compact SBC featuring Intel Wildcat Lake processors with up to 24GB LPDDR5 and 256GB UFS storage, offering various I/O options for expansion.
+Pine64 has launched the PineVoice smart speaker, a $50 RISC-V device with WiFi, Bluetooth, and Zigbee interfaces, designed to work with Home Assistant. The device features two microphones, a speaker, and various buttons and LEDs. It is based on the Bouffalo Lab BL606P wireless microcontroller.
 
-💡 *High-performance computing in a credit card-sized, compact form factor emerges.*
+💡 *Affordable, open-source smart speaker for Home Assistant automation enthusiasts.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/18/up-wcl-a-credit-card-sized-wildcat-lake-sbc-with-up-to-24gb-lpddr5-256gb-ufs/)
-
----
-
-### 2. The first unpatchable iPhone exploit in six years targets chips still running Apple's latest iOS 
-
-Security researchers at Paradigm Shift have published the first iPhone bootROM exploit in years, targeting a hardware-level flaw that can only be fixed by upgrading to newer hardware.
-
-💡 *Hardware-level vulnerability makes iOS upgrades ineffective against bootROM exploits.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112820-first-unpatchable-iphone-exploit-six-years-targets-chips.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/20/pine64-pinevoice-a-50-risc-v-smart-speaker-for-home-assistant-based-on-bouffalo-lab-bl606p-mcu/)
 
 ---
 
-### 3. Intel hires former SK hynix chief Seok-Hee Lee to lead Intel Foundry advanced packaging company establishing section as 'focused business with dedicated leadership' 
+### 2. Post-silicon era gets closer as industry giants crack the 2D transistor scaling bottleneck with breakthrough tech imec, ASML, and TSMC fab complementary 2D-material transistors at 50nm pitch on a 300mm wafer 
 
-Intel appoints Seok-Hee Lee as EVP of Intel Foundry, bringing experience from SK hynix and SK On. Lee will lead the advanced packaging company, establishing it as a 'focused business with dedicated leadership'. This move aims to enhance Intel's foundry capabilities.
+Imec, ASML, and TSMC successfully integrated 2D-material transistors on a 300mm wafer, breaking the 2D transistor scaling bottleneck.
 
-💡 *Intel seeks industry expertise to boost foundry business and competitiveness.*
+💡 *Advancing 2D transistor scaling crucial for future semiconductor technology breakthroughs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-hires-former-sk-hynix-chief-seok-hee-lee-to-lead-intel-foundry-advanced-packaging)
-
----
-
-### 4. CEO of Chinese Anthropic rival tells Elon Musk that China will have a Fable 5-class AI model before next year it won t take that long says Jie Tang in response to Musk's prediction of a Q1 target 
-
-Elon Musk predicts Chinese AI firms will reach Mythos level by Q1 2027, but Z.ai CEO Jie Tang believes they will achieve this soon, without specifying a timeline.
-
-💡 *China's AI advancements challenge Musk's predictions and global technology leadership*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer)
 
 ---
 
-### 5. SK Telecom named as the Korean carrier at the center of Anthropic's Mythos export controls controversy access was revoked days before White House took Mythos and Fable 5 offline for all foreign nationals 
+### 3. The Trump administration suspects an ASML chipmaking machine made it into China. ASML says that's impossible. 
 
-SK Telecom's access to Anthropic's Mythos model was revoked by the White House, citing alleged ties to China. This decision came days before the White House took Mythos and Fable 5 offline for foreign nationals. The move aims to prevent potential export control breaches.
+ASML disputes claims its EUV chipmaking machine has been transferred to China.
 
-💡 *Export controls protect sensitive AI tech from falling into adversarial hands abroad.*
+💡 *EUV technology underpins world's most advanced processors and chips.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-telecom-named-as-the-korean-carrier-at-the-center-of-anthropics-mythos-export-controls)
+🔗 [Read Full Article](https://www.techspot.com/news/112828-trump-administration-suspects-asml-chipmaking-machine-made-china.html)
+
+---
+
+### 4. China unveils man-portable anti-drone laser that can burn through a drone 1,600 feet away in four seconds backpack-sized 2-kilowatt weapon uses AI for targeting, weighs 55 pounds, and can be carried by a single soldier 
+
+China unveiled a backpack-sized, 2-kilowatt anti-drone laser at a Beijing arms expo, capable of targeting and destroying drones 1,600 feet away in four seconds.
+
+💡 *Advances in portable anti-drone tech enhance battlefield safety and security*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-shows-off-a-backpack-sized-anti-drone-laser-that-one-soldier-can-carry)
+
+---
+
+### 5. ASML denies US government report that its EUV chipmaking tool was shipped to China says 'rumors' are 'inaccurate and damaging to our reputation' 
+
+ASML denies shipping its EUV chipmaking tool to China, calls reports 'inaccurate'. U.S. Commerce Secretary Lutnick expresses concerns about China's possession of the tool. ASML disputes the reports, citing damage to their reputation.
+
+💡 *Access to EUV lithography systems holds significant global tech implications.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/asml-denies-us-government-report-that-its-euv-chipmaking-tool-was-shipped-to-china-says-rumors-are-inaccurate-and-damaging-to-our-reputation)
+
+---
+
+### 6. Meta wants a child safety bill rewritten to shield it from lawsuits over harm to kids 
+
+Meta proposes rewriting a child safety bill to limit its liability over harm to minors, citing concerns about the impact of social media features on youth safety.
+
+💡 *Social media platforms prioritize engagement over minors' mental health and well-being.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112824-meta-wants-child-safety-bill-rewritten-shield-lawsuits.html)
 
 ---
 

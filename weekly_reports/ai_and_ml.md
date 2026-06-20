@@ -1,185 +1,145 @@
 # 🤖 AI & ML
-**Week of June 19, 2026**
+**Week of June 20, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 17
-- **Report generated:** 2026-06-19 12:36
+- **Articles this week:** 13
+- **Report generated:** 2026-06-20 11:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Qualcomm promises a major reset with upstream-first, Qualcomm Linux 2.0 for Dragonwing IoT platforms 
+### 1. Researcher turns wi-fi smart lightbulb into a Banned Book Library open source project makes digital books available via a server and open Wi-Fi access point hacked into an ESP32-powered bulb 
 
-Qualcomm is shifting to an upstream-first, open development model with Qualcomm Linux 2.0, aiming to reduce friction and make builds more predictable across Dragonwing IoT platforms.
+A security researcher has transformed a Wi-Fi smart lightbulb into a digital library, accessible through an open Wi-Fi access point, featuring banned books. This project, called a 'cyberpunk digital dead drop,' utilizes an ESP32-powered bulb to provide a server for digital books. The project aims to promote access to censored literature.
 
-💡 *Unified open development model for improved IoT platform consistency*
+💡 *Censorship circumvented through open-source, hackable digital book repositories.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/19/qualcomm-promises-a-major-reset-with-upstream-first-qualcomm-linux-2-0-for-dragonwing-iot-platforms/)
-
----
-
-### 2. AMD resolves HandBrake scaling issues on Threadripper, gains reach 215% 
-
-AMD resolves HandBrake scaling issues on Threadripper with significant performance gains.
-
-💡 *Optimized scaling on high-core-count CPUs boosts transcoding speeds dramatically.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/4785-handbrake.html)
+🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/researcher-turns-wi-fi-smart-lightbulb-into-a-banned-book-library-open-source-project-makes-digital-books-available-via-a-server-and-open-wi-fi-access-point-hacked-into-an-esp32-powered-bulb)
 
 ---
 
-### 3. Microsoft and Adobe team up and make Photoshop 20% faster on Windows 
+### 2. Post-silicon era gets closer as industry giants crack the 2D transistor scaling bottleneck with breakthrough tech imec, ASML, and TSMC fab complementary 2D-material transistors at 50nm pitch on a 300mm wafer 
 
-Microsoft engineers have improved Photoshop performance on Windows through a collaboration with Adobe, focusing on the Visual C++ compiler to enhance native application speed.
+Imec, ASML, and TSMC successfully integrated 2D-material transistors on a 300mm wafer, breaking the 2D transistor scaling bottleneck.
 
-💡 *Boosting Photoshop speed on Windows can benefit creative professionals worldwide.*
+💡 *Advancing 2D transistor scaling crucial for future semiconductor technology breakthroughs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112815-microsoft-worked-adobe-improve-photoshop-performance-windows.html)
-
----
-
-### 4. Just 16% of Americans think AI will benefit society, despite chatbot use climbing to 49% of US adults 
-
-49% of US adults use chatbots, up from 33% two years ago, but 51% don't use them at all, with the majority being 50 and older. Despite increasing use, most Americans are skeptical about AI's benefits to society.
-
-💡 *Growing chatbot adoption contrasts with public skepticism of AI benefits.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112811-16-americans-think-ai-benefit-society-despite-chatbot.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer)
 
 ---
 
-### 5. AMD confirms next-gen Threadripper with Zen 6 cores, PCIe 6.0, and new TR6 socket 
+### 3. A modder is finally bringing seamless co-op to Dark Souls II, over a decade later 
 
-AMD confirms the next-gen Threadripper with Zen 6 cores, PCIe 6.0, and DDR5 memory.
+A modder named 'Yui' is creating a seamless co-op mode for Dark Souls II. This mod will be released on the Scholar of the First Sin edition, enhancing the base game experience. The modder is working on a long-requested feature over a decade after the game's initial release.
 
-💡 *Upgrade to Zen 6 cores offers significant performance boost for high-end users.*
+💡 *Decades-long fan demand for seamless co-op is finally being met.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112810-amd-confirms-next-gen-threadripper-zen-6-cores.html)
-
----
-
-### 6. CEO of Chinese Anthropic rival tells Elon Musk that China will have a Fable 5-class AI model before next year it won t take that long says Jie Tang in response to Musk's prediction of a Q1 target 
-
-Elon Musk predicts Chinese AI firms will reach Mythos level by Q1 2027, but Z.ai CEO Jie Tang believes they will achieve this soon, without specifying a timeline.
-
-💡 *China's AI advancements challenge Musk's predictions and global technology leadership*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long)
+🔗 [Read Full Article](https://www.techspot.com/news/112834-modder-finally-bringing-seamless-co-op-dark-souls.html)
 
 ---
 
-### 7. SK Telecom named as the Korean carrier at the center of Anthropic's Mythos export controls controversy access was revoked days before White House took Mythos and Fable 5 offline for all foreign nationals 
+### 4. The Trump administration suspects an ASML chipmaking machine made it into China. ASML says that's impossible. 
 
-SK Telecom's access to Anthropic's Mythos model was revoked by the White House, citing alleged ties to China. This decision came days before the White House took Mythos and Fable 5 offline for foreign nationals. The move aims to prevent potential export control breaches.
+ASML disputes claims its EUV chipmaking machine has been transferred to China.
 
-💡 *Export controls protect sensitive AI tech from falling into adversarial hands abroad.*
+💡 *EUV technology underpins world's most advanced processors and chips.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-telecom-named-as-the-korean-carrier-at-the-center-of-anthropics-mythos-export-controls)
-
----
-
-### 8. Tesco UK supermarket chain removes 40,000 servers from VMware infrastructure mass exodus continues due to Broadcom's aggressive subscription model 
-
-Tesco UK has migrated 40,000 servers away from VMware's infrastructure due to Broadcom's aggressive subscription model. This move is part of a larger exodus from VMware, driven by concerns over the company's pricing strategy. The shift aims to reduce costs and improve efficiency.
-
-💡 *Broadcom's pricing model sparks mass VMware exodus among major enterprises*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/tesco-uk-supermarket-chain-removes-40-000-servers-from-vmware-infrastructure-mass-exodus-continues-due-to-broadcoms-aggressive-subscription-model)
+🔗 [Read Full Article](https://www.techspot.com/news/112828-trump-administration-suspects-asml-chipmaking-machine-made-china.html)
 
 ---
 
-### 9. US energy regulator to order grid operators to expedite AI data center applications says projects should bring their own power or cut usage during high demand 
+### 5. China unveils man-portable anti-drone laser that can burn through a drone 1,600 feet away in four seconds backpack-sized 2-kilowatt weapon uses AI for targeting, weighs 55 pounds, and can be carried by a single soldier 
 
-FERC orders grid operators to expedite AI data center connections that generate their own power or reduce peak demand within 90 days.
+China unveiled a backpack-sized, 2-kilowatt anti-drone laser at a Beijing arms expo, capable of targeting and destroying drones 1,600 feet away in four seconds.
 
-💡 *AI data centers must adapt to grid capacity or power themselves.*
+💡 *Advances in portable anti-drone tech enhance battlefield safety and security*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/us-energy-regulator-to-order-grid-operators-to-expedite-ai-data-center-applications-says-projects-should-bring-their-own-power-or-cut-usage-during-high-demand)
-
----
-
-### 10. MSI's new Claw 8 EX AI+ handheld with an Intel Arc G3 Extreme and 32GB of RAM costs $1,799 company says it'll be 'a tough year' with chances of 'another price hike' 
-
-MSI's Claw 8 EX AI+ handheld costs $1,799 with Intel Arc G3 Extreme and 32GB RAM. The company anticipates a tough year with potential price hikes. This may deter potential buyers.
-
-💡 *High-end gaming handhelds come with hefty price tags, unpredictable costs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/msis-new-claw-8-ex-ai-handheld-with-an-intel-arc-g3-extreme-and-32gb-of-ram-costs-usd1-799-company-says-itll-be-a-tough-year-with-chances-of-another-price-hike)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-shows-off-a-backpack-sized-anti-drone-laser-that-one-soldier-can-carry)
 
 ---
 
-### 11. Ditching the cloud for local AI how I use two mini PCs to process millions of tokens a day and save money on costly API fees 
+### 6. Amazon workers who testified against AI data centers say they were intimidated by the company, monitored at work employees face possible termination for violating company policy, speaking as representatives 
 
-I built a local AI infrastructure using mini PCs to process millions of tokens daily, reducing costly API fees. This setup allows for more control and cost-effectiveness in AI model deployment. By leveraging local processing power, I can save money and improve efficiency.
+Amazon workers testify to intimidation and monitoring during work hours, citing fears of termination.
 
-💡 *Rolling your own AI models can save you thousands in API fees annually.*
+💡 *Amazon silences dissenting employees to protect its AI data centers interests.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ditching-the-cloud-for-local-ai-how-i-use-two-mini-pcs-to-process-millions-of-tokens-a-day-and-save-money-on-costly-api-fees)
-
----
-
-### 12. Retro pirate gets two-year suspended jail sentence for being stuck in the past, burning and selling remix CDs of famous artists four-year investigation into copyright infringement on 40-year-old medium began in 2018 
-
-A UK man was sentenced for breaking copyright laws by selling unauthorized music mix CDs. The case began in 2018 and involved remixes of famous artists. The man received a two-year suspended jail sentence.
-
-💡 *Copyright laws protect artists' rights beyond physical medium obsolescence.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/retro-pirate-gets-two-year-suspended-jail-sentence-for-being-stuck-in-the-past-burning-and-selling-remix-cds-of-famous-artists-four-year-investigation-into-copyright-infringement-on-40-year-old-medium-began-in-2018)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/amazon-workers-who-testified-against-ai-data-centers-say-they-were-intimidated-by-the-company-monitored-at-work-employees-face-possible-termination-for-violating-company-policy-speaking-as-representatives)
 
 ---
 
-### 13. Apple CEO Tim Cook warns AI-driven price increases are unavoidable says company is trying its best but 'the situation has become unsustainable' 
+### 7. Bernie Sanders files bill proposing 50% public ownership of US AI firms and giving out $1,000 dividends VP Vance says Trump supports giving the American people a stake in AI companies, prefers pre-distribution over giving away cash 
 
-Apple CEO Tim Cook warns of unavoidable price increases due to DRAM and NAND memory costs.
+US politicians propose public ownership in AI firms, offering dividends to citizens.
 
-💡 *DRAM and NAND memory shortages cause unsustainable price hikes.*
+💡 *Equitable AI ownership ensures shared benefits and addresses wealth disparities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/apple-ceo-tim-cook-warns-ai-driven-price-increases-are-unavoidable-says-company-is-trying-its-best-but-the-situation-has-become-unsustainable)
-
----
-
-### 14. Old-school crime: man gets suspended jail sentence for burning and selling pirated CDs 
-
-A 47-year-old man from East Yorkshire was given a suspended jail sentence for burning and selling pirated CDs after a two-year investigation.
-
-💡 *Intellectual property theft can lead to serious consequences years later.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112825-old-school-crime-man-gets-suspended-jail-sentence.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/bernie-sanders-files-bill-proposing-50-percent-public-ownership-of-us-ai-firms-and-giving-out-usd1-000-dividends-vp-vance-says-trump-supports-giving-the-american-people-a-stake-in-ai-companies-prefers-pre-distribution-over-giving-away-cash)
 
 ---
 
-### 15. Frontier Airlines is leaking your passport and credit card details from a boarding pass 
+### 8. ASML denies US government report that its EUV chipmaking tool was shipped to China says 'rumors' are 'inaccurate and damaging to our reputation' 
 
-Frontier Airlines boarding passes contain sensitive personal data, potentially exposing passengers to identity theft.
+ASML denies shipping its EUV chipmaking tool to China, calls reports 'inaccurate'. U.S. Commerce Secretary Lutnick expresses concerns about China's possession of the tool. ASML disputes the reports, citing damage to their reputation.
 
-💡 *Exposure of passport and credit card details compromises passenger security permanently online.*
+💡 *Access to EUV lithography systems holds significant global tech implications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112817-frontier-airlines-leaking-passport-credit-card-details-boarding.html)
-
----
-
-### 16. Apple's iPhone Air 2 is getting a second camera and better battery life, coming next year 
-
-The next iPhone Air is reportedly getting a second camera and improved battery life.
-
-💡 *Enhanced camera capabilities boost appeal to photography enthusiasts.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112814-apple-iphone-air-return-spring-2027-new-camera.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/asml-denies-us-government-report-that-its-euv-chipmaking-tool-was-shipped-to-china-says-rumors-are-inaccurate-and-damaging-to-our-reputation)
 
 ---
 
-### 17. Taiwan is teaching civilians drone skills learned from Ukraine's war 
+### 9. Texas flooding gets the AI & Sensor early warning treatment 
 
-Taiwan is empowering civilians with drone skills for defense against China.
+Axonis and Simplicity Integration set up a flood-warning system in Galveston County, while the University of Texas at Arlington and Rice University received a $4M grant for a flood warning system in the Hill Country, utilizing AI and sensor technology for early warnings.
 
-💡 *Civilian-led defense efforts bolster Taiwan's resilience against potential invasion threats.*
+💡 *Early flood warnings save lives and reduce economic damage.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112813-taiwan-teaches-civilians-drone-skills-learned-ukraine-war.html)
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/texas-flooding-gets-ai-sensor-early-warning-treatment)
+
+---
+
+### 10. Palworld's studio won't use generative AI because "gamers don't want it" 
+
+Pocketpair studio is not using generative AI in its games, citing customer rejection of AI-generated assets.
+
+💡 *Players prefer authentic, human-made game content over AI-generated alternatives.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112832-palworld-studio-wont-use-generative-ai-because-gamers.html)
+
+---
+
+### 11. MSI Claw 8 EX AI+ with Intel Arc G3 launches at $1,800 
+
+MSI's Claw 8 EX AI+ will ship on June 23, 2026, for $1,800 due to high memory costs.
+
+💡 *High memory costs contribute to expensive gaming laptops.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112819-msi-new-claw-8-ex-ai-handheld-costs.html)
+
+---
+
+### 12. Waymo is recalling almost 3,900 robotaxis for driving into freeway construction zones 
+
+Waymo is recalling 3,900 robotaxis due to incidents in freeway construction zones. The vehicles' fifth-generation automated driving system may enter and drive at speed in construction areas without proper caution. This poses a safety risk to passengers and other road users.
+
+💡 *Autonomous vehicles may struggle with unexpected infrastructure changes.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112826-waymo-recalls-3871-robotaxis-after-cars-drove-active.html)
+
+---
+
+### 13. Your 15-inch daily driver is now $250 off Dell 15 laptop with hexa-core CPU, 8GB RAM dips to $349 
+
+The Dell 15 laptop's price has dropped significantly, offering a more affordable option. It now costs $349.99, a reduction of $250 from its original price of $599.99. This laptop features a hexa-core CPU and 8GB RAM.
+
+💡 *Significant price drop makes high-performance laptop more accessible to budget buyers*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/your-15-inch-daily-driver-is-now-usd250-off-dell-15-laptop-with-hexa-core-cpu-8gb-ram-dips-to-usd349)
 
 ---
 

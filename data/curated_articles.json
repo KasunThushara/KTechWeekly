@@ -1,361 +1,233 @@
 [
   {
-    "title": "ViewSonic VX2730D-4K 27-inch 4K dual-refresh gaming monitor review: Delivering speed, color, accuracy, and pixel density",
-    "summary": "ViewSonic s VX2730D-4K is a stellar value. It s a 27-inch 4K gaming monitor with 144 Hz, 288 Hz in FHD, Adaptive-Sync, wide gamut color and HDR. Accurate color and high performance deliver an excellent price/performance ratio.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/viewsonic-vx2730d-4k-27-inch-4k-dual-refresh-gaming-monitor-review",
+    "title": "Researcher turns wi-fi smart lightbulb into a Banned Book Library open source project makes digital books available via a server and open Wi-Fi access point hacked into an ESP32-powered bulb",
+    "summary": "A security researcher has added another dimension to smart lightbulbs by stealthily adding what they call a 'cyberpunk digital dead drop' full of 'banned books.'",
+    "link": "https://www.tomshardware.com/maker-stem/researcher-turns-wi-fi-smart-lightbulb-into-a-banned-book-library-open-source-project-makes-digital-books-available-via-a-server-and-open-wi-fi-access-point-hacked-into-an-esp32-powered-bulb",
     "categories": [
       "Hardware",
-      "GPUs"
+      "AI & ML"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-06-19T12:35:14.915956"
+    "quality_score": 10,
+    "processed_date": "2026-06-20T11:01:59.102570"
   },
   {
-    "title": "Intel hires former SK hynix chief Seok-Hee Lee to lead Intel Foundry advanced packaging company establishing section as 'focused business with dedicated leadership'",
-    "summary": "Intel has appointed Seok-Hee Lee, the former chief executive of memory maker SK hynix and battery maker SK On, as executive vice president of Intel Foundry.",
-    "link": "https://www.tomshardware.com/tech-industry/intel-hires-former-sk-hynix-chief-seok-hee-lee-to-lead-intel-foundry-advanced-packaging",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.916073"
-  },
-  {
-    "title": "CEO of Chinese Anthropic rival tells Elon Musk that China will have a Fable 5-class AI model before next year it won t take that long says Jie Tang in response to Musk's prediction of a Q1 target",
-    "summary": "Elon Musk estimated that Chinese AI firms would have an LLM with Mythos level capability by the first quarter of 2027. However, the CEO of Beijing-based Z.ai responded to the comment, saying that their company will achieve this soon, but did not give a concrete timeline.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long",
+    "title": "China unveils man-portable anti-drone laser that can burn through a drone 1,600 feet away in four seconds backpack-sized 2-kilowatt weapon uses AI for targeting, weighs 55 pounds, and can be carried by a single soldier",
+    "summary": "Chinese defense supplier Harbin Xinguang Optic-Electronics Technology demo d two man-portable anti-drone lasers at a Beijing arms expo this week.",
+    "link": "https://www.tomshardware.com/tech-industry/china-shows-off-a-backpack-sized-anti-drone-laser-that-one-soldier-can-carry",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.916220"
+    "processed_date": "2026-06-20T11:01:59.102718"
   },
   {
-    "title": "SK Telecom named as the Korean carrier at the center of Anthropic's Mythos export controls controversy access was revoked days before White House took Mythos and Fable 5 offline for all foreign nationals",
-    "summary": "Wired has identified SK Telecom as the South Korean telecom company whose access to Anthropic's Claude Mythos model the White House ordered revoked over alleged ties to China.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-telecom-named-as-the-korean-carrier-at-the-center-of-anthropics-mythos-export-controls",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.916360"
-  },
-  {
-    "title": "16-year-old SATA II SSD survives 1 petabyte of writes 25x more than the drive's endurance rating",
-    "summary": "As part of an experiment, an enthusiast has written one petabyte of data on a legacy Sandisk P4 SATA II SSD that was released 16 years ago.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-19T12:35:14.916455"
-  },
-  {
-    "title": "Tesco UK supermarket chain removes 40,000 servers from VMware infrastructure mass exodus continues due to Broadcom's aggressive subscription model",
-    "summary": "Tesco UK supermarket chain moves 40,000 servers off of VMWare infrastructure mass exodus continues thanks to Broadcom's pricing shenanigans",
-    "link": "https://www.tomshardware.com/desktops/servers/tesco-uk-supermarket-chain-removes-40-000-servers-from-vmware-infrastructure-mass-exodus-continues-due-to-broadcoms-aggressive-subscription-model",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.916559"
-  },
-  {
-    "title": "US energy regulator to order grid operators to expedite AI data center applications says projects should bring their own power or cut usage during high demand",
-    "summary": "The FERC says that it will order grid operators to fast-track AI data center connections that generate their own power or reduce demand during peak hours. It demands that these changes must be enacted within 90 days.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/us-energy-regulator-to-order-grid-operators-to-expedite-ai-data-center-applications-says-projects-should-bring-their-own-power-or-cut-usage-during-high-demand",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.916675"
-  },
-  {
-    "title": "Scammers in China sell $222 RTX 4090 with fake GPU die made out of plastic instead of real silicon marked with 2030 production dates, the card didn't even have working VRAM",
-    "summary": "Nvidia dupes keep getting more sophisticated as time goes on, with the latest example using a plastic die instead of real silicon on an RTX 4090.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/scammers-in-china-sell-usd222-rtx-4090-with-fake-gpu-die-made-out-of-plastic-instead-of-real-silicon-marked-with-2030-production-dates-the-card-didnt-even-have-working-vram",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.916775"
-  },
-  {
-    "title": "Best USB Chargers 2026: Our tested phone and laptop charger picks, from compact GaN to budget charging bliss",
-    "summary": "We tested 20 laptop and phone chargers, ranging from cheap no-name 15W options to 140W beasts. Find out what stood out as the best.",
-    "link": "https://www.tomshardware.com/peripherals/usb/best-usb-chargers",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.916879"
-  },
-  {
-    "title": "MSI's new Claw 8 EX AI+ handheld with an Intel Arc G3 Extreme and 32GB of RAM costs $1,799 company says it'll be 'a tough year' with chances of 'another price hike'",
-    "summary": "MSI's new Arc G3 Extreme-based handheld costs nearly $2,000 but the company is rather apologetic about it, even if it's warning that the price may rise in the future.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/msis-new-claw-8-ex-ai-handheld-with-an-intel-arc-g3-extreme-and-32gb-of-ram-costs-usd1-799-company-says-itll-be-a-tough-year-with-chances-of-another-price-hike",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.916980"
-  },
-  {
-    "title": "Ditching the cloud for local AI how I use two mini PCs to process millions of tokens a day and save money on costly API fees",
-    "summary": "As new data center buildouts hit planning walls and AI inference providers hike costs, is the future of AI to roll your own models?",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ditching-the-cloud-for-local-ai-how-i-use-two-mini-pcs-to-process-millions-of-tokens-a-day-and-save-money-on-costly-api-fees",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.917079"
-  },
-  {
-    "title": "Noctua NL-LC1-36 Review: Compromise paves the way",
-    "summary": "We test Noctua s first attempt at an all-in-one liquid cooler, focusing specifically on pump performance to determine whether Noctua s AIO is truly a viable alternative to swapping the fans on another unit and the brand s own legendary air cooler.",
-    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/noctua-nl-lc1-36-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-19T12:35:14.917179"
-  },
-  {
-    "title": "Retro pirate gets two-year suspended jail sentence for being stuck in the past, burning and selling remix CDs of famous artists four-year investigation into copyright infringement on 40-year-old medium began in 2018",
-    "summary": "A UK man has been sentenced after pleading guilty to the unauthorized mixing and selling of music CDs, and thus breaking copyright laws. It is 2026.",
-    "link": "https://www.tomshardware.com/pc-components/storage/retro-pirate-gets-two-year-suspended-jail-sentence-for-being-stuck-in-the-past-burning-and-selling-remix-cds-of-famous-artists-four-year-investigation-into-copyright-infringement-on-40-year-old-medium-began-in-2018",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.917297"
-  },
-  {
-    "title": "CyberPowerPC Gaming Desktop (GXi3800BSTV2) review: A showpiece with real muscle",
-    "summary": "Built to be shown off, CyberPower s latest gaming desktop expertly combines style and speed while keeping the price reasonable.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/cyberpowerpc-gaming-desktop-gxi3800bstv2-review",
+    "title": "AMD will reinstate memory encryption on Ryzen 9000 CPUs through a BIOS update in July TSME is coming back after 'valuable community feedback'",
+    "summary": "AMD says it will reinstate firmware memory encryption (TSME) on non-PRO Ryzen 9000 desktop CPUs through a BIOS update in July, following the feature's removal through an earlier firmware update.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-19T12:35:14.917389"
+    "quality_score": 5,
+    "processed_date": "2026-06-20T11:01:59.102841"
   },
   {
-    "title": "Bambu Lab launches PLA Pure filament New material boasts kid-safe toy certifications and \"asbestos-free\" talc",
-    "summary": "A new pure PLA from Bambu Lab isn t what you think it is.",
-    "link": "https://www.tomshardware.com/3d-printing/bambu-lab-launches-pla-pure-filament-new-material-boasts-kid-safe-toy-certifications-and-asbestos-free-talc",
+    "title": "Your 15-inch daily driver is now $250 off Dell 15 laptop with hexa-core CPU, 8GB RAM dips to $349",
+    "summary": "The Dell 15 laptop has just come down from its regular price of $599.99 to $349.99.",
+    "link": "https://www.tomshardware.com/laptops/your-15-inch-daily-driver-is-now-usd250-off-dell-15-laptop-with-hexa-core-cpu-8gb-ram-dips-to-usd349",
     "categories": [
-      "Tech News"
+      "Hardware",
+      "AI & ML"
     ],
     "quality_score": 0,
-    "processed_date": "2026-06-19T12:35:14.917474"
+    "processed_date": "2026-06-20T11:01:59.102949"
   },
   {
-    "title": "Apple CEO Tim Cook warns AI-driven price increases are unavoidable says company is trying its best but 'the situation has become unsustainable'",
-    "summary": "Apple's Tim Cook says that Apple can no longer 'shield' its customers from increased prices of DRAM and NAND memory.",
-    "link": "https://www.tomshardware.com/laptops/apple-ceo-tim-cook-warns-ai-driven-price-increases-are-unavoidable-says-company-is-trying-its-best-but-the-situation-has-become-unsustainable",
+    "title": "The Best Thunderbolt and USB-C Docks in 2026: Up to 140W power delivery, 10 GbE, and even internal M.2 SSD slots",
+    "summary": "These are the best Thunderbolt and USB-C docks for expanding your laptop's port options.",
+    "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/the-best-thunderbolt-and-usb-c-docks-for-laptops",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-20T11:01:59.103051"
+  },
+  {
+    "title": "Amazon workers who testified against AI data centers say they were intimidated by the company, monitored at work employees face possible termination for violating company policy, speaking as representatives",
+    "summary": "The three Amazon workers claim that they've been intimidated during the Zoom meetings and were being monitored while at work.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-workers-who-testified-against-ai-data-centers-say-they-were-intimidated-by-the-company-monitored-at-work-employees-face-possible-termination-for-violating-company-policy-speaking-as-representatives",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.917589"
+    "processed_date": "2026-06-20T11:01:59.103160"
   },
   {
-    "title": "Rotary Mouse puts a rotary wheel into a standard desktop mouse (Crowdfunding)",
-    "summary": "While mouse sensors have improved a lot over time, the scroll wheel has mostly stayed the same. Normal scrolling requires you to keep flicking your finger up and down, which can get uncomfortable during long sessions like coding or video editing. To change this, Airra Labs has introduced the Rotary Mouse, which uses a rotary wheel in place of the scroll wheel to let you scroll with a simple circular motion. It comes in two variants: a standard and a vertical version. The standard variant features a larger circular, jog-wheel-like dial on top that lets you scroll by rotating your finger. The vertical variant also comes with the same wheel but is designed so you can scroll like a regular mouse by flicking your finger up and down, while still using the same circular motion. This provides a wider range of movement and can make scrolling faster and easier than with [...] The post Rotary Mouse puts a rotary wheel into a standard desktop mouse (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/19/rotary-mouse-puts-a-rotary-wheel-into-a-standard-desktop-mouse/",
+    "title": "Bernie Sanders files bill proposing 50% public ownership of US AI firms and giving out $1,000 dividends VP Vance says Trump supports giving the American people a stake in AI companies, prefers pre-distribution over giving away cash",
+    "summary": "U.S. politicians are thinking about how they can ensure that the American people can benefit from AI.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bernie-sanders-files-bill-proposing-50-percent-public-ownership-of-us-ai-firms-and-giving-out-usd1-000-dividends-vp-vance-says-trump-supports-giving-the-american-people-a-stake-in-ai-companies-prefers-pre-distribution-over-giving-away-cash",
     "categories": [
-      "Hardware",
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.918072"
+    "processed_date": "2026-06-20T11:01:59.103268"
   },
   {
-    "title": "Matter 1.6 specification adds NFC-based commissioning, thermostat suggestions, various core enhancements",
-    "summary": "Connectivity Standards Alliance (CSA) has recently released the Matter 1.6 specification with new features such as NFC-based commissioning, Thermostat Suggestions for smarter climate control, and a range of core enhancements designed to improve device communication, safety devices visibility, and ecosystem security. The last time we wrote about a Matter release was for Matter 1.4.2, which added Wi-Fi-only provisioning and improved security, and we somehow missed the Matter 1.5 release that introduced cameras, closures (window shades, drapes, awnings, gates, garage doors ), and enhanced energy management capabilities. Let s have a closer look at the new Matter 1.6 release. Matter 1.6 highlights: NFC-based commissioning Commissioning can be challenging for devices like ceiling fixtures and in-wall switches, since they may need to be configured before they are installed. Matter 1.6 addresses this issue by allowing a Matter device to be commissioned through bi-directional NFC communication before the device is fully powered on. That s [...] The post Matter 1.6 specification adds NFC-based commissioning, thermostat suggestions, various core enhancements appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/19/matter-1-6-specification-adds-nfc-based-commissioning-thermostat-suggestions-various-core-enhancements/",
+    "title": "ASML denies US government report that its EUV chipmaking tool was shipped to China says 'rumors' are 'inaccurate and damaging to our reputation'",
+    "summary": "U.S. Commerce Secretary Lutnick expresses concerns in a conversation with ASML executives that China has an EUV lithography system as ASML denies shipping such scanners to the PRC.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-denies-us-government-report-that-its-euv-chipmaking-tool-was-shipped-to-china-says-rumors-are-inaccurate-and-damaging-to-our-reputation",
     "categories": [
-      "Hardware",
-      "Tech News"
+      "Semiconductors",
+      "AI & ML"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-06-19T12:35:14.918268"
+    "quality_score": 5,
+    "processed_date": "2026-06-20T11:01:59.103404"
   },
   {
-    "title": "Qualcomm promises a major reset with upstream-first, Qualcomm Linux 2.0 for Dragonwing IoT platforms",
-    "summary": "Linux on Qualcomm SoCs has been a roller coaster, with hope often followed by disappointment, at least for the Snapdragon family. The company aims to change that with Qualcomm Linux 2.0 for Dragonwing IoT platforms, as announced on LinkedIn: With Qualcomm Linux 2.0, we re shifting to an upstream-first, open development model that is unified and scalable across all Qualcomm Dragonwing IoT platforms. This means an upstream first model with a BSP that tracks mainline to minimize friction and enables you to make more predictable builds. Tune in to see our first-ever live demo, along with a lifecycle and release strategy, core architecture and Yocto changes, and practical migration paths from previous versions The video is embedded below, but will only be live on June 30. In the meantime, the description provides a few more details: If you ve dealt with fragmented BSPs, platform-specific kernel forks, or painful bring up across Qualcomm SoCs, this [...] The post Qualcomm promises a major reset with upstream-first, Qualcomm Linux 2.0 for Dragonwing IoT platforms appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/19/qualcomm-promises-a-major-reset-with-upstream-first-qualcomm-linux-2-0-for-dragonwing-iot-platforms/",
+    "title": "Epic Games unveils Launcher V2 in re-attempt to topple Steam, says redesigned storefront is up to 6.5x faster promises player profiles, user reviews, universal controller support, and much more",
+    "summary": "Epic Games has just shown off a new year-long roadmap for its launcher, promising to bring community-requested features and a faster overall platform in the next 12 months.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/epic-games-unveils-launcher-v2-in-re-attempt-to-topple-steam-says-redesigned-storefront-is-up-to-6-5x-faster-promises-player-profiles-user-reviews-universal-controller-support-and-much-more",
     "categories": [
-      "AI & ML",
-      "Tech News"
+      "Tech News",
+      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-19T12:35:14.918448"
+    "processed_date": "2026-06-20T11:01:59.103521"
   },
   {
-    "title": "UP WCL A credit card-sized Wildcat Lake SBC with up to 24GB LPDDR5, 256GB UFS",
-    "summary": "AAEON s UP WCL is an upcoming credit card-sized single board computer (SBC) powered by an Intel Wildcat Lake processor up to the Core 7 350 hexa-core CPU paired with up to 24GB LPDDR5 and 256GB UFS storage. The board also features an HDMI 2.1 video output, a 2.5GbE RJ45 jack, an M.2 Key-E socket for optional WiFi and Bluetooth connectivity, three USB 3.2 ports, and a few wafers for I/O expansion. AAEON UP WCL specifications: Wildcat Lake SoC (one or the other) Intel Core 3 304 5-core CPU 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) NPU 15 TOPS Intel Core 5 320 6-core CPU 2x P-cores @ 1.5/4.6 GHz (Turbo) + 4x LPE-cores @ 1.4/3.4 GHz (Turbo) GPU 2-core Intel Xe3 Graphics @ 2.5 GHz (20 TOPS) NPU [...] The post UP WCL A credit card-sized Wildcat Lake SBC with up to 24GB LPDDR5, 256GB UFS appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/18/up-wcl-a-credit-card-sized-wildcat-lake-sbc-with-up-to-24gb-lpddr5-256gb-ufs/",
+    "title": "Post-silicon era gets closer as industry giants crack the 2D transistor scaling bottleneck with breakthrough tech imec, ASML, and TSMC fab complementary 2D-material transistors at 50nm pitch on a 300mm wafer",
+    "summary": "Imec, ASML, and TSMC have integrated both n-type and p-type transistors with atomically thin 2D channels on a single 300mm wafer.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-20T11:01:59.103636"
+  },
+  {
+    "title": "Pine64 Pinevoice A $50 RISC-V Smart Speaker for Home Assistant based on Bouffalo Lab BL606P MCU",
+    "summary": "After over two years in the making, Pine64 has now launched the PineVoice (previously PineVox) smart speaker based on the Bouffalo Lab BL606P RISC-V wireless microcontroller with WiFi, Bluetooth, and Zigbee radio interfaces. The device also features two microphones, a speaker, a USB 2.0 OTG port, volume buttons, a mute button with LED, a start/stop button, and four RGB LEDs. The PineVoice smart speaker is mainly designed to work with Home Assistant. PineVoice specifications: SoC Bouffalo Lab BL606P CPU D0 core T-Head C906 64-bit RISC-V (RV64IMAFCV) CPU @ 480 MHz M0 core T-Head E907 32-bit RISC-V (RV32IMAFCP) CPU @ 320 MHz Memory 544KB RAM (788KB SRAM listed on the Pine64 store), 16MB embedded PSRAM Storage 128KB ROM, 4KB eFuse Wireless 2.4 GHz 802.11 b/g/n 1T1R WiFi 4 Bluetooth 5.x Dual-mode (Classis + BLE) 802.15.4 radio (Zigbee) Storage 128Mbit (16MB) SPI NOR flash Audio 2x [...] The post Pine64 Pinevoice A $50 RISC-V Smart Speaker for Home Assistant based on Bouffalo Lab BL606P MCU appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/20/pine64-pinevoice-a-50-risc-v-smart-speaker-for-home-assistant-based-on-bouffalo-lab-bl606p-mcu/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-19T12:35:14.918601"
+    "quality_score": 15,
+    "processed_date": "2026-06-20T11:01:59.104205"
   },
   {
-    "title": "Midjourney wants to scan your body with half a million ultrasonic sensors, at a spa",
-    "summary": "The concept is still largely theoretical, but the company describes a system built around an enormous number of tiny sensors working in tandem. A person would pass through a scanning chamber where ultrasonic signals are directed at the body from all sides, capturing internal data from multiple angles at once.... Read Entire Article",
-    "link": "https://www.techspot.com/news/112821-midjourney-wants-scan-body-half-million-ultrasonic-sensors.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.919857"
-  },
-  {
-    "title": "The Real Reason Nvidia Has Abandoned PC Gamers",
-    "summary": "Nvidia's shift away from PC gaming wasn't driven by AI alone . Slowing GPU gains, rising manufacturing costs, and longer upgrade cycles made gamers a far less attractive business. Read Entire Article",
-    "link": "https://www.techspot.com/article/3139-the-reason-nvidia-abandoned-gamers/",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.919961"
-  },
-  {
-    "title": "Old-school crime: man gets suspended jail sentence for burning and selling pirated CDs",
-    "summary": "Trading standards officers first began investigating 47-year-old Marc Kearns from Snaith in East Yorkshire in 2019. The BBC reports that the the British Phonographic Industry had become aware of his love of old-school CD music burning a year earlier. A warrant was finally executed in September 2022. Read Entire Article",
-    "link": "https://www.techspot.com/news/112825-old-school-crime-man-gets-suspended-jail-sentence.html",
+    "title": "Texas flooding gets the AI & Sensor early warning treatment",
+    "summary": "Axonis and Simplicity Integration set up flood-warning system in Galveston County, Also, UTA and Rice got $4M for flood warning in the Hill Country.",
+    "link": "https://www.fiercesensors.com/sensors/texas-flooding-gets-ai-sensor-early-warning-treatment",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.920071"
+    "processed_date": "2026-06-20T11:01:59.105341"
   },
   {
-    "title": "The first unpatchable iPhone exploit in six years targets chips still running Apple's latest iOS",
-    "summary": "Security researchers at Paradigm Shift have published the first iPhone bootROM exploit in years. The process, called usbliter8, targets a hardware-level flaw, which means upgrading to newer hardware is the only real fix. Read Entire Article",
-    "link": "https://www.techspot.com/news/112820-first-unpatchable-iphone-exploit-six-years-targets-chips.html",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-19T12:35:14.920173"
-  },
-  {
-    "title": "AMD resolves HandBrake scaling issues on Threadripper, gains reach 215%",
-    "summary": "AMD has identified and fixed two scaling bottlenecks in HandBrake that were limiting performance on high-core-count CPUs. Starting with version 1.11 , these improvements significantly boost transcoding speeds on Ryzen Threadripper and Threadripper Pro processors, with gains of up to 215% reported in some workloads. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/4785-handbrake.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-19T12:35:14.920314"
-  },
-  {
-    "title": "Frontier Airlines is leaking your passport and credit card details from a boarding pass",
-    "summary": "If you've ever flown Frontier Airlines and your boarding pass ended up in a photo, a trash can, or a social media post, your personal data may be accessible to anyone right now. Read Entire Article",
-    "link": "https://www.techspot.com/news/112817-frontier-airlines-leaking-passport-credit-card-details-boarding.html",
+    "title": "A modder is finally bringing seamless co-op to Dark Souls II, over a decade later",
+    "summary": "A well-known FromSoftware modder named \"Yui\" is working on a new seamless co-op mode for Dark Souls II. The mod is planned for release on the Scholar of the First Sin edition, which includes all previously released DLC and several enhancements to the base game. In a recent post, Yui... Read Entire Article",
+    "link": "https://www.techspot.com/news/112834-modder-finally-bringing-seamless-co-op-dark-souls.html",
     "categories": [
       "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-20T11:01:59.105533"
+  },
+  {
+    "title": "Palworld's studio won't use generative AI because \"gamers don't want it\"",
+    "summary": "The debate around AI-generated assets in games is heating up, and Pocketpair has already taken a clear stance. The Japanese studio, best known for Palworld, says it is not using generative AI in its games, arguing that potential customers are rejecting \"fake\" assets and other AI-generated content. Read Entire Article",
+    "link": "https://www.techspot.com/news/112832-palworld-studio-wont-use-generative-ai-because-gamers.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-20T11:01:59.105659"
+  },
+  {
+    "title": "The Trump administration suspects an ASML chipmaking machine made it into China. ASML says that's impossible.",
+    "summary": "EUV is the technology that underpins today's most advanced processors. The machines are used by companies such as TSMC to manufacture high-performance chips for Nvidia and Apple. They are roughly the size of a school bus, are produced in limited quantities, and require constant maintenance from ASML engineers. Read Entire Article",
+    "link": "https://www.techspot.com/news/112828-trump-administration-suspects-asml-chipmaking-machine-made-china.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-20T11:01:59.105780"
+  },
+  {
+    "title": "This month's Windows 11 update broke the Recycle Bin, OneDrive, and possibly your PC's stability",
+    "summary": "According to Microsoft, users who have installed the KB5095051 update might encounter a strange Recycle Bin bug that replaces the names of deleted files with internal Recycle Bin filenames in specific situations. When permanently deleting a single file from the Recycle Bin, the confirmation dialog displays a cryptic internal filename,... Read Entire Article",
+    "link": "https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html",
+    "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.920416"
+    "processed_date": "2026-06-20T11:01:59.105895"
   },
   {
-    "title": "Minecraft's Chaos Cubed update adds Sulfur Caves and the unpredictable Sulfur Cube",
-    "summary": "Minecraft Java Edition 26.2 introduces the new Sulfur Caves biome, complete with sulfur and cinnabar block sets, geysers, and the quirky Sulfur Cube mob. The update also adds a Friends List system, experimental Vulkan graphics support, and new building and gameplay possibilities powered by the Sulfur Cube's unique physics-based interactions. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/5235-minecraft.html",
+    "title": "Meta wants a child safety bill rewritten to shield it from lawsuits over harm to kids",
+    "summary": "The proposal comes as lawmakers and courts increasingly scrutinize how social media platforms are designed and used by minors. Features such as infinite scrolling, activity notifications, and appearance-altering photo filters key tools for driving user engagement have become central to legal and regulatory battles over youth safety. Critics... Read Entire Article",
+    "link": "https://www.techspot.com/news/112824-meta-wants-child-safety-bill-rewritten-shield-lawsuits.html",
     "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-20T11:01:59.106009"
+  },
+  {
+    "title": "MSI Claw 8 EX AI+ with Intel Arc G3 launches at $1,800",
+    "summary": "MSI should start shipping the Claw 8 EX AI+ on June 23, 2026, slapping a massive $1,800 price tag on the device. The OEM recently explained that the cost is a result of the current state of the memory market, and that more price hikes could arrive over the next... Read Entire Article",
+    "link": "https://www.techspot.com/news/112819-msi-new-claw-8-ex-ai-handheld-costs.html",
+    "categories": [
+      "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.920525"
+    "processed_date": "2026-06-20T11:01:59.106113"
   },
   {
-    "title": "Microsoft and Adobe team up and make Photoshop 20% faster on Windows",
-    "summary": "Thanks to a close collaboration with Adobe, Microsoft engineers have significantly improved performance in certain Photoshop operations. Photoshop is a large, native desktop application written in C++ and compiled with Microsoft's Visual C++ compiler on Windows, which is why Microsoft focused on MSVC in an effort to extract additional performance... Read Entire Article",
-    "link": "https://www.techspot.com/news/112815-microsoft-worked-adobe-improve-photoshop-performance-windows.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-19T12:35:14.920638"
-  },
-  {
-    "title": "Cybercriminals have been distributing malware via Steam for a year, tens of thousands affected",
-    "summary": "The attack reportedly abused Wallpaper Engine's \"Application Wallpaper\" executable, which runs as a standalone Windows program and can include community-developed games, planners, calendars, system monitors, and other widgets. However, because the app allows unverified third-party code to run on users' systems, it can be abused by threat actors to target... Read Entire Article",
-    "link": "https://www.techspot.com/news/112812-criminals-have-distributing-malware-steam-since-2025-tens.html",
+    "title": "A company just publicly admitted it expects to lose a day of productivity to GTA 6",
+    "summary": "Automotive parts and tuning company Burger Motorsports posted what it says is an Internal Company Notice on Instagram recently. Read Entire Article",
+    "link": "https://www.techspot.com/news/112829-gta-6-hype-has-business-planning-shutdown-preorder.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.920750"
+    "processed_date": "2026-06-20T11:01:59.106210"
   },
   {
-    "title": "Sandisk's new PS5 SSDs cost up to $2,960, that's five PlayStation 5 consoles",
-    "summary": "The US memory manufacturer has launched the Optimus GX PRO 850P SSD lineup, which includes storage drives specifically designed for the PlayStation 5 and PlayStation 5 Pro. While high-capacity SSDs are already expensive, Sandisk's PS5-branded drives push pricing to an entirely different level. Read Entire Article",
-    "link": "https://www.techspot.com/news/112805-sandisk-new-ps5-ssds-cost-up-2960-five.html",
+    "title": "Waymo is recalling almost 3,900 robotaxis for driving into freeway construction zones",
+    "summary": "Waymo is recalling nearly 3,900 robotaxis following incidents in freeway construction areas. According to a safety recall report filed with the National Highway Traffic Safety Administration, the company's fifth-generation automated driving system may enter and drive at speed in freeway construction zones under certain circumstances, either because it fails to... Read Entire Article",
+    "link": "https://www.techspot.com/news/112826-waymo-recalls-3871-robotaxis-after-cars-drove-active.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-20T11:01:59.106325"
+  },
+  {
+    "title": "Kalshi calls itself a hedging platform now, but critics say it's still just sports betting in disguise",
+    "summary": "The New York Times reports that Kalshi has spent the past several months preparing to transform itself into a platform for hedge trading by hiring trading specialists and collaborating with financial companies. Small businesses have already proven that, in at least some instances, betting on prediction markets can act as... Read Entire Article",
+    "link": "https://www.techspot.com/news/112822-kalshi-calls-itself-hedging-platform-now-but-critics.html",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-19T12:35:14.920854"
+    "quality_score": 5,
+    "processed_date": "2026-06-20T11:01:59.106456"
   },
   {
-    "title": "Apple's iPhone Air 2 is getting a second camera and better battery life, coming next year",
-    "summary": "The next Air will reportedly ship with an ultrawide rear camera alongside the primary unit, boosting its appeal to photo bugs that may have skipped the first-gen device due to its single-camera configuration. In an era where multiple cameras are the norm on most mainstream and premium models, the single-camera... Read Entire Article",
-    "link": "https://www.techspot.com/news/112814-apple-iphone-air-return-spring-2027-new-camera.html",
+    "title": "Court says Ohio can require parental consent for children using social media",
+    "summary": "A divided 2-1 panel of the Cincinnati-based 6th US Circuit Court of Appeals overturned a lower-court ruling that had prevented Ohio's Social Media Parental Notification Act from taking effect. Read Entire Article",
+    "link": "https://www.techspot.com/news/112827-court-ohio-can-require-parental-consent-children-using.html",
     "categories": [
-      "AI & ML"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.920964"
-  },
-  {
-    "title": "Taiwan is teaching civilians drone skills learned from Ukraine's war",
-    "summary": "Taiwan has seen an increase in volunteer-led civil defence groups in recent times as China becomes more aggressive and emboldened by Russia's actions. Read Entire Article",
-    "link": "https://www.techspot.com/news/112813-taiwan-teaches-civilians-drone-skills-learned-ukraine-war.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-19T12:35:14.921060"
-  },
-  {
-    "title": "Just 16% of Americans think AI will benefit society, despite chatbot use climbing to 49% of US adults",
-    "summary": "The Pew Research Center found that 49% of US adults now use chatbots, up from 33% two years ago. This includes roughly one in four who use these tools on daily basis. Fifty-one percent say they don't use chatbots at all, the majority of whom are 50 and older. Read Entire Article",
-    "link": "https://www.techspot.com/news/112811-16-americans-think-ai-benefit-society-despite-chatbot.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-19T12:35:14.921161"
-  },
-  {
-    "title": "AMD confirms next-gen Threadripper with Zen 6 cores, PCIe 6.0, and new TR6 socket",
-    "summary": "Details of the next Threadripper series were discovered in AMD's technical documentation portal by InstLatX64. It lists the AMD Ryzen Threadripper TR6 desktop processors under document ID UG1866, with screenshots revealing some key details: Family 1Ah Model A8h, DDR5 memory, PCIe Gen 6, Zen 6 cores, and the Mustang Peak codename. Read Entire Article",
-    "link": "https://www.techspot.com/news/112810-amd-confirms-next-gen-threadripper-zen-6-cores.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-19T12:35:14.921287"
+    "processed_date": "2026-06-20T11:01:59.106560"
   }
 ]
