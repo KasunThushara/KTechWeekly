@@ -1,85 +1,65 @@
 # 💻 Hardware
-**Week of June 20, 2026**
+**Week of June 21, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-06-20 11:02
+- **Articles this week:** 5
+- **Report generated:** 2026-06-21 11:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Pine64 Pinevoice A $50 RISC-V Smart Speaker for Home Assistant based on Bouffalo Lab BL606P MCU ⭐
+### 1. SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review Part 2: What works, what doesn t in Bianbu OS 4.0 ⭐
 
-Pine64 has launched the PineVoice smart speaker, a $50 RISC-V device with WiFi, Bluetooth, and Zigbee interfaces, designed to work with Home Assistant. The device features two microphones, a speaker, and various buttons and LEDs. It is based on the Bouffalo Lab BL606P wireless microcontroller.
+The review continues with the SpacemiT K3 Pico-ITX Chassis Kit mini PC, testing system information, benchmarks, networking performance, and power consumption under Bianbu OS 4.0. The system is updated before running any tests, and the update process for the Embedded Controller firmware is also mentioned.
 
-💡 *Affordable, open-source smart speaker for Home Assistant automation enthusiasts.*
+💡 *RISC-V SoC's performance and features are thoroughly evaluated in this review.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/20/pine64-pinevoice-a-50-risc-v-smart-speaker-for-home-assistant-based-on-bouffalo-lab-bl606p-mcu/)
-
----
-
-### 2. Researcher turns wi-fi smart lightbulb into a Banned Book Library open source project makes digital books available via a server and open Wi-Fi access point hacked into an ESP32-powered bulb 
-
-A security researcher has transformed a Wi-Fi smart lightbulb into a digital library, accessible through an open Wi-Fi access point, featuring banned books. This project, called a 'cyberpunk digital dead drop,' utilizes an ESP32-powered bulb to provide a server for digital books. The project aims to promote access to censored literature.
-
-💡 *Censorship circumvented through open-source, hackable digital book repositories.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/researcher-turns-wi-fi-smart-lightbulb-into-a-banned-book-library-open-source-project-makes-digital-books-available-via-a-server-and-open-wi-fi-access-point-hacked-into-an-esp32-powered-bulb)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/21/spacemit-k3-pico-itx-risc-v-chassis-kit-review-part-2-what-works-what-doesnt-in-bianbu-os-4-0/)
 
 ---
 
-### 3. Epic Games unveils Launcher V2 in re-attempt to topple Steam, says redesigned storefront is up to 6.5x faster promises player profiles, user reviews, universal controller support, and much more 
+### 2. Creality Falcon T1 Review: Modular laser engraving 
 
-Epic Games has unveiled Launcher V2 with a redesigned storefront, promising improved performance and new features.
+The Creality Falcon T1 is a modular galvo laser engraver with swappable modules for various materials. It offers a promising platform with a conveyor belt, rotary attachment, and air filter, but initially lacks two available modules. The base price is $2,249.
 
-💡 *Epic Games attempts to challenge Steam's dominance in gaming platforms.*
+💡 *Adaptable laser technology for diverse material engraving options*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/epic-games-unveils-launcher-v2-in-re-attempt-to-topple-steam-says-redesigned-storefront-is-up-to-6-5x-faster-promises-player-profiles-user-reviews-universal-controller-support-and-much-more)
-
----
-
-### 4. AMD will reinstate memory encryption on Ryzen 9000 CPUs through a BIOS update in July TSME is coming back after 'valuable community feedback' 
-
-AMD plans to restore TSME on non-PRO Ryzen 9000 CPUs through a BIOS update in July, addressing user concerns after the feature's removal.
-
-💡 *User feedback leads to AMD's reversal on TSME disablement decision*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback)
+🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/creality-falcon-t1-review)
 
 ---
 
-### 5. The Best Thunderbolt and USB-C Docks in 2026: Up to 140W power delivery, 10 GbE, and even internal M.2 SSD slots 
+### 3. Save $300 on this 1440p-ready gaming PC with 32GB DDR5 RAM grab the Asus ROG GM700 with AMD's Ryzen 7 8700F and RX 9060 XT for just $1,199 
 
-The best Thunderbolt and USB-C docks offer expanded port options, high-speed connectivity, and power delivery for laptops, enhancing productivity and versatility.
+The Asus ROG GM700 offers a powerful prebuilt gaming PC with a solid price and gamer aesthetic.
 
-💡 *Streamline laptop workflow with high-speed connectivity and expanded ports.*
+💡 *Budget-conscious gamers get high-performance components for a low price tag.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/docking-stations-hubs/the-best-thunderbolt-and-usb-c-docks-for-laptops)
-
----
-
-### 6. This month's Windows 11 update broke the Recycle Bin, OneDrive, and possibly your PC's stability 
-
-The latest Windows 11 update (KB5095051) has caused issues with the Recycle Bin, OneDrive, and potentially PC stability. Users may encounter a bug where deleted files' names are replaced with internal Recycle Bin filenames. This has resulted in a confusing confirmation dialog for permanent deletions.
-
-💡 *Critical Windows update broke core features, threatening stability and data integrity.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-1440p-ready-gaming-pc-with-32gb-ddr5-ram-grab-the-asus-rog-gm700-with-amds-ryzen-7-8700f-and-rx-9060-xt-for-just-usd1-199)
 
 ---
 
-### 7. Your 15-inch daily driver is now $250 off Dell 15 laptop with hexa-core CPU, 8GB RAM dips to $349 
+### 4. Intel and AMD's new ACE CPU extensions bring an efficient AI-oriented instruction set to x86 a new design makes matrix multiplication more power- and density-efficient 
 
-The Dell 15 laptop's price has dropped significantly, offering a more affordable option. It now costs $349.99, a reduction of $250 from its original price of $599.99. This laptop features a hexa-core CPU and 8GB RAM.
+Intel and AMD introduce ACE CPU extensions to enhance AI performance on x86 architecture with a new design that optimizes matrix multiplication, leading to improved power efficiency and density.
 
-💡 *Significant price drop makes high-performance laptop more accessible to budget buyers*
+💡 *Accelerated AI performance via optimized matrix multiplication*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/your-15-inch-daily-driver-is-now-usd250-off-dell-15-laptop-with-hexa-core-cpu-8gb-ram-dips-to-usd349)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-and-amds-new-ace-cpu-extensions-bring-an-efficient-ai-oriented-instruction-set-to-x86-a-new-design-makes-matrix-multiplication-more-power-and-density-efficient)
+
+---
+
+### 5. Unlucky PC builder sent RTX 5070 from Amazon, gets DVD rewriter and a busted logic board from an early 2000's Kenwood AV receiver instead $700 GPU turns out to be e-waste thanks to return scam 
+
+A PC builder received a $700 RTX 5070 as e-waste due to an Amazon return scam, getting a DVD rewriter, a mousepad, and a busted logic board from an old Kenwood AV receiver instead. This highlights the risks of Amazon's lenient return policy.
+
+💡 *Amazon's return policy can facilitate e-waste scams and consumer loss.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/unlucky-pc-builder-sent-rtx-5070-from-amazon-gets-dvd-rewriter-and-a-busted-logic-board-from-an-early-2000s-kenwood-av-receiver-instead-usd700-gpu-turns-out-to-be-e-waste-thanks-to-return-scam)
 
 ---
 

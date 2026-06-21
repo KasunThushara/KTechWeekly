@@ -1,65 +1,95 @@
 # 📰 Tech News
-**Week of June 20, 2026**
+**Week of June 21, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-06-20 11:02
+- **Articles this week:** 8
+- **Report generated:** 2026-06-21 11:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Epic Games unveils Launcher V2 in re-attempt to topple Steam, says redesigned storefront is up to 6.5x faster promises player profiles, user reviews, universal controller support, and much more 
+### 1. China unifies tech sector to build grid-free orbiting satellite AI data centers, challenging Elon Musk's SpaceX Beijing's forced chip and satellite alliance announced a week before Musk s AI1 reveal ⭐
 
-Epic Games has unveiled Launcher V2 with a redesigned storefront, promising improved performance and new features.
+China's Space Computing Industry Innovation Center unites tech sectors to build grid-free satellite AI data centers, challenging Elon Musk's SpaceX. This initiative aims to develop a space-based data center system. It's a strategic move to reduce reliance on traditional infrastructure.
 
-💡 *Epic Games attempts to challenge Steam's dominance in gaming platforms.*
+💡 *China gains independence from Earth's grid with space-based AI data centers*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/epic-games-unveils-launcher-v2-in-re-attempt-to-topple-steam-says-redesigned-storefront-is-up-to-6-5x-faster-promises-player-profiles-user-reviews-universal-controller-support-and-much-more)
-
----
-
-### 2. A modder is finally bringing seamless co-op to Dark Souls II, over a decade later 
-
-A modder named 'Yui' is creating a seamless co-op mode for Dark Souls II. This mod will be released on the Scholar of the First Sin edition, enhancing the base game experience. The modder is working on a long-requested feature over a decade after the game's initial release.
-
-💡 *Decades-long fan demand for seamless co-op is finally being met.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112834-modder-finally-bringing-seamless-co-op-dark-souls.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/china-unifies-tech-sector-to-build-grid-free-orbiting-satellite-ai-data-centers-challenging-elon-musks-spacex-beijings-forced-chip-and-satellite-alliance-announced-a-week-before-musks-ai1-reveal)
 
 ---
 
-### 3. A company just publicly admitted it expects to lose a day of productivity to GTA 6 
+### 2. Creality Falcon T1 Review: Modular laser engraving 
 
-Burger Motorsports, an automotive parts company, publicly admitted to losing productivity to GTA 6. The Internal Company Notice was posted on Instagram, revealing the company's concern about employees' gaming habits. This is an unusual move for a business to publicly acknowledge such an issue.
+The Creality Falcon T1 is a modular galvo laser engraver with swappable modules for various materials. It offers a promising platform with a conveyor belt, rotary attachment, and air filter, but initially lacks two available modules. The base price is $2,249.
 
-💡 *Gaming can negatively impact workplace productivity and company performance significantly*
+💡 *Adaptable laser technology for diverse material engraving options*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112829-gta-6-hype-has-business-planning-shutdown-preorder.html)
-
----
-
-### 4. Kalshi calls itself a hedging platform now, but critics say it's still just sports betting in disguise 
-
-Kalshi is rebranding itself as a hedge trading platform, but critics dispute this claim, arguing it's still essentially sports betting. The company has hired trading specialists and partnered with financial firms in an effort to legitimize its platform. This move could have significant implications for the prediction market industry.
-
-💡 *Regulatory gray areas may allow companies to skirt traditional betting laws.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112822-kalshi-calls-itself-hedging-platform-now-but-critics.html)
+🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/creality-falcon-t1-review)
 
 ---
 
-### 5. Court says Ohio can require parental consent for children using social media 
+### 3. Yann LeCun says xAI is "kind of a failure" and the whole AI industry might be headed for a reset 
 
-A US appeals court ruled Ohio can require parental consent for minors using social media.
+Yann LeCun, former Meta chief AI scientist, criticizes xAI as a failure due to key team departures.
 
-💡 *Parents will have greater control over their children's online presence.*
+💡 *AI industry reset possible due to leadership and team instability issues.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112827-court-ohio-can-require-parental-consent-children-using.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112836-yann-lecun-xai-kind-failure-whole-ai-industry.html)
+
+---
+
+### 4. Windows 11 26H2 continues Microsoft's shift to smaller and faster updates 
+
+Microsoft continues to shift towards smaller and faster Windows updates, focusing on extending support timelines rather than introducing new features, a trend that started with Windows 11 24H2.
+
+💡 *Smaller updates prioritize stability over new feature development.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112837-windows-11-26h2-continues-microsoft-shift-smaller-faster.html)
+
+---
+
+### 5. Acoustic mapping app uses thousands of networked old Android phones to hunt Shahed drones crowd-sourced microphone network spots small, low-RCS military targets 
+
+An acoustic mapping app utilizes networked Android phones to detect and track Shahed drones, providing real-time location and direction data, enabling crowd-sourced early warning systems and enhanced military defense capabilities.
+
+💡 *Crowdsourced acoustic detection enhances military defense against low-RCS targets.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/acoustic-mapping-app-uses-thousands-of-networked-old-android-phones-to-hunt-shahed-drones-crowd-sourced-microphone-network-spots-small-low-rcs-military-targets)
+
+---
+
+### 6. New web app can make Valve's Steam Controller drift across your desk like an RC car web app drives the gamepad using its rumble motors 
+
+A developer has created a browser-based tool that converts the Steam Controller into an RC car, utilizing its rumble motors to move around on a desk.
+
+💡 *Innovative repurposing of gaming hardware into new, interactive devices*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/web-app-drives-valves-new-steam-controller-across-the-floor-using-its-rumble-motors)
+
+---
+
+### 7. Scientists made espresso with sound instead of heat, and most drinkers couldn't tell the difference 
+
+Researchers at UNSW Sydney developed 'ultrasonic espresso' using sound waves instead of heat to extract flavors from coffee, producing espresso-level intensity in under three minutes at room temperature.
+
+💡 *Efficient, low-temperature coffee extraction challenges traditional high-heat methods.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112838-scientists-made-espresso-sound-instead-heat-most-drinkers.html)
+
+---
+
+### 8. Nothing scraps next CMF phone after memory prices make it too expensive 
+
+Nothing scraps CMF phone successor due to high memory costs.
+
+💡 *High memory costs threaten Nothing's minimalist brand identity.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112841-nothing-scraps-next-cmf-phone-after-memory-prices.html)
 
 ---
 

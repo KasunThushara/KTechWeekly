@@ -1,145 +1,95 @@
 # 🤖 AI & ML
-**Week of June 20, 2026**
+**Week of June 21, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-06-20 11:02
+- **Articles this week:** 8
+- **Report generated:** 2026-06-21 11:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Researcher turns wi-fi smart lightbulb into a Banned Book Library open source project makes digital books available via a server and open Wi-Fi access point hacked into an ESP32-powered bulb 
+### 1. SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review Part 2: What works, what doesn t in Bianbu OS 4.0 ⭐
 
-A security researcher has transformed a Wi-Fi smart lightbulb into a digital library, accessible through an open Wi-Fi access point, featuring banned books. This project, called a 'cyberpunk digital dead drop,' utilizes an ESP32-powered bulb to provide a server for digital books. The project aims to promote access to censored literature.
+The review continues with the SpacemiT K3 Pico-ITX Chassis Kit mini PC, testing system information, benchmarks, networking performance, and power consumption under Bianbu OS 4.0. The system is updated before running any tests, and the update process for the Embedded Controller firmware is also mentioned.
 
-💡 *Censorship circumvented through open-source, hackable digital book repositories.*
+💡 *RISC-V SoC's performance and features are thoroughly evaluated in this review.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/researcher-turns-wi-fi-smart-lightbulb-into-a-banned-book-library-open-source-project-makes-digital-books-available-via-a-server-and-open-wi-fi-access-point-hacked-into-an-esp32-powered-bulb)
-
----
-
-### 2. Post-silicon era gets closer as industry giants crack the 2D transistor scaling bottleneck with breakthrough tech imec, ASML, and TSMC fab complementary 2D-material transistors at 50nm pitch on a 300mm wafer 
-
-Imec, ASML, and TSMC successfully integrated 2D-material transistors on a 300mm wafer, breaking the 2D transistor scaling bottleneck.
-
-💡 *Advancing 2D transistor scaling crucial for future semiconductor technology breakthroughs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/21/spacemit-k3-pico-itx-risc-v-chassis-kit-review-part-2-what-works-what-doesnt-in-bianbu-os-4-0/)
 
 ---
 
-### 3. A modder is finally bringing seamless co-op to Dark Souls II, over a decade later 
+### 2. China unifies tech sector to build grid-free orbiting satellite AI data centers, challenging Elon Musk's SpaceX Beijing's forced chip and satellite alliance announced a week before Musk s AI1 reveal ⭐
 
-A modder named 'Yui' is creating a seamless co-op mode for Dark Souls II. This mod will be released on the Scholar of the First Sin edition, enhancing the base game experience. The modder is working on a long-requested feature over a decade after the game's initial release.
+China's Space Computing Industry Innovation Center unites tech sectors to build grid-free satellite AI data centers, challenging Elon Musk's SpaceX. This initiative aims to develop a space-based data center system. It's a strategic move to reduce reliance on traditional infrastructure.
 
-💡 *Decades-long fan demand for seamless co-op is finally being met.*
+💡 *China gains independence from Earth's grid with space-based AI data centers*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112834-modder-finally-bringing-seamless-co-op-dark-souls.html)
-
----
-
-### 4. The Trump administration suspects an ASML chipmaking machine made it into China. ASML says that's impossible. 
-
-ASML disputes claims its EUV chipmaking machine has been transferred to China.
-
-💡 *EUV technology underpins world's most advanced processors and chips.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112828-trump-administration-suspects-asml-chipmaking-machine-made-china.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/china-unifies-tech-sector-to-build-grid-free-orbiting-satellite-ai-data-centers-challenging-elon-musks-spacex-beijings-forced-chip-and-satellite-alliance-announced-a-week-before-musks-ai1-reveal)
 
 ---
 
-### 5. China unveils man-portable anti-drone laser that can burn through a drone 1,600 feet away in four seconds backpack-sized 2-kilowatt weapon uses AI for targeting, weighs 55 pounds, and can be carried by a single soldier 
+### 3. Age of Empires II s goats used as AI building blocks to build a neural network goaty experiment mocks the idea of chatbot consciousness, Microsoft AI researcher s project makes an absurdist point about AI consciousness 
 
-China unveiled a backpack-sized, 2-kilowatt anti-drone laser at a Beijing arms expo, capable of targeting and destroying drones 1,600 feet away in four seconds.
+A Microsoft AI researcher uses Age of Empires II's game mechanics to create a neural network that mimics the actions of goats, satirically highlighting the tendency to attribute human-like qualities to AI chatbots.
 
-💡 *Advances in portable anti-drone tech enhance battlefield safety and security*
+💡 *Anthropomorphism in AI can lead to oversimplification of consciousness.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-shows-off-a-backpack-sized-anti-drone-laser-that-one-soldier-can-carry)
-
----
-
-### 6. Amazon workers who testified against AI data centers say they were intimidated by the company, monitored at work employees face possible termination for violating company policy, speaking as representatives 
-
-Amazon workers testify to intimidation and monitoring during work hours, citing fears of termination.
-
-💡 *Amazon silences dissenting employees to protect its AI data centers interests.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/amazon-workers-who-testified-against-ai-data-centers-say-they-were-intimidated-by-the-company-monitored-at-work-employees-face-possible-termination-for-violating-company-policy-speaking-as-representatives)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/age-of-empires-iis-goats-used-as-ai-building-blocks-to-build-a-neural-network-goaty-experiment-mocks-the-idea-of-chatbot-consciousness-microsoft-ai-researchers-project-makes-an-absurdist-point-about-ai-consciousness)
 
 ---
 
-### 7. Bernie Sanders files bill proposing 50% public ownership of US AI firms and giving out $1,000 dividends VP Vance says Trump supports giving the American people a stake in AI companies, prefers pre-distribution over giving away cash 
+### 4. Yann LeCun says xAI is "kind of a failure" and the whole AI industry might be headed for a reset 
 
-US politicians propose public ownership in AI firms, offering dividends to citizens.
+Yann LeCun, former Meta chief AI scientist, criticizes xAI as a failure due to key team departures.
 
-💡 *Equitable AI ownership ensures shared benefits and addresses wealth disparities.*
+💡 *AI industry reset possible due to leadership and team instability issues.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/bernie-sanders-files-bill-proposing-50-percent-public-ownership-of-us-ai-firms-and-giving-out-usd1-000-dividends-vp-vance-says-trump-supports-giving-the-american-people-a-stake-in-ai-companies-prefers-pre-distribution-over-giving-away-cash)
-
----
-
-### 8. ASML denies US government report that its EUV chipmaking tool was shipped to China says 'rumors' are 'inaccurate and damaging to our reputation' 
-
-ASML denies shipping its EUV chipmaking tool to China, calls reports 'inaccurate'. U.S. Commerce Secretary Lutnick expresses concerns about China's possession of the tool. ASML disputes the reports, citing damage to their reputation.
-
-💡 *Access to EUV lithography systems holds significant global tech implications.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/asml-denies-us-government-report-that-its-euv-chipmaking-tool-was-shipped-to-china-says-rumors-are-inaccurate-and-damaging-to-our-reputation)
+🔗 [Read Full Article](https://www.techspot.com/news/112836-yann-lecun-xai-kind-failure-whole-ai-industry.html)
 
 ---
 
-### 9. Texas flooding gets the AI & Sensor early warning treatment 
+### 5. Award-winning resin 3D printer for beginners is 36% off grab the Anycubic Photon P1 with dual-color material kit for $619.99 
 
-Axonis and Simplicity Integration set up a flood-warning system in Galveston County, while the University of Texas at Arlington and Rice University received a $4M grant for a flood warning system in the Hill Country, utilizing AI and sensor technology for early warnings.
+Get the Anycubic Photon P1, a highly-regarded resin 3D printer for beginners, at a discounted price of $619.99. It boasts a precision steel build plate and wireless printing support. This package includes a dual-color material kit.
 
-💡 *Early flood warnings save lives and reduce economic damage.*
+💡 *Beginner-friendly resin 3D printer offers exceptional print quality at a low cost.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/texas-flooding-gets-ai-sensor-early-warning-treatment)
-
----
-
-### 10. Palworld's studio won't use generative AI because "gamers don't want it" 
-
-Pocketpair studio is not using generative AI in its games, citing customer rejection of AI-generated assets.
-
-💡 *Players prefer authentic, human-made game content over AI-generated alternatives.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112832-palworld-studio-wont-use-generative-ai-because-gamers.html)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/award-winning-resin-3d-printer-for-beginners-is-36-percent-off-grab-the-anycubic-photon-p1-with-dual-color-material-kit-for-usd619-99)
 
 ---
 
-### 11. MSI Claw 8 EX AI+ with Intel Arc G3 launches at $1,800 
+### 6. The best 3D scanners 2026 the top performing models we've benchmarked 
 
-MSI's Claw 8 EX AI+ will ship on June 23, 2026, for $1,800 due to high memory costs.
+Discover the top-performing 3D scanners of 2026, optimized for accuracy, portability, and more. Our in-depth benchmarking helps you find the best fit for your needs. From handheld devices to industrial-grade scanners, we've got you covered.
 
-💡 *High memory costs contribute to expensive gaming laptops.*
+💡 *Advanced 3D scanning technology revolutionizes industries with precision and efficiency.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112819-msi-new-claw-8-ex-ai-handheld-costs.html)
-
----
-
-### 12. Waymo is recalling almost 3,900 robotaxis for driving into freeway construction zones 
-
-Waymo is recalling 3,900 robotaxis due to incidents in freeway construction zones. The vehicles' fifth-generation automated driving system may enter and drive at speed in construction areas without proper caution. This poses a safety risk to passengers and other road users.
-
-💡 *Autonomous vehicles may struggle with unexpected infrastructure changes.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112826-waymo-recalls-3871-robotaxis-after-cars-drove-active.html)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/3d-scanning/best-3d-scanners)
 
 ---
 
-### 13. Your 15-inch daily driver is now $250 off Dell 15 laptop with hexa-core CPU, 8GB RAM dips to $349 
+### 7. Intel and AMD's new ACE CPU extensions bring an efficient AI-oriented instruction set to x86 a new design makes matrix multiplication more power- and density-efficient 
 
-The Dell 15 laptop's price has dropped significantly, offering a more affordable option. It now costs $349.99, a reduction of $250 from its original price of $599.99. This laptop features a hexa-core CPU and 8GB RAM.
+Intel and AMD introduce ACE CPU extensions to enhance AI performance on x86 architecture with a new design that optimizes matrix multiplication, leading to improved power efficiency and density.
 
-💡 *Significant price drop makes high-performance laptop more accessible to budget buyers*
+💡 *Accelerated AI performance via optimized matrix multiplication*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/your-15-inch-daily-driver-is-now-usd250-off-dell-15-laptop-with-hexa-core-cpu-8gb-ram-dips-to-usd349)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-and-amds-new-ace-cpu-extensions-bring-an-efficient-ai-oriented-instruction-set-to-x86-a-new-design-makes-matrix-multiplication-more-power-and-density-efficient)
+
+---
+
+### 8. Nothing scraps next CMF phone after memory prices make it too expensive 
+
+Nothing scraps CMF phone successor due to high memory costs.
+
+💡 *High memory costs threaten Nothing's minimalist brand identity.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112841-nothing-scraps-next-cmf-phone-after-memory-prices.html)
 
 ---
 
