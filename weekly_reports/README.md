@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 21, 2026**
+**Week of June 22, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review Part 2: What works, what doesn t in Bianbu OS 4.0 ⭐
+### 1. GEEKOM A7 2026 Edition Review Part 2: AMD Ryzen 5 7545U Mini PC tested with Windows 11 Pro ⭐
+
+**🎮 GPUs**
+
+This review tests the GEEKOM A7 2026 Edition mini PC with Windows 11 Pro, focusing on its AMD Ryzen 5 7545U processor, Radeon 740M graphics, 16 GB of RAM, and 466 GB of storage. It evaluates its performance in various tasks, including 4K and 8K video playback, network performance, and cooling. The review aims to provide a comprehensive assessment of the mini PC's capabilities and its suitability for different use cases.
+
+💡 **Key Point:** Ryzen 5 7545U offers competitive performance in a compact, affordable package.
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/22/geekom-a7-2026-edition-review-part-2-amd-ryzen-5-7545u-mini-pc-tested-with-windows-11-pro/)
+
+---
+
+### 2. GEEKOM A7 2026 Edition Review Part 2: AMD Ryzen 5 7545U Mini PC tested with Windows 11 Pro ⭐
 
 **💻 Hardware**
 
-The review continues with the SpacemiT K3 Pico-ITX Chassis Kit mini PC, testing system information, benchmarks, networking performance, and power consumption under Bianbu OS 4.0. The system is updated before running any tests, and the update process for the Embedded Controller firmware is also mentioned.
+This review tests the GEEKOM A7 2026 Edition mini PC with Windows 11 Pro, focusing on its AMD Ryzen 5 7545U processor, Radeon 740M graphics, 16 GB of RAM, and 466 GB of storage. It evaluates its performance in various tasks, including 4K and 8K video playback, network performance, and cooling. The review aims to provide a comprehensive assessment of the mini PC's capabilities and its suitability for different use cases.
 
-💡 **Key Point:** RISC-V SoC's performance and features are thoroughly evaluated in this review.
+💡 **Key Point:** Ryzen 5 7545U offers competitive performance in a compact, affordable package.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/21/spacemit-k3-pico-itx-risc-v-chassis-kit-review-part-2-what-works-what-doesnt-in-bianbu-os-4-0/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/22/geekom-a7-2026-edition-review-part-2-amd-ryzen-5-7545u-mini-pc-tested-with-windows-11-pro/)
 
 ---
 
-### 2. SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review Part 2: What works, what doesn t in Bianbu OS 4.0 ⭐
+### 3. UTFS is a lightweight, zero-allocation file system for embedded devices 
 
 **🤖 AI & ML**
 
-The review continues with the SpacemiT K3 Pico-ITX Chassis Kit mini PC, testing system information, benchmarks, networking performance, and power consumption under Bianbu OS 4.0. The system is updated before running any tests, and the update process for the Embedded Controller firmware is also mentioned.
+UTFS is a lightweight, zero-allocation file system for embedded devices, offering a simple, fixed-header storage solution. It's designed for small MCUs with flat, byte-addressable memory and avoids complex features. UTFS supports sequential layout and is forward-compatible.
 
-💡 **Key Point:** RISC-V SoC's performance and features are thoroughly evaluated in this review.
+💡 **Key Point:** Simplifies storage on resource-constrained embedded devices significantly.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/21/spacemit-k3-pico-itx-risc-v-chassis-kit-review-part-2-what-works-what-doesnt-in-bianbu-os-4-0/)
-
----
-
-### 3. China unifies tech sector to build grid-free orbiting satellite AI data centers, challenging Elon Musk's SpaceX Beijing's forced chip and satellite alliance announced a week before Musk s AI1 reveal ⭐
-
-**📰 Tech News**
-
-China's Space Computing Industry Innovation Center unites tech sectors to build grid-free satellite AI data centers, challenging Elon Musk's SpaceX. This initiative aims to develop a space-based data center system. It's a strategic move to reduce reliance on traditional infrastructure.
-
-💡 **Key Point:** China gains independence from Earth's grid with space-based AI data centers
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/data-centers/china-unifies-tech-sector-to-build-grid-free-orbiting-satellite-ai-data-centers-challenging-elon-musks-spacex-beijings-forced-chip-and-satellite-alliance-announced-a-week-before-musks-ai1-reveal)
+🔗 [Read More](https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/)
 
 ---
 
-### 4. China unifies tech sector to build grid-free orbiting satellite AI data centers, challenging Elon Musk's SpaceX Beijing's forced chip and satellite alliance announced a week before Musk s AI1 reveal ⭐
+### 4. Intel and AMD unveil new x86 standard to make CPUs better at running AI models 
 
 **🤖 AI & ML**
 
-China's Space Computing Industry Innovation Center unites tech sectors to build grid-free satellite AI data centers, challenging Elon Musk's SpaceX. This initiative aims to develop a space-based data center system. It's a strategic move to reduce reliance on traditional infrastructure.
+Intel and AMD unveil Advanced Compute Extensions (ACE) to enhance AI model processing on x86 processors, focusing on smaller models and latency-sensitive tasks.
 
-💡 **Key Point:** China gains independence from Earth's grid with space-based AI data centers
+💡 **Key Point:** Boosting AI performance on x86 CPUs in GPU-less environments matters
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/data-centers/china-unifies-tech-sector-to-build-grid-free-orbiting-satellite-ai-data-centers-challenging-elon-musks-spacex-beijings-forced-chip-and-satellite-alliance-announced-a-week-before-musks-ai1-reveal)
+🔗 [Read More](https://www.techspot.com/news/112846-intel-amd-unveil-new-x86-standard-make-cpus.html)
 
 ---
 
-### 5. Creality Falcon T1 Review: Modular laser engraving 
+### 5. ST VL53L9CX direct Time-of-Flight 3D LiDAR supports 5cm to 9m range, 2.3K zones resolution 
 
-**📰 Tech News**
+**💻 Hardware**
 
-The Creality Falcon T1 is a modular galvo laser engraver with swappable modules for various materials. It offers a promising platform with a conveyor belt, rotary attachment, and air filter, but initially lacks two available modules. The base price is $2,249.
+STMicroelectronics VL53L9CX is a mini 3D LiDAR module offering 5cm-9m range and 2.3K zones resolution.
 
-💡 **Key Point:** Adaptable laser technology for diverse material engraving options
+💡 **Key Point:** Revolutionizing robotics and automation with high-resolution 3D sensing capabilities
 
-🔗 [Read More](https://www.tomshardware.com/maker-stem/creality-falcon-t1-review)
+🔗 [Read More](https://www.cnx-software.com/2026/06/22/st-vl53l9cx-direct-time-of-flight-3d-lidar-supports-5cm-to-9m-range-2-3k-zones-resolution/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **25 articles** across **5 focused categories**.
+We covered **38 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 8 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 5 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 1 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 10 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 12 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 8 articles
+*Artificial Intelligence and Machine Learning* — 10 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 3 articles
+*Graphics cards and compute accelerators* — 7 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 5 articles
+*Computing hardware and development boards* — 12 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 1 articles
+*Chip manufacturing and design* — 3 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 8 articles
+*Industry news and product launches* — 6 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-21 at 11:35 by an autonomous AI curation system.
+Generated 2026-06-22 at 14:16 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

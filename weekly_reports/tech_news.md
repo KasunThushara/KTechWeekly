@@ -1,95 +1,73 @@
 # 📰 Tech News
-**Week of June 21, 2026**
+**Week of June 22, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-06-21 11:35
+- **Articles this week:** 6
+- **Report generated:** 2026-06-22 14:16
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. China unifies tech sector to build grid-free orbiting satellite AI data centers, challenging Elon Musk's SpaceX Beijing's forced chip and satellite alliance announced a week before Musk s AI1 reveal ⭐
+### 1. Cyberpunk's disastrous launch still haunts CD Projekt Red, but hopes The Witcher 4 can win players back 
 
-China's Space Computing Industry Innovation Center unites tech sectors to build grid-free satellite AI data centers, challenging Elon Musk's SpaceX. This initiative aims to develop a space-based data center system. It's a strategic move to reduce reliance on traditional infrastructure.
+CD Projekt Red still faces the aftermath of Cyberpunk 2077's disastrous launch but hopes The Witcher 4 can win back players. Following numerous patches, Cyberpunk 2077's quality improved, and the Phantom Liberty expansion received positive reviews. This may set a precedent for The Witcher 4's success.
 
-💡 *China gains independence from Earth's grid with space-based AI data centers*
+💡 *Rebuilding trust takes time and quality game releases*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/china-unifies-tech-sector-to-build-grid-free-orbiting-satellite-ai-data-centers-challenging-elon-musks-spacex-beijings-forced-chip-and-satellite-alliance-announced-a-week-before-musks-ai1-reveal)
-
----
-
-### 2. Creality Falcon T1 Review: Modular laser engraving 
-
-The Creality Falcon T1 is a modular galvo laser engraver with swappable modules for various materials. It offers a promising platform with a conveyor belt, rotary attachment, and air filter, but initially lacks two available modules. The base price is $2,249.
-
-💡 *Adaptable laser technology for diverse material engraving options*
-
-🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/creality-falcon-t1-review)
+🔗 [Read Full Article](https://www.techspot.com/news/112845-cd-projekt-red-admits-cyberpunk-2077-may-never.html)
 
 ---
 
-### 3. Yann LeCun says xAI is "kind of a failure" and the whole AI industry might be headed for a reset 
+### 2. Anycubic Kobra 4 Combo 3D printer review: Evolution, not revolution 
 
-Yann LeCun, former Meta chief AI scientist, criticizes xAI as a failure due to key team departures.
+The Anycubic Kobra 4 Combo 3D printer offers incremental improvements over its predecessor. It retains the strengths of the Kobra 3 while refining some aspects. This evolution makes it a solid choice for users familiar with the series.
 
-💡 *AI industry reset possible due to leadership and team instability issues.*
+💡 *Evolutionary updates rather than revolutionary changes define this 3D printer*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112836-yann-lecun-xai-kind-failure-whole-ai-industry.html)
-
----
-
-### 4. Windows 11 26H2 continues Microsoft's shift to smaller and faster updates 
-
-Microsoft continues to shift towards smaller and faster Windows updates, focusing on extending support timelines rather than introducing new features, a trend that started with Windows 11 24H2.
-
-💡 *Smaller updates prioritize stability over new feature development.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112837-windows-11-26h2-continues-microsoft-shift-smaller-faster.html)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/anycubic-kobra-4-combo-3d-printer-review)
 
 ---
 
-### 5. Acoustic mapping app uses thousands of networked old Android phones to hunt Shahed drones crowd-sourced microphone network spots small, low-RCS military targets 
+### 3. Best of Sensors: Stathera wins Best MEMS Solution at Sensors Converge 
 
-An acoustic mapping app utilizes networked Android phones to detect and track Shahed drones, providing real-time location and direction data, enabling crowd-sourced early warning systems and enhanced military defense capabilities.
+Strathera's DualMode MEMS oscillator uses fusion bonding tech, generating kHz and MHz frequencies from a single MEMS resonator, winning the Best of Sensors award in the MEMS Solution category at Sensors Converge.
 
-💡 *Crowdsourced acoustic detection enhances military defense against low-RCS targets.*
+💡 *Breakthrough fusion bonding tech expands MEMS oscillator capabilities*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/acoustic-mapping-app-uses-thousands-of-networked-old-android-phones-to-hunt-shahed-drones-crowd-sourced-microphone-network-spots-small-low-rcs-military-targets)
-
----
-
-### 6. New web app can make Valve's Steam Controller drift across your desk like an RC car web app drives the gamepad using its rumble motors 
-
-A developer has created a browser-based tool that converts the Steam Controller into an RC car, utilizing its rumble motors to move around on a desk.
-
-💡 *Innovative repurposing of gaming hardware into new, interactive devices*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/web-app-drives-valves-new-steam-controller-across-the-floor-using-its-rumble-motors)
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/best-sensors-stathera-wins-best-mems-solution-sensors-converge)
 
 ---
 
-### 7. Scientists made espresso with sound instead of heat, and most drinkers couldn't tell the difference 
+### 4. Ori director says Game Pass needs "smash hits," not studios slopping out mediocre content 
 
-Researchers at UNSW Sydney developed 'ultrasonic espresso' using sound waves instead of heat to extract flavors from coffee, producing espresso-level intensity in under three minutes at room temperature.
+Xbox is going through a turbulent time, to say the least. Last week brought news that the company is closing Ninja Theory and Double Fine, with Compulsion and others set for the chopping block part of the major layoffs that are being implemented. We've also heard that Microsoft could... Read Entire Article
 
-💡 *Efficient, low-temperature coffee extraction challenges traditional high-heat methods.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112838-scientists-made-espresso-sound-instead-heat-most-drinkers.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112849-ori-director-game-pass-needs-smash-hits-not.html)
 
 ---
 
-### 8. Nothing scraps next CMF phone after memory prices make it too expensive 
+### 5. HDMI 2.2 doubles bandwidth to 96Gbps, enabling uncompressed 4K at 240Hz 
 
-Nothing scraps CMF phone successor due to high memory costs.
+HDMI 2.2 supports uncompressed 4K at 240Hz and 8K at 60Hz.
 
-💡 *High memory costs threaten Nothing's minimalist brand identity.*
+💡 *Enables seamless high-speed video transmission for gaming and streaming.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112841-nothing-scraps-next-cmf-phone-after-memory-prices.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112842-hdmi-22-doubles-bandwidth-96gbps-enabling-uncompressed-4k.html)
+
+---
+
+### 6. A 35-year-old copyright rule could let Ultima's creator make a new game EA can't stop 
+
+Richard Garriott, Ultima's creator, seeks to revive the series with EA's help, but previous attempts stalled due to lack of progress. Despite EA's initial interest, no concrete outcome resulted from these efforts. Garriott believes a 35-year-old copyright rule may be the key to making a new game without EA's control.
+
+💡 *35-year copyright rule may free Ultima's creator from EA's control.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112843-35-year-old-copyright-rule-could-ultima-creator.html)
 
 ---
 

@@ -1,95 +1,115 @@
 # 🤖 AI & ML
-**Week of June 21, 2026**
+**Week of June 22, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-06-21 11:35
+- **Articles this week:** 10
+- **Report generated:** 2026-06-22 14:16
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review Part 2: What works, what doesn t in Bianbu OS 4.0 ⭐
+### 1. UTFS is a lightweight, zero-allocation file system for embedded devices 
 
-The review continues with the SpacemiT K3 Pico-ITX Chassis Kit mini PC, testing system information, benchmarks, networking performance, and power consumption under Bianbu OS 4.0. The system is updated before running any tests, and the update process for the Embedded Controller firmware is also mentioned.
+UTFS is a lightweight, zero-allocation file system for embedded devices, offering a simple, fixed-header storage solution. It's designed for small MCUs with flat, byte-addressable memory and avoids complex features. UTFS supports sequential layout and is forward-compatible.
 
-💡 *RISC-V SoC's performance and features are thoroughly evaluated in this review.*
+💡 *Simplifies storage on resource-constrained embedded devices significantly.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/21/spacemit-k3-pico-itx-risc-v-chassis-kit-review-part-2-what-works-what-doesnt-in-bianbu-os-4-0/)
-
----
-
-### 2. China unifies tech sector to build grid-free orbiting satellite AI data centers, challenging Elon Musk's SpaceX Beijing's forced chip and satellite alliance announced a week before Musk s AI1 reveal ⭐
-
-China's Space Computing Industry Innovation Center unites tech sectors to build grid-free satellite AI data centers, challenging Elon Musk's SpaceX. This initiative aims to develop a space-based data center system. It's a strategic move to reduce reliance on traditional infrastructure.
-
-💡 *China gains independence from Earth's grid with space-based AI data centers*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/china-unifies-tech-sector-to-build-grid-free-orbiting-satellite-ai-data-centers-challenging-elon-musks-spacex-beijings-forced-chip-and-satellite-alliance-announced-a-week-before-musks-ai1-reveal)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/)
 
 ---
 
-### 3. Age of Empires II s goats used as AI building blocks to build a neural network goaty experiment mocks the idea of chatbot consciousness, Microsoft AI researcher s project makes an absurdist point about AI consciousness 
+### 2. Intel and AMD unveil new x86 standard to make CPUs better at running AI models 
 
-A Microsoft AI researcher uses Age of Empires II's game mechanics to create a neural network that mimics the actions of goats, satirically highlighting the tendency to attribute human-like qualities to AI chatbots.
+Intel and AMD unveil Advanced Compute Extensions (ACE) to enhance AI model processing on x86 processors, focusing on smaller models and latency-sensitive tasks.
 
-💡 *Anthropomorphism in AI can lead to oversimplification of consciousness.*
+💡 *Boosting AI performance on x86 CPUs in GPU-less environments matters*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/age-of-empires-iis-goats-used-as-ai-building-blocks-to-build-a-neural-network-goaty-experiment-mocks-the-idea-of-chatbot-consciousness-microsoft-ai-researchers-project-makes-an-absurdist-point-about-ai-consciousness)
-
----
-
-### 4. Yann LeCun says xAI is "kind of a failure" and the whole AI industry might be headed for a reset 
-
-Yann LeCun, former Meta chief AI scientist, criticizes xAI as a failure due to key team departures.
-
-💡 *AI industry reset possible due to leadership and team instability issues.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112836-yann-lecun-xai-kind-failure-whole-ai-industry.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112846-intel-amd-unveil-new-x86-standard-make-cpus.html)
 
 ---
 
-### 5. Award-winning resin 3D printer for beginners is 36% off grab the Anycubic Photon P1 with dual-color material kit for $619.99 
+### 3. 2003-era DDR2 memory prices jump up to 60% AI-driven DRAM shortage reaches the oldest standard still in production 
 
-Get the Anycubic Photon P1, a highly-regarded resin 3D printer for beginners, at a discounted price of $619.99. It boasts a precision steel build plate and wireless printing support. This package includes a dual-color material kit.
+DDR2 memory prices surged 55-60% in Q2 and forecasted 35-40% hike.
 
-💡 *Beginner-friendly resin 3D printer offers exceptional print quality at a low cost.*
+💡 *Rising DDR2 prices signal DRAM industry supply-demand imbalance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/award-winning-resin-3d-printer-for-beginners-is-36-percent-off-grab-the-anycubic-photon-p1-with-dual-color-material-kit-for-usd619-99)
-
----
-
-### 6. The best 3D scanners 2026 the top performing models we've benchmarked 
-
-Discover the top-performing 3D scanners of 2026, optimized for accuracy, portability, and more. Our in-depth benchmarking helps you find the best fit for your needs. From handheld devices to industrial-grade scanners, we've got you covered.
-
-💡 *Advanced 3D scanning technology revolutionizes industries with precision and efficiency.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/3d-scanning/best-3d-scanners)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/ddr2-memory-prices-jump-up-to-60-percent)
 
 ---
 
-### 7. Intel and AMD's new ACE CPU extensions bring an efficient AI-oriented instruction set to x86 a new design makes matrix multiplication more power- and density-efficient 
+### 4. Ludicrous $999 Steam game lasts just 10 minutes Congratulations On Your Purchase is pure conspicuous consumption with its golden ticket Steam Achievement 
 
-Intel and AMD introduce ACE CPU extensions to enhance AI performance on x86 architecture with a new design that optimizes matrix multiplication, leading to improved power efficiency and density.
+The $999 Steam game 'Congratulations On Your Purchase' lasts just 10 minutes, but offers a golden ticket Steam Achievement to buyers. This game is an example of pure conspicuous consumption, highlighting the absurdity of some digital marketplaces. It's the most expensive game on Steam, priced at $999.
 
-💡 *Accelerated AI performance via optimized matrix multiplication*
+💡 *Conspicuous consumption exploits human vanity for financial gain on Steam.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-and-amds-new-ace-cpu-extensions-bring-an-efficient-ai-oriented-instruction-set-to-x86-a-new-design-makes-matrix-multiplication-more-power-and-density-efficient)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/ludicrous-usd999-steam-game-lasts-just-10-minutes-congratulations-on-your-purchase-is-pure-conspicuous-consumption-with-its-golden-ticket-steam-achievement)
 
 ---
 
-### 8. Nothing scraps next CMF phone after memory prices make it too expensive 
+### 5. Open-source Vulkan driver NVK gains experimental DLSS support bringing Nvidia s upscaling tech to Linux via imported CUDA binaries 
 
-Nothing scraps CMF phone successor due to high memory costs.
+NVK, an open-source Vulkan driver, has gained experimental DLSS support, bringing Nvidia's upscaling tech to Linux. This support is made possible through the import of CUDA binaries. The addition of DLSS is a significant improvement for Linux users.
 
-💡 *High memory costs threaten Nothing's minimalist brand identity.*
+💡 *Linux users gain access to advanced Nvidia graphics features*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112841-nothing-scraps-next-cmf-phone-after-memory-prices.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/open-source-nvidia-vulkan-driver-nvk-gains-experimental-dlss-support-by-importing-pre-baked-cuda-binaries)
+
+---
+
+### 6. Ubisoft co-founder Claude Guillemot dies in plane crash French publisher established in 1986 became one of the biggest entertainment companies in the world 
+
+Ubisoft co-founder Claude Guillemot died in a plane crash while enroute to an airshow. Guillemot was a licensed and avid pilot. He co-founded Ubisoft in 1986.
+
+💡 *Gaming industry loses a pioneering figure in a tragic accident*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash-french-publisher-established-in-1986-became-one-of-the-biggest-entertainment-companies-in-the-world)
+
+---
+
+### 7. Dramatically redesigned GMKtec EVO-X3 shown bearing Lisa Su s signature of approval flagship AI mini PC workstation is built around AMD s Ryzen AI Max+ 395 'Strix Halo' processor, again 
+
+GMKtec's EVO-X3 'Strix Halo' Mini PC receives endorsement from AMD CEO Lisa Su, featuring AMD's Ryzen AI Max+ 395 processor.
+
+💡 *Industry validation boosts credibility for cutting-edge AI mini PC technology.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/dramatically-redesigned-gmktec-evo-x3-shown-bearing-lisa-sus-signature-of-approval-flagship-ai-mini-pc-workstation-is-built-around-amds-ryzen-ai-max-395-strix-halo-processor-again)
+
+---
+
+### 8. Ouster lidar for Gecko robots improves detect and repair 
+
+Ouster's Rev8 lidar sensors enhance Gecko Robotics' sensing capabilities for infrastructure inspection.
+
+💡 *Enhanced detection of cracks in infrastructure for more precise repairs.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/ouster-lidar-gecko-robots-improves-detect-and-repair)
+
+---
+
+### 9. ADI buys Empower for $1.5B and then reports record 2Q bookings 
+
+ADI acquires Empower for $1.5B, providing access to resources and expertise.
+
+💡 *Empower's FinFast tech accelerates AI system development significantly.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/adi-buys-empower-15b-and-then-reports-record-2q-bookings)
+
+---
+
+### 10. Obsidian sued over alleged unpaid wages, missed breaks, and California labor law violations 
+
+Victoria Turner has sued Obsidian Entertainment over unpaid wages and labor law violations, with an amended complaint filed in January 2026.
+
+💡 *California labor law enforcement can affect game development companies nationwide.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112850-obsidian-sued-over-alleged-unpaid-wages-missed-breaks.html)
 
 ---
 
