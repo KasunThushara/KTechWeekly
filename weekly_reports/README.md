@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 22, 2026**
+**Week of June 23, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. GEEKOM A7 2026 Edition Review Part 2: AMD Ryzen 5 7545U Mini PC tested with Windows 11 Pro ⭐
+### 1. Coin-cell powered Nordic nRF54L15 Tag prototyping platform supports Bluetooth Channel Sounding, Matter, Edge AI ⭐
+
+**💻 Hardware**
+
+Nordic Semiconductor's nRF54L15 Tag is a coin-cell-powered prototyping platform for ultra-low-power IoT devices, supporting Bluetooth Channel Sounding, Matter, and Edge AI.
+
+💡 **Key Point:** Accelerates development of power-efficient IoT devices with advanced wireless capabilities.
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/23/nordic-nrf54l15-tag-prototyping-platform-supports-bluetooth-channel-sounding-matter-edge-ai/)
+
+---
+
+### 2. Coin-cell powered Nordic nRF54L15 Tag prototyping platform supports Bluetooth Channel Sounding, Matter, Edge AI ⭐
+
+**⚡ Semiconductors**
+
+Nordic Semiconductor's nRF54L15 Tag is a coin-cell-powered prototyping platform for ultra-low-power IoT devices, supporting Bluetooth Channel Sounding, Matter, and Edge AI.
+
+💡 **Key Point:** Accelerates development of power-efficient IoT devices with advanced wireless capabilities.
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/23/nordic-nrf54l15-tag-prototyping-platform-supports-bluetooth-channel-sounding-matter-edge-ai/)
+
+---
+
+### 3. Valve Steam Machine review: Couch gaming unboxed, but not always at 4K 
 
 **🎮 GPUs**
 
-This review tests the GEEKOM A7 2026 Edition mini PC with Windows 11 Pro, focusing on its AMD Ryzen 5 7545U processor, Radeon 740M graphics, 16 GB of RAM, and 466 GB of storage. It evaluates its performance in various tasks, including 4K and 8K video playback, network performance, and cooling. The review aims to provide a comprehensive assessment of the mini PC's capabilities and its suitability for different use cases.
+Valve's Steam Machine offers a well-designed box for TV gaming, but its hardware is outdated despite its high price. This device is suitable for casual couch gamers, but those seeking the latest hardware may be disappointed. The device's performance and 4K capabilities are inconsistent.
 
-💡 **Key Point:** Ryzen 5 7545U offers competitive performance in a compact, affordable package.
+💡 **Key Point:** Outdated hardware undermines Steam Machine's high starting price value
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/22/geekom-a7-2026-edition-review-part-2-amd-ryzen-5-7545u-mini-pc-tested-with-windows-11-pro/)
-
----
-
-### 2. GEEKOM A7 2026 Edition Review Part 2: AMD Ryzen 5 7545U Mini PC tested with Windows 11 Pro ⭐
-
-**💻 Hardware**
-
-This review tests the GEEKOM A7 2026 Edition mini PC with Windows 11 Pro, focusing on its AMD Ryzen 5 7545U processor, Radeon 740M graphics, 16 GB of RAM, and 466 GB of storage. It evaluates its performance in various tasks, including 4K and 8K video playback, network performance, and cooling. The review aims to provide a comprehensive assessment of the mini PC's capabilities and its suitability for different use cases.
-
-💡 **Key Point:** Ryzen 5 7545U offers competitive performance in a compact, affordable package.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/22/geekom-a7-2026-edition-review-part-2-amd-ryzen-5-7545u-mini-pc-tested-with-windows-11-pro/)
+🔗 [Read More](https://www.tomshardware.com/video-games/console-gaming/valve-steam-machine-review)
 
 ---
 
-### 3. UTFS is a lightweight, zero-allocation file system for embedded devices 
+### 4. The founder of Eidos-Montr al says the game industry has been taken over by spreadsheets and lost its soul 
 
-**🤖 AI & ML**
+**🎮 GPUs**
 
-UTFS is a lightweight, zero-allocation file system for embedded devices, offering a simple, fixed-header storage solution. It's designed for small MCUs with flat, byte-addressable memory and avoids complex features. UTFS supports sequential layout and is forward-compatible.
+Eidos-Montréal's founder believes the game industry has lost its creativity due to corporate influence.
 
-💡 **Key Point:** Simplifies storage on resource-constrained embedded devices significantly.
+💡 **Key Point:** Creative passion squeezed by corporate profit-driven decision-making processes.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/)
-
----
-
-### 4. Intel and AMD unveil new x86 standard to make CPUs better at running AI models 
-
-**🤖 AI & ML**
-
-Intel and AMD unveil Advanced Compute Extensions (ACE) to enhance AI model processing on x86 processors, focusing on smaller models and latency-sensitive tasks.
-
-💡 **Key Point:** Boosting AI performance on x86 CPUs in GPU-less environments matters
-
-🔗 [Read More](https://www.techspot.com/news/112846-intel-amd-unveil-new-x86-standard-make-cpus.html)
+🔗 [Read More](https://www.techspot.com/news/112857-founder-eidos-montral-game-industry-has-taken-over.html)
 
 ---
 
-### 5. ST VL53L9CX direct Time-of-Flight 3D LiDAR supports 5cm to 9m range, 2.3K zones resolution 
+### 5. Optocam Zero A Raspberry Pi Zero 2 W-based DIY digital camera 
 
-**💻 Hardware**
+**📰 Tech News**
 
-STMicroelectronics VL53L9CX is a mini 3D LiDAR module offering 5cm-9m range and 2.3K zones resolution.
+The Optocam Zero is a DIY digital camera based on Raspberry Pi Zero 2 W, featuring a 1.3-inch LCD, autofocus, and eight photo filters among its key features.
 
-💡 **Key Point:** Revolutionizing robotics and automation with high-resolution 3D sensing capabilities
+💡 **Key Point:** Raspberry Pi Zero 2 W enables accessible and affordable DIY camera projects.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/22/st-vl53l9cx-direct-time-of-flight-3d-lidar-supports-5cm-to-9m-range-2-3k-zones-resolution/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **38 articles** across **5 focused categories**.
+We covered **44 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 10 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 12 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 11 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 8 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 9 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 11 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 10 articles
+*Artificial Intelligence and Machine Learning* — 11 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 7 articles
+*Graphics cards and compute accelerators* — 8 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 12 articles
+*Computing hardware and development boards* — 9 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 3 articles
+*Chip manufacturing and design* — 5 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 6 articles
+*Industry news and product launches* — 11 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-22 at 14:16 by an autonomous AI curation system.
+Generated 2026-06-23 at 11:44 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

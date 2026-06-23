@@ -1,73 +1,125 @@
 # 📰 Tech News
-**Week of June 22, 2026**
+**Week of June 23, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-06-22 14:16
+- **Articles this week:** 11
+- **Report generated:** 2026-06-23 11:44
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Cyberpunk's disastrous launch still haunts CD Projekt Red, but hopes The Witcher 4 can win players back 
+### 1. Optocam Zero A Raspberry Pi Zero 2 W-based DIY digital camera 
 
-CD Projekt Red still faces the aftermath of Cyberpunk 2077's disastrous launch but hopes The Witcher 4 can win back players. Following numerous patches, Cyberpunk 2077's quality improved, and the Phantom Liberty expansion received positive reviews. This may set a precedent for The Witcher 4's success.
+The Optocam Zero is a DIY digital camera based on Raspberry Pi Zero 2 W, featuring a 1.3-inch LCD, autofocus, and eight photo filters among its key features.
 
-💡 *Rebuilding trust takes time and quality game releases*
+💡 *Raspberry Pi Zero 2 W enables accessible and affordable DIY camera projects.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112845-cd-projekt-red-admits-cyberpunk-2077-may-never.html)
-
----
-
-### 2. Anycubic Kobra 4 Combo 3D printer review: Evolution, not revolution 
-
-The Anycubic Kobra 4 Combo 3D printer offers incremental improvements over its predecessor. It retains the strengths of the Kobra 3 while refining some aspects. This evolution makes it a solid choice for users familiar with the series.
-
-💡 *Evolutionary updates rather than revolutionary changes define this 3D printer*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/anycubic-kobra-4-combo-3d-printer-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/)
 
 ---
 
-### 3. Best of Sensors: Stathera wins Best MEMS Solution at Sensors Converge 
+### 2. How Pixar recovered Toy Story 2 after a Unix command deleted nearly the entire film in 1998 
 
-Strathera's DualMode MEMS oscillator uses fusion bonding tech, generating kHz and MHz frequencies from a single MEMS resonator, winning the Best of Sensors award in the MEMS Solution category at Sensors Converge.
+Pixar's animation pipeline was vulnerable to accidental deletions due to open access. A Unix command intended for cleanup accidentally deleted nearly the entire Toy Story 2 film in 1998. The studio recovered the film through a massive effort.
 
-💡 *Breakthrough fusion bonding tech expands MEMS oscillator capabilities*
+💡 *Open collaboration systems can lead to unintended catastrophic data loss.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/best-sensors-stathera-wins-best-mems-solution-sensors-converge)
-
----
-
-### 4. Ori director says Game Pass needs "smash hits," not studios slopping out mediocre content 
-
-Xbox is going through a turbulent time, to say the least. Last week brought news that the company is closing Ninja Theory and Double Fine, with Compulsion and others set for the chopping block part of the major layoffs that are being implemented. We've also heard that Microsoft could... Read Entire Article
-
-🔗 [Read Full Article](https://www.techspot.com/news/112849-ori-director-game-pass-needs-smash-hits-not.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112848-how-pixar-nearly-deleted-toy-story-2-single.html)
 
 ---
 
-### 5. HDMI 2.2 doubles bandwidth to 96Gbps, enabling uncompressed 4K at 240Hz 
+### 3. Valve working on SteamOS for general release company collaborating with Nvidia to ensure compatibility, hints at dual-boot capabilities in the future 
 
-HDMI 2.2 supports uncompressed 4K at 240Hz and 8K at 60Hz.
+Valve is expanding SteamOS compatibility with Nvidia and other hardware platforms, making it easier for users to install the gaming operating system on non-Valve hardware, but still requiring a complete system wipe.
 
-💡 *Enables seamless high-speed video transmission for gaming and streaming.*
+💡 *Wider compatibility enhances gaming PC options for Steam users*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112842-hdmi-22-doubles-bandwidth-96gbps-enabling-uncompressed-4k.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/valve-working-on-steamos-for-general-release-company-collaborating-with-nvidia-to-ensure-compatibility-hints-at-dual-boot-capabilities-in-the-future)
 
 ---
 
-### 6. A 35-year-old copyright rule could let Ultima's creator make a new game EA can't stop 
+### 4. SK hynix passes Samsung as South Korea's most valuable company memory company surpasses valuation milestone on the back of HBM 
 
-Richard Garriott, Ultima's creator, seeks to revive the series with EA's help, but previous attempts stalled due to lack of progress. Despite EA's initial interest, no concrete outcome resulted from these efforts. Garriott believes a 35-year-old copyright rule may be the key to making a new game without EA's control.
+SK hynix surpassed Samsung Electronics as South Korea's most valuable listed company on Monday, driven by strong performances in its high-bandwidth memory business.
 
-💡 *35-year copyright rule may free Ultima's creator from EA's control.*
+💡 *Market shift highlights SK hynix's growing dominance in memory tech.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112843-35-year-old-copyright-rule-could-ultima-creator.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/sk-hynix-passes-samsung-as-south-koreas-most-valuable-company-on-hbm-demand)
+
+---
+
+### 5. LG's large OLED panels get world's first Intertek certification for "perfect" color and brightness displays apparently look good under bright ambient light 
+
+LG's large OLED panels receive Intertek certification for perfect color and brightness, providing clear visuals under extreme ambient light conditions.
+
+💡 *Improved display visibility in bright environments enhances viewing experience quality*
+
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/lgs-large-oled-panels-get-worlds-first-intertek-certification-for-perfect-color-and-brightness-displays-apparently-look-good-under-bright-ambient-light)
+
+---
+
+### 6. The Best OLED Gaming Monitors: From $350 QD-OLED to Flagship Tandem WOLEDs 
+
+OLED gaming monitors have improved significantly in terms of quality and affordability. Our review covers the top QD-OLED and Tandem WOLED displays across various budgets. We'll help you find the best pick for your gaming needs.
+
+💡 *Immersive gaming experiences now accessible to a wider range of gamers.*
+
+🔗 [Read Full Article](https://www.techspot.com/bestof/oled-monitors-26/)
+
+---
+
+### 7. Polymarket paid influencers to fake winning bets, built dummy websites to pull it off 
+
+Polymarket paid influencers to fake winning bets, deceiving investors and compromising credibility.
+
+💡 *Investor trust undermined by paid influencers faking financial outcomes.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112856-polymarket-paid-influencers-fake-winning-bets-built-dummy.html)
+
+---
+
+### 8. Valve confirms FSR 4 for Steam Machine, AMD releases FSR 4.1 for RDNA 3 GPUs 
+
+Valve confirms FSR 4 for Steam Machines and AMD releases FSR 4.1 for RDNA 3 GPUs. The update is being tested in the Proton Experimental build for SteamOS. AMD has added FSR 4.1.1 INT8 DLL files to Steam.
+
+💡 *Enhanced gaming performance on Steam and AMD GPUs is improved.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112855-valve-confirms-fsr-4-steam-machine-amd-releases.html)
+
+---
+
+### 9. The FDA just cleared a maggot-based wound treatment from a Singapore startup 
+
+The FDA cleared Medifly Maggots, a maggot-based wound treatment, for prescription use. Produced by Singapore-based Cuprina, the product is for maggot debridement therapy. This treatment aims to aid in wound healing.
+
+💡 *Innovative maggot therapy offers alternative wound healing solution options*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112853-fda-clears-australian-sheep-blowfly-larvae-maggot-wound.html)
+
+---
+
+### 10. Get 50% off this Nintendo Switch 2 microSD Express Card from Samsung 800 MBps P9 is now just $39.99 for 256GB 
+
+Get the Samsung P9 Express microSD card for 256GB at $39.99, offering 800 MBps speeds.
+
+💡 *Significant cost savings on high-speed storage for Nintendo Switch users.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/microsd-cards/get-50-percent-off-this-nintendo-switch-2-microsd-express-card-from-samsung-on-prime-day-256gb-p9-now-just-usd39-99-up-to-800-mb-s)
+
+---
+
+### 11. Before it was known as Adobe Photoshop, what was the original name of the software in 1987? 
+
+Photoshop originated as a student project, developed by Thomas and John Knoll in 1987. The software was initially called 'Display' before Thomas and John renamed it. The Knoll brothers eventually partnered with Adobe to market the software.
+
+💡 *Innovation often starts as a humble side project or student endeavor.*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/100-before-known-adobe-photoshop-what-original-name-software/)
 
 ---
 
