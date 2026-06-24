@@ -1,105 +1,115 @@
 # 💻 Hardware
-**Week of June 23, 2026**
+**Week of June 24, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-06-23 11:44
+- **Articles this week:** 10
+- **Report generated:** 2026-06-24 11:29
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Coin-cell powered Nordic nRF54L15 Tag prototyping platform supports Bluetooth Channel Sounding, Matter, Edge AI ⭐
+### 1. MSI Claw 8 EX AI+ review: Unmatched performance and a jaw-dropping price tag ⭐
 
-Nordic Semiconductor's nRF54L15 Tag is a coin-cell-powered prototyping platform for ultra-low-power IoT devices, supporting Bluetooth Channel Sounding, Matter, and Edge AI.
+The MSI Claw 8 EX AI+ offers unmatched performance but a high price tag, making it a questionable value at $1,799.
 
-💡 *Accelerates development of power-efficient IoT devices with advanced wireless capabilities.*
+💡 *Unmatched performance comes at a steep and questionable price premium.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/23/nordic-nrf54l15-tag-prototyping-platform-supports-bluetooth-channel-sounding-matter-edge-ai/)
-
----
-
-### 2. Valve Steam Machine review: Couch gaming unboxed, but not always at 4K 
-
-Valve's Steam Machine offers a well-designed box for TV gaming, but its hardware is outdated despite its high price. This device is suitable for casual couch gamers, but those seeking the latest hardware may be disappointed. The device's performance and 4K capabilities are inconsistent.
-
-💡 *Outdated hardware undermines Steam Machine's high starting price value*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/valve-steam-machine-review)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/msi-claw-8-ex-ai-plus-review)
 
 ---
 
-### 3. TerraMaster F4-425 Pro 4+3 Hybrid NAS gets Intel Core 3 N350 or Core i3-N305 octa-core CPU 
+### 2. Graperain GR1126MB development board features solder-on 3 TOPS Rockchip RV1126B AI Vision module ⭐
 
-The TerraMaster F4-425 Pro NAS features a powerful Intel Core 3 N350 or Core i3-N305 octa-core processor, offering improved performance for storage and networking tasks. It retains the same storage and networking features as its predecessor, including four SATA bays, three M.2 NVMe SSD sockets, and dual 5GbE networking. The device also includes DDR5 memory, USB 3.2 ports, and an HDMI port.
+The Graperain GR1126MB development board features a Rockchip RV1126B AI Vision module with 3 TOPS NPU, suitable for AI vision, machine vision, and edge AI applications.
 
-💡 *Significant performance boost for demanding NAS applications and tasks.*
+💡 *Edge AI solutions get a significant compute boost with 3 TOPS NPU.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/23/terramaster-f4-425-pro-43-hybrid-nas-gets-intel-core-3-n350-or-core-i3-n305-octa-core-cpu/)
-
----
-
-### 4. MYiR MAC-B5760 fanless Edge AI industrial PC features Rockchip RK3576 SoC, optional RK1828 LLM/VLM module 
-
-MYiR MAC-B5760 is a fanless Edge AI industrial PC with Rockchip RK3576 SoC, offering AI capabilities, networking, and expansion options.
-
-💡 *Enables efficient AI processing in industrial settings with compact design.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/23/myir-mac-b5760-fanless-edge-ai-industrial-pc-offers-rockchip-rk3576-soc-optional-rk1828-llm-vlm-module/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/24/graperain-gr1126mb-development-board-features-solder-on-3-tops-rockchip-rv1126b-ai-vision-module/)
 
 ---
 
-### 5. Optocam Zero A Raspberry Pi Zero 2 W-based DIY digital camera 
+### 3. RP2350B bells&whistles development board features on-board RP2040 debugger, HDMI, and microSD card slot ⭐
 
-The Optocam Zero is a DIY digital camera based on Raspberry Pi Zero 2 W, featuring a 1.3-inch LCD, autofocus, and eight photo filters among its key features.
+The Bells&Whistles development board features an RP2350B SoC with onboard RP2040 debugger, HDMI, and microSD card slot, ideal for clutter-free prototyping and development.
 
-💡 *Raspberry Pi Zero 2 W enables accessible and affordable DIY camera projects.*
+💡 *Streamlined development workflow with integrated debugger and peripherals.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/)
-
----
-
-### 6. Arm servers capture over 45% of data center market revenue GPU clusters and high-end AI infrastructure fuel a tectonic shift away from x86 
-
-Arm-based servers accounted for nearly half of server revenue in Q1 2026, challenging x86 dominance. This shift is driven by the growing demand for specialized hardware in AI workloads. As a result, GPU clusters and high-end AI infrastructure are fueling the transition.
-
-💡 *Arm-based servers challenge x86 dominance in data center market.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/arm-servers-capture-over-45-percent-of-data-center-market-revenue-gpu-clusters-and-high-end-ai-infrastructure-fuel-a-tectonic-shift-away-from-x86)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/24/rp2350b-bellswhistles-development-board-features-on-board-rp2040-debugger-hdmi-and-microsd-card-slot/)
 
 ---
 
-### 7. Valve engineers talk Steam Machine, pricing, and the benefits of massive heatsinks explain why Valve hardware needs to be a 'self-sustained program' 
+### 4. MSI Claw 8 EX AI+ sets a new performance bar with a very expensive handheld ⭐
 
-Valve engineers discuss Steam Machine's pricing, engineering, and availability ahead of its launch. The company's hardware is a self-sustained program, requiring massive heatsinks for efficient cooling. This setup allows for better customization and optimization.
+The MSI Claw 8 EX AI+ handheld pushes performance with Intel's Arc G3, but its high price of $1,800 and lack of OLED display make it a tough sell.
 
-💡 *Customized hardware enables better performance and efficiency optimization.*
+💡 *Handheld gaming performance now rivals console-level graphics capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/valve-engineers-talk-steam-machine-pricing-and-the-benefits-of-massive-heatsinks-explain-why-valve-hardware-needs-to-be-a-self-sustained-program)
-
----
-
-### 8. This $1,479 Alienware gaming PC features an RTX 5070 and a Core Ultra 7 265F CPU 4K-ready Aurora desktop is up to $850 off 
-
-Save 36% on the Alienware Aurora R16 gaming PC, configured with an RTX 5070, bringing the price down to $1,479. This deal includes a free Lego Batman game. The reduced price is a significant discount from its original price of $2,330.
-
-💡 *High-end gaming PC available at a significantly discounted price*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/this-usd1-479-alienware-gaming-pc-features-an-rtx-5070-and-a-core-ultra-7-265f-cpu-4k-ready-aurora-desktop-is-up-to-usd850-off)
+🔗 [Read Full Article](https://www.techspot.com/products/audio-video/msi-claw-8-ex-ai.326383/)
 
 ---
 
-### 9. Valve's Steam Machine is here: starts at $1,049 for 512GB or $1,349 for the 2TB version 
+### 5. China's LineShine supercomputer dethrones US' El Capitan, secures first place in Top 500 list first machine in the rankings to sustain more than 2 ExaFLOPS of double-precision performance using only CPUs 
 
-Valve's Steam Machine features a semi-custom AMD platform, a 6-core CPU, and 8GB of GDDR6 VRAM. The device is available in two versions: a 512GB model starting at $1,049 and a 2TB model starting at $1,349. It includes a RDNA 3 GPU and 16GB of DDR5 system RAM.
+China's LineShine supercomputer has dethroned the US' El Capitan, securing first place in the Top 500 list, as the first machine to sustain over 2 ExaFLOPS of double-precision performance using only CPUs. This achievement marks a significant milestone in the global supercomputing landscape.
 
-💡 *High-performance gaming PC meets affordability and convenience.*
+💡 *China's LineShine supercomputer leads in double-precision performance globally*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112858-valve-steam-machine-here-starts-1049-512gb-or.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/supercomputers/chinas-lineshine-supercomputer-dethrones-us-el-capitan-secures-first-place-in-top-500-list-first-machine-in-the-rankings-to-sustain-more-than-2-exaflops-of-double-precision-performance-using-only-cpus)
+
+---
+
+### 6. Visualize radio signals with Raspberry Pi 5-based QuadRF 4 4 MIMO software-defined radio tile (Crowdfunding) 
+
+QuadRF is a Raspberry Pi 5-based software-defined radio tile that visualizes radio signals in real-time using a phone or computer. It measures differences in signal arrival time and renders a live RF overlay at 30 FPS. This enables users to see RF signals from various devices.
+
+💡 *Real-time RF visualization offers new insights into wireless device interactions.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/24/visualize-radio-signals-with-raspberry-pi-5-based-quadrf-4x4-mimo-software-defined-radio-tile/)
+
+---
+
+### 7. China black market Nvidia prices rocket in wake of smuggling crackdown and customs freeze five-year-old A100 servers triple in price, now fetching up to $82,000 
+
+Chinese companies are paying exorbitant prices for 5-year-old Nvidia A100 servers, up to $82,000, due to a customs freeze and smuggling crackdown.
+
+💡 *Supply chain disruptions fuel artificial demand for outdated tech components*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/five-year-old-nvidia-a100-servers-triple-in-price-in-china)
+
+---
+
+### 8. This brilliant $11 power button gadget lets you switch your PC on from your desk with ease perfect desk upgrade means you don't need to bend down to turn your rig on or off anymore, ships with super-durable mechanical keys and RGB lighting 
+
+A statement power button upgrade for your desk is available at an affordable $11 price point, featuring super-durable mechanical keys and RGB lighting.
+
+💡 *Convenient PC access without bending down matters greatly for users.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/this-brilliant-usd11-power-button-gadget-lets-you-switch-your-pc-on-from-your-desk-with-ease-perfect-desk-upgrade-means-you-dont-need-to-bend-down-to-turn-your-rig-on-or-off-anymore-ships-with-super-durable-mechanical-keys-and-rgb-lighting)
+
+---
+
+### 9. Valve is working with Intel, AMD, and Nvidia to make SteamOS run on any PC hardware 
+
+Valve is updating SteamOS to be more hardware-agnostic, working with major manufacturers.
+
+💡 *Wider compatibility boosts PC gaming's accessibility and ecosystem diversity.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112872-valve-working-intel-amd-nvidia-make-steamos-run.html)
+
+---
+
+### 10. Microsoft is selling new 8GB Surface laptops that don't qualify as Copilot+ PCs 
+
+Microsoft has released new 8GB Surface laptops at $849-$949, powered by the Snapdragon X Plus SoC.
+
+💡 *Mid-range Surface laptops lack Copilot+ capabilities due to hardware limitations.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112871-microsoft-launches-cheaper-surface-laptop-surface-pro-starting.html)
 
 ---
 

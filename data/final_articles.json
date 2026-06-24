@@ -1,315 +1,336 @@
 [
   {
-    "title": "Valve working on SteamOS for general release company collaborating with Nvidia to ensure compatibility, hints at dual-boot capabilities in the future",
-    "summary": "Valve is expanding SteamOS compatibility with Nvidia and other hardware platforms, making it easier for users to install the gaming operating system on non-Valve hardware, but still requiring a complete system wipe.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/valve-working-on-steamos-for-general-release-company-collaborating-with-nvidia-to-ensure-compatibility-hints-at-dual-boot-capabilities-in-the-future",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.424045",
-    "insight": "Wider compatibility enhances gaming PC options for Steam users"
-  },
-  {
-    "title": "SK hynix passes Samsung as South Korea's most valuable company memory company surpasses valuation milestone on the back of HBM",
-    "summary": "SK hynix surpassed Samsung Electronics as South Korea's most valuable listed company on Monday, driven by strong performances in its high-bandwidth memory business.",
-    "link": "https://www.tomshardware.com/tech-industry/sk-hynix-passes-samsung-as-south-koreas-most-valuable-company-on-hbm-demand",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.424165",
-    "insight": "Market shift highlights SK hynix's growing dominance in memory tech."
-  },
-  {
-    "title": "LG's large OLED panels get world's first Intertek certification for \"perfect\" color and brightness displays apparently look good under bright ambient light",
-    "summary": "LG's large OLED panels receive Intertek certification for perfect color and brightness, providing clear visuals under extreme ambient light conditions.",
-    "link": "https://www.tomshardware.com/monitors/lgs-large-oled-panels-get-worlds-first-intertek-certification-for-perfect-color-and-brightness-displays-apparently-look-good-under-bright-ambient-light",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.424288",
-    "insight": "Improved display visibility in bright environments enhances viewing experience quality"
-  },
-  {
-    "title": "Get 50% off this Nintendo Switch 2 microSD Express Card from Samsung 800 MBps P9 is now just $39.99 for 256GB",
-    "summary": "Get the Samsung P9 Express microSD card for 256GB at $39.99, offering 800 MBps speeds.",
-    "link": "https://www.tomshardware.com/pc-components/microsd-cards/get-50-percent-off-this-nintendo-switch-2-microsd-express-card-from-samsung-on-prime-day-256gb-p9-now-just-usd39-99-up-to-800-mb-s",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-23T11:43:17.424403",
-    "insight": "Significant cost savings on high-speed storage for Nintendo Switch users."
-  },
-  {
-    "title": "Arm servers capture over 45% of data center market revenue GPU clusters and high-end AI infrastructure fuel a tectonic shift away from x86",
-    "summary": "Arm-based servers accounted for nearly half of server revenue in Q1 2026, challenging x86 dominance. This shift is driven by the growing demand for specialized hardware in AI workloads. As a result, GPU clusters and high-end AI infrastructure are fueling the transition.",
-    "link": "https://www.tomshardware.com/desktops/servers/arm-servers-capture-over-45-percent-of-data-center-market-revenue-gpu-clusters-and-high-end-ai-infrastructure-fuel-a-tectonic-shift-away-from-x86",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.424544",
-    "insight": "Arm-based servers challenge x86 dominance in data center market."
-  },
-  {
-    "title": "Valve engineers talk Steam Machine, pricing, and the benefits of massive heatsinks explain why Valve hardware needs to be a 'self-sustained program'",
-    "summary": "Valve engineers discuss Steam Machine's pricing, engineering, and availability ahead of its launch. The company's hardware is a self-sustained program, requiring massive heatsinks for efficient cooling. This setup allows for better customization and optimization.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/valve-engineers-talk-steam-machine-pricing-and-the-benefits-of-massive-heatsinks-explain-why-valve-hardware-needs-to-be-a-self-sustained-program",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.424667",
-    "insight": "Customized hardware enables better performance and efficiency optimization."
-  },
-  {
-    "title": "Anthropic s powerful Mythos AI reportedly breached almost all NSA classified systems within a few hours during red-team test report sheds more light on the U.S. government's sudden ban on the flagship models",
-    "summary": "Anthropic's Mythos AI breached nearly all NSA classified systems in a test, prompting a government ban on its models.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-powerful-mythos-ai-reportedly-breached-almost-all-nsa-classified-systems-within-a-few-hours-during-red-team-test-report-sheds-more-light-on-the-u-s-governments-sudden-ban-on-the-flagship-models",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.424823",
-    "insight": "AI's capabilities exceed expected limits, raising national security concerns suddenly."
-  },
-  {
-    "title": "Valve opens Steam Machine reservations details $1,049 starting price, randomized queue to stop scalpers, and limited inventory",
-    "summary": "Valve has introduced a randomized queue system and limited inventory to prevent scalpers from buying up Steam Machines. The starting price for the Steam Machine is $1,049. This move aims to make the devices more accessible to genuine customers.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/valve-opens-steam-machine-reservations-details-usd1-049-starting-price-randomized-queue-to-stop-scalpers-and-limited-inventory",
+    "title": "Valve Steam Machine price hike similar to Steam Deck's 45% increase, company confirms was probably priced competitively against the PS5 Pro before the RAMpocalypse",
+    "summary": "Valve confirms Steam Machine price hike, estimated at under $750 base price. The price increase is similar to Steam Deck's 45% hike. This adjustment was made before the RAMpocalypse.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/valve-steam-machine-price-hike-similar-to-steam-decks-45-percent-increase-company-confirms-was-probably-priced-competitively-against-the-ps5-pro-before-the-rampocalypse",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.424933",
-    "insight": "Preventing scalpers to make Steam Machines more accessible to genuine customers"
+    "processed_date": "2026-06-24T11:28:36.859171",
+    "insight": "Pre-RAMpocalypse pricing reflects competition with PS5 Pro, not inflation costs."
   },
   {
-    "title": "Valve Steam Machine review: Couch gaming unboxed, but not always at 4K",
-    "summary": "Valve's Steam Machine offers a well-designed box for TV gaming, but its hardware is outdated despite its high price. This device is suitable for casual couch gamers, but those seeking the latest hardware may be disappointed. The device's performance and 4K capabilities are inconsistent.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/valve-steam-machine-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-23T11:43:17.425038",
-    "insight": "Outdated hardware undermines Steam Machine's high starting price value"
-  },
-  {
-    "title": "AMD brings official FSR 4.1 support to RX 7000 series GPUs INT8 model now available in 300+ games, RDNA 3 APUs also getting FSR 4.1 soon",
-    "summary": "AMD RX 7000 series GPUs now support native FSR 4.1 with INT8 fallback, available in over 300 games. Users can update their graphics drivers to experience FSR 4.1. RDNA 3 APUs will also receive support soon.",
-    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-brings-official-fsr-4-1-support-to-rx-7000-series-gpus-int8-model-now-available-in-300-games-rdna-3-apus-also-getting-fsr-4-1-soon",
+    "title": "China black market Nvidia prices rocket in wake of smuggling crackdown and customs freeze five-year-old A100 servers triple in price, now fetching up to $82,000",
+    "summary": "Chinese companies are paying exorbitant prices for 5-year-old Nvidia A100 servers, up to $82,000, due to a customs freeze and smuggling crackdown.",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/five-year-old-nvidia-a100-servers-triple-in-price-in-china",
     "categories": [
       "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.859325",
+    "insight": "Supply chain disruptions fuel artificial demand for outdated tech components"
+  },
+  {
+    "title": "Meta pauses mandatory AI training program that tracked employee keystrokes after internal data leak exposed sensitive staff information company-wide employees express frustration over poor handling of data",
+    "summary": "Meta has paused an AI training program after sensitive employee data was leaked.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/meta-pauses-mandatory-ai-training-program-that-tracked-employee-keystrokes-after-internal-data-leak-exposed-sensitive-staff-information-company-wide-employees-express-frustration-over-poor-handling-of-data",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-24T11:28:36.859472",
+    "insight": "Employees' personal data vulnerabilities expose trust in company's handling practices."
+  },
+  {
+    "title": "This brilliant $11 power button gadget lets you switch your PC on from your desk with ease perfect desk upgrade means you don't need to bend down to turn your rig on or off anymore, ships with super-durable mechanical keys and RGB lighting",
+    "summary": "A statement power button upgrade for your desk is available at an affordable $11 price point, featuring super-durable mechanical keys and RGB lighting.",
+    "link": "https://www.tomshardware.com/pc-components/this-brilliant-usd11-power-button-gadget-lets-you-switch-your-pc-on-from-your-desk-with-ease-perfect-desk-upgrade-means-you-dont-need-to-bend-down-to-turn-your-rig-on-or-off-anymore-ships-with-super-durable-mechanical-keys-and-rgb-lighting",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.859610",
+    "insight": "Convenient PC access without bending down matters greatly for users."
+  },
+  {
+    "title": "Nvidia announces liquid cooling system that runs hotter than a hot tub promises to reduce electricity consumption and cut water use by up to 100%, but sustainability challenges remain",
+    "summary": "Nvidia's new liquid cooling system runs at 113°F to reduce costs and water consumption.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-announces-liquid-cooling-system-that-runs-hotter-than-a-hot-tub-promises-to-reduce-electricity-consumption-and-cut-water-use-by-up-to-100-percent-but-sustainability-challenges-remain",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.859862",
+    "insight": "Raising coolant temperature saves energy while minimizing water usage."
+  },
+  {
+    "title": "MSI Claw 8 EX AI+ review: Unmatched performance and a jaw-dropping price tag",
+    "summary": "The MSI Claw 8 EX AI+ offers unmatched performance but a high price tag, making it a questionable value at $1,799.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/msi-claw-8-ex-ai-plus-review",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-24T11:28:36.859987",
+    "insight": "Unmatched performance comes at a steep and questionable price premium."
+  },
+  {
+    "title": "China's LineShine supercomputer dethrones US' El Capitan, secures first place in Top 500 list first machine in the rankings to sustain more than 2 ExaFLOPS of double-precision performance using only CPUs",
+    "summary": "China's LineShine supercomputer has dethroned the US' El Capitan, securing first place in the Top 500 list, as the first machine to sustain over 2 ExaFLOPS of double-precision performance using only CPUs. This achievement marks a significant milestone in the global supercomputing landscape.",
+    "link": "https://www.tomshardware.com/tech-industry/supercomputers/chinas-lineshine-supercomputer-dethrones-us-el-capitan-secures-first-place-in-top-500-list-first-machine-in-the-rankings-to-sustain-more-than-2-exaflops-of-double-precision-performance-using-only-cpus",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-24T11:28:36.860102",
+    "insight": "China's LineShine supercomputer leads in double-precision performance globally"
+  },
+  {
+    "title": "California drivers accuse gas station operators of using AI to boost pump prices lawsuit seeks damages for antitrust violations",
+    "summary": "California drivers accuse gas stations of using AI to inflate prices, exacerbating the state's already high gas prices. A proposed class action lawsuit seeks damages for alleged antitrust violations. The lawsuit claims that the AI-tool prioritizes profits over consumers.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-drivers-accuse-gas-station-operators-of-using-ai-to-boost-pump-prices-lawsuit-seeks-damages-for-antitrust-violations",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.425144",
-    "insight": "Native FSR 4.1 support boosts gaming performance for RX 7000 owners."
+    "processed_date": "2026-06-24T11:28:36.860224",
+    "insight": "Artificial intelligence fuels price gouging in California's already overpriced gas market"
   },
   {
-    "title": "This $1,479 Alienware gaming PC features an RTX 5070 and a Core Ultra 7 265F CPU 4K-ready Aurora desktop is up to $850 off",
-    "summary": "Save 36% on the Alienware Aurora R16 gaming PC, configured with an RTX 5070, bringing the price down to $1,479. This deal includes a free Lego Batman game. The reduced price is a significant discount from its original price of $2,330.",
-    "link": "https://www.tomshardware.com/pc-components/this-usd1-479-alienware-gaming-pc-features-an-rtx-5070-and-a-core-ultra-7-265f-cpu-4k-ready-aurora-desktop-is-up-to-usd850-off",
+    "title": "Oracle lays off 21,000 employees in just 12 months due to AI adoption and costly AI infrastructure ambitions says layoffs will continue as internal AI deployment grows",
+    "summary": "Oracle laid off 21,000 employees in 12 months due to AI adoption and costly cloud expansions.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/oracle-lays-off-21-000-employees-in-just-12-months-due-to-ai-adoption-and-costly-ai-infrastructure-ambitions-says-layoffs-will-continue-as-internal-ai-deployment-grows",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.860328",
+    "insight": "AI-driven restructuring imperils Oracle's workforce and financial stability."
+  },
+  {
+    "title": "Graperain GR1126MB development board features solder-on 3 TOPS Rockchip RV1126B AI Vision module",
+    "summary": "The Graperain GR1126MB development board features a Rockchip RV1126B AI Vision module with 3 TOPS NPU, suitable for AI vision, machine vision, and edge AI applications.",
+    "link": "https://www.cnx-software.com/2026/06/24/graperain-gr1126mb-development-board-features-solder-on-3-tops-rockchip-rv1126b-ai-vision-module/",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.425261",
-    "insight": "High-end gaming PC available at a significantly discounted price"
+    "quality_score": 15,
+    "processed_date": "2026-06-24T11:28:36.860615",
+    "insight": "Edge AI solutions get a significant compute boost with 3 TOPS NPU."
   },
   {
-    "title": "TerraMaster F4-425 Pro 4+3 Hybrid NAS gets Intel Core 3 N350 or Core i3-N305 octa-core CPU",
-    "summary": "The TerraMaster F4-425 Pro NAS features a powerful Intel Core 3 N350 or Core i3-N305 octa-core processor, offering improved performance for storage and networking tasks. It retains the same storage and networking features as its predecessor, including four SATA bays, three M.2 NVMe SSD sockets, and dual 5GbE networking. The device also includes DDR5 memory, USB 3.2 ports, and an HDMI port.",
-    "link": "https://www.cnx-software.com/2026/06/23/terramaster-f4-425-pro-43-hybrid-nas-gets-intel-core-3-n350-or-core-i3-n305-octa-core-cpu/",
+    "title": "RP2350B bells&whistles development board features on-board RP2040 debugger, HDMI, and microSD card slot",
+    "summary": "The Bells&Whistles development board features an RP2350B SoC with onboard RP2040 debugger, HDMI, and microSD card slot, ideal for clutter-free prototyping and development.",
+    "link": "https://www.cnx-software.com/2026/06/24/rp2350b-bellswhistles-development-board-features-on-board-rp2040-debugger-hdmi-and-microsd-card-slot/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-24T11:28:36.860785",
+    "insight": "Streamlined development workflow with integrated debugger and peripherals."
+  },
+  {
+    "title": "Visualize radio signals with Raspberry Pi 5-based QuadRF 4 4 MIMO software-defined radio tile (Crowdfunding)",
+    "summary": "QuadRF is a Raspberry Pi 5-based software-defined radio tile that visualizes radio signals in real-time using a phone or computer. It measures differences in signal arrival time and renders a live RF overlay at 30 FPS. This enables users to see RF signals from various devices.",
+    "link": "https://www.cnx-software.com/2026/06/24/visualize-radio-signals-with-raspberry-pi-5-based-quadrf-4x4-mimo-software-defined-radio-tile/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-23T11:43:17.425690",
-    "insight": "Significant performance boost for demanding NAS applications and tasks."
+    "processed_date": "2026-06-24T11:28:36.860956",
+    "insight": "Real-time RF visualization offers new insights into wireless device interactions."
   },
   {
-    "title": "MYiR MAC-B5760 fanless Edge AI industrial PC features Rockchip RK3576 SoC, optional RK1828 LLM/VLM module",
-    "summary": "MYiR MAC-B5760 is a fanless Edge AI industrial PC with Rockchip RK3576 SoC, offering AI capabilities, networking, and expansion options.",
-    "link": "https://www.cnx-software.com/2026/06/23/myir-mac-b5760-fanless-edge-ai-industrial-pc-offers-rockchip-rk3576-soc-optional-rk1828-llm-vlm-module/",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-23T11:43:17.425871",
-    "insight": "Enables efficient AI processing in industrial settings with compact design."
-  },
-  {
-    "title": "Coin-cell powered Nordic nRF54L15 Tag prototyping platform supports Bluetooth Channel Sounding, Matter, Edge AI",
-    "summary": "Nordic Semiconductor's nRF54L15 Tag is a coin-cell-powered prototyping platform for ultra-low-power IoT devices, supporting Bluetooth Channel Sounding, Matter, and Edge AI.",
-    "link": "https://www.cnx-software.com/2026/06/23/nordic-nrf54l15-tag-prototyping-platform-supports-bluetooth-channel-sounding-matter-edge-ai/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-06-23T11:43:17.426056",
-    "insight": "Accelerates development of power-efficient IoT devices with advanced wireless capabilities."
-  },
-  {
-    "title": "Optocam Zero A Raspberry Pi Zero 2 W-based DIY digital camera",
-    "summary": "The Optocam Zero is a DIY digital camera based on Raspberry Pi Zero 2 W, featuring a 1.3-inch LCD, autofocus, and eight photo filters among its key features.",
-    "link": "https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-23T11:43:17.426242",
-    "insight": "Raspberry Pi Zero 2 W enables accessible and affordable DIY camera projects."
-  },
-  {
-    "title": "Best of Sensors: Why PolyEdge could be the future of Edge AI",
-    "summary": "Tiami Networks' PolyEdge sensor transforms ambient signals into real-time environmental awareness with a focus on privacy. It integrates multiple functions and sensor modalities to create a comprehensive understanding of its surroundings. This innovation has the potential to revolutionize edge AI applications.",
-    "link": "https://www.fiercesensors.com/sensors/best-sensors-why-polyedge-could-be-future-edge-ai",
+    "title": "Aliro is a vendor-agnostic standard for digital access control working over NFC, Bluetooth LE, or UWB",
+    "summary": "Aliro is a vendor-agnostic standard for digital access control, leveraging NFC, Bluetooth LE, or UWB, and utilizing asymmetric cryptography for secure interactions between devices. It integrates with digital wallets from major tech companies. This standard aims to address market fragmentation in access control.",
+    "link": "https://www.cnx-software.com/2026/06/24/aliro-is-a-vendor-agnostic-standard-for-digital-access-control-working-over-nfc-bluetooth-le-or-uwb/",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.427403",
-    "insight": "Edge AI meets environmental awareness with private and multifunctional sensing."
+    "quality_score": 10,
+    "processed_date": "2026-06-24T11:28:36.861138",
+    "insight": "Aliro streamlines secure digital access control across multiple device platforms."
   },
   {
-    "title": "Many Europeans would avoid companies that rely on US tech firms, survey claims",
-    "summary": "Four out of five European consumers consider European technology a buying factor. Almost half would avoid companies using US data providers due to privacy concerns.",
-    "link": "https://www.techspot.com/news/112862-many-europeans-would-avoid-companies-rely-us-tech.html",
+    "title": "Sensors magic from the labs at UD and MSU",
+    "summary": "Researchers at UD and MSU are developing innovative sensors for wearable healthcare materials. These sensors aim to improve patient monitoring and diagnosis. Their work has the potential to revolutionize healthcare technology.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/sensors-magic-labs-ud-and-msu",
     "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.862076",
+    "insight": "Transforming healthcare with wearable, real-time monitoring and diagnosis capabilities."
+  },
+  {
+    "title": "Virtuix launches Omni One for Quest with Meta, bringing full-body movement to traditional VR controls",
+    "summary": "Virtuix's Omni One system combines VR with full-body movement capabilities, providing a more immersive experience by tracking users' steps in any direction.",
+    "link": "https://www.techspot.com/news/112877-virtuix-launches-omni-one-quest-meta-bringing-full.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.862559",
+    "insight": "Enhanced immersion through body movement tracking in VR experiences"
+  },
+  {
+    "title": "Meta is building a prediction market app, but it will launch without real-money bets",
+    "summary": "Meta is developing a prediction market app called Arena without real-money betting.",
+    "link": "https://www.techspot.com/news/112878-meta-building-prediction-market-app-but-launch-without.html",
+    "categories": [
+      "Tech News",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.427676",
-    "insight": "European consumers prioritize data privacy over US tech company reliance."
+    "processed_date": "2026-06-24T11:28:36.862722",
+    "insight": "Regulatory compliance takes priority over real-money betting in early stages."
   },
   {
-    "title": "The Best OLED Gaming Monitors: From $350 QD-OLED to Flagship Tandem WOLEDs",
-    "summary": "OLED gaming monitors have improved significantly in terms of quality and affordability. Our review covers the top QD-OLED and Tandem WOLED displays across various budgets. We'll help you find the best pick for your gaming needs.",
-    "link": "https://www.techspot.com/bestof/oled-monitors-26/",
+    "title": "Meta just launched its own-branded smart glasses for $299",
+    "summary": "Meta has launched Meta Glasses in partnership with EssilorLuxottica, priced at $299, undercutting previous entry-level models.",
+    "link": "https://www.techspot.com/news/112876-meta-launched-own-branded-smart-glasses-299.html",
     "categories": [
-      "GPUs",
-      "Tech News"
+      "Tech News",
+      "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.427824",
-    "insight": "Immersive gaming experiences now accessible to a wider range of gamers."
+    "quality_score": 10,
+    "processed_date": "2026-06-24T11:28:36.862894",
+    "insight": "Meta enters consumer electronics market with affordable smart glasses option."
   },
   {
-    "title": "Polymarket paid influencers to fake winning bets, built dummy websites to pull it off",
-    "summary": "Polymarket paid influencers to fake winning bets, deceiving investors and compromising credibility.",
-    "link": "https://www.techspot.com/news/112856-polymarket-paid-influencers-fake-winning-bets-built-dummy.html",
+    "title": "Valve is working with Intel, AMD, and Nvidia to make SteamOS run on any PC hardware",
+    "summary": "Valve is updating SteamOS to be more hardware-agnostic, working with major manufacturers.",
+    "link": "https://www.techspot.com/news/112872-valve-working-intel-amd-nvidia-make-steamos-run.html",
     "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.427944",
-    "insight": "Investor trust undermined by paid influencers faking financial outcomes."
-  },
-  {
-    "title": "Valve confirms FSR 4 for Steam Machine, AMD releases FSR 4.1 for RDNA 3 GPUs",
-    "summary": "Valve confirms FSR 4 for Steam Machines and AMD releases FSR 4.1 for RDNA 3 GPUs. The update is being tested in the Proton Experimental build for SteamOS. AMD has added FSR 4.1.1 INT8 DLL files to Steam.",
-    "link": "https://www.techspot.com/news/112855-valve-confirms-fsr-4-steam-machine-amd-releases.html",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.428058",
-    "insight": "Enhanced gaming performance on Steam and AMD GPUs is improved."
-  },
-  {
-    "title": "The founder of Eidos-Montr al says the game industry has been taken over by spreadsheets and lost its soul",
-    "summary": "Eidos-Montréal's founder believes the game industry has lost its creativity due to corporate influence.",
-    "link": "https://www.techspot.com/news/112857-founder-eidos-montral-game-industry-has-taken-over.html",
-    "categories": [
-      "AI & ML",
+      "Hardware",
       "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-23T11:43:17.428180",
-    "insight": "Creative passion squeezed by corporate profit-driven decision-making processes."
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.863069",
+    "insight": "Wider compatibility boosts PC gaming's accessibility and ecosystem diversity."
   },
   {
-    "title": "Valve's Steam Machine is here: starts at $1,049 for 512GB or $1,349 for the 2TB version",
-    "summary": "Valve's Steam Machine features a semi-custom AMD platform, a 6-core CPU, and 8GB of GDDR6 VRAM. The device is available in two versions: a 512GB model starting at $1,049 and a 2TB model starting at $1,349. It includes a RDNA 3 GPU and 16GB of DDR5 system RAM.",
-    "link": "https://www.techspot.com/news/112858-valve-steam-machine-here-starts-1049-512gb-or.html",
+    "title": "Microsoft is selling new 8GB Surface laptops that don't qualify as Copilot+ PCs",
+    "summary": "Microsoft has released new 8GB Surface laptops at $849-$949, powered by the Snapdragon X Plus SoC.",
+    "link": "https://www.techspot.com/news/112871-microsoft-launches-cheaper-surface-laptop-surface-pro-starting.html",
     "categories": [
-      "GPUs",
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.863262",
+    "insight": "Mid-range Surface laptops lack Copilot+ capabilities due to hardware limitations."
+  },
+  {
+    "title": "MSI Claw 8 EX AI+ sets a new performance bar with a very expensive handheld",
+    "summary": "The MSI Claw 8 EX AI+ handheld pushes performance with Intel's Arc G3, but its high price of $1,800 and lack of OLED display make it a tough sell.",
+    "link": "https://www.techspot.com/products/audio-video/msi-claw-8-ex-ai.326383/",
+    "categories": [
+      "AI & ML",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.428294",
-    "insight": "High-performance gaming PC meets affordability and convenience."
+    "quality_score": 15,
+    "processed_date": "2026-06-24T11:28:36.863432",
+    "insight": "Handheld gaming performance now rivals console-level graphics capabilities."
   },
   {
-    "title": "Anthropic's Mythos AI reportedly cracked NSA classified systems in hours, that would explain the ban",
-    "summary": "Anthropic's Mythos AI reportedly breached NSA classified systems in a matter of hours, leading to a ban.",
-    "link": "https://www.techspot.com/news/112854-anthropic-mythos-ai-reportedly-cracked-nsa-classified-systems.html",
+    "title": "LG claims its OLED panels deliver perfect color and brightness accuracy",
+    "summary": "LG Display's OLED panels pass new Intertek certification for color and brightness accuracy. This achievement allows LG to accurately convey its display technology's benefits. The certification is a testament to LG's commitment to quality.",
+    "link": "https://www.techspot.com/news/112869-lg-claims-oled-panels-deliver-perfect-color-brightness.html",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-23T11:43:17.428387",
-    "insight": "Rapid AI breach highlights vulnerabilities in high-security systems and data protection."
-  },
-  {
-    "title": "Microsoft researcher builds a working neural network in Age of Empires II using goats",
-    "summary": "Adrian de Wynter is an AI scientist at Microsoft and a researcher at the University of York. In addition to studying the fundamental challenges of AI and related technologies, he is also a longtime gamer who has been playing Age of Empires II since 1999. In a recent study, de... Read Entire Article",
-    "link": "https://www.techspot.com/news/112852-microsoft-researcher-builds-working-neural-network-age-empires.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-23T11:43:17.428497"
-  },
-  {
-    "title": "How Pixar recovered Toy Story 2 after a Unix command deleted nearly the entire film in 1998",
-    "summary": "Pixar's animation pipeline was vulnerable to accidental deletions due to open access. A Unix command intended for cleanup accidentally deleted nearly the entire Toy Story 2 film in 1998. The studio recovered the film through a massive effort.",
-    "link": "https://www.techspot.com/news/112848-how-pixar-nearly-deleted-toy-story-2-single.html",
-    "categories": [
+      "AI & ML",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-23T11:43:17.428610",
-    "insight": "Open collaboration systems can lead to unintended catastrophic data loss."
+    "processed_date": "2026-06-24T11:28:36.863631",
+    "insight": "Accurate color and brightness representation enhances viewer experience quality."
   },
   {
-    "title": "The FDA just cleared a maggot-based wound treatment from a Singapore startup",
-    "summary": "The FDA cleared Medifly Maggots, a maggot-based wound treatment, for prescription use. Produced by Singapore-based Cuprina, the product is for maggot debridement therapy. This treatment aims to aid in wound healing.",
-    "link": "https://www.techspot.com/news/112853-fda-clears-australian-sheep-blowfly-larvae-maggot-wound.html",
+    "title": "Gas stations accused of using AI to inflate fuel prices in class-action lawsuit",
+    "summary": "A class-action lawsuit accuses gas stations of using AI to inflate fuel prices, violating California's antitrust law.",
+    "link": "https://www.techspot.com/news/112870-california-class-action-lawsuit-accuses-major-gas-station.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.863795",
+    "insight": "Gas stations' AI price manipulation may deceive consumers, harm competition."
+  },
+  {
+    "title": "Meta hits pause on AI training project after employee data became visible company-wide",
+    "summary": "Meta pauses AI training project due to employee data visibility issue. The Model Capability Initiative tracks keystrokes, mouse movements for AI training. Employee data was made visible company-wide.",
+    "link": "https://www.techspot.com/news/112865-meta-halts-ai-training-program-after-internal-employee.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.863968",
+    "insight": "Employee data privacy concerns undermine AI training initiatives."
+  },
+  {
+    "title": "Samsung shows off ultra-fast UFS 5.0 storage for flagship phones and on-device AI",
+    "summary": "Samsung has announced its UFS 5.0 storage solution for smartphones and mobile devices. It delivers a maximum bandwidth of 10.8 GB/s, accelerating on-device AI workloads.",
+    "link": "https://www.techspot.com/news/112866-samsung-shows-off-ultra-fast-ufs-50-storage.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-24T11:28:36.864142",
+    "insight": "Faster storage enables more efficient AI processing in mobile devices."
+  },
+  {
+    "title": "NHTSA opens new Tesla crash probe after Model 3 slams into home and kills resident",
+    "summary": "A Tesla Model 3 crashed into a home, killing a resident. The driver claimed to be using an automated driving assistance system at the time. The NHTSA has opened a new investigation into the incident.",
+    "link": "https://www.techspot.com/news/112863-nhtsa-opens-new-tesla-crash-probe-after-model.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.864323",
+    "insight": "Tesla's Autopilot system may be linked to fatal crashes again."
+  },
+  {
+    "title": "Cloudflare teams up with Chrome, Edge, and Firefox to tackle bot traffic without CAPTCHAs",
+    "summary": "Cloudflare is developing a protocol with major browsers to combat bot traffic. The protocol aims to replace CAPTCHAs with a more user-friendly approach. It plans to submit the protocol for standardization.",
+    "link": "https://www.techspot.com/news/112868-cloudflare-teams-up-chrome-edge-firefox-tackle-bot.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-23T11:43:17.428712",
-    "insight": "Innovative maggot therapy offers alternative wound healing solution options"
+    "processed_date": "2026-06-24T11:28:36.864478",
+    "insight": "Enhancing online security without disrupting user experience significantly."
   },
   {
-    "title": "Before it was known as Adobe Photoshop, what was the original name of the software in 1987?",
-    "summary": "Photoshop originated as a student project, developed by Thomas and John Knoll in 1987. The software was initially called 'Display' before Thomas and John renamed it. The Knoll brothers eventually partnered with Adobe to market the software.",
-    "link": "https://www.techspot.com/trivia/100-before-known-adobe-photoshop-what-original-name-software/",
+    "title": "SK Hynix just surpassed Samsung to become South Korea's most valuable company",
+    "summary": "SK Hynix surpassed Samsung to become South Korea's most valuable company, with a market cap of approximately $1.35 trillion.",
+    "link": "https://www.techspot.com/news/112859-sk-hynix-surpassed-samsung-become-south-korea-most.html",
     "categories": [
-      "Tech News"
+      "AI & ML"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-06-23T11:43:17.428849",
-    "insight": "Innovation often starts as a humble side project or student endeavor."
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.864666",
+    "insight": "DRAM market dominance catapults SK Hynix to top South Korean spot"
+  },
+  {
+    "title": "Oracle cuts 21,000 jobs, admits AI is reducing its workforce",
+    "summary": "Oracle cut 21,000 jobs between May 31, 2025 and 2026, reducing workforce by 13%. This led to $1.8 billion in severance payments and restructuring costs.",
+    "link": "https://www.techspot.com/news/112864-oracle-cuts-21000-jobs-admits-ai-reducing-workforce.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.864840",
+    "insight": "AI adoption drives significant workforce reductions in major tech companies."
+  },
+  {
+    "title": "Scientists created a paint so black it makes cars look like silhouettes",
+    "summary": "Scientists at Nipsea Group developed an ultra-black coating absorbing 99.9% of visible light, making objects appear as silhouettes. The coating is inspired by Vantablack, a material known for its exceptional light-absorbing properties. This new coating could have various practical applications.",
+    "link": "https://www.techspot.com/news/112851-scientists-created-paint-black-makes-cars-look-like.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-24T11:28:36.865011",
+    "insight": "Ultra-black coating enhances stealth and reduces visibility of objects"
   }
 ]
