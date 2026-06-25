@@ -1,5 +1,5 @@
 # 🎮 GPUs
-**Week of June 24, 2026**
+**Week of June 25, 2026**
 
 *Graphics cards and compute accelerators*
 
@@ -7,49 +7,49 @@
 
 ## 📊 Summary
 - **Articles this week:** 4
-- **Report generated:** 2026-06-24 11:29
+- **Report generated:** 2026-06-25 11:22
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Graperain GR1126MB development board features solder-on 3 TOPS Rockchip RV1126B AI Vision module ⭐
+### 1. China tops the list of fastest supercomputers with a CPU-only behemoth, ending US champion El Capitan's reign 2.198 exaflops of performance without a single GPU ⭐
 
-The Graperain GR1126MB development board features a Rockchip RV1126B AI Vision module with 3 TOPS NPU, suitable for AI vision, machine vision, and edge AI applications.
+China's LineShine supercomputer has taken the top spot on the 67th TOP500 list, achieving 2.198 exaflops of performance without the use of GPUs. This milestone marks the end of US champion El Capitan's reign. The achievement showcases China's growing capabilities in high-performance computing.
 
-💡 *Edge AI solutions get a significant compute boost with 3 TOPS NPU.*
+💡 *China surpasses US in supercomputing without relying on GPU technology*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/24/graperain-gr1126mb-development-board-features-solder-on-3-tops-rockchip-rv1126b-ai-vision-module/)
-
----
-
-### 2. China black market Nvidia prices rocket in wake of smuggling crackdown and customs freeze five-year-old A100 servers triple in price, now fetching up to $82,000 
-
-Chinese companies are paying exorbitant prices for 5-year-old Nvidia A100 servers, up to $82,000, due to a customs freeze and smuggling crackdown.
-
-💡 *Supply chain disruptions fuel artificial demand for outdated tech components*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/five-year-old-nvidia-a100-servers-triple-in-price-in-china)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/supercomputers/china-tops-the-top500-with-a-cpu-only-supercomputer-ending-el-capitans-reign)
 
 ---
 
-### 3. Nvidia announces liquid cooling system that runs hotter than a hot tub promises to reduce electricity consumption and cut water use by up to 100%, but sustainability challenges remain 
+### 2. Does the Nvidia App Hurt Performance? We Benchmarked It. ⭐
 
-Nvidia's new liquid cooling system runs at 113°F to reduce costs and water consumption.
+The Nvidia app's features may impact gaming performance, but to what extent? We benchmarked its background app, overlay, recording, and filters to determine the effects on frame rates. Our test results will help you decide whether to keep the app installed.
 
-💡 *Raising coolant temperature saves energy while minimizing water usage.*
+💡 *Nvidia app's performance impact is often subtle, but measurable.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/nvidia-announces-liquid-cooling-system-that-runs-hotter-than-a-hot-tub-promises-to-reduce-electricity-consumption-and-cut-water-use-by-up-to-100-percent-but-sustainability-challenges-remain)
+🔗 [Read Full Article](https://www.techspot.com/review/3140-nvidia-app-performance/)
 
 ---
 
-### 4. Valve is working with Intel, AMD, and Nvidia to make SteamOS run on any PC hardware 
+### 3. TSMC is reportedly hiking prices for 'all advanced nodes,' accounting for 74% of the company s wafer business Nvidia, AMD, Apple, Qualcomm, and others will face higher wafer costs 
 
-Valve is updating SteamOS to be more hardware-agnostic, working with major manufacturers.
+TSMC is hiking prices for advanced chip nodes by 5-10% globally, affecting major customers.
 
-💡 *Wider compatibility boosts PC gaming's accessibility and ecosystem diversity.*
+💡 *Major tech companies face significant wafer cost increases due to supply constraints.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112872-valve-working-intel-amd-nvidia-make-steamos-run.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-reportedly-hiking-prices-for-all-advanced-nodes-accounting-for-74-percent-of-the-companys-wafer-business-nvidia-amd-apple-qualcomm-and-others-will-face-higher-wafer-costs)
+
+---
+
+### 4. SteamOS 3.8.10 is Valve's biggest step yet toward taking on Windows 
+
+SteamOS 3.8.10 is a significant update from Valve, supporting various hardware beyond Steam Deck.
+
+💡 *Valve expands SteamOS reach to non-Deck hardware and third-party handhelds.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/6351-steamos.html)
 
 ---
 

@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 24, 2026**
+**Week of June 25, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. MSI Claw 8 EX AI+ review: Unmatched performance and a jaw-dropping price tag ⭐
+### 1. China just built the world's most powerful supercomputer using Huawei chips and no GPUs ⭐
 
-**🤖 AI & ML**
+**📰 Tech News**
 
-The MSI Claw 8 EX AI+ offers unmatched performance but a high price tag, making it a questionable value at $1,799.
+China has built the world's most powerful supercomputer, LineShine, using Huawei chips and no GPUs.
 
-💡 **Key Point:** Unmatched performance comes at a steep and questionable price premium.
+💡 **Key Point:** China's technological advancements challenge global supercomputing dominance
 
-🔗 [Read More](https://www.tomshardware.com/video-games/handheld-gaming/msi-claw-8-ex-ai-plus-review)
-
----
-
-### 2. MSI Claw 8 EX AI+ sets a new performance bar with a very expensive handheld ⭐
-
-**🤖 AI & ML**
-
-The MSI Claw 8 EX AI+ handheld pushes performance with Intel's Arc G3, but its high price of $1,800 and lack of OLED display make it a tough sell.
-
-💡 **Key Point:** Handheld gaming performance now rivals console-level graphics capabilities.
-
-🔗 [Read More](https://www.techspot.com/products/audio-video/msi-claw-8-ex-ai.326383/)
+🔗 [Read More](https://www.techspot.com/news/112875-china-built-world-most-powerful-supercomputer-using-huawei.html)
 
 ---
 
-### 3. Graperain GR1126MB development board features solder-on 3 TOPS Rockchip RV1126B AI Vision module ⭐
+### 2. The US government wants a working quantum computer by 2028 and quantum-resistant encryption by 2031 ⭐
 
-**🎮 GPUs**
+**⚡ Semiconductors**
 
-The Graperain GR1126MB development board features a Rockchip RV1126B AI Vision module with 3 TOPS NPU, suitable for AI vision, machine vision, and edge AI applications.
+The US government aims to develop a working quantum computer by 2028 and quantum-resistant encryption by 2031 through collaboration with private companies and universities.
 
-💡 **Key Point:** Edge AI solutions get a significant compute boost with 3 TOPS NPU.
+💡 **Key Point:** Advancing quantum tech for scientific research and national security.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/24/graperain-gr1126mb-development-board-features-solder-on-3-tops-rockchip-rv1126b-ai-vision-module/)
+🔗 [Read More](https://www.techspot.com/news/112882-us-government-wants-working-quantum-computer-2028-quantum.html)
 
 ---
 
-### 4. MSI Claw 8 EX AI+ review: Unmatched performance and a jaw-dropping price tag ⭐
+### 3. The US government wants a working quantum computer by 2028 and quantum-resistant encryption by 2031 ⭐
 
 **💻 Hardware**
 
-The MSI Claw 8 EX AI+ offers unmatched performance but a high price tag, making it a questionable value at $1,799.
+The US government aims to develop a working quantum computer by 2028 and quantum-resistant encryption by 2031 through collaboration with private companies and universities.
 
-💡 **Key Point:** Unmatched performance comes at a steep and questionable price premium.
+💡 **Key Point:** Advancing quantum tech for scientific research and national security.
 
-🔗 [Read More](https://www.tomshardware.com/video-games/handheld-gaming/msi-claw-8-ex-ai-plus-review)
+🔗 [Read More](https://www.techspot.com/news/112882-us-government-wants-working-quantum-computer-2028-quantum.html)
 
 ---
 
-### 5. Graperain GR1126MB development board features solder-on 3 TOPS Rockchip RV1126B AI Vision module ⭐
+### 4. China just built the world's most powerful supercomputer using Huawei chips and no GPUs ⭐
 
 **💻 Hardware**
 
-The Graperain GR1126MB development board features a Rockchip RV1126B AI Vision module with 3 TOPS NPU, suitable for AI vision, machine vision, and edge AI applications.
+China has built the world's most powerful supercomputer, LineShine, using Huawei chips and no GPUs.
 
-💡 **Key Point:** Edge AI solutions get a significant compute boost with 3 TOPS NPU.
+💡 **Key Point:** China's technological advancements challenge global supercomputing dominance
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/24/graperain-gr1126mb-development-board-features-solder-on-3-tops-rockchip-rv1126b-ai-vision-module/)
+🔗 [Read More](https://www.techspot.com/news/112875-china-built-world-most-powerful-supercomputer-using-huawei.html)
+
+---
+
+### 5. Broadcom and OpenAI unveil custom-built Jalape o inference processor OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle ⭐
+
+**🤖 AI & ML**
+
+Broadcom and OpenAI have unveiled a custom-built Jalapeño inference processor, a massive reticle-sized ASIC that surpasses existing chips in performance-per-watt. This ASIC was developed in a record nine-month cycle, showcasing the rapid innovation in AI processing technology.
+
+💡 **Key Point:** Groundbreaking performance-per-watt in AI processing technology achieves rapid innovation
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **44 articles** across **5 focused categories**.
+We covered **47 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 20 | Artificial Intelligence and Machine Learning |
+| 🤖 [AI & ML](ai_and_ml.md) | 14 | Artificial Intelligence and Machine Learning |
 | 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
+| 💻 [Hardware](hardware.md) | 12 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 8 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 20 articles
+*Artificial Intelligence and Machine Learning* — 14 articles
 
 ### 🎮 [GPUs](gpus.md)
 *Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 10 articles
+*Computing hardware and development boards* — 12 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 4 articles
+*Chip manufacturing and design* — 8 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 6 articles
+*Industry news and product launches* — 9 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-24 at 11:29 by an autonomous AI curation system.
+Generated 2026-06-25 at 11:22 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

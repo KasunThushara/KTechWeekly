@@ -1,336 +1,319 @@
 [
   {
-    "title": "Valve Steam Machine price hike similar to Steam Deck's 45% increase, company confirms was probably priced competitively against the PS5 Pro before the RAMpocalypse",
-    "summary": "Valve confirms Steam Machine price hike, estimated at under $750 base price. The price increase is similar to Steam Deck's 45% hike. This adjustment was made before the RAMpocalypse.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/valve-steam-machine-price-hike-similar-to-steam-decks-45-percent-increase-company-confirms-was-probably-priced-competitively-against-the-ps5-pro-before-the-rampocalypse",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.859171",
-    "insight": "Pre-RAMpocalypse pricing reflects competition with PS5 Pro, not inflation costs."
-  },
-  {
-    "title": "China black market Nvidia prices rocket in wake of smuggling crackdown and customs freeze five-year-old A100 servers triple in price, now fetching up to $82,000",
-    "summary": "Chinese companies are paying exorbitant prices for 5-year-old Nvidia A100 servers, up to $82,000, due to a customs freeze and smuggling crackdown.",
-    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/five-year-old-nvidia-a100-servers-triple-in-price-in-china",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.859325",
-    "insight": "Supply chain disruptions fuel artificial demand for outdated tech components"
-  },
-  {
-    "title": "Meta pauses mandatory AI training program that tracked employee keystrokes after internal data leak exposed sensitive staff information company-wide employees express frustration over poor handling of data",
-    "summary": "Meta has paused an AI training program after sensitive employee data was leaked.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/meta-pauses-mandatory-ai-training-program-that-tracked-employee-keystrokes-after-internal-data-leak-exposed-sensitive-staff-information-company-wide-employees-express-frustration-over-poor-handling-of-data",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.859472",
-    "insight": "Employees' personal data vulnerabilities expose trust in company's handling practices."
-  },
-  {
-    "title": "This brilliant $11 power button gadget lets you switch your PC on from your desk with ease perfect desk upgrade means you don't need to bend down to turn your rig on or off anymore, ships with super-durable mechanical keys and RGB lighting",
-    "summary": "A statement power button upgrade for your desk is available at an affordable $11 price point, featuring super-durable mechanical keys and RGB lighting.",
-    "link": "https://www.tomshardware.com/pc-components/this-brilliant-usd11-power-button-gadget-lets-you-switch-your-pc-on-from-your-desk-with-ease-perfect-desk-upgrade-means-you-dont-need-to-bend-down-to-turn-your-rig-on-or-off-anymore-ships-with-super-durable-mechanical-keys-and-rgb-lighting",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.859610",
-    "insight": "Convenient PC access without bending down matters greatly for users."
-  },
-  {
-    "title": "Nvidia announces liquid cooling system that runs hotter than a hot tub promises to reduce electricity consumption and cut water use by up to 100%, but sustainability challenges remain",
-    "summary": "Nvidia's new liquid cooling system runs at 113°F to reduce costs and water consumption.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-announces-liquid-cooling-system-that-runs-hotter-than-a-hot-tub-promises-to-reduce-electricity-consumption-and-cut-water-use-by-up-to-100-percent-but-sustainability-challenges-remain",
+    "title": "Steam Machines will only come with one 16GB stick of RAM company may change this to two 8GB sticks in the future, but the first batch of consoles is limited to single-channel memory",
+    "summary": "The first batch of Steam Machines will have limited RAM, using a single 16GB stick, potentially hindering performance. This decision likely aims to keep costs low or due to supply constraints. The single-channel memory setup further exacerbates the issue.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/steam-machines-will-only-come-with-one-16gb-stick-of-ram-company-may-change-this-to-two-8gb-sticks-in-the-future-but-the-first-batch-of-consoles-is-limited-to-single-channel-memory",
     "categories": [
       "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.859862",
-    "insight": "Raising coolant temperature saves energy while minimizing water usage."
-  },
-  {
-    "title": "MSI Claw 8 EX AI+ review: Unmatched performance and a jaw-dropping price tag",
-    "summary": "The MSI Claw 8 EX AI+ offers unmatched performance but a high price tag, making it a questionable value at $1,799.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/msi-claw-8-ex-ai-plus-review",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-24T11:28:36.859987",
-    "insight": "Unmatched performance comes at a steep and questionable price premium."
-  },
-  {
-    "title": "China's LineShine supercomputer dethrones US' El Capitan, secures first place in Top 500 list first machine in the rankings to sustain more than 2 ExaFLOPS of double-precision performance using only CPUs",
-    "summary": "China's LineShine supercomputer has dethroned the US' El Capitan, securing first place in the Top 500 list, as the first machine to sustain over 2 ExaFLOPS of double-precision performance using only CPUs. This achievement marks a significant milestone in the global supercomputing landscape.",
-    "link": "https://www.tomshardware.com/tech-industry/supercomputers/chinas-lineshine-supercomputer-dethrones-us-el-capitan-secures-first-place-in-top-500-list-first-machine-in-the-rankings-to-sustain-more-than-2-exaflops-of-double-precision-performance-using-only-cpus",
-    "categories": [
-      "Hardware",
-      "AI & ML"
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.860102",
-    "insight": "China's LineShine supercomputer leads in double-precision performance globally"
+    "processed_date": "2026-06-25T11:21:11.000328",
+    "insight": "Single 16GB RAM stick limits Steam Machine's performance potential"
   },
   {
-    "title": "California drivers accuse gas station operators of using AI to boost pump prices lawsuit seeks damages for antitrust violations",
-    "summary": "California drivers accuse gas stations of using AI to inflate prices, exacerbating the state's already high gas prices. A proposed class action lawsuit seeks damages for alleged antitrust violations. The lawsuit claims that the AI-tool prioritizes profits over consumers.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-drivers-accuse-gas-station-operators-of-using-ai-to-boost-pump-prices-lawsuit-seeks-damages-for-antitrust-violations",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.860224",
-    "insight": "Artificial intelligence fuels price gouging in California's already overpriced gas market"
-  },
-  {
-    "title": "Oracle lays off 21,000 employees in just 12 months due to AI adoption and costly AI infrastructure ambitions says layoffs will continue as internal AI deployment grows",
-    "summary": "Oracle laid off 21,000 employees in 12 months due to AI adoption and costly cloud expansions.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/oracle-lays-off-21-000-employees-in-just-12-months-due-to-ai-adoption-and-costly-ai-infrastructure-ambitions-says-layoffs-will-continue-as-internal-ai-deployment-grows",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.860328",
-    "insight": "AI-driven restructuring imperils Oracle's workforce and financial stability."
-  },
-  {
-    "title": "Graperain GR1126MB development board features solder-on 3 TOPS Rockchip RV1126B AI Vision module",
-    "summary": "The Graperain GR1126MB development board features a Rockchip RV1126B AI Vision module with 3 TOPS NPU, suitable for AI vision, machine vision, and edge AI applications.",
-    "link": "https://www.cnx-software.com/2026/06/24/graperain-gr1126mb-development-board-features-solder-on-3-tops-rockchip-rv1126b-ai-vision-module/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-24T11:28:36.860615",
-    "insight": "Edge AI solutions get a significant compute boost with 3 TOPS NPU."
-  },
-  {
-    "title": "RP2350B bells&whistles development board features on-board RP2040 debugger, HDMI, and microSD card slot",
-    "summary": "The Bells&Whistles development board features an RP2350B SoC with onboard RP2040 debugger, HDMI, and microSD card slot, ideal for clutter-free prototyping and development.",
-    "link": "https://www.cnx-software.com/2026/06/24/rp2350b-bellswhistles-development-board-features-on-board-rp2040-debugger-hdmi-and-microsd-card-slot/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-24T11:28:36.860785",
-    "insight": "Streamlined development workflow with integrated debugger and peripherals."
-  },
-  {
-    "title": "Visualize radio signals with Raspberry Pi 5-based QuadRF 4 4 MIMO software-defined radio tile (Crowdfunding)",
-    "summary": "QuadRF is a Raspberry Pi 5-based software-defined radio tile that visualizes radio signals in real-time using a phone or computer. It measures differences in signal arrival time and renders a live RF overlay at 30 FPS. This enables users to see RF signals from various devices.",
-    "link": "https://www.cnx-software.com/2026/06/24/visualize-radio-signals-with-raspberry-pi-5-based-quadrf-4x4-mimo-software-defined-radio-tile/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.860956",
-    "insight": "Real-time RF visualization offers new insights into wireless device interactions."
-  },
-  {
-    "title": "Aliro is a vendor-agnostic standard for digital access control working over NFC, Bluetooth LE, or UWB",
-    "summary": "Aliro is a vendor-agnostic standard for digital access control, leveraging NFC, Bluetooth LE, or UWB, and utilizing asymmetric cryptography for secure interactions between devices. It integrates with digital wallets from major tech companies. This standard aims to address market fragmentation in access control.",
-    "link": "https://www.cnx-software.com/2026/06/24/aliro-is-a-vendor-agnostic-standard-for-digital-access-control-working-over-nfc-bluetooth-le-or-uwb/",
+    "title": "Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerators touts 6x higher bandwidth-per-watt compared to HBM, 200x capacity compared to on-chip SRAM",
+    "summary": "Qualcomm has introduced HBC near-memory AI architecture, which claims a significant improvement in bandwidth-per-watt and capacity. The AI250 and AI350 accelerators reportedly provide 6x higher bandwidth-per-watt compared to HBM and 200x capacity compared to on-chip SRAM. This breakthrough is aimed at addressing the memory wall challenge in AI computing.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-reveals-hbc-near-memory-ai-architecture-ai250-and-ai350-accelerators-touts-6x-higher-bandwidth-per-watt-compared-to-hbm-200x-capacity-compared-to-on-chip-sram",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.861138",
-    "insight": "Aliro streamlines secure digital access control across multiple device platforms."
+    "processed_date": "2026-06-25T11:21:11.000447",
+    "insight": "Breaking the memory wall for AI computing efficiency gains."
   },
   {
-    "title": "Sensors magic from the labs at UD and MSU",
-    "summary": "Researchers at UD and MSU are developing innovative sensors for wearable healthcare materials. These sensors aim to improve patient monitoring and diagnosis. Their work has the potential to revolutionize healthcare technology.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/sensors-magic-labs-ud-and-msu",
+    "title": "Grand Theft Auto 6 preorders begin tonight at midnight local time in the US; here's where to buy get yours now, it's in the garage and ready to roll",
+    "summary": "GTA 6 preorders open tonight at midnight local US time. Two editions available: Standard and Ultimate. Preorder from various retailers now.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/grand-theft-auto-6-preorders-begin-tonight-at-midnight-local-time-in-the-us-heres-where-to-buy-get-yours-now-its-in-the-garage-and-ready-to-roll",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.862076",
-    "insight": "Transforming healthcare with wearable, real-time monitoring and diagnosis capabilities."
+    "processed_date": "2026-06-25T11:21:11.000558",
+    "insight": "Exclusive early access to highly anticipated video game experience."
   },
   {
-    "title": "Virtuix launches Omni One for Quest with Meta, bringing full-body movement to traditional VR controls",
-    "summary": "Virtuix's Omni One system combines VR with full-body movement capabilities, providing a more immersive experience by tracking users' steps in any direction.",
-    "link": "https://www.techspot.com/news/112877-virtuix-launches-omni-one-quest-meta-bringing-full.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.862559",
-    "insight": "Enhanced immersion through body movement tracking in VR experiences"
-  },
-  {
-    "title": "Meta is building a prediction market app, but it will launch without real-money bets",
-    "summary": "Meta is developing a prediction market app called Arena without real-money betting.",
-    "link": "https://www.techspot.com/news/112878-meta-building-prediction-market-app-but-launch-without.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.862722",
-    "insight": "Regulatory compliance takes priority over real-money betting in early stages."
-  },
-  {
-    "title": "Meta just launched its own-branded smart glasses for $299",
-    "summary": "Meta has launched Meta Glasses in partnership with EssilorLuxottica, priced at $299, undercutting previous entry-level models.",
-    "link": "https://www.techspot.com/news/112876-meta-launched-own-branded-smart-glasses-299.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.862894",
-    "insight": "Meta enters consumer electronics market with affordable smart glasses option."
-  },
-  {
-    "title": "Valve is working with Intel, AMD, and Nvidia to make SteamOS run on any PC hardware",
-    "summary": "Valve is updating SteamOS to be more hardware-agnostic, working with major manufacturers.",
-    "link": "https://www.techspot.com/news/112872-valve-working-intel-amd-nvidia-make-steamos-run.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.863069",
-    "insight": "Wider compatibility boosts PC gaming's accessibility and ecosystem diversity."
-  },
-  {
-    "title": "Microsoft is selling new 8GB Surface laptops that don't qualify as Copilot+ PCs",
-    "summary": "Microsoft has released new 8GB Surface laptops at $849-$949, powered by the Snapdragon X Plus SoC.",
-    "link": "https://www.techspot.com/news/112871-microsoft-launches-cheaper-surface-laptop-surface-pro-starting.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.863262",
-    "insight": "Mid-range Surface laptops lack Copilot+ capabilities due to hardware limitations."
-  },
-  {
-    "title": "MSI Claw 8 EX AI+ sets a new performance bar with a very expensive handheld",
-    "summary": "The MSI Claw 8 EX AI+ handheld pushes performance with Intel's Arc G3, but its high price of $1,800 and lack of OLED display make it a tough sell.",
-    "link": "https://www.techspot.com/products/audio-video/msi-claw-8-ex-ai.326383/",
+    "title": "Broadcom and OpenAI unveil custom-built Jalape o inference processor OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle",
+    "summary": "Broadcom and OpenAI have unveiled a custom-built Jalapeño inference processor, a massive reticle-sized ASIC that surpasses existing chips in performance-per-watt. This ASIC was developed in a record nine-month cycle, showcasing the rapid innovation in AI processing technology.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 15,
-    "processed_date": "2026-06-24T11:28:36.863432",
-    "insight": "Handheld gaming performance now rivals console-level graphics capabilities."
+    "processed_date": "2026-06-25T11:21:11.000673",
+    "insight": "Groundbreaking performance-per-watt in AI processing technology achieves rapid innovation"
   },
   {
-    "title": "LG claims its OLED panels deliver perfect color and brightness accuracy",
-    "summary": "LG Display's OLED panels pass new Intertek certification for color and brightness accuracy. This achievement allows LG to accurately convey its display technology's benefits. The certification is a testament to LG's commitment to quality.",
-    "link": "https://www.techspot.com/news/112869-lg-claims-oled-panels-deliver-perfect-color-brightness.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.863631",
-    "insight": "Accurate color and brightness representation enhances viewer experience quality."
-  },
-  {
-    "title": "Gas stations accused of using AI to inflate fuel prices in class-action lawsuit",
-    "summary": "A class-action lawsuit accuses gas stations of using AI to inflate fuel prices, violating California's antitrust law.",
-    "link": "https://www.techspot.com/news/112870-california-class-action-lawsuit-accuses-major-gas-station.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.863795",
-    "insight": "Gas stations' AI price manipulation may deceive consumers, harm competition."
-  },
-  {
-    "title": "Meta hits pause on AI training project after employee data became visible company-wide",
-    "summary": "Meta pauses AI training project due to employee data visibility issue. The Model Capability Initiative tracks keystrokes, mouse movements for AI training. Employee data was made visible company-wide.",
-    "link": "https://www.techspot.com/news/112865-meta-halts-ai-training-program-after-internal-employee.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.863968",
-    "insight": "Employee data privacy concerns undermine AI training initiatives."
-  },
-  {
-    "title": "Samsung shows off ultra-fast UFS 5.0 storage for flagship phones and on-device AI",
-    "summary": "Samsung has announced its UFS 5.0 storage solution for smartphones and mobile devices. It delivers a maximum bandwidth of 10.8 GB/s, accelerating on-device AI workloads.",
-    "link": "https://www.techspot.com/news/112866-samsung-shows-off-ultra-fast-ufs-50-storage.html",
+    "title": "US Secures Netherlands for Pax Silica Alliance in key win for strategic chip alliance tension remains over MATCH Act restrictions",
+    "summary": "The US has secured the Netherlands for the Pax Silica Alliance, a strategic chip alliance aimed at strengthening global semiconductor supply chains. This move is seen as a key win for the US in its efforts to counterbalance China's influence in the tech sector. Tensions remain over restrictions imposed by the MATCH Act.",
+    "link": "https://www.tomshardware.com/tech-industry/us-secures-netherlands-for-pax-silica-alliance-in-key-win-for-strategic-chip-alliance-tension-remains-over-match-act-restrictions",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.864142",
-    "insight": "Faster storage enables more efficient AI processing in mobile devices."
+    "quality_score": 0,
+    "processed_date": "2026-06-25T11:21:11.000779",
+    "insight": "US strengthens global semiconductor supply chains against China's influence."
   },
   {
-    "title": "NHTSA opens new Tesla crash probe after Model 3 slams into home and kills resident",
-    "summary": "A Tesla Model 3 crashed into a home, killing a resident. The driver claimed to be using an automated driving assistance system at the time. The NHTSA has opened a new investigation into the incident.",
-    "link": "https://www.techspot.com/news/112863-nhtsa-opens-new-tesla-crash-probe-after-model.html",
+    "title": "China tops the list of fastest supercomputers with a CPU-only behemoth, ending US champion El Capitan's reign 2.198 exaflops of performance without a single GPU",
+    "summary": "China's LineShine supercomputer has taken the top spot on the 67th TOP500 list, achieving 2.198 exaflops of performance without the use of GPUs. This milestone marks the end of US champion El Capitan's reign. The achievement showcases China's growing capabilities in high-performance computing.",
+    "link": "https://www.tomshardware.com/tech-industry/supercomputers/china-tops-the-top500-with-a-cpu-only-supercomputer-ending-el-capitans-reign",
     "categories": [
-      "AI & ML"
+      "Hardware",
+      "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.864323",
-    "insight": "Tesla's Autopilot system may be linked to fatal crashes again."
+    "quality_score": 15,
+    "processed_date": "2026-06-25T11:21:11.000870",
+    "insight": "China surpasses US in supercomputing without relying on GPU technology"
   },
   {
-    "title": "Cloudflare teams up with Chrome, Edge, and Firefox to tackle bot traffic without CAPTCHAs",
-    "summary": "Cloudflare is developing a protocol with major browsers to combat bot traffic. The protocol aims to replace CAPTCHAs with a more user-friendly approach. It plans to submit the protocol for standardization.",
-    "link": "https://www.techspot.com/news/112868-cloudflare-teams-up-chrome-edge-firefox-tackle-bot.html",
+    "title": "Pay just $149.99 for the TP-Link Archer Wi-Fi 7 router with 9.3 Gbps of bandwidth, now 40 percent off high-powered BE550 router comes with a full complement of 2.5 Gbps LAN ports, too",
+    "summary": "Get the TP-Link Archer BE550 Wi-Fi 7 router for $149.99, a 40% discount. This high-powered router offers 9.3 Gbps bandwidth and 2.5 Gbps LAN ports.",
+    "link": "https://www.tomshardware.com/pc-components/pay-just-usd149-99-for-the-tp-link-archer-wi-fi-7-router-with-9-3-gbps-of-bandwidth-now-40-percent-off-high-powered-be550-router-comes-with-a-full-complement-of-2-5-gbps-lan-ports-too",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.864478",
-    "insight": "Enhancing online security without disrupting user experience significantly."
+    "processed_date": "2026-06-25T11:21:11.000958",
+    "insight": "Upgrade to Wi-Fi 7 for faster and more reliable internet access."
   },
   {
-    "title": "SK Hynix just surpassed Samsung to become South Korea's most valuable company",
-    "summary": "SK Hynix surpassed Samsung to become South Korea's most valuable company, with a market cap of approximately $1.35 trillion.",
-    "link": "https://www.techspot.com/news/112859-sk-hynix-surpassed-samsung-become-south-korea-most.html",
+    "title": "TSMC is reportedly hiking prices for 'all advanced nodes,' accounting for 74% of the company s wafer business Nvidia, AMD, Apple, Qualcomm, and others will face higher wafer costs",
+    "summary": "TSMC is hiking prices for advanced chip nodes by 5-10% globally, affecting major customers.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-reportedly-hiking-prices-for-all-advanced-nodes-accounting-for-74-percent-of-the-companys-wafer-business-nvidia-amd-apple-qualcomm-and-others-will-face-higher-wafer-costs",
+    "categories": [
+      "Semiconductors",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.001087",
+    "insight": "Major tech companies face significant wafer cost increases due to supply constraints."
+  },
+  {
+    "title": "SK hynix files to raise up to $29 billion in historic Nasdaq listing all proceeds going to advanced AI memory fabs and EUV tool orders",
+    "summary": "SK hynix seeks to raise up to $29 billion on Nasdaq through an American depositary receipt listing, with all proceeds going towards advanced AI memory fabs and EUV tool orders.",
+    "link": "https://www.tomshardware.com/tech-industry/sk-hynix-files-to-raise-up-to-29-billion-in-nasdaq-listing",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.001185",
+    "insight": "Massive investment in AI memory and EUV tooling drives tech advancements."
+  },
+  {
+    "title": "AI data center boom hits a human bottleneck critical skilled labor shortages could slow deployment despite billions in funding",
+    "summary": "Data center construction faces human bottleneck due to skilled labor shortages. Despite billions in funding, deployment may be slowed by the lack of skilled hands to assemble data centers. This shortage hinders the growth of the AI data center boom.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-boom-hits-a-human-bottleneck-critical-skilled-labor-shortages-could-slow-deployment-despite-billions-in-funding",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.001273",
+    "insight": "Shortage of skilled labor hinders AI data center deployment growth."
+  },
+  {
+    "title": "Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for SqueezeLite, Snapclient, or ESPHome support",
+    "summary": "The Louder-ESP32-Mini board adds WiFi and Bluetooth to old speakers, making them smart home compatible with SqueezeLite, Snapclient, or ESPHome support.",
+    "link": "https://www.cnx-software.com/2026/06/25/louder-esp32-mini-board-adds-wifi-and-bluetooth-to-old-speakers-for-squeezelite-snapclient-or-esphome-support/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-25T11:21:11.001712",
+    "insight": "Upcycle old speakers into WiFi and Bluetooth smart home devices easily."
+  },
+  {
+    "title": "Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM",
+    "summary": "The Quectel FCM365X is a compact IoT module offering dual-band Wi-Fi 6, BLE 5.4, and 802.15.4 connectivity. It features an NXP RW612 MCU with 8MB flash and optional PSRAM, operating in a -40 C to +85 C temperature range. This module is suitable for demanding Smart Home and industrial IoT applications.",
+    "link": "https://www.cnx-software.com/2026/06/25/quectel-fcm365x-dual-band-wifi-6-ble-5-4-802-15-4-iot-module-nxp-rw612-psram/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-25T11:21:11.001860",
+    "insight": "Enabling efficient, secure, and reliable IoT connectivity for industries worldwide."
+  },
+  {
+    "title": "OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support",
+    "summary": "The OpenC6 BIOS project brings a PC-like firmware to the ESP32-C6 MCU, allowing for separate system and application code. This BIOS-like system handles hardware initialization and system functions, enabling the loading of small payload programs separately. Dynamic CPU scaling and network boot/OTA update are also supported.",
+    "link": "https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-25T11:21:11.002020",
+    "insight": "Separate system and app code boosts MCU development efficiency significantly."
+  },
+  {
+    "title": "NeoEyes NE503 A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC",
+    "summary": "The NeoEyes NE503 is a 4K edge AI camera with a 20 TOPS SoC, offering high-quality monitoring and local AI capabilities.",
+    "link": "https://www.cnx-software.com/2026/06/25/neoeyes-ne503-a-1199-edge-ai-camera-based-on-hailo-15h-20-tops-soc/",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-25T11:21:11.002169",
+    "insight": "Enabling local AI inference for autonomous surveillance and monitoring systems."
+  },
+  {
+    "title": "Nvidia's banned Blackwell AI servers are selling for $1.1 million on China's black market",
+    "summary": "Nvidia's Blackwell AI servers are being sold on China's black market for $1.1 million, despite export restrictions.",
+    "link": "https://www.techspot.com/news/112893-nvidia-banned-blackwell-ai-servers-selling-11-million.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.003474",
+    "insight": "Evasion of US export controls poses national security risks."
+  },
+  {
+    "title": "Does the Nvidia App Hurt Performance? We Benchmarked It.",
+    "summary": "The Nvidia app's features may impact gaming performance, but to what extent? We benchmarked its background app, overlay, recording, and filters to determine the effects on frame rates. Our test results will help you decide whether to keep the app installed.",
+    "link": "https://www.techspot.com/review/3140-nvidia-app-performance/",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-25T11:21:11.003646",
+    "insight": "Nvidia app's performance impact is often subtle, but measurable."
+  },
+  {
+    "title": "The US government wants a working quantum computer by 2028 and quantum-resistant encryption by 2031",
+    "summary": "The US government aims to develop a working quantum computer by 2028 and quantum-resistant encryption by 2031 through collaboration with private companies and universities.",
+    "link": "https://www.techspot.com/news/112882-us-government-wants-working-quantum-computer-2028-quantum.html",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-06-25T11:21:11.003823",
+    "insight": "Advancing quantum tech for scientific research and national security."
+  },
+  {
+    "title": "Europe's digital euro is one step closer, designed to cut out Visa and Mastercard",
+    "summary": "The European Parliament has approved the digital euro for online and offline payments across Europe, processed through an account-based system for online transactions and local storage devices for offline ones.",
+    "link": "https://www.techspot.com/news/112886-europe-digital-euro-one-step-closer-designed-cut.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.864666",
-    "insight": "DRAM market dominance catapults SK Hynix to top South Korean spot"
+    "processed_date": "2026-06-25T11:21:11.004012",
+    "insight": "Reducing reliance on Visa and Mastercard payment processing fees."
   },
   {
-    "title": "Oracle cuts 21,000 jobs, admits AI is reducing its workforce",
-    "summary": "Oracle cut 21,000 jobs between May 31, 2025 and 2026, reducing workforce by 13%. This led to $1.8 billion in severance payments and restructuring costs.",
-    "link": "https://www.techspot.com/news/112864-oracle-cuts-21000-jobs-admits-ai-reducing-workforce.html",
+    "title": "Google Home Speaker debuts with Gemini AI and Matter support",
+    "summary": "The new Google Home Speaker features Gemini AI and Matter support, offering enhanced smart home capabilities and a more natural voice experience.",
+    "link": "https://www.techspot.com/products/audio-video/google-home-speaker.326390/",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-25T11:21:11.004179",
+    "insight": "Google Home Speaker advances smart home automation with Gemini AI integration."
+  },
+  {
+    "title": "China just built the world's most powerful supercomputer using Huawei chips and no GPUs",
+    "summary": "China has built the world's most powerful supercomputer, LineShine, using Huawei chips and no GPUs.",
+    "link": "https://www.techspot.com/news/112875-china-built-world-most-powerful-supercomputer-using-huawei.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-06-25T11:21:11.004380",
+    "insight": "China's technological advancements challenge global supercomputing dominance"
+  },
+  {
+    "title": "Silicon Valley's longevity drug obsession is facing its first real reality check",
+    "summary": "Bryan Johnson, a tech entrepreneur, has stopped taking Rapamycin for longevity. He had been self-testing the immunosuppressant since 2019 as part of his anti-aging regimen. Johnson's decision may mark the beginning of a new reality check for Silicon Valley's longevity drug obsession.",
+    "link": "https://www.techspot.com/news/112884-silicon-valley-longevity-drug-obsession-facing-first-real.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.004566",
+    "insight": "Rapamycin's effectiveness for human longevity remains unproven by rigorous scientific testing"
+  },
+  {
+    "title": "SteamOS 3.8.10 is Valve's biggest step yet toward taking on Windows",
+    "summary": "SteamOS 3.8.10 is a significant update from Valve, supporting various hardware beyond Steam Deck.",
+    "link": "https://www.techspot.com/downloads/6351-steamos.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.004756",
+    "insight": "Valve expands SteamOS reach to non-Deck hardware and third-party handhelds."
+  },
+  {
+    "title": "LastPass customer names, emails, and support records stolen in third-party breach, vaults unaffected",
+    "summary": "LastPass customer data was stolen in a breach of a third-party system, not affecting its password manager infrastructure. Customer vaults remain secure, and no disruption to products and services occurred. The incident is separate from previous security incidents.",
+    "link": "https://www.techspot.com/news/112881-lastpass-hackers-stole-customer-support-records-through-third.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.864840",
-    "insight": "AI adoption drives significant workforce reductions in major tech companies."
+    "processed_date": "2026-06-25T11:21:11.004926",
+    "insight": "Customer data security separate from password manager infrastructure matters"
   },
   {
-    "title": "Scientists created a paint so black it makes cars look like silhouettes",
-    "summary": "Scientists at Nipsea Group developed an ultra-black coating absorbing 99.9% of visible light, making objects appear as silhouettes. The coating is inspired by Vantablack, a material known for its exceptional light-absorbing properties. This new coating could have various practical applications.",
-    "link": "https://www.techspot.com/news/112851-scientists-created-paint-black-makes-cars-look-like.html",
+    "title": "James Webb Telescope uncovers salt clouds on a strange pink planet 57 light-years away",
+    "summary": "The James Webb Telescope captured direct spectroscopic data from GJ504b, a pink planet 57 light-years away, revealing salt clouds for the first time. This was achieved in just two hours, overcoming countless previous observation attempts.",
+    "link": "https://www.techspot.com/news/112879-james-webb-telescope-uncovers-salt-clouds-strange-pink.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.865011",
-    "insight": "Ultra-black coating enhances stealth and reduces visibility of objects"
+    "processed_date": "2026-06-25T11:21:11.005098",
+    "insight": "Breakthrough spectroscopic data from distant exoplanet reveals new atmospheric features."
+  },
+  {
+    "title": "A legal tech startup is suing the US government for cutting off access to Claude Fable 5",
+    "summary": "Legion, a legal tech startup, is suing the US government over access to Claude Fable 5. The startup filed a lawsuit in Washington, D.C. federal court, challenging a June 12 directive from the Commerce Department. The directive restricted access to a technology or tool.",
+    "link": "https://www.techspot.com/news/112880-startup-sues-us-government-blocking-access-anthropic-fable.html",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.005257",
+    "insight": "Government restrictions on AI access may hinder innovation and progress."
+  },
+  {
+    "title": "Sony's best-selling PlayStation games this year are mostly ones it never brought to PC",
+    "summary": "Exclusive PlayStation titles have seen increased sales on the console, outperforming PC-ported games. According to Alinea Analytics, these exclusives have dominated first-party PlayStation game sales in 2026. The trend suggests a potential benefit to keeping select titles console-only.",
+    "link": "https://www.techspot.com/news/112874-sony-best-selling-playstation-games-year-mostly-ones.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-25T11:21:11.005451",
+    "insight": "Exclusive titles boost console sales, benefiting Sony's profit margins."
+  },
+  {
+    "title": "GTA 6 confirmed at $80 for the standard edition and $100 for the Ultimate Edition",
+    "summary": "Rockstar Games confirmed GTA 6 prices and a single-player launch. The standard edition will cost $80, while the Ultimate Edition will cost $100. Preorders start today at midnight.",
+    "link": "https://www.techspot.com/news/112883-gta-6-standard-edition-confirmed-cost-80-while.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.005628",
+    "insight": "GTA 6 single-player focus shifts market dynamics and player expectations."
   }
 ]

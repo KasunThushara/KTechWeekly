@@ -1,75 +1,105 @@
 # 📰 Tech News
-**Week of June 24, 2026**
+**Week of June 25, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-06-24 11:29
+- **Articles this week:** 9
+- **Report generated:** 2026-06-25 11:22
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Meta just launched its own-branded smart glasses for $299 
+### 1. China just built the world's most powerful supercomputer using Huawei chips and no GPUs ⭐
 
-Meta has launched Meta Glasses in partnership with EssilorLuxottica, priced at $299, undercutting previous entry-level models.
+China has built the world's most powerful supercomputer, LineShine, using Huawei chips and no GPUs.
 
-💡 *Meta enters consumer electronics market with affordable smart glasses option.*
+💡 *China's technological advancements challenge global supercomputing dominance*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112876-meta-launched-own-branded-smart-glasses-299.html)
-
----
-
-### 2. LG claims its OLED panels deliver perfect color and brightness accuracy 
-
-LG Display's OLED panels pass new Intertek certification for color and brightness accuracy. This achievement allows LG to accurately convey its display technology's benefits. The certification is a testament to LG's commitment to quality.
-
-💡 *Accurate color and brightness representation enhances viewer experience quality.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112869-lg-claims-oled-panels-deliver-perfect-color-brightness.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112875-china-built-world-most-powerful-supercomputer-using-huawei.html)
 
 ---
 
-### 3. Sensors magic from the labs at UD and MSU 
+### 2. Steam Machines will only come with one 16GB stick of RAM company may change this to two 8GB sticks in the future, but the first batch of consoles is limited to single-channel memory 
 
-Researchers at UD and MSU are developing innovative sensors for wearable healthcare materials. These sensors aim to improve patient monitoring and diagnosis. Their work has the potential to revolutionize healthcare technology.
+The first batch of Steam Machines will have limited RAM, using a single 16GB stick, potentially hindering performance. This decision likely aims to keep costs low or due to supply constraints. The single-channel memory setup further exacerbates the issue.
 
-💡 *Transforming healthcare with wearable, real-time monitoring and diagnosis capabilities.*
+💡 *Single 16GB RAM stick limits Steam Machine's performance potential*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/sensors-magic-labs-ud-and-msu)
-
----
-
-### 4. Virtuix launches Omni One for Quest with Meta, bringing full-body movement to traditional VR controls 
-
-Virtuix's Omni One system combines VR with full-body movement capabilities, providing a more immersive experience by tracking users' steps in any direction.
-
-💡 *Enhanced immersion through body movement tracking in VR experiences*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112877-virtuix-launches-omni-one-quest-meta-bringing-full.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/steam-machines-will-only-come-with-one-16gb-stick-of-ram-company-may-change-this-to-two-8gb-sticks-in-the-future-but-the-first-batch-of-consoles-is-limited-to-single-channel-memory)
 
 ---
 
-### 5. Meta is building a prediction market app, but it will launch without real-money bets 
+### 3. Grand Theft Auto 6 preorders begin tonight at midnight local time in the US; here's where to buy get yours now, it's in the garage and ready to roll 
 
-Meta is developing a prediction market app called Arena without real-money betting.
+GTA 6 preorders open tonight at midnight local US time. Two editions available: Standard and Ultimate. Preorder from various retailers now.
 
-💡 *Regulatory compliance takes priority over real-money betting in early stages.*
+💡 *Exclusive early access to highly anticipated video game experience.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112878-meta-building-prediction-market-app-but-launch-without.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/grand-theft-auto-6-preorders-begin-tonight-at-midnight-local-time-in-the-us-heres-where-to-buy-get-yours-now-its-in-the-garage-and-ready-to-roll)
 
 ---
 
-### 6. Cloudflare teams up with Chrome, Edge, and Firefox to tackle bot traffic without CAPTCHAs 
+### 4. Pay just $149.99 for the TP-Link Archer Wi-Fi 7 router with 9.3 Gbps of bandwidth, now 40 percent off high-powered BE550 router comes with a full complement of 2.5 Gbps LAN ports, too 
 
-Cloudflare is developing a protocol with major browsers to combat bot traffic. The protocol aims to replace CAPTCHAs with a more user-friendly approach. It plans to submit the protocol for standardization.
+Get the TP-Link Archer BE550 Wi-Fi 7 router for $149.99, a 40% discount. This high-powered router offers 9.3 Gbps bandwidth and 2.5 Gbps LAN ports.
 
-💡 *Enhancing online security without disrupting user experience significantly.*
+💡 *Upgrade to Wi-Fi 7 for faster and more reliable internet access.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112868-cloudflare-teams-up-chrome-edge-firefox-tackle-bot.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pay-just-usd149-99-for-the-tp-link-archer-wi-fi-7-router-with-9-3-gbps-of-bandwidth-now-40-percent-off-high-powered-be550-router-comes-with-a-full-complement-of-2-5-gbps-lan-ports-too)
+
+---
+
+### 5. AI data center boom hits a human bottleneck critical skilled labor shortages could slow deployment despite billions in funding 
+
+Data center construction faces human bottleneck due to skilled labor shortages. Despite billions in funding, deployment may be slowed by the lack of skilled hands to assemble data centers. This shortage hinders the growth of the AI data center boom.
+
+💡 *Shortage of skilled labor hinders AI data center deployment growth.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-boom-hits-a-human-bottleneck-critical-skilled-labor-shortages-could-slow-deployment-despite-billions-in-funding)
+
+---
+
+### 6. Silicon Valley's longevity drug obsession is facing its first real reality check 
+
+Bryan Johnson, a tech entrepreneur, has stopped taking Rapamycin for longevity. He had been self-testing the immunosuppressant since 2019 as part of his anti-aging regimen. Johnson's decision may mark the beginning of a new reality check for Silicon Valley's longevity drug obsession.
+
+💡 *Rapamycin's effectiveness for human longevity remains unproven by rigorous scientific testing*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112884-silicon-valley-longevity-drug-obsession-facing-first-real.html)
+
+---
+
+### 7. A legal tech startup is suing the US government for cutting off access to Claude Fable 5 
+
+Legion, a legal tech startup, is suing the US government over access to Claude Fable 5. The startup filed a lawsuit in Washington, D.C. federal court, challenging a June 12 directive from the Commerce Department. The directive restricted access to a technology or tool.
+
+💡 *Government restrictions on AI access may hinder innovation and progress.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112880-startup-sues-us-government-blocking-access-anthropic-fable.html)
+
+---
+
+### 8. GTA 6 confirmed at $80 for the standard edition and $100 for the Ultimate Edition 
+
+Rockstar Games confirmed GTA 6 prices and a single-player launch. The standard edition will cost $80, while the Ultimate Edition will cost $100. Preorders start today at midnight.
+
+💡 *GTA 6 single-player focus shifts market dynamics and player expectations.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112883-gta-6-standard-edition-confirmed-cost-80-while.html)
+
+---
+
+### 9. Sony's best-selling PlayStation games this year are mostly ones it never brought to PC 
+
+Exclusive PlayStation titles have seen increased sales on the console, outperforming PC-ported games. According to Alinea Analytics, these exclusives have dominated first-party PlayStation game sales in 2026. The trend suggests a potential benefit to keeping select titles console-only.
+
+💡 *Exclusive titles boost console sales, benefiting Sony's profit margins.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112874-sony-best-selling-playstation-games-year-mostly-ones.html)
 
 ---
 

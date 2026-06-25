@@ -1,307 +1,292 @@
 [
   {
-    "title": "Valve Steam Machine price hike similar to Steam Deck's 45% increase, company confirms was probably priced competitively against the PS5 Pro before the RAMpocalypse",
-    "summary": "Valve engineers hinted that the nearly 45% price increase on the Steam Deck applied to the Steam Machine as well. This brings the estimated original price to under $750 for the base console.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/valve-steam-machine-price-hike-similar-to-steam-decks-45-percent-increase-company-confirms-was-probably-priced-competitively-against-the-ps5-pro-before-the-rampocalypse",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.859171"
-  },
-  {
-    "title": "China black market Nvidia prices rocket in wake of smuggling crackdown and customs freeze five-year-old A100 servers triple in price, now fetching up to $82,000",
-    "summary": "Chinese companies are paying as much as $82,000 for servers built around Nvidia's five-year-old A100 accelerator",
-    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/five-year-old-nvidia-a100-servers-triple-in-price-in-china",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.859325"
-  },
-  {
-    "title": "Meta pauses mandatory AI training program that tracked employee keystrokes after internal data leak exposed sensitive staff information company-wide employees express frustration over poor handling of data",
-    "summary": "Meta has paused an internal AI training program after employee conversations, keystrokes, transcripts, and performance-related data were reportedly exposed across the company.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/meta-pauses-mandatory-ai-training-program-that-tracked-employee-keystrokes-after-internal-data-leak-exposed-sensitive-staff-information-company-wide-employees-express-frustration-over-poor-handling-of-data",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.859472"
-  },
-  {
-    "title": "This brilliant $11 power button gadget lets you switch your PC on from your desk with ease perfect desk upgrade means you don't need to bend down to turn your rig on or off anymore, ships with super-durable mechanical keys and RGB lighting",
-    "summary": "Who doesn't want a statement power button on their desk for $11? Don't miss out on this ultimate desk gadget.",
-    "link": "https://www.tomshardware.com/pc-components/this-brilliant-usd11-power-button-gadget-lets-you-switch-your-pc-on-from-your-desk-with-ease-perfect-desk-upgrade-means-you-dont-need-to-bend-down-to-turn-your-rig-on-or-off-anymore-ships-with-super-durable-mechanical-keys-and-rgb-lighting",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.859610"
-  },
-  {
-    "title": "Nvidia announces liquid cooling system that runs hotter than a hot tub promises to reduce electricity consumption and cut water use by up to 100%, but sustainability challenges remain",
-    "summary": "This system raises the base coolant temperature to 113 degrees F (45 degrees C) to save on electricity costs and reduce water consumption to basically zero.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-announces-liquid-cooling-system-that-runs-hotter-than-a-hot-tub-promises-to-reduce-electricity-consumption-and-cut-water-use-by-up-to-100-percent-but-sustainability-challenges-remain",
+    "title": "Steam Machines will only come with one 16GB stick of RAM company may change this to two 8GB sticks in the future, but the first batch of consoles is limited to single-channel memory",
+    "summary": "Valve confirmed to Gamers Nexus that the first batch of Steam Machines will only have one 16GB RAM stick. This would have a negative effect on the console's performance, but the company likely did this to keep its price as low as possible, or because it's the only available option left for the company.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/steam-machines-will-only-come-with-one-16gb-stick-of-ram-company-may-change-this-to-two-8gb-sticks-in-the-future-but-the-first-batch-of-consoles-is-limited-to-single-channel-memory",
     "categories": [
       "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.859862"
-  },
-  {
-    "title": "MSI Claw 8 EX AI+ review: Unmatched performance and a jaw-dropping price tag",
-    "summary": "It has the performance muscle that is unmatched in this class, but the Claw 8 EX AI+ s $1,799 price tag and lack of OLED leave us scratching our heads.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/msi-claw-8-ex-ai-plus-review",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-24T11:28:36.859987"
-  },
-  {
-    "title": "China's LineShine supercomputer dethrones US' El Capitan, secures first place in Top 500 list first machine in the rankings to sustain more than 2 ExaFLOPS of double-precision performance using only CPUs",
-    "summary": "China's LineShine supercomputer is now officially the world's fastest FP64 machine, but its mixed-precision results are behind those of El Capitan, Frontier, and Aurora.",
-    "link": "https://www.tomshardware.com/tech-industry/supercomputers/chinas-lineshine-supercomputer-dethrones-us-el-capitan-secures-first-place-in-top-500-list-first-machine-in-the-rankings-to-sustain-more-than-2-exaflops-of-double-precision-performance-using-only-cpus",
-    "categories": [
-      "Hardware",
-      "AI & ML"
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.860102"
+    "processed_date": "2026-06-25T11:21:11.000328"
   },
   {
-    "title": "California drivers accuse gas station operators of using AI to boost pump prices lawsuit seeks damages for antitrust violations",
-    "summary": "Californians pay the highest gas prices in the U.S. and a proposed class action says that the issue has been exacerbated by an AI-tool that smartly squeezes customers for the best profits.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-drivers-accuse-gas-station-operators-of-using-ai-to-boost-pump-prices-lawsuit-seeks-damages-for-antitrust-violations",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.860224"
-  },
-  {
-    "title": "Oracle lays off 21,000 employees in just 12 months due to AI adoption and costly AI infrastructure ambitions says layoffs will continue as internal AI deployment grows",
-    "summary": "Oracle cut 21,000 jobs in fiscal year 2026 as AI automation and AI cloud expansions reshape its workforce and spending strategy.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/oracle-lays-off-21-000-employees-in-just-12-months-due-to-ai-adoption-and-costly-ai-infrastructure-ambitions-says-layoffs-will-continue-as-internal-ai-deployment-grows",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.860328"
-  },
-  {
-    "title": "Graperain GR1126MB development board features solder-on 3 TOPS Rockchip RV1126B AI Vision module",
-    "summary": "Graperain GR1126MB development board is based on a 42x42mm GR1126B 160-pin stamp-hole system-on-module powered by a Rockchip RV1126B AI camera SoC with a 3 TOPS NPU designed for AI vision, machine vision, and edge AI applications. Graperain GR1126 AI Vision system-on-module GR1126 specifications: SoC Rockchip RV1126B CPU Quad-core Arm Cortex-A53 up to 1.6 GHz with 32KB L1 I-Cache and 32KB L1 D-Cache, unified 512KB L2 Cache GPU 2D Graphics Engine VPU Video Decoder H.265/H.264 up to 4K @ 30 FPS Video Encoder H.265, H.264, JPEG up to 4K @ 45 FPS JPEG Decoder ISP Built-in 12M ISP and 8M AI-ISP AI accelerator Rockchip NPU engine up to 3 TOPS (INT8); supports INT4, INT8, INT16, and FP16 models; TensorFlow, ONNX, PyTorch, and Caffe frameworks. System Memory 1GB or 2GB DDR3 by default, customizable up to 4GB LPDDR4/LPDDR4x Storage 8GB, 16GB, 32GB, 64GB, [...] The post Graperain GR1126MB development board features solder-on 3 TOPS Rockchip RV1126B AI Vision module appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/24/graperain-gr1126mb-development-board-features-solder-on-3-tops-rockchip-rv1126b-ai-vision-module/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-24T11:28:36.860615"
-  },
-  {
-    "title": "RP2350B bells&whistles development board features on-board RP2040 debugger, HDMI, and microSD card slot",
-    "summary": "While searching Tindie for a new project, I found a new Raspberry Pi RP2350B-based development board called Bells&Whistles, which is interesting because it also features an onboard RP2040-based debugger running Picoprobe firmware, removing the need for a separate debug probe. Other than that, it has an HDMI output, a MicroSD card slot for storage, an optional 8 MB of PSRAM, and since it uses the Raspberry Pi RP2350B variant, it supports up to 46 GPIO pins. The board also features two USB Type-C ports, one for the RP2350B and the other for the RP2040 debugger, and is especially useful for clutter-free rapid prototyping and development workflows. RP2350B bells&whistles board specifications: SoC Raspberry Pi RP2350B CPU Dual-core Arm Cortex-M33 @ 150 MHz with Arm TrustZone Dual-core RISC-V Hazard3 @ 150 MHz Only two cores can be used at any given time Memory 520 KB on-chip SRAM Package QFN-80 Memory [...] The post RP2350B bells&whistles development board features on-board RP2040 debugger, HDMI, and microSD card slot appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/24/rp2350b-bellswhistles-development-board-features-on-board-rp2040-debugger-hdmi-and-microsd-card-slot/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-24T11:28:36.860785"
-  },
-  {
-    "title": "Visualize radio signals with Raspberry Pi 5-based QuadRF 4 4 MIMO software-defined radio tile (Crowdfunding)",
-    "summary": "QuadRF is a 4 4 MIMO software-defined radio (SDR) tile powered by a Raspberry Pi 5 SBC that functions as a real-time RF camera, allowing users to visualize radio signals in their environment using a phone or computer running an augmented reality app. QuadRF measures differences in signal arrival time using four coherent antennas and renders a live RF overlay directly on your phone or laptop at 30 FPS, letting you see RF signals from Wi-Fi devices, wireless cameras, smartphones, drones, beacons, and lab transmitters. QuadRF specifications: Compute & Signal Processing Raspberry Pi 5 SBC for onboard computation and control. Lattice ECP5 FPGA (LFE5U-45F-7BG256I) for distributed DSP and beamforming. Analog Devices MAX2850 (Upconvert) & MAX2851 (Downconvert) Mixers. 5.6 Gbit/sec MIPI data path between the RF FPGA and the Pi 5 Direct local processing on Pi 5 or network streaming for external processing. RF & Wireless 4x Rx / 4x Tx full-duplex [...] The post Visualize radio signals with Raspberry Pi 5-based QuadRF 4 4 MIMO software-defined radio tile (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/24/visualize-radio-signals-with-raspberry-pi-5-based-quadrf-4x4-mimo-software-defined-radio-tile/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.860956"
-  },
-  {
-    "title": "Aliro is a vendor-agnostic standard for digital access control working over NFC, Bluetooth LE, or UWB",
-    "summary": "Managed by the Connectivity Standards Alliance, Aliro is a smart lock/access control standard that works over NFC, Bluetooth LE, or UWB and is designed to be vendor-agnostic. While Matter is designed for Smart Home applications, Aliro specifically targets access control, and both aim to address market fragmentation. It was brought to my attention when we wrote about the Nordic nRF54L15 Tag, but we had already mentioned it for chips from other vendors such as STMicro (ST64UWB) and Qualcomm (FastConnect 8800), as well as earlier wireless MCUs from Nordic Semi such as the nRF54LM20A and nRF54LM20B. It appears to be adopted across the industry, so let s have a closer look. Aliro 1.0 was first released in February 2026 with the following highlights: Leverages existing smartphones and wearables Framework utilizes asymmetric cryptography to ensure secure and trusted interactions between user devices and readers Integration with digital wallets from Apple, Google, Samsung, etc [...] The post Aliro is a vendor-agnostic standard for digital access control working over NFC, Bluetooth LE, or UWB appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/06/24/aliro-is-a-vendor-agnostic-standard-for-digital-access-control-working-over-nfc-bluetooth-le-or-uwb/",
+    "title": "Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerators touts 6x higher bandwidth-per-watt compared to HBM, 200x capacity compared to on-chip SRAM",
+    "summary": "Qualcomm unveils HBC near-memory AI architecture, claims it has broken the memory wall.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-reveals-hbc-near-memory-ai-architecture-ai250-and-ai350-accelerators-touts-6x-higher-bandwidth-per-watt-compared-to-hbm-200x-capacity-compared-to-on-chip-sram",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.861138"
+    "processed_date": "2026-06-25T11:21:11.000447"
   },
   {
-    "title": "Sensors magic from the labs at UD and MSU",
-    "summary": "Teams at UD and MSU are working on sensor innovations to affect wearable materials used in healthcare.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/sensors-magic-labs-ud-and-msu",
+    "title": "Grand Theft Auto 6 preorders begin tonight at midnight local time in the US; here's where to buy get yours now, it's in the garage and ready to roll",
+    "summary": "The preorder pages for GTA will drop at midnight local time in the US tonight, and you have both the Standard and Ultimate editions at your disposal.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/grand-theft-auto-6-preorders-begin-tonight-at-midnight-local-time-in-the-us-heres-where-to-buy-get-yours-now-its-in-the-garage-and-ready-to-roll",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.862076"
+    "processed_date": "2026-06-25T11:21:11.000558"
   },
   {
-    "title": "Virtuix launches Omni One for Quest with Meta, bringing full-body movement to traditional VR controls",
-    "summary": "The key difference is in how the system handles movement. Rather than relying only on thumbsticks or teleporting, Omni One keeps users on a slick, stationary base and tracks their steps in any direction. That setup ties a player's body movements more closely to what happens on-screen. Read Entire Article",
-    "link": "https://www.techspot.com/news/112877-virtuix-launches-omni-one-quest-meta-bringing-full.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.862559"
-  },
-  {
-    "title": "Meta is building a prediction market app, but it will launch without real-money bets",
-    "summary": "The app, which is said to be called Arena, is in its experimental stages, reports The New York Times. Read Entire Article",
-    "link": "https://www.techspot.com/news/112878-meta-building-prediction-market-app-but-launch-without.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.862722"
-  },
-  {
-    "title": "Meta just launched its own-branded smart glasses for $299",
-    "summary": "Orders are now open for Meta Glasses, a new lineup launched in partnership with EssilorLuxottica and sold under Meta's own name for the first time. The AI-powered wearables carry over the core features from the earlier Ray-Ban and Oakley models but start at $299, undercutting the entry-level Ray-Ban Meta by $80. Read Entire Article",
-    "link": "https://www.techspot.com/news/112876-meta-launched-own-branded-smart-glasses-299.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.862894"
-  },
-  {
-    "title": "Valve is working with Intel, AMD, and Nvidia to make SteamOS run on any PC hardware",
-    "summary": "SteamOS has spent most of its life as a closed ecosystem, optimized almost exclusively for Valve's own devices. That's beginning to change. The company recently updated its Arch Linux-based OS to broaden hardware compatibility, and the move is backed by active collaboration with some of the biggest names in the... Read Entire Article",
-    "link": "https://www.techspot.com/news/112872-valve-working-intel-amd-nvidia-make-steamos-run.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.863069"
-  },
-  {
-    "title": "Microsoft is selling new 8GB Surface laptops that don't qualify as Copilot+ PCs",
-    "summary": "The 8GB Surface Pro starts at $849, while the new Surface Laptop variant is priced at $949. Both are powered by the original Snapdragon X Plus SoC, include 256GB of storage, and are otherwise identical to the first-generation 12-inch Surface Pro and 13-inch Surface Laptop. They are available now on... Read Entire Article",
-    "link": "https://www.techspot.com/news/112871-microsoft-launches-cheaper-surface-laptop-surface-pro-starting.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.863262"
-  },
-  {
-    "title": "MSI Claw 8 EX AI+ sets a new performance bar with a very expensive handheld",
-    "summary": "Early reviews praise the MSI Claw 8 EX AI+ for pushing handheld performance, with Intel's Arc G3 Extreme outperforming current AMD rivals in many tests. However, at $1,800 and lack no OLED display, it's a very tough sell. Read Entire Article",
-    "link": "https://www.techspot.com/products/audio-video/msi-claw-8-ex-ai.326383/",
+    "title": "Broadcom and OpenAI unveil custom-built Jalape o inference processor OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle",
+    "summary": "Broadcom and OpenAI reveal their Jalape o custom-built inference ASIC that allegedly beats existing leading-edge in terms of performance-per-watt.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 15,
-    "processed_date": "2026-06-24T11:28:36.863432"
+    "processed_date": "2026-06-25T11:21:11.000673"
   },
   {
-    "title": "LG claims its OLED panels deliver perfect color and brightness accuracy",
-    "summary": "LG Display recently announced that its OLED panels can accurately reproduce colors and brightness levels as content creators intended. The Korean manufacturer is the first company to pass a new Intertek certification program, and says it will use the achievement to better communicate the benefits of its display technology to... Read Entire Article",
-    "link": "https://www.techspot.com/news/112869-lg-claims-oled-panels-deliver-perfect-color-brightness.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.863631"
-  },
-  {
-    "title": "Gas stations accused of using AI to inflate fuel prices in class-action lawsuit",
-    "summary": "The class action claims the defendants, which include BP, Circle K, Marathon Petroleum, 7-Eleven, Walmart, and Albertsons, violated California's main antitrust law, the Cartwright Act, writes Reuters. Read Entire Article",
-    "link": "https://www.techspot.com/news/112870-california-class-action-lawsuit-accuses-major-gas-station.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.863795"
-  },
-  {
-    "title": "Meta hits pause on AI training project after employee data became visible company-wide",
-    "summary": "The issue centers on the Model Capability Initiative, a program Meta rolled out in April to improve its AI systems by collecting detailed workplace activity data from employees. The system tracked inputs such as keystrokes and mouse movements to train models on real-world usage patterns. Participation was required for most... Read Entire Article",
-    "link": "https://www.techspot.com/news/112865-meta-halts-ai-training-program-after-internal-employee.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.863968"
-  },
-  {
-    "title": "Samsung shows off ultra-fast UFS 5.0 storage for flagship phones and on-device AI",
-    "summary": "Samsung has announced its Universal Flash Storage 5.0 chips, a flash-based storage solution designed primarily for smartphones, tablets, and other mobile devices. The UFS 5.0 standard delivers a maximum bandwidth of 10.8 GB/s and is positioned as a way to accelerate on-device AI workloads. Read Entire Article",
-    "link": "https://www.techspot.com/news/112866-samsung-shows-off-ultra-fast-ufs-50-storage.html",
+    "title": "US Secures Netherlands for Pax Silica Alliance in key win for strategic chip alliance tension remains over MATCH Act restrictions",
+    "summary": "Inside the US Pax Silica Alliance with the Netherlands.",
+    "link": "https://www.tomshardware.com/tech-industry/us-secures-netherlands-for-pax-silica-alliance-in-key-win-for-strategic-chip-alliance-tension-remains-over-match-act-restrictions",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-24T11:28:36.864142"
+    "quality_score": 0,
+    "processed_date": "2026-06-25T11:21:11.000779"
   },
   {
-    "title": "NHTSA opens new Tesla crash probe after Model 3 slams into home and kills resident",
-    "summary": "According to the Harris County Sheriff's Office, the driver told deputies he was using an automated driving assistance system at the time of the crash. Inside the home was Martha Avila, who later died from injuries sustained in the collision. Read Entire Article",
-    "link": "https://www.techspot.com/news/112863-nhtsa-opens-new-tesla-crash-probe-after-model.html",
+    "title": "China tops the list of fastest supercomputers with a CPU-only behemoth, ending US champion El Capitan's reign 2.198 exaflops of performance without a single GPU",
+    "summary": "China's LineShine supercomputer has taken the top spot on the 67th TOP500 list, posting 2.198 exaflops on the High Performance Linpack benchmark.",
+    "link": "https://www.tomshardware.com/tech-industry/supercomputers/china-tops-the-top500-with-a-cpu-only-supercomputer-ending-el-capitans-reign",
     "categories": [
-      "AI & ML"
+      "Hardware",
+      "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.864323"
+    "quality_score": 15,
+    "processed_date": "2026-06-25T11:21:11.000870"
   },
   {
-    "title": "Cloudflare teams up with Chrome, Edge, and Firefox to tackle bot traffic without CAPTCHAs",
-    "summary": "Cloudflare says it's developing the protocol with Mozilla, Google, Microsoft, and Shopify, with the group planning to submit it for standardization. Read Entire Article",
-    "link": "https://www.techspot.com/news/112868-cloudflare-teams-up-chrome-edge-firefox-tackle-bot.html",
+    "title": "Pay just $149.99 for the TP-Link Archer Wi-Fi 7 router with 9.3 Gbps of bandwidth, now 40 percent off high-powered BE550 router comes with a full complement of 2.5 Gbps LAN ports, too",
+    "summary": "Pay just $149.99 for the TP-Link Archer BE550 Wi-Fi 7 router with 9.3 Gbps of combined bandwidth high-powered router comes with a full complement of 2.5 Gbps LAN ports, too",
+    "link": "https://www.tomshardware.com/pc-components/pay-just-usd149-99-for-the-tp-link-archer-wi-fi-7-router-with-9-3-gbps-of-bandwidth-now-40-percent-off-high-powered-be550-router-comes-with-a-full-complement-of-2-5-gbps-lan-ports-too",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.864478"
+    "processed_date": "2026-06-25T11:21:11.000958"
   },
   {
-    "title": "SK Hynix just surpassed Samsung to become South Korea's most valuable company",
-    "summary": "SK Hynix's stock price closed at approximately 2.9 million Korean won on the Korean stock exchange on Monday. The 5.6% gain raised the company's total market cap to approximately $1.35 trillion. Excluding preferred shares, this places the DRAM maker slightly above Samsung for South Korea's top spot. Read Entire Article",
-    "link": "https://www.techspot.com/news/112859-sk-hynix-surpassed-samsung-become-south-korea-most.html",
+    "title": "TSMC is reportedly hiking prices for 'all advanced nodes,' accounting for 74% of the company s wafer business Nvidia, AMD, Apple, Qualcomm, and others will face higher wafer costs",
+    "summary": "TSMC has reportedly told customers to prepare for 5% to 10% price hikes across advanced chip nodes, extending beyond 3nm to include 7nm and some legacy processes.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-reportedly-hiking-prices-for-all-advanced-nodes-accounting-for-74-percent-of-the-companys-wafer-business-nvidia-amd-apple-qualcomm-and-others-will-face-higher-wafer-costs",
+    "categories": [
+      "Semiconductors",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.001087"
+  },
+  {
+    "title": "SK hynix files to raise up to $29 billion in historic Nasdaq listing all proceeds going to advanced AI memory fabs and EUV tool orders",
+    "summary": "SK hynix filed a securities registration statement on Wednesday to raise up to 45.45 trillion won through an American depositary receipt listing on Nasdaq.",
+    "link": "https://www.tomshardware.com/tech-industry/sk-hynix-files-to-raise-up-to-29-billion-in-nasdaq-listing",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.001185"
+  },
+  {
+    "title": "AI data center boom hits a human bottleneck critical skilled labor shortages could slow deployment despite billions in funding",
+    "summary": "Data center construction is facing many challenges, and among them is a shortage of skilled hands to assemble the things.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-boom-hits-a-human-bottleneck-critical-skilled-labor-shortages-could-slow-deployment-despite-billions-in-funding",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.001273"
+  },
+  {
+    "title": "Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for SqueezeLite, Snapclient, or ESPHome support",
+    "summary": "Sonocotta s Louder-ESP32-Mini is a compact version of the Louder ESP32 board that converts old speakers into WiFi (and Bluetooth) connected speakers for your Smart Home. The board aims to replace the speaker terminals on your old speakers, and comes in two sizes: 42x42mm for small speakers, and 52x52mm for larger models. It s powered by an ESP32-S3 wireless SoC with 8MB PSRAM and equipped with a high-quality TAS5805M DAC with DSP features. Louder-ESP32-Mini specifications: Wireless Module ESP32-S3-WROOM-N8R8 SoC Espressif Systems ESP32-S3 CPU Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM 512KB SRAM, 8MB PSRAM Storage 8MB flash Wireless WiFi 4 and Bluetooth LE 5 Antenna PCB antenna Audio DAC Stereo TAS5805M I2S DAC with built-in DSP and D-Class amp DSP Features EQ, FIR, DRC, AGL, etc Speaker output via two WAGO connectors 4 , 1% THD+N 42 42 [...] The post Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for SqueezeLite, Snapclient, or ESPHome support appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/25/louder-esp32-mini-board-adds-wifi-and-bluetooth-to-old-speakers-for-squeezelite-snapclient-or-esphome-support/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-25T11:21:11.001712"
+  },
+  {
+    "title": "Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM",
+    "summary": "Quectel FCM365X is a short-range IoT module based on NXP RW612 wireless MCU with support for dual-band Wi-Fi 6, Bluetooth Low Energy (BLE) 5.4, and 802.15.4 (Zigbee and Thread) connectivity. The compact 25.5 x 18.0mm RW612 module features 8MB flash and optional PSRAM, and operates in the -40 C to +85 C temperature range for demanding Smart Home and industrial IoT (IIoT) applications. The FCM365X module exposes GPIO, SDIO, UART, USB, JTAG, I2C, I2S, ADC, LCD, and PWM interfaces through its LCC+LGA package. Quectel FCM365X specifications: SoC NXP RW612 CPU Core Arm Cortex-M33 core @ 260 MHz with Arm TrustZone-M Memory On-chip 1.2 MB SRAM Wireless Dual-band Wi-Fi 6 Target wake time (TWT) support Integrated Wi-Fi PA/LNA, and T/R switch Tx power Up to 19 dBm 2 dB Rx sensitivity Down to -96 dBm 2 dB AP/STA modes Security WPA-PSK/ WPA2-PSK/ WPA3-SAE/ AES-128 Bluetooth 5.4 [...] The post Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/25/quectel-fcm365x-dual-band-wifi-6-ble-5-4-802-15-4-iot-module-nxp-rw612-psram/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-25T11:21:11.001860"
+  },
+  {
+    "title": "OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support",
+    "summary": "OpenC6 BIOS is an open-source project by Rompass that takes a different approach to MCU development. It adds a BIOS-like system to the ESP32-C6, so the system part and application code can run separately rather than being combined into a single firmware image. In traditional development, hardware setup, networking, and application code are combined into a single firmware image. But the OpenC6 BIOS operates differently: it runs as the base system on the ESP32-C6 and handles hardware initialization and system functions. Instead of flashing a full application each time, it can load small payload programs separately. These payloads can run from RAM or flash (XIP) and use system functions through a simple Application Binary Interface (ABI), without needing the full firmware. In some ways, it operates like AkiraOS, but with a BIOS-like interface. Key features of the OpenC6 BIOS architecture: Dynamic CPU scaling Adjusts CPU frequency based on load [...] The post OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-25T11:21:11.002020"
+  },
+  {
+    "title": "NeoEyes NE503 A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC",
+    "summary": "Camthink NeoEyes NE503 is a 4K Edge AI camera platform powered by the Hailo-15H quad-core Cortex-A53 SoC with a 20 TOPS AI accelerator, and paired with 8GB of LPDDR4 memory and a 64GB eMMC flash. The camera also features a Sony IMX678 4K sensor and an 8 32mm F1.6 AF auto-zoom lens for high-quality monitoring, low-light imaging, and long-range recognition. The camera directly handles high-resolution video input, local multi-model inference, containerized applications, and event-driven workflows on the device, without relying on the cloud or a local server. NeoEyes NE503 specifications: SoC Hailo-15H CPU Quad-core Arm Cortex-A53 @ 1.3 GHz VPU H.265/H.264 encoding ISP Supports up to 12 MP resolution, 600 Mpixel/s pixel rate, HDR, and noise reduction AI performance Up to 20 TOPS; < 50 ms target inference latency System Memory 8GB LPDDR4 @ 4266 MT/s; 8.5 GB/s single-channel bandwidth Storage 64 GB eMMC flash 8 [...] The post NeoEyes NE503 A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/06/25/neoeyes-ne503-a-1199-edge-ai-camera-based-on-hailo-15h-20-tops-soc/",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-25T11:21:11.002169"
+  },
+  {
+    "title": "Nvidia's banned Blackwell AI servers are selling for $1.1 million on China's black market",
+    "summary": "The US has restricted the export of Nvidia's most powerful AI chips to China since 2022 over fears that they could be used for military purposes. Read Entire Article",
+    "link": "https://www.techspot.com/news/112893-nvidia-banned-blackwell-ai-servers-selling-11-million.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.003474"
+  },
+  {
+    "title": "Does the Nvidia App Hurt Performance? We Benchmarked It.",
+    "summary": "Does the Nvidia App really hurt gaming performance? We benchmarked its background app, overlay, recording, and filters to see what affects frame rates and whether it is worth keeping installed. Read Entire Article",
+    "link": "https://www.techspot.com/review/3140-nvidia-app-performance/",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-06-25T11:21:11.003646"
+  },
+  {
+    "title": "The US government wants a working quantum computer by 2028 and quantum-resistant encryption by 2031",
+    "summary": "One order directs federal agencies to work with private companies and universities to deliver a quantum computer capable of supporting scientific research by 2028. The Department of Energy has been tasked with identifying the technical benchmarks that will define the system. Read Entire Article",
+    "link": "https://www.techspot.com/news/112882-us-government-wants-working-quantum-computer-2028-quantum.html",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-06-25T11:21:11.003823"
+  },
+  {
+    "title": "Europe's digital euro is one step closer, designed to cut out Visa and Mastercard",
+    "summary": "The European Parliament said the digital euro can be used to make both online and offline payments to merchants across Europe. Online payments would be processed through an account-based system, while offline payments would function more like cash, with transactions conducted directly via local storage devices such as smartphones. Read Entire Article",
+    "link": "https://www.techspot.com/news/112886-europe-digital-euro-one-step-closer-designed-cut.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.864666"
+    "processed_date": "2026-06-25T11:21:11.004012"
   },
   {
-    "title": "Oracle cuts 21,000 jobs, admits AI is reducing its workforce",
-    "summary": "The eliminations led to $1.8 billion in severance payments and other restructuring costs for Oracle, significantly higher than the $374 million restructuring costs it faced in the previous financial year. The software and cloud computing giant employed 141,000 people as of May 31, 2026, compared to 162,000 one year earlier, representing a 13% decline. Read Entire Article",
-    "link": "https://www.techspot.com/news/112864-oracle-cuts-21000-jobs-admits-ai-reducing-workforce.html",
+    "title": "Google Home Speaker debuts with Gemini AI and Matter support",
+    "summary": "The new Google Home Speaker brings Gemini and expanded smart home capabilities, and Matter hub support. Reviews highlight its more natural voice experience, though some note that audio quality doesn't clearly surpass the older Nest Audio. Read Entire Article",
+    "link": "https://www.techspot.com/products/audio-video/google-home-speaker.326390/",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-25T11:21:11.004179"
+  },
+  {
+    "title": "China just built the world's most powerful supercomputer using Huawei chips and no GPUs",
+    "summary": "The TOP500 project has unveiled the 67th edition of its biannual ranking of the world's most powerful high-performance computing (HPC) systems. Announced at the ISC 2026 conference in Hamburg, Germany, the new list marks the surprise debut of LineShine, a previously unannounced Chinese machine that enters straight at No. 1,... Read Entire Article",
+    "link": "https://www.techspot.com/news/112875-china-built-world-most-powerful-supercomputer-using-huawei.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-06-25T11:21:11.004380"
+  },
+  {
+    "title": "Silicon Valley's longevity drug obsession is facing its first real reality check",
+    "summary": "Bryan Johnson, the tech entrepreneur who turned his body into a public experiment, stopped taking Rapamycin in September 2024 after several years of self-testing the drug. The immunosuppressant, which is clinically used to prevent organ rejection, had been a cornerstone of his longevity regimen since 2019. Over the years, he... Read Entire Article",
+    "link": "https://www.techspot.com/news/112884-silicon-valley-longevity-drug-obsession-facing-first-real.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.004566"
+  },
+  {
+    "title": "SteamOS 3.8.10 is Valve's biggest step yet toward taking on Windows",
+    "summary": "SteamOS 3.8.10 is one of Valve's most significant OS updates yet, squarely aimed at hardware beyond the Steam Deck. The update adds support for the Steam Machine and third-party handhelds including the Asus ROG Ally, Lenovo Legion Go, and MSI Claw. Radeon gaming desktops can already run SteamOS via the recovery image Nvidia support is still in the works. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/6351-steamos.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.004756"
+  },
+  {
+    "title": "LastPass customer names, emails, and support records stolen in third-party breach, vaults unaffected",
+    "summary": "The good news for anyone still using LastPass after its previous security disasters is that this was not a compromise of the company's password manager infrastructure. LastPass says customer vaults remain secure, and its products and services were not affected. Read Entire Article",
+    "link": "https://www.techspot.com/news/112881-lastpass-hackers-stole-customer-support-records-through-third.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.864840"
+    "processed_date": "2026-06-25T11:21:11.004926"
   },
   {
-    "title": "Scientists created a paint so black it makes cars look like silhouettes",
-    "summary": "A team at Nipsea Group, working through its Color Technology and core R&D unit in Shanghai, has developed what it describes as an \"ultra-black coating\" capable of absorbing roughly 99.9% of visible light. The material is clearly inspired by Vantablack, the carbon nanotube coating that makes objects look almost flat... Read Entire Article",
-    "link": "https://www.techspot.com/news/112851-scientists-created-paint-black-makes-cars-look-like.html",
+    "title": "James Webb Telescope uncovers salt clouds on a strange pink planet 57 light-years away",
+    "summary": "Using Webb's ability to isolate faint planetary light from the glare of a nearby star, a team led by Northwestern University captured direct spectroscopic data from GJ504b for the first time. What had taken countless observation attempts from Earth was accomplished in roughly two hours. More importantly, the data was... Read Entire Article",
+    "link": "https://www.techspot.com/news/112879-james-webb-telescope-uncovers-salt-clouds-strange-pink.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-24T11:28:36.865011"
+    "processed_date": "2026-06-25T11:21:11.005098"
+  },
+  {
+    "title": "A legal tech startup is suing the US government for cutting off access to Claude Fable 5",
+    "summary": "Legion filed the lawsuit in Washington, D.C., federal court, challenging a June 12 directive from the Commerce Department's Bureau of Industry and Security. Read Entire Article",
+    "link": "https://www.techspot.com/news/112880-startup-sues-us-government-blocking-access-anthropic-fable.html",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.005257"
+  },
+  {
+    "title": "Sony's best-selling PlayStation games this year are mostly ones it never brought to PC",
+    "summary": "According to estimates from Alinea Analytics, games that launched in 2025 or earlier that have not received PC ports have dominated first-party PlayStation game sales so far in 2026. The numbers suggest that keeping these titles exclusive to PlayStation 5 increased their sales on that console, allowing Sony to keep... Read Entire Article",
+    "link": "https://www.techspot.com/news/112874-sony-best-selling-playstation-games-year-mostly-ones.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-25T11:21:11.005451"
+  },
+  {
+    "title": "GTA 6 confirmed at $80 for the standard edition and $100 for the Ultimate Edition",
+    "summary": "Rockstar Games confirmed the prices ahead of preorders starting at midnight tonight. The studio also revealed that the game will be a \"single-player experience\" at launch, so it seems there won't be any new version of GTA Online when the next installment arrives on November 19. Read Entire Article",
+    "link": "https://www.techspot.com/news/112883-gta-6-standard-edition-confirmed-cost-80-while.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-25T11:21:11.005628"
   }
 ]

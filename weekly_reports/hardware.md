@@ -1,115 +1,135 @@
 # 💻 Hardware
-**Week of June 24, 2026**
+**Week of June 25, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-06-24 11:29
+- **Articles this week:** 12
+- **Report generated:** 2026-06-25 11:22
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. MSI Claw 8 EX AI+ review: Unmatched performance and a jaw-dropping price tag ⭐
+### 1. The US government wants a working quantum computer by 2028 and quantum-resistant encryption by 2031 ⭐
 
-The MSI Claw 8 EX AI+ offers unmatched performance but a high price tag, making it a questionable value at $1,799.
+The US government aims to develop a working quantum computer by 2028 and quantum-resistant encryption by 2031 through collaboration with private companies and universities.
 
-💡 *Unmatched performance comes at a steep and questionable price premium.*
+💡 *Advancing quantum tech for scientific research and national security.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/msi-claw-8-ex-ai-plus-review)
-
----
-
-### 2. Graperain GR1126MB development board features solder-on 3 TOPS Rockchip RV1126B AI Vision module ⭐
-
-The Graperain GR1126MB development board features a Rockchip RV1126B AI Vision module with 3 TOPS NPU, suitable for AI vision, machine vision, and edge AI applications.
-
-💡 *Edge AI solutions get a significant compute boost with 3 TOPS NPU.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/24/graperain-gr1126mb-development-board-features-solder-on-3-tops-rockchip-rv1126b-ai-vision-module/)
+🔗 [Read Full Article](https://www.techspot.com/news/112882-us-government-wants-working-quantum-computer-2028-quantum.html)
 
 ---
 
-### 3. RP2350B bells&whistles development board features on-board RP2040 debugger, HDMI, and microSD card slot ⭐
+### 2. China just built the world's most powerful supercomputer using Huawei chips and no GPUs ⭐
 
-The Bells&Whistles development board features an RP2350B SoC with onboard RP2040 debugger, HDMI, and microSD card slot, ideal for clutter-free prototyping and development.
+China has built the world's most powerful supercomputer, LineShine, using Huawei chips and no GPUs.
 
-💡 *Streamlined development workflow with integrated debugger and peripherals.*
+💡 *China's technological advancements challenge global supercomputing dominance*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/24/rp2350b-bellswhistles-development-board-features-on-board-rp2040-debugger-hdmi-and-microsd-card-slot/)
-
----
-
-### 4. MSI Claw 8 EX AI+ sets a new performance bar with a very expensive handheld ⭐
-
-The MSI Claw 8 EX AI+ handheld pushes performance with Intel's Arc G3, but its high price of $1,800 and lack of OLED display make it a tough sell.
-
-💡 *Handheld gaming performance now rivals console-level graphics capabilities.*
-
-🔗 [Read Full Article](https://www.techspot.com/products/audio-video/msi-claw-8-ex-ai.326383/)
+🔗 [Read Full Article](https://www.techspot.com/news/112875-china-built-world-most-powerful-supercomputer-using-huawei.html)
 
 ---
 
-### 5. China's LineShine supercomputer dethrones US' El Capitan, secures first place in Top 500 list first machine in the rankings to sustain more than 2 ExaFLOPS of double-precision performance using only CPUs 
+### 3. Broadcom and OpenAI unveil custom-built Jalape o inference processor OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle ⭐
 
-China's LineShine supercomputer has dethroned the US' El Capitan, securing first place in the Top 500 list, as the first machine to sustain over 2 ExaFLOPS of double-precision performance using only CPUs. This achievement marks a significant milestone in the global supercomputing landscape.
+Broadcom and OpenAI have unveiled a custom-built Jalapeño inference processor, a massive reticle-sized ASIC that surpasses existing chips in performance-per-watt. This ASIC was developed in a record nine-month cycle, showcasing the rapid innovation in AI processing technology.
 
-💡 *China's LineShine supercomputer leads in double-precision performance globally*
+💡 *Groundbreaking performance-per-watt in AI processing technology achieves rapid innovation*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/supercomputers/chinas-lineshine-supercomputer-dethrones-us-el-capitan-secures-first-place-in-top-500-list-first-machine-in-the-rankings-to-sustain-more-than-2-exaflops-of-double-precision-performance-using-only-cpus)
-
----
-
-### 6. Visualize radio signals with Raspberry Pi 5-based QuadRF 4 4 MIMO software-defined radio tile (Crowdfunding) 
-
-QuadRF is a Raspberry Pi 5-based software-defined radio tile that visualizes radio signals in real-time using a phone or computer. It measures differences in signal arrival time and renders a live RF overlay at 30 FPS. This enables users to see RF signals from various devices.
-
-💡 *Real-time RF visualization offers new insights into wireless device interactions.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/24/visualize-radio-signals-with-raspberry-pi-5-based-quadrf-4x4-mimo-software-defined-radio-tile/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle)
 
 ---
 
-### 7. China black market Nvidia prices rocket in wake of smuggling crackdown and customs freeze five-year-old A100 servers triple in price, now fetching up to $82,000 
+### 4. China tops the list of fastest supercomputers with a CPU-only behemoth, ending US champion El Capitan's reign 2.198 exaflops of performance without a single GPU ⭐
 
-Chinese companies are paying exorbitant prices for 5-year-old Nvidia A100 servers, up to $82,000, due to a customs freeze and smuggling crackdown.
+China's LineShine supercomputer has taken the top spot on the 67th TOP500 list, achieving 2.198 exaflops of performance without the use of GPUs. This milestone marks the end of US champion El Capitan's reign. The achievement showcases China's growing capabilities in high-performance computing.
 
-💡 *Supply chain disruptions fuel artificial demand for outdated tech components*
+💡 *China surpasses US in supercomputing without relying on GPU technology*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/five-year-old-nvidia-a100-servers-triple-in-price-in-china)
-
----
-
-### 8. This brilliant $11 power button gadget lets you switch your PC on from your desk with ease perfect desk upgrade means you don't need to bend down to turn your rig on or off anymore, ships with super-durable mechanical keys and RGB lighting 
-
-A statement power button upgrade for your desk is available at an affordable $11 price point, featuring super-durable mechanical keys and RGB lighting.
-
-💡 *Convenient PC access without bending down matters greatly for users.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/this-brilliant-usd11-power-button-gadget-lets-you-switch-your-pc-on-from-your-desk-with-ease-perfect-desk-upgrade-means-you-dont-need-to-bend-down-to-turn-your-rig-on-or-off-anymore-ships-with-super-durable-mechanical-keys-and-rgb-lighting)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/supercomputers/china-tops-the-top500-with-a-cpu-only-supercomputer-ending-el-capitans-reign)
 
 ---
 
-### 9. Valve is working with Intel, AMD, and Nvidia to make SteamOS run on any PC hardware 
+### 5. OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support ⭐
 
-Valve is updating SteamOS to be more hardware-agnostic, working with major manufacturers.
+The OpenC6 BIOS project brings a PC-like firmware to the ESP32-C6 MCU, allowing for separate system and application code. This BIOS-like system handles hardware initialization and system functions, enabling the loading of small payload programs separately. Dynamic CPU scaling and network boot/OTA update are also supported.
 
-💡 *Wider compatibility boosts PC gaming's accessibility and ecosystem diversity.*
+💡 *Separate system and app code boosts MCU development efficiency significantly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112872-valve-working-intel-amd-nvidia-make-steamos-run.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/)
 
 ---
 
-### 10. Microsoft is selling new 8GB Surface laptops that don't qualify as Copilot+ PCs 
+### 6. NeoEyes NE503 A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC ⭐
 
-Microsoft has released new 8GB Surface laptops at $849-$949, powered by the Snapdragon X Plus SoC.
+The NeoEyes NE503 is a 4K edge AI camera with a 20 TOPS SoC, offering high-quality monitoring and local AI capabilities.
 
-💡 *Mid-range Surface laptops lack Copilot+ capabilities due to hardware limitations.*
+💡 *Enabling local AI inference for autonomous surveillance and monitoring systems.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112871-microsoft-launches-cheaper-surface-laptop-surface-pro-starting.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/25/neoeyes-ne503-a-1199-edge-ai-camera-based-on-hailo-15h-20-tops-soc/)
+
+---
+
+### 7. Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for SqueezeLite, Snapclient, or ESPHome support 
+
+The Louder-ESP32-Mini board adds WiFi and Bluetooth to old speakers, making them smart home compatible with SqueezeLite, Snapclient, or ESPHome support.
+
+💡 *Upcycle old speakers into WiFi and Bluetooth smart home devices easily.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/25/louder-esp32-mini-board-adds-wifi-and-bluetooth-to-old-speakers-for-squeezelite-snapclient-or-esphome-support/)
+
+---
+
+### 8. Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM 
+
+The Quectel FCM365X is a compact IoT module offering dual-band Wi-Fi 6, BLE 5.4, and 802.15.4 connectivity. It features an NXP RW612 MCU with 8MB flash and optional PSRAM, operating in a -40 C to +85 C temperature range. This module is suitable for demanding Smart Home and industrial IoT applications.
+
+💡 *Enabling efficient, secure, and reliable IoT connectivity for industries worldwide.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/25/quectel-fcm365x-dual-band-wifi-6-ble-5-4-802-15-4-iot-module-nxp-rw612-psram/)
+
+---
+
+### 9. Google Home Speaker debuts with Gemini AI and Matter support 
+
+The new Google Home Speaker features Gemini AI and Matter support, offering enhanced smart home capabilities and a more natural voice experience.
+
+💡 *Google Home Speaker advances smart home automation with Gemini AI integration.*
+
+🔗 [Read Full Article](https://www.techspot.com/products/audio-video/google-home-speaker.326390/)
+
+---
+
+### 10. Nvidia's banned Blackwell AI servers are selling for $1.1 million on China's black market 
+
+Nvidia's Blackwell AI servers are being sold on China's black market for $1.1 million, despite export restrictions.
+
+💡 *Evasion of US export controls poses national security risks.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112893-nvidia-banned-blackwell-ai-servers-selling-11-million.html)
+
+---
+
+### 11. SteamOS 3.8.10 is Valve's biggest step yet toward taking on Windows 
+
+SteamOS 3.8.10 is a significant update from Valve, supporting various hardware beyond Steam Deck.
+
+💡 *Valve expands SteamOS reach to non-Deck hardware and third-party handhelds.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/6351-steamos.html)
+
+---
+
+### 12. Sony's best-selling PlayStation games this year are mostly ones it never brought to PC 
+
+Exclusive PlayStation titles have seen increased sales on the console, outperforming PC-ported games. According to Alinea Analytics, these exclusives have dominated first-party PlayStation game sales in 2026. The trend suggests a potential benefit to keeping select titles console-only.
+
+💡 *Exclusive titles boost console sales, benefiting Sony's profit margins.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112874-sony-best-selling-playstation-games-year-mostly-ones.html)
 
 ---
 
