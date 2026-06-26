@@ -1,95 +1,125 @@
 # ⚡ Semiconductors
-**Week of June 25, 2026**
+**Week of June 26, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-06-25 11:22
+- **Articles this week:** 11
+- **Report generated:** 2026-06-26 11:32
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. The US government wants a working quantum computer by 2028 and quantum-resistant encryption by 2031 ⭐
+### 1. Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera ⭐
 
-The US government aims to develop a working quantum computer by 2028 and quantum-resistant encryption by 2031 through collaboration with private companies and universities.
+The Makerfabs MaTouch ESP32-P4 is a 10.1-inch HMI display with 4G LTE and Ethernet connectivity, a 2MP camera, and various interfaces for edge AI and connected embedded applications.
 
-💡 *Advancing quantum tech for scientific research and national security.*
+💡 *Combines 4G connectivity with edge AI and HMI capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112882-us-government-wants-working-quantum-computer-2028-quantum.html)
-
----
-
-### 2. OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support ⭐
-
-The OpenC6 BIOS project brings a PC-like firmware to the ESP32-C6 MCU, allowing for separate system and application code. This BIOS-like system handles hardware initialization and system functions, enabling the loading of small payload programs separately. Dynamic CPU scaling and network boot/OTA update are also supported.
-
-💡 *Separate system and app code boosts MCU development efficiency significantly.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/)
 
 ---
 
-### 3. Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerators touts 6x higher bandwidth-per-watt compared to HBM, 200x capacity compared to on-chip SRAM 
+### 2. Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os ⭐
 
-Qualcomm has introduced HBC near-memory AI architecture, which claims a significant improvement in bandwidth-per-watt and capacity. The AI250 and AI350 accelerators reportedly provide 6x higher bandwidth-per-watt compared to HBM and 200x capacity compared to on-chip SRAM. This breakthrough is aimed at addressing the memory wall challenge in AI computing.
+The Firefly AIBOX-9075 is an industrial Edge AI box with 200 TOPS performance, designed for on-device AI workloads, edge computing, and more. It features a Qualcomm IQ-9075 SoC, 36GB LPDDR5 memory, and various industrial I/Os. The rugged device operates in extreme temperatures, making it suitable for industrial and outdoor environments.
 
-💡 *Breaking the memory wall for AI computing efficiency gains.*
+💡 *Enables on-device AI processing for industrial and outdoor applications*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-reveals-hbc-near-memory-ai-architecture-ai250-and-ai350-accelerators-touts-6x-higher-bandwidth-per-watt-compared-to-hbm-200x-capacity-compared-to-on-chip-sram)
-
----
-
-### 4. Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM 
-
-The Quectel FCM365X is a compact IoT module offering dual-band Wi-Fi 6, BLE 5.4, and 802.15.4 connectivity. It features an NXP RW612 MCU with 8MB flash and optional PSRAM, operating in a -40 C to +85 C temperature range. This module is suitable for demanding Smart Home and industrial IoT applications.
-
-💡 *Enabling efficient, secure, and reliable IoT connectivity for industries worldwide.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/25/quectel-fcm365x-dual-band-wifi-6-ble-5-4-802-15-4-iot-module-nxp-rw612-psram/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/26/firefly-aibox-9075-edge-ai-box-features-qualcomm-iq-9075-soc-with-200-tops-npu-36gb-lpddr5/)
 
 ---
 
-### 5. TSMC is reportedly hiking prices for 'all advanced nodes,' accounting for 74% of the company s wafer business Nvidia, AMD, Apple, Qualcomm, and others will face higher wafer costs 
+### 3. IBM goes sub-1nm, develops 0.7nm-class technology offering up to 50% higher performance and 70% higher energy efficiency compared to IBM's 2nm-class node 
 
-TSMC is hiking prices for advanced chip nodes by 5-10% globally, affecting major customers.
+IBM has developed a 0.7nm-class technology with up to 50% higher performance and 70% higher energy efficiency compared to its 2nm-class node, leveraging nanostack transistors.
 
-💡 *Major tech companies face significant wafer cost increases due to supply constraints.*
+💡 *Advancing transistor design enables unprecedented performance and efficiency gains.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-reportedly-hiking-prices-for-all-advanced-nodes-accounting-for-74-percent-of-the-companys-wafer-business-nvidia-amd-apple-qualcomm-and-others-will-face-higher-wafer-costs)
-
----
-
-### 6. SK hynix files to raise up to $29 billion in historic Nasdaq listing all proceeds going to advanced AI memory fabs and EUV tool orders 
-
-SK hynix seeks to raise up to $29 billion on Nasdaq through an American depositary receipt listing, with all proceeds going towards advanced AI memory fabs and EUV tool orders.
-
-💡 *Massive investment in AI memory and EUV tooling drives tech advancements.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/sk-hynix-files-to-raise-up-to-29-billion-in-nasdaq-listing)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/ibm-goes-sub-1nm-develops-0-7nm-class-technology-offering-up-to-50-percent-higher-performance-and-70-percent-higher-energy-efficiency-compared-to-ibms-2nm-class-node)
 
 ---
 
-### 7. A legal tech startup is suing the US government for cutting off access to Claude Fable 5 
+### 4. The AI tokenmaxxing party is crashing over spiraling costs leaked consulting firm audio suggests no one is sure how to measure AI effectiveness 
 
-Legion, a legal tech startup, is suing the US government over access to Claude Fable 5. The startup filed a lawsuit in Washington, D.C. federal court, challenging a June 12 directive from the Commerce Department. The directive restricted access to a technology or tool.
+A leaked Accenture meeting recording reveals companies' AI costs are spiraling out of control. Non-technical employees may be encouraged to stop using AI for non-essential tasks. The effectiveness of AI investments is unclear.
 
-💡 *Government restrictions on AI access may hinder innovation and progress.*
+💡 *Lack of AI effectiveness metrics fuels uncontrolled spending and wastage.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112880-startup-sues-us-government-blocking-access-anthropic-fable.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/the-ai-tokenmaxxing-party-is-crashing-over-spiraling-costs-leaked-consulting-firm-audio-suggests-no-one-is-sure-how-to-measure-ai-effectiveness)
 
 ---
 
-### 8. US Secures Netherlands for Pax Silica Alliance in key win for strategic chip alliance tension remains over MATCH Act restrictions 
+### 5. Qualcomm plans China-specific data center chips new Dragonfly lineup will include nerfed AI accelerators that comply with export thresholds 
 
-The US has secured the Netherlands for the Pax Silica Alliance, a strategic chip alliance aimed at strengthening global semiconductor supply chains. This move is seen as a key win for the US in its efforts to counterbalance China's influence in the tech sector. Tensions remain over restrictions imposed by the MATCH Act.
+Qualcomm plans to bring its Dragonfly data center chips to China, including a new lineup with AI accelerators compliant with export thresholds.
 
-💡 *US strengthens global semiconductor supply chains against China's influence.*
+💡 *Qualcomm adapts to China's export control regulations for competitive edge*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-secures-netherlands-for-pax-silica-alliance-in-key-win-for-strategic-chip-alliance-tension-remains-over-match-act-restrictions)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/qualcomm-plans-china-specific-data-center-chips-built-to-clear-us-export-limits)
+
+---
+
+### 6. HyperX Cloud Stinger 3 Wireless Headset Review: 80 hours and under $100 
+
+The HyperX Cloud Stinger 3 Wireless headset offers 50mm drivers, flip-to-mute mic, and up to 80 hours of battery life at an affordable price under $100.
+
+💡 *Affordable long-lasting wireless gaming headset for extended play sessions*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-stinger-3-wireless-review)
+
+---
+
+### 7. Orange Pi 6 CIX CD8180 12-core Arm SBC gets 2.5GbE networking, smaller form factor, drops battery support 
+
+The Orange Pi 6 SBC features a 12-core Arm Cortex-A720/A520 SoC, up to 32 GB LPDDR5 memory, two 2.5GbE ports, and a smaller form factor than its predecessor.
+
+💡 *Improved networking and compact design boost SBC's industrial and IoT applications.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/25/orange-pi-6-cix-cd8180-12-core-arm-sbc-gets-2-5gbe-networking-smaller-form-factor-drops-battery-support/)
+
+---
+
+### 8. IBM unveils sub-1-nanometer chip architecture that stacks 100 billion transistors onto a fingernail-sized processor 
+
+IBM has unveiled a sub-1-nanometer chip architecture that stacks 100 billion transistors vertically, overcoming traditional scaling limits.
+
+💡 *Revolutionary vertical stacking enables continued transistor density without shrinking components further.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112907-ibm-unveils-sub-1-nanometer-chip-architecture-stacks.html)
+
+---
+
+### 9. Qualcomm unveils sweeping AI infrastructure strategy to take on Nvidia in the data center 
+
+Qualcomm unveils a comprehensive AI infrastructure strategy to compete with Nvidia. The strategy aims to provide efficient and high-performance computing solutions for the data center. This move marks Qualcomm's entry into the rapidly growing AI market.
+
+💡 *Qualcomm challenges Nvidia's dominance in AI data center infrastructure.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112901-qualcomm-unveils-sweeping-ai-infrastructure-strategy-take-nvidia.html)
+
+---
+
+### 10. White House warms to Anthropic after replacing "weirdo" Dario Amodei in talks 
+
+Anthropic's negotiations with the Trump administration are improving after CEO Dario Amodei's absence.
+
+💡 *Dario Amodei's removal helps negotiations between Anthropic and the Trump administration.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112896-white-house-warms-anthropic-after-replacing-weirdo-dario.html)
+
+---
+
+### 11. Asus offers up to 36% off its ZenWiFi mesh routers tri-band Wi-Fi 7 mesh routers starting from $297 
+
+Asus is offering discounts on its ZenWiFi mesh Wi-Fi 7 routers, starting at $297. Customers can save up to 36% on these tri-band routers. This sale provides a chance to upgrade home networks at a lower cost.
+
+💡 *Improve home Wi-Fi coverage with discounted ZenWiFi mesh routers.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/asus-offers-up-to-36-percent-off-its-zenwifi-mesh-routers-tri-band-wi-fi-7-mesh-routers-starting-from-usd297-for-prime-day)
 
 ---
 

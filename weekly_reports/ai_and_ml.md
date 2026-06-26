@@ -1,155 +1,215 @@
 # 🤖 AI & ML
-**Week of June 25, 2026**
+**Week of June 26, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-06-25 11:22
+- **Articles this week:** 20
+- **Report generated:** 2026-06-26 11:32
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Broadcom and OpenAI unveil custom-built Jalape o inference processor OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle ⭐
+### 1. $449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor ⭐
 
-Broadcom and OpenAI have unveiled a custom-built Jalapeño inference processor, a massive reticle-sized ASIC that surpasses existing chips in performance-per-watt. This ASIC was developed in a record nine-month cycle, showcasing the rapid innovation in AI processing technology.
+CHUWI has launched the UniBook laptop with an Intel Core i3-304 Wildcat Lake processor, 8GB RAM, and a 256GB SSD for $449. This budget-friendly laptop offers an entry-level option for consumers interested in the Wildcat Lake series. The CHUWI UniBook features a 14-inch 1920x1200 IPS display.
 
-💡 *Groundbreaking performance-per-watt in AI processing technology achieves rapid innovation*
+💡 *Affordable Wildcat Lake laptop option enters the consumer market.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle)
-
----
-
-### 2. NeoEyes NE503 A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC ⭐
-
-The NeoEyes NE503 is a 4K edge AI camera with a 20 TOPS SoC, offering high-quality monitoring and local AI capabilities.
-
-💡 *Enabling local AI inference for autonomous surveillance and monitoring systems.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/25/neoeyes-ne503-a-1199-edge-ai-camera-based-on-hailo-15h-20-tops-soc/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/26/449-chuwi-unibook-14-inch-laptop-is-powered-by-an-intel-core-3-304-wildcat-lake-processor/)
 
 ---
 
-### 3. Steam Machines will only come with one 16GB stick of RAM company may change this to two 8GB sticks in the future, but the first batch of consoles is limited to single-channel memory 
+### 2. Game designer Sandy Petersen recalls how Quake's development "broke" id Software ⭐
 
-The first batch of Steam Machines will have limited RAM, using a single 16GB stick, potentially hindering performance. This decision likely aims to keep costs low or due to supply constraints. The single-channel memory setup further exacerbates the issue.
+id Software's Quake development significantly impacted the FPS genre in 1996, pushing the boundaries of 3D gaming. The project took a heavy toll on the team, marking a turning point for the studio. Sandy Petersen, an original Doom designer, shared his experience.
 
-💡 *Single 16GB RAM stick limits Steam Machine's performance potential*
+💡 *Quake's development broke id Software, setting the stage for future challenges.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/steam-machines-will-only-come-with-one-16gb-stick-of-ram-company-may-change-this-to-two-8gb-sticks-in-the-future-but-the-first-batch-of-consoles-is-limited-to-single-channel-memory)
-
----
-
-### 4. Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerators touts 6x higher bandwidth-per-watt compared to HBM, 200x capacity compared to on-chip SRAM 
-
-Qualcomm has introduced HBC near-memory AI architecture, which claims a significant improvement in bandwidth-per-watt and capacity. The AI250 and AI350 accelerators reportedly provide 6x higher bandwidth-per-watt compared to HBM and 200x capacity compared to on-chip SRAM. This breakthrough is aimed at addressing the memory wall challenge in AI computing.
-
-💡 *Breaking the memory wall for AI computing efficiency gains.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-reveals-hbc-near-memory-ai-architecture-ai250-and-ai350-accelerators-touts-6x-higher-bandwidth-per-watt-compared-to-hbm-200x-capacity-compared-to-on-chip-sram)
+🔗 [Read Full Article](https://www.techspot.com/news/112902-game-designer-sandy-petersen-recalls-how-quake-development.html)
 
 ---
 
-### 5. Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for SqueezeLite, Snapclient, or ESPHome support 
+### 3. Epic boss Tim Sweeney blasts Steam for putting AI tags on games says move is irresponsible of Valve  
 
-The Louder-ESP32-Mini board adds WiFi and Bluetooth to old speakers, making them smart home compatible with SqueezeLite, Snapclient, or ESPHome support.
+Epic Games' Tim Sweeney criticizes Steam for labeling AI-generated games, calling it irresponsible. He says AI tools increase productivity but the 'AI' label discourages use and harms sales. This could deter developers from using AI tools.
 
-💡 *Upcycle old speakers into WiFi and Bluetooth smart home devices easily.*
+💡 *AI label hurts sales, discouraging developers from using AI tools*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/25/louder-esp32-mini-board-adds-wifi-and-bluetooth-to-old-speakers-for-squeezelite-snapclient-or-esphome-support/)
-
----
-
-### 6. Google Home Speaker debuts with Gemini AI and Matter support 
-
-The new Google Home Speaker features Gemini AI and Matter support, offering enhanced smart home capabilities and a more natural voice experience.
-
-💡 *Google Home Speaker advances smart home automation with Gemini AI integration.*
-
-🔗 [Read Full Article](https://www.techspot.com/products/audio-video/google-home-speaker.326390/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/epic-boss-tim-sweeney-blasts-steam-for-putting-ai-tags-on-games-says-move-is-irresponsible-of-valve)
 
 ---
 
-### 7. SK hynix files to raise up to $29 billion in historic Nasdaq listing all proceeds going to advanced AI memory fabs and EUV tool orders 
+### 4. The AI tokenmaxxing party is crashing over spiraling costs leaked consulting firm audio suggests no one is sure how to measure AI effectiveness 
 
-SK hynix seeks to raise up to $29 billion on Nasdaq through an American depositary receipt listing, with all proceeds going towards advanced AI memory fabs and EUV tool orders.
+A leaked Accenture meeting recording reveals companies' AI costs are spiraling out of control. Non-technical employees may be encouraged to stop using AI for non-essential tasks. The effectiveness of AI investments is unclear.
 
-💡 *Massive investment in AI memory and EUV tooling drives tech advancements.*
+💡 *Lack of AI effectiveness metrics fuels uncontrolled spending and wastage.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/sk-hynix-files-to-raise-up-to-29-billion-in-nasdaq-listing)
-
----
-
-### 8. AI data center boom hits a human bottleneck critical skilled labor shortages could slow deployment despite billions in funding 
-
-Data center construction faces human bottleneck due to skilled labor shortages. Despite billions in funding, deployment may be slowed by the lack of skilled hands to assemble data centers. This shortage hinders the growth of the AI data center boom.
-
-💡 *Shortage of skilled labor hinders AI data center deployment growth.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-boom-hits-a-human-bottleneck-critical-skilled-labor-shortages-could-slow-deployment-despite-billions-in-funding)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/the-ai-tokenmaxxing-party-is-crashing-over-spiraling-costs-leaked-consulting-firm-audio-suggests-no-one-is-sure-how-to-measure-ai-effectiveness)
 
 ---
 
-### 9. Nvidia's banned Blackwell AI servers are selling for $1.1 million on China's black market 
+### 5. Qualcomm plans China-specific data center chips new Dragonfly lineup will include nerfed AI accelerators that comply with export thresholds 
 
-Nvidia's Blackwell AI servers are being sold on China's black market for $1.1 million, despite export restrictions.
+Qualcomm plans to bring its Dragonfly data center chips to China, including a new lineup with AI accelerators compliant with export thresholds.
 
-💡 *Evasion of US export controls poses national security risks.*
+💡 *Qualcomm adapts to China's export control regulations for competitive edge*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112893-nvidia-banned-blackwell-ai-servers-selling-11-million.html)
-
----
-
-### 10. Europe's digital euro is one step closer, designed to cut out Visa and Mastercard 
-
-The European Parliament has approved the digital euro for online and offline payments across Europe, processed through an account-based system for online transactions and local storage devices for offline ones.
-
-💡 *Reducing reliance on Visa and Mastercard payment processing fees.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112886-europe-digital-euro-one-step-closer-designed-cut.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/qualcomm-plans-china-specific-data-center-chips-built-to-clear-us-export-limits)
 
 ---
 
-### 11. LastPass customer names, emails, and support records stolen in third-party breach, vaults unaffected 
+### 6. IBM unveils sub-1-nanometer chip architecture that stacks 100 billion transistors onto a fingernail-sized processor 
 
-LastPass customer data was stolen in a breach of a third-party system, not affecting its password manager infrastructure. Customer vaults remain secure, and no disruption to products and services occurred. The incident is separate from previous security incidents.
+IBM has unveiled a sub-1-nanometer chip architecture that stacks 100 billion transistors vertically, overcoming traditional scaling limits.
 
-💡 *Customer data security separate from password manager infrastructure matters*
+💡 *Revolutionary vertical stacking enables continued transistor density without shrinking components further.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112881-lastpass-hackers-stole-customer-support-records-through-third.html)
-
----
-
-### 12. James Webb Telescope uncovers salt clouds on a strange pink planet 57 light-years away 
-
-The James Webb Telescope captured direct spectroscopic data from GJ504b, a pink planet 57 light-years away, revealing salt clouds for the first time. This was achieved in just two hours, overcoming countless previous observation attempts.
-
-💡 *Breakthrough spectroscopic data from distant exoplanet reveals new atmospheric features.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112879-james-webb-telescope-uncovers-salt-clouds-strange-pink.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112907-ibm-unveils-sub-1-nanometer-chip-architecture-stacks.html)
 
 ---
 
-### 13. GTA 6 confirmed at $80 for the standard edition and $100 for the Ultimate Edition 
+### 7. Valve quietly changes Steam Machine's 4K/60fps claim after performance criticism 
 
-Rockstar Games confirmed GTA 6 prices and a single-player launch. The standard edition will cost $80, while the Ultimate Edition will cost $100. Preorders start today at midnight.
+Valve has altered the language on Steam Machines regarding 4K/60fps gaming after criticism, now listing FSR 4.1 support. This change follows criticism of the original hardware and pricing restrictions. The updated listing aims to provide a more accurate representation of capabilities.
 
-💡 *GTA 6 single-player focus shifts market dynamics and player expectations.*
+💡 *Valve adjusts Steam Machine claims due to performance and pricing concerns*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112883-gta-6-standard-edition-confirmed-cost-80-while.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112910-valve-quietly-changes-steam-machine-4k60fps-claim-after.html)
 
 ---
 
-### 14. US Secures Netherlands for Pax Silica Alliance in key win for strategic chip alliance tension remains over MATCH Act restrictions 
+### 8. France's video game union is striking all summer as more than 1,000 workers lose their jobs 
 
-The US has secured the Netherlands for the Pax Silica Alliance, a strategic chip alliance aimed at strengthening global semiconductor supply chains. This move is seen as a key win for the US in its efforts to counterbalance China's influence in the tech sector. Tensions remain over restrictions imposed by the MATCH Act.
+France's video game union, STJV, is striking over management practices and job losses, with over 1,000 workers affected.
 
-💡 *US strengthens global semiconductor supply chains against China's influence.*
+💡 *France's video game industry faces crisis due to poor management practices.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-secures-netherlands-for-pax-silica-alliance-in-key-win-for-strategic-chip-alliance-tension-remains-over-match-act-restrictions)
+🔗 [Read Full Article](https://www.techspot.com/news/112889-french-video-game-union-stjv-calls-strike-against.html)
+
+---
+
+### 9. OpenAI debuts Jalape o, its first custom AI chip to cut ChatGPT costs and reduce Nvidia dependency 
+
+OpenAI has debuted Jalapeo, its first custom AI chip, to reduce ChatGPT costs and Nvidia dependency.
+
+💡 *Controlling hardware stack is crucial for AI efficiency and cost savings.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112890-openai-debuts-jalapeo-custom-chip-built-cut-chatgpt.html)
+
+---
+
+### 10. Get a Radeon RX 9060 XT 16GB upgrade for just $399 take your pick from four attainable options at Newegg now 
+
+Newegg offers four $399 Radeon RX 9060 XT 16GB upgrade options, a rare deal in the current RAM price crunch. This provides an affordable path for those seeking to upgrade their graphics cards with 16GB of RAM. Newegg's options cater to various needs and preferences.
+
+💡 *Affordable high-capacity graphics cards are a rare market find now.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-a-radeon-rx-9060-xt-16gb-upgrade-for-just-usd399-take-your-pick-from-four-attainable-options-at-newegg-now)
+
+---
+
+### 11. Microsoft increases Xbox Series console prices for the third time in two years, kills off 2TB model $100-$150 upswings on every model 
+
+Microsoft has raised Xbox Series console prices for the third time in two years, increasing the prices of all models except the now-discontinued 2TB model by $100-$150.
+
+💡 *Price hikes may impact consumer demand and Xbox sales performance.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/microsoft-increases-xbox-series-console-prices-for-the-third-time-in-two-years-kills-off-2tb-model-usd100-usd150-upswings-on-every-model)
+
+---
+
+### 12. RAM crisis bites Apple as unprecedented Mac and iPad price rises arrive cheapest MacBook Pro price hiked by $400 to $1,999 
+
+Apple has raised prices for all current Mac and iPad models, including a $400 hike to the cheapest MacBook Pro, reaching $1,999. The price increase affects entry-level models, with some rising by as much as $500. This move marks an unprecedented decision for the tech giant.
+
+💡 *Apple's price hike may impact affordability and sales momentum.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/ram-crisis-bites-apple-as-unprecedented-mac-and-ipad-price-rises-arrive-cheapest-macbook-pro-price-hiked-by-usd400-to-usd1-999)
+
+---
+
+### 13. Windows 10's free security updates now extend to October 2027 
+
+Microsoft will continue providing Windows 10 security updates until October 12, 2027. This change extends the support period without a formal announcement. Users have more time to decide on upgrading.
+
+💡 *Extended security support gives users extra time to transition smoothly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112904-windows-10-free-security-updates-now-extend-october.html)
+
+---
+
+### 14. Anthropic accuses China's Alibaba of stealing Claude's AI capabilities 
+
+Anthropic accused Alibaba of corporate espionage to steal AI capabilities from Claude.
+
+💡 *Intellectual property theft threatens global AI innovation and security*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112897-anthropic-accuses-china-alibaba-stealing-claude-ai-capabilities.html)
+
+---
+
+### 15. Micron CEO expects memory shortages to stretch beyond 2027 as AI spending surges 
+
+Micron CEO Sanjay Mehrotra expects memory shortages to continue beyond 2027 due to AI-driven demand and supply constraints.
+
+💡 *AI spending causes memory shortages, impacting future tech development.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112894-micron-ceo-expects-memory-shortages-stretch-beyond-2027.html)
+
+---
+
+### 16. Qualcomm unveils sweeping AI infrastructure strategy to take on Nvidia in the data center 
+
+Qualcomm unveils a comprehensive AI infrastructure strategy to compete with Nvidia. The strategy aims to provide efficient and high-performance computing solutions for the data center. This move marks Qualcomm's entry into the rapidly growing AI market.
+
+💡 *Qualcomm challenges Nvidia's dominance in AI data center infrastructure.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112901-qualcomm-unveils-sweeping-ai-infrastructure-strategy-take-nvidia.html)
+
+---
+
+### 17. All MacBooks and iPads just got $200 or more expensive iPhones are the last holdout 
+
+Apple has increased prices for many products, excluding iPhones, due to cost inflation. The price hikes range from $200, affecting MacBooks and iPads. This move follows Apple's announcement about being affected by the AI-driven memory crisis.
+
+💡 *Price increases target non-iPhone Apple products due to cost inflation*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112899-apple-sweeping-price-hikes-hit-most-devices-including.html)
+
+---
+
+### 18. REI pulls AI-generated bike ad after Meta turns it into a two-handlebar monstrosity 
+
+REI pulled an AI-generated bike ad featuring a unique, two-handlebar design after Meta intervened, citing issues with the ad's appearance.
+
+💡 *AI-generated content can lack human judgment and cause unintended results.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112895-rei-pulls-ai-generated-bike-ad-after-meta.html)
+
+---
+
+### 19. The Halo remake launches July 28 with new missions, four-player co-op, and Unreal Engine 5 visuals 
+
+The Halo remake launches July 28 with new missions and co-op features. The remake features Unreal Engine 5 visuals and revamped gameplay elements. This update aims to refresh the classic game.
+
+💡 *Revamped gameplay refreshes a classic game for modern audiences.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112891-halo-remake-launches-july-28-new-missions-four.html)
+
+---
+
+### 20. Nintendo Switch 2 is once again $399 at Woot for new customers, $419 for returning customers with code save up to $50 while supplies last 
+
+Woot is offering the Nintendo Switch 2 at a discounted price of $399 for new customers and $419 for returning customers, with the option to save up to $50 using a code while supplies last.
+
+💡 *Discounted Nintendo Switch 2 offers significant savings for gamers.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/nintendo-switch-2-is-once-again-usd399-at-woot-for-new-customers-usd419-for-returning-customers-with-code-save-up-to-usd50-while-supplies-last)
 
 ---
 

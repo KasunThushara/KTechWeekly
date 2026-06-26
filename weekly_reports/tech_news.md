@@ -1,105 +1,75 @@
 # 📰 Tech News
-**Week of June 25, 2026**
+**Week of June 26, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-06-25 11:22
+- **Articles this week:** 6
+- **Report generated:** 2026-06-26 11:32
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. China just built the world's most powerful supercomputer using Huawei chips and no GPUs ⭐
+### 1. Game designer Sandy Petersen recalls how Quake's development "broke" id Software ⭐
 
-China has built the world's most powerful supercomputer, LineShine, using Huawei chips and no GPUs.
+id Software's Quake development significantly impacted the FPS genre in 1996, pushing the boundaries of 3D gaming. The project took a heavy toll on the team, marking a turning point for the studio. Sandy Petersen, an original Doom designer, shared his experience.
 
-💡 *China's technological advancements challenge global supercomputing dominance*
+💡 *Quake's development broke id Software, setting the stage for future challenges.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112875-china-built-world-most-powerful-supercomputer-using-huawei.html)
-
----
-
-### 2. Steam Machines will only come with one 16GB stick of RAM company may change this to two 8GB sticks in the future, but the first batch of consoles is limited to single-channel memory 
-
-The first batch of Steam Machines will have limited RAM, using a single 16GB stick, potentially hindering performance. This decision likely aims to keep costs low or due to supply constraints. The single-channel memory setup further exacerbates the issue.
-
-💡 *Single 16GB RAM stick limits Steam Machine's performance potential*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/steam-machines-will-only-come-with-one-16gb-stick-of-ram-company-may-change-this-to-two-8gb-sticks-in-the-future-but-the-first-batch-of-consoles-is-limited-to-single-channel-memory)
+🔗 [Read Full Article](https://www.techspot.com/news/112902-game-designer-sandy-petersen-recalls-how-quake-development.html)
 
 ---
 
-### 3. Grand Theft Auto 6 preorders begin tonight at midnight local time in the US; here's where to buy get yours now, it's in the garage and ready to roll 
+### 2. Riot Vanguard finally drops its controversial always-on requirement for anti-cheat new on-demand mode requires a strict Windows 11 security stack 
 
-GTA 6 preorders open tonight at midnight local US time. Two editions available: Standard and Ultimate. Preorder from various retailers now.
+Riot Games is dropping the always-on requirement for Vanguard anti-cheat. The change allows players to opt out of loading Vanguard on startup. A new on-demand mode requires a strict Windows 11 security stack.
 
-💡 *Exclusive early access to highly anticipated video game experience.*
+💡 *Gaming platform prioritizes player choice and system security requirements*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/grand-theft-auto-6-preorders-begin-tonight-at-midnight-local-time-in-the-us-heres-where-to-buy-get-yours-now-its-in-the-garage-and-ready-to-roll)
-
----
-
-### 4. Pay just $149.99 for the TP-Link Archer Wi-Fi 7 router with 9.3 Gbps of bandwidth, now 40 percent off high-powered BE550 router comes with a full complement of 2.5 Gbps LAN ports, too 
-
-Get the TP-Link Archer BE550 Wi-Fi 7 router for $149.99, a 40% discount. This high-powered router offers 9.3 Gbps bandwidth and 2.5 Gbps LAN ports.
-
-💡 *Upgrade to Wi-Fi 7 for faster and more reliable internet access.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pay-just-usd149-99-for-the-tp-link-archer-wi-fi-7-router-with-9-3-gbps-of-bandwidth-now-40-percent-off-high-powered-be550-router-comes-with-a-full-complement-of-2-5-gbps-lan-ports-too)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/riot-vanguard-adds-an-on-demand-mode-that-stops-anti-cheat-loading-at-boot-on-secured-windows-11-pcs)
 
 ---
 
-### 5. AI data center boom hits a human bottleneck critical skilled labor shortages could slow deployment despite billions in funding 
+### 3. France's video game union is striking all summer as more than 1,000 workers lose their jobs 
 
-Data center construction faces human bottleneck due to skilled labor shortages. Despite billions in funding, deployment may be slowed by the lack of skilled hands to assemble data centers. This shortage hinders the growth of the AI data center boom.
+France's video game union, STJV, is striking over management practices and job losses, with over 1,000 workers affected.
 
-💡 *Shortage of skilled labor hinders AI data center deployment growth.*
+💡 *France's video game industry faces crisis due to poor management practices.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-boom-hits-a-human-bottleneck-critical-skilled-labor-shortages-could-slow-deployment-despite-billions-in-funding)
-
----
-
-### 6. Silicon Valley's longevity drug obsession is facing its first real reality check 
-
-Bryan Johnson, a tech entrepreneur, has stopped taking Rapamycin for longevity. He had been self-testing the immunosuppressant since 2019 as part of his anti-aging regimen. Johnson's decision may mark the beginning of a new reality check for Silicon Valley's longevity drug obsession.
-
-💡 *Rapamycin's effectiveness for human longevity remains unproven by rigorous scientific testing*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112884-silicon-valley-longevity-drug-obsession-facing-first-real.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112889-french-video-game-union-stjv-calls-strike-against.html)
 
 ---
 
-### 7. A legal tech startup is suing the US government for cutting off access to Claude Fable 5 
+### 4. The creators of Tetris and the Rubik's Cube just unveiled a puzzle that combines both 
 
-Legion, a legal tech startup, is suing the US government over access to Claude Fable 5. The startup filed a lawsuit in Washington, D.C. federal court, challenging a June 12 directive from the Commerce Department. The directive restricted access to a technology or tool.
+Tetris creator Alexei Pajitnov and Rubik's Cube inventor Erno Rubik collaborate on a new puzzle.
 
-💡 *Government restrictions on AI access may hinder innovation and progress.*
+💡 *Iconic puzzle designers unite, creating a revolutionary new gaming experience.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112880-startup-sues-us-government-blocking-access-anthropic-fable.html)
-
----
-
-### 8. GTA 6 confirmed at $80 for the standard edition and $100 for the Ultimate Edition 
-
-Rockstar Games confirmed GTA 6 prices and a single-player launch. The standard edition will cost $80, while the Ultimate Edition will cost $100. Preorders start today at midnight.
-
-💡 *GTA 6 single-player focus shifts market dynamics and player expectations.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112883-gta-6-standard-edition-confirmed-cost-80-while.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112892-creators-tetris-rubik-cube-unveiled-puzzle-combines-both.html)
 
 ---
 
-### 9. Sony's best-selling PlayStation games this year are mostly ones it never brought to PC 
+### 5. The Halo remake launches July 28 with new missions, four-player co-op, and Unreal Engine 5 visuals 
 
-Exclusive PlayStation titles have seen increased sales on the console, outperforming PC-ported games. According to Alinea Analytics, these exclusives have dominated first-party PlayStation game sales in 2026. The trend suggests a potential benefit to keeping select titles console-only.
+The Halo remake launches July 28 with new missions and co-op features. The remake features Unreal Engine 5 visuals and revamped gameplay elements. This update aims to refresh the classic game.
 
-💡 *Exclusive titles boost console sales, benefiting Sony's profit margins.*
+💡 *Revamped gameplay refreshes a classic game for modern audiences.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112874-sony-best-selling-playstation-games-year-mostly-ones.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112891-halo-remake-launches-july-28-new-missions-four.html)
+
+---
+
+### 6. Micron inks long-term supply agreements worth $100 billion says it has no idea when RAM crisis will end 
+
+Micron has signed 16 long-term agreements with customers worth $100 billion, securing DRAM and NAND supply. These agreements are set to provide stability for both Micron and its customers. The exact timing of the RAM crisis resolution remains uncertain.
+
+💡 *Uncertainty surrounding the RAM crisis persists despite Micron's supply agreements.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/micron-inks-long-term-supply-agreements-worth-usd100-billion-says-it-has-no-idea-when-ram-crisis-will-end)
 
 ---
 
