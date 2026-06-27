@@ -1,408 +1,267 @@
 [
   {
-    "title": "IBM goes sub-1nm, develops 0.7nm-class technology offering up to 50% higher performance and 70% higher energy efficiency compared to IBM's 2nm-class node",
-    "summary": "IBM has developed a 0.7nm-class technology with up to 50% higher performance and 70% higher energy efficiency compared to its 2nm-class node, leveraging nanostack transistors.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/ibm-goes-sub-1nm-develops-0-7nm-class-technology-offering-up-to-50-percent-higher-performance-and-70-percent-higher-energy-efficiency-compared-to-ibms-2nm-class-node",
+    "title": "Commodore drops Callback flip phone by $100 by defaulting to recycled memory chips and unbundling the earphones Callback 8020 drops to $399 as skyrocketing memory prices punish smartphone buyers",
+    "summary": "Commodore has lowered the price of its Callback 8020 flip phone to $399, making it more affordable for consumers.",
+    "link": "https://www.tomshardware.com/phones/commodore-drops-callback-flip-ohine-to-399-by-defaulting-to-recycled-memory-chips",
     "categories": [
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.925887",
-    "insight": "Advancing transistor design enables unprecedented performance and efficiency gains."
-  },
-  {
-    "title": "Rosewill s M.2 SSD Cloner and Eraser drops to its lowest-ever price of $47 become an IT hero, or just save yourself some time and frustration",
-    "summary": "Clone and erase NVMe drives with Rosewill's M.2 SSD Cloner and Eraser for $47, a price drop from its previous value. This tool allows for offline or connected PC cloning and erasing of NVMe drives. Save time and reduce frustration with this affordable solution.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/rosewills-m-2-ssd-cloner-and-eraser-drops-to-its-lowest-ever-price-of-usd47-become-an-it-hero-or-just-save-yourself-some-time-and-frustration",
-    "categories": [
-      "Hardware"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-06-26T11:30:51.926039",
-    "insight": "Effortlessly manage NVMe drives with a budget-friendly cloning tool."
+    "processed_date": "2026-06-27T10:35:19.179871",
+    "insight": "Skyrocketing memory prices force phone manufacturers to cut costs creatively."
   },
   {
-    "title": "Asus offers up to 36% off its ZenWiFi mesh routers tri-band Wi-Fi 7 mesh routers starting from $297",
-    "summary": "Asus is offering discounts on its ZenWiFi mesh Wi-Fi 7 routers, starting at $297. Customers can save up to 36% on these tri-band routers. This sale provides a chance to upgrade home networks at a lower cost.",
-    "link": "https://www.tomshardware.com/networking/routers/asus-offers-up-to-36-percent-off-its-zenwifi-mesh-routers-tri-band-wi-fi-7-mesh-routers-starting-from-usd297-for-prime-day",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-26T11:30:51.926180",
-    "insight": "Improve home Wi-Fi coverage with discounted ZenWiFi mesh routers."
-  },
-  {
-    "title": "Nintendo Switch 2 is once again $399 at Woot for new customers, $419 for returning customers with code save up to $50 while supplies last",
-    "summary": "Woot is offering the Nintendo Switch 2 at a discounted price of $399 for new customers and $419 for returning customers, with the option to save up to $50 using a code while supplies last.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/nintendo-switch-2-is-once-again-usd399-at-woot-for-new-customers-usd419-for-returning-customers-with-code-save-up-to-usd50-while-supplies-last",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-26T11:30:51.926285",
-    "insight": "Discounted Nintendo Switch 2 offers significant savings for gamers."
-  },
-  {
-    "title": "Get a Radeon RX 9060 XT 16GB upgrade for just $399 take your pick from four attainable options at Newegg now",
-    "summary": "Newegg offers four $399 Radeon RX 9060 XT 16GB upgrade options, a rare deal in the current RAM price crunch. This provides an affordable path for those seeking to upgrade their graphics cards with 16GB of RAM. Newegg's options cater to various needs and preferences.",
-    "link": "https://www.tomshardware.com/pc-components/get-a-radeon-rx-9060-xt-16gb-upgrade-for-just-usd399-take-your-pick-from-four-attainable-options-at-newegg-now",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-26T11:30:51.926393",
-    "insight": "Affordable high-capacity graphics cards are a rare market find now."
-  },
-  {
-    "title": "Microsoft increases Xbox Series console prices for the third time in two years, kills off 2TB model $100-$150 upswings on every model",
-    "summary": "Microsoft has raised Xbox Series console prices for the third time in two years, increasing the prices of all models except the now-discontinued 2TB model by $100-$150.",
-    "link": "https://www.tomshardware.com/video-games/xbox/microsoft-increases-xbox-series-console-prices-for-the-third-time-in-two-years-kills-off-2tb-model-usd100-usd150-upswings-on-every-model",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-26T11:30:51.926509",
-    "insight": "Price hikes may impact consumer demand and Xbox sales performance."
-  },
-  {
-    "title": "Epic boss Tim Sweeney blasts Steam for putting AI tags on games says move is irresponsible of Valve ",
-    "summary": "Epic Games' Tim Sweeney criticizes Steam for labeling AI-generated games, calling it irresponsible. He says AI tools increase productivity but the 'AI' label discourages use and harms sales. This could deter developers from using AI tools.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/epic-boss-tim-sweeney-blasts-steam-for-putting-ai-tags-on-games-says-move-is-irresponsible-of-valve",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.926629",
-    "insight": "AI label hurts sales, discouraging developers from using AI tools"
-  },
-  {
-    "title": "Scalpers circle AMD's Ryzen 7 5800X3D 10th Anniversary Edition, asking for $600 or more re-released CPU sees inconsistent inventory on release day",
-    "summary": "Scalpers are trying to capitalize on the Ryzen 7 5800X3D 10th Anniversary Edition, listing it for nearly double its suggested retail price.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/scalpers-circle-amds-ryzen-7-5800x3d-10th-anniversary-edition-asking-for-usd600-or-more-re-released-cpu-sees-inconsistent-inventory-on-release-day",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.926746",
-    "insight": "Scalpers exploit Anniversary Edition's limited supply and high demand quickly."
-  },
-  {
-    "title": "AMD Ryzen 7 5800X3D re-review: Maxing out DDR4 s gaming potential",
-    "summary": "AMD's Ryzen 7 5800X3D is re-released to capitalize on DDR4 availability. We revisit this CPU to see how it compares to modern DDR4-based gaming options at similar price points. This re-review aims to determine the chip's current value proposition.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-5800x3d-2026-cpu-review",
+    "title": "RAM crisis provokes enthusiast to try Windows 11 on DDR1-era hardware other key vintage components included the Core 2 Q6600 and ATI Radeon HD 4650 AGP",
+    "summary": "An enthusiast successfully runs Windows 11 on a Core 2 Quad Q6600 processor paired with a DDR1 motherboard and an ATI Radeon HD 4650 AGP graphics card, demonstrating the operating system's capabilities on vintage hardware.",
+    "link": "https://www.tomshardware.com/software/windows/ram-crisis-provokes-enthusiast-to-try-windows-11-on-ddr1-era-hardware-other-key-vintage-components-included-the-core-2-q6600-and-ati-radeon-hd-4650-agp",
     "categories": [
       "GPUs",
       "Hardware"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-06-26T11:30:51.926889",
-    "insight": "Maxing out DDR4 gaming potential remains a viable budget-friendly solution"
-  },
-  {
-    "title": "Riot Vanguard finally drops its controversial always-on requirement for anti-cheat new on-demand mode requires a strict Windows 11 security stack",
-    "summary": "Riot Games is dropping the always-on requirement for Vanguard anti-cheat. The change allows players to opt out of loading Vanguard on startup. A new on-demand mode requires a strict Windows 11 security stack.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/riot-vanguard-adds-an-on-demand-mode-that-stops-anti-cheat-loading-at-boot-on-secured-windows-11-pcs",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.927005",
-    "insight": "Gaming platform prioritizes player choice and system security requirements"
-  },
-  {
-    "title": "The AI tokenmaxxing party is crashing over spiraling costs leaked consulting firm audio suggests no one is sure how to measure AI effectiveness",
-    "summary": "A leaked Accenture meeting recording reveals companies' AI costs are spiraling out of control. Non-technical employees may be encouraged to stop using AI for non-essential tasks. The effectiveness of AI investments is unclear.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-ai-tokenmaxxing-party-is-crashing-over-spiraling-costs-leaked-consulting-firm-audio-suggests-no-one-is-sure-how-to-measure-ai-effectiveness",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.927137",
-    "insight": "Lack of AI effectiveness metrics fuels uncontrolled spending and wastage."
-  },
-  {
-    "title": "Asus beta BIOS updates restore Ryzen 9000 memory encryption ahead of AMD s July timeline TSME returns to select AM5 boards after silent backlash over removal",
-    "summary": "Asus has released beta BIOS updates to restore TSME support for Ryzen 9000 CPUs on select AM5 motherboards. This update brings back a feature previously removed, ahead of AMD's planned July timeline. The move appears to be a response to user backlash.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/asus-beta-bios-updates-restore-ryzen-9000-memory-encryption-ahead-of-amds-july-timeline-tsme-returns-to-select-am5-boards-after-silent-backlash-over-removal",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.927252",
-    "insight": "AMD's removal sparks user revolt, prompting Asus to restore TSME"
-  },
-  {
-    "title": "RAM crisis bites Apple as unprecedented Mac and iPad price rises arrive cheapest MacBook Pro price hiked by $400 to $1,999",
-    "summary": "Apple has raised prices for all current Mac and iPad models, including a $400 hike to the cheapest MacBook Pro, reaching $1,999. The price increase affects entry-level models, with some rising by as much as $500. This move marks an unprecedented decision for the tech giant.",
-    "link": "https://www.tomshardware.com/laptops/macbooks/ram-crisis-bites-apple-as-unprecedented-mac-and-ipad-price-rises-arrive-cheapest-macbook-pro-price-hiked-by-usd400-to-usd1-999",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-06-26T11:30:51.927388",
-    "insight": "Apple's price hike may impact affordability and sales momentum."
+    "processed_date": "2026-06-27T10:35:19.180051",
+    "insight": "Windows 11's compatibility spans multiple generations of hardware unexpectedly."
   },
   {
-    "title": "Qualcomm plans China-specific data center chips new Dragonfly lineup will include nerfed AI accelerators that comply with export thresholds",
-    "summary": "Qualcomm plans to bring its Dragonfly data center chips to China, including a new lineup with AI accelerators compliant with export thresholds.",
-    "link": "https://www.tomshardware.com/tech-industry/qualcomm-plans-china-specific-data-center-chips-built-to-clear-us-export-limits",
+    "title": "TP-Link's 8-port 2.5G unmanaged Ethernet switch is a smokin' bargain at $50 upgrade your home network for half price",
+    "summary": "TP-Link's TL-SG108S-M2 offers 8 2.5 GbE ports at an affordable price of under $50, making it a budget-friendly upgrade for home networks.",
+    "link": "https://www.tomshardware.com/networking/network-switches/tp-links-8-port-2-5g-unmanaged-ethernet-switch-is-a-smokin-bargain-at-usd50-upgrade-your-home-network-for-half-price",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.927528",
-    "insight": "Qualcomm adapts to China's export control regulations for competitive edge"
+    "quality_score": 0,
+    "processed_date": "2026-06-27T10:35:19.180181",
+    "insight": "Future-proof home networking for under $50, a significant price drop"
   },
   {
-    "title": "HyperX Cloud Stinger 3 Wireless Headset Review: 80 hours and under $100",
-    "summary": "The HyperX Cloud Stinger 3 Wireless headset offers 50mm drivers, flip-to-mute mic, and up to 80 hours of battery life at an affordable price under $100.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-stinger-3-wireless-review",
+    "title": "Gigabyte Aero X16 gaming laptop delivers RTX 5060, 32GB RAM, and a 16-inch 165Hz 1600p display for 21% off",
+    "summary": "The Gigabyte Aero X16 gaming laptop features a Ryzen AI 7 350 CPU, 32GB of RAM, and an RTX 5060, paired with a 16-inch 165Hz 1600p display.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/gigabyte-aero-x16-gaming-laptop-delivers-rtx-5060-32gb-ram-and-16-inch-165hz-1600p-display-for-usd1-099",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-27T10:35:19.180297",
+    "insight": "Powerful laptop offers strong specs at an affordable discounted price"
+  },
+  {
+    "title": "Save $250 on this AMD AM5 bundle, get Samsung 990 Pro SSD for basically free grab the AMD Ryzen 5 9600X, Gigabyte B850 Aorus Elite motherboard, and 990 Pro 1TB SSD for 36% off",
+    "summary": "This Newegg bundle offers a discounted price for three PC components, including AMD's Ryzen 5 9600X processor, Gigabyte B850 motherboard, and Samsung 990 Pro 1TB SSD, totaling 36% off the original price.",
+    "link": "https://www.tomshardware.com/pc-components/save-usd250-on-this-amd-am5-bundle-get-samsung-990-pro-ssd-for-basically-free-grab-the-amd-ryzen-5-9600x-gigabyte-b850-aorus-elite-motherboard-and-990-pro-1tb-ssd-for-36-percent-off",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-27T10:35:19.180439",
+    "insight": "Significant savings on high-quality PC components for budget-conscious buyers."
+  },
+  {
+    "title": "Sony WH-1000XM5 active noise-canceling headphones for an all-time low $198 at Amazon audiophile-grade audio and ANC for an affordable price",
+    "summary": "Get audiophile-grade audio and ANC at an affordable price of $198 on Amazon",
+    "link": "https://www.tomshardware.com/pc-components/sony-wh-1000xm5-active-noise-canceling-headphones-for-an-all-time-low-usd198-at-amazon-audiophile-grade-audio-and-anc-for-an-affordable-price",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-27T10:35:19.180573",
+    "insight": "Exceptional noise-canceling tech meets budget-friendly price point"
+  },
+  {
+    "title": "Asus' ROG Zephyrus G16 with an RTX 5070 & 240Hz OLED display is on sale for just $1,575 Save $575 on an excellent gaming laptop with a 16-core flagship CPU & top-tier build quality",
+    "summary": "Asus' ROG Zephyrus G16 gaming laptop features a 16-core CPU, 16GB RAM, and a 1TB SSD, delivering solid performance and a stunning 240Hz OLED display.",
+    "link": "https://www.tomshardware.com/pc-components/asus-rog-zephyrus-g16-gaming-laptop-with-an-rtx-5070-and-240hz-oled-display-is-on-sale-for-usd757-off-save-on-an-excellent-laptop-with-a-16-core-flagship-cpu-and-top-tier-build-quality",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-27T10:35:19.180724",
+    "insight": "Top-tier gaming performance at a significantly discounted price point."
+  },
+  {
+    "title": "OpenAI's ChatGPT-5.6 gets the same banhammer treatment as Anthropic s Mythos from the federal government source says that Washington cautioned OpenAI against releasing the model without receiving approval",
+    "summary": "The U.S. government is requesting access to AI models 30 days prior to public release. OpenAI is voluntarily complying with the executive order, but seeks a more sustainable approach for future releases. Washington has cautioned OpenAI against releasing ChatGPT-5.6 without approval.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-chatgpt-5-6-gets-the-same-banhammer-treatment-as-anthropics-mythos-from-the-federal-government-source-says-that-washington-cautioned-openai-against-releasing-the-model-without-receiving-approval",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-27T10:35:19.180874",
+    "insight": "U.S. government seeks control over powerful AI model releases."
+  },
+  {
+    "title": "Framework's Laptop 13 Pro DIY Edition now costs less than before, but a CPU price hike might be coming Cheaper PCIe 5.0 drives from Adata upgrade customers from 500GB to 1TB for free",
+    "summary": "Framework's Laptop 13 Pro DIY Edition has become more affordable, while existing customers will receive a free upgrade from 500GB to 1TB PCIe 5.0 SSDs. However, a potential CPU price hike looms, offsetting some of the cost savings. The move is intended to enhance the laptop's value proposition.",
+    "link": "https://www.tomshardware.com/laptops/frameworks-laptop-13-pro-diy-edition-now-costs-less-than-before-but-a-cpu-price-hike-might-be-coming-cheaper-pcie-5-0-drives-from-adata-upgrade-customers-from-500gb-to-1tb-for-free",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-27T10:35:19.181030",
+    "insight": "Cheaper storage may not offset future CPU price increases"
+  },
+  {
+    "title": "Apple will skip its high-end M6 Mac chips and fast-track an AI-focused M7 generation for 2027, report claims may release a base M6 chip for entry-level Macs this year",
+    "summary": "Apple will release a base M6 chip for entry-level Macs this year, skipping high-end models to fast-track AI-focused M7 chips in 2027.",
+    "link": "https://www.tomshardware.com/tech-industry/apple-will-skip-its-high-end-m6-mac-chips-and-fast-track-an-ai-focused-m7-generation-for-2027",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-27T10:35:19.181159",
+    "insight": "Accelerated AI chip development prioritizes future innovation over immediate high-performance needs."
+  },
+  {
+    "title": "Solidigm VP talks PCIe 6.0 SSDs, next-gen floating gate NAND, liquid cooled storage and more Avi Shetty, VP of AI, Solutions & Market Enablement discusses the future of enterprise storage tech",
+    "summary": "Solidigm's VP, Avi Shetty, discusses future enterprise storage technologies, including PCIe 6.0 SSDs, next-gen floating gate NAND, and liquid-cooled storage. He highlights the importance of AI in driving demand for high-capacity, denser storage solutions.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/solidigm-vp-talks-pcie-6-0-ssds-next-gen-floating-gate-nand-liquid-cooled-storage-and-more-avi-shetty-vp-of-ai-solutions-and-market-enablement-discusses-the-future-of-enterprise-storage-tech",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-27T10:35:19.181291",
+    "insight": "AI fuels demand for denser, high-capacity NAND flash storage"
+  },
+  {
+    "title": "AMD Ryzen 7 5800X3D vs Intel Core i7-14700K faceoff A new battle for DDR4 supremacy in 2026",
+    "summary": "In a showdown between the AMD Ryzen 7 5800X3D and Intel Core i7-14700K, we compared their performance using DDR4 memory in various tasks such as gaming, rendering, encoding, and efficiency. Our tests revealed the strengths and weaknesses of each CPU in 2026. The Ryzen 7 5800X3D's performance is particularly noteworthy given its age.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-5800x3d-vs-intel-core-i7-14700k-faceoff",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-27T10:35:19.181404",
+    "insight": "Legacy DDR4 still offers strong performance with recent CPU releases."
+  },
+  {
+    "title": "AMD's new 10th Anniversary Ryzen 7 5800X3D CPU back in stock Here's where to buy the revamped processor that's the fastest gaming chip available for AM4 platforms [Updated]",
+    "summary": "AMD's 10th-anniversary Ryzen 7 5800X3D is available for purchase at MSRP at B&H Photo, providing a relief for those who have been searching for the chip after its launch.",
+    "link": "https://www.tomshardware.com/pc-components/amds-new-10th-anniversary-ryzen-7-5800x3d-cpu-is-now-available-revamped-processor-is-the-fastest-gaming-chip-available-for-ddr4-systems-breathes-new-life-into-am4-platforms",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-27T10:35:19.181549",
+    "insight": "Ryzen 7 5800X3D availability ends scalping and price gouging for gamers"
+  },
+  {
+    "title": "Microsoft extends free Windows 10 security updates for a second year program now ends on October 12, 2027",
+    "summary": "Microsoft has extended free Windows 10 security updates for an additional year, with the new cutoff set at October 12, 2027. This extension will provide users with an extra year of critical security patches. The move aims to protect consumers from potential vulnerabilities.",
+    "link": "https://www.tomshardware.com/software/windows/microsoft-extends-free-windows-10-security-updates-for-a-second-year",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-27T10:35:19.181662",
+    "insight": "Critical security patches for consumers extended until October 12, 2027"
+  },
+  {
+    "title": "GEEKOM A7 2026 Edition Review Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC",
+    "summary": "The GEEKOM A7 2026 Edition mini PC was reviewed with Ubuntu 26.04 installed on an AMD Ryzen 5 7545U processor. The installation process was smooth and allowed for a dual-boot configuration with Windows 11. Various tests were conducted to evaluate the mini PC's performance and features.",
+    "link": "https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.927639",
-    "insight": "Affordable long-lasting wireless gaming headset for extended play sessions"
+    "quality_score": 15,
+    "processed_date": "2026-06-27T10:35:19.182084",
+    "insight": "Ubuntu 26.04 performance on the GEEKOM A7 2026 Edition is impressively smooth."
   },
   {
-    "title": "Micron inks long-term supply agreements worth $100 billion says it has no idea when RAM crisis will end",
-    "summary": "Micron has signed 16 long-term agreements with customers worth $100 billion, securing DRAM and NAND supply. These agreements are set to provide stability for both Micron and its customers. The exact timing of the RAM crisis resolution remains uncertain.",
-    "link": "https://www.tomshardware.com/pc-components/dram/micron-inks-long-term-supply-agreements-worth-usd100-billion-says-it-has-no-idea-when-ram-crisis-will-end",
+    "title": "GM s cobots enter the age-old factory automation debate",
+    "summary": "GM's cobots bring a new twist to the debate on factory automation, according to an analyst. The use of cobots, a collaboration between humans and robots, is gaining traction in the industry.",
+    "link": "https://www.fiercesensors.com/embedded/gms-cobots-enter-age-old-factory-automation-debate-0",
     "categories": [
       "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-06-26T11:30:51.927735",
-    "insight": "Uncertainty surrounding the RAM crisis persists despite Micron's supply agreements."
+    "processed_date": "2026-06-27T10:35:19.183165",
+    "insight": "Human-robot collaboration boosts efficiency and productivity in manufacturing processes"
   },
   {
-    "title": "Discounted 1.25 GHz Raspberry Pi 4 Model B shows up online",
-    "summary": "Cytron is selling a discounted Raspberry Pi 4 Model B with 1.25 GHz clock speed, 4GB or 8GB RAM, and microSD card slot. This board features a Broadcom BCM2711C0 quad-core Cortex-A72 processor with VideoCore VI GPU. The Raspberry Pi 4 Model B Special Value Board is available for purchase online.",
-    "link": "https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/",
+    "title": "Which game made you a gamer, and what technology made you a lifelong enthusiast?",
+    "summary": "A pivotal game or technology sparked a lifelong passion for gaming and tech. This transformative experience often occurred during childhood or adolescence, laying the foundation for a lifelong enthusiasm. Nostalgia and a sense of discovery continue to drive enthusiasts.",
+    "link": "https://www.techspot.com/news/112914-which-game-made-you-gamer-what-technology-made.html",
     "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-26T11:30:51.928084",
-    "insight": "A lower-cost Raspberry Pi option with reduced performance"
-  },
-  {
-    "title": "Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera",
-    "summary": "The Makerfabs MaTouch ESP32-P4 is a 10.1-inch HMI display with 4G LTE and Ethernet connectivity, a 2MP camera, and various interfaces for edge AI and connected embedded applications.",
-    "link": "https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-06-26T11:30:51.928266",
-    "insight": "Combines 4G connectivity with edge AI and HMI capabilities."
-  },
-  {
-    "title": "$449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor",
-    "summary": "CHUWI has launched the UniBook laptop with an Intel Core i3-304 Wildcat Lake processor, 8GB RAM, and a 256GB SSD for $449. This budget-friendly laptop offers an entry-level option for consumers interested in the Wildcat Lake series. The CHUWI UniBook features a 14-inch 1920x1200 IPS display.",
-    "link": "https://www.cnx-software.com/2026/06/26/449-chuwi-unibook-14-inch-laptop-is-powered-by-an-intel-core-3-304-wildcat-lake-processor/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-26T11:30:51.928433",
-    "insight": "Affordable Wildcat Lake laptop option enters the consumer market."
-  },
-  {
-    "title": "Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os",
-    "summary": "The Firefly AIBOX-9075 is an industrial Edge AI box with 200 TOPS performance, designed for on-device AI workloads, edge computing, and more. It features a Qualcomm IQ-9075 SoC, 36GB LPDDR5 memory, and various industrial I/Os. The rugged device operates in extreme temperatures, making it suitable for industrial and outdoor environments.",
-    "link": "https://www.cnx-software.com/2026/06/26/firefly-aibox-9075-edge-ai-box-features-qualcomm-iq-9075-soc-with-200-tops-npu-36gb-lpddr5/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-26T11:30:51.928604",
-    "insight": "Enables on-device AI processing for industrial and outdoor applications"
-  },
-  {
-    "title": "Orange Pi 6 CIX CD8180 12-core Arm SBC gets 2.5GbE networking, smaller form factor, drops battery support",
-    "summary": "The Orange Pi 6 SBC features a 12-core Arm Cortex-A720/A520 SoC, up to 32 GB LPDDR5 memory, two 2.5GbE ports, and a smaller form factor than its predecessor.",
-    "link": "https://www.cnx-software.com/2026/06/25/orange-pi-6-cix-cd8180-12-core-arm-sbc-gets-2-5gbe-networking-smaller-form-factor-drops-battery-support/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.928765",
-    "insight": "Improved networking and compact design boost SBC's industrial and IoT applications."
-  },
-  {
-    "title": "IBM unveils sub-1-nanometer chip architecture that stacks 100 billion transistors onto a fingernail-sized processor",
-    "summary": "IBM has unveiled a sub-1-nanometer chip architecture that stacks 100 billion transistors vertically, overcoming traditional scaling limits.",
-    "link": "https://www.techspot.com/news/112907-ibm-unveils-sub-1-nanometer-chip-architecture-stacks.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.930009",
-    "insight": "Revolutionary vertical stacking enables continued transistor density without shrinking components further."
-  },
-  {
-    "title": "Valve quietly changes Steam Machine's 4K/60fps claim after performance criticism",
-    "summary": "Valve has altered the language on Steam Machines regarding 4K/60fps gaming after criticism, now listing FSR 4.1 support. This change follows criticism of the original hardware and pricing restrictions. The updated listing aims to provide a more accurate representation of capabilities.",
-    "link": "https://www.techspot.com/news/112910-valve-quietly-changes-steam-machine-4k60fps-claim-after.html",
-    "categories": [
-      "AI & ML",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.930142",
-    "insight": "Valve adjusts Steam Machine claims due to performance and pricing concerns"
-  },
-  {
-    "title": "Windows 10's free security updates now extend to October 2027",
-    "summary": "Microsoft will continue providing Windows 10 security updates until October 12, 2027. This change extends the support period without a formal announcement. Users have more time to decide on upgrading.",
-    "link": "https://www.techspot.com/news/112904-windows-10-free-security-updates-now-extend-october.html",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-06-26T11:30:51.930258",
-    "insight": "Extended security support gives users extra time to transition smoothly."
+    "processed_date": "2026-06-27T10:35:19.183623",
+    "insight": "Early exposure shapes lifelong tech and gaming interests"
   },
   {
-    "title": "Game designer Sandy Petersen recalls how Quake's development \"broke\" id Software",
-    "summary": "id Software's Quake development significantly impacted the FPS genre in 1996, pushing the boundaries of 3D gaming. The project took a heavy toll on the team, marking a turning point for the studio. Sandy Petersen, an original Doom designer, shared his experience.",
-    "link": "https://www.techspot.com/news/112902-game-designer-sandy-petersen-recalls-how-quake-development.html",
+    "title": "European Commission moves to designate Amazon and Microsoft as cloud gatekeepers",
+    "summary": "The European Commission may designate Amazon and Microsoft as cloud gatekeepers, requiring them to comply with additional rules and regulations in the EU to ensure fair competition and protect customers.",
+    "link": "https://www.techspot.com/news/112905-european-commission-moves-designate-amazon-microsoft-cloud-gatekeepers.html",
     "categories": [
-      "AI & ML",
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-06-26T11:30:51.930374",
-    "insight": "Quake's development broke id Software, setting the stage for future challenges."
-  },
-  {
-    "title": "Anthropic accuses China's Alibaba of stealing Claude's AI capabilities",
-    "summary": "Anthropic accused Alibaba of corporate espionage to steal AI capabilities from Claude.",
-    "link": "https://www.techspot.com/news/112897-anthropic-accuses-china-alibaba-stealing-claude-ai-capabilities.html",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-06-26T11:30:51.930489",
-    "insight": "Intellectual property theft threatens global AI innovation and security"
+    "processed_date": "2026-06-27T10:35:19.183787",
+    "insight": "Regulating powerful tech giants to prevent market dominance."
   },
   {
-    "title": "Micron CEO expects memory shortages to stretch beyond 2027 as AI spending surges",
-    "summary": "Micron CEO Sanjay Mehrotra expects memory shortages to continue beyond 2027 due to AI-driven demand and supply constraints.",
-    "link": "https://www.techspot.com/news/112894-micron-ceo-expects-memory-shortages-stretch-beyond-2027.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-26T11:30:51.930596",
-    "insight": "AI spending causes memory shortages, impacting future tech development."
-  },
-  {
-    "title": "Qualcomm unveils sweeping AI infrastructure strategy to take on Nvidia in the data center",
-    "summary": "Qualcomm unveils a comprehensive AI infrastructure strategy to compete with Nvidia. The strategy aims to provide efficient and high-performance computing solutions for the data center. This move marks Qualcomm's entry into the rapidly growing AI market.",
-    "link": "https://www.techspot.com/news/112901-qualcomm-unveils-sweeping-ai-infrastructure-strategy-take-nvidia.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-26T11:30:51.930712",
-    "insight": "Qualcomm challenges Nvidia's dominance in AI data center infrastructure."
-  },
-  {
-    "title": "France's video game union is striking all summer as more than 1,000 workers lose their jobs",
-    "summary": "France's video game union, STJV, is striking over management practices and job losses, with over 1,000 workers affected.",
-    "link": "https://www.techspot.com/news/112889-french-video-game-union-stjv-calls-strike-against.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.930852",
-    "insight": "France's video game industry faces crisis due to poor management practices."
-  },
-  {
-    "title": "All MacBooks and iPads just got $200 or more expensive iPhones are the last holdout",
-    "summary": "Apple has increased prices for many products, excluding iPhones, due to cost inflation. The price hikes range from $200, affecting MacBooks and iPads. This move follows Apple's announcement about being affected by the AI-driven memory crisis.",
-    "link": "https://www.techspot.com/news/112899-apple-sweeping-price-hikes-hit-most-devices-including.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-26T11:30:51.930965",
-    "insight": "Price increases target non-iPhone Apple products due to cost inflation"
-  },
-  {
-    "title": "The creators of Tetris and the Rubik's Cube just unveiled a puzzle that combines both",
-    "summary": "Tetris creator Alexei Pajitnov and Rubik's Cube inventor Erno Rubik collaborate on a new puzzle.",
-    "link": "https://www.techspot.com/news/112892-creators-tetris-rubik-cube-unveiled-puzzle-combines-both.html",
+    "title": "Bungie cuts nearly 300 jobs as Destiny 2 winds down and Marathon takes center stage",
+    "summary": "Bungie is cutting nearly 300 jobs as Destiny 2's pipeline winds down, shifting focus to new projects like Marathon.",
+    "link": "https://www.techspot.com/news/112909-bungie-cuts-nearly-300-jobs-destiny-2-winds.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.931080",
-    "insight": "Iconic puzzle designers unite, creating a revolutionary new gaming experience."
+    "processed_date": "2026-06-27T10:35:19.183912",
+    "insight": "Industry shift from sustaining large games to developing new IPs."
   },
   {
-    "title": "White House warms to Anthropic after replacing \"weirdo\" Dario Amodei in talks",
-    "summary": "Anthropic's negotiations with the Trump administration are improving after CEO Dario Amodei's absence.",
-    "link": "https://www.techspot.com/news/112896-white-house-warms-anthropic-after-replacing-weirdo-dario.html",
+    "title": "HPE is quietly pivoting from servers to networking, and Cisco should be paying attention",
+    "summary": "HPE is shifting its focus from servers to networking, a significant change amidst the tech industry's evolution. This move requires adaptation and innovation to stay competitive. As a result, companies like Cisco should take notice.",
+    "link": "https://www.techspot.com/news/112900-hpe-quietly-pivoting-servers-networking-cisco-paying-attention.html",
     "categories": [
+      "Hardware",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-26T11:30:51.931186",
-    "insight": "Dario Amodei's removal helps negotiations between Anthropic and the Trump administration."
+    "processed_date": "2026-06-27T10:35:19.184026",
+    "insight": "HPE's pivot to networking poses a challenge to Cisco's dominance."
   },
   {
-    "title": "OpenAI debuts Jalape o, its first custom AI chip to cut ChatGPT costs and reduce Nvidia dependency",
-    "summary": "OpenAI has debuted Jalapeo, its first custom AI chip, to reduce ChatGPT costs and Nvidia dependency.",
-    "link": "https://www.techspot.com/news/112890-openai-debuts-jalapeo-custom-chip-built-cut-chatgpt.html",
+    "title": "The third Xbox price hike in 15 months raises all models by at least $100",
+    "summary": "Xbox consoles experience their highest-ever price increase, marking the third hike in 15 months. This comes after mass layoffs at Microsoft-owned game development studios. The price hike affects all Xbox models, raising them by at least $100.",
+    "link": "https://www.techspot.com/news/112906-third-xbox-price-hike-15-months-raises-all.html",
     "categories": [
-      "AI & ML",
-      "GPUs"
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-26T11:30:51.931300",
-    "insight": "Controlling hardware stack is crucial for AI efficiency and cost savings."
+    "processed_date": "2026-06-27T10:35:19.184141",
+    "insight": "Xbox price hikes signal a struggle to maintain console market share."
   },
   {
-    "title": "REI pulls AI-generated bike ad after Meta turns it into a two-handlebar monstrosity",
-    "summary": "REI pulled an AI-generated bike ad featuring a unique, two-handlebar design after Meta intervened, citing issues with the ad's appearance.",
-    "link": "https://www.techspot.com/news/112895-rei-pulls-ai-generated-bike-ad-after-meta.html",
+    "title": "Ford learned the hard way that AI can't replace experienced engineers",
+    "summary": "Ford's return to top J.D. Power rankings comes from process changes and the strategic use of AI, drawing a line between automation and human expertise. This shift allows the company to leverage AI while preserving the value of experienced engineers.",
+    "link": "https://www.techspot.com/news/112908-ford-learned-hard-way-ai-cant-replace-experienced.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-26T11:30:51.931428",
-    "insight": "AI-generated content can lack human judgment and cause unintended results."
+    "processed_date": "2026-06-27T10:35:19.184257",
+    "insight": "AI augmenting human expertise yields better results than AI replacing engineers"
   },
   {
-    "title": "The Halo remake launches July 28 with new missions, four-player co-op, and Unreal Engine 5 visuals",
-    "summary": "The Halo remake launches July 28 with new missions and co-op features. The remake features Unreal Engine 5 visuals and revamped gameplay elements. This update aims to refresh the classic game.",
-    "link": "https://www.techspot.com/news/112891-halo-remake-launches-july-28-new-missions-four.html",
+    "title": "Polymarket says it will refund users after hackers drained close to $3 million from wallets",
+    "summary": "Polymarket will refund users affected by a hacking incident. The incident drained close to $3 million from a small number of users' wallets. It occurred on Thursday morning.",
+    "link": "https://www.techspot.com/news/112912-polymarket-hack-may-have-drained-close-3-million.html",
     "categories": [
-      "Tech News",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-26T11:30:51.931559",
-    "insight": "Revamped gameplay refreshes a classic game for modern audiences."
+    "processed_date": "2026-06-27T10:35:19.184362",
+    "insight": "Major hack exposes vulnerabilities in prediction market security protocols"
   }
 ]

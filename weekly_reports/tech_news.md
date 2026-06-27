@@ -1,75 +1,65 @@
 # 📰 Tech News
-**Week of June 26, 2026**
+**Week of June 27, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-06-26 11:32
+- **Articles this week:** 5
+- **Report generated:** 2026-06-27 10:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Game designer Sandy Petersen recalls how Quake's development "broke" id Software ⭐
+### 1. Bungie cuts nearly 300 jobs as Destiny 2 winds down and Marathon takes center stage 
 
-id Software's Quake development significantly impacted the FPS genre in 1996, pushing the boundaries of 3D gaming. The project took a heavy toll on the team, marking a turning point for the studio. Sandy Petersen, an original Doom designer, shared his experience.
+Bungie is cutting nearly 300 jobs as Destiny 2's pipeline winds down, shifting focus to new projects like Marathon.
 
-💡 *Quake's development broke id Software, setting the stage for future challenges.*
+💡 *Industry shift from sustaining large games to developing new IPs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112902-game-designer-sandy-petersen-recalls-how-quake-development.html)
-
----
-
-### 2. Riot Vanguard finally drops its controversial always-on requirement for anti-cheat new on-demand mode requires a strict Windows 11 security stack 
-
-Riot Games is dropping the always-on requirement for Vanguard anti-cheat. The change allows players to opt out of loading Vanguard on startup. A new on-demand mode requires a strict Windows 11 security stack.
-
-💡 *Gaming platform prioritizes player choice and system security requirements*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/riot-vanguard-adds-an-on-demand-mode-that-stops-anti-cheat-loading-at-boot-on-secured-windows-11-pcs)
+🔗 [Read Full Article](https://www.techspot.com/news/112909-bungie-cuts-nearly-300-jobs-destiny-2-winds.html)
 
 ---
 
-### 3. France's video game union is striking all summer as more than 1,000 workers lose their jobs 
+### 2. Sony WH-1000XM5 active noise-canceling headphones for an all-time low $198 at Amazon audiophile-grade audio and ANC for an affordable price 
 
-France's video game union, STJV, is striking over management practices and job losses, with over 1,000 workers affected.
+Get audiophile-grade audio and ANC at an affordable price of $198 on Amazon
 
-💡 *France's video game industry faces crisis due to poor management practices.*
+💡 *Exceptional noise-canceling tech meets budget-friendly price point*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112889-french-video-game-union-stjv-calls-strike-against.html)
-
----
-
-### 4. The creators of Tetris and the Rubik's Cube just unveiled a puzzle that combines both 
-
-Tetris creator Alexei Pajitnov and Rubik's Cube inventor Erno Rubik collaborate on a new puzzle.
-
-💡 *Iconic puzzle designers unite, creating a revolutionary new gaming experience.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112892-creators-tetris-rubik-cube-unveiled-puzzle-combines-both.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/sony-wh-1000xm5-active-noise-canceling-headphones-for-an-all-time-low-usd198-at-amazon-audiophile-grade-audio-and-anc-for-an-affordable-price)
 
 ---
 
-### 5. The Halo remake launches July 28 with new missions, four-player co-op, and Unreal Engine 5 visuals 
+### 3. Microsoft extends free Windows 10 security updates for a second year program now ends on October 12, 2027 
 
-The Halo remake launches July 28 with new missions and co-op features. The remake features Unreal Engine 5 visuals and revamped gameplay elements. This update aims to refresh the classic game.
+Microsoft has extended free Windows 10 security updates for an additional year, with the new cutoff set at October 12, 2027. This extension will provide users with an extra year of critical security patches. The move aims to protect consumers from potential vulnerabilities.
 
-💡 *Revamped gameplay refreshes a classic game for modern audiences.*
+💡 *Critical security patches for consumers extended until October 12, 2027*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112891-halo-remake-launches-july-28-new-missions-four.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-extends-free-windows-10-security-updates-for-a-second-year)
 
 ---
 
-### 6. Micron inks long-term supply agreements worth $100 billion says it has no idea when RAM crisis will end 
+### 4. European Commission moves to designate Amazon and Microsoft as cloud gatekeepers 
 
-Micron has signed 16 long-term agreements with customers worth $100 billion, securing DRAM and NAND supply. These agreements are set to provide stability for both Micron and its customers. The exact timing of the RAM crisis resolution remains uncertain.
+The European Commission may designate Amazon and Microsoft as cloud gatekeepers, requiring them to comply with additional rules and regulations in the EU to ensure fair competition and protect customers.
 
-💡 *Uncertainty surrounding the RAM crisis persists despite Micron's supply agreements.*
+💡 *Regulating powerful tech giants to prevent market dominance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/micron-inks-long-term-supply-agreements-worth-usd100-billion-says-it-has-no-idea-when-ram-crisis-will-end)
+🔗 [Read Full Article](https://www.techspot.com/news/112905-european-commission-moves-designate-amazon-microsoft-cloud-gatekeepers.html)
+
+---
+
+### 5. GM s cobots enter the age-old factory automation debate 
+
+GM's cobots bring a new twist to the debate on factory automation, according to an analyst. The use of cobots, a collaboration between humans and robots, is gaining traction in the industry.
+
+💡 *Human-robot collaboration boosts efficiency and productivity in manufacturing processes*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/embedded/gms-cobots-enter-age-old-factory-automation-debate-0)
 
 ---
 

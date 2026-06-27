@@ -1,5 +1,5 @@
 # 🎮 GPUs
-**Week of June 26, 2026**
+**Week of June 27, 2026**
 
 *Graphics cards and compute accelerators*
 
@@ -7,69 +7,69 @@
 
 ## 📊 Summary
 - **Articles this week:** 6
-- **Report generated:** 2026-06-26 11:32
+- **Report generated:** 2026-06-27 10:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD Ryzen 7 5800X3D re-review: Maxing out DDR4 s gaming potential ⭐
+### 1. RAM crisis provokes enthusiast to try Windows 11 on DDR1-era hardware other key vintage components included the Core 2 Q6600 and ATI Radeon HD 4650 AGP 
 
-AMD's Ryzen 7 5800X3D is re-released to capitalize on DDR4 availability. We revisit this CPU to see how it compares to modern DDR4-based gaming options at similar price points. This re-review aims to determine the chip's current value proposition.
+An enthusiast successfully runs Windows 11 on a Core 2 Quad Q6600 processor paired with a DDR1 motherboard and an ATI Radeon HD 4650 AGP graphics card, demonstrating the operating system's capabilities on vintage hardware.
 
-💡 *Maxing out DDR4 gaming potential remains a viable budget-friendly solution*
+💡 *Windows 11's compatibility spans multiple generations of hardware unexpectedly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-5800x3d-2026-cpu-review)
-
----
-
-### 2. Scalpers circle AMD's Ryzen 7 5800X3D 10th Anniversary Edition, asking for $600 or more re-released CPU sees inconsistent inventory on release day 
-
-Scalpers are trying to capitalize on the Ryzen 7 5800X3D 10th Anniversary Edition, listing it for nearly double its suggested retail price.
-
-💡 *Scalpers exploit Anniversary Edition's limited supply and high demand quickly.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/scalpers-circle-amds-ryzen-7-5800x3d-10th-anniversary-edition-asking-for-usd600-or-more-re-released-cpu-sees-inconsistent-inventory-on-release-day)
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/ram-crisis-provokes-enthusiast-to-try-windows-11-on-ddr1-era-hardware-other-key-vintage-components-included-the-core-2-q6600-and-ati-radeon-hd-4650-agp)
 
 ---
 
-### 3. Asus beta BIOS updates restore Ryzen 9000 memory encryption ahead of AMD s July timeline TSME returns to select AM5 boards after silent backlash over removal 
+### 2. Save $250 on this AMD AM5 bundle, get Samsung 990 Pro SSD for basically free grab the AMD Ryzen 5 9600X, Gigabyte B850 Aorus Elite motherboard, and 990 Pro 1TB SSD for 36% off 
 
-Asus has released beta BIOS updates to restore TSME support for Ryzen 9000 CPUs on select AM5 motherboards. This update brings back a feature previously removed, ahead of AMD's planned July timeline. The move appears to be a response to user backlash.
+This Newegg bundle offers a discounted price for three PC components, including AMD's Ryzen 5 9600X processor, Gigabyte B850 motherboard, and Samsung 990 Pro 1TB SSD, totaling 36% off the original price.
 
-💡 *AMD's removal sparks user revolt, prompting Asus to restore TSME*
+💡 *Significant savings on high-quality PC components for budget-conscious buyers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/asus-beta-bios-updates-restore-ryzen-9000-memory-encryption-ahead-of-amds-july-timeline-tsme-returns-to-select-am5-boards-after-silent-backlash-over-removal)
-
----
-
-### 4. OpenAI debuts Jalape o, its first custom AI chip to cut ChatGPT costs and reduce Nvidia dependency 
-
-OpenAI has debuted Jalapeo, its first custom AI chip, to reduce ChatGPT costs and Nvidia dependency.
-
-💡 *Controlling hardware stack is crucial for AI efficiency and cost savings.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112890-openai-debuts-jalapeo-custom-chip-built-cut-chatgpt.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-usd250-on-this-amd-am5-bundle-get-samsung-990-pro-ssd-for-basically-free-grab-the-amd-ryzen-5-9600x-gigabyte-b850-aorus-elite-motherboard-and-990-pro-1tb-ssd-for-36-percent-off)
 
 ---
 
-### 5. Get a Radeon RX 9060 XT 16GB upgrade for just $399 take your pick from four attainable options at Newegg now 
+### 3. AMD Ryzen 7 5800X3D vs Intel Core i7-14700K faceoff A new battle for DDR4 supremacy in 2026 
 
-Newegg offers four $399 Radeon RX 9060 XT 16GB upgrade options, a rare deal in the current RAM price crunch. This provides an affordable path for those seeking to upgrade their graphics cards with 16GB of RAM. Newegg's options cater to various needs and preferences.
+In a showdown between the AMD Ryzen 7 5800X3D and Intel Core i7-14700K, we compared their performance using DDR4 memory in various tasks such as gaming, rendering, encoding, and efficiency. Our tests revealed the strengths and weaknesses of each CPU in 2026. The Ryzen 7 5800X3D's performance is particularly noteworthy given its age.
 
-💡 *Affordable high-capacity graphics cards are a rare market find now.*
+💡 *Legacy DDR4 still offers strong performance with recent CPU releases.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-a-radeon-rx-9060-xt-16gb-upgrade-for-just-usd399-take-your-pick-from-four-attainable-options-at-newegg-now)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-5800x3d-vs-intel-core-i7-14700k-faceoff)
 
 ---
 
-### 6. Discounted 1.25 GHz Raspberry Pi 4 Model B shows up online 
+### 4. AMD's new 10th Anniversary Ryzen 7 5800X3D CPU back in stock Here's where to buy the revamped processor that's the fastest gaming chip available for AM4 platforms [Updated] 
 
-Cytron is selling a discounted Raspberry Pi 4 Model B with 1.25 GHz clock speed, 4GB or 8GB RAM, and microSD card slot. This board features a Broadcom BCM2711C0 quad-core Cortex-A72 processor with VideoCore VI GPU. The Raspberry Pi 4 Model B Special Value Board is available for purchase online.
+AMD's 10th-anniversary Ryzen 7 5800X3D is available for purchase at MSRP at B&H Photo, providing a relief for those who have been searching for the chip after its launch.
 
-💡 *A lower-cost Raspberry Pi option with reduced performance*
+💡 *Ryzen 7 5800X3D availability ends scalping and price gouging for gamers*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/amds-new-10th-anniversary-ryzen-7-5800x3d-cpu-is-now-available-revamped-processor-is-the-fastest-gaming-chip-available-for-ddr4-systems-breathes-new-life-into-am4-platforms)
+
+---
+
+### 5. Gigabyte Aero X16 gaming laptop delivers RTX 5060, 32GB RAM, and a 16-inch 165Hz 1600p display for 21% off 
+
+The Gigabyte Aero X16 gaming laptop features a Ryzen AI 7 350 CPU, 32GB of RAM, and an RTX 5060, paired with a 16-inch 165Hz 1600p display.
+
+💡 *Powerful laptop offers strong specs at an affordable discounted price*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/gigabyte-aero-x16-gaming-laptop-delivers-rtx-5060-32gb-ram-and-16-inch-165hz-1600p-display-for-usd1-099)
+
+---
+
+### 6. Asus' ROG Zephyrus G16 with an RTX 5070 & 240Hz OLED display is on sale for just $1,575 Save $575 on an excellent gaming laptop with a 16-core flagship CPU & top-tier build quality 
+
+Asus' ROG Zephyrus G16 gaming laptop features a 16-core CPU, 16GB RAM, and a 1TB SSD, delivering solid performance and a stunning 240Hz OLED display.
+
+💡 *Top-tier gaming performance at a significantly discounted price point.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/asus-rog-zephyrus-g16-gaming-laptop-with-an-rtx-5070-and-240hz-oled-display-is-on-sale-for-usd757-off-save-on-an-excellent-laptop-with-a-16-core-flagship-cpu-and-top-tier-build-quality)
 
 ---
 

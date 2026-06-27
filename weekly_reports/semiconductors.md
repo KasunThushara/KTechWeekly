@@ -1,125 +1,75 @@
 # ⚡ Semiconductors
-**Week of June 26, 2026**
+**Week of June 27, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-06-26 11:32
+- **Articles this week:** 6
+- **Report generated:** 2026-06-27 10:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera ⭐
+### 1. GEEKOM A7 2026 Edition Review Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC ⭐
 
-The Makerfabs MaTouch ESP32-P4 is a 10.1-inch HMI display with 4G LTE and Ethernet connectivity, a 2MP camera, and various interfaces for edge AI and connected embedded applications.
+The GEEKOM A7 2026 Edition mini PC was reviewed with Ubuntu 26.04 installed on an AMD Ryzen 5 7545U processor. The installation process was smooth and allowed for a dual-boot configuration with Windows 11. Various tests were conducted to evaluate the mini PC's performance and features.
 
-💡 *Combines 4G connectivity with edge AI and HMI capabilities.*
+💡 *Ubuntu 26.04 performance on the GEEKOM A7 2026 Edition is impressively smooth.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/)
-
----
-
-### 2. Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os ⭐
-
-The Firefly AIBOX-9075 is an industrial Edge AI box with 200 TOPS performance, designed for on-device AI workloads, edge computing, and more. It features a Qualcomm IQ-9075 SoC, 36GB LPDDR5 memory, and various industrial I/Os. The rugged device operates in extreme temperatures, making it suitable for industrial and outdoor environments.
-
-💡 *Enables on-device AI processing for industrial and outdoor applications*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/26/firefly-aibox-9075-edge-ai-box-features-qualcomm-iq-9075-soc-with-200-tops-npu-36gb-lpddr5/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/)
 
 ---
 
-### 3. IBM goes sub-1nm, develops 0.7nm-class technology offering up to 50% higher performance and 70% higher energy efficiency compared to IBM's 2nm-class node 
+### 2. Commodore drops Callback flip phone by $100 by defaulting to recycled memory chips and unbundling the earphones Callback 8020 drops to $399 as skyrocketing memory prices punish smartphone buyers 
 
-IBM has developed a 0.7nm-class technology with up to 50% higher performance and 70% higher energy efficiency compared to its 2nm-class node, leveraging nanostack transistors.
+Commodore has lowered the price of its Callback 8020 flip phone to $399, making it more affordable for consumers.
 
-💡 *Advancing transistor design enables unprecedented performance and efficiency gains.*
+💡 *Skyrocketing memory prices force phone manufacturers to cut costs creatively.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/ibm-goes-sub-1nm-develops-0-7nm-class-technology-offering-up-to-50-percent-higher-performance-and-70-percent-higher-energy-efficiency-compared-to-ibms-2nm-class-node)
-
----
-
-### 4. The AI tokenmaxxing party is crashing over spiraling costs leaked consulting firm audio suggests no one is sure how to measure AI effectiveness 
-
-A leaked Accenture meeting recording reveals companies' AI costs are spiraling out of control. Non-technical employees may be encouraged to stop using AI for non-essential tasks. The effectiveness of AI investments is unclear.
-
-💡 *Lack of AI effectiveness metrics fuels uncontrolled spending and wastage.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/the-ai-tokenmaxxing-party-is-crashing-over-spiraling-costs-leaked-consulting-firm-audio-suggests-no-one-is-sure-how-to-measure-ai-effectiveness)
+🔗 [Read Full Article](https://www.tomshardware.com/phones/commodore-drops-callback-flip-ohine-to-399-by-defaulting-to-recycled-memory-chips)
 
 ---
 
-### 5. Qualcomm plans China-specific data center chips new Dragonfly lineup will include nerfed AI accelerators that comply with export thresholds 
+### 3. OpenAI's ChatGPT-5.6 gets the same banhammer treatment as Anthropic s Mythos from the federal government source says that Washington cautioned OpenAI against releasing the model without receiving approval 
 
-Qualcomm plans to bring its Dragonfly data center chips to China, including a new lineup with AI accelerators compliant with export thresholds.
+The U.S. government is requesting access to AI models 30 days prior to public release. OpenAI is voluntarily complying with the executive order, but seeks a more sustainable approach for future releases. Washington has cautioned OpenAI against releasing ChatGPT-5.6 without approval.
 
-💡 *Qualcomm adapts to China's export control regulations for competitive edge*
+💡 *U.S. government seeks control over powerful AI model releases.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/qualcomm-plans-china-specific-data-center-chips-built-to-clear-us-export-limits)
-
----
-
-### 6. HyperX Cloud Stinger 3 Wireless Headset Review: 80 hours and under $100 
-
-The HyperX Cloud Stinger 3 Wireless headset offers 50mm drivers, flip-to-mute mic, and up to 80 hours of battery life at an affordable price under $100.
-
-💡 *Affordable long-lasting wireless gaming headset for extended play sessions*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-stinger-3-wireless-review)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-chatgpt-5-6-gets-the-same-banhammer-treatment-as-anthropics-mythos-from-the-federal-government-source-says-that-washington-cautioned-openai-against-releasing-the-model-without-receiving-approval)
 
 ---
 
-### 7. Orange Pi 6 CIX CD8180 12-core Arm SBC gets 2.5GbE networking, smaller form factor, drops battery support 
+### 4. Apple will skip its high-end M6 Mac chips and fast-track an AI-focused M7 generation for 2027, report claims may release a base M6 chip for entry-level Macs this year 
 
-The Orange Pi 6 SBC features a 12-core Arm Cortex-A720/A520 SoC, up to 32 GB LPDDR5 memory, two 2.5GbE ports, and a smaller form factor than its predecessor.
+Apple will release a base M6 chip for entry-level Macs this year, skipping high-end models to fast-track AI-focused M7 chips in 2027.
 
-💡 *Improved networking and compact design boost SBC's industrial and IoT applications.*
+💡 *Accelerated AI chip development prioritizes future innovation over immediate high-performance needs.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/25/orange-pi-6-cix-cd8180-12-core-arm-sbc-gets-2-5gbe-networking-smaller-form-factor-drops-battery-support/)
-
----
-
-### 8. IBM unveils sub-1-nanometer chip architecture that stacks 100 billion transistors onto a fingernail-sized processor 
-
-IBM has unveiled a sub-1-nanometer chip architecture that stacks 100 billion transistors vertically, overcoming traditional scaling limits.
-
-💡 *Revolutionary vertical stacking enables continued transistor density without shrinking components further.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112907-ibm-unveils-sub-1-nanometer-chip-architecture-stacks.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/apple-will-skip-its-high-end-m6-mac-chips-and-fast-track-an-ai-focused-m7-generation-for-2027)
 
 ---
 
-### 9. Qualcomm unveils sweeping AI infrastructure strategy to take on Nvidia in the data center 
+### 5. HPE is quietly pivoting from servers to networking, and Cisco should be paying attention 
 
-Qualcomm unveils a comprehensive AI infrastructure strategy to compete with Nvidia. The strategy aims to provide efficient and high-performance computing solutions for the data center. This move marks Qualcomm's entry into the rapidly growing AI market.
+HPE is shifting its focus from servers to networking, a significant change amidst the tech industry's evolution. This move requires adaptation and innovation to stay competitive. As a result, companies like Cisco should take notice.
 
-💡 *Qualcomm challenges Nvidia's dominance in AI data center infrastructure.*
+💡 *HPE's pivot to networking poses a challenge to Cisco's dominance.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112901-qualcomm-unveils-sweeping-ai-infrastructure-strategy-take-nvidia.html)
-
----
-
-### 10. White House warms to Anthropic after replacing "weirdo" Dario Amodei in talks 
-
-Anthropic's negotiations with the Trump administration are improving after CEO Dario Amodei's absence.
-
-💡 *Dario Amodei's removal helps negotiations between Anthropic and the Trump administration.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112896-white-house-warms-anthropic-after-replacing-weirdo-dario.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112900-hpe-quietly-pivoting-servers-networking-cisco-paying-attention.html)
 
 ---
 
-### 11. Asus offers up to 36% off its ZenWiFi mesh routers tri-band Wi-Fi 7 mesh routers starting from $297 
+### 6. TP-Link's 8-port 2.5G unmanaged Ethernet switch is a smokin' bargain at $50 upgrade your home network for half price 
 
-Asus is offering discounts on its ZenWiFi mesh Wi-Fi 7 routers, starting at $297. Customers can save up to 36% on these tri-band routers. This sale provides a chance to upgrade home networks at a lower cost.
+TP-Link's TL-SG108S-M2 offers 8 2.5 GbE ports at an affordable price of under $50, making it a budget-friendly upgrade for home networks.
 
-💡 *Improve home Wi-Fi coverage with discounted ZenWiFi mesh routers.*
+💡 *Future-proof home networking for under $50, a significant price drop*
 
-🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/asus-offers-up-to-36-percent-off-its-zenwifi-mesh-routers-tri-band-wi-fi-7-mesh-routers-starting-from-usd297-for-prime-day)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/network-switches/tp-links-8-port-2-5g-unmanaged-ethernet-switch-is-a-smokin-bargain-at-usd50-upgrade-your-home-network-for-half-price)
 
 ---
 

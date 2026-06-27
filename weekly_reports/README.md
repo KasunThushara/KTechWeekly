@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 26, 2026**
+**Week of June 27, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera ⭐
+### 1. GEEKOM A7 2026 Edition Review Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC ⭐
 
 **⚡ Semiconductors**
 
-The Makerfabs MaTouch ESP32-P4 is a 10.1-inch HMI display with 4G LTE and Ethernet connectivity, a 2MP camera, and various interfaces for edge AI and connected embedded applications.
+The GEEKOM A7 2026 Edition mini PC was reviewed with Ubuntu 26.04 installed on an AMD Ryzen 5 7545U processor. The installation process was smooth and allowed for a dual-boot configuration with Windows 11. Various tests were conducted to evaluate the mini PC's performance and features.
 
-💡 **Key Point:** Combines 4G connectivity with edge AI and HMI capabilities.
+💡 **Key Point:** Ubuntu 26.04 performance on the GEEKOM A7 2026 Edition is impressively smooth.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/)
 
 ---
 
-### 2. Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera ⭐
+### 2. GEEKOM A7 2026 Edition Review Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC ⭐
 
 **💻 Hardware**
 
-The Makerfabs MaTouch ESP32-P4 is a 10.1-inch HMI display with 4G LTE and Ethernet connectivity, a 2MP camera, and various interfaces for edge AI and connected embedded applications.
+The GEEKOM A7 2026 Edition mini PC was reviewed with Ubuntu 26.04 installed on an AMD Ryzen 5 7545U processor. The installation process was smooth and allowed for a dual-boot configuration with Windows 11. Various tests were conducted to evaluate the mini PC's performance and features.
 
-💡 **Key Point:** Combines 4G connectivity with edge AI and HMI capabilities.
+💡 **Key Point:** Ubuntu 26.04 performance on the GEEKOM A7 2026 Edition is impressively smooth.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/)
+🔗 [Read More](https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/)
 
 ---
 
-### 3. Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os ⭐
+### 3. The third Xbox price hike in 15 months raises all models by at least $100 
+
+**🤖 AI & ML**
+
+Xbox consoles experience their highest-ever price increase, marking the third hike in 15 months. This comes after mass layoffs at Microsoft-owned game development studios. The price hike affects all Xbox models, raising them by at least $100.
+
+💡 **Key Point:** Xbox price hikes signal a struggle to maintain console market share.
+
+🔗 [Read More](https://www.techspot.com/news/112906-third-xbox-price-hike-15-months-raises-all.html)
+
+---
+
+### 4. Bungie cuts nearly 300 jobs as Destiny 2 winds down and Marathon takes center stage 
+
+**📰 Tech News**
+
+Bungie is cutting nearly 300 jobs as Destiny 2's pipeline winds down, shifting focus to new projects like Marathon.
+
+💡 **Key Point:** Industry shift from sustaining large games to developing new IPs.
+
+🔗 [Read More](https://www.techspot.com/news/112909-bungie-cuts-nearly-300-jobs-destiny-2-winds.html)
+
+---
+
+### 5. Commodore drops Callback flip phone by $100 by defaulting to recycled memory chips and unbundling the earphones Callback 8020 drops to $399 as skyrocketing memory prices punish smartphone buyers 
 
 **⚡ Semiconductors**
 
-The Firefly AIBOX-9075 is an industrial Edge AI box with 200 TOPS performance, designed for on-device AI workloads, edge computing, and more. It features a Qualcomm IQ-9075 SoC, 36GB LPDDR5 memory, and various industrial I/Os. The rugged device operates in extreme temperatures, making it suitable for industrial and outdoor environments.
+Commodore has lowered the price of its Callback 8020 flip phone to $399, making it more affordable for consumers.
 
-💡 **Key Point:** Enables on-device AI processing for industrial and outdoor applications
+💡 **Key Point:** Skyrocketing memory prices force phone manufacturers to cut costs creatively.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/26/firefly-aibox-9075-edge-ai-box-features-qualcomm-iq-9075-soc-with-200-tops-npu-36gb-lpddr5/)
-
----
-
-### 4. AMD Ryzen 7 5800X3D re-review: Maxing out DDR4 s gaming potential ⭐
-
-**💻 Hardware**
-
-AMD's Ryzen 7 5800X3D is re-released to capitalize on DDR4 availability. We revisit this CPU to see how it compares to modern DDR4-based gaming options at similar price points. This re-review aims to determine the chip's current value proposition.
-
-💡 **Key Point:** Maxing out DDR4 gaming potential remains a viable budget-friendly solution
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-5800x3d-2026-cpu-review)
-
----
-
-### 5. $449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor ⭐
-
-**💻 Hardware**
-
-CHUWI has launched the UniBook laptop with an Intel Core i3-304 Wildcat Lake processor, 8GB RAM, and a 256GB SSD for $449. This budget-friendly laptop offers an entry-level option for consumers interested in the Wildcat Lake series. The CHUWI UniBook features a 14-inch 1920x1200 IPS display.
-
-💡 **Key Point:** Affordable Wildcat Lake laptop option enters the consumer market.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/26/449-chuwi-unibook-14-inch-laptop-is-powered-by-an-intel-core-3-304-wildcat-lake-processor/)
+🔗 [Read More](https://www.tomshardware.com/phones/commodore-drops-callback-flip-ohine-to-399-by-defaulting-to-recycled-memory-chips)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **56 articles** across **5 focused categories**.
+We covered **35 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 20 | Artificial Intelligence and Machine Learning |
+| 🤖 [AI & ML](ai_and_ml.md) | 7 | Artificial Intelligence and Machine Learning |
 | 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 11 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
+| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 5 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 20 articles
+*Artificial Intelligence and Machine Learning* — 7 articles
 
 ### 🎮 [GPUs](gpus.md)
 *Graphics cards and compute accelerators* — 6 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 13 articles
+*Computing hardware and development boards* — 11 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 11 articles
+*Chip manufacturing and design* — 6 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 6 articles
+*Industry news and product launches* — 5 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-26 at 11:32 by an autonomous AI curation system.
+Generated 2026-06-27 at 10:36 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
