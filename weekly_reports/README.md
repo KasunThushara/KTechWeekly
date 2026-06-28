@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 27, 2026**
+**Week of June 28, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. GEEKOM A7 2026 Edition Review Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC ⭐
-
-**⚡ Semiconductors**
-
-The GEEKOM A7 2026 Edition mini PC was reviewed with Ubuntu 26.04 installed on an AMD Ryzen 5 7545U processor. The installation process was smooth and allowed for a dual-boot configuration with Windows 11. Various tests were conducted to evaluate the mini PC's performance and features.
-
-💡 **Key Point:** Ubuntu 26.04 performance on the GEEKOM A7 2026 Edition is impressively smooth.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/)
-
----
-
-### 2. GEEKOM A7 2026 Edition Review Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC ⭐
+### 1. Japanese firm launches hyper-realistic capsule toy PC parts you can assemble and play with tiny motherboards, cases, and CPUs are coming after Tarlin inks collab with the big four PC parts makers 
 
 **💻 Hardware**
 
-The GEEKOM A7 2026 Edition mini PC was reviewed with Ubuntu 26.04 installed on an AMD Ryzen 5 7545U processor. The installation process was smooth and allowed for a dual-boot configuration with Windows 11. Various tests were conducted to evaluate the mini PC's performance and features.
+A Japanese firm collaborates with major PC makers to create mini PC components, such as motherboards, cases, and CPUs, to be used in a toy assembling experience.
 
-💡 **Key Point:** Ubuntu 26.04 performance on the GEEKOM A7 2026 Edition is impressively smooth.
+💡 **Key Point:** Miniaturization of tech could inspire future innovation and education
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/)
-
----
-
-### 3. The third Xbox price hike in 15 months raises all models by at least $100 
-
-**🤖 AI & ML**
-
-Xbox consoles experience their highest-ever price increase, marking the third hike in 15 months. This comes after mass layoffs at Microsoft-owned game development studios. The price hike affects all Xbox models, raising them by at least $100.
-
-💡 **Key Point:** Xbox price hikes signal a struggle to maintain console market share.
-
-🔗 [Read More](https://www.techspot.com/news/112906-third-xbox-price-hike-15-months-raises-all.html)
+🔗 [Read More](https://www.tomshardware.com/desktops/pc-building/japanese-firm-launches-hyper-realistic-capsule-toy-pc-parts-you-can-assemble-and-play-with-tiny-motherboards-cases-and-cpus-are-coming-after-tarlin-inks-collab-with-the-big-four-pc-parts-makers)
 
 ---
 
-### 4. Bungie cuts nearly 300 jobs as Destiny 2 winds down and Marathon takes center stage 
+### 2. Get an RTX 5060 gaming laptop loaded with Ryzen 7 CPU and 32GB RAM for $1,099 mobile gaming upgrade just got $300 cheaper 
+
+**💻 Hardware**
+
+The Gigabyte Aero X16 is a mid-range gaming laptop offering smooth high-refresh displays and capable RTX 5060 graphics performance. It also features future-ready upgrade options, making it an attractive choice for gamers. This laptop is now available for $1,099.
+
+💡 **Key Point:** High-performance gaming at an affordable price point emerges
+
+🔗 [Read More](https://www.tomshardware.com/laptops/gaming-laptops/get-an-rtx-5060-gaming-laptop-loaded-with-ryzen-7-cpu-and-32gb-ram-for-usd1-099-mobile-gaming-upgrade-just-got-usd300-cheaper)
+
+---
+
+### 3. Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range 
+
+**💻 Hardware**
+
+Arduino introduces the Modulino Hub and Extender to expand I2C capabilities, supporting up to 64 devices and extending the range to 30 meters.
+
+💡 **Key Point:** Overcoming I2C limitations for complex builds with long-range communication.
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/)
+
+---
+
+### 4. Japanese firm launches hyper-realistic capsule toy PC parts you can assemble and play with tiny motherboards, cases, and CPUs are coming after Tarlin inks collab with the big four PC parts makers 
 
 **📰 Tech News**
 
-Bungie is cutting nearly 300 jobs as Destiny 2's pipeline winds down, shifting focus to new projects like Marathon.
+A Japanese firm collaborates with major PC makers to create mini PC components, such as motherboards, cases, and CPUs, to be used in a toy assembling experience.
 
-💡 **Key Point:** Industry shift from sustaining large games to developing new IPs.
+💡 **Key Point:** Miniaturization of tech could inspire future innovation and education
 
-🔗 [Read More](https://www.techspot.com/news/112909-bungie-cuts-nearly-300-jobs-destiny-2-winds.html)
+🔗 [Read More](https://www.tomshardware.com/desktops/pc-building/japanese-firm-launches-hyper-realistic-capsule-toy-pc-parts-you-can-assemble-and-play-with-tiny-motherboards-cases-and-cpus-are-coming-after-tarlin-inks-collab-with-the-big-four-pc-parts-makers)
 
 ---
 
-### 5. Commodore drops Callback flip phone by $100 by defaulting to recycled memory chips and unbundling the earphones Callback 8020 drops to $399 as skyrocketing memory prices punish smartphone buyers 
+### 5. Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range 
 
-**⚡ Semiconductors**
+**📰 Tech News**
 
-Commodore has lowered the price of its Callback 8020 flip phone to $399, making it more affordable for consumers.
+Arduino introduces the Modulino Hub and Extender to expand I2C capabilities, supporting up to 64 devices and extending the range to 30 meters.
 
-💡 **Key Point:** Skyrocketing memory prices force phone manufacturers to cut costs creatively.
+💡 **Key Point:** Overcoming I2C limitations for complex builds with long-range communication.
 
-🔗 [Read More](https://www.tomshardware.com/phones/commodore-drops-callback-flip-ohine-to-399-by-defaulting-to-recycled-memory-chips)
+🔗 [Read More](https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **35 articles** across **5 focused categories**.
+We covered **21 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 7 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 5 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 4 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 2 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 7 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 2 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 7 articles
+*Artificial Intelligence and Machine Learning* — 4 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 6 articles
+*Graphics cards and compute accelerators* — 2 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 11 articles
+*Computing hardware and development boards* — 7 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 6 articles
+*Chip manufacturing and design* — 2 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 5 articles
+*Industry news and product launches* — 6 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-27 at 10:36 by an autonomous AI curation system.
+Generated 2026-06-28 at 10:54 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
