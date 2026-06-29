@@ -1,75 +1,95 @@
 # 📰 Tech News
-**Week of June 28, 2026**
+**Week of June 29, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-06-28 10:54
+- **Articles this week:** 8
+- **Report generated:** 2026-06-29 12:51
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Japanese firm launches hyper-realistic capsule toy PC parts you can assemble and play with tiny motherboards, cases, and CPUs are coming after Tarlin inks collab with the big four PC parts makers 
+### 1. China s Loongson launches homegrown 16-core server CPU built on LoongArch architecture 40W chip with DDR4 ECC and 32 PCIe lanes targets cheap SMB file, database, and web servers ⭐
 
-A Japanese firm collaborates with major PC makers to create mini PC components, such as motherboards, cases, and CPUs, to be used in a toy assembling experience.
+Loongson has launched the 3C3000, a 16-core server CPU based on LoongArch architecture, designed for cheap SMB servers.
 
-💡 *Miniaturization of tech could inspire future innovation and education*
+💡 *China's Loongson achieves competitive performance with a homegrown, affordable CPU design.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/japanese-firm-launches-hyper-realistic-capsule-toy-pc-parts-you-can-assemble-and-play-with-tiny-motherboards-cases-and-cpus-are-coming-after-tarlin-inks-collab-with-the-big-four-pc-parts-makers)
-
----
-
-### 2. Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range 
-
-Arduino introduces the Modulino Hub and Extender to expand I2C capabilities, supporting up to 64 devices and extending the range to 30 meters.
-
-💡 *Overcoming I2C limitations for complex builds with long-range communication.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/chinas-loongson-launches-homegrown-16-core-server-cpu-built-on-loongarch-architecture-40w-chip-with-ddr4-ecc-and-32-pcie-lanes-targets-cheap-smb-file-database-and-web-servers)
 
 ---
 
-### 3. Research at UAB underway on wearables that are thin and durable 
+### 2. DESLOC V150 Plus smart lock integrates a perovskite solar panel, supports 3D face recognition (Crowdfunding) ⭐
 
-Researchers at UAB are developing ultra-thin, durable wearables using molybdenum disulfide ribbons. These sensors aim to be worn for extended periods on human skin. The proof of concept is a crucial step in making this technology a reality.
+The DESLOC V150 Plus smart lock features a perovskite solar panel, 3D face recognition, and fingerprint sensor, providing up to 8 months of backup operation without manual charging.
 
-💡 *Long-term wearability of ultra-thin sensors improves health monitoring accuracy.*
+💡 *Innovative solar-powered smart lock offers extended battery life autonomy.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/research-uab-underway-wearables-are-thin-and-durable)
-
----
-
-### 4. OpenAI's GPT-5.6 gets staggered release after Trump administration cites national security concerns 
-
-OpenAI's GPT-5.6 is released in stages due to national security concerns. The flagship model, Sol, has a robust safety stack. Terra, another model, is 2x cheaper than GPT-5.5.
-
-💡 *National security concerns hinder AI advancements globally*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112917-openai-gpt-56-gets-staggered-release-after-trump.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/29/desloc-v150-plus-smart-lock-integrates-a-solar-panel-supports-3d-face-recognition/)
 
 ---
 
-### 5. Bambu Lab A2L 3D printer review: The A1 grows up 
+### 3. 400 domains used for illegal 2026 World Cup streams seized by US Justice Department operation is five times the scale of the previous crackdown 
 
-Bambu Lab's A2L 3D printer features an upgraded larger print bed size.
+The US Department of Justice seized nearly 400 domains for illegal 2026 World Cup streams, a significant crackdown five times larger than previous operations.
 
-💡 *Wider print options for increased productivity and creative freedom.*
+💡 *Combating piracy helps protect intellectual property rights and fair revenue distribution.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/bambu-lab-a2l-3d-printer-review)
+🔗 [Read Full Article](https://www.tomshardware.com/service-providers/streaming/us-seizes-nearly-400-domains-streaming-the-2026-world-cup)
 
 ---
 
-### 6. PlayStation sales just had its worst May in 25 years, and Xbox's was the worst ever 
+### 4. PlayStation is removing over 500 movies from UK customers' accounts with no refunds Iconic films like Terminator 2, Apocalypse Now, and Mulholland Drive are getting deleted 
 
-PlayStation sales hit a 25-year low in May 2026, while Xbox sales plummeted to their worst ever in the US. This decline marks a significant downturn for both gaming giants. The numbers were released by market research firm Circana.
+Sony is removing 551 movies from UK PlayStation users' accounts on September 1, 2026, due to expired licensing agreements with StudioCanal.
 
-💡 *Declining console sales raise concerns about gaming industry's long-term growth*
+💡 *Expired licensing agreements cause loss of iconic movies for UK users.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112915-playstation-sales-had-worst-may-25-years-xbox.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/playstation-is-removing-over-500-movies-from-uk-customers-accounts-with-no-refunds-iconic-films-like-terminator-2-apocalypse-now-and-mulholland-drive-are-getting-deleted)
+
+---
+
+### 5. Best of Sensors: Aizip wins startup of the year 
+
+Aizip won Startup of the Year at Best of Sensors on May 6. Their AI at the edge technology provides distinct advantages, solidifying their position. The company's CTO, Weier Wan, shares insights on this innovative approach.
+
+💡 *AI at the edge enhances real-time decision-making and efficiency significantly*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/embedded/best-sensors-aizip-wins-startup-year)
+
+---
+
+### 6. Sony is deleting 551 movies and TV shows you bought on PlayStation, because you don't really own your digital purchases 
+
+Sony will remove 551 movies and TV shows from PlayStation Store on September 1, 2026, and delete them from customers' libraries without offering refunds.
+
+💡 *Lack of actual ownership of digital purchases is a major concern.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112919-sony-deleting-551-movies-tv-shows-you-bought.html)
+
+---
+
+### 7. PNY's Performance 32GB DDR5-5600 RAM becomes the cheapest 2x16GB kit DDR5 kit gets a $70 discount 
+
+PNY's 32GB DDR5-5600 RAM kit receives a significant price drop to $70 less, making it a competitive option for those seeking affordable high-capacity memory.
+
+💡 *Affordable 32GB DDR5 RAM option emerges due to aggressive pricing.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pnys-performance-32gb-ddr5-5600-ram-becomes-the-cheapest-2x16gb-kit-ddr5-kit-gets-a-usd70-discount)
+
+---
+
+### 8. Future robotaxis may not need brake pedals under new US proposal 
+
+A new US proposal may eliminate brake pedals in purpose-built robotaxis, focusing on autonomous vehicles designed specifically for ride-sharing services.
+
+💡 *Safety regulations adapt to autonomous vehicle technology advancements.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112925-future-robotaxis-may-not-need-brake-pedals-under.html)
 
 ---
 

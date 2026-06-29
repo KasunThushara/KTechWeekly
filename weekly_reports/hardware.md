@@ -1,85 +1,125 @@
 # 💻 Hardware
-**Week of June 28, 2026**
+**Week of June 29, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-06-28 10:54
+- **Articles this week:** 11
+- **Report generated:** 2026-06-29 12:51
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Japanese firm launches hyper-realistic capsule toy PC parts you can assemble and play with tiny motherboards, cases, and CPUs are coming after Tarlin inks collab with the big four PC parts makers 
+### 1. China s Loongson launches homegrown 16-core server CPU built on LoongArch architecture 40W chip with DDR4 ECC and 32 PCIe lanes targets cheap SMB file, database, and web servers ⭐
 
-A Japanese firm collaborates with major PC makers to create mini PC components, such as motherboards, cases, and CPUs, to be used in a toy assembling experience.
+Loongson has launched the 3C3000, a 16-core server CPU based on LoongArch architecture, designed for cheap SMB servers.
 
-💡 *Miniaturization of tech could inspire future innovation and education*
+💡 *China's Loongson achieves competitive performance with a homegrown, affordable CPU design.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/japanese-firm-launches-hyper-realistic-capsule-toy-pc-parts-you-can-assemble-and-play-with-tiny-motherboards-cases-and-cpus-are-coming-after-tarlin-inks-collab-with-the-big-four-pc-parts-makers)
-
----
-
-### 2. Get an RTX 5060 gaming laptop loaded with Ryzen 7 CPU and 32GB RAM for $1,099 mobile gaming upgrade just got $300 cheaper 
-
-The Gigabyte Aero X16 is a mid-range gaming laptop offering smooth high-refresh displays and capable RTX 5060 graphics performance. It also features future-ready upgrade options, making it an attractive choice for gamers. This laptop is now available for $1,099.
-
-💡 *High-performance gaming at an affordable price point emerges*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/get-an-rtx-5060-gaming-laptop-loaded-with-ryzen-7-cpu-and-32gb-ram-for-usd1-099-mobile-gaming-upgrade-just-got-usd300-cheaper)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/chinas-loongson-launches-homegrown-16-core-server-cpu-built-on-loongarch-architecture-40w-chip-with-ddr4-ecc-and-32-pcie-lanes-targets-cheap-smb-file-database-and-web-servers)
 
 ---
 
-### 3. Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range 
+### 2. DESLOC V150 Plus smart lock integrates a perovskite solar panel, supports 3D face recognition (Crowdfunding) ⭐
 
-Arduino introduces the Modulino Hub and Extender to expand I2C capabilities, supporting up to 64 devices and extending the range to 30 meters.
+The DESLOC V150 Plus smart lock features a perovskite solar panel, 3D face recognition, and fingerprint sensor, providing up to 8 months of backup operation without manual charging.
 
-💡 *Overcoming I2C limitations for complex builds with long-range communication.*
+💡 *Innovative solar-powered smart lock offers extended battery life autonomy.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/)
-
----
-
-### 4. Intel's next-gen 52-core Nova Lake CPU could pull up to 474W high-end LGA1954 motherboards may need three 8-pin power connectors to feed the monster 
-
-Intel's next-gen Nova Lake CPU may have a 52-core design with a 474W power limit, and the new LGA1954 platform could introduce motherboard tiers with optional triple EPS power connectors for high-end CPUs.
-
-💡 *Power-hungry flagship CPUs require significant upgrades to motherboard infrastructure.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-next-gen-52-core-nova-lake-cpu-could-pull-up-to-474w-high-end-lga1954-motherboards-may-need-three-8-pin-power-connectors-to-feed-the-monster)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/29/desloc-v150-plus-smart-lock-integrates-a-solar-panel-supports-3d-face-recognition/)
 
 ---
 
-### 5. Bambu Lab A2L 3D printer review: The A1 grows up 
+### 3. Waveshare ESP32-C6-Zero-B A tiny ESP32-C6 USB-C board with 5V-36V wide supply voltage 
 
-Bambu Lab's A2L 3D printer features an upgraded larger print bed size.
+The Waveshare ESP32-C6-Zero-B is a compact ESP32-C6 board with 5V-36V supply voltage support, featuring WiFi 6, Bluetooth 5.3, and 802.15.4 radio.
 
-💡 *Wider print options for increased productivity and creative freedom.*
+💡 *Industrial-grade ESP32 board expands IoT applications with wide voltage support*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/bambu-lab-a2l-3d-printer-review)
-
----
-
-### 6. Modded Steam Controller can automatically charge itself like a robot vacuum enthusiast creates GitHub program that uses the vibration motor to walk it back to its docking station 
-
-A modded Steam Controller project uses computer vision and haptic motors to automatically charge itself by sliding back to its docking station. A web app allows users to try this functionality using a webcam. This innovative solution enables seamless charging for Steam Controller enthusiasts.
-
-💡 *Enabling autonomous charging for Steam Controllers with haptic motor guidance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/modded-steam-controller-can-automatically-charge-itself-like-a-robot-vacuum-enthusiast-creates-github-program-that-uses-the-vibration-motor-to-walk-it-back-to-its-docking-station)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/29/waveshare-esp32-c6-zero-b-a-tiny-esp32-c6-usb-c-board-with-5v-36v-wide-supply-voltage/)
 
 ---
 
-### 7. The Steam Machine is sold out, overpriced, can't quite do 4K and now scalpers are asking $3,000 for it 
+### 4. Simplia CONNECT RW612 6-in-1 M.2 2230 module offers WiFi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT, and GNSS connectivity 
 
-The Steam Machine is facing criticism over its price and performance, with some scalpers asking $3,000. Despite its limitations, it has inspired new features from users. This may be the only new hardware from Valve accessible to users for now.
+Simplia CONNECT RW612 is a compact 6-in-1 wireless module offering dual-band WiFi 6, Bluetooth 5.4, and other connectivity options.
 
-💡 *High price and performance issues harm Steam Machine's consumer appeal.*
+💡 *First module to integrate multiple wireless standards into a small M.2 2230 module.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112913-steam-machine-sold-out-overpriced-cant-do-4k.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/29/simplia-connect-rw612-6-in-1-m-2-2230-module-offers-wifi-6-bluetooth-5-4-802-15-4-lte-m-nb-iot-and-gnss-connectivity/)
+
+---
+
+### 5. DEBIX T62P-01 Raspberry Pi-like industrial SBC features TI AM62P SoC, dual GbE with TSN, multi-domain UART 
+
+The DEBIX T62P-01 is a compact industrial SBC built around the Texas Instruments Sitara AM62P SoC, designed for industrial IoT, robotics, and edge computing applications. It features two GbE ports, Wi-Fi 6, and Bluetooth 5.4 connectivity, along with advanced security features. The board supports up to 8GB of LPDDR4 memory and optional eMMC storage.
+
+💡 *Industrial IoT applications require secure, high-performance edge computing solutions.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/29/debix-t62p-01-raspberry-pi-like-industrial-sbc-features-ti-am62p-soc-dual-gbe-with-tsn-multi-domain-uart/)
+
+---
+
+### 6. TechSpot PC Buying Guide: Four Smart Builds for a Difficult PC Market 
+
+This PC buying guide offers four balanced systems for a challenging market. The builds prioritize performance, value, and upgrade paths. Each system is designed to be efficient and cost-effective.
+
+💡 *Budget-friendly PC builds require creative component selections now.*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3136-pc-buying-guide-2026/)
+
+---
+
+### 7. Save a massive $1,100 on this RTX 5080 gaming PC with a 9800X3D from HP, now just $2,499 liquid-cooled Omen 35L rig unlocks 4K gameplay with 32GB DDR5 and a 2TB SSD 
+
+Save $1,100 on an HP Omen 45L gaming rig with a 9800X3D, RTX 5080, 32GB DDR5 RAM, and 2TB SSD storage for $2,499.99.
+
+💡 *Unlock 4K gaming capabilities at a significantly lower cost.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-a-massive-usd1-100-on-this-rtx-5080-gaming-pc-with-a-9800x3d-from-hp-now-just-usd2-499-liquid-cooled-omen-35l-rig-unlocks-4k-gameplay-with-32gb-ddr5-and-a-2tb-ssd)
+
+---
+
+### 8. Pick up Hoto's ultra-useful 3D printing tool for just $29 save 40% on this 35-piece Cordless Rotary Tool to give your creations a finishing touch 
+
+Hoto's cordless rotary tool is now available for $29, a 40% discount. This 35-piece tool is ideal for PC builders and hobbyists who need a finishing touch for their creations. It's a valuable addition to any DIY arsenal.
+
+💡 *Precision finishing for DIY projects at an affordable price point.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/pick-up-hotos-ultra-useful-3d-printing-tool-for-just-usd29-save-40-percent-on-this-35-piece-cordless-rotary-tool-to-give-your-creations-a-finishing-touch)
+
+---
+
+### 9. AMD engineer 3D-prints Steam Machine-a-like with diagonal mobo mounting parts include a Mini ITX motherboard, RTX 5060, and a flex ATX PSU 
+
+The Terk Box v1.1 is a 3D-printed PC case alternative to Valve's Steam Machine, featuring a Mini ITX motherboard, NVIDIA RTX 5060 GPU, and a flex ATX PSU, offering a unique build option for enthusiasts.
+
+💡 *DIY enthusiasts can create custom gaming PCs with minimal costs and space.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/diy-3d-printed-steam-machine-a-like-uses-diagonal-mobo-mounting-parts-include-a-mini-itx-motherboard-rtx-5060-and-a-flex-atx-psu)
+
+---
+
+### 10. SteamOS comes to a regular gaming desktop with Meta PCs' Steamroller 
+
+Steamroller is a mid-range gaming desktop targeting high-frame-rate 1080p play.
+
+💡 *Blurs line between console and PC gaming experiences for users.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112921-steamos-comes-regular-gaming-desktop-meta-pcs-steamroller.html)
+
+---
+
+### 11. Riot's always-on anti-cheat is finally getting an off switch 
+
+Riot Games is updating its Vanguard anti-cheat system to no longer run automatically on PC boot, giving players more control over when it's active.
+
+💡 *User autonomy and trust are being restored with anti-cheat flexibility.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112911-riot-always-anti-cheat-finally-getting-off-switch.html)
 
 ---
 
