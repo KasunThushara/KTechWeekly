@@ -1,5 +1,5 @@
 # 🎮 GPUs
-**Week of June 29, 2026**
+**Week of June 30, 2026**
 
 *Graphics cards and compute accelerators*
 
@@ -7,49 +7,49 @@
 
 ## 📊 Summary
 - **Articles this week:** 4
-- **Report generated:** 2026-06-29 12:51
+- **Report generated:** 2026-06-30 11:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. TechSpot PC Buying Guide: Four Smart Builds for a Difficult PC Market 
+### 1. AMD EXPO ULL RAM drops at jaw-dropping $1,099 despite promises of it being 'effectively the same price' DDR5-6000 C26 32GB kit sports 80% ULL tax 
 
-This PC buying guide offers four balanced systems for a challenging market. The builds prioritize performance, value, and upgrade paths. Each system is designed to be efficient and cost-effective.
+Newegg now selling AMD ULL-enabled G.Skill Trident Z5 NeoX kits, priced at $1,099. The kits are 32GB DDR5-6000 C26, with an 80% ULL tax.
 
-💡 *Budget-friendly PC builds require creative component selections now.*
+💡 *High ULL tax undermines promise of 'effectively the same price' RAM*
 
-🔗 [Read Full Article](https://www.techspot.com/article/3136-pc-buying-guide-2026/)
-
----
-
-### 2. Save a massive $1,100 on this RTX 5080 gaming PC with a 9800X3D from HP, now just $2,499 liquid-cooled Omen 35L rig unlocks 4K gameplay with 32GB DDR5 and a 2TB SSD 
-
-Save $1,100 on an HP Omen 45L gaming rig with a 9800X3D, RTX 5080, 32GB DDR5 RAM, and 2TB SSD storage for $2,499.99.
-
-💡 *Unlock 4K gaming capabilities at a significantly lower cost.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-a-massive-usd1-100-on-this-rtx-5080-gaming-pc-with-a-9800x3d-from-hp-now-just-usd2-499-liquid-cooled-omen-35l-rig-unlocks-4k-gameplay-with-32gb-ddr5-and-a-2tb-ssd)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/amd-expo-ull-ram-drops-at-jaw-dropping-usd1-099-despite-promises-of-it-being-effectively-the-same-price-ddr5-6000-c26-32gb-kit-sports-80-percent-ull-tax)
 
 ---
 
-### 3. AMD engineer 3D-prints Steam Machine-a-like with diagonal mobo mounting parts include a Mini ITX motherboard, RTX 5060, and a flex ATX PSU 
+### 2. CUDA emulator for AMD GPUs Zluda loses funding with v6 release embattled project goes back to hobby status but now includes 32-bit PhysX support 
 
-The Terk Box v1.1 is a 3D-printed PC case alternative to Valve's Steam Machine, featuring a Mini ITX motherboard, NVIDIA RTX 5060 GPU, and a flex ATX PSU, offering a unique build option for enthusiasts.
+Zluda, an open-source CUDA emulator for AMD GPUs, has lost funding. Version 6 has been released as a hobby project. It now includes early 32-bit PhysX support.
 
-💡 *DIY enthusiasts can create custom gaming PCs with minimal costs and space.*
+💡 *AMD GPU developers gain access to 32-bit PhysX technology*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/diy-3d-printed-steam-machine-a-like-uses-diagonal-mobo-mounting-parts-include-a-mini-itx-motherboard-rtx-5060-and-a-flex-atx-psu)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/cuda-emulator-for-amd-gpus-zluda-loses-funding-with-v6-release-embattled-project-goes-back-to-hobby-status-but-now-includes-32-bit-physx-support)
 
 ---
 
-### 4. SteamOS comes to a regular gaming desktop with Meta PCs' Steamroller 
+### 3. Legacy Nvidia RTX 3060 12GB returns to retail five years after original launch, priced at $339 resurrected GPU strategy that Jensen called a 'good idea' apparently comes to fruition 
 
-Steamroller is a mid-range gaming desktop targeting high-frame-rate 1080p play.
+Nvidia's revived RTX 3060 12GB is now available for $339, five years after its initial launch. This move follows Nvidia CEO Jensen Huang's endorsement of re-introducing older GPUs on trailing process nodes. The re-release aims to provide budget-friendly options for gamers.
 
-💡 *Blurs line between console and PC gaming experiences for users.*
+💡 *Nvidia's resurrected GPU strategy helps bridge budget gaming gaps effectively.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112921-steamos-comes-regular-gaming-desktop-meta-pcs-steamroller.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/legacy-nvidia-rtx-3060-12gb-returns-to-retail-five-years-after-original-launch-priced-at-usd339-resurrected-gpu-strategy-that-jensen-called-a-good-idea-apparently-comes-to-fruition)
+
+---
+
+### 4. Steamroller becomes first prebuilt gaming PC to ship with SteamOS Ryzen 9600X, Radeon RX 7600, 16GB DDR5 RAM system available for preorder at $1,299 
+
+Steamroller becomes the first prebuilt gaming PC to ship with SteamOS, featuring a Ryzen 9600X, Radeon RX 7600, and 16GB DDR5 RAM. The system is available for preorder at $1,299. It offers standard desktop components with future upgradeability.
+
+💡 *SteamOS gaming PCs offer users a unique, Linux-based gaming experience.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/steamroller-becomes-first-prebuilt-gaming-pc-to-ship-with-steamos-ryzen-9600x-radeon-rx-7600-16gb-ddr5-ram-system-available-for-preorder-at-usd1-299)
 
 ---
 

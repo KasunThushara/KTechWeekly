@@ -1,95 +1,135 @@
 # 🤖 AI & ML
-**Week of June 29, 2026**
+**Week of June 30, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-06-29 12:51
+- **Articles this week:** 12
+- **Report generated:** 2026-06-30 11:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. 400 domains used for illegal 2026 World Cup streams seized by US Justice Department operation is five times the scale of the previous crackdown 
+### 1. Banana Pi BPI-VP10 A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU 
 
-The US Department of Justice seized nearly 400 domains for illegal 2026 World Cup streams, a significant crackdown five times larger than previous operations.
+Banana Pi BPI-VP10 is a low-cost servo control board based on the Fortior FU7512L dual-core RISC-V MCU, designed for industrial control applications with 100W/200W servo support and multiple control modes.
 
-💡 *Combating piracy helps protect intellectual property rights and fair revenue distribution.*
+💡 *Affordable RISC-V MCU enables easy, cost-effective industrial servo control development.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/service-providers/streaming/us-seizes-nearly-400-domains-streaming-the-2026-world-cup)
-
----
-
-### 2. China s hollow-core fiber trial pushes 51.3 Tb/s over 128 miles without signal regeneration milestone targets AI-era networking bottlenecks 
-
-China-based YOFC, China Telecom, and Dekoli achieved a record 51.3 Tb/s transmission over 206.5 km using hollow-core fiber without signal regeneration.
-
-💡 *Overcoming fiber limitations to boost data transmission capacity in AI-era networks.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/chinas-hollow-core-fiber-trial-pushes-51-3-tb-s-over-128-miles-without-signal-regeneration-milestone-targets-ai-era-networking-bottlenecks)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/)
 
 ---
 
-### 3. Lenovo says the 'RAMageddon' is the new normal, outlines survival guide at ISC 2026 an exec said 'it will never be like it was last year' 
+### 2. A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes no human steering needed 
 
-Lenovo claims 'RAMageddon' is the new normal in the memory market, stating that it will never return to last year's levels. This was announced at the International Supercomputing Conference 2026. The company is preparing users for a new reality.
+Flexion Robotics teaches humanoid robots basic skills and high-level AI to adapt
 
-💡 *Rapid memory price increases become a permanent market condition reality.*
+💡 *Autonomous robots can complete complex tasks with minimal human input required*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/lenovo-says-the-ramageddon-is-the-new-normal-outlines-survival-guide-at-isc-2026-an-exec-said-it-will-never-be-like-it-was-last-year)
-
----
-
-### 4. AI coding agents can be tricked into installing malware via 'clean' GitHub repositories Mozilla's 0din team shows how Claude Code can be exploited by its own helpfulness 
-
-AI coding agents like Claude can be tricked into installing malware via 'clean' GitHub repositories by asking the bot to initialize a project, exploiting its helpfulness.
-
-💡 *Helpful AI tools can be manipulated into spreading malicious code.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/ai-coding-agents-can-be-tricked-into-installing-malware-via-clean-github-repositories-mozillas-0din-team-shows-how-claude-code-can-be-exploited-by-its-own-helpfulness)
+🔗 [Read Full Article](https://www.techspot.com/news/112938-startup-taught-humanoid-robots-retrieve-packages-climb-stairs.html)
 
 ---
 
-### 5. Best of Sensors: Aizip wins startup of the year 
+### 3. RAM prices expected to rise another 40-50% in Q3 2026, and then 30% more in Q4 as AI demand outpaces supply 
 
-Aizip won Startup of the Year at Best of Sensors on May 6. Their AI at the edge technology provides distinct advantages, solidifying their position. The company's CTO, Weier Wan, shares insights on this innovative approach.
+RAM prices are expected to rise by 40-50% in Q3 and 30-40% in Q4 due to AI demand outpacing supply. This surge is attributed to the increasing need for memory in AI-driven applications. Ethan Tan, a memory industry consultant, predicts this price hike.
 
-💡 *AI at the edge enhances real-time decision-making and efficiency significantly*
+💡 *AI demand fuels memory price surge*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/embedded/best-sensors-aizip-wins-startup-year)
-
----
-
-### 6. Australia raises social media ban penalties to $99 million as children keep accessing platforms 
-
-Australia raises social media ban penalties to $99 million to protect children's online safety.
-
-💡 *Tech companies failing to protect children from online harm.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112924-australia-raises-social-media-ban-penalties-99-million.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112934-ram-prices-expected-rise-another-40-50-q3.html)
 
 ---
 
-### 7. Netflix now wants every profile to have its own email address, annoying users 
+### 4. Cargo thieves target AI data center supplies in $1.3 million heists $300,000 worth of copper wire and $1 million worth of equipment recovered outside Chicago 
 
-Netflix is changing its user identity policy, prompting login prompts and extra steps.
+Authorities recovered $1.3 million worth of data center supplies and equipment near Chicago. The stolen goods included $300,000 worth of copper wire and $1 million worth of equipment. This high-value recovery indicates cargo thieves target AI data center supplies.
 
-💡 *Compromising user convenience for enhanced data collection and security measures.*
+💡 *High-tech cargo thefts hinder AI data center infrastructure development.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112920-netflix-now-wants-every-profile-have-own-email.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/cargo-thieves-target-ai-data-center-supplies-in-usd1-3-million-heists-usd300-000-worth-of-copper-wire-and-usd1-million-worth-of-equipment-recovered-outside-chicago)
 
 ---
 
-### 8. Big Tech's $8 trillion AI bet is making consoles, cars, and electricity more expensive for everyone else 
+### 5. Legacy Nvidia RTX 3060 12GB returns to retail five years after original launch, priced at $339 resurrected GPU strategy that Jensen called a 'good idea' apparently comes to fruition 
 
-Big Tech's AI development is driving an industrial expansion of data centers, driving up costs for consumers across various industries, including consoles, cars, and electricity.
+Nvidia's revived RTX 3060 12GB is now available for $339, five years after its initial launch. This move follows Nvidia CEO Jensen Huang's endorsement of re-introducing older GPUs on trailing process nodes. The re-release aims to provide budget-friendly options for gamers.
 
-💡 *Massive tech investments boost costs, affecting consumers worldwide.*
+💡 *Nvidia's resurrected GPU strategy helps bridge budget gaming gaps effectively.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112916-big-tech-8-trillion-ai-bet-making-consoles.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/legacy-nvidia-rtx-3060-12gb-returns-to-retail-five-years-after-original-launch-priced-at-usd339-resurrected-gpu-strategy-that-jensen-called-a-good-idea-apparently-comes-to-fruition)
+
+---
+
+### 6. Samsung, SK hynix, and Micron sued over alleged DRAM price fixing amid record memory costs lawsuit claims coordinated HBM shift was cover to curtail DDR3 and DDR4 production 
+
+Samsung, SK hynix, and Micron are sued over alleged DRAM price fixing. A lawsuit claims the companies coordinated a shift to High-Bandwidth Memory (HBM) to reduce DDR3 and DDR4 production. The lawsuit was filed in the U.S. District Court for the Northern District of California.
+
+💡 *DRAM price fixing could severely impact tech industry supply chains worldwide*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsung-sk-hynix-and-micron-sued-over-alleged-dram-price-fixing-amid-record-memory-costs)
+
+---
+
+### 7. Imec's 2026 roadmap details 0.3nm nodes by 2038, CFET transistors become viable at 0.7nm company redefines Moore's Law as cell sizes gain importance for density 
+
+Imec's roadmap targets 0.3nm nodes by 2038, introducing CFET transistors and HLSI era.
+
+💡 *Transistor density gains focus from scaling to cell size optimization.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/imecs-2026-roadmap-details-0-3nm-nodes-by-2038-cfet-transistors-become-viable-at-0-7nm-company-redefines-moores-law-as-cell-sizes-gain-importance-for-density)
+
+---
+
+### 8. Apple pulled VK's apps in Russia without warning, so the Kremlin is telling users to switch to Android 
+
+Apple removed VK's apps from the App Store without warning, affecting millions of users. VK is blaming Apple for the move. The Kremlin is advising users to switch to Android as a result.
+
+💡 *Apple's actions limit access to popular Russian app in the country*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112936-apple-pulled-vk-apps-russia-without-warning-kremlin.html)
+
+---
+
+### 9. Meta has been secretly relying on Google's AI for customer service, ad tools, and content moderation then got cut off 
+
+Meta was secretly relying on Google's AI services, but was cut off suddenly, disrupting internal projects.
+
+💡 *Dependence on external AI services poses significant strategic risk to companies.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112930-meta-told-staff-watch-their-ai-tokens-after.html)
+
+---
+
+### 10. South Korea is betting $880 billion that the next AI race will be won in hardware, not software 
+
+South Korea is investing heavily in semiconductor manufacturing to meet growing demand for memory chips.
+
+💡 *South Korea's hardware-focused AI strategy prioritizes manufacturing over software advancements.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112926-south-korea-betting-880-billion-next-ai-race.html)
+
+---
+
+### 11. Prosecutors used a man's ChatGPT logs to try to link him to the Pacific Palisades fire, but it didn't work 
+
+Prosecutors used ChatGPT logs against a man accused of starting the Pacific Palisades fire, but their case was unsuccessful.
+
+💡 *Prosecution's reliance on AI logs raises concerns about digital privacy rights.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112929-chatgpt-logs-used-evidence-palisades-fire-case-ended.html)
+
+---
+
+### 12. Meet "loop engineering": The next evolution in AI coding isn't a better prompt, it's a system that prompts itself 
+
+Developers are creating self-replicating AI coding systems, dubbed 'loops,' to boost efficiency.
+
+💡 *Self-replicating AI systems revolutionize code development with infinite scalability.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112923-ai-developers-moving-beyond-prompts-loops-take-over.html)
 
 ---
 

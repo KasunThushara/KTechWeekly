@@ -1,269 +1,335 @@
 [
   {
-    "title": "Save a massive $1,100 on this RTX 5080 gaming PC with a 9800X3D from HP, now just $2,499 liquid-cooled Omen 35L rig unlocks 4K gameplay with 32GB DDR5 and a 2TB SSD",
-    "summary": "Save $1,100 on an HP Omen 45L gaming rig with a 9800X3D, RTX 5080, 32GB DDR5 RAM, and 2TB SSD storage for $2,499.99.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-a-massive-usd1-100-on-this-rtx-5080-gaming-pc-with-a-9800x3d-from-hp-now-just-usd2-499-liquid-cooled-omen-35l-rig-unlocks-4k-gameplay-with-32gb-ddr5-and-a-2tb-ssd",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.059139",
-    "insight": "Unlock 4K gaming capabilities at a significantly lower cost."
-  },
-  {
-    "title": "Pick up Hoto's ultra-useful 3D printing tool for just $29 save 40% on this 35-piece Cordless Rotary Tool to give your creations a finishing touch",
-    "summary": "Hoto's cordless rotary tool is now available for $29, a 40% discount. This 35-piece tool is ideal for PC builders and hobbyists who need a finishing touch for their creations. It's a valuable addition to any DIY arsenal.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/pick-up-hotos-ultra-useful-3d-printing-tool-for-just-usd29-save-40-percent-on-this-35-piece-cordless-rotary-tool-to-give-your-creations-a-finishing-touch",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.059257",
-    "insight": "Precision finishing for DIY projects at an affordable price point."
-  },
-  {
-    "title": "China s hollow-core fiber trial pushes 51.3 Tb/s over 128 miles without signal regeneration milestone targets AI-era networking bottlenecks",
-    "summary": "China-based YOFC, China Telecom, and Dekoli achieved a record 51.3 Tb/s transmission over 206.5 km using hollow-core fiber without signal regeneration.",
-    "link": "https://www.tomshardware.com/networking/chinas-hollow-core-fiber-trial-pushes-51-3-tb-s-over-128-miles-without-signal-regeneration-milestone-targets-ai-era-networking-bottlenecks",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.059377",
-    "insight": "Overcoming fiber limitations to boost data transmission capacity in AI-era networks."
-  },
-  {
-    "title": "PNY's Performance 32GB DDR5-5600 RAM becomes the cheapest 2x16GB kit DDR5 kit gets a $70 discount",
-    "summary": "PNY's 32GB DDR5-5600 RAM kit receives a significant price drop to $70 less, making it a competitive option for those seeking affordable high-capacity memory.",
-    "link": "https://www.tomshardware.com/pc-components/pnys-performance-32gb-ddr5-5600-ram-becomes-the-cheapest-2x16gb-kit-ddr5-kit-gets-a-usd70-discount",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-29T12:50:59.059494",
-    "insight": "Affordable 32GB DDR5 RAM option emerges due to aggressive pricing."
-  },
-  {
-    "title": "Lenovo says the 'RAMageddon' is the new normal, outlines survival guide at ISC 2026 an exec said 'it will never be like it was last year'",
-    "summary": "Lenovo claims 'RAMageddon' is the new normal in the memory market, stating that it will never return to last year's levels. This was announced at the International Supercomputing Conference 2026. The company is preparing users for a new reality.",
-    "link": "https://www.tomshardware.com/pc-components/ram/lenovo-says-the-ramageddon-is-the-new-normal-outlines-survival-guide-at-isc-2026-an-exec-said-it-will-never-be-like-it-was-last-year",
+    "title": "Cargo thieves target AI data center supplies in $1.3 million heists $300,000 worth of copper wire and $1 million worth of equipment recovered outside Chicago",
+    "summary": "Authorities recovered $1.3 million worth of data center supplies and equipment near Chicago. The stolen goods included $300,000 worth of copper wire and $1 million worth of equipment. This high-value recovery indicates cargo thieves target AI data center supplies.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/cargo-thieves-target-ai-data-center-supplies-in-usd1-3-million-heists-usd300-000-worth-of-copper-wire-and-usd1-million-worth-of-equipment-recovered-outside-chicago",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.059602",
-    "insight": "Rapid memory price increases become a permanent market condition reality."
+    "processed_date": "2026-06-30T11:32:08.051945",
+    "insight": "High-tech cargo thefts hinder AI data center infrastructure development."
   },
   {
-    "title": "AMD engineer 3D-prints Steam Machine-a-like with diagonal mobo mounting parts include a Mini ITX motherboard, RTX 5060, and a flex ATX PSU",
-    "summary": "The Terk Box v1.1 is a 3D-printed PC case alternative to Valve's Steam Machine, featuring a Mini ITX motherboard, NVIDIA RTX 5060 GPU, and a flex ATX PSU, offering a unique build option for enthusiasts.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/diy-3d-printed-steam-machine-a-like-uses-diagonal-mobo-mounting-parts-include-a-mini-itx-motherboard-rtx-5060-and-a-flex-atx-psu",
+    "title": "Meta fights soaring hardware costs by reusing old DDR4 server memory in new DDR5-only servers custom CXL 2.0 chip marries legacy DDR4-2400 with cutting-edge DDR5-6400",
+    "summary": "Meta uses its custom Vistara CXL memory expander to reuse DDR4 memory in new servers running AMD EPYC 'Turin' processors, cutting hardware costs.",
+    "link": "https://www.tomshardware.com/pc-components/dram/meta-fights-soaring-hardware-costs-by-reusing-old-ddr4-server-memory-in-new-ddr5-only-servers-custom-cxl-2-0-chip-marries-legacy-ddr4-2400-with-cutting-edge-ddr5-6400",
     "categories": [
-      "GPUs",
-      "Hardware"
+      "Hardware",
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.059714",
-    "insight": "DIY enthusiasts can create custom gaming PCs with minimal costs and space."
+    "processed_date": "2026-06-30T11:32:08.052080",
+    "insight": "Meta optimizes hardware costs with innovative DDR4-legacy integration technology"
   },
   {
-    "title": "400 domains used for illegal 2026 World Cup streams seized by US Justice Department operation is five times the scale of the previous crackdown",
-    "summary": "The US Department of Justice seized nearly 400 domains for illegal 2026 World Cup streams, a significant crackdown five times larger than previous operations.",
-    "link": "https://www.tomshardware.com/service-providers/streaming/us-seizes-nearly-400-domains-streaming-the-2026-world-cup",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-29T12:50:59.059827",
-    "insight": "Combating piracy helps protect intellectual property rights and fair revenue distribution."
-  },
-  {
-    "title": "China s Loongson launches homegrown 16-core server CPU built on LoongArch architecture 40W chip with DDR4 ECC and 32 PCIe lanes targets cheap SMB file, database, and web servers",
-    "summary": "Loongson has launched the 3C3000, a 16-core server CPU based on LoongArch architecture, designed for cheap SMB servers.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/chinas-loongson-launches-homegrown-16-core-server-cpu-built-on-loongarch-architecture-40w-chip-with-ddr4-ecc-and-32-pcie-lanes-targets-cheap-smb-file-database-and-web-servers",
+    "title": "HamsterOS jams a 32-bit GUI operating system in a single 1.44 MB floppy disk retro OS for 386-era hardware should make for easy living with DOS machines and software",
+    "summary": "HamsterOS is a 32-bit GUI operating system that fits on a single 1.44 MB floppy disk, making it compatible with 386-era hardware and allowing for easy coexistence with DOS-based machines and software.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/hamsteros-jams-a-32-bit-gui-operating-system-in-a-1-44-mb-single-floppy-for-386-era-hardware-retro-os-should-make-for-easy-living-with-dos-machines-and-software",
     "categories": [
       "Hardware",
       "Tech News"
     ],
-    "quality_score": 20,
-    "processed_date": "2026-06-29T12:50:59.059983",
-    "insight": "China's Loongson achieves competitive performance with a homegrown, affordable CPU design."
-  },
-  {
-    "title": "AI coding agents can be tricked into installing malware via 'clean' GitHub repositories Mozilla's 0din team shows how Claude Code can be exploited by its own helpfulness",
-    "summary": "AI coding agents like Claude can be tricked into installing malware via 'clean' GitHub repositories by asking the bot to initialize a project, exploiting its helpfulness.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/ai-coding-agents-can-be-tricked-into-installing-malware-via-clean-github-repositories-mozillas-0din-team-shows-how-claude-code-can-be-exploited-by-its-own-helpfulness",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.060096",
-    "insight": "Helpful AI tools can be manipulated into spreading malicious code."
+    "processed_date": "2026-06-30T11:32:08.052209",
+    "insight": "Enabling seamless integration with legacy hardware and software ecosystems."
   },
   {
-    "title": "PlayStation is removing over 500 movies from UK customers' accounts with no refunds Iconic films like Terminator 2, Apocalypse Now, and Mulholland Drive are getting deleted",
-    "summary": "Sony is removing 551 movies from UK PlayStation users' accounts on September 1, 2026, due to expired licensing agreements with StudioCanal.",
-    "link": "https://www.tomshardware.com/video-games/playstation/playstation-is-removing-over-500-movies-from-uk-customers-accounts-with-no-refunds-iconic-films-like-terminator-2-apocalypse-now-and-mulholland-drive-are-getting-deleted",
+    "title": "Oomwoo is a new open-source robot vacuum you can 3D print yourself, sidesteps cloud security risks by running fully offline project combines Raspberry Pi, 2D LiDAR, and a 3D-printed chassis",
+    "summary": "OOMWOO is an open-source robot vacuum that can be 3D printed by owners, providing a fully offline experience and sidestepping cloud security risks.",
+    "link": "https://www.tomshardware.com/3d-printing/maker-kicks-off-oomwoo-an-open-source-robot-vacuum-you-can-3d-print-and-build-yourself",
     "categories": [
+      "Hardware",
       "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.060208",
-    "insight": "Expired licensing agreements cause loss of iconic movies for UK users."
+    "quality_score": 10,
+    "processed_date": "2026-06-30T11:32:08.052321",
+    "insight": "Empowering DIY users to control their robot's data and security."
   },
   {
-    "title": "Waveshare ESP32-C6-Zero-B A tiny ESP32-C6 USB-C board with 5V-36V wide supply voltage",
-    "summary": "The Waveshare ESP32-C6-Zero-B is a compact ESP32-C6 board with 5V-36V supply voltage support, featuring WiFi 6, Bluetooth 5.3, and 802.15.4 radio.",
-    "link": "https://www.cnx-software.com/2026/06/29/waveshare-esp32-c6-zero-b-a-tiny-esp32-c6-usb-c-board-with-5v-36v-wide-supply-voltage/",
+    "title": "Designer turns discontinued E-Ink dev board into a 60Hz Game Boy handheld dual-core chip runs at 100% to power handheld, 960x540 display employs ultra-low-cost ESP32-S3 microcontroller",
+    "summary": "A designer repurposed a discontinued E-Ink dev board into a functional Game Boy handheld, utilizing an ESP32-S3 microcontroller. The device boasts a 60Hz display and impressive performance, despite the hardware's discontinuation. The achievement showcases the creator's technical expertise and resourcefulness.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/designer-turns-niche-e-ink-dev-board-into-a-60hz-game-boy-handheld-960x540-display-powered-by-ultra-low-cost-esp32-s3-microcontroller",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-29T12:50:59.060736",
-    "insight": "Industrial-grade ESP32 board expands IoT applications with wide voltage support"
+    "processed_date": "2026-06-30T11:32:08.052434",
+    "insight": "Creative repurposing of discontinued hardware leads to innovative achievements."
   },
   {
-    "title": "Simplia CONNECT RW612 6-in-1 M.2 2230 module offers WiFi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT, and GNSS connectivity",
-    "summary": "Simplia CONNECT RW612 is a compact 6-in-1 wireless module offering dual-band WiFi 6, Bluetooth 5.4, and other connectivity options.",
-    "link": "https://www.cnx-software.com/2026/06/29/simplia-connect-rw612-6-in-1-m-2-2230-module-offers-wifi-6-bluetooth-5-4-802-15-4-lte-m-nb-iot-and-gnss-connectivity/",
+    "title": "AMD EXPO ULL RAM drops at jaw-dropping $1,099 despite promises of it being 'effectively the same price' DDR5-6000 C26 32GB kit sports 80% ULL tax",
+    "summary": "Newegg now selling AMD ULL-enabled G.Skill Trident Z5 NeoX kits, priced at $1,099. The kits are 32GB DDR5-6000 C26, with an 80% ULL tax.",
+    "link": "https://www.tomshardware.com/pc-components/ram/amd-expo-ull-ram-drops-at-jaw-dropping-usd1-099-despite-promises-of-it-being-effectively-the-same-price-ddr5-6000-c26-32gb-kit-sports-80-percent-ull-tax",
     "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-29T12:50:59.060920",
-    "insight": "First module to integrate multiple wireless standards into a small M.2 2230 module."
-  },
-  {
-    "title": "DEBIX T62P-01 Raspberry Pi-like industrial SBC features TI AM62P SoC, dual GbE with TSN, multi-domain UART",
-    "summary": "The DEBIX T62P-01 is a compact industrial SBC built around the Texas Instruments Sitara AM62P SoC, designed for industrial IoT, robotics, and edge computing applications. It features two GbE ports, Wi-Fi 6, and Bluetooth 5.4 connectivity, along with advanced security features. The board supports up to 8GB of LPDDR4 memory and optional eMMC storage.",
-    "link": "https://www.cnx-software.com/2026/06/29/debix-t62p-01-raspberry-pi-like-industrial-sbc-features-ti-am62p-soc-dual-gbe-with-tsn-multi-domain-uart/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-29T12:50:59.061100",
-    "insight": "Industrial IoT applications require secure, high-performance edge computing solutions."
-  },
-  {
-    "title": "DESLOC V150 Plus smart lock integrates a perovskite solar panel, supports 3D face recognition (Crowdfunding)",
-    "summary": "The DESLOC V150 Plus smart lock features a perovskite solar panel, 3D face recognition, and fingerprint sensor, providing up to 8 months of backup operation without manual charging.",
-    "link": "https://www.cnx-software.com/2026/06/29/desloc-v150-plus-smart-lock-integrates-a-solar-panel-supports-3d-face-recognition/",
-    "categories": [
-      "Tech News",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-06-29T12:50:59.061282",
-    "insight": "Innovative solar-powered smart lock offers extended battery life autonomy."
-  },
-  {
-    "title": "Best of Sensors: Aizip wins startup of the year",
-    "summary": "Aizip won Startup of the Year at Best of Sensors on May 6. Their AI at the edge technology provides distinct advantages, solidifying their position. The company's CTO, Weier Wan, shares insights on this innovative approach.",
-    "link": "https://www.fiercesensors.com/embedded/best-sensors-aizip-wins-startup-year",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.062240",
-    "insight": "AI at the edge enhances real-time decision-making and efficiency significantly"
-  },
-  {
-    "title": "Future robotaxis may not need brake pedals under new US proposal",
-    "summary": "A new US proposal may eliminate brake pedals in purpose-built robotaxis, focusing on autonomous vehicles designed specifically for ride-sharing services.",
-    "link": "https://www.techspot.com/news/112925-future-robotaxis-may-not-need-brake-pedals-under.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-29T12:50:59.062683",
-    "insight": "Safety regulations adapt to autonomous vehicle technology advancements."
-  },
-  {
-    "title": "SteamOS comes to a regular gaming desktop with Meta PCs' Steamroller",
-    "summary": "Steamroller is a mid-range gaming desktop targeting high-frame-rate 1080p play.",
-    "link": "https://www.techspot.com/news/112921-steamos-comes-regular-gaming-desktop-meta-pcs-steamroller.html",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.062844",
-    "insight": "Blurs line between console and PC gaming experiences for users."
-  },
-  {
-    "title": "Australia raises social media ban penalties to $99 million as children keep accessing platforms",
-    "summary": "Australia raises social media ban penalties to $99 million to protect children's online safety.",
-    "link": "https://www.techspot.com/news/112924-australia-raises-social-media-ban-penalties-99-million.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.063046",
-    "insight": "Tech companies failing to protect children from online harm."
-  },
-  {
-    "title": "TechSpot PC Buying Guide: Four Smart Builds for a Difficult PC Market",
-    "summary": "This PC buying guide offers four balanced systems for a challenging market. The builds prioritize performance, value, and upgrade paths. Each system is designed to be efficient and cost-effective.",
-    "link": "https://www.techspot.com/article/3136-pc-buying-guide-2026/",
-    "categories": [
-      "Hardware",
       "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-06-29T12:50:59.063159",
-    "insight": "Budget-friendly PC builds require creative component selections now."
+    "quality_score": 5,
+    "processed_date": "2026-06-30T11:32:08.052540",
+    "insight": "High ULL tax undermines promise of 'effectively the same price' RAM"
   },
   {
-    "title": "Netflix now wants every profile to have its own email address, annoying users",
-    "summary": "Netflix is changing its user identity policy, prompting login prompts and extra steps.",
-    "link": "https://www.techspot.com/news/112920-netflix-now-wants-every-profile-have-own-email.html",
+    "title": "CUDA emulator for AMD GPUs Zluda loses funding with v6 release embattled project goes back to hobby status but now includes 32-bit PhysX support",
+    "summary": "Zluda, an open-source CUDA emulator for AMD GPUs, has lost funding. Version 6 has been released as a hobby project. It now includes early 32-bit PhysX support.",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/cuda-emulator-for-amd-gpus-zluda-loses-funding-with-v6-release-embattled-project-goes-back-to-hobby-status-but-now-includes-32-bit-physx-support",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-30T11:32:08.052642",
+    "insight": "AMD GPU developers gain access to 32-bit PhysX technology"
+  },
+  {
+    "title": "Legacy Nvidia RTX 3060 12GB returns to retail five years after original launch, priced at $339 resurrected GPU strategy that Jensen called a 'good idea' apparently comes to fruition",
+    "summary": "Nvidia's revived RTX 3060 12GB is now available for $339, five years after its initial launch. This move follows Nvidia CEO Jensen Huang's endorsement of re-introducing older GPUs on trailing process nodes. The re-release aims to provide budget-friendly options for gamers.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/legacy-nvidia-rtx-3060-12gb-returns-to-retail-five-years-after-original-launch-priced-at-usd339-resurrected-gpu-strategy-that-jensen-called-a-good-idea-apparently-comes-to-fruition",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-30T11:32:08.052769",
+    "insight": "Nvidia's resurrected GPU strategy helps bridge budget gaming gaps effectively."
+  },
+  {
+    "title": "South Korea unveils $520 billion investment plan with Samsung and SK Hynix to expand memory chip dominance plan includes four new fabs and HBM facilities, amid strong government support",
+    "summary": "South Korea's $520B investment plan with Samsung and SK Hynix aims to expand its memory chip dominance through four new fabs and HBM facilities, backed by strong government support.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-30T11:32:08.052897",
+    "insight": "South Korea significantly expands its semiconductor industry with massive investment."
+  },
+  {
+    "title": "Steamroller becomes first prebuilt gaming PC to ship with SteamOS Ryzen 9600X, Radeon RX 7600, 16GB DDR5 RAM system available for preorder at $1,299",
+    "summary": "Steamroller becomes the first prebuilt gaming PC to ship with SteamOS, featuring a Ryzen 9600X, Radeon RX 7600, and 16GB DDR5 RAM. The system is available for preorder at $1,299. It offers standard desktop components with future upgradeability.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/steamroller-becomes-first-prebuilt-gaming-pc-to-ship-with-steamos-ryzen-9600x-radeon-rx-7600-16gb-ddr5-ram-system-available-for-preorder-at-usd1-299",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-30T11:32:08.053008",
+    "insight": "SteamOS gaming PCs offer users a unique, Linux-based gaming experience."
+  },
+  {
+    "title": "Samsung, SK hynix, and Micron sued over alleged DRAM price fixing amid record memory costs lawsuit claims coordinated HBM shift was cover to curtail DDR3 and DDR4 production",
+    "summary": "Samsung, SK hynix, and Micron are sued over alleged DRAM price fixing. A lawsuit claims the companies coordinated a shift to High-Bandwidth Memory (HBM) to reduce DDR3 and DDR4 production. The lawsuit was filed in the U.S. District Court for the Northern District of California.",
+    "link": "https://www.tomshardware.com/tech-industry/samsung-sk-hynix-and-micron-sued-over-alleged-dram-price-fixing-amid-record-memory-costs",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.063264",
-    "insight": "Compromising user convenience for enhanced data collection and security measures."
+    "processed_date": "2026-06-30T11:32:08.053111",
+    "insight": "DRAM price fixing could severely impact tech industry supply chains worldwide"
   },
   {
-    "title": "Sony is deleting 551 movies and TV shows you bought on PlayStation, because you don't really own your digital purchases",
-    "summary": "Sony will remove 551 movies and TV shows from PlayStation Store on September 1, 2026, and delete them from customers' libraries without offering refunds.",
-    "link": "https://www.techspot.com/news/112919-sony-deleting-551-movies-tv-shows-you-bought.html",
+    "title": "Imec's 2026 roadmap details 0.3nm nodes by 2038, CFET transistors become viable at 0.7nm company redefines Moore's Law as cell sizes gain importance for density",
+    "summary": "Imec's roadmap targets 0.3nm nodes by 2038, introducing CFET transistors and HLSI era.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/imecs-2026-roadmap-details-0-3nm-nodes-by-2038-cfet-transistors-become-viable-at-0-7nm-company-redefines-moores-law-as-cell-sizes-gain-importance-for-density",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-30T11:32:08.053215",
+    "insight": "Transistor density gains focus from scaling to cell size optimization."
+  },
+  {
+    "title": "WeAct N006 A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs",
+    "summary": "WeAct N006 is a compact carrier board for NVIDIA Jetson Orin NX with a range of interfaces, designed for robots and UAVs. It features HDMI output, Gigabit Ethernet, multiple USB ports, and M.2 sockets for storage and connectivity. The board supports up to 40W Super Mode.",
+    "link": "https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-30T11:32:08.053713",
+    "insight": "Enabling AI-driven robots and UAVs with compact, efficient computing solutions."
+  },
+  {
+    "title": "XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications",
+    "summary": "The XIAO nRF54LM20A (Sense) board is a tiny IoT board offering ultra-low-power Bluetooth connectivity. It supports various wireless protocols, including Bluetooth 6.0, Matter, Thread, and Zigbee, making it suitable for a wide range of IoT applications. The board also features additional sensors and a power management unit.",
+    "link": "https://www.cnx-software.com/2026/06/30/xiao-nrf54lm20a-sense-board-enables-ultra-low-power-bluetooth-6-0-matter-thread-zigbee-or-2-4-ghz-proprietary-applications/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-30T11:32:08.053902",
+    "insight": "Ultra-low-power IoT board for efficient wireless connectivity solutions"
+  },
+  {
+    "title": "Banana Pi BPI-VP10 A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU",
+    "summary": "Banana Pi BPI-VP10 is a low-cost servo control board based on the Fortior FU7512L dual-core RISC-V MCU, designed for industrial control applications with 100W/200W servo support and multiple control modes.",
+    "link": "https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-30T11:32:08.054082",
+    "insight": "Affordable RISC-V MCU enables easy, cost-effective industrial servo control development."
+  },
+  {
+    "title": "Freshman trauma: Starship robot cookie deliveries soon no more at colleges",
+    "summary": "Starship is shifting focus from college snack deliveries to grocery deliveries, targeting a growing market and aiming to provide cheaper options.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/freshman-trauma-starship-robot-cookie-deliveries-soon-no-more-colleges",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.063381",
-    "insight": "Lack of actual ownership of digital purchases is a major concern."
+    "processed_date": "2026-06-30T11:32:08.055049",
+    "insight": "College students may see convenience replaced with cost savings"
   },
   {
-    "title": "Riot's always-on anti-cheat is finally getting an off switch",
-    "summary": "Riot Games is updating its Vanguard anti-cheat system to no longer run automatically on PC boot, giving players more control over when it's active.",
-    "link": "https://www.techspot.com/news/112911-riot-always-anti-cheat-finally-getting-off-switch.html",
+    "title": "A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes no human steering needed",
+    "summary": "Flexion Robotics teaches humanoid robots basic skills and high-level AI to adapt",
+    "link": "https://www.techspot.com/news/112938-startup-taught-humanoid-robots-retrieve-packages-climb-stairs.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-30T11:32:08.055443",
+    "insight": "Autonomous robots can complete complex tasks with minimal human input required"
+  },
+  {
+    "title": "Dbrand cancels Portal-inspired Steam Machine Companion Cube case after Valve legal threat, refunds buyers",
+    "summary": "Dbrand canceled a Portal-inspired Steam Machine case due to a Valve legal threat. The company admitted it didn't ask for a license from Valve. Buyers will receive refunds.",
+    "link": "https://www.techspot.com/news/112941-dbrand-cancels-portal-inspired-steam-machine-companion-cube.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-30T11:32:08.055548",
+    "insight": "Ignoring licensing agreements can lead to costly consequences for companies."
+  },
+  {
+    "title": "RAM prices expected to rise another 40-50% in Q3 2026, and then 30% more in Q4 as AI demand outpaces supply",
+    "summary": "RAM prices are expected to rise by 40-50% in Q3 and 30-40% in Q4 due to AI demand outpacing supply. This surge is attributed to the increasing need for memory in AI-driven applications. Ethan Tan, a memory industry consultant, predicts this price hike.",
+    "link": "https://www.techspot.com/news/112934-ram-prices-expected-rise-another-40-50-q3.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-06-30T11:32:08.055662",
+    "insight": "AI demand fuels memory price surge"
+  },
+  {
+    "title": "Apple pulled VK's apps in Russia without warning, so the Kremlin is telling users to switch to Android",
+    "summary": "Apple removed VK's apps from the App Store without warning, affecting millions of users. VK is blaming Apple for the move. The Kremlin is advising users to switch to Android as a result.",
+    "link": "https://www.techspot.com/news/112936-apple-pulled-vk-apps-russia-without-warning-kremlin.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-30T11:32:08.055767",
+    "insight": "Apple's actions limit access to popular Russian app in the country"
+  },
+  {
+    "title": "Microsoft's Windows Secure Boot certificates just expired here's what you need to do",
+    "summary": "Windows Secure Boot certificates expired, affecting Asus consumer PCs. The update will be automatically installed through Windows Update. Users can manually check the status via PowerShell and install if necessary.",
+    "link": "https://www.techspot.com/news/112931-microsoft-windows-secure-boot-certificates-expired-here-what.html",
     "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.063491",
-    "insight": "User autonomy and trust are being restored with anti-cheat flexibility."
+    "processed_date": "2026-06-30T11:32:08.055975",
+    "insight": "Outdated certificates compromise system security and integrity."
   },
   {
-    "title": "Big Tech's $8 trillion AI bet is making consoles, cars, and electricity more expensive for everyone else",
-    "summary": "Big Tech's AI development is driving an industrial expansion of data centers, driving up costs for consumers across various industries, including consoles, cars, and electricity.",
-    "link": "https://www.techspot.com/news/112916-big-tech-8-trillion-ai-bet-making-consoles.html",
+    "title": "A hollow-core fiber cable just carried 51.3 Tb/s across 200 km",
+    "summary": "A 200 km HCF cable set a new world record, transmitting 51.3 Tb/s without signal boosters.",
+    "link": "https://www.techspot.com/news/112935-hollow-core-fiber-cable-carried-513-tbs-across.html",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-29T12:50:59.063611",
-    "insight": "Massive tech investments boost costs, affecting consumers worldwide."
+    "processed_date": "2026-06-30T11:32:08.056088",
+    "insight": "Advances in HCF cables challenge traditional long-haul fiber link assumptions."
+  },
+  {
+    "title": "Developer builds \"complete\" OpenStreetMap client for classic Mac OS 9",
+    "summary": "A developer built an OpenStreetMap client for classic Mac OS 9, providing a vintage mapping experience.",
+    "link": "https://www.techspot.com/news/112928-developer-brings-modern-mapping-mac-os-9-complete.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-30T11:32:08.056221",
+    "insight": "Bringing ancient operating systems to modern open-source mapping technologies."
+  },
+  {
+    "title": "Meta has been secretly relying on Google's AI for customer service, ad tools, and content moderation then got cut off",
+    "summary": "Meta was secretly relying on Google's AI services, but was cut off suddenly, disrupting internal projects.",
+    "link": "https://www.techspot.com/news/112930-meta-told-staff-watch-their-ai-tokens-after.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-30T11:32:08.056327",
+    "insight": "Dependence on external AI services poses significant strategic risk to companies."
+  },
+  {
+    "title": "Before it became Grand Theft Auto, what was GTA originally called?",
+    "summary": "The original Grand Theft Auto was nearly cancelled but a gameplay bug saved it, defining its unique gameplay style.",
+    "link": "https://www.techspot.com/trivia/111-before-grand-theft-auto-what-gta-originally-called/",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-30T11:32:08.056418",
+    "insight": "Gameplay bugs can be the foundation of iconic game mechanics."
+  },
+  {
+    "title": "VMware Workstation Pro 26H1 brings architectural upgrades and expanded OS support",
+    "summary": "VMware Workstation Pro 26H1 allows commercial and personal users to run multiple OSes side-by-side on a single PC without rebooting or repartitioning. It supports Windows, Linux, and BSD virtual machines. This version is now fully free for all users.",
+    "link": "https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-30T11:32:08.056526",
+    "insight": "Uninterrupted cross-platform development and testing become highly efficient"
+  },
+  {
+    "title": "South Korea is betting $880 billion that the next AI race will be won in hardware, not software",
+    "summary": "South Korea is investing heavily in semiconductor manufacturing to meet growing demand for memory chips.",
+    "link": "https://www.techspot.com/news/112926-south-korea-betting-880-billion-next-ai-race.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-30T11:32:08.056641",
+    "insight": "South Korea's hardware-focused AI strategy prioritizes manufacturing over software advancements."
+  },
+  {
+    "title": "Prosecutors used a man's ChatGPT logs to try to link him to the Pacific Palisades fire, but it didn't work",
+    "summary": "Prosecutors used ChatGPT logs against a man accused of starting the Pacific Palisades fire, but their case was unsuccessful.",
+    "link": "https://www.techspot.com/news/112929-chatgpt-logs-used-evidence-palisades-fire-case-ended.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-06-30T11:32:08.056742",
+    "insight": "Prosecution's reliance on AI logs raises concerns about digital privacy rights."
+  },
+  {
+    "title": "Meet \"loop engineering\": The next evolution in AI coding isn't a better prompt, it's a system that prompts itself",
+    "summary": "Developers are creating self-replicating AI coding systems, dubbed 'loops,' to boost efficiency.",
+    "link": "https://www.techspot.com/news/112923-ai-developers-moving-beyond-prompts-loops-take-over.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-06-30T11:32:08.056869",
+    "insight": "Self-replicating AI systems revolutionize code development with infinite scalability."
   }
 ]

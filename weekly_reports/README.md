@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 29, 2026**
+**Week of June 30, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. China s Loongson launches homegrown 16-core server CPU built on LoongArch architecture 40W chip with DDR4 ECC and 32 PCIe lanes targets cheap SMB file, database, and web servers ⭐
+### 1. Banana Pi BPI-VP10 A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU 
+
+**🤖 AI & ML**
+
+Banana Pi BPI-VP10 is a low-cost servo control board based on the Fortior FU7512L dual-core RISC-V MCU, designed for industrial control applications with 100W/200W servo support and multiple control modes.
+
+💡 **Key Point:** Affordable RISC-V MCU enables easy, cost-effective industrial servo control development.
+
+🔗 [Read More](https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/)
+
+---
+
+### 2. A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes no human steering needed 
+
+**🤖 AI & ML**
+
+Flexion Robotics teaches humanoid robots basic skills and high-level AI to adapt
+
+💡 **Key Point:** Autonomous robots can complete complex tasks with minimal human input required
+
+🔗 [Read More](https://www.techspot.com/news/112938-startup-taught-humanoid-robots-retrieve-packages-climb-stairs.html)
+
+---
+
+### 3. RAM prices expected to rise another 40-50% in Q3 2026, and then 30% more in Q4 as AI demand outpaces supply 
+
+**🤖 AI & ML**
+
+RAM prices are expected to rise by 40-50% in Q3 and 30-40% in Q4 due to AI demand outpacing supply. This surge is attributed to the increasing need for memory in AI-driven applications. Ethan Tan, a memory industry consultant, predicts this price hike.
+
+💡 **Key Point:** AI demand fuels memory price surge
+
+🔗 [Read More](https://www.techspot.com/news/112934-ram-prices-expected-rise-another-40-50-q3.html)
+
+---
+
+### 4. Oomwoo is a new open-source robot vacuum you can 3D print yourself, sidesteps cloud security risks by running fully offline project combines Raspberry Pi, 2D LiDAR, and a 3D-printed chassis 
 
 **💻 Hardware**
 
-Loongson has launched the 3C3000, a 16-core server CPU based on LoongArch architecture, designed for cheap SMB servers.
+OOMWOO is an open-source robot vacuum that can be 3D printed by owners, providing a fully offline experience and sidestepping cloud security risks.
 
-💡 **Key Point:** China's Loongson achieves competitive performance with a homegrown, affordable CPU design.
+💡 **Key Point:** Empowering DIY users to control their robot's data and security.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/chinas-loongson-launches-homegrown-16-core-server-cpu-built-on-loongarch-architecture-40w-chip-with-ddr4-ecc-and-32-pcie-lanes-targets-cheap-smb-file-database-and-web-servers)
-
----
-
-### 2. China s Loongson launches homegrown 16-core server CPU built on LoongArch architecture 40W chip with DDR4 ECC and 32 PCIe lanes targets cheap SMB file, database, and web servers ⭐
-
-**📰 Tech News**
-
-Loongson has launched the 3C3000, a 16-core server CPU based on LoongArch architecture, designed for cheap SMB servers.
-
-💡 **Key Point:** China's Loongson achieves competitive performance with a homegrown, affordable CPU design.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/chinas-loongson-launches-homegrown-16-core-server-cpu-built-on-loongarch-architecture-40w-chip-with-ddr4-ecc-and-32-pcie-lanes-targets-cheap-smb-file-database-and-web-servers)
+🔗 [Read More](https://www.tomshardware.com/3d-printing/maker-kicks-off-oomwoo-an-open-source-robot-vacuum-you-can-3d-print-and-build-yourself)
 
 ---
 
-### 3. DESLOC V150 Plus smart lock integrates a perovskite solar panel, supports 3D face recognition (Crowdfunding) ⭐
+### 5. Designer turns discontinued E-Ink dev board into a 60Hz Game Boy handheld dual-core chip runs at 100% to power handheld, 960x540 display employs ultra-low-cost ESP32-S3 microcontroller 
 
 **💻 Hardware**
 
-The DESLOC V150 Plus smart lock features a perovskite solar panel, 3D face recognition, and fingerprint sensor, providing up to 8 months of backup operation without manual charging.
+A designer repurposed a discontinued E-Ink dev board into a functional Game Boy handheld, utilizing an ESP32-S3 microcontroller. The device boasts a 60Hz display and impressive performance, despite the hardware's discontinuation. The achievement showcases the creator's technical expertise and resourcefulness.
 
-💡 **Key Point:** Innovative solar-powered smart lock offers extended battery life autonomy.
+💡 **Key Point:** Creative repurposing of discontinued hardware leads to innovative achievements.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/29/desloc-v150-plus-smart-lock-integrates-a-solar-panel-supports-3d-face-recognition/)
-
----
-
-### 4. DESLOC V150 Plus smart lock integrates a perovskite solar panel, supports 3D face recognition (Crowdfunding) ⭐
-
-**📰 Tech News**
-
-The DESLOC V150 Plus smart lock features a perovskite solar panel, 3D face recognition, and fingerprint sensor, providing up to 8 months of backup operation without manual charging.
-
-💡 **Key Point:** Innovative solar-powered smart lock offers extended battery life autonomy.
-
-🔗 [Read More](https://www.cnx-software.com/2026/06/29/desloc-v150-plus-smart-lock-integrates-a-solar-panel-supports-3d-face-recognition/)
-
----
-
-### 5. TechSpot PC Buying Guide: Four Smart Builds for a Difficult PC Market 
-
-**🎮 GPUs**
-
-This PC buying guide offers four balanced systems for a challenging market. The builds prioritize performance, value, and upgrade paths. Each system is designed to be efficient and cost-effective.
-
-💡 **Key Point:** Budget-friendly PC builds require creative component selections now.
-
-🔗 [Read More](https://www.techspot.com/article/3136-pc-buying-guide-2026/)
+🔗 [Read More](https://www.tomshardware.com/video-games/retro-gaming/designer-turns-niche-e-ink-dev-board-into-a-60hz-game-boy-handheld-960x540-display-powered-by-ultra-low-cost-esp32-s3-microcontroller)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **37 articles** across **5 focused categories**.
+We covered **43 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 8 | Artificial Intelligence and Machine Learning |
+| 🤖 [AI & ML](ai_and_ml.md) | 12 | Artificial Intelligence and Machine Learning |
 | 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
+| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 8 articles
+*Artificial Intelligence and Machine Learning* — 12 articles
 
 ### 🎮 [GPUs](gpus.md)
 *Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 11 articles
+*Computing hardware and development boards* — 10 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 6 articles
+*Chip manufacturing and design* — 7 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 8 articles
+*Industry news and product launches* — 10 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-29 at 12:51 by an autonomous AI curation system.
+Generated 2026-06-30 at 11:33 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

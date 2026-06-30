@@ -1,95 +1,115 @@
 # 📰 Tech News
-**Week of June 29, 2026**
+**Week of June 30, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-06-29 12:51
+- **Articles this week:** 10
+- **Report generated:** 2026-06-30 11:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. China s Loongson launches homegrown 16-core server CPU built on LoongArch architecture 40W chip with DDR4 ECC and 32 PCIe lanes targets cheap SMB file, database, and web servers ⭐
+### 1. Oomwoo is a new open-source robot vacuum you can 3D print yourself, sidesteps cloud security risks by running fully offline project combines Raspberry Pi, 2D LiDAR, and a 3D-printed chassis 
 
-Loongson has launched the 3C3000, a 16-core server CPU based on LoongArch architecture, designed for cheap SMB servers.
+OOMWOO is an open-source robot vacuum that can be 3D printed by owners, providing a fully offline experience and sidestepping cloud security risks.
 
-💡 *China's Loongson achieves competitive performance with a homegrown, affordable CPU design.*
+💡 *Empowering DIY users to control their robot's data and security.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/chinas-loongson-launches-homegrown-16-core-server-cpu-built-on-loongarch-architecture-40w-chip-with-ddr4-ecc-and-32-pcie-lanes-targets-cheap-smb-file-database-and-web-servers)
-
----
-
-### 2. DESLOC V150 Plus smart lock integrates a perovskite solar panel, supports 3D face recognition (Crowdfunding) ⭐
-
-The DESLOC V150 Plus smart lock features a perovskite solar panel, 3D face recognition, and fingerprint sensor, providing up to 8 months of backup operation without manual charging.
-
-💡 *Innovative solar-powered smart lock offers extended battery life autonomy.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/29/desloc-v150-plus-smart-lock-integrates-a-solar-panel-supports-3d-face-recognition/)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/maker-kicks-off-oomwoo-an-open-source-robot-vacuum-you-can-3d-print-and-build-yourself)
 
 ---
 
-### 3. 400 domains used for illegal 2026 World Cup streams seized by US Justice Department operation is five times the scale of the previous crackdown 
+### 2. South Korea unveils $520 billion investment plan with Samsung and SK Hynix to expand memory chip dominance plan includes four new fabs and HBM facilities, amid strong government support 
 
-The US Department of Justice seized nearly 400 domains for illegal 2026 World Cup streams, a significant crackdown five times larger than previous operations.
+South Korea's $520B investment plan with Samsung and SK Hynix aims to expand its memory chip dominance through four new fabs and HBM facilities, backed by strong government support.
 
-💡 *Combating piracy helps protect intellectual property rights and fair revenue distribution.*
+💡 *South Korea significantly expands its semiconductor industry with massive investment.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/service-providers/streaming/us-seizes-nearly-400-domains-streaming-the-2026-world-cup)
-
----
-
-### 4. PlayStation is removing over 500 movies from UK customers' accounts with no refunds Iconic films like Terminator 2, Apocalypse Now, and Mulholland Drive are getting deleted 
-
-Sony is removing 551 movies from UK PlayStation users' accounts on September 1, 2026, due to expired licensing agreements with StudioCanal.
-
-💡 *Expired licensing agreements cause loss of iconic movies for UK users.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/playstation-is-removing-over-500-movies-from-uk-customers-accounts-with-no-refunds-iconic-films-like-terminator-2-apocalypse-now-and-mulholland-drive-are-getting-deleted)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support)
 
 ---
 
-### 5. Best of Sensors: Aizip wins startup of the year 
+### 3. A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes no human steering needed 
 
-Aizip won Startup of the Year at Best of Sensors on May 6. Their AI at the edge technology provides distinct advantages, solidifying their position. The company's CTO, Weier Wan, shares insights on this innovative approach.
+Flexion Robotics teaches humanoid robots basic skills and high-level AI to adapt
 
-💡 *AI at the edge enhances real-time decision-making and efficiency significantly*
+💡 *Autonomous robots can complete complex tasks with minimal human input required*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/embedded/best-sensors-aizip-wins-startup-year)
-
----
-
-### 6. Sony is deleting 551 movies and TV shows you bought on PlayStation, because you don't really own your digital purchases 
-
-Sony will remove 551 movies and TV shows from PlayStation Store on September 1, 2026, and delete them from customers' libraries without offering refunds.
-
-💡 *Lack of actual ownership of digital purchases is a major concern.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112919-sony-deleting-551-movies-tv-shows-you-bought.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112938-startup-taught-humanoid-robots-retrieve-packages-climb-stairs.html)
 
 ---
 
-### 7. PNY's Performance 32GB DDR5-5600 RAM becomes the cheapest 2x16GB kit DDR5 kit gets a $70 discount 
+### 4. HamsterOS jams a 32-bit GUI operating system in a single 1.44 MB floppy disk retro OS for 386-era hardware should make for easy living with DOS machines and software 
 
-PNY's 32GB DDR5-5600 RAM kit receives a significant price drop to $70 less, making it a competitive option for those seeking affordable high-capacity memory.
+HamsterOS is a 32-bit GUI operating system that fits on a single 1.44 MB floppy disk, making it compatible with 386-era hardware and allowing for easy coexistence with DOS-based machines and software.
 
-💡 *Affordable 32GB DDR5 RAM option emerges due to aggressive pricing.*
+💡 *Enabling seamless integration with legacy hardware and software ecosystems.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pnys-performance-32gb-ddr5-5600-ram-becomes-the-cheapest-2x16gb-kit-ddr5-kit-gets-a-usd70-discount)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/hamsteros-jams-a-32-bit-gui-operating-system-in-a-1-44-mb-single-floppy-for-386-era-hardware-retro-os-should-make-for-easy-living-with-dos-machines-and-software)
 
 ---
 
-### 8. Future robotaxis may not need brake pedals under new US proposal 
+### 5. CUDA emulator for AMD GPUs Zluda loses funding with v6 release embattled project goes back to hobby status but now includes 32-bit PhysX support 
 
-A new US proposal may eliminate brake pedals in purpose-built robotaxis, focusing on autonomous vehicles designed specifically for ride-sharing services.
+Zluda, an open-source CUDA emulator for AMD GPUs, has lost funding. Version 6 has been released as a hobby project. It now includes early 32-bit PhysX support.
 
-💡 *Safety regulations adapt to autonomous vehicle technology advancements.*
+💡 *AMD GPU developers gain access to 32-bit PhysX technology*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112925-future-robotaxis-may-not-need-brake-pedals-under.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/cuda-emulator-for-amd-gpus-zluda-loses-funding-with-v6-release-embattled-project-goes-back-to-hobby-status-but-now-includes-32-bit-physx-support)
+
+---
+
+### 6. Freshman trauma: Starship robot cookie deliveries soon no more at colleges 
+
+Starship is shifting focus from college snack deliveries to grocery deliveries, targeting a growing market and aiming to provide cheaper options.
+
+💡 *College students may see convenience replaced with cost savings*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/freshman-trauma-starship-robot-cookie-deliveries-soon-no-more-colleges)
+
+---
+
+### 7. Dbrand cancels Portal-inspired Steam Machine Companion Cube case after Valve legal threat, refunds buyers 
+
+Dbrand canceled a Portal-inspired Steam Machine case due to a Valve legal threat. The company admitted it didn't ask for a license from Valve. Buyers will receive refunds.
+
+💡 *Ignoring licensing agreements can lead to costly consequences for companies.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112941-dbrand-cancels-portal-inspired-steam-machine-companion-cube.html)
+
+---
+
+### 8. A hollow-core fiber cable just carried 51.3 Tb/s across 200 km 
+
+A 200 km HCF cable set a new world record, transmitting 51.3 Tb/s without signal boosters.
+
+💡 *Advances in HCF cables challenge traditional long-haul fiber link assumptions.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112935-hollow-core-fiber-cable-carried-513-tbs-across.html)
+
+---
+
+### 9. Developer builds "complete" OpenStreetMap client for classic Mac OS 9 
+
+A developer built an OpenStreetMap client for classic Mac OS 9, providing a vintage mapping experience.
+
+💡 *Bringing ancient operating systems to modern open-source mapping technologies.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112928-developer-brings-modern-mapping-mac-os-9-complete.html)
+
+---
+
+### 10. Before it became Grand Theft Auto, what was GTA originally called? 
+
+The original Grand Theft Auto was nearly cancelled but a gameplay bug saved it, defining its unique gameplay style.
+
+💡 *Gameplay bugs can be the foundation of iconic game mechanics.*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/111-before-grand-theft-auto-what-gta-originally-called/)
 
 ---
 
