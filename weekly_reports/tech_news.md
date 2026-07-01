@@ -1,115 +1,85 @@
 # 📰 Tech News
-**Week of June 30, 2026**
+**Week of July 01, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-06-30 11:33
+- **Articles this week:** 7
+- **Report generated:** 2026-07-01 11:43
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Oomwoo is a new open-source robot vacuum you can 3D print yourself, sidesteps cloud security risks by running fully offline project combines Raspberry Pi, 2D LiDAR, and a 3D-printed chassis 
+### 1. xTool says its 01 Omni Printer can print it all firm steps into the world of UV printing for output on 'all surfaces' at up to 5mm thick 
 
-OOMWOO is an open-source robot vacuum that can be 3D printed by owners, providing a fully offline experience and sidestepping cloud security risks.
+xTool's 01 Omni Printer is a 4-in-1 device capable of printing on various surfaces, including up to 5mm thick materials.
 
-💡 *Empowering DIY users to control their robot's data and security.*
+💡 *Breaking barriers in UV printing technology for makers and creators worldwide.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/maker-kicks-off-oomwoo-an-open-source-robot-vacuum-you-can-3d-print-and-build-yourself)
-
----
-
-### 2. South Korea unveils $520 billion investment plan with Samsung and SK Hynix to expand memory chip dominance plan includes four new fabs and HBM facilities, amid strong government support 
-
-South Korea's $520B investment plan with Samsung and SK Hynix aims to expand its memory chip dominance through four new fabs and HBM facilities, backed by strong government support.
-
-💡 *South Korea significantly expands its semiconductor industry with massive investment.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support)
+🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/xtool-says-its-01-omni-printer-can-print-it-all-firm-steps-into-the-world-of-uv-printing-for-output-on-all-surfaces-at-up-to-5mm-thick)
 
 ---
 
-### 3. A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes no human steering needed 
+### 2. Intel Arc Pro B70 Tested: The Gaming GPU Intel Never Released 
 
-Flexion Robotics teaches humanoid robots basic skills and high-level AI to adapt
+Intel's Arc Pro B70, a workstation GPU, is tested in modern games. The results may indicate what Intel's unreleased Arc B770 would have looked like. Performance is compared across 12 titles.
 
-💡 *Autonomous robots can complete complex tasks with minimal human input required*
+💡 *Intel's workstation GPU performance reveals Arc B770's potential capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112938-startup-taught-humanoid-robots-retrieve-packages-climb-stairs.html)
-
----
-
-### 4. HamsterOS jams a 32-bit GUI operating system in a single 1.44 MB floppy disk retro OS for 386-era hardware should make for easy living with DOS machines and software 
-
-HamsterOS is a 32-bit GUI operating system that fits on a single 1.44 MB floppy disk, making it compatible with 386-era hardware and allowing for easy coexistence with DOS-based machines and software.
-
-💡 *Enabling seamless integration with legacy hardware and software ecosystems.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/hamsteros-jams-a-32-bit-gui-operating-system-in-a-1-44-mb-single-floppy-for-386-era-hardware-retro-os-should-make-for-easy-living-with-dos-machines-and-software)
+🔗 [Read Full Article](https://www.techspot.com/review/3141-intel-arc-b70-pro/)
 
 ---
 
-### 5. CUDA emulator for AMD GPUs Zluda loses funding with v6 release embattled project goes back to hobby status but now includes 32-bit PhysX support 
+### 3. Windows Defender 'BlueHammer' vulnerability now exploited as part of malware campaigns CISA issues warning despite patch release on April 14 
 
-Zluda, an open-source CUDA emulator for AMD GPUs, has lost funding. Version 6 has been released as a hobby project. It now includes early 32-bit PhysX support.
+Windows Defender 'BlueHammer' vulnerability is being exploited in malware campaigns despite patches available.
 
-💡 *AMD GPU developers gain access to 32-bit PhysX technology*
+💡 *Lack of timely patch updates leaves systems vulnerable to exploitation.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/cuda-emulator-for-amd-gpus-zluda-loses-funding-with-v6-release-embattled-project-goes-back-to-hobby-status-but-now-includes-32-bit-physx-support)
-
----
-
-### 6. Freshman trauma: Starship robot cookie deliveries soon no more at colleges 
-
-Starship is shifting focus from college snack deliveries to grocery deliveries, targeting a growing market and aiming to provide cheaper options.
-
-💡 *College students may see convenience replaced with cost savings*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/freshman-trauma-starship-robot-cookie-deliveries-soon-no-more-colleges)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/windows-defender-bluehammer-vulnerability-now-exploited-as-part-of-malware-campaigns-cisa-issues-warning-despite-patch-release-on-april-14)
 
 ---
 
-### 7. Dbrand cancels Portal-inspired Steam Machine Companion Cube case after Valve legal threat, refunds buyers 
+### 4. License plate cameras are scanning 20 billion vehicles a month, cities are starting to push back 
 
-Dbrand canceled a Portal-inspired Steam Machine case due to a Valve legal threat. The company admitted it didn't ask for a license from Valve. Buyers will receive refunds.
+Cities are pushing back against license plate cameras scanning 20 billion vehicles a month, with Flock Safety at the center of the debate. The company's automated license plate readers capture images of passing vehicles, converting them into searchable data points. This raises concerns about mass surveillance and individual privacy.
 
-💡 *Ignoring licensing agreements can lead to costly consequences for companies.*
+💡 *Mass surveillance through license plate cameras threatens individual privacy rights.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112941-dbrand-cancels-portal-inspired-steam-machine-companion-cube.html)
-
----
-
-### 8. A hollow-core fiber cable just carried 51.3 Tb/s across 200 km 
-
-A 200 km HCF cable set a new world record, transmitting 51.3 Tb/s without signal boosters.
-
-💡 *Advances in HCF cables challenge traditional long-haul fiber link assumptions.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112935-hollow-core-fiber-cable-carried-513-tbs-across.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112940-ai-camera-networks-tracking-billions-vehicles-residents-pushing.html)
 
 ---
 
-### 9. Developer builds "complete" OpenStreetMap client for classic Mac OS 9 
+### 5. WhatsApp finally gets usernames, letting users hide their phone numbers 
 
-A developer built an OpenStreetMap client for classic Mac OS 9, providing a vintage mapping experience.
+WhatsApp is introducing unique usernames to connect without sharing phone numbers. To claim yours, update to the latest version, go to Settings > Account > Username, and pick an available handle. The feature is rolling out gradually with broader availability expected later this year.
 
-💡 *Bringing ancient operating systems to modern open-source mapping technologies.*
+💡 *Hiding phone numbers enhances user privacy online.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112928-developer-brings-modern-mapping-mac-os-9-complete.html)
+🔗 [Read Full Article](https://www.techspot.com/downloads/5748-whatsapp-for-android.html)
 
 ---
 
-### 10. Before it became Grand Theft Auto, what was GTA originally called? 
+### 6. Microsoft's own Azure CTO is still annoyed by Windows' "file in use" error 
 
-The original Grand Theft Auto was nearly cancelled but a gameplay bug saved it, defining its unique gameplay style.
+Microsoft's Azure CTO Russinovich explains the 'file in use' error, citing file handles as the reason Windows refuses to comply with a request.
 
-💡 *Gameplay bugs can be the foundation of iconic game mechanics.*
+💡 *Understanding file handles is crucial for debugging Windows-related issues effectively.*
 
-🔗 [Read Full Article](https://www.techspot.com/trivia/111-before-grand-theft-auto-what-gta-originally-called/)
+🔗 [Read Full Article](https://www.techspot.com/news/112939-microsoft-own-azure-cto-annoyed-windows-file-use.html)
+
+---
+
+### 7. Amazon sued in Australia after Prime subscribers were made to pay more to remove ads 
+
+Amazon is being sued in Australia for allegedly breaching consumer law by charging Prime subscribers to remove ads.
+
+💡 *Australian consumers may be misled into paying for ad removal.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112943-amazon-pay-more-remove-ads-trick-faces-australian.html)
 
 ---
 

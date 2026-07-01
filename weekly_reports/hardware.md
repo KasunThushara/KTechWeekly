@@ -1,115 +1,145 @@
 # 💻 Hardware
-**Week of June 30, 2026**
+**Week of July 01, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-06-30 11:33
+- **Articles this week:** 13
+- **Report generated:** 2026-07-01 11:43
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Oomwoo is a new open-source robot vacuum you can 3D print yourself, sidesteps cloud security risks by running fully offline project combines Raspberry Pi, 2D LiDAR, and a 3D-printed chassis 
+### 1. New PC purchases see sharpest drop in nearly three years as memory and storage prices bite shipments fall by 7%, analysts forecast 14% contraction that will hit budget laptops hard 
 
-OOMWOO is an open-source robot vacuum that can be 3D printed by owners, providing a fully offline experience and sidestepping cloud security risks.
+PC shipments fell 7% in Q1 2026, with a predicted 14% annual contraction. The decline is largely attributed to rising memory and storage prices. Budget laptops are expected to be hit the hardest.
 
-💡 *Empowering DIY users to control their robot's data and security.*
+💡 *Rising memory and storage prices hurt PC sales sharply.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/maker-kicks-off-oomwoo-an-open-source-robot-vacuum-you-can-3d-print-and-build-yourself)
-
----
-
-### 2. Designer turns discontinued E-Ink dev board into a 60Hz Game Boy handheld dual-core chip runs at 100% to power handheld, 960x540 display employs ultra-low-cost ESP32-S3 microcontroller 
-
-A designer repurposed a discontinued E-Ink dev board into a functional Game Boy handheld, utilizing an ESP32-S3 microcontroller. The device boasts a 60Hz display and impressive performance, despite the hardware's discontinuation. The achievement showcases the creator's technical expertise and resourcefulness.
-
-💡 *Creative repurposing of discontinued hardware leads to innovative achievements.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/designer-turns-niche-e-ink-dev-board-into-a-60hz-game-boy-handheld-960x540-display-powered-by-ultra-low-cost-esp32-s3-microcontroller)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/new-pc-purchases-see-sharpest-drop-in-nearly-three-years-as-memory-and-storage-prices-bite-shipments-fall-by-7-percent-analysts-forecast-14-percent-contraction-that-will-hit-budget-laptops-hard)
 
 ---
 
-### 3. WeAct N006 A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs 
+### 2. Meta releases version two of its brain-computer interface that can turn thoughts into keypresses non-invasive magnetoencephalography scanner can measure changes in brain activity 
 
-WeAct N006 is a compact carrier board for NVIDIA Jetson Orin NX with a range of interfaces, designed for robots and UAVs. It features HDMI output, Gigabit Ethernet, multiple USB ports, and M.2 sockets for storage and connectivity. The board supports up to 40W Super Mode.
+Meta releases non-invasive Brain2Qwerty BCI version two with clinical trial potential.
 
-💡 *Enabling AI-driven robots and UAVs with compact, efficient computing solutions.*
+💡 *Enabling patients to control computers with their minds without invasive surgery.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/)
-
----
-
-### 4. XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications 
-
-The XIAO nRF54LM20A (Sense) board is a tiny IoT board offering ultra-low-power Bluetooth connectivity. It supports various wireless protocols, including Bluetooth 6.0, Matter, Thread, and Zigbee, making it suitable for a wide range of IoT applications. The board also features additional sensors and a power management unit.
-
-💡 *Ultra-low-power IoT board for efficient wireless connectivity solutions*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/30/xiao-nrf54lm20a-sense-board-enables-ultra-low-power-bluetooth-6-0-matter-thread-zigbee-or-2-4-ghz-proprietary-applications/)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/meta-releases-version-two-of-its-brain-computer-interface-that-can-turn-thoughts-into-keypresses-non-invasive-magnetoencephalography-scanner-can-measure-changes-in-brain-activity)
 
 ---
 
-### 5. Banana Pi BPI-VP10 A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU 
+### 3. Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces 
 
-Banana Pi BPI-VP10 is a low-cost servo control board based on the Fortior FU7512L dual-core RISC-V MCU, designed for industrial control applications with 100W/200W servo support and multiple control modes.
+The EDATEC ED-IPC1200 is an industrial data acquisition gateway based on Raspberry Pi CM0, featuring various I/O interfaces, a fanless design, and wide DC power input for industrial automation and edge applications.
 
-💡 *Affordable RISC-V MCU enables easy, cost-effective industrial servo control development.*
+💡 *Enables reliable, real-time data acquisition and control in industrial environments.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/)
-
----
-
-### 6. Meta fights soaring hardware costs by reusing old DDR4 server memory in new DDR5-only servers custom CXL 2.0 chip marries legacy DDR4-2400 with cutting-edge DDR5-6400 
-
-Meta uses its custom Vistara CXL memory expander to reuse DDR4 memory in new servers running AMD EPYC 'Turin' processors, cutting hardware costs.
-
-💡 *Meta optimizes hardware costs with innovative DDR4-legacy integration technology*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/meta-fights-soaring-hardware-costs-by-reusing-old-ddr4-server-memory-in-new-ddr5-only-servers-custom-cxl-2-0-chip-marries-legacy-ddr4-2400-with-cutting-edge-ddr5-6400)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/01/raspberry-pi-cm0-based-industrial-data-acquisition-gateway-offer-rs485-rs232-di-do-interfaces/)
 
 ---
 
-### 7. HamsterOS jams a 32-bit GUI operating system in a single 1.44 MB floppy disk retro OS for 386-era hardware should make for easy living with DOS machines and software 
+### 4. Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity 
 
-HamsterOS is a 32-bit GUI operating system that fits on a single 1.44 MB floppy disk, making it compatible with 386-era hardware and allowing for easy coexistence with DOS-based machines and software.
+Flipper's BUSY Bar is an open-source productivity multitool with a customizable LED display, supporting Matter connectivity for seamless home automation integration.
 
-💡 *Enabling seamless integration with legacy hardware and software ecosystems.*
+💡 *Enhanced home productivity through seamless app and IoT integration.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/hamsteros-jams-a-32-bit-gui-operating-system-in-a-1-44-mb-single-floppy-for-386-era-hardware-retro-os-should-make-for-easy-living-with-dos-machines-and-software)
-
----
-
-### 8. Steamroller becomes first prebuilt gaming PC to ship with SteamOS Ryzen 9600X, Radeon RX 7600, 16GB DDR5 RAM system available for preorder at $1,299 
-
-Steamroller becomes the first prebuilt gaming PC to ship with SteamOS, featuring a Ryzen 9600X, Radeon RX 7600, and 16GB DDR5 RAM. The system is available for preorder at $1,299. It offers standard desktop components with future upgradeability.
-
-💡 *SteamOS gaming PCs offer users a unique, Linux-based gaming experience.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/steamroller-becomes-first-prebuilt-gaming-pc-to-ship-with-steamos-ryzen-9600x-radeon-rx-7600-16gb-ddr5-ram-system-available-for-preorder-at-usd1-299)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/01/flipper-busy-bar-open-source-productivity-multitool-features-led-pixel-display-supports-matter-connectivity/)
 
 ---
 
-### 9. Microsoft's Windows Secure Boot certificates just expired here's what you need to do 
+### 5. The bifurcated laptop landscape of Computex 2026 MacBook Neo competitors with 8GB of RAM, and expensive Nvidia laptops promising an agentic-focused future of Windows on Arm 
 
-Windows Secure Boot certificates expired, affecting Asus consumer PCs. The update will be automatically installed through Windows Update. Users can manually check the status via PowerShell and install if necessary.
+Computex 2026 laptop announcements cater to different budgets, bifurcating the market. Competitors to the MacBook Neo, like those with 8GB of RAM, target budget-conscious users. Meanwhile, expensive Nvidia laptops focus on Windows on Arm's agentic future.
 
-💡 *Outdated certificates compromise system security and integrity.*
+💡 *Budget and performance options shape diverging laptop markets*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112931-microsoft-windows-secure-boot-certificates-expired-here-what.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/the-bifurcated-laptop-landscape-of-computex-2026-macbook-neo-competitors-with-8gb-of-ram-and-expensive-nvidia-laptops-promising-an-agentic-focused-future-of-windows-on-arm)
 
 ---
 
-### 10. VMware Workstation Pro 26H1 brings architectural upgrades and expanded OS support 
+### 6. Philippine town closes all 'Pisonet' computer rental shops in wake of school shooting incident blamed on violent video games, shops closed 'for the safety of the youth' 
 
-VMware Workstation Pro 26H1 allows commercial and personal users to run multiple OSes side-by-side on a single PC without rebooting or repartitioning. It supports Windows, Linux, and BSD virtual machines. This version is now fully free for all users.
+A Philippine town closed 'Pisonet' shops, citing distractions and safety concerns. The move follows a school shooting blamed on violent video games. Students' access to gaming and internet content is limited now.
 
-💡 *Uninterrupted cross-platform development and testing become highly efficient*
+💡 *Linking violent video games to real-life violence can have far-reaching consequences*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/philippine-town-closes-all-pisonet-computer-rental-shops-in-wake-of-school-shooting-incident-blamed-on-violent-video-games-shops-closed-for-the-safety-of-the-youth)
+
+---
+
+### 7. Private and community servers for Minecraft and COD are illegal and amount to piracy, ESA tells California Senate Stop Killing Games-backed bill fails to pass committee 
+
+The ESA claims private and community servers are piracy, prompting controversy. This stance may harm online gaming communities and multiplayer experiences. The issue is tied to a California Senate bill.
+
+💡 *Esports and community engagement threatened by strict piracy definitions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/esa-tells-california-lawmakers-that-private-game-servers-are-piracy)
+
+---
+
+### 8. AMD confirms low-power CPU cores in Linux kernel patch Zen 6 chips could follow in Intel's footsteps with new core type for background tasks 
+
+AMD plans to introduce low-power CPU cores in next-gen heterogeneous CPUs to reduce power consumption and enhance energy efficiency.
+
+💡 *Improved background task performance boosts overall system energy efficiency and battery life.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-confirms-low-power-cpu-cores-in-linux-kernel-patch-zen-6-chips-could-follow-in-intels-footsteps-with-new-core-type-for-background-tasks)
+
+---
+
+### 9. Microsoft's flagship Windows PC lineup will drop reportedly drop budget options firm prunes Surface Go and Surface Laptop Go 
+
+Microsoft is eliminating budget options from its Surface lineup, discontinuing Surface Laptop Go 3 and Surface Go 4. The move suggests a shift towards premium offerings. This change may affect consumers seeking affordable Windows PCs.
+
+💡 *Microsoft prioritizes premium over budget options in Surface lineup*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/microsofts-flagship-windows-pc-lineup-will-drop-reportedly-drop-budget-options-firm-prunes-surface-go-and-surface-laptop-go)
+
+---
+
+### 10. The video game industry just told lawmakers Minecraft and Call of Duty private servers are illegal piracy 
+
+California's Protect Our Games Act stalled due to private server concerns. Opposing lobbyists claimed private servers for games like Minecraft and Call of Duty are illegal piracy. This has sparked debate over game ownership and support.
+
+💡 *Private servers blur lines between piracy and game community preservation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112951-us-bill-against-paid-game-server-shutdowns-fails.html)
+
+---
+
+### 11. This retro enthusiast forced Windows 11 to run on a Core 2 Quad Q6600 and AGP graphics 
+
+Windows 11 can run on outdated hardware, defying Microsoft's minimum requirements. A user named Omores achieved this by forcing the OS on a 2003 motherboard, an AGP GPU, and a Core 2 Quad Q6600 CPU. This showcases the limits of modern OS flexibility and user ingenuity.
+
+💡 *Pushing minimum system requirements can unlock hidden hardware capabilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112947-retro-enthusiast-forced-windows-11-run-core-2.html)
+
+---
+
+### 12. Cargo thieves are now stealing millions in data center hardware, not just GPUs and consoles 
+
+Law enforcement in Illinois recovered $1.3 million worth of data center equipment from two trailers, highlighting a growing trend of cargo theft targeting data center hardware.
+
+💡 *Data center equipment theft poses significant security and financial risks.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112948-cargo-thieves-now-stealing-millions-data-center-hardware.html)
+
+---
+
+### 13. PlayStation 6 bill of materials nears $1,000 as RAM shortages worsen 
+
+PlayStation 6 manufacturing costs near $1,000 due to RAM shortages.
+
+💡 *Rising console prices may impact consumer gaming affordability.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112937-playstation-6-bill-materials-nears-1000-ram-shortages.html)
 
 ---
 

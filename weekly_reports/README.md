@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of June 30, 2026**
+**Week of July 01, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Banana Pi BPI-VP10 A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU 
+### 1. Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces 
 
-**🤖 AI & ML**
+**⚡ Semiconductors**
 
-Banana Pi BPI-VP10 is a low-cost servo control board based on the Fortior FU7512L dual-core RISC-V MCU, designed for industrial control applications with 100W/200W servo support and multiple control modes.
+The EDATEC ED-IPC1200 is an industrial data acquisition gateway based on Raspberry Pi CM0, featuring various I/O interfaces, a fanless design, and wide DC power input for industrial automation and edge applications.
 
-💡 **Key Point:** Affordable RISC-V MCU enables easy, cost-effective industrial servo control development.
+💡 **Key Point:** Enables reliable, real-time data acquisition and control in industrial environments.
 
-🔗 [Read More](https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/)
-
----
-
-### 2. A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes no human steering needed 
-
-**🤖 AI & ML**
-
-Flexion Robotics teaches humanoid robots basic skills and high-level AI to adapt
-
-💡 **Key Point:** Autonomous robots can complete complex tasks with minimal human input required
-
-🔗 [Read More](https://www.techspot.com/news/112938-startup-taught-humanoid-robots-retrieve-packages-climb-stairs.html)
+🔗 [Read More](https://www.cnx-software.com/2026/07/01/raspberry-pi-cm0-based-industrial-data-acquisition-gateway-offer-rs485-rs232-di-do-interfaces/)
 
 ---
 
-### 3. RAM prices expected to rise another 40-50% in Q3 2026, and then 30% more in Q4 as AI demand outpaces supply 
+### 2. Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity 
 
-**🤖 AI & ML**
+**⚡ Semiconductors**
 
-RAM prices are expected to rise by 40-50% in Q3 and 30-40% in Q4 due to AI demand outpacing supply. This surge is attributed to the increasing need for memory in AI-driven applications. Ethan Tan, a memory industry consultant, predicts this price hike.
+Flipper's BUSY Bar is an open-source productivity multitool with a customizable LED display, supporting Matter connectivity for seamless home automation integration.
 
-💡 **Key Point:** AI demand fuels memory price surge
+💡 **Key Point:** Enhanced home productivity through seamless app and IoT integration.
 
-🔗 [Read More](https://www.techspot.com/news/112934-ram-prices-expected-rise-another-40-50-q3.html)
+🔗 [Read More](https://www.cnx-software.com/2026/07/01/flipper-busy-bar-open-source-productivity-multitool-features-led-pixel-display-supports-matter-connectivity/)
 
 ---
 
-### 4. Oomwoo is a new open-source robot vacuum you can 3D print yourself, sidesteps cloud security risks by running fully offline project combines Raspberry Pi, 2D LiDAR, and a 3D-printed chassis 
+### 3. New PC purchases see sharpest drop in nearly three years as memory and storage prices bite shipments fall by 7%, analysts forecast 14% contraction that will hit budget laptops hard 
 
 **💻 Hardware**
 
-OOMWOO is an open-source robot vacuum that can be 3D printed by owners, providing a fully offline experience and sidestepping cloud security risks.
+PC shipments fell 7% in Q1 2026, with a predicted 14% annual contraction. The decline is largely attributed to rising memory and storage prices. Budget laptops are expected to be hit the hardest.
 
-💡 **Key Point:** Empowering DIY users to control their robot's data and security.
+💡 **Key Point:** Rising memory and storage prices hurt PC sales sharply.
 
-🔗 [Read More](https://www.tomshardware.com/3d-printing/maker-kicks-off-oomwoo-an-open-source-robot-vacuum-you-can-3d-print-and-build-yourself)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/new-pc-purchases-see-sharpest-drop-in-nearly-three-years-as-memory-and-storage-prices-bite-shipments-fall-by-7-percent-analysts-forecast-14-percent-contraction-that-will-hit-budget-laptops-hard)
 
 ---
 
-### 5. Designer turns discontinued E-Ink dev board into a 60Hz Game Boy handheld dual-core chip runs at 100% to power handheld, 960x540 display employs ultra-low-cost ESP32-S3 microcontroller 
+### 4. Meta releases version two of its brain-computer interface that can turn thoughts into keypresses non-invasive magnetoencephalography scanner can measure changes in brain activity 
 
 **💻 Hardware**
 
-A designer repurposed a discontinued E-Ink dev board into a functional Game Boy handheld, utilizing an ESP32-S3 microcontroller. The device boasts a 60Hz display and impressive performance, despite the hardware's discontinuation. The achievement showcases the creator's technical expertise and resourcefulness.
+Meta releases non-invasive Brain2Qwerty BCI version two with clinical trial potential.
 
-💡 **Key Point:** Creative repurposing of discontinued hardware leads to innovative achievements.
+💡 **Key Point:** Enabling patients to control computers with their minds without invasive surgery.
 
-🔗 [Read More](https://www.tomshardware.com/video-games/retro-gaming/designer-turns-niche-e-ink-dev-board-into-a-60hz-game-boy-handheld-960x540-display-powered-by-ultra-low-cost-esp32-s3-microcontroller)
+🔗 [Read More](https://www.tomshardware.com/peripherals/wearable-tech/meta-releases-version-two-of-its-brain-computer-interface-that-can-turn-thoughts-into-keypresses-non-invasive-magnetoencephalography-scanner-can-measure-changes-in-brain-activity)
+
+---
+
+### 5. Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces 
+
+**💻 Hardware**
+
+The EDATEC ED-IPC1200 is an industrial data acquisition gateway based on Raspberry Pi CM0, featuring various I/O interfaces, a fanless design, and wide DC power input for industrial automation and edge applications.
+
+💡 **Key Point:** Enables reliable, real-time data acquisition and control in industrial environments.
+
+🔗 [Read More](https://www.cnx-software.com/2026/07/01/raspberry-pi-cm0-based-industrial-data-acquisition-gateway-offer-rs485-rs232-di-do-interfaces/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **43 articles** across **5 focused categories**.
+We covered **46 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 12 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 15 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 12 articles
+*Artificial Intelligence and Machine Learning* — 15 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 4 articles
+*Graphics cards and compute accelerators* — 7 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 10 articles
+*Computing hardware and development boards* — 13 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 7 articles
+*Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 10 articles
+*Industry news and product launches* — 7 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-06-30 at 11:33 by an autonomous AI curation system.
+Generated 2026-07-01 at 11:43 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

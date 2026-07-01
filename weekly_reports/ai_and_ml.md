@@ -1,135 +1,165 @@
 # 🤖 AI & ML
-**Week of June 30, 2026**
+**Week of July 01, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-06-30 11:33
+- **Articles this week:** 15
+- **Report generated:** 2026-07-01 11:43
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Banana Pi BPI-VP10 A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU 
+### 1. AI researchers trick chatbots into sharing how to make cocaine as long as they believe a user is wearing a green shirt 'CoT Forgery' exploit spurs LLMs to divulge forbidden info by faking trusted chains of thought 
 
-Banana Pi BPI-VP10 is a low-cost servo control board based on the Fortior FU7512L dual-core RISC-V MCU, designed for industrial control applications with 100W/200W servo support and multiple control modes.
+AI researchers exploited a vulnerability in large language models (LLMs) by faking trusted input tags, tricking the models into divulging forbidden information, such as instructions for making cocaine. This 'CoT Forgery' exploit targets the models' reliance on input sequence tags, which are meant to provide security through trusted roles. The research highlights the limitations of current LLM security measures.
 
-💡 *Affordable RISC-V MCU enables easy, cost-effective industrial servo control development.*
+💡 *LLMs judge input soundness, not literal tags, to determine trustworthiness.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/)
-
----
-
-### 2. A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes no human steering needed 
-
-Flexion Robotics teaches humanoid robots basic skills and high-level AI to adapt
-
-💡 *Autonomous robots can complete complex tasks with minimal human input required*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112938-startup-taught-humanoid-robots-retrieve-packages-climb-stairs.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-models-handed-over-a-cocaine-recipe-after-being-told-the-user-was-wearing-a-green-shirt)
 
 ---
 
-### 3. RAM prices expected to rise another 40-50% in Q3 2026, and then 30% more in Q4 as AI demand outpaces supply 
+### 2. xTool says its 01 Omni Printer can print it all firm steps into the world of UV printing for output on 'all surfaces' at up to 5mm thick 
 
-RAM prices are expected to rise by 40-50% in Q3 and 30-40% in Q4 due to AI demand outpacing supply. This surge is attributed to the increasing need for memory in AI-driven applications. Ethan Tan, a memory industry consultant, predicts this price hike.
+xTool's 01 Omni Printer is a 4-in-1 device capable of printing on various surfaces, including up to 5mm thick materials.
 
-💡 *AI demand fuels memory price surge*
+💡 *Breaking barriers in UV printing technology for makers and creators worldwide.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112934-ram-prices-expected-rise-another-40-50-q3.html)
-
----
-
-### 4. Cargo thieves target AI data center supplies in $1.3 million heists $300,000 worth of copper wire and $1 million worth of equipment recovered outside Chicago 
-
-Authorities recovered $1.3 million worth of data center supplies and equipment near Chicago. The stolen goods included $300,000 worth of copper wire and $1 million worth of equipment. This high-value recovery indicates cargo thieves target AI data center supplies.
-
-💡 *High-tech cargo thefts hinder AI data center infrastructure development.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/cargo-thieves-target-ai-data-center-supplies-in-usd1-3-million-heists-usd300-000-worth-of-copper-wire-and-usd1-million-worth-of-equipment-recovered-outside-chicago)
+🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/xtool-says-its-01-omni-printer-can-print-it-all-firm-steps-into-the-world-of-uv-printing-for-output-on-all-surfaces-at-up-to-5mm-thick)
 
 ---
 
-### 5. Legacy Nvidia RTX 3060 12GB returns to retail five years after original launch, priced at $339 resurrected GPU strategy that Jensen called a 'good idea' apparently comes to fruition 
+### 3. Meta releases version two of its brain-computer interface that can turn thoughts into keypresses non-invasive magnetoencephalography scanner can measure changes in brain activity 
 
-Nvidia's revived RTX 3060 12GB is now available for $339, five years after its initial launch. This move follows Nvidia CEO Jensen Huang's endorsement of re-introducing older GPUs on trailing process nodes. The re-release aims to provide budget-friendly options for gamers.
+Meta releases non-invasive Brain2Qwerty BCI version two with clinical trial potential.
 
-💡 *Nvidia's resurrected GPU strategy helps bridge budget gaming gaps effectively.*
+💡 *Enabling patients to control computers with their minds without invasive surgery.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/legacy-nvidia-rtx-3060-12gb-returns-to-retail-five-years-after-original-launch-priced-at-usd339-resurrected-gpu-strategy-that-jensen-called-a-good-idea-apparently-comes-to-fruition)
-
----
-
-### 6. Samsung, SK hynix, and Micron sued over alleged DRAM price fixing amid record memory costs lawsuit claims coordinated HBM shift was cover to curtail DDR3 and DDR4 production 
-
-Samsung, SK hynix, and Micron are sued over alleged DRAM price fixing. A lawsuit claims the companies coordinated a shift to High-Bandwidth Memory (HBM) to reduce DDR3 and DDR4 production. The lawsuit was filed in the U.S. District Court for the Northern District of California.
-
-💡 *DRAM price fixing could severely impact tech industry supply chains worldwide*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsung-sk-hynix-and-micron-sued-over-alleged-dram-price-fixing-amid-record-memory-costs)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/meta-releases-version-two-of-its-brain-computer-interface-that-can-turn-thoughts-into-keypresses-non-invasive-magnetoencephalography-scanner-can-measure-changes-in-brain-activity)
 
 ---
 
-### 7. Imec's 2026 roadmap details 0.3nm nodes by 2038, CFET transistors become viable at 0.7nm company redefines Moore's Law as cell sizes gain importance for density 
+### 4. Virginia county asks all employees, including schools, to conserve power due to AI-driven electricity price hikes state's 400-plus data centers steadily increasing demand, grid expansion, and pricing 
 
-Imec's roadmap targets 0.3nm nodes by 2038, introducing CFET transistors and HLSI era.
+A Virginia county has asked employees, including school staff, to conserve power due to increasing electricity demands from the state's numerous data centers, driven by artificial intelligence requirements.
 
-💡 *Transistor density gains focus from scaling to cell size optimization.*
+💡 *AI-driven data centers are drastically increasing Virginia's electricity costs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/imecs-2026-roadmap-details-0-3nm-nodes-by-2038-cfet-transistors-become-viable-at-0-7nm-company-redefines-moores-law-as-cell-sizes-gain-importance-for-density)
-
----
-
-### 8. Apple pulled VK's apps in Russia without warning, so the Kremlin is telling users to switch to Android 
-
-Apple removed VK's apps from the App Store without warning, affecting millions of users. VK is blaming Apple for the move. The Kremlin is advising users to switch to Android as a result.
-
-💡 *Apple's actions limit access to popular Russian app in the country*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112936-apple-pulled-vk-apps-russia-without-warning-kremlin.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/virginia-county-asks-all-employees-including-schools-to-save-power-due-to-ai-driven-electricity-price-hikes-states-400-plus-data-centers-steadily-increasing-demand-grid-expansion-and-pricing)
 
 ---
 
-### 9. Meta has been secretly relying on Google's AI for customer service, ad tools, and content moderation then got cut off 
+### 5. Private and community servers for Minecraft and COD are illegal and amount to piracy, ESA tells California Senate Stop Killing Games-backed bill fails to pass committee 
 
-Meta was secretly relying on Google's AI services, but was cut off suddenly, disrupting internal projects.
+The ESA claims private and community servers are piracy, prompting controversy. This stance may harm online gaming communities and multiplayer experiences. The issue is tied to a California Senate bill.
 
-💡 *Dependence on external AI services poses significant strategic risk to companies.*
+💡 *Esports and community engagement threatened by strict piracy definitions.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112930-meta-told-staff-watch-their-ai-tokens-after.html)
-
----
-
-### 10. South Korea is betting $880 billion that the next AI race will be won in hardware, not software 
-
-South Korea is investing heavily in semiconductor manufacturing to meet growing demand for memory chips.
-
-💡 *South Korea's hardware-focused AI strategy prioritizes manufacturing over software advancements.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112926-south-korea-betting-880-billion-next-ai-race.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/esa-tells-california-lawmakers-that-private-game-servers-are-piracy)
 
 ---
 
-### 11. Prosecutors used a man's ChatGPT logs to try to link him to the Pacific Palisades fire, but it didn't work 
+### 6. Windows Defender 'BlueHammer' vulnerability now exploited as part of malware campaigns CISA issues warning despite patch release on April 14 
 
-Prosecutors used ChatGPT logs against a man accused of starting the Pacific Palisades fire, but their case was unsuccessful.
+Windows Defender 'BlueHammer' vulnerability is being exploited in malware campaigns despite patches available.
 
-💡 *Prosecution's reliance on AI logs raises concerns about digital privacy rights.*
+💡 *Lack of timely patch updates leaves systems vulnerable to exploitation.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112929-chatgpt-logs-used-evidence-palisades-fire-case-ended.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/windows-defender-bluehammer-vulnerability-now-exploited-as-part-of-malware-campaigns-cisa-issues-warning-despite-patch-release-on-april-14)
 
 ---
 
-### 12. Meet "loop engineering": The next evolution in AI coding isn't a better prompt, it's a system that prompts itself 
+### 7. Nvidia reportedly cancels quad-die Rubin Ultra GPU in favor of dual-GPU design, report claims complex design purportedly scrapped over 'manufacturing execution concerns' 
 
-Developers are creating self-replicating AI coding systems, dubbed 'loops,' to boost efficiency.
+Nvidia reportedly cancels quad-die Rubin Ultra GPU due to 'manufacturing execution concerns'. A dual-die design will allegedly replace it.
 
-💡 *Self-replicating AI systems revolutionize code development with infinite scalability.*
+💡 *Manufacturing concerns impact high-performance GPU design and production timelines.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112923-ai-developers-moving-beyond-prompts-loops-take-over.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-cancels-quad-die-rubin-ultra-gpu-in-favor-of-dual-gpu-design-report-claims-complex-design-purportedly-scrapped-over-manufacturing-execution-concerns)
+
+---
+
+### 8. Chinese Z.ai's latest model tops AI ranking charts amid Anthropic Fable 5 ban blacklisted China firm's popular open-weight GLM-5.2 AI model powered by Huawei silicon 
+
+Chinese AI firm Z.ai's GLM-5.2 model surged to the top of leaderboards after Anthropic's Fable 5 was banned, utilizing Huawei silicon.
+
+💡 *Fable 5 ban accelerates Chinese AI firm's market dominance suddenly*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-free-glm-5-2-tops-the-open-weight-ai-rankings-on-all-huawei-silicon)
+
+---
+
+### 9. More companies are rehiring workers they replaced with AI after automation fails to deliver 
+
+Companies like Ford are rehiring workers replaced by AI after automation fails. The rehiring is due to knowledge gaps in AI systems. Experienced workers were not captured in AI training datasets.
+
+💡 *AI's limitations lead to rehiring of human workers it replaced.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112960-more-companies-rehiring-workers-they-replaced-ai-after.html)
+
+---
+
+### 10. The video game industry just told lawmakers Minecraft and Call of Duty private servers are illegal piracy 
+
+California's Protect Our Games Act stalled due to private server concerns. Opposing lobbyists claimed private servers for games like Minecraft and Call of Duty are illegal piracy. This has sparked debate over game ownership and support.
+
+💡 *Private servers blur lines between piracy and game community preservation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112951-us-bill-against-paid-game-server-shutdowns-fails.html)
+
+---
+
+### 11. Call of Duty's latest ad loudly reminds everyone it's not coming to Game Pass 
+
+Call of Duty: Modern Warfare 4 skips Game Pass release, first time in two years.
+
+💡 *Exclusive titles like Call of Duty hurt Game Pass's value proposition.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112945-microsoft-latest-call-duty-ad-loudly-reminds-everyone.html)
+
+---
+
+### 12. WhatsApp finally gets usernames, letting users hide their phone numbers 
+
+WhatsApp is introducing unique usernames to connect without sharing phone numbers. To claim yours, update to the latest version, go to Settings > Account > Username, and pick an available handle. The feature is rolling out gradually with broader availability expected later this year.
+
+💡 *Hiding phone numbers enhances user privacy online.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/5748-whatsapp-for-android.html)
+
+---
+
+### 13. The Comcast-NBCUniversal split is about betting on data centers over cable, and gaming over TV 
+
+Comcast reassesses cable business, focusing on data centers and AI workloads. The company is shifting its focus towards high-capacity data delivery and away from legacy pay-TV. This move positions Comcast for future growth in the data-centric market.
+
+💡 *Data-driven future eclipses traditional TV in Comcast's business strategy*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112942-nbcuniversal-eyes-gaming-next-growth-business-after-comcast.html)
+
+---
+
+### 14. Fox apologizes after Mr. Wonderful accuses data center opponents of China ties 
+
+O'Leary Digital's Stratos project is a 41,200-acre hyperscale AI data center in Utah. The project has faced opposition, with accusations of ties to China. Mr. Wonderful, a billionaire, has apologized for these accusations.
+
+💡 *China ties controversy surrounds Utah's massive AI data center project.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112946-fox-apologizes-after-wonderful-calls-data-center-opponents.html)
+
+---
+
+### 15. PlayStation 6 bill of materials nears $1,000 as RAM shortages worsen 
+
+PlayStation 6 manufacturing costs near $1,000 due to RAM shortages.
+
+💡 *Rising console prices may impact consumer gaming affordability.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112937-playstation-6-bill-materials-nears-1000-ram-shortages.html)
 
 ---
 

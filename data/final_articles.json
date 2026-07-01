@@ -1,335 +1,338 @@
 [
   {
-    "title": "Cargo thieves target AI data center supplies in $1.3 million heists $300,000 worth of copper wire and $1 million worth of equipment recovered outside Chicago",
-    "summary": "Authorities recovered $1.3 million worth of data center supplies and equipment near Chicago. The stolen goods included $300,000 worth of copper wire and $1 million worth of equipment. This high-value recovery indicates cargo thieves target AI data center supplies.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/cargo-thieves-target-ai-data-center-supplies-in-usd1-3-million-heists-usd300-000-worth-of-copper-wire-and-usd1-million-worth-of-equipment-recovered-outside-chicago",
+    "title": "Anthropic restores Claude Fable 5 as US lifts export controls single filter now blocks prompt that could identify software vulnerabilities and write code to exploit them",
+    "summary": "Anthropic restored global access to Claude Fable 5 after US lifted export controls. The decision was made a day after the U.S. Department of Commerce withdrew the restrictions. The single filter now blocks prompts that could identify software vulnerabilities and write code to exploit them.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-restores-claude-fable-5-as-us-lifts-export-controls",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.051945",
-    "insight": "High-tech cargo thefts hinder AI data center infrastructure development."
-  },
-  {
-    "title": "Meta fights soaring hardware costs by reusing old DDR4 server memory in new DDR5-only servers custom CXL 2.0 chip marries legacy DDR4-2400 with cutting-edge DDR5-6400",
-    "summary": "Meta uses its custom Vistara CXL memory expander to reuse DDR4 memory in new servers running AMD EPYC 'Turin' processors, cutting hardware costs.",
-    "link": "https://www.tomshardware.com/pc-components/dram/meta-fights-soaring-hardware-costs-by-reusing-old-ddr4-server-memory-in-new-ddr5-only-servers-custom-cxl-2-0-chip-marries-legacy-ddr4-2400-with-cutting-edge-ddr5-6400",
-    "categories": [
-      "Hardware",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.052080",
-    "insight": "Meta optimizes hardware costs with innovative DDR4-legacy integration technology"
+    "processed_date": "2026-07-01T11:42:35.126474",
+    "insight": "US export control changes impact AI model accessibility and security measures."
   },
   {
-    "title": "HamsterOS jams a 32-bit GUI operating system in a single 1.44 MB floppy disk retro OS for 386-era hardware should make for easy living with DOS machines and software",
-    "summary": "HamsterOS is a 32-bit GUI operating system that fits on a single 1.44 MB floppy disk, making it compatible with 386-era hardware and allowing for easy coexistence with DOS-based machines and software.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/hamsteros-jams-a-32-bit-gui-operating-system-in-a-1-44-mb-single-floppy-for-386-era-hardware-retro-os-should-make-for-easy-living-with-dos-machines-and-software",
+    "title": "The bifurcated laptop landscape of Computex 2026 MacBook Neo competitors with 8GB of RAM, and expensive Nvidia laptops promising an agentic-focused future of Windows on Arm",
+    "summary": "Computex 2026 laptop announcements cater to different budgets, bifurcating the market. Competitors to the MacBook Neo, like those with 8GB of RAM, target budget-conscious users. Meanwhile, expensive Nvidia laptops focus on Windows on Arm's agentic future.",
+    "link": "https://www.tomshardware.com/laptops/the-bifurcated-laptop-landscape-of-computex-2026-macbook-neo-competitors-with-8gb-of-ram-and-expensive-nvidia-laptops-promising-an-agentic-focused-future-of-windows-on-arm",
     "categories": [
       "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.052209",
-    "insight": "Enabling seamless integration with legacy hardware and software ecosystems."
-  },
-  {
-    "title": "Oomwoo is a new open-source robot vacuum you can 3D print yourself, sidesteps cloud security risks by running fully offline project combines Raspberry Pi, 2D LiDAR, and a 3D-printed chassis",
-    "summary": "OOMWOO is an open-source robot vacuum that can be 3D printed by owners, providing a fully offline experience and sidestepping cloud security risks.",
-    "link": "https://www.tomshardware.com/3d-printing/maker-kicks-off-oomwoo-an-open-source-robot-vacuum-you-can-3d-print-and-build-yourself",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-30T11:32:08.052321",
-    "insight": "Empowering DIY users to control their robot's data and security."
-  },
-  {
-    "title": "Designer turns discontinued E-Ink dev board into a 60Hz Game Boy handheld dual-core chip runs at 100% to power handheld, 960x540 display employs ultra-low-cost ESP32-S3 microcontroller",
-    "summary": "A designer repurposed a discontinued E-Ink dev board into a functional Game Boy handheld, utilizing an ESP32-S3 microcontroller. The device boasts a 60Hz display and impressive performance, despite the hardware's discontinuation. The achievement showcases the creator's technical expertise and resourcefulness.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/designer-turns-niche-e-ink-dev-board-into-a-60hz-game-boy-handheld-960x540-display-powered-by-ultra-low-cost-esp32-s3-microcontroller",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-30T11:32:08.052434",
-    "insight": "Creative repurposing of discontinued hardware leads to innovative achievements."
-  },
-  {
-    "title": "AMD EXPO ULL RAM drops at jaw-dropping $1,099 despite promises of it being 'effectively the same price' DDR5-6000 C26 32GB kit sports 80% ULL tax",
-    "summary": "Newegg now selling AMD ULL-enabled G.Skill Trident Z5 NeoX kits, priced at $1,099. The kits are 32GB DDR5-6000 C26, with an 80% ULL tax.",
-    "link": "https://www.tomshardware.com/pc-components/ram/amd-expo-ull-ram-drops-at-jaw-dropping-usd1-099-despite-promises-of-it-being-effectively-the-same-price-ddr5-6000-c26-32gb-kit-sports-80-percent-ull-tax",
-    "categories": [
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.052540",
-    "insight": "High ULL tax undermines promise of 'effectively the same price' RAM"
+    "processed_date": "2026-07-01T11:42:35.126603",
+    "insight": "Budget and performance options shape diverging laptop markets"
   },
   {
-    "title": "CUDA emulator for AMD GPUs Zluda loses funding with v6 release embattled project goes back to hobby status but now includes 32-bit PhysX support",
-    "summary": "Zluda, an open-source CUDA emulator for AMD GPUs, has lost funding. Version 6 has been released as a hobby project. It now includes early 32-bit PhysX support.",
-    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/cuda-emulator-for-amd-gpus-zluda-loses-funding-with-v6-release-embattled-project-goes-back-to-hobby-status-but-now-includes-32-bit-physx-support",
+    "title": "Philippine town closes all 'Pisonet' computer rental shops in wake of school shooting incident blamed on violent video games, shops closed 'for the safety of the youth'",
+    "summary": "A Philippine town closed 'Pisonet' shops, citing distractions and safety concerns. The move follows a school shooting blamed on violent video games. Students' access to gaming and internet content is limited now.",
+    "link": "https://www.tomshardware.com/video-games/philippine-town-closes-all-pisonet-computer-rental-shops-in-wake-of-school-shooting-incident-blamed-on-violent-video-games-shops-closed-for-the-safety-of-the-youth",
     "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.052642",
-    "insight": "AMD GPU developers gain access to 32-bit PhysX technology"
-  },
-  {
-    "title": "Legacy Nvidia RTX 3060 12GB returns to retail five years after original launch, priced at $339 resurrected GPU strategy that Jensen called a 'good idea' apparently comes to fruition",
-    "summary": "Nvidia's revived RTX 3060 12GB is now available for $339, five years after its initial launch. This move follows Nvidia CEO Jensen Huang's endorsement of re-introducing older GPUs on trailing process nodes. The re-release aims to provide budget-friendly options for gamers.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/legacy-nvidia-rtx-3060-12gb-returns-to-retail-five-years-after-original-launch-priced-at-usd339-resurrected-gpu-strategy-that-jensen-called-a-good-idea-apparently-comes-to-fruition",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.052769",
-    "insight": "Nvidia's resurrected GPU strategy helps bridge budget gaming gaps effectively."
-  },
-  {
-    "title": "South Korea unveils $520 billion investment plan with Samsung and SK Hynix to expand memory chip dominance plan includes four new fabs and HBM facilities, amid strong government support",
-    "summary": "South Korea's $520B investment plan with Samsung and SK Hynix aims to expand its memory chip dominance through four new fabs and HBM facilities, backed by strong government support.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-30T11:32:08.052897",
-    "insight": "South Korea significantly expands its semiconductor industry with massive investment."
-  },
-  {
-    "title": "Steamroller becomes first prebuilt gaming PC to ship with SteamOS Ryzen 9600X, Radeon RX 7600, 16GB DDR5 RAM system available for preorder at $1,299",
-    "summary": "Steamroller becomes the first prebuilt gaming PC to ship with SteamOS, featuring a Ryzen 9600X, Radeon RX 7600, and 16GB DDR5 RAM. The system is available for preorder at $1,299. It offers standard desktop components with future upgradeability.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/steamroller-becomes-first-prebuilt-gaming-pc-to-ship-with-steamos-ryzen-9600x-radeon-rx-7600-16gb-ddr5-ram-system-available-for-preorder-at-usd1-299",
-    "categories": [
-      "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.053008",
-    "insight": "SteamOS gaming PCs offer users a unique, Linux-based gaming experience."
+    "processed_date": "2026-07-01T11:42:35.126715",
+    "insight": "Linking violent video games to real-life violence can have far-reaching consequences"
   },
   {
-    "title": "Samsung, SK hynix, and Micron sued over alleged DRAM price fixing amid record memory costs lawsuit claims coordinated HBM shift was cover to curtail DDR3 and DDR4 production",
-    "summary": "Samsung, SK hynix, and Micron are sued over alleged DRAM price fixing. A lawsuit claims the companies coordinated a shift to High-Bandwidth Memory (HBM) to reduce DDR3 and DDR4 production. The lawsuit was filed in the U.S. District Court for the Northern District of California.",
-    "link": "https://www.tomshardware.com/tech-industry/samsung-sk-hynix-and-micron-sued-over-alleged-dram-price-fixing-amid-record-memory-costs",
+    "title": "Virginia county asks all employees, including schools, to conserve power due to AI-driven electricity price hikes state's 400-plus data centers steadily increasing demand, grid expansion, and pricing",
+    "summary": "A Virginia county has asked employees, including school staff, to conserve power due to increasing electricity demands from the state's numerous data centers, driven by artificial intelligence requirements.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/virginia-county-asks-all-employees-including-schools-to-save-power-due-to-ai-driven-electricity-price-hikes-states-400-plus-data-centers-steadily-increasing-demand-grid-expansion-and-pricing",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.053111",
-    "insight": "DRAM price fixing could severely impact tech industry supply chains worldwide"
+    "processed_date": "2026-07-01T11:42:35.126814",
+    "insight": "AI-driven data centers are drastically increasing Virginia's electricity costs."
   },
   {
-    "title": "Imec's 2026 roadmap details 0.3nm nodes by 2038, CFET transistors become viable at 0.7nm company redefines Moore's Law as cell sizes gain importance for density",
-    "summary": "Imec's roadmap targets 0.3nm nodes by 2038, introducing CFET transistors and HLSI era.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/imecs-2026-roadmap-details-0-3nm-nodes-by-2038-cfet-transistors-become-viable-at-0-7nm-company-redefines-moores-law-as-cell-sizes-gain-importance-for-density",
+    "title": "New PC purchases see sharpest drop in nearly three years as memory and storage prices bite shipments fall by 7%, analysts forecast 14% contraction that will hit budget laptops hard",
+    "summary": "PC shipments fell 7% in Q1 2026, with a predicted 14% annual contraction. The decline is largely attributed to rising memory and storage prices. Budget laptops are expected to be hit the hardest.",
+    "link": "https://www.tomshardware.com/tech-industry/new-pc-purchases-see-sharpest-drop-in-nearly-three-years-as-memory-and-storage-prices-bite-shipments-fall-by-7-percent-analysts-forecast-14-percent-contraction-that-will-hit-budget-laptops-hard",
     "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.053215",
-    "insight": "Transistor density gains focus from scaling to cell size optimization."
-  },
-  {
-    "title": "WeAct N006 A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs",
-    "summary": "WeAct N006 is a compact carrier board for NVIDIA Jetson Orin NX with a range of interfaces, designed for robots and UAVs. It features HDMI output, Gigabit Ethernet, multiple USB ports, and M.2 sockets for storage and connectivity. The board supports up to 40W Super Mode.",
-    "link": "https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
+      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-30T11:32:08.053713",
-    "insight": "Enabling AI-driven robots and UAVs with compact, efficient computing solutions."
+    "processed_date": "2026-07-01T11:42:35.126907",
+    "insight": "Rising memory and storage prices hurt PC sales sharply."
   },
   {
-    "title": "XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications",
-    "summary": "The XIAO nRF54LM20A (Sense) board is a tiny IoT board offering ultra-low-power Bluetooth connectivity. It supports various wireless protocols, including Bluetooth 6.0, Matter, Thread, and Zigbee, making it suitable for a wide range of IoT applications. The board also features additional sensors and a power management unit.",
-    "link": "https://www.cnx-software.com/2026/06/30/xiao-nrf54lm20a-sense-board-enables-ultra-low-power-bluetooth-6-0-matter-thread-zigbee-or-2-4-ghz-proprietary-applications/",
+    "title": "AI researchers trick chatbots into sharing how to make cocaine as long as they believe a user is wearing a green shirt 'CoT Forgery' exploit spurs LLMs to divulge forbidden info by faking trusted chains of thought",
+    "summary": "AI researchers exploited a vulnerability in large language models (LLMs) by faking trusted input tags, tricking the models into divulging forbidden information, such as instructions for making cocaine. This 'CoT Forgery' exploit targets the models' reliance on input sequence tags, which are meant to provide security through trusted roles. The research highlights the limitations of current LLM security measures.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-models-handed-over-a-cocaine-recipe-after-being-told-the-user-was-wearing-a-green-shirt",
     "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-06-30T11:32:08.053902",
-    "insight": "Ultra-low-power IoT board for efficient wireless connectivity solutions"
-  },
-  {
-    "title": "Banana Pi BPI-VP10 A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU",
-    "summary": "Banana Pi BPI-VP10 is a low-cost servo control board based on the Fortior FU7512L dual-core RISC-V MCU, designed for industrial control applications with 100W/200W servo support and multiple control modes.",
-    "link": "https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/",
-    "categories": [
-      "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-30T11:32:08.054082",
-    "insight": "Affordable RISC-V MCU enables easy, cost-effective industrial servo control development."
+    "processed_date": "2026-07-01T11:42:35.127009",
+    "insight": "LLMs judge input soundness, not literal tags, to determine trustworthiness."
   },
   {
-    "title": "Freshman trauma: Starship robot cookie deliveries soon no more at colleges",
-    "summary": "Starship is shifting focus from college snack deliveries to grocery deliveries, targeting a growing market and aiming to provide cheaper options.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/freshman-trauma-starship-robot-cookie-deliveries-soon-no-more-colleges",
+    "title": "Private and community servers for Minecraft and COD are illegal and amount to piracy, ESA tells California Senate Stop Killing Games-backed bill fails to pass committee",
+    "summary": "The ESA claims private and community servers are piracy, prompting controversy. This stance may harm online gaming communities and multiplayer experiences. The issue is tied to a California Senate bill.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/esa-tells-california-lawmakers-that-private-game-servers-are-piracy",
     "categories": [
-      "Tech News"
+      "AI & ML",
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.055049",
-    "insight": "College students may see convenience replaced with cost savings"
+    "processed_date": "2026-07-01T11:42:35.127134",
+    "insight": "Esports and community engagement threatened by strict piracy definitions."
   },
   {
-    "title": "A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes no human steering needed",
-    "summary": "Flexion Robotics teaches humanoid robots basic skills and high-level AI to adapt",
-    "link": "https://www.techspot.com/news/112938-startup-taught-humanoid-robots-retrieve-packages-climb-stairs.html",
+    "title": "xTool says its 01 Omni Printer can print it all firm steps into the world of UV printing for output on 'all surfaces' at up to 5mm thick",
+    "summary": "xTool's 01 Omni Printer is a 4-in-1 device capable of printing on various surfaces, including up to 5mm thick materials.",
+    "link": "https://www.tomshardware.com/maker-stem/xtool-says-its-01-omni-printer-can-print-it-all-firm-steps-into-the-world-of-uv-printing-for-output-on-all-surfaces-at-up-to-5mm-thick",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-30T11:32:08.055443",
-    "insight": "Autonomous robots can complete complex tasks with minimal human input required"
+    "processed_date": "2026-07-01T11:42:35.127227",
+    "insight": "Breaking barriers in UV printing technology for makers and creators worldwide."
   },
   {
-    "title": "Dbrand cancels Portal-inspired Steam Machine Companion Cube case after Valve legal threat, refunds buyers",
-    "summary": "Dbrand canceled a Portal-inspired Steam Machine case due to a Valve legal threat. The company admitted it didn't ask for a license from Valve. Buyers will receive refunds.",
-    "link": "https://www.techspot.com/news/112941-dbrand-cancels-portal-inspired-steam-machine-companion-cube.html",
+    "title": "AMD confirms low-power CPU cores in Linux kernel patch Zen 6 chips could follow in Intel's footsteps with new core type for background tasks",
+    "summary": "AMD plans to introduce low-power CPU cores in next-gen heterogeneous CPUs to reduce power consumption and enhance energy efficiency.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-confirms-low-power-cpu-cores-in-linux-kernel-patch-zen-6-chips-could-follow-in-intels-footsteps-with-new-core-type-for-background-tasks",
     "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-01T11:42:35.127318",
+    "insight": "Improved background task performance boosts overall system energy efficiency and battery life."
+  },
+  {
+    "title": "Microsoft's flagship Windows PC lineup will drop reportedly drop budget options firm prunes Surface Go and Surface Laptop Go",
+    "summary": "Microsoft is eliminating budget options from its Surface lineup, discontinuing Surface Laptop Go 3 and Surface Go 4. The move suggests a shift towards premium offerings. This change may affect consumers seeking affordable Windows PCs.",
+    "link": "https://www.tomshardware.com/laptops/microsofts-flagship-windows-pc-lineup-will-drop-reportedly-drop-budget-options-firm-prunes-surface-go-and-surface-laptop-go",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-01T11:42:35.127401",
+    "insight": "Microsoft prioritizes premium over budget options in Surface lineup"
+  },
+  {
+    "title": "Windows Defender 'BlueHammer' vulnerability now exploited as part of malware campaigns CISA issues warning despite patch release on April 14",
+    "summary": "Windows Defender 'BlueHammer' vulnerability is being exploited in malware campaigns despite patches available.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/windows-defender-bluehammer-vulnerability-now-exploited-as-part-of-malware-campaigns-cisa-issues-warning-despite-patch-release-on-april-14",
+    "categories": [
+      "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.055548",
-    "insight": "Ignoring licensing agreements can lead to costly consequences for companies."
+    "processed_date": "2026-07-01T11:42:35.127488",
+    "insight": "Lack of timely patch updates leaves systems vulnerable to exploitation."
   },
   {
-    "title": "RAM prices expected to rise another 40-50% in Q3 2026, and then 30% more in Q4 as AI demand outpaces supply",
-    "summary": "RAM prices are expected to rise by 40-50% in Q3 and 30-40% in Q4 due to AI demand outpacing supply. This surge is attributed to the increasing need for memory in AI-driven applications. Ethan Tan, a memory industry consultant, predicts this price hike.",
-    "link": "https://www.techspot.com/news/112934-ram-prices-expected-rise-another-40-50-q3.html",
+    "title": "Meta releases version two of its brain-computer interface that can turn thoughts into keypresses non-invasive magnetoencephalography scanner can measure changes in brain activity",
+    "summary": "Meta releases non-invasive Brain2Qwerty BCI version two with clinical trial potential.",
+    "link": "https://www.tomshardware.com/peripherals/wearable-tech/meta-releases-version-two-of-its-brain-computer-interface-that-can-turn-thoughts-into-keypresses-non-invasive-magnetoencephalography-scanner-can-measure-changes-in-brain-activity",
     "categories": [
-      "AI & ML"
+      "AI & ML",
+      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-06-30T11:32:08.055662",
-    "insight": "AI demand fuels memory price surge"
+    "processed_date": "2026-07-01T11:42:35.127597",
+    "insight": "Enabling patients to control computers with their minds without invasive surgery."
   },
   {
-    "title": "Apple pulled VK's apps in Russia without warning, so the Kremlin is telling users to switch to Android",
-    "summary": "Apple removed VK's apps from the App Store without warning, affecting millions of users. VK is blaming Apple for the move. The Kremlin is advising users to switch to Android as a result.",
-    "link": "https://www.techspot.com/news/112936-apple-pulled-vk-apps-russia-without-warning-kremlin.html",
+    "title": "Nvidia reportedly cancels quad-die Rubin Ultra GPU in favor of dual-GPU design, report claims complex design purportedly scrapped over 'manufacturing execution concerns'",
+    "summary": "Nvidia reportedly cancels quad-die Rubin Ultra GPU due to 'manufacturing execution concerns'. A dual-die design will allegedly replace it.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-cancels-quad-die-rubin-ultra-gpu-in-favor-of-dual-gpu-design-report-claims-complex-design-purportedly-scrapped-over-manufacturing-execution-concerns",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-01T11:42:35.127686",
+    "insight": "Manufacturing concerns impact high-performance GPU design and production timelines."
+  },
+  {
+    "title": "Chinese Z.ai's latest model tops AI ranking charts amid Anthropic Fable 5 ban blacklisted China firm's popular open-weight GLM-5.2 AI model powered by Huawei silicon",
+    "summary": "Chinese AI firm Z.ai's GLM-5.2 model surged to the top of leaderboards after Anthropic's Fable 5 was banned, utilizing Huawei silicon.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-free-glm-5-2-tops-the-open-weight-ai-rankings-on-all-huawei-silicon",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-01T11:42:35.127776",
+    "insight": "Fable 5 ban accelerates Chinese AI firm's market dominance suddenly"
+  },
+  {
+    "title": "Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces",
+    "summary": "The EDATEC ED-IPC1200 is an industrial data acquisition gateway based on Raspberry Pi CM0, featuring various I/O interfaces, a fanless design, and wide DC power input for industrial automation and edge applications.",
+    "link": "https://www.cnx-software.com/2026/07/01/raspberry-pi-cm0-based-industrial-data-acquisition-gateway-offer-rs485-rs232-di-do-interfaces/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-01T11:42:35.128282",
+    "insight": "Enables reliable, real-time data acquisition and control in industrial environments."
+  },
+  {
+    "title": "Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity",
+    "summary": "Flipper's BUSY Bar is an open-source productivity multitool with a customizable LED display, supporting Matter connectivity for seamless home automation integration.",
+    "link": "https://www.cnx-software.com/2026/07/01/flipper-busy-bar-open-source-productivity-multitool-features-led-pixel-display-supports-matter-connectivity/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-01T11:42:35.128443",
+    "insight": "Enhanced home productivity through seamless app and IoT integration."
+  },
+  {
+    "title": "More companies are rehiring workers they replaced with AI after automation fails to deliver",
+    "summary": "Companies like Ford are rehiring workers replaced by AI after automation fails. The rehiring is due to knowledge gaps in AI systems. Experienced workers were not captured in AI training datasets.",
+    "link": "https://www.techspot.com/news/112960-more-companies-rehiring-workers-they-replaced-ai-after.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.055767",
-    "insight": "Apple's actions limit access to popular Russian app in the country"
+    "processed_date": "2026-07-01T11:42:35.129670",
+    "insight": "AI's limitations lead to rehiring of human workers it replaced."
   },
   {
-    "title": "Microsoft's Windows Secure Boot certificates just expired here's what you need to do",
-    "summary": "Windows Secure Boot certificates expired, affecting Asus consumer PCs. The update will be automatically installed through Windows Update. Users can manually check the status via PowerShell and install if necessary.",
-    "link": "https://www.techspot.com/news/112931-microsoft-windows-secure-boot-certificates-expired-here-what.html",
+    "title": "Intel Arc Pro B70 Tested: The Gaming GPU Intel Never Released",
+    "summary": "Intel's Arc Pro B70, a workstation GPU, is tested in modern games. The results may indicate what Intel's unreleased Arc B770 would have looked like. Performance is compared across 12 titles.",
+    "link": "https://www.techspot.com/review/3141-intel-arc-b70-pro/",
     "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-01T11:42:35.129759",
+    "insight": "Intel's workstation GPU performance reveals Arc B770's potential capabilities."
+  },
+  {
+    "title": "The video game industry just told lawmakers Minecraft and Call of Duty private servers are illegal piracy",
+    "summary": "California's Protect Our Games Act stalled due to private server concerns. Opposing lobbyists claimed private servers for games like Minecraft and Call of Duty are illegal piracy. This has sparked debate over game ownership and support.",
+    "link": "https://www.techspot.com/news/112951-us-bill-against-paid-game-server-shutdowns-fails.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-01T11:42:35.129862",
+    "insight": "Private servers blur lines between piracy and game community preservation."
+  },
+  {
+    "title": "This retro enthusiast forced Windows 11 to run on a Core 2 Quad Q6600 and AGP graphics",
+    "summary": "Windows 11 can run on outdated hardware, defying Microsoft's minimum requirements. A user named Omores achieved this by forcing the OS on a 2003 motherboard, an AGP GPU, and a Core 2 Quad Q6600 CPU. This showcases the limits of modern OS flexibility and user ingenuity.",
+    "link": "https://www.techspot.com/news/112947-retro-enthusiast-forced-windows-11-run-core-2.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-01T11:42:35.129959",
+    "insight": "Pushing minimum system requirements can unlock hidden hardware capabilities."
+  },
+  {
+    "title": "Cargo thieves are now stealing millions in data center hardware, not just GPUs and consoles",
+    "summary": "Law enforcement in Illinois recovered $1.3 million worth of data center equipment from two trailers, highlighting a growing trend of cargo theft targeting data center hardware.",
+    "link": "https://www.techspot.com/news/112948-cargo-thieves-now-stealing-millions-data-center-hardware.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-01T11:42:35.130072",
+    "insight": "Data center equipment theft poses significant security and financial risks."
+  },
+  {
+    "title": "License plate cameras are scanning 20 billion vehicles a month, cities are starting to push back",
+    "summary": "Cities are pushing back against license plate cameras scanning 20 billion vehicles a month, with Flock Safety at the center of the debate. The company's automated license plate readers capture images of passing vehicles, converting them into searchable data points. This raises concerns about mass surveillance and individual privacy.",
+    "link": "https://www.techspot.com/news/112940-ai-camera-networks-tracking-billions-vehicles-residents-pushing.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-01T11:42:35.130170",
+    "insight": "Mass surveillance through license plate cameras threatens individual privacy rights."
+  },
+  {
+    "title": "Call of Duty's latest ad loudly reminds everyone it's not coming to Game Pass",
+    "summary": "Call of Duty: Modern Warfare 4 skips Game Pass release, first time in two years.",
+    "link": "https://www.techspot.com/news/112945-microsoft-latest-call-duty-ad-loudly-reminds-everyone.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-01T11:42:35.130264",
+    "insight": "Exclusive titles like Call of Duty hurt Game Pass's value proposition."
+  },
+  {
+    "title": "WhatsApp finally gets usernames, letting users hide their phone numbers",
+    "summary": "WhatsApp is introducing unique usernames to connect without sharing phone numbers. To claim yours, update to the latest version, go to Settings > Account > Username, and pick an available handle. The feature is rolling out gradually with broader availability expected later this year.",
+    "link": "https://www.techspot.com/downloads/5748-whatsapp-for-android.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-01T11:42:35.130356",
+    "insight": "Hiding phone numbers enhances user privacy online."
+  },
+  {
+    "title": "Microsoft's own Azure CTO is still annoyed by Windows' \"file in use\" error",
+    "summary": "Microsoft's Azure CTO Russinovich explains the 'file in use' error, citing file handles as the reason Windows refuses to comply with a request.",
+    "link": "https://www.techspot.com/news/112939-microsoft-own-azure-cto-annoyed-windows-file-use.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-01T11:42:35.130449",
+    "insight": "Understanding file handles is crucial for debugging Windows-related issues effectively."
+  },
+  {
+    "title": "The Comcast-NBCUniversal split is about betting on data centers over cable, and gaming over TV",
+    "summary": "Comcast reassesses cable business, focusing on data centers and AI workloads. The company is shifting its focus towards high-capacity data delivery and away from legacy pay-TV. This move positions Comcast for future growth in the data-centric market.",
+    "link": "https://www.techspot.com/news/112942-nbcuniversal-eyes-gaming-next-growth-business-after-comcast.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-01T11:42:35.130546",
+    "insight": "Data-driven future eclipses traditional TV in Comcast's business strategy"
+  },
+  {
+    "title": "Fox apologizes after Mr. Wonderful accuses data center opponents of China ties",
+    "summary": "O'Leary Digital's Stratos project is a 41,200-acre hyperscale AI data center in Utah. The project has faced opposition, with accusations of ties to China. Mr. Wonderful, a billionaire, has apologized for these accusations.",
+    "link": "https://www.techspot.com/news/112946-fox-apologizes-after-wonderful-calls-data-center-opponents.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-01T11:42:35.130633",
+    "insight": "China ties controversy surrounds Utah's massive AI data center project."
+  },
+  {
+    "title": "PlayStation 6 bill of materials nears $1,000 as RAM shortages worsen",
+    "summary": "PlayStation 6 manufacturing costs near $1,000 due to RAM shortages.",
+    "link": "https://www.techspot.com/news/112937-playstation-6-bill-materials-nears-1000-ram-shortages.html",
+    "categories": [
+      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.055975",
-    "insight": "Outdated certificates compromise system security and integrity."
+    "processed_date": "2026-07-01T11:42:35.130727",
+    "insight": "Rising console prices may impact consumer gaming affordability."
   },
   {
-    "title": "A hollow-core fiber cable just carried 51.3 Tb/s across 200 km",
-    "summary": "A 200 km HCF cable set a new world record, transmitting 51.3 Tb/s without signal boosters.",
-    "link": "https://www.techspot.com/news/112935-hollow-core-fiber-cable-carried-513-tbs-across.html",
+    "title": "Amazon sued in Australia after Prime subscribers were made to pay more to remove ads",
+    "summary": "Amazon is being sued in Australia for allegedly breaching consumer law by charging Prime subscribers to remove ads.",
+    "link": "https://www.techspot.com/news/112943-amazon-pay-more-remove-ads-trick-faces-australian.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.056088",
-    "insight": "Advances in HCF cables challenge traditional long-haul fiber link assumptions."
-  },
-  {
-    "title": "Developer builds \"complete\" OpenStreetMap client for classic Mac OS 9",
-    "summary": "A developer built an OpenStreetMap client for classic Mac OS 9, providing a vintage mapping experience.",
-    "link": "https://www.techspot.com/news/112928-developer-brings-modern-mapping-mac-os-9-complete.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.056221",
-    "insight": "Bringing ancient operating systems to modern open-source mapping technologies."
-  },
-  {
-    "title": "Meta has been secretly relying on Google's AI for customer service, ad tools, and content moderation then got cut off",
-    "summary": "Meta was secretly relying on Google's AI services, but was cut off suddenly, disrupting internal projects.",
-    "link": "https://www.techspot.com/news/112930-meta-told-staff-watch-their-ai-tokens-after.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.056327",
-    "insight": "Dependence on external AI services poses significant strategic risk to companies."
-  },
-  {
-    "title": "Before it became Grand Theft Auto, what was GTA originally called?",
-    "summary": "The original Grand Theft Auto was nearly cancelled but a gameplay bug saved it, defining its unique gameplay style.",
-    "link": "https://www.techspot.com/trivia/111-before-grand-theft-auto-what-gta-originally-called/",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-30T11:32:08.056418",
-    "insight": "Gameplay bugs can be the foundation of iconic game mechanics."
-  },
-  {
-    "title": "VMware Workstation Pro 26H1 brings architectural upgrades and expanded OS support",
-    "summary": "VMware Workstation Pro 26H1 allows commercial and personal users to run multiple OSes side-by-side on a single PC without rebooting or repartitioning. It supports Windows, Linux, and BSD virtual machines. This version is now fully free for all users.",
-    "link": "https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.056526",
-    "insight": "Uninterrupted cross-platform development and testing become highly efficient"
-  },
-  {
-    "title": "South Korea is betting $880 billion that the next AI race will be won in hardware, not software",
-    "summary": "South Korea is investing heavily in semiconductor manufacturing to meet growing demand for memory chips.",
-    "link": "https://www.techspot.com/news/112926-south-korea-betting-880-billion-next-ai-race.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.056641",
-    "insight": "South Korea's hardware-focused AI strategy prioritizes manufacturing over software advancements."
-  },
-  {
-    "title": "Prosecutors used a man's ChatGPT logs to try to link him to the Pacific Palisades fire, but it didn't work",
-    "summary": "Prosecutors used ChatGPT logs against a man accused of starting the Pacific Palisades fire, but their case was unsuccessful.",
-    "link": "https://www.techspot.com/news/112929-chatgpt-logs-used-evidence-palisades-fire-case-ended.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-06-30T11:32:08.056742",
-    "insight": "Prosecution's reliance on AI logs raises concerns about digital privacy rights."
-  },
-  {
-    "title": "Meet \"loop engineering\": The next evolution in AI coding isn't a better prompt, it's a system that prompts itself",
-    "summary": "Developers are creating self-replicating AI coding systems, dubbed 'loops,' to boost efficiency.",
-    "link": "https://www.techspot.com/news/112923-ai-developers-moving-beyond-prompts-loops-take-over.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-06-30T11:32:08.056869",
-    "insight": "Self-replicating AI systems revolutionize code development with infinite scalability."
+    "processed_date": "2026-07-01T11:42:35.130810",
+    "insight": "Australian consumers may be misled into paying for ad removal."
   }
 ]
