@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of July 01, 2026**
+**Week of July 02, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,49 +7,49 @@
 
 ## 📊 Summary
 - **Articles this week:** 4
-- **Report generated:** 2026-07-01 11:43
+- **Report generated:** 2026-07-02 11:19
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces 
+### 1. SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant 
 
-The EDATEC ED-IPC1200 is an industrial data acquisition gateway based on Raspberry Pi CM0, featuring various I/O interfaces, a fanless design, and wide DC power input for industrial automation and edge applications.
+SONOFF NSPanel Pro Gen2 review covers its unboxing, teardown, and setup process with eWeLink and Home Assistant, showcasing its smart home control features and compatibility with various devices.
 
-💡 *Enables reliable, real-time data acquisition and control in industrial environments.*
+💡 *Advanced smart home control for seamless automation and connectivity*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/01/raspberry-pi-cm0-based-industrial-data-acquisition-gateway-offer-rs485-rs232-di-do-interfaces/)
-
----
-
-### 2. Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity 
-
-Flipper's BUSY Bar is an open-source productivity multitool with a customizable LED display, supporting Matter connectivity for seamless home automation integration.
-
-💡 *Enhanced home productivity through seamless app and IoT integration.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/01/flipper-busy-bar-open-source-productivity-multitool-features-led-pixel-display-supports-matter-connectivity/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/)
 
 ---
 
-### 3. Anthropic restores Claude Fable 5 as US lifts export controls single filter now blocks prompt that could identify software vulnerabilities and write code to exploit them 
+### 2. Intel expands production of photomasks in California: EUV and High-NA EUV in the focal point 
 
-Anthropic restored global access to Claude Fable 5 after US lifted export controls. The decision was made a day after the U.S. Department of Commerce withdrew the restrictions. The single filter now blocks prompts that could identify software vulnerabilities and write code to exploit them.
+Intel is expanding its Bowers Campus in Santa Clara to produce more photomasks in-house, a crucial move as process technologies become increasingly complex. This move will allow Intel to have greater control and efficiency in its manufacturing process. The expansion will focus on EUV and High-NA EUV photomasks.
 
-💡 *US export control changes impact AI model accessibility and security measures.*
+💡 *Intel gains control over photomask production to advance manufacturing efficiency*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-restores-claude-fable-5-as-us-lifts-export-controls)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-expands-production-of-photomasks-in-california-euv-and-high-na-euv-in-the-focal-point)
 
 ---
 
-### 4. Chinese Z.ai's latest model tops AI ranking charts amid Anthropic Fable 5 ban blacklisted China firm's popular open-weight GLM-5.2 AI model powered by Huawei silicon 
+### 3. Tesla hires 17-year Intel veteran responsible for billion-dollar fab startups Gary Jiang likely chosen to oversee fab efforts for Terafab's licensing of 14A 
 
-Chinese AI firm Z.ai's GLM-5.2 model surged to the top of leaderboards after Anthropic's Fable 5 was banned, utilizing Huawei silicon.
+Tesla hires Intel veteran Gary Jiang to lead fab efforts, likely overseeing 14A licensing for Terafab.
 
-💡 *Fable 5 ban accelerates Chinese AI firm's market dominance suddenly*
+💡 *Strategic fab leadership to boost Tesla's 14A chip production capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-free-glm-5-2-tops-the-open-weight-ai-rankings-on-all-huawei-silicon)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tesla-hires-17-year-intel-veteran-responsible-for-billion-dollar-fab-startups-gary-jiang-likely-chosen-to-oversee-fab-efforts-for-terafabs-licensing-of-14a)
+
+---
+
+### 4. Anthropic's Fable 5 shutdown ends with tougher safeguards and federal approval 
+
+Anthropic's Fable model has undergone shutdown and restructuring to improve safeguards, receiving federal approval.
+
+💡 *Model's vulnerabilities expose need for stronger guardrails and oversight.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112955-anthropic-fable-5-shutdown-ends-tougher-safeguards-federal.html)
 
 ---
 

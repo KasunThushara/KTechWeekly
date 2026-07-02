@@ -1,145 +1,95 @@
 # 💻 Hardware
-**Week of July 01, 2026**
+**Week of July 02, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-07-01 11:43
+- **Articles this week:** 8
+- **Report generated:** 2026-07-02 11:19
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. New PC purchases see sharpest drop in nearly three years as memory and storage prices bite shipments fall by 7%, analysts forecast 14% contraction that will hit budget laptops hard 
+### 1. SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant 
 
-PC shipments fell 7% in Q1 2026, with a predicted 14% annual contraction. The decline is largely attributed to rising memory and storage prices. Budget laptops are expected to be hit the hardest.
+SONOFF NSPanel Pro Gen2 review covers its unboxing, teardown, and setup process with eWeLink and Home Assistant, showcasing its smart home control features and compatibility with various devices.
 
-💡 *Rising memory and storage prices hurt PC sales sharply.*
+💡 *Advanced smart home control for seamless automation and connectivity*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/new-pc-purchases-see-sharpest-drop-in-nearly-three-years-as-memory-and-storage-prices-bite-shipments-fall-by-7-percent-analysts-forecast-14-percent-contraction-that-will-hit-budget-laptops-hard)
-
----
-
-### 2. Meta releases version two of its brain-computer interface that can turn thoughts into keypresses non-invasive magnetoencephalography scanner can measure changes in brain activity 
-
-Meta releases non-invasive Brain2Qwerty BCI version two with clinical trial potential.
-
-💡 *Enabling patients to control computers with their minds without invasive surgery.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/meta-releases-version-two-of-its-brain-computer-interface-that-can-turn-thoughts-into-keypresses-non-invasive-magnetoencephalography-scanner-can-measure-changes-in-brain-activity)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/)
 
 ---
 
-### 3. Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces 
+### 2. Sipeed NanoKVM-Go A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding) 
 
-The EDATEC ED-IPC1200 is an industrial data acquisition gateway based on Raspberry Pi CM0, featuring various I/O interfaces, a fanless design, and wide DC power input for industrial automation and edge applications.
+Sipeed NanoKVM-Go is a 4K USB-C KVM with AI integration, offering remote control and AI-powered features.
 
-💡 *Enables reliable, real-time data acquisition and control in industrial environments.*
+💡 *Streamlined remote access with AI-powered features for increased productivity.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/01/raspberry-pi-cm0-based-industrial-data-acquisition-gateway-offer-rs485-rs232-di-do-interfaces/)
-
----
-
-### 4. Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity 
-
-Flipper's BUSY Bar is an open-source productivity multitool with a customizable LED display, supporting Matter connectivity for seamless home automation integration.
-
-💡 *Enhanced home productivity through seamless app and IoT integration.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/01/flipper-busy-bar-open-source-productivity-multitool-features-led-pixel-display-supports-matter-connectivity/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/01/sipeed-nanokvm-go-an-4k-usb-c-kvm-with-recall-like-function-ai-integration/)
 
 ---
 
-### 5. The bifurcated laptop landscape of Computex 2026 MacBook Neo competitors with 8GB of RAM, and expensive Nvidia laptops promising an agentic-focused future of Windows on Arm 
+### 3. AMD Zen 6 leak reveals third core type, corroborating rumored Sony handheld SoC codenamed Canis 
 
-Computex 2026 laptop announcements cater to different budgets, bifurcating the market. Competitors to the MacBook Neo, like those with 8GB of RAM, target budget-conscious users. Meanwhile, expensive Nvidia laptops focus on Windows on Arm's agentic future.
+A leak suggests AMD's Zen 6 CPU lineup may introduce a new 'Low Power core type', akin to Intel's low-power efficiency cores.
 
-💡 *Budget and performance options shape diverging laptop markets*
+💡 *AMD Zen 6 could rival Intel's CPU efficiency with new core type.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/the-bifurcated-laptop-landscape-of-computex-2026-macbook-neo-competitors-with-8gb-of-ram-and-expensive-nvidia-laptops-promising-an-agentic-focused-future-of-windows-on-arm)
-
----
-
-### 6. Philippine town closes all 'Pisonet' computer rental shops in wake of school shooting incident blamed on violent video games, shops closed 'for the safety of the youth' 
-
-A Philippine town closed 'Pisonet' shops, citing distractions and safety concerns. The move follows a school shooting blamed on violent video games. Students' access to gaming and internet content is limited now.
-
-💡 *Linking violent video games to real-life violence can have far-reaching consequences*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/philippine-town-closes-all-pisonet-computer-rental-shops-in-wake-of-school-shooting-incident-blamed-on-violent-video-games-shops-closed-for-the-safety-of-the-youth)
+🔗 [Read Full Article](https://www.techspot.com/news/112954-amd-zen-6-leak-reveals-third-core-type.html)
 
 ---
 
-### 7. Private and community servers for Minecraft and COD are illegal and amount to piracy, ESA tells California Senate Stop Killing Games-backed bill fails to pass committee 
+### 4. Possible AMD RX 7900 XTX engineering sample with red PCB surfaces prototype came with no backplate & custom VBIOS but matches RX 7900 GRE specs 
 
-The ESA claims private and community servers are piracy, prompting controversy. This stance may harm online gaming communities and multiplayer experiences. The issue is tied to a California Senate bill.
+A potential AMD RX 7900 XTX engineering sample has been spotted online, featuring a custom VBIOS and a red PCB with no backplate. The prototype seems to match the specs of the RX 7900 GRE, a binned-down model of the RX 7900 XTX. This find offers a rare glimpse into the engineering process of high-end graphics cards.
 
-💡 *Esports and community engagement threatened by strict piracy definitions.*
+💡 *Insights into AMD's engineering process and binned GPU models revealed*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/esa-tells-california-lawmakers-that-private-game-servers-are-piracy)
-
----
-
-### 8. AMD confirms low-power CPU cores in Linux kernel patch Zen 6 chips could follow in Intel's footsteps with new core type for background tasks 
-
-AMD plans to introduce low-power CPU cores in next-gen heterogeneous CPUs to reduce power consumption and enhance energy efficiency.
-
-💡 *Improved background task performance boosts overall system energy efficiency and battery life.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-confirms-low-power-cpu-cores-in-linux-kernel-patch-zen-6-chips-could-follow-in-intels-footsteps-with-new-core-type-for-background-tasks)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/possible-amd-rx-7900-xtx-engineering-sample-with-red-pcb-surfaces-prototype-came-with-no-backplate-and-custom-vbios-but-matches-rx-7900-gre-specs)
 
 ---
 
-### 9. Microsoft's flagship Windows PC lineup will drop reportedly drop budget options firm prunes Surface Go and Surface Laptop Go 
+### 5. PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit 
 
-Microsoft is eliminating budget options from its Surface lineup, discontinuing Surface Laptop Go 3 and Surface Go 4. The move suggests a shift towards premium offerings. This change may affect consumers seeking affordable Windows PCs.
+A Game Boy emulator running at 60 FPS on an ESP32-S3 E Ink devkit has been achieved by Wenting Zhang's PaperBoy project, utilizing a 4.7-inch display with a raw row/column driver interface to bypass the normal waveform method. The emulator leverages the device's unique display capabilities to deliver high refresh rates. This project showcases the potential for high-performance gaming on low-power, E Ink displays.
 
-💡 *Microsoft prioritizes premium over budget options in Surface lineup*
+💡 *Bypassing waveform method enables high refresh rates on E Ink displays*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/microsofts-flagship-windows-pc-lineup-will-drop-reportedly-drop-budget-options-firm-prunes-surface-go-and-surface-laptop-go)
-
----
-
-### 10. The video game industry just told lawmakers Minecraft and Call of Duty private servers are illegal piracy 
-
-California's Protect Our Games Act stalled due to private server concerns. Opposing lobbyists claimed private servers for games like Minecraft and Call of Duty are illegal piracy. This has sparked debate over game ownership and support.
-
-💡 *Private servers blur lines between piracy and game community preservation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112951-us-bill-against-paid-game-server-shutdowns-fails.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/)
 
 ---
 
-### 11. This retro enthusiast forced Windows 11 to run on a Core 2 Quad Q6600 and AGP graphics 
+### 6. OCCT 17 introduces a redesigned modular Memory Test 
 
-Windows 11 can run on outdated hardware, defying Microsoft's minimum requirements. A user named Omores achieved this by forcing the OS on a 2003 motherboard, an AGP GPU, and a Core 2 Quad Q6600 CPU. This showcases the limits of modern OS flexibility and user ingenuity.
+OCCT 17 introduces a redesigned modular Memory Test with improved performance.
 
-💡 *Pushing minimum system requirements can unlock hidden hardware capabilities.*
+💡 *Enhanced memory testing for better PC performance and reliability*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112947-retro-enthusiast-forced-windows-11-run-core-2.html)
-
----
-
-### 12. Cargo thieves are now stealing millions in data center hardware, not just GPUs and consoles 
-
-Law enforcement in Illinois recovered $1.3 million worth of data center equipment from two trailers, highlighting a growing trend of cargo theft targeting data center hardware.
-
-💡 *Data center equipment theft poses significant security and financial risks.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112948-cargo-thieves-now-stealing-millions-data-center-hardware.html)
+🔗 [Read Full Article](https://www.techspot.com/downloads/4665-overclock-checking-tool.html)
 
 ---
 
-### 13. PlayStation 6 bill of materials nears $1,000 as RAM shortages worsen 
+### 7. Former PlayStation exec says PC ports were about marketing, not money and Sony's new leadership disagrees 
 
-PlayStation 6 manufacturing costs near $1,000 due to RAM shortages.
+Shawn Layden claims PlayStation games on PC were a marketing strategy, not for revenue. This contradicts Sony's new leadership, who may have different views on the decision.
 
-💡 *Rising console prices may impact consumer gaming affordability.*
+💡 *Marketing prioritization over revenue generation in PC ports*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112937-playstation-6-bill-materials-nears-1000-ram-shortages.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112952-former-playstation-exec-pc-ports-about-marketing-not.html)
+
+---
+
+### 8. Cinder City becomes the first PC game to recommend 64GB of RAM, and at the worst time 
+
+Cinder City is the first PC game to recommend 64GB of RAM, diverging from the trend of demanding high-end GPUs for optimal performance. Its requirement for a relatively modest RTX 4060 (8GB) GPU is unusual, given the increasing emphasis on powerful graphics cards. This shift in system requirements may signal a change in game development priorities.
+
+💡 *Games now prioritize memory over graphics processing power requirements*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112963-cinder-city-becomes-first-pc-game-recommend-64gb.html)
 
 ---
 

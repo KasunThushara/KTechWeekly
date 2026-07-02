@@ -1,85 +1,95 @@
 # 📰 Tech News
-**Week of July 01, 2026**
+**Week of July 02, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-07-01 11:43
+- **Articles this week:** 8
+- **Report generated:** 2026-07-02 11:19
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. xTool says its 01 Omni Printer can print it all firm steps into the world of UV printing for output on 'all surfaces' at up to 5mm thick 
+### 1. Google testing controversial webcam-based reCAPTCHA that asks for a hand scan to prove you're human testers beat it with a stock photo 
 
-xTool's 01 Omni Printer is a 4-in-1 device capable of printing on various surfaces, including up to 5mm thick materials.
+Google is testing a reCAPTCHA feature that uses webcam to verify user identity by scanning hand movements, but testers have already found a way to bypass it using a stock photo.
 
-💡 *Breaking barriers in UV printing technology for makers and creators worldwide.*
+💡 *Security measures can be easily exploited with creative workarounds.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/xtool-says-its-01-omni-printer-can-print-it-all-firm-steps-into-the-world-of-uv-printing-for-output-on-all-surfaces-at-up-to-5mm-thick)
-
----
-
-### 2. Intel Arc Pro B70 Tested: The Gaming GPU Intel Never Released 
-
-Intel's Arc Pro B70, a workstation GPU, is tested in modern games. The results may indicate what Intel's unreleased Arc B770 would have looked like. Performance is compared across 12 titles.
-
-💡 *Intel's workstation GPU performance reveals Arc B770's potential capabilities.*
-
-🔗 [Read Full Article](https://www.techspot.com/review/3141-intel-arc-b70-pro/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/googles-camera-based-recaptcha-asks-for-a-hand-scan-to-prove-youre-human)
 
 ---
 
-### 3. Windows Defender 'BlueHammer' vulnerability now exploited as part of malware campaigns CISA issues warning despite patch release on April 14 
+### 2. Tesla hires 17-year Intel veteran responsible for billion-dollar fab startups Gary Jiang likely chosen to oversee fab efforts for Terafab's licensing of 14A 
 
-Windows Defender 'BlueHammer' vulnerability is being exploited in malware campaigns despite patches available.
+Tesla hires Intel veteran Gary Jiang to lead fab efforts, likely overseeing 14A licensing for Terafab.
 
-💡 *Lack of timely patch updates leaves systems vulnerable to exploitation.*
+💡 *Strategic fab leadership to boost Tesla's 14A chip production capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/windows-defender-bluehammer-vulnerability-now-exploited-as-part-of-malware-campaigns-cisa-issues-warning-despite-patch-release-on-april-14)
-
----
-
-### 4. License plate cameras are scanning 20 billion vehicles a month, cities are starting to push back 
-
-Cities are pushing back against license plate cameras scanning 20 billion vehicles a month, with Flock Safety at the center of the debate. The company's automated license plate readers capture images of passing vehicles, converting them into searchable data points. This raises concerns about mass surveillance and individual privacy.
-
-💡 *Mass surveillance through license plate cameras threatens individual privacy rights.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112940-ai-camera-networks-tracking-billions-vehicles-residents-pushing.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tesla-hires-17-year-intel-veteran-responsible-for-billion-dollar-fab-startups-gary-jiang-likely-chosen-to-oversee-fab-efforts-for-terafabs-licensing-of-14a)
 
 ---
 
-### 5. WhatsApp finally gets usernames, letting users hide their phone numbers 
+### 3. Apple's Hide My Email feature may be exposing users' real addresses 
 
-WhatsApp is introducing unique usernames to connect without sharing phone numbers. To claim yours, update to the latest version, go to Settings > Account > Username, and pick an available handle. The feature is rolling out gradually with broader availability expected later this year.
+Apple's Hide My Email feature may be exposing users' real addresses due to a potential security flaw. The feature, available through iCloud+, creates random email addresses that forward messages to the user's real inbox. However, this process may not be secure.
 
-💡 *Hiding phone numbers enhances user privacy online.*
+💡 *Random email forwarding may inadvertently reveal users' real email addresses*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/5748-whatsapp-for-android.html)
-
----
-
-### 6. Microsoft's own Azure CTO is still annoyed by Windows' "file in use" error 
-
-Microsoft's Azure CTO Russinovich explains the 'file in use' error, citing file handles as the reason Windows refuses to comply with a request.
-
-💡 *Understanding file handles is crucial for debugging Windows-related issues effectively.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112939-microsoft-own-azure-cto-annoyed-windows-file-use.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112975-apple-hide-email-feature-may-exposing-users-real.html)
 
 ---
 
-### 7. Amazon sued in Australia after Prime subscribers were made to pay more to remove ads 
+### 4. OCCT 17 introduces a redesigned modular Memory Test 
 
-Amazon is being sued in Australia for allegedly breaching consumer law by charging Prime subscribers to remove ads.
+OCCT 17 introduces a redesigned modular Memory Test with improved performance.
 
-💡 *Australian consumers may be misled into paying for ad removal.*
+💡 *Enhanced memory testing for better PC performance and reliability*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112943-amazon-pay-more-remove-ads-trick-faces-australian.html)
+🔗 [Read Full Article](https://www.techspot.com/downloads/4665-overclock-checking-tool.html)
+
+---
+
+### 5. Samsung Galaxy Z Fold 8 specs surface, Z Flip discontinuation rumors, Galaxy rollables may arrive in 2028 
+
+The Samsung Galaxy Z Fold 8 series may feature significant design changes, with the regular Z Fold 8 receiving a wider and shorter footprint to compete with the rumored iPhone Fold. The Z Fold 8 Ultra is expected to be the flagship foldable device this year. Samsung may also introduce Galaxy rollables in 2028.
+
+💡 *Samsung's foldable innovation drives competition with Apple iPhone Fold.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112961-samsung-galaxy-z-fold-8-specs-surface-z.html)
+
+---
+
+### 6. Google launches Nano Banana 2 Lite for fast, low-cost AI image generation 
+
+Google's Nano Banana 2 Lite model generates AI images rapidly at low cost.
+
+💡 *Cost-effective AI image generation for high-volume workloads is now accessible.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112957-google-launches-nano-banana-2-lite-fast-low.html)
+
+---
+
+### 7. WinRAR 7.23 fixes bugs, jokes that users are finally paying for it 
+
+WinRAR 7.23 fixes two security vulnerabilities and updates its extraction library.
+
+💡 *Vital security patches make this update worth installing immediately always.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/67-winrar.html)
+
+---
+
+### 8. Infineon wraps up $650M ams OSRAM sensors buy 
+
+Infineon has completed its $650 million acquisition of ams OSRAM sensors. This move is expected to support Infineon's shift towards more application-ready designs. The ams OSRAM components will help Infineon expand its product offerings.
+
+💡 *Enhanced sensor capabilities drive application-ready design solutions.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/infineon-wraps-650m-ams-osram-sensors-buy)
 
 ---
 

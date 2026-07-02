@@ -1,85 +1,75 @@
 # 🎮 GPUs
-**Week of July 01, 2026**
+**Week of July 02, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-07-01 11:43
+- **Articles this week:** 6
+- **Report generated:** 2026-07-02 11:19
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel Arc Pro B70 Tested: The Gaming GPU Intel Never Released 
+### 1. Testing AMD Radeon's Biggest-Ever Software Upgrade: FSR 4.1 on RDNA 3 
 
-Intel's Arc Pro B70, a workstation GPU, is tested in modern games. The results may indicate what Intel's unreleased Arc B770 would have looked like. Performance is compared across 12 titles.
+AMD's FSR 4.1 INT8 upscaler enhances image quality on RDNA 3 GPUs, offering a significant upgrade. This upgrade is comparable to the RDNA 4 version. We compare the visual quality, performance, and match of this RDNA 3 upgrade.
 
-💡 *Intel's workstation GPU performance reveals Arc B770's potential capabilities.*
+💡 *RDNA 3 GPUs see substantial image quality upgrades with FSR 4.1.*
 
-🔗 [Read Full Article](https://www.techspot.com/review/3141-intel-arc-b70-pro/)
-
----
-
-### 2. The bifurcated laptop landscape of Computex 2026 MacBook Neo competitors with 8GB of RAM, and expensive Nvidia laptops promising an agentic-focused future of Windows on Arm 
-
-Computex 2026 laptop announcements cater to different budgets, bifurcating the market. Competitors to the MacBook Neo, like those with 8GB of RAM, target budget-conscious users. Meanwhile, expensive Nvidia laptops focus on Windows on Arm's agentic future.
-
-💡 *Budget and performance options shape diverging laptop markets*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/the-bifurcated-laptop-landscape-of-computex-2026-macbook-neo-competitors-with-8gb-of-ram-and-expensive-nvidia-laptops-promising-an-agentic-focused-future-of-windows-on-arm)
+🔗 [Read Full Article](https://www.techspot.com/article/3142-amd-fsr-4-upscaling-rdna-3/)
 
 ---
 
-### 3. AMD confirms low-power CPU cores in Linux kernel patch Zen 6 chips could follow in Intel's footsteps with new core type for background tasks 
+### 2. AMD Zen 6 leak reveals third core type, corroborating rumored Sony handheld SoC codenamed Canis 
 
-AMD plans to introduce low-power CPU cores in next-gen heterogeneous CPUs to reduce power consumption and enhance energy efficiency.
+A leak suggests AMD's Zen 6 CPU lineup may introduce a new 'Low Power core type', akin to Intel's low-power efficiency cores.
 
-💡 *Improved background task performance boosts overall system energy efficiency and battery life.*
+💡 *AMD Zen 6 could rival Intel's CPU efficiency with new core type.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-confirms-low-power-cpu-cores-in-linux-kernel-patch-zen-6-chips-could-follow-in-intels-footsteps-with-new-core-type-for-background-tasks)
-
----
-
-### 4. Nvidia reportedly cancels quad-die Rubin Ultra GPU in favor of dual-GPU design, report claims complex design purportedly scrapped over 'manufacturing execution concerns' 
-
-Nvidia reportedly cancels quad-die Rubin Ultra GPU due to 'manufacturing execution concerns'. A dual-die design will allegedly replace it.
-
-💡 *Manufacturing concerns impact high-performance GPU design and production timelines.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-cancels-quad-die-rubin-ultra-gpu-in-favor-of-dual-gpu-design-report-claims-complex-design-purportedly-scrapped-over-manufacturing-execution-concerns)
+🔗 [Read Full Article](https://www.techspot.com/news/112954-amd-zen-6-leak-reveals-third-core-type.html)
 
 ---
 
-### 5. This retro enthusiast forced Windows 11 to run on a Core 2 Quad Q6600 and AGP graphics 
+### 3. Singapore cops seize $42 million mansion, freeze $772k bank account of suspected Nvidia AI GPU smugglers individuals alleged to have illegally exported data center servers to China charged with fraud, money laundering 
 
-Windows 11 can run on outdated hardware, defying Microsoft's minimum requirements. A user named Omores achieved this by forcing the OS on a 2003 motherboard, an AGP GPU, and a Core 2 Quad Q6600 CPU. This showcases the limits of modern OS flexibility and user ingenuity.
+Singapore authorities seize assets of four individuals suspected of smuggling Nvidia AI GPUs. They allegedly used Singapore as a transshipment point to export data center servers to China illegally. The individuals face charges of fraud and money laundering.
 
-💡 *Pushing minimum system requirements can unlock hidden hardware capabilities.*
+💡 *Singapore's lax export controls are exploited by global smuggling rings.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112947-retro-enthusiast-forced-windows-11-run-core-2.html)
-
----
-
-### 6. Cargo thieves are now stealing millions in data center hardware, not just GPUs and consoles 
-
-Law enforcement in Illinois recovered $1.3 million worth of data center equipment from two trailers, highlighting a growing trend of cargo theft targeting data center hardware.
-
-💡 *Data center equipment theft poses significant security and financial risks.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112948-cargo-thieves-now-stealing-millions-data-center-hardware.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/singapore-cops-seize-usd42-million-mansion-freeze-usd772k-bank-account-of-suspected-nvidia-ai-gpu-smugglers-individuals-alleged-to-have-illegally-exported-data-center-servers-to-china-charged-with-fraud-money-laundering)
 
 ---
 
-### 7. The Comcast-NBCUniversal split is about betting on data centers over cable, and gaming over TV 
+### 4. Possible AMD RX 7900 XTX engineering sample with red PCB surfaces prototype came with no backplate & custom VBIOS but matches RX 7900 GRE specs 
 
-Comcast reassesses cable business, focusing on data centers and AI workloads. The company is shifting its focus towards high-capacity data delivery and away from legacy pay-TV. This move positions Comcast for future growth in the data-centric market.
+A potential AMD RX 7900 XTX engineering sample has been spotted online, featuring a custom VBIOS and a red PCB with no backplate. The prototype seems to match the specs of the RX 7900 GRE, a binned-down model of the RX 7900 XTX. This find offers a rare glimpse into the engineering process of high-end graphics cards.
 
-💡 *Data-driven future eclipses traditional TV in Comcast's business strategy*
+💡 *Insights into AMD's engineering process and binned GPU models revealed*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112942-nbcuniversal-eyes-gaming-next-growth-business-after-comcast.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/possible-amd-rx-7900-xtx-engineering-sample-with-red-pcb-surfaces-prototype-came-with-no-backplate-and-custom-vbios-but-matches-rx-7900-gre-specs)
+
+---
+
+### 5. Sony officially kills the PlayStation disc, ending physical game production in 2028 shutting down the PlayStation Store on the PlayStation 3 and PS Vita systems 
+
+Sony has announced the end of physical game production and the PlayStation Store for PS3 and PS Vita systems. This marks a significant shift towards digital game distribution. The PlayStation disc is being phased out in 2028.
+
+💡 *Physical media decline paves way for digital gaming dominance*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/sony-officially-kills-the-playstation-disc-ending-physical-game-production-in-2028-shutting-down-the-playstation-store-on-the-playstation-3-and-ps-vita-systems)
+
+---
+
+### 6. Cinder City becomes the first PC game to recommend 64GB of RAM, and at the worst time 
+
+Cinder City is the first PC game to recommend 64GB of RAM, diverging from the trend of demanding high-end GPUs for optimal performance. Its requirement for a relatively modest RTX 4060 (8GB) GPU is unusual, given the increasing emphasis on powerful graphics cards. This shift in system requirements may signal a change in game development priorities.
+
+💡 *Games now prioritize memory over graphics processing power requirements*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112963-cinder-city-becomes-first-pc-game-recommend-64gb.html)
 
 ---
 

@@ -1,309 +1,295 @@
 [
   {
-    "title": "Anthropic restores Claude Fable 5 as US lifts export controls single filter now blocks prompt that could identify software vulnerabilities and write code to exploit them",
-    "summary": "Anthropic has restored global access to Claude Fable 5, a day after the U.S. Department of Commerce withdrew the export controls.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-restores-claude-fable-5-as-us-lifts-export-controls",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.126474"
-  },
-  {
-    "title": "The bifurcated laptop landscape of Computex 2026 MacBook Neo competitors with 8GB of RAM, and expensive Nvidia laptops promising an agentic-focused future of Windows on Arm",
-    "summary": "With no new GPUs or major mobile CPU platform launches surrounding the show, the laptop announcements at Computex this year fell into two disparate categories, appealing to users with very different budgets.",
-    "link": "https://www.tomshardware.com/laptops/the-bifurcated-laptop-landscape-of-computex-2026-macbook-neo-competitors-with-8gb-of-ram-and-expensive-nvidia-laptops-promising-an-agentic-focused-future-of-windows-on-arm",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.126603"
-  },
-  {
-    "title": "Philippine town closes all 'Pisonet' computer rental shops in wake of school shooting incident blamed on violent video games, shops closed 'for the safety of the youth'",
-    "summary": "A town in northern Philippines closed down all computer rental shops, with the mayor saying that these establishments distracted students from their studies and led to abuse and other dangers. The move came a little over a week after many people have started blaming a deadly school shooting in central Philippines on a violent video game that the perpetrators played.",
-    "link": "https://www.tomshardware.com/video-games/philippine-town-closes-all-pisonet-computer-rental-shops-in-wake-of-school-shooting-incident-blamed-on-violent-video-games-shops-closed-for-the-safety-of-the-youth",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.126715"
-  },
-  {
-    "title": "Virginia county asks all employees, including schools, to conserve power due to AI-driven electricity price hikes state's 400-plus data centers steadily increasing demand, grid expansion, and pricing",
-    "summary": "Virginia county asks all employees including schools to save power, due to AI-driven power requirements state's 400-plus datacenters steadily increasing demand, grid expansion, and pricing",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/virginia-county-asks-all-employees-including-schools-to-save-power-due-to-ai-driven-electricity-price-hikes-states-400-plus-data-centers-steadily-increasing-demand-grid-expansion-and-pricing",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.126814"
-  },
-  {
-    "title": "New PC purchases see sharpest drop in nearly three years as memory and storage prices bite shipments fall by 7%, analysts forecast 14% contraction that will hit budget laptops hard",
-    "summary": "A research firm says that PC deliveries for the first quarter of 2026 fell by 7%, with the entire industry expected to ship 14.4% less units for the entire year.",
-    "link": "https://www.tomshardware.com/tech-industry/new-pc-purchases-see-sharpest-drop-in-nearly-three-years-as-memory-and-storage-prices-bite-shipments-fall-by-7-percent-analysts-forecast-14-percent-contraction-that-will-hit-budget-laptops-hard",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-01T11:42:35.126907"
-  },
-  {
-    "title": "AI researchers trick chatbots into sharing how to make cocaine as long as they believe a user is wearing a green shirt 'CoT Forgery' exploit spurs LLMs to divulge forbidden info by faking trusted chains of thought",
-    "summary": "Tagged partitions of a LLM's input sequence are meant to provide security through trusted roles, but it turns out that models judge whether inputs sound like they belong in certain tags rather than literally interpreting them, making them vulnerable to prompt injection.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-models-handed-over-a-cocaine-recipe-after-being-told-the-user-was-wearing-a-green-shirt",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-01T11:42:35.127009"
-  },
-  {
-    "title": "Private and community servers for Minecraft and COD are illegal and amount to piracy, ESA tells California Senate Stop Killing Games-backed bill fails to pass committee",
-    "summary": "The Entertainment Software Association, in its infinite wisdom, has told a California Senate committee that private and community servers are illegal and amount to piracy.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/esa-tells-california-lawmakers-that-private-game-servers-are-piracy",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.127134"
-  },
-  {
-    "title": "xTool says its 01 Omni Printer can print it all firm steps into the world of UV printing for output on 'all surfaces' at up to 5mm thick",
-    "summary": "xTool launched its 01 Omni Printer today at a special event in Berlin. The digital-to-physical tool firm claims this device is the world s first 4-in-1 printer, and said it was ready for makers to print it all. ",
-    "link": "https://www.tomshardware.com/maker-stem/xtool-says-its-01-omni-printer-can-print-it-all-firm-steps-into-the-world-of-uv-printing-for-output-on-all-surfaces-at-up-to-5mm-thick",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-01T11:42:35.127227"
-  },
-  {
-    "title": "AMD confirms low-power CPU cores in Linux kernel patch Zen 6 chips could follow in Intel's footsteps with new core type for background tasks",
-    "summary": "AMD confirms plans to incorporate low-power CPU cores into next-generation heterogeneous CPUs to lower power consumption and improve energy efficiency.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-confirms-low-power-cpu-cores-in-linux-kernel-patch-zen-6-chips-could-follow-in-intels-footsteps-with-new-core-type-for-background-tasks",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.127318"
-  },
-  {
-    "title": "Microsoft's flagship Windows PC lineup will drop reportedly drop budget options firm prunes Surface Go and Surface Laptop Go",
-    "summary": "Microsoft is further pruning its Surface line, with the Surface Laptop Go 3 and Surface Go 4 going out of stock without clear follow-ups.",
-    "link": "https://www.tomshardware.com/laptops/microsofts-flagship-windows-pc-lineup-will-drop-reportedly-drop-budget-options-firm-prunes-surface-go-and-surface-laptop-go",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.127401"
-  },
-  {
-    "title": "Windows Defender 'BlueHammer' vulnerability now exploited as part of malware campaigns CISA issues warning despite patch release on April 14",
-    "summary": "Windows Defender \"BlueHammer\" vulnerability now exploited as part of malware campaigns event demonstrates lack of security awareness despite existence of patches",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/windows-defender-bluehammer-vulnerability-now-exploited-as-part-of-malware-campaigns-cisa-issues-warning-despite-patch-release-on-april-14",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.127488"
-  },
-  {
-    "title": "Meta releases version two of its brain-computer interface that can turn thoughts into keypresses non-invasive magnetoencephalography scanner can measure changes in brain activity",
-    "summary": "Meta just released the second version of its Brain2Qwerty non-invasive BCI, showing promising improvements that could lead to clinical trials. This system aims to build an interface that does not require invasive surgery, allowing patients to control a computer using their mind without needing to go under the knife.",
-    "link": "https://www.tomshardware.com/peripherals/wearable-tech/meta-releases-version-two-of-its-brain-computer-interface-that-can-turn-thoughts-into-keypresses-non-invasive-magnetoencephalography-scanner-can-measure-changes-in-brain-activity",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-01T11:42:35.127597"
-  },
-  {
-    "title": "Nvidia reportedly cancels quad-die Rubin Ultra GPU in favor of dual-GPU design, report claims complex design purportedly scrapped over 'manufacturing execution concerns'",
-    "summary": "Nvidia reportedly abandons quad-dire Rubin Ultra GPUs in favor of dual-die Rubin Ultra due to 'manufacturing execution concerns.'",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-cancels-quad-die-rubin-ultra-gpu-in-favor-of-dual-gpu-design-report-claims-complex-design-purportedly-scrapped-over-manufacturing-execution-concerns",
+    "title": "Singapore cops seize $42 million mansion, freeze $772k bank account of suspected Nvidia AI GPU smugglers individuals alleged to have illegally exported data center servers to China charged with fraud, money laundering",
+    "summary": "Four individuals suspected of smuggling Nvidia AI GPUs into China by using Singapore as a transshipment point are facing multiple charges. Singaporean authorities say they are not obliged to enforce foreign export controls but expects businesses in its borders to abide by them.",
+    "link": "https://www.tomshardware.com/tech-industry/singapore-cops-seize-usd42-million-mansion-freeze-usd772k-bank-account-of-suspected-nvidia-ai-gpu-smugglers-individuals-alleged-to-have-illegally-exported-data-center-servers-to-china-charged-with-fraud-money-laundering",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.127686"
+    "processed_date": "2026-07-02T11:18:28.481069"
   },
   {
-    "title": "Chinese Z.ai's latest model tops AI ranking charts amid Anthropic Fable 5 ban blacklisted China firm's popular open-weight GLM-5.2 AI model powered by Huawei silicon",
-    "summary": "Within a week of Fable's ban, GLM-5.2 had climbed to the top of the openly available leaderboards.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-free-glm-5-2-tops-the-open-weight-ai-rankings-on-all-huawei-silicon",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.127776"
-  },
-  {
-    "title": "Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces",
-    "summary": "EDATEC ED-IPC1200 is an industrial data acquisition gateway powered by the Raspberry Pi Compute Module Zero (CM0), designed for industrial automation and edge applications with various I/O interfaces, a fanless design, and a wide range (9 28V) DC power input. The industrial computer features RS-485, RS-232, four digital inputs, and four digital outputs for data acquisition and equipment control, and supports Ethernet, and optional Wi-Fi/Bluetooth and/or 4G LTE connectivity. EDATEC ED-IPC1200 specifications: SoM Raspberry Pi CM0 SoC Broadcom BCM2710A1 CPU Quad-core Cortex-A53 processor @ 1.0 GHz GPU VideoCore IV GPU supporting OpenGL ES 1.1, 2.0 graphics VPU H.264/MPEG-4 1080p30 video decoding, H.264 1080p30 video encoding System Memory 512MB LPDDR2 RAM Storage 8GB or 16GB eMMC flash Wireless Optional WiFi 4 and Bluetooth 5.0 module Networking 10/100Mbps Ethernet RJ45 jack Optional Wi-Fi and Bluetooth on system-on-module 4G LTE CAT-1 with Nano SIM card slot [...] The post Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/01/raspberry-pi-cm0-based-industrial-data-acquisition-gateway-offer-rs485-rs232-di-do-interfaces/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-01T11:42:35.128282"
-  },
-  {
-    "title": "Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity",
-    "summary": "Flipper has taken a short break from launching wireless hacking tools by introducing the BUSY Bar open-source productivity multitool designed to help people eliminate distractions and be more focused at work. The device features a customizable LED pixel display and a small monochrome OLED back display, synchronizes with work apps, mutes notifications, and supports the Matter protocol for integration with Home Assistant, Apple Home, Google Home, or other Matter-compatible platforms. BUSY Bar specifications: Microcontroller STMicroelectronics STM32U5 CPU Arm Cortex-M33 @ 160 MHz Memory 2.5 MB SRAM Storage 2 MB Flash Storage 8 GB eMMC flash Main Display 6.35-inch RGB LED matrix with 72 16 resolution, 60 Hz refresh rate, 800 nits, adaptive brightness Back Display 1.54-in monochrome (16 gray scales) OLED with 160 80 resolution, adaptive brightness Audio 0.8W speaker for sound alerts and notifications Wireless Connectivity via Silicon Labs SiWG917 CPU Arm [...] The post Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/01/flipper-busy-bar-open-source-productivity-multitool-features-led-pixel-display-supports-matter-connectivity/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-01T11:42:35.128443"
-  },
-  {
-    "title": "More companies are rehiring workers they replaced with AI after automation fails to deliver",
-    "summary": "It was reported last week that Ford was re-employing and promoting more than 350 veteran engineers. Because their often-undocumented experience was not captured in the datasets used to train the AI systems, Ford was running into knowledge gaps when it came to identifying and preventing issues. Read Entire Article",
-    "link": "https://www.techspot.com/news/112960-more-companies-rehiring-workers-they-replaced-ai-after.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.129670"
-  },
-  {
-    "title": "Intel Arc Pro B70 Tested: The Gaming GPU Intel Never Released",
-    "summary": "Intel never released the Arc B770, but the Arc Pro B70 may show us exactly what it would have looked like. We test Intel's workstation Battlemage GPU in 12 modern games. Read Entire Article",
-    "link": "https://www.techspot.com/review/3141-intel-arc-b70-pro/",
+    "title": "Possible AMD RX 7900 XTX engineering sample with red PCB surfaces prototype came with no backplate & custom VBIOS but matches RX 7900 GRE specs",
+    "summary": "It seems like a never-before-seen engineering sample for AMD's last-gen Radeon RX 7900 XTX has just popped up online, featuring specs that indicate it's a binned down model.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/possible-amd-rx-7900-xtx-engineering-sample-with-red-pcb-surfaces-prototype-came-with-no-backplate-and-custom-vbios-but-matches-rx-7900-gre-specs",
     "categories": [
       "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-01T11:42:35.129759"
-  },
-  {
-    "title": "The video game industry just told lawmakers Minecraft and Call of Duty private servers are illegal piracy",
-    "summary": "California's Protect Our Games Act, which would have required publishers to provide remedies when ending support for paid online games, stalled in the state Senate after falling just three votes short of a majority. The bill's leading supporter, Stop Killing Games, quickly seized on an opposing lobbyist's claim that private... Read Entire Article",
-    "link": "https://www.techspot.com/news/112951-us-bill-against-paid-game-server-shutdowns-fails.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.129862"
-  },
-  {
-    "title": "This retro enthusiast forced Windows 11 to run on a Core 2 Quad Q6600 and AGP graphics",
-    "summary": "Can Windows 11 run on a 2003 motherboard, an AGP GPU (for those not old enough, that's the slot that predates PCI Express) with no official drivers, and a slightly newer CPU rocking four 65nm cores? A retro-hardware enthusiast named Omores recently proved that it can, even as Microsoft would... Read Entire Article",
-    "link": "https://www.techspot.com/news/112947-retro-enthusiast-forced-windows-11-run-core-2.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.129959"
-  },
-  {
-    "title": "Cargo thieves are now stealing millions in data center hardware, not just GPUs and consoles",
-    "summary": "Law enforcement officials in Illinois recently recovered two trailers carrying an estimated $1.3 million worth of data center equipment at a truck yard in the Chicago metro area. Investigators with the Cook County Sheriff's Office opened their investigation after being tipped off on June 18 about a trailer holding roughly... Read Entire Article",
-    "link": "https://www.techspot.com/news/112948-cargo-thieves-now-stealing-millions-data-center-hardware.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.130072"
-  },
-  {
-    "title": "License plate cameras are scanning 20 billion vehicles a month, cities are starting to push back",
-    "summary": "Flock Safety is squarely at the center of that debate. The Atlanta-based company has rapidly expanded by selling automated license plate readers to police departments, neighborhood groups, and private organizations. Its cameras, often mounted inconspicuously on poles, capture images of passing vehicles and convert them into searchable data points. The... Read Entire Article",
-    "link": "https://www.techspot.com/news/112940-ai-camera-networks-tracking-billions-vehicles-residents-pushing.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.130170"
-  },
-  {
-    "title": "Call of Duty's latest ad loudly reminds everyone it's not coming to Game Pass",
-    "summary": "Call of Duty: Modern Warfare 4 arrives on October 23 (October 16 for players who pre-ordered), and for the first time in two years, it won't be coming straight to Game Pass. Read Entire Article",
-    "link": "https://www.techspot.com/news/112945-microsoft-latest-call-duty-ad-loudly-reminds-everyone.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.130264"
-  },
-  {
-    "title": "WhatsApp finally gets usernames, letting users hide their phone numbers",
-    "summary": "WhatsApp is rolling out unique usernames, letting users connect without sharing their phone number. To claim yours, update to the latest version of WhatsApp, go to Settings > Account > Username , and pick an available handle. The feature is rolling out gradually, with broader availability expected later this year. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/5748-whatsapp-for-android.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.130356"
-  },
-  {
-    "title": "Microsoft's own Azure CTO is still annoyed by Windows' \"file in use\" error",
-    "summary": "In a recent video published on the \"Microsoft Developer\" YouTube channel, Russinovich offered a concise explanation of what the \"file is in use\" error message means when Windows refuses to comply with a request. The creator of Sysmon, Process Explorer, and other popular Windows utilities discussed file handles and why... Read Entire Article",
-    "link": "https://www.techspot.com/news/112939-microsoft-own-azure-cto-annoyed-windows-file-use.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.130449"
-  },
-  {
-    "title": "The Comcast-NBCUniversal split is about betting on data centers over cable, and gaming over TV",
-    "summary": "Inside Comcast, executives are reassessing what to do with the cable and connectivity business. The company is looking at ways to use its network more directly in the boom in data centers and AI workloads. That would tilt Comcast's future more toward high-capacity data delivery and away from legacy pay-TV. Read Entire Article",
-    "link": "https://www.techspot.com/news/112942-nbcuniversal-eyes-gaming-next-growth-business-after-comcast.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.130546"
-  },
-  {
-    "title": "Fox apologizes after Mr. Wonderful accuses data center opponents of China ties",
-    "summary": "The Stratos project is a new hyperscale AI data center set to be built across roughly 41,200 acres in an unincorporated area of western Box Elder County, Utah. The lead developer is O'Leary Digital, owned by the billionaire. Read Entire Article",
-    "link": "https://www.techspot.com/news/112946-fox-apologizes-after-wonderful-calls-data-center-opponents.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.130633"
-  },
-  {
-    "title": "PlayStation 6 bill of materials nears $1,000 as RAM shortages worsen",
-    "summary": "Prominent leaker KeplerL2 recently claimed that the cost of manufacturing Sony's upcoming PlayStation 6 console has increased considerably in recent months. Due to memory shortages, upcoming game consoles could cost twice as much as their predecessors did at launch. Read Entire Article",
-    "link": "https://www.techspot.com/news/112937-playstation-6-bill-materials-nears-1000-ram-shortages.html",
-    "categories": [
-      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.130727"
+    "processed_date": "2026-07-02T11:18:28.481192"
   },
   {
-    "title": "Amazon sued in Australia after Prime subscribers were made to pay more to remove ads",
-    "summary": "The Australian Competition and Consumer Commission (ACCC) accuses Amazon Commercial Services Pty Ltd, the local operator of Prime, of breaching Australian Consumer Law. Read Entire Article",
-    "link": "https://www.techspot.com/news/112943-amazon-pay-more-remove-ads-trick-faces-australian.html",
+    "title": "Apple's Hide My Email service reportedly reveals users' actual email addresses with little effort Cupertino has seemingly known about the problem for a year but has yet to fix it",
+    "summary": "Apple's Hide My Email service still reveals users' actual email addresses with little effort even though it's been a year since the company was notified about problem.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/apples-hide-my-email-service-reportedly-reveals-users-actual-email-addresses-with-little-effort-cupertino-has-seemingly-known-about-the-problem-for-a-year-but-has-yet-to-fix-it",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.481311"
+  },
+  {
+    "title": "Intel expands production of photomasks in California: EUV and High-NA EUV in the focal point",
+    "summary": "Intel begins expansion of its Bowers Campus in Santa Clara to produce more photomasks in-house, which is set to be crucial as process technologies get more sophisticated.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-expands-production-of-photomasks-in-california-euv-and-high-na-euv-in-the-focal-point",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.481411"
+  },
+  {
+    "title": "Google testing controversial webcam-based reCAPTCHA that asks for a hand scan to prove you're human testers beat it with a stock photo",
+    "summary": "Google is testing a reCAPTCHA check that switches on a user's camera and asks them to wave or hold up an open palm.",
+    "link": "https://www.tomshardware.com/tech-industry/googles-camera-based-recaptcha-asks-for-a-hand-scan-to-prove-youre-human",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-01T11:42:35.130810"
+    "processed_date": "2026-07-02T11:18:28.481513"
+  },
+  {
+    "title": "Elon Musk categorically denies SpaceX is making an AI device with proprietary OS says rumors of a handheld thinner than an iPhone are 'utterly false'",
+    "summary": "SpaceX is reportedly working on a handheld device that runs a proprietary operating system and features advanced AI capabilities from xAI, but Elon Musk denies existence of the product.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-categorically-denies-spacex-is-making-an-ai-device-with-proprietary-os-says-rumors-of-a-handheld-thinner-than-an-iphone-are-utterly-false",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.481632"
+  },
+  {
+    "title": "Xbox reportedly testing a way to digitize physical games in the wake of PlayStation killing game discs feature said to go back to Xbox One-era games",
+    "summary": "Microsoft is reportedly testing a feature to digitize physical games going back to the Xbox One with digital copies tied to the owner of the physical disc.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/xbox-reportedly-testing-a-way-to-digitize-physical-games-in-the-wake-of-playstation-killing-game-discs-feature-said-to-go-back-to-xbox-one-era-games",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.481743"
+  },
+  {
+    "title": "Tesla hires 17-year Intel veteran responsible for billion-dollar fab startups Gary Jiang likely chosen to oversee fab efforts for Terafab's licensing of 14A",
+    "summary": "Tesla hires an Intel veteran, who most recently was responsible for installing advanced tools at Intel's Arizona fab that is now ramping production of chips using 18A fabrication process.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tesla-hires-17-year-intel-veteran-responsible-for-billion-dollar-fab-startups-gary-jiang-likely-chosen-to-oversee-fab-efforts-for-terafabs-licensing-of-14a",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.481848"
+  },
+  {
+    "title": "Sony officially kills the PlayStation disc, ending physical game production in 2028 shutting down the PlayStation Store on the PlayStation 3 and PS Vita systems",
+    "summary": "While Nintendo remains a holdout, this announcement essentially sounds the death knell for physical media in cutting-edge gaming.",
+    "link": "https://www.tomshardware.com/video-games/playstation/sony-officially-kills-the-playstation-disc-ending-physical-game-production-in-2028-shutting-down-the-playstation-store-on-the-playstation-3-and-ps-vita-systems",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.481960"
+  },
+  {
+    "title": "SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant",
+    "summary": "SONOFF sent us a sample of the NSPanel Pro Gen2 Smart Home control panel for review. It s a standard 86-type controller powered by a Rockchip RK3326-S SoC, equipped with 2GB RAM and 32GB eMMC flash storage, a 3.95-inch touchscreen display, and a 2-channel relay supporting up to 10A. The Android device supports dual-band Wi-Fi, Bluetooth LE, Zigbee 3.0, and Matter, and also includes a built-in 1.5W speaker and microphone for two-way audio. It s an update to the NSPanel Pro we reviewed in 2024. In this review, we ll start with an unboxing and a teardown, before going through the initial setup in standalone mode, and finally use the panel with the eWelink app and Home Assistant. We ll connect one of the relays of the NSPanel Pro Gen2 to a ceiling LED light, test Zigbee through a SONOFF AirGuard TH (SNZB-02DR2) temperature and humidity sensor, WiFi through a SONOFF AirGuard PM2.5/PM10 air [...] The post SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-02T11:18:28.482530"
+  },
+  {
+    "title": "PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit",
+    "summary": "60 FPS gaming on an E Ink display? That doesn t seem right But that s exactly what Wenting Zhang s PaperBoy Game Boy emulator project does, using the M5Stack PaperS3 devkit, pairing an ESP32-S3 wireless microcontroller with a 4.7-inch E Ink display with 960 x 540 resolution. One of the tricks here is that the bottom part of the ePaper touchscreen display is used for control buttons and doesn t need to be refreshed, while the active part only requires 160 x 144 resolution, scaled three times to represent various shades of grey. Contrary to most small Eink devkits, the PaperS3 features a screen with a raw row/column driver interface, which enabled him to drive the display while bypassing the normal waveform method, and deliver a higher refresh rate up to 60 FPS. Wenting didn t reinvent the wheel for the Game Boy emulation part, and after testing three different emulators, he went with [...] The post PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.482706"
+  },
+  {
+    "title": "Sipeed NanoKVM-Go A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding)",
+    "summary": "Sipeed NanoKVM-Go is a 4K USB-C KVM designed to control any USB-C device from anywhere with one cable. It also supports full screen memory , a function similar to the controversial Microsoft Recall feature, which enables an AI agent to search through your screenshots. Remote control software works fine until your system freezes or BIOS access is required, and traditional KVMs do the job with HDMI, USB, Ethernet, power cables, and adapters, but that s a bit too much when working on the go. The NanoKVM-Go aims to solve all these little issues with a small and light device that requires only one cable to the target, while the host connects to the USB KVM over WiFi 6. NanoKVM-Go and Go+ specifications: SoC Unamed, but almost certainly the Axera Tech AX630C used in the Sipeed NanoKVM Pro 4K IP KVM. CPU Dual-core Cortex-A53 AI accelerator 3.2TOPS NPU System Memory [...] The post Sipeed NanoKVM-Go A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/01/sipeed-nanokvm-go-an-4k-usb-c-kvm-with-recall-like-function-ai-integration/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-02T11:18:28.482875"
+  },
+  {
+    "title": "Infineon wraps up $650M ams OSRAM sensors buy",
+    "summary": "Ams Osram components are expected to help Infineon move to more application-ready designs.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/infineon-wraps-650m-ams-osram-sensors-buy",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-02T11:18:28.483893"
+  },
+  {
+    "title": "Video: The day Edge AI got 'more real' with sensors",
+    "summary": "Panelists at Sensors Converge discuss their favorite edge AI use cases in this video snippet.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/video-day-edge-ai-got-more-real-sensors",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-02T11:18:28.484015"
+  },
+  {
+    "title": "Apple's Hide My Email feature may be exposing users' real addresses",
+    "summary": "Hide My Email, available through iCloud+, lets users create random addresses that forward messages to their real inbox. Read Entire Article",
+    "link": "https://www.techspot.com/news/112975-apple-hide-email-feature-may-exposing-users-real.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.484389"
+  },
+  {
+    "title": "Testing AMD Radeon's Biggest-Ever Software Upgrade: FSR 4.1 on RDNA 3",
+    "summary": "AMD's new FSR 4.1 INT8 upscaler gives RDNA 3 GPUs a massive image quality upgrade . We examine visual quality, performance, and how closely it matches the RDNA 4 version. Read Entire Article",
+    "link": "https://www.techspot.com/article/3142-amd-fsr-4-upscaling-rdna-3/",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-02T11:18:28.484515"
+  },
+  {
+    "title": "Amazon says restricting Fire TV sideloading is about safety. It's also about piracy",
+    "summary": "In a recent interview with Cord Busters, Aidan Marcuss, Amazon's VP of Fire TV, warned that sideloaded apps can carry malware and enable piracy. He stopped short of explicitly linking piracy concerns to the decision to restrict sideloading on newer Fire TV devices, but the connection is hard to miss. Read Entire Article",
+    "link": "https://www.techspot.com/news/112967-amazon-restricting-fire-tv-sideloading-about-safety-also.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.484661"
+  },
+  {
+    "title": "OCCT 17 introduces a redesigned modular Memory Test",
+    "summary": "Popular PC stress-testing tool OCCT has been updated with a fully redesigned modular Memory Test with 16 configurable testing blocks. The release also improves memory usage and adds built-in memory test presets. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/4665-overclock-checking-tool.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.484763"
+  },
+  {
+    "title": "Former PlayStation exec says PC ports were about marketing, not money and Sony's new leadership disagrees",
+    "summary": "Shawn Layden recently shared a few interesting insights about the now-concluded initiative focused on bringing original PlayStation games to PC. Layden suggested that bringing PlayStation games to another platform was essentially a marketing strategy rather than an attempt to generate significant additional revenue. Read Entire Article",
+    "link": "https://www.techspot.com/news/112952-former-playstation-exec-pc-ports-about-marketing-not.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.484876"
+  },
+  {
+    "title": "Samsung Galaxy Z Fold 8 specs surface, Z Flip discontinuation rumors, Galaxy rollables may arrive in 2028",
+    "summary": "Recent leaks suggest that the Z Fold 8 Ultra will be the flagship device in Samsung's foldable portfolio this year, while the regular Z Fold 8 will receive a complete design overhaul featuring a wider and shorter footprint to compete directly with Apple's rumored iPhone Fold. The company is currently... Read Entire Article",
+    "link": "https://www.techspot.com/news/112961-samsung-galaxy-z-fold-8-specs-surface-z.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.484981"
+  },
+  {
+    "title": "Google launches Nano Banana 2 Lite for fast, low-cost AI image generation",
+    "summary": "Pricing is a key part of the model's positioning. Google says Nano Banana 2 Lite costs $0.034 per 1,000 images, a price intended to make large-scale image generation more routine and accessible. In practical terms, that combination of speed and low cost makes the model better suited for high-volume workloads than precision-focused applications. Read Entire Article",
+    "link": "https://www.techspot.com/news/112957-google-launches-nano-banana-2-lite-fast-low.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.485091"
+  },
+  {
+    "title": "Sony will stop making physical PlayStation games starting in 2028",
+    "summary": "From then on, new games will be sold on the PlayStation Store and at retailers in digital formats only. Read Entire Article",
+    "link": "https://www.techspot.com/news/112964-sony-end-production-physical-playstation-games-january-2028.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-02T11:18:28.485179"
+  },
+  {
+    "title": "WinRAR 7.23 fixes bugs, jokes that users are finally paying for it",
+    "summary": "WinRAR 7.23 fixes two security vulnerabilities, updates its bundled 7-Zip extraction library, and makes a few command-line tweaks. The release notes also include a playful nod to the archiver's legendary \"infinite\" trial, thanking users who supposedly finally bought the software. It's mostly a joke-but the security patches alone make this update worth installing. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/67-winrar.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.485315"
+  },
+  {
+    "title": "Steam Machine benchmarks show single RAM stick setup can cost up to 20% performance",
+    "summary": "Each retail unit ships with a single 16GB DDR5-5600 SO-DIMM, a configuration Valve links to tight DDR5 supply. That single stick forces the Steam Machine into single-channel mode out of the box, instead of tapping the extra bandwidth dual-channel offers. Read Entire Article",
+    "link": "https://www.techspot.com/news/112959-steam-machine-benchmarks-show-valve-single-ram-stick.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-02T11:18:28.485415"
+  },
+  {
+    "title": "Cinder City becomes the first PC game to recommend 64GB of RAM, and at the worst time",
+    "summary": "Games are getting bigger, more hardware-intensive, and less well-optimized. The end result is usually more high-end GPUs being required for \"standard\" gameplay, but Cinder City asks for just an RTX 4060 (8GB). What's unusual, however, is the staggering 64GB of RAM it recommends. Read Entire Article",
+    "link": "https://www.techspot.com/news/112963-cinder-city-becomes-first-pc-game-recommend-64gb.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.485520"
+  },
+  {
+    "title": "AMD Zen 6 leak reveals third core type, corroborating rumored Sony handheld SoC codenamed Canis",
+    "summary": "A recent update on the Linux kernel patch mailing list, spotted by Phoronix, includes scant details about a previously unannounced \"Low Power core type\" for AMD processors. The description closely resembles Intel's low-power efficiency cores, suggesting that AMD's upcoming Zen 6 CPU lineup might introduce an equivalent. Read Entire Article",
+    "link": "https://www.techspot.com/news/112954-amd-zen-6-leak-reveals-third-core-type.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-02T11:18:28.485648"
+  },
+  {
+    "title": "Apple's fight with Epic over App Store fees reaches the Supreme Court",
+    "summary": "The justices have agreed to hear Apple's appeal against a lower-court ruling that found the company in contempt of a 2021 injunction from US District Judge Yvonne Gonzalez Rogers. Read Entire Article",
+    "link": "https://www.techspot.com/news/112956-apple-fight-epic-over-app-store-fees-reaches.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.485743"
+  },
+  {
+    "title": "Anthropic's Fable 5 shutdown ends with tougher safeguards and federal approval",
+    "summary": "The workaround exposed gaps in the model's guardrails. Fable, a public-facing version of Anthropic's more capable Mythos system, is designed with restrictions to prevent harmful uses, including assistance with cyberattacks. Those guardrails are critical for releasing the model publicly. Read Entire Article",
+    "link": "https://www.techspot.com/news/112955-anthropic-fable-5-shutdown-ends-tougher-safeguards-federal.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-02T11:18:28.485850"
   }
 ]

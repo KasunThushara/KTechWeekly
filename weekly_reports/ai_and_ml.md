@@ -1,5 +1,5 @@
 # 🤖 AI & ML
-**Week of July 01, 2026**
+**Week of July 02, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
@@ -7,159 +7,159 @@
 
 ## 📊 Summary
 - **Articles this week:** 15
-- **Report generated:** 2026-07-01 11:43
+- **Report generated:** 2026-07-02 11:19
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AI researchers trick chatbots into sharing how to make cocaine as long as they believe a user is wearing a green shirt 'CoT Forgery' exploit spurs LLMs to divulge forbidden info by faking trusted chains of thought 
+### 1. Steam Machine benchmarks show single RAM stick setup can cost up to 20% performance ⭐
 
-AI researchers exploited a vulnerability in large language models (LLMs) by faking trusted input tags, tricking the models into divulging forbidden information, such as instructions for making cocaine. This 'CoT Forgery' exploit targets the models' reliance on input sequence tags, which are meant to provide security through trusted roles. The research highlights the limitations of current LLM security measures.
+Steam Machines ship with a single 16GB DDR5 SO-DIMM, limiting performance. This forces the system into single-channel mode, not dual-channel. This can result in a 20% performance loss.
 
-💡 *LLMs judge input soundness, not literal tags, to determine trustworthiness.*
+💡 *Single RAM stick limits Steam Machine's performance capabilities by 20%.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-models-handed-over-a-cocaine-recipe-after-being-told-the-user-was-wearing-a-green-shirt)
-
----
-
-### 2. xTool says its 01 Omni Printer can print it all firm steps into the world of UV printing for output on 'all surfaces' at up to 5mm thick 
-
-xTool's 01 Omni Printer is a 4-in-1 device capable of printing on various surfaces, including up to 5mm thick materials.
-
-💡 *Breaking barriers in UV printing technology for makers and creators worldwide.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/xtool-says-its-01-omni-printer-can-print-it-all-firm-steps-into-the-world-of-uv-printing-for-output-on-all-surfaces-at-up-to-5mm-thick)
+🔗 [Read Full Article](https://www.techspot.com/news/112959-steam-machine-benchmarks-show-valve-single-ram-stick.html)
 
 ---
 
-### 3. Meta releases version two of its brain-computer interface that can turn thoughts into keypresses non-invasive magnetoencephalography scanner can measure changes in brain activity 
+### 2. Sipeed NanoKVM-Go A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding) 
 
-Meta releases non-invasive Brain2Qwerty BCI version two with clinical trial potential.
+Sipeed NanoKVM-Go is a 4K USB-C KVM with AI integration, offering remote control and AI-powered features.
 
-💡 *Enabling patients to control computers with their minds without invasive surgery.*
+💡 *Streamlined remote access with AI-powered features for increased productivity.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/meta-releases-version-two-of-its-brain-computer-interface-that-can-turn-thoughts-into-keypresses-non-invasive-magnetoencephalography-scanner-can-measure-changes-in-brain-activity)
-
----
-
-### 4. Virginia county asks all employees, including schools, to conserve power due to AI-driven electricity price hikes state's 400-plus data centers steadily increasing demand, grid expansion, and pricing 
-
-A Virginia county has asked employees, including school staff, to conserve power due to increasing electricity demands from the state's numerous data centers, driven by artificial intelligence requirements.
-
-💡 *AI-driven data centers are drastically increasing Virginia's electricity costs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/virginia-county-asks-all-employees-including-schools-to-save-power-due-to-ai-driven-electricity-price-hikes-states-400-plus-data-centers-steadily-increasing-demand-grid-expansion-and-pricing)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/01/sipeed-nanokvm-go-an-4k-usb-c-kvm-with-recall-like-function-ai-integration/)
 
 ---
 
-### 5. Private and community servers for Minecraft and COD are illegal and amount to piracy, ESA tells California Senate Stop Killing Games-backed bill fails to pass committee 
+### 3. Singapore cops seize $42 million mansion, freeze $772k bank account of suspected Nvidia AI GPU smugglers individuals alleged to have illegally exported data center servers to China charged with fraud, money laundering 
 
-The ESA claims private and community servers are piracy, prompting controversy. This stance may harm online gaming communities and multiplayer experiences. The issue is tied to a California Senate bill.
+Singapore authorities seize assets of four individuals suspected of smuggling Nvidia AI GPUs. They allegedly used Singapore as a transshipment point to export data center servers to China illegally. The individuals face charges of fraud and money laundering.
 
-💡 *Esports and community engagement threatened by strict piracy definitions.*
+💡 *Singapore's lax export controls are exploited by global smuggling rings.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/esa-tells-california-lawmakers-that-private-game-servers-are-piracy)
-
----
-
-### 6. Windows Defender 'BlueHammer' vulnerability now exploited as part of malware campaigns CISA issues warning despite patch release on April 14 
-
-Windows Defender 'BlueHammer' vulnerability is being exploited in malware campaigns despite patches available.
-
-💡 *Lack of timely patch updates leaves systems vulnerable to exploitation.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/windows-defender-bluehammer-vulnerability-now-exploited-as-part-of-malware-campaigns-cisa-issues-warning-despite-patch-release-on-april-14)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/singapore-cops-seize-usd42-million-mansion-freeze-usd772k-bank-account-of-suspected-nvidia-ai-gpu-smugglers-individuals-alleged-to-have-illegally-exported-data-center-servers-to-china-charged-with-fraud-money-laundering)
 
 ---
 
-### 7. Nvidia reportedly cancels quad-die Rubin Ultra GPU in favor of dual-GPU design, report claims complex design purportedly scrapped over 'manufacturing execution concerns' 
+### 4. Apple's Hide My Email service reportedly reveals users' actual email addresses with little effort Cupertino has seemingly known about the problem for a year but has yet to fix it 
 
-Nvidia reportedly cancels quad-die Rubin Ultra GPU due to 'manufacturing execution concerns'. A dual-die design will allegedly replace it.
+Apple's Hide My Email service still exposes users' actual email addresses despite known issues.
 
-💡 *Manufacturing concerns impact high-performance GPU design and production timelines.*
+💡 *Users' private info remains vulnerable despite Apple's awareness of the problem.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-cancels-quad-die-rubin-ultra-gpu-in-favor-of-dual-gpu-design-report-claims-complex-design-purportedly-scrapped-over-manufacturing-execution-concerns)
-
----
-
-### 8. Chinese Z.ai's latest model tops AI ranking charts amid Anthropic Fable 5 ban blacklisted China firm's popular open-weight GLM-5.2 AI model powered by Huawei silicon 
-
-Chinese AI firm Z.ai's GLM-5.2 model surged to the top of leaderboards after Anthropic's Fable 5 was banned, utilizing Huawei silicon.
-
-💡 *Fable 5 ban accelerates Chinese AI firm's market dominance suddenly*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-free-glm-5-2-tops-the-open-weight-ai-rankings-on-all-huawei-silicon)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/apples-hide-my-email-service-reportedly-reveals-users-actual-email-addresses-with-little-effort-cupertino-has-seemingly-known-about-the-problem-for-a-year-but-has-yet-to-fix-it)
 
 ---
 
-### 9. More companies are rehiring workers they replaced with AI after automation fails to deliver 
+### 5. Elon Musk categorically denies SpaceX is making an AI device with proprietary OS says rumors of a handheld thinner than an iPhone are 'utterly false' 
 
-Companies like Ford are rehiring workers replaced by AI after automation fails. The rehiring is due to knowledge gaps in AI systems. Experienced workers were not captured in AI training datasets.
+Elon Musk denies reports of a handheld AI device from SpaceX, calling rumors 'utterly false'. The alleged device reportedly features a proprietary OS and advanced AI capabilities. SpaceX has not confirmed the existence of such a project.
 
-💡 *AI's limitations lead to rehiring of human workers it replaced.*
+💡 *SpaceX's AI ambitions may be shrouded in secrecy, sparking speculation*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112960-more-companies-rehiring-workers-they-replaced-ai-after.html)
-
----
-
-### 10. The video game industry just told lawmakers Minecraft and Call of Duty private servers are illegal piracy 
-
-California's Protect Our Games Act stalled due to private server concerns. Opposing lobbyists claimed private servers for games like Minecraft and Call of Duty are illegal piracy. This has sparked debate over game ownership and support.
-
-💡 *Private servers blur lines between piracy and game community preservation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112951-us-bill-against-paid-game-server-shutdowns-fails.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-categorically-denies-spacex-is-making-an-ai-device-with-proprietary-os-says-rumors-of-a-handheld-thinner-than-an-iphone-are-utterly-false)
 
 ---
 
-### 11. Call of Duty's latest ad loudly reminds everyone it's not coming to Game Pass 
+### 6. Xbox reportedly testing a way to digitize physical games in the wake of PlayStation killing game discs feature said to go back to Xbox One-era games 
 
-Call of Duty: Modern Warfare 4 skips Game Pass release, first time in two years.
+Microsoft is reportedly testing a feature to digitize physical Xbox games going back to the Xbox One era, allowing owners to access digital copies tied to their physical disc.
 
-💡 *Exclusive titles like Call of Duty hurt Game Pass's value proposition.*
+💡 *Enhancing backwards compatibility and preserving gaming library ownership*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112945-microsoft-latest-call-duty-ad-loudly-reminds-everyone.html)
-
----
-
-### 12. WhatsApp finally gets usernames, letting users hide their phone numbers 
-
-WhatsApp is introducing unique usernames to connect without sharing phone numbers. To claim yours, update to the latest version, go to Settings > Account > Username, and pick an available handle. The feature is rolling out gradually with broader availability expected later this year.
-
-💡 *Hiding phone numbers enhances user privacy online.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/5748-whatsapp-for-android.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/xbox-reportedly-testing-a-way-to-digitize-physical-games-in-the-wake-of-playstation-killing-game-discs-feature-said-to-go-back-to-xbox-one-era-games)
 
 ---
 
-### 13. The Comcast-NBCUniversal split is about betting on data centers over cable, and gaming over TV 
+### 7. Sony officially kills the PlayStation disc, ending physical game production in 2028 shutting down the PlayStation Store on the PlayStation 3 and PS Vita systems 
 
-Comcast reassesses cable business, focusing on data centers and AI workloads. The company is shifting its focus towards high-capacity data delivery and away from legacy pay-TV. This move positions Comcast for future growth in the data-centric market.
+Sony has announced the end of physical game production and the PlayStation Store for PS3 and PS Vita systems. This marks a significant shift towards digital game distribution. The PlayStation disc is being phased out in 2028.
 
-💡 *Data-driven future eclipses traditional TV in Comcast's business strategy*
+💡 *Physical media decline paves way for digital gaming dominance*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112942-nbcuniversal-eyes-gaming-next-growth-business-after-comcast.html)
-
----
-
-### 14. Fox apologizes after Mr. Wonderful accuses data center opponents of China ties 
-
-O'Leary Digital's Stratos project is a 41,200-acre hyperscale AI data center in Utah. The project has faced opposition, with accusations of ties to China. Mr. Wonderful, a billionaire, has apologized for these accusations.
-
-💡 *China ties controversy surrounds Utah's massive AI data center project.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112946-fox-apologizes-after-wonderful-calls-data-center-opponents.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/sony-officially-kills-the-playstation-disc-ending-physical-game-production-in-2028-shutting-down-the-playstation-store-on-the-playstation-3-and-ps-vita-systems)
 
 ---
 
-### 15. PlayStation 6 bill of materials nears $1,000 as RAM shortages worsen 
+### 8. PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit 
 
-PlayStation 6 manufacturing costs near $1,000 due to RAM shortages.
+A Game Boy emulator running at 60 FPS on an ESP32-S3 E Ink devkit has been achieved by Wenting Zhang's PaperBoy project, utilizing a 4.7-inch display with a raw row/column driver interface to bypass the normal waveform method. The emulator leverages the device's unique display capabilities to deliver high refresh rates. This project showcases the potential for high-performance gaming on low-power, E Ink displays.
 
-💡 *Rising console prices may impact consumer gaming affordability.*
+💡 *Bypassing waveform method enables high refresh rates on E Ink displays*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112937-playstation-6-bill-materials-nears-1000-ram-shortages.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/)
+
+---
+
+### 9. Apple's Hide My Email feature may be exposing users' real addresses 
+
+Apple's Hide My Email feature may be exposing users' real addresses due to a potential security flaw. The feature, available through iCloud+, creates random email addresses that forward messages to the user's real inbox. However, this process may not be secure.
+
+💡 *Random email forwarding may inadvertently reveal users' real email addresses*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112975-apple-hide-email-feature-may-exposing-users-real.html)
+
+---
+
+### 10. Amazon says restricting Fire TV sideloading is about safety. It's also about piracy 
+
+Amazon restricts sideloading on Fire TV due to malware and piracy concerns.
+
+💡 *Piracy prevention drives Amazon's sideloading restriction on newer Fire TV devices*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112967-amazon-restricting-fire-tv-sideloading-about-safety-also.html)
+
+---
+
+### 11. Google launches Nano Banana 2 Lite for fast, low-cost AI image generation 
+
+Google's Nano Banana 2 Lite model generates AI images rapidly at low cost.
+
+💡 *Cost-effective AI image generation for high-volume workloads is now accessible.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112957-google-launches-nano-banana-2-lite-fast-low.html)
+
+---
+
+### 12. Apple's fight with Epic over App Store fees reaches the Supreme Court 
+
+Apple's appeal against contempt ruling in Epic Games App Store dispute heads to the Supreme Court.
+
+💡 *Antitrust implications for tech giants' business practices are at stake here.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112956-apple-fight-epic-over-app-store-fees-reaches.html)
+
+---
+
+### 13. Anthropic's Fable 5 shutdown ends with tougher safeguards and federal approval 
+
+Anthropic's Fable model has undergone shutdown and restructuring to improve safeguards, receiving federal approval.
+
+💡 *Model's vulnerabilities expose need for stronger guardrails and oversight.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112955-anthropic-fable-5-shutdown-ends-tougher-safeguards-federal.html)
+
+---
+
+### 14. Video: The day Edge AI got 'more real' with sensors 
+
+Panelists at Sensors Converge discussed their favorite edge AI use cases, showcasing advancements in sensor technology and artificial intelligence integration.
+
+💡 *Edge AI enhances real-world applications with real-time, localized data processing.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/video-day-edge-ai-got-more-real-sensors)
+
+---
+
+### 15. Sony will stop making physical PlayStation games starting in 2028 
+
+Sony will stop producing physical PlayStation games starting in 2028, shifting focus to digital formats.
+
+💡 *Shift to digital-only games impacts physical game collection enthusiasts.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112964-sony-end-production-physical-playstation-games-january-2028.html)
 
 ---
 
