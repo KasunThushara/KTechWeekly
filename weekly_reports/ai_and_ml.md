@@ -1,165 +1,245 @@
 # 🤖 AI & ML
-**Week of July 02, 2026**
+**Week of July 03, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 15
-- **Report generated:** 2026-07-02 11:19
+- **Articles this week:** 23
+- **Report generated:** 2026-07-03 11:17
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Steam Machine benchmarks show single RAM stick setup can cost up to 20% performance ⭐
+### 1. A new attack uses a BioShock-style puzzle to convince AI browsers they're not in the real world ⭐
 
-Steam Machines ship with a single 16GB DDR5 SO-DIMM, limiting performance. This forces the system into single-channel mode, not dual-channel. This can result in a 20% performance loss.
+Researchers from LayerX unveiled BioShocking, a vulnerability targeting AI-powered browsers. It bypasses security guardrails, allowing malicious instructions to be executed.
 
-💡 *Single RAM stick limits Steam Machine's performance capabilities by 20%.*
+💡 *AI browser security flaws can lead to autonomous task exploitation.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112959-steam-machine-benchmarks-show-valve-single-ram-stick.html)
-
----
-
-### 2. Sipeed NanoKVM-Go A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding) 
-
-Sipeed NanoKVM-Go is a 4K USB-C KVM with AI integration, offering remote control and AI-powered features.
-
-💡 *Streamlined remote access with AI-powered features for increased productivity.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/01/sipeed-nanokvm-go-an-4k-usb-c-kvm-with-recall-like-function-ai-integration/)
+🔗 [Read Full Article](https://www.techspot.com/news/112982-new-attack-uses-bioshock-style-puzzle-convince-ai.html)
 
 ---
 
-### 3. Singapore cops seize $42 million mansion, freeze $772k bank account of suspected Nvidia AI GPU smugglers individuals alleged to have illegally exported data center servers to China charged with fraud, money laundering 
+### 2. A Microsoft Defender flaw is now being linked to ransomware attacks ⭐
 
-Singapore authorities seize assets of four individuals suspected of smuggling Nvidia AI GPUs. They allegedly used Singapore as a transshipment point to export data center servers to China illegally. The individuals face charges of fraud and money laundering.
+A Microsoft Defender flaw, BlueHammer, was leaked early by a researcher, reducing defenders' preparation time. The exploit details were released before Microsoft had a patch ready, potentially making it easier for attackers to exploit the vulnerability. This unusual move has been linked to ransomware attacks.
 
-💡 *Singapore's lax export controls are exploited by global smuggling rings.*
+💡 *Early exploitation of Microsoft flaw linked to increased ransomware attacks.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/singapore-cops-seize-usd42-million-mansion-freeze-usd772k-bank-account-of-suspected-nvidia-ai-gpu-smugglers-individuals-alleged-to-have-illegally-exported-data-center-servers-to-china-charged-with-fraud-money-laundering)
-
----
-
-### 4. Apple's Hide My Email service reportedly reveals users' actual email addresses with little effort Cupertino has seemingly known about the problem for a year but has yet to fix it 
-
-Apple's Hide My Email service still exposes users' actual email addresses despite known issues.
-
-💡 *Users' private info remains vulnerable despite Apple's awareness of the problem.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/apples-hide-my-email-service-reportedly-reveals-users-actual-email-addresses-with-little-effort-cupertino-has-seemingly-known-about-the-problem-for-a-year-but-has-yet-to-fix-it)
+🔗 [Read Full Article](https://www.techspot.com/news/112962-microsoft-defender-flaw-now-linked-ransomware-attacks.html)
 
 ---
 
-### 5. Elon Musk categorically denies SpaceX is making an AI device with proprietary OS says rumors of a handheld thinner than an iPhone are 'utterly false' 
+### 3. GitHub thumbs nose at Sony's controversial end to physical media with its introduction of Repo CDs offers limited run of 1,000 CD-ROM copies of public GitHub repos for preservation 
 
-Elon Musk denies reports of a handheld AI device from SpaceX, calling rumors 'utterly false'. The alleged device reportedly features a proprietary OS and advanced AI capabilities. SpaceX has not confirmed the existence of such a project.
+GitHub offers physical CD-ROM copies of public repos for preservation, countering Sony's digital-only shift.
 
-💡 *SpaceX's AI ambitions may be shrouded in secrecy, sparking speculation*
+💡 *Preserving digital legacy through physical media for long-term archive purposes.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-categorically-denies-spacex-is-making-an-ai-device-with-proprietary-os-says-rumors-of-a-handheld-thinner-than-an-iphone-are-utterly-false)
-
----
-
-### 6. Xbox reportedly testing a way to digitize physical games in the wake of PlayStation killing game discs feature said to go back to Xbox One-era games 
-
-Microsoft is reportedly testing a feature to digitize physical Xbox games going back to the Xbox One era, allowing owners to access digital copies tied to their physical disc.
-
-💡 *Enhancing backwards compatibility and preserving gaming library ownership*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/xbox-reportedly-testing-a-way-to-digitize-physical-games-in-the-wake-of-playstation-killing-game-discs-feature-said-to-go-back-to-xbox-one-era-games)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/github-thumbs-nose-at-sonys-controversial-end-to-physical-media-with-its-introduction-of-repo-cds-offers-limited-run-of-1-000-cd-rom-copies-of-public-github-repos-for-preservation)
 
 ---
 
-### 7. Sony officially kills the PlayStation disc, ending physical game production in 2028 shutting down the PlayStation Store on the PlayStation 3 and PS Vita systems 
+### 4. HALO TOUCH V2 A customizable desktop USB hub with rotary encoder fitted with round touchscreen display 
 
-Sony has announced the end of physical game production and the PlayStation Store for PS3 and PS Vita systems. This marks a significant shift towards digital game distribution. The PlayStation disc is being phased out in 2028.
+The HALO TOUCH V2 is a customizable desktop USB hub featuring a round touchscreen and rotary encoder, offering system monitoring, media playback, and productivity features.
 
-💡 *Physical media decline paves way for digital gaming dominance*
+💡 *Seamless desktop integration for workstations, home offices, and personal productivity.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/sony-officially-kills-the-playstation-disc-ending-physical-game-production-in-2028-shutting-down-the-playstation-store-on-the-playstation-3-and-ps-vita-systems)
-
----
-
-### 8. PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit 
-
-A Game Boy emulator running at 60 FPS on an ESP32-S3 E Ink devkit has been achieved by Wenting Zhang's PaperBoy project, utilizing a 4.7-inch display with a raw row/column driver interface to bypass the normal waveform method. The emulator leverages the device's unique display capabilities to deliver high refresh rates. This project showcases the potential for high-performance gaming on low-power, E Ink displays.
-
-💡 *Bypassing waveform method enables high refresh rates on E Ink displays*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/03/halo-touch-v2-a-customizable-desktop-usb-hub-with-rotary-encoder-fitted-with-round-touchscreen-display/)
 
 ---
 
-### 9. Apple's Hide My Email feature may be exposing users' real addresses 
+### 5. Intel 18A wafer-to-wafer yield issues fixed, report claims says production up to 15,000 wafers per month at both sites 
 
-Apple's Hide My Email feature may be exposing users' real addresses due to a potential security flaw. The feature, available through iCloud+, creates random email addresses that forward messages to the user's real inbox. However, this process may not be secure.
+Intel reportedly resolves wafer-to-wafer yield issues in its 18A process technology, potentially boosting production to 15,000 wafers per month at both manufacturing sites. This achievement addresses one of the significant challenges facing the technology. Future success may depend on resolving remaining issues.
 
-💡 *Random email forwarding may inadvertently reveal users' real email addresses*
+💡 *Fixing one yield issue is a crucial step forward for Intel 18A technology*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112975-apple-hide-email-feature-may-exposing-users-real.html)
-
----
-
-### 10. Amazon says restricting Fire TV sideloading is about safety. It's also about piracy 
-
-Amazon restricts sideloading on Fire TV due to malware and piracy concerns.
-
-💡 *Piracy prevention drives Amazon's sideloading restriction on newer Fire TV devices*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112967-amazon-restricting-fire-tv-sideloading-about-safety-also.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-18a-wafer-to-wafer-yield-issues-fixed-report-claims-says-production-up-to-15-000-wafers-per-month-at-both-sites)
 
 ---
 
-### 11. Google launches Nano Banana 2 Lite for fast, low-cost AI image generation 
+### 6. This 144-in-1 electric screwdriver set is a must-buy toolkit for PC building and hobbyists, now under $40 20% saving on kit with a second precision driver, 120 magnetic bits, and 22 maintenance tools for builds and repairs 
 
-Google's Nano Banana 2 Lite model generates AI images rapidly at low cost.
+Get a comprehensive 144-in-1 repair toolkit for PC building and hobbyists at a 20% discount, now under $40. This set includes 120 magnetic bits, a second precision driver, and 22 maintenance tools for various builds and repairs.
 
-💡 *Cost-effective AI image generation for high-volume workloads is now accessible.*
+💡 *Comprehensive toolkit for DIY enthusiasts at an unbeatable price point*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112957-google-launches-nano-banana-2-lite-fast-low.html)
-
----
-
-### 12. Apple's fight with Epic over App Store fees reaches the Supreme Court 
-
-Apple's appeal against contempt ruling in Epic Games App Store dispute heads to the Supreme Court.
-
-💡 *Antitrust implications for tech giants' business practices are at stake here.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112956-apple-fight-epic-over-app-store-fees-reaches.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/this-144-in-1-electric-screwdriver-set-is-a-must-buy-toolkit-for-pc-building-and-hobbyists-now-under-usd40-20-percent-saving-on-kit-with-a-second-precision-driver-120-magnetic-bits-and-22-maintenance-tools-for-builds-and-repairs)
 
 ---
 
-### 13. Anthropic's Fable 5 shutdown ends with tougher safeguards and federal approval 
+### 7. SK hynix to invest $712.5 billion in South Korean operations Cheongju NAND expansion, Yongin Semiconductor Cluster for DRAM detailed 
 
-Anthropic's Fable model has undergone shutdown and restructuring to improve safeguards, receiving federal approval.
+SK hynix plans $712.5 billion investment in South Korea, mainly in NAND and packaging facilities.
 
-💡 *Model's vulnerabilities expose need for stronger guardrails and oversight.*
+💡 *Massive investment in memory production fuels South Korea's tech industry growth*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112955-anthropic-fable-5-shutdown-ends-tougher-safeguards-federal.html)
-
----
-
-### 14. Video: The day Edge AI got 'more real' with sensors 
-
-Panelists at Sensors Converge discussed their favorite edge AI use cases, showcasing advancements in sensor technology and artificial intelligence integration.
-
-💡 *Edge AI enhances real-world applications with real-time, localized data processing.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/video-day-edge-ai-got-more-real-sensors)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed)
 
 ---
 
-### 15. Sony will stop making physical PlayStation games starting in 2028 
+### 8. Palantir CEO Alex Karp claims AI companies are stealing customers' data while charging them for unproductive tokens says 'livid' businesses 'are paying for tokens that create no value' 
 
-Sony will stop producing physical PlayStation games starting in 2028, shifting focus to digital formats.
+Palantir CEO Alex Karp accuses AI companies of stealing customer data, charging for unproductive services.
 
-💡 *Shift to digital-only games impacts physical game collection enthusiasts.*
+💡 *Data exploitation undermines trust in AI industry's business models.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112964-sony-end-production-physical-playstation-games-january-2028.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/palantir-ceo-alex-karp-claims-ai-companies-are-stealing-customers-data-while-charging-them-for-unproductive-tokens-says-livid-businesses-are-paying-for-tokens-that-create-no-value)
+
+---
+
+### 9. Supermicro denies that its offices were raided by Taiwanese authorities in Nvidia GPU smuggling case company says that it coordinated with the police and provided access to investigated employees workstations and gadgets 
+
+Supermicro denies raid allegations, claims cooperation with Taiwanese authorities and police.
+
+💡 *Corporate reputation at stake in high-profile smuggling case investigation.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/supermicro-denies-that-its-offices-were-raided-by-taiwanese-authorities-in-nvidia-gpu-smuggling-case-company-says-that-it-coordinated-with-the-police-and-provided-access-to-investigated-employees-workstations-and-gadgets)
+
+---
+
+### 10. Meta reportedly plans to rent out its AI compute, sending AI stocks tumbling 'Meta Compute' would put company in direct competition with AWS 
+
+Meta is reportedly planning to rent out its AI compute capacity, competing with AWS. This move could give developers access to Meta's AI infrastructure and computing power. The service model is still in development.
+
+💡 *Meta's entry into AI computing disrupts existing cloud service market*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/meta-reportedly-plans-to-rent-out-its-ai-compute)
+
+---
+
+### 11. OpenAI mulling giving US gov't a 5% stake in the company, days after Washington delayed GPT-5.6 Altman reportedly wants every leading U.S. AI lab paying into an Alaska-style public fund 
+
+OpenAI considers a 5% stake for the US government to gain regulatory clarity. Sam Altman proposed an Alaska-style public fund for AI labs. This was discussed with senior US officials.
+
+💡 *Government investment could ensure AI regulation and public safety accountability.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-floats-5-percent-government-stake-days-after-washington-delayed-gpt-5-6)
+
+---
+
+### 12. Humanoids are insanely hard to build, but Nvidia has a plan 
+
+Nvidia and Unitree announced a humanoid robot reference design at GTC Taipei, highlighting advancements in robotics and artificial intelligence. The collaboration aims to address the challenges of building humanoid robots, which are notoriously difficult to create. This partnership may bring innovative solutions to the field.
+
+💡 *Nvidia's plan simplifies humanoid robot development with AI-driven reference designs*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/humanoids-are-insanely-hard-build-nvidia-has-plan)
+
+---
+
+### 13. Intel intros OpenVINO for robots; 130 firms use Ultra Series 3 
+
+Intel showcased Ella, a robot barista powered by the Core Ultra processor, at Computex. The upgrade to Series 3 simplified the system and increased return on investment.
+
+💡 *Intel simplifies AI-powered robotics with more efficient Ultra Series 3.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/intel-unveils-openvino-robots-130-firms-use-ultra-series-3)
+
+---
+
+### 14. A leaked Microsoft experiment reveals a new OS built entirely around Copilot and AI agents 
+
+Microsoft experimented with a cloud-based OS built around Copilot and AI agents, but its current status is unknown. The project's existence contradicts Microsoft's previous statements on Copilot's limited scope. This revelation suggests Microsoft may be more invested in AI-powered OS development than initially acknowledged.
+
+💡 *Microsoft's AI-powered OS ambitions may be more extensive than admitted.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112983-leaked-microsoft-experiment-reveals-new-os-built-entirely.html)
+
+---
+
+### 15. Someone finally built a working Game Boy emulator for E-ink screens 
+
+A YouTuber transformed the M5Stack's PaperS3 into a 60Hz E-ink Game Boy emulator, leveraging its paper-like display to achieve a surprisingly good match for the handheld's graphical capabilities.
+
+💡 *E-ink screens bring retro gaming to low-power, paper-like displays.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112984-someone-finally-built-working-game-boy-emulator-e.html)
+
+---
+
+### 16. Meta is using old DDR4 memory in DDR5-only AI servers to save on hardware costs 
+
+Meta is using old DDR4 memory in new 'MemServers' to cut costs, despite featuring AMD's powerful Epyc Turin CPUs.
+
+💡 *Cost savings compromise performance potential in Meta's AI servers.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112977-meta-using-old-ddr4-memory-ddr5-only-ai.html)
+
+---
+
+### 17. OpenAI may give the US government a 5% stake, following Trump's Intel playbook 
+
+OpenAI may give the US government a 5% stake to distribute AI gains and improve industry-regulator relations.
+
+💡 *Sharing AI profits with the public improves industry-regulator relationships.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112973-openai-may-give-us-government-5-stake-following.html)
+
+---
+
+### 18. Google just lost its final appeal over Android, $4.7 billion EU fine stands 
+
+Google loses final appeal over a $4.7 billion EU fine for abusing Android's dominant position, confirming the penalty.
+
+💡 *Google's business practices face significant regulatory scrutiny globally.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112979-google-loses-final-appeal-over-android-47-billion.html)
+
+---
+
+### 19. Intel raises prices on the Core Ultra 200S Plus CPUs people actually liked 
+
+Intel has increased prices on its Core Ultra 7 270K Plus and Core Ultra 5 250K Plus CPUs.
+
+💡 *Increased prices may impact consumer purchasing decisions and demand.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112980-intel-raises-prices-core-ultra-200s-plus-cpus.html)
+
+---
+
+### 20. Former Microsoft dev built a 2.5KB Notepad clone with zero AI features 
+
+A former Microsoft developer created a 2.5KB Notepad clone called TinyRetroPad, mimicking Notepad's functionality.
+
+💡 *Minimalism in software development can lead to innovative simplicity solutions.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112968-former-microsoft-dev-built-25kb-notepad-clone-zero.html)
+
+---
+
+### 21. As Sony exits physical media, Microsoft is testing a way to link your Xbox discs to digital licenses 
+
+Microsoft is testing linking Xbox discs to digital licenses, sparking speculation about its stance on physical games. This move has reignited concerns over whether Microsoft will follow Sony's decision to stop selling physical games. The development was recently leaked to The Verge.
+
+💡 *Shift to digital-only sales could significantly impact game industry business models*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112971-sony-exits-physical-media-microsoft-testing-way-link.html)
+
+---
+
+### 22. Nvidia offers to take a cut of AI cloud revenue on top of hardware sales in new optional financing vehicle trades tokens for revenue cut 
+
+Nvidia is offering a new business model where it takes a cut of AI cloud revenue on top of hardware sales through an optional financing vehicle that trades tokens for a revenue share.
+
+💡 *Nvidia doubles its revenue stream with AI cloud deal.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-to-take-a-cut-of-ai-cloud-revenue-on-top-of-hardware-sales)
+
+---
+
+### 23. Qualcomm unveils robot reference design, IQ10 
+
+Qualcomm unveiled the IQ10 robot reference design during Computex in Taiwan, led by CEO Cristiano Amon. This design aims to provide a starting point for robot manufacturers to develop AI-powered robots. The IQ10 is expected to accelerate the adoption of robots in various industries.
+
+💡 *Accelerating robot innovation with AI-powered robotics solutions globally*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/qualcomm-unveils-robot-reference-design-iq10)
 
 ---
 

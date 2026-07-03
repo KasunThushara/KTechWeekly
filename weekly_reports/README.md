@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 02, 2026**
+**Week of July 03, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Steam Machine benchmarks show single RAM stick setup can cost up to 20% performance ⭐
+### 1. Montech NX600 Review: A budget dual tower with jet-engine fans ⭐
 
-**🤖 AI & ML**
+**📰 Tech News**
 
-Steam Machines ship with a single 16GB DDR5 SO-DIMM, limiting performance. This forces the system into single-channel mode, not dual-channel. This can result in a 20% performance loss.
+The Montech NX600 is a budget-friendly dual-tower air cooler featuring six heatpipes and two thick 120mm fans. It's designed to provide efficient cooling for high-performance processors. Our review benchmarks its thermal efficiency on AMD's Ryzen 9 9950X3D.
 
-💡 **Key Point:** Single RAM stick limits Steam Machine's performance capabilities by 20%.
+💡 **Key Point:** Affordable high-performance cooling for demanding CPU workloads.
 
-🔗 [Read More](https://www.techspot.com/news/112959-steam-machine-benchmarks-show-valve-single-ram-stick.html)
-
----
-
-### 2. Testing AMD Radeon's Biggest-Ever Software Upgrade: FSR 4.1 on RDNA 3 
-
-**🎮 GPUs**
-
-AMD's FSR 4.1 INT8 upscaler enhances image quality on RDNA 3 GPUs, offering a significant upgrade. This upgrade is comparable to the RDNA 4 version. We compare the visual quality, performance, and match of this RDNA 3 upgrade.
-
-💡 **Key Point:** RDNA 3 GPUs see substantial image quality upgrades with FSR 4.1.
-
-🔗 [Read More](https://www.techspot.com/article/3142-amd-fsr-4-upscaling-rdna-3/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/air-cooling/montech-nx600-review)
 
 ---
 
-### 3. AMD Zen 6 leak reveals third core type, corroborating rumored Sony handheld SoC codenamed Canis 
-
-**🎮 GPUs**
-
-A leak suggests AMD's Zen 6 CPU lineup may introduce a new 'Low Power core type', akin to Intel's low-power efficiency cores.
-
-💡 **Key Point:** AMD Zen 6 could rival Intel's CPU efficiency with new core type.
-
-🔗 [Read More](https://www.techspot.com/news/112954-amd-zen-6-leak-reveals-third-core-type.html)
-
----
-
-### 4. Sipeed NanoKVM-Go A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding) 
-
-**🤖 AI & ML**
-
-Sipeed NanoKVM-Go is a 4K USB-C KVM with AI integration, offering remote control and AI-powered features.
-
-💡 **Key Point:** Streamlined remote access with AI-powered features for increased productivity.
-
-🔗 [Read More](https://www.cnx-software.com/2026/07/01/sipeed-nanokvm-go-an-4k-usb-c-kvm-with-recall-like-function-ai-integration/)
-
----
-
-### 5. SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant 
+### 2. Montech NX600 Review: A budget dual tower with jet-engine fans ⭐
 
 **💻 Hardware**
 
-SONOFF NSPanel Pro Gen2 review covers its unboxing, teardown, and setup process with eWeLink and Home Assistant, showcasing its smart home control features and compatibility with various devices.
+The Montech NX600 is a budget-friendly dual-tower air cooler featuring six heatpipes and two thick 120mm fans. It's designed to provide efficient cooling for high-performance processors. Our review benchmarks its thermal efficiency on AMD's Ryzen 9 9950X3D.
 
-💡 **Key Point:** Advanced smart home control for seamless automation and connectivity
+💡 **Key Point:** Affordable high-performance cooling for demanding CPU workloads.
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/air-cooling/montech-nx600-review)
+
+---
+
+### 3. A new attack uses a BioShock-style puzzle to convince AI browsers they're not in the real world ⭐
+
+**🤖 AI & ML**
+
+Researchers from LayerX unveiled BioShocking, a vulnerability targeting AI-powered browsers. It bypasses security guardrails, allowing malicious instructions to be executed.
+
+💡 **Key Point:** AI browser security flaws can lead to autonomous task exploitation.
+
+🔗 [Read More](https://www.techspot.com/news/112982-new-attack-uses-bioshock-style-puzzle-convince-ai.html)
+
+---
+
+### 4. A Microsoft Defender flaw is now being linked to ransomware attacks ⭐
+
+**🤖 AI & ML**
+
+A Microsoft Defender flaw, BlueHammer, was leaked early by a researcher, reducing defenders' preparation time. The exploit details were released before Microsoft had a patch ready, potentially making it easier for attackers to exploit the vulnerability. This unusual move has been linked to ransomware attacks.
+
+💡 **Key Point:** Early exploitation of Microsoft flaw linked to increased ransomware attacks.
+
+🔗 [Read More](https://www.techspot.com/news/112962-microsoft-defender-flaw-now-linked-ransomware-attacks.html)
+
+---
+
+### 5. NVIDIA Jetson Orin Nano/NX-based Mekotronics AI Box targets humanoid robots, Smart Cities management, transportation applications ⭐
+
+**⚡ Semiconductors**
+
+Mekotronics' AI Box is an NVIDIA Jetson Orin-based embedded computer designed for various applications, including humanoid robots, smart transportation, and Smart Cities management. It offers standard interfaces and up to 157 TOPS processing power. The AI Box is suitable for multiple industries and use cases.
+
+💡 **Key Point:** AI-powered edge computing for diverse industries and applications emerges.
+
+🔗 [Read More](https://www.cnx-software.com/2026/07/03/nvidia-jetson-orin-nano-nx-based-mekotronics-ai-box-targets-humanoid-robots-smart-cities-management-transportation-applications/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **41 articles** across **5 focused categories**.
+We covered **64 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 15 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 8 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 23 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 2 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 18 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 11 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 15 articles
+*Artificial Intelligence and Machine Learning* — 23 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 6 articles
+*Graphics cards and compute accelerators* — 2 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 8 articles
+*Computing hardware and development boards* — 18 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 4 articles
+*Chip manufacturing and design* — 11 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 8 articles
+*Industry news and product launches* — 10 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-07-02 at 11:19 by an autonomous AI curation system.
+Generated 2026-07-03 at 11:17 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

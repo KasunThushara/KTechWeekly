@@ -1,95 +1,115 @@
 # 📰 Tech News
-**Week of July 02, 2026**
+**Week of July 03, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-07-02 11:19
+- **Articles this week:** 10
+- **Report generated:** 2026-07-03 11:17
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Google testing controversial webcam-based reCAPTCHA that asks for a hand scan to prove you're human testers beat it with a stock photo 
+### 1. Montech NX600 Review: A budget dual tower with jet-engine fans ⭐
 
-Google is testing a reCAPTCHA feature that uses webcam to verify user identity by scanning hand movements, but testers have already found a way to bypass it using a stock photo.
+The Montech NX600 is a budget-friendly dual-tower air cooler featuring six heatpipes and two thick 120mm fans. It's designed to provide efficient cooling for high-performance processors. Our review benchmarks its thermal efficiency on AMD's Ryzen 9 9950X3D.
 
-💡 *Security measures can be easily exploited with creative workarounds.*
+💡 *Affordable high-performance cooling for demanding CPU workloads.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/googles-camera-based-recaptcha-asks-for-a-hand-scan-to-prove-youre-human)
-
----
-
-### 2. Tesla hires 17-year Intel veteran responsible for billion-dollar fab startups Gary Jiang likely chosen to oversee fab efforts for Terafab's licensing of 14A 
-
-Tesla hires Intel veteran Gary Jiang to lead fab efforts, likely overseeing 14A licensing for Terafab.
-
-💡 *Strategic fab leadership to boost Tesla's 14A chip production capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tesla-hires-17-year-intel-veteran-responsible-for-billion-dollar-fab-startups-gary-jiang-likely-chosen-to-oversee-fab-efforts-for-terafabs-licensing-of-14a)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/montech-nx600-review)
 
 ---
 
-### 3. Apple's Hide My Email feature may be exposing users' real addresses 
+### 2. A new attack uses a BioShock-style puzzle to convince AI browsers they're not in the real world ⭐
 
-Apple's Hide My Email feature may be exposing users' real addresses due to a potential security flaw. The feature, available through iCloud+, creates random email addresses that forward messages to the user's real inbox. However, this process may not be secure.
+Researchers from LayerX unveiled BioShocking, a vulnerability targeting AI-powered browsers. It bypasses security guardrails, allowing malicious instructions to be executed.
 
-💡 *Random email forwarding may inadvertently reveal users' real email addresses*
+💡 *AI browser security flaws can lead to autonomous task exploitation.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112975-apple-hide-email-feature-may-exposing-users-real.html)
-
----
-
-### 4. OCCT 17 introduces a redesigned modular Memory Test 
-
-OCCT 17 introduces a redesigned modular Memory Test with improved performance.
-
-💡 *Enhanced memory testing for better PC performance and reliability*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/4665-overclock-checking-tool.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112982-new-attack-uses-bioshock-style-puzzle-convince-ai.html)
 
 ---
 
-### 5. Samsung Galaxy Z Fold 8 specs surface, Z Flip discontinuation rumors, Galaxy rollables may arrive in 2028 
+### 3. A Microsoft Defender flaw is now being linked to ransomware attacks ⭐
 
-The Samsung Galaxy Z Fold 8 series may feature significant design changes, with the regular Z Fold 8 receiving a wider and shorter footprint to compete with the rumored iPhone Fold. The Z Fold 8 Ultra is expected to be the flagship foldable device this year. Samsung may also introduce Galaxy rollables in 2028.
+A Microsoft Defender flaw, BlueHammer, was leaked early by a researcher, reducing defenders' preparation time. The exploit details were released before Microsoft had a patch ready, potentially making it easier for attackers to exploit the vulnerability. This unusual move has been linked to ransomware attacks.
 
-💡 *Samsung's foldable innovation drives competition with Apple iPhone Fold.*
+💡 *Early exploitation of Microsoft flaw linked to increased ransomware attacks.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112961-samsung-galaxy-z-fold-8-specs-surface-z.html)
-
----
-
-### 6. Google launches Nano Banana 2 Lite for fast, low-cost AI image generation 
-
-Google's Nano Banana 2 Lite model generates AI images rapidly at low cost.
-
-💡 *Cost-effective AI image generation for high-volume workloads is now accessible.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112957-google-launches-nano-banana-2-lite-fast-low.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112962-microsoft-defender-flaw-now-linked-ransomware-attacks.html)
 
 ---
 
-### 7. WinRAR 7.23 fixes bugs, jokes that users are finally paying for it 
+### 4. GitHub thumbs nose at Sony's controversial end to physical media with its introduction of Repo CDs offers limited run of 1,000 CD-ROM copies of public GitHub repos for preservation 
 
-WinRAR 7.23 fixes two security vulnerabilities and updates its extraction library.
+GitHub offers physical CD-ROM copies of public repos for preservation, countering Sony's digital-only shift.
 
-💡 *Vital security patches make this update worth installing immediately always.*
+💡 *Preserving digital legacy through physical media for long-term archive purposes.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/67-winrar.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/github-thumbs-nose-at-sonys-controversial-end-to-physical-media-with-its-introduction-of-repo-cds-offers-limited-run-of-1-000-cd-rom-copies-of-public-github-repos-for-preservation)
 
 ---
 
-### 8. Infineon wraps up $650M ams OSRAM sensors buy 
+### 5. Startup activates nuclear microreactor live on stage to power an Nvidia RTX Spark desktop PC firm working with Nvidia to build a 30MW closed loop AI factory that doesn t use local water 
 
-Infineon has completed its $650 million acquisition of ams OSRAM sensors. This move is expected to support Infineon's shift towards more application-ready designs. The ams OSRAM components will help Infineon expand its product offerings.
+Valar Atomics demonstrated its microreactor powering an Nvidia RTX Spark unit. The startup also announced a partnership with Nvidia to build a 30MW AI data center that uses a closed-loop system, eliminating the need for local water. This move could revolutionize the field of nuclear energy and AI computing.
 
-💡 *Enhanced sensor capabilities drive application-ready design solutions.*
+💡 *Game-changing nuclear power meets sustainable AI computing infrastructure*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/infineon-wraps-650m-ams-osram-sensors-buy)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/startup-activates-nuclear-microreactor-live-on-stage-to-power-an-nvidia-rtx-spark-desktop-pc-firm-working-with-nvidia-to-build-a-30mw-closed-loop-ai-factory-that-doesnt-use-local-water)
+
+---
+
+### 6. Jensen Huang s iconic signed leather jacket expected to fetch up to $60,000 in charity auction Sotheby s says item was worn at a Foxconn Tech Day in 2023 and the signature has been professionally authenticated 
+
+Jensen Huang's signed leather jacket is up for auction, estimated at $40,000 to $60,000, with proceeds going to charity. The jacket was worn at a Foxconn Tech Day in 2023 and the signature has been professionally authenticated. The auction is being held by Sotheby's.
+
+💡 *Rare tech memorabilia supports charity with significant potential value realized*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/jensen-huangs-iconic-signed-leather-jacket-expected-to-fetch-up-to-usd60-000-in-charity-auction-sothebys-says-item-was-worn-at-a-foxconn-tech-day-in-2023-and-the-signature-has-been-professionally-authenticated)
+
+---
+
+### 7. Concorde-style supersonic flights over US land could return, as long as they're quiet enough 
+
+The US government proposes a rule to allow supersonic flights over land, as long as they meet noise standards.
+
+💡 *Quieter supersonic flights could make long-distance travel more environmentally friendly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112987-concorde-style-supersonic-flights-over-us-land-could.html)
+
+---
+
+### 8. Apple expects its $2,500 foldable iPhone Ultra to sell 10 million units this year 
+
+Apple reportedly plans to produce 10 million foldable iPhones this year.
+
+💡 *Foldable iPhone demand is exceeding initial supplier forecasts.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112976-apple-expects-2500-foldable-iphone-ultra-sell-10.html)
+
+---
+
+### 9. Former PlayStation boss calls Valve's Steam Machine "meh," asks if he's "going back to PS4 days" 
+
+Shuhei Yoshida, former PlayStation boss, shares negative thoughts on Steam Machine.
+
+💡 *Steam Machines failed to impress even the gaming industry's own leaders.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112978-former-playstation-boss-calls-valve-steam-machine-meh.html)
+
+---
+
+### 10. Intel tackles tracking of data center energy use with AET 
+
+Intel has named Schwartz Digits an Application Energy Telemetry user. This move aims to improve the Total Cost of Ownership (TCO) for data centers. By leveraging AET, Intel seeks to better track and manage energy consumption.
+
+💡 *Efficient data center energy use can significantly reduce operational costs.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/intel-tackles-tracking-data-center-energy-use-aet)
 
 ---
 

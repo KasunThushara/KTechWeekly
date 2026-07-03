@@ -1,295 +1,426 @@
 [
   {
-    "title": "Singapore cops seize $42 million mansion, freeze $772k bank account of suspected Nvidia AI GPU smugglers individuals alleged to have illegally exported data center servers to China charged with fraud, money laundering",
-    "summary": "Four individuals suspected of smuggling Nvidia AI GPUs into China by using Singapore as a transshipment point are facing multiple charges. Singaporean authorities say they are not obliged to enforce foreign export controls but expects businesses in its borders to abide by them.",
-    "link": "https://www.tomshardware.com/tech-industry/singapore-cops-seize-usd42-million-mansion-freeze-usd772k-bank-account-of-suspected-nvidia-ai-gpu-smugglers-individuals-alleged-to-have-illegally-exported-data-center-servers-to-china-charged-with-fraud-money-laundering",
+    "title": "Intel 18A wafer-to-wafer yield issues fixed, report claims says production up to 15,000 wafers per month at both sites",
+    "summary": "Intel reportedly solves one of the key issues that plagued its 18A process technology, but others may still be there.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-18a-wafer-to-wafer-yield-issues-fixed-report-claims-says-production-up-to-15-000-wafers-per-month-at-both-sites",
     "categories": [
-      "GPUs",
-      "AI & ML"
+      "AI & ML",
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.481069"
+    "processed_date": "2026-07-03T11:15:55.688851"
   },
   {
-    "title": "Possible AMD RX 7900 XTX engineering sample with red PCB surfaces prototype came with no backplate & custom VBIOS but matches RX 7900 GRE specs",
-    "summary": "It seems like a never-before-seen engineering sample for AMD's last-gen Radeon RX 7900 XTX has just popped up online, featuring specs that indicate it's a binned down model.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/possible-amd-rx-7900-xtx-engineering-sample-with-red-pcb-surfaces-prototype-came-with-no-backplate-and-custom-vbios-but-matches-rx-7900-gre-specs",
+    "title": "GitHub thumbs nose at Sony's controversial end to physical media with its introduction of Repo CDs offers limited run of 1,000 CD-ROM copies of public GitHub repos for preservation",
+    "summary": "GitHub has announced that it will be giving developers a way to obtain their public repo on a CD-ROM. Context is provided by Sony's recent decision to abandon game discs.",
+    "link": "https://www.tomshardware.com/pc-components/storage/github-thumbs-nose-at-sonys-controversial-end-to-physical-media-with-its-introduction-of-repo-cds-offers-limited-run-of-1-000-cd-rom-copies-of-public-github-repos-for-preservation",
     "categories": [
-      "GPUs",
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-03T11:15:55.688992"
+  },
+  {
+    "title": "This 144-in-1 electric screwdriver set is a must-buy toolkit for PC building and hobbyists, now under $40 20% saving on kit with a second precision driver, 120 magnetic bits, and 22 maintenance tools for builds and repairs",
+    "summary": "Save 20% on this 144-in-1 repair toolkit from Strebito, with 120 bits and a number of other tools for less than $40.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/this-144-in-1-electric-screwdriver-set-is-a-must-buy-toolkit-for-pc-building-and-hobbyists-now-under-usd40-20-percent-saving-on-kit-with-a-second-precision-driver-120-magnetic-bits-and-22-maintenance-tools-for-builds-and-repairs",
+    "categories": [
+      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.481192"
+    "processed_date": "2026-07-03T11:15:55.689115"
   },
   {
-    "title": "Apple's Hide My Email service reportedly reveals users' actual email addresses with little effort Cupertino has seemingly known about the problem for a year but has yet to fix it",
-    "summary": "Apple's Hide My Email service still reveals users' actual email addresses with little effort even though it's been a year since the company was notified about problem.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/apples-hide-my-email-service-reportedly-reveals-users-actual-email-addresses-with-little-effort-cupertino-has-seemingly-known-about-the-problem-for-a-year-but-has-yet-to-fix-it",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.481311"
-  },
-  {
-    "title": "Intel expands production of photomasks in California: EUV and High-NA EUV in the focal point",
-    "summary": "Intel begins expansion of its Bowers Campus in Santa Clara to produce more photomasks in-house, which is set to be crucial as process technologies get more sophisticated.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-expands-production-of-photomasks-in-california-euv-and-high-na-euv-in-the-focal-point",
+    "title": "Scientists have created a 3D-printed remote-controlled cyborg cockroach equipped with IR cameras living insects fitted with flexible 'diving suit' can survive and move underwater for three hours",
+    "summary": "Singaporean scientists outfitted remote-controlled cockroaches with scuba suits in a bid to use them in rescue operations and explore extreme environments like Mars.",
+    "link": "https://www.tomshardware.com/tech-industry/robotics/scientists-have-created-a-3d-printed-remote-controlled-cyborg-cockroach-equipped-with-ir-cameras-living-insects-fitted-with-flexible-diving-suit-can-survive-and-move-underwater-for-three-hours",
     "categories": [
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.481411"
+    "processed_date": "2026-07-03T11:15:55.689233"
   },
   {
-    "title": "Google testing controversial webcam-based reCAPTCHA that asks for a hand scan to prove you're human testers beat it with a stock photo",
-    "summary": "Google is testing a reCAPTCHA check that switches on a user's camera and asks them to wave or hold up an open palm.",
-    "link": "https://www.tomshardware.com/tech-industry/googles-camera-based-recaptcha-asks-for-a-hand-scan-to-prove-youre-human",
+    "title": "Jensen Huang s iconic signed leather jacket expected to fetch up to $60,000 in charity auction Sotheby s says item was worn at a Foxconn Tech Day in 2023 and the signature has been professionally authenticated",
+    "summary": "One of Jensen Huang s used leather jackets is up for auction, with an estimate of $40,000 to $60,000. The money will go to charity.",
+    "link": "https://www.tomshardware.com/peripherals/wearable-tech/jensen-huangs-iconic-signed-leather-jacket-expected-to-fetch-up-to-usd60-000-in-charity-auction-sothebys-says-item-was-worn-at-a-foxconn-tech-day-in-2023-and-the-signature-has-been-professionally-authenticated",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.481513"
+    "processed_date": "2026-07-03T11:15:55.689341"
   },
   {
-    "title": "Elon Musk categorically denies SpaceX is making an AI device with proprietary OS says rumors of a handheld thinner than an iPhone are 'utterly false'",
-    "summary": "SpaceX is reportedly working on a handheld device that runs a proprietary operating system and features advanced AI capabilities from xAI, but Elon Musk denies existence of the product.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-categorically-denies-spacex-is-making-an-ai-device-with-proprietary-os-says-rumors-of-a-handheld-thinner-than-an-iphone-are-utterly-false",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.481632"
-  },
-  {
-    "title": "Xbox reportedly testing a way to digitize physical games in the wake of PlayStation killing game discs feature said to go back to Xbox One-era games",
-    "summary": "Microsoft is reportedly testing a feature to digitize physical games going back to the Xbox One with digital copies tied to the owner of the physical disc.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/xbox-reportedly-testing-a-way-to-digitize-physical-games-in-the-wake-of-playstation-killing-game-discs-feature-said-to-go-back-to-xbox-one-era-games",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.481743"
-  },
-  {
-    "title": "Tesla hires 17-year Intel veteran responsible for billion-dollar fab startups Gary Jiang likely chosen to oversee fab efforts for Terafab's licensing of 14A",
-    "summary": "Tesla hires an Intel veteran, who most recently was responsible for installing advanced tools at Intel's Arizona fab that is now ramping production of chips using 18A fabrication process.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tesla-hires-17-year-intel-veteran-responsible-for-billion-dollar-fab-startups-gary-jiang-likely-chosen-to-oversee-fab-efforts-for-terafabs-licensing-of-14a",
+    "title": "SK hynix to invest $712.5 billion in South Korean operations Cheongju NAND expansion, Yongin Semiconductor Cluster for DRAM detailed",
+    "summary": "SK hynix announces major plan to spend $712.5 billion in its operations in South Korea, but the only detailed investments are spendings on a new NAND fab and a packaging facility.",
+    "link": "https://www.tomshardware.com/pc-components/dram/sk-hynix-to-invest-usd712-5-billion-in-south-korean-operations-cheongju-nand-expansion-yongin-semiconductor-cluster-for-dram-detailed",
     "categories": [
       "Semiconductors",
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.481848"
+    "processed_date": "2026-07-03T11:15:55.689451"
   },
   {
-    "title": "Sony officially kills the PlayStation disc, ending physical game production in 2028 shutting down the PlayStation Store on the PlayStation 3 and PS Vita systems",
-    "summary": "While Nintendo remains a holdout, this announcement essentially sounds the death knell for physical media in cutting-edge gaming.",
-    "link": "https://www.tomshardware.com/video-games/playstation/sony-officially-kills-the-playstation-disc-ending-physical-game-production-in-2028-shutting-down-the-playstation-store-on-the-playstation-3-and-ps-vita-systems",
+    "title": "Palantir CEO Alex Karp claims AI companies are stealing customers' data while charging them for unproductive tokens says 'livid' businesses 'are paying for tokens that create no value'",
+    "summary": "Palantir CEO Alex Karp boldly states in an interview that claims AI companies are stealing customer's data while charging them for unproductive services.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/palantir-ceo-alex-karp-claims-ai-companies-are-stealing-customers-data-while-charging-them-for-unproductive-tokens-says-livid-businesses-are-paying-for-tokens-that-create-no-value",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.689585"
+  },
+  {
+    "title": "Nvidia offers to take a cut of AI cloud revenue on top of hardware sales in new optional financing vehicle trades tokens for revenue cut",
+    "summary": "Nvidia has announced a new business model under which it ll be able to double-dip for revenue on the same silicon.",
+    "link": "https://www.tomshardware.com/tech-industry/nvidia-to-take-a-cut-of-ai-cloud-revenue-on-top-of-hardware-sales",
     "categories": [
       "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.481960"
-  },
-  {
-    "title": "SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant",
-    "summary": "SONOFF sent us a sample of the NSPanel Pro Gen2 Smart Home control panel for review. It s a standard 86-type controller powered by a Rockchip RK3326-S SoC, equipped with 2GB RAM and 32GB eMMC flash storage, a 3.95-inch touchscreen display, and a 2-channel relay supporting up to 10A. The Android device supports dual-band Wi-Fi, Bluetooth LE, Zigbee 3.0, and Matter, and also includes a built-in 1.5W speaker and microphone for two-way audio. It s an update to the NSPanel Pro we reviewed in 2024. In this review, we ll start with an unboxing and a teardown, before going through the initial setup in standalone mode, and finally use the panel with the eWelink app and Home Assistant. We ll connect one of the relays of the NSPanel Pro Gen2 to a ceiling LED light, test Zigbee through a SONOFF AirGuard TH (SNZB-02DR2) temperature and humidity sensor, WiFi through a SONOFF AirGuard PM2.5/PM10 air [...] The post SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/",
-    "categories": [
-      "Semiconductors",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-02T11:18:28.482530"
-  },
-  {
-    "title": "PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit",
-    "summary": "60 FPS gaming on an E Ink display? That doesn t seem right But that s exactly what Wenting Zhang s PaperBoy Game Boy emulator project does, using the M5Stack PaperS3 devkit, pairing an ESP32-S3 wireless microcontroller with a 4.7-inch E Ink display with 960 x 540 resolution. One of the tricks here is that the bottom part of the ePaper touchscreen display is used for control buttons and doesn t need to be refreshed, while the active part only requires 160 x 144 resolution, scaled three times to represent various shades of grey. Contrary to most small Eink devkits, the PaperS3 features a screen with a raw row/column driver interface, which enabled him to drive the display while bypassing the normal waveform method, and deliver a higher refresh rate up to 60 FPS. Wenting didn t reinvent the wheel for the Game Boy emulation part, and after testing three different emulators, he went with [...] The post PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.482706"
-  },
-  {
-    "title": "Sipeed NanoKVM-Go A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding)",
-    "summary": "Sipeed NanoKVM-Go is a 4K USB-C KVM designed to control any USB-C device from anywhere with one cable. It also supports full screen memory , a function similar to the controversial Microsoft Recall feature, which enables an AI agent to search through your screenshots. Remote control software works fine until your system freezes or BIOS access is required, and traditional KVMs do the job with HDMI, USB, Ethernet, power cables, and adapters, but that s a bit too much when working on the go. The NanoKVM-Go aims to solve all these little issues with a small and light device that requires only one cable to the target, while the host connects to the USB KVM over WiFi 6. NanoKVM-Go and Go+ specifications: SoC Unamed, but almost certainly the Axera Tech AX630C used in the Sipeed NanoKVM Pro 4K IP KVM. CPU Dual-core Cortex-A53 AI accelerator 3.2TOPS NPU System Memory [...] The post Sipeed NanoKVM-Go A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/01/sipeed-nanokvm-go-an-4k-usb-c-kvm-with-recall-like-function-ai-integration/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-02T11:18:28.482875"
-  },
-  {
-    "title": "Infineon wraps up $650M ams OSRAM sensors buy",
-    "summary": "Ams Osram components are expected to help Infineon move to more application-ready designs.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/infineon-wraps-650m-ams-osram-sensors-buy",
-    "categories": [
-      "Tech News"
-    ],
     "quality_score": 0,
-    "processed_date": "2026-07-02T11:18:28.483893"
+    "processed_date": "2026-07-03T11:15:55.689699"
   },
   {
-    "title": "Video: The day Edge AI got 'more real' with sensors",
-    "summary": "Panelists at Sensors Converge discuss their favorite edge AI use cases in this video snippet.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/video-day-edge-ai-got-more-real-sensors",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-02T11:18:28.484015"
-  },
-  {
-    "title": "Apple's Hide My Email feature may be exposing users' real addresses",
-    "summary": "Hide My Email, available through iCloud+, lets users create random addresses that forward messages to their real inbox. Read Entire Article",
-    "link": "https://www.techspot.com/news/112975-apple-hide-email-feature-may-exposing-users-real.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.484389"
-  },
-  {
-    "title": "Testing AMD Radeon's Biggest-Ever Software Upgrade: FSR 4.1 on RDNA 3",
-    "summary": "AMD's new FSR 4.1 INT8 upscaler gives RDNA 3 GPUs a massive image quality upgrade . We examine visual quality, performance, and how closely it matches the RDNA 4 version. Read Entire Article",
-    "link": "https://www.techspot.com/article/3142-amd-fsr-4-upscaling-rdna-3/",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-02T11:18:28.484515"
-  },
-  {
-    "title": "Amazon says restricting Fire TV sideloading is about safety. It's also about piracy",
-    "summary": "In a recent interview with Cord Busters, Aidan Marcuss, Amazon's VP of Fire TV, warned that sideloaded apps can carry malware and enable piracy. He stopped short of explicitly linking piracy concerns to the decision to restrict sideloading on newer Fire TV devices, but the connection is hard to miss. Read Entire Article",
-    "link": "https://www.techspot.com/news/112967-amazon-restricting-fire-tv-sideloading-about-safety-also.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.484661"
-  },
-  {
-    "title": "OCCT 17 introduces a redesigned modular Memory Test",
-    "summary": "Popular PC stress-testing tool OCCT has been updated with a fully redesigned modular Memory Test with 16 configurable testing blocks. The release also improves memory usage and adds built-in memory test presets. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/4665-overclock-checking-tool.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.484763"
-  },
-  {
-    "title": "Former PlayStation exec says PC ports were about marketing, not money and Sony's new leadership disagrees",
-    "summary": "Shawn Layden recently shared a few interesting insights about the now-concluded initiative focused on bringing original PlayStation games to PC. Layden suggested that bringing PlayStation games to another platform was essentially a marketing strategy rather than an attempt to generate significant additional revenue. Read Entire Article",
-    "link": "https://www.techspot.com/news/112952-former-playstation-exec-pc-ports-about-marketing-not.html",
+    "title": "U.S PC shipments drop 7%, market isn't expected to bounce back until 2029 price hikes and component shortages take hold as PC market declines, Omdia report suggests",
+    "summary": "New data suggests PC shipments are already down in 2026 and are likely to get worse in the latter half of the year, but that could be setting the stage for a resurgence in the years to come.",
+    "link": "https://www.tomshardware.com/tech-industry/u-s-pc-shipments-drop-7-percent-market-isnt-expected-to-bounce-back-until-2029-price-hikes-and-component-shortages-take-hold-as-pc-market-declines-omdia-report-suggests",
     "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.484876"
+    "processed_date": "2026-07-03T11:15:55.689812"
   },
   {
-    "title": "Samsung Galaxy Z Fold 8 specs surface, Z Flip discontinuation rumors, Galaxy rollables may arrive in 2028",
-    "summary": "Recent leaks suggest that the Z Fold 8 Ultra will be the flagship device in Samsung's foldable portfolio this year, while the regular Z Fold 8 will receive a complete design overhaul featuring a wider and shorter footprint to compete directly with Apple's rumored iPhone Fold. The company is currently... Read Entire Article",
-    "link": "https://www.techspot.com/news/112961-samsung-galaxy-z-fold-8-specs-surface-z.html",
+    "title": "Supermicro denies that its offices were raided by Taiwanese authorities in Nvidia GPU smuggling case company says that it coordinated with the police and provided access to investigated employees workstations and gadgets",
+    "summary": "The company insists that it's cooperating with Taiwanese authorities and has voluntarily provided access to its premises. It also confirmed with the police that it's the individual, not the institution, that is being looked into with regard to the smuggling cases.",
+    "link": "https://www.tomshardware.com/desktops/servers/supermicro-denies-that-its-offices-were-raided-by-taiwanese-authorities-in-nvidia-gpu-smuggling-case-company-says-that-it-coordinated-with-the-police-and-provided-access-to-investigated-employees-workstations-and-gadgets",
     "categories": [
-      "Tech News"
+      "GPUs",
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.484981"
+    "processed_date": "2026-07-03T11:15:55.689947"
   },
   {
-    "title": "Google launches Nano Banana 2 Lite for fast, low-cost AI image generation",
-    "summary": "Pricing is a key part of the model's positioning. Google says Nano Banana 2 Lite costs $0.034 per 1,000 images, a price intended to make large-scale image generation more routine and accessible. In practical terms, that combination of speed and low cost makes the model better suited for high-volume workloads than precision-focused applications. Read Entire Article",
-    "link": "https://www.techspot.com/news/112957-google-launches-nano-banana-2-lite-fast-low.html",
+    "title": "Digital archivists rush to save PS3 game data before Sony shuts down the store forever in 2027 RPCS3 emulator urges users to preserve all content",
+    "summary": "Sony is shutting down PSN for PS3 consoles next year, so preservationists are being asked to wake up from their slumber to archive everything before it's too late.",
+    "link": "https://www.tomshardware.com/video-games/playstation/digital-archivists-rush-to-save-ps3-game-data-before-sony-shuts-down-the-store-forever-in-2027-rpcs3-emulator-urges-users-to-preserve-all-content",
     "categories": [
-      "AI & ML",
-      "Tech News"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.485091"
+    "processed_date": "2026-07-03T11:15:55.690051"
   },
   {
-    "title": "Sony will stop making physical PlayStation games starting in 2028",
-    "summary": "From then on, new games will be sold on the PlayStation Store and at retailers in digital formats only. Read Entire Article",
-    "link": "https://www.techspot.com/news/112964-sony-end-production-physical-playstation-games-january-2028.html",
+    "title": "Montech NX600 Review: A budget dual tower with jet-engine fans",
+    "summary": "Montech s NX600 is a new dual-tower air cooler powered by six heatpipes and two 28mm thick high-performance 120mm fans. We ve tested it with AMD s Ryzen 9 9950X3D to benchmark its thermal efficiency.",
+    "link": "https://www.tomshardware.com/pc-components/air-cooling/montech-nx600-review",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-07-03T11:15:55.690156"
+  },
+  {
+    "title": "Meta reportedly plans to rent out its AI compute, sending AI stocks tumbling 'Meta Compute' would put company in direct competition with AWS",
+    "summary": "Meta is reportedly weighing two service models: selling developers access to AI models hosted on its own infrastructure, or selling raw computing capacity.",
+    "link": "https://www.tomshardware.com/tech-industry/meta-reportedly-plans-to-rent-out-its-ai-compute",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-07-02T11:18:28.485179"
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.690259"
   },
   {
-    "title": "WinRAR 7.23 fixes bugs, jokes that users are finally paying for it",
-    "summary": "WinRAR 7.23 fixes two security vulnerabilities, updates its bundled 7-Zip extraction library, and makes a few command-line tweaks. The release notes also include a playful nod to the archiver's legendary \"infinite\" trial, thanking users who supposedly finally bought the software. It's mostly a joke-but the security patches alone make this update worth installing. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/67-winrar.html",
+    "title": "Asus B850-Creator Wifi Neo motherboard review: AM5 Creator mobo looks the part, but is missing useful features",
+    "summary": "Asus' B850-Creator Wifi Neo offers fast dual 5 GbE, 3x video outputs, and loads of EZ PC DIY/AI features, but lacks enough USB ports (no 40 Gbps at all) and is expensive for the B850 platform.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/asus-b850-creator-wifi-neo-motherboard-review",
     "categories": [
-      "Tech News"
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-03T11:15:55.690367"
+  },
+  {
+    "title": "Intel hikes pricing for its flagship desktop PC chips by up to $50 official Core Ultra 270K Plus and 250K Plus product pages now recommend prices of up to $349 and $229, respectively",
+    "summary": "Intel's Arrow Lake Refresh processors remain among the company's strongest desktop offerings, but newly updated pricing makes both CPUs noticeably more expensive than when they debuted in March.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-hikes-pricing-for-its-flagship-desktop-pc-chips-by-up-to-usd50-official-core-ultra-270k-plus-and-250k-plus-product-pages-now-recommend-prices-of-up-to-usd349-and-usd229-respectively",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.485315"
+    "processed_date": "2026-07-03T11:15:55.690481"
   },
   {
-    "title": "Steam Machine benchmarks show single RAM stick setup can cost up to 20% performance",
-    "summary": "Each retail unit ships with a single 16GB DDR5-5600 SO-DIMM, a configuration Valve links to tight DDR5 supply. That single stick forces the Steam Machine into single-channel mode out of the box, instead of tapping the extra bandwidth dual-channel offers. Read Entire Article",
-    "link": "https://www.techspot.com/news/112959-steam-machine-benchmarks-show-valve-single-ram-stick.html",
+    "title": "OpenAI mulling giving US gov't a 5% stake in the company, days after Washington delayed GPT-5.6 Altman reportedly wants every leading U.S. AI lab paying into an Alaska-style public fund",
+    "summary": "Altman is understood to have raised the idea with President Donald Trump, Commerce Secretary Howard Lutnick, and Treasury Secretary Scott Bessent.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-floats-5-percent-government-stake-days-after-washington-delayed-gpt-5-6",
     "categories": [
       "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.690606"
+  },
+  {
+    "title": "Startup activates nuclear microreactor live on stage to power an Nvidia RTX Spark desktop PC firm working with Nvidia to build a 30MW closed loop AI factory that doesn t use local water",
+    "summary": "Valar Atomics claims to be the first startup to produce nuclear power, and it demonstrated that ability on stage by using its Ward 250 microreactor to power an RTX Spark unit. It also announced a partnership with Nvidia to build a 30MW closed loop AI data center that does not use water from surrounding communities.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/startup-activates-nuclear-microreactor-live-on-stage-to-power-an-nvidia-rtx-spark-desktop-pc-firm-working-with-nvidia-to-build-a-30mw-closed-loop-ai-factory-that-doesnt-use-local-water",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-03T11:15:55.690736"
+  },
+  {
+    "title": "HALO TOUCH V2 A customizable desktop USB hub with rotary encoder fitted with round touchscreen display",
+    "summary": "Designed by Innoelement in Guangzhou, China, the HALO TOUCH V2 is a multifunctional desktop USB hub with a round touchscreen and a rotary encoder designed as an interactive desk companion. It integrates system monitoring, media playback, and productivity features for workstations, home offices, and desktop setups. The device features a USB 2.0 hub with two USB Type-A ports, one USB Type-C port, two microSD card readers, and a 100Mbps Ethernet port with per-port power monitoring. Its 360 360 IPS touchscreen supports a Pomodoro timer, photo and animation viewer, MP3 player, audio spectrum visualizer, and an AIDA64 system monitoring dashboard. A rotary encoder provides Microsoft Surface Dial-compatible controls on Windows, while 2.4GHz Wi-Fi enables clock synchronization and OTA firmware updates. It also supports USB PD power input and customization for themes, media, and animations using files on a microSD card. MAHOGANY HALO TOUCH V2 specifications: MCU Unspecified (potentially ESP32-S3) [...] The post HALO TOUCH V2 A customizable desktop USB hub with rotary encoder fitted with round touchscreen display appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/03/halo-touch-v2-a-customizable-desktop-usb-hub-with-rotary-encoder-fitted-with-round-touchscreen-display/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-03T11:15:55.691233"
+  },
+  {
+    "title": "ESP32-C5 dual-band WiFi 6 and Bluetooth LE IoT board features 1.47-inch color LCD",
+    "summary": "We ve covered plenty of connected displays based on ESP32 chips over the years, but the Waveshare ESP32-C5-LCD-1.47 is a little different, since it s the first to feature an ESP32-C5 chip for dual-band WiFi 6 connectivity. It s basically based on the ESP32-C6-LCD-1.47 design, but replaces the ESP32-C6 supporting 2.4 GHz WiFi 6 with an ESP32-C5 capable of handling both 2.4 GHz and 5 GHz WiFi 6. Other features mostly remain the same: a 1.47-inch 262K-color display with 320 x 172 resolution, 4MB of flash, an RGB LED, a microSD card slot, and two 9-pin headers for GPIO expansion. Waveshare ESP32-C5-LCD-1.47 specifications: Wireless MCU Espressif Systems ESP32-C5FH4 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory 384 KB SRAM on-chip Storage 320 KB ROM, 4MB flash Wireless Connectivity Dual-band (2.4GHz/5 GHz) 802.11ax WiFi [...] The post ESP32-C5 dual-band WiFi 6 and Bluetooth LE IoT board features 1.47-inch color LCD appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/03/esp32-c5-dual-band-wifi-6-and-bluetooth-le-iot-board-features-1-47-inch-color-lcd/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-03T11:15:55.691398"
+  },
+  {
+    "title": "NVIDIA Jetson Orin Nano/NX-based Mekotronics AI Box targets humanoid robots, Smart Cities management, transportation applications",
+    "summary": "Better known for its unique Rockchip industrial PC designs, Mekotronics has now launched an AI Box based on the NVIDIA Jetson Orin Nano 4GB/8GB or Jetson Orin NX 8GB/16GB for humanoid robots, smart transportation (V2X) applications, Smart Cities, Smart Agriculture, medical imaging, and more. While the company often provides niche features on its Rockchip systems, its Jetson embedded computer offers pretty standard interfaces with an HDMI video output, six USB Type-A ports, two Gigabit Ethernet RJ45 ports (one with PoE), a 40-pin GPIO header, two camera connectors, a terminal block for CAN Bus and UART, and a system connector for LEDs, power button, etc Mekotronics AI Box specifications: Compatible modules NVIDIA Jetson Orin Nano 4GB up to 34 TOPS NVIDIA Jetson Orin Nano 8GB up to 67 TOPS NVIDIA Jetson Orin NX 8GB up to 117 TOPS NVIDIA Jetson Orin NX 16GB up to 157 TOPS Storage 2x M.2 Key-M [...] The post NVIDIA Jetson Orin Nano/NX-based Mekotronics AI Box targets humanoid robots, Smart Cities management, transportation applications appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/03/nvidia-jetson-orin-nano-nx-based-mekotronics-ai-box-targets-humanoid-robots-smart-cities-management-transportation-applications/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
     ],
     "quality_score": 15,
-    "processed_date": "2026-07-02T11:18:28.485415"
+    "processed_date": "2026-07-03T11:15:55.691584"
   },
   {
-    "title": "Cinder City becomes the first PC game to recommend 64GB of RAM, and at the worst time",
-    "summary": "Games are getting bigger, more hardware-intensive, and less well-optimized. The end result is usually more high-end GPUs being required for \"standard\" gameplay, but Cinder City asks for just an RTX 4060 (8GB). What's unusual, however, is the staggering 64GB of RAM it recommends. Read Entire Article",
-    "link": "https://www.techspot.com/news/112963-cinder-city-becomes-first-pc-game-recommend-64gb.html",
+    "title": "Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development",
+    "summary": "The Titan Mini is a smaller and somewhat cheaper version of the RA8P1 Titan board introduced in 2025 for AIoT applications and RT-Thread RTOS development. It still features a Renesas R7KA8P1 Cortex-M85/M33 microcontroller with an Arm Ethos-U55 NPU, but comes with lower-capacity memory and storage chips (32MB SDRAM and 8MB QSPI flash), drops the RJ45 Ethernet ports with a single FPC Ethernet connector, among other cost-saving measures. The only benefit I see besides the smaller size and slightly lower price is the presence of a microphone and a speaker connector for audio applications. Titan Mini specifications: SoC Renesas RA8P1 (R7KA8P1) MCU cores Arm Cortex-M85 clocked at 1 GHz with Helium MVE (M-Profile Vector Extension) with 32KB I/D caches; 7300+ CoreMarks Arm Cortex-M33 clocked at 250 MHz with 32KB I/D caches GPU D/AVE 2D drawing engine NPU Arm Ethos-U55 NPU delivering 256 GOPS at 500 MHz Memory [...] The post Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/02/titan-mini-smaller-renesas-ra8p1-based-edge-ai-board-for-rt-thread-rtos-development/",
     "categories": [
       "Hardware",
-      "GPUs"
+      "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.485520"
+    "quality_score": 15,
+    "processed_date": "2026-07-03T11:15:55.691756"
   },
   {
-    "title": "AMD Zen 6 leak reveals third core type, corroborating rumored Sony handheld SoC codenamed Canis",
-    "summary": "A recent update on the Linux kernel patch mailing list, spotted by Phoronix, includes scant details about a previously unannounced \"Low Power core type\" for AMD processors. The description closely resembles Intel's low-power efficiency cores, suggesting that AMD's upcoming Zen 6 CPU lineup might introduce an equivalent. Read Entire Article",
-    "link": "https://www.techspot.com/news/112954-amd-zen-6-leak-reveals-third-core-type.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-02T11:18:28.485648"
-  },
-  {
-    "title": "Apple's fight with Epic over App Store fees reaches the Supreme Court",
-    "summary": "The justices have agreed to hear Apple's appeal against a lower-court ruling that found the company in contempt of a 2021 injunction from US District Judge Yvonne Gonzalez Rogers. Read Entire Article",
-    "link": "https://www.techspot.com/news/112956-apple-fight-epic-over-app-store-fees-reaches.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.485743"
-  },
-  {
-    "title": "Anthropic's Fable 5 shutdown ends with tougher safeguards and federal approval",
-    "summary": "The workaround exposed gaps in the model's guardrails. Fable, a public-facing version of Anthropic's more capable Mythos system, is designed with restrictions to prevent harmful uses, including assistance with cyberattacks. Those guardrails are critical for releasing the model publicly. Read Entire Article",
-    "link": "https://www.techspot.com/news/112955-anthropic-fable-5-shutdown-ends-tougher-safeguards-federal.html",
+    "title": "Qualcomm unveils robot reference design, IQ10",
+    "summary": "CEO Cristiano announces new Robot Reference Design during Computex keynote in Taiwan",
+    "link": "https://www.fiercesensors.com/sensors/qualcomm-unveils-robot-reference-design-iq10",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
+    "quality_score": 0,
+    "processed_date": "2026-07-03T11:15:55.692860"
+  },
+  {
+    "title": "Humanoids are insanely hard to build, but Nvidia has a plan",
+    "summary": "Nvidia and Unitree H2 Plus humanoid robot reference design announced in Taiwan at GTC Taipei at Computex.",
+    "link": "https://www.fiercesensors.com/ai/humanoids-are-insanely-hard-build-nvidia-has-plan",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
     "quality_score": 5,
-    "processed_date": "2026-07-02T11:18:28.485850"
+    "processed_date": "2026-07-03T11:15:55.693016"
+  },
+  {
+    "title": "Intel intros OpenVINO for robots; 130 firms use Ultra Series 3",
+    "summary": "Sensory AI displayed Ella, a robot barrista, at Computex with the Intel Core Ultra processor inside. The upgrade to Series 3 eliminated an entire class of components with lower software complexity and increased ROI.",
+    "link": "https://www.fiercesensors.com/sensors/intel-unveils-openvino-robots-130-firms-use-ultra-series-3",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.693172"
+  },
+  {
+    "title": "Intel tackles tracking of data center energy use with AET",
+    "summary": "Intel named Schwartz Digits as an Application Energy Telemetry user in search for a better TCO.",
+    "link": "https://www.fiercesensors.com/ai/intel-tackles-tracking-data-center-energy-use-aet",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-03T11:15:55.693315"
+  },
+  {
+    "title": "Concorde-style supersonic flights over US land could return, as long as they're quiet enough",
+    "summary": "The aptly named rule, titled Enabling Supersonic Overland Flight, would amend Parts 1 and 91 of federal aviation regulations. Read Entire Article",
+    "link": "https://www.techspot.com/news/112987-concorde-style-supersonic-flights-over-us-land-could.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.693546"
+  },
+  {
+    "title": "A leaked Microsoft experiment reveals a new OS built entirely around Copilot and AI agents",
+    "summary": "Back when Copilot was still a brand-new AI experience, Microsoft was already trying to turn the service into a cloud-based OS. That experiment appears to be long gone now, but Microsoft is apparently still trying to bring Copilot everywhere, despite stating otherwise. Read Entire Article",
+    "link": "https://www.techspot.com/news/112983-leaked-microsoft-experiment-reveals-new-os-built-entirely.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.693723"
+  },
+  {
+    "title": "Someone finally built a working Game Boy emulator for E-ink screens",
+    "summary": "M5Stack's PaperS3 was originally built for smart home controls, electronic labels, and educational tools. But YouTuber Wenting Channel recently detailed how he turned the old dev board into a 60Hz E-ink Game Boy, its paper-like display an unexpectedly good match for the handheld's graphical capabilities. Read Entire Article",
+    "link": "https://www.techspot.com/news/112984-someone-finally-built-working-game-boy-emulator-e.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.693840"
+  },
+  {
+    "title": "Meta is using old DDR4 memory in DDR5-only AI servers to save on hardware costs",
+    "summary": "Documents presented by Meta at ISCA 2026 this week reveal that its new \"MemServers\" are powered by AMD's Epyc Turin CPUs, featuring 158 cores and 316 threads. Read Entire Article",
+    "link": "https://www.techspot.com/news/112977-meta-using-old-ddr4-memory-ddr5-only-ai.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.693948"
+  },
+  {
+    "title": "A new attack uses a BioShock-style puzzle to convince AI browsers they're not in the real world",
+    "summary": "Researchers from LayerX recently unveiled BioShocking, a new type of vulnerability designed to target AI-powered browsers capable of executing autonomous tasks on the open web. The security firm explained that BioShocking can \"game\" an AI-based browser, causing the system to execute malicious instructions after effectively bypassing its intended security guardrails. Read Entire Article",
+    "link": "https://www.techspot.com/news/112982-new-attack-uses-bioshock-style-puzzle-convince-ai.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-03T11:15:55.694071"
+  },
+  {
+    "title": "OpenAI may give the US government a 5% stake, following Trump's Intel playbook",
+    "summary": "Chief executive Sam Altman has argued that the public should share in the economic gains created by AI. In discussions with policymakers, he suggested that a government stake could help distribute those financial gains more broadly while improving relations between the industry and regulators. Read Entire Article",
+    "link": "https://www.techspot.com/news/112973-openai-may-give-us-government-5-stake-following.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.694185"
+  },
+  {
+    "title": "Dell just overtook HP as the top PC maker in the US as the entire market shrinks",
+    "summary": "Omdia recently reported that PC shipments in the US fell 7% year over year in the first quarter of 2026. The London-based research firm estimates that 15.8 million PCs were shipped to the US market during 1Q26, marking the steepest annual decline since the third quarter of 2023. The weak... Read Entire Article",
+    "link": "https://www.techspot.com/news/112969-pc-shipments-fell-sharply-first-quarter-market-data.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-03T11:15:55.694295"
+  },
+  {
+    "title": "Google just lost its final appeal over Android, $4.7 billion EU fine stands",
+    "summary": "\"The appeal brought by Google and its parent company Alphabet against the judgment of the General Court is dismissed, thereby confirming the penalty imposed for Google Search's abuse of a dominant position in the context of the Android operating system,\" the court said. Read Entire Article",
+    "link": "https://www.techspot.com/news/112979-google-loses-final-appeal-over-android-47-billion.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.694403"
+  },
+  {
+    "title": "Rufus improves Windows installs, adds RISC-V and UEFI:NTFS fixes",
+    "summary": "Rufus is a free utility for creating bootable USB drives from ISOs. Version 4.15 brings RISC-V 64 support to UEFI:NTFS, improves unattended Windows installations, and fixes Snapdragon X Arm64 boot crashes, and more. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/6062-rufus.html",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.694508"
+  },
+  {
+    "title": "Intel raises prices on the Core Ultra 200S Plus CPUs people actually liked",
+    "summary": "As spotted by leaker harukaze5719, Intel has updated the Recommended Customer Price on its product pages for the Core Ultra 7 270K Plus and Core Ultra 5 250K Plus. Read Entire Article",
+    "link": "https://www.techspot.com/news/112980-intel-raises-prices-core-ultra-200s-plus-cpus.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.694677"
+  },
+  {
+    "title": "Former Microsoft dev built a 2.5KB Notepad clone with zero AI features",
+    "summary": "Plummer is the man who claims to have created some major Windows features, including the original Task Manager application. Now, the YouTuber and retired developer shared his latest creation: a text editor named TinyRetroPad, which is designed to mimic Notepad's text editing functionality while staying as small as possible on... Read Entire Article",
+    "link": "https://www.techspot.com/news/112968-former-microsoft-dev-built-25kb-notepad-clone-zero.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.694798"
+  },
+  {
+    "title": "Apple expects its $2,500 foldable iPhone Ultra to sell 10 million units this year",
+    "summary": "Nikkei Asia reports that Apple has told suppliers to prepare for about 10 million foldable iPhones in 2026, up from forecasts of 7 million to 8 million units a few months ago. Read Entire Article",
+    "link": "https://www.techspot.com/news/112976-apple-expects-2500-foldable-iphone-ultra-sell-10.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.694901"
+  },
+  {
+    "title": "As Sony exits physical media, Microsoft is testing a way to link your Xbox discs to digital licenses",
+    "summary": "Sources recently provided The Verge with new details regarding Microsoft's previously leaked attempts to tie physical copies of Xbox games to digital entitlements. The rumor has reignited speculation over whether Microsoft will follow Sony's decision to stop selling physical games. Read Entire Article",
+    "link": "https://www.techspot.com/news/112971-sony-exits-physical-media-microsoft-testing-way-link.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.695015"
+  },
+  {
+    "title": "Former PlayStation boss calls Valve's Steam Machine \"meh,\" asks if he's \"going back to PS4 days\"",
+    "summary": "Yoshida is one of many people who bought a Steam Machine following its official launch, despite its high price. He posted an image of the device next to his TV, along with his thoughts after playing with it for a few hours. Most were far from positive. Read Entire Article",
+    "link": "https://www.techspot.com/news/112978-former-playstation-boss-calls-valve-steam-machine-meh.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-03T11:15:55.695124"
+  },
+  {
+    "title": "A Microsoft Defender flaw is now being linked to ransomware attacks",
+    "summary": "BlueHammer became public on April 2 in an unusual fashion. A researcher using the names Chaotic Eclipse and Nightmare Eclipse released exploit details before Microsoft had a patch ready, saying they were unhappy with how the company handles vulnerability reports. That early release reduced the window defenders usually have to prepare. Read Entire Article",
+    "link": "https://www.techspot.com/news/112962-microsoft-defender-flaw-now-linked-ransomware-attacks.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-03T11:15:55.695239"
   }
 ]
