@@ -1,35 +1,25 @@
 # 🎮 GPUs
-**Week of July 03, 2026**
+**Week of July 04, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 2
-- **Report generated:** 2026-07-03 11:17
+- **Articles this week:** 1
+- **Report generated:** 2026-07-04 10:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Supermicro denies that its offices were raided by Taiwanese authorities in Nvidia GPU smuggling case company says that it coordinated with the police and provided access to investigated employees workstations and gadgets 
+### 1. Brand new Steam Machine hit with 'red line of death' GPU failure after playing No Man's Sky for just five minutes console 'bricked itself' following update in failure that echoes the horror of the Xbox 360's infamous RROD 
 
-Supermicro denies raid allegations, claims cooperation with Taiwanese authorities and police.
+A Steam Machine user encountered a GPU failure known as 'Red Line of Death' after a brief gaming session and software update, echoing the notorious RROD of the Xbox 360.
 
-💡 *Corporate reputation at stake in high-profile smuggling case investigation.*
+💡 *Faulty hardware and poor design can lead to catastrophic device failure.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/servers/supermicro-denies-that-its-offices-were-raided-by-taiwanese-authorities-in-nvidia-gpu-smuggling-case-company-says-that-it-coordinated-with-the-police-and-provided-access-to-investigated-employees-workstations-and-gadgets)
-
----
-
-### 2. Humanoids are insanely hard to build, but Nvidia has a plan 
-
-Nvidia and Unitree announced a humanoid robot reference design at GTC Taipei, highlighting advancements in robotics and artificial intelligence. The collaboration aims to address the challenges of building humanoid robots, which are notoriously difficult to create. This partnership may bring innovative solutions to the field.
-
-💡 *Nvidia's plan simplifies humanoid robot development with AI-driven reference designs*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/humanoids-are-insanely-hard-build-nvidia-has-plan)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/brand-new-steam-machine-hit-with-red-line-of-death-gpu-failure-after-playing-no-mans-sky-for-just-five-minutes-console-bricked-itself-following-update-in-incident-eerily-reminiscent-of-xbox-360-launch)
 
 ---
 

@@ -1,115 +1,95 @@
 # 📰 Tech News
-**Week of July 03, 2026**
+**Week of July 04, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-07-03 11:17
+- **Articles this week:** 8
+- **Report generated:** 2026-07-04 10:36
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Montech NX600 Review: A budget dual tower with jet-engine fans ⭐
+### 1. HP OmniBook Ultra 14 review: Potent Snapdragon performance, great endurance, premium pricing ⭐
 
-The Montech NX600 is a budget-friendly dual-tower air cooler featuring six heatpipes and two thick 120mm fans. It's designed to provide efficient cooling for high-performance processors. Our review benchmarks its thermal efficiency on AMD's Ryzen 9 9950X3D.
+HP's OmniBook Ultra 14 offers potent performance and great endurance, but at a premium price.
 
-💡 *Affordable high-performance cooling for demanding CPU workloads.*
+💡 *Exceptional performance and battery life come with a hefty price tag.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/montech-nx600-review)
-
----
-
-### 2. A new attack uses a BioShock-style puzzle to convince AI browsers they're not in the real world ⭐
-
-Researchers from LayerX unveiled BioShocking, a vulnerability targeting AI-powered browsers. It bypasses security guardrails, allowing malicious instructions to be executed.
-
-💡 *AI browser security flaws can lead to autonomous task exploitation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112982-new-attack-uses-bioshock-style-puzzle-convince-ai.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/hp-omnibook-ultra-14-snapdragon-x2-elite-2026-review)
 
 ---
 
-### 3. A Microsoft Defender flaw is now being linked to ransomware attacks ⭐
+### 2. Blackstone-owned QTS abandons planned world s largest data center campus after years of lawsuits 2,100-acre Virginia Digital Gateway project dies over a newspaper-notice technicality 
 
-A Microsoft Defender flaw, BlueHammer, was leaked early by a researcher, reducing defenders' preparation time. The exploit details were released before Microsoft had a patch ready, potentially making it easier for attackers to exploit the vulnerability. This unusual move has been linked to ransomware attacks.
+Blackstone-owned QTS has withdrawn its appeal for the Digital Gateway campus, ending the project. The 2,100-acre Virginia Digital Gateway was planned as the world's largest data center campus. The project's demise was due to a technicality involving newspaper notices.
 
-💡 *Early exploitation of Microsoft flaw linked to increased ransomware attacks.*
+💡 *Regulatory technicalities can kill major infrastructure projects suddenly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112962-microsoft-defender-flaw-now-linked-ransomware-attacks.html)
-
----
-
-### 4. GitHub thumbs nose at Sony's controversial end to physical media with its introduction of Repo CDs offers limited run of 1,000 CD-ROM copies of public GitHub repos for preservation 
-
-GitHub offers physical CD-ROM copies of public repos for preservation, countering Sony's digital-only shift.
-
-💡 *Preserving digital legacy through physical media for long-term archive purposes.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/github-thumbs-nose-at-sonys-controversial-end-to-physical-media-with-its-introduction-of-repo-cds-offers-limited-run-of-1-000-cd-rom-copies-of-public-github-repos-for-preservation)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/blackstone-owned-qts-abandons-planned-worlds-largest-data-center-campus-after-years-of-lawsuits-2-100-acre-virginia-digital-gateway-project-dies-over-a-newspaper-notice-technicality)
 
 ---
 
-### 5. Startup activates nuclear microreactor live on stage to power an Nvidia RTX Spark desktop PC firm working with Nvidia to build a 30MW closed loop AI factory that doesn t use local water 
+### 3. Fire hydrant signs with Starlink antennas tested for emergency Wi-Fi in disaster-prone Japan existing widespread grid of street-level furniture can be used for communications network fallback 
 
-Valar Atomics demonstrated its microreactor powering an Nvidia RTX Spark unit. The startup also announced a partnership with Nvidia to build a 30MW AI data center that uses a closed-loop system, eliminating the need for local water. This move could revolutionize the field of nuclear energy and AI computing.
+Japan's Fire Hydrant Sign Co. has integrated Starlink antennas with its street signs to create a comprehensive Wi-Fi network, leveraging the existing infrastructure to ensure reliable communication in disaster-prone areas.
 
-💡 *Game-changing nuclear power meets sustainable AI computing infrastructure*
+💡 *Existing street infrastructure can serve as a fallback for emergency communications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/startup-activates-nuclear-microreactor-live-on-stage-to-power-an-nvidia-rtx-spark-desktop-pc-firm-working-with-nvidia-to-build-a-30mw-closed-loop-ai-factory-that-doesnt-use-local-water)
-
----
-
-### 6. Jensen Huang s iconic signed leather jacket expected to fetch up to $60,000 in charity auction Sotheby s says item was worn at a Foxconn Tech Day in 2023 and the signature has been professionally authenticated 
-
-Jensen Huang's signed leather jacket is up for auction, estimated at $40,000 to $60,000, with proceeds going to charity. The jacket was worn at a Foxconn Tech Day in 2023 and the signature has been professionally authenticated. The auction is being held by Sotheby's.
-
-💡 *Rare tech memorabilia supports charity with significant potential value realized*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/jensen-huangs-iconic-signed-leather-jacket-expected-to-fetch-up-to-usd60-000-in-charity-auction-sothebys-says-item-was-worn-at-a-foxconn-tech-day-in-2023-and-the-signature-has-been-professionally-authenticated)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/fire-hydrant-signs-with-starlink-antennas-tested-for-emergency-wi-fi-in-disaster-prone-japan-existing-widespread-grid-of-street-level-furniture-can-be-used-for-communications-network-fallback)
 
 ---
 
-### 7. Concorde-style supersonic flights over US land could return, as long as they're quiet enough 
+### 4. Turtle Beach KP7 Review: The accessory that does everything 
 
-The US government proposes a rule to allow supersonic flights over land, as long as they meet noise standards.
+The Turtle Beach KP7 keypad offers versatility as a standalone macropad or accessory to the KB7 keyboard, but its price may be a deterrent.
 
-💡 *Quieter supersonic flights could make long-distance travel more environmentally friendly.*
+💡 *Adaptable accessory combines functionality and portability in a single device.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112987-concorde-style-supersonic-flights-over-us-land-could.html)
-
----
-
-### 8. Apple expects its $2,500 foldable iPhone Ultra to sell 10 million units this year 
-
-Apple reportedly plans to produce 10 million foldable iPhones this year.
-
-💡 *Foldable iPhone demand is exceeding initial supplier forecasts.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112976-apple-expects-2500-foldable-iphone-ultra-sell-10.html)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/turtle-beach-kp7-review)
 
 ---
 
-### 9. Former PlayStation boss calls Valve's Steam Machine "meh," asks if he's "going back to PS4 days" 
+### 5. Microsoft reverses stance and adds Google account sign-in to Edge browser 
 
-Shuhei Yoshida, former PlayStation boss, shares negative thoughts on Steam Machine.
+Microsoft Edge browser now supports Google account sign-in alongside Microsoft accounts, available on Windows and macOS.
 
-💡 *Steam Machines failed to impress even the gaming industry's own leaders.*
+💡 *Enhanced interoperability between Google and Microsoft ecosystems*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112978-former-playstation-boss-calls-valve-steam-machine-meh.html)
+🔗 [Read Full Article](https://www.techspot.com/news/112996-microsoft-reverses-stance-adds-google-account-sign-edge.html)
 
 ---
 
-### 10. Intel tackles tracking of data center energy use with AET 
+### 6. Jensen Huang's signed leather jacket could sell for up to $60,000 at charity auction 
 
-Intel has named Schwartz Digits an Application Energy Telemetry user. This move aims to improve the Total Cost of Ownership (TCO) for data centers. By leveraging AET, Intel seeks to better track and manage energy consumption.
+Sotheby's will auction Jensen Huang's signed Tom Ford leather jacket, potentially selling for up to $60,000. The auction starts accepting bids on July 7. The jacket is associated with significant tech moments.
 
-💡 *Efficient data center energy use can significantly reduce operational costs.*
+💡 *Celebrity tech items can raise significant funds for charity auctions.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/intel-tackles-tracking-data-center-energy-use-aet)
+🔗 [Read Full Article](https://www.techspot.com/news/112993-jensen-huang-signed-leather-jacket-could-sell-up.html)
+
+---
+
+### 7. US homeowners installed a record amount of battery storage this year, and it's reshaping the grid 
+
+US homeowners installed a record 673 megawatts of battery storage in Q1 2026, mostly in states with expensive electricity and supportive policies.
+
+💡 *Residential battery storage is transforming the US energy grid quickly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112989-us-homeowners-installed-record-amount-battery-storage-year.html)
+
+---
+
+### 8. Video Game History Foundation founder says piracy remains the only viable game preservation method 
+
+Video Game History Foundation founder Frank Cifaldi advocates for piracy as the only effective way to preserve video games due to game companies' refusal to make legacy content available.
+
+💡 *Piracy may be the only viable route to video game preservation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112985-video-game-history-foundation-founder-piracy-remains-only.html)
 
 ---
 
