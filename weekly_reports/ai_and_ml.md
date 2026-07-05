@@ -1,105 +1,85 @@
 # 🤖 AI & ML
-**Week of July 04, 2026**
+**Week of July 05, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-07-04 10:36
+- **Articles this week:** 7
+- **Report generated:** 2026-07-05 10:51
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Companies join hands to collectively dunk on PlayStation's all-digital future Domino's pizza, KFC, and GameSir all threaten an end to physical production 
+### 1. Chinese YMTC SSDs make their way into retail Lenovo laptops media outlet slams YMTC PCIe 4.0 drive for 'below average for an SSD in an office laptop' in review 
 
-Companies mock Sony's all-digital future for PlayStation, threatening physical production
+Lenovo laptops now feature YMTC SSDs, despite US Entity List inclusion. The move marks a significant step for the Chinese storage chip company in gaining a presence in the US market. This development raises concerns about security and trade implications.
 
-💡 *Companies joining forces to protest against digital-only gaming models*
+💡 *Chinese tech companies are expanding US presence despite security concerns*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/companies-join-hands-to-collectively-dunk-on-playstations-all-digital-future-dominos-pizza-kfc-and-gamesir-all-threaten-an-end-to-physical-production)
-
----
-
-### 2. Intel reportedly adding two new 22-core SKUs with game-boosting cache to Nova Lake-S lineup 125W unlocked and 65W locked part rumored to be part of single-tile Core Ultra 5 tier 
-
-Intel is reportedly adding two new 22-core Nova Lake-S SKUs with up to 144MB cache, a locked 65W variant and an unlocked 125W part.
-
-💡 *Boosted gaming performance with cache upgrade in high-end SKUs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-reportedly-adding-two-new-22-core-skus-with-game-boosting-cache-to-nova-lake-s-lineup-125w-unlocked-and-65w-locked-part-rumored-to-be-part-of-single-tile-core-ultra-5-tier)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/chinese-ymtc-ssds-make-their-way-into-retail-lenovo-laptops-media-outlet-slams-ymtc-pcie-4-0-drive-for-below-average-for-an-ssd-in-an-office-laptop-in-review)
 
 ---
 
-### 3. Inside the history of DRAM price-fixing lawsuits how HBM allocations could make a difference after two decades of failed cases 
+### 2. SpaceX is reportedly showing investors a phone prototype, months after Musk said "we are not developing a phone" 
 
-DRAM manufacturers are facing lawsuits for alleged price-fixing and market manipulation. The lawsuits involve plaintiffs from the U.S. District Court for the Northern District of California. The cases could have significant implications for the memory chip industry.
+SpaceX is reportedly developing a phone despite earlier denials by Musk. The device is still in its early stages and design changes are possible. It's unclear if the product will reach the market.
 
-💡 *HBM allocations could disrupt DRAM price-fixing cartels after two decades*
+💡 *SpaceX's secrecy and changing plans raise investor trust concerns*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit)
-
----
-
-### 4. Brand new Steam Machine hit with 'red line of death' GPU failure after playing No Man's Sky for just five minutes console 'bricked itself' following update in failure that echoes the horror of the Xbox 360's infamous RROD 
-
-A Steam Machine user encountered a GPU failure known as 'Red Line of Death' after a brief gaming session and software update, echoing the notorious RROD of the Xbox 360.
-
-💡 *Faulty hardware and poor design can lead to catastrophic device failure.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/brand-new-steam-machine-hit-with-red-line-of-death-gpu-failure-after-playing-no-mans-sky-for-just-five-minutes-console-bricked-itself-following-update-in-incident-eerily-reminiscent-of-xbox-360-launch)
+🔗 [Read Full Article](https://www.techspot.com/news/112997-spacex-reportedly-showing-investors-phone-prototype-months-after.html)
 
 ---
 
-### 5. SK hynix, Samsung, Micron among semiconductor industry group lobbying against government intervention on domestic memory chip supply says move would worsen situation, suggests tax deductions on consumer electronics instead 
+### 3. Memory price surge begins to cool as consumers hit affordability limit AI demand still keeps DRAM and NAND prices climbing through Q3 2026 
 
-The SEMI industry group, representing SK hynix, Samsung, and Micron, opposes government intervention that would prioritize American manufacturers for memory chip supplies, arguing it would worsen shortages. Instead, they suggest tax deductions on consumer electronics. The move aims to ease the memory chip crisis and support the domestic market.
+DRAM and NAND prices will continue to rise through Q3 2026, but at a slower pace due to consumer affordability limits. PC and smartphone makers are reaching their price ceilings, causing AI-driven demand growth to slow. This trend may lead to a stabilization in memory prices.
 
-💡 *Government intervention in chip supply may exacerbate shortages, not alleviate them.*
+💡 *Artificial intelligence demand slows as consumer affordability reaches limit.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/sk-hynix-samsung-micron-among-semiconductor-industry-group-lobbying-against-government-intervention-on-domestic-memory-chip-supply-says-move-would-worsen-situation-suggests-tax-deductions-on-consumer-electronics-instead)
-
----
-
-### 6. Tesla driver charged with manslaughter after car in FSD mode crashes into Texas home 
-
-A 44-year-old Tesla driver in Texas crashed into a home while in FSD mode. The 2025 Tesla Model 3 left the street and damaged a 76-year-old resident's home on June 19. The driver, Michael David Butler, has been charged with manslaughter.
-
-💡 *Autonomous driving safety raises concerns with fatal incidents involving human error.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112990-tesla-driver-charged-manslaughter-after-fsd-crash-kills.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/memory-price-surge-begins-to-cool-as-consumers-hit-affordability-limit-ai-demand-still-keeps-dram-and-nand-prices-climbing-through-q3-2026)
 
 ---
 
-### 7. iFixit is creating a repairability scoring standard for US electronics 
+### 4. Enthusiast hides gaming PC inside living room fan using 3D-printed parts disassembled AtomMan G7 cooled by Dreo tower fan that shifts air at 28 feet per second 
 
-iFixit is developing a standard repairability scoring system for US electronics, separate from its existing teardown scores. This new system aims to provide a formal, repeatable standard for rating device repairability. It will likely influence industry practices and consumer choices.
+A gaming PC enthusiast hid their mini-PC inside a living room fan using 3D-printed parts. The setup is cooled by a Dreo tower fan, which shifts air at 28 feet per second. This innovative solution conceals the PC in plain sight.
 
-💡 *Improved repairability standards can prolong product lifespan and reduce e-waste.*
+💡 *Creative concealment of gaming hardware for a clutter-free living space.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112991-ifixit-creating-repairability-scoring-standard-us-electronics.html)
-
----
-
-### 8. Video Game History Foundation founder says piracy remains the only viable game preservation method 
-
-Video Game History Foundation founder Frank Cifaldi advocates for piracy as the only effective way to preserve video games due to game companies' refusal to make legacy content available.
-
-💡 *Piracy may be the only viable route to video game preservation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112985-video-game-history-foundation-founder-piracy-remains-only.html)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/enthusiast-hides-gaming-pc-inside-living-room-fan-using-3d-printed-parts-disassembled-atomman-g7-cooled-by-dreo-tower-fan-that-shifts-air-at-28-feet-per-second)
 
 ---
 
-### 9. Robot maker Trossen sees hottest market in decades 
+### 5. Startup unveils 3D-printed nuclear reactor module to power AI data centers touted as the world s first subcritical, solid-state, factory-built thorium nuclear reactor  
 
-Trossen Robotics showcased robot arms powered by Intel Core Ultra processors and AI training at Computex, highlighting the company's advancements in robotics technology. This indicates a strong focus on innovation and integration of cutting-edge components. The robot arms demonstrated capabilities that may be applicable to various industries.
+Nuclear tech startup Ampera unveiled a 3D-printed small modular reactor, expected to be the world's first subcritical, solid-state, factory-built thorium nuclear reactor mass-produced for data centers and other applications.
 
-💡 *Robotics technology is witnessing significant advancements with AI integration.*
+💡 *Game-changing nuclear energy innovation for sustainable AI data centers*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/robot-maker-trossen-sees-hottest-market-decades)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/startup-unveils-3d-printed-nuclear-reactor-module-to-power-ai-data-centers-touted-as-the-worlds-first-subcritical-solid-state-factory-built-thorium-nuclear-reactor)
+
+---
+
+### 6. AI hallucinations in embedded are, yes, a thing 
+
+Bob Martin, a Microchip Technology expert, shares his skepticism on vibe coding's challenges. He emphasizes the potential risks of AI hallucinations in embedded systems. This highlights the need for careful validation.
+
+💡 *AI hallucinations can lead to unreliable embedded system behavior.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/ai-hallucinations-embedded-are-yes-thing)
+
+---
+
+### 7. Sensors are essential to robots, as Computex made clear 
+
+At Computex, a robot barista demonstrated high-speed coffee production for attendees.
+
+💡 *Advanced sensors enable robots to perform complex and precise tasks.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/sensors-are-essential-robots-computex-made-clear-0)
 
 ---
 
