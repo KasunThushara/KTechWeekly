@@ -1,55 +1,65 @@
 # 🎮 GPUs
-**Week of July 05, 2026**
+**Week of July 06, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-07-05 10:51
+- **Articles this week:** 5
+- **Report generated:** 2026-07-06 12:28
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AOC U27G4XM 27-inch 4K 160 Hz Dual-Refresh Gaming Monitor Review: Speed, Flexibility And Value 
+### 1. Reviewer tests 'RTX 4080M' desktop graphics card powered by salvaged laptop silicon performs worse than slightly more expensive RX 9070 GRE but draws only 100W in games 
 
-The AOC U27G4XM offers a versatile 27-inch gaming monitor with 4K and FHD modes, 160 Hz refresh rate, and HDR capabilities.
+A modded RTX 4080M desktop GPU underperforms compared to RX 9070 GRE. It draws less power in games at 100W. The custom card costs roughly $400 in China.
 
-💡 *Exceptional speed and flexibility at an affordable price point offered*
+💡 *Cost-effectiveness may matter more than raw performance for budget-conscious gamers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/aoc-u27g4xm-27-inch-4k-160-hz-dual-refresh-gaming-monitor-review)
-
----
-
-### 2. Windows guru uses 19th-century Stirling Engine tech for auxiliary cooling on AMD Threadripper 3970X system waste heat energy spins the $40 engine's flywheel 
-
-Windows development guru Dave Plummer demonstrates a Stirling Engine powered cooling solution for his AMD Threadripper system, utilizing waste heat energy.
-
-💡 *Repurposing waste heat energy for cooling in high-performance systems is efficient.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cooling/windows-guru-uses-stirling-engine-to-cool-amd-threadripper-3970x-waste-heat-energy-spins-the-engines-flywheel)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/reviewer-tests-rtx-4080m-desktop-graphics-card-powered-by-salvaged-laptop-silicon-performs-worse-than-slightly-more-expensive-rx-9070-gre-but-draws-only-100w-in-games)
 
 ---
 
-### 3. 50-feet-long fiber optic HDMI cable and Steam Controller 2 is enthusiasts' answer to the Steam Machine dismisses Valve's new console for a DIY Bazzite setup with a controller 
+### 2. Intel Nova Lake-S midrange CPUs could be bringing AMD's X3D cache trick to more affordable chips 
 
-A gamer is creating a custom Steam Machine using a 50-feet-long fiber optic HDMI cable and a Steam Controller 2, opting for a DIY setup over Valve's official console.
+Intel's Nova Lake-S midrange CPUs combine 6 P-cores and 12 E-cores with 4 LP-E cores, suggesting a balance between performance and low-power tasks.
 
-💡 *DIY approach offers customization and cost-effectiveness alternatives to official gaming consoles.*
+💡 *Balanced design for mixed workloads could appeal to a wider audience.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/50-feet-long-fiber-optic-hdmi-cable-and-steam-controller-2-is-enthusiasts-answer-to-the-steam-machine-dismisses-valves-new-console-for-a-diy-bazzite-setup-with-a-controller)
+🔗 [Read Full Article](https://www.techspot.com/news/113000-intel-nova-lake-s-midrange-cpus-could-bringing.html)
 
 ---
 
-### 4. Get a premium 27-inch 1440p 240 Hz OLED gaming monitor for only $349 OLED for the price of IPS 
+### 3. Get an RTX 3060 with 12 GB of VRAM for just $329.99 at Newegg MSI Ventus 2X OC model back in stock with free shipping 
 
-Asus offers a 27-inch 1440p 240 Hz OLED gaming monitor at a budget-friendly price of $349. This premium display features an advanced proximity sensor that turns off the screen when not in use, mitigating burn-in concerns. 
+Get the MSI Ventus 2X OC RTX 3060 12 GB for $329.99 with free shipping on Newegg.
 
-💡 *Budget OLED gaming now accessible without compromising on performance*
+💡 *Affordable high-end GPU option for gamers and content creators.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/get-a-premium-27-inch-1440p-240-hz-oled-gaming-monitor-for-only-usd349-oled-for-the-price-of-ips)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-an-rtx-3060-with-12-gb-of-vram-for-just-usd329-99-at-newegg-msi-ventus-2x-oc-model-back-in-stock-with-free-shipping)
+
+---
+
+### 4. F1 25: 2026 Season Edition GPU benchmarks From Pole Position to the Back of the Grid 
+
+The 2026 F1 season edition GPU benchmarks test top-tier graphics cards, comparing performance from pole position (best) to the back of the grid (worst) in racing simulations.
+
+💡 *Optimized graphics processing enables smoother, more realistic racing experiences.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/f1-25-2026-season-edition-gpu-benchmarks-from-pole-position-to-the-back-of-the-grid)
+
+---
+
+### 5. Grab this RTX 5070 Ti OLED gaming laptop at $300 off Acer Predator Helios Neo 16S AI drops to $1,899.99 
+
+The Acer Predator Helios Neo 16S AI features an OLED display, Intel Core Ultra 9 275HX, and RTX 5070 Ti graphics, now available at a discounted price of $1,899.99.
+
+💡 *Powerful gaming laptop now accessible at a significantly lower price point.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/grab-this-rtx-5070-ti-oled-gaming-laptop-at-usd300-off-acer-predator-helios-neo-16s-ai-drops-to-usd1-899-99)
 
 ---
 

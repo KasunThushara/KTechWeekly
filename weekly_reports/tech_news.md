@@ -1,75 +1,103 @@
 # 📰 Tech News
-**Week of July 05, 2026**
+**Week of July 06, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-07-05 10:51
+- **Articles this week:** 9
+- **Report generated:** 2026-07-06 12:28
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Sony crammed an entire PS1 into a DualShock controller that connects to your TV, but killed the project PlayStation Puga offered game studios a mere 10 cents per unit sold 
+### 1. Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition review: A masterclass in mobility and usability 
 
-Sony developed a compact PS1 inside a controller, but cancelled due to low royalties for game studios.
+The Lenovo ThinkPad X1 Carbon Gen 14 is a top-notch ultraportable laptop with exceptional quality and OLED display, excelling in mobility and usability.
 
-💡 *Low royalties threatened game studio profitability, derailed innovative product release.*
+💡 *Exceptional portability meets high-quality display and performance seamlessly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/sony-crammed-an-entire-ps1-into-a-dualshock-controller-that-connects-to-your-tv-but-killed-the-project-playstation-puga-offered-game-studios-a-mere-10-cents-per-unit-sold)
-
----
-
-### 2. Meta data center water discharges suspended after contaminating the city's reclamation water supply with bacterium system offline for months for cleaning, closed-loop cooling system purge spread rare metal-resistant bacteria in Cheyenne s water system 
-
-A meta data center's water discharge was suspended due to contamination of Cheyenne's reclamation water supply with a rare metal-resistant bacteria. The closed-loop cooling system's purge led to the issue, which required the system to be offline for months for cleaning. The incident involved a fill-and-flush commissioning step.
-
-💡 *Inadequate cooling system maintenance can contaminate entire city water systems.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-review)
 
 ---
 
-### 3. Startup unveils 3D-printed nuclear reactor module to power AI data centers touted as the world s first subcritical, solid-state, factory-built thorium nuclear reactor  
+### 2. Turtle Beach Command Series KB7 Review: A keyboard with a touchscreen and a lot of potential 
 
-Nuclear tech startup Ampera unveiled a 3D-printed small modular reactor, expected to be the world's first subcritical, solid-state, factory-built thorium nuclear reactor mass-produced for data centers and other applications.
+The Turtle Beach Command Series KB7 TKL keyboard features a 4.3-inch touchscreen, offering a unique navigation experience. However, its potential is hindered by a lack of supporting software. This keyboard aims to revolutionize keyboard navigation but falls short.
 
-💡 *Game-changing nuclear energy innovation for sustainable AI data centers*
+💡 *Lack of software cripples innovative keyboard navigation features*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/startup-unveils-3d-printed-nuclear-reactor-module-to-power-ai-data-centers-touted-as-the-worlds-first-subcritical-solid-state-factory-built-thorium-nuclear-reactor)
-
----
-
-### 4. The US now has three microreactors running and data centers are watching closely 
-
-Three microreactors in the US have reached criticality, marking progress in nuclear energy.
-
-💡 *Accelerating advanced nuclear demonstrations for cleaner and more efficient energy.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/112994-us-now-has-three-microreactors-running-data-centers.html)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/turtle-beach-command-series-kb7-review)
 
 ---
 
-### 5. Meta's Pocket app lets you vibe-code games with zero coding knowledge 
+### 3. Researchers built a tiny diving suit for cyborg cockroaches to survive underwater 
 
-Meta's Pocket app allows users to create and share interactive mini-games without coding knowledge.
+Researchers have created a tiny diving suit for cyborg cockroaches to survive underwater, addressing a major limitation in their previous search-and-rescue applications.
 
-💡 *Democratizing game development with user-friendly, no-code experiences.*
+💡 *Enhancing insect capabilities expands disaster site exploration possibilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112995-meta-pocket-app-you-vibe-code-games-zero.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113002-researchers-built-tiny-diving-suit-cyborg-cockroaches-survive.html)
 
 ---
 
-### 6. Amazon's satellite internet service is finally ready for real users sort of 
+### 4. Germany's massive 60,000-game preservation project collapses after 1.5 million funding dries up world's largest game archive was entirely publicly available, now abandoned just as Sony kills physical media 
 
-Amazon's satellite internet service is nearing readiness after a beta phase, but it's still uneven. Early users experienced frequent interruptions and high sensitivity to obstructions. Speeds varied, but generally improved over time.
+Germany's massive 60,000-game archive project collapses due to expired funding. The project, which made the world's largest game archive publicly available, is now being wound down. This comes as Sony is phasing out physical media.
 
-💡 *Satellite internet is still developing, with room for significant improvement.*
+💡 *Preserving gaming history faces significant challenges without stable funding.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112992-amazon-satellite-internet-service-finally-ready-real-users.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/germanys-1-5-million-project-to-build-the-worlds-largest-game-archive-collapses-after-funding-dries-up)
+
+---
+
+### 5. Hannah Montana Linux gets modern remaster after nearly two decades Sweet niblets, new v26 is built on Debian with a re-skin of KDE Plasma 
+
+Say whaaaat? Hannah Montana Linux is back. Basically abandonware since 2009, the distro has returned with a modern kernel and about 18 years worth of patches.
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/hannah-montana-linux-gets-modern-remaster-after-nearly-two-decades-sweet-niblets-new-v26-is-built-on-debian-with-a-re-skin-of-kde-plasma)
+
+---
+
+### 6. Jim Keller's startup is building a factory to mass-produce small semiconductor fabs Atomic Semi rebrands as 'Fab2' underlining intended role as a 'fab fab' 
+
+Atomic Semi rebranded as Fab2 to mass-produce small semiconductor fabs, emphasizing its role as a 'fab fab' that builds other fabrication facilities.
+
+💡 *Mass-producing semiconductor fabs could democratize access to chip manufacturing.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas)
+
+---
+
+### 7. Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered employees told to switch to Qoder as the rift between the firms widens 
+
+Alibaba banned Claude Code due to a hidden China-detection backdoor, prompting staff to switch to Qoder as tensions with Anthropic escalate.
+
+💡 *Escalating tech rivalry exposes sensitive AI code vulnerabilities publicly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-bans-anthropics-claude-code-after-an-alleged-hidden-china-detection-backdoor-is-uncovered-employees-told-to-switch-to-qoder-as-the-rift-between-the-firms-widens)
+
+---
+
+### 8. Sony clarifies that it will still make PlayStation discs after 2028, just not for new games 
+
+Sony will still produce PlayStation discs after 2028, but only for existing titles.
+
+💡 *Long-term game support for loyal player bases is key.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113007-sony-confirms-make-playstation-discs-after-2028-not.html)
+
+---
+
+### 9. Google is testing a webcam CAPTCHA that scans your hand, but it's already been bypassed using a photo 
+
+Google's new 'hand gesture verification' CAPTCHA has been bypassed using a photo, rendering it useless.
+
+💡 *Biometric security measures can be easily compromised with digital images.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/112986-google-testing-webcam-based-captcha-scans-hand-but.html)
 
 ---
 

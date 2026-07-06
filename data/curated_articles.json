@@ -1,182 +1,340 @@
 [
   {
-    "title": "50-feet-long fiber optic HDMI cable and Steam Controller 2 is enthusiasts' answer to the Steam Machine dismisses Valve's new console for a DIY Bazzite setup with a controller",
-    "summary": "An enthusiast is DIYing his own Steam Machine through ancient, lost methods known as cables that turn his existing PC into the perfect couch gaming setup. As expected, the Steam Controller 2 is also involved, alongside Bazzite.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/50-feet-long-fiber-optic-hdmi-cable-and-steam-controller-2-is-enthusiasts-answer-to-the-steam-machine-dismisses-valves-new-console-for-a-diy-bazzite-setup-with-a-controller",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-05T10:50:58.880380"
-  },
-  {
-    "title": "Sony crammed an entire PS1 into a DualShock controller that connects to your TV, but killed the project PlayStation Puga offered game studios a mere 10 cents per unit sold",
-    "summary": "Sony successfully built a PlayStation 1 console that fit inside a controller but had to cancel the project after game studios were unhappy with the royalties they would make from the project.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/sony-crammed-an-entire-ps1-into-a-dualshock-controller-that-connects-to-your-tv-but-killed-the-project-playstation-puga-offered-game-studios-a-mere-10-cents-per-unit-sold",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-05T10:50:58.880506"
-  },
-  {
-    "title": "Chinese YMTC SSDs make their way into retail Lenovo laptops media outlet slams YMTC PCIe 4.0 drive for 'below average for an SSD in an office laptop' in review",
-    "summary": "Lenovo has seemingly begun using YMTC SSDs in some of its laptop models, allowing the Chinese storage chip company to gain a foothold in the U.S. This is despite its inclusion on the U.S. Department of Commerce's Entity List and its branding by the Pentagon as a Chinese military company.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/chinese-ymtc-ssds-make-their-way-into-retail-lenovo-laptops-media-outlet-slams-ymtc-pcie-4-0-drive-for-below-average-for-an-ssd-in-an-office-laptop-in-review",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-05T10:50:58.880632"
-  },
-  {
-    "title": "Get a premium 27-inch 1440p 240 Hz OLED gaming monitor for only $349 OLED for the price of IPS",
-    "summary": "If you've been meaning to upgrade to an OLED monitor but budget options scare you off because of burn-in, Asus has the answer for you. Not only does this monitor feature great specs, but it also has a proximity sensor that automatically turns off the display when you step away.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/get-a-premium-27-inch-1440p-240-hz-oled-gaming-monitor-for-only-usd349-oled-for-the-price-of-ips",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-05T10:50:58.880737"
-  },
-  {
-    "title": "Meta data center water discharges suspended after contaminating the city's reclamation water supply with bacterium system offline for months for cleaning, closed-loop cooling system purge spread rare metal-resistant bacteria in Cheyenne s water system",
-    "summary": "Fill-and-flush is a commissioning step whereby crews fill a cooling loop's piping with water and flush it to clear debris before the system is run.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-05T10:50:58.880841"
-  },
-  {
-    "title": "AOC U27G4XM 27-inch 4K 160 Hz Dual-Refresh Gaming Monitor Review: Speed, Flexibility And Value",
-    "summary": "AOC brings speed, flexibility, and value in its U27G4XM. It s a 27-inch dual-mode IPS panel with 4K resolution at 160 Hz, FHD resolution at 320 Hz and Adaptive-Sync. It also has a Mini LED backlight with 1,000 nits for HDR and wide gamut color.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/aoc-u27g4xm-27-inch-4k-160-hz-dual-refresh-gaming-monitor-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-05T10:50:58.880941"
-  },
-  {
-    "title": "Memory price surge begins to cool as consumers hit affordability limit AI demand still keeps DRAM and NAND prices climbing through Q3 2026",
-    "summary": "TrendForce says DRAM and NAND prices will continue to rise through Q3 2026, but AI-driven gains are slowing as PC and smartphone makers reach their affordability limits.",
-    "link": "https://www.tomshardware.com/pc-components/ram/memory-price-surge-begins-to-cool-as-consumers-hit-affordability-limit-ai-demand-still-keeps-dram-and-nand-prices-climbing-through-q3-2026",
+    "title": "Steam Machine interview full transcript: Valve engineers discuss $1,049 pricing, compact design, component shortages, and Windows support",
+    "summary": "Valve's Pierre-Loup Griffais and Yazan Aldehayyat talked to Tom's Hardware about the Steam Machine, it's pricing, engineering, and even Windows support.",
+    "link": "https://www.tomshardware.com/video-games/steam-machine-interview-full-transcript-valve-engineers-discuss-usd1-049-pricing-compact-design-component-shortages-and-windows-support",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-05T10:50:58.881038"
+    "processed_date": "2026-07-06T12:26:55.172536"
   },
   {
-    "title": "Windows guru uses 19th-century Stirling Engine tech for auxiliary cooling on AMD Threadripper 3970X system waste heat energy spins the $40 engine's flywheel",
-    "summary": "Windows development guru Dave W. Plummer shared a brief video demonstrating a novel Stirling Engine powered cooling solution for his AMD Threadripper chipset.",
-    "link": "https://www.tomshardware.com/pc-components/cooling/windows-guru-uses-stirling-engine-to-cool-amd-threadripper-3970x-waste-heat-energy-spins-the-engines-flywheel",
+    "title": "Wisconsin residents file class-action lawsuit against Microsoft's 'world's most powerful AI data center' due to data center noise plaintiffs also mention construction noise and extreme light pollution from $7.3 billion facility",
+    "summary": "Wisconsin residents file class-action lawsuit against Microsoft due to data center noise plaintiffs also mention construction noise and extreme light pollution",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/wisconsin-residents-file-class-action-lawsuit-against-microsofts-worlds-most-powerful-ai-data-center-due-to-data-center-noise-plaintiffs-also-mention-construction-noise-and-extreme-light-pollution-from-usd7-3-billion-facility",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.172661"
+  },
+  {
+    "title": "Bigme introduces a color e-ink monitor that could reportedly hit 60 FPS 25.3-inch display will come with a 3200 x 1800 resolution and support for 4096 colors",
+    "summary": "This is the first e-ink monitor that can hit 60 FPS, making it useful in more tasks outside of just reading. While you likely won't be able to play fast-paced games on this display, it should still make other everyday tasks on it easier while reducing eye strain.",
+    "link": "https://www.tomshardware.com/monitors/bigme-introduces-a-color-e-ink-monitor-that-could-reportedly-hit-60-fps-25-3-inch-display-will-come-with-a-3200-x-1800-resolution-and-support-for-4096-colors",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.172774"
+  },
+  {
+    "title": "Get an RTX 3060 with 12 GB of VRAM for just $329.99 at Newegg MSI Ventus 2X OC model back in stock with free shipping",
+    "summary": "Get an RTX 3060 with 12 GB of VRAM for just $329.99 at Newegg MSI Ventus 2X OC model back in stock with free shipping",
+    "link": "https://www.tomshardware.com/pc-components/get-an-rtx-3060-with-12-gb-of-vram-for-just-usd329-99-at-newegg-msi-ventus-2x-oc-model-back-in-stock-with-free-shipping",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.172873"
+  },
+  {
+    "title": "SpaceX vaporizes 260 Starlink satellites in six months using Earth's atmosphere new environmental concerns emerge over burning 2,700-pound orbital data centers, FCC seeks to exempt satellites from regulations",
+    "summary": "SpaceX retired 260 Starlink satellites in six months, with hundreds more to follow, as debate grows over the atmospheric impact of satellite burn-ups.",
+    "link": "https://www.tomshardware.com/tech-industry/space/spacex-vaporizes-260-starlink-satellites-in-six-months-using-earths-atmosphere-new-environmental-concerns-emerge-over-burning-2-700-pound-orbital-data-centers-fcc-seeks-to-exempt-satellites-from-regulations",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.172975"
+  },
+  {
+    "title": "RAMpocalyse pricing prompts maker to construct his own memory using ancient Apollo-era tech USB drive resurrects hand-threaded magnetic core memory using salvaged Russian computer parts",
+    "summary": "DIYer shows how they made a handsome magnetic core memory USB drive using home CNC and 3D printing equipment. However, it isn't a homebrew answer to the AI-induced memory crisis with only 64 bits of data capacity",
+    "link": "https://www.tomshardware.com/pc-components/storage/rampocalyse-pricing-prompts-maker-to-construct-his-own-memory-using-ancient-apollo-era-tech-usb-drive-resurrects-hand-threaded-magnetic-core-memory-using-salvaged-russian-computer-parts",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.173080"
+  },
+  {
+    "title": "Germany's massive 60,000-game preservation project collapses after 1.5 million funding dries up world's largest game archive was entirely publicly available, now abandoned just as Sony kills physical media",
+    "summary": "A German effort to assemble the world's largest publicly accessible video game archive is being wound down after roughly 1.5 million in public funding expired.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/germanys-1-5-million-project-to-build-the-worlds-largest-game-archive-collapses-after-funding-dries-up",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.173183"
+  },
+  {
+    "title": "Reviewer tests 'RTX 4080M' desktop graphics card powered by salvaged laptop silicon performs worse than slightly more expensive RX 9070 GRE but draws only 100W in games",
+    "summary": "Turns out, a modded RTX 4080M desktop GPU performs worse than similarly-priced official options. It currently costs roughly $400 in China and compared to the RX 9070 GRE, this custom card loses in every game tested except PUBG.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/reviewer-tests-rtx-4080m-desktop-graphics-card-powered-by-salvaged-laptop-silicon-performs-worse-than-slightly-more-expensive-rx-9070-gre-but-draws-only-100w-in-games",
     "categories": [
       "GPUs",
-      "Semiconductors"
+      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-05T10:50:58.881151"
+    "processed_date": "2026-07-06T12:26:55.173286"
   },
   {
-    "title": "Enthusiast hides gaming PC inside living room fan using 3D-printed parts disassembled AtomMan G7 cooled by Dreo tower fan that shifts air at 28 feet per second",
-    "summary": "Creator Zac Builds mounted their mini-PC to the side of their living room fan to hide it plain sight.",
-    "link": "https://www.tomshardware.com/3d-printing/enthusiast-hides-gaming-pc-inside-living-room-fan-using-3d-printed-parts-disassembled-atomman-g7-cooled-by-dreo-tower-fan-that-shifts-air-at-28-feet-per-second",
+    "title": "Hannah Montana Linux gets modern remaster after nearly two decades Sweet niblets, new v26 is built on Debian with a re-skin of KDE Plasma",
+    "summary": "Say whaaaat? Hannah Montana Linux is back. Basically abandonware since 2009, the distro has returned with a modern kernel and about 18 years worth of patches.",
+    "link": "https://www.tomshardware.com/software/linux/hannah-montana-linux-gets-modern-remaster-after-nearly-two-decades-sweet-niblets-new-v26-is-built-on-debian-with-a-re-skin-of-kde-plasma",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.173378"
+  },
+  {
+    "title": "US Navy is flight-testing 3D printed fighter jet parts that cut repair times in half forward-deployed 3D printers generate composite parts, flight testing to begin on operational F/A-18 Super Hornets",
+    "summary": "The US Navy is experimenting with 3D-printed patches for composite parts, allowing forward bases to repair F/A-18 Super Hornets without waiting for replacement parts coming from the tail end of a logistics supply chain thousands of miles long.",
+    "link": "https://www.tomshardware.com/3d-printing/us-navy-testing-3d-printed-fighter-jet-parts-for-quick-repairs-composite-parts-printed-at-forward-deployed-3d-printers-to-be-flight-tested-on-operational-f-a-18-super-hornets",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.173481"
+  },
+  {
+    "title": "F1 25: 2026 Season Edition GPU benchmarks From Pole Position to the Back of the Grid",
+    "summary": "tktk",
+    "link": "https://www.tomshardware.com/pc-components/gpus/f1-25-2026-season-edition-gpu-benchmarks-from-pole-position-to-the-back-of-the-grid",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.173570"
+  },
+  {
+    "title": "Jim Keller's startup is building a factory to mass-produce small semiconductor fabs Atomic Semi rebrands as 'Fab2' underlining intended role as a 'fab fab'",
+    "summary": "Atomic Semi, the semiconductor tooling startup founded by chip architect Jim Keller and DIY fabrication pioneer Sam Zeloof, has rebranded as Fab2.",
+    "link": "https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.173669"
+  },
+  {
+    "title": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition review: A masterclass in mobility and usability",
+    "summary": "A sublime ultraportable with world-class quality and OLED visuals, the ThinkPad X1 Carbon Gen 14 excels at everything it does.",
+    "link": "https://www.tomshardware.com/laptops/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-06T12:26:55.173757"
+  },
+  {
+    "title": "Windows 11 identifier code used to track Scattered Spider perp after Microsoft shared info with FBI 19-year-old US-Estonian hacker arrested over alleged ties to infamous extortion group",
+    "summary": "Petet Stokes was arrested in Finland and extradited to the U.S. over alleged ties to the Scattered Spider group, with Microsoft helping in the investigation. He's in custody awaiting trial based on a criminal complaint for a May 2025 attack on a U.S.-based luxury jewelry retailer",
+    "link": "https://www.tomshardware.com/software/windows-11-identifier-used-to-track-scattered-spider-perp-after-microsoft-shared-info-with-fbi-19-year-old-us-estonian-hacker-arrested-over-alleged-ties-to-infamous-extortion-group",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.173868"
+  },
+  {
+    "title": "Grab this RTX 5070 Ti OLED gaming laptop at $300 off Acer Predator Helios Neo 16S AI drops to $1,899.99",
+    "summary": "The Acer Predator Helios Neo 16S AI combines an OLED 240 Hz display, Intel's Core Ultra 9 275HX, RTX 5070 Ti graphics, and 32GB of DDR5 memory, all while saving you $300 off its regular price.",
+    "link": "https://www.tomshardware.com/pc-components/grab-this-rtx-5070-ti-oled-gaming-laptop-at-usd300-off-acer-predator-helios-neo-16s-ai-drops-to-usd1-899-99",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.173962"
+  },
+  {
+    "title": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered employees told to switch to Qoder as the rift between the firms widens",
+    "summary": "Alibaba banned Claude Code after an alleged hidden China-detection code was found, prompting staff to switch to Qoder as its feud with Anthropic deepens.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-bans-anthropics-claude-code-after-an-alleged-hidden-china-detection-backdoor-is-uncovered-employees-told-to-switch-to-qoder-as-the-rift-between-the-firms-widens",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.174054"
+  },
+  {
+    "title": "Turtle Beach Command Series KB7 Review: A keyboard with a touchscreen and a lot of potential",
+    "summary": "Turtle Beach's new \"Command Series\" KB7 TKL keyboard features a 4.3-inch touchscreen instead of the typical navigation cluster like a Stream Deck, but as a touchscreen. Unfortunately, it lacks the software to back it up.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/turtle-beach-command-series-kb7-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-06T12:26:55.174149"
+  },
+  {
+    "title": "PS5 Disc Drive purchase cap predates Sony's disc cutoff 'high demand' order limit has been on the store page since at least March 2025",
+    "summary": "Meanwhile, the largest petition against the disc cutoff sat beyond 74,000 signatures on the morning of July 4th, closing in on its 75,000 goal.",
+    "link": "https://www.tomshardware.com/video-games/playstation/ps5-disc-drive-purchase-cap-predates-sonys-disc-cutoff",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.174240"
+  },
+  {
+    "title": "You can now play Half-Life 2 right inside your browser at over 100 FPS with save states & console support Ingenious port recreates the entire game campaign using WebGL 2",
+    "summary": "An unofficial browser port of Half-Life 2 has popped up online, allowing you to play the original campaign without downloading anything. Developed in just three months by Slqnt and 98006, it even features Source console integration for cheats.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/you-can-now-play-half-life-2-right-inside-your-browser-at-over-100-fps-with-save-states-and-console-support-ingenious-port-recreates-the-entire-game-campaign-using-webgl-2",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.174341"
+  },
+  {
+    "title": "DARPA plans 30-year endurance nuclear waste batteries to power next-gen drones, says report project SYMPHONEE aims to harvest Strontium-90 to power persistent military drones",
+    "summary": "A report suggests that upcoming nuclear waste-powered radiovoltaic batteries could last as long as 30 years and power next-gen drones.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/darpa-plans-30-year-endurance-nuclear-waste-batteries-to-power-next-gen-drones-says-report-project-symphonee-aims-to-harvest-strontium-90-to-power-persistent-military-drones",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-05T10:50:58.881246"
+    "processed_date": "2026-07-06T12:26:55.174449"
   },
   {
-    "title": "Startup unveils 3D-printed nuclear reactor module to power AI data centers touted as the world s first subcritical, solid-state, factory-built thorium nuclear reactor ",
-    "summary": "Nuclear tech startup Ampera revealed a small modular reactor manufactured using 3D printing techniques. The company says that it expects to be the first one to mass produce these power sources for data centers and other applications.",
-    "link": "https://www.tomshardware.com/3d-printing/startup-unveils-3d-printed-nuclear-reactor-module-to-power-ai-data-centers-touted-as-the-worlds-first-subcritical-solid-state-factory-built-thorium-nuclear-reactor",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-05T10:50:58.881349"
-  },
-  {
-    "title": "Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare",
-    "summary": "ESP32 chips have been used for retro gaming and computing for years, but Austin McChord (Amcchord) adds to that with a Macintosh emulator ported to a couple of ESP32-P4 display devkits. His project is a full port of the BasiliskII Macintosh 68k emulator, bringing classic Mac OS (System 7.x through Mac OS 8.1) to portable ESP32-P4 embedded devices with touchscreen, USB peripherals, and WiFi support through an ESP32-C6 on the boards. The main development platform appears to be the M5Stack Tab5 equipped with a 5-inch touchscreen display with 1280 720 resolution. However, if you need something with a larger screen, the Waveshare ESP32-P4-WIFI6-Touch-LCD-10.1 is also supported, and features a 10.1-inch display with 1280 800 resolution and a 10-point capacitive touchscreen. The actual Mac OS resolutions used are 640 360 and 640 400, respectively, then scaled twice to the native resolution of the display. Highlights of the project: CPU Motorola 68040 emulation with FPU (68881) [...] The post Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/05/macintosh-emulator-works-on-esp32-p4-display-devkits-from-m5stack-and-waveshare/",
+    "title": "Beelink EQi Wildcat Lake Core 3 304 mini PC review Part 1: Specifications, unboxing, teardown, and first boot",
+    "summary": "We ve received our first Wildcat Lake hardware for review, as Beelink has sent us an EQi mini PC powered by the Intel Core 3 304 entry-level 5-core processor with a 15 TOPS AI accelerator. The mini PC ships with either 16GB of LPDDR5 (soldered-on) or 24GB/32GB of DDR5 (SO-DIMM) memory and 512GB UFS 3.1 storage. It also features two M.2 Key-M PCIe Gen4 sockets, 10GbE and 2.5GbE RJ45 ports, WiFI 6 and Bluetooth 5.2 connectivity, three display outputs via HDMI and USB4 ports, and more. We ll start the review by listing the specifications, checking out the hardware with an unboxing and a teardown, before giving it a quick try with Windows 11 Pro. In the second part of the review, we ll focus on Windows 11 Pro, with feature testing and benchmarks, before switching to Ubuntu 26.04 to test a recent Linux distribution on a Wildcat Lake mini PC. Beelink EQi [...] The post Beelink EQi Wildcat Lake Core 3 304 mini PC review Part 1: Specifications, unboxing, teardown, and first boot appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/06/beelink-eqi-wildcat-lake-core-3-304-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-05T10:50:58.881949"
+    "quality_score": 20,
+    "processed_date": "2026-07-06T12:26:55.174940"
   },
   {
-    "title": "AI hallucinations in embedded are, yes, a thing",
-    "summary": "Bob Martin, AKA Wizard of Make at Microchip Technology, describes his continuing journey through vibe coding with a tad of skepticism.",
-    "link": "https://www.fiercesensors.com/ai/ai-hallucinations-embedded-are-yes-thing",
+    "title": "Tiny Calixto Systems AM62L STAMP SOM targets industrial automation, HMI applications, EV chargers",
+    "summary": "Calixto Systems has introduced the AM62L STAMP SOM, a tiny (40x40mm) system-on-module around the Texas Instruments AM62L dual-core Arm Cortex-A53 CPU running at up to 1.25 GHz, along with an evaluation kit. Designed for embedded Linux applications, the module targets industrial automation, HMIs, EV chargers, and smart retail. Calixto AM62L STAMP SOM The SoM integrates up to 2GB LPDDR4x RAM and 8GB or 16GB eMMC storage, along with Gigabit Ethernet, two USB 2.0 OTG interfaces, dual SD interfaces, MIPI DSI and parallel RGB display support, McASP audio, and a wide range of industrial I/Os, including CAN FD, eight UARTs, four SPI buses, five I2C buses, ADC, DAC, PWM, GPIO, and a GPMC interface. It also integrates hardware security features such as AES encryption, RSA/ECC acceleration, DRBG, TRNG, and a unique device ID for secure embedded applications. AM62L STAMP SOM specifications: SoC Texas Instruments Sitara AM62Lx single-core/dual-core Arm Cortex-A53 processor @ [...] The post Tiny Calixto Systems AM62L STAMP SOM targets industrial automation, HMI applications, EV chargers appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/06/tiny-calixto-systems-am62l-stamp-som-targets-industrial-automation-hmi-applications-ev-chargers/",
     "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-05T10:50:58.883119"
-  },
-  {
-    "title": "Sensors are essential to robots, as Computex made clear",
-    "summary": "A robot barista behind glass pumped out 200 cups of artisanal coffee per hour to throngs at the Taipei event.",
-    "link": "https://www.fiercesensors.com/ai/sensors-are-essential-robots-computex-made-clear-0",
-    "categories": [
+      "Hardware",
       "AI & ML"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-07-05T10:50:58.883205"
+    "quality_score": 10,
+    "processed_date": "2026-07-06T12:26:55.175115"
   },
   {
-    "title": "The US now has three microreactors running and data centers are watching closely",
-    "summary": "Unity, a microreactor from Houston-based Deployable Energy, is the latest of the three to reach criticality as part of a Department of Energy effort to accelerate advanced nuclear demonstrations. A reactor from Torrance-based Antares and another from El Segundo-based Valar Atomics cleared the same hurdle in June. Read Entire Article",
-    "link": "https://www.techspot.com/news/112994-us-now-has-three-microreactors-running-data-centers.html",
+    "title": "u-blox F11 low-power dual-band GNSS chips and modules consume just 7mW in LEAP mode",
+    "summary": "u-blox has introduced the F11 platform, a new family of low-power GNSS chips and modules that includes the UBX-F11270-KB and UBX-F11170-CC dual-band GNSS chips, the UBX-M11070-KB chip (L1-only), the MAX-M11N module (L1-only), and the EVK-F112 evaluation kit. These are designed for battery-powered applications such as aftermarket telematics, asset tracking, wearables, drones, micromobility, and other industrial and consumer devices. Among those, the UBX-F11270-KB and UBX-F11170-CC support dual-band L1/L5 GNSS that automatically switch between L1/L5 operation based on signal conditions. The UBX-M11070-KB chip and MAX-M11N module are L1 band only, but all the modules and chips in the series support LEAP (Low Energy Accurate Positioning) mode with a typical power consumption of around 7 mW. Other features include indoor detection, polygonal geofencing, and multipath mitigation. u-blox UBX-F11270-KB and UBX-F11170-CC specifications: GNSS Engine u-blox F11 platform Memory / Storage UBX-F11270-KB Embedded flash memory supports firmware upgrade UBX-F11170-CC Optional external SPI [...] The post u-blox F11 low-power dual-band GNSS chips and modules consume just 7mW in LEAP mode appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/06/u-blox-f11-low-power-dual-band-gnss-chips-and-modules-consume-just-7mw-in-leap-mode/",
     "categories": [
-      "Tech News"
+      "Semiconductors",
+      "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-05T10:50:58.883411"
+    "quality_score": 10,
+    "processed_date": "2026-07-06T12:26:55.175285"
   },
   {
-    "title": "SpaceX is reportedly showing investors a phone prototype, months after Musk said \"we are not developing a phone\"",
-    "summary": "The device is still in the early stages of development. SpaceX has told some investors that the design could change and that it is not yet clear whether the product will ultimately come to market. Representatives for SpaceX and Qualcomm did not respond to requests for comment. Read Entire Article",
-    "link": "https://www.techspot.com/news/112997-spacex-reportedly-showing-investors-phone-prototype-months-after.html",
+    "title": "AMD Versal Premium Gen 2 MoP adaptive SoC integrates 32GB LPDDR5X to shrink board footprint by 60%",
+    "summary": "AMD has announced the Versal Premium Gen 2 Memory-on-Package (MoP) adaptive SoCs, adding an integrated memory option to the Premium Gen 2 family, a topic we covered back in November 2024. While the core silicon (dual-core Cortex-A72 + dual-core Cortex-R5F + high-end FPGA fabric) remains the same, the new devices (2VP3422, 2VP3522, and 2VP3622) integrate up to 32 GB of LPDDR5X memory directly inside the package. This removes the need for external high-speed memory on the board and reduces PCB area by up to 60%. This also eliminates high-speed memory routing on the carrier board, increasing the maximum memory bandwidth to 288 GB/s. AMD Versal Premium Gen2 MoP specifications: CPU cores Dual-core Arm Cortex-A72 application core, 48 KB/32 KB L1 Cache w/ parity & ECC; 1 MB L2 Cache w/ ECC Dual-core Arm Cortex R5F, 32 KB/32 KB L1 Cache, and 256 KB TCM w/ECC Memory on Package 32 GB of LPDDR5X DRAM [...] The post AMD Versal Premium Gen 2 MoP adaptive SoC integrates 32GB LPDDR5X to shrink board footprint by 60% appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/06/amd-versal-premium-gen-2-mop-adaptive-soc-integrates-32gb-lpddr5x-to-shrink-board-footprint-by-60/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-06T12:26:55.175449"
+  },
+  {
+    "title": "Best of Sensors: TI charges ahead with Dynamic Z-Track",
+    "summary": "Texas Instruments won Best of Sensors 2026 for the Power and Sustainability category with its single-chip battery fuel gauge, monitor and protector for lithium-ion battery packs.",
+    "link": "https://www.fiercesensors.com/ai/best-sensors-ti-charges-ahead-dynamic-z-track",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.176481"
+  },
+  {
+    "title": "Researchers built a tiny diving suit for cyborg cockroaches to survive underwater",
+    "summary": "These systems have already been tested in search-and-rescue scenarios and for inspecting infrastructure, but only in dry conditions. That's because insects like cockroaches rely on oxygen from the air, which limits where they can go. In real disaster sites, especially after flooding, that's a major drawback. Read Entire Article",
+    "link": "https://www.techspot.com/news/113002-researchers-built-tiny-diving-suit-cyborg-cockroaches-survive.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
     "quality_score": 10,
-    "processed_date": "2026-07-05T10:50:58.883544"
+    "processed_date": "2026-07-06T12:26:55.176948"
   },
   {
-    "title": "Meta's Pocket app lets you vibe-code games with zero coding knowledge",
-    "summary": "The Play Store listing page for Pocket describes the app as a creative platform for making and sharing \"gizmos,\" which Meta defines as \"small interactive thing(s)\" that users can \"tap and play with.\" The company added that gizmos are essentially mini-games that can be controlled using touch and tilt gestures.... Read Entire Article",
-    "link": "https://www.techspot.com/news/112995-meta-pocket-app-you-vibe-code-games-zero.html",
+    "title": "Sony clarifies that it will still make PlayStation discs after 2028, just not for new games",
+    "summary": "The clarification comes from a private message sent to PlayStation developers and publishers, first reported by Game File. Sony told partners they will still be able to place re-orders for existing disc games after the January 2028 deadline. Read Entire Article",
+    "link": "https://www.techspot.com/news/113007-sony-confirms-make-playstation-discs-after-2028-not.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-05T10:50:58.883676"
+    "processed_date": "2026-07-06T12:26:55.177101"
   },
   {
-    "title": "Amazon's satellite internet service is finally ready for real users sort of",
-    "summary": "Starlink's public beta offers a useful comparison. When SpaceX rolled out to the public in 2020, it had nearly 900 satellites in orbit, but the service was uneven. Early users in northern parts of the United States and Canada reported frequent interruptions and high sensitivity to obstructions. Speeds generally ranged... Read Entire Article",
-    "link": "https://www.techspot.com/news/112992-amazon-satellite-internet-service-finally-ready-real-users.html",
+    "title": "Intel Nova Lake-S midrange CPUs could be bringing AMD's X3D cache trick to more affordable chips",
+    "summary": "According to the post, each processor combines 6 \"Coyote Cove\" P-cores, 12 \"Arctic Wolf\" E-cores, and 4 LP-E cores. That mix suggests a design that balances compute throughput with background and low-power tasks, rather than just piling on more performance cores. Read Entire Article",
+    "link": "https://www.techspot.com/news/113000-intel-nova-lake-s-midrange-cpus-could-bringing.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-06T12:26:55.177275"
+  },
+  {
+    "title": "Bending Spoons bought Vimeo, Evernote, and AOL instead of chasing AI, it just had a $25.7 billion IPO",
+    "summary": "The Milan-based firm raised $1.68 billion in its Nasdaq debut this week, with shares climbing 40% above the IPO price. The stock closed at $40.50, up from $29, giving the company a market value of about $25.7 billion. That's a significant jump from roughly $14.5 billion in 2025, following a... Read Entire Article",
+    "link": "https://www.techspot.com/news/112999-bending-spoons-bought-vimeo-evernote-aol-instead-chasing.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.177428"
+  },
+  {
+    "title": "Google is testing a webcam CAPTCHA that scans your hand, but it's already been bypassed using a photo",
+    "summary": "Google is working on a new kind of challenge to improve its reCAPTCHA system, using biometric identification to confirm that the user is indeed human. The new method is officially named \"hand gesture verification\" (HGV), and, according to early testing, is mostly useless. Even worse, HGV might pose a significant... Read Entire Article",
+    "link": "https://www.techspot.com/news/112986-google-testing-webcam-based-captcha-scans-hand-but.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-05T10:50:58.883784"
+    "processed_date": "2026-07-06T12:26:55.177605"
+  },
+  {
+    "title": "Microsoft's new EU disclosure shows exactly how tech giants separate profits from where the work happens",
+    "summary": "Microsoft said nearly 40% of its pretax income was booked in Ireland, even though only about 3% of its global workforce is based in the country. In Germany, by contrast, the company reported less than half of 1% of its global profits. Across Europe as a whole, excluding Ireland, Microsoft... Read Entire Article",
+    "link": "https://www.techspot.com/news/113001-microsoft-new-eu-disclosure-shows-exactly-how-tech.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-06T12:26:55.177763"
+  },
+  {
+    "title": "Lenovo laptops are now shipping with YMTC SSDs, a sign of Chinese NAND entering the mainstream",
+    "summary": "Notebookcheck says this is the first YMTC laptop SSD it has tested and reports that the ThinkBook uses a 512GB M.2 2242 PCIe 4.0 drive, according to its teardown and performance testing. The ThinkBook 14 G9 IPL is a 14-inch office notebook built around Intel Core Ultra 200-series processors. It... Read Entire Article",
+    "link": "https://www.techspot.com/news/112998-lenovo-starts-shipping-business-laptops-chinese-made-ymtc.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-06T12:26:55.177925"
   }
 ]
