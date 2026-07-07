@@ -1,100 +1,4 @@
 {
-  "https://www.tomshardware.com/pc-components/cpus/intel-adds-igpu-less-mobile-chips-to-core-200h-lineup-raptor-lake-based-core-7-230h-and-core-5-205h-sport-disabled-graphics-for-small-form-factor-desktop-boards": {
-    "title": "Intel adds iGPU-less mobile chips to Core 200H lineup Raptor Lake-based Core 7 230H and Core 5 205H sport disabled graphics for small form factor desktop boards",
-    "fingerprint": "0573a93b9df85c0ca1d35a7dcf8f44c6",
-    "timestamp": 1780829720.048402,
-    "date": "2026-06-07T10:55:20.048407"
-  },
-  "https://www.tomshardware.com/pc-components/chipsets/amd-b650-expansion-cards-hit-retail-starting-at-usd199-add-four-m-2-pcie-4-0-slots-and-11-usb-ports-to-any-pc-with-a-pcie-slot": {
-    "title": "AMD B650 expansion cards hit retail starting at $199 add four M.2 PCIe 4.0 slots and 11 USB ports to any PC with a PCIe slot",
-    "fingerprint": "7b574fab4a0fa39afe452f5ff5bbff13",
-    "timestamp": 1780829720.048536,
-    "date": "2026-06-07T10:55:20.048537"
-  },
-  "https://www.tomshardware.com/tech-industry/cyber-security/creatives-sound-blaster-katana-v2x-can-be-hijacked-over-bluetooth": {
-    "title": "Gaming soundbar can be hijacked from over 16 yards away without touch or pairing the company allegedly refuses to label the blatant security flaw a cybersecurity risk",
-    "fingerprint": "a1a9e8b7f8eb9e330f917b0799d1990b",
-    "timestamp": 1780829720.048653,
-    "date": "2026-06-07T10:55:20.048653"
-  },
-  "https://www.tomshardware.com/desktops/gaming-pcs/usd6000-semi-truck-gaming-rig-just-got-a-massive-upgrade-cabin-overhaul-includes-new-racing-bucket-seat-pedals-and-other-accessories-to-level-up-their-truck": {
-    "title": "$6000 semi-truck gaming rig just got a massive upgrade cabin overhaul includes new racing bucket seat, pedals, and other accessories to level up their truck",
-    "fingerprint": "4214664fee033c8f2bb111052d300943",
-    "timestamp": 1780829720.048776,
-    "date": "2026-06-07T10:55:20.048777"
-  },
-  "https://www.tomshardware.com/pc-components/storage/the-floppy-disk-patent-was-granted-today-in-1972-when-80kb-took-up-8-inches-and-were-really-floppy": {
-    "title": "The Floppy Disk patent was granted today in 1972 when 80KB took up 8 inches and were really floppy",
-    "fingerprint": "fdf30c7d32f6d1d7bf27ca18f4287ec3",
-    "timestamp": 1780829720.048866,
-    "date": "2026-06-07T10:55:20.048866"
-  },
-  "https://www.tomshardware.com/3d-printing/prusa-research-goes-full-spectrum-in-anticipation-of-indx": {
-    "title": "Prusa Research goes full spectrum in anticipation of INDX",
-    "fingerprint": "72fba2bfb5d84b590f12674c10d76432",
-    "timestamp": 1780829720.048955,
-    "date": "2026-06-07T10:55:20.048956"
-  },
-  "https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890-aorus-elite-wifi7-plus-motherboard-review": {
-    "title": "Gigabyte Z890 Aorus Elite Wifi7 Plus Motherboard Review: Cost-conscious refresh board delivers (almost) all the fixens",
-    "fingerprint": "3f00dad266b4da9637ef5e74c637975f",
-    "timestamp": 1780829720.049069,
-    "date": "2026-06-07T10:55:20.049069"
-  },
-  "https://www.tomshardware.com/pc-components/pc-cases/taiwanese-startup-formulav-line-wants-to-break-into-us-market-with-two-new-unique-cases-company-expects-products-to-become-available-on-newegg-later-this-year": {
-    "title": "Taiwanese startup FormulaV Line wants to break into US market with two new unique cases company expects products to become available on Newegg later this year",
-    "fingerprint": "4d1fde0ffcc7ac11934f3584ac6392bf",
-    "timestamp": 1780829720.049197,
-    "date": "2026-06-07T10:55:20.049198"
-  },
-  "https://www.tomshardware.com/pc-components/ram/g-skill-explains-how-amd-expo-ull-unlocks-additional-performance-expanded-profiles-allow-memory-makers-to-include-subtiming-tweaks-for-the-first-time": {
-    "title": "G.Skill explains how AMD EXPO ULL unlocks additional performance expanded profiles allow memory makers to include subtiming tweaks for the first time",
-    "fingerprint": "38394a5b84a0c05d8e984d7cea292366",
-    "timestamp": 1780829720.049315,
-    "date": "2026-06-07T10:55:20.049316"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips": {
-    "title": "Huawei-led team claims it post-trained DeepSeek's 1.6-trillion-parameter model 1,000 Ascend 910C chips used in training",
-    "fingerprint": "13bc636eb4ac75dfab4424453e211b58",
-    "timestamp": 1780829720.049436,
-    "date": "2026-06-07T10:55:20.049436"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/unreleased-rtx-3050-ti-engineering-sample-appears-in-photos-and-benchmarks-the-rtx-3060-alternative-that-never-happened": {
-    "title": "Unreleased RTX 3050 Ti engineering sample appears in photos and benchmarks the RTX 3060 alternative that never happened",
-    "fingerprint": "51ae61b5c64d037503b9c358c91953f5",
-    "timestamp": 1780829720.049544,
-    "date": "2026-06-07T10:55:20.049545"
-  },
-  "https://www.cnx-software.com/2026/06/07/awesun-cloud-kvm-q1-review-an-ultra-compact-low-cost-kvm-over-ip-solution/": {
-    "title": "AweSun Cloud KVM Q1 Review An ultra-compact, low-cost KVM over IP solution tested with Windows 11 and Android clients",
-    "fingerprint": "a90da4b099fc176cf77e411878456bff",
-    "timestamp": 1780829720.05014,
-    "date": "2026-06-07T10:55:20.050141"
-  },
-  "https://www.techspot.com/news/112677-nsa-using-anthropic-claude-mythos-offensive-cyber-ops.html": {
-    "title": "Anthropic is blacklisted by the Pentagon and being used by the NSA at the same time",
-    "fingerprint": "5836576dbd9635b83f3a2f9ed249d816",
-    "timestamp": 1780829720.051485,
-    "date": "2026-06-07T10:55:20.051487"
-  },
-  "https://www.techspot.com/news/112673-teamgroup-built-external-ssd-destroys-itself-when-you.html": {
-    "title": "TeamGroup built an external SSD that destroys itself when you send it a text message",
-    "fingerprint": "ed70c450179a8a8c6da4a61de3298502",
-    "timestamp": 1780829720.051602,
-    "date": "2026-06-07T10:55:20.051603"
-  },
-  "https://www.techspot.com/news/112674-summer-game-fest-2026-virtua-fighter-back-guild.html": {
-    "title": "Summer Game Fest 2026: Virtua Fighter is back, Guild Wars 3 is real, and Final Fantasy VII's trilogy is ending",
-    "fingerprint": "f8722f1a749955aab115cc43cd1179d0",
-    "timestamp": 1780829720.051709,
-    "date": "2026-06-07T10:55:20.051710"
-  },
-  "https://www.techspot.com/news/112676-google-tests-making-ai-mode-default-chrome-error.html": {
-    "title": "Google tests making AI Mode the default in Search, then says it was an error",
-    "fingerprint": "2f2a555a833b52bb546a7c8285a36cad",
-    "timestamp": 1780829720.051804,
-    "date": "2026-06-07T10:55:20.051805"
-  },
   "https://www.tomshardware.com/networking/finland-concludes-baltic-cable-sabotage-investigation-with-four-suspects-referred-to-prosecutors": {
     "title": "Four suspects identified in Finland undersea cable damage investigation criminal case referred to prosecutors for consideration of charges",
     "fingerprint": "29b1e186b9fed6f42639b908aab5c9d4",
@@ -4732,5 +4636,191 @@
     "fingerprint": "068a27909724c301a1ccb269950b0f4c",
     "timestamp": 1783340815.177922,
     "date": "2026-07-06T12:26:55.177923"
+  },
+  "https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-sample-worlds-densest-3d-nand-new-332-layer-beats-samsungs-400-layer-nand": {
+    "title": "Kioxia and Sandisk sample world's densest 3D NAND new 332-Layer beats Samsung s 400-Layer NAND",
+    "fingerprint": "868d690db88c0f13ad80ba0d9409748f",
+    "timestamp": 1783423785.568424,
+    "date": "2026-07-07T11:29:45.568428"
+  },
+  "https://www.tomshardware.com/software/linux/unix-copyright-code-infringement-lawsuit-is-back-from-the-dead-ibm-still-under-fire-from-xinuos-about-2003-era-bytes": {
+    "title": "Unix copyright code infringement lawsuit is back from the dead IBM still under fire from Xinuos over 2003-era bytes",
+    "fingerprint": "04918940e2ead10ce499f42963b6b9c7",
+    "timestamp": 1783423785.568535,
+    "date": "2026-07-07T11:29:45.568536"
+  },
+  "https://www.tomshardware.com/maker-stem/modder-creates-8-192-core-gpu-at-home-out-of-risc-v-microcontrollers-full-graphics-card-will-draw-over-2-000-watts-of-power-requires-a-3d-printer-to-program": {
+    "title": "Modder builds 8,192-core GPU at home out of RISC-V microcontrollers full \"graphics card\" draws over 2,000 watts of power, requires a 3D printer to program",
+    "fingerprint": "a978eac82d0692273e042f601673f606",
+    "timestamp": 1783423785.568642,
+    "date": "2026-07-07T11:29:45.568643"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/intel-patent-reveals-new-xbm-memory-architecture-that-ditches-hbms-costly-silicon-interposer-backend-transistor-dram-stack-uses-ucie-links-and-built-in-repair-to-ease-ais-memory-bottleneck": {
+    "title": "Intel patent reveals new XBM memory architecture that ditches HBM's costly silicon interposer backend-transistor DRAM stack uses UCIe links and built-in repair to ease AI's memory bottleneck",
+    "fingerprint": "fe78c324afcf9876282e8dd6571cdd2d",
+    "timestamp": 1783423785.568755,
+    "date": "2026-07-07T11:29:45.568756"
+  },
+  "https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026": {
+    "title": "Samsung chip division's single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit",
+    "fingerprint": "fa8c965f368aea3e856f81e257796386",
+    "timestamp": 1783423785.568862,
+    "date": "2026-07-07T11:29:45.568863"
+  },
+  "https://www.tomshardware.com/pc-components/ddr5/china-made-cxmt-memory-now-supports-faster-speeds-on-msis-amd-motherboards-new-bios-adds-ddr5-8200-validation-on-dual-dimm-ddr5-7200-on-quad-dimm-models": {
+    "title": "China-made CXMT memory now supports faster speeds on MSI's AMD motherboards new BIOS adds DDR5-8200 validation on dual-DIMM, DDR5-7200 on quad-DIMM models",
+    "fingerprint": "40760dd4dbbddfa3172a8af680fa9d88",
+    "timestamp": 1783423785.568972,
+    "date": "2026-07-07T11:29:45.568972"
+  },
+  "https://www.tomshardware.com/video-games/xbox/microsoft-resets-xbox-by-cutting-3-200-jobs-this-year-divesting-five-game-studios-firm-cites-margins-that-are-3-10x-lower-than-comparable-platform-and-publishing-businesses": {
+    "title": "Microsoft 'resets' Xbox by cutting 3,200 jobs this year, divesting five game studios firm cites 'margins that are 3-10x lower than comparable platform and publishing businesses'",
+    "fingerprint": "fdda166ec31b1c07f58d5a751a06223e",
+    "timestamp": 1783423785.569076,
+    "date": "2026-07-07T11:29:45.569076"
+  },
+  "https://www.tomshardware.com/peripherals/printers/raspberry-pi-powered-open-source-printer-earns-design-award-nomination-but-still-has-no-price-nine-months-after-reveal": {
+    "title": "Working prototype of open-source printer that promises user-repairability and no subscriptions appears in first video DRM-free 'Open Printer' inkjet still has no announced price, ship date, or print speed, nine months after it first appeared",
+    "fingerprint": "e904b329678bdfaab512615ecde5b491",
+    "timestamp": 1783423785.569201,
+    "date": "2026-07-07T11:29:45.569202"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/embargo-mon-july-6-8am-pt-1100-edt-amd-ryzen-ai-halo-review": {
+    "title": "AMD Ryzen AI Halo review: AMD builds a DGX Spark of its own",
+    "fingerprint": "fba9e7bbcc39751fe6b9e104fa0125ec",
+    "timestamp": 1783423785.569311,
+    "date": "2026-07-07T11:29:45.569312"
+  },
+  "https://www.tomshardware.com/video-games/pc-gaming/you-can-now-use-your-sony-headphones-as-a-real-time-head-tracker-for-race-and-flight-simulators-on-pc-several-hundred-games-already-supported-enthusiast-creates-open-source-app-that-translates-live-sensor-data-into-in-game-camera-controls": {
+    "title": "You can now use your Sony headphones as a free real-time head tracker for race and flight simulators on PC, several hundred games already supported enthusiast creates open-source app that translates live sensor data into in-game camera controls",
+    "fingerprint": "8f5de9b4a899fbe3e23f34c381f6e4cb",
+    "timestamp": 1783423785.56943,
+    "date": "2026-07-07T11:29:45.569431"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/nvidias-kyber-rack-for-rubin-ultra-slips-to-2028": {
+    "title": "Nvidia's Kyber rack for Rubin Ultra reportedly delayed to 2028, stopgap solution also axed due to customer pushback Analyst firm SemiAnalysis says PCB midplane problems led to the delay [Updated]",
+    "fingerprint": "94861b707e18c07c1aa5441f8ab403c4",
+    "timestamp": 1783423785.569529,
+    "date": "2026-07-07T11:29:45.569530"
+  },
+  "https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan": {
+    "title": "Nvidia and Intel tout homegrown American chip supply chain prowess as country bolsters local production, but gaps remain crucial Blackwell packaging steps remain offshore as projects grow in scope and scale",
+    "fingerprint": "083b8f543442a9b7f853a57397f03d81",
+    "timestamp": 1783423785.569635,
+    "date": "2026-07-07T11:29:45.569636"
+  },
+  "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon": {
+    "title": "Electric drone breaks world air speed record at 434 mph, designed for anti-aircraft interceptor roles German firm convincingly smashed the official 409 mph record, hopes to get stamp of approval from Guinness soon",
+    "fingerprint": "80129c738fbbd2465580b8ecbbca54d5",
+    "timestamp": 1783423785.569744,
+    "date": "2026-07-07T11:29:45.569745"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/chinas-huawei-to-enter-south-korean-ai-chip-market-with-new-atlas-superpods-clusters-pack-8-192-ascend-950-accelerators-per-deployment-reportedly-challenges-nvidia-dominance-with-tripled-inference-performance-of-h20-at-one-quarter-the-cost": {
+    "title": "China s Huawei to enter South Korean AI chip market with new Atlas SuperPods, clusters pack 8,192 Ascend 950 accelerators per deployment reportedly challenges Nvidia dominance with 'tripled inference performance' of H20 at one-quarter the cost",
+    "fingerprint": "0dfec0b2d2f335f8e8d267fbc33e5cd7",
+    "timestamp": 1783423785.569859,
+    "date": "2026-07-07T11:29:45.569860"
+  },
+  "https://www.cnx-software.com/2026/07/07/esp32-c5-devkit-offers-2-8-inch-capacitive-touch-display-dual-band-wi-fi-6-bluetooth-5-le-lipo-battery-support/": {
+    "title": "ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support",
+    "fingerprint": "737f0610c0fcae6dd2ed80f4300c67c3",
+    "timestamp": 1783423785.570416,
+    "date": "2026-07-07T11:29:45.570416"
+  },
+  "https://www.cnx-software.com/2026/07/07/mercedes-benz-hosts-open-source-hardware-automotive-rapid-development-platform-ardep/": {
+    "title": "Mercedes-Benz hosts open-source hardware Automotive Rapid DEvelopment Platform (ARDEP)",
+    "fingerprint": "68b46550293dc0a2a33117a5c547e8c6",
+    "timestamp": 1783423785.57059,
+    "date": "2026-07-07T11:29:45.570590"
+  },
+  "https://www.cnx-software.com/2026/07/07/pocketmage-esp32-s3-personal-digital-assistant/": {
+    "title": "PocketMage An ESP32-S3-based Personal Digital Assistant (Crowdfunding)",
+    "fingerprint": "4c54d002f72b864e70975049ad7f3e96",
+    "timestamp": 1783423785.570751,
+    "date": "2026-07-07T11:29:45.570751"
+  },
+  "https://www.fiercesensors.com/electronics/smp-techstrong-joint-venture-expands-sensor-manufacturing": {
+    "title": "SMP Techstrong joint venture expands sensor manufacturing",
+    "fingerprint": "49ca130099a23923105a3585b4ab2d08",
+    "timestamp": 1783423785.571671,
+    "date": "2026-07-07T11:29:45.571673"
+  },
+  "https://www.techspot.com/news/113028-nvidia-rtx-5080-super-415w-tdp-appears-seasonic.html": {
+    "title": "Nvidia RTX 5080 Super with 415W TDP appears in Seasonic PSU calculator",
+    "fingerprint": "cf7eca5a8a9d35f8eb94937a7f054ce7",
+    "timestamp": 1783423785.572057,
+    "date": "2026-07-07T11:29:45.572059"
+  },
+  "https://www.techspot.com/review/3143-amd-x870-motherboards-full/": {
+    "title": "AMD X870 Motherboard Roundup: 53 Motherboards Tested",
+    "fingerprint": "23d662aff26a0f91c053345cd2565e54",
+    "timestamp": 1783423785.572227,
+    "date": "2026-07-07T11:29:45.572228"
+  },
+  "https://www.techspot.com/news/113017-microsoft-cutting-3200-xbox-jobs-spinning-off-four.html": {
+    "title": "Microsoft is cutting 3,200 Xbox jobs and spinning off four game studios",
+    "fingerprint": "9b2441d1c40abe5fa6460a7cff49cfee",
+    "timestamp": 1783423785.572386,
+    "date": "2026-07-07T11:29:45.572387"
+  },
+  "https://www.techspot.com/news/113015-steam-machine-appeared-fail-red-line-death-came.html": {
+    "title": "Steam Machine owner reports a \"Red Line of Death\" days after launch, but it fixed itself",
+    "fingerprint": "d3fadefc8686d99904099eee6ff0c62a",
+    "timestamp": 1783423785.572505,
+    "date": "2026-07-07T11:29:45.572505"
+  },
+  "https://www.techspot.com/news/113012-microsoft-has-hidden-windows-11-edition-supports-6tb.html": {
+    "title": "Microsoft has a hidden Windows 11 edition that supports 6TB of RAM and 256 CPU cores",
+    "fingerprint": "db7dce466851be95af1399b642df8bc5",
+    "timestamp": 1783423785.572616,
+    "date": "2026-07-07T11:29:45.572617"
+  },
+  "https://www.techspot.com/downloads/5077-nvidia-inspector.html": {
+    "title": "Nvidia Profile Inspector 3.0 modernizes the popular driver profile editor",
+    "fingerprint": "ca8527918e5881bcdb49e99f039fe311",
+    "timestamp": 1783423785.572718,
+    "date": "2026-07-07T11:29:45.572719"
+  },
+  "https://www.techspot.com/news/113014-why-gen-z-falling-love-film-photography-rejecting.html": {
+    "title": "Why Gen Z is falling in love with film photography and rejecting the algorithm along with it",
+    "fingerprint": "d16f1d06694c9c511319eefb110e5fc8",
+    "timestamp": 1783423785.572814,
+    "date": "2026-07-07T11:29:45.572815"
+  },
+  "https://www.techspot.com/news/113010-philips-introduces-triple-mode-monitors-different-gaming-scenarios.html": {
+    "title": "Philips' new \"triple-mode\" monitors go all the way down to 720p for maximum speed",
+    "fingerprint": "58c58eddbdaf620c9029c12f6a4b198d",
+    "timestamp": 1783423785.572918,
+    "date": "2026-07-07T11:29:45.572918"
+  },
+  "https://www.techspot.com/news/113011-samsung-earn-more-profit-2026-than-did-over.html": {
+    "title": "Samsung will earn more profit in 2026 than it did over the previous 40 years combined thanks to the AI boom",
+    "fingerprint": "e5e263cea6c68ac98a4a2a7eb5c75ae0",
+    "timestamp": 1783423785.573025,
+    "date": "2026-07-07T11:29:45.573025"
+  },
+  "https://www.techspot.com/news/113006-spacex-burned-up-260-starlink-satellites-six-months.html": {
+    "title": "SpaceX intentionally burned up 260 Starlink satellites in the last six months, with hundreds more set to follow",
+    "fingerprint": "25a7e180d4b3f2ca49f69cde56ae2dc9",
+    "timestamp": 1783423785.573129,
+    "date": "2026-07-07T11:29:45.573129"
+  },
+  "https://www.techspot.com/news/113005-one-windows-most-hated-features-helped-catch-19.html": {
+    "title": "One of Windows' most hated features just helped catch a 19-year-old hacker",
+    "fingerprint": "6af8b4fb928c6f45d17a55fef1c91542",
+    "timestamp": 1783423785.573264,
+    "date": "2026-07-07T11:29:45.573264"
+  },
+  "https://www.techspot.com/news/113004-supreme-court-limits-police-use-geofence-warrants-phone.html": {
+    "title": "The Supreme Court just ruled that police need a warrant to use phone location data",
+    "fingerprint": "a019cb19525c1e4f92eaac01d4505e20",
+    "timestamp": 1783423785.573373,
+    "date": "2026-07-07T11:29:45.573373"
+  },
+  "https://www.techspot.com/news/113008-nvidia-rtx-3060-returns-us-stores-original-2021.html": {
+    "title": "Nvidia's RTX 3060 returns to store shelves at its original 2021 price",
+    "fingerprint": "cc4393244149c6af789993559cb3596e",
+    "timestamp": 1783423785.573468,
+    "date": "2026-07-07T11:29:45.573469"
   }
 }

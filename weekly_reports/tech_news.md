@@ -1,103 +1,95 @@
 # 📰 Tech News
-**Week of July 06, 2026**
+**Week of July 07, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-07-06 12:28
+- **Articles this week:** 8
+- **Report generated:** 2026-07-07 11:30
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition review: A masterclass in mobility and usability 
+### 1. Working prototype of open-source printer that promises user-repairability and no subscriptions appears in first video DRM-free 'Open Printer' inkjet still has no announced price, ship date, or print speed, nine months after it first appeared 
 
-The Lenovo ThinkPad X1 Carbon Gen 14 is a top-notch ultraportable laptop with exceptional quality and OLED display, excelling in mobility and usability.
+Open Tools' Open Printer, an open-source inkjet printer, has been nominated for two French Design Awards. The printer promises user-repairability and no subscription fees. Its release details remain unknown.
 
-💡 *Exceptional portability meets high-quality display and performance seamlessly.*
+💡 *Innovative open-source design challenges traditional printer business models.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-review)
-
----
-
-### 2. Turtle Beach Command Series KB7 Review: A keyboard with a touchscreen and a lot of potential 
-
-The Turtle Beach Command Series KB7 TKL keyboard features a 4.3-inch touchscreen, offering a unique navigation experience. However, its potential is hindered by a lack of supporting software. This keyboard aims to revolutionize keyboard navigation but falls short.
-
-💡 *Lack of software cripples innovative keyboard navigation features*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-keyboards/turtle-beach-command-series-kb7-review)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/printers/raspberry-pi-powered-open-source-printer-earns-design-award-nomination-but-still-has-no-price-nine-months-after-reveal)
 
 ---
 
-### 3. Researchers built a tiny diving suit for cyborg cockroaches to survive underwater 
+### 2. PocketMage An ESP32-S3-based Personal Digital Assistant (Crowdfunding) 
 
-Researchers have created a tiny diving suit for cyborg cockroaches to survive underwater, addressing a major limitation in their previous search-and-rescue applications.
+PocketMage is a personal digital assistant with a 3.1-inch E Ink display and a full tactile QWERTY keyboard. It features Wi-Fi, Bluetooth, and a microSD card slot for expansion. The device is built around an ESP32-S3 microcontroller.
 
-💡 *Enhancing insect capabilities expands disaster site exploration possibilities.*
+💡 *Reviving the PDA concept with modern wireless connectivity and compact design.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113002-researchers-built-tiny-diving-suit-cyborg-cockroaches-survive.html)
-
----
-
-### 4. Germany's massive 60,000-game preservation project collapses after 1.5 million funding dries up world's largest game archive was entirely publicly available, now abandoned just as Sony kills physical media 
-
-Germany's massive 60,000-game archive project collapses due to expired funding. The project, which made the world's largest game archive publicly available, is now being wound down. This comes as Sony is phasing out physical media.
-
-💡 *Preserving gaming history faces significant challenges without stable funding.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/germanys-1-5-million-project-to-build-the-worlds-largest-game-archive-collapses-after-funding-dries-up)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/07/pocketmage-esp32-s3-personal-digital-assistant/)
 
 ---
 
-### 5. Hannah Montana Linux gets modern remaster after nearly two decades Sweet niblets, new v26 is built on Debian with a re-skin of KDE Plasma 
+### 3. Steam Machine owner reports a "Red Line of Death" days after launch, but it fixed itself 
 
-Say whaaaat? Hannah Montana Linux is back. Basically abandonware since 2009, the distro has returned with a modern kernel and about 18 years worth of patches.
+A Steam Machine owner reported a 'Red Line of Death' issue, but it resolved on its own. This incident raises concerns about the device's reliability. The Steam Machine's launch is still in its early stages.
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/hannah-montana-linux-gets-modern-remaster-after-nearly-two-decades-sweet-niblets-new-v26-is-built-on-debian-with-a-re-skin-of-kde-plasma)
+💡 *Early reliability issues may impact Steam Machine's long-term consumer trust.*
 
----
-
-### 6. Jim Keller's startup is building a factory to mass-produce small semiconductor fabs Atomic Semi rebrands as 'Fab2' underlining intended role as a 'fab fab' 
-
-Atomic Semi rebranded as Fab2 to mass-produce small semiconductor fabs, emphasizing its role as a 'fab fab' that builds other fabrication facilities.
-
-💡 *Mass-producing semiconductor fabs could democratize access to chip manufacturing.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas)
+🔗 [Read Full Article](https://www.techspot.com/news/113015-steam-machine-appeared-fail-red-line-death-came.html)
 
 ---
 
-### 7. Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered employees told to switch to Qoder as the rift between the firms widens 
+### 4. Philips' new "triple-mode" monitors go all the way down to 720p for maximum speed 
 
-Alibaba banned Claude Code due to a hidden China-detection backdoor, prompting staff to switch to Qoder as tensions with Anthropic escalate.
+Philips' Evnia monitors offer triple-mode display, switching between gaming modes quickly.
 
-💡 *Escalating tech rivalry exposes sensitive AI code vulnerabilities publicly.*
+💡 *Adaptive display modes for optimal gaming performance and efficiency.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-bans-anthropics-claude-code-after-an-alleged-hidden-china-detection-backdoor-is-uncovered-employees-told-to-switch-to-qoder-as-the-rift-between-the-firms-widens)
-
----
-
-### 8. Sony clarifies that it will still make PlayStation discs after 2028, just not for new games 
-
-Sony will still produce PlayStation discs after 2028, but only for existing titles.
-
-💡 *Long-term game support for loyal player bases is key.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113007-sony-confirms-make-playstation-discs-after-2028-not.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113010-philips-introduces-triple-mode-monitors-different-gaming-scenarios.html)
 
 ---
 
-### 9. Google is testing a webcam CAPTCHA that scans your hand, but it's already been bypassed using a photo 
+### 5. Unix copyright code infringement lawsuit is back from the dead IBM still under fire from Xinuos over 2003-era bytes 
 
-Google's new 'hand gesture verification' CAPTCHA has been bypassed using a photo, rendering it useless.
+IBM faces lawsuit from Xinuos over alleged Unix copyright infringement from 2003-era code. A recent hearing was held on June 22. The case appears to be ongoing.
 
-💡 *Biometric security measures can be easily compromised with digital images.*
+💡 *Legacy code copyright disputes can still lead to prolonged litigation*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112986-google-testing-webcam-based-captcha-scans-hand-but.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/unix-copyright-code-infringement-lawsuit-is-back-from-the-dead-ibm-still-under-fire-from-xinuos-about-2003-era-bytes)
+
+---
+
+### 6. Why Gen Z is falling in love with film photography and rejecting the algorithm along with it 
+
+Gen Z is embracing film photography as a counter to algorithm-driven digital culture, seeking a more authentic and tactile experience. This resurgence is driven by a desire to break free from the curated and superficial nature of social media. By using film cameras, they're able to capture genuine moments and express themselves in a more organic way.
+
+💡 *Authenticity and human connection in a digitally curated world.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113014-why-gen-z-falling-love-film-photography-rejecting.html)
+
+---
+
+### 7. Nvidia's RTX 3060 returns to store shelves at its original 2021 price 
+
+The Nvidia RTX 3060 is back in stock at Newegg for $329.99, its original 2021 launch price. The listing was created on July 2 and published on July 5. This marks a significant price drop for the graphics card.
+
+💡 *Nvidia RTX 3060 returns to affordable prices after long price surge.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113008-nvidia-rtx-3060-returns-us-stores-original-2021.html)
+
+---
+
+### 8. Kioxia and Sandisk sample world's densest 3D NAND new 332-Layer beats Samsung s 400-Layer NAND 
+
+Kioxia and SanDisk have begun sampling their BiCS10 3D NAND technology, which boasts 332 active layers and an areal capacity of over 29 Gb/mm2.
+
+💡 *Industry leaders push storage density limits with record-breaking innovation.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-sample-worlds-densest-3d-nand-new-332-layer-beats-samsungs-400-layer-nand)
 
 ---
 

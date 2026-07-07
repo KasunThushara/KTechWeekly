@@ -1,195 +1,155 @@
 # 🤖 AI & ML
-**Week of July 06, 2026**
+**Week of July 07, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 18
-- **Report generated:** 2026-07-06 12:28
+- **Articles this week:** 14
+- **Report generated:** 2026-07-07 11:30
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Tiny Calixto Systems AM62L STAMP SOM targets industrial automation, HMI applications, EV chargers 
+### 1. Mercedes-Benz hosts open-source hardware Automotive Rapid DEvelopment Platform (ARDEP) ⭐
 
-Calixto Systems introduced the AM62L STAMP SOM, a tiny module for industrial automation, HMIs, and EV chargers, featuring a Texas Instruments AM62L dual-core Arm Cortex-A53 CPU and various I/Os, suitable for embedded Linux applications.
+Mercedes-Benz has released an open-source hardware platform called ARDEP, hosted on their GitHub account, featuring an STMicroelectronics STM32G474VE microcontroller with various transceivers and accelerators.
 
-💡 *Tiny, secure, and feature-rich module for industrial and IoT applications.*
+💡 *Accelerated automotive development with open-source hardware and software collaboration.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/06/tiny-calixto-systems-am62l-stamp-som-targets-industrial-automation-hmi-applications-ev-chargers/)
-
----
-
-### 2. Researchers built a tiny diving suit for cyborg cockroaches to survive underwater 
-
-Researchers have created a tiny diving suit for cyborg cockroaches to survive underwater, addressing a major limitation in their previous search-and-rescue applications.
-
-💡 *Enhancing insect capabilities expands disaster site exploration possibilities.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113002-researchers-built-tiny-diving-suit-cyborg-cockroaches-survive.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/07/mercedes-benz-hosts-open-source-hardware-automotive-rapid-development-platform-ardep/)
 
 ---
 
-### 3. Lenovo laptops are now shipping with YMTC SSDs, a sign of Chinese NAND entering the mainstream 
+### 2. AMD Ryzen AI Halo review: AMD builds a DGX Spark of its own ⭐
 
-Lenovo laptops are shipping with YMTC SSDs, marking a Chinese NAND entry into the mainstream. The ThinkBook 14 G9 IPL uses a 512GB M.2 2242 PCIe 4.0 drive. This is Notebookcheck's first test of a YMTC laptop SSD.
+The Ryzen AI Halo offers turn-key AI capabilities with first-party software support, but its performance and application compatibility trail Nvidia's offerings and it's priced high.
 
-💡 *Chinese NAND manufacturers gain global market traction*
+💡 *AI hardware competition intensifies with AMD's Ryzen AI Halo launch.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112998-lenovo-starts-shipping-business-laptops-chinese-made-ymtc.html)
-
----
-
-### 4. Steam Machine interview full transcript: Valve engineers discuss $1,049 pricing, compact design, component shortages, and Windows support 
-
-Valve engineers discuss the Steam Machine's pricing, compact design, and Windows support. They address concerns over the $1,049 price tag and component shortages. The interview provides insight into the engineering and development of the Steam Machine.
-
-💡 *Steam Machines may not be as affordable as initially expected by consumers.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/steam-machine-interview-full-transcript-valve-engineers-discuss-usd1-049-pricing-compact-design-component-shortages-and-windows-support)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/embargo-mon-july-6-8am-pt-1100-edt-amd-ryzen-ai-halo-review)
 
 ---
 
-### 5. Wisconsin residents file class-action lawsuit against Microsoft's 'world's most powerful AI data center' due to data center noise plaintiffs also mention construction noise and extreme light pollution from $7.3 billion facility 
+### 3. Intel patent reveals new XBM memory architecture that ditches HBM's costly silicon interposer backend-transistor DRAM stack uses UCIe links and built-in repair to ease AI's memory bottleneck 
 
-Wisconsin residents file a class-action lawsuit against Microsoft over noise and light pollution from a $7.3 billion data center. The lawsuit also addresses construction noise as a concern. Residents are seeking compensation for the disruption caused by the facility.
+Intel's XBM patent offers a cost-effective alternative to HBM memory, utilizing backend-transistor DRAM and UCIe links.
 
-💡 *Community impact highlights the need for responsible development and environmental considerations.*
+💡 *Revolutionizing memory architecture for faster, cheaper AI data processing.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/wisconsin-residents-file-class-action-lawsuit-against-microsofts-worlds-most-powerful-ai-data-center-due-to-data-center-noise-plaintiffs-also-mention-construction-noise-and-extreme-light-pollution-from-usd7-3-billion-facility)
-
----
-
-### 6. Bigme introduces a color e-ink monitor that could reportedly hit 60 FPS 25.3-inch display will come with a 3200 x 1800 resolution and support for 4096 colors 
-
-Bigme introduces a 25.3-inch e-ink monitor with 60 FPS, 3200 x 1800 resolution, and 4096 colors, suitable for various tasks beyond reading.
-
-💡 *Blurs line between e-ink and traditional displays for everyday use.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/bigme-introduces-a-color-e-ink-monitor-that-could-reportedly-hit-60-fps-25-3-inch-display-will-come-with-a-3200-x-1800-resolution-and-support-for-4096-colors)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-patent-reveals-new-xbm-memory-architecture-that-ditches-hbms-costly-silicon-interposer-backend-transistor-dram-stack-uses-ucie-links-and-built-in-repair-to-ease-ais-memory-bottleneck)
 
 ---
 
-### 7. Get an RTX 3060 with 12 GB of VRAM for just $329.99 at Newegg MSI Ventus 2X OC model back in stock with free shipping 
+### 4. Working prototype of open-source printer that promises user-repairability and no subscriptions appears in first video DRM-free 'Open Printer' inkjet still has no announced price, ship date, or print speed, nine months after it first appeared 
 
-Get the MSI Ventus 2X OC RTX 3060 12 GB for $329.99 with free shipping on Newegg.
+Open Tools' Open Printer, an open-source inkjet printer, has been nominated for two French Design Awards. The printer promises user-repairability and no subscription fees. Its release details remain unknown.
 
-💡 *Affordable high-end GPU option for gamers and content creators.*
+💡 *Innovative open-source design challenges traditional printer business models.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-an-rtx-3060-with-12-gb-of-vram-for-just-usd329-99-at-newegg-msi-ventus-2x-oc-model-back-in-stock-with-free-shipping)
-
----
-
-### 8. RAMpocalyse pricing prompts maker to construct his own memory using ancient Apollo-era tech USB drive resurrects hand-threaded magnetic core memory using salvaged Russian computer parts 
-
-A DIYer created a magnetic core memory USB drive using ancient tech and salvaged computer parts, but it has limited data capacity.
-
-💡 *Reviving outdated tech offers glimpses of innovation from past computing eras.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/rampocalyse-pricing-prompts-maker-to-construct-his-own-memory-using-ancient-apollo-era-tech-usb-drive-resurrects-hand-threaded-magnetic-core-memory-using-salvaged-russian-computer-parts)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/printers/raspberry-pi-powered-open-source-printer-earns-design-award-nomination-but-still-has-no-price-nine-months-after-reveal)
 
 ---
 
-### 9. Germany's massive 60,000-game preservation project collapses after 1.5 million funding dries up world's largest game archive was entirely publicly available, now abandoned just as Sony kills physical media 
+### 5. China s Huawei to enter South Korean AI chip market with new Atlas SuperPods, clusters pack 8,192 Ascend 950 accelerators per deployment reportedly challenges Nvidia dominance with 'tripled inference performance' of H20 at one-quarter the cost 
 
-Germany's massive 60,000-game archive project collapses due to expired funding. The project, which made the world's largest game archive publicly available, is now being wound down. This comes as Sony is phasing out physical media.
+Huawei enters South Korea's AI chip market with Atlas SuperPods, challenging Nvidia's dominance.
 
-💡 *Preserving gaming history faces significant challenges without stable funding.*
+💡 *Aggressive pricing and improved performance challenge Nvidia's market control*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/germanys-1-5-million-project-to-build-the-worlds-largest-game-archive-collapses-after-funding-dries-up)
-
----
-
-### 10. US Navy is flight-testing 3D printed fighter jet parts that cut repair times in half forward-deployed 3D printers generate composite parts, flight testing to begin on operational F/A-18 Super Hornets 
-
-The US Navy is testing 3D-printed patches for F/A-18 Super Hornets, enabling forward bases to repair composite parts without relying on long logistics supply chains.
-
-💡 *Reducing repair times by 50% with on-site 3D printing capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/us-navy-testing-3d-printed-fighter-jet-parts-for-quick-repairs-composite-parts-printed-at-forward-deployed-3d-printers-to-be-flight-tested-on-operational-f-a-18-super-hornets)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/chinas-huawei-to-enter-south-korean-ai-chip-market-with-new-atlas-superpods-clusters-pack-8-192-ascend-950-accelerators-per-deployment-reportedly-challenges-nvidia-dominance-with-tripled-inference-performance-of-h20-at-one-quarter-the-cost)
 
 ---
 
-### 11. Windows 11 identifier code used to track Scattered Spider perp after Microsoft shared info with FBI 19-year-old US-Estonian hacker arrested over alleged ties to infamous extortion group 
+### 6. Steam Machine owner reports a "Red Line of Death" days after launch, but it fixed itself 
 
-A 19-year-old US-Estonian hacker was arrested for alleged ties to Scattered Spider. He was extradited from Finland to the U.S. after Microsoft helped the FBI. The hacker is awaiting trial for a 2025 attack on a luxury jewelry retailer.
+A Steam Machine owner reported a 'Red Line of Death' issue, but it resolved on its own. This incident raises concerns about the device's reliability. The Steam Machine's launch is still in its early stages.
 
-💡 *Microsoft collaborated with the FBI to track down a cybercrime suspect.*
+💡 *Early reliability issues may impact Steam Machine's long-term consumer trust.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows-11-identifier-used-to-track-scattered-spider-perp-after-microsoft-shared-info-with-fbi-19-year-old-us-estonian-hacker-arrested-over-alleged-ties-to-infamous-extortion-group)
-
----
-
-### 12. Grab this RTX 5070 Ti OLED gaming laptop at $300 off Acer Predator Helios Neo 16S AI drops to $1,899.99 
-
-The Acer Predator Helios Neo 16S AI features an OLED display, Intel Core Ultra 9 275HX, and RTX 5070 Ti graphics, now available at a discounted price of $1,899.99.
-
-💡 *Powerful gaming laptop now accessible at a significantly lower price point.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/grab-this-rtx-5070-ti-oled-gaming-laptop-at-usd300-off-acer-predator-helios-neo-16s-ai-drops-to-usd1-899-99)
+🔗 [Read Full Article](https://www.techspot.com/news/113015-steam-machine-appeared-fail-red-line-death-came.html)
 
 ---
 
-### 13. PS5 Disc Drive purchase cap predates Sony's disc cutoff 'high demand' order limit has been on the store page since at least March 2025 
+### 7. China-made CXMT memory now supports faster speeds on MSI's AMD motherboards new BIOS adds DDR5-8200 validation on dual-DIMM, DDR5-7200 on quad-DIMM models 
 
-The PS5 disc drive purchase cap has been on the store page since at least March 2025, predating Sony's disc cutoff 'high demand' order limit. A petition against the disc cutoff has gained over 74,000 signatures. The petition is closing in on its 75,000 goal.
+MSI has validated CXMT RAM for AMD motherboards, achieving speeds up to 8,200 MT/s. The dual-DIMM models can handle these high frequencies better than quad-DIMM variants. This expansion supports region-bound Chinese RAM for faster speeds.
 
-💡 *PS5 disc drive cap was in place before demand order limit announcement.*
+💡 *Chinese memory modules achieve high speeds with MSI's AM5 motherboard validation.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/ps5-disc-drive-purchase-cap-predates-sonys-disc-cutoff)
-
----
-
-### 14. You can now play Half-Life 2 right inside your browser at over 100 FPS with save states & console support Ingenious port recreates the entire game campaign using WebGL 2 
-
-An unofficial browser port of Half-Life 2 has been developed in three months, allowing players to play the original campaign online without downloading anything. The port features WebGL 2 and Source console integration for cheats. It also supports save states and achieves over 100 FPS.
-
-💡 *Accessible, high-performance gaming without downloads or installations*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/you-can-now-play-half-life-2-right-inside-your-browser-at-over-100-fps-with-save-states-and-console-support-ingenious-port-recreates-the-entire-game-campaign-using-webgl-2)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/china-made-cxmt-memory-now-supports-faster-speeds-on-msis-amd-motherboards-new-bios-adds-ddr5-8200-validation-on-dual-dimm-ddr5-7200-on-quad-dimm-models)
 
 ---
 
-### 15. DARPA plans 30-year endurance nuclear waste batteries to power next-gen drones, says report project SYMPHONEE aims to harvest Strontium-90 to power persistent military drones 
+### 8. Nvidia and Intel tout homegrown American chip supply chain prowess as country bolsters local production, but gaps remain crucial Blackwell packaging steps remain offshore as projects grow in scope and scale 
 
-A report suggests that nuclear waste-powered radiovoltaic batteries could last up to 30 years and power next-gen drones.
+Nvidia and Intel's homegrown American chip supply chains have limitations.
 
-💡 *Long-lasting nuclear waste batteries enable persistent military drone operations.*
+💡 *Gaps in Blackwell packaging hinder American AI chip production dominance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/darpa-plans-30-year-endurance-nuclear-waste-batteries-to-power-next-gen-drones-says-report-project-symphonee-aims-to-harvest-strontium-90-to-power-persistent-military-drones)
-
----
-
-### 16. Best of Sensors: TI charges ahead with Dynamic Z-Track 
-
-Texas Instruments won Best of Sensors 2026 for a single-chip battery fuel gauge, monitor and protector for lithium-ion battery packs, showcasing its innovation in power and sustainability.
-
-💡 *Efficient battery management extends device lifespan and reduces waste.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/best-sensors-ti-charges-ahead-dynamic-z-track)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan)
 
 ---
 
-### 17. Bending Spoons bought Vimeo, Evernote, and AOL instead of chasing AI, it just had a $25.7 billion IPO 
+### 9. Electric drone breaks world air speed record at 434 mph, designed for anti-aircraft interceptor roles German firm convincingly smashed the official 409 mph record, hopes to get stamp of approval from Guinness soon 
 
-Bending Spoons, a Milan-based firm, successfully raised $1.68 billion in its IPO, with a market value of $25.7 billion.
+A German firm's electric drone, Apex Recordhunter, broke the world air speed record with a top speed of 434 mph during internal testing, surpassing the previous 409 mph record.
 
-💡 *Investing in existing tech assets yields significant returns over chasing AI.*
+💡 *Electric drones may revolutionize anti-aircraft interceptor technology and applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/112999-bending-spoons-bought-vimeo-evernote-aol-instead-chasing.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon)
 
 ---
 
-### 18. Microsoft's new EU disclosure shows exactly how tech giants separate profits from where the work happens 
+### 10. SMP Techstrong joint venture expands sensor manufacturing 
 
-Microsoft reported 40% of its pretax income from Ireland, despite a small workforce presence. In contrast, Germany accounted for less than 0.5%. This disparity highlights the tax optimization strategies used by tech giants.
+SMP, a New York-based company, has formed a 50/50 joint venture with Techstrong Holdings, a Thailand-based company, to expand their vehicle sensor capabilities.
 
-💡 *Tech giants exploit tax loopholes in low-tax jurisdictions*
+💡 *Enhancing vehicle safety through advanced sensor technology development*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113001-microsoft-new-eu-disclosure-shows-exactly-how-tech.html)
+🔗 [Read Full Article](https://www.fiercesensors.com/electronics/smp-techstrong-joint-venture-expands-sensor-manufacturing)
+
+---
+
+### 11. Microsoft has a hidden Windows 11 edition that supports 6TB of RAM and 256 CPU cores 
+
+Windows 11 Pro for Workstations supports up to 6TB of RAM and 256 CPU cores, making it suitable for professionals and enterprise users with demanding workloads.
+
+💡 *Unleashing unparalleled performance for data-intensive and compute-heavy applications*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113012-microsoft-has-hidden-windows-11-edition-supports-6tb.html)
+
+---
+
+### 12. Samsung will earn more profit in 2026 than it did over the previous 40 years combined thanks to the AI boom 
+
+Samsung's 2026 profit is expected to exceed its cumulative profit from 1980-2025, driven by the AI boom.
+
+💡 *AI-driven growth to shatter Samsung's 40-year profit record.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113011-samsung-earn-more-profit-2026-than-did-over.html)
+
+---
+
+### 13. SpaceX intentionally burned up 260 Starlink satellites in the last six months, with hundreds more set to follow 
+
+SpaceX intentionally burns up Starlink satellites at end of 5-year lifespan, reentering atmosphere.
+
+💡 *Reducing space debris through controlled satellite reentry is crucial conservation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113006-spacex-burned-up-260-starlink-satellites-six-months.html)
+
+---
+
+### 14. The Supreme Court just ruled that police need a warrant to use phone location data 
+
+The Supreme Court ruled that police need a warrant to use phone location data for geofence warrants, which involves collecting data from devices in a specific area.
+
+💡 *This impacts civil liberties by limiting mass surveillance capabilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113004-supreme-court-limits-police-use-geofence-warrants-phone.html)
 
 ---
 
