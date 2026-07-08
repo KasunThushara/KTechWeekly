@@ -1,155 +1,165 @@
 # 🤖 AI & ML
-**Week of July 07, 2026**
+**Week of July 08, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-07-07 11:30
+- **Articles this week:** 15
+- **Report generated:** 2026-07-08 10:49
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Mercedes-Benz hosts open-source hardware Automotive Rapid DEvelopment Platform (ARDEP) ⭐
+### 1. This German drone just hit 699 km/h, and its maker wants the world record to prove it 
 
-Mercedes-Benz has released an open-source hardware platform called ARDEP, hosted on their GitHub account, featuring an STMicroelectronics STM32G474VE microcontroller with various transceivers and accelerators.
+Quantum Systems' Apex Recordhunter drone reached 699 km/h in internal testing, seeking official recognition.
 
-💡 *Accelerated automotive development with open-source hardware and software collaboration.*
+💡 *Breaks speed records, pushing drone technology to new limits.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/07/mercedes-benz-hosts-open-source-hardware-automotive-rapid-development-platform-ardep/)
-
----
-
-### 2. AMD Ryzen AI Halo review: AMD builds a DGX Spark of its own ⭐
-
-The Ryzen AI Halo offers turn-key AI capabilities with first-party software support, but its performance and application compatibility trail Nvidia's offerings and it's priced high.
-
-💡 *AI hardware competition intensifies with AMD's Ryzen AI Halo launch.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/embargo-mon-july-6-8am-pt-1100-edt-amd-ryzen-ai-halo-review)
+🔗 [Read Full Article](https://www.techspot.com/news/113016-quantum-targets-electric-drone-air-speed-record-434.html)
 
 ---
 
-### 3. Intel patent reveals new XBM memory architecture that ditches HBM's costly silicon interposer backend-transistor DRAM stack uses UCIe links and built-in repair to ease AI's memory bottleneck 
+### 2. Fake tech support, bogus crypto, and a gold pickup: how scammers stole $673,000 in three days 
 
-Intel's XBM patent offers a cost-effective alternative to HBM memory, utilizing backend-transistor DRAM and UCIe links.
+Scammers stole $673,000 in three days using fake tech support and crypto schemes.
 
-💡 *Revolutionizing memory architecture for faster, cheaper AI data processing.*
+💡 *Scammers exploit trust and ignorance to steal large sums quickly online.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-patent-reveals-new-xbm-memory-architecture-that-ditches-hbms-costly-silicon-interposer-backend-transistor-dram-stack-uses-ucie-links-and-built-in-repair-to-ease-ais-memory-bottleneck)
-
----
-
-### 4. Working prototype of open-source printer that promises user-repairability and no subscriptions appears in first video DRM-free 'Open Printer' inkjet still has no announced price, ship date, or print speed, nine months after it first appeared 
-
-Open Tools' Open Printer, an open-source inkjet printer, has been nominated for two French Design Awards. The printer promises user-repairability and no subscription fees. Its release details remain unknown.
-
-💡 *Innovative open-source design challenges traditional printer business models.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/printers/raspberry-pi-powered-open-source-printer-earns-design-award-nomination-but-still-has-no-price-nine-months-after-reveal)
+🔗 [Read Full Article](https://www.techspot.com/news/113018-fake-tech-support-bogus-crypto-gold-pickup-how.html)
 
 ---
 
-### 5. China s Huawei to enter South Korean AI chip market with new Atlas SuperPods, clusters pack 8,192 Ascend 950 accelerators per deployment reportedly challenges Nvidia dominance with 'tripled inference performance' of H20 at one-quarter the cost 
+### 3. South Korea's $880 billion chip and AI plan faces big power and water challenges a single megacluster requires a quarter of Seoul's total power demand 
 
-Huawei enters South Korea's AI chip market with Atlas SuperPods, challenging Nvidia's dominance.
+South Korea plans a massive $880 billion chip and AI initiative, which includes a $520 billion semiconductor program, but faces significant power and water challenges due to the massive energy demands of a single megacluster, equivalent to a quarter of Seoul's total power demand.
 
-💡 *Aggressive pricing and improved performance challenge Nvidia's market control*
+💡 *Massive energy demands threaten South Korea's ambitious chip and AI plan.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/chinas-huawei-to-enter-south-korean-ai-chip-market-with-new-atlas-superpods-clusters-pack-8-192-ascend-950-accelerators-per-deployment-reportedly-challenges-nvidia-dominance-with-tripled-inference-performance-of-h20-at-one-quarter-the-cost)
-
----
-
-### 6. Steam Machine owner reports a "Red Line of Death" days after launch, but it fixed itself 
-
-A Steam Machine owner reported a 'Red Line of Death' issue, but it resolved on its own. This incident raises concerns about the device's reliability. The Steam Machine's launch is still in its early stages.
-
-💡 *Early reliability issues may impact Steam Machine's long-term consumer trust.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113015-steam-machine-appeared-fail-red-line-death-came.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan)
 
 ---
 
-### 7. China-made CXMT memory now supports faster speeds on MSI's AMD motherboards new BIOS adds DDR5-8200 validation on dual-DIMM, DDR5-7200 on quad-DIMM models 
+### 4. Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year 
 
-MSI has validated CXMT RAM for AMD motherboards, achieving speeds up to 8,200 MT/s. The dual-DIMM models can handle these high frequencies better than quad-DIMM variants. This expansion supports region-bound Chinese RAM for faster speeds.
+Chinese memory and storage firm Longsys forecasts a massive profit jump due to the AI-driven chip shortage, expecting nearly $1.5 billion in profit for the first half of 2026 compared to $2.1 million last year.
 
-💡 *Chinese memory modules achieve high speeds with MSI's AM5 motherboard validation.*
+💡 *Chip shortage drives massive profit surge in memory and storage industry.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/china-made-cxmt-memory-now-supports-faster-speeds-on-msis-amd-motherboards-new-bios-adds-ddr5-8200-validation-on-dual-dimm-ddr5-7200-on-quad-dimm-models)
-
----
-
-### 8. Nvidia and Intel tout homegrown American chip supply chain prowess as country bolsters local production, but gaps remain crucial Blackwell packaging steps remain offshore as projects grow in scope and scale 
-
-Nvidia and Intel's homegrown American chip supply chains have limitations.
-
-💡 *Gaps in Blackwell packaging hinder American AI chip production dominance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year)
 
 ---
 
-### 9. Electric drone breaks world air speed record at 434 mph, designed for anti-aircraft interceptor roles German firm convincingly smashed the official 409 mph record, hopes to get stamp of approval from Guinness soon 
+### 5. AVX-512 support is reportedly returning with Intel's next-gen Nova Lake CPUs Latest Linux kernel patches reveal P-cores and E-cores will gain native 512-bit execution 
 
-A German firm's electric drone, Apex Recordhunter, broke the world air speed record with a top speed of 434 mph during internal testing, surpassing the previous 409 mph record.
+Intel's Nova Lake CPUs will reportedly feature native 512-bit execution, including E-cores. This means AVX-512 support is returning to Intel's client CPUs. The upcoming desktop lineup will benefit from improved performance.
 
-💡 *Electric drones may revolutionize anti-aircraft interceptor technology and applications.*
+💡 *Enhanced performance for compute-intensive tasks and applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon)
-
----
-
-### 10. SMP Techstrong joint venture expands sensor manufacturing 
-
-SMP, a New York-based company, has formed a 50/50 joint venture with Techstrong Holdings, a Thailand-based company, to expand their vehicle sensor capabilities.
-
-💡 *Enhancing vehicle safety through advanced sensor technology development*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/electronics/smp-techstrong-joint-venture-expands-sensor-manufacturing)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/avx-512-support-is-reportedly-returning-with-intels-next-gen-nova-lake-cpus-latest-linux-kernel-patches-reveal-p-cores-and-e-cores-will-gain-native-512-bit-execution)
 
 ---
 
-### 11. Microsoft has a hidden Windows 11 edition that supports 6TB of RAM and 256 CPU cores 
+### 6. Steam Machines with the Red Line of Death get a simple, official cure: Clear the CMOS clearing the CMOS can revive flat(red)-lining cubes 
 
-Windows 11 Pro for Workstations supports up to 6TB of RAM and 256 CPU cores, making it suitable for professionals and enterprise users with demanding workloads.
+Valve provides simple CMOS clearing instructions to revive affected Steam Machines with RLOD. The process involves a straightforward reset of the motherboard's CMOS settings. This solution aims to resolve the notorious Red Line of Death issue.
 
-💡 *Unleashing unparalleled performance for data-intensive and compute-heavy applications*
+💡 *CMOS clearing offers a quick fix for RLOD Steam Machine problems*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113012-microsoft-has-hidden-windows-11-edition-supports-6tb.html)
-
----
-
-### 12. Samsung will earn more profit in 2026 than it did over the previous 40 years combined thanks to the AI boom 
-
-Samsung's 2026 profit is expected to exceed its cumulative profit from 1980-2025, driven by the AI boom.
-
-💡 *AI-driven growth to shatter Samsung's 40-year profit record.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113011-samsung-earn-more-profit-2026-than-did-over.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/steam-machines-with-the-red-line-of-death-get-a-simple-official-cure-clear-the-cmos-clearing-the-cmos-can-revive-flat-red-lining-cubes)
 
 ---
 
-### 13. SpaceX intentionally burned up 260 Starlink satellites in the last six months, with hundreds more set to follow 
+### 7. Hands-on with Corsair's 2800X RS-R ARGB Micro-ATX PC Case smaller footprint, roomy internals, includes three fans 
 
-SpaceX intentionally burns up Starlink satellites at end of 5-year lifespan, reentering atmosphere.
+The Corsair 2800X RS-R ARGB is a compact MicroATX case with room for full-size hardware, strong cooling support, and three pre-installed ARGB fans, offering solid value for a small-form-factor chassis at an affordable price under $90.
 
-💡 *Reducing space debris through controlled satellite reentry is crucial conservation.*
+💡 *Compact design meets full-size hardware needs at budget-friendly prices.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113006-spacex-burned-up-260-starlink-satellites-six-months.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/corsair-2800x-rs-r-argb-micro-atx-pc-case-hands-on)
 
 ---
 
-### 14. The Supreme Court just ruled that police need a warrant to use phone location data 
+### 8. Dev ports Linux to Atari's notorious Jaguar console from 1993 the first 64-bit console features 2MB of RAM, 13.3 MHz CPU, and Tom and Jerry co-processors; the Jag was notoriously difficult to program and flopped 
 
-The Supreme Court ruled that police need a warrant to use phone location data for geofence warrants, which involves collecting data from devices in a specific area.
+A developer has successfully ported Linux to the Atari Jaguar console, despite its notorious programming difficulties and limited hardware specifications.
 
-💡 *This impacts civil liberties by limiting mass surveillance capabilities.*
+💡 *Linux port demonstrates the resilience of open-source software against hardware challenges*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113004-supreme-court-limits-police-use-geofence-warrants-phone.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/dev-ports-linux-to-ataris-notorious-jaguar-console-from-1993-the-first-64-bit-console-features-2mb-of-ram-13-3-mhz-cpu-and-tom-and-jerry-co-processors-the-jag-was-notoriously-difficult-to-program-and-flopped)
+
+---
+
+### 9. KKSB 10-inch and 19-inch rack panels target Raspberry Pi clusters, support Pi HATs and active coolers 
+
+KKSB Cases introduces rack panels for Raspberry Pi clusters in standard enclosures, supporting various Pi boards, HATs, and active coolers for easier cable management and expanded functionality.
+
+💡 *Raspberry Pi clusters gain organized and scalable infrastructure support.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/08/kksb-10-inch-and-19-inch-rack-panels-target-raspberry-pi-clusters-support-pi-hats-and-active-coolers/)
+
+---
+
+### 10. Bryan Johnson, the millionaire biohacker who wants to live forever, diagnosed with incurable autoimmune disease 
+
+Bryan Johnson, a millionaire biohacker, was diagnosed with autoimmune gastritis. This condition affects 2-5% of people and can be hard to detect in its early stages. Johnson shared his diagnosis on Instagram.
+
+💡 *Millionaire biohacker's autoimmune diagnosis challenges his pursuit of eternal life.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113035-bryan-johnson-millionaire-biohacker-who-wants-live-forever.html)
+
+---
+
+### 11. LG and Alienware monitors caught auto-installing Windows adware 
+
+LG and Alienware monitors have been caught auto-installing Windows adware, causing pop-up ads.
+
+💡 *Unintended software installation can compromise user data and security.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113031-lg-alienware-monitors-caught-auto-installing-windows-adware.html)
+
+---
+
+### 12. Keychron is stepping outside keyboards with a $349 Thunderbolt 5 dock aimed at power users 
+
+Keychron's new Thunderbolt 5 dock supports dual 8K displays or four 4K monitors, catering to power users.
+
+💡 *Thunderbolt 5's high bandwidth enables seamless multi-monitor setups with laptops.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113025-keychron-stepping-outside-keyboards-349-thunderbolt-5-dock.html)
+
+---
+
+### 13. The Steam Machine now has official Windows drivers 
+
+Microsoft has officially released Windows drivers for the Steam Machine, covering GPU, Bluetooth, and wireless connectivity, allowing for seamless integration with Windows.
+
+💡 *Steam Machine now fully compatible with Windows operating system.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113026-valve-releases-official-windows-drivers-steam-machine.html)
+
+---
+
+### 14. Intel's troubled 18A chip process is finally running smoothly 
+
+Intel has resolved yield issues with its 18A chip process, enabling high-volume production. The company has achieved a defect density range of 0.1 to 0.2, typical for mature nodes. This progress makes production sustainable and economically viable.
+
+💡 *Intel's manufacturing efficiency boosts economic viability of 18A chip production*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113023-intel-troubled-18a-chip-process-finally-running-smoothly.html)
+
+---
+
+### 15. A free app lets Sony headphones do head tracking for racing and flight sims 
+
+A free app enables head tracking for Sony headphones in gaming, eliminating the need for extra IR tracking hardware or VR headsets.
+
+💡 *Enhanced gaming experience without costly accessories*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113019-free-app-sony-headphones-do-head-tracking-racing.html)
 
 ---
 

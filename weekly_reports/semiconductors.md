@@ -1,85 +1,75 @@
 # ⚡ Semiconductors
-**Week of July 07, 2026**
+**Week of July 08, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-07-07 11:30
+- **Articles this week:** 6
+- **Report generated:** 2026-07-08 10:49
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel patent reveals new XBM memory architecture that ditches HBM's costly silicon interposer backend-transistor DRAM stack uses UCIe links and built-in repair to ease AI's memory bottleneck 
+### 1. UK gives data centers option to apply for 'national importance' status that overrides local regulations, cuts timeline by a year eligible projects to bypass local councils, save more than a billion dollars in NIMBY fights 
 
-Intel's XBM patent offers a cost-effective alternative to HBM memory, utilizing backend-transistor DRAM and UCIe links.
+The UK government allows data centers to bypass local council approvals, speeding up developments by up to a year and saving over a billion dollars. The move targets nationally significant infrastructure projects to streamline the process. This is expected to benefit large-scale projects like data centers.
 
-💡 *Revolutionizing memory architecture for faster, cheaper AI data processing.*
+💡 *Streamlined regulations boost data center development and cost efficiency.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-patent-reveals-new-xbm-memory-architecture-that-ditches-hbms-costly-silicon-interposer-backend-transistor-dram-stack-uses-ucie-links-and-built-in-repair-to-ease-ais-memory-bottleneck)
-
----
-
-### 2. Microsoft 'resets' Xbox by cutting 3,200 jobs this year, divesting five game studios firm cites 'margins that are 3-10x lower than comparable platform and publishing businesses' 
-
-Microsoft's Xbox division to cut 3,200 jobs and divest five studios, citing low margins.
-
-💡 *Xbox's cost structure is uncompetitive with other gaming businesses.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/microsoft-resets-xbox-by-cutting-3-200-jobs-this-year-divesting-five-game-studios-firm-cites-margins-that-are-3-10x-lower-than-comparable-platform-and-publishing-businesses)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/uk-gives-data-centers-option-to-apply-for-national-importance-status-that-overrides-local-regulations-cuts-timeline-by-a-year-eligible-projects-to-bypass-local-councils-save-more-than-a-billion-dollars-in-nimby-fights)
 
 ---
 
-### 3. ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support 
+### 2. Rikomagic DS04 An Android 14 4K digital signage player powered by Rockchip RK3576 SoC 
 
-The ESP32-C5-Touch-LCD-2.8 devkit features a 2.8-inch capacitive touch display, dual-band Wi-Fi 6, and Bluetooth 5 LE connectivity. It also includes a microSD card, USB-C port, microphone, and speaker connector. This board is suitable for IoT and HMI projects.
+Rikomagic DS04 is a 4K digital signage player running Android 14 on an octa-core Rockchip RK3576 processor, offering features like dual 4K HDMI ports, Gigabit Ethernet, and 4G LTE connectivity.
 
-💡 *Enhanced user interaction with capacitive touch display features*
+💡 *Cost-effective 4K digital signage option for various applications and industries.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/07/esp32-c5-devkit-offers-2-8-inch-capacitive-touch-display-dual-band-wi-fi-6-bluetooth-5-le-lipo-battery-support/)
-
----
-
-### 4. Samsung chip division's single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit 
-
-Samsung's chip division sees a record-breaking year with 19x quarterly profit increase, surpassing Nvidia to become the most profitable company in the world. The significant jump in memory and storage prices contributes to the substantial profit growth. The brokerage consensus estimates Samsung's full-year 2026 operating profit near 300 trillion won.
-
-💡 *Supply chain dominance drives historic profits in chip market.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/08/rikomagic-ds04-an-android-14-4k-digital-signage-player-powered-by-rockchip-rk3576-soc/)
 
 ---
 
-### 5. SMP Techstrong joint venture expands sensor manufacturing 
+### 3. South Korea's $880 billion chip and AI plan faces big power and water challenges a single megacluster requires a quarter of Seoul's total power demand 
 
-SMP, a New York-based company, has formed a 50/50 joint venture with Techstrong Holdings, a Thailand-based company, to expand their vehicle sensor capabilities.
+South Korea plans a massive $880 billion chip and AI initiative, which includes a $520 billion semiconductor program, but faces significant power and water challenges due to the massive energy demands of a single megacluster, equivalent to a quarter of Seoul's total power demand.
 
-💡 *Enhancing vehicle safety through advanced sensor technology development*
+💡 *Massive energy demands threaten South Korea's ambitious chip and AI plan.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/electronics/smp-techstrong-joint-venture-expands-sensor-manufacturing)
-
----
-
-### 6. Microsoft is cutting 3,200 Xbox jobs and spinning off four game studios 
-
-Microsoft is cutting 3,200 Xbox jobs and spinning off four game studios. The immediate layoffs will impact 1,600 employees. Additional redundancies will occur across other Microsoft divisions.
-
-💡 *Massive restructuring threatens Xbox's market position and developer morale*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113017-microsoft-cutting-3200-xbox-jobs-spinning-off-four.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan)
 
 ---
 
-### 7. Samsung will earn more profit in 2026 than it did over the previous 40 years combined thanks to the AI boom 
+### 4. Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year 
 
-Samsung's 2026 profit is expected to exceed its cumulative profit from 1980-2025, driven by the AI boom.
+Chinese memory and storage firm Longsys forecasts a massive profit jump due to the AI-driven chip shortage, expecting nearly $1.5 billion in profit for the first half of 2026 compared to $2.1 million last year.
 
-💡 *AI-driven growth to shatter Samsung's 40-year profit record.*
+💡 *Chip shortage drives massive profit surge in memory and storage industry.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113011-samsung-earn-more-profit-2026-than-did-over.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year)
+
+---
+
+### 5. The Steam Machine now has official Windows drivers 
+
+Microsoft has officially released Windows drivers for the Steam Machine, covering GPU, Bluetooth, and wireless connectivity, allowing for seamless integration with Windows.
+
+💡 *Steam Machine now fully compatible with Windows operating system.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113026-valve-releases-official-windows-drivers-steam-machine.html)
+
+---
+
+### 6. Intel's troubled 18A chip process is finally running smoothly 
+
+Intel has resolved yield issues with its 18A chip process, enabling high-volume production. The company has achieved a defect density range of 0.1 to 0.2, typical for mature nodes. This progress makes production sustainable and economically viable.
+
+💡 *Intel's manufacturing efficiency boosts economic viability of 18A chip production*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113023-intel-troubled-18a-chip-process-finally-running-smoothly.html)
 
 ---
 

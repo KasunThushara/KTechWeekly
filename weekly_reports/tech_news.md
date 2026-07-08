@@ -1,95 +1,85 @@
 # 📰 Tech News
-**Week of July 07, 2026**
+**Week of July 08, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-07-07 11:30
+- **Articles this week:** 7
+- **Report generated:** 2026-07-08 10:49
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Working prototype of open-source printer that promises user-repairability and no subscriptions appears in first video DRM-free 'Open Printer' inkjet still has no announced price, ship date, or print speed, nine months after it first appeared 
+### 1. Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator unreleased graphics cards shown with 10-17% higher TGP over original models ⭐
 
-Open Tools' Open Printer, an open-source inkjet printer, has been nominated for two French Design Awards. The printer promises user-repairability and no subscription fees. Its release details remain unknown.
+Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator, potentially featuring 10-17% higher TGP over original models, providing insight into unreleased graphics cards.
 
-💡 *Innovative open-source design challenges traditional printer business models.*
+💡 *Potential power increase may impact system build and cooling requirements.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/printers/raspberry-pi-powered-open-source-printer-earns-design-award-nomination-but-still-has-no-price-nine-months-after-reveal)
-
----
-
-### 2. PocketMage An ESP32-S3-based Personal Digital Assistant (Crowdfunding) 
-
-PocketMage is a personal digital assistant with a 3.1-inch E Ink display and a full tactile QWERTY keyboard. It features Wi-Fi, Bluetooth, and a microSD card slot for expansion. The device is built around an ESP32-S3 microcontroller.
-
-💡 *Reviving the PDA concept with modern wireless connectivity and compact design.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/07/pocketmage-esp32-s3-personal-digital-assistant/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/unannounced-nvidia-rtx-50-super-gpus-appear-in-seasonic-psu-calculator-unreleased-graphics-cards-shown-with-10-17-percent-higher-tgp-over-original-models)
 
 ---
 
-### 3. Steam Machine owner reports a "Red Line of Death" days after launch, but it fixed itself 
+### 2. Space Force gets first mobile high-powered electromagnetic beam weapon to cripple enemy satellites plans to deploy 32 Meadowlands units to detect, deny, disrupt, and degrade hostile space assets 
 
-A Steam Machine owner reported a 'Red Line of Death' issue, but it resolved on its own. This incident raises concerns about the device's reliability. The Steam Machine's launch is still in its early stages.
+The US Space Force has received the first Meadowlands electronic warfare system, designed to disrupt hostile satellites.
 
-💡 *Early reliability issues may impact Steam Machine's long-term consumer trust.*
+💡 *Enhanced space warfare capabilities to counter enemy satellite threats.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113015-steam-machine-appeared-fail-red-line-death-came.html)
-
----
-
-### 4. Philips' new "triple-mode" monitors go all the way down to 720p for maximum speed 
-
-Philips' Evnia monitors offer triple-mode display, switching between gaming modes quickly.
-
-💡 *Adaptive display modes for optimal gaming performance and efficiency.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113010-philips-introduces-triple-mode-monitors-different-gaming-scenarios.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/space/space-force-gets-first-mobile-high-powered-electromagnetic-beam-weapon-to-cripple-enemy-satellites-plans-to-deploy-32-meadowlands-units-to-detect-deny-disrupt-and-degrade-hostile-space-assets)
 
 ---
 
-### 5. Unix copyright code infringement lawsuit is back from the dead IBM still under fire from Xinuos over 2003-era bytes 
+### 3. An indie developer says Steam's refund policy cost his well-reviewed game 55,000 refunds 
 
-IBM faces lawsuit from Xinuos over alleged Unix copyright infringement from 2003-era code. A recent hearing was held on June 22. The case appears to be ongoing.
+Indie game Paddle Paddle Paddle earned 90% positive reviews on Steam but 21% refund rate, with over 55,000 refunds, due to Valve's lenient refund policy.
 
-💡 *Legacy code copyright disputes can still lead to prolonged litigation*
+💡 *Steam's refund policy incentivizes refund abuse, hurting small game developers financially.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/unix-copyright-code-infringement-lawsuit-is-back-from-the-dead-ibm-still-under-fire-from-xinuos-about-2003-era-bytes)
-
----
-
-### 6. Why Gen Z is falling in love with film photography and rejecting the algorithm along with it 
-
-Gen Z is embracing film photography as a counter to algorithm-driven digital culture, seeking a more authentic and tactile experience. This resurgence is driven by a desire to break free from the curated and superficial nature of social media. By using film cameras, they're able to capture genuine moments and express themselves in a more organic way.
-
-💡 *Authenticity and human connection in a digitally curated world.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113014-why-gen-z-falling-love-film-photography-rejecting.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113030-indie-developer-steam-refund-policy-cost-well-reviewed.html)
 
 ---
 
-### 7. Nvidia's RTX 3060 returns to store shelves at its original 2021 price 
+### 4. This German drone just hit 699 km/h, and its maker wants the world record to prove it 
 
-The Nvidia RTX 3060 is back in stock at Newegg for $329.99, its original 2021 launch price. The listing was created on July 2 and published on July 5. This marks a significant price drop for the graphics card.
+Quantum Systems' Apex Recordhunter drone reached 699 km/h in internal testing, seeking official recognition.
 
-💡 *Nvidia RTX 3060 returns to affordable prices after long price surge.*
+💡 *Breaks speed records, pushing drone technology to new limits.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113008-nvidia-rtx-3060-returns-us-stores-original-2021.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113016-quantum-targets-electric-drone-air-speed-record-434.html)
 
 ---
 
-### 8. Kioxia and Sandisk sample world's densest 3D NAND new 332-Layer beats Samsung s 400-Layer NAND 
+### 5. Arrest and extradition of Scattered Spider hacker shines light on how Windows telemetry GDIDs can identify and track users Microsoft device identifier is just one digital fingerprint in a software world rife with them 
 
-Kioxia and SanDisk have begun sampling their BiCS10 3D NAND technology, which boasts 332 active layers and an areal capacity of over 29 Gb/mm2.
+The arrest of a Scattered Spider hacker highlights Windows telemetry's role in tracking users. Microsoft's device identifier, GDID, is just one example of the various digital fingerprints used to identify individuals online. This has significant implications for user privacy and online security.
 
-💡 *Industry leaders push storage density limits with record-breaking innovation.*
+💡 *GDID is not the only digital fingerprint in a software world rife with tracking.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-sample-worlds-densest-3d-nand-new-332-layer-beats-samsungs-400-layer-nand)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/arrest-and-extradition-of-scattered-spider-hacker-shines-light-on-how-windows-telemetry-gdids-can-identify-users-microsoft-device-identifier-is-just-one-digital-fingerprint-in-a-software-world-rife-with-them)
+
+---
+
+### 6. PlayStation disc petition approaches 200,000 signatures as backlash grows over Sony's decision to stop producing new physical media firm still plans to produce optical media for existing titles, but new games will be digital only 
+
+A Change.org petition against Sony's decision to stop physical media has gathered over 172,000 signatures, while the company still plans to produce optical media for existing titles but will make new games digital only.
+
+💡 *Gaming community pushback highlights shift towards digital gaming consumption.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/playstation-disc-petition-approaches-200000-signatures)
+
+---
+
+### 7. Microsoft confirms Windows 11 bug can steal over 500GB of storage here's how to check and fix it 
+
+A Windows 11 bug can steal over 500GB of storage due to an issue with the Capability Access Manager. This system component is tied to Microsoft's app permission controls and manages access to privacy-sensitive features. Users can check and fix the issue to prevent data loss.
+
+💡 *Storage theft occurs due to excessive Capability Access Manager data accumulation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113029-microsoft-confirms-windows-11-bug-can-steal-over.html)
 
 ---
 

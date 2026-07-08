@@ -1,115 +1,145 @@
 # 💻 Hardware
-**Week of July 07, 2026**
+**Week of July 08, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-07-07 11:30
+- **Articles this week:** 13
+- **Report generated:** 2026-07-08 10:49
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Mercedes-Benz hosts open-source hardware Automotive Rapid DEvelopment Platform (ARDEP) ⭐
+### 1. Rikomagic DS04 An Android 14 4K digital signage player powered by Rockchip RK3576 SoC 
 
-Mercedes-Benz has released an open-source hardware platform called ARDEP, hosted on their GitHub account, featuring an STMicroelectronics STM32G474VE microcontroller with various transceivers and accelerators.
+Rikomagic DS04 is a 4K digital signage player running Android 14 on an octa-core Rockchip RK3576 processor, offering features like dual 4K HDMI ports, Gigabit Ethernet, and 4G LTE connectivity.
 
-💡 *Accelerated automotive development with open-source hardware and software collaboration.*
+💡 *Cost-effective 4K digital signage option for various applications and industries.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/07/mercedes-benz-hosts-open-source-hardware-automotive-rapid-development-platform-ardep/)
-
----
-
-### 2. Nvidia's Kyber rack for Rubin Ultra reportedly delayed to 2028, stopgap solution also axed due to customer pushback Analyst firm SemiAnalysis says PCB midplane problems led to the delay [Updated] 
-
-Nvidia's Kyber rack for Rubin Ultra is reportedly delayed to 2028. The delay is attributed to PCB midplane problems. This is a setback for customers relying on this product.
-
-💡 *Nvidia's high-performance product delay impacts customers' data infrastructure plans*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidias-kyber-rack-for-rubin-ultra-slips-to-2028)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/08/rikomagic-ds04-an-android-14-4k-digital-signage-player-powered-by-rockchip-rk3576-soc/)
 
 ---
 
-### 3. ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support 
+### 2. An indie developer says Steam's refund policy cost his well-reviewed game 55,000 refunds 
 
-The ESP32-C5-Touch-LCD-2.8 devkit features a 2.8-inch capacitive touch display, dual-band Wi-Fi 6, and Bluetooth 5 LE connectivity. It also includes a microSD card, USB-C port, microphone, and speaker connector. This board is suitable for IoT and HMI projects.
+Indie game Paddle Paddle Paddle earned 90% positive reviews on Steam but 21% refund rate, with over 55,000 refunds, due to Valve's lenient refund policy.
 
-💡 *Enhanced user interaction with capacitive touch display features*
+💡 *Steam's refund policy incentivizes refund abuse, hurting small game developers financially.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/07/esp32-c5-devkit-offers-2-8-inch-capacitive-touch-display-dual-band-wi-fi-6-bluetooth-5-le-lipo-battery-support/)
-
----
-
-### 4. PocketMage An ESP32-S3-based Personal Digital Assistant (Crowdfunding) 
-
-PocketMage is a personal digital assistant with a 3.1-inch E Ink display and a full tactile QWERTY keyboard. It features Wi-Fi, Bluetooth, and a microSD card slot for expansion. The device is built around an ESP32-S3 microcontroller.
-
-💡 *Reviving the PDA concept with modern wireless connectivity and compact design.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/07/pocketmage-esp32-s3-personal-digital-assistant/)
+🔗 [Read Full Article](https://www.techspot.com/news/113030-indie-developer-steam-refund-policy-cost-well-reviewed.html)
 
 ---
 
-### 5. AMD X870 Motherboard Roundup: 53 Motherboards Tested 
+### 3. The FBI and Google just took down a botnet that hijacked 2 million smart TVs 
 
-A comprehensive review of 53 AMD X870 and X870E motherboards, testing VRM thermals, USB performance, and features.
+The FBI and Google took down the Popa botnet, which hijacked 2 million smart TVs. The malicious software development kit targeted low-cost Android-based devices, including smart TVs and streaming boxes. This allowed attackers to use the devices as proxy exit points.
 
-💡 *Motherboard quality and features greatly impact overall system performance and reliability.*
+💡 *Malicious software kits can compromise entire networks through inexpensive devices.*
 
-🔗 [Read Full Article](https://www.techspot.com/review/3143-amd-x870-motherboards-full/)
-
----
-
-### 6. Modder builds 8,192-core GPU at home out of RISC-V microcontrollers full "graphics card" draws over 2,000 watts of power, requires a 3D printer to program 
-
-Matthias Balwierz, aka Bitluni, created a massive 8,192-core RISC-V GPU at home. This custom GPU draws over 2,000 watts of power and requires a 3D printer for programming. The project showcases the potential of DIY computer engineering.
-
-💡 *RISC-V architecture enables high-performance computing at unprecedented scales.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/maker-stem/modder-creates-8-192-core-gpu-at-home-out-of-risc-v-microcontrollers-full-graphics-card-will-draw-over-2-000-watts-of-power-requires-a-3d-printer-to-program)
+🔗 [Read Full Article](https://www.techspot.com/news/113021-fbi-google-took-down-botnet-hijacked-2-million.html)
 
 ---
 
-### 7. China-made CXMT memory now supports faster speeds on MSI's AMD motherboards new BIOS adds DDR5-8200 validation on dual-DIMM, DDR5-7200 on quad-DIMM models 
+### 4. AVX-512 support is reportedly returning with Intel's next-gen Nova Lake CPUs Latest Linux kernel patches reveal P-cores and E-cores will gain native 512-bit execution 
 
-MSI has validated CXMT RAM for AMD motherboards, achieving speeds up to 8,200 MT/s. The dual-DIMM models can handle these high frequencies better than quad-DIMM variants. This expansion supports region-bound Chinese RAM for faster speeds.
+Intel's Nova Lake CPUs will reportedly feature native 512-bit execution, including E-cores. This means AVX-512 support is returning to Intel's client CPUs. The upcoming desktop lineup will benefit from improved performance.
 
-💡 *Chinese memory modules achieve high speeds with MSI's AM5 motherboard validation.*
+💡 *Enhanced performance for compute-intensive tasks and applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/china-made-cxmt-memory-now-supports-faster-speeds-on-msis-amd-motherboards-new-bios-adds-ddr5-8200-validation-on-dual-dimm-ddr5-7200-on-quad-dimm-models)
-
----
-
-### 8. You can now use your Sony headphones as a free real-time head tracker for race and flight simulators on PC, several hundred games already supported enthusiast creates open-source app that translates live sensor data into in-game camera controls 
-
-A new open-source app called Sony Head Tracker translates raw sensor data from Sony headphones and earbuds into head tracking controls for over 200 PC games, enhancing gameplay experiences.
-
-💡 *Real-time head tracking enhances immersion in PC games and simulators.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/you-can-now-use-your-sony-headphones-as-a-real-time-head-tracker-for-race-and-flight-simulators-on-pc-several-hundred-games-already-supported-enthusiast-creates-open-source-app-that-translates-live-sensor-data-into-in-game-camera-controls)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/avx-512-support-is-reportedly-returning-with-intels-next-gen-nova-lake-cpus-latest-linux-kernel-patches-reveal-p-cores-and-e-cores-will-gain-native-512-bit-execution)
 
 ---
 
-### 9. Microsoft has a hidden Windows 11 edition that supports 6TB of RAM and 256 CPU cores 
+### 5. Companies are now using automatic Windows installers to display Adware through the Microsoft Store when you install new hardware customer immediately gets McAfee ads on their PC after connecting new LG monitor; here's how to block the new ads 
 
-Windows 11 Pro for Workstations supports up to 6TB of RAM and 256 CPU cores, making it suitable for professionals and enterprise users with demanding workloads.
+LG monitors auto-install an app on PCs via Microsoft Store, displaying ads. This includes McAfee ads when new hardware is connected, posing a concern for user privacy and data security. Users can block the ads by following specific steps.
 
-💡 *Unleashing unparalleled performance for data-intensive and compute-heavy applications*
+💡 *Unauthorized app installation compromises user control over their PCs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113012-microsoft-has-hidden-windows-11-edition-supports-6tb.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/companies-are-now-using-automatic-windows-installers-to-display-adware-through-the-microsoft-store-when-you-install-new-hardware-customer-immediately-gets-mcafee-ads-on-their-pc-after-connecting-new-lg-monitor-heres-how-to-block-the-new-ads)
 
 ---
 
-### 10. One of Windows' most hated features just helped catch a 19-year-old hacker 
+### 6. Hands-on with Corsair's 2800X RS-R ARGB Micro-ATX PC Case smaller footprint, roomy internals, includes three fans 
 
-Finnish police arrested 19-year-old Peter Stokes, a dual US-Estonian citizen, for hacking charges. He was extradited to the US, where he faces six counts of conspiracy, computer intrusion, and fraud. The arrest was made possible by a Windows feature.
+The Corsair 2800X RS-R ARGB is a compact MicroATX case with room for full-size hardware, strong cooling support, and three pre-installed ARGB fans, offering solid value for a small-form-factor chassis at an affordable price under $90.
 
-💡 *Windows' digital footprints can be used to catch cybercriminals worldwide effectively.*
+💡 *Compact design meets full-size hardware needs at budget-friendly prices.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113005-one-windows-most-hated-features-helped-catch-19.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/corsair-2800x-rs-r-argb-micro-atx-pc-case-hands-on)
+
+---
+
+### 7. Dev ports Linux to Atari's notorious Jaguar console from 1993 the first 64-bit console features 2MB of RAM, 13.3 MHz CPU, and Tom and Jerry co-processors; the Jag was notoriously difficult to program and flopped 
+
+A developer has successfully ported Linux to the Atari Jaguar console, despite its notorious programming difficulties and limited hardware specifications.
+
+💡 *Linux port demonstrates the resilience of open-source software against hardware challenges*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/dev-ports-linux-to-ataris-notorious-jaguar-console-from-1993-the-first-64-bit-console-features-2mb-of-ram-13-3-mhz-cpu-and-tom-and-jerry-co-processors-the-jag-was-notoriously-difficult-to-program-and-flopped)
+
+---
+
+### 8. KKSB 10-inch and 19-inch rack panels target Raspberry Pi clusters, support Pi HATs and active coolers 
+
+KKSB Cases introduces rack panels for Raspberry Pi clusters in standard enclosures, supporting various Pi boards, HATs, and active coolers for easier cable management and expanded functionality.
+
+💡 *Raspberry Pi clusters gain organized and scalable infrastructure support.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/08/kksb-10-inch-and-19-inch-rack-panels-target-raspberry-pi-clusters-support-pi-hats-and-active-coolers/)
+
+---
+
+### 9. LG and Alienware monitors caught auto-installing Windows adware 
+
+LG and Alienware monitors have been caught auto-installing Windows adware, causing pop-up ads.
+
+💡 *Unintended software installation can compromise user data and security.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113031-lg-alienware-monitors-caught-auto-installing-windows-adware.html)
+
+---
+
+### 10. Keychron is stepping outside keyboards with a $349 Thunderbolt 5 dock aimed at power users 
+
+Keychron's new Thunderbolt 5 dock supports dual 8K displays or four 4K monitors, catering to power users.
+
+💡 *Thunderbolt 5's high bandwidth enables seamless multi-monitor setups with laptops.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113025-keychron-stepping-outside-keyboards-349-thunderbolt-5-dock.html)
+
+---
+
+### 11. Australia's teen social media ban stumbles as platforms skip age checks 
+
+Australia's social media ban for teens under 16 is being disregarded, as major platforms fail to implement age checks.
+
+💡 *Platforms' lax approach undermines efforts to protect young Australians online.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113024-australia-teen-social-media-ban-stumbles-platforms-skip.html)
+
+---
+
+### 12. A free app lets Sony headphones do head tracking for racing and flight sims 
+
+A free app enables head tracking for Sony headphones in gaming, eliminating the need for extra IR tracking hardware or VR headsets.
+
+💡 *Enhanced gaming experience without costly accessories*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113019-free-app-sony-headphones-do-head-tracking-racing.html)
+
+---
+
+### 13. The open-source, DRM-free Open Printer shows off a working prototype 
+
+The Open Printer project showcases a working prototype, challenging the status quo of the printing industry. This open-source, DRM-free device aims to make printing more accessible and affordable. The project's success could disrupt the market dominated by proprietary systems.
+
+💡 *Challenging the printing industry's DRM-locked ink cartridge business model.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113022-open-source-drm-free-open-printer-shows-off.html)
 
 ---
 

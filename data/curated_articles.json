@@ -1,333 +1,287 @@
 [
   {
-    "title": "Kioxia and Sandisk sample world's densest 3D NAND new 332-Layer beats Samsung s 400-Layer NAND",
-    "summary": "Kioxia, Sandisk begin to sample BiCS10 3D NAND: 332 active layers and over 29 Gb/mm2 areal capacity.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-sample-worlds-densest-3d-nand-new-332-layer-beats-samsungs-400-layer-nand",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-07T11:29:45.568432"
-  },
-  {
-    "title": "Unix copyright code infringement lawsuit is back from the dead IBM still under fire from Xinuos over 2003-era bytes",
-    "summary": "Unix copyright code infringement back from the dead IBM is still under fire from Xinuos about 2003-era bytes, with a hearing as recent as June 22.",
-    "link": "https://www.tomshardware.com/software/linux/unix-copyright-code-infringement-lawsuit-is-back-from-the-dead-ibm-still-under-fire-from-xinuos-about-2003-era-bytes",
+    "title": "Arrest and extradition of Scattered Spider hacker shines light on how Windows telemetry GDIDs can identify and track users Microsoft device identifier is just one digital fingerprint in a software world rife with them",
+    "summary": "While the use of Windows' GDID to catch Scattered Spider hacking group member Peter Stokes is unusual, that device identifier is only one bit of telemetry that can be used to fingerprint a user across the wider Internet these days.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/arrest-and-extradition-of-scattered-spider-hacker-shines-light-on-how-windows-telemetry-gdids-can-identify-users-microsoft-device-identifier-is-just-one-digital-fingerprint-in-a-software-world-rife-with-them",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.568538"
+    "processed_date": "2026-07-08T10:48:08.788090"
   },
   {
-    "title": "Modder builds 8,192-core GPU at home out of RISC-V microcontrollers full \"graphics card\" draws over 2,000 watts of power, requires a 3D printer to program",
-    "summary": "Well-known engineer Matthias Balwierz (aka Bitluni) designed and created an 8,192-core RISC-V GPU at home.",
-    "link": "https://www.tomshardware.com/maker-stem/modder-creates-8-192-core-gpu-at-home-out-of-risc-v-microcontrollers-full-graphics-card-will-draw-over-2-000-watts-of-power-requires-a-3d-printer-to-program",
+    "title": "Space Force gets first mobile high-powered electromagnetic beam weapon to cripple enemy satellites plans to deploy 32 Meadowlands units to detect, deny, disrupt, and degrade hostile space assets",
+    "summary": "Space Force has announced that the first high-energy 'Meadowlands' electronic warfare system has been delivered for operational duty.",
+    "link": "https://www.tomshardware.com/tech-industry/space/space-force-gets-first-mobile-high-powered-electromagnetic-beam-weapon-to-cripple-enemy-satellites-plans-to-deploy-32-meadowlands-units-to-detect-deny-disrupt-and-degrade-hostile-space-assets",
     "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.568644"
-  },
-  {
-    "title": "Intel patent reveals new XBM memory architecture that ditches HBM's costly silicon interposer backend-transistor DRAM stack uses UCIe links and built-in repair to ease AI's memory bottleneck",
-    "summary": "Intel s XBM patent proposes an HBM alternative that uses backend-transistor DRAM, UCIe chiplet links, and repair logic to reduce packaging costs and complexity.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-patent-reveals-new-xbm-memory-architecture-that-ditches-hbms-costly-silicon-interposer-backend-transistor-dram-stack-uses-ucie-links-and-built-in-repair-to-ease-ais-memory-bottleneck",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-07T11:29:45.568758"
+    "processed_date": "2026-07-08T10:48:08.788207"
   },
   {
-    "title": "Samsung chip division's single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit",
-    "summary": "Brokerage consensus puts Samsung's full-year 2026 operating profit near 300 trillion won.",
-    "link": "https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026",
+    "title": "Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator unreleased graphics cards shown with 10-17% higher TGP over original models",
+    "summary": "Total graphics power figures for Nvidia's unanounced, unreleased RTX 50 Super-series graphics cards have appeared in Seasonic's PSU capacity calculator, revealing potentially higher TGPs of those products.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/unannounced-nvidia-rtx-50-super-gpus-appear-in-seasonic-psu-calculator-unreleased-graphics-cards-shown-with-10-17-percent-higher-tgp-over-original-models",
     "categories": [
       "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.568865"
-  },
-  {
-    "title": "China-made CXMT memory now supports faster speeds on MSI's AMD motherboards new BIOS adds DDR5-8200 validation on dual-DIMM, DDR5-7200 on quad-DIMM models",
-    "summary": "MSI has officially validated region-bound Chinese RAM using CXMT modules to run at up to 8,200 MT/s on its AM5 motherboards. Models with two RAM slots can handle these high frequencies a bit better than four-DIMM variants.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/china-made-cxmt-memory-now-supports-faster-speeds-on-msis-amd-motherboards-new-bios-adds-ddr5-8200-validation-on-dual-dimm-ddr5-7200-on-quad-dimm-models",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.568974"
-  },
-  {
-    "title": "Microsoft 'resets' Xbox by cutting 3,200 jobs this year, divesting five game studios firm cites 'margins that are 3-10x lower than comparable platform and publishing businesses'",
-    "summary": "Xbox CEO Asha Sharma announced that Microsoft's gaming division will cut 3,200 jobs throughout FY27 and is spinning out studios but not canceling any games.",
-    "link": "https://www.tomshardware.com/video-games/xbox/microsoft-resets-xbox-by-cutting-3-200-jobs-this-year-divesting-five-game-studios-firm-cites-margins-that-are-3-10x-lower-than-comparable-platform-and-publishing-businesses",
-    "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-07T11:29:45.569078"
-  },
-  {
-    "title": "Working prototype of open-source printer that promises user-repairability and no subscriptions appears in first video DRM-free 'Open Printer' inkjet still has no announced price, ship date, or print speed, nine months after it first appeared",
-    "summary": "Open Tools, a Paris-based startup, has announced that its Open Printer has been nominated for two French Design Awards.",
-    "link": "https://www.tomshardware.com/peripherals/printers/raspberry-pi-powered-open-source-printer-earns-design-award-nomination-but-still-has-no-price-nine-months-after-reveal",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-07T11:29:45.569204"
-  },
-  {
-    "title": "AMD Ryzen AI Halo review: AMD builds a DGX Spark of its own",
-    "summary": "The Ryzen AI Halo is a turn-key AMD local AI box that s backed up with first-party software support, handy utilities, and plenty of documentation for local AI explorers. But the performance and application compatibility of the Ryzen AI Max+ 395 (aka Strix Halo) SoC still trails Nvidia s GB10, and it s pricey for what it offers.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/embargo-mon-july-6-8am-pt-1100-edt-amd-ryzen-ai-halo-review",
-    "categories": [
-      "GPUs",
-      "AI & ML"
+      "Tech News"
     ],
     "quality_score": 15,
-    "processed_date": "2026-07-07T11:29:45.569314"
+    "processed_date": "2026-07-08T10:48:08.788321"
   },
   {
-    "title": "You can now use your Sony headphones as a free real-time head tracker for race and flight simulators on PC, several hundred games already supported enthusiast creates open-source app that translates live sensor data into in-game camera controls",
-    "summary": "A new open-source app called Sony Head Tracker, developed by Nicholas Slattery, reads raw sensor data from Sony headphones and earbuds and converts them into something OpenTrack can understand. From there, it can be used for head tracking in over 200 PC games.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/you-can-now-use-your-sony-headphones-as-a-real-time-head-tracker-for-race-and-flight-simulators-on-pc-several-hundred-games-already-supported-enthusiast-creates-open-source-app-that-translates-live-sensor-data-into-in-game-camera-controls",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.569433"
-  },
-  {
-    "title": "Nvidia's Kyber rack for Rubin Ultra reportedly delayed to 2028, stopgap solution also axed due to customer pushback Analyst firm SemiAnalysis says PCB midplane problems led to the delay [Updated]",
-    "summary": "Nvidia reportedly won't ship its Kyber NVL144 rack until 2028, a delay of more than 12 months.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-kyber-rack-for-rubin-ultra-slips-to-2028",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-07T11:29:45.569531"
-  },
-  {
-    "title": "Nvidia and Intel tout homegrown American chip supply chain prowess as country bolsters local production, but gaps remain crucial Blackwell packaging steps remain offshore as projects grow in scope and scale",
-    "summary": "America's AI supply chain now starts and ends in the U.S., while its most valuable middle steps remain entirely offshore until at least 2028.",
-    "link": "https://www.tomshardware.com/tech-industry/nvidia-and-intel-tout-chips-built-in-america-but-every-arizona-made-blackwell-die-is-still-packaged-in-taiwan",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.569637"
-  },
-  {
-    "title": "Electric drone breaks world air speed record at 434 mph, designed for anti-aircraft interceptor roles German firm convincingly smashed the official 409 mph record, hopes to get stamp of approval from Guinness soon",
-    "summary": "Quantum Systems Group reckons it has broken the flight speed record for an electric drone. During internal testing last month the Munich-based firm recorded its Apex Recordhunter drone hitting a top speed of 434 mph in straight and level flight.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.569746"
-  },
-  {
-    "title": "China s Huawei to enter South Korean AI chip market with new Atlas SuperPods, clusters pack 8,192 Ascend 950 accelerators per deployment reportedly challenges Nvidia dominance with 'tripled inference performance' of H20 at one-quarter the cost",
-    "summary": "Huawei is reportedly preparing to enter South Korea's AI accelerator market with its Ascend 950 chips and Atlas 950 SuperPod, challenging Nvidia through aggressive pricing, amid a broader push to expand its AI ecosystem beyond China",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinas-huawei-to-enter-south-korean-ai-chip-market-with-new-atlas-superpods-clusters-pack-8-192-ascend-950-accelerators-per-deployment-reportedly-challenges-nvidia-dominance-with-tripled-inference-performance-of-h20-at-one-quarter-the-cost",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-07T11:29:45.569861"
-  },
-  {
-    "title": "ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support",
-    "summary": "Last week, I wrote about the ESP32-C5-LCD-1.47 as one of the first ESP32-C5 devkits with a built-in display enabling dual-band WiFi 6 connectivity for IoT and HMI projects. However, one reader lamented the lack of touch-capable screens, at which point kwchow pointed to the ESP32-C5-Touch-LCD-2.8 model offering just that by pairing an ESP32-C5 with a 2.8-inch IPS display with capacitive touch and 320 480 resolution. The new board also features a microSD card, a USB-C port for power and programming, a built-in microphone and a speaker connector, a few sensors, and various I/Os connectors for expansion. Let s have a closer look. ESP32-C5-Touch-LCD-2.8 specifications: Wireless module Espressif Systems ESP32-C5-WROOM-1-N32R8 SoC ESP32-C5HR8 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory 384 KB SRAM on-chip, 8MB PSRAM Storage 320 KB ROM Wireless Connectivity [...] The post ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/07/esp32-c5-devkit-offers-2-8-inch-capacitive-touch-display-dual-band-wi-fi-6-bluetooth-5-le-lipo-battery-support/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-07T11:29:45.570419"
-  },
-  {
-    "title": "Mercedes-Benz hosts open-source hardware Automotive Rapid DEvelopment Platform (ARDEP)",
-    "summary": "ARDEP (Automotive Rapid DEvelopment Platform) is an open-source hardware and software platform hosted on Mercedes-Benz s GitHub account and released under an Apache 2.0 license. The ARDEP V2 main board is based on an STMicroelectronics STM32G474VE Arm Cortex-M4F microcontroller for motor control with CORDIC and FMAC hardware math accelerators, and features CAN-FD and LIN transceivers, while the PowerIO Shield features 6 outputs and 6 inputs supporting up to 48V and 3A per channel. ARDEP V2 specifications: MCU STMicroelectronics STM32G474VE Arm Cortex-M4 with FPU at up to 170 MHz Math accelerators CORDIC for trigonometric functions and Filter Mathematical ACcelerator (FMAC) Memory 128 KB SRAM Storage 256 KB single-bank flash USB 1x USB Type-C ARDEP port 1x USB Type-C Debugger port Transceivers 2x CAN-FD capable transceivers, each with a common mode choke, ESD protection, and hardware-configurable 120 Ohm termination 1x LIN transceiver, software-selectable master or slave mode I/Os DB-9 [...] The post Mercedes-Benz hosts open-source hardware Automotive Rapid DEvelopment Platform (ARDEP) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/07/mercedes-benz-hosts-open-source-hardware-automotive-rapid-development-platform-ardep/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-07-07T11:29:45.570592"
-  },
-  {
-    "title": "PocketMage An ESP32-S3-based Personal Digital Assistant (Crowdfunding)",
-    "summary": "PocketMage is an open-source hardware, ESP32-S3 personal digital assistant (PDA) with a primary, sun-readable 3.1-inch E Ink display, a secondary 1.8-inch OLED for high-refresh rate feedback, a full tactile QWERTY keyboard, and a capacitive scroll bar. The device also features a microSD card slot for storage, a buzzer for audio/sound feedback, a USB-C port for charging the 1,200 mAh battery or connecting a USB keyboard, as well as an RTC and an FPC connector for GPIO expansion. PocketMage specifications: SoC ESP32-S3 microcontroller with Wi-Fi and Bluetooth wireless connectivity Memory 2 MB QSPI PSRAM Storage 16 MB QSPI flash MicroSD card slot Displays Primary 3.1-inch E Ink/e-paper display with 320 240 resolution Secondary 1.8-inch OLED with 256 32 resolution Audio Piezo buzzer for beeps and boops USB USB Type-C port for charging and peripherals like a keyboard User input Built-in tactile QWERTY keyboard Capacitive scroll bar USB keyboard support [...] The post PocketMage An ESP32-S3-based Personal Digital Assistant (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/07/pocketmage-esp32-s3-personal-digital-assistant/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-07T11:29:45.570753"
-  },
-  {
-    "title": "SMP Techstrong joint venture expands sensor manufacturing",
-    "summary": "New York s SMP announced 50/50 joint venture with Thailand-based Techstrong Holdings to expand vehicle sensor capabilities.",
-    "link": "https://www.fiercesensors.com/electronics/smp-techstrong-joint-venture-expands-sensor-manufacturing",
+    "title": "South Korea's $880 billion chip and AI plan faces big power and water challenges a single megacluster requires a quarter of Seoul's total power demand",
+    "summary": "The 1,350 trillion total combines a $520 billion semiconductor program with AI data center and robotics spending, mostly made up of corporate capex.",
+    "link": "https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.571678"
+    "processed_date": "2026-07-08T10:48:08.788473"
   },
   {
-    "title": "Nvidia RTX 5080 Super with 415W TDP appears in Seasonic PSU calculator",
-    "summary": "According to the PSU wattage calculator's listing, the RTX 5080 Super has a TDP of 415W. That aligns with previous rumors about the card, which placed its TDP at a less specific 400+W. Read Entire Article",
-    "link": "https://www.techspot.com/news/113028-nvidia-rtx-5080-super-415w-tdp-appears-seasonic.html",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.572064"
-  },
-  {
-    "title": "AMD X870 Motherboard Roundup: 53 Motherboards Tested",
-    "summary": "After six months of testing, we compare 53 AMD X870 and X870E motherboards across VRM thermals, USB performance, PCIe lane sharing, features, and value. Read Entire Article",
-    "link": "https://www.techspot.com/review/3143-amd-x870-motherboards-full/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-07T11:29:45.572232"
-  },
-  {
-    "title": "Microsoft is cutting 3,200 Xbox jobs and spinning off four game studios",
-    "summary": "In a public memo to Xbox employees, CEO Asha Sharma confirmed that Microsoft will eliminate approximately 3,200 positions across the gaming division between now and July 2027, with 1,600 layoffs taking effect immediately. Other outlets report an additional 1,600 redundancies across other Microsoft divisions, bringing the total to 4,800. Read Entire Article",
-    "link": "https://www.techspot.com/news/113017-microsoft-cutting-3200-xbox-jobs-spinning-off-four.html",
-    "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.572389"
-  },
-  {
-    "title": "Steam Machine owner reports a \"Red Line of Death\" days after launch, but it fixed itself",
-    "summary": "It is too early to say whether Valve's Steam Machine will suffer from widespread reliability issues comparable to Xbox's Red Ring of Death or other notorious hardware failures seen in past console generations. However, the recently launched, relatively expensive, and currently hard-to-find device has already been linked to alleged \"GPU... Read Entire Article",
-    "link": "https://www.techspot.com/news/113015-steam-machine-appeared-fail-red-line-death-came.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-07T11:29:45.572507"
-  },
-  {
-    "title": "Microsoft has a hidden Windows 11 edition that supports 6TB of RAM and 256 CPU cores",
-    "summary": "Windows 11 Pro for Workstations is designed for professionals, data scientists, and enterprise users with highly specialized workloads. As noted by TechPowerup, it's positioned between Windows 11 Pro and Windows Server, but it largely remained hidden in plain sight for five years, even though download links and purchase options were... Read Entire Article",
-    "link": "https://www.techspot.com/news/113012-microsoft-has-hidden-windows-11-edition-supports-6tb.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.572618"
-  },
-  {
-    "title": "Nvidia Profile Inspector 3.0 modernizes the popular driver profile editor",
-    "summary": "Nvidia Profile Inspector lets you view and edit hidden driver profiles and settings. Version 3.0 delivers its biggest update in years with a redesigned interface, faster profile browsing, and support for newer features including DLSS overrides and RTX Dynamic Vibrance. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/5077-nvidia-inspector.html",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.572720"
-  },
-  {
-    "title": "Why Gen Z is falling in love with film photography and rejecting the algorithm along with it",
-    "summary": "It wasn't too long ago that analog photography which uses photographic film and chemical processing was declared all but dead, relegated to the province of niche hobbyists and professional artists. Read Entire Article",
-    "link": "https://www.techspot.com/news/113014-why-gen-z-falling-love-film-photography-rejecting.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.572816"
-  },
-  {
-    "title": "Philips' new \"triple-mode\" monitors go all the way down to 720p for maximum speed",
-    "summary": "Philips recently announced two new monitors under the company's \"premium\" Evnia gaming brand. The Evnia 27M4N3500PT and Evnia 27M4N5500PT are reportedly the world's first Triple-Mode Fast IPS monitors, meaning they can quickly switch between three display modes to accommodate different types of gaming workloads. Read Entire Article",
-    "link": "https://www.techspot.com/news/113010-philips-introduces-triple-mode-monitors-different-gaming-scenarios.html",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-07T11:29:45.572920"
-  },
-  {
-    "title": "Samsung will earn more profit in 2026 than it did over the previous 40 years combined thanks to the AI boom",
-    "summary": "During a recent town hall meeting, Kim Yong-Kwan, President of Corporate Management, Strategy, and Operations for Samsung's Device Solutions division, said the company's profit in 2026 would surpass its cumulative profit over the last 40 years since they entered the semiconductor business. Read Entire Article",
-    "link": "https://www.techspot.com/news/113011-samsung-earn-more-profit-2026-than-did-over.html",
+    "title": "Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year",
+    "summary": "Chinese memory and storage manufacturer Longsys expects to post a massive increase in profits due to the AI-driven chip shortage.",
+    "link": "https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.573027"
+    "processed_date": "2026-07-08T10:48:08.788587"
   },
   {
-    "title": "SpaceX intentionally burned up 260 Starlink satellites in the last six months, with hundreds more set to follow",
-    "summary": "The process is deliberate. Starlink satellites are designed to have a lifespan of about five years and are then replaced with newer models. When a satellite reaches the end of its life and runs low on fuel, it uses what remains to lower its orbit and re-enter the atmosphere. The... Read Entire Article",
-    "link": "https://www.techspot.com/news/113006-spacex-burned-up-260-starlink-satellites-six-months.html",
+    "title": "AVX-512 support is reportedly returning with Intel's next-gen Nova Lake CPUs Latest Linux kernel patches reveal P-cores and E-cores will gain native 512-bit execution",
+    "summary": "It looks like Intel is adding back AVX-512 support to its client CPUs starting from the upcoming Nova Lake desktop lineup. Previously, we expected to see AVX-256 debut on a consumer family, allowing E-cores to execute 256-bit code, but now it seems that even the E-cores will gain native 512-bit registers.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/avx-512-support-is-reportedly-returning-with-intels-next-gen-nova-lake-cpus-latest-linux-kernel-patches-reveal-p-cores-and-e-cores-will-gain-native-512-bit-execution",
     "categories": [
+      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.573130"
+    "processed_date": "2026-07-08T10:48:08.788718"
   },
   {
-    "title": "One of Windows' most hated features just helped catch a 19-year-old hacker",
-    "summary": "That hacker is Peter Stokes, a 19-year-old who holds both American and Estonian citizenship. Finnish police grabbed him on April 10 as he tried to board a flight to Japan out of Helsinki. He was recently extradited to the United States, where six counts covering conspiracy, computer intrusion, and fraud... Read Entire Article",
-    "link": "https://www.techspot.com/news/113005-one-windows-most-hated-features-helped-catch-19.html",
+    "title": "Companies are now using automatic Windows installers to display Adware through the Microsoft Store when you install new hardware customer immediately gets McAfee ads on their PC after connecting new LG monitor; here's how to block the new ads",
+    "summary": "LG monitors apparently auto-install an app on your PC when you first connect them, all thanks to the Microsoft Store.",
+    "link": "https://www.tomshardware.com/software/windows/companies-are-now-using-automatic-windows-installers-to-display-adware-through-the-microsoft-store-when-you-install-new-hardware-customer-immediately-gets-mcafee-ads-on-their-pc-after-connecting-new-lg-monitor-heres-how-to-block-the-new-ads",
     "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.573267"
+    "processed_date": "2026-07-08T10:48:08.788829"
   },
   {
-    "title": "The Supreme Court just ruled that police need a warrant to use phone location data",
-    "summary": "Geofence warrants work differently from traditional investigations. Instead of starting with a suspect, police define a specific place and time, then ask a company to provide data on all devices in that area. From there, investigators narrow the list and may request identifying details for certain users. Read Entire Article",
-    "link": "https://www.techspot.com/news/113004-supreme-court-limits-police-use-geofence-warrants-phone.html",
+    "title": "PlayStation disc petition approaches 200,000 signatures as backlash grows over Sony's decision to stop producing new physical media firm still plans to produce optical media for existing titles, but new games will be digital only",
+    "summary": "A Change.org petition urging Sony to keep making physical PlayStation games has passed 172,000 signatures.",
+    "link": "https://www.tomshardware.com/video-games/playstation/playstation-disc-petition-approaches-200000-signatures",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-08T10:48:08.788931"
+  },
+  {
+    "title": "Steam Machines with the Red Line of Death get a simple, official cure: Clear the CMOS clearing the CMOS can revive flat(red)-lining cubes",
+    "summary": "Valve s official account on Reddit has responded to RLOD victims with simple step-by-step instructions to get any affected Steam Machine up and running again.",
+    "link": "https://www.tomshardware.com/desktops/mini-pcs/steam-machines-with-the-red-line-of-death-get-a-simple-official-cure-clear-the-cmos-clearing-the-cmos-can-revive-flat-red-lining-cubes",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.573375"
+    "processed_date": "2026-07-08T10:48:08.789039"
   },
   {
-    "title": "Nvidia's RTX 3060 returns to store shelves at its original 2021 price",
-    "summary": "Newegg is now listing the MSI GeForce RTX 3060 Ventus 2X 12G OC for $329.99 its original launch price. VideoCardz writes that the listing was created on July 2 and published on July 5. Read Entire Article",
-    "link": "https://www.techspot.com/news/113008-nvidia-rtx-3060-returns-us-stores-original-2021.html",
+    "title": "UK gives data centers option to apply for 'national importance' status that overrides local regulations, cuts timeline by a year eligible projects to bypass local councils, save more than a billion dollars in NIMBY fights",
+    "summary": "The British government ruled that nationally significant infrastructure projects, which include data centers, can bypass local council approvals. This move is expected to speed up developments by up to a year and save more than a billion dollars.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/uk-gives-data-centers-option-to-apply-for-national-importance-status-that-overrides-local-regulations-cuts-timeline-by-a-year-eligible-projects-to-bypass-local-councils-save-more-than-a-billion-dollars-in-nimby-fights",
     "categories": [
-      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-08T10:48:08.789153"
+  },
+  {
+    "title": "Hands-on with Corsair's 2800X RS-R ARGB Micro-ATX PC Case smaller footprint, roomy internals, includes three fans",
+    "summary": "Corsair s 2800X RS-R ARGB brings a compact MicroATX design with room for full-size hardware, strong cooling support, and three pre-installed ARGB fans. Priced under $90, it offers solid value for a small-form-factor chassis.",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/corsair-2800x-rs-r-argb-micro-atx-pc-case-hands-on",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-08T10:48:08.789268"
+  },
+  {
+    "title": "Dev ports Linux to Atari's notorious Jaguar console from 1993 the first 64-bit console features 2MB of RAM, 13.3 MHz CPU, and Tom and Jerry co-processors; the Jag was notoriously difficult to program and flopped",
+    "summary": "A developer has ported Linux to the Atari Jaguar console. To succeed at the task, they had to overcome severe memory limits, the lack of an MMU, and face off against a handful of unusual hardware quirks.",
+    "link": "https://www.tomshardware.com/software/linux/dev-ports-linux-to-ataris-notorious-jaguar-console-from-1993-the-first-64-bit-console-features-2mb-of-ram-13-3-mhz-cpu-and-tom-and-jerry-co-processors-the-jag-was-notoriously-difficult-to-program-and-flopped",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-08T10:48:08.789397"
+  },
+  {
+    "title": "Rikomagic DS04 An Android 14 4K digital signage player powered by Rockchip RK3576 SoC",
+    "summary": "Rikomagic DS04 is a new 4K digital signage player running Android 14 on a Rockchip RK3576 octa-core Cortex-A72/A53 processor paired with 4GB of RAM and 32GB of storage. It looks to be a cost-down version of the Rockchip RK3588-powered Rikomagic DS08 8K digital signage player with many of the same ports and features, including two 4K-capable HDMI 2.1 ports, a Gigabit Ethernet RJ45 jack, WiFi 6 and Bluetooth 5.2 connectivity, optional 4G LTE, and a few USB ports. Rikomagic DS04 specifications: SoC Rockchip RK3576 CPU 4x Cortex-A72 cores at 2.3GHz, 4x Cortex-A53 cores at 2.2GHz Arm Cortex-M0 MCU at 400MHz GPU ARM Mali-G52 MC3 GPU with support for OpenGL ES 1.1, 2.0, and 3.2, OpenCL up to 2.0, and Vulkan 1.1 NPU 6 TOPS (INT8) AI accelerator with support for INT4/INT8/INT16/BF16/TF32 mixed operations. VPU Video Decoder H.264, H.265, VP9, AV1, and AVS2 up to 8Kp30 or [...] The post Rikomagic DS04 An Android 14 4K digital signage player powered by Rockchip RK3576 SoC appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/08/rikomagic-ds04-an-android-14-4k-digital-signage-player-powered-by-rockchip-rk3576-soc/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-08T10:48:08.789932"
+  },
+  {
+    "title": "KKSB 10-inch and 19-inch rack panels target Raspberry Pi clusters, support Pi HATs and active coolers",
+    "summary": "KKSB Cases has introduced a series of rack panels designed for Raspberry Pi clusters in standard rack enclosures. The lineup includes a 10-inch 1U model for two Raspberry Pi boards, a 19-inch 1U model for five boards, and a 19-inch 2U model for up to ten boards. All the panels support Raspberry Pi 5, Raspberry Pi 4, Raspberry Pi 3, Pi 2, and other boards sharing the same mounting hole pattern. The rack panels are made from powder-coated steel and expose the USB and Ethernet ports on the front of the rack for easier cable management. Each slot provides room for Raspberry Pi HATs and the official Raspberry Pi active cooler. KKSB also includes hex standoffs and 40-pin GPIO headers so HATs can be installed above the SBCs when additional clearance is required. Each Raspberry Pi is first attached to an individual mounting tray, which is then secured into the [...] The post KKSB 10-inch and 19-inch rack panels target Raspberry Pi clusters, support Pi HATs and active coolers appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/08/kksb-10-inch-and-19-inch-rack-panels-target-raspberry-pi-clusters-support-pi-hats-and-active-coolers/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-08T10:48:08.790094"
+  },
+  {
+    "title": "Bryan Johnson, the millionaire biohacker who wants to live forever, diagnosed with incurable autoimmune disease",
+    "summary": "Johnson revealed his diagnosis on Instagram. He wrote that 2-5% of people have autoimmune gastritis, though the number may be higher as it can be hard to spot in its early stages. Read Entire Article",
+    "link": "https://www.techspot.com/news/113035-bryan-johnson-millionaire-biohacker-who-wants-live-forever.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-08T10:48:08.791418"
+  },
+  {
+    "title": "An indie developer says Steam's refund policy cost his well-reviewed game 55,000 refunds",
+    "summary": "Despite earning a 90% \"very positive\" rating on Steam, Paddle Paddle Paddle (PPP) has been hit with an unusually high 21% refund rate. Mateo says his game has collected more than 55,000 refunds, and he's now pointing to Valve's famously lenient refund policy as the culprit. It doesn't help that... Read Entire Article",
+    "link": "https://www.techspot.com/news/113030-indie-developer-steam-refund-policy-cost-well-reviewed.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-08T10:48:08.791579"
+  },
+  {
+    "title": "LG and Alienware monitors caught auto-installing Windows adware",
+    "summary": "Redditor \"Mags_Smash\" recently complained about seeing McAfee pop-up ads on his PC despite never having installed the antivirus suite. He eventually traced the ads back to another app that his new LG monitor had installed without his knowledge. Read Entire Article",
+    "link": "https://www.techspot.com/news/113031-lg-alienware-monitors-caught-auto-installing-windows-adware.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-08T10:48:08.791706"
+  },
+  {
+    "title": "This German drone just hit 699 km/h, and its maker wants the world record to prove it",
+    "summary": "Quantum Systems has built a UAV capable of reaching speeds of up to 699 km/h in \"straight and level flight\" and is now seeking official recognition for the achievement. The German drone maker recently announced that its Apex Recordhunter drone reached an \"unofficial\" world record during internal testing conducted on... Read Entire Article",
+    "link": "https://www.techspot.com/news/113016-quantum-targets-electric-drone-air-speed-record-434.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-08T10:48:08.791820"
+  },
+  {
+    "title": "Keychron is stepping outside keyboards with a $349 Thunderbolt 5 dock aimed at power users",
+    "summary": "At the center of the device is Thunderbolt 5's 120 Gbit/s bandwidth ceiling. That throughput is enough to support dual 8K displays or up to four 4K monitors from a single dock. While Thunderbolt 5 laptops are still relatively uncommon, more systems are beginning to ship with the standard, and... Read Entire Article",
+    "link": "https://www.techspot.com/news/113025-keychron-stepping-outside-keyboards-349-thunderbolt-5-dock.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-08T10:48:08.791930"
+  },
+  {
+    "title": "The Steam Machine now has official Windows drivers",
+    "summary": "Four drivers are available, covering the GPU, Bluetooth, wireless connectivity, and SD card reader. After installing Windows and loading the drivers, the display, networking, and card reader work as they would on a typical PC. Read Entire Article",
+    "link": "https://www.techspot.com/news/113026-valve-releases-official-windows-drivers-steam-machine.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-08T10:48:08.792035"
+  },
+  {
+    "title": "Intel's troubled 18A chip process is finally running smoothly",
+    "summary": "BlueFin says Intel has resolved the yield issues that had dogged 18A over the past few months, making high-volume production of its latest node sustainable from both a manufacturing and an economic standpoint. In mature nodes, defect density typically falls within the D0=0.1 to D0=0.2 range. The report suggests Intel's... Read Entire Article",
+    "link": "https://www.techspot.com/news/113023-intel-troubled-18a-chip-process-finally-running-smoothly.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-08T10:48:08.792140"
+  },
+  {
+    "title": "Australia's teen social media ban stumbles as platforms skip age checks",
+    "summary": "Since December 2025, services such as Instagram, Snapchat, TikTok, YouTube, Facebook, X, and others have been required to take \"reasonable steps\" to stop Australians under 16 from holding accounts. Read Entire Article",
+    "link": "https://www.techspot.com/news/113024-australia-teen-social-media-ban-stumbles-platforms-skip.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-08T10:48:08.792238"
+  },
+  {
+    "title": "The FBI and Google just took down a botnet that hijacked 2 million smart TVs",
+    "summary": "The Popa botnet relied on a malicious software development kit embedded in low-cost Android-based devices, including smart TVs and streaming boxes, as well as unofficial apps such as SmartTube. Once those devices were connected, they began acting as proxy exit points without clearly informing users. That setup allowed attackers to... Read Entire Article",
+    "link": "https://www.techspot.com/news/113021-fbi-google-took-down-botnet-hijacked-2-million.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-08T10:48:08.792376"
+  },
+  {
+    "title": "Microsoft confirms Windows 11 bug can steal over 500GB of storage here's how to check and fix it",
+    "summary": "The bug, which was spotted by Windows Latest, is related to Windows 11's Capability Access Manager, a system component tied to Microsoft's app permission controls. It manages access to privacy-sensitive features such as the camera, microphone, location, contacts, and screen capture, and records when apps request or use those capabilities. Read Entire Article",
+    "link": "https://www.techspot.com/news/113029-microsoft-confirms-windows-11-bug-can-steal-over.html",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-07T11:29:45.573470"
+    "processed_date": "2026-07-08T10:48:08.792491"
+  },
+  {
+    "title": "A free app lets Sony headphones do head tracking for racing and flight sims",
+    "summary": "Head tracking, often used to enhance awareness in driving and flying games, traditionally requires extra IR tracking hardware or VR headsets. However, a new free app enables the feature for owners of Sony's WH-1000XM5 headphones and several similar models. Read Entire Article",
+    "link": "https://www.techspot.com/news/113019-free-app-sony-headphones-do-head-tracking-racing.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-08T10:48:08.792599"
+  },
+  {
+    "title": "The open-source, DRM-free Open Printer shows off a working prototype",
+    "summary": "It's been many years since printing from a PC involved little more than buying a printer and some ink, then purchasing extra cartridges when needed. Today, the industry is filled with DRM-locked ink cartridges, subscriptions, and other unsavory tactics. Read Entire Article",
+    "link": "https://www.techspot.com/news/113022-open-source-drm-free-open-printer-shows-off.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-08T10:48:08.792702"
+  },
+  {
+    "title": "Fake tech support, bogus crypto, and a gold pickup: how scammers stole $673,000 in three days",
+    "summary": "Several of the scams started with familiar setups. One person lost $3,500 after buying Apple gift cards for someone posing as Microsoft technical support. Another lost $50,000 after clicking on a malicious email that allowed scammers to access financial accounts. Read Entire Article",
+    "link": "https://www.techspot.com/news/113018-fake-tech-support-bogus-crypto-gold-pickup-how.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-08T10:48:08.792806"
   }
 ]
