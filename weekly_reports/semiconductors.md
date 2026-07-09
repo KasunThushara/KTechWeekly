@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of July 08, 2026**
+**Week of July 09, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,69 +7,69 @@
 
 ## 📊 Summary
 - **Articles this week:** 6
-- **Report generated:** 2026-07-08 10:49
+- **Report generated:** 2026-07-09 11:44
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. UK gives data centers option to apply for 'national importance' status that overrides local regulations, cuts timeline by a year eligible projects to bypass local councils, save more than a billion dollars in NIMBY fights 
+### 1. Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, reveals next-gen 'Rigel' Arm CPU cores frames chip as a 'max single-threaded CPU at scale,' not a parallel monster 
 
-The UK government allows data centers to bypass local council approvals, speeding up developments by up to a year and saving over a billion dollars. The move targets nationally significant infrastructure projects to streamline the process. This is expected to benefit large-scale projects like data centers.
+Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, with 1.8x uplift in agentic workloads and 1.5x in coding compared to x86 competition.
 
-💡 *Streamlined regulations boost data center development and cost efficiency.*
+💡 *Nvidia prioritizes single-threaded performance in Vera CPU design for AI applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/uk-gives-data-centers-option-to-apply-for-national-importance-status-that-overrides-local-regulations-cuts-timeline-by-a-year-eligible-projects-to-bypass-local-councils-save-more-than-a-billion-dollars-in-nimby-fights)
-
----
-
-### 2. Rikomagic DS04 An Android 14 4K digital signage player powered by Rockchip RK3576 SoC 
-
-Rikomagic DS04 is a 4K digital signage player running Android 14 on an octa-core Rockchip RK3576 processor, offering features like dual 4K HDMI ports, Gigabit Ethernet, and 4G LTE connectivity.
-
-💡 *Cost-effective 4K digital signage option for various applications and industries.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/08/rikomagic-ds04-an-android-14-4k-digital-signage-player-powered-by-rockchip-rk3576-soc/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/nvidia-touts-vera-cpus-single-threaded-performance-as-its-agentic-ai-advantage-frames-chip-as-a-max-single-threaded-cpu-at-scale-not-a-parallel-monster)
 
 ---
 
-### 3. South Korea's $880 billion chip and AI plan faces big power and water challenges a single megacluster requires a quarter of Seoul's total power demand 
+### 2. Makerfabs MaUWB for Home Assistant An ESP32-S3 UWB module with PoE and enclosure 
 
-South Korea plans a massive $880 billion chip and AI initiative, which includes a $520 billion semiconductor program, but faces significant power and water challenges due to the massive energy demands of a single megacluster, equivalent to a quarter of Seoul's total power demand.
+The Makerfabs MaUWB module is an ESP32-S3-based UWB module for indoor positioning and RTLS, integrating with Home Assistant via ESPHome for seamless tracking of tagged devices.
 
-💡 *Massive energy demands threaten South Korea's ambitious chip and AI plan.*
+💡 *Precise indoor location tracking for smart homes and offices enabled.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan)
-
----
-
-### 4. Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year 
-
-Chinese memory and storage firm Longsys forecasts a massive profit jump due to the AI-driven chip shortage, expecting nearly $1.5 billion in profit for the first half of 2026 compared to $2.1 million last year.
-
-💡 *Chip shortage drives massive profit surge in memory and storage industry.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/)
 
 ---
 
-### 5. The Steam Machine now has official Windows drivers 
+### 3. Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments 
 
-Microsoft has officially released Windows drivers for the Steam Machine, covering GPU, Bluetooth, and wireless connectivity, allowing for seamless integration with Windows.
+Norik Systems introduced a compact USB dongle using Nordic's nRF9151 SiP for DECT NR+ deployments, enabling developers to easily integrate the non-cellular 5G standard into gateways or child nodes.
 
-💡 *Steam Machine now fully compatible with Windows operating system.*
+💡 *Accelerating DECT NR+ adoption with easy-to-use, compact USB connectivity solutions*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113026-valve-releases-official-windows-drivers-steam-machine.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/)
 
 ---
 
-### 6. Intel's troubled 18A chip process is finally running smoothly 
+### 4. Rapidus fab roadmap examined first new leading-edge chipmaker in decades has one Hokkaido fab, a 2027 deadline, and 60 potential customers 
 
-Intel has resolved yield issues with its 18A chip process, enabling high-volume production. The company has achieved a defect density range of 0.1 to 0.2, typical for mature nodes. This progress makes production sustainable and economically viable.
+Rapidus is building Japan's first leading-edge logic fab in Chitose, Hokkaido, with a 2027 deadline and 60 potential customers.
 
-💡 *Intel's manufacturing efficiency boosts economic viability of 18A chip production*
+💡 *Japan's return to leading-edge chip production after decades of absence.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113023-intel-troubled-18a-chip-process-finally-running-smoothly.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined)
+
+---
+
+### 5. 8Bitdo's wireless Pro 2 gaming controller falls to all-time low price hall-effect gamepad is 38% off, just $37.19 
+
+The 8Bitdo wireless Pro 2 gaming controller is on sale, 38% off, for $37.19. This is an all-time low price at Amazon for Prime members. The Pro 2 features hall-effect joysticks for precision gaming.
+
+💡 *Gaming enthusiasts can upgrade their experience at a budget-friendly price.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/8bitdos-wireless-pro-2-gaming-controller-falls-to-all-time-low-price-hall-effect-gamepad-is-38-percent-off-just-usd37-19)
+
+---
+
+### 6. A new satellite wants to prove nuclear power can work in space without solar panels 
+
+BOHR's mission tests a betavoltaic power source that converts beta particles into electricity, a potential nuclear power alternative for space missions without solar panels.
+
+💡 *Nuclear power in space could provide a reliable, long-lasting energy source.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113038-new-satellite-wants-prove-nuclear-power-can-work.html)
 
 ---
 

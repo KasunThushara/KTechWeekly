@@ -1,165 +1,205 @@
 # 🤖 AI & ML
-**Week of July 08, 2026**
+**Week of July 09, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 15
-- **Report generated:** 2026-07-08 10:49
+- **Articles this week:** 19
+- **Report generated:** 2026-07-09 11:44
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. This German drone just hit 699 km/h, and its maker wants the world record to prove it 
+### 1. AMD EXPO ULL shows middling performance gains in initial tests despite eye-watering price increase first benchmarks show up to a 4% improvement with DDR5-6000 CL36 ⭐
 
-Quantum Systems' Apex Recordhunter drone reached 699 km/h in internal testing, seeking official recognition.
+AMD's EXPO ULL memory shows limited performance gains, up to 4%, despite significant price increase. Initial tests indicate that the higher cost does not translate to substantial performance benefits. This may impact consumer purchasing decisions.
 
-💡 *Breaks speed records, pushing drone technology to new limits.*
+💡 *Middling performance gains outpace price increases in EXPO ULL memory*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113016-quantum-targets-electric-drone-air-speed-record-434.html)
-
----
-
-### 2. Fake tech support, bogus crypto, and a gold pickup: how scammers stole $673,000 in three days 
-
-Scammers stole $673,000 in three days using fake tech support and crypto schemes.
-
-💡 *Scammers exploit trust and ignorance to steal large sums quickly online.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113018-fake-tech-support-bogus-crypto-gold-pickup-how.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/amd-expo-ull-shows-middling-performance-gains-in-initial-tests-despite-price-increase-first-benchmarks-show-up-to-a-4-percent-improvement-with-ddr5-6000-cl36)
 
 ---
 
-### 3. South Korea's $880 billion chip and AI plan faces big power and water challenges a single megacluster requires a quarter of Seoul's total power demand 
+### 2. China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' Gov't claims Claude sends sensitive information to remote servers without consent 
 
-South Korea plans a massive $880 billion chip and AI initiative, which includes a $520 billion semiconductor program, but faces significant power and water challenges due to the massive energy demands of a single megacluster, equivalent to a quarter of Seoul's total power demand.
+China warns users against using certain versions of Claude Code, claiming hidden code sends sensitive user information to remote servers without consent. The government advises uninstalling the app or using its latest version. Claude Code is not approved for use in China.
 
-💡 *Massive energy demands threaten South Korea's ambitious chip and AI plan.*
+💡 *Claude Code's secret data transfer poses significant national security risks.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan)
-
----
-
-### 4. Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year 
-
-Chinese memory and storage firm Longsys forecasts a massive profit jump due to the AI-driven chip shortage, expecting nearly $1.5 billion in profit for the first half of 2026 compared to $2.1 million last year.
-
-💡 *Chip shortage drives massive profit surge in memory and storage industry.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent)
 
 ---
 
-### 5. AVX-512 support is reportedly returning with Intel's next-gen Nova Lake CPUs Latest Linux kernel patches reveal P-cores and E-cores will gain native 512-bit execution 
+### 3. Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers Chinese company's firmware allows admin access without a password 
 
-Intel's Nova Lake CPUs will reportedly feature native 512-bit execution, including E-cores. This means AVX-512 support is returning to Intel's client CPUs. The upcoming desktop lineup will benefit from improved performance.
+A critical authentication backdoor in Tenda router firmware grants admin access without valid credentials, leaving users vulnerable. The vulnerability, tracked as CVE-2026-11405, affects multiple firmware versions and has no available patch. Researchers have warned Tenda, but the company has yet to address the issue.
 
-💡 *Enhanced performance for compute-intensive tasks and applications.*
+💡 *Unpatched backdoor exposes users to full administrator access risk*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/avx-512-support-is-reportedly-returning-with-intels-next-gen-nova-lake-cpus-latest-linux-kernel-patches-reveal-p-cores-and-e-cores-will-gain-native-512-bit-execution)
-
----
-
-### 6. Steam Machines with the Red Line of Death get a simple, official cure: Clear the CMOS clearing the CMOS can revive flat(red)-lining cubes 
-
-Valve provides simple CMOS clearing instructions to revive affected Steam Machines with RLOD. The process involves a straightforward reset of the motherboard's CMOS settings. This solution aims to resolve the notorious Red Line of Death issue.
-
-💡 *CMOS clearing offers a quick fix for RLOD Steam Machine problems*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/steam-machines-with-the-red-line-of-death-get-a-simple-official-cure-clear-the-cmos-clearing-the-cmos-can-revive-flat-red-lining-cubes)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/hidden-backdoor-found-in-tenda-routers-goes-unpatched-despite-warnings-from-cybersecurity-researchers-affected-firmware-allows-admin-access-without-a-password)
 
 ---
 
-### 7. Hands-on with Corsair's 2800X RS-R ARGB Micro-ATX PC Case smaller footprint, roomy internals, includes three fans 
+### 4. SiPearl's long-awaited Rhea CPU finally gets in the lab, opening the door for Europe's first sovereign HPC CPU 'availability of Rhea1 is scheduled for end of 2026' SiPearl VP says, following long development process 
 
-The Corsair 2800X RS-R ARGB is a compact MicroATX case with room for full-size hardware, strong cooling support, and three pre-installed ARGB fans, offering solid value for a small-form-factor chassis at an affordable price under $90.
+SiPearl's Rhea CPU marks a significant milestone for Europe's HPC ambitions. Following a long development process, the limited run CPU is expected to become available at the end of 2026. Its availability could pave the way for Europe's first HPC processors on global markets.
 
-💡 *Compact design meets full-size hardware needs at budget-friendly prices.*
+💡 *Limited run CPU opens doors for Europe's HPC market entry*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/corsair-2800x-rs-r-argb-micro-atx-pc-case-hands-on)
-
----
-
-### 8. Dev ports Linux to Atari's notorious Jaguar console from 1993 the first 64-bit console features 2MB of RAM, 13.3 MHz CPU, and Tom and Jerry co-processors; the Jag was notoriously difficult to program and flopped 
-
-A developer has successfully ported Linux to the Atari Jaguar console, despite its notorious programming difficulties and limited hardware specifications.
-
-💡 *Linux port demonstrates the resilience of open-source software against hardware challenges*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/dev-ports-linux-to-ataris-notorious-jaguar-console-from-1993-the-first-64-bit-console-features-2mb-of-ram-13-3-mhz-cpu-and-tom-and-jerry-co-processors-the-jag-was-notoriously-difficult-to-program-and-flopped)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/sipearls-long-awaited-rhea-cpu-finally-gets-in-the-lab-opening-the-door-for-europes-first-sovereign-hpc-cpu-availability-of-rhea1-is-scheduled-for-end-of-2026-sipearl-vp-says-following-long-development-process)
 
 ---
 
-### 9. KKSB 10-inch and 19-inch rack panels target Raspberry Pi clusters, support Pi HATs and active coolers 
+### 5. Power company hikes data center bills by 30%, cuts residential electricity costs by 1.3% Oregon approves change through POWER Act, pushes developments using more than 20 Megawatts of power to pay their fair share 
 
-KKSB Cases introduces rack panels for Raspberry Pi clusters in standard enclosures, supporting various Pi boards, HATs, and active coolers for easier cable management and expanded functionality.
+Oregon's POWER Act allows PGE to increase data center bills by 30%, while reducing residential costs by 1.3%. The move aims to ensure large data centers pay their fair share of electricity costs. The change is set to impact developments using over 20 Megawatts of power.
 
-💡 *Raspberry Pi clusters gain organized and scalable infrastructure support.*
+💡 *Large data centers must pay their fair share of electricity costs*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/08/kksb-10-inch-and-19-inch-rack-panels-target-raspberry-pi-clusters-support-pi-hats-and-active-coolers/)
-
----
-
-### 10. Bryan Johnson, the millionaire biohacker who wants to live forever, diagnosed with incurable autoimmune disease 
-
-Bryan Johnson, a millionaire biohacker, was diagnosed with autoimmune gastritis. This condition affects 2-5% of people and can be hard to detect in its early stages. Johnson shared his diagnosis on Instagram.
-
-💡 *Millionaire biohacker's autoimmune diagnosis challenges his pursuit of eternal life.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113035-bryan-johnson-millionaire-biohacker-who-wants-live-forever.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/power-company-hikes-data-center-bills-by-30-percent-cuts-residential-electricity-costs-by-1-3-percent-oregon-approves-change-through-power-act-pushes-developments-using-more-than-20-megawatts-of-power-to-pay-their-fair-share)
 
 ---
 
-### 11. LG and Alienware monitors caught auto-installing Windows adware 
+### 6. 'Slopfix' software team charges $10,000 a week to delete AI-generated code bloat ironically, the team uses AI agents to trim messy repositories by up to 65% 
 
-LG and Alienware monitors have been caught auto-installing Windows adware, causing pop-up ads.
+Slopfix charges $10,000 a week to refactor AI-generated code, using AI agents to trim up to 65% of code bloat.
 
-💡 *Unintended software installation can compromise user data and security.*
+💡 *AI-generated code often requires AI to make it manageable and efficient.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113031-lg-alienware-monitors-caught-auto-installing-windows-adware.html)
-
----
-
-### 12. Keychron is stepping outside keyboards with a $349 Thunderbolt 5 dock aimed at power users 
-
-Keychron's new Thunderbolt 5 dock supports dual 8K displays or four 4K monitors, catering to power users.
-
-💡 *Thunderbolt 5's high bandwidth enables seamless multi-monitor setups with laptops.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113025-keychron-stepping-outside-keyboards-349-thunderbolt-5-dock.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/a-team-of-engineers-called-slopfix-charges-10000-a-week-to-delete-ai-generated-code-using-ai-agents)
 
 ---
 
-### 13. The Steam Machine now has official Windows drivers 
+### 7. Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, reveals next-gen 'Rigel' Arm CPU cores frames chip as a 'max single-threaded CPU at scale,' not a parallel monster 
 
-Microsoft has officially released Windows drivers for the Steam Machine, covering GPU, Bluetooth, and wireless connectivity, allowing for seamless integration with Windows.
+Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, with 1.8x uplift in agentic workloads and 1.5x in coding compared to x86 competition.
 
-💡 *Steam Machine now fully compatible with Windows operating system.*
+💡 *Nvidia prioritizes single-threaded performance in Vera CPU design for AI applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113026-valve-releases-official-windows-drivers-steam-machine.html)
-
----
-
-### 14. Intel's troubled 18A chip process is finally running smoothly 
-
-Intel has resolved yield issues with its 18A chip process, enabling high-volume production. The company has achieved a defect density range of 0.1 to 0.2, typical for mature nodes. This progress makes production sustainable and economically viable.
-
-💡 *Intel's manufacturing efficiency boosts economic viability of 18A chip production*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113023-intel-troubled-18a-chip-process-finally-running-smoothly.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/nvidia-touts-vera-cpus-single-threaded-performance-as-its-agentic-ai-advantage-frames-chip-as-a-max-single-threaded-cpu-at-scale-not-a-parallel-monster)
 
 ---
 
-### 15. A free app lets Sony headphones do head tracking for racing and flight sims 
+### 8. This dog tracker uses Starlink to keep tabs on your pet, even without cell service 
 
-A free app enables head tracking for Sony headphones in gaming, eliminating the need for extra IR tracking hardware or VR headsets.
+Fi's Fi Ultra uses Starlink for satellite-based dog tracking coverage, even without cell service.
 
-💡 *Enhanced gaming experience without costly accessories*
+💡 *Enhanced pet safety in remote areas with no cell connectivity.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113019-free-app-sony-headphones-do-head-tracking-racing.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113043-dog-tracker-uses-starlink-keep-tabs-pet-even.html)
+
+---
+
+### 9. Samsung unveils fastest PCIe Gen 6 SSD, capable of transferring 40GB LLMs in just 1.4 sec 
+
+Samsung has unveiled its fastest PCIe Gen 6 SSD with up to 28.4 GB/s read speed and 21.9 GB/s write speed, enabling fast transfer of large data, such as a 40GB LLM in just 1.4 seconds.
+
+💡 *Accelerating AI model deployment with significantly improved data transfer speeds*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113042-samsung-unveils-fastest-pcie-gen-6-ssd-capable.html)
+
+---
+
+### 10. Cheyenne suspends datacenter wastewater after rare bacterium traced to Meta's AI site 
+
+A rare bacterium in Cheyenne's wastewater was linked to Meta's AI data center construction. The bacterium, Cupriavidus gilardii, was traced to a contractor's discharge from the site. The data center, valued at $800 million, is expected to be operational in 2027.
+
+💡 *Rare bacterium contaminates water supply near Meta's massive AI data center*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113041-cheyenne-suspends-datacenter-wastewater-after-rare-bacterium-traced.html)
+
+---
+
+### 11. New hack exploits AI hallucinations to trick agents into running malicious code 'HalluSquatting' attack exploits a fundamental weakness in every available model 
+
+Attackers can exploit AI hallucinations to trick agents into running malicious code, creating massive botnets.
+
+💡 *AI hallucinations leave models vulnerable to widespread exploitation everywhere.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/hallusquatting-is-the-latest-agentic-ai-exploit-where-models-dream-up-potentially-malicious-urls-in-tool-calls-attack-exploits-a-fundamental-weakness-in-every-available-model)
+
+---
+
+### 12. Future Nostalgia Project asks retro hoarders to Copy That Floppy! flips the early 1990s anti-piracy campaign on its head to encourage budding archivists 
+
+The Future Nostalgia Project reverses the early 1990s anti-piracy 'Copy That Floppy!' campaign by encouraging people to copy and preserve nostalgic floppy disks, promoting archiving and preservation of retro technology.
+
+💡 *Preserving digital history through community-driven archiving efforts matters deeply.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/future-nostalgia-project-asks-retro-hoarders-to-copy-that-floppy-flips-the-early-1990s-anti-piracy-campaign-on-its-head-to-encourage-budding-archivists)
+
+---
+
+### 13. AI servers will consume more power than all conventional data center hardware combined by 2027 global data center electricity consumption set to grow by 26% this year, Gartner forecasts 
+
+Global data center electricity consumption is expected to grow 26% in 2026 to reach 565 TWh, up from 447 TWh in 2025. This significant increase is forecasted by Gartner. The growth is driven by the expanding demand for cloud computing and AI services.
+
+💡 *Rising AI demand fuels explosive data center electricity growth.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts)
+
+---
+
+### 14. Rapidus fab roadmap examined first new leading-edge chipmaker in decades has one Hokkaido fab, a 2027 deadline, and 60 potential customers 
+
+Rapidus is building Japan's first leading-edge logic fab in Chitose, Hokkaido, with a 2027 deadline and 60 potential customers.
+
+💡 *Japan's return to leading-edge chip production after decades of absence.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined)
+
+---
+
+### 15. JEDEC releases new SPHBM4 standard to slash AI memory costs Narrow 512-bit interface enables dropping expensive interposers for organic substrates 
+
+JEDEC releases SPHBM4, a new standard that achieves HBM4-class bandwidth without silicon interposers or CoWoS-like packaging, reducing costs for AI memory.
+
+💡 *Simplifies AI memory production, lowers costs significantly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates)
+
+---
+
+### 16. Modding tool 'DLSS Swapper' might infect your PC with malware if you download the wrong files App creator warns against using random, user-submitted DLLs 
+
+The creator of DLSS Swapper warns against using random, user-submitted DLLs due to malware risks. These files, even if hosted on the app's GitHub repo, may not be safe. Users are advised to only download official, verified files.
+
+💡 *Malware risks rise with user-submitted files, no matter the source.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/modding-tool-dlss-swapper-might-infect-your-pc-with-malware-if-you-download-the-wrong-files-app-creator-warns-against-using-random-user-submitted-dlls)
+
+---
+
+### 17. Meta's new AI tool can generate images of you using your Instagram photos, and you're opted in by default 
+
+Meta's AI tool generates images using Instagram users' photos by default, without notification.
+
+💡 *Users' privacy and control over AI-generated images are compromised by default settings.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113044-meta-new-ai-tool-can-generate-images-you.html)
+
+---
+
+### 18. A new satellite wants to prove nuclear power can work in space without solar panels 
+
+BOHR's mission tests a betavoltaic power source that converts beta particles into electricity, a potential nuclear power alternative for space missions without solar panels.
+
+💡 *Nuclear power in space could provide a reliable, long-lasting energy source.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113038-new-satellite-wants-prove-nuclear-power-can-work.html)
+
+---
+
+### 19. Japanese firm reverses Blu-ray drive exit after securing parts, but prices jump up to 51% and supplies are limited 
+
+Buffalo reversed its decision to discontinue its portable Blu-ray drives after securing necessary parts. However, the drives will now come with significantly higher prices and limited supplies.
+
+💡 *Supply constraints lead to price hikes for discontinued products.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113051-japanese-firm-reverses-blu-ray-drive-exit-after.html)
 
 ---
 

@@ -1,145 +1,195 @@
 # 💻 Hardware
-**Week of July 08, 2026**
+**Week of July 09, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-07-08 10:49
+- **Articles this week:** 18
+- **Report generated:** 2026-07-09 11:44
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Rikomagic DS04 An Android 14 4K digital signage player powered by Rockchip RK3576 SoC 
+### 1. China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' Gov't claims Claude sends sensitive information to remote servers without consent 
 
-Rikomagic DS04 is a 4K digital signage player running Android 14 on an octa-core Rockchip RK3576 processor, offering features like dual 4K HDMI ports, Gigabit Ethernet, and 4G LTE connectivity.
+China warns users against using certain versions of Claude Code, claiming hidden code sends sensitive user information to remote servers without consent. The government advises uninstalling the app or using its latest version. Claude Code is not approved for use in China.
 
-💡 *Cost-effective 4K digital signage option for various applications and industries.*
+💡 *Claude Code's secret data transfer poses significant national security risks.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/08/rikomagic-ds04-an-android-14-4k-digital-signage-player-powered-by-rockchip-rk3576-soc/)
-
----
-
-### 2. An indie developer says Steam's refund policy cost his well-reviewed game 55,000 refunds 
-
-Indie game Paddle Paddle Paddle earned 90% positive reviews on Steam but 21% refund rate, with over 55,000 refunds, due to Valve's lenient refund policy.
-
-💡 *Steam's refund policy incentivizes refund abuse, hurting small game developers financially.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113030-indie-developer-steam-refund-policy-cost-well-reviewed.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent)
 
 ---
 
-### 3. The FBI and Google just took down a botnet that hijacked 2 million smart TVs 
+### 2. SiPearl's long-awaited Rhea CPU finally gets in the lab, opening the door for Europe's first sovereign HPC CPU 'availability of Rhea1 is scheduled for end of 2026' SiPearl VP says, following long development process 
 
-The FBI and Google took down the Popa botnet, which hijacked 2 million smart TVs. The malicious software development kit targeted low-cost Android-based devices, including smart TVs and streaming boxes. This allowed attackers to use the devices as proxy exit points.
+SiPearl's Rhea CPU marks a significant milestone for Europe's HPC ambitions. Following a long development process, the limited run CPU is expected to become available at the end of 2026. Its availability could pave the way for Europe's first HPC processors on global markets.
 
-💡 *Malicious software kits can compromise entire networks through inexpensive devices.*
+💡 *Limited run CPU opens doors for Europe's HPC market entry*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113021-fbi-google-took-down-botnet-hijacked-2-million.html)
-
----
-
-### 4. AVX-512 support is reportedly returning with Intel's next-gen Nova Lake CPUs Latest Linux kernel patches reveal P-cores and E-cores will gain native 512-bit execution 
-
-Intel's Nova Lake CPUs will reportedly feature native 512-bit execution, including E-cores. This means AVX-512 support is returning to Intel's client CPUs. The upcoming desktop lineup will benefit from improved performance.
-
-💡 *Enhanced performance for compute-intensive tasks and applications.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/avx-512-support-is-reportedly-returning-with-intels-next-gen-nova-lake-cpus-latest-linux-kernel-patches-reveal-p-cores-and-e-cores-will-gain-native-512-bit-execution)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/sipearls-long-awaited-rhea-cpu-finally-gets-in-the-lab-opening-the-door-for-europes-first-sovereign-hpc-cpu-availability-of-rhea1-is-scheduled-for-end-of-2026-sipearl-vp-says-following-long-development-process)
 
 ---
 
-### 5. Companies are now using automatic Windows installers to display Adware through the Microsoft Store when you install new hardware customer immediately gets McAfee ads on their PC after connecting new LG monitor; here's how to block the new ads 
+### 3. Fi Ultra becomes first dog tracker powered by Starlink satellites the Fi Ultra Dog Tracker makes Fido trackable via satellite, onboard GPS, and LTE connectivity 
 
-LG monitors auto-install an app on PCs via Microsoft Store, displaying ads. This includes McAfee ads when new hardware is connected, posing a concern for user privacy and data security. Users can block the ads by following specific steps.
+Fi Ultra becomes the first dog tracker with Starlink satellite connectivity, onboard GPS, and LTE, making Fido trackable from anywhere.
 
-💡 *Unauthorized app installation compromises user control over their PCs.*
+💡 *Enhanced global tracking capabilities for pet owners.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/companies-are-now-using-automatic-windows-installers-to-display-adware-through-the-microsoft-store-when-you-install-new-hardware-customer-immediately-gets-mcafee-ads-on-their-pc-after-connecting-new-lg-monitor-heres-how-to-block-the-new-ads)
-
----
-
-### 6. Hands-on with Corsair's 2800X RS-R ARGB Micro-ATX PC Case smaller footprint, roomy internals, includes three fans 
-
-The Corsair 2800X RS-R ARGB is a compact MicroATX case with room for full-size hardware, strong cooling support, and three pre-installed ARGB fans, offering solid value for a small-form-factor chassis at an affordable price under $90.
-
-💡 *Compact design meets full-size hardware needs at budget-friendly prices.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/corsair-2800x-rs-r-argb-micro-atx-pc-case-hands-on)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/fi-ultra-becomes-first-dog-tracker-powered-by-starlink-satellites-the-fi-ultra-dog-tracker-makes-fido-trackable-via-satellite-onboard-gps-and-lte-connectivity)
 
 ---
 
-### 7. Dev ports Linux to Atari's notorious Jaguar console from 1993 the first 64-bit console features 2MB of RAM, 13.3 MHz CPU, and Tom and Jerry co-processors; the Jag was notoriously difficult to program and flopped 
+### 4. Cooler Master V4 and V8 3DHP Review: A masterful engineering achievement 
 
-A developer has successfully ported Linux to the Atari Jaguar console, despite its notorious programming difficulties and limited hardware specifications.
+Cooler Master's V4 and V8 coolers feature innovative 3DHP heatpipes, a significant advancement in air cooling technology. This design offers improved heat dissipation and reduced noise levels. However, the early adoption of this technology comes at a higher price point.
 
-💡 *Linux port demonstrates the resilience of open-source software against hardware challenges*
+💡 *Revolutionary 3DHP heatpipe design redefines air cooling performance*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/dev-ports-linux-to-ataris-notorious-jaguar-console-from-1993-the-first-64-bit-console-features-2mb-of-ram-13-3-mhz-cpu-and-tom-and-jerry-co-processors-the-jag-was-notoriously-difficult-to-program-and-flopped)
-
----
-
-### 8. KKSB 10-inch and 19-inch rack panels target Raspberry Pi clusters, support Pi HATs and active coolers 
-
-KKSB Cases introduces rack panels for Raspberry Pi clusters in standard enclosures, supporting various Pi boards, HATs, and active coolers for easier cable management and expanded functionality.
-
-💡 *Raspberry Pi clusters gain organized and scalable infrastructure support.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/08/kksb-10-inch-and-19-inch-rack-panels-target-raspberry-pi-clusters-support-pi-hats-and-active-coolers/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/cooler-master-v4-and-v8-3dhp-review)
 
 ---
 
-### 9. LG and Alienware monitors caught auto-installing Windows adware 
+### 5. Makerfabs MaUWB for Home Assistant An ESP32-S3 UWB module with PoE and enclosure 
 
-LG and Alienware monitors have been caught auto-installing Windows adware, causing pop-up ads.
+The Makerfabs MaUWB module is an ESP32-S3-based UWB module for indoor positioning and RTLS, integrating with Home Assistant via ESPHome for seamless tracking of tagged devices.
 
-💡 *Unintended software installation can compromise user data and security.*
+💡 *Precise indoor location tracking for smart homes and offices enabled.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113031-lg-alienware-monitors-caught-auto-installing-windows-adware.html)
-
----
-
-### 10. Keychron is stepping outside keyboards with a $349 Thunderbolt 5 dock aimed at power users 
-
-Keychron's new Thunderbolt 5 dock supports dual 8K displays or four 4K monitors, catering to power users.
-
-💡 *Thunderbolt 5's high bandwidth enables seamless multi-monitor setups with laptops.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113025-keychron-stepping-outside-keyboards-349-thunderbolt-5-dock.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/)
 
 ---
 
-### 11. Australia's teen social media ban stumbles as platforms skip age checks 
+### 6. Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments 
 
-Australia's social media ban for teens under 16 is being disregarded, as major platforms fail to implement age checks.
+Norik Systems introduced a compact USB dongle using Nordic's nRF9151 SiP for DECT NR+ deployments, enabling developers to easily integrate the non-cellular 5G standard into gateways or child nodes.
 
-💡 *Platforms' lax approach undermines efforts to protect young Australians online.*
+💡 *Accelerating DECT NR+ adoption with easy-to-use, compact USB connectivity solutions*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113024-australia-teen-social-media-ban-stumbles-platforms-skip.html)
-
----
-
-### 12. A free app lets Sony headphones do head tracking for racing and flight sims 
-
-A free app enables head tracking for Sony headphones in gaming, eliminating the need for extra IR tracking hardware or VR headsets.
-
-💡 *Enhanced gaming experience without costly accessories*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113019-free-app-sony-headphones-do-head-tracking-racing.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/)
 
 ---
 
-### 13. The open-source, DRM-free Open Printer shows off a working prototype 
+### 7. Philips Evnia 27M2N5500XD 1000Hz Monitor Review 
 
-The Open Printer project showcases a working prototype, challenging the status quo of the printing industry. This open-source, DRM-free device aims to make printing more accessible and affordable. The project's success could disrupt the market dominated by proprietary systems.
+The Philips Evnia 27M2N5500XD falls short of its advertised specs due to slow IPS response times.
 
-💡 *Challenging the printing industry's DRM-locked ink cartridge business model.*
+💡 *IPS response times hinder monitor's high refresh rate performance.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113022-open-source-drm-free-open-printer-shows-off.html)
+🔗 [Read Full Article](https://www.techspot.com/review/3137-philips-evnia-1000hz/)
+
+---
+
+### 8. Samsung unveils fastest PCIe Gen 6 SSD, capable of transferring 40GB LLMs in just 1.4 sec 
+
+Samsung has unveiled its fastest PCIe Gen 6 SSD with up to 28.4 GB/s read speed and 21.9 GB/s write speed, enabling fast transfer of large data, such as a 40GB LLM in just 1.4 seconds.
+
+💡 *Accelerating AI model deployment with significantly improved data transfer speeds*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113042-samsung-unveils-fastest-pcie-gen-6-ssd-capable.html)
+
+---
+
+### 9. Assassin's Creed Black Flag Resynced modernizes the fan favorite with revamped combat and visuals 
+
+Assassin's Creed Black Flag Resynced brings smoother combat and visual upgrades to the classic game, polishing its foundation while still showing some age.
+
+💡 *Revamping a classic game to modern standards is a significant industry shift.*
+
+🔗 [Read Full Article](https://www.techspot.com/products/pc-games/assassins-creed-black-flag-resynced.327363/)
+
+---
+
+### 10. Cheyenne suspends datacenter wastewater after rare bacterium traced to Meta's AI site 
+
+A rare bacterium in Cheyenne's wastewater was linked to Meta's AI data center construction. The bacterium, Cupriavidus gilardii, was traced to a contractor's discharge from the site. The data center, valued at $800 million, is expected to be operational in 2027.
+
+💡 *Rare bacterium contaminates water supply near Meta's massive AI data center*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113041-cheyenne-suspends-datacenter-wastewater-after-rare-bacterium-traced.html)
+
+---
+
+### 11. AI servers will consume more power than all conventional data center hardware combined by 2027 global data center electricity consumption set to grow by 26% this year, Gartner forecasts 
+
+Global data center electricity consumption is expected to grow 26% in 2026 to reach 565 TWh, up from 447 TWh in 2025. This significant increase is forecasted by Gartner. The growth is driven by the expanding demand for cloud computing and AI services.
+
+💡 *Rising AI demand fuels explosive data center electricity growth.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts)
+
+---
+
+### 12. Chinese courts allow heirs to inherit accounts of deceased gamers multiple cases spanning years establish precedent for digital ownership of games, in-game items, and microtransactions 
+
+Chinese courts have allowed heirs to inherit digital assets, setting precedent for ownership rights. This decision is based on multiple rulings, despite Chinese law not explicitly covering digital properties. The verdicts have implications for digital ownership and inheritance.
+
+💡 *Digital assets gain recognition as inheritable, valuable property interests*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/chinese-courts-allow-heirs-to-inherent-accounts-of-deceased-gamers-multiple-cases-spanning-years-establish-precedent-for-digital-ownership-of-games-in-game-items-and-microtransactions)
+
+---
+
+### 13. Modding tool 'DLSS Swapper' might infect your PC with malware if you download the wrong files App creator warns against using random, user-submitted DLLs 
+
+The creator of DLSS Swapper warns against using random, user-submitted DLLs due to malware risks. These files, even if hosted on the app's GitHub repo, may not be safe. Users are advised to only download official, verified files.
+
+💡 *Malware risks rise with user-submitted files, no matter the source.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/modding-tool-dlss-swapper-might-infect-your-pc-with-malware-if-you-download-the-wrong-files-app-creator-warns-against-using-random-user-submitted-dlls)
+
+---
+
+### 14. Valve releases drivers, notes to make Windows work on Steam hardware, but refuses to support it tells users it doesn t offer support for Windows on Steam Hardware, gaming company provides resources as is  
+
+Valve releases drivers to improve Windows 11 compatibility on Steam Deck/Machine, but refuses support, pointing users to SteamOS recovery instructions.
+
+💡 *Valve prioritizes SteamOS, limiting Windows support on Steam hardware.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/valve-releases-drivers-notes-to-make-windows-work-on-steam-hardware-but-refuses-to-support-it-tells-users-it-doesnt-offer-support-for-windows-on-steam-hardware-gaming-company-provides-resources-as-is)
+
+---
+
+### 15. Xbox Game Pass has lost 4 million subscribers since its price hike backfired 
+
+Xbox Game Pass has lost 4 million subscribers since its price hike.
+
+💡 *Subscriber growth slowdown threatens flagship service's long-term success prospects.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113036-xbox-game-pass-has-lost-4-million-subscribers.html)
+
+---
+
+### 16. Starlink just doubled its prices for private jets, and hardware now costs $200,000 
+
+Starlink doubled private jet prices and increased hardware costs to $200,000.
+
+💡 *Higher costs may impact business aviation's adoption of Starlink services.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113040-starlink-doubles-prices-jet-owners-hikes-hardware-costs.html)
+
+---
+
+### 17. Hardware hacker is building a homemade GPU from 64,000 tiny RISC-V chips 
+
+A hardware hacker is building a homemade GPU from 64,000 RISC-V chips, scaled down to a 320x200 resolution.
+
+💡 *Scaling down technology enables innovative prototypes and new possibilities in hardware design.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113032-hardware-hacker-building-homemade-gpu-64000-tiny-risc.html)
+
+---
+
+### 18. Save $527 on this 1440p gaming PC from Newegg with a 16GB RTX 5060 Ti right now huge discount for high-end performance rig with an Intel Core i7-14700F, 32GB DDR5, and a 1TB SSD 
+
+Newegg's ABS gaming PC boasts 1440p performance with a 16GB RTX 5060 Ti and 32GB DDR5 RAM.
+
+💡 *High-end performance at a discounted price for 1440p gaming enthusiasts.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/save-usd527-on-this-1440p-gaming-pc-from-newegg-with-a-16gb-rtx-5060-ti-right-now-huge-discount-for-high-end-performance-rig-with-an-intel-core-i7-14700f-32gb-ddr5-and-a-1tb-ssd)
 
 ---
 

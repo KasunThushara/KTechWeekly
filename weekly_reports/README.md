@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 08, 2026**
+**Week of July 09, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator unreleased graphics cards shown with 10-17% higher TGP over original models ⭐
+### 1. AMD EXPO ULL shows middling performance gains in initial tests despite eye-watering price increase first benchmarks show up to a 4% improvement with DDR5-6000 CL36 ⭐
 
-**📰 Tech News**
+**🤖 AI & ML**
 
-Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator, potentially featuring 10-17% higher TGP over original models, providing insight into unreleased graphics cards.
+AMD's EXPO ULL memory shows limited performance gains, up to 4%, despite significant price increase. Initial tests indicate that the higher cost does not translate to substantial performance benefits. This may impact consumer purchasing decisions.
 
-💡 **Key Point:** Potential power increase may impact system build and cooling requirements.
+💡 **Key Point:** Middling performance gains outpace price increases in EXPO ULL memory
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/unannounced-nvidia-rtx-50-super-gpus-appear-in-seasonic-psu-calculator-unreleased-graphics-cards-shown-with-10-17-percent-higher-tgp-over-original-models)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ram/amd-expo-ull-shows-middling-performance-gains-in-initial-tests-despite-price-increase-first-benchmarks-show-up-to-a-4-percent-improvement-with-ddr5-6000-cl36)
 
 ---
 
-### 2. Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator unreleased graphics cards shown with 10-17% higher TGP over original models ⭐
+### 2. AMD EXPO ULL shows middling performance gains in initial tests despite eye-watering price increase first benchmarks show up to a 4% improvement with DDR5-6000 CL36 ⭐
 
 **🎮 GPUs**
 
-Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator, potentially featuring 10-17% higher TGP over original models, providing insight into unreleased graphics cards.
+AMD's EXPO ULL memory shows limited performance gains, up to 4%, despite significant price increase. Initial tests indicate that the higher cost does not translate to substantial performance benefits. This may impact consumer purchasing decisions.
 
-💡 **Key Point:** Potential power increase may impact system build and cooling requirements.
+💡 **Key Point:** Middling performance gains outpace price increases in EXPO ULL memory
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/unannounced-nvidia-rtx-50-super-gpus-appear-in-seasonic-psu-calculator-unreleased-graphics-cards-shown-with-10-17-percent-higher-tgp-over-original-models)
-
----
-
-### 3. Space Force gets first mobile high-powered electromagnetic beam weapon to cripple enemy satellites plans to deploy 32 Meadowlands units to detect, deny, disrupt, and degrade hostile space assets 
-
-**📰 Tech News**
-
-The US Space Force has received the first Meadowlands electronic warfare system, designed to disrupt hostile satellites.
-
-💡 **Key Point:** Enhanced space warfare capabilities to counter enemy satellite threats.
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/space/space-force-gets-first-mobile-high-powered-electromagnetic-beam-weapon-to-cripple-enemy-satellites-plans-to-deploy-32-meadowlands-units-to-detect-deny-disrupt-and-degrade-hostile-space-assets)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ram/amd-expo-ull-shows-middling-performance-gains-in-initial-tests-despite-price-increase-first-benchmarks-show-up-to-a-4-percent-improvement-with-ddr5-6000-cl36)
 
 ---
 
-### 4. An indie developer says Steam's refund policy cost his well-reviewed game 55,000 refunds 
+### 3. China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' Gov't claims Claude sends sensitive information to remote servers without consent 
 
-**📰 Tech News**
+**🤖 AI & ML**
 
-Indie game Paddle Paddle Paddle earned 90% positive reviews on Steam but 21% refund rate, with over 55,000 refunds, due to Valve's lenient refund policy.
+China warns users against using certain versions of Claude Code, claiming hidden code sends sensitive user information to remote servers without consent. The government advises uninstalling the app or using its latest version. Claude Code is not approved for use in China.
 
-💡 **Key Point:** Steam's refund policy incentivizes refund abuse, hurting small game developers financially.
+💡 **Key Point:** Claude Code's secret data transfer poses significant national security risks.
 
-🔗 [Read More](https://www.techspot.com/news/113030-indie-developer-steam-refund-policy-cost-well-reviewed.html)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent)
 
 ---
 
-### 5. This German drone just hit 699 km/h, and its maker wants the world record to prove it 
+### 4. Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers Chinese company's firmware allows admin access without a password 
 
-**📰 Tech News**
+**🤖 AI & ML**
 
-Quantum Systems' Apex Recordhunter drone reached 699 km/h in internal testing, seeking official recognition.
+A critical authentication backdoor in Tenda router firmware grants admin access without valid credentials, leaving users vulnerable. The vulnerability, tracked as CVE-2026-11405, affects multiple firmware versions and has no available patch. Researchers have warned Tenda, but the company has yet to address the issue.
 
-💡 **Key Point:** Breaks speed records, pushing drone technology to new limits.
+💡 **Key Point:** Unpatched backdoor exposes users to full administrator access risk
 
-🔗 [Read More](https://www.techspot.com/news/113016-quantum-targets-electric-drone-air-speed-record-434.html)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/hidden-backdoor-found-in-tenda-routers-goes-unpatched-despite-warnings-from-cybersecurity-researchers-affected-firmware-allows-admin-access-without-a-password)
+
+---
+
+### 5. SiPearl's long-awaited Rhea CPU finally gets in the lab, opening the door for Europe's first sovereign HPC CPU 'availability of Rhea1 is scheduled for end of 2026' SiPearl VP says, following long development process 
+
+**🤖 AI & ML**
+
+SiPearl's Rhea CPU marks a significant milestone for Europe's HPC ambitions. Following a long development process, the limited run CPU is expected to become available at the end of 2026. Its availability could pave the way for Europe's first HPC processors on global markets.
+
+💡 **Key Point:** Limited run CPU opens doors for Europe's HPC market entry
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/sipearls-long-awaited-rhea-cpu-finally-gets-in-the-lab-opening-the-door-for-europes-first-sovereign-hpc-cpu-availability-of-rhea1-is-scheduled-for-end-of-2026-sipearl-vp-says-following-long-development-process)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **42 articles** across **5 focused categories**.
+We covered **65 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 15 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 1 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
+| 🤖 [AI & ML](ai_and_ml.md) | 19 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 18 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
+| 📰 [Tech News](tech_news.md) | 16 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 15 articles
+*Artificial Intelligence and Machine Learning* — 19 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 1 articles
+*Graphics cards and compute accelerators* — 6 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 13 articles
+*Computing hardware and development boards* — 18 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
 *Chip manufacturing and design* — 6 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 7 articles
+*Industry news and product launches* — 16 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-07-08 at 10:49 by an autonomous AI curation system.
+Generated 2026-07-09 at 11:44 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
