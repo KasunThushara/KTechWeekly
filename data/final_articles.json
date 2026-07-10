@@ -1,457 +1,371 @@
 [
   {
-    "title": "New hack exploits AI hallucinations to trick agents into running malicious code 'HalluSquatting' attack exploits a fundamental weakness in every available model",
-    "summary": "Attackers can exploit AI hallucinations to trick agents into running malicious code, creating massive botnets.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/hallusquatting-is-the-latest-agentic-ai-exploit-where-models-dream-up-potentially-malicious-urls-in-tool-calls-attack-exploits-a-fundamental-weakness-in-every-available-model",
+    "title": "Chat Control 1.0 sneaks through the EU Parliament, letting companies scan user data without warrants legal tactic used to force a majority-required re-vote on eve of Parliament break",
+    "summary": "The EU Parliament quietly passed the Chat Control 1.0 bill, allowing companies to scan user data without warrants. This was done through a strategic move that forced a re-vote on the eve of the Parliament break. The bill now requires a re-vote, which may be challenging to achieve.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/chat-control-1-0-sneaks-through-the-eu-parliament-letting-companies-scan-user-data-without-warrants-legal-tactic-used-to-force-a-majority-required-re-vote-on-eve-of-parliament-break",
     "categories": [
-      "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.725051",
-    "insight": "AI hallucinations leave models vulnerable to widespread exploitation everywhere."
+    "processed_date": "2026-07-10T11:32:19.035314",
+    "insight": "EU citizens' data privacy is at risk of erosion without adequate safeguards."
   },
   {
-    "title": "Future Nostalgia Project asks retro hoarders to Copy That Floppy! flips the early 1990s anti-piracy campaign on its head to encourage budding archivists",
-    "summary": "The Future Nostalgia Project reverses the early 1990s anti-piracy 'Copy That Floppy!' campaign by encouraging people to copy and preserve nostalgic floppy disks, promoting archiving and preservation of retro technology.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/future-nostalgia-project-asks-retro-hoarders-to-copy-that-floppy-flips-the-early-1990s-anti-piracy-campaign-on-its-head-to-encourage-budding-archivists",
+    "title": "Micron lifts U.S. spending to $250 billion company takes $500 million position in America's only 300 mm wafer plant",
+    "summary": "Micron invests $3 billion in US semiconductor supply chain, with $500 million going to GlobalWafers' 300 mm wafer plant.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/micron-takes-a-500-million-position-in-americas-only-300mm-wafer-plant",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.035454",
+    "insight": "Boosts US semiconductor self-sufficiency and reduces reliance on foreign suppliers."
+  },
+  {
+    "title": "Samsung readies Gaia AI accelerator for PCs HP and Lenovo are reportedly validating the NPU",
+    "summary": "Samsung is reportedly preparing its Gaia AI accelerator for PCs, with HP and Lenovo testing it.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-readies-gaia-ai-accelerator-for-client-devices-hp-and-lenovo-are-reportedly-validating-the-npu",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.035571",
+    "insight": "Accelerating AI in PCs with improved performance and efficiency"
+  },
+  {
+    "title": "Minecraft shown running on Game Boy Color and Game Boy in 3D with textures developer coaxed 3D look out of barely-there hardware",
+    "summary": "A developer successfully ran Minecraft on the Game Boy Color and Game Boy in 3D with textures, showcasing the system's capabilities despite its limitations.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/minecraft-shown-running-on-game-boy-color-and-game-boy-in-3d-with-textures-developer-coaxed-3d-look-out-of-old-hardware",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.035676",
+    "insight": "Optimizing games for underpowered hardware yields creative problem-solving and impressive results."
+  },
+  {
+    "title": "TeamGroup G70 Pro 2TB SSD Review: Low latency meets affordable DRAM",
+    "summary": "The TeamGroup G70 Pro offers high-end performance at an affordable price, but its poor power efficiency holds it back.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/teamgroup-g70-pro-2tb-ssd-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-10T11:32:19.035776",
+    "insight": "High-end performance at affordable price, but power efficiency is lacking."
+  },
+  {
+    "title": "Redditor buys suspicious drives on eBay just to report the scamming sellers if they get a fake SSD or HDD latest '16TB' find has weights and microSD card hot-glued inside the enclosure to make it feel legit",
+    "summary": "A Redditor buys suspicious drives on eBay to report scamming sellers, getting them banned and a refund for the purchase.",
+    "link": "https://www.tomshardware.com/pc-components/external-ssds/redditor-buys-suspicious-drives-on-ebay-just-to-report-the-scamming-sellers-if-they-get-a-fake-ssd-or-hdd-latest-16tb-find-has-weights-and-microsd-card-hot-glued-inside-the-enclosure-to-make-it-feel-legit",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.035896",
+    "insight": "Reporting fake sellers delays their return to scam unsuspecting victims temporarily."
+  },
+  {
+    "title": "Ingenious father fixes dead RTX 3070 with a jerry-rigged capacitor from an old radio Saves worried son $120 in repair costs, GPU 'works better than before' now",
+    "summary": "A Russian father fixes his son's dead RTX 3070 with a salvaged capacitor, saving $120 in repair costs. The GPU now works better than before. This resourceful fix showcases DIY ingenuity.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/ingenious-father-fixes-dead-rtx-3070-with-a-jerry-rigged-capacitor-from-an-old-radio-saves-worried-son-usd120-in-repair-costs-gpu-works-better-than-before-now",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.036010",
+    "insight": "Creative repurposing of parts can lead to affordable, effective solutions."
+  },
+  {
+    "title": "While the U.S. flip-flops on chip sanctions, China is building its own chip supply market export controls are creating conditions for a Sino-Russian chip trade alliance",
+    "summary": "The US is indecisive on export controls for Chinese chips while China develops its own domestic supply chain, potentially creating an opportunity for a Sino-Russian chip trade alliance.",
+    "link": "https://www.tomshardware.com/tech-industry/while-the-u-s-flip-flops-on-chip-sanctions-china-is-building-its-own-chip-supply-market-export-controls-are-creating-conditions-for-a-sino-russian-chip-trade-alliance",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.036126",
+    "insight": "China's domestic chip supply chain undermines US export control effectiveness."
+  },
+  {
+    "title": "AMD revives aging Zen 2 processor for budget PCs Ryzen 7 4700LE resurfaces in a new $800 RTX 3050 prebuilt",
+    "summary": "AMD revives Ryzen 7 4700LE in a budget gaming desktop prebuilt with RTX 3050, priced at $799.99. This marks another instance of AMD repurposing older processors. The move targets budget-conscious gamers seeking performance at an affordable price.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-revives-aging-zen-2-processor-for-budget-pcs-ryzen-7-4700le-resurfaces-in-a-new-usd800-rtx-3050-prebuilt",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.036229",
+    "insight": "Budget gamers get high-end GPU performance paired with older CPU value"
+  },
+  {
+    "title": "Intel preps 28-core Nova Lake-S CPUs for Dunlow workstation platform Entry-level Xeon chip features LGA1954 socket",
+    "summary": "Intel is preparing a 28-core Xeon 'Dunlow' CPU for entry-level servers and workstations. This processor will feature an LGA1954 socket. It's part of Intel's Nova Lake-S CPU lineup.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-preps-28-core-nova-lake-s-cpus-for-dunlow-workstation-platform-entry-level-xeon-chip-features-lga1954-socket",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.036329",
+    "insight": "High core counts for entry-level workstations increase productivity and efficiency."
+  },
+  {
+    "title": "Professor suspected AI-powered cheating on take-home midterms, makes finals in-person only two students scored within 10% of their midterm score",
+    "summary": "A Brown University professor suspected AI cheating on take-home midterms, with only two students maintaining their high scores in in-person finals.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/professor-suspected-ai-powered-cheating-on-take-home-midterms-makes-finals-in-person-only-two-students-scored-within-10-percent-of-their-midterm-score",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.725163",
-    "insight": "Preserving digital history through community-driven archiving efforts matters deeply."
+    "processed_date": "2026-07-10T11:32:19.036476",
+    "insight": "Academic integrity is compromised when AI-enabled cheating goes undetected for extended periods."
   },
   {
-    "title": "AMD EXPO ULL shows middling performance gains in initial tests despite eye-watering price increase first benchmarks show up to a 4% improvement with DDR5-6000 CL36",
-    "summary": "AMD's EXPO ULL memory shows limited performance gains, up to 4%, despite significant price increase. Initial tests indicate that the higher cost does not translate to substantial performance benefits. This may impact consumer purchasing decisions.",
-    "link": "https://www.tomshardware.com/pc-components/ram/amd-expo-ull-shows-middling-performance-gains-in-initial-tests-despite-price-increase-first-benchmarks-show-up-to-a-4-percent-improvement-with-ddr5-6000-cl36",
+    "title": "Sega s $5M investment saved Nvidia in 1996, now Jensen Huang is heading to Tokyo to mark 30 years of partnership Akihabara event will include a GeForce RTX 5090 FE lottery, an RTX Spark presentation, and more",
+    "summary": "Nvidia and Sega are celebrating their 30-year partnership with an event in Tokyo. The Akihabara event will feature a lottery for the GeForce RTX 5090 FE, an RTX Spark presentation, and more. This marks a significant milestone in the companies' history.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/segas-usd5m-investment-saved-nvidia-in-1996-now-jensen-huang-is-heading-to-tokyo-to-mark-30-years-of-partnership-akihabara-event-will-include-a-geforce-rtx-5090-fe-lottery-an-rtx-spark-presentation-and-more",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.036584",
+    "insight": "Nvidia and Sega's partnership has endured for three decades."
+  },
+  {
+    "title": "Alienware AW3426DW gaming monitor review: Premium gaming and OLED goodness in a value-priced package",
+    "summary": "The Alienware AW3426DW offers a premium gaming experience with its 34-inch OLED display, featuring WQHD resolution, HDR500, and a 280Hz refresh rate.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw3426dw-34-inch-qd-oled-gaming-monitor-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-10T11:32:19.036689",
+    "insight": "Value-priced package for high-end gaming and OLED technology"
+  },
+  {
+    "title": "AMD's upcoming Zen 6 Medusa Point 10-core APU pops up on Geekbench chip is faster than Ryzen AI 9 HX 370 & even Ryzen AI Max+ 395",
+    "summary": "A 10-core Zen 6 Medusa Point APU engineering sample outperformed competitors on Geekbench.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amds-upcoming-zen-6-medusa-point-10-core-apu-pops-up-on-geekbench-chip-is-faster-than-ryzen-ai-9-hx-370-and-even-ryzen-ai-max-395",
     "categories": [
       "AI & ML",
-      "GPUs"
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-10T11:32:19.036814",
+    "insight": "AMD's upcoming APU shows significant performance improvements over existing Ryzen models."
+  },
+  {
+    "title": "Elon Musk receives FTC greenlight to buy Mesh Optical as interconnects emerge as AI's tightest bottleneck the move will expand Musk's growing stack of critical AI infrastructure",
+    "summary": "Elon Musk receives FTC clearance to buy Mesh Optical, completing his AI stack. This acquisition fills the missing layer between Terafab's chips and Gigasat's satellites, addressing the tightening interconnect AI bottleneck.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/elon-musk-receives-ftc-greenlight-to-buy-mesh-optical-as-interconnects-emerge-as-ais-tightest-bottleneck-the-move-will-expand-musks-growing-stack-of-critical-ai-infrastructure",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.036922",
+    "insight": "Closing interconnect bottleneck crucial for AI infrastructure expansion"
+  },
+  {
+    "title": "M5Stack Stamp-C5 A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support",
+    "summary": "The M5Stack Stamp-C5 is a tiny wireless IoT module with ESP32-C5 MCU, offering 19 GPIO pins and 3.7V battery support, suitable for various IoT applications.",
+    "link": "https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-10T11:32:19.037460",
+    "insight": "Small, versatile module empowers IoT projects with Wi-Fi and Bluetooth connectivity."
+  },
+  {
+    "title": "Open Book Touch A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding)",
+    "summary": "The Open Book Touch is a DRM-free, open-source e-reader with Wi-Fi connectivity and a 4.26-inch e-paper display.",
+    "link": "https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
     ],
     "quality_score": 15,
-    "processed_date": "2026-07-09T11:43:23.725311",
-    "insight": "Middling performance gains outpace price increases in EXPO ULL memory"
+    "processed_date": "2026-07-10T11:32:19.037631",
+    "insight": "Accessible, affordable e-reading with no proprietary digital rights management restrictions."
   },
   {
-    "title": "AI servers will consume more power than all conventional data center hardware combined by 2027 global data center electricity consumption set to grow by 26% this year, Gartner forecasts",
-    "summary": "Global data center electricity consumption is expected to grow 26% in 2026 to reach 565 TWh, up from 447 TWh in 2025. This significant increase is forecasted by Gartner. The growth is driven by the expanding demand for cloud computing and AI services.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.725422",
-    "insight": "Rising AI demand fuels explosive data center electricity growth."
-  },
-  {
-    "title": "Chinese courts allow heirs to inherit accounts of deceased gamers multiple cases spanning years establish precedent for digital ownership of games, in-game items, and microtransactions",
-    "summary": "Chinese courts have allowed heirs to inherit digital assets, setting precedent for ownership rights. This decision is based on multiple rulings, despite Chinese law not explicitly covering digital properties. The verdicts have implications for digital ownership and inheritance.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/chinese-courts-allow-heirs-to-inherent-accounts-of-deceased-gamers-multiple-cases-spanning-years-establish-precedent-for-digital-ownership-of-games-in-game-items-and-microtransactions",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.725543",
-    "insight": "Digital assets gain recognition as inheritable, valuable property interests"
-  },
-  {
-    "title": "Rapidus fab roadmap examined first new leading-edge chipmaker in decades has one Hokkaido fab, a 2027 deadline, and 60 potential customers",
-    "summary": "Rapidus is building Japan's first leading-edge logic fab in Chitose, Hokkaido, with a 2027 deadline and 60 potential customers.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.725643",
-    "insight": "Japan's return to leading-edge chip production after decades of absence."
-  },
-  {
-    "title": "China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' Gov't claims Claude sends sensitive information to remote servers without consent",
-    "summary": "China warns users against using certain versions of Claude Code, claiming hidden code sends sensitive user information to remote servers without consent. The government advises uninstalling the app or using its latest version. Claude Code is not approved for use in China.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.725770",
-    "insight": "Claude Code's secret data transfer poses significant national security risks."
-  },
-  {
-    "title": "Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers Chinese company's firmware allows admin access without a password",
-    "summary": "A critical authentication backdoor in Tenda router firmware grants admin access without valid credentials, leaving users vulnerable. The vulnerability, tracked as CVE-2026-11405, affects multiple firmware versions and has no available patch. Researchers have warned Tenda, but the company has yet to address the issue.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/hidden-backdoor-found-in-tenda-routers-goes-unpatched-despite-warnings-from-cybersecurity-researchers-affected-firmware-allows-admin-access-without-a-password",
+    "title": "Meta tests super sensing AI smart glasses amid privacy concerns",
+    "summary": "Meta is testing an AI-powered feature for its smart glasses, which could provide a personal assistant always available. The software update aims to enhance user experience but raises concerns about data privacy. Users may have limited control over the flow of personal data.",
+    "link": "https://www.fiercesensors.com/ai/meta-tests-super-sensing-ai-smart-glasses-amid-privacy-concerns",
     "categories": [
       "AI & ML",
       "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.725886",
-    "insight": "Unpatched backdoor exposes users to full administrator access risk"
-  },
-  {
-    "title": "JEDEC releases new SPHBM4 standard to slash AI memory costs Narrow 512-bit interface enables dropping expensive interposers for organic substrates",
-    "summary": "JEDEC releases SPHBM4, a new standard that achieves HBM4-class bandwidth without silicon interposers or CoWoS-like packaging, reducing costs for AI memory.",
-    "link": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.725994",
-    "insight": "Simplifies AI memory production, lowers costs significantly."
-  },
-  {
-    "title": "Global consumer Wi-Fi router shipments fell 6% in Q1 2026, down 34% from 2021 peak mesh systems and gaming routers still prove popular",
-    "summary": "Global consumer Wi-Fi router shipments fell 6% in Q1 2026. This decline comes after a 34% drop from the 2021 peak. Despite this, mesh systems and gaming routers remain popular.",
-    "link": "https://www.tomshardware.com/networking/routers/global-consumer-wi-fi-router-shipments-fell-6-percent-in-q1-2026-mesh-systems-and-gaming-routers-still-prove-popular",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.726088",
-    "insight": "Decline of Wi-Fi router shipments impacts network infrastructure and consumer technology."
-  },
-  {
-    "title": "SiPearl's long-awaited Rhea CPU finally gets in the lab, opening the door for Europe's first sovereign HPC CPU 'availability of Rhea1 is scheduled for end of 2026' SiPearl VP says, following long development process",
-    "summary": "SiPearl's Rhea CPU marks a significant milestone for Europe's HPC ambitions. Following a long development process, the limited run CPU is expected to become available at the end of 2026. Its availability could pave the way for Europe's first HPC processors on global markets.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/sipearls-long-awaited-rhea-cpu-finally-gets-in-the-lab-opening-the-door-for-europes-first-sovereign-hpc-cpu-availability-of-rhea1-is-scheduled-for-end-of-2026-sipearl-vp-says-following-long-development-process",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.726194",
-    "insight": "Limited run CPU opens doors for Europe's HPC market entry"
-  },
-  {
-    "title": "Power company hikes data center bills by 30%, cuts residential electricity costs by 1.3% Oregon approves change through POWER Act, pushes developments using more than 20 Megawatts of power to pay their fair share",
-    "summary": "Oregon's POWER Act allows PGE to increase data center bills by 30%, while reducing residential costs by 1.3%. The move aims to ensure large data centers pay their fair share of electricity costs. The change is set to impact developments using over 20 Megawatts of power.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/power-company-hikes-data-center-bills-by-30-percent-cuts-residential-electricity-costs-by-1-3-percent-oregon-approves-change-through-power-act-pushes-developments-using-more-than-20-megawatts-of-power-to-pay-their-fair-share",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.726324",
-    "insight": "Large data centers must pay their fair share of electricity costs"
-  },
-  {
-    "title": "'Slopfix' software team charges $10,000 a week to delete AI-generated code bloat ironically, the team uses AI agents to trim messy repositories by up to 65%",
-    "summary": "Slopfix charges $10,000 a week to refactor AI-generated code, using AI agents to trim up to 65% of code bloat.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-team-of-engineers-called-slopfix-charges-10000-a-week-to-delete-ai-generated-code-using-ai-agents",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.726428",
-    "insight": "AI-generated code often requires AI to make it manageable and efficient."
-  },
-  {
-    "title": "Fi Ultra becomes first dog tracker powered by Starlink satellites the Fi Ultra Dog Tracker makes Fido trackable via satellite, onboard GPS, and LTE connectivity",
-    "summary": "Fi Ultra becomes the first dog tracker with Starlink satellite connectivity, onboard GPS, and LTE, making Fido trackable from anywhere.",
-    "link": "https://www.tomshardware.com/peripherals/wearable-tech/fi-ultra-becomes-first-dog-tracker-powered-by-starlink-satellites-the-fi-ultra-dog-tracker-makes-fido-trackable-via-satellite-onboard-gps-and-lte-connectivity",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.726527",
-    "insight": "Enhanced global tracking capabilities for pet owners."
-  },
-  {
-    "title": "Cooler Master V4 and V8 3DHP Review: A masterful engineering achievement",
-    "summary": "Cooler Master's V4 and V8 coolers feature innovative 3DHP heatpipes, a significant advancement in air cooling technology. This design offers improved heat dissipation and reduced noise levels. However, the early adoption of this technology comes at a higher price point.",
-    "link": "https://www.tomshardware.com/pc-components/air-cooling/cooler-master-v4-and-v8-3dhp-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.726626",
-    "insight": "Revolutionary 3DHP heatpipe design redefines air cooling performance"
-  },
-  {
-    "title": "Cracked version of Assassin s Creed Black Flag Resynced leaked days prior to official release despite Denuvo DRM protection Denuvo unable to stop crackers, with some finding ways to completely remove it from other titles",
-    "summary": "A cracked version of Assassin's Creed Black Flag Resynced has leaked online, despite Denuvo DRM protection. The leak occurred more than a month before the official release date. This incident raises concerns about the effectiveness of Denuvo.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/cracked-version-of-assassins-creed-black-flag-resynced-leaked-days-prior-to-official-release-despite-denuvo-drm-protection-denuvo-unable-to-stop-crackers-with-some-finding-ways-to-completely-remove-it-from-other-titles",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.726737",
-    "insight": "Denuvo's failure to stop piracy undermines its anti-piracy value"
-  },
-  {
-    "title": "Modding tool 'DLSS Swapper' might infect your PC with malware if you download the wrong files App creator warns against using random, user-submitted DLLs",
-    "summary": "The creator of DLSS Swapper warns against using random, user-submitted DLLs due to malware risks. These files, even if hosted on the app's GitHub repo, may not be safe. Users are advised to only download official, verified files.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/modding-tool-dlss-swapper-might-infect-your-pc-with-malware-if-you-download-the-wrong-files-app-creator-warns-against-using-random-user-submitted-dlls",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.726842",
-    "insight": "Malware risks rise with user-submitted files, no matter the source."
-  },
-  {
-    "title": "Save $527 on this 1440p gaming PC from Newegg with a 16GB RTX 5060 Ti right now huge discount for high-end performance rig with an Intel Core i7-14700F, 32GB DDR5, and a 1TB SSD",
-    "summary": "Newegg's ABS gaming PC boasts 1440p performance with a 16GB RTX 5060 Ti and 32GB DDR5 RAM.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-mice/save-usd527-on-this-1440p-gaming-pc-from-newegg-with-a-16gb-rtx-5060-ti-right-now-huge-discount-for-high-end-performance-rig-with-an-intel-core-i7-14700f-32gb-ddr5-and-a-1tb-ssd",
-    "categories": [
-      "GPUs",
-      "Hardware"
     ],
     "quality_score": 0,
-    "processed_date": "2026-07-09T11:43:23.726942",
-    "insight": "High-end performance at a discounted price for 1440p gaming enthusiasts."
+    "processed_date": "2026-07-10T11:32:19.038641",
+    "insight": "AI-powered personal assistants raise significant data privacy risks."
   },
   {
-    "title": "Valve releases drivers, notes to make Windows work on Steam hardware, but refuses to support it tells users it doesn t offer support for Windows on Steam Hardware, gaming company provides resources as is ",
-    "summary": "Valve releases drivers to improve Windows 11 compatibility on Steam Deck/Machine, but refuses support, pointing users to SteamOS recovery instructions.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/valve-releases-drivers-notes-to-make-windows-work-on-steam-hardware-but-refuses-to-support-it-tells-users-it-doesnt-offer-support-for-windows-on-steam-hardware-gaming-company-provides-resources-as-is",
+    "title": "Best of Sensors: Teradar Summit clinches best of Auto & Mobile",
+    "summary": "Teradar Summit is the world's first commercial terahertz vision sensor designed to provide unmatched clarity and range under all conditions, winning the Best of Sensors award in the automotive category.",
+    "link": "https://www.fiercesensors.com/ai/best-sensors-teradar-summit-clinches-best-auto-mobile",
     "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.727056",
-    "insight": "Valve prioritizes SteamOS, limiting Windows support on Steam hardware."
-  },
-  {
-    "title": "8Bitdo's wireless Pro 2 gaming controller falls to all-time low price hall-effect gamepad is 38% off, just $37.19",
-    "summary": "The 8Bitdo wireless Pro 2 gaming controller is on sale, 38% off, for $37.19. This is an all-time low price at Amazon for Prime members. The Pro 2 features hall-effect joysticks for precision gaming.",
-    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/8bitdos-wireless-pro-2-gaming-controller-falls-to-all-time-low-price-hall-effect-gamepad-is-38-percent-off-just-usd37-19",
-    "categories": [
-      "GPUs",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.727152",
-    "insight": "Gaming enthusiasts can upgrade their experience at a budget-friendly price."
+    "processed_date": "2026-07-10T11:32:19.038861",
+    "insight": "Advanced sensors enhance vehicle safety and performance in all environments."
   },
   {
-    "title": "Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, reveals next-gen 'Rigel' Arm CPU cores frames chip as a 'max single-threaded CPU at scale,' not a parallel monster",
-    "summary": "Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, with 1.8x uplift in agentic workloads and 1.5x in coding compared to x86 competition.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-touts-vera-cpus-single-threaded-performance-as-its-agentic-ai-advantage-frames-chip-as-a-max-single-threaded-cpu-at-scale-not-a-parallel-monster",
+    "title": "Redditor's latest fake-drive purchase reveals a 60GB microSD card inside a \"16TB SSD\"",
+    "summary": "A Redditor buys a '16TB SSD' containing a 60GB microSD card, reports it to eBay, and gets a refund.",
+    "link": "https://www.techspot.com/news/113066-redditor-latest-fake-drive-purchase-reveals-60gb-microsd.html",
     "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.727299",
-    "insight": "Nvidia prioritizes single-threaded performance in Vera CPU design for AI applications."
-  },
-  {
-    "title": "Makerfabs MaUWB for Home Assistant An ESP32-S3 UWB module with PoE and enclosure",
-    "summary": "The Makerfabs MaUWB module is an ESP32-S3-based UWB module for indoor positioning and RTLS, integrating with Home Assistant via ESPHome for seamless tracking of tagged devices.",
-    "link": "https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/",
-    "categories": [
-      "Semiconductors",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.727750",
-    "insight": "Precise indoor location tracking for smart homes and offices enabled."
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.039025",
+    "insight": "Exposing scams helps protect others and prevents further fraudulent activity online."
   },
   {
-    "title": "Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments",
-    "summary": "Norik Systems introduced a compact USB dongle using Nordic's nRF9151 SiP for DECT NR+ deployments, enabling developers to easily integrate the non-cellular 5G standard into gateways or child nodes.",
-    "link": "https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/",
+    "title": "Assassin's Creed Black Flag Resynced: 50 GPU Benchmark",
+    "summary": "Assassin's Creed Black Flag Resynced's GPU demands vary greatly across different settings and hardware configurations. A comprehensive benchmark of 50 graphics cards showcases the game's performance at multiple resolutions, ray tracing modes, and upscaling presets. This detailed analysis helps gamers understand the game's hardware requirements and make informed purchasing decisions.",
+    "link": "https://www.techspot.com/review/3146-assassins-creed-black-flag-benchmark/",
     "categories": [
-      "Semiconductors",
-      "Hardware"
+      "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.727905",
-    "insight": "Accelerating DECT NR+ adoption with easy-to-use, compact USB connectivity solutions"
+    "processed_date": "2026-07-10T11:32:19.039121",
+    "insight": "GPU performance disparity significantly affects Black Flag Resynced's frame rates."
   },
   {
-    "title": "GIANT scientists deploy sensors in drones and robot subs to map Greenland s melting ice",
-    "summary": "Scientists deploy sensors in drones and robots to map Greenland's melting ice, making research possible in treacherous waters.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/giant-scientists-deploy-sensors-drones-and-robot-subs-map-greenlands-melting-ice",
+    "title": "Space Marine 2 sold million of copies, and now Saber Interactive has to turn down projects",
+    "summary": "Saber Interactive has turned down projects due to high demand from Warhammer 40,000: Space Marine 2's success, which has made the studio a leading choice for developing games around established IPs.",
+    "link": "https://www.techspot.com/news/113060-space-marine-2-sold-million-copies-now-saber.html",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.728920",
-    "insight": "Melting ice affects global sea levels and climate stability."
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.039230",
+    "insight": "Saber Interactive's success creates a high barrier to entry for new collaborations."
   },
   {
-    "title": "Japanese firm reverses Blu-ray drive exit after securing parts, but prices jump up to 51% and supplies are limited",
-    "summary": "Buffalo reversed its decision to discontinue its portable Blu-ray drives after securing necessary parts. However, the drives will now come with significantly higher prices and limited supplies.",
-    "link": "https://www.techspot.com/news/113051-japanese-firm-reverses-blu-ray-drive-exit-after.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-09T11:43:23.729386",
-    "insight": "Supply constraints lead to price hikes for discontinued products."
-  },
-  {
-    "title": "Philips Evnia 27M2N5500XD 1000Hz Monitor Review",
-    "summary": "The Philips Evnia 27M2N5500XD falls short of its advertised specs due to slow IPS response times.",
-    "link": "https://www.techspot.com/review/3137-philips-evnia-1000hz/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.729538",
-    "insight": "IPS response times hinder monitor's high refresh rate performance."
-  },
-  {
-    "title": "Meta's new AI tool can generate images of you using your Instagram photos, and you're opted in by default",
-    "summary": "Meta's AI tool generates images using Instagram users' photos by default, without notification.",
-    "link": "https://www.techspot.com/news/113044-meta-new-ai-tool-can-generate-images-you.html",
+    "title": "Cash App reaches $45 million settlement over alleged failure to protect users from fraud",
+    "summary": "Cash App reaches $45 million settlement after allegations it failed to protect users from fraud, despite promising advanced security measures.",
+    "link": "https://www.techspot.com/news/113055-cash-app-reaches-45-million-settlement-46-states.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.729709",
-    "insight": "Users' privacy and control over AI-generated images are compromised by default settings."
+    "processed_date": "2026-07-10T11:32:19.039342",
+    "insight": "Cash App's failure to protect users from fraud undermines user trust."
   },
   {
-    "title": "What was the first consumer device powered by a Li-ion battery?",
-    "summary": "The first consumer device powered by a Li-ion battery was a handheld electronic calculator called the 'Intellect' in 1991, made by Molex. This device paved the way for widespread adoption of lithium-ion technology in consumer electronics. The Intellect was a significant innovation in battery technology.",
-    "link": "https://www.techspot.com/trivia/178-what-first-consumer-device-powered-li-ion-battery/",
+    "title": "Nvidia launches free GeForce trading card collection featuring 14 designs from NV1 to RTX 2080 Ti",
+    "summary": "Nvidia launches free trading card collection to celebrate GeForce's 30-year history.",
+    "link": "https://www.techspot.com/news/113059-nvidia-turns-geforce-greatest-milestones-collectible-trading-cards.html",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.039481",
+    "insight": "Nvidia honors legacy as AI future shifts GPU landscape focus."
+  },
+  {
+    "title": "Minecraft joins Doom in the \"can it run?\" hall of fame with Game Boy Color port",
+    "summary": "Minecraft has been successfully ported to the Game Boy Color by Game of Tobi. This is an impressive feat, as Minecraft was not originally designed for the device. The port showcases Tobi's expertise in getting games running on unexpected hardware.",
+    "link": "https://www.techspot.com/news/113056-minecraft-joins-doom-can-run-hall-fame-game.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.039583",
+    "insight": "Minecraft's Game Boy Color port pushes handheld console capabilities"
+  },
+  {
+    "title": "DLSS Swapper creator issues malware warning over user-submitted DLLs",
+    "summary": "The DLSS Swapper creator warns of malware risks from user-submitted DLLs. These malicious files are being uploaded through the program's design. Users are advised to exercise caution.",
+    "link": "https://www.techspot.com/news/113045-dlss-swapper-creator-issues-malware-warning-over-user.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.039691",
+    "insight": "User-submitted DLLs pose a significant malware risk to DLSS Swapper users."
+  },
+  {
+    "title": "New York becomes the first state to ban smart glasses in courtrooms",
+    "summary": "New York becomes the first state to ban smart glasses in courtrooms, applying to all types, including those with prescription lenses, for everyone entering the building.",
+    "link": "https://www.techspot.com/news/113057-new-york-issues-statewide-courthouse-ban-smart-glasses.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.039798",
+    "insight": "Courtroom integrity preserved with ban on recording technology"
+  },
+  {
+    "title": "Interpol arrests 5,811 people, seizes $293 million in global scammer crackdown",
+    "summary": "Interpol arrested 5,811 people and seized $293 million in a global scammer crackdown, highlighting the scale of the problem.",
+    "link": "https://www.techspot.com/news/113058-interpol-arrests-5811-people-seizes-293-million-global.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-07-09T11:43:23.729850",
-    "insight": "Early Li-ion adoption revolutionized portable electronics and changed tech history."
+    "processed_date": "2026-07-10T11:32:19.039890",
+    "insight": "The scale of international scams is staggering and requires coordinated global action."
   },
   {
-    "title": "A new satellite wants to prove nuclear power can work in space without solar panels",
-    "summary": "BOHR's mission tests a betavoltaic power source that converts beta particles into electricity, a potential nuclear power alternative for space missions without solar panels.",
-    "link": "https://www.techspot.com/news/113038-new-satellite-wants-prove-nuclear-power-can-work.html",
+    "title": "After losing about $1 billion in Reaper drones over Iran, the US wants a disposable alternative",
+    "summary": "The US Defense Innovation Unit seeks a disposable aircraft alternative to Reaper drones, which cost $1 billion lost over Iran. The Massed Modular Aircraft (MMA) project invites commercial tech submissions for the solution. This innovation aims to reduce military drone expenses.",
+    "link": "https://www.techspot.com/news/113054-iran-destroyed-1-billion-worth-reaper-drones-us.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-10T11:32:19.039994",
+    "insight": "Pentagon seeks cost-effective drone alternatives after significant financial losses."
+  },
+  {
+    "title": "Professor's chart exposes the scale of AI cheating in college exams",
+    "summary": "A Brown University professor discovered widespread AI cheating in his class, revealing the scale of the issue in academia.",
+    "link": "https://www.techspot.com/news/113049-professor-chart-exposes-scale-ai-cheating-college-exams.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.040102",
+    "insight": "Generative AI is compromising the validity of academic assessments and knowledge."
+  },
+  {
+    "title": "Budget smartphones are the next victim of the memory crisis",
+    "summary": "Mid-to-low-end smartphones are struggling with rising memory costs, leading to a 22% YoY decline. The thin profit margins make it difficult for manufacturers to absorb these costs. This trend is expected to continue due to the memory crisis.",
+    "link": "https://www.techspot.com/news/113053-budget-smartphones-could-next-victim-memory-crisis.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-10T11:32:19.040207",
+    "insight": "Thinner profit margins leave budget phones vulnerable to memory price hikes"
+  },
+  {
+    "title": "Microsoft tells Obsidian to pause or cancel Avowed 2 and make a new Fallout game",
+    "summary": "Microsoft directs Obsidian to cancel or pause Avowed 2, focus on new Fallout game. The project would be led by Josh Sawyer, Fallout: New Vegas director. Sawyer's expertise brings a familiar hand to the Fallout franchise.",
+    "link": "https://www.techspot.com/news/113048-microsoft-tells-obsidian-pause-or-cancel-avowed-2.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.730023",
-    "insight": "Nuclear power in space could provide a reliable, long-lasting energy source."
-  },
-  {
-    "title": "This dog tracker uses Starlink to keep tabs on your pet, even without cell service",
-    "summary": "Fi's Fi Ultra uses Starlink for satellite-based dog tracking coverage, even without cell service.",
-    "link": "https://www.techspot.com/news/113043-dog-tracker-uses-starlink-keep-tabs-pet-even.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.730186",
-    "insight": "Enhanced pet safety in remote areas with no cell connectivity."
-  },
-  {
-    "title": "Samsung unveils fastest PCIe Gen 6 SSD, capable of transferring 40GB LLMs in just 1.4 sec",
-    "summary": "Samsung has unveiled its fastest PCIe Gen 6 SSD with up to 28.4 GB/s read speed and 21.9 GB/s write speed, enabling fast transfer of large data, such as a 40GB LLM in just 1.4 seconds.",
-    "link": "https://www.techspot.com/news/113042-samsung-unveils-fastest-pcie-gen-6-ssd-capable.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.730371",
-    "insight": "Accelerating AI model deployment with significantly improved data transfer speeds"
-  },
-  {
-    "title": "Assassin's Creed Black Flag Resynced modernizes the fan favorite with revamped combat and visuals",
-    "summary": "Assassin's Creed Black Flag Resynced brings smoother combat and visual upgrades to the classic game, polishing its foundation while still showing some age.",
-    "link": "https://www.techspot.com/products/pc-games/assassins-creed-black-flag-resynced.327363/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.730545",
-    "insight": "Revamping a classic game to modern standards is a significant industry shift."
-  },
-  {
-    "title": "Xbox Game Pass has lost 4 million subscribers since its price hike backfired",
-    "summary": "Xbox Game Pass has lost 4 million subscribers since its price hike.",
-    "link": "https://www.techspot.com/news/113036-xbox-game-pass-has-lost-4-million-subscribers.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.730703",
-    "insight": "Subscriber growth slowdown threatens flagship service's long-term success prospects."
-  },
-  {
-    "title": "Starlink just doubled its prices for private jets, and hardware now costs $200,000",
-    "summary": "Starlink doubled private jet prices and increased hardware costs to $200,000.",
-    "link": "https://www.techspot.com/news/113040-starlink-doubles-prices-jet-owners-hikes-hardware-costs.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.730856",
-    "insight": "Higher costs may impact business aviation's adoption of Starlink services."
-  },
-  {
-    "title": "This tiny robot could help dentists prepare crowns in a single visit",
-    "summary": "The MIR robot streamlines the crown preparation process for dentists and patients.",
-    "link": "https://www.techspot.com/news/113034-tiny-robot-could-help-dentists-prepare-crowns-single.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.731016",
-    "insight": "Single-visit crowns reduce patient stress and increase treatment efficiency."
-  },
-  {
-    "title": "Cheyenne suspends datacenter wastewater after rare bacterium traced to Meta's AI site",
-    "summary": "A rare bacterium in Cheyenne's wastewater was linked to Meta's AI data center construction. The bacterium, Cupriavidus gilardii, was traced to a contractor's discharge from the site. The data center, valued at $800 million, is expected to be operational in 2027.",
-    "link": "https://www.techspot.com/news/113041-cheyenne-suspends-datacenter-wastewater-after-rare-bacterium-traced.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-09T11:43:23.731189",
-    "insight": "Rare bacterium contaminates water supply near Meta's massive AI data center"
-  },
-  {
-    "title": "Nintendo to ship Switch 2 with easier-to-replace batteries in Europe later this year",
-    "summary": "Nintendo's Switch 2 consoles in Europe will feature easier battery replacement post-2026.",
-    "link": "https://www.techspot.com/news/113033-nintendo-giving-european-switch-2-consoles-easier-replace.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.731374",
-    "insight": "Compliance with EU regulations drives design changes."
-  },
-  {
-    "title": "Meta will disable your smart glasses' camera if you tamper with the recording light",
-    "summary": "Meta will disable smart glasses' camera if tampered with, preventing unauthorized access.",
-    "link": "https://www.techspot.com/news/113037-meta-now-disable-cameras-smart-glasses-if-recording.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.731536",
-    "insight": "Tampering with recording light compromises wearable camera security and personal data."
-  },
-  {
-    "title": "Hardware hacker is building a homemade GPU from 64,000 tiny RISC-V chips",
-    "summary": "A hardware hacker is building a homemade GPU from 64,000 RISC-V chips, scaled down to a 320x200 resolution.",
-    "link": "https://www.techspot.com/news/113032-hardware-hacker-building-homemade-gpu-64000-tiny-risc.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-09T11:43:23.731704",
-    "insight": "Scaling down technology enables innovative prototypes and new possibilities in hardware design."
+    "processed_date": "2026-07-10T11:32:19.040322",
+    "insight": "Microsoft prioritizes Fallout over Obsidian's internal Avowed series ambitions"
   }
 ]

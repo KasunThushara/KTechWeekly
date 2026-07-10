@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 09, 2026**
+**Week of July 10, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. AMD EXPO ULL shows middling performance gains in initial tests despite eye-watering price increase first benchmarks show up to a 4% improvement with DDR5-6000 CL36 ⭐
+### 1. Open Book Touch A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding) ⭐
 
-**🤖 AI & ML**
+**⚡ Semiconductors**
 
-AMD's EXPO ULL memory shows limited performance gains, up to 4%, despite significant price increase. Initial tests indicate that the higher cost does not translate to substantial performance benefits. This may impact consumer purchasing decisions.
+The Open Book Touch is a DRM-free, open-source e-reader with Wi-Fi connectivity and a 4.26-inch e-paper display.
 
-💡 **Key Point:** Middling performance gains outpace price increases in EXPO ULL memory
+💡 **Key Point:** Accessible, affordable e-reading with no proprietary digital rights management restrictions.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ram/amd-expo-ull-shows-middling-performance-gains-in-initial-tests-despite-price-increase-first-benchmarks-show-up-to-a-4-percent-improvement-with-ddr5-6000-cl36)
-
----
-
-### 2. AMD EXPO ULL shows middling performance gains in initial tests despite eye-watering price increase first benchmarks show up to a 4% improvement with DDR5-6000 CL36 ⭐
-
-**🎮 GPUs**
-
-AMD's EXPO ULL memory shows limited performance gains, up to 4%, despite significant price increase. Initial tests indicate that the higher cost does not translate to substantial performance benefits. This may impact consumer purchasing decisions.
-
-💡 **Key Point:** Middling performance gains outpace price increases in EXPO ULL memory
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/ram/amd-expo-ull-shows-middling-performance-gains-in-initial-tests-despite-price-increase-first-benchmarks-show-up-to-a-4-percent-improvement-with-ddr5-6000-cl36)
+🔗 [Read More](https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/)
 
 ---
 
-### 3. China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' Gov't claims Claude sends sensitive information to remote servers without consent 
+### 2. Open Book Touch A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding) ⭐
 
-**🤖 AI & ML**
+**💻 Hardware**
 
-China warns users against using certain versions of Claude Code, claiming hidden code sends sensitive user information to remote servers without consent. The government advises uninstalling the app or using its latest version. Claude Code is not approved for use in China.
+The Open Book Touch is a DRM-free, open-source e-reader with Wi-Fi connectivity and a 4.26-inch e-paper display.
 
-💡 **Key Point:** Claude Code's secret data transfer poses significant national security risks.
+💡 **Key Point:** Accessible, affordable e-reading with no proprietary digital rights management restrictions.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent)
-
----
-
-### 4. Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers Chinese company's firmware allows admin access without a password 
-
-**🤖 AI & ML**
-
-A critical authentication backdoor in Tenda router firmware grants admin access without valid credentials, leaving users vulnerable. The vulnerability, tracked as CVE-2026-11405, affects multiple firmware versions and has no available patch. Researchers have warned Tenda, but the company has yet to address the issue.
-
-💡 **Key Point:** Unpatched backdoor exposes users to full administrator access risk
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/cyber-security/hidden-backdoor-found-in-tenda-routers-goes-unpatched-despite-warnings-from-cybersecurity-researchers-affected-firmware-allows-admin-access-without-a-password)
+🔗 [Read More](https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/)
 
 ---
 
-### 5. SiPearl's long-awaited Rhea CPU finally gets in the lab, opening the door for Europe's first sovereign HPC CPU 'availability of Rhea1 is scheduled for end of 2026' SiPearl VP says, following long development process 
+### 3. TeamGroup G70 Pro 2TB SSD Review: Low latency meets affordable DRAM 
 
-**🤖 AI & ML**
+**📰 Tech News**
 
-SiPearl's Rhea CPU marks a significant milestone for Europe's HPC ambitions. Following a long development process, the limited run CPU is expected to become available at the end of 2026. Its availability could pave the way for Europe's first HPC processors on global markets.
+The TeamGroup G70 Pro offers high-end performance at an affordable price, but its poor power efficiency holds it back.
 
-💡 **Key Point:** Limited run CPU opens doors for Europe's HPC market entry
+💡 **Key Point:** High-end performance at affordable price, but power efficiency is lacking.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/sipearls-long-awaited-rhea-cpu-finally-gets-in-the-lab-opening-the-door-for-europes-first-sovereign-hpc-cpu-availability-of-rhea1-is-scheduled-for-end-of-2026-sipearl-vp-says-following-long-development-process)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/teamgroup-g70-pro-2tb-ssd-review)
+
+---
+
+### 4. After losing about $1 billion in Reaper drones over Iran, the US wants a disposable alternative 
+
+**📰 Tech News**
+
+The US Defense Innovation Unit seeks a disposable aircraft alternative to Reaper drones, which cost $1 billion lost over Iran. The Massed Modular Aircraft (MMA) project invites commercial tech submissions for the solution. This innovation aims to reduce military drone expenses.
+
+💡 **Key Point:** Pentagon seeks cost-effective drone alternatives after significant financial losses.
+
+🔗 [Read More](https://www.techspot.com/news/113054-iran-destroyed-1-billion-worth-reaper-drones-us.html)
+
+---
+
+### 5. M5Stack Stamp-C5 A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support 
+
+**⚡ Semiconductors**
+
+The M5Stack Stamp-C5 is a tiny wireless IoT module with ESP32-C5 MCU, offering 19 GPIO pins and 3.7V battery support, suitable for various IoT applications.
+
+💡 **Key Point:** Small, versatile module empowers IoT projects with Wi-Fi and Bluetooth connectivity.
+
+🔗 [Read More](https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **65 articles** across **5 focused categories**.
+We covered **49 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 19 | Artificial Intelligence and Machine Learning |
+| 🤖 [AI & ML](ai_and_ml.md) | 12 | Artificial Intelligence and Machine Learning |
 | 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 18 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 16 | Industry news and product launches |
+| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 8 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 13 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 19 articles
+*Artificial Intelligence and Machine Learning* — 12 articles
 
 ### 🎮 [GPUs](gpus.md)
 *Graphics cards and compute accelerators* — 6 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 18 articles
+*Computing hardware and development boards* — 10 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 6 articles
+*Chip manufacturing and design* — 8 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 16 articles
+*Industry news and product launches* — 13 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-07-09 at 11:44 by an autonomous AI curation system.
+Generated 2026-07-10 at 11:33 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

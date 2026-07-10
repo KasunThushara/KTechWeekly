@@ -1,205 +1,135 @@
 # 🤖 AI & ML
-**Week of July 09, 2026**
+**Week of July 10, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-07-09 11:44
+- **Articles this week:** 12
+- **Report generated:** 2026-07-10 11:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD EXPO ULL shows middling performance gains in initial tests despite eye-watering price increase first benchmarks show up to a 4% improvement with DDR5-6000 CL36 ⭐
+### 1. AMD's upcoming Zen 6 Medusa Point 10-core APU pops up on Geekbench chip is faster than Ryzen AI 9 HX 370 & even Ryzen AI Max+ 395 
 
-AMD's EXPO ULL memory shows limited performance gains, up to 4%, despite significant price increase. Initial tests indicate that the higher cost does not translate to substantial performance benefits. This may impact consumer purchasing decisions.
+A 10-core Zen 6 Medusa Point APU engineering sample outperformed competitors on Geekbench.
 
-💡 *Middling performance gains outpace price increases in EXPO ULL memory*
+💡 *AMD's upcoming APU shows significant performance improvements over existing Ryzen models.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/amd-expo-ull-shows-middling-performance-gains-in-initial-tests-despite-price-increase-first-benchmarks-show-up-to-a-4-percent-improvement-with-ddr5-6000-cl36)
-
----
-
-### 2. China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' Gov't claims Claude sends sensitive information to remote servers without consent 
-
-China warns users against using certain versions of Claude Code, claiming hidden code sends sensitive user information to remote servers without consent. The government advises uninstalling the app or using its latest version. Claude Code is not approved for use in China.
-
-💡 *Claude Code's secret data transfer poses significant national security risks.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-upcoming-zen-6-medusa-point-10-core-apu-pops-up-on-geekbench-chip-is-faster-than-ryzen-ai-9-hx-370-and-even-ryzen-ai-max-395)
 
 ---
 
-### 3. Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers Chinese company's firmware allows admin access without a password 
+### 2. After losing about $1 billion in Reaper drones over Iran, the US wants a disposable alternative 
 
-A critical authentication backdoor in Tenda router firmware grants admin access without valid credentials, leaving users vulnerable. The vulnerability, tracked as CVE-2026-11405, affects multiple firmware versions and has no available patch. Researchers have warned Tenda, but the company has yet to address the issue.
+The US Defense Innovation Unit seeks a disposable aircraft alternative to Reaper drones, which cost $1 billion lost over Iran. The Massed Modular Aircraft (MMA) project invites commercial tech submissions for the solution. This innovation aims to reduce military drone expenses.
 
-💡 *Unpatched backdoor exposes users to full administrator access risk*
+💡 *Pentagon seeks cost-effective drone alternatives after significant financial losses.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/hidden-backdoor-found-in-tenda-routers-goes-unpatched-despite-warnings-from-cybersecurity-researchers-affected-firmware-allows-admin-access-without-a-password)
-
----
-
-### 4. SiPearl's long-awaited Rhea CPU finally gets in the lab, opening the door for Europe's first sovereign HPC CPU 'availability of Rhea1 is scheduled for end of 2026' SiPearl VP says, following long development process 
-
-SiPearl's Rhea CPU marks a significant milestone for Europe's HPC ambitions. Following a long development process, the limited run CPU is expected to become available at the end of 2026. Its availability could pave the way for Europe's first HPC processors on global markets.
-
-💡 *Limited run CPU opens doors for Europe's HPC market entry*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/sipearls-long-awaited-rhea-cpu-finally-gets-in-the-lab-opening-the-door-for-europes-first-sovereign-hpc-cpu-availability-of-rhea1-is-scheduled-for-end-of-2026-sipearl-vp-says-following-long-development-process)
+🔗 [Read Full Article](https://www.techspot.com/news/113054-iran-destroyed-1-billion-worth-reaper-drones-us.html)
 
 ---
 
-### 5. Power company hikes data center bills by 30%, cuts residential electricity costs by 1.3% Oregon approves change through POWER Act, pushes developments using more than 20 Megawatts of power to pay their fair share 
+### 3. Micron lifts U.S. spending to $250 billion company takes $500 million position in America's only 300 mm wafer plant 
 
-Oregon's POWER Act allows PGE to increase data center bills by 30%, while reducing residential costs by 1.3%. The move aims to ensure large data centers pay their fair share of electricity costs. The change is set to impact developments using over 20 Megawatts of power.
+Micron invests $3 billion in US semiconductor supply chain, with $500 million going to GlobalWafers' 300 mm wafer plant.
 
-💡 *Large data centers must pay their fair share of electricity costs*
+💡 *Boosts US semiconductor self-sufficiency and reduces reliance on foreign suppliers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/power-company-hikes-data-center-bills-by-30-percent-cuts-residential-electricity-costs-by-1-3-percent-oregon-approves-change-through-power-act-pushes-developments-using-more-than-20-megawatts-of-power-to-pay-their-fair-share)
-
----
-
-### 6. 'Slopfix' software team charges $10,000 a week to delete AI-generated code bloat ironically, the team uses AI agents to trim messy repositories by up to 65% 
-
-Slopfix charges $10,000 a week to refactor AI-generated code, using AI agents to trim up to 65% of code bloat.
-
-💡 *AI-generated code often requires AI to make it manageable and efficient.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/a-team-of-engineers-called-slopfix-charges-10000-a-week-to-delete-ai-generated-code-using-ai-agents)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/micron-takes-a-500-million-position-in-americas-only-300mm-wafer-plant)
 
 ---
 
-### 7. Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, reveals next-gen 'Rigel' Arm CPU cores frames chip as a 'max single-threaded CPU at scale,' not a parallel monster 
+### 4. Samsung readies Gaia AI accelerator for PCs HP and Lenovo are reportedly validating the NPU 
 
-Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, with 1.8x uplift in agentic workloads and 1.5x in coding compared to x86 competition.
+Samsung is reportedly preparing its Gaia AI accelerator for PCs, with HP and Lenovo testing it.
 
-💡 *Nvidia prioritizes single-threaded performance in Vera CPU design for AI applications.*
+💡 *Accelerating AI in PCs with improved performance and efficiency*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/nvidia-touts-vera-cpus-single-threaded-performance-as-its-agentic-ai-advantage-frames-chip-as-a-max-single-threaded-cpu-at-scale-not-a-parallel-monster)
-
----
-
-### 8. This dog tracker uses Starlink to keep tabs on your pet, even without cell service 
-
-Fi's Fi Ultra uses Starlink for satellite-based dog tracking coverage, even without cell service.
-
-💡 *Enhanced pet safety in remote areas with no cell connectivity.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113043-dog-tracker-uses-starlink-keep-tabs-pet-even.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-readies-gaia-ai-accelerator-for-client-devices-hp-and-lenovo-are-reportedly-validating-the-npu)
 
 ---
 
-### 9. Samsung unveils fastest PCIe Gen 6 SSD, capable of transferring 40GB LLMs in just 1.4 sec 
+### 5. Ingenious father fixes dead RTX 3070 with a jerry-rigged capacitor from an old radio Saves worried son $120 in repair costs, GPU 'works better than before' now 
 
-Samsung has unveiled its fastest PCIe Gen 6 SSD with up to 28.4 GB/s read speed and 21.9 GB/s write speed, enabling fast transfer of large data, such as a 40GB LLM in just 1.4 seconds.
+A Russian father fixes his son's dead RTX 3070 with a salvaged capacitor, saving $120 in repair costs. The GPU now works better than before. This resourceful fix showcases DIY ingenuity.
 
-💡 *Accelerating AI model deployment with significantly improved data transfer speeds*
+💡 *Creative repurposing of parts can lead to affordable, effective solutions.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113042-samsung-unveils-fastest-pcie-gen-6-ssd-capable.html)
-
----
-
-### 10. Cheyenne suspends datacenter wastewater after rare bacterium traced to Meta's AI site 
-
-A rare bacterium in Cheyenne's wastewater was linked to Meta's AI data center construction. The bacterium, Cupriavidus gilardii, was traced to a contractor's discharge from the site. The data center, valued at $800 million, is expected to be operational in 2027.
-
-💡 *Rare bacterium contaminates water supply near Meta's massive AI data center*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113041-cheyenne-suspends-datacenter-wastewater-after-rare-bacterium-traced.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/ingenious-father-fixes-dead-rtx-3070-with-a-jerry-rigged-capacitor-from-an-old-radio-saves-worried-son-usd120-in-repair-costs-gpu-works-better-than-before-now)
 
 ---
 
-### 11. New hack exploits AI hallucinations to trick agents into running malicious code 'HalluSquatting' attack exploits a fundamental weakness in every available model 
+### 6. While the U.S. flip-flops on chip sanctions, China is building its own chip supply market export controls are creating conditions for a Sino-Russian chip trade alliance 
 
-Attackers can exploit AI hallucinations to trick agents into running malicious code, creating massive botnets.
+The US is indecisive on export controls for Chinese chips while China develops its own domestic supply chain, potentially creating an opportunity for a Sino-Russian chip trade alliance.
 
-💡 *AI hallucinations leave models vulnerable to widespread exploitation everywhere.*
+💡 *China's domestic chip supply chain undermines US export control effectiveness.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/hallusquatting-is-the-latest-agentic-ai-exploit-where-models-dream-up-potentially-malicious-urls-in-tool-calls-attack-exploits-a-fundamental-weakness-in-every-available-model)
-
----
-
-### 12. Future Nostalgia Project asks retro hoarders to Copy That Floppy! flips the early 1990s anti-piracy campaign on its head to encourage budding archivists 
-
-The Future Nostalgia Project reverses the early 1990s anti-piracy 'Copy That Floppy!' campaign by encouraging people to copy and preserve nostalgic floppy disks, promoting archiving and preservation of retro technology.
-
-💡 *Preserving digital history through community-driven archiving efforts matters deeply.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/future-nostalgia-project-asks-retro-hoarders-to-copy-that-floppy-flips-the-early-1990s-anti-piracy-campaign-on-its-head-to-encourage-budding-archivists)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/while-the-u-s-flip-flops-on-chip-sanctions-china-is-building-its-own-chip-supply-market-export-controls-are-creating-conditions-for-a-sino-russian-chip-trade-alliance)
 
 ---
 
-### 13. AI servers will consume more power than all conventional data center hardware combined by 2027 global data center electricity consumption set to grow by 26% this year, Gartner forecasts 
+### 7. Professor suspected AI-powered cheating on take-home midterms, makes finals in-person only two students scored within 10% of their midterm score 
 
-Global data center electricity consumption is expected to grow 26% in 2026 to reach 565 TWh, up from 447 TWh in 2025. This significant increase is forecasted by Gartner. The growth is driven by the expanding demand for cloud computing and AI services.
+A Brown University professor suspected AI cheating on take-home midterms, with only two students maintaining their high scores in in-person finals.
 
-💡 *Rising AI demand fuels explosive data center electricity growth.*
+💡 *Academic integrity is compromised when AI-enabled cheating goes undetected for extended periods.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts)
-
----
-
-### 14. Rapidus fab roadmap examined first new leading-edge chipmaker in decades has one Hokkaido fab, a 2027 deadline, and 60 potential customers 
-
-Rapidus is building Japan's first leading-edge logic fab in Chitose, Hokkaido, with a 2027 deadline and 60 potential customers.
-
-💡 *Japan's return to leading-edge chip production after decades of absence.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/professor-suspected-ai-powered-cheating-on-take-home-midterms-makes-finals-in-person-only-two-students-scored-within-10-percent-of-their-midterm-score)
 
 ---
 
-### 15. JEDEC releases new SPHBM4 standard to slash AI memory costs Narrow 512-bit interface enables dropping expensive interposers for organic substrates 
+### 8. Elon Musk receives FTC greenlight to buy Mesh Optical as interconnects emerge as AI's tightest bottleneck the move will expand Musk's growing stack of critical AI infrastructure 
 
-JEDEC releases SPHBM4, a new standard that achieves HBM4-class bandwidth without silicon interposers or CoWoS-like packaging, reducing costs for AI memory.
+Elon Musk receives FTC clearance to buy Mesh Optical, completing his AI stack. This acquisition fills the missing layer between Terafab's chips and Gigasat's satellites, addressing the tightening interconnect AI bottleneck.
 
-💡 *Simplifies AI memory production, lowers costs significantly.*
+💡 *Closing interconnect bottleneck crucial for AI infrastructure expansion*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates)
-
----
-
-### 16. Modding tool 'DLSS Swapper' might infect your PC with malware if you download the wrong files App creator warns against using random, user-submitted DLLs 
-
-The creator of DLSS Swapper warns against using random, user-submitted DLLs due to malware risks. These files, even if hosted on the app's GitHub repo, may not be safe. Users are advised to only download official, verified files.
-
-💡 *Malware risks rise with user-submitted files, no matter the source.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/modding-tool-dlss-swapper-might-infect-your-pc-with-malware-if-you-download-the-wrong-files-app-creator-warns-against-using-random-user-submitted-dlls)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/elon-musk-receives-ftc-greenlight-to-buy-mesh-optical-as-interconnects-emerge-as-ais-tightest-bottleneck-the-move-will-expand-musks-growing-stack-of-critical-ai-infrastructure)
 
 ---
 
-### 17. Meta's new AI tool can generate images of you using your Instagram photos, and you're opted in by default 
+### 9. Cash App reaches $45 million settlement over alleged failure to protect users from fraud 
 
-Meta's AI tool generates images using Instagram users' photos by default, without notification.
+Cash App reaches $45 million settlement after allegations it failed to protect users from fraud, despite promising advanced security measures.
 
-💡 *Users' privacy and control over AI-generated images are compromised by default settings.*
+💡 *Cash App's failure to protect users from fraud undermines user trust.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113044-meta-new-ai-tool-can-generate-images-you.html)
-
----
-
-### 18. A new satellite wants to prove nuclear power can work in space without solar panels 
-
-BOHR's mission tests a betavoltaic power source that converts beta particles into electricity, a potential nuclear power alternative for space missions without solar panels.
-
-💡 *Nuclear power in space could provide a reliable, long-lasting energy source.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113038-new-satellite-wants-prove-nuclear-power-can-work.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113055-cash-app-reaches-45-million-settlement-46-states.html)
 
 ---
 
-### 19. Japanese firm reverses Blu-ray drive exit after securing parts, but prices jump up to 51% and supplies are limited 
+### 10. Professor's chart exposes the scale of AI cheating in college exams 
 
-Buffalo reversed its decision to discontinue its portable Blu-ray drives after securing necessary parts. However, the drives will now come with significantly higher prices and limited supplies.
+A Brown University professor discovered widespread AI cheating in his class, revealing the scale of the issue in academia.
 
-💡 *Supply constraints lead to price hikes for discontinued products.*
+💡 *Generative AI is compromising the validity of academic assessments and knowledge.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113051-japanese-firm-reverses-blu-ray-drive-exit-after.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113049-professor-chart-exposes-scale-ai-cheating-college-exams.html)
+
+---
+
+### 11. Microsoft tells Obsidian to pause or cancel Avowed 2 and make a new Fallout game 
+
+Microsoft directs Obsidian to cancel or pause Avowed 2, focus on new Fallout game. The project would be led by Josh Sawyer, Fallout: New Vegas director. Sawyer's expertise brings a familiar hand to the Fallout franchise.
+
+💡 *Microsoft prioritizes Fallout over Obsidian's internal Avowed series ambitions*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113048-microsoft-tells-obsidian-pause-or-cancel-avowed-2.html)
+
+---
+
+### 12. Meta tests super sensing AI smart glasses amid privacy concerns 
+
+Meta is testing an AI-powered feature for its smart glasses, which could provide a personal assistant always available. The software update aims to enhance user experience but raises concerns about data privacy. Users may have limited control over the flow of personal data.
+
+💡 *AI-powered personal assistants raise significant data privacy risks.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/meta-tests-super-sensing-ai-smart-glasses-amid-privacy-concerns)
 
 ---
 

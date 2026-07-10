@@ -1,175 +1,145 @@
 # 📰 Tech News
-**Week of July 09, 2026**
+**Week of July 10, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 16
-- **Report generated:** 2026-07-09 11:44
+- **Articles this week:** 13
+- **Report generated:** 2026-07-10 11:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers Chinese company's firmware allows admin access without a password 
+### 1. TeamGroup G70 Pro 2TB SSD Review: Low latency meets affordable DRAM 
 
-A critical authentication backdoor in Tenda router firmware grants admin access without valid credentials, leaving users vulnerable. The vulnerability, tracked as CVE-2026-11405, affects multiple firmware versions and has no available patch. Researchers have warned Tenda, but the company has yet to address the issue.
+The TeamGroup G70 Pro offers high-end performance at an affordable price, but its poor power efficiency holds it back.
 
-💡 *Unpatched backdoor exposes users to full administrator access risk*
+💡 *High-end performance at affordable price, but power efficiency is lacking.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/hidden-backdoor-found-in-tenda-routers-goes-unpatched-despite-warnings-from-cybersecurity-researchers-affected-firmware-allows-admin-access-without-a-password)
-
----
-
-### 2. 'Slopfix' software team charges $10,000 a week to delete AI-generated code bloat ironically, the team uses AI agents to trim messy repositories by up to 65% 
-
-Slopfix charges $10,000 a week to refactor AI-generated code, using AI agents to trim up to 65% of code bloat.
-
-💡 *AI-generated code often requires AI to make it manageable and efficient.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/a-team-of-engineers-called-slopfix-charges-10000-a-week-to-delete-ai-generated-code-using-ai-agents)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/teamgroup-g70-pro-2tb-ssd-review)
 
 ---
 
-### 3. Fi Ultra becomes first dog tracker powered by Starlink satellites the Fi Ultra Dog Tracker makes Fido trackable via satellite, onboard GPS, and LTE connectivity 
+### 2. After losing about $1 billion in Reaper drones over Iran, the US wants a disposable alternative 
 
-Fi Ultra becomes the first dog tracker with Starlink satellite connectivity, onboard GPS, and LTE, making Fido trackable from anywhere.
+The US Defense Innovation Unit seeks a disposable aircraft alternative to Reaper drones, which cost $1 billion lost over Iran. The Massed Modular Aircraft (MMA) project invites commercial tech submissions for the solution. This innovation aims to reduce military drone expenses.
 
-💡 *Enhanced global tracking capabilities for pet owners.*
+💡 *Pentagon seeks cost-effective drone alternatives after significant financial losses.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/fi-ultra-becomes-first-dog-tracker-powered-by-starlink-satellites-the-fi-ultra-dog-tracker-makes-fido-trackable-via-satellite-onboard-gps-and-lte-connectivity)
-
----
-
-### 4. Cooler Master V4 and V8 3DHP Review: A masterful engineering achievement 
-
-Cooler Master's V4 and V8 coolers feature innovative 3DHP heatpipes, a significant advancement in air cooling technology. This design offers improved heat dissipation and reduced noise levels. However, the early adoption of this technology comes at a higher price point.
-
-💡 *Revolutionary 3DHP heatpipe design redefines air cooling performance*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/cooler-master-v4-and-v8-3dhp-review)
+🔗 [Read Full Article](https://www.techspot.com/news/113054-iran-destroyed-1-billion-worth-reaper-drones-us.html)
 
 ---
 
-### 5. Cracked version of Assassin s Creed Black Flag Resynced leaked days prior to official release despite Denuvo DRM protection Denuvo unable to stop crackers, with some finding ways to completely remove it from other titles 
+### 3. Chat Control 1.0 sneaks through the EU Parliament, letting companies scan user data without warrants legal tactic used to force a majority-required re-vote on eve of Parliament break 
 
-A cracked version of Assassin's Creed Black Flag Resynced has leaked online, despite Denuvo DRM protection. The leak occurred more than a month before the official release date. This incident raises concerns about the effectiveness of Denuvo.
+The EU Parliament quietly passed the Chat Control 1.0 bill, allowing companies to scan user data without warrants. This was done through a strategic move that forced a re-vote on the eve of the Parliament break. The bill now requires a re-vote, which may be challenging to achieve.
 
-💡 *Denuvo's failure to stop piracy undermines its anti-piracy value*
+💡 *EU citizens' data privacy is at risk of erosion without adequate safeguards.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/cracked-version-of-assassins-creed-black-flag-resynced-leaked-days-prior-to-official-release-despite-denuvo-drm-protection-denuvo-unable-to-stop-crackers-with-some-finding-ways-to-completely-remove-it-from-other-titles)
-
----
-
-### 6. GIANT scientists deploy sensors in drones and robot subs to map Greenland s melting ice 
-
-Scientists deploy sensors in drones and robots to map Greenland's melting ice, making research possible in treacherous waters.
-
-💡 *Melting ice affects global sea levels and climate stability.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/giant-scientists-deploy-sensors-drones-and-robot-subs-map-greenlands-melting-ice)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/chat-control-1-0-sneaks-through-the-eu-parliament-letting-companies-scan-user-data-without-warrants-legal-tactic-used-to-force-a-majority-required-re-vote-on-eve-of-parliament-break)
 
 ---
 
-### 7. Philips Evnia 27M2N5500XD 1000Hz Monitor Review 
+### 4. Redditor buys suspicious drives on eBay just to report the scamming sellers if they get a fake SSD or HDD latest '16TB' find has weights and microSD card hot-glued inside the enclosure to make it feel legit 
 
-The Philips Evnia 27M2N5500XD falls short of its advertised specs due to slow IPS response times.
+A Redditor buys suspicious drives on eBay to report scamming sellers, getting them banned and a refund for the purchase.
 
-💡 *IPS response times hinder monitor's high refresh rate performance.*
+💡 *Reporting fake sellers delays their return to scam unsuspecting victims temporarily.*
 
-🔗 [Read Full Article](https://www.techspot.com/review/3137-philips-evnia-1000hz/)
-
----
-
-### 8. This dog tracker uses Starlink to keep tabs on your pet, even without cell service 
-
-Fi's Fi Ultra uses Starlink for satellite-based dog tracking coverage, even without cell service.
-
-💡 *Enhanced pet safety in remote areas with no cell connectivity.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113043-dog-tracker-uses-starlink-keep-tabs-pet-even.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-ssds/redditor-buys-suspicious-drives-on-ebay-just-to-report-the-scamming-sellers-if-they-get-a-fake-ssd-or-hdd-latest-16tb-find-has-weights-and-microsd-card-hot-glued-inside-the-enclosure-to-make-it-feel-legit)
 
 ---
 
-### 9. Assassin's Creed Black Flag Resynced modernizes the fan favorite with revamped combat and visuals 
+### 5. Sega s $5M investment saved Nvidia in 1996, now Jensen Huang is heading to Tokyo to mark 30 years of partnership Akihabara event will include a GeForce RTX 5090 FE lottery, an RTX Spark presentation, and more 
 
-Assassin's Creed Black Flag Resynced brings smoother combat and visual upgrades to the classic game, polishing its foundation while still showing some age.
+Nvidia and Sega are celebrating their 30-year partnership with an event in Tokyo. The Akihabara event will feature a lottery for the GeForce RTX 5090 FE, an RTX Spark presentation, and more. This marks a significant milestone in the companies' history.
 
-💡 *Revamping a classic game to modern standards is a significant industry shift.*
+💡 *Nvidia and Sega's partnership has endured for three decades.*
 
-🔗 [Read Full Article](https://www.techspot.com/products/pc-games/assassins-creed-black-flag-resynced.327363/)
-
----
-
-### 10. New hack exploits AI hallucinations to trick agents into running malicious code 'HalluSquatting' attack exploits a fundamental weakness in every available model 
-
-Attackers can exploit AI hallucinations to trick agents into running malicious code, creating massive botnets.
-
-💡 *AI hallucinations leave models vulnerable to widespread exploitation everywhere.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/hallusquatting-is-the-latest-agentic-ai-exploit-where-models-dream-up-potentially-malicious-urls-in-tool-calls-attack-exploits-a-fundamental-weakness-in-every-available-model)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/segas-usd5m-investment-saved-nvidia-in-1996-now-jensen-huang-is-heading-to-tokyo-to-mark-30-years-of-partnership-akihabara-event-will-include-a-geforce-rtx-5090-fe-lottery-an-rtx-spark-presentation-and-more)
 
 ---
 
-### 11. JEDEC releases new SPHBM4 standard to slash AI memory costs Narrow 512-bit interface enables dropping expensive interposers for organic substrates 
+### 6. Space Marine 2 sold million of copies, and now Saber Interactive has to turn down projects 
 
-JEDEC releases SPHBM4, a new standard that achieves HBM4-class bandwidth without silicon interposers or CoWoS-like packaging, reducing costs for AI memory.
+Saber Interactive has turned down projects due to high demand from Warhammer 40,000: Space Marine 2's success, which has made the studio a leading choice for developing games around established IPs.
 
-💡 *Simplifies AI memory production, lowers costs significantly.*
+💡 *Saber Interactive's success creates a high barrier to entry for new collaborations.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates)
-
----
-
-### 12. This tiny robot could help dentists prepare crowns in a single visit 
-
-The MIR robot streamlines the crown preparation process for dentists and patients.
-
-💡 *Single-visit crowns reduce patient stress and increase treatment efficiency.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113034-tiny-robot-could-help-dentists-prepare-crowns-single.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113060-space-marine-2-sold-million-copies-now-saber.html)
 
 ---
 
-### 13. Nintendo to ship Switch 2 with easier-to-replace batteries in Europe later this year 
+### 7. Nvidia launches free GeForce trading card collection featuring 14 designs from NV1 to RTX 2080 Ti 
 
-Nintendo's Switch 2 consoles in Europe will feature easier battery replacement post-2026.
+Nvidia launches free trading card collection to celebrate GeForce's 30-year history.
 
-💡 *Compliance with EU regulations drives design changes.*
+💡 *Nvidia honors legacy as AI future shifts GPU landscape focus.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113033-nintendo-giving-european-switch-2-consoles-easier-replace.html)
-
----
-
-### 14. Meta will disable your smart glasses' camera if you tamper with the recording light 
-
-Meta will disable smart glasses' camera if tampered with, preventing unauthorized access.
-
-💡 *Tampering with recording light compromises wearable camera security and personal data.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113037-meta-now-disable-cameras-smart-glasses-if-recording.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113059-nvidia-turns-geforce-greatest-milestones-collectible-trading-cards.html)
 
 ---
 
-### 15. Japanese firm reverses Blu-ray drive exit after securing parts, but prices jump up to 51% and supplies are limited 
+### 8. Minecraft joins Doom in the "can it run?" hall of fame with Game Boy Color port 
 
-Buffalo reversed its decision to discontinue its portable Blu-ray drives after securing necessary parts. However, the drives will now come with significantly higher prices and limited supplies.
+Minecraft has been successfully ported to the Game Boy Color by Game of Tobi. This is an impressive feat, as Minecraft was not originally designed for the device. The port showcases Tobi's expertise in getting games running on unexpected hardware.
 
-💡 *Supply constraints lead to price hikes for discontinued products.*
+💡 *Minecraft's Game Boy Color port pushes handheld console capabilities*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113051-japanese-firm-reverses-blu-ray-drive-exit-after.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113056-minecraft-joins-doom-can-run-hall-fame-game.html)
 
 ---
 
-### 16. What was the first consumer device powered by a Li-ion battery? 
+### 9. DLSS Swapper creator issues malware warning over user-submitted DLLs 
 
-The first consumer device powered by a Li-ion battery was a handheld electronic calculator called the 'Intellect' in 1991, made by Molex. This device paved the way for widespread adoption of lithium-ion technology in consumer electronics. The Intellect was a significant innovation in battery technology.
+The DLSS Swapper creator warns of malware risks from user-submitted DLLs. These malicious files are being uploaded through the program's design. Users are advised to exercise caution.
 
-💡 *Early Li-ion adoption revolutionized portable electronics and changed tech history.*
+💡 *User-submitted DLLs pose a significant malware risk to DLSS Swapper users.*
 
-🔗 [Read Full Article](https://www.techspot.com/trivia/178-what-first-consumer-device-powered-li-ion-battery/)
+🔗 [Read Full Article](https://www.techspot.com/news/113045-dlss-swapper-creator-issues-malware-warning-over-user.html)
+
+---
+
+### 10. New York becomes the first state to ban smart glasses in courtrooms 
+
+New York becomes the first state to ban smart glasses in courtrooms, applying to all types, including those with prescription lenses, for everyone entering the building.
+
+💡 *Courtroom integrity preserved with ban on recording technology*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113057-new-york-issues-statewide-courthouse-ban-smart-glasses.html)
+
+---
+
+### 11. Budget smartphones are the next victim of the memory crisis 
+
+Mid-to-low-end smartphones are struggling with rising memory costs, leading to a 22% YoY decline. The thin profit margins make it difficult for manufacturers to absorb these costs. This trend is expected to continue due to the memory crisis.
+
+💡 *Thinner profit margins leave budget phones vulnerable to memory price hikes*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113053-budget-smartphones-could-next-victim-memory-crisis.html)
+
+---
+
+### 12. Meta tests super sensing AI smart glasses amid privacy concerns 
+
+Meta is testing an AI-powered feature for its smart glasses, which could provide a personal assistant always available. The software update aims to enhance user experience but raises concerns about data privacy. Users may have limited control over the flow of personal data.
+
+💡 *AI-powered personal assistants raise significant data privacy risks.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/meta-tests-super-sensing-ai-smart-glasses-amid-privacy-concerns)
+
+---
+
+### 13. Interpol arrests 5,811 people, seizes $293 million in global scammer crackdown 
+
+Interpol arrested 5,811 people and seized $293 million in a global scammer crackdown, highlighting the scale of the problem.
+
+💡 *The scale of international scams is staggering and requires coordinated global action.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113058-interpol-arrests-5811-people-seizes-293-million-global.html)
 
 ---
 

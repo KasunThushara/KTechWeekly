@@ -1,75 +1,95 @@
 # ⚡ Semiconductors
-**Week of July 09, 2026**
+**Week of July 10, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-07-09 11:44
+- **Articles this week:** 8
+- **Report generated:** 2026-07-10 11:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, reveals next-gen 'Rigel' Arm CPU cores frames chip as a 'max single-threaded CPU at scale,' not a parallel monster 
+### 1. Open Book Touch A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding) ⭐
 
-Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, with 1.8x uplift in agentic workloads and 1.5x in coding compared to x86 competition.
+The Open Book Touch is a DRM-free, open-source e-reader with Wi-Fi connectivity and a 4.26-inch e-paper display.
 
-💡 *Nvidia prioritizes single-threaded performance in Vera CPU design for AI applications.*
+💡 *Accessible, affordable e-reading with no proprietary digital rights management restrictions.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/nvidia-touts-vera-cpus-single-threaded-performance-as-its-agentic-ai-advantage-frames-chip-as-a-max-single-threaded-cpu-at-scale-not-a-parallel-monster)
-
----
-
-### 2. Makerfabs MaUWB for Home Assistant An ESP32-S3 UWB module with PoE and enclosure 
-
-The Makerfabs MaUWB module is an ESP32-S3-based UWB module for indoor positioning and RTLS, integrating with Home Assistant via ESPHome for seamless tracking of tagged devices.
-
-💡 *Precise indoor location tracking for smart homes and offices enabled.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/)
 
 ---
 
-### 3. Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments 
+### 2. M5Stack Stamp-C5 A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support 
 
-Norik Systems introduced a compact USB dongle using Nordic's nRF9151 SiP for DECT NR+ deployments, enabling developers to easily integrate the non-cellular 5G standard into gateways or child nodes.
+The M5Stack Stamp-C5 is a tiny wireless IoT module with ESP32-C5 MCU, offering 19 GPIO pins and 3.7V battery support, suitable for various IoT applications.
 
-💡 *Accelerating DECT NR+ adoption with easy-to-use, compact USB connectivity solutions*
+💡 *Small, versatile module empowers IoT projects with Wi-Fi and Bluetooth connectivity.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/)
-
----
-
-### 4. Rapidus fab roadmap examined first new leading-edge chipmaker in decades has one Hokkaido fab, a 2027 deadline, and 60 potential customers 
-
-Rapidus is building Japan's first leading-edge logic fab in Chitose, Hokkaido, with a 2027 deadline and 60 potential customers.
-
-💡 *Japan's return to leading-edge chip production after decades of absence.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/)
 
 ---
 
-### 5. 8Bitdo's wireless Pro 2 gaming controller falls to all-time low price hall-effect gamepad is 38% off, just $37.19 
+### 3. Micron lifts U.S. spending to $250 billion company takes $500 million position in America's only 300 mm wafer plant 
 
-The 8Bitdo wireless Pro 2 gaming controller is on sale, 38% off, for $37.19. This is an all-time low price at Amazon for Prime members. The Pro 2 features hall-effect joysticks for precision gaming.
+Micron invests $3 billion in US semiconductor supply chain, with $500 million going to GlobalWafers' 300 mm wafer plant.
 
-💡 *Gaming enthusiasts can upgrade their experience at a budget-friendly price.*
+💡 *Boosts US semiconductor self-sufficiency and reduces reliance on foreign suppliers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/8bitdos-wireless-pro-2-gaming-controller-falls-to-all-time-low-price-hall-effect-gamepad-is-38-percent-off-just-usd37-19)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/micron-takes-a-500-million-position-in-americas-only-300mm-wafer-plant)
 
 ---
 
-### 6. A new satellite wants to prove nuclear power can work in space without solar panels 
+### 4. While the U.S. flip-flops on chip sanctions, China is building its own chip supply market export controls are creating conditions for a Sino-Russian chip trade alliance 
 
-BOHR's mission tests a betavoltaic power source that converts beta particles into electricity, a potential nuclear power alternative for space missions without solar panels.
+The US is indecisive on export controls for Chinese chips while China develops its own domestic supply chain, potentially creating an opportunity for a Sino-Russian chip trade alliance.
 
-💡 *Nuclear power in space could provide a reliable, long-lasting energy source.*
+💡 *China's domestic chip supply chain undermines US export control effectiveness.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113038-new-satellite-wants-prove-nuclear-power-can-work.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/while-the-u-s-flip-flops-on-chip-sanctions-china-is-building-its-own-chip-supply-market-export-controls-are-creating-conditions-for-a-sino-russian-chip-trade-alliance)
+
+---
+
+### 5. Intel preps 28-core Nova Lake-S CPUs for Dunlow workstation platform Entry-level Xeon chip features LGA1954 socket 
+
+Intel is preparing a 28-core Xeon 'Dunlow' CPU for entry-level servers and workstations. This processor will feature an LGA1954 socket. It's part of Intel's Nova Lake-S CPU lineup.
+
+💡 *High core counts for entry-level workstations increase productivity and efficiency.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-preps-28-core-nova-lake-s-cpus-for-dunlow-workstation-platform-entry-level-xeon-chip-features-lga1954-socket)
+
+---
+
+### 6. Elon Musk receives FTC greenlight to buy Mesh Optical as interconnects emerge as AI's tightest bottleneck the move will expand Musk's growing stack of critical AI infrastructure 
+
+Elon Musk receives FTC clearance to buy Mesh Optical, completing his AI stack. This acquisition fills the missing layer between Terafab's chips and Gigasat's satellites, addressing the tightening interconnect AI bottleneck.
+
+💡 *Closing interconnect bottleneck crucial for AI infrastructure expansion*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/elon-musk-receives-ftc-greenlight-to-buy-mesh-optical-as-interconnects-emerge-as-ais-tightest-bottleneck-the-move-will-expand-musks-growing-stack-of-critical-ai-infrastructure)
+
+---
+
+### 7. Best of Sensors: Teradar Summit clinches best of Auto & Mobile 
+
+Teradar Summit is the world's first commercial terahertz vision sensor designed to provide unmatched clarity and range under all conditions, winning the Best of Sensors award in the automotive category.
+
+💡 *Advanced sensors enhance vehicle safety and performance in all environments.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/best-sensors-teradar-summit-clinches-best-auto-mobile)
+
+---
+
+### 8. Microsoft tells Obsidian to pause or cancel Avowed 2 and make a new Fallout game 
+
+Microsoft directs Obsidian to cancel or pause Avowed 2, focus on new Fallout game. The project would be led by Josh Sawyer, Fallout: New Vegas director. Sawyer's expertise brings a familiar hand to the Fallout franchise.
+
+💡 *Microsoft prioritizes Fallout over Obsidian's internal Avowed series ambitions*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113048-microsoft-tells-obsidian-pause-or-cancel-avowed-2.html)
 
 ---
 

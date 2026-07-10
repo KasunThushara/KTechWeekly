@@ -1,195 +1,115 @@
 # 💻 Hardware
-**Week of July 09, 2026**
+**Week of July 10, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 18
-- **Report generated:** 2026-07-09 11:44
+- **Articles this week:** 10
+- **Report generated:** 2026-07-10 11:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' Gov't claims Claude sends sensitive information to remote servers without consent 
+### 1. Open Book Touch A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding) ⭐
 
-China warns users against using certain versions of Claude Code, claiming hidden code sends sensitive user information to remote servers without consent. The government advises uninstalling the app or using its latest version. Claude Code is not approved for use in China.
+The Open Book Touch is a DRM-free, open-source e-reader with Wi-Fi connectivity and a 4.26-inch e-paper display.
 
-💡 *Claude Code's secret data transfer poses significant national security risks.*
+💡 *Accessible, affordable e-reading with no proprietary digital rights management restrictions.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/china-alleges-that-claude-code-contains-backdoors-calls-mechanism-a-serious-threat-govt-claims-claude-sends-sensitive-information-to-remote-servers-without-consent)
-
----
-
-### 2. SiPearl's long-awaited Rhea CPU finally gets in the lab, opening the door for Europe's first sovereign HPC CPU 'availability of Rhea1 is scheduled for end of 2026' SiPearl VP says, following long development process 
-
-SiPearl's Rhea CPU marks a significant milestone for Europe's HPC ambitions. Following a long development process, the limited run CPU is expected to become available at the end of 2026. Its availability could pave the way for Europe's first HPC processors on global markets.
-
-💡 *Limited run CPU opens doors for Europe's HPC market entry*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/sipearls-long-awaited-rhea-cpu-finally-gets-in-the-lab-opening-the-door-for-europes-first-sovereign-hpc-cpu-availability-of-rhea1-is-scheduled-for-end-of-2026-sipearl-vp-says-following-long-development-process)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/)
 
 ---
 
-### 3. Fi Ultra becomes first dog tracker powered by Starlink satellites the Fi Ultra Dog Tracker makes Fido trackable via satellite, onboard GPS, and LTE connectivity 
+### 2. TeamGroup G70 Pro 2TB SSD Review: Low latency meets affordable DRAM 
 
-Fi Ultra becomes the first dog tracker with Starlink satellite connectivity, onboard GPS, and LTE, making Fido trackable from anywhere.
+The TeamGroup G70 Pro offers high-end performance at an affordable price, but its poor power efficiency holds it back.
 
-💡 *Enhanced global tracking capabilities for pet owners.*
+💡 *High-end performance at affordable price, but power efficiency is lacking.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/fi-ultra-becomes-first-dog-tracker-powered-by-starlink-satellites-the-fi-ultra-dog-tracker-makes-fido-trackable-via-satellite-onboard-gps-and-lte-connectivity)
-
----
-
-### 4. Cooler Master V4 and V8 3DHP Review: A masterful engineering achievement 
-
-Cooler Master's V4 and V8 coolers feature innovative 3DHP heatpipes, a significant advancement in air cooling technology. This design offers improved heat dissipation and reduced noise levels. However, the early adoption of this technology comes at a higher price point.
-
-💡 *Revolutionary 3DHP heatpipe design redefines air cooling performance*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/cooler-master-v4-and-v8-3dhp-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/teamgroup-g70-pro-2tb-ssd-review)
 
 ---
 
-### 5. Makerfabs MaUWB for Home Assistant An ESP32-S3 UWB module with PoE and enclosure 
+### 3. Alienware AW3426DW gaming monitor review: Premium gaming and OLED goodness in a value-priced package 
 
-The Makerfabs MaUWB module is an ESP32-S3-based UWB module for indoor positioning and RTLS, integrating with Home Assistant via ESPHome for seamless tracking of tagged devices.
+The Alienware AW3426DW offers a premium gaming experience with its 34-inch OLED display, featuring WQHD resolution, HDR500, and a 280Hz refresh rate.
 
-💡 *Precise indoor location tracking for smart homes and offices enabled.*
+💡 *Value-priced package for high-end gaming and OLED technology*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/)
-
----
-
-### 6. Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments 
-
-Norik Systems introduced a compact USB dongle using Nordic's nRF9151 SiP for DECT NR+ deployments, enabling developers to easily integrate the non-cellular 5G standard into gateways or child nodes.
-
-💡 *Accelerating DECT NR+ adoption with easy-to-use, compact USB connectivity solutions*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw3426dw-34-inch-qd-oled-gaming-monitor-review)
 
 ---
 
-### 7. Philips Evnia 27M2N5500XD 1000Hz Monitor Review 
+### 4. AMD's upcoming Zen 6 Medusa Point 10-core APU pops up on Geekbench chip is faster than Ryzen AI 9 HX 370 & even Ryzen AI Max+ 395 
 
-The Philips Evnia 27M2N5500XD falls short of its advertised specs due to slow IPS response times.
+A 10-core Zen 6 Medusa Point APU engineering sample outperformed competitors on Geekbench.
 
-💡 *IPS response times hinder monitor's high refresh rate performance.*
+💡 *AMD's upcoming APU shows significant performance improvements over existing Ryzen models.*
 
-🔗 [Read Full Article](https://www.techspot.com/review/3137-philips-evnia-1000hz/)
-
----
-
-### 8. Samsung unveils fastest PCIe Gen 6 SSD, capable of transferring 40GB LLMs in just 1.4 sec 
-
-Samsung has unveiled its fastest PCIe Gen 6 SSD with up to 28.4 GB/s read speed and 21.9 GB/s write speed, enabling fast transfer of large data, such as a 40GB LLM in just 1.4 seconds.
-
-💡 *Accelerating AI model deployment with significantly improved data transfer speeds*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113042-samsung-unveils-fastest-pcie-gen-6-ssd-capable.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-upcoming-zen-6-medusa-point-10-core-apu-pops-up-on-geekbench-chip-is-faster-than-ryzen-ai-9-hx-370-and-even-ryzen-ai-max-395)
 
 ---
 
-### 9. Assassin's Creed Black Flag Resynced modernizes the fan favorite with revamped combat and visuals 
+### 5. M5Stack Stamp-C5 A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support 
 
-Assassin's Creed Black Flag Resynced brings smoother combat and visual upgrades to the classic game, polishing its foundation while still showing some age.
+The M5Stack Stamp-C5 is a tiny wireless IoT module with ESP32-C5 MCU, offering 19 GPIO pins and 3.7V battery support, suitable for various IoT applications.
 
-💡 *Revamping a classic game to modern standards is a significant industry shift.*
+💡 *Small, versatile module empowers IoT projects with Wi-Fi and Bluetooth connectivity.*
 
-🔗 [Read Full Article](https://www.techspot.com/products/pc-games/assassins-creed-black-flag-resynced.327363/)
-
----
-
-### 10. Cheyenne suspends datacenter wastewater after rare bacterium traced to Meta's AI site 
-
-A rare bacterium in Cheyenne's wastewater was linked to Meta's AI data center construction. The bacterium, Cupriavidus gilardii, was traced to a contractor's discharge from the site. The data center, valued at $800 million, is expected to be operational in 2027.
-
-💡 *Rare bacterium contaminates water supply near Meta's massive AI data center*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113041-cheyenne-suspends-datacenter-wastewater-after-rare-bacterium-traced.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/)
 
 ---
 
-### 11. AI servers will consume more power than all conventional data center hardware combined by 2027 global data center electricity consumption set to grow by 26% this year, Gartner forecasts 
+### 6. Samsung readies Gaia AI accelerator for PCs HP and Lenovo are reportedly validating the NPU 
 
-Global data center electricity consumption is expected to grow 26% in 2026 to reach 565 TWh, up from 447 TWh in 2025. This significant increase is forecasted by Gartner. The growth is driven by the expanding demand for cloud computing and AI services.
+Samsung is reportedly preparing its Gaia AI accelerator for PCs, with HP and Lenovo testing it.
 
-💡 *Rising AI demand fuels explosive data center electricity growth.*
+💡 *Accelerating AI in PCs with improved performance and efficiency*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts)
-
----
-
-### 12. Chinese courts allow heirs to inherit accounts of deceased gamers multiple cases spanning years establish precedent for digital ownership of games, in-game items, and microtransactions 
-
-Chinese courts have allowed heirs to inherit digital assets, setting precedent for ownership rights. This decision is based on multiple rulings, despite Chinese law not explicitly covering digital properties. The verdicts have implications for digital ownership and inheritance.
-
-💡 *Digital assets gain recognition as inheritable, valuable property interests*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/chinese-courts-allow-heirs-to-inherent-accounts-of-deceased-gamers-multiple-cases-spanning-years-establish-precedent-for-digital-ownership-of-games-in-game-items-and-microtransactions)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-readies-gaia-ai-accelerator-for-client-devices-hp-and-lenovo-are-reportedly-validating-the-npu)
 
 ---
 
-### 13. Modding tool 'DLSS Swapper' might infect your PC with malware if you download the wrong files App creator warns against using random, user-submitted DLLs 
+### 7. Minecraft shown running on Game Boy Color and Game Boy in 3D with textures developer coaxed 3D look out of barely-there hardware 
 
-The creator of DLSS Swapper warns against using random, user-submitted DLLs due to malware risks. These files, even if hosted on the app's GitHub repo, may not be safe. Users are advised to only download official, verified files.
+A developer successfully ran Minecraft on the Game Boy Color and Game Boy in 3D with textures, showcasing the system's capabilities despite its limitations.
 
-💡 *Malware risks rise with user-submitted files, no matter the source.*
+💡 *Optimizing games for underpowered hardware yields creative problem-solving and impressive results.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/modding-tool-dlss-swapper-might-infect-your-pc-with-malware-if-you-download-the-wrong-files-app-creator-warns-against-using-random-user-submitted-dlls)
-
----
-
-### 14. Valve releases drivers, notes to make Windows work on Steam hardware, but refuses to support it tells users it doesn t offer support for Windows on Steam Hardware, gaming company provides resources as is  
-
-Valve releases drivers to improve Windows 11 compatibility on Steam Deck/Machine, but refuses support, pointing users to SteamOS recovery instructions.
-
-💡 *Valve prioritizes SteamOS, limiting Windows support on Steam hardware.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/valve-releases-drivers-notes-to-make-windows-work-on-steam-hardware-but-refuses-to-support-it-tells-users-it-doesnt-offer-support-for-windows-on-steam-hardware-gaming-company-provides-resources-as-is)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/minecraft-shown-running-on-game-boy-color-and-game-boy-in-3d-with-textures-developer-coaxed-3d-look-out-of-old-hardware)
 
 ---
 
-### 15. Xbox Game Pass has lost 4 million subscribers since its price hike backfired 
+### 8. AMD revives aging Zen 2 processor for budget PCs Ryzen 7 4700LE resurfaces in a new $800 RTX 3050 prebuilt 
 
-Xbox Game Pass has lost 4 million subscribers since its price hike.
+AMD revives Ryzen 7 4700LE in a budget gaming desktop prebuilt with RTX 3050, priced at $799.99. This marks another instance of AMD repurposing older processors. The move targets budget-conscious gamers seeking performance at an affordable price.
 
-💡 *Subscriber growth slowdown threatens flagship service's long-term success prospects.*
+💡 *Budget gamers get high-end GPU performance paired with older CPU value*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113036-xbox-game-pass-has-lost-4-million-subscribers.html)
-
----
-
-### 16. Starlink just doubled its prices for private jets, and hardware now costs $200,000 
-
-Starlink doubled private jet prices and increased hardware costs to $200,000.
-
-💡 *Higher costs may impact business aviation's adoption of Starlink services.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113040-starlink-doubles-prices-jet-owners-hikes-hardware-costs.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-revives-aging-zen-2-processor-for-budget-pcs-ryzen-7-4700le-resurfaces-in-a-new-usd800-rtx-3050-prebuilt)
 
 ---
 
-### 17. Hardware hacker is building a homemade GPU from 64,000 tiny RISC-V chips 
+### 9. Intel preps 28-core Nova Lake-S CPUs for Dunlow workstation platform Entry-level Xeon chip features LGA1954 socket 
 
-A hardware hacker is building a homemade GPU from 64,000 RISC-V chips, scaled down to a 320x200 resolution.
+Intel is preparing a 28-core Xeon 'Dunlow' CPU for entry-level servers and workstations. This processor will feature an LGA1954 socket. It's part of Intel's Nova Lake-S CPU lineup.
 
-💡 *Scaling down technology enables innovative prototypes and new possibilities in hardware design.*
+💡 *High core counts for entry-level workstations increase productivity and efficiency.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113032-hardware-hacker-building-homemade-gpu-64000-tiny-risc.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-preps-28-core-nova-lake-s-cpus-for-dunlow-workstation-platform-entry-level-xeon-chip-features-lga1954-socket)
 
 ---
 
-### 18. Save $527 on this 1440p gaming PC from Newegg with a 16GB RTX 5060 Ti right now huge discount for high-end performance rig with an Intel Core i7-14700F, 32GB DDR5, and a 1TB SSD 
+### 10. Redditor's latest fake-drive purchase reveals a 60GB microSD card inside a "16TB SSD" 
 
-Newegg's ABS gaming PC boasts 1440p performance with a 16GB RTX 5060 Ti and 32GB DDR5 RAM.
+A Redditor buys a '16TB SSD' containing a 60GB microSD card, reports it to eBay, and gets a refund.
 
-💡 *High-end performance at a discounted price for 1440p gaming enthusiasts.*
+💡 *Exposing scams helps protect others and prevents further fraudulent activity online.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/save-usd527-on-this-1440p-gaming-pc-from-newegg-with-a-16gb-rtx-5060-ti-right-now-huge-discount-for-high-end-performance-rig-with-an-intel-core-i7-14700f-32gb-ddr5-and-a-1tb-ssd)
+🔗 [Read Full Article](https://www.techspot.com/news/113066-redditor-latest-fake-drive-purchase-reveals-60gb-microsd.html)
 
 ---
 

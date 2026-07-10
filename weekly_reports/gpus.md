@@ -1,5 +1,5 @@
 # 🎮 GPUs
-**Week of July 09, 2026**
+**Week of July 10, 2026**
 
 *Graphics cards and compute accelerators*
 
@@ -7,69 +7,69 @@
 
 ## 📊 Summary
 - **Articles this week:** 6
-- **Report generated:** 2026-07-09 11:44
+- **Report generated:** 2026-07-10 11:33
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD EXPO ULL shows middling performance gains in initial tests despite eye-watering price increase first benchmarks show up to a 4% improvement with DDR5-6000 CL36 ⭐
+### 1. Alienware AW3426DW gaming monitor review: Premium gaming and OLED goodness in a value-priced package 
 
-AMD's EXPO ULL memory shows limited performance gains, up to 4%, despite significant price increase. Initial tests indicate that the higher cost does not translate to substantial performance benefits. This may impact consumer purchasing decisions.
+The Alienware AW3426DW offers a premium gaming experience with its 34-inch OLED display, featuring WQHD resolution, HDR500, and a 280Hz refresh rate.
 
-💡 *Middling performance gains outpace price increases in EXPO ULL memory*
+💡 *Value-priced package for high-end gaming and OLED technology*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/amd-expo-ull-shows-middling-performance-gains-in-initial-tests-despite-price-increase-first-benchmarks-show-up-to-a-4-percent-improvement-with-ddr5-6000-cl36)
-
----
-
-### 2. Global consumer Wi-Fi router shipments fell 6% in Q1 2026, down 34% from 2021 peak mesh systems and gaming routers still prove popular 
-
-Global consumer Wi-Fi router shipments fell 6% in Q1 2026. This decline comes after a 34% drop from the 2021 peak. Despite this, mesh systems and gaming routers remain popular.
-
-💡 *Decline of Wi-Fi router shipments impacts network infrastructure and consumer technology.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/routers/global-consumer-wi-fi-router-shipments-fell-6-percent-in-q1-2026-mesh-systems-and-gaming-routers-still-prove-popular)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw3426dw-34-inch-qd-oled-gaming-monitor-review)
 
 ---
 
-### 3. Valve releases drivers, notes to make Windows work on Steam hardware, but refuses to support it tells users it doesn t offer support for Windows on Steam Hardware, gaming company provides resources as is  
+### 2. Assassin's Creed Black Flag Resynced: 50 GPU Benchmark 
 
-Valve releases drivers to improve Windows 11 compatibility on Steam Deck/Machine, but refuses support, pointing users to SteamOS recovery instructions.
+Assassin's Creed Black Flag Resynced's GPU demands vary greatly across different settings and hardware configurations. A comprehensive benchmark of 50 graphics cards showcases the game's performance at multiple resolutions, ray tracing modes, and upscaling presets. This detailed analysis helps gamers understand the game's hardware requirements and make informed purchasing decisions.
 
-💡 *Valve prioritizes SteamOS, limiting Windows support on Steam hardware.*
+💡 *GPU performance disparity significantly affects Black Flag Resynced's frame rates.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/valve-releases-drivers-notes-to-make-windows-work-on-steam-hardware-but-refuses-to-support-it-tells-users-it-doesnt-offer-support-for-windows-on-steam-hardware-gaming-company-provides-resources-as-is)
-
----
-
-### 4. 8Bitdo's wireless Pro 2 gaming controller falls to all-time low price hall-effect gamepad is 38% off, just $37.19 
-
-The 8Bitdo wireless Pro 2 gaming controller is on sale, 38% off, for $37.19. This is an all-time low price at Amazon for Prime members. The Pro 2 features hall-effect joysticks for precision gaming.
-
-💡 *Gaming enthusiasts can upgrade their experience at a budget-friendly price.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/8bitdos-wireless-pro-2-gaming-controller-falls-to-all-time-low-price-hall-effect-gamepad-is-38-percent-off-just-usd37-19)
+🔗 [Read Full Article](https://www.techspot.com/review/3146-assassins-creed-black-flag-benchmark/)
 
 ---
 
-### 5. Hardware hacker is building a homemade GPU from 64,000 tiny RISC-V chips 
+### 3. Ingenious father fixes dead RTX 3070 with a jerry-rigged capacitor from an old radio Saves worried son $120 in repair costs, GPU 'works better than before' now 
 
-A hardware hacker is building a homemade GPU from 64,000 RISC-V chips, scaled down to a 320x200 resolution.
+A Russian father fixes his son's dead RTX 3070 with a salvaged capacitor, saving $120 in repair costs. The GPU now works better than before. This resourceful fix showcases DIY ingenuity.
 
-💡 *Scaling down technology enables innovative prototypes and new possibilities in hardware design.*
+💡 *Creative repurposing of parts can lead to affordable, effective solutions.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113032-hardware-hacker-building-homemade-gpu-64000-tiny-risc.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/ingenious-father-fixes-dead-rtx-3070-with-a-jerry-rigged-capacitor-from-an-old-radio-saves-worried-son-usd120-in-repair-costs-gpu-works-better-than-before-now)
 
 ---
 
-### 6. Save $527 on this 1440p gaming PC from Newegg with a 16GB RTX 5060 Ti right now huge discount for high-end performance rig with an Intel Core i7-14700F, 32GB DDR5, and a 1TB SSD 
+### 4. AMD revives aging Zen 2 processor for budget PCs Ryzen 7 4700LE resurfaces in a new $800 RTX 3050 prebuilt 
 
-Newegg's ABS gaming PC boasts 1440p performance with a 16GB RTX 5060 Ti and 32GB DDR5 RAM.
+AMD revives Ryzen 7 4700LE in a budget gaming desktop prebuilt with RTX 3050, priced at $799.99. This marks another instance of AMD repurposing older processors. The move targets budget-conscious gamers seeking performance at an affordable price.
 
-💡 *High-end performance at a discounted price for 1440p gaming enthusiasts.*
+💡 *Budget gamers get high-end GPU performance paired with older CPU value*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/save-usd527-on-this-1440p-gaming-pc-from-newegg-with-a-16gb-rtx-5060-ti-right-now-huge-discount-for-high-end-performance-rig-with-an-intel-core-i7-14700f-32gb-ddr5-and-a-1tb-ssd)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-revives-aging-zen-2-processor-for-budget-pcs-ryzen-7-4700le-resurfaces-in-a-new-usd800-rtx-3050-prebuilt)
+
+---
+
+### 5. Sega s $5M investment saved Nvidia in 1996, now Jensen Huang is heading to Tokyo to mark 30 years of partnership Akihabara event will include a GeForce RTX 5090 FE lottery, an RTX Spark presentation, and more 
+
+Nvidia and Sega are celebrating their 30-year partnership with an event in Tokyo. The Akihabara event will feature a lottery for the GeForce RTX 5090 FE, an RTX Spark presentation, and more. This marks a significant milestone in the companies' history.
+
+💡 *Nvidia and Sega's partnership has endured for three decades.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/segas-usd5m-investment-saved-nvidia-in-1996-now-jensen-huang-is-heading-to-tokyo-to-mark-30-years-of-partnership-akihabara-event-will-include-a-geforce-rtx-5090-fe-lottery-an-rtx-spark-presentation-and-more)
+
+---
+
+### 6. Nvidia launches free GeForce trading card collection featuring 14 designs from NV1 to RTX 2080 Ti 
+
+Nvidia launches free trading card collection to celebrate GeForce's 30-year history.
+
+💡 *Nvidia honors legacy as AI future shifts GPU landscape focus.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113059-nvidia-turns-geforce-greatest-milestones-collectible-trading-cards.html)
 
 ---
 
