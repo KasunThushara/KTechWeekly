@@ -1,5 +1,5 @@
 # 🤖 AI & ML
-**Week of July 10, 2026**
+**Week of July 11, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
@@ -7,129 +7,129 @@
 
 ## 📊 Summary
 - **Articles this week:** 12
-- **Report generated:** 2026-07-10 11:33
+- **Report generated:** 2026-07-11 10:05
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD's upcoming Zen 6 Medusa Point 10-core APU pops up on Geekbench chip is faster than Ryzen AI 9 HX 370 & even Ryzen AI Max+ 395 
+### 1. SK hynix and TetraMem collaborate on experimental chip to bolster energy efficiency for edge AI devices memristor-based in-memory SoC research leaves performance questions up in the air ⭐
 
-A 10-core Zen 6 Medusa Point APU engineering sample outperformed competitors on Geekbench.
+SK hynix, TetraMem, and USC collaborated on a memristor-based in-memory SoC, achieving promising energy efficiency for edge AI devices, but performance limitations remain.
 
-💡 *AMD's upcoming APU shows significant performance improvements over existing Ryzen models.*
+💡 *Energy efficiency breakthroughs in AI edge devices are crucial for widespread adoption.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-upcoming-zen-6-medusa-point-10-core-apu-pops-up-on-geekbench-chip-is-faster-than-ryzen-ai-9-hx-370-and-even-ryzen-ai-max-395)
-
----
-
-### 2. After losing about $1 billion in Reaper drones over Iran, the US wants a disposable alternative 
-
-The US Defense Innovation Unit seeks a disposable aircraft alternative to Reaper drones, which cost $1 billion lost over Iran. The Massed Modular Aircraft (MMA) project invites commercial tech submissions for the solution. This innovation aims to reduce military drone expenses.
-
-💡 *Pentagon seeks cost-effective drone alternatives after significant financial losses.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113054-iran-destroyed-1-billion-worth-reaper-drones-us.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-hynix-and-tetramem-collaborate-on-experimental-chip-to-bolster-energy-efficiency-for-edge-ai-devices-memristor-based-in-memory-soc-research-leaves-performance-questions-up-in-the-air)
 
 ---
 
-### 3. Micron lifts U.S. spending to $250 billion company takes $500 million position in America's only 300 mm wafer plant 
+### 2. Anthropic says it can read Claude's 'thoughts,' as detailed in new research paper models observed to have a global workspace, revealing more of what makes LLMs tick 
 
-Micron invests $3 billion in US semiconductor supply chain, with $500 million going to GlobalWafers' 300 mm wafer plant.
+Anthropic's research paper reveals a 'J-space' in Claude AI, similar to human processing, which may aid in improving LLM honesty and oversight.
 
-💡 *Boosts US semiconductor self-sufficiency and reduces reliance on foreign suppliers.*
+💡 *Unlocking AI's internal workings for more transparent and accountable LLMs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/micron-takes-a-500-million-position-in-americas-only-300mm-wafer-plant)
-
----
-
-### 4. Samsung readies Gaia AI accelerator for PCs HP and Lenovo are reportedly validating the NPU 
-
-Samsung is reportedly preparing its Gaia AI accelerator for PCs, with HP and Lenovo testing it.
-
-💡 *Accelerating AI in PCs with improved performance and efficiency*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-readies-gaia-ai-accelerator-for-client-devices-hp-and-lenovo-are-reportedly-validating-the-npu)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-it-can-read-claudes-thoughts-as-detailed-in-new-research-paper-models-observed-to-have-a-global-workspace-revealing-more-of-what-makes-llms-tick)
 
 ---
 
-### 5. Ingenious father fixes dead RTX 3070 with a jerry-rigged capacitor from an old radio Saves worried son $120 in repair costs, GPU 'works better than before' now 
+### 3. Researchers turn HBM on its side to tackle AI memory s heat wall Korean V-Die and Japanese MOSAIC designs promise higher bandwidth, denser stacks, and cooler future GPUs 
 
-A Russian father fixes his son's dead RTX 3070 with a salvaged capacitor, saving $120 in repair costs. The GPU now works better than before. This resourceful fix showcases DIY ingenuity.
+Researchers in Korea and Japan have proposed innovative sideways-stacked DRAM designs, overcoming conventional HBM limitations by improving cooling, bandwidth, and capacity, and reducing reliance on TSV-heavy vertical stacks. These designs aim to push future AI memory beyond its current capabilities. This could lead to more efficient and powerful AI systems.
 
-💡 *Creative repurposing of parts can lead to affordable, effective solutions.*
+💡 *Innovative sideways stacks boost AI memory efficiency and performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/ingenious-father-fixes-dead-rtx-3070-with-a-jerry-rigged-capacitor-from-an-old-radio-saves-worried-son-usd120-in-repair-costs-gpu-works-better-than-before-now)
-
----
-
-### 6. While the U.S. flip-flops on chip sanctions, China is building its own chip supply market export controls are creating conditions for a Sino-Russian chip trade alliance 
-
-The US is indecisive on export controls for Chinese chips while China develops its own domestic supply chain, potentially creating an opportunity for a Sino-Russian chip trade alliance.
-
-💡 *China's domestic chip supply chain undermines US export control effectiveness.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/while-the-u-s-flip-flops-on-chip-sanctions-china-is-building-its-own-chip-supply-market-export-controls-are-creating-conditions-for-a-sino-russian-chip-trade-alliance)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/researchers-turn-hbm-on-its-side-to-tackle-ai-memorys-heat-wall-korean-v-die-and-japanese-mosaic-designs-promise-higher-bandwidth-denser-stacks-and-cooler-future-gpus)
 
 ---
 
-### 7. Professor suspected AI-powered cheating on take-home midterms, makes finals in-person only two students scored within 10% of their midterm score 
+### 4. Apple is suing OpenAI, alleging former employees stole trade secrets to build AI hardware 
 
-A Brown University professor suspected AI cheating on take-home midterms, with only two students maintaining their high scores in in-person finals.
+Apple sues OpenAI, alleging former employees stole trade secrets for AI development.
 
-💡 *Academic integrity is compromised when AI-enabled cheating goes undetected for extended periods.*
+💡 *Trade secret theft can undermine intellectual property and competitive advantage.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/professor-suspected-ai-powered-cheating-on-take-home-midterms-makes-finals-in-person-only-two-students-scored-within-10-percent-of-their-midterm-score)
-
----
-
-### 8. Elon Musk receives FTC greenlight to buy Mesh Optical as interconnects emerge as AI's tightest bottleneck the move will expand Musk's growing stack of critical AI infrastructure 
-
-Elon Musk receives FTC clearance to buy Mesh Optical, completing his AI stack. This acquisition fills the missing layer between Terafab's chips and Gigasat's satellites, addressing the tightening interconnect AI bottleneck.
-
-💡 *Closing interconnect bottleneck crucial for AI infrastructure expansion*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/elon-musk-receives-ftc-greenlight-to-buy-mesh-optical-as-interconnects-emerge-as-ais-tightest-bottleneck-the-move-will-expand-musks-growing-stack-of-critical-ai-infrastructure)
+🔗 [Read Full Article](https://www.techspot.com/news/113078-apple-suing-openai-alleging-former-employees-stole-trade.html)
 
 ---
 
-### 9. Cash App reaches $45 million settlement over alleged failure to protect users from fraud 
+### 5. Nvidia's rumored GeForce RTX 5090 SE promises flagship power for $500 less, if you can find one 
 
-Cash App reaches $45 million settlement after allegations it failed to protect users from fraud, despite promising advanced security measures.
+Nvidia's GeForce RTX 5090 SE reportedly features a cut-down version of the RTX 5090's silicon, with 14,080 CUDA cores and a lower price point of $500 less than the flagship model.
 
-💡 *Cash App's failure to protect users from fraud undermines user trust.*
+💡 *Potential flagship performance at an affordable price is on the horizon.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113055-cash-app-reaches-45-million-settlement-46-states.html)
-
----
-
-### 10. Professor's chart exposes the scale of AI cheating in college exams 
-
-A Brown University professor discovered widespread AI cheating in his class, revealing the scale of the issue in academia.
-
-💡 *Generative AI is compromising the validity of academic assessments and knowledge.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113049-professor-chart-exposes-scale-ai-cheating-college-exams.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113071-nvidia-rumored-geforce-rtx-5090-se-promises-flagship.html)
 
 ---
 
-### 11. Microsoft tells Obsidian to pause or cancel Avowed 2 and make a new Fallout game 
+### 6. Apple sues OpenAI over alleged theft of trade secrets claims company mentored incoming employees on bringing confidential information 
 
-Microsoft directs Obsidian to cancel or pause Avowed 2, focus on new Fallout game. The project would be led by Josh Sawyer, Fallout: New Vegas director. Sawyer's expertise brings a familiar hand to the Fallout franchise.
+Apple is suing OpenAI and former employees over alleged trade secret theft. The lawsuit claims OpenAI mentored new employees on bringing confidential information from Apple. This dispute involves the development of AI hardware businesses.
 
-💡 *Microsoft prioritizes Fallout over Obsidian's internal Avowed series ambitions*
+💡 *Confidentiality breaches threaten AI innovation and corporate competitive advantage*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113048-microsoft-tells-obsidian-pause-or-cancel-avowed-2.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/apple-sues-openai-over-alleged-theft-of-trade-secrets-claims-company-mentored-incoming-employees-on-bringing-confidential-information)
 
 ---
 
-### 12. Meta tests super sensing AI smart glasses amid privacy concerns 
+### 7. SK hynix raises a record $26.5 billion in historic U.S. IPO South Korean memory giant to fund massive HBM manufacturing expansions 
 
-Meta is testing an AI-powered feature for its smart glasses, which could provide a personal assistant always available. The software update aims to enhance user experience but raises concerns about data privacy. Users may have limited control over the flow of personal data.
+SK hynix raised a record $26.5 billion in its Nasdaq IPO, planning to invest in massive HBM manufacturing expansions. The funds will be used to meet surging AI demand and sold-out HBM supply. This historic IPO is a significant milestone for the South Korean memory giant.
 
-💡 *AI-powered personal assistants raise significant data privacy risks.*
+💡 *Funding AI-driven demand and supply chain expansion in memory market*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/meta-tests-super-sensing-ai-smart-glasses-amid-privacy-concerns)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions)
+
+---
+
+### 8. Steam now has 50% more users than PlayStation, and Sony's own decisions might be pushing more players there 
+
+Steam has surpassed PlayStation's user base, with a massive pool of potential customers. This shift could impact Sony's gaming strategy and revenue. Shawn Layden's comments on PC game releases take on new significance.
+
+💡 *Sony's PC gaming decisions might be driven by business considerations*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113061-steam-rise-puts-playstation-under-pressure-gamers-rethink.html)
+
+---
+
+### 9. Federal Reserve taps Xbox CEO Asha Sharma to lead jobs task force days after Microsoft laid off 3,200 people 
+
+Federal Reserve appoints Xbox CEO Asha Sharma to lead a jobs task force, following Microsoft's mass layoffs.
+
+💡 *Corporate leaders' perspectives inform monetary policy decision-making processes.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113067-federal-reserve-taps-xbox-ceo-asha-sharma-lead.html)
+
+---
+
+### 10. Data shows physical PlayStation games can be up to 90% cheaper than their digital versions 
+
+Physical PlayStation games can be up to 90% cheaper than digital versions.
+
+💡 *Physical copies offer significant cost savings over digital alternatives.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113064-data-shows-physical-playstation-games-can-up-90.html)
+
+---
+
+### 11. The EU just revived a law that lets Meta and Google scan your messages critics call it mass surveillance 
+
+The EU has reinstated a law allowing Google and Meta to scan messages for illegal content.
+
+💡 *Mass surveillance risks infringing on users' right to privacy.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113062-eu-revived-law-meta-google-scan-messages-critics.html)
+
+---
+
+### 12. SK Hynix raises $26.5 billion in massive US share offering 
+
+SK Hynix has raised $26.5 billion in the largest US listing by a foreign company. This significant fundraising effort will likely impact the global semiconductor industry. The company's move is a testament to its growth and financial strength.
+
+💡 *Massive fundraising boosts SK Hynix's global semiconductor market presence.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113072-sk-hynix-raises-265-billion-massive-us-share.html)
 
 ---
 

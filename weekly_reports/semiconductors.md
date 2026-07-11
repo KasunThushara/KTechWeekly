@@ -1,95 +1,55 @@
 # ⚡ Semiconductors
-**Week of July 10, 2026**
+**Week of July 11, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-07-10 11:33
+- **Articles this week:** 4
+- **Report generated:** 2026-07-11 10:05
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Open Book Touch A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding) ⭐
+### 1. SK hynix and TetraMem collaborate on experimental chip to bolster energy efficiency for edge AI devices memristor-based in-memory SoC research leaves performance questions up in the air ⭐
 
-The Open Book Touch is a DRM-free, open-source e-reader with Wi-Fi connectivity and a 4.26-inch e-paper display.
+SK hynix, TetraMem, and USC collaborated on a memristor-based in-memory SoC, achieving promising energy efficiency for edge AI devices, but performance limitations remain.
 
-💡 *Accessible, affordable e-reading with no proprietary digital rights management restrictions.*
+💡 *Energy efficiency breakthroughs in AI edge devices are crucial for widespread adoption.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/)
-
----
-
-### 2. M5Stack Stamp-C5 A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support 
-
-The M5Stack Stamp-C5 is a tiny wireless IoT module with ESP32-C5 MCU, offering 19 GPIO pins and 3.7V battery support, suitable for various IoT applications.
-
-💡 *Small, versatile module empowers IoT projects with Wi-Fi and Bluetooth connectivity.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-hynix-and-tetramem-collaborate-on-experimental-chip-to-bolster-energy-efficiency-for-edge-ai-devices-memristor-based-in-memory-soc-research-leaves-performance-questions-up-in-the-air)
 
 ---
 
-### 3. Micron lifts U.S. spending to $250 billion company takes $500 million position in America's only 300 mm wafer plant 
+### 2. SK hynix raises a record $26.5 billion in historic U.S. IPO South Korean memory giant to fund massive HBM manufacturing expansions 
 
-Micron invests $3 billion in US semiconductor supply chain, with $500 million going to GlobalWafers' 300 mm wafer plant.
+SK hynix raised a record $26.5 billion in its Nasdaq IPO, planning to invest in massive HBM manufacturing expansions. The funds will be used to meet surging AI demand and sold-out HBM supply. This historic IPO is a significant milestone for the South Korean memory giant.
 
-💡 *Boosts US semiconductor self-sufficiency and reduces reliance on foreign suppliers.*
+💡 *Funding AI-driven demand and supply chain expansion in memory market*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/micron-takes-a-500-million-position-in-americas-only-300mm-wafer-plant)
-
----
-
-### 4. While the U.S. flip-flops on chip sanctions, China is building its own chip supply market export controls are creating conditions for a Sino-Russian chip trade alliance 
-
-The US is indecisive on export controls for Chinese chips while China develops its own domestic supply chain, potentially creating an opportunity for a Sino-Russian chip trade alliance.
-
-💡 *China's domestic chip supply chain undermines US export control effectiveness.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/while-the-u-s-flip-flops-on-chip-sanctions-china-is-building-its-own-chip-supply-market-export-controls-are-creating-conditions-for-a-sino-russian-chip-trade-alliance)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions)
 
 ---
 
-### 5. Intel preps 28-core Nova Lake-S CPUs for Dunlow workstation platform Entry-level Xeon chip features LGA1954 socket 
+### 3. Japanese chipmaker Rapidus to offer lower wafer pricing than TSMC 2nm class silicon to be priced around $20,000 on 2027 launch 
 
-Intel is preparing a 28-core Xeon 'Dunlow' CPU for entry-level servers and workstations. This processor will feature an LGA1954 socket. It's part of Intel's Nova Lake-S CPU lineup.
+Japanese chipmaker Rapidus plans to undercut TSMC's 2nm wafer pricing at launch in 2027, offering lower quotes.
 
-💡 *High core counts for entry-level workstations increase productivity and efficiency.*
+💡 *Industry shake-up due to aggressive pricing strategy*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-preps-28-core-nova-lake-s-cpus-for-dunlow-workstation-platform-entry-level-xeon-chip-features-lga1954-socket)
-
----
-
-### 6. Elon Musk receives FTC greenlight to buy Mesh Optical as interconnects emerge as AI's tightest bottleneck the move will expand Musk's growing stack of critical AI infrastructure 
-
-Elon Musk receives FTC clearance to buy Mesh Optical, completing his AI stack. This acquisition fills the missing layer between Terafab's chips and Gigasat's satellites, addressing the tightening interconnect AI bottleneck.
-
-💡 *Closing interconnect bottleneck crucial for AI infrastructure expansion*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/elon-musk-receives-ftc-greenlight-to-buy-mesh-optical-as-interconnects-emerge-as-ais-tightest-bottleneck-the-move-will-expand-musks-growing-stack-of-critical-ai-infrastructure)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch)
 
 ---
 
-### 7. Best of Sensors: Teradar Summit clinches best of Auto & Mobile 
+### 4. Federal Reserve taps Xbox CEO Asha Sharma to lead jobs task force days after Microsoft laid off 3,200 people 
 
-Teradar Summit is the world's first commercial terahertz vision sensor designed to provide unmatched clarity and range under all conditions, winning the Best of Sensors award in the automotive category.
+Federal Reserve appoints Xbox CEO Asha Sharma to lead a jobs task force, following Microsoft's mass layoffs.
 
-💡 *Advanced sensors enhance vehicle safety and performance in all environments.*
+💡 *Corporate leaders' perspectives inform monetary policy decision-making processes.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/best-sensors-teradar-summit-clinches-best-auto-mobile)
-
----
-
-### 8. Microsoft tells Obsidian to pause or cancel Avowed 2 and make a new Fallout game 
-
-Microsoft directs Obsidian to cancel or pause Avowed 2, focus on new Fallout game. The project would be led by Josh Sawyer, Fallout: New Vegas director. Sawyer's expertise brings a familiar hand to the Fallout franchise.
-
-💡 *Microsoft prioritizes Fallout over Obsidian's internal Avowed series ambitions*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113048-microsoft-tells-obsidian-pause-or-cancel-avowed-2.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113067-federal-reserve-taps-xbox-ceo-asha-sharma-lead.html)
 
 ---
 

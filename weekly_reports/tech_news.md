@@ -1,145 +1,95 @@
 # 📰 Tech News
-**Week of July 10, 2026**
+**Week of July 11, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-07-10 11:33
+- **Articles this week:** 8
+- **Report generated:** 2026-07-11 10:05
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. TeamGroup G70 Pro 2TB SSD Review: Low latency meets affordable DRAM 
+### 1. Asus ROG Strix Scar 18 (2026) Review: Stunning Mini LED, serious muscle, and a few missed steps ⭐
 
-The TeamGroup G70 Pro offers high-end performance at an affordable price, but its poor power efficiency holds it back.
+The Asus ROG Strix Scar 18 features an 18-inch mini-LED display and cutting-edge components, but falls short in certain areas. It offers impressive performance, but lacks PCIe 5.0 storage and dual-channel RAM. A comparison to the Razer Blade 18 reveals some performance differences.
 
-💡 *High-end performance at affordable price, but power efficiency is lacking.*
+💡 *Asus ROG Strix Scar 18 meets expectations, but lacks key upgrades.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/teamgroup-g70-pro-2tb-ssd-review)
-
----
-
-### 2. After losing about $1 billion in Reaper drones over Iran, the US wants a disposable alternative 
-
-The US Defense Innovation Unit seeks a disposable aircraft alternative to Reaper drones, which cost $1 billion lost over Iran. The Massed Modular Aircraft (MMA) project invites commercial tech submissions for the solution. This innovation aims to reduce military drone expenses.
-
-💡 *Pentagon seeks cost-effective drone alternatives after significant financial losses.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113054-iran-destroyed-1-billion-worth-reaper-drones-us.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/asus-rog-strix-scar-18-2026-review)
 
 ---
 
-### 3. Chat Control 1.0 sneaks through the EU Parliament, letting companies scan user data without warrants legal tactic used to force a majority-required re-vote on eve of Parliament break 
+### 2. Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding) 
 
-The EU Parliament quietly passed the Chat Control 1.0 bill, allowing companies to scan user data without warrants. This was done through a strategic move that forced a re-vote on the eve of the Parliament break. The bill now requires a re-vote, which may be challenging to achieve.
+The ELM11-Feather board is a Lua-programmable microcontroller featuring a Gowin GW1NR FPGA in the Adafruit Feather form factor. It offers GPIO headers, a built-in debugger, and USB-C power and programming. The board can run a PicoRV32 MCU softcore at up to 75 MHz.
 
-💡 *EU citizens' data privacy is at risk of erosion without adequate safeguards.*
+💡 *Lua-programmability on an FPGA unlocks new microcontroller applications and flexibility.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/chat-control-1-0-sneaks-through-the-eu-parliament-letting-companies-scan-user-data-without-warrants-legal-tactic-used-to-force-a-majority-required-re-vote-on-eve-of-parliament-break)
-
----
-
-### 4. Redditor buys suspicious drives on eBay just to report the scamming sellers if they get a fake SSD or HDD latest '16TB' find has weights and microSD card hot-glued inside the enclosure to make it feel legit 
-
-A Redditor buys suspicious drives on eBay to report scamming sellers, getting them banned and a refund for the purchase.
-
-💡 *Reporting fake sellers delays their return to scam unsuspecting victims temporarily.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/external-ssds/redditor-buys-suspicious-drives-on-ebay-just-to-report-the-scamming-sellers-if-they-get-a-fake-ssd-or-hdd-latest-16tb-find-has-weights-and-microsd-card-hot-glued-inside-the-enclosure-to-make-it-feel-legit)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/)
 
 ---
 
-### 5. Sega s $5M investment saved Nvidia in 1996, now Jensen Huang is heading to Tokyo to mark 30 years of partnership Akihabara event will include a GeForce RTX 5090 FE lottery, an RTX Spark presentation, and more 
+### 3. Ubisoft defends $85 day-one DLC after AC Black Flag Resynced gets review-bombed 
 
-Nvidia and Sega are celebrating their 30-year partnership with an event in Tokyo. The Akihabara event will feature a lottery for the GeForce RTX 5090 FE, an RTX Spark presentation, and more. This marks a significant milestone in the companies' history.
+Ubisoft's Assassin's Creed Black Flag Resynced was review-bombed due to $85 day-one DLC, surpassing game cost.
 
-💡 *Nvidia and Sega's partnership has endured for three decades.*
+💡 *Consumer trust eroded by excessive, pricey day-one DLC.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/segas-usd5m-investment-saved-nvidia-in-1996-now-jensen-huang-is-heading-to-tokyo-to-mark-30-years-of-partnership-akihabara-event-will-include-a-geforce-rtx-5090-fe-lottery-an-rtx-spark-presentation-and-more)
-
----
-
-### 6. Space Marine 2 sold million of copies, and now Saber Interactive has to turn down projects 
-
-Saber Interactive has turned down projects due to high demand from Warhammer 40,000: Space Marine 2's success, which has made the studio a leading choice for developing games around established IPs.
-
-💡 *Saber Interactive's success creates a high barrier to entry for new collaborations.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113060-space-marine-2-sold-million-copies-now-saber.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113069-ubisoft-defends-85-day-one-dlc-assassin-creed.html)
 
 ---
 
-### 7. Nvidia launches free GeForce trading card collection featuring 14 designs from NV1 to RTX 2080 Ti 
+### 4. Nanya to quadruple capital spending to $6.2 billion in 2027 as DRAM prices push gross margin to 79.5% Q2 revenue skyrockets as ASPs for memory continue to surge 
 
-Nvidia launches free trading card collection to celebrate GeForce's 30-year history.
+Nanya Technology plans to quadruple its capital spending to $6.2 billion in 2027. This significant increase in capital expenditure is largely driven by rising DRAM prices. The surge in DRAM prices has led to a substantial boost in the company's revenue and gross margin.
 
-💡 *Nvidia honors legacy as AI future shifts GPU landscape focus.*
+💡 *DRAM price surge fuels Nanya's aggressive capital spending plans.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113059-nvidia-turns-geforce-greatest-milestones-collectible-trading-cards.html)
-
----
-
-### 8. Minecraft joins Doom in the "can it run?" hall of fame with Game Boy Color port 
-
-Minecraft has been successfully ported to the Game Boy Color by Game of Tobi. This is an impressive feat, as Minecraft was not originally designed for the device. The port showcases Tobi's expertise in getting games running on unexpected hardware.
-
-💡 *Minecraft's Game Boy Color port pushes handheld console capabilities*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113056-minecraft-joins-doom-can-run-hall-fame-game.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nanya-to-quadruple-capital-spending-to-6-2-billion-in-2027)
 
 ---
 
-### 9. DLSS Swapper creator issues malware warning over user-submitted DLLs 
+### 5. Japanese chipmaker Rapidus to offer lower wafer pricing than TSMC 2nm class silicon to be priced around $20,000 on 2027 launch 
 
-The DLSS Swapper creator warns of malware risks from user-submitted DLLs. These malicious files are being uploaded through the program's design. Users are advised to exercise caution.
+Japanese chipmaker Rapidus plans to undercut TSMC's 2nm wafer pricing at launch in 2027, offering lower quotes.
 
-💡 *User-submitted DLLs pose a significant malware risk to DLSS Swapper users.*
+💡 *Industry shake-up due to aggressive pricing strategy*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113045-dlss-swapper-creator-issues-malware-warning-over-user.html)
-
----
-
-### 10. New York becomes the first state to ban smart glasses in courtrooms 
-
-New York becomes the first state to ban smart glasses in courtrooms, applying to all types, including those with prescription lenses, for everyone entering the building.
-
-💡 *Courtroom integrity preserved with ban on recording technology*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113057-new-york-issues-statewide-courthouse-ban-smart-glasses.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch)
 
 ---
 
-### 11. Budget smartphones are the next victim of the memory crisis 
+### 6. FCC approves giant mirror satellite designed to beam sunlight to Earth after dark 
 
-Mid-to-low-end smartphones are struggling with rising memory costs, leading to a 22% YoY decline. The thin profit margins make it difficult for manufacturers to absorb these costs. This trend is expected to continue due to the memory crisis.
+The FCC has granted permission for the E rendil-1 satellite to operate, allowing it to test redirecting sunlight onto Earth after dark.
 
-💡 *Thinner profit margins leave budget phones vulnerable to memory price hikes*
+💡 *Potential game-changer for renewable energy and disaster relief efforts worldwide.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113053-budget-smartphones-could-next-victim-memory-crisis.html)
-
----
-
-### 12. Meta tests super sensing AI smart glasses amid privacy concerns 
-
-Meta is testing an AI-powered feature for its smart glasses, which could provide a personal assistant always available. The software update aims to enhance user experience but raises concerns about data privacy. Users may have limited control over the flow of personal data.
-
-💡 *AI-powered personal assistants raise significant data privacy risks.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/meta-tests-super-sensing-ai-smart-glasses-amid-privacy-concerns)
+🔗 [Read Full Article](https://www.techspot.com/news/113068-fcc-approves-giant-mirror-satellite-designed-beam-sunlight.html)
 
 ---
 
-### 13. Interpol arrests 5,811 people, seizes $293 million in global scammer crackdown 
+### 7. Steam sales reportedly topped $11 billion during H1 2026 due to shifting trends staggering growth driven by influx of Chinese players and booming legacy catalogues 
 
-Interpol arrested 5,811 people and seized $293 million in a global scammer crackdown, highlighting the scale of the problem.
+Steam generated an estimated $11.1 billion in revenue in H1 2026, surpassing the entire year of 2020 and outpacing last year's holiday season. This makes it the best six-month period in the platform's history. The growth is attributed to an influx of Chinese players and a thriving legacy catalogue.
 
-💡 *The scale of international scams is staggering and requires coordinated global action.*
+💡 *Shifting trends drive staggering growth on Steam due to Chinese players.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113058-interpol-arrests-5811-people-seizes-293-million-global.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/steam-sales-reportedly-topped-usd11-billion-during-h1-2026-due-to-shifting-trends-staggering-growth-driven-by-influx-of-chinese-players-and-booming-legacy-catalogues)
+
+---
+
+### 8. Best of Sensors: Woman of the Year Tianyue Yu 
+
+Tianyue Yu is recognized for her work as technologist and founder, spanning over two decades. She has made significant contributions to the field of sensors. Her dedication and expertise have earned her the title of Woman of the Year.
+
+💡 *Pioneering female technologists inspire future generations of innovators*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/best-sensors-woman-year-tianyue-yu-0)
 
 ---
 
