@@ -1,95 +1,75 @@
 # 📰 Tech News
-**Week of July 11, 2026**
+**Week of July 12, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-07-11 10:05
+- **Articles this week:** 6
+- **Report generated:** 2026-07-12 10:13
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Asus ROG Strix Scar 18 (2026) Review: Stunning Mini LED, serious muscle, and a few missed steps ⭐
+### 1. Beelink EQi review Part 2: An Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro ⭐
 
-The Asus ROG Strix Scar 18 features an 18-inch mini-LED display and cutting-edge components, but falls short in certain areas. It offers impressive performance, but lacks PCIe 5.0 storage and dual-channel RAM. A comparison to the Razer Blade 18 reveals some performance differences.
+The Beelink EQi Wildcat Lake mini PC, powered by an Intel Core i3-304 processor, is put through various tests including benchmarking, video playback, and network performance evaluation on Windows 11 Pro. The review provides a detailed assessment of its features, capabilities, and performance. The mini PC is also evaluated for its cooling performance, fan noise, and power consumption.
 
-💡 *Asus ROG Strix Scar 18 meets expectations, but lacks key upgrades.*
+💡 *Intel Core i3-304 mini PC delivers solid performance with Windows 11 Pro*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/asus-rog-strix-scar-18-2026-review)
-
----
-
-### 2. Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding) 
-
-The ELM11-Feather board is a Lua-programmable microcontroller featuring a Gowin GW1NR FPGA in the Adafruit Feather form factor. It offers GPIO headers, a built-in debugger, and USB-C power and programming. The board can run a PicoRV32 MCU softcore at up to 75 MHz.
-
-💡 *Lua-programmability on an FPGA unlocks new microcontroller applications and flexibility.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/12/beelink-eqi-review-intel-core-3-304-wildcat-lake-mini-pc-windows-11-pro/)
 
 ---
 
-### 3. Ubisoft defends $85 day-one DLC after AC Black Flag Resynced gets review-bombed 
+### 2. This 3D-printed electric motorbike folds into your luggage creator warns it is 'super fast... way too fast' 
 
-Ubisoft's Assassin's Creed Black Flag Resynced was review-bombed due to $85 day-one DLC, surpassing game cost.
+Ivan Miranda has released the design files for the Mirandetta, a 3D-printed electric scooter that folds to fit inside a suitcase. This innovative motorbike combines convenience with speed. The creator warns users about its high speed.
 
-💡 *Consumer trust eroded by excessive, pricey day-one DLC.*
+💡 *Convenience and speed come at the cost of caution needed.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113069-ubisoft-defends-85-day-one-dlc-assassin-creed.html)
-
----
-
-### 4. Nanya to quadruple capital spending to $6.2 billion in 2027 as DRAM prices push gross margin to 79.5% Q2 revenue skyrockets as ASPs for memory continue to surge 
-
-Nanya Technology plans to quadruple its capital spending to $6.2 billion in 2027. This significant increase in capital expenditure is largely driven by rising DRAM prices. The surge in DRAM prices has led to a substantial boost in the company's revenue and gross margin.
-
-💡 *DRAM price surge fuels Nanya's aggressive capital spending plans.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nanya-to-quadruple-capital-spending-to-6-2-billion-in-2027)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/ivan-miranda-releases-files-for-a-3d-printed-electric-motorbike-that-fits-in-a-suitcase)
 
 ---
 
-### 5. Japanese chipmaker Rapidus to offer lower wafer pricing than TSMC 2nm class silicon to be priced around $20,000 on 2027 launch 
+### 3. EA's College Football 27 is getting review-bombed over hidden single-player microtransactions 
 
-Japanese chipmaker Rapidus plans to undercut TSMC's 2nm wafer pricing at launch in 2027, offering lower quotes.
+College Football 27 is facing backlash for 'predatory' microtransactions in single-player modes, despite initial praise for engaging gameplay and graphics.
 
-💡 *Industry shake-up due to aggressive pricing strategy*
+💡 *Gamers feel deceived by microtransactions' presence in offline single-player modes.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch)
-
----
-
-### 6. FCC approves giant mirror satellite designed to beam sunlight to Earth after dark 
-
-The FCC has granted permission for the E rendil-1 satellite to operate, allowing it to test redirecting sunlight onto Earth after dark.
-
-💡 *Potential game-changer for renewable energy and disaster relief efforts worldwide.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113068-fcc-approves-giant-mirror-satellite-designed-beam-sunlight.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113075-ea-college-football-27-getting-review-bombed-over.html)
 
 ---
 
-### 7. Steam sales reportedly topped $11 billion during H1 2026 due to shifting trends staggering growth driven by influx of Chinese players and booming legacy catalogues 
+### 4. Microsoft loses Brazilian court case after telling hacked Xbox user to re-purchase games tech giant ordered to restore Xbox account with all games and pay $400 in damages 
 
-Steam generated an estimated $11.1 billion in revenue in H1 2026, surpassing the entire year of 2020 and outpacing last year's holiday season. This makes it the best six-month period in the platform's history. The growth is attributed to an influx of Chinese players and a thriving legacy catalogue.
+A Brazilian gamer won a court case against Microsoft, requiring the company to restore his Xbox account and all digital games.
 
-💡 *Shifting trends drive staggering growth on Steam due to Chinese players.*
+💡 *Consumer rights prevail over corporate policies in digital ownership disputes.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/steam-sales-reportedly-topped-usd11-billion-during-h1-2026-due-to-shifting-trends-staggering-growth-driven-by-influx-of-chinese-players-and-booming-legacy-catalogues)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/brazilian-court-orders-microsoft-to-restore-a-gamers-account-and-digital-library-after-it-told-him-to-rebuy-his-games)
 
 ---
 
-### 8. Best of Sensors: Woman of the Year Tianyue Yu 
+### 5. AMD RX 9070 GRE collapses to $499 to save 1440p gaming RDNA 4 price slips 9% to steal a piece of Nvidia's mid-range pie 
 
-Tianyue Yu is recognized for her work as technologist and founder, spanning over two decades. She has made significant contributions to the field of sensors. Her dedication and expertise have earned her the title of Woman of the Year.
+AMD's Radeon RX 9070 GRE received its first price cut to $499, making it a more competitive option for 1440p gaming. This price drop is 9% less than Nvidia's RTX 5060 Ti 16GB. The RX 9070 GRE now offers a more compelling alternative to Nvidia's mid-range GPU.
 
-💡 *Pioneering female technologists inspire future generations of innovators*
+💡 *AMD challenges Nvidia's mid-range dominance with more affordable RDNA 4 GPU.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/best-sensors-woman-year-tianyue-yu-0)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amd-rx-9070-gre-collapses-to-usd499-to-save-1440p-gaming-rdna-4-price-slips-9-percent-to-steal-a-piece-of-nvidias-mid-range-pie)
+
+---
+
+### 6. Fake Go DNS scanner spread malware through over 200 GitHub repos 'Operation Muck and Load' has published 700 malicious modules since January 
+
+A malicious module, 'Operation Muck and Load', has infected over 200 GitHub repos with malware, accumulating 1,200 versions since January 24. The module, a fake Go DNS scanner, has published 700 malicious modules since its inception. This has significant implications for cybersecurity.
+
+💡 *Malicious code can spread rapidly through open-source repositories*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/fake-go-dns-scanner-published-700-malicious-versions-before-researchers-traced-it-to-222-github-repos)
 
 ---
 

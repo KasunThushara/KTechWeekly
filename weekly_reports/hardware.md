@@ -1,85 +1,75 @@
 # 💻 Hardware
-**Week of July 11, 2026**
+**Week of July 12, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-07-11 10:05
+- **Articles this week:** 6
+- **Report generated:** 2026-07-12 10:13
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Asus ROG Strix Scar 18 (2026) Review: Stunning Mini LED, serious muscle, and a few missed steps ⭐
+### 1. Beelink EQi review Part 2: An Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro ⭐
 
-The Asus ROG Strix Scar 18 features an 18-inch mini-LED display and cutting-edge components, but falls short in certain areas. It offers impressive performance, but lacks PCIe 5.0 storage and dual-channel RAM. A comparison to the Razer Blade 18 reveals some performance differences.
+The Beelink EQi Wildcat Lake mini PC, powered by an Intel Core i3-304 processor, is put through various tests including benchmarking, video playback, and network performance evaluation on Windows 11 Pro. The review provides a detailed assessment of its features, capabilities, and performance. The mini PC is also evaluated for its cooling performance, fan noise, and power consumption.
 
-💡 *Asus ROG Strix Scar 18 meets expectations, but lacks key upgrades.*
+💡 *Intel Core i3-304 mini PC delivers solid performance with Windows 11 Pro*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/asus-rog-strix-scar-18-2026-review)
-
----
-
-### 2. Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding) 
-
-The ELM11-Feather board is a Lua-programmable microcontroller featuring a Gowin GW1NR FPGA in the Adafruit Feather form factor. It offers GPIO headers, a built-in debugger, and USB-C power and programming. The board can run a PicoRV32 MCU softcore at up to 75 MHz.
-
-💡 *Lua-programmability on an FPGA unlocks new microcontroller applications and flexibility.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/12/beelink-eqi-review-intel-core-3-304-wildcat-lake-mini-pc-windows-11-pro/)
 
 ---
 
-### 3. Apple is suing OpenAI, alleging former employees stole trade secrets to build AI hardware 
+### 2. Flock cameras mistakenly track car reviewer over 'stolen' tags police ambush tester in store parking lot and detain him for an hour 
 
-Apple sues OpenAI, alleging former employees stole trade secrets for AI development.
+Flock AI cameras mistakenly flagged a car with non-standard plates, leading to an hour-long detention. The mistake occurred due to the cameras struggling to read the smaller digits on the New Jersey plate. The incident highlights the potential for errors in automated surveillance systems.
 
-💡 *Trade secret theft can undermine intellectual property and competitive advantage.*
+💡 *AI-powered surveillance systems can be prone to errors and misidentification.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113078-apple-suing-openai-alleging-former-employees-stole-trade.html)
-
----
-
-### 4. Ubisoft defends $85 day-one DLC after AC Black Flag Resynced gets review-bombed 
-
-Ubisoft's Assassin's Creed Black Flag Resynced was review-bombed due to $85 day-one DLC, surpassing game cost.
-
-💡 *Consumer trust eroded by excessive, pricey day-one DLC.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113069-ubisoft-defends-85-day-one-dlc-assassin-creed.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/flock-cameras-mistakenly-track-car-reviewer-over-stolen-tags-police-ambush-tester-in-store-parking-lot-and-detain-him-for-an-hour)
 
 ---
 
-### 5. Apple sues OpenAI over alleged theft of trade secrets claims company mentored incoming employees on bringing confidential information 
+### 3. EA's College Football 27 is getting review-bombed over hidden single-player microtransactions 
 
-Apple is suing OpenAI and former employees over alleged trade secret theft. The lawsuit claims OpenAI mentored new employees on bringing confidential information from Apple. This dispute involves the development of AI hardware businesses.
+College Football 27 is facing backlash for 'predatory' microtransactions in single-player modes, despite initial praise for engaging gameplay and graphics.
 
-💡 *Confidentiality breaches threaten AI innovation and corporate competitive advantage*
+💡 *Gamers feel deceived by microtransactions' presence in offline single-player modes.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/apple-sues-openai-over-alleged-theft-of-trade-secrets-claims-company-mentored-incoming-employees-on-bringing-confidential-information)
-
----
-
-### 6. Save 84% on a two-year ExpressVPN subscription, offering four additional months for free upgrade your privacy for under $70 with no-logs access to servers in 105 countries worldwide 
-
-Save $378 on a two-year ExpressVPN subscription, now priced at $69.72, with four extra months of free access to servers in 105 countries.
-
-💡 *Uphold online anonymity with secure, no-logs VPN service worldwide.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/vpn/save-84-percent-on-a-two-year-expressvpn-subscription-offering-four-additional-months-for-free-upgrade-your-privacy-for-under-usd70-with-no-logs-access-to-servers-in-105-countries-worldwide)
+🔗 [Read Full Article](https://www.techspot.com/news/113075-ea-college-football-27-getting-review-bombed-over.html)
 
 ---
 
-### 7. Steam now has 50% more users than PlayStation, and Sony's own decisions might be pushing more players there 
+### 4. Newegg packs Ryzen 5 9600X and 16GB DDR5 into a $520 combo bundles also include a B650 motherboard and 240mm AIO liquid cooler 
 
-Steam has surpassed PlayStation's user base, with a massive pool of potential customers. This shift could impact Sony's gaming strategy and revenue. Shawn Layden's comments on PC game releases take on new significance.
+Newegg offers a budget-friendly combo bundle for gamers, including a Ryzen 5 9600X processor, Gigabyte B650M motherboard, 16GB Corsair DDR5 memory, and a free 240mm AIO liquid cooler all for $520.
 
-💡 *Sony's PC gaming decisions might be driven by business considerations*
+💡 *Affordable AM5 PC build option for budget-conscious gamers emerges.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113061-steam-rise-puts-playstation-under-pressure-gamers-rethink.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/newegg-packs-ryzen-5-9600x-and-16gb-ddr5-into-a-usd520-combo-bundles-also-include-a-b650-motherboard-and-240mm-aio-liquid-cooler)
+
+---
+
+### 5. Razer Soma Chroma Gaming Chair Review: Light on adjustability, but heavy on RGBs 
+
+The Razer Soma Chroma Gaming Chair offers vibrant RGB lights for $499, but has limited adjustability options.
+
+💡 *Expensive RGB experience may not justify limited adjustability features.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/razer-soma-chroma-gaming-chair-review)
+
+---
+
+### 6. WhatsApp desktop turns your PC into a full messaging hub 
+
+WhatsApp's desktop app turns your PC into a full messaging hub, allowing you to link up to four devices at once and make voice and video calls with ease.
+
+💡 *Effortless multitasking for seamless conversations and productivity.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/6839-whatsapp-desktop.html)
 
 ---
 

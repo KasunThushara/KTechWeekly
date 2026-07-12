@@ -1,224 +1,170 @@
 [
   {
-    "title": "Apple sues OpenAI over alleged theft of trade secrets claims company mentored incoming employees on bringing confidential information",
-    "summary": "Apple sued OpenAI, including its own former employees, over the theft of trade secrets as both companies build up AI hardware businesses.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/apple-sues-openai-over-alleged-theft-of-trade-secrets-claims-company-mentored-incoming-employees-on-bringing-confidential-information",
+    "title": "This 3D-printed electric motorbike folds into your luggage creator warns it is 'super fast... way too fast'",
+    "summary": "Ivan Miranda has released the design files for the Mirandetta, a 3D-printed electric scooter that breaks down to fit inside a suitcase.",
+    "link": "https://www.tomshardware.com/3d-printing/ivan-miranda-releases-files-for-a-3d-printed-electric-motorbike-that-fits-in-a-suitcase",
     "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-11T10:04:51.884404"
-  },
-  {
-    "title": "SK hynix and TetraMem collaborate on experimental chip to bolster energy efficiency for edge AI devices memristor-based in-memory SoC research leaves performance questions up in the air",
-    "summary": "SK hynix, TetraMem, and the University of Southern California built a memristor-based in-memory computing system-on-chip for AI edge devices, achieving promising energy efficiency, but failed to demonstrate its full potential.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-hynix-and-tetramem-collaborate-on-experimental-chip-to-bolster-energy-efficiency-for-edge-ai-devices-memristor-based-in-memory-soc-research-leaves-performance-questions-up-in-the-air",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-11T10:04:51.884562"
-  },
-  {
-    "title": "Anthropic says it can read Claude's 'thoughts,' as detailed in new research paper models observed to have a global workspace, revealing more of what makes LLMs tick",
-    "summary": "Anthropic has discovered an internal \"J-space\" for its Claude AI that displays similarities to human internal processing. While the AI developer anthropomorphizes it as thought, it may yet prove useful as a method of improving LLM honesty, oversight, and guardrails.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-it-can-read-claudes-thoughts-as-detailed-in-new-research-paper-models-observed-to-have-a-global-workspace-revealing-more-of-what-makes-llms-tick",
-    "categories": [
-      "AI & ML"
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-11T10:04:51.884685"
+    "processed_date": "2026-07-12T10:13:22.455718"
   },
   {
-    "title": "Steam sales reportedly topped $11 billion during H1 2026 due to shifting trends staggering growth driven by influx of Chinese players and booming legacy catalogues",
-    "summary": "Steam made an estimated $11.1 billion in revenue in the first six months of 2026, according to estimates from research firm Alinea Analytics. That's more than it did in the entire pandemic-ridden year of 2020. In fact, even last year's holiday season made 8% less money than H1 2026, making this half Valve's best-ever.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/steam-sales-reportedly-topped-usd11-billion-during-h1-2026-due-to-shifting-trends-staggering-growth-driven-by-influx-of-chinese-players-and-booming-legacy-catalogues",
+    "title": "Hotspot temperature sensor on Nvidia's Blackwell gaming GPUs is still accessible if you have access to Nvidia's internal MODS tool Nvidia RTX 5070 Ti caught throttling at 107 C over poor TIM application",
+    "summary": "Nvidia decided to hide the hotspot temperature on its RTX 50 series, but internal diagnostic tools, such as Nvidia's own \"MODS,\" can still read it. The resulting data reveals how some GPUs can overheat and throttle easily, which could be why the sensor was kept hidden in the first place.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/hotspot-temperature-sensor-on-nvidias-blackwell-gaming-gpus-is-still-accessible-if-you-have-access-to-nvidias-internal-mods-tool-nvidia-rtx-5070-ti-caught-throttling-at-107-c-over-poor-tim-application",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-11T10:04:51.884818"
-  },
-  {
-    "title": "Asus ROG Strix Scar 18 (2026) Review: Stunning Mini LED, serious muscle, and a few missed steps",
-    "summary": "The Asus ROG Strix Scar 18 pairs an 18-inch mini-LED display with cutting-edge components, but omissions like PCIe 5.0 storage and dual-channel RAM plus slightly weaker performance than Razer s Blade 18 keep it from taking top honors.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/asus-rog-strix-scar-18-2026-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-11T10:04:51.884929"
-  },
-  {
-    "title": "SK hynix raises a record $26.5 billion in historic U.S. IPO South Korean memory giant to fund massive HBM manufacturing expansions",
-    "summary": "SK hynix raised $26.5 billion in a record-breaking Nasdaq IPO, as it plans to channel the windfall from surging AI demand and sold-out HBM supply to fund new fabs.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-11T10:04:51.885052"
-  },
-  {
-    "title": "Nanya to quadruple capital spending to $6.2 billion in 2027 as DRAM prices push gross margin to 79.5% Q2 revenue skyrockets as ASPs for memory continue to surge",
-    "summary": "Nanya Technology plans capex of more than TW$200 billion ($6.2 billion) in 2027, roughly four times its budget for this year.",
-    "link": "https://www.tomshardware.com/tech-industry/nanya-to-quadruple-capital-spending-to-6-2-billion-in-2027",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-11T10:04:51.885152"
-  },
-  {
-    "title": "Japanese chipmaker Rapidus to offer lower wafer pricing than TSMC 2nm class silicon to be priced around $20,000 on 2027 launch",
-    "summary": "Japanese chipmaker Rapidus discloses one more aspect of its strategy: to offer lower quotes than TSMC.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/japanese-chipmaker-rapidus-to-offer-lower-wafer-pricing-than-tsmc-2nm-class-silicon-to-be-priced-around-usd20-000-on-2027-launch",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-11T10:04:51.885254"
-  },
-  {
-    "title": "Save 84% on a two-year ExpressVPN subscription, offering four additional months for free upgrade your privacy for under $70 with no-logs access to servers in 105 countries worldwide",
-    "summary": "Right now, you'll save $378 in total on over two years' worth of ExpressVPN, now priced at $69.72, with four extra months thrown in for free.",
-    "link": "https://www.tomshardware.com/software/vpn/save-84-percent-on-a-two-year-expressvpn-subscription-offering-four-additional-months-for-free-upgrade-your-privacy-for-under-usd70-with-no-logs-access-to-servers-in-105-countries-worldwide",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-11T10:04:51.885356"
-  },
-  {
-    "title": "Researchers turn HBM on its side to tackle AI memory s heat wall Korean V-Die and Japanese MOSAIC designs promise higher bandwidth, denser stacks, and cooler future GPUs",
-    "summary": "Researchers in Korea and Japan have proposed sideways-stacked DRAM designs that could push future AI memory beyond conventional HBM limits by improving cooling, bandwidth, and capacity while reducing reliance on TSV-heavy vertical stacks.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/researchers-turn-hbm-on-its-side-to-tackle-ai-memorys-heat-wall-korean-v-die-and-japanese-mosaic-designs-promise-higher-bandwidth-denser-stacks-and-cooler-future-gpus",
-    "categories": [
-      "AI & ML",
       "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-11T10:04:51.885484"
+    "quality_score": 5,
+    "processed_date": "2026-07-12T10:13:22.455845"
   },
   {
-    "title": "Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding)",
-    "summary": "BrisbaneSilicon ELM11-Feather is a microcontroller board based on a Gowin GW1NR FPGA that is natively programmable in Lua, C, SystemVerilog, and VHDL. Compatible with the Adafruit Feather form factor, the board features GPIO headers, a built-in debugger, a USB-C port for power and programming, and a 2-pin header for a LiPo battery. The company calls it a microcontroller board because the FPGA runs a PicoRV32 MCU softcore at up to 75 MHz with 1MB RAM and 8MB flash, programmable with Lua, and the user can also customize hardware layers with RTL code using the remaining FPGA fabric. ELM11-Feather specifications: FPGA Gowin GW1NR-LV9 FPGA from the GW1NR-9 family 8K LUTs 8,640 logical units (LUTs) 6,480 flip-flop 17,280 bits shadow SRAM (SSRAM) 486 Kbit block SRAM (BSRAM) 64 Mbit (8MB) PSRAM 608 Kbit user flash 2x PLL Up to 276x user I/O USB 1x USB Type-C port for power and [...] The post Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/",
+    "title": "Newegg packs Ryzen 5 9600X and 16GB DDR5 into a $520 combo bundles also include a B650 motherboard and 240mm AIO liquid cooler",
+    "summary": "Gamers looking to build a budget-friendly AM5 PC can pick up a Ryzen 5 9600X, a Gigabyte B650M motherboard, and a Corsair DDR5 memory bundle, with a free 240mm liquid cooler included.",
+    "link": "https://www.tomshardware.com/pc-components/newegg-packs-ryzen-5-9600x-and-16gb-ddr5-into-a-usd520-combo-bundles-also-include-a-b650-motherboard-and-240mm-aio-liquid-cooler",
     "categories": [
       "Hardware",
-      "Tech News"
+      "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-11T10:04:51.886062"
+    "quality_score": 5,
+    "processed_date": "2026-07-12T10:13:22.455951"
   },
   {
-    "title": "Best of Sensors: Woman of the Year Tianyue Yu",
-    "summary": "Yu was recognized for her work as both a technologist and founder in a career spanning more than two decades.",
-    "link": "https://www.fiercesensors.com/ai/best-sensors-woman-year-tianyue-yu-0",
+    "title": "Microsoft loses Brazilian court case after telling hacked Xbox user to re-purchase games tech giant ordered to restore Xbox account with all games and pay $400 in damages",
+    "summary": "A Brazilian gamer who lost his Microsoft account and all his digital games has won a court order requiring the company to return them.",
+    "link": "https://www.tomshardware.com/video-games/xbox/brazilian-court-orders-microsoft-to-restore-a-gamers-account-and-digital-library-after-it-told-him-to-rebuy-his-games",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-07-11T10:04:51.887214"
+    "quality_score": 5,
+    "processed_date": "2026-07-12T10:13:22.456052"
   },
   {
-    "title": "Apple is suing OpenAI, alleging former employees stole trade secrets to build AI hardware",
-    "summary": "Apple has sued OpenAI for allegedly stealing its trade secrets to develop an AI-focused device and other hardware. Apple alleges that as over 400 former employees left to join the ChatGPT maker, many of them routinely accessed Apple's confidential data related to unreleased products. Read Entire Article",
-    "link": "https://www.techspot.com/news/113078-apple-suing-openai-alleging-former-employees-stole-trade.html",
+    "title": "AMD RX 9070 GRE collapses to $499 to save 1440p gaming RDNA 4 price slips 9% to steal a piece of Nvidia's mid-range pie",
+    "summary": "AMD's Radeon RX 9070 GRE has received its first price cut since launching outside China, making the 1440p-focused RDNA 4 graphics card a more compelling alternative to Nvidia's RTX 5060 Ti 16GB.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/amd-rx-9070-gre-collapses-to-usd499-to-save-1440p-gaming-rdna-4-price-slips-9-percent-to-steal-a-piece-of-nvidias-mid-range-pie",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "GPUs",
+      "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-11T10:04:51.887399"
+    "quality_score": 5,
+    "processed_date": "2026-07-12T10:13:22.456165"
   },
   {
-    "title": "Steam now has 50% more users than PlayStation, and Sony's own decisions might be pushing more players there",
-    "summary": "Shawn Layden recently said that bringing PlayStation games to PC was never about money. However, newer estimates of Steam's user base could put the former Sony executive's comments in a different perspective. Companies that do business with PC's most successful digital storefront have access to a massive pool of potential... Read Entire Article",
-    "link": "https://www.techspot.com/news/113061-steam-rise-puts-playstation-under-pressure-gamers-rethink.html",
+    "title": "SK Hynix says 2027 will be the 'worst year' for memory shortage, forecasts crunch to last until 2030 CEO shares grim outlook on the day SK Hynix gets listed on Nasdaq",
+    "summary": "SK Hynix CEO Kwak Noh-jung says the memory shortage will get even worse in 2027, and claiming the RAM crunch will last at least until the turn of the decade.",
+    "link": "https://www.tomshardware.com/pc-components/dram/sk-hynix-says-2027-will-be-the-worst-year-for-memory-shortage-forecasts-crunch-to-last-until-2030-ceo-shares-grim-outlook-on-the-day-sk-hynix-gets-listed-on-nasdaq",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-12T10:13:22.456261"
+  },
+  {
+    "title": "Microsoft struggles to fulfill its 2030 sustainability promise amid carbon-heavy AI expansions the company's chief sustainability officer claims the target is still feasible",
+    "summary": "Microsoft's carbon emissions jumped 25% in FY2025 as AI data center expansion outpaced sustainability gains, despite progress in water conservation and waste reduction.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/microsoft-struggles-to-fulfill-its-2030-sustainability-promise-amid-carbon-heavy-ai-expansions-the-companys-chief-sustainability-officer-claims-the-target-is-still-feasible",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-12T10:13:22.456380"
+  },
+  {
+    "title": "Razer Soma Chroma Gaming Chair Review: Light on adjustability, but heavy on RGBs",
+    "summary": "If you d like a dose of RGBs to go with your gaming chair, the Soma Chroma delivers for $499.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/razer-soma-chroma-gaming-chair-review",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-11T10:04:51.887540"
+    "processed_date": "2026-07-12T10:13:22.456475"
   },
   {
-    "title": "Federal Reserve taps Xbox CEO Asha Sharma to lead jobs task force days after Microsoft laid off 3,200 people",
-    "summary": "The Productivity and Jobs panel is one of five new task forces created by Federal Reserve Chairman Kevin Warsh to examine areas central to monetary policy. The others will focus on communications, balance sheet policy, economic data, and inflation frameworks. Read Entire Article",
-    "link": "https://www.techspot.com/news/113067-federal-reserve-taps-xbox-ceo-asha-sharma-lead.html",
+    "title": "Colibr proof-of-concept gains frontier-level 1.5-TB AI model novel approach runs on only 25GB of RAM and shows promise for local AI setups",
+    "summary": "Colibr proof-of-concept gets a frontier-level AI model running on only 25 GB of RAM and a modest CPU",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-11T10:04:51.887652"
+    "processed_date": "2026-07-12T10:13:22.456578"
   },
   {
-    "title": "Nvidia's rumored GeForce RTX 5090 SE promises flagship power for $500 less, if you can find one",
-    "summary": "Based on Nvidia's Blackwell graphics architecture, the RTX 5090 SE will reportedly use a cut-down version of the GB202 die, the same silicon found in the standard RTX 5090. It is rumored to feature 14,080 CUDA cores, roughly 33 percent fewer than the 21,760 CUDA cores in the flagship model.... Read Entire Article",
-    "link": "https://www.techspot.com/news/113071-nvidia-rumored-geforce-rtx-5090-se-promises-flagship.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-11T10:04:51.887762"
-  },
-  {
-    "title": "SK Hynix raises $26.5 billion in massive US share offering",
-    "summary": "According to the BBC, it's the largest ever listing by a foreign company in the US. Read Entire Article",
-    "link": "https://www.techspot.com/news/113072-sk-hynix-raises-265-billion-massive-us-share.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-11T10:04:51.887851"
-  },
-  {
-    "title": "Ubisoft defends $85 day-one DLC after AC Black Flag Resynced gets review-bombed",
-    "summary": "Black Flag Resynced currently has a Mostly Positive rating on Steam, but the huge amount of launch-day DLC resulted in the game being review-bombed into a Mostly Negative rating, with many noting that buying all the day-one extra content cost more than the game itself. Read Entire Article",
-    "link": "https://www.techspot.com/news/113069-ubisoft-defends-85-day-one-dlc-assassin-creed.html",
-    "categories": [
-      "Tech News",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-11T10:04:51.887968"
-  },
-  {
-    "title": "Data shows physical PlayStation games can be up to 90% cheaper than their digital versions",
-    "summary": "Dutch price tracker Tweakers recently compared the price histories of physical and digital versions of several PlayStation games. Unsurprisingly, retail copies are often dozens of euros cheaper, even without counting the used market. Read Entire Article",
-    "link": "https://www.techspot.com/news/113064-data-shows-physical-playstation-games-can-up-90.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-11T10:04:51.888081"
-  },
-  {
-    "title": "FCC approves giant mirror satellite designed to beam sunlight to Earth after dark",
-    "summary": "Back in July 2025, Reflect Orbital submitted an application to launch E rendil-1, a demonstration satellite designed to test whether sunlight can be redirected from orbit onto specific locations on Earth. The FCC has now granted the satellite permission to operate its radio equipment. Read Entire Article",
-    "link": "https://www.techspot.com/news/113068-fcc-approves-giant-mirror-satellite-designed-beam-sunlight.html",
+    "title": "Fake Go DNS scanner spread malware through over 200 GitHub repos 'Operation Muck and Load' has published 700 malicious modules since January",
+    "summary": "The module published its first version on January 24 this year and has since accumulated more than 1,200 versions.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/fake-go-dns-scanner-published-700-malicious-versions-before-researchers-traced-it-to-222-github-repos",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-11T10:04:51.888188"
+    "processed_date": "2026-07-12T10:13:22.456669"
   },
   {
-    "title": "The EU just revived a law that lets Meta and Google scan your messages critics call it mass surveillance",
-    "summary": "Europe's Parliament voted on Thursday to reinstate legislation that allows companies such as Google, Meta, and other digital communication providers to voluntarily scan messages, emails, photos, and other files for illegal content. Supporters and opponents have long argued over whether to make the practice mandatory. Read Entire Article",
-    "link": "https://www.techspot.com/news/113062-eu-revived-law-meta-google-scan-messages-critics.html",
+    "title": "Flock cameras mistakenly track car reviewer over 'stolen' tags police ambush tester in store parking lot and detain him for an hour",
+    "summary": "Flock AI cameras failed to read the smaller digits on a non-standard New Jersey plate, leading cops to block in the driver on suspicion of driving a vehicle with \"stolen\" tags. It turns out the initial police report omitted the smaller numbers, resulting in several legitimate plates getting flagged by the system.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/flock-cameras-mistakenly-track-car-reviewer-over-stolen-tags-police-ambush-tester-in-store-parking-lot-and-detain-him-for-an-hour",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-12T10:13:22.456782"
+  },
+  {
+    "title": "Beelink EQi review Part 2: An Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro",
+    "summary": "We ve already checked out the specifications and hardware of the Beelink EQi Wildcat Lake mini PC in the first part of the review, with an unboxing and a teardown, before booting the mini PC into the pre-installed Windows 11 Pro for a first quick look. We ve now had time to test the Intel Core 3 304 mini PC in more detail on Windows 11 Pro, so we ll report our experience. The review includes feature testing, benchmark results, 4K and 8K YouTube video playback, 10GbE, 2.5GbE, and WiFi network performance evaluation, cooling performance, and measurement of fan noise and power consumption. Software Overview and Feature Testing After fully updating Windows 11 Pro and drivers to the latest version (excluding previews), I went to System > About window again. We still have a 1.50 GHz (base frequency) Intel Core 3 304 processor with 16GB 6400MT/s memory, and 834GB of storage from the [...] The post Beelink EQi review Part 2: An Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/12/beelink-eqi-review-intel-core-3-304-wildcat-lake-mini-pc-windows-11-pro/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 25,
+    "processed_date": "2026-07-12T10:13:22.457376"
+  },
+  {
+    "title": "This ransomware negotiator was paid to fight hackers, he was secretly working with them instead",
+    "summary": "Martino worked for DigitalMint, a firm that helps companies navigate ransomware incidents, including negotiating payments with attackers. In that role, he worked on active breach cases and had access to detailed information about victims, including ransom demands, insurance coverage, and internal negotiation strategies. According to prosecutors, he used that access... Read Entire Article",
+    "link": "https://www.techspot.com/news/113079-ransomware-negotiator-paid-fight-hackers-secretly-working-them.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-11T10:04:51.888301"
+    "processed_date": "2026-07-12T10:13:22.458778"
+  },
+  {
+    "title": "EA's College Football 27 is getting review-bombed over hidden single-player microtransactions",
+    "summary": "The successor to College Football 26 initially earned high praise from both gamers and reviewers for engaging gameplay and immersive graphics, but it's now facing widespread backlash for introducing what some gamers are describing as \"predatory\" microtransactions in the offline single-player modes. Read Entire Article",
+    "link": "https://www.techspot.com/news/113075-ea-college-football-27-getting-review-bombed-over.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-12T10:13:22.458961"
+  },
+  {
+    "title": "WhatsApp desktop turns your PC into a full messaging hub",
+    "summary": "WhatsApp's desktop app turns your Windows or Mac into a full messaging hub. You can link up to four devices at once, make voice and video calls straight from your webcam, and type on a real keyboard instead of a phone screen. Your phone only needs to reconnect once every 14 days, so it's an easy way to stay on top of conversations while you actually get work done. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/6839-whatsapp-desktop.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-12T10:13:22.459130"
+  },
+  {
+    "title": "This MIT robot flies through the air then dives underwater using the same wings",
+    "summary": "Diving seabirds like puffins use their wings to both fly and swim, even though air and water behave very differently. \"Thinking of a wing that could operate in both somewhat efficiently seems implausible,\" Zufferey tells NPR. Read Entire Article",
+    "link": "https://www.techspot.com/news/113077-mit-robot-flies-through-air-dives-underwater-using.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-12T10:13:22.459266"
   }
 ]

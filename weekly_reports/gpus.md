@@ -1,5 +1,5 @@
 # 🎮 GPUs
-**Week of July 11, 2026**
+**Week of July 12, 2026**
 
 *Graphics cards and compute accelerators*
 
@@ -7,29 +7,29 @@
 
 ## 📊 Summary
 - **Articles this week:** 2
-- **Report generated:** 2026-07-11 10:05
+- **Report generated:** 2026-07-12 10:13
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Researchers turn HBM on its side to tackle AI memory s heat wall Korean V-Die and Japanese MOSAIC designs promise higher bandwidth, denser stacks, and cooler future GPUs 
+### 1. Hotspot temperature sensor on Nvidia's Blackwell gaming GPUs is still accessible if you have access to Nvidia's internal MODS tool Nvidia RTX 5070 Ti caught throttling at 107 C over poor TIM application 
 
-Researchers in Korea and Japan have proposed innovative sideways-stacked DRAM designs, overcoming conventional HBM limitations by improving cooling, bandwidth, and capacity, and reducing reliance on TSV-heavy vertical stacks. These designs aim to push future AI memory beyond its current capabilities. This could lead to more efficient and powerful AI systems.
+Nvidia's RTX 50 series hides hotspot temperature, but internal tools can still read it. The data reveals GPUs can easily overheat and throttle. This may be why the sensor is hidden.
 
-💡 *Innovative sideways stacks boost AI memory efficiency and performance.*
+💡 *Hidden temperature data may hide underlying GPU overheating issues.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/researchers-turn-hbm-on-its-side-to-tackle-ai-memorys-heat-wall-korean-v-die-and-japanese-mosaic-designs-promise-higher-bandwidth-denser-stacks-and-cooler-future-gpus)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/hotspot-temperature-sensor-on-nvidias-blackwell-gaming-gpus-is-still-accessible-if-you-have-access-to-nvidias-internal-mods-tool-nvidia-rtx-5070-ti-caught-throttling-at-107-c-over-poor-tim-application)
 
 ---
 
-### 2. Nvidia's rumored GeForce RTX 5090 SE promises flagship power for $500 less, if you can find one 
+### 2. AMD RX 9070 GRE collapses to $499 to save 1440p gaming RDNA 4 price slips 9% to steal a piece of Nvidia's mid-range pie 
 
-Nvidia's GeForce RTX 5090 SE reportedly features a cut-down version of the RTX 5090's silicon, with 14,080 CUDA cores and a lower price point of $500 less than the flagship model.
+AMD's Radeon RX 9070 GRE received its first price cut to $499, making it a more competitive option for 1440p gaming. This price drop is 9% less than Nvidia's RTX 5060 Ti 16GB. The RX 9070 GRE now offers a more compelling alternative to Nvidia's mid-range GPU.
 
-💡 *Potential flagship performance at an affordable price is on the horizon.*
+💡 *AMD challenges Nvidia's mid-range dominance with more affordable RDNA 4 GPU.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113071-nvidia-rumored-geforce-rtx-5090-se-promises-flagship.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amd-rx-9070-gre-collapses-to-usd499-to-save-1440p-gaming-rdna-4-price-slips-9-percent-to-steal-a-piece-of-nvidias-mid-range-pie)
 
 ---
 

@@ -1,135 +1,105 @@
 # 🤖 AI & ML
-**Week of July 11, 2026**
+**Week of July 12, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-07-11 10:05
+- **Articles this week:** 9
+- **Report generated:** 2026-07-12 10:13
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. SK hynix and TetraMem collaborate on experimental chip to bolster energy efficiency for edge AI devices memristor-based in-memory SoC research leaves performance questions up in the air ⭐
+### 1. Flock cameras mistakenly track car reviewer over 'stolen' tags police ambush tester in store parking lot and detain him for an hour 
 
-SK hynix, TetraMem, and USC collaborated on a memristor-based in-memory SoC, achieving promising energy efficiency for edge AI devices, but performance limitations remain.
+Flock AI cameras mistakenly flagged a car with non-standard plates, leading to an hour-long detention. The mistake occurred due to the cameras struggling to read the smaller digits on the New Jersey plate. The incident highlights the potential for errors in automated surveillance systems.
 
-💡 *Energy efficiency breakthroughs in AI edge devices are crucial for widespread adoption.*
+💡 *AI-powered surveillance systems can be prone to errors and misidentification.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-hynix-and-tetramem-collaborate-on-experimental-chip-to-bolster-energy-efficiency-for-edge-ai-devices-memristor-based-in-memory-soc-research-leaves-performance-questions-up-in-the-air)
-
----
-
-### 2. Anthropic says it can read Claude's 'thoughts,' as detailed in new research paper models observed to have a global workspace, revealing more of what makes LLMs tick 
-
-Anthropic's research paper reveals a 'J-space' in Claude AI, similar to human processing, which may aid in improving LLM honesty and oversight.
-
-💡 *Unlocking AI's internal workings for more transparent and accountable LLMs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-it-can-read-claudes-thoughts-as-detailed-in-new-research-paper-models-observed-to-have-a-global-workspace-revealing-more-of-what-makes-llms-tick)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/flock-cameras-mistakenly-track-car-reviewer-over-stolen-tags-police-ambush-tester-in-store-parking-lot-and-detain-him-for-an-hour)
 
 ---
 
-### 3. Researchers turn HBM on its side to tackle AI memory s heat wall Korean V-Die and Japanese MOSAIC designs promise higher bandwidth, denser stacks, and cooler future GPUs 
+### 2. Newegg packs Ryzen 5 9600X and 16GB DDR5 into a $520 combo bundles also include a B650 motherboard and 240mm AIO liquid cooler 
 
-Researchers in Korea and Japan have proposed innovative sideways-stacked DRAM designs, overcoming conventional HBM limitations by improving cooling, bandwidth, and capacity, and reducing reliance on TSV-heavy vertical stacks. These designs aim to push future AI memory beyond its current capabilities. This could lead to more efficient and powerful AI systems.
+Newegg offers a budget-friendly combo bundle for gamers, including a Ryzen 5 9600X processor, Gigabyte B650M motherboard, 16GB Corsair DDR5 memory, and a free 240mm AIO liquid cooler all for $520.
 
-💡 *Innovative sideways stacks boost AI memory efficiency and performance.*
+💡 *Affordable AM5 PC build option for budget-conscious gamers emerges.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/researchers-turn-hbm-on-its-side-to-tackle-ai-memorys-heat-wall-korean-v-die-and-japanese-mosaic-designs-promise-higher-bandwidth-denser-stacks-and-cooler-future-gpus)
-
----
-
-### 4. Apple is suing OpenAI, alleging former employees stole trade secrets to build AI hardware 
-
-Apple sues OpenAI, alleging former employees stole trade secrets for AI development.
-
-💡 *Trade secret theft can undermine intellectual property and competitive advantage.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113078-apple-suing-openai-alleging-former-employees-stole-trade.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/newegg-packs-ryzen-5-9600x-and-16gb-ddr5-into-a-usd520-combo-bundles-also-include-a-b650-motherboard-and-240mm-aio-liquid-cooler)
 
 ---
 
-### 5. Nvidia's rumored GeForce RTX 5090 SE promises flagship power for $500 less, if you can find one 
+### 3. SK Hynix says 2027 will be the 'worst year' for memory shortage, forecasts crunch to last until 2030 CEO shares grim outlook on the day SK Hynix gets listed on Nasdaq 
 
-Nvidia's GeForce RTX 5090 SE reportedly features a cut-down version of the RTX 5090's silicon, with 14,080 CUDA cores and a lower price point of $500 less than the flagship model.
+SK Hynix CEO forecasts memory shortage to worsen in 2027, lasting until at least 2030.
 
-💡 *Potential flagship performance at an affordable price is on the horizon.*
+💡 *Global semiconductor shortages will intensify supply chain disruptions significantly.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113071-nvidia-rumored-geforce-rtx-5090-se-promises-flagship.html)
-
----
-
-### 6. Apple sues OpenAI over alleged theft of trade secrets claims company mentored incoming employees on bringing confidential information 
-
-Apple is suing OpenAI and former employees over alleged trade secret theft. The lawsuit claims OpenAI mentored new employees on bringing confidential information from Apple. This dispute involves the development of AI hardware businesses.
-
-💡 *Confidentiality breaches threaten AI innovation and corporate competitive advantage*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/apple-sues-openai-over-alleged-theft-of-trade-secrets-claims-company-mentored-incoming-employees-on-bringing-confidential-information)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-hynix-says-2027-will-be-the-worst-year-for-memory-shortage-forecasts-crunch-to-last-until-2030-ceo-shares-grim-outlook-on-the-day-sk-hynix-gets-listed-on-nasdaq)
 
 ---
 
-### 7. SK hynix raises a record $26.5 billion in historic U.S. IPO South Korean memory giant to fund massive HBM manufacturing expansions 
+### 4. Microsoft struggles to fulfill its 2030 sustainability promise amid carbon-heavy AI expansions the company's chief sustainability officer claims the target is still feasible 
 
-SK hynix raised a record $26.5 billion in its Nasdaq IPO, planning to invest in massive HBM manufacturing expansions. The funds will be used to meet surging AI demand and sold-out HBM supply. This historic IPO is a significant milestone for the South Korean memory giant.
+Microsoft's carbon emissions surged 25% in FY2025 due to AI expansion, despite sustainability progress. The company's water conservation and waste reduction efforts are notable, but not enough to offset the carbon impact. The AI-driven growth outpaced efforts to reduce emissions.
 
-💡 *Funding AI-driven demand and supply chain expansion in memory market*
+💡 *Rapid AI growth threatens Microsoft's ambitious 2030 carbon neutrality goal.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions)
-
----
-
-### 8. Steam now has 50% more users than PlayStation, and Sony's own decisions might be pushing more players there 
-
-Steam has surpassed PlayStation's user base, with a massive pool of potential customers. This shift could impact Sony's gaming strategy and revenue. Shawn Layden's comments on PC game releases take on new significance.
-
-💡 *Sony's PC gaming decisions might be driven by business considerations*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113061-steam-rise-puts-playstation-under-pressure-gamers-rethink.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/microsoft-struggles-to-fulfill-its-2030-sustainability-promise-amid-carbon-heavy-ai-expansions-the-companys-chief-sustainability-officer-claims-the-target-is-still-feasible)
 
 ---
 
-### 9. Federal Reserve taps Xbox CEO Asha Sharma to lead jobs task force days after Microsoft laid off 3,200 people 
+### 5. Razer Soma Chroma Gaming Chair Review: Light on adjustability, but heavy on RGBs 
 
-Federal Reserve appoints Xbox CEO Asha Sharma to lead a jobs task force, following Microsoft's mass layoffs.
+The Razer Soma Chroma Gaming Chair offers vibrant RGB lights for $499, but has limited adjustability options.
 
-💡 *Corporate leaders' perspectives inform monetary policy decision-making processes.*
+💡 *Expensive RGB experience may not justify limited adjustability features.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113067-federal-reserve-taps-xbox-ceo-asha-sharma-lead.html)
-
----
-
-### 10. Data shows physical PlayStation games can be up to 90% cheaper than their digital versions 
-
-Physical PlayStation games can be up to 90% cheaper than digital versions.
-
-💡 *Physical copies offer significant cost savings over digital alternatives.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113064-data-shows-physical-playstation-games-can-up-90.html)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/razer-soma-chroma-gaming-chair-review)
 
 ---
 
-### 11. The EU just revived a law that lets Meta and Google scan your messages critics call it mass surveillance 
+### 6. Colibr proof-of-concept gains frontier-level 1.5-TB AI model novel approach runs on only 25GB of RAM and shows promise for local AI setups 
 
-The EU has reinstated a law allowing Google and Meta to scan messages for illegal content.
+Colibr proof-of-concept successfully runs a frontier-level 1.5-TB AI model on 25 GB of RAM and a modest CPU, paving the way for local AI setups. This achievement demonstrates efficient resource utilization and scalability.
 
-💡 *Mass surveillance risks infringing on users' right to privacy.*
+💡 *Efficient AI model deployment on limited hardware resources is achievable.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113062-eu-revived-law-meta-google-scan-messages-critics.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups)
 
 ---
 
-### 12. SK Hynix raises $26.5 billion in massive US share offering 
+### 7. This ransomware negotiator was paid to fight hackers, he was secretly working with them instead 
 
-SK Hynix has raised $26.5 billion in the largest US listing by a foreign company. This significant fundraising effort will likely impact the global semiconductor industry. The company's move is a testament to its growth and financial strength.
+A ransomware negotiator secretly worked with hackers instead of fighting them, exploiting confidential information.
 
-💡 *Massive fundraising boosts SK Hynix's global semiconductor market presence.*
+💡 *Trust is broken in the fight against cybercrime and ransomware payments.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113072-sk-hynix-raises-265-billion-massive-us-share.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113079-ransomware-negotiator-paid-fight-hackers-secretly-working-them.html)
+
+---
+
+### 8. WhatsApp desktop turns your PC into a full messaging hub 
+
+WhatsApp's desktop app turns your PC into a full messaging hub, allowing you to link up to four devices at once and make voice and video calls with ease.
+
+💡 *Effortless multitasking for seamless conversations and productivity.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/6839-whatsapp-desktop.html)
+
+---
+
+### 9. This MIT robot flies through the air then dives underwater using the same wings 
+
+A robot developed at MIT can fly through the air and dive underwater using the same wings, mimicking the abilities of seabirds like puffins. This achievement demonstrates a more versatile and efficient use of wing technology. The robot's design could lead to new applications in ocean exploration and conservation.
+
+💡 *Adaptable wing design can bridge the air-water efficiency gap*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113077-mit-robot-flies-through-air-dives-underwater-using.html)
 
 ---
 
