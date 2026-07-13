@@ -1,25 +1,35 @@
 # ⚡ Semiconductors
-**Week of July 12, 2026**
+**Week of July 13, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 1
-- **Report generated:** 2026-07-12 10:13
+- **Articles this week:** 2
+- **Report generated:** 2026-07-13 11:43
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Colibr proof-of-concept gains frontier-level 1.5-TB AI model novel approach runs on only 25GB of RAM and shows promise for local AI setups 
+### 1. Sega Dreamcast driver fixes appear in Linux 7.2-rc3 fabled console remains in favor while iconic computing architectures like i486 fall by the wayside 
 
-Colibr proof-of-concept successfully runs a frontier-level 1.5-TB AI model on 25 GB of RAM and a modest CPU, paving the way for local AI setups. This achievement demonstrates efficient resource utilization and scalability.
+Linux 7.2-rc3 kernel has been updated with Sega Dreamcast hardware support.
 
-💡 *Efficient AI model deployment on limited hardware resources is achievable.*
+💡 *Legacy game consoles still receive updates, highlighting their enduring appeal.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/sega-dreamcast-driver-fixes-appear-in-linux-7-2-rc3-fabled-console-remains-in-favor-while-iconic-computing-architectures-like-i486-fall-by-the-wayside)
+
+---
+
+### 2. Ireland s data centers consumed nearly as much electricity as every home in the country combined in 2025 server farms gulped 23% of national power despite years of grid restrictions 
+
+Ireland's data centers consumed 23% of the country's electricity in 2025, a 10% increase from the previous year, despite grid restrictions.
+
+💡 *Rapid growth in data centers overwhelms Ireland's electricity infrastructure.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions)
 
 ---
 

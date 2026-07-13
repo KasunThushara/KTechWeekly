@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 12, 2026**
+**Week of July 13, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Beelink EQi review Part 2: An Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro ⭐
-
-**📰 Tech News**
-
-The Beelink EQi Wildcat Lake mini PC, powered by an Intel Core i3-304 processor, is put through various tests including benchmarking, video playback, and network performance evaluation on Windows 11 Pro. The review provides a detailed assessment of its features, capabilities, and performance. The mini PC is also evaluated for its cooling performance, fan noise, and power consumption.
-
-💡 **Key Point:** Intel Core i3-304 mini PC delivers solid performance with Windows 11 Pro
-
-🔗 [Read More](https://www.cnx-software.com/2026/07/12/beelink-eqi-review-intel-core-3-304-wildcat-lake-mini-pc-windows-11-pro/)
-
----
-
-### 2. Beelink EQi review Part 2: An Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro ⭐
+### 1. Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board ⭐
 
 **💻 Hardware**
 
-The Beelink EQi Wildcat Lake mini PC, powered by an Intel Core i3-304 processor, is put through various tests including benchmarking, video playback, and network performance evaluation on Windows 11 Pro. The review provides a detailed assessment of its features, capabilities, and performance. The mini PC is also evaluated for its cooling performance, fan noise, and power consumption.
+Brechel Electronic has launched two new Single Pair Ethernet (SPE) expansion boards for Raspberry Pi, providing 10 Mbit/s Ethernet communication over a single twisted pair. The boards, BE-IIS-HPP-T1S and BE-IIS-HPP-T1L, cater to industrial network prototyping, educational laboratory use, and technology evaluation. They support distances up to 25 meters and longer-reach point-to-point links.
 
-💡 **Key Point:** Intel Core i3-304 mini PC delivers solid performance with Windows 11 Pro
+💡 **Key Point:** Enabling industrial network prototyping on Raspberry Pi platforms seamlessly
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/12/beelink-eqi-review-intel-core-3-304-wildcat-lake-mini-pc-windows-11-pro/)
-
----
-
-### 3. This 3D-printed electric motorbike folds into your luggage creator warns it is 'super fast... way too fast' 
-
-**📰 Tech News**
-
-Ivan Miranda has released the design files for the Mirandetta, a 3D-printed electric scooter that folds to fit inside a suitcase. This innovative motorbike combines convenience with speed. The creator warns users about its high speed.
-
-💡 **Key Point:** Convenience and speed come at the cost of caution needed.
-
-🔗 [Read More](https://www.tomshardware.com/3d-printing/ivan-miranda-releases-files-for-a-3d-printed-electric-motorbike-that-fits-in-a-suitcase)
+🔗 [Read More](https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/)
 
 ---
 
-### 4. EA's College Football 27 is getting review-bombed over hidden single-player microtransactions 
+### 2. Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board ⭐
 
-**📰 Tech News**
+**🤖 AI & ML**
 
-College Football 27 is facing backlash for 'predatory' microtransactions in single-player modes, despite initial praise for engaging gameplay and graphics.
+Brechel Electronic has launched two new Single Pair Ethernet (SPE) expansion boards for Raspberry Pi, providing 10 Mbit/s Ethernet communication over a single twisted pair. The boards, BE-IIS-HPP-T1S and BE-IIS-HPP-T1L, cater to industrial network prototyping, educational laboratory use, and technology evaluation. They support distances up to 25 meters and longer-reach point-to-point links.
 
-💡 **Key Point:** Gamers feel deceived by microtransactions' presence in offline single-player modes.
+💡 **Key Point:** Enabling industrial network prototyping on Raspberry Pi platforms seamlessly
 
-🔗 [Read More](https://www.techspot.com/news/113075-ea-college-football-27-getting-review-bombed-over.html)
+🔗 [Read More](https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/)
 
 ---
 
-### 5. Flock cameras mistakenly track car reviewer over 'stolen' tags police ambush tester in store parking lot and detain him for an hour 
+### 3. New York City to ban deceptive subscription practices and force companies to offer easy cancellation 
+
+**🎮 GPUs**
+
+New York City introduces the first US Click-to-Cancel Rule, effective October 1. The rule requires companies to offer easy cancellation options and ban deceptive subscription practices. This new regulation aims to protect consumers from unfair business practices.
+
+💡 **Key Point:** Consumer protection strengthened through transparent business practices enforcement
+
+🔗 [Read More](https://www.techspot.com/news/113086-new-york-city-ban-deceptive-subscription-practices-force.html)
+
+---
+
+### 4. A tiny London startup built a CUDA compiler that reportedly beats AMD's own tools on AMD hardware 
+
+**🎮 GPUs**
+
+Spectral Compute, a London startup, developed a CUDA compiler outperforming AMD's tools on AMD hardware. Founded in 2018 by four experienced engineers, the effort aimed to address frustration with Nvidia GPU costs and alternative compiler performance. The compiler's success has significant implications for the HPC industry.
+
+💡 **Key Point:** Disrupting Nvidia's dominance in HPC with AMD-compatible CUDA compiler.
+
+🔗 [Read More](https://www.techspot.com/news/113081-tiny-london-startup-built-cuda-compiler-reportedly-beats.html)
+
+---
+
+### 5. Cooler Master MWE Gold 750 V4 power supply review: Verified Gold efficiency with mainstream pricing 
 
 **💻 Hardware**
 
-Flock AI cameras mistakenly flagged a car with non-standard plates, leading to an hour-long detention. The mistake occurred due to the cameras struggling to read the smaller digits on the New Jersey plate. The incident highlights the potential for errors in automated surveillance systems.
+The Cooler Master MWE Gold 750 V4 offers verified Gold efficiency at a mainstream price, a compact 140 mm chassis, and features like native 12V-2x6 connector and GPU Shield current monitoring.
 
-💡 **Key Point:** AI-powered surveillance systems can be prone to errors and misidentification.
+💡 **Key Point:** Affordable high-efficiency power supplies become more accessible to consumers.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/big-tech/flock-cameras-mistakenly-track-car-reviewer-over-stolen-tags-police-ambush-tester-in-store-parking-lot-and-detain-him-for-an-hour)
+🔗 [Read More](https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-gold-750-v4-power-supply-review)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **24 articles** across **5 focused categories**.
+We covered **29 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 9 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 2 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 6 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 1 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 10 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 8 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 2 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 5 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 9 articles
+*Artificial Intelligence and Machine Learning* — 10 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 2 articles
+*Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 6 articles
+*Computing hardware and development boards* — 8 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 1 articles
+*Chip manufacturing and design* — 2 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 6 articles
+*Industry news and product launches* — 5 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-07-12 at 10:13 by an autonomous AI curation system.
+Generated 2026-07-13 at 11:43 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

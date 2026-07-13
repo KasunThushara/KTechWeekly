@@ -1,105 +1,115 @@
 # 🤖 AI & ML
-**Week of July 12, 2026**
+**Week of July 13, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-07-12 10:13
+- **Articles this week:** 10
+- **Report generated:** 2026-07-13 11:43
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Flock cameras mistakenly track car reviewer over 'stolen' tags police ambush tester in store parking lot and detain him for an hour 
+### 1. Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board ⭐
 
-Flock AI cameras mistakenly flagged a car with non-standard plates, leading to an hour-long detention. The mistake occurred due to the cameras struggling to read the smaller digits on the New Jersey plate. The incident highlights the potential for errors in automated surveillance systems.
+Brechel Electronic has launched two new Single Pair Ethernet (SPE) expansion boards for Raspberry Pi, providing 10 Mbit/s Ethernet communication over a single twisted pair. The boards, BE-IIS-HPP-T1S and BE-IIS-HPP-T1L, cater to industrial network prototyping, educational laboratory use, and technology evaluation. They support distances up to 25 meters and longer-reach point-to-point links.
 
-💡 *AI-powered surveillance systems can be prone to errors and misidentification.*
+💡 *Enabling industrial network prototyping on Raspberry Pi platforms seamlessly*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/flock-cameras-mistakenly-track-car-reviewer-over-stolen-tags-police-ambush-tester-in-store-parking-lot-and-detain-him-for-an-hour)
-
----
-
-### 2. Newegg packs Ryzen 5 9600X and 16GB DDR5 into a $520 combo bundles also include a B650 motherboard and 240mm AIO liquid cooler 
-
-Newegg offers a budget-friendly combo bundle for gamers, including a Ryzen 5 9600X processor, Gigabyte B650M motherboard, 16GB Corsair DDR5 memory, and a free 240mm AIO liquid cooler all for $520.
-
-💡 *Affordable AM5 PC build option for budget-conscious gamers emerges.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/newegg-packs-ryzen-5-9600x-and-16gb-ddr5-into-a-usd520-combo-bundles-also-include-a-b650-motherboard-and-240mm-aio-liquid-cooler)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/)
 
 ---
 
-### 3. SK Hynix says 2027 will be the 'worst year' for memory shortage, forecasts crunch to last until 2030 CEO shares grim outlook on the day SK Hynix gets listed on Nasdaq 
+### 2. Sega Dreamcast driver fixes appear in Linux 7.2-rc3 fabled console remains in favor while iconic computing architectures like i486 fall by the wayside 
 
-SK Hynix CEO forecasts memory shortage to worsen in 2027, lasting until at least 2030.
+Linux 7.2-rc3 kernel has been updated with Sega Dreamcast hardware support.
 
-💡 *Global semiconductor shortages will intensify supply chain disruptions significantly.*
+💡 *Legacy game consoles still receive updates, highlighting their enduring appeal.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/sk-hynix-says-2027-will-be-the-worst-year-for-memory-shortage-forecasts-crunch-to-last-until-2030-ceo-shares-grim-outlook-on-the-day-sk-hynix-gets-listed-on-nasdaq)
-
----
-
-### 4. Microsoft struggles to fulfill its 2030 sustainability promise amid carbon-heavy AI expansions the company's chief sustainability officer claims the target is still feasible 
-
-Microsoft's carbon emissions surged 25% in FY2025 due to AI expansion, despite sustainability progress. The company's water conservation and waste reduction efforts are notable, but not enough to offset the carbon impact. The AI-driven growth outpaced efforts to reduce emissions.
-
-💡 *Rapid AI growth threatens Microsoft's ambitious 2030 carbon neutrality goal.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/microsoft-struggles-to-fulfill-its-2030-sustainability-promise-amid-carbon-heavy-ai-expansions-the-companys-chief-sustainability-officer-claims-the-target-is-still-feasible)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/sega-dreamcast-driver-fixes-appear-in-linux-7-2-rc3-fabled-console-remains-in-favor-while-iconic-computing-architectures-like-i486-fall-by-the-wayside)
 
 ---
 
-### 5. Razer Soma Chroma Gaming Chair Review: Light on adjustability, but heavy on RGBs 
+### 3. Cooler Master MWE Gold 750 V4 power supply review: Verified Gold efficiency with mainstream pricing 
 
-The Razer Soma Chroma Gaming Chair offers vibrant RGB lights for $499, but has limited adjustability options.
+The Cooler Master MWE Gold 750 V4 offers verified Gold efficiency at a mainstream price, a compact 140 mm chassis, and features like native 12V-2x6 connector and GPU Shield current monitoring.
 
-💡 *Expensive RGB experience may not justify limited adjustability features.*
+💡 *Affordable high-efficiency power supplies become more accessible to consumers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-chairs/razer-soma-chroma-gaming-chair-review)
-
----
-
-### 6. Colibr proof-of-concept gains frontier-level 1.5-TB AI model novel approach runs on only 25GB of RAM and shows promise for local AI setups 
-
-Colibr proof-of-concept successfully runs a frontier-level 1.5-TB AI model on 25 GB of RAM and a modest CPU, paving the way for local AI setups. This achievement demonstrates efficient resource utilization and scalability.
-
-💡 *Efficient AI model deployment on limited hardware resources is achievable.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-gold-750-v4-power-supply-review)
 
 ---
 
-### 7. This ransomware negotiator was paid to fight hackers, he was secretly working with them instead 
+### 4. Europe is testing air conditioners that don't use any refrigerants at all 
 
-A ransomware negotiator secretly worked with hackers instead of fighting them, exploiting confidential information.
+New air conditioner technologies are being tested in Europe, focusing on refrigerant-free designs. These innovative approaches use various methods, such as metals, semiconductors, and magnetic fields, to move heat without chemical refrigerants. Early-stage developments reflect growing efforts to address environmental concerns.
 
-💡 *Trust is broken in the fight against cybercrime and ransomware payments.*
+💡 *Breakthroughs in refrigerant-free ACs could mitigate climate change risks.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113079-ransomware-negotiator-paid-fight-hackers-secretly-working-them.html)
-
----
-
-### 8. WhatsApp desktop turns your PC into a full messaging hub 
-
-WhatsApp's desktop app turns your PC into a full messaging hub, allowing you to link up to four devices at once and make voice and video calls with ease.
-
-💡 *Effortless multitasking for seamless conversations and productivity.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/6839-whatsapp-desktop.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113082-europe-testing-air-conditioners-dont-use-any-refrigerants.html)
 
 ---
 
-### 9. This MIT robot flies through the air then dives underwater using the same wings 
+### 5. Microsoft's patch for a Windows Defender 0-day may have created a new attack path 
 
-A robot developed at MIT can fly through the air and dive underwater using the same wings, mimicking the abilities of seabirds like puffins. This achievement demonstrates a more versatile and efficient use of wing technology. The robot's design could lead to new applications in ocean exploration and conservation.
+A new zero-day flaw, RoguePlanet, could allow cybercriminals to gain full admin access to Windows devices. This vulnerability was discovered by the security researcher NightmareEclipse, who previously accused Microsoft of hiding a backdoor in BitLocker. Microsoft may have inadvertently created a new attack path with their patch.
 
-💡 *Adaptable wing design can bridge the air-water efficiency gap*
+💡 *Microsoft's patch for a Windows Defender 0-day created a new attack path*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113077-mit-robot-flies-through-air-dives-underwater-using.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113076-microsoft-patch-windows-defender-0-day-may-have.html)
+
+---
+
+### 6. Valve confirms Steam Machine red light overheating warning is showing earlier than it should; BIOS fix on the way will raise temperature warning threshold to 100 Degrees Celsius 
+
+Valve confirms Steam Machine's red light warning is triggered prematurely due to overheating. The warning is currently triggered before it reaches 90 degrees Celsius. A BIOS fix is on the way to raise the threshold to 100 degrees Celsius.
+
+💡 *Steam Machine's premature warning affects user experience and performance reliability.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cooling/valve-confirms-steam-machine-red-light-overheating-warning-is-showing-earlier-than-it-should-bios-fix-on-the-way-will-raise-temperature-warning-threshold-to-100-degrees-celsius)
+
+---
+
+### 7. Grab a blazing-fast dual-interface M.2 SSD enclosure for just $59 on Amazon Asus' tool-less ROG Strix Aiolos is 14% off right now, featuring transfer speeds up to 20 Gbps 
+
+Asus' ROG Strix Aiolos M.2 enclosure is discounted to $59 on Amazon. It features transfer speeds up to 20 Gbps, a sleek design, and extra convenience with a metal hook and strap. This is a great deal for those looking for a fast and portable storage solution.
+
+💡 *Fast and portable storage at an affordable price point*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/grab-a-blazing-fast-dual-interface-m-2-ssd-enclosure-for-just-usd59-on-amazon-asus-tool-less-rog-strix-aiolos-is-14-percent-off-right-now-featuring-transfer-speeds-up-to-20-gbps)
+
+---
+
+### 8. FCC approves orbital space mirrors, first test satellites will launch this year large spacecraft reflects sunlight to Earth s surface for construction sites, search-and-rescue lighting, and more 
+
+The FCC approved a startup's orbital space mirrors for launching this year, aiming to reflect sunlight for various purposes such as construction sites and search-and-rescue operations. Critics raised concerns about potential impacts on astronomy and the environment. The regulator stated that these complaints are outside its jurisdiction.
+
+💡 *Reflecting sunlight from space could revolutionize nighttime applications globally.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/fcc-approves-orbital-space-mirrors-first-test-satellites-will-launch-this-year-large-spacecraft-reflects-sunlight-to-earths-surface-for-construction-sites-search-and-rescue-lighting-and-more)
+
+---
+
+### 9. Best of Sensors: Aizip and Asahi Kasei win in wearables 
+
+AI Gesture Recognition, a wearable device, won Best of Sensors 2026 in the healthcare and wearable category. It translates subtle muscle electrical signals at the wrist into intuitive input commands. This innovation enhances user experience and interaction.
+
+💡 *Revolutionizing user interaction through muscle electrical signal recognition technology.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/best-sensors-aizip-and-asahi-kasei-win-wearable)
+
+---
+
+### 10. Samsung is building a dedicated AI chip for PCs, and HP and Lenovo are already testing it 
+
+Samsung is developing a dedicated AI chip, GAIA, for PCs, with HP and Lenovo testing it.
+
+💡 *Enhanced AI performance and efficiency in PCs*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113074-samsung-building-dedicated-ai-chip-pcs-hp-lenovo.html)
 
 ---
 
