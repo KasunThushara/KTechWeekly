@@ -1,55 +1,45 @@
 # 🎮 GPUs
-**Week of July 13, 2026**
+**Week of July 14, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-07-13 11:43
+- **Articles this week:** 3
+- **Report generated:** 2026-07-14 10:24
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. New York City to ban deceptive subscription practices and force companies to offer easy cancellation 
+### 1. Apple's rumored M7 Ultra targets 1.5TB of memory and Blackwell-class AI performance, report claims monster 2028 offering would depend on memory shortage easing 
 
-New York City introduces the first US Click-to-Cancel Rule, effective October 1. The rule requires companies to offer easy cancellation options and ban deceptive subscription practices. This new regulation aims to protect consumers from unfair business practices.
+Apple's M7 Ultra chip targets up to 1.5 TB of unified memory and Blackwell-class AI performance.
 
-💡 *Consumer protection strengthened through transparent business practices enforcement*
+💡 *Breakthrough AI capabilities could revolutionize high-end computing and industries like healthcare.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113086-new-york-city-ban-deceptive-subscription-practices-force.html)
-
----
-
-### 2. A tiny London startup built a CUDA compiler that reportedly beats AMD's own tools on AMD hardware 
-
-Spectral Compute, a London startup, developed a CUDA compiler outperforming AMD's tools on AMD hardware. Founded in 2018 by four experienced engineers, the effort aimed to address frustration with Nvidia GPU costs and alternative compiler performance. The compiler's success has significant implications for the HPC industry.
-
-💡 *Disrupting Nvidia's dominance in HPC with AMD-compatible CUDA compiler.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113081-tiny-london-startup-built-cuda-compiler-reportedly-beats.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai)
 
 ---
 
-### 3. Save $544 on a new RTX 5080-packed Cyberpower gaming PC also features AMD's 9800X3D, 32GB of DDR5 RAM, and a 2TB SSD for $2,744 
+### 2. Upcoming MSI Afterburner update adds heatmap to V/F curve editor to show your GPU's boosting behavior new feature shoots for better overclocks with more data 
 
-Get a high-powered gaming PC with RTX 5080, Ryzen 7 9800X3D, and 32GB of DDR5 RAM for $2,744, saving $544.
+A new heatmap in MSI Afterburner's V/F curve editor displays boosting behavior, helping with overclock optimization.
 
-💡 *High-performance gaming at a discounted price point for enthusiasts.*
+💡 *Better overclocks through real-world GPU boosting behavior visualization available.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd544-on-a-new-rtx-5080-packed-cyberpower-gaming-pc-also-features-amds-9800x3d-32gb-of-ddr5-ram-and-a-2tb-ssd-for-usd2-744)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/upcoming-msi-afterburner-update-adds-heatmap-to-v-f-curve-editor-to-show-your-gpus-boosting-behavior-new-feature-shoots-for-better-overclocks-with-more-data)
 
 ---
 
-### 4. Lenovo's Legion 7a gaming laptop now comes with an RTX 5070 12GB GPU option but it costs $3,375 paired with a Ryzen AI 9 CPU, SKU was previously limited to RTX 5060 
+### 3. AMD FSR Multi-Frame Generation with 8x mode spotted experimental driver settings could hint at FSR's next evolution 
 
-Lenovo's Legion 7a gaming laptop now offers an RTX 5070 12GB GPU option, priced at $3,375, alongside a Ryzen AI 9 CPU, providing an upgraded gaming experience.
+Experimental driver settings hint at next-gen FSR technologies from AMD. The discovered options suggest a potential 8x Multi-Frame Generation mode. However, there's no confirmation on its current form.
 
-💡 *Premium gaming experience with upgraded RTX 5070 and Ryzen AI 9 CPU.*
+💡 *Potential for improved FSR performance with next-generation technologies*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/lenovos-legion-7a-gaming-laptop-now-comes-with-an-rtx-5070-12gb-gpu-option-but-it-costs-usd3-375-paired-with-a-ryzen-ai-9-cpu-sku-was-previously-limited-to-rtx-5060)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/amd-fsr-multi-frame-generation-with-8x-mode-spotted-experimental-driver-settings-could-hint-at-fsrs-next-evolution)
 
 ---
 

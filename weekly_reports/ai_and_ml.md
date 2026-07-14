@@ -1,115 +1,185 @@
 # 🤖 AI & ML
-**Week of July 13, 2026**
+**Week of July 14, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-07-13 11:43
+- **Articles this week:** 17
+- **Report generated:** 2026-07-14 10:24
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board ⭐
+### 1. Researchers create programmable material that can steer heat and remember its state without power breakthrough could eventually aid AI chip cooling and silicon photonics ⭐
 
-Brechel Electronic has launched two new Single Pair Ethernet (SPE) expansion boards for Raspberry Pi, providing 10 Mbit/s Ethernet communication over a single twisted pair. The boards, BE-IIS-HPP-T1S and BE-IIS-HPP-T1L, cater to industrial network prototyping, educational laboratory use, and technology evaluation. They support distances up to 25 meters and longer-reach point-to-point links.
+Researchers created a programmable thermal material that steers heat without power, benefiting AI chips and other technologies.
 
-💡 *Enabling industrial network prototyping on Raspberry Pi platforms seamlessly*
+💡 *Breakthrough could revolutionize heat management in high-performance computing devices.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/)
-
----
-
-### 2. Sega Dreamcast driver fixes appear in Linux 7.2-rc3 fabled console remains in favor while iconic computing architectures like i486 fall by the wayside 
-
-Linux 7.2-rc3 kernel has been updated with Sega Dreamcast hardware support.
-
-💡 *Legacy game consoles still receive updates, highlighting their enduring appeal.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/sega-dreamcast-driver-fixes-appear-in-linux-7-2-rc3-fabled-console-remains-in-favor-while-iconic-computing-architectures-like-i486-fall-by-the-wayside)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics)
 
 ---
 
-### 3. Cooler Master MWE Gold 750 V4 power supply review: Verified Gold efficiency with mainstream pricing 
+### 2. Cooler Master HAF II 500 Case Review: New HAF delivers on its name, with impressive airflow and a roomy chassis ⭐
 
-The Cooler Master MWE Gold 750 V4 offers verified Gold efficiency at a mainstream price, a compact 140 mm chassis, and features like native 12V-2x6 connector and GPU Shield current monitoring.
+The Cooler Master HAF II 500 offers excellent airflow and solid thermal performance, making it an attractive option for PC builders seeking a roomy and quiet case. Its massive 220mm fans provide efficient cooling, and the spacious interior allows for flexible building options. The case is priced competitively at around $200.
 
-💡 *Affordable high-efficiency power supplies become more accessible to consumers.*
+💡 *High airflow efficiency at an affordable price range matters.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-gold-750-v4-power-supply-review)
-
----
-
-### 4. Europe is testing air conditioners that don't use any refrigerants at all 
-
-New air conditioner technologies are being tested in Europe, focusing on refrigerant-free designs. These innovative approaches use various methods, such as metals, semiconductors, and magnetic fields, to move heat without chemical refrigerants. Early-stage developments reflect growing efforts to address environmental concerns.
-
-💡 *Breakthroughs in refrigerant-free ACs could mitigate climate change risks.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113082-europe-testing-air-conditioners-dont-use-any-refrigerants.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/cooler-master-haf-ii-500-case-review)
 
 ---
 
-### 5. Microsoft's patch for a Windows Defender 0-day may have created a new attack path 
+### 3. Apple's rumored M7 Ultra targets 1.5TB of memory and Blackwell-class AI performance, report claims monster 2028 offering would depend on memory shortage easing 
 
-A new zero-day flaw, RoguePlanet, could allow cybercriminals to gain full admin access to Windows devices. This vulnerability was discovered by the security researcher NightmareEclipse, who previously accused Microsoft of hiding a backdoor in BitLocker. Microsoft may have inadvertently created a new attack path with their patch.
+Apple's M7 Ultra chip targets up to 1.5 TB of unified memory and Blackwell-class AI performance.
 
-💡 *Microsoft's patch for a Windows Defender 0-day created a new attack path*
+💡 *Breakthrough AI capabilities could revolutionize high-end computing and industries like healthcare.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113076-microsoft-patch-windows-defender-0-day-may-have.html)
-
----
-
-### 6. Valve confirms Steam Machine red light overheating warning is showing earlier than it should; BIOS fix on the way will raise temperature warning threshold to 100 Degrees Celsius 
-
-Valve confirms Steam Machine's red light warning is triggered prematurely due to overheating. The warning is currently triggered before it reaches 90 degrees Celsius. A BIOS fix is on the way to raise the threshold to 100 degrees Celsius.
-
-💡 *Steam Machine's premature warning affects user experience and performance reliability.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cooling/valve-confirms-steam-machine-red-light-overheating-warning-is-showing-earlier-than-it-should-bios-fix-on-the-way-will-raise-temperature-warning-threshold-to-100-degrees-celsius)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai)
 
 ---
 
-### 7. Grab a blazing-fast dual-interface M.2 SSD enclosure for just $59 on Amazon Asus' tool-less ROG Strix Aiolos is 14% off right now, featuring transfer speeds up to 20 Gbps 
+### 4. Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery 
 
-Asus' ROG Strix Aiolos M.2 enclosure is discounted to $59 on Amazon. It features transfer speeds up to 20 Gbps, a sleek design, and extra convenience with a metal hook and strap. This is a great deal for those looking for a fast and portable storage solution.
+The Ambient Scientific GPX10 Pro MCU offers a low-power solution for AI applications, enabling years of always-on operation on a coin-cell battery. It features ten programmable AI cores, ultra-low power ADC, and an Arm Cortex-M4F core for non-AI workloads. This SoC is suitable for power-constrained edge devices.
 
-💡 *Fast and portable storage at an affordable price point*
+💡 *Low-power AI processing extends battery life in edge devices.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/grab-a-blazing-fast-dual-interface-m-2-ssd-enclosure-for-just-usd59-on-amazon-asus-tool-less-rog-strix-aiolos-is-14-percent-off-right-now-featuring-transfer-speeds-up-to-20-gbps)
-
----
-
-### 8. FCC approves orbital space mirrors, first test satellites will launch this year large spacecraft reflects sunlight to Earth s surface for construction sites, search-and-rescue lighting, and more 
-
-The FCC approved a startup's orbital space mirrors for launching this year, aiming to reflect sunlight for various purposes such as construction sites and search-and-rescue operations. Critics raised concerns about potential impacts on astronomy and the environment. The regulator stated that these complaints are outside its jurisdiction.
-
-💡 *Reflecting sunlight from space could revolutionize nighttime applications globally.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/fcc-approves-orbital-space-mirrors-first-test-satellites-will-launch-this-year-large-spacecraft-reflects-sunlight-to-earths-surface-for-construction-sites-search-and-rescue-lighting-and-more)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/)
 
 ---
 
-### 9. Best of Sensors: Aizip and Asahi Kasei win in wearables 
+### 5. Apple's iOS 27 public beta arrives with Siri AI, faster app launches, and more 
 
-AI Gesture Recognition, a wearable device, won Best of Sensors 2026 in the healthcare and wearable category. It translates subtle muscle electrical signals at the wrist into intuitive input commands. This innovation enhances user experience and interaction.
+Apple releases iOS 27 public beta with AI-enhanced Siri and faster app launches, but some features are limited to newer models due to RAM requirements.
 
-💡 *Revolutionizing user interaction through muscle electrical signal recognition technology.*
+💡 *New iOS limits AI features to latest iPhone and iPad models.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/best-sensors-aizip-and-asahi-kasei-win-wearable)
+🔗 [Read Full Article](https://www.techspot.com/news/113101-apple-ios-27-public-beta-arrives-siri-ai.html)
 
 ---
 
-### 10. Samsung is building a dedicated AI chip for PCs, and HP and Lenovo are already testing it 
+### 6. Zimbra patched a flaw that let hackers hijack accounts just by sending an email 
 
-Samsung is developing a dedicated AI chip, GAIA, for PCs, with HP and Lenovo testing it.
+Zimbra has released a patch to fix a stored XSS vulnerability, which could be exploited through the Classic Web Client. Users are advised to update to version 10.1.19 as soon as possible to maintain account security.
 
-💡 *Enhanced AI performance and efficiency in PCs*
+💡 *Vulnerability lets hackers hijack accounts via malicious email*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113074-samsung-building-dedicated-ai-chip-pcs-hp-lenovo.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113097-zimbra-patched-flaw-hackers-hijack-accounts-sending-email.html)
+
+---
+
+### 7. Tesla's AI5 with 2nm-class node tapes out at Samsung Foundry production starts soon, months after TSMC tape out 
+
+Tesla's AI5 processor with 2nm-class node has taped out at Samsung Foundry. This marks Samsung's entry into production for the AI5 processor, following TSMC's tape out. Production is set to begin soon.
+
+💡 *Samsung joins TSMC in AI5 production, expanding 2nm-class node opportunities*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/teslas-ai5-with-2nm-class-node-tapes-out-at-samsung-foundry-production-starts-soon-months-after-tsmc-tape-out)
+
+---
+
+### 8. Micron commits $500 million to GlobalWafers' Texas wafer plant as it raises U.S. spending to $250 billion memory maker aims to manufacture 40% of DRAM in the US by 2035 
+
+Micron commits $500M to GlobalWafers' Texas plant, part of $250B US spending goal. The investment aims to manufacture 40% of DRAM in the US by 2035.
+
+💡 *Reducing reliance on foreign suppliers for critical semiconductor components.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/micron-commits-500-million-to-globalwafers-texas-wafer-plant-as-it-raises-us-spending-to-250-billion)
+
+---
+
+### 9. Meta expands colossal Hyperion AI supercluster plans to 5GW, pushes Louisiana investment past $50 billion as AI race accelerates says it plans to invest over $1 billion in local infrastructure improvements 
+
+Meta expands Hyperion AI supercluster to 5GW, lifting Louisiana investment to $50 billion. This significant expansion aims to boost AI computing capacity. The company plans to invest $1 billion in local infrastructure improvements.
+
+💡 *Rapidly increasing AI computing capacity fuels Meta's competitiveness and growth.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements)
+
+---
+
+### 10. Firefox is switching to a faster release schedule, just like Chrome and Edge 
+
+Mozilla's Firefox will adopt a faster release schedule, starting with Firefox 155 in September.
+
+💡 *Competition with Chrome and Edge intensifies release frequency innovation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113091-firefox-switching-faster-release-schedule-like-chrome-edge.html)
+
+---
+
+### 11. Apple is reportedly skipping M6 Pro, Max, and Ultra chips to fast-track AI-focused M7 Macs 
+
+Apple is reportedly skipping M6 Pro and Max variants to focus on M7 Macs for AI capabilities this fall, with M6 chips still expected for base Macs.
+
+💡 *Apple prioritizes AI-focused M7 Macs over high-end chip variants*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113085-apple-next-big-mac-leap-could-skip-m6.html)
+
+---
+
+### 12. SK Hynix predicts memory crunch will peak in 2027 and continue through 2030 
+
+SK Hynix predicts a memory crunch peaking in 2027-2030 due to high demand.
+
+💡 *Memory supply struggles to keep pace with AI-driven demand surges.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113095-sk-hynix-predicts-memory-crunch-peak-2027-continue.html)
+
+---
+
+### 13. Claude's new Reflect feature is Spotify Wrapped for your AI habits 
+
+Claude's Reflect feature offers a personalized dashboard showcasing AI usage habits, including topics, activity patterns, and common tasks, all summarized over up to 12 months. This beta feature is accessible through the Claude desktop app on Windows or macOS. Users can gain valuable insights into their AI interactions.
+
+💡 *Unlocking AI habits for personal growth and optimization*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7833-claude-desktop-app.html)
+
+---
+
+### 14. New York hospital replaces 12 nurses with AI, prompting warnings over patient care dangers 
+
+Montefiore Medical Center in the Bronx laid off 12 nurses, replacing them with AI-powered software. The AI software, provided by Datavant, is used for nonclinical tasks such as paperwork. The New York State Nurses Association expressed concerns over patient care.
+
+💡 *Replacing human nurses with AI may compromise patient care quality*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113092-new-york-hospital-replaces-12-nurses-ai-prompting.html)
+
+---
+
+### 15. TSMC posts blowout $39 billion quarter, raising the same old AI question: is this sustainable? 
+
+TSMC reports a record $39 billion quarter, driven by strong chip demand. The company manufactures advanced chips for AI data centers, including those designed by Nvidia and Apple. As tech companies expand their data center capacity, demand for these chips remains robust.
+
+💡 *Robust chip demand fuels record quarter for TSMC's AI-focused manufacturing*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113089-tsmc-posts-396-billion-quarter-ai-boom-drives.html)
+
+---
+
+### 16. ChatGPT Atlas lasted less than a year, but AI browser alternatives remain 
+
+ChatGPT Atlas will shut down next month, less than a year after its launch. Mac users can still download it for a last look. Alternatives like Perplexity's Comet and Opera offer AI browser features.
+
+💡 *AI browser alternatives have a more sustainable future ahead.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7801-openai-atlas.html)
+
+---
+
+### 17. Swedish startup unveils foot-long drone-killing interceptor that can exceed 220 mph 
+
+Nordic Air Defence unveils the K100XR, a counter-drone system capable of exceeding 220 mph.
+
+💡 *Effective solution against rapidly advancing drone warfare threats emerges.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113090-swedish-startup-unveils-foot-long-drone-killing-interceptor.html)
 
 ---
 

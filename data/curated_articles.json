@@ -1,184 +1,344 @@
 [
   {
-    "title": "Save $544 on a new RTX 5080-packed Cyberpower gaming PC also features AMD's 9800X3D, 32GB of DDR5 RAM, and a 2TB SSD for $2,744",
-    "summary": "Save over $544 on a new high-powered gaming rig from Cyberpower. High-end graphics and frame rates, thanks to the included RTX 5080 and Ryzen 7 9800X3D hardware inside.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd544-on-a-new-rtx-5080-packed-cyberpower-gaming-pc-also-features-amds-9800x3d-32gb-of-ddr5-ram-and-a-2tb-ssd-for-usd2-744",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-13T11:42:31.211075"
-  },
-  {
-    "title": "Valve confirms Steam Machine red light overheating warning is showing earlier than it should; BIOS fix on the way will raise temperature warning threshold to 100 Degrees Celsius",
-    "summary": "Valve has confirmed that the Steam Machine's red light bar warning is being triggered prematurely.",
-    "link": "https://www.tomshardware.com/pc-components/cooling/valve-confirms-steam-machine-red-light-overheating-warning-is-showing-earlier-than-it-should-bios-fix-on-the-way-will-raise-temperature-warning-threshold-to-100-degrees-celsius",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-13T11:42:31.211224"
-  },
-  {
-    "title": "Lenovo's Legion 7a gaming laptop now comes with an RTX 5070 12GB GPU option but it costs $3,375 paired with a Ryzen AI 9 CPU, SKU was previously limited to RTX 5060",
-    "summary": "Lenovo has added the RTX 5070 12GB GPU to its Legion 7a gaming laptop, allowing you finally configure it with something better than an RTX 5060. It's very expensive at $3,375 but you're getting a genuinely premium machine for that price and an upgraded RTX 5070 that's not limited to just 8GB of VRAM.",
-    "link": "https://www.tomshardware.com/laptops/lenovos-legion-7a-gaming-laptop-now-comes-with-an-rtx-5070-12gb-gpu-option-but-it-costs-usd3-375-paired-with-a-ryzen-ai-9-cpu-sku-was-previously-limited-to-rtx-5060",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-13T11:42:31.211359"
-  },
-  {
-    "title": "Ireland s data centers consumed nearly as much electricity as every home in the country combined in 2025 server farms gulped 23% of national power despite years of grid restrictions",
-    "summary": "Ireland s data centers consumed 23% of the country s electricity in 2025, rising 10% in one year despite restrictions on new grid connections.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-13T11:42:31.211466"
-  },
-  {
-    "title": "Sega Dreamcast driver fixes appear in Linux 7.2-rc3 fabled console remains in favor while iconic computing architectures like i486 fall by the wayside",
-    "summary": "A set of updates for Sega Dreamcast hardware has been merged into the Linux 7.2-rc3 kernel this weekend.",
-    "link": "https://www.tomshardware.com/software/linux/sega-dreamcast-driver-fixes-appear-in-linux-7-2-rc3-fabled-console-remains-in-favor-while-iconic-computing-architectures-like-i486-fall-by-the-wayside",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-13T11:42:31.211562"
-  },
-  {
-    "title": "Grab a blazing-fast dual-interface M.2 SSD enclosure for just $59 on Amazon Asus' tool-less ROG Strix Aiolos is 14% off right now, featuring transfer speeds up to 20 Gbps",
-    "summary": "Asus' fancy dual-interface M.2 enclosure is marked down to its lowest price ever on Amazon right now. Not only is it fast, but it also looks clean and has extra on-the-go convenience thanks to its metal hook and strap.",
-    "link": "https://www.tomshardware.com/pc-components/grab-a-blazing-fast-dual-interface-m-2-ssd-enclosure-for-just-usd59-on-amazon-asus-tool-less-rog-strix-aiolos-is-14-percent-off-right-now-featuring-transfer-speeds-up-to-20-gbps",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-13T11:42:31.211662"
-  },
-  {
-    "title": "Windows 95 didn t detect installers, it guessed based on the file name, says veteran dev it simply checked for words like setup, install, inst, or localized equivalents",
-    "summary": "The full match list ran to six terms: setup, install, inst, imposta, ayarla, and felrak.",
-    "link": "https://www.tomshardware.com/software/windows/windows-95-detected-installers-by-scanning-program-names-for-the-word-setup",
+    "title": "Modder successfully runs Counter-Strike clone at 60 FPS on the original Sony PSP created his own Rust-based 3D engine to power 480 x 272 gameplay, also works on PS Vita",
+    "summary": "OpenStrike is a Counter-Strike clone built for the PSP, and the project is already running at 60 FPS with bot rounds.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/modder-runs-counter-strike-clone-at-60-fps-on-the-original-sony-psp-openstrike-is-a-proof-of-concept-with-bot-rounds",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-13T11:42:31.211763"
+    "processed_date": "2026-07-14T10:23:27.189641"
   },
   {
-    "title": "FCC approves orbital space mirrors, first test satellites will launch this year large spacecraft reflects sunlight to Earth s surface for construction sites, search-and-rescue lighting, and more",
-    "summary": "A startup that aims to bring sunlight on Earth after dark just received approval from the FCC to launch its experimental satellite. Critics say that the project could adversely affect astronomy and the environment, but the regulator says that their complaints are outside of its jursidiction.",
-    "link": "https://www.tomshardware.com/tech-industry/fcc-approves-orbital-space-mirrors-first-test-satellites-will-launch-this-year-large-spacecraft-reflects-sunlight-to-earths-surface-for-construction-sites-search-and-rescue-lighting-and-more",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-13T11:42:31.211881"
-  },
-  {
-    "title": "Cooler Master MWE Gold 750 V4 power supply review: Verified Gold efficiency with mainstream pricing",
-    "summary": "The fourth revision of Cooler Master s renowned mainstream series, coming with verified Gold efficiency, a native 12V-2x6 connector, and GPU Shield current monitoring in a compact 140 mm chassis at a mainstream price.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-gold-750-v4-power-supply-review",
+    "title": "Researchers create programmable material that can steer heat and remember its state without power breakthrough could eventually aid AI chip cooling and silicon photonics",
+    "summary": "Researchers created a programmable thermal material that steers heat and retains its state without power, a breakthrough that could benefit AI chips, silicon photonics, and infrared devices.",
+    "link": "https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics",
     "categories": [
       "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-13T11:42:31.211983"
-  },
-  {
-    "title": "WisMesh Station Review Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway",
-    "summary": "RAKwireless has sent us a sample of the WisMesh Station, a Meshtastic gateway and base station based on a Raspberry Pi 4 Model B, a WisMesh Pi HAT RAK6421 expansion board, a LoRa module, a GNSS module, all housed in a compact metal enclosure. It comes with meshtasticd preinstalled, making it ready to use right out of the box. Just unbox it, plug it in, and start using Meshtastic immediately. We ll also use software packages for communication, data storage, and visualization, such as MQTT, Node-RED, InfluxDB, and Grafana, mostly following RAKwireless s user guide WisMesh Station is available in 2 models according to transmit power: the standard RAK8622 model that uses the RAK13300 LoRa module (Semtech SX1262 with 22 dBm transmit power), suitable for urban networks where nodes are close to each other, and the high-power RAK8623 (HP) model that uses the RAK13302 module (SX1262 + SKY66122 amplifier circuit with 30 [...] The post WisMesh Station Review Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/13/wismesh-station-review-telemetry-mqtt-and-grafana-tested-on-a-raspberry-pi-4-based-meshtastic-gateway/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-13T11:42:31.212599"
-  },
-  {
-    "title": "Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board",
-    "summary": "Germany-based Brechel Electronic has launched two new Single Pair Ethernet (SPE) expansion boards for Raspberry Pi platforms: the BE-IIS-HPP-T1S and the BE-IIS-HPP-T1L. Designed for technology evaluation, industrial network prototyping, and educational laboratory use, these boards add 10 Mbit/s Ethernet communication over a single twisted pair to standard Raspberry Pi SBCs. The BE-IIS-HPP-T1S is based on the Microchip LAN8651 10BASE-T1S MAC-PHY and supports IEEE 802.3cg Single Pair Ethernet over multidrop networks with up to 8 nodes, enabling distances up to 25 meters on a shared bus. For longer-reach point-to-point links, the company offers the BE-IIS-HPP-T1L, built around Analog Devices ADIN1110 MAC-PHY. Both boards are part of the BE-IIS HAT++ ecosystem, which allows multiple industrial communication HATs to be stacked on a single Raspberry Pi without running into SPI or GPIO resource conflicts. Brechel Electronic 10BASE-T1L and 10BASE-T1S specifications: Compatibility Raspberry Pi HAT+ compliant T1L Supports Pi 3, 4, 5, and Zero [...] The post Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
+      "Semiconductors"
     ],
     "quality_score": 15,
-    "processed_date": "2026-07-13T11:42:31.212775"
+    "processed_date": "2026-07-14T10:23:27.189722"
   },
   {
-    "title": "Best of Sensors: Aizip and Asahi Kasei win in wearables",
-    "summary": "AI Gesture Recognition is a wearable that turns subtle muscle electrical signals at the wrist into reliable, intuitive input commands. It won Best of Sensors 2026 in the healthcare and wearable category.",
-    "link": "https://www.fiercesensors.com/ai/best-sensors-aizip-and-asahi-kasei-win-wearable",
+    "title": "Boutique DIY Hi-Fi solution lets you repurpose your old IDE optical drives as a standalone audio player $190 CD-ROM Player 01 features a laser-cut enclosure and a custom PCB",
+    "summary": "A stylish new product encourages the repurposing of old IDE optical drives as standalone audio players.",
+    "link": "https://www.tomshardware.com/pc-components/enclosures/boutique-diy-hi-fi-solution-lets-you-repurpose-your-old-ide-optical-drives-as-a-standalone-audio-player-usd190-cd-rom-player-01-features-a-laser-cut-enclosure-and-a-custom-pcb",
     "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.189783"
+  },
+  {
+    "title": "Tesla's AI5 with 2nm-class node tapes out at Samsung Foundry production starts soon, months after TSMC tape out",
+    "summary": "Samsung Foundry soon to join TSMC in production of Tesla's AI5 processor, a LinkedIn post reveals.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/teslas-ai5-with-2nm-class-node-tapes-out-at-samsung-foundry-production-starts-soon-months-after-tsmc-tape-out",
+    "categories": [
+      "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-13T11:42:31.214030"
+    "processed_date": "2026-07-14T10:23:27.189854"
   },
   {
-    "title": "Europe is testing air conditioners that don't use any refrigerants at all",
-    "summary": "Several of these new approaches are now being tested. Some rely on metals that cool when stretched and released. Others use semiconductors, magnetic fields, or pressure-sensitive materials to move heat without the chemical refrigerants used in conventional air conditioning. Most are still in early stages, but the activity reflects a... Read Entire Article",
-    "link": "https://www.techspot.com/news/113082-europe-testing-air-conditioners-dont-use-any-refrigerants.html",
+    "title": "Upcoming MSI Afterburner update adds heatmap to V/F curve editor to show your GPU's boosting behavior new feature shoots for better overclocks with more data",
+    "summary": "MSI Afterburner is soon getting a new heatmap in its V/F curve editor that shows the GPU's boosting behavior in real workloads.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/upcoming-msi-afterburner-update-adds-heatmap-to-v-f-curve-editor-to-show-your-gpus-boosting-behavior-new-feature-shoots-for-better-overclocks-with-more-data",
     "categories": [
-      "Tech News",
-      "AI & ML"
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.189914"
+  },
+  {
+    "title": "Micron commits $500 million to GlobalWafers' Texas wafer plant as it raises U.S. spending to $250 billion memory maker aims to manufacture 40% of DRAM in the US by 2035",
+    "summary": "Running until 2035, the $250 billion spending target is attached to a goal of making 40% of Micron's DRAM in the U.S. by the mid-2030s.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/micron-commits-500-million-to-globalwafers-texas-wafer-plant-as-it-raises-us-spending-to-250-billion",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.189974"
+  },
+  {
+    "title": "Intel's new space-grade Starfire chip is a Panther Lake SoC that puts an 18A CPU into orbit chip designed for the US government leverages Intel 3 for the GPU",
+    "summary": "Intel has unveiled Starfire, a space-grade system-on-chip designed for the U.S. government.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-shows-off-starfire-space-grade-chip",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-13T11:42:31.214341"
+    "processed_date": "2026-07-14T10:23:27.190050"
   },
   {
-    "title": "New York City to ban deceptive subscription practices and force companies to offer easy cancellation",
-    "summary": "Mayor Zohran Mamdani and the Department of Consumer and Worker Protection (DCWP) announced that the city's final Click-to-Cancel Rule will take effect on October 1. New York will become the first US city to impose this type of requirement at the municipal level. Read Entire Article",
-    "link": "https://www.techspot.com/news/113086-new-york-city-ban-deceptive-subscription-practices-force.html",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-13T11:42:31.214502"
-  },
-  {
-    "title": "Samsung is building a dedicated AI chip for PCs, and HP and Lenovo are already testing it",
-    "summary": "According to multiple Korean outlets, including Chosun, Samsung's LSI division which works on the Exynos mobile chips, is developing a dedicated AI accelerator for PCs codenamed GAIA. Read Entire Article",
-    "link": "https://www.techspot.com/news/113074-samsung-building-dedicated-ai-chip-pcs-hp-lenovo.html",
+    "title": "Cooler Master HAF II 500 Case Review: New HAF delivers on its name, with impressive airflow and a roomy chassis",
+    "summary": "Cooler Master s HAF II 500 revives the HAF legacy with massive 220mm fans, excellent airflow, and solid thermal performance. Its cooling capability, spacious interior, flexible building options, and quiet operation make it an intriguing option for around $200.",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/cooler-master-haf-ii-500-case-review",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-13T11:42:31.214655"
+    "quality_score": 15,
+    "processed_date": "2026-07-14T10:23:27.190120"
   },
   {
-    "title": "A tiny London startup built a CUDA compiler that reportedly beats AMD's own tools on AMD hardware",
-    "summary": "Spectral Compute was founded in 2018 by four engineers with about 60 years of combined HPC optimization experience. The founders say the effort grew out of frustration: while working at an AI firm, they grew tired of the cost of Nvidia GPUs and the poor performance of alternative compilers, which... Read Entire Article",
-    "link": "https://www.techspot.com/news/113081-tiny-london-startup-built-cuda-compiler-reportedly-beats.html",
+    "title": "Meta expands colossal Hyperion AI supercluster plans to 5GW, pushes Louisiana investment past $50 billion as AI race accelerates says it plans to invest over $1 billion in local infrastructure improvements",
+    "summary": "Meta is expanding Hyperion from 2 GW to 5 GW, lifting its Louisiana investment above $50 billion as it races to secure more AI computing capacity.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.190185"
+  },
+  {
+    "title": "AMD FSR Multi-Frame Generation with 8x mode spotted experimental driver settings could hint at FSR's next evolution",
+    "summary": "Experimental options discovered in AMD's latest Radeon driver suggest the company is preparing next-generation FSR technologies, but there's no confirmation whether 8x Multi-Frame Generation mode will ever ship in its current form.",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-fsr-multi-frame-generation-with-8x-mode-spotted-experimental-driver-settings-could-hint-at-fsrs-next-evolution",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.190247"
+  },
+  {
+    "title": "Flashforge Creator 5 review: Basic and affordable tool changer",
+    "summary": "The Flashforge Creator 5 tool changer is basic, budget, and nearly perfect.",
+    "link": "https://www.tomshardware.com/3d-printing/flashforge-creator-5-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.190297"
+  },
+  {
+    "title": "Apple's rumored M7 Ultra targets 1.5TB of memory and Blackwell-class AI performance, report claims monster 2028 offering would depend on memory shortage easing",
+    "summary": "Apple's planned M7 Ultra chip is being designed to support up to 1.5 TB of unified memory and to push AI performance toward the class of Nvidia's Blackwell accelerators.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai",
     "categories": [
       "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-13T11:42:31.214832"
-  },
-  {
-    "title": "Microsoft's patch for a Windows Defender 0-day may have created a new attack path",
-    "summary": "The feud between \"NightmareEclipse\" and Microsoft continues to hold unpleasant surprises for the Windows ecosystem. The disgruntled security researcher, who accused Redmond of hiding a pernicious backdoor in BitLocker's volume encryption, recently shared details about RoguePlanet, a new zero-day flaw that could be abused by cybercriminals to gain full administrative... Read Entire Article",
-    "link": "https://www.techspot.com/news/113076-microsoft-patch-windows-defender-0-day-may-have.html",
-    "categories": [
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-13T11:42:31.214990"
+    "processed_date": "2026-07-14T10:23:27.190359"
+  },
+  {
+    "title": "Meet Moddo Pinch The world s smallest 32-bit Arduino-compatible board (2026 Edition)",
+    "summary": "Canada-based Moddo has designed the Pinch board, which it claims is the world s smallest 32-bit Arduino-compatible board so far, measuring just 10.9 x 10.5 mm. The board is powered by a Microchip SAMD11 Cortex-M0+ microcontroller with 4 KB SRAM and 16KB flash, features an RGB LED, reset/bootloader button, 3.3 V LDO, a USB-C port, and a total of 12 GPIOs. Moddo Pinch specifications: Microcontroller Microchip SAM D11 (ATSAMD11D14A) MCU core Arm Cortex-M0+ processor running at up to 48 MHz RAM 4 KB SRAM Storage 16 KB Flash (12 KB for sketches, 4 KB bootloader) USB 1x USB Type-C port for power, programming (CDC serial), and HID Expansion 16-pin header (1.27mm pitch) 12x GPIO (D0 D11) 5x analog input (A0 A4) 11x PWM 1x DAC 1x I2C, 1x SPI, 2x UART(multiplexed with USB & D5/D6) Debug SWD on D5 (SWCLK) and D6 (SWDIO) Misc RGB LED [...] The post Meet Moddo Pinch The world s smallest 32-bit Arduino-compatible board (2026 Edition) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/14/meet-moddo-pinch-the-world-smallest-arduino-compatible-board-2026-edition/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-14T10:23:27.190756"
+  },
+  {
+    "title": "IoTLabs wM-Bus gateway An ESP32 device with Wireless M-Bus connectivity for Home Assistant",
+    "summary": "IoTLabs wM-Bus Gateway is an ESP32 device supporting the Wireless M-Bus (wM-Bus) standard for receiving data from compatible meters and sensors, designed for full integration with Home Assistant. Wireless M-Bus (Wireless Meter Bus) is a wireless protocol specifically designed for remote reading of smart meters, generally gas, water, or electricity meters, and typically used by utilities, but the wM-Bus gateway allows you to deploy the standard for your home automation solution, meters, and sensors. wM-Bus gateway specifications: Main controller ESP32 dual-core microcontroller with Wi-Fi and BLE connectivity Display 1.3-inch OLED for live measurements and status wM-Bus 868 MHz radio receiver; Semtech SX1276-based RFM95/RFM96 according to the code Supports T1 and C1 frames, compatible with the wmbusmeters library Antennas Built-in 2.4 GHz antenna for Wi-Fi and Bluetooth External SMA antenna for wireless M-Bus; important: must be connected before powering the device to avoid damage Misc Top button to [...] The post IoTLabs wM-Bus gateway An ESP32 device with Wireless M-Bus connectivity for Home Assistant appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-14T10:23:27.190878"
+  },
+  {
+    "title": "Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery",
+    "summary": "Ambient Scientific GPX10 Pro is a processor/microcontroller for always-on embedded AI applications on power-constrained edge devices. With a consumption of under <100 W, it can deliver years of always-on AI on one coin-cell battery. The SoC features ten software-programmable MX8 AI cores leveraging the company s DigAn technology, ultra-low power ADC, an 8-bit DVP camera interface, 2048 KB SRAM, support for numerous peripherals, and an Arm Cortex-M4F core for non-AI workloads. GPX10 Pro key features and specifications: MCU core Arm Cortex-M4F core clocked at 100 KHz to 100 MHz Memory 2048 KB system SRAM 64KB retention SRAM in Always On block Storage External SPI or QSPI flash 10x MX8 programmable AI Cores for ultra-low power deep learning applications Based on the DigAn AI engine, which can change behavior between being a master and a slave. Up to 2,560 MAC operations per clock cycle (256 MAC per cycle per core) Peak [...] The post Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-14T10:23:27.190991"
+  },
+  {
+    "title": "Best of Sensors: Sensirion Redefines Smart Infrastructure with CO2 Sensing",
+    "summary": "Sensirion's SCD53 carbon dioxide sensor won a Best of Sensors Award in the Smart Infrastructure Category. The company accepted the award at Sensors Converge on May 6 in Santa Clara, Calif.",
+    "link": "https://www.fiercesensors.com/sensors/best-sensors-sensirion-redefines-smart-infrastructure-co2-sensing",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.191693"
+  },
+  {
+    "title": "Delicate touch: Tactile sensors help humanoids get a grip",
+    "summary": "Bosch sees big MEMS growth with humanoids, while industry robot startup investment doubles",
+    "link": "https://www.fiercesensors.com/sensors/delicate-touch-tactile-sensors-help-humanoids-get-grip",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-14T10:23:27.191855"
+  },
+  {
+    "title": "Dell Alienware AW3426DW Review: The New Ultrawide OLED to Beat",
+    "summary": "Dell's Alienware AW3426DW combines a refined 34-inch 280Hz QD-OLED panel with better text clarity, brighter HDR, and a lower price, making it the new ultrawide OLED to beat. Read Entire Article",
+    "link": "https://www.techspot.com/review/3145-dell-alienware-aw3426dw/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-14T10:23:27.192036"
+  },
+  {
+    "title": "Apple's iOS 27 public beta arrives with Siri AI, faster app launches, and more",
+    "summary": "Users can now preview this year's new Apple features, including AI enhancements for Siri, through the company's beta software program. However, due to RAM requirements, some AI features remain limited to the latest iPhone and iPad models. Read Entire Article",
+    "link": "https://www.techspot.com/news/113101-apple-ios-27-public-beta-arrives-siri-ai.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-14T10:23:27.192133"
+  },
+  {
+    "title": "Zimbra patched a flaw that let hackers hijack accounts just by sending an email",
+    "summary": "Zimbra owner Synacor has released a new version of its collaboration software, and users should install the update as soon as they can. Zimbra \"Daffodil\" 10.1.19 includes a fix for a stored cross-site scripting (XSS) vulnerability that could be exploited to compromise customers' machines through Zimbra's Classic Web Client. Read Entire Article",
+    "link": "https://www.techspot.com/news/113097-zimbra-patched-flaw-hackers-hijack-accounts-sending-email.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-14T10:23:27.192230"
+  },
+  {
+    "title": "This GE Appliances plant couldn't keep workers until it built an app, like an Uber for factory work",
+    "summary": "The employees log in to an app and choose when to work, signing up for four-hour blocks that fit their schedules. In a typical week, roughly half the pool around 450 workers pick up shifts, averaging about 24 hours. Read Entire Article",
+    "link": "https://www.techspot.com/news/113084-ge-appliances-replacing-fixed-factory-shifts-app-workers.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.192317"
+  },
+  {
+    "title": "Firefox is switching to a faster release schedule, just like Chrome and Edge",
+    "summary": "Mozilla Director Sylvestre Ledru confirmed that Firefox will soon adopt a faster release cadence, but said the accelerated release schedule should be considered an \"experiment\" for now. The final monthly release will be Firefox 154, which is currently scheduled for August 18. After that, Firefox 155 will arrive on September... Read Entire Article",
+    "link": "https://www.techspot.com/news/113091-firefox-switching-faster-release-schedule-like-chrome-edge.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.192417"
+  },
+  {
+    "title": "Apple is reportedly skipping M6 Pro, Max, and Ultra chips to fast-track AI-focused M7 Macs",
+    "summary": "This fall's Macs are still expected to debut with a base M6 chip. Under Apple's traditional release pattern, that chip would be followed by M6 Pro and M6 Max variants for higher-end laptops, along with an M6 Ultra for desktop-class machines. Read Entire Article",
+    "link": "https://www.techspot.com/news/113085-apple-next-big-mac-leap-could-skip-m6.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.192512"
+  },
+  {
+    "title": "SK Hynix predicts memory crunch will peak in 2027 and continue through 2030",
+    "summary": "Speaking with the publication, Noh-Jung said SK Hynix is doing their best to solve the problem but acknowledged it'll be an uphill battle. \"Our customer demand continues to go up, while our capacity has limitations,\" he said. With no slowdown excepted on the AI front anytime soon, demand for memory... Read Entire Article",
+    "link": "https://www.techspot.com/news/113095-sk-hynix-predicts-memory-crunch-peak-2027-continue.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.192603"
+  },
+  {
+    "title": "Claude's new Reflect feature is Spotify Wrapped for your AI habits",
+    "summary": "Claude now has its own take on Spotify Wrapped , only instead of exposing your questionable music taste, Reflect shows how you use AI. The beta dashboard summarizes up to 12 months of topics, activity patterns, and common tasks. Check out Reflect using the the Claude desktop app for Windows or macOS. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7833-claude-desktop-app.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.192696"
+  },
+  {
+    "title": "New York hospital replaces 12 nurses with AI, prompting warnings over patient care dangers",
+    "summary": "According to the New York State Nurses Association (NYSNA), the layoffs, made by the Montefiore Medical Center in the Bronx, were a direct result of the AI-powered software provided by Datavant. Montefiore described it as a nonclinical program that helps facilitate the paperwork process. Read Entire Article",
+    "link": "https://www.techspot.com/news/113092-new-york-hospital-replaces-12-nurses-ai-prompting.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.192792"
+  },
+  {
+    "title": "PeaZip 11.2.0 brings quality-of-life improvements across the app",
+    "summary": "PeaZip adds a new F12 function picker, better keyboard shortcuts, smoother drag-and-drop, and improved file manager auto-refresh. The release also expands support to 243 file extensions, including ZIM files used for Wikipedia data dumps. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/4849-peazip.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.192881"
+  },
+  {
+    "title": "TSMC posts blowout $39 billion quarter, raising the same old AI question: is this sustainable?",
+    "summary": "TSMC sits at the center of that buildout. The company manufactures many of the world's most advanced chips used in AI data centers, including processors designed by Nvidia and Apple. As tech companies race to expand their data center capacity, demand for those chips has remained robust. Read Entire Article",
+    "link": "https://www.techspot.com/news/113089-tsmc-posts-396-billion-quarter-ai-boom-drives.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.192987"
+  },
+  {
+    "title": "ChatGPT Atlas lasted less than a year, but AI browser alternatives remain",
+    "summary": "OpenAI will pull the plug on ChatGPT Atlas next month , less than a year after launch. Curious Mac users can still download it for one last look, but for an AI browser with an actual future, try Perplexity's Comet or Opera , both offer tools for summarizing pages, answering questions, and helping you navigate the web. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7801-openai-atlas.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.193104"
+  },
+  {
+    "title": "Swedish startup unveils foot-long drone-killing interceptor that can exceed 220 mph",
+    "summary": "Stockholm-based Nordic Air Defence publicly showed off the K100XR for the first time during a recent Demo Day. Journalists watched the counter-drone system detect, chase, and engage target aircraft in real time. Read Entire Article",
+    "link": "https://www.techspot.com/news/113090-swedish-startup-unveils-foot-long-drone-killing-interceptor.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.193195"
+  },
+  {
+    "title": "An abandoned IBM campus became a TikTok sensation, now it's a magnet for trespassers",
+    "summary": "What used to be a tightly managed corporate site is now showing up in short clips on TikTok and Instagram, where users post footage of empty offices, scattered furniture, and the campus's distinctive pyramid structures. The site has become a magnet for so-called urban explorers, or \"urbex\" enthusiasts, and social... Read Entire Article",
+    "link": "https://www.techspot.com/news/113083-abandoned-ibm-campus-became-tiktok-sensation-now-magnet.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.193291"
+  },
+  {
+    "title": "EU says it can't stop Sony from ending physical PlayStation game releases",
+    "summary": "Michael McGrath, the European Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection, was asked whether the bloc could intervene in Sony's controversial move toward an all-digital future. Read Entire Article",
+    "link": "https://www.techspot.com/news/113088-eu-cant-stop-sony-ending-physical-playstation-game.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-14T10:23:27.193379"
   }
 ]

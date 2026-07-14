@@ -1,95 +1,135 @@
 # 💻 Hardware
-**Week of July 13, 2026**
+**Week of July 14, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-07-13 11:43
+- **Articles this week:** 12
+- **Report generated:** 2026-07-14 10:24
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board ⭐
+### 1. Cooler Master HAF II 500 Case Review: New HAF delivers on its name, with impressive airflow and a roomy chassis ⭐
 
-Brechel Electronic has launched two new Single Pair Ethernet (SPE) expansion boards for Raspberry Pi, providing 10 Mbit/s Ethernet communication over a single twisted pair. The boards, BE-IIS-HPP-T1S and BE-IIS-HPP-T1L, cater to industrial network prototyping, educational laboratory use, and technology evaluation. They support distances up to 25 meters and longer-reach point-to-point links.
+The Cooler Master HAF II 500 offers excellent airflow and solid thermal performance, making it an attractive option for PC builders seeking a roomy and quiet case. Its massive 220mm fans provide efficient cooling, and the spacious interior allows for flexible building options. The case is priced competitively at around $200.
 
-💡 *Enabling industrial network prototyping on Raspberry Pi platforms seamlessly*
+💡 *High airflow efficiency at an affordable price range matters.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/)
-
----
-
-### 2. Cooler Master MWE Gold 750 V4 power supply review: Verified Gold efficiency with mainstream pricing 
-
-The Cooler Master MWE Gold 750 V4 offers verified Gold efficiency at a mainstream price, a compact 140 mm chassis, and features like native 12V-2x6 connector and GPU Shield current monitoring.
-
-💡 *Affordable high-efficiency power supplies become more accessible to consumers.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-gold-750-v4-power-supply-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/cooler-master-haf-ii-500-case-review)
 
 ---
 
-### 3. WisMesh Station Review Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway 
+### 2. Intel's new space-grade Starfire chip is a Panther Lake SoC that puts an 18A CPU into orbit chip designed for the US government leverages Intel 3 for the GPU 
 
-This review tests the WisMesh Station, a Raspberry Pi-based Meshtastic gateway, using MQTT, Node-RED, InfluxDB, and Grafana for data storage and visualization.
+Intel's Starfire chip is a space-grade SoC for the U.S. government, featuring an 18A CPU and leveraging Intel 3 for the GPU.
 
-💡 *Raspberry Pi enables affordable, versatile IoT gateway solutions for various applications.*
+💡 *Advancing space exploration with high-performance U.S. government-grade technology developed.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/13/wismesh-station-review-telemetry-mqtt-and-grafana-tested-on-a-raspberry-pi-4-based-meshtastic-gateway/)
-
----
-
-### 4. A tiny London startup built a CUDA compiler that reportedly beats AMD's own tools on AMD hardware 
-
-Spectral Compute, a London startup, developed a CUDA compiler outperforming AMD's tools on AMD hardware. Founded in 2018 by four experienced engineers, the effort aimed to address frustration with Nvidia GPU costs and alternative compiler performance. The compiler's success has significant implications for the HPC industry.
-
-💡 *Disrupting Nvidia's dominance in HPC with AMD-compatible CUDA compiler.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113081-tiny-london-startup-built-cuda-compiler-reportedly-beats.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-shows-off-starfire-space-grade-chip)
 
 ---
 
-### 5. Save $544 on a new RTX 5080-packed Cyberpower gaming PC also features AMD's 9800X3D, 32GB of DDR5 RAM, and a 2TB SSD for $2,744 
+### 3. Meet Moddo Pinch The world s smallest 32-bit Arduino-compatible board (2026 Edition) 
 
-Get a high-powered gaming PC with RTX 5080, Ryzen 7 9800X3D, and 32GB of DDR5 RAM for $2,744, saving $544.
+Moddo's Pinch is a 10.9 x 10.5 mm 32-bit Arduino-compatible board with a Microchip SAMD11 MCU and features like USB-C, RGB LED, and 12 GPIOs.
 
-💡 *High-performance gaming at a discounted price point for enthusiasts.*
+💡 *Miniaturization enables compact, low-power IoT applications and wearables.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd544-on-a-new-rtx-5080-packed-cyberpower-gaming-pc-also-features-amds-9800x3d-32gb-of-ddr5-ram-and-a-2tb-ssd-for-usd2-744)
-
----
-
-### 6. Lenovo's Legion 7a gaming laptop now comes with an RTX 5070 12GB GPU option but it costs $3,375 paired with a Ryzen AI 9 CPU, SKU was previously limited to RTX 5060 
-
-Lenovo's Legion 7a gaming laptop now offers an RTX 5070 12GB GPU option, priced at $3,375, alongside a Ryzen AI 9 CPU, providing an upgraded gaming experience.
-
-💡 *Premium gaming experience with upgraded RTX 5070 and Ryzen AI 9 CPU.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/lenovos-legion-7a-gaming-laptop-now-comes-with-an-rtx-5070-12gb-gpu-option-but-it-costs-usd3-375-paired-with-a-ryzen-ai-9-cpu-sku-was-previously-limited-to-rtx-5060)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/14/meet-moddo-pinch-the-world-smallest-arduino-compatible-board-2026-edition/)
 
 ---
 
-### 7. Ireland s data centers consumed nearly as much electricity as every home in the country combined in 2025 server farms gulped 23% of national power despite years of grid restrictions 
+### 4. IoTLabs wM-Bus gateway An ESP32 device with Wireless M-Bus connectivity for Home Assistant 
 
-Ireland's data centers consumed 23% of the country's electricity in 2025, a 10% increase from the previous year, despite grid restrictions.
+IoTLabs wM-Bus gateway is an ESP32 device that integrates Wireless M-Bus connectivity for seamless data reception from smart meters and sensors, designed for Home Assistant integration. It features a 1.3-inch OLED display for live measurements and supports T1 and C1 frames. The device includes Wi-Fi, BLE, and 868 MHz radio receiver capabilities.
 
-💡 *Rapid growth in data centers overwhelms Ireland's electricity infrastructure.*
+💡 *Wireless M-Bus connectivity enables smart home energy monitoring and automation*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/)
 
 ---
 
-### 8. Samsung is building a dedicated AI chip for PCs, and HP and Lenovo are already testing it 
+### 5. Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery 
 
-Samsung is developing a dedicated AI chip, GAIA, for PCs, with HP and Lenovo testing it.
+The Ambient Scientific GPX10 Pro MCU offers a low-power solution for AI applications, enabling years of always-on operation on a coin-cell battery. It features ten programmable AI cores, ultra-low power ADC, and an Arm Cortex-M4F core for non-AI workloads. This SoC is suitable for power-constrained edge devices.
 
-💡 *Enhanced AI performance and efficiency in PCs*
+💡 *Low-power AI processing extends battery life in edge devices.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113074-samsung-building-dedicated-ai-chip-pcs-hp-lenovo.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/)
+
+---
+
+### 6. Dell Alienware AW3426DW Review: The New Ultrawide OLED to Beat 
+
+Dell's Alienware AW3426DW is a refined ultrawide OLED monitor with improved features and lower price.
+
+💡 *Innovative QD-OLED panel offers brighter HDR and improved text clarity.*
+
+🔗 [Read Full Article](https://www.techspot.com/review/3145-dell-alienware-aw3426dw/)
+
+---
+
+### 7. Boutique DIY Hi-Fi solution lets you repurpose your old IDE optical drives as a standalone audio player $190 CD-ROM Player 01 features a laser-cut enclosure and a custom PCB 
+
+The $190 CD-ROM Player 01 is a unique DIY audio solution that repurposes old IDE optical drives into standalone audio players, featuring a stylish laser-cut enclosure and custom PCB.
+
+💡 *Reduces electronic waste through creative repurposing of outdated devices.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/enclosures/boutique-diy-hi-fi-solution-lets-you-repurpose-your-old-ide-optical-drives-as-a-standalone-audio-player-usd190-cd-rom-player-01-features-a-laser-cut-enclosure-and-a-custom-pcb)
+
+---
+
+### 8. Upcoming MSI Afterburner update adds heatmap to V/F curve editor to show your GPU's boosting behavior new feature shoots for better overclocks with more data 
+
+A new heatmap in MSI Afterburner's V/F curve editor displays boosting behavior, helping with overclock optimization.
+
+💡 *Better overclocks through real-world GPU boosting behavior visualization available.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/upcoming-msi-afterburner-update-adds-heatmap-to-v-f-curve-editor-to-show-your-gpus-boosting-behavior-new-feature-shoots-for-better-overclocks-with-more-data)
+
+---
+
+### 9. Flashforge Creator 5 review: Basic and affordable tool changer 
+
+The Flashforge Creator 5 tool changer is a basic yet effective solution for budget-conscious 3D printing enthusiasts. It offers a nearly perfect balance of affordability and functionality. This device makes 3D printing more accessible to newcomers and hobbyists.
+
+💡 *Budget-friendly tool changer for accessible 3D printing solutions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/flashforge-creator-5-review)
+
+---
+
+### 10. Apple is reportedly skipping M6 Pro, Max, and Ultra chips to fast-track AI-focused M7 Macs 
+
+Apple is reportedly skipping M6 Pro and Max variants to focus on M7 Macs for AI capabilities this fall, with M6 chips still expected for base Macs.
+
+💡 *Apple prioritizes AI-focused M7 Macs over high-end chip variants*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113085-apple-next-big-mac-leap-could-skip-m6.html)
+
+---
+
+### 11. Claude's new Reflect feature is Spotify Wrapped for your AI habits 
+
+Claude's Reflect feature offers a personalized dashboard showcasing AI usage habits, including topics, activity patterns, and common tasks, all summarized over up to 12 months. This beta feature is accessible through the Claude desktop app on Windows or macOS. Users can gain valuable insights into their AI interactions.
+
+💡 *Unlocking AI habits for personal growth and optimization*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7833-claude-desktop-app.html)
+
+---
+
+### 12. PeaZip 11.2.0 brings quality-of-life improvements across the app 
+
+PeaZip 11.2.0 introduces quality-of-life improvements, including a new function picker and smoother drag-and-drop. The update also expands support to 243 file extensions. This release enhances overall user experience.
+
+💡 *Enhanced user experience through improved functionality and support*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/4849-peazip.html)
 
 ---
 
