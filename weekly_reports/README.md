@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 14, 2026**
+**Week of July 15, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Researchers create programmable material that can steer heat and remember its state without power breakthrough could eventually aid AI chip cooling and silicon photonics ⭐
-
-**🤖 AI & ML**
-
-Researchers created a programmable thermal material that steers heat without power, benefiting AI chips and other technologies.
-
-💡 **Key Point:** Breakthrough could revolutionize heat management in high-performance computing devices.
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics)
-
----
-
-### 2. Cooler Master HAF II 500 Case Review: New HAF delivers on its name, with impressive airflow and a roomy chassis ⭐
-
-**🤖 AI & ML**
-
-The Cooler Master HAF II 500 offers excellent airflow and solid thermal performance, making it an attractive option for PC builders seeking a roomy and quiet case. Its massive 220mm fans provide efficient cooling, and the spacious interior allows for flexible building options. The case is priced competitively at around $200.
-
-💡 **Key Point:** High airflow efficiency at an affordable price range matters.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/pc-cases/cooler-master-haf-ii-500-case-review)
-
----
-
-### 3. Researchers create programmable material that can steer heat and remember its state without power breakthrough could eventually aid AI chip cooling and silicon photonics ⭐
-
-**⚡ Semiconductors**
-
-Researchers created a programmable thermal material that steers heat without power, benefiting AI chips and other technologies.
-
-💡 **Key Point:** Breakthrough could revolutionize heat management in high-performance computing devices.
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics)
-
----
-
-### 4. Cooler Master HAF II 500 Case Review: New HAF delivers on its name, with impressive airflow and a roomy chassis ⭐
+### 1. Samsung launches new SSD 990: reviews praise the performance, question the price ⭐
 
 **💻 Hardware**
 
-The Cooler Master HAF II 500 offers excellent airflow and solid thermal performance, making it an attractive option for PC builders seeking a roomy and quiet case. Its massive 220mm fans provide efficient cooling, and the spacious interior allows for flexible building options. The case is priced competitively at around $200.
+Samsung's new SSD 990 offers improved performance but faces pricing concerns.
 
-💡 **Key Point:** High airflow efficiency at an affordable price range matters.
+💡 **Key Point:** Expensive launch price may impact consumer adoption and market share.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/pc-cases/cooler-master-haf-ii-500-case-review)
+🔗 [Read More](https://www.techspot.com/products/storage/samsung-990-ssd.328239/)
 
 ---
 
-### 5. Dell Alienware AW3426DW Review: The New Ultrawide OLED to Beat 
+### 2. Samsung launches new SSD 990: reviews praise the performance, question the price ⭐
 
 **📰 Tech News**
 
-Dell's Alienware AW3426DW is a refined ultrawide OLED monitor with improved features and lower price.
+Samsung's new SSD 990 offers improved performance but faces pricing concerns.
 
-💡 **Key Point:** Innovative QD-OLED panel offers brighter HDR and improved text clarity.
+💡 **Key Point:** Expensive launch price may impact consumer adoption and market share.
 
-🔗 [Read More](https://www.techspot.com/review/3145-dell-alienware-aw3426dw/)
+🔗 [Read More](https://www.techspot.com/products/storage/samsung-990-ssd.328239/)
+
+---
+
+### 3. Razer Blade 16 (2026) review: Competitive gaming performance and class-leading endurance ⭐
+
+**💻 Hardware**
+
+The Razer Blade 16 offers exceptional gaming performance and impressive battery life. With a nearly $5,000 price tag, it is a significant investment. For serious gamers, this laptop delivers top-notch results.
+
+💡 **Key Point:** High-end gaming laptops now prioritize endurance and performance equally.
+
+🔗 [Read More](https://www.tomshardware.com/laptops/gaming-laptops/razer-blade-16-2026-review)
+
+---
+
+### 4. $50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor ⭐
+
+**💻 Hardware**
+
+The Forgix board combines Raspberry Pi RP2354 MCU and Efinix Trion T8 FPGA in a Teensy form factor, offering a unique platform for development and prototyping.
+
+💡 **Key Point:** Unique combination of MCU and FPGA in a compact, affordable board.
+
+🔗 [Read More](https://www.cnx-software.com/2026/07/14/50-forgix-board-pairs-raspberry-pi-rp2354-mcu-with-trion-t8-fpga-in-teensy-form-factor/)
+
+---
+
+### 5. The studio behind MindsEye is flying fans in for playtests, all while laid-off workers protested outside ⭐
+
+**🤖 AI & ML**
+
+The studio behind MindsEye invited fans to playtests in Scotland with flights and accommodations covered.
+
+💡 **Key Point:** Company engages with community through targeted and inclusive playtesting opportunities.
+
+🔗 [Read More](https://www.techspot.com/news/113108-laid-off-mindseye-workers-picket-studio-after-flies.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **54 articles** across **5 focused categories**.
+We covered **56 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 17 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 12 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 8 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 14 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 23 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 15 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 17 articles
+*Artificial Intelligence and Machine Learning* — 23 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 3 articles
+*Graphics cards and compute accelerators* — 7 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 12 articles
+*Computing hardware and development boards* — 15 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 8 articles
+*Chip manufacturing and design* — 5 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 14 articles
+*Industry news and product launches* — 6 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-07-14 at 10:24 by an autonomous AI curation system.
+Generated 2026-07-15 at 10:28 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

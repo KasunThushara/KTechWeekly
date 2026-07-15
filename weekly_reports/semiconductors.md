@@ -1,95 +1,65 @@
 # ⚡ Semiconductors
-**Week of July 14, 2026**
+**Week of July 15, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-07-14 10:24
+- **Articles this week:** 5
+- **Report generated:** 2026-07-15 10:28
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Researchers create programmable material that can steer heat and remember its state without power breakthrough could eventually aid AI chip cooling and silicon photonics ⭐
+### 1. $50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor ⭐
 
-Researchers created a programmable thermal material that steers heat without power, benefiting AI chips and other technologies.
+The Forgix board combines Raspberry Pi RP2354 MCU and Efinix Trion T8 FPGA in a Teensy form factor, offering a unique platform for development and prototyping.
 
-💡 *Breakthrough could revolutionize heat management in high-performance computing devices.*
+💡 *Unique combination of MCU and FPGA in a compact, affordable board.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics)
-
----
-
-### 2. Intel's new space-grade Starfire chip is a Panther Lake SoC that puts an 18A CPU into orbit chip designed for the US government leverages Intel 3 for the GPU 
-
-Intel's Starfire chip is a space-grade SoC for the U.S. government, featuring an 18A CPU and leveraging Intel 3 for the GPU.
-
-💡 *Advancing space exploration with high-performance U.S. government-grade technology developed.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-shows-off-starfire-space-grade-chip)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/14/50-forgix-board-pairs-raspberry-pi-rp2354-mcu-with-trion-t8-fpga-in-teensy-form-factor/)
 
 ---
 
-### 3. Meet Moddo Pinch The world s smallest 32-bit Arduino-compatible board (2026 Edition) 
+### 2. New York enacts one-year data center ban on projects larger than 50 megawatts first US state to implement moratorium; will also pursue repealing tax exemptions 
 
-Moddo's Pinch is a 10.9 x 10.5 mm 32-bit Arduino-compatible board with a Microchip SAMD11 MCU and features like USB-C, RGB LED, and 12 GPIOs.
+New York enacts a one-year moratorium on data centers over 50 MW, aiming to establish consistent standards and study environmental impacts. This pause will give the state time to create a Generic Environmental Impact Statement (GEIS). The move is part of a broader effort to reassess the tax exemptions provided to data centers.
 
-💡 *Miniaturization enables compact, low-power IoT applications and wearables.*
+💡 *Regulatory scrutiny of data centers gains momentum nationwide first.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/14/meet-moddo-pinch-the-world-smallest-arduino-compatible-board-2026-edition/)
-
----
-
-### 4. IoTLabs wM-Bus gateway An ESP32 device with Wireless M-Bus connectivity for Home Assistant 
-
-IoTLabs wM-Bus gateway is an ESP32 device that integrates Wireless M-Bus connectivity for seamless data reception from smart meters and sensors, designed for Home Assistant integration. It features a 1.3-inch OLED display for live measurements and supports T1 and C1 frames. The device includes Wi-Fi, BLE, and 868 MHz radio receiver capabilities.
-
-💡 *Wireless M-Bus connectivity enables smart home energy monitoring and automation*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/new-york-enacts-one-year-data-center-ban-on-projects-larger-than-50-megawatts-first-us-state-to-implement-moratorium-will-also-pursue-repealing-tax-exemptions)
 
 ---
 
-### 5. Tesla's AI5 with 2nm-class node tapes out at Samsung Foundry production starts soon, months after TSMC tape out 
+### 3. Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux 
 
-Tesla's AI5 processor with 2nm-class node has taped out at Samsung Foundry. This marks Samsung's entry into production for the AI5 processor, following TSMC's tape out. Production is set to begin soon.
+The open-source Rocket driver for mainline Linux now supports the Rockchip RK3576 NPU after reverse-engineering, thanks to Ga Hing Woo's efforts, which have delivered decent performance for object detection on the Radxa ROCK 4D with Linux 7.1-rc5.
 
-💡 *Samsung joins TSMC in AI5 production, expanding 2nm-class node opportunities*
+💡 *RK3576 NPU support expands open-source driver capabilities and performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/teslas-ai5-with-2nm-class-node-tapes-out-at-samsung-foundry-production-starts-soon-months-after-tsmc-tape-out)
-
----
-
-### 6. Micron commits $500 million to GlobalWafers' Texas wafer plant as it raises U.S. spending to $250 billion memory maker aims to manufacture 40% of DRAM in the US by 2035 
-
-Micron commits $500M to GlobalWafers' Texas plant, part of $250B US spending goal. The investment aims to manufacture 40% of DRAM in the US by 2035.
-
-💡 *Reducing reliance on foreign suppliers for critical semiconductor components.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/micron-commits-500-million-to-globalwafers-texas-wafer-plant-as-it-raises-us-spending-to-250-billion)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/)
 
 ---
 
-### 7. Meta expands colossal Hyperion AI supercluster plans to 5GW, pushes Louisiana investment past $50 billion as AI race accelerates says it plans to invest over $1 billion in local infrastructure improvements 
+### 4. China claims chip exports nearly doubled to $177 billion in the first half of 2026 as memory prices surged 96% year-on-year increase inflated by hikes 
 
-Meta expands Hyperion AI supercluster to 5GW, lifting Louisiana investment to $50 billion. This significant expansion aims to boost AI computing capacity. The company plans to invest $1 billion in local infrastructure improvements.
+China's chip exports surged to $177 billion in the first half of 2026 due to a 96% year-on-year increase in memory prices, driven by global demand for AI hardware.
 
-💡 *Rapidly increasing AI computing capacity fuels Meta's competitiveness and growth.*
+💡 *Rising AI demand fuels China's booming semiconductor export market.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-claims-chip-exports-nearly-doubled-to-177-billion-in-the-first-half-of-2026)
 
 ---
 
-### 8. TSMC posts blowout $39 billion quarter, raising the same old AI question: is this sustainable? 
+### 5. Intel invests $5.7 billion in Ireland fab aims to boost output of Xeon 6, next-gen Xeon products built on Intel 3 process 
 
-TSMC reports a record $39 billion quarter, driven by strong chip demand. The company manufactures advanced chips for AI data centers, including those designed by Nvidia and Apple. As tech companies expand their data center capacity, demand for these chips remains robust.
+Intel is investing $5.7 billion in its Irish fab to boost Xeon output.
 
-💡 *Robust chip demand fuels record quarter for TSMC's AI-focused manufacturing*
+💡 *Boosting Xeon supply to meet growing demand in the data center market*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113089-tsmc-posts-396-billion-quarter-ai-boom-drives.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-invests-usd5-7-billion-in-ireland-fab-aims-to-boost-output-of-xeon-6-next-gen-xeon-products-built-on-intel-3-process)
 
 ---
 

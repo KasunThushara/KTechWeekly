@@ -1,94 +1,4 @@
 {
-  "https://www.tomshardware.com/peripherals/webcams/razer-kiyo-v2-x-review": {
-    "title": "Razer Kiyo V2 X Review: Auto-focus for life",
-    "fingerprint": "8e0f4a652c3f61e3c125afcbbd3147dc",
-    "timestamp": 1781435780.107283,
-    "date": "2026-06-14T11:16:20.107288"
-  },
-  "https://www.tomshardware.com/video-games/console-gaming/hardcore-spongebob-speedrunners-smudged-xbox-optical-disks-to-exploit-lag-clip-trick-filthy-disks-smeared-with-grease-and-sweat-cut-gameplay-times-in-ultimate-pursuit-of-speed": {
-    "title": "Hardcore SpongeBob speedrunners smudged Xbox optical disks with sweat and grease to exploit 'lag clip' trick filthy smeared disks cut gameplay times in ultimate pursuit of speed",
-    "fingerprint": "7c951de50dd0be1ec86b7152452515a6",
-    "timestamp": 1781435780.107405,
-    "date": "2026-06-14T11:16:20.107405"
-  },
-  "https://www.tomshardware.com/desktops/gaming-pcs/save-usd500-on-this-beastly-gaming-rig-with-an-rtx-5060-ti-16gb-ryzen-7800x3d-and-32gb-of-ram-skytechs-desktop-gaming-pc-now-just-usd1-499": {
-    "title": "Save $500 on this beastly gaming rig with an RTX 5060 Ti 16GB, Ryzen 7800X3D, and 32GB of RAM Skytech's desktop gaming PC now just $1,499",
-    "fingerprint": "74e529cb6755d2bcd0ea1a9b3fa6a6af",
-    "timestamp": 1781435780.107524,
-    "date": "2026-06-14T11:16:20.107524"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-75-data-center-build-outs-worth-usd130-billion-have-been-successfully-blocked-in-the-first-four-months-of-2026-bipartisan-opposition-mounts-nationwide-over-fears-of-soaring-power-and-water-costs": {
-    "title": "More than 75 data center build-outs worth $130 billion have been successfully blocked in the first three months of 2026 bipartisan opposition mounts nationwide over fears of soaring power and water costs",
-    "fingerprint": "43aa1a32600b58e5c41804e3299719a3",
-    "timestamp": 1781435780.107667,
-    "date": "2026-06-14T11:16:20.107667"
-  },
-  "https://www.tomshardware.com/desktops/mini-pcs/amd-challenges-nvidias-dgx-spark-with-usd3-999-ryzen-ai-halo-with-windows-11-support-strix-halo-desktop-undercuts-nvidia-by-usd700-packs-128gb-of-unified-memory": {
-    "title": "AMD challenges Nvidia's DGX Spark with $3,999 Ryzen AI Halo with Windows 11 support Strix Halo desktop undercuts Nvidia by $700, packs 128GB of unified memory",
-    "fingerprint": "156937628dd6d1ccd2de8be32587324c",
-    "timestamp": 1781435780.107781,
-    "date": "2026-06-14T11:16:20.107782"
-  },
-  "https://www.tomshardware.com/networking/routers/netgear-countersues-tp-link-alleging-its-american-company-rebrand-is-false-advertising": {
-    "title": "Netgear countersues TP-Link, saying firm 'remains, at its core, a Chinese company selling Chinese-made products' alleges its 'American company' rebrand is false advertising",
-    "fingerprint": "2bda0a5d4f8d7e553c1aae83d624d159",
-    "timestamp": 1781435780.107886,
-    "date": "2026-06-14T11:16:20.107887"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/nvidia-raises-rtx-pro-6000-blackwell-gpu-pricing-to-usd13-250-55-percent-increase-over-msrp-in-a-years-time": {
-    "title": "Nvidia raises RTX Pro 6000 Blackwell GPU pricing to $13,250 55% increase over MSRP in a year's time",
-    "fingerprint": "1f077e9b3e44b4f750d0eaf21711d717",
-    "timestamp": 1781435780.107979,
-    "date": "2026-06-14T11:16:20.107980"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-spike-as-subscriptions-hit-pricing-wall-firms-turn-towards-chinese-llms-open-source-models-to-extend-budget": {
-    "title": "AI costs spike as subscriptions hit pricing wall firms turn towards Chinese LLMs, open-source models to extend budget",
-    "fingerprint": "88e407147206464ebcdd844fd542652d",
-    "timestamp": 1781435780.10809,
-    "date": "2026-06-14T11:16:20.108091"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-preparing-surprise-return-to-ddr4-systems-with-raptor-lake-next-ddr4-platform-slated-for-the-first-half-of-2027-on-the-lga-1700-socket-takes-a-page-from-amds-book-by-extending-budget-platform-longevity": {
-    "title": "Intel reportedly preparing surprise return to DDR4 systems with 'Raptor Lake Next' LGA 1700 platform apparently slated for first half of 2027, takes a page from AMD's book by extending budget platform longevity",
-    "fingerprint": "9159e182d886dcad569e087a6cce0aa4",
-    "timestamp": 1781435780.108189,
-    "date": "2026-06-14T11:16:20.108189"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-export-control-order-forces-anthropic-to-disable-claude-fable-5-and-mythos-5-worldwide": {
-    "title": "U.S. gov't orders Anthropic to disable its newest AI models worldwide due to security threats ban on Claude Fable 5 and Mythos 5 bars access by any foreign national, even its own employees",
-    "fingerprint": "fc6e780b2d5c562a97f85cdab60a909c",
-    "timestamp": 1781435780.108288,
-    "date": "2026-06-14T11:16:20.108289"
-  },
-  "https://www.cnx-software.com/2026/06/14/creality-sermoon-s1-review-part-3-3d-scanning-with-khadas-mind-2-and-nvidia-geforce-rtx-5060-ti-16gb-dock/": {
-    "title": "Creality Sermoon S1 review Part 3: 3D scanning with Khadas Mind 2 and NVIDIA GeForce RTX 5060 Ti 16GB dock",
-    "fingerprint": "2989d272a830f5db861d43329e4ec2b4",
-    "timestamp": 1781435780.108886,
-    "date": "2026-06-14T11:16:20.108887"
-  },
-  "https://www.techspot.com/news/112755-microsoft-rolls-out-shader-stutter-fix-xbox-app.html": {
-    "title": "Microsoft's shader stutter fix is now available for all AMD Radeon GPUs, Nvidia users have to wait",
-    "fingerprint": "4c848a3e4143f16e80337572ac7c2807",
-    "timestamp": 1781435780.110271,
-    "date": "2026-06-14T11:16:20.110273"
-  },
-  "https://www.techspot.com/news/112751-microsoft-president-ai-backlash-graduation-events-wake-up.html": {
-    "title": "Microsoft president says AI backlash at graduation events should be wake-up call for the tech industry",
-    "fingerprint": "12c947d3e536c1096cc9327901f125af",
-    "timestamp": 1781435780.110443,
-    "date": "2026-06-14T11:16:20.110444"
-  },
-  "https://www.techspot.com/news/112756-justice-department-seizes-websites-published-deepfake-nude-images.html": {
-    "title": "Justice Department seizes websites that published deepfake nudes of famous women",
-    "fingerprint": "f661af3598ede04a821850e0023fa48c",
-    "timestamp": 1781435780.110607,
-    "date": "2026-06-14T11:16:20.110609"
-  },
-  "https://www.techspot.com/news/112753-microsoft-may-consider-xbox-spin-off-or-joint.html": {
-    "title": "Microsoft may consider Xbox spin-off or joint venture as console business struggles",
-    "fingerprint": "5243e9997b474830f952581743cddec6",
-    "timestamp": 1781435780.110781,
-    "date": "2026-06-14T11:16:20.110782"
-  },
   "https://www.tomshardware.com/tech-industry/chinas-top-court-bars-infineon-from-selling-gan-power-chips-in-china": {
     "title": "China's supreme court bans Infineon from selling GaN power chips in China market-leader Innoscience secures major victory in multi-region patent war",
     "fingerprint": "35821abcbfd4a54bcac3181b8370e5df",
@@ -4966,5 +4876,221 @@
     "fingerprint": "79bcf7fd058144fdce1c670672d5b3be",
     "timestamp": 1784024607.193378,
     "date": "2026-07-14T10:23:27.193378"
+  },
+  "https://www.tomshardware.com/software/linux/developer-successfully-ports-linux-to-1994-sega-32x-genesis-and-megadrive-expansion-runs-open-source-os-on-paltry-23mhz-processors-and-256kb-of-ram": {
+    "title": "Developer successfully ports Linux to 1994 Sega 32X Genesis and MegaDrive expansion runs open-source OS on paltry 23MHz processors and 256KB of RAM",
+    "fingerprint": "6b326f9e38c470b15145b0f9d88ba813",
+    "timestamp": 1784111253.174988,
+    "date": "2026-07-15T10:27:33.174992"
+  },
+  "https://www.tomshardware.com/pc-components/sound-cards/legendary-gravis-ultrasound-sound-card-gets-new-open-source-clone-beavis-ultrasound-remake-includes-complete-kicad-schematics-pcb-layout-sample-rom-and-more": {
+    "title": "Legendary Gravis Ultrasound sound card gets new open-source clone Beavis Ultrasound remake includes complete KiCad schematics, PCB layout, sample ROM, and more",
+    "fingerprint": "e0fe288c6cad9189a65fdcb6c9ff7c01",
+    "timestamp": 1784111253.175129,
+    "date": "2026-07-15T10:27:33.175130"
+  },
+  "https://www.tomshardware.com/pc-components/dram/cxmt-close-to-matching-microns-memory-capacity-in-2026-research-claims-would-put-china-on-track-to-become-worlds-second-largest-dram-producer": {
+    "title": "CXMT close to matching Micron's memory capacity in 2026, research claims would put China on track to become world's second-largest DRAM producer",
+    "fingerprint": "1942fe25a6887eef12560b3ad36a9f2c",
+    "timestamp": 1784111253.175239,
+    "date": "2026-07-15T10:27:33.175239"
+  },
+  "https://www.tomshardware.com/tech-industry/drones/ukraines-55000-plywood-drone-flew-2500-km-and-shut-down-russias-largest-oil-refinery": {
+    "title": "Ukraine conducts record drone strike of 2,500km after 12-hour flight $55,000 unit made of plywood halts operations at Russia's largest gasoline producer",
+    "fingerprint": "84ce883460553a3901d2285a8723f9ba",
+    "timestamp": 1784111253.175344,
+    "date": "2026-07-15T10:27:33.175345"
+  },
+  "https://www.tomshardware.com/video-games/playstation/ps5-emulation-ramps-up-in-wake-of-sonys-end-to-physical-media-ps5-titles-now-booting-across-different-emulators-with-rapid-community-development-for-both-2d-and-3d-games": {
+    "title": "PS5 emulation ramps up in response to Sony killing physical games PS5 titles now booting across different emulators with rapid community development for both 2D and 3D games",
+    "fingerprint": "9f3dabe87a2902a84357bddc7e138636",
+    "timestamp": 1784111253.17546,
+    "date": "2026-07-15T10:27:33.175461"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-allows-chinese-telecom-giant-zte-to-purchase-nvidia-h200-ai-chips-firm-joins-alibaba-tencent-and-bytedance-in-access-to-hopper-tech": {
+    "title": "US gov't allows Chinese telecom giant ZTE to purchase Nvidia H200 AI chips firm joins Alibaba, Tencent, and ByteDance in access to Hopper tech",
+    "fingerprint": "20034741827e6ce25ea5db4a480c4df0",
+    "timestamp": 1784111253.175574,
+    "date": "2026-07-15T10:27:33.175575"
+  },
+  "https://www.tomshardware.com/pc-components/ssds/samsung-990-2tb-ssd-review": {
+    "title": "Samsung 990 2TB SSD Review: New flash, familiar speeds",
+    "fingerprint": "06ae3ada41e99ad1dd354d9599229ce8",
+    "timestamp": 1784111253.175673,
+    "date": "2026-07-15T10:27:33.175673"
+  },
+  "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-colossus-2-data-center-installed-59-natural-gas-turbines-without-permission-report-claims-thousands-of-tons-of-pollutants-reportedly-impact-black-communities-in-mississippi-already-suffering-from-elevated-lung-disease-rates": {
+    "title": "Elon Musk s Colossus 2 data center installed 59 natural gas turbines without permission, report claims thousands of tons of pollutants reportedly impact black communities in Mississippi already suffering from elevated lung disease rates",
+    "fingerprint": "0e4c461aeb20b989d8831d214170c499",
+    "timestamp": 1784111253.175789,
+    "date": "2026-07-15T10:27:33.175790"
+  },
+  "https://www.tomshardware.com/tech-industry/china-claims-chip-exports-nearly-doubled-to-177-billion-in-the-first-half-of-2026": {
+    "title": "China claims chip exports nearly doubled to $177 billion in the first half of 2026 as memory prices surged 96% year-on-year increase inflated by hikes",
+    "fingerprint": "c1a9015e22fed52c47bc7ee9615dda9b",
+    "timestamp": 1784111253.175893,
+    "date": "2026-07-15T10:27:33.175894"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/intel-invests-usd5-7-billion-in-ireland-fab-aims-to-boost-output-of-xeon-6-next-gen-xeon-products-built-on-intel-3-process": {
+    "title": "Intel invests $5.7 billion in Ireland fab aims to boost output of Xeon 6, next-gen Xeon products built on Intel 3 process",
+    "fingerprint": "f1cfabbd54789ef62dbf4274447d4355",
+    "timestamp": 1784111253.175997,
+    "date": "2026-07-15T10:27:33.175997"
+  },
+  "https://www.tomshardware.com/laptops/gaming-laptops/razer-blade-16-2026-review": {
+    "title": "Razer Blade 16 (2026) review: Competitive gaming performance and class-leading endurance",
+    "fingerprint": "388d37db03a31dc55cfa4b6f13090a62",
+    "timestamp": 1784111253.17611,
+    "date": "2026-07-15T10:27:33.176111"
+  },
+  "https://www.tomshardware.com/tech-industry/data-centers/new-york-enacts-one-year-data-center-ban-on-projects-larger-than-50-megawatts-first-us-state-to-implement-moratorium-will-also-pursue-repealing-tax-exemptions": {
+    "title": "New York enacts one-year data center ban on projects larger than 50 megawatts first US state to implement moratorium; will also pursue repealing tax exemptions",
+    "fingerprint": "592fb0c8f90664427a7a7af17b829c8e",
+    "timestamp": 1784111253.176233,
+    "date": "2026-07-15T10:27:33.176234"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/nvidia-slashes-list-of-authorized-customers-in-asia-in-a-bid-to-reduce-ai-chip-smuggling-report-claims-company-sent-field-inspectors-called-customers-to-check-if-business-is-genuine-after-pressure-from-washington": {
+    "title": "Nvidia slashes list of authorized customers in Asia in a bid to reduce AI chip smuggling, report claims company sent field inspectors, called customers to check if business is genuine after pressure from Washington",
+    "fingerprint": "3d5bf212778ff8c7c8ad114dd2373171",
+    "timestamp": 1784111253.176369,
+    "date": "2026-07-15T10:27:33.176369"
+  },
+  "https://www.tomshardware.com/speakers/drops-usd130-desktop-pc-speakers-are-now-just-usd23-save-a-massive-82-percent-on-these-dual-orientation-bmr1-v2-speakers": {
+    "title": "Drop's $130 desktop PC speakers are now just $23 save a massive 82% on these dual-orientation BMR1 V2 speakers",
+    "fingerprint": "0f221447194a114c50bff9061a970687",
+    "timestamp": 1784111253.176472,
+    "date": "2026-07-15T10:27:33.176473"
+  },
+  "https://www.tomshardware.com/video-games/nintendo/retro-nintendo-switch-2-dock-looks-exactly-like-the-nintendo-64-and-holds-six-game-cards-in-its-cartridge-slot-the-64bitdock-is-available-now-starting-at-usd89": {
+    "title": "Retro Nintendo Switch 2 dock looks exactly like the Nintendo 64 and holds six Game Cards in its cartridge slot the 64BITDOCK is available now starting at $89",
+    "fingerprint": "48480eeab356bacc4890113a567a68e8",
+    "timestamp": 1784111253.176573,
+    "date": "2026-07-15T10:27:33.176574"
+  },
+  "https://www.tomshardware.com/peripherals/controllers-gamepads/enthusiast-reverse-engineers-steam-controller-2-puck-creates-diy-openpuck-that-works-without-steam-input-custom-firmware-can-emulate-nintendo-playstation-and-xbox-controllers": {
+    "title": "Enthusiast reverse-engineers Steam Controller 2 puck, creates DIY 'OpenPuck' that works without Steam Input custom firmware can emulate Nintendo, PlayStation, and Xbox controllers",
+    "fingerprint": "2b47ecd6c1976693072d7aeb694aabe2",
+    "timestamp": 1784111253.176685,
+    "date": "2026-07-15T10:27:33.176685"
+  },
+  "https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/": {
+    "title": "Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux",
+    "fingerprint": "5dbd5c7bfc81616798395715ac73a5f3",
+    "timestamp": 1784111253.177184,
+    "date": "2026-07-15T10:27:33.177185"
+  },
+  "https://www.cnx-software.com/2026/07/14/50-forgix-board-pairs-raspberry-pi-rp2354-mcu-with-trion-t8-fpga-in-teensy-form-factor/": {
+    "title": "$50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor",
+    "fingerprint": "f996e7ff42b4ad00b28ed0577faca231",
+    "timestamp": 1784111253.177371,
+    "date": "2026-07-15T10:27:33.177371"
+  },
+  "https://www.fiercesensors.com/power-management/digikey-video-series-focuses-sustainable-futures": {
+    "title": "DigiKey video series focuses on Sustainable Futures",
+    "fingerprint": "c9edfe6a08bffdce204fd727ec889d61",
+    "timestamp": 1784111253.178317,
+    "date": "2026-07-15T10:27:33.178319"
+  },
+  "https://www.techspot.com/article/3147-amd-expo-ull-ultra-low-latency-memory/": {
+    "title": "Testing AMD's EXPO Ultra Low Latency Memory",
+    "fingerprint": "2eaf4e781f544b95bc4d59da949a9eff",
+    "timestamp": 1784111253.178601,
+    "date": "2026-07-15T10:27:33.178602"
+  },
+  "https://www.techspot.com/news/113116-softbank-boss-ai-revolution-cost-5-trillion-year.html": {
+    "title": "SoftBank boss says the AI revolution will cost $5 trillion a year, also, there's no bubble",
+    "fingerprint": "6cc5678378a164c24dc0b720ad79b5b1",
+    "timestamp": 1784111253.178714,
+    "date": "2026-07-15T10:27:33.178715"
+  },
+  "https://www.techspot.com/products/storage/samsung-990-ssd.328239/": {
+    "title": "Samsung launches new SSD 990: reviews praise the performance, question the price",
+    "fingerprint": "4bf45c69d1ad985f6b844128df3af008",
+    "timestamp": 1784111253.178825,
+    "date": "2026-07-15T10:27:33.178826"
+  },
+  "https://www.techspot.com/downloads/4596-hwmonitor.html": {
+    "title": "HWMonitor restores hotspot temperature monitoring for RTX 50 GPUs",
+    "fingerprint": "2be5c04b479a5e2c56e89377a02b39ed",
+    "timestamp": 1784111253.178936,
+    "date": "2026-07-15T10:27:33.178936"
+  },
+  "https://www.techspot.com/news/113115-blood-dawnwalker-director-delayed-next-gen-consoles-could.html": {
+    "title": "The Blood of Dawnwalker director says delayed next-gen consoles could benefit smaller studios",
+    "fingerprint": "617e12490edd9d4881c5cabd73ac0d56",
+    "timestamp": 1784111253.179045,
+    "date": "2026-07-15T10:27:33.179045"
+  },
+  "https://www.techspot.com/news/113106-windows-search-getting-cleanup-users-have-wanted-years.html": {
+    "title": "Windows Search is getting the cleanup users have wanted for years (more like decades)",
+    "fingerprint": "cf34dcac795cce1f25d370706c1a580e",
+    "timestamp": 1784111253.179171,
+    "date": "2026-07-15T10:27:33.179172"
+  },
+  "https://www.techspot.com/news/113114-christopher-nolan-believes-gen-z-push-back-against.html": {
+    "title": "Christopher Nolan believes Gen Z will push back against generative AI and its growing influence",
+    "fingerprint": "cd57d6bdd4a6a553afcba5b0928fba13",
+    "timestamp": 1784111253.179271,
+    "date": "2026-07-15T10:27:33.179272"
+  },
+  "https://www.techspot.com/news/113110-intel-starfire-soc-combines-18a-cpu-intel-3.html": {
+    "title": "Intel's Starfire SoC combines 18A CPU, Intel 3 GPU, and NPU for space-grade computing",
+    "fingerprint": "305d86ca35e206e71619f16eea7d9e30",
+    "timestamp": 1784111253.179387,
+    "date": "2026-07-15T10:27:33.179387"
+  },
+  "https://www.techspot.com/news/113100-china-courts-digital-game-items-inheritable-steam-west.html": {
+    "title": "China's courts say your digital game items are inheritable Steam and The West disagree",
+    "fingerprint": "67437ba88f80515a257c5d1364bfea8c",
+    "timestamp": 1784111253.1795,
+    "date": "2026-07-15T10:27:33.179500"
+  },
+  "https://www.techspot.com/news/113113-black-flag-resynced-smash-hit-but-51-ubisoft.html": {
+    "title": "Black Flag Resynced is a smash hit, but 51 Ubisoft Barcelona developers are still being laid off",
+    "fingerprint": "363682480f6ee2d0b955490754a44636",
+    "timestamp": 1784111253.179604,
+    "date": "2026-07-15T10:27:33.179604"
+  },
+  "https://www.techspot.com/news/113111-uchicago-law-bans-laptops-phones-first-year-students.html": {
+    "title": "UChicago Law bans laptops and phones for first-year students, mandates in-class exams starting this fall",
+    "fingerprint": "c207af3e8d0c527c1c069b644c17038d",
+    "timestamp": 1784111253.179713,
+    "date": "2026-07-15T10:27:33.179714"
+  },
+  "https://www.techspot.com/news/113099-gigawiper-malware-can-wipe-hard-drive-spy-you.html": {
+    "title": "GigaWiper malware can wipe your hard drive, spy on you, and stream your screen live",
+    "fingerprint": "08b1a9fb22aff2670921a05635498a2b",
+    "timestamp": 1784111253.179812,
+    "date": "2026-07-15T10:27:33.179813"
+  },
+  "https://www.techspot.com/news/113112-sega-virtua-racing-hits-pc-xbox-first-time.html": {
+    "title": "Sega's Virtua Racing hits PC and Xbox for the first time, with 8-player online",
+    "fingerprint": "77dc72c1a8948e2b8d80cabb5db9a274",
+    "timestamp": 1784111253.179912,
+    "date": "2026-07-15T10:27:33.179912"
+  },
+  "https://www.techspot.com/news/113104-amd-zen-6-epyc-chip-packs-256-cores.html": {
+    "title": "AMD's Zen 6 Epyc chip packs 256 cores, promises up to 1.7x faster AI",
+    "fingerprint": "38af0530a8c151ab5c7c480b58a1608c",
+    "timestamp": 1784111253.180015,
+    "date": "2026-07-15T10:27:33.180015"
+  },
+  "https://www.techspot.com/news/113109-oneplus-expected-announce-us-europe-exit-week-deepening.html": {
+    "title": "OnePlus could be exiting the US and European markets as soon as this week",
+    "fingerprint": "8ed3a346f72615a27469f9d2bd60113c",
+    "timestamp": 1784111253.180142,
+    "date": "2026-07-15T10:27:33.180143"
+  },
+  "https://www.techspot.com/news/113103-black-flag-resynced-hit-but-always-online-requirement.html": {
+    "title": "Black Flag Resynced is a hit, but its always-online requirement just proved it's not really offline",
+    "fingerprint": "d814f7cb62dd67884ec3f1f5d6462aab",
+    "timestamp": 1784111253.180259,
+    "date": "2026-07-15T10:27:33.180260"
+  },
+  "https://www.techspot.com/news/113108-laid-off-mindseye-workers-picket-studio-after-flies.html": {
+    "title": "The studio behind MindsEye is flying fans in for playtests, all while laid-off workers protested outside",
+    "fingerprint": "b48fee6ccee335574b67b2d768957e2c",
+    "timestamp": 1784111253.180374,
+    "date": "2026-07-15T10:27:33.180375"
   }
 }

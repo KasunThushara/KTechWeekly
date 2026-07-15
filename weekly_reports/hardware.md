@@ -1,135 +1,165 @@
 # 💻 Hardware
-**Week of July 14, 2026**
+**Week of July 15, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-07-14 10:24
+- **Articles this week:** 15
+- **Report generated:** 2026-07-15 10:28
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Cooler Master HAF II 500 Case Review: New HAF delivers on its name, with impressive airflow and a roomy chassis ⭐
+### 1. Samsung launches new SSD 990: reviews praise the performance, question the price ⭐
 
-The Cooler Master HAF II 500 offers excellent airflow and solid thermal performance, making it an attractive option for PC builders seeking a roomy and quiet case. Its massive 220mm fans provide efficient cooling, and the spacious interior allows for flexible building options. The case is priced competitively at around $200.
+Samsung's new SSD 990 offers improved performance but faces pricing concerns.
 
-💡 *High airflow efficiency at an affordable price range matters.*
+💡 *Expensive launch price may impact consumer adoption and market share.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/cooler-master-haf-ii-500-case-review)
-
----
-
-### 2. Intel's new space-grade Starfire chip is a Panther Lake SoC that puts an 18A CPU into orbit chip designed for the US government leverages Intel 3 for the GPU 
-
-Intel's Starfire chip is a space-grade SoC for the U.S. government, featuring an 18A CPU and leveraging Intel 3 for the GPU.
-
-💡 *Advancing space exploration with high-performance U.S. government-grade technology developed.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-shows-off-starfire-space-grade-chip)
+🔗 [Read Full Article](https://www.techspot.com/products/storage/samsung-990-ssd.328239/)
 
 ---
 
-### 3. Meet Moddo Pinch The world s smallest 32-bit Arduino-compatible board (2026 Edition) 
+### 2. Razer Blade 16 (2026) review: Competitive gaming performance and class-leading endurance ⭐
 
-Moddo's Pinch is a 10.9 x 10.5 mm 32-bit Arduino-compatible board with a Microchip SAMD11 MCU and features like USB-C, RGB LED, and 12 GPIOs.
+The Razer Blade 16 offers exceptional gaming performance and impressive battery life. With a nearly $5,000 price tag, it is a significant investment. For serious gamers, this laptop delivers top-notch results.
 
-💡 *Miniaturization enables compact, low-power IoT applications and wearables.*
+💡 *High-end gaming laptops now prioritize endurance and performance equally.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/14/meet-moddo-pinch-the-world-smallest-arduino-compatible-board-2026-edition/)
-
----
-
-### 4. IoTLabs wM-Bus gateway An ESP32 device with Wireless M-Bus connectivity for Home Assistant 
-
-IoTLabs wM-Bus gateway is an ESP32 device that integrates Wireless M-Bus connectivity for seamless data reception from smart meters and sensors, designed for Home Assistant integration. It features a 1.3-inch OLED display for live measurements and supports T1 and C1 frames. The device includes Wi-Fi, BLE, and 868 MHz radio receiver capabilities.
-
-💡 *Wireless M-Bus connectivity enables smart home energy monitoring and automation*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/razer-blade-16-2026-review)
 
 ---
 
-### 5. Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery 
+### 3. $50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor ⭐
 
-The Ambient Scientific GPX10 Pro MCU offers a low-power solution for AI applications, enabling years of always-on operation on a coin-cell battery. It features ten programmable AI cores, ultra-low power ADC, and an Arm Cortex-M4F core for non-AI workloads. This SoC is suitable for power-constrained edge devices.
+The Forgix board combines Raspberry Pi RP2354 MCU and Efinix Trion T8 FPGA in a Teensy form factor, offering a unique platform for development and prototyping.
 
-💡 *Low-power AI processing extends battery life in edge devices.*
+💡 *Unique combination of MCU and FPGA in a compact, affordable board.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/)
-
----
-
-### 6. Dell Alienware AW3426DW Review: The New Ultrawide OLED to Beat 
-
-Dell's Alienware AW3426DW is a refined ultrawide OLED monitor with improved features and lower price.
-
-💡 *Innovative QD-OLED panel offers brighter HDR and improved text clarity.*
-
-🔗 [Read Full Article](https://www.techspot.com/review/3145-dell-alienware-aw3426dw/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/14/50-forgix-board-pairs-raspberry-pi-rp2354-mcu-with-trion-t8-fpga-in-teensy-form-factor/)
 
 ---
 
-### 7. Boutique DIY Hi-Fi solution lets you repurpose your old IDE optical drives as a standalone audio player $190 CD-ROM Player 01 features a laser-cut enclosure and a custom PCB 
+### 4. PS5 emulation ramps up in response to Sony killing physical games PS5 titles now booting across different emulators with rapid community development for both 2D and 3D games 
 
-The $190 CD-ROM Player 01 is a unique DIY audio solution that repurposes old IDE optical drives into standalone audio players, featuring a stylish laser-cut enclosure and custom PCB.
+PS5 emulation has accelerated with SharpEmu and KytyPS5 receiving significant updates, enabling 2D and 3D game emulation on PC. The rapid community development has made it possible to run several PS5 games across different emulators. This shift may impact the gaming industry.
 
-💡 *Reduces electronic waste through creative repurposing of outdated devices.*
+💡 *PS5 emulation gains pace, threatening Sony's game sales model.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/enclosures/boutique-diy-hi-fi-solution-lets-you-repurpose-your-old-ide-optical-drives-as-a-standalone-audio-player-usd190-cd-rom-player-01-features-a-laser-cut-enclosure-and-a-custom-pcb)
-
----
-
-### 8. Upcoming MSI Afterburner update adds heatmap to V/F curve editor to show your GPU's boosting behavior new feature shoots for better overclocks with more data 
-
-A new heatmap in MSI Afterburner's V/F curve editor displays boosting behavior, helping with overclock optimization.
-
-💡 *Better overclocks through real-world GPU boosting behavior visualization available.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/upcoming-msi-afterburner-update-adds-heatmap-to-v-f-curve-editor-to-show-your-gpus-boosting-behavior-new-feature-shoots-for-better-overclocks-with-more-data)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/ps5-emulation-ramps-up-in-wake-of-sonys-end-to-physical-media-ps5-titles-now-booting-across-different-emulators-with-rapid-community-development-for-both-2d-and-3d-games)
 
 ---
 
-### 9. Flashforge Creator 5 review: Basic and affordable tool changer 
+### 5. Samsung 990 2TB SSD Review: New flash, familiar speeds 
 
-The Flashforge Creator 5 tool changer is a basic yet effective solution for budget-conscious 3D printing enthusiasts. It offers a nearly perfect balance of affordability and functionality. This device makes 3D printing more accessible to newcomers and hobbyists.
+The Samsung 990 2TB SSD offers newer flash but similar speeds to its predecessor, the 990 EVO Plus. Its power efficiency is mediocre. This storage device provides a familiar performance experience.
 
-💡 *Budget-friendly tool changer for accessible 3D printing solutions.*
+💡 *New flash doesn't necessarily mean significant performance upgrades.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/flashforge-creator-5-review)
-
----
-
-### 10. Apple is reportedly skipping M6 Pro, Max, and Ultra chips to fast-track AI-focused M7 Macs 
-
-Apple is reportedly skipping M6 Pro and Max variants to focus on M7 Macs for AI capabilities this fall, with M6 chips still expected for base Macs.
-
-💡 *Apple prioritizes AI-focused M7 Macs over high-end chip variants*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113085-apple-next-big-mac-leap-could-skip-m6.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/samsung-990-2tb-ssd-review)
 
 ---
 
-### 11. Claude's new Reflect feature is Spotify Wrapped for your AI habits 
+### 6. Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux 
 
-Claude's Reflect feature offers a personalized dashboard showcasing AI usage habits, including topics, activity patterns, and common tasks, all summarized over up to 12 months. This beta feature is accessible through the Claude desktop app on Windows or macOS. Users can gain valuable insights into their AI interactions.
+The open-source Rocket driver for mainline Linux now supports the Rockchip RK3576 NPU after reverse-engineering, thanks to Ga Hing Woo's efforts, which have delivered decent performance for object detection on the Radxa ROCK 4D with Linux 7.1-rc5.
 
-💡 *Unlocking AI habits for personal growth and optimization*
+💡 *RK3576 NPU support expands open-source driver capabilities and performance.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7833-claude-desktop-app.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/)
 
 ---
 
-### 12. PeaZip 11.2.0 brings quality-of-life improvements across the app 
+### 7. Intel's Starfire SoC combines 18A CPU, Intel 3 GPU, and NPU for space-grade computing 
 
-PeaZip 11.2.0 introduces quality-of-life improvements, including a new function picker and smoother drag-and-drop. The update also expands support to 243 file extensions. This release enhances overall user experience.
+Intel's Starfire SoC combines an 8-core 18A CPU with an Intel 3 GPU and NPU for space-grade computing, featuring separate performance and power efficiency models.
 
-💡 *Enhanced user experience through improved functionality and support*
+💡 *Advancements in space-grade computing for improved satellite and space exploration capabilities.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/4849-peazip.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113110-intel-starfire-soc-combines-18a-cpu-intel-3.html)
+
+---
+
+### 8. Developer successfully ports Linux to 1994 Sega 32X Genesis and MegaDrive expansion runs open-source OS on paltry 23MHz processors and 256KB of RAM 
+
+A developer successfully ported Linux to the 1994 Sega 32X, a 23MHz 256KB machine. This achievement showcases the adaptability of open-source operating systems. The port is a testament to the developer's technical expertise.
+
+💡 *Open-source OS can thrive on low-end hardware with sufficient expertise.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/developer-successfully-ports-linux-to-1994-sega-32x-genesis-and-megadrive-expansion-runs-open-source-os-on-paltry-23mhz-processors-and-256kb-of-ram)
+
+---
+
+### 9. Legendary Gravis Ultrasound sound card gets new open-source clone Beavis Ultrasound remake includes complete KiCad schematics, PCB layout, sample ROM, and more 
+
+The Beavis Ultrasound project is an open-source remake of the legendary Gravis Ultrasound ISA soundcard, featuring complete KiCad schematics, PCB layout, sample ROM, and more.
+
+💡 *Reviving retro tech for modern enthusiasts and developers to experiment with.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/sound-cards/legendary-gravis-ultrasound-sound-card-gets-new-open-source-clone-beavis-ultrasound-remake-includes-complete-kicad-schematics-pcb-layout-sample-rom-and-more)
+
+---
+
+### 10. Drop's $130 desktop PC speakers are now just $23 save a massive 82% on these dual-orientation BMR1 V2 speakers 
+
+Save 82% on Drop's BMR1 V2 speakers, now $23, for immersive desktop sound.
+
+💡 *Enhance your desktop audio experience with affordable high-quality speakers.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/speakers/drops-usd130-desktop-pc-speakers-are-now-just-usd23-save-a-massive-82-percent-on-these-dual-orientation-bmr1-v2-speakers)
+
+---
+
+### 11. Enthusiast reverse-engineers Steam Controller 2 puck, creates DIY 'OpenPuck' that works without Steam Input custom firmware can emulate Nintendo, PlayStation, and Xbox controllers 
+
+A DIY Steam Controller puck, OpenPuck, can emulate Xbox, PlayStation, and Switch controllers without Steam Input custom firmware, allowing users to bypass the need for Steam to be open in the background.
+
+💡 *Gaming flexibility without proprietary software dependencies.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/enthusiast-reverse-engineers-steam-controller-2-puck-creates-diy-openpuck-that-works-without-steam-input-custom-firmware-can-emulate-nintendo-playstation-and-xbox-controllers)
+
+---
+
+### 12. China's courts say your digital game items are inheritable Steam and The West disagree 
+
+China's courts recognize game account inheritability, differing from Steam's stance.
+
+💡 *In-game purchases raise questions about ownership and digital legacy rights.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113100-china-courts-digital-game-items-inheritable-steam-west.html)
+
+---
+
+### 13. UChicago Law bans laptops and phones for first-year students, mandates in-class exams starting this fall 
+
+The University of Chicago Law School bans laptops and phones for first-year students, mandating in-class exams starting this fall in response to AI disruptions in higher education.
+
+💡 *AI adoption forces law schools to adapt and innovate their education methods.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113111-uchicago-law-bans-laptops-phones-first-year-students.html)
+
+---
+
+### 14. Sega's Virtua Racing hits PC and Xbox for the first time, with 8-player online 
+
+Sega's Virtua Racing, a classic F1-style arcade racer, is now available on PC and Xbox with online multiplayer support for up to 8 players.
+
+💡 *Historic arcade game makes its PC and Xbox debut with online capabilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113112-sega-virtua-racing-hits-pc-xbox-first-time.html)
+
+---
+
+### 15. Black Flag Resynced is a hit, but its always-online requirement just proved it's not really offline 
+
+Assassin's Creed Black Flag Resynced became unplayable due to Ubisoft Connect outage, despite having offline mode.
+
+💡 *Always-online requirement undermines offline gaming experience promises.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113103-black-flag-resynced-hit-but-always-online-requirement.html)
 
 ---
 
