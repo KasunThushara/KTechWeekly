@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of July 15, 2026**
+**Week of July 16, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,59 +7,59 @@
 
 ## 📊 Summary
 - **Articles this week:** 5
-- **Report generated:** 2026-07-15 10:28
+- **Report generated:** 2026-07-16 10:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. $50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor ⭐
+### 1. 75% of all PS3 games reportedly now run on PC via open-source emulator RPCS3 announcement comes weeks after Sony's plan to shutter the PlayStation Store for PS3 and PS Vita by 
 
-The Forgix board combines Raspberry Pi RP2354 MCU and Efinix Trion T8 FPGA in a Teensy form factor, offering a unique platform for development and prototyping.
+The RPCS3 team has made significant progress with their open-source emulator, now allowing 75.33% of PS3 games to be played on Windows, Linux, macOS, and FreeBSD, a result of their efforts to ensure compatibility for over 2,600 titles.
 
-💡 *Unique combination of MCU and FPGA in a compact, affordable board.*
+💡 *Preserving gaming history and extending console lifespan digitally.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/14/50-forgix-board-pairs-raspberry-pi-rp2354-mcu-with-trion-t8-fpga-in-teensy-form-factor/)
-
----
-
-### 2. New York enacts one-year data center ban on projects larger than 50 megawatts first US state to implement moratorium; will also pursue repealing tax exemptions 
-
-New York enacts a one-year moratorium on data centers over 50 MW, aiming to establish consistent standards and study environmental impacts. This pause will give the state time to create a Generic Environmental Impact Statement (GEIS). The move is part of a broader effort to reassess the tax exemptions provided to data centers.
-
-💡 *Regulatory scrutiny of data centers gains momentum nationwide first.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/new-york-enacts-one-year-data-center-ban-on-projects-larger-than-50-megawatts-first-us-state-to-implement-moratorium-will-also-pursue-repealing-tax-exemptions)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/open-source-ps3-emulator-says-its-now-compatible-with-over-75-percent-of-all-ps3-games-on-pc-rpcs3-announcement-comes-weeks-after-sony-announced-the-shuttering-of-the-playstation-store-for-ps3-and-ps-vita-by-july-2027)
 
 ---
 
-### 3. Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux 
+### 2. Intel becomes the first company to ship high-volume logic chips made with ASML's High NA EUV select Panther Lake layers on 18A are now dual-qualified for 0.55 NA scanners 
 
-The open-source Rocket driver for mainline Linux now supports the Rockchip RK3576 NPU after reverse-engineering, thanks to Ga Hing Woo's efforts, which have delivered decent performance for object detection on the Radxa ROCK 4D with Linux 7.1-rc5.
+Intel has successfully used ASML's High-NA EUV tools in high-volume logic production, marking a significant milestone in the adoption of this technology. The company is patterning select Panther Lake layers using these tools. This achievement demonstrates the effectiveness of High-NA EUV in logic production.
 
-💡 *RK3576 NPU support expands open-source driver capabilities and performance.*
+💡 *Advances in EUV lithography enable smaller, more powerful chip designs*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/)
-
----
-
-### 4. China claims chip exports nearly doubled to $177 billion in the first half of 2026 as memory prices surged 96% year-on-year increase inflated by hikes 
-
-China's chip exports surged to $177 billion in the first half of 2026 due to a 96% year-on-year increase in memory prices, driven by global demand for AI hardware.
-
-💡 *Rising AI demand fuels China's booming semiconductor export market.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-claims-chip-exports-nearly-doubled-to-177-billion-in-the-first-half-of-2026)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-becomes-the-first-company-to-ship-high-volume-logic-chips-made-with-asmls-high-na-euv-select-panther-lake-layers-on-18a-are-now-dual-qualified-for-0-55-na-scanners)
 
 ---
 
-### 5. Intel invests $5.7 billion in Ireland fab aims to boost output of Xeon 6, next-gen Xeon products built on Intel 3 process 
+### 3. Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative 
 
-Intel is investing $5.7 billion in its Irish fab to boost Xeon output.
+Google reportedly chose Intel's EMIB-T over TSMC's CoWoS-L for its next-generation TPU.
 
-💡 *Boosting Xeon supply to meet growing demand in the data center market*
+💡 *Intel's EMIB-T gains competitive advantage in high-performance chip packaging*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-invests-usd5-7-billion-in-ireland-fab-aims-to-boost-output-of-xeon-6-next-gen-xeon-products-built-on-intel-3-process)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints-googles-reported-decision-for-9th-gen-tpus-highlights-intels-attractive-alternative)
+
+---
+
+### 4. pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter 
+
+pico-usb-wifi firmware transforms Raspberry Pi Pico W into a driverless USB WiFi adapter, enabling wireless connectivity on various operating systems through a transparent Layer-2 bridge. This adapter exposes an Ethernet connection over USB, allowing users to route Wi-Fi packets from the network. It supports IPv4 and IPv6 configurations, WPA2-PSK and WPA3-SAE authentication, and out-of-band management.
+
+💡 *Enables seamless wireless connectivity on multiple operating systems without drivers.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/)
+
+---
+
+### 5. The US just sanctioned a VPN for the first time, accusing it of helping ransomware gangs 
+
+The US has sanctioned a VPN service and its administrator, accusing them of assisting ransomware gangs. A second individual was also sanctioned for selling tools designed to disguise malware. The move marks the first time a VPN has been sanctioned by the US.
+
+💡 *US expands sanctions to target VPNs supporting cybercrime activities globally.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113129-us-treasury-sanctions-vpn-provider-administrator-first-time.html)
 
 ---
 

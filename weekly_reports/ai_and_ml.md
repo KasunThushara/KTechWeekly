@@ -1,245 +1,235 @@
 # 🤖 AI & ML
-**Week of July 15, 2026**
+**Week of July 16, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 23
-- **Report generated:** 2026-07-15 10:28
+- **Articles this week:** 22
+- **Report generated:** 2026-07-16 10:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. The studio behind MindsEye is flying fans in for playtests, all while laid-off workers protested outside ⭐
+### 1. OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding) 
 
-The studio behind MindsEye invited fans to playtests in Scotland with flights and accommodations covered.
+OpenInfrared Point is a universal remote hub powered by ESP32-S3, controlled via smartphone through QR code or NFC, supporting infrared, IP, and Bluetooth Low Energy device control.
 
-💡 *Company engages with community through targeted and inclusive playtesting opportunities.*
+💡 *Universal remote control via smartphone streamlines home device management.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113108-laid-off-mindseye-workers-picket-studio-after-flies.html)
-
----
-
-### 2. CXMT close to matching Micron's memory capacity in 2026, research claims would put China on track to become world's second-largest DRAM producer 
-
-CXMT is reportedly close to matching Micron's DRAM capacity, setting China on track to become the world's second-largest DRAM producer, surpassing South Korea.
-
-💡 *China's DRAM industry growth challenges South Korea's dominance.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/cxmt-close-to-matching-microns-memory-capacity-in-2026-research-claims-would-put-china-on-track-to-become-worlds-second-largest-dram-producer)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/)
 
 ---
 
-### 3. New York enacts one-year data center ban on projects larger than 50 megawatts first US state to implement moratorium; will also pursue repealing tax exemptions 
+### 2. Linus Torvalds tells anti-AI critics to fork Linux or walk away 
 
-New York enacts a one-year moratorium on data centers over 50 MW, aiming to establish consistent standards and study environmental impacts. This pause will give the state time to create a Generic Environmental Impact Statement (GEIS). The move is part of a broader effort to reassess the tax exemptions provided to data centers.
+Linus Torvalds firmly stands by AI integration in Linux development, prompting a fork or exit.
 
-💡 *Regulatory scrutiny of data centers gains momentum nationwide first.*
+💡 *Torvalds prioritizes AI integration as a core Linux development decision maker.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/new-york-enacts-one-year-data-center-ban-on-projects-larger-than-50-megawatts-first-us-state-to-implement-moratorium-will-also-pursue-repealing-tax-exemptions)
-
----
-
-### 4. Ukraine conducts record drone strike of 2,500km after 12-hour flight $55,000 unit made of plywood halts operations at Russia's largest gasoline producer 
-
-Ukraine's FP-1 drones flew 2,500km over 12 hours to strike Omsk refinery.
-
-💡 *Ukraine showcases long-range drone capabilities against strategic targets.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/ukraines-55000-plywood-drone-flew-2500-km-and-shut-down-russias-largest-oil-refinery)
+🔗 [Read Full Article](https://www.techspot.com/news/113138-linus-torvalds-tells-anti-ai-critics-fork-linux.html)
 
 ---
 
-### 5. US gov't allows Chinese telecom giant ZTE to purchase Nvidia H200 AI chips firm joins Alibaba, Tencent, and ByteDance in access to Hopper tech 
+### 3. IBM's stock just had its worst day since 1968 
 
-The US government has allowed ZTE to purchase restricted Nvidia H200 AI chips, but Chinese regulations may limit their impact.
+IBM's stock plummeted due to unexpected shortfalls in financial performance, partly attributed to reduced mainframe investments.
 
-💡 *US tech export controls compromise remain a concern for future sales*
+💡 *Decline in mainframe sales threatens IBM's legacy business model.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-allows-chinese-telecom-giant-zte-to-purchase-nvidia-h200-ai-chips-firm-joins-alibaba-tencent-and-bytedance-in-access-to-hopper-tech)
-
----
-
-### 6. Elon Musk s Colossus 2 data center installed 59 natural gas turbines without permission, report claims thousands of tons of pollutants reportedly impact black communities in Mississippi already suffering from elevated lung disease rates 
-
-Elon Musk's Colossus 2 data center installed 59 unpermitted natural gas turbines, allegedly emitting thousands of tons of pollutants. The surrounding communities, predominantly black, are already experiencing elevated lung disease rates. This has sparked a lawsuit and environmental concerns.
-
-💡 *Environmental injustice disproportionately affects vulnerable minority communities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/elon-musks-colossus-2-data-center-installed-59-natural-gas-turbines-without-permission-report-claims-thousands-of-tons-of-pollutants-reportedly-impact-black-communities-in-mississippi-already-suffering-from-elevated-lung-disease-rates)
+🔗 [Read Full Article](https://www.techspot.com/news/113120-ibm-warns-investors-ai-hardware-demand-hurting-mainframe.html)
 
 ---
 
-### 7. China claims chip exports nearly doubled to $177 billion in the first half of 2026 as memory prices surged 96% year-on-year increase inflated by hikes 
+### 4. Samsung introduces Flex Titanium, a new foldable screen tech with reduced creasing 
 
-China's chip exports surged to $177 billion in the first half of 2026 due to a 96% year-on-year increase in memory prices, driven by global demand for AI hardware.
+Samsung's Flex Titanium tech reduces creasing in foldable screens with a titanium-alloy film.
 
-💡 *Rising AI demand fuels China's booming semiconductor export market.*
+💡 *Improved durability boosts long-term usability of foldable devices.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/china-claims-chip-exports-nearly-doubled-to-177-billion-in-the-first-half-of-2026)
-
----
-
-### 8. Intel invests $5.7 billion in Ireland fab aims to boost output of Xeon 6, next-gen Xeon products built on Intel 3 process 
-
-Intel is investing $5.7 billion in its Irish fab to boost Xeon output.
-
-💡 *Boosting Xeon supply to meet growing demand in the data center market*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-invests-usd5-7-billion-in-ireland-fab-aims-to-boost-output-of-xeon-6-next-gen-xeon-products-built-on-intel-3-process)
+🔗 [Read Full Article](https://www.techspot.com/news/113131-samsung-introduces-flex-titanium-new-foldable-screen-tech.html)
 
 ---
 
-### 9. Nvidia slashes list of authorized customers in Asia in a bid to reduce AI chip smuggling, report claims company sent field inspectors, called customers to check if business is genuine after pressure from Washington 
+### 5. Ubisoft endured a review-bombing campaign, then made $1 million from Black Flag Resynced's controversial DLC 
 
-Nvidia has significantly reduced its authorized customer list in Asia to combat AI chip smuggling. The remaining clients have undergone stricter verification, including physical inspections and user interviews. This move comes after Washington's pressure.
+Ubisoft's Black Flag remake faced a review-bombing campaign for excessive DLC costs, but still managed to earn $1 million from one of its DLCs. The controversy led to a remake of the game. The combined cost of DLCs was higher than the game's price.
 
-💡 *Nvidia combats AI chip smuggling by verifying high-risk clients.*
+💡 *Controversy doesn't always deter players from buying expensive DLCs*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/nvidia-slashes-list-of-authorized-customers-in-asia-in-a-bid-to-reduce-ai-chip-smuggling-report-claims-company-sent-field-inspectors-called-customers-to-check-if-business-is-genuine-after-pressure-from-washington)
-
----
-
-### 10. Drop's $130 desktop PC speakers are now just $23 save a massive 82% on these dual-orientation BMR1 V2 speakers 
-
-Save 82% on Drop's BMR1 V2 speakers, now $23, for immersive desktop sound.
-
-💡 *Enhance your desktop audio experience with affordable high-quality speakers.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/speakers/drops-usd130-desktop-pc-speakers-are-now-just-usd23-save-a-massive-82-percent-on-these-dual-orientation-bmr1-v2-speakers)
+🔗 [Read Full Article](https://www.techspot.com/news/113130-ubisoft-endured-review-bombing-campaign-made-1-million.html)
 
 ---
 
-### 11. Retro Nintendo Switch 2 dock looks exactly like the Nintendo 64 and holds six Game Cards in its cartridge slot the 64BITDOCK is available now starting at $89 
+### 6. Ex-Sega engineer creates 'super realistic' CRT monitor emulator incredible retro offering even includes TV screen tapping to fix picture 
 
-The Retro Nintendo Switch 2 dock is designed to resemble the Nintendo 64, offering a nostalgic aesthetic. It can hold six Game Cards in its cartridge slot. The 64BITDOCK is available now starting at $89.
+A former Sega engineer has developed a CRT emulator with realistic visuals, including a feature that allows users to tap on the screen to simulate TV screen tapping, a common percussive maintenance technique used to adjust picture settings on older CRT monitors.
 
-💡 *Retro gaming meets modern convenience in nostalgic Nintendo 64-inspired design.*
+💡 *Retro gaming meets nostalgic accuracy with innovative emulation techniques.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/nintendo/retro-nintendo-switch-2-dock-looks-exactly-like-the-nintendo-64-and-holds-six-game-cards-in-its-cartridge-slot-the-64bitdock-is-available-now-starting-at-usd89)
-
----
-
-### 12. DigiKey video series focuses on Sustainable Futures 
-
-DigiKey, Analog, and Harlan collaborate on a video series highlighting the role of sensors and components in achieving sustainable futures through improved power efficiency. The series showcases innovations driving a massive shift towards environmentally conscious electronics. This initiative aims to empower creators and designers with knowledge and tools.
-
-💡 *Energy-efficient electronics reduce environmental impact and costs significantly.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/power-management/digikey-video-series-focuses-sustainable-futures)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/ex-sega-engineer-creates-super-realistic-crt-monitor-emulator-incredible-retro-offering-even-includes-tv-screen-tapping-to-fix-picture)
 
 ---
 
-### 13. SoftBank boss says the AI revolution will cost $5 trillion a year, also, there's no bubble 
+### 7. Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin company says that 'our roadmap is intact' 
 
-SoftBank's founder Masayoshi Son predicts $5 trillion annual AI spending, dismissing bubble fears.
+Nvidia's CEO promises to deliver 'giant amounts' of Vera Rubin machines, citing an intact roadmap. However, the company has yet to address rumored delays in Kyber NVL144 racks. The Vera Rubin-based machines are a key part of Nvidia's datacenter strategy.
 
-💡 *Massive AI investment to reshape global economy dramatically.*
+💡 *Nvidia's datacenter strategy hinges on Vera Rubin machines success*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113116-softbank-boss-ai-revolution-cost-5-trillion-year.html)
-
----
-
-### 14. HWMonitor restores hotspot temperature monitoring for RTX 50 GPUs 
-
-HWMonitor 1.65 restored hotspot temperature monitoring for RTX 50 GPUs, providing users with the hottest point on the GPU die temperature instead of just the average core temperature.
-
-💡 *Precision temperature tracking helps diagnose thermal issues on RTX 50 GPUs*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/4596-hwmonitor.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact)
 
 ---
 
-### 15. The Blood of Dawnwalker director says delayed next-gen consoles could benefit smaller studios 
+### 8. CXMT's DDR5 RAM isn't as performant or as consistent as SK hynix dies, early testing shows reveals resistance to voltage scaling and inferior manual overclocking capabilities 
 
-The Blood of Dawnwalker director believes delays in next-gen consoles could benefit small studios, allowing them to focus on optimizing their games for existing consoles.
+Asus claims CXMT-made DDR5 RAM is less performant and harder to overclock than SK Hynix-made RAM, with issues scaling with voltage and tuning subtimings.
 
-💡 *Delays give small studios a window to optimize for existing consoles.*
+💡 *CXMT DDR5 RAM's inferior performance affects gaming and high-end computing experiences.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113115-blood-dawnwalker-director-delayed-next-gen-consoles-could.html)
-
----
-
-### 16. Windows Search is getting the cleanup users have wanted for years (more like decades) 
-
-Windows Search is getting a long-overdue update, simplifying its home screen and removing unnecessary features.
-
-💡 *Simplifying search interface improves user experience and productivity significantly immediately.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113106-windows-search-getting-cleanup-users-have-wanted-years.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/cxmts-ddr5-ram-isnt-as-performant-or-as-consistent-as-sk-hynix-dies-early-testing-shows-reveals-resistance-to-voltage-scaling-and-inferior-manual-overclocking-capabilities)
 
 ---
 
-### 17. Christopher Nolan believes Gen Z will push back against generative AI and its growing influence 
+### 9. Intel becomes the first company to ship high-volume logic chips made with ASML's High NA EUV select Panther Lake layers on 18A are now dual-qualified for 0.55 NA scanners 
 
-Christopher Nolan expressed concerns about generative AI's growing influence on society, predicting that Gen Z will push back against it.
+Intel has successfully used ASML's High-NA EUV tools in high-volume logic production, marking a significant milestone in the adoption of this technology. The company is patterning select Panther Lake layers using these tools. This achievement demonstrates the effectiveness of High-NA EUV in logic production.
 
-💡 *Youthful rebellion may challenge AI's increasing presence in modern life.*
+💡 *Advances in EUV lithography enable smaller, more powerful chip designs*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113114-christopher-nolan-believes-gen-z-push-back-against.html)
-
----
-
-### 18. Black Flag Resynced is a smash hit, but 51 Ubisoft Barcelona developers are still being laid off 
-
-Ubisoft's new game Black Flag Resynced is a hit, but layoffs continue. 51 developers at Ubisoft Barcelona face layoffs, part of a larger wave of over 380 job cuts across the company. This includes offices in Winnipeg and Belgrade, as well as the global publishing division.
-
-💡 *Game success doesn't guarantee job security in the gaming industry.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113113-black-flag-resynced-smash-hit-but-51-ubisoft.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-becomes-the-first-company-to-ship-high-volume-logic-chips-made-with-asmls-high-na-euv-select-panther-lake-layers-on-18a-are-now-dual-qualified-for-0-55-na-scanners)
 
 ---
 
-### 19. UChicago Law bans laptops and phones for first-year students, mandates in-class exams starting this fall 
+### 10. Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative 
 
-The University of Chicago Law School bans laptops and phones for first-year students, mandating in-class exams starting this fall in response to AI disruptions in higher education.
+Google reportedly chose Intel's EMIB-T over TSMC's CoWoS-L for its next-generation TPU.
 
-💡 *AI adoption forces law schools to adapt and innovate their education methods.*
+💡 *Intel's EMIB-T gains competitive advantage in high-performance chip packaging*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113111-uchicago-law-bans-laptops-phones-first-year-students.html)
-
----
-
-### 20. Sega's Virtua Racing hits PC and Xbox for the first time, with 8-player online 
-
-Sega's Virtua Racing, a classic F1-style arcade racer, is now available on PC and Xbox with online multiplayer support for up to 8 players.
-
-💡 *Historic arcade game makes its PC and Xbox debut with online capabilities.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113112-sega-virtua-racing-hits-pc-xbox-first-time.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints-googles-reported-decision-for-9th-gen-tpus-highlights-intels-attractive-alternative)
 
 ---
 
-### 21. AMD's Zen 6 Epyc chip packs 256 cores, promises up to 1.7x faster AI 
+### 11. Palit officially announces RTX 3060 return with 'new' Infinity 2 OC launch 2021 GPU with 12GB of VRAM is an AI crisis stopgap 
 
-AMD's Zen 6 Epyc chip packs 256 cores, promising up to 1.7x faster AI performance.
+Nvidia has re-released the 5-year-old RTX 3060 with 12GB VRAM at $329, addressing memory concerns.
 
-💡 *Architectural changes drive speed gains over core count increase.*
+💡 *Re-released GPU offers temporary reprieve during AI-driven VRAM shortage crisis.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113104-amd-zen-6-epyc-chip-packs-256-cores.html)
-
----
-
-### 22. OnePlus could be exiting the US and European markets as soon as this week 
-
-OnePlus may exit US and European markets due to reported global withdrawal plans.
-
-💡 *OnePlus' market withdrawal could impact global smartphone sales dynamics significantly.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113109-oneplus-expected-announce-us-europe-exit-week-deepening.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/palit-officially-announces-rtx-3060-return-with-new-infinity-2-oc-launch-2021-gpu-with-12gb-of-vram-is-an-ai-crisis-stopgap)
 
 ---
 
-### 23. Black Flag Resynced is a hit, but its always-online requirement just proved it's not really offline 
+### 12. Best Buy has slashed $900 off this Asus 64GB 2-in-1 touchscreen gaming laptop $2,099 RoG Flow Z13 is great for both gaming and AI use 
 
-Assassin's Creed Black Flag Resynced became unplayable due to Ubisoft Connect outage, despite having offline mode.
+Save $900 on the Asus RoG Flow Z13, a versatile 2-in-1 gaming laptop/tablet.
 
-💡 *Always-online requirement undermines offline gaming experience promises.*
+💡 *Cutting-edge gaming and AI capabilities at a reduced price point.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113103-black-flag-resynced-hit-but-always-online-requirement.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/best-buy-has-slashed-usd900-off-this-asus-64gb-2-in-1-touchscreen-gaming-laptop-usd2-099-rog-flow-z13-is-great-for-both-gaming-and-ai-use)
+
+---
+
+### 13. Intel's big $5 billion bet on Ireland aims to right the wrongs of the cancelled Magdeburg, Germany complex Fab 34's proven pipeline and Intel 3 node should help the company meet insatiable HPC demand 
+
+Intel invests $5 billion in Ireland to meet HPC demand, replacing cancelled German plans.
+
+💡 *Intel seeks to revive its manufacturing pipeline in Europe with Ireland investment.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-commits-5-7-billion-to-ireland-one-year-after-cancelling-its-german-and-polish-fab-projects)
+
+---
+
+### 14. Nvidia and Sega are teaming up again, 30 years after Sega saved Nvidia from bankruptcy 
+
+Nvidia and Sega are teaming up again, 30 years after Sega saved Nvidia from bankruptcy. The partnership will bring new Sega games with support for Nvidia's latest technologies, including ray tracing and AI-powered rendering. Nvidia's AI tools will also be integrated with the upcoming titles.
+
+💡 *Nvidia gains exclusive gaming foothold with Sega partnership revival.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113132-nvidia-sega-teaming-up-again-30-years-after.html)
+
+---
+
+### 15. LibreWolf is a Firefox-based browser focused on privacy and security 
+
+LibreWolf is a Firefox-based browser prioritizing user privacy and security features.
+
+💡 *Protecting user data from invasive browser tracking and spying.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7781-librewolf.html)
+
+---
+
+### 16. Microsoft deleted a hacked user's 25-year-old Xbox account, along with his OneDrive baby photos 
+
+A Dutch streamer lost access to his son's baby photos and digital games after Microsoft permanently suspended his hijacked account.
+
+💡 *Microsoft's strict security measures can cause unintended permanent user data loss.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113121-microsoft-deleted-hacked-user-25-year-old-xbox.html)
+
+---
+
+### 17. Enthusiast project turns the Steam Controller into a cross-platform gamepad 
+
+The OpenPuck project allows the Steam Controller to work seamlessly with PC games without requiring Steam to run in the background, making it a cross-platform gamepad.
+
+💡 *Eliminates need for Steam background process for XInput compatibility.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113123-enthusiast-project-turns-steam-controller-cross-platform-gamepad.html)
+
+---
+
+### 18. Riot is reviving old League of Legends even as it prepares the game's biggest overhaul ever 
+
+Riot is reviving the original League of Legends game with a new Classic mode, focusing on characters and gameplay elements from the first three seasons. The Classic mode is available to download now and will launch at the end of this month. This mode is part of a larger game overhaul.
+
+💡 *Reviving nostalgia to refresh player engagement and loyalty*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113119-riot-reviving-old-league-legends-even-prepares-game.html)
+
+---
+
+### 19. The US just sanctioned a VPN for the first time, accusing it of helping ransomware gangs 
+
+The US has sanctioned a VPN service and its administrator, accusing them of assisting ransomware gangs. A second individual was also sanctioned for selling tools designed to disguise malware. The move marks the first time a VPN has been sanctioned by the US.
+
+💡 *US expands sanctions to target VPNs supporting cybercrime activities globally.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113129-us-treasury-sanctions-vpn-provider-administrator-first-time.html)
+
+---
+
+### 20. Microsoft finally patched Secure Boot bypasses that were hiding in plain sight since 2013 
+
+Microsoft patched Secure Boot bypasses in 11 shim binaries, affecting systems since 2013. The issue lies in compromised trusted components that can affect the entire boot process. The bug allows malicious code to run during boot.
+
+💡 *Trusted components can compromise entire system security via Secure Boot bypasses*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113124-microsoft-finally-patched-secure-boot-bypasses-hiding-plain.html)
+
+---
+
+### 21. Repair shops are booming during heatwaves as people keep putting phones in fridges 
+
+A UK repair shop owner reports a surge in devices damaged by internal moisture, mainly due to phones being stored in fridges during heatwaves.
+
+💡 *Refrigerating phones during heatwaves causes costly damage to electronic devices.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113127-repair-shops-booming-during-heatwaves-people-keep-putting.html)
+
+---
+
+### 22. Cadence AuraStack debuts to boost PCB and packaging designers 
+
+Cadence AuraStack, an AI Super Agent, is designed to support PCB and packaging designers. It has received endorsements from Nvidia, TSMC, and Schneider. This AI tool aims to streamline design processes.
+
+💡 *Boosts efficiency in complex PCB and packaging design processes*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/cadence-aurastack-debuts-boost-pcb-and-packaging-designers)
 
 ---
 

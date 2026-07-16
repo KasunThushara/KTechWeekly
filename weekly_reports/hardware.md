@@ -1,165 +1,145 @@
 # 💻 Hardware
-**Week of July 15, 2026**
+**Week of July 16, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 15
-- **Report generated:** 2026-07-15 10:28
+- **Articles this week:** 13
+- **Report generated:** 2026-07-16 10:35
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Samsung launches new SSD 990: reviews praise the performance, question the price ⭐
+### 1. NVIDIA launches smaller, mainstream Jetson T2000 and T3000 modules for Edge AI and robotics applications ⭐
 
-Samsung's new SSD 990 offers improved performance but faces pricing concerns.
+NVIDIA launched smaller, lower-cost Jetson T2000 and T3000 modules for Edge AI and robotics, offering up to 865 FP4 TFLOPS and 400 TFLOPS of AI compute, respectively, with improved performance and connectivity.
 
-💡 *Expensive launch price may impact consumer adoption and market share.*
+💡 *Smaller, lower-cost AI modules enable more widespread Edge AI adoption.*
 
-🔗 [Read Full Article](https://www.techspot.com/products/storage/samsung-990-ssd.328239/)
-
----
-
-### 2. Razer Blade 16 (2026) review: Competitive gaming performance and class-leading endurance ⭐
-
-The Razer Blade 16 offers exceptional gaming performance and impressive battery life. With a nearly $5,000 price tag, it is a significant investment. For serious gamers, this laptop delivers top-notch results.
-
-💡 *High-end gaming laptops now prioritize endurance and performance equally.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/razer-blade-16-2026-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/16/nvidia-jetson-t2000-and-t3000-modules-for-edge-ai-and-robotics-applications/)
 
 ---
 
-### 3. $50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor ⭐
+### 2. Bigme Hibreak Dual 2 An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding) ⭐
 
-The Forgix board combines Raspberry Pi RP2354 MCU and Efinix Trion T8 FPGA in a Teensy form factor, offering a unique platform for development and prototyping.
+Bigme's Hibreak Dual 2 features a dual-screen setup with a 6.13-inch E-Ink display and a 5-inch LCD display, allowing users to switch between the two depending on the task. The device is powered by the MediaTek Dimensity 8300 processor and runs on Android 16. It supports dual 5G connectivity and comes with flagship-class hardware.
 
-💡 *Unique combination of MCU and FPGA in a compact, affordable board.*
+💡 *Dual-screen setup for flexible display usage experiences*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/14/50-forgix-board-pairs-raspberry-pi-rp2354-mcu-with-trion-t8-fpga-in-teensy-form-factor/)
-
----
-
-### 4. PS5 emulation ramps up in response to Sony killing physical games PS5 titles now booting across different emulators with rapid community development for both 2D and 3D games 
-
-PS5 emulation has accelerated with SharpEmu and KytyPS5 receiving significant updates, enabling 2D and 3D game emulation on PC. The rapid community development has made it possible to run several PS5 games across different emulators. This shift may impact the gaming industry.
-
-💡 *PS5 emulation gains pace, threatening Sony's game sales model.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/ps5-emulation-ramps-up-in-wake-of-sonys-end-to-physical-media-ps5-titles-now-booting-across-different-emulators-with-rapid-community-development-for-both-2d-and-3d-games)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/15/bigme-hibreak-dual-2-an-android-16-smartphone-with-6-13-inch-80fps-e-ink-and-5-inch-lcd-display/)
 
 ---
 
-### 5. Samsung 990 2TB SSD Review: New flash, familiar speeds 
+### 3. 'PCIe Gen7 development has already started,' says Silicon Motion's Alex Chou Nvidia's Storage Next initiative is becoming a focal point 
 
-The Samsung 990 2TB SSD offers newer flash but similar speeds to its predecessor, the 990 EVO Plus. Its power efficiency is mediocre. This storage device provides a familiar performance experience.
+Silicon Motion is a new entrant in the data center storage market, quickly gaining traction with orders from various customers and ramping up shipments of its high-end PCIe 5.0 SSD controllers. The company has a unique view on the market, which it shared with Tom's Hardware. This development is significant for the market.
 
-💡 *New flash doesn't necessarily mean significant performance upgrades.*
+💡 *PCIe Gen7 development has already started, a step ahead of competition.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/samsung-990-2tb-ssd-review)
-
----
-
-### 6. Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux 
-
-The open-source Rocket driver for mainline Linux now supports the Rockchip RK3576 NPU after reverse-engineering, thanks to Ga Hing Woo's efforts, which have delivered decent performance for object detection on the Radxa ROCK 4D with Linux 7.1-rc5.
-
-💡 *RK3576 NPU support expands open-source driver capabilities and performance.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/pcie-gen7-development-has-already-started-says-silicon-motions-alex-chou-nvidias-storage-next-initiative-is-becoming-a-focal-point)
 
 ---
 
-### 7. Intel's Starfire SoC combines 18A CPU, Intel 3 GPU, and NPU for space-grade computing 
+### 4. OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding) 
 
-Intel's Starfire SoC combines an 8-core 18A CPU with an Intel 3 GPU and NPU for space-grade computing, featuring separate performance and power efficiency models.
+OpenInfrared Point is a universal remote hub powered by ESP32-S3, controlled via smartphone through QR code or NFC, supporting infrared, IP, and Bluetooth Low Energy device control.
 
-💡 *Advancements in space-grade computing for improved satellite and space exploration capabilities.*
+💡 *Universal remote control via smartphone streamlines home device management.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113110-intel-starfire-soc-combines-18a-cpu-intel-3.html)
-
----
-
-### 8. Developer successfully ports Linux to 1994 Sega 32X Genesis and MegaDrive expansion runs open-source OS on paltry 23MHz processors and 256KB of RAM 
-
-A developer successfully ported Linux to the 1994 Sega 32X, a 23MHz 256KB machine. This achievement showcases the adaptability of open-source operating systems. The port is a testament to the developer's technical expertise.
-
-💡 *Open-source OS can thrive on low-end hardware with sufficient expertise.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/linux/developer-successfully-ports-linux-to-1994-sega-32x-genesis-and-megadrive-expansion-runs-open-source-os-on-paltry-23mhz-processors-and-256kb-of-ram)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/)
 
 ---
 
-### 9. Legendary Gravis Ultrasound sound card gets new open-source clone Beavis Ultrasound remake includes complete KiCad schematics, PCB layout, sample ROM, and more 
+### 5. IBM's stock just had its worst day since 1968 
 
-The Beavis Ultrasound project is an open-source remake of the legendary Gravis Ultrasound ISA soundcard, featuring complete KiCad schematics, PCB layout, sample ROM, and more.
+IBM's stock plummeted due to unexpected shortfalls in financial performance, partly attributed to reduced mainframe investments.
 
-💡 *Reviving retro tech for modern enthusiasts and developers to experiment with.*
+💡 *Decline in mainframe sales threatens IBM's legacy business model.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/sound-cards/legendary-gravis-ultrasound-sound-card-gets-new-open-source-clone-beavis-ultrasound-remake-includes-complete-kicad-schematics-pcb-layout-sample-rom-and-more)
-
----
-
-### 10. Drop's $130 desktop PC speakers are now just $23 save a massive 82% on these dual-orientation BMR1 V2 speakers 
-
-Save 82% on Drop's BMR1 V2 speakers, now $23, for immersive desktop sound.
-
-💡 *Enhance your desktop audio experience with affordable high-quality speakers.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/speakers/drops-usd130-desktop-pc-speakers-are-now-just-usd23-save-a-massive-82-percent-on-these-dual-orientation-bmr1-v2-speakers)
+🔗 [Read Full Article](https://www.techspot.com/news/113120-ibm-warns-investors-ai-hardware-demand-hurting-mainframe.html)
 
 ---
 
-### 11. Enthusiast reverse-engineers Steam Controller 2 puck, creates DIY 'OpenPuck' that works without Steam Input custom firmware can emulate Nintendo, PlayStation, and Xbox controllers 
+### 6. Ubisoft endured a review-bombing campaign, then made $1 million from Black Flag Resynced's controversial DLC 
 
-A DIY Steam Controller puck, OpenPuck, can emulate Xbox, PlayStation, and Switch controllers without Steam Input custom firmware, allowing users to bypass the need for Steam to be open in the background.
+Ubisoft's Black Flag remake faced a review-bombing campaign for excessive DLC costs, but still managed to earn $1 million from one of its DLCs. The controversy led to a remake of the game. The combined cost of DLCs was higher than the game's price.
 
-💡 *Gaming flexibility without proprietary software dependencies.*
+💡 *Controversy doesn't always deter players from buying expensive DLCs*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/enthusiast-reverse-engineers-steam-controller-2-puck-creates-diy-openpuck-that-works-without-steam-input-custom-firmware-can-emulate-nintendo-playstation-and-xbox-controllers)
-
----
-
-### 12. China's courts say your digital game items are inheritable Steam and The West disagree 
-
-China's courts recognize game account inheritability, differing from Steam's stance.
-
-💡 *In-game purchases raise questions about ownership and digital legacy rights.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113100-china-courts-digital-game-items-inheritable-steam-west.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113130-ubisoft-endured-review-bombing-campaign-made-1-million.html)
 
 ---
 
-### 13. UChicago Law bans laptops and phones for first-year students, mandates in-class exams starting this fall 
+### 7. 75% of all PS3 games reportedly now run on PC via open-source emulator RPCS3 announcement comes weeks after Sony's plan to shutter the PlayStation Store for PS3 and PS Vita by 
 
-The University of Chicago Law School bans laptops and phones for first-year students, mandating in-class exams starting this fall in response to AI disruptions in higher education.
+The RPCS3 team has made significant progress with their open-source emulator, now allowing 75.33% of PS3 games to be played on Windows, Linux, macOS, and FreeBSD, a result of their efforts to ensure compatibility for over 2,600 titles.
 
-💡 *AI adoption forces law schools to adapt and innovate their education methods.*
+💡 *Preserving gaming history and extending console lifespan digitally.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113111-uchicago-law-bans-laptops-phones-first-year-students.html)
-
----
-
-### 14. Sega's Virtua Racing hits PC and Xbox for the first time, with 8-player online 
-
-Sega's Virtua Racing, a classic F1-style arcade racer, is now available on PC and Xbox with online multiplayer support for up to 8 players.
-
-💡 *Historic arcade game makes its PC and Xbox debut with online capabilities.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113112-sega-virtua-racing-hits-pc-xbox-first-time.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/open-source-ps3-emulator-says-its-now-compatible-with-over-75-percent-of-all-ps3-games-on-pc-rpcs3-announcement-comes-weeks-after-sony-announced-the-shuttering-of-the-playstation-store-for-ps3-and-ps-vita-by-july-2027)
 
 ---
 
-### 15. Black Flag Resynced is a hit, but its always-online requirement just proved it's not really offline 
+### 8. PC gamer turns Steam games into cartridges with ingenious 2.5-inch SSD system games are stored on 128GB drives alongside a script to auto-start the title once plugged in 
 
-Assassin's Creed Black Flag Resynced became unplayable due to Ubisoft Connect outage, despite having offline mode.
+A PC gamer created a Steam Game Cartridge system using 2.5-inch SSDs, storing games on 128GB drives and implementing an auto-start script.
 
-💡 *Always-online requirement undermines offline gaming experience promises.*
+💡 *Revolutionizing portable game storage with high-capacity SSD cartridges.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113103-black-flag-resynced-hit-but-always-online-requirement.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/pc-gamer-turns-steam-games-into-cartridges-with-ingenious-2-5-inch-ssd-system-games-are-stored-on-128gb-drives-alongside-a-script-to-auto-start-the-title-once-plugged-in)
+
+---
+
+### 9. Best Buy has slashed $900 off this Asus 64GB 2-in-1 touchscreen gaming laptop $2,099 RoG Flow Z13 is great for both gaming and AI use 
+
+Save $900 on the Asus RoG Flow Z13, a versatile 2-in-1 gaming laptop/tablet.
+
+💡 *Cutting-edge gaming and AI capabilities at a reduced price point.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/best-buy-has-slashed-usd900-off-this-asus-64gb-2-in-1-touchscreen-gaming-laptop-usd2-099-rog-flow-z13-is-great-for-both-gaming-and-ai-use)
+
+---
+
+### 10. Intel's big $5 billion bet on Ireland aims to right the wrongs of the cancelled Magdeburg, Germany complex Fab 34's proven pipeline and Intel 3 node should help the company meet insatiable HPC demand 
+
+Intel invests $5 billion in Ireland to meet HPC demand, replacing cancelled German plans.
+
+💡 *Intel seeks to revive its manufacturing pipeline in Europe with Ireland investment.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-commits-5-7-billion-to-ireland-one-year-after-cancelling-its-german-and-polish-fab-projects)
+
+---
+
+### 11. pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter 
+
+pico-usb-wifi firmware transforms Raspberry Pi Pico W into a driverless USB WiFi adapter, enabling wireless connectivity on various operating systems through a transparent Layer-2 bridge. This adapter exposes an Ethernet connection over USB, allowing users to route Wi-Fi packets from the network. It supports IPv4 and IPv6 configurations, WPA2-PSK and WPA3-SAE authentication, and out-of-band management.
+
+💡 *Enables seamless wireless connectivity on multiple operating systems without drivers.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/)
+
+---
+
+### 12. Enthusiast project turns the Steam Controller into a cross-platform gamepad 
+
+The OpenPuck project allows the Steam Controller to work seamlessly with PC games without requiring Steam to run in the background, making it a cross-platform gamepad.
+
+💡 *Eliminates need for Steam background process for XInput compatibility.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113123-enthusiast-project-turns-steam-controller-cross-platform-gamepad.html)
+
+---
+
+### 13. Cadence AuraStack debuts to boost PCB and packaging designers 
+
+Cadence AuraStack, an AI Super Agent, is designed to support PCB and packaging designers. It has received endorsements from Nvidia, TSMC, and Schneider. This AI tool aims to streamline design processes.
+
+💡 *Boosts efficiency in complex PCB and packaging design processes*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/cadence-aurastack-debuts-boost-pcb-and-packaging-designers)
 
 ---
 
