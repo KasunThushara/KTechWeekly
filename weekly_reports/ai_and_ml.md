@@ -1,235 +1,165 @@
 # 🤖 AI & ML
-**Week of July 16, 2026**
+**Week of July 17, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 22
-- **Report generated:** 2026-07-16 10:35
+- **Articles this week:** 15
+- **Report generated:** 2026-07-17 10:26
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding) 
+### 1. Mario Kart Wii recompiled for PC using AI, with 4K potential and uncapped frame rates 'first static recompilation of a Wii game' supports over 200 tracks thanks to Retro Rewind compatibility 
 
-OpenInfrared Point is a universal remote hub powered by ESP32-S3, controlled via smartphone through QR code or NFC, supporting infrared, IP, and Bluetooth Low Energy device control.
+Mario Kart Wii has been recompiled for PC with AI, offering 4K potential and uncapped frame rates. This marks the 'first static recompilation of a Wii game.' The recompiled game supports over 200 tracks thanks to Retro Rewind compatibility.
 
-💡 *Universal remote control via smartphone streamlines home device management.*
+💡 *Revolutionizing retro gaming with AI-driven console game recompilations.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/)
-
----
-
-### 2. Linus Torvalds tells anti-AI critics to fork Linux or walk away 
-
-Linus Torvalds firmly stands by AI integration in Linux development, prompting a fork or exit.
-
-💡 *Torvalds prioritizes AI integration as a core Linux development decision maker.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113138-linus-torvalds-tells-anti-ai-critics-fork-linux.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/mario-kart-wii-recompiled-for-pc-using-ai-with-4k-potential-and-uncapped-frame-rates-first-static-recompilation-of-a-wii-game-supports-over-200-tracks-thanks-to-retro-rewind-compatibility)
 
 ---
 
-### 3. IBM's stock just had its worst day since 1968 
+### 2. Linus Torvalds rebukes anti-AI stances in the Linux kernel code review process, says 'Linux is not one of those anti-AI projects' creator embraces AI as just a tool and 'clearly a useful one' 
 
-IBM's stock plummeted due to unexpected shortfalls in financial performance, partly attributed to reduced mainframe investments.
+Linus Torvalds, Linux creator, openly accepts AI-assisted tooling in kernel development.
 
-💡 *Decline in mainframe sales threatens IBM's legacy business model.*
+💡 *Linux development now incorporates AI as a helpful development tool.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113120-ibm-warns-investors-ai-hardware-demand-hurting-mainframe.html)
-
----
-
-### 4. Samsung introduces Flex Titanium, a new foldable screen tech with reduced creasing 
-
-Samsung's Flex Titanium tech reduces creasing in foldable screens with a titanium-alloy film.
-
-💡 *Improved durability boosts long-term usability of foldable devices.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113131-samsung-introduces-flex-titanium-new-foldable-screen-tech.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linus-torvalds-rebukes-anti-ai-stances-in-the-linux-kernel-code-review-process-says-linux-is-not-one-of-those-anti-ai-projects-creator-embraces-ai-as-just-a-tool-and-clearly-a-useful-one)
 
 ---
 
-### 5. Ubisoft endured a review-bombing campaign, then made $1 million from Black Flag Resynced's controversial DLC 
+### 3. Nvidia and Japan unveil world's first national AI infrastructure Noetra consortium to build a 140MW Rubin AI factory with 27,500 GPUs 
 
-Ubisoft's Black Flag remake faced a review-bombing campaign for excessive DLC costs, but still managed to earn $1 million from one of its DLCs. The controversy led to a remake of the game. The combined cost of DLCs was higher than the game's price.
+Nvidia and Noetra Corp. partner to build a 140MW AI factory in Japan, featuring 27,500 Rubin GPUs and 13,750 Vera CPUs.
 
-💡 *Controversy doesn't always deter players from buying expensive DLCs*
+💡 *Massive AI infrastructure boosts Japan's AI capabilities and competitiveness globally.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113130-ubisoft-endured-review-bombing-campaign-made-1-million.html)
-
----
-
-### 6. Ex-Sega engineer creates 'super realistic' CRT monitor emulator incredible retro offering even includes TV screen tapping to fix picture 
-
-A former Sega engineer has developed a CRT emulator with realistic visuals, including a feature that allows users to tap on the screen to simulate TV screen tapping, a common percussive maintenance technique used to adjust picture settings on older CRT monitors.
-
-💡 *Retro gaming meets nostalgic accuracy with innovative emulation techniques.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/ex-sega-engineer-creates-super-realistic-crt-monitor-emulator-incredible-retro-offering-even-includes-tv-screen-tapping-to-fix-picture)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-and-japans-noetra-consortium-to-build-140mw-rubin-ai-factory-with-27500-gpus)
 
 ---
 
-### 7. Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin company says that 'our roadmap is intact' 
+### 4. OpenAI's first hardware device is an RGB macropod 'Codex Micro' features 13 low-profile keys and a joystick for controlling AI coding agents 
 
-Nvidia's CEO promises to deliver 'giant amounts' of Vera Rubin machines, citing an intact roadmap. However, the company has yet to address rumored delays in Kyber NVL144 racks. The Vera Rubin-based machines are a key part of Nvidia's datacenter strategy.
+OpenAI's Codex Micro is a customizable RGB macropad for AI coding agents, offering a range of customizable inputs and RGB feedback.
 
-💡 *Nvidia's datacenter strategy hinges on Vera Rubin machines success*
+💡 *Streamlining AI coding experience with intuitive, customizable interfaces.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact)
-
----
-
-### 8. CXMT's DDR5 RAM isn't as performant or as consistent as SK hynix dies, early testing shows reveals resistance to voltage scaling and inferior manual overclocking capabilities 
-
-Asus claims CXMT-made DDR5 RAM is less performant and harder to overclock than SK Hynix-made RAM, with issues scaling with voltage and tuning subtimings.
-
-💡 *CXMT DDR5 RAM's inferior performance affects gaming and high-end computing experiences.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/cxmts-ddr5-ram-isnt-as-performant-or-as-consistent-as-sk-hynix-dies-early-testing-shows-reveals-resistance-to-voltage-scaling-and-inferior-manual-overclocking-capabilities)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/keyboards/openais-first-hardware-device-is-an-rgb-macropod-codex-micro-features-13-low-profile-keys-and-a-joystick-for-controlling-ai-coding-agents)
 
 ---
 
-### 9. Intel becomes the first company to ship high-volume logic chips made with ASML's High NA EUV select Panther Lake layers on 18A are now dual-qualified for 0.55 NA scanners 
+### 5. reCamera Pro Open AI Camera supports computer vision, LLM, VLM, STT, and TTS workloads 
 
-Intel has successfully used ASML's High-NA EUV tools in high-volume logic production, marking a significant milestone in the adoption of this technology. The company is patterning select Panther Lake layers using these tools. This achievement demonstrates the effectiveness of High-NA EUV in logic production.
+Seeed Studio's reCamera Pro is an AI camera with on-device AI capabilities, supporting computer vision, LLMs, VLMs, STT, and TTS workloads, with a Rockchip RV1126B SoC and 3 TOPS NPU.
 
-💡 *Advances in EUV lithography enable smaller, more powerful chip designs*
+💡 *Empowering AI applications at the edge with on-device processing capabilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-becomes-the-first-company-to-ship-high-volume-logic-chips-made-with-asmls-high-na-euv-select-panther-lake-layers-on-18a-are-now-dual-qualified-for-0-55-na-scanners)
-
----
-
-### 10. Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative 
-
-Google reportedly chose Intel's EMIB-T over TSMC's CoWoS-L for its next-generation TPU.
-
-💡 *Intel's EMIB-T gains competitive advantage in high-performance chip packaging*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints-googles-reported-decision-for-9th-gen-tpus-highlights-intels-attractive-alternative)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/)
 
 ---
 
-### 11. Palit officially announces RTX 3060 return with 'new' Infinity 2 OC launch 2021 GPU with 12GB of VRAM is an AI crisis stopgap 
+### 6. OpenAI's first hardware product is a $230 mini keypad for AI coding 
 
-Nvidia has re-released the 5-year-old RTX 3060 with 12GB VRAM at $329, addressing memory concerns.
+OpenAI has unveiled its first hardware product, a mini keypad priced at $230, designed for AI coding.
 
-💡 *Re-released GPU offers temporary reprieve during AI-driven VRAM shortage crisis.*
+💡 *AI accessibility expands to developers with affordable hardware solution.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/palit-officially-announces-rtx-3060-return-with-new-infinity-2-oc-launch-2021-gpu-with-12gb-of-vram-is-an-ai-crisis-stopgap)
-
----
-
-### 12. Best Buy has slashed $900 off this Asus 64GB 2-in-1 touchscreen gaming laptop $2,099 RoG Flow Z13 is great for both gaming and AI use 
-
-Save $900 on the Asus RoG Flow Z13, a versatile 2-in-1 gaming laptop/tablet.
-
-💡 *Cutting-edge gaming and AI capabilities at a reduced price point.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/best-buy-has-slashed-usd900-off-this-asus-64gb-2-in-1-touchscreen-gaming-laptop-usd2-099-rog-flow-z13-is-great-for-both-gaming-and-ai-use)
+🔗 [Read Full Article](https://www.techspot.com/news/113146-openai-first-hardware-product-230-mini-keypad-ai.html)
 
 ---
 
-### 13. Intel's big $5 billion bet on Ireland aims to right the wrongs of the cancelled Magdeburg, Germany complex Fab 34's proven pipeline and Intel 3 node should help the company meet insatiable HPC demand 
+### 7. Neural atom quantum computing roadmap how laser-cooled trapped atoms could pave the path beyond physical qubit counts 
 
-Intel invests $5 billion in Ireland to meet HPC demand, replacing cancelled German plans.
+Neural Atom Quantum Computing uses laser-cooled trapped atoms for scalable qubits. This technology enables software-defined configurable arrays and allows qubits to be moved mid-computation. Three leading companies, QuEra, Atom Computing, and Pasqal, are driving innovation in this field.
 
-💡 *Intel seeks to revive its manufacturing pipeline in Europe with Ireland investment.*
+💡 *Scalable qubits unlock unprecedented computational power and control.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-commits-5-7-billion-to-ireland-one-year-after-cancelling-its-german-and-polish-fab-projects)
-
----
-
-### 14. Nvidia and Sega are teaming up again, 30 years after Sega saved Nvidia from bankruptcy 
-
-Nvidia and Sega are teaming up again, 30 years after Sega saved Nvidia from bankruptcy. The partnership will bring new Sega games with support for Nvidia's latest technologies, including ray tracing and AI-powered rendering. Nvidia's AI tools will also be integrated with the upcoming titles.
-
-💡 *Nvidia gains exclusive gaming foothold with Sega partnership revival.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113132-nvidia-sega-teaming-up-again-30-years-after.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/quantum-computing/neural-atom-quantum-computing-roadmap-how-laser-cooled-trapped-atoms-could-pave-the-path-beyond-physical-qubit-counts)
 
 ---
 
-### 15. LibreWolf is a Firefox-based browser focused on privacy and security 
+### 8. AMD Ryzen 7 7700X3D is exclusive to Newegg in North America $329 CPU won't be available at other vendors until at least Q4 
 
-LibreWolf is a Firefox-based browser prioritizing user privacy and security features.
+The Ryzen 7 7700X3D is a $329 gaming CPU exclusive to Newegg in North America until at least Q4 2026. It's a top performer in gaming, but less versatile for professional tasks.
 
-💡 *Protecting user data from invasive browser tracking and spying.*
+💡 *Exclusivity to Newegg limits Ryzen 7 7700X3D's availability and options.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7781-librewolf.html)
-
----
-
-### 16. Microsoft deleted a hacked user's 25-year-old Xbox account, along with his OneDrive baby photos 
-
-A Dutch streamer lost access to his son's baby photos and digital games after Microsoft permanently suspended his hijacked account.
-
-💡 *Microsoft's strict security measures can cause unintended permanent user data loss.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113121-microsoft-deleted-hacked-user-25-year-old-xbox.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-7700x3d-is-exclusive-to-newegg-in-north-america-usd329-cpu-wont-be-available-at-other-vendors-until-at-least-q4)
 
 ---
 
-### 17. Enthusiast project turns the Steam Controller into a cross-platform gamepad 
+### 9. New York school deploys AI teaching robot from company linked to sex bots 
 
-The OpenPuck project allows the Steam Controller to work seamlessly with PC games without requiring Steam to run in the background, making it a cross-platform gamepad.
+A New York school is deploying an AI teaching robot named Sally from Realbotix, linked to sex bots, to provide students with an AI-powered learning assistant.
 
-💡 *Eliminates need for Steam background process for XInput compatibility.*
+💡 *Blurred lines between AI learning tools and adult entertainment raise concerns.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113123-enthusiast-project-turns-steam-controller-cross-platform-gamepad.html)
-
----
-
-### 18. Riot is reviving old League of Legends even as it prepares the game's biggest overhaul ever 
-
-Riot is reviving the original League of Legends game with a new Classic mode, focusing on characters and gameplay elements from the first three seasons. The Classic mode is available to download now and will launch at the end of this month. This mode is part of a larger game overhaul.
-
-💡 *Reviving nostalgia to refresh player engagement and loyalty*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113119-riot-reviving-old-league-legends-even-prepares-game.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113154-new-york-school-deploys-ai-teaching-robot-company.html)
 
 ---
 
-### 19. The US just sanctioned a VPN for the first time, accusing it of helping ransomware gangs 
+### 10. Microsoft's latest Patch Tuesday fixes 570 security bugs, but some Dell PCs will have to wait 
 
-The US has sanctioned a VPN service and its administrator, accusing them of assisting ransomware gangs. A second individual was also sanctioned for selling tools designed to disguise malware. The move marks the first time a VPN has been sanctioned by the US.
+Microsoft's July 2024 Patch Tuesday fixes 570 Windows security bugs, including three zero-day flaws.
 
-💡 *US expands sanctions to target VPNs supporting cybercrime activities globally.*
+💡 *Massive security updates mitigate critical vulnerabilities exploited by cybercriminals.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113129-us-treasury-sanctions-vpn-provider-administrator-first-time.html)
-
----
-
-### 20. Microsoft finally patched Secure Boot bypasses that were hiding in plain sight since 2013 
-
-Microsoft patched Secure Boot bypasses in 11 shim binaries, affecting systems since 2013. The issue lies in compromised trusted components that can affect the entire boot process. The bug allows malicious code to run during boot.
-
-💡 *Trusted components can compromise entire system security via Secure Boot bypasses*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113124-microsoft-finally-patched-secure-boot-bypasses-hiding-plain.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113144-microsoft-latest-patch-tuesday-fixes-570-security-bugs.html)
 
 ---
 
-### 21. Repair shops are booming during heatwaves as people keep putting phones in fridges 
+### 11. TSMC plans include at least four more 2nm fabs in $100 billion Arizona expansion 
 
-A UK repair shop owner reports a surge in devices damaged by internal moisture, mainly due to phones being stored in fridges during heatwaves.
+TSMC plans to expand in Arizona with at least four 2nm fabs, part of a $100 billion investment. This comes as the company reports a record quarterly profit and increases its 2026 capital expenditure forecast to up to $64 billion.
 
-💡 *Refrigerating phones during heatwaves causes costly damage to electronic devices.*
+💡 *Massive investment in US chip production boosts Taiwan Semiconductor's global presence.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113127-repair-shops-booming-during-heatwaves-people-keep-putting.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113141-tsmc-plans-least-four-more-2nm-fabs-100.html)
 
 ---
 
-### 22. Cadence AuraStack debuts to boost PCB and packaging designers 
+### 12. Woman discovers a hidden AI camera in her rental car recording her and warning about unsafe driving 
 
-Cadence AuraStack, an AI Super Agent, is designed to support PCB and packaging designers. It has received endorsements from Nvidia, TSMC, and Schneider. This AI tool aims to streamline design processes.
+A woman discovered a hidden AI camera in her rental Audi, recording her and providing driver safety warnings.
 
-💡 *Boosts efficiency in complex PCB and packaging design processes*
+💡 *Privacy invasion concerns arise from integrated AI-powered dashboard cameras.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/cadence-aurastack-debuts-boost-pcb-and-packaging-designers)
+🔗 [Read Full Article](https://www.techspot.com/news/113137-woman-discovers-rental-car-has-ai-powered-camera.html)
+
+---
+
+### 13. George Lucas says rejecting AI is like choosing the horse and buggy over cars 
+
+George Lucas compares rejecting AI to choosing outdated technology, like horse and buggy over cars, suggesting AI's potential to revolutionize industries and improve lives.
+
+💡 *Embracing AI is crucial for progress and future innovation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113139-george-lucas-rejecting-ai-like-choosing-horse-buggy.html)
+
+---
+
+### 14. Stripe and Advent offer more than $53 billion to buy PayPal and create a payments giant 
+
+Stripe and Advent offer over $53 billion to acquire PayPal, preserving its unity. The companies plan to share ownership of PayPal evenly. This unusual structure aims to maintain PayPal's core operations.
+
+💡 *Merging PayPal with Stripe creates a dominant payments infrastructure giant.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113135-stripe-advent-offer-more-than-53-billion-buy.html)
+
+---
+
+### 15. Elon Musk spent estimated $1 billion on an energy company to power xAI, filings reveal APR Energy owns a fleet of trailer-mounted gas and diesel turbines capable of generating more than 1 gigawatt 
+
+Elon Musk acquired APR Energy for an estimated $1 billion. APR Energy provides mobile turbine generators. The purchase was not publicly announced.
+
+💡 *Musk expands energy capabilities to power AI technologies significantly*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/elon-musk-spent-estimated-usd1-billion-on-an-energy-company-to-power-xai-filings-reveal-apr-energy-owns-a-fleet-of-trailer-mounted-gas-and-diesel-turbines-capable-of-generating-more-than-1-gigawatt)
 
 ---
 

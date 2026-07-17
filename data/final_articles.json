@@ -1,388 +1,372 @@
 [
   {
-    "title": "Scientists synchronize 105,000 nano-oscillators in just 45 nanoseconds paving the way for a highly efficient and fast alternative to transistors",
-    "summary": "Scientists have successfully synchronized 105,000 nano-oscillators in 45 nanoseconds, opening the door to a faster and more efficient computing alternative to traditional transistors.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/scientists-synchronize-105-000-nano-oscillators-in-just-45-nanoseconds-paving-the-way-for-a-highly-efficient-and-fast-alternative-to-transistors",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.484379",
-    "insight": "Breakthrough could revolutionize computing with unparalleled speed and efficiency."
-  },
-  {
-    "title": "Ex-Sega engineer creates 'super realistic' CRT monitor emulator incredible retro offering even includes TV screen tapping to fix picture",
-    "summary": "A former Sega engineer has developed a CRT emulator with realistic visuals, including a feature that allows users to tap on the screen to simulate TV screen tapping, a common percussive maintenance technique used to adjust picture settings on older CRT monitors.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/ex-sega-engineer-creates-super-realistic-crt-monitor-emulator-incredible-retro-offering-even-includes-tv-screen-tapping-to-fix-picture",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.484493",
-    "insight": "Retro gaming meets nostalgic accuracy with innovative emulation techniques."
-  },
-  {
-    "title": "75% of all PS3 games reportedly now run on PC via open-source emulator RPCS3 announcement comes weeks after Sony's plan to shutter the PlayStation Store for PS3 and PS Vita by",
-    "summary": "The RPCS3 team has made significant progress with their open-source emulator, now allowing 75.33% of PS3 games to be played on Windows, Linux, macOS, and FreeBSD, a result of their efforts to ensure compatibility for over 2,600 titles.",
-    "link": "https://www.tomshardware.com/video-games/playstation/open-source-ps3-emulator-says-its-now-compatible-with-over-75-percent-of-all-ps3-games-on-pc-rpcs3-announcement-comes-weeks-after-sony-announced-the-shuttering-of-the-playstation-store-for-ps3-and-ps-vita-by-july-2027",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.484608",
-    "insight": "Preserving gaming history and extending console lifespan digitally."
-  },
-  {
-    "title": "Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin company says that 'our roadmap is intact'",
-    "summary": "Nvidia's CEO promises to deliver 'giant amounts' of Vera Rubin machines, citing an intact roadmap. However, the company has yet to address rumored delays in Kyber NVL144 racks. The Vera Rubin-based machines are a key part of Nvidia's datacenter strategy.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.484717",
-    "insight": "Nvidia's datacenter strategy hinges on Vera Rubin machines success"
-  },
-  {
-    "title": "CXMT's DDR5 RAM isn't as performant or as consistent as SK hynix dies, early testing shows reveals resistance to voltage scaling and inferior manual overclocking capabilities",
-    "summary": "Asus claims CXMT-made DDR5 RAM is less performant and harder to overclock than SK Hynix-made RAM, with issues scaling with voltage and tuning subtimings.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/cxmts-ddr5-ram-isnt-as-performant-or-as-consistent-as-sk-hynix-dies-early-testing-shows-reveals-resistance-to-voltage-scaling-and-inferior-manual-overclocking-capabilities",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.484838",
-    "insight": "CXMT DDR5 RAM's inferior performance affects gaming and high-end computing experiences."
-  },
-  {
-    "title": "ASRock Phantom Gaming and Steel Legend 360 LCD review: An impressive cooling debut",
-    "summary": "ASRock debuts in the cooling market with two impressive all-in-one liquid coolers, the Phantom Gaming 360 LCD and Steel Legend 360 LCD, tested against AMD's Ryzen 9 9950X3D processor.",
-    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/asrock-phantom-gaming-and-steel-legend-360-lcd-review",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-16T10:34:10.484946",
-    "insight": "ASRock's AIO coolers showcase efficient cooling for high-performance processors."
-  },
-  {
-    "title": "Intel becomes the first company to ship high-volume logic chips made with ASML's High NA EUV select Panther Lake layers on 18A are now dual-qualified for 0.55 NA scanners",
-    "summary": "Intel has successfully used ASML's High-NA EUV tools in high-volume logic production, marking a significant milestone in the adoption of this technology. The company is patterning select Panther Lake layers using these tools. This achievement demonstrates the effectiveness of High-NA EUV in logic production.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-becomes-the-first-company-to-ship-high-volume-logic-chips-made-with-asmls-high-na-euv-select-panther-lake-layers-on-18a-are-now-dual-qualified-for-0-55-na-scanners",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.485048",
-    "insight": "Advances in EUV lithography enable smaller, more powerful chip designs"
-  },
-  {
-    "title": "Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative",
-    "summary": "Google reportedly chose Intel's EMIB-T over TSMC's CoWoS-L for its next-generation TPU.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints-googles-reported-decision-for-9th-gen-tpus-highlights-intels-attractive-alternative",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.485165",
-    "insight": "Intel's EMIB-T gains competitive advantage in high-performance chip packaging"
-  },
-  {
-    "title": "'PCIe Gen7 development has already started,' says Silicon Motion's Alex Chou Nvidia's Storage Next initiative is becoming a focal point",
-    "summary": "Silicon Motion is a new entrant in the data center storage market, quickly gaining traction with orders from various customers and ramping up shipments of its high-end PCIe 5.0 SSD controllers. The company has a unique view on the market, which it shared with Tom's Hardware. This development is significant for the market.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/pcie-gen7-development-has-already-started-says-silicon-motions-alex-chou-nvidias-storage-next-initiative-is-becoming-a-focal-point",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-16T10:34:10.485280",
-    "insight": "PCIe Gen7 development has already started, a step ahead of competition."
-  },
-  {
-    "title": "PC gamer turns Steam games into cartridges with ingenious 2.5-inch SSD system games are stored on 128GB drives alongside a script to auto-start the title once plugged in",
-    "summary": "A PC gamer created a Steam Game Cartridge system using 2.5-inch SSDs, storing games on 128GB drives and implementing an auto-start script.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/pc-gamer-turns-steam-games-into-cartridges-with-ingenious-2-5-inch-ssd-system-games-are-stored-on-128gb-drives-alongside-a-script-to-auto-start-the-title-once-plugged-in",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.485401",
-    "insight": "Revolutionizing portable game storage with high-capacity SSD cartridges."
-  },
-  {
-    "title": "Palit officially announces RTX 3060 return with 'new' Infinity 2 OC launch 2021 GPU with 12GB of VRAM is an AI crisis stopgap",
-    "summary": "Nvidia has re-released the 5-year-old RTX 3060 with 12GB VRAM at $329, addressing memory concerns.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/palit-officially-announces-rtx-3060-return-with-new-infinity-2-oc-launch-2021-gpu-with-12gb-of-vram-is-an-ai-crisis-stopgap",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.485512",
-    "insight": "Re-released GPU offers temporary reprieve during AI-driven VRAM shortage crisis."
-  },
-  {
-    "title": "Elon Musk's Starlink releases smaller and lighter V5 residential kit offers speeds of up to 375 Mbps and almost half the power consumption of V4",
-    "summary": "Starlink releases a new, smaller and lighter residential kit with reduced power consumption.",
-    "link": "https://www.tomshardware.com/networking/routers/elon-musks-starlink-releases-smaller-and-lighter-v5-residential-kit-offers-speeds-of-up-to-375-mbps-and-almost-half-the-power-consumption-of-v4",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-16T10:34:10.485612",
-    "insight": "Smaller and lighter design makes DIY installation more accessible and convenient."
-  },
-  {
-    "title": "Best Buy has slashed $900 off this Asus 64GB 2-in-1 touchscreen gaming laptop $2,099 RoG Flow Z13 is great for both gaming and AI use",
-    "summary": "Save $900 on the Asus RoG Flow Z13, a versatile 2-in-1 gaming laptop/tablet.",
-    "link": "https://www.tomshardware.com/laptops/best-buy-has-slashed-usd900-off-this-asus-64gb-2-in-1-touchscreen-gaming-laptop-usd2-099-rog-flow-z13-is-great-for-both-gaming-and-ai-use",
+    "title": "Mario Kart Wii recompiled for PC using AI, with 4K potential and uncapped frame rates 'first static recompilation of a Wii game' supports over 200 tracks thanks to Retro Rewind compatibility",
+    "summary": "Mario Kart Wii has been recompiled for PC with AI, offering 4K potential and uncapped frame rates. This marks the 'first static recompilation of a Wii game.' The recompiled game supports over 200 tracks thanks to Retro Rewind compatibility.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/mario-kart-wii-recompiled-for-pc-using-ai-with-4k-potential-and-uncapped-frame-rates-first-static-recompilation-of-a-wii-game-supports-over-200-tracks-thanks-to-retro-rewind-compatibility",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.485712",
-    "insight": "Cutting-edge gaming and AI capabilities at a reduced price point."
-  },
-  {
-    "title": "Nvidia and Sega team up to deliver RTX Spark support for future games partnership kicks off next year with upcoming Virtua Fighter Crossroads",
-    "summary": "Nvidia and Sega team up to deliver RTX Spark support for Virtua Fighter Crossroads, with future titles also set to feature the platform. The game is scheduled to launch in 2027. This partnership aims to enhance graphics capabilities in Sega's games.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads",
-    "categories": [
-      "Tech News",
-      "GPUs"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-07-16T10:34:10.485811",
-    "insight": "Next-gen graphics and AI capabilities in upcoming Sega titles matter"
+    "processed_date": "2026-07-17T10:25:02.484954",
+    "insight": "Revolutionizing retro gaming with AI-driven console game recompilations."
   },
   {
-    "title": "Intel's big $5 billion bet on Ireland aims to right the wrongs of the cancelled Magdeburg, Germany complex Fab 34's proven pipeline and Intel 3 node should help the company meet insatiable HPC demand",
-    "summary": "Intel invests $5 billion in Ireland to meet HPC demand, replacing cancelled German plans.",
-    "link": "https://www.tomshardware.com/tech-industry/intel-commits-5-7-billion-to-ireland-one-year-after-cancelling-its-german-and-polish-fab-projects",
+    "title": "Robot vacuum flaw lets one stolen certificate run root commands on other Shark robovacs in the same AWS region unpatched flaw exposes live camera feeds, stored home maps, and Wi-Fi credentials",
+    "summary": "A flaw in Shark's robot vacuum allows a stolen certificate to run root commands on other devices in the same AWS region, exposing live camera feeds, stored home maps, and Wi-Fi credentials.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/shark-robot-vacuum-flaw-lets-one-stolen-certificate-run-root-commands-on-others-in-the-same-aws-region",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-17T10:25:02.485045",
+    "insight": "Over-permissive AWS IoT policy enables unauthorized access to sensitive data"
+  },
+  {
+    "title": "Linus Torvalds rebukes anti-AI stances in the Linux kernel code review process, says 'Linux is not one of those anti-AI projects' creator embraces AI as just a tool and 'clearly a useful one'",
+    "summary": "Linus Torvalds, Linux creator, openly accepts AI-assisted tooling in kernel development.",
+    "link": "https://www.tomshardware.com/software/linux/linus-torvalds-rebukes-anti-ai-stances-in-the-linux-kernel-code-review-process-says-linux-is-not-one-of-those-anti-ai-projects-creator-embraces-ai-as-just-a-tool-and-clearly-a-useful-one",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.485915",
-    "insight": "Intel seeks to revive its manufacturing pipeline in Europe with Ireland investment."
+    "quality_score": 10,
+    "processed_date": "2026-07-17T10:25:02.485146",
+    "insight": "Linux development now incorporates AI as a helpful development tool."
   },
   {
-    "title": "pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter",
-    "summary": "pico-usb-wifi firmware transforms Raspberry Pi Pico W into a driverless USB WiFi adapter, enabling wireless connectivity on various operating systems through a transparent Layer-2 bridge. This adapter exposes an Ethernet connection over USB, allowing users to route Wi-Fi packets from the network. It supports IPv4 and IPv6 configurations, WPA2-PSK and WPA3-SAE authentication, and out-of-band management.",
-    "link": "https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/",
+    "title": "Neural atom quantum computing roadmap how laser-cooled trapped atoms could pave the path beyond physical qubit counts",
+    "summary": "Neural Atom Quantum Computing uses laser-cooled trapped atoms for scalable qubits. This technology enables software-defined configurable arrays and allows qubits to be moved mid-computation. Three leading companies, QuEra, Atom Computing, and Pasqal, are driving innovation in this field.",
+    "link": "https://www.tomshardware.com/tech-industry/quantum-computing/neural-atom-quantum-computing-roadmap-how-laser-cooled-trapped-atoms-could-pave-the-path-beyond-physical-qubit-counts",
     "categories": [
-      "Hardware",
-      "Semiconductors"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.486442",
-    "insight": "Enables seamless wireless connectivity on multiple operating systems without drivers."
+    "processed_date": "2026-07-17T10:25:02.485247",
+    "insight": "Scalable qubits unlock unprecedented computational power and control."
   },
   {
-    "title": "OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding)",
-    "summary": "OpenInfrared Point is a universal remote hub powered by ESP32-S3, controlled via smartphone through QR code or NFC, supporting infrared, IP, and Bluetooth Low Energy device control.",
-    "link": "https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/",
+    "title": "AMD Ryzen 7 7700X3D is exclusive to Newegg in North America $329 CPU won't be available at other vendors until at least Q4",
+    "summary": "The Ryzen 7 7700X3D is a $329 gaming CPU exclusive to Newegg in North America until at least Q4 2026. It's a top performer in gaming, but less versatile for professional tasks.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-7700x3d-is-exclusive-to-newegg-in-north-america-usd329-cpu-wont-be-available-at-other-vendors-until-at-least-q4",
     "categories": [
-      "Hardware",
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-17T10:25:02.485350",
+    "insight": "Exclusivity to Newegg limits Ryzen 7 7700X3D's availability and options."
+  },
+  {
+    "title": "Tower Semiconductor revives shuttered Panasonic-era fab in $3 billion Japan photonics expansion METI-backed plan targets $3.6 billion revenue by 2028",
+    "summary": "Tower Semiconductor is reviving a shuttered fab in Japan as part of a $3 billion expansion to increase production of silicon photonics, silicon germanium, and advanced packaging operations.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tower-semiconductor-revives-shuttered-panasonic-era-fab-in-3-billion-japan-photonics-expansion",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-17T10:25:02.485454",
+    "insight": "Significant investment in Japan to boost global photonics manufacturing capacity"
+  },
+  {
+    "title": "Lenovo announces world's first laptop with inkjet-printed OLED the Legion R9000P is equipped with a 240 Hz IJP panel from TCL CSOT",
+    "summary": "Lenovo's Legion R9000P features a 240 Hz IJP OLED display from TCL CSOT, offering high refresh rate and color accuracy at a lower cost.",
+    "link": "https://www.tomshardware.com/monitors/lenovo-announces-worlds-first-laptop-with-inkjet-printed-oled-the-legion-r9000p-is-equipped-with-a-240-hz-ijp-panel-from-tcl-csot",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-17T10:25:02.485544",
+    "insight": "Inexpensive OLED display technology brings high-end visuals to budget-conscious laptops"
+  },
+  {
+    "title": "Nvidia and Japan unveil world's first national AI infrastructure Noetra consortium to build a 140MW Rubin AI factory with 27,500 GPUs",
+    "summary": "Nvidia and Noetra Corp. partner to build a 140MW AI factory in Japan, featuring 27,500 Rubin GPUs and 13,750 Vera CPUs.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-and-japans-noetra-consortium-to-build-140mw-rubin-ai-factory-with-27500-gpus",
+    "categories": [
+      "GPUs",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-16T10:34:10.486628",
-    "insight": "Universal remote control via smartphone streamlines home device management."
+    "processed_date": "2026-07-17T10:25:02.485638",
+    "insight": "Massive AI infrastructure boosts Japan's AI capabilities and competitiveness globally."
   },
   {
-    "title": "NVIDIA launches smaller, mainstream Jetson T2000 and T3000 modules for Edge AI and robotics applications",
-    "summary": "NVIDIA launched smaller, lower-cost Jetson T2000 and T3000 modules for Edge AI and robotics, offering up to 865 FP4 TFLOPS and 400 TFLOPS of AI compute, respectively, with improved performance and connectivity.",
-    "link": "https://www.cnx-software.com/2026/07/16/nvidia-jetson-t2000-and-t3000-modules-for-edge-ai-and-robotics-applications/",
+    "title": "AMD Ryzen 7 7700X3D review: A slower 7800X3D, but not necessarily a cheaper one",
+    "summary": "The AMD Ryzen 7 7700X3D has lower boost clock speeds than the 7800X3D, but it doesn't offer the same value as previous versions of this segmentation, making it a questionable choice.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-7700x3d-cpu-review",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 20,
-    "processed_date": "2026-07-16T10:34:10.486802",
-    "insight": "Smaller, lower-cost AI modules enable more widespread Edge AI adoption."
+    "quality_score": 10,
+    "processed_date": "2026-07-17T10:25:02.485721",
+    "insight": "Lower specs don't necessarily translate to lower purchase prices."
   },
   {
-    "title": "Bigme Hibreak Dual 2 An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding)",
-    "summary": "Bigme's Hibreak Dual 2 features a dual-screen setup with a 6.13-inch E-Ink display and a 5-inch LCD display, allowing users to switch between the two depending on the task. The device is powered by the MediaTek Dimensity 8300 processor and runs on Android 16. It supports dual 5G connectivity and comes with flagship-class hardware.",
-    "link": "https://www.cnx-software.com/2026/07/15/bigme-hibreak-dual-2-an-android-16-smartphone-with-6-13-inch-80fps-e-ink-and-5-inch-lcd-display/",
+    "title": "Elon Musk spent estimated $1 billion on an energy company to power xAI, filings reveal APR Energy owns a fleet of trailer-mounted gas and diesel turbines capable of generating more than 1 gigawatt",
+    "summary": "Elon Musk acquired APR Energy for an estimated $1 billion. APR Energy provides mobile turbine generators. The purchase was not publicly announced.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/elon-musk-spent-estimated-usd1-billion-on-an-energy-company-to-power-xai-filings-reveal-apr-energy-owns-a-fleet-of-trailer-mounted-gas-and-diesel-turbines-capable-of-generating-more-than-1-gigawatt",
     "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-16T10:34:10.486972",
-    "insight": "Dual-screen setup for flexible display usage experiences"
-  },
-  {
-    "title": "Cadence AuraStack debuts to boost PCB and packaging designers",
-    "summary": "Cadence AuraStack, an AI Super Agent, is designed to support PCB and packaging designers. It has received endorsements from Nvidia, TSMC, and Schneider. This AI tool aims to streamline design processes.",
-    "link": "https://www.fiercesensors.com/ai/cadence-aurastack-debuts-boost-pcb-and-packaging-designers",
-    "categories": [
-      "Hardware",
-      "AI & ML"
+      "AI & ML",
+      "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-07-16T10:34:10.487980",
-    "insight": "Boosts efficiency in complex PCB and packaging design processes"
+    "processed_date": "2026-07-17T10:25:02.485820",
+    "insight": "Musk expands energy capabilities to power AI technologies significantly"
   },
   {
-    "title": "Linus Torvalds tells anti-AI critics to fork Linux or walk away",
-    "summary": "Linus Torvalds firmly stands by AI integration in Linux development, prompting a fork or exit.",
-    "link": "https://www.techspot.com/news/113138-linus-torvalds-tells-anti-ai-critics-fork-linux.html",
+    "title": "TSMC commits another $100 billion to Arizona for at least four more 2nm fabs 2026 capex could hit $64 billion following another record quarterly earnings",
+    "summary": "TSMC commits $100 billion to Arizona for additional chipmaking plants and facilities.",
+    "link": "https://www.tomshardware.com/tech-industry/tsmc-commits-another-100-billion-to-arizona-for-at-least-four-more-2nm-fabs",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-16T10:34:10.488434",
-    "insight": "Torvalds prioritizes AI integration as a core Linux development decision maker."
-  },
-  {
-    "title": "Nvidia and Sega are teaming up again, 30 years after Sega saved Nvidia from bankruptcy",
-    "summary": "Nvidia and Sega are teaming up again, 30 years after Sega saved Nvidia from bankruptcy. The partnership will bring new Sega games with support for Nvidia's latest technologies, including ray tracing and AI-powered rendering. Nvidia's AI tools will also be integrated with the upcoming titles.",
-    "link": "https://www.techspot.com/news/113132-nvidia-sega-teaming-up-again-30-years-after.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.488612",
-    "insight": "Nvidia gains exclusive gaming foothold with Sega partnership revival."
+    "processed_date": "2026-07-17T10:25:02.485906",
+    "insight": "Boosts US semiconductor industry and global tech supply chain resilience."
   },
   {
-    "title": "IBM's stock just had its worst day since 1968",
-    "summary": "IBM's stock plummeted due to unexpected shortfalls in financial performance, partly attributed to reduced mainframe investments.",
-    "link": "https://www.techspot.com/news/113120-ibm-warns-investors-ai-hardware-demand-hurting-mainframe.html",
+    "title": "Asus ROG Xreal R1 Review: Gaming-focused AR glasses deliver 240 Hz performance and RGB style",
+    "summary": "Asus ROG Xreal R1 AR glasses deliver high performance and style, featuring a 240 Hz refresh rate and a breakout box for connection to PCs or consoles.",
+    "link": "https://www.tomshardware.com/peripherals/wearable-tech/asus-rog-xreal-r1-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-17T10:25:02.485991",
+    "insight": "Enhanced gaming experience through high refresh rates and connectivity options"
+  },
+  {
+    "title": "Prusa Research Founder Edition INDX launches limited 1,000-unit run of revolutionary toolchanger mod now shipping",
+    "summary": "A limited run of 1,000 Prusa CORE One INDX Founder Editions has shipped, offering early access to Bondtech's toolchanger mod. This special edition is designed for early adopters and Prusa enthusiasts. The toolchanger mod is a revolutionary innovation in 3D printing technology.",
+    "link": "https://www.tomshardware.com/3d-printing/prusa-research-founder-edition-indx-launches-limited-1-000-unit-run-of-revolutionary-toolchanger-mod-now-shipping",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-17T10:25:02.486081",
+    "insight": "Early adopters get exclusive access to game-changing toolchanger mod"
+  },
+  {
+    "title": "OpenAI's first hardware device is an RGB macropod 'Codex Micro' features 13 low-profile keys and a joystick for controlling AI coding agents",
+    "summary": "OpenAI's Codex Micro is a customizable RGB macropad for AI coding agents, offering a range of customizable inputs and RGB feedback.",
+    "link": "https://www.tomshardware.com/peripherals/keyboards/openais-first-hardware-device-is-an-rgb-macropod-codex-micro-features-13-low-profile-keys-and-a-joystick-for-controlling-ai-coding-agents",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-16T10:34:10.488777",
-    "insight": "Decline in mainframe sales threatens IBM's legacy business model."
+    "processed_date": "2026-07-17T10:25:02.486186",
+    "insight": "Streamlining AI coding experience with intuitive, customizable interfaces."
   },
   {
-    "title": "LibreWolf is a Firefox-based browser focused on privacy and security",
-    "summary": "LibreWolf is a Firefox-based browser prioritizing user privacy and security features.",
-    "link": "https://www.techspot.com/downloads/7781-librewolf.html",
+    "title": "Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs",
+    "summary": "Espressif Systems has released an SDK for Aliro smart door locks, based on ESP32-C and ESP32-H SoCs, supporting features like NFC tap-to-unlock and access control. The solution aims to reduce fragmentation and facilitate compatibility with popular wallets. Espressif's ESP-Aliro SDK currently only supports Aliro NFC for tap-to-unlock applications.",
+    "link": "https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/",
     "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.488926",
-    "insight": "Protecting user data from invasive browser tracking and spying."
-  },
-  {
-    "title": "Samsung introduces Flex Titanium, a new foldable screen tech with reduced creasing",
-    "summary": "Samsung's Flex Titanium tech reduces creasing in foldable screens with a titanium-alloy film.",
-    "link": "https://www.techspot.com/news/113131-samsung-introduces-flex-titanium-new-foldable-screen-tech.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
+      "Hardware",
+      "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-16T10:34:10.489081",
-    "insight": "Improved durability boosts long-term usability of foldable devices."
+    "processed_date": "2026-07-17T10:25:02.486716",
+    "insight": "Reducing smart lock fragmentation for seamless wallet compatibility"
   },
   {
-    "title": "Microsoft deleted a hacked user's 25-year-old Xbox account, along with his OneDrive baby photos",
-    "summary": "A Dutch streamer lost access to his son's baby photos and digital games after Microsoft permanently suspended his hijacked account.",
-    "link": "https://www.techspot.com/news/113121-microsoft-deleted-hacked-user-25-year-old-xbox.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.489229",
-    "insight": "Microsoft's strict security measures can cause unintended permanent user data loss."
-  },
-  {
-    "title": "Boston Dynamics tests Spot as a delivery assistant that carries packages",
-    "summary": "Boston Dynamics tests Spot as a delivery assistant, carrying packages on a route with a driver.",
-    "link": "https://www.techspot.com/news/113128-boston-dynamics-tests-spot-delivery-assistant-carries-packages.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.489382",
-    "insight": "Autonomous delivery robots could improve logistics efficiency and reduce labor costs."
-  },
-  {
-    "title": "Enthusiast project turns the Steam Controller into a cross-platform gamepad",
-    "summary": "The OpenPuck project allows the Steam Controller to work seamlessly with PC games without requiring Steam to run in the background, making it a cross-platform gamepad.",
-    "link": "https://www.techspot.com/news/113123-enthusiast-project-turns-steam-controller-cross-platform-gamepad.html",
+    "title": "reCamera Pro Open AI Camera supports computer vision, LLM, VLM, STT, and TTS workloads",
+    "summary": "Seeed Studio's reCamera Pro is an AI camera with on-device AI capabilities, supporting computer vision, LLMs, VLMs, STT, and TTS workloads, with a Rockchip RV1126B SoC and 3 TOPS NPU.",
+    "link": "https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.489544",
-    "insight": "Eliminates need for Steam background process for XInput compatibility."
+    "quality_score": 10,
+    "processed_date": "2026-07-17T10:25:02.486862",
+    "insight": "Empowering AI applications at the edge with on-device processing capabilities."
   },
   {
-    "title": "Ubisoft endured a review-bombing campaign, then made $1 million from Black Flag Resynced's controversial DLC",
-    "summary": "Ubisoft's Black Flag remake faced a review-bombing campaign for excessive DLC costs, but still managed to earn $1 million from one of its DLCs. The controversy led to a remake of the game. The combined cost of DLCs was higher than the game's price.",
-    "link": "https://www.techspot.com/news/113130-ubisoft-endured-review-bombing-campaign-made-1-million.html",
+    "title": "Olimex PICO-EVB automation board adds high-voltage terminals to Raspberry Pi Pico family",
+    "summary": "The Olimex PICO-EVB board is designed for high-voltage automation with Raspberry Pi Pico family, featuring multiple high-voltage inputs and relays.",
+    "link": "https://www.cnx-software.com/2026/07/17/olimex-pico-evb-automation-board-adds-high-voltage-terminals-to-raspberry-pi-pico-family/",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-17T10:25:02.487004",
+    "insight": "Enables safe high-voltage automation using Raspberry Pi Pico microcontrollers."
+  },
+  {
+    "title": "New York school deploys AI teaching robot from company linked to sex bots",
+    "summary": "A New York school is deploying an AI teaching robot named Sally from Realbotix, linked to sex bots, to provide students with an AI-powered learning assistant.",
+    "link": "https://www.techspot.com/news/113154-new-york-school-deploys-ai-teaching-robot-company.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-17T10:25:02.488177",
+    "insight": "Blurred lines between AI learning tools and adult entertainment raise concerns."
+  },
+  {
+    "title": "AMD Ryzen 7 5800X3D 10th Anniversary Edition Review",
+    "summary": "AMD's Ryzen 7 5800X3D offers modern gaming performance at an affordable price. For AM4 owners, it's a viable option despite being four years old. This may be the smartest path to modern gaming performance today.",
+    "link": "https://www.techspot.com/review/3149-amd-ryzen-5800x3d-anniversary-edition/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-17T10:25:02.488301",
+    "insight": "Cost-effective gaming upgrade option for AM4 owners with DDR4."
+  },
+  {
+    "title": "The PS3 emulator that shouldn't exist can now play 75% of the console's game library",
+    "summary": "RPCS3, a PS3 emulator, has reached 75% compatibility with PS3 games on PC.",
+    "link": "https://www.techspot.com/news/113147-ps3-emulator-shouldnt-exist-can-now-play-75.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-17T10:25:02.488422",
+    "insight": "Massive gaming library now accessible on PC through emulation technology."
+  },
+  {
+    "title": "OpenAI's first hardware product is a $230 mini keypad for AI coding",
+    "summary": "OpenAI has unveiled its first hardware product, a mini keypad priced at $230, designed for AI coding.",
+    "link": "https://www.techspot.com/news/113146-openai-first-hardware-product-230-mini-keypad-ai.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-17T10:25:02.488523",
+    "insight": "AI accessibility expands to developers with affordable hardware solution."
+  },
+  {
+    "title": "Microsoft's latest Patch Tuesday fixes 570 security bugs, but some Dell PCs will have to wait",
+    "summary": "Microsoft's July 2024 Patch Tuesday fixes 570 Windows security bugs, including three zero-day flaws.",
+    "link": "https://www.techspot.com/news/113144-microsoft-latest-patch-tuesday-fixes-570-security-bugs.html",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-16T10:34:10.489703",
-    "insight": "Controversy doesn't always deter players from buying expensive DLCs"
+    "quality_score": 5,
+    "processed_date": "2026-07-17T10:25:02.488637",
+    "insight": "Massive security updates mitigate critical vulnerabilities exploited by cybercriminals."
   },
   {
-    "title": "Riot is reviving old League of Legends even as it prepares the game's biggest overhaul ever",
-    "summary": "Riot is reviving the original League of Legends game with a new Classic mode, focusing on characters and gameplay elements from the first three seasons. The Classic mode is available to download now and will launch at the end of this month. This mode is part of a larger game overhaul.",
-    "link": "https://www.techspot.com/news/113119-riot-reviving-old-league-legends-even-prepares-game.html",
+    "title": "TSMC plans include at least four more 2nm fabs in $100 billion Arizona expansion",
+    "summary": "TSMC plans to expand in Arizona with at least four 2nm fabs, part of a $100 billion investment. This comes as the company reports a record quarterly profit and increases its 2026 capital expenditure forecast to up to $64 billion.",
+    "link": "https://www.techspot.com/news/113141-tsmc-plans-least-four-more-2nm-fabs-100.html",
     "categories": [
-      "AI & ML",
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-17T10:25:02.488721",
+    "insight": "Massive investment in US chip production boosts Taiwan Semiconductor's global presence."
+  },
+  {
+    "title": "Ryzen 7 7700X3D delivers the gaming performance, but not the value",
+    "summary": "AMD's Ryzen 7 7700X3D offers competitive gaming performance but struggles with value.",
+    "link": "https://www.techspot.com/specs/cpu/328797-amd-ryzen-7-7700x3d.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-17T10:25:02.488809",
+    "insight": "Launch price makes it hard to recommend over other options."
+  },
+  {
+    "title": "This PC gamer turned old SSDs into gorgeous physical cartridges for Steam games",
+    "summary": "A PC gamer turned old SSDs into custom physical cartridges for Steam games, showcasing a creative way to experience digital gaming in a physical format.",
+    "link": "https://www.techspot.com/news/113134-pc-gamer-turned-old-ssds-gorgeous-physical-cartridges.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-17T10:25:02.488910",
+    "insight": "Blending digital convenience with nostalgic physical gaming experiences."
+  },
+  {
+    "title": "To fund Apple's first computer, Steve Wozniak and Steve Jobs sold...",
+    "summary": "Steve Wozniak and Steve Jobs sold the Apple-1 to raise funds for Apple's first computer. The Apple-1 was designed and hand-built by Wozniak, and Jobs helped with sales and marketing. This led to the development of the Apple II, one of the first highly successful mass-produced personal computers.",
+    "link": "https://www.techspot.com/trivia/144-fund-creation-apple-first-computer-steve-wozniak-steve/",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-17T10:25:02.488981",
+    "insight": "Funding Apple-1 led to the creation of the Apple II computer."
+  },
+  {
+    "title": "Netflix celebrates 10 years of Stranger Thing with a VHS-quality version of the first season",
+    "summary": "Netflix celebrates 10 years of Stranger Things with a VHS-quality release. The first season, launched on July 15, 2016, was a groundbreaking hit. This nostalgic release honors the series' nostalgic roots.",
+    "link": "https://www.techspot.com/news/113142-netflix-celebrates-10-years-stranger-thing-vhs-quality.html",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.489852",
-    "insight": "Reviving nostalgia to refresh player engagement and loyalty"
+    "processed_date": "2026-07-17T10:25:02.489070",
+    "insight": "Nostalgia-driven marketing can breathe new life into iconic franchises."
   },
   {
-    "title": "The US just sanctioned a VPN for the first time, accusing it of helping ransomware gangs",
-    "summary": "The US has sanctioned a VPN service and its administrator, accusing them of assisting ransomware gangs. A second individual was also sanctioned for selling tools designed to disguise malware. The move marks the first time a VPN has been sanctioned by the US.",
-    "link": "https://www.techspot.com/news/113129-us-treasury-sanctions-vpn-provider-administrator-first-time.html",
+    "title": "Woman discovers a hidden AI camera in her rental car recording her and warning about unsafe driving",
+    "summary": "A woman discovered a hidden AI camera in her rental Audi, recording her and providing driver safety warnings.",
+    "link": "https://www.techspot.com/news/113137-woman-discovers-rental-car-has-ai-powered-camera.html",
     "categories": [
       "AI & ML",
-      "Semiconductors"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.490015",
-    "insight": "US expands sanctions to target VPNs supporting cybercrime activities globally."
+    "processed_date": "2026-07-17T10:25:02.489164",
+    "insight": "Privacy invasion concerns arise from integrated AI-powered dashboard cameras."
   },
   {
-    "title": "Microsoft finally patched Secure Boot bypasses that were hiding in plain sight since 2013",
-    "summary": "Microsoft patched Secure Boot bypasses in 11 shim binaries, affecting systems since 2013. The issue lies in compromised trusted components that can affect the entire boot process. The bug allows malicious code to run during boot.",
-    "link": "https://www.techspot.com/news/113124-microsoft-finally-patched-secure-boot-bypasses-hiding-plain.html",
+    "title": "This retro-style home phone lets kids call friends without apps, browsers, or social media",
+    "summary": "Pinwheel has launched the Pinwheel Home, a retro-style home phone for kids, allowing them to call friends without needing apps, browsers, or social media.",
+    "link": "https://www.techspot.com/news/113140-pinwheel-new-retro-style-home-phone-kids-call.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-17T10:25:02.489244",
+    "insight": "Promotes safe, app-free communication for children in the digital age."
+  },
+  {
+    "title": "Steam Machine benchmarks show SteamOS and Windows 11 within a few frames of each other in most games",
+    "summary": "A benchmark by ETA Prime shows SteamOS and Windows 11 performing similarly in most games, with SteamOS often falling just a few frames behind. However, a synthetic benchmark gave Windows a significant advantage. The results suggest that SteamOS is a viable alternative to Windows for gaming purposes.",
+    "link": "https://www.techspot.com/news/113136-steam-machine-benchmarks-show-steamos-windows-11-within.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-17T10:25:02.489329",
+    "insight": "SteamOS is a viable gaming alternative to Windows for many users."
+  },
+  {
+    "title": "George Lucas says rejecting AI is like choosing the horse and buggy over cars",
+    "summary": "George Lucas compares rejecting AI to choosing outdated technology, like horse and buggy over cars, suggesting AI's potential to revolutionize industries and improve lives.",
+    "link": "https://www.techspot.com/news/113139-george-lucas-rejecting-ai-like-choosing-horse-buggy.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.490163",
-    "insight": "Trusted components can compromise entire system security via Secure Boot bypasses"
+    "processed_date": "2026-07-17T10:25:02.489425",
+    "insight": "Embracing AI is crucial for progress and future innovation."
   },
   {
-    "title": "Repair shops are booming during heatwaves as people keep putting phones in fridges",
-    "summary": "A UK repair shop owner reports a surge in devices damaged by internal moisture, mainly due to phones being stored in fridges during heatwaves.",
-    "link": "https://www.techspot.com/news/113127-repair-shops-booming-during-heatwaves-people-keep-putting.html",
+    "title": "Stripe and Advent offer more than $53 billion to buy PayPal and create a payments giant",
+    "summary": "Stripe and Advent offer over $53 billion to acquire PayPal, preserving its unity. The companies plan to share ownership of PayPal evenly. This unusual structure aims to maintain PayPal's core operations.",
+    "link": "https://www.techspot.com/news/113135-stripe-advent-offer-more-than-53-billion-buy.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-16T10:34:10.490301",
-    "insight": "Refrigerating phones during heatwaves causes costly damage to electronic devices."
+    "processed_date": "2026-07-17T10:25:02.489519",
+    "insight": "Merging PayPal with Stripe creates a dominant payments infrastructure giant."
   }
 ]

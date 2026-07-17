@@ -1,95 +1,85 @@
 # 🎮 GPUs
-**Week of July 16, 2026**
+**Week of July 17, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-07-16 10:35
+- **Articles this week:** 7
+- **Report generated:** 2026-07-17 10:26
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. NVIDIA launches smaller, mainstream Jetson T2000 and T3000 modules for Edge AI and robotics applications ⭐
+### 1. Asus ROG Xreal R1 Review: Gaming-focused AR glasses deliver 240 Hz performance and RGB style ⭐
 
-NVIDIA launched smaller, lower-cost Jetson T2000 and T3000 modules for Edge AI and robotics, offering up to 865 FP4 TFLOPS and 400 TFLOPS of AI compute, respectively, with improved performance and connectivity.
+Asus ROG Xreal R1 AR glasses deliver high performance and style, featuring a 240 Hz refresh rate and a breakout box for connection to PCs or consoles.
 
-💡 *Smaller, lower-cost AI modules enable more widespread Edge AI adoption.*
+💡 *Enhanced gaming experience through high refresh rates and connectivity options*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/16/nvidia-jetson-t2000-and-t3000-modules-for-edge-ai-and-robotics-applications/)
-
----
-
-### 2. ASRock Phantom Gaming and Steel Legend 360 LCD review: An impressive cooling debut ⭐
-
-ASRock debuts in the cooling market with two impressive all-in-one liquid coolers, the Phantom Gaming 360 LCD and Steel Legend 360 LCD, tested against AMD's Ryzen 9 9950X3D processor.
-
-💡 *ASRock's AIO coolers showcase efficient cooling for high-performance processors.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/asrock-phantom-gaming-and-steel-legend-360-lcd-review)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/asus-rog-xreal-r1-review)
 
 ---
 
-### 3. Bigme Hibreak Dual 2 An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding) ⭐
+### 2. AMD Ryzen 7 5800X3D 10th Anniversary Edition Review ⭐
 
-Bigme's Hibreak Dual 2 features a dual-screen setup with a 6.13-inch E-Ink display and a 5-inch LCD display, allowing users to switch between the two depending on the task. The device is powered by the MediaTek Dimensity 8300 processor and runs on Android 16. It supports dual 5G connectivity and comes with flagship-class hardware.
+AMD's Ryzen 7 5800X3D offers modern gaming performance at an affordable price. For AM4 owners, it's a viable option despite being four years old. This may be the smartest path to modern gaming performance today.
 
-💡 *Dual-screen setup for flexible display usage experiences*
+💡 *Cost-effective gaming upgrade option for AM4 owners with DDR4.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/15/bigme-hibreak-dual-2-an-android-16-smartphone-with-6-13-inch-80fps-e-ink-and-5-inch-lcd-display/)
-
----
-
-### 4. 'PCIe Gen7 development has already started,' says Silicon Motion's Alex Chou Nvidia's Storage Next initiative is becoming a focal point 
-
-Silicon Motion is a new entrant in the data center storage market, quickly gaining traction with orders from various customers and ramping up shipments of its high-end PCIe 5.0 SSD controllers. The company has a unique view on the market, which it shared with Tom's Hardware. This development is significant for the market.
-
-💡 *PCIe Gen7 development has already started, a step ahead of competition.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/pcie-gen7-development-has-already-started-says-silicon-motions-alex-chou-nvidias-storage-next-initiative-is-becoming-a-focal-point)
+🔗 [Read Full Article](https://www.techspot.com/review/3149-amd-ryzen-5800x3d-anniversary-edition/)
 
 ---
 
-### 5. Nvidia and Sega team up to deliver RTX Spark support for future games partnership kicks off next year with upcoming Virtua Fighter Crossroads 
+### 3. Ryzen 7 7700X3D delivers the gaming performance, but not the value ⭐
 
-Nvidia and Sega team up to deliver RTX Spark support for Virtua Fighter Crossroads, with future titles also set to feature the platform. The game is scheduled to launch in 2027. This partnership aims to enhance graphics capabilities in Sega's games.
+AMD's Ryzen 7 7700X3D offers competitive gaming performance but struggles with value.
 
-💡 *Next-gen graphics and AI capabilities in upcoming Sega titles matter*
+💡 *Launch price makes it hard to recommend over other options.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/nvidia-and-sega-team-up-to-deliver-rtx-spark-support-for-future-games-partnership-kicks-off-next-year-with-upcoming-virtua-fighter-crossroads)
-
----
-
-### 6. Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin company says that 'our roadmap is intact' 
-
-Nvidia's CEO promises to deliver 'giant amounts' of Vera Rubin machines, citing an intact roadmap. However, the company has yet to address rumored delays in Kyber NVL144 racks. The Vera Rubin-based machines are a key part of Nvidia's datacenter strategy.
-
-💡 *Nvidia's datacenter strategy hinges on Vera Rubin machines success*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact)
+🔗 [Read Full Article](https://www.techspot.com/specs/cpu/328797-amd-ryzen-7-7700x3d.html)
 
 ---
 
-### 7. Palit officially announces RTX 3060 return with 'new' Infinity 2 OC launch 2021 GPU with 12GB of VRAM is an AI crisis stopgap 
+### 4. Nvidia and Japan unveil world's first national AI infrastructure Noetra consortium to build a 140MW Rubin AI factory with 27,500 GPUs 
 
-Nvidia has re-released the 5-year-old RTX 3060 with 12GB VRAM at $329, addressing memory concerns.
+Nvidia and Noetra Corp. partner to build a 140MW AI factory in Japan, featuring 27,500 Rubin GPUs and 13,750 Vera CPUs.
 
-💡 *Re-released GPU offers temporary reprieve during AI-driven VRAM shortage crisis.*
+💡 *Massive AI infrastructure boosts Japan's AI capabilities and competitiveness globally.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/palit-officially-announces-rtx-3060-return-with-new-infinity-2-oc-launch-2021-gpu-with-12gb-of-vram-is-an-ai-crisis-stopgap)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-and-japans-noetra-consortium-to-build-140mw-rubin-ai-factory-with-27500-gpus)
 
 ---
 
-### 8. Nvidia and Sega are teaming up again, 30 years after Sega saved Nvidia from bankruptcy 
+### 5. AMD Ryzen 7 7700X3D review: A slower 7800X3D, but not necessarily a cheaper one 
 
-Nvidia and Sega are teaming up again, 30 years after Sega saved Nvidia from bankruptcy. The partnership will bring new Sega games with support for Nvidia's latest technologies, including ray tracing and AI-powered rendering. Nvidia's AI tools will also be integrated with the upcoming titles.
+The AMD Ryzen 7 7700X3D has lower boost clock speeds than the 7800X3D, but it doesn't offer the same value as previous versions of this segmentation, making it a questionable choice.
 
-💡 *Nvidia gains exclusive gaming foothold with Sega partnership revival.*
+💡 *Lower specs don't necessarily translate to lower purchase prices.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113132-nvidia-sega-teaming-up-again-30-years-after.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-7700x3d-cpu-review)
+
+---
+
+### 6. AMD Ryzen 7 7700X3D is exclusive to Newegg in North America $329 CPU won't be available at other vendors until at least Q4 
+
+The Ryzen 7 7700X3D is a $329 gaming CPU exclusive to Newegg in North America until at least Q4 2026. It's a top performer in gaming, but less versatile for professional tasks.
+
+💡 *Exclusivity to Newegg limits Ryzen 7 7700X3D's availability and options.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-7700x3d-is-exclusive-to-newegg-in-north-america-usd329-cpu-wont-be-available-at-other-vendors-until-at-least-q4)
+
+---
+
+### 7. This PC gamer turned old SSDs into gorgeous physical cartridges for Steam games 
+
+A PC gamer turned old SSDs into custom physical cartridges for Steam games, showcasing a creative way to experience digital gaming in a physical format.
+
+💡 *Blending digital convenience with nostalgic physical gaming experiences.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113134-pc-gamer-turned-old-ssds-gorgeous-physical-cartridges.html)
 
 ---
 

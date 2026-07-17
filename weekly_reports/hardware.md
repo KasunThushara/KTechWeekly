@@ -1,145 +1,175 @@
 # 💻 Hardware
-**Week of July 16, 2026**
+**Week of July 17, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-07-16 10:35
+- **Articles this week:** 16
+- **Report generated:** 2026-07-17 10:26
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. NVIDIA launches smaller, mainstream Jetson T2000 and T3000 modules for Edge AI and robotics applications ⭐
+### 1. Asus ROG Xreal R1 Review: Gaming-focused AR glasses deliver 240 Hz performance and RGB style ⭐
 
-NVIDIA launched smaller, lower-cost Jetson T2000 and T3000 modules for Edge AI and robotics, offering up to 865 FP4 TFLOPS and 400 TFLOPS of AI compute, respectively, with improved performance and connectivity.
+Asus ROG Xreal R1 AR glasses deliver high performance and style, featuring a 240 Hz refresh rate and a breakout box for connection to PCs or consoles.
 
-💡 *Smaller, lower-cost AI modules enable more widespread Edge AI adoption.*
+💡 *Enhanced gaming experience through high refresh rates and connectivity options*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/16/nvidia-jetson-t2000-and-t3000-modules-for-edge-ai-and-robotics-applications/)
-
----
-
-### 2. Bigme Hibreak Dual 2 An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding) ⭐
-
-Bigme's Hibreak Dual 2 features a dual-screen setup with a 6.13-inch E-Ink display and a 5-inch LCD display, allowing users to switch between the two depending on the task. The device is powered by the MediaTek Dimensity 8300 processor and runs on Android 16. It supports dual 5G connectivity and comes with flagship-class hardware.
-
-💡 *Dual-screen setup for flexible display usage experiences*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/15/bigme-hibreak-dual-2-an-android-16-smartphone-with-6-13-inch-80fps-e-ink-and-5-inch-lcd-display/)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/asus-rog-xreal-r1-review)
 
 ---
 
-### 3. 'PCIe Gen7 development has already started,' says Silicon Motion's Alex Chou Nvidia's Storage Next initiative is becoming a focal point 
+### 2. AMD Ryzen 7 5800X3D 10th Anniversary Edition Review ⭐
 
-Silicon Motion is a new entrant in the data center storage market, quickly gaining traction with orders from various customers and ramping up shipments of its high-end PCIe 5.0 SSD controllers. The company has a unique view on the market, which it shared with Tom's Hardware. This development is significant for the market.
+AMD's Ryzen 7 5800X3D offers modern gaming performance at an affordable price. For AM4 owners, it's a viable option despite being four years old. This may be the smartest path to modern gaming performance today.
 
-💡 *PCIe Gen7 development has already started, a step ahead of competition.*
+💡 *Cost-effective gaming upgrade option for AM4 owners with DDR4.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/pcie-gen7-development-has-already-started-says-silicon-motions-alex-chou-nvidias-storage-next-initiative-is-becoming-a-focal-point)
-
----
-
-### 4. OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding) 
-
-OpenInfrared Point is a universal remote hub powered by ESP32-S3, controlled via smartphone through QR code or NFC, supporting infrared, IP, and Bluetooth Low Energy device control.
-
-💡 *Universal remote control via smartphone streamlines home device management.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/)
+🔗 [Read Full Article](https://www.techspot.com/review/3149-amd-ryzen-5800x3d-anniversary-edition/)
 
 ---
 
-### 5. IBM's stock just had its worst day since 1968 
+### 3. Ryzen 7 7700X3D delivers the gaming performance, but not the value ⭐
 
-IBM's stock plummeted due to unexpected shortfalls in financial performance, partly attributed to reduced mainframe investments.
+AMD's Ryzen 7 7700X3D offers competitive gaming performance but struggles with value.
 
-💡 *Decline in mainframe sales threatens IBM's legacy business model.*
+💡 *Launch price makes it hard to recommend over other options.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113120-ibm-warns-investors-ai-hardware-demand-hurting-mainframe.html)
-
----
-
-### 6. Ubisoft endured a review-bombing campaign, then made $1 million from Black Flag Resynced's controversial DLC 
-
-Ubisoft's Black Flag remake faced a review-bombing campaign for excessive DLC costs, but still managed to earn $1 million from one of its DLCs. The controversy led to a remake of the game. The combined cost of DLCs was higher than the game's price.
-
-💡 *Controversy doesn't always deter players from buying expensive DLCs*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113130-ubisoft-endured-review-bombing-campaign-made-1-million.html)
+🔗 [Read Full Article](https://www.techspot.com/specs/cpu/328797-amd-ryzen-7-7700x3d.html)
 
 ---
 
-### 7. 75% of all PS3 games reportedly now run on PC via open-source emulator RPCS3 announcement comes weeks after Sony's plan to shutter the PlayStation Store for PS3 and PS Vita by 
+### 4. Mario Kart Wii recompiled for PC using AI, with 4K potential and uncapped frame rates 'first static recompilation of a Wii game' supports over 200 tracks thanks to Retro Rewind compatibility 
 
-The RPCS3 team has made significant progress with their open-source emulator, now allowing 75.33% of PS3 games to be played on Windows, Linux, macOS, and FreeBSD, a result of their efforts to ensure compatibility for over 2,600 titles.
+Mario Kart Wii has been recompiled for PC with AI, offering 4K potential and uncapped frame rates. This marks the 'first static recompilation of a Wii game.' The recompiled game supports over 200 tracks thanks to Retro Rewind compatibility.
 
-💡 *Preserving gaming history and extending console lifespan digitally.*
+💡 *Revolutionizing retro gaming with AI-driven console game recompilations.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/open-source-ps3-emulator-says-its-now-compatible-with-over-75-percent-of-all-ps3-games-on-pc-rpcs3-announcement-comes-weeks-after-sony-announced-the-shuttering-of-the-playstation-store-for-ps3-and-ps-vita-by-july-2027)
-
----
-
-### 8. PC gamer turns Steam games into cartridges with ingenious 2.5-inch SSD system games are stored on 128GB drives alongside a script to auto-start the title once plugged in 
-
-A PC gamer created a Steam Game Cartridge system using 2.5-inch SSDs, storing games on 128GB drives and implementing an auto-start script.
-
-💡 *Revolutionizing portable game storage with high-capacity SSD cartridges.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/pc-gamer-turns-steam-games-into-cartridges-with-ingenious-2-5-inch-ssd-system-games-are-stored-on-128gb-drives-alongside-a-script-to-auto-start-the-title-once-plugged-in)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/mario-kart-wii-recompiled-for-pc-using-ai-with-4k-potential-and-uncapped-frame-rates-first-static-recompilation-of-a-wii-game-supports-over-200-tracks-thanks-to-retro-rewind-compatibility)
 
 ---
 
-### 9. Best Buy has slashed $900 off this Asus 64GB 2-in-1 touchscreen gaming laptop $2,099 RoG Flow Z13 is great for both gaming and AI use 
+### 5. Linus Torvalds rebukes anti-AI stances in the Linux kernel code review process, says 'Linux is not one of those anti-AI projects' creator embraces AI as just a tool and 'clearly a useful one' 
 
-Save $900 on the Asus RoG Flow Z13, a versatile 2-in-1 gaming laptop/tablet.
+Linus Torvalds, Linux creator, openly accepts AI-assisted tooling in kernel development.
 
-💡 *Cutting-edge gaming and AI capabilities at a reduced price point.*
+💡 *Linux development now incorporates AI as a helpful development tool.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/best-buy-has-slashed-usd900-off-this-asus-64gb-2-in-1-touchscreen-gaming-laptop-usd2-099-rog-flow-z13-is-great-for-both-gaming-and-ai-use)
-
----
-
-### 10. Intel's big $5 billion bet on Ireland aims to right the wrongs of the cancelled Magdeburg, Germany complex Fab 34's proven pipeline and Intel 3 node should help the company meet insatiable HPC demand 
-
-Intel invests $5 billion in Ireland to meet HPC demand, replacing cancelled German plans.
-
-💡 *Intel seeks to revive its manufacturing pipeline in Europe with Ireland investment.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-commits-5-7-billion-to-ireland-one-year-after-cancelling-its-german-and-polish-fab-projects)
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/linus-torvalds-rebukes-anti-ai-stances-in-the-linux-kernel-code-review-process-says-linux-is-not-one-of-those-anti-ai-projects-creator-embraces-ai-as-just-a-tool-and-clearly-a-useful-one)
 
 ---
 
-### 11. pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter 
+### 6. AMD Ryzen 7 7700X3D review: A slower 7800X3D, but not necessarily a cheaper one 
 
-pico-usb-wifi firmware transforms Raspberry Pi Pico W into a driverless USB WiFi adapter, enabling wireless connectivity on various operating systems through a transparent Layer-2 bridge. This adapter exposes an Ethernet connection over USB, allowing users to route Wi-Fi packets from the network. It supports IPv4 and IPv6 configurations, WPA2-PSK and WPA3-SAE authentication, and out-of-band management.
+The AMD Ryzen 7 7700X3D has lower boost clock speeds than the 7800X3D, but it doesn't offer the same value as previous versions of this segmentation, making it a questionable choice.
 
-💡 *Enables seamless wireless connectivity on multiple operating systems without drivers.*
+💡 *Lower specs don't necessarily translate to lower purchase prices.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/)
-
----
-
-### 12. Enthusiast project turns the Steam Controller into a cross-platform gamepad 
-
-The OpenPuck project allows the Steam Controller to work seamlessly with PC games without requiring Steam to run in the background, making it a cross-platform gamepad.
-
-💡 *Eliminates need for Steam background process for XInput compatibility.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113123-enthusiast-project-turns-steam-controller-cross-platform-gamepad.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-7700x3d-cpu-review)
 
 ---
 
-### 13. Cadence AuraStack debuts to boost PCB and packaging designers 
+### 7. OpenAI's first hardware device is an RGB macropod 'Codex Micro' features 13 low-profile keys and a joystick for controlling AI coding agents 
 
-Cadence AuraStack, an AI Super Agent, is designed to support PCB and packaging designers. It has received endorsements from Nvidia, TSMC, and Schneider. This AI tool aims to streamline design processes.
+OpenAI's Codex Micro is a customizable RGB macropad for AI coding agents, offering a range of customizable inputs and RGB feedback.
 
-💡 *Boosts efficiency in complex PCB and packaging design processes*
+💡 *Streamlining AI coding experience with intuitive, customizable interfaces.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/cadence-aurastack-debuts-boost-pcb-and-packaging-designers)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/keyboards/openais-first-hardware-device-is-an-rgb-macropod-codex-micro-features-13-low-profile-keys-and-a-joystick-for-controlling-ai-coding-agents)
+
+---
+
+### 8. Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs 
+
+Espressif Systems has released an SDK for Aliro smart door locks, based on ESP32-C and ESP32-H SoCs, supporting features like NFC tap-to-unlock and access control. The solution aims to reduce fragmentation and facilitate compatibility with popular wallets. Espressif's ESP-Aliro SDK currently only supports Aliro NFC for tap-to-unlock applications.
+
+💡 *Reducing smart lock fragmentation for seamless wallet compatibility*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/)
+
+---
+
+### 9. reCamera Pro Open AI Camera supports computer vision, LLM, VLM, STT, and TTS workloads 
+
+Seeed Studio's reCamera Pro is an AI camera with on-device AI capabilities, supporting computer vision, LLMs, VLMs, STT, and TTS workloads, with a Rockchip RV1126B SoC and 3 TOPS NPU.
+
+💡 *Empowering AI applications at the edge with on-device processing capabilities.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/)
+
+---
+
+### 10. Olimex PICO-EVB automation board adds high-voltage terminals to Raspberry Pi Pico family 
+
+The Olimex PICO-EVB board is designed for high-voltage automation with Raspberry Pi Pico family, featuring multiple high-voltage inputs and relays.
+
+💡 *Enables safe high-voltage automation using Raspberry Pi Pico microcontrollers.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/17/olimex-pico-evb-automation-board-adds-high-voltage-terminals-to-raspberry-pi-pico-family/)
+
+---
+
+### 11. Lenovo announces world's first laptop with inkjet-printed OLED the Legion R9000P is equipped with a 240 Hz IJP panel from TCL CSOT 
+
+Lenovo's Legion R9000P features a 240 Hz IJP OLED display from TCL CSOT, offering high refresh rate and color accuracy at a lower cost.
+
+💡 *Inexpensive OLED display technology brings high-end visuals to budget-conscious laptops*
+
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/lenovo-announces-worlds-first-laptop-with-inkjet-printed-oled-the-legion-r9000p-is-equipped-with-a-240-hz-ijp-panel-from-tcl-csot)
+
+---
+
+### 12. The PS3 emulator that shouldn't exist can now play 75% of the console's game library 
+
+RPCS3, a PS3 emulator, has reached 75% compatibility with PS3 games on PC.
+
+💡 *Massive gaming library now accessible on PC through emulation technology.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113147-ps3-emulator-shouldnt-exist-can-now-play-75.html)
+
+---
+
+### 13. Microsoft's latest Patch Tuesday fixes 570 security bugs, but some Dell PCs will have to wait 
+
+Microsoft's July 2024 Patch Tuesday fixes 570 Windows security bugs, including three zero-day flaws.
+
+💡 *Massive security updates mitigate critical vulnerabilities exploited by cybercriminals.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113144-microsoft-latest-patch-tuesday-fixes-570-security-bugs.html)
+
+---
+
+### 14. This PC gamer turned old SSDs into gorgeous physical cartridges for Steam games 
+
+A PC gamer turned old SSDs into custom physical cartridges for Steam games, showcasing a creative way to experience digital gaming in a physical format.
+
+💡 *Blending digital convenience with nostalgic physical gaming experiences.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113134-pc-gamer-turned-old-ssds-gorgeous-physical-cartridges.html)
+
+---
+
+### 15. Woman discovers a hidden AI camera in her rental car recording her and warning about unsafe driving 
+
+A woman discovered a hidden AI camera in her rental Audi, recording her and providing driver safety warnings.
+
+💡 *Privacy invasion concerns arise from integrated AI-powered dashboard cameras.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113137-woman-discovers-rental-car-has-ai-powered-camera.html)
+
+---
+
+### 16. To fund Apple's first computer, Steve Wozniak and Steve Jobs sold... 
+
+Steve Wozniak and Steve Jobs sold the Apple-1 to raise funds for Apple's first computer. The Apple-1 was designed and hand-built by Wozniak, and Jobs helped with sales and marketing. This led to the development of the Apple II, one of the first highly successful mass-produced personal computers.
+
+💡 *Funding Apple-1 led to the creation of the Apple II computer.*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/144-fund-creation-apple-first-computer-steve-wozniak-steve/)
 
 ---
 

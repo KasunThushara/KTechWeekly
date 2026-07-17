@@ -1,65 +1,55 @@
 # ⚡ Semiconductors
-**Week of July 16, 2026**
+**Week of July 17, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-07-16 10:35
+- **Articles this week:** 4
+- **Report generated:** 2026-07-17 10:26
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. 75% of all PS3 games reportedly now run on PC via open-source emulator RPCS3 announcement comes weeks after Sony's plan to shutter the PlayStation Store for PS3 and PS Vita by 
+### 1. Tower Semiconductor revives shuttered Panasonic-era fab in $3 billion Japan photonics expansion METI-backed plan targets $3.6 billion revenue by 2028 
 
-The RPCS3 team has made significant progress with their open-source emulator, now allowing 75.33% of PS3 games to be played on Windows, Linux, macOS, and FreeBSD, a result of their efforts to ensure compatibility for over 2,600 titles.
+Tower Semiconductor is reviving a shuttered fab in Japan as part of a $3 billion expansion to increase production of silicon photonics, silicon germanium, and advanced packaging operations.
 
-💡 *Preserving gaming history and extending console lifespan digitally.*
+💡 *Significant investment in Japan to boost global photonics manufacturing capacity*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/open-source-ps3-emulator-says-its-now-compatible-with-over-75-percent-of-all-ps3-games-on-pc-rpcs3-announcement-comes-weeks-after-sony-announced-the-shuttering-of-the-playstation-store-for-ps3-and-ps-vita-by-july-2027)
-
----
-
-### 2. Intel becomes the first company to ship high-volume logic chips made with ASML's High NA EUV select Panther Lake layers on 18A are now dual-qualified for 0.55 NA scanners 
-
-Intel has successfully used ASML's High-NA EUV tools in high-volume logic production, marking a significant milestone in the adoption of this technology. The company is patterning select Panther Lake layers using these tools. This achievement demonstrates the effectiveness of High-NA EUV in logic production.
-
-💡 *Advances in EUV lithography enable smaller, more powerful chip designs*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-becomes-the-first-company-to-ship-high-volume-logic-chips-made-with-asmls-high-na-euv-select-panther-lake-layers-on-18a-are-now-dual-qualified-for-0-55-na-scanners)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tower-semiconductor-revives-shuttered-panasonic-era-fab-in-3-billion-japan-photonics-expansion)
 
 ---
 
-### 3. Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative 
+### 2. Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs 
 
-Google reportedly chose Intel's EMIB-T over TSMC's CoWoS-L for its next-generation TPU.
+Espressif Systems has released an SDK for Aliro smart door locks, based on ESP32-C and ESP32-H SoCs, supporting features like NFC tap-to-unlock and access control. The solution aims to reduce fragmentation and facilitate compatibility with popular wallets. Espressif's ESP-Aliro SDK currently only supports Aliro NFC for tap-to-unlock applications.
 
-💡 *Intel's EMIB-T gains competitive advantage in high-performance chip packaging*
+💡 *Reducing smart lock fragmentation for seamless wallet compatibility*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints-googles-reported-decision-for-9th-gen-tpus-highlights-intels-attractive-alternative)
-
----
-
-### 4. pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter 
-
-pico-usb-wifi firmware transforms Raspberry Pi Pico W into a driverless USB WiFi adapter, enabling wireless connectivity on various operating systems through a transparent Layer-2 bridge. This adapter exposes an Ethernet connection over USB, allowing users to route Wi-Fi packets from the network. It supports IPv4 and IPv6 configurations, WPA2-PSK and WPA3-SAE authentication, and out-of-band management.
-
-💡 *Enables seamless wireless connectivity on multiple operating systems without drivers.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/)
 
 ---
 
-### 5. The US just sanctioned a VPN for the first time, accusing it of helping ransomware gangs 
+### 3. TSMC commits another $100 billion to Arizona for at least four more 2nm fabs 2026 capex could hit $64 billion following another record quarterly earnings 
 
-The US has sanctioned a VPN service and its administrator, accusing them of assisting ransomware gangs. A second individual was also sanctioned for selling tools designed to disguise malware. The move marks the first time a VPN has been sanctioned by the US.
+TSMC commits $100 billion to Arizona for additional chipmaking plants and facilities.
 
-💡 *US expands sanctions to target VPNs supporting cybercrime activities globally.*
+💡 *Boosts US semiconductor industry and global tech supply chain resilience.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113129-us-treasury-sanctions-vpn-provider-administrator-first-time.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/tsmc-commits-another-100-billion-to-arizona-for-at-least-four-more-2nm-fabs)
+
+---
+
+### 4. TSMC plans include at least four more 2nm fabs in $100 billion Arizona expansion 
+
+TSMC plans to expand in Arizona with at least four 2nm fabs, part of a $100 billion investment. This comes as the company reports a record quarterly profit and increases its 2026 capital expenditure forecast to up to $64 billion.
+
+💡 *Massive investment in US chip production boosts Taiwan Semiconductor's global presence.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113141-tsmc-plans-least-four-more-2nm-fabs-100.html)
 
 ---
 
