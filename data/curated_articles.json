@@ -1,340 +1,276 @@
 [
   {
-    "title": "Mario Kart Wii recompiled for PC using AI, with 4K potential and uncapped frame rates 'first static recompilation of a Wii game' supports over 200 tracks thanks to Retro Rewind compatibility",
-    "summary": "Mario Kart Wiicompiled, a claimed 'first static recompilation of a Wii game,' is scheduled to be released in August.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/mario-kart-wii-recompiled-for-pc-using-ai-with-4k-potential-and-uncapped-frame-rates-first-static-recompilation-of-a-wii-game-supports-over-200-tracks-thanks-to-retro-rewind-compatibility",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-17T10:25:02.484954"
-  },
-  {
-    "title": "Robot vacuum flaw lets one stolen certificate run root commands on other Shark robovacs in the same AWS region unpatched flaw exposes live camera feeds, stored home maps, and Wi-Fi credentials",
-    "summary": "The problem is an over-permissive AWS IoT policy.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/shark-robot-vacuum-flaw-lets-one-stolen-certificate-run-root-commands-on-others-in-the-same-aws-region",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.485045"
-  },
-  {
-    "title": "Linus Torvalds rebukes anti-AI stances in the Linux kernel code review process, says 'Linux is not one of those anti-AI projects' creator embraces AI as just a tool and 'clearly a useful one'",
-    "summary": "Linus Torvalds, Linux's creator and kernel manager, has seemingly taken an accepting stance of AI-assisted tooling.",
-    "link": "https://www.tomshardware.com/software/linux/linus-torvalds-rebukes-anti-ai-stances-in-the-linux-kernel-code-review-process-says-linux-is-not-one-of-those-anti-ai-projects-creator-embraces-ai-as-just-a-tool-and-clearly-a-useful-one",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-17T10:25:02.485146"
-  },
-  {
-    "title": "Neural atom quantum computing roadmap how laser-cooled trapped atoms could pave the path beyond physical qubit counts",
-    "summary": "Neural Atom Quantum Computing is a rapidly accelerating part of the Quantum puzzle. Featuring software-defined configurable arrays, qubits can be physically moved mid-computation, and this roadmap highlights three leading companies, QuEra, Atom Computing, and Pasqal, who operate within the space.",
-    "link": "https://www.tomshardware.com/tech-industry/quantum-computing/neural-atom-quantum-computing-roadmap-how-laser-cooled-trapped-atoms-could-pave-the-path-beyond-physical-qubit-counts",
+    "title": "Autonomous micro-drone achieves first air-to-air insect kill on the way 'towards completely eradicating mosquitoes' 40-gram unit uses car parking sensors, can eliminate insects at up to 26 feet",
+    "summary": "A micro-drone designed to locate and eradicate mosquitoes has passed an important milestone with its first recorded air-to-air kill.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/autonomous-micro-drone-achieves-first-air-to-air-insect-kill-on-the-way-towards-completely-eradicating-mosquitoes-40-gram-unit-uses-car-parking-sensors-can-eliminate-insects-at-up-to-26-feet",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.485247"
+    "processed_date": "2026-07-18T10:03:15.954793"
   },
   {
-    "title": "AMD Ryzen 7 7700X3D is exclusive to Newegg in North America $329 CPU won't be available at other vendors until at least Q4",
-    "summary": "AMD's newest CPU, the Ryzen 7 7700X3D, costs $329 and is available exclusively at Newegg in Canada and the United States till the end of Q3 2026. It's a great gaming performer but there are better options if you want a good all-rounder chip for professional tasks as well.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-7700x3d-is-exclusive-to-newegg-in-north-america-usd329-cpu-wont-be-available-at-other-vendors-until-at-least-q4",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.485350"
-  },
-  {
-    "title": "Tower Semiconductor revives shuttered Panasonic-era fab in $3 billion Japan photonics expansion METI-backed plan targets $3.6 billion revenue by 2028",
-    "summary": "Tower Semiconductor has announced a dual-track expansion of its 300mm silicon photonics, silicon germanium, and advanced packaging operations in Japan",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tower-semiconductor-revives-shuttered-panasonic-era-fab-in-3-billion-japan-photonics-expansion",
+    "title": "ASML's planned Low-NA EUV machine price hikes reportedly frustrate TSMC lithography machine maker comes knocking to make bank on TSMC's profitable fabs, potentially costing the Taiwanese chipmaker billions",
+    "summary": "ASML says that the increased productivity of its Low-NA EUV tools gives it an option to increase the prices of these scanners in the future. The move may have a drastic effect on TSMC's future expansion plans, as the foundry made a big bet on existing lithography systems.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/asmls-planned-low-na-euv-machine-price-hikes-reportedly-frustrate-tsmc-lithography-machine-maker-comes-knocking-to-make-bank-on-tsmcs-profitable-fabs-potentially-costing-the-taiwanese-chipmaker-billions",
     "categories": [
       "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-17T10:25:02.485454"
-  },
-  {
-    "title": "Lenovo announces world's first laptop with inkjet-printed OLED the Legion R9000P is equipped with a 240 Hz IJP panel from TCL CSOT",
-    "summary": "The Lenovo Legion R9000P is the first laptop to be equipped with an IJP OLED from TCL CSOT. This display promises a 240 Hz refresh rate and 99% DCI-P3 coverage for a fraction of the price of traditionally manufactured OLEDs.",
-    "link": "https://www.tomshardware.com/monitors/lenovo-announces-worlds-first-laptop-with-inkjet-printed-oled-the-legion-r9000p-is-equipped-with-a-240-hz-ijp-panel-from-tcl-csot",
-    "categories": [
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.485544"
+    "processed_date": "2026-07-18T10:03:15.954942"
   },
   {
-    "title": "Nvidia and Japan unveil world's first national AI infrastructure Noetra consortium to build a 140MW Rubin AI factory with 27,500 GPUs",
-    "summary": "Nvidia today announced that it's working with Japan's Noetra Corp. to build a 140-megawatt AI factory packing 27,500 Rubin GPUs and 13,750 Vera CPUs.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-and-japans-noetra-consortium-to-build-140mw-rubin-ai-factory-with-27500-gpus",
+    "title": "TSMC confirms significant yield and performance improvements in A14 update strong interest from AI/HPC and smartphone customers",
+    "summary": "TSMC's A14 process technology progresses faster than N2 at this stage of development as developers of both client and AI/HPC plan to use it.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-significant-yield-and-performance-improvements-in-a14-update-strong-interest-from-ai-hpc-and-smartphone-customers",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-18T10:03:15.955063"
+  },
+  {
+    "title": "Florida man arrested after allegedly stealing $220,000 in crypto using malware hidden in Steam Games 8,000 devices infected",
+    "summary": "Federal agents arrested 21-year-old Zyaire Dontaevious Zamarion Wilkins of North Lauderdale, Florida, on Tuesday.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-arrests-florida-man-in-steam-malware-investigaton-after-tracing-stolen-bitcoin-to-uber-eats-gift-cards",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-18T10:03:15.955170"
+  },
+  {
+    "title": "GameStop CEO says Sony's decision to go disc-less is 'totally irrelevant' claims software, including physical discs, accounts for only 12% of the company's business",
+    "summary": "GameStop CEO Ryan Cohen says Sony s physical game exit is irrelevant to the company's business, amid a $56 billion eBay takeover, as collectibles now drive growth.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/gamestop-ceo-says-sonys-decision-to-go-disc-less-is-totally-irrelevant-claims-software-including-physical-discs-accounts-for-only-12-percent-of-the-companys-business",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-18T10:03:15.955284"
+  },
+  {
+    "title": "Lawmakers want US government to ban memory chips from China, even in allied supply chains citing 'unacceptable risk' to national, economic, and supply chain security",
+    "summary": "U.S. lawmakers demand Commerce Secretary Howard Lutnick to ban imports of memory chips from China to the U.S., ask allies to do the same.",
+    "link": "https://www.tomshardware.com/pc-components/dram/lawmakers-want-us-government-to-ban-memory-chips-from-china-even-in-allied-supply-chains-citing-unacceptable-risk-to-national-economic-and-supply-chain-security",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-18T10:03:15.955407"
+  },
+  {
+    "title": "AI data centers must produce as much power as they use, Australia PM says new national AI framework will also ensure water efficiency and protect intellectual property rights",
+    "summary": "Australian Prime Minister Anthony Albanese announced the \"Australian Standards for A.I.,\" which will serve as a national framework for data center developments related to AI. The government plans to set this legislative agenda as more AI hyperscalers are setting their sights on the country for its vast land and abundant renewable energy sources.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/ai-data-centers-must-produce-as-much-power-as-they-use-australia-pm-says-new-national-ai-framework-will-also-ensure-water-efficiency-and-protect-intellectual-property-rights",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-18T10:03:15.955541"
+  },
+  {
+    "title": "Intel Nova Lake leak points to Core Ultra Series 400 branding, staggered release next year hotly anticipated flagship 52-core desktop CPU might not arrive until late 2027",
+    "summary": "Intel's upcoming Nova Lake desktop processors continue to gather momentum, with fresh reports hinting at Core Ultra Series 400 branding and a phased launch timeline.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-nova-lake-leak-points-to-core-ultra-series-400-branding-staggered-release-next-year-hotly-anticipated-flagship-52-core-desktop-cpu-might-not-arrive-until-late-2027",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-18T10:03:15.955652"
+  },
+  {
+    "title": "China's 2.8-trillion-parameter Kimi K3 beats Claude Fable 5 in Frontend Code Arena benchmark Moonshot AI delivers largest open-weight AI model ever, as China works around U.S. compute limits",
+    "summary": "Beijing-based Moonshot AI has released Kimi K3, a 2.8 trillion parameter model that the company describes in its technical blog as the world's first open 3T-class system.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-07-18T10:03:15.955765"
+  },
+  {
+    "title": "Score $1,100 off this OLED gaming laptop with RTX 5070 Ti, the ultimate Back to School powerhouse also features a 24-core Ultra 9 290HX, 32GB of RAM, and a 1TB SSD",
+    "summary": "Get $1,100 off this HP Omen Max laptop with OLED display, Ultra 9 290HX, 32GB of RAM, and RTX 5070 Ti.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/score-usd1-100-off-this-oled-gaming-laptop-with-rtx-5070-ti-the-ultimate-back-to-school-powerhouse-also-features-a-24-core-ultra-9-290hx-32gb-of-ram-and-a-1tb-ssd",
     "categories": [
       "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-17T10:25:02.485638"
-  },
-  {
-    "title": "AMD Ryzen 7 7700X3D review: A slower 7800X3D, but not necessarily a cheaper one",
-    "summary": "The 7700X3D is a 7800X3D with lower boost clock speeds, but it doesn t deliver the same value as we ve seen with previous versions of this segmentation.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-7700x3d-cpu-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-17T10:25:02.485721"
-  },
-  {
-    "title": "Elon Musk spent estimated $1 billion on an energy company to power xAI, filings reveal APR Energy owns a fleet of trailer-mounted gas and diesel turbines capable of generating more than 1 gigawatt",
-    "summary": "An FTC document revealed that Elon Musk purchased APR Energy, a mobile natural gas and diesel turbine generator provider, for an estimated $1 billion. The deal wasn't announced publicly and was only discovered after the FTC filing.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/elon-musk-spent-estimated-usd1-billion-on-an-energy-company-to-power-xai-filings-reveal-apr-energy-owns-a-fleet-of-trailer-mounted-gas-and-diesel-turbines-capable-of-generating-more-than-1-gigawatt",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-17T10:25:02.485820"
-  },
-  {
-    "title": "TSMC commits another $100 billion to Arizona for at least four more 2nm fabs 2026 capex could hit $64 billion following another record quarterly earnings",
-    "summary": "TSMC will invest an additional $100 billion in the U.S. to build at least four more chipmaking plants and advanced packaging facilities in Arizona.",
-    "link": "https://www.tomshardware.com/tech-industry/tsmc-commits-another-100-billion-to-arizona-for-at-least-four-more-2nm-fabs",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.485906"
-  },
-  {
-    "title": "Asus ROG Xreal R1 Review: Gaming-focused AR glasses deliver 240 Hz performance and RGB style",
-    "summary": "Asus throws in everything but the kitchen sink with the ROG Xreal R1, including a 240 Hz refresh rate and a breakout box for connecting to a PC or console.",
-    "link": "https://www.tomshardware.com/peripherals/wearable-tech/asus-rog-xreal-r1-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-17T10:25:02.485991"
-  },
-  {
-    "title": "Prusa Research Founder Edition INDX launches limited 1,000-unit run of revolutionary toolchanger mod now shipping",
-    "summary": "One thousand Prusa CORE One INDX Founder s Editions have shipped, giving a lucky few first access to Bondtech s revolutionary toolchanger mod. The Founders Edition is a special limited run, intended for early adopters and Prusa fanatics.",
-    "link": "https://www.tomshardware.com/3d-printing/prusa-research-founder-edition-indx-launches-limited-1-000-unit-run-of-revolutionary-toolchanger-mod-now-shipping",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-17T10:25:02.486081"
-  },
-  {
-    "title": "OpenAI's first hardware device is an RGB macropod 'Codex Micro' features 13 low-profile keys and a joystick for controlling AI coding agents",
-    "summary": "OpenAI has launched the \"Codex Micro\" marcopad in collaboration with Work Louder. It uses RGB to provide feedback about your coding agents in Codex, and features various customizable inputs to maximize your vibecoding potential.",
-    "link": "https://www.tomshardware.com/peripherals/keyboards/openais-first-hardware-device-is-an-rgb-macropod-codex-micro-features-13-low-profile-keys-and-a-joystick-for-controlling-ai-coding-agents",
-    "categories": [
-      "AI & ML",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-17T10:25:02.486186"
+    "quality_score": 5,
+    "processed_date": "2026-07-18T10:03:15.955864"
   },
   {
-    "title": "Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs",
-    "summary": "Espressif Systems has just released the SDK for Aliro, designed for smart Matter door locks and other access control solutions built around ESP32-C (WiFi) or ESP32-H (Thread) microcontroller and third-party NFC chips. We recently wrote about the Aliro vendor-agnostic digital access control standard working over NFC, Bluetooth LE, or BLE+UWB. It s basically the equivalent of Matter, but for smart locks, instead of the broader Smart Home ecosystem. The ultimate goal is to reduce fragmentation and allow users to use compliant wallets from Google, Apple, Samsung, and others to work with Aliro-compatible devices. Espressif s SDK for Aliro (ESP-Aliro) currently supports the following features of Aliro-over-NFC: Standard Expedited Phase Fast Expedited Phase Reader Certificate Sending via AUTH1/LoadCert Command Keyslot to Look up Access Credential Public Key Mailbox of Exchange command Step-up Phase Espressif s solution currently only works with Aliro NFC for tap-to-unlock applications, although Bluetooth LE and Bluetooth LE + UWB support [...] The post Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/",
+    "title": "MSI MAG Z890 Tomahawk Wifi II motherboard review: Loses features from the original, but shaves a few dollars off the price",
+    "summary": "SI s Z890 Tomahawk Wifi II trims a couple of connectivity features, but at its sub-$200 price, it s still a reasonably equipped budget Z890 board.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/msi-mag-z890-tomahawk-wifi-ii-motherboard-review",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-17T10:25:02.486716"
+    "processed_date": "2026-07-18T10:03:15.955976"
   },
   {
-    "title": "reCamera Pro Open AI Camera supports computer vision, LLM, VLM, STT, and TTS workloads",
-    "summary": "Seeed Studio s reCamera Pro is an AI camera powered by a Rockchip RV1126B quad-core Cortex-A53 SoC with a 3 TOPS NPU for on-device AI vision, but also large language models (LLMs), vision language models (VLMs), as well as speech-to-text (STT) and text-to-speech (TTS) with built-in audio capabilities. It offers a powerful update to the earlier reCamera modular AI camera based on an SG2002 RISC-V AI SoC, with up to 4GB RAM, 16GB eMMC flash, an 8MP camera sensor supporting up to 4K @ 30 FPS, an M12 lens mount, a built-in 1W speaker, two microphones, Gigabit Ethernet with PoE, dual-band WiFi 5 connectivity, a USB-C port for power and data, and and expansion through a GPIO and MIPI DSI connectors. reCamera Pro specifications: SoC Rockchip RV1126B CPU Quad-core Arm Cortex-A53 up to 1.2 GHz with 32KB L1 I-Cache and 32KB L1 D-Cache, unified 512KB L2 Cache MCU [...] The post reCamera Pro Open AI Camera supports computer vision, LLM, VLM, STT, and TTS workloads appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/",
+    "title": "ASML looks to increase prices of its Low-NA EUV tools beyond existing productivity-based model company wants to capture the value of all the advantages its tools offer, not just wafer throughput improvements",
+    "summary": "ASML's comments point to intentions to increase prices, though the company is expected to maintain its value-based approach to price setting. Yet, TSMC is reportedly unhappy about the potential plan.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-looks-to-increase-prices-of-its-low-na-euv-tools-beyond-existing-productivity-based-model-company-wants-to-capture-the-value-of-all-the-advantages-its-tools-offer-not-just-wafer-throughput-improvements",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-18T10:03:15.956087"
+  },
+  {
+    "title": "M5Stack Core2 gets open-source firmware to reproduce OpenAI s Codex Micro features",
+    "summary": "IAMLIUBO has written firmware for the M5Stack Core2 IoT controller to reproduce the features of the $230 Codex Micro macro pad for OpenAI s AI coding agent platform, enabling developers to more easily monitor and control agents. The original is neat with a CNC-milled enclosure, a rotary encoder, and a joystick, but it s rather pricey (and now out of stock), only ships to the US, and the company has now launched pre-orders for a 25-key Custom Alternative going for $125. However, you can easily reproduce the same functionality with other macro pads with rotary encoders, such as the SayoDevice O3C, DuckyPad Pro, Waveshare MK10, T-Keyboard-S3 Pro, and others at a fraction of the price by simply remapping the keys. IAMLIUBO went another route with the M5Stack Core2 IoT controller since it doesn t come with any keys. Instead, he leveraged the 2-inch touchscreen LCD of the ESP32 device with six agent keys, [...] The post M5Stack Core2 gets open-source firmware to reproduce OpenAI s Codex Micro features appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/18/m5stack-core2-gets-open-source-firmware-to-reproduce-openais-codex-micro-features/",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-17T10:25:02.486862"
+    "processed_date": "2026-07-18T10:03:15.956633"
   },
   {
-    "title": "Olimex PICO-EVB automation board adds high-voltage terminals to Raspberry Pi Pico family",
-    "summary": "Olimex PICO-EVB board for the Raspberry Pi Pico and compatible boards is designed for high-voltage automation with four 3.3-30V DC or 110-220V AC inputs and four 15V DC/220V AC relays. It features two 20-pin headers enabling users to connect their preferred Pi Pico-compatible board, a USB-C port for power and programming, a UEXT connector for I2C, UART, and SPI expansion, and status LEDs for the high-voltage signals. Olimex PICO-EVB specifications: Compatible boards Raspberry Pi Pico, Pico 2, Pico W, Pico 2 W Olimex RP2040-PICO30 USB 1x USB Type-C port I/Os 4x 15V DC/240V AC relays 4x optoisolated inputs taking 3.3 30V DC or 110-220V AC UEXT connector with I2C, UART, and SPI signals Unpopulated 18-pin GPIO header Misc 4x status LEDs for the relays 4x status LEDs for the inputs Power Supply 5V power supply via screw connector, USB-C port, or Pico s micro USB connector Dimensions [...] The post Olimex PICO-EVB automation board adds high-voltage terminals to Raspberry Pi Pico family appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/17/olimex-pico-evb-automation-board-adds-high-voltage-terminals-to-raspberry-pi-pico-family/",
+    "title": "Best of Sensors: Siargo wins with MEMS Mass Flow Sensor",
+    "summary": "The Siargo MEMS mass flow sensor FS4000 captures dynamic thermal transfer data for heat distribution and time. It won Best Instrumentation and Test Solution at Best of Sensors 2026.",
+    "link": "https://www.fiercesensors.com/ai/best-sensors-siargo-wins-its-mems-mass-flow-sensor",
     "categories": [
-      "Hardware"
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-18T10:03:15.957805"
+  },
+  {
+    "title": "iPhone owners hit 87% loyalty rate this year, Android-to-iPhone switching drops to 12%",
+    "summary": "According to the latest survey by analysts at Consumer Intelligence Research Partners (CIRP), the share of iPhone owners who upgraded from another iPhone, as opposed to those switching over from Android, rose this year. The figures suggest Apple users are at least satisfied enough to stick with iOS, while a... Read Entire Article",
+    "link": "https://www.techspot.com/news/113164-iphone-owners-hit-87-loyalty-rate-year-android.html",
+    "categories": [
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-17T10:25:02.487004"
+    "processed_date": "2026-07-18T10:03:15.958079"
   },
   {
-    "title": "New York school deploys AI teaching robot from company linked to sex bots",
-    "summary": "Located on the Seneca Nation reservation, the rural district will be one of the first to use the humanoid robot, part of Realbotix's M-Series and named Sally. It's integrated with Optio, Realbotix's AI-powered teaching assistant, which can be accessed by students off-site for out-of-hours learning. Read Entire Article",
-    "link": "https://www.techspot.com/news/113154-new-york-school-deploys-ai-teaching-robot-company.html",
+    "title": "Spotify is deleting millions of AI-generated music tracks to fend off spammers",
+    "summary": "Spotify's Sam Duboff recently revealed that the platform was forced to remove 75 million AI-generated tracks in 2025 alone. As Spotify's senior director and global head of marketing, policy, and music business, Duboff believes that AI has not introduced any entirely new tactics for spam operations. However, he also argues... Read Entire Article",
+    "link": "https://www.techspot.com/news/113160-spotify-deleting-millions-ai-generated-music-tracks-fend.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.488177"
+    "processed_date": "2026-07-18T10:03:15.958248"
   },
   {
-    "title": "AMD Ryzen 7 5800X3D 10th Anniversary Edition Review",
-    "summary": "AMD's Ryzen 7 5800X3D is back at $350. It looks overpriced, but for AM4 owners facing costly DDR5 upgrades, this four-year-old CPU may still be the smartest path to modern gaming performance today. Read Entire Article",
-    "link": "https://www.techspot.com/review/3149-amd-ryzen-5800x3d-anniversary-edition/",
+    "title": "Chinese memory maker CXMT's output has grown from 40,000 to 720,000 wafers in a few years, and it's closing in on Micron",
+    "summary": "According to a new report from Citrini Research, ChangXin Memory Technologies (CXMT) is growing much faster than expected. The Chinese memory and IDM manufacturer is expected to produce between 350,000 and 375,000 DRAM wafers per month by the end of 2026. In 2020, CXMT had a capacity of 40,000 WPM... Read Entire Article",
+    "link": "https://www.techspot.com/news/113148-chinese-memory-maker-cxmt-output-has-grown-40000.html",
     "categories": [
-      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-18T10:03:15.958455"
+  },
+  {
+    "title": "OnePlus confirms exit from US and European markets, will replace OxygenOS with ColorOS",
+    "summary": "OnePlus also assured existing users that it will honor all warranty coverage and that eligible devices will be repaired through its authorized service centers in accordance with its standard warranty and support obligations. Eligible OnePlus devices will also continue receiving Android updates and security patches under the company's existing software... Read Entire Article",
+    "link": "https://www.techspot.com/news/113152-oneplus-confirms-exit-us-european-markets-replace-oxygenos.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-18T10:03:15.958637"
+  },
+  {
+    "title": "Japan's first national AI factory will use 27,500 GPUs across 382 Vera Rubin racks",
+    "summary": "In total, the project calls for 27,500 Rubin GPUs and 13,750 Vera CPUs connected through Spectrum-X Ethernet networking. The system is designed to handle the training of trillion-parameter models as capacity ramps up. Read Entire Article",
+    "link": "https://www.techspot.com/news/113155-japan-first-national-ai-factory-use-27500-gpus.html",
+    "categories": [
+      "AI & ML",
       "GPUs"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-07-17T10:25:02.488301"
-  },
-  {
-    "title": "The PS3 emulator that shouldn't exist can now play 75% of the console's game library",
-    "summary": "The RPCS3 team has confirmed that 75% of all PlayStation 3 games are now \"playable\" on PC. The emulator reached the milestone while its developers continue to vow new features, fixes, and code optimizations to further improve compatibility and reliability across an increasingly diverse computer ecosystem. Read Entire Article",
-    "link": "https://www.techspot.com/news/113147-ps3-emulator-shouldnt-exist-can-now-play-75.html",
-    "categories": [
-      "Hardware"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.488422"
+    "processed_date": "2026-07-18T10:03:15.958802"
   },
   {
-    "title": "OpenAI's first hardware product is a $230 mini keypad for AI coding",
-    "summary": "Late last year, OpenAI announced a partnership with former Apple designer Jony Ive to build a screen-free AI gadget. Details are still pending, but the company said the gadget would be equipped with multiple cameras and sensors for spatial awareness. This is not that, but something else entirely. Read Entire Article",
-    "link": "https://www.techspot.com/news/113146-openai-first-hardware-product-230-mini-keypad-ai.html",
+    "title": "Apple's OLED iPad mini could arrive this October, kicking off a major iPad overhaul",
+    "summary": "Bloomberg's Mark Gurman reports that Apple is aiming to release a revised iPad mini with an OLED display by October. Meanwhile, a new version of the standard iPad is expected to launch in the first quarter of 2027, followed by an OLED-equipped iPad Air and a new iPad Pro in... Read Entire Article",
+    "link": "https://www.techspot.com/news/113150-apple-oled-ipad-mini-could-arrive-october-kicking.html",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-17T10:25:02.488523"
+    "quality_score": 5,
+    "processed_date": "2026-07-18T10:03:15.958966"
   },
   {
-    "title": "Microsoft's latest Patch Tuesday fixes 570 security bugs, but some Dell PCs will have to wait",
-    "summary": "A month after fixing 200 individual flaws across Windows and other software products, Microsoft is now breaking new ground with another massive Patch Tuesday release. The July cumulative update for Windows 11 (KB5101650) addresses 570 security vulnerabilities, including three zero-day flaws that were either previously disclosed or are actively being exploited by cybercriminals. Read Entire Article",
-    "link": "https://www.techspot.com/news/113144-microsoft-latest-patch-tuesday-fixes-570-security-bugs.html",
+    "title": "The EU is forcing Google to give rival AI assistants the same access as Gemini on Android",
+    "summary": "The stakes are high. Android powers about 60% of smartphones in the European Union, and AI companies see those devices as the primary gateway for turning chatbots into everyday assistants. The deeper a service is integrated into a device reading the screen, handling messages, and interacting with other apps... Read Entire Article",
+    "link": "https://www.techspot.com/news/113157-eu-forcing-google-give-rival-ai-assistants-same.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-18T10:03:15.959131"
+  },
+  {
+    "title": "This Lenovo laptop is the first to use inkjet-printed OLED, a technology that could make OLED screens cheaper",
+    "summary": "Lenovo's R9000P laptop, the world's first to feature an IJP OLED screen, is now available in China, starting at around $1,300. It remains unclear when the laptop or any other IJP OLED model might appear globally, but the device raises hopes that the technology will soon lead to cheaper OLED... Read Entire Article",
+    "link": "https://www.techspot.com/news/113153-lenovo-laptop-first-use-inkjet-printed-oled-technology.html",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.488637"
+    "processed_date": "2026-07-18T10:03:15.959305"
   },
   {
-    "title": "TSMC plans include at least four more 2nm fabs in $100 billion Arizona expansion",
-    "summary": "The announcement came as the Taiwanese giant posted another record quarterly profit and raised its 2026 capital expenditure forecast to as much as $64 billion. Read Entire Article",
-    "link": "https://www.techspot.com/news/113141-tsmc-plans-least-four-more-2nm-fabs-100.html",
+    "title": "Over 4,500 Google workers demand layoff protections as Alphabet's value hits $4.3 trillion",
+    "summary": "Like many other companies invested in the AI boom, Google is enjoying plenty of success right now. Parent company Alphabet's latest quarter produced $109.9 billion in revenue, up 22%, while operating income rose 30% to $39.7 billion. It's also the third-largest company in the world by market cap with a $4.3 trillion valuation. Read Entire Article",
+    "link": "https://www.techspot.com/news/113159-over-4500-google-workers-demand-layoff-protections-alphabet.html",
     "categories": [
-      "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.488721"
+    "processed_date": "2026-07-18T10:03:15.959493"
   },
   {
-    "title": "Ryzen 7 7700X3D delivers the gaming performance, but not the value",
-    "summary": "Early reviews of AMD's new Ryzen 7 7700X3D show a capable gaming CPU that performs close to the Ryzen 7 7800X3D. However, its launch price and weaker productivity performance make it difficult to recommend. Our full review is coming soon. Read Entire Article",
-    "link": "https://www.techspot.com/specs/cpu/328797-amd-ryzen-7-7700x3d.html",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-17T10:25:02.488809"
-  },
-  {
-    "title": "This PC gamer turned old SSDs into gorgeous physical cartridges for Steam games",
-    "summary": "Reddit user Jibril-sama recently showcased a custom-made cartridge system for Steam games. The clever idea is not entirely new and does not do anything revolutionary with Steam or the hardware itself. Even so, concepts like this are suddenly becoming relevant as the gaming industry increasingly embraces an all-digital future. Read Entire Article",
-    "link": "https://www.techspot.com/news/113134-pc-gamer-turned-old-ssds-gorgeous-physical-cartridges.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.488910"
-  },
-  {
-    "title": "To fund Apple's first computer, Steve Wozniak and Steve Jobs sold...",
-    "summary": "A little history of the Apple-1 Read Entire Article",
-    "link": "https://www.techspot.com/trivia/144-fund-creation-apple-first-computer-steve-wozniak-steve/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-17T10:25:02.488981"
-  },
-  {
-    "title": "Netflix celebrates 10 years of Stranger Thing with a VHS-quality version of the first season",
-    "summary": "The very first season of Stranger Things arrived on July 15, 2016. The coming-of-age science fiction series was an instant hit with viewers, but few realized its true potential or how Netflix would capitalize on its new starlet over the coming decade. Read Entire Article",
-    "link": "https://www.techspot.com/news/113142-netflix-celebrates-10-years-stranger-thing-vhs-quality.html",
+    "title": "A Doom developer says Microsoft \"destroyed an immense amount of value\" at id Software",
+    "summary": "In an interview with Game Developer, the unnamed developer, who was one of the 3,200 Xbox employees fired by Microsoft earlier this month, criticized Redmond for announcing the job cuts a day before the launch of the new Doom DLC. The layoffs accounted for 20% of the total staff at... Read Entire Article",
+    "link": "https://www.techspot.com/news/113143-doom-developer-microsoft-destroyed-immense-amount-value-software.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.489070"
+    "processed_date": "2026-07-18T10:03:15.959656"
   },
   {
-    "title": "Woman discovers a hidden AI camera in her rental car recording her and warning about unsafe driving",
-    "summary": "A woman recently took to social media after discovering that her Audi rental car's dashboard contained a camera recording her every move. It also gave verbal reminders to wear a seat belt and avoid unsafe driving behavior. Read Entire Article",
-    "link": "https://www.techspot.com/news/113137-woman-discovers-rental-car-has-ai-powered-camera.html",
+    "title": "GTA 6 hacker who was sentenced to life in a secure hospital is moved to prison ahead of retrial",
+    "summary": "Back in September 2022, one of the biggest leaks of all time hit the internet when over 90 videos and screenshots of the still-unreleased GTA 6 were posted to the GTAForums. They originated from a then-18-year-old hacker who also claimed to be behind an Uber breach that occurred a few days earlier. Read Entire Article",
+    "link": "https://www.techspot.com/news/113156-gta-6-hacker-who-sentenced-life-secure-hospital.html",
     "categories": [
       "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.489164"
-  },
-  {
-    "title": "This retro-style home phone lets kids call friends without apps, browsers, or social media",
-    "summary": "Pinwheel, the US company that sells modified Android smartphones designed for children and teenagers, has just launched the Pinwheel Home. Read Entire Article",
-    "link": "https://www.techspot.com/news/113140-pinwheel-new-retro-style-home-phone-kids-call.html",
-    "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-17T10:25:02.489244"
+    "processed_date": "2026-07-18T10:03:15.959824"
   },
   {
-    "title": "Steam Machine benchmarks show SteamOS and Windows 11 within a few frames of each other in most games",
-    "summary": "A brief benchmark from ETA Prime shows that games running on Valve's Steam Machine via Windows 11 mostly achieve framerates similar to SteamOS. However, one synthetic benchmark gives Windows a significant advantage. Read Entire Article",
-    "link": "https://www.techspot.com/news/113136-steam-machine-benchmarks-show-steamos-windows-11-within.html",
+    "title": "Researchers synchronize 105,000 tiny magnetic oscillators in 45 nanoseconds, pointing to faster, low-power computing",
+    "summary": "Each oscillator is tiny, just 10 to 20 nanometers wide. There's no external clock running the show. Once the grid gets nudged, the oscillators fall into sync on their own, using nothing but their natural magnetic spin. Think of ripples spreading across a pond until the whole surface moves the... Read Entire Article",
+    "link": "https://www.techspot.com/news/113149-researchers-synchronize-105000-tiny-magnetic-oscillators-45-nanoseconds.html",
     "categories": [
-      "Tech News"
+      "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-17T10:25:02.489329"
-  },
-  {
-    "title": "George Lucas says rejecting AI is like choosing the horse and buggy over cars",
-    "summary": "Lucas expressed his opinion of AI in an interview with A Rabbit's Foot to promote the Lucas Museum of Narrative Art. Read Entire Article",
-    "link": "https://www.techspot.com/news/113139-george-lucas-rejecting-ai-like-choosing-horse-buggy.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.489425"
-  },
-  {
-    "title": "Stripe and Advent offer more than $53 billion to buy PayPal and create a payments giant",
-    "summary": "The structure is what makes the offer unusual. Rather than carve up PayPal and sell off the parts, Stripe and Advent want to hold the company together, splitting ownership evenly between them, the people said. Read Entire Article",
-    "link": "https://www.techspot.com/news/113135-stripe-advent-offer-more-than-53-billion-buy.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-17T10:25:02.489519"
+    "processed_date": "2026-07-18T10:03:15.959991"
   }
 ]
