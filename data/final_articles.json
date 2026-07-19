@@ -1,302 +1,165 @@
 [
   {
-    "title": "Autonomous micro-drone achieves first air-to-air insect kill on the way 'towards completely eradicating mosquitoes' 40-gram unit uses car parking sensors, can eliminate insects at up to 26 feet",
-    "summary": "A micro-drone has successfully eliminated a mosquito in mid-air, marking a crucial step towards eradicating the species.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/autonomous-micro-drone-achieves-first-air-to-air-insect-kill-on-the-way-towards-completely-eradicating-mosquitoes-40-gram-unit-uses-car-parking-sensors-can-eliminate-insects-at-up-to-26-feet",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.954793",
-    "insight": "Potential for disease prevention through autonomous, high-accuracy insect control."
-  },
-  {
-    "title": "ASML's planned Low-NA EUV machine price hikes reportedly frustrate TSMC lithography machine maker comes knocking to make bank on TSMC's profitable fabs, potentially costing the Taiwanese chipmaker billions",
-    "summary": "ASML's planned price hike for Low-NA EUV tools may impact TSMC's expansion plans, as the foundry invested heavily in existing lithography systems. ASML's increased productivity gives it the option to raise prices in the future. This move could cost TSMC billions.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/asmls-planned-low-na-euv-machine-price-hikes-reportedly-frustrate-tsmc-lithography-machine-maker-comes-knocking-to-make-bank-on-tsmcs-profitable-fabs-potentially-costing-the-taiwanese-chipmaker-billions",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.954942",
-    "insight": "TSMC's expansion plans threatened by ASML's price hike option."
-  },
-  {
-    "title": "TSMC confirms significant yield and performance improvements in A14 update strong interest from AI/HPC and smartphone customers",
-    "summary": "TSMC's A14 process technology has shown significant yield and performance improvements, with strong interest from AI/HPC and smartphone customers. This advancement has outpaced N2 development at its current stage. Developers are planning to utilize the A14 for both client and AI/HPC applications.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-significant-yield-and-performance-improvements-in-a14-update-strong-interest-from-ai-hpc-and-smartphone-customers",
+    "title": "Clever hacker fits 537,000 domains in a tiny $5 ESP32 ad-blocking dongle firmware uses only around 50KB of RAM and can answer blocked lookups in 10 milliseconds",
+    "summary": "A $5 ESP32 ad-blocking dongle can block over 537,000 domains using just 4MB flash memory and 50KB RAM. This is achieved through a clever hashing trick that optimizes memory usage. The system can answer blocked lookups in 10 milliseconds.",
+    "link": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-07-18T10:03:15.955063",
-    "insight": "AI/HPC and smartphone industries will benefit from A14 performance boosts."
+    "quality_score": 5,
+    "processed_date": "2026-07-19T10:14:03.210367",
+    "insight": "Optimized memory usage enables mass domain blocking at low cost."
   },
   {
-    "title": "Florida man arrested after allegedly stealing $220,000 in crypto using malware hidden in Steam Games 8,000 devices infected",
-    "summary": "A 21-year-old Florida man was arrested for allegedly stealing $220,000 in crypto using malware hidden in Steam games, infecting 8,000 devices.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-arrests-florida-man-in-steam-malware-investigaton-after-tracing-stolen-bitcoin-to-uber-eats-gift-cards",
+    "title": "Crazed enthusiast runs PC on 192 AA batteries, successfully boots into Hannah Montana Linux System is stable during stress testing and even plays FreeDoom",
+    "summary": "Uwoslab successfully powered a PC with a 192-cell AA battery array, booting into Hannah Montana Linux. The system withstood stress testing and even played FreeDoom. This feat showcases the creative use of unconventional power sources.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/crazed-enthusiast-runs-pc-on-192-aa-batteries-successfully-boots-into-hannah-montana-linux-system-is-stable-during-stress-testing-and-even-plays-freedoom",
     "categories": [
-      "AI & ML"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.955170",
-    "insight": "Malware in popular games poses significant threat to cryptocurrency security."
+    "processed_date": "2026-07-19T10:14:03.210529",
+    "insight": "Unconventional power sources can power modern computing systems"
   },
   {
-    "title": "GameStop CEO says Sony's decision to go disc-less is 'totally irrelevant' claims software, including physical discs, accounts for only 12% of the company's business",
-    "summary": "GameStop CEO Ryan Cohen downplays Sony's disc-less decision, citing collectibles as growth driver.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/gamestop-ceo-says-sonys-decision-to-go-disc-less-is-totally-irrelevant-claims-software-including-physical-discs-accounts-for-only-12-percent-of-the-companys-business",
+    "title": "GTA 3 and Vice City are now playable inside San Andreas a mod lets you revisit Liberty City and Vice City without leaving San Andreas",
+    "summary": "A GTA modder has integrated GTA 3 and Vice City into San Andreas, allowing players to revisit classic cities within the main game. This mod enables seamless transitions between the games, making it possible to explore multiple worlds simultaneously. The mod also allows for nesting Vice City within GTA 3.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/gta-3-and-vice-city-are-now-playable-inside-san-andreas-a-mod-lets-you-revisit-liberty-city-and-vice-city-without-leaving-san-andreas",
     "categories": [
-      "AI & ML"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.955284",
-    "insight": "GameStop's diversification reduces reliance on physical game sales."
+    "processed_date": "2026-07-19T10:14:03.210644",
+    "insight": "Revolutionizing open-world gaming with immersive nested game environments"
   },
   {
-    "title": "Lawmakers want US government to ban memory chips from China, even in allied supply chains citing 'unacceptable risk' to national, economic, and supply chain security",
-    "summary": "US lawmakers demand a ban on Chinese memory chip imports, citing national security concerns.",
-    "link": "https://www.tomshardware.com/pc-components/dram/lawmakers-want-us-government-to-ban-memory-chips-from-china-even-in-allied-supply-chains-citing-unacceptable-risk-to-national-economic-and-supply-chain-security",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.955407",
-    "insight": "Unacceptable risks to US national security and supply chain stability exist."
-  },
-  {
-    "title": "AI data centers must produce as much power as they use, Australia PM says new national AI framework will also ensure water efficiency and protect intellectual property rights",
-    "summary": "Australia's PM introduces national AI framework for data center sustainability.",
-    "link": "https://www.tomshardware.com/tech-industry/policy/ai-data-centers-must-produce-as-much-power-as-they-use-australia-pm-says-new-national-ai-framework-will-also-ensure-water-efficiency-and-protect-intellectual-property-rights",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-18T10:03:15.955541",
-    "insight": "Australia's vast land and renewable energy attract AI hyperscalers."
-  },
-  {
-    "title": "Intel Nova Lake leak points to Core Ultra Series 400 branding, staggered release next year hotly anticipated flagship 52-core desktop CPU might not arrive until late 2027",
-    "summary": "Intel's Nova Lake desktop processors may arrive with Core Ultra branding, with a staggered release planned for next year, but the flagship 52-core CPU might not be available until 2027.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-nova-lake-leak-points-to-core-ultra-series-400-branding-staggered-release-next-year-hotly-anticipated-flagship-52-core-desktop-cpu-might-not-arrive-until-late-2027",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.955652",
-    "insight": "Intel's flagship CPU may be delayed until late 2027."
-  },
-  {
-    "title": "China's 2.8-trillion-parameter Kimi K3 beats Claude Fable 5 in Frontend Code Arena benchmark Moonshot AI delivers largest open-weight AI model ever, as China works around U.S. compute limits",
-    "summary": "Moonshot AI releases Kimi K3, a 2.8 trillion parameter AI model. This is described as the world's first open 3T-class system, surpassing previous compute limits. The model is a significant achievement in AI development.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-07-18T10:03:15.955765",
-    "insight": "Breaking U.S. compute limits with a massive AI model advancement"
-  },
-  {
-    "title": "Score $1,100 off this OLED gaming laptop with RTX 5070 Ti, the ultimate Back to School powerhouse also features a 24-core Ultra 9 290HX, 32GB of RAM, and a 1TB SSD",
-    "summary": "Get the HP Omen Max laptop with OLED, RTX 5070 Ti, and 32GB RAM at a discounted price.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/score-usd1-100-off-this-oled-gaming-laptop-with-rtx-5070-ti-the-ultimate-back-to-school-powerhouse-also-features-a-24-core-ultra-9-290hx-32gb-of-ram-and-a-1tb-ssd",
+    "title": "Strapping 11 fans and a 360mm AIO to an RTX 3080 sounds crazy until you see the 30 C temp drop modded GPU delivered less than 5 FPS uplift at turbojet noise levels",
+    "summary": "TrashBench tested adding multiple fans to an RTX 3080 GPU for performance improvement. The results showed a 30 C temp drop but only a 5 FPS uplift. The experiment highlighted the limitations of cooling as a performance booster.",
+    "link": "https://www.tomshardware.com/pc-components/cooling/strapping-11-fans-and-a-360mm-aio-to-an-rtx-3080-sounds-crazy-until-you-see-the-30-c-temp-drop-modded-gpu-delivered-less-than-5-fps-uplift",
     "categories": [
       "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.955864",
-    "insight": "Cutting-edge gaming performance at a significantly reduced cost."
-  },
-  {
-    "title": "MSI MAG Z890 Tomahawk Wifi II motherboard review: Loses features from the original, but shaves a few dollars off the price",
-    "summary": "The MSI MAG Z890 Tomahawk Wifi II motherboard offers a budget-friendly option with reduced connectivity features, still providing a reasonably equipped Z890 board at a sub-$200 price.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/msi-mag-z890-tomahawk-wifi-ii-motherboard-review",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-18T10:03:15.955976",
-    "insight": "Budget-conscious buyers prioritize affordability over full-featured motherboards."
-  },
-  {
-    "title": "ASML looks to increase prices of its Low-NA EUV tools beyond existing productivity-based model company wants to capture the value of all the advantages its tools offer, not just wafer throughput improvements",
-    "summary": "ASML plans to increase prices beyond its current productivity-based model, capturing all tool advantages. The company's value-based approach is expected to be maintained. TSMC expresses concerns about the potential price hike.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-looks-to-increase-prices-of-its-low-na-euv-tools-beyond-existing-productivity-based-model-company-wants-to-capture-the-value-of-all-the-advantages-its-tools-offer-not-just-wafer-throughput-improvements",
-    "categories": [
-      "Semiconductors",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.956087",
-    "insight": "ASML seeks to monetize benefits beyond wafer throughput improvements"
+    "quality_score": 10,
+    "processed_date": "2026-07-19T10:14:03.210767",
+    "insight": "Cooling improvements plateau when thermals are already under control"
   },
   {
-    "title": "M5Stack Core2 gets open-source firmware to reproduce OpenAI s Codex Micro features",
-    "summary": "IAMLIUBO has created open-source firmware for the M5Stack Core2 to mimic Codex Micro features, allowing developers to easily monitor and control agents. This can be done without the need for a custom macro pad. The solution is more affordable and accessible than the original Codex Micro.",
-    "link": "https://www.cnx-software.com/2026/07/18/m5stack-core2-gets-open-source-firmware-to-reproduce-openais-codex-micro-features/",
+    "title": "Jurassic Park packed $4 million of legit 1993 computer hardware a software engineer detailed every single piece of hardware in the film",
+    "summary": "In the 1993 film Jurassic Park, a software engineer detailed every single piece of computer hardware used in the film, highlighting the tech that brought the dinosaurs to life. Fabien Sanglard's meticulous list turned the movie into a time capsule of 90s computer technology. This project showcases the evolution of computing in the early 90s.",
+    "link": "https://www.tomshardware.com/desktops/jurassic-park-packed-usd4-million-of-legit-1993-computer-hardware-a-software-engineer-detailed-every-single-piece-of-hardware-in-the-film",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-18T10:03:15.956633",
-    "insight": "Reproducing Codex Micro features at a lower cost is now possible"
-  },
-  {
-    "title": "Best of Sensors: Siargo wins with MEMS Mass Flow Sensor",
-    "summary": "Siargo's MEMS mass flow sensor FS4000 won Best Instrumentation and Test Solution at the Best of Sensors 2026 award for its ability to capture dynamic thermal transfer data for heat distribution and time.",
-    "link": "https://www.fiercesensors.com/ai/best-sensors-siargo-wins-its-mems-mass-flow-sensor",
-    "categories": [
-      "Tech News"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.957805",
-    "insight": "Accurate thermal monitoring enables precise temperature control and efficiency."
+    "processed_date": "2026-07-19T10:14:03.210882",
+    "insight": "Early 90s computer hardware holds a significant historical value."
   },
   {
-    "title": "iPhone owners hit 87% loyalty rate this year, Android-to-iPhone switching drops to 12%",
-    "summary": "According to CIRP, iPhone owners have a 87% loyalty rate this year, with only 12% switching from Android.",
-    "link": "https://www.techspot.com/news/113164-iphone-owners-hit-87-loyalty-rate-year-android.html",
+    "title": "Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing 3GB GDDR7 module costs triple the price of 2GB",
+    "summary": "Nvidia RTX 50 Super GPUs may be delayed or overpriced due to high GDDR7 costs. 3GB GDDR7 modules cost twice to thrice as much as 2GB modules. This could exceed Nvidia's target MSRP for the GPUs.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-18T10:03:15.958079",
-    "insight": "Apple's strong ecosystem keeps users loyal and satisfied with their iOS experience."
-  },
-  {
-    "title": "Spotify is deleting millions of AI-generated music tracks to fend off spammers",
-    "summary": "Spotify removed 75 million AI-generated tracks in 2025 to combat spam operations.",
-    "link": "https://www.techspot.com/news/113160-spotify-deleting-millions-ai-generated-music-tracks-fend.html",
-    "categories": [
+      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.958248",
-    "insight": "Spam operations exploit AI-generated music for malicious marketing purposes."
+    "processed_date": "2026-07-19T10:14:03.211009",
+    "insight": "High GDDR7 costs threaten Nvidia's RTX 50 Super GPU pricing strategy"
   },
   {
-    "title": "Chinese memory maker CXMT's output has grown from 40,000 to 720,000 wafers in a few years, and it's closing in on Micron",
-    "summary": "ChangXin Memory Technologies (CXMT) is experiencing rapid growth, increasing its output from 40,000 to 720,000 wafers in a few years. The Chinese memory and IDM manufacturer is expected to produce between 350,000 and 375,000 DRAM wafers per month by the end of 2026. This growth positions CXMT to close in on Micron's production levels.",
-    "link": "https://www.techspot.com/news/113148-chinese-memory-maker-cxmt-output-has-grown-40000.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-18T10:03:15.958455",
-    "insight": "CXMT's rapid growth threatens Micron's market dominance in DRAM production."
-  },
-  {
-    "title": "OnePlus confirms exit from US and European markets, will replace OxygenOS with ColorOS",
-    "summary": "OnePlus is exiting the US and European markets, replacing OxygenOS with ColorOS, and will honor warranty coverage for existing devices.",
-    "link": "https://www.techspot.com/news/113152-oneplus-confirms-exit-us-european-markets-replace-oxygenos.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.958637",
-    "insight": "Shift signals further integration with parent company Oppo"
-  },
-  {
-    "title": "Japan's first national AI factory will use 27,500 GPUs across 382 Vera Rubin racks",
-    "summary": "Japan's first national AI factory will utilize 27,500 GPUs and 13,750 CPUs for training trillion-parameter models.",
-    "link": "https://www.techspot.com/news/113155-japan-first-national-ai-factory-use-27500-gpus.html",
+    "title": "Nvidia CEO Jensen Huang s trademark leather jacket raises nearly $1 Million at charity auction bidding makes $60,000 valuation look like pocket change",
+    "summary": "Nvidia CEO Jensen Huang's leather jacket sold for $960,000 at charity auction.",
+    "link": "https://www.tomshardware.com/peripherals/wearable-tech/nvidia-ceo-jensen-huangs-trademark-leather-jacket-raises-nearly-usd1-million-at-charity-auction-bidding-makes-usd60-000-valuation-look-like-pocket-change",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.958802",
-    "insight": "Massive AI computing infrastructure supports large-scale model training advancements."
+    "processed_date": "2026-07-19T10:14:03.211111",
+    "insight": "Luxury item sells for nearly $1 million, outpacing initial $60,000 valuation."
   },
   {
-    "title": "Apple's OLED iPad mini could arrive this October, kicking off a major iPad overhaul",
-    "summary": "Apple plans to release an OLED iPad mini in October, marking a major overhaul of its iPad lineup. A revised standard iPad is expected in 2027, followed by OLED-equipped iPad Air and Pro models. This move signals a significant shift towards OLED displays across the iPad series.",
-    "link": "https://www.techspot.com/news/113150-apple-oled-ipad-mini-could-arrive-october-kicking.html",
+    "title": "Security engineer ports password cracker hashcat to Gameboy Advance 16.8 MHz chip can perform a meager 727 hashes a second, 30 million times slower than a modern rig",
+    "summary": "A Gameboy Advance port of hashcat enables advanced password cracking on slow hardware, albeit at a significant time cost. The 16.8 MHz chip can process 727 hashes per second, which is 30 million times slower than modern rigs. This allows users to crack passwords on underpowered devices, albeit inefficiently.",
+    "link": "https://www.tomshardware.com/video-games/nintendo/security-engineer-ports-password-cracker-hashcat-to-gameboy-advance-16-8-mhz-chip-can-perform-a-meager-727-hashes-a-second-30-million-times-slower-than-a-modern-rig",
     "categories": [
-      "Tech News",
+      "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.958966",
-    "insight": "Apple's transition to OLED displays across iPad lineup is imminent"
+    "processed_date": "2026-07-19T10:14:03.211219",
+    "insight": "Security capabilities on underpowered hardware redefine password cracking possibilities."
   },
   {
-    "title": "The EU is forcing Google to give rival AI assistants the same access as Gemini on Android",
-    "summary": "The EU is forcing Google to give rival AI assistants equal access on Android, affecting 60% of EU smartphones. This integration aims to turn chatbots into everyday assistants. The move could reshape the AI market.",
-    "link": "https://www.techspot.com/news/113157-eu-forcing-google-give-rival-ai-assistants-same.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.959131",
-    "insight": "EU regulation could level the AI assistant playing field drastically."
-  },
-  {
-    "title": "This Lenovo laptop is the first to use inkjet-printed OLED, a technology that could make OLED screens cheaper",
-    "summary": "Lenovo's R9000P laptop features an inkjet-printed OLED screen in China, starting at $1,300.",
-    "link": "https://www.techspot.com/news/113153-lenovo-laptop-first-use-inkjet-printed-oled-technology.html",
+    "title": "AGI AI828 SSD Review: A near-last resort for those on a budget",
+    "summary": "The AGI AI828 SSD offers subpar performance and power efficiency, making it a last resort for budget buyers. However, in the current market, it might be sufficient for some users. It's a budget-friendly option, but with significant compromises.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/agi-ai828-ssd-review",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.959305",
-    "insight": "Cheaper OLED screens could become a reality with this technology advancement."
+    "quality_score": 15,
+    "processed_date": "2026-07-19T10:14:03.211318",
+    "insight": "Current budget market conditions elevate subpar storage options."
   },
   {
-    "title": "Over 4,500 Google workers demand layoff protections as Alphabet's value hits $4.3 trillion",
-    "summary": "Google's parent company Alphabet saw significant revenue and operating income growth, reaching a $4.3 trillion valuation. This success has been driven by the AI boom, like many other tech companies. Employees are now pushing for layoff protections.",
-    "link": "https://www.techspot.com/news/113159-over-4500-google-workers-demand-layoff-protections-alphabet.html",
+    "title": "Korean outfit hosting 1.44MB game development contest to honor the floppy disk entrants must confine entire fileset, including resources, engine, and library, to miniscule storage format",
+    "summary": "A Korean game development contest is hosting a competition to create games that fit on a single floppy disk. The competition is open to everyone and offers cash prizes for the top submissions. The goal is to create a complete game fileset within a 1.44MB storage format.",
+    "link": "https://www.tomshardware.com/software/korean-outfit-hosting-1-44mb-game-development-contest-to-honor-the-floppy-disk-entrants-must-confine-entire-fileset-including-resources-engine-and-library-to-miniscule-storage-format",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-19T10:14:03.211448",
+    "insight": "Forcing minimalism in game development leads to innovative creative solutions."
+  },
+  {
+    "title": "Bethesda confirms Fallout 5, Fallout 3 and New Vegas remasters, and new Obsidian Fallout game",
+    "summary": "Bethesda confirms Fallout 5, remastered Fallout 3 and New Vegas, and a new Obsidian Fallout game are in development.",
+    "link": "https://www.techspot.com/news/113162-bethesda-confirms-fallout-5-fallout-3-new-vegas.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-19T10:14:03.213328",
+    "insight": "Long-awaited Fallout projects bring hope to fans and the gaming industry."
+  },
+  {
+    "title": "India fined HP $14.4 million for rigging government bids and fixing ink and toner prices",
+    "summary": "HP India and resellers rigged bids on government contracts to increase their chances of winning.",
+    "link": "https://www.techspot.com/news/113158-india-fined-hp-144-million-rigging-government-bids.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-19T10:14:03.213542",
+    "insight": "Bidding manipulation undermines trust in public procurement processes."
+  },
+  {
+    "title": "GameStop now makes more money from Pokemon cards than video games",
+    "summary": "GameStop's business is shifting towards collectibles like Pokémon cards.",
+    "link": "https://www.techspot.com/news/113161-gamestop-now-makes-more-money-pokemon-cards-than.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-19T10:14:03.213711",
+    "insight": "GameStop's diversification into collectibles reduces dependence on video games sales"
+  },
+  {
+    "title": "San Francisco warns Apple and Google to stop profiting from AI nudify apps",
+    "summary": "San Francisco's supervisor Chiu sent cease-and-desist letters to Apple and Google, demanding removal of AI-powered 'nudify' apps from their stores.",
+    "link": "https://www.techspot.com/news/113166-san-francisco-warns-apple-google-stop-profiting-ai.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.959493",
-    "insight": "Rapid company growth raises concerns about employee job security."
-  },
-  {
-    "title": "A Doom developer says Microsoft \"destroyed an immense amount of value\" at id Software",
-    "summary": "A former id Software developer criticizes Microsoft for announcing job cuts before new Doom DLC. The layoffs affected 20% of the Xbox staff. This came as a shock to employees.",
-    "link": "https://www.techspot.com/news/113143-doom-developer-microsoft-destroyed-immense-amount-value-software.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-18T10:03:15.959656",
-    "insight": "Poor timing of job cuts undermines employee trust and morale."
-  },
-  {
-    "title": "GTA 6 hacker who was sentenced to life in a secure hospital is moved to prison ahead of retrial",
-    "summary": "A GTA 6 hacker, responsible for a massive leak in 2022, is being transferred to prison before a retrial. The hacker, previously 18 years old, claimed responsibility for an Uber breach. Details of their current status and retrial are not fully disclosed.",
-    "link": "https://www.techspot.com/news/113156-gta-6-hacker-who-sentenced-life-secure-hospital.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-18T10:03:15.959824",
-    "insight": "High-profile hacking incidents can have severe real-world consequences for perpetrators."
-  },
-  {
-    "title": "Researchers synchronize 105,000 tiny magnetic oscillators in 45 nanoseconds, pointing to faster, low-power computing",
-    "summary": "Researchers have successfully synchronized 105,000 tiny magnetic oscillators in 45 nanoseconds without an external clock. The oscillators, measuring 10-20 nanometers in width, naturally fall into sync through their magnetic spin. This achievement can lead to faster and more energy-efficient computing.",
-    "link": "https://www.techspot.com/news/113149-researchers-synchronize-105000-tiny-magnetic-oscillators-45-nanoseconds.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-18T10:03:15.959991",
-    "insight": "Unlocking natural synchrony for ultra-fast, low-power computing breakthroughs"
+    "processed_date": "2026-07-19T10:14:03.213866",
+    "insight": "Concerns over AI-driven content and child exploitation are driving regulatory action."
   }
 ]

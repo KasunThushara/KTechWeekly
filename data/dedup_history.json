@@ -1,184 +1,4 @@
 {
-  "https://www.tomshardware.com/pc-components/ssds/chinese-makers-of-dram-modules-ssds-have-a-serious-advantage-over-american-and-taiwanese-suppliers-says-smi-svp-state-guidance-secures-local-dram-and-ssd-supply-while-the-big-three-chase-ai-margins": {
-    "title": "Chinese makers of DRAM modules, SSDs have a serious advantage over American and Taiwanese suppliers, says SMI SVP state guidance secures local DRAM and SSD supply while the Big Three chase AI margins",
-    "fingerprint": "4914141a5cafd06bdaf3d1550ca2ee02",
-    "timestamp": 1781784332.612095,
-    "date": "2026-06-18T12:05:32.612100"
-  },
-  "https://www.tomshardware.com/tech-industry/cryptocurrency/digital-entrepreneur-creates-humorous-physical-nft-minting-device-using-a-raspberry-pi-in-quest-for-infinite-money-machine-contraption-trained-on-m3-macbook-can-generate-an-nft-in-3-seconds-has-so-far-sold-one-for-usd9-92": {
-    "title": "Digital entrepreneur creates humorous 'physical NFT minting device' using a Raspberry Pi in quest for 'infinite money machine' contraption trained on M3 MacBook can generate an NFT in 3 seconds, has so far sold one for $9.92",
-    "fingerprint": "413e788a8e00c247dd3302cf4e360ac0",
-    "timestamp": 1781784332.61223,
-    "date": "2026-06-18T12:05:32.612231"
-  },
-  "https://www.tomshardware.com/tech-industry/cyber-security/kaspersky-finds-malware-hidden-in-steam-wallpapers-that-hijacks-accounts-to-spread-itself": {
-    "title": "Kaspersky finds malware hidden in Steam Wallpaper Engine that hijacks accounts to spread itself dozens of malicious packages downloaded tens of thousands of times",
-    "fingerprint": "bd1c4b7d0bf7315393514e24c16f42c6",
-    "timestamp": 1781784332.612332,
-    "date": "2026-06-18T12:05:32.612332"
-  },
-  "https://www.tomshardware.com/tech-industry/cyber-security/frontier-airlines-site-leaks-all-personal-info-with-just-a-glance-at-a-boarding-pass-researcher-claims-booking-number-and-last-name-nets-you-every-passengers-personal-info-including-address-passport-tsa-precheck-and-most-credit-card-info": {
-    "title": "Frontier Airlines site leaks all personal info with just a glance at a boarding pass, researcher claims booking number and last name nets you every passenger's personal info, including address, passport, TSA PreCheck, and most credit card info",
-    "fingerprint": "41a801dcd626cc5c3d9540f18d980cc3",
-    "timestamp": 1781784332.61247,
-    "date": "2026-06-18T12:05:32.612470"
-  },
-  "https://www.tomshardware.com/tech-industry/semiconductors/intels-fab-roadmap-examined": {
-    "title": "Intel's fab roadmap examined Arizona, Ohio, Ireland, and the two deadlines deciding 14A process node",
-    "fingerprint": "54322b1128dadae5603557826c5a12c6",
-    "timestamp": 1781784332.612568,
-    "date": "2026-06-18T12:05:32.612569"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-pulls-the-kill-switch-on-anthropics-fable-5-ai-models-sending-global-allies-scrambling-european-and-canadian-leaders-alarm-allies-over-sudden-export-bans": {
-    "title": "US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling European and Canadian leaders alarm allies over sudden export bans",
-    "fingerprint": "95b5f897f70c4195bc3cd042853e5c03",
-    "timestamp": 1781784332.612677,
-    "date": "2026-06-18T12:05:32.612677"
-  },
-  "https://www.tomshardware.com/tech-industry/deepseek-was-set-to-be-added-to-us-entity-list-for-supporting-chinas-military-and-intelligence-operations-report-claims-white-house-holds-off-to-avoid-escalating-tensions-with-china": {
-    "title": "DeepSeek was set to be added to US Entity List for supporting China s military and intelligence operations, report claims White House holds off to avoid escalating tensions with China",
-    "fingerprint": "b88d77ddfa718af0036a68a98354d6f0",
-    "timestamp": 1781784332.612787,
-    "date": "2026-06-18T12:05:32.612788"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/nvidia-releases-rtx-remix-1-5-with-new-rtx-io-compression-reducing-mod-file-sizes-by-up-to-37-percent-update-also-adds-smooth-normals-and-rtx-remix-skills-agents": {
-    "title": "Nvidia releases RTX Remix 1.5 with new RTX IO compression reducing mod file sizes by up to 37% update also adds Smooth Normals and 'RTX Remix Skills' Agents",
-    "fingerprint": "2d0002bdeeaf3493209c0b769cb8472a",
-    "timestamp": 1781784332.612906,
-    "date": "2026-06-18T12:05:32.612907"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-build-brain-like-memory-device-for-ai-sensors-that-may-improve-energy-efficiency-phototransistor-device-combines-light-sensing-memory-and-processing-to-cut-data-movement": {
-    "title": "Researchers build brain-like memory device for AI sensors that may improve energy efficiency phototransistor device combines light sensing, memory, and processing to cut data movement",
-    "fingerprint": "ec1984160ea8d45e5b8592175bfe96f3",
-    "timestamp": 1781784332.613023,
-    "date": "2026-06-18T12:05:32.613023"
-  },
-  "https://www.tomshardware.com/networking/undersea-cable-connecting-egypt-and-syria-has-been-cut-damascus-blames-systematic-sabotage-campaign-as-cause-of-damage": {
-    "title": "Undersea cable connecting Egypt and Syria has been cut, state-owned telecom operator says Damascus blames 'systematic sabotage campaign' as cause of damage",
-    "fingerprint": "2fdc7b373666380c9471a7c1faba409e",
-    "timestamp": 1781784332.613129,
-    "date": "2026-06-18T12:05:32.613130"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/first-official-details-of-amds-next-gen-mustang-peak-threadripper-cpus-come-into-view-chips-feature-ddr5-pcie-6-0-and-a-new-socket": {
-    "title": "First official details of AMD's next-gen 'Mustang Peak' Threadripper CPUs come into view chips feature DDR5, PCIe 6.0, and a new socket",
-    "fingerprint": "3ccdb1b9864d10c187f44c584abe5e32",
-    "timestamp": 1781784332.613223,
-    "date": "2026-06-18T12:05:32.613224"
-  },
-  "https://www.cnx-software.com/2026/06/18/broadcom-fully-integrated-quad-core-wi-fi-8-access-point-socs-5g-fwa-router-reference-platform/": {
-    "title": "Broadcom unveils fully-integrated quad-core Wi-Fi 8 access point SoCs, 5G FWA router reference platform",
-    "fingerprint": "32a55576a303a1053ef449c0f90e40c1",
-    "timestamp": 1781784332.613827,
-    "date": "2026-06-18T12:05:32.613828"
-  },
-  "https://www.cnx-software.com/2026/06/18/rockchip-rk3539-quad-core-cortex-a55-soc-low-cost-android-14-4k-tv-stick/": {
-    "title": "Rockchip RK3539 quad-core Cortex-A55 SoC shows up in low-cost Android 14 4K TV stick with AV1 codec support",
-    "fingerprint": "8a7aa43c000bd0ed9b889e362b220d55",
-    "timestamp": 1781784332.613992,
-    "date": "2026-06-18T12:05:32.613993"
-  },
-  "https://www.fiercesensors.com/sensors/quest-better-chip-design-accelerates": {
-    "title": "The quest for better chip design accelerates",
-    "fingerprint": "f34681744747cbea3b5defa291a1f6c4",
-    "timestamp": 1781784332.615047,
-    "date": "2026-06-18T12:05:32.615050"
-  },
-  "https://www.fiercesensors.com/sensors/best-sensors-polar-id-aims-better-face-authentication": {
-    "title": "Best of Sensors: Polar ID aims for better face authentication",
-    "fingerprint": "c96ecc8d2f8153b10c6850bbd0ccd5dd",
-    "timestamp": 1781784332.615403,
-    "date": "2026-06-18T12:05:32.615405"
-  },
-  "https://www.techspot.com/news/112806-tim-cook-confirms-apple-price-hikes-coming-iphones.html": {
-    "title": "Tim Cook confirms Apple price hikes are coming, iPhones could jump $200 or more",
-    "fingerprint": "74019ff360f93733e6bdefdb1175b57b",
-    "timestamp": 1781784332.615647,
-    "date": "2026-06-18T12:05:32.615652"
-  },
-  "https://www.techspot.com/article/3113-replace-windows-default-apps/": {
-    "title": "Replace These 11 Default Apps in Windows 11",
-    "fingerprint": "3595310ac0defd682e0ea43c89c3473a",
-    "timestamp": 1781784332.615791,
-    "date": "2026-06-18T12:05:32.615792"
-  },
-  "https://www.techspot.com/news/112808-trump-apple-work-intel-build-chips-us.html": {
-    "title": "Trump says Apple will work with Intel to build chips in the US",
-    "fingerprint": "94659723d082c33057219ef60531915a",
-    "timestamp": 1781784332.615942,
-    "date": "2026-06-18T12:05:32.615943"
-  },
-  "https://www.techspot.com/news/112802-stop-killing-games-lost-biggest-battle-despite-13.html": {
-    "title": "Stop Killing Games lost its biggest battle despite 1.3 million signatures, but the fight isn't over",
-    "fingerprint": "35b173a5ed53e80e5970868ed5426bcd",
-    "timestamp": 1781784332.616087,
-    "date": "2026-06-18T12:05:32.616088"
-  },
-  "https://www.techspot.com/news/112803-firefox-has-ambitious-new-roadmap-browser-also-losing.html": {
-    "title": "Firefox has an ambitious new roadmap, the browser is also losing millions of users a month",
-    "fingerprint": "a3b3645d19d8c8d1a1564b19aed579f4",
-    "timestamp": 1781784332.616248,
-    "date": "2026-06-18T12:05:32.616249"
-  },
-  "https://www.techspot.com/downloads/7887-ab-download-manager.html": {
-    "title": "AB Download Manager is a free alternative to Internet Download Manager",
-    "fingerprint": "e45e7b3c5671c95d41f211fdc4eea32e",
-    "timestamp": 1781784332.616443,
-    "date": "2026-06-18T12:05:32.616444"
-  },
-  "https://www.techspot.com/news/112800-samsung-foundry-booming-tsmc-struggles-demand-bags-nvidia.html": {
-    "title": "Samsung's foundry is booming as TSMC struggles with demand bags Nvidia, Tesla, and Qualcomm as new clients",
-    "fingerprint": "66095ec841ea60d5b61ad83b85e83133",
-    "timestamp": 1781784332.616627,
-    "date": "2026-06-18T12:05:32.616628"
-  },
-  "https://www.techspot.com/news/112796-android-17-arrives-pixel-floating-apps-foldable-features.html": {
-    "title": "Android 17 arrives on Pixel with floating apps, foldable features, and new AI tools",
-    "fingerprint": "0a0131d421987c7af20a27304128c885",
-    "timestamp": 1781784332.616791,
-    "date": "2026-06-18T12:05:32.616792"
-  },
-  "https://www.techspot.com/news/112790-handheld-x86-mini-computer-heading-kickstarter-swappable-accessories.html": {
-    "title": "This handheld x86 mini-computer is heading to Kickstarter with swappable accessories and 4G LTE",
-    "fingerprint": "8c46f1408ae32d7be8c7a7082fff9301",
-    "timestamp": 1781784332.616951,
-    "date": "2026-06-18T12:05:32.616952"
-  },
-  "https://www.techspot.com/news/112794-openai-made-13-billion-2025-lost-21-billion.html": {
-    "title": "OpenAI made $13 billion in 2025 and lost $21 billion doing it",
-    "fingerprint": "9fd35f010f4e8353ee0c6d2b70ca31bb",
-    "timestamp": 1781784332.617117,
-    "date": "2026-06-18T12:05:32.617118"
-  },
-  "https://www.techspot.com/downloads/4718-google-chrome.html": {
-    "title": "Chrome update fixes 33 security flaws, including seven critical bugs",
-    "fingerprint": "1ecb96b7d43e25e070ce161c2f6e60ec",
-    "timestamp": 1781784332.617271,
-    "date": "2026-06-18T12:05:32.617272"
-  },
-  "https://www.techspot.com/news/112799-white-house-app-could-soon-auto-installed-every.html": {
-    "title": "The White House app could soon be auto-installed on every DHS work phone",
-    "fingerprint": "c479ff7d6e368cf3e06a47034108a9a5",
-    "timestamp": 1781784332.617409,
-    "date": "2026-06-18T12:05:32.617410"
-  },
-  "https://www.techspot.com/news/112792-apple-ai-hardware-roadmap-includes-camera-eqipped-airpods.html": {
-    "title": "Apple's AI hardware roadmap: camera-equipped AirPods, smart glasses, and foldable iPhones",
-    "fingerprint": "1edd6addea66d270011ab2d758ec30e5",
-    "timestamp": 1781784332.617586,
-    "date": "2026-06-18T12:05:32.617587"
-  },
-  "https://www.techspot.com/news/112797-microsoft-refreshes-surface-pro-surface-laptop-snapdragon-x2.html": {
-    "title": "Microsoft refreshes Surface Pro and Surface Laptop with Snapdragon X2 chips, longer battery life, and higher prices",
-    "fingerprint": "5c971dc0ce6230cc1ed6ad1036d5e706",
-    "timestamp": 1781784332.617742,
-    "date": "2026-06-18T12:05:32.617743"
-  },
-  "https://www.techspot.com/news/112789-retail-ssd-market-has-almost-disappeared-silicon-motion.html": {
-    "title": "\"The retail SSD market has almost disappeared,\" Silicon Motion says, as OEMs take what's left",
-    "fingerprint": "a220199033394b95e456c381bb08ced0",
-    "timestamp": 1781784332.617905,
-    "date": "2026-06-18T12:05:32.617907"
-  },
   "https://www.tomshardware.com/monitors/gaming-monitors/viewsonic-vx2730d-4k-27-inch-4k-dual-refresh-gaming-monitor-review": {
     "title": "ViewSonic VX2730D-4K 27-inch 4K dual-refresh gaming monitor review: Delivering speed, color, accuracy, and pixel density",
     "fingerprint": "c94e38937916b817ca495f3de78d2c68",
@@ -5038,5 +4858,89 @@
     "fingerprint": "3ec728c7ec02473ef30c36bc649e8ae8",
     "timestamp": 1784368995.959987,
     "date": "2026-07-18T10:03:15.959988"
+  },
+  "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds": {
+    "title": "Clever hacker fits 537,000 domains in a tiny $5 ESP32 ad-blocking dongle firmware uses only around 50KB of RAM and can answer blocked lookups in 10 milliseconds",
+    "fingerprint": "1b9a05faf353cd4177bcb05bdd004391",
+    "timestamp": 1784456043.210356,
+    "date": "2026-07-19T10:14:03.210360"
+  },
+  "https://www.tomshardware.com/desktops/pc-building/crazed-enthusiast-runs-pc-on-192-aa-batteries-successfully-boots-into-hannah-montana-linux-system-is-stable-during-stress-testing-and-even-plays-freedoom": {
+    "title": "Crazed enthusiast runs PC on 192 AA batteries, successfully boots into Hannah Montana Linux System is stable during stress testing and even plays FreeDoom",
+    "fingerprint": "29c1a4c2b26d1204b58d5c8e99218346",
+    "timestamp": 1784456043.210525,
+    "date": "2026-07-19T10:14:03.210526"
+  },
+  "https://www.tomshardware.com/video-games/pc-gaming/gta-3-and-vice-city-are-now-playable-inside-san-andreas-a-mod-lets-you-revisit-liberty-city-and-vice-city-without-leaving-san-andreas": {
+    "title": "GTA 3 and Vice City are now playable inside San Andreas a mod lets you revisit Liberty City and Vice City without leaving San Andreas",
+    "fingerprint": "9c2b6b649cb0364a8276fa826c56741a",
+    "timestamp": 1784456043.210642,
+    "date": "2026-07-19T10:14:03.210642"
+  },
+  "https://www.tomshardware.com/pc-components/cooling/strapping-11-fans-and-a-360mm-aio-to-an-rtx-3080-sounds-crazy-until-you-see-the-30-c-temp-drop-modded-gpu-delivered-less-than-5-fps-uplift": {
+    "title": "Strapping 11 fans and a 360mm AIO to an RTX 3080 sounds crazy until you see the 30 C temp drop modded GPU delivered less than 5 FPS uplift at turbojet noise levels",
+    "fingerprint": "ee9fd437af1f9b8a33bfa0abcd3d65df",
+    "timestamp": 1784456043.210764,
+    "date": "2026-07-19T10:14:03.210765"
+  },
+  "https://www.tomshardware.com/desktops/jurassic-park-packed-usd4-million-of-legit-1993-computer-hardware-a-software-engineer-detailed-every-single-piece-of-hardware-in-the-film": {
+    "title": "Jurassic Park packed $4 million of legit 1993 computer hardware a software engineer detailed every single piece of hardware in the film",
+    "fingerprint": "1123175445d9144033c12af1a44d415f",
+    "timestamp": 1784456043.210879,
+    "date": "2026-07-19T10:14:03.210880"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb": {
+    "title": "Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing 3GB GDDR7 module costs triple the price of 2GB",
+    "fingerprint": "41bbd4b2cc50a568496d9cf4eb5f9a00",
+    "timestamp": 1784456043.211007,
+    "date": "2026-07-19T10:14:03.211007"
+  },
+  "https://www.tomshardware.com/peripherals/wearable-tech/nvidia-ceo-jensen-huangs-trademark-leather-jacket-raises-nearly-usd1-million-at-charity-auction-bidding-makes-usd60-000-valuation-look-like-pocket-change": {
+    "title": "Nvidia CEO Jensen Huang s trademark leather jacket raises nearly $1 Million at charity auction bidding makes $60,000 valuation look like pocket change",
+    "fingerprint": "47faf8a8d3b1a432084323a82f4cb9d9",
+    "timestamp": 1784456043.211109,
+    "date": "2026-07-19T10:14:03.211109"
+  },
+  "https://www.tomshardware.com/video-games/nintendo/security-engineer-ports-password-cracker-hashcat-to-gameboy-advance-16-8-mhz-chip-can-perform-a-meager-727-hashes-a-second-30-million-times-slower-than-a-modern-rig": {
+    "title": "Security engineer ports password cracker hashcat to Gameboy Advance 16.8 MHz chip can perform a meager 727 hashes a second, 30 million times slower than a modern rig",
+    "fingerprint": "abd52c88a58711c6fe86d23cfb26c243",
+    "timestamp": 1784456043.211217,
+    "date": "2026-07-19T10:14:03.211217"
+  },
+  "https://www.tomshardware.com/pc-components/ssds/agi-ai828-ssd-review": {
+    "title": "AGI AI828 SSD Review: A near-last resort for those on a budget",
+    "fingerprint": "f10a7a748093dc5a7727635418a9d338",
+    "timestamp": 1784456043.211315,
+    "date": "2026-07-19T10:14:03.211316"
+  },
+  "https://www.tomshardware.com/software/korean-outfit-hosting-1-44mb-game-development-contest-to-honor-the-floppy-disk-entrants-must-confine-entire-fileset-including-resources-engine-and-library-to-miniscule-storage-format": {
+    "title": "Korean outfit hosting 1.44MB game development contest to honor the floppy disk entrants must confine entire fileset, including resources, engine, and library, to miniscule storage format",
+    "fingerprint": "69f1c825d24947688c8b1f872280f80a",
+    "timestamp": 1784456043.211445,
+    "date": "2026-07-19T10:14:03.211446"
+  },
+  "https://www.techspot.com/news/113162-bethesda-confirms-fallout-5-fallout-3-new-vegas.html": {
+    "title": "Bethesda confirms Fallout 5, Fallout 3 and New Vegas remasters, and new Obsidian Fallout game",
+    "fingerprint": "9ec513e70f483f4beae869e0662ede70",
+    "timestamp": 1784456043.213319,
+    "date": "2026-07-19T10:14:03.213322"
+  },
+  "https://www.techspot.com/news/113158-india-fined-hp-144-million-rigging-government-bids.html": {
+    "title": "India fined HP $14.4 million for rigging government bids and fixing ink and toner prices",
+    "fingerprint": "3a99c6f31f3ff2c8247bd24542d33ffe",
+    "timestamp": 1784456043.213536,
+    "date": "2026-07-19T10:14:03.213538"
+  },
+  "https://www.techspot.com/news/113161-gamestop-now-makes-more-money-pokemon-cards-than.html": {
+    "title": "GameStop now makes more money from Pokemon cards than video games",
+    "fingerprint": "70effca19064ddb5ed7efdb230860127",
+    "timestamp": 1784456043.213707,
+    "date": "2026-07-19T10:14:03.213708"
+  },
+  "https://www.techspot.com/news/113166-san-francisco-warns-apple-google-stop-profiting-ai.html": {
+    "title": "San Francisco warns Apple and Google to stop profiting from AI nudify apps",
+    "fingerprint": "1e7130e28365bb7b14d0d659228c1b9e",
+    "timestamp": 1784456043.213861,
+    "date": "2026-07-19T10:14:03.213863"
   }
 }

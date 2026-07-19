@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 18, 2026**
+**Week of July 19, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. China's 2.8-trillion-parameter Kimi K3 beats Claude Fable 5 in Frontend Code Arena benchmark Moonshot AI delivers largest open-weight AI model ever, as China works around U.S. compute limits ⭐
+### 1. AGI AI828 SSD Review: A near-last resort for those on a budget ⭐
 
 **🤖 AI & ML**
 
-Moonshot AI releases Kimi K3, a 2.8 trillion parameter AI model. This is described as the world's first open 3T-class system, surpassing previous compute limits. The model is a significant achievement in AI development.
+The AGI AI828 SSD offers subpar performance and power efficiency, making it a last resort for budget buyers. However, in the current market, it might be sufficient for some users. It's a budget-friendly option, but with significant compromises.
 
-💡 **Key Point:** Breaking U.S. compute limits with a massive AI model advancement
+💡 **Key Point:** Current budget market conditions elevate subpar storage options.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3)
-
----
-
-### 2. China's 2.8-trillion-parameter Kimi K3 beats Claude Fable 5 in Frontend Code Arena benchmark Moonshot AI delivers largest open-weight AI model ever, as China works around U.S. compute limits ⭐
-
-**⚡ Semiconductors**
-
-Moonshot AI releases Kimi K3, a 2.8 trillion parameter AI model. This is described as the world's first open 3T-class system, surpassing previous compute limits. The model is a significant achievement in AI development.
-
-💡 **Key Point:** Breaking U.S. compute limits with a massive AI model advancement
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/agi-ai828-ssd-review)
 
 ---
 
-### 3. TSMC confirms significant yield and performance improvements in A14 update strong interest from AI/HPC and smartphone customers ⭐
+### 2. AGI AI828 SSD Review: A near-last resort for those on a budget ⭐
+
+**💻 Hardware**
+
+The AGI AI828 SSD offers subpar performance and power efficiency, making it a last resort for budget buyers. However, in the current market, it might be sufficient for some users. It's a budget-friendly option, but with significant compromises.
+
+💡 **Key Point:** Current budget market conditions elevate subpar storage options.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/agi-ai828-ssd-review)
+
+---
+
+### 3. Strapping 11 fans and a 360mm AIO to an RTX 3080 sounds crazy until you see the 30 C temp drop modded GPU delivered less than 5 FPS uplift at turbojet noise levels 
 
 **🤖 AI & ML**
 
-TSMC's A14 process technology has shown significant yield and performance improvements, with strong interest from AI/HPC and smartphone customers. This advancement has outpaced N2 development at its current stage. Developers are planning to utilize the A14 for both client and AI/HPC applications.
+TrashBench tested adding multiple fans to an RTX 3080 GPU for performance improvement. The results showed a 30 C temp drop but only a 5 FPS uplift. The experiment highlighted the limitations of cooling as a performance booster.
 
-💡 **Key Point:** AI/HPC and smartphone industries will benefit from A14 performance boosts.
+💡 **Key Point:** Cooling improvements plateau when thermals are already under control
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-significant-yield-and-performance-improvements-in-a14-update-strong-interest-from-ai-hpc-and-smartphone-customers)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cooling/strapping-11-fans-and-a-360mm-aio-to-an-rtx-3080-sounds-crazy-until-you-see-the-30-c-temp-drop-modded-gpu-delivered-less-than-5-fps-uplift)
 
 ---
 
-### 4. AI data centers must produce as much power as they use, Australia PM says new national AI framework will also ensure water efficiency and protect intellectual property rights ⭐
+### 4. Bethesda confirms Fallout 5, Fallout 3 and New Vegas remasters, and new Obsidian Fallout game 
 
 **🤖 AI & ML**
 
-Australia's PM introduces national AI framework for data center sustainability.
+Bethesda confirms Fallout 5, remastered Fallout 3 and New Vegas, and a new Obsidian Fallout game are in development.
 
-💡 **Key Point:** Australia's vast land and renewable energy attract AI hyperscalers.
+💡 **Key Point:** Long-awaited Fallout projects bring hope to fans and the gaming industry.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/policy/ai-data-centers-must-produce-as-much-power-as-they-use-australia-pm-says-new-national-ai-framework-will-also-ensure-water-efficiency-and-protect-intellectual-property-rights)
+🔗 [Read More](https://www.techspot.com/news/113162-bethesda-confirms-fallout-5-fallout-3-new-vegas.html)
 
 ---
 
-### 5. AI data centers must produce as much power as they use, Australia PM says new national AI framework will also ensure water efficiency and protect intellectual property rights ⭐
+### 5. Strapping 11 fans and a 360mm AIO to an RTX 3080 sounds crazy until you see the 30 C temp drop modded GPU delivered less than 5 FPS uplift at turbojet noise levels 
 
-**⚡ Semiconductors**
+**🎮 GPUs**
 
-Australia's PM introduces national AI framework for data center sustainability.
+TrashBench tested adding multiple fans to an RTX 3080 GPU for performance improvement. The results showed a 30 C temp drop but only a 5 FPS uplift. The experiment highlighted the limitations of cooling as a performance booster.
 
-💡 **Key Point:** Australia's vast land and renewable energy attract AI hyperscalers.
+💡 **Key Point:** Cooling improvements plateau when thermals are already under control
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/policy/ai-data-centers-must-produce-as-much-power-as-they-use-australia-pm-says-new-national-ai-framework-will-also-ensure-water-efficiency-and-protect-intellectual-property-rights)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cooling/strapping-11-fans-and-a-360mm-aio-to-an-rtx-3080-sounds-crazy-until-you-see-the-30-c-temp-drop-modded-gpu-delivered-less-than-5-fps-uplift)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **40 articles** across **5 focused categories**.
+We covered **23 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 18 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 2 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 6 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 8 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 10 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 5 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 2 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 18 articles
+*Artificial Intelligence and Machine Learning* — 10 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 2 articles
+*Graphics cards and compute accelerators* — 3 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 6 articles
+*Computing hardware and development boards* — 5 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 8 articles
+*Chip manufacturing and design* — 3 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 6 articles
+*Industry news and product launches* — 2 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-07-18 at 10:04 by an autonomous AI curation system.
+Generated 2026-07-19 at 10:14 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

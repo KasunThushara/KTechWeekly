@@ -1,75 +1,65 @@
 # 💻 Hardware
-**Week of July 18, 2026**
+**Week of July 19, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-07-18 10:04
+- **Articles this week:** 5
+- **Report generated:** 2026-07-19 10:14
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. TSMC confirms significant yield and performance improvements in A14 update strong interest from AI/HPC and smartphone customers ⭐
+### 1. AGI AI828 SSD Review: A near-last resort for those on a budget ⭐
 
-TSMC's A14 process technology has shown significant yield and performance improvements, with strong interest from AI/HPC and smartphone customers. This advancement has outpaced N2 development at its current stage. Developers are planning to utilize the A14 for both client and AI/HPC applications.
+The AGI AI828 SSD offers subpar performance and power efficiency, making it a last resort for budget buyers. However, in the current market, it might be sufficient for some users. It's a budget-friendly option, but with significant compromises.
 
-💡 *AI/HPC and smartphone industries will benefit from A14 performance boosts.*
+💡 *Current budget market conditions elevate subpar storage options.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-significant-yield-and-performance-improvements-in-a14-update-strong-interest-from-ai-hpc-and-smartphone-customers)
-
----
-
-### 2. MSI MAG Z890 Tomahawk Wifi II motherboard review: Loses features from the original, but shaves a few dollars off the price 
-
-The MSI MAG Z890 Tomahawk Wifi II motherboard offers a budget-friendly option with reduced connectivity features, still providing a reasonably equipped Z890 board at a sub-$200 price.
-
-💡 *Budget-conscious buyers prioritize affordability over full-featured motherboards.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/msi-mag-z890-tomahawk-wifi-ii-motherboard-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/agi-ai828-ssd-review)
 
 ---
 
-### 3. M5Stack Core2 gets open-source firmware to reproduce OpenAI s Codex Micro features 
+### 2. Clever hacker fits 537,000 domains in a tiny $5 ESP32 ad-blocking dongle firmware uses only around 50KB of RAM and can answer blocked lookups in 10 milliseconds 
 
-IAMLIUBO has created open-source firmware for the M5Stack Core2 to mimic Codex Micro features, allowing developers to easily monitor and control agents. This can be done without the need for a custom macro pad. The solution is more affordable and accessible than the original Codex Micro.
+A $5 ESP32 ad-blocking dongle can block over 537,000 domains using just 4MB flash memory and 50KB RAM. This is achieved through a clever hashing trick that optimizes memory usage. The system can answer blocked lookups in 10 milliseconds.
 
-💡 *Reproducing Codex Micro features at a lower cost is now possible*
+💡 *Optimized memory usage enables mass domain blocking at low cost.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/18/m5stack-core2-gets-open-source-firmware-to-reproduce-openais-codex-micro-features/)
-
----
-
-### 4. Intel Nova Lake leak points to Core Ultra Series 400 branding, staggered release next year hotly anticipated flagship 52-core desktop CPU might not arrive until late 2027 
-
-Intel's Nova Lake desktop processors may arrive with Core Ultra branding, with a staggered release planned for next year, but the flagship 52-core CPU might not be available until 2027.
-
-💡 *Intel's flagship CPU may be delayed until late 2027.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-nova-lake-leak-points-to-core-ultra-series-400-branding-staggered-release-next-year-hotly-anticipated-flagship-52-core-desktop-cpu-might-not-arrive-until-late-2027)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds)
 
 ---
 
-### 5. Score $1,100 off this OLED gaming laptop with RTX 5070 Ti, the ultimate Back to School powerhouse also features a 24-core Ultra 9 290HX, 32GB of RAM, and a 1TB SSD 
+### 3. Crazed enthusiast runs PC on 192 AA batteries, successfully boots into Hannah Montana Linux System is stable during stress testing and even plays FreeDoom 
 
-Get the HP Omen Max laptop with OLED, RTX 5070 Ti, and 32GB RAM at a discounted price.
+Uwoslab successfully powered a PC with a 192-cell AA battery array, booting into Hannah Montana Linux. The system withstood stress testing and even played FreeDoom. This feat showcases the creative use of unconventional power sources.
 
-💡 *Cutting-edge gaming performance at a significantly reduced cost.*
+💡 *Unconventional power sources can power modern computing systems*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/score-usd1-100-off-this-oled-gaming-laptop-with-rtx-5070-ti-the-ultimate-back-to-school-powerhouse-also-features-a-24-core-ultra-9-290hx-32gb-of-ram-and-a-1tb-ssd)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/crazed-enthusiast-runs-pc-on-192-aa-batteries-successfully-boots-into-hannah-montana-linux-system-is-stable-during-stress-testing-and-even-plays-freedoom)
 
 ---
 
-### 6. This Lenovo laptop is the first to use inkjet-printed OLED, a technology that could make OLED screens cheaper 
+### 4. GTA 3 and Vice City are now playable inside San Andreas a mod lets you revisit Liberty City and Vice City without leaving San Andreas 
 
-Lenovo's R9000P laptop features an inkjet-printed OLED screen in China, starting at $1,300.
+A GTA modder has integrated GTA 3 and Vice City into San Andreas, allowing players to revisit classic cities within the main game. This mod enables seamless transitions between the games, making it possible to explore multiple worlds simultaneously. The mod also allows for nesting Vice City within GTA 3.
 
-💡 *Cheaper OLED screens could become a reality with this technology advancement.*
+💡 *Revolutionizing open-world gaming with immersive nested game environments*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113153-lenovo-laptop-first-use-inkjet-printed-oled-technology.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/gta-3-and-vice-city-are-now-playable-inside-san-andreas-a-mod-lets-you-revisit-liberty-city-and-vice-city-without-leaving-san-andreas)
+
+---
+
+### 5. Jurassic Park packed $4 million of legit 1993 computer hardware a software engineer detailed every single piece of hardware in the film 
+
+In the 1993 film Jurassic Park, a software engineer detailed every single piece of computer hardware used in the film, highlighting the tech that brought the dinosaurs to life. Fabien Sanglard's meticulous list turned the movie into a time capsule of 90s computer technology. This project showcases the evolution of computing in the early 90s.
+
+💡 *Early 90s computer hardware holds a significant historical value.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/jurassic-park-packed-usd4-million-of-legit-1993-computer-hardware-a-software-engineer-detailed-every-single-piece-of-hardware-in-the-film)
 
 ---
 
