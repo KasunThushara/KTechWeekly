@@ -1,165 +1,211 @@
 [
   {
-    "title": "Clever hacker fits 537,000 domains in a tiny $5 ESP32 ad-blocking dongle firmware uses only around 50KB of RAM and can answer blocked lookups in 10 milliseconds",
-    "summary": "A $5 ESP32 ad-blocking dongle can block over 537,000 domains using just 4MB flash memory and 50KB RAM. This is achieved through a clever hashing trick that optimizes memory usage. The system can answer blocked lookups in 10 milliseconds.",
-    "link": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-19T10:14:03.210367",
-    "insight": "Optimized memory usage enables mass domain blocking at low cost."
-  },
-  {
-    "title": "Crazed enthusiast runs PC on 192 AA batteries, successfully boots into Hannah Montana Linux System is stable during stress testing and even plays FreeDoom",
-    "summary": "Uwoslab successfully powered a PC with a 192-cell AA battery array, booting into Hannah Montana Linux. The system withstood stress testing and even played FreeDoom. This feat showcases the creative use of unconventional power sources.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/crazed-enthusiast-runs-pc-on-192-aa-batteries-successfully-boots-into-hannah-montana-linux-system-is-stable-during-stress-testing-and-even-plays-freedoom",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-19T10:14:03.210529",
-    "insight": "Unconventional power sources can power modern computing systems"
-  },
-  {
-    "title": "GTA 3 and Vice City are now playable inside San Andreas a mod lets you revisit Liberty City and Vice City without leaving San Andreas",
-    "summary": "A GTA modder has integrated GTA 3 and Vice City into San Andreas, allowing players to revisit classic cities within the main game. This mod enables seamless transitions between the games, making it possible to explore multiple worlds simultaneously. The mod also allows for nesting Vice City within GTA 3.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/gta-3-and-vice-city-are-now-playable-inside-san-andreas-a-mod-lets-you-revisit-liberty-city-and-vice-city-without-leaving-san-andreas",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-19T10:14:03.210644",
-    "insight": "Revolutionizing open-world gaming with immersive nested game environments"
-  },
-  {
-    "title": "Strapping 11 fans and a 360mm AIO to an RTX 3080 sounds crazy until you see the 30 C temp drop modded GPU delivered less than 5 FPS uplift at turbojet noise levels",
-    "summary": "TrashBench tested adding multiple fans to an RTX 3080 GPU for performance improvement. The results showed a 30 C temp drop but only a 5 FPS uplift. The experiment highlighted the limitations of cooling as a performance booster.",
-    "link": "https://www.tomshardware.com/pc-components/cooling/strapping-11-fans-and-a-360mm-aio-to-an-rtx-3080-sounds-crazy-until-you-see-the-30-c-temp-drop-modded-gpu-delivered-less-than-5-fps-uplift",
+    "title": "Save $148 on an AMD Ryzen 7 9800X3D bundle with 32GB of RAM, motherboard, and liquid AIO start your AM5 gaming build for just $1,039",
+    "summary": "Build an AM5 gaming PC with AMD Ryzen 7 9800X3D and 32GB RAM for $1,039. This bundle includes a Gigabyte B850 motherboard and a CPU cooler. Start your gaming PC build with this affordable and powerful configuration.",
+    "link": "https://www.tomshardware.com/pc-components/save-usd148-on-an-amd-ryzen-7-9800x3d-bundle-with-32gb-of-ram-motherboard-and-liquid-aio-start-your-am5-gaming-build-for-just-usd1-039",
     "categories": [
       "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-19T10:14:03.210767",
-    "insight": "Cooling improvements plateau when thermals are already under control"
-  },
-  {
-    "title": "Jurassic Park packed $4 million of legit 1993 computer hardware a software engineer detailed every single piece of hardware in the film",
-    "summary": "In the 1993 film Jurassic Park, a software engineer detailed every single piece of computer hardware used in the film, highlighting the tech that brought the dinosaurs to life. Fabien Sanglard's meticulous list turned the movie into a time capsule of 90s computer technology. This project showcases the evolution of computing in the early 90s.",
-    "link": "https://www.tomshardware.com/desktops/jurassic-park-packed-usd4-million-of-legit-1993-computer-hardware-a-software-engineer-detailed-every-single-piece-of-hardware-in-the-film",
-    "categories": [
-      "Hardware",
-      "AI & ML"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-19T10:14:03.210882",
-    "insight": "Early 90s computer hardware holds a significant historical value."
+    "processed_date": "2026-07-20T11:27:12.852291",
+    "insight": "Affordable AM5 gaming build option with high-performance CPU and RAM."
   },
   {
-    "title": "Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing 3GB GDDR7 module costs triple the price of 2GB",
-    "summary": "Nvidia RTX 50 Super GPUs may be delayed or overpriced due to high GDDR7 costs. 3GB GDDR7 modules cost twice to thrice as much as 2GB modules. This could exceed Nvidia's target MSRP for the GPUs.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb",
+    "title": "Logitech's G Pro X2 Superstrike gaming mouse is $125.99 after getting a massive $54 discount hall-effect haptic switches, 8K polling, and 30 ms faster clicks for peak gaming performance",
+    "summary": "Logitech's G Pro X2 Superstrike gaming mouse gets a $54 discount, now $125.99. This deal offers hall-effect haptic switches, 8K polling, and faster clicks for peak gaming performance.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-mice/logitechs-g-pro-x2-superstrike-gaming-mouse-is-usd125-99-after-getting-a-massive-usd54-discount-hall-effect-haptic-switches-8k-polling-and-30-ms-faster-clicks-for-peak-gaming-performance",
     "categories": [
-      "GPUs",
-      "AI & ML"
+      "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-19T10:14:03.211009",
-    "insight": "High GDDR7 costs threaten Nvidia's RTX 50 Super GPU pricing strategy"
+    "quality_score": 0,
+    "processed_date": "2026-07-20T11:27:12.852410",
+    "insight": "Gamers can now access high-tech gaming peripherals at a lower price."
   },
   {
-    "title": "Nvidia CEO Jensen Huang s trademark leather jacket raises nearly $1 Million at charity auction bidding makes $60,000 valuation look like pocket change",
-    "summary": "Nvidia CEO Jensen Huang's leather jacket sold for $960,000 at charity auction.",
-    "link": "https://www.tomshardware.com/peripherals/wearable-tech/nvidia-ceo-jensen-huangs-trademark-leather-jacket-raises-nearly-usd1-million-at-charity-auction-bidding-makes-usd60-000-valuation-look-like-pocket-change",
+    "title": "AMD's next-gen 10-core 'Medusa Point' APU shows up on Geekbench again, with its best score yet leaked SKU outpaces every other x86 mobile chip in the single-core test",
+    "summary": "AMD's Medusa Point 10-core APU has achieved its best score yet on Geekbench, outperforming all other x86 mobile chips in the single-core test.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amds-next-gen-10-core-medusa-point-apu-shows-up-on-geekbench-again-with-its-best-score-yet-leaked-sku-outpaces-every-other-x86-mobile-chip-in-the-single-core-test",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-19T10:14:03.211111",
-    "insight": "Luxury item sells for nearly $1 million, outpacing initial $60,000 valuation."
+    "processed_date": "2026-07-20T11:27:12.852549",
+    "insight": "AMD's Medusa Point APU surpasses all x86 mobile chips in single-core performance."
   },
   {
-    "title": "Security engineer ports password cracker hashcat to Gameboy Advance 16.8 MHz chip can perform a meager 727 hashes a second, 30 million times slower than a modern rig",
-    "summary": "A Gameboy Advance port of hashcat enables advanced password cracking on slow hardware, albeit at a significant time cost. The 16.8 MHz chip can process 727 hashes per second, which is 30 million times slower than modern rigs. This allows users to crack passwords on underpowered devices, albeit inefficiently.",
-    "link": "https://www.tomshardware.com/video-games/nintendo/security-engineer-ports-password-cracker-hashcat-to-gameboy-advance-16-8-mhz-chip-can-perform-a-meager-727-hashes-a-second-30-million-times-slower-than-a-modern-rig",
+    "title": "Zilog Z80 turns 50 as an open-source replacement heads to drop-in DIP40 silicon iconic 8-bit CPU launched in July 1976 and was discontinued in 2024",
+    "summary": "The Zilog Z80 is a 50-year-old 8-bit CPU launched in 1976 with 8,500 transistors on a 4 micron process. It typically ran at 2.5 MHz and is still relevant due to its open-source replacement.",
+    "link": "https://www.tomshardware.com/tech-industry/zilog-z80-turns-50-as-open-source-replacement-heads-for-drop-in-dip40-silicon",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-20T11:27:12.852655",
+    "insight": "Legacy of innovation endures through open-source CPU revival efforts."
+  },
+  {
+    "title": "Memory chip boss admits RAM prices are 'abnormally high' SK Group chairman considering building a semiconductor plant in the US to expand supply, calm chipflation ",
+    "summary": "SK Group Chairman Chey Tae-won says memory chip prices are 'abnormally high'. To address this, he's considering building a semiconductor plant in the US to increase supply and calm 'chipflation'. This move aims to make the market more competitive.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/memory-chip-boss-admits-ram-prices-are-abnormally-high-sk-group-chairman-considering-building-a-semiconductor-plant-in-the-us-to-expand-supply-calm-chipflation",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-19T10:14:03.211219",
-    "insight": "Security capabilities on underpowered hardware redefine password cracking possibilities."
+    "processed_date": "2026-07-20T11:27:12.852779",
+    "insight": "Industry must boost production to avoid new entrants and lower prices."
   },
   {
-    "title": "AGI AI828 SSD Review: A near-last resort for those on a budget",
-    "summary": "The AGI AI828 SSD offers subpar performance and power efficiency, making it a last resort for budget buyers. However, in the current market, it might be sufficient for some users. It's a budget-friendly option, but with significant compromises.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/agi-ai828-ssd-review",
+    "title": " Phantom Twist drone spins so fast that it is nearly invisible flying device adds motion blur to the real world",
+    "summary": "Researchers at Northwestern University built a drone that spins at high speeds, creating motion blur that makes it nearly invisible. This technology has potential applications in surveillance and stealth operations. The Phantom Twist drone uses rapid rotation to achieve this effect.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/phantom-twist-drone-spins-so-fast-that-it-is-nearly-invisible-flying-device-adds-motion-blur-to-the-real-world",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-20T11:27:12.852875",
+    "insight": "Advancing stealth technology with motion-blurring speed and agility."
+  },
+  {
+    "title": "Samsung cuts hundreds of US consumer electronics jobs ahead of Texas HQ move 739 roles affected in New Jersey as chip division posts record profit",
+    "summary": "Samsung cuts hundreds of US jobs in New Jersey, offering relocation to some.",
+    "link": "https://www.tomshardware.com/tech-industry/samsung-cuts-hundreds-of-us-consumer-electronics-jobs-ahead-of-texas-hq-move",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-20T11:27:12.852977",
+    "insight": "Mass layoffs signal significant restructuring amidst record profit growth"
+  },
+  {
+    "title": "Russian drones spotted using screwed-on magnetic compasses as navigation aids the on-board camera can occasionally tilt down to check bearings if satellite comms are lost",
+    "summary": "Russian drones use magnetic compasses as makeshift navigation aids, supplementing cameras.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/russian-drones-spotted-using-screwed-on-magnetic-compasses-as-navigation-aids-the-on-board-camera-can-occasionally-tilt-down-to-check-bearings-if-satellite-comms-are-lost",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-07-19T10:14:03.211318",
-    "insight": "Current budget market conditions elevate subpar storage options."
+    "quality_score": 5,
+    "processed_date": "2026-07-20T11:27:12.853105",
+    "insight": "Russian drones adapt to satellite comms loss with simple, low-cost solutions."
   },
   {
-    "title": "Korean outfit hosting 1.44MB game development contest to honor the floppy disk entrants must confine entire fileset, including resources, engine, and library, to miniscule storage format",
-    "summary": "A Korean game development contest is hosting a competition to create games that fit on a single floppy disk. The competition is open to everyone and offers cash prizes for the top submissions. The goal is to create a complete game fileset within a 1.44MB storage format.",
-    "link": "https://www.tomshardware.com/software/korean-outfit-hosting-1-44mb-game-development-contest-to-honor-the-floppy-disk-entrants-must-confine-entire-fileset-including-resources-engine-and-library-to-miniscule-storage-format",
+    "title": "Coil whine can be musical, demonstrates engineering student this usually hated noise can make some people happy",
+    "summary": "A video showcases an engineering student turning coil whine into music, demonstrating that unwanted electronic noise can be repurposed as a pleasant sound. This transformation highlights the creative potential of noise pollution. The video showcases the student's ingenuity in turning a usually hated noise into something enjoyable.",
+    "link": "https://www.tomshardware.com/pc-components/coil-whine-can-be-musical-demonstrates-engineering-student-this-usually-hated-noise-can-make-some-people-happy",
     "categories": [
       "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-07-19T10:14:03.211448",
-    "insight": "Forcing minimalism in game development leads to innovative creative solutions."
+    "processed_date": "2026-07-20T11:27:12.853199",
+    "insight": "Creative repurposing of noise pollution can evoke positive emotions."
   },
   {
-    "title": "Bethesda confirms Fallout 5, Fallout 3 and New Vegas remasters, and new Obsidian Fallout game",
-    "summary": "Bethesda confirms Fallout 5, remastered Fallout 3 and New Vegas, and a new Obsidian Fallout game are in development.",
-    "link": "https://www.techspot.com/news/113162-bethesda-confirms-fallout-5-fallout-3-new-vegas.html",
+    "title": "Globalscale Case8 A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding)",
+    "summary": "Globalscale's Case8 cyberdeck offers a versatile, open-source platform for various use cases, powered by MediaTek Genio processors. It features multiple variants for gaming, home automation, education, and more. The platform offers a range of display and connectivity options.",
+    "link": "https://www.cnx-software.com/2026/07/20/globalscale-case8-mediatek-genio-520-720-cyberdeck-for-gaming-home-automation-and-education/",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "Hardware",
+      "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-19T10:14:03.213328",
-    "insight": "Long-awaited Fallout projects bring hope to fans and the gaming industry."
+    "quality_score": 15,
+    "processed_date": "2026-07-20T11:27:12.853766",
+    "insight": "Redefining cyberdeck possibilities with modular, affordable, and accessible computing solutions."
   },
   {
-    "title": "India fined HP $14.4 million for rigging government bids and fixing ink and toner prices",
-    "summary": "HP India and resellers rigged bids on government contracts to increase their chances of winning.",
-    "link": "https://www.techspot.com/news/113158-india-fined-hp-144-million-rigging-government-bids.html",
+    "title": "Geniatech XPI-3576-CM5 A Raspberry Pi CM5-compatible Rockchip RK3576 AI Compute Module with WiFi 6, Bluetooth 5.3",
+    "summary": "The Geniatech XPI-3576-CM5 is a Rockchip RK3576-based AI compute module compatible with Raspberry Pi CM5, featuring up to 16GB LPDDR5, 128GB eMMC, dual-band WiFi 6, and Bluetooth 5.3 connectivity.",
+    "link": "https://www.cnx-software.com/2026/07/20/geniatech-xpi-3576-cm5-a-raspberry-pi-cm5-compatible-rockchip-rk3576-ai-compute-module-with-wifi-6-bluetooth-5-3/",
     "categories": [
       "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-20T11:27:12.853934",
+    "insight": "Enhanced AI capabilities with significant performance and power efficiency advancements."
+  },
+  {
+    "title": "IoTextra modular automation boards with 4 inputs, 4 outputs work with Raspberry Pi and ESP32 MCU boards",
+    "summary": "IoTextra modular automation boards support various MCU platforms for automation needs, featuring 4 inputs and 4 outputs, and are compatible with Raspberry Pi and ESP32 boards.",
+    "link": "https://www.cnx-software.com/2026/07/20/iotextra-modular-automation-boards-with-4-inputs-4-outputs-work-with-raspberry-pi-and-esp32-mcu-boards/",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-20T11:27:12.854129",
+    "insight": "Modular automation boards with wide MCU compatibility simplify IoT development."
+  },
+  {
+    "title": "Efinix Titanium Edge FPGA family targets low-power edge AI and vision systems",
+    "summary": "Efinix introduces the Titanium Edge FPGA family for low-power edge AI and vision systems, offering lower static power consumption, configurable I/O, and integrated memory.",
+    "link": "https://www.cnx-software.com/2026/07/20/efinix-titanium-edge-fpga-family-targets-low-power-edge-ai-and-vision-systems/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-20T11:27:12.854311",
+    "insight": "Lower power consumption enables AI and vision applications in resource-constrained edge environments"
+  },
+  {
+    "title": "Beelink EQi 304 review Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC",
+    "summary": "The Beelink EQi 304 mini PC is tested with Ubuntu 26.04, featuring Intel Core 3 304 chip. The test covers various aspects such as benchmark results, networking, storage, and power consumption. The results provide insights into the mini PC's performance and capabilities.",
+    "link": "https://www.cnx-software.com/2026/07/19/beelink-eqi-304-review-part-3-ubuntu-26-04-on-a-wildcat-lake-mini-pc/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-20T11:27:12.854467",
+    "insight": "Ubuntu on Beelink EQi 304 offers alternative OS option with PCIe expansion"
+  },
+  {
+    "title": "The quest for better chip design accelerates",
+    "summary": "Synopsys has introduced Multiphysics Fusion products to reduce respins and costs. These products aim to accelerate chip design by addressing complex interactions between different physical domains. Early customers have already started adopting this technology.",
+    "link": "https://www.fiercesensors.com/sensors/quest-better-chip-design-accelerates",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-20T11:27:12.855543",
+    "insight": "Streamlined chip design reduces respins and associated costs significantly."
+  },
+  {
+    "title": "Indie Gaming's Next Big Wave Is Coming From Outside the West",
+    "summary": "Indie games from outside the West are gaining global recognition, reshaping the industry. Developers in Asia, Eastern Europe, and Oceania are leveraging local stories and fresh ideas to create hits. This diversity brings new perspectives and gameplay experiences.",
+    "link": "https://www.techspot.com/article/3148-indie-gaming-worldwide/",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-20T11:27:12.855810",
+    "insight": "Global gaming market is becoming increasingly decentralized and culturally diverse."
+  },
+  {
+    "title": "FBI arrests 21-year-old accused of infecting 8,000 PCs with malware through fake Steam games",
+    "summary": "The FBI arrested 21-year-old Zyaire Wilkins for infecting 8,000 PCs with malware through fake Steam games. The cybercrime operation, which lasted nearly two years, allegedly stole at least $220,000. Investigators believe the group had unnamed co-conspirators.",
+    "link": "https://www.techspot.com/news/113163-fbi-arrests-21-year-old-accused-infecting-8000.html",
+    "categories": [
+      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-19T10:14:03.213542",
-    "insight": "Bidding manipulation undermines trust in public procurement processes."
+    "processed_date": "2026-07-20T11:27:12.855983",
+    "insight": "Sophisticated cybercrime operations can target thousands with minimal effort and profit greatly"
   },
   {
-    "title": "GameStop now makes more money from Pokemon cards than video games",
-    "summary": "GameStop's business is shifting towards collectibles like Pokémon cards.",
-    "link": "https://www.techspot.com/news/113161-gamestop-now-makes-more-money-pokemon-cards-than.html",
+    "title": "Nvidia may have RTX 5000 Super GPUs ready, but costly 3GB GDDR7 is holding them back",
+    "summary": "Nvidia's RTX 5000 Super GPUs may be delayed due to expensive GDDR7 memory costs.",
+    "link": "https://www.techspot.com/news/113167-nvidia-may-have-rtx-5000-super-cards-ready.html",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-19T10:14:03.213711",
-    "insight": "GameStop's diversification into collectibles reduces dependence on video games sales"
-  },
-  {
-    "title": "San Francisco warns Apple and Google to stop profiting from AI nudify apps",
-    "summary": "San Francisco's supervisor Chiu sent cease-and-desist letters to Apple and Google, demanding removal of AI-powered 'nudify' apps from their stores.",
-    "link": "https://www.techspot.com/news/113166-san-francisco-warns-apple-google-stop-profiting-ai.html",
-    "categories": [
+      "GPUs",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-19T10:14:03.213866",
-    "insight": "Concerns over AI-driven content and child exploitation are driving regulatory action."
+    "quality_score": 10,
+    "processed_date": "2026-07-20T11:27:12.856173",
+    "insight": "GDDR7 memory costs threaten Nvidia's RTX 5000 Super release timeline."
   }
 ]

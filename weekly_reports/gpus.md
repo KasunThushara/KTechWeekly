@@ -1,45 +1,75 @@
 # 🎮 GPUs
-**Week of July 19, 2026**
+**Week of July 20, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 3
-- **Report generated:** 2026-07-19 10:14
+- **Articles this week:** 6
+- **Report generated:** 2026-07-20 11:27
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Strapping 11 fans and a 360mm AIO to an RTX 3080 sounds crazy until you see the 30 C temp drop modded GPU delivered less than 5 FPS uplift at turbojet noise levels 
+### 1. Globalscale Case8 A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding) ⭐
 
-TrashBench tested adding multiple fans to an RTX 3080 GPU for performance improvement. The results showed a 30 C temp drop but only a 5 FPS uplift. The experiment highlighted the limitations of cooling as a performance booster.
+Globalscale's Case8 cyberdeck offers a versatile, open-source platform for various use cases, powered by MediaTek Genio processors. It features multiple variants for gaming, home automation, education, and more. The platform offers a range of display and connectivity options.
 
-💡 *Cooling improvements plateau when thermals are already under control*
+💡 *Redefining cyberdeck possibilities with modular, affordable, and accessible computing solutions.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cooling/strapping-11-fans-and-a-360mm-aio-to-an-rtx-3080-sounds-crazy-until-you-see-the-30-c-temp-drop-modded-gpu-delivered-less-than-5-fps-uplift)
-
----
-
-### 2. Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing 3GB GDDR7 module costs triple the price of 2GB 
-
-Nvidia RTX 50 Super GPUs may be delayed or overpriced due to high GDDR7 costs. 3GB GDDR7 modules cost twice to thrice as much as 2GB modules. This could exceed Nvidia's target MSRP for the GPUs.
-
-💡 *High GDDR7 costs threaten Nvidia's RTX 50 Super GPU pricing strategy*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/20/globalscale-case8-mediatek-genio-520-720-cyberdeck-for-gaming-home-automation-and-education/)
 
 ---
 
-### 3. Nvidia CEO Jensen Huang s trademark leather jacket raises nearly $1 Million at charity auction bidding makes $60,000 valuation look like pocket change 
+### 2. Nvidia may have RTX 5000 Super GPUs ready, but costly 3GB GDDR7 is holding them back 
 
-Nvidia CEO Jensen Huang's leather jacket sold for $960,000 at charity auction.
+Nvidia's RTX 5000 Super GPUs may be delayed due to expensive GDDR7 memory costs.
 
-💡 *Luxury item sells for nearly $1 million, outpacing initial $60,000 valuation.*
+💡 *GDDR7 memory costs threaten Nvidia's RTX 5000 Super release timeline.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/nvidia-ceo-jensen-huangs-trademark-leather-jacket-raises-nearly-usd1-million-at-charity-auction-bidding-makes-usd60-000-valuation-look-like-pocket-change)
+🔗 [Read Full Article](https://www.techspot.com/news/113167-nvidia-may-have-rtx-5000-super-cards-ready.html)
+
+---
+
+### 3. Save $148 on an AMD Ryzen 7 9800X3D bundle with 32GB of RAM, motherboard, and liquid AIO start your AM5 gaming build for just $1,039 
+
+Build an AM5 gaming PC with AMD Ryzen 7 9800X3D and 32GB RAM for $1,039. This bundle includes a Gigabyte B850 motherboard and a CPU cooler. Start your gaming PC build with this affordable and powerful configuration.
+
+💡 *Affordable AM5 gaming build option with high-performance CPU and RAM.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/save-usd148-on-an-amd-ryzen-7-9800x3d-bundle-with-32gb-of-ram-motherboard-and-liquid-aio-start-your-am5-gaming-build-for-just-usd1-039)
+
+---
+
+### 4. AMD's next-gen 10-core 'Medusa Point' APU shows up on Geekbench again, with its best score yet leaked SKU outpaces every other x86 mobile chip in the single-core test 
+
+AMD's Medusa Point 10-core APU has achieved its best score yet on Geekbench, outperforming all other x86 mobile chips in the single-core test.
+
+💡 *AMD's Medusa Point APU surpasses all x86 mobile chips in single-core performance.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-next-gen-10-core-medusa-point-apu-shows-up-on-geekbench-again-with-its-best-score-yet-leaked-sku-outpaces-every-other-x86-mobile-chip-in-the-single-core-test)
+
+---
+
+### 5. Indie Gaming's Next Big Wave Is Coming From Outside the West 
+
+Indie games from outside the West are gaining global recognition, reshaping the industry. Developers in Asia, Eastern Europe, and Oceania are leveraging local stories and fresh ideas to create hits. This diversity brings new perspectives and gameplay experiences.
+
+💡 *Global gaming market is becoming increasingly decentralized and culturally diverse.*
+
+🔗 [Read Full Article](https://www.techspot.com/article/3148-indie-gaming-worldwide/)
+
+---
+
+### 6. Logitech's G Pro X2 Superstrike gaming mouse is $125.99 after getting a massive $54 discount hall-effect haptic switches, 8K polling, and 30 ms faster clicks for peak gaming performance 
+
+Logitech's G Pro X2 Superstrike gaming mouse gets a $54 discount, now $125.99. This deal offers hall-effect haptic switches, 8K polling, and faster clicks for peak gaming performance.
+
+💡 *Gamers can now access high-tech gaming peripherals at a lower price.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/logitechs-g-pro-x2-superstrike-gaming-mouse-is-usd125-99-after-getting-a-massive-usd54-discount-hall-effect-haptic-switches-8k-polling-and-30-ms-faster-clicks-for-peak-gaming-performance)
 
 ---
 

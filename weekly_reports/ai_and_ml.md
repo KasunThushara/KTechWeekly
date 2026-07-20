@@ -1,115 +1,75 @@
 # 🤖 AI & ML
-**Week of July 19, 2026**
+**Week of July 20, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-07-19 10:14
+- **Articles this week:** 6
+- **Report generated:** 2026-07-20 11:27
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AGI AI828 SSD Review: A near-last resort for those on a budget ⭐
+### 1. Efinix Titanium Edge FPGA family targets low-power edge AI and vision systems ⭐
 
-The AGI AI828 SSD offers subpar performance and power efficiency, making it a last resort for budget buyers. However, in the current market, it might be sufficient for some users. It's a budget-friendly option, but with significant compromises.
+Efinix introduces the Titanium Edge FPGA family for low-power edge AI and vision systems, offering lower static power consumption, configurable I/O, and integrated memory.
 
-💡 *Current budget market conditions elevate subpar storage options.*
+💡 *Lower power consumption enables AI and vision applications in resource-constrained edge environments*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/agi-ai828-ssd-review)
-
----
-
-### 2. Strapping 11 fans and a 360mm AIO to an RTX 3080 sounds crazy until you see the 30 C temp drop modded GPU delivered less than 5 FPS uplift at turbojet noise levels 
-
-TrashBench tested adding multiple fans to an RTX 3080 GPU for performance improvement. The results showed a 30 C temp drop but only a 5 FPS uplift. The experiment highlighted the limitations of cooling as a performance booster.
-
-💡 *Cooling improvements plateau when thermals are already under control*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cooling/strapping-11-fans-and-a-360mm-aio-to-an-rtx-3080-sounds-crazy-until-you-see-the-30-c-temp-drop-modded-gpu-delivered-less-than-5-fps-uplift)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/20/efinix-titanium-edge-fpga-family-targets-low-power-edge-ai-and-vision-systems/)
 
 ---
 
-### 3. Bethesda confirms Fallout 5, Fallout 3 and New Vegas remasters, and new Obsidian Fallout game 
+### 2. Nvidia may have RTX 5000 Super GPUs ready, but costly 3GB GDDR7 is holding them back 
 
-Bethesda confirms Fallout 5, remastered Fallout 3 and New Vegas, and a new Obsidian Fallout game are in development.
+Nvidia's RTX 5000 Super GPUs may be delayed due to expensive GDDR7 memory costs.
 
-💡 *Long-awaited Fallout projects bring hope to fans and the gaming industry.*
+💡 *GDDR7 memory costs threaten Nvidia's RTX 5000 Super release timeline.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113162-bethesda-confirms-fallout-5-fallout-3-new-vegas.html)
-
----
-
-### 4. Clever hacker fits 537,000 domains in a tiny $5 ESP32 ad-blocking dongle firmware uses only around 50KB of RAM and can answer blocked lookups in 10 milliseconds 
-
-A $5 ESP32 ad-blocking dongle can block over 537,000 domains using just 4MB flash memory and 50KB RAM. This is achieved through a clever hashing trick that optimizes memory usage. The system can answer blocked lookups in 10 milliseconds.
-
-💡 *Optimized memory usage enables mass domain blocking at low cost.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds)
+🔗 [Read Full Article](https://www.techspot.com/news/113167-nvidia-may-have-rtx-5000-super-cards-ready.html)
 
 ---
 
-### 5. Jurassic Park packed $4 million of legit 1993 computer hardware a software engineer detailed every single piece of hardware in the film 
+### 3. AMD's next-gen 10-core 'Medusa Point' APU shows up on Geekbench again, with its best score yet leaked SKU outpaces every other x86 mobile chip in the single-core test 
 
-In the 1993 film Jurassic Park, a software engineer detailed every single piece of computer hardware used in the film, highlighting the tech that brought the dinosaurs to life. Fabien Sanglard's meticulous list turned the movie into a time capsule of 90s computer technology. This project showcases the evolution of computing in the early 90s.
+AMD's Medusa Point 10-core APU has achieved its best score yet on Geekbench, outperforming all other x86 mobile chips in the single-core test.
 
-💡 *Early 90s computer hardware holds a significant historical value.*
+💡 *AMD's Medusa Point APU surpasses all x86 mobile chips in single-core performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/jurassic-park-packed-usd4-million-of-legit-1993-computer-hardware-a-software-engineer-detailed-every-single-piece-of-hardware-in-the-film)
-
----
-
-### 6. Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing 3GB GDDR7 module costs triple the price of 2GB 
-
-Nvidia RTX 50 Super GPUs may be delayed or overpriced due to high GDDR7 costs. 3GB GDDR7 modules cost twice to thrice as much as 2GB modules. This could exceed Nvidia's target MSRP for the GPUs.
-
-💡 *High GDDR7 costs threaten Nvidia's RTX 50 Super GPU pricing strategy*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-next-gen-10-core-medusa-point-apu-shows-up-on-geekbench-again-with-its-best-score-yet-leaked-sku-outpaces-every-other-x86-mobile-chip-in-the-single-core-test)
 
 ---
 
-### 7. Nvidia CEO Jensen Huang s trademark leather jacket raises nearly $1 Million at charity auction bidding makes $60,000 valuation look like pocket change 
+### 4. Memory chip boss admits RAM prices are 'abnormally high' SK Group chairman considering building a semiconductor plant in the US to expand supply, calm chipflation  
 
-Nvidia CEO Jensen Huang's leather jacket sold for $960,000 at charity auction.
+SK Group Chairman Chey Tae-won says memory chip prices are 'abnormally high'. To address this, he's considering building a semiconductor plant in the US to increase supply and calm 'chipflation'. This move aims to make the market more competitive.
 
-💡 *Luxury item sells for nearly $1 million, outpacing initial $60,000 valuation.*
+💡 *Industry must boost production to avoid new entrants and lower prices.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/wearable-tech/nvidia-ceo-jensen-huangs-trademark-leather-jacket-raises-nearly-usd1-million-at-charity-auction-bidding-makes-usd60-000-valuation-look-like-pocket-change)
-
----
-
-### 8. Security engineer ports password cracker hashcat to Gameboy Advance 16.8 MHz chip can perform a meager 727 hashes a second, 30 million times slower than a modern rig 
-
-A Gameboy Advance port of hashcat enables advanced password cracking on slow hardware, albeit at a significant time cost. The 16.8 MHz chip can process 727 hashes per second, which is 30 million times slower than modern rigs. This allows users to crack passwords on underpowered devices, albeit inefficiently.
-
-💡 *Security capabilities on underpowered hardware redefine password cracking possibilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/nintendo/security-engineer-ports-password-cracker-hashcat-to-gameboy-advance-16-8-mhz-chip-can-perform-a-meager-727-hashes-a-second-30-million-times-slower-than-a-modern-rig)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/policy/memory-chip-boss-admits-ram-prices-are-abnormally-high-sk-group-chairman-considering-building-a-semiconductor-plant-in-the-us-to-expand-supply-calm-chipflation)
 
 ---
 
-### 9. India fined HP $14.4 million for rigging government bids and fixing ink and toner prices 
+### 5. Russian drones spotted using screwed-on magnetic compasses as navigation aids the on-board camera can occasionally tilt down to check bearings if satellite comms are lost 
 
-HP India and resellers rigged bids on government contracts to increase their chances of winning.
+Russian drones use magnetic compasses as makeshift navigation aids, supplementing cameras.
 
-💡 *Bidding manipulation undermines trust in public procurement processes.*
+💡 *Russian drones adapt to satellite comms loss with simple, low-cost solutions.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113158-india-fined-hp-144-million-rigging-government-bids.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/russian-drones-spotted-using-screwed-on-magnetic-compasses-as-navigation-aids-the-on-board-camera-can-occasionally-tilt-down-to-check-bearings-if-satellite-comms-are-lost)
 
 ---
 
-### 10. San Francisco warns Apple and Google to stop profiting from AI nudify apps 
+### 6. FBI arrests 21-year-old accused of infecting 8,000 PCs with malware through fake Steam games 
 
-San Francisco's supervisor Chiu sent cease-and-desist letters to Apple and Google, demanding removal of AI-powered 'nudify' apps from their stores.
+The FBI arrested 21-year-old Zyaire Wilkins for infecting 8,000 PCs with malware through fake Steam games. The cybercrime operation, which lasted nearly two years, allegedly stole at least $220,000. Investigators believe the group had unnamed co-conspirators.
 
-💡 *Concerns over AI-driven content and child exploitation are driving regulatory action.*
+💡 *Sophisticated cybercrime operations can target thousands with minimal effort and profit greatly*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113166-san-francisco-warns-apple-google-stop-profiting-ai.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113163-fbi-arrests-21-year-old-accused-infecting-8000.html)
 
 ---
 

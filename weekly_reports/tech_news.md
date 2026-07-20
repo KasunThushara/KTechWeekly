@@ -1,35 +1,45 @@
 # 📰 Tech News
-**Week of July 19, 2026**
+**Week of July 20, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 2
-- **Report generated:** 2026-07-19 10:14
+- **Articles this week:** 3
+- **Report generated:** 2026-07-20 11:27
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. GameStop now makes more money from Pokemon cards than video games 
+### 1. Zilog Z80 turns 50 as an open-source replacement heads to drop-in DIP40 silicon iconic 8-bit CPU launched in July 1976 and was discontinued in 2024 
 
-GameStop's business is shifting towards collectibles like Pokémon cards.
+The Zilog Z80 is a 50-year-old 8-bit CPU launched in 1976 with 8,500 transistors on a 4 micron process. It typically ran at 2.5 MHz and is still relevant due to its open-source replacement.
 
-💡 *GameStop's diversification into collectibles reduces dependence on video games sales*
+💡 *Legacy of innovation endures through open-source CPU revival efforts.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113161-gamestop-now-makes-more-money-pokemon-cards-than.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/zilog-z80-turns-50-as-open-source-replacement-heads-for-drop-in-dip40-silicon)
 
 ---
 
-### 2. Korean outfit hosting 1.44MB game development contest to honor the floppy disk entrants must confine entire fileset, including resources, engine, and library, to miniscule storage format 
+### 2.  Phantom Twist drone spins so fast that it is nearly invisible flying device adds motion blur to the real world 
 
-A Korean game development contest is hosting a competition to create games that fit on a single floppy disk. The competition is open to everyone and offers cash prizes for the top submissions. The goal is to create a complete game fileset within a 1.44MB storage format.
+Researchers at Northwestern University built a drone that spins at high speeds, creating motion blur that makes it nearly invisible. This technology has potential applications in surveillance and stealth operations. The Phantom Twist drone uses rapid rotation to achieve this effect.
 
-💡 *Forcing minimalism in game development leads to innovative creative solutions.*
+💡 *Advancing stealth technology with motion-blurring speed and agility.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/korean-outfit-hosting-1-44mb-game-development-contest-to-honor-the-floppy-disk-entrants-must-confine-entire-fileset-including-resources-engine-and-library-to-miniscule-storage-format)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/phantom-twist-drone-spins-so-fast-that-it-is-nearly-invisible-flying-device-adds-motion-blur-to-the-real-world)
+
+---
+
+### 3. Coil whine can be musical, demonstrates engineering student this usually hated noise can make some people happy 
+
+A video showcases an engineering student turning coil whine into music, demonstrating that unwanted electronic noise can be repurposed as a pleasant sound. This transformation highlights the creative potential of noise pollution. The video showcases the student's ingenuity in turning a usually hated noise into something enjoyable.
+
+💡 *Creative repurposing of noise pollution can evoke positive emotions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/coil-whine-can-be-musical-demonstrates-engineering-student-this-usually-hated-noise-can-make-some-people-happy)
 
 ---
 
