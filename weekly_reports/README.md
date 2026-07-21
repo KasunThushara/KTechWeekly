@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 20, 2026**
+**Week of July 21, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Globalscale Case8 A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding) ⭐
+### 1. ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU ⭐
 
-**🎮 GPUs**
+**⚡ Semiconductors**
 
-Globalscale's Case8 cyberdeck offers a versatile, open-source platform for various use cases, powered by MediaTek Genio processors. It features multiple variants for gaming, home automation, education, and more. The platform offers a range of display and connectivity options.
+The ART-Pi II development board features a 600 MHz STM32H7R7 MCU with NeoChrom GPU, 32 MB HyperRAM, and 64 MB HyperFlash. It includes various connectivity options and a microSD card slot. This board is a compact platform for development and prototyping.
 
-💡 **Key Point:** Redefining cyberdeck possibilities with modular, affordable, and accessible computing solutions.
+💡 **Key Point:** Raspberry Pi-compatible board with powerful STM32H7R7 MCU and NeoChrom GPU
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/20/globalscale-case8-mediatek-genio-520-720-cyberdeck-for-gaming-home-automation-and-education/)
+🔗 [Read More](https://www.cnx-software.com/2026/07/21/art-pi-ii-development-board-features-600-mhz-stm32h7r7-cortex-m7-mcu-with-neochrom-gpu/)
 
 ---
 
-### 2. Globalscale Case8 A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding) ⭐
+### 2. ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU ⭐
 
 **💻 Hardware**
 
-Globalscale's Case8 cyberdeck offers a versatile, open-source platform for various use cases, powered by MediaTek Genio processors. It features multiple variants for gaming, home automation, education, and more. The platform offers a range of display and connectivity options.
+The ART-Pi II development board features a 600 MHz STM32H7R7 MCU with NeoChrom GPU, 32 MB HyperRAM, and 64 MB HyperFlash. It includes various connectivity options and a microSD card slot. This board is a compact platform for development and prototyping.
 
-💡 **Key Point:** Redefining cyberdeck possibilities with modular, affordable, and accessible computing solutions.
+💡 **Key Point:** Raspberry Pi-compatible board with powerful STM32H7R7 MCU and NeoChrom GPU
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/20/globalscale-case8-mediatek-genio-520-720-cyberdeck-for-gaming-home-automation-and-education/)
-
----
-
-### 3. Efinix Titanium Edge FPGA family targets low-power edge AI and vision systems ⭐
-
-**💻 Hardware**
-
-Efinix introduces the Titanium Edge FPGA family for low-power edge AI and vision systems, offering lower static power consumption, configurable I/O, and integrated memory.
-
-💡 **Key Point:** Lower power consumption enables AI and vision applications in resource-constrained edge environments
-
-🔗 [Read More](https://www.cnx-software.com/2026/07/20/efinix-titanium-edge-fpga-family-targets-low-power-edge-ai-and-vision-systems/)
+🔗 [Read More](https://www.cnx-software.com/2026/07/21/art-pi-ii-development-board-features-600-mhz-stm32h7r7-cortex-m7-mcu-with-neochrom-gpu/)
 
 ---
 
-### 4. Beelink EQi 304 review Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC ⭐
+### 3. Google reportedly developing 'Frozen v2' chip with Gemini's architecture etched into the silicon engineers project 6 to 10 times more tokens per watt than latest TPUs 
 
-**💻 Hardware**
+**⚡ Semiconductors**
 
-The Beelink EQi 304 mini PC is tested with Ubuntu 26.04, featuring Intel Core 3 304 chip. The test covers various aspects such as benchmark results, networking, storage, and power consumption. The results provide insights into the mini PC's performance and capabilities.
+Google is developing 'Frozen v2', a server chip with Gemini's architecture integrated directly into silicon. This would reportedly yield 6-10 times more tokens per watt than its latest TPUs.
 
-💡 **Key Point:** Ubuntu on Beelink EQi 304 offers alternative OS option with PCIe expansion
+💡 **Key Point:** Google's 'Frozen v2' chip could greatly enhance AI performance efficiency.
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/19/beelink-eqi-304-review-part-3-ubuntu-26-04-on-a-wildcat-lake-mini-pc/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/google-reportedly-developing-frozen-v2-chip-with-geminis-architecture-etched-into-the-silicon)
 
 ---
 
-### 5. Efinix Titanium Edge FPGA family targets low-power edge AI and vision systems ⭐
+### 4. Taiwan indicts ex-TSMC manager for allegedly stealing chip secrets for China first case of its kind links managers to Chinese semiconductor materials analysis company 
+
+**⚡ Semiconductors**
+
+A former TSMC deputy manager was indicted for allegedly copying 21 confidential documents. This case marks the first of its kind in Taiwan, linking a TSMC manager to a Chinese semiconductor materials analysis company. Prosecutors are investigating suspected espionage and intellectual property theft.
+
+💡 **Key Point:** TSMC's secrets potentially compromised for China's technological advancement goals
+
+🔗 [Read More](https://www.tomshardware.com/tech-industry/taiwan-inducts-ex-tsmc-manager-for-allegedly-stealing-chip-secrets-for-china)
+
+---
+
+### 5. Google reportedly developing 'Frozen v2' chip with Gemini's architecture etched into the silicon engineers project 6 to 10 times more tokens per watt than latest TPUs 
 
 **🤖 AI & ML**
 
-Efinix introduces the Titanium Edge FPGA family for low-power edge AI and vision systems, offering lower static power consumption, configurable I/O, and integrated memory.
+Google is developing 'Frozen v2', a server chip with Gemini's architecture integrated directly into silicon. This would reportedly yield 6-10 times more tokens per watt than its latest TPUs.
 
-💡 **Key Point:** Lower power consumption enables AI and vision applications in resource-constrained edge environments
+💡 **Key Point:** Google's 'Frozen v2' chip could greatly enhance AI performance efficiency.
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/20/efinix-titanium-edge-fpga-family-targets-low-power-edge-ai-and-vision-systems/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/google-reportedly-developing-frozen-v2-chip-with-geminis-architecture-etched-into-the-silicon)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **29 articles** across **5 focused categories**.
+We covered **41 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 6 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 9 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 3 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 13 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 6 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 11 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 6 articles
+*Artificial Intelligence and Machine Learning* — 13 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 6 articles
+*Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 9 articles
+*Computing hardware and development boards* — 6 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 5 articles
+*Chip manufacturing and design* — 7 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 3 articles
+*Industry news and product launches* — 11 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-07-20 at 11:27 by an autonomous AI curation system.
+Generated 2026-07-21 at 10:49 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

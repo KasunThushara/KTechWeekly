@@ -1,211 +1,323 @@
 [
   {
-    "title": "Save $148 on an AMD Ryzen 7 9800X3D bundle with 32GB of RAM, motherboard, and liquid AIO start your AM5 gaming build for just $1,039",
-    "summary": "Build an AM5 gaming PC with AMD Ryzen 7 9800X3D and 32GB RAM for $1,039. This bundle includes a Gigabyte B850 motherboard and a CPU cooler. Start your gaming PC build with this affordable and powerful configuration.",
-    "link": "https://www.tomshardware.com/pc-components/save-usd148-on-an-amd-ryzen-7-9800x3d-bundle-with-32gb-of-ram-motherboard-and-liquid-aio-start-your-am5-gaming-build-for-just-usd1-039",
+    "title": "Google reportedly developing 'Frozen v2' chip with Gemini's architecture etched into the silicon engineers project 6 to 10 times more tokens per watt than latest TPUs",
+    "summary": "Google is developing 'Frozen v2', a server chip with Gemini's architecture integrated directly into silicon. This would reportedly yield 6-10 times more tokens per watt than its latest TPUs.",
+    "link": "https://www.tomshardware.com/tech-industry/google-reportedly-developing-frozen-v2-chip-with-geminis-architecture-etched-into-the-silicon",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-21T10:48:30.482989",
+    "insight": "Google's 'Frozen v2' chip could greatly enhance AI performance efficiency."
+  },
+  {
+    "title": "PC modder bolts 5.5-pound aluminum heatsink to RTX 4060 convection-only cooling seems to work fine in a testbench-style installation",
+    "summary": "A PC gamer successfully implemented a passive cooling system using a 5.5-pound aluminum heatsink on an Nvidia GeForce RTX 4060 graphics card, demonstrating its potential for convection-only cooling.",
+    "link": "https://www.tomshardware.com/pc-components/cooling/pc-modder-straps-5-5-pound-aluminum-heatsink-to-rtx-4060-convection-only-cooling-seems-to-work-fine-in-a-testbench-style-installation",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-20T11:27:12.852291",
-    "insight": "Affordable AM5 gaming build option with high-performance CPU and RAM."
+    "processed_date": "2026-07-21T10:48:30.483101",
+    "insight": "Passive cooling can be effective with proper heat sink design and installation."
   },
   {
-    "title": "Logitech's G Pro X2 Superstrike gaming mouse is $125.99 after getting a massive $54 discount hall-effect haptic switches, 8K polling, and 30 ms faster clicks for peak gaming performance",
-    "summary": "Logitech's G Pro X2 Superstrike gaming mouse gets a $54 discount, now $125.99. This deal offers hall-effect haptic switches, 8K polling, and faster clicks for peak gaming performance.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-mice/logitechs-g-pro-x2-superstrike-gaming-mouse-is-usd125-99-after-getting-a-massive-usd54-discount-hall-effect-haptic-switches-8k-polling-and-30-ms-faster-clicks-for-peak-gaming-performance",
+    "title": "$399 Nintendo Switch 2 back in stock Woot for new customers, $427 for returning customers with code get $100 off the most recent price hikes",
+    "summary": "Get a brand new Nintendo Switch 2 at a discounted price. New customers can purchase it for $399, while returning customers can get it for $427 before applying a $100 discount. Use the code 'get $100 off' for the discount.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/usd399-nintendo-switch-2-back-in-stock-woot-for-new-customers-usd427-for-returning-customers-with-code-get-usd100-off-the-most-recent-price-hikes",
     "categories": [
-      "GPUs"
+      "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-07-20T11:27:12.852410",
-    "insight": "Gamers can now access high-tech gaming peripherals at a lower price."
+    "processed_date": "2026-07-21T10:48:30.483197",
+    "insight": "Discounted Nintendo Switch 2 offers significant savings for customers."
   },
   {
-    "title": "AMD's next-gen 10-core 'Medusa Point' APU shows up on Geekbench again, with its best score yet leaked SKU outpaces every other x86 mobile chip in the single-core test",
-    "summary": "AMD's Medusa Point 10-core APU has achieved its best score yet on Geekbench, outperforming all other x86 mobile chips in the single-core test.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amds-next-gen-10-core-medusa-point-apu-shows-up-on-geekbench-again-with-its-best-score-yet-leaked-sku-outpaces-every-other-x86-mobile-chip-in-the-single-core-test",
+    "title": "Nvidia's new Synthetic Video Detector can identify fake AI videos with up to 92% accuracy microservice based on cutting-edge research looks to combat misinformation in broadcasts with just 22ms processing time",
+    "summary": "Nvidia's Synthetic Video Detector identifies fake AI videos with up to 92% accuracy, processing 1080p footage in 22ms.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-new-synthetic-video-detector-can-identify-fake-ai-videos-with-up-to-92-percent-accuracy-microservice-based-on-cutting-edge-research-looks-to-combat-misinformation-in-broadcasts-with-just-22ms-processing-time",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-20T11:27:12.852549",
-    "insight": "AMD's Medusa Point APU surpasses all x86 mobile chips in single-core performance."
+    "quality_score": 10,
+    "processed_date": "2026-07-21T10:48:30.483336",
+    "insight": "Combats AI misinformation with high accuracy and rapid processing times."
   },
   {
-    "title": "Zilog Z80 turns 50 as an open-source replacement heads to drop-in DIP40 silicon iconic 8-bit CPU launched in July 1976 and was discontinued in 2024",
-    "summary": "The Zilog Z80 is a 50-year-old 8-bit CPU launched in 1976 with 8,500 transistors on a 4 micron process. It typically ran at 2.5 MHz and is still relevant due to its open-source replacement.",
-    "link": "https://www.tomshardware.com/tech-industry/zilog-z80-turns-50-as-open-source-replacement-heads-for-drop-in-dip40-silicon",
+    "title": "The enduring paradox of the AI economy models get better and more efficient, yet costs can still easily spiral out of control",
+    "summary": "AI economy models improve efficiency, yet costs can still escalate rapidly. Token amplification fuels this paradox, as more capable models lead to more complex and resource-intensive tasks. This creates a self-reinforcing cycle of growth.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-enduring-paradox-of-the-ai-economy-models-get-better-and-more-efficient-yet-costs-can-still-easily-spiral-out-of-control",
     "categories": [
-      "Hardware",
-      "Tech News"
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-21T10:48:30.483438",
+    "insight": "Improved efficiency leads to greater complexity and resource demands."
+  },
+  {
+    "title": "Taiwan indicts ex-TSMC manager for allegedly stealing chip secrets for China first case of its kind links managers to Chinese semiconductor materials analysis company",
+    "summary": "A former TSMC deputy manager was indicted for allegedly copying 21 confidential documents. This case marks the first of its kind in Taiwan, linking a TSMC manager to a Chinese semiconductor materials analysis company. Prosecutors are investigating suspected espionage and intellectual property theft.",
+    "link": "https://www.tomshardware.com/tech-industry/taiwan-inducts-ex-tsmc-manager-for-allegedly-stealing-chip-secrets-for-china",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-20T11:27:12.852655",
-    "insight": "Legacy of innovation endures through open-source CPU revival efforts."
+    "processed_date": "2026-07-21T10:48:30.483542",
+    "insight": "TSMC's secrets potentially compromised for China's technological advancement goals"
   },
   {
-    "title": "Memory chip boss admits RAM prices are 'abnormally high' SK Group chairman considering building a semiconductor plant in the US to expand supply, calm chipflation ",
-    "summary": "SK Group Chairman Chey Tae-won says memory chip prices are 'abnormally high'. To address this, he's considering building a semiconductor plant in the US to increase supply and calm 'chipflation'. This move aims to make the market more competitive.",
-    "link": "https://www.tomshardware.com/tech-industry/policy/memory-chip-boss-admits-ram-prices-are-abnormally-high-sk-group-chairman-considering-building-a-semiconductor-plant-in-the-us-to-expand-supply-calm-chipflation",
+    "title": "New plugin unlocks granular VRAM temperature tracking on Nvidia RTX 50-series GPUs community cracks open Blackwell's forbidden telemetry sensors",
+    "summary": "Modders have developed a method to track memory modules on Nvidia RTX 50-series GPUs, providing detailed temperature monitoring.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/new-plugin-unlocks-granular-vram-temperature-tracking-on-nvidia-rtx-50-series-gpus-community-cracks-open-blackwells-forbidden-telemetry-sensors",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-21T10:48:30.483641",
+    "insight": "Enhanced VRAM temperature tracking for improved GPU reliability."
+  },
+  {
+    "title": "Trump administration reportedly reviving push to ban Chinese AI models following Kimi K3 launch, citing cybersecurity concerns downloadable open weights could make an outright U.S. ban nearly impossible to enforce amid growing adoption",
+    "summary": "The US may revive efforts to ban Chinese open-weight AI models, citing cybersecurity concerns. This comes amid growing adoption and the potential for enforcement challenges. Downloadable open weights could make an outright ban difficult to enforce.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-growing-adoption",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-21T10:48:30.483750",
+    "insight": "Enforceability challenges complicate US efforts to ban Chinese AI models."
+  },
+  {
+    "title": "Dutch chip sector at very high risk of Chinese interference, government-funded study warns calls for stricter vetting at sites like ASML",
+    "summary": "The Dutch semiconductor industry is at high risk of Chinese interference, a government-funded study warns. This warning calls for stricter vetting at sites like ASML, a key semiconductor manufacturer. The Hague Centre for Strategic Studies made this assessment.",
+    "link": "https://www.tomshardware.com/tech-industry/government-funded-dutch-report-rates-chip-sector-at-very-high-risk-of-chinese-interference",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-20T11:27:12.852779",
-    "insight": "Industry must boost production to avoid new entrants and lower prices."
+    "processed_date": "2026-07-21T10:48:30.483860",
+    "insight": "Dutch chip security relies heavily on foreign-owned critical infrastructure."
   },
   {
-    "title": " Phantom Twist drone spins so fast that it is nearly invisible flying device adds motion blur to the real world",
-    "summary": "Researchers at Northwestern University built a drone that spins at high speeds, creating motion blur that makes it nearly invisible. This technology has potential applications in surveillance and stealth operations. The Phantom Twist drone uses rapid rotation to achieve this effect.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/phantom-twist-drone-spins-so-fast-that-it-is-nearly-invisible-flying-device-adds-motion-blur-to-the-real-world",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-20T11:27:12.852875",
-    "insight": "Advancing stealth technology with motion-blurring speed and agility."
-  },
-  {
-    "title": "Samsung cuts hundreds of US consumer electronics jobs ahead of Texas HQ move 739 roles affected in New Jersey as chip division posts record profit",
-    "summary": "Samsung cuts hundreds of US jobs in New Jersey, offering relocation to some.",
-    "link": "https://www.tomshardware.com/tech-industry/samsung-cuts-hundreds-of-us-consumer-electronics-jobs-ahead-of-texas-hq-move",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-20T11:27:12.852977",
-    "insight": "Mass layoffs signal significant restructuring amidst record profit growth"
-  },
-  {
-    "title": "Russian drones spotted using screwed-on magnetic compasses as navigation aids the on-board camera can occasionally tilt down to check bearings if satellite comms are lost",
-    "summary": "Russian drones use magnetic compasses as makeshift navigation aids, supplementing cameras.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/russian-drones-spotted-using-screwed-on-magnetic-compasses-as-navigation-aids-the-on-board-camera-can-occasionally-tilt-down-to-check-bearings-if-satellite-comms-are-lost",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-20T11:27:12.853105",
-    "insight": "Russian drones adapt to satellite comms loss with simple, low-cost solutions."
-  },
-  {
-    "title": "Coil whine can be musical, demonstrates engineering student this usually hated noise can make some people happy",
-    "summary": "A video showcases an engineering student turning coil whine into music, demonstrating that unwanted electronic noise can be repurposed as a pleasant sound. This transformation highlights the creative potential of noise pollution. The video showcases the student's ingenuity in turning a usually hated noise into something enjoyable.",
-    "link": "https://www.tomshardware.com/pc-components/coil-whine-can-be-musical-demonstrates-engineering-student-this-usually-hated-noise-can-make-some-people-happy",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-20T11:27:12.853199",
-    "insight": "Creative repurposing of noise pollution can evoke positive emotions."
-  },
-  {
-    "title": "Globalscale Case8 A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding)",
-    "summary": "Globalscale's Case8 cyberdeck offers a versatile, open-source platform for various use cases, powered by MediaTek Genio processors. It features multiple variants for gaming, home automation, education, and more. The platform offers a range of display and connectivity options.",
-    "link": "https://www.cnx-software.com/2026/07/20/globalscale-case8-mediatek-genio-520-720-cyberdeck-for-gaming-home-automation-and-education/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-20T11:27:12.853766",
-    "insight": "Redefining cyberdeck possibilities with modular, affordable, and accessible computing solutions."
-  },
-  {
-    "title": "Geniatech XPI-3576-CM5 A Raspberry Pi CM5-compatible Rockchip RK3576 AI Compute Module with WiFi 6, Bluetooth 5.3",
-    "summary": "The Geniatech XPI-3576-CM5 is a Rockchip RK3576-based AI compute module compatible with Raspberry Pi CM5, featuring up to 16GB LPDDR5, 128GB eMMC, dual-band WiFi 6, and Bluetooth 5.3 connectivity.",
-    "link": "https://www.cnx-software.com/2026/07/20/geniatech-xpi-3576-cm5-a-raspberry-pi-cm5-compatible-rockchip-rk3576-ai-compute-module-with-wifi-6-bluetooth-5-3/",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-20T11:27:12.853934",
-    "insight": "Enhanced AI capabilities with significant performance and power efficiency advancements."
-  },
-  {
-    "title": "IoTextra modular automation boards with 4 inputs, 4 outputs work with Raspberry Pi and ESP32 MCU boards",
-    "summary": "IoTextra modular automation boards support various MCU platforms for automation needs, featuring 4 inputs and 4 outputs, and are compatible with Raspberry Pi and ESP32 boards.",
-    "link": "https://www.cnx-software.com/2026/07/20/iotextra-modular-automation-boards-with-4-inputs-4-outputs-work-with-raspberry-pi-and-esp32-mcu-boards/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-20T11:27:12.854129",
-    "insight": "Modular automation boards with wide MCU compatibility simplify IoT development."
-  },
-  {
-    "title": "Efinix Titanium Edge FPGA family targets low-power edge AI and vision systems",
-    "summary": "Efinix introduces the Titanium Edge FPGA family for low-power edge AI and vision systems, offering lower static power consumption, configurable I/O, and integrated memory.",
-    "link": "https://www.cnx-software.com/2026/07/20/efinix-titanium-edge-fpga-family-targets-low-power-edge-ai-and-vision-systems/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-20T11:27:12.854311",
-    "insight": "Lower power consumption enables AI and vision applications in resource-constrained edge environments"
-  },
-  {
-    "title": "Beelink EQi 304 review Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC",
-    "summary": "The Beelink EQi 304 mini PC is tested with Ubuntu 26.04, featuring Intel Core 3 304 chip. The test covers various aspects such as benchmark results, networking, storage, and power consumption. The results provide insights into the mini PC's performance and capabilities.",
-    "link": "https://www.cnx-software.com/2026/07/19/beelink-eqi-304-review-part-3-ubuntu-26-04-on-a-wildcat-lake-mini-pc/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-20T11:27:12.854467",
-    "insight": "Ubuntu on Beelink EQi 304 offers alternative OS option with PCIe expansion"
-  },
-  {
-    "title": "The quest for better chip design accelerates",
-    "summary": "Synopsys has introduced Multiphysics Fusion products to reduce respins and costs. These products aim to accelerate chip design by addressing complex interactions between different physical domains. Early customers have already started adopting this technology.",
-    "link": "https://www.fiercesensors.com/sensors/quest-better-chip-design-accelerates",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-20T11:27:12.855543",
-    "insight": "Streamlined chip design reduces respins and associated costs significantly."
-  },
-  {
-    "title": "Indie Gaming's Next Big Wave Is Coming From Outside the West",
-    "summary": "Indie games from outside the West are gaining global recognition, reshaping the industry. Developers in Asia, Eastern Europe, and Oceania are leveraging local stories and fresh ideas to create hits. This diversity brings new perspectives and gameplay experiences.",
-    "link": "https://www.techspot.com/article/3148-indie-gaming-worldwide/",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-20T11:27:12.855810",
-    "insight": "Global gaming market is becoming increasingly decentralized and culturally diverse."
-  },
-  {
-    "title": "FBI arrests 21-year-old accused of infecting 8,000 PCs with malware through fake Steam games",
-    "summary": "The FBI arrested 21-year-old Zyaire Wilkins for infecting 8,000 PCs with malware through fake Steam games. The cybercrime operation, which lasted nearly two years, allegedly stole at least $220,000. Investigators believe the group had unnamed co-conspirators.",
-    "link": "https://www.techspot.com/news/113163-fbi-arrests-21-year-old-accused-infecting-8000.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-20T11:27:12.855983",
-    "insight": "Sophisticated cybercrime operations can target thousands with minimal effort and profit greatly"
-  },
-  {
-    "title": "Nvidia may have RTX 5000 Super GPUs ready, but costly 3GB GDDR7 is holding them back",
-    "summary": "Nvidia's RTX 5000 Super GPUs may be delayed due to expensive GDDR7 memory costs.",
-    "link": "https://www.techspot.com/news/113167-nvidia-may-have-rtx-5000-super-cards-ready.html",
+    "title": "Microsoft will deploy AMD s Helios rack-scale AI accelerator at scale on Azure Radeon Instinct MI455X and Epyc Venice power will be available through Redmond s cloud infrastructure",
+    "summary": "Microsoft and AMD are partnering to deploy the Helios AI accelerator on Azure, increasing AI computing capabilities through Redmond's cloud infrastructure.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-will-deploy-amds-helios-rack-scale-ai-accelerator-at-scale-on-azure-radeon-instinct-mi455x-and-epyc-venice-power-will-be-available-through-redmonds-cloud-infrastructure",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
+    "quality_score": 5,
+    "processed_date": "2026-07-21T10:48:30.483960",
+    "insight": "Enhanced AI computing capabilities for Azure and internal use cases."
+  },
+  {
+    "title": "Government can seize private land to make way for new AI data center transmission lines, report says takeovers could be implemented using eminent domain law when private citizens refuse to sell land",
+    "summary": "Utilities can use eminent domain to seize private land for transmission lines, but subject to public-use and state-law limits.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/power-companies-can-seize-private-land-to-make-way-for-new-ai-data-center-transmission-lines-report-says-takeovers-could-be-implemented-using-eminent-domain-law-when-private-citizens-refuse-to-sell-land",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-21T10:48:30.484067",
+    "insight": "Private landowners at risk of losing property for data center transmission lines."
+  },
+  {
+    "title": "Samsung now supplying new VESA DisplayHDR True Black 1400 laptop displays Lenovo, Asus, Dell, and MSI set to launch portables with the first 1,600 nits tandem OLED panels",
+    "summary": "Samsung Display is now mass-producing VESA DisplayHDR True Black 1400 panels for laptops. Lenovo, Asus, Dell, and MSI are set to launch new portables with these high-end displays. The panels offer improved contrast and brightness.",
+    "link": "https://www.tomshardware.com/monitors/samsung-now-supplying-new-vesa-displayhdr-true-black-1400-laptop-displays-lenovo-asus-dell-and-msi-set-to-launch-portables-with-the-first-1-600-nits-tandem-oled-panels",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
     "quality_score": 10,
-    "processed_date": "2026-07-20T11:27:12.856173",
-    "insight": "GDDR7 memory costs threaten Nvidia's RTX 5000 Super release timeline."
+    "processed_date": "2026-07-21T10:48:30.484169",
+    "insight": "Enhanced gaming and HDR experiences for laptop users"
+  },
+  {
+    "title": "3D printing enthusiast resurrects cancelled dbrand Steam Machine Companion Cube as DIY project project shelved due to copyright can now be made and assembled at home",
+    "summary": "A 3D printing enthusiast has brought back the cancelled Steam Machine Companion Cube as a DIY project, allowing enthusiasts to create and assemble their own versions at home after initial plans were shelved due to copyright concerns.",
+    "link": "https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-resurrects-cancelled-dbrand-steam-machine-companion-cube-as-diy-project-project-shelved-due-to-copyright-can-now-be-made-and-assembled-at-home",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-21T10:48:30.484278",
+    "insight": "DIY community revives cancelled products through 3D printing technology."
+  },
+  {
+    "title": "Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor",
+    "summary": "Avalue Technology has introduced the RIVAR-1539, a 15.6-inch fanless industrial panel PC powered by the Intel N150 quad-core Twin Lake processor. It features a Full HD projected capacitive touch display and is designed for edge computing and HMI applications. The system is IP65-rated and suitable for various retail, healthcare, and public service environments.",
+    "link": "https://www.cnx-software.com/2026/07/21/avalue-rivar-1539-is-a-15-6-inch-fanless-industrial-panel-pc-powered-by-an-intel-n150-twin-lake-processor/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-21T10:48:30.484797",
+    "insight": "Fanless design enables reliable and space-efficient industrial computing solutions."
+  },
+  {
+    "title": "ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU",
+    "summary": "The ART-Pi II development board features a 600 MHz STM32H7R7 MCU with NeoChrom GPU, 32 MB HyperRAM, and 64 MB HyperFlash. It includes various connectivity options and a microSD card slot. This board is a compact platform for development and prototyping.",
+    "link": "https://www.cnx-software.com/2026/07/21/art-pi-ii-development-board-features-600-mhz-stm32h7r7-cortex-m7-mcu-with-neochrom-gpu/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-21T10:48:30.484954",
+    "insight": "Raspberry Pi-compatible board with powerful STM32H7R7 MCU and NeoChrom GPU"
+  },
+  {
+    "title": "nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs",
+    "summary": "The nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs, enabling users to program and access the dual-core microcontrollers with ease, and includes features such as Bluetooth LE and Zigbee support.",
+    "link": "https://www.cnx-software.com/2026/07/21/nrf54l-arduino-core-project-brings-arduino-support-to-nordic-semi-nrf54l-wireless-socs/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-21T10:48:30.485122",
+    "insight": "Bringing official Arduino support to newer, more powerful nRF54L wireless microcontrollers."
+  },
+  {
+    "title": "Robots in the news: What s bigger now is focus on sensory bots",
+    "summary": "The robotic sensing market is expected to double to $4.39B by 2032, according to SNS Insider. This growth is driven by increased focus on developing sensory bots that can perceive and interact with their environment. Advancements in robotic sensing technology are expected to have a significant impact on various industries.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/robots-news-whats-bigger-now-focus-sensory-bots",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-21T10:48:30.486093",
+    "insight": "Robotic sensing technology is revolutionizing industries with improved perception."
+  },
+  {
+    "title": "Best of Sensors Q&A: ST named Company of the Year",
+    "summary": "STMicroelectronics was named Company of the Year at the Best of Sensors 26 Awards, recognized for product innovation and bold execution, including the purchase of NXP's MEMS sensors business.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/best-sensors-qa-st-named-company-year",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-21T10:48:30.486242",
+    "insight": "STMicroelectronics solidifies its leadership in sensor technology innovation."
+  },
+  {
+    "title": "Refuse to sell access to your land for an AI data center transmission line and power companies may force access anyway",
+    "summary": "Data center transmission lines may force landowners to grant access despite opposition.",
+    "link": "https://www.techspot.com/news/113184-refuse-sell-access-land-ai-data-center-transmission.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-21T10:48:30.486651",
+    "insight": "Private property rights clash with industry's infrastructure expansion needs."
+  },
+  {
+    "title": "Researchers create a drone that becomes almost invisible by spinning 25 times per second",
+    "summary": "Researchers created a drone, Phantom Twist, that becomes nearly invisible by rapidly spinning. It exploits motion blur and human vision limitations. This technology avoids traditional camouflage methods.",
+    "link": "https://www.techspot.com/news/113173-researchers-create-drone-becomes-almost-invisible-spinning-25.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-21T10:48:30.486750",
+    "insight": "Exploiting human vision limitations for innovative stealth technologies emerges."
+  },
+  {
+    "title": "7-Zip patches a flaw that could run malware just from opening a bad file",
+    "summary": "A vulnerability in 7-Zip's XZ decompression routine allows buffer overflows, enabling remote code execution. Researchers found the flaw and a patch is available. Users must manually update their software to fix the issue.",
+    "link": "https://www.techspot.com/news/113175-7-zip-patches-flaw-could-run-malware-opening.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-21T10:48:30.486865",
+    "insight": "Malware can be executed just by opening a malicious file with 7-Zip"
+  },
+  {
+    "title": "FluentCleaner ditches the bloat with a new 3.5 MB Classic edition",
+    "summary": "FluentCleaner Classic offers a lightweight WinForms build, reducing the app's footprint to 3.5 MB. This version swaps the WinUI 3 shell for a more portable .NET Framework 4.8 build, eliminating the need for a runtime install. The result is a fast, no-frills cleaner.",
+    "link": "https://www.techspot.com/downloads/7876-fluentcleaner.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-21T10:48:30.486967",
+    "insight": "Simpler app architecture enables more accessible, portable cleaning software."
+  },
+  {
+    "title": "Windows 11 bloat proves too much for Microsoft's new 8GB Surface Laptop",
+    "summary": "Windows 11's bloat causes performance issues on low-memory Surface Laptop",
+    "link": "https://www.techspot.com/news/113177-windows-11-bloat-proves-much-microsoft-new-8gb.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-21T10:48:30.487069",
+    "insight": "Insufficient RAM exacerbates Windows 11's resource-intensive software features"
+  },
+  {
+    "title": "Marvel drops the first Avengers: Doomsday trailer, set to open against Dune: Part Three this December",
+    "summary": "The Avengers: Doomsday trailer reunites familiar faces and introduces new destruction, with Professor X and Magneto set to appear alongside Thor's ominous warning about an enemy threatening the heroes. James Marsden's Cyclops gets to cause large-scale destruction, and Channing Tatum returns as Gambit. The trailer is set to open against Dune: Part Three this December.",
+    "link": "https://www.techspot.com/news/113176-marvel-drops-first-avengers-doomsday-trailer-set-open.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-21T10:48:30.487189",
+    "insight": "A new Marvel threat looms, uniting iconic characters against extinction"
+  },
+  {
+    "title": "A new coding contest challenges developers to fit an entire game onto a 1.44MB floppy disk",
+    "summary": "Developers are challenged to create a game that fits on a 1.44MB floppy disk. The contest, held by Korean website 2P Game Arcade, aims to push the limits of game development and compression techniques. The maximum file size is 1,474,560 bytes.",
+    "link": "https://www.techspot.com/news/113172-new-coding-contest-challenges-developers-fit-entire-game.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-21T10:48:30.487324",
+    "insight": "Optimizing game assets and compression techniques for extreme data constraints."
+  },
+  {
+    "title": "CD sales are up 16%, but half the buyers don't even own a CD player",
+    "summary": "CD sales are up 16%, driven largely by younger buyers. However, many of these buyers don't own CD players, leading to the question of why they are purchasing CDs. This trend is particularly notable among Gen Z and Millennial buyers.",
+    "link": "https://www.techspot.com/news/113174-cds-keep-selling-us-even-though-many-fans.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-21T10:48:30.487437",
+    "insight": "Collectibility and nostalgia drive CD purchases among younger generations"
+  },
+  {
+    "title": "AWS billing goes haywire, hits customers with bills as high as $7.8 trillion",
+    "summary": "AWS customers received unexpected bills as high as $7.8 trillion due to billing errors.",
+    "link": "https://www.techspot.com/news/113170-aws-billing-goes-haywire-hits-customers-bills-high.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-21T10:48:30.487541",
+    "insight": "Massive AWS billing errors can financially devastate unsuspecting customers overnight suddenly."
+  },
+  {
+    "title": "Samsung cuts hundreds of US jobs while AI boom sends chip profits soaring",
+    "summary": "Samsung cuts 739 US jobs due to relocation, offering some positions in Texas.",
+    "link": "https://www.techspot.com/news/113171-samsung-cuts-hundreds-us-jobs-while-ai-boom.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-21T10:48:30.487647",
+    "insight": "Large tech companies face challenges in adapting to shifting business needs."
   }
 ]
