@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 21, 2026**
+**Week of July 22, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU ⭐
+### 1. Raspberry Pi Touch Display 2 10 Portrait review, 3D printed VESA mount ⭐
 
-**⚡ Semiconductors**
+**📰 Tech News**
 
-The ART-Pi II development board features a 600 MHz STM32H7R7 MCU with NeoChrom GPU, 32 MB HyperRAM, and 64 MB HyperFlash. It includes various connectivity options and a microSD card slot. This board is a compact platform for development and prototyping.
+The Raspberry Pi Touch Display 2 10 Portrait review showcases the 10.1-inch multi-touch panel's features, including 10-pin capacitive touch and display orientation. It also demonstrates a 3D printed VESA mount for easy installation. This review provides an early look at the new display model.
 
-💡 **Key Point:** Raspberry Pi-compatible board with powerful STM32H7R7 MCU and NeoChrom GPU
+💡 **Key Point:** Raspberry Pi expands its display options with a 10.1-inch touch panel solution
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/21/art-pi-ii-development-board-features-600-mhz-stm32h7r7-cortex-m7-mcu-with-neochrom-gpu/)
+🔗 [Read More](https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/)
 
 ---
 
-### 2. ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU ⭐
+### 2. Raspberry Pi Touch Display 2 10 Portrait review, 3D printed VESA mount ⭐
 
 **💻 Hardware**
 
-The ART-Pi II development board features a 600 MHz STM32H7R7 MCU with NeoChrom GPU, 32 MB HyperRAM, and 64 MB HyperFlash. It includes various connectivity options and a microSD card slot. This board is a compact platform for development and prototyping.
+The Raspberry Pi Touch Display 2 10 Portrait review showcases the 10.1-inch multi-touch panel's features, including 10-pin capacitive touch and display orientation. It also demonstrates a 3D printed VESA mount for easy installation. This review provides an early look at the new display model.
 
-💡 **Key Point:** Raspberry Pi-compatible board with powerful STM32H7R7 MCU and NeoChrom GPU
+💡 **Key Point:** Raspberry Pi expands its display options with a 10.1-inch touch panel solution
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/21/art-pi-ii-development-board-features-600-mhz-stm32h7r7-cortex-m7-mcu-with-neochrom-gpu/)
-
----
-
-### 3. Google reportedly developing 'Frozen v2' chip with Gemini's architecture etched into the silicon engineers project 6 to 10 times more tokens per watt than latest TPUs 
-
-**⚡ Semiconductors**
-
-Google is developing 'Frozen v2', a server chip with Gemini's architecture integrated directly into silicon. This would reportedly yield 6-10 times more tokens per watt than its latest TPUs.
-
-💡 **Key Point:** Google's 'Frozen v2' chip could greatly enhance AI performance efficiency.
-
-🔗 [Read More](https://www.tomshardware.com/tech-industry/google-reportedly-developing-frozen-v2-chip-with-geminis-architecture-etched-into-the-silicon)
+🔗 [Read More](https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/)
 
 ---
 
-### 4. Taiwan indicts ex-TSMC manager for allegedly stealing chip secrets for China first case of its kind links managers to Chinese semiconductor materials analysis company 
+### 3. AMD Ryzen 7 7700X3D Review: The Budget 3D V-Cache King ⭐
 
-**⚡ Semiconductors**
+**🎮 GPUs**
 
-A former TSMC deputy manager was indicted for allegedly copying 21 confidential documents. This case marks the first of its kind in Taiwan, linking a TSMC manager to a Chinese semiconductor materials analysis company. Prosecutors are investigating suspected espionage and intellectual property theft.
+The AMD Ryzen 7 7700X3D offers a budget-friendly 3D V-Cache alternative to the 7800X3D. We tested its performance in 13 games to see how it compares. Find out if it still belongs in a modern gaming PC.
 
-💡 **Key Point:** TSMC's secrets potentially compromised for China's technological advancement goals
+💡 **Key Point:** Budget 3D V-Cache performance for gaming PCs at a lower cost.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/taiwan-inducts-ex-tsmc-manager-for-allegedly-stealing-chip-secrets-for-china)
+🔗 [Read More](https://www.techspot.com/review/3150-amd-ryzen-7700x3d/)
 
 ---
 
-### 5. Google reportedly developing 'Frozen v2' chip with Gemini's architecture etched into the silicon engineers project 6 to 10 times more tokens per watt than latest TPUs 
+### 4. AMD Ryzen 7 7700X3D Review: The Budget 3D V-Cache King ⭐
+
+**💻 Hardware**
+
+The AMD Ryzen 7 7700X3D offers a budget-friendly 3D V-Cache alternative to the 7800X3D. We tested its performance in 13 games to see how it compares. Find out if it still belongs in a modern gaming PC.
+
+💡 **Key Point:** Budget 3D V-Cache performance for gaming PCs at a lower cost.
+
+🔗 [Read More](https://www.techspot.com/review/3150-amd-ryzen-7700x3d/)
+
+---
+
+### 5. Nvidia details Rubin architectural optimizations for inference improvements target better performance and efficiency from the GPU to the rack ⭐
 
 **🤖 AI & ML**
 
-Google is developing 'Frozen v2', a server chip with Gemini's architecture integrated directly into silicon. This would reportedly yield 6-10 times more tokens per watt than its latest TPUs.
+Nvidia has unveiled optimizations in its Rubin architecture for improved inference performance and efficiency, spanning from GPUs to data center racks. These enhancements are designed to accelerate AI and machine learning workloads. The Rubin architecture promises better performance and efficiency across the board.
 
-💡 **Key Point:** Google's 'Frozen v2' chip could greatly enhance AI performance efficiency.
+💡 **Key Point:** Optimizing Rubin architecture for better inference across entire data center racks.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/google-reportedly-developing-frozen-v2-chip-with-geminis-architecture-etched-into-the-silicon)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-details-rubin-architectural-optimizations-for-inference-improvements-target-better-performance-and-efficiency-from-the-gpu-to-the-rack)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **41 articles** across **5 focused categories**.
+We covered **62 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 13 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 6 | Computing hardware and development boards |
+| 🤖 [AI & ML](ai_and_ml.md) | 21 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 12 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 11 | Industry news and product launches |
+| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 13 articles
+*Artificial Intelligence and Machine Learning* — 21 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 4 articles
+*Graphics cards and compute accelerators* — 12 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 6 articles
+*Computing hardware and development boards* — 14 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
 *Chip manufacturing and design* — 7 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 11 articles
+*Industry news and product launches* — 8 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-07-21 at 10:49 by an autonomous AI curation system.
+Generated 2026-07-22 at 10:51 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

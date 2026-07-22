@@ -1,125 +1,95 @@
 # 📰 Tech News
-**Week of July 21, 2026**
+**Week of July 22, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-07-21 10:49
+- **Articles this week:** 8
+- **Report generated:** 2026-07-22 10:51
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Samsung now supplying new VESA DisplayHDR True Black 1400 laptop displays Lenovo, Asus, Dell, and MSI set to launch portables with the first 1,600 nits tandem OLED panels 
+### 1. Raspberry Pi Touch Display 2 10 Portrait review, 3D printed VESA mount ⭐
 
-Samsung Display is now mass-producing VESA DisplayHDR True Black 1400 panels for laptops. Lenovo, Asus, Dell, and MSI are set to launch new portables with these high-end displays. The panels offer improved contrast and brightness.
+The Raspberry Pi Touch Display 2 10 Portrait review showcases the 10.1-inch multi-touch panel's features, including 10-pin capacitive touch and display orientation. It also demonstrates a 3D printed VESA mount for easy installation. This review provides an early look at the new display model.
 
-💡 *Enhanced gaming and HDR experiences for laptop users*
+💡 *Raspberry Pi expands its display options with a 10.1-inch touch panel solution*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/samsung-now-supplying-new-vesa-displayhdr-true-black-1400-laptop-displays-lenovo-asus-dell-and-msi-set-to-launch-portables-with-the-first-1-600-nits-tandem-oled-panels)
-
----
-
-### 2. Best of Sensors Q&A: ST named Company of the Year 
-
-STMicroelectronics was named Company of the Year at the Best of Sensors 26 Awards, recognized for product innovation and bold execution, including the purchase of NXP's MEMS sensors business.
-
-💡 *STMicroelectronics solidifies its leadership in sensor technology innovation.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/best-sensors-qa-st-named-company-year)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/)
 
 ---
 
-### 3. Researchers create a drone that becomes almost invisible by spinning 25 times per second 
+### 2. Amazon data center in Bahrain struck and destroyed by Iranian cruise missiles, state media claims attacks launched against AWS site in response to alleged US strikes on an under-construction nuclear plant 
 
-Researchers created a drone, Phantom Twist, that becomes nearly invisible by rapidly spinning. It exploits motion blur and human vision limitations. This technology avoids traditional camouflage methods.
+Amazon's AWS site in Bahrain allegedly targeted by Iranian cruise missiles, with state media claiming a 'destroyed' facility, but operations were already relocated since April.
 
-💡 *Exploiting human vision limitations for innovative stealth technologies emerges.*
+💡 *Cybersecurity risks escalate in region due to escalating military conflicts.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113173-researchers-create-drone-becomes-almost-invisible-spinning-25.html)
-
----
-
-### 4. 7-Zip patches a flaw that could run malware just from opening a bad file 
-
-A vulnerability in 7-Zip's XZ decompression routine allows buffer overflows, enabling remote code execution. Researchers found the flaw and a patch is available. Users must manually update their software to fix the issue.
-
-💡 *Malware can be executed just by opening a malicious file with 7-Zip*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113175-7-zip-patches-flaw-could-run-malware-opening.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/amazon-data-center-in-bahrain-struck-and-destroyed-by-iranian-cruise-missiles-state-media-claims-attacks-launched-against-aws-site-in-response-to-alleged-us-strikes-on-an-under-construction-nuclear-plant)
 
 ---
 
-### 5. Trump administration reportedly reviving push to ban Chinese AI models following Kimi K3 launch, citing cybersecurity concerns downloadable open weights could make an outright U.S. ban nearly impossible to enforce amid growing adoption 
+### 3. Microsoft just open-sourced the app that made Comic Sans famous 
 
-The US may revive efforts to ban Chinese open-weight AI models, citing cybersecurity concerns. This comes amid growing adoption and the potential for enforcement challenges. Downloadable open weights could make an outright ban difficult to enforce.
+Microsoft has open-sourced Comic Chat, its 1996 IRC client that turned text conversations into comic strips.
 
-💡 *Enforceability challenges complicate US efforts to ban Chinese AI models.*
+💡 *Preserving retro tech for modern developers and enthusiasts to learn from.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-growing-adoption)
-
----
-
-### 6. 3D printing enthusiast resurrects cancelled dbrand Steam Machine Companion Cube as DIY project project shelved due to copyright can now be made and assembled at home 
-
-A 3D printing enthusiast has brought back the cancelled Steam Machine Companion Cube as a DIY project, allowing enthusiasts to create and assemble their own versions at home after initial plans were shelved due to copyright concerns.
-
-💡 *DIY community revives cancelled products through 3D printing technology.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-resurrects-cancelled-dbrand-steam-machine-companion-cube-as-diy-project-project-shelved-due-to-copyright-can-now-be-made-and-assembled-at-home)
+🔗 [Read Full Article](https://www.techspot.com/downloads/7891-microsoft-comic-chat.html)
 
 ---
 
-### 7. FluentCleaner ditches the bloat with a new 3.5 MB Classic edition 
+### 4. Anthropic hit with largest-ever $1.5 billion penalty in copyright lawsuit court says training AI on published material is fair use, but startup s pirated library infringes on authors rights 
 
-FluentCleaner Classic offers a lightweight WinForms build, reducing the app's footprint to 3.5 MB. This version swaps the WinUI 3 shell for a more portable .NET Framework 4.8 build, eliminating the need for a runtime install. The result is a fast, no-frills cleaner.
+A U.S. federal judge approved a $1.5 billion settlement in a copyright lawsuit. A majority of plaintiffs accepted the amount, but some are pursuing further action. The case involved a startup's use of a pirated library of published materials.
 
-💡 *Simpler app architecture enables more accessible, portable cleaning software.*
+💡 *Training AI on published material raises complex questions about fair use and author rights.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7876-fluentcleaner.html)
-
----
-
-### 8. $399 Nintendo Switch 2 back in stock Woot for new customers, $427 for returning customers with code get $100 off the most recent price hikes 
-
-Get a brand new Nintendo Switch 2 at a discounted price. New customers can purchase it for $399, while returning customers can get it for $427 before applying a $100 discount. Use the code 'get $100 off' for the discount.
-
-💡 *Discounted Nintendo Switch 2 offers significant savings for customers.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/usd399-nintendo-switch-2-back-in-stock-woot-for-new-customers-usd427-for-returning-customers-with-code-get-usd100-off-the-most-recent-price-hikes)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-slapped-with-usd1-5-billion-settlement-in-copyright-lawsuit-largest-payout-ever-court-says-that-training-ai-on-books-other-publications-is-fair-use-but-ruled-that-the-startups-7-million-book-pirated-library-infringes-authors-rights)
 
 ---
 
-### 9. Robots in the news: What s bigger now is focus on sensory bots 
+### 5. Argonaut will use lidar to dodge lunar boulders, rough terrain 
 
-The robotic sensing market is expected to double to $4.39B by 2032, according to SNS Insider. This growth is driven by increased focus on developing sensory bots that can perceive and interact with their environment. Advancements in robotic sensing technology are expected to have a significant impact on various industries.
+MDA Space's LEIA lidar technology has received preliminary approval for the Argonaut mission, enabling the spacecraft to navigate lunar boulders and rough terrain more effectively.
 
-💡 *Robotic sensing technology is revolutionizing industries with improved perception.*
+💡 *Enhanced navigation through precise 3D mapping of lunar terrain.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/robots-news-whats-bigger-now-focus-sensory-bots)
-
----
-
-### 10. A new coding contest challenges developers to fit an entire game onto a 1.44MB floppy disk 
-
-Developers are challenged to create a game that fits on a 1.44MB floppy disk. The contest, held by Korean website 2P Game Arcade, aims to push the limits of game development and compression techniques. The maximum file size is 1,474,560 bytes.
-
-💡 *Optimizing game assets and compression techniques for extreme data constraints.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113172-new-coding-contest-challenges-developers-fit-entire-game.html)
+🔗 [Read Full Article](https://www.fiercesensors.com/embedded/argonaut-will-use-lidar-dodge-lunar-boulders-rough-terrain)
 
 ---
 
-### 11. CD sales are up 16%, but half the buyers don't even own a CD player 
+### 6. France just voted to ban kids under 15 from social media, but Australia's ban shows how hard that is to enforce 
 
-CD sales are up 16%, driven largely by younger buyers. However, many of these buyers don't own CD players, leading to the question of why they are purchasing CDs. This trend is particularly notable among Gen Z and Millennial buyers.
+France's Parliament approved a law banning children under 15 from social media. The law aims to protect young users from online risks and promote healthier digital habits. Enforcement challenges, however, may arise, as seen in Australia's similar ban.
 
-💡 *Collectibility and nostalgia drive CD purchases among younger generations*
+💡 *Enforcing social media bans for minors proves to be a significant challenge.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113174-cds-keep-selling-us-even-though-many-fans.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113193-france-voted-ban-kids-under-15-social-media.html)
+
+---
+
+### 7. Samsung finally has its own credit card, seven years after Apple 
+
+Samsung has launched its first credit card, seven years after Apple, in partnership with Barclays US Consumer Bank over the Visa network. The card is available as a virtual product or a physical metal card with Samsung branding. It offers a digital payment experience through the Samsung Pay app.
+
+💡 *Samsung enters the lucrative credit card market with its first offering.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113187-samsung-unveils-galaxy-card-take-apple-credit-card.html)
+
+---
+
+### 8. What was the world's first digital and programmable robot? 
+
+The world's first digital and programmable robot was Unimate, stationed at General Motors. It was initially sold at a loss, marking a significant milestone in robotics development. Unimate paved the way for modern industrial robots.
+
+💡 *Pioneering robots like Unimate transformed manufacturing with digital automation.*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/31-what-world-first-digital-programmable-robot/)
 
 ---
 

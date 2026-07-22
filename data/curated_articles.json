@@ -1,295 +1,379 @@
 [
   {
-    "title": "Google reportedly developing 'Frozen v2' chip with Gemini's architecture etched into the silicon engineers project 6 to 10 times more tokens per watt than latest TPUs",
-    "summary": "Google is developing a server chip, informally dubbed \"Frozen v2,\" that would etch part of its Gemini model's architecture directly into the silicon.",
-    "link": "https://www.tomshardware.com/tech-industry/google-reportedly-developing-frozen-v2-chip-with-geminis-architecture-etched-into-the-silicon",
+    "title": "OpenAI's GPT-5.6 Sol and unreleased AI models break out of testing environment in 'unprecedented cybersecurity incident' rogue agents hacked HuggingFace's production servers with 'thousands of individual actions across a swarm of short-lived sandboxes'",
+    "summary": "OpenAI's GPT-5.6 Sol and its gang escape from their cage and hack into HuggingFace's production servers unprecedented incident raises eyebrows and pulses",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-5-6-sol-and-unreleased-ai-models-break-out-of-testing-environment-in-unprecedented-cybersecurity-incident-rogue-agents-hacked-huggingfaces-production-servers-with-thousands-of-individual-actions-across-a-swarm-of-short-lived-sandboxes",
     "categories": [
-      "Semiconductors",
-      "AI & ML"
+      "AI & ML",
+      "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-21T10:48:30.482989"
+    "processed_date": "2026-07-22T10:50:02.526191"
   },
   {
-    "title": "PC modder bolts 5.5-pound aluminum heatsink to RTX 4060 convection-only cooling seems to work fine in a testbench-style installation",
-    "summary": "A PC gamer has DIYed a passive Nvidia GeForce RTX 4060 graphics card system incorporating a 5.5-pound aluminum heatsink.",
-    "link": "https://www.tomshardware.com/pc-components/cooling/pc-modder-straps-5-5-pound-aluminum-heatsink-to-rtx-4060-convection-only-cooling-seems-to-work-fine-in-a-testbench-style-installation",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.483101"
-  },
-  {
-    "title": "$399 Nintendo Switch 2 back in stock Woot for new customers, $427 for returning customers with code get $100 off the most recent price hikes",
-    "summary": "Get a brand new Nintendo Switch 2 for less.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/usd399-nintendo-switch-2-back-in-stock-woot-for-new-customers-usd427-for-returning-customers-with-code-get-usd100-off-the-most-recent-price-hikes",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-21T10:48:30.483197"
-  },
-  {
-    "title": "Nvidia's new Synthetic Video Detector can identify fake AI videos with up to 92% accuracy microservice based on cutting-edge research looks to combat misinformation in broadcasts with just 22ms processing time",
-    "summary": "Nvidia has just created an antidote to the virus that is AI misinformation. The company's new Synthetic Video Detector can help broadcasters assess 1080p footage at scale with processing times of just 22ms and up 92% accuracy for uncompressed videos.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-new-synthetic-video-detector-can-identify-fake-ai-videos-with-up-to-92-percent-accuracy-microservice-based-on-cutting-edge-research-looks-to-combat-misinformation-in-broadcasts-with-just-22ms-processing-time",
+    "title": "Nvidia shows off DLSS 5 with three AI modes for different levels of detail upscaler can switch between models in real-time",
+    "summary": "DLSS 5 gets a second showing with Nvidia opening up the upscaler to object-level tweaking for developers with three different models.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-shows-off-dlss-5-with-three-ai-modes-for-different-levels-of-detail-upscaler-can-switch-between-models-in-real-time",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-21T10:48:30.483336"
-  },
-  {
-    "title": "The enduring paradox of the AI economy models get better and more efficient, yet costs can still easily spiral out of control",
-    "summary": "Token amplification creates a paradox in the AI economy, as more capable models beget more complicated tasks.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-enduring-paradox-of-the-ai-economy-models-get-better-and-more-efficient-yet-costs-can-still-easily-spiral-out-of-control",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.483438"
+    "processed_date": "2026-07-22T10:50:02.526282"
   },
   {
-    "title": "Taiwan indicts ex-TSMC manager for allegedly stealing chip secrets for China first case of its kind links managers to Chinese semiconductor materials analysis company",
-    "summary": "Taiwanese prosecutors indicted a former TSMC deputy manager on Monday for allegedly copying 21 confidential documents.",
-    "link": "https://www.tomshardware.com/tech-industry/taiwan-inducts-ex-tsmc-manager-for-allegedly-stealing-chip-secrets-for-china",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-21T10:48:30.483542"
-  },
-  {
-    "title": "New plugin unlocks granular VRAM temperature tracking on Nvidia RTX 50-series GPUs community cracks open Blackwell's forbidden telemetry sensors",
-    "summary": "Modders have discovered a method to monitor every single memory module on Nvidia's GeForce RTX 50-series (codenamed Blackwell) graphics cards.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/new-plugin-unlocks-granular-vram-temperature-tracking-on-nvidia-rtx-50-series-gpus-community-cracks-open-blackwells-forbidden-telemetry-sensors",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.483641"
-  },
-  {
-    "title": "Trump administration reportedly reviving push to ban Chinese AI models following Kimi K3 launch, citing cybersecurity concerns downloadable open weights could make an outright U.S. ban nearly impossible to enforce amid growing adoption",
-    "summary": "The U.S. may be reigniting efforts to push companies away from Chinese open-weight AI models such as Kimi and DeepSeek.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-growing-adoption",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.483750"
-  },
-  {
-    "title": "Dutch chip sector at very high risk of Chinese interference, government-funded study warns calls for stricter vetting at sites like ASML",
-    "summary": "The Hague Centre for Strategic Studies has rated the Dutch semiconductor industry as being at very high risk of Chinese foreign interference.",
-    "link": "https://www.tomshardware.com/tech-industry/government-funded-dutch-report-rates-chip-sector-at-very-high-risk-of-chinese-interference",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.483860"
-  },
-  {
-    "title": "Microsoft will deploy AMD s Helios rack-scale AI accelerator at scale on Azure Radeon Instinct MI455X and Epyc Venice power will be available through Redmond s cloud infrastructure",
-    "summary": "Microsoft and AMD are teaming up to get Redmond more AI FLOPS for both internal and external use.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-will-deploy-amds-helios-rack-scale-ai-accelerator-at-scale-on-azure-radeon-instinct-mi455x-and-epyc-venice-power-will-be-available-through-redmonds-cloud-infrastructure",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.483960"
-  },
-  {
-    "title": "Government can seize private land to make way for new AI data center transmission lines, report says takeovers could be implemented using eminent domain law when private citizens refuse to sell land",
-    "summary": "Utilities can use eminent domain to seize private land for new transmission lines needed to power data centers, though public-use and state-law limits still apply.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/power-companies-can-seize-private-land-to-make-way-for-new-ai-data-center-transmission-lines-report-says-takeovers-could-be-implemented-using-eminent-domain-law-when-private-citizens-refuse-to-sell-land",
+    "title": "China is considering export controls on AI technologies, including banning local companies from using TSMC, report claims restrictions would also cover advanced AI models, training data, and overseas acquisitions",
+    "summary": "China's Ministry of Commerce (MofCom) considers to restrict exports of advanced AI models, training data, and overseas acquisitions of strategically important technology companies; prohibit usage of foreign semiconductor manufacturing services.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-is-considering-export-controls-on-ai-technologies-including-banning-local-companies-from-using-tsmc-report-claims-restrictions-would-also-advanced-ai-models-training-data-and-overseas-acquisitions",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.484067"
+    "processed_date": "2026-07-22T10:50:02.526428"
   },
   {
-    "title": "Samsung now supplying new VESA DisplayHDR True Black 1400 laptop displays Lenovo, Asus, Dell, and MSI set to launch portables with the first 1,600 nits tandem OLED panels",
-    "summary": "Samsung Display has announced that it is now supplying its first mass-produced VESA DisplayHDR True Black 1400 monitor panels to laptop makers including Lenovo, Asus, Dell, and MSI.",
-    "link": "https://www.tomshardware.com/monitors/samsung-now-supplying-new-vesa-displayhdr-true-black-1400-laptop-displays-lenovo-asus-dell-and-msi-set-to-launch-portables-with-the-first-1-600-nits-tandem-oled-panels",
+    "title": "Amazon data center in Bahrain struck and destroyed by Iranian cruise missiles, state media claims attacks launched against AWS site in response to alleged US strikes on an under-construction nuclear plant",
+    "summary": "The Amazon site has suffered multiple hits since the start of the U.S. bombing campaign in Iran. The IRGC claims to have 'destroyed' AWB Bahrain, but the company has moved operations off the facility since early April.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-data-center-in-bahrain-struck-and-destroyed-by-iranian-cruise-missiles-state-media-claims-attacks-launched-against-aws-site-in-response-to-alleged-us-strikes-on-an-under-construction-nuclear-plant",
     "categories": [
-      "Tech News",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-21T10:48:30.484169"
-  },
-  {
-    "title": "3D printing enthusiast resurrects cancelled dbrand Steam Machine Companion Cube as DIY project project shelved due to copyright can now be made and assembled at home",
-    "summary": "A 3D printing enthusiast has resurrected dbrand's cancelled Steam Machine Companion Cube as a DIY project.",
-    "link": "https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-resurrects-cancelled-dbrand-steam-machine-companion-cube-as-diy-project-project-shelved-due-to-copyright-can-now-be-made-and-assembled-at-home",
-    "categories": [
+      "AI & ML",
       "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.484278"
-  },
-  {
-    "title": "Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor",
-    "summary": "Avalue Technology has introduced the RIVAR-1539, a 15.6-inch industrial fanless panel PC powered by the Intel N150 quad-core Twin Lake processor. The system features a Full HD projected capacitive touch display, dual Gigabit Ethernet, four USB 3.0 ports, and an IP65-rated front panel. The all-in-one POS terminal is designed for edge computing and HMI applications, such as self-ordering kiosks, smart counters, digital signage, and queue management systems across retail, healthcare, and public service environments. Avalue RIVAR-1539 specifications: SoC Intel Processor N150 quad-core processor @ 800 MHz / 3.6 GHz (Turbo) with 6MB cache, 24EU Intel UHD graphics @ 1.0 GHz; TDP: 6W Memory 8GB LPDDR5 Storage 128GB eMMC flash Display 15.6-inch Full HD (1920 x 1080) LED display Luminance 350 cd/m Contrast ratio 1500:1 Viewing angle 89 (U/D/L/R) Response time 25ms 10-point projected capacitive multi-touch with USB interface controller Video Output HDMI [...] The post Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/21/avalue-rivar-1539-is-a-15-6-inch-fanless-industrial-panel-pc-powered-by-an-intel-n150-twin-lake-processor/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-07-21T10:48:30.484797"
+    "processed_date": "2026-07-22T10:50:02.526531"
   },
   {
-    "title": "ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU",
-    "summary": "The 600 MHz STM32H7R/S Cortex-M7 microcontroller family with an optional NeoChrom 2.5D GPU and up to 640 KB SRAM and 64 KB flash was introduced in 2024. However, apart from ST s own development boards such as the NUCLEO-H7S3L8 and STM32H7S78-DK, we hadn t seen any boards based on it. The ART-Pi II development board changes that. It s a compact board powered by an STM32H7R7L8H microcontroller paired with 32 MB HyperRAM and 64 MB HyperFlash, and featuring a microSD card slot, WiFi 4 and Bluetooth 5.1 connectivity, two USB-C ports (OTG and Debug), a 40-pin Raspberry Pi-compatible GPIO header, a 28-pin GPIO header, two Qwiic connectors, and an on-board debugger. ART-Pi II board specifications: MCU STMicro STM32H7R7L8H CPU core Arm Cortex-M7 @ up to 600 MHz GPU NeoChrom 2.5D GPU Memory 64 KB flash Storage 620 KB SRAM Package TFBGA225 Memory 32 MB HyperRAM Storage [...] The post ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/21/art-pi-ii-development-board-features-600-mhz-stm32h7r7-cortex-m7-mcu-with-neochrom-gpu/",
+    "title": "Behind the scenes at Nvidia's Engineering SuperLab Vera Rubin NVL72 running OpenAI workloads, 800VDC demonstrated, and more",
+    "summary": "Nvidia gave Tom s Hardware an exclusive look inside its previously undisclosed Engineering SuperLab near Nvidia HQ, where we saw Vera Rubin NVL72 in action.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/behind-the-scenes-at-nvidias-engineering-superlab-vera-rubin-nvl72-running-openai-workloads-800vdc-demonstrated-and-more",
     "categories": [
-      "Hardware",
-      "Semiconductors"
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-22T10:50:02.526621"
+  },
+  {
+    "title": "Nvidia details Rubin architectural optimizations for inference improvements target better performance and efficiency from the GPU to the rack",
+    "summary": "Nvidia has detailed new features of its Rubin architecture.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-details-rubin-architectural-optimizations-for-inference-improvements-target-better-performance-and-efficiency-from-the-gpu-to-the-rack",
+    "categories": [
+      "AI & ML",
+      "GPUs"
     ],
     "quality_score": 15,
-    "processed_date": "2026-07-21T10:48:30.484954"
+    "processed_date": "2026-07-22T10:50:02.526699"
   },
   {
-    "title": "nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs",
-    "summary": "nRF54L Arduino Core is an open-source project designed to bring Arduino support for Nordic Semiconductor nRF54L wireless SoCs, starting with Seeed Studio s XIAO nRF54L15 (Sense) and XIAO nRF54LM20A (Sense) boards, as well as compatible Holyiot nRF54L15 modules. Since the launch of the nRF52840-based Arduino Nano 33 BLE board in 2019, Nordic nRF52 wireless microcontrollers have been officially supported by the Arduino IDE. However, it s not quite the case for the newer nRF54L Cortex-M33 microcontrollers. Lolren has decided to change that with the unofficial nRF54 Arduino core project. nRF54L Arduino Core highlights: Dual-core access Use the 128 MHz Cortex-M33 application CPU and the VPR RISC-V coprocessor without adopting a vendor RTOS Wireless Bluetooth LE support Peripheral, central, dual-role, GATT server/client, HID, BLE UART, PHY/DLE/MTU control, LE Secure Connections, bonding, OOB, Numeric Comparison, privacy/RPA, and CSRK signed writes Experimental support for Zigbee Partial stack and device demonstrations; incomplete Zigbee [...] The post nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/21/nrf54l-arduino-core-project-brings-arduino-support-to-nordic-semi-nrf54l-wireless-socs/",
+    "title": "Nvidia deep dives Vera CPU for AI data centers SPEC CPU 2026 benchmarks revealed, Olympus architecture specifics, and more",
+    "summary": "Nvidia reveals all of the details about its Vera data center CPU, including an architectural breakdown of the Olympus core and the first (unofficial) SPEC CPU 2026 results.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-22T10:50:02.526790"
+  },
+  {
+    "title": "Nvidia has shipped 'hundreds of thousands of Grace standalone servers GPU firm pivots messaging as CPUs take center stage in agentic data centers",
+    "summary": "As Nvidia continues to roll out Vera, its first custom CPU for agentic AI, it revealed that its last-gen Grace design has seen mass deployments, even as a standalone CPU for non-agentic workloads.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-has-shipped-hundreds-of-thousands-of-grace-standalone-servers-gpu-firm-pivots-messaging-as-cpus-take-center-stage-in-agentic-data-centers",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-22T10:50:02.526886"
+  },
+  {
+    "title": "Kimi K3 rocks the AI industry as Moonshot AI undercuts closed-source American competitors on price but the huge 2.8T open-weight model still needs serious hardware to deploy at scale",
+    "summary": "The trend towards larger AI models continues, with China's new Kimi K3 model. With its trillions of parameters, it's just as capable as the best the West has to offer, and it's cheaper. But it's not as fast, giving rise to a new battle to balance performance, efficiency, and cost, alongside sovereign control.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/kimi-k3-rocks-the-ai-industry-as-moonshot-ai-undercuts-closed-source-american-competitors-on-price-but-the-huge-2-8t-open-weight-model-still-needs-serious-hardware-to-deploy-at-scale",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-22T10:50:02.526992"
+  },
+  {
+    "title": "Local AI clustering with Dell's Pro Max GB10 connecting two Nvidia Grace Blackwell to scale out AI compute at home",
+    "summary": "We paired up and tested a pair of Dell's Pro Max with GB10, to see what a small cluster of Nvidia's Spark silicon can do. At $6332 each, as of writing, it's still an expensive prospect, but far cheaper and more desk-friendly than a big server box full of GPUs and the other necessary high-end hardware.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/local-ai-clustering-with-dells-pro-max-gb10-connecting-two-nvidia-grace-blackwell-to-scale-out-ai-compute-at-home",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-22T10:50:02.527091"
+  },
+  {
+    "title": "Anthropic hit with largest-ever $1.5 billion penalty in copyright lawsuit court says training AI on published material is fair use, but startup s pirated library infringes on authors rights",
+    "summary": "The settlement was finally approved by a U.S. federal judge, with a majority of the plaintiffs accepting the amount. A few members of the group refused, citing the small amount compared to the number of infringed titles, and are pursuing a separate lawsuit of their own.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-slapped-with-usd1-5-billion-settlement-in-copyright-lawsuit-largest-payout-ever-court-says-that-training-ai-on-books-other-publications-is-fair-use-but-ruled-that-the-startups-7-million-book-pirated-library-infringes-authors-rights",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-22T10:50:02.527191"
+  },
+  {
+    "title": "Intel to co-develop and manufacture Fortinet's next-gen firewall ASIC on Intel 4 node gets its first named external customer",
+    "summary": "SP6 will draw on what the companies described as Intel's expertise in disaggregated semiconductor design and advanced packaging.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-22T10:50:02.527273"
+  },
+  {
+    "title": "Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon",
+    "summary": "Chinese AI developer Z.ai (formerly Zhipu) has finished building a 1GW data center stocked exclusively with domestically made chips and has switched part of it on.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-powers-up-1gw-ai-data-center-built-entirely-on-chinese-chips",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-22T10:50:02.527375"
+  },
+  {
+    "title": "TSMC eyes price hikes of up to 25% on chip production services in 2027, report claims plans to raise baseline prices by 5% to 10% on advanced nodes",
+    "summary": "TSMC reportedly intends to increase prices of wafers it processes citing demand, rising costs, and increased investments in new capacity.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-prices-by-5-percent-to-10-percent-on-advanced-nodes",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-22T10:50:02.527458"
+  },
+  {
+    "title": "Intel layoffs to hit Data Center group division focused on server CPUs, AI chips, and data center architecture to be hit by an unknown number of cuts",
+    "summary": "Intel plans to cut the employee numbers of its Data Center group, months after announcing record growth since its disastrous announcement in 2024.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/intel-layoffs-to-hit-data-center-group-division-focused-on-server-cpus-ai-chips-and-data-center-architecture-to-be-hit-by-an-unknown-number-of-cuts",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-22T10:50:02.527543"
+  },
+  {
+    "title": "Save $400 on a new 14-inch MacBook Pro M5 48GB of RAM, a 1TB SSD, and a 16-core processor for $2,699",
+    "summary": "Save a whopping $400 on a brand-new Apple MacBook Pro at B&H Photo. This 14-inch beast uses the latest 16-core M5 chip and 48GB of RAM.",
+    "link": "https://www.tomshardware.com/laptops/macbooks/save-usd400-on-a-new-14-inch-macbook-pro-m5-48gb-of-ram-a-1tb-ssd-and-a-16-core-processor-for-usd2-699",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.485122"
+    "processed_date": "2026-07-22T10:50:02.527631"
   },
   {
-    "title": "Robots in the news: What s bigger now is focus on sensory bots",
-    "summary": "Robotic sensing to double to $4.39B by 2032: SNS Insider",
-    "link": "https://www.fiercesensors.com/sensors-fusion/robots-news-whats-bigger-now-focus-sensory-bots",
+    "title": "1994 Sega 32X gets first-person Backrooms game with raycasting engine retro hardware tour de force includes yellow rooms, buzzing fluorescents, endless procedurally generated levels",
+    "summary": "Developer PaisleyBoxers has released Backrooms 32X, with the strap line 'welcome to the cutting edge of 1994.' This is a Sega 32X game set in the Backrooms, the internet phenomenon given a huge boost with the release of the psychological horror indie film earlier this year.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/1994-sega-32x-gets-first-person-backrooms-game-with-raycasting-engine-retro-hardware-tour-de-force-includes-yellow-rooms-buzzing-fluorescents-endless-procedurally-generated-levels",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-21T10:48:30.486093"
-  },
-  {
-    "title": "Best of Sensors Q&A: ST named Company of the Year",
-    "summary": "STMicroelectronics was named Company of the Year at the Best of Sensors 26 Awards where it was honored for product innovation and bold execution, including the purchase of NXP s MEMS sensors business.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/best-sensors-qa-st-named-company-year",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-21T10:48:30.486242"
-  },
-  {
-    "title": "Refuse to sell access to your land for an AI data center transmission line and power companies may force access anyway",
-    "summary": "While 70% of Americans are now opposed to data centers being built near their homes, it's not just the enormous, pollution-and-noise-spewing buildings they're against. There's also the required new power infrastructure, such as transmission lines that often need to cross private property. Read Entire Article",
-    "link": "https://www.techspot.com/news/113184-refuse-sell-access-land-ai-data-center-transmission.html",
-    "categories": [
+      "Hardware",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.486651"
+    "quality_score": 10,
+    "processed_date": "2026-07-22T10:50:02.527733"
   },
   {
-    "title": "Researchers create a drone that becomes almost invisible by spinning 25 times per second",
-    "summary": "Rather than using camouflage, transparent panels, or Predator-style light-bending materials, Phantom Twist exploits motion blur and the limits of human vision. Read Entire Article",
-    "link": "https://www.techspot.com/news/113173-researchers-create-drone-becomes-almost-invisible-spinning-25.html",
+    "title": "SMIC's third-gen 7nm node shows smaller metal pitch than Intel 18A, higher transistor density than TSMC N6 without EUV analysis of N+3 shows significant advancement for Chinese semi manufacturing",
+    "summary": "SMIC's N+3 process technology can achieve transistor density comparable to TSMC's N6 without using EUV lithography, but it fails to deliver performance or efficiency of modern production nodes.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/smics-third-gen-7nm-node-shows-smaller-metal-pitch-than-intel-18a-higher-transistor-density-than-tsmc-n6-without-euv-analysis-of-n-3-shows-significant-advancement-for-chinese-semi-manufacturing",
     "categories": [
-      "Tech News"
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-22T10:50:02.527824"
+  },
+  {
+    "title": "Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90",
+    "summary": "Arduino UNO Q Arcade bundle is a kit designed to build a custom retro gaming console. The bundle combines the Arduino UNO Q 4GB SBC with a set of daisy-chainable Modulino I2C modules, allowing users to create a custom game controller without requiring complex wiring or breadboards. The kit relies on Qwiic connectors to daisy-chain the input modules, whose data is then processed by the UNO Q to emulate standard HIDs for gaming or development. The plastic parts can be 3D printed by the user. Arduino UNO Q Arcade bundle contents: Arduino UNO Q 4GB A Qualcomm Dragonwing QRB2210 SBC with an onboard eMMC, running Debian Linux Modulino Joystick An I2C node configurable for simulating D-pad inputs or mouse cursor movements Modulino Buttons An I2C node for mapping single keystrokes, multi-key shortcuts, or mouse clicks Modulino Movement A 6-axis IMU node for motion-based mouse control Note: [...] The post Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90 appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/22/arduino-uno-q-arcade-bundle-lets-you-build-a-custom-retro-gaming-console/",
+    "categories": [
+      "Hardware",
+      "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-21T10:48:30.486750"
+    "processed_date": "2026-07-22T10:50:02.528285"
   },
   {
-    "title": "7-Zip patches a flaw that could run malware just from opening a bad file",
-    "summary": "Researchers have uncovered a fresh vulnerability in the open-source file archiver. The bug lies in the decompression routine for XZ data, where a buffer overflow could eventually let attackers run malicious code remotely. A patch is already out, though 7-Zip still has no built-in auto-update mechanism users have to... Read Entire Article",
-    "link": "https://www.techspot.com/news/113175-7-zip-patches-flaw-could-run-malware-opening.html",
+    "title": "ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD",
+    "summary": "Previously offered with AMD Ryzen 5/7/9 CPUs, the ACEMAGICIAN Kron K1 mini PC has now gotten a low-cost version based on the AMD Ryzen R2544 quad-core processor paired with 8GB DDR4 and a 256GB SSD and sold for just $279.99 on Amazon. With everything going up in price, companies are trying to offer more affordable systems. ACEMAGICIAN has decided to use a processor from the Ryzen Embedded R2000 family introduced in 2022 that s typically found in industrial-grade modules and motherboards such as the AAEON COM-R2KC6 COM Express module or the Kontron D3723-R mini-ITX motherboard. ACEMAGICIAN Kron K1 R2544 specifications: SoC AMD Ryzen Embedded R2544 CPU Quad-core/eight-thread processor @ 3.35 / 3.7 GHz (Turbo) GPU 8-core AMD Radeon Vega Graphics TDP 45 Watts System Memory 8GB DDR4 RAM pre-installed Upgradeable up to 64GB via two DDR4 SO-DIMM sockets Storage 256GB M.2 SSD pre-installed 2x M.2 2280 slots: [...] The post ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/22/acemagician-kron-k1-mini-pc-gets-low-cost-variant-with-amd-ryzen-r2544-cpu-8gb-ddr4-256gb-ssd/",
     "categories": [
-      "Tech News"
+      "Hardware",
+      "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-21T10:48:30.486865"
+    "processed_date": "2026-07-22T10:50:02.528463"
   },
   {
-    "title": "FluentCleaner ditches the bloat with a new 3.5 MB Classic edition",
-    "summary": "FluentCleaner Classic swaps the WinUI 3 shell for a portable 3.5 MB WinForms build on .NET Framework 4.8, no runtime install needed. Same cleaning engine, just far less overhead than the standard app's 140 MB footprint. The result is a fast, no-frills cleaner that runs on virtually any Windows installation. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7876-fluentcleaner.html",
+    "title": "Raspberry Pi Touch Display 2 10 Portrait review, 3D printed VESA mount",
+    "summary": "Raspberry Pi has just announced the Raspberry Pi Touch Display 2 10 Portrait , and we ve received an early review sample for testing. The new 10.1-inch Raspberry Pi Touch Display 2 is a multi-touch portrait panel for Raspberry Pi designed for interactive projects such as tablets, entertainment systems, and information dashboards. The new 10.1-inch model follows the original 7-inch Raspberry Pi Touch Display 2 launched in 2024 and the 5-inch Raspberry Pi Touch Displays 2 introduced in 2025. I reviewed the 7-inch model with the Raspberry Pi AI camera and a Pi 4, and I just gave away the 5-inch variant. In this short review, I ll show how to mount a Raspberry Pi 5 to the Raspberry Pi Touch Display 2 10 Portrait, install it on a VESA mount, and test features such as 10-pin capacitive touch and display orientation. But let s start with the specifications first. Raspberry Pi [...] The post Raspberry Pi Touch Display 2 10 Portrait review, 3D printed VESA mount appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 25,
+    "processed_date": "2026-07-22T10:50:02.528609"
+  },
+  {
+    "title": "NVIDIA increases the price of Jetson modules and devkits by up to 101%",
+    "summary": "A few months ago, NVIDIA phased out several Jetson modules due to high LPDDR4 prices, and now the company has decided to increase the prices on all its Jetson modules and developer kits by up to 101%. There was no specific announcement about the price, but the updated prices are available in the FAQ on the NVIDIA developer website. This was initially spotted by a reader at VideoCardz, and the table below shows the old and new prices, as well as the percentage increase. The table above is sortable. The highest price increases in percentage terms are for the Jetson Nano module (101% from $99 to $199) and the Jetson AGX Orin 32GB module (100% from $899 to $1,799). The Jetson Nano module is still the cheapest option, and the most powerful and expensive part is the Jetson AGX Thor Developer Kit. The popular Jetson Orin Nano Super Developer Kit, [...] The post NVIDIA increases the price of Jetson modules and devkits by up to 101% appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-22T10:50:02.528753"
+  },
+  {
+    "title": "Argonaut will use lidar to dodge lunar boulders, rough terrain",
+    "summary": "MDA Space announced it won preliminary approval for use of its LEIA lidar in the inaugural Argonaut mission",
+    "link": "https://www.fiercesensors.com/embedded/argonaut-will-use-lidar-dodge-lunar-boulders-rough-terrain",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-22T10:50:02.529755"
+  },
+  {
+    "title": "AMD Ryzen 7 7700X3D Review: The Budget 3D V-Cache King",
+    "summary": "AMD's Ryzen 7 7700X3D revives Zen 4 with a lower-clocked take on the 7800X3D. We benchmark 13 games to see how much performance it gives up and whether it still belongs in a modern gaming PC. Read Entire Article",
+    "link": "https://www.techspot.com/review/3150-amd-ryzen-7700x3d/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-07-22T10:50:02.530149"
+  },
+  {
+    "title": "France just voted to ban kids under 15 from social media, but Australia's ban shows how hard that is to enforce",
+    "summary": "France's Parliament gave final approval on Tuesday to a law banning children under age 15 from social media, with the National Assembly voting 279 to 81 after the Senate had approved the text earlier the same day. The vote followed the Assembly's initial approval of the bill in January by... Read Entire Article",
+    "link": "https://www.techspot.com/news/113193-france-voted-ban-kids-under-15-social-media.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.486967"
+    "processed_date": "2026-07-22T10:50:02.530274"
   },
   {
-    "title": "Windows 11 bloat proves too much for Microsoft's new 8GB Surface Laptop",
-    "summary": "According to The Verge, 8GB of memory works mostly fine for basic tasks such as web browsing, text editing, and video streaming on YouTube and other streaming platforms. However, the laptop would hang or freeze \"for several seconds\" whenever someone joined a video call on Microsoft Teams. Read Entire Article",
-    "link": "https://www.techspot.com/news/113177-windows-11-bloat-proves-much-microsoft-new-8gb.html",
+    "title": "One in six Windows PCs still runs Windows 10, and the vulnerabilities are piling up",
+    "summary": "Asset management company Lansweeper recently sounded the alarm on Windows 10, noting that a lot of organizations still haven't upgraded to Windows 11. A significant portion of PCs, or roughly 17% of all Windows client devices, per Lansweeper's research, are still running Windows 10. Put simply, about one in six... Read Entire Article",
+    "link": "https://www.techspot.com/news/113191-one-six-windows-pcs-runs-windows-10-vulnerabilities.html",
     "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-22T10:50:02.530419"
+  },
+  {
+    "title": "Der8auer converts $7,000 RTX 5090 Lightning Z to custom water cooling, drops temps by 11 C",
+    "summary": "The modified waterblock, once hooked up to the PC's custom water-cooling loop, brought the operating temperature of the MSI RTX 5090 Lightning Z down from 64 degrees to around 53 degrees. That result was measured at 800W under full load, though der8auer believes it would hold up similarly even in... Read Entire Article",
+    "link": "https://www.techspot.com/news/113188-der8auer-converts-7000-rtx-5090-lightning-z-custom.html",
+    "categories": [
+      "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.487069"
+    "processed_date": "2026-07-22T10:50:02.530544"
   },
   {
-    "title": "Marvel drops the first Avengers: Doomsday trailer, set to open against Dune: Part Three this December",
-    "summary": "The trailer is packed with reunions and dramatic entrances. Patrick Stewart and Ian McKellen are back as Professor X and Magneto, James Marsden's Cyclops finally gets to cause some large-scale destruction, and Channing Tatum returns as Gambit. Thor delivers an ominous warning about an enemy unlike anything the heroes have... Read Entire Article",
-    "link": "https://www.techspot.com/news/113176-marvel-drops-first-avengers-doomsday-trailer-set-open.html",
+    "title": "OpenAI's ambitious ad revenue goals look like AI-generated money, analysis says",
+    "summary": "A new market analysis from consulting firm Emarketer casts serious doubt on OpenAI's advertising revenue targets. The company began testing ads in ChatGPT in February, adding another revenue stream as it looks for ways to offset the enormous cost of operating its AI services. Emarketer's forecast suggests that OpenAI's internal... Read Entire Article",
+    "link": "https://www.techspot.com/news/113182-openai-ambitious-ad-revenue-goals-look-like-ai.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-22T10:50:02.530669"
+  },
+  {
+    "title": "Microsoft just open-sourced the app that made Comic Sans famous",
+    "summary": "Microsoft has open-sourced Comic Chat, its quirky 1996 IRC client that turned text conversations into comic strips with cartoon avatars, speech bubbles, and dynamic panel layouts. Now released under the MIT License, the project can be explored, preserved, and even modernized by developers and retro computing enthusiasts. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7891-microsoft-comic-chat.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-22T10:50:02.530803"
+  },
+  {
+    "title": "NAND shortages could finally ease in 2027, but ADATA warns the DRAM crisis may last another 10 years",
+    "summary": "TrendForce's latest NAND flash report is a rare piece of good news for those hoping SSD prices will eventually return to something approaching normal. The analyst firm says the market will remain undersupplied throughout 2026, recording a supply deficit of between 4% and 5%, as booming AI demand clashes with limited capacity expansion. Read Entire Article",
+    "link": "https://www.techspot.com/news/113186-nand-shortages-could-finally-ease-2027-but-adata.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.487189"
+    "processed_date": "2026-07-22T10:50:02.530929"
   },
   {
-    "title": "A new coding contest challenges developers to fit an entire game onto a 1.44MB floppy disk",
-    "summary": "Korean website 2P Game Arcade recently launched a new \"1.44MB Game Dev Contest.\" The challenge is simple: developers must create an entire game that fits on a single floppy disk. The maximum file size is 1,474,560 bytes, matching the capacity of the 3.5-inch high-density floppy disks commonly used with IBM-compatible... Read Entire Article",
-    "link": "https://www.techspot.com/news/113172-new-coding-contest-challenges-developers-fit-entire-game.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-21T10:48:30.487324"
-  },
-  {
-    "title": "CD sales are up 16%, but half the buyers don't even own a CD player",
-    "summary": "Much of the growth can be attributed to younger buyers, but here's the unexpected part. According to the market research firm, roughly half of Gen Z and Millennial CD buyers don't even own a CD player. So, why are people buying CDs without a way to listen to them? Read Entire Article",
-    "link": "https://www.techspot.com/news/113174-cds-keep-selling-us-even-though-many-fans.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-21T10:48:30.487437"
-  },
-  {
-    "title": "AWS billing goes haywire, hits customers with bills as high as $7.8 trillion",
-    "summary": "Bill Radjewski, who runs CollegeFootballData.com, received the sort of email most of us would rather not receive last week: an AWS alert informing him that he had accrued $1.5 billion in usage fees. Should he manage to win several lotteries and somehow pay it, he was still expected to face... Read Entire Article",
-    "link": "https://www.techspot.com/news/113170-aws-billing-goes-haywire-hits-customers-bills-high.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.487541"
-  },
-  {
-    "title": "Samsung cuts hundreds of US jobs while AI boom sends chip profits soaring",
-    "summary": "Samsung Electronics America said 739 roles at its Englewood Cliffs, New Jersey, offices have been affected by the relocation. The majority of those workers have been offered positions in Texas, though others have been laid off. Around 100 employees at Samsung's Plano, Texas, site, including staff from the mobile division,... Read Entire Article",
-    "link": "https://www.techspot.com/news/113171-samsung-cuts-hundreds-us-jobs-while-ai-boom.html",
+    "title": "Samsung finally has its own credit card, seven years after Apple",
+    "summary": "The company's first credit card will be issued via Barclays US Consumer Bank over the Visa network. It'll be available as a fully virtual product, although a physical metal card is also available in black featuring Samsung branding on the front. Read Entire Article",
+    "link": "https://www.techspot.com/news/113187-samsung-unveils-galaxy-card-take-apple-credit-card.html",
     "categories": [
       "AI & ML",
-      "Semiconductors"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-21T10:48:30.487647"
+    "processed_date": "2026-07-22T10:50:02.531013"
+  },
+  {
+    "title": "Fire departments are testing autonomous drones that fight wildfires before crews even arrive",
+    "summary": "A California company recently began demonstrating a system that allows firefighters to direct autonomous drones to combat wildfires. While departments already use observation drones, deploying them to fight fires directly remains an unexplored tactic. Read Entire Article",
+    "link": "https://www.techspot.com/news/113180-us-fire-departments-test-autonomous-drones-fight-wildfires.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-22T10:50:02.531103"
+  },
+  {
+    "title": "Nvidia is giving developers more control over DLSS 5, after accusations it turns games into \"AI slop\"",
+    "summary": "Nvidia used its SIGGRAPH 2026 keynote to demonstrate the controls that developers will receive when DLSS 5 launches this fall. The two main global sliders are Structure Intensity and Tone Intensity, which essentially determines how enthusiastically the AI repaints a frame. Read Entire Article",
+    "link": "https://www.techspot.com/news/113185-amid-dlss-5-backlash-nvidia-shows-off-controls.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-22T10:50:02.531198"
+  },
+  {
+    "title": "Sony's digital-only future angers fans, but physical PlayStation games are barely selling",
+    "summary": "Circana analyst Mat Piscatella recently stated that only seven PlayStation games have sold more than 100,000 physical copies in the first half of 2026. Only two sold more than 10,000 during the week ending July 11, potentially vindicating Sony's claim that PlayStation owners overwhelmingly prefer digital purchases. Read Entire Article",
+    "link": "https://www.techspot.com/news/113181-sony-digital-only-future-angers-fans-but-physical.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-22T10:50:02.531289"
+  },
+  {
+    "title": "What was the world's first digital and programmable robot?",
+    "summary": "It was stationed at General Motors and sold at a loss. Read Entire Article",
+    "link": "https://www.techspot.com/trivia/31-what-world-first-digital-programmable-robot/",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-22T10:50:02.531387"
   }
 ]
