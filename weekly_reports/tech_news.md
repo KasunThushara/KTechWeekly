@@ -1,95 +1,85 @@
 # 📰 Tech News
-**Week of July 22, 2026**
+**Week of July 23, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 8
-- **Report generated:** 2026-07-22 10:51
+- **Articles this week:** 7
+- **Report generated:** 2026-07-23 10:52
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Raspberry Pi Touch Display 2 10 Portrait review, 3D printed VESA mount ⭐
+### 1. Palworld's 1.0 launch is bringing back nearly a million players 
 
-The Raspberry Pi Touch Display 2 10 Portrait review showcases the 10.1-inch multi-touch panel's features, including 10-pin capacitive touch and display orientation. It also demonstrates a 3D printed VESA mount for easy installation. This review provides an early look at the new display model.
+Palworld 1.0 launched on July 10, attracting nearly a million players. The game peaked at 855,525 concurrent players on launch weekend and climbed to 961,867 on July 19. SteamDB figures show a significant increase in player count.
 
-💡 *Raspberry Pi expands its display options with a 10.1-inch touch panel solution*
+💡 *Palworld's success highlights strong demand for monster-taming games.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/)
-
----
-
-### 2. Amazon data center in Bahrain struck and destroyed by Iranian cruise missiles, state media claims attacks launched against AWS site in response to alleged US strikes on an under-construction nuclear plant 
-
-Amazon's AWS site in Bahrain allegedly targeted by Iranian cruise missiles, with state media claiming a 'destroyed' facility, but operations were already relocated since April.
-
-💡 *Cybersecurity risks escalate in region due to escalating military conflicts.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/amazon-data-center-in-bahrain-struck-and-destroyed-by-iranian-cruise-missiles-state-media-claims-attacks-launched-against-aws-site-in-response-to-alleged-us-strikes-on-an-under-construction-nuclear-plant)
+🔗 [Read Full Article](https://www.techspot.com/news/113200-palworld-10-launch-bringing-back-nearly-million-players.html)
 
 ---
 
-### 3. Microsoft just open-sourced the app that made Comic Sans famous 
+### 2. Data centers on track to consume 20% of US power by 2035 
 
-Microsoft has open-sourced Comic Chat, its 1996 IRC client that turned text conversations into comic strips.
+US data centers are projected to consume 194 gigawatts of power by 2035, an 83% increase from the previous forecast, which is roughly equivalent to the output of 194 traditional nuclear reactors.
 
-💡 *Preserving retro tech for modern developers and enthusiasts to learn from.*
+💡 *Data centers' massive power demand threatens US energy infrastructure.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7891-microsoft-comic-chat.html)
-
----
-
-### 4. Anthropic hit with largest-ever $1.5 billion penalty in copyright lawsuit court says training AI on published material is fair use, but startup s pirated library infringes on authors rights 
-
-A U.S. federal judge approved a $1.5 billion settlement in a copyright lawsuit. A majority of plaintiffs accepted the amount, but some are pursuing further action. The case involved a startup's use of a pirated library of published materials.
-
-💡 *Training AI on published material raises complex questions about fair use and author rights.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-slapped-with-usd1-5-billion-settlement-in-copyright-lawsuit-largest-payout-ever-court-says-that-training-ai-on-books-other-publications-is-fair-use-but-ruled-that-the-startups-7-million-book-pirated-library-infringes-authors-rights)
+🔗 [Read Full Article](https://www.techspot.com/news/113202-data-centers-track-consume-20-us-power-2035.html)
 
 ---
 
-### 5. Argonaut will use lidar to dodge lunar boulders, rough terrain 
+### 3. Oregon will start charging service providers for undersea cables using its sea floor millions accrued over years will go toward state schools 
 
-MDA Space's LEIA lidar technology has received preliminary approval for the Argonaut mission, enabling the spacecraft to navigate lunar boulders and rough terrain more effectively.
+Oregon starts charging for undersea cable use, funding state schools with revenue.
 
-💡 *Enhanced navigation through precise 3D mapping of lunar terrain.*
+💡 *New revenue stream supports public education in Oregon*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/embedded/argonaut-will-use-lidar-dodge-lunar-boulders-rough-terrain)
-
----
-
-### 6. France just voted to ban kids under 15 from social media, but Australia's ban shows how hard that is to enforce 
-
-France's Parliament approved a law banning children under 15 from social media. The law aims to protect young users from online risks and promote healthier digital habits. Enforcement challenges, however, may arise, as seen in Australia's similar ban.
-
-💡 *Enforcing social media bans for minors proves to be a significant challenge.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113193-france-voted-ban-kids-under-15-social-media.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/oregon-will-start-charging-service-providers-for-undersea-cables-using-its-sea-floor-millions-accrued-over-years-will-go-toward-state-schools)
 
 ---
 
-### 7. Samsung finally has its own credit card, seven years after Apple 
+### 4. Grand Theft Auto Multiverse with real-time portals created by ambitious modder San Andreas, Vice City and GTA III all run simultaneously, with cross-game interactions 
 
-Samsung has launched its first credit card, seven years after Apple, in partnership with Barclays US Consumer Bank over the Visa network. The card is available as a virtual product or a physical metal card with Samsung branding. It offers a digital payment experience through the Samsung Pay app.
+A modder named Dryxio has created a groundbreaking mod that connects Grand Theft Auto: San Andreas, Vice City, and GTA III through real-time portals, allowing for seamless cross-game interactions within a single, immersive experience.
 
-💡 *Samsung enters the lucrative credit card market with its first offering.*
+💡 *Innovative modding pushes gaming boundaries with intergame connectivity.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113187-samsung-unveils-galaxy-card-take-apple-credit-card.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/ambitious-modder-creates-grand-theft-auto-multiverse-with-real-time-portals-san-andreas-vice-city-and-gta-iii-all-run-simultaneously-with-cross-game-interactions)
 
 ---
 
-### 8. What was the world's first digital and programmable robot? 
+### 5. Data centers forecast to use 20% of US power by 2035 analysts estimate usage will rocket to 194 gigawatts, 83% more than forecast seven months ago 
 
-The world's first digital and programmable robot was Unimate, stationed at General Motors. It was initially sold at a loss, marking a significant milestone in robotics development. Unimate paved the way for modern industrial robots.
+Data centers are forecast to use 194 gigawatts of US power by 2035, an 83% increase from a previous estimate. This demand is 36% higher than a projection published just seven months prior. The growth is attributed to increased energy consumption.
 
-💡 *Pioneering robots like Unimate transformed manufacturing with digital automation.*
+💡 *Data centers' energy demand is skyrocketing at alarming rates*
 
-🔗 [Read Full Article](https://www.techspot.com/trivia/31-what-world-first-digital-programmable-robot/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/bnef-nearly-doubles-its-us-data-center-power-forecast-to-194gw)
+
+---
+
+### 6. Firefox 153 ESR arrives with major productivity, privacy, and enterprise upgrades 
+
+Firefox 153 ESR arrives with numerous improvements, including profile management and Split View, as well as stronger privacy protections and AI features. These updates aim to enhance user productivity and experience. The new release also includes various platform and enterprise enhancements.
+
+💡 *Major Firefox upgrade boosts productivity and user privacy features*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/4056-firefox-esr.html)
+
+---
+
+### 7. Samsung Galaxy Z Fold 8 and Fold 8 Ultra debut with Flex Titanium displays and Snapdragon 8 Gen 5 
+
+Samsung introduces Galaxy Z Fold 8 and Fold 8 Ultra with improved displays and processors, potentially countering Apple's rumored foldable iPhone.
+
+💡 *Samsung innovates foldable tech to maintain market lead amidst Apple competition*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113204-samsung-galaxy-z-fold-8-fold-8-ultra.html)
 
 ---
 

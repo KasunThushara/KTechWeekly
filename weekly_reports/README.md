@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 22, 2026**
+**Week of July 23, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,84 +7,84 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Raspberry Pi Touch Display 2 10 Portrait review, 3D printed VESA mount ⭐
-
-**📰 Tech News**
-
-The Raspberry Pi Touch Display 2 10 Portrait review showcases the 10.1-inch multi-touch panel's features, including 10-pin capacitive touch and display orientation. It also demonstrates a 3D printed VESA mount for easy installation. This review provides an early look at the new display model.
-
-💡 **Key Point:** Raspberry Pi expands its display options with a 10.1-inch touch panel solution
-
-🔗 [Read More](https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/)
-
----
-
-### 2. Raspberry Pi Touch Display 2 10 Portrait review, 3D printed VESA mount ⭐
+### 1. Icy Electronics nRF54L15 Discovery devboard integrates a snappable nRF52820 CMSIS-DAP debugger ⭐
 
 **💻 Hardware**
 
-The Raspberry Pi Touch Display 2 10 Portrait review showcases the 10.1-inch multi-touch panel's features, including 10-pin capacitive touch and display orientation. It also demonstrates a 3D printed VESA mount for easy installation. This review provides an early look at the new display model.
+The nRF54L15 Discovery is a compact wireless devboard with an onboard CMSIS-DAP debugger for IoT applications, featuring a snap-apart design and advanced power management.
 
-💡 **Key Point:** Raspberry Pi expands its display options with a 10.1-inch touch panel solution
+💡 **Key Point:** Advances IoT development with compact, snap-apart, and highly integrated design.
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/)
+🔗 [Read More](https://www.cnx-software.com/2026/07/23/icy-electronics-nrf54l15-discovery-devboard-integrates-a-snappable-nrf52820-cmsis-dap-debugger/)
 
 ---
 
-### 3. AMD Ryzen 7 7700X3D Review: The Budget 3D V-Cache King ⭐
+### 2. Nvidia's Jensen Huang defends Chinese AI: "Open-source models that are excellent should be used" ⭐
 
 **🎮 GPUs**
 
-The AMD Ryzen 7 7700X3D offers a budget-friendly 3D V-Cache alternative to the 7800X3D. We tested its performance in 13 games to see how it compares. Find out if it still belongs in a modern gaming PC.
+Nvidia's Jensen Huang defends Chinese AI, emphasizing the use of open-source models.
 
-💡 **Key Point:** Budget 3D V-Cache performance for gaming PCs at a lower cost.
+💡 **Key Point:** Open-source AI models gaining recognition in the global AI landscape.
 
-🔗 [Read More](https://www.techspot.com/review/3150-amd-ryzen-7700x3d/)
-
----
-
-### 4. AMD Ryzen 7 7700X3D Review: The Budget 3D V-Cache King ⭐
-
-**💻 Hardware**
-
-The AMD Ryzen 7 7700X3D offers a budget-friendly 3D V-Cache alternative to the 7800X3D. We tested its performance in 13 games to see how it compares. Find out if it still belongs in a modern gaming PC.
-
-💡 **Key Point:** Budget 3D V-Cache performance for gaming PCs at a lower cost.
-
-🔗 [Read More](https://www.techspot.com/review/3150-amd-ryzen-7700x3d/)
+🔗 [Read More](https://www.techspot.com/news/113210-nvidia-jensen-huang-defends-chinese-ai-open-source.html)
 
 ---
 
-### 5. Nvidia details Rubin architectural optimizations for inference improvements target better performance and efficiency from the GPU to the rack ⭐
+### 3. Nvidia's Jensen Huang defends Chinese AI: "Open-source models that are excellent should be used" ⭐
 
 **🤖 AI & ML**
 
-Nvidia has unveiled optimizations in its Rubin architecture for improved inference performance and efficiency, spanning from GPUs to data center racks. These enhancements are designed to accelerate AI and machine learning workloads. The Rubin architecture promises better performance and efficiency across the board.
+Nvidia's Jensen Huang defends Chinese AI, emphasizing the use of open-source models.
 
-💡 **Key Point:** Optimizing Rubin architecture for better inference across entire data center racks.
+💡 **Key Point:** Open-source AI models gaining recognition in the global AI landscape.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-details-rubin-architectural-optimizations-for-inference-improvements-target-better-performance-and-efficiency-from-the-gpu-to-the-rack)
+🔗 [Read More](https://www.techspot.com/news/113210-nvidia-jensen-huang-defends-chinese-ai-open-source.html)
+
+---
+
+### 4. Icy Electronics nRF54L15 Discovery devboard integrates a snappable nRF52820 CMSIS-DAP debugger ⭐
+
+**⚡ Semiconductors**
+
+The nRF54L15 Discovery is a compact wireless devboard with an onboard CMSIS-DAP debugger for IoT applications, featuring a snap-apart design and advanced power management.
+
+💡 **Key Point:** Advances IoT development with compact, snap-apart, and highly integrated design.
+
+🔗 [Read More](https://www.cnx-software.com/2026/07/23/icy-electronics-nrf54l15-discovery-devboard-integrates-a-snappable-nrf52820-cmsis-dap-debugger/)
+
+---
+
+### 5. PlayStation 3 emulator adds support for ATI Radeon HD 2000, 3000, and 4000 series graphics cards on Linux 20-year-old HD 2600 crumbles, can only run Portal at 13 fps in 273p 
+
+**💻 Hardware**
+
+RPCS3 PlayStation 3 emulator now supports older Radeon graphics cards on Linux, allowing gamers with ATI Radeon HD 2000, 3000, and 4000 series GPUs to run the emulator. The minimum system requirements have been adjusted accordingly. However, performance may vary depending on the card's capabilities.
+
+💡 **Key Point:** Older graphics cards can now run PlayStation 3 emulator on Linux
+
+🔗 [Read More](https://www.tomshardware.com/video-games/retro-gaming/playstation-3-emulator-adds-support-for-ati-radeon-hd-2000-3000-and-4000-series-graphics-cards-on-linux-20-year-old-hd-2600-crumbles-can-only-run-portal-at-13-fps-in-273p)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **62 articles** across **5 focused categories**.
+We covered **52 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 21 | Artificial Intelligence and Machine Learning |
+| 🤖 [AI & ML](ai_and_ml.md) | 15 | Artificial Intelligence and Machine Learning |
 | 🎮 [GPUs](gpus.md) | 12 | Graphics cards and compute accelerators |
 | 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 8 | Industry news and product launches |
+| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 21 articles
+*Artificial Intelligence and Machine Learning* — 15 articles
 
 ### 🎮 [GPUs](gpus.md)
 *Graphics cards and compute accelerators* — 12 articles
@@ -93,15 +93,15 @@ We covered **62 articles** across **5 focused categories**.
 *Computing hardware and development boards* — 14 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 7 articles
+*Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 8 articles
+*Industry news and product launches* — 7 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-07-22 at 10:51 by an autonomous AI curation system.
+Generated 2026-07-23 at 10:52 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

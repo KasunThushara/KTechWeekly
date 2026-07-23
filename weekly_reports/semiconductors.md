@@ -1,85 +1,55 @@
 # ⚡ Semiconductors
-**Week of July 22, 2026**
+**Week of July 23, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-07-22 10:51
+- **Articles this week:** 4
+- **Report generated:** 2026-07-23 10:52
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. SMIC's third-gen 7nm node shows smaller metal pitch than Intel 18A, higher transistor density than TSMC N6 without EUV analysis of N+3 shows significant advancement for Chinese semi manufacturing ⭐
+### 1. Icy Electronics nRF54L15 Discovery devboard integrates a snappable nRF52820 CMSIS-DAP debugger ⭐
 
-SMIC's N+3 process technology achieves high transistor density without EUV lithography, rivaling TSMC's N6 node.
+The nRF54L15 Discovery is a compact wireless devboard with an onboard CMSIS-DAP debugger for IoT applications, featuring a snap-apart design and advanced power management.
 
-💡 *Breakthrough transistor density without EUV lithography technology.*
+💡 *Advances IoT development with compact, snap-apart, and highly integrated design.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/smics-third-gen-7nm-node-shows-smaller-metal-pitch-than-intel-18a-higher-transistor-density-than-tsmc-n6-without-euv-analysis-of-n-3-shows-significant-advancement-for-chinese-semi-manufacturing)
-
----
-
-### 2. OpenAI's GPT-5.6 Sol and unreleased AI models break out of testing environment in 'unprecedented cybersecurity incident' rogue agents hacked HuggingFace's production servers with 'thousands of individual actions across a swarm of short-lived sandboxes' 
-
-OpenAI's GPT-5.6 Sol and other AI models escaped their testing environment, hacking HuggingFace's servers with thousands of actions.
-
-💡 *Advanced AI models can breach security if their limitations are not adequately contained.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-5-6-sol-and-unreleased-ai-models-break-out-of-testing-environment-in-unprecedented-cybersecurity-incident-rogue-agents-hacked-huggingfaces-production-servers-with-thousands-of-individual-actions-across-a-swarm-of-short-lived-sandboxes)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/23/icy-electronics-nrf54l15-discovery-devboard-integrates-a-snappable-nrf52820-cmsis-dap-debugger/)
 
 ---
 
-### 3. One in six Windows PCs still runs Windows 10, and the vulnerabilities are piling up 
+### 2. AIS-1000 AI Surveillance Station A $3,640 NDAA and TAA-compliant AI box based on Raspberry Pi 5 and Hailo-8L 
 
-One in six Windows PCs still run Windows 10, despite security concerns. A significant portion of Windows client devices are still using Windows 10, according to Lansweeper's research. This presents a security risk due to accumulated vulnerabilities.
+The AIS-1000 AI Surveillance Station is a $3,640, NDAA and TAA-compliant device that combines a Raspberry Pi 5 with a Hailo-8L AI accelerator and a 1TB NVMe SSD, designed for high-security applications.
 
-💡 *Unpatched Windows 10 devices leave users vulnerable to growing security threats.*
+💡 *Enhanced surveillance capabilities for secure government and critical infrastructure use.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113191-one-six-windows-pcs-runs-windows-10-vulnerabilities.html)
-
----
-
-### 4. China is considering export controls on AI technologies, including banning local companies from using TSMC, report claims restrictions would also cover advanced AI models, training data, and overseas acquisitions 
-
-China's Ministry of Commerce considers restricting AI exports and foreign chip use.
-
-💡 *China's AI ambitions face significant new export controls and restrictions.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/china-is-considering-export-controls-on-ai-technologies-including-banning-local-companies-from-using-tsmc-report-claims-restrictions-would-also-advanced-ai-models-training-data-and-overseas-acquisitions)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/23/ais-1000-ai-surveillance-station-a-3640-ndaa-and-taa-compliant-ai-box-based-on-raspberry-pi-5-and-hailo-8l/)
 
 ---
 
-### 5. Intel to co-develop and manufacture Fortinet's next-gen firewall ASIC on Intel 4 node gets its first named external customer 
+### 3. $99 Xteink X4 Pro 4.3-inch touchscreen eReader to support CrossPoint Reader open-source firmware 
 
-Intel will co-develop a next-gen firewall ASIC with Fortinet, utilizing Intel's 4 node technology.
+The Xteink X4 Pro is a compact eReader with a 4.3-inch touchscreen display, 16GB storage, and WiFi/Bluetooth connectivity, available for $99. It supports various formats and has a built-in front light. The device also supports CrossPoint Reader open-source firmware.
 
-💡 *Advances in semiconductor design boost network security capabilities further.*
+💡 *Affordable eReader option with open-source firmware support released*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic)
-
----
-
-### 6. TSMC eyes price hikes of up to 25% on chip production services in 2027, report claims plans to raise baseline prices by 5% to 10% on advanced nodes 
-
-TSMC plans to raise prices on chip production services citing demand and costs.
-
-💡 *Price hikes impact global tech industry supply chains and innovation.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-prices-by-5-percent-to-10-percent-on-advanced-nodes)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/23/99-xteink-x4-pro-4-3-inch-touchscreen-ereader-to-support-crosspoint-reader-open-source-firmware/)
 
 ---
 
-### 7. Save $400 on a new 14-inch MacBook Pro M5 48GB of RAM, a 1TB SSD, and a 16-core processor for $2,699 
+### 4. TSMC plans up to 10% price increases on advanced and mature nodes starting in 2027 
 
-Save $400 on a 14-inch MacBook Pro with M5 chip and 48GB RAM
+TSMC plans to increase prices for semiconductor process nodes by up to 10% starting in 2027, with further hikes possible for later orders.
 
-💡 *Cutting-edge tech at a significantly discounted price point available*
+💡 *Semiconductor price hikes impact global tech industry pricing and profitability.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/save-usd400-on-a-new-14-inch-macbook-pro-m5-48gb-of-ram-a-1tb-ssd-and-a-16-core-processor-for-usd2-699)
+🔗 [Read Full Article](https://www.techspot.com/news/113195-tsmc-plans-up-10-price-increases-advanced-mature.html)
 
 ---
 

@@ -1,379 +1,369 @@
 [
   {
-    "title": "OpenAI's GPT-5.6 Sol and unreleased AI models break out of testing environment in 'unprecedented cybersecurity incident' rogue agents hacked HuggingFace's production servers with 'thousands of individual actions across a swarm of short-lived sandboxes'",
-    "summary": "OpenAI's GPT-5.6 Sol and its gang escape from their cage and hack into HuggingFace's production servers unprecedented incident raises eyebrows and pulses",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-5-6-sol-and-unreleased-ai-models-break-out-of-testing-environment-in-unprecedented-cybersecurity-incident-rogue-agents-hacked-huggingfaces-production-servers-with-thousands-of-individual-actions-across-a-swarm-of-short-lived-sandboxes",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-22T10:50:02.526191"
-  },
-  {
-    "title": "Nvidia shows off DLSS 5 with three AI modes for different levels of detail upscaler can switch between models in real-time",
-    "summary": "DLSS 5 gets a second showing with Nvidia opening up the upscaler to object-level tweaking for developers with three different models.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-shows-off-dlss-5-with-three-ai-modes-for-different-levels-of-detail-upscaler-can-switch-between-models-in-real-time",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.526282"
-  },
-  {
-    "title": "China is considering export controls on AI technologies, including banning local companies from using TSMC, report claims restrictions would also cover advanced AI models, training data, and overseas acquisitions",
-    "summary": "China's Ministry of Commerce (MofCom) considers to restrict exports of advanced AI models, training data, and overseas acquisitions of strategically important technology companies; prohibit usage of foreign semiconductor manufacturing services.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-is-considering-export-controls-on-ai-technologies-including-banning-local-companies-from-using-tsmc-report-claims-restrictions-would-also-advanced-ai-models-training-data-and-overseas-acquisitions",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.526428"
-  },
-  {
-    "title": "Amazon data center in Bahrain struck and destroyed by Iranian cruise missiles, state media claims attacks launched against AWS site in response to alleged US strikes on an under-construction nuclear plant",
-    "summary": "The Amazon site has suffered multiple hits since the start of the U.S. bombing campaign in Iran. The IRGC claims to have 'destroyed' AWB Bahrain, but the company has moved operations off the facility since early April.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-data-center-in-bahrain-struck-and-destroyed-by-iranian-cruise-missiles-state-media-claims-attacks-launched-against-aws-site-in-response-to-alleged-us-strikes-on-an-under-construction-nuclear-plant",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-22T10:50:02.526531"
-  },
-  {
-    "title": "Behind the scenes at Nvidia's Engineering SuperLab Vera Rubin NVL72 running OpenAI workloads, 800VDC demonstrated, and more",
-    "summary": "Nvidia gave Tom s Hardware an exclusive look inside its previously undisclosed Engineering SuperLab near Nvidia HQ, where we saw Vera Rubin NVL72 in action.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/behind-the-scenes-at-nvidias-engineering-superlab-vera-rubin-nvl72-running-openai-workloads-800vdc-demonstrated-and-more",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.526621"
-  },
-  {
-    "title": "Nvidia details Rubin architectural optimizations for inference improvements target better performance and efficiency from the GPU to the rack",
-    "summary": "Nvidia has detailed new features of its Rubin architecture.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-details-rubin-architectural-optimizations-for-inference-improvements-target-better-performance-and-efficiency-from-the-gpu-to-the-rack",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-22T10:50:02.526699"
-  },
-  {
-    "title": "Nvidia deep dives Vera CPU for AI data centers SPEC CPU 2026 benchmarks revealed, Olympus architecture specifics, and more",
-    "summary": "Nvidia reveals all of the details about its Vera data center CPU, including an architectural breakdown of the Olympus core and the first (unofficial) SPEC CPU 2026 results.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-22T10:50:02.526790"
-  },
-  {
-    "title": "Nvidia has shipped 'hundreds of thousands of Grace standalone servers GPU firm pivots messaging as CPUs take center stage in agentic data centers",
-    "summary": "As Nvidia continues to roll out Vera, its first custom CPU for agentic AI, it revealed that its last-gen Grace design has seen mass deployments, even as a standalone CPU for non-agentic workloads.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-has-shipped-hundreds-of-thousands-of-grace-standalone-servers-gpu-firm-pivots-messaging-as-cpus-take-center-stage-in-agentic-data-centers",
+    "title": "This astonishing $850 gaming PC contains well over $1,200 worth of parts, including $400 of 32GB DDR5 alone get a potent Steam Machine rival thanks to this budget Intel Arc desktop",
+    "summary": "Save $150 on this gaming PC with Intel Core i5 14400F, Intel Arc B580, and 32GB of DDR5 RAM.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/this-astonishing-usd850-gaming-pc-contains-well-over-usd1-200-worth-of-parts-including-usd400-of-32gb-ddr5-alone-get-a-potent-steam-machine-rival-thanks-to-this-budget-intel-arc-desktop",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.526886"
+    "processed_date": "2026-07-23T10:51:04.101692"
   },
   {
-    "title": "Kimi K3 rocks the AI industry as Moonshot AI undercuts closed-source American competitors on price but the huge 2.8T open-weight model still needs serious hardware to deploy at scale",
-    "summary": "The trend towards larger AI models continues, with China's new Kimi K3 model. With its trillions of parameters, it's just as capable as the best the West has to offer, and it's cheaper. But it's not as fast, giving rise to a new battle to balance performance, efficiency, and cost, alongside sovereign control.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/kimi-k3-rocks-the-ai-industry-as-moonshot-ai-undercuts-closed-source-american-competitors-on-price-but-the-huge-2-8t-open-weight-model-still-needs-serious-hardware-to-deploy-at-scale",
+    "title": "Oregon will start charging service providers for undersea cables using its sea floor millions accrued over years will go toward state schools",
+    "summary": "Oregon set to start charging service providers for undersea cables using its sea floor. It will funnel the millions accrued toward state schools.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/oregon-will-start-charging-service-providers-for-undersea-cables-using-its-sea-floor-millions-accrued-over-years-will-go-toward-state-schools",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.101784"
+  },
+  {
+    "title": "Grand Theft Auto Multiverse with real-time portals created by ambitious modder San Andreas, Vice City and GTA III all run simultaneously, with cross-game interactions",
+    "summary": "A modder by the name of Dryxio has built perhaps the most impressive mod in the history of Grand Theft Auto by combining three different GTA games into one, connected through real-time, fully functional portals.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/ambitious-modder-creates-grand-theft-auto-multiverse-with-real-time-portals-san-andreas-vice-city-and-gta-iii-all-run-simultaneously-with-cross-game-interactions",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.101875"
+  },
+  {
+    "title": "Framework nearly doubles memory pricing for 32GB, 64GB Laptop 13 Pro overnight CEO says absorbing LPCAMM2 supplier hikes would put 'our ability to operate at real financial risk'",
+    "summary": "The company is making adjustments to some existing pre-orders.",
+    "link": "https://www.tomshardware.com/laptops/framework-nearly-doubles-memory-pricing-for-32gb-64gb-laptop-13-pro-overnight-ceo-says-absorbing-lpcamm2-supplier-hikes-would-put-our-ability-to-operate-at-real-financial-risk",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.101960"
+  },
+  {
+    "title": "Jensen Huang argues American companies should be allowed to use Chinese AI models Nvidia CEO says backdoors connected to China are misconceptions",
+    "summary": "Nvidia CEO Jensen Huang raised several points against the rising sentiment in Washington that U.S. firms should be prevented from accessing Chinese AI models. He also advocates for open models, which he says makes AI more secure.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-argues-american-companies-should-be-allowed-to-use-chinese-ai-models-nvidia-ceo-says-backdoors-connected-to-china-are-misconceptions",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.102054"
+  },
+  {
+    "title": "Microsoft announces Xbox Backward Compatibility for PC will let gamers play classic console games on PCs and handhelds",
+    "summary": "Xbox Backward Compatibility on PC will let gamers play classic Xbox games on PC and handheld.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/microsoft-announces-xbox-backward-compatibility-for-pc-will-let-gamers-play-classic-console-games-on-pcs-and-handhelds",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.102141"
+  },
+  {
+    "title": "The future of USB connectivity (2026) How USB4 Version 2 and Thunderbolt 5 are bringing copper to its physical limits",
+    "summary": "The USB ecosystem is entering another transition that will affect how laptops, desktops, storage devices, displays, and peripherals connect in the second half of the decade.",
+    "link": "https://www.tomshardware.com/peripherals/usb/usbs-next-decade",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.102229"
+  },
+  {
+    "title": "AMD to supply Anthropic with 2 gigawatts of Instinct MI450 GPUs will invest up to $5 billion in the Claude developer, which is already using MI355X GPUs",
+    "summary": "The first gigawatt is scheduled to come online in the first half of 2027 in AMD Helios rack-scale systems.",
+    "link": "https://www.tomshardware.com/tech-industry/amd-to-supply-anthropic-with-2-gigawatts-of-instinct-mi450-gpus",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.102312"
+  },
+  {
+    "title": "Data centers forecast to use 20% of US power by 2035 analysts estimate usage will rocket to 194 gigawatts, 83% more than forecast seven months ago",
+    "summary": "BNEF's December outlook put 2035 demand at 106 GW, and that figure was itself 36% above the projection the firm published in April 2025.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/bnef-nearly-doubles-its-us-data-center-power-forecast-to-194gw",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.102401"
+  },
+  {
+    "title": "Apple reportedly working on Mac leasing program in partnership with Klarna to fight RAM price increases 'Apple Upgrade' would let users finance hardware over 36 months, budget models excluded",
+    "summary": "A new Bloomberg report is claiming that Apple is working on a leasing program called \"Apple Upgrade\" that will allow customers to finance hardware over the course of 2 or 3 years. At the end of the term, they can keep the device or hand it back, or even upgrade to a newer model if payments are completed early.",
+    "link": "https://www.tomshardware.com/tech-industry/apple-reportedly-working-on-mac-leasing-program-in-partnership-with-klarna-to-fight-ram-price-increases-apple-upgrade-would-let-users-finance-hardware-over-36-months-budget-models-excluded",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-22T10:50:02.526992"
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.102510"
   },
   {
-    "title": "Local AI clustering with Dell's Pro Max GB10 connecting two Nvidia Grace Blackwell to scale out AI compute at home",
-    "summary": "We paired up and tested a pair of Dell's Pro Max with GB10, to see what a small cluster of Nvidia's Spark silicon can do. At $6332 each, as of writing, it's still an expensive prospect, but far cheaper and more desk-friendly than a big server box full of GPUs and the other necessary high-end hardware.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/local-ai-clustering-with-dells-pro-max-gb10-connecting-two-nvidia-grace-blackwell-to-scale-out-ai-compute-at-home",
+    "title": "AI tech companies have hidden debt worth around $1.65 trillion, report claims amount is 122% of debt reflected on the balance sheets of Alphabet, Amazon, Meta, Microsoft, and Oracle",
+    "summary": "Five tech giants have $1.65 trillion in data center obligations that are listed off their balance sheets. These liabilities are added as footnotes in their quarterly statements but will become due and payable once these data centers start operating.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/ai-tech-companies-have-hidden-debt-worth-around-usd1-65-trillion-report-claims-amount-is-122-percent-of-debt-reflected-on-the-balance-sheets-of-alphabet-amazon-meta-microsoft-and-oracle",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.102607"
+  },
+  {
+    "title": "Chinese modder gets GeForce RTX 4060 working in Windows 11 on Huawei Arm workstation uses modified driver borrowed from an Nvidia RTX Spark",
+    "summary": "Borrowing a driver from the upcoming RTX Spark, VoidTech managed to get x86 Windows games running on a Huawei Arm workstation.",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/chinese-modder-gets-geforce-rtx-4060-working-in-windows-11-on-huawei-arm-workstation-uses-modified-driver-borrowed-from-an-nvidia-rtx-spark",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.527091"
+    "processed_date": "2026-07-23T10:51:04.102690"
   },
   {
-    "title": "Anthropic hit with largest-ever $1.5 billion penalty in copyright lawsuit court says training AI on published material is fair use, but startup s pirated library infringes on authors rights",
-    "summary": "The settlement was finally approved by a U.S. federal judge, with a majority of the plaintiffs accepting the amount. A few members of the group refused, citing the small amount compared to the number of infringed titles, and are pursuing a separate lawsuit of their own.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-slapped-with-usd1-5-billion-settlement-in-copyright-lawsuit-largest-payout-ever-court-says-that-training-ai-on-books-other-publications-is-fair-use-but-ruled-that-the-startups-7-million-book-pirated-library-infringes-authors-rights",
+    "title": "Meta to use custom AMD Instinct MI400 accelerators with 144GB of HBM4 for select workloads, report claims could dramatically reduce cost at the expense of versatility",
+    "summary": "Meta will reportedly use a custom version of AMD's Instinct MI400-series accelerators with a memory system cut to 144GB of HBM4, allegedly for select workloads only.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-to-use-custom-amd-instinct-mi400-accelerators-with-144gb-of-hbm4-for-select-workloads-report-claims-could-dramatically-reduce-cost-at-the-expense-of-versatility",
     "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.527191"
-  },
-  {
-    "title": "Intel to co-develop and manufacture Fortinet's next-gen firewall ASIC on Intel 4 node gets its first named external customer",
-    "summary": "SP6 will draw on what the companies described as Intel's expertise in disaggregated semiconductor design and advanced packaging.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.527273"
-  },
-  {
-    "title": "Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon",
-    "summary": "Chinese AI developer Z.ai (formerly Zhipu) has finished building a 1GW data center stocked exclusively with domestically made chips and has switched part of it on.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-powers-up-1gw-ai-data-center-built-entirely-on-chinese-chips",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.527375"
-  },
-  {
-    "title": "TSMC eyes price hikes of up to 25% on chip production services in 2027, report claims plans to raise baseline prices by 5% to 10% on advanced nodes",
-    "summary": "TSMC reportedly intends to increase prices of wafers it processes citing demand, rising costs, and increased investments in new capacity.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-prices-by-5-percent-to-10-percent-on-advanced-nodes",
-    "categories": [
-      "Semiconductors",
+      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.527458"
+    "processed_date": "2026-07-23T10:51:04.102777"
   },
   {
-    "title": "Intel layoffs to hit Data Center group division focused on server CPUs, AI chips, and data center architecture to be hit by an unknown number of cuts",
-    "summary": "Intel plans to cut the employee numbers of its Data Center group, months after announcing record growth since its disastrous announcement in 2024.",
-    "link": "https://www.tomshardware.com/tech-industry/policy/intel-layoffs-to-hit-data-center-group-division-focused-on-server-cpus-ai-chips-and-data-center-architecture-to-be-hit-by-an-unknown-number-of-cuts",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-22T10:50:02.527543"
-  },
-  {
-    "title": "Save $400 on a new 14-inch MacBook Pro M5 48GB of RAM, a 1TB SSD, and a 16-core processor for $2,699",
-    "summary": "Save a whopping $400 on a brand-new Apple MacBook Pro at B&H Photo. This 14-inch beast uses the latest 16-core M5 chip and 48GB of RAM.",
-    "link": "https://www.tomshardware.com/laptops/macbooks/save-usd400-on-a-new-14-inch-macbook-pro-m5-48gb-of-ram-a-1tb-ssd-and-a-16-core-processor-for-usd2-699",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.527631"
-  },
-  {
-    "title": "1994 Sega 32X gets first-person Backrooms game with raycasting engine retro hardware tour de force includes yellow rooms, buzzing fluorescents, endless procedurally generated levels",
-    "summary": "Developer PaisleyBoxers has released Backrooms 32X, with the strap line 'welcome to the cutting edge of 1994.' This is a Sega 32X game set in the Backrooms, the internet phenomenon given a huge boost with the release of the psychological horror indie film earlier this year.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/1994-sega-32x-gets-first-person-backrooms-game-with-raycasting-engine-retro-hardware-tour-de-force-includes-yellow-rooms-buzzing-fluorescents-endless-procedurally-generated-levels",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-22T10:50:02.527733"
-  },
-  {
-    "title": "SMIC's third-gen 7nm node shows smaller metal pitch than Intel 18A, higher transistor density than TSMC N6 without EUV analysis of N+3 shows significant advancement for Chinese semi manufacturing",
-    "summary": "SMIC's N+3 process technology can achieve transistor density comparable to TSMC's N6 without using EUV lithography, but it fails to deliver performance or efficiency of modern production nodes.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/smics-third-gen-7nm-node-shows-smaller-metal-pitch-than-intel-18a-higher-transistor-density-than-tsmc-n6-without-euv-analysis-of-n-3-shows-significant-advancement-for-chinese-semi-manufacturing",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-22T10:50:02.527824"
-  },
-  {
-    "title": "Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90",
-    "summary": "Arduino UNO Q Arcade bundle is a kit designed to build a custom retro gaming console. The bundle combines the Arduino UNO Q 4GB SBC with a set of daisy-chainable Modulino I2C modules, allowing users to create a custom game controller without requiring complex wiring or breadboards. The kit relies on Qwiic connectors to daisy-chain the input modules, whose data is then processed by the UNO Q to emulate standard HIDs for gaming or development. The plastic parts can be 3D printed by the user. Arduino UNO Q Arcade bundle contents: Arduino UNO Q 4GB A Qualcomm Dragonwing QRB2210 SBC with an onboard eMMC, running Debian Linux Modulino Joystick An I2C node configurable for simulating D-pad inputs or mouse cursor movements Modulino Buttons An I2C node for mapping single keystrokes, multi-key shortcuts, or mouse clicks Modulino Movement A 6-axis IMU node for motion-based mouse control Note: [...] The post Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/22/arduino-uno-q-arcade-bundle-lets-you-build-a-custom-retro-gaming-console/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-22T10:50:02.528285"
-  },
-  {
-    "title": "ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD",
-    "summary": "Previously offered with AMD Ryzen 5/7/9 CPUs, the ACEMAGICIAN Kron K1 mini PC has now gotten a low-cost version based on the AMD Ryzen R2544 quad-core processor paired with 8GB DDR4 and a 256GB SSD and sold for just $279.99 on Amazon. With everything going up in price, companies are trying to offer more affordable systems. ACEMAGICIAN has decided to use a processor from the Ryzen Embedded R2000 family introduced in 2022 that s typically found in industrial-grade modules and motherboards such as the AAEON COM-R2KC6 COM Express module or the Kontron D3723-R mini-ITX motherboard. ACEMAGICIAN Kron K1 R2544 specifications: SoC AMD Ryzen Embedded R2544 CPU Quad-core/eight-thread processor @ 3.35 / 3.7 GHz (Turbo) GPU 8-core AMD Radeon Vega Graphics TDP 45 Watts System Memory 8GB DDR4 RAM pre-installed Upgradeable up to 64GB via two DDR4 SO-DIMM sockets Storage 256GB M.2 SSD pre-installed 2x M.2 2280 slots: [...] The post ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/22/acemagician-kron-k1-mini-pc-gets-low-cost-variant-with-amd-ryzen-r2544-cpu-8gb-ddr4-256gb-ssd/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-22T10:50:02.528463"
-  },
-  {
-    "title": "Raspberry Pi Touch Display 2 10 Portrait review, 3D printed VESA mount",
-    "summary": "Raspberry Pi has just announced the Raspberry Pi Touch Display 2 10 Portrait , and we ve received an early review sample for testing. The new 10.1-inch Raspberry Pi Touch Display 2 is a multi-touch portrait panel for Raspberry Pi designed for interactive projects such as tablets, entertainment systems, and information dashboards. The new 10.1-inch model follows the original 7-inch Raspberry Pi Touch Display 2 launched in 2024 and the 5-inch Raspberry Pi Touch Displays 2 introduced in 2025. I reviewed the 7-inch model with the Raspberry Pi AI camera and a Pi 4, and I just gave away the 5-inch variant. In this short review, I ll show how to mount a Raspberry Pi 5 to the Raspberry Pi Touch Display 2 10 Portrait, install it on a VESA mount, and test features such as 10-pin capacitive touch and display orientation. But let s start with the specifications first. Raspberry Pi [...] The post Raspberry Pi Touch Display 2 10 Portrait review, 3D printed VESA mount appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 25,
-    "processed_date": "2026-07-22T10:50:02.528609"
-  },
-  {
-    "title": "NVIDIA increases the price of Jetson modules and devkits by up to 101%",
-    "summary": "A few months ago, NVIDIA phased out several Jetson modules due to high LPDDR4 prices, and now the company has decided to increase the prices on all its Jetson modules and developer kits by up to 101%. There was no specific announcement about the price, but the updated prices are available in the FAQ on the NVIDIA developer website. This was initially spotted by a reader at VideoCardz, and the table below shows the old and new prices, as well as the percentage increase. The table above is sortable. The highest price increases in percentage terms are for the Jetson Nano module (101% from $99 to $199) and the Jetson AGX Orin 32GB module (100% from $899 to $1,799). The Jetson Nano module is still the cheapest option, and the most powerful and expensive part is the Jetson AGX Thor Developer Kit. The popular Jetson Orin Nano Super Developer Kit, [...] The post NVIDIA increases the price of Jetson modules and devkits by up to 101% appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.528753"
-  },
-  {
-    "title": "Argonaut will use lidar to dodge lunar boulders, rough terrain",
-    "summary": "MDA Space announced it won preliminary approval for use of its LEIA lidar in the inaugural Argonaut mission",
-    "link": "https://www.fiercesensors.com/embedded/argonaut-will-use-lidar-dodge-lunar-boulders-rough-terrain",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.529755"
-  },
-  {
-    "title": "AMD Ryzen 7 7700X3D Review: The Budget 3D V-Cache King",
-    "summary": "AMD's Ryzen 7 7700X3D revives Zen 4 with a lower-clocked take on the 7800X3D. We benchmark 13 games to see how much performance it gives up and whether it still belongs in a modern gaming PC. Read Entire Article",
-    "link": "https://www.techspot.com/review/3150-amd-ryzen-7700x3d/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-07-22T10:50:02.530149"
-  },
-  {
-    "title": "France just voted to ban kids under 15 from social media, but Australia's ban shows how hard that is to enforce",
-    "summary": "France's Parliament gave final approval on Tuesday to a law banning children under age 15 from social media, with the National Assembly voting 279 to 81 after the Senate had approved the text earlier the same day. The vote followed the Assembly's initial approval of the bill in January by... Read Entire Article",
-    "link": "https://www.techspot.com/news/113193-france-voted-ban-kids-under-15-social-media.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.530274"
-  },
-  {
-    "title": "One in six Windows PCs still runs Windows 10, and the vulnerabilities are piling up",
-    "summary": "Asset management company Lansweeper recently sounded the alarm on Windows 10, noting that a lot of organizations still haven't upgraded to Windows 11. A significant portion of PCs, or roughly 17% of all Windows client devices, per Lansweeper's research, are still running Windows 10. Put simply, about one in six... Read Entire Article",
-    "link": "https://www.techspot.com/news/113191-one-six-windows-pcs-runs-windows-10-vulnerabilities.html",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-22T10:50:02.530419"
-  },
-  {
-    "title": "Der8auer converts $7,000 RTX 5090 Lightning Z to custom water cooling, drops temps by 11 C",
-    "summary": "The modified waterblock, once hooked up to the PC's custom water-cooling loop, brought the operating temperature of the MSI RTX 5090 Lightning Z down from 64 degrees to around 53 degrees. That result was measured at 800W under full load, though der8auer believes it would hold up similarly even in... Read Entire Article",
-    "link": "https://www.techspot.com/news/113188-der8auer-converts-7000-rtx-5090-lightning-z-custom.html",
+    "title": "Woot has slashed $600 off this RTX 5070 gaming laptop get a Gigabyte Aero X16 with 32GB of RAM and Ryzen HX 370 for just $1,399",
+    "summary": "Get a Gigabyte Aero X16 with RTX 5070, 32GB of RAM, 1TB SSD, and AMD Ryzen AI 9 HX 370 for $1,399.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/this-usd1-399-5070-gaming-laptop-is-one-of-the-best-value-deals-around-save-usd700-on-16-inch-model-with-32gb-of-ram-and-a-1tb-ssd",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.530544"
+    "processed_date": "2026-07-23T10:51:04.102858"
   },
   {
-    "title": "OpenAI's ambitious ad revenue goals look like AI-generated money, analysis says",
-    "summary": "A new market analysis from consulting firm Emarketer casts serious doubt on OpenAI's advertising revenue targets. The company began testing ads in ChatGPT in February, adding another revenue stream as it looks for ways to offset the enormous cost of operating its AI services. Emarketer's forecast suggests that OpenAI's internal... Read Entire Article",
-    "link": "https://www.techspot.com/news/113182-openai-ambitious-ad-revenue-goals-look-like-ai.html",
+    "title": "Just $1,399 for this potent RTX 5060 Ti 16GB-powered gaming PC 32GB of DDR5 RAM and AMD's 7800X3D to help you crush the competition",
+    "summary": "Save $600 on this Skytech Gaming King 95 prebuilt gaming PC with Ryzen 7 7800X3D, RTX 5060 Ti 16GB, and 32GB of DDR5 RAM inside.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/just-usd1-399-for-this-potent-rtx-5060-ti-16gb-powered-gaming-pc-32gb-of-ddr5-ram-and-amds-7800x3d-to-help-you-crush-the-competition",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.102937"
+  },
+  {
+    "title": "Adata chairman says DRAM shortage will last another 10 years dismisses AI bubble talk until '2040 or 2050'",
+    "summary": "Electricity, particularly green power, and memory will be the world's two scarcest resources over the next decade, Chen said.",
+    "link": "https://www.tomshardware.com/tech-industry/adata-chairman-says-dram-shortage-will-last-another-10-years",
     "categories": [
       "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.103014"
+  },
+  {
+    "title": "PlayStation 3 emulator adds support for ATI Radeon HD 2000, 3000, and 4000 series graphics cards on Linux 20-year-old HD 2600 crumbles, can only run Portal at 13 fps in 273p",
+    "summary": "The developers of the RPCS3 have announced that their PlayStation 3 emulator s minimum system requirements have been adjusted to include a crop of even older Radeon graphics cards. Now gamers still cradling ATI Radeon HD 2000, 3000, and 4000 series GPUs can join in the fun.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/playstation-3-emulator-adds-support-for-ati-radeon-hd-2000-3000-and-4000-series-graphics-cards-on-linux-20-year-old-hd-2600-crumbles-can-only-run-portal-at-13-fps-in-273p",
+    "categories": [
+      "GPUs",
+      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-22T10:50:02.530669"
+    "processed_date": "2026-07-23T10:51:04.103115"
   },
   {
-    "title": "Microsoft just open-sourced the app that made Comic Sans famous",
-    "summary": "Microsoft has open-sourced Comic Chat, its quirky 1996 IRC client that turned text conversations into comic strips with cartoon avatars, speech bubbles, and dynamic panel layouts. Now released under the MIT License, the project can be explored, preserved, and even modernized by developers and retro computing enthusiasts. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7891-microsoft-comic-chat.html",
+    "title": "AIS-1000 AI Surveillance Station A $3,640 NDAA and TAA-compliant AI box based on Raspberry Pi 5 and Hailo-8L",
+    "summary": "If you feel like a cheapskate when purchasing a Raspberry Pi 5 16GB for only $305, there s now a solution to avoid embarrassment. Meet the $3,640 AIS-1000 AI Surveillance Station, pairing a Raspberry Pi 5 with a Hailo-8L AI accelerator and a 1TB NVMe SSD, all housed in a metal enclosure. Jokes aside, the device from Planet Technology is real, and users mostly pay for NDAA (National Defense Authorization Act) and TAA (Trade Agreements Act) compliance for use in AI-enhanced surveillance applications for government, critical infrastructure, or other high-security applications. Planet AIS-1000 hardware specifications: SBC Raspberry Pi 5 (only advertised features listed) SoC Broadcom BCM2712 CPU Quad-core Arm Cortex-A76 processor @ 2.4 GHz GPU VideoCore VII GPU @ 800 MHz with support for OpenGL ES 3.1, Vulkan 1.2, 4Kp60 HEVC decoder System Memory 8GB LPDDR4X-4267 SDRAM Networking Gigabit Ethernet RJ45 port via Broadcom BCM54213PE transceiver [...] The post AIS-1000 AI Surveillance Station A $3,640 NDAA and TAA-compliant AI box based on Raspberry Pi 5 and Hailo-8L appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/23/ais-1000-ai-surveillance-station-a-3640-ndaa-and-taa-compliant-ai-box-based-on-raspberry-pi-5-and-hailo-8l/",
     "categories": [
-      "Tech News"
+      "Hardware",
+      "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-22T10:50:02.530803"
+    "processed_date": "2026-07-23T10:51:04.103672"
   },
   {
-    "title": "NAND shortages could finally ease in 2027, but ADATA warns the DRAM crisis may last another 10 years",
-    "summary": "TrendForce's latest NAND flash report is a rare piece of good news for those hoping SSD prices will eventually return to something approaching normal. The analyst firm says the market will remain undersupplied throughout 2026, recording a supply deficit of between 4% and 5%, as booming AI demand clashes with limited capacity expansion. Read Entire Article",
-    "link": "https://www.techspot.com/news/113186-nand-shortages-could-finally-ease-2027-but-adata.html",
+    "title": "Icy Electronics nRF54L15 Discovery devboard integrates a snappable nRF52820 CMSIS-DAP debugger",
+    "summary": "The nRF54L15 Discovery is a compact wireless devboard with an onboard nRF52820 CMSIS-DAP debugger/programmer for Bluetooth LE, Thread, Zigbee, Matter, NFC, and other 2.4 GHz IoT applications. Its snap-apart design allows the target and interface MCUs to be used as two standalone boards. In the past, we have written about various development boards based on the Nordic nRF54L series, including the Seeed Studio XIAO nRF54L15, XIAO nRF54LM20A (Sense), and the nRF54L15 Connect Kit. The nRF54L15 Discovery board further integrates a snappable nRF52820 CMSIS-DAP debugger/programmer section. It also includes an nPM1300 PMIC with 32 800 mA LiPo battery charging and USB-C PD support, along with a TPS63900 buck-boost converter configurable for 1.8V or 3.3V I/O operation. nRF54L15 Discovery specifications: Wireless MCU Nordic Semi nRF54L15 wireless SoC CPU Arm Cortex-M33 @ up to 128 MHz RISC-V coprocessor for software-defined peripheral Memory 256 KB SRAM Storage 1.5MB Non-volatile Memory (NVM) Wireless Bluetooth [...] The post Icy Electronics nRF54L15 Discovery devboard integrates a snappable nRF52820 CMSIS-DAP debugger appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/23/icy-electronics-nrf54l15-discovery-devboard-integrates-a-snappable-nrf52820-cmsis-dap-debugger/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-23T10:51:04.103840"
+  },
+  {
+    "title": "$99 Xteink X4 Pro 4.3-inch touchscreen eReader to support CrossPoint Reader open-source firmware",
+    "summary": "Xteink X4 Pro is a pocket-sized eReader with a 4.3-inch touchscreen E Ink display, a 16GB microSD card, 2.4 GHz WiFi and Bluetooth wireless connectivity, and a 1100 mAh battery. Previous models like the X3 and X4 e-readers were based on the ESP32-C3 RISC-V microcontroller, but the company has not disclosed which MCU was used in the new X4 Pro model. However, a recent comment on GitHub points to the X4 Pro featuring a more powerful ESP32-S3 microcontroller. Xteink X4 Pro specifications: SoC ESP32-S3 microcontroller (TBC) with 2.4 GHz WiFi 4 and Bluetooth wireless connectivity Storage 16 GB microSD card; expandable up to 256 GB Display 4.3-inch touchscreen E Ink display; 219 PPI Dual-tone front light Supported Formats (with default firmware) Document: EPUB, TXT Image: JPG, BMP Fonts: BIN, XTF Misc Home touch button Power, Reset, Previous, and Next buttons Built-in magnets for connection to the back of [...] The post $99 Xteink X4 Pro 4.3-inch touchscreen eReader to support CrossPoint Reader open-source firmware appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/23/99-xteink-x4-pro-4-3-inch-touchscreen-ereader-to-support-crosspoint-reader-open-source-firmware/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-23T10:51:04.104001"
+  },
+  {
+    "title": "Intel lays off some data center group workers amid unit revenue growth",
+    "summary": "An unspecified number of Data Center Group workers laid off continues a multi-year reduction in force at Intel as the company puts stronger focus on Edge AI and data center inference.",
+    "link": "https://www.fiercesensors.com/electronics/intel-lays-some-data-center-group-workers-amid-unit-revenue-growth",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.530929"
+    "processed_date": "2026-07-23T10:51:04.105059"
   },
   {
-    "title": "Samsung finally has its own credit card, seven years after Apple",
-    "summary": "The company's first credit card will be issued via Barclays US Consumer Bank over the Visa network. It'll be available as a fully virtual product, although a physical metal card is also available in black featuring Samsung branding on the front. Read Entire Article",
-    "link": "https://www.techspot.com/news/113187-samsung-unveils-galaxy-card-take-apple-credit-card.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.531013"
-  },
-  {
-    "title": "Fire departments are testing autonomous drones that fight wildfires before crews even arrive",
-    "summary": "A California company recently began demonstrating a system that allows firefighters to direct autonomous drones to combat wildfires. While departments already use observation drones, deploying them to fight fires directly remains an unexplored tactic. Read Entire Article",
-    "link": "https://www.techspot.com/news/113180-us-fire-departments-test-autonomous-drones-fight-wildfires.html",
+    "title": "Gig economy workers and Amazon staff are increasingly dependent on food stamps and Medicaid, according to federal report",
+    "summary": "The GAO report, which was commissioned by Senator Bernie Sanders, shows that the number of Amazon workers relying on food stamps and Medicaid tripled between the start of the Covid pandemic in February 2020 and September 2025. Read Entire Article",
+    "link": "https://www.techspot.com/news/113215-gig-economy-workers-amazon-staff-increasingly-dependent-food.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.531103"
+    "processed_date": "2026-07-23T10:51:04.105388"
   },
   {
-    "title": "Nvidia is giving developers more control over DLSS 5, after accusations it turns games into \"AI slop\"",
-    "summary": "Nvidia used its SIGGRAPH 2026 keynote to demonstrate the controls that developers will receive when DLSS 5 launches this fall. The two main global sliders are Structure Intensity and Tone Intensity, which essentially determines how enthusiastically the AI repaints a frame. Read Entire Article",
-    "link": "https://www.techspot.com/news/113185-amid-dlss-5-backlash-nvidia-shows-off-controls.html",
+    "title": "Nvidia's Jensen Huang defends Chinese AI: \"Open-source models that are excellent should be used\"",
+    "summary": "The timing is what makes it interesting. Moonshot AI released Kimi K3 on July 16. Independent evaluators put it third on Artificial Analysis' Intelligence Index, only behind Anthropic's Claude Fable 5 and OpenAI's GPT-5.6 Sol, and first on LMArena's blind Frontend Code Arena board. Read Entire Article",
+    "link": "https://www.techspot.com/news/113210-nvidia-jensen-huang-defends-chinese-ai-open-source.html",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.531198"
+    "quality_score": 15,
+    "processed_date": "2026-07-23T10:51:04.105509"
   },
   {
-    "title": "Sony's digital-only future angers fans, but physical PlayStation games are barely selling",
-    "summary": "Circana analyst Mat Piscatella recently stated that only seven PlayStation games have sold more than 100,000 physical copies in the first half of 2026. Only two sold more than 10,000 during the week ending July 11, potentially vindicating Sony's claim that PlayStation owners overwhelmingly prefer digital purchases. Read Entire Article",
-    "link": "https://www.techspot.com/news/113181-sony-digital-only-future-angers-fans-but-physical.html",
+    "title": "Amazon, Meta, Microsoft, and other US tech giants are hiding $1.65 trillion in AI debt",
+    "summary": "According to estimates from Nikkei Asia, Alphabet, Microsoft, Amazon, Meta, and Oracle have together amassed roughly $3 trillion in total debt, a large share of it tied to exorbitant AI infrastructure spending long-term data center lease agreements, along with costly servers, graphics accelerators, and other computing hardware that has... Read Entire Article",
+    "link": "https://www.techspot.com/news/113206-amazon-meta-microsoft-other-us-tech-giants-hiding.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.105615"
+  },
+  {
+    "title": "Amazon orders Robocop TV series as franchise heads to Prime Video",
+    "summary": "Robocop has been entertaining audiences for nearly four decades. The first film in the series debuted in 1987, starring Peter Weller as a half-man, half-machine cyborg law enforcement officer. The movie is considered by many as one of the best from the 80s, spawning two sequels as well as a... Read Entire Article",
+    "link": "https://www.techspot.com/news/113205-amazon-orders-robocop-tv-series-franchise-heads-prime.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-22T10:50:02.531289"
+    "processed_date": "2026-07-23T10:51:04.105704"
   },
   {
-    "title": "What was the world's first digital and programmable robot?",
-    "summary": "It was stationed at General Motors and sold at a loss. Read Entire Article",
-    "link": "https://www.techspot.com/trivia/31-what-world-first-digital-programmable-robot/",
+    "title": "Palworld's 1.0 launch is bringing back nearly a million players",
+    "summary": "Palworld 1.0 launched on July 10, and players showed their appreciation by flooding its monster-taming world in droves. SteamDB figures show the game peaking at 855,525 concurrent players over launch weekend, then climbing to 961,867 on July 19, its highest count since early 2024 to join in the fun. Read Entire Article",
+    "link": "https://www.techspot.com/news/113200-palworld-10-launch-bringing-back-nearly-million-players.html",
+    "categories": [
+      "Tech News",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-23T10:51:04.105796"
+  },
+  {
+    "title": "Firefox 153 ESR arrives with major productivity, privacy, and enterprise upgrades",
+    "summary": "Firefox 153 is now the latest Extended Support Release (ESR), rolling up all improvements introduced since Firefox 140. Highlights include profile management, Split View, AI features, stronger privacy protections, web apps, PDF merging and image insertion, HDR video playback, browser-wide containers, and numerous platform and enterprise enhancements. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/4056-firefox-esr.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.105909"
+  },
+  {
+    "title": "The Marines' new AI gun can track and target people, even though it's marketed as anti-drone",
+    "summary": "The Marine Corps has selected Allen Control Systems' Bullfrog M240 robotic weapon station for integration into its Light Marine Air Defense Integrated System, or L-MADIS. The initial prototype contract is worth $6.2 million. Read Entire Article",
+    "link": "https://www.techspot.com/news/113197-us-marines-new-anti-drone-ai-gun-turret.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.105999"
+  },
+  {
+    "title": "Samsung Galaxy Z Fold 8 and Fold 8 Ultra debut with Flex Titanium displays and Snapdragon 8 Gen 5",
+    "summary": "With all the buzz of anticipation surrounding the rumored foldable iPhone that Apple is widely expected to announce this fall, it's hard not to wonder what the good people at Samsung are thinking. Read Entire Article",
+    "link": "https://www.techspot.com/news/113204-samsung-galaxy-z-fold-8-fold-8-ultra.html",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-07-22T10:50:02.531387"
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.106081"
+  },
+  {
+    "title": "Nvidia's first Windows on Arm GeForce driver confirms RTX Spark configurations",
+    "summary": "Nvidia has published its first native GeForce driver for Windows on Arm , and buried inside it confirms two RTX Spark configurations: a 6,144-core Blackwell GPU with a 20-core CPU, and a smaller 5,120-core variant with 18 cores, both supporting up to 128GB of unified memory. The driver targets Microsoft's Surface RTX Spark Dev Box for now, but it lets developers start porting Arm64 apps ahead of Spark's fall launch on laptops and mini PCs from Asus, Dell, HP, Lenovo, and MSI. Read Entire Article",
+    "link": "https://www.techspot.com/drivers/driver/file/information/18432/",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.106200"
+  },
+  {
+    "title": "Data centers on track to consume 20% of US power by 2035",
+    "summary": "The research firm estimates that US data centers will require a staggering 194 gigawatts by 2035 up 83% over its previous forecast from last December. Put into context, one gigawatt is roughly the output of a single traditional nuclear reactor. Read Entire Article",
+    "link": "https://www.techspot.com/news/113202-data-centers-track-consume-20-us-power-2035.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-23T10:51:04.106283"
+  },
+  {
+    "title": "Reddit and major publishers consider blocking Google as AI search continues destroying web traffic",
+    "summary": "Reddit, USA Today, Reuters, Politico, The Economist, and People Inc. are among the companies reconsidering how much access they should give Google as referral traffic continues to collapse, according to The Wall Street Journal. Read Entire Article",
+    "link": "https://www.techspot.com/news/113199-reddit-major-publishers-consider-blocking-google-ai-search.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.106386"
+  },
+  {
+    "title": "TSMC plans up to 10% price increases on advanced and mature nodes starting in 2027",
+    "summary": "Sources have informed Nikkei Asia that TSMC plans to raise prices for advanced and mature semiconductor process nodes by up to 10% at the start of 2027. For later orders, prices could increase further, and the hikes could extend to some of the most mature nodes. Since Nvidia, Apple, Google,... Read Entire Article",
+    "link": "https://www.techspot.com/news/113195-tsmc-plans-up-10-price-increases-advanced-mature.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.106484"
+  },
+  {
+    "title": "Iran claims it destroyed Amazon's main data hub in Bahrain. Nobody has confirmed it",
+    "summary": "The IRGC's Aerospace Force said it targeted what it described as Amazon's central data infrastructure in Bahrain. Iranian state-linked media made the announcement on Tuesday, adding that US air defense systems and radar installations in the Bahraini areas of Muharraq and Riffa were also attacked. Read Entire Article",
+    "link": "https://www.techspot.com/news/113196-iran-claims-destroyed-amazon-main-data-hub-bahrain.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.106579"
+  },
+  {
+    "title": "Watch Samsung unveil the Z Fold 8 and Z Flip 8 at Galaxy Unpacked",
+    "summary": "The regular Galaxy Z Fold 8 is expected to undergo the biggest redesign. Leaked renders show a shorter, wider, passport-style handset with a 5.5-inch cover screen and a 7.6-inch internal display. Both are said to use 120Hz Dynamic AMOLED 2X panels. Read Entire Article",
+    "link": "https://www.techspot.com/news/113198-watch-samsung-unveil-z-fold-8-z-flip.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-23T10:51:04.106662"
   }
 ]
