@@ -1,155 +1,165 @@
 # 💻 Hardware
-**Week of July 23, 2026**
+**Week of July 24, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-07-23 10:52
+- **Articles this week:** 15
+- **Report generated:** 2026-07-24 10:47
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Icy Electronics nRF54L15 Discovery devboard integrates a snappable nRF52820 CMSIS-DAP debugger ⭐
+### 1. AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform ⭐
 
-The nRF54L15 Discovery is a compact wireless devboard with an onboard CMSIS-DAP debugger for IoT applications, featuring a snap-apart design and advanced power management.
+AMD launches the Ryzen AI Embedded X100 processor family and Kria AI SoM, offering improved AI performance and CPU core counts.
 
-💡 *Advances IoT development with compact, snap-apart, and highly integrated design.*
+💡 *Enhanced AI capabilities for edge applications and robotics development.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/23/icy-electronics-nrf54l15-discovery-devboard-integrates-a-snappable-nrf52820-cmsis-dap-debugger/)
-
----
-
-### 2. PlayStation 3 emulator adds support for ATI Radeon HD 2000, 3000, and 4000 series graphics cards on Linux 20-year-old HD 2600 crumbles, can only run Portal at 13 fps in 273p 
-
-RPCS3 PlayStation 3 emulator now supports older Radeon graphics cards on Linux, allowing gamers with ATI Radeon HD 2000, 3000, and 4000 series GPUs to run the emulator. The minimum system requirements have been adjusted accordingly. However, performance may vary depending on the card's capabilities.
-
-💡 *Older graphics cards can now run PlayStation 3 emulator on Linux*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/playstation-3-emulator-adds-support-for-ati-radeon-hd-2000-3000-and-4000-series-graphics-cards-on-linux-20-year-old-hd-2600-crumbles-can-only-run-portal-at-13-fps-in-273p)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/)
 
 ---
 
-### 3. AIS-1000 AI Surveillance Station A $3,640 NDAA and TAA-compliant AI box based on Raspberry Pi 5 and Hailo-8L 
+### 2. AMD reveals CPU architecture roadmap through 2028, following Zen 6 'Venice' launch Zen 7 'Florence' to debut in 2028 alongside diversified product family, confirms Zen 8 'Ravenna' in development ⭐
 
-The AIS-1000 AI Surveillance Station is a $3,640, NDAA and TAA-compliant device that combines a Raspberry Pi 5 with a Hailo-8L AI accelerator and a 1TB NVMe SSD, designed for high-security applications.
+AMD has revealed its CPU architecture roadmap through 2028, with Zen 7 'Florence' set to debut in 2028. The company is also developing Zen 8 'Ravenna' and expanding its product family. Lisa Su showcased the roadmap, providing a look at future CPU developments.
 
-💡 *Enhanced surveillance capabilities for secure government and critical infrastructure use.*
+💡 *AMD's diversified product family boosts competition in the CPU market.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/23/ais-1000-ai-surveillance-station-a-3640-ndaa-and-taa-compliant-ai-box-based-on-raspberry-pi-5-and-hailo-8l/)
-
----
-
-### 4. $99 Xteink X4 Pro 4.3-inch touchscreen eReader to support CrossPoint Reader open-source firmware 
-
-The Xteink X4 Pro is a compact eReader with a 4.3-inch touchscreen display, 16GB storage, and WiFi/Bluetooth connectivity, available for $99. It supports various formats and has a built-in front light. The device also supports CrossPoint Reader open-source firmware.
-
-💡 *Affordable eReader option with open-source firmware support released*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/23/99-xteink-x4-pro-4-3-inch-touchscreen-ereader-to-support-crosspoint-reader-open-source-firmware/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-reveals-cpu-architecture-roadmap-through-2028-following-zen-6-venice-launch-zen-7-florence-to-debut-in-2028-alongside-diversified-product-family-confirms-zen-8-ravenna-in-development)
 
 ---
 
-### 5. This astonishing $850 gaming PC contains well over $1,200 worth of parts, including $400 of 32GB DDR5 alone get a potent Steam Machine rival thanks to this budget Intel Arc desktop 
+### 3. Arctic Senza AI 370 review: Strix Point in a stealthy under-desk fanless design ⭐
 
-Get a powerful gaming PC with savings of $150 on a Intel Arc desktop, featuring a Core i5 14400F, Intel Arc B580, and 32GB DDR5 RAM.
+The Arctic Senza AI 370 is a fanless mini PC with everyday performance capabilities, making it a suitable option for those who prioritize a compact and low-profile design.
 
-💡 *Exceptional value offered by this budget gaming PC setup.*
+💡 *Fanless design offers quiet operation and improved reliability.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/this-astonishing-usd850-gaming-pc-contains-well-over-usd1-200-worth-of-parts-including-usd400-of-32gb-ddr5-alone-get-a-potent-steam-machine-rival-thanks-to-this-budget-intel-arc-desktop)
-
----
-
-### 6. Framework nearly doubles memory pricing for 32GB, 64GB Laptop 13 Pro overnight CEO says absorbing LPCAMM2 supplier hikes would put 'our ability to operate at real financial risk' 
-
-The company is adjusting pre-orders for 32GB and 64GB laptops due to increased memory costs. A supplier price hike has led to a near doubling of memory prices. This change will be absorbed by the company.
-
-💡 *Supplier price hike significantly impacts laptop manufacturer's memory costs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/framework-nearly-doubles-memory-pricing-for-32gb-64gb-laptop-13-pro-overnight-ceo-says-absorbing-lpcamm2-supplier-hikes-would-put-our-ability-to-operate-at-real-financial-risk)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/arctic-senza-ai-370-fanless-mini-pc-review)
 
 ---
 
-### 7. Microsoft announces Xbox Backward Compatibility for PC will let gamers play classic console games on PCs and handhelds 
+### 4. AMD s Venice-X CPU launches in 2027 with 1152 MB of 3D V-Cache, 96 cores, and 5.15 GHz boost clock Zen 6 CPU for high-performance computing comes with major pillars of Venice 
 
-Microsoft's Xbox Backward Compatibility on PC will allow gamers to play classic Xbox games on their PCs and handheld devices.
+AMD's Venice-X CPU is set to launch in 2027 with 1152 MB of 3D V-Cache and up to 5.15 GHz boost clock, targeting high-performance computing.
 
-💡 *Reviving nostalgia and expanding gaming options for Xbox fans.*
+💡 *Enhanced cache technology boosts CPU performance and power efficiency significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/microsoft-announces-xbox-backward-compatibility-for-pc-will-let-gamers-play-classic-console-games-on-pcs-and-handhelds)
-
----
-
-### 8. The future of USB connectivity (2026) How USB4 Version 2 and Thunderbolt 5 are bringing copper to its physical limits 
-
-The USB ecosystem is evolving with USB4 Version 2 and Thunderbolt 5, pushing copper to its physical limits. These updates aim to increase speeds and capacities while reducing energy consumption. This transition will impact the way devices connect and interact.
-
-💡 *Faster speeds require innovative solutions due to copper's physical constraints*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/usb/usbs-next-decade)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-venice-x-cpu-launches-in-2027-with-1152-mb-of-3d-v-cache-96-cores-and-5-15-ghz-boost-clock-zen-6-cpu-for-high-performance-computing-comes-with-major-pillars-of-venice)
 
 ---
 
-### 9. Apple reportedly working on Mac leasing program in partnership with Klarna to fight RAM price increases 'Apple Upgrade' would let users finance hardware over 36 months, budget models excluded 
+### 5. CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs 
 
-Apple is reportedly working on a leasing program called 'Apple Upgrade' that allows customers to finance hardware over 2-3 years, with options to keep, return, or upgrade devices.
+CirkitScape Top HAT is a multi-function expansion board for Raspberry Pi, adding extra GPIOs, RS-485, and USB ports to simplify prototyping and real-world builds.
 
-💡 *Addressing RAM price increases with flexible financing options.*
+💡 *Enhanced Raspberry Pi functionality without adding multiple separate add-ons.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/apple-reportedly-working-on-mac-leasing-program-in-partnership-with-klarna-to-fight-ram-price-increases-apple-upgrade-would-let-users-finance-hardware-over-36-months-budget-models-excluded)
-
----
-
-### 10. Chinese modder gets GeForce RTX 4060 working in Windows 11 on Huawei Arm workstation uses modified driver borrowed from an Nvidia RTX Spark 
-
-Chinese modder VoidTech successfully runs x86 Windows games on Huawei Arm workstation using a modified driver borrowed from Nvidia's RTX Spark. This achievement marks a significant breakthrough in running x86 games on Arm-based hardware. The modder's work paves the way for potential future gaming options on Arm workstations.
-
-💡 *Achieving x86 game compatibility on Arm hardware expands gaming possibilities*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpu-drivers/chinese-modder-gets-geforce-rtx-4060-working-in-windows-11-on-huawei-arm-workstation-uses-modified-driver-borrowed-from-an-nvidia-rtx-spark)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/)
 
 ---
 
-### 11. Woot has slashed $600 off this RTX 5070 gaming laptop get a Gigabyte Aero X16 with 32GB of RAM and Ryzen HX 370 for just $1,399 
+### 6. Augmental MouthPad is a tongue-controlled touchpad/trackpad 
 
-Gigabyte Aero X16 laptop comes with an RTX 5070, 32GB RAM, and 1TB SSD for $1,399.
+Augmental MouthPad is a Bluetooth device controlled by the tongue, enabling users with disabilities to interact with devices more easily.
 
-💡 *Significant price drop for high-end gaming laptop with advanced features.*
+💡 *Empowering accessibility for individuals with mobility or dexterity limitations.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/this-usd1-399-5070-gaming-laptop-is-one-of-the-best-value-deals-around-save-usd700-on-16-inch-model-with-32gb-of-ram-and-a-1tb-ssd)
-
----
-
-### 12. Just $1,399 for this potent RTX 5060 Ti 16GB-powered gaming PC 32GB of DDR5 RAM and AMD's 7800X3D to help you crush the competition 
-
-Save $600 on the Skytech Gaming King 95 prebuilt gaming PC with Ryzen 7 7800X3D, RTX 5060 Ti 16GB, and 32GB DDR5 RAM.
-
-💡 *High-performance gaming PC at an unbeatable price point*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/just-usd1-399-for-this-potent-rtx-5060-ti-16gb-powered-gaming-pc-32gb-of-ddr5-ram-and-amds-7800x3d-to-help-you-crush-the-competition)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/23/augmental-mouthpad-tongue-controlled-touchpad-trackpad/)
 
 ---
 
-### 13. Amazon, Meta, Microsoft, and other US tech giants are hiding $1.65 trillion in AI debt 
+### 7. AMD s new X100 chip lineup puts embedded Ryzen AI 'Strix Halo' chips into robots APUs for physical AI bring Zen 5 CPU, RDNA 3.5 GPU cores to compete with Intel s Panther Lake 
 
-US tech giants like Amazon, Meta, and Microsoft have accumulated $3 trillion in debt, largely due to costly AI infrastructure spending, including data center leases and computing hardware.
+AMD introduces X100 chip lineup with Strix Halo APUs for robots, featuring 24/7 operation and a 10-year lifecycle. The X100 lineup combines Zen 5 CPU and RDNA 3.5 GPU cores, rivaling Intel's Panther Lake offerings. This move aims to bring physical AI capabilities to robots and compete with Intel.
 
-💡 *Massive AI debt threatens tech giants' long-term financial sustainability and agility.*
+💡 *AMD challenges Intel in the robotics and physical AI market space.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113206-amazon-meta-microsoft-other-us-tech-giants-hiding.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake)
 
 ---
 
-### 14. Nvidia's first Windows on Arm GeForce driver confirms RTX Spark configurations 
+### 8. AMD and Cerebras partner on low-latency, high-throughput AI inference EPYC processors in Helios rack-scale infrastructure paired with Cerebras' Wafer-Scale Engine (WSE) solutions 
 
-Nvidia has released its first native GeForce driver for Windows on Arm, confirming two RTX Spark configurations with high-core GPUs and CPUs. The driver targets Microsoft's Surface RTX Spark Dev Box, but allows developers to port Arm64 apps. This preparation is ahead of the RTX Spark's fall launch on various laptops and mini PCs.
+AMD and Cerebras partner to create low-latency, high-throughput AI infrastructure with EPYC processors and Wafer-Scale Engine solutions in Helios rack-scale systems, pushing the boundaries of data center performance.
 
-💡 *Nvidia prepares Windows on Arm ecosystem for high-performance gaming.*
+💡 *Accelerating AI performance with unprecedented scale and efficiency combined.*
 
-🔗 [Read Full Article](https://www.techspot.com/drivers/driver/file/information/18432/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-and-cerebras-partner-on-low-latency-high-throughput-ai-inference-epyc-processors-in-helios-rack-scale-infrastructure-paired-with-cerebras-wafer-scale-engine-wse-solutions)
+
+---
+
+### 9. Nvidia RTX 3090 and RTX 3050 team up to hit 144 FPS at 4K Lossless Scaling turns old Ampere GPUs into a gaming powerhouse 
+
+A gaming PC with a GeForce RTX 3090 and RTX 3050, leveraging Lossless Scaling, can achieve up to 144 FPS at 4K resolution, making it a powerful gaming setup.
+
+💡 *Old Ampere GPUs become gaming powerhouses with Lossless Scaling optimization.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3090-and-rtx-3050-team-up-to-hit-144-fps-at-4k-lossless-scaling-turns-old-ampere-gpus-into-a-gaming-powerhouse)
+
+---
+
+### 10. $379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD 
+
+The BOSGAME E6 ECO mini PC offers a powerful Intel Core 3 304 processor, 12GB of RAM, and a 512GB NVMe SSD at an affordable price of $379.99. It features multiple video outputs, dual GbE networking, and Wi-Fi 7 connectivity. This mini PC is suitable for various applications, including gaming and productivity.
+
+💡 *Affordable mini PC with impressive specs for gaming and productivity.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/24/379-99-bosgame-e6-eco-mini-pc-features-intel-core-3-304-wildcat-lake-cpu-12gb-lpddr5x-512gb-nvme-ssd/)
+
+---
+
+### 11. Tails 7.10 improves shutdown reliability, upgrades Tor Browser 
+
+Tails 7.10 enhances shutdown reliability, security with Celluloid media player, and updates Tor Browser.
+
+💡 *Enhanced shutdown reliability prevents data loss and ensures user safety.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/6518-tails.html)
+
+---
+
+### 12. A new brain-computer implant is helping blind seniors see again, and it just got approved in Europe 
+
+PRIMA, a retinal implant, has been approved in Europe to combat vision loss. This investigational device includes a subretinal photovoltaic chip and other components. It is available for commercial use in the European market.
+
+💡 *Blind seniors regain sight with groundbreaking brain-computer implant technology*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113211-sight-restoring-retinal-implant-approved-launch-30-european.html)
+
+---
+
+### 13. Xbox backwards compatibility now available on PC, starting with four original Xbox games 
+
+Original Xbox games are now available on PC via the Xbox app.
+
+💡 *Expanding backwards compatibility increases nostalgic gaming options for PC users.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113208-xbox-backwards-compatibility-now-available-pc-starting-four.html)
+
+---
+
+### 14. Framework nearly doubles Laptop 13 Pro memory prices overnight after suppliers demand more than twice as much 
+
+Framework has increased laptop memory prices by 82-88% due to supplier demands. The 32GB module now costs $800 and 64GB $1,600. The 16GB module remains at $239 for now.
+
+💡 *Laptop prices skyrocket due to supplier price gouging overnight.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113216-framework-nearly-doubles-laptop-13-pro-memory-prices.html)
+
+---
+
+### 15. Google records its first negative free cash flow since going public as its AI spending explodes 
+
+Google reported a negative free cash flow of $5.9 billion in Q2, largely due to AI spending. This marks the company's first negative free cash flow since going public. Increased investment in AI hardware is expected.
+
+💡 *Rapid AI investment depletes Google's cash reserves significantly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113214-google-records-first-negative-free-cash-flow-since.html)
 
 ---
 

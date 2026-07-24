@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 23, 2026**
+**Week of July 24, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Icy Electronics nRF54L15 Discovery devboard integrates a snappable nRF52820 CMSIS-DAP debugger ⭐
-
-**💻 Hardware**
-
-The nRF54L15 Discovery is a compact wireless devboard with an onboard CMSIS-DAP debugger for IoT applications, featuring a snap-apart design and advanced power management.
-
-💡 **Key Point:** Advances IoT development with compact, snap-apart, and highly integrated design.
-
-🔗 [Read More](https://www.cnx-software.com/2026/07/23/icy-electronics-nrf54l15-discovery-devboard-integrates-a-snappable-nrf52820-cmsis-dap-debugger/)
-
----
-
-### 2. Nvidia's Jensen Huang defends Chinese AI: "Open-source models that are excellent should be used" ⭐
+### 1. AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform ⭐
 
 **🎮 GPUs**
 
-Nvidia's Jensen Huang defends Chinese AI, emphasizing the use of open-source models.
+AMD launches the Ryzen AI Embedded X100 processor family and Kria AI SoM, offering improved AI performance and CPU core counts.
 
-💡 **Key Point:** Open-source AI models gaining recognition in the global AI landscape.
+💡 **Key Point:** Enhanced AI capabilities for edge applications and robotics development.
 
-🔗 [Read More](https://www.techspot.com/news/113210-nvidia-jensen-huang-defends-chinese-ai-open-source.html)
-
----
-
-### 3. Nvidia's Jensen Huang defends Chinese AI: "Open-source models that are excellent should be used" ⭐
-
-**🤖 AI & ML**
-
-Nvidia's Jensen Huang defends Chinese AI, emphasizing the use of open-source models.
-
-💡 **Key Point:** Open-source AI models gaining recognition in the global AI landscape.
-
-🔗 [Read More](https://www.techspot.com/news/113210-nvidia-jensen-huang-defends-chinese-ai-open-source.html)
+🔗 [Read More](https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/)
 
 ---
 
-### 4. Icy Electronics nRF54L15 Discovery devboard integrates a snappable nRF52820 CMSIS-DAP debugger ⭐
-
-**⚡ Semiconductors**
-
-The nRF54L15 Discovery is a compact wireless devboard with an onboard CMSIS-DAP debugger for IoT applications, featuring a snap-apart design and advanced power management.
-
-💡 **Key Point:** Advances IoT development with compact, snap-apart, and highly integrated design.
-
-🔗 [Read More](https://www.cnx-software.com/2026/07/23/icy-electronics-nrf54l15-discovery-devboard-integrates-a-snappable-nrf52820-cmsis-dap-debugger/)
-
----
-
-### 5. PlayStation 3 emulator adds support for ATI Radeon HD 2000, 3000, and 4000 series graphics cards on Linux 20-year-old HD 2600 crumbles, can only run Portal at 13 fps in 273p 
+### 2. AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform ⭐
 
 **💻 Hardware**
 
-RPCS3 PlayStation 3 emulator now supports older Radeon graphics cards on Linux, allowing gamers with ATI Radeon HD 2000, 3000, and 4000 series GPUs to run the emulator. The minimum system requirements have been adjusted accordingly. However, performance may vary depending on the card's capabilities.
+AMD launches the Ryzen AI Embedded X100 processor family and Kria AI SoM, offering improved AI performance and CPU core counts.
 
-💡 **Key Point:** Older graphics cards can now run PlayStation 3 emulator on Linux
+💡 **Key Point:** Enhanced AI capabilities for edge applications and robotics development.
 
-🔗 [Read More](https://www.tomshardware.com/video-games/retro-gaming/playstation-3-emulator-adds-support-for-ati-radeon-hd-2000-3000-and-4000-series-graphics-cards-on-linux-20-year-old-hd-2600-crumbles-can-only-run-portal-at-13-fps-in-273p)
+🔗 [Read More](https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/)
+
+---
+
+### 3. AMD reveals CPU architecture roadmap through 2028, following Zen 6 'Venice' launch Zen 7 'Florence' to debut in 2028 alongside diversified product family, confirms Zen 8 'Ravenna' in development ⭐
+
+**🎮 GPUs**
+
+AMD has revealed its CPU architecture roadmap through 2028, with Zen 7 'Florence' set to debut in 2028. The company is also developing Zen 8 'Ravenna' and expanding its product family. Lisa Su showcased the roadmap, providing a look at future CPU developments.
+
+💡 **Key Point:** AMD's diversified product family boosts competition in the CPU market.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-reveals-cpu-architecture-roadmap-through-2028-following-zen-6-venice-launch-zen-7-florence-to-debut-in-2028-alongside-diversified-product-family-confirms-zen-8-ravenna-in-development)
+
+---
+
+### 4. AMD takes the wraps off its Instinct MI455X AI accelerator CDNA 5 and Helios rack-scale architecture combine to take the fight to Nvidia in the data center ⭐
+
+**🎮 GPUs**
+
+AMD unveiled its MI455X AI accelerator and Helios rack-scale architecture, showcasing strong competitive performance and large HBM memory capacity. The MI455X features the CDNA 5 architecture, designed to take on NVIDIA in the data center. This move aims to challenge NVIDIA's dominance in AI computing.
+
+💡 **Key Point:** AMD challenges NVIDIA's AI computing dominance in the data center
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center)
+
+---
+
+### 5. Geekbench 7 debuts with a smarter multi-core benchmark and CUDA support ⭐
+
+**🎮 GPUs**
+
+Geekbench 7 introduces a smarter multi-core benchmark with real-world behavior, updated workloads, and CUDA support.
+
+💡 **Key Point:** Accurate performance testing for demanding applications and real-world workloads matters.
+
+🔗 [Read More](https://www.techspot.com/downloads/3943-geekbench.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **52 articles** across **5 focused categories**.
+We covered **60 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 15 | Artificial Intelligence and Machine Learning |
+| 🤖 [AI & ML](ai_and_ml.md) | 21 | Artificial Intelligence and Machine Learning |
 | 🎮 [GPUs](gpus.md) | 12 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
+| 💻 [Hardware](hardware.md) | 15 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 5 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 15 articles
+*Artificial Intelligence and Machine Learning* — 21 articles
 
 ### 🎮 [GPUs](gpus.md)
 *Graphics cards and compute accelerators* — 12 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 14 articles
+*Computing hardware and development boards* — 15 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 4 articles
+*Chip manufacturing and design* — 7 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 7 articles
+*Industry news and product launches* — 5 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-07-23 at 10:52 by an autonomous AI curation system.
+Generated 2026-07-24 at 10:47 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

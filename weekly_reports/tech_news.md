@@ -1,85 +1,65 @@
 # 📰 Tech News
-**Week of July 23, 2026**
+**Week of July 24, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-07-23 10:52
+- **Articles this week:** 5
+- **Report generated:** 2026-07-24 10:47
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Palworld's 1.0 launch is bringing back nearly a million players 
+### 1. The EU just fined Google $1 billion for favoring its own services in search and Play Store 
 
-Palworld 1.0 launched on July 10, attracting nearly a million players. The game peaked at 855,525 concurrent players on launch weekend and climbed to 961,867 on July 19. SteamDB figures show a significant increase in player count.
+The European Commission fined Google $1 billion for violating the Digital Markets Act, which regulates gatekeepers in online search.
 
-💡 *Palworld's success highlights strong demand for monster-taming games.*
+💡 *Google's dominance in online search faces increased EU regulatory scrutiny*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113200-palworld-10-launch-bringing-back-nearly-million-players.html)
-
----
-
-### 2. Data centers on track to consume 20% of US power by 2035 
-
-US data centers are projected to consume 194 gigawatts of power by 2035, an 83% increase from the previous forecast, which is roughly equivalent to the output of 194 traditional nuclear reactors.
-
-💡 *Data centers' massive power demand threatens US energy infrastructure.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113202-data-centers-track-consume-20-us-power-2035.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113217-eu-fined-google-1-billion-favoring-own-services.html)
 
 ---
 
-### 3. Oregon will start charging service providers for undersea cables using its sea floor millions accrued over years will go toward state schools 
+### 2. Best of Sensors: Stathera wins Best MEMS Solution at Sensors Converge 
 
-Oregon starts charging for undersea cable use, funding state schools with revenue.
+Stathera's DualMode MEMS oscillator won Best of Sensors in the MEMS Solution category at Sensors Converge. It generates both kHz and MHz frequencies from a single MEMS resonator using fusion bonding technology.
 
-💡 *New revenue stream supports public education in Oregon*
+💡 *Breakthrough in MEMS technology enables dual-frequency generation from a single component*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/oregon-will-start-charging-service-providers-for-undersea-cables-using-its-sea-floor-millions-accrued-over-years-will-go-toward-state-schools)
-
----
-
-### 4. Grand Theft Auto Multiverse with real-time portals created by ambitious modder San Andreas, Vice City and GTA III all run simultaneously, with cross-game interactions 
-
-A modder named Dryxio has created a groundbreaking mod that connects Grand Theft Auto: San Andreas, Vice City, and GTA III through real-time portals, allowing for seamless cross-game interactions within a single, immersive experience.
-
-💡 *Innovative modding pushes gaming boundaries with intergame connectivity.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/ambitious-modder-creates-grand-theft-auto-multiverse-with-real-time-portals-san-andreas-vice-city-and-gta-iii-all-run-simultaneously-with-cross-game-interactions)
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors/best-sensors-stathera-wins-best-mems-solution-sensors-converge)
 
 ---
 
-### 5. Data centers forecast to use 20% of US power by 2035 analysts estimate usage will rocket to 194 gigawatts, 83% more than forecast seven months ago 
+### 3. This $299 flip phone is the anti-smartphone, promises to save you from doomscrolling hell 
 
-Data centers are forecast to use 194 gigawatts of US power by 2035, an 83% increase from a previous estimate. This demand is 36% higher than a projection published just seven months prior. The growth is attributed to increased energy consumption.
+The Light Flip phone features an OLED display, T9 keypad, and 50MP camera, offering a retro alternative to smartphones.
 
-💡 *Data centers' energy demand is skyrocketing at alarming rates*
+💡 *A return to simplicity may save users from smartphone addiction.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/bnef-nearly-doubles-its-us-data-center-power-forecast-to-194gw)
-
----
-
-### 6. Firefox 153 ESR arrives with major productivity, privacy, and enterprise upgrades 
-
-Firefox 153 ESR arrives with numerous improvements, including profile management and Split View, as well as stronger privacy protections and AI features. These updates aim to enhance user productivity and experience. The new release also includes various platform and enterprise enhancements.
-
-💡 *Major Firefox upgrade boosts productivity and user privacy features*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/4056-firefox-esr.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113222-299-flip-phone-anti-smartphone-promises-save-you.html)
 
 ---
 
-### 7. Samsung Galaxy Z Fold 8 and Fold 8 Ultra debut with Flex Titanium displays and Snapdragon 8 Gen 5 
+### 4. Lego brings The X-Files to life with a 1,478-piece set including Mulder and Scully minifigs 
 
-Samsung introduces Galaxy Z Fold 8 and Fold 8 Ultra with improved displays and processors, potentially countering Apple's rumored foldable iPhone.
+Lego releases a 1,478-piece The X-Files set with Mulder and Scully minifigs. The set includes a cinematic promo featuring actress Gillian Anderson. This marks the first Lego representation of the iconic characters.
 
-💡 *Samsung innovates foldable tech to maintain market lead amidst Apple competition*
+💡 *Iconic franchise gets Lego treatment, appealing to nostalgic fans worldwide.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113204-samsung-galaxy-z-fold-8-fold-8-ultra.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113219-lego-brings-x-files-life-1478-piece-set.html)
+
+---
+
+### 5. AMD confirmed $5.4 billion ATI acquisition 20 years ago today deal to 'reinvent our industry' paved the way for Radeon GPU innovation, APUs, and games console domination 
+
+AMD acquired ATI in 2006 for $5.4 billion, expanding its graphics capabilities.
+
+💡 *Acquisition fueled Radeon GPU innovation and gaming console leadership.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amd-confirmed-usd5-4-billion-ati-acquisition-20-years-ago-today-deal-to-reinvent-our-industry-paved-the-way-for-radeon-gpu-innovation-apus-and-games-console-domination)
 
 ---
 
