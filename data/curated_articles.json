@@ -1,368 +1,226 @@
 [
   {
-    "title": "AMD confirmed $5.4 billion ATI acquisition 20 years ago today deal to 'reinvent our industry' paved the way for Radeon GPU innovation, APUs, and games console domination",
-    "summary": "On this day in 2006, AMD confirmed its acquisition of graphics chip firm ATI. AMD stumped up a cash-and-stock deal worth a total of $5.4B for the Canadian PC graphics innovators.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/amd-confirmed-usd5-4-billion-ati-acquisition-20-years-ago-today-deal-to-reinvent-our-industry-paved-the-way-for-radeon-gpu-innovation-apus-and-games-console-domination",
+    "title": "Lockheed Martin unveils counter-drone system that can neutralize up to 50 enemy drones in a single mission sensor-agnostic system uses High Power Microwave to purge enemies from the sky",
+    "summary": "Lockheed Martin has unveiled a ground-launched high-power microwave counter-drone system which cab 'neutralize up to 50 enemy drones in a single mission.'",
+    "link": "https://www.tomshardware.com/tech-industry/drones/lockheed-martin-unveils-counter-drone-system-that-can-neutralize-up-to-50-enemy-drones-in-a-single-mission-sensor-agnostic-system-uses-high-power-microwave-to-purge-enemies-from-the-sky",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-25T10:15:25.901544"
+  },
+  {
+    "title": "RAM thieves in China jailed after looting a string of eSport hotels stole 16 sticks worth $2,000 in 'frenzied hotel room-dismantling'",
+    "summary": "The rise and fall of a pair of eSports hotel RAM thieves has been retold by Chinese news media.",
+    "link": "https://www.tomshardware.com/pc-components/ram/ram-thieves-in-china-jailed-after-looting-a-string-of-esport-hotels-stole-16-sticks-worth-usd2-000-in-frenzied-hotel-room-dismantling",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-25T10:15:25.901655"
+  },
+  {
+    "title": "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban OpenAI, Anthropic, and Google absent from the list",
+    "summary": "Signatories include chipmakers, server vendors, cloud operators, enterprise software firms, security companies, and venture funds",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-24-other-companies-sign-open-weights-letter-as-washington-weighs-chinese-ai-model-ban",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-25T10:15:25.901771"
+  },
+  {
+    "title": "Geekom A9 Max 2026 review: Gorgon Point in a compact Mini PC",
+    "summary": "Mini PC specialist Geekom has updated its A9 Max design with AMD s latest mobile silicon. The incremental improvements of the AMD Ryzen AI 9 HX470 are supported by a revamped Ice Blast 3.0 cooling solution with larger fan and all copper heatpipes in a sleek 0.9L chassis.",
+    "link": "https://www.tomshardware.com/desktops/mini-pcs/geekom-a9-max-2026-mini-pc-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-25T10:15:25.901916"
+  },
+  {
+    "title": "OpenAI's HuggingFace breach heralds an unprecedented age of AI cyber warfare contemporary LLMs have caused massive upheaval in cybersecurity, and it's only going to get worse",
+    "summary": "Contemporary AI bots are far too competent at cybersecurity, and humanity may have reached a tipping point where it's hard to keep up.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-huggingface-breach-heralds-an-unprecedented-age-of-ai-cyber-warfare-contemporary-llms-have-caused-massive-upheaval-in-cybersecurity-and-its-only-going-to-get-worse",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-25T10:15:25.902025"
+  },
+  {
+    "title": "Dell 14S review: High-class design and 20+ hour battery life",
+    "summary": "The Dell 14S makes good on its promise of serving as a cheaper alternative to the pricier XPS 14.",
+    "link": "https://www.tomshardware.com/laptops/dell-14s-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-25T10:15:25.902120"
+  },
+  {
+    "title": "AMD working on new X3D V-cache mobile chip for gaming laptops, leaker claims Ryzen 7 9800HX3D could launch with 8 cores, 16 threads, and 96MB cache",
+    "summary": "A fresh leak suggests AMD is preparing an 8-core, 16-thread Zen 5 mobile processor with 96MB of L3 cache, potentially bringing the desktop Ryzen 7 9800X3D experience to gaming laptops.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-working-on-new-x3d-v-cache-mobile-chip-for-gaming-laptops-leaker-claims-ryzen-7-9800hx3d-could-launch-with-8-cores-16-threads-and-96mb-cache",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-25T10:15:25.902236"
+  },
+  {
+    "title": "Gigabyte announces support for Chinese-made CXMT memory pushes it to 8200 MT/s on Socket AM5",
+    "summary": "The performance is impressive and it's good to see official support, but the question remains whether you can actually buy any of it.",
+    "link": "https://www.tomshardware.com/pc-components/ddr5/gigabyte-announces-support-for-chinese-made-cxmt-memory-pushes-it-to-8200-mt-s-on-socket-am5",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-25T10:15:25.902333"
+  },
+  {
+    "title": "AMD exec was very happy to see Nvidia s Vera performance results I actually thought we were beating them by smaller numbers ",
+    "summary": "Nvidia took the first stab with its Vera results earlier this week, and now AMD is biting back with SPEC results for its Zen 6 Venice CPUs, as well.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-exec-was-very-happy-to-see-nvidias-vera-performance-results-i-actually-thought-we-were-beating-them-by-smaller-numbers",
     "categories": [
       "GPUs",
-      "Tech News"
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-25T10:15:25.902446"
+  },
+  {
+    "title": "'When will the EA greed end': Fans vent their fury as company announces $150 version of FC 27 annual game release comes in three editions, but top-tier option is 50% more expensive than GTA VI Ultimate",
+    "summary": "EA's FC 27 is available in three options, starting at $69.99 for the base game and going up to $149.99 for the Ultimate Plus Edition. The top-tier option, which costs more than double than the Standard Edition, caused sticker shock for everyone and caught the ire of gamers.",
+    "link": "https://www.tomshardware.com/video-games/when-will-the-ea-greed-end-fans-vent-their-fury-as-company-announces-usd150-version-of-fc-27-annual-game-release-comes-in-three-editions-but-top-tier-option-is-50-percent-more-expensive-than-gta-vi-ultimate",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-25T10:15:25.902562"
+  },
+  {
+    "title": "OpenAI took ten days to tell Hugging Face its models were behind the July 11 weekend hack, report claims rogue AI agents reportedly active on the open Internet for several days",
+    "summary": "OpenAI confirmed to Hugging Face only this week that models it was testing carried out the July 11 attack on the AI platform's production infrastructure.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-took-ten-days-to-tell-hugging-face-its-models-were-behind-the-july-11-weekend-hack",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-25T10:15:25.902668"
+  },
+  {
+    "title": "President Trump expands AI data center ratepayer protection pledge to include state governors and utility companies White House claims this will make electricity more affordable",
+    "summary": "U.S. President Donald Trump expands the 'ratepayer protection pledge' to include states, utility companies, and data center developers. He claims that the pledge will help electricity costs go down, even as PJM Interconnect, the largest grid operator in the U.S., increased power costs by 75.5% and slapped Maryland with a $2-billion bill for infrastructure upgrades.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/president-trump-expands-ai-data-center-ratepayer-protection-pledge-to-include-state-governors-and-utility-companies-white-house-claims-this-will-make-electricity-more-affordable",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-25T10:15:25.902788"
+  },
+  {
+    "title": "Save $460 on this AMD 9800X3D gaming PC with RTX 5080 get blistering 4K performance for less",
+    "summary": "Get an RTX 5080 gaming PC with 9800X3D for $2,829 at Newegg.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd460-on-this-amd-9800x3d-gaming-pc-with-rtx-5080-get-blistering-4k-performance-for-less",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-25T10:15:25.902919"
+  },
+  {
+    "title": "Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots",
+    "summary": "Beelink ME Pro 2-Bay AI NAS Mini PC Intel Wildcat Lake 304 offers two SATA bays and one M.2 PCIe Gen4 socket, and is equipped with 16GB DDR5-5600 SO-DIMM memory and 512GB UFS 3.1 storage. It s an upgrade to the Beelink ME Pro Intel N95/N150 NAS and mini PC introduced last February. Besides the faster processor, the NAS trades its 5GbE port for a faster 10GbE port, and gains two Thunderbolt 4 ports. One downside, due to the lower number of PCIe lanes in Wildcat Lake processors, is that it now features one M.2 PCIe Gen4 socket, instead of three M.2 PCIe Gen3 sockets, which is somewhat mitigated by the built-in UFS storage. Beelink ME Pro specifications: SoC Intel Core 3 304 Wildcat Lake 5-core CPU 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) Cache 6MB L3 cache GPU 1-core Intel [...] The post Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/25/beelink-me-pro-2-bay-hybrid-nas-gets-wildcat-lake-treatment-gains-10gbe-and-thunderbolt-4-loses-a-few-m-2-slots/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-25T10:15:25.903449"
+  },
+  {
+    "title": "AMD goes big on robots, physical AI with X100 SoC, open software and partnerships",
+    "summary": "From robot body to robot brain: new AMD SoC combines CPU, GPU, NPU and company names robot sensing partners",
+    "link": "https://www.fiercesensors.com/embedded/amd-goes-big-robots-physical-ai-x100-soc-open-software-and-partnerships",
+    "categories": [
+      "GPUs",
+      "AI & ML"
     ],
     "quality_score": 0,
-    "processed_date": "2026-07-24T10:46:42.491567"
+    "processed_date": "2026-07-25T10:15:25.904458"
   },
   {
-    "title": "AMD reveals CPU architecture roadmap through 2028, following Zen 6 'Venice' launch Zen 7 'Florence' to debut in 2028 alongside diversified product family, confirms Zen 8 'Ravenna' in development",
-    "summary": "AMD's Lisa Su shows off the company's roadmap through 2030, including teases of Zen 7 and Zen 8 CPUs.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-reveals-cpu-architecture-roadmap-through-2028-following-zen-6-venice-launch-zen-7-florence-to-debut-in-2028-alongside-diversified-product-family-confirms-zen-8-ravenna-in-development",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-24T10:46:42.491734"
-  },
-  {
-    "title": "AMD s new X100 chip lineup puts embedded Ryzen AI 'Strix Halo' chips into robots APUs for physical AI bring Zen 5 CPU, RDNA 3.5 GPU cores to compete with Intel s Panther Lake",
-    "summary": "Countering Intel s recent moves, AMD is bringing its Strix Halo APUs to the realm of robots, and physical AI. Designed for 24/7 operation and a 10-year embedded lifecycle, X100 will also be offered as a Kria System on Module (SOM) robot developer platform.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake",
+    "title": "Leak details Ryzen 7 9800HX3D, AMD's first affordable 3D V-cache laptop CPU",
+    "summary": "Prominent tipster Golden Pig Upgrade claims that AMD is developing a new Zen 5 laptop CPU equipped with 3D V-cache. The chip's tentative naming suggests it could land in relatively affordable mid-to-high-end gaming laptops. Read Entire Article",
+    "link": "https://www.techspot.com/news/113237-leak-details-ryzen-7-9800hx3d-amd-first-affordable.html",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.491870"
+    "processed_date": "2026-07-25T10:15:25.904753"
   },
   {
-    "title": "AMD takes the wraps off its Instinct MI455X AI accelerator CDNA 5 and Helios rack-scale architecture combine to take the fight to Nvidia in the data center",
-    "summary": "AMD showed off its MI455X accelerator at its Advancing AI 2026 event, demonstrating its strong competitive performance, large HBM memory capacity, and Helios rack-scale architecture.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-24T10:46:42.492000"
-  },
-  {
-    "title": "AMD and Cerebras partner on low-latency, high-throughput AI inference EPYC processors in Helios rack-scale infrastructure paired with Cerebras' Wafer-Scale Engine (WSE) solutions",
-    "summary": "When AMD's Helios meets giant wafers from Cerebras, it is not like when Odysseus meets with the Laestrygonian Giants, they collaborate to build an ultimate data center solution.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-and-cerebras-partner-on-low-latency-high-throughput-ai-inference-epyc-processors-in-helios-rack-scale-infrastructure-paired-with-cerebras-wafer-scale-engine-wse-solutions",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.492123"
-  },
-  {
-    "title": "Nvidia RTX 3090 and RTX 3050 team up to hit 144 FPS at 4K Lossless Scaling turns old Ampere GPUs into a gaming powerhouse",
-    "summary": "A gaming enthusiast leverages Lossless Scaling to supercharge a gaming PC with a GeForce RTX 3090 and GeForce RTX 3050 to deliver up to 144 FPS at 4K.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3090-and-rtx-3050-team-up-to-hit-144-fps-at-4k-lossless-scaling-turns-old-ampere-gpus-into-a-gaming-powerhouse",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.492311"
-  },
-  {
-    "title": "New semiconductor firm breaks cover, backed by $43 million in early-stage funding TYLsemi aims to deliver custom silicon to customers without breaking the bank",
-    "summary": "TYLsemi is set to offer pre-validated chiplets, along with custom ASIC design services, and build highly custom multi-tile processors at relatively low costs.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/new-semiconductor-firm-breaks-cover-backed-by-usd43-million-in-early-stage-funding-tylsemi-aims-to-deliver-custom-silicon-to-customers-without-breaking-the-bank",
+    "title": "Nvidia is challenging 20 years of datacenter CPU design with its new Vera chip",
+    "summary": "Vera is built around the Olympus core, the first custom CPU core Nvidia has ever brought to the datacenter and the first custom core the company has designed anywhere since the Denver and Carmel efforts of the Tegra era nearly a decade ago. Read Entire Article",
+    "link": "https://www.techspot.com/news/113234-nvidia-challenging-20-years-datacenter-cpu-design-new.html",
     "categories": [
       "Semiconductors",
-      "AI & ML"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.492506"
+    "processed_date": "2026-07-25T10:15:25.904877"
   },
   {
-    "title": "AMD s 256-core Epyc 9996 Venice claims up to a 3.4x jump over Intel Xeon competition, 20% over Nvidia Vera Zen 6 comes with up to 1024MB of L3, 16-channel memory, and 5GHz+ clock speeds",
-    "summary": "After over a year of teases, AMD has finally provided details on its 256-core Venice CPU with the Zen 6 architecture, now known as the Epyc 9996.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-9996-venice-claims-up-to-a-3-4x-jump-over-intel-xeon-competition-20-percent-over-nvidia-vera-zen-6-comes-with-up-to-1024mb-of-l3-16-channel-memory-and-5ghz-clock-speeds",
+    "title": "Microsoft steps in after LG monitors were found auto-installing apps with McAfee ads",
+    "summary": "The controversial advertising partnership between LG and McAfee has apparently come to an end after Microsoft got involved in the matter. Read Entire Article",
+    "link": "https://www.techspot.com/news/113223-microsoft-steps-after-lg-monitors-found-auto-installing.html",
     "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-24T10:46:42.492705"
-  },
-  {
-    "title": "AMD s Venice-X CPU launches in 2027 with 1152 MB of 3D V-Cache, 96 cores, and 5.15 GHz boost clock Zen 6 CPU for high-performance computing comes with major pillars of Venice",
-    "summary": "AMD is returning to 3D V-Cache in its data center range of CPUs with Venice-X, which it has confirmed will launch in the second half of 2027, with 1152 MB of L3 and clock speeds up to 5.15 GHz.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-cpu-launches-in-2027-with-1152-mb-of-3d-v-cache-96-cores-and-5-15-ghz-boost-clock-zen-6-cpu-for-high-performance-computing-comes-with-major-pillars-of-venice",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-24T10:46:42.492820"
-  },
-  {
-    "title": "Geekbench 7 introduces biggest overhaul yet real-world CPU testing, new media workloads, AI benchmarks, and CUDA support",
-    "summary": "The latest update introduces more realistic CPU and GPU workloads, redesigned multi-core testing, AI-focused benchmarks, larger datasets, and CUDA support for Nvidia GPUs.",
-    "link": "https://www.tomshardware.com/software/geekbench-7-introduces-biggest-overhaul-yet-real-world-cpu-testing-new-media-workloads-ai-benchmarks-and-cuda-support",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-24T10:46:42.492950"
-  },
-  {
-    "title": "AI memory shortage is now increasing the price of cars GM warns of vast cost increases, BYD hikes driver assistance prices 20%",
-    "summary": "GM CFO Paul Jacobson says that the company's costs are expected to increase by $1.5 to $2 billion, primarily due to increasing memory chip costs. The move comes as the RAM shortage is affecting the automotive industry, right as cars are requiring more memory and storage due to infotainment and ADAS features.",
-    "link": "https://www.tomshardware.com/pc-components/ram/ai-memory-shortage-is-now-increasing-the-price-of-cars-gm-warns-of-vast-cost-increases-byd-hikes-driver-assistance-prices-20-percent",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.493073"
+    "processed_date": "2026-07-25T10:15:25.904996"
   },
   {
-    "title": "Kill switches for most powerful AI models proposed by Bipartisan bill DHS could order throttling or full shutdown, with fines up to $20 million per day",
-    "summary": "The bill amends the Homeland Security Act and covers companies earning at least $500 million in annual revenue from a model trained with compute costing more than $100 million.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bipartisan-bill-would-require-kill-switches-on-the-most-powerful-ai-models",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.493255"
-  },
-  {
-    "title": "Inside optical and the battle for scale how the AI industry is racing to integrate photonic interconnects",
-    "summary": "With the limitations of copper looming, the industry is transitioning to photonic interconnects to scale data center capabilities. We spoke to experts such as Lightmatter chief executive Nick Harris about the new scale-out paradigm and the battle for control over emerging standards.",
-    "link": "https://www.tomshardware.com/tech-industry/inside-optical-and-the-battle-for-scale-how-the-ai-industry-is-racing-to-integrate-photonic-interconnects",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.493370"
-  },
-  {
-    "title": "Arctic Senza AI 370 review: Strix Point in a stealthy under-desk fanless design",
-    "summary": "The Arctic Senza AI 370 is a fanless mini PC designed to mount under your desk. Everyday performance isn t held back by the lack of active cooling, and its soldered dual-channel 32GB LPDDR5X-8000 is appreciated during the RAM shortages. The meager front panel I/O is the only major drawback to the design.",
-    "link": "https://www.tomshardware.com/desktops/mini-pcs/arctic-senza-ai-370-fanless-mini-pc-review",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-24T10:46:42.493494"
-  },
-  {
-    "title": "142 AI data center protests staged in 42 states as public opposition increases organizers brand 'unaccountable' buildouts as an 'unacceptable infringement on our liberty'",
-    "summary": "Data center projects are facing increasing opposition from surrounding communities, making consent even far scarcer than the chips and power needed to run these facilities. Any developer planning to construct one must now consider the people living around the proposed site and take account for the months or years needed to approve it, if it even gets the green light.",
-    "link": "https://www.tomshardware.com/tech-industry/policy/142-ai-data-center-protests-staged-in-42-states-as-public-opposition-increases-organizers-brand-unaccountable-buildouts-as-an-unacceptable-infringement-on-our-liberty",
+    "title": "OpenAI's rogue hacking incident sparks bipartisan bill giving the government an AI kill switch",
+    "summary": "Sponsored by Reps. Ted Lieu (D-Calif.) and Nathaniel Moran (R-Texas), the bipartisan \"AI Kill Switch Act\" would also require AI companies to report incidents and develop the technical ability to shut down, limit, or suspend their most powerful AI systems, writes Politico. Read Entire Article",
+    "link": "https://www.techspot.com/news/113230-openai-rogue-hacking-incident-sparks-bipartisan-bill-giving.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.493645"
+    "quality_score": 0,
+    "processed_date": "2026-07-25T10:15:25.905126"
   },
   {
-    "title": "$379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD",
-    "summary": "BOSGAME E6 ECO is another Wildcat Lake mini PC powered by the penta-core Intel Core 3 304 processor, paired with 12GB LPDDR5X and a 512GB NVMe SSD, and an attractive price tag of $379.99 and up. It also features three video outputs via HDMI 2.0, DisplayPort 1.4, and USB-C ports, dual GbE networking, Wi-Fi 7 and Bluetooth 5.4 wireless connectivity, a 3.5mm audio jack, and five USB ports. BOSGAME E6 ECO mini PC: SoC Intel Core 3 304 Wildcat Lake 5-core CPU 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) Cache 6MB L3 cache GPU 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) NPU 15 TOPS Manufacturing processor Intel 18A System Memory 12GB LPDDR5x @ 6400MT/s Storage 512GB M.2 NVMe SSD; upgradable to up to 4TB Additional M.2 2242 PCIe Gen4 slot Video Output HDMI 2.0 video [...] The post $379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/24/379-99-bosgame-e6-eco-mini-pc-features-intel-core-3-304-wildcat-lake-cpu-12gb-lpddr5x-512gb-nvme-ssd/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.494153"
-  },
-  {
-    "title": "CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs",
-    "summary": "CirkitScape Top HAT (also written as TopHAT) is a multi-function expansion board for the Raspberry Pi that adds 16 extra GPIOs through an I2C expander, an RS-485 header, a 3-channel, 12-bit ADC, and four extra USB 2.0 ports through a USB hub. The company told us it s designed to make prototyping, sensing, automation, and real-world Raspberry Pi builds cleaner and easier without stacking as many separate add-ons . A Top HAT Sensor Kit is also offered with a few sensors for environmental monitoring builds. CirkitScape Top HAT specifications: Supported SBCs Raspberry Pi boards and compatible SBCs with 40-pin GPIO header, including the Pi 5, 4, 3B+, and Zero USB 4x USB 2.0 (480 Mbps) ports 4-port USB 2.0 hub Per-port current-limited switches (500mA per port) I/O Expansion 16x GPIOs via MCP23017 I C expander Analog Input 3-channel 12-bit ADC via ADS1015 chip RS-485 interface via MAX485 half-duplex transceiver Communication Interfaces [...] The post CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-24T10:46:42.494319"
-  },
-  {
-    "title": "AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform",
-    "summary": "AMD has announced a range of new AI solutions at Advanced AI 2026, including 6th Gen AMD EPYC CPUs, AMD Instinct MI400 Series GPUs, and AMD Helios AI rackscale solutions designed for data centers. In this article, we ll focus instead on embedded and physical AI solutions like the new Ryzen AI Embedded X100 processor family and a new Kria AI SoM integrated into the Kria AI Robotics Developer Platform pairing an X100 embedded CPU with a Kria FPGA. AMD Ryzen AI Embedded X100 AMD first introduced the Ryzen AI Embedded X100 family when it launched the Ryzen AI Embedded P100 family in January 2026, delivering up to 50 TOPS of AI performance. However, at the time there were very few details about the X100 family, just that it would offer higher CPU core counts and AI TOPS performance, and this latest announcement fixes that. AMD claims the new X100 series [...] The post AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-07-24T10:46:42.494480"
-  },
-  {
-    "title": "Augmental MouthPad is a tongue-controlled touchpad/trackpad",
-    "summary": "Check your calendar, everyone! It s definitely not April 1st. Now that we have that out of the way, we can start with the main topic of this article. Ready? Augmental MouthPad is a Bluetooth HID device you put into your mouth and control like a touchpad or trackpad, but with your tongue (and head) instead of your fingers. MouthPad is a custom-fit mouthpiece that turns tongue and head movements into HID data to control a phone, a tablet, and a computer like you would normally do with using a mouse, touchpad, or a touchscreen. When I first read about it and saw a short video on X, it felt like a joke, but it can be a lifesaver for people with disabilities. MouthPad specifications: Compatibility macOS, Windows, Linux, iOS, Android Connectivity Bluetooth Battery 7+ hours of continuous use 1.5 hours charge time Dimensions MouthPad About ~30 [...] The post Augmental MouthPad is a tongue-controlled touchpad/trackpad appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/23/augmental-mouthpad-tongue-controlled-touchpad-trackpad/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-24T10:46:42.494668"
-  },
-  {
-    "title": "Best of Sensors: Stathera wins Best MEMS Solution at Sensors Converge",
-    "summary": "Strathera's DualMode MEMS oscillator generates both kHz and MHz from a single MEMS resonator via fusion bonding tech. It won Best of Sensors in the MEMS Solution category at Best of Sensors May 6 at Sensors Converge.",
-    "link": "https://www.fiercesensors.com/sensors/best-sensors-stathera-wins-best-mems-solution-sensors-converge",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.495814"
-  },
-  {
-    "title": "The AMD Radeon Settings You Should Actually Be Using",
-    "summary": "AMD Software is packed with gaming features, but not all are worth using. Here are the Radeon settings we recommend for better image quality, smoother gameplay, and cleaner recordings. Read Entire Article",
-    "link": "https://www.techspot.com/guides/3144-amd-software/",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.495973"
-  },
-  {
-    "title": "This $299 flip phone is the anti-smartphone, promises to save you from doomscrolling hell",
-    "summary": "The Light Flip features a 2.8-inch non-touch OLED display, 6GB of RAM, 128GB of storage, a 50MP rear camera, and a replaceable 1,800mAh battery. It sports an old-school T9 keypad, which used to be standard on candybar feature phones from Nokia, Motorola, and Sony Ericsson in the early 2000s. Read Entire Article",
-    "link": "https://www.techspot.com/news/113222-299-flip-phone-anti-smartphone-promises-save-you.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.496126"
-  },
-  {
-    "title": "Geekbench 7 debuts with a smarter multi-core benchmark and CUDA support",
-    "summary": "Geekbench 7 overhauls the benchmarking suite with a redesigned multi-core benchmark built around real-world application behavior, refreshed CPU and GPU workloads (AV1 encoding, ML upscaling, path tracing, etc), CUDA support for Nvidia GPUs, and larger datasets for more demanding performance testing. The new release also establishes AMD's Ryzen 7 7700 as its scoring baseline. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/3943-geekbench.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-24T10:46:42.496261"
-  },
-  {
-    "title": "Tails 7.10 improves shutdown reliability, upgrades Tor Browser",
-    "summary": "Tails has introduced a safer shutdown process to help prevent data loss. It's also replacing GNOME Videos with the more secure Celluloid media player, updating Tor Browser, and refreshing firmware packages for improved graphics and Wi-Fi hardware support. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/6518-tails.html",
+    "title": "Google now lets you sign into your account using a selfie video",
+    "summary": "Google account holders can now check their eligibility to test a new sign-in method that compares a selfie video with an encrypted version stored on the company's servers. Google aims to provide a last resort when users cannot remember passwords or utilize passkeys. Read Entire Article",
+    "link": "https://www.techspot.com/news/113225-bye-passwords-google-now-you-sign-account-selfie.html",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.496370"
+    "processed_date": "2026-07-25T10:15:25.905252"
   },
   {
-    "title": "Apple's App Store is on pace to add 1 million new apps this year, most are AI slop",
-    "summary": "Data from Sensor Tower suggests that app submissions to the App Store have risen steadily over the past few years, after bottoming out at around 420,000 in 2022. Last year, around 600,000 new apps were listed on the App Store, up 30% from 2024. Read Entire Article",
-    "link": "https://www.techspot.com/news/113213-apple-app-store-inundated-low-quality-vibecoded-apps.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.496488"
-  },
-  {
-    "title": "The EU just fined Google $1 billion for favoring its own services in search and Play Store",
-    "summary": "The European Commission has announced two new fines against Google totaling $1 billion. The EU's executive body penalized the Alphabet corporation for violating rules contained in the Digital Markets Act, which imposes tighter regulations on organizations designated as \"gatekeepers\" in specific markets, such as online search. Read Entire Article",
-    "link": "https://www.techspot.com/news/113217-eu-fined-google-1-billion-favoring-own-services.html",
+    "title": "First-responder drones are spreading rapidly across the US, and privacy groups are worried",
+    "summary": "The EFF writes that as of February 2026, over 1,000 public safety agencies, including police, fire, and other emergency management agencies, had received the FAA waivers needed to automate drone operations and launch a DFR program. Read Entire Article",
+    "link": "https://www.techspot.com/news/113228-first-responder-drones-spreading-rapidly-across-us-privacy.html",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-24T10:46:42.496628"
-  },
-  {
-    "title": "Lego brings The X-Files to life with a 1,478-piece set including Mulder and Scully minifigs",
-    "summary": "Lego went all out with its reveal, teaming up with actress Gillian Anderson to create a cinematic promo. Anderson portrayed Special Agent Dana Scully opposite David Duchovny as Fox Mulder in the series, which ran for nine seasons between 1993 and 2002 during its original run. The franchise later spawned... Read Entire Article",
-    "link": "https://www.techspot.com/news/113219-lego-brings-x-files-life-1478-piece-set.html",
-    "categories": [
-      "Tech News"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.496762"
-  },
-  {
-    "title": "Apple's rumored leasing program could restrict apps, lock down iPhones if you miss payments",
-    "summary": "The code, discovered by 9to5Mac, describes a system called App Managed Features. It would allow an authorized financing provider's app to enroll an iPhone and regularly check whether the contract remains in good standing. Read Entire Article",
-    "link": "https://www.techspot.com/news/113218-apple-leasing-plan-could-restrict-apps-block-resets.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.496876"
-  },
-  {
-    "title": "A new brain-computer implant is helping blind seniors see again, and it just got approved in Europe",
-    "summary": "Science describes PRIMA as an \"investigational\" retinal implant designed to combat vision loss caused by GA and AMD. For the time being, the device is commercially available only in the European market. The implant is actually part of a more complex system that includes both a subretinal photovoltaic chip and... Read Entire Article",
-    "link": "https://www.techspot.com/news/113211-sight-restoring-retinal-implant-approved-launch-30-european.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.497046"
-  },
-  {
-    "title": "Xbox backwards compatibility now available on PC, starting with four original Xbox games",
-    "summary": "Four games from the original Xbox are now available on PC for the first time via the Xbox app on Windows 11. More titles are on the horizon, but Microsoft has not specified which games will be added or when they will arrive. Read Entire Article",
-    "link": "https://www.techspot.com/news/113208-xbox-backwards-compatibility-now-available-pc-starting-four.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.497152"
-  },
-  {
-    "title": "Framework nearly doubles Laptop 13 Pro memory prices overnight after suppliers demand more than twice as much",
-    "summary": "Framework's 32GB module has jumped from $439 to $800, an increase of 82%, while the 64GB option has risen from $849 to a brutal $1,600, up 88%. Linus Sebastian's favorite laptop company is keeping the 16GB module at $239 for now, but warns that price will also increase once its remaining lower-cost stock runs out. Read Entire Article",
-    "link": "https://www.techspot.com/news/113216-framework-nearly-doubles-laptop-13-pro-memory-prices.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.497264"
-  },
-  {
-    "title": "OpenAI says its AI models went rogue and hacked another company",
-    "summary": "OpenAI has confirmed that a combination of its large language models broke out of an isolated testing environment and went on to hack into rival AI company Hugging Face while trying to cheat on an internal benchmark. No person directed the attack. Read Entire Article",
-    "link": "https://www.techspot.com/news/113212-openai-ai-models-went-rogue-hacked-another-company.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-24T10:46:42.497369"
-  },
-  {
-    "title": "Google records its first negative free cash flow since going public as its AI spending explodes",
-    "summary": "Google said its free cash flow the cash it had remaining after paying for operations and investments for the three months to the end of June was at negative $5.9 billion. The revelation, combined with the announcement that it would be spending even more money on AI hardware... Read Entire Article",
-    "link": "https://www.techspot.com/news/113214-google-records-first-negative-free-cash-flow-since.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.497479"
-  },
-  {
-    "title": "Nvidia reveals Vera CPU details, claims its custom Olympus cores outperform AMD Epyc Turin",
-    "summary": "Part of Nvidia's Vera Rubin platform, the Arm-based Vera CPU is designed to perform complex reasoning, facilitate tool execution, generate code, and plan tasks for AI agents. Developed as a multi-purpose chip, it can also handle scientific data processing and reinforcement learning, which demand more CPU power than typical AI... Read Entire Article",
-    "link": "https://www.techspot.com/news/113209-nvidia-reveals-vera-cpu-details-claims-custom-olympus.html",
-    "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-24T10:46:42.497615"
+    "processed_date": "2026-07-25T10:15:25.905359"
   }
 ]

@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 24, 2026**
+**Week of July 25, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform ⭐
+### 1. Lockheed Martin unveils counter-drone system that can neutralize up to 50 enemy drones in a single mission sensor-agnostic system uses High Power Microwave to purge enemies from the sky ⭐
 
-**🎮 GPUs**
+**📰 Tech News**
 
-AMD launches the Ryzen AI Embedded X100 processor family and Kria AI SoM, offering improved AI performance and CPU core counts.
+Lockheed Martin unveiled a ground-launched high-power microwave counter-drone system, capable of neutralizing up to 50 enemy drones in a single mission. The system is sensor-agnostic, making it adaptable to various environments. This cutting-edge technology enhances military capabilities against drone threats.
 
-💡 **Key Point:** Enhanced AI capabilities for edge applications and robotics development.
+💡 **Key Point:** Enhanced military capabilities against drone threats with high-tech countermeasures.
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/)
-
----
-
-### 2. AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform ⭐
-
-**💻 Hardware**
-
-AMD launches the Ryzen AI Embedded X100 processor family and Kria AI SoM, offering improved AI performance and CPU core counts.
-
-💡 **Key Point:** Enhanced AI capabilities for edge applications and robotics development.
-
-🔗 [Read More](https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/drones/lockheed-martin-unveils-counter-drone-system-that-can-neutralize-up-to-50-enemy-drones-in-a-single-mission-sensor-agnostic-system-uses-high-power-microwave-to-purge-enemies-from-the-sky)
 
 ---
 
-### 3. AMD reveals CPU architecture roadmap through 2028, following Zen 6 'Venice' launch Zen 7 'Florence' to debut in 2028 alongside diversified product family, confirms Zen 8 'Ravenna' in development ⭐
+### 2. Geekom A9 Max 2026 review: Gorgon Point in a compact Mini PC 
 
-**🎮 GPUs**
+**📰 Tech News**
 
-AMD has revealed its CPU architecture roadmap through 2028, with Zen 7 'Florence' set to debut in 2028. The company is also developing Zen 8 'Ravenna' and expanding its product family. Lisa Su showcased the roadmap, providing a look at future CPU developments.
+The Geekom A9 Max 2026 features the AMD Ryzen AI 9 HX470 and a revamped Ice Blast 3.0 cooling solution in a compact 0.9L chassis.
 
-💡 **Key Point:** AMD's diversified product family boosts competition in the CPU market.
+💡 **Key Point:** Compact Mini PC with efficient cooling and powerful mobile silicon.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-reveals-cpu-architecture-roadmap-through-2028-following-zen-6-venice-launch-zen-7-florence-to-debut-in-2028-alongside-diversified-product-family-confirms-zen-8-ravenna-in-development)
-
----
-
-### 4. AMD takes the wraps off its Instinct MI455X AI accelerator CDNA 5 and Helios rack-scale architecture combine to take the fight to Nvidia in the data center ⭐
-
-**🎮 GPUs**
-
-AMD unveiled its MI455X AI accelerator and Helios rack-scale architecture, showcasing strong competitive performance and large HBM memory capacity. The MI455X features the CDNA 5 architecture, designed to take on NVIDIA in the data center. This move aims to challenge NVIDIA's dominance in AI computing.
-
-💡 **Key Point:** AMD challenges NVIDIA's AI computing dominance in the data center
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center)
+🔗 [Read More](https://www.tomshardware.com/desktops/mini-pcs/geekom-a9-max-2026-mini-pc-review)
 
 ---
 
-### 5. Geekbench 7 debuts with a smarter multi-core benchmark and CUDA support ⭐
+### 3. Gigabyte announces support for Chinese-made CXMT memory pushes it to 8200 MT/s on Socket AM5 
+
+**🤖 AI & ML**
+
+Gigabyte announces official support for Chinese-made CXMT memory, reaching 8200 MT/s speeds on Socket AM5. This impressive performance milestone comes with the added benefit of official backing. However, availability remains a concern.
+
+💡 **Key Point:** Availability of CXMT memory remains a significant market uncertainty.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/ddr5/gigabyte-announces-support-for-chinese-made-cxmt-memory-pushes-it-to-8200-mt-s-on-socket-am5)
+
+---
+
+### 4. Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots 
+
+**🤖 AI & ML**
+
+Beelink ME Pro 2-bay hybrid NAS upgraded with 10GbE and Thunderbolt 4, featuring Intel Wildcat Lake processor and reduced M.2 slots.
+
+💡 **Key Point:** Upgraded networking capabilities enhance storage and data transfer performance significantly.
+
+🔗 [Read More](https://www.cnx-software.com/2026/07/25/beelink-me-pro-2-bay-hybrid-nas-gets-wildcat-lake-treatment-gains-10gbe-and-thunderbolt-4-loses-a-few-m-2-slots/)
+
+---
+
+### 5. AMD exec was very happy to see Nvidia s Vera performance results I actually thought we were beating them by smaller numbers  
 
 **🎮 GPUs**
 
-Geekbench 7 introduces a smarter multi-core benchmark with real-world behavior, updated workloads, and CUDA support.
+Nvidia's Vera results were followed by AMD's SPEC results for Zen 6 Venice CPUs.
 
-💡 **Key Point:** Accurate performance testing for demanding applications and real-world workloads matters.
+💡 **Key Point:** AMD's performance is competitive with Nvidia's latest offerings in key areas.
 
-🔗 [Read More](https://www.techspot.com/downloads/3943-geekbench.html)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/amd-exec-was-very-happy-to-see-nvidias-vera-performance-results-i-actually-thought-we-were-beating-them-by-smaller-numbers)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **60 articles** across **5 focused categories**.
+We covered **35 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 21 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 12 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 15 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 5 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 12 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 6 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 9 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 2 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 6 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 21 articles
+*Artificial Intelligence and Machine Learning* — 12 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 12 articles
+*Graphics cards and compute accelerators* — 6 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 15 articles
+*Computing hardware and development boards* — 9 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 7 articles
+*Chip manufacturing and design* — 2 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 5 articles
+*Industry news and product launches* — 6 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-07-24 at 10:47 by an autonomous AI curation system.
+Generated 2026-07-25 at 10:16 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.
