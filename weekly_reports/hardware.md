@@ -1,105 +1,75 @@
 # 💻 Hardware
-**Week of July 25, 2026**
+**Week of July 26, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-07-25 10:16
+- **Articles this week:** 6
+- **Report generated:** 2026-07-26 10:22
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Geekom A9 Max 2026 review: Gorgon Point in a compact Mini PC 
+### 1. AOC U32G4 32-inch 4K Dual-Refresh gaming monitor review: Solid performance and value ⭐
 
-The Geekom A9 Max 2026 features the AMD Ryzen AI 9 HX470 and a revamped Ice Blast 3.0 cooling solution in a compact 0.9L chassis.
+The AOC U32G4 offers solid 4K gaming performance at an affordable price, with features like 160 Hz refresh rate, HDR400, and Adaptive-Sync.
 
-💡 *Compact Mini PC with efficient cooling and powerful mobile silicon.*
+💡 *Budget 4K gaming made accessible to a wider audience.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/geekom-a9-max-2026-mini-pc-review)
-
----
-
-### 2. AMD exec was very happy to see Nvidia s Vera performance results I actually thought we were beating them by smaller numbers  
-
-Nvidia's Vera results were followed by AMD's SPEC results for Zen 6 Venice CPUs.
-
-💡 *AMD's performance is competitive with Nvidia's latest offerings in key areas.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-exec-was-very-happy-to-see-nvidias-vera-performance-results-i-actually-thought-we-were-beating-them-by-smaller-numbers)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/aoc-u32g4-32-inch-4k-dual-refresh-gaming-monitor-review)
 
 ---
 
-### 3. Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots 
+### 2. AMD confirms Zen 7 Epyc "Florence" for 2028 and previews Zen 8 Epyc "Ravenna" for 2030 ⭐
 
-Beelink ME Pro 2-bay hybrid NAS upgraded with 10GbE and Thunderbolt 4, featuring Intel Wildcat Lake processor and reduced M.2 slots.
+AMD announced Zen 7 Epyc 'Florence' for 2028 and Zen 8 Epyc 'Ravenna' for 2030. The new core architecture will come in classic and compute-optimized variants. These processors are designed for enterprise and AI data centers.
 
-💡 *Upgraded networking capabilities enhance storage and data transfer performance significantly.*
+💡 *Advancements in data center performance drive future computing innovation*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/25/beelink-me-pro-2-bay-hybrid-nas-gets-wildcat-lake-treatment-gains-10gbe-and-thunderbolt-4-loses-a-few-m-2-slots/)
-
----
-
-### 4. Dell 14S review: High-class design and 20+ hour battery life 
-
-The Dell 14S offers high-class design at a lower price point, providing a budget-friendly alternative to the XPS 14. It boasts a long battery life, making it suitable for those who need to be on the go. The Dell 14S delivers without breaking the bank.
-
-💡 *Affordable luxury laptops for the modern user*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/dell-14s-review)
+🔗 [Read Full Article](https://www.techspot.com/news/113233-amd-confirms-zen-7-epyc-florence-2028-previews.html)
 
 ---
 
-### 5. AMD working on new X3D V-cache mobile chip for gaming laptops, leaker claims Ryzen 7 9800HX3D could launch with 8 cores, 16 threads, and 96MB cache 
+### 3. Microsoft is using TPM chips to crack down on pirated Windows activations 
 
-AMD is reportedly working on a new X3D V-cache mobile chip, the Ryzen 7 9800HX3D, with 8 cores, 16 threads, and 96MB L3 cache. This could potentially bring the desktop Ryzen 7 9800X3D experience to gaming laptops. The chip is expected to be part of Zen 5 architecture.
+Microsoft is enhancing Key Management Service with hardware-based security using TPM chips to verify the legitimacy of KMS servers, aiming to prevent pirated Windows activations.
 
-💡 *Enhanced performance for gaming laptops with V-cache technology*
+💡 *Cracking down on pirated Windows activations with robust hardware security measures.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-working-on-new-x3d-v-cache-mobile-chip-for-gaming-laptops-leaker-claims-ryzen-7-9800hx3d-could-launch-with-8-cores-16-threads-and-96mb-cache)
-
----
-
-### 6. Save $460 on this AMD 9800X3D gaming PC with RTX 5080 get blistering 4K performance for less 
-
-Get a powerful 4K gaming PC with an AMD 9800X3D and RTX 5080 for $2,829 at Newegg.
-
-💡 *Blistering 4K performance at an affordable price point available now.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd460-on-this-amd-9800x3d-gaming-pc-with-rtx-5080-get-blistering-4k-performance-for-less)
+🔗 [Read Full Article](https://www.techspot.com/news/113232-microsoft-using-tpm-chips-crack-down-pirated-windows.html)
 
 ---
 
-### 7. Leak details Ryzen 7 9800HX3D, AMD's first affordable 3D V-cache laptop CPU 
+### 4. 'RAM Machine' case probably costs more than the entire build Nvidia RTX 5060, Core Ultra 5 CPU, and 32GB DDR5-8200 RAM are hiding inside 
 
-AMD is reportedly developing a Zen 5 laptop CPU with 3D V-cache technology, potentially targeting mid-to-high-end gaming laptops with an affordable price point.
+A Redditor is giving away an RTX 5060 gaming PC disguised as RAM, featuring a Core Ultra 5 CPU and 32GB DDR5-8200 RAM.
 
-💡 *Affordable 3D V-cache laptops could revolutionize gaming performance.*
+💡 *Creative PC design prioritizing aesthetics over traditional computer builds.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113237-leak-details-ryzen-7-9800hx3d-amd-first-affordable.html)
-
----
-
-### 8. Nvidia is challenging 20 years of datacenter CPU design with its new Vera chip 
-
-Nvidia has released Vera, a custom CPU core in the datacenter, challenging traditional CPU design with its custom 'Olympus' core.
-
-💡 *Nvidia disrupts 20 years of traditional datacenter CPU architecture norms.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113234-nvidia-challenging-20-years-datacenter-cpu-design-new.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/ram-machine-case-probably-costs-more-than-the-entire-build-nvidia-rtx-5060-core-ultra-5-cpu-and-32gb-ddr5-8200-ram-are-hiding-inside)
 
 ---
 
-### 9. Google now lets you sign into your account using a selfie video 
+### 5. Microsoft shipped a native Xbox 360 emulator with its new backwards-compatible releases on PC modders quickly got 360 games running with minor tweaks 
 
-Google introduces a new sign-in method using selfie videos for account access. This optional feature aims to provide an alternative for users who cannot recall passwords or use passkeys. Users must check their eligibility to test the new method.
+Microsoft included a native Xbox 360 emulator in its PC releases, allowing modders to easily run OG Xbox games on PC with minor tweaks. This native emulator enables OG Xbox games to run within a 360 environment.
 
-💡 *Passwordless authentication option for users who forget passwords or passkeys.*
+💡 *Native emulator unlocks easy OG Xbox game modding on PC*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113225-bye-passwords-google-now-you-sign-account-selfie.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/microsoft-shipped-a-native-xbox-360-emulator-with-its-new-backwards-compatible-releases-on-pc-modders-quickly-got-360-games-running-with-minor-tweaks)
+
+---
+
+### 6. Qualcomm's chip price hikes could make phones, wearables, and laptops even pricier 
+
+Qualcomm will increase chip prices due to rising supply costs, affecting Android devices, wearables, and laptops.
+
+💡 *Higher chip prices will drive up the cost of consumer electronics.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113235-qualcomm-chip-price-hikes-could-make-phones-wearables.html)
 
 ---
 

@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of July 25, 2026**
+**Week of July 26, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,29 +7,29 @@
 
 ## 📊 Summary
 - **Articles this week:** 2
-- **Report generated:** 2026-07-25 10:16
+- **Report generated:** 2026-07-26 10:22
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Nvidia is challenging 20 years of datacenter CPU design with its new Vera chip 
+### 1. Microsoft is using TPM chips to crack down on pirated Windows activations 
 
-Nvidia has released Vera, a custom CPU core in the datacenter, challenging traditional CPU design with its custom 'Olympus' core.
+Microsoft is enhancing Key Management Service with hardware-based security using TPM chips to verify the legitimacy of KMS servers, aiming to prevent pirated Windows activations.
 
-💡 *Nvidia disrupts 20 years of traditional datacenter CPU architecture norms.*
+💡 *Cracking down on pirated Windows activations with robust hardware security measures.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113234-nvidia-challenging-20-years-datacenter-cpu-design-new.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113232-microsoft-using-tpm-chips-crack-down-pirated-windows.html)
 
 ---
 
-### 2. OpenAI's rogue hacking incident sparks bipartisan bill giving the government an AI kill switch 
+### 2. Qualcomm's chip price hikes could make phones, wearables, and laptops even pricier 
 
-A bipartisan bill proposes a government 'AI kill switch' to shut down rogue AI systems. The 'AI Kill Switch Act' aims to enhance AI safety and accountability. Companies would be required to report incidents and develop shutdown capabilities.
+Qualcomm will increase chip prices due to rising supply costs, affecting Android devices, wearables, and laptops.
 
-💡 *Preventing AI disasters requires proactive regulation and safety measures in place.*
+💡 *Higher chip prices will drive up the cost of consumer electronics.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113230-openai-rogue-hacking-incident-sparks-bipartisan-bill-giving.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113235-qualcomm-chip-price-hikes-could-make-phones-wearables.html)
 
 ---
 
