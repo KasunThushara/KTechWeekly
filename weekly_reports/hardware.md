@@ -1,155 +1,125 @@
 # 💻 Hardware
-**Week of July 27, 2026**
+**Week of July 28, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-07-27 11:57
+- **Articles this week:** 11
+- **Report generated:** 2026-07-28 11:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. HP OmniBook X Flip 14 Review: Premium design, middling performance ⭐
+### 1. DFI X6X-ORN An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support ⭐
 
-The HP OmniBook X Flip 14 offers premium design and features but falls short in performance value, making it less competitive compared to rivals.
+The DFI X6X-ORN is a fanless, IP67-rated edge AI computer for extreme outdoor and industrial environments, powered by the NVIDIA Jetson Orin NX/Nano module, with up to 157 TOPS of AI performance and support for GMSL2 camera interfaces.
 
-💡 *Performance lags behind rivals in the same price category.*
+💡 *Rugged AI edge computing for harsh industrial and outdoor applications*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/hp-omnibook-x-flip-14-review)
-
----
-
-### 2. Creality Pika review An affordable, portable 3D scanner with infrared and blue laser modes ⭐
-
-The Creality Pika is a compact, affordable, and portable 3D scanner with infrared and blue laser modes. It offers similar features to high-end scanners but at a lower price point. The device can be easily connected via USB or WiFi.
-
-💡 *Affordable 3D scanning technology for makers and hobbyists becomes accessible.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/26/creality-pika-review-an-affordable-portable-3d-scanner-with-infrared-and-blue-laser-modes/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/28/dfi-x6x-orn-an-ip67-rated-rugged-jetson-orin-nx-nano-edge-ai-computer-with-gmsl2-camera-support/)
 
 ---
 
-### 3. Minecraft system requirements raised for the first time in 17 years Microsoft now recommends 16GB of RAM and a 2020s or newer CPU to run the Java Edition 
+### 2. Re-examining the DDR4 gaming gap with Intel s LGA 1700 CPUs in mid-2026 performance drops of 14% on average, and up to 25% in some games 
 
-Microsoft raises Minecraft's system requirements after 17 years, recommending 16GB RAM and a 2020s or newer CPU.
+Intel's LGA 1700 CPUs show significant performance drops with DDR4 in 2026, affecting gaming performance. DDR5 provides a notable advantage over DDR4 in modern gaming. The DDR4 gaming gap is substantial, with drops of up to 25% in some games.
 
-💡 *Upgrade required for basic Minecraft experience due to outdated hardware.*
+💡 *DDR4's performance disadvantage grows with each new gaming generation.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/minecraft-system-requirements-raised-for-the-first-time-in-17-years-microsoft-now-recommends-16gb-of-ram-and-a-2020s-or-newer-cpu-to-run-the-java-edition)
-
----
-
-### 4. Jetway SMC-ARK1 A Rockchip RK3588 SMARC 2.1 compliant system-on-module 
-
-Jetway's SMC-ARK1 is a Rockchip RK3588-based SMARC 2.1 compliant system-on-module for embedded computing and edge AI applications, featuring up to 16GB of LPDDR4x memory and dual GbE connectivity.
-
-💡 *Accelerates edge AI and embedded computing through high-performance processing.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/27/jetway-smc-ark1-a-rockchip-rk3588-smarc-2-1-compliant-system-on-module/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/re-examining-the-ddr4-gaming-gap-with-intels-lga-1700-cpus-in-mid-2026-performance-drops-of-14-percent-on-average-and-up-to-25-percent-in-some-games)
 
 ---
 
-### 5. Orange Pi 5B SBC gets Ubuntu Desktop and Audio Production OS images with Bluetooth/Wi-Fi fix missed for 8 years 
+### 3. Waveshare RP2350-POE-ETH A Raspberry Pi RP2350 MCU board with PoE 
 
-GitHub user defcom5-rockchip forked Ubuntu-rockchip project to create two working OS images for Orange Pi 5B: Pi Desktop v1.0-beta and Pi Studio v1.3, both integrating Bluetooth/Wi-Fi fixes.
+The Waveshare RP2350-POE-ETH board is a Raspberry Pi RP2350 MCU board with Ethernet and PoE capabilities, featuring a dual-core Arm Cortex-M33 processor and 520KB internal RAM.
 
-💡 *Rockchip community benefits from community-driven OS image development and fixes.*
+💡 *Affordable PoE option for IoT and industrial applications increases adoption potential.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/27/orange-pi-5b-sbc-gets-ubuntu-desktop-and-audio-production-os-images-with-bluetooth-wi-fi-fix-missed-for-8-years/)
-
----
-
-### 6. Open RC Spotter is an open-source ESP32 telemetry and data logger for RC cars and toys 
-
-The Open RC Spotter is an open-source ESP32-based telemetry system for RC vehicles. It logs GPS position, acceleration, gyroscope, and other data to a microSD card and supports live telemetry over Wi-Fi and ESP-NOW. This compact platform is designed for RC cars and trucks.
-
-💡 *Real-time RC vehicle data logging and telemetry for performance analysis*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/27/open-rc-spotter-is-an-open-source-esp32-telemetry-and-data-logger-for-rc-cars-and-toys/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/28/waveshare-rp2350-poe-eth-a-raspberry-pi-rp2350-mcu-board-with-poe/)
 
 ---
 
-### 7. Get 16GB of DDR5 RAM for just $16 when you buy it with AMD's brand-new 7700X3D Ryzen 7 with an X870 motherboard, G.Skill Ripjaws, and an AIO for just $588 
+### 4. LILYGO T-Display C5 board features 1.9-inch IPS color LCD, battery support, Qwiic expansion connectors 
 
-Buy a 16GB DDR5 RAM stick for $16 with the Ryzen 7 7700X3D, MSI Pro X870-P motherboard, G.Skill Ripjaws, and an AIO for $588.
+The LILYGO T-Display C5 board features a 1.9-inch IPS color LCD, ESP32-C5 chip, and Qwiic expansion connectors, enabling wireless connectivity and power efficiency with a USB-C port and Lithium battery support.
 
-💡 *Exceptional value for a high-end PC build configuration.*
+💡 *Wireless IoT projects gain precision and power efficiency with this module.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/get-16gb-of-ddr5-ram-for-just-usd16-when-you-buy-it-with-amds-brand-new-7700x3d-ryzen-7-with-an-x870-motherboard-g-skill-ripjaws-and-an-aio-for-just-usd588)
-
----
-
-### 8. Save $1,000 on Lenovo's over-the-top RTX 5090 gaming laptop this 18-inch monster packs 64GB of RAM and up to a 440Hz refresh rate 
-
-B&H Photo has discounted the Lenovo Legion 9i gaming laptop, a powerful 18-inch device with a 440Hz refresh rate and 64GB of RAM, by $1,000.
-
-💡 *High-performance gaming laptops now more affordable for enthusiasts and professionals.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/save-usd1-000-on-lenovos-over-the-top-rtx-5090-gaming-laptop-this-18-inch-monster-packs-64gb-of-ram-and-up-to-a-440hz-refresh-rate)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/28/lilygo-t-display-c5-board-features-1-9-inch-ips-color-lcd-battery-support-qwiic-expansion-connectors/)
 
 ---
 
-### 9. Physicists turn particles in chaotic orbits into liquid computers but this fluid hardware still trails memristor rivals 
+### 5. AI developer runs 28.9-million-parameter model on $10 ESP32-S3 microcontroller uses Google's Per-Layer Embeddings technique, stores table on 16MB Flash memory 
 
-Physicists have created liquid computers using silica spheres in a water-lutidine mixture, but they trail memristor rivals. Each oscillator is a silica sphere of 3 m radius, capped on one side with 80nm of carbon and suspended in the mixture at 28 C. This novel approach to computing uses chaotic particle orbits.
+An AI developer successfully ran a 28.9-million-parameter model on a $10 ESP32-S3 microcontroller using Google's Per-Layer Embeddings technique, storing the model on 16MB Flash memory.
 
-💡 *Chaotic particle orbits enable novel, adaptive computing architectures.*
+💡 *Advancements in AI efficiency enable low-cost, low-power applications*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/physicists-build-a-computer-from-400-particles-orbiting-in-liquid-with-10-times-the-error-of-memristor-rivals)
-
----
-
-### 10. 3D-printed F-14 Tomcat uses an FPGA recreation of the world s first microprocessor' CADC s MP944 chip controls the fighter s swing-wing system, among other things 
-
-An FPGA recreation of the F-14 Tomcat's CADC has been successfully implemented in a scale 3D printed model aircraft, showcasing advancements in embedded systems technology. This project leverages Field-Programmable Gate Arrays (FPGAs) to mimic the original Central Air Data Computer (CADC) used in the iconic fighter jet. The recreated CADC controls the aircraft's swing-wing system and other vital functions.
-
-💡 *Reviving vintage tech with modern FPGA advancements unlocks innovation potential.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-runs-28-9-million-parameter-model-on-usd10-esp32-s3-microcontroller-uses-googles-per-layer-embeddings-technique-stores-table-on-16mb-flash-memory)
 
 ---
 
-### 11. Siemens boosts its EDA with Nvidia AI tools and hardware for agentic engineering of PCBs, semis 
+### 6. Disgruntled gamer builds booby-trapped Steam Deck with 3D-printed spikes and a built-in taser Raspberry Pi powers speaker, camera, and alarm to stop family members draining his battery 
 
-Siemens is integrating Nvidia AI tools and hardware into its EDA platform to enhance electronic design automation for edge applications and sensor-based circuits.
+A disgruntled gamer built a booby-trapped Steam Deck with 3D-printed spikes and a taser to prevent family members from borrowing it. The device is powered by a Raspberry Pi, which also controls a speaker, camera, and alarm system. This extreme measure aims to protect the device from being drained.
 
-💡 *Accelerating smart edge innovations with AI-driven PCB design and simulation.*
+💡 *Gaming boundaries are being tested by extreme anti-sharing measures online.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/siemens-boosts-its-eda-nvidia-ai-tools-and-hardware-agentic-engineering-pcbssemis)
-
----
-
-### 12. Professor's invisible prompt trap catches 32 students cheating on their midterm with AI 
-
-A professor at Alcorn State University caught 32 students cheating with AI on their midterm after embedding secret instructions in an online discussion post that tricked the AI.
-
-💡 *AI-powered cheating detection is a growing necessity for educators.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/disgruntled-gamer-builds-booby-trapped-steam-deck-with-3d-printed-spikes-and-a-built-in-taser-raspberry-pi-powers-speaker-camera-and-alarm-to-stop-family-members-draining-his-battery)
 
 ---
 
-### 13. Intel is reversing course and bringing hyper-threading back to its server chips 
+### 7. AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent Florence, Ferrara, and Fidenza to be applied across AI-focused product stack 
 
-Intel is reviving simultaneous multi-threading in its server chips for 2028, aiming to regain market share.
+AMD has split Zen 7 into three EPYC families: Florence, Ferrara, and Fidenza. These new families are designed for AI-focused products and are expected to be used across the company's product stack. The move extends AMD's annual product cadence out to 2030.
 
-💡 *Hyper-threading revival could boost Intel's competitiveness in the server CPU market.*
+💡 *Enhanced AI capabilities through specialized server CPU architecture.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113239-intel-reversing-course-bringing-hyper-threading-back-server.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-splits-zen-7-into-three-epyc-families-for-2028-and-starts-selling-server-cpus-by-the-agent)
 
 ---
 
-### 14. Redragon K688 Pro An affordable tri-mode gasket mechanical keyboard with full numpad and media knob (Sponsored) 
+### 8. California's largest AI data center is suing for access to 287 million gallons of Colorado River water a year 
 
-Redragon K688 Pro is a compact, tri-mode mechanical keyboard with a 96% layout, featuring a gasket-mounted structure and dedicated multi-function rotary knob.
+IVCM is suing IID for access to 287 million gallons of Colorado River water annually to power its planned AI data center.
 
-💡 *Compact design offers enthusiast-level typing comfort at an affordable price point*
+💡 *Access to water is crucial for large-scale data center operations.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/27/redragon-k688-an-affordable-tri-mode-gasket-mechanical-keyboard-with-full-numpad-and-media-knob/)
+🔗 [Read Full Article](https://www.techspot.com/news/113249-california-largest-ai-data-center-suing-access-287.html)
+
+---
+
+### 9. Upgrading an MSI Claw 8 EX AI+ handheld gaming PC with a 2TB SSD 
+
+Upgrading the MSI Claw 8 EX AI+ with a 2TB SSD increases storage capacity and potentially improves gaming performance.
+
+💡 *Doubling storage space enhances gaming library and reduces loading times.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/upgrading-an-msi-claw-8-ex-ai-handheld-gaming-pc-with-a-2tb-ssd)
+
+---
+
+### 10. Framework Laptop 13 Pro review: It cleans up nice 
+
+The Framework Laptop 13 Pro boasts a solid build, bright display, and long battery life, making it an excellent choice for those who can afford it.
+
+💡 *High-quality build and features justify premium price tag.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/framework-laptop-13-pro-review)
+
+---
+
+### 11. The US Air Force used over 1,000 game consoles to build a supercomputer in 2010. Which one did they choose? 
+
+The US Air Force created a supercomputer using 1,760 Microsoft Xbox 360 consoles, spending $2 million. This innovative approach leveraged the power of gaming systems to achieve high-performance computing. The project showcased the potential of repurposed technology in building complex systems.
+
+💡 *Repurposed gaming technology can revolutionize high-performance computing*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/133-us-air-force-used-over-1000-game-consoles/)
 
 ---
 

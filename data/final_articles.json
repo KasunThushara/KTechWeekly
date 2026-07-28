@@ -1,272 +1,386 @@
 [
   {
-    "title": "Chinese memory maker CXMT posts blistering 466% leap in Shanghai IPO bulk of spending to be focused on DRAM production, no HBM in sight",
-    "summary": "CXMT, a Chinese memory maker, saw a 466% surge in its Shanghai IPO. The prospectus allocated 29.5 billion yuan across three projects, with a focus on DRAM production. No HBM plans were mentioned in the prospectus.",
-    "link": "https://www.tomshardware.com/tech-industry/cxmt-closes-up-466-percent-in-shanghai-debut-with-no-hbm-project-in-its-ipo-prospectus",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-27T11:56:37.846408",
-    "insight": "Chinese memory market expansion gains momentum with CXMT's massive IPO"
-  },
-  {
-    "title": "Get 16GB of DDR5 RAM for just $16 when you buy it with AMD's brand-new 7700X3D Ryzen 7 with an X870 motherboard, G.Skill Ripjaws, and an AIO for just $588",
-    "summary": "Buy a 16GB DDR5 RAM stick for $16 with the Ryzen 7 7700X3D, MSI Pro X870-P motherboard, G.Skill Ripjaws, and an AIO for $588.",
-    "link": "https://www.tomshardware.com/pc-components/get-16gb-of-ddr5-ram-for-just-usd16-when-you-buy-it-with-amds-brand-new-7700x3d-ryzen-7-with-an-x870-motherboard-g-skill-ripjaws-and-an-aio-for-just-usd588",
+    "title": "Nvidia employee detained in Taiwan as part of chip smuggling probe held on suspicion of falsifying business documents, company says smuggling 'a nonstarter'",
+    "summary": "Nvidia employee detained in Taiwan on suspicion of falsifying documents. Prosecutors searched his home and workplace. The case is part of a chip smuggling probe.",
+    "link": "https://www.tomshardware.com/tech-industry/nvidias-taipei-office-searched-as-taiwan-detains-employee-in-ai-chip-smuggling-probe",
     "categories": [
       "AI & ML",
-      "Hardware"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.846573",
-    "insight": "Exceptional value for a high-end PC build configuration."
+    "processed_date": "2026-07-28T11:01:02.464033",
+    "insight": "Taiwan's chip industry faces scrutiny over smuggling and document falsification risks."
   },
   {
-    "title": "Save $1,000 on Lenovo's over-the-top RTX 5090 gaming laptop this 18-inch monster packs 64GB of RAM and up to a 440Hz refresh rate",
-    "summary": "B&H Photo has discounted the Lenovo Legion 9i gaming laptop, a powerful 18-inch device with a 440Hz refresh rate and 64GB of RAM, by $1,000.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd1-000-on-lenovos-over-the-top-rtx-5090-gaming-laptop-this-18-inch-monster-packs-64gb-of-ram-and-up-to-a-440hz-refresh-rate",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.846697",
-    "insight": "High-performance gaming laptops now more affordable for enthusiasts and professionals."
-  },
-  {
-    "title": "California's largest AI data center project suing for access to 287 million gallons of Colorado River water, 0.03% of Imperial Valley s supply plaintiffs claim project equivalent to 160-acre farm amidst concern about jobs and reallocation of farmland",
-    "summary": "California's largest AI data center project is suing for 287 million gallons of Colorado River water, equivalent to a 160-acre farm, amid concerns about job losses and farmland reallocation in Imperial Valley.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/californias-largest-ai-data-center-project-suing-for-access-to-287-million-gallons-of-colorado-river-water-0-03-percent-of-imperial-valleys-supply-plaintiffs-claim-project-equivalent-to-160-acre-farm-amidst-about-jobs-and-reallocation-of-farmland",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.846813",
-    "insight": "Water scarcity threatens agricultural regions with tech industry expansion."
-  },
-  {
-    "title": "Physicists turn particles in chaotic orbits into liquid computers but this fluid hardware still trails memristor rivals",
-    "summary": "Physicists have created liquid computers using silica spheres in a water-lutidine mixture, but they trail memristor rivals. Each oscillator is a silica sphere of 3 m radius, capped on one side with 80nm of carbon and suspended in the mixture at 28 C. This novel approach to computing uses chaotic particle orbits.",
-    "link": "https://www.tomshardware.com/tech-industry/physicists-build-a-computer-from-400-particles-orbiting-in-liquid-with-10-times-the-error-of-memristor-rivals",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.846923",
-    "insight": "Chaotic particle orbits enable novel, adaptive computing architectures."
-  },
-  {
-    "title": "Open-source 3D-printed portable MRI machine built for under $70,000 DIY medical equipment costs less than 7% of a full-sized MRI machine s $1.1 million starting price",
-    "summary": "The open-source 3D-printed portable MRI machine costs less than 7% of a full-sized MRI machine, offering a more affordable alternative for medical imaging.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-3d-printed-portable-mri-machine-built-for-under-usd70-000-diy-medical-equipment-costs-less-than-7-percent-of-a-full-sized-mri-machines-usd1-1-million-starting-price",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.847039",
-    "insight": "Access to affordable MRI technology can transform healthcare globally instantly"
-  },
-  {
-    "title": "Chinese CXMT DRAM doesn't look like the budget savior many were expecting new modules enter the market, but prices still track the big three",
-    "summary": "Chinese CXMT-based DRAM modules fail to meet budget expectations, priced similarly to big three.",
-    "link": "https://www.tomshardware.com/pc-components/dram/chinese-cxmt-dram-doesnt-look-like-the-budget-savior-many-were-expecting-new-modules-enter-the-market-but-prices-still-track-the-big-three",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.847147",
-    "insight": "Chinese CXMT DRAM faces pricing challenges, not a budget savior."
-  },
-  {
-    "title": "Minecraft system requirements raised for the first time in 17 years Microsoft now recommends 16GB of RAM and a 2020s or newer CPU to run the Java Edition",
-    "summary": "Microsoft raises Minecraft's system requirements after 17 years, recommending 16GB RAM and a 2020s or newer CPU.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/minecraft-system-requirements-raised-for-the-first-time-in-17-years-microsoft-now-recommends-16gb-of-ram-and-a-2020s-or-newer-cpu-to-run-the-java-edition",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-27T11:56:37.847294",
-    "insight": "Upgrade required for basic Minecraft experience due to outdated hardware."
-  },
-  {
-    "title": "HP OmniBook X Flip 14 Review: Premium design, middling performance",
-    "summary": "The HP OmniBook X Flip 14 offers premium design and features but falls short in performance value, making it less competitive compared to rivals.",
-    "link": "https://www.tomshardware.com/laptops/hp-omnibook-x-flip-14-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-27T11:56:37.847390",
-    "insight": "Performance lags behind rivals in the same price category."
-  },
-  {
-    "title": "3D-printed F-14 Tomcat uses an FPGA recreation of the world s first microprocessor' CADC s MP944 chip controls the fighter s swing-wing system, among other things",
-    "summary": "An FPGA recreation of the F-14 Tomcat's CADC has been successfully implemented in a scale 3D printed model aircraft, showcasing advancements in embedded systems technology. This project leverages Field-Programmable Gate Arrays (FPGAs) to mimic the original Central Air Data Computer (CADC) used in the iconic fighter jet. The recreated CADC controls the aircraft's swing-wing system and other vital functions.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.847521",
-    "insight": "Reviving vintage tech with modern FPGA advancements unlocks innovation potential."
-  },
-  {
-    "title": "Zeiss expands German site that caps ASML's EUV scanner output first new building opens four years after Oberkochen site groundbreaking",
-    "summary": "Zeiss Semiconductor Manufacturing Technology is expanding its Oberkochen site in Germany, adding 25,000 square meters of production space. This expansion comes four years after the initial groundbreaking, with the first new building now open. The move is expected to improve production capabilities.",
-    "link": "https://www.tomshardware.com/tech-industry/zeiss-expands-german-site-that-caps-asmls-euv-scanner-output",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.847629",
-    "insight": "Expansion enhances Zeiss's competitiveness in EUV scanner technology production."
-  },
-  {
-    "title": "Jetway SMC-ARK1 A Rockchip RK3588 SMARC 2.1 compliant system-on-module",
-    "summary": "Jetway's SMC-ARK1 is a Rockchip RK3588-based SMARC 2.1 compliant system-on-module for embedded computing and edge AI applications, featuring up to 16GB of LPDDR4x memory and dual GbE connectivity.",
-    "link": "https://www.cnx-software.com/2026/07/27/jetway-smc-ark1-a-rockchip-rk3588-smarc-2-1-compliant-system-on-module/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-27T11:56:37.848165",
-    "insight": "Accelerates edge AI and embedded computing through high-performance processing."
-  },
-  {
-    "title": "Orange Pi 5B SBC gets Ubuntu Desktop and Audio Production OS images with Bluetooth/Wi-Fi fix missed for 8 years",
-    "summary": "GitHub user defcom5-rockchip forked Ubuntu-rockchip project to create two working OS images for Orange Pi 5B: Pi Desktop v1.0-beta and Pi Studio v1.3, both integrating Bluetooth/Wi-Fi fixes.",
-    "link": "https://www.cnx-software.com/2026/07/27/orange-pi-5b-sbc-gets-ubuntu-desktop-and-audio-production-os-images-with-bluetooth-wi-fi-fix-missed-for-8-years/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-27T11:56:37.848334",
-    "insight": "Rockchip community benefits from community-driven OS image development and fixes."
-  },
-  {
-    "title": "Redragon K688 Pro An affordable tri-mode gasket mechanical keyboard with full numpad and media knob (Sponsored)",
-    "summary": "Redragon K688 Pro is a compact, tri-mode mechanical keyboard with a 96% layout, featuring a gasket-mounted structure and dedicated multi-function rotary knob.",
-    "link": "https://www.cnx-software.com/2026/07/27/redragon-k688-an-affordable-tri-mode-gasket-mechanical-keyboard-with-full-numpad-and-media-knob/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-27T11:56:37.848527",
-    "insight": "Compact design offers enthusiast-level typing comfort at an affordable price point"
-  },
-  {
-    "title": "Open RC Spotter is an open-source ESP32 telemetry and data logger for RC cars and toys",
-    "summary": "The Open RC Spotter is an open-source ESP32-based telemetry system for RC vehicles. It logs GPS position, acceleration, gyroscope, and other data to a microSD card and supports live telemetry over Wi-Fi and ESP-NOW. This compact platform is designed for RC cars and trucks.",
-    "link": "https://www.cnx-software.com/2026/07/27/open-rc-spotter-is-an-open-source-esp32-telemetry-and-data-logger-for-rc-cars-and-toys/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-27T11:56:37.848701",
-    "insight": "Real-time RC vehicle data logging and telemetry for performance analysis"
-  },
-  {
-    "title": "Creality Pika review An affordable, portable 3D scanner with infrared and blue laser modes",
-    "summary": "The Creality Pika is a compact, affordable, and portable 3D scanner with infrared and blue laser modes. It offers similar features to high-end scanners but at a lower price point. The device can be easily connected via USB or WiFi.",
-    "link": "https://www.cnx-software.com/2026/07/26/creality-pika-review-an-affordable-portable-3d-scanner-with-infrared-and-blue-laser-modes/",
+    "title": "Re-examining the DDR4 gaming gap with Intel s LGA 1700 CPUs in mid-2026 performance drops of 14% on average, and up to 25% in some games",
+    "summary": "Intel's LGA 1700 CPUs show significant performance drops with DDR4 in 2026, affecting gaming performance. DDR5 provides a notable advantage over DDR4 in modern gaming. The DDR4 gaming gap is substantial, with drops of up to 25% in some games.",
+    "link": "https://www.tomshardware.com/pc-components/ddr5/re-examining-the-ddr4-gaming-gap-with-intels-lga-1700-cpus-in-mid-2026-performance-drops-of-14-percent-on-average-and-up-to-25-percent-in-some-games",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-07-27T11:56:37.848865",
-    "insight": "Affordable 3D scanning technology for makers and hobbyists becomes accessible."
+    "quality_score": 10,
+    "processed_date": "2026-07-28T11:01:02.464179",
+    "insight": "DDR4's performance disadvantage grows with each new gaming generation."
   },
   {
-    "title": "Siemens boosts its EDA with Nvidia AI tools and hardware for agentic engineering of PCBs, semis",
-    "summary": "Siemens is integrating Nvidia AI tools and hardware into its EDA platform to enhance electronic design automation for edge applications and sensor-based circuits.",
-    "link": "https://www.fiercesensors.com/ai/siemens-boosts-its-eda-nvidia-ai-tools-and-hardware-agentic-engineering-pcbssemis",
+    "title": "AI companies are reportedly shredding millions of books after using them to train AI models tech giants outsource to middlemen to secretly buy up books for training material",
+    "summary": "Tech giants are secretly buying and destroying physical books to train AI models, resulting in millions of books being shredded. This practice raises concerns about the environmental impact and the value placed on physical literature. The books are often sourced through middlemen, making the process even more opaque.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-reportedly-shredding-millions-of-books-to-train-models-tech-giants-outsource-to-middlemen-to-secretly-buy-up-books-for-training-material",
     "categories": [
-      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.849789",
-    "insight": "Accelerating smart edge innovations with AI-driven PCB design and simulation."
+    "processed_date": "2026-07-28T11:01:02.464291",
+    "insight": "Environmental harm and loss of physical literature resources"
   },
   {
-    "title": "Quantum sensors are: emerging commercially, expensive, need standards",
-    "summary": "Quantum sensors offer greater stability in natural force measurements, but are expensive. They provide precise readings of forces like gravity, outperforming traditional methods. Their high cost is a major barrier to widespread adoption.",
-    "link": "https://www.fiercesensors.com/electronics/quantum-sensors-are-emerging-commercially-expensive-need-standards",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-27T11:56:37.849931",
-    "insight": "Precise measurements require high-tech solutions with high price tags"
-  },
-  {
-    "title": "Boox enters the pocket e-reader market with a tiny device that could challenge Xteink on price",
-    "summary": "Boox's Picco is a tiny e-reader with a 3.97-inch display and expandable storage, joining the ultra-compact e-reader market popularized by Xteink.",
-    "link": "https://www.techspot.com/news/113241-boox-enters-pocket-e-reader-market-tiny-device.html",
+    "title": "Daring coder gets Doom running with regular expressions at 180 seconds per frame, like playing 'correspondence chess with a shotgun' nearly 14 million substitutions to render a frame at 80,000 substitutions per second",
+    "summary": "A skilled programmer successfully runs Doom using regular expressions, but at a slow frame rate due to inefficient processing. This achievement demonstrates the power of regular expressions in manipulation of source code, albeit with significant computational costs. The experiment highlights the creative application of regex in creative problem-solving.",
+    "link": "https://www.tomshardware.com/software/programming/daring-coder-gets-doom-running-with-regular-expressions-at-180-seconds-per-frame-like-playing-correspondence-chess-with-a-shotgun-nearly-14-million-substitutions-to-render-a-frame-at-80-000-substitutions-per-second",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.850338",
-    "insight": "Boox enters the market with a potentially price-competitive device against Xteink"
+    "processed_date": "2026-07-28T11:01:02.464404",
+    "insight": "Inefficient regex processing can outperform brute-force methods in creative problem-solving scenarios."
   },
   {
-    "title": "Professor's invisible prompt trap catches 32 students cheating on their midterm with AI",
-    "summary": "A professor at Alcorn State University caught 32 students cheating with AI on their midterm after embedding secret instructions in an online discussion post that tricked the AI.",
-    "link": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+    "title": "MSI and Colorful raise Nvidia RTX 50-series prices in China by up to 59% across the entire lineup change in distributer pricing suggests GPU price hikes are on the way",
+    "summary": "GPU prices in China have risen sharply due to distributor price hikes, with Nvidia RTX 50-series prices increasing by up to 75% compared to MSRP. MSI and Colorful, official distributors, have announced the price changes overnight. This suggests a potential GPU price hike globally.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-28T11:01:02.464516",
+    "insight": "Global GPU prices may surge due to distributor price hikes"
+  },
+  {
+    "title": "OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance 30+ companies join security alliance after OpenAI agent breach",
+    "summary": "Tech companies form Open Secure AI Alliance to build open-source AI models and tools, citing the need for locally controlled AI after security concerns with closed-model safeguards.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-28T11:01:02.464633",
+    "insight": "Locally controlled AI models can aid in security threat analysis."
+  },
+  {
+    "title": "Moonshot AI releases weights for Kimi-K3, firing a shot across the bow of OpenAI and Anthropic open-weight model performs almost as well as frontier models while being 2-3x easier to run",
+    "summary": "Moonshot AI has released the weights for its Kimi-K3 model, challenging OpenAI and Anthropic. The Kimi-K3 model performs almost as well as frontier models but is 2-3 times easier to run.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-ai-releases-weights-for-kimi-k3-firing-a-shot-across-the-bow-of-openai-and-anthropic-open-weight-model-performs-almost-as-well-as-frontier-models-while-being-2-3x-easier-to-run",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-28T11:01:02.464736",
+    "insight": "Open-source AI model rivaling top-secret models in performance and efficiency."
+  },
+  {
+    "title": "China begins mass production of homegrown immersion chipmaking machines in major breakthrough, report claims first DUV lithography units will be delivered this year to SMIC, Hua Hong, and CXMT",
+    "summary": "China has started mass-producing homegrown immersion chipmaking machines, with deliveries expected to SMIC, Hua Hong, and CXMT this year.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-28T11:01:02.464847",
+    "insight": "China's self-sufficiency in chip production technology gains significant momentum."
+  },
+  {
+    "title": "Why an MMO mouse isn t just for gaming make use of the myriad of buttons for enhancing your productivity workflows in popular software applications",
+    "summary": "MMO mice with multiple buttons can streamline productivity workflows in various software applications, enabling users to automate repetitive tasks and increase efficiency. This is achieved by assigning specific actions to each button, thereby reducing manual input and improving overall workflow. By leveraging the capabilities of an MMO mouse, users can enhance their productivity and reduce stress.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-mice/why-an-mmo-mouse-isnt-just-for-gaming-make-use-of-the-myriad-of-buttons-for-enhancing-your-productivity-workflows-in-popular-software-applications",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-28T11:01:02.464949",
+    "insight": "Efficiency boost through customizable button assignments and automation"
+  },
+  {
+    "title": "Upgrading an MSI Claw 8 EX AI+ handheld gaming PC with a 2TB SSD",
+    "summary": "Upgrading the MSI Claw 8 EX AI+ with a 2TB SSD increases storage capacity and potentially improves gaming performance.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/upgrading-an-msi-claw-8-ex-ai-handheld-gaming-pc-with-a-2tb-ssd",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-28T11:01:02.465039",
+    "insight": "Doubling storage space enhances gaming library and reduces loading times."
+  },
+  {
+    "title": "Intel unveiled its iconic Core 2 Duo family 20 years ago legendary chip dethroned AMD Athlon, restoring the chipmaker s performance lead",
+    "summary": "Intel launched the first Core 2 Duo processors, codenamed Conroe, 20 years ago. This marked a significant shift in processor performance, ultimately dethroning AMD's Athlon and restoring Intel's performance lead. The Core 2 Duo family became an iconic and influential line of chips.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-unveiled-its-iconic-core-2-duo-family-20-years-ago-legendary-chip-dethroned-amd-athlon-restoring-the-chipmakers-performance-lead",
+    "categories": [
+      "Tech News",
+      "GPUs"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-07-28T11:01:02.465163",
+    "insight": "Intel regained performance supremacy with the Core 2 Duo launch"
+  },
+  {
+    "title": "Framework Laptop 13 Pro review: It cleans up nice",
+    "summary": "The Framework Laptop 13 Pro boasts a solid build, bright display, and long battery life, making it an excellent choice for those who can afford it.",
+    "link": "https://www.tomshardware.com/laptops/framework-laptop-13-pro-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-28T11:01:02.465258",
+    "insight": "High-quality build and features justify premium price tag."
+  },
+  {
+    "title": "AI developer runs 28.9-million-parameter model on $10 ESP32-S3 microcontroller uses Google's Per-Layer Embeddings technique, stores table on 16MB Flash memory",
+    "summary": "An AI developer successfully ran a 28.9-million-parameter model on a $10 ESP32-S3 microcontroller using Google's Per-Layer Embeddings technique, storing the model on 16MB Flash memory.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-runs-28-9-million-parameter-model-on-usd10-esp32-s3-microcontroller-uses-googles-per-layer-embeddings-technique-stores-table-on-16mb-flash-memory",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.850535",
-    "insight": "AI-powered cheating detection is a growing necessity for educators."
+    "processed_date": "2026-07-28T11:01:02.465375",
+    "insight": "Advancements in AI efficiency enable low-cost, low-power applications"
   },
   {
-    "title": "GTA 6's \"physical\" PS5 codes in Japan will expire after 170 days",
-    "summary": "GTA 6's PS5 codes in Japan expire after 170 days. The expiration is specific to Japan and the PS5 version. Xbox codes will not expire or be region locked.",
-    "link": "https://www.techspot.com/news/113240-gta-6-physical-ps5-codes-japan-expire-after.html",
+    "title": "Disgruntled gamer builds booby-trapped Steam Deck with 3D-printed spikes and a built-in taser Raspberry Pi powers speaker, camera, and alarm to stop family members draining his battery",
+    "summary": "A disgruntled gamer built a booby-trapped Steam Deck with 3D-printed spikes and a taser to prevent family members from borrowing it. The device is powered by a Raspberry Pi, which also controls a speaker, camera, and alarm system. This extreme measure aims to protect the device from being drained.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/disgruntled-gamer-builds-booby-trapped-steam-deck-with-3d-printed-spikes-and-a-built-in-taser-raspberry-pi-powers-speaker-camera-and-alarm-to-stop-family-members-draining-his-battery",
     "categories": [
-      "Tech News"
+      "AI & ML",
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.850692",
-    "insight": "Japanese PS5 gamers face expiration deadline for GTA 6 codes"
+    "processed_date": "2026-07-28T11:01:02.465487",
+    "insight": "Gaming boundaries are being tested by extreme anti-sharing measures online."
   },
   {
-    "title": "Intel is reversing course and bringing hyper-threading back to its server chips",
-    "summary": "Intel is reviving simultaneous multi-threading in its server chips for 2028, aiming to regain market share.",
-    "link": "https://www.techspot.com/news/113239-intel-reversing-course-bringing-hyper-threading-back-server.html",
+    "title": "AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent Florence, Ferrara, and Fidenza to be applied across AI-focused product stack",
+    "summary": "AMD has split Zen 7 into three EPYC families: Florence, Ferrara, and Fidenza. These new families are designed for AI-focused products and are expected to be used across the company's product stack. The move extends AMD's annual product cadence out to 2030.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-splits-zen-7-into-three-epyc-families-for-2028-and-starts-selling-server-cpus-by-the-agent",
     "categories": [
       "Hardware",
-      "Semiconductors"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.850860",
-    "insight": "Hyper-threading revival could boost Intel's competitiveness in the server CPU market."
+    "processed_date": "2026-07-28T11:01:02.465597",
+    "insight": "Enhanced AI capabilities through specialized server CPU architecture."
   },
   {
-    "title": "US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search",
-    "summary": "A US prosecution charges an Atlanta man for using GrapheneOS to wipe his phone during an airport search, highlighting the potential conflict between user privacy and law enforcement access.",
-    "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+    "title": "'It sounds like someone set up a vacuum, like in your living room': Michigan residents sue AI data center emitting noise 24/7 company fined for industrial noise ordinance violations, offers to buy homes from residents",
+    "summary": "Residents in Dowagiac, Michigan, sue a data center for 24/7 noise pollution. The company has allegedly violated city noise ordinances for over two years without making improvements. It has now offered to buy homes from affected residents.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/it-sounds-like-someone-set-up-a-vacuum-like-in-your-living-room-michigan-residents-sue-ai-data-center-emitting-noise-24-7-company-fined-for-industrial-noise-ordinance-violations-offers-to-buy-homes-from-residents",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-27T11:56:37.851010",
-    "insight": "GrapheneOS raises questions about device security and user data protection."
+    "processed_date": "2026-07-28T11:01:02.465706",
+    "insight": "Community well-being is threatened by industrial noise pollution."
+  },
+  {
+    "title": "DFI X6X-ORN An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support",
+    "summary": "The DFI X6X-ORN is a fanless, IP67-rated edge AI computer for extreme outdoor and industrial environments, powered by the NVIDIA Jetson Orin NX/Nano module, with up to 157 TOPS of AI performance and support for GMSL2 camera interfaces.",
+    "link": "https://www.cnx-software.com/2026/07/28/dfi-x6x-orn-an-ip67-rated-rugged-jetson-orin-nx-nano-edge-ai-computer-with-gmsl2-camera-support/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-28T11:01:02.466205",
+    "insight": "Rugged AI edge computing for harsh industrial and outdoor applications"
+  },
+  {
+    "title": "Waveshare RP2350-POE-ETH A Raspberry Pi RP2350 MCU board with PoE",
+    "summary": "The Waveshare RP2350-POE-ETH board is a Raspberry Pi RP2350 MCU board with Ethernet and PoE capabilities, featuring a dual-core Arm Cortex-M33 processor and 520KB internal RAM.",
+    "link": "https://www.cnx-software.com/2026/07/28/waveshare-rp2350-poe-eth-a-raspberry-pi-rp2350-mcu-board-with-poe/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-28T11:01:02.466365",
+    "insight": "Affordable PoE option for IoT and industrial applications increases adoption potential."
+  },
+  {
+    "title": "LILYGO T-Display C5 board features 1.9-inch IPS color LCD, battery support, Qwiic expansion connectors",
+    "summary": "The LILYGO T-Display C5 board features a 1.9-inch IPS color LCD, ESP32-C5 chip, and Qwiic expansion connectors, enabling wireless connectivity and power efficiency with a USB-C port and Lithium battery support.",
+    "link": "https://www.cnx-software.com/2026/07/28/lilygo-t-display-c5-board-features-1-9-inch-ips-color-lcd-battery-support-qwiic-expansion-connectors/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-28T11:01:02.466527",
+    "insight": "Wireless IoT projects gain precision and power efficiency with this module."
+  },
+  {
+    "title": "GM s cobots enter the age-old factory automation debate",
+    "summary": "General Motors' cobots are a new take on traditional automation debate, offering a more flexible approach, according to analysts.",
+    "link": "https://www.fiercesensors.com/embedded/gms-cobots-enter-age-old-factory-automation-debate-0",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-28T11:01:02.467666",
+    "insight": "Cobots bridge gap between human and machine in manufacturing workflows."
+  },
+  {
+    "title": "The Best 4K Gaming Monitors: OLED Leads, LCD Fights Back",
+    "summary": "Top 4K gaming monitors offer premium OLED, affordable IPS options with HDR performance, based on hands-on testing, pricing, and value.",
+    "link": "https://www.techspot.com/bestof/4k-gaming-monitors-26/",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-28T11:01:02.467889",
+    "insight": "4K gaming monitors improve visual immersion, enhancing gaming experiences significantly."
+  },
+  {
+    "title": "The Odyssey got bootlegged on X, but the internet cared more about the memes",
+    "summary": "A high-quality copy of Christopher Nolan's 'The Odyssey' was uploaded to X, garnering over 2.1 million views before being removed.",
+    "link": "https://www.techspot.com/news/113257-odyssey-got-bootlegged-x-but-internet-cared-more.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-28T11:01:02.468047",
+    "insight": "Copyright infringement and piracy can overshadow cultural significance of classic films online."
+  },
+  {
+    "title": "The US Air Force used over 1,000 game consoles to build a supercomputer in 2010. Which one did they choose?",
+    "summary": "The US Air Force created a supercomputer using 1,760 Microsoft Xbox 360 consoles, spending $2 million. This innovative approach leveraged the power of gaming systems to achieve high-performance computing. The project showcased the potential of repurposed technology in building complex systems.",
+    "link": "https://www.techspot.com/trivia/133-us-air-force-used-over-1000-game-consoles/",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-28T11:01:02.468220",
+    "insight": "Repurposed gaming technology can revolutionize high-performance computing"
+  },
+  {
+    "title": "China's CXMT surges nearly 500% in explosive Shanghai stock market debut",
+    "summary": "CXMT, a major player in the memory market, saw a 500% surge in its Shanghai stock market debut, further solidifying its position as a key player in the AI-driven memory market. CXMT ranks fourth globally with an 8% market share. The company is profiting from the ongoing AI boom.",
+    "link": "https://www.techspot.com/news/113252-china-cxmt-surges-nearly-500-explosive-shanghai-stock.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-28T11:01:02.468380",
+    "insight": "CXMT benefits from booming AI demand and memory market growth."
+  },
+  {
+    "title": "Samsung lands Broadcom AI chip deal worth more than $200 billion through 2030",
+    "summary": "Samsung partners with Broadcom in a $200+ billion deal through 2030, leveraging Samsung's manufacturing stack for Broadcom's next-generation communications chips.",
+    "link": "https://www.techspot.com/news/113247-samsung-lands-broadcom-ai-chip-deal-worth-more.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-28T11:01:02.468547",
+    "insight": "Leading-edge chip scaling drives efficiency and heat management advancements."
+  },
+  {
+    "title": "Mojang changes Minecraft system requirements after 17 years, recommends 16GB of RAM for \"Fancy\" graphics",
+    "summary": "Minecraft: Java Edition now officially recommends 16GB of RAM, marking a significant change in system requirements. This upgrade aims to support 'Fancy' graphics and future updates. Players with aging systems may struggle to meet these new demands.",
+    "link": "https://www.techspot.com/news/113242-mojang-changes-minecraft-system-requirements-after-17-years.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-28T11:01:02.468714",
+    "insight": "Minecraft's outdated system requirements are being updated to match modern gaming standards."
+  },
+  {
+    "title": "It's not just you, Xbox is down again, and physical games aren't safe either",
+    "summary": "Xbox network outage occurs, with unknown cause and no estimated fix time.",
+    "link": "https://www.techspot.com/news/113254-not-you-xbox-down-again-physical-games-arent.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-28T11:01:02.468867",
+    "insight": "Xbox network outages threaten console users' digital game ownership security."
+  },
+  {
+    "title": "GrapheneOS brings enhanced security and privacy to Google Pixel phones",
+    "summary": "GrapheneOS is a security-focused mobile OS for Google Pixel phones, offering enhanced security and privacy through hardening features, app sandboxing, and granular permissions.",
+    "link": "https://www.techspot.com/downloads/7893-grapheneos.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-28T11:01:02.469040",
+    "insight": "Enhanced mobile security protects sensitive user data and identities"
+  },
+  {
+    "title": "AMD's Ryzen 9 9950X3D is now available at a record-low $569",
+    "summary": "The Ryzen 9 9950X3D is now available at a record-low price of $569. This CPU remains one of the fastest options for gaming and content creation. The reduced price makes it even more attractive to buyers.",
+    "link": "https://www.techspot.com/specs/cpu/305471-amd-ryzen-9-9950x3d.html",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-28T11:01:02.469224",
+    "insight": "Affordable high-performance CPU option for gaming and content creation enthusiasts"
+  },
+  {
+    "title": "Modder rigs his Steam Deck with spikes and an automated taser to stop family members from borrowing it",
+    "summary": "A Steam Deck modder rigged his device with spikes and a taser to deter family members from borrowing it due to battery drain issues.",
+    "link": "https://www.techspot.com/news/113250-modder-rigs-steam-deck-spikes-automated-taser-stop.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-28T11:01:02.469382",
+    "insight": "Extreme measures may be taken when boundaries and frustrations collide with shared tech."
+  },
+  {
+    "title": "Firefox's New Tab page is getting a daily crossword built from AI-summarized news",
+    "summary": "Firefox's new tab page features a daily crossword puzzle based on AI-processed news. The crossword updates daily and allows users to interact with it, clicking to switch between across and down clues and typing in answers. Users can also access articles for context.",
+    "link": "https://www.techspot.com/news/113244-firefox-adding-ai-powered-daily-crossword-turns-news.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-28T11:01:02.469541",
+    "insight": "Personalized news integration increases engagement with daily news."
+  },
+  {
+    "title": "California's largest AI data center is suing for access to 287 million gallons of Colorado River water a year",
+    "summary": "IVCM is suing IID for access to 287 million gallons of Colorado River water annually to power its planned AI data center.",
+    "link": "https://www.techspot.com/news/113249-california-largest-ai-data-center-suing-access-287.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-28T11:01:02.469707",
+    "insight": "Access to water is crucial for large-scale data center operations."
+  },
+  {
+    "title": "Apple's smart glasses are delayed as company wrestles with privacy concerns",
+    "summary": "Apple's smart glasses, codenamed N50, have been delayed due to privacy concerns.",
+    "link": "https://www.techspot.com/news/113246-apple-smart-glasses-may-delayed-company-wrestles-privacy.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-28T11:01:02.469871",
+    "insight": "Tech giant struggles to balance innovation with user data protection."
   }
 ]
