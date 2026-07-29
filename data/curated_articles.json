@@ -1,353 +1,384 @@
 [
   {
-    "title": "Nvidia employee detained in Taiwan as part of chip smuggling probe held on suspicion of falsifying business documents, company says smuggling 'a nonstarter'",
-    "summary": "Taiwan's prosecutors say they've detained a man surnamed Chang on suspicion of falsifying business documents, after investigators searched his home and workplace.",
-    "link": "https://www.tomshardware.com/tech-industry/nvidias-taipei-office-searched-as-taiwan-detains-employee-in-ai-chip-smuggling-probe",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.464033"
-  },
-  {
-    "title": "Re-examining the DDR4 gaming gap with Intel s LGA 1700 CPUs in mid-2026 performance drops of 14% on average, and up to 25% in some games",
-    "summary": "Given the unprecedented surge in memory prices, we re looking back on Intel s LGA 1700 stack of CPUs to see how DDR4 and DDR5 match up with our modern gaming suite in 2026.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/re-examining-the-ddr4-gaming-gap-with-intels-lga-1700-cpus-in-mid-2026-performance-drops-of-14-percent-on-average-and-up-to-25-percent-in-some-games",
+    "title": "Intel's upcoming Nova Lake desktop SKU to require 65W of separate power delivery for its iGPU, leaker claims beefy integrated graphics could require two VCCGT phases for 12 Xe3P cores",
+    "summary": "Intel seems to be working on a 16-core Nova Lake desktop APU with 12 Xe3P cores that will require 65W of power delivery on their own to achieve maximum performance. Two separate VCCGT phases will be needed to power said integrated graphics, since one phase can't sustain up to 65W.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-nova-lake-desktop-sku-to-require-65w-of-separate-power-delivery-for-its-igpu-leaker-claims-beefy-integrated-graphics-could-require-two-vccgt-phases-for-12-xe3p-cores",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-28T11:01:02.464179"
+    "processed_date": "2026-07-29T11:08:00.643583"
   },
   {
-    "title": "AI companies are reportedly shredding millions of books after using them to train AI models tech giants outsource to middlemen to secretly buy up books for training material",
-    "summary": "New report reveals that AI companies are buying up physical books to train their LLMs and destroying them in the process.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-reportedly-shredding-millions-of-books-to-train-models-tech-giants-outsource-to-middlemen-to-secretly-buy-up-books-for-training-material",
+    "title": "State of play: SSD pricing one year into the AI component crisis 220% price increases are crippling the DIY market",
+    "summary": "We look at the state of SSD pricing one year into the AI apocalypse.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/state-of-play-ssd-pricing-one-year-into-the-ai-component-crisis-220-percent-price-increases-are-crippling-the-diy-market",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.464291"
+    "quality_score": 0,
+    "processed_date": "2026-07-29T11:08:00.643694"
   },
   {
-    "title": "Daring coder gets Doom running with regular expressions at 180 seconds per frame, like playing 'correspondence chess with a shotgun' nearly 14 million substitutions to render a frame at 80,000 substitutions per second",
-    "summary": "Daring coder gets Doom running with regular expressions at 180 seconds per frame by using one text string to the machine, engine, and video output",
-    "link": "https://www.tomshardware.com/software/programming/daring-coder-gets-doom-running-with-regular-expressions-at-180-seconds-per-frame-like-playing-correspondence-chess-with-a-shotgun-nearly-14-million-substitutions-to-render-a-frame-at-80-000-substitutions-per-second",
+    "title": "DRAM chip supply to module makers could drop by more than 70% year-on-year in 2027, says Apacer CEO demand for HBM and server RAM continues to devour manufacturing capacity",
+    "summary": "Apacer warns DRAM allocations to module makers could fall below 30% of 2026 levels as AI demand tightens supply and pushes memory prices higher.",
+    "link": "https://www.tomshardware.com/pc-components/ram/dram-chip-supply-to-module-makers-could-drop-by-more-than-70-percent-year-on-year-in-2027-says-apacer-ceo-demand-for-hbm-and-server-ram-continues-to-devour-manufacturing-capacity",
     "categories": [
-      "Tech News"
+      "Semiconductors",
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.464404"
+    "processed_date": "2026-07-29T11:08:00.643805"
   },
   {
-    "title": "MSI and Colorful raise Nvidia RTX 50-series prices in China by up to 59% across the entire lineup change in distributer pricing suggests GPU price hikes are on the way",
-    "summary": "GPU prices seem to be on the rise once again with official distributor announcements in China hiking up the entire Blackwell lineup overnight. Compared to MSRP, we're witnessing a staggering bump of up to 75% at the top-end.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.464516"
-  },
-  {
-    "title": "OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance 30+ companies join security alliance after OpenAI agent breach",
-    "summary": "Industry leading tech companies have formed an \"Open Secure AI Alliance\" that will build open-source models, agent harnesses, and cybersecurity tools, arguing that defenders need locally controlled AI after closed-model safeguards reportedly obstructed analysis of the OpenAI Hugging Face breach.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach",
+    "title": "China's Moonshot AI reportedly used Nvidia Blackwell chips for training Kimi K3 company circumvented both U.S. export and Chinese import controls to acquire compute",
+    "summary": "Moonshot AI reportedly used Nvidia Blackwell chips for training Kimi K3 potentially circumventing both U.S. export and Chinese import controls",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-28T11:01:02.464633"
+    "quality_score": 5,
+    "processed_date": "2026-07-29T11:08:00.643922"
   },
   {
-    "title": "Moonshot AI releases weights for Kimi-K3, firing a shot across the bow of OpenAI and Anthropic open-weight model performs almost as well as frontier models while being 2-3x easier to run",
-    "summary": "Moonshot AI has released the weights for its recent Kimi-K3 model, directly going against OpenAI and Anthropic.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-ai-releases-weights-for-kimi-k3-firing-a-shot-across-the-bow-of-openai-and-anthropic-open-weight-model-performs-almost-as-well-as-frontier-models-while-being-2-3x-easier-to-run",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-28T11:01:02.464736"
-  },
-  {
-    "title": "China begins mass production of homegrown immersion chipmaking machines in major breakthrough, report claims first DUV lithography units will be delivered this year to SMIC, Hua Hong, and CXMT",
-    "summary": "A state-backed company in Shanghai has begun mass-producing immersion deep ultraviolet lithography machines and is due to deliver the first units this year.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines",
+    "title": "Intel closes out RAMP-C production pilot that paid Nvidia and others to run test chips on 18A program helped lay a path for secure domestic chip production on advanced processes",
+    "summary": "Intel Foundry says that it has completed RAMP-C, the U.S. defense program awarded to the company in 2021 to stand up a domestic leading-edge chip ecosystem on its 18A process.",
+    "link": "https://www.tomshardware.com/tech-industry/intel-closes-out-the-defense-program-that-paid-nvidia-and-others-to-run-test-chips-on-18a",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-28T11:01:02.464847"
+    "quality_score": 5,
+    "processed_date": "2026-07-29T11:08:00.644026"
   },
   {
-    "title": "Why an MMO mouse isn t just for gaming make use of the myriad of buttons for enhancing your productivity workflows in popular software applications",
-    "summary": "MMO mice are designed with many buttons to make it easier to play games with lots of spells and abilities, but MMO mice are also fantastic for automating your productivity workflows.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-mice/why-an-mmo-mouse-isnt-just-for-gaming-make-use-of-the-myriad-of-buttons-for-enhancing-your-productivity-workflows-in-popular-software-applications",
+    "title": "Developer uses AI to bring a native version of The Legend of Zelda: Ocarina of Time to iOS no emulation required to play one of gaming's all-time greats on an iPhone or iPad",
+    "summary": "A developer has used OpenAI's Codex and GPT-5.6 Sol to help port a native version of The Legend of Zelda: Ocarina of Time to iOS and iPadOS devices.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/developer-uses-ai-to-bring-a-native-version-of-the-legend-of-zelda-ocarina-of-time-to-ios-no-emulation-required-to-play-one-of-gamings-all-time-greats-on-an-iphone-or-ipad",
     "categories": [
+      "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.464949"
+    "processed_date": "2026-07-29T11:08:00.644128"
   },
   {
-    "title": "Upgrading an MSI Claw 8 EX AI+ handheld gaming PC with a 2TB SSD",
-    "summary": "I go through the steps of replacing the standard 1TB SSD in an MSI Claw 8 EX AI+ with a 2TB SSD.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/upgrading-an-msi-claw-8-ex-ai-handheld-gaming-pc-with-a-2tb-ssd",
+    "title": "Mystery reviewer 'finds' Nvidia RTX Spark prototype laptop and puts it through its paces Microsoft Surface Laptop Ultra with Nvidia N1X chip shows promise, though prototype warts are still quite visible",
+    "summary": "Techie \"finds\" Nvidia RTX Spark prototype laptop and puts it through its paces Microsoft Surface Laptop Ultra with Nvidia N1X chip shows promise, though prototype warts are still quite visible",
+    "link": "https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-29T11:08:00.644240"
+  },
+  {
+    "title": "OpenAI CEO Sam Altman says AI has entered the singularity two weeks after OpenAI models cheated a benchmark by hacking Hugging Face",
+    "summary": "OpenAI CEO Sam Altman recently declared on the Relentless podcast that artificial intelligence has entered the technological singularity.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-says-ai-has-entered-the-singularity",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-29T11:08:00.644352"
+  },
+  {
+    "title": "One year into the AI-induced RAM apocalypse how much does memory actually cost, and is there hope for a more affordable future?",
+    "summary": "We look at the state of the DIY RAM market over the last 12 months.",
+    "link": "https://www.tomshardware.com/pc-components/ram/one-year-into-the-ai-induced-ram-apocalypse-how-much-does-memory-actually-cost-and-is-there-hope-for-a-more-affordable-future",
+    "categories": [
+      "AI & ML"
     ],
     "quality_score": 0,
-    "processed_date": "2026-07-28T11:01:02.465039"
+    "processed_date": "2026-07-29T11:08:00.644441"
   },
   {
-    "title": "Intel unveiled its iconic Core 2 Duo family 20 years ago legendary chip dethroned AMD Athlon, restoring the chipmaker s performance lead",
-    "summary": "Today marks 20 years since the first raft of Intel Core 2 Duo processors, codename Conroe, was launched.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-unveiled-its-iconic-core-2-duo-family-20-years-ago-legendary-chip-dethroned-amd-athlon-restoring-the-chipmakers-performance-lead",
+    "title": "Apple launches official program for leasing Macs as AI price crunch bites 24- and 36-month leasing options provided by Klarna",
+    "summary": "Apple launched its Upgrade program in the US, a partnership with Klarna to lease Macs along with iPads, Watches, and iPhones.",
+    "link": "https://www.tomshardware.com/laptops/macbooks/apple-launches-official-program-for-leasing-macs-as-ai-price-crunch-bites-24-and-36-month-leasing-options-provided-by-klarna",
     "categories": [
       "Tech News",
-      "GPUs"
+      "AI & ML"
     ],
-    "quality_score": 20,
-    "processed_date": "2026-07-28T11:01:02.465163"
+    "quality_score": 10,
+    "processed_date": "2026-07-29T11:08:00.644533"
   },
   {
-    "title": "Framework Laptop 13 Pro review: It cleans up nice",
-    "summary": "The Framework Laptop 13 Pro is its most solidly built laptop ever, with a bright display and long battery life sweetening the deal if you can afford it.",
-    "link": "https://www.tomshardware.com/laptops/framework-laptop-13-pro-review",
+    "title": "The Neo Geo AES+ retro console is now available to pre-order starting from $249 game cartridges cost $90 each; the Ultimate Edition with all games and accessories will run you $1,000",
+    "summary": "How far are you willing to go for physical media? That's the question the Neo Geo AES+ asks above anything else, given the $90 price tags of its game cartridges. Though, comparing it to its original prices from the 90s, especially when adjusted for inflation, makes it start to look like a bargain.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/the-neo-geo-aes-retro-console-is-now-available-to-pre-order-starting-from-usd249-game-cartridges-cost-usd90-each-the-ultimate-edition-with-all-games-and-accessories-will-run-you-usd1-000",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-29T11:08:00.644641"
+  },
+  {
+    "title": "Acer ProDesigner PE320QXT professional monitor review: Touchscreen functionality with a 6K resolution",
+    "summary": "Acer takes a unique approach to professional displays with its ProDesigner PE320QXT. It s a 6K 6016x3384 IPS panel with a touchscreen, webcam, tablet-style stand and a large color gamut for content creators, presenters and designers.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/acer-prodesigner-pe320qxt-professional-monitor-review",
     "categories": [
       "Hardware",
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-07-28T11:01:02.465258"
+    "quality_score": 10,
+    "processed_date": "2026-07-29T11:08:00.644741"
   },
   {
-    "title": "AI developer runs 28.9-million-parameter model on $10 ESP32-S3 microcontroller uses Google's Per-Layer Embeddings technique, stores table on 16MB Flash memory",
-    "summary": "Getting a local language model running on a sub-$10 microcontroller is impressive despite its obvious limitations.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-runs-28-9-million-parameter-model-on-usd10-esp32-s3-microcontroller-uses-googles-per-layer-embeddings-technique-stores-table-on-16mb-flash-memory",
+    "title": "Motherboard VRM thermal testing budget vs. high-end boards, does it really matter?",
+    "summary": "Not all motherboard VRMs are created equal. We break down the differences between budget and premium designs, how they can affect CPU performance, and whether paying more is actually worth it.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/motherboard-vrm-thermal-testing-budget-vs-high-end-boards-does-it-really-matter",
     "categories": [
-      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-29T11:08:00.644832"
+  },
+  {
+    "title": "Save $1,000 on this RTX 5090 gaming PC from MSI, just 17% more than the GPU's standalone cost right now score this 4K powerhouse with 64GB DDR5 and a 2TB SSD for $4,899",
+    "summary": "Save $1,000 on this MSI Aegis R2 gaming PC, fitted with an RTX 5090, 64GB DDR5, and 2TB SSD for just $4,899.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd1-000-on-this-rtx-5090-gaming-pc-from-msi-just-17-percent-more-than-the-gpus-standalone-cost-right-now-score-this-4k-powerhouse-with-64gb-ddr5-and-a-2tb-ssd-for-usd4-899",
+    "categories": [
+      "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.465375"
+    "processed_date": "2026-07-29T11:08:00.644934"
   },
   {
-    "title": "Disgruntled gamer builds booby-trapped Steam Deck with 3D-printed spikes and a built-in taser Raspberry Pi powers speaker, camera, and alarm to stop family members draining his battery",
-    "summary": "A Steam Deck devotee was so fed up with their family borrowing their handheld and leaving it with a flat battery that they have resorted to quite extreme anti-sharing measures.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/disgruntled-gamer-builds-booby-trapped-steam-deck-with-3d-printed-spikes-and-a-built-in-taser-raspberry-pi-powers-speaker-camera-and-alarm-to-stop-family-members-draining-his-battery",
+    "title": "16-hour Xbox outage even stopped physical games from working company blames licensing issue for incident that prohibited gaming across three generations of console",
+    "summary": "Xbox CTO Scott Van Vliet said that a licensing service sitting outside Xbox, which the platform depends on, began failing late on July 26 and took roughly 16 hours to clear.",
+    "link": "https://www.tomshardware.com/video-games/xbox/xbox-blames-a-licensing-service-outside-xbox-for-the-16-hour-outage-that-blocked-disc-games",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "GPUs",
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.465487"
+    "processed_date": "2026-07-29T11:08:00.645031"
   },
   {
-    "title": "AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent Florence, Ferrara, and Fidenza to be applied across AI-focused product stack",
-    "summary": "The company named Florence, Ferrara, and Fidenza in its launch release, extended its annual CPU, GPU, networking, and rack cadence out to 2030.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-splits-zen-7-into-three-epyc-families-for-2028-and-starts-selling-server-cpus-by-the-agent",
+    "title": "Google goes cash flow negative for the first time as AI data center buildout increases capex to a staggering $44.9 billion in a single quarter CFO warns that capex will increase in 2027 as company banks big on TPUs",
+    "summary": "On the same day, CFO Anat Ashkenazi raised full-year capex guidance to between $195 billion and $205 billion.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/alphabet-goes-cash-flow-negative-for-the-first-time-as-ai-capex-doubles-to-44-9-billion-in-a-single-quarter",
     "categories": [
-      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-29T11:08:00.645126"
+  },
+  {
+    "title": "ASRock officially announces Radeon RX 9050 with 8GB VRAM RDNA 4 card offers boost clock of up to 2600MHz (updated)",
+    "summary": "ASRock has listed the long-rumored RX 9050 GPU on its website in both a 4GB and 8GB configuration, but has deleted those pages since.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/leaked-radeon-rx-9050-hints-at-the-return-of-4gb-vram-gpus-in-2026-new-budget-rdna-4-card-also-spotted-in-8gb-config-with-half-the-power-of-an-rx-9060",
+    "categories": [
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.465597"
+    "processed_date": "2026-07-29T11:08:00.645222"
   },
   {
-    "title": "'It sounds like someone set up a vacuum, like in your living room': Michigan residents sue AI data center emitting noise 24/7 company fined for industrial noise ordinance violations, offers to buy homes from residents",
-    "summary": "Residents of Dowagiac, Michigan, filed a case against a data center for generating noise pollution 24/7 for over two years. They said that the site has violated city noise ordinances but hasn't made any improvements.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/it-sounds-like-someone-set-up-a-vacuum-like-in-your-living-room-michigan-residents-sue-ai-data-center-emitting-noise-24-7-company-fined-for-industrial-noise-ordinance-violations-offers-to-buy-homes-from-residents",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.465706"
-  },
-  {
-    "title": "DFI X6X-ORN An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support",
-    "summary": "The DFI X6X-ORN is a fanless, IP67-rated Edge AI computer powered by the NVIDIA Jetson Orin NX/Nano. It is designed for extreme outdoor and industrial environments in maritime, agriculture, construction, and intelligent transportation applications. The system fully relies on rugged M12 and M20 circular waterproof connectors for all its I/O, including PoE and GMSL2 camera interfaces. It delivers up to 157 TOPS of AI performance when equipped with the Jetson Orin NX 16GB module, complies with MIL-STD-810H shock and vibration standards, and supports an operating temperature range of -20 C to 60 C. DFI X6X-ORN specifications: SoM NVIDIA Jetson Orin NX/Nano module Jetson Orin NX 16GB Up to 157 TOPS, 16GB LPDDR5, 10W/15W/25W/ 40W power modes Jetson Orin NX 8GB Up to 117 TOPS, 8GB LPDDR5, 10W/15W/25W/40W power modes Jetson Orin Nano 8GB Up to 67 TOPS, 8GB LPDDR5, 7W/10W/25W power modes Jetson Orin Nano 4GB Up [...] The post DFI X6X-ORN An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/28/dfi-x6x-orn-an-ip67-rated-rugged-jetson-orin-nx-nano-edge-ai-computer-with-gmsl2-camera-support/",
+    "title": "7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200 1200 or 800 800 resolution",
+    "summary": "VIEWE UEDX12120076-HMD-RB-A and UEDX80800076-HMD-RB-A are 7.6-inch square HDMI capacitive touch displays with 1200 1200 and 800 800 resolution, respectively. We had previously seen 4-inch square HDMI +USB touch displays with 720 720 resolution for Raspberry Pi or other SBCs, but if you need something larger, VIEWE has now launched 7.6-inch variants with higher resolutions. VIEWE UEDX12120076-HMD-RB-A/UEDX80800076-HMD specifications: Display 7.6-inch MIPI DSI square IPS display Resolution UEDX80800076-HMD-RB-A 800 x 800 UEDX12120076-HMD-RB-A 1200 x 1200 Display driver ILI9881C for UEDX80800076-HMD-RB-A Potentially HX8279 for UEDX12120076-HMD-RB-A Brightness 1,000 cd/ Active area 135.36 x 135.36 mm Touchscreen Optional 5-point capacitive touchscreen via USB-C port (likely FT6336U touch IC) Video Input Mini HDMI 1.4 ITE HDMI input to MIPI DSI bridge based on the blurry photo of the controller. USB USB-C port for power and touchscreen Misc LED lifetime: 30,000 hours Power Supply 5V via USB-C port Dimensions 148.24 x [...] The post 7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200 1200 or 800 800 resolution appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/29/7-6-inch-square-hdmi-displays-with-usb-capacitive-touchscreen-offered-at-1200x1200-or-800x800-resolution/",
     "categories": [
       "Hardware",
-      "AI & ML"
+      "Tech News"
     ],
     "quality_score": 15,
-    "processed_date": "2026-07-28T11:01:02.466205"
+    "processed_date": "2026-07-29T11:08:00.645708"
   },
   {
-    "title": "Waveshare RP2350-POE-ETH A Raspberry Pi RP2350 MCU board with PoE",
-    "summary": "Waveshare RP2350-POE-ETH is a Raspberry Pi RP2350 board with Ethernet implemented through a W6300 chip, support for optional PoE (Power-over-Ethernet), and two GPIO headers. We had covered a few Raspberry Pi RP2350 boards with Ethernet from WIZNet, including the W5100S-EVB-Pico2, W5500-EVB-Pico2, and W6300-EVB-Pico2, but none were advertised with PoE at the time. Since then, the 4-pin WizPOE-P1 module changes that, and the Waveshare RP2350-POE-ETH board offers a more affordable option. Waveshare RP2350-POE-ETH specifications: Microcontroller Raspberry Pi RP2350A CPU Dual-core Arm Cortex-M33 processor @ 150 MHz Dual-core 32-bit RISC-V Hazard3 @ 150 MHz Up to two cores can be used at a time, either 2x Arm, 2x RISC-V, or 1x Arm + 1x RISC-V Memory 520KB internal RAM Storage 8KB OTP Storage Storage 16Mbit SPI NOR flash Ethernet 10/100Mbps Ethernet RJ45 port via WIZnet W6300 iEthernet chip 6-pin PoE connector for optional module USB USB 1.1 C-Type [...] The post Waveshare RP2350-POE-ETH A Raspberry Pi RP2350 MCU board with PoE appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/28/waveshare-rp2350-poe-eth-a-raspberry-pi-rp2350-mcu-board-with-poe/",
+    "title": "Sovol M1D hybrid IDEX 3D printer features 6 interchangeable toolheads for multi-color and multi-material prints (Crowdfunding)",
+    "summary": "Sovol has launched the M1D, an open-source IDEX (Independent Dual Extruder) 3D printer with a fixed dual-extruder architecture and interchangeable toolheads that support up to seven independently heated toolheads (one fixed and six swappable). It comes in two variants: the open-frame M1D Essential and the M1D Advanced, which adds a full enclosure and a chamber heating module capable of reaching up to 60 C. The M1D uses a patented automatic tool changer for swapping print heads in as little as five seconds and supports Single, Multi-Head, Copy, and Mirror printing modes. It enables multi-material or/and multi-color prints, including adding water-soluble support to a print to remove the need to manually remove support (see video at the end of this post for demo). The printer targets makers, engineers, prototype development, and small-scale production by reducing purge waste while improving printing efficiency and material flexibility. Sovol M1D specifications: Printing technology FDM (Fused Deposition Modeling) Storage [...] The post Sovol M1D hybrid IDEX 3D printer features 6 interchangeable toolheads for multi-color and multi-material prints (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/29/sovol-m1d-hybrid-idex-3d-printer-features-6-interchangeable-toolheads-for-multi-color-and-multi-material-prints/",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 25,
+    "processed_date": "2026-07-29T11:08:00.645898"
+  },
+  {
+    "title": "SensWear An open-source modular Nordic nRF54L15 development platform for wearables",
+    "summary": "SensWear is an open-source hardware development platform for wearables based on Nordic nRF54L15 Bluetooth LE SoC and a range of sensors designed for researchers, developers, and companies building smart rings, wristbands, patches, and other custom devices. The solution is mainly comprised of flexible boards, including the SensWear core board with an nRF54L15 MCU and a 6-axis IMU sensor, and daughter boards with either PPG and optical sensing, temperature sensing, capacitive touch sensing, or haptic feedback. SensWear key features and specifications: Core mainboard SoC Nordic Semi nRF54L15 CPU Arm Cortex-M33 @ up to 128 MHz RISC-V coprocessor for software-defined peripheral Memory 256 KB SRAM Storage 1.5MB Non-volatile Memory (NVM) Wireless Bluetooth LE 6.0 Thread, Zigbee (IEEE 802.15.4-2020) Matter Amazon Sidewalk Proprietary 2.4 GHz protocols with a new 4 Mbps mode NFC support Sensors Bosch BHI360 six-axis smart IMU and sensor hub Standardized interface for interchangeable daughter boards I2C and [...] The post SensWear An open-source modular Nordic nRF54L15 development platform for wearables appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/29/senswear-an-open-source-modular-nordic-nrf54l15-development-platform-for-wearables/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-28T11:01:02.466365"
+    "quality_score": 20,
+    "processed_date": "2026-07-29T11:08:00.646068"
   },
   {
-    "title": "LILYGO T-Display C5 board features 1.9-inch IPS color LCD, battery support, Qwiic expansion connectors",
-    "summary": "LILYGO T-Display C5 is an ESP32-C5 board with a 1.9-inch IPS color LCD, a USB-C port for power and programming, Lithium battery support, and GPIO expansion via headers and two Qwiic expansion connectors. The main benefit of using an ESP32-C5 chip is support for dual-band WiFi 6 connectivity (2.4/5.0 GHz), and it also keeps Bluetooth LE 5.x and the 802.15.4 radio for Zigbee/Thread/Matter found in the ESP32-C6. LILYGO T-Display C5 specifications: Wireless module Espressif Systems ESP32-WROOM-C5-1U-N16R8 SoC ESP32-C5HR8 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory 384 KB SRAM on-chip, 8MB PSRAM Storage 320 KB ROM Wireless Connectivity Dual-band (2.4GHz/5 GHz) 802.11ax WiFi 6, with 802.11b/g/n WiFi 4 standard fallback Bluetooth 5.0 Low Energy (LE) 802.15.4 radio for Zigbee 3.0 and Thread 1.3 Storage 16MB flash Antenna [...] The post LILYGO T-Display C5 board features 1.9-inch IPS color LCD, battery support, Qwiic expansion connectors appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/07/28/lilygo-t-display-c5-board-features-1-9-inch-ips-color-lcd-battery-support-qwiic-expansion-connectors/",
+    "title": "Ubuntu Touch 24.04-2.0 updates Morph browser, adds notch and printing support, and more",
+    "summary": "UBPorts has announced the release of Ubuntu Touch 24.04-2.0 based on Ubuntu 24.04. It features an upgraded Morph Browser based on Chromium 134, supports smartphones with notches and rounded corners, a Widevine DRM installer, and more. Ubuntu Touch 24.04-2.0 highlights: Updated browser engine for Morph Browser from Chromium 87 to Chromium 134 for improved compatibility with websites and web applications Installer for Widevine DRM with the following note: Widevine installer is not endorsed by Google. UBports, Ubuntu Touch, or Morph Browser is not a licensed Widevine implementation. Extracting Widevine from another source is considered by some to be in legally grey area. You are responsible for your usage of Widevine installer. Support for notches and rounded corners; currently configured on Fairphone 4 and 5, all Volla devices, and several community devices Screenshot editor allowing users to crop, rotate, and adjust color; this can be disabled by the user Ubuntu Touch [...] The post Ubuntu Touch 24.04-2.0 updates Morph browser, adds notch and printing support, and more appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/07/28/ubuntu-touch-24-04-2-0-updates-morph-browser-adds-notch-and-printing-support-and-more/",
     "categories": [
-      "Hardware",
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-29T11:08:00.646239"
+  },
+  {
+    "title": "OpenAI's rogue AI agent did more than hack Hugging Face it compromised accounts across four services",
+    "summary": "Reuters reports that the agent broke into a sandbox hosted on Modal's platform before turning it into the launchpad for the wider Hugging Face attack. Modal CTO Akshat Bubna stressed that the company itself was not hacked. Read Entire Article",
+    "link": "https://www.techspot.com/news/113281-openai-rogue-ai-agent-did-more-than-hack.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-29T11:08:00.647745"
+  },
+  {
+    "title": "Apple is the most valuable company in the world, again",
+    "summary": "The timing adds extra stakes, too. Tim Cook is preparing to step down soon, and the incoming CEO is expected to preserve the same approach to market and financial management that defined Cook's tenure, the very discipline investors now appear to be betting on. Read Entire Article",
+    "link": "https://www.techspot.com/news/113270-apple-most-valuable-company-world-again.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-29T11:08:00.647892"
+  },
+  {
+    "title": "Hundreds of shared Claude chats, including resumes and health details, showed up in Google search",
+    "summary": "The exposure first came to light on Reddit, where users demonstrated how to surface the chats. At least 200 conversations appeared across more than two dozen pages of search results, including some created recently. Although the links have since been removed from search indexes, many of the conversations had already... Read Entire Article",
+    "link": "https://www.techspot.com/news/113267-hundreds-shared-claude-conversations-including-resumes-health-details.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-29T11:08:00.648037"
+  },
+  {
+    "title": "Microsoft explains what caused the Xbox outage and how it plans to prevent it from happening again",
+    "summary": "Earlier this week, the Xbox network became unavailable to a majority of players. Users were unable to launch their purchased games, sign in, or complete new purchases, with even offline games and disc-based releases being affected by the outage. Most of the issues should now be resolved, although the Xbox... Read Entire Article",
+    "link": "https://www.techspot.com/news/113255-microsoft-explains-what-took-down-xbox-network-how.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-29T11:08:00.648178"
+  },
+  {
+    "title": "Apple's latest security update fixes nearly 200 vulnerabilities across Mac, iPhone, Safari, and more",
+    "summary": "macOS Tahoe 26.6 addresses 155 vulnerabilities, including flaws that could enable root privilege escalation, sandbox escapes, and Gatekeeper bypasses. The patches also prevent third-party apps from accessing sensitive user data, gaining root privileges, or fingerprinting users. In addition, they improve Tahoe's memory handling to prevent malicious audio files from corrupting process memory. Read Entire Article",
+    "link": "https://www.techspot.com/news/113262-apple-latest-security-update-fixes-nearly-200-vulnerabilities.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-29T11:08:00.648343"
+  },
+  {
+    "title": "Waymo robotaxis crashed 68% less often than human drivers in independent safety study",
+    "summary": "Over roughly 50 million autonomous miles, Waymo recorded 1.28 crashes per million miles traveled, compared with 4.06 for human drivers. That works out to a 68% lower crash rate for incidents serious enough to typically be reported. Read Entire Article",
+    "link": "https://www.techspot.com/news/113263-waymo-robotaxis-crashed-68-less-often-than-human.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-29T11:08:00.648445"
+  },
+  {
+    "title": "Microsoft laptop with Nvidia RTX Spark leaked and benchmarked before launch",
+    "summary": "TechPowerUp Forum user \"Fouquin\" claims to have found a prototype Microsoft Surface Laptop Ultra lying on the side of the road near Microsoft's Redmond, Washington headquarters in mid-June. After several weeks of testing, he detailed its performance, power efficiency, and build quality in an early hands-on report. Read Entire Article",
+    "link": "https://www.techspot.com/news/113259-microsoft-laptop-nvidia-rtx-spark-leaked-benchmarked-before.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-29T11:08:00.648554"
+  },
+  {
+    "title": "Ace Combat 8 requires ray tracing GPU, 32GB RAM, and 125GB storage for recommended settings",
+    "summary": "The minimum processor requirement for playing Ace Combat 8 at low settings is relatively modest, but gamers will still need an SSD with at least 125GB of free space, a graphics card that supports hardware-accelerated ray tracing, and DirectX 12 with Shader Model 6.6 or higher. The game also requires... Read Entire Article",
+    "link": "https://www.techspot.com/news/113265-ace-combat-8-wings-theve-requires-windows-11.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-29T11:08:00.648662"
+  },
+  {
+    "title": "You can now play Morrowind directly in your browser, no installation required",
+    "summary": "The project, shared by a developer known as /u/Dumpster_Buddy, is built on OpenMW, an open-source reimplementation of Morrowind's original engine. OpenMW was developed to support Windows, macOS, and Linux, and to reduce the bugs and limitations of the original 2002 engine. Read Entire Article",
+    "link": "https://www.techspot.com/news/113260-you-can-now-play-morrowind-directly-browser-no.html",
+    "categories": [
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-28T11:01:02.466527"
-  },
-  {
-    "title": "GM s cobots enter the age-old factory automation debate",
-    "summary": "GM s cobots are an old story with a new twist, analyst says",
-    "link": "https://www.fiercesensors.com/embedded/gms-cobots-enter-age-old-factory-automation-debate-0",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-28T11:01:02.467666"
-  },
-  {
-    "title": "The Best 4K Gaming Monitors: OLED Leads, LCD Fights Back",
-    "summary": "From premium OLEDs to affordable IPS models, these are the best 4K gaming monitors of 2026, based on hands-on testing, current pricing, HDR performance, and overall value. Read Entire Article",
-    "link": "https://www.techspot.com/bestof/4k-gaming-monitors-26/",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-28T11:01:02.467889"
-  },
-  {
-    "title": "The Odyssey got bootlegged on X, but the internet cared more about the memes",
-    "summary": "This past weekend, a post reading \"Someone uploaded 'The Odyssey' full movie on X. Can you believe it?\" amplified an upload from an account that's since been suspended. Variety confirmed it was a genuine, high-quality copy of Christopher Nolan's film, and it pulled in over 2.1 million views in roughly... Read Entire Article",
-    "link": "https://www.techspot.com/news/113257-odyssey-got-bootlegged-x-but-internet-cared-more.html",
-    "categories": [
-      "Tech News"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.468047"
+    "processed_date": "2026-07-29T11:08:00.648761"
   },
   {
-    "title": "The US Air Force used over 1,000 game consoles to build a supercomputer in 2010. Which one did they choose?",
-    "summary": "$2 million, 1,760 consoles, one supercomputer. Read Entire Article",
-    "link": "https://www.techspot.com/trivia/133-us-air-force-used-over-1000-game-consoles/",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-28T11:01:02.468220"
-  },
-  {
-    "title": "China's CXMT surges nearly 500% in explosive Shanghai stock market debut",
-    "summary": "CXMT, short for ChangXin Memory Technologies, is one of several major players in the memory market that are profiting from the ongoing AI boom. At present, CXMT ranks fourth overall with an eight percent share behind Samsung, SK Hynix, and Micron with shares of 36%, 29%, and 24%, respectively. Read Entire Article",
-    "link": "https://www.techspot.com/news/113252-china-cxmt-surges-nearly-500-explosive-shanghai-stock.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.468380"
-  },
-  {
-    "title": "Samsung lands Broadcom AI chip deal worth more than $200 billion through 2030",
-    "summary": "At a technical level, the deal is built around closer integration between Broadcom's ASIC designs and Samsung's manufacturing stack. Broadcom's next-generation communications chips will be produced using Samsung's sub-2-nanometer process, putting them at the leading edge of chip scaling, where efficiency and heat management are becoming increasingly challenging. Read Entire Article",
-    "link": "https://www.techspot.com/news/113247-samsung-lands-broadcom-ai-chip-deal-worth-more.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-28T11:01:02.468547"
-  },
-  {
-    "title": "Mojang changes Minecraft system requirements after 17 years, recommends 16GB of RAM for \"Fancy\" graphics",
-    "summary": "Minecraft: Java Edition now officially recommends 16GB of RAM, and that's just the starting point. Mojang recently explained that the wildly popular sandbox game is getting a more modern baseline for its system requirements, acknowledging that some players with aging systems will be disappointed as the company works to keep... Read Entire Article",
-    "link": "https://www.techspot.com/news/113242-mojang-changes-minecraft-system-requirements-after-17-years.html",
+    "title": "Graphics card prices jump by up to 20% in China as shops stockpile Nvidia and AMD GPUs",
+    "summary": "Distributor lists from MSI and Colorful reveal the increases. MSI raised the RTX 5080 Shadow 3X OC and Ventus from 9,999 yuan ($1,477) to 11,999 yuan ($1,773), a 20% jump in seven days. Its RTX 5070 Ti Shadow 3X OC rose 19.5%, while the RTX 5090D V2 increased 13%. What's... Read Entire Article",
+    "link": "https://www.techspot.com/news/113269-graphics-card-prices-jump-up-20-china-shops.html",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.468714"
+    "processed_date": "2026-07-29T11:08:00.648859"
   },
   {
-    "title": "It's not just you, Xbox is down again, and physical games aren't safe either",
-    "summary": "The Xbox network outage started at 5:30am ET on Monday, and hours later Microsoft still hasn't said what's causing it or when it'll be fixed. Downdetector spiked with thousands of reports before Xbox's support page caught up and confirmed the issue. Read Entire Article",
-    "link": "https://www.techspot.com/news/113254-not-you-xbox-down-again-physical-games-arent.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.468867"
-  },
-  {
-    "title": "GrapheneOS brings enhanced security and privacy to Google Pixel phones",
-    "summary": "GrapheneOS is a security focused mobile OS for Google Pixel phones (soon Motorola). Based on Android's open source roots, it adds extensive hardening features, stronger app sandboxing, and granular permissions while allowing users to install Google Play services as regular apps. The project has grown past 400,000 active users. Its tools recently made the headlines after prosecutors treated the OS's remote wipe feature as evidence. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7893-grapheneos.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.469040"
-  },
-  {
-    "title": "AMD's Ryzen 9 9950X3D is now available at a record-low $569",
-    "summary": "The Ryzen 9 9950X3D can now be found for $569, a significant reduction from its $699 launch price. AMD's 16-core Zen 5 flagship continues to rank among the fastest desktop CPUs for both gaming and content creation . Read Entire Article",
-    "link": "https://www.techspot.com/specs/cpu/305471-amd-ryzen-9-9950x3d.html",
+    "title": "Lossless Scaling lets a second GPU handle frame generation, reviving dual-GPU gaming without SLI",
+    "summary": "Redditor quiziwuzzi claims to have built a gaming PC with an unusual dual-GPU setup, pairing a Gainward RTX 3090 Phoenix with an Asus Dual RTX 3050 6GB OC Edition through Lossless Scaling - the $6.99 Steam app that delivers vendor-neutral frame generation and AI upscaling in a wide range of... Read Entire Article",
+    "link": "https://www.techspot.com/news/113256-lossless-scaling-second-gpu-handle-frame-generation-reviving.html",
     "categories": [
       "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.469224"
-  },
-  {
-    "title": "Modder rigs his Steam Deck with spikes and an automated taser to stop family members from borrowing it",
-    "summary": "ConroyyJenkinss wrote on the Steam Deck subreddit that he'd had enough of family members leaving his Steam Deck battery flat after using it. His response was an effective, if slightly extreme, response. Read Entire Article",
-    "link": "https://www.techspot.com/news/113250-modder-rigs-steam-deck-spikes-automated-taser-stop.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.469382"
-  },
-  {
-    "title": "Firefox's New Tab page is getting a daily crossword built from AI-summarized news",
-    "summary": "The crossword puzzle updates daily and pulls from current news topics. Clues are drawn from stories Particle has already processed, and users can click through to the articles for context. Users click a square to move between across and down, type in answers, and use the hint button if they... Read Entire Article",
-    "link": "https://www.techspot.com/news/113244-firefox-adding-ai-powered-daily-crossword-turns-news.html",
-    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.469541"
+    "processed_date": "2026-07-29T11:08:00.648966"
   },
   {
-    "title": "California's largest AI data center is suing for access to 287 million gallons of Colorado River water a year",
-    "summary": "Imperial Valley Computer Manufacturing (IVCM), the company behind what could become California's largest AI data center, is suing the Imperial Irrigation District (IID) after the publicly owned utility rejected its application for water. Read Entire Article",
-    "link": "https://www.techspot.com/news/113249-california-largest-ai-data-center-suing-access-287.html",
+    "title": "Ubisoft is bundling free PC copies with 13 Xbox games, including Rainbow Six Siege and Valhalla",
+    "summary": "Starting today, Xbox users who purchase digital console copies of 13 Ubisoft games also receive the PC versions via the Ubisoft Connect app at no extra cost. Those who already own these titles will receive their copies when they link their Xbox and Ubisoft Connect accounts. Some users may not... Read Entire Article",
+    "link": "https://www.techspot.com/news/113258-ubisoft-bundling-free-pc-copies-13-xbox-games.html",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.469707"
+    "processed_date": "2026-07-29T11:08:00.649068"
   },
   {
-    "title": "Apple's smart glasses are delayed as company wrestles with privacy concerns",
-    "summary": "Reports that Apple is developing smart glasses go back years now. It was recently revealed that the product, codenamed N50, was set to be introduced this year ahead of its rollout in early 2027. Read Entire Article",
-    "link": "https://www.techspot.com/news/113246-apple-smart-glasses-may-delayed-company-wrestles-privacy.html",
+    "title": "Teacher arrested for clapping in support of speaker opposing data center",
+    "summary": "There have been claims that pushback against data centers hurts the economy and national security, and that it's even a campaign fueled by China. Fox News compared it to protesting against tank and plane factories during World War II. Read Entire Article",
+    "link": "https://www.techspot.com/news/113266-teacher-arrested-clapping-support-speaker-opposing-data-center.html",
     "categories": [
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-28T11:01:02.469871"
+    "processed_date": "2026-07-29T11:08:00.649163"
+  },
+  {
+    "title": "An artist is suing an AI meme generator for selling his viral comic as ad templates",
+    "summary": "Elmer Saflor, a digital artist in the Philippines who goes by \"Superelmer,\" has filed a complaint against Memes Apps, LLC. The company runs Memes.ai and Memes AI Studio, platforms that allegedly generate ad templates using copies of Saflor's \"Running Away Balloon\" comic. Saflor alleges those tools are producing copies of... Read Entire Article",
+    "link": "https://www.techspot.com/news/113248-artist-suing-ai-meme-generator-selling-viral-comic.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-29T11:08:00.649267"
+  },
+  {
+    "title": "Sam Altman says AI won't shorten the workweek because humans secretly enjoy being busy",
+    "summary": "One of the many benefits promised early in the generative AI boom was that it would boost productivity to the point where most of us could work fewer hours per week (and still be paid the same, presumably). Read Entire Article",
+    "link": "https://www.techspot.com/news/113264-sam-altman-ai-wont-shorten-workweek-because-humans.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-29T11:08:00.649384"
   }
 ]

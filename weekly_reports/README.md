@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 28, 2026**
+**Week of July 29, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,87 +7,87 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Intel unveiled its iconic Core 2 Duo family 20 years ago legendary chip dethroned AMD Athlon, restoring the chipmaker s performance lead ⭐
+### 1. Sovol M1D hybrid IDEX 3D printer features 6 interchangeable toolheads for multi-color and multi-material prints (Crowdfunding) ⭐
 
-**🎮 GPUs**
+**🤖 AI & ML**
 
-Intel launched the first Core 2 Duo processors, codenamed Conroe, 20 years ago. This marked a significant shift in processor performance, ultimately dethroning AMD's Athlon and restoring Intel's performance lead. The Core 2 Duo family became an iconic and influential line of chips.
+The Sovol M1D is an open-source IDEX 3D printer with interchangeable toolheads, enabling multi-material and multi-color prints.
 
-💡 **Key Point:** Intel regained performance supremacy with the Core 2 Duo launch
+💡 **Key Point:** Efficient multi-material and multi-color printing reduces production waste and increases flexibility
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-unveiled-its-iconic-core-2-duo-family-20-years-ago-legendary-chip-dethroned-amd-athlon-restoring-the-chipmakers-performance-lead)
+🔗 [Read More](https://www.cnx-software.com/2026/07/29/sovol-m1d-hybrid-idex-3d-printer-features-6-interchangeable-toolheads-for-multi-color-and-multi-material-prints/)
 
 ---
 
-### 2. Intel unveiled its iconic Core 2 Duo family 20 years ago legendary chip dethroned AMD Athlon, restoring the chipmaker s performance lead ⭐
+### 2. Sovol M1D hybrid IDEX 3D printer features 6 interchangeable toolheads for multi-color and multi-material prints (Crowdfunding) ⭐
 
 **📰 Tech News**
 
-Intel launched the first Core 2 Duo processors, codenamed Conroe, 20 years ago. This marked a significant shift in processor performance, ultimately dethroning AMD's Athlon and restoring Intel's performance lead. The Core 2 Duo family became an iconic and influential line of chips.
+The Sovol M1D is an open-source IDEX 3D printer with interchangeable toolheads, enabling multi-material and multi-color prints.
 
-💡 **Key Point:** Intel regained performance supremacy with the Core 2 Duo launch
+💡 **Key Point:** Efficient multi-material and multi-color printing reduces production waste and increases flexibility
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/intel-unveiled-its-iconic-core-2-duo-family-20-years-ago-legendary-chip-dethroned-amd-athlon-restoring-the-chipmakers-performance-lead)
-
----
-
-### 3. DFI X6X-ORN An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support ⭐
-
-**🤖 AI & ML**
-
-The DFI X6X-ORN is a fanless, IP67-rated edge AI computer for extreme outdoor and industrial environments, powered by the NVIDIA Jetson Orin NX/Nano module, with up to 157 TOPS of AI performance and support for GMSL2 camera interfaces.
-
-💡 **Key Point:** Rugged AI edge computing for harsh industrial and outdoor applications
-
-🔗 [Read More](https://www.cnx-software.com/2026/07/28/dfi-x6x-orn-an-ip67-rated-rugged-jetson-orin-nx-nano-edge-ai-computer-with-gmsl2-camera-support/)
+🔗 [Read More](https://www.cnx-software.com/2026/07/29/sovol-m1d-hybrid-idex-3d-printer-features-6-interchangeable-toolheads-for-multi-color-and-multi-material-prints/)
 
 ---
 
-### 4. DFI X6X-ORN An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support ⭐
+### 3. SensWear An open-source modular Nordic nRF54L15 development platform for wearables ⭐
 
 **💻 Hardware**
 
-The DFI X6X-ORN is a fanless, IP67-rated edge AI computer for extreme outdoor and industrial environments, powered by the NVIDIA Jetson Orin NX/Nano module, with up to 157 TOPS of AI performance and support for GMSL2 camera interfaces.
+SensWear is an open-source hardware platform for wearables with modular design and various sensors. It uses the Nordic nRF54L15 Bluetooth LE SoC and features like 6-axis IMU sensor and interchangeable daughter boards with different sensing capabilities.
 
-💡 **Key Point:** Rugged AI edge computing for harsh industrial and outdoor applications
+💡 **Key Point:** Enabling low-cost, flexible, and highly customizable wearable device development.
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/28/dfi-x6x-orn-an-ip67-rated-rugged-jetson-orin-nx-nano-edge-ai-computer-with-gmsl2-camera-support/)
+🔗 [Read More](https://www.cnx-software.com/2026/07/29/senswear-an-open-source-modular-nordic-nrf54l15-development-platform-for-wearables/)
 
 ---
 
-### 5. OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance 30+ companies join security alliance after OpenAI agent breach 
+### 4. SensWear An open-source modular Nordic nRF54L15 development platform for wearables ⭐
 
-**🤖 AI & ML**
+**⚡ Semiconductors**
 
-Tech companies form Open Secure AI Alliance to build open-source AI models and tools, citing the need for locally controlled AI after security concerns with closed-model safeguards.
+SensWear is an open-source hardware platform for wearables with modular design and various sensors. It uses the Nordic nRF54L15 Bluetooth LE SoC and features like 6-axis IMU sensor and interchangeable daughter boards with different sensing capabilities.
 
-💡 **Key Point:** Locally controlled AI models can aid in security threat analysis.
+💡 **Key Point:** Enabling low-cost, flexible, and highly customizable wearable device development.
 
-🔗 [Read More](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach)
+🔗 [Read More](https://www.cnx-software.com/2026/07/29/senswear-an-open-source-modular-nordic-nrf54l15-development-platform-for-wearables/)
+
+---
+
+### 5. 7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200 1200 or 800 800 resolution ⭐
+
+**💻 Hardware**
+
+VIEWE has launched 7.6-inch square HDMI capacitive touch displays in two resolutions: 1200x1200 and 800x800. The displays feature a square IPS display, optional 5-point capacitive touchscreen, and support 5V power via USB-C. They are suitable for Raspberry Pi or other SBCs.
+
+💡 **Key Point:** Raspberry Pi users gain access to larger high-resolution displays.
+
+🔗 [Read More](https://www.cnx-software.com/2026/07/29/7-6-inch-square-hdmi-displays-with-usb-capacitive-touchscreen-offered-at-1200x1200-or-800x800-resolution/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **54 articles** across **5 focused categories**.
+We covered **58 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 19 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 10 | Graphics cards and compute accelerators |
+| 🤖 [AI & ML](ai_and_ml.md) | 23 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 11 | Graphics cards and compute accelerators |
 | 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 10 | Industry news and product launches |
+| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 19 articles
+*Artificial Intelligence and Machine Learning* — 23 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 10 articles
+*Graphics cards and compute accelerators* — 11 articles
 
 ### 💻 [Hardware](hardware.md)
 *Computing hardware and development boards* — 11 articles
@@ -96,12 +96,12 @@ We covered **54 articles** across **5 focused categories**.
 *Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 10 articles
+*Industry news and product launches* — 9 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-07-28 at 11:02 by an autonomous AI curation system.
+Generated 2026-07-29 at 11:09 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

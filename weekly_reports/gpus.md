@@ -1,115 +1,125 @@
 # 🎮 GPUs
-**Week of July 28, 2026**
+**Week of July 29, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-07-28 11:02
+- **Articles this week:** 11
+- **Report generated:** 2026-07-29 11:09
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel unveiled its iconic Core 2 Duo family 20 years ago legendary chip dethroned AMD Athlon, restoring the chipmaker s performance lead ⭐
+### 1. Microsoft laptop with Nvidia RTX Spark leaked and benchmarked before launch ⭐
 
-Intel launched the first Core 2 Duo processors, codenamed Conroe, 20 years ago. This marked a significant shift in processor performance, ultimately dethroning AMD's Athlon and restoring Intel's performance lead. The Core 2 Duo family became an iconic and influential line of chips.
+A Microsoft Surface Laptop Ultra prototype was found and tested before launch. The device features an Nvidia RTX GPU, offering high performance. Test results highlighted its power efficiency and build quality.
 
-💡 *Intel regained performance supremacy with the Core 2 Duo launch*
+💡 *Microsoft's high-performance laptop may disrupt gaming and graphics markets significantly*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-unveiled-its-iconic-core-2-duo-family-20-years-ago-legendary-chip-dethroned-amd-athlon-restoring-the-chipmakers-performance-lead)
-
----
-
-### 2. Re-examining the DDR4 gaming gap with Intel s LGA 1700 CPUs in mid-2026 performance drops of 14% on average, and up to 25% in some games 
-
-Intel's LGA 1700 CPUs show significant performance drops with DDR4 in 2026, affecting gaming performance. DDR5 provides a notable advantage over DDR4 in modern gaming. The DDR4 gaming gap is substantial, with drops of up to 25% in some games.
-
-💡 *DDR4's performance disadvantage grows with each new gaming generation.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/re-examining-the-ddr4-gaming-gap-with-intels-lga-1700-cpus-in-mid-2026-performance-drops-of-14-percent-on-average-and-up-to-25-percent-in-some-games)
+🔗 [Read Full Article](https://www.techspot.com/news/113259-microsoft-laptop-nvidia-rtx-spark-leaked-benchmarked-before.html)
 
 ---
 
-### 3. OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance 30+ companies join security alliance after OpenAI agent breach 
+### 2. Intel's upcoming Nova Lake desktop SKU to require 65W of separate power delivery for its iGPU, leaker claims beefy integrated graphics could require two VCCGT phases for 12 Xe3P cores 
 
-Tech companies form Open Secure AI Alliance to build open-source AI models and tools, citing the need for locally controlled AI after security concerns with closed-model safeguards.
+Intel's Nova Lake desktop APU may require a dedicated 65W power delivery for its iGPU, necessitating two separate VCCGT phases to power the 12 Xe3P cores.
 
-💡 *Locally controlled AI models can aid in security threat analysis.*
+💡 *Integrated graphics power consumption is a significant design consideration for APUs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach)
-
----
-
-### 4. The Best 4K Gaming Monitors: OLED Leads, LCD Fights Back 
-
-Top 4K gaming monitors offer premium OLED, affordable IPS options with HDR performance, based on hands-on testing, pricing, and value.
-
-💡 *4K gaming monitors improve visual immersion, enhancing gaming experiences significantly.*
-
-🔗 [Read Full Article](https://www.techspot.com/bestof/4k-gaming-monitors-26/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-nova-lake-desktop-sku-to-require-65w-of-separate-power-delivery-for-its-igpu-leaker-claims-beefy-integrated-graphics-could-require-two-vccgt-phases-for-12-xe3p-cores)
 
 ---
 
-### 5. Nvidia employee detained in Taiwan as part of chip smuggling probe held on suspicion of falsifying business documents, company says smuggling 'a nonstarter' 
+### 3. Mystery reviewer 'finds' Nvidia RTX Spark prototype laptop and puts it through its paces Microsoft Surface Laptop Ultra with Nvidia N1X chip shows promise, though prototype warts are still quite visible 
 
-Nvidia employee detained in Taiwan on suspicion of falsifying documents. Prosecutors searched his home and workplace. The case is part of a chip smuggling probe.
+A tech reviewer discovers a Nvidia RTX Spark prototype laptop, testing its capabilities and highlighting Microsoft Surface Laptop Ultra's potential with the Nvidia N1X chip.
 
-💡 *Taiwan's chip industry faces scrutiny over smuggling and document falsification risks.*
+💡 *Nvidia's N1X chip brings promising performance to Microsoft Surface Laptop Ultra.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidias-taipei-office-searched-as-taiwan-detains-employee-in-ai-chip-smuggling-probe)
-
----
-
-### 6. MSI and Colorful raise Nvidia RTX 50-series prices in China by up to 59% across the entire lineup change in distributer pricing suggests GPU price hikes are on the way 
-
-GPU prices in China have risen sharply due to distributor price hikes, with Nvidia RTX 50-series prices increasing by up to 75% compared to MSRP. MSI and Colorful, official distributors, have announced the price changes overnight. This suggests a potential GPU price hike globally.
-
-💡 *Global GPU prices may surge due to distributor price hikes*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/msi-and-colorful-raise-nvidia-rtx-50-series-prices-in-china-by-up-to-59-percent-across-the-entire-lineup-change-in-distributer-pricing-suggests-gpu-price-hikes-are-on-the-way)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible)
 
 ---
 
-### 7. Why an MMO mouse isn t just for gaming make use of the myriad of buttons for enhancing your productivity workflows in popular software applications 
+### 4. China's Moonshot AI reportedly used Nvidia Blackwell chips for training Kimi K3 company circumvented both U.S. export and Chinese import controls to acquire compute 
 
-MMO mice with multiple buttons can streamline productivity workflows in various software applications, enabling users to automate repetitive tasks and increase efficiency. This is achieved by assigning specific actions to each button, thereby reducing manual input and improving overall workflow. By leveraging the capabilities of an MMO mouse, users can enhance their productivity and reduce stress.
+Moonshot AI reportedly used Nvidia Blackwell chips for training its Kimi K3, potentially circumventing export and import controls. This could have serious implications for global AI development and trade regulations. Nvidia has yet to comment on the matter.
 
-💡 *Efficiency boost through customizable button assignments and automation*
+💡 *AI circumvention threatens global trade and regulatory frameworks stability*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/why-an-mmo-mouse-isnt-just-for-gaming-make-use-of-the-myriad-of-buttons-for-enhancing-your-productivity-workflows-in-popular-software-applications)
-
----
-
-### 8. AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent Florence, Ferrara, and Fidenza to be applied across AI-focused product stack 
-
-AMD has split Zen 7 into three EPYC families: Florence, Ferrara, and Fidenza. These new families are designed for AI-focused products and are expected to be used across the company's product stack. The move extends AMD's annual product cadence out to 2030.
-
-💡 *Enhanced AI capabilities through specialized server CPU architecture.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-splits-zen-7-into-three-epyc-families-for-2028-and-starts-selling-server-cpus-by-the-agent)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute)
 
 ---
 
-### 9. Mojang changes Minecraft system requirements after 17 years, recommends 16GB of RAM for "Fancy" graphics 
+### 5. Developer uses AI to bring a native version of The Legend of Zelda: Ocarina of Time to iOS no emulation required to play one of gaming's all-time greats on an iPhone or iPad 
 
-Minecraft: Java Edition now officially recommends 16GB of RAM, marking a significant change in system requirements. This upgrade aims to support 'Fancy' graphics and future updates. Players with aging systems may struggle to meet these new demands.
+A developer has successfully ported The Legend of Zelda: Ocarina of Time to iOS and iPadOS devices using AI tools from OpenAI, creating a native version that can be played without emulation.
 
-💡 *Minecraft's outdated system requirements are being updated to match modern gaming standards.*
+💡 *AI enables native gaming experiences on non-native platforms effortlessly*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113242-mojang-changes-minecraft-system-requirements-after-17-years.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/developer-uses-ai-to-bring-a-native-version-of-the-legend-of-zelda-ocarina-of-time-to-ios-no-emulation-required-to-play-one-of-gamings-all-time-greats-on-an-iphone-or-ipad)
 
 ---
 
-### 10. AMD's Ryzen 9 9950X3D is now available at a record-low $569 
+### 6. Save $1,000 on this RTX 5090 gaming PC from MSI, just 17% more than the GPU's standalone cost right now score this 4K powerhouse with 64GB DDR5 and a 2TB SSD for $4,899 
 
-The Ryzen 9 9950X3D is now available at a record-low price of $569. This CPU remains one of the fastest options for gaming and content creation. The reduced price makes it even more attractive to buyers.
+Save $1,000 on the MSI Aegis R2 gaming PC, featuring an RTX 5090, 64GB DDR5, and 2TB SSD for $4,899.
 
-💡 *Affordable high-performance CPU option for gaming and content creation enthusiasts*
+💡 *High-end gaming PC at a discounted price with significant storage capacity.*
 
-🔗 [Read Full Article](https://www.techspot.com/specs/cpu/305471-amd-ryzen-9-9950x3d.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd1-000-on-this-rtx-5090-gaming-pc-from-msi-just-17-percent-more-than-the-gpus-standalone-cost-right-now-score-this-4k-powerhouse-with-64gb-ddr5-and-a-2tb-ssd-for-usd4-899)
+
+---
+
+### 7. 16-hour Xbox outage even stopped physical games from working company blames licensing issue for incident that prohibited gaming across three generations of console 
+
+Xbox experienced a 16-hour outage due to a licensing service failure. The issue affected three generations of consoles and prohibited gaming. The outage was resolved after 16 hours.
+
+💡 *Dependence on external services can lead to widespread gaming disruptions.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/xbox-blames-a-licensing-service-outside-xbox-for-the-16-hour-outage-that-blocked-disc-games)
+
+---
+
+### 8. ASRock officially announces Radeon RX 9050 with 8GB VRAM RDNA 4 card offers boost clock of up to 2600MHz (updated) 
+
+ASRock has announced the Radeon RX 9050, a new GPU, with 8GB VRAM and a boost clock of up to 2600MHz.
+
+💡 *ASRock reveals details of upcoming high-end Radeon RX 9050 GPU.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/leaked-radeon-rx-9050-hints-at-the-return-of-4gb-vram-gpus-in-2026-new-budget-rdna-4-card-also-spotted-in-8gb-config-with-half-the-power-of-an-rx-9060)
+
+---
+
+### 9. Ace Combat 8 requires ray tracing GPU, 32GB RAM, and 125GB storage for recommended settings 
+
+Ace Combat 8 requires a high-end PC with advanced hardware for optimal performance. The recommended settings include a ray tracing GPU, 32GB RAM, and 125GB storage. This ensures a smooth gaming experience with detailed graphics and physics.
+
+💡 *High-end hardware required for immersive gaming experience with ray tracing.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113265-ace-combat-8-wings-theve-requires-windows-11.html)
+
+---
+
+### 10. Graphics card prices jump by up to 20% in China as shops stockpile Nvidia and AMD GPUs 
+
+Graphics card prices in China have increased by up to 20% in just seven days, according to distributor lists from MSI and Colorful. The prices of various Nvidia GPUs, including the RTX 5080 Shadow 3X OC and RTX 5070 Ti Shadow 3X OC, have risen significantly. This jump in prices is likely to affect consumers and gamers in China.
+
+💡 *Rising graphics card prices could limit gaming and tech upgrades.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113269-graphics-card-prices-jump-up-20-china-shops.html)
+
+---
+
+### 11. Lossless Scaling lets a second GPU handle frame generation, reviving dual-GPU gaming without SLI 
+
+A Redditor uses Lossless Scaling to pair a high-end GPU with a budget option, enabling dual-GPU gaming without SLI. The setup pairs a Gainward RTX 3090 Phoenix with an Asus Dual RTX 3050 6GB OC Edition. This allows for efficient frame generation and AI upscaling.
+
+💡 *Reviving dual-GPU gaming without SLI technology limitations.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113256-lossless-scaling-second-gpu-handle-frame-generation-reviving.html)
 
 ---
 

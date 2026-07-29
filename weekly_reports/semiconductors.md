@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of July 28, 2026**
+**Week of July 29, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,49 +7,49 @@
 
 ## 📊 Summary
 - **Articles this week:** 4
-- **Report generated:** 2026-07-28 11:02
+- **Report generated:** 2026-07-29 11:09
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. China begins mass production of homegrown immersion chipmaking machines in major breakthrough, report claims first DUV lithography units will be delivered this year to SMIC, Hua Hong, and CXMT 
+### 1. SensWear An open-source modular Nordic nRF54L15 development platform for wearables ⭐
 
-China has started mass-producing homegrown immersion chipmaking machines, with deliveries expected to SMIC, Hua Hong, and CXMT this year.
+SensWear is an open-source hardware platform for wearables with modular design and various sensors. It uses the Nordic nRF54L15 Bluetooth LE SoC and features like 6-axis IMU sensor and interchangeable daughter boards with different sensing capabilities.
 
-💡 *China's self-sufficiency in chip production technology gains significant momentum.*
+💡 *Enabling low-cost, flexible, and highly customizable wearable device development.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines)
-
----
-
-### 2. Waveshare RP2350-POE-ETH A Raspberry Pi RP2350 MCU board with PoE 
-
-The Waveshare RP2350-POE-ETH board is a Raspberry Pi RP2350 MCU board with Ethernet and PoE capabilities, featuring a dual-core Arm Cortex-M33 processor and 520KB internal RAM.
-
-💡 *Affordable PoE option for IoT and industrial applications increases adoption potential.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/28/waveshare-rp2350-poe-eth-a-raspberry-pi-rp2350-mcu-board-with-poe/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/29/senswear-an-open-source-modular-nordic-nrf54l15-development-platform-for-wearables/)
 
 ---
 
-### 3. LILYGO T-Display C5 board features 1.9-inch IPS color LCD, battery support, Qwiic expansion connectors 
+### 2. DRAM chip supply to module makers could drop by more than 70% year-on-year in 2027, says Apacer CEO demand for HBM and server RAM continues to devour manufacturing capacity 
 
-The LILYGO T-Display C5 board features a 1.9-inch IPS color LCD, ESP32-C5 chip, and Qwiic expansion connectors, enabling wireless connectivity and power efficiency with a USB-C port and Lithium battery support.
+Apacer predicts a significant drop in DRAM allocations to module makers, potentially below 30% of 2026 levels, due to high demand for AI-related memory and server RAM. This could lead to a substantial decrease in DRAM chip supply. The shortage may result in higher memory prices.
 
-💡 *Wireless IoT projects gain precision and power efficiency with this module.*
+💡 *AI demand tightens DRAM supply, pushing prices higher sharply*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/28/lilygo-t-display-c5-board-features-1-9-inch-ips-color-lcd-battery-support-qwiic-expansion-connectors/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/dram-chip-supply-to-module-makers-could-drop-by-more-than-70-percent-year-on-year-in-2027-says-apacer-ceo-demand-for-hbm-and-server-ram-continues-to-devour-manufacturing-capacity)
 
 ---
 
-### 4. Samsung lands Broadcom AI chip deal worth more than $200 billion through 2030 
+### 3. Intel closes out RAMP-C production pilot that paid Nvidia and others to run test chips on 18A program helped lay a path for secure domestic chip production on advanced processes 
 
-Samsung partners with Broadcom in a $200+ billion deal through 2030, leveraging Samsung's manufacturing stack for Broadcom's next-generation communications chips.
+Intel has completed RAMP-C, a U.S. defense program to establish a domestic leading-edge chip ecosystem on its 18A process. This program helped lay a path for secure domestic chip production on advanced processes. Intel Foundry was awarded the program in 2021.
 
-💡 *Leading-edge chip scaling drives efficiency and heat management advancements.*
+💡 *Securing domestic chip production on advanced processes is crucial for national security.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113247-samsung-lands-broadcom-ai-chip-deal-worth-more.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-closes-out-the-defense-program-that-paid-nvidia-and-others-to-run-test-chips-on-18a)
+
+---
+
+### 4. You can now play Morrowind directly in your browser, no installation required 
+
+Morrowind can now be played in a browser without installation, thanks to OpenMW.
+
+💡 *Access to classic games simplified, made more user-friendly online.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113260-you-can-now-play-morrowind-directly-browser-no.html)
 
 ---
 

@@ -1,5 +1,5 @@
 # 💻 Hardware
-**Week of July 28, 2026**
+**Week of July 29, 2026**
 
 *Computing hardware and development boards*
 
@@ -7,119 +7,119 @@
 
 ## 📊 Summary
 - **Articles this week:** 11
-- **Report generated:** 2026-07-28 11:02
+- **Report generated:** 2026-07-29 11:09
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. DFI X6X-ORN An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support ⭐
+### 1. SensWear An open-source modular Nordic nRF54L15 development platform for wearables ⭐
 
-The DFI X6X-ORN is a fanless, IP67-rated edge AI computer for extreme outdoor and industrial environments, powered by the NVIDIA Jetson Orin NX/Nano module, with up to 157 TOPS of AI performance and support for GMSL2 camera interfaces.
+SensWear is an open-source hardware platform for wearables with modular design and various sensors. It uses the Nordic nRF54L15 Bluetooth LE SoC and features like 6-axis IMU sensor and interchangeable daughter boards with different sensing capabilities.
 
-💡 *Rugged AI edge computing for harsh industrial and outdoor applications*
+💡 *Enabling low-cost, flexible, and highly customizable wearable device development.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/28/dfi-x6x-orn-an-ip67-rated-rugged-jetson-orin-nx-nano-edge-ai-computer-with-gmsl2-camera-support/)
-
----
-
-### 2. Re-examining the DDR4 gaming gap with Intel s LGA 1700 CPUs in mid-2026 performance drops of 14% on average, and up to 25% in some games 
-
-Intel's LGA 1700 CPUs show significant performance drops with DDR4 in 2026, affecting gaming performance. DDR5 provides a notable advantage over DDR4 in modern gaming. The DDR4 gaming gap is substantial, with drops of up to 25% in some games.
-
-💡 *DDR4's performance disadvantage grows with each new gaming generation.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/re-examining-the-ddr4-gaming-gap-with-intels-lga-1700-cpus-in-mid-2026-performance-drops-of-14-percent-on-average-and-up-to-25-percent-in-some-games)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/29/senswear-an-open-source-modular-nordic-nrf54l15-development-platform-for-wearables/)
 
 ---
 
-### 3. Waveshare RP2350-POE-ETH A Raspberry Pi RP2350 MCU board with PoE 
+### 2. 7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200 1200 or 800 800 resolution ⭐
 
-The Waveshare RP2350-POE-ETH board is a Raspberry Pi RP2350 MCU board with Ethernet and PoE capabilities, featuring a dual-core Arm Cortex-M33 processor and 520KB internal RAM.
+VIEWE has launched 7.6-inch square HDMI capacitive touch displays in two resolutions: 1200x1200 and 800x800. The displays feature a square IPS display, optional 5-point capacitive touchscreen, and support 5V power via USB-C. They are suitable for Raspberry Pi or other SBCs.
 
-💡 *Affordable PoE option for IoT and industrial applications increases adoption potential.*
+💡 *Raspberry Pi users gain access to larger high-resolution displays.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/28/waveshare-rp2350-poe-eth-a-raspberry-pi-rp2350-mcu-board-with-poe/)
-
----
-
-### 4. LILYGO T-Display C5 board features 1.9-inch IPS color LCD, battery support, Qwiic expansion connectors 
-
-The LILYGO T-Display C5 board features a 1.9-inch IPS color LCD, ESP32-C5 chip, and Qwiic expansion connectors, enabling wireless connectivity and power efficiency with a USB-C port and Lithium battery support.
-
-💡 *Wireless IoT projects gain precision and power efficiency with this module.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/28/lilygo-t-display-c5-board-features-1-9-inch-ips-color-lcd-battery-support-qwiic-expansion-connectors/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/29/7-6-inch-square-hdmi-displays-with-usb-capacitive-touchscreen-offered-at-1200x1200-or-800x800-resolution/)
 
 ---
 
-### 5. AI developer runs 28.9-million-parameter model on $10 ESP32-S3 microcontroller uses Google's Per-Layer Embeddings technique, stores table on 16MB Flash memory 
+### 3. Microsoft laptop with Nvidia RTX Spark leaked and benchmarked before launch ⭐
 
-An AI developer successfully ran a 28.9-million-parameter model on a $10 ESP32-S3 microcontroller using Google's Per-Layer Embeddings technique, storing the model on 16MB Flash memory.
+A Microsoft Surface Laptop Ultra prototype was found and tested before launch. The device features an Nvidia RTX GPU, offering high performance. Test results highlighted its power efficiency and build quality.
 
-💡 *Advancements in AI efficiency enable low-cost, low-power applications*
+💡 *Microsoft's high-performance laptop may disrupt gaming and graphics markets significantly*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-runs-28-9-million-parameter-model-on-usd10-esp32-s3-microcontroller-uses-googles-per-layer-embeddings-technique-stores-table-on-16mb-flash-memory)
-
----
-
-### 6. Disgruntled gamer builds booby-trapped Steam Deck with 3D-printed spikes and a built-in taser Raspberry Pi powers speaker, camera, and alarm to stop family members draining his battery 
-
-A disgruntled gamer built a booby-trapped Steam Deck with 3D-printed spikes and a taser to prevent family members from borrowing it. The device is powered by a Raspberry Pi, which also controls a speaker, camera, and alarm system. This extreme measure aims to protect the device from being drained.
-
-💡 *Gaming boundaries are being tested by extreme anti-sharing measures online.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/disgruntled-gamer-builds-booby-trapped-steam-deck-with-3d-printed-spikes-and-a-built-in-taser-raspberry-pi-powers-speaker-camera-and-alarm-to-stop-family-members-draining-his-battery)
+🔗 [Read Full Article](https://www.techspot.com/news/113259-microsoft-laptop-nvidia-rtx-spark-leaked-benchmarked-before.html)
 
 ---
 
-### 7. AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent Florence, Ferrara, and Fidenza to be applied across AI-focused product stack 
+### 4. Intel's upcoming Nova Lake desktop SKU to require 65W of separate power delivery for its iGPU, leaker claims beefy integrated graphics could require two VCCGT phases for 12 Xe3P cores 
 
-AMD has split Zen 7 into three EPYC families: Florence, Ferrara, and Fidenza. These new families are designed for AI-focused products and are expected to be used across the company's product stack. The move extends AMD's annual product cadence out to 2030.
+Intel's Nova Lake desktop APU may require a dedicated 65W power delivery for its iGPU, necessitating two separate VCCGT phases to power the 12 Xe3P cores.
 
-💡 *Enhanced AI capabilities through specialized server CPU architecture.*
+💡 *Integrated graphics power consumption is a significant design consideration for APUs.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-splits-zen-7-into-three-epyc-families-for-2028-and-starts-selling-server-cpus-by-the-agent)
-
----
-
-### 8. California's largest AI data center is suing for access to 287 million gallons of Colorado River water a year 
-
-IVCM is suing IID for access to 287 million gallons of Colorado River water annually to power its planned AI data center.
-
-💡 *Access to water is crucial for large-scale data center operations.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113249-california-largest-ai-data-center-suing-access-287.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-nova-lake-desktop-sku-to-require-65w-of-separate-power-delivery-for-its-igpu-leaker-claims-beefy-integrated-graphics-could-require-two-vccgt-phases-for-12-xe3p-cores)
 
 ---
 
-### 9. Upgrading an MSI Claw 8 EX AI+ handheld gaming PC with a 2TB SSD 
+### 5. Mystery reviewer 'finds' Nvidia RTX Spark prototype laptop and puts it through its paces Microsoft Surface Laptop Ultra with Nvidia N1X chip shows promise, though prototype warts are still quite visible 
 
-Upgrading the MSI Claw 8 EX AI+ with a 2TB SSD increases storage capacity and potentially improves gaming performance.
+A tech reviewer discovers a Nvidia RTX Spark prototype laptop, testing its capabilities and highlighting Microsoft Surface Laptop Ultra's potential with the Nvidia N1X chip.
 
-💡 *Doubling storage space enhances gaming library and reduces loading times.*
+💡 *Nvidia's N1X chip brings promising performance to Microsoft Surface Laptop Ultra.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/handheld-gaming/upgrading-an-msi-claw-8-ex-ai-handheld-gaming-pc-with-a-2tb-ssd)
-
----
-
-### 10. Framework Laptop 13 Pro review: It cleans up nice 
-
-The Framework Laptop 13 Pro boasts a solid build, bright display, and long battery life, making it an excellent choice for those who can afford it.
-
-💡 *High-quality build and features justify premium price tag.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/framework-laptop-13-pro-review)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible)
 
 ---
 
-### 11. The US Air Force used over 1,000 game consoles to build a supercomputer in 2010. Which one did they choose? 
+### 6. Acer ProDesigner PE320QXT professional monitor review: Touchscreen functionality with a 6K resolution 
 
-The US Air Force created a supercomputer using 1,760 Microsoft Xbox 360 consoles, spending $2 million. This innovative approach leveraged the power of gaming systems to achieve high-performance computing. The project showcased the potential of repurposed technology in building complex systems.
+The Acer ProDesigner PE320QXT features a 6K IPS touchscreen display, ideal for content creators, presenters, and designers.
 
-💡 *Repurposed gaming technology can revolutionize high-performance computing*
+💡 *Revolutionizing workspace with large, high-resolution touchscreen technology*
 
-🔗 [Read Full Article](https://www.techspot.com/trivia/133-us-air-force-used-over-1000-game-consoles/)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/acer-prodesigner-pe320qxt-professional-monitor-review)
+
+---
+
+### 7. Motherboard VRM thermal testing budget vs. high-end boards, does it really matter? 
+
+Motherboard VRM thermal performance varies greatly between budget and premium designs. This difference can impact CPU performance, especially under heavy loads. High-end boards often prioritize thermal management, but is it worth the cost?
+
+💡 *Thermal efficiency directly influences CPU performance under heavy loads consistently*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/motherboard-vrm-thermal-testing-budget-vs-high-end-boards-does-it-really-matter)
+
+---
+
+### 8. DRAM chip supply to module makers could drop by more than 70% year-on-year in 2027, says Apacer CEO demand for HBM and server RAM continues to devour manufacturing capacity 
+
+Apacer predicts a significant drop in DRAM allocations to module makers, potentially below 30% of 2026 levels, due to high demand for AI-related memory and server RAM. This could lead to a substantial decrease in DRAM chip supply. The shortage may result in higher memory prices.
+
+💡 *AI demand tightens DRAM supply, pushing prices higher sharply*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/dram-chip-supply-to-module-makers-could-drop-by-more-than-70-percent-year-on-year-in-2027-says-apacer-ceo-demand-for-hbm-and-server-ram-continues-to-devour-manufacturing-capacity)
+
+---
+
+### 9. Save $1,000 on this RTX 5090 gaming PC from MSI, just 17% more than the GPU's standalone cost right now score this 4K powerhouse with 64GB DDR5 and a 2TB SSD for $4,899 
+
+Save $1,000 on the MSI Aegis R2 gaming PC, featuring an RTX 5090, 64GB DDR5, and 2TB SSD for $4,899.
+
+💡 *High-end gaming PC at a discounted price with significant storage capacity.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd1-000-on-this-rtx-5090-gaming-pc-from-msi-just-17-percent-more-than-the-gpus-standalone-cost-right-now-score-this-4k-powerhouse-with-64gb-ddr5-and-a-2tb-ssd-for-usd4-899)
+
+---
+
+### 10. Ace Combat 8 requires ray tracing GPU, 32GB RAM, and 125GB storage for recommended settings 
+
+Ace Combat 8 requires a high-end PC with advanced hardware for optimal performance. The recommended settings include a ray tracing GPU, 32GB RAM, and 125GB storage. This ensures a smooth gaming experience with detailed graphics and physics.
+
+💡 *High-end hardware required for immersive gaming experience with ray tracing.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113265-ace-combat-8-wings-theve-requires-windows-11.html)
+
+---
+
+### 11. Ubisoft is bundling free PC copies with 13 Xbox games, including Rainbow Six Siege and Valhalla 
+
+Ubisoft is offering free PC copies with 13 Xbox game purchases. Xbox users can get PC versions of games like Rainbow Six Siege and Valhalla for free. The offer starts today and applies to digital console copies.
+
+💡 *Ubisoft expands game accessibility across platforms for Xbox users*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113258-ubisoft-bundling-free-pc-copies-13-xbox-games.html)
 
 ---
 
