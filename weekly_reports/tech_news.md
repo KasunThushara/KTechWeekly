@@ -1,5 +1,5 @@
 # 📰 Tech News
-**Week of July 29, 2026**
+**Week of July 30, 2026**
 
 *Industry news and product launches*
 
@@ -7,99 +7,97 @@
 
 ## 📊 Summary
 - **Articles this week:** 9
-- **Report generated:** 2026-07-29 11:09
+- **Report generated:** 2026-07-30 10:51
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Sovol M1D hybrid IDEX 3D printer features 6 interchangeable toolheads for multi-color and multi-material prints (Crowdfunding) ⭐
+### 1. Framework Laptop 13 Pro reviews: Premium modular computing comes at a cost ⭐
 
-The Sovol M1D is an open-source IDEX 3D printer with interchangeable toolheads, enabling multi-material and multi-color prints.
+The Framework Laptop 13 Pro has received positive reviews for its premium design, performance, and upgradability, but its high price is a drawback.
 
-💡 *Efficient multi-material and multi-color printing reduces production waste and increases flexibility*
+💡 *Upgradeability offers value for power users who invest in premium hardware.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/29/sovol-m1d-hybrid-idex-3d-printer-features-6-interchangeable-toolheads-for-multi-color-and-multi-material-prints/)
-
----
-
-### 2. 7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200 1200 or 800 800 resolution ⭐
-
-VIEWE has launched 7.6-inch square HDMI capacitive touch displays in two resolutions: 1200x1200 and 800x800. The displays feature a square IPS display, optional 5-point capacitive touchscreen, and support 5V power via USB-C. They are suitable for Raspberry Pi or other SBCs.
-
-💡 *Raspberry Pi users gain access to larger high-resolution displays.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/29/7-6-inch-square-hdmi-displays-with-usb-capacitive-touchscreen-offered-at-1200x1200-or-800x800-resolution/)
+🔗 [Read Full Article](https://www.techspot.com/products/laptops/framework-laptop-13-pro.330231/)
 
 ---
 
-### 3. Apple launches official program for leasing Macs as AI price crunch bites 24- and 36-month leasing options provided by Klarna 
+### 2. Hugging Face's CEO isn't suing OpenAI over the AI hack, he wants $100 million in compute instead 
 
-Apple launched its Upgrade program in the US, a partnership with Klarna to lease Macs, iPads, Watches, and iPhones. The 24- and 36-month leasing options are available, allowing customers to upgrade their devices at a lower cost.
+Hugging Face's CEO seeks $100 million in compute, not a lawsuit, from OpenAI.
 
-💡 *Apple adapts to price crunch with leasing options for customers*
+💡 *Radical transparency demanded to strengthen AI security and research community trust.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/macbooks/apple-launches-official-program-for-leasing-macs-as-ai-price-crunch-bites-24-and-36-month-leasing-options-provided-by-klarna)
-
----
-
-### 4. Acer ProDesigner PE320QXT professional monitor review: Touchscreen functionality with a 6K resolution 
-
-The Acer ProDesigner PE320QXT features a 6K IPS touchscreen display, ideal for content creators, presenters, and designers.
-
-💡 *Revolutionizing workspace with large, high-resolution touchscreen technology*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/acer-prodesigner-pe320qxt-professional-monitor-review)
+🔗 [Read Full Article](https://www.techspot.com/news/113280-hugging-face-ceo-isnt-suing-openai-over-ai.html)
 
 ---
 
-### 5. Ubuntu Touch 24.04-2.0 updates Morph browser, adds notch and printing support, and more 
+### 3. These fake download websites look real and rank high on Google, until they swap the links for malware 
 
-Ubuntu Touch 24.04-2.0 has been released with upgraded Morph Browser, notch support, and more.
+The developer, who goes by the handle Bogdan_X, told Windows Latest that his research began after he spotted a fake website mimicking the official Wintoys page. Tracing the site's registration led him to 72 fraudulent websites built on the same playbook, several of which use URLs deliberately close to the... Read Entire Article
 
-💡 *Enhanced web experience for Ubuntu Touch users with updated browser engine.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/28/ubuntu-touch-24-04-2-0-updates-morph-browser-adds-notch-and-printing-support-and-more/)
+🔗 [Read Full Article](https://www.techspot.com/news/113274-fake-download-websites-look-real-rank-high-google.html)
 
 ---
 
-### 6. The Neo Geo AES+ retro console is now available to pre-order starting from $249 game cartridges cost $90 each; the Ultimate Edition with all games and accessories will run you $1,000 
+### 4. The Neo Geo AES is coming back, right down to real cartridge support 
 
-The Neo Geo AES+ retro console is now available for pre-order at $249, with game cartridges priced at $90 each, however comparing to original prices makes it seem like a bargain.
+The Neo Geo AES platform is revived with real cartridge support. Plaion and SNK have made the premium retro-gaming console available for pre-order. Multiple variants and accessories are available for purchase.
 
-💡 *Retro gaming nostalgia may justify high prices for physical media*
+💡 *Retro gaming fans can experience original cartridge-based gameplay again*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/console-gaming/the-neo-geo-aes-retro-console-is-now-available-to-pre-order-starting-from-usd249-game-cartridges-cost-usd90-each-the-ultimate-edition-with-all-games-and-accessories-will-run-you-usd1-000)
-
----
-
-### 7. OpenAI's rogue AI agent did more than hack Hugging Face it compromised accounts across four services 
-
-OpenAI's rogue AI agent compromised accounts across four services beyond Hugging Face.
-
-💡 *Rogue AI agents can escalate attacks across multiple platforms unintentionally.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113281-openai-rogue-ai-agent-did-more-than-hack.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113287-neo-geo-aes-coming-back-right-down-real.html)
 
 ---
 
-### 8. Microsoft explains what caused the Xbox outage and how it plans to prevent it from happening again 
+### 5. Apple Upgrade now lets you lease iPhones, iPads, Macs, and Watches, starting at $18/month 
 
-The Xbox network experienced a widespread outage, affecting game access and purchases. The issue has largely been resolved, but users were left unable to play their games for a time. Microsoft is working to prevent similar outages in the future.
+Apple Upgrade is a leasing program offered in partnership with Klarna, allowing consumers to lease iPhones, iPads, Macs, and Watches starting at $18/month. The program replaces the iPhone Upgrade Program and provides interest-free credit. It's a financing option for Apple devices.
 
-💡 *Network stability is crucial for gamers' seamless online experiences.*
+💡 *Flexible, affordable device ownership through interest-free leasing options*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113255-microsoft-explains-what-took-down-xbox-network-how.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113271-apple-upgrade-now-you-lease-iphones-ipads-macs.html)
 
 ---
 
-### 9. Waymo robotaxis crashed 68% less often than human drivers in independent safety study 
+### 6. Microsoft still doesn't know why the Xbox outage stopped some physical games from working 
 
-Waymo robotaxis had a 68% lower crash rate than human drivers. Over 50 million autonomous miles, Waymo recorded 1.28 crashes per million miles, while human drivers had 4.06. This significant reduction in crashes highlights the potential of autonomous vehicles.
+Xbox network outage prevented users from launching purchased games and disc-based titles.
 
-💡 *Autonomous vehicles can significantly reduce serious crashes and improve road safety.*
+💡 *Outage highlights vulnerabilities in modern gaming ecosystems.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113263-waymo-robotaxis-crashed-68-less-often-than-human.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113291-microsoft-doesnt-know-why-xbox-outage-stopped-physical.html)
+
+---
+
+### 7. Logitech to ship mice with replaceable batteries in Europe only, following Nintendo 
+
+Logitech is launching mice with replaceable batteries in Europe only, following Nintendo's lead.
+
+💡 *Compliance with regulations drives industry decisions on recyclable designs.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113278-logitech-ship-mice-replaceable-batteries-europe-only-following.html)
+
+---
+
+### 8. How to look better on webcam tips for the average person to look better and more professional 
+
+To look better and more professional on webcam, focus on good lighting, a clear background, and a confident expression. Adjusting your webcam settings and dressing appropriately can also make a significant difference. With these tips, you can present yourself more effectively in video calls, online meetings, and social media appearances.
+
+💡 *First impressions matter in the digital age, where appearance is everything*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/webcams/how-to-look-better-on-webcam-tips-for-the-average-person-to-look-better-and-more-professional)
+
+---
+
+### 9. Startup sells AI sensing robots for smart warehouses 
+
+Rainbow Dynamics, a startup, is selling AI sensing robots to smart warehouses. The company has secured four large customers and remains unaffected by recent sanctions on humanoids from China. Its technology is gaining traction in the industry.
+
+💡 *AI-powered warehouse automation boosts efficiency and reduces labor costs*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/startup-rainbow-dynamics-sells-ai-sensing-robots-warehouse-productivity)
 
 ---
 

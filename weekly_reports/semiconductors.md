@@ -1,5 +1,5 @@
 # ⚡ Semiconductors
-**Week of July 29, 2026**
+**Week of July 30, 2026**
 
 *Chip manufacturing and design*
 
@@ -7,49 +7,49 @@
 
 ## 📊 Summary
 - **Articles this week:** 4
-- **Report generated:** 2026-07-29 11:09
+- **Report generated:** 2026-07-30 10:51
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. SensWear An open-source modular Nordic nRF54L15 development platform for wearables ⭐
+### 1. Luxonis M8 Controller Box adds industrial I/Os, CAN Bus, and relay control to OAK4 AI vision cameras 
 
-SensWear is an open-source hardware platform for wearables with modular design and various sensors. It uses the Nordic nRF54L15 Bluetooth LE SoC and features like 6-axis IMU sensor and interchangeable daughter boards with different sensing capabilities.
+Luxonis M8 Controller Box expands industrial I/O capabilities for OAK4 AI vision cameras, enabling direct connection to sensors, actuators, and industrial equipment.
 
-💡 *Enabling low-cost, flexible, and highly customizable wearable device development.*
+💡 *Industrial-grade expansion for AI vision cameras accelerates automation applications.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/29/senswear-an-open-source-modular-nordic-nrf54l15-development-platform-for-wearables/)
-
----
-
-### 2. DRAM chip supply to module makers could drop by more than 70% year-on-year in 2027, says Apacer CEO demand for HBM and server RAM continues to devour manufacturing capacity 
-
-Apacer predicts a significant drop in DRAM allocations to module makers, potentially below 30% of 2026 levels, due to high demand for AI-related memory and server RAM. This could lead to a substantial decrease in DRAM chip supply. The shortage may result in higher memory prices.
-
-💡 *AI demand tightens DRAM supply, pushing prices higher sharply*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/dram-chip-supply-to-module-makers-could-drop-by-more-than-70-percent-year-on-year-in-2027-says-apacer-ceo-demand-for-hbm-and-server-ram-continues-to-devour-manufacturing-capacity)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/30/luxonis-m8-controller-box-adds-industrial-i-os-can-bus-and-relay-control-to-oak4-ai-vision-cameras/)
 
 ---
 
-### 3. Intel closes out RAMP-C production pilot that paid Nvidia and others to run test chips on 18A program helped lay a path for secure domestic chip production on advanced processes 
+### 2. NXP RW610FML Wi-Fi 6 and BLE 5.4 module features RW610 Cortex-M33 wireless MCU 
 
-Intel has completed RAMP-C, a U.S. defense program to establish a domestic leading-edge chip ecosystem on its 18A process. This program helped lay a path for secure domestic chip production on advanced processes. Intel Foundry was awarded the program in 2021.
+NXP introduced the RW610FML, a compact Wi-Fi 6 and BLE 5.4 module based on the RW610 Cortex-M33 MCU, suitable for various IoT applications.
 
-💡 *Securing domestic chip production on advanced processes is crucial for national security.*
+💡 *Enhanced wireless connectivity for IoT devices with Wi-Fi 6 and BLE 5.4 support.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/intel-closes-out-the-defense-program-that-paid-nvidia-and-others-to-run-test-chips-on-18a)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/29/nxp-rw610fml-wi-fi-6-and-ble-5-4-module-features-rw610-cortex-m33-wireless-mcu/)
 
 ---
 
-### 4. You can now play Morrowind directly in your browser, no installation required 
+### 3. Three US states to deploy 60mph drones armed with pepper spray to neutralize school shooters Campus Guardian Angel drones can also smash windows and ram attackers 
 
-Morrowind can now be played in a browser without installation, thanks to OpenMW.
+US schools are deploying armed drones to neutralize potential shooters. The Campus Guardian Angel drones can reach 60mph and deploy pepper spray. They can also smash windows and ram attackers to intervene.
 
-💡 *Access to classic games simplified, made more user-friendly online.*
+💡 *Rapid response drones could save lives in active school shooter situations*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113260-you-can-now-play-morrowind-directly-browser-no.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/three-us-states-to-deploy-60mph-drones-armed-with-pepper-spray-to-neutralize-school-shooters-campus-guardian-angel-drones-can-also-smash-windows-and-ram-attackers)
+
+---
+
+### 4. GrapheneOS says its data-wiping "duress" password is perfectly legal, after user faces federal charges 
+
+GrapheneOS Foundation defends its open-source OS as legal under US law, claiming no involvement in unlawful practices. The operating system at the center of the controversy is used for data-wiping and encryption purposes. A user, Sam Tunick, faced federal charges related to the OS.
+
+💡 *Open-source encryption platform sparks debate over data security and government regulations*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113273-grapheneos-data-wiping-duress-password-perfectly-legal-after.html)
 
 ---
 

@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 29, 2026**
+**Week of July 30, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,75 +7,75 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Sovol M1D hybrid IDEX 3D printer features 6 interchangeable toolheads for multi-color and multi-material prints (Crowdfunding) ⭐
+### 1. Credit card-sized Edge AI single board computers are powered by TI AM62A (2 TOPS) or AM68A (8 TOPS) SoC ⭐
+
+**💻 Hardware**
+
+InHand Mo 62A and Mo 68A are credit card-sized Edge AI SBCs powered by Texas Instruments processors, delivering 2 TOPS and 8 TOPS of AI performance for AI Vision applications.
+
+💡 **Key Point:** Compact Edge AI computing for industrial automation and IoT applications.
+
+🔗 [Read More](https://www.cnx-software.com/2026/07/30/credit-card-sized-edge-ai-sbc-texas-instruments-am62a-2-tops-am68a-8-tops-soc/)
+
+---
+
+### 2. Framework Laptop 13 Pro reviews: Premium modular computing comes at a cost ⭐
+
+**💻 Hardware**
+
+The Framework Laptop 13 Pro has received positive reviews for its premium design, performance, and upgradability, but its high price is a drawback.
+
+💡 **Key Point:** Upgradeability offers value for power users who invest in premium hardware.
+
+🔗 [Read More](https://www.techspot.com/products/laptops/framework-laptop-13-pro.330231/)
+
+---
+
+### 3. Credit card-sized Edge AI single board computers are powered by TI AM62A (2 TOPS) or AM68A (8 TOPS) SoC ⭐
 
 **🤖 AI & ML**
 
-The Sovol M1D is an open-source IDEX 3D printer with interchangeable toolheads, enabling multi-material and multi-color prints.
+InHand Mo 62A and Mo 68A are credit card-sized Edge AI SBCs powered by Texas Instruments processors, delivering 2 TOPS and 8 TOPS of AI performance for AI Vision applications.
 
-💡 **Key Point:** Efficient multi-material and multi-color printing reduces production waste and increases flexibility
+💡 **Key Point:** Compact Edge AI computing for industrial automation and IoT applications.
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/29/sovol-m1d-hybrid-idex-3d-printer-features-6-interchangeable-toolheads-for-multi-color-and-multi-material-prints/)
+🔗 [Read More](https://www.cnx-software.com/2026/07/30/credit-card-sized-edge-ai-sbc-texas-instruments-am62a-2-tops-am68a-8-tops-soc/)
 
 ---
 
-### 2. Sovol M1D hybrid IDEX 3D printer features 6 interchangeable toolheads for multi-color and multi-material prints (Crowdfunding) ⭐
+### 4. Framework Laptop 13 Pro reviews: Premium modular computing comes at a cost ⭐
 
 **📰 Tech News**
 
-The Sovol M1D is an open-source IDEX 3D printer with interchangeable toolheads, enabling multi-material and multi-color prints.
+The Framework Laptop 13 Pro has received positive reviews for its premium design, performance, and upgradability, but its high price is a drawback.
 
-💡 **Key Point:** Efficient multi-material and multi-color printing reduces production waste and increases flexibility
+💡 **Key Point:** Upgradeability offers value for power users who invest in premium hardware.
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/29/sovol-m1d-hybrid-idex-3d-printer-features-6-interchangeable-toolheads-for-multi-color-and-multi-material-prints/)
+🔗 [Read More](https://www.techspot.com/products/laptops/framework-laptop-13-pro.330231/)
 
 ---
 
-### 3. SensWear An open-source modular Nordic nRF54L15 development platform for wearables ⭐
+### 5. MSI Cubi NUC AI+ 3MG review: Panther Lake in an understated mini PC 
 
 **💻 Hardware**
 
-SensWear is an open-source hardware platform for wearables with modular design and various sensors. It uses the Nordic nRF54L15 Bluetooth LE SoC and features like 6-axis IMU sensor and interchangeable daughter boards with different sensing capabilities.
+MSI Cubi NUC AI+ 3MG is a compact mini PC with Intel Core Ultra 9 386H, easy to upgrade, and relatively quiet but with limited ports.
 
-💡 **Key Point:** Enabling low-cost, flexible, and highly customizable wearable device development.
+💡 **Key Point:** Efficient performance in a tiny package requires strategic port placement.
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/29/senswear-an-open-source-modular-nordic-nrf54l15-development-platform-for-wearables/)
-
----
-
-### 4. SensWear An open-source modular Nordic nRF54L15 development platform for wearables ⭐
-
-**⚡ Semiconductors**
-
-SensWear is an open-source hardware platform for wearables with modular design and various sensors. It uses the Nordic nRF54L15 Bluetooth LE SoC and features like 6-axis IMU sensor and interchangeable daughter boards with different sensing capabilities.
-
-💡 **Key Point:** Enabling low-cost, flexible, and highly customizable wearable device development.
-
-🔗 [Read More](https://www.cnx-software.com/2026/07/29/senswear-an-open-source-modular-nordic-nrf54l15-development-platform-for-wearables/)
-
----
-
-### 5. 7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200 1200 or 800 800 resolution ⭐
-
-**💻 Hardware**
-
-VIEWE has launched 7.6-inch square HDMI capacitive touch displays in two resolutions: 1200x1200 and 800x800. The displays feature a square IPS display, optional 5-point capacitive touchscreen, and support 5V power via USB-C. They are suitable for Raspberry Pi or other SBCs.
-
-💡 **Key Point:** Raspberry Pi users gain access to larger high-resolution displays.
-
-🔗 [Read More](https://www.cnx-software.com/2026/07/29/7-6-inch-square-hdmi-displays-with-usb-capacitive-touchscreen-offered-at-1200x1200-or-800x800-resolution/)
+🔗 [Read More](https://www.tomshardware.com/desktops/mini-pcs/msi-cubi-nuc-ai-3mg-review)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **58 articles** across **5 focused categories**.
+We covered **56 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 23 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 11 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 11 | Computing hardware and development boards |
+| 🤖 [AI & ML](ai_and_ml.md) | 26 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
 | ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
 | 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
 
@@ -84,13 +84,13 @@ We covered **58 articles** across **5 focused categories**.
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 23 articles
+*Artificial Intelligence and Machine Learning* — 26 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 11 articles
+*Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 11 articles
+*Computing hardware and development boards* — 13 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
 *Chip manufacturing and design* — 4 articles
@@ -102,6 +102,6 @@ We covered **58 articles** across **5 focused categories**.
 
 ## 📅 About
 
-Generated 2026-07-29 at 11:09 by an autonomous AI curation system.
+Generated 2026-07-30 at 10:51 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

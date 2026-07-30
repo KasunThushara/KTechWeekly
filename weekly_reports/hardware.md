@@ -1,125 +1,145 @@
 # 💻 Hardware
-**Week of July 29, 2026**
+**Week of July 30, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-07-29 11:09
+- **Articles this week:** 13
+- **Report generated:** 2026-07-30 10:51
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. SensWear An open-source modular Nordic nRF54L15 development platform for wearables ⭐
+### 1. Credit card-sized Edge AI single board computers are powered by TI AM62A (2 TOPS) or AM68A (8 TOPS) SoC ⭐
 
-SensWear is an open-source hardware platform for wearables with modular design and various sensors. It uses the Nordic nRF54L15 Bluetooth LE SoC and features like 6-axis IMU sensor and interchangeable daughter boards with different sensing capabilities.
+InHand Mo 62A and Mo 68A are credit card-sized Edge AI SBCs powered by Texas Instruments processors, delivering 2 TOPS and 8 TOPS of AI performance for AI Vision applications.
 
-💡 *Enabling low-cost, flexible, and highly customizable wearable device development.*
+💡 *Compact Edge AI computing for industrial automation and IoT applications.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/29/senswear-an-open-source-modular-nordic-nrf54l15-development-platform-for-wearables/)
-
----
-
-### 2. 7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200 1200 or 800 800 resolution ⭐
-
-VIEWE has launched 7.6-inch square HDMI capacitive touch displays in two resolutions: 1200x1200 and 800x800. The displays feature a square IPS display, optional 5-point capacitive touchscreen, and support 5V power via USB-C. They are suitable for Raspberry Pi or other SBCs.
-
-💡 *Raspberry Pi users gain access to larger high-resolution displays.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/29/7-6-inch-square-hdmi-displays-with-usb-capacitive-touchscreen-offered-at-1200x1200-or-800x800-resolution/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/30/credit-card-sized-edge-ai-sbc-texas-instruments-am62a-2-tops-am68a-8-tops-soc/)
 
 ---
 
-### 3. Microsoft laptop with Nvidia RTX Spark leaked and benchmarked before launch ⭐
+### 2. Framework Laptop 13 Pro reviews: Premium modular computing comes at a cost ⭐
 
-A Microsoft Surface Laptop Ultra prototype was found and tested before launch. The device features an Nvidia RTX GPU, offering high performance. Test results highlighted its power efficiency and build quality.
+The Framework Laptop 13 Pro has received positive reviews for its premium design, performance, and upgradability, but its high price is a drawback.
 
-💡 *Microsoft's high-performance laptop may disrupt gaming and graphics markets significantly*
+💡 *Upgradeability offers value for power users who invest in premium hardware.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113259-microsoft-laptop-nvidia-rtx-spark-leaked-benchmarked-before.html)
-
----
-
-### 4. Intel's upcoming Nova Lake desktop SKU to require 65W of separate power delivery for its iGPU, leaker claims beefy integrated graphics could require two VCCGT phases for 12 Xe3P cores 
-
-Intel's Nova Lake desktop APU may require a dedicated 65W power delivery for its iGPU, necessitating two separate VCCGT phases to power the 12 Xe3P cores.
-
-💡 *Integrated graphics power consumption is a significant design consideration for APUs.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intels-upcoming-nova-lake-desktop-sku-to-require-65w-of-separate-power-delivery-for-its-igpu-leaker-claims-beefy-integrated-graphics-could-require-two-vccgt-phases-for-12-xe3p-cores)
+🔗 [Read Full Article](https://www.techspot.com/products/laptops/framework-laptop-13-pro.330231/)
 
 ---
 
-### 5. Mystery reviewer 'finds' Nvidia RTX Spark prototype laptop and puts it through its paces Microsoft Surface Laptop Ultra with Nvidia N1X chip shows promise, though prototype warts are still quite visible 
+### 3. MSI Cubi NUC AI+ 3MG review: Panther Lake in an understated mini PC 
 
-A tech reviewer discovers a Nvidia RTX Spark prototype laptop, testing its capabilities and highlighting Microsoft Surface Laptop Ultra's potential with the Nvidia N1X chip.
+MSI Cubi NUC AI+ 3MG is a compact mini PC with Intel Core Ultra 9 386H, easy to upgrade, and relatively quiet but with limited ports.
 
-💡 *Nvidia's N1X chip brings promising performance to Microsoft Surface Laptop Ultra.*
+💡 *Efficient performance in a tiny package requires strategic port placement.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible)
-
----
-
-### 6. Acer ProDesigner PE320QXT professional monitor review: Touchscreen functionality with a 6K resolution 
-
-The Acer ProDesigner PE320QXT features a 6K IPS touchscreen display, ideal for content creators, presenters, and designers.
-
-💡 *Revolutionizing workspace with large, high-resolution touchscreen technology*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/acer-prodesigner-pe320qxt-professional-monitor-review)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/msi-cubi-nuc-ai-3mg-review)
 
 ---
 
-### 7. Motherboard VRM thermal testing budget vs. high-end boards, does it really matter? 
+### 4. Luxonis M8 Controller Box adds industrial I/Os, CAN Bus, and relay control to OAK4 AI vision cameras 
 
-Motherboard VRM thermal performance varies greatly between budget and premium designs. This difference can impact CPU performance, especially under heavy loads. High-end boards often prioritize thermal management, but is it worth the cost?
+Luxonis M8 Controller Box expands industrial I/O capabilities for OAK4 AI vision cameras, enabling direct connection to sensors, actuators, and industrial equipment.
 
-💡 *Thermal efficiency directly influences CPU performance under heavy loads consistently*
+💡 *Industrial-grade expansion for AI vision cameras accelerates automation applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/motherboard-vrm-thermal-testing-budget-vs-high-end-boards-does-it-really-matter)
-
----
-
-### 8. DRAM chip supply to module makers could drop by more than 70% year-on-year in 2027, says Apacer CEO demand for HBM and server RAM continues to devour manufacturing capacity 
-
-Apacer predicts a significant drop in DRAM allocations to module makers, potentially below 30% of 2026 levels, due to high demand for AI-related memory and server RAM. This could lead to a substantial decrease in DRAM chip supply. The shortage may result in higher memory prices.
-
-💡 *AI demand tightens DRAM supply, pushing prices higher sharply*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/dram-chip-supply-to-module-makers-could-drop-by-more-than-70-percent-year-on-year-in-2027-says-apacer-ceo-demand-for-hbm-and-server-ram-continues-to-devour-manufacturing-capacity)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/30/luxonis-m8-controller-box-adds-industrial-i-os-can-bus-and-relay-control-to-oak4-ai-vision-cameras/)
 
 ---
 
-### 9. Save $1,000 on this RTX 5090 gaming PC from MSI, just 17% more than the GPU's standalone cost right now score this 4K powerhouse with 64GB DDR5 and a 2TB SSD for $4,899 
+### 5. NXP RW610FML Wi-Fi 6 and BLE 5.4 module features RW610 Cortex-M33 wireless MCU 
 
-Save $1,000 on the MSI Aegis R2 gaming PC, featuring an RTX 5090, 64GB DDR5, and 2TB SSD for $4,899.
+NXP introduced the RW610FML, a compact Wi-Fi 6 and BLE 5.4 module based on the RW610 Cortex-M33 MCU, suitable for various IoT applications.
 
-💡 *High-end gaming PC at a discounted price with significant storage capacity.*
+💡 *Enhanced wireless connectivity for IoT devices with Wi-Fi 6 and BLE 5.4 support.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd1-000-on-this-rtx-5090-gaming-pc-from-msi-just-17-percent-more-than-the-gpus-standalone-cost-right-now-score-this-4k-powerhouse-with-64gb-ddr5-and-a-2tb-ssd-for-usd4-899)
-
----
-
-### 10. Ace Combat 8 requires ray tracing GPU, 32GB RAM, and 125GB storage for recommended settings 
-
-Ace Combat 8 requires a high-end PC with advanced hardware for optimal performance. The recommended settings include a ray tracing GPU, 32GB RAM, and 125GB storage. This ensures a smooth gaming experience with detailed graphics and physics.
-
-💡 *High-end hardware required for immersive gaming experience with ray tracing.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113265-ace-combat-8-wings-theve-requires-windows-11.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/29/nxp-rw610fml-wi-fi-6-and-ble-5-4-module-features-rw610-cortex-m33-wireless-mcu/)
 
 ---
 
-### 11. Ubisoft is bundling free PC copies with 13 Xbox games, including Rainbow Six Siege and Valhalla 
+### 6. Samsung's passport-style Galaxy Z Fold 8 design is winning over reviewers 
 
-Ubisoft is offering free PC copies with 13 Xbox game purchases. Xbox users can get PC versions of games like Rainbow Six Siege and Valhalla for free. The offer starts today and applies to digital console copies.
+The Galaxy Z Fold 8 boasts a passport-style design, making it easier to use one-handed and watch videos.
 
-💡 *Ubisoft expands game accessibility across platforms for Xbox users*
+💡 *Revolutionizing foldable phone design for improved usability and functionality.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113258-ubisoft-bundling-free-pc-copies-13-xbox-games.html)
+🔗 [Read Full Article](https://www.techspot.com/products/smartphones/samsung-galaxy-z-fold-8.329633/)
+
+---
+
+### 7. AI firms are quietly buying and destroying millions of printed books to train their models 
+
+AI firms are buying and destroying millions of printed books to train their models, citing their cleaner data.
+
+💡 *Old books provide valuable, structured knowledge for AI training purposes.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113277-ai-firms-quietly-buying-destroying-millions-printed-books.html)
+
+---
+
+### 8. Gamers compress 80TB map of Minecraft's oldest anarchy server down to a 15TB download custom .zvcr compression format and 28 bots map 1 million blocks on infamous 2b2t server 
+
+Minecraft enthusiasts compress 80TB 2b2t server map to 15TB, preserving gaming history. The archive is made possible through a custom .zvcr compression format. 28 bots map 1 million blocks on the infamous 2b2t server.
+
+💡 *Preserving gaming history through collaborative compression efforts matters to the community.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/gamers-compress-80tb-map-of-minecrafts-oldest-anarchy-server-down-to-a-15tb-download-custom-zvcr-compression-format-and-28-bots-map-1-million-blocks-on-2b2t)
+
+---
+
+### 9. An inside tour of Lenovo s North Carolina AI server manufacturing line expansion Chinese firm expanding US-native production to meet exploding demand 
+
+Lenovo expands its North Carolina AI server manufacturing line to meet growing demand for domestically produced servers, driving domestic production to fuel the AI boom.
+
+💡 *Boosting domestic AI server production meets exploding demand sustainably.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/an-inside-tour-of-lenovos-north-carolina-ai-server-manufacturing-line-expansion-chinese-firm-expanding-us-native-production-to-meet-exploding-demand)
+
+---
+
+### 10. Testing laptops on battery and AC power Comparing Intel, Qualcomm, Apple, and AMD 
+
+We compared the performance of laptops with Intel, AMD, Qualcomm, and Apple processors on battery and AC power, revealing key differences in energy efficiency and performance.
+
+💡 *Chip design significantly impacts laptop battery life and performance*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/testing-laptops-on-battery-life-and-ac-power-comparing-intel-qualcomm-apple-and-amd)
+
+---
+
+### 11. How to buy second-hand PC hardware without getting scammed essential rules of engagement for finding used parts and machines in an inflated market 
+
+Buying second-hand PC hardware requires caution to avoid scams and inflated prices. Research and inspect the seller and the item thoroughly before making a purchase. Verify the item's condition and authenticity to ensure a smooth transaction.
+
+💡 *Second-hand PC buying involves high risks, low rewards without careful research*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/how-to-buy-second-hand-pc-hardware-without-getting-scammed-essential-rules-of-engagement-for-finding-used-parts-and-machines-in-an-inflated-market)
+
+---
+
+### 12. NightRun UEFI application boots a local LLM on Raspberry Pi 5 and x86 PCs without an OS 
+
+NightRun is an open-source project that boots a machine directly into a local LLM from a USB drive or microSD card without loading a conventional OS, freeing up system resources for AI inference. This experimental runtime is written in Rust and supports 64-bit x86_64 UEFI PCs and Raspberry Pi 5. It loads a quantized model into RAM and seals storage to prevent later access.
+
+💡 *Private AI processing and data storage through direct booting of LLMs.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/07/30/nightrun-uefi-application-boots-a-local-llm-on-raspberry-pi-5-and-x86-pcs-without-an-os/)
+
+---
+
+### 13. The US just banned Chinese humanoid robots and power inverters over security fears 
+
+The US has banned Chinese humanoid robots and power inverters over security concerns, citing potential supply chain vulnerabilities and cybersecurity risks to critical infrastructure.
+
+💡 *China-made devices pose significant national security and economic risks.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113279-us-banned-chinese-humanoid-robots-power-inverters-over.html)
 
 ---
 
