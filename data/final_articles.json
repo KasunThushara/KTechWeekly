@@ -1,417 +1,477 @@
 [
   {
-    "title": "Gamers compress 80TB map of Minecraft's oldest anarchy server down to a 15TB download custom .zvcr compression format and 28 bots map 1 million blocks on infamous 2b2t server",
-    "summary": "Minecraft enthusiasts compress 80TB 2b2t server map to 15TB, preserving gaming history. The archive is made possible through a custom .zvcr compression format. 28 bots map 1 million blocks on the infamous 2b2t server.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/gamers-compress-80tb-map-of-minecrafts-oldest-anarchy-server-down-to-a-15tb-download-custom-zvcr-compression-format-and-28-bots-map-1-million-blocks-on-2b2t",
+    "title": "Modder der8auer builds 110cm 3D-printed chimney to passively cool Ryzen 7 9800X3D without fans, cuts temps by 19C without fans radically simple PC mod cuts uses the 'stack effect'",
+    "summary": "der8auer built a 110cm 3D-printed chimney to passively cool his Ryzen 7 9800X3D without fans. The 'stack effect' design takes advantage of natural convection to reduce temperatures by 19C. This simple PC mod eliminates the need for mechanical fans.",
+    "link": "https://www.tomshardware.com/pc-components/cooling/modder-der8auer-builds-110cm-3d-printed-chimney-to-passively-cool-ryzen-7-9800x3d-without-fans-radically-simple-pc-mod-cuts-down-cpu-temps-by-19-c-using-the-stack-effect",
     "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.556126",
-    "insight": "Preserving gaming history through collaborative compression efforts matters to the community."
+    "processed_date": "2026-07-31T11:11:06.962019",
+    "insight": "Natural convection can be as effective as mechanical cooling."
   },
   {
-    "title": "Firm that uses AI to locate ancient lost shipwrecks is hiring a literal pirate to salvage sunken treasure, paying up to $500,000 a year AI mines 500 years of Spanish colonial records spanning 80 million pages to find undiscovered wrecks and lost cargo",
-    "summary": "AI firm hires a real-life pirate to salvage sunken treasure, offering up to $500,000 a year. The firm uses AI to analyze Spanish colonial records and locate undiscovered wrecks. The job requires nautical and diving experience.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo",
+    "title": "Qualcomm-powered robot collapses spectacularly on stage during company's keynote prepared stagehands rush to cloak and then carry off stricken humanoid",
+    "summary": "A Qualcomm exec's demo at Computex 2026 ended in disaster as a humanoid robot collapsed on stage, with prepared stagehands rushing to cloak and then carry off the stricken robot. The incident occurred during the company's keynote presentation. The robot's malfunction has sparked concerns about the reliability of emerging technologies.",
+    "link": "https://www.tomshardware.com/tech-industry/robotics/qualcomm-powered-robot-collapses-spectacularly-on-stage-during-presentation-prepared-stagehands-rush-to-cloak-and-then-carry-off-stricken-humanoid",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.962092",
+    "insight": "Qualcomm's demo disaster highlights the risks of emerging tech demos."
+  },
+  {
+    "title": "Keyboard giant Keychron launches Nape Pro wireless trackball mouse rectangular form factor designed to sit under spacebar gives users six customizable buttons and a control dial",
+    "summary": "Keychron's Nape Pro wireless trackball mouse offers six customizable buttons and a control dial, allowing users to place it anywhere, including under their spacebar, for seamless navigation without removing their hands from the keyboard.",
+    "link": "https://www.tomshardware.com/peripherals/mice/keyboard-giant-keychron-launches-nape-pro-wireless-trackball-mouse-rectangular-form-factor-designed-to-sit-under-spacebar-gives-users-six-customizable-buttons-and-a-control-dial",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.962187",
+    "insight": "Streamlined workflow boosts productivity with hands always on keyboard."
+  },
+  {
+    "title": "If You Own a 3D Printer, You Absolutely Need to Try Hi3D",
+    "summary": "Hi3D simplifies the 3D printing process by automating tedious slicing tasks with AI. With just one click, users can optimize prints and save time. This innovative tool streamlines the printing workflow, making it more efficient and accessible.",
+    "link": "https://www.tomshardware.com/3d-printing/if-you-own-a-3d-printer-you-absolutely-need-to-try-hi3d",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-30T10:50:06.556252",
-    "insight": "AI-powered treasure hunting unlocks potential for unprecedented historical discoveries"
+    "quality_score": 0,
+    "processed_date": "2026-07-31T11:11:06.962238",
+    "insight": "AI-powered 3D printing automation saves time and boosts efficiency immediately."
   },
   {
-    "title": "Pennsylvania town lists 43 specific demands to approve new AI data center project developer calls local demands 'too difficult' as council slams response as 'approval by tantrum'",
-    "summary": "A Pennsylvania township listed 43 demands for a data center developer, which the developer deemed 'too difficult'. The developer retracted their initial application and submitted a second one, challenging the township's regulations. The council responded with frustration, calling the situation 'approval by tantrum'.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/pennsylvania-town-lists-43-specific-demands-to-approve-new-data-center-project-developer-calls-local-demands-too-difficult-as-council-slams-response-as-approval-by-tantrum",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.556376",
-    "insight": "Town regulations must be clear and reasonable for development to proceed smoothly."
-  },
-  {
-    "title": "Microsoft says physical discs should not have stopped working during the Xbox outage clarifies issue with entitlement checks that failed to read licenses correctly, update on the way",
-    "summary": "Microsoft confirmed that Xbox discs should've worked offline during the outage, due to an issue with entitlement checks that failed to load licenses correctly.",
-    "link": "https://www.tomshardware.com/video-games/xbox/microsoft-says-physical-discs-should-not-have-stopped-working-during-the-xbox-outage-clarifies-issue-with-entitlement-checks-that-failed-to-read-licenses-correctly-update-on-the-way",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.556518",
-    "insight": "Entitlement check failure caused Xbox disc functionality to break unexpectedly."
-  },
-  {
-    "title": "Seagate to start qualifying record-setting 50TB HDDs in 2027 most drives are sold out through 2028",
-    "summary": "Seagate expects to start qualifying 50TB HAMR hard drives in late 2027, with shipments in 2028. Most drives are sold out through 2028 due to AI-driven storage demand. This will meet growing storage needs.",
-    "link": "https://www.tomshardware.com/pc-components/hdds/seagate-to-start-qualifying-record-setting-50tb-hdds-in-2027-most-drives-are-sold-out-through-2028",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.556631",
-    "insight": "AI-driven storage demand drives 50TB HDD production to sell out"
-  },
-  {
-    "title": "Nvidia employee implicated in escalating AI GPU smuggling scandal, but demand only intensifies for Nvidia hardware",
-    "summary": "An Nvidia employee is detained for forgery and breach of trust, as the company investigates AI GPU smuggling. The employee's home and desk were searched as part of the investigation. Nvidia is collapsing its buyer list to root out potential smuggling chains.",
-    "link": "https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.556751",
-    "insight": "Escalating scandal fuels demand for Nvidia hardware despite smuggling concerns"
-  },
-  {
-    "title": "An inside tour of Lenovo s North Carolina AI server manufacturing line expansion Chinese firm expanding US-native production to meet exploding demand",
-    "summary": "Lenovo expands its North Carolina AI server manufacturing line to meet growing demand for domestically produced servers, driving domestic production to fuel the AI boom.",
-    "link": "https://www.tomshardware.com/laptops/an-inside-tour-of-lenovos-north-carolina-ai-server-manufacturing-line-expansion-chinese-firm-expanding-us-native-production-to-meet-exploding-demand",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.556878",
-    "insight": "Boosting domestic AI server production meets exploding demand sustainably."
-  },
-  {
-    "title": "GPU repair service will upgrade the 11GB of VRAM on your RTX 2080 Ti to 22GB mod involves physically adjusting the strap resistors on the PCB to support a new BIOS",
-    "summary": "A UAE GPU repair shop claims to upgrade an RTX 2080 Ti's VRAM from 11GB to 22GB by replacing 1GB GDDR6 modules with 2GB chips and modifying strap resistors.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/gpu-repair-service-will-upgrade-the-11gb-of-vram-on-your-rtx-2080-ti-to-22gb-mod-involves-physically-adjusting-the-strap-resistors-on-the-pcb-to-support-a-new-bios",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.556995",
-    "insight": "Potential to unlock significant VRAM capacity for demanding gaming and graphics tasks."
-  },
-  {
-    "title": "Testing laptops on battery and AC power Comparing Intel, Qualcomm, Apple, and AMD",
-    "summary": "We compared the performance of laptops with Intel, AMD, Qualcomm, and Apple processors on battery and AC power, revealing key differences in energy efficiency and performance.",
-    "link": "https://www.tomshardware.com/laptops/testing-laptops-on-battery-life-and-ac-power-comparing-intel-qualcomm-apple-and-amd",
+    "title": "Ambitious gamer turns fanless Subway menu PCs into gaming rigs passive Intel Core i3 units manage just 15 fps in GTA V and 25 fps in Minecraft",
+    "summary": "A TechTuber repurposed Subway's digital signage mini PCs for gaming, achieving subpar results.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/ambitious-gamer-turns-three-old-subway-menu-signage-pcs-to-gaming-puny-intel-core-i3-machines-can-only-muster-15-fps-running-gta-5-25-fps-on-minecraft",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.557099",
-    "insight": "Chip design significantly impacts laptop battery life and performance"
+    "processed_date": "2026-07-31T11:11:06.962305",
+    "insight": "Fanless PCs struggle with demanding games despite Intel Core i3 performance."
   },
   {
-    "title": "Teacher arrested for clapping in support of opposition at an AI data center meeting gigawatt-scale project gets approved anyway despite community resistance",
-    "summary": "A physics teacher was arrested for clapping in support of opposition at a public hearing. The incident occurred during a discussion to rezone land for a gigawatt-scale data center project near Emporia, Kansas. The project was approved despite community resistance.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/teacher-arrested-for-clapping-in-support-of-opposition-at-an-ai-data-center-meeting-gigawatt-scale-project-gets-approved-anyway-despite-community-resistance",
+    "title": "Startup plans to put nuclear-powered data centers in the sea modular units could be much faster to deploy, but questions about reliability and longevity remain",
+    "summary": "Atomarine plans to deploy modular nuclear-powered data centers in the ocean. These barges will initially use LNG, transitioning to SMR power when available. This approach aims to accelerate data center deployments.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/startup-plans-to-put-nuclear-powered-data-centers-in-the-sea-modular-units-could-be-much-faster-to-deploy-but-questions-about-reliability-and-longevity-remain",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.557217",
-    "insight": "Freedom of expression is increasingly restricted in public discourse"
-  },
-  {
-    "title": "MSI Cubi NUC AI+ 3MG review: Panther Lake in an understated mini PC",
-    "summary": "MSI Cubi NUC AI+ 3MG is a compact mini PC with Intel Core Ultra 9 386H, easy to upgrade, and relatively quiet but with limited ports.",
-    "link": "https://www.tomshardware.com/desktops/mini-pcs/msi-cubi-nuc-ai-3mg-review",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-30T10:50:06.557325",
-    "insight": "Efficient performance in a tiny package requires strategic port placement."
-  },
-  {
-    "title": "How to buy second-hand PC hardware without getting scammed essential rules of engagement for finding used parts and machines in an inflated market",
-    "summary": "Buying second-hand PC hardware requires caution to avoid scams and inflated prices. Research and inspect the seller and the item thoroughly before making a purchase. Verify the item's condition and authenticity to ensure a smooth transaction.",
-    "link": "https://www.tomshardware.com/pc-components/how-to-buy-second-hand-pc-hardware-without-getting-scammed-essential-rules-of-engagement-for-finding-used-parts-and-machines-in-an-inflated-market",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.557433",
-    "insight": "Second-hand PC buying involves high risks, low rewards without careful research"
-  },
-  {
-    "title": "Memory maker SK hynix's profit rises 557% amid global shortage, expansion costs climb to $27 billion shares slide despite mammoth earnings as expectations outpace reality and global AI selloffs continue",
-    "summary": "SK hynix reports 557% surge in operating profit to 60.54 trillion won, with revenue reaching 79.32 trillion won in the second quarter. This significant increase is attributed to the global shortage and rising demand for memory chips. Despite this, the company's share price declined due to high expansion costs and market expectations.",
-    "link": "https://www.tomshardware.com/tech-industry/sk-hynix-operating-profit-rises-557-percent",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.557558",
-    "insight": "Memory demand boom drives SK hynix's massive profit growth."
-  },
-  {
-    "title": "Three US states to deploy 60mph drones armed with pepper spray to neutralize school shooters Campus Guardian Angel drones can also smash windows and ram attackers",
-    "summary": "US schools are deploying armed drones to neutralize potential shooters. The Campus Guardian Angel drones can reach 60mph and deploy pepper spray. They can also smash windows and ram attackers to intervene.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/three-us-states-to-deploy-60mph-drones-armed-with-pepper-spray-to-neutralize-school-shooters-campus-guardian-angel-drones-can-also-smash-windows-and-ram-attackers",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.557671",
-    "insight": "Rapid response drones could save lives in active school shooter situations"
-  },
-  {
-    "title": "How to look better on webcam tips for the average person to look better and more professional",
-    "summary": "To look better and more professional on webcam, focus on good lighting, a clear background, and a confident expression. Adjusting your webcam settings and dressing appropriately can also make a significant difference. With these tips, you can present yourself more effectively in video calls, online meetings, and social media appearances.",
-    "link": "https://www.tomshardware.com/peripherals/webcams/how-to-look-better-on-webcam-tips-for-the-average-person-to-look-better-and-more-professional",
-    "categories": [
+      "AI & ML",
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-07-30T10:50:06.557766",
-    "insight": "First impressions matter in the digital age, where appearance is everything"
-  },
-  {
-    "title": "NightRun UEFI application boots a local LLM on Raspberry Pi 5 and x86 PCs without an OS",
-    "summary": "NightRun is an open-source project that boots a machine directly into a local LLM from a USB drive or microSD card without loading a conventional OS, freeing up system resources for AI inference. This experimental runtime is written in Rust and supports 64-bit x86_64 UEFI PCs and Raspberry Pi 5. It loads a quantized model into RAM and seals storage to prevent later access.",
-    "link": "https://www.cnx-software.com/2026/07/30/nightrun-uefi-application-boots-a-local-llm-on-raspberry-pi-5-and-x86-pcs-without-an-os/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.558256",
-    "insight": "Private AI processing and data storage through direct booting of LLMs."
+    "processed_date": "2026-07-31T11:11:06.962373",
+    "insight": "Modular ocean-based data centers could revolutionize deployment timelines."
   },
   {
-    "title": "Luxonis M8 Controller Box adds industrial I/Os, CAN Bus, and relay control to OAK4 AI vision cameras",
-    "summary": "Luxonis M8 Controller Box expands industrial I/O capabilities for OAK4 AI vision cameras, enabling direct connection to sensors, actuators, and industrial equipment.",
-    "link": "https://www.cnx-software.com/2026/07/30/luxonis-m8-controller-box-adds-industrial-i-os-can-bus-and-relay-control-to-oak4-ai-vision-cameras/",
+    "title": "Windows NT 4.0 brought the Win95 UI to servers 30 years ago today milestone unifying modern Windows OS hit RTM in the Pentium era",
+    "summary": "Windows NT 4.0 was released to manufacturing partners in 1996, marking the introduction of the Windows 95 user interface to servers.",
+    "link": "https://www.tomshardware.com/software/windows/windows-nt-4-0-brought-the-win95-ui-to-servers-30-years-ago-today-milestone-unifying-modern-windows-os-hit-rtm-in-the-pentium-era",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-30T10:50:06.558433",
-    "insight": "Industrial-grade expansion for AI vision cameras accelerates automation applications."
+    "processed_date": "2026-07-31T11:11:06.962430",
+    "insight": "Unified Windows experience across desktops and servers."
   },
   {
-    "title": "Credit card-sized Edge AI single board computers are powered by TI AM62A (2 TOPS) or AM68A (8 TOPS) SoC",
-    "summary": "InHand Mo 62A and Mo 68A are credit card-sized Edge AI SBCs powered by Texas Instruments processors, delivering 2 TOPS and 8 TOPS of AI performance for AI Vision applications.",
-    "link": "https://www.cnx-software.com/2026/07/30/credit-card-sized-edge-ai-sbc-texas-instruments-am62a-2-tops-am68a-8-tops-soc/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-30T10:50:06.558631",
-    "insight": "Compact Edge AI computing for industrial automation and IoT applications."
-  },
-  {
-    "title": "NXP RW610FML Wi-Fi 6 and BLE 5.4 module features RW610 Cortex-M33 wireless MCU",
-    "summary": "NXP introduced the RW610FML, a compact Wi-Fi 6 and BLE 5.4 module based on the RW610 Cortex-M33 MCU, suitable for various IoT applications.",
-    "link": "https://www.cnx-software.com/2026/07/29/nxp-rw610fml-wi-fi-6-and-ble-5-4-module-features-rw610-cortex-m33-wireless-mcu/",
+    "title": "Shanghai Aishengna named as the maker of China's first domestic immersion DUV chipmaking tools first viable domestic 7nm-capable scanner to be completed by 2038",
+    "summary": "Aishengna is reportedly developing China's first domestic immersion DUV chipmaking tools, including a viable 7nm-capable scanner, expected to be completed by 2038.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/shanghai-aishengna-named-as-the-maker-of-chinas-first-domestic-immersion-duv-scanners",
     "categories": [
       "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-30T10:50:06.558803",
-    "insight": "Enhanced wireless connectivity for IoT devices with Wi-Fi 6 and BLE 5.4 support."
-  },
-  {
-    "title": "Startup sells AI sensing robots for smart warehouses",
-    "summary": "Rainbow Dynamics, a startup, is selling AI sensing robots to smart warehouses. The company has secured four large customers and remains unaffected by recent sanctions on humanoids from China. Its technology is gaining traction in the industry.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/startup-rainbow-dynamics-sells-ai-sensing-robots-warehouse-productivity",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-07-30T10:50:06.559788",
-    "insight": "AI-powered warehouse automation boosts efficiency and reduces labor costs"
-  },
-  {
-    "title": "Microsoft still doesn't know why the Xbox outage stopped some physical games from working",
-    "summary": "Xbox network outage prevented users from launching purchased games and disc-based titles.",
-    "link": "https://www.techspot.com/news/113291-microsoft-doesnt-know-why-xbox-outage-stopped-physical.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.560184",
-    "insight": "Outage highlights vulnerabilities in modern gaming ecosystems."
-  },
-  {
-    "title": "Hugging Face's CEO isn't suing OpenAI over the AI hack, he wants $100 million in compute instead",
-    "summary": "Hugging Face's CEO seeks $100 million in compute, not a lawsuit, from OpenAI.",
-    "link": "https://www.techspot.com/news/113280-hugging-face-ceo-isnt-suing-openai-over-ai.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-30T10:50:06.560305",
-    "insight": "Radical transparency demanded to strengthen AI security and research community trust."
-  },
-  {
-    "title": "These fake download websites look real and rank high on Google, until they swap the links for malware",
-    "summary": "The developer, who goes by the handle Bogdan_X, told Windows Latest that his research began after he spotted a fake website mimicking the official Wintoys page. Tracing the site's registration led him to 72 fraudulent websites built on the same playbook, several of which use URLs deliberately close to the... Read Entire Article",
-    "link": "https://www.techspot.com/news/113274-fake-download-websites-look-real-rank-high-google.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-30T10:50:06.560420"
-  },
-  {
-    "title": "The Neo Geo AES is coming back, right down to real cartridge support",
-    "summary": "The Neo Geo AES platform is revived with real cartridge support. Plaion and SNK have made the premium retro-gaming console available for pre-order. Multiple variants and accessories are available for purchase.",
-    "link": "https://www.techspot.com/news/113287-neo-geo-aes-coming-back-right-down-real.html",
-    "categories": [
-      "Tech News",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-07-30T10:50:06.560588",
-    "insight": "Retro gaming fans can experience original cartridge-based gameplay again"
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.962494",
+    "insight": "Advancing domestic chip production boosts China's tech self-sufficiency"
   },
   {
-    "title": "Telegram literally gives Russia the middle finger after founder Pavel Durov is charged with aiding terrorism",
-    "summary": "Telegram founder Pavel Durov is charged with aiding terrorism in Russia. The FSB alleges Telegram was used for sabotage and attacks. The charges follow a terrorism-related investigation.",
-    "link": "https://www.techspot.com/news/113285-telegram-literally-gives-russia-middle-finger-after-founder.html",
+    "title": "Amazon accidentally spent $1.8 million using Claude for menial coding task, went 860% over budget 'catastrophically expensive' coding blunders discovered in internal Amazon AI usage metrics",
+    "summary": "Amazon spent $1.8 million on a failed AI deployment with undetected issues for months, exceeding budget by 860%.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.560707",
-    "insight": "Russian government targets encrypted messaging services for security and control leverage"
+    "processed_date": "2026-07-31T11:11:06.962561",
+    "insight": "Undetected AI errors can lead to catastrophic and unaccounted expenses"
   },
   {
-    "title": "The US just banned Chinese humanoid robots and power inverters over security fears",
-    "summary": "The US has banned Chinese humanoid robots and power inverters over security concerns, citing potential supply chain vulnerabilities and cybersecurity risks to critical infrastructure.",
-    "link": "https://www.techspot.com/news/113279-us-banned-chinese-humanoid-robots-power-inverters-over.html",
+    "title": "PSA: Your watch band may be messing with your laptop magnetic clasps can cause lid sensors to lock your PC",
+    "summary": "A laptop's magnetic lid sensor can be triggered by external magnets, such as those found in watch bands, causing the laptop to think the lid is being opened and closed. This can lead to repeated logouts and typing issues. It's essential to keep your laptop's surroundings magnet-free to avoid this issue.",
+    "link": "https://www.tomshardware.com/laptops/psa-your-watch-band-may-be-messing-with-your-laptop-magnetic-clasps-can-cause-lid-sensors-to-lock-your-pc",
     "categories": [
-      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.560832",
-    "insight": "China-made devices pose significant national security and economic risks."
+    "processed_date": "2026-07-31T11:11:06.962623",
+    "insight": "Magnetic watch bands can trigger laptop lid sensors unexpectedly."
   },
   {
-    "title": "Samsung's passport-style Galaxy Z Fold 8 design is winning over reviewers",
-    "summary": "The Galaxy Z Fold 8 boasts a passport-style design, making it easier to use one-handed and watch videos.",
-    "link": "https://www.techspot.com/products/smartphones/samsung-galaxy-z-fold-8.329633/",
+    "title": "Exploring Apple Silicon s local AI performance with the Mac Studio and M4 Max M4 Max beats GB10 and Strix Halo in decode throughput, but memory bandwidth isn't everything",
+    "summary": "Apple Silicon's M4 Max Mac Studio outperforms rivals in local AI inference, but memory bandwidth isn't the sole determining factor.",
+    "link": "https://www.tomshardware.com/desktops/exploring-apple-silicons-local-ai-performance-with-the-mac-studio-and-m4-max-m4-max-beats-gb10-and-strix-halo-in-decode-throughput-but-memory-bandwidth-isnt-everything",
     "categories": [
       "AI & ML",
-      "Hardware"
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-07-30T10:50:06.560944",
-    "insight": "Revolutionizing foldable phone design for improved usability and functionality."
+    "processed_date": "2026-07-31T11:11:06.962693",
+    "insight": "Memory bandwidth is just one aspect of local AI performance optimization."
   },
   {
-    "title": "GrapheneOS says its data-wiping \"duress\" password is perfectly legal, after user faces federal charges",
-    "summary": "GrapheneOS Foundation defends its open-source OS as legal under US law, claiming no involvement in unlawful practices. The operating system at the center of the controversy is used for data-wiping and encryption purposes. A user, Sam Tunick, faced federal charges related to the OS.",
-    "link": "https://www.techspot.com/news/113273-grapheneos-data-wiping-duress-password-perfectly-legal-after.html",
+    "title": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims could push the company to use Intel Foundry to meet its goals",
+    "summary": "Google plans to produce more TPU AI accelerators than Nvidia in 2028, according to Fubon Research. This could push Google to utilize Intel Foundry services to meet its goals.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals",
     "categories": [
-      "AI & ML",
+      "GPUs",
       "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.561065",
-    "insight": "Open-source encryption platform sparks debate over data security and government regulations"
-  },
-  {
-    "title": "Logitech to ship mice with replaceable batteries in Europe only, following Nintendo",
-    "summary": "Logitech is launching mice with replaceable batteries in Europe only, following Nintendo's lead.",
-    "link": "https://www.techspot.com/news/113278-logitech-ship-mice-replaceable-batteries-europe-only-following.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.561177",
-    "insight": "Compliance with regulations drives industry decisions on recyclable designs."
-  },
-  {
-    "title": "EU will require companies to label AI-generated content starting Sunday",
-    "summary": "The EU will require companies to label AI-generated content starting Sunday, under the broader artificial intelligence law.",
-    "link": "https://www.techspot.com/news/113284-eu-require-companies-label-ai-generated-content-starting.html",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-07-30T10:50:06.561291",
-    "insight": "Transparency in AI-generated content promotes consumer trust and informed decision-making."
+    "processed_date": "2026-07-31T11:11:06.962753",
+    "insight": "Google's TPU production could lead to Intel Foundry partnership opportunity."
   },
   {
-    "title": "Framework Laptop 13 Pro reviews: Premium modular computing comes at a cost",
-    "summary": "The Framework Laptop 13 Pro has received positive reviews for its premium design, performance, and upgradability, but its high price is a drawback.",
-    "link": "https://www.techspot.com/products/laptops/framework-laptop-13-pro.330231/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-07-30T10:50:06.561413",
-    "insight": "Upgradeability offers value for power users who invest in premium hardware."
-  },
-  {
-    "title": "AI firms are quietly buying and destroying millions of printed books to train their models",
-    "summary": "AI firms are buying and destroying millions of printed books to train their models, citing their cleaner data.",
-    "link": "https://www.techspot.com/news/113277-ai-firms-quietly-buying-destroying-millions-printed-books.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-30T10:50:06.561567",
-    "insight": "Old books provide valuable, structured knowledge for AI training purposes."
-  },
-  {
-    "title": "United and Delta are banning humanoid robots from flights",
-    "summary": "United and Delta ban humanoid robots from flights due to safety concerns. These robots are defined as artificial intelligence-driven machines mimicking human appearance and behavior. The ban applies to both humanoid and animal-like robots.",
-    "link": "https://www.techspot.com/news/113283-united-delta-join-growing-airline-ban-humanoid-animal.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.561688",
-    "insight": "Safety concerns surrounding humanoid robots on commercial flights arise"
-  },
-  {
-    "title": "Apple Upgrade now lets you lease iPhones, iPads, Macs, and Watches, starting at $18/month",
-    "summary": "Apple Upgrade is a leasing program offered in partnership with Klarna, allowing consumers to lease iPhones, iPads, Macs, and Watches starting at $18/month. The program replaces the iPhone Upgrade Program and provides interest-free credit. It's a financing option for Apple devices.",
-    "link": "https://www.techspot.com/news/113271-apple-upgrade-now-you-lease-iphones-ipads-macs.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-07-30T10:50:06.561817",
-    "insight": "Flexible, affordable device ownership through interest-free leasing options"
-  },
-  {
-    "title": "Elon Musk's xAI sues Minnesota over law banning nudify apps",
-    "summary": "Elon Musk's xAI sues Minnesota over law banning nudify apps. The law, effective this Saturday, fines $50,000 for non-consensual sexualized imagery creation. This law aims to curb online harassment.",
-    "link": "https://www.techspot.com/news/113282-elon-musk-xai-sues-minnesota-over-law-banning.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.561925",
-    "insight": "Protecting users from non-consensual sexualized imagery is a growing concern worldwide."
-  },
-  {
-    "title": "4GB GPUs might return with AMD's Radeon RX 9050",
-    "summary": "The AMD Radeon RX 9050 has appeared on AMD's website with 8GB GDDR6 VRAM. ASRock is the first partner to confirm its availability. A possible 4GB model of the card has also been hinted at.",
-    "link": "https://www.techspot.com/news/113276-4gb-gpus-might-return-amd-radeon-rx-9050.html",
+    "title": "Nvidia's fastest graphics cards get US price increase at Best Buy, Amazon Astral RTX 5080 now costs more than 5090's MSRP, flagship card now commands more than $4,300",
+    "summary": "Nvidia GeForce RTX 5080 and RTX 5090 graphics cards are selling above MSRP, with some models reaching near $5,000. This price surge affects Asus and MSI models. The premium cards are now commanding high prices.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-fastest-graphics-cards-get-us-price-increase-at-best-buy-amazon-astral-rtx-5080-now-costs-more-than-5090s-msrp-flagship-card-now-commands-more-than-usd4-300",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-07-30T10:50:06.562038",
-    "insight": "Potential return of budget-friendly 4GB GPUs in the market"
+    "processed_date": "2026-07-31T11:11:06.962813",
+    "insight": "Supply and demand imbalance drives Nvidia graphics card price inflation"
+  },
+  {
+    "title": "Examining the best options for PCIe SSDs during the RAMpocalypse capacity trumps raw speed for most tasks",
+    "summary": "PCIe SSDs offer high speeds but capacity matters for gaming, where large files are stored.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/examining-the-best-options-for-pcie-ssds-during-the-rampocalypse-capacity-trumps-raw-speed-for-most-tasks",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.962869",
+    "insight": "Capacity trumps raw speed for most gaming tasks and applications"
+  },
+  {
+    "title": "Intel licenses Atom-class x86 cores to startup firm reportedly sharing RTL, enabling customer to build its own custom processors based on x86 general-purpose cores",
+    "summary": "Intel licenses Atom-class x86 cores to a startup firm. The startup, incorporated in May, will enable customers to build custom processors based on x86 general-purpose cores. This partnership allows for the creation of customized x86 processors.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-licenses-atom-class-x86-cores-to-startup-firm-reportedly-sharing-rtl-enabling-customer-to-build-its-own-custom-processors-based-on-x86-general-purpose-cores",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.962929",
+    "insight": "Intel's licensing enables customer-led design of x86-based custom processors"
+  },
+  {
+    "title": "Foreign-made robot vacuums caught up in FCC robot ban covers any ground robot over 4.4 pounds with a 200 kbps connection",
+    "summary": "The FCC has expanded its Covered List to include foreign-made robot vacuums that exceed 4.4 pounds and have a 200 kbps connection. This move affects any ground robot that meets these specifications, regardless of its origin. The list now includes advanced robotic devices and connected power inverters.",
+    "link": "https://www.tomshardware.com/tech-industry/fcc-robot-ban-covers-any-ground-robot-over-4-4-pounds-with-a-200-kbps-connection",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.962983",
+    "insight": "Foreign robot vacuums above 4.4 pounds face potential FCC regulatory hurdles."
+  },
+  {
+    "title": "Why you need a macro pad, even if you have a mouse with 19 buttons from $10 mechanical numpads to multi-screen window management",
+    "summary": "A standalone macro pad enhances productivity beyond mouse button overload, offering customizable shortcuts for any user. Whether you're managing multiple screens, handling repetitive tasks, or streamlining workflows, a macro pad provides an intuitive way to simplify complex actions. From simple keystroke combinations to complex macros, a macro pad is a versatile tool for anyone looking to boost efficiency.",
+    "link": "https://www.tomshardware.com/peripherals/why-you-need-a-macro-pad-even-if-you-have-a-mouse-with-19-buttons-from-usd10-mechanical-numpads-to-multi-screen-window-management",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.963038",
+    "insight": "Streamline complex tasks with simple, customizable keystroke combinations."
+  },
+  {
+    "title": "A Mac Mini server is running headless in my closet it manages my photo library and handles my backups",
+    "summary": "I set up a refurbished Mac Mini as a headless server to manage my family's photo library and handle backups, running it silently in my closet.",
+    "link": "https://www.tomshardware.com/desktops/mini-pcs/a-mac-mini-server-is-running-headless-in-my-closet-it-manages-my-photo-library-and-handles-my-backups",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.963094",
+    "insight": "Centralized data management enhances data security and organization efficiently."
+  },
+  {
+    "title": "Shipping container-launched cargo rocket promises 550-pound deliveries 750 km away in 15 minutes $1.25M Air Force contract backs 'Rook' cargo rocket that flies into space to speed deliveries",
+    "summary": "The Rook cargo rocket launched from shipping containers can deliver 550 pounds of cargo 750 km in 15 minutes. A minimum-energy ballistic arc is used, requiring a speed of approximately 2.64 km/s at burnout. The rocket is backed by a $1.25M Air Force contract.",
+    "link": "https://www.tomshardware.com/tech-industry/container-launched-cargo-rocket-promises-250-kg-deliveries-750-km-away-in-15-minutes",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-31T11:11:06.963152",
+    "insight": "Revolutionizing rapid global logistics with high-speed space transportation"
+  },
+  {
+    "title": "$21 Nintendo Wii U upgrade lets you add TBs of storage to your console with an M.2 or SATA SSD upgrade makes console slightly faster, but requires Homebrew and custom firmware",
+    "summary": "Upgrade your Wii U to over 1TB of storage with an M.2 or SATA SSD. This requires installing the Aroma custom firmware on your console for compatibility. The upgrade also slightly boosts console performance.",
+    "link": "https://www.tomshardware.com/video-games/nintendo/usd21-nintendo-wii-u-upgrade-lets-you-add-tbs-of-storage-to-your-console-with-an-m-2-or-sata-ssd-upgrade-makes-console-slightly-faster-but-requires-homebrew-and-custom-firmware",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.963230",
+    "insight": "Unlocked storage capacity transforms console usability and gaming experience."
+  },
+  {
+    "title": "Are your motherboard's M.2 heatsinks making good contact with your SSD? We tested 20 modern Intel and AMD motherboards to verify",
+    "summary": "We tested 20 modern motherboards for M.2 contact and found inconsistent results. Some motherboards did not make proper contact with SSDs, which can lead to overheating and reduced performance. This suggests a need for closer inspection during PC builds.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/are-your-motherboards-m-2-heatsinks-making-good-contact-with-your-ssd-we-tested-20-modern-intel-and-amd-motherboards-to-verify",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.963291",
+    "insight": "Proper M.2 contact ensures optimal SSD performance and lifespan."
+  },
+  {
+    "title": "Legendary Windows developer codes Task Manager for the Mac, says Apple s Activity Monitor blows Microsoft gave original Windows Task Manager dev permission to reference Windows XP source code",
+    "summary": "Legendary Windows developer Dave W. Plummer created a Mac version of Task Manager, showing it can be done. Plummer had permission to reference Windows XP source code.",
+    "link": "https://www.tomshardware.com/software/operating-systems/legendary-windows-developer-codes-task-manager-for-the-mac-says-he-was-inspired-by-the-fact-that-apples-activity-monitor-blows",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.963381",
+    "insight": "Task Manager is Windows-agnostic, not a platform tied to Microsoft."
+  },
+  {
+    "title": "NanoPi R28S A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port",
+    "summary": "The NanoPi R28S is a tiny, Rockchip RK3528A-powered router with dual Gigabit Ethernet and USB-C console port, designed for networking and IoT applications.",
+    "link": "https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-31T11:11:06.963677",
+    "insight": "First SBC with USB-C console port from FriendlyELEC"
+  },
+  {
+    "title": "reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far)",
+    "summary": "The reTerminal Sticky is a 3.97-inch AI-powered touch ePaper display with ESP32-S3, featuring AI voice-to-note, sensors, and easy mounting via a built-in magnet.",
+    "link": "https://www.cnx-software.com/2026/07/31/reterminal-sticky-3-97-inch-magnetic-touch-epaper-display-is-supported-by-four-open-source-firmware-projects/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-31T11:11:06.963797",
+    "insight": "Open-source firmware projects boost accessibility and customizability of reTerminal Sticky."
+  },
+  {
+    "title": "Maker Go ESP32-C5-EVB board features RS-485 interface, four relays, four opto-isolated inputs",
+    "summary": "The Maker Go ESP32-C5-EVB board features an ESP32-C5 module with four relays, four opto-isolated inputs, and RS-485 communication, supporting Wi-Fi 6, Bluetooth Low Energy 5.0, and Thread/Zigbee connectivity.",
+    "link": "https://www.cnx-software.com/2026/07/31/maker-go-esp32-c5-evb-board-features-rs-485-interface-four-relays-four-opto-isolated-inputs/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-07-31T11:11:06.963910",
+    "insight": "Industrial automation and IoT applications get a versatile ESP32-C5 module"
+  },
+  {
+    "title": "ESP-KVM An open-source IP KVM solution based on ESP32-P4 RISC-V MCU",
+    "summary": "ESP-KVM is an open-source IP KVM solution for the ESP32-P4 RISC-V MCU. It supports video capture, keyboard and pointer input, and multiple viewers. Developed as a fork of the P4 KVM project, ESP-KVM offers improved features and security.",
+    "link": "https://www.cnx-software.com/2026/07/30/esp-kvm-an-open-source-ip-kvm-solution-based-on-esp32-p4-risc-v-mcu/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.964022",
+    "insight": "Secure remote access solution for IoT devices and embedded systems"
+  },
+  {
+    "title": "FCC ban on new robot imports hits Toborlife AI amid China debate",
+    "summary": "Toborlife AI faces challenges after FCC ban on new robot imports from China, prompting plans to manufacture robot hardware in the US. The ban affects imports from Unitree, a Chinese company. Toborlife aims to shift production to the US.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/fcc-ban-new-robot-imports-hits-toborlife-ai-amid-china-debate",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-31T11:11:06.964725",
+    "insight": "US-China trade tensions impact US AI companies' global supply chains."
+  },
+  {
+    "title": "Volvo drops lidar on its EX90 and ES90 cars after Luminar liquidation",
+    "summary": "Volvo is dropping lidar on its EX90 and ES90 cars after Luminar's liquidation. Customers with non-functional bump hardware on the roof will be compensated. This change affects Volvo's autonomous driving capabilities.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/volvo-drops-lidar-its-ex90-and-es90-cars-after-luminar-liquidation",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-07-31T11:11:06.964791",
+    "insight": "Luminar's demise hinders Volvo's autonomous driving technology advancements"
+  },
+  {
+    "title": "Best of Sensors: Aizip wins startup of the year",
+    "summary": "Aizip won Startup of the Year at Best of Sensors. The company's edge AI technology provides advantages. Weier Wan shares insights as CTO and co-founder.",
+    "link": "https://www.fiercesensors.com/embedded/best-sensors-aizip-wins-startup-year",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.964993",
+    "insight": "Edge AI enables real-time processing and localized decision-making."
+  },
+  {
+    "title": "Meta is bragging about how its AI keeps people on Instagram, while facing lawsuits over addiction",
+    "summary": "Meta claims its AI-driven Reels update boosts Instagram sessions and engagement.",
+    "link": "https://www.techspot.com/news/113295-meta-bragging-about-how-ai-keeps-people-instagram.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.965123",
+    "insight": "Meta's AI prioritizes content engagement over users' well-being concerns."
+  },
+  {
+    "title": "Seagate aims to launch 50TB HAMR hard drives in 2027",
+    "summary": "Seagate aims to launch 50TB hard drives in 2027 with 5TB+ platters.",
+    "link": "https://www.techspot.com/news/113301-seagate-looking-launch-50tb-hamr-hard-disk-drives.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.965220",
+    "insight": "Massive storage capacity boosts data storage and processing capabilities."
+  },
+  {
+    "title": "Perplexity brings its Personal Computer AI agent to Windows",
+    "summary": "Perplexity's Personal Computer AI agent is now available on Windows, allowing users to automate tasks, create documents, and streamline workflows across local files, apps, Microsoft 365, and the web.",
+    "link": "https://www.techspot.com/downloads/7647-perplexity-ai.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.965303",
+    "insight": "Enhanced productivity for businesses and individuals through AI automation capabilities."
+  },
+  {
+    "title": "Online fraud is a $150 billion nightmare for Americans, but most crimes go unreported",
+    "summary": "US internet users reported $20.9 billion in online scam losses in 2025, up 25% year over year. This represents a fraction of the broader issue, with actual losses likely much higher. Online fraud is a significant concern for Americans.",
+    "link": "https://www.techspot.com/news/113297-online-fraud-150-billion-nightmare-americans-but-most.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.965381",
+    "insight": "Most online fraud goes unreported, hiding true extent of the problem."
+  },
+  {
+    "title": "Dust off those Nintendo 64 cartridges: M64 brings classic games back to your TV",
+    "summary": "The M64 is an FPGA-based console that plays original Nintendo 64 games on modern displays in up to 4K resolution. Co-founded by Palmer Luckey, ModRetro's latest creation aims to bring classic games back to life. It is designed to provide a seamless gaming experience for retro enthusiasts.",
+    "link": "https://www.techspot.com/news/113299-dust-off-nintendo-64-cartridges-m64-brings-classic.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.965468",
+    "insight": "Reviving classic gaming experiences on modern high-definition displays matters."
+  },
+  {
+    "title": "Google's Pixel 11 teaser hints at a mysterious new light around the camera bar",
+    "summary": "The Google Pixel 11 Pro's rear camera bar features a circular light effect, but no explanation is provided for its purpose.",
+    "link": "https://www.techspot.com/news/113293-google-pixel-11-teaser-hints-mysterious-new-light.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.965552",
+    "insight": "Google introduces a mysterious new light feature with the Pixel 11 Pro."
+  },
+  {
+    "title": "This smart ring can measure your blood sugar using sweat, no needles required",
+    "summary": "A smart ring can measure blood sugar using sweat, eliminating painful finger-pricks and invasive monitors.",
+    "link": "https://www.techspot.com/news/113298-smart-ring-can-measure-blood-sugar-using-sweat.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.965626",
+    "insight": "Non-invasive glucose monitoring can significantly improve diabetes management."
+  },
+  {
+    "title": "Keychron wants to bring open-source firmware to gaming mice",
+    "summary": "Keychron introduces the Zephyr Gaming Mouse (ZGM) project, bringing open-source firmware to gaming mice, offering flexibility and transparency.",
+    "link": "https://www.techspot.com/news/113289-keychron-building-open-source-gaming-mouse-firmware-maximize.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.965701",
+    "insight": "Giving gamers control over their mice's features and capabilities directly."
+  },
+  {
+    "title": "Europe is preparing to hit Roblox and ChatGPT with its strictest platform rules",
+    "summary": "The European Commission plans to regulate Roblox and ChatGPT under the Digital Services Act, categorizing them as Very Large Online Platforms or Search Engines, alongside major platforms like Facebook and YouTube. This move aims to impose stricter regulations on these services. The change is expected in August.",
+    "link": "https://www.techspot.com/news/113296-roblox-chatgpt-face-strict-new-eu-rules-could.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.965768",
+    "insight": "Major platforms face stricter regulations and accountability measures."
+  },
+  {
+    "title": "Xbox keeps sinking while Microsoft's AI business keeps soaring",
+    "summary": "Xbox's hardware revenue continues to decline, with a 13% YoY drop. Price hikes and PR concerns are likely contributing factors. The situation is expected to worsen with upcoming Xbox Series releases.",
+    "link": "https://www.techspot.com/news/113290-xbox-keeps-sinking-while-microsoft-ai-business-keeps.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.965831",
+    "insight": "Microsoft's AI business is soaring while gaming struggles to recover"
+  },
+  {
+    "title": "Study shows excessive time online is associated with stress, bad moods, and abandoning enjoyable activities",
+    "summary": "A study of 900 German adults found excessive online activity linked to stress, bad moods, and abandoning enjoyable activities.",
+    "link": "https://www.techspot.com/news/113294-study-shows-spending-excessive-time-online-associated-stress.html",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-07-31T11:11:06.965898",
+    "insight": "Excessive online time erodes mental well-being and real-life connections."
+  },
+  {
+    "title": "A missing underscore in a username sent an innocent man to prison for 18 months",
+    "summary": "A Halifax man was wrongly convicted and imprisoned due to an investigative error. A missing underscore in his username led police to mistakenly identify him. He was later cleared of all charges.",
+    "link": "https://www.techspot.com/news/113288-missing-underscore-username-sent-innocent-man-prison-18.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-07-31T11:11:06.965963",
+    "insight": "Minor errors can have devastating consequences in serious judicial investigations."
   }
 ]
