@@ -1,105 +1,63 @@
 # ⚡ Semiconductors
-**Week of July 31, 2026**
+**Week of August 01, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-07-31 11:12
+- **Articles this week:** 5
+- **Report generated:** 2026-08-01 10:21
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Maker Go ESP32-C5-EVB board features RS-485 interface, four relays, four opto-isolated inputs ⭐
+### 1. Single-DIMM DDR5 gaming works better than you probably think one DDR5 DIMM beats dual-channel DDR4 RAM, AMD's 3D V-Cache chips drop less than 3% with single stick 
 
-The Maker Go ESP32-C5-EVB board features an ESP32-C5 module with four relays, four opto-isolated inputs, and RS-485 communication, supporting Wi-Fi 6, Bluetooth Low Energy 5.0, and Thread/Zigbee connectivity.
+Using a single DDR5 module can deliver comparable performance to dual-channel DDR4 RAM, while also saving on costs. Tests show that single-dimm DDR5 outperforms dual-channel DDR4 in some scenarios, defying expectations. This shift could be a cost-effective solution for gaming PCs.
 
-💡 *Industrial automation and IoT applications get a versatile ESP32-C5 module*
+💡 *Single DDR5 module beats dual-channel DDR4 in surprising performance boost.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/31/maker-go-esp32-c5-evb-board-features-rs-485-interface-four-relays-four-opto-isolated-inputs/)
-
----
-
-### 2. Windows NT 4.0 brought the Win95 UI to servers 30 years ago today milestone unifying modern Windows OS hit RTM in the Pentium era 
-
-Windows NT 4.0 was released to manufacturing partners in 1996, marking the introduction of the Windows 95 user interface to servers.
-
-💡 *Unified Windows experience across desktops and servers.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/windows-nt-4-0-brought-the-win95-ui-to-servers-30-years-ago-today-milestone-unifying-modern-windows-os-hit-rtm-in-the-pentium-era)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/single-dimm-ddr5-gaming-works-better-than-you-probably-think-amds-3d-v-cache-chips-drop-less-than-3-percent-one-ddr5-dimm-beats-dual-channel-ddr4-ram)
 
 ---
 
-### 3. Google could build more AI accelerators than Nvidia sells in 2028, analyst claims could push the company to use Intel Foundry to meet its goals 
+### 2. Lumentum CEO warns of impending bottleneck on critical material used for silicon photonics fab and material shortfall already lags 30% below customer needs as co-packaged optics demand skyrockets 
 
-Google plans to produce more TPU AI accelerators than Nvidia in 2028, according to Fubon Research. This could push Google to utilize Intel Foundry services to meet its goals.
+Lumentum CEO warns of indium phosphide shortage, likening it to memory squeeze. The material, crucial for silicon photonics fabrication, already lags 30% behind customer demand. Co-packaged optics drive increased demand.
 
-💡 *Google's TPU production could lead to Intel Foundry partnership opportunity.*
+💡 *Indium phosphide shortage threatens silicon photonics industry expansion*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals)
-
----
-
-### 4. NanoPi R28S A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port 
-
-The NanoPi R28S is a tiny, Rockchip RK3528A-powered router with dual Gigabit Ethernet and USB-C console port, designed for networking and IoT applications.
-
-💡 *First SBC with USB-C console port from FriendlyELEC*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/lumentum-ceo-says-the-indium-phosphide-shortage-will-become-worse-than-memory)
 
 ---
 
-### 5. reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far) 
+### 3. Streaming QR codes at 60 FPS achieves nearly 190 KB/s data rate in phone-to-phone tests browser-based method requires no app, no networking, no pairing, and no permissions beyond camera access 
 
-The reTerminal Sticky is a 3.97-inch AI-powered touch ePaper display with ESP32-S3, featuring AI voice-to-note, sensors, and easy mounting via a built-in magnet.
+A developer has created a QR code-driven proof-of-concept data transfer system that shuns any dedicated app requirement and neatly sidesteps mandatory networking, pairing, or giving permissions beyond camera access.
 
-💡 *Open-source firmware projects boost accessibility and customizability of reTerminal Sticky.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/31/reterminal-sticky-3-97-inch-magnetic-touch-epaper-display-is-supported-by-four-open-source-firmware-projects/)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/streaming-qr-codes-at-60-fps-achieves-nearly-190-kb-s-data-rate-in-phone-to-phone-tests-browser-based-method-requires-no-app-no-networking-no-pairing-and-no-permissions-beyond-camera-access)
 
 ---
 
-### 6. Study shows excessive time online is associated with stress, bad moods, and abandoning enjoyable activities 
+### 4. This free font can trick AI scrapers into swallowing gibberish instead of your content 
 
-A study of 900 German adults found excessive online activity linked to stress, bad moods, and abandoning enjoyable activities.
+Seneda & Abrucio and Playtype have created a free, open-source font called ShieldFont. This font is designed to trick AI scrapers into mistakenly consuming gibberish content instead of the intended content. ShieldFont aims to protect websites from unwanted crawlers.
 
-💡 *Excessive online time erodes mental well-being and real-life connections.*
+💡 *ShieldFont outsmarts AI scrapers with clever content obfuscation.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113294-study-shows-spending-excessive-time-online-associated-stress.html)
-
----
-
-### 7. Qualcomm-powered robot collapses spectacularly on stage during company's keynote prepared stagehands rush to cloak and then carry off stricken humanoid 
-
-A Qualcomm exec's demo at Computex 2026 ended in disaster as a humanoid robot collapsed on stage, with prepared stagehands rushing to cloak and then carry off the stricken robot. The incident occurred during the company's keynote presentation. The robot's malfunction has sparked concerns about the reliability of emerging technologies.
-
-💡 *Qualcomm's demo disaster highlights the risks of emerging tech demos.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/robotics/qualcomm-powered-robot-collapses-spectacularly-on-stage-during-presentation-prepared-stagehands-rush-to-cloak-and-then-carry-off-stricken-humanoid)
+🔗 [Read Full Article](https://www.techspot.com/news/113316-shieldfont-tricks-web-scrapers-swallowing-gibberish-instead-content.html)
 
 ---
 
-### 8. Keyboard giant Keychron launches Nape Pro wireless trackball mouse rectangular form factor designed to sit under spacebar gives users six customizable buttons and a control dial 
+### 5. Qualcomm's humanoid robot demo went hilariously wrong when the machine just dropped dead on stage 
 
-Keychron's Nape Pro wireless trackball mouse offers six customizable buttons and a control dial, allowing users to place it anywhere, including under their spacebar, for seamless navigation without removing their hands from the keyboard.
+Qualcomm's humanoid robot demo failed during Computex 2026, with the robot shutting down abruptly on stage. A recent video surfaced online showing the incident. The exact cause of the failure is not clear.
 
-💡 *Streamlined workflow boosts productivity with hands always on keyboard.*
+💡 *Robot malfunction highlights reliability challenges in AI and robotics technology*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/mice/keyboard-giant-keychron-launches-nape-pro-wireless-trackball-mouse-rectangular-form-factor-designed-to-sit-under-spacebar-gives-users-six-customizable-buttons-and-a-control-dial)
-
----
-
-### 9. Shanghai Aishengna named as the maker of China's first domestic immersion DUV chipmaking tools first viable domestic 7nm-capable scanner to be completed by 2038 
-
-Aishengna is reportedly developing China's first domestic immersion DUV chipmaking tools, including a viable 7nm-capable scanner, expected to be completed by 2038.
-
-💡 *Advancing domestic chip production boosts China's tech self-sufficiency*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/shanghai-aishengna-named-as-the-maker-of-chinas-first-domestic-immersion-duv-scanners)
+🔗 [Read Full Article](https://www.techspot.com/news/113313-qualcomm-powered-humanoid-robot-collapses-stage-like-shot.html)
 
 ---
 

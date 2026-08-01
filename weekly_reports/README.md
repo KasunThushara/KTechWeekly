@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of July 31, 2026**
+**Week of August 01, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,76 +7,76 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Maker Go ESP32-C5-EVB board features RS-485 interface, four relays, four opto-isolated inputs ⭐
+### 1. 30 years of CPUs at Tom s Hardware looking back on three decades of processors, from the Pentium II to Ryzen 9 9950X3D2 
 
-**💻 Hardware**
+**🎮 GPUs**
 
-The Maker Go ESP32-C5-EVB board features an ESP32-C5 module with four relays, four opto-isolated inputs, and RS-485 communication, supporting Wi-Fi 6, Bluetooth Low Energy 5.0, and Thread/Zigbee connectivity.
+Tom's Hardware celebrates 30 years of CPU coverage with a look back at three decades of processor advancements, from the Pentium II to the Ryzen 9 9950X3D2. This milestone reflects significant changes in the dynamics between Intel and AMD. Key CPUs from each era are highlighted.
 
-💡 **Key Point:** Industrial automation and IoT applications get a versatile ESP32-C5 module
+💡 **Key Point:** Intel and AMD's competition drives relentless CPU innovation
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/31/maker-go-esp32-c5-evb-board-features-rs-485-interface-four-relays-four-opto-isolated-inputs/)
-
----
-
-### 2. Maker Go ESP32-C5-EVB board features RS-485 interface, four relays, four opto-isolated inputs ⭐
-
-**⚡ Semiconductors**
-
-The Maker Go ESP32-C5-EVB board features an ESP32-C5 module with four relays, four opto-isolated inputs, and RS-485 communication, supporting Wi-Fi 6, Bluetooth Low Energy 5.0, and Thread/Zigbee connectivity.
-
-💡 **Key Point:** Industrial automation and IoT applications get a versatile ESP32-C5 module
-
-🔗 [Read More](https://www.cnx-software.com/2026/07/31/maker-go-esp32-c5-evb-board-features-rs-485-interface-four-relays-four-opto-isolated-inputs/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2)
 
 ---
 
-### 3. Windows NT 4.0 brought the Win95 UI to servers 30 years ago today milestone unifying modern Windows OS hit RTM in the Pentium era 
+### 2. Single-DIMM DDR5 gaming works better than you probably think one DDR5 DIMM beats dual-channel DDR4 RAM, AMD's 3D V-Cache chips drop less than 3% with single stick 
 
-**💻 Hardware**
+**🎮 GPUs**
 
-Windows NT 4.0 was released to manufacturing partners in 1996, marking the introduction of the Windows 95 user interface to servers.
+Using a single DDR5 module can deliver comparable performance to dual-channel DDR4 RAM, while also saving on costs. Tests show that single-dimm DDR5 outperforms dual-channel DDR4 in some scenarios, defying expectations. This shift could be a cost-effective solution for gaming PCs.
 
-💡 **Key Point:** Unified Windows experience across desktops and servers.
+💡 **Key Point:** Single DDR5 module beats dual-channel DDR4 in surprising performance boost.
 
-🔗 [Read More](https://www.tomshardware.com/software/windows/windows-nt-4-0-brought-the-win95-ui-to-servers-30-years-ago-today-milestone-unifying-modern-windows-os-hit-rtm-in-the-pentium-era)
-
----
-
-### 4. NanoPi R28S A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port 
-
-**💻 Hardware**
-
-The NanoPi R28S is a tiny, Rockchip RK3528A-powered router with dual Gigabit Ethernet and USB-C console port, designed for networking and IoT applications.
-
-💡 **Key Point:** First SBC with USB-C console port from FriendlyELEC
-
-🔗 [Read More](https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/ddr5/single-dimm-ddr5-gaming-works-better-than-you-probably-think-amds-3d-v-cache-chips-drop-less-than-3-percent-one-ddr5-dimm-beats-dual-channel-ddr4-ram)
 
 ---
 
-### 5. reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far) 
+### 3. AMD's new Radeon RX 9050 is roughly 30% slower than the RTX 5050 in games, early testing shows the cheapest 8GB RDNA 4 GPU comfortably handles 1080p gaming but doesn't impress 
 
-**💻 Hardware**
+**🎮 GPUs**
 
-The reTerminal Sticky is a 3.97-inch AI-powered touch ePaper display with ESP32-S3, featuring AI voice-to-note, sensors, and easy mounting via a built-in magnet.
+The AMD RX 9050 lags behind the RTX 5050 in gaming performance, but has lower power consumption.
 
-💡 **Key Point:** Open-source firmware projects boost accessibility and customizability of reTerminal Sticky.
+💡 **Key Point:** Power efficiency trade-off impacts gaming performance and user experience.
 
-🔗 [Read More](https://www.cnx-software.com/2026/07/31/reterminal-sticky-3-97-inch-magnetic-touch-epaper-display-is-supported-by-four-open-source-firmware-projects/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/amds-new-radeon-rx-9050-is-roughly-30-percent-slower-than-the-rtx-5050-in-games-early-testing-shows-the-cheapest-8gb-rdna-4-gpu-comfortably-handles-1080p-gaming-but-doesnt-impress)
+
+---
+
+### 4. AMD's new Radeon RX 9050 is roughly 30% slower than the RTX 5050 in games, early testing shows the cheapest 8GB RDNA 4 GPU comfortably handles 1080p gaming but doesn't impress 
+
+**🤖 AI & ML**
+
+The AMD RX 9050 lags behind the RTX 5050 in gaming performance, but has lower power consumption.
+
+💡 **Key Point:** Power efficiency trade-off impacts gaming performance and user experience.
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/amds-new-radeon-rx-9050-is-roughly-30-percent-slower-than-the-rtx-5050-in-games-early-testing-shows-the-cheapest-8gb-rdna-4-gpu-comfortably-handles-1080p-gaming-but-doesnt-impress)
+
+---
+
+### 5. PwC just got caught trying to pass AI slop as authentic research 
+
+**🤖 AI & ML**
+
+PwC was caught attempting to pass AI-generated content as authentic research. This was confirmed by multiple leading publications, including the Financial Times. The issue revolves around the company's 'Thought Leadership' reports.
+
+💡 **Key Point:** Authenticity and transparency in research have significant credibility implications.
+
+🔗 [Read More](https://www.techspot.com/news/113303-pwc-got-caught-trying-pass-ai-slop-authentic.html)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **65 articles** across **5 focused categories**.
+We covered **42 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 19 | Artificial Intelligence and Machine Learning |
+| 🤖 [AI & ML](ai_and_ml.md) | 13 | Artificial Intelligence and Machine Learning |
 | 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 19 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 9 | Chip manufacturing and design |
+| 💻 [Hardware](hardware.md) | 6 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
 | 📰 [Tech News](tech_news.md) | 11 | Industry news and product launches |
 
 ---
@@ -84,16 +84,16 @@ We covered **65 articles** across **5 focused categories**.
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 19 articles
+*Artificial Intelligence and Machine Learning* — 13 articles
 
 ### 🎮 [GPUs](gpus.md)
 *Graphics cards and compute accelerators* — 7 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 19 articles
+*Computing hardware and development boards* — 6 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 9 articles
+*Chip manufacturing and design* — 5 articles
 
 ### 📰 [Tech News](tech_news.md)
 *Industry news and product launches* — 11 articles
@@ -102,6 +102,6 @@ We covered **65 articles** across **5 focused categories**.
 
 ## 📅 About
 
-Generated 2026-07-31 at 11:12 by an autonomous AI curation system.
+Generated 2026-08-01 at 10:21 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

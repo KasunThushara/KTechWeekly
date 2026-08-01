@@ -1,5 +1,5 @@
 # 🎮 GPUs
-**Week of July 31, 2026**
+**Week of August 01, 2026**
 
 *Graphics cards and compute accelerators*
 
@@ -7,79 +7,79 @@
 
 ## 📊 Summary
 - **Articles this week:** 7
-- **Report generated:** 2026-07-31 11:12
+- **Report generated:** 2026-08-01 10:21
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Google could build more AI accelerators than Nvidia sells in 2028, analyst claims could push the company to use Intel Foundry to meet its goals 
+### 1. 30 years of CPUs at Tom s Hardware looking back on three decades of processors, from the Pentium II to Ryzen 9 9950X3D2 
 
-Google plans to produce more TPU AI accelerators than Nvidia in 2028, according to Fubon Research. This could push Google to utilize Intel Foundry services to meet its goals.
+Tom's Hardware celebrates 30 years of CPU coverage with a look back at three decades of processor advancements, from the Pentium II to the Ryzen 9 9950X3D2. This milestone reflects significant changes in the dynamics between Intel and AMD. Key CPUs from each era are highlighted.
 
-💡 *Google's TPU production could lead to Intel Foundry partnership opportunity.*
+💡 *Intel and AMD's competition drives relentless CPU innovation*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals)
-
----
-
-### 2. Study shows excessive time online is associated with stress, bad moods, and abandoning enjoyable activities 
-
-A study of 900 German adults found excessive online activity linked to stress, bad moods, and abandoning enjoyable activities.
-
-💡 *Excessive online time erodes mental well-being and real-life connections.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113294-study-shows-spending-excessive-time-online-associated-stress.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2)
 
 ---
 
-### 3. Ambitious gamer turns fanless Subway menu PCs into gaming rigs passive Intel Core i3 units manage just 15 fps in GTA V and 25 fps in Minecraft 
+### 2. Single-DIMM DDR5 gaming works better than you probably think one DDR5 DIMM beats dual-channel DDR4 RAM, AMD's 3D V-Cache chips drop less than 3% with single stick 
 
-A TechTuber repurposed Subway's digital signage mini PCs for gaming, achieving subpar results.
+Using a single DDR5 module can deliver comparable performance to dual-channel DDR4 RAM, while also saving on costs. Tests show that single-dimm DDR5 outperforms dual-channel DDR4 in some scenarios, defying expectations. This shift could be a cost-effective solution for gaming PCs.
 
-💡 *Fanless PCs struggle with demanding games despite Intel Core i3 performance.*
+💡 *Single DDR5 module beats dual-channel DDR4 in surprising performance boost.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/ambitious-gamer-turns-three-old-subway-menu-signage-pcs-to-gaming-puny-intel-core-i3-machines-can-only-muster-15-fps-running-gta-5-25-fps-on-minecraft)
-
----
-
-### 4. Nvidia's fastest graphics cards get US price increase at Best Buy, Amazon Astral RTX 5080 now costs more than 5090's MSRP, flagship card now commands more than $4,300 
-
-Nvidia GeForce RTX 5080 and RTX 5090 graphics cards are selling above MSRP, with some models reaching near $5,000. This price surge affects Asus and MSI models. The premium cards are now commanding high prices.
-
-💡 *Supply and demand imbalance drives Nvidia graphics card price inflation*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidias-fastest-graphics-cards-get-us-price-increase-at-best-buy-amazon-astral-rtx-5080-now-costs-more-than-5090s-msrp-flagship-card-now-commands-more-than-usd4-300)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/single-dimm-ddr5-gaming-works-better-than-you-probably-think-amds-3d-v-cache-chips-drop-less-than-3-percent-one-ddr5-dimm-beats-dual-channel-ddr4-ram)
 
 ---
 
-### 5. Examining the best options for PCIe SSDs during the RAMpocalypse capacity trumps raw speed for most tasks 
+### 3. AMD's new Radeon RX 9050 is roughly 30% slower than the RTX 5050 in games, early testing shows the cheapest 8GB RDNA 4 GPU comfortably handles 1080p gaming but doesn't impress 
 
-PCIe SSDs offer high speeds but capacity matters for gaming, where large files are stored.
+The AMD RX 9050 lags behind the RTX 5050 in gaming performance, but has lower power consumption.
 
-💡 *Capacity trumps raw speed for most gaming tasks and applications*
+💡 *Power efficiency trade-off impacts gaming performance and user experience.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/examining-the-best-options-for-pcie-ssds-during-the-rampocalypse-capacity-trumps-raw-speed-for-most-tasks)
-
----
-
-### 6. Are your motherboard's M.2 heatsinks making good contact with your SSD? We tested 20 modern Intel and AMD motherboards to verify 
-
-We tested 20 modern motherboards for M.2 contact and found inconsistent results. Some motherboards did not make proper contact with SSDs, which can lead to overheating and reduced performance. This suggests a need for closer inspection during PC builds.
-
-💡 *Proper M.2 contact ensures optimal SSD performance and lifespan.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/are-your-motherboards-m-2-heatsinks-making-good-contact-with-your-ssd-we-tested-20-modern-intel-and-amd-motherboards-to-verify)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amds-new-radeon-rx-9050-is-roughly-30-percent-slower-than-the-rtx-5050-in-games-early-testing-shows-the-cheapest-8gb-rdna-4-gpu-comfortably-handles-1080p-gaming-but-doesnt-impress)
 
 ---
 
-### 7. Keychron wants to bring open-source firmware to gaming mice 
+### 4. 97 untouched Duck Hunt and Super Mario Bros. cartridges worth thousands discovered in retro shop storage room never-before-seen version of popular NES games include five perfect 10 PSA items 
 
-Keychron introduces the Zephyr Gaming Mouse (ZGM) project, bringing open-source firmware to gaming mice, offering flexibility and transparency.
+A retro gaming shop in Wisconsin discovered a box of unopened NES cartridges, including 97 untouched Duck Hunt and Super Mario Bros. games worth thousands, with three items going up for auction starting August 12.
 
-💡 *Giving gamers control over their mice's features and capabilities directly.*
+💡 *Rarity and condition make these vintage games extremely valuable and sought-after.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113289-keychron-building-open-source-gaming-mouse-firmware-maximize.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/97-untouched-duck-hunt-and-super-mario-bros-cartridges-worth-thousands-discovered-in-retro-shop-storage-room-never-before-seen-version-of-popular-nes-games-include-five-perfect-10-psa-items)
+
+---
+
+### 5. Valve funding port of Linux RADV Radeon Vulkan driver to Windows cross-platform effort already runs 'Counter-Strike 2' 
+
+Valve is funding a port of the Linux RADV Radeon Vulkan driver to Windows, demonstrating its cross-platform effort with the driver already running 'Counter-Strike 2'. This move showcases Valve's commitment to making its games accessible across multiple platforms.
+
+💡 *Advances cross-platform gaming, boosting accessibility for PC users worldwide.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/linux/valve-funding-port-of-linux-radv-radeon-vulkan-driver-to-windows-cross-platform-effort-already-runs-counter-strike-2)
+
+---
+
+### 6. MSI promises an EXPO ULL-like boost for your existing DDR5 memory High-Efficiency Mode brings low-latency tuning to older RAM 
+
+MSI introduces High-Efficiency Mode for existing DDR5 memory kits, offering low-latency tuning.
+
+💡 *Existing RAM gets upgraded with latency reduction similar to EXPO ULL benefits.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/msi-promises-an-expo-ull-like-boost-for-your-existing-ddr5-high-efficiency-mode-brings-low-latency-tuning-to-older-ram)
+
+---
+
+### 7. Google plans to produce up to 15 million AI chips by 2028, rivaling Nvidia's total accelerator volume 
+
+Google plans to produce up to 15 million AI chips by 2028, rivaling Nvidia's shipments. This would mark a notable shift in the market, with a single cloud provider producing a volume comparable to a major GPU supplier.
+
+💡 *Google's AI chip production rivals Nvidia's data center GPU shipments.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113307-google-plans-produce-up-15-million-ai-chips.html)
 
 ---
 

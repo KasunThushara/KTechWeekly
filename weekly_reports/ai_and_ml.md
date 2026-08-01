@@ -1,205 +1,143 @@
 # 🤖 AI & ML
-**Week of July 31, 2026**
+**Week of August 01, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 19
-- **Report generated:** 2026-07-31 11:12
+- **Articles this week:** 13
+- **Report generated:** 2026-08-01 10:21
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Exploring Apple Silicon s local AI performance with the Mac Studio and M4 Max M4 Max beats GB10 and Strix Halo in decode throughput, but memory bandwidth isn't everything 
+### 1. AMD's new Radeon RX 9050 is roughly 30% slower than the RTX 5050 in games, early testing shows the cheapest 8GB RDNA 4 GPU comfortably handles 1080p gaming but doesn't impress 
 
-Apple Silicon's M4 Max Mac Studio outperforms rivals in local AI inference, but memory bandwidth isn't the sole determining factor.
+The AMD RX 9050 lags behind the RTX 5050 in gaming performance, but has lower power consumption.
 
-💡 *Memory bandwidth is just one aspect of local AI performance optimization.*
+💡 *Power efficiency trade-off impacts gaming performance and user experience.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/exploring-apple-silicons-local-ai-performance-with-the-mac-studio-and-m4-max-m4-max-beats-gb10-and-strix-halo-in-decode-throughput-but-memory-bandwidth-isnt-everything)
-
----
-
-### 2. Shipping container-launched cargo rocket promises 550-pound deliveries 750 km away in 15 minutes $1.25M Air Force contract backs 'Rook' cargo rocket that flies into space to speed deliveries 
-
-The Rook cargo rocket launched from shipping containers can deliver 550 pounds of cargo 750 km in 15 minutes. A minimum-energy ballistic arc is used, requiring a speed of approximately 2.64 km/s at burnout. The rocket is backed by a $1.25M Air Force contract.
-
-💡 *Revolutionizing rapid global logistics with high-speed space transportation*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/container-launched-cargo-rocket-promises-250-kg-deliveries-750-km-away-in-15-minutes)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amds-new-radeon-rx-9050-is-roughly-30-percent-slower-than-the-rtx-5050-in-games-early-testing-shows-the-cheapest-8gb-rdna-4-gpu-comfortably-handles-1080p-gaming-but-doesnt-impress)
 
 ---
 
-### 3. Startup plans to put nuclear-powered data centers in the sea modular units could be much faster to deploy, but questions about reliability and longevity remain 
+### 2. PwC just got caught trying to pass AI slop as authentic research 
 
-Atomarine plans to deploy modular nuclear-powered data centers in the ocean. These barges will initially use LNG, transitioning to SMR power when available. This approach aims to accelerate data center deployments.
+PwC was caught attempting to pass AI-generated content as authentic research. This was confirmed by multiple leading publications, including the Financial Times. The issue revolves around the company's 'Thought Leadership' reports.
 
-💡 *Modular ocean-based data centers could revolutionize deployment timelines.*
+💡 *Authenticity and transparency in research have significant credibility implications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/startup-plans-to-put-nuclear-powered-data-centers-in-the-sea-modular-units-could-be-much-faster-to-deploy-but-questions-about-reliability-and-longevity-remain)
-
----
-
-### 4. Shanghai Aishengna named as the maker of China's first domestic immersion DUV chipmaking tools first viable domestic 7nm-capable scanner to be completed by 2038 
-
-Aishengna is reportedly developing China's first domestic immersion DUV chipmaking tools, including a viable 7nm-capable scanner, expected to be completed by 2038.
-
-💡 *Advancing domestic chip production boosts China's tech self-sufficiency*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/shanghai-aishengna-named-as-the-maker-of-chinas-first-domestic-immersion-duv-scanners)
+🔗 [Read Full Article](https://www.techspot.com/news/113303-pwc-got-caught-trying-pass-ai-slop-authentic.html)
 
 ---
 
-### 5. Amazon accidentally spent $1.8 million using Claude for menial coding task, went 860% over budget 'catastrophically expensive' coding blunders discovered in internal Amazon AI usage metrics 
+### 3. Big tech spends more than $1 trillion on AI infrastructure additional $745 billion expected to be added to the figure in 2026 alone 
 
-Amazon spent $1.8 million on a failed AI deployment with undetected issues for months, exceeding budget by 860%.
+Big tech companies have spent over $1 trillion on AI investments since 2023, with an additional $745 billion expected in 2026. Their planned AI expenditures are set to increase, despite growing hidden debt of over $1.65 trillion. This trend highlights the significance of AI in the tech industry.
 
-💡 *Undetected AI errors can lead to catastrophic and unaccounted expenses*
+💡 *Billions in AI investments signal AI's massive future importance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics)
-
----
-
-### 6. Nvidia's fastest graphics cards get US price increase at Best Buy, Amazon Astral RTX 5080 now costs more than 5090's MSRP, flagship card now commands more than $4,300 
-
-Nvidia GeForce RTX 5080 and RTX 5090 graphics cards are selling above MSRP, with some models reaching near $5,000. This price surge affects Asus and MSI models. The premium cards are now commanding high prices.
-
-💡 *Supply and demand imbalance drives Nvidia graphics card price inflation*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidias-fastest-graphics-cards-get-us-price-increase-at-best-buy-amazon-astral-rtx-5080-now-costs-more-than-5090s-msrp-flagship-card-now-commands-more-than-usd4-300)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/big-tech-spends-more-than-usd1-trillion-on-ai-infrastructure-additional-usd745-billion-expected-to-be-added-to-the-figure-in-2026-alone)
 
 ---
 
-### 7. Legendary Windows developer codes Task Manager for the Mac, says Apple s Activity Monitor blows Microsoft gave original Windows Task Manager dev permission to reference Windows XP source code 
+### 4. Lumentum CEO warns of impending bottleneck on critical material used for silicon photonics fab and material shortfall already lags 30% below customer needs as co-packaged optics demand skyrockets 
 
-Legendary Windows developer Dave W. Plummer created a Mac version of Task Manager, showing it can be done. Plummer had permission to reference Windows XP source code.
+Lumentum CEO warns of indium phosphide shortage, likening it to memory squeeze. The material, crucial for silicon photonics fabrication, already lags 30% behind customer demand. Co-packaged optics drive increased demand.
 
-💡 *Task Manager is Windows-agnostic, not a platform tied to Microsoft.*
+💡 *Indium phosphide shortage threatens silicon photonics industry expansion*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/operating-systems/legendary-windows-developer-codes-task-manager-for-the-mac-says-he-was-inspired-by-the-fact-that-apples-activity-monitor-blows)
-
----
-
-### 8. ESP-KVM An open-source IP KVM solution based on ESP32-P4 RISC-V MCU 
-
-ESP-KVM is an open-source IP KVM solution for the ESP32-P4 RISC-V MCU. It supports video capture, keyboard and pointer input, and multiple viewers. Developed as a fork of the P4 KVM project, ESP-KVM offers improved features and security.
-
-💡 *Secure remote access solution for IoT devices and embedded systems*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/07/30/esp-kvm-an-open-source-ip-kvm-solution-based-on-esp32-p4-risc-v-mcu/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/lumentum-ceo-says-the-indium-phosphide-shortage-will-become-worse-than-memory)
 
 ---
 
-### 9. Best of Sensors: Aizip wins startup of the year 
+### 5. Streaming QR codes at 60 FPS achieves nearly 190 KB/s data rate in phone-to-phone tests browser-based method requires no app, no networking, no pairing, and no permissions beyond camera access 
 
-Aizip won Startup of the Year at Best of Sensors. The company's edge AI technology provides advantages. Weier Wan shares insights as CTO and co-founder.
+A developer has created a QR code-driven proof-of-concept data transfer system that shuns any dedicated app requirement and neatly sidesteps mandatory networking, pairing, or giving permissions beyond camera access.
 
-💡 *Edge AI enables real-time processing and localized decision-making.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/embedded/best-sensors-aizip-wins-startup-year)
+🔗 [Read Full Article](https://www.tomshardware.com/networking/streaming-qr-codes-at-60-fps-achieves-nearly-190-kb-s-data-rate-in-phone-to-phone-tests-browser-based-method-requires-no-app-no-networking-no-pairing-and-no-permissions-beyond-camera-access)
 
 ---
 
-### 10. Meta is bragging about how its AI keeps people on Instagram, while facing lawsuits over addiction 
+### 6. Setting up OpenClaw isn t as straightforward as the internet wants you to think running local AI on humble hardware 
 
-Meta claims its AI-driven Reels update boosts Instagram sessions and engagement.
+Running a local AI model on affordable hardware is more challenging than expected. A Gorgon Point-powered Mini PC was used as a test case, but results were mixed. The project highlights the difficulties in automating tasks on humble hardware.
 
-💡 *Meta's AI prioritizes content engagement over users' well-being concerns.*
+💡 *Local AI requires significant processing power and resources.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113295-meta-bragging-about-how-ai-keeps-people-instagram.html)
-
----
-
-### 11. Seagate aims to launch 50TB HAMR hard drives in 2027 
-
-Seagate aims to launch 50TB hard drives in 2027 with 5TB+ platters.
-
-💡 *Massive storage capacity boosts data storage and processing capabilities.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113301-seagate-looking-launch-50tb-hamr-hard-disk-drives.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/setting-up-openclaw-isnt-as-straightforward-as-the-internet-wants-you-to-think-running-local-ai-on-humble-hardware)
 
 ---
 
-### 12. Perplexity brings its Personal Computer AI agent to Windows 
+### 7. This free font can trick AI scrapers into swallowing gibberish instead of your content 
 
-Perplexity's Personal Computer AI agent is now available on Windows, allowing users to automate tasks, create documents, and streamline workflows across local files, apps, Microsoft 365, and the web.
+Seneda & Abrucio and Playtype have created a free, open-source font called ShieldFont. This font is designed to trick AI scrapers into mistakenly consuming gibberish content instead of the intended content. ShieldFont aims to protect websites from unwanted crawlers.
 
-💡 *Enhanced productivity for businesses and individuals through AI automation capabilities.*
+💡 *ShieldFont outsmarts AI scrapers with clever content obfuscation.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7647-perplexity-ai.html)
-
----
-
-### 13. Google's Pixel 11 teaser hints at a mysterious new light around the camera bar 
-
-The Google Pixel 11 Pro's rear camera bar features a circular light effect, but no explanation is provided for its purpose.
-
-💡 *Google introduces a mysterious new light feature with the Pixel 11 Pro.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113293-google-pixel-11-teaser-hints-mysterious-new-light.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113316-shieldfont-tricks-web-scrapers-swallowing-gibberish-instead-content.html)
 
 ---
 
-### 14. This smart ring can measure your blood sugar using sweat, no needles required 
+### 8. X settles with advertising group after accusing it of coordinating a boycott 
 
-A smart ring can measure blood sugar using sweat, eliminating painful finger-pricks and invasive monitors.
+X Corp. settles with the World Federation of Advertisers (WFA) after accusing it of coordinating a boycott, and the two parties have agreed to put the litigation behind them.
 
-💡 *Non-invasive glucose monitoring can significantly improve diabetes management.*
+💡 *Companies must navigate complex relationships with industry groups effectively.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113298-smart-ring-can-measure-blood-sugar-using-sweat.html)
-
----
-
-### 15. Keychron wants to bring open-source firmware to gaming mice 
-
-Keychron introduces the Zephyr Gaming Mouse (ZGM) project, bringing open-source firmware to gaming mice, offering flexibility and transparency.
-
-💡 *Giving gamers control over their mice's features and capabilities directly.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113289-keychron-building-open-source-gaming-mouse-firmware-maximize.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113312-x-settles-advertising-group-after-accusing-coordinating-boycott.html)
 
 ---
 
-### 16. Europe is preparing to hit Roblox and ChatGPT with its strictest platform rules 
+### 9. Amazon spent $1.8 million on a failed AI project, and didn't notice the overrun for five months 
 
-The European Commission plans to regulate Roblox and ChatGPT under the Digital Services Act, categorizing them as Very Large Online Platforms or Search Engines, alongside major platforms like Facebook and YouTube. This move aims to impose stricter regulations on these services. The change is expected in August.
+Amazon spent $1.8 million on a failed AI project, exceeding budget by 860%, and went undetected for five months. The project used Anthropic's Claude Sonnet model to match author information with product listings. The system ultimately failed.
 
-💡 *Major platforms face stricter regulations and accountability measures.*
+💡 *Failure to detect budget overruns can lead to significant financial losses.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113296-roblox-chatgpt-face-strict-new-eu-rules-could.html)
-
----
-
-### 17. Xbox keeps sinking while Microsoft's AI business keeps soaring 
-
-Xbox's hardware revenue continues to decline, with a 13% YoY drop. Price hikes and PR concerns are likely contributing factors. The situation is expected to worsen with upcoming Xbox Series releases.
-
-💡 *Microsoft's AI business is soaring while gaming struggles to recover*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113290-xbox-keeps-sinking-while-microsoft-ai-business-keeps.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113310-amazon-spent-18-million-failed-ai-project-didnt.html)
 
 ---
 
-### 18. If You Own a 3D Printer, You Absolutely Need to Try Hi3D 
+### 10. AI is finding so many Chrome security flaws that Google may start updating it twice a week 
 
-Hi3D simplifies the 3D printing process by automating tedious slicing tasks with AI. With just one click, users can optimize prints and save time. This innovative tool streamlines the printing workflow, making it more efficient and accessible.
+AI-powered tools are scanning Chrome code at unprecedented scale and speed, exposing long-standing security flaws, including one that had gone unaddressed for 13 years. This vulnerability could have allowed attackers to bypass sandbox protections. The tools' effectiveness may lead to more frequent Chrome updates.
 
-💡 *AI-powered 3D printing automation saves time and boosts efficiency immediately.*
+💡 *AI scans reveal deep-seated security flaws in Chrome codebase*
 
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/if-you-own-a-3d-printer-you-absolutely-need-to-try-hi3d)
+🔗 [Read Full Article](https://www.techspot.com/news/113308-ai-finding-many-chrome-security-flaws-google-may.html)
 
 ---
 
-### 19. FCC ban on new robot imports hits Toborlife AI amid China debate 
+### 11. Meta's Reality Labs division lost $4.6 billion in Q2 2026, pushing total losses toward $88 billion 
 
-Toborlife AI faces challenges after FCC ban on new robot imports from China, prompting plans to manufacture robot hardware in the US. The ban affects imports from Unitree, a Chinese company. Toborlife aims to shift production to the US.
+Meta's Reality Labs division lost $4.6 billion in Q2 2026, increasing total losses.
 
-💡 *US-China trade tensions impact US AI companies' global supply chains.*
+💡 *Meta's significant financial losses hinder its ambitious AI and smart-glasses projects.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/fcc-ban-new-robot-imports-hits-toborlife-ai-amid-china-debate)
+🔗 [Read Full Article](https://www.techspot.com/news/113304-meta-reality-labs-division-lost-46-billion-q2.html)
+
+---
+
+### 12. Google plans to produce up to 15 million AI chips by 2028, rivaling Nvidia's total accelerator volume 
+
+Google plans to produce up to 15 million AI chips by 2028, rivaling Nvidia's shipments. This would mark a notable shift in the market, with a single cloud provider producing a volume comparable to a major GPU supplier.
+
+💡 *Google's AI chip production rivals Nvidia's data center GPU shipments.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113307-google-plans-produce-up-15-million-ai-chips.html)
+
+---
+
+### 13. Longevity-obsessed millionaire Bryan Johnson wonders whether his bid to live forever has gone too far 
+
+Bryan Johnson, a millionaire, is reevaluating his extreme anti-aging experiments. He appeared in the Netflix documentary 'Don't Die: The Man Who Wants to Live Forever' and has undergone unusual treatments like injecting his teenage son's plasma. Johnson's regimen includes taking 54 supplements daily.
+
+💡 *Extreme efforts to defy aging may have unintended health consequences.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113309-longevity-obsessed-millionaire-bryan-johnson-wonders-whether-bid.html)
 
 ---
 
