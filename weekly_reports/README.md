@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of August 01, 2026**
+**Week of August 02, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,97 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. 30 years of CPUs at Tom s Hardware looking back on three decades of processors, from the Pentium II to Ryzen 9 9950X3D2 
-
-**🎮 GPUs**
-
-Tom's Hardware celebrates 30 years of CPU coverage with a look back at three decades of processor advancements, from the Pentium II to the Ryzen 9 9950X3D2. This milestone reflects significant changes in the dynamics between Intel and AMD. Key CPUs from each era are highlighted.
-
-💡 **Key Point:** Intel and AMD's competition drives relentless CPU innovation
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2)
-
----
-
-### 2. Single-DIMM DDR5 gaming works better than you probably think one DDR5 DIMM beats dual-channel DDR4 RAM, AMD's 3D V-Cache chips drop less than 3% with single stick 
-
-**🎮 GPUs**
-
-Using a single DDR5 module can deliver comparable performance to dual-channel DDR4 RAM, while also saving on costs. Tests show that single-dimm DDR5 outperforms dual-channel DDR4 in some scenarios, defying expectations. This shift could be a cost-effective solution for gaming PCs.
-
-💡 **Key Point:** Single DDR5 module beats dual-channel DDR4 in surprising performance boost.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/ddr5/single-dimm-ddr5-gaming-works-better-than-you-probably-think-amds-3d-v-cache-chips-drop-less-than-3-percent-one-ddr5-dimm-beats-dual-channel-ddr4-ram)
-
----
-
-### 3. AMD's new Radeon RX 9050 is roughly 30% slower than the RTX 5050 in games, early testing shows the cheapest 8GB RDNA 4 GPU comfortably handles 1080p gaming but doesn't impress 
-
-**🎮 GPUs**
-
-The AMD RX 9050 lags behind the RTX 5050 in gaming performance, but has lower power consumption.
-
-💡 **Key Point:** Power efficiency trade-off impacts gaming performance and user experience.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/amds-new-radeon-rx-9050-is-roughly-30-percent-slower-than-the-rtx-5050-in-games-early-testing-shows-the-cheapest-8gb-rdna-4-gpu-comfortably-handles-1080p-gaming-but-doesnt-impress)
-
----
-
-### 4. AMD's new Radeon RX 9050 is roughly 30% slower than the RTX 5050 in games, early testing shows the cheapest 8GB RDNA 4 GPU comfortably handles 1080p gaming but doesn't impress 
+### 1. Play games with your brain signals using Octopus 16 wireless EEG device 
 
 **🤖 AI & ML**
 
-The AMD RX 9050 lags behind the RTX 5050 in gaming performance, but has lower power consumption.
+Octopus 16 is a compact wireless EEG device for brain-computer interfaces, allowing users to play games with their brain signals. It features 16 electrodes, 24-bit ADC, and a coin-sized design. The device connects to an XIAO ESP32-S3 board via SPI.
 
-💡 **Key Point:** Power efficiency trade-off impacts gaming performance and user experience.
+💡 **Key Point:** Enable game control through thought with compact wireless EEG tech
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/amds-new-radeon-rx-9050-is-roughly-30-percent-slower-than-the-rtx-5050-in-games-early-testing-shows-the-cheapest-8gb-rdna-4-gpu-comfortably-handles-1080p-gaming-but-doesnt-impress)
+🔗 [Read More](https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/)
 
 ---
 
-### 5. PwC just got caught trying to pass AI slop as authentic research 
+### 2. Sony doubles down on axing physical game discs CFO reiterates 'we re going to cautiously move this forward' 
 
-**🤖 AI & ML**
+**📰 Tech News**
 
-PwC was caught attempting to pass AI-generated content as authentic research. This was confirmed by multiple leading publications, including the Financial Times. The issue revolves around the company's 'Thought Leadership' reports.
+Sony reaffirms it will stop producing physical game discs after 2028.
 
-💡 **Key Point:** Authenticity and transparency in research have significant credibility implications.
+💡 **Key Point:** Shift to digital game distribution may impact gaming industry revenue
 
-🔗 [Read More](https://www.techspot.com/news/113303-pwc-got-caught-trying-pass-ai-slop-authentic.html)
+🔗 [Read More](https://www.tomshardware.com/video-games/playstation/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-were-going-to-cautiously-move-this-forward)
+
+---
+
+### 3. Microsoft vows to make Windows 11 fly on 8GB RAM amid memory shortage optimizations to reduce OS memory footprint have begun 
+
+**💻 Hardware**
+
+Microsoft is optimizing Windows 11 to reduce memory footprint, potentially making it run smoothly on 8GB RAM, despite the official minimum specification of 4GB. This move comes in response to the memory chip shortage and the resurgence of 8GB laptops. PC builders have long recommended a minimum of 16GB for a seamless experience.
+
+💡 **Key Point:** Low-end laptops may become viable Windows 11 options suddenly
+
+🔗 [Read More](https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun)
+
+---
+
+### 4. Play games with your brain signals using Octopus 16 wireless EEG device 
+
+**💻 Hardware**
+
+Octopus 16 is a compact wireless EEG device for brain-computer interfaces, allowing users to play games with their brain signals. It features 16 electrodes, 24-bit ADC, and a coin-sized design. The device connects to an XIAO ESP32-S3 board via SPI.
+
+💡 **Key Point:** Enable game control through thought with compact wireless EEG tech
+
+🔗 [Read More](https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/)
+
+---
+
+### 5. Microsoft vows to make Windows 11 fly on 8GB RAM amid memory shortage optimizations to reduce OS memory footprint have begun 
+
+**⚡ Semiconductors**
+
+Microsoft is optimizing Windows 11 to reduce memory footprint, potentially making it run smoothly on 8GB RAM, despite the official minimum specification of 4GB. This move comes in response to the memory chip shortage and the resurgence of 8GB laptops. PC builders have long recommended a minimum of 16GB for a seamless experience.
+
+💡 **Key Point:** Low-end laptops may become viable Windows 11 options suddenly
+
+🔗 [Read More](https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **42 articles** across **5 focused categories**.
+We covered **14 articles** across **4 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 13 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 6 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 11 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 6 | Artificial Intelligence and Machine Learning |
+| 💻 [Hardware](hardware.md) | 2 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 3 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 13 articles
-
-### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 7 articles
+*Artificial Intelligence and Machine Learning* — 6 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 6 articles
+*Computing hardware and development boards* — 2 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 5 articles
+*Chip manufacturing and design* — 3 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 11 articles
+*Industry news and product launches* — 3 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-08-01 at 10:21 by an autonomous AI curation system.
+Generated 2026-08-02 at 10:19 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

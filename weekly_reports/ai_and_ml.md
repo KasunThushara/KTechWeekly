@@ -1,143 +1,75 @@
 # 🤖 AI & ML
-**Week of August 01, 2026**
+**Week of August 02, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-08-01 10:21
+- **Articles this week:** 6
+- **Report generated:** 2026-08-02 10:19
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. AMD's new Radeon RX 9050 is roughly 30% slower than the RTX 5050 in games, early testing shows the cheapest 8GB RDNA 4 GPU comfortably handles 1080p gaming but doesn't impress 
+### 1. Play games with your brain signals using Octopus 16 wireless EEG device 
 
-The AMD RX 9050 lags behind the RTX 5050 in gaming performance, but has lower power consumption.
+Octopus 16 is a compact wireless EEG device for brain-computer interfaces, allowing users to play games with their brain signals. It features 16 electrodes, 24-bit ADC, and a coin-sized design. The device connects to an XIAO ESP32-S3 board via SPI.
 
-💡 *Power efficiency trade-off impacts gaming performance and user experience.*
+💡 *Enable game control through thought with compact wireless EEG tech*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/amds-new-radeon-rx-9050-is-roughly-30-percent-slower-than-the-rtx-5050-in-games-early-testing-shows-the-cheapest-8gb-rdna-4-gpu-comfortably-handles-1080p-gaming-but-doesnt-impress)
-
----
-
-### 2. PwC just got caught trying to pass AI slop as authentic research 
-
-PwC was caught attempting to pass AI-generated content as authentic research. This was confirmed by multiple leading publications, including the Financial Times. The issue revolves around the company's 'Thought Leadership' reports.
-
-💡 *Authenticity and transparency in research have significant credibility implications.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113303-pwc-got-caught-trying-pass-ai-slop-authentic.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/)
 
 ---
 
-### 3. Big tech spends more than $1 trillion on AI infrastructure additional $745 billion expected to be added to the figure in 2026 alone 
+### 2. Dell founder shows how a $100 billion empire started 42 years ago CEO says This one page changed my life  
 
-Big tech companies have spent over $1 trillion on AI investments since 2023, with an additional $745 billion expected in 2026. Their planned AI expenditures are set to increase, despite growing hidden debt of over $1.65 trillion. This trend highlights the significance of AI in the tech industry.
+Dell's early quarterly earnings report convinced his parents he didn't need college, allowing him to focus on the company.
 
-💡 *Billions in AI investments signal AI's massive future importance.*
+💡 *Early success validation can alter life choices and business trajectory significantly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/big-tech-spends-more-than-usd1-trillion-on-ai-infrastructure-additional-usd745-billion-expected-to-be-added-to-the-figure-in-2026-alone)
-
----
-
-### 4. Lumentum CEO warns of impending bottleneck on critical material used for silicon photonics fab and material shortfall already lags 30% below customer needs as co-packaged optics demand skyrockets 
-
-Lumentum CEO warns of indium phosphide shortage, likening it to memory squeeze. The material, crucial for silicon photonics fabrication, already lags 30% behind customer demand. Co-packaged optics drive increased demand.
-
-💡 *Indium phosphide shortage threatens silicon photonics industry expansion*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/lumentum-ceo-says-the-indium-phosphide-shortage-will-become-worse-than-memory)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/dell-founder-shows-how-a-usd100-billion-empire-started-42-years-ago-ceo-says-this-one-page-changed-my-life)
 
 ---
 
-### 5. Streaming QR codes at 60 FPS achieves nearly 190 KB/s data rate in phone-to-phone tests browser-based method requires no app, no networking, no pairing, and no permissions beyond camera access 
+### 3. This $10 bundle of 100+ DRM-free games means to support laid-off game developers 
 
-A developer has created a QR code-driven proof-of-concept data transfer system that shuns any dedicated app requirement and neatly sidesteps mandatory networking, pairing, or giving permissions beyond camera access.
+The Game Industry Hardship Fund bundle offers over 100 indie games for $10. It's available on itch.io until August 13. The bundle includes soundtracks, assets, and other materials.
 
-🔗 [Read Full Article](https://www.tomshardware.com/networking/streaming-qr-codes-at-60-fps-achieves-nearly-190-kb-s-data-rate-in-phone-to-phone-tests-browser-based-method-requires-no-app-no-networking-no-pairing-and-no-permissions-beyond-camera-access)
+💡 *Supporting laid-off game developers through affordable DRM-free game bundles.*
 
----
-
-### 6. Setting up OpenClaw isn t as straightforward as the internet wants you to think running local AI on humble hardware 
-
-Running a local AI model on affordable hardware is more challenging than expected. A Gorgon Point-powered Mini PC was used as a test case, but results were mixed. The project highlights the difficulties in automating tasks on humble hardware.
-
-💡 *Local AI requires significant processing power and resources.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/setting-up-openclaw-isnt-as-straightforward-as-the-internet-wants-you-to-think-running-local-ai-on-humble-hardware)
+🔗 [Read Full Article](https://www.techspot.com/news/113319-bundle-support-laid-off-game-devs-offers-over.html)
 
 ---
 
-### 7. This free font can trick AI scrapers into swallowing gibberish instead of your content 
+### 4. Scientists built night vision that shows full color instead of just green 
 
-Seneda & Abrucio and Playtype have created a free, open-source font called ShieldFont. This font is designed to trick AI scrapers into mistakenly consuming gibberish content instead of the intended content. ShieldFont aims to protect websites from unwanted crawlers.
+Scientists have developed a new night vision technology that captures full color in low-light conditions, unlike traditional infrared imaging systems which typically display only green.
 
-💡 *ShieldFont outsmarts AI scrapers with clever content obfuscation.*
+💡 *Preserving color detail enhances night vision accuracy and effectiveness.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113316-shieldfont-tricks-web-scrapers-swallowing-gibberish-instead-content.html)
-
----
-
-### 8. X settles with advertising group after accusing it of coordinating a boycott 
-
-X Corp. settles with the World Federation of Advertisers (WFA) after accusing it of coordinating a boycott, and the two parties have agreed to put the litigation behind them.
-
-💡 *Companies must navigate complex relationships with industry groups effectively.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113312-x-settles-advertising-group-after-accusing-coordinating-boycott.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113314-scientists-built-night-vision-shows-full-color-instead.html)
 
 ---
 
-### 9. Amazon spent $1.8 million on a failed AI project, and didn't notice the overrun for five months 
+### 5. New York is suing prediction market Kalshi, calling it an illegal gambling operation 
 
-Amazon spent $1.8 million on a failed AI project, exceeding budget by 860%, and went undetected for five months. The project used Anthropic's Claude Sonnet model to match author information with product listings. The system ultimately failed.
+New York is suing prediction market Kalshi for violating anti-gambling laws. The state claims Kalshi is harming residents, particularly minors, and perpetuating addiction. Kalshi is accused of operating as an illegal gambling platform.
 
-💡 *Failure to detect budget overruns can lead to significant financial losses.*
+💡 *New York's move may set a precedent for regulating prediction markets nationwide.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113310-amazon-spent-18-million-failed-ai-project-didnt.html)
-
----
-
-### 10. AI is finding so many Chrome security flaws that Google may start updating it twice a week 
-
-AI-powered tools are scanning Chrome code at unprecedented scale and speed, exposing long-standing security flaws, including one that had gone unaddressed for 13 years. This vulnerability could have allowed attackers to bypass sandbox protections. The tools' effectiveness may lead to more frequent Chrome updates.
-
-💡 *AI scans reveal deep-seated security flaws in Chrome codebase*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113308-ai-finding-many-chrome-security-flaws-google-may.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113318-new-york-suing-prediction-market-kalshi-calling-illegal.html)
 
 ---
 
-### 11. Meta's Reality Labs division lost $4.6 billion in Q2 2026, pushing total losses toward $88 billion 
+### 6. One California town found Flock's license plate cameras were wrong 71% of the time 
 
-Meta's Reality Labs division lost $4.6 billion in Q2 2026, increasing total losses.
+Roseville, California's AI-powered license-plate cameras inaccurately flagged 71% of incidents. This was out of 1,427 flagged incidents, highlighting the cameras' potential for error. The inaccuracies raise concerns about the effectiveness and potential misuse of such technology.
 
-💡 *Meta's significant financial losses hinder its ambitious AI and smart-glasses projects.*
+💡 *AI-powered license-plate cameras can be highly inaccurate in real-world applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113304-meta-reality-labs-division-lost-46-billion-q2.html)
-
----
-
-### 12. Google plans to produce up to 15 million AI chips by 2028, rivaling Nvidia's total accelerator volume 
-
-Google plans to produce up to 15 million AI chips by 2028, rivaling Nvidia's shipments. This would mark a notable shift in the market, with a single cloud provider producing a volume comparable to a major GPU supplier.
-
-💡 *Google's AI chip production rivals Nvidia's data center GPU shipments.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113307-google-plans-produce-up-15-million-ai-chips.html)
-
----
-
-### 13. Longevity-obsessed millionaire Bryan Johnson wonders whether his bid to live forever has gone too far 
-
-Bryan Johnson, a millionaire, is reevaluating his extreme anti-aging experiments. He appeared in the Netflix documentary 'Don't Die: The Man Who Wants to Live Forever' and has undergone unusual treatments like injecting his teenage son's plasma. Johnson's regimen includes taking 54 supplements daily.
-
-💡 *Extreme efforts to defy aging may have unintended health consequences.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113309-longevity-obsessed-millionaire-bryan-johnson-wonders-whether-bid.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113320-one-california-town-found-flock-license-plate-cameras.html)
 
 ---
 
