@@ -1,106 +1,288 @@
 [
   {
-    "title": "Dell founder shows how a $100 billion empire started 42 years ago CEO says This one page changed my life ",
-    "summary": "Billionaire Michael Dell reminisced about the early days of his company, sharing an early quarterly earnings report that showed the then-startup making nearly $135,000 in just three months. Dell says that that document changed his life, as it convinced his parents that he no longer needed to go back to college and pursue his degree.",
-    "link": "https://www.tomshardware.com/tech-industry/dell-founder-shows-how-a-usd100-billion-empire-started-42-years-ago-ceo-says-this-one-page-changed-my-life",
+    "title": "AI enthusiast mods BIOS with Claude Code AI defeats RSA-2048 signature checks and unlocks 55 hidden settings",
+    "summary": "A Redditor recently unlocked their HP laptop BIOS using Claude Code.",
+    "link": "https://www.tomshardware.com/laptops/ai-enthusiast-mods-bios-with-claude-code-ai-defeats-rsa-2048-signature-checks-and-unlocks-55-hidden-settings",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-08-03T12:00:59.930508"
+  },
+  {
+    "title": "Co-Packaged Optics (CPO) foundry roadmaps breaking down TSMC, Intel, Samsung, and GlobalFoundries' approach to next-generation scale-up connectivity",
+    "summary": "As AI systems outgrow copper interconnects, TSMC, Intel, Samsung Foundry, and GlobalFoundries are pursuing four distinctly different co-packaged optics strategies to bring optical connectivity closer to compute.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/co-packaged-optics-cpo-foundry-roadmaps-breaking-down-tsmc-intel-samsung-and-globalfoundries-approach-to-next-generation-scale-up-connectivity",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-03T12:00:59.930607"
+  },
+  {
+    "title": "GPU prices for current-gen Nvidia and AMD: Price increases, why have the prices not dropped, and can you still buy a cheap GPU?",
+    "summary": "AI, tariffs, and greed have put pressure on PC builders wanting a new GPU. Can you still get a cheap GPU?",
+    "link": "https://www.tomshardware.com/pc-components/gpus/gpu-prices-for-current-gen-nvidia-and-amd-price-increases-why-have-the-prices-not-dropped-and-can-you-still-buy-a-cheap-gpu",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-03T12:00:59.930692"
+  },
+  {
+    "title": "World s smallest GPU silicon passes real-world testing 240,000-transistor TinyGPU v2.0 renders 3D graphics at up to 15 FPS while v3.0 prepares for 2026 release",
+    "summary": "The TinyGPU v2.0 'standalone GPU' silicon works, and was demonstrated in a video after it came back from its Tiny Tapeout production run.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-03T12:00:59.930785"
+  },
+  {
+    "title": "Hideo Kojima unveils a Death Stranding 2-themed wireless CD player Limited edition device costs ~$160, comes with Bluetooth 5.3 & exclusive artwork",
+    "summary": "Kojima is partnering up with km5 to release a limited-edition version of the CP1 wireless CD player designed to resemble a BB Pod from Death Stranding 2. The nuclear orange aesthetic resembles classic retro tech of bygone eras, but the player itself is rather feature-rich, too.",
+    "link": "https://www.tomshardware.com/peripherals/hideo-kojima-unveils-a-death-stranding-2-themed-wireless-cd-player-limited-edition-device-costs-usd160-comes-with-bluetooth-5-3-and-exclusive-artwork",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-03T12:00:59.930877"
+  },
+  {
+    "title": "Ten years later, the iconic GTX 1080 Ti still holds up in 1080p gaming, but not without showing its age Redux testing highlights the wonders of 11GB VRAM & the woes of time",
+    "summary": "PC Games Hardware has retested the GTX 1080 Ti, along with its GP102 brethren, in a range of new games across multiple resolutions. The results reveal the obvious: the 1080 Ti is still a capable GPU at 1080p, mostly thanks to its 11GB VRAM buffer, but it's highly inefficient by today's standards.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/ten-years-later-the-iconic-gtx-1080-ti-still-holds-up-in-1080p-gaming-but-not-without-showing-its-age-redux-testing-highlights-the-wonders-of-11gb-vram-and-the-woes-of-time",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-03T12:00:59.930985"
+  },
+  {
+    "title": "Grab this 240 Hz QD-OLED gaming monitor at just $300 Gigabyte's 27-inch GO27Q24A is now $150 off at Newegg",
+    "summary": "Gigabyte's GO27Q24A delivers a 240Hz QD-OLED panel, HDMI 2.1, and esports-focused features for just $299.99",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/grab-this-240-hz-qd-oled-gaming-monitor-at-just-usd300-gigabytes-27-inch-go27q24a-is-now-usd150-off-at-newegg",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-03T12:00:59.931053"
+  },
+  {
+    "title": "Errant SpaceX rocket stage set to smash into the moon at 5,400 mph, seven times the speed of sound NASA and South Korean orbiters prepare to track 3-ton TNT impact",
+    "summary": "A used SpaceX rocket segment used to deliver to lunar probes in 2025 is set to crash on the surface of the moon in the near future. This event will be monitored by two satellites as scientists and researchers study the effects of an impact on the surface of the moon in preparation for future developments.",
+    "link": "https://www.tomshardware.com/tech-industry/space/errant-spacex-rocket-stage-set-to-smash-into-the-moon-at-5-400-mph-seven-times-the-speed-of-sound-nasa-and-south-korean-orbiters-prepare-to-track-3-ton-tnt-impact",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-03T12:00:59.931142"
+  },
+  {
+    "title": "Microsoft Paint used as a 'monitor' to run Doom at up to 35 fps, project released by firm's Azure CTO runs actual Doom engine and loads real shareware DOOM1.WAD",
+    "summary": "DoomPaint stands out from the Doom crowd as it has been developed by Microsoft's Azure CTO and because it runs using MS Paint as the viewport for in-game action.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/microsoft-paint-used-as-a-monitor-to-run-doom-at-up-to-35-fps-project-released-by-firms-azure-cto-runs-actual-doom-engine-and-loads-real-shareware-doom1-wad",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-02T10:19:35.862005"
+    "quality_score": 10,
+    "processed_date": "2026-08-03T12:00:59.931221"
   },
   {
-    "title": "Microsoft vows to make Windows 11 fly on 8GB RAM amid memory shortage optimizations to reduce OS memory footprint have begun",
-    "summary": "While the company's minimum OS specifications officially say 4GB, most PC builders know that 16GB is the bare minimum for a smooth experience on Windows 11. However, the memory chip shortage and the resurgence of 8GB laptops are likely forcing Microsoft to optimize Windows.",
-    "link": "https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun",
+    "title": "Iran suspected of conducting cyberattacks on US water suppliers in 45 municipalities small towns mostly targeted, with utilities switching to manual control",
+    "summary": "Several US towns said that their water utilities have suffered from cyberattacks, which are suspected to have originated from Iran. While systems remain running, several have resorted to manual control to protect the water supply.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/iran-suspected-of-conducting-cyberattacks-on-us-water-suppliers-in-45-municipalities-small-towns-mostly-targeted-with-utilities-switching-to-manual-control",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-03T12:00:59.931300"
+  },
+  {
+    "title": "Commemorative golden Doom floppy disks go up for pre-order pair of limited edition dummy imitation gold plating disks and a box are $30 at GameStop",
+    "summary": "GameStop has listed a purely ornamental Doom Floppy Disk Limited Edition Imitation Gold Plated Replica at $29.99.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/commemorative-golden-doom-floppy-disks-go-up-for-pre-order-pair-of-limited-edition-dummy-imitation-gold-plating-disks-and-a-box-are-usd30-at-gamestop",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-03T12:00:59.931369"
+  },
+  {
+    "title": "AMD's upcoming Zen 6 processors could fix microstutters and improve 1% lows in games Next-gen CPUs tipped to feature per-core optimizations for thermal and power budgets",
+    "summary": "A new report suggests AMD is cooking up a range of per-core optimizations for Zen 6 that might not seem huge on their own, but they could add up to make a world of difference in gaming performance.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amds-upcoming-zen-6-processors-could-fix-microstutters-and-improve-1-percent-lows-in-games-next-gen-cpus-tipped-to-feature-per-core-optimizations-for-thermal-and-power-budgets",
     "categories": [
       "Hardware",
-      "Semiconductors"
+      "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-02T10:19:35.862146"
+    "processed_date": "2026-08-03T12:00:59.931461"
   },
   {
-    "title": "Anthropic's Claude hacked three real-life companies during security capabilities test test environment with internet access and unwitting targets' lax cybersecurity practices led to bots running rampant",
-    "summary": "Anthropic's Claude hacked three real-life companies during security capabilities test open test environment and unwitting targets' lax cybersecurity practices led bots run rampant",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-hacked-three-real-life-companies-during-security-capabilities-test-test-environment-with-internet-access-and-unwitting-targets-lax-cybersecurity-practices-led-to-bots-running-rampant",
+    "title": "First open-source firmware for AM5 officially launches Dasharo v0.9.0 brings Coreboot and openSIL to Zen 4 APUs on MSI B850",
+    "summary": "3mdeb has introduced a new open-source firmware for the MSI B850-P WiFi, marking the first time open-source firmware has been introduced to the AM5 platform.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-brings-coreboot-and-opensil-to-zen-4-apus-on-msi-b850",
     "categories": [
+      "Tech News",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-02T10:19:35.862268"
+    "processed_date": "2026-08-03T12:00:59.931535"
   },
   {
-    "title": "'Nozzlegate' erupts as Prusa CORE One 3D printer kits arrive with soft steel nozzles Bondtech admits machining flaws with no quick fix",
-    "summary": "Bondtech, the creator and manufacturer of the INDX toolchanger system used to create the highly anticipated Prusa CORE One+ INDX, admitted to a significant labeling mistake. The nozzles provided with the INDX kit do not meet industry standards for hardened steel as advertised.",
-    "link": "https://www.tomshardware.com/3d-printing/nozzlegate-erupts-as-prusa-core-one-3d-ptinter-kits-arrive-with-soft-steel-nozzles-bondtech-admits-machining-flaws-with-no-quick-fix",
+    "title": "SpaceXAI says it will remove all 69 of its unpermitted turbine power generators, but expects process to take a year trailer-mounted generators to be replaced by 1.2GW power plant",
+    "summary": "These turbines have been the center of a lawsuit involving permits and pollution. While this is good news for the community, it will still take quite some time before they're fully removed from the premises.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/spacexai-says-it-will-remove-all-69-of-its-unpermitted-turbine-power-generators-but-expects-process-to-take-a-year-trailer-mounted-generators-to-be-replaced-by-1-2gw-power-plant",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-03T12:00:59.931614"
+  },
+  {
+    "title": "RTX 5060 Ti survives car crash after being bent in half short PCB saves the day, single memory chip resolder restore full performance",
+    "summary": "What happens when a graphics card gets in a car crash? If you're lucky, the damage is limited to just cosmetic scars that can go away over time with no serious damage under-the-hood.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/rtx-5060-ti-survives-car-crash-after-being-bent-in-half-short-pcb-saves-the-day-single-memory-chip-resolder-restore-full-performance",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-03T12:00:59.931693"
+  },
+  {
+    "title": "Prolific Team Fortress 2 collector is selling his in-game case arsenal for an estimated $100,000 1.7 million items collected over 10 years are enough to fund a house purchase",
+    "summary": "One Team Fortress 2 player has amassed a collection of over 1.7 million cases from the game, and after nearly a decade of collecting, he s selling the collection for an estimated $100,000.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/prolific-team-fortress-2-collector-is-selling-his-in-game-case-arsenal-for-an-estimated-usd100-000-1-7-million-items-collected-over-10-years-are-enough-to-fund-a-house-purchase",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-02T10:19:35.862384"
+    "processed_date": "2026-08-03T12:00:59.931779"
   },
   {
-    "title": "Sony doubles down on axing physical game discs CFO reiterates 'we re going to cautiously move this forward'",
-    "summary": "Sony confirms that its stance has not changed on ending the production of physical game discs for titles released after January 2028.",
-    "link": "https://www.tomshardware.com/video-games/playstation/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-were-going-to-cautiously-move-this-forward",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-02T10:19:35.862485"
-  },
-  {
-    "title": "Play games with your brain signals using Octopus 16 wireless EEG device",
-    "summary": "Octopus 16 is a wireless biosignal HID device for the XIAO ESP32-S3 board designed to let users play computer games using brain signals (EEG) with no hands (or implants) needed. The board packs 16 electrodes to measure biosignals, including EEG (electroencephalography), EMG (electromyography), and ECG (electrocardiography), and the coin-sized device is much more compact than other brain-computer interface (BCI) solutions, which typically require a cap kit with 8 to 16 electrodes and wires. Octopus 16 specifications: ADC 2x Texas Instruments ADS131M08 24-bit, 8-channel, simultaneous-sampling, delta-sigma ( ) analog-to-digital converters Channels 16x 24-bit channels (8x per ADC) Programmable gain (PGA) x1 to x128 (set in firmware; default gain register 0x2222) Input high-pass / DC block Integrated ADC DC-block filter enabled ( >1 Hz) Host interface (to XIAO board) Power + SPI via 2x 7-pin Brain interface 18x spring-loaded pogo pins 16x electrodes 1x reference (AINREF) 1x Ground [...] The post Play games with your brain signals using Octopus 16 wireless EEG device appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/",
+    "title": "28.9M-parameter LLM runs locally on ESP32-S3 at 9 tokens/s",
+    "summary": "Slava S. (slvDev) has optimized a 28.9M-parameter LLM running locally on an ESP32-S3 development board at around 9 tokens/s while generating text, or more exactly, telling short stories. We ve written about LLMs and ESP32 in the past, but usually the boards are used as low-power gateways to interact with online LLMs hosted on powerful servers in data centers. Such products or projects include HiWonderLLM smart chat module , the ESP-Claw framework, or the ESP32 Agent Dev Kit. Slava s esp32-ai project is quite different, as everything runs on the ESP32-S3 microcontroller. This won t work on all ESP32-S3 as you ll need enough memory and storage to store the 14.9MB (4-bit) model file, and Slava tested his demo on an ~$8 ESP32-S3 board with 512KB SRAM+8MB SPRAM and 16MB flash connected to a small I2C display to display short stories. Dave Bennett already did something similar with the ESP32-LLM project, but it only relied [...] The post 28.9M-parameter LLM runs locally on ESP32-S3 at 9 tokens/s appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/03/28-9m-parameter-llm-runs-locally-on-esp32-s3-at-9-tokens-s/",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-02T10:19:35.863129"
+    "processed_date": "2026-08-03T12:00:59.932214"
   },
   {
-    "title": "This $10 bundle of 100+ DRM-free games means to support laid-off game developers",
-    "summary": "The Game Industry Hardship Fund bundle is live on itch.io through August 13. The collection currently includes more than 100 indie titles, along with a few soundtracks, assets, and other materials, all for just $10. Read Entire Article",
-    "link": "https://www.techspot.com/news/113319-bundle-support-laid-off-game-devs-offers-over.html",
+    "title": "$299.99 ASUS UGen300 USB AI accelerator combines 40 TOPS Hailo-10H chip with 8GB LPDDR4",
+    "summary": "ASUS UGen300 USB AI accelerator features a 40 TOPS Hailo-10H AI processor and 8GB of LPDDR4 memory to support large language models (LLMs), vision language models (VLMs), and AI vision workloads while consuming less than 2.5 Watts. In some ways, the hardware is similar to the Raspberry Pi AI HAT+ 2, but in a slim dongle form factor (105 x 50 x 18mm) and a 10 Gbps USB 3.2 Gen1 USB-C Type-C port instead of a 5 or 8 GT/s PCIe interface. ASUS UGen300 USB AI accelerator (UGen300-USB-8G) specifications: AI accelerator Hailo Hailo-10H delivering up to 40 TOPS (INT4) or 20 TOPS (INT8) inferencing performance Memory 8GB LPDDR4 @ 4266 MT/s Host interface USB 3.1 Gen2 (10 Gbps) Type-C port Power Supply 5V via USB-C port Power Consumption 2.5 Watts (typical) Dimensions 105 x 50 x 18 mm Weight 145 grams ASUS says the [...] The post $299.99 ASUS UGen300 USB AI accelerator combines 40 TOPS Hailo-10H chip with 8GB LPDDR4 appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/03/299-99-asus-ugen300-usb-ai-accelerator-hailo-10h-8gb-lpddr4/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-03T12:00:59.932337"
+  },
+  {
+    "title": "Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots",
+    "summary": "Abu Dhabi-based Aliensense has introduced NXS, a compact sensor board designed to easily connect cameras and sensors to robots, without custom wiring or driver work. The board relies on a single GMSL 2/3 cable for power, video, and sensor data over up to 15 meters, extendable to 40 meters over CAN-FD (data only, reduced baudrate). The STM32G491 board is also compatible with the 2,000+ boards in MikroElektronika s Click ecosystem thanks to a mikroBUS connector brought out through a Shuttle add-on board. This means you can use compatible sensors (via mikroBUS) in addition to, or instead of, a camera. NXS specifications: MCU STMicro STM32G491 Cortex-M4F microcontroller with 112KB SRAM, up to 512KB flash Camera Interface MIPI CSI-2 input, MAX96793 GMSL2/3 serializer, power-over-coax Connectivity GMSL2/3, CAN-FD, Cyphal/serial, I2C register map Expansion mikroBUS socket with I2C, SPI, UART, PWM, analog, INT, RST Recovery support Signed A/B firmware, watchdog [...] The post Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-03T12:00:59.932482"
+  },
+  {
+    "title": "Infineon wraps up $650M ams OSRAM sensors buy",
+    "summary": "Ams Osram components are expected to help Infineon move to more application-ready designs.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/infineon-wraps-650m-ams-osram-sensors-buy",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-08-03T12:00:59.933510"
+  },
+  {
+    "title": "Video: The day Edge AI got 'more real' with sensors",
+    "summary": "Panelists at Sensors Converge discuss their favorite edge AI use cases in this video snippet.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/video-day-edge-ai-got-more-real-sensors",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-08-03T12:00:59.933603"
+  },
+  {
+    "title": "Country music stars unite against data centers spreading across rural America",
+    "summary": "Paisley was among the first to draw attention to the issue, opposing a proposed data center in Nashville that would be located about 500 yards from the city's zoo. He criticized both the scale and the setting of the project. \"It would be an enormous monstrosity, an absolute eyesore and... Read Entire Article",
+    "link": "https://www.techspot.com/news/113324-country-music-stars-unite-against-data-centers-spreading.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-02T10:19:35.864419"
+    "processed_date": "2026-08-03T12:00:59.933773"
   },
   {
-    "title": "Scientists built night vision that shows full color instead of just green",
-    "summary": "That distinction is key. Traditional infrared imaging systems rely on detectors that capture a broad range of wavelengths but don't preserve much detail about them, so the output is typically rendered as brightness differences in a single color, often green. Effective as that is, it doesn't take advantage of how... Read Entire Article",
-    "link": "https://www.techspot.com/news/113314-scientists-built-night-vision-shows-full-color-instead.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-02T10:19:35.864627"
-  },
-  {
-    "title": "New York is suing prediction market Kalshi, calling it an illegal gambling operation",
-    "summary": "In a statement, James said Kalshi violates New York's anti-gambling laws, which are designed to protect minors from betting and combat gambling addiction in adults. \"No matter what they call themselves, prediction markets like Kalshi are gambling platforms, plain and simple,\" she said, adding that Kalshi's actions are harming the... Read Entire Article",
-    "link": "https://www.techspot.com/news/113318-new-york-suing-prediction-market-kalshi-calling-illegal.html",
+    "title": "Doom now \"runs\" in Microsoft Paint thanks to a wildly inventive clipboard trick",
+    "summary": "Called DoomPaint, Russinovich's creation doesn't literally execute Doom inside Microsoft's drawing app. Instead, ViZDoom, a ZDoom-based platform designed primarily for AI research, runs the engine and renders it headlessly. It loads the genuine shareware DOOM1.WAD for the first episode, while maps not included with that release use the BSD-licensed Freedoom... Read Entire Article",
+    "link": "https://www.techspot.com/news/113328-doom-now-runs-microsoft-paint-thanks-wildly-inventive.html",
     "categories": [
       "AI & ML",
-      "Semiconductors"
+      "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-02T10:19:35.864821"
+    "quality_score": 10,
+    "processed_date": "2026-08-03T12:00:59.933906"
   },
   {
-    "title": "One California town found Flock's license plate cameras were wrong 71% of the time",
-    "summary": "Police in Roseville, California, found that, out of 1,427 incidents in which the town's AI-powered license-plate cameras flagged a vehicle as stolen or used in a felony, the cameras misread the plate in 71% of cases. Read Entire Article",
-    "link": "https://www.techspot.com/news/113320-one-california-town-found-flock-license-plate-cameras.html",
+    "title": "der8auer tests PC chimney effect, dropping CPU temps by 19 C with a 110cm 3D-printed tower",
+    "summary": "Building one meant understanding what a chimney actually does, which isn't quite what the forum posts assume. Hot air rising is just convection, and it happens around anything warm. A chimney works because that rising air is trapped inside a tall channel, so as it climbs it drags cool air... Read Entire Article",
+    "link": "https://www.techspot.com/news/113323-der8auer-tests-pc-chimney-effect-dropping-cpu-temps.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-03T12:00:59.934033"
+  },
+  {
+    "title": "A Coldcard firmware flaw let hackers drain $70 million in Bitcoin in 41 minutes, with losses now topping $88 million",
+    "summary": "A flaw in Coldcard's firmware has put the spotlight on a basic part of wallet security: how the device generates its seed in the first place. The issue came into focus after an attacker drained 1,196 Bitcoin addresses on July 30 in a 41-minute stretch, taking 1,082.65 BTC worth about... Read Entire Article",
+    "link": "https://www.techspot.com/news/113322-coldcard-firmware-flaw-hackers-drain-70-million-bitcoin.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-02T10:19:35.864992"
+    "processed_date": "2026-08-03T12:00:59.934158"
+  },
+  {
+    "title": "AMD's new Zen 6 chips will have a low-power core built from five different generations of Zen",
+    "summary": "Patch notes that the system needs a way to properly identify these low-power cores in user space, since they currently show up as \"unknown\" in the CPU topology. Read Entire Article",
+    "link": "https://www.techspot.com/news/113321-amd-new-zen-6-chips-have-low-power.html",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-03T12:00:59.934275"
+  },
+  {
+    "title": "A Meta developer's Linux patch could boost Steam Deck frame rates by up to 32%",
+    "summary": "David Vernet, a Linux kernel hacker at Meta, recently unveiled a series of new patches for the open source kernel. He explained that the code is designed to cut down on stuttering and frame-time spikes on AMD APU-based gaming handhelds, thanks to a new operating mode added to the amd-pstate... Read Entire Article",
+    "link": "https://www.techspot.com/news/113317-meta-developer-linux-patch-could-boost-steam-deck.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-03T12:00:59.934402"
   }
 ]
