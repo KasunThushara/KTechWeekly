@@ -1,85 +1,95 @@
 # 📰 Tech News
-**Week of August 03, 2026**
+**Week of August 04, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-08-03 12:02
+- **Articles this week:** 8
+- **Report generated:** 2026-08-04 11:09
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Errant SpaceX rocket stage set to smash into the moon at 5,400 mph, seven times the speed of sound NASA and South Korean orbiters prepare to track 3-ton TNT impact ⭐
+### 1. Asus ProArt PA32UCDMR 32-inch 4K professional OLED monitor review: Precision, speed, and flexibility ⭐
 
-A used SpaceX rocket is set to crash on the moon's surface, monitored by two satellites to study its effects.
+Asus' ProArt PA32UCDMR 32-inch 4K OLED monitor delivers precision and premium gaming performance. It boasts a sleek all-metal chassis and a calibrator and controller combo. This monitor is ideal for professionals and gamers alike.
 
-💡 *Preparing for future lunar missions and mitigating potential space debris risks.*
+💡 *Professional-grade display meets gaming performance and elegant design*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/space/errant-spacex-rocket-stage-set-to-smash-into-the-moon-at-5-400-mph-seven-times-the-speed-of-sound-nasa-and-south-korean-orbiters-prepare-to-track-3-ton-tnt-impact)
-
----
-
-### 2. Microsoft Paint used as a 'monitor' to run Doom at up to 35 fps, project released by firm's Azure CTO runs actual Doom engine and loads real shareware DOOM1.WAD 
-
-DoomPaint is a unique project that runs the Doom engine using MS Paint as a viewport, achieving up to 35 fps. Developed by Microsoft's Azure CTO, the project loads the real shareware DOOM1.WAD. This innovative approach showcases the versatility of the Doom engine.
-
-💡 *Unconventional use of MS Paint as a gaming viewport is innovative.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/microsoft-paint-used-as-a-monitor-to-run-doom-at-up-to-35-fps-project-released-by-firms-azure-cto-runs-actual-doom-engine-and-loads-real-shareware-doom1-wad)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/asus-proart-pa32ucdmr-32-inch-4k-professional-oled-monitor-review)
 
 ---
 
-### 3. World s smallest GPU silicon passes real-world testing 240,000-transistor TinyGPU v2.0 renders 3D graphics at up to 15 FPS while v3.0 prepares for 2026 release 
+### 2. Gigabyte's new 27-inch QD-OLED monitor drops to $299 
 
-The TinyGPU v2.0, a 240,000-transistor standalone GPU silicon, passed real-world testing, demonstrating 3D graphics rendering at up to 15 FPS. This achievement marks a significant milestone in the development of ultra-compact GPUs. Further advancements are expected with the upcoming TinyGPU v3.0.
+Gigabyte's 27-inch 1440p QD-OLED monitor is now available for $299, a $151 discount.
 
-💡 *Revolutionizing miniature computing with ultra-compact, high-performance GPUs.*
+💡 *High-quality monitor becomes affordable for budget-conscious consumers suddenly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release)
-
----
-
-### 4. Hideo Kojima unveils a Death Stranding 2-themed wireless CD player Limited edition device costs ~$160, comes with Bluetooth 5.3 & exclusive artwork 
-
-Hideo Kojima and km5 collaborated on a limited-edition CP1 wireless CD player. The device is themed after the BB Pod from Death Stranding 2 and features Bluetooth 5.3. It is priced around $160.
-
-💡 *Gaming icon Kojima taps into retro-tech nostalgia market trend*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/hideo-kojima-unveils-a-death-stranding-2-themed-wireless-cd-player-limited-edition-device-costs-usd160-comes-with-bluetooth-5-3-and-exclusive-artwork)
+🔗 [Read Full Article](https://www.techspot.com/products/monitors/gigabyte-go27q24a.326057/)
 
 ---
 
-### 5. First open-source firmware for AM5 officially launches Dasharo v0.9.0 brings Coreboot and openSIL to Zen 4 APUs on MSI B850 
+### 3. AI companies are now racing to the bottom crashing token prices and competitive models push companies to cut costs 
 
-3mdeb has launched Dasharo v0.9.0, an open-source firmware for MSI B850-P WiFi, marking the first time open-source firmware has been introduced to the AM5 platform.
+AI companies are cutting prices to stay competitive, risking profits and investment confidence. This price war is driven by impressive new releases from China. The competition may lead to unsustainable business models.
 
-💡 *Open-source firmware brings customization and security to Zen 4 APUs on AM5*
+💡 *Cutting prices to stay competitive risks long-term profitability*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-brings-coreboot-and-opensil-to-zen-4-apus-on-msi-b850)
-
----
-
-### 6. Prolific Team Fortress 2 collector is selling his in-game case arsenal for an estimated $100,000 1.7 million items collected over 10 years are enough to fund a house purchase 
-
-A Team Fortress 2 player is selling a 1.7 million item case collection for $100,000 after nearly a decade.
-
-💡 *The collection's value highlights the monetizable assets in online gaming.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/pc-gaming/prolific-team-fortress-2-collector-is-selling-his-in-game-case-arsenal-for-an-estimated-usd100-000-1-7-million-items-collected-over-10-years-are-enough-to-fund-a-house-purchase)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-now-racing-to-the-bottom-crashing-token-prices-and-competitive-models-push-companies-to-cut-costs)
 
 ---
 
-### 7. Infineon wraps up $650M ams OSRAM sensors buy 
+### 4. NASA puts Crew-13's launch-pad escape in the hands of the 11-times-recalled Cybertruck 
 
-Infineon has completed its acquisition of ams OSRAM sensors for $650 million. The move is expected to enable more application-ready designs. This will help Infineon expand its product offerings.
+NASA is leveraging the Cybertruck's strength to aid in launch-pad escapes.
 
-💡 *Accelerating innovation with application-ready designs and expanded product offerings*
+💡 *Astronaut safety relies on a sturdy emergency response vehicle.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/infineon-wraps-650m-ams-osram-sensors-buy)
+🔗 [Read Full Article](https://www.techspot.com/news/113345-nasa-puts-crew-13-launch-pad-escape-hands.html)
+
+---
+
+### 5. Valve publicly releases Lepton and FEX compatibility tools to power Steam Frame gaming 
+
+Valve publicly releases Lepton and FEX tools to enhance Steam Frame compatibility.
+
+💡 *Enabling seamless gaming on Arm-based devices for Steam Frame success.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113337-valve-publicly-releases-lepton-fex-compatibility-tools-power.html)
+
+---
+
+### 6. Windows Task Manager's original creator is bringing a new version to Mac first 
+
+David Plummer's new Task Manager OG (TMOG) focuses on code efficiency and system information, initially targeting macOS users. This tool aims to provide a serious system console for GUI-based operating systems. TMOG prioritizes code efficiency and depth of information.
+
+💡 *macOS users gain more system management capabilities with TMOG.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113333-windows-task-manager-original-creator-bringing-new-version.html)
+
+---
+
+### 7. BMW is putting Spider-Man ads on your dashboard, after promising it never would 
+
+BMW is promoting Spider-Man through animated ads on car dashboards in over 70 markets from July 27 to August 10, 2026.
+
+💡 *BMW breaks promise of not displaying ads on dashboards unexpectedly.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113327-bmw-putting-spider-man-ads-dashboard-after-promising.html)
+
+---
+
+### 8. What was the first consumer gadget to feature a foldable display? 
+
+The Royole FlexPai was the first consumer gadget to feature a foldable display in 2018, beating major tech companies to market. This device marked a significant innovation in smartphone technology. Its release paved the way for others to follow.
+
+💡 *Innovation can come from unexpected places, disrupting established market trends.*
+
+🔗 [Read Full Article](https://www.techspot.com/trivia/180-what-first-consumer-gadget-feature-foldable-display/)
 
 ---
 

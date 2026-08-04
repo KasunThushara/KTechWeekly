@@ -1,55 +1,93 @@
 # ⚡ Semiconductors
-**Week of August 03, 2026**
+**Week of August 04, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-08-03 12:02
+- **Articles this week:** 8
+- **Report generated:** 2026-08-04 11:09
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Co-Packaged Optics (CPO) foundry roadmaps breaking down TSMC, Intel, Samsung, and GlobalFoundries' approach to next-generation scale-up connectivity 
+### 1. Espressif ESP32-C61-MINI-1/1U Wi-Fi 6 and BLE IoT module launched for about $2 ⭐
 
-TSMC, Intel, Samsung, and GlobalFoundries are developing co-packaged optics strategies to overcome copper interconnect limitations, enabling faster and more efficient AI computing through optical connectivity.
+Espressif Systems has introduced the ESP32-C61-MINI-1/1U module with Wi-Fi 6 and BLE capabilities for around $2, offering a low-cost variant of the ESP32-C6 without an 802.15.4 radio. The module features a single RISC-V core, 320KB SRAM, and support for 2.4 GHz WiFi 6 and Bluetooth LE. It is now available on AliExpress for $10.7 per pack of 5 modules.
 
-💡 *Next-gen AI systems require faster, more efficient optical connectivity solutions.*
+💡 *Low-cost Wi-Fi 6 and BLE module for IoT applications at $2 price point.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/co-packaged-optics-cpo-foundry-roadmaps-breaking-down-tsmc-intel-samsung-and-globalfoundries-approach-to-next-generation-scale-up-connectivity)
-
----
-
-### 2. Hideo Kojima unveils a Death Stranding 2-themed wireless CD player Limited edition device costs ~$160, comes with Bluetooth 5.3 & exclusive artwork 
-
-Hideo Kojima and km5 collaborated on a limited-edition CP1 wireless CD player. The device is themed after the BB Pod from Death Stranding 2 and features Bluetooth 5.3. It is priced around $160.
-
-💡 *Gaming icon Kojima taps into retro-tech nostalgia market trend*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/hideo-kojima-unveils-a-death-stranding-2-themed-wireless-cd-player-limited-edition-device-costs-usd160-comes-with-bluetooth-5-3-and-exclusive-artwork)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/04/espressif-esp32-c61-mini-1-1u-wi-fi-6-and-ble-iot-module-2-dollars/)
 
 ---
 
-### 3. First open-source firmware for AM5 officially launches Dasharo v0.9.0 brings Coreboot and openSIL to Zen 4 APUs on MSI B850 
+### 2. China cracks down on copycat chip designs with new regulations and penalties new guidelines enforce originality and independent development 
 
-3mdeb has launched Dasharo v0.9.0, an open-source firmware for MSI B850-P WiFi, marking the first time open-source firmware has been introduced to the AM5 platform.
+China strengthens legal protections for domestically developed chip designs through new regulations, raising originality requirements and increasing penalties for infringement.
 
-💡 *Open-source firmware brings customization and security to Zen 4 APUs on AM5*
+💡 *China protects domestic chip development to boost innovation and competitiveness.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-brings-coreboot-and-opensil-to-zen-4-apus-on-msi-b850)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/china-cracks-down-on-copycat-chip-designs-with-new-regulations-and-penalties-new-guidelines-enforce-originality-and-independent-development)
 
 ---
 
-### 4. AMD's new Zen 6 chips will have a low-power core built from five different generations of Zen 
+### 3. BG2B is the lowest-power Bluetooth LE SoC from Silicon Labs so far 
 
-AMD's Zen 6 chips will include a low-power core combining five generations of Zen architecture. This new core is set to be identified in user space to provide accurate CPU topology information. Patch notes suggest improvements to system identification.
+Silicon Labs' BG2B is an ultra-low-power Bluetooth 6 LE SoC with enhanced security features, targeting various IoT applications. It boasts 1.1 A EM2 sleep current, 14-15% lower MCU active current, and improved Bluetooth receive current. This SoC caters to secure ranging, asset tracking, and smart home devices.
 
-💡 *Accurate low-power core identification is crucial for optimal system performance.*
+💡 *Silicon Labs BG2B offers industry-leading low power consumption for Bluetooth LE.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113321-amd-new-zen-6-chips-have-low-power.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/04/bg2b-lowest-power-bluetooth-le-soc-from-silicon-labs/)
+
+---
+
+### 4. New Micron lawsuit reignites fight over New York fab complaint alleges 'forever chemicals' will flow into Oneida River 
+
+Micron's New York facility faces another environmental lawsuit over permits. The complaint alleges that 'forever chemicals' could contaminate the Oneida River. The lawsuit seeks to nullify wastewater and air permits.
+
+💡 *Environmental concerns threaten Micron's operations and local water quality*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/new-micron-lawsuit-reignites-fight-over-new-york-fab-complaint-alleges-forever-chemicals-will-flow-into-oneida-river)
+
+---
+
+### 5. In a troubling sign, Nvidia RTX 50 series prices jump up to 30% in South Korea TSMC wafer hikes and $20 GDDR7 modules push RTX 5090 past $5,100 
+
+Nvidia's RTX 50 series prices have increased by up to 30% in South Korea due to rising production costs, with TSMC wafer hikes and higher GDDR7 module prices contributing to the price surge.
+
+💡 *Rising production costs threaten affordability of high-end graphics cards.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/in-a-troubling-sign-nvidia-rtx-50-series-prices-jump-up-to-30-percent-in-south-korea-tsmc-wafer-hikes-and-usd20-gddr7-modules-push-rtx-5090-past-usd5-100)
+
+---
+
+### 6. Drone flyover reveals rapid progress at Elon Musk s new ATCF chip fab Texas site prepares for all-in-one logic, memory, and packaging facility 
+
+Drone flyovers confirm rapid progress at Elon Musk's ATCF Texas site. The facility is preparing for an all-in-one logic, memory, and packaging facility. This development marks a significant step in Musk's semiconductor ambitions.
+
+💡 *Accelerating Texas chip production to boost US tech industry*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/drone-flyover-reveals-rapid-progress-at-elon-musks-atcf-chip-fab-texas-site-prepares-for-all-in-one-logic-memory-and-packaging-facility)
+
+---
+
+### 7. Lexar lists 32GB DDR5 memory with homegrown Chinese chips 3,999 Yuan ($592) price undercuts hopes for cheaper CXMT-powered RAM 
+
+Lexar's 32GB DDR5 memory kit uses Chinese chips, priced at $592, undercuts hopes for cheaper CXMT-powered RAM.
+
+💡 *New Chinese RAM manufacturers challenge traditional DDR5 pricing expectations.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/lexar-lists-32gb-ddr5-memory-with-homegrown-chinese-chips-3-999-yuan-usd592-price-undercuts-hopes-for-cheaper-cxmt-powered-ram)
+
+---
+
+### 8. Michael Dell's son and a SpaceX alum want to put battery storage in every backyard 
+
+Home battery storage, which can lower electric bills by feeding power back to the grid, is gaining popularity across the US, particularly in warmer regions. A startup led by Zach Dell shows how the industry is expanding options for grid operators. Read Entire Article
+
+🔗 [Read Full Article](https://www.techspot.com/news/113339-michael-dell-son-spacex-alum-want-put-battery.html)
 
 ---
 
