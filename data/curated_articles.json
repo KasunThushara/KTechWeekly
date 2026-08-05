@@ -1,310 +1,383 @@
 [
   {
-    "title": "16GB GPUs and 8-core CPUs officially become the most popular configs on Steam Latest hardware survey shows modern gaming's growing hunger for more resources",
-    "summary": "For the first time in Steam history, 8-core CPUs have overtaken 6-core CPUs and GPUs with 16GB of VRAM have overtaken 8GB GPUs. Even though the hardware survey doesn't represent everyone, it still indicates a paradigm shift for the mainstream market.",
-    "link": "https://www.tomshardware.com/pc-components/16gb-gpus-and-8-core-cpus-officially-become-the-most-popular-configs-on-steam-latest-hardware-survey-shows-modern-gamings-growing-hunger-for-more-resources",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.060205"
-  },
-  {
-    "title": "Three major PC makers now using Chinese memory to fight 'unprecedented memory shortage,' report claims HP, Asus, and Acer using 'small amounts' of CXMT chips in limited number of notebooks for non-US market",
-    "summary": "A new report claims that HP, Asus, and Acer have started to use a small amount of CXMT memory chips in notebooks for non-US markets.",
-    "link": "https://www.tomshardware.com/tech-industry/three-major-pc-makers-now-using-chinese-memory-to-fight-unprecedented-memory-shortage-report-claims-hp-asus-and-acer-using-small-amounts-of-cxmt-chips-in-limited-number-of-notebooks-for-non-us-market",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.060354"
-  },
-  {
-    "title": "China cracks down on copycat chip designs with new regulations and penalties new guidelines enforce originality and independent development",
-    "summary": "China tightens legal protections for domestically developed chip layout designs by raising originality requirements and strengthening infringement penalties.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-cracks-down-on-copycat-chip-designs-with-new-regulations-and-penalties-new-guidelines-enforce-originality-and-independent-development",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-04T11:08:31.060479"
-  },
-  {
-    "title": "This 144-piece toolkit is a must-buy for hobbyists and PC builders for under $40 pocket a 20% saving on this screwdriver set with two drivers, 120 magnetic bits, and 22 repair tools for your projects",
-    "summary": "Pick up this 144-in-1 repair toolkit from Strebito, with 120 bits and a number of other tools, for less than $40 right now, saving you 20%.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/this-144-piece-toolkit-is-a-must-buy-for-hobbyists-and-pc-builders-for-under-usd40-pocket-a-20-percent-saving-on-this-screwdriver-set-with-two-drivers-120-magnetic-bits-and-22-repair-tools-for-your-projects",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.060594"
-  },
-  {
-    "title": "New Micron lawsuit reignites fight over New York fab complaint alleges 'forever chemicals' will flow into Oneida River",
-    "summary": "Micron's New York manufacturing facility is back in the crosshairs of another environmental lawsuit, claiming its wastewater and air permits should be nullified.",
-    "link": "https://www.tomshardware.com/pc-components/dram/new-micron-lawsuit-reignites-fight-over-new-york-fab-complaint-alleges-forever-chemicals-will-flow-into-oneida-river",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.060700"
-  },
-  {
-    "title": "In a troubling sign, Nvidia RTX 50 series prices jump up to 30% in South Korea TSMC wafer hikes and $20 GDDR7 modules push RTX 5090 past $5,100",
-    "summary": "The latest round of price increases affects the entire RTX 50 lineup, with premium models bearing the brunt of rising production costs.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/in-a-troubling-sign-nvidia-rtx-50-series-prices-jump-up-to-30-percent-in-south-korea-tsmc-wafer-hikes-and-usd20-gddr7-modules-push-rtx-5090-past-usd5-100",
+    "title": "Frore claims its LiquidJet can drop Nvidia Rubin GPU temperatures by 10 C can also boost performance by 15% as hyperscalers eye using delidded GPUs in production environments",
+    "summary": "As cooling becomes a crucial element for economic efficiency of AI data centers, Frore claims that using is LiquidJet coldplate could increase efficiency of token generation by 15%.",
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/frore-claims-its-liquidjet-can-drop-nvidia-rubin-gpu-temperatures-by-10-c-can-also-boost-performance-by-15-percent-as-hyperscalers-eye-using-delidded-gpus-in-production-environments",
     "categories": [
       "GPUs",
-      "Semiconductors"
+      "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.060808"
+    "quality_score": 10,
+    "processed_date": "2026-08-05T11:04:59.245505"
   },
   {
-    "title": "AI companies are now racing to the bottom crashing token prices and competitive models push companies to cut costs",
-    "summary": "All major AI developers are cutting prices to compete with impressive new releases from China. But as they shave margins to remain competitive, the profits they'll need to fulfil investment confidence may end up further out of reach.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-now-racing-to-the-bottom-crashing-token-prices-and-competitive-models-push-companies-to-cut-costs",
+    "title": "Montech TG3 Panoramic Mid-tower case review: a fantastic value, with four included RGB fans and panoramic views",
+    "summary": "Montech's TG3 is a marvelous value in the budget mid-tower space, with ample room for components and four included fans. It also offers solid noise-normalized cooling for the CPU and a good all-around noise profile",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review",
     "categories": [
-      "AI & ML",
+      "Hardware",
       "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.060920"
+    "quality_score": 10,
+    "processed_date": "2026-08-05T11:04:59.245595"
   },
   {
-    "title": "Drone flyover reveals rapid progress at Elon Musk s new ATCF chip fab Texas site prepares for all-in-one logic, memory, and packaging facility",
-    "summary": "July drone flyovers of Elon Musk s Advanced Technology Chip Fab in Texas appear to confirm progress has 'hit another gear.'",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/drone-flyover-reveals-rapid-progress-at-elon-musks-atcf-chip-fab-texas-site-prepares-for-all-in-one-logic-memory-and-packaging-facility",
+    "title": "Glorious Wireless InfinitePlay Gaming Headset Review",
+    "summary": "The Glorious Wireless InfinitePlay offers solid sound, quality comms, and never-ending uptime at a reduced price. There s a handful of trade-offs, but this headset has more wins than losses and is definitely worth considering.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-headsets/glorious-wireless-infiniteplay-gaming-headset-review",
     "categories": [
-      "Semiconductors"
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-05T11:04:59.245689"
+  },
+  {
+    "title": "Crazed modder turns NAS into a gaming PC with RTX 5060 hanging from the side, boosts frame rate by 828% Frankenstein rig hides dedicated PSU in drive bay, breaks Time Spy world record for the onboard CPU",
+    "summary": "A modder has attached a full-sized RTX 5060 graphics card to a ZimaCube 2 NAS server and achieved up to 8x faster performance in games. The jerry-rigged setup doesn't look the most polished, and the CPU is heavily bottlenecked, but it still, uh, exists.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/humble-nas-gets-transformed-into-a-gaming-pc-with-and-rtx-5060-hanging-from-its-side-frankenstein-rig-hides-dedicated-psu-in-drive-bay-to-achieve-vast-performance-increase-over-igpu",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-05T11:04:59.245786"
+  },
+  {
+    "title": "AMD doubles data center revenue year over year, but gaming revenue plunged by 31% CEO Lisa Su says prices have 'weighed on' consumer demand but is 'optimistic' about client market",
+    "summary": "AMD reported record revenue in Q2 2026, including doubling its data center business year-over-year, but gaming revenue dived 31%.",
+    "link": "https://www.tomshardware.com/tech-industry/amd-doubles-data-center-revenue-year-over-year-but-gaming-revenue-plunged-by-31-percent-ceo-lisa-su-says-prices-have-weighed-on-consumer-demand-but-is-optimistic-about-client-market",
+    "categories": [
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.061022"
+    "processed_date": "2026-08-05T11:04:59.245864"
   },
   {
-    "title": "Lexar lists 32GB DDR5 memory with homegrown Chinese chips 3,999 Yuan ($592) price undercuts hopes for cheaper CXMT-powered RAM",
-    "summary": "Lexar's latest Thor RGB kit likely uses CXMT-made DRAM, but its pricing remains comparable to premium DDR5 memory from established brands.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/lexar-lists-32gb-ddr5-memory-with-homegrown-chinese-chips-3-999-yuan-usd592-price-undercuts-hopes-for-cheaper-cxmt-powered-ram",
+    "title": "US mulling ban on key Chinese networking tech in data center component crackdown White House wants to impose restrictions in 2026, China says it will respond if necessary",
+    "summary": "Sources say that the FCC is drafting a ban on optical transceivers for data centers. These components, which convert electrical signals into light signals, are said to pose a risk as they can be used to steal data, install malware, or disrupt data center operations in the U.S.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/us-mulling-ban-on-key-chinese-networking-tech-in-data-center-component-crackdown-white-house-wants-to-impose-restrictions-in-2026-china-says-it-will-respond-if-necessary",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.061128"
+    "processed_date": "2026-08-05T11:04:59.245964"
   },
   {
-    "title": "Microsoft raises European Xbox prices by up to 200 RAMpocalypse and component shortages force major console markups",
-    "summary": "Xbox price increases across the UK and Europe have been revealed, with prices upped by as much as 170 or 200.",
-    "link": "https://www.tomshardware.com/video-games/xbox/microsoft-raises-european-xbox-prices-by-up-to-gbp200-rampocalypse-and-component-shortages-force-major-console-markups",
+    "title": "Texas slams on the brakes for 1,800 data centers, power grid requirements are five times higher than peak record demand 474 gigawatts of power requests are now subject to new moratorium",
+    "summary": "Gov. Greg Abbott (R) instructed PUCT and ERCOT to pause all data center applications until they complete an audit on all the information that data center developers must submit. The move reportedly came after PUCT asked 377 data center operators to submit water and power use, of which only 28 complied.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/texas-slams-on-the-breaks-for-1-800-data-centers-power-grid-requirements-are-five-times-higher-than-peak-record-demand-474-gigawatts-of-power-requests-are-now-subject-to-new-moratorium",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.061223"
-  },
-  {
-    "title": "Asus ProArt PA32UCDMR 32-inch 4K professional OLED monitor review: Precision, speed, and flexibility",
-    "summary": "Asus delivers professional precision and premium gaming performance with the ProArt PA32UCDMR. It also comes with a slick calibrator and controller combination, and sports an all-metal chassis with elegant style.",
-    "link": "https://www.tomshardware.com/monitors/asus-proart-pa32ucdmr-32-inch-4k-professional-oled-monitor-review",
-    "categories": [
-      "Hardware",
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-08-04T11:08:31.061348"
+    "quality_score": 5,
+    "processed_date": "2026-08-05T11:04:59.246050"
   },
   {
-    "title": "Gaming on the 4GB Radeon RX 6500 XT and GTX 1650 Super in 2026 upscaling makes low-end GPUs viable for esports and internet cafes",
-    "summary": "Practically every graphics card introduced since 2022 has had at least 6GB or 8GB of VRAM, but AMD is bucking that trend in 2026 with the new RX 9050 4GB. We dusted off two older 4GB cards to see if that little VRAM means an instant performance cliff.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/gaming-on-the-4gb-radeon-rx-6500-xt-and-gtx-1650-super-in-2026",
+    "title": "Kioxia and Sandisk demonstrate the world's highest-density 3D NAND flash 332 active layers and up to 4,800 MT/s interface",
+    "summary": "Kioxia and Sandisk introduce BiCS10 3D QLC NAND device with a record areal density of over 37 Gbit/mm^2.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-demonstrate-the-worlds-highest-density-3d-nand-flash-332-active-layers-and-up-to-4-800-mt-s-interface",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-05T11:04:59.246118"
+  },
+  {
+    "title": "New HBF spec outlines tech that can give GPUs terabytes of extra memory Sandisk and SK hynix unveil spec with up to 16-Hi NAND stacks, 3 TB/s bandwidth, UCIe",
+    "summary": "Sandisk and SK hynix formally introduce HBF specification that promises up to 3 TB/s of bandwidth eventually, though only four companies are currently interested in the technology.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/sandisk-and-sk-hynix-unveil-hbf-spec-up-to-16-hi-nand-stacks-3-tb-s-bandwidth-ucie",
     "categories": [
       "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-04T11:08:31.061462"
+    "processed_date": "2026-08-05T11:04:59.246193"
   },
   {
-    "title": "Espressif ESP32-C61-MINI-1/1U Wi-Fi 6 and BLE IoT module launched for about $2",
-    "summary": "Back in 2024, Espressif Systems introduced the ESP32-C61 2.4 GHz WiFi 6 and Bluetooth LE (BLE) SoC as a low-cost variant of the ESP32-C6 without an 802.15.4 radio, a single RISC-V core, and lower-capacity SRAM (320KB vs 512KB). We had first seen the ESP32-C61 in the Wireless Tag ESP32P4C61 board introduced last June in a Kickstarter campaign last June, but Espressif has now started to sell samples of the ESP32-C61-MINI-1 and ESP32-C61-MINI-1U on AliExpress for $10.7 for a pack of 5 pieces, or around $2 per module. ESP32-C61-MINI-1/1U Module specifications: SoC ESP32-C61 CPU core Single-core 32-bit RISC-V microprocessor up to 160 MHz Memory 320KB SRAM Up to 8 MB PSRAM Storage 256KB ROM Up to 8 MB Quad SPI flash Wireless 2.4 GHz WiFi 1T1R Frequency: 2412 ~ 2484 MHz IEEE 802.11ax-compliant 20 MHz-only non-AP mode MCS0 ~ MCS9 Uplink and downlink OFDMA Downlink MU-MIMO Target wake time [...] The post Espressif ESP32-C61-MINI-1/1U Wi-Fi 6 and BLE IoT module launched for about $2 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/04/espressif-esp32-c61-mini-1-1u-wi-fi-6-and-ble-iot-module-2-dollars/",
+    "title": "PC cooling outfit Arctic reverses tariff-era price hikes after US government refund lowers prices across lineup, including coolers and case fans",
+    "summary": "The company says it is honoring its earlier promise to reverse tariff-driven price increases, becoming one of the first PC hardware vendors to publicly roll back pricing after a major court ruling.",
+    "link": "https://www.tomshardware.com/pc-components/cooling/pc-cooling-outfit-arctic-reverses-tariff-era-price-hikes-after-us-government-refund-lowers-prices-across-lineup-including-coolers-and-case-fans",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-08-04T11:08:31.062000"
+    "quality_score": 5,
+    "processed_date": "2026-08-05T11:04:59.246271"
   },
   {
-    "title": "BG2B is the lowest-power Bluetooth LE SoC from Silicon Labs so far",
-    "summary": "Silicon Labs BG2B is an ultra-low-power Arm Cortex-M33 Bluetooth 6 LE SoC with support for Channel Sounding, Secure Vault High security, and integrated CAN-FD and peripherals such as LED drivers and ADCs for smaller, longer-lasting IoT devices. The company claims it s the lowest-power Bluetooth LE device in its portfolio, with 1.1 A EM2 sleep current with RAM retention, as well as 14%-15% lower MCU active current and lower Bluetooth receive current compared to Silicon Labs BG22/BG22L. The new microcontroller targets secure ranging, asset tracking, electronic shelf labels (ESLs), smart home, industrial monitoring, and vehicle diagnostics. Silicon Labs BG2B specifications: CPU core 32-bit Arm Cortex-M33 @ 80 MHz with DSP instructions and floating-point unit (FPU) Memory 64 kB or 128 kB SRAM Storage 1016 kB flash Wireless 2.4 GHz radio Modulation Formats OQPSK DSSS 2 (G)FSK with fully configurable shaping (G)MSK Protocols Bluetooth Low Energy 6 Channel [...] The post BG2B is the lowest-power Bluetooth LE SoC from Silicon Labs so far appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/04/bg2b-lowest-power-bluetooth-le-soc-from-silicon-labs/",
+    "title": "Chinese chipmaking tool roadmaps examined Beijing's nascent lithography tools target DUV production at five machines a year, and an EUV prototype with no chips",
+    "summary": "Ultimately, three markers will indicate whether China s domestic DUV program is a legitimate rival or yet more state-sanctioned hot air.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/chinese-chipmaking-tool-roadmap-examined",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-05T11:04:59.246346"
+  },
+  {
+    "title": "At least 37 people arrested in 2026 so far for protesting against data centers, most for breaking 'petty rules' most taken into custody acted peacefully",
+    "summary": "Data center protesters are getting arrested for minor infractions, yet they continue pushing back against these projects. Aside from the arrests, there's also at least 12 instances (probably more) where the police were called to intervene between politicians and protesters.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/at-least-37-people-arrested-in-2026-so-far-for-protesting-against-data-centers-most-taken-into-custody-acted-peacefully-only-broke-petty-rules",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-05T11:04:59.246428"
+  },
+  {
+    "title": "Lenovo LOQ Essentials 15 Gen 11 Review: A good display meets a low-power RTX 5060",
+    "summary": "The Lenovo LOQ Essentials 15 Gen 11 pairs an RTX 5060, 144 Hz display, and excellent upgradeability with a comfortable keyboard, but its low-power GPU configuration and outdated CPU leave it struggling against rivals at the same price.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/lenovo-loq-essentials-15-gen-11-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-05T11:04:59.246506"
+  },
+  {
+    "title": " Apple is getting this wrong, says OpenAI startup blasts iPhone maker over lawsuit alleging it stole confidential information through ex-Apple employees",
+    "summary": "OpenAI denies Apple's allegations in a blog post. The company claims that it doesn't have and even doesn't want its rivals trade secrets.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/apple-is-getting-this-wrong-says-openai-startup-blasts-iphone-maker-over-lawsuit-alleging-it-stole-confidential-information-through-ex-apple-employees",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-05T11:04:59.246578"
+  },
+  {
+    "title": "Chinese ship spotted lurking over Taiwan-US undersea cables 'research vessel' seen loitering above the 8,000-mile Pacific Light Cable Network fiber-optic system",
+    "summary": "A new video shows Taiwan s Coast Guard warning a 200-ft long Chinese-flagged research vessel, spotted loitering over a fiber internet cable, to change course.",
+    "link": "https://www.tomshardware.com/networking/chinese-ship-spotted-lurking-over-taiwan-us-undersea-cables-research-vessel-seen-loitering-above-the-8-000-mile-pacific-light-cable-network-fiber-optic-system",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-05T11:04:59.246650"
+  },
+  {
+    "title": "Large-scale LoRaWAN deployments become easier through QR codes and relays",
+    "summary": "LoRaWAN devices typically require users to enter parameters such as the DevEUI, JoinEUI (formerly AppEUI), AppKey, and potentially the DevAddr plus the session keys, depending on the activation mode (ABP vs OTAA). This is manageable for a handful of devices, but becomes time-consuming, error-prone, and costly at scale. To make the onboarding process easier and scale LoRaWAN networks more effectively, the LoRa Alliance has now introduced three new documents: the TS014 and TS018 specifications and the TR016 technical recommendations. They should all help users get a device onto a network quickly, securely, and with minimal manual work, such as scanning a QR code. Here are the links and summaries for all three documents: TS014-1.0.0 LoRaWAN End-Device Capabilities API Specification TS014 eliminates manual data entry and proprietary workarounds by enabling LoRaWAN networks to automatically pull device profiles. It specifically describes a standard interface which enables the hNS (Home Network [...] The post Large-scale LoRaWAN deployments become easier through QR codes and relays appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/05/large-scale-lorawan-deployments-become-easier-through-qr-codes-and-relays/",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-05T11:04:59.247080"
+  },
+  {
+    "title": "ZecTrix Note 4 A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks",
+    "summary": "Designed by ZecTrix Lab in China, the Note 4 is an ESP32-S3-based AI smart note with a 4.2-inch e-paper display and built-in voice input. The device is designed to display reminders, notes, clocks, weather, images, and custom templates, while the Note 4C variant replaces the monochrome display with a four-color e-paper panel. The device features 2.4GHz Wi-Fi and Bluetooth 5.0 connectivity, a microphone, a speaker, NFC, physical buttons, a USB Type-C port, a 2,000mAh rechargeable battery, and GPIO expansion for custom hardware projects. ZecTrix Note 4 / Note 4C specifications: SoC Espressif Systems ESP32-S3 CPU Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM 512KB SRAM; 8MB PSRAM Wireless WiFi 4 and Bluetooth LE 5 Storage 16MB flash Display Note 4 4.2-inch monochrome E-Ink display, 400 300 resolution; supports partial refresh Note 4C 4.2-inch four-color (BWRY) E-Ink display, [...] The post ZecTrix Note 4 A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/05/zectrix-note-4-a-4-2-inch-esp32-s3-wireless-e-paper-display-for-voice-tasks/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-04T11:08:31.062166"
+    "processed_date": "2026-08-05T11:04:59.247207"
   },
   {
-    "title": "ChronoWatch X2040 A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware",
-    "summary": "If you ve ever wanted to build your own watch, the ChronoWatch X2040 DIY watch allows you to do it the easy way with a Waveshare RP2040-Touch-LCD-1.28 touch LCD board, a 3D-printed case, a 3.7V LiPo battery, a few screws, and firmware using the Pico C/C++ SDK. When Vishal Soni decided he wanted to build a watch, he initially planned to design a custom board, but since there are already several round LCD boards based on Raspberry Pi RP2040 MCU, he went with a Waveshare board, preferring to spend more time on firmware programming. ChronoWatch X2040 parts: Waveshare RP2040-Touch-LCD-1.28 with Raspberry Pi RP2040 MCU and 1.28-inch round touch display About $23 to $29 on Amazon, AliExpress, or the Waveshare store. 3D printed case designed with Tinkercad 3.7V 950mAh Lipo battery (35 x 25 x 10 mm) M2 4mm screw M2 heat inserts 2-pin MX1.25 connector 1mm heat shrink sleeve tube [...] The post ChronoWatch X2040 A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/03/chronowatch-x2040-a-diy-watch-with-off-the-shelf-raspberry-pi-rp2040-round-display-3d-printed-case-and-custom-firmware/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.062349"
-  },
-  {
-    "title": "NASA puts Crew-13's launch-pad escape in the hands of the 11-times-recalled Cybertruck",
-    "summary": "Making a hasty exit away from the launch pad should something go wrong is important, obviously, but given the potentially destructive power of a rocket, the vehicle coming to astronauts' aid also needs to be sturdy. Read Entire Article",
-    "link": "https://www.techspot.com/news/113345-nasa-puts-crew-13-launch-pad-escape-hands.html",
+    "title": "CtrlVibe AI Console keypad An OpenAI Codex Micro alternative for AI workflows (Crowdfunding)",
+    "summary": "The CtrlVibe AI Console is a programmable desktop keypad designed for AI workflows. The device includes hardware controls for switching between AI tools, launching shortcuts, selecting execution modes, and recording voice input. It comes with nine programmable mechanical keys, a rotary encoder, a three-position switch, a 1.14-inch LCD, a built-in MEMS microphone, USB-C and Bluetooth connectivity, and RGB status lighting. The features and specifications of the CtrlVibe make it an alternative to Work Louder Codex Micro, a $230 mechanical macropad designed for OpenAI Codex. There is also an open-source firmware project available for the M5Stack Core2 that reproduces many of the Codex Micro s features. While the Codex Micro is designed specifically for OpenAI Codex, the CtrlVibe AI Console can be used with multiple AI tools and uses a rotary encoder to switch between applications or models, along with a three-position hardware switch for selecting AI execution modes. CtrlVibe AI Console [...] The post CtrlVibe AI Console keypad An OpenAI Codex Micro alternative for AI workflows (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/05/ctrlvibe-ai-console-keypad-an-openai-codex-micro-alternative-for-ai-workflows/",
     "categories": [
       "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.063503"
-  },
-  {
-    "title": "Michael Dell's son and a SpaceX alum want to put battery storage in every backyard",
-    "summary": "Home battery storage, which can lower electric bills by feeding power back to the grid, is gaining popularity across the US, particularly in warmer regions. A startup led by Zach Dell shows how the industry is expanding options for grid operators. Read Entire Article",
-    "link": "https://www.techspot.com/news/113339-michael-dell-son-spacex-alum-want-put-battery.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.063619"
-  },
-  {
-    "title": "Valve publicly releases Lepton and FEX compatibility tools to power Steam Frame gaming",
-    "summary": "Valve recently updated the Steam pages for Lepton and FEX, two tools designed to improve compatibility between the popular PC gaming platform and Arm-based devices. The tools are expected to play a major role in turning the upcoming Steam Frame into a \"real\" gaming headset from the get-go. Read Entire Article",
-    "link": "https://www.techspot.com/news/113337-valve-publicly-releases-lepton-fex-compatibility-tools-power.html",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.063739"
-  },
-  {
-    "title": "Tencent pulls the plug on GTA rival Last Sentinel after spending $300 million over six years",
-    "summary": "While Tencent disputes the cancellation rumors, Bloomberg News claims that the project is effectively dead, with around 80 developers reportedly laid off this week. Lightspeed LA confirmed the layoffs, citing a \"shift (in) creative and development direction\" following \"extensive internal reviews and play-testing.\" Read Entire Article",
-    "link": "https://www.techspot.com/news/113335-tencent-pulls-plug-gta-rival-last-sentinel-after.html",
-    "categories": [
-      "AI & ML",
       "Hardware"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-08-04T11:08:31.063857"
+    "quality_score": 10,
+    "processed_date": "2026-08-05T11:04:59.247342"
   },
   {
-    "title": "VirtualDJ combines powerful mixing tools and real-time stems without the cost",
-    "summary": "VirtualDJ is free for home use, giving aspiring DJs access to pro-grade mixing tools without requiring dedicated hardware. The software supports real-time stem separation, audio, video, and karaoke mixing, effects, loops, and recording. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/5623-virtual-dj-free-home-edition.html",
+    "title": "reComputer Mini J501 Edge AI computer features NVIDIA Jetson AGX Orin 64GB/32GB module, two FAKRA camera connectors",
+    "summary": "Designed for robotics applications, the reComputer Mini J501 is an Edge AI computer powered by an NVIDIA Jetson AGX Orin 64GB or 32GB module, delivering up ot 275 TOPS of AI performance. The computer features 10GbE and GbE RJ45 ports, HDMI 2.1 video output, two USB 3.2 ports, two USB 2.0 Type-C Debug/Recovery ports, a 128 M.2 NVMe SSD, two FAKRA connectors for up to eight GMSL2 cameras, and a range of other I/O connectors. reComputer Mini J501 specifications: System-on-module (one or the other) NVIDIA Jetson AGX Orin 32GB (reComputer Mini J5011 model) CPU 8-core Arm Cortex-A78AE v8.2 64-bit processor @ 2.2 GHz with 2MB L2 + 4MB L3 cache GPU and AI NVIDIA Ampere architecture with 1792 NVIDIA CUDA cores and 56 Tensor Cores @ 930 MHz DL Accelerator 2x NVDLA Engines @ up to 1.4 GHz Up to 200 TOPS Video Encode 1x 4K60 | 3x 4K30 [...] The post reComputer Mini J501 Edge AI computer features NVIDIA Jetson AGX Orin 64GB/32GB module, two FAKRA camera connectors appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/04/recomputer-mini-j501-edge-ai-computer-features-nvidia-jetson-agx-orin-64gb-32gb-module-two-fakra-camera-connectors/",
     "categories": [
-      "Hardware"
+      "Hardware",
+      "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.063963"
+    "quality_score": 20,
+    "processed_date": "2026-08-05T11:04:59.247463"
   },
   {
-    "title": "Linux just cracked 10% desktop usage in North America, but no one's sure why",
-    "summary": "The shift stands out because the change was not gradual but abrupt. Linux's rise came largely at Windows' expense, while OS X saw only limited movement over the same period. That makes the month-to-month swing look less like a slow adoption trend and more like a sharp change in the... Read Entire Article",
-    "link": "https://www.techspot.com/news/113326-linux-cracked-10-desktop-usage-north-america-but.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.064086"
-  },
-  {
-    "title": "Windows Task Manager's original creator is bringing a new version to Mac first",
-    "summary": "David Plummer is working on a new Task Manager tool and is bringing it to macOS first. Simply named Task Manager OG (TMOG), the program is designed to offer a \"serious\" system console to people working on GUI-based operating systems. Furthermore, TMOG focuses specifically on code efficiency, depth of information,... Read Entire Article",
-    "link": "https://www.techspot.com/news/113333-windows-task-manager-original-creator-bringing-new-version.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.064195"
-  },
-  {
-    "title": "What was the first consumer gadget to feature a foldable display?",
-    "summary": "The foldable phone race had a winner nobody saw coming. Read Entire Article",
-    "link": "https://www.techspot.com/trivia/180-what-first-consumer-gadget-feature-foldable-display/",
+    "title": "The lidar robotaxi debate continues, updated by Waymo s Dolgov",
+    "summary": "Waymo co-CEO Dolgov didn t name Tesla, but defended camera, lidar and radar as a requirement for its robotaxis",
+    "link": "https://www.fiercesensors.com/sensors-fusion/lidar-robotaxi-debate-continues-updated-waymos-dolgov",
     "categories": [
       "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-08-04T11:08:31.064285"
+    "processed_date": "2026-08-05T11:04:59.248237"
   },
   {
-    "title": "Gigabyte's new 27-inch QD-OLED monitor drops to $299",
-    "summary": "Gigabyte's GO27Q24A is currently available for just $299 at Newegg, down from its $450 MSRP. The 27-inch 1440p monitor uses Samsung's third-gen QD-OLED panel, pairing it with a 240Hz refresh rate, HDMI 2.1, DisplayPort 1.4, and Gigabyte's OLED Care features. While we haven't reviewed it yet, Samsung's proven panel makes it a compelling option at this price. Read Entire Article",
-    "link": "https://www.techspot.com/products/monitors/gigabyte-go27q24a.326057/",
+    "title": "Anthropic AI went rogue during a cyber test and tried to deceive real developers into approving malicious code",
+    "summary": "The findings come from the UK government-backed AI Security Institute (AISI), which was evaluating frontier models' cybersecurity abilities. Read Entire Article",
+    "link": "https://www.techspot.com/news/113362-anthropic-ai-went-rogue-during-cyber-test-tried.html",
     "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-04T11:08:31.064423"
-  },
-  {
-    "title": "BMW is putting Spider-Man ads on your dashboard, after promising it never would",
-    "summary": "The promotion began on July 27, 2026, and is scheduled to run through August 10 across more than 70 markets. On supported vehicles, starting the car brings up a banner on the Control Display, and tapping it launches a full-screen Spider-Man animation with music and ambient lighting effects. BMW says... Read Entire Article",
-    "link": "https://www.techspot.com/news/113327-bmw-putting-spider-man-ads-dashboard-after-promising.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
+      "AI & ML",
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.064537"
+    "processed_date": "2026-08-05T11:04:59.248466"
   },
   {
-    "title": "Economist Steve Hanke says AI won't destroy most jobs because it costs more than hiring humans",
-    "summary": "Steve Hanke, a professor of applied economics at Johns Hopkins University and a former senior economist on President Ronald Reagan's Council of Economic Advisers, doesn't buy into a lot of the AI hype both the good and the bad. Read Entire Article",
-    "link": "https://www.techspot.com/news/113332-economist-ai-wont-replace-most-jobs-or-make.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.064645"
-  },
-  {
-    "title": "Tomb Raider: Legacy of Atlantis is getting a rare full physical release on PC",
-    "summary": "Amazon Game Studios is apparently going to do something rather unusual with Tomb Raider: Legacy of Atlantis. The upcoming modern remake of the original Tomb Raider game will feature a \"full physical\" release on PC. Preorders on Amazon are clearly promoting the on-disc option, although there are no specific details... Read Entire Article",
-    "link": "https://www.techspot.com/news/113331-tomb-raider-legacy-atlantis-getting-rare-full-physical.html",
+    "title": "Essential Apps to Install on Windows and macOS",
+    "summary": "Just unboxed a new computer? Here's our curated list of essential Windows and macOS apps for productivity, security, entertainment, and everything you need to get up and running. Read Entire Article",
+    "link": "https://www.techspot.com/article/2974-desktop-software-essentials/",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.064759"
+    "processed_date": "2026-08-05T11:04:59.248538"
   },
   {
-    "title": "Dozens of police officers accused of using license plate cameras to track women",
-    "summary": "The main tool being misused is Flock Safety, a network of roadside cameras that scan and catalog billions of license plates each month. The firm says its network spans more than 6,000 communities, with devices designed to capture plates in difficult conditions, including at night and in heavy rain, using... Read Entire Article",
-    "link": "https://www.techspot.com/news/113325-dozens-police-officers-accused-using-license-plate-cameras.html",
+    "title": "The first Googlebook shows us what Google's Android-ChromeOS merger actually looks like",
+    "summary": "Google unveiled the Googlebook laptop in May, explaining that several OEMs would be joining in with their own take on the AI-ready machine. Thanks to Digital Citizen, we now have a closer look at the Googlebook Lenovo is building for a late-2026 release. The Lenovo Googlebook 15 carries some design... Read Entire Article",
+    "link": "https://www.techspot.com/news/113354-first-googlebook-shows-us-what-google-android-chromeos.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-05T11:04:59.248619"
+  },
+  {
+    "title": "Texas hits pause on 1,800 data center projects to scrutinize power and water demands",
+    "summary": "The state wants more information before granting access. Abbott said applicants must provide tax break details, power use and generation data, water use and cooling plans, steps to reduce community impact, and facility ownership information. Any project missing that information will not be allowed onto the grid. Read Entire Article",
+    "link": "https://www.techspot.com/news/113355-texas-hits-pause-1800-data-center-projects-scrutinize.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.064868"
+    "processed_date": "2026-08-05T11:04:59.248698"
   },
   {
-    "title": "OpenAI reaches one billion active users as it cuts GPT-5.6 prices by up to 80%",
-    "summary": "On July 30, OpenAI cut the price of GPT-5.6 Luna by 80%. It now costs $0.20 per million input tokens and $1.20 per million output tokens, down from $1 and $6, respectively. GPT-5.6 Terra received a smaller 20% reduction, taking its prices from $2.50 and $15 to $2 and $12. The price of Sol, OpenAI's flagship and highest-capability model, remains unchanged. Read Entire Article",
-    "link": "https://www.techspot.com/news/113329-openai-reaches-one-billion-active-users-cuts-gpt.html",
+    "title": "AI is flooding Apple with fake bug reports, and real $200K macOS exploit got lost in the noise",
+    "summary": "Security researchers at Bynario recently told the Financial Times that Apple's new bug bounty policy held up its efforts to report dozens of vulnerabilities. Among them was a privilege escalation exploit worth up to $200,000 on the black market. Read Entire Article",
+    "link": "https://www.techspot.com/news/113353-ai-flooding-apple-fake-bug-reports-real-200k.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-05T11:04:59.248793"
+  },
+  {
+    "title": "Lego's latest Hubble set lets you look inside one of history's greatest space telescopes",
+    "summary": "The model reflects Hubble's current configuration after its final servicing mission in 2009. Inside are brick-built versions of key instruments still in use today, including the Space Telescope Imaging Spectrograph, Cosmic Origins Spectrograph, Advanced Camera for Surveys, and Near Infrared Camera and Multi-Object Spectrometer. Their placement follows the layout of... Read Entire Article",
+    "link": "https://www.techspot.com/news/113344-lego-latest-hubble-set-you-look-inside-one.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-04T11:08:31.064980"
+    "processed_date": "2026-08-05T11:04:59.248881"
+  },
+  {
+    "title": "High Bandwidth Flash gets first technical specification for AI data centers",
+    "summary": "A year ago, SanDisk and SK Hynix announced a collaboration to develop a common standard for the High Bandwidth Flash (HBF) project. The new type of memory is designed to improve performance and power efficiency in AI data centers and can now be implemented in new data center projects thanks... Read Entire Article",
+    "link": "https://www.techspot.com/news/113341-high-bandwidth-flash-gets-first-technical-specification-ai.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 25,
+    "processed_date": "2026-08-05T11:04:59.248960"
+  },
+  {
+    "title": "TikTok settles three addiction lawsuits as new case blames social media for teen suicides",
+    "summary": "The lawsuit was filed in the Superior Court of Delaware on behalf of the victims by the Social Media Victims Law Center, a national legal advocacy organization representing families who say they have been harmed by social media and AI platforms. According to the complaint, the four teens who died... Read Entire Article",
+    "link": "https://www.techspot.com/news/113350-tiktok-settles-three-addiction-lawsuits-new-case-blames.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-05T11:04:59.249043"
+  },
+  {
+    "title": "VMware Workstation Pro 26H1 brings architectural upgrades and expanded OS support",
+    "summary": "VMware Workstation Pro 26H1 is the latest version of the go-to desktop hypervisor for developers and power users. Now fully free for commercial and personal use, it runs Windows, Linux, and BSD virtual machines side-by-side on a single PC no rebooting, no repartitioning. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-05T11:04:59.249119"
+  },
+  {
+    "title": "Researchers claim a major quantum computing breakthrough by proving the answer was correct",
+    "summary": "Until now, most experiments have relied on random circuit sampling, a benchmark designed to produce outputs that are difficult for classical computers to simulate. The issue is that as those computations become more complex, verifying the results becomes nearly impossible without making assumptions about the quantum system itself. Read Entire Article",
+    "link": "https://www.techspot.com/news/113346-quantum-computing-breakthrough-tackles-one-field-biggest-problems.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-08-05T11:04:59.249202"
+  },
+  {
+    "title": "Microsoft warns Russian hackers are hijacking hotel Wi-Fi to steal user accounts",
+    "summary": "Microsoft calls the operation the almost cereal-sounding name of CaptiveCrunch. It says the attacks have been active since at least early May and are being carried out by Storm-2945, an operational sub-cluster of Midnight Blizzard. The infamous Midnight Blizzard, also known as Cozy Bear, APT29, and Nobelium, is linked to... Read Entire Article",
+    "link": "https://www.techspot.com/news/113351-microsoft-warns-russian-hackers-hijacking-hotel-wi-fi.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-05T11:04:59.249280"
+  },
+  {
+    "title": "Xbox 360 games could soon be playable on PCs, handhelds, and next-gen Xbox consoles",
+    "summary": "According to the document seen by The Verge, Xbox 360 games will be able to run not only on Microsoft's upcoming Project Helix console, but also on \"Xbox PCs\" and handheld devices. That follows earlier signals that Helix will support PC games, suggesting Microsoft is building a system where the... Read Entire Article",
+    "link": "https://www.techspot.com/news/113343-xbox-360-games-could-soon-playable-pcs-handhelds.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-05T11:04:59.249356"
+  },
+  {
+    "title": "Lawsuit claims Micron's $100 billion New York chip fab could discharge \"forever chemicals\" into the Oneida River",
+    "summary": "The Article 78 petition was filed in Albany County Supreme Court on July 31 by Neighbors for a Better Micron and Jobs to Move America. It names New York's Department of Environmental Conservation, Onondaga County, and Micron as respondents. Read Entire Article",
+    "link": "https://www.techspot.com/news/113349-lawsuit-claims-micron-100-billion-new-york-chip.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-05T11:04:59.249433"
+  },
+  {
+    "title": "Microsoft wants Apple to bring seamless copy and paste between Windows PCs and iPhones",
+    "summary": "MacRumors recently spotted a request from Microsoft to Apple to enhance copy-and-paste capabilities between Windows and Apple devices in Europe. If implemented, the functionality might resemble the Universal Clipboard that currently works across iPhones, iPads, and Macs. Read Entire Article",
+    "link": "https://www.techspot.com/news/113340-microsoft-wants-apple-bring-seamless-copy-paste-between.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-05T11:04:59.249512"
+  },
+  {
+    "title": "Amazon is blocking some users from seeing reviews after mistaking them for AI bots",
+    "summary": "Fast Company reports that the restrictions began appearing late last year. Amazon confirmed that safeguards designed to prevent unauthorized scraping can incorrectly target genuine customers, though it described the incidents as isolated. Read Entire Article",
+    "link": "https://www.techspot.com/news/113347-amazon-shoppers-blocked-seeing-reviews-after-mistaken-ai.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-05T11:04:59.249589"
+  },
+  {
+    "title": "Samsung is cracking down on TV apps that quietly rent out your bandwidth",
+    "summary": "After being contacted by TechCrunch, Samsung said it has started blocking new apps that include this capability and is working to remove those already in its app store. \"We have already restricted new app registrations that incorporate such proxy functionalities on our Smart TV platform,\" a Samsung spokesperson told the... Read Entire Article",
+    "link": "https://www.techspot.com/news/113342-samsung-removing-smart-tv-apps-secretly-turn-users.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-05T11:04:59.249667"
   }
 ]

@@ -1,135 +1,155 @@
 # 💻 Hardware
-**Week of August 04, 2026**
+**Week of August 05, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 12
-- **Report generated:** 2026-08-04 11:09
+- **Articles this week:** 14
+- **Report generated:** 2026-08-05 11:06
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Asus ProArt PA32UCDMR 32-inch 4K professional OLED monitor review: Precision, speed, and flexibility ⭐
+### 1. reComputer Mini J501 Edge AI computer features NVIDIA Jetson AGX Orin 64GB/32GB module, two FAKRA camera connectors ⭐
 
-Asus' ProArt PA32UCDMR 32-inch 4K OLED monitor delivers precision and premium gaming performance. It boasts a sleek all-metal chassis and a calibrator and controller combo. This monitor is ideal for professionals and gamers alike.
+The reComputer Mini J501 is an Edge AI computer powered by an NVIDIA Jetson AGX Orin module, offering 275 TOPS of AI performance and various ports for camera and I/O connections.
 
-💡 *Professional-grade display meets gaming performance and elegant design*
+💡 *Enables efficient AI processing in robotics and industrial applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/asus-proart-pa32ucdmr-32-inch-4k-professional-oled-monitor-review)
-
----
-
-### 2. Espressif ESP32-C61-MINI-1/1U Wi-Fi 6 and BLE IoT module launched for about $2 ⭐
-
-Espressif Systems has introduced the ESP32-C61-MINI-1/1U module with Wi-Fi 6 and BLE capabilities for around $2, offering a low-cost variant of the ESP32-C6 without an 802.15.4 radio. The module features a single RISC-V core, 320KB SRAM, and support for 2.4 GHz WiFi 6 and Bluetooth LE. It is now available on AliExpress for $10.7 per pack of 5 modules.
-
-💡 *Low-cost Wi-Fi 6 and BLE module for IoT applications at $2 price point.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/04/espressif-esp32-c61-mini-1-1u-wi-fi-6-and-ble-iot-module-2-dollars/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/04/recomputer-mini-j501-edge-ai-computer-features-nvidia-jetson-agx-orin-64gb-32gb-module-two-fakra-camera-connectors/)
 
 ---
 
-### 3. Tencent pulls the plug on GTA rival Last Sentinel after spending $300 million over six years ⭐
+### 2. Large-scale LoRaWAN deployments become easier through QR codes and relays ⭐
 
-Tencent's project, Last Sentinel, has been effectively canceled after six years and $300 million investment. Bloomberg News reported that around 80 developers were laid off. Lightspeed LA confirmed the layoffs due to a creative direction shift.
+New LoRaWAN specifications and recommendations simplify large-scale deployments by enabling automatic device onboarding through QR codes and network interfaces. The TS014 End-Device Capabilities API Specification reduces manual data entry and proprietary workarounds. This results in faster, more secure, and cost-effective network setup.
 
-💡 *Failed game project highlights risks of large-scale video game investments.*
+💡 *Simplified onboarding accelerates large-scale LoRaWAN network deployments significantly*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113335-tencent-pulls-plug-gta-rival-last-sentinel-after.html)
-
----
-
-### 4. BG2B is the lowest-power Bluetooth LE SoC from Silicon Labs so far 
-
-Silicon Labs' BG2B is an ultra-low-power Bluetooth 6 LE SoC with enhanced security features, targeting various IoT applications. It boasts 1.1 A EM2 sleep current, 14-15% lower MCU active current, and improved Bluetooth receive current. This SoC caters to secure ranging, asset tracking, and smart home devices.
-
-💡 *Silicon Labs BG2B offers industry-leading low power consumption for Bluetooth LE.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/04/bg2b-lowest-power-bluetooth-le-soc-from-silicon-labs/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/05/large-scale-lorawan-deployments-become-easier-through-qr-codes-and-relays/)
 
 ---
 
-### 5. 16GB GPUs and 8-core CPUs officially become the most popular configs on Steam Latest hardware survey shows modern gaming's growing hunger for more resources 
+### 3. Montech TG3 Panoramic Mid-tower case review: a fantastic value, with four included RGB fans and panoramic views 
 
-Steam's latest hardware survey shows 8-core CPUs and 16GB GPUs becoming the new standard, indicating a shift towards more resource-intensive gaming.
+The Montech TG3 mid-tower case offers a fantastic value with ample room for components and four included RGB fans, providing solid noise-normalized cooling and a good noise profile.
 
-💡 *Rising demand for high-performance gaming requires significant hardware upgrades*
+💡 *High-performance cooling at an affordable budget-friendly price point.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/16gb-gpus-and-8-core-cpus-officially-become-the-most-popular-configs-on-steam-latest-hardware-survey-shows-modern-gamings-growing-hunger-for-more-resources)
-
----
-
-### 6. Three major PC makers now using Chinese memory to fight 'unprecedented memory shortage,' report claims HP, Asus, and Acer using 'small amounts' of CXMT chips in limited number of notebooks for non-US market 
-
-HP, Asus, and Acer reportedly use Chinese memory in non-US markets to address memory shortages.
-
-💡 *PC makers resort to local supply to mitigate global memory scarcity.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/three-major-pc-makers-now-using-chinese-memory-to-fight-unprecedented-memory-shortage-report-claims-hp-asus-and-acer-using-small-amounts-of-cxmt-chips-in-limited-number-of-notebooks-for-non-us-market)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review)
 
 ---
 
-### 7. This 144-piece toolkit is a must-buy for hobbyists and PC builders for under $40 pocket a 20% saving on this screwdriver set with two drivers, 120 magnetic bits, and 22 repair tools for your projects 
+### 4. Glorious Wireless InfinitePlay Gaming Headset Review 
 
-Get a comprehensive 144-piece Strebito toolkit with 120 magnetic bits and more for under $40, saving 20%.
+The Glorious Wireless InfinitePlay headset offers solid sound and quality comms at an affordable price.
 
-💡 *Affordable, extensive toolkit for hobbyists and PC builders*
+💡 *Balanced performance meets affordability in a wireless gaming headset option.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/pc-building/this-144-piece-toolkit-is-a-must-buy-for-hobbyists-and-pc-builders-for-under-usd40-pocket-a-20-percent-saving-on-this-screwdriver-set-with-two-drivers-120-magnetic-bits-and-22-repair-tools-for-your-projects)
-
----
-
-### 8. ChronoWatch X2040 A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware 
-
-The ChronoWatch X2040 is a DIY watch made with a RP2040-based touch LCD board, a 3D-printed case, and custom firmware. This project shows how a round display watch can be built easily using off-the-shelf components. It also highlights the versatility of the Raspberry Pi RP2040.
-
-💡 *Raspberry Pi's RP2040 enables easy DIY projects like smartwatches and wearables.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/03/chronowatch-x2040-a-diy-watch-with-off-the-shelf-raspberry-pi-rp2040-round-display-3d-printed-case-and-custom-firmware/)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/glorious-wireless-infiniteplay-gaming-headset-review)
 
 ---
 
-### 9. VirtualDJ combines powerful mixing tools and real-time stems without the cost 
+### 5. Crazed modder turns NAS into a gaming PC with RTX 5060 hanging from the side, boosts frame rate by 828% Frankenstein rig hides dedicated PSU in drive bay, breaks Time Spy world record for the onboard CPU 
 
-VirtualDJ provides professional-grade mixing tools for free, empowering aspiring DJs worldwide with advanced features.
+A modder has upgraded a NAS server with an RTX 5060, achieving significant gaming performance boosts.
 
-💡 *Cost-effective access to professional-grade DJing capabilities*
+💡 *Unconventional modding can unlock immense performance potential in existing hardware.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/5623-virtual-dj-free-home-edition.html)
-
----
-
-### 10. Linux just cracked 10% desktop usage in North America, but no one's sure why 
-
-Linux desktop usage in North America reached 10% in a sudden shift, mostly at Windows' expense.
-
-💡 *Abrupt Linux adoption challenges Windows' long-standing desktop market dominance.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113326-linux-cracked-10-desktop-usage-north-america-but.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/humble-nas-gets-transformed-into-a-gaming-pc-with-and-rtx-5060-hanging-from-its-side-frankenstein-rig-hides-dedicated-psu-in-drive-bay-to-achieve-vast-performance-increase-over-igpu)
 
 ---
 
-### 11. BMW is putting Spider-Man ads on your dashboard, after promising it never would 
+### 6. Lenovo LOQ Essentials 15 Gen 11 Review: A good display meets a low-power RTX 5060 
 
-BMW is promoting Spider-Man through animated ads on car dashboards in over 70 markets from July 27 to August 10, 2026.
+The Lenovo LOQ Essentials 15 Gen 11 offers a good display and upgradeability, but its low-power GPU and outdated CPU hinder its performance.
 
-💡 *BMW breaks promise of not displaying ads on dashboards unexpectedly.*
+💡 *Low-power GPU holds back high-end features at this price point.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113327-bmw-putting-spider-man-ads-dashboard-after-promising.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/lenovo-loq-essentials-15-gen-11-review)
 
 ---
 
-### 12. Tomb Raider: Legacy of Atlantis is getting a rare full physical release on PC 
+### 7. ZecTrix Note 4 A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks 
 
-Tomb Raider: Legacy of Atlantis is getting a rare PC physical release. Amazon preorders are promoting the on-disc option. Details are still unclear.
+The ZecTrix Note 4 is a smart note with a 4.2-inch e-paper display, voice input, and Wi-Fi/Bluetooth connectivity for display reminders, notes, and other information.
 
-💡 *Physical PC releases are a rare and nostalgic gaming experience.*
+💡 *AI-powered smart notes with e-paper displays offer unique user experiences.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113331-tomb-raider-legacy-atlantis-getting-rare-full-physical.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/05/zectrix-note-4-a-4-2-inch-esp32-s3-wireless-e-paper-display-for-voice-tasks/)
+
+---
+
+### 8. CtrlVibe AI Console keypad An OpenAI Codex Micro alternative for AI workflows (Crowdfunding) 
+
+The CtrlVibe AI Console is a programmable keypad for AI workflows, offering features like hardware controls, a rotary encoder, and RGB status lighting. It serves as an alternative to the Work Louder Codex Micro, designed for OpenAI Codex. The CtrlVibe AI Console can be used with multiple AI tools.
+
+💡 *CtrlVibe offers AI workflow flexibility with customizable hardware controls*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/05/ctrlvibe-ai-console-keypad-an-openai-codex-micro-alternative-for-ai-workflows/)
+
+---
+
+### 9. Amazon is blocking some users from seeing reviews after mistaking them for AI bots 
+
+Amazon is blocking some users from seeing reviews due to mistaken AI bot detection.
+
+💡 *Amazon's AI safeguards can incorrectly target genuine customers, impacting user experience.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113347-amazon-shoppers-blocked-seeing-reviews-after-mistaken-ai.html)
+
+---
+
+### 10. PC cooling outfit Arctic reverses tariff-era price hikes after US government refund lowers prices across lineup, including coolers and case fans 
+
+Arctic reverses tariff-era price hikes following US government refund, lowering prices across its lineup.
+
+💡 *Price transparency in PC hardware industry gains momentum after court ruling.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cooling/pc-cooling-outfit-arctic-reverses-tariff-era-price-hikes-after-us-government-refund-lowers-prices-across-lineup-including-coolers-and-case-fans)
+
+---
+
+### 11. Essential Apps to Install on Windows and macOS 
+
+Get started with your new computer by installing these essential apps for a smooth and productive experience.
+
+💡 *Essential apps boost productivity, security, and entertainment on new devices.*
+
+🔗 [Read Full Article](https://www.techspot.com/article/2974-desktop-software-essentials/)
+
+---
+
+### 12. VMware Workstation Pro 26H1 brings architectural upgrades and expanded OS support 
+
+VMware Workstation Pro 26H1 supports multiple OS on a single PC without rebooting. It provides a free, seamless virtualization experience for developers and power users. This version offers architectural upgrades and expanded OS support.
+
+💡 *Seamless multi-OS virtualization boosts productivity for developers and power users.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html)
+
+---
+
+### 13. Xbox 360 games could soon be playable on PCs, handhelds, and next-gen Xbox consoles 
+
+Xbox 360 games may become playable on various Microsoft devices, including PCs, handhelds, and next-gen Xbox consoles.
+
+💡 *Microsoft is building a unified gaming ecosystem across multiple platforms.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113343-xbox-360-games-could-soon-playable-pcs-handhelds.html)
+
+---
+
+### 14. Microsoft wants Apple to bring seamless copy and paste between Windows PCs and iPhones 
+
+Microsoft has requested Apple to improve copy and paste functionality between Windows PCs and iPhones in Europe, potentially mirroring Universal Clipboard features.
+
+💡 *Enhanced cross-platform compatibility boosts productivity and user experience.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113340-microsoft-wants-apple-bring-seamless-copy-paste-between.html)
 
 ---
 
