@@ -1,5 +1,5 @@
 # 🎮 GPUs
-**Week of August 05, 2026**
+**Week of August 06, 2026**
 
 *Graphics cards and compute accelerators*
 
@@ -7,79 +7,79 @@
 
 ## 📊 Summary
 - **Articles this week:** 7
-- **Report generated:** 2026-08-05 11:06
+- **Report generated:** 2026-08-06 11:07
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. reComputer Mini J501 Edge AI computer features NVIDIA Jetson AGX Orin 64GB/32GB module, two FAKRA camera connectors ⭐
+### 1. Elon Musk says SpaceX will exclusively use Nvidia GPUs 'because they are the best' says optimized Vera Rubin NVL72 will be launched into space next year ⭐
 
-The reComputer Mini J501 is an Edge AI computer powered by an NVIDIA Jetson AGX Orin module, offering 275 TOPS of AI performance and various ports for camera and I/O connections.
+SpaceX and xAI will exclusively use Nvidia GPUs for AI tasks due to the exceptional performance of Nvidia's Vera Rubin architecture. This strategic partnership aims to leverage Nvidia's expertise in AI compute architecture. The optimized Vera Rubin NVL72 is set to be launched into space next year.
 
-💡 *Enables efficient AI processing in robotics and industrial applications.*
+💡 *Nvidia's AI compute architecture is considered the industry's top technology.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/04/recomputer-mini-j501-edge-ai-computer-features-nvidia-jetson-agx-orin-64gb-32gb-module-two-fakra-camera-connectors/)
-
----
-
-### 2. Frore claims its LiquidJet can drop Nvidia Rubin GPU temperatures by 10 C can also boost performance by 15% as hyperscalers eye using delidded GPUs in production environments 
-
-Frore's LiquidJet coldplate is claimed to lower Nvidia Rubin GPU temperatures by 10°C and boost performance by 15%. This innovation could improve the efficiency of AI data centers, a crucial element for their economic efficiency. Hyperscalers are considering the use of delidded GPUs in production environments.
-
-💡 *Economic efficiency of AI data centers depends on effective GPU cooling solutions.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/frore-claims-its-liquidjet-can-drop-nvidia-rubin-gpu-temperatures-by-10-c-can-also-boost-performance-by-15-percent-as-hyperscalers-eye-using-delidded-gpus-in-production-environments)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year)
 
 ---
 
-### 3. Glorious Wireless InfinitePlay Gaming Headset Review 
+### 2. $200 slashed off Gigabyte's 4th-Gen WOLED gaming monitor 280Hz beast also packs a KVM and tactical gaming switch for just $399 
 
-The Glorious Wireless InfinitePlay headset offers solid sound and quality comms at an affordable price.
+Save $200 on Gigabyte's 27-inch WOLED gaming monitor with 280Hz display, KVM, and tactical gaming switch for $399.
 
-💡 *Balanced performance meets affordability in a wireless gaming headset option.*
+💡 *High-end gaming features at a significantly reduced price point.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/glorious-wireless-infiniteplay-gaming-headset-review)
-
----
-
-### 4. Crazed modder turns NAS into a gaming PC with RTX 5060 hanging from the side, boosts frame rate by 828% Frankenstein rig hides dedicated PSU in drive bay, breaks Time Spy world record for the onboard CPU 
-
-A modder has upgraded a NAS server with an RTX 5060, achieving significant gaming performance boosts.
-
-💡 *Unconventional modding can unlock immense performance potential in existing hardware.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/humble-nas-gets-transformed-into-a-gaming-pc-with-and-rtx-5060-hanging-from-its-side-frankenstein-rig-hides-dedicated-psu-in-drive-bay-to-achieve-vast-performance-increase-over-igpu)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/usd200-slashed-off-gigabytes-4th-gen-woled-gaming-monitor-280hz-beast-also-packs-a-kvm-and-tactical-gaming-switch-for-just-usd399)
 
 ---
 
-### 5. New HBF spec outlines tech that can give GPUs terabytes of extra memory Sandisk and SK hynix unveil spec with up to 16-Hi NAND stacks, 3 TB/s bandwidth, UCIe 
+### 3. $4,429 order for a ROG Astral RTX 5090 cancelled by Nvidia due to a 'late' price increase, with Asus blamed marketplace buyer refunded after immediate $500 increase, with top-spec GPU now almost 2.5x higher than MSRP 
 
-SanDisk and SK hynix unveil HBF spec for high-speed memory expansion in GPUs, reaching up to 3 TB/s bandwidth and using up to 16-Hi NAND stacks.
+Nvidia cancelled an Asus ROG Astral RTX 5090 order due to price increase, blaming Asus for confusion. The GPU's price now exceeds its MSRP by 2.5 times after a $500 price hike. A buyer was refunded immediately.
 
-💡 *Massive memory expansion for GPUs revolutionizes computing and AI capabilities.*
+💡 *Nvidia's price hikes and supply issues harm buyers and gamers*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/sandisk-and-sk-hynix-unveil-hbf-spec-up-to-16-hi-nand-stacks-3-tb-s-bandwidth-ucie)
-
----
-
-### 6. Lenovo LOQ Essentials 15 Gen 11 Review: A good display meets a low-power RTX 5060 
-
-The Lenovo LOQ Essentials 15 Gen 11 offers a good display and upgradeability, but its low-power GPU and outdated CPU hinder its performance.
-
-💡 *Low-power GPU holds back high-end features at this price point.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/lenovo-loq-essentials-15-gen-11-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/usd4-429-order-for-a-rog-astral-rtx-5090-cancelled-by-nvidia-due-to-a-late-price-increase-with-asus-blamed-marketplace-buyer-refunded-after-immediate-usd500-increase-with-top-spec-gpu-now-almost-2-5x-higher-than-msrp)
 
 ---
 
-### 7. AMD doubles data center revenue year over year, but gaming revenue plunged by 31% CEO Lisa Su says prices have 'weighed on' consumer demand but is 'optimistic' about client market 
+### 4. Huge $750 saving makes this Gigabyte OLED gaming laptop with an RTX 5070 Ti an absolute steal right now just $1,999 for 1600p rig with 32GB DDR5, 1TB SSD, and a 24-core Intel CPU 
 
-AMD reported record revenue in Q2 2026 with doubled data center sales, but its gaming revenue declined by 31%. CEO Lisa Su attributed the decline to 'weighed on' consumer demand due to high prices. She remains optimistic about the client market.
+Save $750.99 on the Gigabyte Aorus Master OLED gaming laptop, featuring an RTX 5070 Ti, 32GB DDR5, 1TB SSD, and a 24-core Intel CPU, now priced at $1,999.
 
-💡 *High prices impact consumer demand for AMD gaming products sharply.*
+💡 *High-end gaming laptop with OLED display at a significantly discounted price.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/amd-doubles-data-center-revenue-year-over-year-but-gaming-revenue-plunged-by-31-percent-ceo-lisa-su-says-prices-have-weighed-on-consumer-demand-but-is-optimistic-about-client-market)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/huge-usd750-saving-makes-this-gigabyte-oled-gaming-laptop-with-an-rtx-5070-ti-an-absolute-steal-right-now-just-usd1-999-for-1600p-rig-with-32gb-ddr5-1tb-ssd-and-a-24-core-intel-cpu)
+
+---
+
+### 5. Microsoft removes support page recommending 32GB RAM for gaming PCs 
+
+Microsoft has removed a support page recommending 32GB RAM for gaming PCs due to supply crunch issues.
+
+💡 *Supply chain struggles force Microsoft to reconsider gaming PC requirements*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113369-microsoft-removes-support-page-recommending-32gb-ram-gaming.html)
+
+---
+
+### 6. SteamOS runs surprisingly well on AMD Strix Halo laptop in AAA gaming tests 
+
+SteamOS runs surprisingly well on an AMD-powered laptop in AAA gaming tests, indicating its potential as a gaming platform.
+
+💡 *AMD's iGPU offers competitive performance for AAA gaming with SteamOS.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113364-steamos-runs-surprisingly-well-amd-strix-halo-laptop.html)
+
+---
+
+### 7. AMD's data center business just more than doubled, and gaming is paying the price 
+
+AMD's revenue reached a record $11.5 billion, driven by its data center business. The data center segment accounted for 58% of the company's revenue in the quarter. This growth came at the expense of AMD's gaming business.
+
+💡 *AMD's focus on data centers is eclipsing its gaming revenue.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113358-amd-data-center-business-more-than-doubled-gaming.html)
 
 ---
 

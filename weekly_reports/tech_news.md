@@ -1,115 +1,85 @@
 # 📰 Tech News
-**Week of August 05, 2026**
+**Week of August 06, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-08-05 11:06
+- **Articles this week:** 7
+- **Report generated:** 2026-08-06 11:07
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. High Bandwidth Flash gets first technical specification for AI data centers ⭐
+### 1. China's CXMT targets 30% DRAM memory market share by 2030 with sixth mega-fab future plans bottlenecked by access to advanced chipmaking tools 
 
-SanDisk and SK Hynix release a technical spec for HBF, a high-performance memory type designed for AI data centers, enabling implementation in new projects.
+China's CXMT aims to capture 30% DRAM market share by 2030. The company plans to build its sixth DRAM fab to boost production capacity. This move could potentially more than double CXMT's output by mid-term.
 
-💡 *Improved performance and power efficiency for AI data centers.*
+💡 *China's memory chip ambition could reshuffle global tech landscape*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113341-high-bandwidth-flash-gets-first-technical-specification-ai.html)
-
----
-
-### 2. Researchers claim a major quantum computing breakthrough by proving the answer was correct ⭐
-
-Researchers prove a major quantum computing breakthrough with new verification method.
-
-💡 *Verifying complex quantum computations without assumptions is now possible.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113346-quantum-computing-breakthrough-tackles-one-field-biggest-problems.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/chinas-cxmt-targets-30-percent-dram-memory-market-share-by-2030-with-sixth-mega-fab-future-plans-bottlenecked-by-access-to-advanced-chipmaking-tools)
 
 ---
 
-### 3. Montech TG3 Panoramic Mid-tower case review: a fantastic value, with four included RGB fans and panoramic views 
+### 2. Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter 
 
-The Montech TG3 mid-tower case offers a fantastic value with ample room for components and four included RGB fans, providing solid noise-normalized cooling and a good noise profile.
+Antmicro released an open-source Thunderbolt to dual 10GbE adapter for high-speed Ethernet applications. The adapter serves as a reference design for customizable accessories in various industries. It features Intel X710-AT2 Ethernet controller and Thunderbolt 3 controller.
 
-💡 *High-performance cooling at an affordable budget-friendly price point.*
+💡 *Enabling high-speed Ethernet expansion in edge devices and smart terminals.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review)
-
----
-
-### 4. CtrlVibe AI Console keypad An OpenAI Codex Micro alternative for AI workflows (Crowdfunding) 
-
-The CtrlVibe AI Console is a programmable keypad for AI workflows, offering features like hardware controls, a rotary encoder, and RGB status lighting. It serves as an alternative to the Work Louder Codex Micro, designed for OpenAI Codex. The CtrlVibe AI Console can be used with multiple AI tools.
-
-💡 *CtrlVibe offers AI workflow flexibility with customizable hardware controls*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/05/ctrlvibe-ai-console-keypad-an-openai-codex-micro-alternative-for-ai-workflows/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/)
 
 ---
 
-### 5. The first Googlebook shows us what Google's Android-ChromeOS merger actually looks like 
+### 3. Apple's iCloud Private Relay feature is leaking users' real IP addresses 
 
-Google's Lenovo Googlebook 15 laptop shows off the Android-ChromeOS merger, a late-2026 release.
+Apple's iCloud Private Relay feature is leaking users' IP addresses due to three WebKit features that bypass proxy settings.
 
-💡 *Unified ecosystem unites AI-ready Android and Chrome OS for seamless user experience.*
+💡 *Security vulnerabilities expose users' real IP addresses despite intended anonymity.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113354-first-googlebook-shows-us-what-google-android-chromeos.html)
-
----
-
-### 6. Texas slams on the brakes for 1,800 data centers, power grid requirements are five times higher than peak record demand 474 gigawatts of power requests are now subject to new moratorium 
-
-Texas has imposed a moratorium on 1,800 data center applications to review power use and water consumption. The move aims to ensure developers provide accurate information. The pause is in response to low compliance rates.
-
-💡 *Data centers' high power demand threatens Texas's grid stability and resources.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/texas-slams-on-the-breaks-for-1-800-data-centers-power-grid-requirements-are-five-times-higher-than-peak-record-demand-474-gigawatts-of-power-requests-are-now-subject-to-new-moratorium)
+🔗 [Read Full Article](https://www.techspot.com/news/113380-apple-icloud-private-relay-feature-leaking-users-real.html)
 
 ---
 
-### 7. Kioxia and Sandisk demonstrate the world's highest-density 3D NAND flash 332 active layers and up to 4,800 MT/s interface 
+### 4. Beelink SER10 Max Mini PC review: Gorgon Pointcomes ready to dual-boot Windows and Ubuntu 
 
-Kioxia and Sandisk introduce the BiCS10 3D QLC NAND device, achieving a record areal density of over 37 Gbit/mm^2. This milestone pushes the boundaries of 3D NAND flash technology. The device features 332 active layers and supports high-speed interfaces of up to 4,800 MT/s.
+The Beelink SER10 Max Mini PC is a compact device that can dual-boot Windows 11 and Ubuntu, with OpenClaw pre-installed for enhanced functionality. It offers a seamless user experience with the ability to switch between two operating systems. This versatility makes it an attractive option for developers and tech enthusiasts.
 
-💡 *Breaking density records accelerates mass storage innovation and capacity growth*
+💡 *Dual-booting capabilities expand users' operating system options*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-demonstrate-the-worlds-highest-density-3d-nand-flash-332-active-layers-and-up-to-4-800-mt-s-interface)
-
----
-
-### 8.  Apple is getting this wrong, says OpenAI startup blasts iPhone maker over lawsuit alleging it stole confidential information through ex-Apple employees 
-
-OpenAI denies Apple's allegations of stealing confidential information through ex-employees.
-
-💡 *Rival company's integrity questioned by major tech lawsuit allegations.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/big-tech/apple-is-getting-this-wrong-says-openai-startup-blasts-iphone-maker-over-lawsuit-alleging-it-stole-confidential-information-through-ex-apple-employees)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/beelink-ser10-max-mini-pc-review)
 
 ---
 
-### 9. Microsoft warns Russian hackers are hijacking hotel Wi-Fi to steal user accounts 
+### 5. Greece is using thermal satellites to spot wildfires before people do 
 
-Microsoft discovered a hacking operation, CaptiveCrunch, targeting hotel Wi-Fi networks. The attacks, carried out by Storm-2945, a sub-cluster of Midnight Blizzard, aim to steal user accounts. This has been active since at least early May.
+Greece is using a constellation of satellites to detect wildfires before they spread. Developed by OroraTech and the Hellenic Space Centre, the system uses low Earth orbit satellites to repeatedly pass over the same areas. This allows for early fire detection and quick response.
 
-💡 *Sensitive user data at risk due to hotel network vulnerabilities.*
+💡 *Early fire detection enables swift response and saves lives.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113351-microsoft-warns-russian-hackers-hijacking-hotel-wi-fi.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113363-greece-using-thermal-satellites-spot-wildfires-before-people.html)
 
 ---
 
-### 10. The lidar robotaxi debate continues, updated by Waymo s Dolgov 
+### 6. DuckDuckGo made sunglasses that do absolutely nothing, and they sold out 
 
-Waymo co-CEO Dolgov defends lidar, camera, and radar for safe robotaxis, hinting at rival's limitations.
+DuckDuckGo's 'Normal F***ing Sunglasses' are ordinary shades with no added features, selling out despite their lack of innovation.
 
-💡 *Lidar and sensors ensure safe robotaxis, not just flashy autonomous tech.*
+💡 *Privacy concerns can be a major driver of consumer behavior and purchasing decisions.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/lidar-robotaxi-debate-continues-updated-waymos-dolgov)
+🔗 [Read Full Article](https://www.techspot.com/news/113357-duckduckgo-made-sunglasses-do-absolutely-nothing-they-sold.html)
+
+---
+
+### 7. EA is now owned by Saudi Arabia's sovereign wealth fund after $55 billion deal 
+
+EA has been acquired by the Saudi Arabia sovereign wealth fund for $55 billion, following a successful deal closure.
+
+💡 *Global gaming industry shifts to Middle Eastern ownership and influence.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113360-ea-55-billion-saudi-led-takeover-complete-jared.html)
 
 ---
 

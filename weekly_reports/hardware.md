@@ -1,155 +1,145 @@
 # 💻 Hardware
-**Week of August 05, 2026**
+**Week of August 06, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-08-05 11:06
+- **Articles this week:** 13
+- **Report generated:** 2026-08-06 11:07
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. reComputer Mini J501 Edge AI computer features NVIDIA Jetson AGX Orin 64GB/32GB module, two FAKRA camera connectors ⭐
+### 1. Espressif Systems releases ESP RainMaker Neo open-source device-to-cloud-to-phone IoT platform ⭐
 
-The reComputer Mini J501 is an Edge AI computer powered by an NVIDIA Jetson AGX Orin module, offering 275 TOPS of AI performance and various ports for camera and I/O connections.
+Espressif Systems has released ESP RainMaker Neo, an open-source IoT platform, providing a complete device-to-cloud-to-phone app stack. It is built on AWS Serverless architecture and allows customers to host the cloud backend on their own AWS instance(s), providing more flexibility and control. The new implementation is recommended for new deployments.
 
-💡 *Enables efficient AI processing in robotics and industrial applications.*
+💡 *Increased flexibility and control for IoT deployments*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/04/recomputer-mini-j501-edge-ai-computer-features-nvidia-jetson-agx-orin-64gb-32gb-module-two-fakra-camera-connectors/)
-
----
-
-### 2. Large-scale LoRaWAN deployments become easier through QR codes and relays ⭐
-
-New LoRaWAN specifications and recommendations simplify large-scale deployments by enabling automatic device onboarding through QR codes and network interfaces. The TS014 End-Device Capabilities API Specification reduces manual data entry and proprietary workarounds. This results in faster, more secure, and cost-effective network setup.
-
-💡 *Simplified onboarding accelerates large-scale LoRaWAN network deployments significantly*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/05/large-scale-lorawan-deployments-become-easier-through-qr-codes-and-relays/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/06/espressif-systems-releases-esp-rainmaker-neo-open-source-device-to-cloud-to-phone-iot-platform/)
 
 ---
 
-### 3. Montech TG3 Panoramic Mid-tower case review: a fantastic value, with four included RGB fans and panoramic views 
+### 2. Microsoft quietly purges 32GB of RAM recommendations from its website company reels from the effects of the memory shortage as it released 8GB base models for Surface laptops this year 
 
-The Montech TG3 mid-tower case offers a fantastic value with ample room for components and four included RGB fans, providing solid noise-normalized cooling and a good noise profile.
+Microsoft removed 32GB RAM recommendations from its website, citing memory price spikes.
 
-💡 *High-performance cooling at an affordable budget-friendly price point.*
+💡 *Rising memory costs force manufacturers to reconsider hardware upgrades.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review)
-
----
-
-### 4. Glorious Wireless InfinitePlay Gaming Headset Review 
-
-The Glorious Wireless InfinitePlay headset offers solid sound and quality comms at an affordable price.
-
-💡 *Balanced performance meets affordability in a wireless gaming headset option.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-headsets/glorious-wireless-infiniteplay-gaming-headset-review)
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-quietly-purges-32gb-of-ram-recommendations-from-its-website-company-reels-from-the-effects-of-the-memory-shortage-as-it-released-8gb-base-models-for-surface-laptops-this-year)
 
 ---
 
-### 5. Crazed modder turns NAS into a gaming PC with RTX 5060 hanging from the side, boosts frame rate by 828% Frankenstein rig hides dedicated PSU in drive bay, breaks Time Spy world record for the onboard CPU 
+### 3. Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter 
 
-A modder has upgraded a NAS server with an RTX 5060, achieving significant gaming performance boosts.
+Antmicro released an open-source Thunderbolt to dual 10GbE adapter for high-speed Ethernet applications. The adapter serves as a reference design for customizable accessories in various industries. It features Intel X710-AT2 Ethernet controller and Thunderbolt 3 controller.
 
-💡 *Unconventional modding can unlock immense performance potential in existing hardware.*
+💡 *Enabling high-speed Ethernet expansion in edge devices and smart terminals.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/humble-nas-gets-transformed-into-a-gaming-pc-with-and-rtx-5060-hanging-from-its-side-frankenstein-rig-hides-dedicated-psu-in-drive-bay-to-achieve-vast-performance-increase-over-igpu)
-
----
-
-### 6. Lenovo LOQ Essentials 15 Gen 11 Review: A good display meets a low-power RTX 5060 
-
-The Lenovo LOQ Essentials 15 Gen 11 offers a good display and upgradeability, but its low-power GPU and outdated CPU hinder its performance.
-
-💡 *Low-power GPU holds back high-end features at this price point.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/lenovo-loq-essentials-15-gen-11-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/)
 
 ---
 
-### 7. ZecTrix Note 4 A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks 
+### 4. Big Walk turns cooperative exploration into one of 2026's most acclaimed multiplayer experiences 
 
-The ZecTrix Note 4 is a smart note with a 4.2-inch e-paper display, voice input, and Wi-Fi/Bluetooth connectivity for display reminders, notes, and other information.
+Big Walk stands out for its cooperative exploration and emergent gameplay. Critics praise its focus on communication and teamwork. The game has minor pacing and movement issues but is still a standout multiplayer experience.
 
-💡 *AI-powered smart notes with e-paper displays offer unique user experiences.*
+💡 *Communication and teamwork are key to successful cooperative gameplay.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/05/zectrix-note-4-a-4-2-inch-esp32-s3-wireless-e-paper-display-for-voice-tasks/)
-
----
-
-### 8. CtrlVibe AI Console keypad An OpenAI Codex Micro alternative for AI workflows (Crowdfunding) 
-
-The CtrlVibe AI Console is a programmable keypad for AI workflows, offering features like hardware controls, a rotary encoder, and RGB status lighting. It serves as an alternative to the Work Louder Codex Micro, designed for OpenAI Codex. The CtrlVibe AI Console can be used with multiple AI tools.
-
-💡 *CtrlVibe offers AI workflow flexibility with customizable hardware controls*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/05/ctrlvibe-ai-console-keypad-an-openai-codex-micro-alternative-for-ai-workflows/)
+🔗 [Read Full Article](https://www.techspot.com/products/pc-games/big-walk.330531/)
 
 ---
 
-### 9. Amazon is blocking some users from seeing reviews after mistaking them for AI bots 
+### 5. Beelink SER10 Max Mini PC review: Gorgon Pointcomes ready to dual-boot Windows and Ubuntu 
 
-Amazon is blocking some users from seeing reviews due to mistaken AI bot detection.
+The Beelink SER10 Max Mini PC is a compact device that can dual-boot Windows 11 and Ubuntu, with OpenClaw pre-installed for enhanced functionality. It offers a seamless user experience with the ability to switch between two operating systems. This versatility makes it an attractive option for developers and tech enthusiasts.
 
-💡 *Amazon's AI safeguards can incorrectly target genuine customers, impacting user experience.*
+💡 *Dual-booting capabilities expand users' operating system options*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113347-amazon-shoppers-blocked-seeing-reviews-after-mistaken-ai.html)
-
----
-
-### 10. PC cooling outfit Arctic reverses tariff-era price hikes after US government refund lowers prices across lineup, including coolers and case fans 
-
-Arctic reverses tariff-era price hikes following US government refund, lowering prices across its lineup.
-
-💡 *Price transparency in PC hardware industry gains momentum after court ruling.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cooling/pc-cooling-outfit-arctic-reverses-tariff-era-price-hikes-after-us-government-refund-lowers-prices-across-lineup-including-coolers-and-case-fans)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/beelink-ser10-max-mini-pc-review)
 
 ---
 
-### 11. Essential Apps to Install on Windows and macOS 
+### 6. VPN provider built a script to block Microsoft's hidden GDID tracking on Windows Windscribe's "deGDID" erases existing identifiers and blocks new ones from being created 
 
-Get started with your new computer by installing these essential apps for a smooth and productive experience.
+Windscribe's deGDID script deletes cached GDID keys and blocks new ones from being created, potentially disrupting Microsoft services and features.
 
-💡 *Essential apps boost productivity, security, and entertainment on new devices.*
+💡 *Blocking Microsoft's GDID tracking erases sensitive user data collection*
 
-🔗 [Read Full Article](https://www.techspot.com/article/2974-desktop-software-essentials/)
-
----
-
-### 12. VMware Workstation Pro 26H1 brings architectural upgrades and expanded OS support 
-
-VMware Workstation Pro 26H1 supports multiple OS on a single PC without rebooting. It provides a free, seamless virtualization experience for developers and power users. This version offers architectural upgrades and expanded OS support.
-
-💡 *Seamless multi-OS virtualization boosts productivity for developers and power users.*
-
-🔗 [Read Full Article](https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html)
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/vpn-provider-windscribe-has-built-a-script-to-block-microsofts-persistent-gdid-tracking-on-windows-degdid-erases-existing-identifiers-and-blocks-new-ones-from-being-created)
 
 ---
 
-### 13. Xbox 360 games could soon be playable on PCs, handhelds, and next-gen Xbox consoles 
+### 7. Microsoft wants the next-gen Xbox Helix to play every Xbox game ever made as it urges publishers to opt in New report also claims Xbox 360 games coming to PC soon 
 
-Xbox 360 games may become playable on various Microsoft devices, including PCs, handhelds, and next-gen Xbox consoles.
+Microsoft aims to make the Xbox Helix play every Xbox game ever made, unifying generations under one roof. This move blurs the lines between console and PC gaming. Xbox 360 games may also be coming to PC.
 
-💡 *Microsoft is building a unified gaming ecosystem across multiple platforms.*
+💡 *Microsoft unifies Xbox generations, creating a seamless gaming ecosystem.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113343-xbox-360-games-could-soon-playable-pcs-handhelds.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/microsoft-wants-the-next-gen-xbox-helix-to-play-every-xbox-game-ever-made-as-it-urges-publishers-to-opt-in-new-report-also-claims-xbox-360-games-coming-to-pc-soon)
 
 ---
 
-### 14. Microsoft wants Apple to bring seamless copy and paste between Windows PCs and iPhones 
+### 8. Score all the essentials of a great gaming PC for only $983.98 $155 savings nets 9800X3D, 1TB Samsung 9100 SSD, 16GB of DDR5 RAM, Asus B850 motherboard, and free MSI AIO 
 
-Microsoft has requested Apple to improve copy and paste functionality between Windows PCs and iPhones in Europe, potentially mirroring Universal Clipboard features.
+Save $155 on a gaming PC combo with high-performance specs for $983.98. This bundle includes the AMD Ryzen 9 9800X3D processor, 1TB Samsung 9100 SSD, 16GB of DDR5 RAM, and Asus B850 motherboard. Additionally, an MSI AIO is included for free.
 
-💡 *Enhanced cross-platform compatibility boosts productivity and user experience.*
+💡 *Optimized gaming performance at affordable price point for budget-conscious gamers*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113340-microsoft-wants-apple-bring-seamless-copy-paste-between.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/score-all-the-essentials-of-a-great-gaming-pc-for-only-usd983-98-usd155-savings-nets-9800x3d-1tb-samsung-9100-ssd-16gb-of-ddr5-ram-asus-b850-motherboard-and-free-msi-aio)
+
+---
+
+### 9. US military GPS jamming exercise suspected of contributing to civilian plane crash in New Mexico medevac flight lost signal before flying into a mountain, killing everyone onboard 
+
+A medevac flight in New Mexico crashed due to GPS interference, allegedly caused by nearby US military units' jamming exercise. The pilots were unable to receive critical navigation information, leading to the accident. This incident highlights the potential consequences of military GPS jamming on civilian air traffic.
+
+💡 *GPS jamming can have devastating consequences for civilian aviation safety.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-military-gps-jamming-exercise-suspected-of-contributing-to-civilian-plane-crash-in-new-mexico-medevac-flight-lost-signal-before-flying-into-a-mountain-killing-everyone-onboard)
+
+---
+
+### 10. Huge $750 saving makes this Gigabyte OLED gaming laptop with an RTX 5070 Ti an absolute steal right now just $1,999 for 1600p rig with 32GB DDR5, 1TB SSD, and a 24-core Intel CPU 
+
+Save $750.99 on the Gigabyte Aorus Master OLED gaming laptop, featuring an RTX 5070 Ti, 32GB DDR5, 1TB SSD, and a 24-core Intel CPU, now priced at $1,999.
+
+💡 *High-end gaming laptop with OLED display at a significantly discounted price.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/huge-usd750-saving-makes-this-gigabyte-oled-gaming-laptop-with-an-rtx-5070-ti-an-absolute-steal-right-now-just-usd1-999-for-1600p-rig-with-32gb-ddr5-1tb-ssd-and-a-24-core-intel-cpu)
+
+---
+
+### 11. Microsoft removes support page recommending 32GB RAM for gaming PCs 
+
+Microsoft has removed a support page recommending 32GB RAM for gaming PCs due to supply crunch issues.
+
+💡 *Supply chain struggles force Microsoft to reconsider gaming PC requirements*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113369-microsoft-removes-support-page-recommending-32gb-ram-gaming.html)
+
+---
+
+### 12. SteamOS runs surprisingly well on AMD Strix Halo laptop in AAA gaming tests 
+
+SteamOS runs surprisingly well on an AMD-powered laptop in AAA gaming tests, indicating its potential as a gaming platform.
+
+💡 *AMD's iGPU offers competitive performance for AAA gaming with SteamOS.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113364-steamos-runs-surprisingly-well-amd-strix-halo-laptop.html)
+
+---
+
+### 13. LocalSend is like AirDrop that actually works everywhere 
+
+LocalSend is a free, open-source app that allows peer-to-peer file transfers over a local network, encrypted end-to-end, and compatible with multiple operating systems.
+
+💡 *Seamless cross-platform file sharing without relying on cloud services*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7814-localsend.html)
 
 ---
 
