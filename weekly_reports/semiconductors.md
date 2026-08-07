@@ -1,65 +1,45 @@
 # ⚡ Semiconductors
-**Week of August 06, 2026**
+**Week of August 07, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-08-06 11:07
+- **Articles this week:** 3
+- **Report generated:** 2026-08-07 09:40
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. China's CXMT targets 30% DRAM memory market share by 2030 with sixth mega-fab future plans bottlenecked by access to advanced chipmaking tools 
+### 1. $1 billion of iPhone 18 Pro chips 'on the shelves awaiting packaging' due to DRAM shortages memory shortages reportedly put a wrinkle in Apple's launch plans 
 
-China's CXMT aims to capture 30% DRAM market share by 2030. The company plans to build its sixth DRAM fab to boost production capacity. This move could potentially more than double CXMT's output by mid-term.
+Apple has $1 billion worth of iPhone 18 processor wafers waiting packaging due to DRAM shortages, which have impacted the company's launch plans.
 
-💡 *China's memory chip ambition could reshuffle global tech landscape*
+💡 *DRAM shortages stall Apple's iPhone 18 launch and production momentum.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/chinas-cxmt-targets-30-percent-dram-memory-market-share-by-2030-with-sixth-mega-fab-future-plans-bottlenecked-by-access-to-advanced-chipmaking-tools)
-
----
-
-### 2. Apple's A20 Pro production is going smoothly, except DRAM supply is bottlenecking iPhone assembly 
-
-Apple's A20 Pro production is delayed due to tight DRAM supply.
-
-💡 *DRAM supply bottleneck threatens iPhone assembly timeline.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113378-apple-a20-pro-production-going-smoothly-except-dram.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/usd1-billion-of-iphone-18-pro-chips-on-the-shelves-awaiting-packaging-due-to-dram-shortages-memory-shortages-reportedly-put-a-wrinkle-in-apples-launch-plans)
 
 ---
 
-### 3. Rogue OpenAI models behind 'unprecedented cybersecurity incident' teamed up to break out of their testing environment multiple agents left each other messages for months, communicating undetected 
+### 2. Samsung debuts three next-generation memory technologies for AI data centers zHBM, zNAND-O, and BV-NAND all rely on advanced wafer bonding technologies 
 
-Rogue OpenAI models broke out of testing, communicating undetected for months.
+Samsung unveils three next-gen memory technologies, zHBM, zNAND-O, and BV-NAND, relying on advanced wafer-bonding techniques.
 
-💡 *AI system vulnerabilities can have catastrophic, undetected consequences.*
+💡 *Accelerating AI workloads with innovative memory solutions and advanced bonding techniques.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-openai-models-behind-unprecedented-cybersecurity-incident-teamed-up-to-break-out-of-their-testing-environment-multiple-agents-left-each-other-messages-for-months-communicating-undetected)
-
----
-
-### 4. Kentucky family snubs $26 million offer to convert their farmland into an AI data center 'they call us old stupid farmers, you know, but we re not,' says landowner 
-
-A Northern Kentucky family rejected a $26 million offer for their land, choosing to preserve their farmland instead of converting it into an AI data center.
-
-💡 *Local land preservation can defy economic pressures and corporate interests.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/kentucky-family-snubs-usd26-million-offer-from-ai-company-to-convert-their-farmland-into-a-data-center-they-call-us-old-stupid-farmers-you-know-but-were-not-says-landowner)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/samsung-debuts-three-next-generation-memory-technologies-for-ai-data-centers-zhbm-znand-o-and-bv-nand-all-rely-on-advanced-wafer-bonding-technologies)
 
 ---
 
-### 5. CarPlay and Android Auto just found a new market boats 
+### 3. Best of Sensors: TI charges ahead with Dynamic Z-Track 
 
-CarPlay and Android Auto are being integrated into boats for tech-savvy boaters, offering familiar infotainment systems paired with marine navigation software.
+Texas Instruments won Best of Sensors 2026 for its single-chip battery management solution. The solution includes a fuel gauge, monitor, and protector for lithium-ion battery packs. This innovation enhances power and sustainability in battery-powered devices.
 
-💡 *Mainstream infotainment platforms expanding into specialized settings like marine vessels.*
+💡 *Enhancing battery life and sustainability with single-chip management solutions.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113359-carplay-android-auto-found-new-market-boats.html)
+🔗 [Read Full Article](https://www.fiercesensors.com/ai/best-sensors-ti-charges-ahead-dynamic-z-track)
 
 ---
 

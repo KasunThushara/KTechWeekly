@@ -1,145 +1,115 @@
 # 💻 Hardware
-**Week of August 06, 2026**
+**Week of August 07, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-08-06 11:07
+- **Articles this week:** 10
+- **Report generated:** 2026-08-07 09:40
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Espressif Systems releases ESP RainMaker Neo open-source device-to-cloud-to-phone IoT platform ⭐
+### 1. Sandisk Optimus GX 7100M 2TB SSD review: The best 2230 drive you can buy for the Steam Deck ⭐
 
-Espressif Systems has released ESP RainMaker Neo, an open-source IoT platform, providing a complete device-to-cloud-to-phone app stack. It is built on AWS Serverless architecture and allows customers to host the cloud backend on their own AWS instance(s), providing more flexibility and control. The new implementation is recommended for new deployments.
+The Sandisk Optimus GX 7100M is a top-tier M.2 2230 SSD offering high performance and great power efficiency, available up to 2TB. It provides excellent support for the Steam Deck and other compact devices. This drive is ideal for gamers and professionals who require fast storage solutions.
 
-💡 *Increased flexibility and control for IoT deployments*
+💡 *Optimized for Steam Deck, delivering ultra-fast storage on the go*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/06/espressif-systems-releases-esp-rainmaker-neo-open-source-device-to-cloud-to-phone-iot-platform/)
-
----
-
-### 2. Microsoft quietly purges 32GB of RAM recommendations from its website company reels from the effects of the memory shortage as it released 8GB base models for Surface laptops this year 
-
-Microsoft removed 32GB RAM recommendations from its website, citing memory price spikes.
-
-💡 *Rising memory costs force manufacturers to reconsider hardware upgrades.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/microsoft-quietly-purges-32gb-of-ram-recommendations-from-its-website-company-reels-from-the-effects-of-the-memory-shortage-as-it-released-8gb-base-models-for-surface-laptops-this-year)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/sandisk-optimus-gx-7100m-2tb-ssd-review)
 
 ---
 
-### 3. Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter 
+### 2. Proxmox VE now officially supports 64-bit Arm (Aarch64) targets ⭐
 
-Antmicro released an open-source Thunderbolt to dual 10GbE adapter for high-speed Ethernet applications. The adapter serves as a reference design for customizable accessories in various industries. It features Intel X710-AT2 Ethernet controller and Thunderbolt 3 controller.
+Proxmox VE 9.2 now supports 64-bit Arm (aarch64) targets, mirroring its x86-64 version. It relies on Debian 13.5 and Linux 7.0, and offers full support for NVIDIA Grace Hopper and Vera platforms. Best-effort support is available on other UEFI-based Armv8-A/Armv9-A hardware.
 
-💡 *Enabling high-speed Ethernet expansion in edge devices and smart terminals.*
+💡 *Expanded Arm support enables greater flexibility and device options.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/)
-
----
-
-### 4. Big Walk turns cooperative exploration into one of 2026's most acclaimed multiplayer experiences 
-
-Big Walk stands out for its cooperative exploration and emergent gameplay. Critics praise its focus on communication and teamwork. The game has minor pacing and movement issues but is still a standout multiplayer experience.
-
-💡 *Communication and teamwork are key to successful cooperative gameplay.*
-
-🔗 [Read Full Article](https://www.techspot.com/products/pc-games/big-walk.330531/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/)
 
 ---
 
-### 5. Beelink SER10 Max Mini PC review: Gorgon Pointcomes ready to dual-boot Windows and Ubuntu 
+### 3. Token Monitor An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding) 
 
-The Beelink SER10 Max Mini PC is a compact device that can dual-boot Windows 11 and Ubuntu, with OpenClaw pre-installed for enhanced functionality. It offers a seamless user experience with the ability to switch between two operating systems. This versatility makes it an attractive option for developers and tech enthusiasts.
+Token Monitor is a desktop display tracking real-time AI coding assistant usage, showcasing usage information and estimated costs.
 
-💡 *Dual-booting capabilities expand users' operating system options*
+💡 *Real-time AI coding assistant usage tracking for cost optimization and resource management.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/beelink-ser10-max-mini-pc-review)
-
----
-
-### 6. VPN provider built a script to block Microsoft's hidden GDID tracking on Windows Windscribe's "deGDID" erases existing identifiers and blocks new ones from being created 
-
-Windscribe's deGDID script deletes cached GDID keys and blocks new ones from being created, potentially disrupting Microsoft services and features.
-
-💡 *Blocking Microsoft's GDID tracking erases sensitive user data collection*
-
-🔗 [Read Full Article](https://www.tomshardware.com/software/windows/vpn-provider-windscribe-has-built-a-script-to-block-microsofts-persistent-gdid-tracking-on-windows-degdid-erases-existing-identifiers-and-blocks-new-ones-from-being-created)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/)
 
 ---
 
-### 7. Microsoft wants the next-gen Xbox Helix to play every Xbox game ever made as it urges publishers to opt in New report also claims Xbox 360 games coming to PC soon 
+### 4. Researchers found a way to steal passkeys straight out of Chrome's memory 
 
-Microsoft aims to make the Xbox Helix play every Xbox game ever made, unifying generations under one roof. This move blurs the lines between console and PC gaming. Xbox 360 games may also be coming to PC.
+Malware can read passkey data from Google Chrome's memory, compromising user accounts.
 
-💡 *Microsoft unifies Xbox generations, creating a seamless gaming ecosystem.*
+💡 *Massive account access and vulnerability through Chrome memory exploitation.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/xbox/microsoft-wants-the-next-gen-xbox-helix-to-play-every-xbox-game-ever-made-as-it-urges-publishers-to-opt-in-new-report-also-claims-xbox-360-games-coming-to-pc-soon)
-
----
-
-### 8. Score all the essentials of a great gaming PC for only $983.98 $155 savings nets 9800X3D, 1TB Samsung 9100 SSD, 16GB of DDR5 RAM, Asus B850 motherboard, and free MSI AIO 
-
-Save $155 on a gaming PC combo with high-performance specs for $983.98. This bundle includes the AMD Ryzen 9 9800X3D processor, 1TB Samsung 9100 SSD, 16GB of DDR5 RAM, and Asus B850 motherboard. Additionally, an MSI AIO is included for free.
-
-💡 *Optimized gaming performance at affordable price point for budget-conscious gamers*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/score-all-the-essentials-of-a-great-gaming-pc-for-only-usd983-98-usd155-savings-nets-9800x3d-1tb-samsung-9100-ssd-16gb-of-ddr5-ram-asus-b850-motherboard-and-free-msi-aio)
+🔗 [Read Full Article](https://www.techspot.com/news/113375-researchers-found-way-steal-passkeys-straight-out-chrome.html)
 
 ---
 
-### 9. US military GPS jamming exercise suspected of contributing to civilian plane crash in New Mexico medevac flight lost signal before flying into a mountain, killing everyone onboard 
+### 5. PC gamer vibe-codes a safeguard against RTX 5090 power connector failures monitors per-pin power draw, shuts down system if it exceeds 9.5A for more than 15 seconds 
 
-A medevac flight in New Mexico crashed due to GPS interference, allegedly caused by nearby US military units' jamming exercise. The pilots were unable to receive critical navigation information, leading to the accident. This incident highlights the potential consequences of military GPS jamming on civilian air traffic.
+This application provides a safeguard against RTX 5090 power connector failures by monitoring power draw per-pin and shutting down the system if it exceeds 9.5A for more than 15 seconds. The 35MB application is a preventative measure to prevent damage or overheating. It allows for customizable power limits.
 
-💡 *GPS jamming can have devastating consequences for civilian aviation safety.*
+💡 *Prevents RTX 5090 overheating and damage due to power draw issues*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/us-military-gps-jamming-exercise-suspected-of-contributing-to-civilian-plane-crash-in-new-mexico-medevac-flight-lost-signal-before-flying-into-a-mountain-killing-everyone-onboard)
-
----
-
-### 10. Huge $750 saving makes this Gigabyte OLED gaming laptop with an RTX 5070 Ti an absolute steal right now just $1,999 for 1600p rig with 32GB DDR5, 1TB SSD, and a 24-core Intel CPU 
-
-Save $750.99 on the Gigabyte Aorus Master OLED gaming laptop, featuring an RTX 5070 Ti, 32GB DDR5, 1TB SSD, and a 24-core Intel CPU, now priced at $1,999.
-
-💡 *High-end gaming laptop with OLED display at a significantly discounted price.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/huge-usd750-saving-makes-this-gigabyte-oled-gaming-laptop-with-an-rtx-5070-ti-an-absolute-steal-right-now-just-usd1-999-for-1600p-rig-with-32gb-ddr5-1tb-ssd-and-a-24-core-intel-cpu)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/pc-gamer-vibe-codes-a-safeguard-against-rtx-5090-power-connector-failures-monitors-per-pin-power-draw-shuts-down-system-if-it-exceeds-9-5a-for-more-than-15-seconds)
 
 ---
 
-### 11. Microsoft removes support page recommending 32GB RAM for gaming PCs 
+### 6. PICOTTY project enables multi-target serial remote management through Raspberry Pi Pico boards and Pi Zero 2 W SBC 
 
-Microsoft has removed a support page recommending 32GB RAM for gaming PCs due to supply crunch issues.
+PICOTTY is an open-source project enabling serial-based remote management of multiple targets using Raspberry Pi boards. A Raspberry Pi Zero 2 W acts as a hub, running a web server for a dashboard, while Raspberry Pi Pico boards control and monitor targets over serial. This allows for IP keyboard-like functionality without video or mouse support.
 
-💡 *Supply chain struggles force Microsoft to reconsider gaming PC requirements*
+💡 *Multi-target remote management for headless systems is now more accessible.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113369-microsoft-removes-support-page-recommending-32gb-ram-gaming.html)
-
----
-
-### 12. SteamOS runs surprisingly well on AMD Strix Halo laptop in AAA gaming tests 
-
-SteamOS runs surprisingly well on an AMD-powered laptop in AAA gaming tests, indicating its potential as a gaming platform.
-
-💡 *AMD's iGPU offers competitive performance for AAA gaming with SteamOS.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113364-steamos-runs-surprisingly-well-amd-strix-halo-laptop.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/06/picotty-project-enables-multi-target-serial-remote-management-through-raspberry-pi-pico-boards-and-pi-zero-2-w-sbc/)
 
 ---
 
-### 13. LocalSend is like AirDrop that actually works everywhere 
+### 7. Kioxia's new PCIe 6.0 SSDs want to feed GPUs data at a fraction of HBM's price 
 
-LocalSend is a free, open-source app that allows peer-to-peer file transfers over a local network, encrypted end-to-end, and compatible with multiple operating systems.
+Kioxia's GP1 Series SSDs offer fast data transfer via PCIe 6.0 and NVMe 2.2 protocol, serving as a middle ground between traditional storage and high-bandwidth memory (HBM). This technology aims to provide a cost-effective alternative to expensive HBM solutions for GPUs. The SSDs target the enterprise market with their high-speed capabilities.
 
-💡 *Seamless cross-platform file sharing without relying on cloud services*
+💡 *Affordable, high-speed storage for GPUs could revolutionize data-intensive applications.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7814-localsend.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113385-kioxia-new-pcie-60-ssds-want-cheap-alternative.html)
+
+---
+
+### 8. Thousands of server motherboards are vulnerable to controller flaws that could give attackers hardware-level control 
+
+Thousands of server motherboards are vulnerable to controller flaws, allowing attackers to gain hardware-level control. Baseboard management controllers (BMCs) are small computers built into enterprise servers, enabling remote management and monitoring. BMC flaws can compromise server security.
+
+💡 *Vulnerable BMCs grant attackers root-level access to enterprise servers.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113379-thousands-enterprise-servers-vulnerable-bmc-flaws-give-attackers.html)
+
+---
+
+### 9. Corsair acquires Trak Racer, adding premium racing cockpits and flight sim gear to its lineup 
+
+Corsair acquires Trak Racer, expanding its sim-racing equipment offerings with premium cockpits and seats.
+
+💡 *Enhanced sim-racing experience for enthusiasts with combined expertise and gear.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113384-corsair-acquires-racing-flight-simulator-maker-trak-racer.html)
+
+---
+
+### 10. Gears of War: E-Day open beta kicks off today, and PVP made it in after all 
+
+The Gears of War: E-Day open beta starts today, with a pre-order access phase from August 6 to 10 for early subscribers and an open beta from August 13 to 17.
+
+💡 *Exclusive early access for pre-order customers and subscribers matters.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113370-gears-war-e-day-open-beta-kicks-off.html)
 
 ---
 
