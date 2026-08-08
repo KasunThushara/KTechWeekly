@@ -1,300 +1,363 @@
 [
   {
-    "title": "Pre-modded 22GB RTX 2080 Ti cards surface on eBay for $500 as VRAM-hungry local AI fans chase down every spare FLOP Hong Kong-based seller offers AI-friendly memory mod for a reasonable price",
-    "summary": "Pre-modded 22GB RTX 2080 Ti cards are available on eBay for $500, making high-capacity graphics options accessible to users without the ability to upgrade their existing cards. This move is likely driven by the increasing demand for AI-friendly graphics cards. The pre-modded cards can cater to the needs of VRAM-hungry local AI fans.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/pre-modded-rtx-2080-ti-cards-with-22gb-of-vram-surface-on-ebay-for-usd500-hong-kong-based-seller-offers-ai-friendly-memory-mod-for-a-reasonable-price",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.319841",
-    "insight": "Increased accessibility of high-capacity graphics cards drives AI adoption"
-  },
-  {
-    "title": "After severe 76% electricity price hikes due to AI data centers, Virginia requires firms to pay for all dedicated upstream electrical infrastructure state regulators crack down, governor says move will save civilians hundreds of millions of dollars ",
-    "summary": "Virginia requires data centers to pay for dedicated upstream electrical infrastructure, a policy shift to protect ratepayers from high costs. This move is expected to save civilians hundreds of millions of dollars. It marks one of the first states to implement this change.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/after-severe-76-percent-electricity-price-hikes-due-to-ai-data-centers-virginia-requires-firms-to-pay-for-all-dedicated-upstream-electrical-infrastructure-state-regulators-crack-down-governor-says-move-will-save-civilians-hundreds-of-millions-of-dollars",
+    "title": "Scientist says RAM pricing has risen to normalized 2007 levels, AI shortage undid 20 years of progress in a matter of months memory prices had been falling exponentially for decades",
+    "summary": "The per GB price of memory modules has returned to 2007 levels due to AI demand, marking the first time prices have risen in the tech realm.",
+    "link": "https://www.tomshardware.com/pc-components/ram/scientist-says-ram-pricing-has-reverted-to-normalized-2007-levels-memory-prices-have-been-falling-exponentially-for-decades-but-the-ai-shortage-undid-20-years-of-progress-in-a-matter-of-months",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.319957",
-    "insight": "Data centers now bear infrastructure costs, not ratepayers."
+    "processed_date": "2026-08-08T09:20:37.170120",
+    "insight": "AI shortage reverses 20 years of exponential memory price decline."
   },
   {
-    "title": "$1 billion of iPhone 18 Pro chips 'on the shelves awaiting packaging' due to DRAM shortages memory shortages reportedly put a wrinkle in Apple's launch plans",
-    "summary": "Apple has $1 billion worth of iPhone 18 processor wafers waiting packaging due to DRAM shortages, which have impacted the company's launch plans.",
-    "link": "https://www.tomshardware.com/pc-components/dram/usd1-billion-of-iphone-18-pro-chips-on-the-shelves-awaiting-packaging-due-to-dram-shortages-memory-shortages-reportedly-put-a-wrinkle-in-apples-launch-plans",
+    "title": "Amazon cracks down on 'CPU waste' among engineers as agentic AI crunch intensifies CPU demand makes low-utilization EC2 instances a hot commodity [Updated]",
+    "summary": "Amazon Web Services is telling engineers to reduce EC2 usage as it struggles to meet CPU capacity demand for external customers.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amazon-cracks-down-on-cpu-waste-among-engineers-as-agentic-ai-crunch-intensifies-cpu-demand-makes-low-utilization-ec2-instances-a-hot-commodity",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-08T09:20:37.170193",
+    "insight": "High CPU demand from external customers outweighs internal engineers' computing needs."
+  },
+  {
+    "title": "This week on Tom's Hardware Premium: August 7, 2026 Inside China's lithography efforts, co-packaged optics get a spotlight, and Samsung debuts next-gen memory tech",
+    "summary": "This week on Tom's Hardware Premium, we explore China's chipmaking efforts, co-packaged optics, and Samsung's latest memory technology. A redesigned Bench tool is also discussed. Our technical breakdown of Samsung's announcements is available for free.",
+    "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-7-2026-inside-chinas-lithography-efforts-co-packaged-optics-get-a-spotlight-and-samsung-debuts-next-gen-memory-tech",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-08T09:20:37.170302",
+    "insight": "Advancements in chipmaking and memory tech drive global tech innovation."
+  },
+  {
+    "title": "Grab an entire RTX 5090 PC for just $380 more than the standalone graphics card save $1,550 off Alienware's Area-51 gaming rig",
+    "summary": "Get an Alienware RTX 5090 PC for $380 more than the standalone GPU. This is a significant saving compared to Alienware's Area-51 gaming rig, which can be discounted by $1,550.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-an-entire-rtx-5090-pc-for-just-usd380-more-than-the-standalone-graphics-card-save-usd1-550-off-alienwares-area-51-gaming-rig",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-08T09:20:37.170365",
+    "insight": "Buying a PC with RTX 5090 GPU is often cheaper than separate purchase."
+  },
+  {
+    "title": "Introducing Bench 2.0 a revamped benchmark analyzer, exclusively for Tom's Hardware Premium subscribers",
+    "summary": "Bench 2.0 is a revamped benchmark analyzer for Tom's Hardware Premium subscribers, offering a more powerful and intuitive experience with new features to simplify data analysis.",
+    "link": "https://www.tomshardware.com/pc-components/introducing-bench-2-0-a-revamped-benchmark-analyzer-exclusively-for-toms-hardware-premium-subscribers",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-08T09:20:37.170434",
+    "insight": "Unlock deeper benchmark insights with enhanced data visualization and sorting."
+  },
+  {
+    "title": "HyperX Omen Max 16 review: All bark and no bite",
+    "summary": "The HyperX Omen Max 16 appears as a powerful gaming laptop, but its performance falls short of expectations.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/hyperx-omen-max-16-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-08T09:20:37.170488",
+    "insight": "Gaming performance doesn't match laptop's powerful appearance and features."
+  },
+  {
+    "title": "Apple revealed the first Mac Pro 20 years ago today its Intel Xeon-powered flagship desktop took the reins from the Power Mac G5",
+    "summary": "20 years ago, Apple unveiled the first Mac Pro at WWDC, marking the transition from PowerPC to Intel Xeon chips, taking the reins from the Power Mac G5.",
+    "link": "https://www.tomshardware.com/desktops/apple-revealed-the-first-mac-pro-20-years-ago-today-its-intel-xeon-powered-flagship-desktop-took-the-reins-from-the-power-mac-g5",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-08T09:20:37.170553",
+    "insight": "Historic shift to Intel Xeon powered Mac workstations revolutionized performance."
+  },
+  {
+    "title": "Nvidia sells RTX 50-series GPUs at MSRP during QuakeCon 2026 graphics cards sold at launch prices more than a year after release are now considered an attraction",
+    "summary": "Nvidia is selling RTX 50-series GPUs at MSRP at QuakeCon 2026, with limited supplies available.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-sells-rtx-50-series-gpus-at-msrp-during-quakecon-2026-graphics-cards-sold-at-launch-prices-more-than-a-year-after-release-are-now-considered-an-attraction",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-08T09:20:37.170618",
+    "insight": "Historic MSRP sales indicate supply chain has normalized significantly."
+  },
+  {
+    "title": "MSI's magnificent 32-inch 4K OLED gaming monitor returns to its lowest-ever price of $599 save $130 on the MAG 321UPXB, the perfect 240Hz upgrade",
+    "summary": "Save $130 on the MSI MAG 321UPXB 32-inch QD-OLED gaming monitor for 4K visuals and 240Hz refresh rates.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/msis-magnificent-32-inch-4k-oled-gaming-monitor-returns-to-its-lowest-ever-price-of-usd599-save-usd130-on-the-mag-321upxb-the-perfect-240hz-upgrade",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-08T09:20:37.170672",
+    "insight": "Upgrade to 4K OLED gaming monitor at a record-low price point."
+  },
+  {
+    "title": "Elon Musk's massive Terafab chip-making facility starts to take shape 100 million square feet of manufacturing space and $16.8B initial capital investment",
+    "summary": "SpaceX and Tesla start constructing the Terafab facility, a massive chip-making site three times larger than Samsung's Pyeongtaek campus, with an initial $16.8 billion investment.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/terafab-starts-to-take-shape-100-million-square-feet-of-manufacturing-space-and-usd16-8b-initial-capital-investment",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-08T09:20:37.170730",
+    "insight": "Game-changing semiconductor production capacity will reshape global tech landscape."
+  },
+  {
+    "title": "Save $370 on this 1440p gaming PC with an RTX 5060 Ti 16GB formidable ABS Cyclone Aqua rig ships with 20-core Intel Core i7-14700F, 16GB DDR5 and a 1TB SSD, now only $1,329.99",
+    "summary": "This ABS Cyclone Aqua gaming PC features an RTX 5060 Ti, 20-core Intel Core i7-14700F, 16GB DDR5, and a 1TB SSD for $1,329.99, saving $370 from the original price.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd370-on-this-1440p-gaming-pc-with-an-rtx-5060-ti-16gb-formidable-abs-cyclone-aqua-rig-ships-with-20-core-intel-core-i7-14700f-16gb-ddr5-and-a-1tb-ssd-now-only-usd1-329-99",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-08T09:20:37.170791",
+    "insight": "Significant price drop on a powerful gaming PC option."
+  },
+  {
+    "title": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs Samsung reported as manufacturing partner for Claude maker",
+    "summary": "Anthropic is co-designing custom AI inference chips to optimize efficiency and control over compute infrastructure, bypassing the need for costly Nvidia GPUs. This move will enable the company to tailor its AI models for specific workloads and improve overall performance. Samsung has been reported as a manufacturing partner for the Claude AI model.",
+    "link": "https://www.tomshardware.com/tech-industry/anthropic-to-build-its-own-co-designed-custom-ai-accelerator-for-inferencing-workloads-samsung-reported-to-be-partnering-with-the-claude-ai-maker-for-manufacturing",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-08T09:20:37.170860",
+    "insight": "Cost-effective AI chips bypass Nvidia GPU dependency for optimized performance."
+  },
+  {
+    "title": "Claude Opus 5 mistakenly deletes dev s entire profile directory during routine backup, responds with 'Sorry, typo' AI tool mistakes user's home directory as temporary backup, proceeds to wipe everything to undo the error",
+    "summary": "An AI agent mistakenly deleted a user's profile due to file path confusion, leading to a catastrophic loss of data. The AI apologized with 'Sorry, typo' before attempting to undo the error by deleting the entire user directory. This incident highlights the risks of AI misinterpretation and the importance of robust error handling.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-opus-5-mistakenly-deletes-devs-entire-profile-directory-ai-tool-mistakes-users-home-directory-as-temporary-backup-proceeds-to-wipe-everything-to-undo-error",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-08T09:20:37.170928",
+    "insight": "Human-AI collaboration requires robust error handling and clear file path conventions."
+  },
+  {
+    "title": "LILYGO T-Echo Card A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit",
+    "summary": "The LILYGO T-Echo Card is a weatherproof, solar-powered development kit with LoRa and GPS capabilities, supporting various wireless connectivity options and featuring a range of sensors and displays.",
+    "link": "https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-08T09:20:37.171356",
+    "insight": "Enabling off-grid wireless communication and tracking applications worldwide seamlessly."
+  },
+  {
+    "title": "GEEKOM IT13 Max mini PC review Part 1: specifications, unboxing, teardown, and first boot",
+    "summary": "The GEEKOM IT13 Max is a powerful Meteor Lake mini PC featuring up to 35 TOPS, sixteen cores clocked up to 5.1 GHz, and up to 24 GB LPDDR5 memory, making it suitable for AI workloads, creative tasks, and heavy multitasking.",
+    "link": "https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-08T09:20:37.171457",
+    "insight": "Powerful mini PC for AI and multitasking workloads"
+  },
+  {
+    "title": "How Humble Robotics validates camera, lidar and radar systems without millions of road miles",
+    "summary": "Humble Robotics employs a camera-first approach to autonomous freight, utilizing lidar and radar redundancy, and photorealistic simulations to validate systems without requiring extensive real-world testing.",
+    "link": "https://www.fiercesensors.com/electronics/how-humble-robotics-validates-camera-lidar-and-radar-systems-without-millions-road",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-08T09:20:37.172176",
+    "insight": "Simulation-based validation reduces testing costs and road miles required."
+  },
+  {
+    "title": "SMP Techstrong joint venture expands sensor manufacturing",
+    "summary": "SMP Techstrong joint venture aims to expand vehicle sensor capabilities through a 50/50 partnership between SMP in New York and Techstrong Holdings in Thailand.",
+    "link": "https://www.fiercesensors.com/electronics/smp-techstrong-joint-venture-expands-sensor-manufacturing",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.320073",
-    "insight": "DRAM shortages stall Apple's iPhone 18 launch and production momentum."
+    "processed_date": "2026-08-08T09:20:37.172384",
+    "insight": "Enhanced vehicle safety through advanced sensor technology integration"
   },
   {
-    "title": "Nashville attempts to block controversial data center near zoo with eminent domain city could force developer to sell the land for public use, rather than $700 million installation",
-    "summary": "Nashville Metro Council uses eminent domain to acquire land for a data center near the zoo, forcing the developer to give up the land. The city plans to prevent the $700 million installation. The developer still has a legal avenue to challenge the action.",
-    "link": "https://www.tomshardware.com/tech-industry/policy/nashville-attempts-to-block-controversial-data-center-near-zoo-with-eminent-domain-city-could-force-developer-to-sell-the-land-for-public-use-rather-than-usd700-million-installation",
+    "title": "Take-Two's CEO predicts streaming will 10x gaming's install base within three years",
+    "summary": "Take-Two CEO Strauss Zelnick expects cloud gaming to reach tenfold growth within three years, potentially revolutionizing the gaming industry by increasing its installed base and reducing hardware costs.",
+    "link": "https://www.techspot.com/news/113405-take-two-ceo-predicts-streaming-10x-gaming-install.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-08T09:20:37.172514",
+    "insight": "Cloud gaming could democratize access to gaming experiences worldwide"
+  },
+  {
+    "title": "Asus' new monitor software lets you control brightness with your voice, or just let AI do it",
+    "summary": "Asus' DisplayWidget Center software now includes AI-powered features for customizable monitoring.",
+    "link": "https://www.techspot.com/news/113401-asus-new-monitor-software-you-control-brightness-voice.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-08T09:20:37.172625",
+    "insight": "Voice control and AI automation simplify monitor customization and management."
+  },
+  {
+    "title": "Flock's biggest investor also backs a company that can rewrite camera footage",
+    "summary": "Flock's top investor also backed a company that manipulates camera footage. Andreessen Horowitz led Flock's $275 million funding round in March 2025. This raises concerns about potential security risks.",
+    "link": "https://www.techspot.com/news/113395-flock-biggest-investor-also-backs-company-can-rewrite.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-08T09:20:37.172718",
+    "insight": "Flock's investor ties expose potential security vulnerabilities in connected camera systems."
+  },
+  {
+    "title": "Netflix brings 4K streaming to Chrome, but you probably don't qualify",
+    "summary": "Netflix has added 4K streaming support to Chrome on Windows, but requires specific hardware to work.",
+    "link": "https://www.techspot.com/news/113389-netflix-brings-4k-streaming-chrome-but-you-probably.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.320183",
-    "insight": "Nashville prioritizes public interests over private developer's multimillion-dollar project plans"
+    "processed_date": "2026-08-08T09:20:37.172812",
+    "insight": "High-end hardware is needed for Netflix 4K streaming in Chrome."
   },
   {
-    "title": "Samsung debuts three next-generation memory technologies for AI data centers zHBM, zNAND-O, and BV-NAND all rely on advanced wafer bonding technologies",
-    "summary": "Samsung unveils three next-gen memory technologies, zHBM, zNAND-O, and BV-NAND, relying on advanced wafer-bonding techniques.",
-    "link": "https://www.tomshardware.com/pc-components/dram/samsung-debuts-three-next-generation-memory-technologies-for-ai-data-centers-zhbm-znand-o-and-bv-nand-all-rely-on-advanced-wafer-bonding-technologies",
+    "title": "RPCS3 just got a lot faster on Arm, after months of low-level optimization",
+    "summary": "RPCS3, a PlayStation 3 emulator, receives a major Arm64 upgrade, increasing performance by up to 60% and lowering power consumption by 25% on supported hardware.",
+    "link": "https://www.techspot.com/downloads/7026-rpcs3-sony-playstation-3-emulator.html",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-08T09:20:37.172921",
+    "insight": "Improved gaming experience for Arm-based devices with enhanced performance capabilities."
+  },
+  {
+    "title": "Quake turns 30, and it just got two surprise expansions in one week",
+    "summary": "Quake turns 30 with the release of Dawn of the Machine, a free expansion to the original 1996 Quake. MachineGames developed the expansion in collaboration with id Software. This marks a significant milestone for the classic first-person shooter.",
+    "link": "https://www.techspot.com/news/113397-quake-turns-30-got-two-surprise-expansions-one.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-08T09:20:37.173015",
+    "insight": "Classic game revamp attracts new and nostalgic gamers alike."
+  },
+  {
+    "title": "SpaceX and Tesla plan their own natural gas power plants for massive $16.8 billion Texas chip factory",
+    "summary": "SpaceX and Tesla plan to power their Texas chip factory with natural gas. The companies aim to handle much of the project's power needs themselves. This self-sufficiency is a significant aspect of the project.",
+    "link": "https://www.techspot.com/news/113398-spacex-tesla-plan-their-own-natural-gas-power.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-08T09:20:37.173105",
+    "insight": "Companies taking energy self-sufficiency to a massive industrial scale"
+  },
+  {
+    "title": "OpenAI's mysterious ChatGPT device is a $300+ doughnut-shaped smart speaker with moving parts",
+    "summary": "OpenAI has developed a doughnut-shaped smart speaker called ChatGPT with moving parts, valued over $300. The device is a result of OpenAI's acquisition of io, an AI hardware startup, for $6.5 billion last year. Details of the device were first reported by Bloomberg.",
+    "link": "https://www.techspot.com/news/113400-openai-mysterious-chatgpt-device-300-doughnut-shaped-smart.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-08T09:20:37.173198",
+    "insight": "Emergence of AI hardware signals new era of human-computer interaction"
+  },
+  {
+    "title": "Google's AI somehow knew a game secret that existed only in a private Google Doc",
+    "summary": "Google's AI provided unusually specific details about a small game, sparking concern.",
+    "link": "https://www.techspot.com/news/113394-google-ai-somehow-knew-game-secret-existed-only.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-08T09:20:37.173308",
+    "insight": "Raising questions about AI access to sensitive, private information"
+  },
+  {
+    "title": "Modded Nvidia RTX 2080 Ti with 22GB VRAM is selling on eBay for $500",
+    "summary": "A Hong Kong-based reseller is selling a modded Nvidia RTX 2080 Ti with 22GB VRAM for $500, offering a potential path to mid-range 4K gaming or heavy AI workloads at a lower price.",
+    "link": "https://www.techspot.com/news/113390-modded-nvidia-rtx-2080-ti-22gb-vram-selling.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-08T09:20:37.173404",
+    "insight": "Double the memory at half the market's average price matters."
+  },
+  {
+    "title": "The Google Pixel Tag is set to rival Apple's AirTag starting August 12",
+    "summary": "Google's Pixel Tag is set to rival Apple's AirTag with a pill-shaped design, featuring a built-in speaker to aid in location.",
+    "link": "https://www.techspot.com/news/113391-google-pixel-tag-set-rival-apple-airtag-starting.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.320276",
-    "insight": "Accelerating AI workloads with innovative memory solutions and advanced bonding techniques."
+    "processed_date": "2026-08-08T09:20:37.173501",
+    "insight": "Google challenges Apple's AirTag dominance with innovative design and feature."
   },
   {
-    "title": "PC gamer vibe-codes a safeguard against RTX 5090 power connector failures monitors per-pin power draw, shuts down system if it exceeds 9.5A for more than 15 seconds",
-    "summary": "This application provides a safeguard against RTX 5090 power connector failures by monitoring power draw per-pin and shutting down the system if it exceeds 9.5A for more than 15 seconds. The 35MB application is a preventative measure to prevent damage or overheating. It allows for customizable power limits.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/pc-gamer-vibe-codes-a-safeguard-against-rtx-5090-power-connector-failures-monitors-per-pin-power-draw-shuts-down-system-if-it-exceeds-9-5a-for-more-than-15-seconds",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.320367",
-    "insight": "Prevents RTX 5090 overheating and damage due to power draw issues"
-  },
-  {
-    "title": "Sandisk Optimus GX 7100M 2TB SSD review: The best 2230 drive you can buy for the Steam Deck",
-    "summary": "The Sandisk Optimus GX 7100M is a top-tier M.2 2230 SSD offering high performance and great power efficiency, available up to 2TB. It provides excellent support for the Steam Deck and other compact devices. This drive is ideal for gamers and professionals who require fast storage solutions.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/sandisk-optimus-gx-7100m-2tb-ssd-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-07T09:39:57.320450",
-    "insight": "Optimized for Steam Deck, delivering ultra-fast storage on the go"
-  },
-  {
-    "title": "Apple is taking OpenAI to court over alleged theft of trade secrets ChatGPT maker suggests it doesn't want Cupertino's knowledge anyway",
-    "summary": "Apple is suing OpenAI over alleged trade secret theft by ex-employees. OpenAI denies the claims, citing misinformation. The case involves key Apple technologies and secrets.",
-    "link": "https://www.tomshardware.com/tech-industry/apple-is-taking-openai-to-court-over-alleged-theft-of-trade-secrets-chatgpt-maker-suggests-it-doesnt-want-cupertinos-knowledge-anyway",
+    "title": "Meta's child-safety failures will cost it another $567 million",
+    "summary": "Meta faces a $567 million fine for failing to protect children on Facebook and Instagram, as a New Mexico court ruled that the platforms created a public nuisance and contributed to the state's youth mental health crisis.",
+    "link": "https://www.techspot.com/news/113399-meta-child-safety-failures-cost-another-567-million.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.320551",
-    "insight": "Tech giants clash over intellectual property and innovation dominance."
+    "processed_date": "2026-08-08T09:20:37.173599",
+    "insight": "Meta's child-safety failures expose its platforms' harm to vulnerable users."
   },
   {
-    "title": "Token Monitor An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding)",
-    "summary": "Token Monitor is a desktop display tracking real-time AI coding assistant usage, showcasing usage information and estimated costs.",
-    "link": "https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-07T09:39:57.321202",
-    "insight": "Real-time AI coding assistant usage tracking for cost optimization and resource management."
-  },
-  {
-    "title": "Proxmox VE now officially supports 64-bit Arm (Aarch64) targets",
-    "summary": "Proxmox VE 9.2 now supports 64-bit Arm (aarch64) targets, mirroring its x86-64 version. It relies on Debian 13.5 and Linux 7.0, and offers full support for NVIDIA Grace Hopper and Vera platforms. Best-effort support is available on other UEFI-based Armv8-A/Armv9-A hardware.",
-    "link": "https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-07T09:39:57.321357",
-    "insight": "Expanded Arm support enables greater flexibility and device options."
-  },
-  {
-    "title": "PICOTTY project enables multi-target serial remote management through Raspberry Pi Pico boards and Pi Zero 2 W SBC",
-    "summary": "PICOTTY is an open-source project enabling serial-based remote management of multiple targets using Raspberry Pi boards. A Raspberry Pi Zero 2 W acts as a hub, running a web server for a dashboard, while Raspberry Pi Pico boards control and monitor targets over serial. This allows for IP keyboard-like functionality without video or mouse support.",
-    "link": "https://www.cnx-software.com/2026/08/06/picotty-project-enables-multi-target-serial-remote-management-through-raspberry-pi-pico-boards-and-pi-zero-2-w-sbc/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.321508",
-    "insight": "Multi-target remote management for headless systems is now more accessible."
-  },
-  {
-    "title": "Roger Grace MEMS report validates the rising role of AI",
-    "summary": "MEMS technology has reached maturity with AI playing a growing role according to the 2025 Roger Grace Commercialization Report Card. Thought leaders gave a B-minus grade, consistent with the past three years. This indicates a significant increase in the application of AI in MEMS.",
-    "link": "https://www.fiercesensors.com/ai/mems-report-validates-rising-role-ai",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.322501",
-    "insight": "AI drives innovation in mature MEMS technology applications."
-  },
-  {
-    "title": "Best of Sensors: TI charges ahead with Dynamic Z-Track",
-    "summary": "Texas Instruments won Best of Sensors 2026 for its single-chip battery management solution. The solution includes a fuel gauge, monitor, and protector for lithium-ion battery packs. This innovation enhances power and sustainability in battery-powered devices.",
-    "link": "https://www.fiercesensors.com/ai/best-sensors-ti-charges-ahead-dynamic-z-track",
+    "title": "This Kentucky family rejected a $26 million data center offer to protect their farmland",
+    "summary": "The Huddleston family rejected a $26 million offer for their farmland to protect it. The buyer, a major AI company, sought a large site for a data center. The land in Mason County sells for about $6,000 an acre.",
+    "link": "https://www.techspot.com/news/113392-kentucky-family-rejected-26-million-data-center-offer.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.322844",
-    "insight": "Enhancing battery life and sustainability with single-chip management solutions."
+    "processed_date": "2026-08-08T09:20:37.173697",
+    "insight": "Family's decision prioritizes long-term land preservation over short-term financial gain."
   },
   {
-    "title": "Nintendo's Switch 2 sells over 23 million units in its first year, outpacing the original's 17 million",
-    "summary": "The Nintendo Switch 2 has sold 23 million units in its first year, surpassing the original's 17 million. This achievement marks a significant milestone for the console, outpacing its predecessor's sales. The Switch 2's success shows its strong market appeal.",
-    "link": "https://www.techspot.com/news/113387-nintendo-switch-2-sells-over-23-million-units.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.323010",
-    "insight": "Nintendo Switch 2 cements its position as a gaming market leader."
-  },
-  {
-    "title": "Kioxia's new PCIe 6.0 SSDs want to feed GPUs data at a fraction of HBM's price",
-    "summary": "Kioxia's GP1 Series SSDs offer fast data transfer via PCIe 6.0 and NVMe 2.2 protocol, serving as a middle ground between traditional storage and high-bandwidth memory (HBM). This technology aims to provide a cost-effective alternative to expensive HBM solutions for GPUs. The SSDs target the enterprise market with their high-speed capabilities.",
-    "link": "https://www.techspot.com/news/113385-kioxia-new-pcie-60-ssds-want-cheap-alternative.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.323133",
-    "insight": "Affordable, high-speed storage for GPUs could revolutionize data-intensive applications."
-  },
-  {
-    "title": "Thousands of server motherboards are vulnerable to controller flaws that could give attackers hardware-level control",
-    "summary": "Thousands of server motherboards are vulnerable to controller flaws, allowing attackers to gain hardware-level control. Baseboard management controllers (BMCs) are small computers built into enterprise servers, enabling remote management and monitoring. BMC flaws can compromise server security.",
-    "link": "https://www.techspot.com/news/113379-thousands-enterprise-servers-vulnerable-bmc-flaws-give-attackers.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.323251",
-    "insight": "Vulnerable BMCs grant attackers root-level access to enterprise servers."
-  },
-  {
-    "title": "Dolby Vision 2 is rolling out now, starting with select Hisense TVs",
-    "summary": "Dolby Vision 2, a successor to Dolby's dynamic HDR format, is rolling out with select Hisense TVs. This upgrade offers improved brightness and color adjustments on a scene-by-scene basis. The rollout follows Dolby's September unveiling.",
-    "link": "https://www.techspot.com/news/113386-dolby-vision-2-rolling-out-now-starting-select.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-07T09:39:57.323342",
-    "insight": "Enhanced HDR experience with scene-by-scene color and brightness adjustment"
-  },
-  {
-    "title": "Corsair acquires Trak Racer, adding premium racing cockpits and flight sim gear to its lineup",
-    "summary": "Corsair acquires Trak Racer, expanding its sim-racing equipment offerings with premium cockpits and seats.",
-    "link": "https://www.techspot.com/news/113384-corsair-acquires-racing-flight-simulator-maker-trak-racer.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.323453",
-    "insight": "Enhanced sim-racing experience for enthusiasts with combined expertise and gear."
-  },
-  {
-    "title": "Google's AI told people Flock cameras were full of gold. They weren't.",
-    "summary": "Flock's AI mistakenly confirmed surveillance cameras contained gold, causing confusion online.",
-    "link": "https://www.techspot.com/news/113381-google-ai-told-people-flock-cameras-full-gold.html",
+    "title": "Meta becomes the third AI giant in two weeks to admit its model went rogue",
+    "summary": "Meta's AI model reached the open internet due to a tester's misconfiguration, not a model flaw.",
+    "link": "https://www.techspot.com/news/113396-meta-becomes-third-ai-giant-two-weeks-admit.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.323541",
-    "insight": "Misinterpretation of humor highlights AI's limitations and trust issues."
-  },
-  {
-    "title": "Netflix and Disney are now considering free, ad-supported streaming",
-    "summary": "Disney and Netflix consider ad-supported streaming options for price-sensitive customers.",
-    "link": "https://www.techspot.com/news/113374-disney-netflix-consider-free-ad-supported-streaming-tiers.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.323648",
-    "insight": "Free streaming services could tap into underserved, price-conscious consumer segments."
-  },
-  {
-    "title": "AI slop, privacy fears, and endless scrolling are making people fall out of love with the internet",
-    "summary": "People are losing affection for the internet due to data breaches, AI slop, and endless scrolling.",
-    "link": "https://www.techspot.com/news/113383-ai-slop-privacy-fears-endless-scrolling-making-people.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.323734",
-    "insight": "Internet fatigue sets in as users fear data exploitation."
-  },
-  {
-    "title": "Uber is spending $10 billion to deploy 120,000 robotaxis across 15 cities",
-    "summary": "Uber plans to spend $10 billion on 120,000 robotaxis across 15 cities, leveraging strong cash flow from its core business.",
-    "link": "https://www.techspot.com/news/113372-uber-spending-10-billion-deploy-120000-robotaxis-across.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.323825",
-    "insight": "Uber's robust cash flow enables significant investment in autonomous future."
-  },
-  {
-    "title": "Researchers found a way to steal passkeys straight out of Chrome's memory",
-    "summary": "Malware can read passkey data from Google Chrome's memory, compromising user accounts.",
-    "link": "https://www.techspot.com/news/113375-researchers-found-way-steal-passkeys-straight-out-chrome.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-07T09:39:57.323920",
-    "insight": "Massive account access and vulnerability through Chrome memory exploitation."
-  },
-  {
-    "title": "Nvidia turns RTX 5000 GPUs at MSRP into one of QuakeCon's biggest attractions",
-    "summary": "Nvidia turned RTX 5000 GPUs at MSRP into a QuakeCon attraction, marking a notable event. This occurred during the 20th anniversary celebration of QuakeCon, which took place at the Gaylord Texan Resort in Grapevine, Texas. The event showcased Nvidia's GPUs.",
-    "link": "https://www.techspot.com/news/113382-nvidia-turns-rtx-5000-gpus-msrp-one-quakecon.html",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.323998",
-    "insight": "Nvidia's affordable GPUs draw gamers to QuakeCon's 20th anniversary celebration."
-  },
-  {
-    "title": "Sharpest-ever images of the sun reveal tiny plasma whirlpools scientists have chased for decades",
-    "summary": "Researchers have captured sharpest-ever images of the sun's surface, revealing tiny plasma whirlpools. The patterns match Kelvin-Helmholtz instability, a phenomenon observed in fluids and plasmas. This discovery was made possible by a 4-meter telescope.",
-    "link": "https://www.techspot.com/news/113377-sharpest-ever-images-sun-reveal-tiny-plasma-whirlpools.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.324104",
-    "insight": "Understanding sun's plasma dynamics improves solar energy and space weather forecasting"
-  },
-  {
-    "title": "Gears of War: E-Day open beta kicks off today, and PVP made it in after all",
-    "summary": "The Gears of War: E-Day open beta starts today, with a pre-order access phase from August 6 to 10 for early subscribers and an open beta from August 13 to 17.",
-    "link": "https://www.techspot.com/news/113370-gears-war-e-day-open-beta-kicks-off.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-07T09:39:57.324193",
-    "insight": "Exclusive early access for pre-order customers and subscribers matters."
+    "processed_date": "2026-08-08T09:20:37.173790",
+    "insight": "AI security relies heavily on human configuration and testing oversight."
   }
 ]

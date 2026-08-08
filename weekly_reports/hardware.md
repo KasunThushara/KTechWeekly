@@ -1,115 +1,145 @@
 # 💻 Hardware
-**Week of August 07, 2026**
+**Week of August 08, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 10
-- **Report generated:** 2026-08-07 09:40
+- **Articles this week:** 13
+- **Report generated:** 2026-08-08 09:21
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Sandisk Optimus GX 7100M 2TB SSD review: The best 2230 drive you can buy for the Steam Deck ⭐
+### 1. LILYGO T-Echo Card A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit ⭐
 
-The Sandisk Optimus GX 7100M is a top-tier M.2 2230 SSD offering high performance and great power efficiency, available up to 2TB. It provides excellent support for the Steam Deck and other compact devices. This drive is ideal for gamers and professionals who require fast storage solutions.
+The LILYGO T-Echo Card is a weatherproof, solar-powered development kit with LoRa and GPS capabilities, supporting various wireless connectivity options and featuring a range of sensors and displays.
 
-💡 *Optimized for Steam Deck, delivering ultra-fast storage on the go*
+💡 *Enabling off-grid wireless communication and tracking applications worldwide seamlessly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/sandisk-optimus-gx-7100m-2tb-ssd-review)
-
----
-
-### 2. Proxmox VE now officially supports 64-bit Arm (Aarch64) targets ⭐
-
-Proxmox VE 9.2 now supports 64-bit Arm (aarch64) targets, mirroring its x86-64 version. It relies on Debian 13.5 and Linux 7.0, and offers full support for NVIDIA Grace Hopper and Vera platforms. Best-effort support is available on other UEFI-based Armv8-A/Armv9-A hardware.
-
-💡 *Expanded Arm support enables greater flexibility and device options.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/)
 
 ---
 
-### 3. Token Monitor An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding) 
+### 2. GEEKOM IT13 Max mini PC review Part 1: specifications, unboxing, teardown, and first boot ⭐
 
-Token Monitor is a desktop display tracking real-time AI coding assistant usage, showcasing usage information and estimated costs.
+The GEEKOM IT13 Max is a powerful Meteor Lake mini PC featuring up to 35 TOPS, sixteen cores clocked up to 5.1 GHz, and up to 24 GB LPDDR5 memory, making it suitable for AI workloads, creative tasks, and heavy multitasking.
 
-💡 *Real-time AI coding assistant usage tracking for cost optimization and resource management.*
+💡 *Powerful mini PC for AI and multitasking workloads*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/)
-
----
-
-### 4. Researchers found a way to steal passkeys straight out of Chrome's memory 
-
-Malware can read passkey data from Google Chrome's memory, compromising user accounts.
-
-💡 *Massive account access and vulnerability through Chrome memory exploitation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113375-researchers-found-way-steal-passkeys-straight-out-chrome.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/)
 
 ---
 
-### 5. PC gamer vibe-codes a safeguard against RTX 5090 power connector failures monitors per-pin power draw, shuts down system if it exceeds 9.5A for more than 15 seconds 
+### 3. This week on Tom's Hardware Premium: August 7, 2026 Inside China's lithography efforts, co-packaged optics get a spotlight, and Samsung debuts next-gen memory tech 
 
-This application provides a safeguard against RTX 5090 power connector failures by monitoring power draw per-pin and shutting down the system if it exceeds 9.5A for more than 15 seconds. The 35MB application is a preventative measure to prevent damage or overheating. It allows for customizable power limits.
+This week on Tom's Hardware Premium, we explore China's chipmaking efforts, co-packaged optics, and Samsung's latest memory technology. A redesigned Bench tool is also discussed. Our technical breakdown of Samsung's announcements is available for free.
 
-💡 *Prevents RTX 5090 overheating and damage due to power draw issues*
+💡 *Advancements in chipmaking and memory tech drive global tech innovation.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/pc-gamer-vibe-codes-a-safeguard-against-rtx-5090-power-connector-failures-monitors-per-pin-power-draw-shuts-down-system-if-it-exceeds-9-5a-for-more-than-15-seconds)
-
----
-
-### 6. PICOTTY project enables multi-target serial remote management through Raspberry Pi Pico boards and Pi Zero 2 W SBC 
-
-PICOTTY is an open-source project enabling serial-based remote management of multiple targets using Raspberry Pi boards. A Raspberry Pi Zero 2 W acts as a hub, running a web server for a dashboard, while Raspberry Pi Pico boards control and monitor targets over serial. This allows for IP keyboard-like functionality without video or mouse support.
-
-💡 *Multi-target remote management for headless systems is now more accessible.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/06/picotty-project-enables-multi-target-serial-remote-management-through-raspberry-pi-pico-boards-and-pi-zero-2-w-sbc/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-7-2026-inside-chinas-lithography-efforts-co-packaged-optics-get-a-spotlight-and-samsung-debuts-next-gen-memory-tech)
 
 ---
 
-### 7. Kioxia's new PCIe 6.0 SSDs want to feed GPUs data at a fraction of HBM's price 
+### 4. Introducing Bench 2.0 a revamped benchmark analyzer, exclusively for Tom's Hardware Premium subscribers 
 
-Kioxia's GP1 Series SSDs offer fast data transfer via PCIe 6.0 and NVMe 2.2 protocol, serving as a middle ground between traditional storage and high-bandwidth memory (HBM). This technology aims to provide a cost-effective alternative to expensive HBM solutions for GPUs. The SSDs target the enterprise market with their high-speed capabilities.
+Bench 2.0 is a revamped benchmark analyzer for Tom's Hardware Premium subscribers, offering a more powerful and intuitive experience with new features to simplify data analysis.
 
-💡 *Affordable, high-speed storage for GPUs could revolutionize data-intensive applications.*
+💡 *Unlock deeper benchmark insights with enhanced data visualization and sorting.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113385-kioxia-new-pcie-60-ssds-want-cheap-alternative.html)
-
----
-
-### 8. Thousands of server motherboards are vulnerable to controller flaws that could give attackers hardware-level control 
-
-Thousands of server motherboards are vulnerable to controller flaws, allowing attackers to gain hardware-level control. Baseboard management controllers (BMCs) are small computers built into enterprise servers, enabling remote management and monitoring. BMC flaws can compromise server security.
-
-💡 *Vulnerable BMCs grant attackers root-level access to enterprise servers.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113379-thousands-enterprise-servers-vulnerable-bmc-flaws-give-attackers.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/introducing-bench-2-0-a-revamped-benchmark-analyzer-exclusively-for-toms-hardware-premium-subscribers)
 
 ---
 
-### 9. Corsair acquires Trak Racer, adding premium racing cockpits and flight sim gear to its lineup 
+### 5. HyperX Omen Max 16 review: All bark and no bite 
 
-Corsair acquires Trak Racer, expanding its sim-racing equipment offerings with premium cockpits and seats.
+The HyperX Omen Max 16 appears as a powerful gaming laptop, but its performance falls short of expectations.
 
-💡 *Enhanced sim-racing experience for enthusiasts with combined expertise and gear.*
+💡 *Gaming performance doesn't match laptop's powerful appearance and features.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113384-corsair-acquires-racing-flight-simulator-maker-trak-racer.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/hyperx-omen-max-16-review)
 
 ---
 
-### 10. Gears of War: E-Day open beta kicks off today, and PVP made it in after all 
+### 6. Asus' new monitor software lets you control brightness with your voice, or just let AI do it 
 
-The Gears of War: E-Day open beta starts today, with a pre-order access phase from August 6 to 10 for early subscribers and an open beta from August 13 to 17.
+Asus' DisplayWidget Center software now includes AI-powered features for customizable monitoring.
 
-💡 *Exclusive early access for pre-order customers and subscribers matters.*
+💡 *Voice control and AI automation simplify monitor customization and management.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113370-gears-war-e-day-open-beta-kicks-off.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113401-asus-new-monitor-software-you-control-brightness-voice.html)
+
+---
+
+### 7. RPCS3 just got a lot faster on Arm, after months of low-level optimization 
+
+RPCS3, a PlayStation 3 emulator, receives a major Arm64 upgrade, increasing performance by up to 60% and lowering power consumption by 25% on supported hardware.
+
+💡 *Improved gaming experience for Arm-based devices with enhanced performance capabilities.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7026-rpcs3-sony-playstation-3-emulator.html)
+
+---
+
+### 8. Amazon cracks down on 'CPU waste' among engineers as agentic AI crunch intensifies CPU demand makes low-utilization EC2 instances a hot commodity [Updated] 
+
+Amazon Web Services is telling engineers to reduce EC2 usage as it struggles to meet CPU capacity demand for external customers.
+
+💡 *High CPU demand from external customers outweighs internal engineers' computing needs.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amazon-cracks-down-on-cpu-waste-among-engineers-as-agentic-ai-crunch-intensifies-cpu-demand-makes-low-utilization-ec2-instances-a-hot-commodity)
+
+---
+
+### 9. Grab an entire RTX 5090 PC for just $380 more than the standalone graphics card save $1,550 off Alienware's Area-51 gaming rig 
+
+Get an Alienware RTX 5090 PC for $380 more than the standalone GPU. This is a significant saving compared to Alienware's Area-51 gaming rig, which can be discounted by $1,550.
+
+💡 *Buying a PC with RTX 5090 GPU is often cheaper than separate purchase.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/grab-an-entire-rtx-5090-pc-for-just-usd380-more-than-the-standalone-graphics-card-save-usd1-550-off-alienwares-area-51-gaming-rig)
+
+---
+
+### 10. Apple revealed the first Mac Pro 20 years ago today its Intel Xeon-powered flagship desktop took the reins from the Power Mac G5 
+
+20 years ago, Apple unveiled the first Mac Pro at WWDC, marking the transition from PowerPC to Intel Xeon chips, taking the reins from the Power Mac G5.
+
+💡 *Historic shift to Intel Xeon powered Mac workstations revolutionized performance.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/apple-revealed-the-first-mac-pro-20-years-ago-today-its-intel-xeon-powered-flagship-desktop-took-the-reins-from-the-power-mac-g5)
+
+---
+
+### 11. Save $370 on this 1440p gaming PC with an RTX 5060 Ti 16GB formidable ABS Cyclone Aqua rig ships with 20-core Intel Core i7-14700F, 16GB DDR5 and a 1TB SSD, now only $1,329.99 
+
+This ABS Cyclone Aqua gaming PC features an RTX 5060 Ti, 20-core Intel Core i7-14700F, 16GB DDR5, and a 1TB SSD for $1,329.99, saving $370 from the original price.
+
+💡 *Significant price drop on a powerful gaming PC option.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/save-usd370-on-this-1440p-gaming-pc-with-an-rtx-5060-ti-16gb-formidable-abs-cyclone-aqua-rig-ships-with-20-core-intel-core-i7-14700f-16gb-ddr5-and-a-1tb-ssd-now-only-usd1-329-99)
+
+---
+
+### 12. Take-Two's CEO predicts streaming will 10x gaming's install base within three years 
+
+Take-Two CEO Strauss Zelnick expects cloud gaming to reach tenfold growth within three years, potentially revolutionizing the gaming industry by increasing its installed base and reducing hardware costs.
+
+💡 *Cloud gaming could democratize access to gaming experiences worldwide*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113405-take-two-ceo-predicts-streaming-10x-gaming-install.html)
+
+---
+
+### 13. Google's AI somehow knew a game secret that existed only in a private Google Doc 
+
+Google's AI provided unusually specific details about a small game, sparking concern.
+
+💡 *Raising questions about AI access to sensitive, private information*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113394-google-ai-somehow-knew-game-secret-existed-only.html)
 
 ---
 

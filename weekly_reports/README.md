@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of August 07, 2026**
+**Week of August 08, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Sandisk Optimus GX 7100M 2TB SSD review: The best 2230 drive you can buy for the Steam Deck ⭐
+### 1. LILYGO T-Echo Card A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit ⭐
 
 **💻 Hardware**
 
-The Sandisk Optimus GX 7100M is a top-tier M.2 2230 SSD offering high performance and great power efficiency, available up to 2TB. It provides excellent support for the Steam Deck and other compact devices. This drive is ideal for gamers and professionals who require fast storage solutions.
+The LILYGO T-Echo Card is a weatherproof, solar-powered development kit with LoRa and GPS capabilities, supporting various wireless connectivity options and featuring a range of sensors and displays.
 
-💡 **Key Point:** Optimized for Steam Deck, delivering ultra-fast storage on the go
+💡 **Key Point:** Enabling off-grid wireless communication and tracking applications worldwide seamlessly.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/sandisk-optimus-gx-7100m-2tb-ssd-review)
+🔗 [Read More](https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/)
 
 ---
 
-### 2. Proxmox VE now officially supports 64-bit Arm (Aarch64) targets ⭐
+### 2. GEEKOM IT13 Max mini PC review Part 1: specifications, unboxing, teardown, and first boot ⭐
 
 **💻 Hardware**
 
-Proxmox VE 9.2 now supports 64-bit Arm (aarch64) targets, mirroring its x86-64 version. It relies on Debian 13.5 and Linux 7.0, and offers full support for NVIDIA Grace Hopper and Vera platforms. Best-effort support is available on other UEFI-based Armv8-A/Armv9-A hardware.
+The GEEKOM IT13 Max is a powerful Meteor Lake mini PC featuring up to 35 TOPS, sixteen cores clocked up to 5.1 GHz, and up to 24 GB LPDDR5 memory, making it suitable for AI workloads, creative tasks, and heavy multitasking.
 
-💡 **Key Point:** Expanded Arm support enables greater flexibility and device options.
+💡 **Key Point:** Powerful mini PC for AI and multitasking workloads
 
-🔗 [Read More](https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/)
+🔗 [Read More](https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/)
 
 ---
 
-### 3. Sandisk Optimus GX 7100M 2TB SSD review: The best 2230 drive you can buy for the Steam Deck ⭐
+### 3. LILYGO T-Echo Card A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit ⭐
+
+**⚡ Semiconductors**
+
+The LILYGO T-Echo Card is a weatherproof, solar-powered development kit with LoRa and GPS capabilities, supporting various wireless connectivity options and featuring a range of sensors and displays.
+
+💡 **Key Point:** Enabling off-grid wireless communication and tracking applications worldwide seamlessly.
+
+🔗 [Read More](https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/)
+
+---
+
+### 4. GEEKOM IT13 Max mini PC review Part 1: specifications, unboxing, teardown, and first boot ⭐
 
 **📰 Tech News**
 
-The Sandisk Optimus GX 7100M is a top-tier M.2 2230 SSD offering high performance and great power efficiency, available up to 2TB. It provides excellent support for the Steam Deck and other compact devices. This drive is ideal for gamers and professionals who require fast storage solutions.
+The GEEKOM IT13 Max is a powerful Meteor Lake mini PC featuring up to 35 TOPS, sixteen cores clocked up to 5.1 GHz, and up to 24 GB LPDDR5 memory, making it suitable for AI workloads, creative tasks, and heavy multitasking.
 
-💡 **Key Point:** Optimized for Steam Deck, delivering ultra-fast storage on the go
+💡 **Key Point:** Powerful mini PC for AI and multitasking workloads
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ssds/sandisk-optimus-gx-7100m-2tb-ssd-review)
-
----
-
-### 4. Proxmox VE now officially supports 64-bit Arm (Aarch64) targets ⭐
-
-**📰 Tech News**
-
-Proxmox VE 9.2 now supports 64-bit Arm (aarch64) targets, mirroring its x86-64 version. It relies on Debian 13.5 and Linux 7.0, and offers full support for NVIDIA Grace Hopper and Vera platforms. Best-effort support is available on other UEFI-based Armv8-A/Armv9-A hardware.
-
-💡 **Key Point:** Expanded Arm support enables greater flexibility and device options.
-
-🔗 [Read More](https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/)
+🔗 [Read More](https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/)
 
 ---
 
-### 5. Token Monitor An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding) 
+### 5. Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs Samsung reported as manufacturing partner for Claude maker 
 
 **🤖 AI & ML**
 
-Token Monitor is a desktop display tracking real-time AI coding assistant usage, showcasing usage information and estimated costs.
+Anthropic is co-designing custom AI inference chips to optimize efficiency and control over compute infrastructure, bypassing the need for costly Nvidia GPUs. This move will enable the company to tailor its AI models for specific workloads and improve overall performance. Samsung has been reported as a manufacturing partner for the Claude AI model.
 
-💡 **Key Point:** Real-time AI coding assistant usage tracking for cost optimization and resource management.
+💡 **Key Point:** Cost-effective AI chips bypass Nvidia GPU dependency for optimized performance.
 
-🔗 [Read More](https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/anthropic-to-build-its-own-co-designed-custom-ai-accelerator-for-inferencing-workloads-samsung-reported-to-be-partnering-with-the-claude-ai-maker-for-manufacturing)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **38 articles** across **5 focused categories**.
+We covered **51 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 18 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 3 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 15 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 9 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 18 articles
+*Artificial Intelligence and Machine Learning* — 15 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 3 articles
+*Graphics cards and compute accelerators* — 7 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 10 articles
+*Computing hardware and development boards* — 13 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 3 articles
+*Chip manufacturing and design* — 9 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 4 articles
+*Industry news and product launches* — 7 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-08-07 at 09:40 by an autonomous AI curation system.
+Generated 2026-08-08 at 09:21 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

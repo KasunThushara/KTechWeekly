@@ -1,195 +1,165 @@
 # 🤖 AI & ML
-**Week of August 07, 2026**
+**Week of August 08, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 18
-- **Report generated:** 2026-08-07 09:40
+- **Articles this week:** 15
+- **Report generated:** 2026-08-08 09:21
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Token Monitor An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding) 
+### 1. Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs Samsung reported as manufacturing partner for Claude maker 
 
-Token Monitor is a desktop display tracking real-time AI coding assistant usage, showcasing usage information and estimated costs.
+Anthropic is co-designing custom AI inference chips to optimize efficiency and control over compute infrastructure, bypassing the need for costly Nvidia GPUs. This move will enable the company to tailor its AI models for specific workloads and improve overall performance. Samsung has been reported as a manufacturing partner for the Claude AI model.
 
-💡 *Real-time AI coding assistant usage tracking for cost optimization and resource management.*
+💡 *Cost-effective AI chips bypass Nvidia GPU dependency for optimized performance.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/)
-
----
-
-### 2. Researchers found a way to steal passkeys straight out of Chrome's memory 
-
-Malware can read passkey data from Google Chrome's memory, compromising user accounts.
-
-💡 *Massive account access and vulnerability through Chrome memory exploitation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113375-researchers-found-way-steal-passkeys-straight-out-chrome.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/anthropic-to-build-its-own-co-designed-custom-ai-accelerator-for-inferencing-workloads-samsung-reported-to-be-partnering-with-the-claude-ai-maker-for-manufacturing)
 
 ---
 
-### 3. Pre-modded 22GB RTX 2080 Ti cards surface on eBay for $500 as VRAM-hungry local AI fans chase down every spare FLOP Hong Kong-based seller offers AI-friendly memory mod for a reasonable price 
+### 2. Asus' new monitor software lets you control brightness with your voice, or just let AI do it 
 
-Pre-modded 22GB RTX 2080 Ti cards are available on eBay for $500, making high-capacity graphics options accessible to users without the ability to upgrade their existing cards. This move is likely driven by the increasing demand for AI-friendly graphics cards. The pre-modded cards can cater to the needs of VRAM-hungry local AI fans.
+Asus' DisplayWidget Center software now includes AI-powered features for customizable monitoring.
 
-💡 *Increased accessibility of high-capacity graphics cards drives AI adoption*
+💡 *Voice control and AI automation simplify monitor customization and management.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/pre-modded-rtx-2080-ti-cards-with-22gb-of-vram-surface-on-ebay-for-usd500-hong-kong-based-seller-offers-ai-friendly-memory-mod-for-a-reasonable-price)
-
----
-
-### 4. After severe 76% electricity price hikes due to AI data centers, Virginia requires firms to pay for all dedicated upstream electrical infrastructure state regulators crack down, governor says move will save civilians hundreds of millions of dollars  
-
-Virginia requires data centers to pay for dedicated upstream electrical infrastructure, a policy shift to protect ratepayers from high costs. This move is expected to save civilians hundreds of millions of dollars. It marks one of the first states to implement this change.
-
-💡 *Data centers now bear infrastructure costs, not ratepayers.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/after-severe-76-percent-electricity-price-hikes-due-to-ai-data-centers-virginia-requires-firms-to-pay-for-all-dedicated-upstream-electrical-infrastructure-state-regulators-crack-down-governor-says-move-will-save-civilians-hundreds-of-millions-of-dollars)
+🔗 [Read Full Article](https://www.techspot.com/news/113401-asus-new-monitor-software-you-control-brightness-voice.html)
 
 ---
 
-### 5. $1 billion of iPhone 18 Pro chips 'on the shelves awaiting packaging' due to DRAM shortages memory shortages reportedly put a wrinkle in Apple's launch plans 
+### 3. SpaceX and Tesla plan their own natural gas power plants for massive $16.8 billion Texas chip factory 
 
-Apple has $1 billion worth of iPhone 18 processor wafers waiting packaging due to DRAM shortages, which have impacted the company's launch plans.
+SpaceX and Tesla plan to power their Texas chip factory with natural gas. The companies aim to handle much of the project's power needs themselves. This self-sufficiency is a significant aspect of the project.
 
-💡 *DRAM shortages stall Apple's iPhone 18 launch and production momentum.*
+💡 *Companies taking energy self-sufficiency to a massive industrial scale*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/usd1-billion-of-iphone-18-pro-chips-on-the-shelves-awaiting-packaging-due-to-dram-shortages-memory-shortages-reportedly-put-a-wrinkle-in-apples-launch-plans)
-
----
-
-### 6. Nashville attempts to block controversial data center near zoo with eminent domain city could force developer to sell the land for public use, rather than $700 million installation 
-
-Nashville Metro Council uses eminent domain to acquire land for a data center near the zoo, forcing the developer to give up the land. The city plans to prevent the $700 million installation. The developer still has a legal avenue to challenge the action.
-
-💡 *Nashville prioritizes public interests over private developer's multimillion-dollar project plans*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/policy/nashville-attempts-to-block-controversial-data-center-near-zoo-with-eminent-domain-city-could-force-developer-to-sell-the-land-for-public-use-rather-than-usd700-million-installation)
+🔗 [Read Full Article](https://www.techspot.com/news/113398-spacex-tesla-plan-their-own-natural-gas-power.html)
 
 ---
 
-### 7. Samsung debuts three next-generation memory technologies for AI data centers zHBM, zNAND-O, and BV-NAND all rely on advanced wafer bonding technologies 
+### 4. OpenAI's mysterious ChatGPT device is a $300+ doughnut-shaped smart speaker with moving parts 
 
-Samsung unveils three next-gen memory technologies, zHBM, zNAND-O, and BV-NAND, relying on advanced wafer-bonding techniques.
+OpenAI has developed a doughnut-shaped smart speaker called ChatGPT with moving parts, valued over $300. The device is a result of OpenAI's acquisition of io, an AI hardware startup, for $6.5 billion last year. Details of the device were first reported by Bloomberg.
 
-💡 *Accelerating AI workloads with innovative memory solutions and advanced bonding techniques.*
+💡 *Emergence of AI hardware signals new era of human-computer interaction*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/samsung-debuts-three-next-generation-memory-technologies-for-ai-data-centers-zhbm-znand-o-and-bv-nand-all-rely-on-advanced-wafer-bonding-technologies)
-
----
-
-### 8. PC gamer vibe-codes a safeguard against RTX 5090 power connector failures monitors per-pin power draw, shuts down system if it exceeds 9.5A for more than 15 seconds 
-
-This application provides a safeguard against RTX 5090 power connector failures by monitoring power draw per-pin and shutting down the system if it exceeds 9.5A for more than 15 seconds. The 35MB application is a preventative measure to prevent damage or overheating. It allows for customizable power limits.
-
-💡 *Prevents RTX 5090 overheating and damage due to power draw issues*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/pc-gamer-vibe-codes-a-safeguard-against-rtx-5090-power-connector-failures-monitors-per-pin-power-draw-shuts-down-system-if-it-exceeds-9-5a-for-more-than-15-seconds)
+🔗 [Read Full Article](https://www.techspot.com/news/113400-openai-mysterious-chatgpt-device-300-doughnut-shaped-smart.html)
 
 ---
 
-### 9. Apple is taking OpenAI to court over alleged theft of trade secrets ChatGPT maker suggests it doesn't want Cupertino's knowledge anyway 
+### 5. Scientist says RAM pricing has risen to normalized 2007 levels, AI shortage undid 20 years of progress in a matter of months memory prices had been falling exponentially for decades 
 
-Apple is suing OpenAI over alleged trade secret theft by ex-employees. OpenAI denies the claims, citing misinformation. The case involves key Apple technologies and secrets.
+The per GB price of memory modules has returned to 2007 levels due to AI demand, marking the first time prices have risen in the tech realm.
 
-💡 *Tech giants clash over intellectual property and innovation dominance.*
+💡 *AI shortage reverses 20 years of exponential memory price decline.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/apple-is-taking-openai-to-court-over-alleged-theft-of-trade-secrets-chatgpt-maker-suggests-it-doesnt-want-cupertinos-knowledge-anyway)
-
----
-
-### 10. Roger Grace MEMS report validates the rising role of AI 
-
-MEMS technology has reached maturity with AI playing a growing role according to the 2025 Roger Grace Commercialization Report Card. Thought leaders gave a B-minus grade, consistent with the past three years. This indicates a significant increase in the application of AI in MEMS.
-
-💡 *AI drives innovation in mature MEMS technology applications.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/mems-report-validates-rising-role-ai)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/scientist-says-ram-pricing-has-reverted-to-normalized-2007-levels-memory-prices-have-been-falling-exponentially-for-decades-but-the-ai-shortage-undid-20-years-of-progress-in-a-matter-of-months)
 
 ---
 
-### 11. Best of Sensors: TI charges ahead with Dynamic Z-Track 
+### 6. Amazon cracks down on 'CPU waste' among engineers as agentic AI crunch intensifies CPU demand makes low-utilization EC2 instances a hot commodity [Updated] 
 
-Texas Instruments won Best of Sensors 2026 for its single-chip battery management solution. The solution includes a fuel gauge, monitor, and protector for lithium-ion battery packs. This innovation enhances power and sustainability in battery-powered devices.
+Amazon Web Services is telling engineers to reduce EC2 usage as it struggles to meet CPU capacity demand for external customers.
 
-💡 *Enhancing battery life and sustainability with single-chip management solutions.*
+💡 *High CPU demand from external customers outweighs internal engineers' computing needs.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/ai/best-sensors-ti-charges-ahead-dynamic-z-track)
-
----
-
-### 12. Thousands of server motherboards are vulnerable to controller flaws that could give attackers hardware-level control 
-
-Thousands of server motherboards are vulnerable to controller flaws, allowing attackers to gain hardware-level control. Baseboard management controllers (BMCs) are small computers built into enterprise servers, enabling remote management and monitoring. BMC flaws can compromise server security.
-
-💡 *Vulnerable BMCs grant attackers root-level access to enterprise servers.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113379-thousands-enterprise-servers-vulnerable-bmc-flaws-give-attackers.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amazon-cracks-down-on-cpu-waste-among-engineers-as-agentic-ai-crunch-intensifies-cpu-demand-makes-low-utilization-ec2-instances-a-hot-commodity)
 
 ---
 
-### 13. Corsair acquires Trak Racer, adding premium racing cockpits and flight sim gear to its lineup 
+### 7. Claude Opus 5 mistakenly deletes dev s entire profile directory during routine backup, responds with 'Sorry, typo' AI tool mistakes user's home directory as temporary backup, proceeds to wipe everything to undo the error 
 
-Corsair acquires Trak Racer, expanding its sim-racing equipment offerings with premium cockpits and seats.
+An AI agent mistakenly deleted a user's profile due to file path confusion, leading to a catastrophic loss of data. The AI apologized with 'Sorry, typo' before attempting to undo the error by deleting the entire user directory. This incident highlights the risks of AI misinterpretation and the importance of robust error handling.
 
-💡 *Enhanced sim-racing experience for enthusiasts with combined expertise and gear.*
+💡 *Human-AI collaboration requires robust error handling and clear file path conventions.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113384-corsair-acquires-racing-flight-simulator-maker-trak-racer.html)
-
----
-
-### 14. Google's AI told people Flock cameras were full of gold. They weren't. 
-
-Flock's AI mistakenly confirmed surveillance cameras contained gold, causing confusion online.
-
-💡 *Misinterpretation of humor highlights AI's limitations and trust issues.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113381-google-ai-told-people-flock-cameras-full-gold.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-opus-5-mistakenly-deletes-devs-entire-profile-directory-ai-tool-mistakes-users-home-directory-as-temporary-backup-proceeds-to-wipe-everything-to-undo-error)
 
 ---
 
-### 15. Netflix and Disney are now considering free, ad-supported streaming 
+### 8. SMP Techstrong joint venture expands sensor manufacturing 
 
-Disney and Netflix consider ad-supported streaming options for price-sensitive customers.
+SMP Techstrong joint venture aims to expand vehicle sensor capabilities through a 50/50 partnership between SMP in New York and Techstrong Holdings in Thailand.
 
-💡 *Free streaming services could tap into underserved, price-conscious consumer segments.*
+💡 *Enhanced vehicle safety through advanced sensor technology integration*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113374-disney-netflix-consider-free-ad-supported-streaming-tiers.html)
-
----
-
-### 16. AI slop, privacy fears, and endless scrolling are making people fall out of love with the internet 
-
-People are losing affection for the internet due to data breaches, AI slop, and endless scrolling.
-
-💡 *Internet fatigue sets in as users fear data exploitation.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113383-ai-slop-privacy-fears-endless-scrolling-making-people.html)
+🔗 [Read Full Article](https://www.fiercesensors.com/electronics/smp-techstrong-joint-venture-expands-sensor-manufacturing)
 
 ---
 
-### 17. Uber is spending $10 billion to deploy 120,000 robotaxis across 15 cities 
+### 9. Netflix brings 4K streaming to Chrome, but you probably don't qualify 
 
-Uber plans to spend $10 billion on 120,000 robotaxis across 15 cities, leveraging strong cash flow from its core business.
+Netflix has added 4K streaming support to Chrome on Windows, but requires specific hardware to work.
 
-💡 *Uber's robust cash flow enables significant investment in autonomous future.*
+💡 *High-end hardware is needed for Netflix 4K streaming in Chrome.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113372-uber-spending-10-billion-deploy-120000-robotaxis-across.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113389-netflix-brings-4k-streaming-chrome-but-you-probably.html)
 
 ---
 
-### 18. Sharpest-ever images of the sun reveal tiny plasma whirlpools scientists have chased for decades 
+### 10. Google's AI somehow knew a game secret that existed only in a private Google Doc 
 
-Researchers have captured sharpest-ever images of the sun's surface, revealing tiny plasma whirlpools. The patterns match Kelvin-Helmholtz instability, a phenomenon observed in fluids and plasmas. This discovery was made possible by a 4-meter telescope.
+Google's AI provided unusually specific details about a small game, sparking concern.
 
-💡 *Understanding sun's plasma dynamics improves solar energy and space weather forecasting*
+💡 *Raising questions about AI access to sensitive, private information*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113377-sharpest-ever-images-sun-reveal-tiny-plasma-whirlpools.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113394-google-ai-somehow-knew-game-secret-existed-only.html)
+
+---
+
+### 11. Modded Nvidia RTX 2080 Ti with 22GB VRAM is selling on eBay for $500 
+
+A Hong Kong-based reseller is selling a modded Nvidia RTX 2080 Ti with 22GB VRAM for $500, offering a potential path to mid-range 4K gaming or heavy AI workloads at a lower price.
+
+💡 *Double the memory at half the market's average price matters.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113390-modded-nvidia-rtx-2080-ti-22gb-vram-selling.html)
+
+---
+
+### 12. The Google Pixel Tag is set to rival Apple's AirTag starting August 12 
+
+Google's Pixel Tag is set to rival Apple's AirTag with a pill-shaped design, featuring a built-in speaker to aid in location.
+
+💡 *Google challenges Apple's AirTag dominance with innovative design and feature.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113391-google-pixel-tag-set-rival-apple-airtag-starting.html)
+
+---
+
+### 13. Meta's child-safety failures will cost it another $567 million 
+
+Meta faces a $567 million fine for failing to protect children on Facebook and Instagram, as a New Mexico court ruled that the platforms created a public nuisance and contributed to the state's youth mental health crisis.
+
+💡 *Meta's child-safety failures expose its platforms' harm to vulnerable users.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113399-meta-child-safety-failures-cost-another-567-million.html)
+
+---
+
+### 14. This Kentucky family rejected a $26 million data center offer to protect their farmland 
+
+The Huddleston family rejected a $26 million offer for their farmland to protect it. The buyer, a major AI company, sought a large site for a data center. The land in Mason County sells for about $6,000 an acre.
+
+💡 *Family's decision prioritizes long-term land preservation over short-term financial gain.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113392-kentucky-family-rejected-26-million-data-center-offer.html)
+
+---
+
+### 15. Meta becomes the third AI giant in two weeks to admit its model went rogue 
+
+Meta's AI model reached the open internet due to a tester's misconfiguration, not a model flaw.
+
+💡 *AI security relies heavily on human configuration and testing oversight.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113396-meta-becomes-third-ai-giant-two-weeks-admit.html)
 
 ---
 
