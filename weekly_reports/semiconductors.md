@@ -1,105 +1,65 @@
 # ⚡ Semiconductors
-**Week of August 08, 2026**
+**Week of August 09, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 9
-- **Report generated:** 2026-08-08 09:21
+- **Articles this week:** 5
+- **Report generated:** 2026-08-09 09:22
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. LILYGO T-Echo Card A weatherproof, solar-powered, nRF52840-based LoRa + GPS development kit ⭐
+### 1. MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging ⭐
 
-The LILYGO T-Echo Card is a weatherproof, solar-powered development kit with LoRa and GPS capabilities, supporting various wireless connectivity options and featuring a range of sensors and displays.
+The Makerfabs MaTouch ESP32-S3 MaUWB board integrates a 3.95-inch touchscreen, ESP32-S3 MCU, and UWB module for indoor positioning and ranging applications. It uses trilateration with up to three fixed UWB anchors to calculate coordinates in real time. The board includes a LiPo battery connector and charging circuit for portable use.
 
-💡 *Enabling off-grid wireless communication and tracking applications worldwide seamlessly.*
+💡 *Indoor positioning made easy with precise UWB location tracking.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/)
-
----
-
-### 2. This week on Tom's Hardware Premium: August 7, 2026 Inside China's lithography efforts, co-packaged optics get a spotlight, and Samsung debuts next-gen memory tech 
-
-This week on Tom's Hardware Premium, we explore China's chipmaking efforts, co-packaged optics, and Samsung's latest memory technology. A redesigned Bench tool is also discussed. Our technical breakdown of Samsung's announcements is available for free.
-
-💡 *Advancements in chipmaking and memory tech drive global tech innovation.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-7-2026-inside-chinas-lithography-efforts-co-packaged-optics-get-a-spotlight-and-samsung-debuts-next-gen-memory-tech)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/)
 
 ---
 
-### 3. RPCS3 just got a lot faster on Arm, after months of low-level optimization 
+### 2. SK Hynix is spending $38 billion to build two new chip fabs 
 
-RPCS3, a PlayStation 3 emulator, receives a major Arm64 upgrade, increasing performance by up to 60% and lowering power consumption by 25% on supported hardware.
+SK Hynix is investing $38 billion in two new chip fabs to boost its DRAM and NAND flash manufacturing capacity.
 
-💡 *Improved gaming experience for Arm-based devices with enhanced performance capabilities.*
+💡 *Global memory chip supply is set to increase significantly with this massive investment.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/7026-rpcs3-sony-playstation-3-emulator.html)
-
----
-
-### 4. SpaceX and Tesla plan their own natural gas power plants for massive $16.8 billion Texas chip factory 
-
-SpaceX and Tesla plan to power their Texas chip factory with natural gas. The companies aim to handle much of the project's power needs themselves. This self-sufficiency is a significant aspect of the project.
-
-💡 *Companies taking energy self-sufficiency to a massive industrial scale*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113398-spacex-tesla-plan-their-own-natural-gas-power.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113403-sk-hynix-spending-38-billion-build-two-new.html)
 
 ---
 
-### 5. Apple revealed the first Mac Pro 20 years ago today its Intel Xeon-powered flagship desktop took the reins from the Power Mac G5 
+### 3. Pulsar Feinmann F01 Noctua Edition Review: Extra cool 
 
-20 years ago, Apple unveiled the first Mac Pro at WWDC, marking the transition from PowerPC to Intel Xeon chips, taking the reins from the Power Mac G5.
+The Pulsar Feinmann F01 Noctua Edition is a lightweight gaming mouse featuring a built-in fan to keep the palm cool, providing a comfortable gaming experience. It's designed for long gaming sessions with minimal hand fatigue. The mouse also boasts high-precision sensor technology.
 
-💡 *Historic shift to Intel Xeon powered Mac workstations revolutionized performance.*
+💡 *Cooling technology enhances gaming comfort and endurance*
 
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/apple-revealed-the-first-mac-pro-20-years-ago-today-its-intel-xeon-powered-flagship-desktop-took-the-reins-from-the-power-mac-g5)
-
----
-
-### 6. Elon Musk's massive Terafab chip-making facility starts to take shape 100 million square feet of manufacturing space and $16.8B initial capital investment 
-
-SpaceX and Tesla start constructing the Terafab facility, a massive chip-making site three times larger than Samsung's Pyeongtaek campus, with an initial $16.8 billion investment.
-
-💡 *Game-changing semiconductor production capacity will reshape global tech landscape.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/terafab-starts-to-take-shape-100-million-square-feet-of-manufacturing-space-and-usd16-8b-initial-capital-investment)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/pulsar-feinmann-f01-noctua-edition-review)
 
 ---
 
-### 7. SMP Techstrong joint venture expands sensor manufacturing 
+### 4. China's memory-making champion smashes DDR5-8800 barrier on AMD platform CXMT chips close the gap with SK hynix 
 
-SMP Techstrong joint venture aims to expand vehicle sensor capabilities through a 50/50 partnership between SMP in New York and Techstrong Holdings in Thailand.
+Colorful showcases the overclocking potential of CXMT memory kits on AMD platforms, reaching DDR5-8800 speeds. This achievement demonstrates the growing competition between memory manufacturers, with CXMT closing the gap with industry leaders like SK hynix. The success highlights the increasing performance capabilities of memory technology.
 
-💡 *Enhanced vehicle safety through advanced sensor technology integration*
+💡 *Memory manufacturers are closing the gap in performance and capabilities.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/electronics/smp-techstrong-joint-venture-expands-sensor-manufacturing)
-
----
-
-### 8. The Google Pixel Tag is set to rival Apple's AirTag starting August 12 
-
-Google's Pixel Tag is set to rival Apple's AirTag with a pill-shaped design, featuring a built-in speaker to aid in location.
-
-💡 *Google challenges Apple's AirTag dominance with innovative design and feature.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113391-google-pixel-tag-set-rival-apple-airtag-starting.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/chinas-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platform-cxmt-chips-close-the-gap-with-sk-hynix)
 
 ---
 
-### 9. This Kentucky family rejected a $26 million data center offer to protect their farmland 
+### 5. Modder turns Steam Controller trackpad haptics into stereo speakers with custom HID tool Wired connection transmits 16-bit audio that sounds surprisingly full 
 
-The Huddleston family rejected a $26 million offer for their farmland to protect it. The buyer, a major AI company, sought a large site for a data center. The land in Mason County sells for about $6,000 an acre.
+A modder has repurposed a Steam Controller's haptic motors as speakers, achieving impressive audio quality via USB.
 
-💡 *Family's decision prioritizes long-term land preservation over short-term financial gain.*
+💡 *Repurposing haptic motors as speakers unlocks novel low-cost audio solutions.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113392-kentucky-family-rejected-26-million-data-center-offer.html)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/modder-turns-steam-controller-trackpad-haptics-into-stereo-speakers-with-custom-hid-tool-wired-connection-transmits-16-bit-audio-that-sounds-surprisingly-full)
 
 ---
 

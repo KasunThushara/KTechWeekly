@@ -1,85 +1,55 @@
 # 📰 Tech News
-**Week of August 08, 2026**
+**Week of August 09, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-08-08 09:21
+- **Articles this week:** 4
+- **Report generated:** 2026-08-09 09:22
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. GEEKOM IT13 Max mini PC review Part 1: specifications, unboxing, teardown, and first boot ⭐
+### 1. SK Hynix is spending $38 billion to build two new chip fabs 
 
-The GEEKOM IT13 Max is a powerful Meteor Lake mini PC featuring up to 35 TOPS, sixteen cores clocked up to 5.1 GHz, and up to 24 GB LPDDR5 memory, making it suitable for AI workloads, creative tasks, and heavy multitasking.
+SK Hynix is investing $38 billion in two new chip fabs to boost its DRAM and NAND flash manufacturing capacity.
 
-💡 *Powerful mini PC for AI and multitasking workloads*
+💡 *Global memory chip supply is set to increase significantly with this massive investment.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/)
-
----
-
-### 2. HyperX Omen Max 16 review: All bark and no bite 
-
-The HyperX Omen Max 16 appears as a powerful gaming laptop, but its performance falls short of expectations.
-
-💡 *Gaming performance doesn't match laptop's powerful appearance and features.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/hyperx-omen-max-16-review)
+🔗 [Read Full Article](https://www.techspot.com/news/113403-sk-hynix-spending-38-billion-build-two-new.html)
 
 ---
 
-### 3. Quake turns 30, and it just got two surprise expansions in one week 
+### 2. Atari ST Public Floppy Database now open for everyone online archive originally designed for ST flash cart packed with classics and homebrew 
 
-Quake turns 30 with the release of Dawn of the Machine, a free expansion to the original 1996 Quake. MachineGames developed the expansion in collaboration with id Software. This marks a significant milestone for the classic first-person shooter.
+The Atari ST Public Floppy Database is now online, providing easy access to a vast collection of floppy disks containing classic and homebrew games.
 
-💡 *Classic game revamp attracts new and nostalgic gamers alike.*
+💡 *Preserving Atari ST gaming history for enthusiasts worldwide.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113397-quake-turns-30-got-two-surprise-expansions-one.html)
-
----
-
-### 4. OpenAI's mysterious ChatGPT device is a $300+ doughnut-shaped smart speaker with moving parts 
-
-OpenAI has developed a doughnut-shaped smart speaker called ChatGPT with moving parts, valued over $300. The device is a result of OpenAI's acquisition of io, an AI hardware startup, for $6.5 billion last year. Details of the device were first reported by Bloomberg.
-
-💡 *Emergence of AI hardware signals new era of human-computer interaction*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113400-openai-mysterious-chatgpt-device-300-doughnut-shaped-smart.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/atari-st-public-floppy-database-now-open-for-everyone-online-archive-originally-designed-for-st-flash-cart-packed-with-classics-and-homebrew)
 
 ---
 
-### 5. Nvidia sells RTX 50-series GPUs at MSRP during QuakeCon 2026 graphics cards sold at launch prices more than a year after release are now considered an attraction 
+### 3. Cloudflare says humans could become a "rounding error" as bots generate 1,000 times more internet traffic 
 
-Nvidia is selling RTX 50-series GPUs at MSRP at QuakeCon 2026, with limited supplies available.
+Cloudflare predicts humans may become a 'rounding error' as bots generate significantly more internet traffic, potentially making human activity negligible.
 
-💡 *Historic MSRP sales indicate supply chain has normalized significantly.*
+💡 *Human internet activity could become a statistical anomaly.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-sells-rtx-50-series-gpus-at-msrp-during-quakecon-2026-graphics-cards-sold-at-launch-prices-more-than-a-year-after-release-are-now-considered-an-attraction)
-
----
-
-### 6. How Humble Robotics validates camera, lidar and radar systems without millions of road miles 
-
-Humble Robotics employs a camera-first approach to autonomous freight, utilizing lidar and radar redundancy, and photorealistic simulations to validate systems without requiring extensive real-world testing.
-
-💡 *Simulation-based validation reduces testing costs and road miles required.*
-
-🔗 [Read Full Article](https://www.fiercesensors.com/electronics/how-humble-robotics-validates-camera-lidar-and-radar-systems-without-millions-road)
+🔗 [Read Full Article](https://www.techspot.com/news/113410-cloudflare-humans-could-become-rounding-error-bots-generate.html)
 
 ---
 
-### 7. Flock's biggest investor also backs a company that can rewrite camera footage 
+### 4. Windows 11 26H2 is a small update with big quality-of-life improvements, expected around October 2026 
 
-Flock's top investor also backed a company that manipulates camera footage. Andreessen Horowitz led Flock's $275 million funding round in March 2025. This raises concerns about potential security risks.
+Windows 11 26H2 brings quality-of-life improvements, particularly for power users and IT teams. The 26H2 update integrates existing features like Point-in-Time Restore and Cloud Rebuild, alongside UI enhancements. It's expected to release in October 2026.
 
-💡 *Flock's investor ties expose potential security vulnerabilities in connected camera systems.*
+💡 *Improvements for power users and IT teams enhance Windows 11 experience.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113395-flock-biggest-investor-also-backs-company-can-rewrite.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113388-windows-11-26h2-small-update-big-quality-life.html)
 
 ---
 
