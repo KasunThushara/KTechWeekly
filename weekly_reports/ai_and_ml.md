@@ -1,85 +1,105 @@
 # 🤖 AI & ML
-**Week of August 09, 2026**
+**Week of August 10, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-08-09 09:22
+- **Articles this week:** 9
+- **Report generated:** 2026-08-10 10:01
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Intel's proposed orbital data centers would manage thousands of simple LEO satellites two-tier network puts the brains of satellite constellations in higher orbit 
+### 1. Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port ⭐
 
-Intel's proposed orbital data centers use higher-orbit satellites to manage LEO constellations, reducing reliance on terrestrial control centers. This architecture enables efficient and scalable management of satellite constellations. By placing the 'brains' of the satellite network in higher orbit, Intel aims to improve the overall performance and reliability of satellite communications.
+Comu is a $6, 13x9.4mm RISC-V development board for bare-metal programming and USB projects.
 
-💡 *Centralizing satellite management in higher orbit boosts communication efficiency*
+💡 *Ultra-compact RISC-V board for low-cost, high-precision USB experimentation.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/space/intels-proposed-orbital-data-centers-would-manage-thousands-of-simple-leo-satellites-two-tier-network-puts-the-brains-of-satellite-constellations-in-higher-orbit)
-
----
-
-### 2. AI creates 16 new viruses that never existed in nature after learning DNA s pattern from 9 trillion nucleotides experts warn such applications are way ahead of necessary guardrails 
-
-Researchers used AI to create 16 new viral genomes from DNA patterns, 16 of which are viable and can infect E. coli bacteria. These new viruses were designed using AI models trained on trillions of DNA building blocks. The study raises concerns about the potential misuse of such advanced genetic engineering techniques.
-
-💡 *Creating new, potentially deadly viruses raises security and safety concerns.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/)
 
 ---
 
-### 3. Amazon secretly circumvents community vote for massive AI data center using 45-year-old rules Gilroy residents locked out of public comment window 
+### 2. Chinese farmer kills 25 acres of crops after following AI-generated weed and pest control advice farmer trusted pesticide recipe after months of successful advice 
 
-Amazon built a massive AI data center in Gilroy, CA, secretly, despite public comments being open until 2024. Residents were surprised by the sudden construction. Local rules from 1978 facilitated the project's approval.
+A Chinese farmer followed AI-generated advice, killing his 25-acre sesame crop.
 
-💡 *Outdated local rules can undermine community input and public participation rights.*
+💡 *Overreliance on AI can lead to devastating mistakes in farming decisions.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
-
----
-
-### 4. NASA modded space station's laptops so everyone could use the same charger standardizing ISS chargers eliminated useless weight and reduced failure points 
-
-NASA standardized the power connector for ISS laptops to reduce weight and failure points.
-
-💡 *Standardization eliminates unnecessary weight and reduces technical complications*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/space/nasa-modded-space-stations-laptops-so-everyone-could-use-the-same-charger-standardizing-iss-chargers-eliminated-useless-weight-and-reduced-failure-points)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-farmer-kills-25-acres-of-crops-after-following-ai-generated-weed-and-pest-control-advice-farmer-trusted-pesticide-recipe-after-months-of-successful-advice)
 
 ---
 
-### 5. Flock wanted to put license plate cameras on 350,000 Uber and Lyft dashcams 
+### 3. Two variants of Nvidia's RTX Spark show up on Geekbench, revealing a cut-down 18-core model Full 20-core beats most x86 mobile chips across multi-core and single-core tests 
 
-Flock planned to install license plate readers on 350,000 delivery vehicles in Georgia, expanding surveillance capabilities. The proposal, obtained by 404 Media, reveals the company's ambitious goal. The plans are part of Flock's existing AI-powered camera network.
+Nvidia's RTX Spark variants have been spotted on Geekbench, showcasing their performance capabilities. The 20-core model outperformed many x86 mobile chips, while the 18-core variant still showed impressive results.
 
-💡 *Massive surveillance expansion via license plate readers on delivery vehicles*
+💡 *Nvidia's RTX Spark offers significant multi-core performance advantages*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113407-flock-wanted-put-license-plate-cameras-350000-uber.html)
-
----
-
-### 6. Apple's rumored "Ultra" lineup would include a foldable iPhone, camera AirPods, and a touchscreen MacBook 
-
-Apple's rumored 'Ultra' lineup includes a foldable iPhone, camera AirPods, and a touchscreen MacBook. The foldable phone, likely the iPhone Ultra, is expected to be Apple's most expensive iPhone. It may start at $1,999-$2,499.
-
-💡 *Revolutionizing mobile technology with foldable displays and advanced features*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113404-apple-rumored-ultra-lineup-would-include-foldable-iphone.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/two-variants-of-nvidias-rtx-spark-show-up-on-geekbench-revealing-a-cut-down-18-core-model-full-20-core-beats-most-x86-mobile-chips-across-multi-core-and-single-core-tests)
 
 ---
 
-### 7. Windows 11 26H2 is a small update with big quality-of-life improvements, expected around October 2026 
+### 4. Amazon s new 7.65GW Texas AI data center power plant could become the largest source of CO pollution in the US custom 35-turbine gas plant authorized to emit 33 million tons of annual greenhouse gases 
 
-Windows 11 26H2 brings quality-of-life improvements, particularly for power users and IT teams. The 26H2 update integrates existing features like Point-in-Time Restore and Cloud Rebuild, alongside UI enhancements. It's expected to release in October 2026.
+Amazon's 7.65GW Texas power plant could become the largest CO polluter in the US, emitting up to 33 million tons of CO per year to fuel its new AI data center.
 
-💡 *Improvements for power users and IT teams enhance Windows 11 experience.*
+💡 *Massive AI infrastructure fueled by gas could offset climate gains.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113388-windows-11-26h2-small-update-big-quality-life.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases)
+
+---
+
+### 5. Kansas town silences public comment on gigawatt AI data center after receiving death threats, moves to virtual meetings shift follows physics teacher's arrest for clapping at data center hearing 
+
+Emporia, Kansas, shifted to virtual city council meetings due to death threats, silencing public comments.
+
+💡 *Government secrecy undermines trust and civic engagement in the face of intimidation.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/kansas-town-silences-public-comment-on-gigawatt-ai-data-center-after-receiving-death-threats-moves-to-virtual-meetings-shift-follows-physics-teachers-arrest-for-clapping-at-data-center-hearing)
+
+---
+
+### 6. A misleading headline made people think AI was replacing 911 dispatchers 
+
+New Orleans is using AI to screen duplicate 911 calls in limited situations, freeing human dispatchers for more complex tasks.
+
+💡 *AI augmentation enhances 911 efficiency, not replacement of human dispatchers*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113411-misleading-headline-made-people-think-ai-replacing-911.html)
+
+---
+
+### 7. This wearable patch could get you into REM sleep 43 minutes faster 
+
+A wearable patch combines ultrasound and brain activity tracking to induce REM sleep faster.
+
+💡 *Accelerates REM sleep onset by 43 minutes with personalized brain stimulation.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113409-wearable-patch-could-get-you-rem-sleep-43.html)
+
+---
+
+### 8. A jailbreak for iOS 26 is finally here, 326 days after launch 
+
+A jailbreak for iOS 26 has been released, 326 days after its launch. This release also adds support for older iOS versions, specifically from iOS 16.5.1 to iOS 17.3.1.
+
+💡 *Enhanced compatibility for older iOS devices with new jailbreak release.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113408-jailbreak-ios-26-finally-here-326-days-after.html)
+
+---
+
+### 9. Meta CTO says employees should use AI productivity gains to do more work, calls request for extra days off "very dumb" 
+
+Meta's CTO suggests using AI productivity gains to work more hours, not taking extra time off.
+
+💡 *Expectation of increased productivity without corresponding time-off benefits is a concern.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113413-meta-cto-workers-use-ai-productivity-gains-do.html)
 
 ---
 

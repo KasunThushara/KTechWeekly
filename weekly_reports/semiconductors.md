@@ -1,65 +1,85 @@
 # ⚡ Semiconductors
-**Week of August 09, 2026**
+**Week of August 10, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-08-09 09:22
+- **Articles this week:** 7
+- **Report generated:** 2026-08-10 10:01
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging ⭐
+### 1. Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion ⭐
 
-The Makerfabs MaTouch ESP32-S3 MaUWB board integrates a 3.95-inch touchscreen, ESP32-S3 MCU, and UWB module for indoor positioning and ranging applications. It uses trilateration with up to three fixed UWB anchors to calculate coordinates in real time. The board includes a LiPo battery connector and charging circuit for portable use.
+The RAKwireless WisGate Connect Router RAK7392 is an industrial-grade edge router built around Raspberry Pi Compute Module 4/5, featuring 2.5GbE, mini PCIe, and WisBlock expansion for IoT applications.
 
-💡 *Indoor positioning made easy with precise UWB location tracking.*
+💡 *Simplified IoT deployments with a single, versatile edge gateway device.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/)
-
----
-
-### 2. SK Hynix is spending $38 billion to build two new chip fabs 
-
-SK Hynix is investing $38 billion in two new chip fabs to boost its DRAM and NAND flash manufacturing capacity.
-
-💡 *Global memory chip supply is set to increase significantly with this massive investment.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113403-sk-hynix-spending-38-billion-build-two-new.html)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/)
 
 ---
 
-### 3. Pulsar Feinmann F01 Noctua Edition Review: Extra cool 
+### 2. Chinese farmer kills 25 acres of crops after following AI-generated weed and pest control advice farmer trusted pesticide recipe after months of successful advice 
 
-The Pulsar Feinmann F01 Noctua Edition is a lightweight gaming mouse featuring a built-in fan to keep the palm cool, providing a comfortable gaming experience. It's designed for long gaming sessions with minimal hand fatigue. The mouse also boasts high-precision sensor technology.
+A Chinese farmer followed AI-generated advice, killing his 25-acre sesame crop.
 
-💡 *Cooling technology enhances gaming comfort and endurance*
+💡 *Overreliance on AI can lead to devastating mistakes in farming decisions.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/pulsar-feinmann-f01-noctua-edition-review)
-
----
-
-### 4. China's memory-making champion smashes DDR5-8800 barrier on AMD platform CXMT chips close the gap with SK hynix 
-
-Colorful showcases the overclocking potential of CXMT memory kits on AMD platforms, reaching DDR5-8800 speeds. This achievement demonstrates the growing competition between memory manufacturers, with CXMT closing the gap with industry leaders like SK hynix. The success highlights the increasing performance capabilities of memory technology.
-
-💡 *Memory manufacturers are closing the gap in performance and capabilities.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/chinas-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platform-cxmt-chips-close-the-gap-with-sk-hynix)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-farmer-kills-25-acres-of-crops-after-following-ai-generated-weed-and-pest-control-advice-farmer-trusted-pesticide-recipe-after-months-of-successful-advice)
 
 ---
 
-### 5. Modder turns Steam Controller trackpad haptics into stereo speakers with custom HID tool Wired connection transmits 16-bit audio that sounds surprisingly full 
+### 3. Europe expands its Starlink rival to 348 satellites as IRIS moves into implementation 15.6 billion network will boost EU government capacity by 60%, with launches starting in 2029 
 
-A modder has repurposed a Steam Controller's haptic motors as speakers, achieving impressive audio quality via USB.
+Europe finalizes 15.6 billion IRIS satellite network with 348 satellites, launching in 2029.
 
-💡 *Repurposing haptic motors as speakers unlocks novel low-cost audio solutions.*
+💡 *Significant EU government capacity boost through enhanced satellite connectivity*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/modder-turns-steam-controller-trackpad-haptics-into-stereo-speakers-with-custom-hid-tool-wired-connection-transmits-16-bit-audio-that-sounds-surprisingly-full)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/space/europe-expands-its-starlink-rival-to-348-satellites-as-iris2-moves-into-implementation-eur15-6-billion-network-will-boost-eu-government-capacity-by-60-percent-with-launches-starting-in-2029)
+
+---
+
+### 4. Musk s Terafab projected to be larger than the Pentagon, Apple Park, Mall of America, and Giga Texas, combined all-in-one chip manufacturing facility visualized to show the project s massive footprint 
+
+Elon Musk's Terafab will be the largest structure on Earth, with 100 million sq. ft of interior space, housing multiple semiconductor manufacturing processes.
+
+💡 *Massive scale enables single-site integration of diverse semiconductor manufacturing processes.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/musks-terafab-projected-to-be-larger-than-the-pentagon-apple-park-mall-of-america-and-giga-texas-combined-all-in-one-chip-manufacturing-facility-visualized-to-show-the-projects-massive-footprint)
+
+---
+
+### 5. Amazon s new 7.65GW Texas AI data center power plant could become the largest source of CO pollution in the US custom 35-turbine gas plant authorized to emit 33 million tons of annual greenhouse gases 
+
+Amazon's 7.65GW Texas power plant could become the largest CO polluter in the US, emitting up to 33 million tons of CO per year to fuel its new AI data center.
+
+💡 *Massive AI infrastructure fueled by gas could offset climate gains.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases)
+
+---
+
+### 6. Micron reportedly offers pennies on the dollar for Crucial RAM return, only offers to reimburse original MSRP despite it being only 37% of market value chipmaker later reverses course with a better solution 
+
+Micron initially offered low reimbursement for Crucial RAM returns, later reverting to a better solution.
+
+💡 *Companies' warranty processes can have significant customer satisfaction implications.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/micron-reportedly-offers-pennies-on-the-dollar-for-crucial-ram-return-only-offers-to-reimburse-original-msrp-despite-it-being-only-37-percent-of-market-value-chipmaker-later-reverses-course-with-a-better-solution)
+
+---
+
+### 7. Owner of original Intel 8080 pre-production layout seeks restorer handcrafted Rubylith mask shows 5,000 transistors and interconnect patterns of the fabled 2 MHz CPU 
+
+The owner of the original Intel 8080 rubylith mask seeks a skilled restorer to preserve the 2 MHz CPU's 5,000 transistors and intricate interconnect patterns.
+
+💡 *Preserving computing history through restoration of rare engineering artifacts matters.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/owner-of-original-intel-8080-pre-production-layout-seeks-restorer-handcrafted-rubylith-mask-shows-5-000-transistors-and-interconnect-patterns-of-the-fabled-2-mhz-cpu)
 
 ---
 

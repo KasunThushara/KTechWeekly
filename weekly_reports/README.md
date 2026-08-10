@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of August 09, 2026**
+**Week of August 10, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging ⭐
+### 1. Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port ⭐
 
-**💻 Hardware**
+**🤖 AI & ML**
 
-The Makerfabs MaTouch ESP32-S3 MaUWB board integrates a 3.95-inch touchscreen, ESP32-S3 MCU, and UWB module for indoor positioning and ranging applications. It uses trilateration with up to three fixed UWB anchors to calculate coordinates in real time. The board includes a LiPo battery connector and charging circuit for portable use.
+Comu is a $6, 13x9.4mm RISC-V development board for bare-metal programming and USB projects.
 
-💡 **Key Point:** Indoor positioning made easy with precise UWB location tracking.
+💡 **Key Point:** Ultra-compact RISC-V board for low-cost, high-precision USB experimentation.
 
-🔗 [Read More](https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/)
+🔗 [Read More](https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/)
 
 ---
 
-### 2. MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging ⭐
+### 2. Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion ⭐
 
 **⚡ Semiconductors**
 
-The Makerfabs MaTouch ESP32-S3 MaUWB board integrates a 3.95-inch touchscreen, ESP32-S3 MCU, and UWB module for indoor positioning and ranging applications. It uses trilateration with up to three fixed UWB anchors to calculate coordinates in real time. The board includes a LiPo battery connector and charging circuit for portable use.
+The RAKwireless WisGate Connect Router RAK7392 is an industrial-grade edge router built around Raspberry Pi Compute Module 4/5, featuring 2.5GbE, mini PCIe, and WisBlock expansion for IoT applications.
 
-💡 **Key Point:** Indoor positioning made easy with precise UWB location tracking.
+💡 **Key Point:** Simplified IoT deployments with a single, versatile edge gateway device.
 
-🔗 [Read More](https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/)
-
----
-
-### 3. We tested the impact of SSD speed on gaming performance in 11 titles we analyzed from SATA to PCIe 5.0 to see whether upgrading to a faster NVMe SSD would have an impact 
-
-**🎮 GPUs**
-
-We analyzed 11 games to see if faster NVMe SSDs improve gaming performance.
-
-💡 **Key Point:** Faster SSDs can yield significant performance boosts in modern games.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/we-tested-the-impact-of-ssd-speed-on-gaming-performance-in-11-titles-we-analyzed-from-sata-to-pcie-5-0-to-see-whether-upgrading-to-a-faster-nvme-ssd-would-have-an-impact)
+🔗 [Read More](https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/)
 
 ---
 
-### 4. We tested the impact of SSD speed on gaming performance in 11 titles we analyzed from SATA to PCIe 5.0 to see whether upgrading to a faster NVMe SSD would have an impact 
+### 3. Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion ⭐
 
 **💻 Hardware**
 
-We analyzed 11 games to see if faster NVMe SSDs improve gaming performance.
+The RAKwireless WisGate Connect Router RAK7392 is an industrial-grade edge router built around Raspberry Pi Compute Module 4/5, featuring 2.5GbE, mini PCIe, and WisBlock expansion for IoT applications.
 
-💡 **Key Point:** Faster SSDs can yield significant performance boosts in modern games.
+💡 **Key Point:** Simplified IoT deployments with a single, versatile edge gateway device.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/we-tested-the-impact-of-ssd-speed-on-gaming-performance-in-11-titles-we-analyzed-from-sata-to-pcie-5-0-to-see-whether-upgrading-to-a-faster-nvme-ssd-would-have-an-impact)
+🔗 [Read More](https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/)
 
 ---
 
-### 5. Hardware researcher spins up 'CPU deoptimization' project to find the slowest single x86 instruction, creates hall of shame worst offender takes 198 billion cycles spanning 62 seconds to execute 
+### 4. Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port ⭐
 
 **💻 Hardware**
 
-A researcher is attempting to slow down x86 CPU instructions to identify the slowest one, creating a leaderboard that showcases the worst offenders.
+Comu is a $6, 13x9.4mm RISC-V development board for bare-metal programming and USB projects.
 
-💡 **Key Point:** Identifying slow instructions helps optimize code for better performance and efficiency.
+💡 **Key Point:** Ultra-compact RISC-V board for low-cost, high-precision USB experimentation.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/cpus/hardware-researcher-spins-up-cpu-deoptimization-project-to-find-the-slowest-machine-code-worst-offender-takes-198-billion-cycles-to-execute)
+🔗 [Read More](https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/)
+
+---
+
+### 5. Elecrow ThinkNode M9 A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard ⭐
+
+**💻 Hardware**
+
+The Elecrow ThinkNode M9 is a standalone LoRa terminal with a QWERTY keyboard, color display, and GPS, designed for outdoor and emergency communication.
+
+💡 **Key Point:** Enhanced outdoor and emergency communication solutions with a portable device.
+
+🔗 [Read More](https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **25 articles** across **5 focused categories**.
+We covered **39 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 7 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 3 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 6 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 5 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 4 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 9 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 7 articles
+*Artificial Intelligence and Machine Learning* — 9 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 3 articles
+*Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 6 articles
+*Computing hardware and development boards* — 10 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 5 articles
+*Chip manufacturing and design* — 7 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 4 articles
+*Industry news and product launches* — 9 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-08-09 at 09:22 by an autonomous AI curation system.
+Generated 2026-08-10 at 10:01 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

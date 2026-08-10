@@ -1,197 +1,301 @@
 [
   {
-    "title": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle retailers hold GPUs hostage similar to the crypto boom",
-    "summary": "Nvidia RTX 5090 GPUs are being shipped in 8-motherboard bundles, along with other components. This unusual packaging is raising concerns about the PC building industry's direction. Retailers are reportedly holding back GPUs until they can secure necessary components.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-ships-in-bizarre-8-motherboard-bundle-retailers-hold-gpus-hostage-similar-to-the-crypto-boom",
+    "title": "Chinese farmer kills 25 acres of crops after following AI-generated weed and pest control advice farmer trusted pesticide recipe after months of successful advice",
+    "summary": "A Chinese farmer followed AI-generated advice, killing his 25-acre sesame crop.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-farmer-kills-25-acres-of-crops-after-following-ai-generated-weed-and-pest-control-advice-farmer-trusted-pesticide-recipe-after-months-of-successful-advice",
     "categories": [
-      "GPUs",
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.154705",
+    "insight": "Overreliance on AI can lead to devastating mistakes in farming decisions."
+  },
+  {
+    "title": "Europe expands its Starlink rival to 348 satellites as IRIS moves into implementation 15.6 billion network will boost EU government capacity by 60%, with launches starting in 2029",
+    "summary": "Europe finalizes 15.6 billion IRIS satellite network with 348 satellites, launching in 2029.",
+    "link": "https://www.tomshardware.com/tech-industry/space/europe-expands-its-starlink-rival-to-348-satellites-as-iris2-moves-into-implementation-eur15-6-billion-network-will-boost-eu-government-capacity-by-60-percent-with-launches-starting-in-2029",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.154824",
+    "insight": "Significant EU government capacity boost through enhanced satellite connectivity"
+  },
+  {
+    "title": "Turtle Beach Command Series KB5 Review: A touchscreen and a numberpad in one keyboard?",
+    "summary": "The Turtle Beach Command Series KB5 is a low-profile, wired keyboard with a small, programmable touchscreen and a built-in numberpad, offering a unique blend of functionality and portability.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/turtle-beach-command-series-kb5-review-a-touchscreen-and-a-numberpad-in-one-keyboard",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-10T10:00:51.154938",
+    "insight": "Combines touchscreen and numberpad for streamlined gaming interface."
+  },
+  {
+    "title": "Noctua finds more than half of tested PC cases misstate CPU cooler clearances hands-on checks reveal errors ranging from -3.5mm to +10mm, internal compatibility team conducted measurements of more than a hundred cases",
+    "summary": "Noctua's internal checks reveal discrepancies in CPU cooler clearances among PC cases.",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/noctua-finds-more-than-half-of-tested-pc-cases-misstate-cpu-cooler-clearances-hands-on-checks-reveal-errors-ranging-from-3-5mm-to-10mm-internal-compatibility-team-conducted-measurements-of-more-than-a-hundred-cases",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.155046",
+    "insight": "Manufacturer spec sheets may be inaccurate or misleading for CPU coolers."
+  },
+  {
+    "title": "Modder pumps liquid directly over bare GPU silicon via 3D-printed block drops RTX 2060 Super load temps to 28 C despite initial leaks",
+    "summary": "A modder successfully tested direct die water cooling on an RTX 2060 Super, achieving low load temperatures of 28 C despite initial issues with leaks.",
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/modder-pumps-liquid-directly-over-bare-gpu-silicon-via-3d-printed-block-drops-rtx-2060-super-load-temps-to-28-c-despite-initial-leaks",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.155142",
+    "insight": "Direct die water cooling can significantly reduce GPU temperatures."
+  },
+  {
+    "title": "Musk s Terafab projected to be larger than the Pentagon, Apple Park, Mall of America, and Giga Texas, combined all-in-one chip manufacturing facility visualized to show the project s massive footprint",
+    "summary": "Elon Musk's Terafab will be the largest structure on Earth, with 100 million sq. ft of interior space, housing multiple semiconductor manufacturing processes.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/musks-terafab-projected-to-be-larger-than-the-pentagon-apple-park-mall-of-america-and-giga-texas-combined-all-in-one-chip-manufacturing-facility-visualized-to-show-the-projects-massive-footprint",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.155257",
+    "insight": "Massive scale enables single-site integration of diverse semiconductor manufacturing processes."
+  },
+  {
+    "title": "x64 port of Microsoft Word for Windows 1.1a arrives you can now run this seminal 1990 word processor natively in Windows 11",
+    "summary": "Microsoft Word for Windows 1.1a has been ported to x64, enabling native Windows 11 compatibility.",
+    "link": "https://www.tomshardware.com/software/microsoft-office/x64-port-of-microsoft-word-for-windows-1-1a-arrives-you-can-now-run-this-seminal-1990-word-processor-natively-in-windows-11",
+    "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-09T09:22:07.123602",
-    "insight": "GPU availability held hostage by component supply chain instability."
+    "processed_date": "2026-08-10T10:00:51.155351",
+    "insight": "Preserving retro software for modern systems with updated hardware capabilities."
   },
   {
-    "title": "Amazon secretly circumvents community vote for massive AI data center using 45-year-old rules Gilroy residents locked out of public comment window",
-    "summary": "Amazon built a massive AI data center in Gilroy, CA, secretly, despite public comments being open until 2024. Residents were surprised by the sudden construction. Local rules from 1978 facilitated the project's approval.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+    "title": "Two variants of Nvidia's RTX Spark show up on Geekbench, revealing a cut-down 18-core model Full 20-core beats most x86 mobile chips across multi-core and single-core tests",
+    "summary": "Nvidia's RTX Spark variants have been spotted on Geekbench, showcasing their performance capabilities. The 20-core model outperformed many x86 mobile chips, while the 18-core variant still showed impressive results.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/two-variants-of-nvidias-rtx-spark-show-up-on-geekbench-revealing-a-cut-down-18-core-model-full-20-core-beats-most-x86-mobile-chips-across-multi-core-and-single-core-tests",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.155496",
+    "insight": "Nvidia's RTX Spark offers significant multi-core performance advantages"
+  },
+  {
+    "title": "Amazon s new 7.65GW Texas AI data center power plant could become the largest source of CO pollution in the US custom 35-turbine gas plant authorized to emit 33 million tons of annual greenhouse gases",
+    "summary": "Amazon's 7.65GW Texas power plant could become the largest CO polluter in the US, emitting up to 33 million tons of CO per year to fuel its new AI data center.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.155634",
+    "insight": "Massive AI infrastructure fueled by gas could offset climate gains."
+  },
+  {
+    "title": "Kansas town silences public comment on gigawatt AI data center after receiving death threats, moves to virtual meetings shift follows physics teacher's arrest for clapping at data center hearing",
+    "summary": "Emporia, Kansas, shifted to virtual city council meetings due to death threats, silencing public comments.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/kansas-town-silences-public-comment-on-gigawatt-ai-data-center-after-receiving-death-threats-moves-to-virtual-meetings-shift-follows-physics-teachers-arrest-for-clapping-at-data-center-hearing",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-09T09:22:07.123744",
-    "insight": "Outdated local rules can undermine community input and public participation rights."
+    "processed_date": "2026-08-10T10:00:51.155742",
+    "insight": "Government secrecy undermines trust and civic engagement in the face of intimidation."
   },
   {
-    "title": "Pulsar Feinmann F01 Noctua Edition Review: Extra cool",
-    "summary": "The Pulsar Feinmann F01 Noctua Edition is a lightweight gaming mouse featuring a built-in fan to keep the palm cool, providing a comfortable gaming experience. It's designed for long gaming sessions with minimal hand fatigue. The mouse also boasts high-precision sensor technology.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-mice/pulsar-feinmann-f01-noctua-edition-review",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-09T09:22:07.123856",
-    "insight": "Cooling technology enhances gaming comfort and endurance"
-  },
-  {
-    "title": "China's memory-making champion smashes DDR5-8800 barrier on AMD platform CXMT chips close the gap with SK hynix",
-    "summary": "Colorful showcases the overclocking potential of CXMT memory kits on AMD platforms, reaching DDR5-8800 speeds. This achievement demonstrates the growing competition between memory manufacturers, with CXMT closing the gap with industry leaders like SK hynix. The success highlights the increasing performance capabilities of memory technology.",
-    "link": "https://www.tomshardware.com/pc-components/ram/chinas-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platform-cxmt-chips-close-the-gap-with-sk-hynix",
+    "title": "Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7700X3D faceoff battle of the upper mid-range CPUs",
+    "summary": "AMD's 3D V-Cache faces off against Intel's Core Ultra in a battle of upper mid-range CPUs, pitting the Ryzen 7 7700X3D against the Intel Core Ultra 7 270K Plus in gaming, productivity, power consumption, and value.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-amd-ryzen-7-7700x3d-faceoff",
     "categories": [
       "GPUs",
-      "Semiconductors"
+      "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-09T09:22:07.123964",
-    "insight": "Memory manufacturers are closing the gap in performance and capabilities."
+    "quality_score": 10,
+    "processed_date": "2026-08-10T10:00:51.155838",
+    "insight": "3D V-Cache vs Core Ultra: Performance gains matter in budget-conscious builds."
   },
   {
-    "title": "Atari ST Public Floppy Database now open for everyone online archive originally designed for ST flash cart packed with classics and homebrew",
-    "summary": "The Atari ST Public Floppy Database is now online, providing easy access to a vast collection of floppy disks containing classic and homebrew games.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/atari-st-public-floppy-database-now-open-for-everyone-online-archive-originally-designed-for-st-flash-cart-packed-with-classics-and-homebrew",
+    "title": "Open-source stealth USB hides an encrypted partition behind an 8GB decoy drive 'Phantom Drive' appears as a regular USB stick until you create a text file to unlock the hidden data",
+    "summary": "The 'Phantom Drive' is an open-source stealth USB that disguises an encrypted partition behind an 8GB decoy drive. It appears as a regular USB stick until a text file with the password is created, unlocking the hidden data. The password is never written to storage, ensuring enhanced security.",
+    "link": "https://www.tomshardware.com/pc-components/usb-flash-drives/open-source-stealth-usb-hides-an-encrypted-partition-behind-an-8gb-decoy-drive-phantom-drive-appears-as-a-regular-usb-stick-until-you-create-a-text-file-to-unlock-the-hidden-data",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.155949",
+    "insight": "Unencrypted passwords are never stored, eliminating data breaches through USB theft."
+  },
+  {
+    "title": "Mind-bending self-replicating GIF code prints an exact copy of itself, is both a program and its own visual output champion coder shows off 'Piet Quine' technique",
+    "summary": "A champion coder has created a Piet Quine, a self-replicating GIF that prints its own code, showcasing the Piet Quine technique in a visually stunning program.",
+    "link": "https://www.tomshardware.com/software/programming/mind-bending-self-replicating-gif-code-prints-an-exact-copy-of-itself-is-both-a-program-and-its-own-visual-output-champion-coder-shows-off-piet-quine-technique",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-09T09:22:07.124067",
-    "insight": "Preserving Atari ST gaming history for enthusiasts worldwide."
+    "processed_date": "2026-08-10T10:00:51.156039",
+    "insight": "Self-replication in code demonstrates ultimate programming self-expression and innovation."
   },
   {
-    "title": "We tested the impact of SSD speed on gaming performance in 11 titles we analyzed from SATA to PCIe 5.0 to see whether upgrading to a faster NVMe SSD would have an impact",
-    "summary": "We analyzed 11 games to see if faster NVMe SSDs improve gaming performance.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/we-tested-the-impact-of-ssd-speed-on-gaming-performance-in-11-titles-we-analyzed-from-sata-to-pcie-5-0-to-see-whether-upgrading-to-a-faster-nvme-ssd-would-have-an-impact",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-09T09:22:07.124185",
-    "insight": "Faster SSDs can yield significant performance boosts in modern games."
-  },
-  {
-    "title": "Intel's proposed orbital data centers would manage thousands of simple LEO satellites two-tier network puts the brains of satellite constellations in higher orbit",
-    "summary": "Intel's proposed orbital data centers use higher-orbit satellites to manage LEO constellations, reducing reliance on terrestrial control centers. This architecture enables efficient and scalable management of satellite constellations. By placing the 'brains' of the satellite network in higher orbit, Intel aims to improve the overall performance and reliability of satellite communications.",
-    "link": "https://www.tomshardware.com/tech-industry/space/intels-proposed-orbital-data-centers-would-manage-thousands-of-simple-leo-satellites-two-tier-network-puts-the-brains-of-satellite-constellations-in-higher-orbit",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-09T09:22:07.124300",
-    "insight": "Centralizing satellite management in higher orbit boosts communication efficiency"
-  },
-  {
-    "title": "Hardware researcher spins up 'CPU deoptimization' project to find the slowest single x86 instruction, creates hall of shame worst offender takes 198 billion cycles spanning 62 seconds to execute",
-    "summary": "A researcher is attempting to slow down x86 CPU instructions to identify the slowest one, creating a leaderboard that showcases the worst offenders.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/hardware-researcher-spins-up-cpu-deoptimization-project-to-find-the-slowest-machine-code-worst-offender-takes-198-billion-cycles-to-execute",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-09T09:22:07.124441",
-    "insight": "Identifying slow instructions helps optimize code for better performance and efficiency."
-  },
-  {
-    "title": "AI creates 16 new viruses that never existed in nature after learning DNA s pattern from 9 trillion nucleotides experts warn such applications are way ahead of necessary guardrails",
-    "summary": "Researchers used AI to create 16 new viral genomes from DNA patterns, 16 of which are viable and can infect E. coli bacteria. These new viruses were designed using AI models trained on trillions of DNA building blocks. The study raises concerns about the potential misuse of such advanced genetic engineering techniques.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-09T09:22:07.124555",
-    "insight": "Creating new, potentially deadly viruses raises security and safety concerns."
-  },
-  {
-    "title": "NASA modded space station's laptops so everyone could use the same charger standardizing ISS chargers eliminated useless weight and reduced failure points",
-    "summary": "NASA standardized the power connector for ISS laptops to reduce weight and failure points.",
-    "link": "https://www.tomshardware.com/tech-industry/space/nasa-modded-space-stations-laptops-so-everyone-could-use-the-same-charger-standardizing-iss-chargers-eliminated-useless-weight-and-reduced-failure-points",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-09T09:22:07.124670",
-    "insight": "Standardization eliminates unnecessary weight and reduces technical complications"
-  },
-  {
-    "title": "Modder turns Steam Controller trackpad haptics into stereo speakers with custom HID tool Wired connection transmits 16-bit audio that sounds surprisingly full",
-    "summary": "A modder has repurposed a Steam Controller's haptic motors as speakers, achieving impressive audio quality via USB.",
-    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/modder-turns-steam-controller-trackpad-haptics-into-stereo-speakers-with-custom-hid-tool-wired-connection-transmits-16-bit-audio-that-sounds-surprisingly-full",
+    "title": "Micron reportedly offers pennies on the dollar for Crucial RAM return, only offers to reimburse original MSRP despite it being only 37% of market value chipmaker later reverses course with a better solution",
+    "summary": "Micron initially offered low reimbursement for Crucial RAM returns, later reverting to a better solution.",
+    "link": "https://www.tomshardware.com/pc-components/ram/micron-reportedly-offers-pennies-on-the-dollar-for-crucial-ram-return-only-offers-to-reimburse-original-msrp-despite-it-being-only-37-percent-of-market-value-chipmaker-later-reverses-course-with-a-better-solution",
     "categories": [
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-09T09:22:07.124790",
-    "insight": "Repurposing haptic motors as speakers unlocks novel low-cost audio solutions."
+    "processed_date": "2026-08-10T10:00:51.156141",
+    "insight": "Companies' warranty processes can have significant customer satisfaction implications."
   },
   {
-    "title": "MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging",
-    "summary": "The Makerfabs MaTouch ESP32-S3 MaUWB board integrates a 3.95-inch touchscreen, ESP32-S3 MCU, and UWB module for indoor positioning and ranging applications. It uses trilateration with up to three fixed UWB anchors to calculate coordinates in real time. The board includes a LiPo battery connector and charging circuit for portable use.",
-    "link": "https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/",
+    "title": "Owner of original Intel 8080 pre-production layout seeks restorer handcrafted Rubylith mask shows 5,000 transistors and interconnect patterns of the fabled 2 MHz CPU",
+    "summary": "The owner of the original Intel 8080 rubylith mask seeks a skilled restorer to preserve the 2 MHz CPU's 5,000 transistors and intricate interconnect patterns.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/owner-of-original-intel-8080-pre-production-layout-seeks-restorer-handcrafted-rubylith-mask-shows-5-000-transistors-and-interconnect-patterns-of-the-fabled-2-mhz-cpu",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.156237",
+    "insight": "Preserving computing history through restoration of rare engineering artifacts matters."
+  },
+  {
+    "title": "After 24 years, Return to Castle Wolfenstein is finally distributed uncut in Germany game was censored due to strict laws regarding Nazi symbolism",
+    "summary": "Return to Castle Wolfenstein is finally available uncut in Germany after 24 years. The game's original release was censored due to strict laws regarding Nazi symbolism. This decision led to an arguably more interesting storyline.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/after-24-years-return-to-castle-wolfenstein-is-finally-distributed-uncut-in-germany-game-was-censored-due-to-strict-laws-regarding-nazi-symbolism",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.156330",
+    "insight": "Censorship can lead to unexpected creative benefits in game development."
+  },
+  {
+    "title": "Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion",
+    "summary": "The RAKwireless WisGate Connect Router RAK7392 is an industrial-grade edge router built around Raspberry Pi Compute Module 4/5, featuring 2.5GbE, mini PCIe, and WisBlock expansion for IoT applications.",
+    "link": "https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 15,
-    "processed_date": "2026-08-09T09:22:07.125377",
-    "insight": "Indoor positioning made easy with precise UWB location tracking."
+    "processed_date": "2026-08-10T10:00:51.156892",
+    "insight": "Simplified IoT deployments with a single, versatile edge gateway device."
   },
   {
-    "title": "Flock wanted to put license plate cameras on 350,000 Uber and Lyft dashcams",
-    "summary": "Flock planned to install license plate readers on 350,000 delivery vehicles in Georgia, expanding surveillance capabilities. The proposal, obtained by 404 Media, reveals the company's ambitious goal. The plans are part of Flock's existing AI-powered camera network.",
-    "link": "https://www.techspot.com/news/113407-flock-wanted-put-license-plate-cameras-350000-uber.html",
+    "title": "Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port",
+    "summary": "Comu is a $6, 13x9.4mm RISC-V development board for bare-metal programming and USB projects.",
+    "link": "https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/",
     "categories": [
+      "Hardware",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-09T09:22:07.126692",
-    "insight": "Massive surveillance expansion via license plate readers on delivery vehicles"
+    "quality_score": 15,
+    "processed_date": "2026-08-10T10:00:51.157050",
+    "insight": "Ultra-compact RISC-V board for low-cost, high-precision USB experimentation."
   },
   {
-    "title": "Apple's rumored \"Ultra\" lineup would include a foldable iPhone, camera AirPods, and a touchscreen MacBook",
-    "summary": "Apple's rumored 'Ultra' lineup includes a foldable iPhone, camera AirPods, and a touchscreen MacBook. The foldable phone, likely the iPhone Ultra, is expected to be Apple's most expensive iPhone. It may start at $1,999-$2,499.",
-    "link": "https://www.techspot.com/news/113404-apple-rumored-ultra-lineup-would-include-foldable-iphone.html",
+    "title": "Elecrow ThinkNode M9 A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard",
+    "summary": "The Elecrow ThinkNode M9 is a standalone LoRa terminal with a QWERTY keyboard, color display, and GPS, designed for outdoor and emergency communication.",
+    "link": "https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/",
     "categories": [
-      "AI & ML"
+      "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-09T09:22:07.126809",
-    "insight": "Revolutionizing mobile technology with foldable displays and advanced features"
+    "quality_score": 15,
+    "processed_date": "2026-08-10T10:00:51.157228",
+    "insight": "Enhanced outdoor and emergency communication solutions with a portable device."
   },
   {
-    "title": "SK Hynix is spending $38 billion to build two new chip fabs",
-    "summary": "SK Hynix is investing $38 billion in two new chip fabs to boost its DRAM and NAND flash manufacturing capacity.",
-    "link": "https://www.techspot.com/news/113403-sk-hynix-spending-38-billion-build-two-new.html",
+    "title": "GIANT scientists deploy sensors in drones and robot subs to map Greenland s melting ice",
+    "summary": "Scientists deploy sensors in drones and robot subs to map Greenland's melting ice. This allows for more efficient and safer research in treacherous waters. New technology makes it possible to conduct comprehensive ice surveys.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/giant-scientists-deploy-sensors-drones-and-robot-subs-map-greenlands-melting-ice",
     "categories": [
-      "Semiconductors",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-09T09:22:07.126921",
-    "insight": "Global memory chip supply is set to increase significantly with this massive investment."
+    "processed_date": "2026-08-10T10:00:51.158403",
+    "insight": "Unprecedented insight into Greenland's melting ice at a crucial moment"
   },
   {
-    "title": "Cloudflare says humans could become a \"rounding error\" as bots generate 1,000 times more internet traffic",
-    "summary": "Cloudflare predicts humans may become a 'rounding error' as bots generate significantly more internet traffic, potentially making human activity negligible.",
-    "link": "https://www.techspot.com/news/113410-cloudflare-humans-could-become-rounding-error-bots-generate.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-09T09:22:07.127028",
-    "insight": "Human internet activity could become a statistical anomaly."
-  },
-  {
-    "title": "Windows 11 26H2 is a small update with big quality-of-life improvements, expected around October 2026",
-    "summary": "Windows 11 26H2 brings quality-of-life improvements, particularly for power users and IT teams. The 26H2 update integrates existing features like Point-in-Time Restore and Cloud Rebuild, alongside UI enhancements. It's expected to release in October 2026.",
-    "link": "https://www.techspot.com/news/113388-windows-11-26h2-small-update-big-quality-life.html",
+    "title": "A misleading headline made people think AI was replacing 911 dispatchers",
+    "summary": "New Orleans is using AI to screen duplicate 911 calls in limited situations, freeing human dispatchers for more complex tasks.",
+    "link": "https://www.techspot.com/news/113411-misleading-headline-made-people-think-ai-replacing-911.html",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-09T09:22:07.127145",
-    "insight": "Improvements for power users and IT teams enhance Windows 11 experience."
+    "processed_date": "2026-08-10T10:00:51.158586",
+    "insight": "AI augmentation enhances 911 efficiency, not replacement of human dispatchers"
+  },
+  {
+    "title": "This wearable patch could get you into REM sleep 43 minutes faster",
+    "summary": "A wearable patch combines ultrasound and brain activity tracking to induce REM sleep faster.",
+    "link": "https://www.techspot.com/news/113409-wearable-patch-could-get-you-rem-sleep-43.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.158690",
+    "insight": "Accelerates REM sleep onset by 43 minutes with personalized brain stimulation."
+  },
+  {
+    "title": "Memory prices have erased 20 years of progress in a single year, researcher says",
+    "summary": "Skyrocketing memory prices have erased 20 years of progress, according to a researcher. This is a 'historical anomaly' in the computer industry. Exponential cost reductions have been reversed in a single year.",
+    "link": "https://www.techspot.com/news/113406-memory-prices-have-surged-2007-levels-after-decades.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-10T10:00:51.158792",
+    "insight": "Decades of progress in memory technology reversed in a single year."
+  },
+  {
+    "title": "A jailbreak for iOS 26 is finally here, 326 days after launch",
+    "summary": "A jailbreak for iOS 26 has been released, 326 days after its launch. This release also adds support for older iOS versions, specifically from iOS 16.5.1 to iOS 17.3.1.",
+    "link": "https://www.techspot.com/news/113408-jailbreak-ios-26-finally-here-326-days-after.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.158891",
+    "insight": "Enhanced compatibility for older iOS devices with new jailbreak release."
+  },
+  {
+    "title": "Meta CTO says employees should use AI productivity gains to do more work, calls request for extra days off \"very dumb\"",
+    "summary": "Meta's CTO suggests using AI productivity gains to work more hours, not taking extra time off.",
+    "link": "https://www.techspot.com/news/113413-meta-cto-workers-use-ai-productivity-gains-do.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.158988",
+    "insight": "Expectation of increased productivity without corresponding time-off benefits is a concern."
+  },
+  {
+    "title": "I Gamed on a 4GB GPU in 2026: AMD is Repeating its Worst Radeon Mistake",
+    "summary": "AMD's 2026 Radeon RX 6500 XT 4GB GPU struggles in modern games. Testing across 12 titles reveals poor performance. Results are concerning for buyers.",
+    "link": "https://www.techspot.com/article/3157-amd-4gb-gpu/",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-10T10:00:51.159084",
+    "insight": "Limited VRAM leads to frame rate drops in demanding games consistently."
   }
 ]
