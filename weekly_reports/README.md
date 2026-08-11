@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of August 10, 2026**
+**Week of August 11, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port ⭐
+### 1. Makerfabs Nomad Terminal features ESP32-S3 WiSoC, LR1121 LoRa transceiver, 3.5-inch touchscreen display ⭐
+
+**💻 Hardware**
+
+The Makerfabs Nomad Terminal is a handheld development platform that uses an ESP32-S3 MCU and Semtech LR1121 LoRa transceiver for long-range wireless communication, along with features like a 3.5-inch touchscreen display, 9-axis motion sensor, and 5,000 mAh rechargeable battery.
+
+💡 **Key Point:** Long-range wireless capabilities for IoT applications without cellular connectivity.
+
+🔗 [Read More](https://www.cnx-software.com/2026/08/11/makerfabs-nomad-terminal-features-esp32-s3-wisoc-lr1121-lora-transceiver-3-5-inch-touchscreen-display/)
+
+---
+
+### 2. AI data center bans surge past 500 nationwide as local US politicians begin blocking new developments growing public outrage and bipartisan pushback threaten big tech expansion plans ⭐
 
 **🤖 AI & ML**
 
-Comu is a $6, 13x9.4mm RISC-V development board for bare-metal programming and USB projects.
+US towns block AI data center development, with over 500 bans in place. Local politicians and residents protest the expansion of big tech. The trend threatens big tech's plans nationwide.
 
-💡 **Key Point:** Ultra-compact RISC-V board for low-cost, high-precision USB experimentation.
+💡 **Key Point:** Public outcry and bipartisan opposition hinder big tech's expansion plans significantly.
 
-🔗 [Read More](https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/)
+🔗 [Read More](https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-bans-surge-past-500-nationwide-as-local-us-politicians-begin-blocking-new-developments-growing-public-outrage-and-bipartisan-pushback-threaten-big-tech-expansion-plans)
 
 ---
 
-### 2. Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion ⭐
+### 3. Makerfabs Nomad Terminal features ESP32-S3 WiSoC, LR1121 LoRa transceiver, 3.5-inch touchscreen display ⭐
 
 **⚡ Semiconductors**
 
-The RAKwireless WisGate Connect Router RAK7392 is an industrial-grade edge router built around Raspberry Pi Compute Module 4/5, featuring 2.5GbE, mini PCIe, and WisBlock expansion for IoT applications.
+The Makerfabs Nomad Terminal is a handheld development platform that uses an ESP32-S3 MCU and Semtech LR1121 LoRa transceiver for long-range wireless communication, along with features like a 3.5-inch touchscreen display, 9-axis motion sensor, and 5,000 mAh rechargeable battery.
 
-💡 **Key Point:** Simplified IoT deployments with a single, versatile edge gateway device.
+💡 **Key Point:** Long-range wireless capabilities for IoT applications without cellular connectivity.
 
-🔗 [Read More](https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/)
-
----
-
-### 3. Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion ⭐
-
-**💻 Hardware**
-
-The RAKwireless WisGate Connect Router RAK7392 is an industrial-grade edge router built around Raspberry Pi Compute Module 4/5, featuring 2.5GbE, mini PCIe, and WisBlock expansion for IoT applications.
-
-💡 **Key Point:** Simplified IoT deployments with a single, versatile edge gateway device.
-
-🔗 [Read More](https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/)
+🔗 [Read More](https://www.cnx-software.com/2026/08/11/makerfabs-nomad-terminal-features-esp32-s3-wisoc-lr1121-lora-transceiver-3-5-inch-touchscreen-display/)
 
 ---
 
-### 4. Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port ⭐
+### 4. PewCB One Desktop PCB fabrication system enables rapid prototyping at home 
 
 **💻 Hardware**
 
-Comu is a $6, 13x9.4mm RISC-V development board for bare-metal programming and USB projects.
+PewCB One allows users to quickly manufacture PCBs at home, accelerating hardware development through a fully enclosed laser engraver system. This system utilizes laser ablation to create traces as low as 0.1mm, and can handle double-sided PCB blanks with vias and plated through-holes. The entire process can be completed at home, reducing wait times significantly.
 
-💡 **Key Point:** Ultra-compact RISC-V board for low-cost, high-precision USB experimentation.
+💡 **Key Point:** Accelerated hardware development through rapid at-home PCB manufacturing.
 
-🔗 [Read More](https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/)
+🔗 [Read More](https://www.cnx-software.com/2026/08/11/pewcb-one-desktop-pcb-fabrication-system-enables-rapid-prototyping-at-home/)
 
 ---
 
-### 5. Elecrow ThinkNode M9 A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard ⭐
+### 5. Nvidia reportedly testing lower memory configs of Rubin Ultra as memory shortage bites back designs tested include as little as 192 GB and step back to HBM4 
 
-**💻 Hardware**
+**🎮 GPUs**
 
-The Elecrow ThinkNode M9 is a standalone LoRa terminal with a QWERTY keyboard, color display, and GPS, designed for outdoor and emergency communication.
+Nvidia is testing lower memory configs of Rubin Ultra due to memory shortages. Configurations include as little as 192 GB of memory. This is a departure from the originally announced 1 TB of HBM4E.
 
-💡 **Key Point:** Enhanced outdoor and emergency communication solutions with a portable device.
+💡 **Key Point:** Memory shortages force Nvidia to scale back Rubin Ultra designs.
 
-🔗 [Read More](https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-testing-lower-memory-configs-of-rubin-ultra-as-memory-shortage-bites-back-designs-tested-include-as-little-as-192-gb-and-step-back-to-hbm4)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **39 articles** across **5 focused categories**.
+We covered **49 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 9 | Artificial Intelligence and Machine Learning |
+| 🤖 [AI & ML](ai_and_ml.md) | 17 | Artificial Intelligence and Machine Learning |
 | 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 10 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 7 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 9 | Industry news and product launches |
+| 💻 [Hardware](hardware.md) | 13 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 11 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 9 articles
+*Artificial Intelligence and Machine Learning* — 17 articles
 
 ### 🎮 [GPUs](gpus.md)
 *Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 10 articles
+*Computing hardware and development boards* — 13 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 7 articles
+*Chip manufacturing and design* — 4 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 9 articles
+*Industry news and product launches* — 11 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-08-10 at 10:01 by an autonomous AI curation system.
+Generated 2026-08-11 at 09:41 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

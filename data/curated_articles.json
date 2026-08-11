@@ -1,275 +1,321 @@
 [
   {
-    "title": "Chinese farmer kills 25 acres of crops after following AI-generated weed and pest control advice farmer trusted pesticide recipe after months of successful advice",
-    "summary": "A farmer in China followed an AI app's advice for his 25-acre farmland, resulting in the death of his entire crop of sesame seedlings. 67-year-old man was initially skeptical of the tool but eventually trusted it after months of using it.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-farmer-kills-25-acres-of-crops-after-following-ai-generated-weed-and-pest-control-advice-farmer-trusted-pesticide-recipe-after-months-of-successful-advice",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.154705"
-  },
-  {
-    "title": "Europe expands its Starlink rival to 348 satellites as IRIS moves into implementation 15.6 billion network will boost EU government capacity by 60%, with launches starting in 2029",
-    "summary": "Europe has finalized plans for its 15.6 billion IRIS satellite network, expanding it to 348 satellites with first launches scheduled for 2029.",
-    "link": "https://www.tomshardware.com/tech-industry/space/europe-expands-its-starlink-rival-to-348-satellites-as-iris2-moves-into-implementation-eur15-6-billion-network-will-boost-eu-government-capacity-by-60-percent-with-launches-starting-in-2029",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.154824"
-  },
-  {
-    "title": "Turtle Beach Command Series KB5 Review: A touchscreen and a numberpad in one keyboard?",
-    "summary": "The Turtle Beach Command Series KB5 is a full-size, wired, low-profile keyboard with a small, programmable touchscreen.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/turtle-beach-command-series-kb5-review-a-touchscreen-and-a-numberpad-in-one-keyboard",
+    "title": "DIY modder creates 'heat engine computing device' powered by a Stirling engine, can run Tetris, Snake, and Pong 80 MHz processor operates on just 150 milliwatts of power",
+    "summary": "The custom machine uses an ESP32-C3, OLED display, and 16-key keypad while squeezing retro gaming into a tiny 150mW power budget.",
+    "link": "https://www.tomshardware.com/pc-components/case-mods/diy-modder-creates-heat-engine-computing-device-powered-by-a-stirling-engine-80-mhz-esp32-can-run-tetris-snake-and-pong-on-just-150-milliwatts-of-power",
     "categories": [
       "Hardware",
-      "Tech News"
+      "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-08-10T10:00:51.154938"
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.456481"
   },
   {
-    "title": "Noctua finds more than half of tested PC cases misstate CPU cooler clearances hands-on checks reveal errors ranging from -3.5mm to +10mm, internal compatibility team conducted measurements of more than a hundred cases",
-    "summary": "Users are asking why some measurements on Noctua's compatibility page are different from manufacturer spec sheets.",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/noctua-finds-more-than-half-of-tested-pc-cases-misstate-cpu-cooler-clearances-hands-on-checks-reveal-errors-ranging-from-3-5mm-to-10mm-internal-compatibility-team-conducted-measurements-of-more-than-a-hundred-cases",
+    "title": "Xbox PC and Game Pass titles are coming to Linux through 'Xodus' Heroic Launcher devs embark on new open-source reverse-engineering project",
+    "summary": "You might be able to enjoy Xbox PC and PC Game Pass titles on Linux very soon thanks to the efforts of the Xodus team, who're emulating the entire Xbox PC stack through open-source implementations of Microsoft's proprietary components and dependencies.",
+    "link": "https://www.tomshardware.com/software/linux/xbox-pc-and-game-pass-titles-are-coming-to-linux-through-xodus-heroic-launcher-devs-embark-on-new-open-source-reverse-engineering-project",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.155046"
+    "processed_date": "2026-08-11T09:39:54.456614"
   },
   {
-    "title": "Modder pumps liquid directly over bare GPU silicon via 3D-printed block drops RTX 2060 Super load temps to 28 C despite initial leaks",
-    "summary": "The fearless TrashBench has been testing direct die water cooling of graphics cards and suffered most of the leaky nightmares you might expect.",
-    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/modder-pumps-liquid-directly-over-bare-gpu-silicon-via-3d-printed-block-drops-rtx-2060-super-load-temps-to-28-c-despite-initial-leaks",
+    "title": "GeForce RTX 50-series GPU prices spike as much as 39% as Blackwell price hikes hit the US RTX 5070 gets a 36% hike, RTX 5060 up 27% at the median of Newegg listings",
+    "summary": "After recent news of price hikes on RTX 50-series GPUs in other regions, those same increases now appear to have come Stateside, as Newegg prices for some Blackwell cards have spiked as much as 39% compared to June 2026.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/geforce-rtx-50-series-gpu-prices-spike-as-much-as-39-percent-as-blackwell-price-hikes-hit-the-us-rtx-5070-gets-a-36-percent-hike-rtx-5060-up-27-percent-at-the-median-of-newegg-listings",
     "categories": [
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.155142"
+    "processed_date": "2026-08-11T09:39:54.456730"
   },
   {
-    "title": "Musk s Terafab projected to be larger than the Pentagon, Apple Park, Mall of America, and Giga Texas, combined all-in-one chip manufacturing facility visualized to show the project s massive footprint",
-    "summary": "Elon Musk's Terafab will have at least 100 million sq. ft of interior space, making it the largest such structure on Earth by a big margin. It seems that it will need this amount of space, though, for Musk's ambitious plan of bringing multiple semiconductor manufacturing processes under one roof.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/musks-terafab-projected-to-be-larger-than-the-pentagon-apple-park-mall-of-america-and-giga-texas-combined-all-in-one-chip-manufacturing-facility-visualized-to-show-the-projects-massive-footprint",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.155257"
-  },
-  {
-    "title": "x64 port of Microsoft Word for Windows 1.1a arrives you can now run this seminal 1990 word processor natively in Windows 11",
-    "summary": "A developer has ported 1990's Microsoft Word for Windows 1.1a to x64 so it can run natively on Windows 11 PC systems.",
-    "link": "https://www.tomshardware.com/software/microsoft-office/x64-port-of-microsoft-word-for-windows-1-1a-arrives-you-can-now-run-this-seminal-1990-word-processor-natively-in-windows-11",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.155351"
-  },
-  {
-    "title": "Two variants of Nvidia's RTX Spark show up on Geekbench, revealing a cut-down 18-core model Full 20-core beats most x86 mobile chips across multi-core and single-core tests",
-    "summary": "The 20-core SKU of the RTX Spark that we've known to exist for a long time scored 2,570 points in the single-core test and 23,126 points in the multi-core test. The second, 18-core cut-down SKU scored 2,541 points in the single-core test while its multi-core was 21,776 points.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/two-variants-of-nvidias-rtx-spark-show-up-on-geekbench-revealing-a-cut-down-18-core-model-full-20-core-beats-most-x86-mobile-chips-across-multi-core-and-single-core-tests",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.155496"
-  },
-  {
-    "title": "Amazon s new 7.65GW Texas AI data center power plant could become the largest source of CO pollution in the US custom 35-turbine gas plant authorized to emit 33 million tons of annual greenhouse gases",
-    "summary": "Amazon is reportedly building a 7.65GW natural gas power plant in Texas to feed a new AI data center, with permits allowing up to 33 million tons of CO emissions per year.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.155634"
-  },
-  {
-    "title": "Kansas town silences public comment on gigawatt AI data center after receiving death threats, moves to virtual meetings shift follows physics teacher's arrest for clapping at data center hearing",
-    "summary": "Emporia, Kansas, switched to virtual city council meetings after death threats intensified against city leaders. The move also canceled public comments, prompting some members of the public to ask why it was affected, too.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/kansas-town-silences-public-comment-on-gigawatt-ai-data-center-after-receiving-death-threats-moves-to-virtual-meetings-shift-follows-physics-teachers-arrest-for-clapping-at-data-center-hearing",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.155742"
-  },
-  {
-    "title": "Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7700X3D faceoff battle of the upper mid-range CPUs",
-    "summary": "AMD's 3D V-Cache takes on Intel's latest Core Ultra architecture as we compare the two across various metrics including gaming, productivity, power consumption, and value.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-amd-ryzen-7-7700x3d-faceoff",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-10T10:00:51.155838"
-  },
-  {
-    "title": "Open-source stealth USB hides an encrypted partition behind an 8GB decoy drive 'Phantom Drive' appears as a regular USB stick until you create a text file to unlock the hidden data",
-    "summary": "This USB looks like a standard 8GB drive, but it unlocks a hidden partition when you create a text file with the password inside. The password is never actually written to storage; it's instead intercepted by the custom firmware and copied into the microcontroller's SRAM during hashing.",
-    "link": "https://www.tomshardware.com/pc-components/usb-flash-drives/open-source-stealth-usb-hides-an-encrypted-partition-behind-an-8gb-decoy-drive-phantom-drive-appears-as-a-regular-usb-stick-until-you-create-a-text-file-to-unlock-the-hidden-data",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.155949"
-  },
-  {
-    "title": "Mind-bending self-replicating GIF code prints an exact copy of itself, is both a program and its own visual output champion coder shows off 'Piet Quine' technique",
-    "summary": "A champion coder's latest confection is a Piet Quine a GIF image that prints itself byte-for-byte.",
-    "link": "https://www.tomshardware.com/software/programming/mind-bending-self-replicating-gif-code-prints-an-exact-copy-of-itself-is-both-a-program-and-its-own-visual-output-champion-coder-shows-off-piet-quine-technique",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.156039"
-  },
-  {
-    "title": "Micron reportedly offers pennies on the dollar for Crucial RAM return, only offers to reimburse original MSRP despite it being only 37% of market value chipmaker later reverses course with a better solution",
-    "summary": "Crucial memory owner recounts their experience with Micron's warranty process since the company has axed the Crucial brand.",
-    "link": "https://www.tomshardware.com/pc-components/ram/micron-reportedly-offers-pennies-on-the-dollar-for-crucial-ram-return-only-offers-to-reimburse-original-msrp-despite-it-being-only-37-percent-of-market-value-chipmaker-later-reverses-course-with-a-better-solution",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.156141"
-  },
-  {
-    "title": "Owner of original Intel 8080 pre-production layout seeks restorer handcrafted Rubylith mask shows 5,000 transistors and interconnect patterns of the fabled 2 MHz CPU",
-    "summary": "The owner of 'the original engineering copy of the Intel 8080 rubylith mask' is looking for a skilled restorer.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/owner-of-original-intel-8080-pre-production-layout-seeks-restorer-handcrafted-rubylith-mask-shows-5-000-transistors-and-interconnect-patterns-of-the-fabled-2-mhz-cpu",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.156237"
-  },
-  {
-    "title": "After 24 years, Return to Castle Wolfenstein is finally distributed uncut in Germany game was censored due to strict laws regarding Nazi symbolism",
-    "summary": "Germany's strict laws surrounding depictions of Nazis meant the game had to be altered, giving it an arguably more interesting story as a result.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/after-24-years-return-to-castle-wolfenstein-is-finally-distributed-uncut-in-germany-game-was-censored-due-to-strict-laws-regarding-nazi-symbolism",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.156330"
-  },
-  {
-    "title": "Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion",
-    "summary": "RAKwireless has just launched the WisGate Connect Router RAK7392 (not to be confused with the older WisGate Connect RAK7391), an industrial-grade edge router and gateway built around Raspberry Pi Compute Module 4/5 (CM4/CM5). The system features three Gigabit Ethernet ports, one 2.5GbE port, wireless expansion via a mini PCIe slot, and WisBlock connectors for sensors and I/O modules. The gateway is designed for industrial IoT applications such as edge computing, VPN, Modbus-to-MQTT conversion, and LoRaWAN packet forwarding, eliminating the need for multiple boards and USB adapters for complex deployments. WisGate Connect Router RAK7392 specifications: SoM options (one or the other) Raspberry Pi CM4 Broadcom BCM2711 quad-core Cortex-A72 processor @ 1.5 GHz Raspberry Pi CM5 Broadcom BCM2712 quad-core Cortex-A76 processor @ 2.4 GHz Storage and Memory will depend upon the module Storage MicroSD card socket for CM4/CM5 Lite modules only Networking 3x Gigabit Ethernet ports (eth1, eth2, eth3) [...] The post Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/10/raspberry-pi-cm4-cm5-based-wisgate-connect-router-rak7392-offers-2-5gbe-mini-pcie-and-wisblock-expansion/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-10T10:00:51.156892"
-  },
-  {
-    "title": "Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port",
-    "summary": "Over the years, we have seen several tiny omu USB boards that share this fits-in-a-USB-port form factor. It started with the Tomu, based on a Silicon Labs EFM32 Cortex-M0+, followed by the Fomu with a Lattice iCE40 FPGA, Qomu with an EOS S3 Cortex-M4F MCU and FPGA, and the Somu, a tiny FIDO2 security key. Icy Electronics has now introduced Comu, another tiny development board based on the WCH CH32V203 144 MHz RISC-V MCU. While measuring just 13 x 9.4 mm (slightly smaller than a microSD card), the board still packs two white LEDs, four capacitive touch buttons, and six GPIOs exposed through test pads. It is designed for bare-metal programming, custom USB HID projects, and USB packet experimentation. Comu specifications: MCU WCH CH32V203V203F8 CPU Single-core 32-bit RISC-V clocked at 144MHz Memory 20KB SRAM Storage 224KB Flash (64KB of 0-wait Flash and 160KB of normal Flash) [...] The post Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-10T10:00:51.157050"
-  },
-  {
-    "title": "Elecrow ThinkNode M9 A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard",
-    "summary": "Elecrow ThinkNode M9 is a standalone LoRa terminal that runs MeshCore firmware and features a QWERTY keyboard, color display, GPS, LoRa connectivity, and a 2,300mAh battery, making it suitable for outdoor and emergency communication. The device is built around an ESP32-S3R8 and a Semtech LR1110 LoRa module supporting US915 and EU868 frequencies, while the esp32-s3 adds Wi-Fi 4 and Bluetooth 5.0/BLE connectivity. Additionally, it features a 2.4-inch 240 320 TFT LCD, a 37-key physical QWERTY keyboard, GPS/GNSS support, plus a magnetic compass for navigation and location sharing. Other features include a USB-C port for charging and programming, RTC, buzzer, built-in antennas, and a 2,300mAh/3.8V Li-Po battery rated for up to 2 3 days in standby. The M9 targets outdoor exploration, emergency and disaster communication, remote operations, scientific research, and offline community or privacy-focused communication. ThinkNode M9 specifications: SoC Espressif Systems ESP32-S3 CPU Dual-core Tensilica LX7 up to 240 MHz [...] The post Elecrow ThinkNode M9 A standalone ESP32-S3 MeshCore communication terminal with color LCD, QWERTY keyboard appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/10/elecrow-thinknode-m9-a-standalone-esp32-s3-meshcore-communication-terminal-with-color-lcd-qwerty-keyboard/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-10T10:00:51.157228"
-  },
-  {
-    "title": "GIANT scientists deploy sensors in drones and robot subs to map Greenland s melting ice",
-    "summary": "New sensors and uncrewed robot subs and drones now make possible the Greenland ice research surveys in treacherous waters",
-    "link": "https://www.fiercesensors.com/sensors-fusion/giant-scientists-deploy-sensors-drones-and-robot-subs-map-greenlands-melting-ice",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-10T10:00:51.158403"
-  },
-  {
-    "title": "A misleading headline made people think AI was replacing 911 dispatchers",
-    "summary": "New Orleans is using artificial intelligence in a limited part of its 911 operation: screening some duplicate calls about vehicle crashes when human call-takers are unavailable. Read Entire Article",
-    "link": "https://www.techspot.com/news/113411-misleading-headline-made-people-think-ai-replacing-911.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.158586"
-  },
-  {
-    "title": "This wearable patch could get you into REM sleep 43 minutes faster",
-    "summary": "The device works by combining two things that don't usually go together in a wearable: gentle ultrasound stimulation and electrodes that read brain activity. This allows it to reach deep brain regions associated with REM sleep while also tracking the brain's response in real time from outside the skull. Read Entire Article",
-    "link": "https://www.techspot.com/news/113409-wearable-patch-could-get-you-rem-sleep-43.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.158690"
-  },
-  {
-    "title": "Memory prices have erased 20 years of progress in a single year, researcher says",
-    "summary": "According to computer science researcher and software performance expert Daniel Lemire, skyrocketing memory prices are a \"historical anomaly,\" with the unprecedented increases effectively erasing decades of steady, exponential cost reductions. Read Entire Article",
-    "link": "https://www.techspot.com/news/113406-memory-prices-have-surged-2007-levels-after-decades.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-10T10:00:51.158792"
-  },
-  {
-    "title": "A jailbreak for iOS 26 is finally here, 326 days after launch",
-    "summary": "The release also adds compatibility with devices running iOS 16.5.1 through iOS 17.3.1. That widens the range of iPhones, iPads, and Apple silicon devices that can run Dopamine, particularly older firmware versions that were not previously covered. Read Entire Article",
-    "link": "https://www.techspot.com/news/113408-jailbreak-ios-26-finally-here-326-days-after.html",
+    "title": "Nvidia reportedly testing lower memory configs of Rubin Ultra as memory shortage bites back designs tested include as little as 192 GB and step back to HBM4",
+    "summary": "Nvidia is reportedly testing at least three Rubin Ultra configurations that pack as little as 192 GB of memory, as opposed to the 1 TB of HBM4E originally announced.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-testing-lower-memory-configs-of-rubin-ultra-as-memory-shortage-bites-back-designs-tested-include-as-little-as-192-gb-and-step-back-to-hbm4",
     "categories": [
       "Tech News",
-      "AI & ML"
+      "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.158891"
+    "quality_score": 10,
+    "processed_date": "2026-08-11T09:39:54.456842"
   },
   {
-    "title": "Meta CTO says employees should use AI productivity gains to do more work, calls request for extra days off \"very dumb\"",
-    "summary": "Bosworth gave his Victorian workhouse-style opinion on what employees should do with their free time from AI-related productivity gains at a July Q&A, reports Business Insider. Read Entire Article",
-    "link": "https://www.techspot.com/news/113413-meta-cto-workers-use-ai-productivity-gains-do.html",
+    "title": "Rogue AI agent tasked with booking a gym class hacks system, removes other participant says 'sorry about that' after trying to bump user up the waitlist",
+    "summary": "A rogue OpenClaw tasked with booking a gym class for its user hacked into the system and removed another participant.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-ai-agent-tasked-with-booking-a-gym-class-hacks-system-removes-other-participant-says-sorry-about-that-after-trying-to-bump-user-up-the-waitlist",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.158988"
+    "processed_date": "2026-08-11T09:39:54.456964"
   },
   {
-    "title": "I Gamed on a 4GB GPU in 2026: AMD is Repeating its Worst Radeon Mistake",
-    "summary": "AMD is bringing 4GB graphics cards back in 2026. We tested the Radeon RX 6500 XT across 12 modern games to see what that means for buyers, and the results are every bit as bad as we feared all along. Read Entire Article",
-    "link": "https://www.techspot.com/article/3157-amd-4gb-gpu/",
+    "title": "Acer Swift Go 16 AI (AMD Gorgon Point) Review: A balanced, affordable, big-screen portable",
+    "summary": "Acer s Swift Go 16 AI is a capable mid-range laptop with a large touchscreen and a slim metal shell. It stands out among modern competition, if you can find it on sale for under $1,000.",
+    "link": "https://www.tomshardware.com/laptops/acer-swift-go-16-ai-amd-gorgon-point-review",
     "categories": [
-      "GPUs",
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-08-11T09:39:54.457090"
+  },
+  {
+    "title": "AI data center bans surge past 500 nationwide as local US politicians begin blocking new developments growing public outrage and bipartisan pushback threaten big tech expansion plans",
+    "summary": "New AI data center development bans jumped to over 500 in July, according to recent analysis, with political and public pressure growing.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-bans-surge-past-500-nationwide-as-local-us-politicians-begin-blocking-new-developments-growing-public-outrage-and-bipartisan-pushback-threaten-big-tech-expansion-plans",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-11T09:39:54.457198"
+  },
+  {
+    "title": "Hyperscalers commit nearly $2 trillion to secure AI hardware and memory Google leads $811 billion spending surge while Apple trails at $57 billion",
+    "summary": "As hyperscalers increase their long-term purchase commitments, the high-tech industry faces a tectonic shift as CSPs overwhelm consumer electronics companies.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/hyperscalers-commit-nearly-usd2-trillion-to-secure-ai-hardware-and-memory-google-leads-usd811-billion-spending-surge-while-apple-trails-at-usd57-billion",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.457305"
+  },
+  {
+    "title": "GeForce NOW exploit lets you access the full Windows desktop through a simple file swap Modder runs local AI models on Ultimate tier with 48GB of VRAM and no restrictions",
+    "summary": "Swapping the executable of a game with a modified file will fool Steam into thinking it's opening that game when it's really just giving you unrestricted desktop access. This is against GeForce NOW's terms of service, though, so you run the risk of getting banned.",
+    "link": "https://www.tomshardware.com/service-providers/streaming/geforce-now-exploit-lets-you-access-the-full-windows-desktop-through-a-simple-file-swap-modder-runs-local-ai-models-on-ultimate-tier-with-48gb-of-vram-and-no-restrictions",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.457420"
+  },
+  {
+    "title": "Steam hardware distributor hit by cyberattack, 'expect fake messages,' Valve warns Europe vendor has personal information and hardware purchase details stolen",
+    "summary": "Steam hardware customers in Europe should 'expect fake messages' said Valve in an email bulletin, after a distributor's security was breached.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/steam-hardware-distributor-hit-by-cyberattack-expect-fake-messages-valve-warns-europe-vendor-has-personal-information-and-hardware-purchase-details-stolen",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.457523"
+  },
+  {
+    "title": "Over 70% of Americans oppose AI data centers; US protests intensify as more arrests are being made almost 40 arrested this year in backlash to AI factory buildout",
+    "summary": "The public pushback against data center construction projects is only growing stronger, even as some protesting local residents have been arrested in the process.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-year-in-backlash-to-ai-factory-buildout",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.457625"
+  },
+  {
+    "title": "HoverAir unveils the Versa modular pocket gimbal camera that transforms into a self-flying drone Modular camera transforms into an auto-tracking drone by magnetically snapping together for instant palm launch and AI tracking",
+    "summary": "Have you ever wanted a pocket gimbal camera and a selfie drone that follows your around autonomously in one device? That's what the HoverAir Versa offers with a transforming, two-in-one body that can make filming yourself from all sorts of angles as convenient as possible.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/hoverair-unveils-the-versa-modular-pocket-gimbal-camera-that-transforms-into-a-self-flying-drone-modular-camera-transforms-into-an-auto-tracking-drone-by-magnetically-snapping-together-for-instant-palm-launch-and-ai-tracking",
+    "categories": [
+      "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-10T10:00:51.159084"
+    "processed_date": "2026-08-11T09:39:54.457742"
+  },
+  {
+    "title": "UK's Royal Navy sea drones contain component that secretly sent data to China, report claims government cuts camera connectivity and insists data wasn t sensitive, only heartbeat communications ",
+    "summary": "K3 Scout surveillance drones used by the UK s Royal Navy contain components that have been secretly transmitting data to China, according to reports.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/uks-royal-navy-sea-drones-contain-component-that-secretly-sent-data-to-china-report-claims-government-cuts-camera-connectivity-and-insists-data-wasnt-sensitive-only-heartbeat-communications",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.457857"
+  },
+  {
+    "title": "Windows 11's built-in weather app hogs more than 1.2 gigabytes of RAM just to tell the forecast memory-sucking web wrapper filled with ads masquerades as an actual application",
+    "summary": "MSN Weather acts as the native weather app for Windows 11 and all it does it run a bunch of Chromium subprocesses in the background to retrieve the forecast data. This causes it to use 5x more memory than the macOS weather app. And, oh, you also get to enjoy ads!",
+    "link": "https://www.tomshardware.com/software/windows/windows-11s-built-in-weather-app-hogs-more-than-1-2-gigabytes-of-ram-just-to-tell-the-forecast-memory-sucking-web-wrapper-filled-with-ads-masquerades-as-an-actual-application",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.457981"
+  },
+  {
+    "title": "PewCB One Desktop PCB fabrication system enables rapid prototyping at home",
+    "summary": "PewCB One is a desktop PCB prototyping system designed to accelerate hardware development by manufacturing PCBs at home or in the office in a few hours or less, instead of waiting days for a PCB to come back from the factory. Unlike desktop fabrication methods that rely on chemical processing, the PewCB One is more akin to a fully enclosed laser engraver housed with an integrated air filtration system. Users can perform the full process from double-sided PCB blanks to a complete PCBA at home. PewCB One highlights: Laser Wavelength 1064 nm Average optical power 20 W Pulse duration ~100 ns Spot diameter 35 m PCB Blanks Double-sided PCB blanks with vias and plated through-holes Made of copper-clad alumina and zirconia ceramics Dimensions 23 x 23mm to 84 x 80 mm PCB traces As low as 0.1mm; formed using laser ablation, a process that removes [...] The post PewCB One Desktop PCB fabrication system enables rapid prototyping at home appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/11/pewcb-one-desktop-pcb-fabrication-system-enables-rapid-prototyping-at-home/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-11T09:39:54.458490"
+  },
+  {
+    "title": "Makerfabs Nomad Terminal features ESP32-S3 WiSoC, LR1121 LoRa transceiver, 3.5-inch touchscreen display",
+    "summary": "Makerfabs Nomad Terminal handheld development platform is built around an ESP32-S3 MCU and a Semtech LR1121 LoRa transceiver for long-range wireless communication, as well as an ATGM336H GNSS module for positioning. The device can be used for applications such as LoRa messaging, GPS tracking, navigation, and remote sensor monitoring without a cellular connection. It also includes a 9-axis motion sensor, a microSD card slot, an RTC, and a 5,000 mAh rechargeable battery. Makerfabs Nomad Terminal specifications: Wireless Module ESP32-S3-WROOM-1 SoC Espressif Systems ESP32-S3 CPU Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM 512KB SRAM; 8MB PSRAM Wireless WiFi 4 and Bluetooth LE 5 Storage 16MB flash Antenna PCB antenna Storage MicroSD card slot for local data logging Display 3.5-inch 480 320 TFT LCD (ILI9488 controller via SPI) with FT6236 capacitive touch panel Wireless WiFi 4 and Bluetooth [...] The post Makerfabs Nomad Terminal features ESP32-S3 WiSoC, LR1121 LoRa transceiver, 3.5-inch touchscreen display appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/11/makerfabs-nomad-terminal-features-esp32-s3-wisoc-lr1121-lora-transceiver-3-5-inch-touchscreen-display/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-11T09:39:54.458658"
+  },
+  {
+    "title": "PyBLE open-source MicroPython IDE works over Bluetooth LE for tablet and iPad users",
+    "summary": "PyBLE is an open-source, MIT-licensed MicroPython IDE for programming microcontroller boards over Bluetooth Low Energy (BLE), which targets Android tablet and iPad users. PyBLE combines a Flutter-based IDE for iPad and Android with support for MicroPython and visual programming (Blockly), an open MicroPython agent firmware, and the PBLE/1 protocol fully documented by the developer. The IDE currently supports features such as editing and running Python, a live console, wireless file management, and initial firmware targets include ESP32, ESP32-S3, and ESP32-C3 wireless microcontrollers. PyBLE highlights: Flutter app Filtered BLE discovery and PBLE/1 open protocol support MicroPython editor with save, run, stop, soft reboot, and live console Wireless file browsing and transfer with integrity checks Offline Blockly workspace with GPIO and standard MicroPython NeoPixel blocks Editable beginner examples Exact Blockly sidecar reopening and a bounded Python-to-blocks importer Adaptive tablet interface for portrait and landscape use Local operation without an account, analytics, or [...] The post PyBLE open-source MicroPython IDE works over Bluetooth LE for tablet and iPad users appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/10/pyble-open-source-micropython-ide-works-over-bluetooth-le-for-tablet-and-ipad-users/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.458836"
+  },
+  {
+    "title": "Why OpenAI is paying robotics engineers up to $325k",
+    "summary": "As AI moves from screens to robots, demand is surging for engineers who can connect sensors, actuators and foundation models.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/why-openai-paying-robotics-engineers-325k",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-08-11T09:39:54.459779"
+  },
+  {
+    "title": "Meta tests super sensing AI smart glasses amid privacy concerns",
+    "summary": "A software update to Meta s smart glasses could reportedly give users a persistently available personal agent",
+    "link": "https://www.fiercesensors.com/ai/meta-tests-super-sensing-ai-smart-glasses-amid-privacy-concerns",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-08-11T09:39:54.460147"
+  },
+  {
+    "title": "Microsoft's Weather app can eat up to 1.2GB of RAM just sitting open",
+    "summary": "MSN Weather is the standard weather app included with Windows 11. It provides a detailed set of tools, including live radar, hourly forecasts, wind and precipitation data, air-quality readings and moon phases. The data comes from several weather providers, with Foreca serving as a primary source. Read Entire Article",
+    "link": "https://www.techspot.com/news/113424-microsoft-weather-app-can-eat-up-12gb-ram.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.460398"
+  },
+  {
+    "title": "Developer ports Word for Windows 1.1a to modern x64 systems using original source code",
+    "summary": "Developer Justin Marshall recently ported Word for Windows 1.1a to modern Windows systems. The open-source conversion draws on the source code of the original program, which Microsoft shared with the community in 2014. Read Entire Article",
+    "link": "https://www.techspot.com/news/113425-microsoft-word-circa-1990-can-now-run-modern.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.460564"
+  },
+  {
+    "title": "GeForce Now exploit unlocks full Windows desktop access",
+    "summary": "GeForce Now can apparently do much more than simply stream a selection of supported games using the AV1 codec. Two modders known as \"Zortos\" and \"dpadGuy\" have uncovered a trick to gain full desktop access to the streaming service, allowing them to run custom games and software directly on Nvidia's... Read Entire Article",
+    "link": "https://www.techspot.com/news/113414-geforce-now-exploit-unlocks-full-windows-desktop-access.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.460712"
+  },
+  {
+    "title": "Microsoft confirms OneDrive Photos app was rolled out to millions of Windows 11 PCs by mistake, fix incoming",
+    "summary": "In an X post, Microsoft's EVP of Apps and Agents, Jeff Teper, noted that OneDrive Photos is an incubation project that was meant to be tested with select users but was mistakenly pushed to more devices than intended. He confirmed that the issue will be resolved in a future update,... Read Entire Article",
+    "link": "https://www.techspot.com/news/113421-microsoft-confirms-onedrive-photos-app-rolled-out-millions.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.460827"
+  },
+  {
+    "title": "A cybersecurity researcher covered a Toyota in an AI-generated pattern to confuse Flock cameras",
+    "summary": "Donut Media plans to release video of the test in the coming weeks. Read Entire Article",
+    "link": "https://www.techspot.com/news/113418-cybersecurity-researcher-covered-toyota-ai-generated-pattern-confuse.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.460958"
+  },
+  {
+    "title": "Nearly 100 copies of a never-before-seen version of Super Mario Bros. have been found",
+    "summary": "As the story goes, Kevin Braun purchased the cartridges years ago from a person who claimed his grandfather used to own a business that recovered precious metals from electronics. At some point, it is believed that Nintendo sent the cartridges in to salvage gold from the metal contacts. For whatever... Read Entire Article",
+    "link": "https://www.techspot.com/news/113423-nearly-100-copies-never-before-seen-version-super.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.461084"
+  },
+  {
+    "title": "Farmer trusted AI after it gave good advice, then it helped wipe out 25 acres of his crops",
+    "summary": "The 67-year-old farmer was recommended by the AI to use \"high-efficiency flupyrimethalin\" and \"flusulfasulfaether\" (flufenacet) to kill weeds and mix it with \"thiamethoxazine\" and \"methyl salt.\" As reported by Taiwanese Chinese-language news website CTWANT (via Tom's Hardware), he followed the instructions blindly, failing to check that what he was doing... Read Entire Article",
+    "link": "https://www.techspot.com/news/113420-farmer-trusted-ai-after-gave-good-advice-helped.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.461202"
+  },
+  {
+    "title": "MySpace owners confirm they are planning another comeback",
+    "summary": "A revival would put MySpace in a market that looks nothing like the one it left behind. Social media is now led by platforms built around recommendation systems, mobile video, creator tools, and targeted advertising. Instagram, TikTok, Snapchat, YouTube, and Reddit already compete for users and ad dollars. Read Entire Article",
+    "link": "https://www.techspot.com/news/113417-myspace-owners-confirm-they-planning-another-comeback-but.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.461311"
+  },
+  {
+    "title": "A California city just declared an emergency after malware hit its 911 systems",
+    "summary": "The incident began at around 5:45am on Friday, August 7, according to the city's incident page. Suisun City, a community of approximately 30,000 people located 55 miles north of San Francisco, declared the emergency at a special council meeting the following morning. Read Entire Article",
+    "link": "https://www.techspot.com/news/113419-california-city-declares-state-emergency-after-cyberattack-hits.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.461416"
+  },
+  {
+    "title": "An AI agent was asked to book a gym class, whe none was available, it decided to hack the system and jump the queue",
+    "summary": "The incident is being treated as Australia's first reported example of an AI agent independently exploiting a live system while carrying out a routine task. It offers an early look at a broader problem with newer AI tools: they can take steps that were never part of the user's instructions. Read Entire Article",
+    "link": "https://www.techspot.com/news/113415-ai-agent-finds-security-flaw-gym-booking-system.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.461530"
+  },
+  {
+    "title": "Noctua tested more than 100 PC cases and found over half had inaccurate CPU cooler clearance specs",
+    "summary": "Noctua writes that, given the importance of every millimeter in small-form-factor and ITX builds, it has conducted its own measurement tests on popular cases to confirm they align with figures on the manufacturers' websites. It found inaccuracies in 56 out of the more than 100 cases it tested. Read Entire Article",
+    "link": "https://www.techspot.com/news/113416-noctua-tested-more-than-100-pc-cases-found.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-11T09:39:54.461641"
   }
 ]
