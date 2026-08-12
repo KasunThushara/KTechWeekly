@@ -1,55 +1,65 @@
 # ⚡ Semiconductors
-**Week of August 11, 2026**
+**Week of August 12, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-08-11 09:41
+- **Articles this week:** 5
+- **Report generated:** 2026-08-12 09:46
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Makerfabs Nomad Terminal features ESP32-S3 WiSoC, LR1121 LoRa transceiver, 3.5-inch touchscreen display ⭐
+### 1. Forlinx AM62L32 Local EVM A low-power industrial SBC powered by TI s AM62L32 Cortex-A53/M4F SoC ⭐
 
-The Makerfabs Nomad Terminal is a handheld development platform that uses an ESP32-S3 MCU and Semtech LR1121 LoRa transceiver for long-range wireless communication, along with features like a 3.5-inch touchscreen display, 9-axis motion sensor, and 5,000 mAh rechargeable battery.
+Forlinx AM62L32 Local EVM is a low-power industrial single board computer built around the Texas Instruments AM62L32 SoC, offering a compact and integrated design for various industrial applications.
 
-💡 *Long-range wireless capabilities for IoT applications without cellular connectivity.*
+💡 *Integrated PCB design simplifies development and reduces space requirements.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/11/makerfabs-nomad-terminal-features-esp32-s3-wisoc-lr1121-lora-transceiver-3-5-inch-touchscreen-display/)
-
----
-
-### 2. PewCB One Desktop PCB fabrication system enables rapid prototyping at home 
-
-PewCB One allows users to quickly manufacture PCBs at home, accelerating hardware development through a fully enclosed laser engraver system. This system utilizes laser ablation to create traces as low as 0.1mm, and can handle double-sided PCB blanks with vias and plated through-holes. The entire process can be completed at home, reducing wait times significantly.
-
-💡 *Accelerated hardware development through rapid at-home PCB manufacturing.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/11/pewcb-one-desktop-pcb-fabrication-system-enables-rapid-prototyping-at-home/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/12/forlinx-am62l32-local-evm-a-low-power-industrial-sbc-ti-am62l32-cortex-a53-m4f-soc/)
 
 ---
 
-### 3. UK's Royal Navy sea drones contain component that secretly sent data to China, report claims government cuts camera connectivity and insists data wasn t sensitive, only heartbeat communications  
+### 2. Laser wireless charging could keep drones airborne indefinitely improved receiver converts at 38.49% efficiency and uses nanocrystalline material for thermals 
 
-UK Royal Navy's K3 Scout drones secretly sent data to China, sparking concerns.
+Researchers have developed a wireless laser charging system for drones, enabling them to stay airborne indefinitely without landing to recharge. The improved receiver achieves an efficiency of 38.49% and uses nanocrystalline material for thermal management. This technology could revolutionize drone applications.
 
-💡 *National security compromised by compromised military surveillance technology components*
+💡 *Endless flight capabilities for drones with wireless laser charging.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/uks-royal-navy-sea-drones-contain-component-that-secretly-sent-data-to-china-report-claims-government-cuts-camera-connectivity-and-insists-data-wasnt-sensitive-only-heartbeat-communications)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/wireless-ota-charging-with-lasers-could-keep-drones-airborne-indefinitely-improved-receiver-converts-at-38-49-percent-efficiency-and-uses-nanocrystalline-material-for-thermals)
 
 ---
 
-### 4. Farmer trusted AI after it gave good advice, then it helped wipe out 25 acres of his crops 
+### 3. SK hynix to expand production capacity in China as it mulls Solidigm IPO, report claims second phase of fab could boost local production by 50% 
 
-A farmer trusted AI advice, leading to 25 acres of destroyed crops. The AI recommended a combination of chemicals, which the farmer used without verifying their safety. This incident highlights the importance of verifying AI-generated advice.
+SK hynix plans to expand production capacity in China, specifically targeting high-end data center SSDs. The upgrade is part of its strategy to meet growing demand and potentially list Solidigm on the NASDAQ. This expansion could boost local production by up to 50%.
 
-💡 *Unverified AI advice can have devastating consequences in real-world applications.*
+💡 *Boosting China's SSD production capacity meets growing global demand*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113420-farmer-trusted-ai-after-gave-good-advice-helped.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-expand-production-capacity-in-china-as-it-mulls-solidigm-ipo-report-claims-second-phase-of-fab-could-boost-local-production-by-50-percent)
+
+---
+
+### 4. US lawmaker wants gov't to enforce regulation to ensure 'chipmakers conduct adequate due diligence on their customers' House member calls for Biden-era export control to be enforced 
+
+Congressman John Moolenaar asks the Commerce Department to clarify enforcement of the Foundry Due Diligence Rule, which aims to ensure chipmakers conduct adequate due diligence on their customers.
+
+💡 *Protecting national security through chipmaker customer vetting regulations*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/u-s-lawmaker-wants-govt-to-enforce-regulation-to-ensure-chipmakers-conduct-adequate-due-diligence-on-their-customers-house-member-calls-for-biden-era-export-control-to-be-enforced)
+
+---
+
+### 5. Japanese authorities use new tool to identify initial torrent uploaders anti-piracy group says it identified seeder on popular anime torrenting website without torrent swarm monitoring 
+
+Japanese authorities have identified and arrested the initial seeder on Nyaa, a popular anime torrenting website, marking a breakthrough in anti-piracy efforts.
+
+💡 *Tracking initial uploaders hampers large-scale piracy networks significantly.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/initial-seeder-on-popular-anime-torrenting-site-nyaa-arrested-by-japanese-authorities-anti-piracy-group-claims-it-identified-user-without-torrent-swarm-monitoring)
 
 ---
 
