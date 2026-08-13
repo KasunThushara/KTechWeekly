@@ -1,438 +1,465 @@
 [
   {
-    "title": "Resourceful gamer shrinks Valve s Steam Deck into Game Boy, with custom 3D-printed cooling plans display around 1200x1080, 90Hz AMOLED panel",
-    "summary": "A gamer and modder is creating a custom SteamBoy, a scaled-down Steam Deck, with a 1200x1080, 90Hz AMOLED display and 3D-printed cooling system.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/resourceful-gamer-shrinks-valves-steam-deck-into-game-boy-with-custom-3d-printed-cooling-plans-display-around-1200x1080-90hz-amoled-panel",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.608550",
-    "insight": "Miniaturizing Steam Deck technology pushes portable gaming innovation boundaries."
-  },
-  {
-    "title": "Two undersea cables reportedly damaged off the coast of Perth following suspicious vessel activity company CEO says faults happened straight after each other and in close proximity'",
-    "summary": "Two undersea cables off Perth's coast were reportedly damaged in suspicious circumstances. The Australian Federal Police should investigate the cause of the damage, according to Subco CEO Bevan Slattery. A vessel was seen in the area during the disruption.",
-    "link": "https://www.tomshardware.com/networking/two-undersea-cables-reportedly-damaged-off-the-coast-of-perth-following-suspicious-vessel-activity-company-ceo-says-faults-happened-straight-after-each-other-and-in-close-proximity",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.608700",
-    "insight": "Potential cyber attack or sabotage threatens Australia's undersea communication infrastructure"
-  },
-  {
-    "title": "Razer Naga V3 Pro Review: My new 23-button mouse",
-    "summary": "The Razer Naga V3 Pro features a 23-button form factor with upgrades including a new sensor and switches, resulting in better performance and battery life.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-mice/razer-naga-v3-pro-review",
+    "title": "The current state of PCIe 6.0 SSDs and controllers Marvell, Phison, and SMI prepare controllers as drives finally come to market following years of delays",
+    "summary": "PCIe 6.0 SSDs with Marvell, Phison, and SMI controllers are almost here, offering faster speeds and capacities. Despite years of delays, Micron and Samsung have released their SSDs. Expect massive data storage and transfer rates with these new drives.",
+    "link": "https://www.tomshardware.com/tech-industry/the-current-state-of-pcie-6-0-ssds-and-controllers-marvell-phison-and-smi-prepare-controllers-as-drives-finally-come-to-market-following-years-of-delays",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-12T09:45:16.608817",
-    "insight": "Enhanced gaming performance through upgraded hardware and design features."
+    "processed_date": "2026-08-13T09:45:41.448954",
+    "insight": "Massive data storage capacities and ultra-fast transfer speeds arrive soon."
   },
   {
-    "title": "SK hynix to expand production capacity in China as it mulls Solidigm IPO, report claims second phase of fab could boost local production by 50%",
-    "summary": "SK hynix plans to expand production capacity in China, specifically targeting high-end data center SSDs. The upgrade is part of its strategy to meet growing demand and potentially list Solidigm on the NASDAQ. This expansion could boost local production by up to 50%.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-expand-production-capacity-in-china-as-it-mulls-solidigm-ipo-report-claims-second-phase-of-fab-could-boost-local-production-by-50-percent",
+    "title": "Vibe-coded app adds a 3D video rental storefront to your Jellyfin HTPC self-hosted, open-source project brings back memories of browsing for VHS tapes on Saturday afternoons",
+    "summary": "A Jellyfin front-end has been vibe-coded to mimic old video rental stores, bringing back nostalgic memories of browsing VHS tapes. This immersive experience provides a complete video rental storefront simulation. It's a unique twist on a self-hosted media platform.",
+    "link": "https://www.tomshardware.com/software/applications/vibe-coded-app-adds-a-3d-video-rental-storefront-to-your-jellyfin-htpc-self-hosted-open-source-project-brings-back-memories-of-browsing-for-vhs-tapes-on-saturday-afternoons",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.449081",
+    "insight": "Reviving nostalgic experiences in modern self-hosted media platforms is innovative."
+  },
+  {
+    "title": "Qualcomm details Snapdragon C specs for $300 laptops for the first time claims 67% faster performance on battery than Intel N250, AC performance remains a mystery",
+    "summary": "Qualcomm has detailed the specs for its Snapdragon C processor, offering 8 cores and all-day battery life. The processor claims 67% faster performance on battery than Intel N250. However, its AC performance remains unclear.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-13T09:45:41.449200",
+    "insight": "Qualcomm challenges Intel in battery efficiency for budget laptops."
+  },
+  {
+    "title": "Oracle plans more layoffs weeks after spending most of its $2.1 billion restructuring budget, report claims some teams face double-digit percentage reductions, 21,000 full-time positions already eliminated",
+    "summary": "Oracle plans to cut more jobs, with some teams facing double-digit percentage reductions, following the elimination of 21,000 full-time positions.",
+    "link": "https://www.tomshardware.com/tech-industry/oracle-plans-more-layoffs-weeks-after-spending-most-of-its-2-1-billion-restructuring-budget",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.449314",
+    "insight": "Layoffs continue despite significant restructuring investment, raising concerns about Oracle's workforce sustainability."
+  },
+  {
+    "title": "Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 96GB card started pre-orders below $8,000 last year",
+    "summary": "Nvidia's RTX 6000 Pro Blackwell data center GPU has doubled in price since launch, now at $16,000, up 20% in just a couple of months, driven by AI demand and unprecedented data center buildouts.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.449431",
+    "insight": "AI-driven data center growth fuels GPU price surges dramatically."
+  },
+  {
+    "title": "AI data center developers begin suing local jurisdictions behind bans and moratoriums claims range from officials exceeding authority to violations of due process and equal protection laws",
+    "summary": "Data center developers sue local jurisdictions over temporary bans and moratoriums, citing due process and equal protection violations. The lawsuits have led to one county reversing their decision, while others continue to fight in court. This trend may spark changes in zoning regulations nationwide.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-developers-begin-suing-local-jurisdictions-behind-bans-and-moratoriums-claims-range-from-officials-exceeding-authority-to-violations-of-due-process-and-equal-protection-laws",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.608936",
-    "insight": "Boosting China's SSD production capacity meets growing global demand"
+    "processed_date": "2026-08-13T09:45:41.449555",
+    "insight": "Government overreach on zoning regulations affects tech infrastructure development"
   },
   {
-    "title": "AMD highlights Ryzen 5 5500 briefly topping Amazon CPU best sellers, beating 9800X3D $80 DDR4 CPU remains a top seller during memory crunch",
-    "summary": "AMD's Ryzen 5 5500 briefly topped Amazon's CPU best sellers list, beating more powerful CPUs. This was due to a memory crunch causing CPU shortages. The $80 Ryzen 5 5500, a four-year-old model, remained a top seller.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-highlights-ryzen-5-5500-briefly-topping-amazon-cpu-best-sellers-beating-9800x3d-usd80-ddr4-cpu-remains-a-top-seller-during-memory-crunch",
+    "title": "CoreWeave proves Nvidia's aging AI GPUs from 2020 can generate profit nine years after deployment, signs A100 contracts into 2029 power constraints and legacy infrastructure keep old GPUs profitable",
+    "summary": "CoreWeave's revenue surged 112% year-over-year to $2.58 billion in quarterly earnings. This success can be attributed to the profitability of Nvidia's aging AI GPUs from 2020. The company is still signing contracts for the A100 despite power constraints.",
+    "link": "https://www.tomshardware.com/tech-industry/coreweave-ceo-mike-intrator-says-it-has-signed-an-a100-contract-running-into-2029",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.449661",
+    "insight": "Legacy infrastructure maintains profitability of outdated AI GPUs nine years later"
+  },
+  {
+    "title": "Suspected China-linked hackers used AI to run the first-ever end-to-end autonomous cyberattack on Taiwan's government, Israeli firm says open-source-built tool continuously devised effective hack strategies in real-time",
+    "summary": "Suspected China-linked hackers used AI to breach Taiwanese government systems, compromising 85 accounts and stealing over 2,500 records.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/suspected-china-linked-hackers-used-ai-to-run-the-first-ever-end-to-end-autonomous-cyberattack-on-taiwans-government-israeli-firm-says-open-source-built-tool-continuously-devised-effective-hack-strategies-in-real-time",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.449785",
+    "insight": "Autonomous AI agents heighten the risk of real-time, adaptive cyberattacks globally."
+  },
+  {
+    "title": "QIDI Plus5 3D printer review: The best one yet",
+    "summary": "QIDI Plus5 is a high-performance 3D printer that boasts large build volume and delivers excellent print quality with difficult filaments.",
+    "link": "https://www.tomshardware.com/3d-printing/qidi-plus5-3d-printer-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-13T09:45:41.449882",
+    "insight": "Rugged 3D printing capabilities for demanding applications."
+  },
+  {
+    "title": "Nova Lake CPUs with cut-down E-core clusters may still retain full cache pool, says new leak 8P+12E config predictions revised from 33MB to 36MB, 4P+4E config from 15MB to 18MB",
+    "summary": "Nova Lake CPUs with reduced E-core clusters may retain full cache pool, according to a recent leak.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/nova-lake-cpus-with-cut-down-e-core-clusters-may-still-retain-full-cache-pool-says-new-leak-8p-12e-config-predictions-revised-from-33mb-to-36mb-4p-4e-config-from-15mb-to-18mb",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.609054",
-    "insight": "CPU shortages lead to unexpected best sellers during memory crunches"
+    "processed_date": "2026-08-13T09:45:41.450013",
+    "insight": "Cache pool retention affects performance in CPU-intensive tasks and workloads."
   },
   {
-    "title": "Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price unlocking 40 CUs, eight Zen 2 cores on the repurposed PS5 APU",
-    "summary": "The BC-250 APU has seen significant advancements with a 40CU unlock and Zen 2 core enablement, offering improved performance at a lower cost.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/benchmarking-amds-bc-250-offering-steam-machine-like-performance-at-half-the-price-unlocking-40-cus-eight-zen-2-cores-on-the-repurposed-ps5-apu",
+    "title": "How optical interconnects and silicon photonics emerged as AI's next hot commodity looming US-China summit puts photonics into the crosshairs",
+    "summary": "The US aims to exclude Chinese optical transceivers from AI data centers, but China's dominance in the photonics supply chain makes a ban challenging. This move is part of a larger trade dispute between the two nations. The outcome of the ban will significantly impact the global photonics industry.",
+    "link": "https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs",
     "categories": [
-      "GPUs"
+      "AI & ML"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-08-12T09:45:16.609187",
-    "insight": "Unlocking Zen 2 cores at half the price of Steam Machines"
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.450121",
+    "insight": "Global access to photonics technology hangs in US-China trade balance"
   },
   {
-    "title": "DeepCool AK620 and AK400 G2 Review: Quiet and powerful, with woodgrain or a digital display",
-    "summary": "DeepCool's AK G2 series air coolers come with unique design options, featuring either woodgrain tops or a digital display. We tested the AK620 and AK400 G2 models with a high-performance AMD CPU to evaluate their thermal efficiency. The coolers demonstrated quiet and powerful performance.",
-    "link": "https://www.tomshardware.com/pc-components/air-cooling/deepcool-ak620-and-ak400-g2-review-quiet-and-powerful-with-woodgrain-or-a-digital-display",
+    "title": "YMTC breaks into the top three NAND makers for the first time as AI servers swallow 48% of all flash Chinese vendor has 14% share, according to research",
+    "summary": "YMTC has entered the top three NAND makers for the first time, with a 14% share of the market, driven by the growing demand for AI servers, which account for 48% of all flash sales.",
+    "link": "https://www.tomshardware.com/tech-industry/ymtc-breaks-into-the-top-three-nand-makers-for-the-first-time",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-13T09:45:41.450225",
+    "insight": "YMTC's rise reflects China's increasing role in global flash memory supply."
+  },
+  {
+    "title": "GMKtec Evo-T2 review: Panther Lake for a price",
+    "summary": "GMKtec's Evo-T2 mini PC offers a compact personal AI workstation with Intel's 18A Panther Lake silicon, 64GB LPDDR5X-8533 RAM, and capabilities for office productivity and gaming.",
+    "link": "https://www.tomshardware.com/desktops/mini-pcs/gmktec-evo-t2-review",
     "categories": [
       "Hardware",
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-08-12T09:45:16.609336",
-    "insight": "Efficient air cooling for high-performance CPUs with minimal noise."
+    "quality_score": 10,
+    "processed_date": "2026-08-13T09:45:41.450332",
+    "insight": "High-end performance in a compact, affordable package emerges in the market."
   },
   {
-    "title": "FCC proposes import ban on Chinese optical transceivers blockade targets key AI interconnects as China holds 56% global market share",
-    "summary": "The FCC proposes banning Chinese-made optical transceivers to secure US networks. This move targets key AI interconnects, as Chinese companies hold a significant 56% global market share. The Secure Networks Act would be amended to include these imports.",
-    "link": "https://www.tomshardware.com/tech-industry/fcc-proposes-import-ban-on-chinese-optical-transceivers-blockade-targets-key-ai-interconnects-as-china-holds-56-percent-global-market-share",
+    "title": "Claude will begin digitally watermarking marking AI-generated text and images Anthropic details how it'll comply with the EU's Artificial Intelligence Act",
+    "summary": "Anthropic's Claude AI models will digitally watermark generated content for EU users, enabling identification of AI-created material. This move aims to comply with the EU's Artificial Intelligence Act and promote transparency. The digital marks will be embedded in text and images.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-will-begin-digitally-watermarking-marking-ai-generated-text-and-images-anthropic-details-how-itll-comply-with-the-eus-artificial-intelligence-act",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.609433",
-    "insight": "US security concerns driven by China's dominant 56% market share."
+    "processed_date": "2026-08-13T09:45:41.450440",
+    "insight": "Transparency is key to AI accountability and consumer trust."
   },
   {
-    "title": "$580 million undersea cable rerouted to avoid the grave of Dobby the House Elf company caves to fan demands to safeguard Harry Potter filming location, will instead pass by Bronze Age burial site",
-    "summary": "The Greenlink Connector project was rerouted to avoid a Harry Potter filming location, but instead passed near a Bronze Age burial site due to fan demands.",
-    "link": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
+    "title": "Asobi Remote Play app lets gamers stream PS4 and PS5 games on the Steam Deck, even without a console dev breaks PlayStation Plus Premium cloud gaming support free of the PlayStation Portal",
+    "summary": "The Asobi: Remote Play app extends PlayStation Plus Premium cloud gaming to Steam Deck and Linux devices, allowing users to stream PS4 and PS5 games without a console. This service goes beyond the PlayStation Portal's limited cloud gaming support. It enables users to access PlayStation games on a wider range of devices.",
+    "link": "https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal",
     "categories": [
-      "AI & ML"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.609526",
-    "insight": "Fan influence can outweigh archaeological preservation in sensitive project decisions."
+    "processed_date": "2026-08-13T09:45:41.450559",
+    "insight": "Breaking console barriers with cloud gaming on multiple platforms."
   },
   {
-    "title": "US lawmaker wants gov't to enforce regulation to ensure 'chipmakers conduct adequate due diligence on their customers' House member calls for Biden-era export control to be enforced",
-    "summary": "Congressman John Moolenaar asks the Commerce Department to clarify enforcement of the Foundry Due Diligence Rule, which aims to ensure chipmakers conduct adequate due diligence on their customers.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/u-s-lawmaker-wants-govt-to-enforce-regulation-to-ensure-chipmakers-conduct-adequate-due-diligence-on-their-customers-house-member-calls-for-biden-era-export-control-to-be-enforced",
+    "title": "Samsung Foundry updates process roadmap to move 1.4nm node to 2029 high-NA EUV will enable 1nm-class and smaller nodes in 2030 and beyond",
+    "summary": "Samsung Foundry delays 1.4nm-class node to 2029 and plans to adopt High-NA EUV for 1nm-class process technology in 2030.",
+    "link": "https://www.tomshardware.com/tech-industry/samsung-foundry-updates-process-roadmap-to-move-1-4nm-node-to-2029-high-na-euv-will-enable-1nm-class-and-smaller-nodes-in-2030-and-beyond",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.609615",
-    "insight": "Protecting national security through chipmaker customer vetting regulations"
+    "processed_date": "2026-08-13T09:45:41.450667",
+    "insight": "Advancements in EUV enable further miniaturization of semiconductor nodes"
   },
   {
-    "title": "Nvidia teams up with financial giants to create $500 billion AI infrastructure funds six investment firms to enable access to long-term funding at attractive rates",
-    "summary": "Nvidia partners with major financial institutions to create a $500 billion AI infrastructure fund, providing long-term funding at attractive rates to customers seeking to build AI data centers.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-teams-up-with-financial-giants-to-create-usd500-billion-ai-infrastructure-funds-six-investment-firms-to-enable-access-to-long-term-funding-at-attractive-rates",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.609700",
-    "insight": "Access to affordable, long-term AI infrastructure funding supports widespread adoption."
-  },
-  {
-    "title": "Japanese authorities use new tool to identify initial torrent uploaders anti-piracy group says it identified seeder on popular anime torrenting website without torrent swarm monitoring",
-    "summary": "Japanese authorities have identified and arrested the initial seeder on Nyaa, a popular anime torrenting website, marking a breakthrough in anti-piracy efforts.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/initial-seeder-on-popular-anime-torrenting-site-nyaa-arrested-by-japanese-authorities-anti-piracy-group-claims-it-identified-user-without-torrent-swarm-monitoring",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.609775",
-    "insight": "Tracking initial uploaders hampers large-scale piracy networks significantly."
-  },
-  {
-    "title": "Modder adds Radeon RX 9070 XT eGPU to Steam Machine, runs Crimson Desert at over 100 FPS on High moves boot drive to USB-C port, leverages M.2 to OCuLink adaptor and eGPU dock",
-    "summary": "A Redditor successfully connected an RX 9070 XT eGPU to a Steam Machine, achieving high frame rates in Crimson Desert.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/modder-adds-radeon-rx-9070-xt-egpu-to-steam-machine-runs-crimson-desert-at-over-100-fps-on-high-moves-boot-drive-to-usb-c-port-leverages-m-2-to-oculink-adaptor-and-egpu-dock",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.609843",
-    "insight": "Enhancing eGPU capabilities expands gaming possibilities for Steam Machine users"
-  },
-  {
-    "title": "Laser wireless charging could keep drones airborne indefinitely improved receiver converts at 38.49% efficiency and uses nanocrystalline material for thermals",
-    "summary": "Researchers have developed a wireless laser charging system for drones, enabling them to stay airborne indefinitely without landing to recharge. The improved receiver achieves an efficiency of 38.49% and uses nanocrystalline material for thermal management. This technology could revolutionize drone applications.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/wireless-ota-charging-with-lasers-could-keep-drones-airborne-indefinitely-improved-receiver-converts-at-38-49-percent-efficiency-and-uses-nanocrystalline-material-for-thermals",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-12T09:45:16.609917",
-    "insight": "Endless flight capabilities for drones with wireless laser charging."
-  },
-  {
-    "title": "Walmart has slashed $600 off this RTX 5060-powered gaming laptop, now just $1,099 get Gigabyte's 16-inch Aero X16 with 16GB of RAM and a 1TB SSD",
-    "summary": "Gigabyte's 16-inch Aero X16 gaming laptop is discounted by $600, now priced at $1,099. This budget-friendly laptop features an RTX 5060 GPU, 16GB of RAM, and a 1TB SSD.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd600-off-this-rtx-5060-powered-gaming-laptop-now-just-usd1-099-get-gigabytes-16-inch-aero-x16-with-16gb-of-ram-and-a-1tb-ssd",
+    "title": "Save over $600 on a massive 18-inch gaming laptop as it falls to a new all-time low price at Amazon Acer's Predator Helios Neo 18 AI packs an RTX 5070 Ti and 32GB of memory",
+    "summary": "Acer's Predator Helios Neo 18 AI gaming laptop has reached an all-time low price at Amazon, with a significant $600 price drop. This massive 18-inch laptop features an RTX 5070 Ti and 32GB of memory. It's a great opportunity for gamers to upgrade their devices.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-over-usd600-on-a-massive-18-inch-gaming-laptop-as-it-falls-to-a-new-all-time-low-price-at-amazon-acers-predator-helios-neo-18-ai-packs-an-rtx-5070-ti-and-32gb-of-memory",
     "categories": [
       "GPUs",
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.609985",
-    "insight": "A budget gaming laptop with high-end specs at a lower price"
+    "processed_date": "2026-08-13T09:45:41.450775",
+    "insight": "Gaming laptops become more affordable for budget-conscious buyers suddenly"
   },
   {
-    "title": "Gamer recruitment drive results in supercharged hiring campaign for new Air Traffic Controllers 94% hiring goal hit in record time with $155,000 salary potential; the strongest, sharpest workforce in aviation history ",
-    "summary": "A gamer recruitment drive in Air Traffic Control has reached a 94% hiring goal. The campaign's success is attributed to its use of video gamers' skills, offering a $155,000 salary potential. This initiative aims to create the strongest workforce in aviation history.",
-    "link": "https://www.tomshardware.com/video-games/gamer-recruitment-drive-results-in-supercharged-hiring-campaign-for-new-air-traffic-controllers-usdot-secretary-reckons-theyve-got-the-strongest-sharpest-workforce-in-aviation-history",
+    "title": "Passenger returning from DEF CON 34 spoofs Delta Wi-Fi network while in flight using pentest tool pilots tell ground crew to alert corporate security after attendee from hacking conference brings the party to the sky",
+    "summary": "A flight from DEF CON 34 was targeted by a cybersecurity attendee using a pentest tool, spoofing the Delta Wi-Fi network and redirecting passengers to a phishing website. Although flight safety was unaffected, passengers' credentials may have been stolen. The incident highlights the vulnerability of in-flight Wi-Fi networks.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/passenger-returning-from-def-con-34-spoofs-delta-wi-fi-network-while-in-flight-using-pentest-tool-pilots-tell-ground-crew-to-alert-corporate-security-after-attendee-from-hacking-conference-brings-the-party-to-the-sky",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.610062",
-    "insight": "Gamers bring multitasking, fast-paced decision-making skills to Air Traffic Control."
+    "processed_date": "2026-08-13T09:45:41.450898",
+    "insight": "In-flight Wi-Fi networks are vulnerable to cyber attacks in mid-air."
   },
   {
-    "title": "Forlinx AM62L32 Local EVM A low-power industrial SBC powered by TI s AM62L32 Cortex-A53/M4F SoC",
-    "summary": "Forlinx AM62L32 Local EVM is a low-power industrial single board computer built around the Texas Instruments AM62L32 SoC, offering a compact and integrated design for various industrial applications.",
-    "link": "https://www.cnx-software.com/2026/08/12/forlinx-am62l32-local-evm-a-low-power-industrial-sbc-ti-am62l32-cortex-a53-m4f-soc/",
+    "title": "Intel CEO hints at return to the memory business says market is ripe for innovation, hints at stacking memory and CPU",
+    "summary": "Intel's CEO, Lip-Bu Tan, hints at a potential return to the memory business. He believes the market is ripe for innovation, possibly related to stacking memory and CPU. Tan also mentioned a personal pet project focused on a new memory architecture.",
+    "link": "https://www.tomshardware.com/pc-components/dram/intel-ceo-hints-at-return-to-the-memory-business-says-market-is-ripe-for-innovation-hints-at-stacking-memory-and-cpu",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-13T09:45:41.451020",
+    "insight": "Intel's resurgence in memory business could disrupt traditional CPU market dynamics."
+  },
+  {
+    "title": "Commodore re-releases TAC-2 joystick after 40 years for just $49 says retro-controller is tougher than ever and now comes in five colorways",
+    "summary": "Commodore has re-released the TAC-2 joystick after 40 years, now available in five colorways for $49.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/commodore-re-releases-tac-2-joystick-after-40-years-for-just-usd49-says-retro-controller-is-tougher-than-ever-and-now-comes-in-five-colorways",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.451135",
+    "insight": "Nostalgic gamers and collectors rejoice at retro controller revival."
+  },
+  {
+    "title": "Independent bookstores in Europe receive suspicious orders for thousands of books, prompting fears they'll be destroyed to train AI sellers believe acquisitions are part of AI tech companies push to get more data",
+    "summary": "European bookstores receive suspicious large orders for obscure, low-demand titles. Fears exist that these orders are part of a data collection strategy by AI companies to improve their language models. The sudden spike in demand for obscure books raises concerns.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-bookstores-in-europe-receive-suspicious-orders-for-thousands-of-books-prompting-fears-theyll-be-destroyed-to-train-ai-sellers-believe-acquisitions-are-part-of-ai-tech-companies-push-to-get-more-data",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.451249",
+    "insight": "AI firms exploit bookstores for data to train language models."
+  },
+  {
+    "title": "Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in unplugged benchmarks",
+    "summary": "Qualcomm's Snapdragon C Arm SoC outperforms Intel N250 CPU by up to 67% in unplugged benchmarks, showcasing the Arm SoC's efficiency and performance in $300+ Windows laptops.",
+    "link": "https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-08-12T09:45:16.610531",
-    "insight": "Integrated PCB design simplifies development and reduces space requirements."
+    "quality_score": 35,
+    "processed_date": "2026-08-13T09:45:41.451698",
+    "insight": "Qualcomm's Arm SoC gains edge over Intel in budget laptops' efficiency."
   },
   {
-    "title": "MINISFORUM Elite Mini M2 Air-304 barebone Wildcat Lake mini PC sells for $263",
-    "summary": "MINISFORUM Elite Mini M2 Air-304 is a barebone mini PC powered by an Intel Core 3 304 Wildcat Lake processor. It features a DDR5 SO-DIMM slot and M.2 PCIe Gen4 x4 socket for customization. The mini PC is available for $263.",
-    "link": "https://www.cnx-software.com/2026/08/12/minisforum-elite-mini-m2-air-304-barebone-wildcat-lake-mini-pc/",
+    "title": "WCH CH32V407/467 RISC-V MCU integrates Fast Ethernet MAC + PHY, 480 Mbps USB 2.0 PHY, up to 8 MB on-chip PSRAM",
+    "summary": "WCH CH32V407 and CH32V467 are 200 MHz RISC-V microcontrollers with built-in Ethernet, USB, and PSRAM, suitable for industrial IoT and edge AI applications.",
+    "link": "https://www.cnx-software.com/2026/08/13/wch-ch32v407-467-risc-v-mcu-integrates-fast-ethernet-mac-phy-480-mbps-usb-2-0-phy-up-to-8-mb-on-chip-psram/",
     "categories": [
       "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-13T09:45:41.451863",
+    "insight": "High-performance RISC-V MCU for industrial IoT and edge AI applications emerges."
+  },
+  {
+    "title": "Apollo Automation launches $40 official ESPHome Starter Kit with ESP32-C6 board, four FPC modules",
+    "summary": "Apollo Automation launches the ESPHome Starter Kit, an official ESPHome starter kit designed with a ESP32-C6 board and four FPC modules for various sensors. The kit offers Wi-Fi 6, Bluetooth LE, and Thread/Zigbee connectivity. It's priced at $40.",
+    "link": "https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-13T09:45:41.452049",
+    "insight": "Low-cost, easy-to-use smart home automation kit with built-in wireless connectivity"
+  },
+  {
+    "title": "Google unveils Pixel 11 series featuring Tensor G6 SoC, Titan M3 security chip, and Android 17, starting at $899",
+    "summary": "Google's Pixel 11 series features Tensor G6 SoC, Titan M3 security, and Android 17, starting at $899.",
+    "link": "https://www.techspot.com/news/113458-google-unveils-pixel-11-series-featuring-tensor-g6.html",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.453299",
+    "insight": "Google's latest flagship offers significant performance and security upgrades."
+  },
+  {
+    "title": "AMD's TPM implementation includes two high-severity flaws, but fixes have been available since May",
+    "summary": "AMD's TPM implementation had two high-severity flaws, fixed since May. Researchers identified the issue, prompting company updates. The fixed code was available before the public patch.",
+    "link": "https://www.techspot.com/news/113448-amd-tpm-implementation-includes-two-high-severity-flaws.html",
+    "categories": [
+      "Tech News",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-12T09:45:16.610655",
-    "insight": "First Wildcat Lake barebone mini PC offers user customization options."
+    "processed_date": "2026-08-13T09:45:41.453490",
+    "insight": "Publicly available fixes were delayed in reaching affected users."
   },
   {
-    "title": "NXP FRDM-IMX95-PRO i.MX 95 board features 10GbE, faster 6400 MT/s LPDDR5 memory, dual M.2 expansion",
-    "summary": "NXP introduces the FRDM-IMX95-PRO board, a compact development kit based on the i.MX 95 processor. It features a 10GbE interface, Wi-Fi 6, Bluetooth 5.4, and 16 GB LPDDR5-6400 memory for AI, robotics, and industrial applications.",
-    "link": "https://www.cnx-software.com/2026/08/11/nxp-frdm-imx95-pro-i-mx-95-board-features-10gbe-faster-6400-mt-s-lpddr5-memory-dual-m-2-expansion/",
+    "title": "Google to build three new subsea cables connecting Chile, Panama, and the Caribbean",
+    "summary": "Google to build three new subsea cables connecting Chile, Panama, and the Caribbean. One of the cables, Alisios, will connect the Dominican Republic, Panama, and Chile, providing a link between the Pacific and Caribbean.",
+    "link": "https://www.techspot.com/news/113452-google-building-three-new-subsea-cables-expand-network.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.453650",
+    "insight": "Enhanced global connectivity and data transfer speeds for users worldwide"
+  },
+  {
+    "title": "ShareX is a powerful screenshot tool that can do a lot more",
+    "summary": "ShareX is a powerful, customizable screenshot tool with various features. It combines screenshot, recording, GIF creation, annotation, and file sharing. It's lightweight and has useful shortcuts.",
+    "link": "https://www.techspot.com/downloads/6663-sharex.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.453807",
+    "insight": "Comprehensive screenshot tool simplifies multiple tasks with one application"
+  },
+  {
+    "title": "Google's $29 Pixel Tag helps you keep track of your valuables",
+    "summary": "The Pixel Tag allows users to track their valuables with a compatible Android device. To pair, remove the battery tab and follow on-screen instructions. A custom name can be set up during setup.",
+    "link": "https://www.techspot.com/news/113456-google-29-pixel-tag-helps-you-keep-track.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.453987",
+    "insight": "Track valuables with Google's compact and user-friendly Pixel Tag device."
+  },
+  {
+    "title": "How to use a vocal remover to strip vocals from any song for free",
+    "summary": "Removing vocals from a song is now more accessible with free tools, eliminating the need for expert audio skills. Users can easily isolate the instrumental track from the vocals. This simplifies the process of creating remixes or background music.",
+    "link": "https://www.techspot.com/news/113201-how-use-vocal-remover-strip-vocals-any-song.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.454144",
+    "insight": "Unlocking creative freedom without audio expertise or expensive software."
+  },
+  {
+    "title": "Scientists found a way to generate quantum entanglement using sunlight, not lasers",
+    "summary": "Scientists generated quantum entanglement using sunlight, not traditional lasers, for the first time. This breakthrough challenges the long-held assumption that lasers are necessary. The study does not aim to replace laser-based systems, but expands possibilities.",
+    "link": "https://www.techspot.com/news/113454-sunlight-can-generate-entangled-photons-quantum-technology-researchers.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-13T09:45:41.454309",
+    "insight": "Sunlight can create entangled photons, broadening quantum source options"
+  },
+  {
+    "title": "NYC could force Amazon and FedEx to directly employ its delivery drivers",
+    "summary": "NYC considers forcing major delivery companies to directly employ drivers.",
+    "link": "https://www.techspot.com/news/113445-amazon-could-forced-directly-employ-delivery-drivers-under.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.454453",
+    "insight": "Enhanced job security and benefits for delivery workers matter greatly."
+  },
+  {
+    "title": "Modders give the Steam Machine a Radeon eGPU and water cooling, because why not",
+    "summary": "Modders have enhanced the Steam Machine's performance through eGPU and water cooling modifications, increasing its capabilities. One modder successfully added external graphics, while another created a custom water block. This boosts the system's performance and efficiency.",
+    "link": "https://www.techspot.com/news/113444-modders-give-steam-machine-radeon-egpu-water-cooling.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-13T09:45:41.454567",
+    "insight": "Performance upgrades for Steam Machines expand gaming possibilities."
+  },
+  {
+    "title": "The \"Godmother of AI\" says the biggest AI risk in schools isn't cheating it's students losing the desire to learn",
+    "summary": "The 'Godmother of AI' warns that AI's biggest risk in schools is students losing motivation to learn.",
+    "link": "https://www.techspot.com/news/113455-godmother-ai-biggest-ai-risk-schools-isnt-cheating.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.454669",
+    "insight": "Losing desire to learn outweighs cheating as AI's major school risk."
+  },
+  {
+    "title": "Chrome's new security feature could make stolen session cookies virtually useless",
+    "summary": "Chrome introduces a new security feature to prevent account takeover through session cookies. This feature makes stolen session cookies virtually useless by requiring proof of device ownership. It aims to protect users from common account takeover methods.",
+    "link": "https://www.techspot.com/news/113450-chrome-new-security-feature-could-make-stolen-session.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.454783",
+    "insight": "Device-bound session credentials lock out session cookie hijacking"
+  },
+  {
+    "title": "A four-year-old budget CPU is outselling AMD's best gaming chip in some markets",
+    "summary": "AMD's top CPUs dominate the Amazon bestseller list, but one older Intel CPU outsells its best gaming chip. This indicates Intel's budget offerings remain strong despite AMD's success. The older Intel CPU's popularity suggests its value and performance appeal to price-conscious buyers.",
+    "link": "https://www.techspot.com/news/113447-four-year-old-budget-cpu-outselling-amd-best.html",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-08-12T09:45:16.610784",
-    "insight": "Advanced connectivity and processing capabilities for industrial and AI applications"
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.454898",
+    "insight": "Budget Intel CPU's enduring popularity beats AMD's high-end gaming chip"
   },
   {
-    "title": "GEEKOM IT13 Max review Part 2: An Intel Core Ultra 9 185H mini PC tested with Windows 11 Pro (in 2026)",
-    "summary": "The GEEKOM IT13 Max mini PC is tested in detail with Windows 11 Pro, covering system performance, AI benchmarks, video playback, network performance, and thermal characteristics, comparing results to the GEEKOM GT1 Mega mini PC reviewed in 2024.",
-    "link": "https://www.cnx-software.com/2026/08/11/geekom-it13-max-review-part-2-an-intel-core-ultra-9-185h-mini-pc-tested-with-windows-11-pro-in-2026/",
+    "title": "Tesla knew some of its headlights were twice as bright as legally allowed, now it's recalling 20,000 vehicles",
+    "summary": "Tesla is recalling 20,000 vehicles due to excessively bright headlights. The affected models include 1,614 Model 3 sedans and 18,735 Model Y crossovers. The recall affects vehicles built between 2017 and 2023.",
+    "link": "https://www.techspot.com/news/113453-tesla-knew-headlights-twice-bright-legally-allowed-now.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.455049",
+    "insight": "Excessive brightness poses a risk to oncoming drivers and road safety."
+  },
+  {
+    "title": "A years-long investigation just unmasked a major torrent pirate, the how remains unclear",
+    "summary": "A 56-year-old man was arrested for allegedly being a major torrent pirate. He acted as an initial seeder, making files available for others to download. The case involves a 2026 drama file, 'Midnight Taxi'.",
+    "link": "https://www.techspot.com/news/113446-years-long-investigation-unmasked-major-torrent-pirate-how.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.455167",
+    "insight": "Unmasking a major torrent pirate could have significant implications for copyright holders."
+  },
+  {
+    "title": "FBI warns hackers are breaking into social media accounts to steal and sell users' nude photos",
+    "summary": "The FBI warns that hackers are breaking into social media accounts to steal and sell users' nude photos, targeting both strangers and known individuals.",
+    "link": "https://www.techspot.com/news/113451-fbi-warns-hackers-breaking-social-media-accounts-steal.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-13T09:45:41.455280",
+    "insight": "Personal data and intimate content can be exploited for monetary gain."
+  },
+  {
+    "title": "Samsung Odyssey G80HS 32\" Review: Going 6K",
+    "summary": "Samsung's Odyssey G80HS offers a 6K 165Hz display with dual 3K 330Hz mode for balanced productivity and gaming. However, its high price comes with compromises. This monitor is suitable for those seeking high refresh rates and resolution.",
+    "link": "https://www.techspot.com/review/3154-samsung-odyssey-g80hs/",
     "categories": [
       "Hardware",
       "Tech News"
     ],
-    "quality_score": 20,
-    "processed_date": "2026-08-12T09:45:16.610910",
-    "insight": "Intel Core Ultra 9 185H outperforms previous Meteor Lake CPU variants"
-  },
-  {
-    "title": "Border patrol deploys heat-sensing drones to track animals infected with screwworms",
-    "summary": "The US border patrol is using heat-sensing drones to track animals infected with screwworms, allowing for targeted measures to prevent the spread of the parasitic infection.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/border-patrol-deploys-heat-sensing-drones-track-animals-infected-screwworms",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.611781",
-    "insight": "Preventing screwworm spread protects livestock and agricultural industries."
-  },
-  {
-    "title": "Elon Musk says every future Tesla will have Starlink, starting with the Cybercab",
-    "summary": "Elon Musk announces that future Teslas, starting with the Cybercab, will feature Starlink capability",
-    "link": "https://www.techspot.com/news/113429-elon-musk-every-future-tesla-have-starlink-starting.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-12T09:45:16.612148",
-    "insight": "Integrating Starlink into Teslas enhances their in-car high-speed internet experience"
-  },
-  {
-    "title": "Amazon's new Texas data center could become the single largest polluter in the US",
-    "summary": "Amazon's new Texas data center may become the US' largest polluter due to its planned natural gas power plant. The data center is expected to generate electricity using 35 turbines. Local residents may face increased electricity costs as a result.",
-    "link": "https://www.techspot.com/news/113443-amazon-new-texas-data-center-could-become-single.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.612266",
-    "insight": "Relying on natural gas poses significant environmental and health risks"
-  },
-  {
-    "title": "Windows 11's latest update quietly ends support for picture passwords",
-    "summary": "Windows 11's latest update has disabled support for picture passwords, a feature introduced in 2012. This security-focused update, released on July 14, 2026, prioritizes quality improvements. Users who rely on picture passwords may need to switch to alternative authentication methods.",
-    "link": "https://www.techspot.com/news/113440-microsoft-removing-picture-password-support-windows.html",
-    "categories": [
-      "Tech News"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-08-12T09:45:16.612397",
-    "insight": "Legacy authentication methods face continuous discontinuation in modern Windows versions."
-  },
-  {
-    "title": "License plate readers can now track your phone too, thanks to new surveillance tech",
-    "summary": "License plate readers can now track devices through nearby signals, expanding surveillance capabilities. This allows the linking of vehicles and their owners to nearby devices, raising privacy concerns. Such technology can potentially monitor individuals on a larger scale.",
-    "link": "https://www.techspot.com/news/113442-license-plate-readers-can-now-track-phone-thanks.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.612514",
-    "insight": "Expansive surveillance through device tracking raises significant privacy concerns"
-  },
-  {
-    "title": "The FCC approved \"space mirrors\" that experts say could blind stargazers and disrupt wildlife",
-    "summary": "The FCC approved 'space mirrors' satellites that can redirect sunlight, sparking debate among experts.",
-    "link": "https://www.techspot.com/news/113437-fcc-approved-space-mirrors-experts-could-blind-stargazers.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.612636",
-    "insight": "Potential disruption to wildlife and stargazers' experience is a major concern."
-  },
-  {
-    "title": "Workers at OpenAI, Anthropic, and Meta say AI is making their jobs harder, not easier",
-    "summary": "Employees at OpenAI and Anthropic report long working hours and exhaustion.",
-    "link": "https://www.techspot.com/news/113434-workers-openai-anthropic-meta-ai-making-their-jobs.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-12T09:45:16.612737",
-    "insight": "Overwork is a growing concern in AI development and research."
-  },
-  {
-    "title": "SteamOS 3.8.25 beta expands controller and handheld support",
-    "summary": "SteamOS 3.8.25 beta improves support for handhelds and new controllers, along with various bug fixes.",
-    "link": "https://www.techspot.com/downloads/6351-steamos.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.612847",
-    "insight": "Enhancing Linux gaming experience beyond Steam Deck compatibility."
-  },
-  {
-    "title": "The FAA used Fortnite ads to recruit air traffic controllers, and just had its best hiring year yet",
-    "summary": "The FAA successfully recruited air traffic controllers through a Fortnite ad campaign. The campaign was launched in April as part of efforts to address the country's air traffic controller shortage. This led to the FAA's best hiring year yet.",
-    "link": "https://www.techspot.com/news/113438-us-hired-more-than-2000-air-traffic-controllers.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-12T09:45:16.612966",
-    "insight": "Gamification attracts talent in high-demand, underserved fields like air traffic control."
-  },
-  {
-    "title": "Microsoft raises Windows OEM fees for PC makers by 7% to 10%",
-    "summary": "Microsoft increases Windows OEM fees for PC manufacturers by 7% to 10%, affecting vendors differently.",
-    "link": "https://www.techspot.com/news/113430-microsoft-raises-windows-oem-fees-pc-makers-7.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.613083",
-    "insight": "Increased costs could lead to higher PC prices for consumers."
-  },
-  {
-    "title": "Modders are trying to bring Game Pass and Xbox games to Mac and Linux",
-    "summary": "An unofficial project is making Xbox games playable on Mac and Linux, overcoming core technical challenges.",
-    "link": "https://www.techspot.com/news/113428-modders-trying-bring-game-pass-xbox-games-mac.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-12T09:45:16.613203",
-    "insight": "Breaking platform barriers expands gaming options and increases accessibility."
-  },
-  {
-    "title": "Google is testing a new homepage that buries the search button for AI",
-    "summary": "Google is testing a new homepage that prioritizes AI-based features, potentially burying the traditional search button. This change aims to integrate AI Mode more seamlessly into the search experience. The move reflects Google's increasing focus on AI capabilities.",
-    "link": "https://www.techspot.com/news/113436-google-testing-new-homepage-buries-search-button-ai.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.613338",
-    "insight": "Google shifts its focus to AI, redefining traditional search functionality."
-  },
-  {
-    "title": "Take-Two says GTA 6's $80 price is a \"bargain\" because Rockstar delivers \"way more value\" than it charges",
-    "summary": "Take-Two CEO Strauss Zelnick defends GTA 6's $80 price, calling it a 'bargain'. He cites Rockstar's delivery of 'way more value' as justification. The statement comes ahead of the game's release.",
-    "link": "https://www.techspot.com/news/113435-gta-6-80-price-bargain-because-rockstar-delivers.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.613443",
-    "insight": "GTA 6's value justifies its price according to Take-Two executives."
-  },
-  {
-    "title": "Lenovo's leaked ThinkBook shows a rollable OLED display that expands horizontally",
-    "summary": "Lenovo's leaked ThinkBook features a rollable OLED display that expands horizontally. The device resembles a standard ThinkBook in its unexpanded form. It has a centered webcam and two USB-C ports.",
-    "link": "https://www.techspot.com/news/113427-lenovo-leaked-thinkbook-shows-rollable-oled-display-expands.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.613556",
-    "insight": "Rollable displays may revolutionize laptop design and functionality."
-  },
-  {
-    "title": "This $60 Aliens Switch game becomes unplayable as servers shut down, with no refunds offered",
-    "summary": "The Switch version of Aliens: Fireteam Elite has been delisted from the eShop, and its servers will shut down on August 5, with no refunds offered to buyers.",
-    "link": "https://www.techspot.com/news/113431-60-aliens-fireteam-elite-becomes-unplayable-switch-servers.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.613678",
-    "insight": "Gamers face financial loss due to unannounced game shutdowns."
-  },
-  {
-    "title": "Google Play is finally hosting a rival app store, thanks to its antitrust loss",
-    "summary": "Aptoide has become the first rival Android app store on Google Play, leveraging antitrust regulations.",
-    "link": "https://www.techspot.com/news/113426-google-play-finally-hosting-rival-app-store-thanks.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.613790",
-    "insight": "Google's antitrust loss paves way for rival app store integration."
-  },
-  {
-    "title": "Bernie Sanders tells OpenAI, Anthropic, and Meta to pause AI development or face Senate action",
-    "summary": "Bernie Sanders urges top AI companies to pause development due to safety concerns.",
-    "link": "https://www.techspot.com/news/113433-bernie-sanders-tells-openai-anthropic-meta-pause-ai.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-12T09:45:16.613899",
-    "insight": "Loss of control over AI agents poses significant societal risks."
-  },
-  {
-    "title": "Hydrogen 1,600-hp car takes aim at multiple land-speed records on Bonneville Salt Flats",
-    "summary": "The Hydromax is a 32-foot vehicle powered by two 800-hp hydrogen engines, producing 1,600 horsepower total. These engines mix pressurized hydrogen gas with air and ignite it, rather than using it in a fuel cell. The vehicle aims to break multiple land-speed records on the Bonneville Salt Flats.",
-    "link": "https://www.techspot.com/news/113432-hydrogen-powered-1600-hp-car-takes-aim-multiple.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-12T09:45:16.614013",
-    "insight": "Advancements in hydrogen combustion technology could revolutionize transportation performance."
+    "processed_date": "2026-08-13T09:45:41.455380",
+    "insight": "Balances high refresh rates and resolution for gaming and productivity."
   }
 ]

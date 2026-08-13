@@ -1,65 +1,85 @@
 # ⚡ Semiconductors
-**Week of August 12, 2026**
+**Week of August 13, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-08-12 09:46
+- **Articles this week:** 7
+- **Report generated:** 2026-08-13 09:47
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Forlinx AM62L32 Local EVM A low-power industrial SBC powered by TI s AM62L32 Cortex-A53/M4F SoC ⭐
+### 1. Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in unplugged benchmarks ⭐⭐
 
-Forlinx AM62L32 Local EVM is a low-power industrial single board computer built around the Texas Instruments AM62L32 SoC, offering a compact and integrated design for various industrial applications.
+Qualcomm's Snapdragon C Arm SoC outperforms Intel N250 CPU by up to 67% in unplugged benchmarks, showcasing the Arm SoC's efficiency and performance in $300+ Windows laptops.
 
-💡 *Integrated PCB design simplifies development and reduces space requirements.*
+💡 *Qualcomm's Arm SoC gains edge over Intel in budget laptops' efficiency.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/12/forlinx-am62l32-local-evm-a-low-power-industrial-sbc-ti-am62l32-cortex-a53-m4f-soc/)
-
----
-
-### 2. Laser wireless charging could keep drones airborne indefinitely improved receiver converts at 38.49% efficiency and uses nanocrystalline material for thermals 
-
-Researchers have developed a wireless laser charging system for drones, enabling them to stay airborne indefinitely without landing to recharge. The improved receiver achieves an efficiency of 38.49% and uses nanocrystalline material for thermal management. This technology could revolutionize drone applications.
-
-💡 *Endless flight capabilities for drones with wireless laser charging.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/wireless-ota-charging-with-lasers-could-keep-drones-airborne-indefinitely-improved-receiver-converts-at-38-49-percent-efficiency-and-uses-nanocrystalline-material-for-thermals)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/)
 
 ---
 
-### 3. SK hynix to expand production capacity in China as it mulls Solidigm IPO, report claims second phase of fab could boost local production by 50% 
+### 2. WCH CH32V407/467 RISC-V MCU integrates Fast Ethernet MAC + PHY, 480 Mbps USB 2.0 PHY, up to 8 MB on-chip PSRAM 
 
-SK hynix plans to expand production capacity in China, specifically targeting high-end data center SSDs. The upgrade is part of its strategy to meet growing demand and potentially list Solidigm on the NASDAQ. This expansion could boost local production by up to 50%.
+WCH CH32V407 and CH32V467 are 200 MHz RISC-V microcontrollers with built-in Ethernet, USB, and PSRAM, suitable for industrial IoT and edge AI applications.
 
-💡 *Boosting China's SSD production capacity meets growing global demand*
+💡 *High-performance RISC-V MCU for industrial IoT and edge AI applications emerges.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-expand-production-capacity-in-china-as-it-mulls-solidigm-ipo-report-claims-second-phase-of-fab-could-boost-local-production-by-50-percent)
-
----
-
-### 4. US lawmaker wants gov't to enforce regulation to ensure 'chipmakers conduct adequate due diligence on their customers' House member calls for Biden-era export control to be enforced 
-
-Congressman John Moolenaar asks the Commerce Department to clarify enforcement of the Foundry Due Diligence Rule, which aims to ensure chipmakers conduct adequate due diligence on their customers.
-
-💡 *Protecting national security through chipmaker customer vetting regulations*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/semiconductors/u-s-lawmaker-wants-govt-to-enforce-regulation-to-ensure-chipmakers-conduct-adequate-due-diligence-on-their-customers-house-member-calls-for-biden-era-export-control-to-be-enforced)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/13/wch-ch32v407-467-risc-v-mcu-integrates-fast-ethernet-mac-phy-480-mbps-usb-2-0-phy-up-to-8-mb-on-chip-psram/)
 
 ---
 
-### 5. Japanese authorities use new tool to identify initial torrent uploaders anti-piracy group says it identified seeder on popular anime torrenting website without torrent swarm monitoring 
+### 3. AI data center developers begin suing local jurisdictions behind bans and moratoriums claims range from officials exceeding authority to violations of due process and equal protection laws 
 
-Japanese authorities have identified and arrested the initial seeder on Nyaa, a popular anime torrenting website, marking a breakthrough in anti-piracy efforts.
+Data center developers sue local jurisdictions over temporary bans and moratoriums, citing due process and equal protection violations. The lawsuits have led to one county reversing their decision, while others continue to fight in court. This trend may spark changes in zoning regulations nationwide.
 
-💡 *Tracking initial uploaders hampers large-scale piracy networks significantly.*
+💡 *Government overreach on zoning regulations affects tech infrastructure development*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/initial-seeder-on-popular-anime-torrenting-site-nyaa-arrested-by-japanese-authorities-anti-piracy-group-claims-it-identified-user-without-torrent-swarm-monitoring)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-developers-begin-suing-local-jurisdictions-behind-bans-and-moratoriums-claims-range-from-officials-exceeding-authority-to-violations-of-due-process-and-equal-protection-laws)
+
+---
+
+### 4. Suspected China-linked hackers used AI to run the first-ever end-to-end autonomous cyberattack on Taiwan's government, Israeli firm says open-source-built tool continuously devised effective hack strategies in real-time 
+
+Suspected China-linked hackers used AI to breach Taiwanese government systems, compromising 85 accounts and stealing over 2,500 records.
+
+💡 *Autonomous AI agents heighten the risk of real-time, adaptive cyberattacks globally.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/suspected-china-linked-hackers-used-ai-to-run-the-first-ever-end-to-end-autonomous-cyberattack-on-taiwans-government-israeli-firm-says-open-source-built-tool-continuously-devised-effective-hack-strategies-in-real-time)
+
+---
+
+### 5. Samsung Foundry updates process roadmap to move 1.4nm node to 2029 high-NA EUV will enable 1nm-class and smaller nodes in 2030 and beyond 
+
+Samsung Foundry delays 1.4nm-class node to 2029 and plans to adopt High-NA EUV for 1nm-class process technology in 2030.
+
+💡 *Advancements in EUV enable further miniaturization of semiconductor nodes*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsung-foundry-updates-process-roadmap-to-move-1-4nm-node-to-2029-high-na-euv-will-enable-1nm-class-and-smaller-nodes-in-2030-and-beyond)
+
+---
+
+### 6. Google unveils Pixel 11 series featuring Tensor G6 SoC, Titan M3 security chip, and Android 17, starting at $899 
+
+Google's Pixel 11 series features Tensor G6 SoC, Titan M3 security, and Android 17, starting at $899.
+
+💡 *Google's latest flagship offers significant performance and security upgrades.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113458-google-unveils-pixel-11-series-featuring-tensor-g6.html)
+
+---
+
+### 7. A years-long investigation just unmasked a major torrent pirate, the how remains unclear 
+
+A 56-year-old man was arrested for allegedly being a major torrent pirate. He acted as an initial seeder, making files available for others to download. The case involves a 2026 drama file, 'Midnight Taxi'.
+
+💡 *Unmasking a major torrent pirate could have significant implications for copyright holders.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113446-years-long-investigation-unmasked-major-torrent-pirate-how.html)
 
 ---
 

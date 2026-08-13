@@ -1,125 +1,145 @@
 # 💻 Hardware
-**Week of August 12, 2026**
+**Week of August 13, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 11
-- **Report generated:** 2026-08-12 09:46
+- **Articles this week:** 13
+- **Report generated:** 2026-08-13 09:47
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. GEEKOM IT13 Max review Part 2: An Intel Core Ultra 9 185H mini PC tested with Windows 11 Pro (in 2026) ⭐
+### 1. Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in unplugged benchmarks ⭐⭐
 
-The GEEKOM IT13 Max mini PC is tested in detail with Windows 11 Pro, covering system performance, AI benchmarks, video playback, network performance, and thermal characteristics, comparing results to the GEEKOM GT1 Mega mini PC reviewed in 2024.
+Qualcomm's Snapdragon C Arm SoC outperforms Intel N250 CPU by up to 67% in unplugged benchmarks, showcasing the Arm SoC's efficiency and performance in $300+ Windows laptops.
 
-💡 *Intel Core Ultra 9 185H outperforms previous Meteor Lake CPU variants*
+💡 *Qualcomm's Arm SoC gains edge over Intel in budget laptops' efficiency.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/11/geekom-it13-max-review-part-2-an-intel-core-ultra-9-185h-mini-pc-tested-with-windows-11-pro-in-2026/)
-
----
-
-### 2. DeepCool AK620 and AK400 G2 Review: Quiet and powerful, with woodgrain or a digital display ⭐
-
-DeepCool's AK G2 series air coolers come with unique design options, featuring either woodgrain tops or a digital display. We tested the AK620 and AK400 G2 models with a high-performance AMD CPU to evaluate their thermal efficiency. The coolers demonstrated quiet and powerful performance.
-
-💡 *Efficient air cooling for high-performance CPUs with minimal noise.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/deepcool-ak620-and-ak400-g2-review-quiet-and-powerful-with-woodgrain-or-a-digital-display)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/)
 
 ---
 
-### 3. Forlinx AM62L32 Local EVM A low-power industrial SBC powered by TI s AM62L32 Cortex-A53/M4F SoC ⭐
+### 2. The current state of PCIe 6.0 SSDs and controllers Marvell, Phison, and SMI prepare controllers as drives finally come to market following years of delays 
 
-Forlinx AM62L32 Local EVM is a low-power industrial single board computer built around the Texas Instruments AM62L32 SoC, offering a compact and integrated design for various industrial applications.
+PCIe 6.0 SSDs with Marvell, Phison, and SMI controllers are almost here, offering faster speeds and capacities. Despite years of delays, Micron and Samsung have released their SSDs. Expect massive data storage and transfer rates with these new drives.
 
-💡 *Integrated PCB design simplifies development and reduces space requirements.*
+💡 *Massive data storage capacities and ultra-fast transfer speeds arrive soon.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/12/forlinx-am62l32-local-evm-a-low-power-industrial-sbc-ti-am62l32-cortex-a53-m4f-soc/)
-
----
-
-### 4. NXP FRDM-IMX95-PRO i.MX 95 board features 10GbE, faster 6400 MT/s LPDDR5 memory, dual M.2 expansion ⭐
-
-NXP introduces the FRDM-IMX95-PRO board, a compact development kit based on the i.MX 95 processor. It features a 10GbE interface, Wi-Fi 6, Bluetooth 5.4, and 16 GB LPDDR5-6400 memory for AI, robotics, and industrial applications.
-
-💡 *Advanced connectivity and processing capabilities for industrial and AI applications*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/11/nxp-frdm-imx95-pro-i-mx-95-board-features-10gbe-faster-6400-mt-s-lpddr5-memory-dual-m-2-expansion/)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/the-current-state-of-pcie-6-0-ssds-and-controllers-marvell-phison-and-smi-prepare-controllers-as-drives-finally-come-to-market-following-years-of-delays)
 
 ---
 
-### 5. Razer Naga V3 Pro Review: My new 23-button mouse 
+### 3. Qualcomm details Snapdragon C specs for $300 laptops for the first time claims 67% faster performance on battery than Intel N250, AC performance remains a mystery 
 
-The Razer Naga V3 Pro features a 23-button form factor with upgrades including a new sensor and switches, resulting in better performance and battery life.
+Qualcomm has detailed the specs for its Snapdragon C processor, offering 8 cores and all-day battery life. The processor claims 67% faster performance on battery than Intel N250. However, its AC performance remains unclear.
 
-💡 *Enhanced gaming performance through upgraded hardware and design features.*
+💡 *Qualcomm challenges Intel in battery efficiency for budget laptops.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/peripherals/gaming-mice/razer-naga-v3-pro-review)
-
----
-
-### 6. MINISFORUM Elite Mini M2 Air-304 barebone Wildcat Lake mini PC sells for $263 
-
-MINISFORUM Elite Mini M2 Air-304 is a barebone mini PC powered by an Intel Core 3 304 Wildcat Lake processor. It features a DDR5 SO-DIMM slot and M.2 PCIe Gen4 x4 socket for customization. The mini PC is available for $263.
-
-💡 *First Wildcat Lake barebone mini PC offers user customization options.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/12/minisforum-elite-mini-m2-air-304-barebone-wildcat-lake-mini-pc/)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery)
 
 ---
 
-### 7. AMD highlights Ryzen 5 5500 briefly topping Amazon CPU best sellers, beating 9800X3D $80 DDR4 CPU remains a top seller during memory crunch 
+### 4. QIDI Plus5 3D printer review: The best one yet 
 
-AMD's Ryzen 5 5500 briefly topped Amazon's CPU best sellers list, beating more powerful CPUs. This was due to a memory crunch causing CPU shortages. The $80 Ryzen 5 5500, a four-year-old model, remained a top seller.
+QIDI Plus5 is a high-performance 3D printer that boasts large build volume and delivers excellent print quality with difficult filaments.
 
-💡 *CPU shortages lead to unexpected best sellers during memory crunches*
+💡 *Rugged 3D printing capabilities for demanding applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-highlights-ryzen-5-5500-briefly-topping-amazon-cpu-best-sellers-beating-9800x3d-usd80-ddr4-cpu-remains-a-top-seller-during-memory-crunch)
-
----
-
-### 8. Walmart has slashed $600 off this RTX 5060-powered gaming laptop, now just $1,099 get Gigabyte's 16-inch Aero X16 with 16GB of RAM and a 1TB SSD 
-
-Gigabyte's 16-inch Aero X16 gaming laptop is discounted by $600, now priced at $1,099. This budget-friendly laptop features an RTX 5060 GPU, 16GB of RAM, and a 1TB SSD.
-
-💡 *A budget gaming laptop with high-end specs at a lower price*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd600-off-this-rtx-5060-powered-gaming-laptop-now-just-usd1-099-get-gigabytes-16-inch-aero-x16-with-16gb-of-ram-and-a-1tb-ssd)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/qidi-plus5-3d-printer-review)
 
 ---
 
-### 9. SteamOS 3.8.25 beta expands controller and handheld support 
+### 5. YMTC breaks into the top three NAND makers for the first time as AI servers swallow 48% of all flash Chinese vendor has 14% share, according to research 
 
-SteamOS 3.8.25 beta improves support for handhelds and new controllers, along with various bug fixes.
+YMTC has entered the top three NAND makers for the first time, with a 14% share of the market, driven by the growing demand for AI servers, which account for 48% of all flash sales.
 
-💡 *Enhancing Linux gaming experience beyond Steam Deck compatibility.*
+💡 *YMTC's rise reflects China's increasing role in global flash memory supply.*
 
-🔗 [Read Full Article](https://www.techspot.com/downloads/6351-steamos.html)
-
----
-
-### 10. Microsoft raises Windows OEM fees for PC makers by 7% to 10% 
-
-Microsoft increases Windows OEM fees for PC manufacturers by 7% to 10%, affecting vendors differently.
-
-💡 *Increased costs could lead to higher PC prices for consumers.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113430-microsoft-raises-windows-oem-fees-pc-makers-7.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ymtc-breaks-into-the-top-three-nand-makers-for-the-first-time)
 
 ---
 
-### 11. This $60 Aliens Switch game becomes unplayable as servers shut down, with no refunds offered 
+### 6. GMKtec Evo-T2 review: Panther Lake for a price 
 
-The Switch version of Aliens: Fireteam Elite has been delisted from the eShop, and its servers will shut down on August 5, with no refunds offered to buyers.
+GMKtec's Evo-T2 mini PC offers a compact personal AI workstation with Intel's 18A Panther Lake silicon, 64GB LPDDR5X-8533 RAM, and capabilities for office productivity and gaming.
 
-💡 *Gamers face financial loss due to unannounced game shutdowns.*
+💡 *High-end performance in a compact, affordable package emerges in the market.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113431-60-aliens-fireteam-elite-becomes-unplayable-switch-servers.html)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/gmktec-evo-t2-review)
+
+---
+
+### 7. Intel CEO hints at return to the memory business says market is ripe for innovation, hints at stacking memory and CPU 
+
+Intel's CEO, Lip-Bu Tan, hints at a potential return to the memory business. He believes the market is ripe for innovation, possibly related to stacking memory and CPU. Tan also mentioned a personal pet project focused on a new memory architecture.
+
+💡 *Intel's resurgence in memory business could disrupt traditional CPU market dynamics.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/intel-ceo-hints-at-return-to-the-memory-business-says-market-is-ripe-for-innovation-hints-at-stacking-memory-and-cpu)
+
+---
+
+### 8. WCH CH32V407/467 RISC-V MCU integrates Fast Ethernet MAC + PHY, 480 Mbps USB 2.0 PHY, up to 8 MB on-chip PSRAM 
+
+WCH CH32V407 and CH32V467 are 200 MHz RISC-V microcontrollers with built-in Ethernet, USB, and PSRAM, suitable for industrial IoT and edge AI applications.
+
+💡 *High-performance RISC-V MCU for industrial IoT and edge AI applications emerges.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/13/wch-ch32v407-467-risc-v-mcu-integrates-fast-ethernet-mac-phy-480-mbps-usb-2-0-phy-up-to-8-mb-on-chip-psram/)
+
+---
+
+### 9. Apollo Automation launches $40 official ESPHome Starter Kit with ESP32-C6 board, four FPC modules 
+
+Apollo Automation launches the ESPHome Starter Kit, an official ESPHome starter kit designed with a ESP32-C6 board and four FPC modules for various sensors. The kit offers Wi-Fi 6, Bluetooth LE, and Thread/Zigbee connectivity. It's priced at $40.
+
+💡 *Low-cost, easy-to-use smart home automation kit with built-in wireless connectivity*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/)
+
+---
+
+### 10. Samsung Odyssey G80HS 32" Review: Going 6K 
+
+Samsung's Odyssey G80HS offers a 6K 165Hz display with dual 3K 330Hz mode for balanced productivity and gaming. However, its high price comes with compromises. This monitor is suitable for those seeking high refresh rates and resolution.
+
+💡 *Balances high refresh rates and resolution for gaming and productivity.*
+
+🔗 [Read Full Article](https://www.techspot.com/review/3154-samsung-odyssey-g80hs/)
+
+---
+
+### 11. Vibe-coded app adds a 3D video rental storefront to your Jellyfin HTPC self-hosted, open-source project brings back memories of browsing for VHS tapes on Saturday afternoons 
+
+A Jellyfin front-end has been vibe-coded to mimic old video rental stores, bringing back nostalgic memories of browsing VHS tapes. This immersive experience provides a complete video rental storefront simulation. It's a unique twist on a self-hosted media platform.
+
+💡 *Reviving nostalgic experiences in modern self-hosted media platforms is innovative.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/applications/vibe-coded-app-adds-a-3d-video-rental-storefront-to-your-jellyfin-htpc-self-hosted-open-source-project-brings-back-memories-of-browsing-for-vhs-tapes-on-saturday-afternoons)
+
+---
+
+### 12. Nova Lake CPUs with cut-down E-core clusters may still retain full cache pool, says new leak 8P+12E config predictions revised from 33MB to 36MB, 4P+4E config from 15MB to 18MB 
+
+Nova Lake CPUs with reduced E-core clusters may retain full cache pool, according to a recent leak.
+
+💡 *Cache pool retention affects performance in CPU-intensive tasks and workloads.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/nova-lake-cpus-with-cut-down-e-core-clusters-may-still-retain-full-cache-pool-says-new-leak-8p-12e-config-predictions-revised-from-33mb-to-36mb-4p-4e-config-from-15mb-to-18mb)
+
+---
+
+### 13. A four-year-old budget CPU is outselling AMD's best gaming chip in some markets 
+
+AMD's top CPUs dominate the Amazon bestseller list, but one older Intel CPU outsells its best gaming chip. This indicates Intel's budget offerings remain strong despite AMD's success. The older Intel CPU's popularity suggests its value and performance appeal to price-conscious buyers.
+
+💡 *Budget Intel CPU's enduring popularity beats AMD's high-end gaming chip*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113447-four-year-old-budget-cpu-outselling-amd-best.html)
 
 ---
 

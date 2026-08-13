@@ -1,75 +1,85 @@
 # 🎮 GPUs
-**Week of August 12, 2026**
+**Week of August 13, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-08-12 09:46
+- **Articles this week:** 7
+- **Report generated:** 2026-08-13 09:47
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price unlocking 40 CUs, eight Zen 2 cores on the repurposed PS5 APU ⭐
+### 1. Modders give the Steam Machine a Radeon eGPU and water cooling, because why not 
 
-The BC-250 APU has seen significant advancements with a 40CU unlock and Zen 2 core enablement, offering improved performance at a lower cost.
+Modders have enhanced the Steam Machine's performance through eGPU and water cooling modifications, increasing its capabilities. One modder successfully added external graphics, while another created a custom water block. This boosts the system's performance and efficiency.
 
-💡 *Unlocking Zen 2 cores at half the price of Steam Machines*
+💡 *Performance upgrades for Steam Machines expand gaming possibilities.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/benchmarking-amds-bc-250-offering-steam-machine-like-performance-at-half-the-price-unlocking-40-cus-eight-zen-2-cores-on-the-repurposed-ps5-apu)
-
----
-
-### 2. NXP FRDM-IMX95-PRO i.MX 95 board features 10GbE, faster 6400 MT/s LPDDR5 memory, dual M.2 expansion ⭐
-
-NXP introduces the FRDM-IMX95-PRO board, a compact development kit based on the i.MX 95 processor. It features a 10GbE interface, Wi-Fi 6, Bluetooth 5.4, and 16 GB LPDDR5-6400 memory for AI, robotics, and industrial applications.
-
-💡 *Advanced connectivity and processing capabilities for industrial and AI applications*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/11/nxp-frdm-imx95-pro-i-mx-95-board-features-10gbe-faster-6400-mt-s-lpddr5-memory-dual-m-2-expansion/)
+🔗 [Read Full Article](https://www.techspot.com/news/113444-modders-give-steam-machine-radeon-egpu-water-cooling.html)
 
 ---
 
-### 3. The FAA used Fortnite ads to recruit air traffic controllers, and just had its best hiring year yet 
+### 2. Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 96GB card started pre-orders below $8,000 last year 
 
-The FAA successfully recruited air traffic controllers through a Fortnite ad campaign. The campaign was launched in April as part of efforts to address the country's air traffic controller shortage. This led to the FAA's best hiring year yet.
+Nvidia's RTX 6000 Pro Blackwell data center GPU has doubled in price since launch, now at $16,000, up 20% in just a couple of months, driven by AI demand and unprecedented data center buildouts.
 
-💡 *Gamification attracts talent in high-demand, underserved fields like air traffic control.*
+💡 *AI-driven data center growth fuels GPU price surges dramatically.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113438-us-hired-more-than-2000-air-traffic-controllers.html)
-
----
-
-### 4. Nvidia teams up with financial giants to create $500 billion AI infrastructure funds six investment firms to enable access to long-term funding at attractive rates 
-
-Nvidia partners with major financial institutions to create a $500 billion AI infrastructure fund, providing long-term funding at attractive rates to customers seeking to build AI data centers.
-
-💡 *Access to affordable, long-term AI infrastructure funding supports widespread adoption.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-teams-up-with-financial-giants-to-create-usd500-billion-ai-infrastructure-funds-six-investment-firms-to-enable-access-to-long-term-funding-at-attractive-rates)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year)
 
 ---
 
-### 5. Modder adds Radeon RX 9070 XT eGPU to Steam Machine, runs Crimson Desert at over 100 FPS on High moves boot drive to USB-C port, leverages M.2 to OCuLink adaptor and eGPU dock 
+### 3. CoreWeave proves Nvidia's aging AI GPUs from 2020 can generate profit nine years after deployment, signs A100 contracts into 2029 power constraints and legacy infrastructure keep old GPUs profitable 
 
-A Redditor successfully connected an RX 9070 XT eGPU to a Steam Machine, achieving high frame rates in Crimson Desert.
+CoreWeave's revenue surged 112% year-over-year to $2.58 billion in quarterly earnings. This success can be attributed to the profitability of Nvidia's aging AI GPUs from 2020. The company is still signing contracts for the A100 despite power constraints.
 
-💡 *Enhancing eGPU capabilities expands gaming possibilities for Steam Machine users*
+💡 *Legacy infrastructure maintains profitability of outdated AI GPUs nine years later*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/modder-adds-radeon-rx-9070-xt-egpu-to-steam-machine-runs-crimson-desert-at-over-100-fps-on-high-moves-boot-drive-to-usb-c-port-leverages-m-2-to-oculink-adaptor-and-egpu-dock)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/coreweave-ceo-mike-intrator-says-it-has-signed-an-a100-contract-running-into-2029)
 
 ---
 
-### 6. Walmart has slashed $600 off this RTX 5060-powered gaming laptop, now just $1,099 get Gigabyte's 16-inch Aero X16 with 16GB of RAM and a 1TB SSD 
+### 4. Asobi Remote Play app lets gamers stream PS4 and PS5 games on the Steam Deck, even without a console dev breaks PlayStation Plus Premium cloud gaming support free of the PlayStation Portal 
 
-Gigabyte's 16-inch Aero X16 gaming laptop is discounted by $600, now priced at $1,099. This budget-friendly laptop features an RTX 5060 GPU, 16GB of RAM, and a 1TB SSD.
+The Asobi: Remote Play app extends PlayStation Plus Premium cloud gaming to Steam Deck and Linux devices, allowing users to stream PS4 and PS5 games without a console. This service goes beyond the PlayStation Portal's limited cloud gaming support. It enables users to access PlayStation games on a wider range of devices.
 
-💡 *A budget gaming laptop with high-end specs at a lower price*
+💡 *Breaking console barriers with cloud gaming on multiple platforms.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd600-off-this-rtx-5060-powered-gaming-laptop-now-just-usd1-099-get-gigabytes-16-inch-aero-x16-with-16gb-of-ram-and-a-1tb-ssd)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal)
+
+---
+
+### 5. Save over $600 on a massive 18-inch gaming laptop as it falls to a new all-time low price at Amazon Acer's Predator Helios Neo 18 AI packs an RTX 5070 Ti and 32GB of memory 
+
+Acer's Predator Helios Neo 18 AI gaming laptop has reached an all-time low price at Amazon, with a significant $600 price drop. This massive 18-inch laptop features an RTX 5070 Ti and 32GB of memory. It's a great opportunity for gamers to upgrade their devices.
+
+💡 *Gaming laptops become more affordable for budget-conscious buyers suddenly*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/save-over-usd600-on-a-massive-18-inch-gaming-laptop-as-it-falls-to-a-new-all-time-low-price-at-amazon-acers-predator-helios-neo-18-ai-packs-an-rtx-5070-ti-and-32gb-of-memory)
+
+---
+
+### 6. Google unveils Pixel 11 series featuring Tensor G6 SoC, Titan M3 security chip, and Android 17, starting at $899 
+
+Google's Pixel 11 series features Tensor G6 SoC, Titan M3 security, and Android 17, starting at $899.
+
+💡 *Google's latest flagship offers significant performance and security upgrades.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113458-google-unveils-pixel-11-series-featuring-tensor-g6.html)
+
+---
+
+### 7. A four-year-old budget CPU is outselling AMD's best gaming chip in some markets 
+
+AMD's top CPUs dominate the Amazon bestseller list, but one older Intel CPU outsells its best gaming chip. This indicates Intel's budget offerings remain strong despite AMD's success. The older Intel CPU's popularity suggests its value and performance appeal to price-conscious buyers.
+
+💡 *Budget Intel CPU's enduring popularity beats AMD's high-end gaming chip*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113447-four-year-old-budget-cpu-outselling-amd-best.html)
 
 ---
 
